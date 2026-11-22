@@ -68,6 +68,12 @@ _________________
 
 वानरश्रेष्ठ नीलनु युद्धदल्लि राक्षस सेनापति प्रहस्तनन्नु संहरिसिदाग, समुद्रदन्तॆ वेगशाली, भयानक आयुधगळन्नु धरिसिद राक्षसराजन सैन्यवु ओडिहोयितु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that commander of the Rākṣasa army (tasmin rākṣasa-sainya-pāle) had been slain in battle by the bull among leaping monkeys (plavaṃgamānām ṛṣabheṇa), the army of the Rākṣasa king, wielding terrible weapons and equal to the ocean in impetuosity (bhīmāyudhaṃ sāgara-vega-tulyam), fled in all directions (vidudruve).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -104,6 +110,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसरु निशाचरराज रावणन बळिगॆ होगि अग्निपुत्र नीलनिन्द प्रहस्तनु मरणिसिद समाचार तिळिसिदरु. अवर मातन्नु केळि रावणनिगॆ भारी क्रोध उण्टायितु.॥.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Going to the lord of Rākṣasas (gatvā tu rakṣo-'dhipateḥ), they reported that the commander-in-chief had been slain by the son of Fire (senā-patiṃ pāvaka-sūnu-śastam); and hearing those words of theirs, the lord of Rākṣasas fell under the sway of wrath (krodha-vaśaṃ jagāma).
 </details>
 </details>
 
@@ -146,6 +158,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 युद्धदल्लि प्रहस्तनु सत्तुहोद ऎन्दु केळुत्तले रावणनु सिट्टिनिन्द उरिदॆद्दनु. आदरॆ स्वल्प हॊत्तिनल्ले अवन चित्त प्रहस्तनिगागि शोकाकुलवादनु. प्रधान देवतॆगळॊन्दिगॆ मातुकतॆ नडॆसुव इन्द्रनन्तॆ राक्षस सैन्यद मुख्य अधिकारिगळल्लि इन्तॆदनु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that Prahasta had been slain in battle (saṃkhye prahastaṃ nihataṃ niśamya), afflicted with wrath and his mind overwhelmed by grief (krodhārditaḥ śoka-parīta-cetāḥ), he spoke to those foremost troop-leaders of the Rākṣasas (rākṣasa-yūtha-mukhyān), just as Indra [speaks] to the foremost troop-leaders of the immortals (nirjara-yūtha-mukhyān):
 </details>
 </details>
 
@@ -193,6 +211,12 @@ destroyer of Indra's host; *me sainyapaalaH* = the leader of my army; *saanuyaat
 "That enemy is not to be despised; under whose blows the destroyer of Indra's host
 the leader of my army with his followers and elephants fell."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“No disdain must be shown toward the foe (nāvajñā ripave kāryā), by whom my army-commander—the crusher of Indra's host (indra-bala-sādanaḥ)—has been destroyed along with his retinue and elephants (sānuyātraḥ sa-kuñjaraḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +262,12 @@ will go; *svayameva* = myself; *tat* = to that; *adbhutam* = wonderful;
 
 "I myself shall go to that wonderful battle-front without hesitation in order to
 destroy the enemies and to gain victory."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore I myself (so 'haṃ svayam eva), without hesitation (avicārayan), shall go forth to that wondrous forefront of battle (raṇa-śīrṣaṃ tad adbhutam) for the destruction of the enemy and for victory (ripu-vināśāya vijayāya)!”
 </details>
 </details>
 
@@ -290,6 +320,12 @@ the earth; *kapishoNitaiH* = with the blood of monkeys.
 "As a forest is consumed by blazing fires, so shall I scorch that army of monkeys
 now along with Lakshmana and Rama with a multitude of arrows. Today, I shall satiate the earth with
 the blood of the monkeys."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today I shall burn up that Vānara army (tad vānarānīkaṃ nirdahiṣyāmi), together with Rāma and Lakṣmaṇa (rāmaṃ ca saha-lakṣmaṇam), with floods of arrows like a forest with blazing fires (bāṇaughair vanaṃ dīptair ivāgnibhiḥ); today I shall satiate the earth with the blood of monkeys (pṛthivīṃ kapi-śoṇitaiḥ)!”
 </details>
 </details>
 
@@ -345,6 +381,12 @@ body.
 Speaking thus, Ravana the enemy of the Lord of celestials ascended his chariot which
 shone like a flame and was yoked to a team of excellent horses with its brilliance of an effulgent
 body.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, that enemy of the king of the immortals (amara-rāja-śatruḥ) ascended his chariot (rathaṃ samāruroha), which shone like fire (jvalana-prakāśam), yoked with rows of the finest steeds (turaṃgottama-rāji-yuktam), radiant and blazing with its own splendor (prakāśamānaṃ vapuṣā jvalantam).
 </details>
 </details>
 
@@ -406,6 +448,12 @@ encomiums.
 
 अवनु हॊरटाग शङ्ख, भेरि, पणव मुन्ताद वाद्यगळु मॊळगिदुवु. योधर चप्पाळॆ तट्टि गर्जिसुत्ता सिंहनाद माडतॊडगिदरु. वन्दिगळु पवित्रस्तुतिगळिन्द राक्षसश्रेष्ठ रावणनन्नु चॆन्नागि सुत्तिस तॊडगिदरु. हीगॆ अवनु प्रयाण माडिदनु.॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored with the blasts of conchs, kettle-drums, and tabors (śaṅkha-bherī-paṇava-praṇādaiḥ), with arm-slappings, battle-cries, and lion-roars (āsphoṭita-kṣveḍita-siṃha-nādaiḥ), and with auspicious hymns of praise (puṇyaiḥ stavaiś cāpi supūjyamānaḥ), that chief of Rākṣasa kings then marched forth (tadā yayau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -460,6 +508,12 @@ genii.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पर्वत मत्तु मेघगळन्तॆ कप्पाद विशाल रूपवुळ्ळ अग्नियन्तॆ प्रज्वलित अग्नियन्तॆ नेत्रगळुळ्ळ मांसाहारी राक्षसरिन्द सुत्तुवरॆदु राक्षसराज रावणनु, भूतगणगळिन्द परिवृतनाद देवेश्वर रुद्रनन्तॆ शोभिसुत्तिद्दनु.॥.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by flesh-eating demons (māṃsāśanaiḥ) with forms resembling mountains and storm-clouds (śaila-jīmūta-nikāśa-rūpaiḥ) and eyes blazing like fire (pāvaka-dīpta-netraiḥ), that chief of Rākṣasa kings shone like the immortal lord Rudra surrounded by his Bhūta hosts (bhūtair vṛto rudra ivāmareśaḥ).
 </details>
 </details>
 
@@ -533,6 +587,12 @@ While Prahasta the Army chief of demons was slain in the battle by Nila the fore
 among the monkeys, Ravana's army possessing terrible arms took to flight with the speed of a
 tide.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Issuing forth suddenly from the city (tato nagaryāḥ sahasā niṣkramya), that lord of mighty energy (mahaujāḥ) beheld that fierce Vānara army (tad vānara-sainyam ugram), roaring like the great ocean and thunderclouds (mahārṇavābhra-stanitam), standing ready with trees and boulders in their hands (pādapa-śaila-hastam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -588,6 +648,12 @@ Seeing that army of demons who were excessively furious, Rama whose arms resembl
 great serpents, accompanied by his forces and having great fortune, spoke to Vibhishana the best
 among the wielders of weapons (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that exceedingly fierce Rākṣasa host (tad rākṣasānīkam atipracaṇḍam ālokya), Rāma, whose arms were like lordly serpents (bhujagendra-bāhuḥ), followed by his army and endowed with vast fortune (senānugataḥ pṛthu-śrīḥ), spoke to Vibhīṣaṇa, the foremost of weapon-bearers (śastra-bhṛtāṃ variṣṭham):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -624,6 +690,12 @@ among the wielders of weapons (as follows):
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नाना प्रकारद ध्वज-पताकॆगळिन्द, छत्रगळिन्द सुशोभितवाद, प्रास, खड्ग, शूल आदि अस्त्र-शस्त्रगळिन्द सम्पन्नवाद, अजेय निर्भीत योधरिन्द सेवित, महेन्द्र पर्वतदन्तॆ विशालकाय आनॆगळिन्द तुम्बिद ई सैन्य यारदागिदॆ.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whose is this unshakable army (kasyedam akṣobhyaṃ sainyam), graced with manifold pennants, banners, and parasols (nānā-patākā-dhvaja-chatra-juṣṭam), furnished with javelins, swords, pikes, bows, and missiles (prāsāsi-śūlāyudha-śastra-juṣṭam), thronged with fearless warriors (abhīru-juṣṭam), and arrayed with elephants resembling Mount Mahendra (mahendropama-nāga-juṣṭam)?”
 </details>
 </details>
 
@@ -680,6 +752,12 @@ Hearing the words of Rama, Vibhishana the equal of Indra in valour, then narrate
 Rama about the choicest army of the foremost among demons of the highest peculiarity (as
 follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, hearing the words of Rāma (rāmasya niśamya vākyam), Vibhīṣaṇa, equal to Śakra in valor (śakra-samāna-vīryaḥ), described to Rāma the choicest flower of the army (bala-pravekam) of those mighty-souled Rākṣasa bulls (mahātmanāṃ rākṣasa-puṃgavānām):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +803,12 @@ _________________
 राजने! आनॆय मेलॆ कुळितिरुव उदयिसुत्तिरुव सूर्यनन्तॆ कॆम्पाद बण्णुवुळ्ळ तन्न भारदिन्द आनॆय मस्तकवन्नु नडुगिसुत्ता इत्तबरुत्तिरुव महामनस्वी वीरनु अकम्पननॆन्दु तिळि.॥14॥*
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who yonder rides upon the shoulder of an elephant (yo 'sau gaja-skandha-gato mahātmā), his coppery face resembling the newly risen sun (navoditārkopama-tāmra-vaktraḥ), making the elephant's head tremble [under his weight] as he advances (saṃkampayan nāga-śiro 'bhyupaiti)—know him to be Akampana, O King (akampanaṃ tv enam avehi rājan)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -782,6 +866,12 @@ bow, whose standard bears the image of a lion, and who shines like unto an eleph
 terrible curved tusks, he is Indrajit who is renowned for the boons he had received from
 Brahma."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who yonder stands in his chariot bearing the lion-banner (mṛga-rāja-ketuḥ), brandishing a bow gleaming like Indra's rainbow (dhunvan dhanuḥ śakra-dhanuḥ-prakāśam), and shines like an elephant with fierce, curving tusks (karīva bhāty ugra-vivṛtta-daṃṣṭraḥ)—he is Indrajit by name, preeminent through boons (vara-pradhānaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -837,6 +927,12 @@ grown body; *ayam* = he; *naamnaa* = is named; *atikaayat* = as Atikaya.
 his chariot, a mighty warrior, of superior strength, who wields a bow of unequalled size and having
 an exceedingly grown body, he is called Atikaya."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And this bowman here, standing on his chariot, resembling Mount Vindhya, the Sunset Mountain, and Mount Mahendra (vindhyāsta-mahendra-kalpaḥ), a super-charioteer of surpassing valor (atiratho 'tivīraḥ), drawing a bow of matchless measure (visphārayaṃś cāpam atulya-mānam)—he is Atikāya by name, of colossal body (ativivṛddha-kāyaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -890,6 +986,12 @@ of the highest peculiarity; *mahodaranaam* = is called Mahodara.
 "He who, with tawny eyes resembling the dawn, riding an elephant with its bells
 jangling, who is shouting aloud, he is that strong demon of the highest peculiarity is called
 Mahodara."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who yonder, with eyes coppery like the newly risen sun (navārkodita-tāmra-cakṣuḥ), having mounted a fierce elephant resounding with the clangor of bells (āruhya ghaṇṭā-ninada-praṇādaṃ gajaṃ kharam), roars aloud—this hero is Mahodara by name.”
 </details>
 </details>
 
@@ -945,6 +1047,12 @@ Pishacha."
 "He who, ascending the brilliantly caparisoned horse raising high a gleaming
 javelin, possesses a velocity of a well-directed thunder-bolt and resembles a mass of evening
 clouds and a mountain, he is Pishacha."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And he who yonder, having mounted a steed decked in variegated golden trappings (hayaṃ kāñcana-citra-bhāṇḍam āruhya) and shining like an evening cloud upon a mountain (saṃdhyābhra-giri-prakāśam), brandishes a javelin wreathed in rays (prāsaṃ samudyamya marīci-naddham)—this is Piśāca, equal to a thunderbolt in speed (aśani-tulya-vegaḥ).”
 </details>
 </details>
 
@@ -1004,6 +1112,12 @@ thunder bolt and comes mounting on an excellent bull which shines like a moon, h
 illustrious Trishiras."
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And this warrior here who, grasping a sharp pike gleaming like lightning (śūlaṃ niśitaṃ pragṛhya vidyut-prabham) whose speed renders the thunderbolt a mere servant (kiṃkara-vajra-vegam), approaches mounted on a lordly bull bright as the moon (vṛṣendram āsthāya śaśi-prakāśam)—he is the glorious Triśiras (triśirā yaśasvī).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1057,6 +1171,12 @@ bow; *asau* = this is; *kumbhaH* = Kumbha; *yaati* = leading.
 "The other resembling a thunder-bolt, of large and well-developed chest, who has an
 attentive mind, has the King of Snakes as his standard, who is moving and twanging his bow, he is
 Kumbha."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And yonder is Kumbha, his form resembling a storm-cloud (jīmūta-nikāśa-rūpaḥ), his chest broad, compact, and nobly formed (pṛthu-vyūḍha-sujāta-vakṣāḥ); composed and bearing the banner of the king of serpents (samāhitaḥ pannaga-rāja-ketuḥ), he advances drawing and shaking his bow (visphārayan yāti dhanur vidhunvan).”
 </details>
 </details>
 
@@ -1112,6 +1232,12 @@ to the army of demons; *saH asau* = he as such; *nikumbhaH* = is Nikumbha;
 "He who, holding a mace decorated with gold and diamonds, which are radiant (as
 fire) and also smoky (studded with sapphires), who advances as a standard bearer tot he army of
 demons, he is Nikumbha of Prodigious exploits."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And this warrior here who approaches as the very banner of the Rākṣasa host (rakṣo-bala-ketu-bhūtaḥ), grasping a blazing, smoke-wreathed iron bludgeon (dīptaṃ sa-dhūmaṃ parigham pragṛhya) studded with gold and diamonds (jāmbūnada-vajra-juṣṭam)—he is Nikumbha, of wondrous and terrible deeds (adbhuta-ghora-karmā).”
 </details>
 </details>
 
@@ -1171,6 +1297,12 @@ over there and who, in combat, fights with mountain-tops."
 धनुस्सु, खड्ग, बाण तुम्बिद बत्तळिकॆयॊन्दिगॆ ध्वजपताकॆगळिन्द अलङ्कृत हागू अग्नियन्तॆ देदीप्यमान रथारूढनागि अतिशय शोभिसुत्तिरुव ऎत्तरनाद योधने नरान्तकनु. इवनु पर्वत शिखरगळिन्द युद्धमाडुत्तानॆ.॥2.॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And this warrior here who shines towering aloft (vibhāty udagraḥ), mounted on a pennanted chariot blazing like fire (patākinaṃ pāvaka-dīpta-rūpaṃ rathaṃ samāsthāya) and stocked with bows, swords, and floods of arrows (cāpāsi-śaraugha-juṣṭam)—he is Narāntaka, who fights with mountain peaks (naga-śṛṅga-yodhī).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1252,6 +1384,14 @@ tigers, buffalo mighty elephants, deer and horses, under an excellent white cano
 ribs and shining like a moon, he who is the humbler of the gods themselves, shining like unto Rudra
 amidst the genii, is the suzerain Lord of Demons there."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** “And this one here who shines surrounded by Bhūta spirits of manifold dreadful forms (nānā-vidha-ghora-rūpair bhūtair vṛto bhāti), with rolling eyes (vivṛtta-netraiḥ) and faces of tigers, camels, lordly elephants, deer, and horses (vyāghroṣṭra-nāgendra-mṛgāśva-vaktraiḥ)—he is the crusher of the pride even of the gods (surāṇām api darpa-hantā)!”
+
+**24:** “Where yonder gleams this preeminent white parasol resembling the moon (yatraitad indu-pratimaṃ vibhāti chatraṃ sitam), with its delicate ribs (sūkṣma-śalākam agryam)—there shines this mighty-souled lord of the Rākṣasas [Rāvaṇa] (atraiṣa rakṣo-'dhipatir mahātmā), surrounded by Bhūtas like Rudra (bhūtair vṛto rudra ivāvabhāti)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1307,6 +1447,12 @@ Mountains.
 Vaivasvata the Lord of Death low, is shining like the sun. His countenance is graced by ear-rings.
 His formidable stature equals the Vindhya the Lord of Mountains."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Wearing a diadem (asau kirīṭī), his faces graced with swinging ear-ornaments (cala-kuṇḍalāsyaḥ), his terrible body resembling the lordly mountain Vindhya (nagendra-vindhyopama-bhīma-kāyaḥ), that crusher of the pride of Mahendra and Vaivasvata Yama (mahendra-vaivasvata-darpa-hantā), the lord of Rākṣasas, shines like the sun (sūrya ivāvabhāti)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1355,6 +1501,12 @@ said); *aho* = Alas!; *kiipta mahaa tejaaH* = what glory; what exceeding majesty
 
 Then, Rama the annihilator of enemies, answered Vibhishana and said "Alas! What
 glory, what majesty is Ravana's the Lord of Demons!
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma, the tamer of foes (ariṃdamaḥ), replied to Vibhīṣaṇa: “Aha! Of blazing and mighty splendor (aho dīpta-mahā-tejāḥ) is Rāvaṇa, the lord of Rākṣasas!”
 </details>
 </details>
 
@@ -1406,6 +1558,12 @@ covered by magnificence!.
 "Ravana is beaming like the sun with his rays difficult to be gazed, neither can the
 eye rest on him such is the binding strength of his magnificence!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rāvaṇa shines with his rays like the sun, hard to gaze upon (āditya iva duṣprekṣyo raśmibhir bhāti); indeed, I cannot clearly discern his form (na vyaktaṃ lakṣaye hy asya rūpam), enveloped as it is in fiery radiance (tejaḥ-samāvṛtam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1454,6 +1612,12 @@ this body of the king of demons."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई राक्षसराजन शरीर बॆळगुवन्तॆ देवतॆगळ, दानवर वीरर देहगळू बॆळगुवुदिल्ल.॥2.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even the heroes among the gods and Dānavas (deva-dānava-vīrāṇām) could not possess such a form (vapur naivaṃ-vidhaṃ bhavet) as this form of the lord of Rākṣasas that shines forth so resplendently (yādṛśaṃ rākṣasendrasya vapur etad virājate)!”
 </details>
 </details>
 
@@ -1518,6 +1682,12 @@ anger.
 The demons went and told Ravana that Prahasta the Army chief had been killed by Nila
 the son of Fire-god. Hearing those words of the demons, Ravana was possessed of anger.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All the warriors of that mighty-souled king (sarve yodhās tasya mahātmanaḥ) resemble mountains (parvata-saṃkāśāḥ), all fight with mountains (parvata-yodhinaḥ), and all wield blazing weapons (dīptāyudha-dharāḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1565,6 +1735,12 @@ the Lord of Death surrounded by blazing genii endowed with hideous forms."
 
 भयङ्कर प्रभॆयिन्द तोरुव, तीक्ष्ण स्वभावद राक्षसरिन्द सुत्तुवरिद ई राक्षसराज रावणनु देहधारी भूतगळिन्द परिवृतनाद यमनन्तॆ कण्डुबरुवनु.॥3.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surrounded by fierce, blazing Bhūta spirits of terrible aspect (pradīptair bhīma-darśanaiḥ bhūtaiḥ parivṛtas tīkṣṇaiḥ), yonder king of Rākṣasas shines like Death himself (antakaḥ) [surrounded] by embodied [diseases and terrors] (dehavadbhir iva)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1604,6 +1780,12 @@ the Lord of Death surrounded by blazing genii endowed with hideous forms."
 
 "By good luck, that wretch comes today within my range of sight! Today, I shall
 expunge my wrath, born of Seetha's abduction!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By good fortune (diṣṭyā) this evil-souled demon has today come within the range of my sight (mama dṛṣṭi-pathaṃ gataḥ); today I shall unleash the wrath born of the abduction of Sītā (krodhaṃ vimokṣyāmi sītā-haraṇa-sambhavam)!”
 </details>
 </details>
 
@@ -1674,6 +1856,12 @@ Hearing that Prahasta had perished in the fight, Ravana was afflicted with anger
 his heart filled with grief and he addressed the foremost of his leaders as Indra the Lord of
 celestials to the leaders of the celestial troops (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the valiant Rāma, attended by Lakṣmaṇa (lakṣmaṇānucaraḥ), took up his bow (dhanur ādāya) and stood drawing forth a supreme arrow (samuddhṛtya śarottamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1728,6 +1916,12 @@ exists; the outposts and fortifications.
 Thereafter, that powerful Ravana spoke to those exceedingly strong demons as
 follows: "Take up your positions unfalteringly and happily at the gates and principal exits, the
 outposts and fortifications."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that mighty-souled lord of the Rākṣasas spoke to those puissant Rākṣasas: “Stand watch at the gates, on the highways, and in the gatehouse-towers (dvāreṣu caryā-gṛha-gopureṣu), well-composed and free of fear (sunirvṛtās tiṣṭhata nirviśaṅkāḥ)!”
 </details>
 </details>
 
@@ -1788,6 +1982,12 @@ by surprise.
 "Learning of my presence along with you here, taking this to be a weak point and
 storming this desolate city which is otherwise difficult to be overpowered, the monkeys when united
 may destroy it by surprise."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Learning of this vulnerability (chidram idaṃ viditvā)—that I have come out here accompanied by you (ihāgataṃ māṃ sahitaṃ bhavadbhiḥ)—the forest-dwellers might assemble, crush the empty, hard-to-assail city (śūnyāṃ purīṃ duṣprasahāṃ pramathya), and overwhelm it all at once (pradharṣayeyuḥ sahasā sametāḥ)!”
 </details>
 </details>
 
@@ -1850,6 +2050,12 @@ Having dismissed those counsellors and as the demons departed as ordered, Ravana
 thereafter began to split under the waters of the sea of monkeys, in the same way as a gigantic
 fish would rend the entire expanse of the sea.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dismissed those ministers (visarjayitvā sacivāṃs tatas tān), when the Rākṣasas had departed according to their assignments (gateṣu rakṣaḥsu yathā-niyogam), he clove asunder the ocean-flood of the Vānaras (vyadārayad vānara-sāgaraugham), like a giant sea-monster cleaving the full flood of the ocean (mahā-jhaṣaḥ pūrṇam ivārṇavaugham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1908,6 +2114,12 @@ mountain-top; *dudraava* = and ran; *rakSodhipam* = towards that king of demons.
 Seeing Ravana with his radiant bow, in the battle, Sugreeva the Lord of Monkeys
 tearing up a huge mountain-top, ran towards that king of demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that lord of Rākṣasas rushing forward suddenly in battle with blazing arrows and bow (dīpteṣu-cāpam), the lord of monkeys [Sugrīva] (harīśaḥ) wrenched up a massive mountain peak (mahat samutpāṭya mahī-dharāgram) and rushed at the lord of Rākṣasas (dudrāva rakṣo-'dhipatim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1962,6 +2174,12 @@ arrows; *tapaniiya puNkhaiH* = with golden shafts.
 Seizing a mountain-top with its many trees and ridges, Sugreeva hurled it on Ravana
 the demon. Seeing that mountain-top coming towards him, Ravana quickly broke it asunder with his
 arrows with golden shafts.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seizing that mountain peak with its many-treed plateaus (tac chaila-śṛṅgaṃ bahu-vṛkṣa-sānum pragṛhya), [Sugrīva] hurled it at the night-stalker (cikṣepa niśā-carāya); beholding it hurtling toward him suddenly, [Rāvaṇa] clove it asunder with golden-feathered arrows (ciccheda bāṇais tapanīya-puṅkhaiḥ).
 </details>
 </details>
 
@@ -2018,6 +2236,12 @@ While that mountain-top with its well-developed ridges and excellent trees was r
 asunder and fell on the earth, Ravana like unto another Yama the Lord of Death, loosed an arrow
 resembling a great serpent.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that peak with its lofty plateaus and tall trees had been shattered and had fallen to the earth (tasmin śṛṅge vidīrṇe patite pṛthivyām), the lord of the Rākṣasa world fitted to his bow an arrow resembling a great serpent and looking like Death (mahāhi-kalpaṃ śaram antakābhaṃ samādadhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2071,6 +2295,12 @@ Sugreeva.
 
 The enraged Ravana, taking that arrow with the speed of a thunder bolt of Indra the
 Lord of celestials and possessing the brilliance of a fire, hurled it to kill Sugreeva.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking that arrow, equal to the wind in speed (anila-tulya-vegam), shining like a spark-showering fire (sa-visphuliṅga-jvalana-prakāśam), and matching Mahendra's thunderbolt in velocity (mahendrāśani-tulya-vegam), he hurled it in fury for the slaying of Sugrīva (cikṣepa sugrīva-vadhāya ruṣṭaḥ).
 </details>
 </details>
 
@@ -2127,6 +2357,12 @@ That arrow released by Ravana's arm reached Sugreeva, having a bodily splendour
 equal to that of Indra's thunder bolt, and pierced his body in its flight as formerly Guha's spear
 when he discharged it at the Krauncha Mountain.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Released from Rāvaṇa's arm (rāvaṇa-bāhu-muktaḥ), that shaft, gleaming with a frame like Śakra's thunderbolt (śakrāśani-prakhya-vapuḥ-prakāśam), reached Sugrīva and pierced him violently (bibheda vegāt), just as the fierce lance hurled by Guha [Skanda] pierced Mount Krauñca (guheritā krauñcam ivogra-śaktiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2182,6 +2418,12 @@ Wounded by that arrow, which bereft him of consciousness, that warrior fell moan
 to the earth. Beholding him falling on the ground, deprived of his senses in the battle-field, the
 demons raised a shout of triumph.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Afflicted by that shaft and his mind reeling (sa sāyakārto viparīta-cetāḥ), that hero fell groaning to the earth (kūjan pṛthivyāṃ nipapāta vīraḥ); beholding him fallen unconscious upon the ground (bhūmau patitaṃ visaṃjñam), the Yātudhānas roared in triumph in the fray (neduḥ prahṛṣṭā yudhi yātudhānāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2234,6 +2476,12 @@ exceeding corpulence; *samupaaTya* = hearing up; *shailaan* = rocks;
 
 Then, Gavaksha, Gavaya, Sushena, Rishabha, Jyotimukha and Nala; of exceeding
 corpulence tearing up rocks, rushed towards Ravana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Gavākṣa, Gavaya, Suṣeṇa, Ṛṣabha, Jyotimukha, and Nala, swelling their bodies to gigantic size (vivṛddha-kāyāḥ), tore up boulders (śailān samutpāṭya) and rushed against that lord of Rākṣasas (pradudruvus taṃ prati rākṣasendram).
 </details>
 </details>
 
@@ -2294,6 +2542,12 @@ That Lord of Demons, with hundreds of arrows, possessed of sharp points, rendere
 their projectiles fruitless and pierced those leaders of the monkeys with a multitude of marvellous
 golden shafted arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With hundreds of sharp-tipped arrows (bāṇa-śataiḥ śitāgraiḥ), the lord of Rākṣasas rendered their blows vain (teṣāṃ prahārān sa cakāra moghān), and pierced those monkey-lords as well with networks of arrows (bāṇa-jālair bibheda) adorned with variegated golden shafts (jāmbūnada-citra-puṅkhaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2348,6 +2602,12 @@ kaayaaH* = of terrifying stature; *nipetuH* = fell; *bhuvi* = on the ground;
 Pierced by the arrows of Ravana the Enemy of Gods, those monkey-Generals of
 terrifying stature fell on the ground. Thereupon, he covered that formidable army of monkeys with a
 shower of arrows.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced by the arrows of the enemy of the thirty-three gods (tridaśāri-bāṇair bhinnāḥ), those monkey-lords of terrible stature fell to the ground (nipetur bhuvi bhīma-kāyāḥ); and then he covered that fierce Vānara army with networks of arrows (pracchādayām āsa sa bāṇa-jālaiḥ).
 </details>
 </details>
 
@@ -2429,6 +2689,14 @@ following) words; *paramaarthayuktam* = which were very meaningful.
 Then the high-souled Rama the skilful archer, taking his bow, set out at once.
 Lakshmana, however, approaching him with joined palms, spoke very meaningful words follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**45:** Being slaughtered and fallen to the ground (vadhyamānāḥ patitāś ca), roaring aloud and pierced by the dart of terror (nānadyamānā bhaya-śalya-viddhāḥ), those heroic tree-leapers, tormented by Rāvaṇa's shafts, went for refuge to Rāma, the true refuge (jagmuḥ śaraṇyaṃ śaraṇaṃ sma rāmam).
+
+**46:** Then the mighty-souled Rāma, wielder of the bow (sa dhanuṣmān), took up his bow (dhanur ādāya) and set forth at once (sahasā jagāma); approaching him with joined palms (prāñjalir abhyupetya), Lakṣmaṇa spoke to Rāma words fraught with supreme import (paramārtha-yuktam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2476,6 +2744,12 @@ own accord I am quite sufficient; *vadhaaya* = for killing; *asya* = of this Rav
 "O, noble Brother! Of my own accord, I am able to kill this wretched Ravana. O,
 Lord! I shall slay him. Permit me to do so."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Assuredly, O noble brother (kāmam ārya), I am fully competent to slay this evil-souled demon (suparyāpto vadhāyāsya durātmanaḥ); I myself shall crush him—grant me permission, O Lord (vidhamiṣyāmy ahaṃ caitam anujānīhi māṃ vibho)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2522,6 +2796,12 @@ also.
 
 The exceedingly powerful and the truly courageous Rama spoke to that Lakshmana as
 follows: "Go, Lakshmana and also be strenuous in this duel."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To him spoke Rāma of mighty splendor and unfailing valor (mahā-tejā rāmaḥ satya-parākramaḥ): “Go, O Lakṣmaṇa, and be supremely vigilant in battle (gaccha yatna-paraś cāpi bhava lakṣmaṇa saṃyuge)!”
 </details>
 </details>
 
@@ -2572,6 +2852,12 @@ powerful; *satyaparaakramaH* = and the truly courageous; *raamaH* = Rama;
 
 "Ravana is endowed with great strength and possesses an outstanding prowess during a war. The Three Worlds themselves could not withstand his fury. There is no doubt about it."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For Rāvaṇa is of mighty valor (mahā-vīryaḥ) and of wondrous prowess in battle (raṇe 'dbhuta-parākramaḥ); when enraged, he is without doubt irresistible even to the three worlds (trailokyenāpi saṃkruddho duṣprasahyo na saṃśayaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2621,6 +2907,12 @@ weak points; *lakSaya* = and guard; *svachchhidraaNi cha* = against your own;
 "Seek out his weak points and guard against your own. Defend yourself vigilantly
 with your eye and bow."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Seek out his weak points (tasya cchidrāṇi mārgasva) and keep watch over your own openings (sva-cchidrāṇi ca lakṣaya); composed in mind (samāhitaḥ), guard yourself with eye and bow (cakṣuṣā dhanuṣātmānaṃ gopāyasva)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2667,6 +2959,12 @@ battle.
 
 Hearing the words of Rama, Lakshmana embraced him, thereafter offering obeisance and
 bidding him farewell, he entered the battle-field.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Rāghava, embracing and honoring him (sampariṣvajya pūjya ca), and bowing in salutation to Rāma (abhivādya ca rāmāya), the son of Sumitrā marched forth into battle (yayau saumitrir āhave).
 </details>
 </details>
 
@@ -2722,6 +3020,12 @@ Lakshmana then saw Ravana with arms as large as the trunks of elephants, who was
 brandishing his dreadful and fiery bow, covering those monkeys whose bodies he had severed with a
 close rain of darts.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He beheld Rāvaṇa, whose arms were like elephant trunks (vāraṇa-hasta-bāhum), holding his terrible, blazing bow uplifted (bhīmodyata-dīpta-cāpam), covering with networks of arrow-showers (pracchādayantaṃ śara-vṛṣṭi-jālaiḥ) those Vānaras whose bodies were pierced and scattered (bhinna-vikīrṇa-dehān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2772,6 +3076,12 @@ Ravana.
 The exceedingly energetic Hanuma, born of Maruta the god of wind, beholding this,
 rushed on Ravana in order to bring that rain of arrows to an end.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him, the mighty-splendored Hanumān, son of the Wind-god (mahā-tejā hanūmān mārutātmajaḥ), warded off his networks of arrows (nivārya śara-jālāni) and rushed straight at Rāvaṇa (vidudrāva sa rāvaṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2817,6 +3127,12 @@ lifted; *dakSiNam* = his right; *baahum* = arm; *abraviit* = and spoke;
 
 Approaching his chariot, the sagacious Hanuma lifted his right arm and spoke the
 following threatening words to Ravana:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching his chariot (rathaṃ tasya samāsādya) and raising his right arm aloft (bāhum udyamya dakṣiṇam), the wise Hanumān struck terror into Rāvaṇa (trāsayan rāvaṇaṃ dhīmān) and spoke these words:
 </details>
 </details>
 
@@ -2865,6 +3181,12 @@ semi-divine beings; *vaanarebhyastu* = but monkeys; *bhayam* = are a danger;
 "You have obtained the boon of invulnerability to the celestials, demons, celestial
 musicians, ogres and semi-divine beings. But monkeys are a danger to you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Immunity from death (avadhyatvam) has been obtained by you from gods, Dānavas, Gandharvas, and Yakṣas together with Rākṣasas (deva-dānava-gandharvair yakṣaiś ca saha rākṣasaiḥ); yet from Vānaras there is peril for you (vānarebhyas tu te bhayam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2911,6 +3233,12 @@ body.
 
 "This five-branched right hand of mine, which I now raise, will rob you of your life
 that has long been resident in your body."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This uplifted right arm of mine, five-branched with fingers (eṣa me dakṣiṇo bāhuḥ pañca-śākhaḥ samudyataḥ), shall drive out from your body (vidhamiṣyati te dehe) the conscious life-spirit that has dwelt there so long (bhūtātmānaṃ ciroṣitam)!”
 </details>
 </details>
 
@@ -2960,6 +3288,12 @@ anger; *abraviit* = spoke; *idam* = these; *vachanam* = words.
 
 Hearing the words of Hanuma, the exceedingly valiant Ravana, his eyes inflamed with
 anger, answered.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Hanumān, Rāvaṇa of terrible valor (rāvaṇo bhīma-vikramaḥ), his eyes bloodshot with wrath (saṃrakta-nayanaḥ krodhāt), spoke these words:
 </details>
 </details>
 
@@ -3011,6 +3345,12 @@ after knowing your strength.
 "Strike quickly without fear, O Monkey! Win eternal renown. Thereafter, I shall
 destroy you, after measuring your strength."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Strike swiftly and without hesitation (kṣipraṃ prahara niḥśaṅkam), and win enduring fame (sthirāṃ kīrtim avāpnuhi)! Thereafter, O monkey, once your valor is known, I shall destroy you (tatas tvāṃ jñāta-vikrāntaṃ nāśayiṣyāmi vānara)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3061,6 +3401,12 @@ formerly; *prahastam hi* = struck (killed) already; *mayaa* = by me.
 Hearing the words of Ravana, Hanuma the son of wind-god spoke the following words:
 "Recollect that I have killed your son Aksha already."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Rāvaṇa, the son of the Wind-god spoke these words: “Remember your son Akṣa (akṣaṃ tava sutaṃ smara), who was struck down by me earlier (prahataṃ hi mayā pūrvam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3106,6 +3452,12 @@ of Demons; *aajaghaana* = struck; *anilasutam* = Hanuma the son of Anila;
 
 Thus spoken, the highly energetic and the valiant Ravana the Lord of Demons struck
 Hanuma the son of Anila a violent blow on his chest with the palm of his hand.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, the mighty-splendored and valiant Rāvaṇa, lord of the Rākṣasas (mahā-tejā rāvaṇo rākṣaseśvaraḥ), struck the son of the Wind-god upon the chest with the palm of his hand (ājaghānānila-sutaṃ talenorasi vīryavān).
 </details>
 </details>
 
@@ -3164,6 +3516,12 @@ Hanuma, thus struck with Ravana's palm, reeled repeatedly. Thereafter the highly
 sagacious and illustrious Hanuma secured his balance within a moment and in fury, struck Ravana the
 enemy of Immortals with the very palm of his hand.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck by him with his palm (sa talābhihatas tena), he reeled again and again (cacāla ca muhur muhuḥ); then, standing firm for a moment and regaining his composure (sthito muhūrtaṃ sthairyaṃ kṛtvā), that glorious monkey of great wisdom (tejasvī mahā-matiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3209,6 +3567,12 @@ enemy of Immortals with the very palm of his hand.
 
 Under the violent impact of the blow of the mighty Hanuma Ravana shook like a
 mountain when the earth trembles.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck the enemy of the immortals in return with his palm in furious rage (ājaghāna ca saṃkruddhas talenaivāmara-dviṣam). Then, struck by that mighty-souled monkey (sa tenābhihato vānareṇa mahātmanā)—
 </details>
 </details>
 
@@ -3256,6 +3620,12 @@ divine beings; *asuraiH saha* = along with the demons; *devaaH* = and celestials
 
 Beholding Ravana struck in the fight by Hanuma's palm; the sages, monkeys,
 semi-divine beings, along with celestials and demons raised a resounding approbation.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ten-necked Rāvaṇa shook violently (daśagrīvaḥ samādhūtaḥ), like a mountain when the earth trembles (yathā bhūmi-tale 'calaḥ). Beholding Rāvaṇa thus struck with the palm in battle (saṃgrāme taṃ tathā dṛṣṭvā rāvaṇaṃ tala-tāḍitam)—
 </details>
 </details>
 
@@ -3305,6 +3675,12 @@ Then, the extremely spirited Ravana, having regained his breath, spoke the follo
 words: "Well done! Well done! O, monkey! You are my adversary, worthy of praise by your
 valour!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sages, Vānaras, Siddhas, and gods together with Asuras roared aloud (ṛṣayo vānarāḥ siddhā nedur devāḥ sahāsuraiḥ). Then, recovering his breath (athāśvasya), the mighty-splendored Rāvaṇa spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3350,6 +3726,12 @@ by which; *tvam* = you; *jiivasi* = (still) survive!
 
 Then, Hanuma answered, "O, Ravana! Cursed by that strength since you do still
 survive!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Well done, O monkey (sādhu vānara)! In valor you are an adversary worthy of my praise (vīryeṇa ślāghanīyo 'si me ripuḥ)!” Addressed thus by Rāvaṇa, Māruti spoke these words:
 </details>
 </details>
 
@@ -3397,6 +3779,12 @@ Lord of Death!
 
 "O, foolish fellow! Why this boasting? Now come, strike me once! My fist is about to
 dispatch you to the Abode of Yama the Lord of Death!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fie upon my valor (dhig astu mama vīryasya), in that you still live, O Rāvaṇa (yat tvaṃ jīvasi rāvaṇa)! Strike once more now, O dim-witted one—why do you boast in vain (sakṛt tu praharedānīṃ durbuddhe kiṃ vikatthase)?”
 </details>
 </details>
 
@@ -3448,6 +3836,14 @@ lifting; *dakSiNam* = his right; *muSTim* = fist; *yatnaat* = with zeal;
 
 Hearing the words of Hanuma, the powerful Ravana, enraged, his eyes red with fury
 and whirling his fist with force knocked it down violently on Hanuma's chest.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**67:** “Thereafter my fist shall dispatch you to the abode of Yama (tatas tvāṃ māmako muṣṭir nayiṣyati yama-kṣayam)!” At those words of Māruti, his wrath blazed forth (tato māruti-vākyena kopas tasya prajajvale).
+
+**68:** His eyes bloodshot (saṃrakta-nayanaḥ), the valiant demon clenched his right fist with all his might (yatnān muṣṭim āvṛtya dakṣiṇam) and brought it down with furious speed upon the monkey's chest (pātayām āsa vegena vānarorasi vīryavān).
 </details>
 </details>
 
@@ -3503,6 +3899,12 @@ quickly; *rathena* = by his chariot; *niilam prati* = towards Nila.
 Under the shock, Hanuma reeled once again. Seeing that mighty Hanuma exhausted,
 Ravana turned his chariot towards Nila.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Struck] upon his broad chest (vakṣasi vyūḍhe), Hanumān reeled again and again (saṃcacāla punaḥ punaḥ). Beholding the mighty Hanumān thus staggered at that moment (vihvalaṃ tu tadā dṛṣṭvā hanūmantaṃ mahā-balam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3554,6 +3956,14 @@ enemy.
 With his terrific arrows in the likeness of serpents, Ravana the powerful Lord of
 Demons pierced the vital parts of his enemy, thus overwhelming Nila the Monkey-general.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**70:** That super-charioteer, the puissant ten-necked lord of the Rākṣasas (atiratho rākṣasānām adhipatir daśagrīvaḥ pratāpavān), swiftly turned his chariot toward Nīla (rathena śīghraṃ nīlaṃ prati samabhyagāt).
+
+**71:** With terrible arrows resembling serpents (pannaga-pratimair bhīmaiḥ) and piercing into the deepest vitals of foes (para-marmābhibhedanaiḥ), he set ablaze Nīla, the commander of the monkey army (śarair ādīpayām āsa nīlaṃ hari-camū-patim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3599,6 +4009,12 @@ general of monkeys; *sharaugha samayastaH* = tormented by a flood of arrows;
 
 Nila, the Army General of Monkeys, tormented by that hail of arrows, with one hand
 hurled a great rock at Ravana the king of demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hard-pressed by that flood of arrows (sa śaraugha-samāyastaḥ), Nīla, commander of the monkey army, hurled a mountain peak at the lord of Rākṣasas with a single hand (kareṇaikena śailāgraṃ rakṣo-'dhipataye 'sṛjat).
 </details>
 </details>
 
@@ -3663,6 +4079,14 @@ his martial ire cried out furiously towards Ravana, the Lord of Demons who occup
 Nila as follows: "It is not proper to engage in a combat with a person who is already doing a fight
 with another."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**73:** Meanwhile the glorious and high-minded Hanumān (hanūmān api tejasvī mahā-manāḥ), having recovered his breath (samāśvastaḥ), looked on eagerly desiring battle (viprekṣamāṇo yuddhepsuḥ) and spoke these words in wrath (sa-roṣam idam abravīt):
+
+**74:** “[Beholding] Rāvaṇa, lord of the Rākṣasas, locked in combat with Nīla (nīlena saha saṃyuktaṃ rāvaṇaṃ rākṣaseśvaram)—it is not fitting to rush against one who is already fighting with another (anyena yudhyamānasya na yuktam abhidhāvanam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3709,6 +4133,12 @@ and it; *papaata ha* = fell down; *vishiirNam* = crumbling to pieces.
 Then, the mighty Ravana, however, shattered the rock hurled by Nila with seven
 pointed arrows and it fell down, crumbling to pieces.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the mighty-splendored Rāvaṇa (rāvaṇo 'tha mahā-tejāḥ) struck that mountain peak with seven exceedingly sharp-tipped arrows (taṃ śṛṅgaṃ saptabhiḥ śaraiḥ ājaghāna sutīkṣṇāgraiḥ), and shattered into fragments it fell to the ground (tad vikīrṇaṃ papāta ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3754,6 +4184,12 @@ with fury; *kaalagniriva* = who resembled the Fire of Time.
 
 Seeing that rock crumbling to pieces, Nila the Army-general the destroyer of enemies
 who resembled the Fire of Time, glowed with fury.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that mountain peak shattered into fragments (tad vikīrṇaṃ gireḥ śṛṅgaṃ dṛṣṭvā), the commander of the monkey army, slayer of hostile heroes (hari-camū-patiḥ para-vīra-hā), blazed up with wrath like the fire of Doomsday (kālāgnir iva jajvāla kopena).
 </details>
 </details>
 
@@ -3804,6 +4240,12 @@ Shala trees; *supuSpitaan* = in good flowering; *chuutaanapi* = Chuta trees;
 In that fight, Nila hurled Aswakarna trees, Shala trees with extensive flowering,
 Chuta trees and other various types of trees.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In that fray, Nīla hurled Aśvakarṇa trees, Sāla trees, and mango trees in full blossom (so 'śvakarṇa-drumān śālāṃś cūtāṃś cāpi supuṣpitān), along with manifold other trees (anyāṃś ca vividhān vṛkṣān nīlaś cikṣepa saṃyuge).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3829,6 +4271,12 @@ Chuta trees and other various types of trees.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 रावणने उन सब वृक्षोंको सामने आनेपर काट गिराया और अग्निपुत्र नीलपर बाणोंकी भयानक वर्षाकी ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Meeting those trees in mid-air (sa tān vṛkṣān samāsādya), Rāvaṇa sliced them to pieces in turn (praticiccheda rāvaṇaḥ), and rained down upon the son of Fire a terrible shower of arrows (abhyavarṣac ca ghoreṇa śara-varṣeṇa pāvakim).
 </details>
 </details>
 
@@ -3891,6 +4339,12 @@ short; *nipapaata* = and jumped on; *dhvajaagre* = to the top of the standard.
 Showered by a multitude of shafts, as from a cloud, the mighty Nila assumed a
 diminutive form and leapt on to the point of Ravana's standard.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Showered all over with a flood of arrows like a great mountain by a raincloud, Nīla then contracted his form to a tiny size (hrasvaṃ kṛtvā tato rūpam) and alighted right upon the tip of [Rāvaṇa’s] banner (dhvajāgre).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3940,6 +4394,12 @@ standard; *raavaNaH* = Ravana; *jajvaala* = thereafter; *niilaH* = Nila;
 Seeing Nila the son of Fire-God standing well on the point of his standard, Ravana
 inflamed with fury. Then, Nila shouted loudly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the son of the Fire-god (pāvakātmajam) stationed atop the tip of his banner, Rāvaṇa blazed up with wrath (jajvāla rāvaṇaḥ krodhāt), and thereupon Nīla roared aloud.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3987,6 +4447,12 @@ surprised.
 Beholding that monkey sometimes leaping on to the point of Ravana's standard
 sometimes on to the tip of his bow and sometimes on to the peak of his diadem, Lakshmana, Hanuma
 and Rama were astonished.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Seeing] that monkey upon the tip of the banner, the tip of the bow, and the tip of the diadem (kirīṭāgre), Lakṣmaṇa, Hanumān, and Rāma too were filled with utter astonishment (suvismitāḥ).
 </details>
 </details>
 
@@ -4037,6 +4503,12 @@ _________________
 The mighty Ravana, amazed at the monkey's agility, seized a marvellous and glowing
 arrow called Agneya the weapon of Fire.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa too, of mighty splendor, astonished by the monkey’s agility (kapilāghavavismitaḥ), summoned forth (āhārayāmāsa) the blazing, wondrous missile sacred to Agni (astram āgneyam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4082,6 +4554,12 @@ arrow called Agneya the weapon of Fire.
 
 Thereafter, those monkeys who felt rejoiced to see Ravana disconcerted at the
 agility of Nila and had found an occasion for jubilation, shouted joyously.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then those leaping monkeys shouted aloud with joy, having found their mark of derision (labdhalakṣāḥ), upon seeing Rāvaṇa bewildered by Nīla’s agility (nīlalāghavasambhrāntam) in battle.
 </details>
 </details>
 
@@ -4129,6 +4607,12 @@ do.
 Then, provoked by the shouts of the monkeys, his heart possessed with confusing,
 Ravana did not know what to do.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed (saṃrabdhaḥ) then by the roaring of the monkeys as well, Rāvaṇa, his heart seized by confusion (sambhramāviṣṭahṛdayaḥ), knew not what to do (na kiṃcit pratyapadyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4175,6 +4659,12 @@ missile presided over by the Fire-God; *udaikSata* = aimed at; *niilam* = Nila;
 Ravana the demon, taking up an arrow, charged with the missile presided over by the
 fire-God, aimed at Nila who had perched on the tip of his standard.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking up an arrow conjoined with the fiery missile (āgneyenāpi saṃyuktam), the night-stalker Rāvaṇa looked up (udaikṣata) at Nīla stationed upon the crest of his banner (dhvajaśīrṣasthitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4220,6 +4710,12 @@ fire-God, aimed at Nila who had perched on the tip of his standard.
 
 Then, Ravana the king of demons said,: "O monkey! You are endowed with agility
 combined with a supreme power of magic."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāvaṇa of mighty splendor, lord of the rākṣasas, spoke: “O monkey, you are endowed with agility (lāghavayukto 'si) together with supreme magic (māyayā parayā saha)!
 </details>
 </details>
 
@@ -4289,6 +4785,14 @@ seek to preserve.
 "Even then, the arrow charged with a mystic missile I am about to loose, will severe
 you from life, which existence you seek to preserve."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**87:** Guard your life indeed (jīvitaṃ khalu rakṣasva), if you are able, O monkey! You create those manifold forms of yourself (tāni tāny ātmarūpāṇi) again and again;
+
+**88:** even so, this shaft discharged by me and charged with the mystic missile (astraprayojitaḥ) shall sever you from life (jīvitād bhraṃśayiṣyati), even as you strive to preserve your life!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4335,6 +4839,12 @@ arrow; *ataaDayat* = struck; *chamuupatim* = Nila the Army-General.
 Thus speaking, Ravana the long-armed King of Demons, having placed Agni Missile with
 his arrow, struck Nila the Army-General.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the mighty-armed Rāvaṇa, lord of the rākṣasas, fitted the arrow with the missile (saṃdhāya bāṇam astreṇa) and struck the army commander (camūpatim atāḍayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4380,6 +4890,12 @@ Nila; *nirdahyamaanaH* = being burnt all over; *sahasaa* = suddenly;
 
 Struck on the chest by the arrow combined with a missile, Nila being burnt all over,
 suddenly fell to the ground.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck in the chest (vakṣasi tāḍitaḥ) by that missile-launched arrow, Nīla, burning fiercely (nirdahyamānaḥ) all at once, fell to the surface of the earth (papāta mahītale).
 </details>
 </details>
 
@@ -4430,6 +4946,12 @@ brought; *jaanubhyaam* = to his knees; *bhuumau* = on to the earth;
 Yet by virtue of the powerful aid of his father and his own native vigour, though
 brought to his knees on to the earth, he was not deprived of his life.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through the conjunction of his father’s majesty (pitṛmāhātmyasaṃyogāt) and through his own fiery energy as well (ātmanaś cāpi tejasā), he fell to the earth upon his knees (jānubhyām apatad bhūmau), yet was not parted from his life-breaths (na tu prāṇair viyujyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4475,6 +4997,12 @@ chariot; *ambudanaadena* = which sounded like a cloud.
 
 Seeing Nila unconscious, Ravana, eager for fight, in his chariot whose rattling
 sounded like thunder-clouds, rushed on Lakshmana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the monkey unconscious (visaṃjñam), the ten-necked [Rāvaṇa], eager for battle, rushed toward Sumitrā’s son (saumitrim abhidudruve) in his chariot that rumbled like a thundercloud (ambudanādena).
 </details>
 </details>
 
@@ -4522,6 +5050,12 @@ lifted up; *dhanuH* = his bow.
 
 Coming to the centre of the battle-field, the powerful Ravana the King of Demons
 prevented Lakshmana to go forward, halted, standing there in his glory and lifted up his bow.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching him and checking [the monkeys] in the midst of battle, the mighty lord of the rākṣasas stood blazing and twanged his bow (dhanur visphārayāmāsa).
 </details>
 </details>
 
@@ -4583,6 +5117,12 @@ Lakshmana of indomitable courage spoke to that Ravana who was lifting up his
 unfathomable bow (as follows): "O, King of Demons! Now enter into combat with me; cease from
 fighting with the monkeys!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To him who was twanging his immeasurable bow, Sumitrā’s son of undaunted spirit (adīnasattvaḥ) spoke: “Face me today (avehi mām adya), O lord of night-stalkers! You ought not to fight against monkeys.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4642,6 +5182,12 @@ Hearing that marvellously modulated voice that resounded like the twanging of a
 bow-string, Ravana drawing near his adversary, who stood close to his chariot, answered in
 anger:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing his speech of full-throated resonance (pratipūrṇaghoṣam) and the fierce twang of his bowstring (jyāśabdam ugram), that king—the rākṣasa—approached Sumitrā’s son who stood ready and spoke words filled with wrath:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4696,6 +5242,12 @@ mind; *praaptaH* = have reached; *me* = my; *dR^iSTimaargam* = range of sight;
 "O, Lakshmana! By my good fortune, you in your perverted mind, reached within my
 range of sight so as to meet your death. This very instant, you will go to the region of Death,
 after having collapsed by the bang of my rain of arrows."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By good fortune (diṣṭyā), O Rāghava, have you come within range of my sight (dṛṣṭimārgam), bound for your end (antagāmī) and of perverse intellect (viparītabuddhiḥ)! At this very instant you shall go to the world of Death, crushed (saṃsādyamānaḥ) by my nets of arrows!”
 </details>
 </details>
 
@@ -4757,6 +5309,12 @@ Then, Lakshmana, unmoved spoke to that Ravana who was roaring with his sharp and
 protruding teeth (as follows): "Greatly dignified ones eschew bragging! O, the foremost of
 evil-doers! You are sounding your own praises!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To him who was roaring with bared, sharp-tipped fangs (udvṛttaśitāgradaṃṣṭram), Sumitrā’s son spoke unperturbed (avismayānaḥ): “O king, those of mighty power do not roar! You boast in vain (vikatthase), O chief of evildoers (pāpakṛtāṃ variṣṭha)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4809,6 +5367,12 @@ energy; *paraakramamcha* = and courage; *aham* = I; *avasthitaH* = stand here;
 
 "O, King of Demons! I know your valour, strength, energy and courage! Come! I now
 stand here, with my bow and arrows in hand. O what use are vain boasts."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I know your valor (jānāmi vīryaṃ tava), O lord of rākṣasas, and your strength, fiery might, and prowess! Here I stand with bow and arrows in hand (śaracāpapāṇiḥ); come forth—what is the use of empty boasting (moghavikatthanena)?”
 </details>
 </details>
 
@@ -4870,6 +5434,12 @@ Thus accosted, the King of Demons, infuriated, loosened seven marvellously plume
 arrows which Lakshmana shattered with his beautiful golden-shafted arrows of sharp ends and
 edges.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, the enraged lord of rākṣasas discharged seven well-fletched arrows (sapta śarān supuṅkhān); those Lakṣmaṇa sliced in two (ciccheda) with shafts of wondrous golden fletchings and keen-edged tips (niśitāgradhāraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4922,6 +5492,12 @@ loosened; *anyam* = other; *nishitaan* = sharp; *pR^iSatkaan* = arrows.
 
 Beholding those arrows shattered like great cobras with their hoods shattered,
 Ravana got angry and loosened other sharp arrows.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those [arrows] suddenly severed like great serpents with severed coils (nikṛttabhogān iva pannagendrān), the lord of Laṅkā fell under the sway of wrath (krodhavaśaṃ jagāma) and discharged other whetted shafts (pṛṣatkān).
 </details>
 </details>
 
@@ -4978,6 +5554,12 @@ Lakshmana, however, caused a well-aimed rain of missiles from his bow to fall on
 Ravana and nay, even broke Ravana's arrows with his arrows called Khura, Ardhachandra, the
 excellent Karni and Bhalla. He did not feel perturbed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma’s younger brother rained down a fierce shower of arrows fitted to his bow (kārmukasamprayuktam), and with razor-arrows, crescent-arrows, supreme ear-barbed shafts, and broadheads (kṣurārdhacandrottamakarṇibhallaiḥ) he severed [Rāvaṇa’s] arrows and did not waver (na cukṣubhe ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5030,6 +5612,12 @@ jaalaani* = sets of arrows; *moghaani* = becoming vain; *saH* = that;
 
 Seeing his successive arrows proving in vain, Ravana the King of those hostile to
 Gods was astonished at Lakshmana's skill and released more whetted shafts upon him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing those manifold nets of arrows rendered futile (moghāni paśyan), the king of the foes of the gods (tridaśārirājaḥ) marveled at Lakṣmaṇa’s dexterity (vismiye lakṣmaṇalāghavena) and once again loosed whetted shafts.
 </details>
 </details>
 
@@ -5091,6 +5679,12 @@ Lakshmana, the equal of Mahendra the Lord of celestials, fixing some sharpened
 arrows, swift as lightning and of blazing effulgence on his bow-string, discharged them on Ravana
 in order to strike him down.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Lakṣmaṇa too, equal to great Indra, fitted to his bow whetted, keen-tipped [arrows] gleaming like fire (jvalanaprakāśān) and possessing the terrible speed of a thunderbolt (aśanibhīmavegān), and loosed them for the slaying of the lord of rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5145,6 +5739,12 @@ gifted by Brahma the Lord of Creation.
 Whereupon, Ravana the King of Demons shattered those pointed arrows and struck
 Lakshmana in the forehead with a struck Lakshmana in the forehead with a shaft as bright as the
 Fire of Time, which had been bestowed on him by Brahma the Lord of Creation.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lord of rākṣasas sliced those whetted arrows in two and struck Lakṣmaṇa upon the forehead (lalāṭadeśe) with an arrow bestowed by Svayambhū (svayaṃbhudattena) that shone like the fire of universal dissolution (kālāgnisamaprabheṇa).
 </details>
 </details>
 
@@ -5201,6 +5801,12 @@ Struck by Ravana's arrow, Lakshmana reeled a little and was scarcely able to ret
 his bow. But, coming to his consciousness with difficulty, he shattered that weapon belonging to
 Ravana, Indra's enemy.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Afflicted by Rāvaṇa’s shaft (rāvaṇasāyakārtaḥ), Lakṣmaṇa reeled, gripping his bow loosely (cāpaṃ śithilaṃ pragṛhya); yet regaining consciousness with difficulty (kṛcchrāt), he severed the bow of the foe of the lord of gods (tridaśendraśatroḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5254,6 +5860,12 @@ darts; *shitaagraiH* = having pointed ends; *saH raajaa* = that king;
 Then, Lakshmana the son of Dasaratha struck Ravana, whose bow was broken, with three
 pointed darts. The king, pierced by those arrows, swooned and regained his senses with
 difficulty.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Daśaratha’s son struck him, whose bow was severed (nikṛttacāpam), with three keen-tipped arrows; afflicted by those shafts, the king staggered (vicacāla rājā) and only with difficulty regained his senses.
 </details>
 </details>
 
@@ -5316,6 +5928,12 @@ Ravana, the enemy of celestials, whose bow was broken, struck by the arrows, his
 limbs spattered with flesh, and streaming with blood, himself of formidable energy, seized in the
 battle a spear gifted to him by Brahma the Lord of Creation.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his bow severed and struck by arrows, his limbs wet with fat and marrow (medārdragātraḥ) and drenched in blood (rudhirāvasiktaḥ), the foe of the gods, himself of fierce might, seized in battle the javelin bestowed by Svayambhū (śaktiṃ svayaṃbhudattām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5373,6 +5991,12 @@ frightening; *vaanaraaNaam* = the monkeys; *samyati* = in the fray.
 
 Ravana the Lord of the country of demons hurled with strength on Lakshmana, that
 blazing spear, emitting smoke and as bright as fire, frightening the monkeys in the fray.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lord of the rākṣasa realm hurled with all his might (tarasā) at Sumitrā’s son that blazing javelin, which resembled smoky fire (sadhūmānalasaṃnikāśām) and struck terror into the monkeys in battle (vitrāsanāṃ saṃyati vānarāṇām).
 </details>
 </details>
 
@@ -5434,6 +6058,12 @@ Lakshmana the younger brother of Bharata struck that weapon falling upon him wit
 arrows and darts, as if it were a sacrificial fire. Nevertheless, that spear entered Lakshmana's
 broad chest.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As that [javelin] came flying toward him, Bharata’s younger brother struck it with mystic missiles (astraiḥ) and with arrows resembling sacrificial fire (hutāgnikalpaiḥ); even so, that javelin entered the broad chest (bhujāntaraṃ viśālam) of Daśaratha’s son.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5488,6 +6118,12 @@ brutally; *bhujaabhyaam* = in his two hands.
 The mighty Lakshmana, struck by the spear, lay on the earth, breathing fire. The
 king, rushing suddenly on him who was yet insensible, seized him brutally in his hands.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck down by that javelin, that mighty hero of the Raghus (raghupravīraḥ) blazed upon the earth; suddenly rushing up to him as he reeled (vihvalantam), the king seized him forcibly with both arms (jagrāha rājā tarasā bhujābhyām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5538,6 +6174,12 @@ Bharata.
 Though he was able to lift up Himavat, Mandara and Meru mountains as also the Three
 Worlds with the Gods, he could not raise Lakshmana the younger brother of Bharata.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Himavān, Mandara, Meru, or the three worlds together with the immortal gods might be lifted up with two arms (śakyaṃ bhujābhyām uddhartum), yet Bharata’s younger brother could not be lifted (na śakyo bharatānujaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5580,6 +6222,12 @@ the inconceivable fraction; *viSNoH* = of Vishnu Himself.
 
 Lakshmana, though wounded in the breast by Brahma's weapon, recollected that he was
 an inconceivable fraction of Vishnu Himself.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though struck in the middle of the chest (stanāntare) by Brahmā’s javelin (śaktyā brāhmyā), Sumitrā’s son recollected himself (ātmānaṃ pratyanusmarat) to be an unfathomable portion of Viṣṇu (viṣṇor amīmāṃsyabhāgam).
 </details>
 </details>
 
@@ -5627,6 +6275,12 @@ Lakshmana; *daanavadarpaghnam* = who removed the pride of demons; *naabhavat pra
 Ravana that thorn in the side of the Gods, though overcoming that Lakshmana who
 removed the pride of demons, was unable to bear him away with his hands.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that thorn in the side of the gods (devakaṇṭakaḥ), having squeezed with both arms Sumitrā’s son—the crusher of the pride of the Dānavas (dānavadarpaghnam)—was powerless to budge or lift him (na prabhur laṅghane 'bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5668,6 +6322,12 @@ which was resembling a thunder bolt.
 Thereupon, the enraged Hanuma the son of the Wind-God, rushed towards Ravana and
 struck angrily on his chest with his fist, resembling a thunder-bolt.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the enraged son of the Wind-god (vāyusutaḥ) rushed at Rāvaṇa and in fury struck him upon the chest (ājaghānorasi) with his fist resembling a thunderbolt (vajrakalpena muṣṭinā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5707,6 +6367,12 @@ the ground.
 
 By that blow of the fist, Ravana the Lord of Demons reeled and fell on his knees to
 the ground.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By that blow of the fist (tena muṣṭiprahāreṇa), Rāvaṇa, lord of the rākṣasas, dropped to the floor upon his knees (jānubhyām agamad bhūmau), staggered, and fell down (cacāla ca papāta ca).
 </details>
 </details>
 
@@ -5756,6 +6422,12 @@ from his ears; *vighuurNamaanaH* = Reeled; *nishcheSTaH* = and motionless;
 
 A lot of blood oozed out from his face, eyes, and ears. Reeled and motionless, he
 became and sat in the middle of the chariot.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Abundant blood gushed from his mouths, eyes, and ears (āsyaiś ca netraiḥ śravaṇaiḥ); reeling and motionless (vighūrṇamāno niśceṣṭaḥ), he sank down onto the platform of his chariot (rathopastha upāviśat).
 </details>
 </details>
 
@@ -5814,6 +6486,12 @@ Seeing Ravana despite his redoubtable strength swooned on the battle-field, sage
 and monkeys began to shout in triumph as did also celestials and the demons (invisibly present on
 the scene).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He became unconscious and swooned away (visaṃjño mūrcchitaś cāsīt), nor could he find any steady footing (na ca sthānaṃ samālabhat). Beholding Rāvaṇa of terrible prowess unconscious in battle,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5863,6 +6541,12 @@ Lakshmana; *raavaNaarditam* = wounded by Ravana; *baahubhyaam* = to his shoulder
 Then, the courageous Hanuma lifting up Lakshmana in his arms, who had been wounded
 by Ravana, brought him to Rama's presence.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the sages and the monkeys roared aloud (neduḥ), and the gods too together with the asuras (devāś ca sāsurāḥ). Then the radiant Hanumān [approached] Lakṣmaṇa, who was afflicted by Rāvaṇa,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5909,6 +6593,12 @@ the son of Wind-God.
 
 That Lakshmana, whom his foes were unable to move, became light for Hanuma because
 of friendship and great devotion of Hanuma the son of Wind-God towards him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and clasping him with both arms (bāhubhyāṃ parigṛhya tam), brought him near to Rāghava (rāghavābhyāśam). Through the loving friendship and supreme devotion of the Wind-god’s son (vāyusūnoḥ suhṛttvena bhaktyā paramayā ca), he who was unshakeable even by his foes became light for the monkey (laghutvam agamat kapeḥ).
 </details>
 </details>
 
@@ -5959,6 +6649,12 @@ rathe* = in that chariot; *raavaNasya* = of Ravana.
 That spear leaving Lakshmana, who was overcome in the battle, returned to its
 position in that chariot of Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaving Sumitrā’s son, who had been overcome in battle, that javelin returned once more to its own place (sthānaṃ punar upāgamat) in that chariot of Rāvaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6006,6 +6702,12 @@ too.
 The mighty Ravana too, regaining his consciousness in the great battle-field, picked
 up his sharp arrows and the great bow.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa too, of mighty splendor, having regained consciousness (prāpya saṃjñām) in that great battle, took up whetted arrows (ādade niśitān bāṇān) and grasped a mighty bow.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6052,6 +6754,12 @@ part of Vishnu the Lord of Preservation; *amiimaamsyam* = the inconceivable.
 Healed and free from that lance, Lakshmana the annihilator of his foes, recollected
 of himself as a part of the inconceivable Vishnu the Lord of Preservation.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Lakṣmaṇa, destroyer of foes, recollecting himself to be an unfathomable portion of Viṣṇu (viṣṇor bhāgam amīmāṃsyam), was restored to breath and freed from the dart’s pain (āśvastaś ca viśalyaś ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6092,6 +6800,12 @@ overthrown; *raNe* = on the battle-field; *raaghavastu* = Rama on his part;
 Beholding the great army of monkeys whose great warriors were overthrown on the
 battle-field, Rama rushed on Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding in battle the great army of the monkeys with its mighty heroes struck down (nipātitamahāvīrām), Rāghava rushed straight toward Rāvaṇa (rāvaṇaṃ samabhidravat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6122,6 +6836,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग हनुमन्तनु अवन बळिगॆ बन्दु हेळिदनु- प्रभो! भगवान् विष्णु गरुडारूढनागि दैत्यरन्नु संहरिसुवन्तॆये नीनु नन्न हॆगलेरि ई राक्षसनन्नु दण्डिसिरि.॥124॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then approaching him (anusaṃkramya), Hanumān spoke these words: “Mounting upon my back (mama pṛṣṭhaṃ samāruhya), you ought to chastise the rākṣasa (rākṣasaṃ śāstum arhasi),
 </details>
 </details>
 
@@ -6167,6 +6887,12 @@ order to fight with the Enemy of Gods.
 
 Meanwhile, Hanuma approaching Rama spoke the following words: "You have to punish
 the demon by climbing my back, as Vishnu on Garuda in order to fight with the Enemy of Gods."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+just as Viṣṇu, mounting Garuḍa (viṣṇur yathā garutmantam āruhya), [chastises] the foe of the immortals (amaravairiṇam)!” Hearing those words spoken by the Wind-god’s son, Rāghava
 </details>
 </details>
 
@@ -6229,6 +6955,14 @@ Virochana.
 The mighty Rama became angry on seeing him and rushed upon that Ravana like unto
 Vishnu with his uplifted mace rushed upon Virochana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**126:** thereupon mounted all at once (āruroha sahasā) the great monkey Hanumān; and in battle the lord of men beheld Rāvaṇa standing in his chariot (rathasthaṃ rāvaṇaṃ saṃkhye dadarśa).
+
+**127:** Beholding him, that [Rāma] of mighty splendor rushed at Rāvaṇa (pradudrāva sa rāvaṇam) with weapon upraised (abhyudyatāyudhaḥ), like enraged Viṣṇu rushing at Virocana’s son [Bali] (vairocanam iva kruddho viṣṇuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6268,6 +7002,12 @@ thunder; *uvaacha ha* = spoke; *gambhiirayaa* = in a deep; *giraa* = voice;
 
 Rama made a sound in drawing the cord of his bow and like unto the roll of thunder,
 spoke in a deep voice to Ravana as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma produced a fierce twang of his bowstring (jyāśabdam akarot tīvram), harsh as the crash of a thunderbolt (vajraniṣpeṣaniṣṭhuram), and with a deep, resonant voice spoke to the lord of rākṣasas:
 </details>
 </details>
 
@@ -6327,6 +7067,12 @@ as the Mahendra Mountain?
 canopy, armed with javelins, swords, stakes and other weapons and missiles and composed of
 imperturbable soldiers and elephants as high as the Mahendra Mountain?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Stand, stand (tiṣṭha tiṣṭha)! Having done me such a grievous wrong (kṛtvā vipriyam īdṛśam), O tiger among rākṣasas, where can you go and obtain deliverance (mokṣam avāpsyasi)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6385,6 +7131,12 @@ be let loose; *adya* = now.
 Lord of Death or the Sun or Brahma the Lord of Creation or Agni the Lord of Fire or Shiva the Lord
 of dissolution or in the ten regions, even in those abodes you will elude me from now on."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even if you should go [for refuge] to Indra, Vaivasvata [Yama], and Bhāskara [Sūrya], or to Svayambhū [Brahmā], Vaiśvānara [Agni], and Śaṅkara [Śiva], or flee toward the ten directions (daśadhā diśo vā), even so, having come before me today, you shall not be released (nādya gato vimokṣyase)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6432,6 +7184,12 @@ and assuming the form of death; *adya* = will now; (claim); *tava* = you;
 this day only to recover consciousness immediately, will now, assuming the form of death, claim
 you, your sons and grandsons in battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And he who was struck down by your javelin today (śaktyā nihatas tvayādya), falling into distress as you suddenly rushed upon him—he himself, O king of the rākṣasa hosts, is the Death (sa eṣa mṛtyuḥ) of you along with your sons and grandsons in battle today!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6477,6 +7235,12 @@ and were furnished with excellent weapons.
 "Here is he, under whose blows of arrows, fourteen thousand demons of terrible form
 perished, who had established themselves in Janasthana and were furnished with excellent
 weapons."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And by this one, with his arrows, were slain (niṣūditāni) the fourteen thousand rākṣasas (caturdaśāni rakṣaḥsahasrāṇi) of terrifying aspect who had made their abode in Janasthāna (janasthānakṛtālayāni) and wielded choice weapons!”
 </details>
 </details>
 
@@ -6540,6 +7304,14 @@ his former hostility struck with flaming arrows resembling the tongues of the Fi
 on Hanuman the son of Wind-God, who with extreme velocity, was bearing Rama in the
 battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**133:** Hearing Rāghava’s words, the mighty lord of rākṣasas [beheld] the Wind-god’s son of tremendous speed carrying Rāghava in battle (vahantaṃ rāghavaṃ raṇe);
+
+**134:** filled with mighty wrath (roṣeṇa mahatāviṣṭaḥ) and remembering his former enmity (pūrvavairam anusmaran), he struck [Hanumān] with blazing arrows resembling the flames of the fire of universal dissolution (kālānalaśikhopamaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6579,6 +7351,12 @@ tejoyuktasya* = the native strength of which Hanuman was possessed tejaH = that 
 
 Even when struck by that demon with his arrows in the battle, the vigour of Hanuman,
 who was endowed with native strength, increased still further.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though struck in battle by the rākṣasa with his shafts, the fiery energy of that [Hanumān], who was endowed with innate valor (svabhāvatejoyuktasya), grew all the more (bhūyas tejo 'bhyavardhata).
 </details>
 </details>
 
@@ -6626,6 +7404,12 @@ monkeys; *kR^itavraNam* = having been wounded; *raavaNena* = by Ravana;
 Thereupon, seeing Hanuman the Tiger among the monkeys getting wounded by Ravana,
 Rama was transported with anger.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma of mighty splendor, seeing the tiger among monkeys wounded by Rāvaṇa (rāvaṇena kṛtavraṇam), came under the sway of wrath (krodhasya vaśam eyivān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6671,6 +7455,12 @@ swords.
 
 Going near his chariot with his sharp and pointed arrows, Rama shattered it along
 with its wheels, horses, banner, canopy, great standard, charioteer, darts, spears and swords.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Closing in upon him (abhisamkramya), Rāma with his keen arrow-tips sliced to pieces (praciccheda) his chariot along with its wheels, its horses, banner, parasol, and great pennants (sāśvadhvajacchatramahāpatākam), its charioteer, and its thunderbolt-weapons, pikes, and swords (sāśaniśūlakhaḍgam).
 </details>
 </details>
 
@@ -6719,6 +7509,12 @@ thunder-bolt.
 Thereupon, with a great force, Rama struck with his shaft shining brightly as the
 thunderbolt, that Ravana, the enemy of Indra, in his broad and beautiful chest, even as the mighty
 Indra would strike the Mount Meru with his thunderbolt.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then with all his might he struck Indra’s foe upon his broad, well-formed chest (bhujāntare vyūḍhasujātarūpe) with an arrow resembling a thunderbolt and lightning (vajrāśanisaṃnibhena), just as the glorious Lord Indra smites Mount Meru with his thunderbolt (vajreṇa meruṃ bhagavān ivendraḥ).
 </details>
 </details>
 
@@ -6775,6 +7571,12 @@ That valiant King of Demons, whom neither thunder nor lightning could cause
 disturbance or trembling; stumbled letting fall his bow at the valiant impact of Rama's missile
 which created a deep injury.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That king who had never wavered nor staggered (na cukṣubhe nāpi cacāla) from the fall of thunderbolts or the impact of lightning (vajrapātāśanisaṃnipātāt)—that hero, struck by Rāma’s arrow and sorely afflicted (bhṛśārtaḥ), staggered and dropped his bow (cāpaṃ ca mumoca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6822,6 +7624,12 @@ Seeing that Ravana swooning, the magnanimous Rama took up a blazing arrow shaped
 like a crescent moon and immediately used it to shatter the diadem of Ravana the Lord of Demons,
 which was of bright hue.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him reeling (taṃ vihvalantaṃ prasamīkṣya), the great-souled Rāma then took up a blazing crescent-tipped arrow (ardhacandram), and with it suddenly sliced off the sun-colored diadem (arkavarṇaṃ kirīṭam) of the lord of rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6868,6 +7676,12 @@ raakSasendram* = to that Lord of Demons; *gatashriyam* = whose splendour was dim
 In that battle-field, Rama said to that Lord of Demons whose splendour was dimmed,
 the setting of his diadem river, who resembled a venomous snake robbed of its poison or like a sun
 its rays extinguished, bereft of lustre.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To that lord of rākṣasas in battle—who resembled a venomless serpent (nirviṣāśīviṣasaṃnikāśam), lustreless like the sun with its rays quenched (śāntārciṣaṃ sūryam ivāprakāśam), bereft of royal splendor (gataśriyam) with his crown-cluster severed (kṛttakirīṭakūṭam)—Rāma spoke:
 </details>
 </details>
 
@@ -6925,6 +7739,12 @@ have become weary; *na nayaami* = I shall not put; *tvaam* = you;
 succumbed beneath your blows. Now, you are weary and in this condition, I shall not put you under
 the clutches of Death."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You have performed a great and most terrible feat (karma mahat subhīmam), and you have left me with my chief heroes struck down (hatapravīraś ca kṛtas tvayāham); therefore, judging that you are exhausted (pariśrānta iti vyavasya), I do not bring you under the sway of Death with my arrows.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6980,6 +7800,12 @@ with your bow; *tadaa* = and then; *rathasthaH* = standing in your chariot;
 and return to Lanka. Having regained your breath, come back in your chariot with your bow and then
 standing in your chariot, you will witness once more my prowess."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Depart—I know you are worn out by battle (jānāmi raṇārditas tvam)! Entering Laṅkā, O king of night-prowlers (rātriṃcararāja), recover your breath and come forth again (āśvasya niryāhi) with chariot and bow (rathī ca dhanvī); then, standing in your chariot, you shall behold my might (balaṃ prekṣyasi me)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7026,6 +7852,12 @@ broken; *sah* = he; *sahasaa* = soon; *vivesha* = returned; *laN^kaam*
 At these words, that King Ravana, his joy boasting subdued, his bow shattered, his
 horses and chariot slain pierced with arrows, his great diadem broken, he soon returned to
 Lanka.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, his pride and joy shattered (hatadarpaharṣaḥ), his bow severed, his horses and charioteer slain (hatāśvasūtaḥ), afflicted by arrows and his great diadem broken (bhagnamahākirīṭaḥ), that king hurriedly entered Laṅkā.
 </details>
 </details>
 
@@ -7089,6 +7921,12 @@ an elephant; *samkampayam naagashiraH* = causing the elephant's head to sway; *a
 
 "O Prince! That hero who has a face with a coppery hue resembling a newly rising
 sun, coming on the back of an elephant causing its head to sway, know him to be Akampana."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that mighty lord of night-prowlers, the foe of Dānavas and gods, had entered [Laṅkā], Rāma at the forefront of the great battle (paramāhavāgre) freed the monkeys, together with Lakṣmaṇa, from their arrow-darts (harīn viśalyān saha lakṣmaṇena cakāra).
 </details>
 </details>
 
@@ -7155,5 +7993,11 @@ serpents as also all beings on earth and in waters rejoiced very much.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥59॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that foe of the lord of gods was routed (tasmin prabhagne tridaśendraśatrau), the gods and asuras, the hosts of beings, and the quarters of the sky, together with the oceans, the sages, and the great serpents (sasāgarāḥ sarṣimahoragāś ca), as well as the creatures moving on land and in water (bhūmyambucarāḥ), rejoiced exceedingly (prahṛṣṭāḥ).
 </details>
 </details>

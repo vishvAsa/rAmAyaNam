@@ -91,6 +91,14 @@ palms-adjoined, they stood.
 On going towards the dexterous Rama, whose exploits are effortless, all of those monkeys tarried with their palms
 adjoined as with the sages tarrying in the presence of Brahma, the Forefather. [4-26-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then the chief ministers of the monkeys (śākhāmṛga-mahāmātrāḥ) surrounded Sugrīva, who was tormented by grief (śokābhisaṃtaptam) and wearing garments still wet from the bath (klinna-vāsasam), and attended upon him.
+
+**2:** Approaching the mighty-armed Rāma of unwearying deeds (akliṣṭa-kāriṇam), they all stood with folded hands (prāñjalayaḥ) like sages before the Grandsire Brahmā (pitāmaham ivarṣayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,6 +147,12 @@ palms, sentence, spoke.
 
 Hanuma, the son of Air-god, whose sheen is like that of the golden mountain Meru, and whose visage is like that
 of the tender sun in its glint, then spoke this sentence reverently adjoining his palms. [4-26-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Hanumān, son of the Wind-god (mārutātmajaḥ), shining like a mountain of gold (kāñcana-śailābhaḥ) and with a countenance like the newly risen sun, spoke these words with folded hands:
 </details>
 </details>
 
@@ -195,6 +209,14 @@ privileged, might; *mahaatmaanaam* = of great-souled ones - rather, deferential 
 is a privileged one - since our might is not dependent on any weapons or other tactical warfare, except our own
 bodily strength - and oh, Kakutstha, that which belongs to his father and forefathers, and that which is otherwise
 impossible for him to regain, Sugreeva regained such a kingdom with your grace. [4-26-4, 5a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** “By your grace, O descendant of Kakutstha, this great ancestral kingdom (pitṛ-paitāmahaṃ mahat) of the sharp-fanged monkeys endowed with abundant strength—
+
+**5:** “so hard to win even for great-souled ones—has now been obtained, O lord. Permitted by you (bhavatā samanujñātaḥ), having entered the auspicious city,
 </details>
 </details>
 
@@ -261,6 +283,14 @@ to enter this delightful mountain cave, namely Kishkindha, and you may kindly co
 between the governor and the governed for the very high exhilaration of Vanara-s." Hanuma appealed Rama in this
 way. [4-26-7, 8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** “this Sugrīva, accompanied by his band of friends (sa-suhṛd-gaṇaḥ), shall duly arrange all your affairs (saṃvidhāsyati kāryāṇi), once he has bathed according to rule with manifold fragrant substances and medicinal herbs (gandhair auṣadhaiś ca).
+
+**7:** “He will honor you especially with garlands and precious gems (mālyaiś ca ratnaiś ca); therefore you ought to come to this delightful mountain cavern (imāṃ giri-guhāṃ ramyām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -306,6 +336,12 @@ ones, destroyer of - Rama; *vaakya kovidaH* = in sentence making, scholar - enun
 When Hanuma said so, Rama the destroyer of valiant foes, an intellectual and an enunciator replied Hanuma in this
 way. [4-26-8b, 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Confirm his bond as sovereign lord (kuruṣva svāmi-sambandham) and gladden the monkeys!” Thus addressed by Hanumān, Rāghava, slayer of hostile heroes—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -344,6 +380,12 @@ vaa* = or, else; *puram* = city; *na pravekSyaami* = not, I enter.
 
 "As a conformist to the directives of my father, oh, gentle Hanuma, I am not supposed to enter either a village
 or a city. [4-26-9b, 10a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+wise and skilled in speech (vākya-kovidaḥ)—replied to Hanumān: “For fourteen years (caturdaśa samāḥ), O gentle one, neither a village nor a city
 </details>
 </details>
 
@@ -392,6 +434,12 @@ procedurally, be anointed, enthroned.
 "As and when the best one among Vanara-s valorous Sugreeva enters the highly flourishing and statuesquely Kishkindha,
 he shall be enthroned in the kingdom, immediately and procedurally. [4-26-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“shall I enter, O Hanumān, faithfully keeping my father's command (pitur nirdeśa-pālakaḥ). Let the heroic Sugrīva, foremost of monkeys, having entered the opulent and celestial cavern-city,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -433,6 +481,14 @@ Sugreeva, spoke.
 
 Replying Hanuma thus, that knower of the etiquette Rama, also spoke to Sugreeva, who is rich in politesse and
 an imposing one by his might and valour. [4-26-11b, 12a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “be swiftly consecrated in the kingdom according to rule (vidhivad rājye 'bhiṣicyatām).” Having spoken thus to Hanumān, Rāma said to Sugrīva:
+
+**12:** “Knowing right conduct yourself (vṛttajñaḥ), consecrate in the office of heir apparent (yauvarājye 'bhiṣecaya) this heroic Aṅgada as well, who is endowed with noble conduct and generous in strength and valor (udāra-bala-vikramam).
 </details>
 </details>
 
@@ -482,6 +538,12 @@ The eldest son with kingly merits, though parented by an elder brother, need be 
 anena jyShTho guNavaan
 jyeShTha bhraatR^i putro api yauva raajye abhiShecaniiya iti uktam - dharmakuutam*The whole Maha Bharata is
 based on this rule till a gruesome war has chanced.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this high-souled Aṅgada (ayam adīnātmā) is the eldest son of your eldest brother (jyeṣṭhasya hi suto jyeṣṭhaḥ), equal to you in valor, and a worthy vessel for the office of heir apparent (yauvarājyasya bhājanam).
 </details>
 </details>
 
@@ -538,6 +600,12 @@ This month *shrvaNa*, compares nearly with July-August months. There are elabora
 duration of Ramayana basing on the months indicated here and there, and they cannot be included here for these
 calculations vary in themselves. The Hindu seasons are six as detailed in Bala Kanda 1-12-1.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is Śrāvaṇa, the first month of the rainy season (pūrvo 'yaṃ vārṣiko māsaḥ) that brings the waters; the four months designated as the rainy season (vārṣika-saṃjñitāḥ) have now set in, O gentle one.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -583,6 +651,12 @@ calculations vary in themselves. The Hindu seasons are six as detailed in Bala K
 "This is not a time for any striving, hence you enter the propitious city Kishkindha, oh, gentle Sugreeva, and
 I for my part will stay on this mountain along with Lakshmana. [4-26-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is no season for military campaigning (nāyam udyoga-samayaḥ); enter you your auspicious city, while I, O gentle one, shall dwell upon this mountain together with Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -627,6 +701,12 @@ salilaa* = copious, is water; *prabhuuta kamala utpalaa* = aplenty, red-lotuses,
 
 "This mountain cave is heart-pleasing by being spacious with worthwhile breeze, oh, gentle one, water is copious
 and red and blue lotuses are aplenty about this place. [4-26-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This mountain cavern is delightful, spacious, and blessed with temperate breezes (yukta-mārutā); it abounds in water, O gentle one, and is rich in day-lotuses and blue water-lilies (prabhūta-kamalotpala).
 </details>
 </details>
 
@@ -680,6 +760,12 @@ ones - your friends; *sam pra harSaya* = full, well, gladden - exhilarate.
 elimination, and this is our covenant, and hence oh, gentle Sugreeva, for now enter your mansion, be enthroned
 in kingdom as well, and exhilarate your friends." [4-26-17, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When the month of Kārttika has arrived (kārttike samanuprāpte), strive toward the slaying of Rāvaṇa; this is our appointed compact (eṣa naḥ samayaḥ), O gentle one—enter now your own abode.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -728,6 +814,12 @@ vaanara rSabhaH* = Vanara-s, best; *vaali paalitaam* = by Vali, ruled; *ramyaam 
 Thus when Rama countenanced that best vanara Sugreeva entered the charming city Kishkindha which is so far ruled
 by Vali. [4-26-18b, 19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Have yourself consecrated in the kingdom and gladden your friends (suhṛdaḥ sampraharṣaya)!” Thus granted leave by Rāma (rāmābhyanujñātaḥ), Sugrīva, foremost of monkeys—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -773,6 +865,12 @@ by Vali. [4-26-18b, 19a]
 
 When the sovereign of vanara-s Sugreeva has entered the city, very gladly thousands of vanara-s have also entered
 and fenced off that lord of fly-jumpers from all over. [4-26-19b, 20a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—entered the delightful city of Kiṣkindhā that had been ruled by Vālin (vāli-pālitām); and thousands of monkeys, as that lord of monkeys entered,
 </details>
 </details>
 
@@ -823,6 +921,12 @@ attitude; *vasudhaayaam patitaaH* = on ground, they fell - prostrated.
 All the inmates and ministers in Kishkindha then revered the lord of monkey throngs Sugreeva with their head-bent,
 and they have also prostrated before him with an assiduously polite attitude. [4-26-20b, 21a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+surrounded the lord of the leaping ones on all sides and entered after him. Then all the subjects (prakṛtayaḥ sarvāḥ), beholding the lord of the monkey hosts,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -870,6 +974,12 @@ gentle here,] inner, palace - palace-chambers, entered.
 Raising the rank-and-file members from their prostration, and on exchanging a word or two with them, that valiant
 and highly mighty Sugreeva entered the beautiful palace-chambers of his brother. [4-26-21b, 22a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+bowed with their heads and fell prostrate upon the earth in composed devotion (samāhitāḥ). Addressing all the subjects kindly and raising them up (sambhāṣyotthāpya), the valiant Sugrīva
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -915,6 +1025,12 @@ vaanara rSabham sugriivam vanara-s, arch - arch-vanara, Sugreeva is; *su hR^idaH
 
 When that prodigiously venturesome arch-vanara Sugreeva has entered the palace his cohorts anointed him as gods
 would anoint the Thousand-eyed Indra. [4-26-22b, 23a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+of mighty strength entered the gentle inner apartments of his brother (bhrātur antaḥpuraṃ saumyam). Then, as Sugrīva, foremost of monkeys and of terrible valor, entered [and came forth],
 </details>
 </details>
 
@@ -1023,6 +1139,22 @@ and fragrant called priyangu, honey, ghee, curds, skin of tiger, tassels of frag
 shoes, unguents before oil bath, orpiment preparations one in yellow called gorochana, and the other in red called
 Manshila, there arrived sixteen best and cheerful damsels. [4-26-23b, 24, 25, 26, 27, 28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** his friends consecrated him (abhyaṣiñcanta suhṛdaḥ) just as the immortals consecrated the thousand-eyed Indra (sahasrākṣam ivāmarāḥ). For him they brought a white parasol (pāṇḍuram chatram) decked with gold,
+
+**24:** and a pair of white yak-tail fans (śukle ca vāla-vyajane) with golden handles, conferring renown, as well as all kinds of gems and all manner of seeds and medicinal herbs (sarva-bījauṣadhāni ca).
+
+**25:** [They also brought] shoots and blossoms of milky-sapped trees (sa-kṣīrāṇāṃ ca vṛkṣāṇām), white garments, and white sandal-paste (śvetaṃ caivānulepanam),
+
+**26:** fragrant garlands born both on dry land and in the water (sthalajāny ambujāni ca), celestial sandalwoods, and manifold abundant perfumes,
+
+**27:** unbroken grain (akṣatam), gold (jātarūpam), priyaṅgu millet, honey and clarified butter (madhu-sarpiṣī), curds, a tiger-skin (carma ca vaiyāghram), and a pair of priceless sandals (parārghyau cāpy upānahau).
+
+**28:** Taking unguents (samālambhanam) along with yellow orpiment and red arsenic (gorocana-manaḥśilām), sixteen choice maidens (varāḥ kanyāś ca ṣoḍaśa), filled with joy, arrived there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1072,6 +1204,12 @@ anoint - they started.
 They the Vanara-s have then started to anoint that best Vanara Sugreeva according to the tradition, having appeased
 the eminent Brahmans with jewels, garments and delicacies. [4-26-29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, in order to consecrate that foremost of monkeys according to rule, having gratified the best of brahmins (toṣayitvā dvijarṣabhān) with gems, garments, and food,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1112,6 +1250,12 @@ the eminent Brahmans with jewels, garments and delicacies. [4-26-29]
 Authoritative scholars in Vedic-hymns then spreading the ritual grass around the Fire-altar which is with enkindled
 Ritual-fire oblated fire oblations into it duly sanctifying them with hymns. [4-26-30]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+those men conversant with sacred formulas (mantravido janāḥ) next offered oblations with mantra-consecrated ghee (mantra-pūtena haviṣā) into the blazing fire strewn around with kuśa grass (kuśa-paristīrṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1142,6 +1286,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर बण्ण-बण्णद पुष्पमालॆगळिन्द सुशोभित, रम्यवाद प्रासादद अग्रभागदल्लिद्द स्वर्ण सिंहासनवन्नु इरिसि, सुन्दरवाद मेलुहॊदिकॆयन्नु हासि अदर मेलॆ सुग्रीवनन्नु पूर्वाभिमुखवागिसि विधिवत्तागि मन्त्रोच्छार माडुत्ता कुळ्ळिरिसलायितु.॥31½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, on the delightful summit of the palace (prāsāda-śikhare ramye), beautified with variegated garlands and furnished with a golden pedestal (hema-pratiṣṭhāne) covered with choice carpets,
 </details>
 </details>
 
@@ -1234,6 +1384,20 @@ and *smR^iti, suutra-s* rules framed by sages. In the above verse it is said tha
 the horns of bulls. It is a practise to do so to achieve religious merit. So also bathing God Shiva through the
 horn of rhino is said to be the highest method of *abhiSeka* anointment.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** having seated him facing east (prāṅ-mukham) upon an excellent throne with sacred formulas according to rule, and having gathered water from rivers and great streams (nadī-nadebhyaḥ) and from sacred fords on every side,
+
+**33:** and having brought water from all the oceans (samudrebhyaḥ sarvebhyaḥ), the foremost of monkeys placed that pure water in golden pitchers (kanaka-kumbheṣu),
+
+**34:** and with auspicious bull-horns (śubhair ṛṣabha-śṛṅgaiś ca) and golden ewers, according to the procedure prescribed in the scriptures (śāstra-dṛṣṭena vidhinā) and ordained by the great sages,
+
+**35:** Gaja, Gavākṣa, Gavaya, Śarabha, Gandhamādana, Mainda, Dvivida, Hanumān, and Jāmbavān as well
+
+**36:** consecrated Sugrīva (abhyaṣiñcata sugrīvam) with clear, fragrant water (prasannena sugandhinā salilena), just as the Vasus consecrated Vāsava [Indra], the thousand-eyed lord.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1272,6 +1436,12 @@ the best; *hR^iSTaaH* = cheerily = pra cukrushuH = highly, shouted - chattered, 
 
 Hundreds and thousands of the great-souled and prominent vanara-s that are there, all of them have cheerily raised
 high hullabaloos while Sugreeva is anointed. [4-26-37]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Sugrīva had been consecrated (abhiṣikte tu sugrīve), all those great-souled bulls among monkeys, filled with joy, cried out aloud by the hundreds of thousands (śata-sahasraśaḥ).
 </details>
 </details>
 
@@ -1317,6 +1487,12 @@ word, to effectuate; *angadam sam pariSvajya* = Angada, on graciously embracing;
 
 The best one among monkeys Sugreeva graciously embraced Angada and anointed his as crown prince in order to effectuate
 Rama's word. [4-26-38]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fulfilling the words of Rāma (rāmasya tu vacaḥ kurvan), Sugrīva, lord of the monkeys, embraced Aṅgada warmly (aṅgadaṃ sampariṣvajya) and consecrated him in the office of heir apparent (yauvarājye 'bhyaṣecayat).
 </details>
 </details>
 
@@ -1364,6 +1540,12 @@ worshipped - acclaimed, indeed.
 On the anointment of Angada those fly-jumpers that have sympathy for him have acclaimed Sugreeva saying, 'well
 done, well done.' [4-26-39]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And when Aṅgada was consecrated, the great-souled monkeys, full of tender compassion (sānukrośāḥ), praised Sugrīva, crying “Bravo! Bravo!” (sādhu sādhv iti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1409,6 +1591,12 @@ extolled.
 
 While that kind of pompous anointment is taking place all are gladdened and that way they repeatedly extolled
 the great-souled Rama, and even Lakshmana too. [4-26-40]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And while that auspicious festival was taking place there (tādṛśe tatra vartini), all of them, delighted at heart, praised the great-souled Rāma and Lakṣmaṇa again and again (punaḥ punaḥ).
 </details>
 </details>
 
@@ -1457,6 +1645,12 @@ puSTa jana aakiirNaa* = with blithe, bulgy, people - monkeys, overspread with.
 
 That magnificent city Kishkindha situated in the cave of mountain which is already splendorous with flags of triumph
 and banners is further splendorous with blithe and burly monkeys overspreading it. [4-26-41]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thronged with joyful and thriving citizens (hṛṣṭa-puṣṭa-janākīrṇā) and beautified with pennons and banners (patākā-dhvaja-śobhitā), the delightful city of Kiṣkindhā shone within the mountain cavern.
 </details>
 </details>
 
@@ -1528,6 +1722,12 @@ Indra. [4-26-42]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तारनॆय सर्ग सम्पूर्णवायितु.॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reported his grand consecration (mahābhiṣekam) to the great-souled Rāma at that time, the valiant lord of the monkey host regained his wife Rumā (rumāṃ ca bhāryām upalabhya) and attained the sovereignty like the lord of the thirty gods [Indra].
 </details>
 </details>
 

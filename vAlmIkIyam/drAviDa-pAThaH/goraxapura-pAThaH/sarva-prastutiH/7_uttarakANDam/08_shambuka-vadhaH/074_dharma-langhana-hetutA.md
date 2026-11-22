@@ -39,6 +39,12 @@ _________________
 
 शत्रुघ्ननन्नु मथुरॆगॆ कळिसिकॊट्टु भगवान् श्रीरामनु भरत मत्तु लक्ष्मणरॊन्दिगॆ धर्म पूर्वक राज्यवन्नु पालिसुत्ता बहळ सुख - आनन्ददिन्द इरतॊडगिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus Rāghava heard in full (śuśrāva rāghavaḥ sarvam) that piteous lamentation of the twice-born one (tasya dvijasya karuṇaṃ paridevanam), fraught with suffering and sorrow (duḥkha-śoka-samanvitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर कॆलवु दिनगळ बळिक राष्ट्रदल्लि वासिसुव ओर्व मुदुक ब्राह्मणनु तन्न सत्तिरुव बालकन शववन्नॆत्तिकॊण्डु राजद्वारक्कॆ बन्दनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seared with anguish (duḥkhena ca santaptaḥ), he summoned those counselors (mantriṇas tān upāhvayat)—Vasiṣṭha and Vāmadeva, his two brothers (bhrātarau), together with the guildsmen of the city (saha naigamān).
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 अवनु स्नेह मत्तु दुःखदिन्द व्याकुलनागि नाना रीतिय मातुगळन्नु हेळुत्ता अळुत्तिद्दनु. पदे-पदे मगु! मगने! ऎन्दु कूगुत्ता हीगॆ प्रलापिसुत्तिद्दनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then eight twice-born sages were ushered in together with Vasiṣṭha (vasiṣṭhena sārdham aṣṭau praveśitāḥ), and addressing the godlike king (rājānaṃ deva-saṅkāśam), they pronounced: “May you prosper (vardhasva)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +141,12 @@ _________________
 
 अय्यो! नानु हिन्दिन जन्मदल्लि याव पाप माडिद्दॆनो, अदरिन्द इन्दु नन्न एकमात्र पुत्रन मरणवन्नु नोडबेकायितल्ल.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mārkaṇḍeya and Maudgalya, Vāmadeva and Kāśyapa, Kātyāyana and Jābāli, Gautama and Nārada as well—all these bulls among the twice-born (ete dvijarṣabhāḥ sarve) were seated upon their seats (āsaneṣūpaveśitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +174,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मगु ! इन्नू नीनु युवकनागदॆ बालकने आगिद्दॆ. ऐदु साविर दिन (हदिमूरु वर्ष हत्तु तिङ्गळु इप्पत्तु दिन)वष्टे निन्न वयस्सागित्तु. आदरॆ नीनु ननगॆ दुःख कॊडलॆन्दे अकालदल्लि कालवशनादॆ.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed with joined palms (abhivādya kṛtāñjaliḥ) to the great seers who had arrived (maharṣīn samanuprāptān), and having courteously honored the ministers and citizens according to rank (yathārham anukūlataḥ),
 </details>
 </details>
 
@@ -181,6 +211,12 @@ _________________
 
 वत्स! निन्न शोकदल्लि नानु मत्तु निन्न तायि इब्बरू कॆलवे दिनगळल्लि सत्तुहोगुवॆवु. इदरल्लि संशयवे इल्ल.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+before all those seated sages of blazing splendor (teṣāṃ samupaviṣṭānāṃ ... dīpta-tejasām), Rāghava recounted everything (sarvam ācaṣṭe): “This twice-born one lays siege [to my gate] (dvijo ’yam uparodhate).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -208,6 +244,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु ऎन्दू सुळ्ळाडिदुदु नॆनपिल्ल. यार हिंसॆयागली अथवा समस्त प्राणिगळल्लि यावुदक्कू कष्ट कॊडलिल्ल.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of the dejected king (rājño dīnasya), Nārada spoke an auspicious reply (pratyuvāca śubhaṃ vākyam) to the monarch in the presence of the sages (ṛṣīṇāṃ sannidhau nṛpam):
 </details>
 </details>
 
@@ -237,6 +279,12 @@ _________________
 
 हागिरुवाग इन्दु याव पापदिन्दागि ई मगनु पितृकर्म माडदॆ, ई बाल्यावस्थॆयल्ले यमनालयक्कॆ हॊरटुहोदॆ.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Listen, O king, to how this child’s untimely end has come about (yathākāle prāpto bālasya saṅkṣayaḥ); having heard it, O king, delight of the Raghus, perform what must be done (kartavyatāṃ ... kuruṣva)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -264,6 +312,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामचन्द्रन राज्यदल्लादरो अकालमृत्युविनन्तह भयङ्कर घटनॆ मॊदलु ऎन्दू नोडिल्ल, केळिल्ल.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of old, in the Kṛta age, O king (purā kṛta-yuge rājan), brāhmaṇas alone were ascetics (brāhmaṇā vai tapasvinaḥ); in that age no non-brāhmaṇa was ever an ascetic by any means (abrāhmaṇas tadā ... na tapasvī kathañcana).
 </details>
 </details>
 
@@ -293,6 +347,12 @@ _________________
 
 निःसन्देहवागि रामनदे यावुदो महादुष्कर्मवागिदॆ. अदरिन्द अवन राज्यदल्लि वासिसुव बालकर मृत्युवागतॊडगिदॆ.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In that blazing age (tasmin yuge prajvalite), wholly permeated by Brahman and unclouded (brahma-bhūte tv anāvṛte), all beings were born free from death (amṛtyavas tadā sarve jajñire) and far-seeing (dīrgha-darśinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -315,6 +375,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सत्ययुगके बाद त्रेतायुग आया । इसमें सुदृढ़ शरीरवाले क्षत्रियोंकी प्रधानता हुई और वे क्षत्रिय भी उसी प्रकारकी तपस्या करने लगे ॥ ११ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereafter came the age called Tretā (tatas tretā-yugaṃ nāma), belonging to men of embodied form (mānavānāṃ vapuṣmatām); therein kṣatriyas are born endowed with full austerity (pūrṇena tapasā ’nvitāḥ).
 </details>
 </details>
 
@@ -344,6 +410,12 @@ _________________
 
 बेरॆ राज्यदल्लिरुव बालकरिगॆ मृत्युभयविल्ल. आद्दरिन्द राजने! मृत्यु वशनाद ई बालकनन्नु जीवन्तगॊळिसु. इल्लदिद्दरॆ नानु नन्न पत्नियॊन्दिगॆ ई राजद्वारदल्लि अनाथनन्तॆ प्राणत्याग माडुवॆनु. श्रीरामा! मत्तॆ ब्रह्महत्यॆय पाप पडॆदु नीनु सुखियागु.॥11-12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In prowess and in austerity (vīryeṇa tapasā caiva), those of the former birth-age were superior (te ’dhikāḥ pūrva-janmani) to the great-souled men who live here in the Tretā age (mānavā ye mahātmānas tv atra tretā-yuge yuge).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -372,6 +444,12 @@ _________________
 
 महाबली राजने! नावु निम्म राज्यदल्लि सुखवागि इद्दॆवु. अदक्कागि नीनु निन्न तम्मन्दिरॊन्दिगॆ दीर्घजीवियागि बाळु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And all that priestly and royal power (brahma-kṣatraṃ ca tat sarvam), both the higher and the lesser (yat pūrvam aparaṃ ca yat), became endowed with equal prowess (sama-vīrya-samanvitam) across the two ages (yugayor ubhayoḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -399,6 +477,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामा! निन्न अधीनदल्लिरुव नम्म मेलॆ ई बालमृत्युरूपी दुःख बन्दॆरगिदॆ. इदरिन्द नावु कालवशरागिद्देवॆ. आद्दरिन्द निन्न राज्यदल्लि नमगॆ कॊञ्चवू सुख सिगलिल्ल.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving no superior distinction between them thereafter (apaśyaṃs tu na te sarve viśeṣam adhikaṃ tataḥ), they established there an accepted demarcation of the four social orders (sthāpanaṃ cakrire tatra cāturvarṇyasya sammatam).
 </details>
 </details>
 
@@ -437,6 +521,14 @@ _________________
 
 महात्मा इक्ष्वाकु राजर ई राज्यवु ईग अनाथवागिदॆ. श्रीरामनन्नु ऒडॆयनागि पडॆदु इल्लि बालकर मृत्यु यावागलू आगुत्तिदॆ.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** In that radiant age (tasmin yuge prajvalite), rich in dharma and unclouded (dharma-bhūte hy anāvṛte), Adharma planted one foot upon the surface of the earth (pādam ekaṃ tu pātayat pṛthivī-tale); for, joined with Adharma, splendor grows dim (adharmeṇa hi saṃyuktas tejo mandaṃ bhaviṣyati).
+
+**16:** And that rajasic livelihood (āmiṣam ... rājasam), deeply regarded as a stain by those of the former age (pūrveṣāṃ ... malaṃ bhṛśam), came into being on earth as that foot by the name of Anṛta (anṛtaṃ nāma tad bhūtaṃ pādena pṛthivī-tale).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,6 +559,12 @@ _________________
 
 नगरगळल्लि, देशदल्लि इरुव जनरु अनुचित कर्म-पापाचार माडिदाग अल्लि रक्षणॆय व्यवस्थॆ इल्लदिद्दाग, अनुचित कर्मदिन्द तडॆयुव यावुदे उपायविल्लदिद्दाग, देशद प्रजॆयल्लि अकाल मृत्युविन भय प्राप्तवागुत्तदॆ.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Adharma had planted that one foot of Anṛta unrighteously (anṛtaṃ pātayitvā tu pādam ekam adharmataḥ), a fixed bound to human lifespan first became manifest (tataḥ prāduṣkṛtaṃ pūrvam āyuṣaḥ pariniṣṭhitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -494,6 +592,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द नगर अथवा राज्यदल्लि ऎल्लादरू राजनिन्दले यावुदो अपराध नडॆदिरबहुदु; इदु स्पष्टवागिदॆ. आगले ई रीति बालकन मृत्युवागिदॆ इदरल्लि संशयवे इल्ल.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet even when that Anṛta and Adharma had fallen upon the earth (patite tv anṛte tasminn adharme ca mahī-tale), the people still practiced only auspicious deeds (śubhāny evācaraṃl lokaḥ), devoted to truth and dharma (satya-dharma-parāyaṇaḥ).
 </details>
 </details>
 
@@ -525,6 +629,12 @@ _________________
 
 हीगॆ अनेक रीतियिन्द अवनु पदे-पदे राजन ऎदुरिगॆ तन्न दुःखवन्नु निवेदिसिकॊण्डनु मत्तु शोक सन्तप्तनागि सत्तिरुव मगनन्नु ऎत्ति-ऎत्ति अप्पिकॊळ्ळुत्तिद्दनु.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those brāhmaṇas and kṣatriyas who dwelt in the Tretā age (tretā-yuge ca vartante brāhmaṇāḥ kṣatriyāś ca ye) all practiced austerity (tapo ’tapyanta te sarve), while the other people practiced service (śuśrūṣām apare janāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -544,6 +654,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तथापि त्रेतायुगमें जो ब्राह्मण और क्षत्रिय हैं, वे ही सब तपस्या करते हैं । अन्य वर्णके लोग सेवा-कार्य किया करते हैं ॥ २० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That supreme dharma came to the vaiśyas and śūdras (sa dharmaḥ paramas teṣāṃ vaiśya-śūdraṃ samāgamat), and the śūdras in particular performed reverential service to all the orders (pūjāṃ ca sarva-varṇānāṃ śūdrāś cakrur viśeṣataḥ).
 </details>
 </details>
 
@@ -567,6 +683,12 @@ _________________
 
 ‘उन चारों वर्णोंमेंसे वैश्य और शूद्रको सेवारूपी उत्कृष्ट धर्म स्वधर्मके रूपमें प्राप्त हुआ (वैश्य कृषि आदिके द्वारा ब्राह्मण आदिकी सेवा करने लगे और) शूद्र सब वर्णोंकी (तीनों वर्णोंके लोगोंकी) विशेषरूपसे पूजा—आदर-सत्कार करने लगे ॥ २१ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the interval of this age (etasminn antare), as adharma and anṛta prevailed among them (teṣām adharme cānṛte ca ha), those former orders then fell into deep decline (tataḥ pūrve bhṛśaṃ hrāsam agaman), O best of kings.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -589,6 +711,12 @@ _________________
 
 ‘नृपश्रेष्ठ! इसी बीचमें जब त्रेतायुगका अवसान होता है और वैश्यों तथा शूद्रोंको अधर्मके एक-पादरूप अनृतकी प्राप्ति होने लगती है, तब पूर्व वर्णवाले ब्राह्मण और क्षत्रिय फिर ह्रासको प्राप्त होने लगते हैं (क्योंकि उन दोनोंको अन्तिम दो वर्णोंका संसर्गजनित दोष प्राप्त हो जाता है) ॥ २२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that Adharma brought down its second foot (tataḥ pādam adharmas sa dvitīyam avatārayat), and from this arose the name Dvāpara for this age (tato dvāpara-sañjñā ’sya yugasya samajāyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -608,6 +736,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तदनन्तर अधर्म अपने दूसरे चरणको पृथ्वीपर उतारता है । द्वितीय पैर उतारनेके कारण ही उस युगकी ‘द्वापर’ संज्ञा हो गयी है ॥ २३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that waning age named Dvāpara was underway (tasmin dvāpara-sañjñe tu vartamāne yuga-kṣaye), both adharma and anṛta grew apace (adharmaś cānṛtaṃ caiva vavṛdhe), O bull among men.
 </details>
 </details>
 
@@ -631,6 +765,12 @@ _________________
 
 ‘पुरुषोत्तम! उस द्वापर नामक युगमें जो अधर्मके दो चरणोंका आश्रय है—अधर्म और अनृत दोनोंकी वृद्धि होने लगती है ॥ २४ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In that age reckoned as Dvāpara (tasmin dvāpara-saṅkhyāte), austerity entered the vaiśyas (tapo vaiśyān samāviśat); thus across three ages, austerity entered three orders in succession (tribhyo yugebhyas trīn varṇān kramād vai tapa āviśat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -653,6 +793,12 @@ _________________
 
 ‘इस द्वापरयुगमें तपस्यारूप कर्म वैश्योंको भी प्राप्त होता है । इस तरह तीन युगोंमें क्रमशः तीन वर्णोंको तपस्याका अधिकार प्राप्त होता है ॥ २५ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Across three ages, that dharma stood established for three orders (tribhyo yugebhyas trīn varṇān dharmaś ca pariniṣṭhitaḥ); a śūdra does not obtain that dharma across these ages (na śūdro labhate dharmaṃ yugatas tu), O bull among men—yet a man of the lowest order (hīna-varṇaḥ), O foremost of kings, performs mighty austerity (tapyate sumahat tapaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -672,6 +818,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तीन युगोंमें तीन वर्णोंका ही आश्रय लेकर तपस्यारूपी धर्म प्रतिष्ठित होता है; किंतु नरश्रेष्ठ! शूद्रको इन तीनों ही युगोंमें तपरूपी धर्मका अधिकार नहीं प्राप्त होता है ॥ २६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the Kali age, indeed, the practice of austerity shall come to be in the śūdra birth (bhaviṣyac-chūdra-yonyāṃ vai tapaścaryā kalau yuge); in Dvāpara, O king, it is supreme adharma for one of śūdra birth (adharmaḥ paramo rājan dvāpare śūdra-janmanaḥ).
 </details>
 </details>
 
@@ -695,6 +847,12 @@ _________________
 
 ‘नृपशिरोमणे! एक समय ऐसा आयगा, जब हीन वर्णका मनुष्य भी बड़ी भारी तपस्या करेगा । कलियुग आनेपर भविष्यमें होनेवाली शूद्रयोनिमें उत्पन्न मनुष्योंके समुदायमें तपश्चर्याकी प्रवृत्ति होगी ॥ २७ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Verily, on the frontier of your realm, O king (viṣaya-paryante tava rājan), that misguided one of great austerity (mahātapāḥ ... durbuddhiḥ) is practicing penance even today (adya tapyati)—from that alone comes this slaying of the child (tena bāla-vadho hy ayam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -716,6 +874,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राजन्! द्वापरमें भी शूद्रका तपमें प्रवृत्त होना महान् अधर्म माना गया है । (फिर त्रेताके लिये तो कहना ही क्या है?) महाराज! निश्चय ही आपके राज्यकी किसी सीमापर कोई खोटी बुद्धिवाला शूद्र महान् तपका आश्रय ले तपस्या कर रहा है, उसीके कारण इस बालककी मृत्यु हुई है ॥ २८ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For whatever foolish man (durmatir naraḥ) commits adharma or an unlawful deed (adharmam akāryaṃ vā) in a monarch’s realm or city (viṣaye pārthivasya ... pure vā), that deed becomes a root of ruin (aśrī-mūlam), and swiftly that king too goes to hell (kṣipraṃ ca narakaṃ yāti sa ca rājā)—of this there is no doubt.
 </details>
 </details>
 
@@ -739,6 +903,14 @@ _________________
 
 ‘जो कोई भी दुर्बुद्धि मानव जिस किसी भी राजाके राज्य अथवा नगरमें अधर्म या न करने योग्य काम करता है, उसका वह कार्य उस राज्यके अनैश्वर्य (दरिद्रता)-का कारण बन जाता है और वह राजा शीघ्र ही नरकमें पड़ता है, इसमें संशय नहीं ॥ २९-३० ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** “Protecting his subjects righteously (prajā dharmeṇa pālayan), a king enjoys a sixth share (ṣaṣṭhaṃ bhajati bhāgam) of their Vedic study, austerity, and meritorious action (adhītasya ca taptasya karmaṇaḥ sukṛtasya ca); how could he, being the enjoyer of that sixth share (ṣaḍ-bhāgasya ... bhoktā ’sau), not protect his subjects (rakṣate na prajāḥ katham)?
+
+**30:** “Therefore, O tiger among men, search out your own realm (mārgasva viṣayaṃ svakam); wherever you behold wrongdoing (duṣkṛtaṃ yatra paśyethāḥ), there exert your remedial effort (tatra yatnaṃ samācara)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -758,6 +930,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इसी प्रकार जो राजा धर्मपूर्वक प्रजाका पालन करता है, वह प्रजाके वेदाध्ययन, तप और शुभ कर्मोंके पुण्यका छठा भाग प्राप्त कर लेता है ॥ ३१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If it be done thus (evaṃ cet), there shall be increase of dharma (dharma-vṛddhiḥ), lengthening of men’s lifespans (nṛṇāṃ cāyur-vivardhanam), and, O foremost of men, life again for this boy (bālasyāsya ca jīvitam)!”
 </details>
 </details>
 

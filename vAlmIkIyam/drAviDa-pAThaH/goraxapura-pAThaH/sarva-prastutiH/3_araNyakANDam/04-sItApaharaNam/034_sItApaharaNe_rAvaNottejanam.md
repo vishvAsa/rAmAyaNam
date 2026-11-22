@@ -71,6 +71,12 @@ on seeing; *samkR^iuddhaH raavaNaH paripapracCha* = highly, infuriated one, Rava
 On observing Shuurpanakha who is speaking bitter words against him in the presence of ministers then
 Ravana is highly infuriated and queried her. [1-34-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding Śūrpaṇakhā speaking harsh words (bruvantīṃ paruṣaṃ vacaḥ), Rāvaṇa, enraged in the midst of his ministers (amātya-madhye saṃkruddhaḥ), questioned her closely (paripapraccha):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -128,6 +134,12 @@ his ancestral kingdom and enter Dandaka, a stronghold of demons?' This is the re
 *kena ca kaaraNena kula parampara aagatam praajyam raajyam parityajya nikhila nishaacara vaaso asmin
 deshe samaagataH - dk* Ravana might be unaware that Dandaka forest also belongs to Ikshvaku-s as
 Kishkindha belonged to them, as said by Rama at the time of eliminating of Vali.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who is Rāma (kaś ca rāmaḥ), of what nature is his valor (kathaṃ-vīryaḥ), what is his form (kiṃ-rūpaḥ), what is his prowess (kiṃ-parākramaḥ), and wherefore has he entered the most impassable Daṇḍaka forest (daṇḍakāraṇyaṃ sudustaram)?
 </details>
 </details>
 
@@ -194,6 +206,12 @@ this havoc single-handedly, then he should have used various and numerous weapon
 are flung... because common sense does not permit any belief that a handheld bow can dart numerous arrows
 or missile, that too when wielded by a single human...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And what is Rāma's weapon (āyudhaṃ kiṃ ca rāmasya) whereby those rākṣasas were slain, and Khara, Dūṣaṇa, and Triśiras were killed in battle (saṃkhye)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -244,6 +262,12 @@ upacakrame* = to describe, commenced.
 When the king of demons has asked her thus, she that demoness Shuurpanakha who is in a fit of fury then
 commenced to describe Rama in the point of fact. [3-34-4b, 5a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tell me the truth (tattvaṃ brūhi), O fair-limbed one (manojñāṅgi), and by whom were you disfigured (kena tvaṃ ca virūpitā)?” Thus addressed by the lord of rākṣasas, the rākṣasī, convulsed with wrath (krodha-mūrcchitā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,6 +316,12 @@ his dress; *kandarpa sama ruupaH ca* = Love-god, similar, in semblance.
 "Dasharatha's son Rama is the one with inescapable arms and keen-eyed, but has jute-cloths and skin
 of black-deer for his dress, yet in semblance he is similar to the Love-god. [3-34-5b, 6a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon began to describe Rāma accurately in due order (yathā-nyāyam ākhyātum upacakrame): “Long-armed (dīrgha-bāhuḥ), large-eyed (viśālākṣaḥ), clad in bark-cloth and black antelope skin (cīra-kṛṣṇājināmbaraḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -338,6 +368,12 @@ sarpaan iva* = those that have deadly, poison, snakes, like; *diiptaan naaraacaa
 
 "Yanking out a bow with golden fillets, and that is similar to the bow of Indra in its shine, he strews
 candent iron-arrows that simulate snakes with deadly poison. [3-34-6b, 7a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And equal in beauty to Kandarpa [the god of love] (kandarpa-sama-rūpaś ca) is Rāma, son of Daśaratha (daśarathātmajaḥ). Drawing his gold-banded bow (cāpaṃ kanakāṅgadam) that gleams like Indra's rainbow (śakra-cāpa-nibham)—
 </details>
 </details>
 
@@ -392,6 +428,12 @@ on the battleground; or, stretching his bow admitting those arrows on bowstring 
 those sharp edged arrows from the bow - no; why them, that great mighty Rama himself has become imperceptible
 in the fastness of his action. [3-34-7b, 8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He hurls blazing iron-shafted arrows (dīptān kṣipati nārācān) like serpents of deadly venom (sarpān iva mahā-viṣān)! Neither drawing forth his dread arrows (nādadānaṃ śarān ghorān) nor loosing them—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -438,6 +480,12 @@ best, army; *pashyaami* = I am seeing - then I have seen.
 
 "As with a crop of grain devastated by a hailstorm of Indra, I could only see that best army while it
 is being annihilated with a downpour of arrows. [3-34-8b, 9a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor bending his bow (na kārmukaṃ vikarṣantam) did I see the mighty Rāma in battle; I only saw that army being cut down by showers of arrows (hanyamānaṃ tu tat sainyaṃ paśyāmi śara-vṛṣṭibhiḥ)—
 </details>
 </details>
 
@@ -490,6 +538,16 @@ The above is consolidated and said as: *saH ayam
 adhunaa muni jana samucita veShopi dhik kR^ita shakra paraakrame vikrameNa shakra kaarmuka sadR^ikSham
 caapam aakR^iShya mahaa viShaan aashii viShaan iva rukma punkhaan anukShaNam prakShipan rakSho vikShobhakaram
 ati bhayankaram ruupam aavahati - dk*.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** “Like a rich crop of grain (uttamaṃ sasyam) battered by Indra with showers of hailstones (indreṇevāhataṃ tv aśma-vṛṣṭibhiḥ)! Fourteen thousand rākṣasas of dreadful valor (rakṣasāṃ bhīma-vīryāṇāṃ sahasrāṇi caturdaśa)—
+
+**10:** “Were slain with sharp arrows by him alone fighting on foot (tenaikena padātinā) in an hour and a half (ardhādhika-muhūrtena), along with Khara and Dūṣaṇa (kharaś ca saha-dūṣaṇaḥ); immunity from fear has been granted to the sages, and the Daṇḍaka forests have been made secure!
+
+**11:** “I alone was spared with difficulty (ekā kathaṃcin muktāham) after being humiliated and disfigured (paribhūya) by the high-souled Rāma, who knows the Self (viditātmanā) and shrank from slaying a woman (strī-vadhaṃ śaṅkamānena).
 </details>
 </details>
 
@@ -544,6 +602,12 @@ is only the castled city Lanka. Now that the doors to Lanka are wide open Lanka 
 danger. *nishaacaraan
 asankhyaiH rukma punkhaiH vishikhaiH vimadhya shatamakha mukhamakha bhuje akhila tapasvinaH ca nirbhayam
 vidhaaya danDakaaraNyam api sakala muni jana sharaNyam atanuta - dk*.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And his brother of mighty splendour (mahā-tejāḥ), equal to him in valor and virtues (guṇatas tulya-vikramaḥ), is the heroic Lakṣmaṇa by name, deeply affectionate and devoted (anuraktaś ca bhaktaś ca)—
 </details>
 </details>
 
@@ -613,6 +677,14 @@ a brother Lakshmana is; *nityam raamasya dakSiNe baahuH* = perpetual, Rama's, a 
 an easygoing valiant, yet he is an intellectual at ease, and a mighty one who does not ease off, such
 a Lakshmana is the perpetual right-hand and the peripherally moving life of Rama. [1-34-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “Intolerant of wrongs (amarṣī), invincible (durjayaḥ), a conqueror (jetā), valiant (vikrāntaḥ), wise (buddhimān), and strong (balī), he is forever Rāma's right arm (rāmasya dakṣiṇo bāhuḥ) and his life-breath moving outside him (prāṇo bahiś-caraḥ)!
+
+**14:** “Now Rāma has a large-eyed (viśālākṣī) lawful wife (dharma-patnī), with a face like the full moon (pūrṇendu-sadṛśānanā), beloved (priyā), and ever devoted to what is dear and beneficial to her lord (bhartuḥ priya-hite ratā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -658,6 +730,12 @@ well-being, delights in.
 
 "But, one with her broad-eyes, face similar to the full-moon is the dear and wedded wife of Rama, and
 she always takes delight in the well-being of her dear one, namely Rama. [1-34-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With lovely hair (sukeśī), shapely nose and thighs (sunāsorūḥ), beauteous (surūpā), and illustrious (yaśasvinī), she shines like the presiding deity of this forest (devateva vanasyāsya) and like a second goddess Śrī (śrīr ivāparā)!
 </details>
 </details>
 
@@ -709,6 +787,12 @@ iva* = another - temporal, Goddess Lakshmi, like; *raajate* = is beaming forth.
 is the wife of Rama, and she is beaming forth like a sylvan deity situated in that woodland, who in
 turn is like Goddess Lakshmi in a temporal form. [1-34-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Radiant with the hue of refined gold (tapta-kāñcana-varṇābhā), with red, high-arched nails (rakta-tuṅga-nakhī), auspicious (śubhā), fair-hipped (varārohā), and slender-waisted (tanu-madhyamā), she is Vaidehī, Sītā by name.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -758,6 +842,12 @@ hips; *tanu madhyamaa* = with slender waist; *siitaa naama* = Seetha, known as.
 "She has a complexion mathing the shade of refined gold, her nails are rosy and jutting, and she with
 her curvaceous hips and slim waist is the daughter of King of Videha, and known as Seetha. [1-34-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither a goddess (devī), nor a gandharvī, nor a yakṣī, nor a kiṃnarī—no woman of such beauty (tathā-rūpā nārī) has ever before been seen by me (mayā dṛṣṭa-pūrvā) upon the surface of the earth (mahī-tale)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -804,6 +894,12 @@ kinnaraa-female, even; *na* = no; *naarii mahiitale* = woman, on the face of ear
 
 "So far I have not seen any goddess with such a comeliness; a gandharva female - no; a yaksha female
 - no; a kinnara female - no; and a woman, no, not on the face of earth! [1-34-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He whose wife Sītā might be (yasya sītā bhaved bhāryā), and whom she might joyfully embrace (yaṃ ca hṛṣṭā pariṣvajet), would live more blessedly in all the worlds (abhijīvet sa sarveṣu lokeṣv api) than even Purandara [Indra] (puraṃdarāt)!
 </details>
 </details>
 
@@ -854,6 +950,12 @@ than] Indra; *ati jiivet* = grandly, lives.
 "To whom Seetha becomes a wife and around whom she gladly throws her arms after such a marriage, he
 lives more grandly than Indra in all the worlds. [1-34-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Virtuous in disposition (suśīlā), praiseworthy in every limb of her body (vapuḥ-ślāghyā), and peerless in beauty upon earth (rūpeṇāpratimā bhuvi), she is a wife worthy of you (tavānurūpā bhāryā sā), and you are a husband worthy of her (tvaṃ ca tasyāḥ patir varaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -902,6 +1004,12 @@ anuruupaa bhaaryaa* = she is, to you, seemly for, a wife; *[syaat* = she becomes
 
 "She is a highly gracious lady, laudable by her bodily structure, incomparable by her appearance, and
 she will become a seemly wife of yours, and you too will become a best husband of hers. [1-34-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When I set out to bring (ānetum udyatāham) that fair-faced woman (varānanām) of broad hips (vistīrṇa-jaghanām) and full, high breasts (pīnottuṅga-payodharām) to be your wife (bhāryārthe tu tava), I was disfigured by the cruel Lakṣmaṇa (virūpitāsmi krūreṇa lakṣmaṇena), O mighty-armed one!
 </details>
 </details>
 
@@ -955,6 +1063,12 @@ asmi* = disfigured, I am.
 "Oh, mighty shouldered brother, but when I ventured to bring her as your wife, whose hips are broad,
 bosom fat and bulgy, face excellent, that cruel Lakshmana disfigured me. [1-34-21, 22a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Once you behold today that Vaidehī with a face like the full moon (pūrṇa-candra-nibhānanām), you too shall become subject to the arrows of the god of love (manmathasya śarāṇāṃ ca tvaṃ vidheyo bhaviṣyasi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1000,6 +1114,12 @@ adya dR^iSTvaa* = her, at Vaidehi, now, if you see; *tvam* = you; *manmathasya s
 
 "You too will become a groveller at the arrows Lover-god in case you now see Vaidehi with a face shining
 like full-moon. [1-34-22, 23a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If your heart is set upon making her your wife (yadi tasyām abhiprāyo bhāryātve tava jāyate), then let your right foot be swiftly raised right now for victory (śīghram uddhriyatāṃ pādo jayārtham iha dakṣiṇaḥ)!
 </details>
 </details>
 
@@ -1047,6 +1167,12 @@ uddhriyataam* = quickly, be upraised - put your best foot forward.
 "Hence, if you hatch an opinion to make her as your wife, and if you aspire success, now itself quickly
 put your best foot, namely your right foot, forward. [1-34-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And do what is dear to those rākṣasas (kuru priyaṃ tathā teṣāṃ rakṣasām), O lord of rākṣasas, through the slaying of that ruthless ascetic-dweller Rāma (vadhāt tasya nṛśaṃsasya rāmasyāśrama-vāsinaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1092,6 +1218,12 @@ my, sentence - idea, let it be done.
 
 "Oh, the king of demons Ravana, if this advise of mine is pleasing to you, let this idea be actualised
 without any shilly-shallying in your mind. [1-34-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having slain him and the great chariot-warrior Lakṣmaṇa (lakṣmaṇaṃ ca mahā-ratham) with whetted arrows (śarair niśitaiḥ), you shall happily enjoy Sītā as you please once her protector is slain (hata-nāthāṃ sukhaṃ sītāṃ yathāvad upabhokṣyasi)!
 </details>
 </details>
 
@@ -1141,6 +1273,12 @@ for your, in wifehood - to become a wife; kriyataam [hriyataam] may be made, [be
 
 "Oh, king of the demons, realise your stout-heartedness, and oh, great mighty one, let that immaculately
 limbed Seetha be abducted to become your wife. [1-34-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If this speech of mine pleases you (rocate yadi te vākyaṃ mamaitat), O lord of rākṣasas, then let my counsel be acted upon by you without hesitation (kriyatāṃ nirviśaṅkena vacanaṃ mama), O Rāvaṇa!
 </details>
 </details>
 
@@ -1207,6 +1345,12 @@ you to awake to a workable action." Thus Shuurpanakha has earbashed Ravana. [1-3
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥34॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Recognizing their powerlessness [or: your own power] (vijñāyaiṣām aśaktiṃ ca), O mighty one, let Sītā of faultless limbs (anavadyāṅgī) be made your wife (kriyatāṃ tava bhāryātve), O lord of rākṣasas!
 </details>
 </details>
 

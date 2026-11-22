@@ -70,6 +70,12 @@ raavaNaaya* = to Ravana; the king of demons.
 Seeing that the great-souled Rama killed Kumbhakarna, the demons reported the matter
 to Ravana, the king of demons (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Kumbhakarṇa slain by the great-souled Rāghava (rāghaveṇa mahātmanā), the rākṣasas reported it to Rāvaṇa, lord of the rākṣasas (rākṣasendrāya rāvaṇāya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +116,12 @@ the time's act.
 
 "O king! That Kumbhakarna, looking like Yama the god of death, driving away the army
 of monkeys and devouring some monkeys, met with death, the time's act."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O King, after routing the monkey army (vidrāvya vānarīṃ senāṃ) and devouring the Vānaras, that [hero] who resembled Time itself (sa kālasaṃkāśaḥ) has met with the work of Time (saṃyuktaḥ kālakarmaṇā).
 </details>
 </details>
 
@@ -186,6 +198,16 @@ an ugly mass, with his body discharging blood, as his nose and ears were cut off
 scorched by a forest-fire, with his trunk half-submerged in a terribly looking sea and obstructing
 the main gate of Lanka."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** Having blazed forth in valor for a brief hour (pratapitvā muhūrtaṃ tu), he has been extinguished by Rāma's fiery splendor (praśānto rāmatejasā), with his headless trunk (kāyena) half-plunged into the terrifying ocean,
+
+**4:** and with his severed head (śarīreṇa)—its nose and ears sliced away (nikṛttanāsākarṇena) and streaming with blood (vikṣaradrudhireṇa)—blocking the gateway of Laṅkā, massive as a mountain.
+
+**5:** Your brother Kumbhakarṇa, tormented by Kākutstha's shafts (kākutsthaśarapīḍitaḥ), lies reduced to a limbless trunk (agaṇḍabhūtaḥ) and mangled (vivṛtaḥ), like a great tree scorched by a forest fire (dāvadagdha iva drumaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -225,6 +247,12 @@ mighty Kumbhakarna; *vinihatam* = was killed; *samkhye* = in battle;
 
 Hearing that the mighty Kumbhakarna was killed in battle, Ravana was tormented with
 grief and fell down, fainted.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that the mighty Kumbhakarṇa had been slain in battle (śrutvā vinihataṃ saṃkhye), Rāvaṇa, scorched by grief (śokasaṃtaptaḥ), swooned away and collapsed (mumoha ca papāta ca).
 </details>
 </details>
 
@@ -272,6 +300,12 @@ were afflicted with sorrow; *ruruduH* = and wept.
 Hearing that his paternal uncle was killed; Devantaka, Narantaka, Trishira and
 Atikaya were afflicted with sorrow and wept.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that their paternal uncle had been slain (pitṛvyaṃ nihataṃ śrutvā), Devāntaka and Narāntaka, together with Triśiras and Atikāya, wept afflicted with grief (ruruduḥ śokapīḍitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,6 +352,12 @@ grief.
 
 Hearing that Kumbhakarna, their brother was killed by Rama, who was unwary in his
 actions, Mahodara and Mahaparshva (step-brothers of Kumbhakarna) were overcome with grief.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that their brother had been slain by Rāma of unwearying deeds (rāmeṇākliṣṭakarmaṇā), Mahodara and Mahāpārśva were overcome with sorrow (śokākrāntau babhūvatuḥ).
 </details>
 </details>
 
@@ -367,6 +407,12 @@ Then, recovering his consciousness with difficulty, distressed as he was for the
 killing of Kumbhakarna and perplexed in mind, Ravana the foremost of demons, lamented (as
 follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, recovering consciousness with great difficulty (kṛcchrāt samāsādya saṃjñām), that bull among rākṣasas (rākṣasapuṅgavaḥ), wretched over Kumbhakarṇa's slaying and with his senses distraught (ākulendriyaḥ), wailed aloud:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -413,6 +459,12 @@ vihaaya = leaving me behind; *tvam* = you; *yattaH asi* = have gone; *daivaat*
 "Alas! O hero, destroying the pride of enemies! O mighty Kumbhakarna! Leaving me
 behind, you have gone by divine will to the abode of Yama the lord of death."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Alas, O hero, crusher of the pride of foes (ripudarpaghna), O mighty Kumbhakarṇa! Leaving me behind through fate (daivāt), you have departed to the abode of Yama (yāto'si yamasādanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,6 +509,12 @@ grief of relatives; *mama* = and of mine.
 "O mighty Kumbhakarna! Where are you going alone, leaving me behind, after having
 tormented the army of enemies and without taking away the thorn of grief from relatives and
 me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without drawing out the thorn [of grief] from me and our kinsmen (mama śalyam anuddhṛtya bāndhavānām), O mighty one, after scorching the enemy host alone (śatrusainyaṃ pratāpyaikaḥ), where do you go, abandoning me?
 </details>
 </details>
 
@@ -505,6 +563,12 @@ in fear; *suraasuraat* = of celestials and ogres; *patitaH* = has fallen down;
 "Indeed I shall no longer live now, that this right hand of mine, taking refuge on
 when I had no fear of celestials and ogres, has fallen down."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Truly I exist no more today (idānīṃ khalv ahaṃ nāsmi), since this right arm of mine (dakṣiṇo'yaṃ bhujaḥ) has fallen—relying upon which (samāśritya) I never feared gods or asuras!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -552,6 +616,12 @@ hero; *devadaanava darpahaa* = who destroyed the pride of celestials and demons;
 "How such a hero, who destroyed the pride of celestials and demons, as also who was
 an image of fire that was to destroy the world, was killed by Rama today in battle?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How could such a hero (katham evaṃvidho vīraḥ), the crusher of the pride of gods and dānavas (devadānavadarpahā), resembling the fire of universal dissolution (kālāgnipratimaḥ), be slain today in battle by Rāghava?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -598,6 +668,12 @@ having been afflicted Rama's arrows?
 
 "Having been afflicted by Rama's arrows, how are you, whom not even a clash of a
 thunder-bolt ever caused any fall, falling now insensibly on the earth's surface?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You upon whom even the crashing stroke of the thunderbolt (vajraniṣpeṣaḥ) could never inflict distress (na kuryād vyasanaṃ sadā)—how do you now lie fast asleep upon the ground (prasupto'si mahītale), tormented by Rāma's arrows?
 </details>
 </details>
 
@@ -649,6 +725,12 @@ rejoiced.
 "Seeing you killed in battle, these troops of celestials and sages, standing in the
 sky, are shouting with rejoice."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stationed in the sky together with the sages (sārdham ṛṣibhir gagane sthitāḥ), these hosts of gods (ete devagaṇāḥ), beholding you slain in battle, shout aloud in great jubilation (ninadanti praharṣitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -695,6 +777,12 @@ rejoiced; *adyaiva* = and now itself; *aarokSyanti* = will ascend; *durgaaNi*
 
 "It is doubly sure that the monkeys, having achieved their purpose, will be rejoiced
 and now itself will ascend the inaccessible door-ways of Lanka here from all sides."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely this very day the exultant monkeys (saṃhṛṣṭāḥ plavaṃgamāḥ), having gained their opening (labdhalakṣāḥ), will scale the impregnable gateways of Laṅkā (durgāṇi laṅkādvārāṇi) on every side.
 </details>
 </details>
 
@@ -743,6 +831,12 @@ live.
 "I have nothing to do with a kingdom and what shall I do with Seetha? I have no
 intention to live, bereft of Kumbhakarna."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I have no use for sovereignty (rājyena nāsti me kāryam); what shall I do with Sītā (kiṃ kariṣyāmi sītayā)? Bereft of Kumbhakarṇa (kumbhakarṇavihīnasya), my mind has no desire for life (jīvite nāsti me matiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -789,6 +883,12 @@ Rama; *bhraatR^ihantaaram* = who killed my brother; *yudhi* = in battle;
 
 "If I cannot kill Rama, who killed my brother, in battle, I would indeed prefer
 death, but in no case this useless life which has no meaning."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If I do not slay Rāghava, the slayer of my brother (bhrātṛhantāram), in battle, surely death is preferable for me (nanu me maraṇaṃ śreyaḥ), and not this futile life (na cedaṃ vyarthajīvitam)!
 </details>
 </details>
 
@@ -839,6 +939,12 @@ a moment; *samutsR^ijya* = leaving off; *bhraatR^iin* = my brothers.
 "Now itself, I will go to that place, where my younger brother is there. I do not
 wish to live even for a moment, after abandoning my brothers."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This very day I shall go to that realm where my younger brother is (yatrānujo mama); for having forsaken my brothers (bhrātṝn samutsṛjya), I cannot bear to live even for a moment (kṣaṇaṃ jīvitum utsahe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -885,6 +991,12 @@ hate* = now that you are ded; *katham* = how; *jayiSyaami* = can I conquer;
 
 "Seeing me, who did harm to them in the past, the celestials will indeed mock me. O
 Kumbhakarna! Now that you are dead, how can I conquer Indra the lord of celestials?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For the gods, beholding me who formerly wronged them (dṛṣṭvā pūrvāpakāriṇam), will mock me (māṃ hasiṣyanti); and how shall I conquer Indra (katham indraṃ jayiṣyāmi), O Kumbhakarṇa, now that you are slain?
 </details>
 </details>
 
@@ -933,6 +1045,12 @@ souled Vibhishana; *na gR^ihiitam* = were not accepted; *mayaa* = by me;
 "Those words of that great-souled Vibhishana, which I did not accept due to
 ignorance, have come true."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Now that salutary counsel of Vibhīṣaṇa (vibhīṣaṇavacaḥ śubham) has overtaken me (mām anuprāptam)—that [counsel] of the great-souled one which, out of ignorance (yad ajñānāt), I did not accept!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -978,6 +1096,12 @@ cruel; *vinashaH* = end; *kumbhakarNaprahastayoH* = of Kumbhakarna and Prahasta;
 
 "Ever since this cruel end of Kumbhakarna and Prahasta has happened, I am feeling
 shameful."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ever since this dreadful destruction (vināśo'yaṃ dāruṇaḥ) of Kumbhakarṇa and Prahasta arose (kumbhakarṇaprahastayoḥ samutpannaḥ), Vibhīṣaṇa's words put me to shame (māṃ vrīḍayati).
 </details>
 </details>
 
@@ -1025,6 +1149,12 @@ me.
 
 "Since that venerable Vibhishana, my pious brother was banished by me, this bitter
 fruit of that painful deed has come to me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This sorrow-bringing ripening (vipāko mama śokadaḥ) of that deed has now arrived (tasyāyaṃ karmaṇaḥ prāptaḥ), in that the righteous and glorious Vibhīṣaṇa was banished by me (yan mayā dhārmikaḥ śrīmān sa nirasto vibhīṣaṇaḥ).”
 </details>
 </details>
 
@@ -1092,6 +1222,12 @@ demon, whose inner feelings were agitated, even sank down, extremely disturbed.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तॆण्टनॆ सर्ग पूर्णवायितु.॥68॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having lamented over Kumbhakarṇa in manifold ways (bahuvidham), exceedingly piteously (kṛpaṇam atīva vilapya) and with his inmost soul distraught (ākulāntarātmā), the ten-necked king (daśānanaḥ), sorely afflicted upon knowing that his younger brother, the foe of Indra (indraripum), was slain, sank down once more (nyapatad api).
 </details>
 </details>
 

@@ -36,6 +36,12 @@ title = "०९८ राम-सान्त्वनम्"
 
 वैदेही सीतादेवियु रसातळदल्लि प्रवेशिसिदाग श्रीरामन बळियल्लि कुळितिरुव वानररॆल्लरू हागू ऋषिमुनिगळु - साध्वी सीते! नीनु धन्य! धन्य! ऎन्दु हेळतॊडगिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Vaidehī had entered Rasātala (rasātalaṃ praviṣṭāyāṃ vaidehyām), all the vānaras and the sages cried out “Well done, virtuous lady!” (cukruśuḥ sādhu sādhvīti) in the presence of Rāma (rāma-sannidhau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०९८ राम-सान्त्वनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ स्वतः श्रीरामनु बहळ दुःखितनादनु. अवनु दीनमनस्कनागि, अत्तिय दण्डद आसरॆ पडॆदु निन्तुकॊण्डु तलॆतग्गिसि कण्णुगळिन्द कम्बनि हरिसिदनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaning upon his sacrificial wooden staff (daṇḍakāṣṭham avaṣṭabhya), his eyes brimming with tears (bāṣpa-vyākulitekṣaṇaḥ), with bowed head (avākśirāḥ) and downcast spirit (dīnamanāḥ), Rāma became deeply distressed (suduḥkhitaḥ).
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०९८ राम-सान्त्वनम्"
 
 बहळ हॊत्तु तडॆदु पदे-पदे कण्णीरु सुरिसुत्ता क्रोध मत्तु शोकदिन्द कूडि श्रीराम चन्द्रनु ई प्रकार नुडिदनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having wept for a long while (sa ruditvā ciraṃ kālam), shedding tears again and again (bahuśo bāṣpam utsṛjan), Rāma, overcome by wrath and grief (krodha-śoka-samāviṣṭaḥ), spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "०९८ राम-सान्त्वनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्दु नन्न मनस्सु अभूतपूर्व शोकदल्लि मुळुगुत्तिदॆ; एकॆन्दरॆ ईग नन्न कण्णमुन्दॆये मूर्तिमन्त लक्ष्मिगॆ समानळाद सीतॆयु अदृश्यळादळु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My mind seems about to touch a sorrow never known before (abhūtapūrvaṃ śokaṃ me manaḥ spraṣṭum ivecchati), since before my very eyes (paśyato me) Sītā has vanished like embodied Śrī (naṣṭā sītā śrīr iva rūpiṇī)!
 </details>
 </details>
 
@@ -136,6 +160,12 @@ title = "०९८ राम-सान्त्वनम्"
 
 मॊदलॊम्मॆ सीतॆयु समुद्रद आचॆ लङ्कॆगॆ होगि नन्न कण्णुगळिन्द मरॆयागिद्दळु. आदरॆ नानु अल्लिन्दलू मरळि तन्दिरुवाग पृथिविय ऒळगिन्द तरुवुदु एनु दॊड्ड मातु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of old that Sītā disappeared beyond the great ocean in Laṅkā (sā ’darśanaṃ purā sītā laṅkāpāre mahodadheḥ), yet even from there she was brought back by me (tataś cāpi mayānītā)—how much more so from the depths of the earth (kiṃ punar vasudhātalāt)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,6 +190,12 @@ title = "०९८ राम-सान्त्वनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 (हीगॆ हेळि पृथिविय बळि हेळुत्तानॆ- ) पूजनीय भगवति वसुन्धरे! ननगॆ सीतॆयन्नु मरळिसि कॊडु; इल्लदिद्दरॆ नानु नन्न क्रोधवन्नु तोरुवॆनु. नन्न प्रभाववन्नु नीनु तिळिदिरुवॆ.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Goddess Earth, O revered lady (vasudhe devi bhavati), let Sītā be restored to me (sītā niryātyatāṃ mama), or else I shall display my wrath so that you truly know who I am (darśayiṣyāmi vā roṣaṃ yathā mām avagacchasi)!”
 </details>
 </details>
 
@@ -189,6 +225,12 @@ _________________
 
 देवि! वास्तववागि नीनु ननगॆ अत्तॆयागिरुवॆ. राजा जनकनु कैयल्लि नेगिलु हिडिदु निन्नन्नु ऊळुत्तिद्दनु, अदरिन्द निन्न ऒळगिनिन्द सीतॆय प्रादुर्भाववायितु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Granted, you are indeed my mother-in-law (kāmaṃ śvaśrūr mamaiva tvam), for of old Maithilī was lifted forth from you (tvatsakāśād ... uddhṛtā purā) by Janaka as he plowed with the plow in his hand (karṣatā halahastena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -213,6 +255,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द ऒन्दो सीतॆयन्नु मरळिसिकॊडु, इल्लवे नन्नन्नु निन्न मडिलिगॆ सेरिसिको; एकॆन्दरॆ पाताळविरली, स्वर्गविरली, नानु सीतॆयॊन्दिगॆ इरुवॆनु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore let Sītā be restored to me (tasmān niryātyatāṃ sītā), or else grant me too an opening (vivaraṃ vā prayaccha me), that I may dwell together with her (vaseyaṃ sahitas tayā) in Pātāla or upon the vault of heaven (pātāle nākapṛṣṭhe vā)!
 </details>
 </details>
 
@@ -248,6 +296,14 @@ _________________
 
 नीनु नन्न सीतॆयन्नु तन्दुकॊडु. नानु मिथिलेश कुमारिगागि विवेक शून्यनागिद्देनॆ. ई पृथिवियल्लि नीनु अदे रूपदल्लि सीतॆयन्नु मरळिसिकॊडदिद्दरॆ, नानु पर्वत, वनसहित निन्न अस्तित्ववन्नु नाशमाडि बिडुवॆनु. इडी भूमियन्नु विनाश माडुवॆनु. मत्तॆ बेकादरॆ ऎल्लवू जलमयवागलि.॥9-10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** “Bring back that Sītā, for I am beside myself for Maithilī’s sake (matto ’haṃ maithilīkṛte); if you will not restore Sītā to me in her very form upon the earth’s surface (yathārūpāṃ mahītale),
+
+**10:** “I shall blast away your entire realm together with its mountains and forests (saparvata-vanāṃ kṛtsnāṃ vidhamiṣyāmi te sthitam); I shall destroy the earth—let all here become water (sarvam āpo bhavatv iha)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,6 +328,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरघुनाथनु क्रोध, शोकदिन्द युक्तनागि हीगॆ मातुगळन्नाडतॊडगिदाग देवतॆगळ सहित ब्रह्मदेवरु रघुकुलनन्दन श्रीरामनल्लि हेळिदरु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as Kākutstha spoke thus, seized by wrath and sorrow (krodha-śoka-samanvite), Brahmā, together with the hosts of gods (suragaṇaiḥ sārdham), addressed the delight of the Raghus:
 </details>
 </details>
 
@@ -298,6 +360,12 @@ _________________
 
 सुव्रतनाद श्रीरामा! मनस्सिनल्लि सन्तापपडबेड. शत्रुसूदन ! निन्न हिन्दिन स्वरूपवन्नु नॆनॆदुको.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Rāma, O Rāma, you ought not to give way to anguish (na santāpaṃ kartum arhasi), O observer of noble vows; remember your primordial nature (smara tvaṃ pūrvakaṃ bhāvam) and the counsel [taken of old] (mantraṃ ca), O vanquisher of foes!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,6 +390,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबाहो! दुर्धर्षने! निनगॆ नानु एनन्नू ज्ञापिसबेकाद आवश्यकतॆयिल्ल. आदरू विज्ञापिसुत्तेनॆ - नीनु विष्णुविन अवतारनागिद्दु, वैष्णव स्वरूपवन्नु ज्ञापिसिको.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Not indeed would I presume to remind you, O mighty-armed, peerless one (na khalu tvāṃ mahābāho smārayeyam anuttamam); yet at this very moment, O invincible one, recall your Vaiṣṇava birth (imaṃ muhūrtaṃ durdharṣa smara tvaṃ janma vaiṣṇavam).
 </details>
 </details>
 
@@ -348,6 +422,12 @@ _________________
 
 साध्वी सीतॆयु सर्वथा शुद्धळागिद्दाळॆ. अवळु मॊदलिनिन्दलू निन्नल्ले परायणळागिद्दळु. निन्न आश्रय पडॆयुवुदे आकॆय तपोबलवागिदॆ. अदरिन्दागि आकॆ सुखपूर्वकवागि नागलोकद मूलक निन्न परमधामक्कॆ हॊरटु होदळु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For spotless, virtuous Sītā, ever devoted to your primordial nature (tava pūrva-parāyaṇā), has gone happily to Nāgaloka by the power of austerity rooted in taking refuge in you (tvadāśraya-tapobalāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -372,6 +452,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्नु पुनः साकेतधामदल्लि निनगॆ आकॆयु दॊरॆयुवळु, इदरल्लि संशयवे इल्ल. ईग ई सभॆयल्लि नानु हेळुवुदर कडॆगॆ गमनकॊडु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In heaven (svarge) your reunion with her will surely come to pass again (saṅgamo bhūyo bhaviṣyati na saṃśayaḥ); now heed what I declare in the midst of this assembly (asyās tu pariṣanmadhye).
 </details>
 </details>
 
@@ -398,6 +484,12 @@ _________________
 
 नीनु केळिद निन्न चरित्रॆगॆ सम्बन्धिसिद ई काव्यवु ऎल्ल काव्यगळल्लि उत्तमवागिदॆ. श्रीरामा! इदु निन्न जीवन-वृत्तान्तवन्नु विस्तारवागि तिळिसि हेळुत्तदॆ, इदरल्लि सन्देहवे इल्ल.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this very poem (etad eva hi kāvyam), the highest of all poems, which you have heard, will expound everything to you in full detail, O Rāma—of this there is no doubt (sarvaṃ vistarato rāma vyākhyāsyati na saṃśayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -422,6 +514,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वीरने! आविर्भविसिदन्दिनिन्द नीनु सेविसिद सुख-दुःखगळ हागू सीतॆय अन्तर्धानवाद मेलॆ, भविष्यदल्लि नडॆयुव सङ्गतिगळन्नु महर्षि वाल्मीकिगळु इदरल्लि पूर्णरूपदिन्द वर्णिसिरुवरु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From your birth onward, O hero, your experience of joys and sorrows (janma-prabhṛti ... sukha-duḥkhopasevanam), together with what is yet to come thereafter (bhaviṣyad uttaraṃ ceha), has all been composed here by Vālmīki.”
 </details>
 </details>
 
@@ -448,6 +546,12 @@ _________________
 
 श्रीरामा! इदु आदिकाव्यवागिदॆ. ई समग्र काव्यद आधारशिलॆयु नीने आगिरुवॆ. निन्न जीवन वृत्तान्तवन्ने आधरिसि ई काव्यद रचनॆयागिदॆ. काव्यद नायकनागुव अधिकारि नीनल्लदॆ बेरॆ यशस्वी पुरुषनु यारू इल्ल.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This Ādikāvya, O Rāma, is wholly established in you (ādikāvyam idaṃ rāma tvayi sarvaṃ pratiṣṭhitam); for no one other than Rāghava is worthy to partake of the renown of poems (na hy anyo ’rhati kāvyānāṃ yaśobhāg rāghavād ṛte).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -473,6 +577,12 @@ _________________
 
 देवतॆगळॊन्दिगॆ नानु मॊदलु निनगॆ सम्बन्धित ई काव्यवन्नु पूर्णवागि श्रवणिसिद्देनॆ. इदु दिव्य, अद्भुतवागिदॆ. इदरल्लि यावुदे सङ्गति अडगिल्ल. इदरल्लि हेळिद ऎल्ल सङ्गतिगळु सत्यवागिवॆ.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All this concerning you was indeed heard of old by me together with the gods (śrutaṃ te pūrvam etad dhi mayā sarvaṃ suraiḥ saha)—divine, wondrous in form, true in utterance, and unveiled (satyavākyam anāvṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -497,6 +607,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषसिंह रघुनन्दन! नीनु धर्मपूर्वक एकाग्रचित्तनागि भविष्यद घटनॆगळिन्द कूडिद उळिद रामायण काव्यवन्नु केळिकॊ.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore do you, O tiger among men, well-composed in dharma (dharmeṇa susamāhitaḥ), listen to the remaining, future portion of the poem Rāmāyaṇa (śeṣaṃ bhaviṣyaṃ ... kāvyaṃ rāmāyaṇaṃ śṛṇu), O Kākutstha!
 </details>
 </details>
 
@@ -526,6 +642,12 @@ _________________
 
 महा यशस्वी हागू महातेजस्वी श्रीरामा! ई काव्यद अन्तिम भागद हॆसरु उत्तरकाण्डवागिदॆ. आ उत्तम भागवन्नु नीनु ऋषिगळॊडनॆ श्रवणिसु.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Uttara’ by name is this remaining section of the poem here (uttaraṃ nāma kāvyasya śeṣam atra), O greatly famed one; hear that supreme portion, O mighty-splendored one, together with the sages (ṛṣibhiḥ sārdham uttamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -554,6 +676,12 @@ _________________
 
 काकुत्स्थवीर रघुनन्दन! नीनु सर्वोत्तम राजर्षियागिरुवॆ. आद्दरिन्द मॊदलु नीने ई उत्तम काव्यवन्नु केळबेकु. बेरॆयवरु अल्ल.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, this supreme portion must not be heard by any other, O Kākutstha (na khalv anyena ... śrotavyam), save by you alone, O supreme sage-king (paramam ṛṣiṇā ... tvayaiva), O hero, O delight of the Raghus!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -578,6 +706,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इष्टु हेळि त्रिलोकस्वामि ब्रह्मदेवरु देवतॆगळॊन्दिगॆ, बन्धु बान्धवरॊन्दिगॆ तम्म लोकक्कॆ तॆरळिदरु.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus much (etāvad uktvā vacanam), Lord Brahmā, sovereign of the three worlds (tribhuvaneśvaraḥ), departed to heaven (jagāma tridivam) together with the gods and their kindred (devaiḥ saha sabāndhavaiḥ).
 </details>
 </details>
 
@@ -605,6 +739,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मलोकदल्लि वासिसुव महातेजस्वी महात्मा ऋषिगळु, ब्रह्मदेवर आदेशदन्तॆ मुन्दिन वृत्तान्तदिन्द कूडिद उत्तर काण्डवन्नु केळुव इच्छॆयिन्द तम्म लोकक्कॆ मरळि होगदे अल्ले उळिदरु.॥24½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And those great-souled, mighty-splendored sages of Brahmaloka who were there (ṛṣayo brāhmalaukikāḥ), granted permission by Brahmā (brahmaṇā samanujñātāḥ), turned back [remained behind] (nyavartanta), eager to hear the future Uttara portion concerning Rāghava (uttaraṃ śrotumanaso bhaviṣyaṃ yac ca rāghave).
 </details>
 </details>
 
@@ -634,6 +774,12 @@ _________________
 
 बळिक ब्रह्मदेवरु हेळिद शुभवाणियन्नु नॆनॆदु परम तेजस्वी श्रीरामनु महर्षि वाल्मीकिगळल्लि इन्तॆन्दनु-॥25½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then supremely resplendent Rāma, hearing the auspicious speech uttered by the God of gods (devadevasya bhāṣitām), spoke thus to Vālmīki:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -658,6 +804,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूज्यरे! ई ब्रह्मलोक निवासि महर्षिगळु नन्न भावी चरित्रदिन्द कूडिद उत्तरकाण्डद उळिद भागवन्नु केळलु बयसुत्तिद्दारॆ. आद्दरिन्द नाळॆ बॆळिग्गॆये आदर गायन प्रारम्भवागबेकु.॥26½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O blessed one, the sages of Brahmaloka are eager to hear (śrotumanasaḥ) what is yet to come of my future Uttara story (bhaviṣyad uttaraṃ yan me); let it commence on the morrow (śvobhūte sampravartatām).”
 </details>
 </details>
 
@@ -700,6 +852,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि तॊम्भत्तॆण्टनॆय सर्ग पूर्णवायितु. ॥98॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having made this firm resolve (evaṃ viniścayaṃ kṛtvā), taking Kuśa and Lava with him (sampragṛhya kuśīlavau) and dismissing that multitude (taṃ janaughaṃ visṛjyātha), he repaired to the leaf-hut (parṇaśālām upāgamat); and as he grieved for that very Sītā (tām eva śocataḥ sītām), that night passed away (sā vyatīyāya śarvarī).
 </details>
 </details>
 

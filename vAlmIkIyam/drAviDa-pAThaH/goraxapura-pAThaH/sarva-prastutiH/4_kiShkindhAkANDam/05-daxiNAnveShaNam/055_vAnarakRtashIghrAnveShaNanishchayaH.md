@@ -69,6 +69,12 @@ said.
 On hearing the polite and righteous words of Hanuma, which are just yeomanly towards Hanuma's lord, namely Sugreeva,
 Angada said these sentences. [4-55-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Hanūmān's courteous speech (praśritaṃ vākyam), endowed with righteousness and marked by reverence for his lord (svāmi-satkāra-saṃyuktam), Aṅgada spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ Sugreeva, not, deducible.
 
 "Un-deducible in Sugreeva are his steadiness, or harmlessness, or frankness, also thus salience, or even valiance,
 further more cleanliness of heart or soul. [4-55-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Steadfastness (sthairyam), purity of soul and mind (ātma-manaḥ-śaucam), compassion (ānṛśaṃsyam), rectitude (ārjavam), valor, and fortitude are not to be found in Sugrīva.”
 </details>
 </details>
 
@@ -184,6 +196,14 @@ the mouth of the cavity to fightback the demon Dundubhi if he tries to escape, a
 is still inside the cavity, thus he is nefarious, how then he can be said as one conversant with moral rectitude?
 [4-55-3, 4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** “He who reviledly appropriates (svīkaroti jugupsitaḥ) the beloved queen-consort (mahiṣīṃ priyām) of his living elder brother—she who by sacred law is his own mother (dharmeṇa mātaram)—”
+
+**4:** “How can that wicked-souled man know righteousness (kathaṃ sa dharmaṃ jānīte), who, when appointed by his brother as a guard while he went forth to battle (yuddhāyābhiniyuktena), blocked up the mouth of the cavern (bilasya pihitaṃ mukham)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,6 +257,12 @@ For this statement Hanuma may retort saying 'Sugreeva has not overlooked Rama bu
 comforts. He sent all of us all over to search for Seetha in requital to the help rendered by Rama... is it not
 the upright conduct of Sugreeva?' For that Angada is ready with an answer as.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whose good deed would he ever remember (sa kasya sukṛtaṃ smaret), by whom Rāghava of mighty renown—who grasped his hand in truth (satyāt pāṇigṛhītaḥ) and accomplished his work (kṛtakarmā)—was forgotten?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -286,6 +312,12 @@ as a coward; *na* = not; not as a coward fearing his own unscrupulousness; *tasm
 "He has ordered and sent us for searching Seetha owing to the fear from Lakshmana, but not as a coward fearing
 his own unscrupulousness, how then can scrupulosity be manifest in him? [4-55-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How could righteousness exist in him who ordered [us] here to search for Sītā out of fear of Lakṣmaṇa (lakṣmaṇasya bhayena), and not from fear of the peril of unrighteousness (nādharmabhayabhīruṇā)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -334,6 +366,12 @@ one belonging - one belonging to his family.
 act of eliminating my father, and unmindful of tradition in usurping my mother and throne, and unthankful in requiting
 Rama by himself, instead of using us as pawns, and changeful in ignoring his promise to Rama, but in fearing for
 Lakshmana? Will it be possible especially for one like me belonging to his family? [4-55-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What noble man (āryaḥ)—and above all one born of that rival lineage (tatkulīno viśeṣataḥ)—would ever place trust in that sinful, ungrateful (kṛtaghne), law-forsaking (smṛtibhinne), and fickle-minded wretch?”
 </details>
 </details>
 
@@ -390,6 +428,12 @@ cannot rebut Angada for he has no valid proof to show to Angada about Sugreeva's
 by Hanuma in the earlier chapter. Hence, 'better to follow the leader, than to argue...' is the only option left
 to Hanuma.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whether endowed with virtues or devoid of virtues (saguṇo nirguṇo 'pi vā), a son [of one's own] is to be established on the throne (rājye putraḥ pratiṣṭhāpyaḥ); how then will Sugrīva suffer me, who spring from an enemy's stock (śatrukulīnam), to live?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -436,6 +480,12 @@ live, indeed.
 "My slyness in planning to live in Black Hole has backfired, I am now culpable in not finding Seetha being the
 troop leader, and I am a powerless as you all are Sugreeva's side, how then can I live on indeed after reaching
 Kishkindha, like caitiff turned into a wretch. [4-55-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With my secret counsel betrayed (bhinnamantraḥ), guilty of transgression (aparāddhaḥ), and my strength shattered (bhinnaśaktiḥ), how indeed could I live upon reaching Kiṣkindhā, weak and helpless as an orphan (anātha iva)?”
 </details>
 </details>
 
@@ -486,6 +536,12 @@ hi* = surceases, indeed.
 "Indeed he surceases me by some mysterious trammelling punishment, for that Sugreeva becomes disingenuous, ferocious,
 also barbarous just for the reason of his kingship. [4-55-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For the deceitful, cruel, and ruthless Sugrīva, for the sake of the kingdom (rājyakāraṇāt), would consign me to secret execution (upāṃśudaṇḍena) or imprisonment (bandhanena).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +586,12 @@ be acquiescent; *gR^iham gacChantu* = to dwelling place, may go back.
 
 "Fast unto death behoves me than trammels and tramples, thus you all be acquiescent to my proposal and you may
 go back to your dwellings. [4-55-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fasting unto death (prāyopaveśanam) is better for me than imprisonment and the misery of ruin (avasādāt); let all give me leave (anujānantu māṃ sarve), and let the Vānaras depart to their homes!”
 </details>
 </details>
 
@@ -576,6 +638,12 @@ to city, not, I wish to go; *iha eva praayam aasiSye* = here, only, fast unto de
 "I am reiterating to you all that I do not wish to go to the city of Kishkindha, and here only I sit fasting unto
 death, as death alone is expedient to me. [4-55-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I pledge to you solemnly (ahaṃ vaḥ pratijānāmi): I shall not go to the city; right here I shall sit in a fast unto death (prāyam āsiṣye), for death alone is better for me!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -600,6 +668,12 @@ death, as death alone is expedient to me. [4-55-12]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीवु राजा सुग्रीवनिगॆ प्रणामगैदु अवनल्लि नन्न समाचार तिळिसिरि. तम्म बलदिन्द शोभिसुव रघु वंशी इब्बरू बन्धुगळिगू नन्न सादर प्रणाम वन्नु निवेदिसुत्ता क्षेम समाचार तिळिसिरि.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Preceded by my respectful salutation (abhivādanapūrvaṃ tu), the king is to be inquired of regarding his welfare (kuśalam), and preceded by my salutation, the two mighty Rāghavas as well.”
 </details>
 </details>
 
@@ -641,6 +715,12 @@ death, as death alone is expedient to me. [4-55-12]
 
 "On my behalf Raghava-s wellbeing may be enquired firstly paying deference to them, so also the wellbeing of my
 paternal uncle and king may be enquired, only after paying deference to that lord of vanara-s. [4-55-13, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My younger sire (tāto yavīyān me), Sugrīva the lord of Vānaras, is to be addressed with inquiries of his welfare, and my mother Rumā is to be asked after her health and well-being (ārogyapūrvaṃ kuśalam).”
 </details>
 </details>
 
@@ -686,6 +766,12 @@ iha* = now; *maam vinaSTam shrutvaa* = me, as perished one, on hearing; *vyaktam
 Lady Tara, who by her nature is a warm-hearted and austerely lady who cherishes her son more, and such as she
 is she will obviously leave off her life on hearing that I breathed my last." So said Angada to all monkeys. [4-55-14b,
 16a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And you ought to console my mother Tārā (mātaraṃ caiva me tārām); by her very nature she is devoted to her son (priyaputrā), tender-hearted (sānukrośā), and pitiable (tapasvinī).”
 </details>
 </details>
 
@@ -734,6 +820,12 @@ on sacred grass, entered - reclined.
 
 On speaking to that point and after paying deference to older vanara-s available there, Angada puling glum facedly
 reclined on the sacred grass spread on ground. [4-55-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing that I have perished here, she will surely abandon her life (vyaktaṃ hāsyati jīvitam).” Having spoken this word and bowed to those elders (vṛddhāṃs tān abhivādya ca),
 </details>
 </details>
 
@@ -806,6 +898,14 @@ ca* = of Vali, esteeming, also; *angadam parivaarya* = Angada, gathering around;
 While disesteeming Sugreeva but esteeming Vali, all of the vanara-s have gathered around Angada deciding to sit
 down for fasting unto death in step with Angada. [4-55-18b, 19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** Aṅgada, dejected in mind (durmanāḥ), entered upon the ground weeping on the darbha grass (darbheṣu); and as he lay down there, the foremost of Vānaras wept,
+
+**18:** And, stricken with grief, shed hot tears (uṣṇaṃ vāri) from their eyes, reviling Sugrīva and praising Vālin.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -863,6 +963,14 @@ said by Angada as appropriate, they positioned themselves on the sacred grass af
 The sacred-grass is spread as sacred beds to cast off their lives. The edges of grass blades are positioned southward.
 As they are on that northern shore of southern ocean, all those best monkeys who are bent on to self-immolation,
 they became recumbent facing eastward. [4-55-19b, 21a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** Surrounding Aṅgada, all those bulls among monkeys (plavagarṣabhāḥ), comprehending that resolve of Vālin's son, determined to sit in a fast unto death (vyavasan prāyam āsitum).
+
+**20:** Having sipped water ceremonially (upaspṛśyodakam), all of them, resorting to the northern shore [of the ocean] (udaktīraṃ samāśritāḥ), sat down facing east (prāṅmukhāḥ) upon darbha blades pointing south (dakṣiṇāgreṣu darbheṣu).
 </details>
 </details>
 
@@ -925,6 +1033,14 @@ Vali. [4-55-21, 22]
 Here Maheshvara Tiirtha says that 'an apprehensive dread swept over them subconsciously...' not because of the
 past episodes, but due to some future events, where their becoming pray to some unknown carnivore, namely Sampaati,
 is apprehended. Thus, their fasting unto death, as per scriptural sanction is going to fail.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Desiring to die (mumūrṣavaḥ), those best of monkeys [deemed], “This alone is fitting (etat kṣamam)!” [Recounting] Rāma's exile in the forest and the demise of Daśaratha (kṣayaṃ daśarathasya ca),
+
+**22:** And the slaughter in Janasthāna, and the slaying of Jaṭāyus, and the abduction of Vaidehī, as well as the slaying of Vālin, and Rāma's wrath—as the monkeys spoke of these, dread came upon them (bhayam āgatam).
 </details>
 </details>
 
@@ -996,6 +1112,12 @@ with strident clouds about to burst a good fortune. [4-55-23]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तैदनॆय सर्ग सम्पूर्णवायितु.॥55॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With those multitudinous monkeys resembling the peaks of great mountains (mahādrikūṭa-pratimaiḥ) sitting down together, that mountain had its interiors and cascades resounding (saṃnādita-nirjharāntaraḥ), like the sky with loudly thundering clouds (nadadbhir jaladair ivāmbaram).
 </details>
 </details>
 

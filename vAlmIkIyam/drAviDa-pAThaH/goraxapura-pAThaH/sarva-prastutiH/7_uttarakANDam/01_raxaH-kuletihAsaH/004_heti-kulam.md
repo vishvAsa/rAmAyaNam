@@ -36,6 +36,12 @@ title = "००४ हेति-कुलम्"
 
 अगस्त्यर मातन्नु केळि श्रीरामनिगॆ विस्मयवायितु. लङ्कॆयल्लि राक्षसर उत्पत्ति हेगायितु? यारिन्दायितु? ऎन्दु श्रीरामनु योचिसिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard the words uttered by Agastya (agastyeritaṃ vākyam), Rāma was filled with wonder (vismayam āgataḥ): how indeed had there been an origin and abode of rākṣasas (sambhavo rakṣasām) in Laṅkā in ancient times (purā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "००४ हेति-कुलम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु अच्चरियन्नु सूचिसुत्ता तलॆयाडिसि, त्रेताग्निगळ तेजदन्तॆ तेजस्सिनन्द बॆळगुत्तिद्द अगस्त्यरन्नु पदे-पदे नोडुत्ता मुगुळ्नगुत्ता केळिदन.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, shaking his head (śiraḥ kampayitvā) and gazing repeatedly (muhur dṛṣṭvā) upon Agastya, whose frame shone like the three sacred fires (tretāgni-sama-vigraham), he spoke in astonishment (smayamāno ’bhyabhāṣata):
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "००४ हेति-कुलम्"
 
 पूज्यरे ! कुबेर मत्तु रावणर मॊदलु ई लङ्कॆयु मांसभोज राक्षसर अधीनदल्लित्तु ऎन्दु निम्मिन्द केळि ननगॆ अत्यन्त विस्मयवागिदॆ.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Blessed One (bhagavan), did this Laṅkā belong to flesh-eating rākṣasas (piśitāśinām) even in earlier times (pūrvam api)? Hearing this utterance of Your Reverence (bhagavad-vākyam), supreme wonder (vismayaḥ paraḥ) has arisen in me!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "००४ हेति-कुलम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसर उत्पत्तियु पुसल्त्यर वंशदिन्दायितु ऎन्दु नावु केळिद्दॆवु. आदरॆ ईग नीवु यावुदो बेरॆ कुलदिन्द राक्षसर प्रादुर्भावद मातन्नु हेळिदिरि.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We had heard (naḥ śrutam) that the rākṣasas sprang from the lineage of Pulastya (pulastya-vaṃśād udbhūtāḥ); yet now an origin from another source as well (anyataś cāpi sambhavaḥ) has been proclaimed by you!
 </details>
 </details>
 
@@ -136,6 +160,12 @@ title = "००४ हेति-कुलम्"
 
 आ मॊदलिन राक्षसरु रावण, कुम्भकर्ण, प्रहस्त, विकट, रावण पुत्ररिगिन्तलू हॆच्चु बलिष्ठरागिद्दरेनु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Were those [earlier rākṣasas] mightier (balavattarāḥ) even than Rāvaṇa, Kumbhakarṇa, Prahasta, and Vikaṭa, and even than the sons of Rāvaṇa (rāvaṇasya ca putrebhyaḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,6 +190,12 @@ title = "००४ हेति-कुलम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मन्! अवर पूर्वजनु यारु? अन्तह बलोत्कट राक्षस राजन हॆसरेनु? याव अपराधक्कागि विष्णु लङ्कॆयिन्द अवरन्नु ओडिसिदनु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who was their progenitor (pūrvakaḥ), O Brāhmaṇa (brahman), and what was the name (kinnāmā) of that one of surging might (balotkaṭaḥ)? And having incurred what offense (aparādhaṃ ca kaṃ prāpya), how were they put to flight by Viṣṇu (viṣṇunā drāvitāḥ katham)?
 </details>
 </details>
 
@@ -186,6 +222,12 @@ title = "००४ हेति-कुलम्"
 
 पुण्यात्मरे ! इदॆल्लवन्नु नीवु ननगॆ विस्तारवागि तिळिसिरि. इदर कुरितु नन्न मनस्सिनल्लि कुतूहलविदॆ. सूर्यनु अन्धकार कळॆयुवन्तॆये नीवु नन्न कुतूहलवन्नु निवारणॆ माडिरि.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Relate all this to me in full detail (vistarataḥ sarvam), O sinless one (anagha); dispel this curiosity of mine (kutūhalam idaṃ mahyaṃ nuda), even as the sun dispels darkness (bhānur yathā tamaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -210,6 +252,12 @@ title = "००४ हेति-कुलम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामन आ सुन्दरवाणियु पदसंस्कार, वाक्यसंस्कार मत्तु अर्थसंस्कारदिन्द अलङ्कृत वागित्तु. अदन्नु केळि, इवनु सर्वज्ञनागिद्दरू तिळियदवनन्तॆ नन्नल्लि केळुत्तिद्दानल्ल ऎन्दु योचिसि अगस्त्यरिगॆ विस्मयवायितु. मत्तॆ अवरु श्रीरामनल्लि हेळिदरु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those auspicious words of Rāghava, adorned with refined elegance (saṃskārālaṅkṛtaṃ śubham), Agastya, mildly marvelling (īṣad vismayamānaḥ), spoke thus to Rāghava:
 </details>
 </details>
 
@@ -237,6 +285,12 @@ title = "००४ हेति-कुलम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! पद्मसम्भव प्रजापति ब्रह्मदेवरु मॊदलु नीरन्नु (समुद्रवन्नु) सृष्टिसि, अदन्नु रक्षिसलु अनेक रीतिय जल-जन्तुगळन्नु निर्मिसिदरु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In the beginning (purā), having created the primeval waters (apaḥ), the Lord of Creatures (prajāpatiḥ), water-born (salila-sambhavaḥ) and lotus-born (padma-sambhavaḥ), created living beings (sattvān) for their guardianship (tāsāṃ gopāyane).
 </details>
 </details>
 
@@ -266,6 +320,12 @@ _________________
 
 आ जीव-जन्तुगळु हसिवु- बायारिकॆ यिन्द कङ्गॆट्टु ‘ईग नावेनु माडुवुदु?’ ऎन्दु हेळुत्ता तम्म जन्मदात ब्रह्मदेवर बळिगॆ विनीतरागि होदवु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Those beings (te sattvāḥ), tormented by fear of hunger and thirst (kṣut-pipāsā-bhayārditāḥ), approached the Creator of beings (sattva-kartāram) in humble reverence (vinītavat), asking, ‘What shall we do (kiṃ kurmaḥ)?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,6 +350,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मानद! इवॆल्लरू बन्दिरुवुदन्नु नोडि प्रजापतियु अवरन्नु सम्बोधिसि नगुत्ता जल- जन्तुगळे! नीवु प्रयत्नपूर्वक ई नीरन्नु रक्षिसिरि ऎन्दु हेळिदरु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then the honor-bestowing Lord of Creatures (prajāpatiḥ ... mānadaḥ), smiling gently as it were (prahasann iva), addressed those beings (tāni sattvāni) with the spoken command: ‘Guard [these waters] with diligence (yatnena rakṣadhvam)!’
 </details>
 </details>
 
@@ -319,6 +385,12 @@ _________________
 
 आ हसिदवरल्लि कॆलवरु केळिदरु - नावु ई जलवन्नु (रक्षाम) रक्षिसुवॆवु मत्तु इन्नू कॆलवरु नावु इदन्नु (यक्षाम) पूजिसुवॆवु ऎन्दु हेळिदवु. आग भूतकर्तृनाद प्रजापतियु हेळिदरु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon some among them cried, ‘We shall guard (rakṣāma)!’ while others cried, ‘We shall devour (jakṣāma)!’ Addressed thus by those hungry and non-hungry beings (bhukṣitābhukṣitair uktaḥ), the Maker of Beings (bhūtakṛt) then spoke to them:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,6 +415,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निम्मल्लि यारु ‘रक्षाम’ ऎन्दु हेळिदिरो अवरॆल्लरू राक्षसरागिरि. ‘यक्षाम’ ऎन्दु हेळिरु ववरु यक्षरॆन्दु प्रसिद्धरागिरि. हीगॆ आ जीविगळु राक्षस मत्तु यक्षरादरु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“ ‘Let those among you (vaḥ) who declared, We shall guard (rakṣāma), become Rākṣasas (rākṣasās te bhavantu); and let those among you who declared, We shall devour (jakṣāma), become Yakṣas (yakṣā eva bhavantu)!’
 </details>
 </details>
 
@@ -369,6 +447,12 @@ _________________
 
 आ राक्षसरल्लि हेति मत्तु प्रहेति ऎम्ब इब्बरु सहोदररिद्दरु. इवरु समस्त राक्षसर अधिपतिगळागिद्दरु. शत्रुदमन समर्थराद अवरिब्बरु मधु-कैटभरन्तॆ शक्तिवन्तरागिद्दरु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Among them (tatra) arose two brothers, sovereigns of the rākṣasas (bhrātarau rākṣasādhipau), Heti and Praheti (hetiḥ prahetiś ca), tamers of foes (arindamau), resembling Madhu and Kaiṭabha (madhu-kaiṭabha-saṅkāśau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -393,6 +477,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरल्लि प्रहेति धर्मात्मनागिद्दनु, अदरिन्द अवनु कूडले तपोवनक्कॆ होगि तपस्सिगॆ तॊडगिदनु. आदरॆ हेतियु विवाहक्कागि भारी प्रयत्न माडिदनु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of those two, the righteous Praheti (prahetir dhārmikaḥ) then departed to the penance grove (tapovana-gataḥ), whereas Heti made a strenuous effort (paraṃ yatnam athākarot) for the sake of taking a wife (dāra-kriyārthe).
 </details>
 </details>
 
@@ -419,6 +509,12 @@ _________________
 
 अवनु आत्मबलसम्पन्न हागू बुद्धिवन्तनागिद्दनु. अवनु स्वतः याचिसि कालन तङ्गि भयानकळाद कुमारि भया ऎम्बुवळॊडनॆ विवाहवादनु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That great-minded one of immeasurable spirit (ameyātmā ... mahāmatiḥ) himself sought out and wedded (udāvahat ... svayam eva) the maiden named Bhayā (bhayāṃ nāma), the fear-inspiring (bhayāvahām) sister of Kāla [Death] (kāla-bhaginīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -443,6 +539,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसराज हेतियु भयाळ गर्भदिन्द ऒन्दु पुत्रनन्नु पडॆदु, अवनु विद्युत्केशनॆन्दु प्रसिद्धनागिद्दनु. अवन हुट्टिनिन्द हेतियु तानु श्रेष्ठ पुत्रवन्तनॆन्दु तिळिदनु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Upon her (tasyām), Heti, that bull among rākṣasas (rākṣasa-puṅgavaḥ) and foremost of fathers (putravatāṃ śreṣṭhaḥ), begot a son famed by the name Vidyutkeśa (vidyutkeśa iti śrutam).
 </details>
 </details>
 
@@ -469,6 +571,12 @@ _________________
 
 हेतिपुत्र विद्युत्केशि सूर्यनन्तॆ प्रकाशिसुत्तिद्दनु. आ महातेजस्वी बालकनु नीरिनल्लि कमलदन्तॆ दिनदिन्द दिनक्कॆ बॆळॆयतॊडगिदनु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That son of Heti, Vidyutkeśa, of mighty splendor (mahātejāḥ) and radiant as the blazing sun (dīptārka-samaprabhaḥ), grew apace like a rain-cloud [or lotus] in the midst of waters (toya-madhya ivāmbudaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -493,6 +601,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निशाचर विद्युत्केशियु बॆळॆदु युवकनादाग अवन तन्दॆ हेतियु मगन मदुवॆ माडलु निश्चयिसिदनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When that night-roamer (niśācaraḥ) attained fair youth (yauvanaṃ bhadram), his father thereupon resolved (vyavasitaḥ pitā) to arrange his marriage (dāra-kriyāṃ tasya kartum).
 </details>
 </details>
 
@@ -519,6 +633,12 @@ _________________
 
 राक्षसश्रेष्ठ हेतियु तन्न मगन मदुवॆगागि सन्ध्यॆय पुत्रियन्नु, तायि सन्ध्यॆयन्तॆये इद्द वळन्नु वरिसिदनु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then Heti, that bull among rākṣasas (rākṣasa-puṅgavaḥ), sought in marriage (varayām āsa) for his son’s sake (putrārtham) the daughter of Sandhyā (sandhyāyās tanayām), equal to Sandhyā herself in might (sandhyā-tulyāṃ prabhāvataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -543,6 +663,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! कन्यॆयन्नु बेरॆ यारॊन्दिगादरू मदुवॆ अवश्य माडबेकु; आद्दरिन्द इवनॊन्दिगॆ एकॆ माडबारदु? ऎन्दु योचिसि, सन्ध्यॆयु तन्न पुत्रियन्नु विद्युत्केशिगॆ कॊट्टु मदुवॆ माडिदळु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Reflecting, ‘She must inevitably be given in marriage to another (avaśyam eva dātavyā parasmai),’ Sandhyā bestowed her daughter (sutā dattā) upon Vidyutkeśa, O Rāghava (rāghava).
 </details>
 </details>
 
@@ -569,6 +695,12 @@ _________________
 
 सन्ध्यॆय पुत्रियन्नु पडॆदु निशाचर विद्युत्केशियु आकॆयॊन्दिगॆ, देवेन्द्रनु पुलोमपुत्रि शचियॊन्दिगॆ विहरिसिदन्तॆ विहरिसिदनु.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having obtained the daughter of Sandhyā, the night-roamer Vidyutkeśa sported with her (ramate sma tayā sārdham) even as Indra [Maghavān] sports with Paulomī (paulomyā maghavān iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -593,6 +725,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामा! सन्ध्यॆय आ पुत्रिय हॆसरु सालकण्टका ऎन्दित्तु. कॆल समयदल्लि अवळु मेघपङ्क्तिगळु समुद्रदिन्द जलवन्नु ग्रहिसुवन्तॆ विद्युत्केशियिन्द गर्भवन्नु धरिसिदळु.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, after some time (kenacit tv atha kālena), O Rāma, Sālakaṭaṅkaṭā conceived a child from Vidyutkeśa (vidyutkeśād garbham āpa), even as a bank of rain-clouds draws moisture from the ocean (ghana-rājir ivārṇavāt).
 </details>
 </details>
 
@@ -625,6 +763,12 @@ _________________
 
 बळिक आ राक्षसियु मन्दराचलक्कॆ होगि, गङ्गॆयु अग्नियु बिट्ट शिवनन्तेजःस्वरूपि गर्भवन्नु (कुमार कार्तिकेय) उत्पन्नगॊळिसिदन्तॆ, विद्युत्तिन कान्तियुळ्ळ बालकनिगॆ जन्मनीडिदळु. आ नवजात शिशुवनन्नु अल्ले बिट्टु अवळु विद्युत्केशनॊन्दिगॆ रतिक्रीडॆगॆ तॆरळिदळु.॥24॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then that rākṣasī, going to Mount Mandara (mandaraṃ gatvā), gave birth (prasūtā) to a child radiant as the lightning-core of a thundercloud (ghana-garbha-samaprabham), even as Gaṅgā brought forth the fire-born babe [Skanda] (gaṅgā garbham ivāgnijam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -649,6 +793,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तन्न मगुवन्नु मरॆतु सालकण्टका पतियॊन्दिगॆ रमिसतॊडगिदळु. अत्त आकॆयु बिट्ट गर्भवु मेघगम्भीर गर्जनॆयन्तॆ शब्द माडतॊडगितु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet abandoning that newborn child (samutsṛjya tu sā garbham), yearning for amorous sport with Vidyutkeśa (vidyutkeśa-ratārthinī), she dallied with her husband (reme tu sārdhaṃ patinā), completely forgetting the son born of her own body (vismṛtya sutam ātmajam).
 </details>
 </details>
 
@@ -675,6 +825,12 @@ _________________
 
 अदर शरीरकान्तियु शरत्कालद सूर्यनन्तॆ बॆळगुत्तित्तु. तायियु बिट्ट आ शिशुवु तन्न मुष्टियन्ने बायिगॆ हाकि अळतॊडगितु.॥26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Abandoned thus (utsṛṣṭas tu tadā), that newborn with a voice like the rumble of thunderclouds (ghana-śabda-samasvanaḥ)—that infant forsaken by her (tayotsṛṣṭaḥ sa tu śiśuḥ), gleaming like the autumn sun (śarad-arka-samadyutiḥ)—thrust his own fist into his mouth (nidhāyāsye svayaṃ muṣṭim) and began to weep softly (ruroda śanakais tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -699,6 +855,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग भगवान् शङ्करनु पार्वतियॊन्दिगॆ वृषभारूढनागि आकाशमार्गवागि होगुत्तिद्दनु. अवरु बालकन अळुविन दनि केळिदरु.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Just then, riding upon his bull (vṛṣabham āsthāya) in the company of Pārvatī (pārvatyā sahitaḥ), Śiva, travelling along the aerial path (vāyu-mārgeṇa gacchan), heard the sound of that weeping (śuśrāva rudita-svanam).
 </details>
 </details>
 
@@ -727,6 +889,12 @@ _________________
 
 पार्वतीसहित शिवनु अळुत्तिरुव आ राक्षसकुमारन कडॆगॆ नोडिदरु. अदर दयनीय स्थितियन्नु नोडि मातॆ पार्वतिय हृदयदल्लि करुणॆय स्रोत हरियितु. अवळ प्रेरणॆयिन्द त्रिपुरसूदन भगवान् शिवनु आ राक्षस बालकनन्नु अदर तायियन्तॆये तरुणनन्नागिसिदनु.॥28½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Together with Umā (umayā sārdham), he beheld the weeping rākṣasa infant (rudantaṃ rākṣasātmajam); and moved by Pārvatī’s compassionate disposition (kāruṇya-bhāvāt pārvatyā), Bhava, the slayer of Tripura (bhavas tripura-sūdanaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -751,6 +919,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इष्टे अल्लदॆ पार्वतिय प्रियवन्नु माडुव इच्छॆयिन्द अविनाशी, निर्विकार भगवान् महादेवनु आ बालकनन्नु अमरनागिसि, अवनिगॆ इरलु ऒन्दु आकाशचारि नगराकार विमानवन्नु कॊट्टनु.॥29½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—made that rākṣasa infant equal in age to his mother (mātur eva vayaḥ-samam); and moreover, having rendered him immortal (amaraṃ caiva taṃ kṛtvā), the imperishable, immutable Mahādeva (mahādevo ’kṣaro ’vyayaḥ)—
 </details>
 </details>
 
@@ -778,6 +952,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजकुमार! अनन्तर पार्वतियू - ‘इन्दिनिन्द राक्षसियरु बेगने गर्भ धरिसुवरु; मत्तॆ बेगने प्रसव माडुवरु. हुट्टिद बालकनु कूडले बॆळॆदु तायियन्तॆये तरुणरागुवरु’ ऎन्दु वरवन्नु कॊट्टळु.॥30-31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** “—bestowed upon him a sky-faring city (puram ākāśagaṃ prādāt) out of desire to please Pārvatī (pārvatyāḥ priya-kāmyayā). And by Umā too a boon was granted to the rākṣasas (rākṣasānām), O prince (nṛpātmaja):
+
+**31:** “ ‘Instantaneous conception of the embryo (sadyopalabdhir garbhasya), instantaneous delivery as well (prasūtiḥ sadya eva ca), and immediately too the attainment of maturity (sadya eva vayaḥ-prāptiḥ) equal to the very age of the mother (mātur eva vayaḥ-samam)!’
 </details>
 </details>
 
@@ -818,6 +1000,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि नाल्कनॆय सर्ग पूर्णवायितु. ॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon Sukeśa (sukeśaḥ), elated by the bestowal of those boons (vara-dāna-garvitaḥ), having obtained royal splendor (śriyam) from the presence of Lord Hara (prabhoḥ ... harasya pārśvataḥ) and gained that sky-going city (khagaṃ puram), roamed everywhere, mighty and high-minded (mahān mahāmatiḥ), like Indra [Purandara] himself (purandaro yathā).”
 </details>
 </details>
 

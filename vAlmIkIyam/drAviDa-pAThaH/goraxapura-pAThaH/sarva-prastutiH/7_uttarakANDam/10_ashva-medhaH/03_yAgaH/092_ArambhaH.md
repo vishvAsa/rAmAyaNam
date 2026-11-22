@@ -36,6 +36,12 @@ title = "०९२ आरम्भः"
 
 हीगॆ ऎल्ल प्रकारद समस्त सामग्रिगळन्नु कळिसि भरताग्रजनाद श्रीरामनु उत्तम लक्षणगळिन्द कूडिद, कृष्णसार मृगदन्तॆ कप्पुबण्णद यज्ञाश्ववन्नु बिट्टनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swiftly dispatching all that equipment in its entirety (tat sarvam akhilenāśu prasthāpya), the elder brother of Bharata (bharatāgrajaḥ) released the black-dappled stallion (hayaṃ ... kṛṣṇasāram) endowed with auspicious marks (lakṣaṇa-sampannam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,6 +70,12 @@ _________________
 
 ऋत्विजर सहित लक्ष्मणनन्नु आ अश्वद रक्षणॆगागि नियुक्तगॊळिसि, श्रीरघुनाथनु सैन्यसहित नैमिषारण्यक्कॆ प्रयाण माडिदनु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Appointing Lakṣmaṇa together with the officiating priests (ṛtvigbhir lakṣmaṇaṃ sārdham) to the charge of the horse-ritual (aśva-tantre niyojya ca), Kākutstha then proceeded with his army (saha sainyena) to Naimiṣa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,6 +100,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि निर्मितवाद अत्यन्त अद्भुत यज्ञ मण्टपवन्नु नोडि महाबाहु श्रीरामनिगॆ अतुल सन्तोषवागि ‘बहळ सुन्दरवागिदॆ’ ऎन्दु हेळिदनु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the supremely wondrous sacrificial enclosure (yajña-vāṭaṃ ... paramam adbhutam), the mighty-armed, illustrious prince attained matchless joy (praharṣam atulaṃ lebhe) and uttered words of praise (iti vaco ’bravīt).
 </details>
 </details>
 
@@ -114,6 +132,12 @@ _________________
 
 नैमिषारण्यदल्लि वासिसुवाग श्रीरामचन्द्रन बळि भूमण्डलद ऎल्ल राजरू बगॆ-बगॆय उडुगॊरॆगळन्नॆत्तिकॊण्डु बन्दरु. श्रीरामनु अवरॆल्लर स्वागत-सत्कार माडिदनु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he dwelt in Naimiṣa (naimiṣe vasatas tasya), all the lords of men (sarva eva narādhipāḥ) brought forth royal tributes (āninyur upahārāṃś ca), and Rāma honored them in return (tān rāmaḥ pratyapūjayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +162,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरिगॆ अन्न-पानादि, वस्त्र हागू इतर आवश्यक वस्तुगळन्नु कॊट्टनु. शत्रुघ्नन सहित भरतनन्नु आ राजर स्वागत-सत्कारदल्लि नियुक्तगॊळिसलागित्तु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For those great-souled monarchs together with their retinues (pārthivānāṃ mahātmanāṃ sānugānām), the wise foremost of men assigned opulent pavilions (upakāryā mahārhāś ca ... vyādideśa).
 </details>
 </details>
 
@@ -167,6 +197,12 @@ _________________
 
 सुग्रीव सहित महात्मराद वानररु परम पवित्र हागू एकाग्रचित्तरागि आग अल्लि ब्राह्मणरिगॆ भोजन बडिसुत्तिद्दरु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And food, drink, and garments (annapānāni vastrāṇi) for those great-souled guests with their attendants, Bharata swiftly distributed (bharataḥ sandadāv āśu), accompanied by Śatrughna (śatrughna-sahitas tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -192,6 +228,12 @@ _________________
 
 अनेक राक्षसरिन्द परिवृतनाद विभीषणनु अत्यन्त ऎच्चरिकॆयिन्द इद्दु उग्र तपस्वी ऋषिगळ सेवा कार्यदल्लि तॊडगिद्दनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the great-souled vānaras together with Sugrīva (vānarāś ca mahātmānaḥ sugrīva-sahitās tadā), bowing humbly (praṇatāḥ), all performed the serving of food to the brahmins (viprāṇāṃ ... cakrire pariveṣaṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -216,6 +258,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबलि नरश्रेष्ठ श्रीरामनु सेवकरॊन्दिगॆ महात्मा भूपालकरिगॆ वसतिगागि बहुमूल्य बिडारगळन्नु बिट्टु कॊट्टनु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Bibhīṣaṇa, surrounded by many garlanded rākṣasas (rakṣobhir bahubhiḥ sragvibhir vṛtaḥ), rendered worshipful service to the great-souled sages of fierce austerity (ṛṣīṇām ugra-tapasāṃ pūjāṃ cakre).
 </details>
 </details>
 
@@ -245,6 +293,12 @@ _________________
 
 हीगॆ सुन्दरवागि अश्वमेध यज्ञद कार्य प्रारम्भवायितु मत्तु लक्ष्मणन संरक्षणॆयल्लि यज्ञाश्ववु भूमण्डलद भ्रमणद कार्यवू चॆन्नागि नॆरवेरितु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus the well-ordered horse sacrifice went forward (evaṃ suvihito yajño hayamedho ’bhyavartata), and the horse-observance protected by Lakṣmaṇa proceeded (lakṣmaṇenābhiguptā ca hayacaryā pravartata); such was the supreme, foremost sacrifice of the lion among kings (īdṛśaṃ rājasiṃhasya yajña-pravaram uttamam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -271,6 +325,14 @@ _________________
 
 राजाओंमें सिंहके समान पराक्रमी महात्मा श्रीरघुनाथजीका वह श्रेष्ठ यज्ञ इस प्रकार उत्तम विधिसे होने लगा । उस अश्वमेध-यज्ञमें केवल एक ही बात सब ओर सुनायी पड़ती थी—जबतक याचक संतुष्ट न हों, तबतक उनकी इच्छाके अनुसार सब वस्तुएँ दिये जाओ, इसके सिवा दूसरी बात नहीं सुनायी देती थी । इस प्रकार महात्मा श्रीरामके श्रेष्ठ यज्ञमें नाना प्रकारके गुड़के बने हुए खाद्य पदार्थ और खाण्डव आदि तबतक निरन्तर दिये जाते थे जबतक कि पानेवाले पूर्णतः संतुष्ट होकर बस न कर दें ॥ १०-११ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** —no other cry was heard there at the horse sacrifice of the great-souled one (nānyaḥ śabdo ’bhavat tatra hayamedhe mahātmanaḥ) save: “Give freely at will, without hesitation (chandato dehi visrabdhaḥ), until the petitioners are satisfied (yāvat tuṣyanti yācakāḥ)!”
+
+**11:** All things were given in full measure in the midst of the great-souled one’s sacrifice (tāvat sarvāṇi dattāni kratu-madhye mahātmanaḥ), together with varied jaggery delicacies (vividhāni ca gauḍāni) and candied confections as well (khāṇḍavāni tathaiva ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -295,6 +357,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजसिंह पराक्रमी महात्मा श्रीरामन आ श्रेष्ठयज्ञवु हीगॆ उत्तम विधियिन्द नडॆयुत्तित्तु. आ अश्वमेध यज्ञदल्लि याचकरु सन्तुष्टरागुववरॆगॆ अवर इच्छॆगनुसार ऎल्ल वस्तुगळन्नु कॊडिरि ऎम्ब ऒन्दे मातु ऎल्लॆडॆ केळि बरुत्तित्तु. बेरॆ एनू केळि बरुत्तिरलिल्ल. हीगॆ महात्मा श्रीरामन श्रेष्ठयज्ञदल्लि नानाप्रकारद बॆल्लदिन्द माडिद भक्षगळन्नू, सिहिमोदकगळन्नु याचकरु ‘साकु’ ऎन्दु हेळुववरॆगॆ निरन्तरवागि हञ्चुत्तिद्दरु.॥10-12½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hardly had a word of request issued from the lips of the supplicants (na niḥsṛtaṃ bhavaty oṣṭhād vacanaṃ yāvad arthinām), than it was already seen bestowed by the vānaras and rākṣasas (tāvad vānara-rakṣobhir dattam evābhyadṛśyata).
 </details>
 </details>
 
@@ -321,6 +389,12 @@ _________________
 
 राजा श्रीरामन आ श्रेष्ठयज्ञदल्लि हृष्ट-पुष्ट मनुष्यरु नॆरॆदिद्दरु. अल्लि यारू मलिन, दीन, दुर्बलरु कण्डु बरुत्तिरलिल्ल..॥13½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+No one there was soiled (na kaścin malinas tatra), downcast, or emaciated (dīno vāpy atha karśitaḥ) at that foremost sacrifice of the king, thronged with delighted, well-nourished folk (hṛṣṭa-puṣṭa-janāvṛte).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,6 +420,12 @@ _________________
 
 आ यज्ञदल्लि आगमिसिद चिरञ्जीवि, महात्मा मुनिगळिगॆ हिन्दॆ नडॆद इन्तह यावुदे यज्ञद स्मरणॆयागलिल्ल. अल्लि दान वस्तुगळु राशि-राशियागि अलङ्कृतवागिद्दवु.॥14½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even the great-souled, long-lived sages present there (ye ca tatra mahātmāno munayaś cirajīvinaḥ) recalled no such sacrifice (nāsmaraṃs tādṛśaṃ yajñam), nor had there ever been one like it at any time (nāpy āsīt sa kadācana).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -370,6 +450,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यारिगॆ सुवर्णद आवश्यकतॆ इत्तो, अवनु सुवर्ण पडॆयुत्तिद्दनु. धनवन्नु बयसुववरिगॆ धन सिगुत्तित्तु. रत्नवन्नु इच्छिसुववरिगॆ रत्न कॊडलागुत्तित्तु.॥15½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whoever had need of gold (yaḥ kṛtyavān suvarṇena) obtained gold (suvarṇaṃ labhate sma saḥ); the seeker of wealth obtained wealth (vittārthī labhate vittam), and the seeker of gems obtained gems indeed (ratnārthī ratnam eva ca).
 </details>
 </details>
 
@@ -399,6 +485,12 @@ _________________
 
 अल्लि निरन्तर दान माडिद बॆळ्ळि, बङ्गार, रत्न, वस्त्र मुन्तादवुगळ राशि-राशि कण्डु बरुत्तिद्दवु.॥16½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Of silver, of gold, of precious stones, and of garments (rajatānāṃ suvarṇānām aśmanām atha vāsasām) given away without ceasing (aniśaṃ dīyamānānām), a mountain-heap was visibly beheld (rāśiḥ samupadṛśyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -427,6 +519,12 @@ _________________
 
 अल्लिगॆ बन्द तपस्वी मुनिगळु - इन्तह यज्ञवादरो इन्द्र, चन्द्र, यम, वरुण इवरल्लियू मॊदलु नोडलिल्ल ऎन्दु हेळुत्तिद्दरु.॥17½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither of Śakra, nor of the Lord of Wealth, nor of Yama or Varuṇa (na śakrasya dhaneśasya yamasya varuṇasya vā) has such a sacrifice ever been seen before (īdṛśo dṛṣṭa-pūrvo na)!”—thus spoke those rich in austerity (evam ūcus tapodhanāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -451,6 +549,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वानररू, राक्षसरू ऎल्लॆडॆ दान कॊडलु वस्तुगळन्नु हिडिदु निन्तिद्दरु. वस्त्र, धन, अन्नद इच्छॆयुळ्ळवरिगॆ हॆच्चॆच्चु नीडुत्तिद्दरु.॥18½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Everywhere stood vānaras and everywhere indeed rākṣasas (sarvatra vānarās tasthuḥ sarvatraiva ca rākṣasāḥ); with brimming hands (pūrṇa-hastāḥ) they lavishly gave garments, wealth, and food to supplicants (vāso-dhanānnam arthibhyaḥ ... dadur bhṛśam).
 </details>
 </details>
 
@@ -482,6 +586,12 @@ _________________
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये उत्तरकाण्डे द्विनवतितमः सर्गः ॥ ९२ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके उत्तरकाण्डमें बानबेवाँ सर्ग पूरा हुआ ॥ ९२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus this sacrifice of the lion among kings, endowed with every excellence (īdṛśo rājasiṃhasya yajñaḥ sarva-guṇānvitaḥ), continued for a full year and more (saṃvatsaram atho sāgraṃ vartate) and did not diminish (na ca hīyate).
 </details>
 </details>
 

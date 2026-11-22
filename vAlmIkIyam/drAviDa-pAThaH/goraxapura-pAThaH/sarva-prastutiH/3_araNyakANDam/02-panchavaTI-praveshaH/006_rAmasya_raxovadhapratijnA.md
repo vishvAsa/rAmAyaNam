@@ -68,6 +68,12 @@ After the heavenward journey of Sage Sharabhanga, Rama is approached by
 On Sage Sharabhanga attaining heaven, groups of sages assembled and approached
  Rama of Kakutstha dynasty, who is glowing with resplendence. [3-6-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Śarabhaṅga had ascended to heaven (divaṃ prāpte), hosts of sages (muni-saṃghāḥ) assembled together and approached Kākutstha—Rāma of blazing splendour.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,6 +225,18 @@ Thus some are dwellers on high-peaked places with their senses controlled, and
  with five kinds of fire around them. [3-6-5]
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** Vaikhānasas, Vālakhilyas, Saṃprakṣālas, drinkers of sunbeams and moonbeams (marīcipāḥ), many pounders of raw grain with stones (aśma-kuṭṭāḥ), and ascetics subsisting on fallen leaves (patrāhārāḥ)—
+
+**3:** —those using their own teeth as mortars (dantolūkhalinaḥ), and others who stand submerged in water (unmajjakāḥ), those resting only upon their own limbs (gātra-śayyāḥ), those who abstain from lying down (aśayyāḥ), and those who allow no idle interval (anavakāśikāḥ)—
+
+**4:** —sages subsisting on water alone (salilāhārāḥ), others feeding upon air (vāyu-bhakṣāḥ), dwellers under the open sky (ākāśa-nilayāḥ), and those who sleep upon bare consecrated ground (sthaṇḍila-śāyinaḥ)—
+
+**5:** —subdued ascetics dwelling on high peaks (ūrdhva-vāsinaḥ), wearers of wet bark-garments (ārdra-paṭa-vāsasaḥ), those ever engaged in muttering prayers (sajapāḥ), devoted to austerity, and practitioners of the five-fire penance (pañcatapo’nvitāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -271,6 +289,12 @@ _________________
 
 All have Vedic resplendence and firm yogic control, and they have arrived at the
  hermitage of Sage Sharabhanga for Rama. [3-6-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—all endowed with Brāhmic lustre (brāhmyā śriyā yuktāḥ) and absorbed in firm yoga (dṛḍha-yoga-samāhitāḥ), those ascetics approached Rāma in the hermitage of Śarabhaṅga.
 </details>
 </details>
 
@@ -331,6 +355,12 @@ The word *
  destination that is Rama. The Omni-Luminescent, , emerged in Kakutstha dynasty as Rama. Knowing
  that, all the sages of higher knowledge have arrived at their 'destination' in this mortal world
  itself... Maheshvara Tirtha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having approached Rāma, the foremost of upholders of dharma, those assembled hosts of sages, knower of dharma, spoke to him who knew the supreme dharma (parama-dharmajñam):
 </details>
 </details>
 
@@ -405,6 +435,12 @@ We have not heard of any chariot or horse being utilised by Rama, let alone in
  horses, are asking the one who chariots/spins the earth and earthlings, to take off the children
  of lesser gods, namely demons, far away from humans where humans are god controlled species.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are the mighty car-warrior (mahārathaḥ) of this Ikṣvāku race and of the earth, the chief (pradhānaḥ) and the protector (nāthaḥ), like Maghavān among the gods.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,6 +505,12 @@ The above is the apparent meaning. The subtext is "Are you, the supreme
  dharma in respect of your own creation/ maintenance..." Thus this is the confrontation-like-
  addressing of the enlightened sages. Maheshvara Tirtha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Renowned across the three worlds for your glory and valour (yaśasā vikrameṇa ca), in you abide devotion to your father’s vow (pitṛ-vratatvam), truth, and abundant dharma (puṣkalaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +572,12 @@ Special supplication to god is a waste. His mercy has to flows on its own
  sages on one hand say that 'you have come here in the incarnation of Rama to eradicate evil...'
  At the same time, they say 'we have an appeal for the same...' This begging off, is as per social
  custom, made to the apparent ruler of the kingdom, not to the innate Divine.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having approached you—great-souled, knower of dharma, and tenderly devoted to dharma (dharma-vatsalam)—out of suppliant need (arthitvāt), O lord, we shall speak; and that you ought to pardon us.
 </details>
 </details>
 
@@ -594,6 +642,12 @@ Special supplication to god is a waste. His mercy has to flows on its own
  pramaadena prajaaH samrakShaNiiyaaH - rakShaNaat uttama loka avaaptiH - arakShaNe doShaH ca
  bhavati iti suucitam - dharmaakuutam
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A great transgression of dharma (adharmaḥ sumahān), O lord, would befall that ruler of the earth who takes the sixth-part royal tribute (bali-ṣaḍbhāgam) yet does not protect [his subjects] like a father (putravat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -655,6 +709,14 @@ Special supplication to god is a waste. His mercy has to flows on its own
  years to come, and thereby he attains a prosperous place even in Brahma's abode... [3-6-12,
  3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “Applying himself (yuñjānaḥ) and ever vigilant (nitya-yuktaḥ), constantly protecting all dwellers in his realm like his own life-breaths, and like cherished sons dearer than life (prāṇair iṣṭān sutān iva)—
+
+**13:** —such a king, O Rāma, attains enduring fame that lasts for many ages (kīrtiṃ bahu-vārṣikīm), and, reaching the abode of Brahmā, is magnified (mahīyate) there as well.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -708,6 +770,12 @@ _________________
  great duty-bound deeds performed by each individual sage, say yajna-s, ascesis, meditation etc.
  performances. [3-6-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever supreme dharma (paraṃ dharmam) an ascetic subsisting on roots and fruits accomplishes, one-fourth thereof (catur-bhāgaḥ) belongs to the king who protects his subjects according to dharma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -759,6 +827,12 @@ _________________
  where the most reverent Brahmans are there numerously, they look as though forsaken, for they are
  being demolished by demons, devastatingly... [3-6-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet this great host of forest-dwellers (vānaprastha-gaṇaḥ), composed predominantly of brahmins (brāhmaṇa-bhūyiṣṭhaḥ) and having you as its lord (tvan-nāthaḥ), O Rāma, is being fiercely slaughtered by rākṣasas as though lordless (anāthavat)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -808,6 +882,12 @@ _________________
 "Come and see many of the bodies of the sages, the contemplative souls, that are
  variously killed by ghastly demons in the forest... [3-6-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Come, behold (ehi paśya) the bodies of many sages of purified souls (bhāvitātmanām), slain in manifold ways in the forest by terrible rākṣasas!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -856,6 +936,12 @@ _________________
 "At Pampa riverside, and alongside of River Mandakini, and at the surroundings of
  Mt. Chitrakuta also, this hideous warfare is being done... [3-6-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A great slaughter (kadanam mahat) is being wrought upon those dwelling by the river Pampā, along the Mandākinī (anumandākinīm api), and among those whose abode is Citrakūṭa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -903,6 +989,12 @@ _________________
 
 "Thus. we are not able to tolerate this injustice to the sages, being executed in
  this forest by the demons with fiendish deeds, in a ghastly manner... [3-6-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus we cannot endure (na mṛṣyāmaḥ) this terrible outrage (viprakāram) being perpetrated against the ascetics in the forest by rākṣasas of dreadful deeds.
 </details>
 </details>
 
@@ -970,6 +1062,12 @@ It is said as 'you are the only refuge' because there is no pre or post verbs
  these demons, which is half way through our exercise to attain total salvation.' is the subtext
  of the speech of sages.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore we have approached you, who are worthy of offering refuge (śaraṇyam), for the sake of protection (śaraṇārtham); protect us, O Rāma, who are being slaughtered by night-stalkers!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1032,6 +1130,12 @@ There is no way-out on this earth, for that matter of fact in all the
  Prince...' it is said as: "you have come here like a prince of Ayodhya, unlike a wild boar, or a
  fish or a man-lion, your earlier incarnations, so remember us and give us salvation...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“No higher refuge (parā gatiḥ) than you, O hero, is found upon the earth; protect us all from the rākṣasas, O prince!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1081,6 +1185,12 @@ There is no way-out on this earth, for that matter of fact in all the
 
 On hearing all that is said by the sages of great penance, he that virtue souled
  Rama said this unto all of the sages. [3-6-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing this speech of those ascetics rich in penance (tāpasānāṃ tapasvinām), righteous-souled Kākutstha spoke thus to all those ascetics:
 </details>
 </details>
 
@@ -1132,6 +1242,12 @@ _________________
 
 "Unapt is this way of speaking to me...command me, for I am at your behest... just
  for my personal purpose I had to enter the forests.... [3-6-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You ought not to address me thus; I am to be commanded (ājñāpyo’ham) by ascetics! By my own duty alone (kevalena svakāryeṇa) had this forest to be entered by me—
 </details>
 </details>
 
@@ -1207,6 +1323,12 @@ Griffit's Translit: I wait the hests of all of you. / I by mine own
  occasion led / This mighty forest needs must tread, / And while I keep my sire's decree / Your
  lives from threatening foes will free.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—in order to cast off this persecution of yours (viprakāram apākraṣṭum) wrought by the rākṣasas; yet as one executing my father’s command (pitus tu nirdeśa-karaḥ) have I entered this forest.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1260,6 +1382,12 @@ _________________
 "Perchance I have come for the achievement of your purpose, such as I am, dwelling
  in this forest will immensely be fruitful to me... [3-6-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For the accomplishment of your purpose (bhavatām artha-siddhyartham) have I come here by providence (yadṛcchayā); therefore this forest residence of mine will bear great fruit (mahā-phalaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1307,6 +1435,12 @@ _________________
 
 "I wish to eliminate demons, the enemies of sages, in war... let the sages behold
  my valour, and my brother's valour in doing so..." Thus Rama promised the sages. [3-6-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I wish to slay in battle the rākṣasas, the enemies of the ascetics; let the sages rich in penance behold my valour together with my brother’s (sabhrātur me)!”
 </details>
 </details>
 
@@ -1375,5 +1509,11 @@ Thus giving his aegis to the sages, that valiant Rama who is firmly virtue-soule
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि आरनॆय सर्ग सम्पूर्णवायितु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having granted that boon to the ascetics rich in penance, the hero, his soul firm in dharma (dharme dhṛtātmā), together with Lakṣmaṇa and accompanied by the ascetics, of noble conduct (ārya-vṛttaḥ), set out directly toward Sutīkṣṇa.
 </details>
 </details>

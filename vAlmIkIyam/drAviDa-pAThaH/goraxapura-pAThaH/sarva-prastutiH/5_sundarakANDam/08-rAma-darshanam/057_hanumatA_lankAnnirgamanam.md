@@ -118,6 +118,18 @@ Hanuma, with a rush equal to that of wind, withaut a fatigue, leapt across the b
  its waves, the moon bea.ns as its cool water and with the Nagas, yakshas and Gandharvas as its full
  blown lotuses and water-lilies.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** And having sprung up (āplutya ca) with mighty speed (mahāvegaḥ) like a winged mountain (pakṣavān iva parvataḥ), [into that sky-ocean] where Nāgas, Yakṣas, and Gandharvas were the full-blown red and blue lotuses (bhujaṅgayakṣagandharvaprabuddhakamalotpalam),
+
+**2:** Which was lovely with the moon as its white night-lily (sa candrakumudaṃ ramyam), bright with the sun as its kāraṇḍava waterfowl (sārkakāraṇḍavaṃ śubham), had the asterisms Tiṣya and Śravaṇa as its kādamba geese (tiṣyaśravaṇakādambam), and the clouds as its duckweed and grassy banks (abhraśaivalaśādvalam),
+
+**3:** Which had the constellation Punarvasu as its great fish (punarvasumahāmīnam), the red planet Mars as its great crocodile (lohitāṅgamahāgraham), Indra's elephant Airāvata as its great island (airāvatamahādvīpam), and was graced by the star Svātī as its sporting swan (svātīhaṃsavilāsitam),
+
+**4:** Whose billowy waves were the massed gusts of wind (vātasaṃghātajālormi) and whose cool waters were the moonbeams (candrāṃśuśiśirāmbumat)—unwearied (apariśrāntaḥ), Hanumān swam across that ocean of the sky (pupluve gaganārṇavam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -179,6 +191,14 @@ While moving in the sky, the illustrious Hanuma, the son of wind-god and the gre
  monkey, appeared as if swallowing the sky, scratching the moon and carrying off the sky with its
  stars and the disc of the sun and was going as though dragging asunder, a mass of clouds.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** As though swallowing up the sky (grasamāna ivākāśam), as though grazing the lord of stars [the moon] (tārādhipam ivollikhan), and as though carrying off the firmament (harann iva gaganam) together with its constellations and the solar orb (sanakṣatraṃ sūrkamaṇḍalam),
+
+**6:** Unwearied (apariśrāntaḥ), he plunged across that shoreless ocean (apāraṃ cāmbudhiṃ samagāhata); Hanumān sped along (hanūmān gacchati) as though dragging the masses of clouds in his wake (meghajālāni vikarṣann iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,6 +248,12 @@ _________________
 Dense clauds, with white and red colaurs, blue and yellow colaurs as also green and
  reddish brown colaurs shone brightly in the sky.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pale-white and ruddy in hue (pāṇḍurāruṇavarṇāni), dark-blue and madder-red (nīlamāñjiṣṭhakāni ca), and greenish and tawny-red in hue (haritāruṇavarṇāni), the great clouds shone forth (mahābhrāṇi cakāśire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -276,6 +302,12 @@ _________________
 
 Time and again, entering and coming out of the clusters of clouds, Hanuma appeared
  like the moon becoming visible and invisible again and again.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering the masses of clouds (praviśann abhrajālāni) and emerging again and again (niṣkramaṃś ca punaḥ punaḥ), he appeared like the moon (candramā iva dṛśyate) alternately shining forth and obscured (prakāśaś cāprakāśaś ca).
 </details>
 </details>
 
@@ -328,6 +360,12 @@ The heroic Hanuma, who was clad in white clothes, having faund his way into vari
  kinds of dense clauds (and energing again) and having his personlaity becoming visible and invisible,
  shone like the moon in the sky.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moving within the varied and dense cloud-banks (vividhābhraghanāpannagocaraḥ), clad in white garments (dhavalāmbaraḥ), his form alternately visible and invisible (dṛśyādṛśyatanuḥ), that hero thus acted like the moon in the sky (vīras tathā candrāyate 'mbare).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -378,6 +416,12 @@ _________________
 Tearing asunder the clusters of clouds again and again as also energing from them
  and roaring with a big noise, Hanuma the son of wind-god, making a thunderous great sound, shone
  flying like Garuda the eagle, in the sky.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Acting like Garuḍa [Tārkṣya] in the firmament (tārkṣyāyamāṇo gagane), that son of the Wind-god shone forth (sa babhau vāyunandanaḥ), cleaving the hosts of clouds (dārayan meghavṛndāni) and darting out again and again (niṣpataṃś ca punaḥ punaḥ).
 </details>
 </details>
 
@@ -449,6 +493,14 @@ Killing the foremost of demons, becoming famaus by is name, making Lanka perplex
  causing anguish to Ravana by tormenting his terrible army, and bidding his adieu to Sheetha, Hanuma
  returned by flying over the middle of the sea.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Roaring with a mighty roar (nadan nādena mahatā), his thunderous voice matching the rumble of clouds (meghasvanamahāsvanaḥ), having slain the foremost of rākṣasas (pravarān rākṣasān hatvā) and proclaimed his own name (nāma viśrāvya cātmanaḥ),
+
+**12:** Having thrown the city into turmoil (ākulāṃ nagarīṃ kṛtvā) and distressed Rāvaṇa (vyathayitvā ca rāvaṇam), having crushed mighty warriors (ardayitvā mahāvīrān) and bowed in salutation to Vaidehī (vaidehīm abhivādya ca),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -497,6 +549,12 @@ _________________
 
 Touching Mount Mainaka, the victorious Hanuma came with a great speed resembling
  an iron arrow discharged from a bow-string.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Possessed of mighty splendor (mahātejāḥ), he came once again across the middle of the ocean (ājagāma punar madhyena sāgaram); and having cordially touched Sunābha [Maināka], the lord of mountains (parvatendraṃ sunābhaṃ ca samupaspṛśya), that valiant one (vīryavān)
 </details>
 </details>
 
@@ -547,6 +605,12 @@ _________________
 Approaching a bit near and observing Maunt Mahendra, the great mauntain looking like
  a dense claud, that Hanuma made a laud noise.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approached with tremendous velocity (mahāvego 'bhyupāgamat), like an iron shaft loosed from a bowstring (jyāmukta iva nārācaḥ); and having arrived within a short distance (sa kiṃcid ārāt samprāptaḥ), upon sighting the great mountain (samālokya mahāgirim)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -593,6 +657,12 @@ Approaching a bit near and observing Maunt Mahendra, the great mauntain looking 
 Emitting a great roar, that Hanuma, whole loud noise resembled the rumbling of a
  cloud, filled the whole space in all directions with the noise.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mahendra, which resembled a mass of clouds (mahendraṃ meghasaṃkāśam), that great monkey roared aloud (nanāda sa mahākapiḥ); and that monkey filled all ten quarters on every side (sa pūrayāmāsa kapir diśo daśa samantataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -635,6 +705,12 @@ _________________
 
 Having reached that place, Hanuma who was ardently desiraus of seeing his friends,
  roared and waved his tail.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roaring with a mighty roar (nadan nādena mahatā), his voice as deep as the rumble of thunderclouds (meghasvanamahāsvanaḥ), having reached that region (sa taṃ deśam anuprāptaḥ) and yearning to behold his friends (suhṛddarśanalālasaḥ),
 </details>
 </details>
 
@@ -685,6 +761,12 @@ _________________
 The sky, with the disc of the sun, began to crack as it were, due to his roar, even
  as he repeatedly roared on the path of the sky as followed by Garuda, the eagle endowed with charming
  wings.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He uttered a tremendous roar (nanāda sumahānādam) and also lashed his tail (lāṅgūlaṃ cāpy akampayat); as he roared again and again (tasya nānadyamānasya) along the sky-path trodden by Garuḍa (suparṇācarite pathi),
 </details>
 </details>
 
@@ -747,6 +829,14 @@ Those mighty heroes who were waiting already on the northern shore of the sea, w
  an eagerness to see Hanuma, heard there at that time, the saund produced by the sweeping motion
  of Hanuma's thighs, which resembled the reoar of a huge claud propelled by the wind.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** The firmament together with the solar orb (gaganaṃ sūrkamaṇḍalam) seemed to split apart with his thunderous sound (phalatīvāsya ghoṣeṇa); and those heroes of mighty strength (ye tu mahābalāḥ) who were stationed there on the northern shore of the ocean (tatrottare kūle samudrasya)—
+
+**19:** Stationed there previously (pūrvaṃ saṃviṣṭhitāḥ) and eager to behold the son of the Wind-god (vāyuputradidṛkṣavaḥ), those heroes heard then (śūrāḥ śuśruvus te tadā) the roar of Hanumān and the rushing sound of his thighs (ghoṣam ūruvegaṃ hanūmataḥ), like the thunder of a great cloud driven by the wind (mahato vāyununnasya toyadasyeva niḥsvanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -789,6 +879,12 @@ _________________
 
 All those monkeys, who were distressed in mind (for not having heard the news of
  Seetha hitherto), heard Hanuma's roar similar to the roar of a rumbling cloud.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dejected in mind (te dīnamanasaḥ), all those forest-dwelling monkeys (sarve kānanaukasaḥ) heard the thunderous roar of the lord of monkeys (śuśruvuḥ vānarendrasya nirghoṣam), resembling the roar of a rain-cloud (parjanyaninadopamam).
 </details>
 </details>
 
@@ -835,6 +931,12 @@ All those monkeys, who were distressed in mind (for not having heard the news of
 
 Hearing that roar of Hanuma, who was making the saund, all those mokeys stationed
  there in all directions, became anxiausly desiraus of seeing their friend.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the roar of him roaring (niśamya nadato nādam), those monkeys on all sides (vānarās te samantataḥ) all became filled with eager excitement (babhūvur utsukāḥ sarve), longing to behold their friend (suhṛddarśanakāṅkṣiṇaḥ).
 </details>
 </details>
 
@@ -885,6 +987,12 @@ _________________
 The Jambavan, the foremot among the monkesy and bears, with his mind thrilled with
  joy, having summoned all the monkeys, spoke the follwoing words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That foremost of monkeys, Jāmbavān (jāmbavān sa hariśreṣṭhaḥ), his heart thrilled with joy (prītisaṃhṛṣṭamānasaḥ), called together all the monkeys (upāmantrya harīn sarvān) and spoke this word (idaṃ vacanam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -931,6 +1039,12 @@ The Jambavan, the foremot among the monkesy and bears, with his mind thrilled wi
 
 "This Hanuma has accoMplished his assignment in all ways. His saund will not indeed
  be like this, if he has not fulfilled his task. There is not daubt in this matter."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In every respect (sarvathā) this Hanumān has accomplished his mission (kṛtakāryo 'sau hanūmān)—there is no doubt of this (nātra saṃśayaḥ); for if he had failed to accomplish his mission (asyākṛtakāryasya), his roar would never be of such a kind (na hi nāda evaṃvidho bhavet)!”
 </details>
 </details>
 
@@ -981,6 +1095,12 @@ _________________
 Hearing the sound of the dashing movement of the high souled Hanuma's arms and thighs,
  the monkeys moved by jumps with joy from their respective places.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the rushing sound of the arms and thighs (tasya bāhūruvegaṃ ca) and the roar of that high-souled one (ninādaṃ ca mahātmanaḥ niśamya), the delighted monkeys sprang up in every direction (harayo hṛṣṭāḥ samutpetur yatas tataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1026,6 +1146,12 @@ Hearing the sound of the dashing movement of the high souled Hanuma's arms and t
 
 Those monkeys with joy, longing to see Hanuma, took off from the top of one tree
  to the tops of other trees as also from one mauntain-summit to the other summits.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Overjoyed and eager to behold Hanumān (prahṛṣṭāḥ hanūmantaṃ didṛkṣavaḥ), they bounded from treetop to treetop (te nagāgrān nagāgrāṇi) and from peak to peak (śikharāc chikharāṇi ca samapadyanta).
 </details>
 </details>
 
@@ -1076,6 +1202,12 @@ _________________
 Those monkeys, grasping the boughs at the tops of trees, and standing there firmly,
  joyously waved the twigs, as if they are their raiments.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with delight (te prītāḥ), standing on the tops of the trees (pādapāgreṣu avasthitāḥ) after grasping a bough (gṛhya śākhām), the monkeys waved their bright garments (vāsāṃsi ca prakāśāni samāvidhyanta vānarāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1122,6 +1254,12 @@ Those monkeys, grasping the boughs at the tops of trees, and standing there firm
 The mighty, Hanuma the son of wind-god, roared as thaugh the wind roars while it
  enters the caves of mauntains.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as the wind roars when pent up within a mountain cavern (girigahvarasaṃlīno yathā garjati mārutaḥ), even so did the mighty Hanumān, the son of the Wind-god, roar (evaṃ jagarja balavān hanūmān mārutātmajaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1167,6 +1305,12 @@ The mighty, Hanuma the son of wind-god, roared as thaugh the wind roars while it
 
 Seeing that Hanuma then rushing like a dense cloud, all those monkeys stood there,
  joining their palms in salutation.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that great monkey (taṃ mahākapim dṛṣṭvā), who resembled a dense mass of clouds (abhraghanasaṃkāśam), sweeping down toward them (āpatantam), all those monkeys stood there with folded hands (te vānarāḥ sarve tasthuḥ prāñjalayas tadā).
 </details>
 </details>
 
@@ -1217,6 +1361,12 @@ _________________
 The swift Hanuma, looking like a mauntain, then descended on the summit of that Maunt
  mahendra, thick with trees.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then from the mountain [Ariṣṭa] (girer), that swift and heroic monkey (tatas tu vegavān vīraḥ kapiḥ), himself resembling a mountain (girinibhaḥ), alighted upon the tree-crowded summit of that mountain [Mahendra] (nipapāta gires tasya śikhare pādapākule).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1266,6 +1416,12 @@ _________________
 Hanuma like a mountain with its wings torn off, thrilled with joy, fell from the
  sky into a charming mountain-torrent.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled to the brim with joy (harṣeṇāpūryamāṇo 'sau), he dropped down from the sky (ākāśāt papāta) beside a lovely mountain cascade (ramye parvatanirjhare), like a mountain whose wings have been clipped (chinnapakṣa iva dharaṇīdharaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1290,6 +1446,12 @@ Hanuma like a mountain with its wings torn off, thrilled with joy, fell from the
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग परमानन्दभरितराद अङ्गदादि वानरोत्तमरॆल्लरू महात्मनाद हनुमन्तन बळि सारि सुत्तलू नॆरॆदरु.॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, with delighted hearts (prītamanasaḥ), all those bulls among monkeys (te sarve vānarapuṅgavāḥ) surrounded the high-souled Hanumān (hanūmantaṃ mahātmānaṃ parivārya) and waited upon him (upatasthire).
 </details>
 </details>
 
@@ -1362,6 +1524,14 @@ Then, all the foremost of those monkeys, with their pleasing hearts, stood surra
 All those mokeys with their delightful faces, taking roots and fruits as their presents,
  honured Hanuma, the foremost among the monkeys, who came back hale and healthy.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** Having surrounded him (parivārya ca), all of them attained supreme joy (te sarve parāṃ prītim upāgatāḥ); with beaming faces (prahṛṣṭavadanāḥ), they all approached him now that he had returned (sarve tam āgatam upāgaman).
+
+**33:** And bringing gifts of roots and fruits (upāyanāni cādāya mūlāni ca phalāni ca), the monkeys honored that foremost of monkeys, the son of the Wind-god (pratyarcayan hariśreṣṭhaṃ harayo mārutātmajam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1410,6 +1580,12 @@ _________________
 
 Then, Hanuma the excellent one among the monkeys, on his part, offered his salutation
  to venerable persons and elders like Jambavan in the first place, as also Angada, the prince.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some roared in jubilation (vinedur muditāḥ kecit), while others raised joyful kilakilā cries (kecit kilakilāṃ tathā); and delighted bulls among monkeys (hṛṣṭāḥ vānararṣabhāḥ) brought branches of trees (pādapaśākhāś ca āninyuḥ).
 </details>
 </details>
 
@@ -1461,6 +1637,12 @@ _________________
 Jambavan and Angada honoured that victorious and venerable Hanuma. The other monkeys
  also made him gracious. Hanuma informed them briefly that he had seen Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the great monkey Hanumān (hanūmāṃs tu sa mahākapiḥ) bowed in salutation (avandata) to the aged elders headed by Jāmbavān (gurūn vṛddhāñ jāmbavatpramukhāṃs tadā), and also to Prince Aṅgada (kumāram aṅgadaṃ caiva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1510,6 +1692,12 @@ _________________
 Then, seizing the hand of Angada, Vali's son, Hanuma sat down at a distinct spot
  in the charming forest of Maunt Mahendra.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored by those two (sa tābhyāṃ pūjitaḥ)—himself worthy of honor (pūjyaḥ)—and graciously entreated by the monkeys (kapibhiś ca prasāditaḥ), that valiant hero reported concisely (vikrāntaḥ saṃkṣepeṇa nyavedayat): “The noble queen has been seen (dṛṣṭā devīti)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1549,6 +1737,14 @@ _________________
 
 बळिक हनुमन्तनु वालिय मगनाद अङ्गदन कै हिडिदुकॊण्डु महेन्द्रपर्वतद रमणीय वनप्रदेशक्कॆ करकॊण्डु होगि कुळितुकॊण्डनु.॥37॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**37:** And taking the son of Vālin [Aṅgada] by the hand (hastena gṛhītvā vālinaḥ sutam), he sat down then (niṣasāda ca tadā) in a lovely woodland glade of Mount Mahendra (ramaṇīye vanoddeśe mahendrasya gireḥ).
+
+**38:** Questioned then (pṛṣṭas tadā), Hanumān spoke to those bulls among monkeys (hanūmān abravīt tān vānararṣabhān): “Abiding in the Aśoka grove (aśokavanikāsaṃsthā), that daughter of Janaka was beheld [by me] (dṛṣṭā sā janakātmajā)—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1572,6 +1768,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अत्यन्त भयंकर आकारवाली राक्षसियाँ उनकी रखवाली करती हैं । साध्वी सीता बड़ी भोली-भाली हैं । वे एक वेणी धारण किये वहाँ रहती हैं और श्रीरामचन्द्रजीके दर्शनके लिये बहुत ही उत्सुक हैं । उपवासके कारण बहुत थक गयी हैं, दुर्बल और मलिन हो रही हैं तथा उनके केश जटाके रूपमें परिणत हो गये हैं’ ॥ ३९ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Guarded by utterly dreadful rākṣasīs (rakṣyamāṇā sughorābhī rākṣasībhiḥ), that blameless young lady (aninditā bālā), wearing a single braid (ekaveṇīdharā) and yearning eagerly for the sight of Rāma (rāmadarśanalālasā),”
 </details>
 </details>
 
@@ -1642,6 +1844,12 @@ Then, the pleased Hanuma spoke the following words to those excellent monkeys: "
 Hearing from Hanuma that iMportant and nectar like word to the effect that Sheetha
  had been seen all the monkeys became delighted.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Exhausted by fasting (upavāsapariśrāntā), soiled (malinā), with matted locks (jaṭilā), and emaciated (kṛśā).” Thereupon, [hearing] that nectar-like word `She has been seen!' (tato dṛṣṭeti vacanam amṛtopamam), fraught with mighty import (mahārtham),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1670,6 +1878,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 कोई हर्षनाद और कोई सिंहनाद करने लगे । दूसरे महाबली वानर गर्जने लगे । कितने ही किलकारियाँ भरने लगे और दूसरे वानर एककी गर्जनाके उत्तरमें स्वयं भी गर्जना करने लगे ॥ ४१ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon hearing it from Māruti (niśamya māruteḥ), all the monkeys became filled with joy (sarve muditā vānarābhavan): someuttered lion-roars (kṣveḍanty anye), others shouted aloud (nadanty anye), and others of mighty strength bellowed (garjanty anye mahābalāḥ).
 </details>
 </details>
 
@@ -1737,6 +1951,12 @@ Some mighty monkeys made a lion's roar. Some were making a sound of approbation.
 Shome eminent monkeys, with joy and with their tails lifted up, waved their distended
  curved tails.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Others raised joyful kilakilā cries (cakruḥ kilakilām anye), while still others roared in answer (pratigarjanti cāpare); and some elephant-like monkeys (kecid kapikuñjarāḥ), overjoyed (prahṛṣṭāḥ), raised their tails aloft (ucchritalāṅgūlāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1765,6 +1985,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 कितने ही वानर हर्षोल्लाससे भरकर छलाँगे भरते हुए पर्वत-शिखरोंपर वानरशिरोमणि श्रीमान् हनुमान् को  छूने लगे ॥ ४३ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Some] lashed (pravivyadhuḥ) their stout, curving, and long tails (āyatāñcitadīrghāṇi lāṅgūlāni); and others, filled with joy (apare tu harṣitāḥ), [approached] the glorious Hanumān, the foremost of monkeys (hanūmantaṃ śrīmantaṃ vānarottamam),
 </details>
 </details>
 
@@ -1830,6 +2056,12 @@ Descending from the mountain-tops; some other monkeys, with delight, fondingly t
 After hearing the words of Hanuma, Angada spoke the follwoing excellent words in
  the midst of those eminent monkeys.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And leaping down from the mountain peaks (āplutya giriśṛṅgeṣu), fondly embraced him (saṃspṛśanti sma). Then Aṅgada spoke (aṅgadas tu tadābravīt) to Hanumān after he had spoken his word (uktavākyaṃ hanūmantam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1855,6 +2087,12 @@ After hearing the words of Hanuma, Angada spoke the follwoing excellent words in
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वानरश्रेष्ठ! बल और पराक्रममें तुम्हारे समान कोई नहीं है; क्योंकि तुम इस विशाल समुद्रको लाँघकर फिर इस पार लौट आये ॥ ४५ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the midst of all the monkey heroes (sarveṣāṃ harivīrāṇāṃ madhye), this speech unsurpassed (vācam anuttamām): “In courage and in valor (sattve vīrye), no one exists who is your equal, O monkey (na te kaścit samo vānara vidyate),”
 </details>
 </details>
 
@@ -1914,6 +2152,12 @@ After hearing the words of Hanuma, Angada spoke the follwoing excellent words in
  caurage! By aur good fortune, yau saw the illustriaus Sheetha, Rama's consort. Thank heaven! Rama
  can give up his sorrow born aut of Sheetha's separataion."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since, having leaped across the vast ocean (yad avaplutya vistīrṇaṃ sāgaram), you have returned once more (punar āgataḥ)! You alone, O foremost of monkeys (tvam eko vānarottama), are the giver of our lives (jīvitasya pradātā naḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1955,6 +2199,14 @@ After hearing the words of Hanuma, Angada spoke the follwoing excellent words in
 
 Very much delighted, the monkeys then sat on extensive flat rocks encircling Angada,
  Hanuma and Jambavan.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**47:** “Through your grace (tvatprasādāt), our mission accomplished (siddhārthāḥ), we shall truly be reunited with Rāghava (sameṣyāmaḥ rāghaveṇa ha)! Oh, your devotion to your master (aho svāmini te bhaktiḥ)! Oh, your valor (aho vīryam)! Oh, your steadfastness (aho dhṛtiḥ)!”
+
+**48:** “By good fortune (diṣṭyā) the illustrious queen, the consort of Rāma, has been beheld by you (dṛṣṭā tvayā devī rāmapatnī yaśasvinī)! By good fortune Kākutstha will cast off his grief born of separation from Sītā (diṣṭyā tyakṣyati kākutsthaḥ śokaṃ sītāviyogajam)!”
 </details>
 </details>
 
@@ -2050,6 +2302,16 @@ The high and large summit of the mauntain, on which were seated then with deligh
  the illustriaus Hanuma and the famaus Angada, with bracelets worn on his upper ar.ns, stood blazed
  with splendaur.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**49:** Then the delighted monkeys (tato vānarāḥ pramuditāḥ), surrounding Aṅgada, Hanumān, and Jāmbavān (aṅgadaṃ hanūmantaṃ jāmbavantaṃ ca parivārya), betook themselves to the broad rocky slabs (bhejire vipulāḥ śilāḥ).
+
+**50:** Seated upon the broad rocky slabs of that mountain (upaviṣṭā gires tasya śilāsu vipulāsu), those foremost of monkeys (te vānarottamāḥ), eager to hear of the crossing of the ocean (śrotukāmāḥ samudrasya laṅghanam),
+
+**51:** And of the beholding of Laṅkā, Sītā, and Rāvaṇa (darśanaṃ cāpi laṅkāyāḥ sītāyā rāvaṇasya ca), all remained with folded hands (tasthuḥ prāñjalayaḥ sarve), their faces turned eagerly toward Hanumān's face (hanūmadvadanonmukhāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2079,6 +2341,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बुद्धिशालियू, कीर्तिवन्तनू, महापराक्रमियू आगिद्द हनुमन्तनिन्दलू, भुजकीर्तिगळिन्द शोभितनाद अङ्गदनिन्दलू, सन्तसदिन्द आश्रयिसल्पट्ट आ महेन्द्रपर्वतद शिखरवु अनुपमवाद कान्तियिन्द बॆळगुत्तिद्दितु.॥52॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Glorious Aṅgada sat there (tasthau tatrāṅgadaḥ śrīmān), surrounded by many monkeys (vānarair bahubhir vṛtaḥ), just like the lord of the gods [Indra] in heaven (divi devapatir yathā) attended by the immortals (upāsyamāno vibudhaiḥ).
 </details>
 </details>
 
@@ -2114,6 +2382,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऐवत्तेळनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Occupied with joy at that time (mudā tadādhyāsitam) by the renowned and glorious Hanumān (hanūmatā kīrtimatā yaśasvinā) and by Aṅgada whose arms were bound with royal armlets (tathāṅgadenāṅgadanaddhabāhunā), that lofty and mighty mountain summit (unnataṃ mahan mahīdharāgram) blazed forth with splendor (jvalitaṃ śriyābhavat).
 </details>
 </details>
 

@@ -76,6 +76,12 @@ When Vashishta spoke in this way, the great-mighty Vishvamitra brandishing Fiery
 challenged Vashishta saying, "withstand this, withstand this..." Thus, sage Shataananda
 continued his narration of Vishvamitra's legend. [1-56-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Vasiṣṭha, Viśvāmitra of mighty strength aimed the fiery Āgneya missile (āgneyam astram uddiśya) and cried out, “Stand! Stand!” (tiṣṭha tiṣṭheti cābravīt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +121,12 @@ spoke this sentence.
 
 That reverential sage Vashishta then upraising his Brahma-baton, which is like
 the other baton of the Terminator, spoke this sentence furiously. [1-56-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upraising his Brahmadaṇḍa like a second rod of Death (brahmadaṇḍaṃ samudyamya kāladaṇḍam ivāparam), the revered Lord Vasiṣṭha spoke these words in wrath (krodhād idaṃ vacanam abravīt):
 </details>
 </details>
 
@@ -159,6 +171,12 @@ I am staying here only, you meritless Kshatriya, you may clearly display whateve
 prowess you have, oh, Gaadhi's son Vishvamitra, I will now ruin whatever vanity
 you or your missiles have. [1-56-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O wretched Kṣatriya (kṣatrabandho), here I stand (sthito ’smy eṣa)! Display whatever strength you possess (yad balaṃ tad vidarśaya)! Today, O son of Gādhi, I shall shatter the pride you take in your weapons (nāśayāmy adya te darpaṃ śastrasya tava gādhija)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -200,6 +218,12 @@ mama divyam brahmabalam pashya* = you watch my seraphic Brahma's [sagacity's] st
 sagacity, you abased Kshatriya, watch out for my strength of seraphic sagacity."
 So said Vashishta to Vishvamitra. [1-56-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Where is your paltry Kṣatriya strength, and where is great Brahmanic power (kva ca te kṣatriyabalaṃ kva ca brahmabalaṃ mahat)? Behold my divine Brahmanic power (paśya brahmabalaṃ divyaṃ mama), O disgrace of the Kṣatriya order (kṣatriyapāṃsana)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,6 +264,12 @@ with; *brahmadaNDena shaantam* = that is silenced by Brahma's baton [of Vashisht
 With his baton of Brahma Vashishta silenced that matchless and deadly Fiery-missile
 of Gaadhi's son, namely Vishvamitra, as a deluge of water silencing a rage of fire.
 [1-56-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That terrible and supreme Āgneya missile of Gādhi’s son (tasyāstraṃ gādhiputrasya ghoram āgneyam uttamam) was quenched by the Brahmadaṇḍa, just as the fury of fire is quenched by water (brahmadaṇḍena tac chāntam agner vega ivāmbhasā).
 </details>
 </details>
 
@@ -293,6 +323,12 @@ through grass blade called Ishiika. [1-56-6]
 The accounts of these missiles are narrated in chapters 27, 28 of this canto Bala,
 where Vishvamitra accords these very missiles to Rama. Hence, their details are
 not reiterated here but just catalogued.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed (kupitaḥ), the son of Gādhi hurled the Vāruṇa, the Raudra, the Aindra, and the Pāśupata missiles, as well as the reed-missile Aiṣīka (aiṣīkaṃ cāpi cikṣepa).
 </details>
 </details>
 
@@ -447,6 +483,22 @@ then he launched the deadly Trident, Skull and Torque missiles on Vashishta, and
 whole thing has became a spectacular display of Vishvamitra's arsenal. [1-56-12,
 13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** He hurled the Mānava (Humane), the Mohana (Bewildering), the Gāndharva, and the Svāpana (oporific), as well as the Jṛmbhaṇa (Yawning-inducing), the Mādana (Intoxicating), and the Saṃtāpana (Tormenting) and Vilāpana (Weeping-inducing) missiles.
+
+**8:** He hurled the Śoṣaṇa (Desiccating), the Dāraṇa (Rending), and the unconquerable thunderbolt missile Vajra (vajram astraṃ sudurjayam), together with Brahmā’s noose (brahmapāśam), Time’s noose (kālapāśam), and Varuṇa’s noose (vāruṇaṃ pāśam eva ca)—
+
+**9:** —and Śiva’s beloved Pināka missile (pinākam astraṃ dayitam), the dry and wet thunderbolts (śuṣkārdre aśanī tathā), the Rod-missile Daṇḍāstra, the Paiśāca, and the Krauñca missile as well (krauñcam astraṃ tathaiva ca)—
+
+**10:** —and the Discus of Dharma (dharmacakram), the Discus of Time (kālacakram), and the Discus of Viṣṇu (viṣṇucakram), together with the wind-missile Vāyavya, the churning missile Mathana, and the horse-headed missile Hayaśiras (astraṃ hayaśiras tathā).
+
+**11:** He hurled the pair of spears (śaktidvayaṃ ca cikṣepa), the skeletal Kaṅkāla and the club Musala (kaṅkālaṃ musalaṃ tathā), the great Vaidyādhara missile, and the dreadful missile of Time (kālāstram atha dāruṇam)—
+
+**12:** —and the terrible Trident missile Triśūla, together with the Kāpāla and the Kaṅkaṇa (triśūlam astraṃ ghoraṃ ca kāpālam atha kaṅkaṇam); all these missiles he hurled (etāny astrāṇi cikṣepa sarvāṇi), O delight of the Raghus!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -493,6 +545,12 @@ whole thing has became a spectacular display of Vishvamitra's arsenal. [1-56-12,
 Brahma's son Vashishta defused all of those missiles just with his baton and when
 all of them are thus silenced, Gaadhi's son Vishvamitra touched off Brahma's missile.
 [1-56-13b, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet upon reaching Vasiṣṭha, the foremost of japa-reciters, a wondrous marvel came to pass (vasiṣṭhe japatāṃ śreṣṭhe tad adbhutam ivābhavat): the son of Brahmā swallowed up every one of those missiles with his staff (tāni sarvāṇi daṇḍena grasate brahmaṇaḥ sutaḥ)!
 </details>
 </details>
 
@@ -543,6 +601,14 @@ all the gods keeping the Fire-god at their vanguard, godly sages, reptiles along
 with gandharva-s are perplexed, and the triad of worlds itself is perturbed. [1-56-14b,
 15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** When all those missiles had been quenched (teṣu śānteṣu), the son of Gādhi hurled the Brahmāstra (brahmāstraṃ kṣiptavān gādhinandanaḥ). Beholding that supreme missile upraised, the gods led by Agni (devāḥ sāgnipurogamāḥ)—
+
+**15:** —and the divine seers were struck with agitation, along with the gandharvas and great serpents (devarṣayaś ca sambhrāntā gandharvāḥ samahoragāḥ); the entire threefold world trembled in dread when the Brahmāstra was unleashed (trailokyam āsīt saṃtrastaṃ brahmāstre samudīrite).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -582,6 +648,12 @@ api* = that, Brahma, missile, even; *sarvam grasate* = completely, consumed.
 
 Even that deleteriously destructive Brahma's missile is completely consumed with
 the seraphic resplendence of Brahma-baton of Sage Vashishta. [1-56-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even that supremely terrible missile of Brahmā (tad apy astraṃ mahāghoraṃ brāhmam), O Rāghava, Vasiṣṭha swallowed up completely with his Brahmadaṇḍa through his own Brahmanic radiance (brāhmeṇa tejasā vasiṣṭho grasate sarvaṃ brahmadaṇḍena).
 </details>
 </details>
 
@@ -623,6 +695,12 @@ appalling; *sudaaruNam aasiit* = it became surely petrifying.
 The appearance of that great-souled Vashishta became appallingly perplexing when
 he is finishing off that Brahma missile as if to surely petrify the Tri-world. [1-56-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the high-souled Vasiṣṭha was swallowing the Brahmāstra (brahmāstraṃ grasamānasya), his form became terrifying, dreadful to behold, and bewildering to all three worlds (trailokyamohanaṃ raudraṃ rūpam āsīt sudāruṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -663,6 +741,12 @@ fumes rolling up with radiated shafts; *agneH mariicyaH* = beams [radiational be
 From all of the pits of hair of that great-souled Vashishta ramified are the raditional
 beams and those radiated shafts are rolling up with the fumes of radiation, so to
 speak. [1-56-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From all the hair-pores of the high-souled Vasiṣṭha (romakūpeṣu sarveṣu vasiṣṭhasya mahātmanaḥ) shot forth radiant sparks like those of a fire whose flames are wreathed in smoke (marīcya iva niṣpetur agner dhūmākulārciṣaḥ).
 </details>
 </details>
 
@@ -712,6 +796,12 @@ The baton of Brahma gripped in his hand and upraised by Vashishta is highly glow
 as if it is the fumeless inferno of Time, and as if it is the earthly baton of Yama,
 the Terminator. [1-56-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the Brahmadaṇḍa upraised in Vasiṣṭha’s hand blazed forth (prājvalad brahmadaṇḍaś ca vasiṣṭhasya karodyataḥ) like the smokeless fire of Doomsday or a second rod of Yama (vidhūma iva kālāgnir yamadaṇḍa ivāparaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -736,6 +826,12 @@ the Terminator. [1-56-19]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग समस्त मुनिगळु मन्त्रजपदल्लि श्रेष्ठराद वसिष्ठ मुनियन्नु स्तुतिसुत्ता-ब्रह्मर्षिये! निम्म बलवु अमोघवागिदॆ. नीवु निम्म तेजवन्नु निम्म शक्तियिन्दले अडगिसिकॊळ्ळि ऎन्दु हेळिदरु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then hosts of sages praised Vasiṣṭha, the foremost of japa-reciters (tato ’stuvan munigaṇā vasiṣṭhaṃ japatāṃ varam): “Unfailing is your power, O Brahmin; restrain that fiery energy by your own spiritual radiance (amoghaṃ te balaṃ brahmaṃs tejo dhāraya tejasā)!
 </details>
 </details>
 
@@ -786,6 +882,12 @@ the worlds. Hence, let the worlds survive shooing away their anguish caused by y
 prowess. Oh, Brahman, be gracious, for you are the best among the best meditators...'
 So said saints to Vashishta. [1-56-20, 21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Viśvāmitra of mighty strength has been thoroughly subdued by you, O Brahmin (nigṛhītas tvayā brahman viśvāmitro mahābalaḥ)! Unfailing is your power, O foremost of sages; let the worlds be freed from anguish (lokāḥ santu gatavyathāḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -834,6 +936,12 @@ When that great-resplendent Vashishta is spoken thus by saints and gods he compo
 himself, and then that estranged Vishvamitra spoke this to himself with heavy suspiration.
 [1-56-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, the mighty Vasiṣṭha of great splendor calmed his fiery wrath (evam ukto mahātejāḥ śamaṃ cakre mahābalaḥ); and Viśvāmitra, utterly humbled and stripped of his power (vinikṛtaḥ), sighed deeply and spoke these words (viniḥśvasyedam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -873,6 +981,12 @@ missiles, defused.
 
 Fie upon the might of Kshatriya, mightier is the might of Brahman's resplendence,
 only with one baton of Brahma all of my missiles are defused. [1-56-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fie upon Kṣatriya strength (dhig balaṃ kṣatriyabalam)! The strength of Brahmanic splendor alone is true strength (brahmatejobalaṃ balam)! By a single Brahmadaṇḍa, all my celestial missiles have been destroyed (ekena brahmadaṇḍena sarvāstrāṇi hatāni me)!
 </details>
 </details>
 
@@ -935,6 +1049,12 @@ narration of Vishvamitra's legend. [1-56-24]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तारनॆय सर्ग पूर्णवायितु. ॥56॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having clearly perceived this truth (tad etat prasamīkṣyāham), with my senses and mind made serene (prasannendriyamānasaḥ), I shall betake myself to supreme penance (tapo mahat samāsthāsye)—that which is the true cause of Brahminhood (yad vai brahmatvakāraṇam)!”
 </details>
 </details>
 

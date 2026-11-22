@@ -68,6 +68,12 @@ The gods become progenitors Vanara heroes at the dictate of Brahma to come to
 When Vishnu attained the sonship of the great-souled king Dasharatha, then Brahma
  the self-created addressed all of the gods this way. [1-17-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Now when Lord Viṣṇu had entered upon filial status (putratvaṃ tu gate viṣṇau) as the son of that great-souled monarch Daśaratha, the self-existent Lord Brahmā (svayambhūr bhagavān) spoke these words to all the gods:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +122,16 @@ When Vishnu attained the sonship of the great-souled king Dasharatha, then Brahm
 
 "Let mighty and guise changing helpmates be procreated to that truth abiding and
  valorous Vishnu who is the well-wisher of all of us. [1-17-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “Create mighty, shape-shifting companions (sahāyān balinaḥ kāmarūpiṇaḥ) for Lord Viṣṇu, who is true to His promise (satyasandhasya), heroic, and ever devoted to the welfare of us all (sarveṣāṃ no hitaiṣiṇaḥ)—
+
+**3:** Conversant with magic and illusion (māyāvidaḥ), valiant, matching the speed of the wind in swiftness (vāyuvegasamān jave), skilled in policy (nayajñān), endowed with high intelligence, and equal to Viṣṇu Himself in valor (viṣṇutulyaparākramān);
+
+**4:** Invincible (asaṃhāryān), knowing all strategic expedients (upāyajñān), endowed with celestial frames (divyasaṃhananānvitān), accomplished in the virtues and powers of all weapons (sarvāstraguṇasampannān), and like unto the immortals who partake of nectar (amṛtaprāśanān iva)—
 </details>
 </details>
 
@@ -189,6 +205,14 @@ Gandharva-s (Southey's Glendoveers) are celestial musicians inhabiting Indra's
  attributes, occupying with the Vidyaadharaa-s the middle air or region between
  the earth and the sun. Griffith.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Among the foremost apsarases and in the forms of gandharva women, among the daughters of yakṣas and pannagas (serpents), and among female bears (ṛkṣīs) and vidyādharīs—
+
+**6:** And in the limbs of kinnarīs and in the bodies of female monkeys (vānarīṇāṃ tanūṣu ca), procreate sons in monkey form (harirūpeṇa) equal to yourselves in valor (tulyaparākramān)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +267,12 @@ _________________
 This is to say that Brahma has already created such a typical being, namely Jambavanta,
  prior to all the gods, as a role model in creation.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Already in former times (pūrvam eva) was Jāmbavān, the foremost of bears (ṛkṣapuṅgavaḥ), created by me: as I was yawning (jṛmbhamāṇasya), he sprang forth suddenly from my mouth (mama vaktrād ajāyata).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,6 +320,12 @@ This pedigree is not yet given the label of monkeys. They are look alike of monk
  The word vanara is *vane carati iti vanaraH* because they range far and
  wide over forests they are called vanara-s, but not exactly a monkey race.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the venerable Lord Brahmā, the gods accepted that command (tat pratiśrutya śāsanam) and accordingly begot sons in the form of vānaras (putrān vānararūpiṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -329,6 +365,12 @@ This pedigree is not yet given the label of monkeys. They are look alike of monk
 
 The great-souled celestial groups, namely the sages, siddha-s, vidyaadharaa-s,
  caarana-s have created valiant sons that are forest rangers. [1-17-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the great-souled sages (ṛṣayaḥ), together with the siddhas, vidyādharas, uragas (serpents), and cāraṇas, likewise procreated heroic forest-roaming sons (sutān vīrān vanacāriṇaḥ).
 </details>
 </details>
 
@@ -383,6 +425,12 @@ Indra procreated the lord of vanara-s, namely Vali, who by his physique is like
  Mt. Mahendra, and the highest humidifier among all the humidifiers, namely the
  Sun, procreated Sugreeva. [1-17-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indra begot as his son Vālin, the lord of vānaras, who resembled Mahendra himself (or Mount Mahendra) in splendor; and Tapana (the Sun), supreme among all luminous bodies (tapatāṃ varaḥ), begot Sugrīva.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -435,6 +483,12 @@ Tara here is a vanara hero but not Lady Tara, the wife of Vali. Here we have the
 बृहस्पतिस् त्व् अजनयत् तारं नाम महा-हरिम् ।  
 सर्व-वानर-मुख्यानां बुद्धिमन्तम् अनुत्तमम् ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bṛhaspati, for his part, begot the great monkey named Tāra, the most intelligent and peerless among all the foremost vānara chiefs (sarvavānaramukhyānāṃ buddhimantam anuttamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -485,6 +539,12 @@ _________________
 The brilliant Gandhamaadana is the son of Kubera, while the divine architect Vishvakarma
  procreated the great monkey called Nala. [1-17-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The glorious monkey Gandhamādana was the son of Dhanada (Kubera); and Viśvakarmā, the divine architect, begot the great monkey named Nala.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -532,6 +592,12 @@ The brilliant Gandhamaadana is the son of Kubera, while the divine architect Vis
 The bright son of Fire is Neela whose blaze is like that of fire and who excels
  other monkeys by his resplendence, renown and courage. [1-17-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The glorious son of Pāvaka (Agni) was the valiant Nīla, shining with a radiance like fire itself (agnisadṛśaprabhaḥ), who surpassed the others in fiery energy, renown, and heroic might (tejasā yaśasā vīryād atyaricyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -573,6 +639,12 @@ The bright son of Fire is Neela whose blaze is like that of fire and who excels
 The Ashwin twin gods whose wealth is their beautiful appearance have personally
  procreated two vanara-s namely Mainda and Dvivida, blessing them with beautiful
  appearance.[1-17-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The twin Aśvins, richly endowed with beauty as their wealth (rūpadraviṇasampannau) and celebrated for their comeliness (rūpasammatau), themselves begot Mainda and Dvivida.
 </details>
 </details>
 
@@ -619,6 +691,12 @@ The Ashwin twin gods whose wealth is their beautiful appearance have personally
 
 The Rain-god procreated the vanara named Sushena, and Thunder-god gave rise
  to the great mighty Sharabha. [1-17-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Varuṇa begot the monkey named Suṣeṇa; and Parjanya of mighty strength begot Śarabha.
 </details>
 </details>
 
@@ -690,6 +768,12 @@ Garuda: The bird and vehicle of Vishnu. He is generally represented as a being
  the Griffin of chivalry [without lion's body,] the Phoenix of Egypt, and the bird
  that sits upon the ash Yggdrasil of the Edda. - Griffith.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The glorious monkey named Hanumān was the legitimate son of Māruta (the Wind-god) (mārutasyaurasaḥ), endowed with a body hard as Indra’s thunderbolt (vajrasaṃhananopetaḥ) and equal to Garuḍa (Vainateya) in speed (vainateyasamo jave)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -723,6 +807,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऎल्ल श्रेष्ठ वानररल्लि अवनु ऎल्लरिगिन्त हॆच्चु बुद्धिवन्त हागू बलवन्तनागिद्दनु. हीगॆ अनेक साविर वानरर उत्पत्तियायितु. अवरॆल्लरू रावणन वधॆगागि उद्युक्तरागिद्दरु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pre-eminent in wisdom and in strength as well among all the foremost vānara chiefs (sarvavānaramukhyeṣu buddhimān balavān api). Thus were created many thousands of vānaras, all intent upon the slaying of the ten-necked Rāvaṇa (daśagrīvavadhodyatāḥ).
 </details>
 </details>
 
@@ -765,6 +855,12 @@ _________________
 Thus the gods have procreated many thousands of such valorous and guise changing
  monkeys who with their immeasurable strength and bravery are manifest for the
  elimination of the decahedral demon Ravana. [1-17-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Heroes of immeasurable strength, valiant and able to assume any form at will (kāmarūpiṇaḥ), resembling elephants and mountains in bulk (gajācalasaṃkāśāḥ), endowed with stalwart frames and immense might—
 </details>
 </details>
 
@@ -839,6 +935,14 @@ Those that are procreated have attained the shape, getup and valour of the god
  that has fathered them, and thus the monkey race is procreated separately and
  individually. [1-17-19b, 20a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** Those bears (ṛkṣāḥ), monkeys (vānarāḥ), and langurs (gopucchāḥ) swiftly came into being (kṣipram evābhijajñire). Whatever was the beauty of form, the bearing, and the valor of each god—
+
+**20:** Endowed with that very same form and valor (samaṃ tena) was the son born to each deity separately (tasya tasya pṛthak pṛthak). Some of exalted valor (kiṃcid unnatavikramāḥ) were born among female langurs (golāṅgūlīṣu);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -888,6 +992,14 @@ _________________
 Some of the vanara-s endowed with superior valour are born to female langoors,
  and like that some more to female bears and kinnaraa-s. [1-17-20b, 21a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** And others likewise were born as vānaras among female bears (ṛkṣīṣu) and kinnarīs. The gods, great sages, gandharvas, glorious tārkṣyas (Garuḍas), and yakṣas—
+
+**22:** As well as numerous nāgas, kimpuruṣas, siddhas, vidyādharas, and uragas—rejoicing, begot sons there by the thousands (sahasraśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -912,6 +1024,12 @@ Some of the vanara-s endowed with superior valour are born to female langoors,
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवतॆगळ गुणगळन्नु हाडुव वनवासी चारणरु बहळष्टु वीर, विशालकाय वानर पुत्ररन्नु उत्पन्न माडिदरु. अवरॆल्लरू काडिन फल-मूलगळन्नु तिन्नुववरागिद्दरु.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the cāraṇas (celestial bards) created heroic forest-dwelling sons—colossal-bodied vānaras all roaming the woods and feeding on forest fruits (vanacāriṇaḥ).
 </details>
 </details>
 
@@ -967,6 +1085,12 @@ Several of the gods, great-sages, gandharva-s, eagles, yaksha-s, and the celebra
  gladly procreated all of the thousands of forest-ranging and valiant vanara sons
  from their bodies that are forest rangers. [21b, 22, 23, 24a, b]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—among the foremost apsarases, as well as among vidyādharīs, among the daughters of nāgas, and in the bodies of gandharva women—sons endowed with shape-shifting power and strength (kāmarūpabalopetāḥ), roaming wherever they pleased (yathākāmavicāriṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1013,6 +1137,12 @@ Several of the gods, great-sages, gandharva-s, eagles, yaksha-s, and the celebra
 They are endowed with guise changing faculties, with bodily might and by their
  pride and might are identical to lions and tigers, and they are born-free in their
  movement in forests. [1-17-24c, 25a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling lions and tigers in pride and in strength, all of them fought with crags and boulders as their missiles (śilāpraharaṇāḥ sarve), and all battled with uprooted trees (sarve pādapayodhinaḥ).
 </details>
 </details>
 
@@ -1073,6 +1203,12 @@ Rama and Lakshmana will use arrows and missiles as their weaponry in the ensuing
  he is in Lanka. Though knowing the release from that Brahmaastra, Hanuma does
  not utilise that knowledge there.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All of them had their claws and fangs as weapons (nakhadaṃṣṭrāyudhāḥ sarve), and all were skilled in the lore of every weapon (sarve sarvāstrakovidāḥ). They could shake the foremost of mountains (vicālayeyuḥ śailendrān) and shatter firm-rooted trees;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1112,6 +1248,12 @@ Rama and Lakshmana will use arrows and missiles as their weaponry in the ensuing
 
 They can rock greatest mountains, rip firm rooted trees, and with their speed
  they can agitate the of lord of rivers, namely the ocean. [1-17-26b, 27a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By their impetuous speed they could churn up the ocean, lord of rivers (kṣobhayeyuś ca vegena samudram); they could rend the earth with their feet (dārayeyuḥ kṣitiṃ padbhyām) and leap across the mighty seas (āplaveyur mahārṇavān);
 </details>
 </details>
 
@@ -1161,6 +1303,12 @@ _________________
 
 They can shatter the ground with their two feet, leap and cross over great oceans,
  and they can seize the clouds entering arch of heaven. [1-17-27b, 28a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They could mount into the vault of the sky and seize the very rain-clouds (gṛhṇīyur api toyadān); and they could capture rutting elephants roaming wildly in the forest (mātaṅgān mattān pravrajato vane).
 </details>
 </details>
 
@@ -1229,6 +1377,14 @@ Thus the gods and others have procreated millions of such noble souled Vaanaras
  as the chiefs of warriors who can change their guise at their wish. [1-17-29b,
  30a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** And by their thunderous roar alone (nādena), they could bring screaming birds plummeting down from the sky (nardamānāṃś ca pātayeyur vihaṅgamān). Of such shape-shifting monkeys who were thus brought forth—
+
+**30:** There came into being a hundred hundred-thousands—ten million (śataṃ śatasahasrāṇi)—of great-souled troop-leaders (yūthapānāṃ mahātmanām). And those monkey troop-leaders, heading the principal troops of monkeys—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1270,6 +1426,12 @@ Thus the gods and others have procreated millions of such noble souled Vaanaras
 Those vanara generals who took birth thus became the prominent generals among
  the principle battalions of monkeys, and they have also procreated brave monkeys
  on their own. [1-17-30a, 31b]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In their turn begot heroic monkeys, the foremost of troop-leaders (yūthapaśreṣṭhān vīrāṃś cājanayan harīn). Some of them in their thousands resorted to the plateaus of Mount Ṛkṣavat (ṛkṣavataḥ prasthān);
 </details>
 </details>
 
@@ -1369,6 +1531,16 @@ All of those who are well-versed in warfare and endowed with the might of divine
  eagle Garuda, used to thwart the pride of lions, tigers and great snakes just
  by their own prideful subjugation while they move about the forests. [1-17-34]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** Others resorted to manifold mountains and forests. And upon the two brothers—Sugrīva, the son of Sūrya, and Vālin, the son of Śakra (Indra)—
+
+**33:** Did all those monkey troop-leaders attend in service (bhrātarāv upatasthus te), as well as upon Nala, Nīla, Hanumān, and the other monkey troop-commanders.
+
+**34:** Endowed with the strength of Tārkṣya (Garuḍa) and all skilled in warfare (sarve yuddhaviśāradāḥ), as they roamed through the forests they harassed and subdued all the lions, tigers, and great serpents (siṃha-vyāghra-mahoragān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1415,6 +1587,12 @@ All of those who are well-versed in warfare and endowed with the might of divine
 He who is adroit, extremely mighty, and highly indomitable, that Vali protected
  bears, langoors, and monkeys just by the strength of his arms. [1-17-35]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Vālin of mighty strength, long-armed and of vast valor (vipulavikramaḥ), protected all the bears, langurs, and monkeys (ṛkṣagopucchavānarān) by the heroic might of his arms (bhujavīryeṇa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1456,6 +1634,12 @@ He who is adroit, extremely mighty, and highly indomitable, that Vali protected
 The earth with its mountains, forests and oceanward places is overspread with
  those brave ones that possess diverse physiques and peculiar indication marks
  of their stock. [1-17-36]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By those heroes of diverse bodily builds (vividhasaṃsthānaiḥ) and varied distinguishing marks (nānāvyañjanalakṣaṇaiḥ), this entire earth, together with its mountains, forests, and oceans, was overspread (kīrṇā).
 </details>
 </details>
 
@@ -1540,6 +1724,12 @@ The earth is thus suffused with those mighty army generals of Vanara race whose
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हदिनेळनॆय सर्ग पूर्णवायितु. ॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By those mighty lords of the monkey troop-leaders—resembling masses of storm-clouds and mountain peaks (meghavṛndācalakūṭasannibhaiḥ), and awesome in their bodily forms—the earth became completely covered for the purpose of assisting Rāma (rāmasahāyahetoḥ).
 </details>
 </details>
 

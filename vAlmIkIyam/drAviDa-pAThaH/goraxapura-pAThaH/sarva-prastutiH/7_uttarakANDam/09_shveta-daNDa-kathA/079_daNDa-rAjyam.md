@@ -39,6 +39,12 @@ _________________
 
 (अगस्त्यरु हेळुत्तारॆ-) रघुकुलनन्दन राम! नानु हेळिदुदन्नु केळि आ स्वर्गीय पुरुषनु कैमुगिदु हीगॆ उत्तरिसिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that most wondrous account of Agastya (tad adbhutatamaṃ vākyaṃ śrutvāgastyasya), Rāghava, moved by deep reverence and astonishment (gauravād vismayāc caiva), proceeded to question him again (punaḥ praṣṭuṃ pracakrame):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मन्! नीवु प्रश्निसिदुदक्कॆ उत्तरवन्नु केळिरि - नन्न सुख-दुःखगळिगॆ कारणवाद मत्तु अतिक्रमिसि नडॆयलु अशक्यवाद हिन्दिन घटनॆयन्नु केळिरि.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Blessed Lord, that awesome forest where King Śveta of Vidarbha practiced austerity (tad vanaṃ ghoraṃ tapas tapyati yatra saḥ śveto vaidarbhako rājā)—how could it be devoid of beasts and birds (kathaṃ syād amṛga-dvijam)?
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 हिन्दॆ महायशोवन्त नन्न तन्दॆ सुदेवनॆम्बुवर विदर्भदेशद राजरागिद्दरु. अवरु मूरुलोकगळल्लि विख्यात पराक्रमिगळागिद्दरु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And how did that king enter such a desolate forest, forsaken by men (tad vanaṃ sa kathaṃ rājā śūnyaṃ manuja-varjitam), in order to perform austerity (tapaś cartuṃ praviṣṭaḥ)? I wish to hear this in truth (śrotum icchāmi tattvataḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +140,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मन्! अवरिगॆ इब्बरु पत्नियरिद्दु, अवरल्लि इब्बरु पुत्ररु हुट्टिदरु. अदरल्लि हिरियव नानु श्वेतनॆन्दु प्रसिद्धनादॆ. किरियवन हॆसरु सुरथ ऎन्दित्तु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma’s words filled with eager curiosity (rāmasya vacanaṃ śrutvā kautūhala-samanvitam), the supremely resplendent sage straightway began to speak this discourse (vākyaṃ paramatejasvī vaktum evopacakrame):
 </details>
 </details>
 
@@ -151,6 +175,12 @@ _________________
 
 तन्दॆयु स्वर्गस्थनाद बळिक प्रजॆगळु ननगॆ राज्यद पट्ट कट्टिदरु. नानु ऎच्चरिकॆयिन्द धर्मानुकूल राज्यवाळिदॆ.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of old in the Kṛta age, O Rāma, lived the sovereign Manu, wielder of the rod of justice (purā kṛtayuge rāma manur daṇḍadharaḥ prabhuḥ); his great son was Ikṣvāku, delight of his lineage (tasya putro mahān āsīd ikṣvākuḥ kula-nandanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +208,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुव्रत ब्रह्मर्षिये! हीगॆ धर्मपूर्वक प्रजॆयन्नु रक्षिसुत्ता ऒन्दु साविर वर्ष कळॆयितु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Installing that eldest son, unconquerable upon earth, in the kingdom (taṃ putraṃ pūrvakaṃ rājye nikṣipya bhuvi durjayam), he said to him: ‘Become the founder of the royal lineages upon earth!’ (pṛthivyāṃ rāja-vaṃśānāṃ bhava kartety uvāca ha).
 </details>
 </details>
 
@@ -207,6 +243,12 @@ _________________
 
 द्विजश्रेष्ठने! ऒम्मॆ ननगॆ यावुदो निमित्तदिन्द नन्न आयुस्सिन कॊनॆ अरिवायितु. नानु मृत्यु दिनवन्नु मनस्सिनल्लिट्टु कॊण्डु वनक्कॆ तॆरळिदॆनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘So shall it be,’ the son pledged to his father, O Rāghava (tathaiveti pratijñātaṃ pituḥ putreṇa rāghava); thereupon Manu, supremely pleased, addressed his son again (tataḥ paramasantuṣṭo manuḥ putram uvāca ha):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,6 +276,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग नानु ई दुर्गमवनक्कॆ बन्दॆ. इदरल्लि पशु-पक्षि इरलिल्ल. काडिगॆ बन्दु नानु इदे सरोवरद तीरदल्लि तपस्सिगॆ कुळितु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I am pleased with you, O supremely noble one; without doubt you shall be the founder (prīto ’smi paramodāra tvaṃ kartā ’si na saṃśayaḥ). Protect your subjects with the rod of justice (daṇḍena ca prajā rakṣa), and never inflict punishment without cause (mā ca daṇḍam akāraṇe)!
 </details>
 </details>
 
@@ -263,6 +311,12 @@ _________________
 
 राज्यक्कॆ तम्म सुरथनिगॆ पट्ट कट्टि ई सरोवरद बळि नानु दीर्घकाल तपस्सु माडिदॆ.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Whatever punishment is brought down upon human offenders (aparādhiṣu yo daṇḍaḥ pātyate mānaveṣu vai), that punishment, when discharged according to sacred ordinance (sa daṇḍo vidhivan muktaḥ), conducts a king to heaven (svargaṃ nayati pārthivam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,6 +344,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई विशाल वनदल्लि मूरुसाविर वर्षगळवरॆगॆ अत्यन्त दुष्कर तपस्सु माडि नानु परमोत्तम ब्रह्मलोकवन्नु पडॆदॆ.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Therefore, O mighty-armed dear son, be ever vigilant in administering justice (tasmād daṇḍe mahābāho yatnavān bhava putraka); for as you carry it out, supreme dharma in the world shall be yours (dharmo hi paramo loke kurvatas te bhaviṣyati).’
 </details>
 </details>
 
@@ -319,6 +379,12 @@ _________________
 
 परमोदार द्विजश्रेष्ठरे! ब्रह्मलोकक्कॆ होद बळिकवू ननगॆ हसिवु-बायारिकॆ सतायिसुत्तिद्दवु. अन्दरिन्द नन्न ऎल्ल इन्द्रियगळु शिथिलवादवु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having thus instructed his son at length (iti taṃ bahu sandiśya), Manu, joyfully composed in yogic absorption (samādhinā ... hṛṣṭaḥ), departed to heaven, the eternal world of Brahmā (jagāma tridivaṃ ... brahmalokaṃ sanātanam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +407,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उनके ब्रह्मलोकनिवासी हो जानेपर अमित तेजस्वी राजा इक्ष्वाकु इस चिन्तामें पड़े कि मैं किस प्रकार पुत्रोंको उत्पन्न करूँ? ॥ १२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When he had departed to heaven (prayāte tridivaṃ tasmin), Ikṣvāku of boundless splendor grew absorbed in thought (ikṣvākur amitaprabhaḥ ... cintāparo ’bhavat), reflecting, ‘How shall I beget sons?’ (janayiṣye kathaṃ putrān).
 </details>
 </details>
 
@@ -370,6 +442,12 @@ _________________
 
 ऒन्दु दिन त्रिभुवनश्रेष्ठ भगवान् ब्रह्मदेवरल्लि केळिदॆ - स्वामि! ई ब्रह्मलोकवु हसिवु-बायारिकॆगळिन्द रहितवागिद्दरू इल्लियू इदु नन्न बॆन्नु बिडुवुदिल्ल. इदु नन्न याव कर्मद फलवागिदॆ? पितामहने! नन्न आहारवेनॆन्दु तिळिसिरि.॥12-13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through various multiform pious rites (karmabhir bahurūpaiś ca tais taiḥ), that righteous son of Manu begot a hundred sons resembling the sons of the gods (manusutaḥ sutān janayāmāsa dharmātmā śataṃ devasutopamān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +475,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदन्नु केळि ब्रह्मदेवरु हेळिदरु - सुदेव नन्दन! नीनु मर्त्यलोकदल्लि इरुव निन्नदे शरीरद सुस्वादु मांसवन्नु प्रतिदिन तिन्नु; इदे निन्न आहारवागिदॆ.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The youngest of them all, O dear Rāghava (teṣām avarajas tāta sarveṣāṃ raghunandana), was foolish and devoid of learning (mūḍhaś cākṛta-vidyaś ca) and would not wait upon his elder brothers (na śuśrūṣati pūrvajān).
 </details>
 </details>
 
@@ -426,6 +510,12 @@ _________________
 
 श्वेतने! नीनु उत्तम तपस्सु माडुत्ता केवल तन्न शरीरवन्ने पोषिसिदॆ. महामते! दानरूपी बीज बित्तदॆ ऎल्लियू यावुदे भोज्यपदार्थ सिगुवुदिल्ल.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“His father bestowed upon that dim-witted son the name ‘Daṇḍa’ (nāma tasya ca daṇḍeti pitā cakre ’lpamedhasaḥ), knowing that the fall of punishment would surely come upon his body (avaśyaṃ daṇḍa-patanaṃ śarīre ’sya bhaviṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -453,6 +543,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु देवतॆगळिगॆ, पितृगळिगॆ, अतिथिगळिगॆ ऎन्दू एनन्नू दान माडिदुदु कण्डु बरुवुदिल्ल. नीनु केवल तपस्सन्ने माडुत्तिद्दॆ. वत्स! अदरिन्द ब्रह्मलोकक्कॆ बन्दरू हसिवु-बायारिकॆयिन्द पीडितनागिरुवॆ.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Not beholding another harsh land suited for that son, O Rāghava (apaśyamānas taṃ deśaṃ ghoraṃ putrasya rāghava), the subduer of foes granted him a kingdom between the Vindhya and Śaivala mountains (vindhya-śaivalayor madhye rājyaṃ prādād arindama).”
 </details>
 </details>
 
@@ -482,6 +578,12 @@ _________________
 
 नाना रीतिय आहारदिन्द पोषिसल्पट्ट निन्न ई परमोत्तम शरीर अमृतरसदिन्द कूडिरुवुदु. अदन्ने तिन्नुवुदरिन्द निन्न क्षुधॆ-तृषॆ निवारणवागुवुदु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That Daṇḍa became king there upon the lovely mountain slopes (sa daṇḍas tatra rājābhūd ramye parvata-rodhasi), and he founded a peerless, supreme city (puraṃ cāpratimaṃ rāma nyaveśayad anuttamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -510,6 +612,12 @@ _________________
 
 श्वेत! आ वनदल्लि दुर्धर्ष महर्षि अगस्त्यरु आगमिसिदाग नीनु ई कष्टदिन्द बिडुगडॆ हॊन्दुवॆ.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He gave the city the name Madhumanta, O lord (purasya cākaron nāma madhumantam iti prabho), and he chose Uśanas, firm in his vows, as his royal priest (purohitaṃ tūśanasaṃ varayāmāsa suvratam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -537,6 +645,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सौम्य! महाबाहो! अवरु देवतॆगळन्नु उद्धरिसलु समर्थरागिद्दारॆ. हागिरुवाग हसिवु- बायारिकॆय वशनाद निन्नन्तह पुरुषनन्नु सङ्कटदिन्द बिडिसुवुदु याव दॊड्ड मातु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus that king, accompanied by his priest (evaṃ sa rājā ... sa-purohitaḥ), governed that realm thronged with joyous people (tad rājyam akarot ... prahṛṣṭa-manujākīrṇam), even as the mighty Indra rules the kingdom of the gods (devarājaṃ yathā vṛṣā).
 </details>
 </details>
 
@@ -580,6 +694,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऎप्पत्तॆण्टनॆय सर्ग पूर्णवायितु. ॥78॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon that royal son of the lord of men, mighty and great-souled (manujendra-putraḥ ... sumahān mahātmā), reigned at that time together with that sage Uśanas (sārdhaṃ ca tenośanasā tadānīm cakāra rājyam), like Śakra in heaven united with Uśanas (śakro divīvośanasā sametaḥ).”
 </details>
 </details>
 

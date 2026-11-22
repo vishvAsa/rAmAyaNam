@@ -71,6 +71,12 @@ teeth.
 Thereupon, the heroic monkeys like Angada and others as also Hanuma, the great one among
 the monkeys accepted the words of Jambavan.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the forest-dwellers (tato vanaukasaḥ)—the heroes headed by Aṅgada (aṅgadapramukhā vīrāḥ) and the great monkey Hanūmān (hanūmāṃś ca mahākapiḥ)—accepted the speech of Jāmbavān (jāmbavato vākyam agṛhṇanta).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -99,6 +105,12 @@ _________________
 
 अनन्तर कपिश्रेष्ठरॆल्लरू अत्यन्त सन्तोषदिन्द वायुपुत्रनाद हनुमन्तन्नु मुन्दिरिसिकॊण्डु महेन्द्र पर्वतवन्नु बिट्टु मेलक्कॆहारिदरु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with joy (prītimantaḥ), all those bulls among leapers (tataḥ sarve plavagarṣabhāḥ), placing the son of the Wind-god at their head (vāyuputrapuraḥsarāḥ), sprang up from the summit of Mount Mahendra (mahendrāgrāt samutpatya) and leaped through the air (pupluvuḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +135,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाकायराद, महाबलिष्ठराद, मेरुमन्दर पर्वतगळन्तॆ काणुत्तिद्द, मदिसिद सलगगळन्तिद्द कपि वीररु आकाशवन्ने मुच्चिबिडुवरो ऎम्बन्तॆ हारिकॊण्डु होगुत्तिद्दरु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+resembling Mount Meru and Mount Mandara (merumandarasaṃkāśāḥ), like mighty elephants in rut (mattā iva mahāgajāḥ), huge-bodied and of immense strength (mahākāyā mahābalāḥ), as though covering the very sky (chādayanta ivākāśam);
 </details>
 </details>
 
@@ -151,6 +169,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सकल प्राणिगळिन्द गौरविसल्पडुत्तिरुववनू, महाप्राज्ञशालियू, अतुळ बल सम्पन्ननू, शीघ्रवागि सागुत्तिद्द आ हनुमन्तनन्नु अवरॆल्लरू दिट्टिसि नोडुत्ता तम्म कण्णुगळ नोटदिन्दले ऒय्युत्तिरुवरो ऎम्बन्तॆ अवन कुरितु आदरभावदिन्द अवनन्ने नोडुत्तिद्दरु.*॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+bearing along with their glances, as it were (vahanta iva dṛṣṭibhiḥ), that self-possessed Hanūmān of mighty strength and impetuous speed (tam ātmavantaṃ mahābalaṃ hanūmantaṃ mahāvegam), who was being lauded by all beings (sabhājyamānaṃ bhūtaiḥ);
 </details>
 </details>
 
@@ -214,6 +238,14 @@ determined to complete the task. All of them were looking up at narrating the pr
 and taking delight in war. All of them, in high spirits, were judging rightly the vengeance of Rama
 against the evil-minded Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** having resolved upon the fulfillment of their purpose in Rāghava (rāghave cārthanirvṛttiṃ samādhāya) and to achieve supreme glory (kartuṃ ca paramaṃ yaśaḥ), their object richly accomplished (samṛddhārthāḥ) and their spirits exalted by the success of their deeds (karmasiddhibhir unnatāḥ);
+
+**6:** all of them eager to relate the glad tidings (priyākhyānonmukhāḥ sarve), all delighting in battle (sarve yuddhābhinandinaḥ), all high-minded heroes (sarve manasvinaḥ) resolved upon avenging Rāma (rāmapratīkāre niścitārthāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -263,6 +295,12 @@ the divine grove; *druma lataa yutam* = filled with trees and creepers.
 Then, those monkeys, leaping into the sky and floating in the air, reached a garden looking
 like Nandanavana the divine grove filled with trees and creepers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaping into the sky and coursing through the air (plavamānāḥ kham āplutya), those forest-dwellers (tatas te kānanaukasaḥ) reached a grove resembling Indra’s Nandana (nandanopamam āsedur vanam), thick with hundreds of trees (drumaśatāyutam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -308,6 +346,12 @@ for all beings.
 
 They reached, that Madhuvana by name, the garden abounded with honey, which was protected
 grove, unapproachable for all and looking fascinated to the soul of all beings.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+that famed grove named Madhuvana (yat tan madhuvanaṃ nāma), carefully guarded on every side for Sugrīva (sugrīvasyābhirakṣitam), unassailable by all beings (adhṛṣyaṃ sarvabhūtānām), and enchanting to all creatures (sarvabhūtamanoharam);
 </details>
 </details>
 
@@ -358,6 +402,12 @@ called Dadhimukha; *yat* = who was; *mahaatmanaH* = a high-souled; *kapiH mukhas
 A very powerful monkey called Dadhimukha, who was a high-souled eminent monkey and the
 maternal uncle of Sugreeva always protected that garden.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+which the mighty hero, the monkey Dadhimukha (mahāvīraḥ dadhimukhaḥ kapiḥ), maternal uncle of the high-souled monkey chief Sugrīva (mātulaḥ kapimukhyasya sugrīvasya mahātmanaḥ), guards at all times (yad rakṣati sadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -407,6 +457,12 @@ _________________
 Reaching that huge grove, which was very dear to the heart of Sugreeva, those monkeys
 became highly excessive in their behaviour.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having approached that great grove (tad vanam upāgamya mahāvanam), dear to the heart of the lord of monkeys (vānarendrasya manaḥkāntam), those monkeys became filled with ardent longing (te vānarā babhūvuḥ paramotkaṭāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -455,6 +511,12 @@ Then, seeing that large Madhuvana, the garden abounded in honey, those monkeys, 
 colour was as yellow as honey, were delighted and solicited Angada the prince for permission to taste
 the honey.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then those honey-tawny monkeys (tatas te vānarā madhupiṅgalāḥ), delighted upon beholding the great Madhuvana (hṛṣṭā dṛṣṭvā madhuvanaṃ mahat), begged the prince for the honey (kumāram abhyayācanta madhūni).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -500,6 +562,12 @@ the honey.
 
 Thereupon, Angada the prince, taking approval from those elders like Jambavan and others,
 gave the monkeys a liberty to drink honey there.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the prince (tataḥ kumāraḥ), having sought the approval of those elder monkeys headed by Jāmbavān (tān vṛddhāñ jāmbavatpramukhān kapīn anumānya), granted them free license in the eating of the honey (dadau teṣāṃ nisargaṃ madhubhakṣaṇe).
 </details>
 </details>
 
@@ -549,6 +617,12 @@ and became; *pranR^ityantaH* = gesticulated in dancing.
 
 Thereafter, all those monkeys, thus permitted to drink honey, were exceedingly pleased.
 Then, those excited monkeys felt glad and began dancing.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Permitted by the wise prince, the son of Vālin (te nisṛṣṭāḥ kumāreṇa dhīmatā vālisūnunā), the monkeys climbed the trees (harayaḥ samapadyanta drumān) swarming with honey-bees (madhukarākulān).
 </details>
 </details>
 
@@ -607,6 +681,12 @@ Some were singing. Some were offering salutations. Some were dancing. Some were 
 loudly. Some were falling down. Some were moving in different directions. Some were jumping up. Some
 were talking incoherently.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eating fragrant roots and fruits (bhakṣayantaḥ sugandhīni mūlāni ca phalāni ca), they all attained extreme joy (jagmuḥ praharṣaṃ te sarve) and became wild with intoxication (babhūvuś ca madotkaṭāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -660,6 +740,12 @@ parasparam* = one another; *kechit* = some; *upaakramante* = were falling upon;
 
 Some were leaning against one another. Some were falling upon one another. Some were
 disputing with one another. Some were playing with one another.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And then, having been granted leave (tataś cānumatāḥ), all the thoroughly delighted forest-dwellers (sarve susaṃhṛṣṭā vanaukasaḥ), joyful at heart (muditāś ca), began dancing about here and there (tatas te ca pranṛtyanti tatas tataḥ).
 </details>
 </details>
 
@@ -721,6 +807,12 @@ Some were running from one tree to another. Some were falling down to the ground
 the tree-tops. Some, with a missile-like speed, were flying towards the tops of gigantic trees from
 the ground.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some sing (gāyanti kecit), some laugh aloud (prahasanti kecit), some dance (nṛtyanti kecit), some bow down (praṇamanti kecit); some tumble down (patanti kecit), some roam about (pracaranti kecit), some leap (plavanti kecit), and some babble incoherently (pralapanti kecit).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -780,6 +872,12 @@ While one was singing, another approached him laughing. While one was laughing, 
 approached him weeping. While one was weeping, another approached him pushing. While one was pushing,
 another approached him roaring.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some lean upon one another (parasparaṃ kecid upāśrayanti), some wrangle with one another (parasparaṃ kecid atibruvanti); some rush from tree to tree (drumād drumaṃ kecid abhidravanti), and some drop from the tree-tops onto the ground (kṣitau nagāgrān nipatanti kecit).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -838,6 +936,12 @@ mattaH babhuuNa iti na* = was not drunk; *na kachichit* = now; *atra* = in that 
 That army of monkeys, moving in excessively honey-drunken state, became highly excited.
 None in that army was not drunk. None in that army was not satiated.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From the surface of the earth (mahītalāt) some, with surging momentum (kecid udīrṇavegāḥ), spring right up to the tops of the great trees (mahādrumāgrāṇy abhisampatanti); one approaches a singer laughing aloud (gāyantam anyaḥ prahasann upaiti), while another approaches a laugher weeping aloud (hasantam anyaḥ prarudann upaiti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -895,6 +999,12 @@ naamaa* = named Dadhimukha; *tataH* = then; *kopaat* = by anger; *nivaarayaamaas
 
 Seeing that grove, being consumed and the trees stripped off their leaves and flowers
 the monkey named Dadhimukha (who was incharge of the grove) then angrily interrupted those monkeys.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet another approaches one who is prodding, roaring aloud (tudantam anyaḥ praṇadann upaiti); that monkey army became a tumultuous mêlée (samākulaṃ tat kapisainyam āsīt): there was no one there who did not become intoxicated (na cātra kaścin na babhūva mattaḥ), nor was there anyone there who did not become elated (na cātra kaścin na babhūva dṛptaḥ).
 </details>
 </details>
 
@@ -956,6 +1066,12 @@ Threatened by those monkeys who were behaving excessively, Dadhimukha who was en
 with a terrible energy, the care-taker of the grove and an elderly hero of the monkeys further contemplated
 the means to protect that grove from the monkeys.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding that grove being devoured on every side (tato vanaṃ tat paribhakṣyamāṇaṃ samīkṣya) and its trees stripped of leaves and blossoms (drumāṃś ca vidhvaṃsitapatrapuṣpān), the monkey named Dadhivaktra (dadhivaktranāmā kapiḥ) in wrath sought to restrain those monkeys (kopān nivārayāmāsa kapīṃs tān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1015,6 +1131,12 @@ collusion with them; *tathaiva* = in like manner; *upajagaama* = he approached; 
 He spoke harsh words with some and courageously struck some others with his palms uninterruptedly,
 created a quarrel by coming into collusion with some, and approached some in a conciliatory manner.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Threatened on all sides by those wildly excited monkeys (sa taiḥ pravṛddhaiḥ paribhartsyamānaḥ), that heroic elder monkey, the guardian of the grove (vanasya goptā harivṛddhavīraḥ) of fierce energy (ugratejāḥ), once more set his mind (cakāra bhūyo matim) upon protecting the grove from the monkeys (vanasya rakṣāṃ prati vānarebhyaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1051,6 +1173,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन्होंने निर्भय होकर किन्हीं-किन्हींको कड़ी बातें सुनायीं । कितनोंको थप्पड़ोंसे मारा । बहुतोंके साथ भिड़कर झगड़ा किया और किन्हीं-किन्हींके प्रति शान्तिपूर्ण उपायसे ही काम लिया ॥ २२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To some he spoke harsh words fearlessly (uvāca kāṃścit paruṣāṇy abhītam), and others he struck incessantly with his palms (asaktam anyāṃś ca talair jaghāna); coming up to some, he engaged in a brawl (sametya kaiścit kalahaṃ cakāra), and likewise he approached some with conciliatory words (tathaiva sāmnopajagāma kāṃścit).
 </details>
 </details>
 
@@ -1131,6 +1259,12 @@ Bruising with their nails, biting with their teeth on account of their inebriety
 making short work of that Dadhimukha with their palms and feet, all those moneys made that large grove,
 divested of its flowers, fruits and honey.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then by those monkeys whose momentum was irresistible through intoxication (sa tair madād aprativāryavegaiḥ), and who were being forcibly held back by him (balāc ca tena prativāryamāṇaiḥ), having cast off all fear in assaulting him (pradharṣaṇe tyaktabhayaiḥ) and disregarded the offense (anavekṣya doṣam), he was ganged up on and dragged about (sametya prakṛṣyate cāpi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1165,6 +1299,12 @@ divested of its flowers, fruits and honey.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि अरवत्तॊन्दनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Piercing him with their nails (nakhais tudantaḥ), biting him with their teeth (daśanair daśantaḥ), and battering him nearly to death with their palms and feet (talaiś ca pādaiś ca samāpayantaḥ), in their intoxication those monkeys (madāt te kapayaḥ) stripped the great grove bare on every side (kapiṃ samantān mahāvanaṃ nirviṣayaṃ ca cakruḥ).
 </details>
 </details>
 

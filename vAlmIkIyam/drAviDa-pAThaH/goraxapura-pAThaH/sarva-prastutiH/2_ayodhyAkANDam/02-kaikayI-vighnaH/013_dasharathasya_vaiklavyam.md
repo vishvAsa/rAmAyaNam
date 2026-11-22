@@ -80,6 +80,14 @@ exhausting his merit in the region of heaven. Kaikeyi who was a manifestation of
 accomplished her desire, who was fearlessly exhibiting her fearful form, asked for those boons
 again in a loud voice, to Dasaratha who was in such a bad mood situation.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Unto the great monarch lying upon the bare ground in a state utterly unsuited to him (atathocitam) and undeserving of such a fate (atadarham), like King Yayāti fallen down from the celestial realm (devalokāt paricyutam) upon the exhaustion of his merit—
+
+**2:** that woman of calamitous form (anartharūpā), her purpose yet unfulfilled (asiddhārthā), fearless herself yet foreseeing danger (bhayadarśinī), once again demanded that very boon (tam eva varam) of him:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +128,12 @@ boast satyavaadii = I speak truth; *dR^iDhavrataH* = I am persistent in promise;
 "Oh, king! You always boast yourself, saying "I speak truth. I am persisted in my
 promise." Now, why are you objecting to my boon?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O great king, you boast (katthase), ‘I am a speaker of truth and firm in my vows (dṛḍhavrataḥ)’—why then do you wish to withhold (vidhārayitum) this boon of mine?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -159,6 +173,12 @@ became angry; *vihvalanniva* = turned out delirious; *muhuurtam* = for a moment;
 
 After thus spoken to by Kaikeyi, Dasaratha became angry, turned out delirious for a
 moment and again spoke as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Kaikeyī, King Daśaratha, swooning for a moment (muhūrtaṃ vihvalann iva), then replied in wrath (kruddho):
 </details>
 </details>
 
@@ -206,6 +226,12 @@ forest; *mayi mR^ite* = and when I die; *hanta* = alas!
 "Oh, the vulgar one! You, my enemy! You want to be happy after your desire is
 fulfilled when Rama the best among men leaves for the forest and when I die thereafter. Alas!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When I am dead (mṛte mayi) and Rāma, that bull among men (manujapuṅgave), has departed to the forest—alas, O ignoble woman (anārye), my very enemy (mamāmitre), may you have your desire fulfilled (sakāmā) and be happy!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -245,6 +271,12 @@ bit perceived; *daivataiH* = by celestials; *svarge api* = in heaven also;
 
 "When celestials ask for me about Rama's well-being after I reach heaven, how can I
 indeed convince them that he is well obscuringly the actual fact?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even in heaven (svarge 'pi), alas (bata), when questioned by the gods regarding Rāma’s welfare (kuśalam), how shall I bear the reproachful speech (pratyādeśād abhihitam) consequent upon my repudiation of him?”
 </details>
 </details>
 
@@ -293,6 +325,12 @@ untruth.
 "If I tell without obscuring the fact that I sent Rama to exile desirous of showing
 kindness to Kaikeyi, nobody will believe me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If I speak this truth—that ‘out of desire to please Kaikeyī (kaikeyyāḥ priyakāmena), Rāma has been banished to the forest’—then that other word of mine will become untrue (tad asatyaṃ bhaviṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -340,6 +378,12 @@ abandoned?
 "With much effort I, the childless begot the great and powerful Rama as my son. How
 can I abandon such Rama?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By me, who was long sonless (aputreṇa), was this great and radiant son Rāma (mahātejāḥ) obtained through immense toil (śrameṇa mahatā)—how can he be abandoned by me?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -380,6 +424,12 @@ patraakshhaH* = who has eyes like lotus petals ; *vivasyate* = be exiled; *mayaa
 
 "How can I send away Rama who is valiant and knowledgeable, who has subdued anger,
 who has forbearance and who has eyes like lotus-petals".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How can lotus-petal-eyed Rāma (kamalapatrākṣo)—heroic, accomplished in sacred learning (kṛtavidyaḥ), conqueror of wrath (jitakrodhaḥ), and supreme in forbearance (kṣamāparaḥ)—be sent into exile by me?
 </details>
 </details>
 
@@ -430,6 +480,12 @@ lotus; *diirghabahuum* = who is long-armed; *mahaabalam* = who is very strong;
 "How I can I send Rama, who is dark blue in colour like a blue lotus, who is
 long-armed , who is very strong and graceful, to Dandaka forest?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How shall I dispatch unto the Daṇḍaka forest (daṇḍakān) my charming Rāma (abhirāmam rāmam), dark as a blue lotus (indīvaraśyāmam), long-armed, and of mighty strength?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,6 +525,12 @@ see; *raamasya* = (such)Rama's ; *duHkham* = trouble ?
 
 "Rama is accustomed to comforts. He is not accustomed to difficulties. How can I
 imagine such sensible Rama in a troublesome situation?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How could I ever behold the suffering (duḥkhaṃ nāmānupaśyeyam) of wise Rāma, who is worthy only of joys (sukhānām ucitasyaiva) and wholly unaccustomed to sorrows (duḥkhair anucitasya ca)?
 </details>
 </details>
 
@@ -510,6 +572,12 @@ imagine such sensible Rama in a troublesome situation?"
 *sankramaNam bhavet* = if death occurs; *mama* = to me; *adya* = now;
 *tataH* = so that; *aduHkhaarhasya raamasya* to difficulties; *duHkham* =
 misery; *akR^itvaa* = is not created.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If my passing from this world (mama saṃkramaṇam) could come to pass without inflicting sorrow upon Rāma, who is undeserving of grief (aduḥkhārhasya), only then would I attain peace (sukham avāpnuyām).
 </details>
 </details>
 
@@ -567,6 +635,12 @@ uneaqualled; *akiirtiH* = ill-fame; *paraabhavashcha* = and humiliation;
 harm to Rama who is beloved to me and who is truly heroic? I shall certainly get unequalled ill
 fame and humiliation in this world".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O cruel Kaikeyī (nṛśaṃse) of sinful resolve (pāpasaṃkalpe), why do you yoke my beloved Rāma of unfailing valor (satyaparākramam) with what is so hateful (vipriyeṇa)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,6 +686,12 @@ setting of; *suuryaH* = sun.
 
 While Dasaratha was thus lamenting with his disturbed mind, there was approach of
 night with setting of the sun.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Peerless infamy (akīrtir atulā) in the world will surely overwhelm my renown!” Even as that king, his mind whirling in anguish (paribhramitacetasaḥ), lamented thus—
 </details>
 </details>
 
@@ -659,6 +739,12 @@ night ; *triyaamaa* = at nine hours(three yamas) ; *navyabhaasata* = was not shi
 To Dasaratha, who was thus lamenting painfully, the night seemed to be dark even
 though it was adorned with charming circular moon.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the sun sank to its setting (astam abhyāgamat sūryo) and night closed in (rajanī cābhyavartata). Adorned with the orb of the moon (candramaṇḍalamaṇḍitā), that three-watch night (triyāmā), for him who was thus stricken—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -689,6 +775,12 @@ though it was adorned with charming circular moon.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वृद्धनाद दशरथनु निरन्तर दीर्घवागि बिसियाद निट्टुसिरु बिडुत्ता आकाशद कडॆगॆ दिट्टिसि नोडुत्ता आर्तनन्तॆ दुःखपूर्णवागि विलपिसतॊडगिदनु.॥16½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+shed no cooling radiance (na vyabhāsata śarvarī) upon the wailing monarch. Ever heaving burning sighs (sadaivoṣṇaṃ viniḥśvasya), the aged King Daśaratha—
 </details>
 </details>
 
@@ -727,6 +819,12 @@ as afflicted with disease; *vinishshvasya* = sighed; *ushhNam* = hotly;
 
 The aged Dasaratha was lamenting painfully as though afflicted with a disease, with
 lot and hard breaths, having his eyes fixed on the sky.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+shed no cooling radiance (na vyabhāsata śarvarī) upon the wailing monarch. Ever heaving burning sighs (sadaivoṣṇaṃ viniḥśvasya), the aged King Daśaratha—
 </details>
 </details>
 
@@ -775,6 +873,12 @@ lot and hard breaths, having his eyes fixed on the sky.
 "Otherwise, Oh, Night! Leave away quickly. I do not went to see Kaikeyi, who is
 shameless, cruel and for whose reason this great calamity occurred"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Show compassion unto me (kriyatāṃ me dayā), O auspicious Night (bhadre)! Here I fold my hands in supplication (mayāyaṃ racito 'ñjaliḥ). Or else, depart swiftly (gamyatāṃ śīghram)—for I have no desire to behold this pitiless (nirghṛṇām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -820,6 +924,12 @@ spoke; *idam cha* = this word also; *Kaikeyiim* = to Kaikeyi
 
 The king spoke like this and beseeched kaikeyi with folded hands. He again spoke
 this word to Kaikeyi.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and cruel Kaikeyī (nṛśaṃsāṃ kekayīm), on whose account this calamity has befallen me (yatkṛte vyasanaṃ mama)!” Having spoken thus, the king, with joined palms (saṃyatāñjaliḥ), then unto Kaikeyī—
 </details>
 </details>
 
@@ -868,6 +978,12 @@ favour be done.
 "Oh, auspicious queen! I am a well conducted man. I am dejected and seeking refuse
 in you. I am an old man and especially a king. Be kind to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+sought once more to propitiate Kaikeyī (prasādayām āsa punaḥ), knower of royal policy (rājadharmavit) that he was: “Unto me, of virtuous conduct (sādhuvṛttasya), wretched, wholly dependent upon you (tvadgatasya), with my life-breath all but spent (gatāyuṣaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -908,6 +1024,12 @@ hearted!
 
 "Oh, well-hipped one! I hope that whatever I told, has not merged in the sky. Oh!
 young woman, be kind to me . You are good-hearted."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+grant grace (prasādaḥ kriyatām), O auspicious queen (bhadre devi), especially as I am your king (rājño viśeṣataḥ)! Surely, O fair-hipped one (suśroṇi), this was not proclaimed by me in secret (śūnye na khalu)—
 </details>
 </details>
 
@@ -955,6 +1077,12 @@ raajyam* = my kingdom; *tvaddattam* = given by you; *avaapnuti* = obtain;
 "Oh, queen with dark outer corner of eyes be kind. You your self give my kingdom to
 Rama. Thus, you will obtain great fame."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+bestow your noble grace upon me, O young queen (bāle), for you are tender-hearted (sahṛdayā hy asi)! Be gracious, O queen: let my Rāma receive the imperishable kingdom as a gift from you (tvaddattaṃ rājyam avyayam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -994,6 +1122,12 @@ world; *guruuNaam* = to priests bharatasyacha = and to Bharata.
 
 "Oh, broad hipped, with beautiful face and eyes! do this. It will be pleasing to me,
 to Rama, to the world, to priests and to Bharata."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+let him obtain it, O dark-cornered-eyed one (asitāpāṅge), and you shall win supreme renown (yaśaḥ param avāpsyasi)! O heavy-hipped queen (guruśroṇi) with lovely face and eyes (cārumukhekṣaṇe), perform this deed so dear to me, to Rāma, to the world, to the elders (gurūṇām), and to Bharata himself!”
 </details>
 </details>
 
@@ -1051,6 +1185,12 @@ Hearing the king, who was her pure-hearted husband and who was pitifully lamenti
 strangely with red eyes filled with tears, that bad tempered cruel woman did not follow his
 words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the varied and piteous lamentation (vicitraṃ karuṇaṃ vilāpam) of her pure-hearted (viśuddhabhāvasya), wretched royal lord, whose reddened eyes were brimming with tears (tāmrāśrukalasya), that wicked-hearted (duṣṭabhāvā), cruel woman heeded not his words (na cakāra vākyam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1101,6 +1241,12 @@ fell down; *kshhitau* = on floor.
 
 Seeing his discontented wife talking unpleasantly about sending Rama to forest, that
 king was distressed, fainted again and fell down unconscious on the floor.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that king, swooning yet again (punar eva mūrcchitaḥ) upon beholding his beloved queen still unappeased (priyām atuṣṭām) and speaking hostile words regarding the banishment of his son (putrasya vivāsanaṃ prati), fell unconscious (visaṃjño) and grief-stricken to the earth.
 </details>
 </details>
 
@@ -1159,6 +1305,12 @@ prevented them to do.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मिकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि हदिमूरनॆय सर्ग पूर्णवायितु ॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus passed that night for the high-minded (manasvinaḥ), anguished monarch as he sighed terribly (ghoraṃ śvasato); and when awakened at dawn (vibodhyamānaḥ), that best of kings forbade the customary royal awakening chants (pratibodhanam).
 </details>
 </details>
 

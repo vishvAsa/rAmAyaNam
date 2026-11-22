@@ -48,6 +48,12 @@ and that Rama himself would obey his father's command by staying back in the for
 ततः पुरुष सिम्हानाम् वृतानाम् तैः सुहृद् गणैः ।
 शोचताम् एव रजनी दुह्खेन व्यत्यवर्तत ॥ २-१०५-१
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, as those lions among men (puruṣa-siṃhānām)—surrounded by those throngs of friends and kinsmen (suhṛd-gaṇaiḥ)—remained grieving, the night passed away (vyatyavartata) in sorrow.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +120,12 @@ approached; *raamam* = Rama.
 When the beautiful dawn broke, Rama's brothers along with their companions, having
 made their offerings and recited their prayers on the banks of River Madakini, approached Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the night had dawned bright and clear (suprabhātāyām), those brothers, surrounded by their friends, performed their morning fire-oblations and muttered prayers (hutaṃ japyam) on the bank of the Mandākinī and approached Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -159,6 +171,12 @@ Bharata; however; *abraviit* = spoke; *vachanam* = (the following) words;
 
 Sitting in silence, no one uttered a word. Bharata, on his part, amidst his
 companions, addressed Rama as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sitting together in silence (tūṣṇīṃ samupāsīnāḥ), not a single one uttered a word; then Bharata, in the midst of his friends, spoke these words unto Rāma:
 </details>
 </details>
 
@@ -207,6 +225,12 @@ kingdom; *akaNTakam* = without hindrance.
 "My mother has been consoled (by you) by giving this kingdom to me. I am giving back
 that kingdom to you. Enjoy it without hindrance!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My mother (māmikā mātā) has been pacified, and this kingdom that was bestowed upon me—that very kingdom I now bestow upon you alone; enjoy the realm free of every thorn (akaṇṭakam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -253,6 +277,12 @@ other than you.
 
 "As a dam breached by a great on-rush of water during a rainy season cannot be
 repaired so easily, this great continent cannot be defended by any one other than you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a dike breached (bhinnaḥ setuḥ) by a mighty rush of waters at the onset of the rains (jalāgame), this vast territory of the kingdom (rājya-khaṇḍam) is impossible to hold back (durāvāram) by anyone other than you.
 </details>
 </details>
 
@@ -304,6 +334,12 @@ ordinary bird; *taarkSyasya* = the movement of Garuda; a kind of falcon; *mahiip
 "As a donkey cannot emulate the tempo of a horse, or an ordinary bird the movement
 of Garuda (a kind of falcon), neither can I follow in your footsteps, O, Lord of the world!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as a donkey cannot match the pace of a steed, nor an ordinary bird (patatriṇaḥ) the flight of Garuḍa (tārkṣyasya), I have no power, O lord of the earth, to follow your course of governance (gatim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -349,6 +385,12 @@ by others; *yaH* = whoever; *upajiivati* = is dependent on; *paraan* = others;
 
 "O, Rama! Know his life to be blessed forever, on whom others depend Life is,
 however, difficult for him who depends on others for this life."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Happy forever is the life (sujīvam) of that man who is depended upon by others for their livelihood (parair upajīvyate); but wretched is the life, O Rāma, lived by him who depends upon others (parān upajīvati).
 </details>
 </details>
 
@@ -418,6 +460,16 @@ become inaccessible to a dwarf, yet though it may come to flowering, does not be
 no pleasure for him. O, mighty armed! You ought to understand the import of theis simile and being
 the distinguished Lord of all, may you guide us, your sevants!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Just as a tree planted and carefully nurtured by a man grows into a mighty monarch of the forest with broad boughs (rūḍha-skandho mahā-drumaḥ), impossible for a dwarf to climb (hrasvakena durārohaḥ)—
+
+**9:** Yet if, after coming into full blossom (puṣpito bhūtvā), it should fail to yield any fruit (phalāni na vidarśayet), then the planter would never experience that joy for the sake of which (yasya hetoḥ) it was planted.
+
+**10:** This is the comparison (eṣopamā), O mighty-armed one, and you ought to grasp its intended meaning (tam arthaṃ vettum arhasi): if you, our preeminent bull and lord (vṛṣabho bhartā), do not rule over us, your servants!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -464,6 +516,12 @@ foes!; *agrya* = (May) the foremost; *shreNayaH* = series (of people);
 
 "O, emperor, the conqueror of foes! May all behold you, shining resplendent on all
 sides like the sun, seated on the throne!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let all the guilds (śreṇayaḥ) and the foremost chiefs (agryāḥ) on every side behold you, O great king—the subduer of foes—established in sovereignty like the blazing sun (pratapantam ivādityam)!
 </details>
 </details>
 
@@ -516,6 +574,12 @@ _________________
 highway, when you do return and the women of the inner apartments rejoice, all happily joined
 together."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As you journey back to Ayodhyā (tavānuyāne), O Kākutstha, let rutting elephants trumpet aloud, and let the noble ladies of the inner apartments (antaḥpura-gatā nāryaḥ) rejoice with composed hearts!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -561,6 +625,12 @@ city; *amanyanta* = in approbation; *said saadhu* = iti; "Excellent! Well said!"
 
 Hearing the words of Bharata, who was thus appealing to Rama, the various people of
 the city in approbation, said "Excellent! Well said!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the speech of Bharata as he thus entreated Rāma in return (pratyanuyācataḥ), the diverse townsfolk of Ayodhyā (nāgarā vividhā janāḥ) applauded his words, exclaiming, “Well spoken (sādhu)!”
 </details>
 </details>
 
@@ -608,6 +678,12 @@ Bharata; *vilapantam* = lamenting; *evam* = thsu; *samaashvaasayat* = consoled
 
 On seeing the illustrious and sorrowful Bharata thus lamenting, the prudent and
 self-conposed Rama began to console him as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the illustrious Bharata thus afflicted with sorrow and lamenting, Rāma—of disciplined mind (kṛtātmā) and steadfast self-possession (ātmavān)—gently consoled him:
 </details>
 </details>
 
@@ -658,6 +734,12 @@ him; *itashcha itaratashcha* = hither and thither.
 "Man is not able to do what he wills. He is not the Master A fixed form or name
 drives him hither and thither."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There is no independent self-determination (kāmakāraḥ) for the individual soul; this mortal man is not his own master (anīśvaraḥ). Destiny (kṛtāntaḥ) drags him hither and thither, from this world and the next.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -703,6 +785,12 @@ in separation; *jiivitam* = life; *maraNaantam* = ends in death.
 
 "All that is piled up, is finally disbursed. What rises, ends in a fall. Unio ends
 in separation. Life ends in death."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All accumulations end in depletion (kṣayāntā nicayāḥ); all lofty elevations end in a fall (patanāntāḥ samucchrayāḥ); all unions end in separation (viprayogāntāḥ); and life itself ends in death (maraṇāntaṃ ca jīvitam).
 </details>
 </details>
 
@@ -750,6 +838,12 @@ falling; *evam* = so also; *narasya* = a man; *jaatasya* = once born;
 
 "How a ripe fruit does not fear for anything other than its falling, so also a man
 once born, does not fear for anything other than his death."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as for ripened fruits (phalānāṃ pakvānām) there is no danger other than falling (patanāt), even so for a man once born (jātasya) there is no inescapable peril other than death (maraṇāt).
 </details>
 </details>
 
@@ -800,6 +894,12 @@ decays; *tathaiva* = so also; *naraaH* = human beings; *siidanti* = perish;
 "As a house that is solidly contructed ultimately falls into decay, human being too
 is subject to age and death."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as a house supported by stout pillars (dṛḍha-sthūṇam āgāram), when it has grown old and decayed (jīrṇaṃ bhūtvā), sinks down in ruin, even so do mortal men sink down when brought under the sway of old age and death.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -845,6 +945,12 @@ the bountiful; *yamunaa* = River Yamuna; *yaatyeva* = just marches on;
 
 "The night that has passed, does not return and the buntiful River Yamuna just
 marches on towards the all-sufficient abounding in water."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The night that passes away never turns back again (na pratinivartate), even as the brimming Yamunā flows ever onward to the ocean teeming with waters (samudram udakākulam).
 </details>
 </details>
 
@@ -893,6 +999,12 @@ nights; *iha* = in this world; *aashu* = quickly; *kSapayanti* = decrease;
 "The pasing days and nights in this world quickly decrease the life-span of all
 living being as in the summer, the rays of the sun dry up the water (in a pool)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing days and nights (ahorātrāṇi gacchanti) swiftly dry up the lifespans (āyūṃṣi kṣapayanti) of all living beings here in this world, just as the rays of the sun (aṃśavaḥ) dry up water in summer.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -939,6 +1051,12 @@ life-span; *hiiyate* = gets shortened; *tvam* = you; *anushocha* = grieve;
 
 "You grieve for yourself. Why do you grieve for another? Even while you stay at
 home, or departed to another place, your life-span gets shortened."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grieve for your own self (ātmānam anuśoca tvam)—why do you grieve for another? For your own span of life is ebbing away (āyus te hīyate), whether you stand still or walk onward.
 </details>
 </details>
 
@@ -989,6 +1107,12 @@ distance; *nivartate* = (we) return; *saha mR^ityuH* = along with death.
 "Death walks just with us (as we walk) and sits with us (as we sit). Having
 travelled a very long distance (with us), death returns along with us (as we return)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Death walks right alongside a man (sahaiva mṛtyur vrajati); Death sits down together with him (saha mṛtyur niṣīdati); and having travelled a very long road (sudīrgham adhvānam), Death returns together with him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1036,6 +1160,12 @@ to the original splendour?
 "When folds have appeared on limbs and hair have turned grey; on what expedient can
 a man having got decayed with age, come back to the original splendour?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When wrinkles have appeared upon the limbs (gātreṣu valayaḥ prāptāḥ) and the hairs of the head have turned white (śvetāḥ śiroruhāḥ), by doing what can a man worn out by old age (jarayā jīrṇaḥ) prevail against death?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1081,6 +1211,12 @@ able to know; *aatmanaH* = their; *jiivitakSayam* = loss in life-span.
 
 "People are deligted when the sun has risen and also when the day ends. But they are
 not able to perceive the waning in their life-span."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Men rejoice when the sun has risen (udita āditye), and they rejoice when the sun has set (astamite ravau); yet they do not perceive the wasting away of their own life (ātmano jīvita-kṣayam).
 </details>
 </details>
 
@@ -1130,6 +1266,12 @@ seasolns; *praaNa samkSayaH* = devours the life; *praaNinaam* = of living beings
 
 "Seeing the onset of season, people rejoice, as though it has come something newly.
 But the succession of the seasons devours the life of being."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Men rejoice upon beholding the onset of each season (ṛtu-mukham) arriving ever anew here; yet through the revolution of the seasons (ṛtūnāṃ parivartena) comes the wearing away of the vital breaths of living beings (prāṇināṃ prāṇa-saṃkṣayaḥ).
 </details>
 </details>
 
@@ -1188,6 +1330,14 @@ parting; *dhruvohi* = is indeed inevitable.
 children, kinsmen wealth and property come together for a while and part with us. Their parting in
 deed inevitable."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** Just as two pieces of driftwood (kāṣṭhaṃ ca kāṣṭhaṃ ca) might come together upon the mighty ocean (mahārṇave) and, having met, might drift apart again after reaching a certain moment of time (kālam āsādya kañcana)—
+
+**27:** Even so do wives, sons, kinsmen, and riches (dhanāni ca) come together and scatter apart again (vyavadhāvanti); for their separation (vinābhavaḥ) is certain and inevitable (dhruvaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1234,6 +1384,12 @@ avert his own death; *naasti* = does not ingrain; *anushochataH* = in a man mour
 
 "Here, no being can escape its destiny ( in the form of birth and death). For that
 reason, the power to avert his own death does not ingrain in a man mourning for a dead person."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+No living creature here in this world abides forever according to its own wish or nature (yathā-bhāvaṃ samabhivartate); therefore he who mourns for one departed (pretasyānuśocataḥ) has no power in that matter.
 </details>
 </details>
 
@@ -1299,6 +1455,14 @@ return?
 come behind you. In the same manner, we should inevitably follow the path taken by fathers and fire
 fathers. Why a man who obtained that path, for which there is no return, distress himself.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** Just as someone standing by the wayside (pathi sthitaḥ) might say to a passing caravan (sārthaṃ gacchantam), “I too shall come along right behind you (pṛṣṭhato bhavatām)!”—
+
+**30:** Even so, inevitable (dhruvaḥ) is the road trodden by our forefathers—the path of our fathers and grandfathers (pitṛ-paitāmahaḥ). Having entered upon that path which admits of no transgression (yasya nāsti vyatikramaḥ), how should a man grieve?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1345,6 +1509,12 @@ blessedness; *smR^itaaH* = It is said; *prajaaH* = that beings; *sukhabhaajaH*
 
 "While the age reshes on, without any return like a flowing river, one's self should
 be emplyoed in a pursuit leading to blessedness. It is said that beings are meant to be happy?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Since one’s span of life rushes downward (vayasaḥ patamānasya) like an unreturning river current (srotaso vānivartinaḥ), one’s soul should be devoted to true felicity (ātmā sukhe niyoktavyaḥ); for creatures are declared to be destined for happiness (sukha-bhājaḥ).
 </details>
 </details>
 
@@ -1397,6 +1567,12 @@ priests and Brahmins); *gataH* = and went; *svargam* = to heaven.
 sacrifices and paid plentiful sacrificial fees (to the officitaing preists and Brahmins) and went
 to heaven."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through all his auspicious and complete Vedic sacrifices (śubhaiḥ kṛtsnaiḥ kratubhiḥ) accompanied by liberal priestly fees (āpta-dakṣiṇaiḥ), our righteous-souled father, the lord of the earth, has shaken off all sin (dhūta-pāpaḥ) and gone to heaven.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1444,6 +1620,12 @@ them); *gataH* = reached; *tridivam* = heaven.
 "Our father reached heaven because he maintained his servants properly, protected
 his subjects and realised the taxes in the manner prescribed by scriptures from them."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through rightly supporting his dependents (bhṛtyānāṃ bharaṇāt samyak), through protecting his subjects (prajānāṃ paripālanāt), and through levying revenue strictly in accordance with dharma (arthādānāc ca dharmeṇa), our father has gone to the third heaven (tridivaṃ gataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1489,6 +1671,12 @@ heaven; *shubhaiH karmabhiH* = because of his auspicious acts; *iSTaiH kratubhis
 
 "Our father, the king Dasaratha obtained heaven because of his auspicious acts and
 perfoming sacrifices involving heavy sacrificial fees."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through auspicious works of charity (karmabhis tu śubhair iṣṭaiḥ) and sacrifices with abundant priestly fees, Daśaratha our father, the lord of the earth, has attained heaven.
 </details>
 </details>
 
@@ -1537,6 +1725,12 @@ having obtained; *uttamam* = a virtuous; *aayushcha* = long life; *svargataH*
 "Having perfomed many types of sacrifices, enjoying worldly pleasure abundantly and
 having obtained a long and virtuous life, king Dasaratha reached heaven."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having worshipped the gods with manifold sacrifices (iṣṭvā bahuvidhair yajñaiḥ), having enjoyed abundant royal pleasures (bhogāṃś cāvāpya puṣkalān), and having attained a supreme span of life (uttamaṃ cāyur āsādya), the lord of the earth has gone to heaven.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1582,6 +1776,12 @@ raaghavaH* = that King Dasartha; *na shochya* = is not to be pitied; *satkR^itaH
 
 "O, dear brother! King Dasaratha, our father who was treated with respect by all
 virtuous men and who secured excellent life-span and enjoyments, is not to be pitied."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having attained the noblest span of life and royal enjoyments too, O dear brother, that Rāghava our father—who has gone to heaven and is honoured by the virtuous (satkṛtaḥ satām)—ought not to be mourned (sa na śocyaḥ).
 </details>
 </details>
 
@@ -1634,6 +1834,12 @@ thre realm of Brahma ( the highest heaven).
 attained the celstial state, by which he can stroll in the realm of Brahma (the highest
 heaven).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having cast off his worn-out mortal body (jīrṇaṃ mānuṣaṃ dehaṃ parityajya), our father has verily attained a divine exaltation (daivīm ṛddhim) that sports freely even in the world of Brahmā (brahmaloka-vihāriṇīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1681,6 +1887,12 @@ emperor.
 "No wise, learned and exceptionally clever man, would weep in such a manner, such as
 I and you, about the emperor.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore no wise man (prājñaḥ) of such discernment—learned in the scriptures (śrutavān) and supremely intelligent (buddhimattaraḥ), whether like you or like me—ought to mourn for him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1726,6 +1938,12 @@ sorrows; *tathaa* = and; *vilaapa rudite* = lamentations; weepings;
 
 "The wise, who are steadfast, should indeed relinquish these sorrows, lamentatious,
 weepings and such other states of misery."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+These manifold forms of grief (bahuvidhāḥ śokāḥ), as well as lamentation and weeping (vilāpa-rudite tathā), must indeed be shunned in every circumstance (sarvāvasthāsu) by a steadfast and wise man (dhīreṇa dhīmatā).
 </details>
 </details>
 
@@ -1774,6 +1992,12 @@ puriim* = of that city; *asi* = you were; *niyuktaH* = commanded; *tathaa*
 "Be composed, O Most eloquent of orators! Control your grief, return to the City of
 Ayodhya in order to obey the command of our father, the subduer of his senses."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore be composed in mind (svastho bhava), do not grieve (mā śocīḥ), and going back, dwell in that city of Ayodhyā (āvasa tāṃ purīm); for thus have you been appointed by our self-controlled father (vaśinā pitrā), O foremost of speakers!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1820,6 +2044,12 @@ virtuous deeds.
 
 "I also will fulfil the command of our father, the venrable man in that very place,
 whre I have been ordered to stay by that king Dasaratha of virtuous deeds."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Where I too have been appointed by that same father of meritorious deeds (tenaiva puṇya-karmaṇā), right there in the forest shall I carry out the command of our noble father (pitur āryasya śāsanam).
 </details>
 </details>
 
@@ -1873,6 +2103,12 @@ nyaayyam* = It is not justifiable; *mayaa* = for me; *tyaktum* = to give up;
 command of our father. You also must honour it to the end, for it comes from our father, out own
 blood."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+It is not righteous for me to abandon his command (na mayā śāsanaṃ tasya tyaktuṃ nyāyyam), O subduer of foes; and that command ought ever to be honoured by you as well—for he is indeed our kinsman, he is our father (sa vai bandhuḥ sa naḥ pitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1918,6 +2154,12 @@ word; *pituH* = of our fahter; *dharmachaariNaH* = the practiser of virtue;
 
 "O, Bharata! Hence, I shall conform to the honourable word of our father, the
 practiser of virtue, by my act of dwelling in the forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That word of my righteous-living father (pitur dharma-cāriṇaḥ), which is approved by the virtuous (sammatam), I myself shall uphold in deed through dwelling in the forest (karmaṇā pālayiṣyāmi vanavāsena), O Rāghava.
 </details>
 </details>
 
@@ -1965,6 +2207,12 @@ pious; *anR^ishamsena* = who seeks to harm non; *nareNa* = by a man;
 O, Tigher among men! Thus should a pious man act, who seeks to harm none, who is
 obedient to his elders and who aspires to conquer the higher world."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A man who desires to win the higher world (paralokaṃ jigīṣatā), O tiger among men, must be devoted to dharma (dhārmikeṇa), free from cruelty (anṛśaṃsena), and obedient to his elders (guru-vartinā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2010,6 +2258,12 @@ father; *dasharathasya* = Dasaratha; *anutiSTha* = act in conformity to;
 
 "O, excellent among men! perceiving the virutous conduct of our father, the King
 Dasaratha, act in conformity to your own nature."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Do you yourself attend to your own royal duty according to your innate nature (ātmānam anutiṣṭha tvaṃ svabhāvena), O bull among men, having reflected upon the auspicious conduct (śubhaṃ vṛttam) of our father Daśaratha.”
 </details>
 </details>
 
@@ -2076,6 +2330,12 @@ became silent.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर ऐदनॆय सर्ग पूर्णवायितु ॥105॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus spoken these words fraught with deep meaning (vacanam arthavat) unto his younger brother (yavīyasaṃ bhrātaram) for the sake of upholding his father’s command (pitur nideśa-pratipālanārtham), the great-souled Lord Rāma ceased speaking after a moment (muhūrtād virarāma).
 </details>
 </details>
 

@@ -69,6 +69,12 @@ raakSasaH* = Trishira, named demons; *sam nipatya* = on nearing / on saluting; *
 But when Khara is about to lunge to the forefront of Rama, nearing him the commander of demonic forces
 named Trishira spoke this to him. [3-27-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching (saṃnipatya) Khara as he was advancing toward Rāma (rāmābhimukhaṃ prayāntam), the army commander (vāhinī-patiḥ), a rākṣasa named Triśiras, spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ jiivati gaandhaare na yuddham kartum arhasi ... aham aavaara iSyaami paartham ti
 But the same Suyodhana does not show this much war-nicety when killing the lone Abhimanyu, the son of
 Arjuna.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Appoint me, the valiant one (vikrāntam), [to the battle], and turn back yourself from this rash venture (sāhasāt); behold the mighty-armed (mahā-bāhum) Rāma struck down (vinipātitam) [by me] in combat (saṃyuge)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -164,6 +176,12 @@ killable by all demons; such; *raamam vadhiSyaami *= Rama, I wish to kill.
 
 "Taking oath on my weapon I promise to you that I truly wish to kill this Rama, as he deserves ill of
 all the demons by killing. [3-27-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I pledge truthfully to you (pratijānāmi te satyam), and I touch my weapon (āyudhaṃ cāham ālabhe) [in oath], that I shall slay Rāma, who deserves death at the hands of all the rākṣasas (vadhārhaṃ sarva-rakṣasām).
 </details>
 </details>
 
@@ -214,6 +232,12 @@ his god of death in this combat, or he becomes mine. [3-27-4]
 
 The word *praashnikaH* is said to a rare expression meaning 'one who asks questions, an examiner,
 a judge...' in its fine sense. Secondarily, it is 'a witness' 'a spectator.' [After Prof. Satya Vrat.]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Either I shall be his death in battle (raṇe mṛtyuḥ), or he shall be mine in combat (samare); restraining your eagerness for battle (vinivartya raṇotsāham), be an impartial witness (prāśnikaḥ) for a moment (muhūrtam).
 </details>
 </details>
 
@@ -272,6 +296,12 @@ an examiner, and examine and know it yourself; *raame a + hate sati, mayi ca nih
 Rama is not killed by me, or if I am killed by Rama, then you can adventurously proceed to him, and
 have your turn to get salvation at Rama's arrows...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Either, when Rāma is slain, you shall proceed joyfully (prahṛṣṭaḥ) to Janasthāna, or, if I am slain (mayi vā nihate), you shall advance against Rāma for battle (saṃyugāya).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -321,6 +351,12 @@ proceeded.
 By that death-greedy demon Trishira, Khara is manoeuvred and Khara to him said 'begone... combat...'
 and thus permitted, Trishira proceeded to the forefront of Rama. [3-27-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Propitiated (prasāditaḥ) by that Triśiras out of eagerness for death (mṛtyu-lobhāt), Khara [relented]; and, granted leave with the words “Go, fight!” (gaccha yudhyeti), [Triśiras] set forth facing Rāghava (rāghavābhimukhaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -365,6 +401,12 @@ as if; *raNe raamam abhyadravat* = in war, to Rama, hurried.
 
 Trishira with a lustrous chariot that is yoked with equally lustrous horses hurried towards Rama in
 that war, like a tri-peaked mountain, for they say, he is a tri-headed demon. [3-27-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Triśiras, for his part, in a radiant chariot (rathenaiva bhāsvatā) yoked with steeds (vāji-yuktena), charged at Rāma in battle (abhyadravad raṇe) like a three-peaked mountain (tri-śṛṅga iva parvataḥ).
 </details>
 </details>
 
@@ -413,6 +455,12 @@ Discharging hosts of arrow-torrents like a hefty-arrow-cloud, he readily dischar
 to the thudding drumbeat when a water-wet war-drum is beaten, rather than a blast from a heated drum.
 [3-27-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Discharging (utsṛjan) masses of arrow-torrents (śara-dhārā-samūhān) like a mighty cloud (mahā-megha iva), he let loose a roar (vyasṛjat nādam) resembling that of a water-soaked war-drum (jalārdrasyeva dundubheḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,6 +505,12 @@ to the thudding drumbeat when a water-wet war-drum is beaten, rather than a blas
 
 On seeing the oncoming of that demon Trishira, Raghava welcomed him by speedily winnowing smarting arrows
 from his bow. [3-27-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the rākṣasa Triśiras advancing (āgacchantam), Rāghava received him (pratijagrāha) with his bow, loosing (vidhunvan) sharp arrows (sāyakān śitān).
 </details>
 </details>
 
@@ -504,6 +558,12 @@ chanced.
 That grave and tumultuous encounter chanced between Rama and Trishira is like the extremely forceful
 encounter between a loin and an elephant. [3-27-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that tumultuous clash (saṃprahāras tumulaḥ) between the exceedingly mighty (atibalinoḥ) Rāma and Triśiras raged like that between a lion and an elephant (siṃha-kuñjarayor iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -549,6 +609,12 @@ forehead [of Rama]; *taaDitaH* = when smote; Rama; kupitaH = is [further] ireful
 
 Later when Trishira smote on the forehead of highly enraged Rama with three arrows, Rama's ire is intensified
 and he franticly said this to that demon. [3-27-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, struck on the forehead (lalāṭe tāḍitaḥ) by Triśiras with three arrows (bāṇais tribhiḥ), the indignant (amarṣī) and incensed (kupitaḥ) Rāma, filled with wrath (saṃrabdhaḥ), spoke these words:
 </details>
 </details>
 
@@ -603,6 +669,12 @@ struck - rap, I am.
 "Oho! What an energy of a triumphing adventurer is this! A demon with this sort of energy is adventuring
 me, whose arrows rap my forehead peripherally, like flowers! [3-27-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Aha! Such is the strength (īdṛśaṃ balam) of this rākṣasa valiant in prowess (vikrama-śūrasya), that I have been struck (parikṣataḥ) on the forehead by his arrows as though by flowers (puṣpair iva)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -652,6 +724,12 @@ on chest; *nijaghaana *= hit; [nicakhaana = staved in.]
 "Now you accept arrows plunging from the string of my bow..." saying thus, that infuriated Rama with
 his alacritous swiftness hit the chest of Trishira with fourteen arrows similar to venomous snakes.
 [3-27-13, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Receive (pratigṛhṇīṣva) my arrows too, sped from the bowstring (cāpa-guṇāc cyutān)!” Having spoken thus, deeply enraged (susaṃrabdhaḥ), [Rāma took up] arrows resembling venomous serpents (āśīviṣopamān)—
 </details>
 </details>
 
@@ -723,6 +801,14 @@ arrow; *asya* = his [Trishira's]; *sam ucChritam* = hoisted high; *dhvajam ca*
 With eight arrows Rama felled the charioteer from his settle on the chariot, and with one arrow ripped
 off the high flying flag on that chariot. [3-27-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Wrathful (kruddhaḥ), he drove fourteen [arrows] (caturdaśa) into the chest of Triśiras (triśiro-vakṣasi); and with four straight-jointed arrows (śaraiḥ saṃnata-parvabhiḥ), [striking] his steeds (turagān asya)—
+
+**15:** The glorious hero (tejasvī) felled (nyapātayata) his four fleet horses (caturaḥ vājinaḥ), and with eight shafts (aṣṭabhiḥ sāyakaiḥ) he struck down the charioteer (sūtam) upon the chariot-platform (rathopasthe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -775,6 +861,12 @@ abhavat* = he [Trishira,] became, inert.
 When that nightwalker is vaulting from that smashed chariot Rama with his arrows tore his chest to shreds
 and he that Trishira became inert. [3-27-16b, 17a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With an arrow Rāma severed (ciccheda) his lofty banner (dhvajaṃ samucchritam); then, as that night-roamer (niśācaram) leaped up (utpatantam) from his shattered chariot (hata-rathāt)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -825,6 +917,12 @@ in other mms - shitaiH* = sharp ones; *saayakaiH* = with arrows; *tasya rakSasaH
 And with three sharp and rapid arrows, and even with his own exasperation, Rama of inestimable aptitude
 rolled the three heads that demon. [3-27-17b, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma pierced (ciccheda) him in the chest (hṛdaye) with arrows, and he became benumbed (jaḍaḥ); then the immeasurable-souled (aprameyātmā) hero, filled with indignation (sāmarṣaḥ), with his shafts (sāyakaiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -869,6 +967,12 @@ rolled the three heads that demon. [3-27-17b, 18a]
 
 When that nightwalker is highly tortured with Rama's arrows he collapsed spewing blood with fumes, whereat
 he is standing in war, at where his three heads rolled just now. [3-27-18b, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck down (apātayat) the three heads (śirāṃsi trīṇi) of that rākṣasa with three swift arrows (vegavadbhis tribhiḥ śaraiḥ). Vomiting forth smoke and blood (dhūma-śoṇitodgārī) and tormented by Rāma's arrows (rāma-bāṇābhipīḍitaḥ)—
 </details>
 </details>
 
@@ -917,6 +1021,12 @@ sma* = running away; *na tiSThanti* = they are, not, standing - defecting Khara.
 As with the fleeing of deer alarmed by a tiger, the demons remaining after liquidation, whom Khara has
 protected so far and whose confidence is now shattered, are running away, and they gave Khara the run-around.
 [3-27-19b, 20a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The night-roamer, standing on the battlefield (samarasthaḥ), fell down (nyapatat), his heads having fallen before him (patitaiḥ pūrvam). Then the surviving (hata-śeṣāḥ) rākṣasas attached to Khara (khara-saṃśrayāḥ), routed (bhagnāḥ),
 </details>
 </details>
 
@@ -977,6 +1087,12 @@ Rama alone. [3-27-20b, c]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तेळनॆय सर्ग सम्पूर्णवायितु. ॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fled (dravanti sma) and did not stand their ground (na tiṣṭhanti), like deer terrified by a tiger (vyāghra-trastā mṛgā iva). Seeing them fleeing (dravataḥ), Khara, enraged (ruṣitaḥ) and hastening (tvaran), rallied them (nivartya) and rushed straight at Rāma (rāmam evābhidudrāva), as Rāhu rushes at the moon (candramasaṃ yathā).
 </details>
 </details>
 

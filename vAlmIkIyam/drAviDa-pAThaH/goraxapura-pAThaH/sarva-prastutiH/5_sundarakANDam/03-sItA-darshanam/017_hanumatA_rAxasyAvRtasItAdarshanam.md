@@ -71,6 +71,12 @@ a peaceful rise; *kumuda shhanDaabhaH* = with radiance equaling that of a group 
 Thereafter the moon with a peaceful rise, with radiance equaling that of a group of lotuses, obtained
 the clear sky like a swan obtaining blue water.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the moon, shining like a cluster of white water-lilies (kumudakhaṇḍābhaḥ) and spotless in its rising (nirmalodayaḥ), advanced into the cloudless sky (nirmalaṃ nabhaḥ) like a swan entering dark-blue water (haṃso nīlam ivodakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ the clear sky like a swan obtaining blue water.
 
 That moon with a peaceful glow served Hanuma with cool rays as though performing help with radiance.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rendering assistance, as it were (sācivyam iva kurvan), with its radiance, the spotless-rayed moon served (siṣeve) the son of the Wind with its cool beams (raśmibhiḥ śītaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -159,6 +171,12 @@ shookabhaaraiH* = by the weight of grief; *naavamiva* = like a ship; *nyastaam* 
 Thereafter Hanuma saw Seetha with a face like a full moon, put down by the weight of grief, like
 a ship sinking down in water due to weight.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He then beheld Sītā, whose face resembled the full moon (pūrṇacandranibhānanām), weighed down as though by loads of grief (śokabhārair iva nyastām) like a boat weighed down by heavy cargo upon the water.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +207,12 @@ _________________
 
 वैदेहियन्नु नोडलु बयसिद्द वायुपुत्रनाद हनुमन्तनु अवळ समीपदल्लिये इद्द भयङ्करवागि काणुत्तिद्द राक्षसियरन्नु नोडिदनु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Desiring to behold Vaidehī closely (didṛkṣamāṇo vaidehīm), Hanumān, son of Māruta, saw nearby (avidūrasthāḥ) female rākṣasīs of dreadful appearance (ghoradarśanāḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -211,6 +235,12 @@ _________________
 
 उनमेंसे किसीके एक आँख थी तो दूसरीके एक कान । किसी-किसीके कान इतने बड़े थे कि वह उन्हें चादरकी भाँति ओढ़े हुए थीं । किसीके कान ही नहीं थे और किसीके कान ऐसे दिखायी देते थे मानो खूँटे गड़े हुए हों । किसी-किसीकी साँस लेनेवाली नाक उसके मस्तकपर थी ॥ ५ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He saw] one single-eyed (ekākṣīm), one single-eared (ekakarṇām), and one with ears serving as her mantle (karṇaprāvaraṇām); one earless (akarṇām), one spike-eared (śaṅkukarṇām), and one with a nose breathing up against her forehead (mastakocchvāsanāsikām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -232,6 +262,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 किसीका शरीर बहुत बड़ा था और किसीका बहुत उत्तम । किसीकी गर्दन पतली और बड़ी थी । किसीके केश उड़ गये थे और किसी-किसीके माथेपर केश उगे ही नहीं थे । कोई-कोई राक्षसी अपने शरीरके केशोंका ही कम्बल धारण किये हुए थी ॥ ६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And one with an oversized head and upper body (atikāyottamāṅgīm), one with a thin, elongated neck (tanudīrghaśirodharām), one with disheveled, scanty hair (dhvastakeśīm), one hairless (akeśīm), and one wearing a blanket-like mass of coarse hair (keśakambaladhāriṇīm);
 </details>
 </details>
 
@@ -258,6 +294,12 @@ _________________
 
 किसीके कान और ललाट बड़े-बड़े थे तो किसीके पेट और स्तन लंबे थे । किसीके ओठ बड़े होनेके कारण लटक रहे थे तो किसीके ठोड़ीमें ही सटे हुए थे । किसीका मुँह बड़ा था और किसीके घुटने ॥ ७ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He saw] one with pendulous ears and forehead (lambakarṇalalāṭām), one with pendulous belly and breasts (lambodarapayodharām), one with pendulous lips (lamboṣṭhīm), one with lip hanging from her chin (cibukoṣṭhīm), one with a pendulous mouth, and one with pendulous knees (lambajānukām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,6 +323,12 @@ _________________
 
 कोई नाटी, कोई लंबी, कोई कुबड़ी, कोई टेढ़ी-मेढ़ी, कोई बवनी, कोई विकराल, कोई टेढ़े मुँहवाली, कोई पीली आँखवाली और कोई विकट मुँहवाली थीं ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+One short (hrasvām), one tall (dīrghām), one hunchbacked (kubjām), one hideously crooked (vikaṭām), and one dwarfish (vāmanām); one fang-toothed (karālām), one crooked-faced (bhugnavaktrām), one tawny-eyed (piṅgākṣīm), and one with a mutilated face (vikṛtānanām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -302,6 +350,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 कितनी ही राक्षसियाँ बिगड़े शरीरवाली, काली, पीली, क्रोध करनेवाली और कलह पसंद करनेवाली थीं । उन सबने काले लोहेके बने हुए बड़े-बड़े शूल, कूट और मुद‍्गर धारण कर रखे थे ॥ ९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[And others] deformed (vikṛtāḥ), tawny-hued (piṅgalāḥ), black (kālīḥ), wrathful, fond of quarrels (kalahapriyāḥ), and wielding huge pikes, sledgehammers, and mallets of black iron (kālāyasamahāśūlakūṭamudgaradhāriṇīḥ);
 </details>
 </details>
 
@@ -326,6 +380,12 @@ _________________
 
 कितनी ही राक्षसियोंके मुख सूअर, मृग, सिंह, भैंस, बकरी और सियारिनोंके समान थे । किन्हींके पैर हाथियोंके समान, किन्हींके ऊँटोंके समान और किन्हींके घोड़ोंके समान थे । किन्हीं-किन्हींके सिर कबन्धकी भाँति छातीमें स्थित थे; अतः गड्ढेके समान दिखायी देते थे । (अथवा किन्हीं-किन्हींके सिरमें गड्ढे थे) ॥ १० ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Others having the faces of boars, deer, tigers, buffaloes, goats, and jackals (varāhamṛgaśārdūlamahiṣājaśivāmukhāḥ), the feet of elephants, camels, and horses (gajoṣṭrahayapādāḥ), and heads sunk into their chests (nikhātaśirasaḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -345,6 +405,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 किन्हींके एक हाथ थे तो किन्हींके एक पैर । किन्हींके कान गदहोंके समान थे तो किन्हींके घोड़ोंके समान । किन्हीं-किन्हींके कान गौओं, हाथियों और सिंहोंके समान दृष्टिगोचर होते थे ॥ ११ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Others one-handed and one-footed (ekahastaikapādāḥ), with the ears of donkeys and horses (kharakarṇyaśvakarṇikāḥ), or cow-eared, elephant-eared, and lion-eared (harikarṇīḥ);
 </details>
 </details>
 
@@ -369,6 +435,12 @@ _________________
 
 किन्हींकी नासिकाएँ बहुत बड़ी थीं और किन्हींकी तिरछी । किन्हीं-किन्हींके नाक ही नहीं थी । कोई-कोई हाथीकी सूँड़के समान नाकवाली थीं और किन्हीं-किन्हींकी नासिकाएँ ललाटमें ही थीं, जिनसे वे साँस लिया करती थीं ॥ १२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some with oversized noses (atināsāḥ), some with crooked noses (tiryaṅnāsāḥ), some noseless (anāsikāḥ), some with noses resembling elephant trunks (gajasaṃnibhanāsāḥ), and some with noses breathing into their foreheads (lalāṭocchvāsanāsikāḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -388,6 +460,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 किन्हींके पैर हाथियोंके समान थे और किन्हींके गौओंके समान । कोई बड़े-बड़े पैर धारण करती थीं और कितनी ही ऐसी थीं जिनके पैरोंमें चोटीके समान केश उगे हुए थे । बहुत-सी राक्षसियाँ बेहद लंबे सिर और गर्दनवाली थीं और कितनोंके पेट तथा स्तन बहुत बड़े-बड़े थे ॥ १३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He saw some] elephant-footed (hastipādāḥ), huge-footed (mahāpādāḥ), cow-footed (gopādāḥ), and having hair-crests on their feet (pādacūlikāḥ), with oversized heads and necks (atimātraśirogrīvāḥ) and oversized breasts and bellies (atimātrakucodarīḥ);
 </details>
 </details>
 
@@ -414,6 +492,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 किन्हींके मुँह और नेत्र सीमासे अधिक बड़े थे, किन्हीं-किन्हींके मुखोंमें बड़ी-बड़ी जिह्वाएँ थीं और कितनी ही ऐसी राक्षसियाँ थीं, जो बकरी, हाथी, गाय, सूअर, घोड़े, ऊँट और गदहोंके समान मुँह धारण करती थीं । इसीलिये वे देखनेमें बड़ी भयंकर थीं ॥ १४ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And some with oversized mouths and eyes (atimātrāsyanetrāḥ), and with long tongues and mouths (dīrghajihvānanāḥ); goat-faced, elephant-faced, cow-faced, and sow-faced (sūkarīmukhīḥ);
 </details>
 </details>
 
@@ -442,6 +526,14 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 किन्हींके हाथमें शूल थे तो किन्हींके मुद‍्गर । कोई क्रोधी स्वभावकी थीं तो कोई कलहसे प्रेम रखती थीं । धुएँ-जैसे केश और विकृत मुखवाली कितनी ही विकराल राक्षसियाँ सदा मद्यपान किया करती थीं । मदिरा और मांस उन्हें सदा प्रिय थे ॥ १५-१६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** And dreadful-looking rākṣasīs with the faces of horses, camels, and donkeys (hayoṣṭrakharavaktrāḥ), holding pikes and mallets in their hands (śūlamudgarahastāḥ), wrathful and fond of quarrels;
+
+**16:** Fierce-toothed (karālāḥ), smoke-colored-haired (dhūmrakeśinyaḥ), deformed-faced rākṣasīs who perpetually drink liquor (pibanti satataṃ pānam) and are ever fond of wine and flesh (surāmāṃsasadāpriyāḥ);
 </details>
 </details>
 
@@ -548,6 +640,12 @@ those who like quarrels, those with high teeth, with hair color like that of smo
 drinking liquor, always desiring meat and liquor, with body smeared by meat and blood, with meat and blood as
 food, whose appearance made hair to stand up, sitting around a great tree with huge trunk.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The foremost of monkeys beheld those [rākṣasīs], whose limbs were smeared with flesh and blood (māṃsaśoṇitadigdhāṅgīḥ), who fed upon flesh and blood (māṃsaśoṇitabhojanāḥ), and whose very sight made one's hair bristle (romaharṣaṇadarśanāḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -630,6 +728,14 @@ exhausted; *taaraamiva* = like a star; *chyutaam* = fallen from heavens; *bhuuma
 She was lack luster being tormented by grief, with hair covered by dirt, with merits exhausted,
 like star fallen from heavens onto ground.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** Sitting (upāsīnāḥ) surrounding the massive-trunked tree (skandhavantaṃ vanaspatim), and beneath it (tasyādhastāt) that blameless royal princess, the noble queen [Sītā].
+
+**19:** Radiant (lakṣmīvān) Hanumān observed Janaka's daughter—lustreless (niṣprabhām), scorched by grief (śokasaṃtaptām), with her locks of hair matted with grime (malasaṃkulamūrdhajām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -680,6 +786,12 @@ excellent ornaments; *bhartR^ivaatsalya bhuushhaNaam* = with husband's love as o
 
 She was rich with fame of lofty character, poor due to not seeing husband, lacking excellent ornaments,
 with husband's love as ornament.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a star fallen and dropped to earth when its merit is exhausted (kṣīṇapuṇyāṃ cyutāṃ bhūmau tārāṃ nipatitām iva), rich in the renown of her chastity (cāritravyapadeśāḍhyām), yet destitute of the sight of her husband (bhartṛdarśanadurgatām);
 </details>
 </details>
 
@@ -732,6 +844,12 @@ viyuudhaam* = without herd; *siMha saMruddhaam baddhaam* = being detained by a l
 Being held captive by Ravana, without any relatives, She was like a she-elephant without herd,
 being detained by a lion.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bereft of the finest ornaments (bhūṣaṇair uttamair hīnām) yet adorned by her tender devotion to her husband (bhartṛvātsalyabhūṣitām), hemmed in by the lord of rākṣasas (rākṣasādhipasaṃruddhām), and parted from her kinsfolk (bandhubhiś ca vinākṛtām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -780,6 +898,12 @@ lustre; *asamsparshaat* = due to lack of contact (with husband); *valaakiimiva* 
 
 She was like moon being covered by clouds at the end of rainy season with an appearance lacking
 lustre due to lack of contact with husband, was like an unplucked Veena.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a bound female elephant separated from her herd (viyūthām) and hemmed in by a lion (siṃhasaṃruddhāṃ baddhāṃ gajavadhūm iva); like a digit of the moon (candrarekhām) at the close of the rainy season (payodānte) veiled by autumn clouds (śāradābhrair ivāvṛtām);
 </details>
 </details>
 
@@ -860,6 +984,14 @@ of Ashoka garden being immersed in an ocean of grief
 Hanuma saw Seetha there surrounded by those ogresses, like Rohini with planets, like a creeper
 without flowers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** Her loveliness marred like an unstrung lute (ayuktām iva vallakīm) for want of touch (asaṃsparśāt); he [saw] her, devoted to her husband's welfare (bhartṛhite yuktām), though wholly unsuited to be under the power of rākṣasas (ayuktāṃ rakṣasāṃ vaśe).
+
+**24:** Plunged in an ocean of grief (śokasāgaram āplutām) in the midst of the aśoka grove, and surrounded there by those [rākṣasīs] like the constellation Rohiṇī eclipsed by a planet (sagrahām iva rohiṇīm),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -909,6 +1041,12 @@ with dirt.
 With body smeared with dirt, being graced by Her body, that Seetha shone and also did not shine,
 like a lotus-fibre covered with dirt.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān beheld her there like a flowerless creeper (latām akusumām iva). With her limbs smeared with grime (malena ca digdhāṅgī) yet adorned by her own natural loveliness (vapuṣā cāpy alaṃkṛtā), she both shines and shines not (vibhāti ca na bhāti ca), like a lotus-fibre smeared with mud (mṛṇālī paṅkadigdheva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -933,6 +1071,12 @@ _________________
 
 मैले और पुराने वस्त्रसे ढकी हुई मृगशावकनयनी भामिनी सीताको कपिवर हनुमान् ने उस अवस्थामें देखा ॥ २६ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkey Hanumān beheld that noble lady with the eyes of a young fawn (mṛgaśāvākṣīm), clad in a soiled and rumpled garment (malinena tu vastreṇa parikliṣṭena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -954,6 +1098,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 यद्यपि देवी सीताके मुखपर दीनता छा रही थी तथापि अपने पतिके तेजका स्मरण हो आनेसे उनके हृदयसे वह दैन्य दूर हो जाता था । कजरारे नेत्रोंवाली सीता अपने शीलसे ही सुरक्षित थीं ॥ २७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He beheld] that dark-eyed queen Sītā, of sorrowful countenance (dīnavadanām) yet unbowed in spirit through her husband's fiery energy (adīnāṃ bhartṛtejasā), protected by her own spotless virtue (rakṣitāṃ svena śīlena).
 </details>
 </details>
 
@@ -1054,6 +1204,16 @@ praharshaam* = great joy.
 Hanuma the son of wind god on seeing Seetha that Seetha like the goddess earth, with well divided
 body parts shining eve without ornaments, obtained great joy.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** Beholding that Sītā with eyes resembling a young fawn's (mṛgaśāvanibhekṣaṇām), looking all around in terror like a frightened young doe (mṛgakanyām iva trastām),
+
+**29:** Scorching, as it were, with her hot sighs (dahantīm iva niḥśvāsaiḥ) the trees bearing young shoots (vṛkṣān pallavadhāriṇaḥ), like a concentrated mass of sorrows (saṃghātam iva śokānām), like a surging wave of grief (duḥkhasyormim ivotthitām)—
+
+**30:** Beholding (prekṣya) that Maithilī—emaciated (kṣāmām), of symmetrically proportioned limbs (suvibhaktāṅgīm), and radiant even without ornaments (vinābharaṇaśobhinīm)—Māruti attained peerless joy (praharṣam atulaṃ lebhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1082,6 +1242,12 @@ body parts shining eve without ornaments, obtained great joy.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 मनोहर नेत्रवाली सीताको वहाँ देखकर हनुमान् जी  हर्षके आँसू बहाने लगे । उन्होंने मन-ही-मन श्रीरघुनाथजीको नमस्कार किया ॥ ३१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And beholding that lady of captivating eyes (madirekṣaṇām), Hanumān shed tears born of joy (harṣajāni so 'śrūṇi mumoca) there, and bowed in homage to Rāghava (namaścakre ca rāghavam).
 </details>
 </details>
 
@@ -1157,6 +1323,12 @@ and became covered with leaves.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि हदिनेळनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed in homage to Rāma and to Lakṣmaṇa, valiant Hanumān, thrilled by the sight of Sītā (sītādarśanasaṃhṛṣṭaḥ), remained concealed (saṃvṛto 'bhavat).
 </details>
 </details>
 

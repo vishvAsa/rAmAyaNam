@@ -65,6 +65,12 @@ Mahaparsva; *anusanchintya* = thought; *muhuurtam* = for a while; *praaNjaliH*
 Perceiving Ravana enraged, a very strong demon named Mahaparsva thought for a while
 and with joined palms, spoke as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving Rāvaṇa to be enraged (kruddham ājñāya), the mighty Mahāpārśva reflected for a moment (muhūrtam anusaṃcintya) and with joined palms spoke this word:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -112,6 +118,12 @@ honey; *na pibet* = does not drink; *saH* = he; *dhruvam* = surely;
 "That man indeed is a fool, who after reaching a forest inhabited by wild beasts and
 vicious elephants and having duly found honey, does not drink it."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who, having reached a forest frequented by wild beasts and serpents (mṛga-vyāla-niṣevitam) and having obtained honey (madhu samprāpya), should not drink it—that man would surely be a fool (bāliśo bhavet).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -151,6 +163,12 @@ your enemies; *ramasva* = you take pleasure; *vaidehyaa saha* = with Sita."
 
 "O,annihilator of enemies! Who is a lord to you, who are a lord of all? Setting your
 foot upon the heads of your enemies, take pleasure with Sita."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who is the lord of you who are the lord of all (īśvarasyeśvaraḥ ko 'sti), O destroyer of foes (śatrunibarhaṇa)? Take your pleasure with Vaidehī, trampling upon the heads of your enemies (śatrūn ākramya mūrdhasu)!
 </details>
 </details>
 
@@ -201,6 +219,12 @@ using force against her; *bhuNkshhva* = enjoy; *taam siitaam* = that Sita;
 "O, ruler endowed with a mighty prowess! Act in the mode of a cock, forcibly against
 her. Enjoy that Sita, by charging on her again and again and revel with her."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Proceed by force after the manner of a rooster (balāt kukkuṭavṛttena), O mighty one! Repeatedly overpowering (ākramyākramya) that Sītā, enjoy her and take your delight (bhūṅkṣva ca ramasva ca)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,6 +271,12 @@ to come will be prevented (by us)."
 
 निम्म मनोरथवु सफलवादाग मत्तॆ निम्म मेलॆ याव भय बन्दितु? वर्तमान हागू भविष्यदल्लि यावुदादरू भयबन्दरू आ ऎल्ल भयद यथोचित प्रतीकार माडलागुवुदु.॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Once you have fulfilled your desire (labdhakāmasya te), what fear shall come upon you afterward (paścād āgamiṣyati kiṃ bhayam)? Whether its time has arrived or not (prāptam aprāptakālaṃ vā), you shall counter it all (sarvaṃ pratividhāsyase).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -286,6 +316,12 @@ celestials); *savajram* = wielding the weapon of a thunderbolt".
 
 "Kumbhakarna and Indrajit of great might together with us are capable of keeping off
 even Devendra (god of celestials), wielding the weapon of a thunderbolt."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Kumbhakarṇa and the mighty Indrajit, together with us (sahāsmābhiḥ), are capable of repelling (pratiṣedhayituṃ śaktau) even the thunderbolt-wielder [Indra] armed with his thunderbolt (savajram api vajriṇam).
 </details>
 </details>
 
@@ -332,6 +368,12 @@ through hostility."
 dissention being followed by right men, I like accomplishment of actions through hostile
 means."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Passing over gift-giving (upapradānam), conciliation (sāntvam), or dissension (bhedam) practiced by the skillful (kuśalaiḥ kṛtam), I favor success in undertakings through military force (daṇḍena siddhim artheṣu rocaye).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,6 +417,12 @@ is no doubt."
 
 "O, ruler endowed with great might! We shall make all your enemies reaching here to
 surrender, by the power of our weapons. There is no doubt about it."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By the prowess of our weapons (śastrapratāpena), O mighty one, we shall without doubt bring under subjection (vaśe kariṣyāmaḥ) all your enemies who have arrived here (iha prāptān).”
 </details>
 </details>
 
@@ -422,6 +470,12 @@ surrender, by the power of our weapons. There is no doubt about it."
 Appreciating the words spoken thus by Mahaparsva, King Ravana spoke the following
 words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed then by Mahāpārśva, King Rāvaṇa, applauding his speech (tasya sampūjayan vākyam), spoke this word:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -462,6 +516,12 @@ occurred long ago."
 
 "O, Mahaparsva! Know a little secret about me. I shall tell you an incident, which
 occurred to me long ago."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Mahāpārśva, learn a certain secret of mine (rahasyaṃ kiṃcid ātmanaḥ); I shall relate that long-past event (ciravṛttaṃ tad ākhyāsye) which was experienced by me of old (yad avāptaṃ purā mayā).
 </details>
 </details>
 
@@ -509,6 +569,12 @@ herself (for fear of me); *aakaashe* = in the sky; *gachchhantiim* = and proceed
 "Once I saw a celestial nymph, Punjikasthala(by name) flashing like a flame,
 concealing herself in the sky and proceeding towards the abode of Brahma."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I once beheld Puñjikasthalā proceeding to the abode of the Grandsire [Brahmā] (pitāmahasya bhavanam), darting furtively to and fro (cañcūryamāṇām) in the sky like a tongue of fire (ākāśe 'gniśikhām iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -548,6 +614,12 @@ abode of Brahma; *naliniiyathaa* = like a lotus; *lolitaa* = which was crumled."
 
 "She was made unclothed by me and was enjoyed forcibly. Thereafter, appearing like a
 crumpled lotus, she went to the abode of Brahma."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“She was forcibly stripped of her garment (kṛtā vivasanā) and enjoyed by me (prasahya mayā bhuktā); then, like a rumpled lotus-plant (lolitā nalinī yathā), she reached the abode of Svayambhū [Brahmā].
 </details>
 </details>
 
@@ -599,6 +671,12 @@ me."
 "I think that the matter was made known to the high soled Brahama and then the
 enraged Brahma spoke to me the following words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And that [outrage], I surmise (manye), became known just so to that magnanimous one (tasya mahātmanaḥ); thereupon the enraged Creator (saṃkupito vedhāḥ) spoke this word to me:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -646,6 +724,12 @@ samshayaH* = there is no doubt."
 "From today onwards, if you revel with any other woman forcibly, your head then
 undoubtedly will break asunder into a hundred pieces."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘From today onward (adyaprabhṛti), whatever other woman you approach by force (yām anyāṃ balān nārīṃ gamiṣyasi), right then your head shall without doubt split into a hundred pieces (tadā te śatadhā mūrdhā phaliṣyati)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -691,6 +775,12 @@ am not making that Sita; the daughter of king Videha to mount; *shube* = (my) be
 
 "Fearing the curse given in this manner by Brahama, I am not violently making Sita
 the daughter of Videha, to mount on my beautiful bed forcibly."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, afraid of that irresistible curse of his (tasya śāpasya bhītaḥ prasabham eva), I do not forcibly cause that Sītā, princess of Videha, to mount my auspicious couch (nārohaye balāt sītāṃ śayane śubhe).
 </details>
 </details>
 
@@ -739,6 +829,12 @@ me."
 "My swiftness is like that of an ocean. My movement is like that of a wind. Rama
 does not know this and hence he is indeed having an encounter with me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My impetuosity is like the ocean's (sāgarasyeva me vegaḥ), and my speed is like the wind's (mārutasyeva me gatiḥ); Daśaratha's son does not know this, and therefore he marches against me (hy āsādayati tena mām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -784,6 +880,12 @@ death; *aasiinam* = sitting; *kR^Iddham* = enraged."
 
 "If not otherwise, who wants to arouse me (for a combat) as one would awaken a lion
 asleep, sitting at a place in a mountain cave or arouse into activity an enraged Death?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who indeed would wish to rouse (prabodhayitum icchati) one seated like a lion asleep in a mountain-cave lair (suptaṃ giriguhāśaye), or seated like wrathful Death (kruddhaṃ mṛtyum ivāsīnam)?
 </details>
 </details>
 
@@ -831,6 +933,12 @@ that reason; *abhigachchhati* = he is coming against; *maam* = me; *samgraame*
 
 "Rama did not see the arrows, looking like two tongued serpents, coming forth from
 me. That is why he is marching against me for a battle"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rāma has not seen in battle the arrows sped forth from me (matto nirgatān bāṇān), which resemble two-tongued serpents (dvijihvān pannagān iva); therefore he marches against me (tena mām abhigacchati).
 </details>
 </details>
 
@@ -881,6 +989,12 @@ thunderbolts; *shatadhaa* = in hundreds; *kaarmukachyutaiH* = released from my b
 "I shall blaze up Rama swiftly with my arrows in hundreds resembling thunder bolts
 discharged from my bow, like tormenting an elephant with fire brands."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With thunderbolt-like arrows loosed a hundredfold from my bow (śatadhā kārmukacyutaiḥ), I shall swiftly scorch Rāma (rāmam ādīpayiṣyāmi), as [one drives off] an elephant with flaming firebrands (ulkābhir iva kuñjaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -920,6 +1034,12 @@ stars; *uditaH* = by a rising; *savitaa* = sun; *kaale* = in dawn."
 
 "Surrounded by great army, I shall take away that strength of Rama, as a rising sun
 at dawn takes away radiance of the stars."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surrounded by a mighty host (balena mahatā vṛtaḥ), I shall efface that army of his (tac cāsya balam ādāsye), just as the sun risen at the appointed hour (uditaḥ savitā kāle) [effaces] the radiance of the stars (nakṣatrāṇāṃ prabhām iva).
 </details>
 </details>
 
@@ -978,6 +1098,12 @@ of riches) was conquered by me with the power of my arms."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हदिमूरनॆय सर्ग पूर्णवायितु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Not even by thousand-eyed Vāsava [Indra] am I capable of being vanquished in battle (yudhāsmi śakyaḥ), nor again by Varuṇa; and by the might of my arms (bāhubalena) this city, formerly guarded by Vaiśravaṇa [Kubera], was conquered by me of old!”
 </details>
 </details>
 

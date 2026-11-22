@@ -69,6 +69,12 @@ kattle drums; *shaN^kha vimishreNa* = mingled with the blast of couches.
 The mighty armed Rama, the conqueror of hostile cities sallied forth with the
 resonant roll of kettle drums, mingled with the blast of couches.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With that resounding roar of war-drums mingled with the blare of conchs, mighty-armed Rāma, the conqueror of enemy citadels (parapuraṃjayaḥ), approaches [Laṅkā].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +120,12 @@ demons; *aasthaaya* = resorting to dhyaanam = meditation; *muhuurtam* = for a mo
 
 Hearing that sound, Ravana the Lord of demons, paused for a moment to reflect and
 looked towards his ministers.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that tumult, Rāvaṇa, the lord of rākṣasas, plunged into reflection (dhyānam āsthāya) for a moment and surveyed his ministers.
 </details>
 </details>
 
@@ -165,6 +177,12 @@ demon; *raakSaseshvaraH* = and the lord of demons; *tatra* = these;
 Ravana of great strength the tormentor of the world, and a cruel lord of demons then
 addressed all his ministers in a voice that resounded the entire hall as follows, accusing
 none.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then addressing all those ministers assembled there and making the entire council hall reverberate, Rāvaṇa of mighty strength spoke thus—
 </details>
 </details>
 
@@ -233,6 +251,14 @@ are truly brave; *yuddhe* = in the field of battle; *viditvaa* = yet on being aw
 "I know that you are truly brave in the battle-field, yet, on beholding that valiant
 Rama, you too look on each other in silence."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** The cruel lord of rākṣasas, the tormentor of the worlds (jagatsaṃtāpanaḥ), [spoke] censuring the crossing of the ocean as well as [Rāma's] valor and martial prowess:
+
+**5:** “What you have spoken regarding Rāma has been heard by me. Even knowing you to be of unfailing valor in battle, I behold you silently (tūṣṇīkān) gazing at one another upon learning of Rāma's prowess!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,6 +307,12 @@ intelligent; *tataH* = then; *abraviit* = answered; *iti* = as follows:
 
 Hearing those word of Ravana whose maternal grandfather he was, the highly
 intelligent demon called Malyavan, answered him thus:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, upon hearing the words of Rāvaṇa, a rākṣasa of supreme wisdom named Mālyavān, his maternal grandfather (mātāmahaḥ), spoke as follows:
 </details>
 </details>
 
@@ -334,6 +366,12 @@ prudence, enjoys sovereignty for a long time and compels his enemies too into su
 Four Vedas, six Vedaangas, the Puranas, the Mimamsa, Nyaya and Dharma together
 constitute fourteen sciences.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O king, that monarch who is thoroughly schooled in the branches of royal learning (vidyāsv abhivinītaḥ) and adheres to sound policy (nayānugaḥ) rules over sovereignty for a long time and brings his foes under his sway.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -379,6 +417,12 @@ and attains; *mahat* = a great; *aishvaryam* = power.
 
 "He who concludes peace even with enemies or wages war at a fitting time strengthens
 his own party and attains a great power."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Making peace (saṃdadhānaḥ) at the proper season and waging war (vigṛhṇan) with enemies [when advantageous], while strengthening his own side, he attains supreme sovereignty.
 </details>
 </details>
 
@@ -428,6 +472,12 @@ war.
 The king should never underrate that enemy. If the king is more powerful, he should make war on the
 enemy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Peace (saṃdhiḥ) should be concluded by a king who is declining or equal in strength; he should never underestimate an enemy, and only when superior in power (jyāyān) should he wage war.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -474,6 +524,12 @@ enemy."
 
 "O, Ravana! For that reason, alliance with Rama finds favour with me. Let Seetha,
 for whose sake you are being attacked, be restored to him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, O Rāvaṇa, peace with Rāma commends itself to me; let Sītā, on whose account you are assailed (abhiyukto 'si), be surrendered to him!
 </details>
 </details>
 
@@ -522,6 +578,12 @@ agreable; *te* = to you.
 "All the celestials, sages and Gandharvas the celestial musicians are wishing for
 victory of Rama. Do not get an enmity with them. Let alliance with him be acceptable to you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All the celestial sages (devarṣayaḥ) and gandharvas desire his victory; do not enter into hostility with him—let peace with him please you!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -569,6 +631,12 @@ them respectively.
 "Brahma, the lord of creation, created only two classes of beings, the celestials
 and the demons. Celestials take refuge in righteousness and demons in unrighteousness."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The adorable grandsire Brahmā created two sides alone for the gods and the asuras—righteousness and unrighteousness (dharmādharmau), which have those two as their respective abodes (tadāśrayau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -615,6 +683,12 @@ demons.
 
 "O, Ravana! Righteous is said to be on the side of the high-souled celestials.
 Unrighteousness is indeed on the side of ogres and demons."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Righteousness (dharmaḥ), indeed, is declared to be the side of the high-souled immortals, whereas unrighteousness (adharmaḥ), O rākṣasa, is the side of the rākṣasas and the asuras.
 </details>
 </details>
 
@@ -666,6 +740,12 @@ Yuga the fourth age.
 "When righteousness swallows unrighteousness, it becomes kR^ita Yuga, a golden age.
 When unrighteousness swallows righteousness, it incites Kali Yuga the fourth age."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Righteousness verily swallows up unrighteousness when the Kṛta age (kṛtam yugam) comes into being; unrighteousness swallows up righteousness when the Tiṣya [Kali] age (tiṣyaḥ) prevails.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -713,6 +793,12 @@ reason; *pare* = the enemies; *balinaH* = are stronger; *asmat* = than us.
 "Therefore, while you were wandering in the worlds, even the great righteousness was
 destroyed and unrighteousness favoured by you. So, the enemies are stronger than us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, as you roamed through the worlds, great righteousness too was struck down by you and unrighteousness was embraced; because of that, our enemies have grown stronger than we.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -759,6 +845,12 @@ cha* = is getting augmented.
 
 "Due to your negligence, that well nourished unrighteousness is swallowing us. Being
 favourable to demons, the sect of demons is thereby getting augmented."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swollen through your negligence (pramādāt), that serpent of unrighteousness (adharmo 'hiḥ) now devours us, whereas [righteousness], cherished by the gods (surabhāvanaḥ), augments the side of the celestials.
 </details>
 </details>
 
@@ -809,6 +901,12 @@ fire; *prasaktena* = who are interested; *viSayeSu* = in sensual enjoyments;
 "You, who are interested in sensual enjoyments, doing whatever you like, have
 created a great alarm in the sages, having the nature of fire."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By you, addicted to sensual pleasures (viṣayeṣu prasantena) and acting recklessly at whim (yatkiṃcitkāriṇā), great distress has been caused to the sages who are like blazing fire.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -834,6 +932,12 @@ created a great alarm in the sages, having the nature of fire."
 
 अवर प्रभाव उरियुव अग्नियन्तॆ दुर्धर्षवागिदॆ. आ ऋषि मुनिगळु तपस्सिन आचरणॆयिन्द तम्म अन्तःकरणवन्नु शुद्धगॊळिसि कॊण्डु धर्मद सङ्ग्रहदल्ले तत्पररागिरुत्तारॆ.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Their spiritual power (prabhāvaḥ) is unassailable like a blazing fire; with their souls purified by austerity (tapasā bhāvitātmānaḥ), they delight in upholding righteousness.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -858,6 +962,12 @@ created a great alarm in the sages, having the nature of fire."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई द्विजरु मुख्य-मुख्य यज्ञगळ मूलक यजन माडुत्तारॆ. विधिवत्तागि अग्नियल्लि आहुतिगळन्नु कॊट्टु, उच्चस्वरदल्लि वेदगळन्नु पठिसुत्तारॆ.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those self-controlled twice-born sages (dvijātayaḥ) perform those foremost sacrifices, offer oblations into the sacred fires according to ritual precept, and recite the Vedas aloud.
 </details>
 </details>
 
@@ -915,6 +1025,12 @@ sacred fires with due ceremony and read the Vedas (Sacred texts) in a loud voice
 the demons, they continued to chant the sacred text, on hearing which all the demons scattered in
 all directions, as thundering clouds in a hot season."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Overpowering the rākṣasas, they sent forth the reverberations of Vedic chant (brahmaghoṣān); [the rākṣasas] fled in all directions like thunderclouds at the onset of summer (uṣṇage).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -962,6 +1078,12 @@ resemble the fire ( in brilliance); *vyaapya* = enveloping; dasha- the ten; *dis
 "The smoke coming forth from the sacred fire of the sage who resemble the fire (in
 brilliance), enveloping the ten directions, takes away the magical power of the demons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising from the agnihotra oblations of the fire-like sages and pervading the ten directions, the sacrificial smoke (dhūmaḥ) snatches away the vital radiance (tejaḥ) of the rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1008,6 +1130,12 @@ torment; *raakSasaan* = the demons.
 "The severe austerity practised by the sages, firm of resolve, in different
 countries torment the demons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Practiced in those sacred regions by ascetics of firm vows (dṛḍhavrataiḥ), fierce austerity torments the rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1034,6 +1162,12 @@ countries torment the demons."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु देवतॆगळिन्द, दानवरिन्द, राक्षसरिन्दले अवध्यनागलु वर पडॆदिरुवॆ, आदरॆ मनुष्यरिन्द इल्ल. आदरॆ इल्लादरो मनुष्यरु, वानररु, करडिगळु, गोलाङ्गूलरु बन्दु गर्जिसुत्तिद्दारॆ. अवरॆल्लरू भारी बलवन्तरू, सैन्यशक्तियिन्द सम्पन्नरू, सुदृढ पराक्रमिगळू आगिद्दारॆ.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moreover, the boon of invulnerability (varaḥ) was obtained by you from gods, dānavas, and yakṣas [alone]; yet mighty men, vānaras, bears, and golāṅgūla monkeys of firm valor have come here and are roaring!
 </details>
 </details>
 
@@ -1077,6 +1211,12 @@ vikramaaH* = having stron prowess; *mahaabalaaH* = and very efficacious;
 "You received a boon of invincibility from celestials, demons and semi-divine
 beings, but then are men, bears as well as powerful and very efficacious having strong prowess who
 are coming hither, roaring like lions."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding manifold, terrible, and diverse portents (utpātān) in great numbers, I foresee the destruction of all the rākṣasas.
 </details>
 </details>
 
@@ -1125,6 +1265,12 @@ demons.
 "By seeing various kinds of unexpected events (portents) and many types of terrific
 things, I am perceiving a destruction of all the demons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dreadful, terrifying clouds roaring with harsh thunder (kharābhistanitāḥ) rain down hot blood (śoṇitena uṣṇena) upon Laṅkā on every side.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1170,6 +1316,12 @@ things, I am perceiving a destruction of all the demons."
 
 "With terrifying clamour, monstrous clouds, inspiring horror, rain hot blood on
 Lanka on every side."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tears fall from the weeping mounts (vāhanānām); covered with dust and drained of color (vivarṇāḥ), [the quarters and banners] do not shine as before (yathāpuram).
 </details>
 </details>
 
@@ -1217,6 +1369,12 @@ prabhaanti* = and are not shining; *yathaapuram* = as before.
 "Drops of tears drop from the weeping elephants, horses etc., whose skins became
 discoloured, covered with dust and are not shining as before."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Predatory beasts (vyālāḥ), jackals, and vultures howl most frightfully and, entering Laṅkā, gather in packs inside the pleasure-groves (ārāme).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1262,6 +1420,12 @@ discoloured, covered with dust and are not shining as before."
 
 "Flesh-eating animals, jackals and eagles and howling horribly. Entering Lanka, they
 are in the groves, forming into groups."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dark-complexioned women (kālikāḥ) standing in front laugh aloud with white teeth (pāṇḍurair dantaiḥ), plundering the houses in dreams after speaking [inauspiciously].
 </details>
 </details>
 
@@ -1313,6 +1477,12 @@ teeth.
 "Black women, chattering incoherently in dreams and robbing different houses stand
 in front, laughing loudly with their white teeth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dogs devour the ritual offerings (balikarmāṇi) of the households; asses are born among cows, and mice among mongooses (nakuleṣu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1362,6 +1532,12 @@ rats; *nakuleSu* = of mongoose.
 "Dogs devour the sacred offerings offered in homes. Donkeys are born of cows and
 rats of mongoose."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cats mate with leopards (dvīpibhiḥ sārdham), swine with dogs, and kiṃnaras too consort with rākṣasas as well as with humans.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1409,6 +1585,12 @@ or with a horse's body with the head of a man); *raakSasaishchaapi* = with demon
 "Cats mate with tigers, pigs with dogs, Kinnaras (a species of demi-gods with the
 human figure and the head of a horse or with a horse's body and the head of a man) with demons and
 men."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Impelled by Time (kālacoditāḥ), pale, red-footed birds—pigeons (kapotāḥ)—roam about to herald the destruction of the rākṣasas.
 </details>
 </details>
 
@@ -1458,6 +1640,12 @@ move in different directions; (foretelling); *vinaashaaya* = the extermination;
 
 "Red-footed and white pigeons, messengers of death, move in different directions,
 foretelling the extermination of demons."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Screeching ‘cīcīkūcī’ (cīcīkūcīti vāśantyaḥ), female śārikā mynah birds perched in the houses fall down entangled, vanquished by quarrelsome birds (kalahaiṣibhiḥ).
 </details>
 </details>
 
@@ -1511,6 +1699,12 @@ _________________
 "Domesticated minas (a kind of birds) making a chirping sound, defeated by other
 bellicose birds drop down, being twined together in groups."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All those birds and beasts weep facing the sun (pratyādityam); and a fanged, hideous, bald man (puruṣaḥ), dark and tawny (kṛṣṇapiṅgalaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1563,6 +1757,16 @@ nimittaani cha* = sinister omens; *utpatanti* = appear.
 "Birds and wild animals, facing towards the sun, cry out. Death, in the form of a
 frightful, monstrous and cruel blackish fellow with a shaven head casts his eyes on all our
 dwellings, both morning and evening. These and such other sinister omens appear."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**34:** —Time (kālaḥ) himself peers into the houses of all at every twilight (kāle kāle); these and other sinister portents (duṣṭāni nimittāni) are springing up!
+
+**35:** We deem Rāma to be Viṣṇu who has assumed a human form (mānuṣaṃ rūpam āsthitam); for this Rāghava of unshakable valor is no mere mortal (mānuṣamātraḥ).
+
+**36:** Make peace, O Rāvaṇa, with Rāma, the king of men, by whom that supremely wondrous bridge (setuḥ) was built across the ocean! Having known and weighed his deeds, let what is salutary for the future (āyatikṣamam) be done!”
 </details>
 </details>
 
@@ -1627,6 +1831,12 @@ is good for the future be done after a mature understanding."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तैदनॆय सर्ग पूर्णवायितु.॥35॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken this speech to him and once again gauged the mind of the lord of rākṣasas, the mighty Mālyavān, of supreme valor among the foremost, fell silent while gazing steadily upon Rāvaṇa.
 </details>
 </details>
 

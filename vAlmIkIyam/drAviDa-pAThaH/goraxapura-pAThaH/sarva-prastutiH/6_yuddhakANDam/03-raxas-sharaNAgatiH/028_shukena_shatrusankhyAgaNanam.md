@@ -54,6 +54,12 @@ Sarana.
 
 आ इडी वानर सैन्यद परिचयवन्नु कॊट्टु सारणनु सुम्मनादाग, अवन मातन्नु केळि शुकनु राक्षसराज रावणनल्लि इन्तॆन्दनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard Sāraṇa's speech, Śuka then pointed out (ādiśya) all the rest of that army (balaṃ tat sarvam) and spoke these words to Rāvaṇa, overlord of the Rākṣasas:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,14 @@ to celestials and demons; *devaparaakramaaH* = having a prowess of celestials;
 banyan trees on the banks of River Ganga or Sala trees on Himalayas? Those warriors, able to change
 their form at will, are irresistible, equal to celestials and demons, and in a battle, are endowed
 with the valour of the gods."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “Those whom you see standing here like rutting great elephants (mattān iva mahādvipān), like banyan trees along the Gaṅgā (nyagrodhān iva gāṅgeyān), and like śāla trees of the Himālaya (sālān haimavatān iva)—
+
+**3:** —these, O king, are irresistible (duṣprasahāḥ), mighty, and capable of assuming any form at will (kāmarūpiṇaḥ); resembling Daityas and Dānavas, they possess the valor of the gods in battle (yuddhe devaparākramāḥ).
 </details>
 </details>
 
@@ -193,6 +207,14 @@ always; *kiSkindha nilayaaH* = stay in Kishkindha.
 musicians, are able to change their form at will and always stay in Kishkindha."
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Of these there are nine, five, and seven thousand crores (koṭisahasrāṇi), as well as thousands of śaṅkus (śaṅkusahasrāṇi) and hundreds of vṛndas (vṛndaśatāni).
+
+**5:** These are Sugrīva's companions (sugrīvasacivāḥ), ever dwelling in Kiṣkindhā (kiṣkindhānilayāḥ)—monkeys begotten by gods and Gandharvas (devagandharvair utpannāḥ) and able to change their form at will (kāmarūpiṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -260,6 +282,14 @@ their power.
 
 "These two, who ate ambrosion on due authorization by Brahma, are hopefully of
 destroying Lanka by their power."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** And those two youths of godlike form (kumārau devarūpiṇau) whom you see standing there are Mainda and Dvivida; there is none equal to those two in battle (tābhyāṃ nāsti samo yudhi).
+
+**7:** Both have partaken of ambrosia (amṛtaprāśinau) with the sanction of Brahmā (brahmaṇā samanujñātau), and these two aspire to crush Laṅkā as she stands (yathā) by their own might (ojasā).
 </details>
 </details>
 
@@ -340,6 +370,16 @@ Kesari; *shrutaH* = known as; *vaataatmajaH* = the son of wind-god;
 "This monkey, by whom the ocean was traversed, is the eldest son of Kesari. He is
 known as the son of wind-god and famously called as Hanuman."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** And that Vānara whom you see standing like a rutting elephant (prabhinnam iva kuñjaram), who when enraged (kruddhaḥ) could by his strength (balāt) agitate even the ocean (samudram api kṣobhayet)—
+
+**9:** —he is the one who came into Laṅkā to find Vaidehī and to spy out you (vaidehyās tava cābhigantā), O lord! Behold this Vānara, whom you saw before (purā dṛṣṭam), now returned (punar āgatam).
+
+**10:** Eldest son of Kesarī (jyeṣṭhaḥ kesariṇaḥ putraḥ), renowned as the son of the Wind-god (vātātmaja iti śrutaḥ), he is famed as Hanūmān, by whom the ocean was leaped across (laṅghito yena sāgaraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -385,6 +425,12 @@ good form; *satatagaH* = always moving; *prabhuH yathaa* = like the god (of wind
 
 "This excellent monkey can assume any form at will. He is endowed with a good
 strength and form always moving like the wind-god, having an uninterrupted mobility."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Able to assume any form at will (kāmarūpaḥ), this best of monkeys is endowed with strength and comeliness (balarūpasamanvitaḥ), and is of irresistible course (anivāryagatiḥ) like the ever-moving lord, the Wind (satatagaḥ prabhuḥ).
 </details>
 </details>
 
@@ -444,6 +490,14 @@ his strength.
 distance of three thousand yojanas (or twenty four thousand miles) reflecting: �I shall seize hold
 of the sun and my hunger will not be appeased otherwise' and they say, he leapt up (into the air)
 intoxicated as he was with his own strength."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** When a mere child (bālaḥ), it is told (kila), being hungry (bubhukṣitaḥ) and beholding the rising sun (udyantaṃ bhāskaram), he traversed a course of three thousand yojanas (triyojanasahasram adhvānam),—
+
+**13:** —resolving in his mind (iti niścitya manasā), ‘I shall seize the sun (ādityam āhariṣyāmi), and my hunger will not remain (na me kṣut pratiyāsyati),’ he leaped up, proud of his strength (baladarpitaḥ).
 </details>
 </details>
 
@@ -510,6 +564,12 @@ the Lord of demons.
 After listening to Sarana's words Shuka, pointing out all that army of monkeys,
 spoke the following words to Ravana the Lord of Demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without even reaching that god (anāsādyaiva devam), who is most unassailable (anādhṛṣyatamam) even by gods, sages, and Rākṣasas, he fell upon the mountain where the sun rises (bhāskarodayane girau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -556,6 +616,12 @@ called Hanuman.
 
 "One of the jaws of this monkey who fell down on the head of the rock, was a little
 fractured. For this reason, because of his strong jaw, he is called Hanuma."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As this monkey fell upon a rocky slab (śilātale), one jaw of his (hanur ekā) was slightly fractured (kiṃcid bhinnā); having a firm jaw (dṛḍhahanuḥ), he is therefore [called] Hanūmān (hanūmān eṣa tena vai).
 </details>
 </details>
 
@@ -630,6 +696,14 @@ your; *laN^kaayaam* = Lanka.
 "He alone wants to destroy Lanka by his valour. How do you forget this monkey by
 whom this fire was lighted and is still blazing up Lanka."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Truly (satyam), through traditional lore (āgamayogena) this monkey is known to me; neither his strength, nor his form, nor his majesty (prabhāvaḥ) can be fully described (anubhāṣitum).
+
+**17:** He aspires to churn up Laṅkā all alone (ekaḥ) by his might (ojasā). Indeed, how do you forget that monkey (kathaṃ vismarase kapim), by whom that fire (dhūmaketuḥ) set in Laṅkā blazes fiercely for you even today (jājvalyate 'sau vai tavādya vai)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -654,6 +728,12 @@ whom this fire was lighted and is still blazing up Lanka."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हनुमन्तन बळियल्लिरुववनु कमलाक्षनाद, श्यामलाङ्गनू, शूरवीरनू, इक्ष्वाकु वंशद अतिरथ नाद, महापौरुषदिन्द कूडिरुव, मूरु लोकगळल्लि प्रसिद्धनाद श्रीरामनु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And he who stands next to him (yaś caiṣo 'nantaraḥ), a dark-complexioned hero (śūraḥ śyāmaḥ) with lotus-like eyes (padmanibhekṣaṇaḥ), the supreme warrior of the Ikṣvākus (ikṣvākūṇām atirathaḥ) whose manly valor is renowned throughout the world (loke viśrutapauruṣaḥ)—
 </details>
 </details>
 
@@ -683,6 +763,12 @@ _________________
 
 धर्मवु अवनिन्द अगलुवुदिल्ल, अवनु धर्मवन्नु ऎन्दू उल्लङ्घिसुवुदिल्ल. वेदविदरल्लि श्रेष्ठनाद; ब्रह्मास्त्रवन्नू, वेदगळन्नु, तिळिदिरुववने श्रीरामनु.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—in whom righteousness never wavers (yasmin na calate dharmaḥ) and who never transgresses righteousness (yo dharmaṃ nātivartate), who knows Brahmā's missile and the Vedas (brāhmam astraṃ vedāṃś ca veda), the foremost of knowers of the Veda (vedavidāṃ varaḥ),—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -707,6 +793,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु बाणगळिन्द आकाशवन्ने भेदिसबल्लनु, पृथिवियन्नु सीळिहाकबल्लनु, अवन कोपवु मृत्युविनन्तॆ इद्दु, पराक्रमवु इन्द्रनन्तॆये इदॆ.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—who could cleave the sky with his arrows (bhindyād gaganaṃ bāṇaiḥ) or rend the earth asunder (medinīṃ vāpi dārayet), whose wrath is like Death's (mṛtyor iva krodhaḥ) and whose valor is like Śakra's (śakrasyeva parākramaḥ),—
 </details>
 </details>
 
@@ -772,6 +864,12 @@ the earth, his anger is akin to that of Death, his valour equal to that of Indra
 celestials, his consort is Seetha who was taken away by you from a place called Janasthana, he is
 Rama who has come to wage war on you, O king!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and whose wife Sītā was abducted by you from Janasthāna (janasthānāt sītā hṛtā tvayā)—he is this Rāma, O king, advancing to fight against you (tvāṃ yoddhuṃ samabhivartate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -830,6 +928,14 @@ with black and curled hair, standing at the right side of Rama, he is called Lak
 interested in the care and welfare of his brother, skilled in leadership of combat and excellent
 among the wielders of all weapons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** And he who stands at his right side (yasya dakṣiṇe pārśve), radiant as pure Jāmbūnada gold (śuddhajāmbūnadaprabhaḥ), broad-chested (viśālavakṣāḥ), copper-eyed (tāmrākṣaḥ), with dark, curling locks (nīlakuñcitamūrdhajaḥ)—
+
+**23:** —he is Lakṣmaṇa by name, devoted to what is dear and beneficial to his brother (bhrātuḥ priyahite rataḥ), skilled in policy and in warfare (naye yuddhe ca kuśalaḥ), the foremost of all wielders of weapons (sarvaśastrabhṛtāṃ varaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -877,6 +983,12 @@ right arm; *raamasya* = of Rama; *bahishcharaH* = and an outward moving;
 This Lakshmana is an angry person, difficult to be conquered, victorious, wise and
 mighty. He has always been the right arm of Rama and in outward moving life (of Rama).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unforgiving (amarṣī), invincible (durjayaḥ), a conqueror (jetā), valorous, victorious, and mighty, he is Rāma's right arm (rāmasya dakṣiṇo bāhuḥ) and his external life-breath ever moving abroad (nityaṃ prāṇo bahiścaraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -922,6 +1034,12 @@ all the demons; *yuddhe* = in battle.
 
 "He does not indeed care for his life in the cause of Rama. He alone wishes to kill
 all the demons in battle."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For the sake of Rāghava (rāghavasyārthe), this one does not spare his own life (na jīvitaṃ parirakṣati); he alone aspires (eṣaivāśaṃsate) to slay all the Rākṣasas in battle (yuddhe).
 </details>
 </details>
 
@@ -991,6 +1109,14 @@ the battle.
 "He, who was consecrated as a king for Lanka by the illustrious Rama, the king of
 kings, is enraged really with you and is to attack us in the battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** And he yonder who stands taking his station at Rāma's left flank (savyaṃ pakṣaṃ rāmasyāśritya), surrounded by a troop of Rākṣasas (rakṣogaṇaparikṣiptaḥ)—this is King Vibhīṣaṇa.
+
+**27:** Consecrated to the sovereignty of Laṅkā (laṅkāyām abhiṣecitaḥ) by the glorious King of kings [Rāma] (śrīmatā rājarājena), he now advances against you for battle (tvām asau yuddhāyābhivartate), filled with counter-rage (pratisaṃrabdhaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1015,6 +1141,12 @@ kings, is enraged really with you and is to attack us in the battle."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऎल्ल वानरर मध्यदल्लि पर्वतोपमवागि, पर्वतदन्तॆ अचलवागि निन्तिरुव वानररन्नु नोडुत्तिरु वॆयल्लवे? अवनु समस्त वानररिगॆ ऒडॆयनाद महातेजस्वी सुग्रीवनु.॥28॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And he whom you see standing in the center like an immovable mountain (madhye girim ivācalam), the lord of all the chiefs of branch-roaming monkeys (sarvaśākhāmṛgendrāṇāṃ bhartāram), of boundless energy (amitaujasam),—
 </details>
 </details>
 
@@ -1041,6 +1173,12 @@ kings, is enraged really with you and is to attack us in the battle."
 
 हिमवन्तनु ऎल्ल पर्वतगळल्लि श्रेष्ठनागिरुवन्तॆये, तेजस्सु, यशस्सु, बल, बुद्धि, सत्कुल प्रसूति-इवॆल्लवुगळिन्दागि सुग्रीवनु वानररल्लि सर्वश्रेष्ठनागिद्दानॆ.॥29॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—who by his splendor, renown, intelligence, strength, and noble lineage (abhijanena ca) outshines all monkeys (kapīn atibabhrāja) as Mount Himavān outshines all mountains,—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1066,6 +1204,12 @@ kings, is enraged really with you and is to attack us in the battle."
 
 इवनु गहन वृक्षगळिन्द कूडिद किष्किन्धा ऎम्ब दुर्गमवाद गुहॆयल्लि वासिसुत्तिरुवनु. पर्वतगळिन्दागि अदन्नु प्रवेशिसुवुदु अत्यन्त कठिणवागिदॆ. इवनॊन्दगॆ अल्लि मुख्य मुख्य सेनापतिगळू इरुत्तारॆ.॥30॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and who, together with his principal troop-commanders (pradhānaiḥ saha yūthapaiḥ), inhabits the cavern-citadel of Kiṣkindhā (kiṣkindhāṃ guhāṃ samadhyāste), thick with impenetrable trees (sagahanadrumām), impregnable (durgām), and situated in a mountain fastness (parvatadurgamyām),—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1090,6 +1234,12 @@ kings, is enraged really with you and is to attack us in the battle."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन कॊरळिनल्लि नूरु कमलगळ सुवर्णमय मालॆ शोभिसुत्तदॆ. अदरल्लि सदा लक्ष्मीदेविय सन्निधान इरुत्तदॆ. अदन्नु देव-मानवरॆल्लरू पडॆयलु बयसुत्तारॆ.॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—whose golden garland of a hundred lotuses (kāñcanī mālā śatapuṣkarā) shines here, coveted by gods and mortals (kāntā devamanuṣyāṇām), wherein Fortune herself abides (yasyāṃ lakṣmīḥ pratiṣṭhitā),—
 </details>
 </details>
 
@@ -1154,6 +1304,12 @@ garland with hundred lotuses is beautifying, that person is Sugreeva. This garla
 lady called Tara as well as the permanent kingdom of monkeys were presented to him by Rama after
 having killed Vali (Sugreeva's brother)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—having slain Vālin, Rāma bestowed upon this Sugrīva (sugrīvo rāmeṇa pratipāditaḥ) this garland, Tārā, and the everlasting sovereignty of the monkeys (kapirājyaṃ ca śāśvatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1173,6 +1329,12 @@ having killed Vali (Sugreeva's brother)."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मनीषी पुरुष सौ लाखकी संख्याको एक कोटि कहते हैं और सौ सहस्र कोटि (एक नील)-को एक शङ्कु कहा जाता है ॥ ३३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A hundred hundred-thousands (śataṃ śatasahasrāṇām) the wise declare to be a koṭi; a hundred thousand koṭis (śataṃ koṭisahasrāṇām) is called a śaṅku.
 </details>
 </details>
 
@@ -1217,6 +1379,12 @@ a hundred; *koTisahasraaNaam* = thousand crores; *abhidhiiyate* = is reckoned;
 "Wise men call a hundred lakhs as a crore. A hundred thousand crores is reckoned as
 a Shanku."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A hundred thousand śaṅkus (śataṃ śaṅkusahasrāṇām) is remembered as a mahāśaṅku; a hundred thousand mahāśaṅkus is here called a vṛnda.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1245,6 +1413,12 @@ _________________
 
 ऒन्दु लक्ष वृन्दद हॆसरु महावृन्दवागिदॆ. ऒन्दु लक्ष महावृन्दवन्नु पद्मवॆन्दु हेळुत्तारॆ.॥35॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A hundred thousand vṛndas (śataṃ vṛndasahasrāṇām) is remembered as a mahāvṛnda; a hundred thousand mahāvṛndas is here called a padma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1272,6 +1446,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नूरु साविर पद्मगळिगॆ महापद्मवॆन्दु हॆसरु. नूरु साविर महापद्म गळन्नु खर्ववॆन्दु हेळुत्तारॆ.॥36॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A hundred thousand padmas (śataṃ padmasahasrāṇām) is remembered as a mahāpadma; a hundred thousand mahāpadmas is here called a kharva.
 </details>
 </details>
 
@@ -1306,6 +1486,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऒन्दु लक्ष खर्वगळन्नु महाखर्ववागुत्तदॆ. ऒन्दु साविर महा खर्वगळन्नु समुद्रवॆन्दु हेळुत्तारॆ. ऒन्दु लक्ष समुद्रगळन्नु ओघवॆन्दू, ऒन्दु लक्ष ओघक्कॆ महौघ ऎम्ब सञ्ज्ञॆ इदॆ.॥37॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A hundred thousand kharvas (śataṃ kharvasahasrāṇām) is remembered as a mahākharva; [a hundred] thousand mahākharvas is called a samudra; and a hundred thousand samudras (śataṃ samudrasāhasram) is called an ogha.
 </details>
 </details>
 
@@ -1390,6 +1576,18 @@ kharvas are said to be one Mahakharvam. A hundred thousand Mahakharvas are calle
 hundred thousand Samudras are said to be one ogha here. A hundred thousand oghas are acclaimed a
 one Mahaugha."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**38:** A hundred thousand oghas (śatam oghasahasrāṇām) is famed as a mahaugha. Thus, accompanied by a thousand koṭis, a hundred śaṅkus, a thousand mahāśaṅkus, and a hundred vṛndas,—
+
+**39:** —by a thousand mahāvṛndas and a hundred padmas, by a thousand mahāpadmas and a hundred kharvas,—
+
+**40:** —and by that same [measure of a] samudra, and likewise by a mahaugha, and by a koṭi of mahaughas resembling the ocean (samudrasadṛśena ca),—
+
+**41:** —and surrounded by the heroic Vibhīṣaṇa together with his ministers (vibhīṣaṇena vīreṇa sacivaiḥ parivāritaḥ), this Sugrīva, lord of the Vānaras, ever encompassed by a mighty host (mahābalavṛtaḥ) and of mighty strength and valor (mahābalaparākramaḥ), advances upon you for battle (tvāṃ yuddhārtham anuvartate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1463,5 +1661,11 @@ identical of an ocean."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तॆण्टनॆय सर्गः पूर्णवायितु.॥28॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having surveyed this army (imāṃ vāhinīṃ samīkṣya) that has drawn near, O great king, resembling a blazing planet (prajvalitagrahopamām), let the supreme effort now be made (prayatnaḥ paramo vidhīyatām) so that victory may be yours, and not defeat at the hands of your foes (na paraiḥ parābhavaḥ).”
 </details>
 </details>

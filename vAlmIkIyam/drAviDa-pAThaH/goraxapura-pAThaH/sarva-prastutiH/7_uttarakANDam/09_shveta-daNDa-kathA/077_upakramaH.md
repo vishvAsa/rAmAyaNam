@@ -39,6 +39,12 @@ _________________
 
 क्लेशरहित कर्म माडुव भगवान् श्रीरामन ई मातन्नु केळि तलॆकॆळगॆ नेताडुत्तिद्द आ तपस्वियु हीगॆ हेळिदनु-॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Of old in the Tretā age, O Rāma (purā tretāyuge rāma), there was a forest of vast extent (babhūva bahu-vistaram), stretching a hundred yojanas all around (samantād yojana-śatam), devoid of wild beasts and forsaken by birds (vimṛgaṃ pakṣi-varjitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महायशस्वी श्रीरामा! नानु शूद्रनागि हुट्टिद्देनॆ हागू सदेह स्वर्गलोकक्कॆ होगि देवत्व पडॆयलु बयसुत्तेनॆ.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While practicing supreme austerity in a tract of that uninhabited wilderness (tasmin nirmānuṣe ’raṇye kurvāṇas tapa uttamam), O gentle one, I set forth to traverse and explore that forest (aham ākramituṃ saumya tad araṇyam upāgamam).
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 ककुत्स्थकुलभूषण श्रीराम! नानु सुळ्ळु हेळुवुदिल्ल. देवलोकवन्नु गॆल्ललु नानु तपस्सिगॆ तॊडगिद्देनॆ. नन्न हॆसरु शम्बूकनागिद्दु, नीनु नन्नन्नु शूद्रनॆन्दे तिळियिरि.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I could not adequately describe the splendor of that forest (tasya rūpam araṇyasya nirdeṣṭuṃ na śaśāka ha), with its sweet-tasting fruits and roots (phala-mūlaiḥ sukhāsvādaiḥ) and trees of manifold forms (bahurūpaiś ca pādapaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +141,12 @@ _________________
 
 अवनु हीगॆ हेळुत्तिद्दन्तॆ श्रीरामचन्द्रनु ऒरॆयिन्द हॊळॆयुत्तिरुव खड्गवन्नु तॆगॆदु, अदरिन्द अवन तलॆयन्नु कत्तरिसिहाकिदनु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the midst of that forest, however, lay a lake extending a full yojana (saro yojanam āyatam), thronged with swans and kāraṇḍava ducks (haṃsa-kāraṇḍavākīrṇam) and graced by cakravāka birds (cakravākopaśobhitam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +174,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ शूद्रन वधॆयागुत्तले इन्द्राग्नि सहित समस्त देवतॆगळु ‘बहळ ऒळ्ळॆयदु, बहळ ऒळ्ळॆयदु’ ऎन्दु हेळि भगवान् श्रीरामनन्नु पदे-पदे प्रशंसिसिदरु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+crowded with day-lotuses and blue water-lilies (padmotpala-samākīrṇam), wholly free of clinging moss (samatikrānta-śaivalam), utterly marvelous as it were (tad āścaryam ivātyartham), peerless and delightful to drink (sukhāsvādam anuttamam),
 </details>
 </details>
 
@@ -181,6 +211,12 @@ _________________
 
 आग अवन मेलॆ ऎल्लॆडॆगळिन्द वायुदेवरु चॆल्लिद दिव्य, परम सुगन्धित पुष्पगळ मळॆ आगतॊडगितु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+spotless and unruffled (arajaskaṃ tathā ’kṣobhyam), resplendent and teeming with flocks of water-birds (śrīmat pakṣi-gaṇāyutam); and near that lake stood a great and wondrous hermitage (samīpe tasya saraso mahad adbhutam āśramam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -208,6 +244,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ ऎल्ल देवतॆगळु अत्यन्त प्रसन्नरागि सत्यपराक्रमि श्रीरामनल्लि हेळिदरु- देव! महामते! नीनु ईदेवतॆगळ कार्यवन्ने नॆरवेरिसिरुवॆ.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+ancient and exceedingly sacred (purāṇaṃ puṇyam atyartham), yet empty of ascetics (tapasvi-jana-varjitam); there, O bull among men (puruṣarṣabha), I passed a summer night (tatrāham avasaṃ rātriṃ naidāghīm).
 </details>
 </details>
 
@@ -237,6 +279,12 @@ _________________
 
 शत्रुदमन रघुकुलनन्दन सौम्य श्रीराम! निन्न ई सत्कर्मदिन्दले ई शूद्र सशरीर स्वर्गलोकक्कॆ होगदादनु. आद्दरिन्द नीनु बयसुव वरवन्नु केळु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising at daybreak to perform my morning rites (prabhāte kālyam utthāya), I approached that lake (saras tad upacakrame); and then I beheld there in a certain spot (athāpaśyaṃ ... tatra kvacit) a corpse, plump and untouched by decay (śavaṃ ... supuṣṭam ajaram),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -264,6 +312,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवतॆगळ मातन्नु केळि सत्यपराक्रमि श्रीरामनु कैमुगिदु सहस्राक्ष इन्द्रनल्लि हेळिदनु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+its full-fleshed limbs cleaving the mud (paṅki-bhedena puṣṭāṅgam) as it rested within the lotus-lake (samāśrita-sarovaram), abiding in that reservoir of water with supreme radiance (tiṣṭhantaṃ parayā lakṣmyā tasmiṃs toyāśaye), O king.
 </details>
 </details>
 
@@ -304,6 +358,14 @@ _________________
 
 देवतॆगळु नन्न मेलॆ प्रसन्नरागिद्दरॆ आ ब्राह्मणपुत्रनु जीवितनागलि. इदे ननगॆ ऎल्लक्किन्त उत्तम, अभीष्टवरवागिदॆ. देवतॆगळु ननगॆ इदे वरवन्नु कॊडिरि.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** Pondering that enigma for a moment there, O Rāghava (tam arthaṃ cintayāno ’haṃ muhūrtaṃ tatra rāghava), I tarried upon the lake shore (uṣito ’smi sarastīre), wondering, ‘What indeed can this be, O lord?’ (kiṃ nv idaṃ syād iti prabho).
+
+**11:** Then within a single moment (athāpaśyaṃ muhūrtena), I beheld a divine, wondrously visible aerial chariot (divyam adbhuta-darśanam vimānam), supremely grand, yoked with swans, and swift as thought (paramodāraṃ haṃsayuktaṃ manojavam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,6 +405,14 @@ _________________
 
 नानु ब्राह्मणनल्लि ‘निन्न बालकनन्नु जीवन्तगॊळिसुवॆ’ ऎन्दु प्रतिज्ञॆ माडिद्दॆ. आद्दरिन्द निमगॆ मङ्गळवागली, नीवु आ ब्राह्मण बालकनन्नु बदुकिसि, नन्न मातन्नु सुळ्ळागिसबेडि.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** Upon that exceedingly glorious celestial being in the chariot, O delight of the Raghus (atyarthaṃ svargiṇaṃ tatra vimāne raghunandana), there waited a thousand apsarases adorned with divine ornaments (upāste ’psarasāṃ vīra sahasraṃ divya-bhūṣaṇam), O hero.
+
+**13:** Some sang celestial melodies (gāyanti divya-geyāni) and others played musical instruments (vādayanti tathā ’parāḥ); still others sported with joyous sounds (kṣvelayanti tathā cānyāḥ) while others danced (nṛtyanti ca tathā ’parāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -380,6 +450,14 @@ _________________
 
 ककुत्स्थकुलभूषण! नीनु सन्तुष्टनागु. आ बालकनु इन्दु पुनः जीवन्तनागि तन्न बन्धु- बान्धवरन्नु सेरिरुवनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Other nymphs, with chowries radiant as moonbeams and fitted with golden handles (candra-raśmy-ābhair hema-daṇḍaiś ca cāmaraiḥ), repeatedly fanned his lotus-eyed countenance (dodhūyur vadanaṃ tasya puṇḍarīka-nibhekṣaṇam).
+
+**15:** Then, quitting his lion-throne like the sun descending from the crest of Mount Meru (siṃhāsanaṃ tyaktvā meru-kūṭam ivāṃśumān), and stepping down from the aerial car while I looked on, O Rāma (paśyato me tadā rāma vimānād avaruhya ca), that celestial being devoured that corpse (taṃ śavaṃ bhakṣayāmāsa sa svargī), O delight of the Raghus.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +480,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इच्छानुसार उस सुपुष्ट एवं प्रचुर मांसको खाकर वे स्वर्गीय देवता सरोवरमें उतरे और हाथ-मुँह धोने लगे ॥ १६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus eaten to his heart’s content of that abundant, rich-fleshed meat (bhuktvā yathākāmaṃ māṃsaṃ bahu supīvaram), the celestial dweller stepped down into the lake and proceeded to sip water for purification (avatīrya saraḥ svargī saṃspraṣṭum upacakrame).
 </details>
 </details>
 
@@ -431,6 +515,12 @@ _________________
 
 नरश्रेष्ठने! निनगॆ मङ्गळ वागलि. ऒळ्ळॆयदागली. ईग नावु अगस्त्याश्रमक्कॆ होगुत्तिद्देवॆ. रघुनन्दन! नावु महर्षि अगस्त्यरन्नु दर्शिसबेकॆन्दु बयसुत्तेवॆ. अवरु जलशय्याव्रत कैगॊण्डु हन्नॆरडु वर्षगळु कळॆदिवॆ. ईग आ महातेजस्वी ब्रह्मर्षिय जलशय्याव्रतद दीक्षॆ समाप्तवागिदॆ.॥16-17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having duly rinsed his mouth according to ordinance (upaspṛśya yathānyāyam), O bull of the Raghus (raghupuṅgava), that celestial dweller proceeded to ascend his supreme, most excellent aerial chariot (āroḍhum upacakrāma vimāna-varam uttamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -459,6 +549,12 @@ _________________
 
 रघुनन्दन! अदक्कागि नावु आ महर्षियन्नु अभिनन्दिसलु होगुवॆवु. निनगॆ मङ्गळवागलि. नीनू आ मुनिश्रेष्ठर दर्शन माडलु हॊरडु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that godlike being as he was mounting (tam ahaṃ deva-saṅkāśam ārohantam udīkṣya vai), I thereupon addressed these words to that celestial dweller (athāham abruvaṃ vākyaṃ svargiṇam), O bull among men:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -486,6 +582,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग बहळ ऒळ्ळॆयदु ऎन्दु हेळि श्रीरामनु देवतॆगळल्लि अल्लिगॆ होगलु प्रतिज्ञॆ माडि आ सुवर्णभूषित पुष्पकविमानवन्नु एरिदनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who are you, O godlike one (ko bhavān deva-saṅkāśa), and why is this reprehensible food eaten by you (āhāraś ca vigarhitaḥ tvayedaṃ bhujyate)? Pray tell me, O gentle one, for what reason (kim arthaṃ vaktum arhasi)!
 </details>
 </details>
 
@@ -516,6 +618,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर बहुसङ्ख्यक देवतॆगळू विमानगळल्लि आरूढरागि अल्लिन्द हॊरटरु. मत्तॆ श्रीरामनू अवरॊन्दिगॆ शीघ्रवागि कुम्भज ऋषिय तपोवनक्कॆ होदनु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To whom could belong such a nature and a diet approved of the gods (kasya syād īdṛśo bhāva āhāro deva-sammataḥ)? Great wonder fills me, O gentle one; I wish to hear the truth (āścaryaṃ vartate saumya śrotum icchāmi tattvataḥ)—for I do not deem this corpse fitting food for you (nāham aupayikaṃ manye tava bhakṣyam idaṃ śavam)!”
 </details>
 </details>
 
@@ -554,6 +662,12 @@ _________________
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये उत्तरकाण्डे सप्तसप्ततितमः सर्गः ॥ ७७ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके उत्तरकाण्डमें सतहत्तरवाँ सर्ग पूरा हुआ ॥ ७७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus with curious yet gracious and truthful speech, O lord of men (kautūhalāt sūnṛtayā girā ca), that dweller of heaven (nākī), having heard all these words of mine, recounted everything to me just as it happened (sarvaṃ tathā cākathayan mameti).
 </details>
 </details>
 

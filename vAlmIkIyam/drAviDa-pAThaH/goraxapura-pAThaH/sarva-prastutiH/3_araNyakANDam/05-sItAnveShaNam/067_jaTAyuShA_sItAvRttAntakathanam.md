@@ -83,6 +83,12 @@ uktam - tathaa ca bhaarate udyoge - viduraH - api unmatta pralaapato baalaacca p
 sarvataH saaram aadadyaat ashmabhya iva kaancanam || iti - dk 'youngsters advices
 can be taken like gold from the coals...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though he was the elder brother (pūrvajo 'pi), the moment he was addressed (ukta-mātras tu), Rāghava, who appreciated what is essential (sāra-grāhī), accepted (pratijagrāha) the deeply meaningful (mahā-sāram) and well-spoken counsel (subhāṣitam) of Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -134,6 +140,12 @@ propping against; *lakSmaNam abraviit* = he, to Lakshmana, said.
 Such as he is that dextrous Rama on controlling his highly heightening fury,
 propping against his bedazzling bow spoke this to Lakshmana. [3-67-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Restraining his own surging wrath (nigṛhya pravṛddhaṃ roṣam ātmanaḥ) and leaning upon his variegated bow (avaṣṭabhya dhanuś citram), the mighty-armed Rāma spoke to Lakṣmaṇa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -181,6 +193,12 @@ cintaya* = in this matter, you clearly think.
 
 "What is to be done by us, oh, dear boy... or, whereto we might go, or, by which
 device Seetha is discernable... Lakshmana, now you think of it, clearly... [3-67-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What shall we two do (kiṃ kariṣyāvahe), dear brother (vatsa), or where shall we go (kva vā gacchāva), O Lakṣmaṇa? Reflect here (iha vicintaya) by what means (kenopāyena) we may behold Sītā!”
 </details>
 </details>
 
@@ -237,6 +255,12 @@ To such a Rama who is tormented by anguish, Lakshmana said, "it will be apt of y
 to search this Janasthaana alone which is rife with many demons, and replete with manifold trees
 and climber-plants... [3-67-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To him thus afflicted with anguish (paritāpārtam), Lakṣmaṇa spoke [this] word: “You ought to search (tvam anveṣitum arhasi) this very Janasthāna (idam eva janasthānam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -263,6 +287,12 @@ and climber-plants... [3-67-4]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नाना प्रकारद वृक्ष-लतॆगळिन्द कूडिद ई घन वनवु अनेक राक्षसरिन्द तुम्बिदॆ. इदरल्लि पर्वतगळ मेलॆ अनेक दुर्गम स्थान, ऒडॆद बण्डॆगळु मत्तु कन्दकगळिवॆ.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thronged with many Rākṣasas (rākṣasair bahubhiḥ kīrṇam) and filled with manifold trees and creepers (nānā-druma-latā-yutam). Here there are mountain fastnesses (giri-durgāṇi), rocky clefts (nirdarāḥ), and caverns (kandarāṇi ca)—
 </details>
 </details>
 
@@ -308,6 +338,12 @@ gandharva-s, palaces, as well; *santi* = are there.
 "Here there are unclimbable mountains, glens and glyphs as well. There are divers
 and pernicious caverns tumultuous with diverse packs of predators, and here are the mansions of
 kinnaraa-s and palaces of gandharva-s, as well... [3-67-5b, 6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And manifold dreadful caves (guhāś ca vividhā ghorāḥ) teeming with herds of various beasts (nānā-mṛga-gaṇākulāḥ), as well as the abodes of Kiṃnaras (āvāsāḥ kiṃnarāṇāṃ ca) and the dwellings of Gandharvas (gandharva-bhavanāni ca).
 </details>
 </details>
 
@@ -369,6 +405,12 @@ will not, fluctuate.
 among men, your sort of literati and clever-souls will be unfluctuating in calamities like the
 mountains unfluctuating in windstorms..." Lakshmana said so Rama. [3-67-6, 7, 8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Intent on the search (yuktaḥ), you ought to explore them thoroughly (samanveṣitum arhasi) together with me (mayā sārdham). Great-souled bulls among men (mahātmāno nararṣabhāḥ) endowed with wisdom (buddhi-sampannāḥ) like you (tvad-vidhāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -417,6 +459,12 @@ roved.
 
 When Lakshmana said in this way to that ireful Rama, he roved entire forest along
 with Lakshmana readying a crescent-shaped razor-sharp deadly arrow on his bow. [3-67-8b, 9a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Do not tremble in calamities (āpatsu na prakampante), just like mountains before the blasts of the wind (vāyu-vegair ivācalāḥ).” Thus addressed, he roamed through that entire forest (tad vanaṃ sarvaṃ vicacāra) along with Lakṣmaṇa.
 </details>
 </details>
 
@@ -491,6 +539,14 @@ On beholding him who is like a mountaintop in his gleam, Rama said to Lakshmana,
 "This one has gluttonised Seetha, the princess from Vaidehi, there is no doubt about it...
 [3-67-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Having fitted a dreadful, razor-headed arrow (śaraṃ ghoraṃ kṣuram) to his bow in wrath (kruddhaḥ), Rāma then [beheld] the illustrious (mahā-bhāgam) best of birds (dvijottamam), who resembled a mountain peak (parvata-kūṭābham)—
+
+**10:** He beheld Jaṭāyus fallen on the ground (patitaṃ bhūmau), drenched in blood (kṣatajārdram). Seeing him resembling a mountain crag (giri-śṛṅgābham), Rāma spoke to Lakṣmaṇa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -520,6 +576,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मणा! ई गृध्ररूपदल्लि खण्डितवागि यावनो राक्षसनॆन्दु अनिसुत्तदॆ. इवनु ई वनदल्लि सुत्ताडुत्ता इरुत्तानॆ. निस्संशयवागि इवने विदेहनन्दिनि सीतॆयन्नु तिन्दु हाकिरबहुदु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By this creature Vaidehī Sītā has been devoured (bhakṣitā)—there is no doubt here (nātra saṃśayaḥ)! Clearly (vyaktam), this is a Rākṣasa in the form of a vulture (gṛdhra-rūpam idaṃ rakṣaḥ) roaming the forest (bhramati kānanam).
 </details>
 </details>
 
@@ -567,6 +629,12 @@ jihma gaiH* = not, crisscross, going [shoot off straightly]; *baaNaiH* = with bo
 and having gluttonised that wide-eyed Seetha he is now reposing comfortably. I will eliminate him
 with deadly arrows, whose arrowheads blaze away and which shoot off straightly..." Thus Rama
 declared. [3-67-11b, 12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having devoured the wide-eyed Sītā (bhakṣayitvā viśālākṣīṃ sītām), he sits at ease (āste yathā-sukham); I shall slay him (enaṃ vadhiṣye) with dreadful, straight-flying arrows (śarair ghorair ajihmagaiḥ) of blazing tips (dīptāgraiḥ)!”
 </details>
 </details>
 
@@ -620,6 +688,12 @@ aa patat* = towards, come, and fallen] = rushed towards.
 On saying thus and on readying a crescent-shaped razor-sharp deadly arrow on his
 bow, that ireful Rama rushed towards the eagle, as though to a-tremble the whole of the earth that
 which is within the perimeter of oceans. [3-67-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus and fitted the razor-arrow to his bow (saṃdhāya dhanuṣi kṣuram), wrathful Rāma rushed forward to inspect him (abhyapatad draṣṭum), as if shaking the ocean-girt earth (samudrāntāṃ cālayann iva medinīm).
 </details>
 </details>
 
@@ -678,6 +752,12 @@ Jataayu is firstly recollecting his friend Dasharatha on his deathbed, then he
 recounts this Rama as that Dasharatha's son, and hence, the epithet to Rama is
 non-non-essential.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vomiting foamy blood (saphenaṃ rudhiraṃ vaman), that bird (pakṣī saḥ) addressed Rāma, son of Daśaratha (daśarathātmajam), in a most piteous voice (dīna-dīnayā vācā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -730,6 +810,12 @@ you are searching; *saa devii* = she, that lady; *mama praaNaa ca* = my, lives, 
 search of a rejuvenescent herb in the vast of forest, Ravana stole that lady and my lives, too...
 [3-67-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“She whom you are searching for (yām anveṣasi) in the great forest like a [life-saving] herb (oṣadhīm iva), O long-lived one (āyuṣman)—that queen (sā devī) and my life-breaths (mama ca prāṇāḥ): both have been carried off by Rāvaṇa (rāvaṇenobhayaṃ hṛtam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -771,6 +857,12 @@ Ravana, while being stolen; *mayaa dR^iSTaa* = by me, seen.
 
 "I have seen that lady while being stolen by brute-forced Ravana when you and even
 Lakshmana absented from her... [3-67-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bereft of you (tvayā virahitā) and of Lakṣmaṇa, O Rāghava, the queen was seen by me (mayā dṛṣṭā) being carried away (hriyamāṇā) by the mighty Rāvaṇa (rāvaṇena balīyasā).
 </details>
 </details>
 
@@ -830,6 +922,12 @@ utterly battered chariot... and I felled him and that chariot there... onto eart
 Some mms use Chatram 'parasol...' for the word atra for 'there...' and prabho
 'oh, lord...' for mayaa 'by me...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I sped to rescue Sītā (sītām abhyavapanno 'ham), O lord (prabho), and in battle Rāvaṇa, with his chariot and parasol shattered (vidhvaṃsita-ratha-cchatraḥ), fell [was felled by me] to the surface of the earth (patito dharaṇī-tale).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -882,6 +980,12 @@ is his combat-chariot... which, in combat shattered by me... [3-67-18]
 
 Some mms use prabho 'oh, lord...' for etat and sharaaH tathaa 'arrows like that'
 for sharaavaram 'armour...'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This is his broken bow (etad asya dhanur bhagnam), and these too are his arrows (ete cāsya śarāḥ); and this, O Rāma, is his war-chariot shattered in battle (raṇe bhagnaḥ sāṃgrāmiko rathaḥ).
 </details>
 </details>
 
@@ -948,6 +1052,14 @@ trice; *rakSasaa puurvam nihatam* = by demon, earlier [already,] killed; *maam* 
 Ravana gashed my wings and flew skyward taking Seetha of Videha kingdom with him, and it will be
 inapt of you to kill me who am already killed by the demon..." Thus Jataayu appealed to Rama.
 [3-67-19, 20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “And this is his charioteer (ayaṃ tu sārathis tasya), struck down on the ground by my wings (mat-pakṣa-nihato bhuvi). Having severed both wings (pakṣau chittvā) of me who was exhausted (pariśrāntasya me) with his sword (khaḍgena), Rāvaṇa—
+
+**20:** Taking Vaidehī Sītā (sītām ādāya vaidehīm), sprang up into the sky (utpapāta vihāyasam). You ought not to slay me (māṃ na hantuṃ tvam arhasi), who have already been struck down by the Rākṣasa (rakṣasā nihataṃ pūrvam)!”
 </details>
 </details>
 
@@ -1038,6 +1150,14 @@ all functions celebrated by people on the occasions of child birth and the like,
 father does...' So, it must be true in respect of Seetha, even. This is agreeable to Govindaraja,
 too.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Upon hearing his welcome account (priyāṃ kathām) concerning Sītā (sītā-saktām), Rāma cast aside his mighty bow (parityajya mahad dhanuḥ), embraced the king of vultures (gṛdhra-rājaṃ pariṣvajya)—
+
+**22:** And, though ever most steadfast (dhīrataro 'pi san), Rāma, afflicted by redoubled anguish (dviguṇī-kṛta-tāpārtaḥ), fell helplessly to the ground (nipapātāvaśo bhūmau) and wept along with Lakṣmaṇa (ruroda saha-lakṣmaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1095,6 +1215,12 @@ Here the words ekaayane kR^irChre may mean differently. kR^iChre
 of juxtaposing words, 'Jataayu is struggling for a breath...' would mean more near to the scene,
 than a single-strait, or a narrow pathway, which are not uncommon in forests.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that solitary [bird] (ekam) gasping again and again (niḥśvasantaṃ muhur muhuḥ) in a narrow, inaccessible defile (ekāyane kṛcchre), the sorrowful Rāma spoke this to the son of Sumitrā (saumitrim idam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1144,6 +1270,12 @@ vaasaH* = in forest, resided [misplaced]; *siitaa naSTaa* = Seetha, lost [mislai
 "Mislaid is my kingdom and I am mislocated into forests, Seetha is misplaced and now
 this mischance of death on this bird... this kind of misfortune of mine incinerates even Agni, the
 Divine-Incinerator... [3-67-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The kingdom is lost (rājyaṃ bhraṣṭam), our dwelling is in the forest (vane vāsaḥ), Sītā is lost (sītā naṣṭā), and the bird is dying (mṛto dvijaḥ): such is this ill-fortune of mine (īdṛśīyaṃ mamālakṣmīḥ) that it would burn up even fire itself (dahed api hi pāvakam)!
 </details>
 </details>
 
@@ -1195,6 +1327,12 @@ shuSyet* = completely, runs dry; *nuunam* = definitely.
 it, or take a swim to the other shore of blissfulness, even that Lord of Rivers runs completely
 dry, owing to my misfortune, it is definite... [3-67-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if today I were to cross [plunge into] the brimming great ocean (sampūrṇam mahodadhim), surely even that lord of rivers (saritāṃ patiḥ) would dry up (viśuṣyet) through my ill-fortune (mamālakṣmyā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1245,6 +1383,12 @@ put together, mobile, sessile [all beings]; *asmin* = in this; *loke* = in world
 "There will not be any greater unfortunate being in this world than me, even if all
 the sessile and mobile beings are put together, by whom such a complicated catastrophic enmeshment
 as this is derived... [3-67-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There is none more unfortunate than I (nāsty abhāgyataro mattaḥ) in this world of moving and unmoving beings (loke 'smin sa-carācare), by whom this vast snare of calamity (mahatī vyasana-vāgurā) has been encountered (mayā prāptā).
 </details>
 </details>
 
@@ -1300,6 +1444,12 @@ wounded eagle Jataayu. [3-67-27]
 Some mms use the word mahaa balaH 'great mighty' eagle king, while others use
 jaraanvita 'old aged, decrepit...' for a pathetic touch.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This mighty king of vultures (gṛdhra-rājo mahā-balaḥ), my father's friend (pitur vayasyo me), lies struck down on the ground (śete vinihato bhūmau) through the reversal of my fortune (mama bhāgya-viparyayāt)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1347,6 +1497,12 @@ also, patted [on body.]
 
 Thus, lamenting in that way for many times Raghava patted the body of Jataayu along
 with Lakshmana instancing his parental regard. [3-67-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus many times (ity evam uktvā bahuśaḥ), Rāghava, together with Lakṣmaṇa (saha-lakṣmaṇaḥ), gently stroked Jaṭāyus (jaṭāyuṣaṃ ca pasparśa), showing filial affection as toward a father (pitṛ-snehaṃ nidarśayan).
 </details>
 </details>
 
@@ -1412,5 +1568,11 @@ collapsed to earth. [3-67-29]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तेळनॆय सर्ग सम्पूर्णवायितु. ॥67॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing that king of vultures (taṃ gṛdhra-rājaṃ parigṛhya), whose wings were severed (nikṛtta-pakṣam) and who was bathed in blood (rudhirāvasiktam), Rāghava uttered the cry (vimucya vācam), “Where has Maithilī, dear as my life-breath (prāṇa-samā), gone?” and fell to the ground (nipapāta bhūmau).
 </details>
 </details>

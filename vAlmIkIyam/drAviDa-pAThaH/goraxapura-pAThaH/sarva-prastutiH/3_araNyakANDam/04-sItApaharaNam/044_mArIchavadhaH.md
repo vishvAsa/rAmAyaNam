@@ -71,6 +71,12 @@ handle, sword; *ba bandha* = securely, tied - at his waist.
 Rama, the great-resplendent scion of Raghu, on instructing his brother Lakshmana in
 that way securely fastened his sword with golden handle to his waist. [3-44-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus instructed (tathā tu samādiśya) his brother, Rāma, the delight of the Raghus (raghunandanaḥ), of mighty splendour (mahā-tejāḥ), girded on his sword (babandhāsim) with its hilt of burnished gold (jāmbūnadamaya-tsarum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +126,12 @@ taking; *dvau kalaapau ca* = two, quivers, also; *aabadhya* = on binding - on ba
 
 Rama whose valour is escalating then took his own insignia, the three-way arched bow
 called kodanDa, and fastened two quivers and proceeded. [3-44-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, taking up his triple-curved bow (trivinataṃ cāpam)—his own warrior's ornament (ātma-vibhūṣaṇam)—and binding on his two quivers (ābadhya ca kapālau dvau), he of exalted valour (udagra-vikramaḥ) set forth.
 </details>
 </details>
 
@@ -173,6 +185,12 @@ On peering at the peerless one among kings, namely Rama, who is indeed coming do
 on him, that Golden Deer disappeared as if with fear and even to beguile him, and again it came
 into clear visibility. And Rama speedily spurted to that place from where the Golden Deer has
 firstly disappeared with securely grit sword and firmly handled bow. [3-44-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that chief of kings (rājendram) rushing toward him (āpatantam), that king of forest beasts (vanya-rājaḥ) vanished out of fear (babhūvāntarhitas trāsāt), and then came back into view again (punaḥ saṃdarśane 'bhavat).
 </details>
 </details>
 
@@ -241,6 +259,18 @@ disappearing somewhere in the thickets of forest, and it is putting in an appear
 those thickets, like the autumnal orb of the moon under the fly front of splintered clouds.
 [3-44-4b, 5, 6, 7a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** With sword girt on and bow in hand (baddhāsir dhanur ādāya), [Rāma] ran toward where the deer was (pradudrāva yato mṛgaḥ), and beheld it ahead, illuminating [the forest], as it were, with its beauty (rūpeṇa dyotayantam ivāgrataḥ)—
+
+**5:** [And with] bow in hand (dhanuṣ-pāṇiḥ) in the great forest, [he beheld it] running while looking back again and again (avekṣyāvekṣya dhāvantam), having bounded beyond reach (ativṛttam ivotpātāt), yet at times luring him on (lobhayānaṃ kadācana)—
+
+**6:** Wary (śaṅkitam) and bewildered (samudbhrāntam), bounding up as if into the sky (utpatantam ivāmbaram), appearing in some tracts of the forest and vanishing in others (dṛśyamānam adṛśyaṃ ca vanoddeśeṣu keṣucit)—
+
+**7:** Like the autumnal orb of the moon (śāradaṃ candra-maṇḍalam) veiled by broken clouds (chinnābhrair iva saṃvītam), in a moment it was seen close by (muhūrtād eva dadṛśe), and in the next it gleamed from afar (muhur dūrāt prakāśate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -285,6 +315,12 @@ aakarSata* = to side, attracted - sidetracked, drawn off.
 In a wink Rama could proximately see that Maareecha who transformed himself into the
 Golden Deer, and again in a flash he appeared distantly. Thus that deer/demon has drawn off Raghava
 very far from his hermitage in this hide and seek game. [3-44-7b, 8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Simply by appearing and disappearing (darśanādarśanenaiva), that Mārīca, who had assumed the form of a deer (mārīco mṛgatāṃ gataḥ), drew Rāghava far away (apākarṣata dūram) from his hermitage.
 </details>
 </details>
 
@@ -336,6 +372,12 @@ tree,] taking shelter, on pasture, he stayed on.
 Rama of Kakutstha is incensed as its form is spellbinding but its capture slippery,
 and then verily tired as he is he stayed on a pasture taking shelter of a tree shade. [3-44-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beguiled by it (tena mohitaḥ) and rendered helpless (vivaśaḥ), Kākutstha grew incensed (āsīt kruddhaḥ); then, thoroughly exhausted (suśrāntaḥ), he halted, seeking the shade upon a grassy meadow (chāyām āśritya śādvale).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -381,6 +423,12 @@ pratyadR^ishyata* = not, from faraway [close-by,] reappeared.
 
 Nightwalker Maareecha has further maddened Rama in the guise of Golden Deer by
 reappearing in his close-by, surrounded with other animals of the forest. [3-44-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That night-stalker in the guise of a deer (mṛga-rūpo niśācaraḥ) drove him to distraction (tam unmādayāmāsa), and then reappeared not far off (adūrāt pratyadṛśyata), surrounded by other deer (mṛgaiḥ parivṛto 'nyaiḥ).
 </details>
 </details>
 
@@ -429,6 +477,12 @@ became.
 Again on seeing Rama who is stalking his catch that deer ran towards him as though
 to impress with its guilelessness, and just at that moment it vanished again as if with extreme
 fear. [3-44-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him desirous of capturing it (grahītu-kāmaṃ dṛṣṭvā tam), it bounded off once again (punar evābhyadhāvata), and in that very instant, out of terror (saṃtrāsāt), vanished once more (punar antarhito 'bhavat).
 </details>
 </details>
 
@@ -479,6 +533,12 @@ decision.
 
 Then that deer has again emerged out of the thick of trees, and on spotting it the
 great-resplendent Rama has firmed up his decision to fell it. [3-44-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, as it emerged once more from a distant clump of trees (dūrād vṛkṣa-khaṇḍād viniḥsṛtaḥ), Rāma of mighty splendour, beholding it, resolved to slay it (taṃ hantuṃ kṛta-niścayaḥ).
 </details>
 </details>
 
@@ -549,6 +609,14 @@ bow that forceful Rama forcefully outstretched the bowstring with arrow targetin
 alone, and released that fierily blazing arrow-missile which is carefully created by Brahma and
 which is hissing like a snake. [3-44-13, 14, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** Then, filled with wrath (bhūyas tu kupitaḥ), Rāghava drew forth an arrow (śaram uddhṛtya) there, gleaming like a sunbeam (sūrya-raśmi-pratīkāśam), blazing (jvalantam), and crushing to foes (ari-mardanam)—
+
+**14:** Fitting it to his mighty bow (saṃdhāya sudṛḍhe cāpe) and drawing it back with all his strength (vikṛṣya balavat), the mighty one (balī), aiming at that very deer (tam eva mṛgam uddiśya), [loosed that shaft] like a hissing serpent (śvasantam iva pannagam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -595,6 +663,12 @@ Maareecha's, heart, alone; *vibheda* = severed.
 On very profoundly impaling the body of deer's form that superb arrow which is
 similar to a thunderbolt has severed the heart of Maareecha in the core of deer's body. [3-44-15b,
 16a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He] loosed (mumoca) that blazing, radiant missile (jvalitaṃ dīptam astram) fashioned by Brahmā (brahma-vinirmitam); and cleaving right through the body of the deer-shaped one (śarīraṃ mṛga-rūpasya vinirbhidya), that foremost of arrows (śarottamaḥ)—
 </details>
 </details>
 
@@ -645,6 +719,12 @@ ground fell down.
 
 Then Maareecha is highly frenzied as his lifespan is minimised, blared a blaring
 shriek, vaulted up to a height of palm-tree, and fell down onto the ground. [3-44-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a thunderbolt (aśani-saṃnibhaḥ), split open the very heart of Mārīca (mārīcasyaiva hṛdayaṃ bibheda)! Leaping up the height of a palmyra tree (tāla-mātram athotplutya), he fell down sorely stricken (nyapatat sa bhṛśāturaḥ).
 </details>
 </details>
 
@@ -712,6 +792,14 @@ caused his own death, namely Ravana. Ravana can do nothing to Maareecha now as M
 breathing his last. Whatever is to be done now it has t become a self-ruinous act to Ravana. Hence,
 it is better to do as said by Ravana for the elimination of Ravana. So thought Maareecha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** With little life left in him (alpa-jīvitaḥ), he uttered a dreadful roar (vyanadad bhairavaṃ nādam) upon the earth; and as he lay dying (mriyamāṇas tu), Mārīca cast off that artificial body (jahau tāṃ kṛtrimāṃ tanum).
+
+**18:** Remembering those words [of Rāvaṇa] (smṛtvā tad-vacanam), the Rākṣasa pondered (dadhyau): “By what means might Sītā dispatch Lakṣmaṇa hither (kena tu lakṣmaṇam iha prasthāpayet sītā), so that Rāvaṇa may abduct her in the empty hermitage (tāṃ śūnye rāvaṇo haret)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -761,6 +849,12 @@ Lakshmana, thus, also; *svaram cakaara ca* = voice, made, also.
 Perceptive of the time that chanced bearing his death, and wishful of the death of
 Ravana too, then made a voice that is a soundalike to Raghava's voice and yelled 'ha, Seetha...'
 also thus 'ha Lakshmana...' [3-44-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing that the opportune moment had arrived (prāpta-kālam ājñāya), he then uttered a cry (cakāra ca tataḥ svanam) mimicking the very voice of Rāghava (sadṛśaṃ rāghavasyaiva): “Ah, Sītā! Ah, Lakṣmaṇa!”
 </details>
 </details>
 
@@ -827,6 +921,12 @@ gods have bestowed boons, so he need not practise such yoga etc., as he is bless
 these mortal's practises and thus can change his form and can rejoice in any state with that body
 or form. This is how he abducts Seetha changing his semblances instantaneously.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced to the vitals (marmaṇi nirviddham) by that peerless arrow (tena śareṇānupamena), having abandoned that deer-form (mṛga-rūpaṃ tu tat tyaktvā), he resumed his Rākṣasa form (rākṣasaṃ rūpam āsthitaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -886,6 +986,14 @@ On seeing that demon with a fiendish look, who has fallen to earth with limbs
 steeped in blood, and who is weltering on the surface of earth, Rama emotionally took flight to
 Seetha reminiscing Lakshmana's words. [3-44-21b, 22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Yielding up his life (jīvitaṃ tyajan), Mārīca assumed his gigantic body (cakre sa sumahā-kāyam); and beholding that Rākṣasa of terrible aspect (rākṣasaṃ bhīma-darśanam) fallen upon the ground—
+
+**22:** His limbs drenched in blood (rudhira-siktāṅgam) and writhing upon the surface of the earth (ceṣṭamānaṃ mahī-tale), Rāma turned in thought to Sītā (jagāma manasā sītām), recalling the words of Lakṣmaṇa (lakṣmaṇasya vacaḥ smaran).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -933,6 +1041,12 @@ is] killed; *ayam maariicaH* = he is, Maareecha.
 indeed happened in that way alone, and the one whom I have killed now is none other than Maareecha.
 [3-44-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“[That] ‘this is an illusion of Mārīca (mārīcasya tu māyaiṣā)’ was foretold by Lakṣmaṇa (pūrvoktaṃ lakṣmaṇena tu), and so indeed has it come to pass today (tat tathā hy abhavac cādya): this Mārīca has been slain by me!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -959,6 +1073,12 @@ indeed happened in that way alone, and the one whom I have killed now is none ot
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ ई राक्षसनु गट्टियागि हा सीते! हा लक्ष्मण! ऎन्दु कूगि सत्तुहोदनल्ल. अवन आ शब्दवन्नु केळि सीतॆय अवस्थॆ एनागिरबहुदु? महाबाहु लक्ष्मण स्थिति एनादीतु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having cried out in a loud voice (ākruśya tu mahā-svanam), ‘Ah, Sītā! Ah, Lakṣmaṇa!’, this Rākṣasa has died (mamāra rākṣasaḥ so 'yam); having heard it, how will Sītā fare (śrutvā sītā kathaṃ bhavet)?”
 </details>
 </details>
 
@@ -1023,6 +1143,14 @@ by gloom, caused, frantic, fear; *aavivesha* = ensorcelled.
 On killing that demon in the form of Golden Deer, and also on hearing his yelling,
 Rama is ensorcelled with a frantic fear caused by his own gloom. [3-44-26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** “And to what state (kām avasthām) will the mighty-armed Lakṣmaṇa come?” Reflecting thus (iti saṃcintya), the righteous-souled Rāma had the hairs of his body bristling (hṛṣṭa-tanūruhaḥ).
+
+**26:** There, having slain that Rākṣasa in the guise of a deer (rākṣasaṃ mṛga-rūpaṃ taṃ hatvā) and having heard his cry (śrutvā ca tat-svanam), a sharp fear born of dejection (bhayaṃ tīvram viṣādajam) entered into Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1079,6 +1207,12 @@ himself towards Janasthaana. [3-44-27]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥44॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain another spotted antelope (nihatya pṛṣataṃ cānyam) and taken its flesh (māṃsam ādāya), Rāghava then hastened back (tvaramāṇaḥ sasāra) toward Janasthāna (janasthānam abhimukham).
 </details>
 </details>
 

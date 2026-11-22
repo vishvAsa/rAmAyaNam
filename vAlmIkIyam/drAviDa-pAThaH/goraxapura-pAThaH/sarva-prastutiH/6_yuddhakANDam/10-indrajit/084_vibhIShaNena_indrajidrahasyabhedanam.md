@@ -72,6 +72,12 @@ of his army; *svasthaane* = in their respective positions; *aagachchhat* = arriv
 While Lakshmana, who was so fond of his brother, was consoling Rama, Vibhishana,
 keeping the troops of simian army in their respective positions, arrived there.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Lakṣmaṇa, devoted to his brother (bhrātṛ-vatsale), was thus consoling Rāma (rāmam āśvāsamāne), Vibhīṣaṇa, having stationed the troop-divisions (gulmān) at their respective posts, arrived there,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -99,6 +105,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नाना विधवाद आयुधगळन्नु धरिसिद, काडिगॆय राशियन्तॆ कप्पाद, मदिसिद सलगगळन्तॆ काणुत्तिद्द नाल्वरु राक्षसश्रेष्ठरिन्द विभीषणनु परिवृतनागिद्दनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+surrounded by his four heroic [ministers] bearing diverse weapons (nānā-praharaṇaiḥ), who resembled leader-elephants (mātaṃgair iva yūthapaiḥ) dark as heaps of blue collyrium (nīlāñjana-cayākāraiḥ).
 </details>
 </details>
 
@@ -149,6 +161,12 @@ who were chiefs of troops, looking like heaps of black collyrium and who were ap
 elephants, approached Lakshmana who was totally engrossed in sorrow and saw the monkeys also, whose
 eyes were filled with tears.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching the high-souled Rāghava [Lakṣmaṇa], who was given over to grief (śoka-lālasam), he also beheld the Vānaras with their eyes brimming and turbid with tears (bāṣpa-paryākulekṣaṇān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +207,12 @@ lap; *lakShmaNasya* = of Lakshmana.
 Vibhishana also saw the great-souled Rama, the delight of Inkshvaku dynasty fallen
 into a swoon and resting on the lap of Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And he beheld the high-souled Rāghava, the delight of the Ikṣvāku race, fallen into a swoon (moham āpannam) and resting upon Lakṣmaṇa's lap (lakṣmaṇasyāṅkam āśritam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,6 +252,12 @@ that Vibhishana; *diinaatmaa* = distressed in spirits; *duHkhena* = with agony;
 
 On seeing the embarrassed Rama, tormented with grief, that Vibhishana, distressed as
 he was in spirits, with agony inside, asked him, "What is this?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāma abashed (vrīḍitam) and scorched by sorrow (śoka-saṃtaptam), Vibhīṣaṇa, wretched in spirit with inward anguish (antar-duḥkhena dīnātmā), exclaimed, “What is this (kim etad)?”
 </details>
 </details>
 
@@ -279,6 +309,12 @@ meaning.
 Fixing his gaze on Vibhishana's face and looking at Sugreeva and those monkeys,
 Lakshmana with tears pouring down, spoke the following words, with a splendid meaning:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Looking upon Vibhīṣaṇa's face, and toward Sugrīva and those Vānaras, Lakṣmaṇa, suffused with tears (bāṣpa-pariplutaḥ), spoke these words in a choked, faint voice (mandārtham):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,6 +361,12 @@ Seetha; *hataa* = was killed; *indrajitaa* = by Indrajit; *raaghavah* = Rama;
 "O gentle Sir! Just on hearing through the words of Hanuma, saying that Seetha was
 killed by Indrajit, Rama entered into a swoon."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing from Hanūmān's words, O gentle one, that Sītā has been slain by Indrajit (hatā indrajitā sītā), Rāghava thereupon fell into a swoon (moham upāśritaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -344,6 +386,12 @@ killed by Indrajit, Rama entered into a swoon."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इस प्रकार कहते हुए लक्ष्मणको विभीषणने रोका और अचेत पड़े हुए श्रीरामचन्द्रजीसे यह निश्चित बात कही— ॥ ८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Checking the son of Sumitrā as he was speaking (kathayantaṃ tu saumitriṃ saṃnivārya), Vibhīṣaṇa spoke to the unconscious Rāma (visaṃjñaṃ rāmam) this speech rich in substance (puṣkalārtham):
 </details>
 </details>
 
@@ -402,6 +450,12 @@ the sea.
 "I hold that which you have been told by Hanuma with a sorrowful temper, O ruler of
 men, to be absurd as the drying up of the sea."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What has been told to you by Hanūmān in dejected aspect (ārta-rūpeṇa), O lord of men, I deem as impossible as the drying up of the ocean (sāgarasyeva śoṣaṇam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -442,6 +496,12 @@ men, to be absurd as the drying up of the sea."
 "O the long armed! I know the design of the evil-minded Ravana towards Seetha. He
 would never do the killing of Seetha."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For I know the mind (abhiprāyaṃ tu jānāmi) of the evil-minded Rāvaṇa toward Sītā, O long-armed prince: he will never put her to death (na ca ghātaṃ kariṣyati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -481,6 +541,12 @@ iti* = to give up; *vaidehiim* = Seetha; *na kR^itavaan* = he did not heed;
 
 "Eventhough begged by me, the well-wisher, several times to give up Seetha, he did
 not heed that advice."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though entreated by me very many times (yācyamānaḥ su-bahuśaḥ) out of desire for his welfare (hita-cikīrṣuṇā), 'Release Vaidehī!', he never heeded that word.
 </details>
 </details>
 
@@ -530,6 +596,12 @@ kenachit* = by any other strategy.
 gifts nor by sowing dissention. How is it possible then by a war? By any other strategy, it is
 impossible."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Neither by conciliation (sāmnā), nor by gifts (dānena), nor by dissension (bhedena)—much less by open war (kuto yudhā) or any other means—could anyone else even catch a glimpse of her (sā draṣṭum api śakyeta)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -569,6 +641,12 @@ killed by him); *maayaamayiim* = as unreal.
 
 "That Indrajit for his part retracted, by hoodwinking the monkeys. O the long armed!
 Know that Seetha (who was seemingly killed by him) as illusory."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having bewildered the Vānaras (vānarān mohayitvā), that Rākṣasa retired; know that daughter of Janaka to have been composed of illusion (māyāmayīṃ tāṃ viddhi), O long-armed prince!
 </details>
 </details>
 
@@ -626,6 +704,12 @@ duraadharShaH* = will prove difficult to be overcome; *samgraame* = in battle;
 into the sacred fire. On returning after pouring oblations into the sacred fire, Indrajit will
 prove difficult to be overcome in battle, even by celestials including Indra."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Repairing today to the sanctuary of Nikumbhilā (caityaṃ nikumbhilām), he will offer a fire-oblation (homaṃ kariṣyati); for once he has offered that oblation and marches forth (hutavān upayāto hi), even to the gods with Vāsava at their head—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -674,6 +758,12 @@ the monkeys; *tatra* = there.
 of Seetha) was exhibited by him, who was employing his magical art, expecting interruption by the
 prowess of the monkeys there."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—this son of Rāvaṇa becomes unassailable in battle (durādharṣo bhavaty eṣaḥ)! Surely it was by him, seeking to bewilder them, that this illusion was deployed (eṣā māyā prayojitā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -698,6 +788,12 @@ prowess of the monkeys there."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन होम कार्य समाप्तवागुव मॊदले नावु सैन्यदॊन्दिगॆ निकुम्भिळा मन्दिरक्कॆ होगोण. नरश्रेष्ठने! सुळ्ळाद ई वार्तॆयिन्द उण्टाद सन्तापवन्नु त्यजिसिबिडु.॥16½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+desiring an impediment (vighnam anvicchatā) there to the valorous onslaught of the Vānaras (vānarāṇāṃ parākrame). Let us march there with our armies before that [rite] is completed (yāvat tan na samāpyate)!
 </details>
 </details>
 
@@ -761,6 +857,14 @@ us; *sainyaanukarShibhiH* = who are summoning an army.
 "Very exalted as you are in courage, stay you here, confident at heart, and send
 Lakshmana with us, who are taking an army along with us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** Cast off this grief that has come upon you through a false impression (mithyā saṃtāpam āgatam), O tiger among men; for the entire army sinks into despondency (sīdate hi balaṃ sarvam) upon beholding you wasted with sorrow!
+
+**18:** Remain right here with a composed heart (svastha-hṛdayaḥ), exalted in your innate fortitude (sattva-samucchritaḥ); dispatch Lakṣmaṇa together with us who lead the army columns (sainyānukarṣibhiḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -800,6 +904,12 @@ prince; *raavaNim tyaajayiShyati* = can make Indrajit abandon; *tat* = that;
 
 "This Lakshmana, the eminent prince, can make Indrajit abandon that act of
 sacrifice, by employing his sharp arrows. Then, he will be susceptible of being killed."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With his keen arrows (niśitaiḥ śaraiḥ), this tiger among men [Lakṣmaṇa] will compel Rāvaṇa's son to abandon that ritual (tyājayiṣyati tat karma); thereupon he will become vulnerable to being slain (tato vadhyo bhaviṣyati)!
 </details>
 </details>
 
@@ -850,6 +960,12 @@ of the wings of a bird; *paasyanti* = can drink; *tasya shoNitam* = his blood;
 "Lakshmana's arrows, which are sharp and fiery, with a speed equal to the wings of a
 bird, can drink his blood like cruel birds."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His sharp, keen arrows—winged with the feathers of birds as their swift steeds (patri-patrāṅga-vājinaḥ)—shall drink [Indrajit's] blood (pāsyanti śoṇitam) like fierce birds of prey (patattriṇa ivāsaumyāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -893,6 +1009,12 @@ Indrajit.
 
 "O the long-armed one! Therefore, dispatch Lakshmana having auspicious body-marks
 even as Indra the lord of celestials employed the thunderbolt to kill Indrajit."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, O long-armed prince, dispatch Lakṣmaṇa of auspicious marks (śubha-lakṣaṇam) for the destruction of the Rākṣasa, even as the wielder of the thunderbolt hurls his thunderbolt (vajraṃ vajradharo yathā)!
 </details>
 </details>
 
@@ -948,6 +1070,12 @@ madhane* = (hurl his thunderbolt) to destroy the enemies of celestials.
 "O the best of men! It is not appropriate to delay the killing of the enemy any
 further now. Therefore, grant permission to Lakshmana to destroy the enemy, as Indra would hurl his
 thunderbolt to destroy the enemies of celestials."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O best of men, no delay in time (na kāla-viprakarṣaḥ) is permissible today toward the destruction of the foe (ripu-nidhanaṃ prati); launch him forth (tvam atisṛja) for the slaying of the enemy, even as Mahendra hurls his thunderbolt to crush the foe of the gods (divija-ripor mathane)!
 </details>
 </details>
 
@@ -1014,6 +1142,12 @@ ending that sacrifice, the celestials also will feel a great suspicion on their 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तनाल्कनॆय सर्ग पूर्णवायितु.॥84॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For once that bull among Rākṣasas has completed his ritual (samāpta-karmā hi), he becomes invisible in battle (bhavaty adṛśyaḥ samare) even to the gods and Asuras; if he fights with his ritual completed, even the gods would face mighty peril (saṃśayo mahān)!”
 </details>
 </details>
 

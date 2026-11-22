@@ -36,6 +36,12 @@ title = "०३३ रावण-मोचनम्"
 
 गाळियन्नु सॆरॆहिडिदन्तॆ कष्टसाध्यवाद रावणनु अर्जुननल्लि कैसॆरॆयाद वार्तॆयु देवतॆगळिन्द पुलस्त्यमुनिगू तिळियितु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the sage Pulastya heard in heaven (tataḥ pulastyaḥ śuśrāva ... divi), as recounted by the gods (kathitaṃ ... daivataiḥ), of that capture of Rāvaṇa (rāvaṇa-grahaṇaṃ tat tu), a feat like capturing the very wind (vāyu-grahaṇa-sannibham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,6 +70,12 @@ _________________
 
 आ महर्षि महाधैर्यशालियागिद्दरू सन्तानद कुरितु इरुव स्नेहदिन्दागि कृपापरवशरादरु हागू माहिष्मति राजनिगॆ भॆट्टियागलु भूतळक्कॆ बन्दरु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, trembling with affection for his son’s offspring (putra-kṛta-snehāt kampyamānaḥ), that great sage of supreme steadfastness (mahādhṛtiḥ ... mahān ṛṣiḥ) came to behold the lord of Māhiṣmatī (māhiṣmatī-patiṃ draṣṭum ājagāma).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,6 +100,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वायुवेगवुळ्ळ, मनोगतियन्तॆ आ ब्रह्मर्षियु आकाशमार्गदिन्द माहीष्मती पुरिगॆ बन्दरु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking to the path of the wind (sa vāyu-mārgam āsthāya), that twice-born sage swift as the wind (vāyu-tulya-gatir dvijaḥ) and endowed with the speed of thought (manaḥ-sampāta-vikramaḥ) reached the city of Māhiṣmatī (purīṃ māhiṣmatīṃ prāptaḥ).
 </details>
 </details>
 
@@ -114,6 +132,12 @@ _________________
 
 ब्रह्मदेवरु इन्द्रन अमरावतियन्नु प्रवेशिसुवन्तॆ पुलस्त्यरु हृष्ट-पुष्ट जनरिन्द तुम्बिद, अमरावतियन्तॆ शोभासम्पन्न माहिष्मती नगरियन्नु प्रवेशिसिदरु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He entered that city resembling Amarāvatī (so ’marāvati-saṅkāśām), teeming with joyful and thriving citizens (hṛṣṭa-puṣṭa-janākulām), just as Brahmā enters Indra’s celestial capital Amarāvatī (praviveśa purīṃ brahmā indrasyevāmarāvatīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +162,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आकाशदिन्द इळिदु काल्नडिगॆयल्लि बरुत्तिद्द अवरु सूर्यनन्तॆ कण्डु बन्दरु. अत्यन्त तेजदिन्दागि अवरन्नु नोडुवुदू कठिणवागित्तु. अर्जुनन सेवकरु अवरन्नु गुरुतिसि, राजा अर्जुननल्लि अवर शुभागमनवन्नु तिळिसिदरु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing him as he descended (tatas te pratyabhijñāya ... niṣpatantam), hard to gaze upon like the sun walking on foot (pāda-cāram ivādityaṃ ... sudurdaśam), [the attendants] announced his arrival to Arjuna (arjunāya nivedayan).
 </details>
 </details>
 
@@ -164,6 +194,12 @@ _________________
 
 सेवकरु हेळिदाग हैहयराजनिगॆ पुलस्त्यरु आगमिसिरुवरु ऎन्दु तिळिदाग, तलॆय मेलॆ कृताञ्जलियागि मुनिय स्वागतक्कॆ मुन्दादनु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning from their report that it was Pulastya (pulastya iti vijñāya vacanāt), the Haihaya king placed his joined palms upon his head (śirasy añjalim ādhāya) and went forth to meet the ascetic (pratyudgacchat tapasvinam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +224,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अर्जुनराजन पुरोहितरु अर्घ्य, मधुपर्कादि हिडिदुकॊण्डु अवन मुन्दॆ-मुन्दॆ इन्द्रन ऎदुरिगॆ बृहस्पतिगळु नडॆदन्तॆ नडॆयुत्तिद्दरु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His royal priest, bearing the guest-offering and honey-mixture (purohito ’sya gṛhyārghyaṃ madhuparkaṃ tathaiva ca), walked ahead of the king (purastāt prayayau rājñaḥ) like Bṛhaspati before Śakra (śakrasyeva bṛhaspatiḥ).
 </details>
 </details>
 
@@ -214,6 +256,12 @@ _________________
 
 अल्लिगॆ बन्दिरुव महर्षिगळु उदयिसुव सूर्यनन्तॆ तेजस्वियागि कण्डु बरुत्तिद्दरु. अवरन्नु नोडि राजा अर्जुननु चकितनादनु. अवनु ब्रह्मर्षिय चरणगळल्लि आदरपूर्वक इन्द्रनु ब्रह्मदेवरिगॆ तलॆबागुवन्तॆ प्रणाममाडिदनु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding that approaching sage radiant as the rising sun (tam ṛṣim āyāntam udyantam iva bhāskaram), Arjuna bowed down in reverent haste (arjuno dṛśya sambhrānto vavande), as Indra bows before the Supreme Lord (indra iveśvaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -239,6 +287,12 @@ _________________
 
 ब्रह्मर्षिगळिगॆ पाद्य, अर्घ्य, मधुपर्क, गोवन्नु समर्पिसि राजाधिराज अर्जुननु हर्ष गद्गद वाणियिन्द पुलस्त्यरल्लि हेळिदनु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having offered him the madhuparka, a cow, water for his feet, and the arghya (sa tasya madhuparkaṃ gāṃ pādyam arghyaṃ nivedya ca), that king of kings addressed Pulastya in a voice choked with joy (pulastyam āha rājendro harṣa-gadgadayā girā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -263,6 +317,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 द्विजेन्द्ररे! निम्म दर्शन परम दुर्लभवादरू इन्दु नानु तम्म दर्शनदिन्द आनन्दितनागिद्देनॆ. हीगॆ इल्लिगॆ बन्दु नीवु ई माहिष्मतीपुरियन्नु अमरावतियन्तॆ गौरव शालियागिसिदिरि.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today indeed has Māhiṣmatī been made equal to Amarāvatī (adyaivam amarāvatyā tulyā māhiṣmatī kṛtā), since today, O foremost of Brahmins (adyāhaṃ tu dvijendra), I behold you who are so rare to behold (tvāṃ yasmāt paśyāmi durdaśam)!
 </details>
 </details>
 
@@ -301,6 +361,14 @@ _________________
 
 देव! इन्दु नानु निम्म देववन्द्य चरणगळन्नु वन्दिसुत्तिद्देनॆ, अदरिन्द वास्तववागि सकुशलनादॆ. इन्दु नन्न व्रत पूर्णवायितु. इन्दे नन्न तपस्सु सार्थकवागि, जन्मवु सफलवायितु. ब्राह्मणोत्तमरे! ई राज्य, ई पत्नी, पुत्र मत्तु नावॆल्लरू निम्मवरागिद्देवॆ. नावु निम्म याव सेवॆ माडबेकॆन्दु आज्ञापिसिरि.॥11-12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “Today is my well-being assured, O lord (adya me kuśalaṃ deva); today is my vow fulfilled (adya me kuśalaṃ vratam); today is my birth fruitful (adya me saphalaṃ janma); today is my austerity fruitful (adya me saphalaṃ tapaḥ)—since I bow before your feet, revered by hosts of gods (yasmād deva-gaṇair vandyau vande ’haṃ caraṇau tava)!
+
+**12:** “This kingdom, these sons, these wives, and our very selves [are yours] (idaṃ rājyam ime putrā ime dārā ime vayam): O Brahmin, what shall I do? What task is to be done? Command us, revered sir (brahman kiṃ kurmi kiṃ kāryam ājñāpayatu no bhavān)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -329,6 +397,12 @@ _________________
 
 आग पुलस्त्यरु हैहयराजा अर्जुनन धर्म, अग्नि, पुत्र, परिवारद क्षेम समाचार केळि, अवनल्लि हीगॆ हेळिदरु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having inquired after that king’s well-being (śivaṃ pṛṣṭvā ca pārthivam) regarding dharma, his sacred fires, and his sons (taṃ dharme ’gniṣu putreṣu), Pulastya then spoke to Arjuna, sovereign of the Haihayas (pulastyovāca rājānaṃ haihayānāṃ tathārjunam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -353,6 +427,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूर्णचन्द्रनन्तॆ मनोहर मुखवुळ्ळ कमलनयन राजने! निन्न बलक्कॆ तुलनॆये इल्ल; एकॆन्दरॆ नीनु दशग्रीवनन्नु गॆद्दुकॊण्डिरुवॆ.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O lord of men with eyes like lotus petals (narendrāmbuja-patrākṣa) and face resembling the full moon (pūrṇa-candra-nibhānana), matchless is your strength (atulaṃ te balam), by which Daśagrīva has been conquered by you (yena daśagrīvas tvayā jitaḥ)!
 </details>
 </details>
 
@@ -379,6 +459,12 @@ _________________
 
 यार भयदिन्द समुद्र, वायु कूड चञ्चलतॆ बिट्टु, सेवॆयल्लि उपस्थितवागुवुवो, अन्तह नन्न रणदुर्जय मॊम्मगनन्नु नीनु सङ्ग्रामदल्लि बन्धिसिरुवॆ.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He out of dread of whom the ocean and the wind stand motionless (bhayād yasyopatiṣṭhetāṃ niṣpandau sāgarānilau)—that very grandson of mine, invincible in combat (so ’yaṃ ... pautro me raṇa-durjayaḥ), has been bound by you in battle (mṛdhe tvayā baddhaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -404,6 +490,12 @@ _________________
 
 हीगॆ माडि नीनु नन्न ई मगुविन यशवन्नु कुडिदु, ऎल्लॆडॆ तन्न हॆसरिन डङ्गुर सारिदॆ. वत्स! ईग नानु अवन बिडुगडॆयन्नु याचिसलु बन्दिद्देनॆ. नन्न मातिनन्तॆ अवनन्नु बिट्टुबिडु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You have drunk up the renown of my dear boy (putrakasya yaśaḥ pītam) and spread your own name far and wide (nāma viśrāvitaṃ tvayā); entreated by my word today, O dear one, release Daśānana (mad-vākyād yācyamāno ’dya muñca vatsaṃ daśānanam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -428,6 +520,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुलस्त्यर ई मातन्नु शिरसावहिसि अर्जुननु एनन्नू प्रतियाडदॆ, तुम्बा सन्तोषदिन्द राक्षसराज रावणनन्नु बन्धमुक्तगॊळिसिदनु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Receiving Pulastya’s command (pulastyājñāṃ pragṛhya), Arjuna uttered not a single word (ūce na kiñcana vaco ’rjunaḥ); filled with gladness (prahṛṣṭavat), that king of kings forthwith set free the lord of rākṣasas (mumoca vai pārthivendro rākṣasendram).
 </details>
 </details>
 
@@ -458,6 +556,12 @@ _________________
 
 आ देवद्रोही राक्षसनन्नु बन्धमुक्तगॊळिसि अर्जुननु दिव्य आभूषण, मालॆ, वस्त्रगळिन्द अवनन्नु सन्मानिसिदनु. अग्नियन्नु साक्षियागिसि, यारन्नू हिंसिसबार दॆन्दु अवनॊडनॆ मित्रतॆय सम्बन्ध बॆळॆसिदनु. बळिक ब्रह्मपुत्र पुलस्त्यरन्नु वन्दिसि अर्जुननु अरमनॆगॆ मरळिदनु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having released that foe of the thirty gods (sa taṃ pramucya tridaśārim arjunaḥ), honored him with celestial ornaments, garlands, and garments (prapūjya divyābharaṇa-srag-ambaraiḥ), and entered into a non-violent pact of friendship witnessed by sacred fire (ahiṃsakaṃ sakhyam upetya sāgnikam), Arjuna bowed to that son of Brahmā and returned to his palace (praṇamya taṃ brahma-sutaṃ gṛhaṃ yayau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -482,6 +586,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ अर्जुननिन्द आतिथ्य स्वीकरिसि, बन्धमुक्तनाद प्रतापी राक्षसराज रावणनन्नु पुलस्त्यरु बिगिदप्पिकॊण्डरु. आदरॆ आ पराजयदिन्दागि रावणनु लज्जितनागिद्दनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dismissed by Pulastya as well (pulastyenāpi santyaktaḥ), that mighty lord of rākṣasas (rākṣasendraḥ pratāpavān)—embraced, accorded hospitality, and thoroughly vanquished (pariṣvaktaḥ kṛtātithyo ... vinirjitaḥ)—[departed] hanging his head in shame (lajjamānaḥ).
 </details>
 </details>
 
@@ -508,6 +618,12 @@ _________________
 
 दशग्रीवनन्नु बिडिसि ब्रह्मपुत्र मुनिवर पुलस्त्यरु पुनः ब्रह्मलोकक्कॆ तॆरळिदरु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Pulastya, son of the Grandsire and foremost of sages (pitāmaha-sutaś cāpi pulastyo muni-puṅgavaḥ), having secured the release of Daśagrīva (mocayitvā daśagrīvam), departed once more to Brahmaloka (brahma-lokaṃ jagāma ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -533,6 +649,12 @@ _________________
 
 हीगॆ रावणनिगॆ कार्तवीर्यार्जुनन कैयल्लि पराजितनागबेकायितु. मत्तॆ पुलस्त्यर मातिनिन्द आ महाबली राक्षसनिगॆ बिडुगडॆ दॊरकित्तु.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In this manner did that mighty Rāvaṇa (evaṃ sa rāvaṇaḥ ... mahābalaḥ) suffer utter humiliation at the hands of Kārtavīrya (prāptaḥ kārtavīryāt pradharṣaṇam), and through the word of Pulastya was set free once again (pulastya-vacanāc cāpi punar muktaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -557,6 +679,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुकुलनन्दन! हीगॆ प्रपञ्चदल्लि बलिष्ठरिगिन्त बलिष्ठरु इरुवरु; आद्दरिन्द तन्न श्रेयस्सन्नु बयसुववनु बेरॆयवरन्नु अवहेळन माडबारदु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus, O delight of the Raghus, there are ever stronger ones beyond the strong (evaṃ balibhyo balinaḥ santi rāghava-nandana); therefore no contempt should ever be shown toward another (nāvajñā hi pare kāryā) by one who desires his own good (ya icchet priyam ātmanaḥ).
 </details>
 </details>
 
@@ -597,6 +725,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तरकाण्डदल्लि मूवत्तमूरनॆय सर्ग पूर्णवायितु. ॥33॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereafter that king of flesh-eaters (tataḥ sa rājā piśitāśanānām), having gained the friendship of the thousand-armed hero (sahasra-bāhor upalabhya maitrīm), once again wrought carnage among kings (punar nṛpāṇāṃ kadanaṃ cakāra) and roamed the entire earth in arrogance (cacāra sarvāṃ pṛthivīṃ ca darpāt).
 </details>
 </details>
 

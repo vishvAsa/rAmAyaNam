@@ -68,6 +68,12 @@ the news.
 and the destroyer of enemies, commanded (as follows) to Shatrughna, who too felt delighted at the
 news."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the fourteenth year had reached completion (pūrṇe caturdaśe varṣe), on the fifth lunar day (pañcamyām), Lakṣmaṇa's elder brother reached the hermitage of Bharadvāja and, self-controlled (niyataḥ), bowed in reverence to the sage.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -107,6 +113,12 @@ offer worship; *daivataani* = to their family-deities; *chaityaanicha* = sanctua
 
 "Let men of good conduct, offer worship to their family-deities, sanctuaries in the
 city with sweet-smelling flowers and to the accompaniment of musical instruments."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having saluted that ascetic rich in penance (tapodhanam), he asked Bharadvāja: “Do you hear, O venerable Lord (bhagavan), whether there is abundance of food and freedom from disease (subhikṣānāmayam) in the city? And is Bharata intently devoted [to his duties], and do my mothers still live?”
 </details>
 </details>
 
@@ -174,6 +186,14 @@ courtesans all collected together, the queen-mothers, ministers, army-men and th
 brahmanas accompanied by Kshatriyas (members of fighting class), leaders of guilds of traders and
 artisans, as also their members, come out to see the moon-like countenance of Rama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** Thus addressed by Rāma, the great sage Bharadvāja replied to the foremost of the Raghus with a gentle smile (smitapūrvam), as though filled with joy (prahṛṣṭavat):
+
+**4:** “Abiding in complete submission to your command (ājñāvaśatve), Bharata, wearing matted locks (jaṭilaḥ), awaits you, placing your two sandals (pāduke) at the fore; and all is well in your house.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,6 +239,14 @@ nandigraamaat* = from this Nandigrama; *param* = to the other end (Ayodhya);
 
 "Let the cavities on the path from Nandigrama to Ayodhya be levelled. Let the rough
 and the even places be made flat."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** “Aforetime (purā), when I beheld you clad in bark-garments (cīravasanam) entering the great forest with a woman as your third companion (strītṛtīyam), deprived of your kingdom and intent solely upon righteousness (dharmakāmaṃ ca kevalam),
+
+**6:** “walking on foot (padātim), having relinquished all your possessions (tyaktasarvasvam) in obedience to your father's command (pitṛnirdeśakāriṇam), forsaken by all royal pleasures like an immortal fallen from heaven (svargacyutam ivāmaram)—
 </details>
 </details>
 
@@ -270,6 +298,12 @@ it; *sarvataH* = all over; *laajaiH* = with parched grains of paddy;
 "Let the entire ground be sprinkled with ice-gold water. Let some others strew it
 all over with parched grains and flowers."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“beholding you formerly (pūrvam), O victorious in battle (samitiṃjaya), wedded to Kaikeyī's word (kaikeyīvacane yuktam) and subsisting on wild roots and fruits (vanyamūlaphalāśinam), deep compassion (karuṇā) arose in me.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -315,6 +349,12 @@ prati* = till the rising of the sun.
 
 "Let the streets in Ayodhya, the excellent City, be lined with flags. Let the
 dwellings (on the road-side) be decorated, till the time of rising of the sun."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now, however (sāmpratam tu), beholding you with your purpose richly fulfilled (samṛddhārtham), surrounded by your troop of friends and kinsmen (samitragaṇabāndhavam), and victorious over your foes (vijitārim), supreme joy (prītir uttamā) has arisen in me!
 </details>
 </details>
 
@@ -365,6 +405,12 @@ with rows of garlands as well as with lose flowers.
 "Let hundreds of men sprinkle, on the main royal highway, with five fragrant colours
 and with rows of garlands as well as lose flowers."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All that vast (vipulam) weal and woe (sukhaduḥkham) of yours, O Rāghava, which was experienced by you while dwelling in Janasthāna (janasthānanivāsinā), is fully known to me:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -389,6 +435,12 @@ and with rows of garlands as well as lose flowers."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजबीदियल्लि हॆच्चिन गद्दल इल्लदिरलि, इदर व्यवस्थॆगागि नूरारु जनरु ऎल्लॆडॆ तॊडगलि. शत्रुघ्नन आ आदेशवन्नु केळि ऎल्लरू सन्तोषदिन्द अदन्नु पालिसलु तॊडगिदरु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“how, while you were engaged on behalf of the brāhmaṇas (brāhmaṇārthe niyuktasya) and protecting all the ascetics (rakṣataḥ sarvatāpasān), this blameless consort of yours (bhāryā aninditā) was carried off by Rāvaṇa;
 </details>
 </details>
 
@@ -437,6 +489,12 @@ Siddhartha; *arthasaadhakaH* = Arthasadhaka; *ashokaH* = Ashoka;
 
 On hearing that command of Shatrughna, Dhrushti, Jayanta, Vijaya, Siddhartha,
 Arthasadhaka, Ashoka, Mantrapala and Sumantra proceeded with joy.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“and the sighting of Mārīca (mārīcadarśanam), the harassment of Sītā (sītonmathanam), the encounter with Kabandha (kabandhadarśanam), and your arrival at Lake Pampā (pampābhigamanam);
 </details>
 </details>
 
@@ -490,6 +548,12 @@ chariots; *niryayuH* = issued forth; *tvarayaa yuktaaH* = with speed.
 Some rode on thousands of well-adorned elephants in rut and bearing banners. Some
 others rode on female-elephants provided with golden girths, along with those elephants. Excellent
 chariot-warriors issued forth in their chariots, with speed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“your friendship (sakhyam) with Sugrīva, wherein Vālin was slain by you; the search for Vaidehī (mārgaṇaṃ caiva vaidehyāḥ), and the mighty deed of the Wind-god's son (karma vātātmajasya).
 </details>
 </details>
 
@@ -547,6 +611,14 @@ Warriors on selected horses even still superior ones in thousands, bearing banne
 and pennants, carrying javelins, spears and nooses, as also surrounded by thousands of
 foot-soldiers, sallied forth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “and how, once Vaidehī had been discovered (viditāyāṃ ca vaidehyām), Nala's causeway (nalasetuḥ) was constructed; and how Laṅkā was set ablaze (ādīpitā) by the jubilant monkey commanders (prahṛṣṭair hariyūthapaiḥ);
+
+**14:** “and how Rāvaṇa, arrogant in his might (baladarpitaḥ), was slain in battle together with his sons, kinsmen, and ministers (saputrabāndhavāmātyaḥ), along with his army and mounts (sabalaḥ sahavāhanaḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -592,6 +664,14 @@ Then, all the wives of the deceased Dasaratha, placing Kausalya and Sumitra in f
 of them, mounting their vehicles, issued forth. All of them, including Kaikeyi, reached
 Nandigrama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** “and how, when that Rāvaṇa, a thorn unto the gods (devakaṇṭake), had been slain, your meeting (samāgamaḥ) with the thirty gods took place, and how a boon was bestowed upon you by them—
+
+**16:** “all this is known to me through my ascetic power (tapasā), O lover of righteousness (dharmavatsala); and my disciples, who bear the title Pravṛtti ('tidings-bearers', pravṛttyākhyāḥ), fly regularly from here to the city [of Ayodhyā].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -626,6 +706,14 @@ _________________
 
 धर्मात्मा मत्तु धर्मज्ञनाद भरतनु मुख्य मुख्य ब्राह्मणरिन्द, व्यवसायि वर्गद मुख्यस्थरिन्द, वैश्यरिन्द, कैयल्लि हूविनहार, मिठायि ऎत्तिकॊण्ड मन्त्रिगळिन्द सुत्तुवरिदु अण्णन चरण पादुकॆगळन्नु शिरदल्लि हॊत्तु, शङ्ख, भेरिगळ गम्भीर ध्वनिगळॊन्दिगॆ हॊरटनु. आग वन्दीजनरु अवनन्नु अभिनन्दिसुत्तिद्दरु.॥17-18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** “I too, O foremost of weapon-bearers (śastrabhṛtāṃ vara), grant you a boon here today! Pray accept this guest-offering (arghyam); tomorrow (śvaḥ) you shall proceed to Ayodhyā.”
+
+**18:** Bowing his head to receive that speech of his (śirasā vākyam pratigṛhya), the glorious prince joyously replied, “So be it (bāḍham)!” and asked for his boon (varam ayācata):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -650,6 +738,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्वेत मालॆगळिन्द सुशोभित बॆळ्गॊडॆ हागू राजरिगॆ योग्यवाद स्वर्णभूषित ऎरडु चामरगळन्नु अवनु जॊतॆयल्लिरिसिकॊण्डिद्दनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O venerable Lord (bhagavan), let all the trees along the way (mārge) as I proceed toward Ayodhyā bear fruit out of season (akālaphalinaḥ) and flow with honey (madhusravāḥ), and let there be abundant fruits of varied kinds, fragrant as nectar (amṛtagandhīni)!”
 </details>
 </details>
 
@@ -717,6 +811,12 @@ who felt miserable, was clad in the bark of trees and the sking of a black antel
 experienced joy for the first time in hearing the news of the arrival of his brother then went in
 advance, along with his ministers, to meet Rama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[continued from v. 19] Immediately upon his utterance (vacanāt samanantaram), when the sage had promised, “So let it be (tatheti ca pratijñāte)!”,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -783,6 +883,14 @@ following words; *pavanaatmajam* = to Hanuma.
 The entire City of Ayodhya literally reached Nandigrama. Glancing round, Bharata
 spoke as follows to Hanuma.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** the trees there became like the celestial trees of heaven (svargapādapasaṃnibhāḥ): fruitless trees became laden with fruit (niṣphalāḥ phalinaś cāsan), flowerless ones burst into rich blossom (vipuṣpāḥ puṣpaśālinaḥ),
+
+**22:** withered trees became clothed in full foliage (śuṣkāḥ samagrapatrāḥ), and the forest trees streamed with honey (madhusravāḥ) for three yojanas in every direction (sarvato yojanās tisraḥ) for those advancing along the way.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -824,6 +932,12 @@ monkeys?; *na pashyaami hi* = for; I do not indeed see; *raamam* = Rama;
 "Indeed, I hope the fickle-mindedness which constitutes the peculiarity of monkeys,
 has not been resorted to by you. For I do not indeed see Rama, a worthy scion of Kakutthsa and the
 destroyer of adversaries."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, filled with joy (mudānvitāḥ), those bulls among monkeys (plavagarṣabhāḥ) in their thousands partook at will (kāmād upāśnanti) of those abundant celestial fruits, just like those who have won heaven (svargajito yathaiva).
 </details>
 </details>
 

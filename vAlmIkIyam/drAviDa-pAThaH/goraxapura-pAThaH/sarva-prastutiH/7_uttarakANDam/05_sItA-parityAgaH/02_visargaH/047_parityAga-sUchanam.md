@@ -36,6 +36,12 @@ title = "०४७ परित्याग-सूचनम्"
 
 बॆस्तर आ दोणियु विस्तृत मत्तु सुसज्जितवागित्तु. लक्ष्मणनु मॊदलु सीतॆयन्नु अदरल्लि हत्तिसि, मत्तॆ तानू हत्तिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāghava’s younger brother (rāghavānujaḥ), having first helped Maithilī aboard (pūrvam āropya maithilīm), embarked upon a broad, well-equipped boat of the Niṣādas (nāvaṃ suvistīrṇāṃ naiṣādīṃ ... samāyuktām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ title = "०४७ परित्याग-सूचनम्"
 
 अवनु रथसहित सुमन्त्रनिगॆ अल्ले निल्लुवन्तॆ हेळि, शोक सन्तप्त नागि अम्बिगनल्लि नडि ऎन्दु हेळिदनु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scorched by grief (śoka-santaptaḥ), Lakṣmaṇa bade Sumantra along with the chariot (sumantraṃ caiva sa-ratham), “Wait here!” (sthīyatām), and told the boatman (nāvikam), “Push off!” (prayāhi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +97,12 @@ title = "०४७ परित्याग-सूचनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक भागीरथिय आचॆय दडक्कॆ होदाग लक्ष्मणन कण्णुगळल्लि कम्बनि तुम्बिबन्तु. अवनु मिथिलेशकुमारि सीतॆगॆ कैमुगिदुकॊण्डु हेळिदनु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having reached the further shore of the Bhāgīrathī (tīram upāgamya bhāgīrathyāḥ), Lakṣmaṇa, with joined palms (prāñjaliḥ) and drenched in tears (bāṣpa-samplutaḥ), spoke these words to Maithilī:
 </details>
 </details>
 
@@ -114,6 +132,12 @@ _________________
 
 विदेहनन्दिनि! इन्दु रघुनाथनु धीमन्तनागिद्दरू लोकदल्लि नन्न बहळ निन्दॆयागुव कार्यवन्नु ननगॆ ऒप्पिसिरुवनल्ल ऎम्ब शूलवु नन्न मनस्सिगॆ बहळ नाटुत्तिदॆ.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A mighty dart has pierced my heart (hṛdgataṃ me mahac chalyam), O Vaidehī, because by my wise elder brother (āryeṇa dhīmatā) I have been made the object of the world’s reproach in this affair (asmin nimitte ... lokasya vacanīkṛtaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +162,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ननगॆ ईग मरणवे श्रेयस्करवादीतु. मृत्यु विगिन्तलू हॆच्चिनदु बेरॆ यावुदादरू इद्दरॆ अदु ननगॆ श्रेयस्करवे. आदरॆ अण्णनु ई लोकनिन्दित कार्यदल्लि नन्नन्नु नेमिसबारदित्तु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Better for me today were death (śreyo hi maraṇaṃ me ’dya), or whatever lies beyond death itself (mṛtyur vā yat paraṃ bhavet), than that I should be appointed to such a deed as this, condemned by the world (na cāsminn īdṛśe kārye niyojyo loka-nindite)!
 </details>
 </details>
 
@@ -167,6 +197,12 @@ _________________
 
 देवी प्रसन्नळागु. नन्नल्लि याव दोषवन्नू ऎणिसबेड. ऎन्दु हेळि कैमुगिदुकॊण्डु लक्ष्मणनु नॆलक्कॆ कुसिदुबिद्दनु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Be gracious (prasīda ca), O fair lady (śobhane), and do not impute sin to me (na me pāpaṃ kartum arhasi)!” Thus, with joined palms (añjali-kṛtaḥ), Lakṣmaṇa fell prostrate upon the earth (bhūmau nipapāta).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -191,6 +227,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मणनु कैमुगिदुकॊण्डु अळुत्तिरुवनु मत्तु तन्न मृत्युवन्नु बयसुत्तिरुवनु. इदन्नु नोडि मिथिलेशकुमारि सीतॆयु अत्यन्त उद्विग्नळागि लक्ष्मणनल्लि केळिदळ.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him weeping with joined palms (rudantaṃ prāñjaliṃ dṛṣṭvā) and longing for his own death (kāṅkṣantaṃ mṛtyum ātmanaḥ), Maithilī, sorely agitated (bhṛśa-saṃvignā), spoke these words to Lakṣmaṇa:
 </details>
 </details>
 
@@ -217,6 +259,12 @@ _________________
 
 लक्ष्मण! नीनु हेळुवुदु ऒन्दू ननगॆ अर्थवागुत्तिल्ल. यथावत्तागि तिळिसि. महाराजरु क्षेमदिन्द इरुवरल्ल? निन्न मनस्सु स्वस्थवागिल्ल ऎन्दु नानु नोडुत्तिद्देन.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What is this? I do not understand (kim idaṃ nāvagacchāmi); tell me in truth (brūhi tattvena), O Lakṣmaṇa! I see that you are not yourself (paśyāmi tvāṃ na ca svastham)—is all well with the king (api kṣemaṃ mahīpateḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +290,12 @@ _________________
 
 नानु महाराजर आणॆयिट्टु केळुत्तिद्देनॆ - निनगॆ इष्टु सन्तापवागुव आ मातन्नु नन्न बळि निजवागि तिळिसु. इदक्कागि नानु निनगॆ आज्ञापिसुत्तिद्देनॆ.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are bound by an oath in the king’s name (śāpito ’si narendreṇa)! Whatever has brought you to this anguish (yat tvaṃ santāpam āgataḥ), speak it here before me (tad brūyāḥ sannidhau mahyam)—I command you (aham ājñāpayāmi te)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -266,6 +320,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विदेह नन्दिनियु हीगॆ प्रेरेपिसिदाग लक्ष्मणनु दुःखितनागि तलॆतग्गिसिकॊण्डु, अश्रुगद्गदनागि ई प्रकार हेळिदनु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pressed thus by Vaidehī (vaidehyā codyamānaḥ), Lakṣmaṇa, crushed in spirit (dīna-cetanaḥ), hung his head (avāṅmukhaḥ) and spoke these words, faltering through tears (bāṣpa-kalam):
 </details>
 </details>
 
@@ -294,6 +354,12 @@ _________________
 
 जनकनन्दिनि! नगर मत्तु देशदल्लि निन्न विषयदल्लि हरडिरुव अत्यन्त भयङ्कर अपवादवन्नु राजसभॆयल्लि केळि श्रीरामन हृदय सन्तप्तवागि, नन्नल्लि ऎल्लवन्नु तिळिसि भवनदॊळगॆ नडॆदनु.॥11½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having heard in the midst of his council (pariṣado madhye) a most dreadful calumny (apavādaṃ sudāruṇam) circulating in both city and countryside concerning you (tvat-kṛte), O daughter of Janaka, Rāma, scorched at heart, informed me and withdrew into his palace (mā nivedya gṛhaṃ gataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,6 +384,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवि! राजारामनु याव अपवाद वचनगळ दुःखवन्नु सहिसदॆ तन्न हृदयदल्लि इरिसिकॊण्डिरुवनो अदन्नु नानु निम्म मुन्दॆ तिळिसलारॆ. अदक्कागि नानु अदर चर्चॆ बिट्टुबिट्टिरुवॆनु.॥12½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O noble lady (devi), I cannot utter in your presence (na tāni vacanīyāni mayā ... tavāgrataḥ) those words which the king, out of indignation (amarṣāt), has laid to heart (yāni rājñā hṛdi nyastāni); their recounting is put behind me (pṛṣṭhataḥ kṛtaḥ).
 </details>
 </details>
 
@@ -348,6 +420,14 @@ _________________
 
 नीवु नन्न मुन्दॆ निर्दोषळॆन्दु सिद्धवागित्तु. आदरू महाराजरु लोकापवादक्कॆ हॆदरि निम्मन्नु त्यजिसिरुवरु. देवि! नीवु अन्यथा एनन्नु भाविसबेडि. ईग महाराजर आज्ञॆयन्नु मन्निसि, निम्म इच्छॆयू हीगॆ ऎन्दु तिळिदु नानु आश्रमगळ बळिगॆ करॆदुकॊण्डु होगि निम्मन्नु अल्ले बिट्टुबिडुवॆनु.॥13-14½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “Though altogether faultless (nirdoṣā), you have been relinquished by the king in my presence (tyaktā nṛpatinā ... mama sannidhau) out of dread of the citizens’ calumny (paurāpavāda-bhītena); pray do not construe this otherwise (grāhyaṃ devi na te ’nyathā), O noble lady!
+
+**14:** “Having received the king’s command (rājñaḥ śāsanam ājñāya)—and because this indeed was your pregnancy longing (tavedaṃ kila daurhṛdam)—you must now be left by me upon the outskirts of the hermitages (āśramānteṣu ca mayā tyaktavyā tvaṃ bhaviṣyasi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -372,6 +452,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शुभाङ्गिये! इदो गङ्गॆय तीरदल्लिरुव ब्रह्मर्षिगळ पवित्र हागू रमणीय तपोवनवागिदॆ. नीवु विषादपड बेडिरि.॥15½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here before you on the bank of the Jāhnavī is that sacred and lovely penance-grove of the Brahmarṣis (jāhnavī-tīre brahmarṣīṇāṃ tapovanam puṇyaṃ ca ramaṇīyaṃ ca); give not way to despondency (mā viṣādaṃ kṛthāḥ), O auspicious one (śubhe)!
 </details>
 </details>
 
@@ -401,6 +487,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इल्लि नम्म तन्दॆ दशरथराजर घनिष्ठ मित्रराद महायशस्वी ब्रह्मर्षि वाल्मीकिगळु इरुत्तारॆ. नीवु आ महात्मर चरणछायॆयन्नु आश्रयिसि इल्लि सुखवागि इरि. जनकात्मजॆ! नीवु इल्लि उपवास परायण हागू एकाग्रचित्तरागि वासिसिरि.॥16-17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** “Here dwells that bull among sages (munipuṅgavaḥ), the hugely renowned Brahmin Vālmīki (vipro vālmīkiḥ sumahāyaśāḥ), the cherished and dearest friend (iṣṭaḥ ... sakhā paramakaḥ) of my father, King Daśaratha (rājño daśarathasya ... pitur me).
+
+**17:** “Having sought refuge beneath the shade of this high-souled sage’s feet (pādacchāyām upāgamya ... asya mahātmanaḥ), dwell here in peace (sukhaṃ ... vasa tvam), O daughter of Janaka, devoted to fasting and single-minded (upavāsa-paraikāgrā).
 </details>
 </details>
 
@@ -437,6 +531,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि नलवत्तेळनॆय सर्ग पूर्णवायितु. ॥47॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Abiding steadfast in wifely devotion (pativratātvam āsthāya) and holding Rāma ever in your heart (rāmaṃ kṛtvā sadā hṛdi), supreme well-being shall be yours, O noble lady (śreyas te paramaṃ devi), by acting thus (tathā kṛtvā bhaviṣyati)!”
 </details>
 </details>
 

@@ -179,6 +179,24 @@ Sun; *tejovistR^ita rashmimaan* = with rays outstretched with splendour.
 The valiant Vibhishana with great splendour entered that mansion of his elder
 brother, Ravana, like the sun with rays outstretched with splendour entering a big cloud.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then, when daybreak arrived (pratyuṣasi prāpte), Vibhīṣaṇa of redoubtable deeds (bhīmakarmā), having arrived at a firm resolve regarding dharma and true interest (prāpta-dharmārtha-niścayaḥ), [entered] the palace of the lord of rākṣasas—
+
+**2:** which resembled a mass of mountain-peaks (śailāgracaya-saṃkāśam) and towered aloft like a mountain summit, with well-divided spacious courtyards (suvibhakta-mahākakṣam) and thronged by great personages (mahājana-parigraham);
+
+**3:** presided over by wise and devoted chief ministers (matimadbhir mahāmātrair anuraktaiḥ), and guarded on every side by trustworthy and competent rākṣasas (rākṣasair āptaparyāptaiḥ);
+
+**4:** where the breeze was agitated by the heavy sighs of rutting elephants (mattamātaṅga-niḥśvāsair vyākulīkṛta-mārutam), booming with a mighty roar of conchs (śaṅkhaghoṣa-mahāghoṣam) and resounding with crowded musical instruments (tūryasambādha-nāditam);
+
+**5:** thronged with lovely women (pramadājana-sambādham), its grand thoroughfares humming with conversation (prajalpita-mahāpatham), furnished with turrets of refined gold (taptakāñcana-niryūham) and decked with the finest ornaments;
+
+**6:** like the abode of the gandharvas or the mansion of the Maruts, and crammed with heaps of jewels (ratnasaṃcaya-sambādham) like the subterranean palace of the serpent-lords (bhogināṃ bhavanam iva).
+
+**7:** Radiant with far-spreading beams of splendor (tejovistṛta-raśmivān), that hero of mighty effulgence entered his elder brother's palace even as the sun enters a vast cloud (mahābhram ivādityaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -227,6 +245,12 @@ Vibhishana with great radiance, heard the auspicious sounds of felicitous recita
 prayers uttered by the knowers of Vedas (scriptural texts), wishing for the victory of his
 brother.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Endowed with immense fiery energy, he heard auspicious benedictions of a propitious day (puṇyān puṇyāhaghoṣāṃś ca) chanted by knower of the Vedas (vedavidbhir udāhṛtān) for his brother's victory (bhrātur vijayasaṃśritān);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -274,6 +298,12 @@ brother.
 Vibhishana of great strength, saw Brahmins who know Mantras (sacred texts) and
 Brahmanas, respected and offered with pots filled of curd, clarified butter as well as with flowers
 and unbroken rice.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and that mighty warrior beheld brāhmaṇas versed in sacred mantras and the Vedas (mantravedavido viprān), honored with vessels of curds, clarified butter, flowers, and unbroken rice grains (sumano-'kṣataiḥ).
 </details>
 </details>
 
@@ -326,6 +356,12 @@ The mighty armed Vibhishana, being adored by the deomons and shining by his own
 splendour, offered salutation to Ravana the younger brother of Kubera (the lord of riches), who
 occupied the throne.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored by the rākṣasas (pūjyamāno rakṣobhiḥ), that mighty-armed prince bowed in reverence (vavande) to Kubera's younger brother [Rāvaṇa] (dhanadānujam), who sat upon his throne blazing with his own splendor.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -365,6 +401,12 @@ formalities; *saH* = Vibhishana; *aachara kovidaH* = who knew the code of conduc
 
 Practicing customary formalities, Vibhishana who knew the code of conduct, obtained
 a seat adorned with gold, as endowed to him by a glance of the king.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Skilled in courtly etiquette (ācārakovidaḥ), he offered the customary salutation (samudācāraṃ prayujya) and betook himself to a gold-decked seat indicated by the King's glance (rājadrṣṭi-sampannam āsanam).
 </details>
 </details>
 
@@ -432,6 +474,14 @@ Vibhishana, who could discriminate between good and evil things in the world, ha
 sought the favour from his eldest (half-) brother by means of soothing words arranged in an order,
 spoke in consonance with place, time and purpose.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** In a secluded spot (vijane), solely in the presence of the ministers (mantrisaṃnidhau), he spoke to the mighty Rāvaṇa words that were supremely salutary (hitam atyartham) and grounded in sound reason (hetuniścitam)—
+
+**13:** —conciliating his elder brother with gentle words (sāntvena), observing due order of address (upasthitakramaḥ), discerning the higher and lower in the world (dṛṣṭaloka-parāvaraḥ), [he spoke words] consonant with place, time, and purpose (deśakālārtha-saṃvādi):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -477,6 +527,12 @@ omnes; *dR^ishyante* = are being seen; *naH* = by us.
 
 "O, annihilator of enemies! We are seeing inauspicious omens, since Seetha arrived
 here."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Ever since Vaidehī arrived here (yadāprabhṛti vaidehī samprāpteha), O scorcher of foes, from that very day (tadāprabhṛti) inauspicious portents (nimittāny aśubhāni) have been seen among us.
 </details>
 </details>
 
@@ -529,6 +585,12 @@ rising sparks; *sadhuumaarahiH* = with flames containing smoke; *sadhuumakaluSod
 Mantras (Spiritual texts), the fire is not flaring up well, emitting sparks, its flames are
 enveloped in smoke and are coming forth, polluted with soot."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Though kindled with sacred mantras (mantrasaṃdhukṣito 'pi), the sacrificial fire does not blaze up properly (na samyag abhivardhate), shooting forth sparks, its flames choked with smoke (sadhūmārciḥ), and rising in a murky cloud of soot (sadhūmakaluṣodayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -580,6 +642,12 @@ seen); *havyeSu* = in things to be offered as oblations.
 also in houses keeping sacrificial fire and in places where sacred studies are made. Ants are seen
 in things to be offered as oblations."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In the kitchen hearths (agniṣṭheṣu), in the sacrificial fire-halls (agniśālāsu), and in the places of Vedic study (brahmasthalīṣu ca), serpents (sarīsṛpāṇi) are seen, and ants (pipīlikāḥ) swarm in the sacrificial oblations (havyeṣu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -629,6 +697,12 @@ rut; *ashraaH* = horses; *praheSante* = are neighing; *diinam* = miserably;
 "Cow's milk is getting curdled. Excellent elephants are bereft of rut. Horses are
 neighing miserably and are not rejoiced in eating grass."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The milk of cows has curdled and dried up (gavāṃ payāṃsi skannāni), the noblest elephants are bereft of rut (vimadā varakuñjarāḥ), and horses neigh piteously (dīnam aśvāḥ praheṣante), taking no delight in fresh fodder (navagrāsābhinandinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -674,6 +748,12 @@ avatiSThante* = do not stand; *svabhaave* = to their nature.
 
 "O, king! Donkeys, camels and mules shed tears, losing their hair and even if
 treated asper medical procedures are not getting cured."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Asses, camels, and mules (kharoṣṭrāśvatarāḥ), O King, have their hair bristling or shedding (bhinnaromāḥ) and shed tears (sravanti ca); nor do they return to their natural state (na svabhāve 'vatiṣṭhante) even when treated with veterinary remedies (vidhānair api cintitāḥ).
 </details>
 </details>
 
@@ -724,6 +804,12 @@ assembled together; *vimanaagreSu* = on house-tops.
 "Crows in flocks are crying cruelly from all sides and are seen in crowds assembled
 together on house-tops."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Flocks of harsh-voiced crows (vāyasāḥ saṃghaśaḥ krūrāḥ) caw on every side, and are seen gathered in droves upon the tops of the palaces (vimānāgreṣu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -766,6 +852,12 @@ approach; *dve sandhye* = of both dawn and dusk.
 
 "Vultures fly to and fro in circles over the city. Jackals are crying inauspiciously
 at the approach of both dawn and the dusk."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Vultures clustered in masses (gṛdhrāś ca piṇḍitāḥ) wheel low over the city (purīm upari parilīyante), and jackals (śivāḥ) approaching at both twilights (saṃdhye dve) howl inauspiciously (vyāharanty aśivam).
 </details>
 </details>
 
@@ -812,6 +904,12 @@ niHsvanaaH* = with thundering noise.
 
 "At city-gates are heard loud cries of carnivorous animals gathered in groups, with
 thundering noise."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the city gates, the loud howls of packs of flesh-eating beasts (kravyādānāṃ mṛgāṇāṃ ca) are heard, accompanied by thunderous reverberations (savisfūrjita-niḥsvanāḥ).
 </details>
 </details>
 
@@ -863,6 +961,12 @@ away; *raaghavaaya* = to Rama.
 "O, brave man! Hence, when the actions of evil forces are happening in this way,
 this atonement is appropriate that Seetha be given away to Rama and I like it."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When ruinous calamity thus confronts us (tad evaṃ prastute kārye), this alone is the fitting expiation (prāyaścittam idaṃ kṣamam) that I approve, O hero: let Vaidehī be restored to Rāghava!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -912,6 +1016,12 @@ or greed; *tatraapi* = in that case also; *naarhasi* = you ought not; *kartum*
 "O, emperor! If I am speaking this because of infatuation or greed, in that case
 also, you ought not to find fault with me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And even if I have spoken this out of delusion or out of attachment (mohāl lobhād vā), even then, O great King, you ought not to impute any fault to me (na doṣaṃ kartum arhasi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -957,6 +1067,12 @@ lady-demons; *purasya* = of the city; *antaHpuraasya* = and of the gynaeceum;
 
 "These bad omens are being seen indeed by demons and lady-demons of the city and of
 the gynaeceum as well as all these people here."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this ominous guilt (ayaṃ hi doṣaḥ) is seen to hang over all this people (sarvasya janasyāsyopalakṣyate)—over the rākṣasas and rākṣasīs, and over the city and the inner apartments alike.
 </details>
 </details>
 
@@ -1015,6 +1131,12 @@ things for the occasion."
 
 ई मातन्नु निम्म किविगॆ हाकलु प्रायशः ऎल्ल मन्त्रिगळु सङ्कोचपडुत्तारॆ. आदरॆ नानु नोडिद, केळिद सङ्गतियन्नु निम्म मुन्दॆ निवेदिसुवुदु ननगॆ अवश्यकतॆ इवॆ. आद्दरिन्द इदर कुरितु यथोचित विचारमाडि निमगॆ उचितवागि कण्डन्तॆ माडिरि..॥2.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All your ministers have shrunk back (nivṛttāḥ sarvamantriṇaḥ) from conveying this counsel (prāpaṇe cāsya mantrasya); yet what has been seen or heard must assuredly be spoken by me (avaśyaṃ ca mayā vācyam); weighing it duly according to justice (sampradhārya yathānyāyam), Your Majesty ought to act upon it.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1058,6 +1180,12 @@ demons in the midst of his half-brother's ministers.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई प्रकार विभीषणनु मन्त्रिगळ नडुवॆ तन्न अण्ण राक्षसराज रावणनल्लि हीगॆ हितकर मातन्नु हेळिदनु.॥2.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus in the midst of his own ministers did his brother Vibhīṣaṇa speak (ūcivān) this salutary counsel (pathyam etat) to his brother Rāvaṇa, chief of the rākṣasas.
 </details>
 </details>
 
@@ -1140,6 +1268,14 @@ Indra; *surairapi* = together with celestials also?
 "I do not see any fear from whom so ever. Rama cannot obtain Seetha by any means.
 How Rama even along with Indra and the celestials can stand before me in battle?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** Hearing that speech—which was salutary, of weighty import (mahārtham), gentle, supported by reason (hetusaṃhitam), and suited to past, future, and present (vyatītakālāyati-sampratikṣamam)—Rāvaṇa, seized by the fever of wrath (upasthitajvaraḥ) and clinging to his infatuation (prasaṅgavān), spoke this reply:
+
+**28:** “I perceive no cause of fear from any quarter whatsoever (bhayaṃ na paśyāmi kutaścid apy aham); never shall Rāghava regain Maithilī! Even if accompanied by the gods along with Indra (suraiḥ sahendraiḥ api), how shall Lakṣmaṇa's elder brother stand before me in battle (mamāgrataḥ sthāsyati)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1218,6 +1354,12 @@ well-divided into spacious apartments and occupied by eminent men.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हत्तनॆय सर्ग पूर्णवायितु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the ten-necked Rāvaṇa—destroyer of the armies of the gods (surasainya-nāśanaḥ), of mighty strength and fierce valor in combat (saṃyati caṇḍavikramaḥ)—then dismissed his brother Vibhīṣaṇa, who had spoken trustworthy counsel (āptavādinam).
 </details>
 </details>
 

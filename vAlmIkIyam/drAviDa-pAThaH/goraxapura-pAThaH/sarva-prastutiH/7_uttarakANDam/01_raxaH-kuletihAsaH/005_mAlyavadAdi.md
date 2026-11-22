@@ -45,6 +45,14 @@ title = "००५ माल्यवदादि"
 
 (अगस्त्यरु हेळुत्तिद्दारॆ - रघुनन्दन!) अनन्तर ऒन्दु दिन विश्वावसुविनन्तॆ तेजस्वी ग्रामणी ऎम्ब गन्धर्वनु राक्षस सुकेशनिगॆ धर्मात्मा हागू वरप्राप्त वैभवदिन्द सम्पन्ननॆन्दु नोडि, देववती ऎम्ब तन्न कन्यॆयन्नु अवनॊन्दिगॆ विवाह माडिदनु. आ कन्यॆयु इन्नोर्व लक्ष्मियन्तॆ दिव्य रूप-यौवनदिन्द सुशोभितळागिद्दु, मूरू लोकगळल्लि विख्यातळागिद्दळु. धर्मात्मा ग्राणियु राक्षसर मूर्तिमति राजलक्ष्मियन्तॆ देववतियन्नु सुकेशनिगॆ ऒप्पिसिदनु.॥1-2½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Beholding the righteous Rākṣasa Sukeśa (sukeśaṃ dhārmikam), who had obtained Śiva's boon (vara-labdham), a Gandharva named Grāmaṇī, equal in splendor to Viśvāvasu (viśvāvasu-samaprabhaḥ),
+
+**2:** —whose daughter named Devavatī was like a second Śrī (dvitīyā śrīr ivātmajā), renowned throughout the three worlds and graced with beauty and youth (rūpa-yauvana-śālinī)—bestowed her righteously upon Sukeśa (dharmeṇa dadau), as though conferring the very fortune of the Rākṣasas (rakṣaḥ-śriyam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -70,6 +78,12 @@ title = "००५ माल्यवदादि"
 
 वरबलदिन्द दॊरॆत ऐश्वर्यदिन्द सम्पन्न प्रियतम पतियन्नु पडॆदु, यावनादरू बडवनिगॆ धनराशियु दॊरॆयुवन्तॆ, देववतियु बहळ सन्तुष्टळादळु.॥3½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having obtained that beloved husband whose sovereignty was forged by a divine boon (vara-dāna-kṛtaiśvaryam), Devavatī was filled with joy (tuṣṭā), like a pauper upon gaining wealth (dhanaṃ prāpyeva nirdhanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -94,6 +108,12 @@ title = "००५ माल्यवदादि"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अञ्जन ऎम्ब दिग्गजदिन्द हुट्टिद महागजवु हॆण्णानॆयॊन्दिगॆ शोभिसुवन्तॆये आ राक्षसनु गन्धर्वकन्यॆ देववतियॊन्दिगॆ इद्दु हॆच्चु शोभिसिदनु.॥4½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+United with her, that night-roamer (rajanīcaraḥ) shone resplendent like a great elephant sprung from the quarter-elephant Añjana (añjanād abhiniṣkrāntaḥ) accompanied by his mate (kareṇveva); and upon Devavatī, O Rāghava, Sukeśa begot offspring—
 </details>
 </details>
 
@@ -123,6 +143,12 @@ title = "००५ माल्यवदादि"
 रघुनन्दन! बळिक समय बन्दाग देववतिय गर्भदिन्द मूरु पुत्ररु हुट्टिदरु; अवरु मूरु अग्निगळन्तॆ तेजस्विगळागिद्दरु.॥5½॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He begot three sons whose frames blazed like the three sacrificial fires (tretāgni-sama-vigrahān): Mālyavān, Sumālī, and Mālin, foremost among the mighty (balināṃ varam)—three Rākṣasa sons equal to the three-eyed Śiva (trinetra-samān), did that lord of Rākṣasas sire.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +176,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 माल्यवन्त, सुमाली मत्तु मालि ऎन्दु अवर हॆसरागित्तु. मालियु श्रेष्ठ बलवन्तनागिद्दनु. अवरु मूवरू त्रिनेत्रधारि महादेवनन्तॆ शक्तिशालियागिद्दरु. आ मूवरू राक्षस पुत्ररन्नु नोडि राक्षसराज सुकेशनिगॆ बहळ सन्तोषवायितु.॥6½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They stood unperturbed like the three worlds (trayo lokā ivāvyagrāḥ), steadfast as the three sacred fires (traya ivāgnayaḥ), exceedingly fierce like the three potent incantations (trayo mantrā ivātyugrāḥ), and dread as the three dire maladies (trayo ghorā ivāmayāḥ).
 </details>
 </details>
 
@@ -181,6 +213,12 @@ _________________
 अवरु मूरु लोकगळन्तॆ सुस्थिररू, मूरु अग्निगळन्तॆ1 तेजस्विगळू, मूरुमन्त्र (शक्तिगळिन्द2 अथवा वेद3)दन्तॆ उग्र हागू मूरु रोग4गळन्तॆ अत्यन्त भयङ्कररागिद्दरु.॥7½॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those three sons of Sukeśa, radiant as the three sacrificial fires (tretāgni-sama-tejasaḥ), waxed strong there like diseases left unchecked (vyādhayopekṣitā iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,6 +243,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुकेशन आ मूवरु पुत्ररु त्रिविध अग्निगळन्तॆ तेजस्विगळागिद्दरु. उपेक्षॆयिन्द औषधि माडदॆ रोग बॆळॆयुवन्तॆ अवरु बॆळॆयतॊडगिदरु.॥8½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning of their father's attainment of a boon (vara-prāptiṃ pituḥ) through the potency of the Lord's favor and austerity (īśvara-tapo-balāt), the brothers, firm in their resolve (kṛta-niścayāḥ), repaired to Mount Meru to practice penance (tapas taptum).
 </details>
 </details>
 
@@ -231,6 +275,12 @@ _________________
 
 नम्म तन्दॆगॆ तपोबलदिन्द वर मत्तु ऐश्वर्य प्राप्तवागिदॆ ऎन्दु अवरिगॆ तिळिदाग आ मूवरू तपस्सिगागि मेरुपर्वतक्कॆ होदरु.॥9½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing dreadful observances (niyamān ghorān), O noblest of kings (nṛpa-sattama), those Rākṣasas performed a terrible austerity (tapo ghoram) that struck terror into all living beings (sarva-bhūta-bhayāvaham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -255,6 +305,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नृपश्रेष्ठने! आ राक्षसरु अल्लि भयङ्कर नियमगळिन्द तपस्सिगॆ तॊडगिदरु. अवर आ तपस्सु समस्त प्राणिगळिगॆ भयावहवागित्तु.॥10½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through austerities exceedingly arduous to accomplish (tapobhir atiduṣkaraiḥ), endowed with truth, uprightness, and composure (satyārjava-śamopetaiḥ), they scorched the three worlds together with gods, Asuras, and mortals (sadevāsura-mānuṣān).
 </details>
 </details>
 
@@ -284,6 +340,12 @@ _________________
 
 भूतळदल्लि दुर्लभवाद सत्य, सरळतॆ, शम-दमादिगळिन्द अवरु देवासुर मत्तु मनुष्यर सहित मूरु लोकगळन्नु सुडतॊडगिदरु.॥11½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the four-faced all-pervading Lord (vibhuś caturvaktraḥ), mounted upon his supreme aerial chariot (vimāna-varam āsthitaḥ), addressed Sukeśa's sons (āmantrya) and spoke: ‘I am here to grant you a boon (varado 'smi).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -309,6 +371,12 @@ _________________
 
 आग चतुर्मुख ब्रह्मदेवरु ऒन्दु श्रेष्ठ विमानदिन्द अल्लिगॆ बन्दु, सुकेशन पुत्ररन्नु सम्बोधिसि, नानु निमगॆ वरवन्नु कॊडलु बन्दिरुवॆ ऎन्दु हेळिदरु.॥12½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing Brahmā as the bestower of boons (varadaṃ jñātvā), surrounded by Indra and the hosts of gods (sendrair deva-gaṇair vṛtam), they all spoke with palms reverently joined (prāñjalayaḥ), trembling like trees in the wind (vepamānā iva drumāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -333,6 +401,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्द्रादि देवतॆगळिन्द सुत्तुवरॆद ब्रह्मदेवरु बन्दिरुवरॆन्दु तिळिदु अवरॆल्लरू वृक्षगळन्तॆ कम्पिसुत्ता कैमुगिदुकॊण्डु नुडिदरु.॥13½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Lord, if, propitiated by our austerity (tapasārādhito deva), you bestow a boon upon us (no diśase varam), may we become unconquerable (ajeyāḥ), slayers of our foes (śatru-hantāraḥ), long-lived as well (cira-jīvinaḥ), mighty in dominion (prabhaviṣṇvaḥ), and ever devoted to one another (parasparam anuvratāḥ).”
 </details>
 </details>
 
@@ -365,6 +439,14 @@ _________________
 
 देवा! नीवु नम्म तपस्सिगॆ मॆच्चि नमगॆ वरकॊडलु बन्दिरुवॆयादरॆ, नम्मन्नु यारू सोलिसदिरुवन्तॆ कृपॆमाडु. नावु शत्रुगळन्नु वधिसलु समर्थरू, चिरजीविगळू, प्रभावशालिगळू आगबेकु. जॊतॆगॆ नम्मल्लि परस्पर प्रेम सदा इरलि.॥14-15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Saying ‘So shall it be’ (evaṃ bhaviṣyati) to the sons of Sukeśa, the all-pervading Lord Brahmā, affectionate toward Brāhmaṇas (brāhmaṇa-vatsalaḥ), departed for the realm of Brahmā (yayau brahmalokāya).
+
+**15:** Having obtained that boon, O Rāma, all those night-roamers (rātriṃcarāḥ) thereupon began oppressing gods and Asuras alike (surāsurān prabādhante), rendered utterly fearless by the grant of the boon (vara-dāna-sunirbhayāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -389,6 +471,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदन्नु केळि ब्रह्मदेवरु सुकेशन पुत्ररल्लि ‘हागॆये आगुवुदु’ ऎन्दु हेळि ब्राह्मणवत्सल ब्रह्मदेवरु तम्म लोकक्कॆ हॊरटुहोदरु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Harassed and slain by them (tair vadhyamānāḥ), the thirty gods together with throngs of sages and Cāraṇas (sarṣi-saṅghāḥ sacāraṇāḥ) found no protector (trātāraṃ nādhigacchanti), like mortals plunged into hell (nirayasthā yathā narāḥ).
 </details>
 </details>
 
@@ -418,6 +506,12 @@ _________________
 
 श्रीरामा! अवरॆल्ल निशाचररु वरदानदिन्द अत्यन्त निर्भयरागि देवतॆगळिगॆ हागू असुररिगॆ कष्टकॊडतॊडगिदरु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, O noblest of the Raghus (raghusattama), those Rākṣasas, filled with delight (saṃhṛṣṭāḥ), approached Viśvakarman, the imperishable foremost of artisans (śilpināṃ varam avyayam), and spoke:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -443,6 +537,12 @@ _________________
 
 अवरिन्द तॊन्दरॆगीडाद देवतॆगळु, ऋषिगळु, चारणरु नरकदल्लि बिद्द मनुष्यरन्तॆ तमगॆ यारू रक्षकरू, सहायकरू इल्लदॆ होदरु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You alone, through your innate radiance (ātma-tejasā), are the builder of abodes (gṛha-kartā) for the mighty gods endowed with vigor, luster, and strength (ojas-tejo-balavatām), fulfilling their hearts' desire (hṛdayepsitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,6 +567,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुवंश श्रेष्ठने! ऒन्दु दिन शिल्पकर्म तिळिदवरल्लि श्रेष्ठनाद विश्वकर्मन बळिगॆ होगि आ राक्षसरु हर्षोत्साहदिन्द हेळिदरु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fashion for us as well, O noble-minded one (mahāmate), a dwelling (gṛhaṃ kuru)—resting upon Himavat, or upon Meru or Mandara (meru-mandaram eva vā)—let a mighty palace be built for us rivaling the abode of Maheśvara (maheśvara-gṛha-prakhyam)!”
 </details>
 </details>
 
@@ -499,6 +605,14 @@ _________________
 
 महामतिये! तेज, ओज, बलगळिन्द सम्पन्नराद महादेवतॆगळिगू कूड नीवु तम्म शक्तियिन्द उत्तम भवनगळन्नु निर्मिसुत्तिद्दीरि. आद्दरिन्द नमगागियू नीवु हिमालय, मेरु, मन्दराचलक्कॆ होगि भगवान् शङ्करन दिव्यभवनदन्तॆ ऒन्दु विशाल निवासस्थानवन्नु निर्माण माडिकॊडि.॥20-21½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** Thereupon the mighty-armed Viśvakarman (viśvakarmā mahābhujaḥ) declared to those Rākṣasas a dwelling-place (nivāsaṃ kathayām āsa) comparable to Indra's Amarāvatī (śakrasyevāmarāvatīm):
+
+**21:** “Upon the shore of the southern ocean (dakṣiṇasyodadhes tīre) stands a mountain named Trikūṭa (trikūṭo nāma parvataḥ); and there too stands a second mountain like it, named Suvela (suvela iti), O noblest ones (sattamāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -524,6 +638,12 @@ _________________
 
 इदन्नु केळि महाबाहु विश्वकर्मनु आ राक्षसरिगागि इन्द्रन अमरावतियन्नु नाचिसुवन्तह ऒन्दु निवासस्थानवन्नु तिळिसिदनु.॥22½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Upon the central peak of that mountain (śikhare tasya śailasya madhyame), towering like a rain-cloud (ambuda-sannibhe), inaccessible even to winged birds (śakunair api duṣprāpe), with all four flanks sheared sheer as if by a stone-chisel (ṭaṅkacchinna-caturdiśi),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -548,6 +668,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसपतिगळे! दक्षिण समुद्रद तीरदल्लि त्रिकूट ऎम्ब पर्वतवु, इन्नॊन्दु सुवेलवो ऎम्बन्तॆ ऒन्दु विख्यात शैलविदॆ.॥23½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thirty yojanas in breadth (triṃśad-yojana-vistīrṇā) and a hundred yojanas in length (śata-yojanam āyatā), encircled by walls of gold (svarṇa-prākāra-saṃvītā) and enclosed with golden arched gateways (hema-toraṇa-saṃvṛtā),
 </details>
 </details>
 
@@ -580,6 +706,16 @@ _________________
 
 आ त्रिकूटपर्वतद नडुविन शिखरद मेलॆ मेघसदृशवाद, पक्षिगळिगू होगलु असाध्यवाद, नाल्कु दिक्कुगळल्लियू उळिगळिन्द कॆत्ति नयगॊळिसिरुव, मूवत्तु योजनगळष्टु विशालवागियू इरुव लङ्कॆ ऎम्ब नगरवन्नु इन्द्रन आज्ञॆयिन्द नानु रचिसिरुवॆनु. अदु मूवत्तु योजन अगलवू, नूरुयोजन उद्दवू आगिदॆ. सुत्तलू बङ्गारद प्राकारविद्दु, चिन्नद महाद्वारगळिवॆ.॥24-26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** “Stands a city named Laṅkā (laṅketi nagarī), constructed by me at the command of Śakra (śakrājñaptena nirmitā). Dwell therein, O unassailable bulls among Rākṣasas (durdharṣā rākṣasa-puṅgavāḥ)!
+
+**25:** “Just as the celestials with Indra (sendrā iva divaukasaḥ) dwell upon reaching Amarāvatī (amarāvatīṃ samāsādya), so, upon gaining the fortress of Laṅkā (laṅkā-durgaṃ samāsādya) surrounded by myriad Rākṣasas (rākṣasair bahubhir vṛtāḥ), you shall become unassailable by your enemies (durādharṣāḥ śatrūṇām), O destroyers of foes (śatru-sūdanāḥ)!”
+
+**26:** Hearing those words of Viśvakarman (viśvakarma-vacaḥ śrutvā), those foremost of Rākṣasas (rākṣasottamāḥ), attended by thousands of followers (sahasrānucarā bhūtvā), went thither and took up residence in that city (tām avasan purīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -604,6 +740,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दुर्धर्ष राक्षसश्रेष्ठरे! अमरावतियन्नु आश्रयिसि इन्द्रादिदेवतॆगळु इरुवन्तॆये नीवूकूड आ लङ्कापुरिगॆ होगि वासिसिरि.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached Laṅkā, furnished with sturdy ramparts and moats (dṛḍha-prākāra-parikhām) and filled with hundreds of golden mansions (haimair gṛha-śatair vṛtām), those night-roamers dwelt there in great joy (hṛṣṭā nyavasan).
 </details>
 </details>
 
@@ -630,6 +772,12 @@ _________________
 
 शत्रुसूदन वीररे! लङ्कादुर्गवन्नु आश्रयिसि अनेक राक्षसरॊन्दिगॆ नीवु वासिसिदाग शत्रुगळिगॆ निम्मन्नु जयिसुवुदु अत्यन्त कठिणवागुवुदु.॥28॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At that very time, O Rāghava, living as she pleased (yathākāmam), there was a Gandharva maiden named Narmadā (narmadā nāma gandharvī), O delight of the Raghus (raghunandana).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -655,6 +803,12 @@ _________________
 
 विश्वकर्मन मातन्नु केळि आ श्रेष्ठ राक्षसरु साविरारु अनुचररॊन्दिगॆ आ पुरिगॆ होगि नॆलॆसिदरु.॥29॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She had a triad of daughters (kanyā-trayam) whose splendor matched Intelligence, Fortune, and Fame (dhī-śrī-kīrti-sama-dyuti); in order of seniority (jyeṣṭha-krameṇa), that non-Rākṣasa mother (arākṣasī) bestowed them upon those Rākṣasas—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -679,6 +833,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदर कन्दकगळु, प्राकारगळु बलिष्ठवागिद्दवु. साविरारु स्वर्णसौधगळु आ नगरद शोभॆ हॆच्चिसिद्दवु. आ लङ्कॆगॆ होगि बहळ हर्षदिन्द इरतॊडगिदरु.॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted (hṛṣṭā), she gave those three Gandharva maidens (tisro gandharva-kanyakāḥ), whose countenances shone like the full moon (pūrṇa-candra-nibhānanāḥ), unto the three lords of the Rākṣasas (trayāṇāṃ rākṣasendrāṇām).
 </details>
 </details>
 
@@ -720,6 +880,14 @@ _________________
 रघुकुलनन्दन श्रीराम! अदे समयदल्लि नर्मदा ऎम्ब गन्धर्विगॆ ह्री, श्री मत्तु कीर्ति ऎम्ब मूवरु कन्यॆयरिद्दरु. नर्मदॆयु राक्षसियु इरदिद्दरू अवळु सुकेशन मूरू राक्षस पुत्ररिगॆ तन्न कन्यॆयरन्नु मदुवॆ माडिकॊट्टळु. चन्द्रनन्तॆ मनोहर मुखगळुळ्ळ आ कन्यॆयरु बहळ सन्तोषगॊण्डरु.॥31-32½॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** Bestowed by their mother (dattā mātrā), those illustrious maidens (mahābhāgāḥ) were married under the asterism presided over by Bhaga (nakṣatre bhaga-daivate); and having thus taken wives (kṛta-dārāḥ), O Rāma, Sukeśa's sons then—
+
+**32:** —sported joyfully with their consorts (cikrīḍuḥ saha bhāryābhiḥ), like immortals with Apsarases (apsarobhir ivāmarāḥ). Now Mālyavān's wife was the fair Sundarī by name (sundarī nāma sundarī);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -744,6 +912,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तायि नर्मदॆयु उत्तरा फल्गुणि नक्षत्रदल्लि आ मूवरू महा भाग्यवति गन्धर्व कन्यॆयरन्नु आ मूरू राक्षस राजरिगॆ ऒप्पिसिदळु.॥33½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learn now (nibodha tat) what offspring he begot upon her (tasyāṃ janayām āsa): Vajramuṣṭi, Virūpākṣa, and the Rākṣasa Durmukha,
 </details>
 </details>
 
@@ -770,6 +944,12 @@ _________________
 
 राम! देवतॆगळु अप्सरॆयरॊन्दिगॆ क्रीडिसुवन्तॆये, सुकेशन पुत्ररु, विवाहद बळिक तन्न पत्नियरॊन्दिगॆ इद्दु लौकिक सुखवन्नु अनुभविसिदरु.॥34½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Suptaghna, Yajñakopa, and likewise Matta and Unmatta (mattonmattau); and a fair daughter Analā (analā kanyā sundarī) was also born of Sundarī, O Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -794,6 +974,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरल्लि माल्यवन्तन पत्निय हॆसरु सुन्दरि ऎन्दित्तु. अवळु हॆसरिनन्तॆये सुन्दरळागिद्दळु. माल्यवन्तनु आकॆयिन्द पडॆद सन्तानगळ हॆसरुगळन्नु हेळुत्तेनॆ; केळु.॥35½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumālī likewise had a wife whose face resembled the full moon (pūrṇa-candra-nibhānanā), named Ketumatī (nāmnā ketumatī), O Rāma, dearer to him than life itself (prāṇebhyo 'pi garīyasī).
 </details>
 </details>
 
@@ -826,6 +1012,14 @@ _________________
 
 वज्रमुष्टि, विरूपाक्ष, दुर्मुख, सुप्तघ्न, यज्ञ कोप मत्तु उन्मत्त ऎम्ब एळु पुत्ररिद्दरु. श्रीरामा! इवरल्लदॆ सुन्दरिय गर्भदिन्द अनला ऎम्ब ओर्व सुन्दर कन्यॆयु हुट्टिद्दळु.॥36-37॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** Hear now in due order (nibodhānupūrvaśaḥ), O mighty king (mahārāja), what offspring (yad apatyam) that night-roamer Sumālī begot upon Ketumatī (ketumatyām):
+
+**37:** Prahasta and Akampana, Vikaṭa and Kālakārmukha, Dhūmrākṣa and Daṇḍa, and the mighty Supārśva (supārśvaś ca mahābalaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -854,6 +1048,12 @@ _________________
 
 सुमालिय पत्नी केतुमतिय मुख पूर्णचन्द्रनन्तॆ मनोहरवागित्तु. सुमालिगॆ अवळु प्राणक्किन्त हॆच्चु प्रियळागिद्दळु.॥38॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saṃhrādi, Praghasa, and the Rākṣasa Bhāsakarṇa; and Rākā, Puṣpotkaṭā, the pure-smiling Kaikasī (kaikasī ca śucismitā), and Kumbhīnasī—these are remembered as the offspring of Sumālī (sumāleḥ prasavāḥ smṛtāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -878,6 +1078,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाराजा! निशाचर सुमालियु केतुमतियिन्द पडॆद सन्तान गळ परिचय कॊडुवॆनु, केळु.॥39॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Mālin's wife was a Gandharvī of exquisite beauty named Vasudhā (vasudhā nāma gandharvī rūpa-śālinī), lotus-petal-eyed (padma-patrākṣī), lovely-eyed (svakṣī), and peer to the noblest of Yakṣīs (yakṣī-varopamā).
 </details>
 </details>
 
@@ -916,6 +1122,16 @@ _________________
 
 प्रहस्त, अकम्पन, विकट, कालिकामुख, धूम्राक्ष, दण्ड, महाबलिसुपार्श्व, संह्रादि, प्रघस हागू राक्षस भासकर्ण इवरु सुमालिय पुत्ररागिद्दरु मत्तु राका, पुष्पोत्कटा, कैकसी मत्तु कुम्भीनसी हीगॆ नाल्वरु मन्दस्मितियराद कन्यॆयरिद्दरु. इवरॆल्लरू सुमालिय सन्तानवॆन्दु हेळुत्तारॆ.॥40-42॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**40:** Hear now from me (kathyamānaṃ mayā śṛṇu), O Lord (prabho), O Rāghava, what offspring (yad apatyam) the younger brother of Sumālī (sumāler anujaḥ) begot upon her:
+
+**41:** Anila, Anala, Hara, and Sampāti as well—these four sons of Mālin (māleyāḥ), those night-roamers (niśācarāḥ), became the counselors of Vibhīṣaṇa (vibhīṣaṇāmātyāḥ).
+
+**42:** Then those three bulls among Rākṣasas (rākṣasa-puṅgavās trayaḥ), surrounded by hundreds of night-roaming sons (niśācaraiḥ putra-śataiś ca saṃvṛtāḥ) and swollen with pride in their vast valor (bahu-vīrya-darpitāḥ), tormented the gods together with Indra, as well as sages, Nāgas, and Yakṣas (surān sahendrān ṛṣi-nāga-yakṣān babādhire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -940,6 +1156,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मालिय पत्नी गन्धर्वकन्यॆ रूप-सौन्दर्य सुशोभित वसुदा आगिद्दळु. आकॆय नेत्रगळु अरळिद कमलदन्तॆ विशालवागि सुन्दरवागिद्दवु. अवळु श्रेष्ठ यक्षपत्नियरन्तॆ सुन्दरळागिद्दळु.॥43॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wandering the world (jagad bhramantaḥ), unapproachable as the wind (anilavad durāsadāḥ), rivaling Death himself in fiery might in battle (raṇeṣu mṛtyu-pratimāna-tejasaḥ), and exceedingly arrogant through the grant of their boon (vara-pradānād atigarvitāḥ), they ever proved the destroyers of sacrificial rites (kratu-kriyāṇāṃ praśamaṅkarāḥ sadā).
 </details>
 </details>
 

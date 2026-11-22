@@ -67,6 +67,12 @@ an obeisance.
 On seeing at that best sage among best meditators Sage Vashishta, the great-mighty and valorous Vishvamitra
 is highly rejoiced and obediently made an obeisance to the sage. [1-52-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him (taṃ dṛṣṭvā), the heroic and mighty Viśvāmitra was supremely delighted (paramaprītaḥ), and out of humility bowed low (praṇato vinayād vīraḥ) to Vasiṣṭha, the foremost of those who recite sacred prayers (vasiṣṭhaṃ japatāṃ varam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -107,6 +113,12 @@ indeed.
 The great-souled Vashishta spoke, "you are welcome," and that godly sage has indeed shown a high seat
 to Vishvamitra. [1-52-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Greeted by the high-souled Vasiṣṭha with the words, “Welcome to you!” (svāgataṃ tava cety uktaḥ), he was assigned a seat by the venerable Vasiṣṭha (āsanaṃ cāsya bhagavān vasiṣṭho vyādideśa ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -145,6 +157,12 @@ to Vishvamitra. [1-52-2]
 
 The eminent saint Vashishta then customarily offered fruits and tuber to the courageous Vishvamitra
 who by now has assumed a seat. [1-52-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And when the wise Viśvāmitra had taken his seat (upaviṣṭāya ca tadā viśvāmitrāya dhīmate), the foremost of sages offered him fruits and roots in accordance with sacred custom (yathānyāyaṃ munivaraḥ phalamūlam upāharat).
 </details>
 </details>
 
@@ -203,6 +221,14 @@ of the ascesis, Fire-rituals and disciples and their progress in that hermitage,
 Vishvamitra has also asked after the well being of flora and fauna of the hermitage, and Vashishta reported
 to the matchless king about the all round well-being of every activity. [1-52-4, 5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Accepting that homage of hospitality from Vasiṣṭha (pratigṛhya tu tāṃ pūjāṃ vasiṣṭhāt), the best of kings inquired after the welfare of his asceticism, sacred fire-oblations, and disciples (tapo'gnihotraśiṣyeṣu kuśalaṃ paryapṛcchata)—
+
+**5:** —and Viśvāmitra of great splendor inquired also after the welfare of the grove of forest trees (vanaspatigaṇe tadā); and Vasiṣṭha declared to the best of kings that all was well everywhere (sarvatra kuśalaṃ prāha vasiṣṭho rājasattamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +268,12 @@ asked.
 
 Vashishta the supreme one among meditators, a great-ascetic, and the brainchild of Brahma has then asked
 Vishvamitra who is sitting at ease. [1-52-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Vasiṣṭha, the son of Brahmā (brahmaṇaḥ sutaḥ), foremost of prayer-reciters (japatāṃ śreṣṭhaḥ) and of mighty austerity (mahātapāḥ), questioned King Viśvāmitra, who was seated at his ease (sukhopaviṣṭaṃ rājānam):
 </details>
 </details>
 
@@ -291,6 +323,12 @@ caturvidham || * 'monies are to be earned righteously, they are to be enriched r
 and safeguarded righteously, and they are to be endowed to righteous deeds or persons, for welfare of
 the state, righteously...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Is all well with you, O King (kaccit te kuśalaṃ rājan)? Delighting your subjects through righteous governance (kaccid dharmeṇa rañjayan), do you protect them, O righteous monarch, in accordance with the fourfold royal code (prajāḥ pālayase rājan rājavṛttena dhārmika)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -336,6 +374,12 @@ after well, I hope; *shaasane tiSThanti kaccit* = abiding by rulership, I hope; 
 
 I hope your servants are looked after well, hope all of them are abiding by the rulership, oh, vanquisher
 of adversaries, I hope that you have surely vanquished all of your adversaries. [1-52-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Are your servants and ministers properly maintained (kaccit te saṃbhṛtā bhṛtyāḥ), and do they abide obediently by your command (kaccit tiṣṭhanti śāsane)? And have all your enemies been vanquished by you, O destroyer of foes (kaccit te vijitāḥ sarve ripavo ripusūdana)?
 </details>
 </details>
 
@@ -387,6 +431,12 @@ grandsons; *kushalam kaccit* = I hope well-being.
 and confederates are fine, and all is well with your sons and grandsons." Thus Vashishta asked the well-being
 of Vishvamitra. [1-52-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Is all well, O scorcher of foes, with your armies, your treasuries, and your allies (kaccid baleṣu kośeṣu mitreṣu ca paraṃtapa)—and with your sons and grandsons too, O sinless tiger among men (kuśalaṃ te naravyāghra putrapautre tathānagha)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -426,6 +476,12 @@ exemplified - replied.
 
 The great-resplendent king Vishvamitra respectfully replied Sage Vashishta saying, 'everything
 is fine.' [1-52-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+King Viśvāmitra of great splendor replied to the modest and gracious Vasiṣṭha, most eminent of sages (vasiṣṭhaṃ pratyudāharat ... vasiṣṭhaṃ vinayānvitam), that all was well in every sphere (sarvatra kuśalam).
 </details>
 </details>
 
@@ -468,6 +524,12 @@ on making [exchanging]; *tau* = those two; *parasparam - paraH aparam* = one, an
 Both of those celebrities of conscientious then exchanged pleasantries for a long time with their rejoice
 heightening and gladdening one another. [1-52-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having conversed thus for a very long time upon those righteous topics (kṛtvā tau suciraṃ kālaṃ dharmiṣṭhau tāḥ kathās tadā), those two, filled with supreme joy, delighted one another (mudā paramayā yuktau prīyetāṃ tau parasparam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -506,6 +568,12 @@ heightening and gladdening one another. [1-52-11]
 
 Then at the end of discussions, oh, Rama the legatee of Raghu, that godly Sage Vashishta smilingly
 spoke this sentence to Vishvamitra. [1-52-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, O delight of the Raghus (raghunandana), at the conclusion of their converse (kathānte), the venerable Vasiṣṭha, smiling with delight (prahasann iva), spoke this word to Viśvāmitra:
 </details>
 </details>
 
@@ -547,6 +615,12 @@ in turn, you accede] = kindly accede to it.
 
 I wish to offer guestship befitting to your status, oh, great-forceful king Vishvamitra, to a matchless
 one like you and to this military force of yours, kindly accept it from me. [1-52-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O mighty monarch (mahābala), I wish to offer hospitality to this army of yours (ātithyaṃ kartum icchāmi balasyāsya), and to you as well, who are of immeasurable majesty (tava caivāprameyasya); pray accept it from me in due measure (yathārhaṃ saṃpratīccha me).
 </details>
 </details>
 
@@ -602,6 +676,12 @@ royal banquet or rations to military and feed to horses and elephants' - is the 
 For that, the sage is saying that a king is to be reverenced 'effortfully...' But, Vishvamitra is reluctantly
 evading the so-called hospitality for 'royals' and 'armies' from a poor hermit.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let Your Majesty graciously accept this hospitality prepared by me (satkriyāṃ hi bhavān etāṃ pratīcchatu mayā kṛtām); for you, O King, are the foremost of guests and must be honored with every effort (rājaṃs tvam atithiśreṣṭhaḥ pūjanīyaḥ prayatnataḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -646,6 +726,12 @@ When sage Vashishta said in this way, that highly-intellectual king Vishvamitra 
 is deemed to have been offered to me with your reverential words, it is enough and nothing more is necessary.'
 [1-52-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Vasiṣṭha, the high-minded King Viśvāmitra (viśvāmitro mahāmatiḥ) replied: “My hospitality has already been accomplished by you through your honoring words alone (kṛtam ity abravīd rājā pūjāvākyena me tvayā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -670,6 +756,12 @@ is deemed to have been offered to me with your reverential words, it is enough a
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूज्यरे! निम्म आश्रमदल्लिरुव फल-मूल, अर्घ्य-पाद्य, आचमनीय मॊदलाद वस्तु गळिन्द नन्न आदर सत्कार चॆन्नागि नडॆयितु. ऎल्लक्किन्त मिगिलागि निम्म दर्शनवायितु. इदरिन्दले नन्न पूजॆ आगि होयितु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—and by the fruits and roots that are found in your hermitage, O venerable Lord (phalamūlena bhagavan vidyate yat tavāśrame), as well as by the water for my feet, water for sipping, and the auspicious sight of Your Reverence (pādyenācamanīyena bhagavaddarśanena ca).
 </details>
 </details>
 
@@ -722,6 +814,12 @@ look upon us with a friendlily regard. [1-52-16, 17]
 
 The reverential salutation *namas te astu* is discussed in the endnote.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In every way, O sage of supreme wisdom, I have been richly honored by you who are yourself worthy of all worship (sarvathā ca mahāprājña pūjārheṇa supūjitaḥ). Salutations be to you—I shall now depart; look upon me with a friendly eye (namas te 'stu gamiṣyāmi maitreṇekṣasva cakṣuṣā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -764,6 +862,12 @@ _________________
 
 Even if the king was speaking in this way obliquely to him, that virtue-souled and magnanimous sage
 Vashishta entreated the king repeatedly. [1-52-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as the king spoke thus (evaṃ bruvantaṃ rājānam), the righteous-souled and noble-minded Vasiṣṭha invited and pressed him again and again (nyamantrayata dharmātmā punaḥ punar udāradhīḥ).
 </details>
 </details>
 
@@ -811,6 +915,12 @@ ha* = thus, in turn, spoke [replied,] indeed.
 Gaadhi's son Vishvamitra then replied the eminent saint Vashishta, "Agreed! As it pleases the godly
 sage. So be it!" [1-52-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So be it!” replied the son of Gādhi to Vasiṣṭha (bāḍham ity eva gādheyo vasiṣṭhaṃ pratyuvāca ha); “as it pleases Your Reverence, so let it be, O bull among sages (yathāpriyaṃ bhagavatas tathāstu munipuṃgava)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -857,6 +967,12 @@ varaH* = the best among meditators; *dhuutakalmaSaH* = one who is laved of blemi
 When Vishvamitra said that way then Vashishta, the best one among meditators, and one whose blemishes
 are laved is gladdened, and started calling his speckled cow, namely Shabala, yclept Kaamadhenu. [1-52-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by him, Vasiṣṭha, foremost of prayer-reciters, was delighted (tataḥ prītaḥ) and summoned his dappled sacred cow, cleansed of all blemish (ājuhāva ... kalmāṣīṃ dhūtakalmaṣām):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -900,6 +1016,12 @@ to do [to accord,] prepared, I am; *me samvidhatsva* = for me, you arrange for i
 Come on, oh, Shabala! Come quickly and listen to my words. I prepared to accord hospitality with
 a highly delectable royal banquet to this kingly sage together with all his forces. You arrange it for
 me. [1-52-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Come, come quickly, O Śabalā, and hear my word (ehy ehi śabale kṣipraṃ śṛṇu cāpi vaco mama)! I have resolved to offer hospitality to this royal sage together with his army (sabalasyāsya rājarṣeḥ kartuṃ vyavasito 'smy aham); arrange that reception for me with a sumptuous feast (bhojanena mahārheṇa satkāraṃ saṃvidhatsva me)!
 </details>
 </details>
 
@@ -950,6 +1072,12 @@ is savoured by whosoever according to one's own piquancy from each of the six sa
 
 The six tastes that shall comprise an Indian meal are: 1] caustic, 2] acidic, 3] sweetish, 4] salty,
 5] un-sweetish [bitter,] and 6] alkaline.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever delicacy among the six tastes is cherished by each guest according to his desire (yasya yasya yathākāmaṃ ṣaḍraseṣv abhipūjitam), rain down all of that for my sake, O divine wish-milking cow (tat sarvaṃ kāmadhug divye abhivarṣa kṛte mama)!
 </details>
 </details>
 
@@ -1003,6 +1131,12 @@ Vishvamitra continued his narration. [1-52-23]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तॆरडनॆय सर्ग पूर्णवायितु.॥52॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bring forth quickly, O Śabalā, a complete abundance of foods (annānāṃ nicayaṃ sarvaṃ sṛjasva śabale tvara), endowed with savory juices, solid dishes, beverages, and delicacies to be licked and sucked (rasenānnena pānena lehyacoṣyeṇa saṃyutam)!”
 </details>
 </details>
 

@@ -37,6 +37,12 @@ title = "१०८ अनुचरणानुञा-नियोगाश् �
 
 श्रीरामचन्द्रन आज्ञॆ पडॆदु शीघ्रगामि दूतरु, दारियल्लि ऎल्लियू तङ्गदे शीघ्रवागि मधुरापट्टणक्कॆ होदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged onward by Rāma’s command (rāma-vākyena coditāḥ), those swift-striding messengers (laghu-vikramāḥ) hastened straightway to Madhurā (prajagmur madhurāṃ śīghram) and made no halt along the way (cakrur vāsaṃ na cādhvani).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ title = "१०८ अनुचरणानुञा-नियोगाश् �
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऒन्दे समने मूरु हगलू, मूरु रात्रि प्रयाण माडि, मधुरापुरिगॆ होगि, अयोध्यॆय ऎल्ल समाचारवन्नु शत्रुघ्ननिगॆ यथावत्तागि तिळिसिदरु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching Madhurā in three days and nights (tribhir ahorātraiḥ samprāpya madhurām atha), they recounted all of that exactly as it truly stood (yathātattvam ācakhyuḥ sarvam eva tat) to Śatrughna:
 </details>
 </details>
 
@@ -96,6 +108,14 @@ _________________
 
 श्रीरामन प्रतिज्ञॆ, लक्ष्मणन परित्याग, श्रीरामन इब्बरू मक्कळ राज्याभिषेक, पुरवासिगळु श्रीराम नॊन्दिगॆ होगुव निश्चय, मॊदलाद ऎल्ल सङ्गतिगळन्नु तिळिसिदरु. परम बुद्धिवन्त भगवान् श्रीरामनु कुशनिगागि विन्ध्यपर्वतद तप्पलल्लि कुशावती ऎम्ब रमणीय नगरवन्नु निर्मिसिदनु.॥3-4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** the relinquishment of Lakṣmaṇa (lakṣmaṇasya parityāgam), the solemn vow of Rāghava (pratijñāṃ rāghavasya ca), the consecration of his two sons (putrayor abhiṣekaṃ ca), and likewise the citizens’ resolve to follow him (paurānugamanaṃ tathā);
+
+**4:** how the lovely city for Kuśa upon the flanks of the Vindhya mountains (vindhya-parvata-rodhasi) was founded by the wise Rāma under the name Kuśāvatī (kuśāvatīti nāmnā sā kṛtā rāmeṇa dhīmatā), and how the fair capital named Śrāvastī was established and proclaimed for Lava (śrāvastīti purī ramyā śrāvitā ca lavasya ha);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +147,14 @@ _________________
 
 इदे रीति लवनिगागि श्रावस्ती ऎम्ब प्रसिद्ध सुन्दरपुरियन्नु स्थापिसिदनु. श्रीरघुनाथ मत्तु भरत इब्बरू महारथि वीररु अयोध्यॆयन्नु बरिदागिसि साकेतधामक्कॆ होगलु हॊरटिरुवरु. हीगॆ शत्रुघ्ननिगॆ अवसरवागि ऎल्ल मातुगळन्नु तिळिसि दूतरु हेळिदरु - राजने! त्वरॆमाडि ऎन्दु हेळि अवरु सुम्मनादरु.॥5-6½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** and how, having rendered Ayodhyā empty of its folk (ayodhyāṃ vijanāṃ kṛtvā), both Rāghava and Bharata—those mighty chariot-warriors (mahārathau)—had made ready their departure for heaven (svargasya gamanodyogaṃ kṛtavantau).
+
+**6:** Having thus swiftly reported everything to the great-souled Śatrughna (evaṃ sarvaṃ nivedyāśu śatrughnāya mahātmane), those messengers then fell silent (viremus te tato dūtāḥ) and said, “Make haste, O King!” (tvara rājeti cābruvan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -154,6 +182,14 @@ _________________
 
 तन्न कुलद भयङ्कर संहार उपस्थितवादुदन्नु केळि रघुनन्दन शत्रुघ्ननु समस्त प्रजॆगळन्नु हागू काञ्चननॆम्ब पुरोहितरन्नु करॆसि, अवरल्लि ऎल्ल सङ्गतिगळन्नु यथावत्तागि तिळिसिदनु.॥7-8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** Hearing of that dread-seeming passing of the dynasty now at hand (ghora-saṅkāśaṃ kula-kṣayam upasthitam), he summoned his ministers of state (prakṛtīs tu samānīya) and his royal chaplain Kāñcana (kāñcanaṃ ca purodhasam).
+
+**8:** To them the delight of the Raghus (raghanandanaḥ) recounted everything just as it had come to pass (sarvaṃ yathāvṛttam abravīt), along with his own imminent departure from this world (ātmanaś ca viparyāsaṃ bhaviṣyam) together with his brothers (bhrātṛbhiḥ saha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +214,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अण्णन्दिर जॊतॆगॆ नन्न शरीरवियोगवू आगुवुदु ऎन्दू तिळिसिदनु. बळिक वीर राजा शत्रुघ्ननु तन्न इब्बरु पुत्ररिगॆ पट्टाभिषेक माडिदनु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon that heroic sovereign of men consecrated his two sons (putra-dvayaṃ vīraḥ so ’bhyaṣiñcan narādhipaḥ): Subāhu received Madhurā (subāhur madhurāṃ lebhe), and Śatrughātin received Vaidiśa (śatrughātī ca vaidiśam).
 </details>
 </details>
 
@@ -206,6 +248,12 @@ _________________
 
 सुबाहु मधुराजनन्नु पडॆदनु मत्तु शत्रुघातियु विदिशा पडॆदुकॊण्डनु. मधुरॆय सैन्यवन्नु ऎरडु भाग माडि शत्रुघ्ननु इब्बरू पुत्ररिगॆ हञ्चिदनु हागू पालु माडलु योग्यवाद धनवन्नु विभाजिसि इब्बरिगू कॊट्टनु मत्तु अवरन्नु तम्म- तम्म राजधानिगळल्लि स्थापिसिदनु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dividing that army of Madhurā in two for his two sons (dvidhā kṛtvā tu tāṃ senāṃ mādhurīṃ putrayor dvayoḥ) and apportioning fitting wealth as well (dhanaṃ ca yuktaṃ kṛtvā vai), the monarch established them in their realms (sthāpayāmāsa pārthivaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -230,6 +278,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ सुबाहुवन्नु मधुरादल्लि हागू शत्रुघातियन्नु विदिशादल्लि स्थापिसि, शत्रुघ्ननु एकमात्र रथद मूलक अयोध्यॆगॆ प्रयाणिसिदनु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having installed Subāhu in Madhurā and Śatrughātin in Vaideśa (subāhuṃ madhurāyāṃ ca vaideśe śatrughātinam), Rāghava [Śatrughna] then journeyed to Ayodhyā in a single chariot (yayau ... ayodhyāṃ rathenaikena rāghavaḥ).
 </details>
 </details>
 
@@ -259,6 +313,12 @@ _________________
 
 अल्लिगॆ होगि महात्मा श्रीरामनु तन्न तेजदिन्द प्रज्वलित अग्नियन्तॆ बॆळगुत्तिरुवुदन्नु शत्रुघ्ननु नोडिदनु. अवन शरीरदल्लि नयवाद रेश्मॆवस्त्र शोभिसुत्तित्तु हागू अवनु अविनाशी महर्षिगळॊन्दिगॆ विराजिसुत्तिद्दनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There he beheld the great-souled Rāma blazing like a sacrificial fire (jvalantam iva pāvakam), clad in fine linen garments (sūkṣma-kṣaumāmbara-dharam) in the company of imperishable sages (munibhiḥ sārdham akṣayaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -283,6 +343,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिगॆ होगि कैमुगिदु श्रीरामनिगॆ प्रणाम माडि, धर्मवन्नु चिन्तिसुत्ता इन्द्रियगळन्नु हतोटियल्लिट्टुकॊण्डु अवनु धर्मज्ञनाद श्रीरघुनाथनल्लि हेळिदनु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, saluting Rāma with joined palms and disciplined senses (prāñjaliḥ prayatendriyaḥ), he spoke these words to that knower of dharma (dharmajñam), contemplating dharma alone (dharmam evānucintayan):
 </details>
 </details>
 
@@ -309,6 +375,12 @@ _________________
 
 रघुकुलनन्दन! नानु नन्न ऎरडू पुत्रर पट्टाभिषेक माडि बन्दिरुवॆनु. नीनु नन्नन्नु निन्न जॊतॆगॆ करॆदुकॊण्डु होगलु निश्चयिसु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having performed the consecration of my two sons, O delight of the Raghus (kṛtvābhiṣekaṃ sutayor dvayo rāghavanandana), know me, O King, to be steadfastly resolved upon following you (tavānugamane rājan viddhi māṃ kṛta-niścayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -333,6 +405,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वीरने! इन्दु इदक्कॆ विपरीतवागि एनू हेळबेड; एकॆन्दरॆ इदक्किन्त मिगिलागि ननगॆ दण्डनॆ बेरॆनिल्ल. विशेषवागि नन्नन्तह सेवकनिन्द निन्न आज्ञॆय उल्लङ्घनॆ आगदिरलि.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor should anything else whatsoever be spoken beyond this, O hero, nor any [other] decree (na cānyad api vaktavyam ato vīra na śāsanam); I do not wish [any refusal] to be contemplated—especially by one such as myself (vilokyamānam icchāmi madvidhena viśeṣataḥ).”
 </details>
 </details>
 
@@ -359,6 +437,12 @@ _________________
 
 शत्रुघ्नन ई दृढ विचार तिळिदु रघुनन्दननु अवनल्लि सरि, हागॆये आगलि ऎन्दु हेळिदनु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving that resolute, unyielding determination of his (tasya tāṃ buddhim aklībām), Rāma, the delight of the Raghus, spoke to Śatrughna simply, “So be it!” (bāḍham ity eva ... vākyam uvāca ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,6 +468,12 @@ _________________
 
 अवन मातु मुगियुवष्टरल्लि कामरूपिगळाद वानररु, करडिगळु, राक्षस समुदाय बहळ सङ्ख्यॆयल्लि अल्लिगॆ आगमिसिदरु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the very close of those words of his (tasya vākyasya vākyānte), shapeshifting monkeys (vānarāḥ kāma-rūpiṇaḥ) and hosts of bears and rākṣasas (ṛkṣa-rākṣasa-saṅghāś ca) converged in countless multitudes (samāpetur anekaśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -408,6 +498,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 साकेत धामक्कॆ होगलु उद्युक्तराद श्रीरामन दर्शनद इच्छॆयिन्द ऎल्ल वानररु सुग्रीवनन्नु मुन्दाळागिसि अल्लिगॆ बन्दिद्दरु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing Sugrīva at their head, all of them arrived together (sugrīvaṃ te puraskṛtya sarva eva samāgatāḥ), eager to behold that Rāma (taṃ rāmaṃ draṣṭu-manasaḥ) as he stood facing heavenward (svargāyābhimukhaṃ sthitam).
 </details>
 </details>
 
@@ -436,6 +532,12 @@ _________________
 
 अवरल्लि ऎष्टो मन्दि देवतॆगळ पुत्ररागिद्दरु, कॆलवरु ऋषिगळ बालकरागिद्दरु, कॆलवरु गन्धर्वरिन्द उत्पन्नरागिद्दरु. श्रीरघुनाथन लीला संवरणद समयवन्नु अरितु अवरॆल्लरू अल्लिगॆ बन्दिद्दरु. ऎल्ल वानररु, राक्षसरु श्रीरामनन्नु वन्दिसि हेळिदरु .॥19½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sons of the gods, sons of the sages, and sons of the gandharvas as well (deva-putrā ṛṣi-sutā gandharvāṇāṃ sutās tathā), learning of Rāma’s departure from this world (rāma-kṣayaṃ viditvā), all arrived together (sarva eva samāgatāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -463,6 +565,14 @@ _________________
 
 राजा! नावू निम्मॊन्दिगॆ होगलु निश्चय माडिये इल्लिगॆ बन्दिरुवॆवु. पुरुषोत्तमनु श्रीरामा! नीवु नम्मन्नु जॊतॆगॆ करॆदुकॊण्डु होगदिद्दरॆ, नीवु यमदण्डवन्नॆत्ति नम्मन्नु हॊडॆदुरुळिसिदॆ ऎन्दे नावु तिळियुवॆवु.॥20-21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** Saluting Rāma, all those monkeys and rākṣasas spoke (te rāmam abhivādyocuḥ sarve vānara-rākṣasāḥ): “O King, we have come steadfastly resolved upon following you (tavānugamane rājan samprāptāḥ kṛta-niścayāḥ).
+
+**21:** “If you were to depart without us, O supreme among men (yadi rāma vināsmābhir gacches tvaṃ puruṣottama), we should be struck down by you as though you had raised the rod of Death (yamadaṇḍam ivodyamya tvayā sma vinipātitāḥ).” Thus addressed by them, Kākutstha smiled and replied, “So be it!” (bāḍham ity abravīt smayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -487,6 +597,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अष्टरल्लि महाबली सुग्रीवनू वीर श्रीरामनिगॆ विधिवत्तागि नमस्करिसि, तन्न अभिप्रायवन्नु निवेदिसलु तॊडगिदनु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the midst of this (etasminn antare), the mighty Sugrīva too bowed duly before heroic Rāma (praṇamya vidhivad vīram) and made ready to address him (vijñāpayitum udyataḥ):
 </details>
 </details>
 
@@ -513,6 +629,12 @@ _________________
 
 नरेश्वर! नानु वीर अङ्गदनिगॆ पट्टाभिषेक माडि बन्दिरुवॆनु. निम्मॊन्दिगॆ बरलु नन्न दृढनिश्चयवॆन्दु तिळियिरि.॥23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having consecrated the heroic Aṅgada, O lord of men, I have come (abhiṣicyāṅgadaṃ vīram āgato ’smi nareśvara); know me, O King, to be steadfastly resolved upon following you (tavānugamane rājan viddhi māṃ kṛta-niścayam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -537,6 +659,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन मातन्नु केळि मनस्सन्नु रमिसुव पुरुषश्रेष्ठ श्रीरामनु वानरराज सुग्रीवन मित्रतॆय बग्गॆ विचारमाडि अवनल्लि हेळिदनु .॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his, Rāma—foremost of all who bring delight (rāmo ramayatāṃ varaḥ)—then spoke to the lord of monkeys, calling to mind his friendship (maitraṃ tasyānucintayan):
 </details>
 </details>
 
@@ -563,6 +691,12 @@ _________________
 
 सखनाद सुग्रीवने! नन्न मातन्नु केळिरि. नानु निन्नन्नु बिट्टु देवलोकक्कॆ, महान् परम पदक्कॆ अथवा परमधामक्कॆ होगलारॆनु.॥25॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hear me, O friend Sugrīva (sakhe śṛṇuṣva sugrīva): never without you (na tvayā ’haṃ vinākṛtaḥ) would I ascend either to the realm of the gods or to the great supreme abode (devalokaṃ vā paramaṃ vā padaṃ mahat)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -587,6 +721,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वानरर मत्तु राक्षसर मातन्नु केळि महा यशस्वी श्रीरघुनाथनु ‘हागॆये आगलि’ ऎन्दु हेळि मुगुळ्नक्कु राक्षसराजा विभीषणनल्लि हेळिदनु.॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the greatly renowned one spoke to Vibhīṣaṇa, lord of the rākṣasas (bibhīṣaṇam athovāca rākṣasendraṃ mahāyaśāḥ): “As long as living creatures abide (yāvat prajā dhariṣyanti), so long, O Vibhīṣaṇa—O mighty-prowessed lord of rākṣasas—shall you abide dwelling in Laṅkā (laṅkāsthas tvaṃ dhariṣyasi).
 </details>
 </details>
 
@@ -613,6 +753,12 @@ _________________
 
 महापराक्रमि राक्षसराज विभीषणने! जगत्तिन प्रजॆ जीविसि इरुववरॆगॆ, नीनू लङ्कॆयल्लि इद्दु तन्न शरीरवन्नु धरिसि इरु.॥27॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As long as the moon and the sun endure, as long as the earth abides (yāvat tiṣṭhati medinī), and as long as my story lives in the world (yāvac ca matkathā loke), so long let sovereignty here be yours (tāvad rājyaṃ tavāstv iha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -638,6 +784,12 @@ _________________
 
 चन्द्र-सूर्यरु इरुवतनक, पृथिवि इरुव तनक, प्रपञ्चदल्लि नन्न कथॆ प्रचलित इरुववरॆगॆ ई भूतळदल्लि निन्न राज्य इरुवुदु.॥28॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Charged by me in the name of friendship (śāsitas tvaṃ sakhitvena), you must carry out my command (kāryaṃ te mama śāsanam): protect your subjects with dharma (prajāḥ saṃrakṣa dharmeṇa); you ought not to speak a word in reply (nottaraṃ vaktum arhasi). And something further I wish to tell you, O great-minded lord of rākṣasas:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -662,6 +814,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु मित्रभावदिन्द इदन्नु निन्नल्लि हेळिद्देनॆ. नीनु नन्न आज्ञॆयन्नु पालिसबेकु. नीनु धर्मपूर्वक प्रजॆयन्नु रक्षिसु. ईग नानु हेळिदुदन्नु विरोधिसबारदु.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Worship the Lord of the Universe, the tutelary deity of the Ikṣvāku race (ārādhaya jagannātham ikṣvāku-kula-daivatam), who is worthy of unceasing adoration by all the gods together with Indra (ārādhanīyam aniśaṃ sarvair daivaiḥ savāsavaiḥ).”
 </details>
 </details>
 
@@ -690,6 +848,12 @@ _________________
 
 महाबली राक्षसराजने! इदल्लदॆ नानु निनगॆ इन्नॊन्दु मातु हेळलु बयसुवॆनु. नम्म इक्ष्वाकुकुलद देवतॆ भगवान् जगन्नाथनु. (श्रीशेषशायि भगवान् विष्णु). इन्द्रादि देवतॆगळू अवनन्नु निरन्तर आराधनॆ माडुत्तारॆ. नीनू सदा अवर पूजॆ माडुत्ता इरु.॥30½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saying “So be it” (tatheti), Vibhīṣaṇa, king of the foremost rākṣasas, accepted Rāma’s word (pratijagrāha rāma-vākyam), bearing Rāghava’s command ever in mind (rāghavājñām anusmaran).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -714,6 +878,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसराज विभीषणनु रघुनाथन ई आज्ञॆयन्नु शिरसा वहिसिकॊण्डु ‘हागॆये आगलि’ ऎन्दु हेळि स्वीकरिसिदनु.॥31½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to him, Kākutstha then addressed Hanūmān (hanūmantam athābravīt): “You whose mind is resolved upon living on (jīvite kṛta-buddhis tvam), do not break your own vow (mā pratijñāṃ vilopaya)!
 </details>
 </details>
 
@@ -740,6 +910,12 @@ _________________
 
 विभीषणनल्लि हीगॆ हेळि श्रीरामनु हनुमन्तनल्लि हेळिदनु- नीनु दीर्घकाल जीविसि इरलु निश्चयिसिरुवॆ. निन्न ई प्रतिज्ञॆयन्नु व्यर्थगॊळिसबेड.॥32½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As long as stories of me circulate in the world, O lord of monkeys (matkathāḥ pracariṣyanti yāval loke harīśvara), so long dwell in supreme gladness, keeping my word (tāvad ramasva suprīto madvākyam anupālayan)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -764,6 +940,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हरीश्वर! जगत्तिनल्लि नन्न कथॆगळु प्रचार इरुवतनक नीनू नन्न आज्ञॆयन्नु पालिसुत्ता सन्तोषवागि सञ्चरिसुत्ता इरु.॥33½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the great-souled Rāghava, Hanumān was filled with supreme joy (paraṃ harṣam avāpya ca) and spoke these respectful words (vākyaṃ vijñāpayāmāsa):
 </details>
 </details>
 
@@ -790,6 +972,12 @@ _________________
 
 महात्मा श्रीरघुनाथनु हीगॆ हेळिदाग हनुमन्तनिगॆ बहळ हर्षवागि हीगॆ हेळिदनु.॥34½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As long as your purifying story circulates in the world (yāvat tava kathā loke vicariṣyati pāvanī), so long shall I abide upon the earth, keeping your command (tāvat sthāsyāmi medinyāṃ tavājñām anupālayan)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -814,6 +1002,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भगवन्ता! प्रपञ्चदल्लि निन्न पावन कथॆय प्रचार इरुवतनक, निन्न आदेशवन्नु पालिसुत्ता नानु ई भूमण्डलदल्लि इरुवॆनु.॥35½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And having spoken likewise to the aged Jāmbavān, son of Brahmā (jāmbavantaṃ tathoktvā tu vṛddhaṃ brahma-sutaṃ tathā), and to Mainda and Dvivida as well, [he declared]: “You five together with Jāmbavān (pañca jāmbavatā saha)—live on always until the age of Kali has arrived (yāvat kaliś ca samprāptas tāvaj jīvata sarvadā)!”
 </details>
 </details>
 
@@ -841,6 +1035,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक श्रीरामनु ब्रह्मदेवर पुत्र वृद्ध जाम्बवन्त हागू मैन्द - द्विविदरल्लि हेळिदनु-जाम्बवन्त सहित नीवु ऐदु मन्दिगळू (जाम्बवन्त, विभीषण, हनुमन्त, मैन्द, द्विविद) प्रळय मत्तु कलियुग बरुववरॆगॆ जीवितरागिरि. इवरल्लि हनुमन्त मत्तु विभीषणरादरो प्रळयकालदवरॆगॆ उळियुवरु. उळिद मूवरु कलि मत्तु द्वापरद सन्धिकालदल्लि श्रीकृष्णावतारद समय हतरादरु.॥36-37॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to them, Kākutstha addressed all those remaining bears and monkeys (sarvāṃs tān ṛkṣa-vānarān): “So be it—come with me even as you desire (bāḍhaṃ gacchadhvaṃ mayā sārdhaṃ yathepsitam)!”
 </details>
 </details>
 

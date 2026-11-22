@@ -71,6 +71,12 @@ having Lakshmana by his side; *kR^itvaa* = pressing; *tam maNim* = that jewel; *
 Hearing the words of Hanuma, Rama the son of Dasaratha, having Lakshmana by his side,
 pressing that jewel on his bosom, began to weep.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Hanūmān, Rāma, son of Daśaratha, placed that jewel upon his breast (hṛdaye kṛtvā) and wept (ruroda) together with Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +122,12 @@ with his eyes; *ashru puurNaabhyaam* = filled with tears; *abraviit* = spoke; *i
 
 Seeing that excellent jewel, Rama emaciated with grief, having his eyes filled with tears,
 spoke to Sugreeva as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that foremost of jewels (maṇiśreṣṭham), Rāghava, emaciated by grief (śokakarśitaḥ), spoke these words to Sugrīva with eyes brimming with tears (netrābhyām aśrupūrṇābhyām):
 </details>
 </details>
 
@@ -167,6 +179,12 @@ is affectionate towards her offspring; *sravati* = gushed forth milk (from her t
 her teats) due to her love at the very sight of her calf, so does my heart too melt through the sight
 of this excellent jewel."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Just as a fond cow (dhenuḥ... vatsalā) lets flow her milk out of tender affection for her calf (snehād vatsasya), even so does my heart melt (sravati) at the sight of this foremost of jewels!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -214,6 +232,12 @@ beautifying.
 "This excellent jewel was presented by my father-in-law to Seetha when she had become
 a bride and was tied to her head in such a way that it looked additionally beautifying."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This jewel-gem (maṇiratnam) was given to Vaidehī by my father-in-law (śvaśureṇa me) at the time of her bridal (vadhūkāle), and when bound upon her head (mūrdhni), it shone all the more (adhikaṃ... śobhate).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -257,6 +281,12 @@ tuShTena* = who was highly pleased; *yaJNe* = in Yajna sacrificial rite.
 "The jewel, which was found in the waters and recommended by the good, had been presented
 to him earlier by the intelligent Indra the lord of celestials, who was highly pleased in Yajna, a sacrificial
 rite (intended to propitiate him)."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this water-born jewel (jalasambhūto maṇiḥ), venerated by the noblest (pravarapūjitaḥ), was bestowed at a sacrifice (yajñe) by the wise Śakra [Indra], supremely pleased (paramatuṣṭena).”
 </details>
 </details>
 
@@ -308,6 +338,12 @@ Videha.
 "O gentle Sugreeva! Seeing now this excellent jewel, I am considering it as surely as
 obtaining the sight of my father as well as Janaka, the king of Videha."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding this foremost of jewels, O gentle one (saumya), I have today attained (adyāsmy avagataḥ), as it were, the very sight of my father (tātasya darśanam) and of the lord of Videha (vaidehasya tathā vibhoḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -356,6 +392,12 @@ _________________
 
 "This jewel indeed looks splendid on the head of my beloved Seetha. By seeing this now,
 I am considering as though I obtained the sight of Seetha herself."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this jewel of mine shines (śobhate) upon the head of my beloved (tasyāḥ priyāyā mūrdhni); by beholding it today (adyāsya darśanena), I fancy her as though she herself had arrived (prāptāṃ tām iva cintaye).”
 </details>
 </details>
 
@@ -406,6 +448,12 @@ Videha; *aaha* = said to you; *siNchanti* = sprinkling (me); *vaakya vaariNaa*
 "O gentle one! Repeat again and again, what Seetha the daughter of Videha's king said
 to you, sprinkling me with your stream of words, like offering water to a thirsty person."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What did Sītā Vaidehī say (kim āha sītā vaidehī)? Speak, O gentle one, again and again (punaḥ punaḥ), as she sprinkles me—who am well-nigh lifeless (parāsum iva)—with the water of her words (vākyavāriṇā) as though with water!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -454,6 +502,12 @@ _________________
 
 "O Lakshmana! What could be more painful than the fact that I am seeing this jewel found
 in waters, without the arrival of Seetha?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet what can be more sorrowful than this (itas tu kiṃ duḥkhataram), O Saumitri, that I behold this water-born jewel (vārisambhavaṃ maṇim) arrived here without Vaidehī (vaidehīm āgatāṃ vinā)?”
 </details>
 </details>
 
@@ -504,6 +558,12 @@ her dark eyes na jiiveyam = I cannot survive; *kShaNaam* = for even a moment.
 "O gentle one! If Seetha can survive for a month, it means that she is surviving for
 long. O gentle one! Without that black-eyed Seetha, I cannot survive for even a moment."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Long indeed will Vaidehī live (ciraṃ jīvati vaidehī) if she endures for a month (yadi māsaṃ dhariṣyati); as for me, O hero, I could not live even for a moment (kṣaṇaṃ... na jīveyam) without that dark-eyed lady (asitekṣaṇām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -549,6 +609,12 @@ pravR^ittim* = after getting the news (of her whereabouts).
 
 "Take me too to that place where my beloved Seetha has been seen. I cannot halt even
 for a moment, after receiving the news of her location."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Lead me also to that land (naya mām api taṃ deśam) where my beloved was seen! Having received her tidings (pravṛttim upalabhya), I cannot tarry even for an instant (na tiṣṭheyaṃ kṣaṇam api)!”
 </details>
 </details>
 
@@ -599,6 +665,12 @@ terrific; *ghoraaNaam* = and cruel?
 "How does Seetha, my virtuous wife with her charming limbs, who is very shy, stay all
 the time with demons who are terrific and cruel?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How does that fair-hipped (suśroṇī), chaste (satī) beloved of mine, timid even among the timid (bhīrubhīruḥ), abide then in the midst of terrible, fear-inspiring Rākṣasas (bhayāvahānāṃ ghorāṇāṃ... rakṣasām)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -648,6 +720,12 @@ shine; *saampratam* = at present.
 "Her countenance, surely like automnal moon, though liberated of darkness, but screened
 by clouds, does not shine at present."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely her face (vadanaṃ tasyāḥ), like the autumnal moon freed from darkness (śāradas timironmuktaḥ... candra iva) yet veiled by clouds (ambudaiḥ āvṛtaḥ), does not shine brightly now (na virājati sāmpratam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -696,6 +774,12 @@ kathaya = tell; *me* = me; *adya* = now; *tattvataH* = in truth; *jiiviSye khalu
 
 "O Hanuma! Tell me now, correctly what Seetha told you. I shall surely survive, by hearing
 her words, even as a sick man would with the help of a medicine."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What did Sītā say, O Hanūmān? Tell me truly (tattvataḥ kathayasva me)! By this indeed shall I live (etena khalu jīviṣye), like a sick man by medicine (bheṣajenāturo yathā)!”
 </details>
 </details>
 
@@ -755,6 +839,12 @@ having fine hips and has been separated from me, said to you."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि अरवत्तारनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What did my sweet (madhurā), sweet-voiced (madhurālāpā) lady of fair hips (varārohā) say when separated from me (madvihīnā), O Hanūmān? Tell me! Having fallen into sorrow more sorrowful than sorrow (duḥkhād duḥkhataraṃ prāpya), how does Jānakī survive?”
 </details>
 </details>
 

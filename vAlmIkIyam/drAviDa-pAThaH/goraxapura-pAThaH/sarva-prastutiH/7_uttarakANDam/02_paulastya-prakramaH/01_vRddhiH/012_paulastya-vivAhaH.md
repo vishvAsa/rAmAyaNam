@@ -36,6 +36,12 @@ title = "०१२ पौलस्त्य-विवाहः"
 
 (अगस्त्यरु हेळुत्तारॆ - श्रीरामा !) राक्षसेश्वर रावणनु पट्टाभिषेकवाद बळिक लङ्कापुरियल्लि इरतॊडगिदनु. आग सहोदरि शूर्पणखिय विवाहद चिन्तॆ उण्टायितु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consecrated as king (abhiṣiktas tu) along with his two brothers (bhrātṛbhyāṃ sahitas tadā), the lord of rākṣasas (rākṣasendraḥ) next pondered the marriage (pradānaṃ ... samacintayat) of his rākṣasa sister (rākṣasyā bhaginyāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०१२ पौलस्त्य-विवाहः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ रावणनु कालकॆय पुत्र दानवराज विज्युज्दिह्वनिगॆ तन्न तङ्गिय मदुवॆ माडिकॊट्टनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He gave his rākṣasa sister (svasāraṃ ... rākṣasīm), Śūrpaṇakhā by name (śūrpaṇakhāṃ nāma), to the Kālakeya lord of Dānavas (kālakeyāya dānavendrāya) known by the name Vidyujjihva (vidyujjihvāya nāmataḥ).
 </details>
 </details>
 
@@ -98,6 +110,14 @@ _________________
 
 श्रीरामा! तङ्गिय मदुवॆ माडि रावणनु ऒन्दु दिन बेटॆगागि काडिनल्लि तिरुगाडुत्तिद्दनु. अल्लि अवनु दितिपुत्र मयनन्नु नोडिदनु. अव नॊन्दिगॆ ओर्व सुन्दरि कन्यॆयू इद्दळु. अवनन्नु नोडि दशग्रीवनु केळिदनु - नीवु यारु? निर्जन वनवाद ई शून्यवनदल्लि अलॆयुत्तिरुवॆयल्ल! ई मृगनयनी कन्यॆय जॊतॆगॆ नीवु इल्लि याव उद्देशदिन्द वासिसुत्तिरुवॆ.॥3-4½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** Then, having himself bestowed her (dattvā svayam), that rākṣasa wandered about hunting (mṛgayām aṭate sma tat); and there, O Rāma, he beheld a son of Diti named Maya (mayaṃ nāma diteḥ sutam).
+
+**4:** Seeing him accompanied by a maiden (kanyā-sahāyaṃ taṃ dṛṣṭvā), the night-roamer Daśagrīva (daśagrīvo niśācaraḥ) asked: “Who are you, standing alone (ko bhavān ekaḥ) in this forest empty of men and beasts (nirmanuṣya-mṛge vane)? And for what purpose do you abide here with this fawn-eyed girl (anayā mṛgaśāvākṣyā kimarthaṃ saha tiṣṭhasi)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +142,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामा! हीगॆ केळिद आ निशाचरनल्लि मयनु हेळुत्तानॆ - नानु नन्न ऎल्ल वृत्तान्तवन्नु यथार्थवागि तिळिसुत्तेनॆ, केळु.॥5½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Maya thereupon spoke thus, O Rāma (mayas tathābravīd rāma), to that questioning night-roamer: “Listen (śrūyatām), I shall recount in full (sarvam ākhyāsye) all that has happened to me exactly as it befell (yathāvṛttam idaṃ mama).
 </details>
 </details>
 
@@ -166,6 +192,18 @@ _________________
 
 अय्या! स्वर्गदलि हेमा ऎम्ब प्रसिद्ध अप्सरॆ इद्दळॆन्दु, नीनु हिन्दॆ ऎन्दादरू केळिरबहुदु. प्रलोम दानवन कन्यॆ शचियन्नु देवेन्द्रनिगॆ कॊट्टन्तॆ, देवतॆगळु आकॆयन्नु ननगॆ अर्पिसिद्दरु. नानु आकॆयल्लि आसक्तनागि ऒन्दु साविरवर्ष आकॆयॊन्दिगॆ इद्दॆ. ऒन्दु दिन अवळु देवतॆगळ कार्यक्कागि स्वर्गक्कॆ होदळु, आगिनिन्द हदिनाल्कु वर्ष कळॆयितु. नानु आ हेमळिगागि मायॆयिन्द ऒन्दु नगरवन्नु पूर्ण बङ्गारदिन्द निर्मिसिद्दॆ. नील, वज्रगळिन्द अदु विचित्रवागि शोभिसुत्तित्तु. अदरल्ले नानु इष्टरवरॆगॆ आकॆय वियोगदिन्द अत्यन्त दीन, दुःखियागि इरुत्तिद्दॆ.॥6-9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** “There is an apsaras named Hemā, O dear one (hemā nāmāpsarās tāta), if perchance you have heard of her before (śrutapūrvā yadi tvayā); she was bestowed upon me by the gods (daivatair mama sā dattā), even as Paulomī was given to Indra of a hundred sacrifices (paulomīva śatakratoḥ).
+
+**7:** “Devoted to her with all my heart, O dear one (tasyāṃ saktamanās tāta), I passed five hundred years (pañca-varṣa-śatāny aham); then she departed on an errand of the gods (sā ca daivata-kāryeṇa), and thirteen years have elapsed since (trayodaśa samā gatāḥ)—
+
+**8:** “And now the fourteenth year has passed as well (varṣaṃ caturdaśaṃ caiva). Thereafter a city wrought of gold (hemamayaṃ puram), adorned with diamonds and cat’s-eye gems (vajra-vaiḍūrya-citram), was fashioned by me through my wondrous skill (māyayā nirmitaṃ mayā); there I dwelt wretched (tatrāham avasaṃ dīnaḥ), bereft of her and deeply grieved (tayā hīnaḥ suduḥkhitaḥ).
+
+**9:** “Taking my daughter from that city (tasmāt purād duhitaraṃ gṛhītvā), I have come into this forest (vanam āgataḥ). This is my own daughter, O King (iyaṃ mamātmajā rājan), nurtured within her womb (tasyāḥ kukṣau vivardhitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +232,12 @@ _________________
 
 अदे नगरदिन्द ई कन्यॆयॊन्दिगॆ नानु वनक्कॆ बन्दिद्देनॆ. राजने! इवळु नन्न मगळु, हेमाळ गर्भदिन्द हुट्टि नन्निन्द पालिसल्पट्टिरुवळु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Together with her I have come hither to search for a husband for her (bhartāram ... asyāḥ prāpto ’smi mārgitum); for fatherhood of a daughter is truly a sorrow (kanyā-pitṛtvaṃ duḥkhaṃ hi) for all who cherish honor (sarveṣāṃ māna-kāṅkṣiṇām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -221,6 +265,12 @@ _________________
 
 ईकॆयॊन्दिगॆ इवळिगॆ योग्यपतियन्नु हुडुकुत्ता बन्दिरुवॆनु. सामान्यवागि कन्यापितृत्व कष्टकारकवागिरुत्तदॆ. (एकॆन्दरॆ कन्यॆय तन्दॆयु बेरॆयवर मुन्दॆ तलॆबागबेकागुत्तदॆ) कन्यॆयु सदा ऎरडु कुलगळन्नु संशयदल्लॆ हाकुवळु.॥11½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For a maiden ever keeps two families suspended in uncertainty (kanyā hi dve kule nityaṃ saṃśaye sthāpya tiṣṭhati). Two sons as well (putra-dvayam) were born to me from this very wife (mamāpy asyāṃ bhāryāyāṃ sambabhūva ha):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -245,6 +295,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अय्या! नन्न भार्यॆ हेमाळिन्द मायावी मत्तु दुन्दुभि ऎम्ब इब्बरु गण्डुमक्कळू हुट्टिरुवरु.॥12½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Māyāvī was the first, O dear one (māyāvī prathamas tāta), and Dundubhi was born next after him (dundubhis tadanantaraḥ). Thus has everything been recounted truthfully (yāthātathyena) to you who asked (pṛcchataḥ).
 </details>
 </details>
 
@@ -274,6 +330,12 @@ _________________
 
 अय्या! नीनु केळिद्दरिन्द नन्न ऎल्ल वृत्तान्तवन्नु यथार्थवागि तिळिसिद्देनॆ. नीनु यारु? ऎन्दु तिळियलु नानु बयसुत्तेनॆ.॥13½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now how, O dear one, may I know you (tvām idānīṃ kathaṃ tāta jānīyām)—who are you (ko bhavān iti)?” Addressed thus, that rākṣasa spoke these courteous words (vinītam idam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -300,6 +362,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मयासुरनु हीगॆ केळिदाग रावणनु विनीतवागि हेळिदनु - नानु पुलस्त्यन पुत्र विश्रवस्सुविन मगनागिद्देनॆ. विश्रवस्सुविनिन्द हुट्टिद नानु ब्रह्मदेवरिन्द मूरनॆयवनागिद्देनॆ. नन्न हॆसरु रावणनॆन्दु.॥14-15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “I am the son of Paulastya (ahaṃ paulastya-tanayaḥ), Daśagrīva by name (daśagrīvaś ca nāmataḥ)—son of the sage Viśravas (muner viśravasaḥ), who was the third in descent from Brahmā (yas tu tṛtīyo brahmaṇo ’bhavat).”
+
+**15:** Addressed thus by the lord of rākṣasas, O Rāma (evam uktas tadā rāma rākṣasendreṇa), that Dānava Maya, recognizing him as the son of a great sage (maharṣes tanayaṃ jñātvā), was filled with delight (harṣam upāgataḥ), and right then was well pleased to bestow his daughter upon him (dātuṃ duhitaraṃ tasmai rocayām āsa).
 </details>
 </details>
 
@@ -328,6 +398,12 @@ _________________
 
 श्रीरामा! राक्षसेश्वरनु हीगॆ हेळिदाग दानव मयनु महर्षि विश्रवस्सुविन आ पुत्रन परिचय पडॆदु बहळ सन्तोषगॊण्डु तन्न मगळ मदुवॆयन्नु आतनॊन्दिगॆ माडिकॊडलु इच्छिसिदनु.॥16½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Maya, foremost of Daityas (daityendraḥ), placing her hand into his hand (kareṇa tu karaṃ tasyā grāhayitvā), smiled cheerfully (prahasan) and addressed these words to the lord of rākṣasas:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -352,6 +428,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक दैत्यराज मयनु तन्न पुत्रिय कैयन्नु रावणन कैयल्लिट्टुकॊट्टु नगुत्ता आ राक्षस राजनल्लि इन्तॆन्दनु.॥17½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is my own daughter, O King (iyaṃ mamātmajā rājan), borne by the apsaras Hemā (hemayā ’psarasā dhṛtā); accept this maiden named Mandodarī (kanyā mandodarī nāma) as your wife (patnyarthaṃ pratigṛhyatām)!”
 </details>
 </details>
 
@@ -378,6 +460,12 @@ _________________
 
 राजने! अप्सरॆय गर्भदल्लि धरिसिद ईकॆ नन्न मगळागिद्दाळॆ. इवळ हॆसरु मण्डोदरी. ईकॆयन्नु नीनु तन्न पत्नियागिसि स्वीकरिसु.॥18½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So be it!” (bāḍham ity eva), O Rāma, Daśagrīva replied to him (daśagrīvo ’bhyabhāṣata); and kindling the sacred fire right there (prajvālya tatra caivāgnim), he duly performed the wedding rite of taking her hand (akarot pāṇi-saṅgraham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,6 +491,12 @@ _________________
 
 श्रीरामा! आग दशग्रीवनु ‘हागे आगलि’ ऎन्दु हेळि मयासुरन मातन्नु ऒप्पिकॊण्डनु. मत्तॆ अल्लि अग्नियन्नु स्थापिसि मन्दॊदरिय पाणिग्रहण माडिदनु.॥19½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For Maya, O Rāma, was indeed aware (sa hi ... mayo rāma ... abhijñaḥ) of the curse pronounced by that ascetic [Viśravas] (śāpābhijñas tapodhanāt); yet knowing his grandfather’s illustrious lineage (viditvā ... tasya paitāmahaṃ kulam), he bestowed her upon him (tena sā dattā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -427,6 +521,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन ! तपोधन विश्रवसनिन्द रावणनिगॆ क्रूरप्रकृतियवनागु ऎन्दु शपिसिद्दुदु मयासुर तिळिदिद्द; आदरू रावणनु ब्रह्मदेवर कुलद बालकनॆन्दु अवनिगॆ तन्न कन्यॆयन्नु कॊट्टिद्दनु.॥20½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He also bestowed upon him (tasya ... pradadau) an unfailing, exceedingly wondrous spear (amoghāṃ ... śaktiṃ ... paramādbhutām), won through supreme austerity (pareṇa tapasā labdhām)—the very weapon with which Rāvaṇa struck down Lakṣmaṇa (jaghnivāṃl lakṣmaṇaṃ yayā).
 </details>
 </details>
 
@@ -456,6 +556,12 @@ _________________
 
 जॊतॆगॆ उत्तम तपस्सिनिन्द प्राप्तवाद ऒन्दु परमाद्भुत अमोघ शक्तियन्नु पडॆदिद्दनु. अदरिन्द रावणनु लक्ष्मणनन्नु गायगॊळिसिद्दनु.॥21½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus taken a wife (evaṃ sa kṛtadāro vai), that mighty sovereign of Laṅkā (laṅkāyā īśvaraḥ prabhuḥ) returned to his city (gatvā tu nagarīm) and procured brides for his two brothers (bhārye bhrātṛbhyāṃ samupāharat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -480,6 +586,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ विवाह माडिकॊण्डु प्रभावशाली लङ्केश्वर रावणनु लङ्कॆगॆ तॆरळि, तन्न इब्बरू तम्मन्दिरिगॆ मदुवॆ माडि इब्बरू पत्नियरन्नु करॆदुकॊण्डु बन्दनु.॥22½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The granddaughter of Vairocana [Bali] (vairocanasya dauhitrīm), known by the name Vajrajvālā (vajrajvāleti nāmataḥ)—her did Rāvaṇa appoint as wife for Kumbhakarṇa (tāṃ bhāryāṃ kumbhakarṇasya rāvaṇaḥ samakalpayat).
 </details>
 </details>
 
@@ -506,6 +618,12 @@ _________________
 
 विरोचनकुमार बलिय मॊम्मगळु वज्रज्वाला ऎम्बुवळन्नु कुम्भकर्णनिगागि पत्नियागिसिदनु.॥23½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Vibhīṣaṇa obtained as his wife (lebhe bhāryāṃ vibhīṣaṇaḥ) the righteous-minded maiden named Saramā (saramāṃ nāma dharmajñām), daughter of the high-souled Gandharva king Śailūṣa (gandharva-rājasya sutāṃ śailūṣasya mahātmanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +648,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 गन्धर्वराज महात्मा शैलूषन कन्यॆ सरमॆयन्नु धर्मज्ञनाद विभीषणनिगॆ मदुवॆ माडिदनु.॥24½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She was born, indeed, upon the shore of Lake Mānasa (tīre tu saraso vai ... sañjajñe mānasasya hi); and just then Lake Mānasa swelled high (saras tadā mānasaṃ tu vavṛdhe) at the arrival of the rain-clouds (jaladāgame).
 </details>
 </details>
 
@@ -560,6 +684,14 @@ _________________
 
 आ सरमॆयु मानस सरोवरद तीरदल्लि हुट्टिद्दळु. अवळु हुट्टुवाग वर्षाऋतुवि निन्दागि मानस सरोवर उक्कतॊडगितु. आग ई कन्यॆय तायि सरोवरदल्लि बेडिकॊण्डळु - ‘सरोमा वर्धयस्व’ (हे सरोवरवे ! नीनु बॆळॆयबेड) ऎन्दु हेळबेकागित्तु, आदरॆ गाबरियिन्द ‘सरः मा’ ऎन्दु हेळिदळु. अदरिन्द आ कन्यॆय हॆसरु सरमा ऎन्दायितु.॥25-26½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** Out of maternal tenderness (snehena), that infant girl’s mother cried out these distressed words (ākranditaṃ vacaḥ): “O lake, do not swell!” (saro mā vardhayasveti)—and from that utterance she became known as Saramā (tataḥ sā saramā ’bhavat).
+
+**26:** Thus wedded (evaṃ te kṛtadārā vai), those rākṣasas sported joyfully there (remire tatra rākṣasāḥ), each delighting with his own wife (svāṃ svāṃ bhāryām upāgamya), like Gandharvas in Indra’s Nandana grove (gandharvā iva nandane).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -588,6 +720,12 @@ _________________
 
 हीगॆ आ मूवरू राक्षसरु विवाहितरागि तम्म- तम्म पत्नियरॊन्दिगॆ नन्दनवनदल्लि विहरिसुव गन्धर्वरन्तॆ लङ्कॆयल्लि रमिसतॊडगिदरु.॥27½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereafter Mandodarī brought forth a son, Meghanāda (putraṃ meghanādam ajījanat)—this very one is he who is spoken of by you all under the name Indrajit (sa eṣa indrajin-nāma yuṣmābhir abhidhīyate)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,6 +750,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर कॆल कालदल्लि मन्दोदरियु मेघनादनिगॆ जन्मवित्तळु, अवनन्नु जनरु इन्द्रजितु ऎन्दू करॆयुत्तिद्दरु.॥28½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For in former days, the moment he was born (jātamātreṇa hi purā), that weeping son of Rāvaṇa (rudatā ... rāvaṇa-sūnunā) let forth a mighty cry resembling a thundercloud (sumahān mukto nādo jaladharopamaḥ).
 </details>
 </details>
 
@@ -638,6 +782,12 @@ _________________
 
 आ रावणपुत्रनु हुट्टुत्तले अळुवाग मेघदन्तॆ गम्भीर नाद माडिद्दनु.॥29½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And all Laṅkā was stunned into numbness by that roar of his, O Rāghava (jaḍīkṛtā ca sā laṅkā tasya nādena rāghava); thereupon his father himself gave him the name Meghanāda (pitā tasyākaron nāma meghanāda iti svayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -662,6 +812,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! आ मेघदन्तह नाददिन्द इडी लङ्कॆ जडदन्तॆ स्थब्दवागित्तु; अदरिन्द रावणने स्वतः अवन हॆसरु मेघनादनॆन्दु इट्टनु.॥30½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He grew up there, O Rāma (so ’vardhata tadā rāma), within Rāvaṇa’s auspicious inner palace (rāvaṇāntaḥpure śubhe), watched over by noble women (rakṣyamāṇo varastrībhiḥ), like a fire concealed beneath firewood (channaḥ kāṣṭhair ivānalaḥ), bringing boundless joy to his mother and father (mātāpitror mahāharṣaṃ janayan rāvaṇātmajaḥ).
 </details>
 </details>
 

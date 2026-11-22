@@ -88,6 +88,14 @@ While the waters of Ganga are inundating those ashes, oh, Rama, then
  Brahma, the lord of all worlds, indeed spoke this to the king Bhageeratha.
  [1-44-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Reaching the ocean (gatvā sāgaram), that king, followed by Gaṅgā (gaṅgayānugatas tadā), entered the subterranean depths of the earth (praviveśa talaṃ bhūmeḥ) where those sons of Sagara had been reduced to ashes (yatra te bhasmasātkṛtāḥ).
+
+**2:** When the ashes were inundated (bhasmany athāplute), O Rāma, by the waters of Gaṅgā (gaṅgāyāḥ salilena vai), Brahmā, the Lord of all the worlds (sarvalokaprabhur brahmā), spoke these words to the king:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -130,6 +138,12 @@ While the waters of Ganga are inundating those ashes, oh, Rama, then
 Oh, tigerly-man Bhageeratha, the sixty thousands sons of great souled
  Sagara have crossed over the sea of mortality, and on a par with the
  gods they have also transited to heaven. [1-44-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Delivered from their spectral state (tāritāḥ), O tiger among men (naraśārdūla), the sixty thousand sons of the high-souled Sagara (ṣaṣṭiḥ putrasahasrāṇi sagarasya mahātmanaḥ) have ascended to heaven like gods themselves (divaṃ yātāś ca devavat).
 </details>
 </details>
 
@@ -174,6 +188,12 @@ _________________
 
 As long as the water of the ocean abides in the world, oh, king,
  so long the sons of Sagara will abide in heaven like gods. [1-44-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So long as the waters of the ocean shall endure in the world (sāgarasya jalaṃ loke yāvat sthāsyati), O lord of earth (pārthiva), all the sons of Sagara shall abide in heaven like the celestials (divi sthāsyanti devavat).
 </details>
 </details>
 
@@ -222,6 +242,12 @@ This Ganga will become your eldest daughter and hereafter she will
 
 Otherwise, 'by your fatherhood she will be called Bhaageerathi and your
  names becomes her surname.'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And this Gaṅgā shall become your eldest daughter (iyaṃ ca duhitā jyeṣṭhā tava gaṅgā bhaviṣyati), and she shall endure in the world renowned by the name derived from your own deed (tvatkṛtena ca nāmnātha loke sthāsyati viśrutā).
 </details>
 </details>
 
@@ -275,6 +301,12 @@ Henceforth heavenly Ganga will be renowned as 'Triple-path-cruiser'
  'heaven, earth and netherworld' she will be remembered as the traveller
  on triple path. [1-44-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This divine Gaṅgā shall be called Tripathagā and Bhāgīrathī (gaṅgā tripathagā nāma divyā bhāgīrathīti ca); because she sanctifies and courses through the three paths (trīn patho bhāvayantīti), she is remembered as Tripathagā (tasmāt tripathagā smṛtā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,6 +349,12 @@ Henceforth heavenly Ganga will be renowned as 'Triple-path-cruiser'
 You may now offer water-oblations to all of your forefathers in the
  waters of Ganga, oh, king, the lord of people, thus you may fulfil and
  do away with the pledge of your requiescat. [1-44-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here in these waters, O lord of men (tvam atra manujādhipa), perform the funeral water-libation for all your grandfathers (pitāmahānāṃ sarveṣāṃ kuruṣva salilam), O King, and bring your solemn pledge to completion (pratijñām apavarjaya).
 </details>
 </details>
 
@@ -361,6 +399,12 @@ Your ancestor Sagara is a highly glorious one and a best one
  among righteous persons, oh, king, even then he has not achieved this
  aspiration of alighting Ganga in his lifetime, but you have achieved
  it. [1-44-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even by that ancestor of yours of exceeding renown (pūrvakeṇa hi te rājaṃs tenātiyaśasā tadā), the foremost of the righteous (dharmiṇāṃ pravareṇātha), this cherished desire was not attained (naiṣa prāpto manorathaḥ).
 </details>
 </details>
 
@@ -408,6 +452,14 @@ Your ancestor Sagara is a highly glorious one and a best one
 Like that, your grandfather Amshuman, who is unequalled in his resplendence
  in this world and who had been praying for the descent of Ganga, he
  also could not dispense with this vow on fulfilling it. [1-44-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** “So too by Aṃśumān, O dear one (tathaivāṃśumatā tāta), of peerless splendour in the world (loke ’pratimatejasā), though he prayed and strove to lead Gaṅgā hither (gaṅgāṃ prārthayatā netum), that pledge could not be brought to fulfilment (pratijñā nāpavarjitā).
+
+**10:** “And by the royal sage endowed with noble virtues (rājarṣiṇā guṇavatā), equal in splendour to the great sages (maharṣisamatejasā), equal to myself in austerity (mattulyatapasā caiva), and steadfast in Kṣatriya dharma (kṣatradharmasthitena ca)—
 </details>
 </details>
 
@@ -463,6 +515,12 @@ Oh, impeccable Bhageeratha, even by the kingly-sage Dileepa whose
 The content of verse 10 at times will be attributed to verse 9, viz.,
  to Amshuman, rather than to Dileepa.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even by your father Dilīpa of exceeding radiance (dilīpena mahābhāga tava pitrātitejasā), O sinless and illustrious one, though he repeatedly prayed to bring Gaṅgā down (punar na śaṅkitā netuṃ gaṅgāṃ prārthayatānagha), she could not even be conceived of as won.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -504,6 +562,12 @@ The content of verse 10 at times will be attributed to verse 9, viz.,
 But, you have accomplished that pledge, oh, the best one among men,
  and in the world you have achieved highest renown which is highly adorable
  by all. [1-44-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That very pledge has been fully accomplished by you (sā tvayā samatikrāntā pratijñā), O bull among men (puruṣarṣabha), and you have attained supreme renown in the world, honoured by the highest (prāpto ’si paramaṃ loke yaśaḥ paramasaṃmatam).
 </details>
 </details>
 
@@ -547,6 +611,12 @@ That 'Descent of Ganga' is perfected by you, oh, enemy-represser,
  and by this you have acquired a genuine basis for righteousness in this
  world, and thereby a base for yourself in my world, namely Abode of
  Brahma. [1-44-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And through this descent of Gaṅgā accomplished by you (tac ca gaṅgāvataraṇaṃ tvayā kṛtam), O tamer of foes (ariṃdama), you have attained the supreme abode of dharma (anena ca bhavān prāpto dharmasyāyatanaṃ mahat).
 </details>
 </details>
 
@@ -600,6 +670,12 @@ The waters of other rivers have a blemish called *rajasvala doSa*
  because it is perennial, hence her is sanctifying. Some more details
  are given in endnote of this chapter.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bathe yourself, O best of men (plāvayasva tvam ātmānaṃ narottama), in this ever-fitting water (sadocite salile), O foremost of men (puruṣaśreṣṭha); become pure and enjoy the fruit of holy merit (śuciḥ puṇyaphalo bhava).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -643,6 +719,12 @@ The waters of other rivers have a blemish called *rajasvala doSa*
  go to my abode and you too may depart to yours.' Thus Brahma said to
  Bhageeratha. [1-44-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Perform the water-libation for all your grandfathers (pitāmahānāṃ sarveṣāṃ kuruṣva salilakriyām). May all be well with you—I shall now depart to my own world; do you also return to your capital, O King (svaṃ lokaṃ gamyatāṃ nṛpa)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -684,6 +766,12 @@ The waters of other rivers have a blemish called *rajasvala doSa*
 On saying in this way, the forefather of all the worlds, and the great
  glorious lord of all gods, namely Brahma, went away to his empyrean
  world as he has came. [1-44-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the Lord of the gods, the Grandsire of all the worlds (deveśaḥ sarvalokapitāmahaḥ), of glorious renown, returned to the celestial realm just as he had come (yathāgataṃ tathāgacchad devalokaṃ mahāyaśāḥ).
 </details>
 </details>
 
@@ -743,6 +831,14 @@ On according those best water-oblations that endow superior realms
  achieved, and oh, outstanding man Rama, thus that king Bhageeratha ruled
  his kingdom well. [1-44-17, 18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** Then the royal sage Bhagīratha of great renown, having offered the supreme water-libation (kṛtvā salilam uttamam) to the sons of Sagara in due order of seniority and according to sacred ordinance (yathākramaṃ yathānyāyaṃ sāgarāṇāṃ mahāyaśāḥ)—
+
+**18:** Having completed the obsequial water-rites and become ritually pure (kṛtodakaḥ śucī rājā), the king entered his own city (svapuraṃ praviveśa ha); with his purpose richly fulfilled, O best of men, he ruled his kingdom (samṛddhārtho naraśreṣṭha svarājyaṃ praśaśāsa ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -790,6 +886,12 @@ On regaining him as their king the subjects of the kingdom are overjoyed,
  as his purpose is achieved and he is happy when devoid of haunting grief
  of getting Ganga to earth. [1-44-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having regained that monarch, O Rāghava, the people rejoiced exceedingly (pramumoda ca lokas taṃ nṛpam āsādya rāghava); their grief dispelled and their prosperity restored, they became free of all feverish anxiety (naṣṭaśokaḥ samṛddhārtho babhūva vigatajvaraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -833,6 +935,12 @@ Oh, Rama, this way I described to you about 'The Decent of Ganga' in
  elapsing no more questions from you for now, and let us meditate on
  Gayatri. But listen to the fruits of listening the legend of *
  ganga avataraNa,* 'The Descent of Ganga' [1-44-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus, O Rāma, the full account of Gaṅgā has been narrated to you by me (eṣa te rāma gaṅgāyā vistaro ’bhihito mayā). Attain auspiciousness—may all be well with you—for the hour of twilight is now drawing past (saṃdhyākālo ’tivartate).
 </details>
 </details>
 
@@ -884,6 +992,14 @@ This legend is conducive to achieve prosperity, fame, longevity, progeny
  he is from Brahmans or from Kshatriya-s, or for that matter of fact
  from any other class, his manes will be satisfied, and gods too will
  be gladdened. [1-44-21, 22a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “Bestowing wealth, renown, long life, progeny, and heaven too (dhanyaṃ yaśasyam āyuṣyaṃ putryaṃ svargyam athāpi ca)—whoever causes this account to be heard among Brāhmaṇas, Kṣatriyas, and the other orders (yaḥ śrāvayati vipreṣu kṣatriyeṣv itareṣu ca),
+
+**22:** “His ancestors are gratified and the deities too are pleased (prīyante pitaras tasya prīyante daivatāni ca). This auspicious and life-bestowing narrative of the Descent of Gaṅgā (idam ākhyānam āyuṣyaṃ gaṅgāvataraṇaṃ śubham)—
 </details>
 </details>
 
@@ -941,6 +1057,12 @@ This legend is conducive to achieve prosperity, fame, longevity, progeny
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तनाल्कनॆय सर्ग पूर्णवायितु. ॥44॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And whoever listens to it, O Kākutstha, shall obtain all cherished desires (yaḥ śṛṇoti ca kākutstha sarvān kāmān avāpnuyāt); all his sins perish utterly (sarve pāpāḥ praṇaśyanti), and his span of life and renown increase (āyuḥ kīrtiś ca vardhate).”
 </details>
 </details>
 

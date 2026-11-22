@@ -34,6 +34,12 @@ title = "०१८ मरुत्त-पराजयः"
 
 (अगस्त्यरु हेळुत्तारॆ - रघुनन्दन!) वेदवतियु अग्नियल्लि प्रवेशिसिद बळिक रावणनु पुष्पक विमानारूढनागि पृथिवियल्लि सञ्चरिसतॊडगिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Vedavatī had entered the sacrificial fire (praviṣṭāyāṃ hutāśaṃ tu vedavatyām), that Rāvaṇa ascended Puṣpaka (puṣpakaṃ tu samāruhya) and roamed once more across the earth (paricakrāma medinīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -58,6 +64,12 @@ title = "०१८ मरुत्त-पराजयः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदे यात्रॆयल्लि उशीरबीज ऎम्ब देशक्कॆ होगि रावणनु नोडिदनु - राजा मरुत्तनु देवतॆगळॊन्दिगॆ कुळितु यज्ञ माडुत्तिद्दानॆ.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, arriving at the region of Uśīrabīja (uśīrabījam āsādya), Rāvaṇa beheld King Marutta (maruttaṃ nṛpatim) performing a sacrifice in the company of the gods (yajantaṃ saha daivataiḥ).
 </details>
 </details>
 
@@ -84,6 +96,12 @@ title = "०१८ मरुत्त-पराजयः"
 
 आग साक्षात् बृहसुतिय तम्मनु हागू धर्मद मर्मज्ञ महर्षि संवर्तनु समस्त देवतॆगळिन्द सुत्तुवरॆदु यज्ञ माडिसुत्तिद्दनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A brahmarṣi named Saṃvarta (saṃvarto nāma brahmarṣiḥ), the full brother of Bṛhaspati (sākṣād bhrātā bṛhaspateḥ) and knower of dharma (dharmajñaḥ), was officiating at the sacrifice (yājayām āsa), surrounded by all the hosts of gods (sarvair devagaṇair vṛtaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -108,6 +126,12 @@ title = "०१८ मरुत्त-पराजयः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मदेवर वरदिन्द जयिसलु कठिणनाद राक्षस रावणनन्नु अल्लि नोडि, अवन आक्रमणद भयदिन्द देवतॆगळु तिर्यग्योनि (पक्षि)यल्लि प्रवेशिसिदरु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that rākṣasa, unconquerable by virtue of his boon (varadānena durjayam), the gods, fearful even of meeting his gaze (tasya darśana-bhīravaḥ), entered into animal wombs (tiryag-yoniṃ samāviṣṭāḥ).
 </details>
 </details>
 
@@ -137,6 +161,12 @@ _________________
 
 इन्द्रनु नविलु, धर्मराज कागॆ, कुबेरनु ओतिक्यात, वरुण हंसनादनु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indra became a peacock (indro mayūraḥ saṃvṛttaḥ), Dharmarāja [Yama] a crow (dharmarājas tu vāyasaḥ), the Lord of Wealth [Kubera] a chameleon (kṛkalāso dhanādhyakṣaḥ), and Varuṇa became a wild swan (haṃsaś ca varuṇo ’bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +195,12 @@ _________________
 
 शत्रुसूदन श्रीरामा! हीगॆ इतर देवतॆगळू कूड विभिन्न रूपगळल्लि स्थितरादाग रावणनु आ यज्ञ मण्टपवन्नु अपवित्र नायि हॊक्कन्तॆ प्रवेशिसिदनु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the other gods too had departed in this same manner (anyeṣv api gateṣv evaṃ deveṣu), O slayer of foes (ariniṣūdana), Rāvaṇa entered the sacrifice (prāviśad yajñam) like an impure hound (sārameya ivāśuciḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +225,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजा मरुत्तन बळिगॆ होगि राक्षसाधिप रावणनु हेळिदनु - नन्नॊन्दिगॆ युद्ध माडु इल्लवॆ, नानु पराजितनादॆ ऎन्दु हेळु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching that king, Rāvaṇa, overlord of the rākṣasas (rāvaṇo rākṣasādhipaḥ), declared: “Grant me battle (yuddhaṃ prayaccha), or else declare ‘I am vanquished’ (nirjito ’smīti vā vada)!”
 </details>
 </details>
 
@@ -215,6 +257,12 @@ _________________
 
 आग राजा मरुत्तनु केळिदनु - नीनु यारु? अदन्नु केळि रावणनु नक्कु नुडिदनु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon King Marutta said to him, “Who are you (ko bhavān)?” Letting out a derisive laugh (apahāsaṃ tato muktvā), Rāvaṇa then spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -239,6 +287,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भूपाला! नानु कुबेरन तम्म रावणनागिद्देनॆ. हीगिद्दरू नीनु नन्नन्नु तिळियुत्तिल्ल. नन्नन्नु नोडियू निनगॆ कुतूहल, भयवागलिल्ल. इदरिन्द नानु निन्न मेलॆ बहळ प्रसन्ननागिद्देनॆ.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am delighted with your unawed indifference, O lord of earth (akutūhala-bhāvena prīto ’smi tava pārthiva), that you do not recognize me—Rāvaṇa, the younger brother of the Giver of Wealth (dhanadasyānujaṃ ... rāvaṇam)!
 </details>
 </details>
 
@@ -265,6 +319,12 @@ _________________
 
 मूरु लोकगळल्लि नीनल्लदॆ नन्न बलवन्नु तिळियद राजा बेरॆ यारु इरबहुदु. अण्णनाद कुबेरनन्नु गॆद्दु ई विमानवन्नु कित्तुकॊण्ड रावण नाने आगिद्देनॆ.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who else exists across the three worlds (triṣu lokeṣu ko ’nyo ’sti) who does not know my might (yo na jānāti me balam), by whom my brother was conquered and this aerial car carried off (bhrātaraṃ yena nirjitya vimānam idam āhṛtam)?” Then that king Marutta addressed Rāvaṇa thus:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,6 +350,12 @@ _________________
 
 आग राजा मरुत्तनु रावणनल्लि हेळिदनु- तन्न अण्णनन्नु युद्धदल्लि गॆद्दिरुव नीनु धन्यनागिरुवॆ.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Blessed indeed are you (dhanyaḥ khalu bhavān), by whom an elder brother was conquered in battle (yena jyeṣṭho bhrātā raṇe jitaḥ)! No one as praiseworthy as you (na tvayā sadṛśaḥ ślādhyaḥ) exists in all the three worlds!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -314,6 +380,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निन्नन्तह श्लाघ्यनु मूरु लोकगळल्लि बेरॊब्बनिरलारनु. नीनु हिन्दॆ याव शुद्धवाद धर्मवन्नु आचरिसि वरवन्नु पडॆदिरुवॆ.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“No deed bound up with unrighteousness is praiseworthy (nādharma-sahitaṃ ślādhyam) or esteemed throughout the world (tal lokaṃ pratisaṃhitam); having committed an act of sheer wickedness (karma daurātmyakaṃ kṛtvā), you boast of conquering your own brother (ślāghyase bhrātṛ-nirjayāt)!
 </details>
 </details>
 
@@ -342,6 +414,12 @@ _________________
 
 नीनु हेळुत्तिरुव मातुगळन्नु नानु हिन्दॆ केळिये इल्ल. दुर्बुद्धियवने! युद्ध सन्नद्धनागि निल्लु. नन्न कैयिन्द जीवन्तनागि होगलारॆ. इन्दे नन्न हरितवाद बाणगळिन्द कॊन्दु यमसदनक्कॆ कळिसुवॆनु.॥13½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What pure dharma did you formerly practice (prāk kevalaṃ dharmaṃ caritvā) to obtain your boon (labdhavān varam)? Never before have I heard (śrutapūrvaṃ hi na mayā) such words as you yourself now utter (bhāṣase yādṛśaṃ svayam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -367,6 +445,12 @@ _________________
 
 बळिक मरुत्तनु धनुर्बाणगळन्नु धरिसि रोषावेशदिन्द युद्धक्कॆ हॊरटनु. आदरॆ महर्षि संवर्तनु अवन दारियन्नु तडॆदनु.॥14½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Stand fast now—you shall not depart alive from me, O evil-minded wretch (na me jīvan pratiyāsyasi durmate)! This very day I shall dispatch you with keen shafts (niśitair bāṇaiḥ) to the abode of Yama (preṣayāmi yamakṣayam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -391,6 +475,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ महर्षियु मरुत्तनल्लि स्नेहदिन्द हेळिदनु - राजा! नन्न मातन्नु केळि. अदन्नु गमनिसुवुदु उचितवॆन्दु तिळिदरॆ केळु, नीनु युद्ध माडुवुदु उचितवल्ल.॥15½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, seizing his bow and arrows (śarāsanaṃ gṛhya sāyakāṃś ca), that lord of men (narādhipaḥ) sallied forth in wrath for combat (raṇāya niryayau kruddhaḥ), when Saṃvarta blocked the path (saṃvarto mārgam āvṛṇot).
 </details>
 </details>
 
@@ -420,6 +510,12 @@ _________________
 
 ई महेश्वर यज्ञ प्रारम्भिसलागिदॆ. इदु पूर्णवागदिद्दरॆ निन्न समस्त कुलवन्नु सुट्टु बिडुवुदु. यज्ञदीक्षितनादाग युद्धक्कॆ अवकाशवॆल्लि? यज्ञदीक्षितनादवनु क्रोधगॊळ्ळबारदु.॥16½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That great sage spoke with affection (sneha-saṃyuktam) to Marutta: “If my word is to be heeded (śrotavyaṃ yadi mad-vākyam), combat is not fitting for you (samprahāro na te kṣamaḥ); this sacrificial session of Maheśvara (māheśvaram idaṃ satram), left unfinished, would burn your entire lineage (asamāptaṃ kulaṃ dahet)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,6 +543,14 @@ _________________
 
 युद्धद विजयदल्लि सदा संशयवे इरुत्तदॆ. आ राक्षसनू दुर्जयनागिद्दानॆ. तन्न आचार्यन मातिनन्तॆ मरुत्तनु युद्धदिन्द निवृत्तनादनु. अवनु धनुर्बाणगळन्नु त्यजिसि स्वस्थ भावदिन्द यज्ञक्कागि उन्मुखनादनु.॥17-18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** “How can there be warfare for one consecrated in sacrifice (dīkṣitasya kuto yuddham), and how can wrathfulness dwell in a consecrated sacrificer (krodhitvaṃ dīkṣite kutaḥ)? Moreover, victory is ever uncertain (saṃśayaś ca jaye nityam), and this rākṣasa is exceedingly hard to vanquish (rākṣasaś ca sudurjayaḥ)!”
+
+**18:** Desisting at his preceptor’s word (sa nivṛtto guror vākyāt), Marutta, lord of the earth (pṛthivīpatiḥ), laid down his bow with its arrows (visṛjya saśaraṃ cāpam) and, restored to composure, turned his face toward the sacrifice (svastho makhamukho ’bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -471,6 +575,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग अवनु पराजितनादनॆन्दु तिळिदु शुकनु महाराजा रावणन विजयवायितु ऎन्दु घोषिसिदनु हागू गट्टियागि सिंहनाद माडतॊडगिदनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, deeming him vanquished (taṃ nirjitaṃ matvā), Śuka loudly proclaimed (ghoṣayām āsa vai śukaḥ), “Rāvaṇa is victorious (rāvaṇo jayati)!” and let out a roar of exultation (harṣān nādaṃ vimuktavān).
 </details>
 </details>
 
@@ -497,6 +607,12 @@ _________________
 
 आ यज्ञदल्लि कुळितिरुव महर्षिगळन्नु तिन्दु, रक्तदिन्द तृप्तनागि रावणनु पुनः पृथिवियल्लि सञ्चरिसतॊडगिदनु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having devoured the great sages assembled there (tān bhakṣayitvā tatrasthān maharṣīn) who had come to the sacrifice (yajñam āgatān), and sated to the full with their blood (vitṛpto rudhirais teṣām), Rāvaṇa set forth once more across the earth (punaḥ samprayayau mahīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -522,6 +638,12 @@ _________________
 
 रावणनु हॊरटु होद मेलॆ इन्द्रसहित समस्त देवतॆगळु पुनः प्राणिपक्षिगळ रूपवन्नु बिट्टु निजरूपदल्लि प्रकटरागिद्दरु. अवरु वरगळन्नु कॊडुत्ता नुडिदरु .॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāvaṇa had departed (rāvaṇe tu gate), the gods—the sky-dwellers led by Indra (devāḥ sendrāś caiva divaukasaḥ)—then resumed their own proper forms (svāṃ yonim āsādya) and addressed those creatures (tāni sattvāni cābruvan):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -546,6 +668,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मॊट्टमॊदलिगॆ इन्द्रनु हर्षदिन्द नीलिगरिगळिद्द नविलिगॆ-धमज्ञ! नानु निन्न मेलॆ बहळ प्रसन्ननागिरुवॆ. निनगॆ सर्पगळिन्द भयविरलारदु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With delight Indra then spoke to the dark-plumed peacock (mayūraṃ nīla-barhiṇam): “I am pleased with you, O knower of dharma (prīto ’smi tava dharmajña)—indeed, you shall have no fear from serpents (bhujaṅgād dhi na te bhayam)!
 </details>
 </details>
 
@@ -578,6 +706,14 @@ _________________
 
 ननगॆ इरुव सहस्रनेत्रगळु निन्न गरिगळल्लि प्रकटगॊळ्ळुववु. मेघरूपदिन्द नानु मळॆगरॆदाग निमगॆ बहळ सन्तोषवागुवुदु. आ प्रसन्नतॆ नन्नन्नु पडॆद कुरुहागिरबहुदु. ई प्रकार देवेन्द्रनु नविलुगळिगॆ वर नीडिदनु.॥23-24॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** “And these thousand eyes of mine (idaṃ netra-sahasraṃ tu) shall appear upon your tail-plumes (yat tvad-barhe bhaviṣyati); whenever I pour down rain (varṣamāṇe mayi), you shall attain joy bearing the mark of my favor (mudaṃ prāpsyase prīti-lakṣaṇām)!” Thus did Indra, lord of the gods, bestow a boon upon the peacock (varaṃ prādān mayūrasya).
+
+**24:** Formerly, O lord of men (narādhipa), the tail-feathers of peacocks were simply dark blue (nīlāḥ kila purā barhā mayūrāṇām); upon receiving that boon from the sovereign of the gods (surādhipād varaṃ prāpya), all of them became truly splendid-plumed (gatāḥ sarve ’pi barhiṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -602,6 +738,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरेश्वर रामा! ई वरदानद मॊदलु नविलुगळ गरिगळु केवल नीलि बण्णद्दागिद्दवु. देवराजनिन्द वर पडॆदु मयूर अल्लिन्द हॊरटु होयितु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dharmarāja then spoke, O Rāma, to the crow perched upon the eastern sacrificial pavilion (prāgvaṃśe vāyasaṃ sthitam): “O bird, I am greatly pleased with you (pakṣiṃs tavāsmi suprītaḥ)—hear now the word of one who is pleased (prītasya vacanaṃ śṛṇu)!
 </details>
 </details>
 
@@ -631,6 +773,12 @@ _________________
 श्रीरामा! बळिक धर्मराजनु प्राग्वंशद* माडिनल्लि कुळित कागॆगॆ हेळिदनु - ऎलै पक्षिये! नानु निन्न मेलॆ प्रसन्ननागिद्देनॆ. नानु हेळुवुदन्नु केळु.॥26॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Those manifold diseases by which other living creatures are afflicted by me (yathānye vividhai rogaiḥ pīḍyante prāṇino mayā)—they shall never prevail over you (te na te prabhaviṣyanti) while I am pleased, of that there is no doubt (mayi prīte na saṃśayaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -658,6 +806,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इतर प्राणिगळन्नु नानु नाना रीतिय रोगगळिन्द पीडिसिदन्तॆ, आ रोगगळु निन्न मेलॆ प्रभाव बीरलारवु. इदरल्लि संशयविल्ल.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You shall have no fear from death (mṛtyutas te bhayaṃ nāsti) by my boon, O sky-ranger (varān mama vihaṅgama); so long as men do not slay you (yāvat tvāṃ na vadhiṣyanti narāḥ), so long shall you live (tāvad bhaviṣyasi)!
 </details>
 </details>
 
@@ -687,6 +841,12 @@ _________________
 
 विहङ्गमवे! नन्न वरदिन्द निनगॆ मृत्युभय इरलारदु. मनुष्यादि प्राणिगळु निन्नन्नु वधिसुववरॆगॆ नीनु जीविसि इरुवॆ.॥28॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And these mortals abiding in my realm (ete mad-viṣayasthā vai mānavāḥ), tormented by hunger and dread (kṣud-bhayārditāḥ)—when you have eaten (tvayi bhukte tu), they together with their kinsmen shall become completely satisfied (tṛptās te bhaviṣyanti sabāndhavāḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -712,6 +872,12 @@ _________________
 
 नन्न राज्यवाद यमलोकदल्लि हसिविनिन्द पीडितराद मनुष्यरिरुवरो, अवर पुत्रादिगळु ई भूतळदल्लि निनगॆ अन्न कॊडुवरो, आग अवरु बन्धु-बान्धवरिन्द तृप्तरागुवरु.॥29॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Varuṇa in turn spoke to the swan sporting in the waters of the Gaṅgā (haṃsaṃ gaṅgā-toya-vihāriṇam): “Let this affectionate speech be heard (śrūyatāṃ prīti-saṃyuktaṃ vacaḥ), O sovereign of winged creatures (patraratheśvara)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -736,6 +902,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर वरुणनु गङ्गॆयल्लि विचरिसुव हंसवन्नु सम्बोधिसि पक्षिराजने! प्रेमपूर्ण नन्न मातन्नु केळु.॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A captivating and serene hue (varṇo manoharaḥ saumyaḥ), resembling the orb of the full moon (candramaṇḍala-sannibhaḥ), lofty and bright as pure white foam (udagraḥ śuddha-phena-samaprabhaḥ), shall henceforth be yours (bhaviṣyati)!
 </details>
 </details>
 
@@ -765,6 +937,12 @@ _________________
 
 निन्न शरीरद बण्ण चन्द्रनन्तॆ हागू शुद्ध नॊरॆयन्तॆ परम उज्वल, सौम्य, मनोरम बॆळ्ळगागुवुदु.॥31॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Entering my very body (mac-charīraṃ samāsādya), you shall ever remain lovely (kānto nityaṃ bhaviṣyasi) and attain incomparable delight (prāpsyase cātulāṃ prītim)—this shall be the token of my favor (etan me prīti-lakṣaṇam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -789,6 +967,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न अङ्गभूत नीरन्नु आश्रयिसि नीवु सदा कान्तियुक्तरागिरुविरि, इदरिन्द निमगॆ अनुपम सन्तोषवागुवुदु. इदु नन्न प्रेमद चिह्नॆयागिदॆ.॥32॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Formerly, O Rāma, the hue of swans was blue mingled with pale white (nīla-varṇaḥ sapāṇḍuraḥ): their wings were bordered at the tips with dark blue (pakṣā nīlāgra-saṃvītāḥ), and their breasts spotless as tips of tender young grass (kroḍāḥ śaṣpāgra-nirmalāḥ).
 </details>
 </details>
 
@@ -815,6 +999,12 @@ _________________
 
 श्रीराम! हिन्दॆ हंसगळ बण्ण पूर्ण बिळि इरलिल्ल. रॆक्कॆय तुदि नीलवागिद्दु, भुजगळ नडुविन भाग नूतन दूर्वा दळद तुदियन्तॆ कोमल श्यामवर्ण दिन्द कूडित्तु.॥33॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Vaiśravaṇa [Kubera] addressed the chameleon perched upon the mountain (kṛkalāsaṃ girau sthitam): “Pleased with you as well, I bestow upon you a golden hue (hairaṇyaṃ samprayacchāmi varṇaṃ prītas tavāpy aham)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -840,6 +1030,12 @@ _________________
 
 बळिक विश्रवस्सुविन पुत्र कुबेरनु पर्वत शिखरदल्लि कुळित ओतिक्यातनल्लि हेळिदनु - नानु प्रसन्ननागि निमगॆ सुवर्णदन्तह सुन्दर बण्णवन्नु करुणिसुत्तेनॆ.॥34॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your head shall forever be endowed with golden splendor, imperishable (sadravyaṃ ca śiro nityaṃ bhaviṣyati tavākṣayam); through my favor this golden color (eṣa kāñcanako varṇaḥ) shall ever be yours!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -864,6 +1060,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निन्न तलॆ सदा सुवर्णदन्तॆ बण्णद हागू अक्षयवागुवुदु. नन्न प्रसन्नतॆयिन्दागि निन्न ई कप्पु बण्ण बङ्गारद बण्णवागि मार्पाडागुवुदु.॥35॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus bestowed boons upon them at that sacrificial festival (evaṃ dattvā varāṃs tebhyas tasmin yajñotsave), those gods (surāḥ), turning back together with the king (nivṛttāḥ saha rājñā te), departed once more to their own celestial abode (punaḥ svabhavanaṃ gatāḥ).
 </details>
 </details>
 

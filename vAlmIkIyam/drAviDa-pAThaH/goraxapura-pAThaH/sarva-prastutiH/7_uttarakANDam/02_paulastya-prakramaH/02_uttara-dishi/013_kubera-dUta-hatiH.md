@@ -36,6 +36,12 @@ title = "०१३ कुबेर-दूत-हतिः"
 
 (अगस्त्यरु हेळुत्तारॆ - रघुनन्दन !) बळिक कॆलकाल कळॆदाग लोकेश्वर ब्रह्मदेवरिन्द कळुहल्पट्ट निद्रॆयु आकळिकॆय रूपदिन्द कुम्भकर्णनल्लि वेगदिन्द प्रकटवायितु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, after some time had elapsed (kālena kenacit), an intense sleep, sent forth by the Lord of the Worlds [Brahmā] (lokeśvarotsṛṣṭā) and taking visible form (rūpiṇī), came upon Kumbhakarṇa (kumbhakarṇasya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०१३ कुबेर-दूत-हतिः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग कुम्भकर्णनु बळियल्लॆ कुळित रावणनिगॆ हेळिदनु - राजने! ननगॆ निद्दॆ बाधिसुत्तिदॆ; आद्दरिन्द ननगॆ मलगलु ऒन्दु शयनागारवन्नु निर्मिसिकॊडु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Kumbhakarṇa spoke these words to his seated brother (bhrātaram āsīnam): “Sleep oppresses me (nidrā māṃ bādhate), O King; have a dwelling built for me (kārayasva mamālayam)!”
 </details>
 </details>
 
@@ -91,6 +103,14 @@ _________________
 
 यह सुनकर राक्षसराजने विश्वकर्माके समान सुयोग्य शिल्पियोंको घर बनानेके लिये आज्ञा दे दी । उन शिल्पियोंने दो योजन लम्बा और एक योजन चौड़ा चिकना घर बनाया, जो देखने ही योग्य था । उसमें किसी प्रकारकी बाधाका अनुभव नहीं होता था । उसमें सर्वत्र स्फटिकमणि एवं सुवर्णके बने हुए खम्भे लगे थे, जो उस भवनकी शोभा बढ़ा रहे थे ॥ ३-४ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** Commissioned then by the king (viniyuktās tato rājñā), artisans skilled like Viśvakarman (śilpino viśvakarmavat) [fashioned a mansion] one yojana in breadth (vistīrṇaṃ yojanam), gleaming white (śubhram), and twice that in length (tato dviguṇam āyatam)—
+
+**4:** lovely to behold (darśanīyam) and free from all disturbance (nirābādham)—they built it for Kumbhakarṇa (cakrire), resplendent everywhere with variegated pillars of crystal and gold (sphāṭikaiḥ kāñcanaiś citraiḥ stambhaiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +136,12 @@ _________________
 
 अदरल्लि नीलमणिय मॆट्टिलुगळिद्दु, ऎल्लॆडॆ किरुगॆज्जॆगळ जालरिगळिद्दवु. अदर मुख्यद्वार आनॆय दन्तदिन्द माडिद्दु, वज्र, स्फटिक मणिगळ वेदिकॆगळु शोभिसुत्तिद्दवु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+with stairways wrought of cat’s-eye gem (vaiḍūrya-kṛta-sopānam) and lattices of little bells (kiṅkiṇī-jālakam), set with arched portals of ivory (dānta-toraṇa-vinyastam) and raised platforms of diamond and crystal (vajra-sphaṭika-vedikam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,6 +166,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ भवनवु ऎल्ल रीतियिन्द सुखमय, मनोहरवागित्तु. मेरु पर्वतद पुण्यमय गुहॆयन्तॆ सदा सुखप्रदवागित्तु. रावणनु कुम्भकर्णनिगागि इन्तह सुन्दर शयनागारवन्नु निर्मिसिद्दनु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus that rākṣasa [Rāvaṇa] caused to be built (kārayāmāsa) a captivating, wholly comfortable palace (manoharaṃ sarva-sukham), ever bestowing delight in every part (sarvatra sukhadaṃ nityam), like a sacred cavern of Mount Meru (meroḥ puṇyāṃ guhām iva).
 </details>
 </details>
 
@@ -169,6 +201,12 @@ _________________
 
 महाबलि कुम्भकर्णनु आ भवनक्कॆ होगि निद्रावशनादनु. अनेक साविर वर्ष मलगिये इद्दनु. ऎच्चरगॊळ्ळले इल्ल.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having entered into sleep there (tatra nidrāṃ samāviṣṭaḥ), mighty Kumbhakarṇa (kumbhakarṇo mahābalaḥ) lay slumbering for many thousands of years (bahūny abda-sahasrāṇi) and did not awaken (śayāno na prabuddhyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +232,12 @@ _________________
 
 कुम्भकर्णनु निद्दॆहोदाग रावणनु उच्छङ्खलनागि देवतॆगळन्नु, ऋषिगळन्नु, यक्षरन्नु मत्तु गन्धर्वरन्नु पीडिसुत्ता, कॊल्लतॊडगिदनु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Kumbhakarṇa was thus overcome by sleep (nidrābhibhūte ... kumbhakarṇe), the ten-faced Rāvaṇa, wholly unbridled (niraṅkuśaḥ), began slaughtering gods, sages, yakṣas, and gandharvas (devarṣi-yakṣa-gandharvān sañjaghne).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -218,6 +262,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवतॆगळ नन्दनवनवे आदि विचित्र उद्यानगळिगॆ होगि दशानननु अत्यन्त कुपितनागि अवॆल्लवन्नु हाळुगॆडहुत्तिद्दनु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Going to the wondrous celestial pleasure-gardens (udyānāni ca citrāṇi), Nandana and the rest (nandanādīni), the ten-faced one, fiercely enraged (susaṅkruddhaḥ), shattered and laid them waste (bhinatti sma).
 </details>
 </details>
 
@@ -246,6 +296,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ राक्षसनु नदियल्लि आनॆयन्तॆ क्रीडिसुत्ता प्रवाहवन्नु तडॆदुबिडुत्तिद्दनु. वृक्षगळन्नु गाळियन्तॆ कित्तुबिडुत्तिद्दनु, पर्वतगळन्नु इन्द्रनु वज्रदिन्द पुडिगैय्दन्तॆ नुच्चुनूरु माडुत्तिद्दनु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like an elephant sporting in a river (nadīṃ gaja iva krīḍan), like the wind hurling down trees (vṛkṣān vāyur iva kṣipan), like a hurled thunderbolt shattering mountains (nagān vajra ivotsṛṣṭaḥ), that rākṣasa devastated everything (vidhvaṃsayati).
 </details>
 </details>
 
@@ -276,6 +332,14 @@ _________________
 
 दशग्रीवन ई निरङ्कुश वर्तनॆय सुद्दि तिळिदु धनेश्वर कुबेरनु तन्न कुलक्कनुरूपवागि आचार-व्यवहारद विचार माडि, उत्तम भ्रातृप्रेमदिन्दागि दूतनॊब्बनन्नु लङ्कॆगॆ कळिसिदनु. रावणनिगॆ हितवाद मातन्नु तिळिसि दारिगॆ तरुवुदे अवन उद्देशवागित्तु.॥11-12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Learning that Ten-necked Rāvaṇa was behaving thus (tathā-vṛttaṃ tu vijñāya), the Lord of Wealth [Kubera] (dhaneśvaraḥ), knower of dharma (dharmajñaḥ), recalling his own conduct befitting his lineage (kulānurūpaṃ ... vṛttaṃ saṃsmṛtya cātmanaḥ),
+
+**12:** in order to manifest brotherly affection (saubhrātra-darśanārtham), Vaiśravaṇa then dispatched to Laṅkā (laṅkāṃ sampreṣayāmāsa) a messenger bearing words for Ten-necked Rāvaṇa’s welfare (daśagrīvasya vai hitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -300,6 +364,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ दूतनु लङ्कॆगॆ होगि मॊदलिगॆ विभीषणनिगॆ भॆट्टियादनु. विभीषणनु धर्मदन्तॆ अवनन्नु सत्करिसि लङ्कॆगॆ बन्द कारणवन्नु केळिदनु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proceeding to the city of Laṅkā (gatvā nagarīṃ laṅkām), he approached Vibhīṣaṇa (āsasāda vibhīṣaṇam), was duly honored by him according to dharma (mānitas tena dharmeṇa), and was asked concerning the purpose of his coming (pṛṣṭaś cāgamanaṃ prati).
 </details>
 </details>
 
@@ -326,6 +396,12 @@ _________________
 
 मत्तॆ बन्धु-बान्धवर क्षेमकेळि, विभीषणनु आ दूतनन्नु करॆदुकॊण्डु राजसभॆयल्लि कुळितिरुव रावणन भॆट्टि माडिसिदनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having inquired after the welfare of the king [Kubera] and his kinsmen (kuśalaṃ rājño jñātīnāṃ ca), Vibhīṣaṇa conducted him into the assembly hall (sabhāyām) and presented him to the ten-faced Rāvaṇa seated there (darśayāmāsa tam āsīnaṃ daśānanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +426,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सभॆयल्लि तन्न तेजदिन्द उद्दिप्तनागिद्द रावणनन्नु नोडि दूतनु ‘महाराजरिगॆ जयवागलि’ ऎन्दु हेळि वाणियिन्द अवनन्नु सत्करिसि, स्वल्प हॊत्तु सुम्मनिद्दनु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the king blazing there with his own splendor (dīpyamānaṃ svatejasā), the envoy honored him with the spoken blessing “Victory!” (jayeti vācā sampūjya) and stood silently in respectful attendance (tūṣṇīṃ samabhivartata).
 </details>
 </details>
 
@@ -376,6 +458,12 @@ _________________
 
 अनन्तर उत्तम हंसतूलिका तल्पदल्लि कुळित्तिद्द दशग्रीवनल्लि आ दूतनु इन्तॆन्दनु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the envoy spoke these words to Ten-necked Rāvaṇa (daśagrīvaṃ dūto vākyam athābravīt), seated there upon an exquisite couch (uttama-paryaṅke) adorned with costly coverlets (varāstaraṇa-śobhite):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -400,6 +488,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वीर महाराजरे! निम्म सहोदर कुबेरनु निम्म बळिगॆ सन्देश कळिसिरुवनु. अदन्नु तन्दॆ-तायि ऎरडू कुल हागू सदाचारक्कनुरूपवागि नानु निमगॆ तिळिसुत्तेनॆ; केळि.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O King, I shall declare to you all that your brother has said (bhrātā tava yad abravīt)—words worthy, O hero, of both [your parents’] conduct and lineage (ubhayoḥ sadṛśaṃ vīra vṛttasya ca kulasya ca):
 </details>
 </details>
 
@@ -426,6 +520,12 @@ _________________
 
 दशग्रीवने! नीनु इष्टरवरॆगॆ माडिद कॆट्ट कॆलसवे बहळवागिदॆ. इन्नु नीनु चॆन्नागि सदाचारद सङ्ग्रहमाडबेकु. धर्मपथदल्लि स्थितनादरॆ निनगॆ ऒळ्ळॆयदागुवुदु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Enough! Sufficient has been done thus far (sādhu paryāptam etāvat)—this accumulation of conduct has been made (kṛtaś cāritra-saṅgrahaḥ)! Pray let steadfast adherence to dharma be established (sādhu dharme vyavasthānaṃ kriyatām), if it be possible (yadi śakyate)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -450,6 +550,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु नन्दनवनवन्नु हाळुगॆडहिदॆ इदन्नु नाने नोडिद्देनॆ. नीनु अनेक ऋषिगळन्नु कॊन्दिरुवॆ ऎन्दु केळिद्दॆ. राजने! (इदरिन्द नॊन्द देवतॆगळु निन्न प्रतिकार माडलु बयसिद्दारॆ) निनगॆ विरुद्धवागि देवतॆगळ उद्योग प्रारम्भवागिदॆ ऎन्दु नानु केळिद्दॆ.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I have beheld Nandana shattered (dṛṣṭaṃ me nandanaṃ bhagnam), I have heard that sages have been slain (ṛṣayo nihatāḥ śrutāḥ), and I have heard, O King, of the gods’ concerted mobilization on your account (devatānāṃ samudyogas tvatto ... mama śrutaḥ).
 </details>
 </details>
 
@@ -479,6 +585,12 @@ _________________
 
 राक्षसराजने! नीनु अनेक सल नन्नन्नु तिरस्करिसिरुवॆ, आदरू बालकरु माडिद तप्पन्नु बन्धु बान्धवरु क्षमिसि रक्षिसलेबेकु. (अदक्कागि निनगॆ हितकारक सन्देश कळिसुत्तिद्देनॆ.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Many a time have I too been slighted by you (nirākṛtaś ca bahuśas tvayāham), O lord of rākṣasas; yet one’s own kinsmen, even when they offend out of childishness (aparāddhā hi bālyāc ca), are still to be cherished (ramaṇīyāḥ svabāndhavāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -503,6 +615,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु शौच-सन्तोषादि नियमपूर्वक, इन्द्रिय संयमदिन्द ‘रौद्रव्रत’वन्नु कैगॊण्डु धर्मानुष्ठान माडलु हिमालयद तप्पलिगॆ होगिद्दॆ.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As for me, I had gone to the slopes of the Himālaya (himavat-pṛṣṭhaṃ gataḥ) to practice dharma (dharmam upāsitum), undertaking the austere vow sacred to Rudra (raudraṃ vrattaṃ samāsthāya), self-disciplined and with senses controlled (niyato niyatendriyaḥ).
 </details>
 </details>
 
@@ -533,6 +651,14 @@ _________________
 
 अल्लि ननगॆ उमॆ सहित भगवान् महादेवन दर्शनवायितु. महाराजा! आग नन्न दृष्टियु अकस्मात्तागि पार्वतिय कडॆगॆ होयितु. खण्डितवागि नानु यावुदे विकारभावदिन्द आकॆयन्नु नोडिरलिल्ल. आग देवि रुद्राणियु अनुपम रूपवन्नु धरिसि अल्लि निन्तिद्दळु.॥22-23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** “There I beheld the Lord [Śiva] together with the Goddess [Umā] (devo mayā dṛṣṭaḥ saha devyā ... prabhuḥ); and by destiny (daivāt) my left eye chanced to fall upon the Goddess (savyaṃ cakṣur ... devyāṃ nipātitam).
+
+**23:** “‘Who indeed can this radiant lady be?’ (kā nv iyaṃ syād iti śubhā)—with no other motive whatsoever (na khalv anyena hetunā) [did I look]; for Rudrāṇī stood there having assumed a form beyond compare (rūpaṃ hy anupamaṃ kṛtvā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -561,6 +687,12 @@ _________________
 
 देविय दिव्यप्रभावदिन्द आग नन्न ऎडगण्णु सुट्टुहोगि, बलगण्णु धूळु तुम्बिदन्तॆ पिङ्गलवायितु.॥24॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By the Goddess’s divine potency (devyā divya-prabhāveṇa) my left eye was scorched (dagdhaṃ savyaṃ mamekṣaṇam), and, like a flame dimmed by dust (reṇu-dhvastam iva jyotiḥ), it turned tawny-yellow (piṅgulatvam upāgatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -585,6 +717,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक नानु पर्वतद विस्तारवाद इन्नॊन्दु तुदिगॆ होगि ऎण्टुनूरु वर्षगळ वरॆगॆ आ महाव्रतवन्नु माडतॊडगिदॆ.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon, proceeding to another broad ridge of that mountain (anyad vistīrṇaṃ ... gireḥ taṭam), I silently sustained that mighty vow (tūṣṇīṃ ... samādhāraṃ mahāvratam) for eight hundred years (varṣa-śatāny aṣṭau).
 </details>
 </details>
 
@@ -611,6 +749,12 @@ _________________
 
 आ नियम मुगिदाग भगवान् महेश्वरनु दर्शन कॊट्टु सन्तोषचित्तनागि हेळिदनु.॥26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When that austere observance was completed (samāpte niyame tasmin), Lord Maheśvara, the Sovereign God (devo maheśvaraḥ ... prabhuḥ), pleased and with a gladdened heart (prītaḥ prītena manasā), spoke these words there:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -635,6 +779,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुव्रत धर्मज्ञ धनेश्वरने! नानु निन्न तपस्सिनिन्द सन्तुष्ट नागिद्देनॆ. ई व्रतवन्नु नानु माडिद्दॆ, ईग नीनु माडिरुवि.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘For the tawny hue indeed that you incurred from gazing upon the Goddess’s form (paiṅgalyaṃ yad avāptaṃ hi devyā rūpa-nirīkṣaṇāt)—I am well pleased with you, O knower of dharma (prīto ’smi tava dharmajña), O keeper of noble vows, through this austerity of yours (tapasānena suvrata)!
 </details>
 </details>
 
@@ -664,6 +814,12 @@ _________________
 
 मूरनॆयवनु यारू इन्तह कठोर व्रतवन्नु माडलारनु. अत्यन्त दुष्करवाद ई व्रतद प्रवर्तक नाने आगिद्देनॆ.॥28॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Only by me has this vow been practiced (mayā caitad vrataṃ cīrṇam), and by you alone, O Lord of Wealth (tvayā caiva dhanādhipa); there is no third being (tṛtīyaḥ puruṣo nāsti) who could observe a vow such as this (yaś cared vratam īdṛśam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -688,6 +844,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द सौम्य धनेश्वरने! ईग नीनु ननगॆ मित्रनादॆ. इदु निनगू प्रियवागिरबेकु. पुण्यात्मने! नीनु तन्न तपस्सिनिन्द नन्नन्नु गॆद्दुबिट्टिरुवॆ, आद्दरिन्द नन्न मित्रनागि नीनु इरु.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘For this steadfast vow (vrataṃ suniścayam) was instituted by me of old (mayā hy utpāditaṃ purā); therefore, O gentle Lord of Wealth (saumya ... dhaneśvara), take delight in friendship with me (tat sakhitvaṃ mayā ... rocayasva)!
 </details>
 </details>
 
@@ -726,6 +888,14 @@ _________________
 
 देवी पार्वतिय कडॆगॆ दृष्टिपात माडिद्दरिन्द आकॆय प्रभावदिन्द निन्न ऎडगण्णु सुट्टुहोगि, इन्नॊन्दु कण्णु कूड पिङ्गल वर्णद्दायितु. इदरिन्द सदा स्थिरनागिरुव निनगॆ ‘एकाक्ष पिङ्गलि’ ऎम्ब हॆसरु चिरस्थायियागुवुदु. हीगॆ शङ्करनॊन्दिगॆ मैत्रियन्नु स्थापिसिकॊण्डु, अवन अप्पणॆयन्तॆ मनॆगॆ मरळिदाग निन्न पापपूर्ण निश्चयद मातन्नु केळिदॆ.॥30-31½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** “‘Conquered by your austerity (tapasā nirjitaś caiva), become my companion, O sinless one (sakhā bhava mamānagha)! And as for that left eye of yours which was scorched by the Goddess’s potency (devyā dagdhaṃ prabhāveṇa yac ca savyaṃ tavekṣaṇam)—
+
+**31:** “‘Because of it, your name shall endure forever as Ekākṣipiṅgalī [“Tawny-Eyed in One Eye”] (ekākṣi-piṅgalety eva nāma sthāsyati śāśvatam)!’ Having thus obtained friendship with him (tena sakhitvaṃ ca prāpya) and taken leave of Śaṅkara (anujñāṃ ca śaṅkarāt), upon returning I have heard of this sinful resolve of yours (tava pāpa-viniścayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -754,6 +924,12 @@ _________________
 
 आद्दरिन्द ईग नीनु तन्न कुलक्कॆ कळङ्क हच्चुव पापकर्मदिन्द दूरवागु; एकॆन्दरॆ ऎल्ल ऋषिगळॊडनॆ देवतॆगळु निन्न वधॆय उपाय योचिसुत्तिद्दारॆ.॥32½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore turn back from this most unrighteous association (adharmiṣṭha-saṃyogān nivarta) that stains our lineage (kula-dūṣaṇāt); for the gods together with the hosts of sages (sarṣi-saṅghaiḥ suraiḥ) are already devising the means of your destruction (cintyate hi vadhopāyaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -778,6 +954,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दूतनु आडिद मातन्नु केळि दशग्रीवनु कण्णुगळु क्रोधदिन्द कॆम्पादवु. हल्लु कडियुत्ता कैगळन्नु मसॆयुत्ता हेळिदनु.॥33½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus (evam uktaḥ), Ten-necked Rāvaṇa, his eyes bloodshot with fury (kruddha-saṃrakta-locanaḥ), clenching his hands and grinding his teeth (hastau dantāṃś ca sampīḍya), spoke these words:
 </details>
 </details>
 
@@ -804,6 +986,12 @@ _________________
 
 दूतने! नीनु हेळिदुदर अभिप्राय नानु तिळिदॆ. ईग नीनागली, निन्नन्नु दूतनागि कळिसिद अण्णनागली जीविसिरलारिरि.॥34½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I have well understood your message, O envoy (vijñātaṃ te mayā dūta vākyam), and whose words you utter (yasya prabhāṣase)! Neither shall you live (naitat tvam asi), nor shall that brother by whom you were dispatched (naivāsau bhrātrā yenāsi coditaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -828,6 +1016,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धनरक्षक कुबेरनु ननगागि कळिसिद सन्देश हितकरवादुदल्ल. आ मूर्खनु नन्नन्नु हॆदरिसलु महादेवनॊन्दिगॆ आद मैत्रिय कथॆयन्नु हेळुत्तिद्दानॆ.॥35½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this treasure-keeper (dhanarakṣakaḥ) does not speak this for my welfare at all (hitaṃ naiṣa mamaitad dhi bravīti); rather, O fool, he is boasting in my ears of his friendship with Maheśvara, forsooth (maheśvara-sakhitvaṃ tu mūḍha śrāvayate kila)!
 </details>
 </details>
 
@@ -855,6 +1049,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दूतने! नीनु इल्लि हेळिद मातु ननगॆ सहिसलु योग्यवल्ल. कुबेरनु नन्न अण्णनाद्दरिन्द अवनन्नु वधिसुवुदु उचितवल्ल, ऎन्दु तिळिदुकॊण्डे नानु इन्दिनतनक अवनन्नु क्षमिसिद्देनॆ.॥36-37॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** “Nor is this to be pardoned by me (na cedaṃ kṣamaṇīyaṃ me)—this that you have spoken (yad etad bhāṣitaṃ tvayā)! If for all this time, O envoy, I have tolerated him (yad etāvan mayā kālaṃ ... tasya tu marṣitam),
+
+**37:** “it was because [my heart] thought, ‘He is an elder and venerable brother, not to be slain by me’ (na hantavyo gurur jyeṣṭho mayāyam iti manyate). Yet now, having heard his words (tasya tv idānīṃ śrutvā ... vākyam), this resolve is fixed in me (eṣā kṛtā matiḥ): relying on the might of my arms (bāhu-vīryam upāśritaḥ), I shall conquer even the three worlds (trīṃl lokān api jeṣyāmi)!
 </details>
 </details>
 
@@ -884,6 +1086,12 @@ _________________
 
 आदरॆ ईग अवन मातन्नु केळि नानु नन्न बाहुबलदिन्द मूरु लोकगळन्नु गॆल्लबेकॆन्दु निश्चयिसिरुवॆनु.॥38॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This very instant (etan muhūrtam eva), on account of that one man alone (tasyaikasya tu vai kṛte), I shall dispatch all four Guardians of the Worlds (caturo lokapālān) to the abode of Yama (nayiṣyāmi yamakṣayam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -912,6 +1120,12 @@ _________________
 
 इदे मुहूर्तदल्लि अवनॊब्बन अपराधदिन्द नाल्कू लोकपालकरन्नु यमलोकक्कॆ कळिसि बिडुत्तेनॆ.॥39॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the Lord of Laṅkā (laṅkeśaḥ) struck down the envoy with his sword (dūtaṃ khaḍgena jaghnivān) and gave him to wicked rākṣasas (rākṣasānāṃ durātmanām) to devour (dadau bhakṣayitum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -939,6 +1153,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि लङ्केश रावणनु खड्गदिन्द आ दूतनन्नु कत्तरिसि, अवन देहवन्नु दुरात्मराद राक्षसरिगॆ भक्षिसलु कॊट्टनु.॥40॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having had auspicious departure-rites performed (kṛta-svastyayanaḥ), Rāvaṇa ascended his chariot (ratham āruhya) and, eager for the conquest of the three worlds (trailokya-vijayākāṅkṣī), marched to where the Lord of Wealth dwelt (yayau yatra dhaneśvaraḥ).
 </details>
 </details>
 

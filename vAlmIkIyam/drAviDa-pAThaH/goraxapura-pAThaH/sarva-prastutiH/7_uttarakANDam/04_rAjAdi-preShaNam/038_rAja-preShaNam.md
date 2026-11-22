@@ -36,6 +36,12 @@ title = "०३८ राज-प्रेषणम्"
 
 महाबाहु श्रीरघुनाथनु हीगॆ प्रतिदिनवू राजसभॆयल्लि पुरजनर मत्तु देशवासिगळ ऎल्ल कार्यगळन्नु परामर्शिसुत्ता राज्यशासन माडुत्तिद्दनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus dwelt the mighty-armed Rāghava day after day (evam āste mahābāhur ahany ahani rāghavaḥ), administering all affairs among the citizens of the capital and the people of the countryside (praśāsat sarvakāryāṇi paurajānapadeṣu ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०३८ राज-प्रेषणम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर कॆलवु दिन कळॆदाग श्रीरामन मिथिलेशराजा जनकनिगॆ कैमुगिदु हीगॆ हेळिदनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when a few days had elapsed (tataḥ katipayāhaḥsu), Rāghava stood with joined palms (rāghavaḥ prāñjalir bhūtvā) and spoke these words to Vaideha, the sovereign of Mithilā (vaidehaṃ mithilādhipam ... vākyam etad uvāca ha):
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०३८ राज-प्रेषणम्"
 
 महाराजरे! नीवु ननगॆ एकमात्र आश्रयरागिद्दीरि. नीवु सदा नम्म लालनॆ-पालनॆ माडिरुविरि. निम्म हॆच्चिद तेजदिन्दले नानु रावणनन्नु वधिसिदॆ.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You indeed are our unwavering refuge (bhavān hi gatir avyagrā); by you have we ever been sustained and protected (bhavatā pālitā vayam), and through your fiery spiritual power alone (bhavatas tejasogreṇa) was Rāvaṇa slain by me (rāvaṇo nihato mayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "०३८ राज-प्रेषणम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजरे! समस्त इक्ष्वाकुवंशी मत्तु मैथिलराजर परस्पर सम्बन्धदिन्द ऎल्ल प्रकार दिन्द बॆळॆद प्रेमक्कॆ ऎणॆये इल्ल.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Between all the Ikṣvākus and all the people of Mithilā (ikṣvākūṇāṃ ca sarveṣāṃ maithilānāṃ ca sarvaśaḥ) abide peerless bonds of affection, O King (atulāḥ prītayo rājan), led ever by our sacred tie of kinship (sambandhaka-purogamāḥ).
 </details>
 </details>
 
@@ -139,6 +163,12 @@ _________________
 
 पार्थिवने! इन्नु नावु नीडिद उडुगॊरॆयागि अर्पिसिद मणि-रत्नादिगळन्नु स्वीकरिसि, निम्म राजधानिगॆ निम्म राजधानिगॆ प्रयाण बॆळॆसबहुदु. भरत-शत्रुघ्नरू निम्म सहायकरागि निम्मॊन्दिगॆ बरुवरु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O ruler of the earth (pārthiva), deign to return to your own city taking these royal treasures (tad bhavān svapuraṃ yātu ratnāny ādāya), and Bharata shall follow behind you as your companion and escort (bharataś ca sahāyārthaṃ pṛṣṭhatas te ’nuyāsyati).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +193,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग जनकनु हागॆये आगलि ऎन्दु हेळि श्रीरामनल्लि हेळिदनु - राजा ! नानु निन्न दर्शन हागू न्याययुक्त व्यवहारदिन्द बहळ सन्तसगॊण्डिरुवॆ.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assenting with the words “So be it” (sa tatheti nṛpaḥ kṛtvā), that monarch addressed Rāghava (rāghavaṃ vākyam abravīt): “Delighted am I, O King (prīto ’smi bhavato rājan), both by the sight of you and by your righteous statesmanship (darśanena nayena ca).
 </details>
 </details>
 
@@ -189,6 +225,12 @@ _________________
 
 नीनु ननगागि कॊट्टिरुव रत्नादिगळन्नु नानु निम्म सीतॆये आदि पुत्रियरिगॆ कॊडुवॆनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever treasures have been gathered here on my account (yāny etāni tu ratnāni madarthaṃ sañcitāni vai), all of them without exception I bestow upon my daughter, O King (duhitre tāni vai rājan sarvāṇy eva dadāmi ca)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -214,6 +256,12 @@ _________________
 
 श्रीरामनल्लि हीगॆ हेळि श्रीमान् जनकनु आनन्ददिन्द अवन अनुमति पडॆदु मिथिलॆगॆ प्रयाण माडिदनु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus unto the scion of Kakutstha (evam uktvā tu kākutstham), the illustrious Janaka, gladdened at heart (janako hṛṣṭamānasaḥ ... śrīmān), took leave of Rāghava (tam anujñāya rāghavam) and departed for Mithilā (prayayau mithilām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +286,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 जनकनु तॆरळिद बळिक श्रीरघुनाथनु तन्न माव महासामर्थ्यशालि केकेय नरेश युधा जित्तुविनल्लि कैमुगिदु विनयदिन्द हेळिदनु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when Janaka had set forth (tataḥ prayāte janake), the sovereign Rāghava stood with joined palms (prabhuḥ rāghavaḥ prāñjalir bhūtvā) and spoke these words to his maternal uncle of Kekaya (kekayaṃ mātulam ... vākyam etad uvāca ha):
 </details>
 </details>
 
@@ -267,6 +321,12 @@ _________________
 
 राजरे! पुरुषप्रवर! ई राज्य, नानु, भरत, लक्ष्मण, शत्रुघ्न ऎल्लरू निम्म अधीनरागिद्देवॆ. नीवे नम्म आश्रयनागिरुविरि.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This kingdom, myself as well, and Bharata together with Lakṣmaṇa (idaṃ rājyam ahaṃ caiva bharataś ca salakṣmaṇaḥ)—all of us depend upon you (āyattāḥ), for you indeed are our refuge, O King, O bull among men (tvaṃ hi no rājan gatiś ca puruṣarṣabha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -291,6 +351,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाराज केकेयनरेश वृद्धरागिद्दारॆ. अवरु निम्म कुरितु चिन्तितरागिरबहुदु. अदरिन्द पृथिविनाथने! नीवु इन्दे हॊरडुवुदु ननगॆ ऒळ्ळॆयदॆनिसुत्तदॆ.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely the aged king will suffer anguish on your account (rājā hi vṛddhaḥ santāpaṃ tvadartham upayāsyati); therefore your departure this very day seems fitting to me, O lord of the earth (tasmād gamanam adyaiva rocate tava pārthiva).
 </details>
 </details>
 
@@ -317,6 +383,12 @@ _________________
 
 तावु हेरळ धन-रत्नादिगळन्नु तॆगॆदुकॊण्डु हॊरडिरि. मार्गदल्लि सहायक्कागि लक्ष्मणनु निम्म जॊतॆगॆ बरुवनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You shall be escorted from behind by Lakṣmaṇa as your attendant (lakṣmaṇenānuyātreṇa pṛṣṭhato ’nugamiṣyate), taking with you abundant wealth and manifold precious gems (dhanam ādāya vipulaṃ ratnāni vividhāni ca).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +413,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग युधाजित्तु ‘तथास्तु’ ऎन्दु हेळि रामचन्द्रन मातन्नु मन्निसि. रघुनन्दन! ई रत्न, धनवॆल्ल निन्न बळियल्ले अक्षयरूपवागि इरलि.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yudhājit replied to Rāghava “So be it” with regard to his departure (yudhājit tu tathety āha gamanaṃ prati rāghavam), adding: “May these gems and wealth alike remain inexhaustible with you alone (ratnāni ca dhanaṃ caiva tvayy evākṣayyam astv iti)!”
 </details>
 </details>
 
@@ -367,6 +445,12 @@ _________________
 
 मत्तॆ मॊदलिगॆ श्रीरघुनाथनु प्रेमदिन्द तन्न मावनिगॆ प्रदक्षिणॆ माडिदनु, बळिक केकॆय कुलवर्धन राजकुमार युधाजितू कूड श्रीरामन प्रदक्षिणॆ माडिदनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That enhancer of Kekaya’s glory circumambulated the king (pradakṣiṇaṃ sa rājānaṃ kṛtvā kekayavardhanaḥ), having first been bowed to and circumambulated by Rāma himself (rāmeṇa hi kṛtaḥ pūrvam abhivādya pradakṣiṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -391,6 +475,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक केकॆयराजनु लक्ष्मणनॊन्दिगॆ, वृत्रासुरनन्नु वधिसि इन्द्रनु भगवान् विष्णुविनॊन्दिगॆ अमरावतिय यात्रॆ माडिदन्तॆ, तन्न देशक्कॆ हॊरटनु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With Lakṣmaṇa as his companion (lakṣmaṇena sahāyena), the lord of Kekaya set forth (prayātaḥ kekayeśvaraḥ), even as Vāsava [Indra] went forth together with Viṣṇu (viṣṇunā saha vāsavaḥ) after the demon Vṛtra had been slain (hate ’sure yathā vṛtre).
 </details>
 </details>
 
@@ -417,6 +507,12 @@ _________________
 
 मावनन्नु बीळ्कॊट्टु श्रीरामनु यारिगू हॆदरदे इरुव तन्न मित्र काशीराज प्रतर्दननन्नु आलिङ्गिसिकॊण्डु हेळिदनु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having sent him off (taṃ visṛjya), Rāma then embraced his fearless friend (tato rāmo vayasyam akutobhayam ... pariṣvajya), Pratardana, the king of Kāśī (pratardanaṃ kāśipatim), and spoke these words (idam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -441,6 +537,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजा! नीवु पट्टाभिषेकद कार्यदल्लि भरतनॊन्दिगॆ पूर्ण सहकार कॊट्टिरुवि. हीगॆ माडि तम्मल्लिरुव महाप्रेम - सौहार्दद परिचय कॊट्टिरुवि.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Supreme affection has been shown by you (darśitā bhavatā prītiḥ), and supreme friendship displayed (darśitaṃ sauhṛdaṃ param), and martial effort was undertaken by you, O King, alongside Bharata (udyogaś ca kṛto rājan bharatena tvayā saha).
 </details>
 </details>
 
@@ -467,6 +569,12 @@ _________________
 
 काशिराजने! ईग नीनु सुन्दर प्राकार हागू मनोहर द्वारगळिन्द सुशोभितवाद, निन्निन्दले रक्षितवाद रमणीय वाराणासी पुरिगॆ दयमाडिसिरि.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O lord of Kāśī (kāśeya), repair today to your city of Vārāṇasī (tad bhavān adya ... purīṃ vārāṇasīṃ vraja), delightful, well-guarded by you (ramaṇīyāṃ tvayā guptām), brightly resplendent, and graced with fair arched gateways (suprakāśāṃ sutoraṇām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -491,6 +599,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि धर्मात्मा श्रीरामनु तन्न आसनदिन्द ऎद्दु प्रतर्दननन्नु पुनः गाढवागि आलिङ्गिसिकॊण्डनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus much (etāvad uktvā), the righteous-souled scion of Kakutstha rose from his exalted seat (utthāya kākutsthaḥ paramāsanāt ... dharmātmā) and clasped him closely against his breast (paryaṣvajata ... nirantaram urogatam).
 </details>
 </details>
 
@@ -523,6 +637,12 @@ _________________
 
 हीगॆ कौसल्यानन्दवर्धन श्रीरामनु आग काशीराजनन्नु बीळ्कॊट्टनु. श्रीरघुनाथन अनुमति पडॆदु निर्भय नाद काशिराजनु कूडले वारणासिगॆ तॆरळिदनु.॥20½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that increaser of Kausalyā’s joy ceremonially bade him farewell (visarjayāmāsa tadā kausalyānandavardhanaḥ); granted leave by Rāghava (rāghaveṇābhyanujñātaḥ), the fearless lord of Kāśī as well (kāśīśo ’py akutobhayaḥ), duly dismissed by Rāghava, departed swiftly for Vārāṇasī (vārāṇasīṃ yayau tūrṇaṃ rāghaveṇa visarjitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,6 +667,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 काशिराजनन्नु कळिसिकॊट्टु श्रीरघुनाथनु नगुत्ता इतर मुन्नूरु राजरल्लि मधुरवागि नुडिदनु.॥21½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having sent off that king of Kāśī (visṛjya taṃ kāśipatim), Rāghava smiled gladly (prahasan rāghavaḥ) and spoke words of sweet syllables (vākyam uvāca madhurākṣaram) to the three hundred rulers of the earth (triśataṃ pṛthivīpatīn):
 </details>
 </details>
 
@@ -573,6 +699,12 @@ _________________
 
 नन्न मेलॆ निम्म प्रीतियु अविचलवागिदॆ. निम्म तेजस्सिनिन्दले अदु रक्षिसल्पट्टिदॆ. धर्म मत्तु सत्यगळु निम्मल्लि नित्यनिरन्तरवागि वासमाडिकॊण्डिवॆ.॥22½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your unwavering affection has been safeguarded by your own fiery nobility (bhavatāṃ prītir avyagrā tejasā parirakṣitā); dharma abides unbroken in you always (dharmaś ca niyato nityam), and truth ever dwells with you (satyaṃ ca bhavatāṃ sadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -597,6 +729,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निम्मन्तह महा पुरुषर प्रभाव, तेजदिन्दले, दुर्बुद्धि, दुरात्मा राक्षसाधम रावणनन्नु नानु वधिसुवन्तायितु.॥23½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By the spiritual majesty and prowess of you high-souled ones (yuṣmākaṃ cānubhāvena tejasā ca mahātmanām) has that wicked-souled, evil-minded Rāvaṇa, vilest of rākṣasas, been slain (hato durātmā durbuddhī rāvaṇo rākṣasādhamaḥ).
 </details>
 </details>
 
@@ -623,6 +761,12 @@ _________________
 
 नानादरो अवन वधॆयल्लि निमित्तमात्रनागिद्देनॆ. निजवागि निम्म तेजदिन्दले मन्त्रि, पुत्र, बन्धु-बान्धवरॊन्दिगॆ रावणनु युद्धदल्लि मडिदनु.॥24½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I was merely the occasion in that deed (hetumātram ahaṃ tatra)—by your fiery power was Rāvaṇa slain in battle (bhavatāṃ tejasā hataḥ rāvaṇaḥ ... yuddhe), together with his hosts, sons, ministers, and kinsmen (sagaṇaḥ ... saputrāmātyabāndhavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -647,6 +791,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 काडिनल्लि जनकनन्दिनी सीतॆय अपहरणद समाचार केळि महात्मा भरतनु निम्मन्नु इल्लिगॆ करॆसिद्दनु.॥25½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You were assembled together by the high-souled Bharata (bhavantaś ca samānītā bharatena mahātmanā), when he heard that King Janaka’s daughter had been abducted from the forest (śrutvā janakarājasya kānanāt tanayāṃ hṛtām).
 </details>
 </details>
 
@@ -673,6 +823,12 @@ _________________
 
 महामना भूपालराद नीवॆल्लरू राक्षसर मेलॆ आक्रमण माडलु सिद्धरागिद्दिरि. अन्दिनिन्द इन्दिनवरॆगॆ निम्म बहळ समय कळॆदुहोगिदॆ. आद्दरिन्द ईग नीवु तम्म नगरगळिगॆ मरळि होगुवुदु उचितवॆन्दु ननगॆ तोरुत्तदॆ.॥26½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A very great stretch of time has elapsed (kālo vyatītaḥ sumahān) for all of you high-souled monarchs standing mobilized in readiness (udyuktānāṃ ca sarveṣāṃ pārthivānāṃ mahātmanām); therefore I now approve your departure (gamanaṃ rocayāmy ataḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -697,6 +853,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग राजरु अत्यन्त हर्षगॊण्डु श्रीरामा! नीनु विजयियागि, तन्न राज्यदल्लि प्रतिष्ठितवादुदु दॊड्ड सौभाग्यद मातागिदॆ ऎन्दु हेळिदरु.॥27½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Overwhelmed with immense delight (harṣeṇa mahatā vṛtāḥ), those kings replied unto him (pratyūcus taṃ ca rājānaḥ): “By good fortune are you victorious, O Rāma (diṣṭyāṃ tvaṃ vijayī rāma), and firmly established in your own kingdom as well (svarājye ’pi pratiṣṭhitaḥ)!
 </details>
 </details>
 
@@ -724,6 +886,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नम्म सौभाग्यदिन्दले नीनु सीतॆयन्नु मरळि तन्दु, आ प्रबलशत्रुवन्नु सोलिसिदॆ. श्रीरामा! इदे नम्म दॊड्ड मनोरथवागिदॆ हागू इदे नमगॆ ऎल्लक्किन्त मिगिलाद सन्तोषद मातागिदॆ. इन्दु नावु विजयियाद निन्नन्नु नोडुत्तिद्देवॆ हागू निन्न शत्रुगळॆल्ल कॊल्लल्पट्टिरुवरु.॥28-29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** “By good fortune has Sītā been brought back (diṣṭyā pratyāhṛtā sītā), by good fortune has the foe been vanquished (diṣṭyā śatruḥ parājitaḥ)! This is our highest desire (eṣa naḥ paramaḥ kāmaḥ), this our supreme joy (eṣā naḥ prītir uttamā), that we behold you victorious, O Rāma, with all your enemies slain (yat tvāṃ vijayinaṃ rāma paśyāmo hataśātravam).
+
+**29:** “And this too is wholly befitting in you, that you thus praise us (etat tvayy upapannaṃ ca yad asmāṃs tvaṃ praśaṃsase); yet, O you who are worthy of praise (praśaṃsārha), we know not how to utter praise equal to this (na jānīmaḥ praśaṃsāṃ vaktum īdṛśīm).
 </details>
 </details>
 
@@ -753,6 +923,12 @@ _________________
 
 प्रशंसनीय श्रीरामा! नीनु नम्मन्नु प्रशंसिसुत्तिरुवॆ, इदु निनगॆ योग्यवे आगिदॆ. हीगॆ प्रशंसॆ माडुव कलॆयन्नु नावु तिळियॆवु.॥30॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We ask your leave and shall now depart (āpṛcchāmo gamiṣyāmaḥ)—ever shall you abide within our hearts (hṛdistho naḥ sadā bhavān); here have we dwelt, O mighty-armed one, encompassed by immense affection (vartāmahe mahābāho prītyātra mahatā vṛtāḥ), and may your love toward us, O great King, endure forevermore (bhavec ca te mahārāja prītir asmāsu nityadā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -781,6 +957,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हे महाबाहो! ईग नावु नम्म पुरगळिगॆ होगलु अप्पणॆ बयसुत्तेवॆ. नीनु सदा नम्म हृदयगळल्लि विराजमानरागिद्दियो हागॆये नम्मन्नु प्रेमदिन्द हृदयदल्लि इरिसिको. आग रघुनाथनु हर्षगॊण्डु राजरल्लि ‘खण्डितवागि हागे आगलि’ ऎन्दु हेळिदनु.॥31-32॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Assuredly!”—with these very words (bāḍham ity eva), all those monarchs, filled with supreme gladness (rājāno harṣeṇa paramānvitāḥ), eager to set forth (gamanotsukāḥ), spoke to Rāghava with joined palms (ucuḥ prāñjalayaḥ sarve rāghavam); and duly honored by Rāma, they departed each to their own realms (pūjitāś caiva rāmeṇa jagmur deśān svakān svakān).
 </details>
 </details>
 

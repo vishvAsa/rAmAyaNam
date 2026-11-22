@@ -69,6 +69,12 @@ well-being, desiring.
 "Then desiring both of our well-being I have begged of my brother who is enveloped
 in anger and behaving capriciously. [4-10-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, desiring my own welfare (hitakāmyayā), I sought to propitiate (prasādayāṃcakre) that brother who had arrived filled with wrath (krodhasamāviṣṭam) and agitated with fury (saṃrabdham):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +122,12 @@ you, alone, are the protector.
 the enemy and returned safely, and to an orphaned one like me you alone are the protector.
 [4-10-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘By good fortune (diṣṭyā) you have arrived safe and sound (kuśalī), and the enemy has been slain by you! Indeed, of me who am masterless (anāthasya), you alone are the lord (nāthaḥ), O gladdener of the helpless (anāthanandana)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -162,6 +174,12 @@ this, [regal] umbrella, you accept.
 Let this regal umbrella unfolded like a full moon, with its many of its spikes, and
 with accompanying fur-fans may please be accepted while I hold it for you. [4-10-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pray accept (pratīcchasva) this many-ribbed royal parasol (bahuśalākaṃ chatram) of yours, resembling the risen full moon, together with the yak-tail fan (savālavyajanam), held aloft by me.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +206,12 @@ with accompanying fur-fans may please be accepted while I hold it for you. [4-10
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वानरराजने! नानु बहळ दुःखितनागि ऒन्दु वर्षदवरॆगॆ आ बिलद बागिलल्लि निन्तिद्दॆ. बळिक बिलदॊळगिनिन्द रक्तद धारॆयु हरिदुबन्तु. द्वारदल्लि आ रक्तधारॆयन्नु नोडि नन्न मनस्सु शोकदिन्द उद्विग्नवायितु, नन्न इन्द्रियगळॆल्ल व्याकुलवादवु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Distressed (ārtaḥ), I stood there at the mouth of the cavern (biladvāri) for a full year (saṃvatsaram), O king; and upon seeing blood at the entrance, welling up from the cavern,
 </details>
 </details>
 
@@ -238,6 +262,12 @@ and on seeing the blood that started to flow from out the cave in the entrance m
 in sadness and my senses perturbed very much, and then covering that cave's entrance with a
 hilltop, and departing from that country, I re-entered Kishkindha. [4-10-4, 5, 6a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+my heart trembling with grief (śokasaṃvignahṛdayaḥ) and my senses sorely bewildered (vyākulitendriyaḥ), having blocked up that cavern entrance (apidhāya biladvāram) with a mountain crag (śailaśṛṅgeṇa) at that time,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -284,6 +314,12 @@ tvam arhasi* = therefore, me, to pardon, apt of you.
 "On seeing me returning with grief, the citizens and ministers alike crowned me, but
 that is not at my desire, therefore it is apt of you pardon me. [4-10-6b, 7a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+departing (apākramya) from that region, I re-entered Kiṣkindhā; and seeing me here in despondency (viṣādāt), by the citizens and by the ministers alike—’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -311,6 +347,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीने इल्लिय सन्मान्य राजनागिरुवॆ, नानु सदा हिन्दिनन्तॆ निन्न सेवकनागिद्देनॆ. निन्न वियोगदिन्दले राजनागि नन्न नियुक्ति आयितु.॥7½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘—I was consecrated (abhiṣiktaḥ), not out of my own desire (na kāmena); therefore you ought to forgive me that! You alone are the king worthy of honor (mānārhaḥ), and I am ever [your servant] just as before.
 </details>
 </details>
 
@@ -359,6 +401,12 @@ kantakam* = eliminated, thorniness; *sthitam* = is there.
 establishing me in kingship is owing to your unavailability, but the capital with citizens and
 ministers is kept up without thorniness. [4-10-7b, 8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This appointment (niyogaḥ) of mine to the royal office (rājabhāve) was made on account of your absence (tvadvirahāt); the city, together with its ministers and citizens, has remained free of thorns (nihatakaṇṭakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -406,6 +454,12 @@ this, kingdom; *tava* = to you; *niryaatayaami* = returning; *aham* = I am;
 
 "Oh, gentle one, I am now returning this custodial kingdom to you, oh, enemy
 eliminator, you need not be hostile towards me. [4-10-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I now restore (niryātayāmi) to you this kingdom, which was held by me as a sacred trust (nyāsabhūtam); pray do not harbor wrath (mā ca roṣaṃ kṛthāḥ) toward me, O gentle one, O destroyer of foes (śatruniṣūdana)!
 </details>
 </details>
 
@@ -457,6 +511,12 @@ on; *aham* = I was; *asmin* = to this [kingship]; *rajabhaave* = in kingship;
 city dwellers have collectively and forcibly nominated me to the kingship, only to keep the
 kingless kingdom under control. [4-10-10, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I implore you with bowed head (śirasā), O king, and here I fold my hands in supplication (baddho 'yam añjaliḥ): having assembled together, by the ministers and the townsfolk, by force (balāt)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -504,6 +564,12 @@ uktvaa* = to me said; *tat tat* = that, that, [expletives]; *bahu* = many;
 "While I was speaking that politely he threatened me and indeed used many expletives
 starting from 'fie, fie, upon you.' and the like. [4-10-11b, 12a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I was appointed to the royal office to prevent the conquest of a kingless land (śūnyadeśajigīṣayā).’ Though I spoke thus with affection (snigdham), that monkey [Vālin] fiercely upbraided (vinirbhartsya) me;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -549,6 +615,12 @@ garhitam vaakyam* = very, abusive, words; *aaha* = he said / hurled.
 
 "And summoning people and venerable ministers he hurled very abusive words at me
 among friends. [4-10-12b, 13a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and crying ‘Fie upon you!’ (dhik tvām iti) to me, he spoke many harsh words of various kinds (bahu tattad uvāca ha); and having convoked the subjects (prakṛtīḥ) as well as the esteemed counselors (mantriṇaḥ),
 </details>
 </details>
 
@@ -599,6 +671,12 @@ that; *viditam* = you are aware of.
 "You all are aware that earlier the gigantic and rancorous demon Maayaavi invited me
 desiring a duel in that night. [4-10-13b, 14a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+he spoke to me in the midst of my friends a most reproachful speech (vākyaṃ paramagarhitam): ‘It is well known to you (viditaṃ vaḥ) how at night that great demon Māyāvin,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -645,6 +723,12 @@ bhraataa* = this, brother; *anuyaataH ca* = followed, also; *tuurNam* = quickly;
 
 "On hearing his call for a duel I went out of the royal palace, and this very
 hazardous brother of mine quickly followed me. [4-10-14b, 15a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+filled with wrath and eager for battle (yuddhākāṅkṣī), challenged (samāhvayata) me then of old. Hearing that speech of his, I issued forth (niḥsṛto 'ham) from the royal palace (nṛpālayāt);
 </details>
 </details>
 
@@ -702,6 +786,14 @@ abhidrutaH* = speedily, he ran; *saH* = he; *mahaabilam* = great, cavity;
 me with a second one at my side, and he speedily entered a great cavity of earth on seeing us two
 nearly reaching him. [4-10-15b, 16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** and this most ruthless (sudāruṇaḥ) brother swiftly followed behind me. But when that mighty demon saw me at night accompanied by a second (sadvitīyam),
+
+**16:** he fled in terror (prādravad bhayasaṃtrastaḥ) upon beholding the two of us approaching together; and pursued with speed (abhidrutas tu vegena), he entered a vast cavern (mahābilam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -747,6 +839,12 @@ cavity; *atha* = then; *kruura darshanaH* = cruel to look; *ayam me bhraataa*
 
 "On knowing the demon's entry into that great precarious cavity, I said to this one,
 this cruel looking brother of mine. [4-10-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, knowing that he had entered that most dreadful and immense cavern, I spoke thus to this brother of mine, of cruel aspect (krūradarśanaḥ):
 </details>
 </details>
 
@@ -796,6 +894,12 @@ dvaari* = at cavity's, entrance; *pratiiksha* = wait.
 demon, hence you wait at this cavity's entrance, till I kill that demon and come out of the cavity.
 [4-10-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without slaying (ahatvā) him, I have no resolve (śaktiḥ) to return from here to the city; wait (pratīkṣa) at the mouth of the cavern until I slay him!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -843,6 +947,12 @@ impenetrable cave; *tadaa* = then; *tatra* = there; *tam* = him, that demon;
 "Believing that he stayed at the entrance of the cavity I entered that impenetrable
 cavity, and then in searching for that demon there one year elapsed. [4-10-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thinking ‘He stands here [on guard],’ I entered that inaccessible (durāsadam) cavern; and as I searched (mārgayataḥ) for him there, a full year passed by at that time.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -888,6 +998,12 @@ along with; *mayaa* = by me; *sadyaH nihataH* = immediately, killed.
 
 "I have seen that terrified enemy of mine effortlessly, and I killed him immediately
 along with all of his relatives. [4-10-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through tireless perseverance (anirvedāt), that terrifying foe was sighted by me; and he was slain by me at once, together with all his kinsmen (bandhubhiḥ).
 </details>
 </details>
 
@@ -935,6 +1051,12 @@ aakraamam aasiit* = impossible, to tread, it has become.
 "That cavity has become impassable, since it is fully filled with the gushes of
 blood emanating from the mouth of that demon who fell yelling onto ground. [4-10-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With the torrent of blood (rudhiraugheṇa) gushing from his mouth as he groaned (stanataḥ) upon the cavern floor (bhūtale), that cavern became filled and hard to traverse (durākrāmam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -980,6 +1102,12 @@ cavity's, closed, face.
 
 "On my killing that invading enemy easily, I could not see any exit from that cavity
 as its mouth was closed. [4-10-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having easily (sukham) destroyed that valorous foe, as I came forth (niṣkrāmam), I could not see the mouth of the cavern, for it had been blocked up (pihitam)!
 </details>
 </details>
 
@@ -1030,6 +1158,12 @@ and again; *vi kroshamaanasya* = while I loudly shouted; *me* = to me; *yataH*
 "Wherefore I did not get a reply though I repeatedly shouted, 'Sugreeva, oh,
 Sugreeva.' thereby I was very saddened. [4-10-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And as I cried out (vikrośamānasya) ‘O Sugrīva!’ again and again, since there was no reply (prativacaḥ), I became sorely distressed (bhṛśaduḥkhitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1075,6 +1209,12 @@ prahaaraiH* = with foot, poundings; *paripaatitam* = [lidded hilltop] is smashed
 
 "With my foot I pounded and smashed that lidded hilltop, and from there I exited
 that way and arrived here. [4-10-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through many blows of my feet (pādaprahāraiḥ), that [barrier] was battered down (paripātitam) by me; then, emerging by that path, I returned to the city.
 </details>
 </details>
 
@@ -1126,6 +1266,12 @@ _________________
 "As such this cruel fantasist of kingdom trammelled me in there forgetting the
 clannishness." So said Vali to all the courtiers. [4-10-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There I was locked in (saṃruddhaḥ) by this cruel Sugrīva, who was seeking the kingdom for himself (rājyaṃ mṛgayatātmanaḥ), having forgotten fraternal affection (bhrātṛsauhṛdam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1171,6 +1317,12 @@ clothing, one only; *nirvaasayaamaasa* = started to render me homeless - banishe
 
 "On saying thus that monkey ruthlessly banished me, then and there in the court
 itself, who am with a single clothing on my body. [4-10-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to me there, that monkey Vālin, free of all hesitation (vigatasādhvasaḥ), banished (nirvāsayāmāsa) me at that time with but a single garment (vastreṇaikena).
 </details>
 </details>
 
@@ -1244,6 +1396,14 @@ impenetrable one; *giri varam* = mountain, safest; *Rishyamuukam* = Mt. Rishyamu
 "I who am saddened by stealing my wife have entered this safest mountain Rishyamuka,
 which is impenetrable for Vali by another reason. [4-10-28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** Cast out (apaviddhaḥ) by him and robbed of my wife (hṛtadāraḥ), O Rāghava, out of fear of him I have roamed over the entire earth with its forests and oceans.
+
+**28:** Afflicted with grief over the abduction of my wife (bhāryāharaṇaduḥkhitaḥ), I have entered this best of mountains, Ṛṣyamūka, which is unassailable (durādharṣam) to Vālin owing to another cause (kāraṇāntare).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1289,6 +1449,12 @@ may see - examine; *anaagasaa* = without fault; *mayaa praaptam* = by me, attain
 
 "All this notable account of enmity is reported to you, oh, Raghava, and you may
 examine the dire straits befallen on me at no fault of mine. [4-10-29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All this great narration of enmity (vairānukathanam) has now been related to you; behold, O Rāghava, the calamity (vyasanam) that has befallen me though I am sinless (anāgasā)!
 </details>
 </details>
 
@@ -1337,6 +1503,12 @@ nigrahaat* = him, rein [him] in; *kartum arhasi* = to bestow, apt of you.
 invulnerability from the fear of Vali, and oh, valiant one, as well as to rein him in." Sugreeva
 requested Rama thus. [4-10-30]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O dispeller of the fear of all the worlds (sarvalokabhayāpaha), O hero, you ought to show grace (prasādam) to me, who live in terror of that Vālin, by subduing him (tasya nigrahāt).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1384,6 +1556,12 @@ started.
 When he is requested thus by Sugreeva, that virtuous and resplendent Rama started to
 tell Sugreeva, the words that abide by virtue, as though trivializing the task on hand.
 [4-10-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, that resplendent (tejasvī) knower of dharma (dharmajñaḥ), as if smiling (prahasann iva), began to speak to Sugrīva a speech fraught with righteousness (dharmasaṃhitam):
 </details>
 </details>
 
@@ -1434,6 +1612,12 @@ vaalini* = on that, Vali; *patiSyanti* = will fall.
 "Admirable and sun-like burners are these arrows of mine that are now mingled with
 my wrath, and they are bound fall on that evil minded Vali. [4-10-32]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘These unerring (amoghāḥ), whetted arrows of mine, bright as the sun (sūryasaṃkāśāḥ), filled with wrath (ruṣānvitāḥ), shall fall upon that evil-conducting (durvṛtte) Vālin!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1479,6 +1663,12 @@ abuser; *saH vaalii jiivet* = he, that, Vali, will live.
 
 "He that stealer of your wife, that evil-minded abuser of history lives as long as I
 descry. [4-10-33]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Only so long as I do not behold that abductor of your wife (tava bhāryāpahāriṇam) may that wicked-souled (pāpātmā) Vālin, the defiler of righteous conduct (cāritradūṣakaḥ), continue to live!
 </details>
 </details>
 
@@ -1526,6 +1716,12 @@ definitely; *praapsyasi* = you will regain; *pushkalam* = abundantly.
 "By my experience I see how you are deluged in a sea of sadness, but I will make you
 to get over that sea, and you will definitely regain abundantly whatever you lost." Rama assured
 Sugreeva thus. [4-10-34]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By inference from my own self (ātmānumānāt), I see that you are plunged in an ocean of grief (śokasāgare); I shall ferry you across (tārayiṣyāmi), and truly (bāḍham) you shall obtain abundant prosperity (puṣkalam)!’
 </details>
 </details>
 
@@ -1583,6 +1779,12 @@ Sugreeva is very gladdened and further said this great sentence. [4-10-35]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हत्तनॆय सर्ग सम्पूर्णवायितु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of his, which heightened his joy and valor (harṣapauruṣavardhanam), Sugrīva, supremely pleased (paramaprītaḥ), spoke a most momentous reply (sumahad vākyam).
 </details>
 </details>
 

@@ -51,6 +51,12 @@ be destroyed by him in the ensuing battle.
 
 राक्षसराजनाद रावणन ई विलापवन्नु केळि कुम्भकर्णनु गहगहिसि नगुत्ता हेळिदनु .॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the lamentation (paridevitam) of that king of the Rākṣasas, Kumbhakarṇa laughed aloud (prajahāsa ca) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -78,6 +84,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अण्णा! मॊदलु विभीषणादिगळ जॊतॆगॆ मन्त्रालोचनॆ माडुवाग नावु नोडिद दोषवे ईग निनगॆ प्राप्तवागदॆ. एकॆन्दरॆ नीनु हितैषिगळ मातिनल्लि विश्वासविडुवुदिल्ल.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That very calamity (doṣaḥ) which was foreseen by us of old at the conclusion of our counsel (mantravinirṇaye) has now been encountered by you, who ignored those devoted to your welfare (hiteṣv anabhiruktena).”
 </details>
 </details>
 
@@ -128,6 +140,12 @@ _________________
 "How a doer of wicked deeds indeed falls into damnation, so also a punishment for your
 sinful act has indeed reached your fast."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Swiftly indeed has the fruit of your sinful deed (pāpasya karmaṇaḥ) overtaken you, just as falling into the hells (nirayeṣv eva patanam) overtakes the doer of evil!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -174,6 +192,12 @@ darpeNa* = only because of your arrogance of power.
 "O emperor! This course of action was not excepted by you at first. You did not conceive
 this consequence, only because of your sheer arrogance of power."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the very outset (prathamaṃ vai), O great King, this course of action was left unpondered (acintitam); through sheer pride of valour (vīryadarpeṇa), its consequence (anubandhaḥ) was never weighed.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -215,6 +239,12 @@ course and the wrong course.
 "He who, abiding in power, performs duties to be done earlier at a later stage and duties
 to be done later, at an early stage, does not know what is a right course and what is a wrong course."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who, resting upon his royal power (aiśvaryam āsthitaḥ), performs initial duties afterwards and subsequent duties first (pūrvaṃ cottarakāryāṇi), knows neither sound policy nor impolicy (nayānayau).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -253,6 +283,12 @@ haviimSiva* = like offering oblations; *aprayateSu* = without making the fire we
 
 "Action done perversely, regardless of space and time, get spoiled like offering oblations
 without properly making the fire well-prepared."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Actions performed out of sequence (viparītavat), devoid of proper place and time (deśakālavihīnāni), are spoiled like oblations offered into unsanctified fires (havīṃṣy aprayateṣv iva).”
 </details>
 </details>
 
@@ -311,6 +347,12 @@ and material to be worked upon. 3) Time and place of action. 4) Provision agains
 of success.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who, having established a firm resolution (samayaṃ kṛtvā) with his ministers, masters the fivefold application (pañcadhā yogam) of the three courses of action (trayāṇāṃ karmaṇām), walks truly upon the right path.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -357,6 +399,12 @@ anupashyati* = and discovers; *suhR^idashcha* = through his friends; (he is on a
 intellect as well as the counsellors and discovers it through his friends, is on a right course."
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And that king who desires to determine his course according to the treatises of statecraft (yathāgamaṃ ca), discerns through his intellect with his ministers and recognizes his true friends (suhṛdaś cānupaśyati).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -413,6 +461,12 @@ pleasure or worldly gain and pleasure, according to an appointed time*."
 in the afternoon and sensuous pleasure at night. As an alternative, one is called upon to pursue
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the proper time (kāle), O Lord of Rākṣasas, a man should pursue righteousness, wealth, or pleasure (dharmam arthaṃ hi kāmaṃ vā), or all three, or again the three pairs (trīṇi dvandvāni vā punaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,6 +523,12 @@ raakSasaraajasya* = of that Ravana; *kumbhakarNaH* = Kumbhakarna; *babhaaSe* = s
 
 Hearing the lamentation of Ravana, Kumbhakarna laughed at a full volume and spoke as
 follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whoever—whether a reigning king or one of royal standing (rājā vā rājamātro vā)—hears which among these three is supreme (yac chreṣṭham) and yet fails to comprehend it, for him all his wide learning is in vain (vyarthaṃ tasya bahuśrutam).”
 </details>
 </details>
 
@@ -535,6 +595,14 @@ at appropriate occasion or exhibits valour or resorts to them all together or ta
 right action and the reverse of it at the right time or pursues virtue or worldly gain or pleasure at
 the appropriate time, that intelligent person never confronts a misfortune in this world."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “Bestowal of gifts (upapradānam), conciliation (sāntvam), dissension (bhedam), and valorous force (vikramam) at the right time, as well as their combination (yogam), O foremost of Rākṣasas, and both policy and impolicy (tāv ubhau ca nayānayau)—”
+
+**12:** “—he who, self-possessed (ātmavān), deliberates with his ministers and practises righteousness, wealth, and pleasure in their proper season (kāle dharmārthakāmān), never meets with calamity (vyasanam) in this world.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -576,6 +644,12 @@ the things.
 "A sovereign has to do an act here, looking into his welfare as a consequence along with
 his counsellors who make their subsistence by their intelligence and who understand the true state of
 the things."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having weighed the salutary consequence (hitānubandham ālokya), a king should accomplish his purpose here together with ministers who know the true nature of affairs (arthatattvajñaiḥ) and live by their intellect (buddhijīvibhiḥ).”
 </details>
 </details>
 
@@ -626,6 +700,12 @@ tell; *praagalbhyaat* = haughty things; *anabhiJNaaya* = without knowing; *shaas
 "Men with brutal ideas, who are initiated in discussions, aspire to tell haughty things,
 without fully knowing the precepts of the scriptures."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without comprehending the import of the treatises (anabhijñāya śāstrārthān), men of beastly intellect (paśubuddhayaḥ), once admitted into the inner circle of counsellors (mantriṣv abhyantarīkṛtāḥ), desire to speak out of sheer audacity (prāgalbhyāt).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -668,6 +748,12 @@ for; *vipulaam* = abundant; *shriyam* = wealth; *na kaaryam* = are not to be imp
 
 "The words spoken by those who did not know the scriptures, who do not recollect the
 books dealing with practical life and who covet for abundant wealth are not to be implemented."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The speech uttered by those who are ignorant of the treatises (aśāstraviduṣām) and unacquainted with the science of polity (arthaśāstrānabhijñānām), yet who covet vast fortune, must never be acted upon.”
 </details>
 </details>
 
@@ -712,6 +798,12 @@ form; *kartavyaaH* = are to be kept; *mantrabaahyaaH* = out of deliberations; *t
 "Those men who talk with audacity, some inimical things in a friendly way, are to be
 kept out of deliberations, as they certainly spoil the work to be done."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And those men who insolently prattle (dhārṣṭyāj jalpanti) what is injurious under the guise of what is salutary (ahitaṃ ca hitākāram)—those spoilers of state affairs (kṛtyadūṣakāḥ) must certainly be excluded from counsel (mantrabāhyāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -751,6 +843,12 @@ kR^ityaani* = wrong deeds.
 
 "Some counsellors, colluding with some learned adversaries, spoil their king and make
 them do wrong deeds."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bringing ruin upon their master (vināśayanto bhartāram), such ministers, leagued with clever enemies (sahitāḥ śatrubhir budhaiḥ), cause perverted measures (viparītāni kṛtyāni) to be enacted here.”
 </details>
 </details>
 
@@ -796,6 +894,12 @@ friends.
 "The king should make-out those ministers who have been transformed by the enemy to their
 side (through bribery and other things) and are enemies though looking like friends, through their conduct
 when a final decision is being taken after deliberation."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In the determination of counsel (mantranirṇaye), a master should recognize through their conduct (vyavahāreṇa jānīyāt) those suborned ministers (sacivān upasaṃhitān) who are enemies wearing the semblance of friends (mitrasaṃkāśān amitrān).”
 </details>
 </details>
 
@@ -845,6 +949,12 @@ when a final decision is being taken after deliberation."
 quickly performs the acts, as birds discover the hole (made by the arrow of Skanda, the commander-in-chief
 of gods) in the Kruancha mountain."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When a rash ruler (capalasya) headlong pursues enterprises here without reflection (sahasānupradhāvataḥ), others [his foes] enter into his vulnerable weak point (chidram anye prapadyante), just as birds fly through the cleft of Mount Krauñca (krauñcasya kham iva dvijāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -890,6 +1000,12 @@ an enemy; *naabhirakSati* = and does not protect; *aatmaanam* = himself; *saH*
 
 "A king who disregards an enemy and does not protect himself, indeed faces disappointing
 occurrences and would be removed from his position."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For he who, despising his enemy (śatrum avajñāya), fails to guard himself (ātmānaṃ nābhirakṣati), surely incurs calamities (anarthān) and is cast down from his royal station (sthānāc ca vyavaropyate).”
 </details>
 </details>
 
@@ -937,6 +1053,12 @@ do; *tat* = it; *yat* = whatever; *ichchhasi* = you wish.
 "That advice which was tendered to you earlier by vibhishana is beneficial to us. Do
 whatever you wish to do."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That which was spoken to you here before by my beloved [queen Mandodarī] and by my younger brother [Vibhīṣaṇa]—that word alone is salutary for us (no hitaṃ vākyam); yet do as you wish (yathecchasi tathā kuru)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -979,6 +1101,12 @@ bhrukuTim* = his eye-brows; *abhaaSata* = and spoke; *enam* = this; *kruddhasheh
 
 On hearing those words of Kumbhakarna, Ravana, on his part, twisted his eye-brows in
 anger and spoke the following words:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of Kumbhakarṇa, Daśagrīva knit his brows in a frown (bhrukuṭiṃ caiva saṃcakre) and, filled with wrath, spoke to him:
 </details>
 </details>
 
@@ -1030,6 +1158,12 @@ speech?; *yuktam* = let a befitting work; *kaale* = appropriate to the time; *vi
 "Why are you advising me like a venerable great teacher? What is the use in getting wearied
 of your speech? Let a work, most befitting of time, be performed."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Like a venerable elder or a preceptor (mānyo gurur ivācāryaḥ), why do you lecture me (kiṃ māṃ tvam anuśāsase)? What is the use of exhausting your voice thus (vākśramaṃ kṛtvā)? Let that which is fitting now be done!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1072,6 +1206,12 @@ done; (before); *vibramaat* = by mistake; *chittamohaadvaa* = or by illusion of 
 
 "Now, it is a waste to tell again of that act which was wrongly done before, either by
 mistake or by an illusion of mind or by taking shelter in strength and prowess."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That which was not undertaken at the time—whether through error (vibhramāt), delusion of mind (cittamohāt), or reliance upon strength and valour (balavīryāśrayeṇa vā)—of what avail is further talk of it now (vyarthā tasya punaḥ kathā)?”
 </details>
 </details>
 
@@ -1119,6 +1259,12 @@ tu* = past still; *gatameva hi* = is indeed the past.
 
 "Let whatever be appropriate at this moment be thought of now. Wise men do not repent
 over the past. Past is indeed but the past."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let that alone which is fitting at this hour be considered now (tad idānīṃ vicintyatām); men do not mourn what is past, for what is gone is gone indeed (gataṃ tu gatam eva hi)!”
 </details>
 </details>
 
@@ -1172,6 +1318,12 @@ _________________
 it fit in your heart that my work is to be done very much, you nullify the hardship, born out of my
 wicked conduct, by your prowess."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Repair by your valour (vikrameṇa samīkuru) the disaster born of my impolicy (mamāpanayajaṃ doṣam), if indeed you bear affection for me or understand what valour demands (vikramaṃ vādhigacchasi)—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1215,6 +1367,12 @@ an afflicted soul; *vipannaartham* = whose fortune is ruined; *saH* = he; *suhR^
 
 "He who rescues an afflicted soul, whose fortune is ruined, he is the real friend. He
 who is ready at hand to help those who have deviated from the right course, is a kinsman."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—or if this task of mine is deemed in your heart the most urgent of duties (hṛdi kāryatamaṃ matam)! He alone is a true friend who succours a downcast comrade whose affairs are ruined (yo vipannārthaṃ dīnam abhyupapadyate);”
 </details>
 </details>
 
@@ -1265,6 +1423,12 @@ _________________
 
 Thereupon, hearing those deeply harsh words spoken by Ravana and understanding that he
 is quite enraged, Kumbhakarna spoke slowly and smoothly.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—and he alone is a true kinsman (sa bandhuḥ) who comes forward to render aid when policies have miscarried (apanīteṣu). Hearing him speak thus in words both grave and harsh (vacanaṃ dhīradāruṇam)—”
 </details>
 </details>
 
@@ -1323,6 +1487,12 @@ tvayaa* = by you; *hiteSu anabhiyuktena* = due to the disregard of well-wishers;
 after our consultation, is faced by you now, due to your utter disregard of the words spoken by your
 well-wishers."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—and perceiving, ‘He is incensed (ruṣṭo 'yam)!’, [Kumbhakarṇa] spoke gently and soothingly (śanaiḥ ślakṣṇam uvāca ha); for seeing his brother's senses sorely agitated (kṣubhitendriyam)—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1374,6 +1544,14 @@ well-wishers."
 demons! Enough of your giving way to the anguish. Abandoning your anger completely, you ought to be
 your normal self again."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** “—Kumbhakarṇa softly spoke these words to console him (parisāntvayan): ‘Hear my words with an attentive mind (avahitaḥ), O King, tamer of foes!’”
+
+**31:** “Enough of giving way to anguish (alaṃ saṃtāpam upapadya), O sovereign of Rākṣasa kings! Casting aside your wrath as well, you ought to recover your composure (svastho bhavitum arhasi).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1423,6 +1601,12 @@ I; *naashayiSyaami* = shall destroy; *tam* = him; *yatkR^ite* = for whose accoun
 "O king! Until I live, this idea should not be formed in your mind. I shall destroy him,
 for whose account, you are feeling anguished."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You must not take this to heart (naitan manasi kartavyam) while I live, O monarch; I shall destroy him on whose account you are tormented (yatkṛte paritapyate)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1469,6 +1653,12 @@ for whose account, you are feeling anguished."
 "O king! In whatever situation you are placed, I have to give certainly a good advice
 to you. I gave this advice, because of our relation and brotherly affection."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What is salutary (hitam) must necessarily be spoken by me to you in every circumstance (sarvāvastham), O King, uttered out of kinship (bandhubhāvāt) and fraternal affection (bhrātṛsnehāc ca).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1512,6 +1702,12 @@ of affection; *kriyamaaNam* = is being done; *mayaa* = by me; *raNe* = in battle
 "See that which is to be done and this juncture, out of affection by a brother, viz.
 the destruction of adversaries in battle, will be done by me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And whatever is fitting for an affectionate kinsman to accomplish at this critical hour (kāle 'smin)—behold now the slaughter of your enemies (śatrūṇāṃ kadanam) wrought by me in battle!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1551,6 +1747,12 @@ Rama; *bhraatraasaha* = along with his brother; *hate* = being killed; *mayaa*
 
 "See today, O mighty armed king, the fleeing army of monkeys and Rama along with his
 brother being killed by me in the fore-front of the battle-field."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold today, O mighty-armed one, the monkey host fleeing (dravantīṃ harivāhinīm) when Rāma, together with his brother, is slain by me at the forefront of battle (samaramūrdhani)!”
 </details>
 </details>
 
@@ -1598,6 +1800,12 @@ adya* = today; *raNaat* = from the battle; *bhava sukhii* = become pleased; *sii
 "O the mighty armed! Be happy by seeing that Rama's head, which I shall bring today from
 the battle. Let Seetha be unhappy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding today that head of Rāma brought back by me from the battlefield (mayānītaṃ raṇāc chiraḥ), be happy, O mighty-armed one, and let Sītā be plunged into grief (sītā bhavatu duḥkhitā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1637,6 +1845,12 @@ Lanka; *nihata baandhavaaH* = who lost their relative; *te sarve* = let all of t
 
 "Let all those demons in Lanka, whose relatives have died in battle, witness the death
 of the most beloved Rama today."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let all those Rākṣasas in Laṅkā whose kinsmen have been slain (nihatabāndhavāḥ) behold today the most welcome death of Rāma (rāmasya nidhanaṃ sumahat priyam)!”
 </details>
 </details>
 
@@ -1678,6 +1892,12 @@ vinaashena* = due to destroyable by the adversaries; *yudhi* = in combat.
 "Today, I shall do the act of wiping off tears of demons, who have been afflicted with
 grief and lamenting because of the destruction of their relatives in combat by the adversaries."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By destroying the enemy in battle today, I shall wipe away the tears (karomy aśrupramārjanam) of those who are overwhelmed with grief and mourning the slaughter of their kinsmen (svabandhuvadhaśocinām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1717,6 +1937,12 @@ by) the sun; *prakiirNam* = thrown about; dissipated.
 
 "See today in battle, the mountain-like Sugreeva, the king of monkeys, looking like a
 cloud illuminated by the sun, thrown about, dissipated."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold today in battle Sugrīva, lord of the monkeys (plavageśvaram), who resembles a mountain, rent asunder like a thundercloud together with the sun (sasūryam iva toyadam)!”
 </details>
 </details>
 
@@ -1763,6 +1989,12 @@ being consoled; *ebhiH raakSasaiH* = by these demons; *mayaa cha* = and by me; *
 
 "O faultless Ravana! Why are you agitated now, when you are being consoled by those demons
 and by me, who are desirous of killing Rama?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And how, O sinless one (anagha), when consoled by these Rākṣasas and by me (mayā ca parisāntvitaḥ), who are eager to slay the son of Daśaratha (jighāṃsubhir dāśarathim), do you continually despair (vyathase)?”
 </details>
 </details>
 
@@ -1813,6 +2045,12 @@ nihatya* = after killing; *maam* = me; *nihaniSyati kila hi* = will indeed kill;
 "O king of demons! Rama will indeed kill you, only after killing me. On that account,
 I do not regret for myself."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Only after slaying me, forsooth (māṃ nihatya kila), could Rāghava slay you; and as for myself, O Lord of Rākṣasas, I feel no anxiety on my own account (nāham ātmani saṃtāpaṃ gaccheyam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1852,6 +2090,12 @@ be sought; *yuddhaaya* = (for dispatch) to battle.
 
 "O Ravana, having unequal prowess and the annihilator of enemies! You can command me,
 even now, as you wish. No other person need be sought, for a dispatch to the battle."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Command me even now at your pleasure (kāmaṃ tv idānīm api māṃ vyādiśa), O scorcher of foes; no other warrior need be looked for by you (na paraḥ prekṣaṇīyas te) for battle, O hero of peerless valour!”
 </details>
 </details>
 
@@ -1896,6 +2140,12 @@ even now, as you wish. No other person need be sought, for a dispatch to the bat
 "I can destroy your enemies, who have a great strength. I can engage in combat with all
 those persons, whether he is Indra or Yama or the fire-god to the wind-god or even Varuna."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall annihilate (utsādayiṣyāmi) your mighty enemies! Even if they be Śakra, or Yama, or the Fire-God and Wind-God (pāvakamārutau)—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1935,6 +2185,12 @@ dharasya* = wielding a sharpened pike; *tiikSNa damSTrasya* = having pointed tus
 
 "Indra also gets frightened of me, having a mountain-sized body wielding a sharpened
 pike, having pointed tusks and even as I roar."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—I shall fight against them, even Kubera and Varuṇa themselves (kuberavaruṇāv api)! Of me, whose body measures a mountain (girimātraśarīrasya) and who wields a sharp trident (śitaśūladharasya)—”
 </details>
 </details>
 
@@ -1978,6 +2234,12 @@ sthaatum* = to stand; *pratimukhaH* = in front (of me); *jijiivSuH* = alive.
 
 "Even otherwise, no one can stand alive in front of me, who is even weaponless and smashing
 the enemies by me strength alone."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—as I roar with razor-sharp fangs (nardatas tīkṣṇadaṃṣṭrasya), Purandara [Indra] himself would be terrified (bibhīyād vai puraṃdaraḥ), or even when I have cast aside my weapons and crush foes by sheer main force (mṛdnatas tarasā ripūn)!”
 </details>
 </details>
 
@@ -2025,6 +2287,12 @@ Indra; *hastaabhyamaiva* = with my hands only.
 "Without using a javelin or a mace or a sword or sharp arrows, I myself, on getting excited,
 can kill even Indra, with my bare hands."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“No one who desires to live (jijīviṣuḥ) is able to stand facing me (pratimukhaḥ sthātum)—no, neither with javelin (śaktyā), nor with mace, nor with sword, nor with whetted shafts!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2064,6 +2332,12 @@ blood; *raaghavasya* = of Rama.
 
 "If Rama today survives even after facing the rapid blows of my fists, then my flood
 of arrows will drink the blood of Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rushing forward in fury (saṃrabhya), with my bare hands alone (hastābhyām eva) I could slay even the wielder of the thunderbolt (savajriṇam)! If that Rāghava endures the impact of my fist today (yadi me muṣṭivegaṃ sa rāghavo 'dya sahiṣyati)—”
 </details>
 </details>
 
@@ -2105,6 +2379,12 @@ such; *udyataH* = am ready; *niryaatum* = to sally forth; *tava shatruvinaashaay
 "O king! When I exist, why do you suffer from anxiety? Here, I am ready to sally forth
 for the destruction of your enemies."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—then floods of my arrows (bāṇaughāḥ) shall drink the blood of Rāghava! Why, O King, are you tormented by anxiety while I stand here (mayi tiṣṭhati)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2129,6 +2409,12 @@ for the destruction of your enemies."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रामनिन्द इरुव निन्न घोर भयवन्नु त्यजिसिबिडु. नानु रणभूमियल्लि राम लक्ष्मण मत्तु महाबलि सुग्रीवनन्नु अवश्यवागि कॊन्दुहाकुवॆनु.॥49½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here I stand ready to sally forth (niryātum udyataḥ) for the destruction of your enemies! Cast off your dreadful fear of Rāma (muñca rāmād bhayaṃ ghoram); I shall slay in battle—”
 </details>
 </details>
 
@@ -2192,6 +2478,14 @@ ordinary; *yashaH* = reputation; *tava* = for you.
 "I shall devour the monkeys in battle, which is near at hand. I wish to contribute a
 tremendous and extraordinary reputation for you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**50:** “—Rāghava, and Lakṣmaṇa as well, and the mighty Sugrīva, and Hanūmān the slayer of Rākṣasas (rakṣoghnam), by whom Laṅkā was set ablaze (yena laṅkā pradīpitā)!”
+
+**51:** “And when battle is joined (saṃyuge samupasthite), I shall devour the monkeys; I wish to bestow upon you a vast and matchless renown (asādhāraṇam icchāmi tava dātuṃ mahad yaśaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2240,6 +2534,12 @@ celestials; *shayiSyante* = lay down; *mahiitale* = on the floor.
 'O king! If you have a fear for Indra or even for Brahma, I shall remove it then, as
 the sun removes darkness of the night. When I am enraged, even celestials will lay down on the floor."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if your fear comes from Indra, O King, or even from Svayambhū [Brahmā] himself, I shall dispel it just as the sun dispels the darkness of night (naiśaṃ tama ivāṃśumān)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2286,6 +2586,12 @@ paatayiSyaami sanakSatram* = I shall cause the sun along with the stars to fall 
 "I shall extinguish even Yama the god of death. I shall devour the fire-god. I shall
 cause the sun along with the stars to fall asunder on the floor."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When I am enraged (mayi kruddhe), even the Gods shall lie prostrate upon the face of the earth (devāḥ śayiṣyante mahītale); I shall quell Yama himself and devour the Fire-God (bhakṣayiṣyāmi pāvakam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2331,6 +2637,12 @@ earth.
 
 "I shall kill Indra. I shall drink away the ocean. I shall crush the mountains into a
 powder. I shall tear up the earth."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall hurl the Sun together with the constellations (ādityaṃ sanakṣatram) down upon the face of the earth! I shall slay Śatakratu [Indra] and drink dry the ocean, the abode of Varuṇa (pāsyāmi varuṇālayam)!”
 </details>
 </details>
 
@@ -2390,6 +2702,14 @@ eating.
 "Let all the living beings, being devoured from all sides see today the prowess of Kumbhakarna,
 who slept for a long time. The entire heaven is not enough for my food."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**55:** “I shall pulverize the mountains (parvatāṃś cūrṇayiṣyāmi) and cleave the earth asunder (dārayiṣyāmi medinīm)! The valour of Kumbhakarṇa, who has slept for so long a time (dīrghakālaṃ prasuptasya)—”
+
+**56:** “—let all beings behold today as they are devoured on every side (bhakṣyamāṇāni sarvaśaḥ)! Even the whole of this triple heaven (tridivaṃ sarvam) does not suffice to fill my appetite (āhāro mama pūryate)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2439,6 +2759,12 @@ saha* = along with Lakshmana; *khaadaami* = I shall devour; *sarvaan* = all; *ha
 
 "I am going to bring you happiness, conferring you a delight by the destroyal of Rama.
 Having killed Rama along with Lakshmana, I shall devour all the chiefs of army of monkeys."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I go forth to win for you happiness that brings ever-increasing joy (sukhāvahaṃ sukham) through the slaying of Daśaratha's son; having slain Rāma together with Lakṣmaṇa, I shall devour all the foremost leaders of the monkey troops (hariyūthamukhyān)!”
 </details>
 </details>
 
@@ -2502,5 +2828,11 @@ your after a log time."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तमूरनॆय सर्ग पूर्णवायितु. ॥63॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Take your pleasure, O King, and drink Vāruṇī wine today (piba cādya vāruṇīm); perform your royal duties, casting aside your grief (vinīya duḥkham)! Once Rāma is dispatched by me today to the abode of Yama (yamakṣayam), Sītā shall forever become subject to your will (vaśagā bhaviṣyati)!”
 </details>
 </details>

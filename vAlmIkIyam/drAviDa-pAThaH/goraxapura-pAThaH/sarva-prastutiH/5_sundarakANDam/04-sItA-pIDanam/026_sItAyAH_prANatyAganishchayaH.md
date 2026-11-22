@@ -88,6 +88,14 @@ started to weep.
 Seetha was crying like a mad one, like an intoxicated one, with a deluded mind. Like a female horse
 rolling on ground, Seetha rolled on the ground.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Speaking thus, the young daughter of Janaka (bālā janakātmajā), her face streaming with incessant tears (prasaktāśrumukhī) and her head bowed low (adhogatamukhī), began to lament (vilaptum upacakrame).
+
+**2:** Grieving like one possessed (unmatteva), like one distraught (pramatteva), like one whose mind is bewildered (bhrāntacitteva), she writhed upon the ground (viceṣṭantī mahītale) like a rolling filly (upāvṛttā kiśorīva):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +135,12 @@ wear desired form.
 
 "While Rama was heedless (taken away by Mareecha), I who have been crying was forcibly brought
 overpowered by the ogre Ravana who can wear desired form."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While Rāghava was off his guard (rāghavasya pramattasya), I was forcibly carried off, crying aloud (ānītā krośatī balāt), after being harassed (pramathya) by the rākṣasa Rāvaṇa, who assumes any form at will (kāmarūpiṇā).
 </details>
 </details>
 
@@ -170,6 +184,12 @@ _________________
 "Being under the control of ogresses, being frightened very horribly, thinking and being tormented
 by grief, I do not desire to live."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fallen under the power of the ogresses (rākṣasīvaśam āpannā) and reviled most cruelly (bhartsyamānā ca dāruṇam), brooding and sorely afflicted with sorrow, I cannot bear to live (nāhaṃ jīvitum utsahe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,6 +229,12 @@ bhushhaNaishcha* = not with ornaments.
 
 "Without Rama, a great car-warrior, living in the midst of ogresses, there is no use with life
 to me; not with wealth, not with ornaments."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For I have no use for life (nahi me jīvitenārthaḥ), nor for riches, nor for ornaments (naivārthair na ca bhūṣaṇaiḥ), while dwelling in the midst of ogresses without the great-charioteer Rāma.
 </details>
 </details>
 
@@ -259,6 +285,12 @@ and without death; *yena* = by what reason; *naavashiiryate* = is it not destroy
 "Or my this heart truly is made of iron. It is undecaying and without death. By what reason is
 it not destroying with sorrow?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely this heart of mine is fashioned of stone (aśmasāram idaṃ nūnam), or else is ageless and immortal (ajarāmaram), since it does not shatter with grief (na duḥkhena viśīryate)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -308,6 +340,12 @@ _________________
 "Whoever I with a sinful life made to be without Rama, protecting life even for a moment, to such
 me who am ignoble, who am bad wife, shame on me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fie upon me, ignoble and unchaste (dhig mām anāryām asatīm), I who, bereft of him (tena vinā kṛtā), continue to live my life even for a moment, subsisting on sin (pāpajīvikā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +388,12 @@ sukhe vaa* = or in comfort.
 
 "Without husband Rama who is the lord of the earth with ocean at the end, a pleasant talker, what
 is the interest to me in life or in comfort."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I would not touch that night-stalker Rāvaṇa (na spṛśeyaṃ niśācaram) even with my left foot (caraṇenāpi savyena)—how much less could I desire (kiṃ punar ahaṃ kāmayeyam) that execrable wretch (vigarhitam)!
 </details>
 </details>
 
@@ -401,6 +445,12 @@ sorrow; *chiram* = for a long time.
 "I will leave the body. Let it be split into pieces or let it be eaten. I without husband will
 not tolerate sorrow for a long time."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He does not understand my rejection (pratyākhyānaṃ na jānāti), nor does he know himself nor his own lineage (nātmānaṃ nātmanaḥ kulam), he who in his cruel nature (nṛśaṃsasvabhāvena) seeks to woo me!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -448,6 +498,12 @@ conduct; *kaamayeyam kiM punaH* = what to say of desiring (him).
 
 "I will not touch even with my left foot Ravana an ogre of reprehensible conduct. What to say of
 desiring him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whether hacked (chinnā), split (bhinnā), or torn limb from limb (prabhinnā vā), or blazing and cast into the fire (dīptā vāgnau pradīpitā), I will never wait upon Rāvaṇa (rāvaṇaṃ nopatiṣṭheyam); what is the use of your prattling so long (kiṃ pralāpena vaś ciram)?
 </details>
 </details>
 
@@ -499,6 +555,12 @@ jaanaati* = does not know; *aatmaanam* = him; *pratyaakhyaatam* = to be refused;
 "Whoever Ravana with a cruel nature is desiring to solicit me, that Ravana does not know him to
 be refused; he does not know his race."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Renowned (khyātaḥ), wise (prājñaḥ), grateful (kṛtajñaś ca), and compassionate is Rāghava (sānukrośaś ca rāghavaḥ); yet I suspect that he of noble conduct has become pitiless (niranukrośaḥ) through the exhaustion of my good fortune (madbhāgyasaṃkṣayāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -549,6 +611,12 @@ pralaapena* = with your prattling; *chiram* = for a long time.
 "Even if cut or if divided into parts in blazing fire, I will not reach Ravana. What is the use
 with your prattling for a long time?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fourteen thousand rākṣasas (rākṣasānāṃ sahasrāṇi caturdaśa) were vanquished in Janasthāna by him alone (ekenaiva nirastāni)—why then does he not come to my rescue (sa māṃ kiṃ nābhipadyate)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -598,6 +666,12 @@ became) hard hearted.
 "Rama is famous, is a wise man, is compassionate with a good conduct. Due to the deterioration
 of my fortune, I doubt He became hard hearted."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am held captive by Rāvaṇa, a rākṣasa of paltry valor (alpavīryeṇa rakṣasā); yet my husband is assuredly capable (samarthaḥ khalu me bhartā) of slaying Rāvaṇa in battle (rāvaṇaṃ hantum āhave).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -645,6 +719,12 @@ _________________
 
 "By whom alone fourteen thousand of ogres have been destroyed, why is that Rama not saving me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He by whom Virādha, that bull among rākṣasas (rākṣasapuṃgavaḥ), was slain in battle in the Daṇḍaka forest (daṇḍakāraṇye)—why does that Rāma not come to my rescue (sa māṃ kiṃ nābhipadyate)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -686,6 +766,12 @@ khalu* = is indeed capable; *hantum* = to kill; *raavaNam* = Ravana; *ahave* = i
 
 "I am withheld by the ogre Ravana with little strength. My husband is indeed capable of killing
 Ravana in a war."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Granted that this Laṅkā, standing in the midst of the ocean (madhye samudrasya), is hard to assail (duṣpradharṣaṇā); yet there will be no obstruction to the flight of Rāghava's arrows (rāghavabāṇānāṃ gatirodho bhaviṣyati).
 </details>
 </details>
 
@@ -730,6 +816,12 @@ _________________
 "By which Rama Viradha, best among ogres, has been killed in Dandaka forest in a war, why is that
 He not saving me?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What then can be that reason (kiṃ nu tat kāraṇam) whereby Rāma of firm valor (dṛḍhaparākramaḥ) does not rescue his beloved wife (bhāryām iṣṭām) carried off by a rākṣasa?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -772,6 +864,12 @@ bhavishhyati* = there will not be; *gatirodhaH* = an obstacle to flying; *raagha
 
 "This city of Lanka being in the middle of ocean is difficult to be attacked. But there will not
 be an obstacle to flying of Rama's arrows."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I suspect that Lakṣmaṇa's elder brother does not know that I am here (ihasthāṃ māṃ na jānīte); for even if he knew, would that fiery hero tolerate this outrage (dharṣaṇāṃ marṣayiṣyati)?
 </details>
 </details>
 
@@ -822,6 +920,12 @@ is not protecting; *ishhTaam bhaaryaam* = His dear wife; *apahR^itaam* = stolen;
 "What now is that reason by which Rama with a firm courage is not protecting His dear wife stolen
 by an ogre."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even that king of vultures (gṛdhrarājo 'pi saḥ), who, having learned that I was abducted (hṛteti mām adhigatya), would have reported it to Rāghava (rāghavāya nivedayet), was struck down in battle by Rāvaṇa (raṇe rāvaṇena nipātitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -870,6 +974,12 @@ _________________
 
 "I doubt that Rama elder to Laksmana does not know me to be here. After knowing will that glorious
 Rama tolerate this outrage?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A mighty deed was performed (kṛtaṃ karma mahat) by that aged Jaṭāyus (vṛddhenāpi jaṭāyuṣā), who came to my rescue then (māṃ tathābhyavapadyatā) and stood firm to slay Rāvaṇa (tiṣṭhatā rāvaṇavadhe)!
 </details>
 </details>
 
@@ -920,6 +1030,12 @@ raNe* = in war.
 "Whoever Jatayu nearing Rama will have let known to Rama that Seetha was stolen, that king of vultures
 has been killed by Ravana in war."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If indeed Rāghava knew that I was abiding here (yadi mām iha jānīyād vartamānām), today in his wrath he would rid the world of rākṣasas (kuryāl lokam arākṣasam) with his arrows!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -962,6 +1078,12 @@ _________________
 "A great deed has been done by that Jatayu, thus protecting me, although of old age, standing in
 a dual combat with Ravana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He would burn down the city of Laṅkā (nirdahec ca purīṃ laṅkām) and dry up the great ocean (nirdahec ca mahodadhim), and he would blot out the fame and very name (kīrtiṃ nāma ca nāśayet) of base Rāvaṇa!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -985,6 +1107,12 @@ _________________
 
 ‘फिर तो निःसंदेह अपने पतियोंका संहार हो जानेसे घर-घरमें राक्षसियोंका इसी प्रकार क्रन्दन होता, जैसे आज मैं रो रही हूँ ॥ २२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, in every house (gṛhe gṛhe) of the ogresses whose lords have been slain (nihatanāthānāṃ rākṣasīnām), even as I weep thus today, so shall they weep yet more (tathā bhūyo na saṃśayaḥ)—there is no doubt!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1004,6 +1132,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘श्रीराम और लक्ष्मण लङ्काका पता लगाकर निश्चय ही राक्षसोंका संहार करेंगे । जिस शत्रुको उन दोनों भाइयोंने एक बार देख लिया, वह दो घड़ी भी जीवित नहीं रह सकता ॥ २३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having searched out Laṅkā, Rāma together with Lakṣmaṇa (rāmaḥ salakṣmaṇaḥ) would work the destruction of the rākṣasas (rakṣasāṃ kuryāt); for no foe beheld by those two (tābhyāṃ ripur dṛṣṭaḥ) lives even for an hour (muhūrtam api jīvati)!
 </details>
 </details>
 
@@ -1090,6 +1224,12 @@ fame of Ravana."
 "Thereafter how I am crying in this way, in the same way, in very house, ogresses with killed husbands
 will cry again and again. There is no doubt in this."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With its thoroughfares choked by funeral-pyre smoke (citādhūmākulapathā) and decked with flocks of vultures (gṛdhramaṇḍalamaṇḍitā), within no long time (acireṇaiva kālena) [Laṅkā] would become like a cremation ground (śmaśānasadṛśī bhavet)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1132,6 +1272,12 @@ _________________
 
 "Rama together will Lakshmana will search the city of Lanka belonging to ogres. An enemy seen by
 those two will indeed not live even for a moment."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Within no long time I shall attain this heart's desire (prāpsyāmy enaṃ manoratham)! This impending ruin of all of you (sarveṣāṃ vo viparyayaḥ), born of evil conduct (duṣprasthānaḥ), clearly appears before me.
 </details>
 </details>
 
@@ -1180,6 +1326,12 @@ agitated with smoke of funeral pyres; *gR^idhramaNDalasaMkulaa* = crowded with a
 
 "This Lanka shortly will become like a graveyard, with paths agitated with smoke of funeral pyres,
 crowded with a group of vultures."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Such are the inauspicious portents (yādṛśāni ... aśubhāni) now seen in Laṅkā that within no long time she shall be stripped of her splendor (bhaviṣyati hataprabhā)!
 </details>
 </details>
 
@@ -1230,6 +1382,12 @@ aakhyaati* = is telling; *sarveshhaam* = all; *vaH* = of your; *viparyayam* = de
 "In a short time only I will attain my desire. This evil course is telling of destruction of you
 all."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely, when wicked Rāvaṇa, overlord of the rākṣasas, is slain (hate pāpe rāvaṇe), unassailable Laṅkā shall wither away (śoṣam eṣyati durdharṣā) like a widowed woman (pramadā vidhavā yathā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1279,6 +1437,12 @@ of glory.
 "Here in Lanka whatever inauspicious things are being seen, from those, in a short while Lanka
 will become deprived of glory."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once rich in auspicious festivals (puṇyotsavasamṛddhā ca), the city of Laṅkā, together with her rākṣasas (sarākṣasā), shall become bereft of her lord (naṣṭabhartrī), like a woman who has lost her husband (naṣṭabhartrī yathāṅganā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1327,6 +1491,12 @@ _________________
 
 "While the sinful, vile ogre Ravana is being killed, Lanka which is unconquerable till now, definitely
 will get drying up like a woman who lost husband."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely before long (nacirād eva) I shall hear in every house (gṛhe gṛhe) the wailing sound (dhvanim) of rākṣasa maidens weeping here, afflicted with grief (duḥkhārtānām iha)!
 </details>
 </details>
 
@@ -1378,6 +1548,12 @@ lost husband;.
 "Now abounding in pious festivities, the city of Lanka with lost lord together with ogresses will
 become like a woman with lost husband."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Plunged into darkness (sāndhakārā), her radiance extinguished (hatadyotā) and her foremost rākṣasa warriors slain (hatarākṣasapuṃgavā), the city of Laṅkā shall be burned down by Rāma's arrows (nirdagdhā rāmasāyakaiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1420,6 +1596,12 @@ _________________
 "In a short while here in every house I can definitely hear the sound of ogresses crying being
 tormented by grief."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—if only that heroic Rāma of red-cornered eyes (rāmo raktāntalocanaḥ) knew that I was abiding in the dwelling of the rākṣasa (rākṣasasya niveśane)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1442,6 +1624,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इस नीच और नृशंस रावणने मेरे लिये जो समय नियत किया है, उसकी पूर्ति भी निकट भविष्यमें ही हो जायगी ॥ ३२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The time of that respite (samayo yas tu nirdiṣṭas tasya kālo 'yam āgataḥ) which was appointed for me by this cruel, base Rāvaṇa has now arrived.
 </details>
 </details>
 
@@ -1504,6 +1692,12 @@ with killed best ogres."
 
 "Will that Rama who is a strong man with red eye corners know me to be in the house of Ravana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And my death, ordained by that wicked one (sa ca me vihito mṛtyur asmin duṣṭena vartate), is now at hand among night-stalkers, evildoers who do not know what ought not to be done (akāryaṃ ye na jānanti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1536,6 +1730,12 @@ _________________
 
 ‘इस समय अधर्मसे ही महान् उत्पात होनेवाला है । ये मांसभक्षी राक्षस धर्मको बिलकुल नहीं जानते हैं ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From their unrighteousness a great calamity (adharmāt tu mahotpāto bhaviṣyati hi sāmpratam) shall surely arise now; for these flesh-eating rākṣasas (rākṣasāḥ piśitāśanāḥ) do not know dharma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1557,6 +1757,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वह राक्षस अवश्य ही अपने कलेवेके लिये मेरे शरीरके टुकड़े-टुकड़े करा डालेगा । उस समय अपने प्रियदर्शन पतिके बिना मैं असहाय अबला क्या करूँगी? ॥ ३५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuredly the rākṣasa will prepare me for his morning meal (dhruvaṃ māṃ prātarāśārthaṃ rākṣasaḥ kalpayiṣyati)! What then shall I do (sāhaṃ kathaṃ kariṣyāmi) without that lord of pleasing aspect (taṃ vinā priyadarśanam)?
 </details>
 </details>
 
@@ -1618,6 +1824,12 @@ eaters; *na jaanati* = do not know; *dharmam* = virtue.
 "Whoever sinful ogres who do not know what should not be done, due to their unrighteousness now
 there will be a great calamity. These meat eating ogres do not know virtue."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not beholding Rāma of red-cornered eyes (raktāntanayanam apaśyantī) and sorely afflicted with grief, may I swiftly behold the god Vaivasvata [Yama] (kṣipraṃ vaivasvataṃ devaṃ paśyeyam), bereft as I am of my husband (patinā vinā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1649,6 +1861,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘भरतके बड़े भाई भगवान् श्रीराम यह नहीं जानते हैं कि मैं जीवित हूँ । यदि उन्हें इस बातका पता होता तो ऐसा सम्भव नहीं था कि वे पृथ्वीपर मेरी खोज नहीं करते ॥ ३७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That Rāma, elder brother of Bharata (bharatapūrvajaḥ), does not know that I am alive (nājānāj jīvatīṃ mām); for if those two knew (jānantau tu), they would not fail to make a thorough search over the earth (na kuryātāṃ norvyāṃ hi parimārgaṇam)!
 </details>
 </details>
 
@@ -1716,6 +1934,12 @@ husband; *kshipram* = quickly; *pashyeyam* = will see; *devam* = the god; *vaiva
 "Now if there exists any one who is a giver of poison here, I without husband quickly will see
 the god Yama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely out of grief for me alone (nūnaṃ mamaiva śokena), that heroic elder brother of Lakṣmaṇa (sa vīro lakṣmaṇāgrajaḥ) has departed hence to the world of the gods (devalokam ito yātaḥ), having abandoned his body on the earth!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1766,6 +1990,12 @@ will not do; *mama maargaNam* = my search; *uurdhvaam* = on earth;
 "That Rama elder to Lakshmana may not know me to be alive. If those two know me to be alive, then
 it cannot be said that they will not do my search on earth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blessed are the gods together with the gandharvas, the siddhas, and the supreme sages (dhanyā devāḥ sagandharvāḥ siddhāś ca paramarṣayaḥ), who now behold my heroic, lotus-eyed Rāma (mama paśyanti ye vīraṃ rāmaṃ rājīvalocanam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1814,6 +2044,12 @@ _________________
 
 "That valiant Rama who is the elder brother of Lakshmana due to grief of me, leaving the body on
 earth has gone to celestial world. This is certain."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Or else, that wise royal sage Rāma (rāmasya rājarṣeḥ), whose sole desire is dharma (dharmakāmasya dhīmataḥ) and who is the Supreme Self (paramātmanaḥ), has no need of me as a wife (nahi tasyārtho ... mayā ... bhāryayā)!
 </details>
 </details>
 
@@ -1865,6 +2101,12 @@ Devas; *siddhaashcha* = Siddhas; *sagandhravaaH* = together with Gandharvas; *pa
 "Whoever is seeing my husband Rama with eyes resembling a lotus flower such Devas, Siddhas together
 with Gandharvas and great sages are fortunate."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Affection exists toward one who is seen (dṛśyamāne bhavet prītiḥ); there is no attachment for one who does not see (sauhṛdaṃ nāsty adṛśyataḥ). Yet only the ungrateful destroy [affection] (nāśayanti kṛtaghnās tu); Rāma will never destroy it (na rāmo nāśayiṣyati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1914,6 +2156,12 @@ _________________
 
 "Or to that Rama with a desire in virtuousness, who is intelligent, a sage-king, the supreme spirit,
 there is no use with me, his wife."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or are there some faults in me (kiṃ vā mayy aguṇāḥ kecit), or is it indeed the exhaustion of my good fortune (kiṃ vā bhāgyakṣayo hi me), that I, Sītā, a spirited lady (bhāminī), am bereft of Rāma, who is worthy of the choicest boons (varārheṇa hīnā rāmeṇa)?
 </details>
 </details>
 
@@ -1965,6 +2213,12 @@ one who does not see; *kR^itaghnaaH* = ungreatful ones; *naashayanti* = destroy 
 "Friendly disposition will occur in what is being seen. There is no friendship to one who does
 not see. Ungrateful ones destroy frindship. But Rama will not destroy friendship."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Better for me is dying than living (śreyo me jīvitān martum), bereft as I am of the great-souled Rāma (vihīnāyā mahātmanā rāmāt), of unblemished conduct (akliṣṭacāritrāt), heroic, the destroyer of foes (śūrāc chatrunibarhaṇāt)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2014,6 +2268,12 @@ _________________
 
 "I who is a woman who is perishing without the chief Rama to such me are there no good qualities
 or has my fortune diminished."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Or else those two brothers, best of men (bhrātarau hi naraśreṣṭhau), have laid aside their weapons in the forest (nyastaśastrau tau vane) and wander as forest-dwellers subsisting on roots and fruits (mūlaphalāśanau ... vanagocarau)!
 </details>
 </details>
 
@@ -2065,6 +2325,12 @@ _________________
 "To me who is deprived of Rama with untroubled reputation, a warrior, annihilator of enemies, a
 great soul, more than living, death is good."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Or else those two heroic brothers Rāma and Lakṣmaṇa (śūrau bhrātarau rāmalakṣmaṇau) have been slain by treachery (chadmanā ghātitau) by the wicked-souled Rāvaṇa, lord of the rākṣasas (rākṣasendreṇa rāvaṇena durātmanā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2115,6 +2381,12 @@ fruits.
 "Or those two brothers who are best among men giving up weapons in the forest may have become dwellers
 of forest eating roots and fruits."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At such a time as this (evaṃvidhe kāle), I wish by all means to die (martum icchāmi sarvataḥ); yet death is not ordained for me (na ca me vihito mṛtyuḥ) even while this grief exceeds all bounds (asmin duḥkhe 'tivartati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2162,6 +2434,12 @@ raavaNena* = by king of ogres Ravana; *chadmanaa* = by deceit;
 
 "Or Rama and Lakshmana the warrior brothers may have been killed by the evil soul king of ogres
 Ravana by deceit."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blessed indeed are the great-souled sages (dhanyāḥ khalu mahātmāno munayaḥ), revered for truth (satyasammatāḥ), who have conquered their minds (jitātmānaḥ) and are supremely fortunate (mahābhāgāḥ), for whom neither the dear nor the undear exists (yeṣāṃ na staḥ priyāpriye)!
 </details>
 </details>
 
@@ -2213,6 +2491,12 @@ _________________
 
 "Under such circumstances and time, such I in all ways am desiring to die. Even in this grief,
 death is not bestowed on me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From the dear no sorrow arises [for them], nor from the undear does greater [sorrow] arise (priyān na sambhaved duḥkham apriyād adhikaṃ bhavet); for they are disjoined from both (tābhyāṃ hi te viyujyante)—salutations to those great-souled ones (namas teṣāṃ mahātmanām)!
 </details>
 </details>
 
@@ -2273,6 +2557,12 @@ are indeed fortunate to whom there is no pleasure and displeasure."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तारनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Forsaken by my beloved Rāma himself, who knows the Self (tyaktā priyeṇaiva rāmeṇa viditātmanā), and fallen under the power of wicked Rāvaṇa (pāpasya rāvaṇasya gatā vaśam), I shall now abandon my life-breaths (prāṇāṃs tyakṣyāmi)!”
 </details>
 </details>
 

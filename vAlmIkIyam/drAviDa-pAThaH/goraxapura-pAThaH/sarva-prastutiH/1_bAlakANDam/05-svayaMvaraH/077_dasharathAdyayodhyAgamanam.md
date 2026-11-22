@@ -66,6 +66,12 @@ longbow of Vishnu into the hand of inimitable Rain-god. [1-77-1]
 
 On this longbow and its giving to god of Rain, some discussion is incorporated in the earlier chapter.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma (Paraśurāma) had departed (gate rāme), the illustrious Rāma, son of Daśaratha, his spirit calm and serene (praśāntātmā ... mahāyaśāḥ), placed that bow into the hand of the immeasurable Varuṇa (varuṇāyāprameyāya dadau haste).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +120,12 @@ father; *provaaca [pra-uvaaca]* = well said - placatingly addressed.
 On paying respects to sage Vashishta and to the other important sages, Rama, the delight of Raghu's lineage, placatingly
 addressed his agitated father Dasharatha. [1-77-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having bowed in reverence to the sages headed by Vasiṣṭha (abhivādya tato rāmo vasiṣṭhapramukhān ṛṣīn), Rāma, the delight of the Raghus, seeing his father still shaken and distraught (pitaraṃ vikalaṃ dṛṣṭvā), spoke to him:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -158,6 +170,12 @@ convoy]; *ayodhyaabhimukhii prayaatu* = let it move on towards Ayodhya.
 
 "Rama of Jamadagni has gone on his way, you may now order the army under your wardship, for which you are the lord,
 to move on towards Ayodhya..." So said Rama to his father. [1-77-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rāma, the son of Jamadagni, has departed (jāmadagnyo gato rāmaḥ); let the fourfold army (caturaṅgiṇī senā), protected by you as its lord (tvayā nāthena pālitā), now march onward toward Ayodhyā (prayātu ... ayodhyābhimukhī)!”
 </details>
 </details>
 
@@ -220,6 +238,14 @@ On hearing the words of Rama king Dasharatha hugged his son with both of his arm
 and king Dasharatha is gladdened to listen about the departure of Parashu Rama, and then he is further gladdened in deeming
 that he and his sons took a rebirth. [1-77-4, 5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Hearing Rāma’s words (rāmasya vacanaṃ śrutvā), King Daśaratha embraced his son Rāghava closely with both arms (sutam bāhubhyāṃ sampariṣvajya) and smelled the crown of his head in tender affection (mūrdhny upāghrāya rāghavam).
+
+**5:** Hearing that Rāma (Paraśurāma) had departed (gato rāma iti śrutvā), the king, thrilled and overjoyed (hṛṣṭaḥ pramudito nṛpaḥ), deemed both his son and himself to be born anew that day (punarjātaṃ tadā mene putram ātmānam eva ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -244,6 +270,12 @@ that he and his sons took a rebirth. [1-77-4, 5]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक दशरथनु तन्न सैन्यक्कॆ नगरद कडॆगॆ नडॆयलु आज्ञापिसिदनु. अल्लिन्द हॊरटु शीघ्रवागि अयोध्यॆयन्नु तलुपिदरु. आग अयोध्यॆयु तळिरु तोरण, ध्वज-पताकॆगळिन्द अलङ्कृतवागित्तु; अदरिन्द नगरवु विशेषवागि शोभिसुत्तित्तु. बगॆबगॆय मङ्गळ वाद्यगळ ध्वनिगळिन्द नगरवु प्रतिध्वनिसुत्तित्तु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He urged that army forward (codayām āsa tāṃ senām) and swiftly proceeded to the lovely city of Ayodhyā (jagāmāśu tataḥ purīm), adorned with banners and standards (patākādhvajinīṃ ramyām) and resounding with the joyous blasts of musical instruments (tūryodghuṣṭanināditām).
 </details>
 </details>
 
@@ -301,6 +333,14 @@ are handling welcoming kits which are golden handy-crates or plates in which lit
 flowers to shower on the incomers are arranged, and those highways are well-decorated with throngs of people who are glee-faced
 at their king's re-entry, and into such an exhilarating city Ayodhya king Dasharatha and his retinue entered. [1-77-7, 8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** Its royal highways sprinkled with water (siktarājapathāṃ ramyām) and strewn with heaps of flowers (prakīrṇakusumotkarām), the city was thronged with citizens bearing auspicious offerings in their hands and beaming with joy at the king’s entry (rājapraveśasumukhaiḥ paurair maṅgalapāṇibhiḥ).
+
+**8:** The king entered the city, which was filled to overflowing and adorned with multitudes of people (sampūrṇāṃ prāviśad rājā janaughaiḥ samalaṃkṛtām), having been met from afar by the citizens and city-dwelling Brāhmaṇas advancing to welcome him (pauraiḥ pratyudgato dūraṃ dvijaiś ca puravāsibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -352,6 +392,12 @@ palazzo. [1-77-8b, 9]
 *gR^ihapravesha* 'entering into householder-hood, the second stage of life *gaarhapatya-dharma* out of the
 four stages of living, 1] celibate scholar, 2] householder, 3] repairing to forest or sageship, 4] final release, moksha.
 *paaNigrahaNaanantaram kriyamaaNo gR^ihapraveshaH - dk* where ceremonies go on for hours together.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Followed by his glorious sons (putrair anugataḥ śrīmān śrīmadbhiś ca), the illustrious monarch entered his beloved palace, which resembled Mount Himavat in splendour (praviveśa gṛhaṃ rājā himavatsadṛśaṃ priyam).
 </details>
 </details>
 
@@ -411,6 +457,12 @@ because, Dasharatha wanted his palace to be in festivity, with just one son. But
 four brides in one go, hence fourfold is his happiness. It may be observed that Kaikeyi is the lone queen with 'beauty'
 as her attribute, and the problem with her is seeded here alone, saying that enchantment of Dasharatha towards her outweighs
 his affection to Rama, later.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored in his palace by his kinsfolk with every wished-for comfort, the king rejoiced (nananda svajanai rājā gṛhe kāmaiḥ supūjitaḥ). And Kausalyā, Sumitrā, and slender-waisted Kaikeyī (kaikeyī ca sumadhyamā),
 </details>
 </details>
 
@@ -477,6 +529,14 @@ These young couples by themselves are radiant, and they are now clad in radiant 
 of fire, and the Ritual-fire s are already there flaring wavily, to the weave-like chanting of Vedic benedictions. With
 all these waving, flaring, glaring the couples too appeared as the humanly Ritual-fires before the wood burnt Vedic Ritual-fires.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** along with the other royal ladies, busied themselves in the ceremonial reception of the brides (vadhūpratigrahe yuktā yāś cānyā rājayoṣitaḥ). Then the royal queens welcomed the blessed Sītā, the illustrious Ūrmilā,
+
+**12:** and both daughters of Kuśadhvaja (kuśadhvajasute cobhe jagṛhur nṛpayoṣitaḥ), resplendent in silken garments (śobhitāḥ kṣaumavāsasaḥ), with auspicious benedictions and oblations into the sacred fire (maṅgalālāpanair homaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -533,6 +593,12 @@ pai lagoo* . And if the girls are from jeans or pants culture, [because days hav
 to bridal sari, which itself will be a weight to carry. And many times we see the young brides falling on the blessing couple
 because her bridal sari gets entangled in the toes of the bride, and she is not yet ready to manage it. So goes on this
 parade until their backs are broken.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All those princesses swiftly offered worship at the temples of the family deities (devatāyatanāny āśu sarvās tāḥ pratyapūjayan); and having bowed in salutation to all elders worthy of reverence (abhivādyābhivādyāṃś ca sarvā rājasutās tadā),
 </details>
 </details>
 
@@ -592,6 +658,14 @@ to Bharata; *abraviit* = spoke.
 
 Then after sometime that king Dasharatha, the legatee of Raghu-s, spoke to his and Kaikeyi's son, Bharata. [1-77-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** all of them, filled with joy, delighted in privacy with their husbands (remire muditāḥ sarvā bhartṛbhir muditā rahaḥ). Having wedded their brides and mastered celestial weapons (kṛtadārāḥ kṛtāstrāś ca), endowed with wealth and surrounded by loving friends (sadhanāḥ sasuhṛjjanāḥ),
+
+**15:** those bulls among men lived happily, serving their father in dutiful attendance (śuśrūṣamāṇāḥ pitaraṃ vartayanti nararṣabhāḥ). Then, after some time had passed (kasyacit tv atha kālasya), King Daśaratha, the delight of the Raghus,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -631,6 +705,12 @@ yudhaajit* = this, Yudhaajit; *vasati* = is staying behind.
 "This is your maternal uncle and the son of king of Kekaya, and this valiant Yudhaajit came here to take you to Kekaya province,
 and he is staying behind because of your marriage..." thus Dasharatha bade farewell to Bharata suggesting that Bharata may
 now go with Yudhaajit. [1-77-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+spoke to his son Bharata, the son of Kaikeyī (bharataṃ kaikayīputram abravīd raghunandanaḥ): “O my dear son, this son of the King of Kekaya is staying here (ayaṃ kekayarājasya putro vasati putraka);
 </details>
 </details>
 
@@ -679,6 +759,12 @@ abhicakraama* = readied himself to travel.
 
 On hearing the opinion of Dasharatha, Bharata, the son of Kaikeyi, then readied himself to travel along with Shatrughna
 to Kekaya province. [1-77-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“your heroic maternal uncle Yudhājit has come to take you (tvāṃ netum āgato vīro yudhājin mātulas tava).” Hearing these words of Daśaratha, Bharata, the son of Kaikeyī,
 </details>
 </details>
 
@@ -730,6 +816,12 @@ That valiant and best one among men Bharata on asking leave from his father, fro
 in undertaking deeds, and even from his mothers, Kaikeyi, Sumitra, and Kausalya, travelled on along with Shatrughna. [1-77-18b,
 19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+prepared to depart in the company of Śatrughna (gamanāyābhicakrāma śatrughnasahitas tadā), after taking leave of his father, of Rāma of unwearying deeds (āpṛcchya pitaraṃ śūro rāmaṃ cākliṣṭakāriṇam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -771,6 +863,12 @@ own city; *tasya pitaa tutoSa ha* = his, father, highly rejoiced, indeed.
 
 Yudhaajit on clinching not only Bharata, but Shatrughna also, that valiant one is highly gladdened and entered his own city,
 indeed to the high rejoice of his father, King of Kekaya. [1-77-19b, 20a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and of his mothers as well, that best of men departed accompanied by Śatrughna (mātṝś cāpi naraśreṣṭhaḥ śatrughnasahito yayau). And the heroic Yudhājit, having received Bharata together with Śatrughna, was overjoyed (yudhājit prāpya bharataṃ saśatrughnaṃ praharṣitaḥ),
 </details>
 </details>
 
@@ -814,6 +912,12 @@ god, like [godly]; *pitaram* = father; *puujayaamaasatuH* = started to worship [
 After the departure of Bharata, then the masterly proficient Rama along with Lakshmana started to square with the plans
 and programs of his godly father for an ideal-sovereignty. [1-77-20b, 21a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and entered his own city, whereat his father (King Aśvapati) rejoiced (svapuraṃ prāviśad vīraḥ pitā tasya tutoṣa ha). After Bharata had departed (gate ca bharate), Rāma and the mighty Lakṣmaṇa (rāmo lakṣmaṇaś ca mahābalaḥ)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -838,6 +942,12 @@ and programs of his godly father for an ideal-sovereignty. [1-77-20b, 21a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तन्दॆय आज्ञॆयन्नु शिरसावहिसि अवरु नगरवासियर ऎल्ल कार्यवन्नु नोडिकॊळ्ळुवुदु हागू अवर ऎल्ल प्रियवाद, हितकर कार्यगळन्नु माडतॊडगिदरु.॥21½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+honored and served their father, who resembled a god (pitaraṃ devasaṃkāśaṃ pūjayām āsatus tadā). Placing his father’s command at the forefront (pitur ājñāṃ puraskṛtya), Rāma attended in every way to all the affairs of the citizens (paurakāryāṇi sarvaśaḥ),
 </details>
 </details>
 
@@ -883,6 +993,12 @@ to them, and in the entirety of those activities, and he undertook activities to
 and educational activities with educators, and in a highly self-disciplined manner he used to review them carefully from
 time to time. [1-77-22b, 22, 23a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+accomplishing all that was both pleasing and beneficial to them (cakāra rāmaḥ sarvāṇi priyāṇi ca hitāni ca). Having fulfilled his duties toward his mothers with supreme self-restraint (mātṛbhyo mātṛkāryāṇi kṛtvā paramayantritaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -907,6 +1023,12 @@ time to time. [1-77-22b, 22, 23a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवर ई सद्वर्तनॆयिन्द दशरथनु, वेदवेत्तराद ब्राह्मणरु हागू वैश्यवर्गवु बहळ प्रसन्नरागिद्दरु. श्रीरामन उत्तम शील, सद् व्यवहारदिन्द आ राज्यदल्लि वासिसुत्तिद्दवरॆल्लरू बहळ सन्तुष्टरादरु.॥23½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+he attentively oversaw the service due to his preceptors at every proper season (gurūṇāṃ gurukāryāṇi kāle kāle ’nvavaikṣata). Thus King Daśaratha was deeply pleased, as were the Brāhmaṇas, the merchants (evaṃ daśarathaḥ prīto brāhmaṇā naigamās tathā),
 </details>
 </details>
 
@@ -952,6 +1074,12 @@ That way Dasharatha is pleased with the deportment and comportment of Rama, like
 all of the indwellers in the entire kingdom are pleased, and he who has high distinction, his truthfulness alone is his
 vantage point, and whose hallmarks are of higher degree, that Rama has manifested himself to those subjects in the kingdom,
 and even to all of the living beings in the world, as the Self-Created Brahma. [1-77-23b, 24, 25a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and all the inhabitants of the realm by Rāma’s noble character and conduct (rāmasya śīlavṛttena sarve viṣayavāsinaḥ). Among them all, Rāma of unfailing prowess shone with preeminent glory in the world (teṣām atiyaśā loke rāmaḥ satyaparākramaḥ),
 </details>
 </details>
 
@@ -1013,6 +1141,12 @@ is grammatically a *parasmaipadi* then the fruition goes to the subject, and sub
 alone is the enjoyer and insatiate is his enjoyment with Seetha, even during and after *bahuun R^ituun* many, and
 many seasons. *niravadhikaparasparabaddhaanuraagaabhivR^iddhi* ' an endless, mutual, conjugal, impassion and
 its enrichment - the self-content bliss of monogamy.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and became preeminent in virtues like the self-existent Brahmā among all living beings (svayambhūr iva bhūtānāṃ babhūva guṇavattaraḥ). And Rāma, together with Sītā, sported happily through many seasons (rāmaś ca sītayā sārdhaṃ vijahāra bahūn ṛtūn),
 </details>
 </details>
 
@@ -1076,6 +1210,14 @@ in heart of hearts]; *hR^idaa vyaktam aakhyaati* = clearly [both] converse by he
 Even Rama as her husband made his mark in Seetha's heart twice as good, and they both used to clearly converse about their
 thoughts in their heart of hearts, just by their hearts. [1-77-27b, 28a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** steadfast in mind, with his heart wholly absorbed in her (manasvī tadgatamanāḥ), and enshrined within her heart (tasyā hṛdi samarpitaḥ). Sītā was dearly beloved to Rāma because she was the bride chosen and bestowed by his father (priyā tu sītā rāmasya dārāḥ pitṛkṛtā iti),
+
+**27:** and his love grew ever greater by reason of her virtues and her beauty (guṇād rūpaguṇāc cāpi prītir bhūyo ’bhivardhate); while in her heart, her husband dwelt with redoubled devotion (tasyāś ca bhartā dviguṇaṃ hṛdaye parivartate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1121,6 +1263,12 @@ In her mien Seetha is identical with goddesses, and she is like personified Godd
 Prosperity, and as she hails from Holy Mithila she shall be held Holy, and since she is the daughter of Janaka, a loftiest
 sagacious and invincible king, she is sagely and stately, besides being shapely, and she with all these heaps of natural
 traits and characteristics, Seetha is rejoicing the heart of Rama. [1-77-28b, c]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even the unspoken thought hidden within, her heart clearly communicated to his heart by inner intuition (antargatam api vyaktam ākhyāti hṛdayaṃ hṛdā); for Maithilī, the daughter of Janaka—equal to the goddesses in beauty, Sītā, like Goddess Śrī herself in bodily form (devatābhiḥ samā rūpe sītā śrīr iva rūpiṇī)—knew his innermost heart even more deeply (tasya bhūyo viśeṣeṇa).
 </details>
 </details>
 
@@ -1188,5 +1336,11 @@ of my heartstrings, that are the halters with fastness...'
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सप्तसप्ततितमः सर्गः ॥ ७७ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें सतहत्तरवाँ सर्ग पूरा हुआ ॥ ७७ ॥  
 ॥ बालकाण्डं सम्पूर्णम् ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+United with that peerless princess who was wholly devoted to him in love (tayā ... abhikāmayā sameyivān uttamarājakanyayā), Rāma, the son of the royal sage, filled with joy (sa rājarṣisuto ... mudānvito), shone with surpassing splendor like the all-pervading Lord Viṣṇu, ruler of the immortals, united with Goddess Śrī (atīva rāmaḥ śuśubhe ... vibhuḥ śriyā viṣṇur ivāmareśvaraḥ).
 </details>
 </details>

@@ -51,6 +51,12 @@ will stay back in the forest along with Rama.
 
 निषादराजन ऎल्ल मातुगळन्नु गमनविट्टु केळि मन्त्रिगळॊन्दिगॆ भरतनु इङ्गुदी वृक्षद बळिगॆ बन्दु श्रीरामचन्द्रन शय्यॆयन्नु सन्दर्शिसिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard all that attentively, Bharata, together with his ministers (tac chrutvā nipuṇaṃ sarvaṃ bharataḥ saha mantribhiḥ), came to the foot of the iṅgudī tree and, beholding that couch of Rāma (iṅgudī-mūlam āgamya rāma-śayyām avekṣya tām),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -96,6 +102,12 @@ Having heard all that perfectly, Bharata approached the foot of Ingudi Tree alon
 with his ministers and gazed on that grass-bed on which Rama had slept. Thereafter, he said to all
 his mothers as follows: "It is here that the magnanimous hero laid himself for that night, his
 limbs pressing the earth."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+spoke to all his mothers: “Here upon the bare ground that great-souled one passed the night (abravīj jananīḥ sarvā iha tena mahātmanā śarvarī śayitā bhūmau); this spot was pressed down by his limbs (idam asya vimarditam).
 </details>
 </details>
 
@@ -143,6 +155,12 @@ limbs pressing the earth."
 "Born of the great and segacious Dasaratha in an illustrious family, Rama verily
 does not desrve to sleep on this bare earth!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Begotten by the wise and illustriously fortunate Daśaratha, born of a noble race (mahā-bhāga-kulīnena mahā-bhāgena dhīmatā jāto daśarathena), Rāma does not deserve to sleep upon the bare earth (urvyāṃ na rāmaḥ svaptum arhati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +207,12 @@ antelopes; *shete* = sleep; *mahiitale* = on abre floor?
 "How could Rama the tiger among men, who used to sleep on a couch horded with rich
 cushions covered with superior hairy skins of antelopes, sleep on a bare floor?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slept upon a heap of choice spreads overlaid with soft deerskins (ajinottara-saṃstīrṇe varāstaraṇa-saṃcaye śayitvā), how does that tiger among men now lie upon the bare surface of the earth (puruṣa-vyāghraḥ kathaṃ śete mahī-tale)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,6 +252,16 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विमान सदृश प्रासादगळ शिखरगळल्लि, उप्परिगॆगळ मेलिरुव शैत्यगृहदल्लि, सुवर्णमय मत्तु रजतमय नॆलविरुवल्लि, चित्र-विचित्रवाद रत्नगम्बळिगळन्नु हासिरुवॆडॆयल्लि, विचित्र तरवाद पुष्पगुच्छगळिरुवॆडॆयल्लि चन्दनागरु श्रीगन्धगळिरुव स्थळदल्लि, बिळुपाद मोडदन्तॆ सुमनोहरवागिरुव हागू शुभ्रवागिरुव स्थळदल्लि, गिणिगळु निनाद माडुत्तिरुवल्लि, ऎल्ल प्रासादगळिगिन्त उत्तमोत्तम प्रासाददल्लि, शीतलवागियू सुगन्धयुक्तवू आगिरुव स्थळदल्लि, मेरु सदृशवाद सुवर्णमय गोडॆगळिन्द आवृतवाद सर्वोत्तम अरमनॆयल्लि मलगुत्तिद्द श्रीरामनु वनदल्लि नॆलद मेलॆ हेगॆ मलगुवनु.॥5-7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Ever in sky-kissing palace-pavilions and turret-chambers (prāsādāgra-vimāneṣu valabhīṣu ca sarvadā), floored with gold and silver and furnished with exquisite carpets (haima-rājata-bhaumeṣu varāstaraṇa-śāliṣu),
+
+**6:** gay with heaps of flowers, fragrant with sandalwood and aloe-wood (puṣpa-sañcaya-citreṣu candanāgaru-gandhiṣu), gleaming like white clouds and echoing with the cries of flocks of parrots (pāṇḍurābhra-prakāśeṣu śuka-saṅgha-ruteṣu ca),
+
+**7:** having dwelt in the finest of noble palaces, cool and fragrant (prāsāda-vara-varyeṣu śītavatsu sugandhiṣu uṣitvā), resembling Mount Meru with walls wrought of gold (meru-kalpeṣu kṛta-kāñcana-bhittiṣu),
 </details>
 </details>
 
@@ -289,6 +323,14 @@ with its golden walls, where in that palace he was awakened at the fitting time 
 from various instruments, tinkling of ornaments and the excellent sounds of clay tomtoms, glorified
 by many panegyrists, bards and ministrels throught appropriate ballads and songs of praise."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** continually awakened by the strains of song and instrumental music, the tinkling of choice ornaments (gīta-vāditra-nirghoṣair varābharaṇa-nissvanaiḥ), and the notes of excellent mṛdaṅga drums (mṛdaṅga-vara-śabdaiś ca satataṃ pratibodhitaḥ),
+
+**9:** and praised at the proper hour by many panegyrists, bards, and genealogists (vandibhir vanditaḥ kāle bahubhiḥ sūta-māgadhaiḥ) with fitting ballads and eulogies—how does that scorcher of foes now lie here (gāthābhir anurūpābhiḥ stutibhiś ca parantapaḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -335,6 +377,12 @@ dream.
 
 "This ( such a prince becoming like this) is unbelievable in the world and does not
 appear true to me. My mind is indeed bewildered. I wish that it were a dream."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This is incredible in the world; it does not appear real to me (aśraddheyam idaṃ loke na satyaṃ pratibhāti mā). Truly my mind is bewildered; my conviction is that this is a dream (muhyate khalu me bhāvaḥ svapno 'yam iti me matiḥ)!
 </details>
 </details>
 
@@ -383,6 +431,12 @@ will of god); *yatra* = since; *saH* = that; *raamaH* = Rama;
 "Surely even a deity is not a little more powerful than Time (the will of god),
 since that Rama, the son of Dasaratha has to sleep on the bare ground!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely there is no destiny more powerful than Time (na nūnaṃ daivataṃ kiṃcit kālena balavattaram), inasmuch as Rāma, the son of Daśaratha, has had to lie thus upon the bare ground (yatra dāśarathī rāmo bhūmāv eva śayīta saḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -428,6 +482,12 @@ Dsaaratha; *shayitaa* = has to sleep; *bhuumau* = on the floor.
 
 "Even Seetha the daughter of the king of videha, lovely to look upon and the
 cherished daughter-in-law of Dasaratha has to sleep on the floor!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and the lovely daughter of the king of Videha, Sītā (videha-rājasya sutā sītā ca priya-darśanā), the beloved daughter-in-law of Daśaratha, has lain upon the ground (dayitā śayitā bhūmau snuṣā daśarathasya ca)!
 </details>
 </details>
 
@@ -477,6 +537,12 @@ limbs; *kaThine* = on the hard; *sthaN^Dile* = ground.
 changing sides, in the form of all the blades of Kusa grass, trampled by his limbs on the hard
 ground."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This is my brother’s couch; here indeed he turned from side to side (iyaṃ śayyā mama bhrātur idaṃ hi parivartitam), and upon the hard ground all the grass has been crushed by his limbs (sthaṇḍile kaṭhine sarvaṃ gātrair vimṛditaṃ tṛṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -523,6 +589,12 @@ Seetha; *suptaa* = has slept; *asmin* = on this; *shayanaa* = bed;
 
 "I think the blessed Seetha has slept on this bed along with her jewels for, some
 particles of gold appear to be stuck up, here and there."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I think Sītā slept adorned with her ornaments upon this noble couch (manye sābharaṇā suptā sītāsmiñ chayano-ttame), for here and there golden particles are seen clinging to the grass (tatra tatra hi dṛśyante saktāḥ kanaka-bindavaḥ).
 </details>
 </details>
 
@@ -571,6 +643,12 @@ upper garment; *siitayaa* = of Seetha; *aasaktam* = was entangled; *iha* =
 "It is very clear that the upper garment of Seetha got entangled with these blades
 here at that time. That is why, these silk-threads appear stuck to them."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clearly Sītā’s upper garment caught here at that time (uttarīyam ihāsaktaṃ suvyaktaṃ sītayā tadā), for see how these silken threads shine where they are snagged (tathā hy ete prakāśante saktāḥ kauśeya-tantavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -618,6 +696,12 @@ yet; however; *sukumarii* = delicate she be; *jaanaati* = she would experience;
 "I think the bed of her husband is sweet to a woman and thought Seetha is young and
 unfortunate, yet however delicate she be, she would experience no suffering."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I deem a husband’s bed is ever pleasant to a devoted wife (manye bhartuḥ sukhā śayyā), whereby the tender and youthful princess of Mithilā, though enduring hardship, feels no sorrow (yena bālā tapasvinī sukumārī satī duḥkhaṃ na vijānāti maithilī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -664,6 +748,12 @@ bed.
 
 "Alas! I am a cruel man because on my account, Rama, like an orphan, along with his
 wife slept on such a bed."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alas, woe is me! Cruel am I, that on my account (hā hantāsmi nṛśaṃso 'haṃ yat kṛte mama) Rāghava with his wife lies upon such a couch like one protectorless (sabhāryaḥ īdṛśīṃ rāghavaḥ śayyām adhiśete hy anāthavat)!
 </details>
 </details>
 
@@ -723,6 +813,14 @@ beloved of all the people, having a dark complexion as that of a blue-lotus, hav
 lovely to look at who is entittled for comfort and who is not worthy of suffering, sleep on the
 gound, abandoning excellent kingdom and comfort?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** Born in the line of universal monarchs and esteemed by all the worlds (sārvabhauma-kule jātaḥ sarva-lokasya sammataḥ), beloved of all people, having renounced a kingdom of unsurpassed felicity (sarva-loka-priyas tyaktvā rājyaṃ sukham anuttamam),
+
+**19:** how has Rāghava—dark-gleaming like a blue lotus, red-eyed, lovely to behold (katham indīvara-śyāmo raktākṣaḥ priya-darśanaḥ), worthy of happiness and undeserving of sorrow—lain upon the bare earth (sukha-bhāgī na duḥkhārhaḥ śayito bhuvi rāghavaḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -768,6 +866,12 @@ time; *dhanyaH khalu* = is indeed a fortunate man.
 
 "Lakshmana, having auspicious marks on his body and an exceedingly lucky man, who
 accompanied his elder brother Rama in times of adversity in indeed a fortunate man."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blessed indeed is the fortunate Lakṣmaṇa, endowed with auspicious marks (dhanyaḥ khalu mahā-bhāgo lakṣmaṇaḥ śubha-lakṣaṇaḥ), who attends upon his brother Rāma in this hour of adversity (bhrātaraṃ viṣame kāle yo rāmam anuvartate)!
 </details>
 </details>
 
@@ -816,6 +920,12 @@ Rama; *sanshayitaaH* = are unsettled.
 "Seetha, who went together with her husband to the forest, is indeed an accomplished
 woman. All of us, deprived of the highly virtuous Rama, are an unsettled lot."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fulfilled in her life’s purpose indeed is Vaidehī, who has followed her husband to the forest (siddhārthā khalu vaidehī patiṃ yānugatā vanam); bereft of that great-souled prince, we are all cast into doubt and peril (vayaṃ saṃśayitāḥ sarve hīnās tena mahātmanā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -862,6 +972,12 @@ me; *nauriva* = as a boat; *akarNadhaaraa* = without a helmsman.
 "Dasaratha went to heaven. Rama is dwelling in the forest. this kingdom appears to
 me as a boat without ahelmsman."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Now that Daśaratha has gone to heaven and Rāma has resorted to the wilderness (gate daśarathe svargaṃ rāme cāraṇyam āśrite), the earth appears to me like a ship without a helmsman (ākarṇadhārā pṛthivī naur iva pratibhāti mā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -907,6 +1023,12 @@ power of arms; *tasya* = of that Rama; *praarthayate* = cannot be desired;
 
 "Even if staying in the forest, Rama protects this earth with the power of his arms.
 Hence, nobdy can think even in his mind, to invade this kingdom."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet no one dares even in thought to covet the earth (na ca prārthayate kaścin manasāpi vasundharām), guarded as she is by the might of his arms even while he dwells in the forest (vane 'pi vasatas tasya bāhu-vīryābhirakṣitām).
 </details>
 </details>
 
@@ -970,6 +1092,14 @@ elephants, with its city-gates laid open, without any defenders, denuded of its 
 in desolation in difficulties and exposed, that royal capital of Ayodhya will be shunned like
 poisoned food even by the enemies."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** With the guards of its ramparts deserted and its horses and elephants unbridled (śūnya-saṃvaraṇārakṣām ayantrita-haya-dvipām), its city gates standing wide open, the unguarded capital (apāvṛta-pura-dvārāṃ rājadhānīm arakṣitām)—
+
+**25:** its troops joyless, desolate, in perilous plight, and unenclosed (aprahṛṣṭa-balāṃ śūnyāṃ viṣama-sthām anāvṛtām)—foes do not even think of seizing, any more than viands laced with poison (śatravo nābhimanyante bhakṣān viṣa-kṛtān iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1016,6 +1146,12 @@ earth; *tR^iNeSuvaa* = or on the grass; *dhaarayan* = wearing;
 
 "From today onwards, I shall sleep on the earth or on the grass, with my locks
 matted, wearing robes of bark and by all means living on fruits and roots."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From this day forth I shall sleep upon the bare ground or upon blades of grass (adya-prabhṛti bhūmau tu śayiṣye 'haṃ tṛṇeṣu vā), subsisting ever on fruits and roots and wearing matted locks and bark-garments (phala-mūlāśano nityaṃ jaṭā-cīrāṇi dhārayan).
 </details>
 </details>
 
@@ -1065,6 +1201,12 @@ matted, wearing robes of bark and by all means living on fruits and roots."
 forest, thereby discharging that promise so that the vows of Rama shall not have been made in
 vain."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For his sake I shall happily dwell in the forest for the remaining period (tasyārtham uttaraṃ kālaṃ nivatsyāmi sukhaṃ vane); taking that vow upon myself, his pledge shall not prove false (taṃ pratiśravam āmucya nāsya mithyā bhaviṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1111,6 +1253,12 @@ Ayodhya.
 
 "Shatrughna will bear company with me, residing in the forest on behalf of Rama. My
 elder brother, Rama along with Lakshmana will protect Ayodhya."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As I dwell in the forest for my brother’s sake, Śatrughna will stay with me (vasantaṃ bhrātur arthāya śatrughno mānuvatsyati), while my noble elder brother, together with Lakṣmaṇa, will rule Ayodhyā (lakṣmaṇena saha tv āryo hy ayodhyāṃ pālayiṣyati).
 </details>
 </details>
 
@@ -1159,6 +1307,12 @@ my; *manoratham* = desire; *satyam* = (be made) a reality.
 
 "Rama will be enthroned in ayodhya, by Brahmanas the Twice-born! May the gods grant
 that my desire be made a reality."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The twice-born Brāhmaṇas shall consecrate Kākutstha in Ayodhyā (abhiṣekṣyanti kākutstham ayodhyāyāṃ dvijātayaḥ); may the gods make this heart’s desire of mine come true (api me devatāḥ kuryur imaṃ satyaṃ manoratham)!
 </details>
 </details>
 
@@ -1223,6 +1377,12 @@ ought not to refuse this grace to me."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तॆण्टनॆय सर्ग पूर्णवायितु ॥88॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If, though propitiated by me in person with bowed head in many ways, he will not consent (prasādyamānaḥ śirasā mayā svayaṃ bahu-prakāraṃ yadi nābhipatsyate), then I shall abide with Rāghava forever; roaming in the forest, he cannot bear to disregard me (tato 'nuvatsyāmi cirāya rāghavaṃ vane-caran nārhati mām upekṣitum).”
 </details>
 </details>
 

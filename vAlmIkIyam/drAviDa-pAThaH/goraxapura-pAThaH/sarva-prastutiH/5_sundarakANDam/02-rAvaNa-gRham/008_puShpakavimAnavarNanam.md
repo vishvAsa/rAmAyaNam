@@ -81,6 +81,12 @@ That Hanuma the courageous one, the son of Lord Vayu, saw the great aerial plane
 standing in the middle of that building with a surprising hue, due to diamonds, and gems decorated
 by series of refined gold.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing in the middle of that palace (tasya madhye bhavanasya saṃsthitaḥ), that wise monkey, the son of the Wind-god, beheld the great aerial car (mahad vimānaṃ dadarśa) variegated with gems and jewels (maṇiratnacitritam) and artfully wrought with lattices of burnished jāmbūnada gold (prataptajāmbūnadajālakṛtrimam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,6 +145,12 @@ praised by him; *aprameyaapratikaarakR^itrimam* = one without comparison in beau
 That plane shone like symbol for solar path standing in the aerial path obtaining
 the sky. Manufactured by Vishvakarma himself and praised by him as one without comparison in
 beauty.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wrought with immeasurable and peerless counter-images (aprameyapratikārakṛtrimam), and fashioned by Viśvakarman himself with the acclaim, “This is truly exquisite!” (kṛtaṃ svayaṃ sādhv iti viśvakarmaṇā), that aerial car, stationed in the sky-reaching path of the wind (divaṃ gate vāyupathe pratiṣṭhitam), shone forth as the very emblem of the path of the sun (vyarājatādityapathasya lakṣma tat).
 </details>
 </details>
 
@@ -200,6 +212,12 @@ In that plane there is not even a small thing that is not made with great effort
 that there is nothing without the best diamonds, those characteristics definitely are not in Devas
 also, in that there is nothing that is not of great significance.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There was nothing therein that was not fashioned with utmost care (na tatra kiṃcin na kṛtaṃ prayatnataḥ); there was nothing therein that was not set with priceless gems (na mahārharatnavat); those special excellences were not found even among the gods (na te viśeṣā niyatāḥ sureṣv api); there was nothing therein that did not possess some supreme distinction (na mahāviśeṣavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -258,6 +276,12 @@ significance; *tataH tataH* = (collected from) here and there
 One that has been obtained by austerities and by prowess, one that moves about by
 thoughts of concentrated mind, made from various significant parts with an appearance of parts of
 equal significance, collected from here and there from all over the world.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Won through austerity, meditative concentration, and valor (tapaḥsamādhānaparākramārjitam), coursing in accordance with the focused thought of the mind (manaḥsamādhānavicāracāriṇam), fashioned with manifold architectural distinctions (anekasaṃsthānaviśeṣanirmitam), and constructed throughout with harmonious features (tatas tatas tulyaviśeṣanirmitam)—
 </details>
 </details>
 
@@ -319,6 +343,12 @@ Obtaining a special construction as a special object, like a mountain with wonde
 peaks adorned by many peaks, attractive to soul, calm like an autumnal moon, like the peak of a
 mountain with other wonderful small peaks.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swiftly coursing as soon as the master's mind is fixed (manaḥ samādhāya tu śīghragāminam), unassailable (durāsadam), moving with the speed of the wind (mārutatulyagāminam), and like the abode of supreme joy of high-souled, meritorious, richly endowed, and illustrious ones (mahātmanāṃ puṇyakṛtāṃ maharddhināṃ yaśasvinām agryamudām ivālayam);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -378,6 +408,12 @@ round eyes; crooked eyes and wide eyes; *mahaajavaaH* = capable of great speed;
 Hanuma saw that aerial plane which rakshasas who were great eaters, with a face
 beautified by earnings, who roamed around in the sky and thousands of genii with round eyes,
 crooked eyes and wide eyes capable of great speed carrying it.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stationed in a special region by resorting to a special mode of flight (viśeṣam ālambya viśeṣasaṃsthitam), possessing wondrous peaks and adorned with many pavilions (vicitrakūṭaṃ bahukūṭamaṇḍitam), delightful to the heart and pure as the autumn moon (mano'bhirāmaṃ śaradindunirmalam), like a mountain peak with variegated crags (vicitrakūṭaṃ śikharaṃ girer yathā);
 </details>
 </details>
 
@@ -459,6 +495,14 @@ appearance than even the spring season.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऎण्टनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** Which thousands of swift-moving hosts of spirits (mahājavā bhūtagaṇāḥ sahasraśaḥ)—night-roamers coursing through the sky (vyomacarā niśācarāḥ), of huge appetite (mahāśanāḥ), their faces gleaming with earrings (kuṇḍalaśobhitānanāḥ), and their wide eyes rolling and unblinking (vivṛttavidhvastaviśālalocanāḥ)—bear aloft (vahanti yat);
+
+**8:** Lovely to behold with heaps of vernal blossoms (vasantapuṣpotkaracārudarśanam), and even lovelier to behold than the season of spring itself (vasantamāsād api cārudarśanam)—that foremost of monkey heroes beheld there that supreme aerial palace Puṣpaka (sa puṣpakaṃ tatra vimānam uttamaṃ dadarśa tad vānaravīrasattamaḥ).
 </details>
 </details>
 

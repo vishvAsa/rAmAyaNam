@@ -95,6 +95,14 @@ Vishvamitra self-collectedly conducted a highly astounding ascesis subsisting on
 on fruits and tubers." Thus Sage Shataananda continued his narration of Vishvamitra's
 legend. [1-57-1, 2, 3a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then, with his heart seared by anguish as he remembered his humiliation (saṃtaptahṛdayaḥ smaran nigraham ātmanaḥ), sighing again and again, having contracted enmity with that high-souled sage (kṛtavairo mahātmanā)—
+
+**2:** —Viśvāmitra of mighty austerity journeyed to the southern quarter along with his queen (sa dakṣiṇāṃ diśaṃ gatvā mahiṣyā saha), O Rāghava, and practiced supremely formidable penance (tatāpa paramaṃ ghoraṃ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -142,6 +150,12 @@ mahaarathaH* = Mahaaratha; *satyadharmaparaayaNaaH* = conducting in candour chiv
 
 Then Vishvamitra begot sons named Havispanda, Madhuspnada, Dhridhanetra and Mahaaratha,
 who conduct themselves in candour and chivalry. [1-57-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Subsisting on fruits and roots and mastering his senses (phalamūlāśano dāntaḥ), he performed supreme austerity (cacāra paramaṃ tapaḥ); and there were born to him sons devoted to truth and dharma (athāsya jajñire putrāḥ satyadharmaparāyaṇāḥ)—
 </details>
 </details>
 
@@ -191,6 +205,14 @@ revealed Himself to Vishvamitra and spoke these words mellowly to ascetically we
 Vishvamitra, 'oh, son of Kushika, Vishvamitra, you have won the worlds of kingly-sages
 by your ascesis.' [1-57-4b, 5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** —Haviṣpanda, Madhuṣpanda, Dṛḍhanetra, and Mahāratha (haviṣpando madhuṣpando dṛḍhanetro mahārathaḥ). Then, when a thousand years were fulfilled (pūrṇe varṣasahasre tu), Brahmā, the Grandsire of the worlds (lokapitāmahaḥ)—
+
+**5:** —spoke these sweet words to Viśvāmitra, rich in penance (abravīn madhuraṃ vākyaṃ viśvāmitraṃ tapodhanam): “The realms of the royal seers have been won by your austerity, O son of Kuśika (jitā rājarṣilokās te tapasā kuśikātmaja)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -239,6 +261,12 @@ saha* = along with gods [in convoy] ; *brahmalokam* = to Brahma's abode;
 'We indeed acquiesce you as a kingly-sage by your ascesis.' saying so that great
 resplendent Brahma, the Supreme Ruler of the Worlds, went away to his Abode of Brahma,
 while the gods in Brahma's convoy went to Indra's Heaven. [1-57-6, 7a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By virtue of this penance, we recognize you as a Rājarṣi—a royal seer (anena tapasā tvāṃ hi rājarṣir iti vidmahe)!” Having spoken thus, the Lord of mighty splendor departed together with the gods (jagāma saha daivataiḥ)—
 </details>
 </details>
 
@@ -301,6 +329,14 @@ there.
 observances of hermits are recognising me just as a 'kingly-sage.' Thereby I deem
 that there is no fruition to my ascesis.' Thus Vishvamitra thought. [8b, 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** —to heaven and to the world of Brahmā (triviṣṭapaṃ brahmalokam), he who is the Supreme Lord of all the worlds (lokānāṃ parameśvaraḥ). Hearing that declaration, Viśvāmitra hung his head slightly in shame (hriyā kiṃcid avāṅmukhaḥ)—
+
+**8:** —and, overwhelmed with great sorrow and dejection (duḥkhena mahatāviṣṭaḥ samanyuḥ), spoke these words: “I have practiced supreme austerity, yet they recognize me only as a Rājarṣi (tapaś ca sumahat taptaṃ rājarṣir iti māṃ viduḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -347,6 +383,12 @@ again, that way; *paramam tapaH cacaara* = undertook supreme ascesis.
 Oh, Rama of Kakutstha, deciding in this way in his heart of hearts that self-willed
 Vishvamitra again undertook a supreme ascesis as he is a great-ascetic. [1-57-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since all the gods together with the hosts of seers deem me thus, I consider my penance to have borne no true fruit (nāsti manye tapaḥphalam)!” Having resolved thus in his mind, that sage of mighty austerity once again (bhūya eva mahātapāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -387,6 +429,12 @@ vikhyaataH* = thus renouned as Trishanku; such a king is there.
 In this meantime there is a veracious king named Trishanku, an enhancer of
 Ikshvaku dynasty, and one renowned for his self-conquest. [1-57-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—practiced severe penance, O Kākutstha, righteous of soul and supremely self-possessed (tapaś cacāra dharmātmā kākutstha paramātmavān). At this very time, there lived a king, truthful in speech and victorious over his senses (satyavādī jitendriyaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -411,6 +459,12 @@ Ikshvaku dynasty, and one renowned for his self-conquest. [1-57-10b, 11a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! अवन मनस्सिनलि - ‘नन्न ई शरीरदॊन्दिगॆ देवतॆगळ परमगतियाद स्वर्गलोकक्कॆ होगुवन्तह यज्ञवन्नु माडुवॆनु’ ऎम्ब विचार बन्तु.॥11½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—renowned by the name of Triśaṅku, an increaser of the house of Ikṣvāku (triśaṅkur iti vikhyāta ikṣvākukulavardhanaḥ). In him arose the resolve (tasya buddhiḥ samutpannā), O Rāghava: “I shall perform a sacrifice (yajeyam iti)—
 </details>
 </details>
 
@@ -455,6 +509,12 @@ kathayaamaasa* = started to tell what he thought [by Trishanku].
 Oh, Raghava, an idea sprang up in the mind of Trishanku to perform a ritual
 by which he will go to heaven with his own body. Then he sincerely invited Vashishta
 and told him what his thinking is. [1-57-11b, 12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—whereby I may ascend in my own mortal body to the supreme goal of the gods (gaccheyaṃ svaśarīreṇa devatānāṃ parāṃ gatim)!” Summoning Vasiṣṭha, he declared to him what he had pondered in his heart (vasiṣṭhaṃ sa samāhūya kathayāmāsa cintitam).
 </details>
 </details>
 
@@ -506,6 +566,12 @@ But the great-souled Vashishta said it as impossible. Thus repudiated Trishanku
 went to southerly direction in search of orchestrators for the purpose of realising
 that task, such a phantasmal ritual that enables him to go to heaven with his body,
 and that king has gone to the sons of Vashishta. [1-57-13, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Told “It is impossible!” by the high-souled Vasiṣṭha (aśakyam iti cāpy ukto vasiṣṭhena mahātmanā), and thus refused by Vasiṣṭha (pratyākhyāto vasiṣṭhena), he journeyed to the southern quarter (sa yayau dakṣiṇāṃ diśam).
 </details>
 </details>
 
@@ -561,6 +627,14 @@ expiating, and there he visited the hundred noble-souled sons of Vashishta, who
 are supremely self-luminescent and superbly self-refulgent by their ascesis. [1-57-14b,
 15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Then, for the accomplishment of that ritual undertaking (tatas tatkarmasiddhyartham), the king went to Vasiṣṭha’s sons (putrāṃs tasya gato nṛpaḥ), to the spot where the long-austere sons of Vasiṣṭha were practicing penance (vāsiṣṭhā dīrghatapasas tapo yatra hi tepire).
+
+**15:** There Triśaṅku of great splendor beheld Vasiṣṭha’s hundred supremely radiant and high-minded sons engaged in austerity (śataṃ paramabhāsvaram vasiṣṭhaputrān dadṛśe tapyamānān manasvinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -615,6 +689,12 @@ Trishanku reverenced all of them sequentially according to their age, but with a
 little down- faced owing to abashment, and spoke to all of those great-souled ones
 making palm-fold in supplication. [1-57-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching all those high-souled sons of his preceptor (so ’bhigamya mahātmānaḥ sarvān eva guroḥ sutān), and saluting them in due order of seniority with his face slightly bowed in diffidence (abhivādyānupūrveṇa hriyā kiṃcid avāṅmukhaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -657,6 +737,14 @@ vasiSThena pratyaakhyaataH asmi* = I am repudiated by great-souled Vashishta.
 I have come as a shelter-seeker seeking the shelter of yours as you are the shelterers
 of the needy, you all be safe, as the great-souled Vashishta has repudiated me.
 [1-57-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** —with joined palms he spoke to all those high-souled sages (abravīt sa mahātmānaḥ sarvān eva kṛtāñjaliḥ): “I have come to you for refuge, seeking shelter in you who are able to protect (śaraṇaṃ vaḥ prapanno ’haṃ śaraṇyān śaraṇaṃ gataḥ)!
+
+**18:** “Blessings be upon you! I have been refused by the high-souled Vasiṣṭha (pratyākhyāto hi bhadraṃ vo vasiṣṭhena mahātmanā); desirous as I am of offering a great sacrifice, you ought to grant me your consent (yaṣṭukāmo mahāyajñaṃ tad anujñātum arhatha)!
 </details>
 </details>
 
@@ -734,6 +822,14 @@ With reverence I truckle before you all Brahmans who are abiding in ascesis.
 Such as you are I beg you to assiduously get a ritual performed through me, as to
 how I can get to heaven with my body. [1-57-19b, 20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “Bowing low to all the sons of my preceptor, I seek to win your grace (guruputrān ahaṃ sarvān namaskṛtya prasādaye); with my head bowed in prostration, I implore you Brahmins who are established in austerity (śirasā praṇato yāce brāhmaṇāṃs tapasi sthitān)!
+
+**20:** “May you, with concentrated minds, officiate at my sacrifice for the accomplishment of my goal (te māṃ bhavantaḥ siddhyarthaṃ yājayantu samāhitāḥ), so that I may verily attain the realm of the gods in my very body (saśarīro yathāhaṃ vai devalokam avāpnuyām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -773,6 +869,12 @@ how I can get to heaven with my body. [1-57-19b, 20]
 
 Oh, ascetically wealthy Brahmans, as I am repudiated by Vashishta, I do not perceive
 another recourse excepting you, who are all the sons of mentor Vashishta. [1-57-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having been refused by Vasiṣṭha, O sages rich in penance (pratyākhyāto vasiṣṭhena tapodhanāḥ), I behold no other refuge whatsoever save all of you, the sons of my preceptor (gatim anyāṃ guruputrān ṛte sarvān nāhaṃ paśyāmi kāṃcana)!
 </details>
 </details>
 
@@ -826,6 +928,12 @@ narration. [1-57-22]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तेळनॆय सर्ग पूर्णवायितु.॥57॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For to all the monarchs of the Ikṣvāku race, the family purohita is the supreme refuge (ikṣvākūṇāṃ hi sarveṣāṃ purodhāḥ paramā gatiḥ); therefore, next after him, all of you are my very deity (tasmād anantaraṃ sarve bhavanto daivataṃ mama)!”
 </details>
 </details>
 

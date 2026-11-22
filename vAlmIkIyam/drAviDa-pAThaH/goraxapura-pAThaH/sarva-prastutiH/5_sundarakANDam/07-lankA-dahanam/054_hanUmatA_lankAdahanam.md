@@ -70,6 +70,12 @@ achintayat* = thought; *kaarya sheSam* = about the remaining act to be done; *va
 Then, after fulfilling his heart's wish, Hanuma, looking over Lanka, thought about the
 remaining act to be done, with an augmented energy.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, surveying Laṅkā (vīkṣamāṇas tato laṅkām), the monkey, his heart's desire fulfilled (kṛta-manorathaḥ) and his high enthusiasm swelling (vardhamāna-samutsāhaḥ), pondered what remained of his task (kārya-śeṣam acintayat):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +121,12 @@ indeed; *avashiSTam* = remaining; *iha* = here; *me* = for me; *yat* = that;
 
 "Which act indeed is remaing nowto be done by me here, that may further create anguish
 to these demons?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What indeed still remains (kiṃ nu khalv avaśiṣṭam) to be done by me here and now (iha sāmpratam), which would generate further torment (bhūyaḥ saṃtāpa-jananam) for these rākṣasas?
 </details>
 </details>
 
@@ -162,6 +174,12 @@ to these demons?"
 "I have demolished the garden. I have killed excellent demons. I destroyed a portion
 of the army. The demolition of the fort is still remaining."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The grove has already been crushed (vanaṃ tāvat pramathitam), preeminent rākṣasas (prakṛṣṭā rākṣasāḥ) have been slain, and a portion of their army (balaika-deśaḥ) has been destroyed; what remains is the destruction of the fortress (śeṣaṃ durga-vināśanam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,6 +225,12 @@ of the army. The demolition of the fort is still remaining."
 
 "When the fort gets destroyed, the task (of Rama's battle) will be devoid of fatigue.
 Even with a small effort in this task, the work will become fruitful."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Once the fortress is destroyed (durge vināśite), our mission will become one of easy toil (sukha-pariśramam); through slight effort (alpa-yatnena) in this deed, my labor will become fruitful (saphalaḥ śramaḥ).
 </details>
 </details>
 
@@ -254,6 +278,12 @@ with these; *gR^ihottamaH* = excellent houses.
 "It is justified to satisfy this blazing flame on my tail, by feeding it to the full,
 with these excellent houses (in the city of Lanka)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For it is fitting (nyāyyam) to offer gratification (saṃtarpaṇam) with these finest of mansions (ebhir gṛhottamaiḥ) to this bearer of oblations (havyavāhanaḥ) who blazes upon my tail (mama lāṅgūle dīpyate)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -299,6 +329,12 @@ with these excellent houses (in the city of Lanka)."
 Then, Hanuma, with his burning tail, strolled over the house-tops of Lanka, like a cloud
 charged with lightning.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, with his tail blazing (pradīpta-lāṅgūlaḥ) like a rain-cloud streaked with lightning (sa-vidyud iva toyadaḥ), the great monkey roamed across the rooftops of Laṅkā's palaces (bhavanāgreṣu laṅkāyāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -338,6 +374,12 @@ charged with lightning.
 
 Surveying the gardens and lofty palatial mansions, that Hanuma, without fear, passed
 from one house to another, of the demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Observing the rākṣasas' houses, pleasure-gardens (udyānāni ca), and palaces (prāsādāṃś ca) from house to house (gṛhād gṛham), that fearless (asaṃtrastaḥ) monkey moved about.
 </details>
 </details>
 
@@ -407,6 +449,14 @@ Hanuma, with great swiftness, having strength equal to wind, scattering fire on 
 there, to another house belonging to Mahaparsva. Hanuma scattered a fire there resembling a flame of
 fire that is to destroy the world.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Bounding down with great speed (avaplutya mahā-vegaḥ) upon the residence of Prahasta (prahastasya niveśanam), that mighty hero, equal to the wind (śvasanena samo balī), cast fire (agniṃ tatra vinikṣipya) therein.
+
+**9:** Then the valiant Hanumān leapt (pupluve) to another mansion, that of Mahāpārśva (mahāpārśvasya), and loosed fire resembling the flames of the doomsday conflagration (kālānala-śikhopamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -432,6 +482,12 @@ fire that is to destroy the world.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तत्पश्चात् वे महातेजस्वी महाकपि क्रमशः वज्रदंष्ट्र, शुक और बुद्धिमान् सारणके घरोंपर कूदे और उनमें आग लगाकर आगे बढ़ गये ॥ १० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And likewise the great monkey of mighty splendor (mahā-tejāḥ) leapt to [the mansion] of Vajradaṃṣṭra (vajradaṃṣṭrasya), and of Śuka (śukasya ca), and of wise Sāraṇa (sāraṇasya ca dhīmataḥ).
 </details>
 </details>
 
@@ -473,6 +529,12 @@ Sarana.
 That Hanuma, of great splendour, then leapt to the houses of Vajradamshtra, Shuka and
 Sarana, the intelligent.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And likewise the monkey troop-leader burned the mansion of Indrajit (indrajito veśma dadāha); then he burned the palace of Jambumāli (jambumāleḥ) and of Sumāli (sumāleś ca),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -504,6 +566,18 @@ Sarana, the intelligent.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर रश्मिकेतु, सूर्यशत्रु, ह्रस्वकर्ण, दंष्ट्र, राक्षसरोमश, रणोन्मत्त मत्त, ध्वजग्रीव, भयानक विद्युज्जिह्व, हस्तिमुख, कराल, विशाल, शोणिताक्ष, कुम्भकर्ण, मकराक्ष, नरान्तक, कुम्भ, दुरात्मा निकुम्भ, यज्ञशत्रु और ब्रह्मशत्रु आदि राक्षसोंके घरोंमें जा-जाकर उन्होंने आग लगायी ॥ १२—१५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** and the palace of Raśmiketu (raśmiketoś ca bhavanam) and likewise of Sūryaśatru (sūryaśatros tathaiva ca), and of Hrasvakarṇa, Daṃṣṭra, and the rākṣasa Romaśa (romaśasya ca rakṣasaḥ),
+
+**13:** [and the palaces] of the rākṣasas Yuddhonmatta, Matta, and Dhvajagrīva (dhvajagrīvasya rakṣasaḥ), and of the dreadful Vidyujjihva (vidyujjihvasya ghorasya) as well as Hastimukha (hastimukhasya ca),
+
+**14:** and of Karāla, Viśāla, and Śoṇitākṣa (śoṇitākṣasya caiva hi), and the palace of Kumbhakarṇa (kumbhakarṇasya bhavanam) and of Makarākṣa as well,
+
+**15:** and of Narāntaka, Kumbha, and wicked-souled Nikumbha (nikumbhasya durātmanaḥ), and the palace of Yajñaśatru (yajñaśatroś ca bhavanam) and likewise of Brahmaśatru (brahmaśatros tathaiva ca).
 </details>
 </details>
 
@@ -556,6 +630,12 @@ houses of Rashmiketu, Surya shatru, Hrasvakarna, Damshtra, Romasha the demon, Yu
 the demon, the terrific Vidyujjihva, Hastimukha, Karala, Pishacha, Shonitaaksha, Kumbhakarna, Makaraksha,
 Yajnashatru, Brahmashatru, Narantaka, Kumbha as also the evil-minded Nikumbha and burnt the houses.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sparing only the house of Vibhīṣaṇa (varjayitvā ... vibhīṣaṇa-gṛhaṃ prati), that bull among monkeys of mighty splendor (mahā-tejāḥ) burned them in due order as he strode along (kramamāṇaḥ krameṇaiva dadāha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -597,6 +677,12 @@ _________________
 
 That Hanuma of great fame burnt away wealth in the mansions of the rich.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In those various costly mansions (teṣu teṣu mahārheṣu bhavaneṣu), that renowned elephant among monkeys burned the opulent wealth of the wealthy (gṛheṣv ṛddhimatām ṛddhiṃ dadāha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -636,6 +722,12 @@ the king of demons.
 
 Having passed over all the houses, the mighty and glorious Hanuma thereafter approached
 the house of Ravana the king of demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed beyond [the mansions] of all of them (sarveṣāṃ samatikramya), the valiant and glorious hero then reached the residence of Rāvaṇa, lord of rākṣasas (rākṣasendrasya ... rāvaṇasya niveśanam).
 </details>
 </details>
 
@@ -698,6 +790,14 @@ Thereafter, scattering a blazing fire located at the tip of his tail, on that pr
 house, decorated with various kinds of precious stones, resembling Mounts Meru and Mandara as also embellished
 with all good work, the valiant Hanuma roared like a cloud thundering at noon-time in a rainy season.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** Then upon that foremost palace (tasmin gṛhe mukhye), adorned with manifold jewels (nānā-ratna-vibhūṣite), resembling Meru and Mandara (meru-mandara-saṃkāśe), and graced with every auspicious emblem (nānā-maṅgala-śobhite),
+
+**20:** having cast off the blazing fire (pradīptam agnim utsṛjya) that rested on the tip of his tail (lāṅgūlāgre pratiṣṭhitam), the heroic Hanumān roared (nanāda) like a cloud at the end of the world-age (yugānta-jalado yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -746,6 +846,12 @@ destroy the world.
 
 In contact with the wind, the fire escalated with a great speed and intensity, blazing
 like a fire that is to destroy the world.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And through union with the Wind (śvasanena ca saṃyogāt), the mighty bearer of oblations (mahā-balaḥ hutāśanaḥ), becoming exceedingly swift (ativegaḥ), blazed up like the doomsday fire (kālāgnir iva jajvāla) and swelled mightily (prāvardhata).
 </details>
 </details>
 
@@ -824,6 +930,14 @@ jaalaani* = with golden windows; *muktaamaNimayaani cha* = embedded with pearls;
 Those large houses, with golden windows, embedded with pearls, gems and precious jewels
 were shattered to pieces.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** As the wind spread (pavanaś cārayan) that blazing fire among those mansions, those [edifices] with golden lattices (kāñcana-jālāni) and wrought of pearls and gems (muktā-maṇi-mayāni ca),
+
+**23:** vast and jewel-filled palaces (bhavanāni ratnavanti mahānti ca), crumbled apart (vyaśīryanta); with their upper turrets shattered (bhagna-vimānāni), they plunged to the surface of the earth (nipetur vasudhā-tale),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -876,6 +990,12 @@ The demons, who were running hither and thither to protect their houses and who 
 their spirits and abundant wealth, created a tumultuous nose, saying "Alas! The fire-god has come really
 in a form of this monkey!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like the aerial palaces of perfected beings (bhavanānīva siddhānām) [falling] from the sky at the exhaustion of their merit (puṇya-saṃkṣaye). A tumultuous uproar (tumulaḥ śabdaḥ) arose from the rākṣasas as they fled headlong (pradhāvatām):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -903,6 +1023,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 स्वगृहगळन्नु रक्षिसिकॊळ्ळलु परदाडुत्तिद्दवरू, उत्साह, बल, सम्पत्तन्नु कळकॊण्डवराद राक्षसरु - अय्यो! ऎन्दु विकारवागि कूगुत्ता ओडुत्तिद्दरु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+from those whose courage was broken and whose splendor was forsaken (bhagnotsāhojjhita-śriyām) in defending their own homes (sve sve gṛha-paritrāṇe): “Alas (hā)! Surely this is Fire himself come in the form of a monkey (kapi-rūpeṇa)!”
 </details>
 </details>
 
@@ -949,6 +1075,12 @@ soudaaminyaH iva* = like lightning's; *patantyaH* = falling; *abhrebhyaH* = from
 Some women crying and carrying their suckling's with their hair dishevelled, fell down
 from their houses, which were enveloped with fire, and shone like flashes of lightning falling from
 clouds in the sky.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping (krandantyaḥ), women clasping their nursing infants (stanaṃdhaya-dharāḥ striyaḥ) plunged headlong (sahasā petuḥ); some, their limbs enveloped in flames (agni-parītāṅgyaḥ), [leapt] from the mansions with hair disheveled (mukta-mūrdhajāḥ).
 </details>
 </details>
 
@@ -998,6 +1130,12 @@ from every marvellous house.
 
 That Hanuma saw molten metals mixed with diamonds, corals, cat's eye-gems, pearls and
 silver, surging from every marvellous house.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As they fell from the sky (patantyo ... ambarāt), they shone like flashes of lightning from the clouds (abhrebhyaḥ saudāmanya iva). Compacted with diamonds, coral, cat's-eye, pearls, and silver (vajra-vidruma-vaidūrya-muktā-rajata-saṃhatān),
 </details>
 </details>
 
@@ -1079,6 +1217,14 @@ of demons killed by Hanuma (in her lap).
 Flames of fire glittered like Kimshuka flowers at some places, blossoms of Shalmali tree
 at some places and like saffron-flowers at some other places.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** he beheld wondrous mineral streams (vicitrān dhātūn) oozing melted from the palaces (bhavanāt syandamānān). Just as fire is never sated (nāgnis tṛpyati) with firewood and grass (kāṣṭhānāṃ tṛṇānāṃ ca), so too
+
+**29:** Hanumān was not in the least sated (kiṃcin na tṛpyati) in slaying the lords of rākṣasas (rākṣasendrāṇāṃ vadhe), nor was the earth [sated] with the rākṣasas slaughtered by Hanumān (hanūmad-viśastānāṃ rākṣasānām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1120,6 +1266,12 @@ Rudra.
 
 The high souled Hanuma, the swift monkey scorched the city of Lanka, as Rudra scorched
 the city of Tripura.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By the swift and high-souled monkey Hanumān, that city of Laṅkā was burned to ashes (laṅkā-puraṃ pradagdhaṃ tat), just as Tripura was burned by Rudra (rudreṇa tripuraṃ yathā).
 </details>
 </details>
 
@@ -1176,6 +1328,12 @@ to the summit of the mountain on which the city of Lanka was situated.
 
 Then, the fire having a terrific prowess, diffused by the swift Hanuma, stretching out
 a circle of flames, blazed and rose up to the summit of the mountain on which the city of Lanka.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that fire of dreadful prowess (bhīma-parākramo 'gniḥ), loosed by the swift Hanumān (hanūmatā vegavatopasṛṣṭaḥ), rose up on the mountain crest of Laṅkā city (laṅkā-pura-parvatāgre) and blazed forth, spreading its halo of crest-flames (prasārya cūḍā-valayam).
 </details>
 </details>
 
@@ -1234,6 +1392,12 @@ That fire diffused on those buildings, together with the wind picked up a speed 
 to that of a fire at the time of dissolution of the world. It grew taller, touching the sky with a smokeless
 splendour. Those flames of fire shot up, as inflamed by ghee
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Equal in form to the fire at the end of the world-age (yugānta-kālānala-tulya-rūpaḥ), the wind-fanned fire (sa-māruto 'gniḥ) swelled until it touched the sky (divispṛk); with smokeless rays (vidhūma-raśmiḥ) clinging to the mansions, its flames were fed by the clarified butter of rākṣasa bodies (rakṣaḥ-śarīrājya-samarpitārciḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1270,6 +1434,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 समूची लङ्कापुरीको अपनी लपटोंमें लपेटकर फैली हुई वह प्रचण्ड आग करोड़ों सूर्योंके समान प्रज्वलित हो रही थी । मकानों और पर्वतोंके फटने आदिसे होनेवाले नाना प्रकारके धड़ाकोंके शब्द बिजलीकी कड़कको भी मात करते थे, उस समय वह विशाल अग्नि ब्रह्माण्डको फोड़ती हुई-सी प्रकाशित हो रही थी ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling ten million suns (āditya-koṭī-sadṛśaḥ) and of dazzling splendor (sutejāḥ), that great fire stood encompassing all of Laṅkā (laṅkāṃ samastāṃ parivārya), shining forth as if splitting the cosmic egg (bhindann ivāṇḍam) with manifold thunderbolt-like roars (śabdair anekair aśani-prarūḍhaiḥ).
 </details>
 </details>
 
@@ -1324,6 +1494,12 @@ _________________
 The fire with a fierce splendour there, extended fully to the sky, shooting flames like
 Kumshuka flowers. The clouds, bearing the colour of blue lotuses, shone as covered by smoke formed out
 of the extinguished fire.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There, mounting to the sky (ambarāt), the fiercely burgeoning fire had harsh radiance (rūkṣa-prabhaḥ) and crests like kiṃśuka blossoms (kiṃśuka-puṣpa-cūḍaḥ); and thick streaks of smoke from extinguished embers (nirvāṇa-dhūmākula-rājayaś ca) shone like blue lotuses (nīlotpalābhāḥ) in the form of clouds (abhrāḥ).
 </details>
 </details>
 
@@ -1465,6 +1641,18 @@ also trees.
 Thus spoke all those excellent troops of demons in multitude, gathering together there,
 on seeing that city scorched so soon, with its host of living beings, houses and trees.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**35:** “Is he thunderbolt-wielding Mahendra, lord of the thirty gods (tridaśeśvaro vā), or Yama in person, or Varuṇa, or the Wind (anilo vā), or Rudra's ocular fire (raudro 'gniḥ), the Sun, Kubera (dhanadaḥ), or the Moon? This is no monkey—he is Time himself (svayam eva kālaḥ)!
+
+**36:** “Or has the wrath (prakopaḥ) of four-faced Brahmā (caturānanasya), the grandsire of all (sarva-pitāmahasya) and creator of the world (lokasya dhātuḥ), come here wearing the form of a monkey (vānara-rūpa-dhārī) to work the destruction of the rākṣasas (rakṣopasaṃhāra-karaḥ)?
+
+**37:** “Or has that supreme, wondrous radiance belonging to Viṣṇu (vaiṣṇavaṃ paraṃ sutejaḥ)—inconceivable (acintyam), unmanifest (avyaktam), infinite (anantam), and one without a second (ekam)—now come here by its own miraculous power (sva-māyayā) after assuming the form of a monkey (kapi-rūpam etya) for the destruction of the rākṣasas (rakṣo-vināśāya)?”
+
+**38:** Thus spoke all the many eminent hosts of rākṣasas (bahavo viśiṣṭā rakṣo-gaṇāḥ) after gathering there (tatra sametya), beholding that city suddenly burned down (dagdhāṃ purīṃ tāṃ sahasā samīkṣya) together with its multitudes of living beings, its mansions, and its trees (sa-prāṇi-saṅghāṃ sa-gṛhāṃ sa-vṛkṣām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1530,6 +1718,12 @@ samR^igaa* = animals; *savR^ikSaa* = and trees; *ruroda* = cried; *diinaa*
 Then, Lanka having been scorched with its demons, horses, chariots, elephants, multitude
 of birds, animals and trees, cried pitiably with tumultuous noise.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then wretched Laṅkā (laṅkā dīnā), suddenly consumed by fire together with her rākṣasas, horses, chariots, and elephants (sa-rākṣasā sāśva-rathā sa-nāgā), and with her flocks of birds, deer, and trees (sa-pakṣi-saṅghā sa-mṛgā sa-vṛkṣā), wept aloud in a tumultuous uproar (ruroda tumulaṃ sa-śabdam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1590,6 +1784,12 @@ Making a very terrific noise with a dreadful sound, the demons cried in various 
 as follows: "O my dear beloved son! O my beloved husband! O my friend! O my very auspicious life, filled
 with enjoyments!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Alas, father! Alas, dear son! O beloved! O friend (hā tāta hā putraka kānta mitra)! Alas, lord of my life! O dear one, our great merit is destroyed (hataṃ supuṇyam)!”—as the rākṣasas cried out thus in many ways (evam bahudhā bruvadbhiḥ), a most dreadful and terrifying uproar was raised (śabdaḥ kṛto ghorataraḥ subhīmaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1646,6 +1846,12 @@ _________________
 
 That Lanka appeared as though afflicted by a curse, as defeated by a strong fury of Hanuma,
 enveloped by flames of fire, with its distinguished heroes killed and with its warriors in retreat.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enveloped in the flames of the fire (hutāśana-jvāla-samāvṛtā), her foremost heroes slain (hata-pravīrā) and her warriors routed (parivṛtta-yodhā), that Laṅkā, overwhelmed by the might of Hanumān's wrath (hanūmataḥ krodha-balābhibhūtā), became like one struck down by a curse (śāpopahateva).
 </details>
 </details>
 
@@ -1705,6 +1911,12 @@ by the fury of Brahama; the creator of the universe.
 Hanuma, with his great mind, saw Lanka with its dazed, frightened and dejected demons,
 marked by blazing flames of fire and afflicted by the fury of Brahma the creator of the universe.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+High-minded Hanumān (hanumān mahā-manāḥ) beheld Laṅkā in turmoil (sa-sambhramam), her rākṣasas terrified and dejected (trasta-viṣaṇṇa-rākṣasām), branded by fire with blazing flames (samujjvalaj-jvāla-hutāśanāṅkitām), like the earth struck down by the wrath of the Self-Existent One (svayaṃbhu-roṣopahatām ivāvanim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1757,6 +1969,12 @@ After demolishing the garden which was full of excellent trees, killing great de
 in battle and burning that city endowed with a series of excellent houses, Hanuma the monkey and the
 son of wind-god, stood at ease.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having shattered the grove crowded with jewel-like trees (pādapa-ratna-saṃkulam), slain mighty rākṣasas in battle (hatvā tu rakṣāṃsi mahānti saṃyuge), and burned that city garlanded with jewel-like mansions (gṛha-ratna-mālinīm), Hanumān, the monkey son of the Wind, stood still (tasthau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1807,6 +2025,12 @@ by his blazing tail; *vyaraajata* = shone; *aadityaH iva* = like the sun; *amshu
 Standing there on the wonderful flat summit of Mount Trikuta, Hanuma the foremost leader
 of the monkeys, having a garland of flames formed by his blazing tail, shone like the sun having a garland
 of rays.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain those very numerous rākṣasas (rākṣasāṃs tān subahūṃś ca hatvā), shattered that grove of many trees (vanaṃ ca bhaṅktvā bahu-pādapaṃ tat), and loosed fire among the rākṣasas' mansions, the high-souled hero went to Rāma with his mind (jagāma rāmaṃ manasā mahātmā).
 </details>
 </details>
 
@@ -1865,6 +2089,12 @@ _________________
 
 Killing those multitudes of demons, demolishing that garden endowed with several trees
 and scattering fire on the houses of demons, the high-souled Hanuma sought Rama with his mind.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then all the hosts of gods (deva-gaṇāś ca sarve) ardently praised (pratuṣṭuvuḥ) that foremost of monkey heroes (vānara-vīra-mukhyam), of mighty strength, equal in speed to the wind (māruta-tulya-vegam), the wise and preeminent son of Vāyu (vāyu-sutaṃ variṣṭham).
 </details>
 </details>
 
@@ -1925,6 +2155,12 @@ Then, all the multitude of celestials enlogised that Hanuma, the principal warri
 the monkeys, possessing great strength and swiftness similar to the wind, greatly intelligent and the
 most excellent.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And all the gods, the bulls among sages (muni-puṅgavāś ca), the gandharvas, vidyādharas, and serpents (gandharva-vidyādhara-pannagāś ca), and all great beings there attained supreme joy of peerless form (jagmuḥ parāṃ prītim atulya-rūpām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1969,6 +2205,12 @@ splendoured; *mahaakapiH* = Hanuma; *raraaja* = shone; *dagdhvaa* = after burnin
 
 Demolishing the garden, killing the demons in battle, Hanuma of great splendour shone
 brightly, after burning the beautiful City of Lanka.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having shattered the grove (bhaṅktvā vanam), slain the rākṣasas in battle (hatvā rakṣāṃsi saṃyuge), and burned the dreadful city of Laṅkā (dagdhvā laṅkā-purīṃ bhīmām), that great monkey of mighty splendor shone forth (rarāja sa mahā-kapiḥ).
 </details>
 </details>
 
@@ -2025,6 +2267,12 @@ _________________
 Seeing that city of Lanka burnt there, celestials, saints and great sages along with
 celestial's musicians, got a colossal surprise.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing upon the wondrous summit-terrace of the foremost palace (gṛhāgrya-śṛṅgāgra-tale vicitre), that lion among monkey-kings (vānara-rāja-siṃhaḥ), garlanded with flames made by his blazing tail (pradīpta-lāṅgūla-kṛtārcimālī), shone forth like the ray-garlanded sun (vyarājatāditya ivārcimālī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2067,6 +2315,12 @@ _________________
 
 Seeing that Hanuma, the foremost among the monkeys and a mighty monkey, all the created
 beings were frightened, thinking of him as a fire that is to destroy the world.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thoroughly afflicted all of Laṅkā (laṅkāṃ samastāṃ sampīḍya), that great monkey, a bull among monkeys (hari-puṅgavaḥ), then quenched the fire on his tail in the ocean (lāṅgūlāgniṃ nirvāpayām āsa tadā samudre).
 </details>
 </details>
 
@@ -2117,6 +2371,12 @@ the spirits; *sarvaani* = all; *mahaanti bhuutaani* = great living beings; *jagm
 There, all the celestial musicians, Vidyadharas the supernatural beings, Nagas the celestial
 serpents, Yakshas the spirits and all great living beings attained a great joy.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the gods together with the gandharvas, the siddhas, and the supreme sages (siddhāś ca paramarṣayaḥ), beholding that Laṅkā burned to ashes (dṛṣṭvā laṅkāṃ pradagdhāṃ tām), went into the utmost amazement (vismayaṃ paramaṃ gatāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2150,6 +2410,12 @@ _________________
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे चतुःपञ्चाशः सर्गः ॥ ५४ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें चौवनवाँ सर्ग पूरा हुआ ॥ ५४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that great monkey Hanumān, the foremost of monkeys (vānara-śreṣṭham), all beings trembled (sarva-bhūtāni tatrasuḥ), thinking, “He is the doomsday fire (kālāgnir iti saṃcintya)!”
 </details>
 </details>
 

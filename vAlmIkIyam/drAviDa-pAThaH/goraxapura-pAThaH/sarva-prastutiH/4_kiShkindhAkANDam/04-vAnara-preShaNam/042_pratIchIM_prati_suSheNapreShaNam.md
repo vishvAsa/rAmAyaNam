@@ -170,6 +170,20 @@ down.
 thousand monkeys, say two lakhs, and Sushena as your leader." Thus, Sugreeva started to speak to
 vanara troops. [4-42-5b, 6a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then, having dispatched the monkeys toward the southern quarter (dakṣiṇāṃ diśam), that Sugrīva spoke to the cloud-like (meghasaṃkāśam) monkey named Suṣeṇa.
+
+**2:** Approaching and bowing down with joined palms (prāñjaliḥ) to Tārā's father—his father-in-law (śvaśuram) of terrible valor (bhīmavikramam)—the king spoke [this] speech:
+
+**3:** [And he also addressed] the great monkey Arciṣmat, son of the great sage Marīci (mārīcam), surrounded by heroic foremost monkeys and possessing a splendor like that of great Indra (mahendrasadṛśadyutim),
+
+**4:** endowed with intelligence and valor (buddhivikramasampannam) and matching Vinatā's son [Garuḍa] in radiance (vainateyasamadyutim), as well as the mighty sons of Marīci known as the Mārīcas, [resplendent] with garlands of flame (arcirmālyān),
+
+**5:** and all those [other] sons of sages (ṛṣiputrān)—[to them] he assigned the western quarter (pratīcīṃ diśam), [saying]: 'O best of monkeys, [accompanied] by two hundred thousand (dvābhyāṃ śatasahasrābhyām) monkeys,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -239,6 +253,14 @@ The province of Candracitra, the present day Mathura and is also mentioned as
 *shuura desha* 'Shuura province...' in other mms, and the Suraashtra is identified with present day
 Sauraashtra, a peninsula in Gujarat.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** do you all, headed by Suṣeṇa (suṣeṇapramukhāḥ), thoroughly search for Vaidehī [across] the Saurāṣṭras, together with the Bāhlīkas and the Candracitras as well (tathaiva ca).'
+
+**7:** 'Search through prosperous and delightful realms (sphītān janapadān), vast cities (vipulāni purāṇi), and the Kukṣi region thick with punnāga trees (puṃnāgagahanam) and crowded with bakula and uddālaka trees,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -266,6 +288,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पश्चिम कडॆगॆ हरियुव शीतल जलदिन्द सुशोभित कल्याणमय नदिगळल्लि, तपस्वी जनर वनगळल्लि, दुर्गम पर्वतगळल्लियू विदेह कुमारियन्नु हुडुकिरि.॥8½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+as well as groves of ketaka (ketakaṣaṇḍān), O bulls among monkeys (haripuṅgavāḥ), and auspicious rivers with cool waters that flow with westward currents (pratyaksrotovahāḥ),
 </details>
 </details>
 
@@ -325,6 +353,14 @@ searching such an impassable western quarter encircled with enmeshed mountains, 
 of you to come and see Western Ocean. Having come to Western Ocean, you will see seawater ruffled
 by sharks and crocodiles. [8b, 9, 10, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** the forests of ascetics (tāpasānām araṇyāni) and whatever wilderness mountains (kāntāragirayaḥ) exist; and there, [search] the largely arid plateaus (sthalīr maruprāyāḥ) and the exceedingly lofty, frigid crags (śilāḥ).
+
+**10:** Having searched the impassable (durgām) western quarter encompassed by networks of mountains (girijālāvṛtām), you ought then, upon reaching the west, to behold the ocean (samudram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -366,6 +402,14 @@ may ramble.
 
 "Later the monkeys may ramble in the shrubberies of Ketaka plants, in copses of
 Tamaala plants and in the boscages of coconut trees. [4-42-11b, 12a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Going there, O monkeys, you shall behold [that ocean] whose waters teem with giant timi fish and crocodiles (timinakrākulajalam); thereafter, among ketaka thickets and dense tamāla woods (tamālagahaneṣu),
+
+**12:** the monkeys will roam, and among forests of coconut palms (nārikelavaneṣu); there, search both for Sītā and for the abode (nilayam) of Rāvaṇa.
 </details>
 </details>
 
@@ -429,6 +473,14 @@ sent to east. is 'un-cared-for' as the thick woods at its periphery make the int
 neglected.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** [Search] among the mountains and forests situated along the shoreline (velātalaniviṣṭeṣu), and also the port of Muravī (muravīpattanam) and the delightful city of Jaṭāpura,
+
+**14:** Avantī and Aṅgalepā, and likewise the forest named Alakṣita (alakṣitaṃ vanam), as well as vast kingdoms (rāṣṭrāṇi) and port cities (pattanāni) here and there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -498,6 +550,14 @@ uplifts [winching.]
 "On the beautiful ridges of that mountain flying-lions are inhibiting and they will
 be winching sharks, fish and elephant seals to their lairs. [4-42-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** And there, at the confluence of the Sindhu river and the ocean (sindhusāgarayoḥ saṃgame), stands a great mountain named Somagiri, hundred-peaked (śataśṛṅgaḥ) and bearing mighty trees (mahādrumaḥ).
+
+**16:** There, upon its delightful tablelands (prastheṣu), dwell winged lions (siṃhāḥ pakṣagamāḥ); and they carry timi whales, fishes, and elephants (timimatsyagajān) up to their nests (nīḍāni).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -552,6 +612,12 @@ verily, move about.
 and trumpeting like thunderous clouds they will be moving everywhere in that vast area of the
 mountain abutted by water and near at the lairs of flying-lions. [4-42-17, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And those elephants (mātaṅgāḥ) that have reached the mountain peaks—proud (dṛptāḥ), well-sated (tṛptāḥ), and trumpeting with roars like the rumble of thunderclouds (toyadasvananiḥsvanāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -598,6 +664,12 @@ monkeys; *aashu vicetavyam* = quickly, to be searched.
 "The monkeys who can change their guise by their wish have to quickly and entirely
 search the golden peak of that Hemagiri which will be touching the sky and which has amazing trees
 on it. [4-42-18b, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+roam all around those nests of the lions upon this broad, water-filled [plateau]; its golden (kāñcanam) peak, touching the sky (divasparśam), is graced with variegated trees (citrapādapam).
 </details>
 </details>
 
@@ -646,6 +718,12 @@ blindingly glittering]; *koTim* = mountain peak; *drakSyatha* = you shall see.
 "On your seagoing there, oh, vanara-s, you will see the golden peak of a waterlogged
 mountain called Mt. Paariyaatra, which peak will be hundred yojana-s in height, and which is
 difficult to see as it will be blindingly glittering. [4-42-19b, 20a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All [that peak] must be swiftly searched (āśu vicetavyam) by the monkeys capable of assuming any form at will (kāmarūpibhiḥ); and there in the ocean, [you will see] a golden peak (koṭim) of a hundred yojanas,
 </details>
 </details>
 
@@ -726,6 +804,14 @@ closely, to be approached [provoked.]
 be thronging together from everywhere, as such even awfully courageous vanara-s shall not provoke
 them. [4-42-21b, 22a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** hard to behold (durdarśām), belonging to Mount Pāriyātra—going there, O monkeys, you shall see it. There dwell twenty-four crores (koṭyaś caturviṃśat) of impetuous Gandharvas (gandharvāṇāṃ tarasvinām),
+
+**21:** resembling fire (agninikāśānām), terrible, and changing form at will (kāmarūpiṇām), gathered on all sides and gleaming like tongues of flame (pāvakārciḥpratīkāśāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -750,6 +836,12 @@ them. [4-42-21b, 22a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भयङ्कर पराक्रमि वानररु आ गन्धर्वर हॆच्चु समीपक्कॆ होगबारदु, अवरिगॆ यावुदे अपराध माडबारदु मत्तु आ पर्वत शिखरदिन्द यावुदे फलवन्नु तिन्नबारदु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They must not be approached too closely (nātyāsādayitavyāḥ) even by monkeys of terrible valor, nor must any fruit (phalam) be taken from that region by the leapers (plavaṅgamaiḥ);
 </details>
 </details>
 
@@ -803,6 +895,12 @@ dry fruits and it is the age-old practice of Kabuli Walla-s to sell most delicio
 they grow that kind of high-grade fruits which orchardist allows a monkey to pluck and plunder
 them.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+for those warriors are hard to assail (durāsadāḥ), full of strength and mighty in power (mahābalāḥ), and with terrible valor they guard the fruits and roots (phalamūlāni) there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -852,6 +950,12 @@ your following just monkey-hood and its antics, without becoming adventuresome, 
 scare from those Gandharva-s. Then you proceed from that Mt. Paariyaatra to Mt. Vajra.
 [4-42-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet diligent effort (yatnaḥ) must be made there, and Jānakī must be searched for; for there is no fear (bhayam) at all from them for those who adhere to their natural monkey ways (kapitvam anuvartatām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -879,6 +983,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पारियात्रा पर्वतद बळियल्ले समुद्रदल्लि नाना प्रकारद वृक्ष-लतॆगळिन्द व्याप्तवाद ऒन्दु वज्र ऎम्ब प्रसिद्ध ऎत्तरवाद पर्वत कण्डुबन्दीतु. आ वज्रगिरियु वैढूर्यमणियन्तॆ नील बण्णद्दागिदॆ. अदु वज्रमणियन्तॆ कठोरवागिदॆ.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There stands a great mountain named Vajra, gleaming with the hue of cat's-eye beryl (vaiḍūryavarṇābhaḥ), shaped in the form of a diamond-thunderbolt (vajrasaṃsthānasaṃsthitaḥ), and overspread with diverse trees and creepers (nānādrumalatākīrṇaḥ).
 </details>
 </details>
 
@@ -927,6 +1037,12 @@ standing like a diamond in its shape, hence it is diamondiferous. There that glo
 be soaring high, squarely for a hundred yojana-s, and diverse trees and climbers will be spreading
 over it. There, on that mountain you have to search pursuantly including its caverns. [4-42-25,
 26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Glorious (śrīmān), it rises there a full hundred yojanas equally (yojanānāṃ śataṃ samam); its caverns (guhāḥ) there must be searched with diligent effort, O leapers (plavaṅgamāḥ).
 </details>
 </details>
 
@@ -981,6 +1097,12 @@ marvellous things not only for to gods, but even to the demons, while coming und
 demons conquer Indra's paradise. In the following verses, a connected legend is also touched.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In a fourth sector of the ocean (caturbhāge samudrasya) stands a mountain named Cakravān; there the thousand-spoked discus (cakraṃ sahasrāram) was fashioned by Viśvakarman.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1037,6 +1159,12 @@ Thus the conch-shell handled by Vishnu is known as paancha janya
 shankha 'Paanchajanya conch.' Thus, this Cakravaan named mountain assumes legendary
 importance to search for Seetha. [4-42-28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There, having slain Pañcajana and the Dānava Hayagrīva, the Supreme Puruṣa (puruṣottamaḥ) carried off from that place both the discus and the conch (śaṅkhaṃ ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1083,6 +1211,12 @@ Ravana; *vaidehyaa saha* = Vaidehi, together with; *maargitavyaH* = be searched;
 "Vaidehi is to be searched on the delightful cliffs of that Mt. Cakravaan and also
 in its spacious caves, together with Ravana, and search for her here, there, and everywhere.
 [4-42-29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon its delightful ridges (sānuṣu ramyeṣu) and within its spacious caverns (viśālāsu guhāsu), Rāvaṇa together with Vaidehī must be searched for everywhere (tatas tataḥ).
 </details>
 </details>
 
@@ -1132,6 +1266,12 @@ yojana-s; *suvarNa shR^ingaH* = golden, peaked; *varaahaH naama* = Varaha, named
 
 "After sixty-four yojana-s another very great mountain with golden peaks is there in
 abyss of the abode of Rain-god, namely the ocean, and it is named as Mt. Varaaha. [4-42-30]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sixty-four yojanas (yojanāni catuḥṣaṣṭiḥ) [further on], in the unfathomable abode of Varuṇa (agādhe varuṇālaye), stands a very great mountain named Varāha, with peaks of gold (suvarṇaśṛṅgaḥ).
 </details>
 </details>
 
@@ -1193,6 +1333,12 @@ easterly...' *jyotiSh* 'planet, Sun, and his light' that is to say, 'the place w
 light...', that is the east of India...' i.e., Assam. The said demon Naraka is not just "the
 buffalo-demon" who was eliminated by Goddess Durga.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There [upon Mount Varāha] stands the city named Prāgjyotiṣa, fashioned of gold (jātarūpamayam), wherein dwells the evil-souled (duṣṭātmā) Dānava named Naraka.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1238,6 +1384,12 @@ there, there.
 
 "There on the delightful cliffs and spacious caves of that Mt. Varaaha, including
 that city Praagjyotisha, Ravana shall be searched together with Vaidehi. [4-42-32]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There, upon its delightful ridges (sānuṣu ramyeṣu) and within its spacious caverns (viśālāsu guhāsu), Rāvaṇa together with Vaidehī must be searched for everywhere (tatas tataḥ).
 </details>
 </details>
 
@@ -1290,6 +1442,12 @@ there, called Meghavanta.
 apparent to the naked eye, there is an entirely golden mountain containing waterfalls and rapids
 called Meghavanta. [4-42-33]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing beyond that lord of mountains (tam atikramya śailendram), whose inner recesses gleam with gold (kāñcanāntaradarśanam), there stands an all-golden (sarvasauvarṇaḥ) mountain endowed with ten thousand cascading springs (dhārāprasravaṇāyutaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1339,6 +1497,12 @@ construing them to be the roars of their opponent beasts, the elephants, wild bo
 tigers will always be facing that mountain and roaring proud-heartedly all around it, by which that
 Mt. Meghavanta itself appears to be roaring, proud-heartedly. [4-42-34]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Around it on all sides, elephants, boars, lions, and tigers (siṃhā vyāghrāś ca) roar continually (abhigarjanti satatam), emboldened by that [echoing] sound (tena śabdena darpitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1380,6 +1544,12 @@ gods; *raajaa* = as king; *abhiSiktaH* = is anointed; *saH* = such a;
 "On which mountain the distinguished Mahendra, whose horses are green and who is the
 controller of demon Paka, is anointed by gods as their king, such a mountain is this named Mt.
 Megha, or Mt. Meghavanta, which you have to scour. [4-42-35]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That mountain—upon which glorious Mahendra, chastiser of Pāka (pākaśāsanaḥ) and lord of bay steeds (harihayaḥ), was consecrated king (abhiṣiktaḥ rājā) by the gods—is named Megha.
 </details>
 </details>
 
@@ -1438,6 +1608,14 @@ you shall go to.
 you shall go to the range of sixty thousand golden mountains. Those mountains are radiant all
 around with the tinge of young Sun, and with the resplendence of fully flowered trees which are
 wholly golden in hue. [4-42-36, 37]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** Passing beyond that lord of mountains guarded by Mahendra (mahendraparipālitam), you shall reach sixty thousand (ṣaṣṭiṃ girisahasrāṇi) mountains of gold.
+
+**37:** —[mountains] bearing the hue of the newly risen sun (taruṇādityavarṇāni), blazing on every side (bhrājamānāni sarvataḥ), and graced with golden trees in full blossom (jātarūpamayair vṛkṣaiḥ supuṣpitaiḥ).
 </details>
 </details>
 
@@ -1523,6 +1701,16 @@ gandharva-s, or demons, they too shall thrive as my votaries and as far as their
 concerned they will be glittering like gold, i.e., in the ochry golden hue of the eventide.
 [4-42-39, 40]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**38:** In their midst stands the king [of mountains], Meru, that supreme mountain (uttamaparvataḥ)—a peak upon which a boon was bestowed (dattavaraḥ) of old by the pleased Sun-god (ādityena prasannena).
+
+**39:** Thus was that lord of mountains addressed by him: 'All [peaks and beings] that resort to you (tvadāśrayāḥ) shall, through my grace (matprasādāt), become golden by day and by night (divā rātrau ca kāñcanāḥ).
+
+**40:** And whatever gods, Gandharvas, and Dānavas shall dwell upon you (tvayi vatsyanti), they too shall be devoted [to me] (bhaktāḥ) and in radiance shall shine with the lustre of gold (kāñcanaprabhāḥ).'
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1593,6 +1781,14 @@ The above list may not mention others but it is construed to be inclusive of
 thirteen, *vasavaaH* are eight, *maruts* are seven, *aadityaa-s* 'the other
 Suns in other galaxies...' are twelve.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** The Viśvedevas, the Vasus, and the Maruts—denizens of heaven (divaukasaḥ)—coming at the evening twilight (paścimāṃ saṃdhyām) to Meru, the supreme mountain,
+
+**42:** worship the Sun (ādityam upatiṣṭhanti); and revered by them (taiś ca sūryo 'bhipūjitaḥ), the Sun goes to the Sunset Mountain (astaṃ parvatam), becoming invisible to all beings (adṛśyaḥ sarvabhūtānām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1638,6 +1834,12 @@ Astagiri, Mt. Dusk]; *shiighram abhi yaati* = quickly, towards, goes.
 
 "The Sun courses across those ten thousand yojana-s from Mt. Meru Saavarni to Mt.
 Astaadri in one and half hours, and quickly reaches Mt. Astagiri, or Mt. Dusk. [4-42-43]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Traversing those ten thousand yojanas (yojanānāṃ sahasrāṇi daśa), the Sun (divākaraḥ) swiftly reaches that mountain [Astācala] in half a muhūrta (muhūrtārdhena).
 </details>
 </details>
 
@@ -1687,6 +1889,12 @@ there.
 manor-house compacted with multi-storied buildings, which in shine will be similar to Sun and which
 is arranged by Vishvakarma, the Divine Architect. [4-42-44]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon its summit (śṛṅge tasya) stands a vast, celestial palace gleaming like the sun (sūryasaṃnibham), crowded with clusters of lofty mansions (prāsādagaṇasambādham) and fashioned by Viśvakarman,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1733,6 +1941,12 @@ hand [wielder of]; *varuNasya niketam* = Rain-god Varuna's, villa - is there.
 "That villa is brightened by amazing trees, on which diverse birds will be
 twittering musically, belongs to the great-souled Varuna, the Rain-god, who wields a tether.
 [4-42-45]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+adorned with variegated trees thronged with diverse birds (nānāpakṣisamākulaiḥ)—the abode (niketam) of great-souled Varuṇa, who holds the noose in hand (pāśahastasya).
 </details>
 </details>
 
@@ -1788,6 +2002,12 @@ because the Date-palm tree is the highly respected tree at there or even through
 Asia. The three kinds of Dates trees are called as dry-grass-palm trees, as said in Amara Kosha.*kharjuura, ketakii, talii, kharjuurii ca tR^iNa drumaa: amara kosha* 'Date, Pandamus odara tissimus,
 Corypha Talliera and Wild Date are dry-grass-palms, and these grow in abundance around oases.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Between Meru and the Sunset Mountain (antarā merum astaṃ ca), a great ten-headed palmyra tree (tālo daśaśirāḥ), fashioned of gold, glorious, and surrounded by a variegated platform (citravedikaḥ), shines forth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1833,6 +2053,12 @@ there; *vaidehyaa* = Vaidehi; *saha raavaNaH* = together with, Ravana;
 
 "On all those mountains, lakesides and riversides Vaidehi shall be searched together
 with Ravana, far and wide. [4-42-47]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In all those mountain fastnesses (teṣu sarveṣu durgeṣu), and in the lakes and rivers (sarassu ca saritsu ca), Rāvaṇa together with Vaidehī must be searched for everywhere.
 </details>
 </details>
 
@@ -1881,6 +2107,12 @@ Saavarni.
 "This is where the virtue-knower, an enlightened one by his own asceticism, a
 selfsame personality to Brahma and one renowned as Sage Merusaavarni indeed resides. [4-42-48]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There [upon that Meru] abides the knower of dharma (dharmajñaḥ), illumined by his own asceticism (tapasā svena bhāvitaḥ), renowned as Merusāvarṇi, equal to Brahmā himself (brahmaṇā samaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1928,6 +2160,12 @@ asked.
 "And that sage Merusaavarni who is Sun-similar in his shine can be asked, only on
 your prostration before him in veneration, about the tidings of Maithili, and her whereabouts.
 [4-42-49]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing with your heads to the earth (praṇamya śirasā bhūmau), you must ask the great sage Merusāvarṇi, who shines like the sun (sūryasaṃnibhaḥ), for news concerning Maithilī (pravṛttiṃ maithilīṃ prati).
 </details>
 </details>
 
@@ -1978,6 +2216,12 @@ parvatam gacChati* = to Astagiri, mountain [Mt. Dusk,] goes to.
 "On effacing the utter darkness of all the mortal world up to here, the illuminator
 of mortal world and the decliner of night, namely the Sun, will go to the Mt. Astagiri, say Mt.
 Dusk. [4-42-50]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus far (etāvat) does the Sun, at the dispelling of night (rajanīkṣaye), render all the world of living beings free of darkness (kṛtvā vitimiraṃ sarvam) and go to the Sunset Mountain (astaṃ parvatam).
 </details>
 </details>
 
@@ -2047,6 +2291,12 @@ cultured demon, in his own way, he too despises those lowly cultures despite of 
 sure, he will not be there with Seetha, and hence Seetha need not be searched in those
 countries.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus far is it possible for monkeys to go, O bulls among monkeys (vānarapuṅgavāḥ); beyond that (tataḥ param), where it is sunless and boundless (abhāskaram amaryādam), we do not know.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2096,6 +2346,12 @@ Dusk, mountain, on reaching; *maase puurNe* = month, while completing [within a 
 "You shall return within a month on knowing about Vaidehi and also about the
 residency of Ravana, or on your reaching Mt. Astagiri, say Mt. Dusk. [4-42-52]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having ascertained Vaidehī and the abode of Rāvaṇa, and having reached the Sunset Mountain (astaṃ parvatam āsādya), return when a month is completed (pūrṇe māse nivartata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2143,6 +2399,12 @@ proceed.
 "And none shall stay behind for more than a month, and if anyone stays, I have to
 exercise coup de grace in his respect. By the way, my valorous father-in-law, namely Sushena, is
 proceeding along with you. [4-42-53]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You must not remain beyond a month (ūrdhvaṃ māsān na vastavyam); anyone remaining [longer] shall be liable to death at my hands (vadhyo bhaven mama). My heroic father-in-law (śvaśuro me) will go right along with you.
 </details>
 </details>
 
@@ -2192,6 +2454,12 @@ proceeding along with you. [4-42-53]
 him. He who is highly dextrous and great mighty such a Sushena is my father-in-law, thus he is a
 venerable to me, as well as to you. [4-42-54]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Acting in obedience to commands (diṣṭakāribhiḥ), you must heed every word of his (śrotavyaṃ sarvam etasya); for this mighty-armed, great-powered one is my elder (guruḥ) and my father-in-law.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2237,6 +2505,12 @@ pashyadhvam* = western, direction, you shall see - search.
 
 "Even all of you are triumphant ones and indeed archetypes by yourselves, but
 instituting him as your archetype you shall search the western direction. [4-42-55]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And you too are valiant (vikrāntāḥ) and are all authorities (pramāṇam) indeed; yet, establishing him as your supreme authority (pramāṇam enaṃ saṃsthāpya), explore the western quarter.
 </details>
 </details>
 
@@ -2289,6 +2563,12 @@ become.]
 can locate Seetha, the wife of the king of humans whose vitality is unlimited, namely Rama.
 [4-42-56]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the consort of the lord of men of boundless splendor is found (dṛṣṭāyāṃ tu), we shall have fulfilled our purpose (kṛtakṛtyā bhaviṣyāmaḥ) by repaying the benefit rendered to us (kṛtasya pratikarmaṇā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2337,6 +2617,12 @@ done.
 task, and which shall also be conducive to time, place and purpose, you shall undertake that task
 also on deciding about it among yourselves." Sugreeva spoke thus to the monkeys going to western
 direction. [4-42-57]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whatever else besides this (ato 'nyad api) ought to be done that may prove favorable to this enterprise (kāryasyāsya priyaṃ bhavet), [that too should be done] by you after deliberating in accordance with place, time, and purpose (deśakālārthasaṃhitam).'
 </details>
 </details>
 
@@ -2409,5 +2695,11 @@ Rain-god. [4-42-58]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नलवत्तॆरडनॆय सर्ग सम्पूर्णवायितु.॥42॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the monkeys headed by Suṣeṇa (suṣeṇapramukhāḥ plavaṅgāḥ), having attentively heard Sugrīva's speech and taken leave of the lord of monkeys (āmantrya plavagādhipam), all departed for that quarter guarded by Varuṇa (varuṇābhiguptām).
 </details>
 </details>

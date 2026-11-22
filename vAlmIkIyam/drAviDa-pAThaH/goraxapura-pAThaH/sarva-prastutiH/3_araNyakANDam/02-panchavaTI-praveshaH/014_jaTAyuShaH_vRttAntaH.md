@@ -73,6 +73,12 @@ bodied, with marvellous, might; *gR^idhram aasasaada* = an eagle he reached, cam
 Then while proceeding to Panchavati that Rahu's descendent came across a mammoth eagle with marvellous
 might in midway. [3-14-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, while proceeding toward Pañcavaṭī (pañcavaṭīṃ gacchan), along the way (antarā) the delighter of the Raghus came upon a gigantic vulture (mahā-kāyaṃ gṛdhram) of formidable valor (bhīma-parākramam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ they presumed.
 On seeing such an eagle in the forest those two highly privileged brothers Rama and Lakshmana questioned
 it asking, "Who you are?" presuming it to be a demon. [3-14-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him abiding in the forest (taṃ dṛṣṭvā vanastham), those two illustrious brothers Rāma and Lakṣmaṇa took the bird to be a Rākṣasa (menāte rākṣasaṃ pakṣim), asking, “Who are you?” (ko bhavān iti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +175,12 @@ Rama; *maam aatmanaH pituH vayasyam viddhi* = me, of your, father's, friend , th
 
 But that eagle with sweet ad soft words spoke to them as though to please them, "oh boy Rama know me
 as your father's friend." [3-14-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then with a sweet and gentle voice (madhurayā vācā saumyayā), truly gladdening them (prīṇayann iva), he said: “My child (vatsa), know me to be a friend of your own father (vayasyaṃ pitur ātmanaḥ).”
 </details>
 </details>
 
@@ -210,6 +228,12 @@ asked for.
 Accepting that bird as his father's friend Raghava revered it, and he that Rama then asked for that
 eagle's name and lineage. [3-14-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing him to be his father’s friend (pitṛ-sakhaṃ matvā), Rāghava honored him (pūjayām āsa); and then he calmly (avyagram) inquired after his lineage and his name (kulam papraccha nāma ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -254,6 +278,12 @@ sarva bhuuta sam udbhavam* = reg. all, beings, overall, genesis; *kulam aatmaana
 
 On hearing Rama's words that bird said about his ancestry and himself, and in doing so, that eagle also
 narrated the overall genesis of all beings. [3-14-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma’s words, that bird (dvijaḥ) recounted to him (ācacakṣe tasmai) his lineage and his own name (kulam ātmānam eva ca), as well as the origin of all beings (sarva-bhūta-samudbhavam):
 </details>
 </details>
 
@@ -303,6 +333,12 @@ you may listen.
 "Once upon a time there were lords of people, oh dextrous Raghava, and you may listen all about them
 from the beginning, while I narrate [3-14-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In ancient times (pūrva-kāle), O mighty-armed one, those Lords of Creatures who came into being (ye prajāpatayo ’bhavan)—hear of them all from the very beginning (āditaḥ śṛṇu), O Rāghava, as I recount them (me nigadataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -333,6 +369,12 @@ _________________
 
 आ प्रजापतिगळल्लि मॊट्टमॊदलु कर्दमनादनु. अनन्तर ऎरडनॆयवनु विकृत ऎम्ब प्रजापतियादनु, मूरनॆयवनु शेष, नाल्कनॆयवनु संश्रय, ऐदनॆयवनु पराक्रमि बहुपुत्रनादनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Kardama was the first among them (kardamaḥ prathamas teṣām), after him Vikṛta (vikṛtas tad-anantaram), and Śeṣa, and Saṃśraya, and the valiant Bahuputra (bahuputraś ca vīryavān),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -359,6 +401,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आरनॆयव स्थाणु, एळनॆयवनु मरीचि, ऎण्टनॆयवनु अत्रि, ऒम्भत्तनॆयवनु क्रतु, हत्तनॆयवनु पुलस्त्य, हन्नॊन्दनॆयवनु अङ्गिरा, हन्नॆरडनॆयवनु प्रचेता (वरुण) हदिमूरनॆयदागि पुलह प्रजापतियादनु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Sthāṇu, Marīci, Atri, and Kratu of great strength (kratuś caiva mahā-balaḥ), Pulastya, Aṅgiras, Pracetas, and Pulaha (pracetāḥ pulahas tathā),
 </details>
 </details>
 
@@ -408,6 +456,12 @@ and a vigorous one he was. Then Sthaanu, Mariichi, Atri, the great mighty one Kr
 Pracheta and Pulah were there. And oh, Raghava, Daksha, Vivaswan were while the other name of Vivasvan
 is Arishtanemi, and lastly the great resplendent Kashyapa, was there as Prajapati. [3-14-9] [3-14-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Dakṣa, next Vivasvat (vivasvān aparaḥ), Ariṣṭanemi, O Rāghava, and Kaśyapa of great splendour (kaśyapaś ca mahā-tejāḥ), who was the last among them (teṣām āsīc ca paścimaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -453,6 +507,12 @@ ones; *babhuuvuH iti vi shrutam* = were there, thus, we hear.
 **अनुवादः**
 
 "Oh glorious Rama, there were sixty highly renowned daughters to Daksha, thus we hear. [3-14-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now of the Prajāpati Dakṣa, O Rāma of great renown (mahā-yaśaḥ), there were born—so are they celebrated (babhūvur iti viśrutāḥ)—sixty illustrious daughters (ṣaṣṭir duhitaro yaśasvinyaḥ).
 </details>
 </details>
 
@@ -511,6 +571,12 @@ waisted ones, has accepted.
 Danu, Kaalakaa and Taamra, Krodhavasha, also thus Manu and even Anala also as wives. [3-14-11, 12a]
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of those, Kaśyapa took in marriage (pratijagrāha) eight fair-waisted maidens (tāsām aṣṭau sumadhyamāḥ): Aditi, and Diti, and Danū, and Kālakā (danūm api ca kālakām),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -560,6 +626,12 @@ of, indeed; *mat samaan putraam janayiSyatha* = sons, to me, similar, you delive
 "Then Kashyapa is gladdened and said to those young wives, "You all shall deliver sons similar to me
 and who can sustain the three worlds." [3-14-12b, 13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tāmrā, and Krodhavaśā, and Manu, and Analā as well (manuṃ cāpy analām api). Then, well-pleased (prītaḥ), Kaśyapa spoke in turn to those maidens (tās tu kanyāḥ punar abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -605,6 +677,12 @@ became;.
 
 "Oh, dextrous Rama, Aditi, Diti, Kaalakaa and Danu have agreed for that, but others became unheedful
 of Kashyapa's words. [3-14-13b, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘You shall bear sons equal to me (putrān janayiṣyatha mat-samān), lords of the three worlds (trailokya-bhartṝn vai)!’ Aditi was intent upon that promise (aditis tan-manā), O Rāma, and so were Diti and Danu (ditiś ca danur eva ca),
 </details>
 </details>
 
@@ -654,6 +732,12 @@ three, gods, are born; *parantapa* = oh enemy-oppressor.
 "Aditi gave birth to twelve Aditya-s, the Sun-gods, eight Vasu-s, the Terrestrials-gods, eleven Rudraa-s,
 the Fury-gods, and two Ashvinis, the medicine-gods, total thirty-three of them. [3-14-14b, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—and Kālakā too, O mighty-armed one; but the remaining wives were indifferent in mind (śeṣās tv amanaso ’bhavan). Of Aditi were born (adityāṃ jajñire) the thirty-three gods (devās trayastriṃśat), O tamer of foes:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -701,6 +785,12 @@ was there.
 "Oh, boy Rama, Diti gave birth to well-known Daitya-s, the so-called demons, and earlier this earth
 with forests and oceans belonged to them. [3-14-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—the Ādityas, the Vasus, the Rudras, and the two Aśvins (aśvinau ca), O scorcher of foes (paraṃtapa). And Diti, dear child, bore (ditis tv ajanayat) those renowned sons, the Daityas (putrān daityāṃs tāta yaśasvinaḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -745,6 +835,12 @@ Kaalaka, also thus; *kaalakaa api vyajaayata* = Kaalakaa, even gave birth to.
 
 "And oh, enemy-destroyer Rama, Danu gave birth to son Ashvagriiva or also called Hayagriiva, Horse-headed
 god, and Kaalakaa gave birth to Naraka and Kaalaka. [3-14-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Theirs of yore (teṣāṃ purā) was this earth (iyaṃ vasumatī) together with its forests and oceans (savanārṇavā). And Danu bore a son (danus tv ajanayat putram), Aśvagrīva, O tamer of foes;
 </details>
 </details>
 
@@ -795,6 +891,12 @@ to five, girls, gave birth.
 
 "But Taamraa gave birth to five world renowned girls namely, Krounchi, Bhaasii, Shyenii, Dhritaraashtrii,
 and Shukii. [3-14-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And Kālakā too brought forth (kālakāpi vyajāyata) Naraka and Kālaka (narakaṃ kālakaṃ caiva). Krauñcī, Bhāsī, Śyenī, Dhṛtarāṣṭrī, and Śukī (dhṛtarāṣṭrīṃ tathā śukīm)—
 </details>
 </details>
 
@@ -854,6 +956,14 @@ Kraunchii gave birth to Uluuka-s, the owls, Bhasii-s gave birth to Bhaasaa-s, th
 gave birth to very sharp eagles and falcons, and then Dhritaraashtrii gave birth to swans and all other
 kinds of graceful water-birds. [3-14-18b, 19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “—these five world-renowned daughters (kanyāḥ pañcaitā loka-viśrutāḥ) did Tāmrā bring forth (tāmrā tu suṣuve). Krauñcī bore owls (ulūkāñ janayat krauñcī), and Bhāsī brought forth vultures and waterfowl (bhāsī bhāsān vyajāyata).
+
+**19:** “Śyenī brought forth (śyenī vyajāyata) hawks and vultures (śyenāṃś ca gṛdhrāṃś ca) of great splendour (sutejasaḥ); and Dhṛtarāṣṭrī brought forth swans and kalahaṃsas of every kind (haṃsāṃś ca kalahaṃsāś ca sarvaśaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -898,6 +1008,12 @@ gave birth, to Nata; *nataayaaH sutaa vinataa* = Nata's, daughter, is Vinata.
 
 "Dhritaraashtrii gave birth even to Chakravaaka water-birds, and Shukii gave birth to a daughter Nata,
 and Nata's daughter is Vinata. [3-14-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—and cakravākas as well, blessed be you (bhadraṃ te), did that noble lady bear (vijajñe sāpi bhāminī). And Śukī bore Natā (śukī natāṃ vijajñe tu), and of Natā (natāyām) Vinatā was the daughter (vinatā sutā).
 </details>
 </details>
 
@@ -960,6 +1076,14 @@ dasha* = self-same, ten [daughters.]
 Bhadramanda, Maatangii, Sharduulii, Shweta, Surabhii, and like that to Surasa, who is embodied with
 all giftedness, and even to Kadruva. [3-14-21, 22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “Krodhavaśā too, O Rāma, bore ten daughters sprung from herself (daśa vijajñe ’py ātma-saṃbhavāḥ): Mṛgī, Mṛgamandā, Harī, and Bhadramadā (harīṃ bhadramadām api),
+
+**22:** “Mātaṅgī, Śārdūlī, Śvetā, and Surabhī (śvetāṃ ca surabhīṃ tathā), as well as Surasā endowed with every auspicious mark (sarva-lakṣaṇa-saṃpannāṃ surasām) and Kadrukā (kadrukām api).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1005,6 +1129,12 @@ oxen; *tathaa* = like that.
 
 "Children Mrigi are all of the the deer, oh best of the best-men, Rama, and Mrigamnda's progeny is Riksha-s,
 Bears, a kind of antelope, and like that the Himalayan yak like species.[3-14-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now all deer (mṛgāḥ sarve), O foremost of the best of men (nara-varottama), are the offspring of Mṛgī (apatyaṃ mṛgyāḥ); and of Mṛgamandā are bears (ṛkṣāś ca), sṛmaras, and yaks (sṛmarāś camarās tathā).
 </details>
 </details>
 
@@ -1054,6 +1184,12 @@ sutaam* = to Iravati, named, daughter; *tasyaaH putraH airaavataH* = her, son is
 "Then Bhadramanda gave birth to the girl named Iravati and her son is elephant the great, Airaavata,
 the protector of world. [3-14-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then Bhadramadā bore a daughter named Irāvatī (irāvatīṃ nāma jajñe bhadramadā sutām); and her son is Airāvata (tasyās tv airāvataḥ putraḥ), the mighty elephant who is protector of the world (loka-nātho mahā-gajaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1098,6 +1234,12 @@ the protector of world. [3-14-24]
 
 "And Hari's offspring are lions and sagely/mighty monkeys, while Sharduulii gave birth to baboons and
 tigers. [3-14-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the offspring of Harī (haryāś cāpatyam) are lions (harayaḥ) and energetic monkeys (vānarāś ca tapasvinaḥ); and Śārdūlī bore as sons (śārdūlī vyāghrāṃś cājanayat sutān) golāṅgūlas and tigers.
 </details>
 </details>
 
@@ -1147,6 +1289,12 @@ dishaa gajaam* = Shweta, gave birth, to sons, at quarters, elephants; = .
 "Then Maatangi's childrenm are elephants, oh, best one among men, Rama, and Shweta gave birth to eight
 elephants that are at eight quarters of world, sustaining the world on their head. [3-14-26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the elephants (mātaṅgāḥ), O bull among men (manujarṣabha), are the offspring of Mātaṅgī (mātaṅgyās tv atha apatyam); and Śvetā, O Kākutstha, brought forth as her son the elephant of the quarter (diśā-gajaṃ tu śvetā vyajanayat sutam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1191,6 +1339,12 @@ named, illustrious one; *gandharviim ca* = Gandharvii, also; *vi ajaayata dve du
 
 "Then, oh Rama, Surabhi gave birth to two daughters, one is named as illustrious Rohini, safe you
 be, and the other is Gandharvi. [3-14-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then Surabhi, O Rāma, brought forth two daughters (tato duhitarau surabhir dve vyajāyata)—Rohiṇī by name, blessed be you (rohiṇīṃ nāma bhadraṃ te), and the illustrious Gandharvī (gandharvīṃ ca yaśasvinīm).
 </details>
 </details>
 
@@ -1237,6 +1391,12 @@ also, to [ordinary] serpents.
 
 "Rohini gave birth to cows and other livestock, while Surasa gave birth to Naagaa-s, viz., many headed
 serpents, while Kadru gave birth to ordinary serpents. [3-124-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rohiṇī bore cattle (rohiṇy ajanayad gāvaḥ), and Gandharvī bore horses as her sons (gandharvī vājinaḥ sutān); Surasā bore the Nāgas (surasājanayan nāgān), O Rāma, and Kadrū the Pannagas (kadrūś ca pannagān).
 </details>
 </details>
 
@@ -1290,6 +1450,12 @@ humans.
 "Oh, the best among men Rama, the wife of great-soul Kashyapa, lady Manu procreated humans, Brahman--s,
 Kshatriya-s, Vyasya-s, and Shudra-s. [3-14-29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Manu bore mankind (manur manuṣyāñ janayat) unto the high-souled Kaśyapa (kaśyapasya mahātmanaḥ)—Brāhmaṇas, Kṣatriyas, Vaiśyas, and Śūdras, O bull among men.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1338,6 +1504,12 @@ from scriptures [Veda-s.]
 Shudra-s from two feet, thus we hear from the scriptures viz., Veda, i.e., Rig Veda Purusha Shuukta.
 [3-14-30]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘From the mouth were the Brāhmaṇas born (mukhato brāhmaṇā jātāḥ), and from the chest the Kṣatriyas (urasaḥ kṣatriyās tathā); from the two thighs were born the Vaiśyas (ūrubhyāṃ jajñire vaiśyāḥ), and from the two feet the Śūdras (padbhyāṃ śūdrāḥ)’—such is the Vedic revelation (iti śrutiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1383,6 +1555,12 @@ Kadru, also, Surasa's, sister; I will narrate.
 
 "All the merited fruit-bearing trees are given birth by Anala, and now I will narrate about Vinata,
 the daughter's daughter of Shukii, and about Kadru, the sister of Surasa. [3-14-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And Analā brought forth (analāpi vyajāyata) all trees bearing sacred fruits (sarvān puṇya-phalān vṛkṣān). Now Vinatā was the granddaughter of Śukī (śukī-pautrī), and Kadrū was the sister of Surasā (kadrūś ca surasā-svasā).
 </details>
 </details>
 
@@ -1437,6 +1615,12 @@ being, is the charioteer of Sun's seven-horse chariot. The seven horses of Sun's
 colours in vibgyor as in a rainbow. Aruna and Garuda are of avian origination and attributed to be the
 speediest propellers, and Jatayu and Sampati belong to that lineage.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Kadrū bore a thousand Nāgas (kadrūr nāga-sahasraṃ tu vijajñe), the supporters of the earth (dharaṇī-dharān); and two sons belonged to Vinatā (dvau putrau vinatāyās tu)—Garuḍa and Aruṇa (garuḍo ’ruṇa eva ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1483,6 +1667,12 @@ agrajaH* = Sampaati, is my, elder brother; *shyenii putram* = Shyeni's, son; *ma
 
 "Oh enemy-destroyer Rama, I took birth from that Aruna, the charioteer of Sun, and my elder brother
 Sampati too, hence know me as Jatayu, the son of Shyenii. [3-14-33]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From that Aruṇa was I born (tasmāj jāto ’ham aruṇāt), and Sampāti is my elder brother (sampātiś ca mamāgrajaḥ); know me to be Jaṭāyu (jaṭāyur iti māṃ viddhi), the son of Śyenī (śyenī-putram), O tamer of foes!
 </details>
 </details>
 
@@ -1535,6 +1725,12 @@ forest is; *mR^iga raakshasa sevitam hi* = by predators, demons, beloved to, isn
 "Such as I am, I can be your helpmate at your residence if only you wish me to... oh, boy, this impassable
 forest is a beloved one to predators and demons, isn't it... as such I can take care of Seetha if you
 and Lakshmana go out..." Thus Jatayu said to Rama. [3-14-34]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Such as I am, I shall be your companion in residence (vāsa-sahāyas te bhaviṣyāmi) if you so wish; for this wilderness is difficult of access (idaṃ durgaṃ hi kāntāram) and frequented by wild beasts and Rākṣasas (mṛga-rākṣasa-sevitam), and I shall guard Sītā (sītāṃ ca tāta rakṣiṣye), dear child, when you go forth together with Lakṣmaṇa.”
 </details>
 </details>
 
@@ -1594,6 +1790,12 @@ heard of [he is regardful,] indeed.
 Raghava revered Jatayu in his turn by gladly hugging and stood by him with his head bent, and that kind-natured
 Rama is indeed regardful of the friendship of his father with Jatayu that is repeatedly said by Jatayu.
 [3-14-35]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having honored Jaṭāyu in turn (jaṭāyuṣaṃ tu pratipūjya) and embraced him with joy (mudā pariṣvajya ca), Rāghava bowed low in modesty (saṃnato ’bhavat); for the self-possessed prince had repeatedly heard (śuśrāva punaḥ punaḥ) of his father’s friendship recounted by Jaṭāyu.
 </details>
 </details>
 
@@ -1660,5 +1862,11 @@ mighty bird and Lakshmana, as though to incinerate enemies, like fire that burns
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हदिनाल्कनॆय सर्ग सम्पूर्णवायितु. ॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having entrusted Sītā Maithilī (sa tatra sītāṃ paridāya maithilīm) to him there, together with that bird of exceeding might (sahaiva tenātibalena pakṣiṇā) and accompanied by Lakṣmaṇa, he proceeded to that Pañcavaṭī, eager to consume his foes as fire consumes moths (ripūn didhakṣan śalabhān ivānalaḥ).
 </details>
 </details>

@@ -73,6 +73,12 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
  the great resplendent Sage Vishvamitra is thrilled with happiness and spoke this
  way. [1-19-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of the lion among kings, so wondrous in its expansive generosity (vākyam adbhutavistaram), the resplendent Viśvāmitra, his body-hairs thrilling with joy (hṛṣṭaromā), spoke thus in reply:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -125,6 +131,12 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 
 "Oh, tigerly king, to you befitting are these words and to none else, as you are
  born in a great dynasty and tutored by Vashishta. [1-19-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Worthy indeed of you alone upon earth, and of none other (tavaivaṃ bhuvi nānyataḥ), O tiger among kings, is such a speech—born as you are in an illustrious royal lineage (mahāvaṃśaprasūtasya) and guided by the instruction of Vasiṣṭha (vasiṣṭhavyapadeśinaḥ)!
 </details>
 </details>
 
@@ -183,6 +195,12 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 
 इत्य् उक्तवान् । अनेन नियम-निष्ठेन स्वकर्म-विरोध-परिहारार्थम् अपि कोपो न कर्तव्य इति सूचितम् ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Now therefore, O tiger among kings, form a firm resolve to accomplish that matter which is in my heart to speak (yat tu me hṛdgataṃ vākyam), and prove true to your promise (bhava satyapratiśravaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,6 +242,12 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 "These days I am abiding by a sacrificial vow to attain a spiritual goal but,
  oh, best one among men, two guise changing demons as causing obstacles to that
  ritual. [1-19-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O bull among men, I am observing a sacred sacrificial vow (ahaṃ niyamam ātiṣṭhe) for the attainment of spiritual perfection (siddhyartham); but two shape-shifting rākṣasas (dvau tu rākṣasau kāmarūpiṇau) have become the obstructors of that rite.
 </details>
 </details>
 
@@ -276,6 +300,12 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
  demons, namely Mareecha and Subaahu, are drenching the Altar of Fire with streams
  of meat and blood. [1-19-5, 6a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When my sacrificial vow has been repeatedly observed almost to completion, at the very moment of its conclusion (samāptyām), these two rākṣasas—Mārīca and Subāhu, both mighty in valor and well-trained in deceitful warfare (vīryavantau suśikṣitau)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,6 +352,12 @@ _________________
 "When the ritual vow is thus ravaged I, as the one who exerted myself for the
  ritual, had to depart from that place, unenthusiastically. [1-19-6n, 7a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—those two deluged that sacrificial altar with a torrent of flesh and blood (māṃsarudhiraugheṇa vediṃ tām abhyavarṣatām). When that sacrificial vow and resolve had been thus desecrated and ruined (avadhūte tathābhūte)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -367,6 +403,12 @@ _________________
 "And to me there is no will to let loose my anger, oh, king, as no curse shall
  be issued under vows, and like that the activity during rituals shall be inoffensive,
  isn't it. [1-19-7b, 8a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+My ritual toil rendered fruitless (kṛtaśramaḥ) and my spirit dejected (nirutsāhaḥ), I departed from that place. Nor, O lord of earth, does my mind incline to unleash my wrath in a curse (krodham utsraṣṭum)—
 </details>
 </details>
 
@@ -425,6 +467,12 @@ _________________
  one whose valour itself is his truthfulness, that youngling whose hair locks are
  all the more jet black like crow wings on either side of his head, spare that
  eldest son of yours, namely Rama. [1-19-8b, 9a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For such is the nature of that sacrificial observance (tathābhūtā hi sā caryā) that no curse may be uttered therein (na śāpas tatra mucyate). Therefore, O tiger among kings, your own son Rāma of unfailing valor (rāmaṃ satyaparākramam)—
 </details>
 </details>
 
@@ -490,6 +538,14 @@ _________________
 "I will also accord many kinds of benefits to him by which he acquires renown
  in all the three worlds, no doubt about it. [1-19-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** That heroic eldest prince wearing juvenile side-locks (kākapakṣadharaṃ śūraṃ jyeṣṭham)—you ought to give unto me (me dātum arhasi)! For protected by me, he is fully capable by his own divine energy (divyena svena tejasā)—
+
+**10:** Even of destroying those rākṣasas who obstruct the rite (ye vikartāras teṣām api vināśane). And I shall assuredly bestow upon him manifold blessings (śreyaś cāsmai pradāsyāmi bahurūpam), of this there is no doubt—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -546,6 +602,12 @@ _________________
  in anywise, and none other than Raghava has the fortitude to eliminate those two.
  [1-19-11b, 12a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whereby he shall attain renown throughout all the three worlds (trayāṇām api lokānāṃ yena khyātiṃ gamiṣyati)! Encountering Rāma, those two demons cannot possibly stand their ground in any way—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -589,6 +651,12 @@ _________________
  of death's noose, oh tigerly king, cannot counterbalance the great-souled Rama.
  [1-19-12b, 13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nor is any man other than Rāghava capable of slaying those two (na ca tau rāghavād anyo hantum utsahate pumān). For those two wicked demons, puffed up with their own might, have already fallen into the noose of Death (kālapāśavaśaṃ gatau)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -628,6 +696,12 @@ _________________
 
 "It will be unapt of you to show your paternal fondness, oh, king, upon my oath,
  be assured that those two demons are eradicated. [1-19-13b, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They are no match at all for the great-souled Rāma (rāmasya na paryāptau mahātmanaḥ), O tiger among kings! Nor ought you to indulge in mere paternal fondness toward your son (na ca putragataṃ snehaṃ kartum arhasi), O lord of earth.
 </details>
 </details>
 
@@ -735,6 +809,12 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
  to Dasharatha, 'if only your ministers, clergy as well political, permit then
  alone you send Rama with me...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I solemnly pledge to you (ahaṃ te pratijānāmi): know those two rākṣasas to be already slain (hatau tau viddhi)! I know the great-souled Rāma of unfailing valor (ahaṃ vedmi mahātmānaṃ rāmaṃ satyaparākramam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -779,6 +859,12 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
 
 इत्य्-अनेन कल्प-स्थायि-यशो-लाभाय अति-बालः परम-प्रेम-आस्पदं ज्येष्ठ-पुत्रो ऽपि देय इति विश्वामित्र-वचनेन अन्येनापि तादृश-फलार्थिना परम-प्रेमास्पदम् अपि वस्तु सत्पात्रे देयम् इति सूचितम् । ततः,
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And so too does the resplendent Vasiṣṭha know him (vasiṣṭho ’pi mahātejāḥ), as well as these other sages here established in austerity (ye ceme tapasi sthitāḥ). If you desire enduring religious merit and supreme renown upon earth—
 </details>
 </details>
 
@@ -826,6 +912,12 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 
 अनेन राज्ञा मन्त्रि-पुरोहिताभ्यनुज्ञातेनैव कार्यं कर्तव्यम् इति सूचितम् । 
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, O lord of kings, you ought to give Rāma to me! If your ministers, O Kākutstha, grant their consent (yady abhyanujñāṃ dadate tava mantriṇaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -866,6 +958,12 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 
 "It will be apt of you to send your choicest son, the lotus-eyed Rama, just for
  ten days of the ritual without temporising. [1-19-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All of them headed by Vasiṣṭha (vasiṣṭhapramukhāḥ sarve)—then dispatch Rāma! You ought to give me your cherished, unattached son (abhipretam asaṃsaktam ātmajam)—
 </details>
 </details>
 
@@ -909,6 +1007,12 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
  let safety betide you, let not your heart be rendered to grieve." Thus Vishvamitra
  said to Dasharatha. [1-19-18b, 19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—even the lotus-eyed Rāma, for the ten nights of the sacrifice (daśarātraṃ hi yajñasya). Act in such a way, O Rāghava, that this appointed time of my sacrifice does not pass by (nātyeti kālo yajñasya yathāyaṃ mama)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -950,6 +1054,12 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 On saying those words that comprise fairness and meaningfulness that virtue-souled
  great saint with great resplendence paused. [1-19-19b, 20a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Do thus—may all good betide you (bhadraṃ te)—and do not set your mind upon grief (mā ca śoke manaḥ kṛthāḥ)!” Having thus spoken these words fraught with dharma and purpose (dharmārthasahitaṃ vacaḥ), the righteous-souled—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -974,6 +1084,12 @@ On saying those words that comprise fairness and meaningfulness that virtue-soul
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विश्वामित्रर ई शुभ वचनवन्नु केळि महाराजा दशरथनिगॆ पुत्रवियोगद आशङ्कॆयिन्द महा दुःखवायितु. अवनु अदरिन्द पीडितनागि नडुगुत्ता निश्चेष्टितनादनु.॥20½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra of mighty splendor and vast wisdom ceased speaking (virarāma). Hearing that auspicious speech of Viśvāmitra, that lord of kings—
 </details>
 </details>
 
@@ -1058,6 +1174,14 @@ This way on hearing that word of the saint Vishvamitra which is explicitly slitt
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हत्तॊम्भत्तनॆय सर्ग पूर्णवायितु. ॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Overwhelmed by immense grief (śokena mahatāviṣṭaḥ), trembled and swooned away (cacāla ca mumoha ca); and upon regaining consciousness, he rose and sank into deep despondency, filled with dread (vyaṣīdata bhayānvitaḥ).
+
+**22:** Having heard that speech of the sage, which rent his very heart and mind (hṛdayamanovidāraṇam), that great and noble-souled monarch became deeply anguished in spirit and tottered from his throne (pracacāla cāsanāt).
 </details>
 </details>
 

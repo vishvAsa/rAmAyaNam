@@ -39,6 +39,12 @@ _________________
 
 ऋषिगळ आदेश पडॆदु श्रीरामचन्द्रनु सन्ध्योपासनॆ माडलु अप्सरॆयरिन्द सेवित आ पवित्र सरोवरद बळिगॆ होदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that utterance of Rāma of effortless deeds (rāmasyākliṣṭa-karmaṇaḥ), the doorkeeper summoned the two princes and announced them to Rāghava (dvāssthaḥ kumārāv āhūya rāghavāya nyavedayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि आचमन, सायंसन्ध्योपासनॆ माडि, श्रीरामनु पुनः महात्मा कुम्भजर आश्रमवन्नु प्रवेशिसिदनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding his beloved Bharata and Lakṣmaṇa arrived (prāptau priyau bharata-lakṣmaṇau), Rāghava embraced them (pariṣvajya) and then spoke these words:
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 अगस्त्यरु रामन भोजनक्कागि बहुगुण युक्त कन्द-मूलगळन्नु, जरावस्थॆयन्नु होग लाडिसुव दिव्य औषधि, पवित्र अन्न मॊदलाद वस्तुगळन्नु अर्पिसिदरु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The supreme duty for the twice-born has been faithfully accomplished by me (kṛtaṃ mayā yathā tathyaṃ dvija-kāryam anuttamam); now furthermore I desire to build a bridge of dharma, O Rāghavas (dharma-setum atho bhūyaḥ kartum icchāmi rāghavau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +140,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरश्रेष्ठ श्रीरामनु आ अमृततुल्य रुचिकर भोजन माडि परम तृप्तनागि, प्रसन्नतॆयिन्द आ रात्रियन्नु सन्तोषवागि अल्लि कळॆदनु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Imperishable and undiminishing is this bridge of dharma in my judgment (akṣayyaś cāvyayaś caiva dharma-setur mato mama); for this fosters righteousness (dharma-prasādhakaṃ hy etat) and destroys all sin (sarva-pāpa-praṇāśanam).
 </details>
 </details>
 
@@ -151,6 +175,12 @@ _________________
 
 बॆळिग्गॆ ऎद्दु शत्रुदमन रघुकुलभूषण श्रीरामनु नित्यकर्मवन्नु पूरैसि, अल्लिन्द हॊरडलु महर्षिगळ बळिगॆ होदनु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Together with you two who are my very self (yuvābhyām ātma-bhūtābhyāṃ ... sahitaḥ), I desire to perform the unsurpassed Rājasūya sacrifice (rājasūyam anuttamaṃ ... yaṣṭum icchāmi), for eternal dharma abides therein (tatra dharmo hi śāśvataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +208,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि महर्षि कुम्भजरिगॆ प्रणाम माडि श्रीरामनु हेळिदनु - महर्षिगळे ! ईग नानु नन्न पुरिगॆ होगलु निम्म आज्ञॆयन्नु बयसुत्तेनॆ. दयमाडि ननगॆ अप्पणॆ कॊडिरि.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having sacrificed with the Rājasūya (iṣṭvā tu rājasūyena), well-offered and well-performed (suhutena suyajñena), Mitra, slayer of foes (mitraḥ śatru-nibarhaṇaḥ), attained the rank of Varuṇa (varuṇatvam upāgamat).
 </details>
 </details>
 
@@ -207,6 +243,12 @@ _________________
 
 महात्मराद निम्म दर्शनदिन्द नानु धन्य हागू अनुग्रहितनागिद्देनॆ. मुन्दॆ ऎन्दादरू नन्नन्नु पवित्रनागिसिकॊळ्ळलु, निम्म दर्शनद इच्छॆ यिन्द इल्लिगॆ बरुवॆनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And Soma, knower of dharma, having sacrificed in righteousness with the Rājasūya (rājasūyena iṣṭvā dharmeṇa dharmavit), attained an eternal seat of fame in all the worlds (sarva-lokeṣu kīrti-sthānaṃ ca śāśvatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,6 +276,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामचन्द्रनु इन्तह अद्भुत वचनवन्नाडिदाग, धर्मचक्षु तपोधन अगस्त्यरु बहळ सन्तोषगॊण्डु अवनल्लि हेळिदरु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let us deliberate together this very day upon what is best (asminn ahani yac chreyaś cintyatāṃ tan mayā saha); steadfast in mind, you two ought to enact what is beneficial both now and for the future (hitaṃ cāyati-yuktaṃ ca prayatau kartum arhathaḥ).”
 </details>
 </details>
 
@@ -263,6 +311,12 @@ _________________
 
 श्रीरामा! निन्न सुन्दर वचन अद्भुतवागिदॆ. रघुनन्दन! समस्त प्राणिगळन्नु पवित्र माडुववनु नीने आगिरुवॆ.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing this speech of Rāghava (śrutvā tu rāghavasyaitad vākyam), Bharata, skilled in eloquence (vākya-viśāradaḥ), joining his palms in reverence (prāñjalir bhūtvā), spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,6 +344,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीराम! यारादरू ऒन्दु मुहूर्तवादरू निन्न दर्शन माडुववनु पवित्रनागि स्वर्गक्कॆ अधिकारियागि, देवतॆगळिगू पूजनीयनागुत्तानॆ.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In you abides supreme dharma, O noble one (tvayi dharmaḥ paraḥ sādho); in you is established the entire earth, O mighty-armed one (tvayi sarvā vasundharā pratiṣṭhitā), and fame as well, O lord of boundless prowess (yaśaś cāmita-vikrama)!
 </details>
 </details>
 
@@ -319,6 +379,12 @@ _________________
 
 ई भूतळदल्लि निन्नन्नु क्रूरदृष्टियिन्द नोडुववनु यमदण्डदिन्द हॊडॆयल्पट्टु तत्काल नरकक्कॆ बीळुवनु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And all the kings of the earth (mahīpālāś ca sarve) look up to you, the great-souled lord of the worlds (nirīkṣante mahātmānaṃ lokānātham), just as the immortals look upon Prajāpati (prajāpatim ivāmarāḥ), and just as we ourselves do (yathā vayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,6 +412,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुश्रेष्ठने! इन्तह ऐश्वर्यशालि नीनु समस्त देहधारिगळन्नु पवित्र माडु ववनागिरुवॆ. रघुनन्दन! पृथिवियल्लि निन्न कथॆ हेळुववरु सिद्धियन्नु पडॆयुत्तारॆ.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And like sons toward a father, O mighty king, they look upon you (putrāś ca pitṛvad rājan paśyanti tvāṃ mahābala); you have become the very refuge of the earth and of all living creatures as well, O Rāghava (pṛthivyā gati-bhūto ’si prāṇinām api rāghava).
 </details>
 </details>
 
@@ -375,6 +447,12 @@ _________________
 
 नीनु निश्चिन्तनागि क्षेमवागि तॆरळु. निन्न मार्गदल्लि ऎल्लियू भय इल्लदिरलि. नीनु धर्मपूर्वक राज्यवाळु; एकॆन्दरॆ नीने जगत्तिन परमाश्रयनागिरुवॆ.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Being such, how can you perform a sacrifice of this sort, O king (sa tvam evaṃvidhaṃ yajñam āhartāsi kathaṃ nṛpa), wherein the destruction of royal dynasties upon the earth is witnessed (pṛthivyāṃ rāja-vaṃśānāṃ vināśo yatra dṛśyate)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +480,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुनियु हीगॆ हेळिदाग प्राज्ञनाद राज श्रीरामनु भुजगळन्नॆत्ति कैमुगिदु आ सत्यशील महर्षिगळिगॆ प्रणाममाडिदनु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And whatever men upon earth have attained heroic prowess, O king (pṛthivyāṃ ye ca puruṣā rājan pauruṣam āgatāḥ), there shall come about the utter annihilation of them all, born of universal wrath (sarveṣāṃ bhavitā tatra saṅkṣayaḥ sarva-kopajaḥ).
 </details>
 </details>
 
@@ -431,6 +515,12 @@ _________________
 
 हीगॆ मुनिवर अगस्त्यरिगॆ हागू इतर ऎल्ल तपोवन ऋषिगळिगॆ यथोचित अभिवादन माडि अव्यग्रनागि सुवर्णभूषित पुष्पक विमानवन्नु एरिदनु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You, O tiger among men, matchless in prowess through your virtues (guṇair atula-vikrama), ought not to smite the earth (pṛthivīṃ nārhase hantum), for it already abides under your sway (vaśe hi tava vartate)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -458,6 +548,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवतॆगळु इन्द्रनन्नु पूजिसुवन्तॆये हॊरटु निन्त महेन्द्रतुल्य तेजस्वी श्रीरामनन्नु पूजिसि, ऋषिगळॆल्लरू आशीर्वदिसिदरु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those nectar-filled words of Bharata (bharatasya tu tad vākyaṃ śrutvā ’mṛtamayaṃ tadā), Rāma of unfailing valor attained an incomparable joy (praharṣam atulaṃ lebhe rāmaḥ satya-parākramaḥ).
 </details>
 </details>
 
@@ -487,6 +583,12 @@ _________________
 
 आ स्वर्णभूषित पुष्पकविमानदल्लि आकाशदल्लि स्थितनाद श्रीरामनु वर्षाकालद मेघगळ बळि इरुव चन्द्रनन्तॆ कण्डुबरुत्तिद्दनु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And he spoke auspicious words to him who increased Kaikeyī’s delight (kaikeyyānanda-vardhanam): “Pleased am I and thoroughly satisfied am I today (prīto ’smi parituṣṭo ’smi) with your speech, O sinless one (tavādya vacane ’nagha)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -515,6 +617,12 @@ _________________
 
 अनन्तर अल्लल्लि सम्मान पडॆयुत्ता श्रीरघुरामनु मध्याह्न समयक्कॆ अयोध्यॆगॆ तलुपि नडु अङ्गळदल्लि इळिदनु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“These unyielding, manly words (idaṃ vacanam aklībam), steeped in dharma (dharma-samāhitam) and safeguarding the earth (pṛthivyāḥ paripālanam), have been spoken by you, O tiger among men (vyāhṛtaṃ puruṣa-vyāghra).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -542,6 +650,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक इच्छानुसार चलिसुव आ सुन्दर पुष्पक विमानवन्नु अल्ले बिट्टु प्रभु श्रीरामनु अदर बळि हेळिदनु-ईग नीनु होगु, निनगॆ मङ्गळवागलि.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From that foremost of sacrifices, the Rājasūya, which was about to enter into my resolve (eṣyad-asmad-abhiprāyād rājasūyāt kratūttamāt), I now turn back [my intent], O knower of dharma (nivartayāmi dharmajña), on account of your well-spoken words (tava suvyāhṛtena ca).
 </details>
 </details>
 
@@ -584,6 +698,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऎम्भत्तॆरडनॆय सर्ग पूर्णवायितु. ॥82॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A deed that brings affliction to the world must never be done by the wise (loka-pīḍākaraṃ karma na kartavyaṃ vicakṣaṇaiḥ); auspicious counsel even from the young is to be accepted, O elder brother of Lakṣmaṇa (bālānāṃ tu śubhaṃ vākyaṃ grāhya lakṣmaṇa-pūrvaja); therefore I heed your well-reasoned, worthy words, O great-minded one (tasmāc chṛṇomi te vākyaṃ sādhu yuktaṃ mahāmate).”
 </details>
 </details>
 

@@ -65,6 +65,12 @@ that great tumult of battle; *raakShasa vanaukasam* = between demons and monkeys
 On hearing that great tumult of battle between demons and monkeys, Rama spoke to
 Jambavan as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Rāghava, hearing that tremendous roar of battle (saṃgrāma-nirghoṣam) between the Rākṣasas and the forest-dwellers, spoke to Jāmbavān:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -109,6 +115,12 @@ exceedingly difficult feat; *kR^itam* = has been performed; *hanumataa* = by Han
 "O excellent Jambavan! From the way in which a very great terrible rattling sound of
 arms in heard, it seems an exceedingly difficult feat has been performed by Hanuma. It is
 certain."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O gentle one (saumya), surely a deed most difficult to accomplish (karma su-duṣkaram) has been wrought by Hanūmān, inasmuch as a dreadful and mighty clangor of weapons (āyudha-svanaḥ) is heard!
 </details>
 </details>
 
@@ -155,6 +167,12 @@ kapishreShThasya* = to that Hanuma; *yudhyataH* = who is fighting.
 
 "O lord of bears! Therefore, accompanied by your own army, go and quickly extend
 your help to that Hanuma, who is fighting."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore go quickly, O lord of bears (ṛkṣa-pate), surrounded by your own force, and render aid (kuru sāhāyyam) to that foremost of monkeys as he fights!”
 </details>
 </details>
 
@@ -206,6 +224,12 @@ was.
 Saying "Yes, so be it" and surrounded by his own army, Jambavan came to the western
 gate, where the monkey, Hanuma was.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saying, “So be it,” the king of bears, girt by his own army (svenānīkena saṃvṛtaḥ), advanced toward the western gate (paścimaṃ dvāram) where the monkey Hanūmān was.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -253,6 +277,12 @@ account of grief caused by the destruction of Seetha).
 Thereupon, Jambavan saw Hanuma, coming with monkeys, who had given fight and were
 sighing (on account of grief caused by the destruction of Seetha).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the lord of bears beheld Hanūmān approaching (āyāntam), surrounded by Vānaras who had fought the battle (kṛta-saṃgrāmaiḥ) and were sighing heavily (śvasadbhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -299,6 +329,12 @@ all).
 
 Seeing that terrible army of bears, looking like a dark cloud on their way, ready
 (to perform battle) and effectively intercepting it, Hanuma retreated them all.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And beholding on the way that marshaled force of bears (tad ṛkṣa-balam udyatam), dreadful and dark as a blue storm-cloud (nīla-megha-nibham), Hanūmān checked them and turned back.
 </details>
 </details>
 
@@ -349,6 +385,12 @@ illustrious; *saH* = Hanuma; *duHkhitaH* = with sorrow; *abraviit* = spoke;
 Quickly seeking the presence of Rama with that army, the highly illustrious Hanuma,
 with sorrow, spoke the following words to Rama:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching swiftly into Rāma's presence (saṃnikarṣam) together with that army, the illustrious [Hanūmān], stricken with grief (duḥkhitaḥ), spoke these words to Rāma:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -392,6 +434,12 @@ during the time we were carrying on the battle; *indrajit* = Indrajit;
 "While we, who were carrying on the battle, stood looking on, Indrajit, the son of
 Ravana killed Seetha in front of us, even though she continued to weep."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As we were fighting in battle and looking on (asmākaṃ prekṣatāṃ ca), that Indrajit, the son of Rāvaṇa, slew weeping Sītā (jaghāna rudatīṃ sītām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -431,6 +479,12 @@ Ravana killed Seetha in front of us, even though she continued to weep."
 
 "O destroyer of enemies! On seeing her with my distressed mind, I felt sad. I came
 to report the event to you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding her, my mind was bewildered (udbhrānta-cittaḥ) and I sank into despondency (viṣaṇṇo 'ham), O tamer of foes; therefore I have come to report to you what has occurred (tad vṛttam).”
 </details>
 </details>
 
@@ -476,6 +530,12 @@ with its bottom chopped off.
 Hearing those words of Hanuma, Rama then was agitated with grief and fell down on
 the ground, like a tree with its bottom chopped off.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his, Rāghava, swooning with grief (śoka-mūrcchitaḥ), fell to the earth right then like a tree whose roots are severed (chinna-mūla iva drumaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -515,6 +575,12 @@ the ground; *kaisattamaaH* = the chiefs of monkeys; *samutpatya* = came bouncing
 
 On seeing that Rama, who with the semblance of god, falling on the ground, the
 chiefs of monkeys came bouncing from all sides and rushed towards him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Rāghava, who resembled a god (deva-saṃkāśam), fallen upon the earth, the foremost of monkeys sprang up and rushed toward him from every side.
 </details>
 </details>
 
@@ -564,6 +630,12 @@ They sprinkled him with water, fragrant with scent of lotuses and lilies, as one
 would sprinkle an inextinguishable as one would sprinkle an inextinguishable fire, which has just
 flared up suddenly and is burning all.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And they sprinkled him (āsiñcan) with waters fragrant with lotuses and water-lilies (padmotpala-sugandhibhiḥ), as he burned like a fire suddenly flared up (sahasāgnim ivotthitam) and impossible to restrain (asaṃhāryam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -589,6 +661,12 @@ flared up suddenly and is burning all.
 <details><summary>Misc Detail</summary>
 
 भाईकी यह अवस्था देखकर लक्ष्मणको बड़ा दुःख हुआ । वे उन्हें दोनों भुजाओंमें भरकर बैठ गये और अस्वस्थ हुए श्रीरामसे यह युक्तियुक्त एवं प्रयोजनभरी बात बोले— ॥ १३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Lakṣmaṇa, deeply anguished (su-duḥkhitaḥ), embraced the swooning Rāma (rāmam asvastham) with both arms and spoke words endowed with logical reason and purpose (hetv-artha-saṃyutam):
 </details>
 </details>
 
@@ -651,6 +729,12 @@ useless.
 "O venerable brother! Virtue cannot save you, who are sticking to the noble path and
 who have subdued the senses, from adversities and is (hence) useless."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since righteousness (dharmaḥ) is unable to protect (trātum) you from calamities, O noble brother, even as you stand firm upon the auspicious path (śubhe vartmani) with senses subdued (vijitendriyam), it is fruitless (nirarthakaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -691,6 +775,12 @@ non-existent.
 
 "Just as inanimate and animate beings are visible, likewise virtue and vice are not
 visible. Therefore, my opinion is that virtue is non-existent."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as there is direct perception (darśanam) of stationary and moving beings (sthāvarāṇāṃ ca jaṅgamānāṃ ca), righteousness is not so perceived; therefore my conviction is that it does not exist (nāstīti me matiḥ).
 </details>
 </details>
 
@@ -733,6 +823,12 @@ vipadyate* = would not fail.
 "Even as inanimate beings and animate beings are expressly visible, likewise this
 form of virtue of vice is not established. For, in that case, a virtuous man like you would not
 have this misfortune."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as the stationary is manifest (vyaktam) and the moving is likewise so, this principle [of Dharma] is not thus established (nāyam arthas tathā yuktaḥ); [otherwise] one like you would not suffer calamity (tvad-vidho na vipadyate)!
 </details>
 </details>
 
@@ -777,6 +873,12 @@ righteousness; *naapnuyaat* = would never obtain; *vyasanam* = adversity;
 
 "If unrighteousness had been effective, Ravana should have obtained the hell. You,
 endowed with virtue, would never obtain such troubles."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If unrighteousness (adharmaḥ) were real (bhūtaḥ), Rāvaṇa would go to hell (narakaṃ vrajet); and you, who are endowed with righteousness (dharma-saṃyuktaḥ), would never incur disaster (vyasanam)!
 </details>
 </details>
 
@@ -823,6 +925,12 @@ contraries of each other (have changed the roles with each other).
 "Since there is absence of calamity for Ravana and misfortune occurred to you, the
 result of vice is obtained through virtue and the result of virtue is obtained through vice. The
 contraries of each other have changed the roles with each other."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Since he is free from disaster (tasya ca vyasanābhāvāt) while disaster has befallen you, righteousness and unrighteousness become mutually contradictory (paraspara-virodhinau) [in their alleged fruits]!”
 </details>
 </details>
 
@@ -885,6 +993,14 @@ If that in whom unrighteousness is rooted are enjoined with the fruit of unright
 people showing interest in unrighteousness would be deprived of the fruit of virtue. The fruit of
 virtue alone would have accrued to those who administer righteousness through that virtue?
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “One would obtain the fruit of righteousness through righteousness (dharmeṇopalabhed dharmam), and that of unrighteousness through unrighteousness, only if those in whom unrighteousness abides (yeṣv adharmaḥ pratiṣṭhitaḥ) were visited with the fruit of unrighteousness,
+
+**20:** and if people who take no delight in unrighteousness (nādharma-rucayo janāḥ) were never parted from the fruit of righteousness (na dharmeṇa viyujyeran); only then would the fruit of righteousness belong to those who walk by righteousness (dharmeṇācaratām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -925,6 +1041,12 @@ of virtue; *klishyante cha* = suffer; *tasmaat* = hence; *etau* = these two
 
 Since prosperities of those, in whom unrighteousness is rooted, develop; while those
 who have a conduct of virtue suffer, hence these two (virtue and vice) are useless.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Since wealth and power multiply (arthā vivardhante) among those in whom unrighteousness abides, while the virtuous are tormented (kliśyante dharma-śīlāś ca), therefore both these [Dharma and Adharma] are fruitless (nirarthakau)!
 </details>
 </details>
 
@@ -967,6 +1089,12 @@ that unrighteousness; *vadhakarma hataH* = as it does in the act of killing; *ha
 "O Rama! If sinful doers are killed by their own vice, that unrighteousness, as it
 does, in the act of killing, will be forthwith destroyed. Whom will that unrighteousness destroy
 (which is destroyed in the course of three seconds)?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If evildoers (pāpa-karmāṇaḥ) are slain by their unrighteousness, O Rāghava, then unrighteousness itself is destroyed by the act of slaying (vadha-karma-hato 'dharmaḥ); once destroyed, whom can it slay (sa hataḥ kaṃ vadhiṣyati)?
 </details>
 </details>
 
@@ -1017,6 +1145,12 @@ kartaH* = and not the agent.
 kills another (by recourse to such a ritual), that destiny alone, which is engendered by that
 ritual, is tainted by that sinful act and not the agent."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Or if this person is slain or slays another by reason of an ordained destiny (vihitena), then it is that ordinance (vidhiḥ) which is tainted by that sinful deed—not he (na sa pāpena karmaṇā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1063,6 +1197,12 @@ which has never known how to retaliate; *asataa sataa* = and hence is non-existe
 "O Rama, the destroyer of adversaries! It is not clear how prosperity can be reached
 by righteousness, which has never known how to retaliate. Hence, righteousness seems to be
 non-existent."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How can a foe or anything else (param) be reached and struck down by a righteousness whose counteraction is unseen (adṛṣṭa-pratikāreṇa), which is unmanifest (avyaktena), non-existent even while existing (asatā satā), O tormentor of foes?”
 </details>
 </details>
 
@@ -1123,6 +1263,12 @@ subsides, Lakshmana himself says in verse 44 below that he had given expression 
 grief of Rama and spur him on to action.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If the fruit of righteous action were real (yadi sat syāt), O foremost of the virtuous (satāṃ mukhya), nothing untoward would befall you (nāsat syāt tava kiṃcana); since such a calamity has befallen you, therefore that [Dharma] does not stand to reason (tan nopapadyate)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1142,6 +1288,12 @@ grief of Rama and spur him on to action.
 <details><summary>Misc Detail</summary>
 
 ‘यदि दुर्बल और कातर (स्वतः कार्य-साधनमें असमर्थ) होनेके कारण धर्म पुरुषार्थका अनुसरण करता है, तब तो दुर्बल और फलदानकी मर्यादासे रहित धर्मका सेवन ही नहीं करना चाहिये—यह मेरी स्पष्ट राय है ॥ २६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Or else, weak and impotent (durbalaḥ klībaḥ), Dharma merely follows behind superior might (balam anuvartate); weak and stripped of its bounds (hṛta-maryādaḥ), it ought not to be resorted to—such is my conviction!
 </details>
 </details>
 
@@ -1211,6 +1363,12 @@ giving up; *dharmam paraakrame* = predominance of virtue.
 "Depend on might, as you do now on virtue, if the virtue is subordinate to might,
 thus giving up predominance of virtue."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And if Dharma is merely subordinate (guṇa-bhūtaḥ) to strength through deeds of valor (parākramaiḥ), then cast aside [exclusive reliance on] Dharma and abide in strength just as you have abided in Dharma (yathā dharme tathā bale)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1262,6 +1420,12 @@ you not; *baddhaH* = bound (by that announcement)?
 lying father, who was merciless to you, was disunited from you. Were you not bound by that
 announcement made by our father regarding your installation as the Prince Regent?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And if speaking the truth (satya-vacanam) is supposedly Dharma, O scorcher of foes, why was that merciless [father], whose word to you proved false (anṛtam), not bound by you before departing without him (tvayā vinā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1309,6 +1473,12 @@ pursuing, Indra the wielder of thunderbolt would not have performed a sacrifice 
 *The story was narrated at length in Book VI, DiscourseIX of Srimad
 Bhagavata.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If Dharma alone—or Adharma alone—were absolute (bhūtaḥ), O scorcher of foes, the thunderbolt-wielder Śatakratu would not have slain the sage (hatvā munim) and then performed sacrifice (kuryād ijyām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1349,6 +1519,12 @@ will.
 
 "O Rama! Virtue destroys enemies, when united with might (something other than
 virtue). O Rama! A man does all this, according to his will."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dharma conjoined with ferocious might (adharma-saṃśrito dharmaḥ) destroys [the foe], O Rāghava; a man performs all this according to his desire and need (yathā-kāmam), O Kākutstha!”
 </details>
 </details>
 
@@ -1395,6 +1571,12 @@ the other day.
 "O Rama in a pitiable condition. My opinion is that righteousness consists in such
 recourse to both virtue and strength. The very roots of virtue (in the form of earthly gain) have
 been chopped off by you in that you spurned the sovereignty the other day."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And this is my conviction, dear brother (tāta): this [timely combination of policy] is true Dharma, O Rāghava! When you cast away the kingdom back then (rājyam utsṛjatā tadā), the very root of Dharma (dharma-mūlam) was severed by you!
 </details>
 </details>
 
@@ -1446,6 +1628,12 @@ indeed fulfilled; *aapagaaH iva* = as the rivers; *parvatebhyaH* = flow;
 "By the treasures brought from place to place and augmented by means of various
 strategies, all the tasks are indeed fulfilled, as the rivers flow from the mountains."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For from abundant wealth (arthebhyaḥ pravṛddhebhyaḥ) amassed from every quarter (saṃvṛttebhyas tatas tataḥ), all ritual and worldly actions flow forth (kriyāḥ sarvāḥ pravartante), like rivers from mountains (parvatebhya ivāpagāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1491,6 +1679,12 @@ strategies, all the tasks are indeed fulfilled, as the rivers flow from the moun
 
 "All the tasks of a man of small intellect, bereft of his wealth, get a cessation as
 small rivers dry up in summer-season."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For when a man of slight resource (alpa-cetasaḥ) is bereft of wealth (arthena vimuktasya), all his actions dry up and cease (vicchidyante kriyāḥ sarvāḥ), like petty streams in summer (grīṣme kusarito yathā).
 </details>
 </details>
 
@@ -1539,6 +1733,12 @@ of punishment); *pravartate* = follows from it.
 "Such a man, brought up by comforts, renouncing wealth (within easy reach) and
 seeking comfort, proceeds to commit sinful act and then evil (in the form of punishment) follows
 from it."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Abandoning wealth, this man who has been reared in comfort (sukhaidhitaḥ), desiring happiness (sukha-kāmaḥ), resorts to committing sin (pāpam ācarate kartum), and then transgression ensues (tadā doṣaḥ pravartate).
 </details>
 </details>
 
@@ -1591,6 +1791,12 @@ virile; *loke* = in the world; *yasya* = who has; *arthaaH* = riches;
 "Friends gather round him, who has riches. Relatives stand by him, who has riches.
 He alone is virile in the world, who has riches. He alone is a learned man, who has riches."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He who has wealth has friends (yasyārthās tasya mitrāṇi); he who has wealth has kinsmen (bāndhavāḥ); he who has wealth is counted a man in the world (sa pumāṃl loke); and he who has wealth is deemed a learned sage (sa ca paṇḍitaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1637,6 +1843,12 @@ He alone is virile in the world, who has riches. He alone is a learned man, who 
 
 "He alone is a mighty man, who has riches. He alone is a prudent man, who has
 riches. He alone is highly fortunate. He alone is distinguished, who has riches."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who has wealth is heroic (sa ca vikrāntaḥ); he who has wealth is wise (buddhimān); he who has wealth is supremely fortunate (mahā-bhāgaḥ); and he who has wealth is preeminent in virtues (guṇādhikaḥ)!
 </details>
 </details>
 
@@ -1686,6 +1898,12 @@ me).
 "O resolute one! I told you about these evils attendant on the abjuration of wealth.
 The ground on which you made the resolve to sacrifice the kingdom was not known to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+These faults in the abandonment of wealth (arthasya parityāge doṣāḥ) have been clearly set forth by me (pravyāhṛtā mayā), O steadfast hero, whereby you formed your resolve when casting away the kingdom (rājyam utsṛjatā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1731,6 +1949,12 @@ hunting for wealth; *na shakyaH* = it is not possible; *arthaH* = to get wealth.
 would be favourable to him. To the penniless man, who has a desire for wealth and even hunting for
 wealth, it is not possible to attain wealth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To him who possesses wealth belong Dharma, Kāma, and Artha, and to him everything is favorable (tasya sarvaṃ pradakṣiṇam); whereas by a penniless man (adhanena) who desires wealth and seeks after it, wealth cannot be won (nārthaḥ śakyo vicinvatā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1772,6 +1996,12 @@ wealth.
 "O king! Delight, sensuous pleasure, pride, virtue, anger, peace, control of the
 senses all these are attained from wealth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joy, desire, pride, righteousness, wrath, tranquillity, and self-command (śamo damaḥ)—all these proceed from wealth (arthād etāni sarvāṇi pravartante), O lord of men!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1812,6 +2042,12 @@ the planets; (are seen); *durdineShu* = on cloudy days.
 "Those riches, due to renunciation of which, worldly happiness of those practicing
 the path of virtue gets lost, are not seen in you, any more than the planets are seen in cloudy
 days."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those riches—by the lack of which this world perishes (naśyaty ayaṃ lokaḥ) even for ascetics who practice righteousness (caratāṃ dharma-cāriṇām)—are not seen in you, like planets on overcast days (durdineṣu yathā grahāḥ)!
 </details>
 </details>
 
@@ -1857,6 +2093,12 @@ demon.
 "O valiant one! While you were in exile, faithful to the command of your father,
 your wife who was more beloved than life itself, was stolen away by a demon."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When you went forth into exile, O hero, abiding by our father's word (guroś ca vacane sthite), your wife—dearer to you than your own life-breaths (prāṇaiḥ priyatarā tava)—was carried off by the Rākṣasa!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1897,6 +2139,12 @@ Rama!
 
 "O valiant prince! I shall dispel with my exploits today, that great agony caused by
 Indrajit. Therefore, rise O Rama!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today, O hero, by my own martial deed (karmaṇā) I shall dispel (vyapaneṣyāmi) this vast grief wrought by Indrajit; therefore arise, O Rāghava (tasmād uttiṣṭha rāghava)!
 </details>
 </details>
 
@@ -1946,6 +2194,12 @@ are you not knowing about yourself; who is the great-souled and whose spirit is 
 "O the foremost among men! O the long-armed one! O the firmly resolute one! Arise!
 Why are you not knowing about yourself, who is the great-souled and whose spirit is
 disciplined?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arise, O tiger among men, long-armed, steadfast in your vows (dhṛta-vrata)! Why do you not recognize yourself (kim ātmānaṃ nāvabudhyase) as the Supreme Self (mahātmānam ātmānam)?
 </details>
 </details>
 
@@ -2017,5 +2271,11 @@ with Ravana."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तमूरनॆय सर्ग पूर्णवायितु.॥83॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roused today for the sake of your joy (tava priyārtham), O sinless one, and incensed upon hearing of the slaying of Janaka's daughter (janaka-sutā-nidhanaṃ nirīkṣya ruṣṭaḥ), I shall with my arrows utterly cast down (bhṛśam iṣubhir vinipātayāmi) Laṅkā together with its chariots, elephants, horses, and the lord of the Rākṣasas!”
 </details>
 </details>

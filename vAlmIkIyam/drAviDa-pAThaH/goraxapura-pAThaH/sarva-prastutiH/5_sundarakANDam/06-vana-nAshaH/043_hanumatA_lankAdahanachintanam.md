@@ -53,6 +53,12 @@ _________________
 \\* लङ्कामें राक्षसोंके कुलदेवताका जो स्थान था, उसीका नाम ‘चैत्यप्रासाद’ रखा गया था ।
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having slain the Kiṅkaras, Hanūmān fell into reflection (dhyānam āsthitaḥ): “The grove has been shattered by me, [yet] the sanctuary-palace (caitya-prāsādaḥ) has not been destroyed.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +120,14 @@ Thus thinking himself, Hanuma the best among monkeys, son of the wind-god having
 his strength, bounced up and ascended the lofty palatial mansion of the sanctuary, which was as high
 as a mountain-top of Meru.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “Therefore, even today I shall demolish (vidhvaṃsayāmy aham) this palace as well!” Having reflected thus in his mind, Hanūmān, displaying his strength (darśayan balam)—
+
+**3:** —leaped up and ascended (utplutya āruroha) the sanctuary-palace, which towered like a peak of Mount Meru (meru-śṛṅgam ivonnatam)—he, Hanūmān, foremost of monkeys, son of the Wind-god.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -154,6 +168,12 @@ as a mountain-top of Meru.
 That Hanuma, an army-chief of monkeys, possessing a very great splendour, ascending the
 lofty palatial mansion similar to a mountain shone like a second rising sun.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having ascended that mountain-like palace, that leader of the monkey troop (hari-yūthapaḥ), of exceedingly great splendor, shone like a second sun (pratisūrya iva) risen in the sky.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -182,6 +202,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस ऊँचे प्रासादपर आक्रमण करके दुर्धर्ष वीर हनुमान् जी अपनी सहज शोभासे उद्भासित होते हुए पारियात्र पर्वतके समान प्रतीत होने लगे ॥ ५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having violently assailed (sampradhṛṣya) that unassailable, lofty sanctuary-palace, Hanūmān, blazing with glory (prajvalaṃl lakṣmyā), became like Mount Pāriyātra.
 </details>
 </details>
 
@@ -244,6 +270,12 @@ body; *prabhaavaat* = by dint of his distinction; *maarutaatmajaH* = Hanuma; *aa
 Enhancing his body to a very big size by dint of his distinction, Hanuma clapped on his
 arms strongly, filling the City of Lanka with sound.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuming a colossal body through his supernatural power (prabhāvāt), the son of the Wind-god boldly slapped [his tail] (dhṛṣṭam āsphoṭayāmāsa), filling Laṅkā with the sound.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -289,6 +321,12 @@ the sanctuary also; *mohitaaH* = (fell down) unconsciously.
 
 By the great deafening noise, made by clapping on his arms, the birds and also the guards
 protecting the sanctuary unconsciously fell down.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By that mighty, ear-splitting sound of his slapping (mahatā śrotra-ghātinā āsphoṭita-śabdena), birds fell down there, and the guards of the sanctuary (caitya-pālāḥ) were stupefied (mohitāḥ).
 </details>
 </details>
 
@@ -377,6 +415,18 @@ will not be matching equally with me, who is capable of striking with thousnads 
 battle. Here, before the eyes of all the demons, I will annihilate the City of Lanka and after offering
 salutation to Seetha, I will go back duly completing my task."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “May Rāma, knower of celestial missiles (astravit), be victorious (jayatām), and Lakṣmaṇa of mighty strength! Victorious is King Sugrīva, protected on all sides by Rāghava!
+
+**9:** “I am the servant of the Lord of Kosala, of Rāma of unwearying deeds (akliṣṭa-karmaṇaḥ)—I, Hanūmān, slayer of enemy hosts (śatru-sainyānāṃ nihantā), son of the Wind-god!
+
+**10:** “A thousand Rāvaṇas would not be a match for me in battle (na rāvaṇa-sahasraṃ me yuddhe pratibalaṃ bhavet), as I strike with rocks and trees by the thousands!
+
+**11:** “Having violated the city of Laṅkā (dharṣayitvā purīṃ laṅkām) and having saluted Maithilī, with my purpose fulfilled (samṛddhārthaḥ) I shall depart while all the Rākṣasas look on!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -425,6 +475,12 @@ to the guards protecting the sanctuary; *hariyuuthapaH* = Hanuma the chief of ar
 
 Thus uttering to those guards protecting the sanctuary, roared terribly, making a noise
 and creating a terror to the demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the colossal leader of the monkey troop, standing upon the sanctuary (caityasthaḥ), roared with a terrifying thunder (bhīma-nirhrādaḥ), generating fear in the Rākṣasas.
 </details>
 </details>
 
@@ -479,6 +535,12 @@ Hearing that loud noise, hundreds of guards protecting the sanctuary went, takin
 kinds of weapons, spears, swords and axes. Those Kinkaras with huge bodies surrounded Hanuma, duly discharging
 those weapons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Because of that mighty roar (tena nādena mahatā), a hundred guards of the sanctuary (caitya-pālāḥ śatam) came forth, seizing various missiles, lances, swords, and battle-axes (paraśvadhān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -502,6 +564,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन विशालकाय राक्षसोंने उन सब अस्त्रोंका प्रहार करते हुए वहाँ पवनकुमार हनुमान् जी को घेर लिया । विचित्र गदाओं, सोनेके पत्र जड़े हुए परिघों और सूर्यतुल्य तेजस्वी बाणोंसे सुसज्जित हो वे सब-के-सब उन वानरश्रेष्ठ हनुमान् पर चढ़ आये ॥ १४ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hurling [their weapons], those colossal demons surrounded Māruti (mārutiṃ paryavārayan); with variegated maces (gadābhir vicitrābhiḥ) and iron clubs banded with gold (parighaiḥ kāñcanāṅgadaiḥ)—
 </details>
 </details>
 
@@ -546,6 +614,12 @@ demons; *parikSipya* = surrounding; *harishreSTham* = Hanuma the best among monk
 They banged Hanuma with various kinds of maces, iron bludgeons plated with gold and arrows
 shining like the sun. That troop of demons surrounding Hanuma the best among monkeys, shone like a greatly
 extensive whirlpool in the waters of River Ganga.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and with arrows gleaming like the sun, they assailed the foremost of Vānaras, like a vast, mighty whirlpool (āvartam iva vipulo mahān) of the waters of the Gaṅgā.
 </details>
 </details>
 
@@ -600,6 +674,16 @@ Thereupon, the enraged Hanuma assumed a terrific form. Hanuma possessing a gigan
 and the son of wind-god, uprooting a pillar with a hundred edges and decorated with gold in that edifice,
 then speedily whirled it around.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Surrounding the foremost of monkeys (parikṣipya hari-śreṣṭham), that troop of Rākṣasas shone forth; thereupon the enraged son of the Wind-god assumed a terrifying form (bhīma-rūpaṃ samāsthitaḥ).
+
+**17:** Having violently uprooted with speed (utpāṭayitvā vegena) a massive, gold-adorned pillar of that palace (prāsādasya stambhaṃ hema-pariṣkṛtam), the mighty Hanūmān, son of the Wind-god—
+
+**18:** Then that mighty one whirled (bhrāmayāmāsa) that hundred-edged [pillar] (śata-dhāram); and thereupon fire sprang forth (agniḥ samabhavat), and the palace too was burned (prāsādaś cāpy adahyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -650,6 +734,12 @@ Fire was also generated there (due to friction with other pillars) The edifice w
 consumed by fire. Seeing the edifice burning, that Hanuma killing those hundred demons, like Indra killing
 demons with his thunderbolt and gloriously staying in the sky, spoke (the following) words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding the palace burning (dahyamānaṃ prāsādam), that leader of the monkey troop, having slain the hundred Rākṣasas (rākṣasa-śataṃ hatvā) as Indra slays the Asuras with his thunderbolt—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -669,6 +759,12 @@ demons with his thunderbolt and gloriously staying in the sky, spoke (the follow
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राक्षसो! सुग्रीवके वशमें रहनेवाले मेरे-जैसे सहस्रों विशालकाय बलवान् वानरश्रेष्ठ सब ओर भेजे गये हैं ॥ २० १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—stationed in the sky (antarikṣa-sthitaḥ), glorious, spoke these words: “Thousands of high-souled ones like me (mādṛśānāṃ sahasrāṇi) have been sent forth (visṛṣṭāni)—
 </details>
 </details>
 
@@ -712,6 +808,14 @@ balinaam* = having strength; *sugriiva vashavartinaam* = obeying the orders of S
 
 "Thousands of monkeys like me, possessing gigantic bodies of strength, were sent on the
 orders of Sugreeva. We and other monkeys are now roaming the entire earth."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “—mighty lords of Vānaras (balināṃ vānarendrāṇām) who abide under Sugrīva's command (sugrīva-vaśa-vartinām); we and other Vānaras are roaming (aṭanti) the entire earth (vasudhāṃ kṛtsnām)!
+
+**22:** “Some possess the strength of ten elephants (daśa-nāga-balāḥ), some tenfold more than that (daśa-guṇottarāḥ), and some match the valor of a thousand elephants (nāga-sahasrasya tulya-vikramāḥ).
 </details>
 </details>
 
@@ -772,6 +876,12 @@ measured.
 "Some are having the strength of a strong stream. Some have strength equal to that of
 wind. Some other army-chiefs of monkeys even cannot be measured."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Some possess the strength of a flood-host (ogha-balāḥ), some rival the force of the wind (vāyu-balopamāḥ), and some leaders of monkey troops there possess immeasurable strength (aprameya-balāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -803,6 +913,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘दाँत और नख ही जिनके आयुध हैं ऐसे अनन्त बलशाली सैकड़ों, हजारों, लाखों और करोड़ों वानरोंसे घिरे हुए वानरराज सुग्रीव यहाँ पधारेंगे, जो तुम सब निशाचरोंका संहार करनेमें समर्थ हैं ॥ २४ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surrounded by such monkeys (īdṛgvidhais tu haribhiḥ) whose weapons are their teeth and claws (danta-nakhāyudhaiḥ)—by hundreds, by hundreds of thousands, by tens of millions (koṭibhiḥ), and by tens of thousands (ayutair api)—
 </details>
 </details>
 
@@ -879,5 +995,11 @@ Neither you, nor even Ravana will survive."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तमूरनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—Sugrīva will come, the destroyer of all of you (sarveṣāṃ vo niṣūdanaḥ)! Neither this city of Laṅkā, nor you, nor Rāvaṇa shall exist (neyam asti purī laṅkā na yūyaṃ na ca rāvaṇaḥ), since enmity has been bound by him with the high-souled hero of the Ikṣvākus!”
 </details>
 </details>

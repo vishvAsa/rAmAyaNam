@@ -69,6 +69,12 @@ disciple, on reaching; *vaakyam etat uvaaca ha* = sentence, this one, spoke.
 On entering the hermitage Lakshmana, the younger brother of Raghava, reached Agastya's disciple and
 spoke this sentence to him. [3-12-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having entered the hermitage precincts (āśrama-padam), Lakṣmaṇa, the younger brother of Rāghava (rāghavānujaḥ), approached a disciple of Agastya (agastya-śiṣyam) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +119,12 @@ saha* = his wife, Seetha, along with; *munim draSTum praaptaH* = sage, to see ha
 
 "A king named Dasharatha was there, his eldest son and the dynamic one, Rama has arrived along with
 his wife Seetha to see the sage. [3-12-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There is a king named Daśaratha; his eldest and mighty son (jyeṣṭhas tasya suto balī), Rāma, has arrived to behold the sage (muniṃ draṣṭum) together with his wife Sītā.
 </details>
 </details>
 
@@ -159,6 +171,12 @@ come, if at all [if ever you have heard.]
 
 "I am his loyal, dedicated, and adherent younger brother named Lakshmana, if ever you have heard of
 us. [3-12-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And I am his younger brother (avarajaḥ) named Lakṣmaṇa, devoted to his welfare (hitaḥ), compliant (anukūlaḥ) and faithful (bhaktaḥ)—if perchance my name has reached your ears (śrotram āgataḥ).
 </details>
 </details>
 
@@ -208,6 +226,12 @@ godly sage, to see, we wish to; *nivedyataam* = let it be informed.
 
 "Such as we are, we entered the awful forest at the decree of our father, and we wiush to see the godly
 sage, let this be informed to him." Said Lakshmana to the disciple of Agastya. [3-12-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having entered the terrible forest (vanam atyugram) at our father’s command (pitṛ-śāsanāt), all of us wish to behold the revered sage (bhagavantam); let this be announced (nivedyatām).”
 </details>
 </details>
 
@@ -261,6 +285,12 @@ at the Altar of Fire after passing through many places designated to particular 
 oblations are conducted. These places of worship occurring before the hall of homa are listed in the
 coming verses.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of Lakṣmaṇa, that ascetic rich in austerity (tapodhanaḥ) said, “So be it” (tatheti), and entered the fire-sanctuary (agni-śaraṇam) to announce them.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -311,6 +341,12 @@ arrival; *idam uvaaca* = this, said.
 He that agreeable disciple of sage quickly approached the irrefutable sage by his asceticism, made palm-fold
 and said this to the eminent sage about about the arrival of Rama, exactly as said by Lakshmana. [3-12-6,
 7a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering before that foremost of sages (muni-śreṣṭham), who was unassailable by virtue of his austerity (tapasā duṣpradharṣaṇam), he spoke with joined palms (kṛtāñjaliḥ) and promptly reported Rāma’s arrival (rāmāgamanam añjasā):
 </details>
 </details>
 
@@ -379,6 +415,14 @@ arhasi* = that, you, to order, apt of you.
 "Those two enemy-destroyers have come cherishing to see and serve you, hence it will be apt of you to
 order what next is to be done in this regard." Said disciple to the sage. [3-12-8b, 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** Exactly as spoken by Lakṣmaṇa (yathoktaṃ lakṣmaṇenaiva), the esteemed disciple of Agastya (śiṣyo ’gastyasya sammataḥ) [announced]: “These two sons of Daśaratha, Rāma and Lakṣmaṇa—
+
+**8:** “—have entered the hermitage precincts (āśrama-padam) together with his wife Sītā; those two tamers of foes (ariṃdamau) have come to behold you for the sake of rendering service (śuśrūṣārtham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -424,6 +468,12 @@ also, highly, fortunate one; *idam vacanam abraviit* = this, word, said.
 
 Having heard from the disciple that Rama has arrived with Lakshmana and with highly fortunate Seetha
 the sage said this to him. [3-12-9b, 10a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Deign to command (ājñāpayitum arhasi) what is to follow next (yad atrānantaram) in this matter.” Then, upon hearing from his disciple that Rāma had arrived with Lakṣmaṇa—
 </details>
 </details>
 
@@ -500,6 +550,14 @@ an eliminator of demons and Rama's mission is also the same. Therefore, on heari
 " his ears are said to have received an ear-pleasing experience, *karNa aananda anubhava*. Maheshvara
 Tirtha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** —and the illustrious Vaidehī (vaidehīṃ ca mahābhāgām), [the sage] spoke these words: “By good fortune (diṣṭyā), after a long time (cirasya), Rāma has come today to behold me!
+
+**11:** “For his arrival was eagerly desired by me as well in my heart (manasā kāṅkṣitaṃ hy asya). Go! Let Rāma, duly honored (satkṛtaḥ), together with his wife and Lakṣmaṇa—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,6 +605,12 @@ tathaa iti abraviit* = having done, with palm-fold, having adored, 'thus it will
 
 Thus said by the great-souled sage and the knower of virtue, the disciple adored him with palm-fold
 saying that "as you say." [3-12-12b, 13a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—be ushered into my presence (praveśyatāṃ samīpaṃ me); why was he not brought in at once (kim asau na praveśitaḥ)?” Thus addressed by the righteous and high-souled sage—
 </details>
 </details>
 
@@ -596,6 +660,12 @@ Then that disciple went out with a little perplexity and said this to Lakshmana,
 He may come to see the sage and let him enter hermitage on his own." Said that disciple to Lakshmana.
 [3-12-13b, 14a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—the disciple saluted him (abhivādya) with folded hands (niyatāñjaliḥ) and replied, “So be it”; then, hurrying out in haste (niṣkramya sambhrāntaḥ), the disciple spoke to Lakṣmaṇa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -640,6 +710,12 @@ siitaam ca* = at Janaka's daughter, Seetha, also; *darshayaamaasa* = started to 
 
 Then on going out to the exterior of that hermitage along with that disciple, Lakshmana has shown him
 Rama and Janaka's daughter Seetha. [3-12-14b, 15a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Where is that Rāma (ko ’sau rāmaḥ)? Let him come and enter in person (praviśatu svayam) to behold the sage!” Then going to the hermitage precincts with the disciple, Lakṣmaṇa—
 </details>
 </details>
 
@@ -687,6 +763,12 @@ Agastya's, word of, while telling [repeating]; *satkaara arham* = reception, wor
 While that disciple repeated the obliging words of Agastya entered that reception-worthy Rama into hermitage
 on receiving him well. [3-12-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—pointed out Kākutstha (darśayām āsa kākutstham) and Sītā, daughter of Janaka (janakātmajām). Speaking courteous words (praśritaṃ vākyam) conveying Agastya’s message, the disciple—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -727,6 +809,14 @@ looking over; *pravivesha entered.*
 
 And then Rama entered the hermitage with Seetha and Lakshmana looking over it which is overspread with
 docile deer. [ 3-12-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** —ushered in as was fitting (yathā-nyāyam) him who was worthy of hospitality and well-honored (satkārārhaṃ susatkṛtam). Then Rāma entered together with Sītā and Lakṣmaṇa,
+
+**17:** —beholding the hermitage filled with tranquil deer (praśānta-hariṇākīrṇam). There he [beheld] the sacred sanctuary of Brahmā (brahmaṇaḥ sthānam) and likewise the sanctuary of Agni,
 </details>
 </details>
 
@@ -813,6 +903,16 @@ for worship. These will be seventeen in general, as said in Vedic doctrine, *yo 
 to stay in *aashrama padam* , the hermitage's threshold, a porch or portico minus its roofing.
 As such Rama wanted an entry in to hermitage.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** —the sanctuary of Viṣṇu (viṣṇoḥ sthānam), the sanctuary of Mahendra, and that of Vivasvat (vivasvataḥ), the sanctuary of Soma, the sanctuary of Bhaga, and the sanctuary of Kubera (sthānaṃ kauberam).
+
+**19:** [He beheld] the sanctuary of Dhātṛ and Vidhātṛ (dhātur vidhātuḥ sthānam), and likewise the sanctuary of Vāyu, and the sanctuary of the high-souled Varuṇa holding the noose in hand (pāśa-hastasya varuṇasya),
+
+**20:** —and likewise the sanctuary of Gāyatrī (gāyatryāḥ), the sanctuary of the Vasus (vasūnāṃ sthānam), the sanctuary of the King of Nāgas (nāga-rājasya), and the sanctuary of Garuḍa (garuḍa-sthānam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -869,6 +969,14 @@ is adorable, why not his Father? Rama Tilaka states *agniratra rudraH* The namin
 as in 17th verse itself is Rudra, namely Shiva. ShiromaNi commentary also puts in the same way ' *
 tatra agni shabdena shambhuH ucyate* By the nomenclature of Fire, Shiva is to be construed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** He beheld (paśyati) the sanctuary of Kārttikeya and the sanctuary of Dharma (dharma-sthānam). Then, surrounded by his disciples (śiṣyaiḥ parivṛtaḥ), the sage himself came forth (abhiniṣpatat).
+
+**22:** Rāma beheld him at the head of those sages of blazing splendour (munīnāṃ dīpta-tejasām), and the hero spoke these words to Lakṣmaṇa, enhancer of auspicious fortune (lakṣmi-vardhanam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -910,6 +1018,12 @@ audaaryeNa imam tapasaam nidhaanam [iti]* = by eminence, him, for all ascesis, d
 On seeing the brilliantly glowing sage among those sages, he that bold Rama said this sentence to Lakshmana,
 the fortifier of fortune, "Here comes the godly sage, Lakshmana, by his eminence I comprehend him as
 a depository of all ascesis." [3-12-22b, 23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Lakṣmaṇa, the revered sage Agastya (agastyo bhagavān ṛṣiḥ) is coming forth outside (bahir niṣkrāmati); by his majestic dignity (audāryeṇa) I recognize him as a very treasury of austerities (nidhānaṃ tapasām)!”
 </details>
 </details>
 
@@ -957,6 +1071,12 @@ on falling.
 That dexterous Rama on saying about that sun-like radiant sage Agastya, he that descendent of Raghu
 fell on the feet of Agastya touching them reverentially. [3-12-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the mighty-armed delighter of the Raghus (raghu-nandanaḥ) clasped the feet (jagrāha pādau) of that Agastya of solar splendour (sūrya-varcasam) as he approached (āpatataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -996,6 +1116,12 @@ dharmaatmaa* = addressing himself, but, noble-hearted one; *kR^ita anjaliH* = pa
 
 Then he who is a delight to the on lookers that noble-hearted Rama on revering the sage along with Lakshmana
 and Seetha, the princess from Videha, stood aside with his palms adjoined. [3-12-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having saluted him (abhivādya), the righteous-souled Rāma stood with joined palms (kṛtāñjaliḥ), together with Sītā Vaidehī and accompanied by Lakṣmaṇa (salakṣmaṇaḥ).
 </details>
 </details>
 
@@ -1042,6 +1168,12 @@ pleasantries]; *aasyataam iti saH abraviit* = 'be seated', thus, he [sage,] said
 
 Offering seat and water that sage received Rama, and even on exchanging pleasantries that sage said
 to him, "please be seated." [3-12-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Receiving Kākutstha (pratigṛhya ca kākutstham), honoring him with a seat and water (arcayitvāsanodakaiḥ), and inquiring after his welfare (kuśala-praśnam uktvā), he said, “Please be seated” (āsyatām iti).
 </details>
 </details>
 
@@ -1094,6 +1226,12 @@ guest, that sage gave viands to guests according to his hermitic observances. [3
 The hermit's observances include the ritual to Fire-god before food. In some case one has to personally
 light the fire, cook his own food to the chanting of hymns, like Agastya which is an observances called
 *viashva devam* Even now these are observed by some Vedic Brahmans.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having offered oblations into the sacred fire (agniṃ hutvā), presented arghya (pradāyārghyam), and duly honored his guests (atithīn pratipūjya ca), he gave them food according to the rule of forest-dwellers (vānaprasthena dharmeṇa).
 </details>
 </details>
 
@@ -1176,6 +1314,14 @@ fire worship before meals, he leads the host to heavens" - *paraashara suutra*. 
 giving a false witness not only goes to hell but also is destined to eat his own flesh there. Same is
 the case with the host, who does not perform his daily chores to entertain his guest.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** Then, sitting down first (prathamaṃ copaviśyātha), that knower of dharma and bull among sages (muni-puṃgavaḥ) spoke to Rāma, who was seated with joined palms and versed in dharma (dharma-kovidam):
+
+**29:** “Having offered oblations into the fire and presented arghya, one should honor a guest (atithiṃ pratipūjayet); otherwise (anyathā), O Kākutstha, an ascetic acting contrary to this rule (tapasvī samudācaran) would feed upon his own flesh (svāni māṃsāni bhakṣayet) in the next world like a false witness (duḥsākṣīva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1232,6 +1378,12 @@ guests, hence god. Thus, it is said that Sage Agastya realised Rama as Vishnu an
 Even the daily *puuja* worship is conducted in a manner of treating the deity as a symbolic guest
 in the household. Here that deity himself is the real guest, i.e., Narayana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are the king of the entire world (rājā sarvasya lokasya), a follower of dharma (dharma-cārī), and a mighty car-warrior (mahā-rathaḥ); worthy of worship and veneration (pūjanīyaś ca mānyaś ca), you have arrived as a beloved guest (priyātithiḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1281,6 +1433,12 @@ him [to Rama,] said.
 
 Saying thus, Agastya adored Raghava well with fruits, tubers, flowers and others according to his ardency,
 and then he said this to Rama. [3-12-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus and honored Rāghava to his heart’s content (pūjayitvā yathā-kāmam) with fruits, roots, flowers, and other offerings, Agastya then spoke to him:
 </details>
 </details>
 
@@ -1374,6 +1532,16 @@ sharp; *jvaladbhiH iva paavakaiH* = blazing, like, Ritual-fire; *baaNaiH* = with
 sword decorated in gold together with its sheath made up of excellent golden are once given to me by
 Indra. [3-12-33b, 34]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** “Here is a divine, mighty bow (divyaṃ mahac cāpam) adorned with gold and diamonds (hema-vajra-vibhūṣitam), belonging to Viṣṇu (vaiṣṇavam), O tiger among men, and fashioned by Viśvakarman (nirmitaṃ viśvakarmaṇā);
+
+**33:** “—this unfailing (amoghaḥ), sun-bright (sūrya-saṃkāśaḥ), supreme arrow given by Brahmā (brahma-dattaḥ śarottamaḥ); and these two quivers of inexhaustible arrows (tūṇī cākṣayya-sāyakau) given to me by Mahendra—
+
+**34:** “—filled with whetted shafts (saṃpūrṇau niśitair bāṇaiḥ) like blazing fires (jvaladbhir iva pāvakaiḥ); and here is a sword adorned with gold (asir hema-vibhūṣitaḥ), encased in a scabbard of fine gold (mahā-rājata-kośaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1449,6 +1617,14 @@ you receive them.
 "The bow, these two quivers, arrows, and the sword, oh, Rama, the endower of grace, receive and wield
 them to triumph over the demons as Indra would wield Thunderbolt. [3-12-36]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**35:** “With this bow, O Rāma, having slain the great Asuras in battle (hatvā saṃkhye mahāsurān) of yore, Viṣṇu recovered the radiant Fortune (ājahāra śriyaṃ dīptām) of the celestials (divaukasām).
+
+**36:** “That bow, those two quivers, the arrow, and the sword, O bestower of honor (mānada), do you accept for victory (jayāya pratigṛhṇīṣva), just as the wielder of the thunderbolt (vajradharaḥ) [accepts] the thunderbolt!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1506,6 +1682,12 @@ and again spoke to Rama [3-12-37]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हन्नॆरडनॆय सर्ग सम्पूर्णवायितु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus and bestowed upon Rāma (dattvā rāmāya) that entire peerless panoply of weapons (samastaṃ tad varāyudham), the revered Agastya of great splendour (mahā-tejāḥ) spoke again (punar abravīt).
 </details>
 </details>
 

@@ -36,6 +36,12 @@ title = "०५२ रामाश्वासनम्"
 
 केशिनी नदिय तीरदल्लि रात्रॆ कळॆदु, बॆळगागुत्तले लक्ष्मणनु प्रयाण मुन्दुवरिसिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed that night there by the Keśinī (tatra tāṃ rajanīm uṣya keśinyām), Lakṣmaṇa, delight of the Raghus (raghunandanaḥ), rose again at dawn (prabhāte punar utthāya) and then set forth (prayayau tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०५२ रामाश्वासनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मध्याह्नवागुत्तले आ रथवु धन-धान्यगळिन्द सम्पन्नवाद, हृष्ट-पुष्ट जनरिन्द तुम्बिद अयोध्यापुरियन्नु प्रवेशिसितु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when midday arrived (ardha-divase prāpte), that mighty chariot-warrior (mahārathaḥ) entered Ayodhyā, abounding in gems (ratna-sampūrṇām) and thronged with joyful, thriving citizens (hṛṣṭa-puṣṭa-janāvṛtām).
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०५२ रामाश्वासनम्"
 
 अल्लिगॆ होगुत्तले परमबुद्धिवन्त सुमित्राकुमारनिगॆ बहळ दुःखवायितु. नानु श्रीरामचन्द्रन बळिगॆ होगि एनु हेळलि? ऎन्दु योचिसतॊडगिदनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet the exceedingly wise Saumitri fell into utter dejection (paraṃ dainyaṃ jagāma sumahāmatiḥ), thinking: “Having arrived and approached Rāma’s feet (rāma-pādau samāsādya), what shall I say (vakṣyāmi kim ahaṃ gataḥ)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +129,12 @@ title = "०५२ रामाश्वासनम्"
 
 अवनु हीगॆ विचार माडुत्तिरुवागले चन्द्रनन्तॆ उज्वलवाद श्रीरामन विशाल अरमनॆयु गोचरिसितु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as he pondered thus (tasyaivaṃ cintayānasya), the supremely stately palace of Rāma (bhavanaṃ ... rāmasya paramodāram), radiant as the moon (śaśi-sannibham), came into view before him (purastāt samadṛśyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,6 +159,12 @@ title = "०५२ रामाश्वासनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अरमनॆय बागिलल्लि रथदिन्द इळिदु, नरश्रेष्ठ लक्ष्मणनु तलॆतग्गिसिकॊण्डु दुःखित मनस्सिनिन्द यावुदे तडॆयिल्लदॆ ऒळगॆ प्रवेशिसिदनु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Descending from his excellent chariot (avatīrya rathottamāt) at the gateway of the king’s palace (rājñas tu bhavana-dvāri), with downcast face and heavy heart (avāṅmukho dīna-manāḥ), he entered unchecked (praviveśānivāritaḥ).
 </details>
 </details>
 
@@ -165,6 +195,14 @@ title = "०५२ रामाश्वासनम्"
 
 श्रीरघुनाथनु दुःखितनागि ऒन्दु सिंहासनदल्लि कुळितु कण्णीरु सुरिसुत्तिरुवुदन्नु नोडि, दुःखितनाद लक्ष्मणनु मुन्दॆ होगि अण्णन ऎरडू पादगळन्नु हिडिदुकॊण्डु कैमुगिदु मनस्सन्नु एकाग्रगॊळिसि दीनवाणियल्लि हेळतॊडगिदनु.॥6-7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** Looking upon Rāghava seated dejectedly upon his noble throne (dīnam āsīnaṃ paramāsane), he beheld his elder brother directly before him (dadarśāgrajam agrataḥ) with eyes brimming with tears (netrābhyām aśru-pūrṇābhyām).
+
+**7:** Lakṣmaṇa, downcast in spirit (dīna-cetanaḥ), clasped his feet (jagrāha caraṇau tasya), and with palms joined and mind composed (prāñjaliḥ susamāhitaḥ), spoke in a sorrowful voice (uvāca dīnayā vācā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +232,14 @@ title = "०५२ रामाश्वासनम्"
 
 वीर महाराजन आज्ञॆयन्नु शिरसावहिसि नानु शुभाचरणवुळ्ळ, यशस्विनी जनकात्मजॆ सीतॆयन्नु गङ्गातीरदल्लि वाल्मीकिगळ शुभ आश्रमद बळियल्लि बिट्टु निम्म श्रीचरणगळ सेवॆगागि इल्लिगॆ मरळि बन्दिरुवॆनु.॥8-9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “Having placed my elder brother’s command foremost (āryasyājñāṃ puraskṛtya), and having left the daughter of Janaka (visṛjya janakātmajām) on the bank of the Gaṅgā as directed (gaṅgā-tīre yathoddiṣṭe), at the pure hermitage of Vālmīki (vālmīker āśrame śucau)—
+
+**9:** “—having left that illustrious lady of auspicious conduct (śubhācārām ... yaśasvinīm) within the precincts of that hermitage (āśramānte), I have come back again, O hero (punar apy āgato vīra), to attend upon your feet (pāda-mūlam upāsitum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -218,6 +264,12 @@ title = "०५२ रामाश्वासनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषसिंहने! नीवु शोकिसबेडि. कालद गति हीगॆये इदॆ. निम्मन्तह बुद्धिवन्तरु मत्तु दृढचित्त मनुष्यरु शोकिसुवुदिल्ल.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Do not grieve, O tiger among men (mā śucaḥ puruṣa-vyāghra), for such is the course of Time (kālasya gatir īdṛśī); wise and noble-minded men like yourself (tvadvidhā ... buddhimanto manasvinaḥ) do not indeed yield to sorrow (na hi śocanti).
 </details>
 </details>
 
@@ -244,6 +296,12 @@ title = "०५२ रामाश्वासनम्"
 
 जगत्तिनल्लि सङ्ग्रहवॆल्लदर अन्त्यविनाशवागिदॆ, उत्थानद अन्त्यपतनवागिदॆ, संयोगद अन्त्य वियोगवागिदॆ, जीवनद अन्त्य मरणवागिदॆ.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All accumulations end in exhaustion (sarve kṣayāntā nicayāḥ); all lofty elevations end in downfall (patanāntāḥ samucchrayāḥ); all unions end in separation (saṃyogā viprayogāntāḥ); and life itself ends in death (maraṇāntaṃ ca jīvitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -268,6 +326,12 @@ title = "०५२ रामाश्वासनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द पत्नी, पुत्र, मित्र, धन-कनकगळल्लि विशेष आसक्ति इरबारदु; एकॆन्दरॆ अवुगळिन्द वियोग निश्चितवागिदॆ.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore excessive attachment should not be placed (nātiprasaṅgaḥ kartavyaḥ) in sons, wives, friends, or wealth (putreṣu dāreṣu mitreṣu ca dhaneṣu ca), for separation from them is assuredly certain (viprayogo hi tair dhruvam).
 </details>
 </details>
 
@@ -294,6 +358,12 @@ title = "०५२ रामाश्वासनम्"
 
 ककुत्स्थ कुलभूषण! नीनु आत्मनिन्द आत्मनन्नु, मनस्सिनिन्द मनस्सन्नु हागू समस्त लोकगळन्नु नियन्त्रणदल्लिडलु समर्थनागिरुवॆ. हागिरुवाग शोकवन्नु हतोटियल्लिडुवुदु याव दॊड्ड मातु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are able by yourself to discipline yourself (śaktas tvam ātmanātmānaṃ vinetum) through your mind alone (manasaiva hi), and to guide all the worlds besides, O Kākutstha (lokān sarvāṃś ca kākutstha)—how much more your own sorrow (kiṃ punaḥ śokam ātmanaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,6 +388,12 @@ title = "०५२ रामाश्वासनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निन्नन्तह श्रेष्ठ पुरुषरु इन्तह प्रसङ्गगळु बन्दागलू मोहितरागुवुदिल्ल. रघुनन्दन! नीवु दुःखियागिद्दरॆ आ अपवाद निम्म मेलॆ मत्तॆ बन्दीतु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bulls among men like yourself (tvadvidhāḥ puruṣarṣabhāḥ) do not lose self-command in such trials (nedṛśeṣu vimuhyanti); indeed, that very reproach will come upon you once again, O Rāghava (apavādaḥ sa kila te punar eṣyati rāghava)!
 </details>
 </details>
 
@@ -344,6 +420,12 @@ title = "०५२ रामाश्वासनम्"
 
 नरेश्वर! याव अपवादद भयदिन्द नीवु सीतॆयन्नु त्यजिसिदिरो, आ अपवादवु खण्डित वागि ई नगरदल्लि मत्तॆ आगतॊडगीतु. (बेरॆयवर मनॆयल्लि इद्द पत्नियन्नु त्यागमाडि इवनु हगलु-रात्रॆ आकॆय चिन्तॆयिन्द दुःखितनागिद्दानॆ ऎन्दु जनरु हेळुवरु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That very reproach out of fear of which Maithilī was abandoned, O monarch (yadarthaṃ maithilī tyaktā apavāda-bhayān nṛpa)—that reproach shall surely arise again in the city, O King, beyond all doubt (so ’pavādaḥ pure rājan bhaviṣyati na saṃśayaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -368,6 +450,12 @@ title = "०५२ रामाश्वासनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द पुरुष सिंहने! नीवु धैर्यदिन्द चित्तवन्नु एकाग्रगॊळिसि, ई दुर्बल शोकबुद्धियन्नु त्यजिसिरि, सन्तप्तरागबेडि.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O tiger among men (puruṣa-śārdūla), composed with steadfast fortitude (dhairyeṇa susamāhitaḥ), cast off this enfeebling frame of mind (tyajaināṃ durbalāṃ buddhim) and do not indulge in anguish (santāpaṃ mā kuruṣva ha)!”
 </details>
 </details>
 
@@ -394,6 +482,12 @@ title = "०५२ रामाश्वासनम्"
 
 महात्मा लक्ष्मणनु हीगॆ हेळिदाग मित्रवत्सल श्रीरामनु बहळ सन्तोषदिन्द आ सुमित्राकुमारनल्लि हेळिदनु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the high-souled Lakṣmaṇa (evam uktaḥ sa kākutstho lakṣmaṇena), Kākutstha, ever affectionate toward his friends (mitra-vatsalaḥ), replied to Saumitri with supreme delight (uvāca parayā prītyā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -418,6 +512,12 @@ title = "०५२ रामाश्वासनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरश्रेष्ठ वीर लक्ष्मण! नीनु हेळिद मातु सरियागिदॆ. नीनु नन्न आदेशवन्नु पालिसिदॆ, इदरिन्द ननगॆ तुम्बा सन्तोषवागिदॆ.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“It is just so, O foremost of men (evam etan nara-śreṣṭha), even as you say, O Lakṣmaṇa (yathā vadasi lakṣmaṇa)! Great is my satisfaction, O hero (paritoṣaś ca me vīra), in the execution of my appointed duty (mama kāryānuśāsane).
 </details>
 </details>
 
@@ -454,6 +554,12 @@ title = "०५२ रामाश्वासनम्"
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऐवत्तॆरडनॆय सर्ग पूर्णवायितु. ॥52॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Peaceful relief has come, O gentle one (nivṛttiś cāgatā saumya), and my anguish has been dispelled (santāpaś ca nirākṛtaḥ); by your exceedingly splendid words (bhavad-vākyaiḥ suruciraiḥ) I have been won over and consoled, O Lakṣmaṇa (anunīto ’smi lakṣmaṇa)!”
 </details>
 </details>
 

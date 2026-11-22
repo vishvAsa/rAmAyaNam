@@ -61,6 +61,12 @@ hasty lust.
 Kaikeyi spoke harsh words to that king, who was struck by cupid's arrows and yielded
 to hasty lust.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To that protector of the earth, who was pierced by the shafts of Manmatha (manmathaśarair viddham) and swept along by the surge of passion (kāmavegavaśānugam), Kaikeyī spoke these cruel words (dāruṇaṃ vacaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -101,6 +107,12 @@ wish ; *ichchhaami* = I desire; *tam* = it; *kR^itam* = to be accomplished;
 
 "Oh, King! no body has insulted me, nor despised me. But I have a certain, desire
 that needs to be fulfilled by you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I have neither been wronged (nāsmi viprakṛtā), O my lord, nor slighted (nāvamānitā) by anyone; yet I have a certain wish (abhiprāyas tu me kaścit) which I desire to have accomplished by you.
 </details>
 </details>
 
@@ -148,6 +160,12 @@ that needs to be fulfilled by you."
 "If you wish to fulfil my desire, you promise to fulfil it. After your promise I
 shall inform you that which is desired by me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If you wish to accomplish it, pledge a solemn vow (pratijñāṃ pratijānīṣva); thereafter I shall declare to you what is desired by me (yathābhiprārthitaṃ mayā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +212,12 @@ that Kaikeyi; *shuchismitaam* = having white smile; *uvaacha* = and spoke
 The most majestic and lustful Dasaratha smiled a little and caressingly kept his
 hand into her hair and spoke these words to Kaikeyi who was having white smile in her face.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Smiling faintly (īṣadutsmayaḥ), the love-smitten great king took hold of Kaikeyī's tresses (mūrdhajeṣu) with his hand as she lay upon the ground and spoke to her:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -233,6 +257,12 @@ dearer; *mama* = to me; *tvattaH* = than you; *raamaat* = except Rama;
 
 "Oh, proud woman! Don't you know that there is nobody on this earth more dearer to
 me than you except Rama, the best among men."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O proud lady (avalipte), do you not know that there is no man upon earth dearer to me than you, save Rāma, that tiger among men (manujavyāghrād rāmād anyaḥ)?
 </details>
 </details>
 
@@ -281,6 +311,12 @@ being lived upon; *mahaatmanaa* = who is highsouled; *shape* = I take oath;
 is the supporter of life and a high souled man. I take oath by him. Tell me what is desired by
 you".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By that unconquerable (ajayyena), foremost, magnanimous Rāghava, who is worthy of my very life (jīvanārheṇa), I swear to you (śape te)—speak what is desired in your heart!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -327,6 +363,12 @@ oath; *te vachana kriyaam* = to fulfill your word.
 "Oh, Kaikeyi ! I can't live even for a moment without seeing Rama. This is certain.
 By that Rama, I am taking my oath and promising to fulfill your word".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By that Rāma without beholding whom even for an hour (yaṃ muhūrtam apaśyaṃs tu) I could certainly not live (na jīve tam ahaṃ dhruvam), O Kaikeyī, I swear to you that I shall fulfill your word (śape te vacanakriyām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -372,6 +414,12 @@ sons; *tena raameNa* = by that Rama ; *manasa* = by your mind
 "I desire the well being of Rama, the best of men, even at the cost of my life or
 the lives of my other sons. I take oath by that Rama and tell you that I shall fulfil your
 word."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By that bull among men, Rāma, whom I cherish above myself and above my other sons (ātmanā cātmajaiś cānyair vṛṇe yam), O Kaikeyī, I swear to you that I shall fulfill your word!
 </details>
 </details>
 
@@ -423,6 +471,12 @@ good.
 "Oh, auspicious lady! My heart is sinking. You raise it by your touch. Oh, Kaikeyi!
 you observe all this and tell me that which you think as good."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O gentle lady (bhadre), examine even this heart of mine and draw it out (hṛdayam apy etad anumṛśyoddharasva me); considering this well, O Kaikeyī, speak what you deem right (brūhi yat sādhu manyase)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -472,6 +526,12 @@ also; *karishhye* = I shall do; *tava* = your; *priitim* = desire.
 "You need not doubt me as you know your authority over me. I am taking oath on my
 auspiciousness. I shall do whatever is desired by you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the power you hold over me (balam ātmani paśyantī), you ought not to harbor doubt; I shall fulfill your pleasure—I swear to you even by my own good deeds (sukṛtenāpi te śape)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -512,6 +572,12 @@ abhipraayam* = that wish; *aagatam* = coming to her mind; *babhaashhe* = spoke;
 
 That Kaikeyi, who has utmost desire for coronation of Bharata and for sending Rama
 to exile, revealing that wish from her mind, uttered unspeakable wordswith bias and delight.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With her mind set solely upon that purpose (tad-arthamanāḥ), the queen, seeing that his intention had fallen into her grasp, spoke out of partiality (nirmādhyasthyāc ca) and glee a speech most cruel to utter (durvacaṃ vacaḥ);
 </details>
 </details>
 
@@ -558,6 +624,12 @@ by those words; *vyaajahaara* = spoke; *tam abhipraayam* = that wish;
 
 Kaikeyi, having been delighted with Dasaratha's words, conveyed him of the very
 horrible wish in her mind as conveying the news of a suddenly befallen death.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+thrilled by those words (tena vākyena saṃhṛṣṭā), she uttered her own design, which was exceedingly dreadful, like Death himself come nigh (mahāghoram abhyāgatam ivāntakam):
 </details>
 </details>
 
@@ -607,6 +679,12 @@ as; *krameNa* = with series of; *sapasi* = your oaths.
 
 "Let thirty three celestials with the god of Fire in the forefront hear your words
 giving boons to me, preceded by series of your oaths"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As you swear step by step (yathā krameṇa śapase) and grant me the boon, so let the thirty-three gods headed by Indra (trayastriṃśad devāḥ sendrapurogamāḥ) hear it!
 </details>
 </details>
 
@@ -665,6 +743,14 @@ demons; *iyam* = this; *pRi^thivii* = earth; *bhuutaani* = spirits;
 universe, earth, celestial musicians, demons, spirits wandering in nights , house-gods and other
 spirits."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Let the Moon and the Sun, the firmament, the planets (grahāḥ), Night and Day, the quarters of space, this moving world and the Earth (jagac ca pṛthivī ceyam), together with the Gandharvas and Rākṣasas,
+
+**15:** the beings that roam by night (niśācarāṇi bhūtāni), the household deities dwelling in the palaces (gṛheṣu gṛhadevatāḥ), and whatever other beings exist—let them all witness your speech (jānīyur bhāṣitaṃ tava)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -716,6 +802,12 @@ righteousness; *susamaahitaH* = who has good equanimity ; *dadaati* = is giving;
 and who has good equanimity of mind, is giving boon to me. Let the celestials hear it for my
 sake."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘This monarch, true to his promise (satyasaṃdhaḥ), of mighty splendor, knower of righteousness (dharmajñaḥ), truthful in speech, and pure, grants me a boon’—let all the deities (sarve daivatāḥ) hear this!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -763,6 +855,12 @@ almost everything except your life.
 Kaikeyi made Dasaratha to hear these words, praised him too much and thereafter
 spoke these words to him who was ready to give boons as he was infatuated by lust.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus bound fast (parigṛhya) the great bowman and extolled him (abhiśasya ca), the queen then spoke these further words to the boon-bestowing king, who was deluded by love (kāmamohitam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -808,6 +906,12 @@ self.
 
 "Oh, King! Remember what happened in the battle between celestials and demons in the
 olden times. There the enemy destroyed almost every thing except your life".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Remember, O king, what befell of old in that war between the gods and the demons (tasmin devāsure raṇe), where your foe stripped you of strength, leaving you barely your life (tava jīvitam antarā)!
 </details>
 </details>
 
@@ -855,6 +959,12 @@ which reason; *tvam* = you; *samabhirakshitaH* = were saved; *mayaa* = by me;
 "Oh, King! There, I saved you. Hence you gave boon to myself who was attentive in
 trying to save you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And because you were rescued there by me, O my lord, as I kept watch and strove with all my might (jāgratyā yatamānāyāḥ), you granted me two boons at that time.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -901,6 +1011,12 @@ kept for safe custody; *tava sakaashe eva* = at your vicinity only.
 "Oh, King! The protection of the Earth, the one who has true promise! I am hunting
 for those boons, which were given by you and kept with you for safe custody."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those two boons that were granted, O my lord, I now claim as two sacred deposits (nikṣepau mṛgayāmy aham) held in your own keeping (tavaiva sakāśe), O protector of the earth, scion of Raghu!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -941,6 +1057,12 @@ itself.
 
 "You have to give that boon, as per right, to me as promised by you. If you despise
 me by not giving it, I should abandon my life now itself".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having solemnly promised this in accordance with righteousness (tat pratiśrutya dharmeṇa), if you will not grant me the boon, then this very day, slighted by you (tvadvimānitā), I shall abandon my life!”
 </details>
 </details>
 
@@ -988,6 +1110,12 @@ destruction.
 
 Dasaratha, after having thus yielded in full measure to kaikeyi's words, fell into
 her trap as a deer, for his self destruction.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brought under her sway at that time by mere words (vāṅmātreṇa), the king leaped into the snare for his own destruction like a deer (pracaskanda vināśāya pāśaṃ mṛga ivātmanaḥ).
 </details>
 </details>
 
@@ -1063,6 +1191,14 @@ anointment ceremony itself.
 "All arrangements have been made to undertake Rama's coronation. Let my Bharata
 instead be coronated on this occasion itself".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** Then she spoke these further words to the boon-bestowing monarch who was deluded by love: “Those two boons granted to me then, O my lord, must be rendered by you today, O lord of the earth!
+
+**24:** Those two I shall now declare this very day—hear my words! The preparations for the consecration (abhiṣekasamārambhaḥ) have been got ready for Rāghava—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1110,6 +1246,12 @@ celestials and demons.
 "Now, the time has arrived for the second boon given by you affectionately then in
 the battle between celestials and demons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—with this very consecration (anenaivābhiṣekeṇa), let my Bharata be consecrated! And as for that second boon (yo dvitīyo varaḥ), O my lord, which was granted to me by you when pleased
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1152,6 +1294,14 @@ jataadhaarii* = wearing rags; deer skin and matted hair.
 "Rama has to take refuge in the forest of Dandaka for fourteen years and let him
 become an ascetic wearing rags, deer skin and matted hair".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** at that time in the war between the gods and the demons—its hour has now arrived (tasya kālo 'yam āgataḥ): betaking himself to the Daṇḍaka forest (daṇḍakāraṇyam āśritaḥ) for nine years and five,
+
+**27:** let steadfast Rāma become an ascetic wearing bark-garments and deerskin (cīrājinadharo dhīro rāmo bhavatu tāpasaḥ), and let Bharata enjoy today the office of Prince Regent free of all thorns (yauvarājyam akaṇṭakam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1193,6 +1343,12 @@ Rama; *prayaantam* = going; *vanam* = to forest .
 
 "Now itself, Bharata has to get rights of succession to kingdom, which is free of
 enemies. This is my greatest desire. Now I am asking for the boon given by you in earlier. "
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This is my supreme desire—I claim the very boon already granted by you (dattam eva varaṃ vṛṇe); this very day let me behold Rāghava departing into the forest (adya caiva hi paśyeyaṃ prayāntaṃ rāghavaṃ vane)!
 </details>
 </details>
 
@@ -1259,6 +1415,12 @@ world, they have to speak only the truth."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि हन्नॊन्दनॆय सर्ग पूर्णवायितु. ॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, O king of kings (rājarājaḥ), prove true to your promise (bhava satyasaṃgaraḥ), and preserve your lineage, your moral conduct, and your noble birth (kulaṃ ca śīlaṃ ca hi janma rakṣa ca); for the ascetics declare that truthful speech is the supreme good of men in the world beyond (paratra vāse)!”
 </details>
 </details>
 

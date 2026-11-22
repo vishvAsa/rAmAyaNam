@@ -72,6 +72,12 @@ said, also.
 When the great-souled Lakshmana spoke to Sugreeva in this way, Sugreeva spoke this
 word to Hanuma who is available at his side. [4-37-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by high-souled Lakṣmaṇa, Sugrīva spoke these words to Hanūmān standing at his side (sthitaṃ pārśve):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -227,6 +233,26 @@ Parable: The assumed Sun's Palace is to the East of earth. He dawns in the
 morning in east, travels westward, dusks in west, goes to his abode circling the earth to east, and
 for us he takes rest in his palace for the night and continues his next day's routine.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** ‘Those who dwell on the peaks of Mahendra, Himavat, Vindhya, and Kailāsa, and on white-crested Mandara (mandare pāṇḍuśikhare)—upon those five mountains (pañcaśaileṣu);
+
+**3:** ‘And those who dwell in the western quarter (paścimasyāṃ diśi) on the ever-blazing mountains along the ocean's rim (samudrānte), colored like the newly risen sun;
+
+**4:** ‘And those formidable bulls among monkeys (haripuṃgavāḥ) who resort to the mountain that is the abode of the Sun (ādityabhavane girau), resembling evening clouds, and to the forest of Padmācala;
+
+**5:** ‘And those leapers (plavaṃgamāḥ) resembling collyrium and dark rainclouds (añjanāmbudasaṃkāśāḥ), possessing the mighty vigor of lordly elephants, who dwell on Mount Añjana;
+
+**6:** ‘And those monkeys gleaming like gold (kanakaprabhāḥ), whose dwellings are the caverns of Mahāśaila [or realgar caves], who haunt the flanks of Meru, and who resort to Dhūmragiri—
+
+**7:** ‘And those leapers of terrible speed (bhīmavegāḥ), colored like the newly risen sun, who dwell on Mount Mahāruṇa drinking maireya wine (madhu maireyam);
+
+**8:** ‘And those in the lovely, fragrant, vast forests, and in the woodland borders (vanānteṣu) charming with the hermitages of ascetics on every side—
+
+**9:** ‘All those monkeys upon the earth do you swiftly have brought here (ānaya) through conciliation, gifts, and other expedients (sāmadānādibhiḥ kalpaiḥ), by means of monkeys even swifter in speed.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -273,6 +299,12 @@ preSaya* = quickly, you hasten.
 
 "In the first instance highly speedy vanara-s are hastened at my commanded, however,
 you hasten some more monkey chiefs for the purpose of hastening them. [4-37-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘And to hasten (tvaraṇārtham) those couriers of great speed who were previously tested (ājñātāḥ) and dispatched by me at the outset, do you send forth monkey lords once again.
 </details>
 </details>
 
@@ -323,6 +355,12 @@ monkey, chiefs; *shiighram iha aanayasva* = quickly, to here, you lead them in.
 "Those that are entangled with creature comforts, and those that are stringy
 dawdlers, you quickly lead all of those monkey chiefs in here. [4-37-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘And whichever monkeys are absorbed in sensual pleasures (kāmeṣu) or are dilatory in action (dīrghasūtrāḥ), have all those monkey chiefs brought here swiftly.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -368,6 +406,12 @@ miscreants, are eliminable.
 
 "And such of those vanara-s that do not arrive within ten days by my command, those
 miscreants are eliminable as the abusers of king's decree. [4-37-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘And those wicked-souled ones who do not arrive within ten days (ahobhir daśabhiḥ) at my command are to be slain as violators of the royal decree (rājaśāsanadūṣakāḥ).
 </details>
 </details>
 
@@ -418,6 +462,12 @@ ones; *shataani atha sahasraaNi koTyaH ca* = in hundreds, then, in thousands, in
 "Let all the lionly monkeys available on earth that abide by my control start coming
 to this place in hundreds, thousands, even in millions, by my command. [4-37-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Let hundreds, thousands, and tens of millions (koṭyaś ca) of monkey-lions who abide under my command (nideśe mama) march forth by my decree.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -464,6 +514,12 @@ shaasanaat itaH yaantu* = by my, command, towards this way - to here, they start
 "The champions of monkeys with ghastly aspects and similar in shine with the
 mountains and clouds shall start coming here by my command, fly-jumping as though to overcast the
 sky. [4-37-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Resembling clouds and mountains, as though covering the sky (chādayanta ivāmbaram), let those foremost of monkeys of formidable form go forth from here at my command.
 </details>
 </details>
 
@@ -512,6 +568,12 @@ shaasanaat* = by my, command; *aanayantu* = lead them in.
 expeditiously proceed on quick-routes, and gather all of the monkeys available on earth at my
 command." Sugreeva ordered Hanuma that way. [4-37-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Knowing the pathways (gatijñāḥ), let all those monkeys go to every destination [or dwelling-place, gatim] across the earth and swiftly bring all the monkeys at my command.’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -554,6 +616,12 @@ started to send.
 
 On hearing the order of Sugreeva, the king of vanara-s, Hanuma, the son of Air-god
 has started to dispatch valorous monkeys in all directions. [4-37-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the speech of that king of monkeys, the son of the Wind-god (vāyusutaḥ) dispatched valiant monkeys in all directions.
 </details>
 </details>
 
@@ -611,6 +679,12 @@ Vishnu stretched his foot heavenward and covered the intermediate sky with that
 single foot in Vamana, that Dwarf Boy, incarnation. From then on heaven is also called as *tridiva*.
 Thus it is said that the monkeys skyrocketed heavenward, i.e., to skies, but not to heaven.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sent forth by the king, those monkeys instantly (kṣaṇena) coursed through the sky—the realm stridden across by Viṣṇu (padaṃ viṣṇuvikrāntam)—traveling along the pathway of birds and luminaries (patattrijyotiradhvagāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -661,6 +735,12 @@ After skyrocketing those monkeys have reached the monkeys that are living at
 seashores and islands, in the caves and crags of mountains, and at lakeshores and their surrounds,
 and motivated all of the monkeys available there towards the cause of Rama. [4-37-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Across oceans, mountains, forests, and lakes, those monkeys urged on (acodayan) all the monkeys for the sake of Rāma (rāmahetoḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -708,6 +788,12 @@ arrived.
 On hearing that command of the king of kings of Vanara-s, Sugreeva, who is semblable
 with the Death-god and Time-god, all of the monkeys have arrived with the terror of Sugreeva
 haunting them. [4-37-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the command of Sugrīva, king of kings (rājarājasya), who was like Death and Time (mṛtyukālopamasya) [in punishing transgressors], the monkeys came forth, apprehensive with fear of Sugrīva.
 </details>
 </details>
 
@@ -757,6 +843,12 @@ Then thirty million fly-jumpers whose swiftness is inconceivable, and whose shin
 like that of black-mascara have sallied forth from mountain Anjana to there where Raghava is
 camping, i.e., Mt. Prasravana. [4-37-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then from that mountain [Añjana], three crores (tisraḥ koṭyaḥ) of mighty leapers resembling collyrium (añjanasaṃkāśāḥ) issued forth to where Rāghava was.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -805,6 +897,12 @@ Hundred million monkeys who take delight on the best mountain where the sun goes
 into dusk, namely the westerly mountains, asta adri, and whose hue is
 similar to the refined gold, for dusk has a golden hue, have jumped in. [4-37-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighting in that best of mountains where the sun goes to its setting (astaṃ gacchati yatrārkaḥ), ten crores gleaming with the hue of molten gold (saṃtaptahemavarṇābhāḥ) streamed down from there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -850,6 +948,12 @@ the hue of; *vaanaraaNaam* = of Vanara-s; *koTi sahasraaNi* = thousand, crores
 
 Vanara-s who are in the hue of lion's mane have turned up in thousand crores, say
 hundred billion, from the pinnacles of Mt. Kailash. [4-37-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And from the peaks of Kailāsa there assembled thousands of crores (koṭisahasrāṇi) of monkeys possessing the splendor of lions' manes (siṃhakesaravarcasām).
 </details>
 </details>
 
@@ -900,6 +1004,12 @@ thousand billion, trillion]; *samavartata* = arrived.
 Those that are sheltered on Himalayas subsisting on fruits and tubers have arrived
 in a thousand of thousand crores, say a trillion. [4-37-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Of those subsisting on fruits and roots (phalamūlena jīvantaḥ) who inhabited Himavat, a thousand times a thousand crores (koṭisahasrāṇāṃ sahasram) gathered together.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -946,6 +1056,12 @@ millions; *apatan drutam* = fallen - alighted, swiftly.
 Millions and millions of Vanara-s whose looks and deeds are gruesome, and who equal
 the planet Mars in their crimson-flush, as they dwell on the hotbeds of Mt. Vindhya, have swiftly
 alighted from Mt. Vindhya. [4-37-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From the Vindhya mountain, thousands of crores of terrible monkeys of dreadful deeds, resembling the planet Mars [or glowing embers, aṅgārakasamānānām], descended swiftly.
 </details>
 </details>
 
@@ -1009,6 +1125,12 @@ used as *naari kera*, in it original phonetic form. And the Bengalis even now pr
 *ba* for *va*. Even the English keyboard of typewriters too, provide *b*
 adjacent to *v* .
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those whose abodes were along the shores of the Ocean of Milk (kṣīrodavelānilayāḥ), who dwelt in forests of dark tamāla trees and subsisted on coconuts (nārikelāśanāḥ)—of them there is no reckoning (saṃkhyā na vidyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1063,6 +1185,12 @@ childhood. It is intended to say that the irrefutable *sugreeva aaj~na* 'Sugreev
 command...' as said in his order at ' *monkeys have to come as though to overcast the sky'*
 , at 4-37-14 above, is effectuated by these troops of monkeys, who seem to overcast the sky as if
 they are going to gorge the sun.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From forests, mountain caverns, and rivers, the mighty monkey army (vānarī senā) came pouring in, as though drinking up the sun (pibantīva divākaram).
 </details>
 </details>
 
@@ -1123,6 +1251,12 @@ offers no speciality to the following verses. Instead of one tree, some decipher
 'they have seen Himalayas with many a great tree...' thereby it will be reinforcing the 'doubt that
 occurred to Hanuma' in identifying Sanjivini herb among many trees.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Now those heroic monkeys who had gone to hasten (tvarayitum) all the monkeys beheld upon the Himavat mountain that celebrated great tree (mahādrumam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1168,6 +1302,12 @@ Shiva's, aiming Shiva; *yaj~naH babhuuva* = Vedic-ritual, took place.
 
 On that best and auspicious mountain, once a glorious Vedic-ritual intending God
 Shiva took place, which pleased the hearts of all gods. [4-37-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon that sacred best of mountains, in former times, there took place the enchanting sacrifice of Maheśvara (yajño māheśvaraḥ), which delighted the minds of all the gods (sarvadevamanastoṣaḥ).
 </details>
 </details>
 
@@ -1219,6 +1359,12 @@ There the vanara-s have seen luscious tubers and fruits similar to nectar, which
 have originated from the oblational food material spattered in the Vedic-ritual for Shiva.
 [4-37-29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There the monkeys beheld roots and fruits sprung from the overflow of the sacrificial food [or oblations, annanisyandajātāni], nearly equal in sweetness to ambrosia (amṛtasvādukalpāni).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1269,6 +1415,12 @@ If one eats for one time, a little of those divine and heart-pleasing fruits and
 tubers that have taken their origin from that oblational food material, he remains satiated for a
 month. [4-37-30]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whoever eats even once (sakṛd aśnāti) that divine, enchanting fruit and root sprung from that sacrificial food remains satisfied for an entire month (māsaṃ bhavati tarpitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1314,6 +1466,12 @@ collected.
 
 The best monkeys that are fruit-eaters have collected those divine fruits, tubers,
 and even the divine medicinal herbs. [4-37-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those fruit-eating bulls among monkeys (haripuṃgavāḥ) gathered those divine roots and fruits, as well as divine medicinal herbs (auṣadhāni ca divyāni).
 </details>
 </details>
 
@@ -1364,6 +1522,12 @@ for purpose of; *aaninyuH [ aa nin yuH]* = fetched.
 On going to the cardinal ground of Vedic-ritual which was performed once, those
 vanara-s fetched highly fragrant flowers in order to please Sugreeva. [4-37-32]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And having gone to that sacrificial ground (yajñāyatanāt), the monkeys brought back fragrant blossoms out of a desire to please Sugrīva (sugrīvapriyakāraṇāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1412,6 +1576,12 @@ On motivating all of the monkeys on earth, all those best monkeys who proceeded 
 forgather other monkeys, quickly returned to Kishkindha ahead of the forgathered troops of monkeys.
 [4-37-33]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having urged on all the monkeys across the earth, all those foremost of monkeys swiftly marched ahead of the troops (yūthānāṃ jagmur agrataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1452,6 +1622,12 @@ praaptaaH* = to Kishkindha, quickly, arrived.
 Those quick paced monkeys quickly reached Kishkindha just at that moment when
 Lakshmana is still with Sugreeva, and those monkeys arrived at that place where Sugreeva is
 available along with Lakshmana. [4-37-34]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Within that very muhūrta (tena muhūrtena), those swift-moving monkeys speedily reached Kiṣkindhā where the monkey Sugrīva was.
 </details>
 </details>
 
@@ -1503,6 +1679,12 @@ Taking the medicinal herbs, fruits, and tubers along with them, all of those
 Vaanaras obliged Sugreeva to accept fruits, tubers and herbs as royal gifts, and they also spoke
 this word to Sugreeva. [4-37-35]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking all the medicinal herbs (auṣadhīḥ sarvāḥ) and the fruits and roots, those monkeys caused him to accept them (taṃ pratigrāhayāmāsuḥ) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1549,6 +1731,12 @@ earth, all of the, vanara-s; *te upa yaanti* = for you, coming near.
 "We have rounded up all the mountains, rivers, and forests even, and all of the
 Vanara-s available on earth are fetched to your fore according to your command." Thus the monkeys
 said to Sugreeva. [4-37-36]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘All the mountains, rivers, and forests have been traversed (parisṛtāḥ); all the monkeys upon the earth are approaching at your command (śāsanāt te).’
 </details>
 </details>
 
@@ -1606,6 +1794,12 @@ accepted the gifts brought from Himalayas from all of them. [4-37-37]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तेळनॆय सर्ग सम्पूर्णवायितु.॥37॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing thus, Sugrīva, overlord of the leapers, rejoiced and, well-pleased, accepted all their tribute (sarvam upāyanam).
 </details>
 </details>
 

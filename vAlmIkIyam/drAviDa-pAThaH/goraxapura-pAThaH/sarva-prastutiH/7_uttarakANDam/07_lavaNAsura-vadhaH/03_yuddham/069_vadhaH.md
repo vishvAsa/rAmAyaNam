@@ -39,6 +39,12 @@ _________________
 
 हीगॆ कथॆ हेळुत्ता, शुभ विजयद आकाङ्क्षॆ माडुत्तिरुव आ मुनिगळ मातन्नु केळुत्ता - केळुत्ता महात्मा शत्रुघ्नन आ रात्रॆ कळॆदु होयितु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of the great-souled Śatrughna (tac chrutvā bhāṣitaṃ tasya śatrughnasya mahātmanaḥ), he summoned up fierce fury (krodham āhārayat tīvram) and cried out, “Stand! Stand!” (tiṣṭha tiṣṭheti cābravīt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर निर्मल प्रभातवादाग भक्ष्य पदार्थ हागू भोजनद सङ्ग्रहद इच्छॆयिन्द प्रेरितनागि आ वीर राक्षसनु तन्न नगरदिन्द हॊरगॆ हॊरटनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clapping palm fiercely against palm (pāṇau pāṇiṃ viniṣpiṣya) and gnashing his teeth (dantān kaṭakaṭāyya ca), Lavaṇa challenged that tiger among the Raghus again and again (lavaṇo raghu-śārdūlam āhvayām āsa cāsakṛt).
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 अष्टरल्लि वीर शत्रुघ्ननु नदियन्नु दाटि धनुर्बाणगळन्नु धरिसि मधुपुरिय द्वारदल्लि निन्तु कॊण्डनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To Lavaṇa of dreadful aspect (lavaṇaṃ ghora-darśanam), speaking such words (taṃ bruvāṇaṃ tathā vākyam), Śatrughna—slayer of the foes of the gods (śatrughno deva-śatrughnaḥ)—spoke this reply (idaṃ vacanam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +141,12 @@ _________________
 
 अनन्तर मध्याह्नवादाग आ क्रूरकर्मा राक्षसनु साविरारु प्राणिगळ हॊरॆयन्नॆत्तिकॊण्डु अल्लिगॆ बन्दनु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Śatrughna was not born of the same sort as those others whom you vanquished (na śatrughnas tathā jāto yathā ’nye nirjitās tvayā); therefore, struck down today by my arrows (tad adya bāṇābhihataḥ), depart to the abode of Yama (vraja tvaṃ yama-sādanam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -145,6 +169,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘पापात्मन्! जैसे देवताओंने रावणको धराशायी हुआ देखा था, उसी तरह विद्वान् ब्राह्मण और ऋषि आज रणभूमिमें मेरे द्वारा मारे गये तुझ दुराचारी राक्षसको भी देखें ॥ ५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today too, O sinful soul, let the sages and learned brahmins behold you slain by me in battle (ṛṣayo ’py adya pāpātman mayā tvāṃ nihataṃ raṇe paśyantu viprā vidvāṃsaḥ), just as the gods beheld Rāvaṇa (tridaśā iva rāvaṇam)!
 </details>
 </details>
 
@@ -174,6 +204,12 @@ _________________
 
 आग अवनु अस्त्र-शस्त्रगळन्नु धरिसिद शत्रुघ्ननन्नु नोडिदनु. नोडि राक्षसनु हेळिदनु - नराधम! ई आयुधगळिन्द नीनु ननगेनु माडबल्लॆ? निन्नन्तह साविरारु अस्त्र-शस्त्रधारी मनुष्यरन्नु नानु रोषदिन्द तिन्दुबिट्टिरुवॆनु. कालनु निन्न तलॆय मेलॆ कुणियुत्ता इदॆ ऎन्दु अनिसुत्तदॆ.॥5-6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Once you fall today, consumed by my arrows, O night-ranger (tvayi mad-bāṇa-nirdagdhe patite ’dya niśācara), there shall indeed be peace and security in both city and countryside (pure janapade cāpi kṣemam eva bhaviṣyati)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -201,6 +237,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषाधमने! इन्दिन नन्न आहार पूर्णवागलिल्ल. दुर्मते! नीनु स्वतः नन्न बायिगॆ हेगॆ बन्दु बिद्दॆ.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today an arrow sped from my arm, its tip resembling a thunderbolt (adya mad-bāhu-niṣkrāntaḥ śaro vajra-nibhānanaḥ), shall penetrate your heart as a ray of the sun enters a lotus (pravekṣyate te hṛdayaṃ padmam aṃśur ivārkajaḥ)!”
 </details>
 </details>
 
@@ -230,6 +272,12 @@ _________________
 
 आ राक्षस हीगॆ मातनाडुत्ता पदे-पदे नगुत्तिद्दनु. इदन्नु नोडि पराक्रमि शत्रुघ्नन कण्णुगळु रोषगॊण्डु नीरूरिदवु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, Lavaṇa, beside himself with rage (evam ukto ... lavaṇaḥ krodha-mūrcchitaḥ), hurled a giant tree at Śatrughna’s chest (mahā-vṛkṣaṃ ... śatrughnorasi cikṣepa), and Śatrughna sliced it into a hundred pieces (sa ca taṃ śatadhācchinat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -257,6 +305,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रोषगॊण्ड महात्मा शत्रुघ्नन सर्वाङ्गदिन्द तेजोमय किरणगळन्नु चिम्मिदवु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing that effort come to naught (tad dṛṣṭvā viphalaṃ karma), the mighty rākṣasa seized very many trees once again and hurled them at Śatrughna (rākṣasaḥ punar eva tu pādapān subahūn gṛhya śatrughnāyāsṛjad balī).
 </details>
 </details>
 
@@ -286,6 +340,12 @@ _________________
 
 आग अत्यन्त कुपितनाद शत्रुघ्ननु आ निशाचरनल्लि हेळिदनु- दुर्बुद्धे! नानु निन्नॊन्दिगॆ द्वन्द्वयुद्ध माडलु बयसुत्तेनॆ.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the brilliant Śatrughna, with straight-jointed arrows (śatrughnaś cāpi tejasvī ... nata-parvabhiḥ), cut each one of those many oncoming trees to pieces with three or four shafts (vṛkṣān āpatato bahūn tribhiś caturbhir ekaikaṃ ciccheda).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -313,6 +373,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु महाराजा दशरथन पुत्र हागू परम बुद्धिवन्त राजा श्रीरामन तम्मनागिद्देनॆ. नन्न हॆसरु शत्रुघ्ननॆन्दिद्दु, कर्मदिन्दलू शत्रुघ्न (शत्रुगळन्नु संहरिसुव)ने आगिद्देनॆ. ईग निन्नन्नु वधिसलु इल्लिगॆ बन्दिरुवॆनु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the valorous Śatrughna loosed a rain of arrows upon the rākṣasa’s chest (tato bāṇamayaṃ varṣaṃ vyasṛjad rākṣasorasi śatrughno vīrya-sampannaḥ); yet that rākṣasa did not even flinch (vivyathe na sa rākṣasaḥ).
 </details>
 </details>
 
@@ -342,6 +408,12 @@ _________________
 
 नानु युद्ध माडलु बयसुत्तेनॆ, अदक्कागि नीनु ननगॆ द्वन्द्वयुद्धद अवकाशकॊडु. नीनु समस्त प्राणिगळ शत्रु आगिरुवॆ; अदक्कागि ईग नन्न कैयिन्द बदुकिहोगलारॆ.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, bursting into laughter, the mighty Lavaṇa lifted up a tree (tataḥ prahasya lavaṇo vṛkṣam udyamya vīryavān) and struck the hero squarely upon the head (śirasy abhyahanac chūram); his limbs going limp, Śatrughna fell into a swoon (srastāṅgaḥ sa mumoha vai).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -369,6 +441,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु हीगॆ हेळिदाग आ राक्षसनु नरश्रेष्ठ शत्रुघ्ननल्लि नगुत्ता हेळिदनु - दुर्मते! इन्दु नीनु स्वतः ननगॆ दॊरकिदुदु सौभाग्यद मातागिदॆ.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that hero fell down (tasmin nipatite vīre), a mighty cry of ‘Alas! Alas!’ arose (hāhākāro mahān abhūt) from the sages, the hosts of gods, and the gandharvas and apsarases (ṛṣīṇāṃ deva-saṅghānāṃ gandharvāpsarasāṃ tathā).
 </details>
 </details>
 
@@ -409,6 +487,14 @@ _________________
 
 नीच बुद्धियुळ्ळ नराधम! रावणनॆम्ब राक्षसनु नन्न चिक्कम्म शूर्पणखिय अण्णनागिद्दनु. अवनन्नु निन्न अण्ण ऒन्दु स्त्रीगागि संहार माडिदनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Disdaining that Śatrughna as already slain and laid flat upon the ground (tam avajñāya tu hataṃ śatrughnaṃ bhuvi pātitam), the rākṣasa—even though he had gained an opening—did not enter his own dwelling (rakṣo labdhāntaram api na viveśa svam ālayam).
+
+**15:** Nor did he take up the trident, beholding him felled upon the earth (nāpi śūlaṃ prajagrāha taṃ dṛṣṭvā bhuvi pātitam); instead, concluding ‘He is dead!’ (tato hata iti jñātvā), he gathered up those carcasses of prey (tān bhakṣān samudāvahat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -436,6 +522,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भूतळदल्लि नन्नन्नु ऎदुरिसलु बन्द नराधमरॆल्लरन्नु नानु हुल्लुकड्डियन्तॆ तिळिदु तिरस्करिसि कॊन्दु हाकिरुवॆ. भविष्यदल्लि बरुववरिगू इदे स्थितियागुवुदु हागू वर्तमान कालदल्लि निन्नन्तह नराधमनू नन्न कैयिन्द सत्तनॆन्दे तिळि.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In a single moment, however, regaining consciousness (muhūrtāl labdha-sañjñas tu), Śatrughna stood up once more at the city gate, weapons in hand (punas tasthau dhṛtāyudhaḥ śatrughno vai pura-dvāri), warmly acclaimed by the sages (ṛṣibhiḥ samprapūjitaḥ).
 </details>
 </details>
 
@@ -465,6 +557,12 @@ _________________
 
 दुर्मते! निनगॆ युद्धद इच्छॆ इदॆयल्ल? नानु ईगले निनगॆ युद्धद अवकाश कॊडुवॆनु. नीनु ऎरडु गळिगॆ सैरिसु. अष्टरॊळगॆ नानु नन्न अस्त्र तॆगॆदुकॊण्डु बरुवॆ.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then he took up that supreme, divine, unfailing arrow (tato divyam amoghaṃ taṃ jagrāha śaram uttamam), blazing with dreadful radiance (jvalantaṃ tejasā ghoram) and filling all ten quarters of space (pūrayantaṃ diśo daśa),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -492,6 +590,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निन्न वधॆगागि ऎन्तह अस्त्र इरबेको अन्तह अस्त्रवन्नु मॊदले सुसज्जितगॊळिसिकॊळ्ळुवॆनु. मत्तॆ युद्धद अवकाश कॊडुवॆनु. इदन्नु केळि शत्रुघ्ननु कूडले हेळिदनु - ईग नीनु नन्न कैयिन्द बदुकि ऎल्लिगॆ होगुवॆ.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thunderbolt-tipped and swift as the thunderbolt (vajrānanaṃ vajra-vegam), comparable to Mounts Meru and Mandara (meru-mandara-sannibham), bent low at all its joints (nataṃ parvasu sarveṣu) and unconquered in all battles (saṃyugeṣv aparājitam),
 </details>
 </details>
 
@@ -521,6 +625,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यारे बुद्धिवन्त पुरुषनु तन्न ऎदुरिगॆ बन्द शत्रुवन्नु बिडबारदु. गाबरिगॊण्ड बुद्धियिन्द शत्रुवन्नु होगलु बिट्टरॆ अवनु मन्दबुद्धि हेडियन्तॆ सत्तुहोगुवनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Its shaft anointed with blood as with sandalwood paste (asṛk-candana-digdhāṅgam), beautifully feathered and swift-winged (cāru-patraṃ patatriṇam), splitter of dānava lords, mighty mountains, and asuras (dānavendrācalendrāṇām asurāṇāṃ ca dāraṇam)—
 </details>
 </details>
 
@@ -552,6 +662,12 @@ _________________
 
 आद्दरिन्द राक्षसने ! ईग नीनु ई जीव जगत्तन्नु चॆन्नागि नोडिको. नाना प्रकारद हरित बाणगळिन्द पापियाद निन्नन्नु ईगले यमसदनक्कॆ कळिसुवॆनु; एकॆन्दरॆ नीनु मूरुलोकगळ हागू श्रीरघु नाथन शत्रु आगिरुवॆ.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that arrow blazing like the fire of Time risen at the end of an age (taṃ dīptam iva kālāgniṃ yugānte samupasthite dṛṣṭvā), all living beings fell into extreme terror (sarvāṇi bhūtāni paritrāsam upāgaman).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -571,6 +687,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 देवता, असुर, गन्धर्व, मुनि और अप्सराओंके साथ सारा जगत् अस्वस्थ हो ब्रह्माजीके पास पहुँचा ॥ २१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Together with gods, asuras, gandharvas, sages, and hosts of apsarases (sa-devāsura-gandharvaṃ munibhiḥ sāpsaro-gaṇam), the entire universe, sorely distressed, approached the Grandfather [Brahmā] (jagad dhi sarvam asvasthaṃ pitāmaham upasthitam).
 </details>
 </details>
 
@@ -592,6 +714,12 @@ _________________
 
 जगत् के उन सभी प्राणियोंने वर देनेवाले देवदेवेश्वर प्रपितामह ब्रह्माजीसे कहा—‘भगवन्! समस्त लोकोंके संहारकी सम्भावनासे देवताओंपर भी भय और मोह छा गया है ॥ २२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They addressed the Lord of the lords of the gods, the boon-giving Great-Grandfather (uvāca deva-deveśaṃ varadaṃ prapitāmaham): “Great is the bewildered terror of the gods concerning the dissolution of the worlds (devānāṃ bhaya-sammoho lokānāṃ saṅkṣayaṃ prati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,6 +740,12 @@ _________________
 
 ‘देव! कहीं लोकोंका संहार तो नहीं होगा अथवा प्रलयकाल तो नहीं आ पहुँचा है? प्रपितामह! संसारकी ऐसी अवस्था न तो पहले कभी देखी गयी थी और न सुननेमें ही आयी थी’ ॥ २३ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Never before has anything like this been seen or heard, O Great-Grandfather (nedṛśaṃ dṛṣṭa-pūrvaṃ ca na śrutaṃ prapitāmaha); this bewildered terror of the gods concerns the destruction of the worlds (devānāṃ bhaya-sammoho lokānāṃ saṅkṣayaṃ prati)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -631,6 +765,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उनकी यह बात सुनकर देवताओंका भय दूर करनेवाले लोकपितामह ब्रह्माने प्रस्तुत भयका कारण बताते हुए कहा ॥ २४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of theirs (teṣāṃ tad vacanaṃ śrutvā), Brahmā, Grandfather of the worlds (brahmā loka-pitāmahaḥ), dispeller of the worlds’ fear (lokānām abhayaṅkaraḥ), explained the cause of their terror (bhaya-kāraṇam ācaṣṭa), and spoke in sweet accents: “Hearken, O all you gods (uvāca madhurāṃ vāṇīṃ śṛṇudhvaṃ sarva-devatāḥ)!”
 </details>
 </details>
 
@@ -654,6 +794,12 @@ _________________
 
 वे मधुर वाणीमें बोले—‘सम्पूर्ण देवताओ! मेरी बात सुनो । आज शत्रुघ्नने युद्धस्थलमें लवणासुरका वध करनेके लिये जो बाण हाथमें लिया है, उसीके तेजसे हम सब लोग मोहित हो रहे हैं । ये श्रेष्ठ देवता भी उसीसे घबराये हुए हैं ॥ २५ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For the slaying of Lavaṇa in battle, an arrow has been taken up by Śatrughna (vadhāya lavaṇasyājau śaraḥ śatrughna-dhāritaḥ); it is by its radiance that all of us are bewildered, O foremost of gods (tejasā tasya sammūḍhāḥ sarve smaḥ sura-sattamāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -673,6 +819,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘पुत्रो! यह तेजोमय सनातन बाण आदिपुरुष लोककर्ता भगवान् विष्णुका है । जिससे तुम्हें भय प्राप्त हुआ है ॥ २६ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is the eternal, fiery-natured arrow of the Primal Lord, the Maker of the worlds (eṣa pūrvasya devasya loka-kartuḥ sanātanaḥ śaras tejomayo vatsāḥ), O dear ones, from which this terror has indeed arisen (yena vai bhayam āgatam).
 </details>
 </details>
 
@@ -694,6 +846,12 @@ _________________
 
 ‘परमात्मा श्रीहरिने मधु और कैटभ—इन दोनों दैत्योंका वध करनेके लिये इस महान् बाणकी सृष्टि की थी ॥ २७ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This very great arrow was created by that great-souled one (eṣa vai ... mahāśaraḥ sṛṣṭo mahātmanā tena) on account of Kaiṭabha and Madhu (kaiṭabhasyārthe madhunaś ca), for the destruction of those two daityas (vadhārthe daityayos tayoḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -713,6 +871,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘एकमात्र भगवान् विष्णु ही इस तेजोमय बाणको जानते हैं; क्योंकि यह बाण साक्षात् परमात्मा विष्णुकी ही प्राचीन मूर्ति है ॥ २८ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Viṣṇu alone truly knows this fiery-natured arrow (eka eva prajānāti viṣṇus tejomayaṃ śaram); this very form is the primal body of that great-souled Viṣṇu (eṣā eva tanuḥ pūrvā viṣṇos tasya mahātmanaḥ)!
 </details>
 </details>
 
@@ -734,6 +898,12 @@ _________________
 
 ‘अब तुमलोग यहाँसे जाओ और श्रीरामचन्द्रजीके छोटे भाई महामनस्वी वीर शत्रुघ्नके हाथसे राक्षसप्रवर लवणासुरका वध होता देखो’ ॥ २९ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Go forth from here and behold (ito gacchata paśyadhvam) Lavaṇa, foremost of rākṣasas (lavaṇaṃ rākṣasottamam), being slain by the heroic, great-souled younger brother of Rāma (vadhyamānaṃ mahātmanā rāmānujena vīreṇa)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -753,6 +923,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 देवाधिदेव ब्रह्माजीका यह वचन सुनकर देवतालोग उस स्थानपर आये, जहाँ शत्रुघ्नजी और लवणासुर दोनोंका युद्ध हो रहा था ॥ ३० १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of the God of gods [Brahmā] (tasya te deva-devasya niśamya vacanaṃ surāḥ), those gods arrived at the spot where Śatrughna and Lavaṇa were both locked in battle (ājagmur yatra yudhyete śatrughna-lavaṇāv ubhau).
 </details>
 </details>
 
@@ -774,6 +950,12 @@ _________________
 
 शत्रुघ्नजीके द्वारा हाथमें लिये गये उस दिव्य बाणको सभी प्राणियोंने देखा । वह प्रलयकालके अग्निके समान प्रज्वलित हो रहा था ॥ ३१ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All beings beheld that arrow of celestial sheen, held in Śatrughna’s hand (taṃ śaraṃ divya-saṅkāśaṃ śatrughna-kara-dhāritam dadṛśuḥ sarva-bhūtāni), rising like the conflagration at the end of a cosmic age (yugāntāgnim ivotthitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -793,6 +975,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 आकाशको देवताओंसे भरा हुआ देख रघुकुलनन्दन शत्रुघ्नने बड़े जोरसे सिंहनाद करके लवणासुरकी ओर देखा ॥ ३२ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the sky filled with the gods (ākāśam āvṛtaṃ dṛṣṭvā devair hi), the delight of the Raghus uttered a mighty lion’s roar (raghunandanaḥ siṃha-nādaṃ bhṛśaṃ kṛtvā) and fixed his gaze once more upon his target [Lavaṇa] (dadarśa lakṣaṇaṃ punaḥ).
 </details>
 </details>
 
@@ -814,6 +1002,12 @@ _________________
 
 महात्मा शत्रुघ्नके पुनः ललकारनेपर लवणासुर क्रोधसे भर गया और फिर युद्धके लिये उनके सामने आया ॥ ३३ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Challenged once again by that great-souled Śatrughna (āhūtaś ca punas tena śatrughnena mahātmanā), Lavaṇa, consumed with wrath, stepped forward for combat (lavaṇaḥ krodha-saṃyukto yuddhāya samupasthitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -833,6 +1027,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तब धनुर्धरोंमें श्रेष्ठ शत्रुघ्नजीने अपने धनुषको कानतक खींचकर उस महाबाणको लवणासुरके विशाल वक्षःस्थलपर चलाया ॥ ३४ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Drawing that bow all the way back to his ear (ākarṇāt sa vikṛṣyātha tad dhanur), that foremost of archers (dhanvināṃ varaḥ) loosed that mighty arrow into Lavaṇa’s broad chest (taṃ mumoca mahā-bāṇaṃ lavaṇasya mahorasi); swiftly cleaving his chest open, it plunged straight into Rasātala (uras tasya vidāryāśu praviveśa rasātalam)!
 </details>
 </details>
 
@@ -856,6 +1056,14 @@ _________________
 
 वह देवपूजित दिव्य बाण तुरंत ही उस राक्षसके हृदयको विदीर्ण करके रसातलमें घुस गया तथा रसातलमें जाकर वह फिर तत्काल ही इक्ष्वाकुकुलनन्दन शत्रुघ्नजीके पास आ गया ॥ ३५-३६ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**35:** Having penetrated down to Rasātala (gatvā rasātalam), that divine arrow honored by the gods (divyaḥ śaro vibudha-pūjitaḥ) returned swiftly once more to the delight of the Ikṣvāku lineage (punar evāgamat tūrṇam ikṣvāku-kula-nandanam).
+
+**36:** Pierced through by Śatrughna’s arrow (śatrughna-śara-nirbhinnaḥ), that night-ranger Lavaṇa (lavaṇaḥ sa niśācaraḥ) crashed suddenly to the earth like a mountain struck by a thunderbolt (papāta sahasā bhūmau vajrāhata ivācalaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -876,6 +1084,12 @@ _________________
 
 शत्रुघ्नजीके बाणसे विदीर्ण होकर निशाचर लवण वज्रके मारे हुए पर्वतके समान सहसा पृथ्वीपर गिर पड़ा ॥ ३७ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And when the rākṣasa Lavaṇa was slain by him (tena hate lavaṇa-rākṣase), that mighty trident (tac ca śūlaṃ mahat), as all the gods looked on (paśyatāṃ sarva-devānām), passed back into the possession of Rudra (rudrasya vaśam anvagāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -895,6 +1109,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 लवणासुरके मारे जाते ही वह दिव्य एवं महान् शूल सब देवताओंके देखते-देखते भगवान् रुद्रके पास आ गया ॥ ३८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having utterly felled [him] with a single arrow-shot—even the terror of the three worlds (ekeṣu-pātena bhṛśaṃ nipātya loka-trayasyāpi)—that foremost hero of the Raghus (raghu-pravīraḥ), bearing his peerless bow and arrow, shone forth resplendently like the thousand-rayed sun after dispelling darkness (vinirbabhāv uttama-cāpa-bāṇas tamaḥ praṇudyeva sahasra-raśmiḥ).
 </details>
 </details>
 
@@ -919,6 +1139,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इस प्रकार उत्तम धनुष-बाण धारण करनेवाले रघुकुलके प्रमुख वीर शत्रुघ्न एक ही बाणके प्रहारसे तीनों लोकोंके भयको नष्ट करके उसी प्रकार सुशोभित हुए, जैसे त्रिभुवनका अन्धकार दूर करके सहस्रकिरणधारी सूर्यदेव प्रकाशित हो उठते हैं ॥ ३९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the gods, sages, and serpents, along with all the apsarases, paid him fervent homage (tato hi devā ṛṣi-pannagāś ca prapūjire hy apsarasaś ca sarvāḥ): “By good fortune has Daśaratha’s son won victory, casting off fear—and like a serpent, [Lavaṇa] has been laid to rest (diṣṭyā jayo dāśarather avāptas tyaktvā bhayaṃ sarpa iva praśāntaḥ)!”
 </details>
 </details>
 

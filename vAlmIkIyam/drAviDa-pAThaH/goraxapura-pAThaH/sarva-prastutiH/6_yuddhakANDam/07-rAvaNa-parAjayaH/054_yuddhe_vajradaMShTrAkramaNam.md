@@ -69,6 +69,12 @@ by the prowess; *aN^gadasya* = of Angada.
 The devastation of his army through Angada's prowess filled the mighty Vajradamstra
 with anger.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through the slaughter of his own army (svabalasya ca ghātena) and because of Aṅgada's might (aṅgadasya balena ca), the rākṣasa Vajradaṃṣṭra of mighty strength was filled with wrath (krodham āviṣṭaḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -109,6 +115,12 @@ monkeys.
 
 Stretching his terrific bow, like unto Indra's thunder bolt, he assailed the monkey
 battalions with a flood of arrows.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and drawing taut his dreadful bow (visphārya ca dhanur ghoram), whose splendor equaled Śakra's thunderbolt (śakrāśanisamaprabham), he strewed the Vānara ranks (vānarāṇām anīkāni) with showers of arrows.
 </details>
 </details>
 
@@ -155,6 +167,12 @@ chariots; *tadaa* = then; *praayudhyanta* = fought; *raNe* = in the battle;
 
 Then, the foremost of the demons mounted on chariots, fought the battle with every
 kind of weapon.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stationed upon their chariots (ratheṣu samavasthitāḥ), those principal rākṣasa heroes (rākṣasāś cāpi mukhyās te), wielding manifold weapons (nānāpraharaṇāḥ), fought fiercely in battle then.
 </details>
 </details>
 
@@ -204,6 +222,12 @@ fought; *shilaahastaaH* = with rocks in their hands.
 The monkeys, those valiant bulls among the Plavagas, assembling on all sides, fought
 with rocks.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And all those heroic bulls among leapers (plavagarṣabhāḥ) among the Vānaras (vānarāṇāṃ ca śūrās tu), assembling on every side with boulders in hand (śilāhastāḥ samavetāḥ), fought back.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +267,12 @@ hurled; *bhR^isham* = abundantly; *aayudha sahasraaNi* = thousands of weapons;
 
 Then in that battle there, the demons abundantly hurled thousands of weapons on the
 foremost of monkeys.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There in that renowned battle (tasminn āyodhane), the rākṣasas rained down thousands of weapons (āyudhasahasrāṇi) thick and fast (bhṛśam) upon the monkey chiefs (kapimukhyeṣu).
 </details>
 </details>
 
@@ -293,6 +323,12 @@ mighty prowess; *matta vaaraNa samnibhaaH* = resembling elephants in rut;
 The monkeys of mighty prowess, resembling elephants in rut, showered down giant
 trees and huge lumps of rock on the demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the foremost Vānara heroes (pravīrāḥ), resembling rutting elephants (mattavāraṇasaṃnibhāḥ), hurled mountain trees and huge boulders (girivṛkṣān mahāśilāḥ) down upon the rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,6 +375,12 @@ performing battle; *anivartinaam* = who never retreated; *samareSu* = in battle;
 Between those courageous warriors, the demons and the monkeys, who never retreated
 in battle, a tremendous struggle ensued.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That fierce battle raged on (suyuddhaṃ samavartata) between those heroic [Vānaras] fighting without ever retreating in combat (samareṣv anivartinām) and the rākṣasa troops (tad rākṣasagaṇānāṃ ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -366,6 +408,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कॆलवर तलॆ ऒडॆदुहोदुवु, कॆलवर कैकालु कळॆदुकॊण्डरु. अनेक योधर शरीरगळु शसगळिन्द घासिगॊण्डु रक्तदिन्द तॊय्दु होयितु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some had their heads split open (prabhinnaśirasaḥ), with severed feet and arms (chinnaiḥ pādaiś ca bāhubhiḥ), while others, their bodies mangled by weapons (śastrair arditadehāḥ), were drenched in blood (rudhireṇa samukṣitāḥ);
 </details>
 </details>
 
@@ -410,6 +458,12 @@ down; *samaashritaaH* = taking refuge; *gaam* = on the earth.
 Some monkeys and demons, with their shattered heads, but bereft of arms and legs,
 lay on the earth bathed in blood with their bodies wounded by weapons, a prey to herons vultures
 and crows or devoured by troops of jackals.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+monkeys and rākṣasas alike lay stretched upon the earth (śerate gāṃ samāśritāḥ), swarming with herons, vultures, and crows (kaṅkagṛdhrabalāḍhyāḥ) and thronged by packs of jackals (gomāyukulasaṃkulāḥ).
 </details>
 </details>
 
@@ -458,6 +512,12 @@ and their limbs hacked to pieces.
 Monkeys and demons fell on the battle-field; headless trunks leaps up to the terror
 of all the fearful, their limbs hacked to pieces in the combat.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Headless trunks (kabandhāni), terrifying to cowards (bhīrūṇāṃ bhīṣaṇāni), sprang up; and with arms, hands, and heads severed (bhujapāṇiśiraśchinnāḥ) and torsos cloven (chinnakāyāḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -500,6 +560,12 @@ Vajradamshtra; *pushyataH* = was witnessing.
 Thereafter, under the eyes of Vajradamshtra, all his army of demons were killed and
 broken up by the monkey-troops.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vānaras and rākṣasas fell there upon the ground. Then, as the night-stalker host (niśācaram) was being struck down by the Vānara army (vānarasainyena hanyamānam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -524,6 +590,12 @@ broken up by the monkey-troops.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वानरर एटिनिन्द भयगॊण्ड राक्षसरन्नु नोडि, प्रतापि वज्रदंष्ट्रन कण्णुगळु क्रोधदिन्द कॆम्पादवु.॥12½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+that entire force broke and fled (prābhajyata balaṃ sarvam) while Vajradaṃṣṭra looked on (vajradaṃṣṭrasya paśyataḥ). [Beholding] the rākṣasas terrified with fear and being slaughtered by the leapers,
 </details>
 </details>
 
@@ -567,6 +639,12 @@ monkeys; *traasayan* = frightening them.
 Seeing the demons terrified with fear and decimated by the monkeys, that powerful
 Vajradamshtra, his eyes red with anger, bow in hand, penetrated the army of monkeys, sowing panic
 among them.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing [them routed], the mighty Vajradaṃṣṭra, his eyes copper-red with fury (roṣatāmrākṣaḥ), plunged into the fray bow in hand (praviveśa dhanuṣpāṇiḥ), terrifying the monkey host (trāsayan harivāhinīm).
 </details>
 </details>
 
@@ -618,6 +696,12 @@ Thereafter, in his fury, the vigorous Vajradamshtra dispatched those monkeys wit
 arrows resembling wings of an eagle that flew straight to their target and pierced seven, eight,
 nine or five of his opponents simultaneously, thus destroying them.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With straight-flying arrows fletched with heron feathers (śarair ... kaṅkapatrair ajihmagaiḥ), he tore the Vānaras apart, piercing seven, eight, nine, and five at a time (saptāṣṭau nava pañca ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -658,6 +742,12 @@ iva* = as creatures; *prajaapati* = towards Brahma the Lord of creation.
 With their limbs crippled by those arrows and frightened, those monkey battalions
 sought refuge with Angada, as all creatures with Brahma the Lord of Creation.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Supremely enraged, the mighty Vajradaṃṣṭra pierced them. Terrified, with their bodies gashed by arrows (śaraiḥ saṃkṛttadehinaḥ), all the monkey troops ran to Aṅgada for refuge, like creatures fleeing to Prajāpati (prajāpatim iva prajāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -697,6 +787,12 @@ Vajradamshtra; *udiikSantam* = who was seeing; *krodhena* = with anger.
 
 When he beheld those monkey troops fleeing in disorder, Angada the son Vali
 exchanged glances of hatred with Vajradamshtra.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the monkey troops broken then (harigaṇān bhagnān dṛṣṭvā), Vālin's son [Aṅgada] glared in wrath at Vajradaṃṣṭra, who was glaring back at him (tam udīkṣantam udaikṣata).
 </details>
 </details>
 
@@ -744,6 +840,12 @@ and strolled; *paramakruddhau* = in a tremendous fury.
 Both Vajradamshtra and Angada fought against each other like a lion and an elephant
 in rut. They strolled din a tremendous fury.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Both Vajradaṃṣṭra and Aṅgada fought each other with intense fury (yoyudhyete parasparam); supremely enraged, the two maneuvered like a lion and a rutting elephant (harimattagajāv iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -783,6 +885,12 @@ shikhopamaiH* = resembling a hundred thousand flames of fire.
 
 Thereafter, that Vajradamshtra knocked the mighty Angada at his vital organs with
 his arrows resembling hundred thousand flames of fire.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then with a hundred thousand arrows resembling tongues of fire (śarair agniśikhopamaiḥ), [Vajradaṃṣṭra] struck that mighty son of the monkey king in his vital spots (marmadeśeṣu).
 </details>
 </details>
 
@@ -829,6 +937,12 @@ a terrific prowess; *chikSepa* = thre; *vR^ikSam* = a tree; *vajradamSTraaya*
 
 With all his limbs drenched in blood, the mighty Angada having a terrific prowess
 threw a tree on Vajradamshtra.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With all his limbs drenched in blood (rudhirokṣitasarvāṅgaḥ), Vālin's son of mighty strength and terrible prowess (bhīmaparākramaḥ) hurled a tree at Vajradaṃṣṭra (cikṣepa vajradaṃṣṭrāya vṛkṣam).
 </details>
 </details>
 
@@ -877,6 +991,12 @@ ground.
 That unperplexed demon, seeing that tree falling on him, cut it into innumerable
 pieces which fell in heaps on earth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing that tree hurtling toward him (patantaṃ taṃ vṛkṣam), the unperturbed rākṣasa (asambhrāntaś ca rākṣasaḥ) severed it into many pieces (ciccheda bahudhā); and splintered, it fell to the ground.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -916,6 +1036,12 @@ monkeys; *pragR^ihya* = taking; *vipulam* = a large; *shailam* = mountain;
 
 Witnessing the strength of Vajradamshtra, Angada that lion among the monkeys seized
 hold of a large rock and emitting a shout, threw it on him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that feat of valor by Vajradaṃṣṭra (vajradaṃṣṭrasya vikramam), that bull among leapers (plavagarṣabhaḥ) seized a massive crag (vipulaṃ śailam), hurled it, and roared aloud.
 </details>
 </details>
 
@@ -958,6 +1084,12 @@ stood (there); *pR^ithivyaam* = on the battle-field.
 As the rock descended, that vigorous Vajradamshtra leaping down from his chariot,
 armed with his mace, stood waiting unperplexed, on the battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing it hurtling toward him (tam āpatantaṃ dṛṣṭvā), the valiant demon leaped from his chariot (rathād āplutya) and, mace in hand (gadāpāṇiḥ), stood unperturbed upon the earth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -998,6 +1130,12 @@ kuubaram* = with its wheels; shafts; *saashvam* = together with horses.
 Meanwhile, the rock thrown by Angada, falling into the forefront of the battle, then
 crushed the chariot with its wheels shafts and horses
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speeding to the forefront of battle (gatvā tu raṇamūrdhani), the boulder hurled by Aṅgada (aṅgadena śilā kṣiptā) crushed the chariot along with its wheels, pole, and steeds (sacakrakūbaraṃ sāśvam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1037,6 +1175,12 @@ threw; *shirasi* = on the head; *vajradamSTrasya* = of Vajradamshtra.
 
 Thereafter, Angada the monkey, seizing another large peak of a mountain adorned with
 trees, threw it on Vajradamshtra's head.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, seizing another massive peak crowned with trees (anyac chikharaṃ ... drumabhūṣitam), the Vānara brought it crashing down upon Vajradaṃṣṭra's head (vajradaṃṣṭrasya śirasi).
 </details>
 </details>
 
@@ -1087,6 +1231,12 @@ became; *muuDhaH* = unconscious; *muhuurtam* = for a moment.
 Beginning to vomit blood, Vajradamshtra became fainted, clenching his mace
 convulsively and breathing heavily for a moment.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vomiting blood (śoṇitodgārī) and deeply stunned (sumūrcchitaḥ), Vajradaṃṣṭra grew stupefied for a moment (muhūrtam abhavan mūḍhaḥ), clinging to his mace and gasping for breath (gadām āliṅgya niḥśvasan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1136,6 +1286,12 @@ standing there; *vakSodeshe* = on his chest area; *gadayaa* = with his mace.
 Regaining his consciousness, Vajradamshtra the demon was very much enraged and hit
 Angada full on the chest with his mace.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Regaining consciousness (sa labdhasaṃjñaḥ), that supremely enraged night-stalker struck Vālin's son squarely on the chest (vakṣodeśe) with his mace as he stood firm (avasthitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1175,6 +1331,12 @@ monkey and demon; *jaghnatuH* = hit; *anyonyan* = each other.
 
 Leaving his mace, he performed a pugilistic encounter there. Both the monkey and the
 demon thus hit each other in that combat.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Casting aside the mace there (gadāṃ tyaktvā tatas tatra), they engaged in a fistfight (muṣṭiyuddham akurvata); both the monkey and the rākṣasa battered one another there (anyonyaṃ jaghnatus tatra).
 </details>
 </details>
 
@@ -1221,6 +1383,12 @@ Mercury.
 
 Exhausted by the blows, spitting blood, those valiant warriors were like the planets
 Mars and Mercury.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vomiting blood (rudhirodgāriṇau) and exhausted by blows (prahārair janitaśramau), those two heroes of noble stride (suvikrāntau) shone like the planets Mars and Mercury (aṅgārakabudhāv iva).
 </details>
 </details>
 
@@ -1271,6 +1439,12 @@ with many flowers and fruits; *sthitavaan* = stood waiting.
 Then, Angada the lion among the monkeys, possessing a great splendour, uprooted a
 tree full with many flowers and fruits and stood waiting.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the supremely fiery Aṅgada, that bull among leapers (plavagarṣabhaḥ), uprooted a tree (utpāṭya vṛkṣam) and stood firm, decked with its blossoms and fruits (āsīt puṣpaphalair yutaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1318,6 +1492,12 @@ bells.
 The demon too seized hold of a shield covered with the hide of a bull as well as a
 great beautiful sword decorated richly with a multitude of golden bells.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And [he] seized a bull-hide shield (ārṣabhaṃ carma), decked with a network of little bells (kiṅkiṇījālasaṃchannam), and a broad, gleaming sword (khaḍgaṃ ca vipulaṃ śubham) furnished with a leather scabbard (carmaṇā ca pariṣkṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1363,6 +1543,12 @@ monkeys and the demons; *nardantau* = making roaring sounds; *tadaa* = then;
 
 Thirsting for victory, the monkeys and the demons, making roaring sounds, roamed
 about in different ways and collided with each other.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkey and the rākṣasa executed wondrous and graceful sword-maneuvers (citrāṃś ca rucirān mārgāṃś ceratuḥ); roaring and eager for victory (nardantau jayakāṅkṣiṇau), they struck at one another then.
 </details>
 </details>
 
@@ -1411,6 +1597,12 @@ exhausted they were; *gatau* = (they) sank; *jaanubhyaam* = their knees;
 With their gaping wounds, they shone like a pair of kimshuka trees in blossom.
 Exhausted were both of them while fighting and they sank their knees on the earth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With their bleeding wounds (vraṇaiḥ sāsraiḥ), the two shone like two blossoming kiṃśuka trees (puṣpitāv iva kiṃśukau); exhausted as they fought (yudhyamānau pariśrāntau), both sank to the earth upon their knees (jānubhyām avanīṃ gatau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1457,6 +1649,12 @@ glittering eyes; *udatiSThata* = rose up; *uragaH iva* = like a serpent;
 Angada, the foremost of the monkeys, just after a moment, with his glittering eyes,
 rose up like a serpent struck with a stick.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Within the mere blink of an eye (nimeṣāntaramātreṇa), Aṅgada, that elephant among monkeys (kapikuñjaraḥ), sprang back up with blazing eyes (udatiṣṭhata dīptākṣaḥ), like a serpent struck with a staff (daṇḍāhata ivoragaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1496,6 +1694,12 @@ well-sharpened; *nirmalena* = and stainless.
 
 The mighty Angada assaulted the giant head of Vajradamshtra with a well-sharpened
 and stainless sword.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With a spotless, well-burnished sword (nirmalena sudhautena khaḍgena), Vālin's son of mighty strength (vālisūnur mahābalaḥ) lopped off the massive head of this Vajradaṃṣṭra (asya mahac chiraḥ jaghāna).
 </details>
 </details>
 
@@ -1537,6 +1741,12 @@ his eyes rolling; *babhuuva patitam* = fell; *dvidhaa* = into two pieces.
 Struck by the sword, that charming head of Vajradamshtra, with his limbs drenched in
 blood and eyes rolling, fell into two pieces.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And that comely, sword-severed head (śubhaṃ khaḍgahataṃ śiraḥ) of that demon whose limbs were drenched in blood (rudhirokṣitagātrasya), its eyes rolling (parītākṣam), fell cloven in two (babhūva patitaṃ dvidhā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1567,6 +1777,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वज्रदंष्ट्रनु सत्तु होदुदन्नु नोडिद राक्षसरु भयदिन्द निश्चेष्टितरादरु. अवरु वानरर एटु तिन्दु भयदिन्द लङ्कॆगॆ ओडिहोदरु. अवरु विषाद ग्रस्तरागिद्दरु. अवरु दुःखितरागि नाचिकॆयिन्द कॆळ मोरॆ हाकिद्दरु.॥36॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Vajradaṃṣṭra slain (vajradaṃṣṭraṃ hataṃ dṛṣṭvā), the rākṣasas, bewildered with fear (bhayamohitāḥ) and terrified, fled toward Laṅkā as they were cut down by the leapers—downcast in face, wretched, and hanging their heads slightly in shame (hriyā kiṃcid avāṅmukhāḥ).
 </details>
 </details>
 
@@ -1625,6 +1841,12 @@ in shame.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तनाल्कनॆय सर्ग पूर्णवायितु.॥54॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain him, that mighty and glorious son of Vālin, equal in valor to the Thunderbolt-Wielder [Indra] (vajradharapratāpaḥ), rejoiced in the midst of the monkey army, honored like the Thousand-Eyed [Indra] surrounded by the thirty gods (sahasranetras tridaśair ivāvṛtaḥ).
 </details>
 </details>
 

@@ -72,6 +72,12 @@ _________________
 Rama spoke to Lakshmana while residing on the mountainside of Mt. Malayavata, also known as Mt. Prasavana, ensuing
 the elimination of Vali and enthronement of Sugreeva. [3-28-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having then slain Vālin and consecrated Sugrīva, Rāma, dwelling upon the ridge of Mount Mālyavat (mālyavataḥ pṛṣṭhe), spoke to Lakṣmaṇa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ the elimination of Vali and enthronement of Sugreeva. [3-28-1]
 
 "This is that time of which we thought and it has come to pass. Now it is rainy season. You see the sky fully
 covered with mountainous clouds. [3-28-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This appointed season (kālaḥ), the time of the arrival of the rains (jalāgamaḥ samayaḥ), has now arrived; behold the sky (nabhaḥ) overcast with mountain-like clouds!
 </details>
 </details>
 
@@ -183,6 +195,12 @@ It is an extract of six *rasa-s* elixirs, for the utilisation of various crops.
 nava maasa dhR^itam sasyaanaam ShaD rasa sampatti hetu bhuutam shuddham udakam shraavaNe maasi muncati it suucitam
 -- dharmaakuutam*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having drunk the water (rasam) of the oceans through the rays of the sun (bhāskarasya gabhastibhiḥ), the sky brings forth as its elixir (rasāyanam) the embryo borne for nine months (navamāsadhṛtaṃ garbham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -239,6 +257,12 @@ To do so a wife must be at his side *sa patnyaa vishaalaakshyaa naaraayanam upaa
 'adore that Narayana along with your wife...' and now if Rama were to adore that Supreme, Seetha is
 not at his side. Govindaraja.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ascending the firmament by the stairways of the clouds (meghasopānapaṅktibhiḥ), it is possible to adorn the sun (divākaraḥ) with garlands of kuṭaja and arjuna blossoms.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -289,6 +313,12 @@ cloth bandaged on the gashes of sky. [3-28-5]
 
 The sky's parturition in the form of rain is just over and she is bandaged with cotton-like whitish and softish
 clouds, while the colour of spilt blood is still appearing on those dressings borrowed from the colour of sunset.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With smooth strips of cloud-cloth (abhrapaṭacchedaiḥ) coppery from the rising twilight glow (saṃdhyārāgotthitaiḥ) and pale at their borders, the sky looks as though its wound were bandaged (baddhavraṇam iva).
 </details>
 </details>
 
@@ -343,6 +373,12 @@ appears like the one sighing for love. [3-28-6]
 
 The birthing of rain is over and to give next birth to next rain, the sky is ready as a wooable female with sighs
 and daubing of sandal pastes to cool off her yearning for love.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having the gentle breeze for its sighs (mandamārutiniḥśvāsam), smeared with the sandal-paste of twilight (saṃdhyācandanarañjitam), and pale with clouds (āpāṇḍujaladam), the sky shines like one afflicted by love (kāmāturam iva).”
 </details>
 </details>
 
@@ -399,6 +435,12 @@ The earth that becomes heated in summer vents out hot vapours on the fall of fir
 heat. The first act of humans to vent out agony is to shed tears. Now the earth is shedding humid tears and she
 is like Seetha who is also in the same predicament of earth, as the heat called the atrocity of Ravana sears Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Scorched by the summer heat (gharmaparikliṣṭā) and drenched with fresh rainwater (navavāripariplutā), this earth (mahī) releases rising vapor (bāṣpam), just as Sītā, tormented by grief (śokasaṃtaptā), sheds tears.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -444,6 +486,12 @@ coolness of; *ketaki gandhinaH* = Ketaki plant [Pandanus odora tissimus, Mogra,]
 
 "Freed from the wombs of clouds, cool as the leaves of minty-camphor, perfumed with the fragrance of Mogra plants,
 such as these breezes are it is possible to have a draught of them with the bowl of palms. [3-28-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Released from the bellies of the clouds (meghodaravinirmuktāḥ), cool as camphor-petals (karpūradalaśītalāḥ), and fragrant with ketaka blossoms (ketakagandhinaḥ), the breezes can almost be drunk with cupped palms (añjalibhiḥ pātum).
 </details>
 </details>
 
@@ -498,6 +546,12 @@ Sugreeva. It is further fragranced with Ketaka flowers, like the fragrant items 
 As with Sugreeva who after silencing his enemy Vali is anointed on time with the pouring down of all kinds of
 waters from golden flasks, this is mountain after silencing its enemy called sun-sear, is also being anointed
 by rainy downpours.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This mountain with blossoming arjuna trees (phullārjunaḥ śailaḥ), perfumed by ketaka flowers, is consecrated by rain-streams (dhārābhir abhiṣicyate) like Sugrīva with his foe quelled (śāntāriḥ).
 </details>
 </details>
 
@@ -565,6 +619,12 @@ of Veda-s, voicing out their chanting like the hum of the air in caves.
 *atra parvataanaam kR^iShNa ajina yaj~nopaviita aadi dharma kalpena adhyetR^iu saadR^ishya pratipaadanaat adhyetR^iuuNaam
 brahmacaariNaam kR^iShNa ajina yaj~nopaviita aadi dhaaraNam dharma iti uktam - dk.*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wearing dark deerskins of clouds (meghakṛṣṇājinadharāḥ), sacred threads of rain-streams (dhārāyajñopavītinaḥ), and caves resonant with wind (mārutāpūritaguhāḥ), the mountains look like students who have commenced Vedic recitation (prādhītā iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -614,6 +674,12 @@ having - internally suffering with them.
 "While the flashes of lightning are whipping the sky as if they are the golden whips, it is letting out rattle
 of thunders holding out against its inly throes. [3-28-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lashed all over by lightning-flashes (vidyudbhir abhitāḍitam) as if by golden whips (kaśābhir iva haimībhiḥ), the sky, with its inner rumble of thunder (antaḥstanitanirghoṣam), seems to groan in pain (savedanam iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -662,6 +728,12 @@ _________________
 "That lightning hingeing on the blue cloud is squirmy, to me it appears like woeful Vaidehi squirming in the grasp
 of Ravana. [3-28-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lightning flashing (vidyut sphurantī) against the dark cloud (nīlameghāśritā) appears to me like poor Vaidehī (vaidehīva tapasvinī) struggling upon Rāvaṇa's lap (rāvaṇasyāṅke).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -708,6 +780,12 @@ as though.
 "For those who are with their beloveds these precincts are advantageous, as their directions, as to which east
 and which is west, are unclear; and to loverless ones like me they are disadvantageous, because the same precincts
 have their planets and even their moon lost, and they look as though begrimed with dark-clouds. [3-28-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“These quarters of the sky (diśaḥ), dear to those possessed by love (manmathavatāṃ hitāḥ), are obscured (pratihatāḥ), as though smeared with clouds (anuliptā iva ghanaiḥ), their planets and moon vanished (naṣṭagrahaniśākarāḥ).
 </details>
 </details>
 
@@ -772,6 +850,12 @@ While some natural beings are enthused to take delight in the process of nature,
 *brahma anubhava santuSTha*, or
 Supreme Self, some others are refuting it. Thus my passion is increasing to bring back those perverts onto correct
 path.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold, O Saumitri, upon the mountain plateaus (girisānuṣu), the blossoming kuṭaja trees (kuṭajān puṣpitān), enveloped here and there in rising vapor (bāṣpābhisaṃruddhān) and eager at the arrival of the rains—standing there to inflame the desire (kāmasaṃdīpanān) of me who am overwhelmed by grief!
 </details>
 </details>
 
@@ -847,6 +931,12 @@ returning to their own country, quarters, or abode, *pravaasino... sva deshaan*.
 place *sva desha* is *vaikunTha*. Thus the divine rain blesses them with
 salvation.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The dust has settled (rajaḥ praśāntam), the wind today is cool with mist (sahimo'dya vāyuḥ), and the afflictions of summer heat (nidāghadoṣaprasarāḥ) have subsided; the campaigns of kings (vasudhādhipānāṃ yātrāḥ) have halted, and travelers abroad (pravāsinaḥ) return to their homelands.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -917,6 +1007,12 @@ here as 'together with their lovers'. Contrarily, those ruddy gees bound by atta
 away, but they will stick to their worldly interests. Thus, this rainy season is sagely, to enable
 the seekers to seek the Supreme, without any bickerings due from the world.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eager to dwell at Lake Mānasa (mānasavāsalubdhāḥ), the cakravāka birds have now set forth accompanied by their mates (priyānvitāḥ); vehicles (yānāni) no longer travel along roads gullied by incessant rain-waters (abhīkṣṇavarṣodakavikṣateṣu mārgeṣu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -977,6 +1073,12 @@ The sky, or heaven, is also called Supreme Being, according to the saying
 apparently shiny at places where the clouds of ignorance are not hovering on the minds of the discerners, and
 it is unshiny and unapparent at other places because of the gloom in the mind of the beholder about the disposition
 of that sky, or Supreme Being.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bright in some places and dark in others (kvacit prakāśaṃ kvacid aprakāśam), the sky overspread with clouds (prakīrṇāmbudharam) shines here and there, hemmed in by mountains (parvatasaṃniruddham), like the form of the tranquil ocean (śāntamahārṇavasya).
 </details>
 </details>
 
@@ -1043,6 +1145,12 @@ evident. Apart from these two, there are some simple devotees. They do not have 
 values/purposes in view, except to extol, praise, and sing for the Ultimate. Thus, the screaming
 and screeching peacocks indicate such simple devotees. Govindaraja.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The mountain rivers (śailāpagāḥ) swiftly carry down fresh water (navaṃ jalam) mingled with sarja and kadamba blossoms, coppery with mountain minerals (parvatadhātutāmram), and accompanied by the cries of peacocks (mayūrakekābhir anuprayātam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1105,6 +1213,12 @@ has a medicinal property in this rainy season. And though mango is a rich fruit 
 it. So it is not picked now. Thus it is becoming a wasted fruit. Fruits of actions are therefore according to
 actions but not according to their richness or otherwise.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rich with juice (rasākulam) and black as a bee (ṣaṭpadasaṃnikāśam), the jambu fruit is relished to heart's content (prabhujyate prakāmam); shaken down by the wind (pavanāvadhūtam), the fully ripe mango fruit of variegated hue (anekavarṇaṃ vipakvam āmraphalam) falls to the ground.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1165,6 +1279,12 @@ like invigorated lordly elephants standing up to a fight. [3-28-20]
 The towering mountains, or the haughty elephants stand tall among all, and their thunderous grumblings are akin
 to the rumblings of Vedic scholars who stand tall to establish Vedic tenets, though they come to fistfights with
 opponents.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With lightning for their banners (vidyutpatākāḥ), garlands of cranes (sabalākamālāḥ), and forms resembling the peaks of lordly mountains (śailendrakūṭākṛtisaṃnikāśāḥ), the clouds thunder with upraised roars (samudīrṇanādāḥ) like rutting king-elephants standing in battle (mattā gajendrā iva saṃyugasthāḥ).
 </details>
 </details>
 
@@ -1227,6 +1347,12 @@ couple in the form of rain, that which is sprinkled on that garden, the desires 
 and their means are fulfilled. Govindaraja. The *aparaahNa* is the fourth part of daytime,
 among the five, and they are: *praataH, sangavaH, madhyaahna, aparaahNa, saayaahna *early
 morning, morning, noon, afternoon, and evening.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold how the forests (vanāni), their green lawns nourished by rain-water (varṣodakāpyāyitaśādvalāni), their peacocks engaged in the festival of dancing (pravṛttanṛttotsavabarhiṇāni), and their clouds having spent their showers (nirvṛṣṭabalāhakāni), shine all the more in the afternoons (aparāhṇeṣu)!
 </details>
 </details>
 
@@ -1293,6 +1419,12 @@ they journey further towards total salvation. A pregnant woman also moves haltin
 The clouds are pregnant not only by the weighty water but also by carrying the weight of cranes. The cranes fly
 high up to the clouds to mate. Thus, the clouds are loaded down with their own water and even with the flying
 cranes, both trying to carry the seed, the Supreme Being, in their wombs.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bearing an immense load of water (salilātibhāram), the roaring rain-clouds accompanied by cranes (balākino vāridharā nadantaḥ) rest again and again (viśramya viśramya) upon the lofty peaks of the mountains (mahatsu śṛṅgeṣu mahīdharāṇām) and march onward once more.
 </details>
 </details>
 
@@ -1361,6 +1493,12 @@ flying up above the normal planes to merge into that unknown, dark, or obscured 
 Supreme, whose body colour is said to be 'blue' or 'blue-black' *kaala megha shyaama, niila megha shyaama* like
 that of the colourless sky.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+amorously yearning for the clouds (meghābhikāmā) and flying all around in joy (parisaṃpatantī saṃmoditā), the row of cranes (balākapaṅktiḥ) shines like a long garland of choice white lotuses (varapauṇḍarīkī lambeva mālā) shaken by the wind across the radiant sky (rucirāmbarasya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1420,6 +1558,12 @@ shining forth as if she is a woman wearing a parrot-green wraparound on which la
 It is usual for the insects to swarm on the new pasturelands by which the earth is appearing to be wearing a parrot-green
 colour sari embroidered with exotic red spots. The red colour is indicative of mercy of Supreme Being appearing
 opportunely, and the green pastures are His fertile kindness that reveal after humanly suffering, say summer heat.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With its fresh green turf (navaśādvalena) variegated in between by young scarlet indragopa insects (bālendragopāntaracitritena), the earth shines like a woman (nārīva) clad in a parrot-bright blanket sprinkled with red lac (śukaprabheṇa lākṣokṣitakambalena) clinging to her limbs.”
 </details>
 </details>
 
@@ -1500,6 +1644,12 @@ Further he quotes from Kalidasa's *megha sandesha* :
 paricayaan nuunam aabaddha maalaaH | sevante nayana subhagam khe bhavantam balaakaaH ||
 meghasandesha*.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Slumber gently approaches Keśava (nidrā śanaiḥ keśavam abhyupaiti), the river swiftly approaches the ocean (sāgaram abhyupaiti), the joyful crane approaches the cloud (ghanam abhyupaiti), and the amorously longing beloved approaches her lover (priyam abhyupaiti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1560,6 +1710,12 @@ in sensualities, adaptive; *mahii sasya vana abhiraamaa* = earth, with crops, or
 to their branches and bouquets, bulls with matching sensualities became adaptive to cows, and adaptive is this
 earth with its enrapturing crops and orchards, and all are adaptive to the season's gaiety. [3-28-26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The forest glades have become arenas of graceful peacock-dancing (śikhisupranṛttāḥ), the kadamba trees have put forth branches laden with kadamba blossoms (sakadambaśākhāḥ), bulls share equal desire among the kine (goṣu samānakāmāḥ), and the earth has grown lovely with crops and woods (sasyavanābhirāmā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1618,6 +1774,12 @@ are speculating, and peacocks are rocking, monkeys are resolving to stay at one 
 
 The monkeys have resolved to stay at one place without hopping hither and thither as the fruits for them are abundant
 at any one place.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rivers flow, clouds rain, rutting elephants trumpet, forest regions shine, men bereft of their beloveds brood (priyāvihīnāḥ dhyāyanti), peacocks dance, and monkeys take comfort (plavaṃgamāḥ samāśvasanti).
 </details>
 </details>
 
@@ -1686,6 +1848,12 @@ those sounds are from an attacking elephant, thus they are giving out their chal
 are also screaming at the same sounds of rapids thinking them to be rainfall, as they welcome the rainfall to
 start dancing in the rain.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted upon inhaling the fragrance of ketakī blossoms (ketakipuṣpagandham āghrāya) and excited by the roar of cascading waterfalls (prapātaśabdākulitāḥ), rutting king-elephants (mattā gajendrāḥ) in the forest torrents trumpet in rapture together with the peacocks (sārdhaṃ mayūraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1741,6 +1909,12 @@ madam* = intemperance; *shanaiH tyajanti* = slowly, forfeiting.
 are slowly forfeiting the intemperance which they acquired in a trice by plunging themselves into the nectar of
 flowers. [3-28-29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Buffeted by falling rain-streams (dhārānipātair abhihanyamānāḥ) and clinging to the branches of kadamba trees (kadambaśākhāsu vilambamānāḥ), the six-footed bees (ṣaṭcaraṇāḥ) slowly shed the intoxication (madam) won in an instant and steeped in flower-nectar (puṣparasāvagāḍham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1794,6 +1968,12 @@ shining forth.
 
 "Rose-apple trees contain abundant fruits with profuse juice which look like the globated coal powder, with them
 the branches of those trees shine forth as though swilled by hives of honeybees. [3-28-30]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With abundant fruits rich in ample juice (suparyāptarasaiḥ samṛddhaiḥ) resembling heaps of charcoal dust (aṅgāracūrṇotkarasaṃnikāśaiḥ), the branches of the jambū trees shine forth as though being drunk up by swarms of bees (nipīyamānā iva ṣaṭpadaughaiḥ).”
 </details>
 </details>
 
@@ -1852,6 +2032,12 @@ iva* = elephants, [vanara-s,] like; *vi bhaanti* = verily, shining.
 
 "Ornamented with the flags of lightning, and that have whooping, profound and blaring booms, those clouds by their
 appearances are verily shining forth like the elephants enthusiastic for a war. [3-28-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Adorned with lightning-flashes for their banners (taḍitpatākābhir alaṃkṛtānām) and uttering upraised, deep, mighty roars (udīrṇagambhīramahāravāṇām), the forms of the clouds (balāhakānāṃ rūpāṇi) shine like war-elephants eager for battle (raṇotsukānām iva vāraṇānām).
 </details>
 </details>
 
@@ -1919,6 +2105,12 @@ The 'warring elephant' is indicative of Vedic proponent, where any such scholar 
 challenge of his opponent, he will re-echo the same in order to retain his stand in the war of blaring words.
 Thus, he takes an elephantine U-turn to colloid headlong with his opponent to establish the Vedic dharma.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Following his path through the mountain woods (mārgānugaḥ śailavanānusārī), a rutting king-elephant who had set forth (saṃprasthito matto gajendraḥ), hearing the roar of a cloud (megharavaṃ niśamya) and suspecting a rival tusker's counter-roar (pratinādaśaṅkī), has turned back eager for combat (yuddhābhikāmaḥ pratisaṃnivṛttaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1974,6 +2166,12 @@ else, with elephants, lordly, highly, excited, as if; *vi bhaati* = verily, beam
 they are richly dancing, practically, as the purple-necked peacocks are bestirring; somewhere else, they are highly
 excited, virtually, as lordly elephants are highly excited, thus the interiors of forests are beaming forth as
 retreats to many bees, birds and animals. [3-28-33]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As though singing in some places through swarms of bees (kvacit pragītā iva ṣaṭpadaughaiḥ), dancing in some places through blue-necked peacocks (pranṛttā iva nīlakaṇṭhaiḥ), and reeling in intoxication in others through lordly elephants (pramattā iva vāraṇendraiḥ), the forest regions shine endowed with manifold moods (anekāśrayiṇo vanāntāḥ).
 </details>
 </details>
 
@@ -2037,6 +2235,12 @@ to wear flowery garlands and flowery armlets and they used to drink in the pinki
 served mostly like the present day 'use and throw' plastic mugs. The screaming and dancing of nectar-drunk peacocks
 is metaphoric with the liquor-drunk boozers, or, say cabaret artists, and the land itself is boozy.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rich in kadamba, sarja, arjuna, and kandala blossoms, filled with sweet water (madhuvāripūrṇā), and alive with the passionate cries and dances of intoxicated peacocks (mayūramattābhirutapranṛttaiḥ), the woodland floor shines like a festive drinking-ground (āpānabhūmipratimā vibhāti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2097,6 +2301,12 @@ same water. [3-28-35]
 Indra is the administrative authority to accord rain through the presiding deity of Rain, namely varuNa, the Rain-God.
 So also, all the other aspects of nature like air, fire, thunders, thunderbolts, crops, famines, earthquakes,
 and the whole of natural happenings are at Indra's behest.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted and thirsty birds with discolored wings (vivarṇacchadanā vihaṃgāḥ) drink the peerlessly pure, pearl-bright water (muktāsamābhaṃ sunirmalaṃ salilam) bestowed by Indra (surendradattam) as it falls and clings to the cups of leaves (patrapuṭeṣu lagnam).
 </details>
 </details>
 
@@ -2175,6 +2385,12 @@ with music for it is rendered as singable poetry:
 *tathaa ca bhagavataa vaalmiiki maharShiNaa svasya parama puruSha ruupa abhidhyaana artham giiti ruupam raama caritam
 varNitam | gaana arthatayaa raama nikaTe kusha lavayoH preShaNam tu*.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With the sweet melody of bee-lute strings (ṣaṭpādatantrīmadhurābhidhānam), vocal time-keeping uttered by frogs (plavaṃgamodīritakaṇṭhatālam), and rhythm manifested by the drum-beats of the clouds (meghamṛdaṅganādaiḥ), a musical concert seems to have commenced in the woods (vaneṣu saṃgītam iva pravṛttam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2228,6 +2444,12 @@ as though.
 "Somewhere dancing well, elsewhere voicing in high pitch, and somewhere else seated high on the trees are the
 peacocks with plumaged tails as their dangling decorations, and it appears as the music and dance have commenced
 in the forests as programmed. [3-28-37]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through peacocks with trailing tail-plumes for ornaments (vyālambabarhābharaṇair mayūraiḥ)—dancing in some places (kvacit pranṛttaiḥ), calling aloud in some (kvacid unnadadbhiḥ), and perched atop tree-crowns in others (vṛkṣāgraniṣaṇṇakāyaiḥ)—a musical performance seems to have begun in the woods (vaneṣu saṃgītam iva pravṛttam).
 </details>
 </details>
 
@@ -2305,6 +2527,12 @@ casts, carves, colours and crocks are crocking scourged heavily by the streams o
 Frogs are the foretellers of rain and they quickly respond to the rainfall because they cherish water and land
 alike, as amphibians, for their happy dwelling.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awakened by the roars of the clouds (svanair ghanānāṃ prabuddhāḥ) and casting off their long-pent-up slumber (vihāya nidrāṃ cirasaṃniruddhām), the frogs (plavagāḥ) of manifold forms, shapes, colors, and cries (anekarūpākṛtivarṇanādāḥ) croak as they are struck by streams of fresh rainwater (navāmbudhārābhihatā nadanti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2374,6 +2602,12 @@ These girls called rivers are rushing towards their beloveds carrying flowers an
 like those girls that rush heaving their new breasts, uncaring for the elders of the house, or others in society
 around them, as though their lust is overflowing the brims of riverbanks, called the society.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bearing aloft cakravāka birds on their floods (samudvāhitacakravākāḥ) and sweeping away their crumbling banks (taṭāni śīrṇāny apavāhayitvā), the proud rivers (dṛptā nadyaḥ), honoured with the full enjoyment of fresh monsoon-gifts (navaprāvṛtapūrṇabhogādṛtam), swiftly hasten toward their lord [the ocean] (drutaṃ svabhartāram upopayānti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2425,6 +2659,12 @@ fire, burnt, mountains, like; *prabhaanti* = shining forth.
 "When the swarthy clouds full with new waters are docking among swarthily clouds, they are shining forth like
 mountains burnt by wildfire docking among other mountains that are already burnt by wildfire, both moored at mountain-bases.
 [3-28-40]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dark and filled with fresh water (nīlā navavāripūrṇāḥ), clouds clinging to dark clouds (nīleṣu megheṣu meghāḥ saktāḥ) shine forth like forest-fire-charred mountains (davāgnidagdhāḥ śailā iva) firmly rooted upon mountains charred by forest-fire (davāgnidagdheṣu śaileṣu baddhamūlāḥ).
 </details>
 </details>
 
@@ -2478,6 +2718,12 @@ in verily, pleasant, forest, interiors; *caranti* = [elephants are] moving.
 
 "Elephants are moving about the very pleasant interiors of forests where peahens are voluptuously screaming, pasturelands
 are overspread with red-beetles, and where they are fragranced with the flowers of Niipa and Arjuna trees. [3-28-41]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Elephants roam through lovely forest interiors (suramyāṇi vanāntarāṇi) resounding with intoxicated peacocks (pramattasaṃnāditabarhiṇāni), carpeted with green lawns teeming with scarlet śakragopa insects (saśakragopākulaśādvalāni), and perfumed by nīpa and arjuna blossoms (nīpārjunavāsitāni).
 </details>
 </details>
 
@@ -2536,6 +2782,12 @@ streams, lashed, fibrils; *saroruhaaNi* = lotuses; *drutam parityajya* = quickly
 
 "Lashed are the fibrils of lotuses with the downpour of new waters, hence quickly leaving them off the joyful
 honeybees are quaffing the Kadamba flowers with new fibrils. [3-28-42]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swiftly forsaking the lotuses (drutaṃ parityajya saroruhāṇi) whose filaments have been battered by streams of fresh rainwater (navāmbudhārāhatakesarāṇi), delighted bees (hṛṣṭā bhramarāḥ) drink from fresh kadamba blossoms with intact filaments (kadambapuṣpāṇi sakesarāṇi navāni).”
 </details>
 </details>
 
@@ -2598,6 +2850,12 @@ playing.
 degree, lofty mountains are heart-pleasant, lords of people are withdrawing from their campaigns, and the lord
 of gods, Indra, is playing well with water giving clouds. [3-28-43]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“King-elephants are in rut (mattā gajendrāḥ), lordly bulls are joyful (muditā gavendrāḥ), lions are mightier still in the woods (vaneṣu vikrāntatarā mṛgendrāḥ), great mountains are lovely (ramyā nagendrāḥ), earthly kings remain still (nibhṛtā narendrāḥ), and Indra sports with the rain-clouds (prakrīḍito vāridharaiḥ surendraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2651,6 +2909,12 @@ are, the; *meghaaH* = clouds; *nadiiH taTaakaani saraamsi vaapiH* = rivers, lake
 "The clouds having torrential water are soaring the sky, and spurning the booms of oceans with their rumbles they
 are inundating rivers, lakes, pools, tanks and even the earth. [3-28-44]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanging across the sky (gaganāvalambāḥ) with thunder eclipsing the roar of the sea (samudbhūtasamudranādāḥ), the clouds with their mighty torrents of water (mahājalaughaiḥ) cause the rivers, tanks, lakes, step-wells, and the entire earth to overflow (apavāhayanti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2703,6 +2967,12 @@ course, far afield; *nadyaH* = rivers; *shiighram jalam pravahanti* = speedily, 
 
 "Rains are falling substantially and speedily, gales are blowing intensified in their speediness, while rivers
 are conducting water speedily over their eroded riverbanks and far afield of their course. [3-28-45]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vast torrents of rain fall (varṣapravegā vipulāḥ patanti), winds blow with upraised speed (pravānti vātāḥ samudīrṇavegāḥ), and rivers with their banks washed away (praṇaṣṭakūlāḥ) and their courses obstructing the roads (vipratipannamārgāḥ) swiftly carry down their waters.
 </details>
 </details>
 
@@ -2759,6 +3029,12 @@ as if; *darshayanti* = showing.
 show their propitious aspect of a humanly king with applied divinity, whereas the lords of mountains are being
 anointed with the water sent directly by Indra and hitherto wafted straight by Air-god in the pots called black-clouds,
 thus these lordly mountains are standing alone as if showing their grandeur and divinity on earth. [3-28-46]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Being consecrated by wind-borne cloud-waterpots (pavanopanītaiḥ ghanāmbukumbhair abhiṣicyamānāḥ) bestowed by Indra (surendradattaiḥ), the lordly mountains (parvatendrāḥ), like kings consecrated by men (narair narendrā iva), display their own beauty as if it were royal splendor (rūpaṃ śriyaṃ svām iva darśayanti).
 </details>
 </details>
 
@@ -2820,6 +3096,12 @@ The statement of 'obscurity and illumination' is suggestive of the Vedic import
 lead me unto light...' When the earth itself is satisfied with the gift of nature the earthlings are still hankering
 after inaccessible desires, thus they cycle through the karmic cycle.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The firmament is shrouded in clouds (ghanopagūḍhaṃ gaganam), neither stars nor sun come into view (na tārā na bhāskaro darśanam abhyupaiti), the earth is sated with fresh floods of water (navair jalaughair dharaṇī vitṛptā), and the quarters, smeared with darkness (tamoviliptāḥ), do not shine.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2874,6 +3156,12 @@ forth.
 "The paramount pinnacles of the mountains are thoroughly washed by the torrential rains and are shining forth
 surpassingly, and the voluminous and widespread torrents that are pitching down are like the pearly necklaces
 pendulous on the chests of mountains. [3-28-48]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Washed clean by rain-streams (dhārāvidhautāni), the mighty peaks of the mountains (mahānti kūṭāni mahīdharāṇām) shine all the more with vast, broad waterfalls (mahāpramāṇair vipulaiḥ prapātaiḥ) hanging down like ropes of pearls (muktākalāpair iva lambamānaiḥ).”
 </details>
 </details>
 
@@ -2937,6 +3225,12 @@ peacock's variegated colours, the pearly-white water has also entered the caves.
 colourful peacocks, blackish caves are giving out sparkles of their own, like necklaces studded with many colourful
 gems, and if many such pendants are strewn around, each of its studded stone emits its own colour.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With their currents stumbling over mountain boulders (śailopalapraskhalamānavegāḥ), the broad waterfalls of the lordly mountains (śailottamānāṃ vipulāḥ prapātāḥ) shine forth in caves resounding with peacocks (guhāsu saṃnāditabarhiṇāsu) like pearl necklaces scattering apart (hārā vikīryanta iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2999,6 +3293,12 @@ of mountains. Those caves are glittering with the colours of peacocks, pearly wa
 
 *utsanga* 'heart of hearts...' these noblemen's hearts of hearts are covered with such necklaces and lockets.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Washing clean the slopes beneath the mountain peaks (nirdhautaśṛṅgopatalā girīṇām), the swift-rushing, broad waterfalls (śīghrapravegā vipulāḥ prapātāḥ), falling like ropes of pearls (muktākalāpapratimāḥ patantaḥ), are caught by the lap-like floors of great caverns (mahāguhotsaṅgatalair dhriyante).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3049,6 +3349,12 @@ dikshu* = all over, in directions; *patanti* = are falling.
 "Like the strings of pearls of heavenly females plopping down when broken in the friction of lovemaking, excellent
 streams of water are falling all over and in all directions. [3-28-51]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And like pearls from the necklaces of celestial women snapped in the crush of amorous sport (suratāmardavicchinnāḥ svargastrīhāramauktikāḥ), peerless streams of water (atulāḥ toyadhārāḥ) fall on all sides toward every quarter (dikṣu samantataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3093,6 +3399,12 @@ also with; *raviH astam gataH j~naayate* = sun, into dusk, gone, known to be.
 
 "With the return of birds to nests, doubling up of lotuses, and blooming up jasmines, the sun is know to have
 gone into dusk. [3-28-52]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By the birds retiring to their roosts (vilīyamānair vihagaiḥ), the lotuses closing their petals (nimīladbhiś ca paṅkajaiḥ), and the mālatī jasmine coming into bloom (vikasantyā ca mālatyā), the sun is known to have set (gato'staṃ jñāyate raviḥ).
 </details>
 </details>
 
@@ -3140,6 +3452,12 @@ maargaaH ca* = conflicts, and also, roadways; *samiikR^itaaH* = evened out - neu
 
 "Reversed are the campaigns of kings as the armies are marooned and thus rainwater has neutralised conflicts and
 roadways. [3-28-53]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The military expeditions of kings have ceased (vṛttā yātrā narendrāṇām), the army remains upon the road itself (senā pathy eva vartate), and both hostilities and highways (vairāṇi caiva mārgāś ca) have been leveled by the floodwaters (salilena samīkṛtāḥ).
 </details>
 </details>
 
@@ -3203,6 +3521,12 @@ During this time a vow called *caatur maasya vrata* will be observed by all adhe
 this time young celibates are initiated into Vedic studies which commences on *bhaadrapada shukla tR^itiiya*
 'third day in the white-fortnight of this Bhaadrapada month.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the month of Prauṣṭhapada [Bhādrapada] (māsi prauṣṭhapade), for Brahmins desiring to recite the Veda (brahma brāhmaṇānāṃ vivakṣatām), this season of Vedic study (adhyāyasamayaḥ) for the chanters of the Sāmaveda (sāmagānām) has arrived.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3247,6 +3571,12 @@ day - pertaining to aaSaadha month; *abhyupagataH* = reached - undertaken; *nuun
 
 "On carrying out all the domestic affairs and completely garnering the goods for rainy season, Bharata, the king
 of Kosala, might have definitely undertaken the 'four-month-vow' on the full moon day of aSaaDha month. [3-28-55]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having suspended outer household works (nivṛttakarmāyatanaḥ) and laid up stores of provisions (saṃcitasaṃcayaḥ), Bharata, lord of Kosala (kosalādhipaḥ), has surely entered upon the observance of the full-moon day of Āṣāḍha (āṣāḍhīm abhyupagataḥ).
 </details>
 </details>
 
@@ -3300,6 +3630,12 @@ Ayodhya and its people used to create hubbubs whenever Rama used to return to ci
 Such is the affection of the inmates of Ayodhya to Rama, and now Rama is reminiscing that hubbub of people and
 swashing of Sarayu, as both soundalike.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely the current of the swelling Sarayū (āpūryamāṇāyāḥ sarayvā rayaḥ) rises high, like the roar of Ayodhyā (ayodhyāyā iva svanaḥ) upon beholding me returning home (māṃ samīkṣya samāyāntam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3347,6 +3683,12 @@ these, rains - in rainy season; *sukham ashnute* = luxuries, he partakes - he lu
 be luxuriating in them, besides, revelling for conquering his enemy, regaining his wife, and instituting himself
 as a king of an admirable kingdom. [3-28-57]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Throughout this rainy season rich in excellences (imāḥ sphītaguṇā varṣāḥ), Sugrīva enjoys happiness (sukham aśnute), with his foe vanquished (vijitāriḥ), united with his wife (sadāraś ca), and established in a mighty kingdom (rājye mahati ca sthitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3392,6 +3734,12 @@ am sinking down.
 
 "As for me, Lakshmana, I am the one who is toppled from a great kingdom, whose wife is stolen, such as I am, I
 am toppling down like a riverbank that is toppled over. [3-28-58]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I, however, robbed of my wife (hṛtadāraś ca) and fallen from a great kingdom (rājyāc ca mahataś cyutaḥ), sink down in despair, O Lakṣmaṇa, like a sodden riverbank (nadīkūlam iva klinnam avasīdāmi).
 </details>
 </details>
 
@@ -3442,6 +3790,12 @@ is, but, formidable, enemy; *me* = to me; *a paaram* = not, possible to cross ov
 "Also my anguish is boundless, the rains have definitely made the pathways impassable, my enemy Ravana is a formidable
 one, thus these three appear to me as insurmountable obstacles. [3-28-59]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+My grief is vast (śokaś ca mama vistīrṇaḥ), the rains are exceedingly impassable (varṣāś ca bhṛśadurgamāḥ), and my mighty foe Rāvaṇa appears to me boundless (mahāñ śatrur apāraḥ pratibhāti me).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3491,6 +3845,12 @@ also; *dR^iSTvaa* = on visualising; *mayaa kimcit na iiritam* = by me, anything,
 any campaign, and even the pathways are rendered highly impassable I have not said anything to him in the affirmative.
 [3-28-60]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing this impossibility of marching (ayātrāṃ caiva dṛṣṭvemām) and the exceedingly impassable roads (mārgāṃś ca bhṛśadurgamān), even though Sugrīva bows submissively (praṇate caiva sugrīve), nothing has been spoken by me (na mayā kiṃcid īritam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3538,6 +3898,12 @@ any campaign, and even the pathways are rendered highly impassable I have not sa
 and even owing to the magnitude involved in our task of tracking down Ravana I did not desire to insist on that
 monkey. [3-28-61]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Moreover, because my own task is exceedingly weighty (ātmakāryagarīyastvāt), I do not wish to command the monkey [Sugrīva] (vaktuṃ necchāmi vānaram), who suffered sore affliction (parikliṣṭam) and has only after a long time been reunited with his wife (cirād dāraiḥ samāgatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3582,6 +3948,12 @@ time's, closely, coming in, on realising; *upakaaram ca* = requital, also; *svay
 
 "After a respite Sugreeva will realise on his own that the time has come, and he will also realise the he has
 something to requite, isn't it! So, there needn't be any doubt in that matter. [3-28-62]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For when Sugrīva has rested (viśramya) and perceives of his own accord that the appointed season has arrived (svayam eva hi jñātvā kālam upāgatam), he will surely recognize the favor done to him (upakāraṃ ca sugrīvo vetsyate); of this there is no doubt.
 </details>
 </details>
 
@@ -3631,6 +4003,12 @@ generosity, expectant of; *sthitaH kaala pratiikSaH asmi* = abiding, time, looki
 "I therefore stay abidingly looking forward for the time, oh, Lakshmana with felicitous aspects, expectant of
 the generosity of Sugreeva and of these rivers. [3-28-63]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, O Lakṣmaṇa of auspicious marks (śubhalakṣaṇa), I remain here biding the appointed time (kālapratīkṣo'haṃ sthito'smi), awaiting the gracious favor of Sugrīva and the clearing of the rivers (sugrīvasya nadīnāṃ ca prasādam abhikāṃkṣayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3677,6 +4055,12 @@ yujyate* = with requital, conjoined - indebted with; *a kR^itaj~naH* = un, faith
 "A valiant one who is succoured will be indebted with some requital on his part, but besides being unfaithful,
 if one who does not make requital for all the favours done in his interest, he will be wounding the hearts of
 soft-hearted people." Rama said so to Lakshmana, keeping Sugreeva in view. [3-28-64]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For a hero who has received a favor (upakāreṇa vīro hi) is surely bound to reciprocate (pratīkāreṇa yujyate); an ungrateful man who makes no return (akṛtajño'pratikṛtaḥ) wounds the heart of noble beings (hanti sattvavatāṃ manaḥ).”
 </details>
 </details>
 
@@ -3732,6 +4116,12 @@ with his - own, best, delightful, aspect - Rama; *raamam uvaaca* = to Rama, said
 Visualising what Rama said about their waiting for pre-winter season to be candid, and praisefully making palm-fold
 at that determination of Rama, and even to clarify his own opportune viewpoint, Lakshmana spoke to Rama who by
 his own aspect is a delightful one for a ken. [3-28-65]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, Lakṣmaṇa reflected (praṇidhāya), honored that speech with joined palms (kṛtāñjalis tat pratipūjya bhāṣitam), and, displaying his own auspicious counsel (pradarśayan darśanam ātmanaḥ śubham), spoke to Rāma of most pleasing aspect (svabhirāmadarśanam):
 </details>
 </details>
 
@@ -3807,6 +4197,12 @@ verses in this canto bear the blemish of interpolations.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तॆण्टनॆय सर्ग सम्पूर्णवायितु. ॥28॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What you have spoken, O lord of men, all this desired object of yours (tava sarvam īpsitam) the lord of monkeys will accomplish before long (kartā nacirād dharīśvaraḥ); awaiting autumn (śaratpratīkṣaḥ), may Your Majesty endure this season of downpours (kṣamatām imaṃ bhavān jalaprapātam), firm in your resolve to subdue the foe (ripunigrahe dhṛtaḥ).”
 </details>
 </details>
 

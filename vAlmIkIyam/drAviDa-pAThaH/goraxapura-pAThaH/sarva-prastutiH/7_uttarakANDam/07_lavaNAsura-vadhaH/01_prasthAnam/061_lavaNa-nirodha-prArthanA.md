@@ -32,6 +32,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 
 इस प्रकार कहते हुए ऋषियोंसे प्रेरित हो श्रीरामचन्द्रजीने कहा—‘महर्षियो! बताइये, आपका कौन-सा कार्य मुझे सिद्ध करना है! आपलोगोंका भय तो अभी दूर हो जाना चाहिये’ ॥ १ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entreated by the sages speaking thus (evaṃ bruvadbhir ṛṣibhiḥ), Kākutstha uttered these words: “Speak, O sages, what task is to be done (kiṃ kāryaṃ brūta munayaḥ); meanwhile let your fear depart (bhayaṃ tāvad apaitu vaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -51,6 +57,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीरघुनाथजीके ऐसा कहनेपर भृगुपुत्र च्यवन बोले—‘नरेश्वर! समूचे देशपर और हमलोगोंपर जो भय प्राप्त हुआ है, उसका मूल कारण क्या है, सुनिये ॥ २ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Kākutstha had spoken thus (tathā bruvati kākutsthe), Bhārgava [Cyavana] replied: “Hear, O lord of men (nareśvara), what is the root of the terrors of our region and of ourselves (bhayānāṃ śṛṇu yan mūlaṃ deśasya ca)!
 </details>
 </details>
 
@@ -72,6 +84,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 
 ‘राजन्! पहले सत्ययुगमें एक बड़ा बुद्धिमान् दैत्य था । वह लोलाका ज्येष्ठ पुत्र था । उस महान् असुरका नाम था मधु ॥ ३ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Long ago in the Kṛta age (pūrvaṃ kṛta-yuge), O King, there lived a Daitya of exceeding might (daiteyaḥ sumahābalaḥ), the eldest son of Lolā (lolā-putro ’bhavaj jyeṣṭhaḥ), a great asura named Madhu (madhur nāma mahāsuraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -91,6 +109,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वह बड़ा ही ब्राह्मण-भक्त और शरणागतवत्सल था । उसकी बुद्धि सुस्थिर थी । अत्यन्त उदार स्वभाववाले देवताओंके साथ भी उसकी ऐसी गहरी मित्रता थी, जिसकी कहीं तुलना नहीं थी ॥ ४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Devoted to brahmins (brahmaṇyaḥ), a giver of refuge (śaraṇyaḥ), and steadfast in wisdom (buddhyā ca pariniṣṭhitaḥ), he enjoyed a peerless friendship with the most noble gods (suraiś ca paramodāraiḥ prītis tasyātulā ’bhavat).
 </details>
 </details>
 
@@ -112,6 +136,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 
 ‘मधु बल-विक्रमसे सम्पन्न था और एकाग्रचित्त होकर धर्मके अनुष्ठानमें लगा रहता था । उसने भगवान् शिवकी बड़ी आराधना की थी, जिससे उन्होंने उसे अद्भुत वर प्रदान किया था ॥ ५ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That Madhu, endowed with heroic vigor (vīrya-sampannaḥ) and thoroughly intent upon dharma (dharme ca susamāhitaḥ), performed austerity for many thousands of years (bahu-varṣa-sahasrāṇi ... ’karot tapaḥ) to win Rudra’s pleasure (rudra-prītyā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,6 +161,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘महामना भगवान् शिवने अत्यन्त प्रसन्न हो अपने शूलसे एक चमचमाता हुआ परम शक्तिशाली शूल प्रकट करके उसे मधुको दिया और यह बात कही— ॥ ६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rudra grew pleased with him and went forth to grant him a boon (varaṃ dātuṃ yayau ca saḥ); and out of high esteem (bahumānāt), Rudra bestowed upon him an extraordinary boon (dattas tasyādbhuto varaḥ).
 </details>
 </details>
 
@@ -152,6 +188,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 
 ‘‘तुमने मुझे प्रसन्न करनेवाला यह बड़ा अनुपम धर्म किया है; अतः मैं अत्यन्त प्रसन्न होकर तुम्हें यह उत्तम आयुध प्रदान करता हूँ ॥ ७ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Drawing forth from his own trident (śūlād viniṣkṛṣya) a trident of mighty potency and great brilliance (śūlaṃ ... mahāvīryaṃ mahāprabham), the great-souled lord, well pleased (mahātmā suprītaḥ), gave it to him and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -171,6 +213,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘महान् असुर! जबतक तुम ब्राह्मणों और देवताओंसे विरोध नहीं करोगे, तभीतक यह शूल तुम्हारे पास रहेगा, अन्यथा अदृश्य हो जायगा ॥ ८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“ ‘This peerless dharma performed by you (tvayāyam atulo dharmaḥ ... kṛtaḥ) has won my favor (mat-prasāda-karaḥ); filled with supreme affection (prītyā paramayā yuktaḥ), I bestow upon you this foremost weapon (dadāmy āyudham uttamam).
 </details>
 </details>
 
@@ -192,6 +240,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 
 ‘‘जो पुरुष निःशङ्क होकर तुम्हारे सामने युद्धके लिये आयेगा, उसे भस्म करके यह शूल पुनः तुम्हारे हाथमें लौट आयेगा’ ॥ ९ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“ ‘So long as you do not come into conflict with gods or brahmins (yāvat suraiś ca vipraiś ca na virudhyer), O great asura, so long shall this trident remain yours; otherwise it shall vanish away (anyathā nāśam epyati [i.e., eṣyati]).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -211,6 +265,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘भगवान् रुद्रसे ऐसा वर पाकर वह महान् असुर महादेवजीको प्रणाम करके फिर इस प्रकार बोला— ॥ १० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“ ‘And whosoever, free from trepidation (vigata-jvaraḥ), shall assail you in battle (tvām abhiyuñjīta yuddhāya), him this trident shall reduce to ashes (bhasmasāt kṛtvā) and return again to your hand (punar eṣyati te karam).’
 </details>
 </details>
 
@@ -232,6 +292,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 
 ‘‘भगवन्! देवाधिदेव! आप समस्त देवताओंके स्वामी हैं; अतः आपसे प्रार्थना है कि परम उत्तम शूल मेरे वंशजोंके पास भी सदा रहे’ ॥ ११ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having thus obtained that boon from Rudra (evaṃ rudrād varaṃ labdhvā), the great asura once more bowed low before Mahādeva (praṇipatya mahādevam) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -251,6 +317,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ऐसी बात कहनेवाले उस मधुसे समस्त प्राणियोंके अधिपति महान् देवता भगवान् शिवने इस प्रकार कहा—‘ऐसा तो नहीं हो सकता ॥ १२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“ ‘O Blessed Lord (bhagavan), may this unsurpassed trident (śūlam etad anuttamam) abide perpetually with my lineage (mama vaṃśasya ... bhavet tu satatam), O God, for you are the supreme sovereign of the celestials (surāṇām īśvaro hy asi)!’
 </details>
 </details>
 
@@ -272,6 +344,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 
 ‘‘परंतु मुझे प्रसन्न जानकर तुम्हारे मुखसे जो शुभ वाणी निकली है, वह भी निष्फल न हो; इसलिये मैं वर देता हूँ कि तुम्हारे एक पुत्रके पास यह शूल रहेगा ॥ १३ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To Madhu speaking thus (taṃ bruvāṇaṃ madhum), the god Śiva, lord of all beings (sarva-bhūta-patiḥ śivaḥ), of mighty splendor (mahātejāḥ), replied: ‘This shall not come to pass in that manner (naitad evaṃ bhaviṣyati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -291,6 +369,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘यह शूल जबतक तुम्हारे पुत्रके हाथमें मौजूद रहेगा, तबतक वह समस्त प्राणियोंके लिये अवध्य बना रहेगा’ ॥ १४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“ ‘Yet lest your auspicious word, prompted by my grace, go fruitless (mā bhūt te viphalā vāṇī mat-prasāda-kṛtā śubhā), this trident shall attend one single son of yours (bhavataḥ putram ekaṃ tu śūlam etad bhajiṣyate).
 </details>
 </details>
 
@@ -312,6 +396,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 
 ‘महादेवजीसे इस प्रकार अत्यन्त अद्भुत वर पाकर असुरश्रेष्ठ मधुने एक सुन्दर भवन तैयार कराया, जो अत्यन्त दीप्तिमान् था ॥ १५ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“ ‘So long as this trident remains within your son’s hand (yāvat karasthaḥ śūlo ’yaṃ bhaviṣyati sutasya te), so long, with trident in hand (śūla-hastaḥ), shall he be invulnerable to all beings (avadhyaḥ sarva-bhūtānām).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -331,6 +421,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उसकी प्रिय पत्नी महाभागा कुम्भीनसी थी, जो विश्वावसुकी संतान थी । उसका जन्म अनलाके गर्भसे हुआ था । कुम्भीनसी बड़ी कान्तिमती थी ॥ १६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having thus received that vast and marvelous boon from the god (devāt sumahad adbhutam), that foremost of asuras caused a resplendent mansion to be built (bhavanaṃ ... kārayām āsa suprabham).
 </details>
 </details>
 
@@ -352,6 +448,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 
 ‘उसका पुत्र महापराक्रमी लवण है, जिसका स्वभाव बड़ा भयंकर है । वह दुष्टात्मा बचपनसे ही केवल पापाचारमें प्रवृत्त रहा है ॥ १७ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“His illustrious and beloved wife (patnī mahābhāgā priyā) was she who is known as Kumbhīnasī (kumbhīnasīti yā), the radiant offspring of Viśvāvasu born unto Analā (viśvāvasor apatyaṃ sā hy analāyāṃ mahāprabhā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -371,6 +473,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अपने पुत्रको उद्दण्ड हुआ देख मधु क्रोधसे जलता रहता था । उसे बेटेकी दुष्टता देखकर बड़ा शोक हुआ, तथापि वह इससे कुछ नहीं बोला ॥ १८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Her son was the terrible and mighty hero named Lavaṇa (lavaṇo nāma dāruṇaḥ), wicked-souled from childhood onward (bālyāt prabhṛti duṣṭātmā), who practiced nothing but sinful deeds (pāpāny eva samācarat).
 </details>
 </details>
 
@@ -392,6 +500,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 
 ‘अन्तमें वह इस देशको छोड़कर समुद्रमें रहनेके लिये चला गया । चलते समय उसने वह शूल लवणको दे दिया और उसे वरदानकी बात भी बता दी ॥ १९ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding that ill-disciplined son (taṃ putraṃ durvinītam), Madhu, seized with anger (krodha-samanvitaḥ), fell into deep grief (śokam āpede), yet said nothing at all to him (na cainaṃ kiñcid abravīt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -411,6 +525,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अब वह दुष्ट उस शूलके प्रभावसे तथा अपनी दुष्टताके कारण तीनों लोकोंको विशेषतः तपस्वी मुनियोंको बड़ा संताप दे रहा है ॥ २० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Abandoning this world (sa vihāya tv imaṃ lokam), he entered the abode of Varuṇa [the ocean] (praviṣṭo varuṇālayam); having first placed the trident in Lavaṇa’s keeping (śūlaṃ niveśya lavaṇe), he revealed the boon to him (varaṃ tasmai nyavedayat).
 </details>
 </details>
 
@@ -432,6 +552,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 
 ‘उस लवणासुरका ऐसा प्रभाव है और उसके पास वैसा शक्तिशाली शूल भी है । रघुनन्दन! यह सब सुनकर यथोचित कार्य करनेमें आप ही प्रमाण हैं और आप ही हमारी परम गति हैं ॥ २१ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through the potency of that trident (prabhāveṇa śūlasya) and through his own innate wickedness (daurātmyenātmanas tathā), he torments the three worlds (santāpayati lokāṃs trīn), and above all the ascetics (viśeṣeṇa ca tāpasān)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -451,6 +577,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘श्रीराम! आजसे पहले भयसे पीड़ित हुए ऋषि अनेक राजाओंके पास जा-जाकर अभयकी भिक्षा माँग चुके हैं; परंतु वीर रघुवीर! अबतक हमें कोई रक्षक नहीं मिला ॥ २२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Such is the power of Lavaṇa (evaṃ-prabhāvo lavaṇaḥ), and such indeed is the trident (śūlaṃ caiva tathāvidham); having heard this, you are the authority, O Kākutstha (śrutvā pramāṇaṃ kākutstha), for you alone are our supreme refuge (tvaṃ hi naḥ paramā gatiḥ)!
 </details>
 </details>
 
@@ -473,6 +605,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तात! हमने सुना है कि आपने सेना और सवारियोंसहित रावणका संहार कर डाला है; इसलिये हम आपहीको अपनी रक्षा करनेमें समर्थ समझते हैं, भूतलपर दूसरे किसी राजाको नहीं । अतः हमारी इच्छा है कि आप भयसे पीड़ित हुए महर्षियोंकी लवणासुरसे रक्षा करें ॥ २३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Many earthly kings, O Rāma, were begged for safety in times past (abhayaṃ yācitāḥ) by terror-stricken sages (bhayārtair ṛṣibhiḥ purā), O hero, yet we know no savior among them (trātāraṃ na ca vidmahe).
 </details>
 </details>
 
@@ -503,6 +641,12 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये उत्तरकाण्डे एकषष्टितमः सर्गः ॥ ६१ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके उत्तरकाण्डमें इकसठवाँ सर्ग पूरा हुआ ॥ ६१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing that Rāvaṇa has been slain together with his hosts and mounts (rāvaṇaṃ śrutvā hataṃ sabala-vāhanam), we know no other monarch upon earth as our protector, O dear one (trātāraṃ vidmahe tāta nānyaṃ bhuvi narādhipam); therefore we desire deliverance for ourselves, afflicted with dread of Lavaṇa (tat paritrātum icchāmo lavaṇād bhaya-pīḍitān)!
 </details>
 </details>
 

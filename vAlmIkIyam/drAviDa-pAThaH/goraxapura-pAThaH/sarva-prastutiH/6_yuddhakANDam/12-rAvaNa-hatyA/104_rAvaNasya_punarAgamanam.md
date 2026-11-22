@@ -69,6 +69,12 @@ charioteer (as follows):
 Impelled by force of Destiny and with his red-blood eyes through anger due to
 infatuation, that Ravana spoke to his charioteer as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the face of that wise Rāma filled with wrath (tasya kruddhasya vadanam), all creatures trembled (vitresuḥ) and the earth shook.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +128,14 @@ buddhyaa* = as per your discretion!
 deficient in prowess, cowardly, petty-minded, devoid of energy, bereft of brilliance, deserted of
 conjuring tricks and abandoned by mystic missiles, you are acting as per your discretion!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** The mountain with its lions and tigers shook along with its swaying trees (caladdrumaḥ), and the ocean, lord of rivers (saritāṃ patiḥ), was convulsed.
+
+**3:** Harsh-voiced, donkey-shaped clouds (kharāś ca kharanirghoṣāḥ), rough and ominous (autpātikāḥ), roamed about on all sides in the sky, thundering.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +181,12 @@ me; *shatrusamakSham* = before my enemies; *anavekShya cha* = and overlooking;
 
 "Why have you carried away this chariot of mine, thus humiliating me in the presence
 of my enemies and overlooking my will?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Rāma fiercely enraged and those dreadful portents (utpātāṃś caiva dāruṇān), all creatures trembled, and fear arose in Rāvaṇa (rāvaṇasyābhavad bhayam).
 </details>
 </details>
 
@@ -217,6 +237,12 @@ fame; *chirakaala samaarjitam* = which was earned through a long period; *tejash
 "O vulgar fellow! You have destroyed my fame which was earned through a long period,
 prowess, vital power and the trust of people today."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stationed in their aerial cars (vimānasthāḥ), the gods, gandharvas, and great serpents, together with sages, dānavas, daityas, and sky-faring garuḍas,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -264,6 +290,12 @@ his; *pashyataH* = stood looking on.
 "While my adversary, having an illustrious prowess and making others delightful
 through feats of his valour, stood looking on, myself, who has an ardent desire for fighting and
 who was made contemptible by you!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+then beheld that battle—resembling the dissolution of the worlds (lokasaṃvartasaṃsthitam)—as those two heroes fought on with terrifying weapons of many kinds.
 </details>
 </details>
 
@@ -315,6 +347,12 @@ expectation of mine; *tvam* = that you; *upaskR^itaH* = stand corrupted;
 "O evil-minded fellow! In case you do not, by perversity, carry away this chariot at
 any event, this expectation of mine that you stand corrupted by the enemy, will be a fact."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having come to witness the conflict (vigraham āgatāḥ), all the gods and asuras, watching that great battle, spoke words with devotion as though thrilled with joy (prahṛṣṭavat):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -361,6 +399,12 @@ me well.
 
 "This act, which has been done by you, is only befitting of enemies. This is indeed
 not the work of a friend, who wishes me well."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The assembled asuras cried out to Daśagrīva, “Be victorious (jaya)!”, while the gods said to Rāma again and again, “May you be victorious (tvaṃ jayeti)!”
 </details>
 </details>
 
@@ -412,6 +456,12 @@ withdraw.
 "If you inhabited with me in Lanka for a long time and if you remember my merit,
 drive back the chariot swiftly till my enemy does not withdraw."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the meantime, out of wrath toward Rāghava, the wicked-minded Rāvaṇa, wishing to strike (prahartukāmaḥ), touched a mighty weapon—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -451,6 +501,12 @@ words; *raavaNam* = to Ravana (as follows):
 
 Hearing those harsh words of the foolish Ravana, the friendly-minded charioteer
 spoke the following conciliatory words of Ravana:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—hard as the thunderbolt (vajrasāram), loud-roaring, crusher of all foes, terrifying to mind and eye with its projections resembling mountain peaks (śailaśṛṅganibhaiḥ kūṭaiḥ),
 </details>
 </details>
 
@@ -498,6 +554,12 @@ vismR^itaa* = was not forgotten.
 
 "I was neither frightened nor I was stupid. I was not bribed by the enemies, nor was
 I a blunderer. I was not disloyal to you. I have not forgotten the benefits conferred by you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+sharp-tipped and as if wreathed in smoke, matching a mass of doomsday fire (yugāntāgnicayopamam), exceedingly fierce, unapproachable, and hard even for Death to withstand (kālenāpi durāsadam),
 </details>
 </details>
 
@@ -550,6 +612,12 @@ something conducive to your interest.
 interest, by wishing well of you, for protecting your honour and with mind affectionately disposed
 towards you through attachment."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+terrifying to all creatures, rending and cleaving (dāraṇaṃ bhedanaṃ tathā)—blazing as it were with fury, Rāvaṇa grasped that spike (śūlam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -589,6 +657,12 @@ gantum* = to hold me; *priyahite ratam* = devoted as I am to your pleasure and g
 
 "O monarch! Like somebody who is petty-minded and unworthy, you ought not to hold
 me, devoted as I am to your pleasure and good, quilty in this matter."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Supremely enraged in battle, that valorous [Rāvaṇa], surrounded in combat by heroic rākṣasa hosts (anīkaiḥ), grasped that spike.
 </details>
 </details>
 
@@ -635,6 +709,12 @@ gantum* = to hold me; *priyahite ratam* = devoted as I am to your pleasure and g
 
 "O monarch! Like somebody who is petty-minded and unworthy, you ought not to hold
 me, devoted as I am to your pleasure and good, guilty in this matter."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lifting it high (samudyamya), the huge-bodied demon roared frightfully in battle, his eyes bloodshot with fury, gladdening his own army (svasainyam abhiharṣayan).
 </details>
 </details>
 
@@ -685,6 +765,12 @@ iva* = as the onrush of a stream; *aabhoge* = (is pushed back) by a tide.
 "I understand your exhaustion, due to your strenuous fighting in the great battle. I
 am not reflecting on the inclination of your valour or on your superiority over your enemy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That dreadful roar of the lord of rākṣasas then caused the earth, the mid-space, the cardinal directions, and the intermediate quarters to tremble (prākampayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -731,6 +817,12 @@ were broken down; *rathodvahanakhinnaaH* = and were exhausted by drawing the cha
 "The horses of my chariot were broken down and were exhausted by drawing the
 chariot. They became miserable and thoroughly fatigued, like the cows lashed by heavy rain."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At that roar of that wicked-minded, colossal demon (atikāyasya), all creatures trembled and the ocean was violently convulsed (pracukṣubhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -770,6 +862,12 @@ examined; *teShu teShu* = in all of them.
 
 "I am seeing inauspiciousness in all the portents, which appear to us in large
 numbers and duly examined by me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having grasped that mighty spike, Rāvaṇa of great valor uttered a tremendous roar (vinadya sumahānādam) and spoke harsh words to Rāma:
 </details>
 </details>
 
@@ -822,6 +920,12 @@ occupying the chariot; *viJNeyau* = must be ascertained (by a charioteer).
 the strength and weakness of the warrior occupying the chariot must be ascertained (by a
 charioteer)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This thunderbolt-hard spike (śūlo'yaṃ vajrasāraḥ), raised by me in fury against you, O Rāma, will instantly rob you—along with your brother as ally (bhrātṛsahāyasya)—of your life-breaths!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -864,6 +968,12 @@ charioteer).
 and rugged, the time appropriate for the combat and the visible weak points of the enemy must be
 known (by a charioteer)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O boaster in battle (raṇaślāghin), slaying you today by force, I shall make you equal (karomi tarasā samam) to the heroic rākṣasas slain at the forefront of the army!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -903,6 +1013,12 @@ this; *JNeyam* = must be known; *rathakuTumbinaa* = by charioteer;
 
 "How to arrive and retreat, how to hold one's position and to recede all this must
 be known by a charioteer, seated in the chariot."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stand still now (tiṣṭhedānīm)! Here I slay you with this spike, O Rāghava!” Speaking thus, that overlord of rākṣasas hurled that spike.
 </details>
 </details>
 
@@ -946,6 +1062,12 @@ chariot; *varjayataa* = and to relieve; *raudram khedam* = your terrible fatigue
 
 "This action appropriate was taken by me in order to give rest to you and to these
 horses of the chariot as also to relieve your terrible fatigue."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Released from Rāvaṇa's hand, wreathed in garlands of lightning (vidyunmālāsamāvṛtam), fitted with eight bells (aṣṭaghaṇṭam) and roaring loudly, it shone brightly as it coursed through the sky.
 </details>
 </details>
 
@@ -994,6 +1116,12 @@ affection for my master.
 "O the valiant lord! This chariot was not removed by me arbitrarily. That which was
 done by me was because I was overwhelmed with affection for my master."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that blazing, dreadful-looking spike, the valorous Rāma, scion of Raghu, drew his bow (cāpam āyamya) and loosed sharp arrows (viśikhān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1040,6 +1168,12 @@ a mind which feels relieved of all that is due.
 
 "O annihilator of enemies! O hero! Give me a command! I will do that which you will
 enjoin me to do, with due attention and with a mind which feels relieved of all that is due."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With a flood of arrows Rāghava checked (vārayāmāsa) it as it hurtled onward, just as Vāsava [Indra] checks the surging doomsday fire with floods of water (jalaughair iva vāsavaḥ).
 </details>
 </details>
 
@@ -1091,6 +1225,12 @@ following words:
 Satisfied with the explanation given by his charioteer and applauding him in many
 ways, Ravana who was avaricious of fighting, spoke the following words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That great spike of Rāvaṇa burned up (nirdadāha) those arrows issuing from Rāma's bow, just as a blazing fire consumes moths (pataṅgān iva pāvakaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1137,6 +1277,12 @@ enemies.
 
 "O charioteer! Take this chariot quickly towards Rama. Ravana does not turn back in
 battle, without killing his enemies."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing those arrows in mid-air reduced to ashes (bhasmasādbhūtān) and pulverized by contact with the spike (śūlasaṃsparśacūrṇitān), Rāghava gave way to wrath.
 </details>
 </details>
 
@@ -1189,6 +1335,12 @@ back to the battle-field.
 Thus speaking Ravna the lord of demons was pleased and then presented a beautiful
 and excellent ornament for the hand to him. That charioteer, after hearing Ravana's instruction,s
 drove the chariot back to the battle-field.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Supremely enraged, Rāghava, joy of the Raghus, grasped that spear (śaktim) brought by Mātali and cherished by Vāsava [Indra] (vāsavasammatām).
 </details>
 </details>
 
@@ -1254,6 +1406,12 @@ battle-field.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरनाल्कनॆय सर्ग पूर्णवायितु.॥104॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brandished aloft (tolitā) by that mighty hero, that radiant spear, resonant with bells (ghaṇṭākṛtasvanā), lit up the sky like a doomsday meteor (yugāntolkeva).
 </details>
 </details>
 

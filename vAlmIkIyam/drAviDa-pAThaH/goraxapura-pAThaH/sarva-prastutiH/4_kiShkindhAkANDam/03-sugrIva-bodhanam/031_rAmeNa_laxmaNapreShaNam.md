@@ -83,6 +83,12 @@ overcome with grief while the search for Seetha is becoming futile, overwrought 
 Sugreeva is reneging on his promise, to such an elder prince-brother from a godlike king, his
 younger prince-brother Lakshmana spoke in this way. [4-31-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the king's son (sa narendrasūnuḥ), Rāma's younger brother (rāmānujaḥ), spoke thus (ity uvāca) to his elder brother (pūrvajam), the son of the lord of men (naradevaputram), who was lovelorn (kāminam), afflicted (dīnam) yet of undiminished spirit (adīnasattvam), overwhelmed by grief (śokābhipannam), and surging with wrath (samudīrṇakopam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -151,6 +157,12 @@ least kindness expected of a friend. Because Sugreeva is a fickly monkey, he may
 oath of friendship taken before fire altar, whereby you eliminated Vali, and enthroned Sugreeva; but, he may
 not keep that pact or its fruits holy, as nothing is evincible of his help...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That monkey will not abide in the conduct of the virtuous (na vānaraḥ sthāsyati sādhuvṛtte), nor does he respect the consequences bound up with deeds (na manyate karma-phalānuṣaṅgān); he shall not long enjoy the royal fortune of the monkey kingdom (na bhokṣyate vānararājya-lakṣmīm), for his mind does not incline toward his duty (tathā hi nātikramate 'sya buddhiḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -206,6 +218,12 @@ not, to be given.
 "Without any notion of requiting the beneficence you have accorded he is insanely
 involved in primitive pleasures, such as he is, let him see his elder brother Vali when slain.
 Hence, kingdoms are unaffordable to dishonest. [4-31-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through loss of judgment (matikṣayāt) addicted to vulgar pleasures (grāmyasukheṣu saktaḥ), his mind forgets to requite your favor (tava prasādāt pratikārabuddhiḥ); slain, let him behold his heroic elder brother Vālin (hato 'grajaṃ paśyatu vīravālinam)! Sovereignty should not be bestowed upon one so devoid of virtue (na rājyam evaṃ viguṇasya deyam).
 </details>
 </details>
 
@@ -266,6 +284,12 @@ braving ones, along with; *narendra putryaa* = of king's, daughter - of princess
 Sugreeva and the best braving monkeys shall search for that princess Seetha, remaining under the
 command of Vali's son, Angada." Thus said Lakshmana to Rama. [4-31-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I cannot contain my wrath of surging impetuosity (na dhāraye kopam udīrṇavegam); today I shall slay the faithless Sugrīva (nihanmi sugrīvam asatyam adya)! Let Vālin's son [Aṅgada], together with the foremost monkey heroes (haripravīraiḥ saha vāliputraḥ), conduct the search for the king's daughter (narendraputryā vicayaṃ karotu)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -321,6 +345,12 @@ Rama, the slayer of braving enemies, spoke this well thought sentence that inclu
 persuasiveness to Lakshmana who is with an irrepressible wartime anger, who has apprised his
 intention to slay Sugreeva, and who on taking his bow is now leaping at Kishkindha. [4-31-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To him who had seized his bow (tam āttabāṇāsanam) and was springing forth (utpatantam), having declared his intent (niveditārtham) in battle-fierce wrath (raṇa-caṇḍa-kopam), Rāma, the slayer of hostile heroes (paravīrahantā), spoke a well-weighed and conciliatory speech (svavīkṣitaṃ sānunayaṃ ca vākyam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -371,6 +401,12 @@ best one among men, really.
 "Certainly none of your kind shall commit this sort of sin in this world, and if
 such a situation occurs, he who by his noble gesture kills his own anger is a valorous one, and he
 really becomes the best one among men." Thus Rama is saying to Lakshmana. [4-31-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Never indeed in this world should one like you (nahi vai tvadvidho loke) commit such a sinful deed (pāpam evaṃ samācaret); he who slays his own wrath through noble discernment (kopam āryeṇa yo hanti), he is a true hero and the foremost of men (sa vīraḥ puruṣottamaḥ)!
 </details>
 </details>
 
@@ -435,6 +471,12 @@ Such an occasion shall not happen in Kishkindha, that too through Lakshmana. Thu
 pacifying Lakshmana in saying that 'my words shall not be understood that way, and killing of
 Sugreeva is not to be undertaken forthwith.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This rash resolve must not be entertained by you here (nedam atra tvayā grāhyam), O Lakṣmaṇa of virtuous conduct (sādhuvṛttena lakṣmaṇa); follow rather our established affection (tāṃ prītim anuvartasva) and our former alliance (pūrvavṛttaṃ ca saṃgatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -485,6 +527,12 @@ words; *vaktum arhasi* = to talk, apt of you.
 than with caustic remarks, as his sin is no more than flouting the timeframe." Thus Rama said to
 Lakshmana. [4-31-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With speech accompanied by conciliation (sāmopahitayā vācā), shunning harsh words (rūkṣāṇi parivarjayan), you ought to remind Sugrīva (vaktum arhasi sugrīvam) that the appointed time has passed (vyatītaṃ kālaparyaye).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -533,6 +581,12 @@ That brave one and the slayer of braving enemies Lakshmana thus schooled expedie
 by his elder brother about the means of gainfulness, that best one among men proceeded to enter the
 city of Kishkindha. [4-31-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Duly instructed in his mission by his elder brother (so 'grajenānuśiṣṭārtho yathāvat), that bull among men (puruṣarṣabhaḥ), the hero Lakṣmaṇa, slayer of hostile warriors (vīro lakṣmaṇaḥ paravīrahā), entered the city (praviveśa purīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -557,6 +611,12 @@ city of Kishkindha. [4-31-9]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अण्णन प्रिय मत्तु हितदल्लि तत्परनागिद्द शुभबुद्धियुक्त बुद्धिवन्त लक्ष्मणनु रोषगॊण्डु वानरराज सुग्रीवन भवनद कडॆगॆ हॊरटनु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Lakṣmaṇa, of auspicious mind (śubhamatiḥ), wise (prājñaḥ), and devoted to what was dear and beneficial to his brother (bhrātuḥ priyahite rataḥ), his wrath rekindled (pratisaṃrabdhaḥ), strode toward the monkey king's palace (jagāma bhavanaṃ kapeḥ),
 </details>
 </details>
 
@@ -605,6 +665,12 @@ bow which is shining forth like the bow of Indra, and which is standing out like
 proceeded towards the palace of the monkey, namely Sugreeva, and with such a bow he appeared to be
 the peaking Mt. Mandhara and like the Era-Ender. [4-31-10, 11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grasping (pragṛhya) his bow that resembled Indra's rainbow (śakrabāṇāsana-prakhyam), terrible as Death the Ender at the dissolution of time (kālāntakopamam), and towering like a mountain peak (giriśṛṅgābham)—looking like Mount Mandara with its lofty tablelands (mandaraḥ sānumān iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -629,6 +695,12 @@ the peaking Mt. Mandhara and like the Era-Ender. [4-31-10, 11]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामानुज लक्ष्मणनु अण्णन आज्ञॆयन्नु यथावत्तागि पालिसुव हागू बृहस्पतियन्तॆ बुद्धि वन्तनागिद्दनु. अवनु सुग्रीवनल्लि हेळुव, अवन उत्तर मत्तु आ उत्तरक्कॆ इवनु हेळुव ऎल्लवन्नु चॆन्नागि विमर्शिसिकॊण्डु अल्लिन्द हॊरटनु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Acting strictly as instructed (yathoktakārī) and equal to Bṛhaspati in intellect (bṛhaspatisamo buddhyā), Rāma's younger brother (rāmānujaḥ) pondered then (matvā tadā) the message to be delivered, Sugrīva's likely reply, and his own rejoinder (vacanam uttaraṃ caiva sottaram).
 </details>
 </details>
 
@@ -679,6 +751,12 @@ Sugreeva on them, and his own sensible counter-reply to them, enwrapped as he is
 fired up by the desire of Rama for Seetha, proceeded to Sugreeva's palace like an embittered
 whirlwind aided and abetted by a furious fire. [4-31-12, 13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enveloped in the fire of his brother's wrath (bhrātuḥ krodhāgninā vṛtaḥ) born of thwarted longing and anger (kāma-krodha-samutthena), Lakṣmaṇa strode forth from there (prayayau lakṣmaṇas tataḥ), displeased and fierce as a tempestuous gale (prabhañjana ivāprītaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -703,6 +781,12 @@ whirlwind aided and abetted by a furious fire. [4-31-12, 13]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अति वेगवागि सागुत्तिद्द अवनु दारियल्लि सिगुव साल, ताल, अश्वकर्ण मॊदलाद वृक्षगळन्नु जोरागि कॆडवुत्ता, पर्वत शिखरगळन्नु हागू इतर वृक्षगळन्नु ऎत्ति-ऎत्ति दूर ऎसॆयुत्तिद्दनु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Violently felling with his might (tarasā pātayan balāt) sāla, palmyra, and aśvakarṇa trees (sāla-tālāśvakarṇāṃś ca), and hurling about mountain crags (paryasyan girikūṭāni) and other trees in his impetuous speed (drumān anyāṃś ca vegitaḥ),
 </details>
 </details>
 
@@ -761,6 +845,12 @@ was explained by the sage-poet at the time of creation of Vanara-s by celestials
 onwards. When Vanara-s can fell trees or volley the peaks of mountains with some effort, Lakshmana
 can do the same effortlessly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And shattering boulders into fragments with his feet (śilāś ca śakalīkurvan padbhyām) like a swift-moving elephant (gaja ivāśugaḥ), casting each stride far ahead (dūram ekapadaṃ tyaktvā), he sped on swiftly under the urgency of his mission (yayau kāryavaśād drutam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -815,6 +905,12 @@ This is what Sugreeva told Rama when they come for second time to fight Vali
 Lakshmana again saw that impregnable Kishkindha, but with a different reception to him at this
 time.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That tiger among the Ikṣvākus (ikṣvākuśārdūlaḥ) beheld that great capital of the monkey king, Kiṣkindhā (harirāja-mahāpurīṃ kiṣkindhām), thronged with forces (balākīrṇām) and hard to assail within its mountain fastness (durgāṃ girisaṃkaṭe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -861,6 +957,12 @@ seen.
 
 While his lips are quivering owing to rancour towards Sugreeva, Lakshmana saw
 formidable Vaanara-s at the outposts of Kishkindha. [4-31-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His lips quivering with wrath (roṣāt prasphuramāṇauṣṭhaḥ) toward Sugrīva (sugrīvaṃ prati), Lakṣmaṇa beheld formidable monkeys (dadarśa vānarān bhīmān) roaming outside Kiṣkindhā (kiṣkindhāyāṃ bahiścarān).
 </details>
 </details>
 
@@ -914,6 +1016,12 @@ On seeing the most notable one among men, Lakshmana all of the elephantine vanar
 available in the gorges of mountain have grabbed hundreds of mountain-crests and gigantic trees,
 and they are at the ready. [4-31-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that bull among men, Lakṣmaṇa (taṃ dṛṣṭvā lakṣmaṇaṃ puruṣarṣabham), all the elephant-like monkeys (vānarāḥ sarve kuñjaraprakhyāḥ) within the mountain pass (parvatāntare) seized mountain crags by the hundreds (śailaśṛṅgāṇi śataśaḥ) and tall, full-grown trees (pravṛddhāṃś ca mahīruhān jagṛhuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -959,6 +1067,12 @@ kruddhaH* = with two, fold, fury babhuuva = he became.
 
 But on seeing all of them handling assaultive peaks and trees, Lakshmana's fury has
 become twofold as with a fire to which much fuel is added. [4-31-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding all those monkeys grasping weapons (tān gṛhītapraharaṇān sarvān dṛṣṭvā), Lakṣmaṇa grew doubly enraged (babhūva dviguṇaṃ kruddhaḥ), like a fire fed with abundant fuel (bahvindhana ivānalaḥ).
 </details>
 </details>
 
@@ -1008,6 +1122,12 @@ On seeing overexcited Lakshmana who is like the Time-god and the Epoch-Ender, tr
 and troops of those fly-jumpers quickly fled away in all directions with scare coiling their
 bodies. [4-31-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him agitated with fury (taṃ kṣubdhaṃ dṛṣṭvā) and resembling Time, Death, and the Doomsday conflagration (kāla-mṛtyu-yugāntābham), those monkeys, their limbs seized with terror (te bhayaparītāṅgāḥ plavaṃgamāḥ), fled by the hundreds in all directions (śataśo vidrutā diśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1053,6 +1173,12 @@ thus; *nyavedayan* = submitted [appraised.]
 
 Then on entering the palace of Sugreeva, some best ones among monkeys have appraised
 about the arrival of Lakshmana, and even about his fury. [4-31-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, entering Sugrīva's palace (sugrīvabhavanaṃ praviśya), the foremost of monkeys (haripuṃgavāḥ) reported Lakṣmaṇa's arrival and his wrath (krodham āgamanaṃ caiva lakṣmaṇasya nyavedayan).
 </details>
 </details>
 
@@ -1102,6 +1228,12 @@ At that time, he who is in a lustful mood, who is in the company of Lady Tara an
 who is enmired in privacy, that foremost monkey Sugreeva is unheedful of the words of those bold
 monkeys who brought the message. [4-31-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accompanied by Tārā (tārayā sahitaḥ) and amorously absorbed in passion (kāmī saktaḥ), the bull among monkeys (kapivṛṣaḥ) did not hear the words of those lion-like monkeys then (na teṣāṃ kapisiṃhānāṃ śuśrāva vacanaṃ tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1149,6 +1281,12 @@ ministers, directed [in order to ascertain the reason for Lakshmana's fury]; *ta
 Then, as directed by ministers of Kishkindha in order to figure out the mood of
 Lakshmana, some of the elephantine monkeys who are frightening just by their appearance, who in
 sheen are similar to mountains and dark-clouds have gone out of the city. [4-31-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, commanded by the ministers (tataḥ sacivasaṃdiṣṭāḥ), hair-raising monkeys (harayo romaharṣaṇāḥ) resembling mountains, elephants, and thunderclouds (giri-kuñjara-meghābhāḥ) marched forth from the city (nagarān niryayus tadā).
 </details>
 </details>
 
@@ -1199,6 +1337,12 @@ ca* = all, horrendous, in face, also.
 All of those brave vanara-s are armed with their own teeth and nails, all are with
 tigerish pride, all are hideous in look and horrendous by their faces. [4-31-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All of them had claws and fangs for weapons (nakha-daṃṣṭrāyudhāḥ sarve), heroic and of fierce aspect (vīrā vikṛtadarśanāḥ); all had fangs like tigers (sarve śārdūladaṃṣṭrāś ca), and all bared their gaping jaws (sarve vivṛtadarśanāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1248,6 +1392,12 @@ there.
 Some of those vanara-s are with the might of ten elephants, some ten times more, and
 some with vigour matching that of a thousand elephants. [4-31-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some possessed the strength of ten elephants (daśanāgabalāḥ kecit), some were tenfold superior to them (kecid daśaguṇottarāḥ), and some equaled the splendor and might of a thousand elephants (kecin nāgasahasrasya babhūvus tulyavarcasaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1294,6 +1444,12 @@ her, Kishkindha, saw.
 
 Infuriated Lakshmana has then seen Kishkindha, an unassailable city, as those
 great-mighty monkeys flaunting trees are spreading throughout it. [4-31-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then wrathful Lakṣmaṇa (lakṣmaṇaḥ kruddhaḥ) beheld that hard-to-assail Kiṣkindhā (kiṣkindhāṃ tāṃ durāsadām) thronged on all sides with those monkeys of mighty strength (taiḥ kapibhir vyāptāṃ mahābalaiḥ) bearing trees in their hands (drumahastaiḥ).
 </details>
 </details>
 
@@ -1347,6 +1503,12 @@ to Lakshmana with their ebullient might. [4-31-27]
 
 The word *parigha* is sometimes taken as bastions of the fort-wall.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then all those monkeys (tatas te harayaḥ sarve), of towering courage (udagrasattvāḥ), issuing forth beyond the space between rampart and moat (prākāra-parikhāntarāt niṣkramya), stood arrayed in open view (tasthur āviṣkṛtaṃ tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1394,6 +1556,12 @@ On envisaging Sugreeva's blunder and of his elder-brother's expediency, that
 sensible one and fury restrained Lakshmana, again went into the restraint of fury on seeing the
 monkeys. [4-31-28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Sugrīva's heedless negligence (sugrīvasya pramādaṃ ca) and his elder brother's urgent cause (pūrvajasyārtham), that self-possessed hero (ātmavān vīraḥ) fell once more under the sway of wrath (krodhavaśaṃ punar eva jagāma saḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1439,6 +1607,12 @@ is there.
 
 With his long, fiery, and endless exhales and eyes bloodshot in fury, that
 tigerly-man Lakshmana is like a fuming fire. [4-31-29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Heaving long, hot, deep sighs (sa dīrghoṣṇa-mahocchvāsaḥ), his eyes bloodshot with anger (kopa-saṃrakta-locanaḥ), that tiger among men (naraśārdūlaḥ) appeared like a fire wreathed in smoke (sadhūma iva pāvakaḥ),
 </details>
 </details>
 
@@ -1493,6 +1667,12 @@ The words used in verse *bhogavaan, samghaata* also means 'enjoyer of
 bow, assortment of these aspects...' but *bhoga* is yet another name for 'snake-hood'
 besides its coils and *ghaata* is 'that which obtained after multiplication...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a five-hooded serpent (pañcāsya iva pannagaḥ) whose flickering tongue was his arrow-point (bāṇaśalya-sphuraj-jihvaḥ), whose expanded hood was his bow (sāyakāsana-bhogavān), and who was filled with the venom of his own fiery energy (svatejo-viṣa-sambhūtaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1539,6 +1719,12 @@ param viSaadam agamat* = by scare, high, sadness, he [Angada] succumbed to.
 Angada succumbing to high despair caused by the scare neared Lakshmana who is aglow
 like the Fire of Perdition and like aadi seSa, the Thousand-hooded
 King of Serpents, who is perforce infuriated. [4-31-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching him (taṃ samāsādya)—who blazed like the Doomsday fire (dīptam iva kālāgnim) and resembled an enraged lordly serpent (nāgendram iva kopitam)—Aṅgada fell into supreme despondency out of fear (aṅgadas trāsād viṣādam agamat param).
 </details>
 </details>
 
@@ -1629,6 +1815,16 @@ your presence and waiting at the door, oh, Sugreeva, the vanara, if you are inte
 apt of you to listen to his advise, either by coming here or inviting him inside...' saying so oh,
 boy Angada, you comeback quickly." Thus Lakshmana spoke to Angada. [4-31-33, 34]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** With eyes copper-red from wrath (roṣatāmrākṣaḥ), glorious Lakṣmaṇa (sa mahāyaśāḥ) instructed Aṅgada (aṅgadaṃ saṃdideśa): “O dear youth (vatsa), let my arrival be announced to Sugrīva thus (sugrīvaḥ kathyatāṃ mamāgamanam ity uta):
+
+**33:** “ `This younger brother of Rāma, Lakṣmaṇa (eṣa rāmānujaḥ lakṣmaṇaḥ), has arrived in your presence (prāptas tvatsakāśam), O tamer of foes (ariṃdama), and stands at the gate (dvāri tiṣṭhati), scorched by his brother's calamity (bhrātur vyasanasaṃtaptaḥ).
+
+**34:** “ `If you have any inclination to heed his words (tasya vākyaṃ yadi ruciḥ), let what is proper be done, O monkey (kriyatāṃ sādhu vānara)!' Having spoken this message (ity uktvā vākyam), return swiftly, O dear prince, tamer of foes (śīghram āgaccha vatsa ariṃdama)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1674,6 +1870,12 @@ come; *abraviit* = spoke informed.
 
 On hearing the words of Lakshmana Angada is muffled up in grief, and on arriving in
 the presence of his father Sugreeva he informed "Soumitri has come." [4-31-35]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Lakṣmaṇa's words (lakṣmaṇasya vacaḥ śrutvā), grief-stricken Aṅgada (śokāviṣṭo 'ṅgadaḥ) approached his uncle's presence (pituḥ samīpam āgamya) and said (abravīt): “Here has Saumitri arrived (saumitrir ayam āgataḥ)!”
 </details>
 </details>
 
@@ -1735,6 +1937,12 @@ Bewildered in his perception at the very sharp words of Lakshmana, mighty Angada
 then has gone to the palace assuming a very sad face, and there he firstly saluted the feet of his
 father Sugreeva and then at the feet of Ruma, wife of Sugreeva. [4-31-36]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bewildered in mind (sambhrāntabhāvaḥ) and downcast of face (paridīnavaktraḥ) at Lakṣmaṇa's exceedingly fierce speech (tasya sutīvravācā), impetuous Aṅgada (tarasvī aṅgadaḥ), departing from the gate (nirgatya), bowed first at the feet of the king (pūrvaṃ nṛpateḥ) and then at the feet of Rumā (tato rumāyāś caraṇau vavande).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1791,6 +1999,12 @@ Sugreeva, and later clung to the feet of his mother Tara, and he even clasped th
 paternal-aunt Ruma, and latching on to the feet of his parents then he stated to appeal to them
 about the message of Lakshmana. [4-31-37]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clasping his father-uncle's feet (saṃgṛhya pādau pituḥ), Aṅgada of fierce energy (ugratejāḥ) then grasped his mother Tārā's feet again (jagrāha mātuḥ punar eva pādau), and pressing Rumā's feet (pādau rumāyāś ca nipīḍayitvā), reported that urgent matter (nivedayāmāsa tatas tad artham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1837,6 +2051,12 @@ lust, also - in its torpor, bemused [numbed down]; *babhuuva* = he became.
 Sugreeva, the vanara, who is bound up in drowsiness and dizziness could not
 comprehend clearly what Angada is talking about, as he is benumbed with intoxication, and even
 numbed down with the torpor of lustfulness. [4-31-38]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enveloped in sleep and exhaustion (nidrā-klānta-saṃvītaḥ), intoxicated with liquor (madamattaś ca), and infatuated by love (madanena ca mohitaḥ), that monkey king did not wake (sa vānaro na vibuddhavān).
 </details>
 </details>
 
@@ -1890,6 +2110,12 @@ infuriated Lakshmana, thus they jibber-jabbered so as to appease him. [4-31-39]
 The words *kila kila, hala hala* are the onomatopoeic words for the chatter of
 monkeys or hues and cries of others. - A Linguistic Study of Ramayana, Pt. Satya Vrat.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding enraged Lakṣmaṇa (taṃ kruddhaṃ lakṣmaṇaṃ prekṣya), the monkeys, their minds bewildered with terror (bhaya-mohita-cetasaḥ), raised an uproar of kilakilā cries (tataḥ kilakilāṃ cakruḥ) as they sought to propitiate him (prasādayantaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1938,6 +2164,12 @@ And those monkeys on observing Lakshmana instantly raised a hubbub at his nearby
 that is similar to a storm of a torrent, thunder of a thunderbolt, and the roar of a lion.
 [4-31-40]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him who resembled a mighty flood (mahaughanibhaṃ dṛṣṭvā), they simultaneously raised a lion-roar (siṃhanādaṃ samaṃ cakruḥ) near Lakṣmaṇa (lakṣmaṇasya samīpataḥ), loud as the crash of a thunderbolt and lightning (vajrāśani-samasvanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1984,6 +2216,12 @@ bhuuSaNaH* = topsy-turvy, garlands, ornaments; *pratyabudhyata* = came to senses
 With that uproarious noise of monkeys Sugreeva came to his senses, but because of
 stupor his coppery eyes are helter-skelter and his garlands and ornaments are topsy-turvy.
 [4-31-41]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By that mighty clamor (tena śabdena mahatā) the monkey king was finally awakened (pratyabudhyata vānaraḥ), his copper-red eyes rolling in tipsy languor (mada-vihvala-tāmrākṣaḥ) and his garland-ornaments disheveled in agitation (vyākulaḥ sragvibhūṣaṇaḥ).
 </details>
 </details>
 
@@ -2042,6 +2280,14 @@ On hearing the words of Angada two ministers who are agreeable in their advice a
 appreciable in their aspect have come along with him, and those two ministers of the king of
 vanara-s, namely Plaksha and Prabhava, have appraised Sugreeva that Lakshmana has arrived to
 discuss variously about the prosperity and probity. [4-31-42, 43]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**42:** Then, having heard Aṅgada's words (athāṅgadavacaḥ śrutvā), two counselors of the lord of monkeys (mantriṇau vānarendrasya), esteemed and of noble discernment (sammatodāradarśanau), arrived together with him (tenaiva ca samāgatau).
+
+**43:** Plakṣa and Prabhāva (plakṣaś caiva prabhāvaś ca), counselors skilled in practical policy and righteousness (mantriṇāv arthadharmayoḥ), reported that Lakṣmaṇa had arrived (prāptaṃ lakṣmaṇaṃ tau śaśaṃsatuḥ), discoursing on matters high and low (vaktum uccāvacaṃ):
 </details>
 </details>
 
@@ -2114,6 +2360,14 @@ though they are worthy enough to rule kingdom for themselves they have bestowed 
 such as they are, they have become your true friends." Thus started the ministers to say to
 Sugreeva. [4-31-45]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**44:** Having propitiated Sugrīva (prasādayitvā sugrīvam) with words pregnant with meaning and resolve (vacanaiḥ sārthaniścitaiḥ), sitting beside him as he sat enthroned (āsīnaṃ paryupāsīnau), just as attendants wait upon Śakra, lord of the Maruts (yathā śakraṃ marutpatim):
+
+**45:** “Steadfast in truth (satyasaṃdhau) and supremely fortunate (mahābhāgau), the two brothers Rāma and Lakṣmaṇa (bhrātarau rāmalakṣmaṇau), worthy of sovereignty and bestowers of sovereignty [upon you] (rājyārhau rājyadāyinau), have assumed human form [or: entered into friendship with you] (manuṣyabhāvaṃ samprāptau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2159,6 +2413,12 @@ Sugreeva. [4-31-45]
 
 "One among those two, Lakshmana, is biding at the door wielding his bow, by whom the
 monkeys are panicked and venting out alarms shuddering utterly. [4-31-46]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of those two, one—Lakṣmaṇa—stands at the gate with bow in hand (tayor eko dhanuṣpāṇir dvāri tiṣṭhati lakṣmaṇaḥ), terrified of whom (yasya bhītāḥ) the trembling monkeys are uttering loud cries (pravepanto nādān muñcanti vānarāḥ)!”
 </details>
 </details>
 
@@ -2214,6 +2474,12 @@ saaradhi*
 'Rama's word as charioteer...' meaning 'directed by Rama's word...' - Ramayana A Linguistic Study,
 Pt. Satya Vrat.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This brother of Rāghava, Lakṣmaṇa (sa eṣa rāghavabhrātā lakṣmaṇaḥ), has arrived at the command of that Rāma (prāptas tasya rāmasya śāsanāt), having Rāma's word for his charioteer (vākyasārathiḥ) and resolute determination for his war-chariot (vyavasāyarathaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2259,6 +2525,12 @@ presence, is ushered.
 
 "Oh, merited one, even Lakshmana has ushered this Angada hastily, oh, king, the
 precious son of Tara, to your presence. [4-31-48]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And this beloved son of Tārā, Aṅgada (ayaṃ ca tanayas tārāyā dayito 'ṅgadaḥ), O sinless king (rājan anagha), was dispatched in haste to your presence by Lakṣmaṇa (lakṣmaṇena sakāśaṃ te preṣitas tvarayā).
 </details>
 </details>
 
@@ -2306,6 +2578,12 @@ with eyes; *cakshusaa vaanaraan nir dahana iva* = with eyes, monkeys, to burn do
 "Oh, king of monkeys, such as he is, that brave Lakshmana is sticking fast at the
 door with an awning of rancour on his eyes and as if to burn down the monkeys just with his eyes.
 [4-31-49]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here stands that valorous hero at the gate (so 'yaṃ dvāri tiṣṭhati vīryavān), his eyes suffused with wrath (roṣaparītākṣaḥ), as though burning up the monkeys with his gaze (vānarān cakṣuṣā nirdahann iva), O lord of monkeys (vānarapate)!
 </details>
 </details>
 
@@ -2356,6 +2634,12 @@ roSaH upashamyataam hi* = now, Lakshmana's - bitterness, be pacified, indeed.
 "You may approach him quickly along with your son and relatives, oh, great-king,
 prostrate yourself before him holding him in reverence, and thus let his bitterness be indeed
 pacified now. [4-31-50]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Go swiftly, O great king (gaccha śīghraṃ mahārāja), with your son and with your kinsmen (saputraḥ sahabāndhavaḥ), bowing your head in salutation to him (tasya mūrdhnā praṇāmaṃ tvam); let his wrath be appeased today (roṣo hy adyopaśāmyatām)!
 </details>
 </details>
 
@@ -2414,6 +2698,12 @@ the ministers advised Sugreeva. [4-31-51]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever righteous-souled Rāma has commanded (yathā hi rāmo dharmātmā), perform that with focused mind (tat kuruṣva samāhitaḥ); abide by your own pact, O king (rājan tiṣṭha svasamaye), and be true to your sworn promise (bhava satyapratiśravaḥ)!”
 </details>
 </details>
 

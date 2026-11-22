@@ -67,6 +67,12 @@ Dasaratha; *shokaparidyuunam* = felt miserable by grief.
 The glorious Sugreeva made the following reply, which was intended to expel his
 grief, to Rama the son of Dasaratha who felt miserable with anguish.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the illustrious Sugrīva (śrīmān sugrīvaḥ) spoke a grief-dispelling speech (vacanaṃ śoka-nāśanam) to that Rāma, son of Daśaratha, who was sorely afflicted by sorrow (śoka-paridyūnam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +119,12 @@ abandoning friendship; *kR^itaghnaH* = by an ungrateful man.
 
 "Oh, hero! Why are you lamenting thus, as any other ordinary man? Do not be
 sorrowful like this. Abandon your grief, as an ungrateful man abandons friendship."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Why do you torment yourself (kiṃ tvayā tapyate), O hero, just as some ordinary, uncultivated man would (yathānyaḥ prākṛtas tathā)? Do not be thus (maivaṃ bhūḥ)! Cast away this anguish (tyaja saṃtāpam), even as an ungrateful man casts off friendship (kṛtaghna iva sauhṛdam).
 </details>
 </details>
 
@@ -162,6 +174,12 @@ Rama!"
 
 "As the information about Seetha has since been gathered, I do not indeed see any
 scope for your grief Oh, Rama!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, I see no ground for your anguish (saṃtāpasya ca te sthānaṃ na hi paśyāmi), O Rāghava, now that tidings of her have been obtained (pravṛttāv upalabdhāyām) and the abode of the foe is known (jñāte ca nilaye ripoḥ).
 </details>
 </details>
 
@@ -215,6 +233,12 @@ spirit is disciplined."
 learned man. Give up these ordinary apprehensions like a man whose spirit is disciplined gives up
 ideas which spoil the purpose.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are wise (matimān), versed in the scriptures (śāstravit), discerning (prājñaḥ), and learned (paṇḍitaś cāsi), O Rāghava; abandon this vulgar mindset (prākṛtāṃ buddhim) that ruins one's purpose, just as a self-mastered yogin (kṛtātmeva) abandons [thoughts] that mar the supreme goal (artha-dūṣiṇīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,6 +285,12 @@ destroy; *te* = your; *ripum* = enemy.
 "We shall make our way up to Lanka, by crossing the ocean filled with large
 crocodiles. We shall destroy your enemy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having crossed the ocean (samudraṃ laṅghayitvā) teeming with giant crocodiles (mahā-nakra-samākulam), we shall scale and storm Laṅkā (laṅkām ārohayiṣyāmaḥ) and slay your enemy (haniṣyāmaś ca te ripum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -300,6 +330,12 @@ individual; *shoka paryaakulaatmanaH* = and a person disturbed with grief;
 
 "All action get dissipated by a person who is non-enthusiastic, depressed and
 disturbed with grief. Such a person gets into troubles too."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For a man who is spiritless (nirutsāhasya), dejected (dīnasya), and whose mind is bewildered by grief (śoka-paryākulātmanaḥ), all undertakings sink into ruin (sarvārthā vyavasīdanti), and he falls into calamity (vyasanaṃ cādhigacchati).
 </details>
 </details>
 
@@ -350,6 +386,12 @@ I know; *eshhaam* = this; *harshheNa* = from their joy; *mama* = my;
 enthusiastic even to enter a fire for your sake. I understand this from their joy and my reasoning
 too is sound."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“These monkey troop-leaders (hari-yūthapāḥ) are valiant and thoroughly capable (śūrāḥ samarthāś ca sarvataḥ); for the sake of what is dear to you (tvat-priyārtham), they are filled with eager resolve (kṛtotsāhāḥ) even to enter blazing fire (praveṣṭum api pāvakam). By their exultation I know this (eṣāṃ harṣeṇa jānāmi), and my conviction too is firm (tarkaś cāpi dṛḍho mama).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -396,6 +438,12 @@ deeds.
 
 "You ought to act in every way that I may be able to get back Seetha, after
 destroying by an attack the enemy Ravana of sinful deeds."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You ought to act in such a way (tathā tvaṃ kartum arhasi) that, having slain the wicked-deeded enemy Rāvaṇa (ripuṃ rāvaṇaṃ pāpa-karmāṇam), I may bring back Sītā by valor (vikrameṇa samāneṣye sītām).
 </details>
 </details>
 
@@ -444,6 +492,12 @@ Rama!"
 "You take steps in such a way that a bridge is constructed across the sea and we
 reach that city of the king of ogres."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Act in such a manner, O Rāghava (tathā tvaṃ kuru rāghava), that a causeway may be bound here (setur atra yathā badhyet) and that we may behold that citadel (yathā paśyema tāṃ purīm) of that king of the Rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -490,6 +544,12 @@ mountain.
 
 "Be certain that Ravana is killed, once he is seen in a battle and on our seeing
 that city of Lanka standing on a peak of the Trikuta Mountain."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For once you have beheld that citadel of Laṅkā (dṛṣṭvā tāṃ hi purīṃ laṅkām) perched upon the peak of Trikūṭa (trikūṭa-śikhare sthitām), know Rāvaṇa to be slain in battle (hataṃ ca rāvaṇaṃ yuddhe) from the very sight of him (darśanād avadhāraya).
 </details>
 </details>
 
@@ -538,6 +598,12 @@ Varuna (the god of water); *laN^kaa* = Lanka; *na shakyaa* = cannot be;
 "Without building a bridge across the sea, the dreadful abode of Varuna (the god of
 water), Lanka cannot be defeated even by gods and demons including Indra."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without binding a causeway across the sea (abaddhvā sāgare setum), that dread abode of Varuṇa (ghore ca varuṇālaye), Laṅkā cannot be crushed (laṅkā na mardituṃ śakyā) even by the gods and Asuras together with Indra (sendrair api surāsuraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -568,6 +634,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द लङ्कॆयवरॆगॆ समुद्रक्कॆ सेतुवॆ कट्टिदरॆ नम्म ऎल्ल सैन्य आचॆय दड सेरि, नम्म गॆलुवायितॆन्दे नीनु तिळि; एकॆन्दरॆ कामरूपिगळाद ई वानररु युद्धदल्लि भारी कार्यवन्नु तोरिसुववरागिद्दारॆ.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The very moment a causeway is bound across the ocean right up to the vicinity of Laṅkā (yāval laṅkā-samīpataḥ), consider my entire army to have crossed over (sarvaṃ tīrṇaṃ ca me sainyam) and victory to be won (jitam ity upadhāraya); for these monkeys are heroes in battle who can assume any form at will (kāma-rūpiṇaḥ).
 </details>
 </details>
 
@@ -612,6 +684,12 @@ battle."
 "Know that when the whole of my army crosses the sea as a bridge is built across it,
 they will come out victorious, because these monkeys who are able to change their form at will are
 indeed valiant in battle."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, enough of this faltering mindset (tad alaṃ viklavāṃ buddhim), O king, which destroys all enterprises (sarvārtha-nāśinīm)! For in this world, grief saps the valor of a man (śokaḥ śauryāpakarṣaṇaḥ).
 </details>
 </details>
 
@@ -660,6 +738,12 @@ king!"
 "Therefore, take away your apprehensive mind, which destroys any enterprise for
 grief in this world diminishes the might of a man, Oh king!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rather, let that heroic pride (śauṭīryam avalambyatām) which ought to be practiced by a man (yat tu kāryaṃ manuṣyeṇa) be resorted to; when acted upon swiftly (satvaram), it serves as the true ornament of the doer (tad alaṃkaraṇāyaiva kartur bhavati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -707,6 +791,12 @@ truly; kartuH to the doer; *satvaram* = quickly."
 
 �Cling to the practice of boldness, ought to be resorted to by a man. It will
 produce competence without doubt to the doer quickly."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At this critical hour (asmin kāle), O supremely wise one (mahā-prājña), stand firm in your innate fortitude (sattvam ātiṣṭha) with fiery energy (tejasā)! For among valiant, great-souled men like you (tvad-vidhānāṃ mahātmanām), when something is lost or vanished (vinaṣṭe vā praṇaṣṭe vā), grief ruins every purpose (śokaḥ sarvārtha-nāśanaḥ).
 </details>
 </details>
 
@@ -761,6 +851,12 @@ magnanimous; *manushhyaaNaam* = men; *tvadvidhaanaam* = like you."
 prince! Grief for something lost or destroyed consumes all resources of even the strong and
 magnanimous men like you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore you, the foremost of the wise (buddhimatāṃ śreṣṭhaḥ) and knower of the meaning of all scriptures (sarva-śāstrārtha-kovidaḥ), ought to conquer the foe (ariṃ jetuṃ samarhasi) together with allies such as myself (mad-vidhaiḥ sacivaiḥ sārdham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -811,6 +907,12 @@ among the intelligent; *sarva shaastra kovidaH* = the knower of all sacred texts
 "You are the foremost among the intelligent and the knower of all sacred texts.
 Hence, you ought to defeat the enemy, with allies like me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, I do not behold anyone in the three worlds (triṣu lokeṣu), O Rāghava, who could stand face-to-face in battle (yas te tiṣṭhed abhimukho raṇe) before you when you have taken up your bow (gṛhīta-dhanuṣaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -855,6 +957,12 @@ against you; *trishhu lokeshhu* = in the three worlds; *gR^ishiita dhanushhaH* =
 "I do not indeed see any one who can withstand you in a battle filed in the three
 worlds, when you are armed with a bow, Oh Rama!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Entrusted to the monkeys (vānareṣu samāsaktam), your enterprise shall never fail (na te kāryaṃ vipatsyate); before long you shall behold Sītā (acirād drakṣyase sītām), having crossed the inexhaustible ocean (tīrtvā sāgaram akṣayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -895,6 +1003,12 @@ imperishable.
 
 "You work duly entrusted to the monkeys will not be spoiled. You shall behold Seetha
 era imperishable sea."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, enough of clinging to grief (tad alaṃ śokam ālambya); assume righteous wrath, O lord of the earth (krodham ālamba bhūpate)! Inactive Kṣatriyas are dull and spiritless (niśceṣṭāḥ kṣatriyā mandāḥ), whereas all creatures tremble before a fierce warrior (sarve caṇḍasya bibhyati).
 </details>
 </details>
 
@@ -945,6 +1059,12 @@ Kshatriya as (members of warrior- tribe); *nishcheshhTaah* = who are not active;
 indignation. Unadventurous Kshatriyas (members of warrior-tribe) never win honor but all fear the
 wrathful."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And for the purpose of crossing the dread ocean (laṅghanārthaṃ ca ghorasya samudrasya), the lord of rivers (nadī-pateḥ), take counsel right here (ihopetaḥ... vicāraya) with subtle intellect (sūkṣma-buddhiḥ) together with us (sahāsmābhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -994,6 +1114,12 @@ think of; *laN^ghanaartham cha* = design to cross; *samudrasya* = the sea;
 "You with your resourceful mind, along with us together, ponder over now a design to
 cross the sea, the terrible Lord of rivers."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Once that [ocean] has been crossed by those armies (laṅghite tatra taiḥ sainyaiḥ), be assured that victory is already won (jitam ity eva niścinu); consider my entire army to have crossed over and triumphed (sarvaṃ tīrṇaṃ ca me sainyaṃ jitam ity avadhāryatām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1034,6 +1160,12 @@ of having won; *sarvam* = (if) all; *me* = my; *sainyam* = forces;
 
 "Know victory to be certain, once the sea has been crossed by the army. Verily when
 all my forces have passed over the sea our triumph is assured!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For these monkeys, valiant in battle (śūrāḥ samare) and able to assume any form at will (kāma-rūpiṇaḥ), shall blow away those enemies (tān arīn vidhamiṣyanti) with showers of boulders and trees (śilā-pādapa-vṛṣṭibhiḥ).
 </details>
 </details>
 
@@ -1077,6 +1209,12 @@ at will; *vidhamishhyantihi* = will indeed blow away; *taan* = those; *ariin*
 
 "These monkeys, the courageous soldiers who are able to change their form at their
 volition, will crush their opponents with an avalanche of rocks and trees."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By whatever means (kathaṃcit), I already behold the abode of Varuṇa crossed over (paripaśyāmi laṅghitaṃ varuṇālayam); and by that very fact I deem him [Rāvaṇa] slain in battle (hatam ity eva taṃ manye yuddhe), O crusher of foes (śatru-nibarhaṇa)!
 </details>
 </details>
 
@@ -1128,6 +1266,12 @@ Ravana is as definitely killed in my eyes, Oh exterminator of enemies!"
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎरडनॆय सर्ग पूर्णवायितु. ॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What need is there of speaking at great length (kim uktvā bahudhā cāpi)? In every way you are victorious (sarvathā vijayī bhavān); I behold auspicious omens (nimittāni ca paśyāmi), and my heart thrills with joy (mano me samprahṛṣyati).”
 </details>
 </details>
 

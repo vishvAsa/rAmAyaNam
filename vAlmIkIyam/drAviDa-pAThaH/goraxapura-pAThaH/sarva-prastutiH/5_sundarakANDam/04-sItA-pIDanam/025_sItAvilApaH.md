@@ -62,6 +62,12 @@ women; *asaumyaanaam* = with a cruel nature;vadantiinaam = were speaking; *bahu*
 
 As those ogre woman with a cruel nature were speaking a lot harshly and horribly, Seetha cried.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, while those pitiless ogresses (rākṣasīnām asaumyānām) were uttering many harsh and dreadful words (paruṣaṃ dāruṇaṃ bahu), the daughter of Janaka wept (ruroda janakātmajā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -102,6 +108,12 @@ follows).
 Thus being spoken to by ogre women, Seetha with a good mind being frightened a lot spoke as follows
 with a voice indistinct due to tears.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the ogresses, high-minded Vaidehī (vaidehī manasvinī), supremely terrified, spoke in a voice choked with tears (bāṣpagadgadayā girā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -141,6 +153,12 @@ not do; *vaH* = (according to) your; *vachaH* = words.
 
 "A human woman is not suited to become a wife of an ogre. All of you eat me according to your desire.
 I will not do according to your words."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A human woman ought not to become the wife of a rākṣasa (rākṣasasya bhāryā). Devour me at your pleasure (kāmaṃ khādata mām), all of you; I shall never do your bidding!”
 </details>
 </details>
 
@@ -184,6 +202,12 @@ _________________
 
 Being in the middle of ogre women, being frightened by Ravana also, like a daughter of gods, that
 Seetha did not get comfort being tormented by grief.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing in the midst of the ogresses (rākṣasīmadhyagatā), Sītā, resembling a daughter of the gods (surasutopamā), found no peace (na śarma lebhe), afflicted with grief as when reviled by Rāvaṇa himself.
 </details>
 </details>
 
@@ -231,6 +255,12 @@ was) as though sinking (into); *aatmanaH* = own; *aN^gam* = body; *vepate sma* =
 Like a fawn in a forest lost from its herd and tormented by wolves, Seetha was as though sinking
 into own body and shook a lot.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā trembled violently (vepate smādhikam), as though shrinking into her own limbs (viśantīvāṅgam ātmanaḥ), like a doe strayed from her herd (yūthaparibhraṣṭā mṛgī) in the forest and harassed by wolves (kokair ivārditā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -276,6 +306,12 @@ _________________
 That Seetha with a broken heart due to grief, held a wide flowering branch of Ashoka tree and thought
 about Her husband.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clinging to a large, flowering branch of the aśoka tree (aśokasya vipulāṃ śākhām ālambya puṣpitām), broken-hearted (bhagnamānasā), she meditated in grief upon her husband.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -315,6 +351,12 @@ chintayantii* = (and) thinking; *na adhigachchhati* = did not get; *antam* = end
 
 Then that Seetha washing Her wide breasts with a flow of tears from eyes and thinking, did not
 get end of sorrow.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathing her ample breasts (snāpayantī vipulau stanau) with streams of tears from her eyes (netrajalasravaiḥ), she reflected and found no end to her grief (na śokasya tadāntam adhigacchati).
 </details>
 </details>
 
@@ -365,6 +407,12 @@ raakshasii bhaya saMtrastaa* = trembling with fear of the ogre women; *abhavat* 
 That Seetha was shaking like a plantain tree fallen down in an exceedingly windy place, trembling
 with fear of the ogre women, and became with a pale face.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trembling and fallen like a plantain tree in a gale (patitā pravāte kadalī yathā), terrified by fear of the ogresses (rākṣasīnāṃ bhayatrastā), her countenance grew pale (vivarṇavadanābhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -413,6 +461,12 @@ wide and long; *tasyaaH paramstriyaaH* = of that best woman; *vepantyaaH* = trem
 That moving plait, which was wide and long, of that best woman was seen to be like a serpant in
 motion.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Sītā trembled then, that long, thick braid of hers (tasyāḥ sā dīrghabahulā ... veṇī), shaken (kampitā), appeared like a gliding female serpent (vyālīva parisarpatī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -460,6 +514,12 @@ shokopahata chetanaa* = with a mind hit by sorrow; *aartaa* = struck by calamity
 
 That Seetha tormented by grief, with a mind hit by sorrow, struck by calamity was sighing and let
 down tears and also cried.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sighing (niḥśvasantī), afflicted with sorrow and her mind overwhelmed with indignation (kopopahatacetanā), distressed Maithilī shed tears and lamented (vilalāpa ca):
 </details>
 </details>
 
@@ -510,6 +570,12 @@ _________________
 Seetha being tormented by grief said : "Oh! Rama!" and again "Oh! Lakshmana!","Oh! Kausalya!, my
 mother-in-law" "Oh! Sumitra!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Alas, O Rāma (hā rāmeti)!” cried the noble lady in anguish, and again, “Alas, O Lakṣmaṇa! Alas, O Kausalyā, my mother-in-law (hā śvaśrūr mama kausalye)! Alas, O Sumitrā!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -529,6 +595,12 @@ mother-in-law" "Oh! Sumitra!"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘हाय! पण्डितोंने यह लोकोक्ति ठीक ही कही है कि ‘किसी भी स्त्री या पुरुषकी मृत्यु बिना समय आये नहीं होती’ ॥ १२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“True is this popular adage (lokapravādaḥ satyo 'yam) uttered by the wise (paṇḍitaiḥ samudāhṛtaḥ): untimely death is hard to obtain (akāle durlabho mṛtyuḥ) for a woman or for a man,
 </details>
 </details>
 
@@ -576,6 +648,12 @@ vaa* = to woman; *purushhasya* = or to a man; *durlabhaH* = is hard; *samudaahR^
 am living even for a moment,' death at wrong time to woman or to a man is hard' - thus being said this popular
 saying in the world is true."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+inasmuch as (yatra), though tormented here by these cruel ogresses (krūrābhī rākṣasībhir ihārditā) and separated from Rāma, I continue to live even for a moment in misery!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -622,6 +700,12 @@ speed of wind.
 "This me with small merit,wreched, like an orphan, will perish like a ship in the middle of the
 ocean being hit by the speed of wind."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Of scant merit and wretched (eṣālpapuṇyā kṛpaṇā), I shall perish like one masterless (vinaśiṣyāmy anāthavat), like a laden ship in mid-ocean (samudramadhye nauḥ pūrṇā) battered by blasts of wind (vāyuvegair ivāhatā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -661,6 +745,12 @@ sorrow.
 
 "Not seeing my husband that Rama and obtaining control of ogre women like a bank hit by water I
 am verily perishing with sorrow."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not beholding that husband of mine, and fallen under the power of the ogresses (rākṣasīvaśam āgatā), I sink indeed with grief (sīdāmi khalu śokena) like a riverbank undercut by water (kūlaṃ toyahataṃ yathā).
 </details>
 </details>
 
@@ -709,6 +799,12 @@ conduct; *priyavaadiam* = pleasant talker;
 "Only fortunate see that my husband with eyes like petals of an expanded lotus, walking with the
 gait of a lion, correct in conduct and a pleasant talker."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blessed are they who behold (dhanyāḥ paśyanti) my lord, whose eyes resemble the petals of a blossoming lotus (padmadalapatrākṣam), who walks with the stride of a lion (siṃhavikrāntagāminam), grateful and kindly-spoken (kṛtajñaṃ priyavādinam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -750,6 +846,12 @@ viditaatmanaa* = with a famous soul; *aasvaadyeva* = like after eating; *tiikshN
 
 "To me lacking that Rama with a famous soul, like after eating a pungent poison life in all ways
 is hard."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For me, bereft in every way of that Rāma who knows the self (rāmeṇa viditātmanā), sustaining life is impossible (durlabhaṃ mama jīvanam), like one who has tasted virulent poison (tīkṣṇaṃ viṣam ivāsvādya).
 </details>
 </details>
 
@@ -800,6 +902,12 @@ idam* = this; *duHkham* = grief; *ghoram* = which is horrible;sudaaruNam = very 
 "By what this horrible and very dreadful grief is obtained by me, what kind of great sin had been
 done by me in another life."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What manner of great sin (kīdṛśaṃ tu mahāpāpam) was committed by me in another body (dehāntare kṛtam), whereby this dreadful, supremely cruel misery (mahāduḥkhaṃ sudāruṇam) is now incurred?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -846,6 +954,12 @@ avaapyate* = is not obtainable; *mayaa* = by me; *surakshitaa* = I am well prote
 
 "Together with great grief, I desire to give away my life. This desire is not obtainable by me.
 I am well protected by ogre women."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Encompassed by great grief (śokena mahatā vṛtā), I long to cast away my life (jīvitaṃ tyaktum icchāmi); yet, being guarded by the ogresses (rākṣasībhiś ca rakṣantyā), Rāma cannot be reached by me.
 </details>
 </details>
 
@@ -897,6 +1011,12 @@ according to own desire to give up life."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तैदनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fie indeed upon the human state (dhig astu khalu mānuṣyam)! Fie upon dependence on another (dhig astu paravaśyatām), since it is impossible to relinquish life at one's own will (ātmacchandena jīvitam)!”
 </details>
 </details>
 

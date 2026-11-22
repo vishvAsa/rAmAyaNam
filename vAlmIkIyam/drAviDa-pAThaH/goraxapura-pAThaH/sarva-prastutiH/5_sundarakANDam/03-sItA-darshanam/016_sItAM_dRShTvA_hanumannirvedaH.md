@@ -70,6 +70,12 @@ immersed in thought; *punaH* = again.
 The best among vanaras praising that Seetha who is fit to be praised, and also praising Sri Rama
 pleasing with His virtues, became immersed in thought again.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having praised that praiseworthy Sītā and Rāma, delightful for his virtues (guṇābhirāmam), that bull among monkeys again became absorbed in anxious thought (cintāparaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +126,12 @@ Seetha; *baaSpa paryaakulekSaNaH* = (and) became with eyes tormented with tears.
 
 That Hanuma the radiant one thinking for a moment, cried about Seetha and became with eyes tormented
 with tears.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting for a moment (muhūrtam iva), his eyes brimming and agitated with tears (bāṣpaparyākulekṣaṇaḥ), the glorious Hanumān lamented on account of Sītā.
 </details>
 </details>
 
@@ -173,6 +185,12 @@ difficult to withstand.
 "Respectable to Lakshmana, instructed by teachers, Seetha is also dear to teachers; if She is stricken
 with grief, destiny is indeed difficult to withstand."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If even Sītā—worthy of honor from Lakṣmaṇa who is disciplined by his elders (guruvinītasya), and dearly beloved of his elder brother [Rāma]—is afflicted with sorrow, then Time (kālaḥ) is truly insurmountable (duratikramaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -220,6 +238,12 @@ lakSmaNasya ca* = and of sagacious Lakshmana; *devii* = Seetha; *na kSubhyate* =
 
 "Knowing the effort of Sri Rama and of sagacious Lakshmana, Seetha is not worried a lot, like Ganga
 in the rainy season."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing the resolute enterprise (vyavasāyajñā) of Rāma and of wise Lakṣmaṇa, the noble lady is not excessively agitated (nātyarthaṃ kṣubhyate), like the Gaṅgā at the onset of the rain-clouds.
 </details>
 </details>
 
@@ -269,6 +293,12 @@ in the rainy season."
 
 "Sri Rama is suited to Seetha with Her well matched character, age and conduct; with well matched
 pedigree and characteristics this black-eyed Seetha is also suited to Him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāghava deserves Vaidehī, who matches him in disposition, age, and conduct (tulyaśīlavayovṛttām) and equals him in noble lineage and auspicious marks (tulyābhijanalakṣaṇām); and this dark-eyed lady deserves him.”
 </details>
 </details>
 
@@ -322,6 +352,12 @@ of new gold; *shriyam iva* = like the goddess Laksmi; *loka kaantaam* = delightf
 Seeing that Seetha with the radiance of new gold, like the goddess Laksmi, delightful to the world,
 Hanuma went by heart to Sri Rama spoke these words also.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding her shining like fresh gold (navahemābhām), like Śrī herself beloved of the world, he went in thought (manasā) to Rāma and spoke this word:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -371,6 +407,12 @@ ca* = Kabanda also; *raavaNa pratimaH* = equalling to Ravana; *viirye* = in stre
 "For the sake of this Seetha, the wide eyed one, Vali of great strength has been killed, Kabanda
 also equalling Ravana in strength has been felled."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For the sake (hetoḥ) of this wide-eyed lady, Vālin of mighty strength was slain, and Kabandha, equal to Rāvaṇa in prowess (rāvaṇapratimo vīrye), was struck down.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -418,6 +460,12 @@ also equalling Ravana in strength has been felled."
 
 "In the forest during war Virada of horrible prowess has been killed by Rama by valour, like Sambara
 by Mahendra."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the terrifyingly valiant rākṣasa Virādha was slain in battle (saṃkhye) in the forest by Rāma displaying his valor (vikramya), as Śambara was by Mahendra.
 </details>
 </details>
 
@@ -493,6 +541,14 @@ mahaatejaaH duuSaNaH ca* = Duushana with great glory also (has been killed); *sa
 "By Rama with a famed mind, Khara has been killed, Trisira also has been fell down, Duushana with
 great glory also has been killed in war."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Fourteen thousand (caturdaśa sahasrāṇi) rākṣasas of dreadful deeds were slain at Janasthāna with arrows resembling tongues of flame (agniśikhopamaiḥ).
+
+**10:** Khara too was slain in battle, Triśiras was felled, and Dūṣaṇa of great fiery energy [was slain] by Rāma, knower of the Self (viditātmanā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -537,6 +593,12 @@ world.
 
 "For Her sake Sugreeva obtained wealth of vanaras ruled by Vali difficult to be obtained and worshiped
 by the world."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And on her account (asyā nimitte), the world-renowned Sugrīva obtained the sovereignty over the monkeys (aiśvaryaṃ vānarāṇām), guarded by Vālin and hard to win.
 </details>
 </details>
 
@@ -587,6 +649,12 @@ been crossed; *mayaa* = by me; *iyam* = this; *purii ca* = city also; *niriikSit
 "For the sake of Her, with wide eyes, the ocean, lord of rivers and streams, has been crossed by
 me; this city also has been explored."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By me too the glorious ocean, lord of rivers and streams (nadanadīpatiḥ), was crossed over, and for the sake of this wide-eyed lady this city has been searched (nirīkṣitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -635,6 +703,12 @@ at the end; *jagat ca api* = and the entire universe; *yuktam iti* = it is fair;
 
 "If Sri Rama for Her sake turns upside down the earth with the ocean at the end, and the entire
 universe it is fair, this is my opinion."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if Rāma should overturn (parivartayet) the earth bounded by the oceans, and the entire universe too, for her sake, my conviction is that it would be altogether fitting (yuktam ity eva me matiḥ).
 </details>
 </details>
 
@@ -685,6 +759,12 @@ of Seetha.
 "Among three worlds, if it is a choice between kingdom or Seetha, the daughter of Janaka, all the
 kingdom of three worlds will not approach a sixteenth part of Seetha."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whether it be sovereignty over the three worlds or Sītā, Janaka's daughter—the entire sovereignty of the three worlds (trailokyarājyaṃ sakalam) could not equal a sixteenth part (kalām) of Sītā!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -709,6 +789,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ये धर्मशील मिथिलानरेश महात्मा राजा जनककी पुत्री सीता पतिव्रत-धर्ममें बहुत दृढ़ हैं ॥ १५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She is that Sītā, firm in her vow to her husband (bhartṛdṛḍhavratā), daughter of the high-souled, righteous-natured Janaka, king of Mithilā (maithilarājasya).
 </details>
 </details>
 
@@ -768,6 +854,12 @@ paamsubhiH* = by auspicious dust of field; *padma reNu nibhaiH* = equalling poll
 "While a field was being ploughed She rose up splitting the earth covered by auspicious dust of
 field equalling pollen."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She arose after cleaving the earth (medinīṃ bhittvā) in a consecrated field furrowed by the ploughshare (kṣetre halamukhakṣate), covered with auspicious field-dust resembling lotus pollen (padmareṇunibhaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -816,6 +908,12 @@ one; *anivartinaH* = not turning back; *samyugeSu* = in the battle.
 "She is the famed eldest daughter-in-law of king Dasaratha the valorous one, not turning back in
 the battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She is the illustrious eldest daughter-in-law (snuṣā ... jyeṣṭhā) of King Daśaratha—valiant, of noble conduct (āryaśīlasya), and never retreating in battles (saṃyugeṣv anivartinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -863,6 +961,12 @@ of Rama; *dharmaj~nasya* = the righteous one; *kR^itaj~nasya* = grateful one; *v
 "This She the dear wife of Rama the righteous one, grateful one, knower of Self has obtained capture
 of demonesses."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She is that beloved wife (dayitā bhāryā) of Rāma—knower of dharma, grateful, and knower of the Self—now fallen under the power of rākṣasīs (rākṣasīvaśam āgatā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -893,6 +997,12 @@ _________________
 
 साध्वियाद इवळु पतिय प्रेमबलदिन्द आकर्षितळागि सकल विधवाद राजभोगगळन्नु परित्यजिसि वनवास कष्टगळन्नु लॆक्किसदॆ, निर्जनवाद अरण्यक्कॆ पतियॊडनॆ बन्दवळु.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having abandoned all royal pleasures (sarvān bhogān parityajya), impelled by the force of love for her husband (bhartṛsnehabalāt kṛtā), and taking no thought of hardships, she entered the desolate forest (nirjanaṃ vanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -922,6 +1032,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पतिसेवा परायणॆयू, अरण्यदल्लि सिगुव फल-मूलादिगळिन्दले सन्तुष्टळागुत्तिद्द, श्रीरामनॊडनॆ परम प्रीतियिन्द अरमनॆयन्नु बिट्टु गॊण्डारण्यवन्नु सेरिद आ सीतॆयु इवळे.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contented with fruits and roots (saṃtuṣṭā phalamūlena) and intent on serving her husband (bhartṛśuśrūṣaṇāparā), she experienced supreme delight (parāṃ prītim) even in the forest, just as in her palace.
 </details>
 </details>
 
@@ -972,6 +1088,12 @@ sorrows, entering forest unpopulated with humans, being happy with fruits and ro
 Her husband, even in forest is getting great happiness like in a palace, the one with golden limbs, always with
 a smiling talk, not suited to misfortunes - that this Seetha is bearing all this suffering."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That very lady of golden-hued limbs (kanakavarṇāṅgī), ever speaking with a gentle smile (nityaṃ susmitabhāṣiṇī), now endures this torment (yātanām), though wholly undeserving of calamities (anarthānām abhāginī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1020,6 +1142,12 @@ freely.
 
 "Sri Rama likes to see this Seetha who is endowed with excellent character and tormented by Ravana,
 like a thirsty one for a place where water is available freely."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāghava longs to behold (draṣṭum icchati) this lady endowed with noble virtue (śīlasampannām), ravaged by Rāvaṇa, just as a man parched with thirst (pipāsitaḥ) longs for a wayside water-pavilion (prapām iva).
 </details>
 </details>
 
@@ -1073,6 +1201,12 @@ Rama; *nuunam* = definitely; *eSyati* = will get; *priitim* = happiness; *raajaa
 "By Her gain again Sri Rama definitely will get happiness like a king who lost kingdom getting
 back the land."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely through regaining her (asyāḥ punarlābhāt) Rāghava will attain joy, like a king fallen from sovereignty (rājyaparibhraṣṭaḥ) upon regaining the earth once more.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1119,6 +1253,12 @@ back the land."
 
 "Left by coveted enjoyments, lacking relatives also Seetha is keeping body desirous of meeting
 with Sri Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Deprived of desirable pleasures (kāmabhogaiḥ parityaktā) and bereft of her kinsfolk (hīnā bandhujanena ca), she sustains her own body (dhārayaty ātmano deham), yearning solely for reunion with him (tatsamāgamakāṅkṣiṇī).
 </details>
 </details>
 
@@ -1167,6 +1307,12 @@ a single heart; *raamam eva anupashyati* = is meditating only on Sri Rama; *nuun
 
 "She is not seeing demonesses, not flowers, fruits or trees and with a single heart is meditating
 only on Sri Rama - this is sure."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She sees neither the rākṣasīs nor these trees laden with blossoms and fruits (puṣpaphaladrumān); with her heart fixed on one alone (ekasthahṛdayā), surely she beholds only Rāma (rāmam evānupaśyati).
 </details>
 </details>
 
@@ -1219,6 +1365,12 @@ looking charming; *tena rahitaa* = without Sri Rama.
 "Husband is indeed the greatest adornment for a woman greater than jewellery; this Seetha though
 deserving of decoration, is not looking charming without Sri Rama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A husband is indeed a woman's supreme adornment (paraṃ śobhanam), surpassing even jewels (bhūṣaṇād api); bereft of him, though worthy of every adornment (śobhanārhā), she does not shine.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1266,6 +1418,12 @@ depressed; *duhkhena* = by sorrow.
 
 "Sri Rama although bereft of Her that Lord Rama is doing an impossible task by retaining His body
 and not being depressed by sorrow."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lord Rāma accomplishes what is hard to do (duṣkaraṃ kurute) in that, bereft of her, he sustains his own body and does not sink down in sorrow (na duḥkhenāvasīdati).
 </details>
 </details>
 
@@ -1318,6 +1476,12 @@ gloomy.
 
 "Knowing Her with black ended hairs, with lotus like eyes, deserving of comforts, and in sorrow,
 my mind also is gloomy."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing (jñātvā) this lady with dark locks of hair (asitakeśāntām) and eyes resembling hundred-petalled lotuses (śatapatranibhekṣaṇām)—who deserves happiness—to be thus afflicted, even my mind is deeply distressed (mamāpi vyathitaṃ manaḥ).
 </details>
 </details>
 
@@ -1378,6 +1542,12 @@ lakSmaNaabhyaam* = by Sri Rama and Lakshmana; *saa* = that Seetha; *samprati* = 
 "Whoever Seetha with earth-like patience, with eyes resembling lotuses, was protected by Sri Rama
 and Lakshmana, that Seetha now is being guarded by ogresses with crooked eyes at the base of a tree."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“She who is patient as the earth (kṣitikṣamā), with eyes resembling lotus blossoms (puṣkarasaṃnibhekṣaṇā), and who was once protected by Rāghava and Lakṣmaṇa, is now guarded at the root of a tree (vṛkṣamūle) by rākṣasīs with deformed eyes (vikṛtekṣaṇābhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1435,6 +1605,12 @@ plant hit by snow; *nipiiDyamaanaa* = being tormented; *vyasana paramparayaa* = 
 "With lost glory like a lotus plant hit by snow, being tormented by a series of calamities, Seetha
 obtained a pitiable condition like a chakravaka bird without a companion."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bereft of radiance like a lotus pond blighted by frost (himahatanalinīva naṣṭaśobhā), tormented by a relentless succession of calamities (vyasanaparamparayā), and like a cakravākī bird separated from her mate (sahacararahiteva), Janaka's daughter has fallen into a pitiable state (kṛpaṇāṃ daśām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1488,6 +1664,12 @@ grief).
 
 "Ashoka trees with bent branches due to flowers are giving rise to gloom a lot to Her; Due to melting
 of snow the risen up moon also with thousands of rays is causing grief."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+These aśoka trees with tip-branches bowed down by blossoms (puṣpāvanatāgraśākhāḥ) truly generate intense sorrow (śokaṃ dṛḍham) for her; and with the passing of winter (himavyapāyena), the cool-rayed moon (śītaraśmiḥ) of manifold thousand rays has risen on high.”
 </details>
 </details>
 
@@ -1553,6 +1735,12 @@ The mighty one, the best among vanaras, quick one, Hanuma thus observed the subj
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे षोडशः सर्गः ॥ १६ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें सोलहवाँ सर्ग पूरा हुआ ॥ १६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having pondered this matter thus (ity evam artham anvavekṣya) and arrived at the firm conviction (jātabuddhiḥ), “This is indeed Sītā!”, the mighty, swift bull of monkeys took refuge in that tree and sat down (niṣasāda).
 </details>
 </details>
 

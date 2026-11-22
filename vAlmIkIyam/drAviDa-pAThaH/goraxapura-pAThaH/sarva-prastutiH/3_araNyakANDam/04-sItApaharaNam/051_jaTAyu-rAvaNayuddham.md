@@ -84,6 +84,12 @@ yathaa nyaayam raavaNasya jaTaayuShaa | kruddhasya agni nibhaaH sarvaa rejuH vim
 when Jataayu spoke to Ravana in judicious words, all the twenty eyes of infuriated Ravana are torched,
 like torchlit fires...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed (ity uktaḥ), the wrathful (amarṣaṇaḥ) lord of rākṣasas, his eyes coppery with rage (krodha-tāmrākṣaḥ) and his earrings of refined gold (tapta-kāñcana-kuṇḍalaḥ), rushed upon the lord of birds (abhidudrāva patagendram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -132,6 +138,12 @@ fight; *gagane* = in sky; *vaata* = by gust, ud dhatayoH = up, heaved; *meghayoH
 
 As with two gigantic clouds up-heaved by the tornadic gusts will be hard hitting each other tempestuously
 in sky, the combat between those two, Ravana and Jataayu, became tempestuous in the sky. [3-51-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In that great battle (tasmin mahā-mṛdhe), that tumultuous clash (sa samprahāras tumulaḥ) between the two of them was like that of two storm-clouds in the sky (meghayor gagane yathā) driven by the wind (vātoddhutayoḥ).
 </details>
 </details>
 
@@ -189,6 +201,12 @@ saying that if two selfsame mountains were to confront, then it will be disastro
 the equivalence between their courage and strength.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that wondrous battle (adbhutaṃ yuddham) between the vulture and the rākṣasa (gṛdhra-rākṣasayoḥ) was like that of two winged Mālyavān mountains (sapakṣayor mālyavator mahā-parvatayor iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,6 +255,12 @@ Then the great-mighty Ravana incessantly stormed the lord of eagles Jataayu, wit
 and highly dreadful arrowheads, like tubular arrows, iron arrows, and with arrows that have crescentic
 arrowheads. [3-51-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then with most dreadful (mahā-ghoraiḥ), sharp-tipped (tīkṣṇāgraiḥ) nālīka, nārāca, and barbed vikarṇi shafts (nālīka-nārācaiḥ ... vikarṇibhiḥ), he showered down upon the mighty king of vultures (abhyavarṣad gṛdhra-rājam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -282,6 +306,12 @@ arrays of; raavaNa astraaNi Ravana's, missiles [arrows]; *prati jagraaha* = rece
 That eagle Jataayu who is the lord of winged-chariots, namely birds, in turn sustained those arrays
 of Ravana's arrows in that combat. [3-51-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In battle (saṃyuge), that vulture Jaṭāyu, the lord of winged creatures (patra-ratheśvaraḥ), withstood (pratijagrāha) those volleys of arrows (tāni śara-jālāni)—the missiles hurled by Rāvaṇa (rāvaṇāstrāṇi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -321,6 +351,12 @@ made.
 
 But that great-mighty Jataayu severally made gashes on the body of Ravana with his two feet that have
 gashing claws for that bird is with best stamina. [3-51-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his two sharp-taloned feet (tīkṣṇa-nakhābhyāṃ tu caraṇābhyām), the mighty foremost of birds (pataga-sattamaḥ) inflicted wounds in many places (cakāra bahudhā vraṇān) upon his body (tasya gātre).
 </details>
 </details>
 
@@ -370,6 +406,12 @@ shatroH nidhana kaankSayaa* = his enemy's, elimination, wishful of; *mR^ityu daN
 
 Now the Decahedral demon Ravana infuriately took up ten deadly arrows that are similar in their shine
 to the Shafts of the Terminator, wishful of the elimination of his enemy. [3-51-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then in wrath (krodhāt) Daśagrīva seized ten arrows (jagrāha daśa mārgaṇān), dreadful and resembling the rods of Death (mṛtyu-daṇḍa-nibhān ghorān), with the desire of slaying his foe (śatror nidhana-kāṅkṣayā).
 </details>
 </details>
 
@@ -422,6 +464,12 @@ _________________
 That highly energetic Ravana released and impaled the eagle with straight shooting arrows on fully stretching
 the bowstring up to his ear, whose steel-pointed arrowheads are sharp, hurtful, and deadly. [3-51-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With those whetted (niśitaiḥ), sharp, dreadful, iron-tipped shafts (ghoraiḥ śilīmukhaiḥ), loosed at full draw (pūrṇa-muktaiḥ) and flying straight (ajihmagaiḥ), he of mighty valor pierced the vulture (bibheda ... gṛdhram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,6 +515,12 @@ dravat* = swiftly, towards, flowed [lunged forcefully.]
 
 That Jataayu on seeing teary-eyed Jaanaki in the chariot of the demon forcefully lunged towards that
 demon heedless of arrows that are lunging at him. [3-51-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the tearful-eyed Jānakī (paśyañ jānakīṃ bāṣpa-locanām) in the rākṣasa's chariot, he disregarded those arrows (acintayitvā bāṇāṃs tān) and rushed straight at the rākṣasa (rākṣasaṃ samabhidravat).
 </details>
 </details>
 
@@ -515,6 +569,12 @@ That unexcelled bird of high refulgence then shattered Ravana's bow which is dec
 gemstones, and on which an arrow is admitted targeting the eagle, just by the pair of his bare feet.
 [3-51-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then with his two feet (caraṇābhyām), the fiery-spirited (mahā-tejāḥ) foremost of birds (patagottamaḥ) shattered his bow together with its arrow (saśaraṃ cāpam), decked with pearls and gems (muktā-maṇi-vibhūṣitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -562,6 +622,12 @@ now, in thousands; *shara varSaaNi vavarSa* = arrow, storms, stormed.
 
 Ravana convulsed in anger then took up another bow and stormed hundreds and thousands of arrow storms.
 [3-51-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, convulsed with rage (krodha-mūrcchitaḥ), Rāvaṇa seized another bow (anyad dhanur ādāya) and rained down showers of arrows (vavarṣa śara-varṣāṇi) by the hundreds and by the thousands (śataśo 'tha sahasraśaḥ).
 </details>
 </details>
 
@@ -612,6 +678,12 @@ iva* = a bird, like; *babhau* = shone forth.
 Nested in the arrows shot by Ravana that lordly bird Jataayu then shone forth in that combat like a
 bird that obtains a readymade nest. [3-51-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Covered all around by his arrows in battle (śarair āvāritas tasya saṃyuge), the lord of birds (patageśvaraḥ) then shone like a bird resting inside its nest (kulāyam abhisamprāptaḥ pakṣivac ca babhau tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -657,6 +729,12 @@ babhanja* = with both feet, shattered.
 
 On winnowing those arrays of arrows with both of his wings, he that highly refulgent Jataayu shattered
 the mighty bow of Ravana with both of his feet. [3-51-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scattering those volleys of arrows (tāni śara-jālāni) with his wings (pakṣābhyāṃ tu vidhūya ha), the fiery-spirited one shattered his mighty [second] bow (babhañjāsya mahad dhanuḥ) with his feet (caraṇābhyām).
 </details>
 </details>
 
@@ -713,6 +791,12 @@ The word used here for armour is *sharaavara *and for this Pt. Satya Vrat says: 
 which is also not noticed by Monier Williams is *sharaavara. *It means an armour *kavaca
 *and occurs at least twice in the Ramayana...' i.e., here and at 3-64-49 of this canto.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And with his wings (pakṣābhyāṃ ca), the fiery-spirited lord of birds (patageśvaraḥ) battered off (vyadhunot) Rāvaṇa's blazing armor (śarāvaram), which shone like fire (agni-sadṛśaṃ dīptam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -761,6 +845,12 @@ mules, also; *samare jaghaana* = in combat, killed [knocked off.]
 
 Mighty Jataayu also knocked off the ghost-faced mules yoked to the chariot of Ravana which are covered
 in golden armours and tantivy in fastness. [3-51-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And in battle (samare), the mighty one (balī) slew those swift (java-sampannān), celestial, goblin-faced mules (piśāca-vadanān kharān) of his, which were clad in golden breastplates (kāñcanoraś-chadān).
 </details>
 </details>
 
@@ -814,6 +904,12 @@ whose wheels are crafted with gold and gemstones, and which in its flare is like
 splintered down even that chariot of Ravana. [3-51-16]
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then he also shattered (babhañja ca) that great chariot (mahā-ratham), which coursed at will (kāmagam), blazed like fire (pāvakārciṣam), was fitted with a triple yoke-pole (triveṇu-sampannam), and had its frame adorned with jewelled steps (maṇi-sopāna-citrāṅgam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -877,6 +973,14 @@ one; *pakshi raajaH* = bird's, king, Jataayu; *asya* = his [Ravana's]; *saarathe
 Again that highly energetic and imposing king of birds pecked off the robust head of the charioteer
 of Ravana with beak. [3-51-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** With a furious rush (vegena), he struck down (pātayām āsa) the parasol resembling the full moon (pūrṇa-candra-pratīkāśaṃ chatram) along with the chowrie-fans (vyajanaiḥ saha), together with the rākṣasas who bore them (grāhibhī rākṣasaiḥ saha).
+
+**18:** And with his beak (tuṇḍena ca), the glorious and mighty king of birds (pakṣi-rājo mahā-balaḥ) swiftly tore off (punar vyapahanat) the massive head of his charioteer (sāratheś cāsya mahac chiraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -932,6 +1036,12 @@ can be expressed in two ways, one is like the usual villain's grabbing by torso,
 an ardent devotee of Goddess Lakshmi, keeping her on his torso. This is similar to the method adopted
 by Viraadha while handling Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his bow shattered (bhagna-dhanvā), chariotless (virathaḥ), his steeds slain (hatāśvaḥ), and his charioteer killed (hata-sārathiḥ), Rāvaṇa fell to the ground (papāta bhuvi), clasping Vaidehī to his hip (aṅkenādāya vaidehīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -981,6 +1091,12 @@ _________________
 On seeing Ravana who is foundered onto earth from his crumbled vehicle, all beings like sylvan deities,
 caarana-s, siddha-s and suchlike, reverenced that lordly eagle Jataayu. [3-51-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Rāvaṇa fallen upon the ground (nipatitaṃ bhūmau) with his vehicle shattered (bhagna-vāhanam), all creatures acclaimed the king of vultures (bhūtāni gṛdhra-rājam apūjayan), crying, “Bravo! Bravo!” (sādhu sādhv iti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1023,6 +1139,12 @@ hR^iSTaH* = Ravana, gladdened; *maithiliim gR^ihya* = Maithili, on taking; *puna
 
 But on seeing the commandant of birds Jataayu is fatigued owing to his senescence, Ravana is gladdened
 and he again rose up to skies taking Maithili. [3-51-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+But seeing that leader of bird-flocks (pakṣi-yūthapam) exhausted by old age (pariśrāntaṃ jarayā), Rāvaṇa joyfully sprang up again into the air (utpapāta punar hṛṣṭaḥ), seizing Maithilī (maithilīṃ gṛhya).
 </details>
 </details>
 
@@ -1087,6 +1209,14 @@ which demon's assault devices are all demolished by now save for a single sword,
 to spirit away the daughter of Janaka, and actually spiriting away holding her onto his flank, and Jataayu
 spoke this to such Ravana. [3-51-22, 23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** Toward that exultant Rāvaṇa (taṃ prahṛṣṭaṃ rāvaṇam), who was departing with Janaka's daughter placed upon his hip (nidhāyāṅke janakātmajām), left with only his sword (khaḍga-śeṣam) and with his war-gear lost and destroyed (praṇaṣṭa-hata-sādhanam)—
+
+**23:** The fiery-spirited king of vultures Jaṭāyu soared aloft (samutpatya), rushed upon Rāvaṇa (rāvaṇaṃ samabhidravat), and blocking his path (samāvārya), spoke these words (idam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1136,6 +1266,12 @@ bhaaryaam* = Rama's, who is wife of; *enaam* = her; *rakSasaam vadhaaya harasi k
 "You mean-minded Ravana, you abduct her whose husband wields arrows that touch off like the Thunderbolt
 of Indra, and this spite of yours is definitely for the destruction of all the demons. [3-51-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O shallow-witted Rāvaṇa (alpa-buddhe rāvaṇa), you are carrying off this wife of Rāma—whose arrows have the impact of the thunderbolt (vajra-saṃsparśa-bāṇasya)—surely for the destruction of the rākṣasas (vadhāya khalu rakṣasām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1183,6 +1319,12 @@ of venom]; by undertaking this you; *viSa paanam pibasi* = venom, drink, you dri
 armies, and with your accomplices, as this abduction of Seetha itself is squirrelling away dangerous
 poison. [3-51-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Along with your friends and kinsmen (samitra-bandhuḥ), your ministers (sāmātyaḥ), your army (sabalaḥ), and your retinue (saparicchadaḥ), you are drinking this draught of poison (viṣa-pānaṃ pibasy etat) like a thirsty man drinking water (pipāsita ivodakam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1229,6 +1371,12 @@ poison. [3-51-25]
 "As with the mindless adventurers quickly getting ruination for they undertake self-ruinous exploits,
 unknowing the backlashes thereof, so also you too will ruin that quickly with this mindless adventure.
 [3-51-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fools (avicakṣaṇāḥ) who do not foresee the consequence of their deeds (anubandham ajānantaḥ karmaṇām) perish very swiftly (śīghram eva vinaśyanti), just as you yourself shall perish (yathā tvaṃ vinaśiṣyasi)!
 </details>
 </details>
 
@@ -1288,6 +1436,12 @@ you bit the baited hook called Seetha and running away with that bait and hook a
 the Terminator has already lassoed His noose around your neck, and perchance you may presently abscond
 from this hermitage, but not from that noose, called Rama's arrow, for a long time.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bound by the noose of Death (baddhas tvaṃ kāla-pāśena), whither can you go to escape from it (kva gatas tasya mokṣyase), like a fish (jalajo yathā) that has swallowed a baited hook (baḍiśaṃ gṛhya sāmiṣam) to its own destruction (vadhāya)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1337,6 +1491,12 @@ dharSaNam* = this, of hermitage, assailing; *jaatu* = at anytime; *na kSamiSyete
 "But, oh Ravana, the unassailable Raghava-s of Kakutstha dynasty will nevermore condone your assailing
 this hermitage. [3-51-28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For never (na hi jātu), O Rāvaṇa, will those two unassailable Rāghavas of Kakutstha's line (durādharṣau kākutsthau ... rāghavau) forgive your violation of this hermitage (tava dharṣaṇaṃ cāśramasyāsya kṣamiṣyete)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1383,6 +1543,12 @@ ones]; *na eSa* = not, this [thieving] is.
 
 "Like a dastard you are committing a crime of thieving Seetha when none at home in the footsteps of
 thieves, this thieving is contemptible to society and condemnable by valiant ones. [3-51-29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Such as this deed (yathā kṛtaṃ karma) censured by the world (loka-garhitam) has been done by you like a coward (tvayā bhīruṇā), this is the path trodden by thieves (taskarācarito mārgaḥ), not one frequented by heroes (naiṣa vīra-niṣevitaḥ).
 </details>
 </details>
 
@@ -1440,6 +1606,12 @@ This verse is a repeat of verse at 3-50-23, and such iterations are not for want
 or verbiage, but they are reckoned as the determination of the character to express his/her stance in
 similar terms.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fight (yudhyasva), if you are a hero (yadi śūro 'si)! Stand for a moment (muhūrtaṃ tiṣṭha), O Rāvaṇa! Slain, you shall lie upon the ground (śayiṣyase hato bhūmau) just as your brother Khara did (yathā bhrātā kharas tathā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1485,6 +1657,12 @@ ruination; *pratipannaH asi* = obtained [undertaking,] you are, [fateful.]
 
 "A person undertakes such an unrighteous and fateful activity if only death looms large on him. You
 too have undertaken this unrighteous fateful activity only for your self-ruination. [3-51-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That unrighteous deed (yat karmādharmyam) which a man undertakes for his own destruction (vināśāyātmanaḥ) when his time to die has come (pareta-kāle)—that very deed have you undertaken (pratipanno 'si karma tat)!
 </details>
 </details>
 
@@ -1532,6 +1710,12 @@ too have undertaken this unrighteous fateful activity only for your self-ruinati
 "If sin is consequential to any given activity who will undertake it? Even if that person vies with
 the Self-Born God and Lord of the Universe, namely Brahma, will he undertake it?" Thus Jataayu advised
 Ravana. [3-51-32]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What man indeed (ko nu pumān)—even were he the lord of the worlds (lokādhipatiḥ) or the self-existent Lord Brahmā himself (svayambhūr bhagavān api)—would perform that deed (tat kurvīta) whose consequence is sin (pāpānubandho vai yasya karmaṇaḥ)?”
 </details>
 </details>
 
@@ -1603,6 +1787,14 @@ On clasping Ravana with incisive claws Jataayu lacerated deeply and rampantly, a
 sitting astride on it will try to control an uncontrollable elephant that is running amok with an incisive
 goad. [3-51-34]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**33:** Having spoken these salutary words (evam uktvā śubhaṃ vākyam), the valiant Jaṭāyu (vīryavān) swooped down violently (nipapāta bhṛśam) upon the back of that rākṣasa Daśagrīva (pṛṣṭhe daśagrīvasya).
+
+**34:** Seizing him (taṃ gṛhītvā), he tore him on every side with his sharp talons (nakhais tīkṣṇair vidadāra samantataḥ), just as a mounted elephant-driver (adhirūḍho gajārohaḥ) would goad a rogue elephant (yathā syād duṣṭa-vāraṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1652,6 +1844,12 @@ to pluck off.
 Weaponed only with his claws, wings, and beak, Jataayu not only tore the back of Ravana asunder applying
 his beak and claws, but started to tweeze even his hair. [3-51-35]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Armed with talons, wings, and beak (nakha-pakṣa-mukhāyudhaḥ), he lacerated him with his claws (vidadāra nakhaiḥ), driving his beak into his back (asya tuṇḍaṃ pṛṣṭhe samarpayan), and tore out his hair (keśāṃś cotpāṭayām āsa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1698,6 +1896,12 @@ kampata* = severely, shuddered; or; *[pradakSiNena calanam* = on to his right, s
 His lips becoming intolerantly quivery when Ravana is exasperated by that king of eagles repetitiously,
 that demon staggered on to his right targeting the hovering eagle at his hind-side to fell it down.
 [3-51-36]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus tormented again and again by the king of vultures (tathā gṛdhra-rājena kliśyamāno muhur muhuḥ), that rākṣasa, his lips quivering with fury (amarṣa-sphuritoṣṭhaḥ san), trembled violently (prākampata ca).
 </details>
 </details>
 
@@ -1748,6 +1952,12 @@ with [Ravana's] palm, hit back.
 Ravana who is aggrieved and convulsed in fury hit back Jataayu with his palm while firmly clutching
 Vaidehi onto his left flank. [3-51-37]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clasping Vaidehī tightly with his left flank (sampariṣvajya vaidehīṃ vāmenāṅkena), the afflicted Rāvaṇa (ārto rāvaṇaḥ), convulsed with rage (krodha-mūrcchitaḥ), struck Jaṭāyu with his open palm (talenābhijaghāna).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1795,6 +2005,12 @@ Jataayu, the lord of birds, being a vanquisher of enemies outstripped Ravana and
 of Ravana with his beak, with which left arms Ravana is clutching Vaidehi, in order to release her from
 his clutches. [3-51-38]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enduring and surging past that blow (tam atikramya), the foe-taming (ariṃdamaḥ) lord of birds Jaṭāyu (khagādhipaḥ) then tore off (vyapāharat) his ten left arms (asya vāma-bāhūn daśa) with his beak (tuṇḍena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1840,6 +2056,12 @@ abhavan, instantly, became - sprang up, ricocheted.
 
 Though his arms are mutilated thus, they instantaneously ricocheted from his body like snakes possessing
 a series of venomous blazes sprawling out from a snake pit. [3-51-39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From him whose arms had been severed (saṃchinna-bāhoḥ), fresh arms instantly sprang forth all at once (sadyo vai bāhavaḥ sahasābhavan), like serpents ringed with flames of venom (viṣa-jvālāvalī-yuktāḥ pannagāḥ) emerging from an anthill (valmīkād iva).
 </details>
 </details>
 
@@ -1888,6 +2110,12 @@ siitaam utsR^ijya* = Seetha, throwing off; *muSTibhyaam caraNaabhyaam ca* = with
 The valorous Decahedron Ravana then threw off Seetha, and out of fury he scuffled with the king of eagles
 with fisticuffs and kicks, by both his feet and fists. [3-51-40]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then in wrath (krodhāt), the valiant Daśagrīva released Sītā (sītām utsṛjya) and battered the king of vultures (gṛdhra-rājam apothayat) with his fists and his feet (muṣṭibhyāṃ caraṇābhyāṃ ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1932,6 +2160,12 @@ sangraamaH babhuuva* = for some time, encounter, chanced.
 
 Then there chanced an encounter for some time between those two valorous ones with mutually outweighing
 capabilities, namely the chieftain of demons and the chief of the birds. [3-51-41]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then for an hour (muhūrtam) there raged a battle (saṃgrāmo babhūva) between those two of peerless valor (atula-vīryayoḥ)—the chief of the rākṣasas and the foremost of birds (pakṣiṇāṃ pravarasya ca).
 </details>
 </details>
 
@@ -1980,6 +2214,12 @@ ca paarshvau ca* = wings, feet, also, sides, also; *acChinat* = hewed off.
 Ravana brandishing his sword at Jataayu, who is revolting for the sake of Rama, hewed off both of his
 wings, sides, and feet. [3-51-42]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Drawing his sword (khaḍgam uddhṛtya), that Rāvaṇa hacked off (so 'cchinat) the wings, feet, and flanks (pakṣau pādau ca pārśvau ca) of him who was striving with all his might for Rāma's sake (tasya vyāyacchamānasya rāmasyārthe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2024,6 +2264,12 @@ life; *sahasaa* = immedietly; *dharaNyaam ni papaata* = onto earth, down, fallen
 
 When that demon of cruel actions has ruptured his wings that colossal eagle Jataayu immediately fell
 down to earth with a lessened life. [3-51-43]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His wings suddenly severed (sa cchinna-pakṣaḥ sahasā) by the rākṣasa of dreadful deeds (rakṣasā raudra-karmaṇā), the great vulture fell upon the earth (nipapāta mahā-gṛdhro dharaṇyām) with but little life remaining (alpa-jīvitaḥ).
 </details>
 </details>
 
@@ -2070,6 +2316,12 @@ down to earth with a lessened life. [3-51-43]
 
 On seeing Jataayu fallen on earth and dampened with blood Vaidehi fell into a fit of weeping and ran
 towards him as if he is her own relative. [3-51-44]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Jaṭāyu fallen upon the ground (taṃ dṛṣṭvā patitaṃ bhūmau) and drenched in blood (kṣatajārdram), the sorrow-stricken Vaidehī (duḥkhitā vaidehī) ran toward him as toward her own kinsman (abhyadhāvata sva-bandhum iva).
 </details>
 </details>
 
@@ -2137,6 +2389,12 @@ The cloudy blackness is simile to the black feathers of the eagle, and to the ch
 wildfire. The whitely white colour is to the whitish feathers on the chest of the eagle, and to the
 white ashes overlaid on the charred material by wildfire, before they ashen. Thus, Jataayu fell down
 in a supine posture.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lord of Laṅkā (laṅkādhipatiḥ) beheld upon the earth (dadarśa pṛthivyām) that Jaṭāyu of noble valor (udāra-vīryam), who resembled a dark rain-cloud (nīla-jīmūta-nikāśa-kalpam) with a pale-white breast (sapāṇḍuroraskam), lying like an extinguished forest fire (śāntam ivāgni-dāvam).
 </details>
 </details>
 
@@ -2206,5 +2464,11 @@ The commentators deal this aspect in the next chapter of this canto.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तॊन्दनॆय सर्ग सम्पूर्णवायितु. ॥51॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Janaka's daughter Sītā, her face radiant as the moon (śaśi-prabhānanā), again embraced (punaś ca saṃgṛhya) that winged bird (taṃ patra-ratham) felled upon the ground (mahītale nipātitam) and crushed by Rāvaṇa's onslaught (rāvaṇa-vega-marditam), and wept (ruroda).
 </details>
 </details>

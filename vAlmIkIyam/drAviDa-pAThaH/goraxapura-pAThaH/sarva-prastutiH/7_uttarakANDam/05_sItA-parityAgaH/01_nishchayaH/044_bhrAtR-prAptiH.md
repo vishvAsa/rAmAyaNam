@@ -36,6 +36,12 @@ title = "०४४ भ्रातृ-प्राप्तिः"
 
 सुहृदरन्नु कळुहिसिकॊट्टनन्तर श्रीरामनु मुन्दॆ तानु माडुव कार्यवन्नु बुद्धियिन्द निश्चयिसि बळियल्ले इद्द द्वारपालकनल्लि हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dismissed the company of his friends (visṛjya tu suhṛd-vargam) and resolved in his mind (buddhyā niścitya), Rāghava spoke these words to the doorkeeper seated nearby (samīpe dvāḥstham āsīnam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,6 +70,12 @@ _________________
 
 नीनु बेगने होगि महाभाग भरत, सुमित्रा कुमार शुभलक्षण लक्ष्मण मत्तु अपराजित वीर शत्रुघ्ननन्नु इल्लिगॆ करॆदुकॊण्डु बा.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bring swiftly (śīghram ānaya) Saumitri, Lakṣmaṇa of auspicious marks (śubha-lakṣaṇam), and the illustrious Bharata (bharataṃ ca mahābhāgam), and the unconquered Śatrughna (śatrughnam aparājitam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,6 +100,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीराम चन्द्रन आदेश पडॆद द्वारपालकनु तलॆय मेलॆ अञ्जलिबद्धनागि श्रीरामनिगॆ नमस्करिसि, लक्ष्मणन मनॆगॆ होगि यावुदे तडॆयिल्लदॆ ऒळगॆ प्रवेशिसिदनु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma’s command (rāmasya vacanaṃ śrutvā), the doorkeeper—his joined palms raised to his head (mūrdhni kṛtāñjaliḥ)—went to Lakṣmaṇa’s palace and entered unhindered (praviveśānivāritaḥ).
 </details>
 </details>
 
@@ -114,6 +132,12 @@ _________________
 
 अल्लि कैमुगिदु लक्ष्मणन जय-जयकार माडुत्ता महात्मा अवनल्लि हेळिदनु - राज कुमारने! महाराजरु निम्मन्नु नोडलु बयसुत्तिद्दारॆ, विळम्बविल्लदॆ बेगने नडॆयिरि.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having greeted the high-souled prince with blessings of victory (vardhayitvā), he spoke with joined palms (kṛtāñjaliḥ): “The king desires to see you (draṣṭum icchati rājā tvām); pray go thither without delay (gamyatāṃ tatra mā ciram)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +162,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग सुमित्रा कुमार लक्ष्मणनु हागॆये आगलि ऎन्दु हेळि श्रीरामन आदेशवन्नु शिरसावहिसि कूडले रथदल्लि कुळितु श्रीरघुनाथन अरमनॆगॆ धाविसिदनु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So be it!” (bāḍham ity eva) said Saumitri upon hearing Rāghava’s command (rāghava-śāsanam); mounting his chariot (ratham āruhya), he sped swiftly to Rāghava’s palace (prādravad ... rāghavasya niveśanam).
 </details>
 </details>
 
@@ -166,6 +196,12 @@ _________________
 
 लक्ष्मणनु होगुवुदन्नु नोडि द्वारपालकनु भरतन बळिगॆ होगि, कैमुगिदुकॊण्डु अवन जय-जयकार माडुत्ता विनीतनागि प्रभो! महाराजरु निम्मन्नु नोडलु बयसुत्तारॆ ऎन्दु हेळिदनु.॥6½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Lakṣmaṇa setting out (prayāntaṃ lakṣmaṇaṃ dṛṣṭvā), the doorkeeper approached Bharata’s presence (bharatam antikāt) and, greeting Bharata there with blessings and joined palms (vardhayitvā kṛtāñjaliḥ), spoke:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -190,6 +226,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु कळिसिद द्वारपालक निन्द इदन्नु केळि महाबलि भरतनु तत्क्षण तन्न आसनदिन्द ऎद्दु काल्नडिगॆयिन्दले हॊरटनु.॥7½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—bowing low in humility (vinayāvanato bhūtvā)—“The king desires to see you (rājā tvāṃ draṣṭum icchati)!” Hearing from the doorkeeper those words sent by Rāma (vacaḥ śrutvā dvāḥsthād rāma-samīritam), Bharata—
 </details>
 </details>
 
@@ -216,6 +258,12 @@ _________________
 
 भरतनु हॊरटिरुवुदन्नु नोडि द्वारपालकनु अवसरदिन्द शत्रुघ्नन भवनक्कॆ होगि कैमुगिदुकॊण्डु हेळिदनु.॥8½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—leapt swiftly from his seat (utpapātāsanāt tūrṇam) and went straight on foot, mighty as he was (padbhyām eva yayau balī). Seeing Bharata setting forth (dṛṣṭvā prayāntaṃ bharatam), the doorkeeper, hastening with joined palms (tvaramāṇaḥ kṛtāñjaliḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,6 +289,12 @@ _________________
 
 रघुश्रेष्ठने! बन्नि, नडॆयिरि, श्रीराम महाराजरु निम्मन्नु नोडलु बयसुत्तिरुवरु. श्रीलक्ष्मण मत्तु महायशस्वी भरतनू मॊदले होगिरुवरु.॥9½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—went to Śatrughna’s mansion (śatrughna-bhavanaṃ gatvā) and thereupon spoke these words: “Come, hasten forth, O foremost of the Raghus (ehy āgaccha raghu-śreṣṭha)! The king desires to see you.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -265,6 +319,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 द्वारपालकन मातन्नु केळि शत्रुघ्ननु तन्न उत्तमासनदिन्द ऎद्दु, मनस्सिनल्ले श्रीरामनिगॆ दण्डवत् नमस्करिसि कूडले अवन निवासद कडॆगॆ हॊरटनु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For Lakṣmaṇa has already gone (gato hi lakṣmaṇaḥ pūrvam), and the greatly renowned Bharata too (bharataś ca mahāyaśāḥ)!” Hearing his words (śrutvā tu vacanaṃ tasya), Śatrughna, rising from his splendid seat (paramāsanāt)—
 </details>
 </details>
 
@@ -293,6 +353,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 द्वारपालकनु बन्दु श्रीरामनिगॆ कैमुगिदुकॊण्डु, प्रभो! तम्म ऎल्ल सहोदररु बागिलिगॆ बन्दिरुवरु ऎन्दु निवेदिसिकॊण्डनु.॥11½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—touching the earth with his head (śirasā dharaṇīṃ prāpya), hurried to where Rāghava was (prayayau yatra rāghavaḥ). Returning then to Rāma (dvāḥsthas tv āgamya rāmāya) with joined palms (kṛtāñjaliḥ), the doorkeeper announced to him (nivedayām āsa) that all his brothers had arrived and were standing in attendance (sarvān eva ... bhrātṝn svān samupasthitān).
 </details>
 </details>
 
@@ -328,6 +394,14 @@ _________________
 
 कुमारर आगमनवन्नु केळि चिन्तॆयिन्द व्याकुलवाद इन्द्रियगळुळ्ळ श्रीरामनु तलॆतग्गिसिकॊण्डे दुःखितनागि - नीनु मूवरू राजकुमाररन्नु बेगने नन्न बळिगॆ करॆदुकॊण्डु बा. नन्न जीवन इवर मेलॆये अवलम्बिसिदॆ. इवरु नन्न प्रिय प्राणस्वरूपरागिद्दारॆ, ऎन्दु द्वारपालकनिगॆ आदेशिसिदनु.॥12½-13½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** Hearing that the princes had arrived (kumārān āgatāñ chrutvā), Rāma—his senses agitated by anxiety (cintā-vyākulitendriyaḥ), his face downcast (avāṅmukhaḥ), and his mind dejected (dīnamanāḥ)—spoke these words to the doorkeeper:
+
+**13:** “Usher the princes into my presence in haste (praveśaya kumārāṃs tvaṃ mat-samīpaṃ tvarānvitaḥ); in them abides my life (eteṣu jīvitaṃ mahyam), for they are my dear vital breaths (ete prāṇāḥ priyā mama)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -352,6 +426,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाराजर आज्ञॆ पडॆदु आ श्वेतवस्त्रधारि कुमाररु तलॆतग्गिसिकॊण्डु, कैमुगिदुकॊण्डु एकाग्रचित्तरागि भवनवन्नु प्रवेशिसिदरु.॥14½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoned by the lord of men (ājñaptās tu narendreṇa), those princes of Indra-like splendor (kumārāḥ śakra-tejasaḥ) bowed low (prahvāḥ) and, with joined palms and composed minds (prāñjalayo bhūtvā ... samāhitāḥ), entered.
 </details>
 </details>
 
@@ -378,6 +458,12 @@ _________________
 
 चन्द्रनिगॆ ग्रहण हिडिदन्तॆ श्रीरामन उदास मुखवन्नु अवरु नोडिदरु. अदु सन्ध्याकालद सूर्यनन्तॆ प्रभाशून्यवागित्तु.॥15½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding his face (dṛṣṭvā mukhaṃ tasya), like the moon seized by an eclipse (sa-grahaṃ śaśinaṃ yathā) or like the sun sunk into twilight, bereft of radiance (sandhyāgatam ivādityaṃ prabhayā parivarjitam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +488,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बुद्धिवन्त श्रीरामनु ऎरडू कण्णुगळल्लि कम्बनि तुम्बित्तु, अवर मुखारविन्दद शोभॆ कळॆदुहोदुदन्नु अवरु पदे-पदे नोडिदरु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and seeing both eyes of the wise Rāma brimming with tears (bāṣpa-pūrṇe ca nayane ... rāmasya dhīmataḥ), and looking upon his face like a lotus robbed of its splendor (hata-śobhaṃ yathā padmaṃ mukham)—
 </details>
 </details>
 
@@ -428,6 +520,12 @@ _________________
 
 बळिक मूवरू सहोदररु कूडले श्रीरामनचरणगळल्लि मस्तकवन्निट्टु वन्दिसिदरु. मत्तॆ अवरॆल्लरू प्रेमसमाधिस्थरागि बिद्दुबिट्टरु. आग श्रीरामनु कण्णीरु हरिसुत्तिद्दनु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—they thereupon swiftly saluted Rāma’s feet with their heads (abhivādya tvaritāḥ pādau rāmasya mūrdhabhiḥ) and stood all composed in attention (tasthuḥ samāhitāḥ sarve), while Rāma let fall tears (rāmas tv aśrūṇy avartayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -452,6 +550,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबलि रघुनाथनु ऎरडू भुजगळिन्द ऎब्बिसि अवरॆल्लरन्नु आलिङ्गिसिकॊण्डनु. ई आसनदल्लि कुळितुकॊळ्ळि ऎन्दु हेळिदाग अवरु कुळितुकॊण्डाग मत्तॆ नुडिदनु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing them with both arms (tān pariṣvajya bāhubhyām) and raising them up (utthāpya ca), the mighty prince bade them, “Be seated upon the seats!” (āsaneṣv āsata ity uktvā), and thereupon spoke these words:
 </details>
 </details>
 
@@ -478,6 +582,12 @@ _________________
 
 राजकुमाररे! नीवु नन्न सर्वस्वरागिद्दीरि. नीवे नन्न जीवनरागिद्दीरि हागू निम्मिन्दले सम्पादित ई राज्यवन्नु नानु पालिसुत्तिद्देनॆ.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are my all in all (bhavanto mama sarvasvam); you are my very life (bhavanto jīvitaṃ mama); and it is the kingdom achieved by you (bhavadbhiś ca kṛtaṃ rājyam) that I govern, O lords of men (pālayāmi nareśvarāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -502,6 +612,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरेश्वररे ! नीवु ऎल्ल शास्त्रगळ ज्ञानिगळागिद्दु, अवुगळल्लि हेळिद कर्तव्यगळन्नु पालिसुववरागिद्दीरि. निम्म बुद्धि परिपक्ववागिदॆ. ईग नानु निम्म मुन्दॆ इडुव कार्यवन्नु नीवॆल्लरू सेरि नन्न समस्यॆगॆ मार्ग हुडुकबेकागिदॆ.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You have mastered the meaning of the scriptures (kṛta-śāstrārthāḥ) and are thoroughly grounded in wisdom (buddhyā ca pariniṣṭhitāḥ); united together (sambhūya), O lords of men, you must weigh and pursue this affair of mine (mad-artho ’yam anveṣṭavyaḥ)!”
 </details>
 </details>
 
@@ -538,6 +654,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि नलवत्तनाल्कनॆय सर्ग पूर्णवायितु.॥44॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Kākutstha spoke thus (tathā vadati kākutsthe), all of them, intent in utmost attention (avadhāna-parāyaṇāḥ), grew troubled in mind (udvigna-manasaḥ sarve), wondering: “What indeed is the king about to utter (kiṃ nu rājābhidhāsyati)?”
 </details>
 </details>
 

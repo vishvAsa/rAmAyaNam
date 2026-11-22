@@ -63,6 +63,12 @@ sentence.
 "Vishvamitra, the son of Kushi, piteously spoke this mellowly sentence to king Trishanku who spoke thus,
 and who in reality attained a state of profaner." Thus Sage Shataananda continued his narration. [1-59-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the king, who had visibly passed into the state of a Caṇḍāla (sākṣāc caṇḍālatāṃ gatam), had spoken thus (uktavākyam), the son of Kuśika (kuśikātmajaḥ), moved by compassion (kṛpayā), spoke these sweet words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -112,6 +118,12 @@ _________________
 Oh, Trishanku, the legatee of Ikshvaku-s, you are welcome. I am aware that you are a highly righteous
 king. Oh, the best king, you need not be dismayed, for I accord you haven. [1-59-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Welcome, my child, O scion of Ikṣvāku (ikṣvāko svāgataṃ vatsa)! I know you to be supremely righteous (jānāmi tvāṃ sudhārmikam). I shall grant you refuge (śaraṇaṃ te pradāsyāmi); do not fear, O bull among kings (mā bhaiṣīr nṛpapuṃgava)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +162,12 @@ king. Oh, the best king, you need not be dismayed, for I accord you haven. [1-59
 
 I will invite all the sages with pious activities who will render assistance in the ritual, oh, king,
 then you can perform the ritual self-composedly. [1-59-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall invite all the great sages of meritorious deeds (sarvān maharṣīn puṇyakarmaṇaḥ) who will assist in the sacrifice (yajñasāhyakarān), O King; then you shall perform your sacrifice in peace and joy (tato yakṣyasi nirvṛtaḥ).
 </details>
 </details>
 
@@ -209,6 +227,14 @@ aagamya* = having approached [all] sheltering Kaushika [to Vishvamitra] ; *shara
 'I deem that heaven is handy to you, oh, king of subjects, as you have approached the all-sheltering
 Vishvamitra and sought shelter.' Thus Vishvamitra solaced Trishanku. [1-59-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** “This form wrought by your preceptors’ curse which now abides in you (guruśāpakṛtaṃ rūpaṃ yad idaṃ tvayi vartate)—together with this very form (anena saha rūpeṇa), you shall ascend to heaven in your body (saśarīro gamiṣyasi)!
+
+**5:** “I deem heaven to be already within the grasp of your hand (hastaprāptam ahaṃ manye svargaṃ tava), O lord of men, since you have come unto Kauśika, the true giver of shelter, seeking refuge (śaraṇyaṃ śaraṇāgataḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,6 +274,12 @@ paramadhaarmikaan* = highly righteous ones; *mahaapraaj~naan* = astutely brillia
 
 On saying thus to Trishanku that great-resplendent Vishvamitra ordered his highly righteous and astutely
 brilliant sons to organise the arrangements for the ritual. [1-59-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, that sage of great splendour (mahātejāḥ) commanded his supremely righteous and deeply wise sons (putrān paramadhārmikān mahāprājñān) to assemble the requisites for the sacrifice (yajñasambhārakāraṇāt).
 </details>
 </details>
 
@@ -301,6 +333,12 @@ Vishvamitra calling forth all of his disciples said this sentence, 'oh boys invi
 are well-read in many Veda-s, along with their disciples and friends, and their ritwiks, the conductors
 of rituals at my order.' [1-59-7, 8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoning all his disciples (sarvān śiṣyān samāhūya), he spoke these words: “By my command, bring hither all the sages together with the descendants of Vasiṣṭha (sarvān ṛṣīn savāsiṣṭhān ānayadhvaṃ mamājñayā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +379,12 @@ invitees [whoever]; *uktam anaadR^itam* = spoken, not considerately; *tat sarvam
 'If someone speaks inconsiderately incited by the forcefulness of my word, whoever speaks it, whichever
 word it may be, all that is to be reported to me, whatever it is.' Thus Vishvamitra ordered his disciples.
 [1-59-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“along with their disciples, their friends, and their deeply learned officiating priests (saśiṣyān suhṛdaś caiva sartvijaḥ subahuśrutān). And whatever word anyone may utter when impelled by the authority of my message (madvākyabalacoditaḥ),
 </details>
 </details>
 
@@ -405,6 +449,14 @@ of Vedic scholars; *vacanam* = words [spoken by scholars]; *uucuH* = said - repo
 All of the disciples have returned to the fulgently resplendent sage Vishvamitra, and reported the
 words spoken by all the Vedic scholars. [1-59-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** “all that is spoken, even if disrespectful or dismissive (anādṛtam), must be reported to me in its entirety (tat sarvam akhilenoktaṃ mamākhyeyam).” Hearing those words of his, they departed in all directions at his command.
+
+**10:** Then expounders of the Veda arrived from all lands (ājagmur atha deśebhyaḥ sarvebhyo brahmavādinaḥ); and those disciples, returning unto the sage of blazing splendour (muniṃ jvalitatejasam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -444,6 +496,12 @@ samaayaanti* = all, Brahmans, are coming; *mahodayam varjayitvaa* = except Mahod
 'On listening your word all the Brahmans from all provinces have started to come and some have already
 come, leaving alone Mahodaya, the son of Vashishta.' Thus, the disciples have started to inform Vishvamitra.
 [1-59-11b, 12a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+reported the entire response of all the Vedic sages (ūcuś ca vacanaṃ sarvaṃ sarveṣāṃ brahmavādinām): “Hearing your message, all the twice-born sages are coming hither (śrutvā te vacanaṃ sarve samāyānti dvijātayaḥ);
 </details>
 </details>
 
@@ -491,6 +549,12 @@ in their fury; *[yat* = which]; *vacanam aaha* = words, [they] said; *yathaa*
 
 What all said by those hundred sons of Vashishta is explosively worded in their fury, oh, eminent
 sage, and what all they have said that you may please listen. [1-59-12b, 13a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“and from all regions they have come, excepting Mahodaya (varjayitvā mahodayam) and the entire hundred sons of Vasiṣṭha (vāsiṣṭhaṃ yac chataṃ sarvam), whose syllables were choked with wrath (krodhaparyākulākṣaram)—
 </details>
 </details>
 
@@ -557,6 +621,14 @@ bhuktvaa* = by partaking of profaner's food; *svargam katham gamiSyanti* = how t
 Though the Brahmans or the high-souled sages are now embarrassed by Vishvamitra, how can they go
 to heaven even after their demise, partaking of the food of a profaner? [1-59-14b, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “hear in full, O bull among sages, how they spoke: ‘Where a Kṣatriya is the officiating priest (kṣatriyo yājako yasya), and that too specifically for a Caṇḍāla (caṇḍālasya viśeṣataḥ),
+
+**14:** “‘how in that sacrificial assembly shall the gods and sages partake of his oblation (kathaṃ sadasi bhoktāro havis tasya surarṣayaḥ)? Or how shall high-souled Brahmins, having eaten the food of a Caṇḍāla (bhuktvā cāṇḍālabhojanam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -606,6 +678,12 @@ eyes - in anger; *etat vacanam naiSThuryam* = all these derisive sentences; *uuc
 'Oh, tigerly sage Vishvamitra, all the sons of Vashishta including Mahodaya spoke these derisive sentences
 with their eyes reddening in anger.' Thus, the disciples reported to Vishvamitra. [1-59-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘ascend to heaven, protected by Viśvāmitra (kathaṃ svargaṃ gamiṣyanti viśvāmitreṇa pālitāḥ)?’ Such were the harsh words (etad vacananaiṣṭhuryam) that they spoke with bloodshot eyes (saṃraktalocanāḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -644,6 +722,12 @@ with their eyes reddening in anger.' Thus, the disciples reported to Vishvamitra
 
 The eminent sage Vishvamitra having heard those words of the sons of Vashishta from all of his disciples,
 said this rancorously with bloodshot eyes. [1-59-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“all the sons of Vasiṣṭha together with Mahodaya (vāsiṣṭhāḥ sarve sahamahodayāḥ), O tiger among sages!” Hearing those words of them all, the bull among sages (Viśvāmitra),
 </details>
 </details>
 
@@ -694,6 +778,12 @@ _________________
 
 He who reproves me, who am abiding in rigorous ascesis, and who am an unreprovable one by my ascetic
 merit, that irreverent person will be reduced to ashes, and there is no doubt about it. [1-59-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+his eyes reddened with wrath (krodhasaṃraktanayanaḥ), angrily spoke thus: “Since they revile me who am blameless and steadfast in fierce asceticism (yad dūṣayanty aduṣṭaṃ māṃ tapa ugraṃ samāsthitam),
 </details>
 </details>
 
@@ -761,6 +851,14 @@ lokaan anucarantu* = they wander about these [mortal] worlds [in them].
 Those who reprove me will be wandering about these mortal worlds on taking birth as disfigured and
 deformed beings in the ruthless sect of Mustika-s that always feed on dog's flesh. [1-59-19b, 20a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “those evil-souled ones shall without doubt be reduced to ashes (bhasmībhūtā durātmāno bhaviṣyanti na saṃśayaḥ)! Led away today by the noose of Death to the abode of Vaivasvata Yama (adya te kālapāśena nītā vaivasvatakṣayam),
+
+**19:** “for seven hundred births (saptajātiśatāny eva) let them be born as gatherers of corpse-shrouds (mṛtapāḥ sambhavantu te)—pitiless outcastes named Muṣṭikas (muṣṭikā nāma nirghṛṇāḥ), whose constant diet is dog’s flesh (śvamāṃsaniyatāhārāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -820,6 +918,14 @@ utter barbarity; *diirghakaalam* = for a long time; *durgatim vartayiSyati*
 
 By my fury he obtains an utter barbarity and he will be occupied with a murderous bent, and he cycles
 through a worst possible living for a long time. [1-59-21b, 22a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** “Deformed in conduct and hideous in form (vikṛtāś ca virūpāś ca), let them wander through these worlds (lokān anucarantv imān)! And since the evil-minded Mahodaya reviled me who am beyond reproach (mahodayaś ca durbuddhir mām adūṣyaṃ hy adūṣayat),
+
+**21:** “condemned across all the worlds (dūṣitaḥ sarvalokeṣu), he shall pass into the state of a Niṣāda hunter (niṣādatvaṃ gamiṣyati)! Addicted to the slaughter of living beings (prāṇātipātanirataḥ) and sunk into utter pitilessness (niranukrośatāṃ gataḥ),
 </details>
 </details>
 
@@ -881,6 +987,12 @@ come at the cost of their Brahman-hood.'
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु. ॥59॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“for a long time through my wrath he shall endure a wretched existence (dīrghakālaṃ mama krodhād durgatiṃ vartayiṣyati)!” Having spoken thus much (etāvad uktvā vacanam), the great ascetic Viśvāmitra of mighty splendour ceased speaking in the midst of the sages (virarāma mahātejā ṛṣimadhye mahāmuniḥ).
 </details>
 </details>
 

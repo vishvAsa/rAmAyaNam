@@ -67,6 +67,12 @@ one; *khara taram vacaH* = hurtful, highly, words; *uvaaca* = spoke.
 Thus when Shuurpanakha disparaged that valiant Khara amidst demons he is infuriated and spoke these
 highly hurtful words. [3-22-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus taunted (ādharṣitaḥ) by Śūrpaṇakhā, the valiant Khara—harsh by nature (kharaḥ)—then spoke a still harsher word (kharataraṃ vacaḥ) in the midst of the rākṣasas:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +117,12 @@ highly hurtful words. [3-22-1]
 
 "This fury of mine originating from the disgrace brought on you is like the highly bitter salt water
 that is impossible to contain when ingested. [3-22-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This peerless wrath (krodho 'yam atulaḥ) of mine, born of your humiliation (tavāpamāna-prabhavaḥ), cannot be contained (na śakyate dhārayitum), like the surging brine of the salt ocean (lavaṇāmbha ivolbaṇam).
 </details>
 </details>
 
@@ -159,6 +171,12 @@ vi mokSyati* = now, lives, is going to give up.
 "I do not care the valour of that Rama for he is a human with dwindled lifetime, now going to give up
 his life slain by his own misdoings. [3-22-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By reason of my valor (vīryāt), I reckon as naught (na gaṇaye) Rāma—a mere mortal whose life-span is exhausted (kṣīṇa-jīvitam) and who today, slain through his own misdeeds (ātma-duścaritaiḥ), shall yield up his life-breaths (prāṇān vimokṣyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -203,6 +221,12 @@ along with; *nayaami yama saadanam* = send, to Terminator's, abode.
 
 "Control your tears and cast off your despair too, for I will send Rama to the abode of the Terminator
 along with his brother. [3-22-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let these tears be restrained (bāṣpaḥ saṃdhāryatām eṣaḥ), and let your panic be cast aside (sambhramaś ca vimucyatām); I myself shall lead Rāma along with his brother to the abode of Yama (yama-sādanam)!
 </details>
 </details>
 
@@ -249,6 +273,12 @@ lives - short-lived Rama; *raamasya raktam uSNam rudhiram* = Rama's, red, hot, b
 
 "Now, you demoness, you will swill that Rama's red hot blood when that short-lived one is hewed down
 to earth with an axe." So Khara assured Shuurpanakha. [3-22-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today, O rākṣasī, you shall drink the red, hot blood (rudhiraṃ raktam uṣṇam) of Rāma, struck down upon the earth by my battle-axe (paraśvadha-hatasya) with his life-breath ebbing away (manda-prāṇasya)!”
 </details>
 </details>
 
@@ -297,6 +327,12 @@ to earth with an axe." So Khara assured Shuurpanakha. [3-22-5]
 On hearing the words plunged from the mouth of Khara she is very much gladdened and in all her stupidity
 she further praised her brother highly saying, "you are the best among all the demons..." [3-22-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Overjoyed (samprahṛṣṭā) upon hearing the speech that issued from Khara's mouth (vadanāc cyutam), out of folly (maurkhyāt) she once again extolled (praśaśaṃsa) her brother, the foremost of rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +377,12 @@ senaa patim* = Duushana, named, to army, commander; *abraviit* = said - ordered.
 
 Though she denounced him earlier she alone praised him now for which Khara is overjoyed, and then he
 ordered his army commander, namely Duushana. [3-22-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having first been reviled (paruṣitaḥ) by her and then praised once again (punar eva praśaṃsitaḥ), Khara then spoke to his army-commander (senā-patim) named Dūṣaṇa:
 </details>
 </details>
 
@@ -420,6 +462,14 @@ such of those; *rakSasaam* = demons; *catur dasha sahasraaNi* = four, ten, thous
 "Those who are the followers of my will, whose hustle will be frightful and who will be unretreating
 in combats, such of those demons are there in fourteen thousand numbers, aren't they. [3-22-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “[There are] fourteen thousand (caturdaśa sahasrāṇi) rākṣasas who follow my will (mama cittānuvartinām), of dreadful impetuosity (bhīma-vegānām), who never retreat in battles (samareṣv anivartinām)—
+
+**9:** —dark as blue storm-clouds in hue (nīla-jīmūta-varṇānām) and sporting in the slaughter of the worlds (loka-hiṃsā-vihāriṇām): O gentle one (saumya), cause those exultant (udīrṇānām) rākṣasas to make full military preparation (sarvodyogaṃ kāraya)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -465,6 +515,12 @@ before me, be positioned.
 
 "For me, oh, gentle one, promptly position my chariot before me along with bows and arrows, amazing
 swords and diverse sharp power bolts. [3-22-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bring near (upasthāpaya) for me swiftly, O gentle one, my chariot and bows (dhanūṃṣi ca), wondrous arrows, swords, and diverse sharp javelins (śaktīś ca vividhāḥ śitāḥ).
 </details>
 </details>
 
@@ -523,6 +579,12 @@ agre paulastyaanaam raakShasaanaam vadhaartham niryaatum icchaami* which gives m
 "Before Rama I wish to present all the demonic clansmen of Sage Paulastya, for the purpose of elimination,
 for which I am starting ahead as a starter of this elimination process..."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O knower of warfare (raṇa-kovida), I wish to march forth at the head (agre niryātum icchāmi) of the mighty-souled Paulastyas for the slaying of the ill-mannered (durvinītasya) Rāma!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -568,6 +630,12 @@ shabalaiH* = variegated in colours; *sat ashvaiH yuktam* = very good, horses, al
 
 While Khara is saying thus Duushana heralded saying, "Here comes the great chariot with sun's dazzle,
 yoked with very good horses of variegated colours." [3-22-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as he was speaking thus (iti tasya bruvāṇasya), Dūṣaṇa thereupon announced (ācacakṣe) [the readiness of] his great sun-bright chariot (sūrya-varṇaṃ mahā-ratham), yoked with noble, dappled steeds (sadaśvaiḥ śabalair yuktam).
 </details>
 </details>
 
@@ -646,6 +714,16 @@ like fishes, flowers, trees, mountains, sun, moon, and auspicious birds flocks a
 with jingle-bells, endowed with flags, swords, and best horses, and such as it is, Khara embarked on
 it with all his rancour. [3-22-13, 14, 15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** That [chariot], shaped like a peak of Mount Meru (meru-śikharākāram), decked with ornaments of refined gold (tapta-kāñcana-bhūṣaṇam), having golden wheels (hema-cakram), spacious (asambādham), with a chariot-pole made of cat's-eye gems (vaidūryamaya-kūbaram)—
+
+**14:** —covered all over (samāvṛtam) with auspicious (māṅgalyaiḥ) golden figures of fishes, blossoms, trees, mountains, moons, and suns (candra-sūryaiś ca kāñcanaiḥ), as well as flocks of birds and stars (tārābhiś ca)—
+
+**15:** —equipped with banners and swords (dhvaja-nistriṃśa-sampannam), adorned with choice little bells (kiṅkiṇī-vara-bhūṣitam), and yoked with noble steeds: out of wrath (amarṣāt), that Khara then mounted it (āruroha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -696,6 +774,12 @@ iti* = proceed, thus as; *abraviit* = said - charged.
 On overseeing that great army with chariots, skins shields, weaponry and flags, and even at Duushana
 too, Khara charged all those demons saying "proceed." [3-22-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that vast army with its chariots, shields, weapons, and standards (ratha-carmāyudha-dhvajam), Khara—and Dūṣaṇa too—spoke to all the rākṣasas: “March forth (niryāteti)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -741,6 +825,12 @@ issued forth.
 
 Then that demonic force with their ghoulish skin shields, weaponry and flags, issued forth from Janasthaana,
 blaring blatantly and foraying dashingly. [3-22-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon that rākṣasa host, bearing dreadful shields, weapons, and standards (ghora-carmāyudha-dhvajam), issued forth (nirjagāma) from Janasthāna with a mighty roar (mahā-nādam) and mighty speed (mahā-javam)—
 </details>
 </details>
 
@@ -817,6 +907,16 @@ fiendish demons that are the followers of Khara's whim, has started from Janasth
 Earlier batch which was sent against Rama consisted fourteen demons and now it is an army of fourteen
 thousand demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** —[armed] with mallets (mudgaraiḥ), sharp-edged spears, pikes, and exceedingly keen battle-axes (paraśvadhaiḥ), and with gleaming swords and discuses held in hand (hastasthaiḥ) along with iron lances (sa-tomaraiḥ)—
+
+**19:** —and with javelins (śaktibhiḥ), dreadful iron-bound clubs (parighair ghoraiḥ), bows of immense size (atimātraiś ca kārmukaiḥ), maces, swords, pestles (gadāsi-musalaiḥ), and thunderbolt-weapons of terrifying aspect (vajrair bhīma-darśanaiḥ) grasped in their hands.
+
+**20:** Fourteen thousand (sahasrāṇi caturdaśa) of those exceedingly dreadful rākṣasas, followers of Khara's will (khara-cittānuvartinām), marched forth (niryātāni) from Janasthāna.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -862,6 +962,12 @@ proceeded.
 
 On seeing the outrush of those demons of diabolic appearance, then Khara's chariot also proceeded a
 little later at their behind. [3-22-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing those rākṣasas of terrifying aspect rushing forth (nirdhāvataḥ), Khara's chariot then advanced a short distance (kiṃcij jagāma) right behind them (tad-anantaram).
 </details>
 </details>
 
@@ -909,6 +1015,12 @@ horses - speedily charioted.
 Then the charioteer set spurs on those colourful horses that are adorned in polished gold according
 to the notions of Khara. [3-22-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, discerning Khara's intention (kharasya matam ājñāya), the charioteer urged on (paryacodayat) those dappled steeds decked in refined gold (tapta-kāñcana-bhūṣitān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -954,6 +1066,12 @@ noise, started to swell.
 
 When the chariot of enemy destroyer Khara is driven that impetuously, it has started to swell earth's
 four cardinal quarters and inter-quarters with turbulence. [3-22-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Driven swiftly forward (saṃcoditaḥ śīghram), the chariot of Khara, the slayer of foes (ripu-ghātinaḥ), filled the cardinal directions along with the intermediate quarters (diśaḥ sapradiśas tathā) with its thunderous rumble (śabdena).
 </details>
 </details>
 
@@ -1025,6 +1143,12 @@ at him loudly like a overwhelming cloud that is going to storm stones. [3-22-24]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तॆरडनॆय सर्ग सम्पूर्णवायितु. ॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his wrathful fury swollen (pravṛddha-manyuḥ), the harsh-voiced (khara-svaraḥ) Khara, hastening for the slaying of his foe like Antaka [Death] himself (yathāntakaḥ), again urged on his charioteer (acūcudat sārathim), roaring aloud (unnadan) in his mighty strength like a storm-cloud pelting down hailstones (megha ivāśma-varṣavān).
 </details>
 </details>
 

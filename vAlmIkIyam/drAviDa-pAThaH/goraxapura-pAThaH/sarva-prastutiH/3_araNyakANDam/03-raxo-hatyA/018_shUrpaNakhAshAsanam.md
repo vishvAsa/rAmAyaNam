@@ -72,6 +72,12 @@ softly, with voice; *smita puurvam* = smile, preceded by; *atha abraviit* = then
 Rama then voicing clearly and softly spoke to her, whom the noose of lust has tethered down, with a
 smile preceding his words. [3-18-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma, smiling first (smita-pūrvam), spoke at will in gentle, polished words (ślakṣṇayā vācā) to that Śūrpaṇakhā, who was bound fast in the noose of lust (kāma-pāśāvapāśitām):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ su duHkhaa* = will be distressing.
 
 "Oh, honourable one, I am married and this is my dear wife, thus it will be distressing for your sort
 of females to live with a co-wife. [3-18-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am already married (kṛta-dāro 'smi), good lady (bhavati), and this is my beloved wife; for women like you, living with a co-wife (sasapatnatā) is most painful.
 </details>
 </details>
 
@@ -251,6 +263,14 @@ arthii* where *taruNa* is youthfulness. Rama is also youthful. So Rama's express
 *apurvii* is just to indicate Lakshmana as a *brahmacaari* a celibate, though he has a
 wife and youthful also. After Prof. Satya Vrat. Unchained is he by nuptial bands: is Griffith's wording.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** “But this younger brother of mine named Lakṣmaṇa is virtuous (śīlavān), handsome to behold, auspicious, unmarried [here in the forest] (akṛta-dāraḥ), and valiant.
+
+**4:** “Without a prior wife here [or: unaccustomed to a wife’s company] (apūrvī) and in need of a consort (bhāryayā cārthī), youthful and pleasing to look upon, he will be a husband well matched (anurūpaś ca) to this form of yours.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -306,6 +326,12 @@ of sunshine. So also you reach Lakshmana and become absolved in him / by him. Go
 you adore Lakshmana like *bhartaaram* a husband, a Providence of all in the universe. Maheshvara
 Tiirtha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O wide-eyed lady of shapely hips (varārohe), court this brother of mine as your husband without a rival co-wife (asapatnā), just as sunlight courts Mount Meru (merum arka-prabhā yathā).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +376,12 @@ Rama; *tataH saa lakSmaNam abraviit* = then, she, to Lakshmana, spoke.
 
 When Rama clearly told that way to that demoness dazed in lust, discarding Rama quickly then she spoke
 to Lakshmana. [3-18-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma, that rākṣasī, infatuated with lust (kāma-mohitā), immediately left Rāma and spoke to Lakṣmaṇa.
 </details>
 </details>
 
@@ -396,6 +428,12 @@ move about [take a jaunt.]
 
 "I with my best complexion will be your deserving wife meetly to you charm, you can happily take a jaunt
 all over Dandaka forest along with me." So Shuurpanakha ran after Lakshmana. [3-18-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As a lady of exquisite complexion (vara-varṇinī), I am a fitting wife (yuktā bhāryā) for this handsome form of yours; together with me you shall happily roam all the Daṇḍaka woods.”
 </details>
 </details>
 
@@ -446,6 +484,12 @@ making, expert; *saumitrii* = Soumitri's son; *lakSmaNaH* = Lakshmana; *tataH sm
 Thus said by the demoness that meaningful sentence maker Lakshmana, the son of Sumitra, then smiled
 and appropriately replied Shuurpanakha. [3-18-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the rākṣasī, Saumitri Lakṣmaṇa, skilled in speech (vākya-kovidaḥ), smiled and spoke fittingly (yuktam) to Śūrpaṇakhī:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -491,6 +535,12 @@ bhraatraa* = vassal, brother.
 
 "How you wish to become a female servant, oh, [black] lotus-coloured one, by becoming the wife of a
 servant like me? I am just a vassal of my adorable brother. [3-18-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How do you wish to become a female slave (dāsī) by becoming the wife of me, who am a slave (dāsasya me)? For I am wholly dependent (paravān) upon my noble elder brother, O lotus-hued lady (kamala-varṇini)!
 </details>
 </details>
 
@@ -549,6 +599,12 @@ amala varnaNi* when declined as *a + mudita; mala varNinii* will mean: ' you hav
 filthy is your complexion.' *yaviiyasii bhaaryaa*; 'you are an unhappy creature with a filthy
 complexion and you will become a worst possible wife of Rama... do you wish to become at least that
 worst wife? No, never you can.' Maheshvara Tiirtha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With your desires fulfilled (siddhārthā), joyful, and of spotless complexion (amala-varṇinī), O wide-eyed one, become the younger wife (bhāryā yavīyasī) of my noble brother of abundant wealth (samṛddhārthasya).
 </details>
 </details>
 
@@ -628,6 +684,12 @@ character and conduct... how can she be left off for your sake?' This is the inn
 wording. Maheshvara Tiirtha.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Abandoning this ugly, unchaste (asatīm), frightful, sunken-bellied (nirṇatodarīm), aged wife, he will surely devote himself to you alone!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -676,6 +738,12 @@ kuryaat* = in human females, an intent, makes -- who will prefer.
 
 "Oh, best complexioned one with best waist, is there any wiseacre to simply discard your kind of best
 personality, indeed, in preference to human females?" Lakshmana said so to Shuurpanakha. [3-18-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For what discerning man (vicakṣaṇaḥ), O fair-complexioned lady of shapely hips, would set aside this peerless beauty of yours (rūpam idaṃ śreṣṭham) and fix his affection upon mortal women (mānuṣīṣu)?”
 </details>
 </details>
 
@@ -726,6 +794,12 @@ presumed.
 Thus said by Lakshmana that despicable one with slouching stomach Shuurpanakha presumed those words
 to be truthful, for she is equivocal of that equivoque. [3-18-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Lakṣmaṇa, that frightful, sunken-bellied [or: pot-bellied] rākṣasī, incapable of understanding banter (parihāsāvicakṣaṇā), took his words to be true (manyate tad vacaḥ satyam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -771,6 +845,12 @@ to be truthful, for she is equivocal of that equivoque. [3-18-13]
 
 She who is fuddle by lust said to that unassailable enemy scorcher Rama who is sitting in the cottage
 along with Seetha. [3-18-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Infatuated with lust (kāma-mohitā), she then spoke to the unassailable (durdharṣam) Rāma, the scorcher of foes, who was seated in the leaf-thatched cottage together with Sītā:
 </details>
 </details>
 
@@ -821,6 +901,12 @@ na bahu manyase* = you, me, not, highly, regarding.
 "Tenacious of her who is disfigured, dishonest, diabolical, hallow-stomached old wife of yours you are
 not regarding me high. [3-18-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Clinging (avaṣṭabhya) to this ugly, unchaste, frightful, sunken-bellied, aged wife, you do not hold me in high regard (na māṃ tvaṃ bahu manyase)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -866,6 +952,12 @@ co, wife; *tvayaa saha cariSyaami* = with you, along, I ramble [make merry]; *ya
 
 "Now I wish to eat up this human female right before your very eyes, and then I can blithely make merry
 along with you, without the botheration of a co-wife." Said Shuurpanakha to Rama. [3-18-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today I shall devour this mortal woman before your very eyes (paśyatas tava); then, free of any rival co-wife (niḥsapatnā), I shall roam with you at pleasure (yathā-sukham)!”
 </details>
 </details>
 
@@ -916,6 +1008,12 @@ akSiim* = towards deer, eyed [Seetha]; *abhyadhaavat* = dashed.
 Speaking that way she that torch-eyed Shuurpanakha dashed towards the deer-eyed Seetha in high exasperation
 as a great meteor would dash towards Rohini, the brightest star in the sky. [3-18-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, she whose eyes glared like firebrands (alāta-sadṛśekṣaṇā) rushed in fury (susaṃkruddhā) at the fawn-eyed Sītā (mṛga-śāvākṣīm), like a great meteor (maholkā) hurtling toward the constellation Rohiṇī.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -960,6 +1058,12 @@ gR^ihya* = her, on checking; *tataH lakSmaNam abraviit* = to Lakshmana, said.
 
 By that the great-energetic Rama took umbrage and checking her who is like the noose of death swooping
 down on Seetha said to Lakshmana. [3-18-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Restraining (vigṛhya) her as she lunged forward like the noose of Death (mṛtyu-pāśa-pratimām), the mighty Rāma, filled with wrath, then spoke to Lakṣmaṇa:
 </details>
 </details>
 
@@ -1007,6 +1111,12 @@ parihaasaH na kaaryaH* = punning, not, be made - inapposite; *kathamcit jiivatii
 "Punning in any way with the base and brutish is inapposite, oh, gentle Saumitri, mark note of Vaidehi,
 somehow surviving [3-18-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“One must never jest (parihāsaḥ कथंचन न कार्यः) with the cruel and ignoble (krūrair anāryaiḥ), O Saumitri! Behold Vaidehī barely alive (kathaṃcit jīvatīm), O gentle brother!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1051,6 +1161,12 @@ knavish; *ati mattaam* = overtly, ruttish; *mahaa udariim* = big, bellied; *imaa
 
 "She is freakish, knavish and overtly ruttish, oh, tigerly man, it will be apt of you to deface this
 paunchy demoness " Thus Rama said to Lakshmana. [3-18-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O tiger among men, you ought to disfigure (virūpayitum arhasi) this ugly, unchaste, wildly intoxicated (atimattām), pot-bellied rākṣasī!”
 </details>
 </details>
 
@@ -1101,6 +1217,12 @@ up [drawing,] sword; *tasyaaH karNa naasam cicCheda* = her, ears, nose, chopped 
 Thus said to that mighty Lakshmana he infuriately drew sword and chopped off her ears and nose before
 the very eyes of Rama. [3-18-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus commanded, the mighty Lakṣmaṇa, filled with wrath, drew his sword and sliced off her ears and nose (ciccheda karṇa-nāse) while Rāma looked on (rāmasya paśyataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1146,6 +1268,12 @@ the very eyes of Rama. [3-18-21]
 
 On hewing off her ears and nose she that ghastly Shuurpanakha blared highly and discordantly, and very
 speedily fled into forest as she came. [3-18-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With her ears and nose lopped off (nikṛtta-karṇa-nāsā), that dreadful Śūrpaṇakhā uttered a discordant shriek (visvaraṃ vinadya) and fled headlong into the forest by the way she had come (yathāgatam).
 </details>
 </details>
 
@@ -1193,6 +1321,12 @@ speedily fled into forest as she came. [3-18-22]
 She that very ghastly demoness when defaced is wetted by blood and blared many a blare like a cloud
 in cloudburst. [3-18-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deformed, exceedingly dreadful, and drenched in blood (śoṇitokṣitā), that rākṣasī uttered manifold roars (nanāda vividhān nādān) like a thundercloud in the rainy season (yathā prāvṛṣi toyadaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1232,6 +1366,12 @@ in cloudburst. [3-18-23]
 
 She that gruesome one in her appearance clasped herself and thunderously entered similarly gruesome
 forest while her blood fountained and profusely exuded. [3-18-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Streaming blood profusely (vikṣarantī rudhiraṃ bahudhā) and frightful to behold, she threw up her arms (pragṛhya bāhū) and, roaring, plunged into the great forest.
 </details>
 </details>
 
@@ -1286,6 +1426,12 @@ with; *bhuumau papaata* = on ground, fell down.
 Then she who is deformed neared her brother Khara who possess violent vigour, who is abiding in Janasthaana
 and who is presently surrounded by his band of his hench-demons, and before him she that Shuurpanakha
 fell onto ground like a thunderbolt from the sky. [3-18-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, thus disfigured (virūpitā), she approached her brother Khara of fierce energy (ugra-tejasam), who was stationed in Janasthāna surrounded by hosts of rākṣasas, and fell upon the ground like a thunderbolt from the sky (gaganād yathāśaniḥ).
 </details>
 </details>
 
@@ -1356,5 +1502,11 @@ his misshaping her. [3-18-26]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हदिनॆण्टनॆय सर्ग सम्पूर्णवायितु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, swooning with fear and delusion (bhaya-moha-mūrcchitā) and drenched in blood, that sister of Khara reported everything (śaśaṃsa sarvam)—how Rāghava had come to the forest accompanied by his wife and Lakṣmaṇa, and the disfigurement inflicted upon herself (virūpaṇaṃ cātmani).
 </details>
 </details>

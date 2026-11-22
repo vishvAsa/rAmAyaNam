@@ -36,6 +36,12 @@ title = "०५९ जरा-यौवनानुभूती"
 
 शुक्राचार्यरु कुपितरागि कॊट्ट शापदिन्दागि बेरॆयवर यौवन बदलायिसबहुदाद वृद्धावस्थॆ प्राप्तवायितु. आ विलक्षण वृद्धावस्थॆ पडॆदु राजनु यदुविनल्लि हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the enraged Uśanas (śrutvā tūśanasaṃ kruddham), the distressed son of Nahuṣa (ārto nahuṣātmajaḥ), upon being overtaken by extreme old age (jarāṃ paramikāṃ prāpya), spoke these words to Yadu (yaduṃ vacanam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०५९ जरा-यौवनानुभूती"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यदुवे! नीनु धर्मज्ञनागि नन्न महायशस्वी पुत्रनागिरुवॆ. नीनु ननगागि बेरॆयवर शरीरदल्लि सञ्चारितवाद ई मुदितन तॆगॆदुको. नानु भोगगळ मूलक रमिसुवॆनु, नन्न भोगविषयक इच्छॆयन्नु पूर्णगॊळिसुवॆनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Yadu, you are a knower of dharma (tvam asi dharmajñaḥ); let this extreme old age be accepted by you for my sake (mad-arthaṃ pratigṛhyatām jarāṃ paramikām), O greatly famed son (putra ... mahāyaśaḥ), and I shall delight in enjoyments (bhogai raṃsye)!
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०५९ जरा-यौवनानुभूती"
 
 नरश्रेष्ठने! इष्टरवरॆगॆ नानु विषय भोगगळिन्द तृप्तनागलिल्ल. इच्छानुसार विषयसुखवन्नु अनुभविसि मत्तॆ नन्न वृद्धावस्थॆयन्नु निन्निन्द पडॆदुकॊळ्ळुवॆ.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am not yet fulfilled in the pleasures of the senses (na tāvat kṛta-kṛtyo ’smi viṣayeṣu), O bull among men (nararṣabha); having experienced desire then to the full (anubhūya tadā kāmam), I shall thereafter resume old age (tataḥ prāpsyāmy ahaṃ jarām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "०५९ जरा-यौवनानुभूती"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन मातन्नु केळि यदुवु नरश्रेष्ठ ययातिगॆ उत्तरिसिदनु - निम्म मुद्दिन मग पुरुवे ई वृद्धावस्थॆयन्नु स्वीकरिसलि.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his, Yadu replied to that bull among men (pratyuvāca nararṣabham): “Let your beloved son Pūru (putras te dayitaḥ pūruḥ) indeed accept your old age (pratigṛhṇātu vai jarām)!
 </details>
 </details>
 
@@ -136,6 +160,12 @@ title = "०५९ जरा-यौवनानुभूती"
 
 पृथिविनाथने! ननगादरो निम्म धन मत्तु निम्म हत्तिरदल्लिये इद्दु प्रीति पडॆयुव अधिकारदिन्द वञ्चितरागिसिदिरि. आद्दरिन्द यारॊन्दिगॆ कुळितु ऊट माडुत्तिरुविरो अवनिन्दले युवावस्थॆयन्नु स्वीकरिसिरि.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I have been shut out from your riches (bahiṣkṛto ’ham artheṣu) and from your nearness as well (sannikarṣāc ca), O king (pārthiva); O ruler, let him accept it who shares your meals (pratigṛhṇātu vai rājan kaḥ sahāśnāti bhojanam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -161,6 +191,12 @@ title = "०५९ जरा-यौवनानुभूती"
 
 यदुविन मातन्नु केळि राजनु पुरुविनल्लि हेळिदनु - महाबाहुवे! नन्न सुख-सुविधॆगागि नीनु ई वृद्धाप्यवन्नु स्वीकरिसु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his (tasya tad vacanaṃ śrutvā), the king then spoke to Pūru (rājā pūrum athābravīt): “O mighty-armed one (mahābāho), let this old age be accepted by you for my sake (iyaṃ jarā ... mad-arthaṃ pratigṛhyatām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -185,6 +221,12 @@ title = "०५९ जरा-यौवनानुभूती"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नहुष पुत्र ययातियु हीगॆ हेळिदाग पूरु कैमुगिदुकॊण्डु हेळिदनु - पिताजी! निम्म सेवॆय अवकाश दॊरकि नानु धन्यनादॆनु. इदु नन्न मेलॆ निम्म दॊड्ड अनुग्रहवागिदॆ. निम्म आज्ञॆयन्नु पालिसलु नानु ऎल्ल रीतियिन्द सिद्धनिद्देनॆ.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the son of Nahuṣa (nāhuṣeṇaivam uktaḥ), Pūru spoke with joined palms (pūruḥ prāñjalir abravīt): “I am blessed, I am favored (dhanyo ’smy anugṛhīto ’smi); I stand firm in your command (śāsane ’smi tava sthitaḥ)!”
 </details>
 </details>
 
@@ -214,6 +256,12 @@ _________________
 
 पूरुवु इदन्नु ऒप्पिकॊण्ड मातन्नु केळि ययातिगॆ बहळ सन्तोषवायितु. अवनिगॆ अनुपम हर्षवागि तन्न वृद्धावस्थॆयन्नु पूरुविन शरीरदल्लि सञ्चारितगॊळिसिदनु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing Pūru’s words (pūror vacanam ājñāya), the son of Nahuṣa with supreme gladness (parayā mudā) attained matchless joy (praharṣam atulaṃ lebhe) and transferred that old age to him (jarāṃ saṅkrāmayac ca tām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -239,6 +287,12 @@ _________________
 
 अनन्तर तरुणनाद राजा ययातियु साविरारु यज्ञगळ अनुष्ठान माडुत्ता अनेक साविर वर्षगळवरॆगॆ राज्यवाळिदनु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon that king, having become youthful (sa rājā taruṇaḥ), accomplishing sacrifices by the thousands (prāpya yajñān sahasraśaḥ), protected the earth (pālayāmāsa medinīm) for many thousands of years (bahu-varṣa-sahasrāṇi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -263,6 +317,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक दीर्घकाल कळॆदाग राजनु पूरुविनल्लि हेळिदनु - मगु! निन्न बळियल्लि ऒत्तॆयिट्ट नन्न वृद्धावस्थॆयन्नु ननगॆ मरळि कॊडु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, after a long lapse of time (atha dīrghasya kālasya), the king spoke again to Pūru (rājā pūrum athābravīt): “Bring back the old age, O son (ānayasva jarāṃ putra); return to me the trust deposited with you (nyāsaṃ niryātayasva me)!
 </details>
 </details>
 
@@ -292,6 +352,12 @@ _________________
 
 मगने! नानु वृद्धावस्थॆयन्नु न्यासवागि निन्न शरीरदल्लि सञ्चारितगॊळिसिद्दॆ; अदक्कागि अदन्नु हिन्दक्कॆ पडॆयुवॆनु. नीनु मनस्सिनल्लि दुःखिसबारदु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As a held deposit, O son (nyāsa-bhūtā ... putra), this old age was transferred by me into you (tvayi saṅkrāmitā jarā); therefore I shall take back that old age (tasmāt pratigrahīṣyāmi tāṃ jarām)—feel no distress (mā vyathāṃ kṛthāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,6 +383,12 @@ _________________
 
 महाबाहो! नीनु नन्न आज्ञॆयन्नु पालिसिदॆ, इदरिन्द ननगॆ बहळ सन्तोषवागिदॆ. ईग नानु तुम्बा प्रेमदिन्द निनगॆ राज्याभिषेक माडुवॆनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And I am deeply pleased, O mighty-armed one (prītaś cāsmi mahābāho), by your acceptance of my command (śāsanasya pratigrahāt); filled with affection, I shall consecrate you as ruler of men (tvāṃ cāham abhiṣekṣyāmi prīti-yukto narādhipam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +413,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तन्न पुत्र पूरुविनल्लि हीगॆ हेळि राजा ययातियु देवयानिय मगनल्लि कुपितनागि हेळिदनु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to his son Pūru (evam uktvā sutaṃ pūrum), King Yayāti, the son of Nahuṣa (yayātir nahuṣātmajaḥ), enraged (kruddhaḥ), spoke these words to Devayānī’s son (devayānī-sutaṃ ... vākyam uvāca ha):
 </details>
 </details>
 
@@ -370,6 +448,12 @@ _________________
 
 यदुवे! दुर्जय क्षत्रिय रूपदिन्द नानु निन्नन्तह राक्षसनिगॆ जन्म कॊट्टॆ. नीनु नन्न आज्ञॆयन्नु उल्लङ्घिसिदॆ, आद्दरिन्द निन्न सन्तानवु राज्याधिकारदिन्द वञ्चितरागलि.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You were born of me as a rākṣasa in the guise of a son (rākṣasas tvaṃ mayā jātaḥ putra-rūpaḥ), hard to approach (durāsadaḥ); since you spurn my command (pratihaṃsi mamājñāṃ yat), become fruitless in the aim of progeny (prajārthe viphalo bhava)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +481,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु तन्दॆ, गुरु आगिद्देनॆ, हीगिद्दरू नीनु नन्न अपमान माडुत्तिरुवॆ. इदक्कागि भयङ्कर राक्षसरु मत्तु यातुधानरु निन्नल्लि हुट्टुवरु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because you despise me, your father and venerable elder (pitaraṃ guru-bhūtaṃ māṃ yasmāt tvam avamanyase), you shall engender terrible rākṣasas and yātudhānas (rākṣasān yātudhānāṃs tvaṃ janayiṣyasi dāruṇān)!
 </details>
 </details>
 
@@ -426,6 +516,12 @@ _________________
 
 निन्न बुद्धि कॆट्टुहोगिदॆ. आद्दरिन्द निन्न सन्तानवु सोमकुलदल्लि हुट्टि वंशपरम्परॆयल्लि राजनागि प्रतिष्ठितनागलाररु. निन्न सन्तति निन्नन्तॆये उद्धटवागुवुदु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Never shall the lineage of you, fool, stand in the royal line born of the Lunar race (na tu soma-kulotpanne vaṃśe sthāsyati durmateḥ); even your progeny shall become undisciplined like yourself (vaṃśo ’pi bhavatas tulyo durvinīto bhaviṣyati)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -450,6 +546,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यदुविगॆ हीगॆ हेळि राजर्षि ययातियु राज्यद वृद्धि माडुव पूरुविगॆ पट्टाभिषेकद मूलक सम्मानिसि वानप्रस्थ आश्रमवन्नु कैगॊण्डनु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to him (tam evam uktvā), the royal sage honored Pūru, the enhancer of the kingdom (pūruṃ rājya-vivardhanam), with royal consecration (abhiṣekeṇa sampūjya), and entered a hermitage (āśramaṃ praviveśa ha).
 </details>
 </details>
 
@@ -476,6 +578,12 @@ _________________
 
 दीर्घकालद बळिक प्रारब्ध भोग तीरिदाग ययातियु शरीरवन्नु त्यजिसि, स्वर्गलोकक्कॆ प्रस्थान माडिदनु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, after a long stretch of time (tataḥ kālena mahatā), attaining the appointed end of his life (diṣṭāntam upajagmivān), King Yayāti, the son of Nahuṣa, ascended to the threefold heaven (tridivaṃ saṅgato rājā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -500,6 +608,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर महायशस्वी पूरु महान् धर्मदिन्द कूडि काशिराजन श्रेष्ठ प्रतिष्ठानपुरियल्लि इरुत्ता आ राज्यवन्नु पालिसिदनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by mighty righteousness (dharmeṇa mahatā vṛtaḥ), the greatly famed Pūru exercised that sovereignty (pūruś cakāra tad rājyam) in Pratiṣṭhāna, the foremost of cities (pratiṣṭhāne puravare), within the realm of Kāśi (kāśi-rājye).
 </details>
 </details>
 
@@ -526,6 +640,12 @@ _________________
 
 राजकुलदिन्द बहिष्कृतनाद यदुवु नगरदल्लि हागू दुर्जय कौञ्चवनदल्लि साविरारु यातुधानरिगॆ जन्म नीडिदनु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yadu, however, excluded from the royal dynasty (rāja-vaṃśa-bahiṣkṛtaḥ), begot yātudhānas by the thousands (janayāmāsa yātudhānān sahasraśaḥ) in the stronghold city of Krauñcavana (pure krauñca-vane durge).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -551,6 +671,12 @@ _________________
 
 शुक्राचार्यरु कॊट्ट ई शापवन्नु राजा ययातियु क्षत्रिय धर्मक्कनुसार धरिसिकॊण्डनु. आदरॆ राजा निमियु वसिष्छर शापवन्नु सहिसलिल्ल.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus was this mighty curse released by Uśanas (eṣa tūśanasā muktaḥ śāpotsargaḥ) borne by Yayāti in accordance with kṣatriya dharma (dhāritaḥ kṣatra-dharmeṇa)—a sage’s curse such as Nimi did not endure (yan nimiś ca na cakṣame)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -575,6 +701,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सौम्य ! इदॆल्ल प्रसङ्गगळन्नु निनगॆ नानु तिळिसिदॆ. समस्त कृत्यगळन्नु पालिसुव सत्पुरुषर दृष्टियन्ने नावु अनुसरिसुत्तेवॆ. अदरिन्द नृगराजनन्तॆ नमगू दोष प्राप्तवागदिरलि.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All this has been related to you (etat te sarvam ākhyātam); therefore, O gentle one (saumya), we shall constantly attend to the audience of all petitioners (darśanaṃ sarva-kāriṇām anuvartāmahe), so that no fault may befall us as it did Nṛga (doṣo na syād yathā nṛge).”
 </details>
 </details>
 
@@ -615,6 +747,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऐवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु. ॥59॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as Rāma of moon-like countenance was speaking thus (iti kathayati rāme candra-tulyānane ca), the sky just then grew sparse with fading stars (praviralatara-tāraṃ vyoma jajñe tadānīm); and the eastern quarter shone crimson with the rays of dawn (aruṇa-kiraṇa-raktā dig babhau caiva pūrvā), like a maiden draped in a garment steeped in flower-dye (kusuma-rasa-vimuktaṃ vastram ākuṇṭhiteva).
 </details>
 </details>
 

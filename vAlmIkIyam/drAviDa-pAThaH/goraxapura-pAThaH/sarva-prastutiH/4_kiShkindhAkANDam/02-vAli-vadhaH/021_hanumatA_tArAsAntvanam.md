@@ -70,6 +70,12 @@ leader, Hanuma; *shanaiH aashvaasayaamaasa* = slowly, consoled.
 Hanuma, the leader of monkeys, then neared and slowly consoled Tara who has fallen to ground like a
 star from sky. [4-21-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Hanumān, the leader of the monkey troop (hariyūthapaḥ), gently (śanaiḥ) consoled (āśvāsayāmāsa) Tārā, who had sunk down like a star (tārām iva) fallen from the sky (ambarāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +133,12 @@ parampara aasaadita dharma artha vaasanaa vashena shubham ashubham vaa karma anu
 sukaham duHkham vaa phalam avaapnoti iti uktam -- dharmaakuutam*Thus Hanuma is saying that Vali
 is not dead at the hand of Sugreeva but dead due his own demerits.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“[Every] living creature (jantuḥ), with undivided attention (avyagraḥ), reaps in the hereafter (pretya) all its own action (svakarma)—wrought through merit and demerit (guṇadoṣakṛtam), the cause of [future] fruit (phalahetukam), whether auspicious or inauspicious (śubhāśubham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +190,12 @@ body, bubble, in similitude; *kaH kasya anushocyaH asti* = who, for whom, lament
 one you take pity while you yourself are in a pitiable condition? Who is pitiable by whom in these bubbles
 like bodies? [4-21-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yourself worthy of being mourned (śocyā), whom do you mourn as pitiable (śocyam)? Wretched yourself (dīnā), whom do you pity as wretched (dīnam)? And in this body resembling a water-bubble (budbudopame), who is truly to be mourned by whom?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,6 +242,12 @@ like bodies? [4-21-3]
 "You are the one with a living son, and you have to look after this young one Angada, and you have to
 think of the forthcoming activities for his well-being and for his performance of duty towards his father.
 [4-21-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rather, this prince Aṅgada (kumāro 'yam) must be looked after (draṣṭavyaḥ) by you who have a living son (jīvaputrayā); reflect too upon the fitting (samarthāni) duties that must be performed (vidheyāni) for him in the future (āyatyām).
 </details>
 </details>
 
@@ -272,6 +296,12 @@ auspicious ones, are to be done, indeed.
 and space into this mortal life and back is uncertain, thereby the prudent ones have to perform auspicious
 worldly deeds here in this world, say, the funeral of Vali. [4-21-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You know the uncertain (aniyatām) coming and going (āgatiṃ gatim) of beings thus; therefore, O wise lady (paṇḍite), what is auspicious [for the hereafter] (śubham) should indeed be performed, not what is merely worldly (laukikam) here.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,6 +347,12 @@ fate's, end, he came.
 
 "In whom hundreds and thousands of monkeys are harboured and astir, for they have reposed their confidence
 in him alone, that Vali has arrived at his end. [4-21-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He upon whom thousands, hundreds, and millions of monkeys (harisahasrāṇi śatāni niyutāni ca) subsisted (vartayanti) with their hopes fulfilled (kṛtāśāni)—that very [king] has reached the end of his ordained lifespan (diṣṭāntam āgataḥ).
 </details>
 </details>
 
@@ -366,6 +402,12 @@ him, your sorrowing, apt of you.
 forgivingness, by that reason alone Vali is going to a domain in heavens which he righteously conquered
 for himself, and it is unapt of your sorrowing for him. [4-21-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since this [king], who perceived his ends through righteous policy (nyāyadṛṣṭārthaḥ) and was devoted to conciliation, liberality, and forgiveness (sāmadānakṣamāparaḥ), has departed to the realm won by dharma (dharmajitāṃ bhūmim), you ought not to mourn him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -412,6 +454,12 @@ pati raajyam ca* = monkeys, bear, lords, kingdom of, also; *tvat* = in you; *sa 
 "All the tigerly-monkeys, oh, impeccable Tara, including this son of yours Angada, and all the lords
 of monkeys and bears have their guardian angel in you. [4-21-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All these tiger-like monkeys (hariśārdūlāḥ), and this son of yours, Aṅgada, and this kingdom of the lords of monkeys and bears (haryṛkṣapatirājyaṃ ca) have you as their protector (tvatsanātham), O blameless lady (anindite).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -456,6 +504,12 @@ taken up [acquiesce to]; *ayam angadaH mediniim shaastu* = this, Angada, the ear
 
 "Oh, lady, inspirit these two, Sugreeva and Angada, that are searing in grief, and if you acquiesce
 then this Angada will rule over the earth. [4-21-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gently (śanaiḥ) dispel [or urge onward] (preraya) these two afflicted by grief (śokasaṃtaptau), O spirited lady (bhāmini); governed by you (tvayā parigṛhītaḥ), let this Aṅgada rule the earth (śāstu medinīm).
 </details>
 </details>
 
@@ -513,6 +567,12 @@ this has happened so according to Time's decision...'
 nivartante aa smashaanaat tu baandhava | sukR^itam duShkR^itam caiva gacchantam anucacChgati ||*'wealth
 and means remain in house, relatives come up to graveyard, only Merit and Demerit follow the goer...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let the lineage [through your son] (saṃtatiḥ) be seen as prescribed (yathā dṛṣṭā), and whatever duty must now be done (kṛtyaṃ yac cāpi sāmpratam) for the king, let all that be performed; such is the decree of time (kālasya niścayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -557,6 +617,12 @@ pashyantii shaantim eSyasi* = son, on seeing, peace, you can obtain.
 
 "Cremation of the king of monkeys and anointment of Angada are the present time affairs, and seeing
 your son invested on the throne you can obtain peace." Thus spoke Hanuma to Tara. [4-21-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let the king of the monkeys receive his funeral rites (saṃskāryo harirājas tu), and let Aṅgada be consecrated (abhiṣicyatām); beholding your son seated upon the lion-throne (siṃhāsanagatam), you shall attain peace (śāntim eṣyasi).”
 </details>
 </details>
 
@@ -605,6 +671,12 @@ Tara; *tasya vacanam shrutvaa* = his [Hanuma's,] words, on hearing; *avasthitam 
 
 On hearing Hanuma's words she who is tormented by the plight of her husband, that Tara replied Hanuma
 who is standing nearby. [4-21-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing his words, Tārā, tormented by the calamity of her husband (bhartṛvyasanapīḍitā), spoke in reply (abravīd uttaram) to Hanumān who stood nearby (avasthitam):
 </details>
 </details>
 
@@ -658,6 +730,12 @@ This verse is said to be difficulkt one to derive meaning *kiSTa anvaya*. There 
 of this verse omitting the first foot of next stanza and it reads: * kim kaaryam pati hiinayaaH putraaNaam ayutaiH api | pitR^ivyah tasya sugriivaH sarva kaaryeShu anantaraH
 ||*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Were there a hundred sons (putrāṇāṃ śatam) resembling Aṅgada (aṅgadapratirūpāṇām) on one side (ekataḥ), embracing the limbs (gātrasaṃśleṣaṇam) of this hero, even though slain (hatasyāpy asya vīrasya), would still be superior (varam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -707,6 +785,12 @@ affairs, close at hand.
 "Who am I either for conducting the monkeys kingdom or to anoint Angada when Angada's paternal-uncle
 Sugreeva is close at hand? [4-21-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nor do I have authority (na cāhaṃ prabhavāmi) over the monkey kingdom (harirājyasya) or over Aṅgada; his paternal uncle Sugrīva (pitṛvyas tasya sugrīvaḥ) is immediately next [in authority] (anantaraḥ) in all affairs (sarvakāryeṣu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -755,6 +839,12 @@ defender; *na maataa* = not, mother.
 
 "Hanuma, this thinking of yours that Angada is to be crowned is really untenable, oh, best monkey, father
 is the real defender of a son, but not the mother. [4-21-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indeed, this design (eṣā buddhiḥ) regarding Aṅgada ought not to be entertained (na... āstheyā), O Hanumān; for the father [or paternal uncle] (pitā hi) is the true kinsman (bandhuḥ) of a son, not the mother (na mātā), O best of monkeys (harisattama).
 </details>
 </details>
 
@@ -826,6 +916,12 @@ death bed, which he is adoring when put to death while he is facing away. [4-21-
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For there is nothing more fitting (kṣamataram) for me, either in the hereafter or in this world (paratra ceha vā), than taking refuge in the monkey king (harirājasaṃśrayāt); it is fitting for me to share this couch (śayanam idam) graced by the hero slain facing [his foe] (abhimukha-hata-vīra-sevitam).”
 </details>
 </details>
 

@@ -69,6 +69,12 @@ help from the king. Dasharatha receives him adoring in high esteem.
 
 दशरथनु पुत्रप्राप्तिगागि आरम्भिक अश्वमेध याग हागू पुत्रकामेष्टियू मुगिदु, देवतॆगळॆल्लरू तम्म-तम्म हविभार्गवन्नु स्वीकरिसि स्वस्थानगळिगॆ तॆरळिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that great horse-sacrifice (hayamedhe) of the high-souled monarch (conjoined with the Putreṣṭi) was duly brought to completion (nirvṛtte tu kratau tasmin), the immortals, having accepted their respective sacrificial shares (pratigṛhyāmarā bhāgān), returned to their abodes even as they had come (pratijagmur yathāgatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -108,6 +114,12 @@ puriim* = entered, city [Ayodhya,].
 
 The king completing his consecratory vows held for horse ritual, entered Ayodhya city along
 with the company of his queens, servants, guards and vehicles. [1-18-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having concluded the rules and observances of his sacrificial initiation (samāptadīkṣāniyamaḥ), the King, accompanied by his assembly of queens (patnīgaṇasamanvitaḥ), entered the capital city along with his servants, armies, and mounts (sabhṛtyabalavāhanaḥ).
 </details>
 </details>
 
@@ -149,6 +161,12 @@ him, the king; *yathaarham puujitaaH* = honoured befittingly; *muditaaH*
 The other kings who arrived for the ritual are delighted when befittingly honoured by the
 king Dasharatha, and they too returned to their countries, after suitably adoring the eminent
 sage Vashishta. [1-18-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Duly honored according to their rank (yathārhaṃ pūjitāḥ) by that monarch, the lords of the earth (pṛthivīśvarāḥ), filled with joy, paid their obeisance to the foremost of sages (praṇamya munipuṃgavam) and departed for their respective realms.
 </details>
 </details>
 
@@ -196,6 +214,12 @@ shone forth in fine fettle. [1-18-4]
 Some commentaries said that the soldiers are given white and clean uniforms by Dasharatha
 by the word *shubhraaNi* and hence they are happy. But they may be said to be sprucely
 without those gifts from Dasharatha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As those glorious monarchs departed from the city for their own homes (svagṛhāṇi purāt tataḥ), the radiant and jubilant armies of those kings (balāni rājñāṃ śubhrāṇi prahṛṣṭāni) shone forth brilliantly (cakāśire).
 </details>
 </details>
 
@@ -246,6 +270,12 @@ _________________
 On the departure of visiting kings, then that fortunate king Dasharatha entered the city Ayodhya,
 keeping eminent Brahman priests ahead of him in the procession. [1-18-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the lords of the earth had departed (gateṣu pṛthivīśeṣu), the glorious King Daśaratha once again re-entered his city (praviveśa purīṃ śrīmān), placing the foremost of the twice-born sages at his head (puraskṛtya dvijottamān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,6 +320,12 @@ Well adored by king Dasharatha sage Rishyasringa also travelled along with his w
 followed by his father-in-law King Romapada, and along with other co-travellers, namely the
 entourage of Romapada. [1-18-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored with the highest veneration, Sage Ṛṣyaśṛṅga set out together with Princess Śāntā (śāntayā prayayau sārdham), escorted on his way by the wise King accompanied by his royal retinue (anvīyamāno rājñātha sānuyātreṇa dhīmatā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -328,6 +364,12 @@ entourage of Romapada. [1-18-6]
 
 On dispersing all of them king Dasharatha gratifyingly dwelled there in Ayodhya, with a satiated
 heart dwelling upon the birth of his sons. [1-18-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus bid farewell to them all, the King, his heart’s desire fulfilled (sampūrṇamānasaḥ), dwelt happily there in Ayodhyā, eagerly anticipating the birth of his sons (putrotpattiṃ vicintayan).
 </details>
 </details>
 
@@ -368,6 +410,16 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यज्ञसमाप्तिय बळिक आरु ऋतुगळु कळॆदु होदाग, हन्नॆरडनॆय तिङ्गळाद चैत्रद शुक्लपक्षद नवमी तिथियल्लि पुनर्वसु नक्षत्र हागू कर्काटक लग्नदल्लि कौसल्यादेवियु दिव्य लक्षणगळिन्द कूडिद सर्वलोक वन्दित जगदीश्वर श्रीरामनिगॆ जन्म नीडिदळु. आग सूर्य, मङ्गळ, शनि, गुरु मत्तु शुक्र ई ऐदु ग्रहगळु तम्म तम्म उच्चस्थानदल्लि इद्दरु. लग्नदल्लि चन्द्रनॊडनॆ बृहस्पति विराजमाननागिद्दनु.॥8-10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Then, after the sacrifice had been completed, six seasons passed away in full (ṛtūnāṃ ṣaṭ samatyayuḥ); and then, in the twelfth month, in the month of Caitra, on the ninth lunar day (caitre nāvamike tithau),
+
+**9:** Under the constellation presided over by Aditi (Punarvasu, nakṣatre ’ditidaivatye), while five planets stood in their respective signs of exaltation (svoccasaṃstheṣu pañcasu graheṣu), as Jupiter together with the Moon was rising in the ascendant of Cancer (karkaṭe lagne vākpatāv indunā saha),
+
+**10:** While the day was advancing toward midday (prodyamāne), Kausalyā gave birth to Rāma, the Lord of the Universe (jagannātham), adored by all the worlds (sarvalokanamaskṛtam) and endowed with every divine mark of grace (divyalakṣaṇasaṃyutam)—
 </details>
 </details>
 
@@ -472,6 +524,12 @@ half of it, but it is not half of Vishnu as he is illimitable. Even Sreenivasa A
 it as half, in saying half of Vishnu's essence is Rama. This has become a perennial topic debating whether
 the incarnation of Rama is a *pUrNaavatAra*, *ardhaavatAra* or *aMshaavatAra*.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The glorious son who was the very half of Viṣṇu’s own essence (viṣṇor ardhaṃ mahābhāgam), the delight of the Ikṣvāku line (putram aikṣvākunandanam), lotus-red of eye, mighty-armed, with coral-red lips and a voice deep as the kettledrum (dundubhisvanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -510,6 +568,12 @@ the incarnation of Rama is a *pUrNaavatAra*, *ardhaavatAra* or *aMshaavatAra*.
 
 Kausalya shone forth with such a son whose resplendence is unlimited, as with lady Aditi who
 once stood out with her son Indra, the best one among gods. [1-18-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā shone resplendently with that son of boundless radiance (putreṇāmitatejasā), just as Aditi, mother of the gods, shone with Indra, the wielder of the thunderbolt and best of the celestials (yathā vareṇa devānām aditir vajrapāṇinā).
 </details>
 </details>
 
@@ -560,6 +624,12 @@ The fraction indicated here like 'one fourth of Vishnu' etc may be reckoned as t
 the dessert consumed by the queens, but not as a cleaved portion of Vishnu as he is an indivisible
 entity. Here it is half of one-fourth i.e., one-eighth of dessert given to Kaikeyi.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Of Kaikeyī was born Bharata by name, of unfailing valor (satyaparākramaḥ), the very fourth part of Viṣṇu incarnate (sākṣād viṣṇoś caturbhāgaḥ), endowed with all auspicious virtues (sarvaiḥ samudito guṇaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -599,6 +669,12 @@ epitome; *lakShmaNashatrughnau* = Lakshmana and Shatrughna;
 
 Queen Sumitra then gave birth to two sons who are the embodied epitomes of Vishnu, namely
 Lakshmana, and Shatrughna, who are valiant ones and experts in all kinds of weaponry. [1-18-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Sumitrā gave birth to twin sons, Lakṣmaṇa and Śatrughna—heroic warriors skilled in all missiles (vīrau sarvāstrakuśalau) and endowed with the remaining half-share of Viṣṇu’s potency (viṣṇor ardhasamanvitau).
 </details>
 </details>
 
@@ -668,6 +744,12 @@ months' -- Schlegel.
 
 The eleven-month gap between Rama and Bharata is unapparent in the words
 of verse. This may be from some other version of Ramayana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata of serene intellect (prasannadhīḥ) was born under the constellation Puṣya in the ascendant of Pisces (puṣye jātas tu bharato mīnalagne); while the twin sons of Sumitrā were born under the constellation ruled by the Serpents (Āśleṣā, sārpe) in the ascendant of Cancer (kulīre) when the sun had risen high at midday (abhyudite ravau).
 </details>
 </details>
 
@@ -756,6 +838,12 @@ On the competition of the horse ritual of high-souled Dasharatha, the golds havi
 their portion of sacrificial oblation returned to their abodes as they have come. [1-18-1]
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus four high-souled sons of the King were born separately (catvāro jajñire pṛthak), rich in virtues, worthy of their sire, and in their splendor resembling the four stars of the constellation Proṣṭhapadā (rucyā proṣṭhapadopamāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -810,6 +898,12 @@ flowery, rain, also, fallen; *ayodhyaayaam janaakulaH* = with people thronging i
 The celestial singers sang melodiously, paradisiacal dancing parties danced, divine drums
 drummed and heavens rained flowers, with all this there is a great festivity in Ayodhya with
 thronging people. [1-18-17, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Gandharvas sang melodiously (jaguḥ kalaṃ ca gandharvāḥ), the hosts of Apsarases danced, the celestial kettledrums resounded (devadundubhayo neduḥ), and a shower of flowers fell from the sky (puṣpavṛṣṭiś ca khāt patat).
 </details>
 </details>
 
@@ -1000,6 +1094,12 @@ thronging people. [1-18-17, 18a]
 
 इति । अतो दशरथेन दानानि दत्तानि, इतरैर् अपि पुत्र-जन्मन्य् एवम् आचरणीयम् इत्य् अयं धर्मः सूचितः ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A grand festival arose in Ayodhyā thronged with joyous multitudes (utsavaś ca mahān āsīd ayodhyāyāṃ janākulaḥ), and the highways, crowded with citizens, teemed with actors and dancers (naṭanartakasaṃkulāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1043,6 +1143,12 @@ Hilarity filled the streets with people stampeding them and with the flurry of a
 singers and instrumentalists, as well by other onlookers, and there on the streets widely
 strewn are all kinds of gems appreciating the artists. [1-18-18b, 19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resounding with singers and instrumentalists (gāyanaiś ca virāviṇyo vādanaiś ca) as well as other panegyrists, the broad avenues there shone brightly, adorned with every kind of gem (sarvaratnasamanvitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1082,6 +1188,12 @@ braahmaNebhyaH* = to Brahmans; *vittam* = funds; *godhanaani sahasrashaH*
 
 The king gave worthy gifts to eulogisers, bard singers, and panegyrists, and to Brahmans he
 gave funds and wealth in the form of thousands of cows. [1-18-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The King bestowed rich rewards upon the bards, genealogists, and eulogists (sūtamāgadhavandinām), and gave wealth and cows by the thousands to the Brāhmaṇas (godhanāni sahasraśaḥ).
 </details>
 </details>
 
@@ -1174,6 +1286,14 @@ The naming ceremony acquires a particular significance, because Vashishta, the *
 of the kingdom, named these princes with a vision into the future.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Then, after the eleven-day period (counting from the twins’ birth, completing the twelve-day ritual impurity from Rāma’s birth) had elapsed (atītyaikādaśāhaṃ tu), he duly performed the naming ceremony (nāmakarma tathākarot): naming the eldest, of supreme soul, Rāma, and Kaikeyī’s son Bharata,
+
+**22:** And naming one son of Sumitrā Lakṣmaṇa and the other Śatrughna—Preceptor Vasiṣṭha, supremely delighted (paramaprītaḥ), conferred those auspicious names at that time (nāmāni kurute tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1238,6 +1358,12 @@ are performed in respect of the princes. [1-18-23, 24a]
 
 अनेन नाम-कर्मण्य् अपि ब्राह्मण-पौर-जानपद-भोजनानि दानानि च कर्तव्यानि इति सूचितम् ॥ 
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The King fed the Brāhmaṇas as well as the citizens of the capital and the inhabitants of the countryside (paurajānapadān api), and bestowed upon the Brāhmaṇas a vast, spotless store of gems (ratnaugham amalaṃ bahu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1284,6 +1410,12 @@ self-emerged [god, Brahma].
 Among those princes the eldest one Rama is like a flagstaff and a delight of his father Dasharatha,
 and he became acceptable to all beings like the self-created Brahma. [1-18-24b, 25a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He caused all their subsequent sacraments following the birth-rites (teṣāṃ janmakriyādīni sarvakarmāṇi) to be duly performed. Among them, the eldest, Rāma, like a lofty banner of his race (ketur iva jyeṣṭhaḥ) and the delight of his father (ratikaraḥ pituḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1329,6 +1461,12 @@ and he became acceptable to all beings like the self-created Brahma. [1-18-24b, 
 
 All the princes are scholars in Veda-s, valiant ones, all are interested in the welfare of
 the world, all are intellectuals and all of them possess an air of probity. [1-18-25b, 26a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Became supremely honored by all living beings, even like the Self-born Creator Brahmā Himself (babhūva bhūyo bhūtānāṃ svayambhūr iva sammataḥ). All four brothers were learned in the Vedas and heroic (sarve vedavidaḥ śūrāḥ); all were devoted to the welfare of the world (sarve lokahite ratāḥ);
 </details>
 </details>
 
@@ -1398,6 +1536,14 @@ Rama is admittedly a champion of riding elephants and horses, also in tactical c
 and he rejoices in the art of archery, and absorbed in the obedient service of his father.
 [1-18-27b, 28a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** All were accomplished in sacred knowledge, and all were endowed with noble virtues (sarve samuditā guṇaiḥ). Yet even among them all (teṣām api), Rāma of mighty splendor and unfailing valor (mahātejā rāmaḥ satyaparākramaḥ)—
+
+**27:** Was beloved of the entire world like the spotless full moon (iṣṭaḥ sarvasya lokasya śaśāṅka iva nirmalaḥ). He was acclaimed by all in riding upon the backs of elephants and horses and in the maneuvering of war-chariots (rathacaryāsu sammataḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1461,6 +1607,14 @@ Lakshmana who is endowed with the wealth of dedication dedicated himself to Rama
 service, and while performing all agreeable deeds in respect of Rama, he behaved like Rama's
 alter ego. [1-18-29b, 30a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** Ever intent upon the science of archery (dhanurvede ca nirataḥ) and devoted to the service of his father (pituḥ śuśrūṣaṇe rataḥ). And from very childhood (bālyāt prabhṛti), Lakṣmaṇa, the increaser of auspicious fortune (lakṣmivardhanaḥ), was deeply attached in love (susnigdhaḥ)—
+
+**29:** Always to his eldest brother Rāma, the delighter of the world (rāmasya lokarāmasya bhrātur jyeṣṭhasya nityaśaḥ); and even more than his own body (śarīrataḥ), Lakṣmaṇa did everything that was dear to Rāma (sarvapriyakaras tasya rāmasyāpi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1506,6 +1660,12 @@ ca* = brought [for him,] delicious, food, also; *tam vinaa* = without him [Laksh
 
 That best one among the men Rama does not get his sleep without Lakshmana and he would
 not eat food brought for him, however delicious it may be, without Lakshmana. [1-18-30b, 31a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa, richly endowed with the wealth of service (lakṣmisampannaḥ), was like a second life-breath moving outside him (bahiḥprāṇa ivāparaḥ). Without him, the Supreme Person (puruṣottamaḥ, Rāma) would not even fall asleep (na ca tena vinā nidrāṃ labhate);
 </details>
 </details>
 
@@ -1567,6 +1727,14 @@ he is, a dear one.
 Lakshmana's younger brother Shatrughna is a dear one to Bharata, like that Bharata too held
 Shatrughna dearer than his own lives. [1-18-32b, 33a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** Nor would he partake of any savory food brought before him without Lakṣmaṇa by his side (mṛṣṭam annam upānītam aśnāti na hi taṃ vinā). And whenever Rāghava mounted his steed and rode forth to the hunt (mṛgayāṃ yāti rāghavaḥ),
+
+**32:** Lakṣmaṇa, bow in hand, followed closely behind him, guarding him on every side (pṛṣṭhato ’bhyeti sadhanuḥ paripālayan). Likewise, Lakṣmaṇa’s younger brother Śatrughna (lakṣmaṇāvarajo hi saḥ) was to Bharata—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1605,6 +1773,12 @@ fortunate, four, dearest, sons; *pitaamahaH devaiH iva* = Forefather, Brahma, as
 
 King Dasharatha is highly gladdened with four of his highly fortunate sons like the Forefather
 Brahma with gods in heaven. [1-18-33]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ever dearer than his own life-breath, and Bharata too was equally dear to him (prāṇaiḥ priyataro nityaṃ tasya cāsīt tathā priyaḥ). Through those four high-souled and beloved sons, Daśaratha—
 </details>
 </details>
 
@@ -1657,6 +1831,14 @@ When all of the four sons are thus prospering with prudence, gifted with all the
 to do wrong deeds, well-known for their gentility, knowers of pros and cons and even the conscientious
 princes, then their father Dasharatha is contented in respect of all of them who are such
 radiantly brilliant and potential princes, like Brahma. [1-18-34b, 35, 36a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**34:** Was supremely delighted, just like the Grandsire Brahmā surrounded by the celestials (devair iva pitāmahaḥ). And when those princes grew accomplished in sacred wisdom and endowed with all noble virtues (te yadā jñānasampannāḥ sarve samuditā guṇaiḥ),
+
+**35:** Modest (hrīmantaḥ), glorious in renown (kīrtimantaś ca), all-knowing (sarvajñāḥ), and far-seeing in wisdom (dīrghadarśinaḥ)—beholding all of them of such mighty power and blazing splendor (teṣām evaṃprabhāvāṇāṃ sarveṣāṃ dīptatejasām),
 </details>
 </details>
 
@@ -1725,6 +1907,12 @@ to render service to their father and they are also the experts in art of archer
 > श्रुत-विनय-विधिः समाश्रितस् तनुर् अपि नैति पराभवं क्वचित् ॥ 
 
 इति ।
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Their father Daśaratha rejoiced, just like Lord Brahmā, the sovereign of the worlds (brahmā lokādhipo yathā). And those tigers among men (te cāpi manujavyāghrāḥ), ever devoted to Vedic study (vaidikādhyayane ratāḥ),
 </details>
 </details>
 
@@ -1799,6 +1987,14 @@ the highly powerful sage Vishvamitra arrived. [1-18-38b, 39a]
 
 इति ।
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**37:** Delighted in serving their father and were consummately grounded in the science of archery (dhanurvede ca niṣṭhitāḥ). Then the righteous King Daśaratha, regarding the marriage of his sons (teṣāṃ dārakriyāṃ prati),
+
+**38:** Entered into deliberation together with his preceptors and kinsmen (cintayām āsa dharmātmā sopādhyāyaḥ sabāndhavaḥ). While that high-souled monarch was thus deliberating in the midst of his ministers (mantrimadhye),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1841,6 +2037,12 @@ Desirous to have an audience with king Vishvamitra said to the doorkeeper, "Let 
 informed quickly that I, the son of Gadhi from the dynasty of Kushi, have come" [1-18-39b,
 40a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There arrived the great sage Viśvāmitra of mighty splendor (abhyāgacchan mahātejo viśvāmitro mahāmuniḥ). Desiring an audience with the King (rājño darśanākāṅkṣī), he spoke to the wardens of the palace gate (dvārādhyakṣān uvāca ha):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1879,6 +2081,12 @@ informed quickly that I, the son of Gadhi from the dynasty of Kushi, have come" 
 
 On listening those words all the doorkeepers are dumbfounded, and ushered by those words they
 quickly rushed to the place of Dasharatha. [1-18-40b, 41a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Quickly announce that I have arrived—Kauśika, the son of Gādhi (śīghram ākhyāta māṃ prāptaṃ kauśikaṃ gādhinaḥ sutam)!” Hearing those words of his, the gatekeepers ran in haste to the King’s palace (rājño veśma pradudruvuḥ),
 </details>
 </details>
 
@@ -1919,6 +2127,12 @@ as has come; *ikShwaakave nR^ipaaya* = to the king of Ikshwaku dynasty; *aaveday
 
 Then on their arriving at the king's palace the doorkeepers have announced to the king of
 Ikshvaku-s, namely Dasharatha, about the arrival of sage Vishvamitra. [1-18-41b, 42a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All of them flurried in mind (sambhrāntamanasaḥ sarve), impelled by his commanding word (tena vākyena coditāḥ). Having reached the royal palace, they then announced that Sage Viśvāmitra—
 </details>
 </details>
 
@@ -1961,6 +2175,12 @@ priests; *samaahitaH* = collecting himself, in self-possessed manner; *[tam*
 On hearing that message from doorkeepers Dasharatha is highly pleased and he has gone towards
 Vishvamitra in a self-possessed manner along with royal priests, as Indra would ceremoniously
 go towards Brahma. [1-18-42b, 43a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Had arrived, reporting the news to the monarch of the Ikṣvāku line (prāptam āvedayām āsur nṛpāyekṣvākave tadā). Hearing those words of theirs, the King, collected in mind and accompanied by his family priest Vasiṣṭha (sapurodhāḥ samāhitaḥ),
 </details>
 </details>
 
@@ -2013,6 +2233,12 @@ Then on seeing the resplendent sage Vishvamitra, whose radiance is by his own as
 who has severe self-discipline, the king offered water with a gladsome aspect, as first customary
 hospitality in receiving unexpected guest. [1-18-43b, 44a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Went forth in great joy to meet him, just as Indra goes forth to receive Lord Brahmā (pratyujjagāma saṃhṛṣṭo brahmāṇam iva vāsavaḥ). Beholding that ascetic blazing with spiritual effulgence and strict in his vows (jvalitaṃ dīptyā tāpasaṃ saṃśitavratam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2057,6 +2283,12 @@ cha avyayam cha eva* = well-being, also, welfare, also, thus; *paryapR^icChat*
 On receiving water from the king scripturally and customarily Vishvamitra enquired after the
 well-being and welfare of king Dasharatha. [1-18-44b, 45a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The King, with a joyful countenance, caused the ritual arghya offering of water to be presented to him (tato ’rghyam upahārayat). Having accepted the arghya from the King in accordance with Śāstric ordinance (śāstradṛṣṭena karmaṇā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2096,6 +2328,12 @@ in rural areas, among relatives; *suhR^itsu* = among good hearted-ones - friends
 
 That highly righteous sage Vishvamitra asked the king after the well-being of city, exchequer,
 rural areas, friends and relatives. [1-18-45b, 46a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra inquired of the lord of men concerning his welfare and unfailing prosperity (kuśalaṃ cāvyayaṃ caiva paryapṛcchan narādhipam)—in his capital city, his treasury, his countryside, his kinsmen, and his friends (pure kośe janapade bāndhaveṣu suhṛtsu ca).
 </details>
 </details>
 
@@ -2143,6 +2381,12 @@ humans; *saadhu anuSThitham* = properly, performed.
 Sage Vishvamitra asked Dasharatha, "Are all of the provincial kings acquiescent to you, and
 all your enemies conquered? Are you properly performing the devotional and social works?"
 [1-18-46b, 47a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The righteous Kauśika inquired after the King’s welfare: “Are all your tributary neighbors bowed in submission to you, and are your enemies vanquished (api te saṃnatāḥ sarve sāmantaripavo jitāḥ)?”
 </details>
 </details>
 
@@ -2195,6 +2439,12 @@ spoke [asked after,] indeed.
 And on meeting the eminent sage Vashishta and with them the other exalted sages according
 to custom Vishvamitra asked after their well-being. [1-18-47b, 48a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And are both your divine rites and human duties of statecraft being well performed by you (daivaṃ ca mānuṣaṃ caiva karma te sādhv anuṣṭhitam)?” Then, approaching Vasiṣṭha, that foremost of sages inquired after his welfare,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2235,6 +2485,12 @@ king, adored - invited; *niSeduH* = took seats.
 Then adoringly invited by the king Dasharatha all of them gladly entered the palace and they
 took their seats according to protocol. [1-18-48b, 49a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the illustrious sage likewise greeted those other sages (Vāmadeva and the rest) according to due propriety (ṛṣīṃś ca tān yathānyāyaṃ mahābhāga uvāca ha). Then all of them, delighted at heart, entered that King’s palace assembly (rājño niveśanam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2274,6 +2530,12 @@ took their seats according to protocol. [1-18-48b, 49a]
 
 Then the very generous king Dasharatha is gladdened at heart at the arrival of Vishvamitra,
 and he spoke this way feeling happy to adore that sage. [1-18-49b, 50a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And, duly honored by him, took their seats according to their rank (niṣeduś ca yathārhataḥ). Then the supremely munificent King, joyful at heart, addressed the great sage Viśvāmitra,
 </details>
 </details>
 
@@ -2332,6 +2594,16 @@ tathaa eva* = your, arrival, like that, only; *manye* = is deemed; *swaagatam
 land, a barren father begetting a son through his deserving wife, a regain of long lost treasures,
 and the gladness at a great happening, oh, great saint, welcome to you." [1-18-50b, 51, 52a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**50:** Speaking in rapture as he paid him reverence (uvāca paramodāro hṛṣṭas tam abhipūjayan): “Like the winning of ambrosial nectar (yathāmṛtasya samprāptiḥ), like a shower of rain in a waterless land (yathā varṣam anūdake),
+
+**51:** Like the birth of a son from a wife of equal lineage to one who was hitherto childless (yathā sadṛśadāreṣu putrajanmāprajasya vai), like the recovery of a lost treasure (pranaṣṭasya yathā lābhaḥ), and like the joy of a grand festival (yathā harṣo mahodayaḥ)—
+
+**52:** Even so do I regard your coming! Welcome to you, O great sage (tathaivāgamanaṃ manye svāgataṃ te mahāmune)! What supreme desire of yours may I fulfill, and in what manner, filled with joy as I am (kaṃ ca te paramaṃ kāmaṃ karomi kim u harṣitaḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2387,6 +2659,12 @@ recipient from me, what is that choicest object of yours to be fulfilled by me, 
 way. Oh, endower of respect, for me your arrival is fortunate whereby my birth is fructified
 and my life flourished today, and wherefore I could see a great Brahman like you visiting
 my home, therefore the sun appears to have dawned in my night. [1-18-52b, 53, 54a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You are a most worthy recipient of my service, O Brāhmaṇa; by my good fortune have you come, O bestower of honor (pātrabhūto ’si me vipra diṣṭyā prāpto ’si mānada)! Today my birth has borne fruit, and my life has been truly well-lived (jīvitaṃ ca sujīvitam),
 </details>
 </details>
 
@@ -2466,6 +2744,14 @@ Dasharatha deems that city itself is sanctified with the arrival of Vishvamitra 
 that he is like the one who secured the merit of pilgrimage without actually going over a
 sacred place.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**54:** Since I have beheld the foremost of Brāhmaṇas, the night has dawned most auspiciously for me (yasmād viprendram adrākṣaṃ suprabhātā niśā mama)! Formerly radiant with asceticism under the title of Royal Sage (pūrvaṃ rājarṣiśabdena tapasā dyotitaprabhaḥ),
+
+**55:** You have now attained the rank of Brahmarṣi, and are thus worthy of being worshiped by me in manifold ways (pūjyo ’si bahudhā mayā). Your coming, O Brāhmaṇa, is a wondrous miracle and a supreme sanctification for me (pavitraṃ paramaṃ mama).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2512,6 +2798,12 @@ sacred place.
 
 "You may tell me, entreating which work your arrival chanced here and I feel that I am indeed
 blessed and wish to make it happen to achieve results. [1-18-56b, 57a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By beholding you, O lord, I have as it were entered a sacred place of pilgrimage (śubhakṣetragataś cāhaṃ tava saṃdarśanāt prabho). Declare, I pray you, the purpose that you desire regarding your coming hither (brūhi yat prārthitaṃ tubhyaṃ kāryam āgamanaṃ prati).
 </details>
 </details>
 
@@ -2569,6 +2861,12 @@ hi* = you are god for me, indeed.
 while I am the fulfiller of it without any reminder, since you are god to me, indeed. [1-18-57b,
 58a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Favored by you, I wish to carry out your purpose to its full accomplishment (icchāmy anugṛhīto ’haṃ tvadarthaṃ parivṛddhaye). And you ought not to entertain any doubt or hesitation concerning your task, O sage of noble vows (kāryasya na vimarśaṃ ca gantum arhasi suvrata)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2614,6 +2912,12 @@ is the unexcelled one.
 
 "Oh, Brahman, this is the great prosperity that bechanced on me, and this is propriety in
 its entirety that bechanced on me, as a result of your arrival. [1-18-58b, c]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I shall accomplish it in its entirety, without reserve, for you are indeed my deity (kartā cāham aśeṣeṇa daivataṃ hi bhavān mama)! Through your arrival, O twice-born sage, this great prosperity has come to me, as well as complete and unsurpassed religious merit (kṛtsno dharmaś cānuttamo dvija).”
 </details>
 </details>
 
@@ -2678,5 +2982,11 @@ rejoice. [1-18-59]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हदिनॆण्टनॆय सर्ग पूर्णवायितु. ॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech, so delightful to the heart and pleasing to the ear (hṛdayasukhaṃ ... śrutisukham), uttered with humility by that self-possessed monarch (ātmavatā vinītam uktam), the supreme sage of renowned virtues, pre-eminent in every excellence, experienced the highest joy (paramaṛṣiḥ paramaṃ jagāma harṣam).
 </details>
 </details>

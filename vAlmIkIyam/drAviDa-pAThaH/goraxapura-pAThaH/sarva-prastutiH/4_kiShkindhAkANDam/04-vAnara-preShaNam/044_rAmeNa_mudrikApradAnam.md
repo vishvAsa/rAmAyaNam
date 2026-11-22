@@ -82,6 +82,12 @@ aatmaja | ayam ikShvaaku daayaado raajaa raamaH prataapavaan | sarva aatmaa sarv
 dhR^it | - nR^isimha puraaNa; 'on nearing Air-god's son Sugreeva spoke, 'oh, Hanuma listen to my saying,
 he this Rama, the valorous scion of Ikshvaku, is the Cosmic Soul and Vishnu in human form...' Nrisimha Puraana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Sugrīva spoke of the matter [of seeking Sītā] especially (viśeṣeṇa) to Hanūmān; for with regard to accomplishing the purpose (artha-sādhane), his resolve was firmly fixed (niścitārthaḥ) upon that foremost of monkeys.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,6 +132,12 @@ he this Rama, the valorous scion of Ikshvaku, is the Cosmic Soul and Vishnu in h
 
 The king of all the residents of forest Sugreeva is well pleased to pick and choose Hanuma for the purpose, and
 spoke to the venturesome son of Air-god, Hanuma. [4-44-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Waitful lord of all forest-dwellers (sarva-vanaukasām), Sugrīva, supremely pleased (parama-prītaḥ), spoke to the valiant (vikrāntam) Hanūmān, son of the Wind-god:
 </details>
 </details>
 
@@ -176,6 +188,12 @@ there, or in the wild blue yonder where celestial bodies alone gravitate at rand
 is no underwater movement for earthly beings, nor in the heaven, the abodes of immortals, where those immortals
 will not allow mortals like us to meander as we like. [4-44-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither on earth, nor in the mid-air (antarikṣe), nor in the sky (ambare), nor in the abode of the immortals (amarālaye), nor within the waters do I behold any impediment to your course (gati-saṅgam), O bull among monkeys!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -223,6 +241,12 @@ by earth, namely, mountains]; *sarva lokaaH* = all, worlds; *te viditaaH* = to y
 
 "All the worlds that contain demons, gandharva-s, naaga-s, humans, gods, and the oceans and mountains therein
 are known to you. [4-44-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All the worlds—together with the Asuras, Gandharvas, Nāgas, men, and gods, along with their oceans and mountains (sa-sāgara-dharādharāḥ)—are thoroughly known (viditāḥ) to you.
 </details>
 </details>
 
@@ -273,6 +297,12 @@ father; *mahaa ojasaH* = of marvelling, dynamism; *maarutasya* = of Air-god; *sa
 "With your unusual mobility, unstoppable celerity, unremitting vivacity, and untold ability you are identical
 to your father Maaruti, the Air-god of marvelling dynamism. [4-44-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your course (gatiḥ), velocity (vegaḥ), fiery energy (tejaḥ), and swift agility (lāghavam), O great monkey, O hero, are equal to those of your father Māruta of mighty vigour (mahaujasaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,6 +348,12 @@ about.
 
 "Or even by your radiancy none on earth is coming to mind who can be a coequal of yours, thereby you alone shall
 think about that process as to how to access Seetha. [4-44-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor does any creature (bhūtam) exist upon earth that is equal to you in splendour (tejasā); therefore do you yourself reflect (anucintaya) upon the exact means whereby Sītā may be found!”
 </details>
 </details>
 
@@ -365,6 +401,12 @@ alone, are there.
 "Oh, Hanuma, in you alone there are brawniness, astuteness and venturesomeness, and oh, ethicist, you conduct
 yourself in abidance with time, place and ethicality." Thus Sugreeva said to Hanuma. [4-44-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In you alone, O Hanūmān, reside strength (balam), intelligence (buddhiḥ), valorous enterprise (parākramaḥ), conformity to place and time (deśa-kālānuvṛttiḥ), and statecraft (nayaḥ), O master of policy (naya-paṇḍita)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -409,6 +451,12 @@ yourself in abidance with time, place and ethicality." Thus Sugreeva said to Han
 
 Raghava started pondaration when he is cognisant of the entrustment of the task to Hanuma and on cognising Hanuma
 as an efficient cause. [4-44-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, perceiving that the fulfilment of the mission was vested (kārya-samāsaṅgam) in Hanūmān, and knowing Hanūmān himself, Rāghava reflected thus:
 </details>
 </details>
 
@@ -455,6 +503,12 @@ highly, also, even
 
 "This king of monkeys, Sugreeva, is anywise definitive in his resolve reposed in Hanuma, and Hanuma is definitely
 resolute in achieving the task. [4-44-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This lord of monkeys has in every way (sarvathā) staked his purpose upon Hanūmān; and Hanūmān himself is even more firmly resolved (niścitārthataraḥ) in accomplishing the task (kārya-sādhane).
 </details>
 </details>
 
@@ -506,6 +560,12 @@ chosen by his king. As such, this Hanuma will certainly bring task to fruition.
 Hanuma who is now transiting must be individually well-known for accomplishment of any task assigned to him. Hence
 the fruition of the task is certain." Thus, Rama pondered. [4-44-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, since he has been thus dispatched, tested by his past deeds (parijñātasya karmabhiḥ), and favoured by his master (bhartrā parigṛhītasya), the dawning of the fruit of our mission (kārya-phalodayaḥ) is certain (dhruvaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -551,6 +611,12 @@ highly, delighted - Rama.
 
 On perusing Hanuma who is the ablest one in his endeavours, the highly resplendent Rama is immensely delighted,
 and his heart and senses are elated as if his purpose has been achieved. [4-44-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that monkey who excelled in resolute enterprise (vyavasāyottaram), Rāma of mighty splendour rejoiced as though his object were already accomplished (kṛtārtha iva saṃhṛṣṭaḥ), his senses and mind thrilled with joy.
 </details>
 </details>
 
@@ -603,6 +669,12 @@ Hanuma, as a remembrancer for princess Seetha. [4-44-12]
 When Rama shed all his regalia while coming to forests how he kept a ring on his finger, and when Angada is there
 as troop leader why this ring is given to Hanuma - are the debated topics. Please refer to the endnote.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleased, that scorcher of foes (paraṃtapaḥ) then gave him a signet ring (aṅgulīyam) graced with the engraving of his own name (sva-nāmāṅkopaśobhitam) as a token of recognition (abhijñānam) for the princess.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -648,6 +720,12 @@ has arrived; *an udvignaa* = without, apprehension; *anupashyati* = she identifi
 "By this emblematic ring, oh, best monkey, Janaka's daughter Seetha identifies you to have reached her from my
 proximity, without apprehension. [4-44-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By this token (cihnena), O foremost of monkeys, Janaka's daughter will behold you without alarm (anudvignā) as having arrived directly from my presence (mat-sakāśād anuprāptam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -692,6 +770,12 @@ combined with, venturesomeness, also; *sugriivasya sandeshaH ca* = Sugreeva's, m
 
 "Oh, brave one, your enthusiasm, vital-force combined with your venturesomeness, and also the message of Sugreeva
 to you, are as if heralding achievement to me." Thus, Rama spoke to Hanuma while giving his ring. [4-44-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your resolute determination (vyavasāyaḥ), O hero, your valour endowed with mighty strength (sattva-yuktaś ca vikramaḥ), and Sugrīva's charge (saṃdeśaḥ) already proclaim to me, as it were, our success (siddhim)!”
 </details>
 </details>
 
@@ -741,6 +825,12 @@ kR^ita anjaliH* = making, palm-fold; *caraNau caiva vanditvaa* = at two feet, ha
 
 On taking the ring that foremost monkey Hanuma kept it on his own head, and making palm-fold he reverenced the
 feet of Rama, and then that noteworthy monkey started off. [4-44-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking that [ring], placing it upon his head (kṛtvā mūrdhni) with joined palms, and bowing to Rāma's feet (vanditvā caraṇau), that foremost bull among leapers (plavagarṣabhaḥ) set forth.
 </details>
 </details>
 
@@ -796,6 +886,12 @@ clusters, brightened by; *shashii iva* = moon, like; *babhuuva* = he became - ap
 That brave monkey-son of Air-god leapt to sky along with that massive force of monkeys as if he is hauling them
 up, and he who is brightened by monkeys around him on the skyscape appeared like the moon in a very clear lunar
 sphere on a cloudless sky brightened by clusters of stars around. [4-44-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Drawing along (prakarṣan) that mighty host of monkeys (hariṇāṃ mahad balam), the heroic monkey, son of the Wind-god, shone like the pure-orbed moon (viśuddha-maṇḍalaḥ śaśīva) graced by troops of stars in a cloudless sky (gatāmbude vyomni).
 </details>
 </details>
 
@@ -863,6 +959,12 @@ daughter, Seetha." Thus, Rama shouted at Hanuma flying in the sky. [4-44-17]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नलवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥44॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O hero of supreme strength (atibala), I rely upon your might! O you of lion-like stride (harivara-vikrama), step forth with your manifold deeds of valour (vikramair analpaiḥ)! O son of the Wind, O Hanūmān, act in such a way that Janaka's daughter is found (adhigamyate)!”
 </details>
 </details>
 

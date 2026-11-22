@@ -78,6 +78,14 @@ On seeing the fourteen thousands demons of heinous crimes, and even on seeing Tr
 even Khara, who are all exterminated by lone Rama, then Shuurpanakha emitted a thunderous blare like
 a thundercloud. [3-32-1, 2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then, having seen fourteen thousand (sahasrāṇi caturdaśa) rākṣasas of dreadful deeds (bhīma-karmaṇām) slain by Rāma alone (ekena rāmeṇa)—
+
+**2:** And having seen Dūṣaṇa, Khara, and Triśiras slain in battle (raṇe), Śūrpaṇakhā, resembling a thundercloud (jaladopamā), roared mighty roars once again (punar mahā-nādān nanāda).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +131,12 @@ to.
 
 Highly agitated to witness the deed done by Rama, which deed is highly impossible for others, she hurried
 Lanka ruled by Ravana. [3-32-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having witnessed that feat of Rāma (karma rāmasya), most difficult for others to accomplish (anyaiḥ suduṣkaram), she went in utter terror (paramodvignā) to Laṅkā, ruled over by Rāvaṇa (rāvaṇa-pālitām).
 </details>
 </details>
 
@@ -183,6 +197,12 @@ The words *upa upa viSTa* 'the ministers are sitting near him, and are in attend
 use of extra preposition *upa*, but in the course of time the idea of 'nearness or proximity' are lost
 and it came be used as just 'sitting...' Thus, the tautological tendencies were influencing Sanskrit'
 - Pt. Satya Vrat in Ramayana - A Linguistic Study.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She beheld Rāvaṇa of blazing splendour (dīpta-tejasam) atop his aerial palace (vimānāgre), seated amidst his ministers (upopaviṣṭaṃ sacivaiḥ) like Vāsava [Indra] amidst the Maruts—
 </details>
 </details>
 
@@ -250,6 +270,12 @@ Vedic-rituals. Ravana's throne, rather the seat of authority, itself is the Gold
 kind, and every praise, or extolment of Ravana is a hymn in his eulogy, and any offering made anywhere
 in his jurisdiction is an offering made into that Ravana-Fire-Altar. That absolute power of Ravana is
 making him to glow to the bedazzlement of all the worlds. And how he got that Indrahood is said next.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated upon a supreme golden throne bright as the sun (sūrya-saṃkāśe kāñcane paramāsane), like a blazing sacrificial fire (jvalantam iva pāvakam) fed with abundant oblation upon a golden altar (rukma-vedi-gataṃ prājyam)—
 </details>
 </details>
 
@@ -320,6 +346,14 @@ kiNa vakSasam* = when gored, blotched, chest.
 One who is severally bruised in several combats of gods and demons with the thunderbolts from the Vajra
 weapon of Indra, and one who is severally blotched on his chest when the prongs of the tusks of Airavata,
 the lordly elephant of Indra, gored his chest, at such a Ravana Shuurpanakha saw. [3-32-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** Unconquerable in battle (ajeyaṃ samare) by gods, gandharvas, bhūtas, and high-souled sages (ṛṣīṇāṃ ca mahātmanām), dreadful (ghoram) like Death with jaws agape (vyāttānanam ivāntakam)—
+
+**7:** Bearing wounds inflicted by the thunderbolt and lightning-flash (vajrāśani-kṛta-vraṇam) in the clashes of gods and asuras (devāsura-vimardeṣu), his chest marked with scars ploughed open by the tips of Airāvata's tusks (airāvata-viṣāṇāgrair utkṛṣṭa-kiṇa-vakṣasam)—
 </details>
 </details>
 
@@ -401,6 +435,14 @@ Blent with the gleam of Lapis gems studded in his ornaments his glisten is alike
 his ear-knobs are made out of refined gold, and his arms strongish, teeth whitish, mouth widish and
 he is mountainous, and Shuurpanakha saw such a Ravana. [3-32-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Twenty-armed (viṃśad-bhujam), ten-necked (daśa-grīvam), of splendid royal insignia (darśanīya-paricchadam), broad-chested (viśāla-vakṣasam), heroic, and marked with the signs of royalty (rāja-lakṣaṇa-lakṣitam)—
+
+**9:** Gleaming like mounted cat's-eye gems (naddha-vaidūrya-saṃkāśam) and adorned with ornaments of refined gold (tapta-kāñcana-bhūṣaṇam), comely-armed (subhujam), white-toothed (śukla-daśanam), wide-mouthed (mahāsyam), and huge as a mountain (parvatopamam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -463,6 +505,12 @@ ahirbuj~na vaakya* 'sudarshana is my causative thinking, words are just alternat
 Though hit by Thunderbolts or missiles for umpteen times, he is just wounded but not dead and he is
 on such a winning spree, ineradicably.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck hundreds of times (śataśaḥ tāḍitam) by the falls of Viṣṇu's discus (viṣṇu-cakra-nipātaiś ca) in the battle with the gods (deva-saṃyuge), and by other weapons and blows in mighty wars—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -510,6 +558,12 @@ Likewise, whose limbs are thrashed with thrashing missilery of all gods, whereby
 become harsh, thus he can perpetrate anything swiftly at his will, and he who can capably roil an un-perturbable
 ocean at his wish, at such Ravana Shuurpanakha saw. [3-32-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Him whose limbs remained unharmed (ahatāṅgaiḥ) by all those weapons of the gods (samastair deva-praharaṇaiḥ), the churner of the unshakeable oceans (akṣobhyāṇāṃ samudrāṇāṃ kṣobhaṇam), swift in action (kṣipra-kāriṇam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -556,6 +610,12 @@ molester.
 
 At him who is a volleyer of mountain peaks, a represser of gods, an extirpator of ethical values, and
 a molester of others wives, Shuurpanakha saw. [3-32-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The hurler of mountain peaks (kṣeptāraṃ parvatāgrāṇām) and crusher of the gods (surāṇāṃ ca pramardanam), the uprooter of righteous laws (ucchettāraṃ ca dharmāṇām) and violator of others' wives (para-dārābhimarśanam)—
 </details>
 </details>
 
@@ -609,6 +669,12 @@ to the city named Bhogavati, the capital of Naga-s, and on defeating Vaasuki, th
 has abducted the dear wife of Taksha on molesting her, and Shuurpanakha saw such a molester of others
 wives. [3-32-13, 14a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The wielder of all celestial weapons (sarva-divyāstra-yoktāram), ever the disruptor of sacrifices (yajña-vighna-karaṃ sadā), who went to the city of Bhogavatī and defeated Vāsuki—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -649,6 +715,12 @@ jahaara vai snatched away, indeed.
 On going to Mt. Kailash he who has defeated the god who uses humans as his vehicle, namely Kubera, and
 snatched away his aircraft, namely Pushpaka, which aircraft transits at the wish of its steersman, and
 Shuurpanakha saw such a grabber of others possessions. [3-32-14b, 15a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Who, having defeated Takṣaka, carried off his beloved wife (takṣakasya priyāṃ bhāryāṃ jahāra), and having gone to Mount Kailāsa and conquered Kubera, whose mount is man (nara-vāhanam)—
 </details>
 </details>
 
@@ -697,6 +769,12 @@ vinaashayati* = with enviousness, devastated.
 He who enviously devastated the divine gardens of Kubera, called Caitraratha, along with a divine Lake
 of Lotuses pertaining to the same Kubera, called Pushkarini, and the gardens of Indra, called Nandana,
 along with other paradisiacal gardens of gods, Shuurpanakha saw such an envious demon. [3-32-15b, 16a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Carried off his aerial chariot Puṣpaka that courses at will (vimānaṃ puṣpakaṃ kāma-gam); and who, mighty in valor (vīryavān), destroys in wrath the celestial grove Caitraratha, the lotus-lake Nalinī, the Nandana grove—
 </details>
 </details>
 
@@ -751,6 +829,12 @@ rise. [3-32-16b, 17a]
 Tall as a hill that cleaves the sky, / He raised his mighty arms on high / To check the blessed moon,
 and stay / The rising of the Lord of Day. - Griffith.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the pleasure-gardens of the gods (devodyānāni); who, towering like a mountain peak (śaila-śikharopamaḥ), checks with his two arms (nīvārayati bāhubhyām) the glorious, foe-tormenting moon and sun as they rise (candra-sūryāv uttiṣṭhantau)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -798,6 +882,12 @@ That courageous one who in early times has practised ascesis for ten thousand ye
 and who on accomplishing it has dedicated ten of his heads to the Self-Created Brahma, she saw such
 a Ravana with such ten heads. [3-32-17b, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Who, resolute (dhīraḥ), having practiced austerity (tapas taptvā) for ten thousand years (daśa-varṣa-sahasrāṇi) in the great forest—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -843,6 +933,12 @@ reptiles; *mR^ityutaH* = from death; *a bhayam* = no, fear - indemnity - is give
 Whereby, to whom there is an indemnity against death in war at the hand of gods, demons, gandharva-s,
 devils, birds, or reptiles, excepting humans, and Shuurpanakha saw such an unimperilled Ravana. [3-32-18b,
 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Offered up his own heads (śirāṃsy upajahāra) of old to Svayambhū [Brahmā]—him who in battle has immunity from death (abhayaṃ mṛtyutaḥ) at the hands of gods, dānavas, gandharvas, piśācas, birds, and serpents—
 </details>
 </details>
 
@@ -891,6 +987,12 @@ He who is an extreme-ultraist that expropriates the Soma-juice-oblation form the
 in Vedic-rituals, which Soma juice-oblation is blest with Vedic-hymns and kept separately by Vedic Brahmans,
 since it is intended and shall belong to Indra and other divinities, and she saw such a plunderer. [3-32-19b,
 20a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Save from man alone (mānuṣād ṛte); who, of mighty strength (mahā-balaḥ), destroys the sacred soma juice (puṇyaṃ somam upahanti) consecrated with Vedic chants (mantrair abhiṣṭutam) by twice-born priests in sacrifices (adhvareṣu dvijātibhiḥ)—
 </details>
 </details>
 
@@ -950,6 +1052,12 @@ fear he lets none to conduct any Vedic sacrifice. Secondly, he has became one wi
 of Brahma. So, any ritual should be centred on Ravana, not Indra. He is not a routine Brahman slayer
 as he has Brahmanic origin, and his teachers are Brahmans, and the like. But he goes against those Brahmans
 who dare to conduct rituals for Indra and other divinities.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Within the havirdhāna pavilions; the spoiler of sacrifices that have reached completion (prāpta-yajña-haram), wicked (duṣṭam), a slayer of Brahmans (brahma-ghnam), doer of cruel deeds (krūra-kāriṇam)—
 </details>
 </details>
 
@@ -1013,6 +1121,12 @@ raama patniim
 *raavaNasya
 apatyam pumaan raavaNaH* 'Ravana's son is Raavana.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Harsh (karkaśam), pitiless (niranukrośam), delighting in the harm of creatures (prajānām ahite ratam)—Rāvaṇa, who makes all beings cry out and brings terror to all the worlds (sarva-bhūtānāṃ sarva-loka-bhayāvaham)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1059,6 +1173,14 @@ And at him who is conspicuously sitting on a throne, attired and bejewelled in e
 jewels, shining forth with marvellous garlands, and who is like the Ultimate-Time on the rise destined
 for the Eventual-Time. [3-32-22b, 23a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** That rākṣasī beheld her cruel brother of mighty strength (bhrātaraṃ krūraṃ mahā-balam), adorned with celestial garments and ornaments (divya-vastrābharaṇam) and graced with celestial garlands (divya-mālyopaśobhitam)—
+
+**23:** Seated royally upon his throne (āsane sūpaviṣṭam) like Death upraised at the time of cosmic dissolution (kāle kālam ivodyatam), that lord of rākṣasas, of high fortune (mahā-bhāgam), the delight of Pulastya's race (paulastya-kula-nandanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1100,6 +1222,12 @@ abraviit* = nearing him, sentence, spoke.
 Demoness Shuurpanakha nearing Ravana, who is the highly fortunate king of demons, an enemy-destroyer
 and a felicity of the dynasty of Sage Pulasta, and who is now surrounded by his ministers, she spoke
 this sentence. [3-32-23b, 24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching (upagamya) Rāvaṇa, the slayer of foes (śatru-hantāram), who was surrounded by his ministers (mantribhiḥ parivāritam), the rākṣasī, distraught with fear (bhaya-vihvalā), spoke this speech—
 </details>
 </details>
 
@@ -1165,6 +1293,12 @@ Shuurpanakha spoke this very caustic sentence to Ravana, whose eyes are broad an
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्ष रामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तॆरडनॆय सर्ग सम्पूर्णवायितु.॥32॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having displayed [her mutilation] (pradarśayitvā), Śūrpaṇakhā—who was wont to roam without fear (abhīta-cāriṇī), but had been disfigured by the high-souled hero (mahātmanā virūpitā) and was infatuated by fear and passion (bhaya-lobha-mohitā)—spoke to him of blazing, wide eyes (dīpta-viśāla-locanam) a most terrible speech (sudāruṇaṃ vākyam).
 </details>
 </details>
 

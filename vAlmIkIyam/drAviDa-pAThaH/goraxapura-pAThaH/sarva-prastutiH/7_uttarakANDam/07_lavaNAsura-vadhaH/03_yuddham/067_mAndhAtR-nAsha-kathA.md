@@ -50,6 +50,14 @@ _________________
 
 याव रात्रियल्लि शत्रुघ्ननु पर्णशालॆयन्नु प्रवेशिसिदनो, अदे रात्रॆ सीतादेवियु इब्बरु गण्डु मक्कळिगॆ जन्मवन्नित्तळु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then, as the night advanced (rātryāṃ pravṛttāyām), Śatrughna asked the brahmin Cyavana, son of Bhṛgu (bhṛgu-nandanaṃ ... cyavanaṃ vipram), concerning the true measure of Lavaṇa’s might (lavaṇasya yathā balam),
+
+**2:** “And of the might of that trident, O brahmin (śūlasya ca balaṃ brahman), and who in times past were destroyed (ke ca pūrvaṃ vināśitāḥ) upon entering single combat (dvandva-yuddham upāgatāḥ) with him who holds that foremost trident (anena śūla-mukhyena)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -77,6 +85,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूज्यरे! श्रीरामचन्द्रन धर्मपत्नियु इब्बरु पुत्ररिगॆ जन्म नीडिरुवळु. आद्दरिन्द महातेजस्वी महर्षिगळे! नीवु अवुगळ बालग्रहजनित बाधॆ दूरगॊळिसुव रक्षॆयन्नु माडिरि.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of the great-souled Śatrughna (tasya tad-vacanaṃ śrutvā śatrughnasya mahātmanaḥ), the greatly resplendent Cyavana (mahātejāś cyavanaḥ) replied to the delight of the Raghus (raghunandanam):
 </details>
 </details>
 
@@ -106,6 +120,12 @@ _________________
 
 आ मुनिकुमारर मातन्नु केळि महर्षिगळु सीतॆय इब्बरु बालचन्द्ररन्तॆ सुन्दर, देवकुमाररन्तॆ महातेजस्वी बालकर बळिगॆ होदरु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Countless are the deeds performed by this one (asaṅkhyeyāni karmāṇi yāny asya), O delight of the Raghus; hear from me, however, what befell one born of the Ikṣvāku lineage (ikṣvāku-vaṃśa-prabhave yad vṛttaṃ tac chṛṇuṣva me).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,6 +153,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वाल्मीकिगळु प्रसन्नचित्तरागि सूतिकागारवन्नु प्रवेशिसि, आ इब्बरु कुमाररन्नु नोडिदरु हागू अवरिगॆ भूत-राक्षसर रक्षॆय व्यवस्थॆ माडिदरु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of old, there was a mighty king in Ayodhyā (ayodhyāyāṃ purā rājā ... balī), the son of Yuvanāśva (yuvanāśva-sutaḥ), renowned throughout the three worlds as Māndhātṛ, full of valor (māndhāteti sa vikhyātas triṣu lokeṣu vīryavān).
 </details>
 </details>
 
@@ -162,6 +188,12 @@ _________________
 
 ब्रह्मर्षिगळु वाल्मीकिगळु ऒन्दु मुष्टिदर्भॆगळ (मध्यक्कॆ सरियागि कत्तरिसिद दर्भॆगळ अग्रभागवन्नु ‘कुश’वॆन्दू, कॆळगिन भागवन्नु ‘लव’वॆन्दु हेळुत्तारॆ.) लवदिन्द इब्बरू बालकरिगॆ भूतबाधॆ निवारणॆगागि रक्षाविधानवन्नु माडिदरु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having brought the entire earth under his sway (kṛtvā pṛthivīṃ kṛtsnāṃ śāsane), that lord of the earth (pṛthivī-patiḥ), the king, set forth from here with an enterprise to conquer the realm of the gods (suralokam ito jetum udyogam akaron nṛpaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -184,6 +216,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राजा मान्धाताने जब देवलोकपर विजय पानेकी इच्छासे उद्योग आरम्भ किया, तब इन्द्र तथा महामनस्वी देवताओंको बड़ा भय हुआ ॥ ७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And fierce dread seized Indra and the great-souled gods (indrasya ca bhayaṃ tīvraṃ surāṇāṃ ca mahātmanām) when Māndhātṛ bent his efforts toward the desire of conquering the world of the gods (māndhātari kṛtodyoge devaloka-jigīṣayā).
 </details>
 </details>
 
@@ -213,6 +251,12 @@ _________________
 
 इब्बरु बालकरल्लि मॊदलु हुट्टिदवनन्नु मन्त्रगळिन्द संस्करिसिद आ कुशगळिन्द वृद्ध स्त्रीयरु मार्जन माडिदरु. हीगॆ माडिदाग आ बालकन हॆसरु ‘कुश’ ऎन्दागुवुदु. अवरल्लि किरियवनन्नु मार्जन माडिरि. इदरिन्द अवन हॆसरु ‘लव’ ऎन्दागुवुदु.॥7-8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Claiming half the throne of Śakra and half his kingdom (ardhāsanena śakrasya rājyārdhena ca), the earthly king, receiving homage from the hosts of gods (vandyamānaḥ sura-gaṇaiḥ), mounted upward upon his solemn vow (pratijñām adhyarohata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,6 +284,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ अवळियागि उत्पन्नराद इब्बरू बालकरु क्रमवागि कुश मत्तु लव ऎम्ब नामधेय धरिसुवरु हागू नानू निश्चयिसिद इदे हॆसरुगळिन्द भूमण्डलदल्लि विख्यातरागुवरु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Perceiving his wicked intent (tasya pāpam abhiprāyaṃ viditvā), the chastiser of Pāka [Indra] (pāka-śāsanaḥ) addressed these conciliatory words to the son of Yuvanāśva (sāntva-pūrvam idaṃ vākyam uvāca yuvanāśvajam):
 </details>
 </details>
 
@@ -269,6 +319,12 @@ _________________
 
 इदन्नु केळि निष्पाप वृद्ध स्त्रीयरु एकाग्रचित्तरागि मुनिय कैयिन्द रक्षॆय साधनीभूत दर्भॆगळन्नु पडॆदु, अवुगळिन्द आ इब्बरू बालकरिगॆ मार्जन माडि रक्षॆमाडिदरु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘You are not yet sovereign over the entire world of mortals, O bull among men (rājā tvaṃ mānuṣe loke na tāvat puruṣarṣabha); without having brought the earth completely into your power (akṛtvā pṛthivīṃ vaśyām), you aspire here to the sovereignty of the gods (deva-rājyam ihecchasi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -291,6 +347,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘वीर! यदि सारी पृथ्वी तुम्हारे वशमें हो जाय तो तुम सेवकों, सेनाओं और सवारियोंसहित यहाँ देवलोकका राज्य करना’ ॥ ११ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘If, O hero, the whole earth in its entirety stands under your sway (yadi vīra samagrā te medinī nikhilā vaśe), then assume the kingdom of heaven here (deva-rājyaṃ kuruṣveha) together with your ministers, armies, and mounts (sa-bhṛtya-bala-vāhanaḥ)!’
 </details>
 </details>
 
@@ -320,6 +382,12 @@ _________________
 
 वृद्धस्त्रीयरु हीगॆ रक्षॆ माडतॊडगिदाग अर्धरात्रॆ श्रीराम मत्तु सीतॆय नामगोत्रवन्नुच्चरिसिद ध्वनि शत्रुघ्नन किविगॆ बित्तु. जॊतॆगॆ सीतॆय इब्बरु सुन्दरु हुट्टिद सुन्दर संवादवू केळि बन्तु. आग अवनु सीतॆय पर्णशालॆगॆ होगि-माताजी ! इदु बहळ दॊड्ड सौभाग्यद मातागिदॆ ऎन्दु हेळिदनु.॥11-12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To Indra speaking thus (indram evaṃ bruvāṇaṃ tam), Māndhātṛ replied with these words (māndhātā vākyam abravīt): ‘Where upon the face of the earth, O Śakra, has my command ever been thwarted (kva me śakra pratihataṃ śāsanaṃ pṛthivī-tale)?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -347,6 +415,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महात्मा शत्रुघ्ननु अत्यन्त प्रहृष्टनागि श्रावणद आ रात्रियु मातनाडुत्तिद्दन्तॆ कळॆदु होदुदे तिळियलिल्ल.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The thousand-eyed one [Indra] said to him (tam uvāca sahasrākṣaḥ): ‘A rākṣasa named Lavaṇa (lavaṇo nāma rākṣasaḥ), the son of Madhu, in Madhuvana (madhu-putro madhuvane), does not obey your command, O sinless one (na te ’jñāṃ kurute ’nagha)!’
 </details>
 </details>
 
@@ -376,6 +450,12 @@ _________________
 
 बॆळगादाग पूर्वाह्णद सन्ध्यावन्दनादिगळन्नु पूरैसि महापराक्रमि शत्रुघ्ननु कैमुगिदु मुनियिन्द बीळ्कॊण्डु पश्चिमदिक्किगॆ प्रयाणिसिदनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those harsh and dreadful words spoken by the thousand-eyed one (tac chrutvā vipriyaṃ ghoraṃ sahasrākṣeṇa bhāṣitam), the king, overcome with shame and hanging his head (vrīḍito ’vāṅmukho rājā), could not utter a single word (vyāhartuṃ na śaśāka ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -404,6 +484,12 @@ _________________
 
 मार्गदल्लि एळु रात्रिगळन्नु कळॆदु अवनु यमुना तीरक्कॆ तलुपिदनु. अल्लि पुण्यकीर्ति महर्षिगळ आश्रमदल्लि इरतॊडगिदनु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Taking leave of the thousand-eyed one (āmantrya tu sahasrākṣam), his face somewhat downcast with embarrassment (hriyā kiñcid avāṅmukhaḥ), that illustrious lord of men returned once more to this mortal world (punar evāgamac chrīmān imaṃ lokaṃ nareśvaraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -431,6 +517,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महायशस्वी राजाशत्रुघ्ननु अल्लि च्यवनरे आदि मुनिगळ जॊतॆगॆ सुन्दर कथा-वार्तालाप दिन्द कालक्षेप माडुत्ता वासिसिदनु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nursing indignation within his heart (kṛtvā hṛdaye ’marṣam), that tamer of foes (arindamaḥ), accompanied by his ministers, armies, and mounts (sa-bhṛtya-bala-vāhanaḥ), marched forth to bring the son of Madhu under his sway (ājagāma madhoḥ putraṃ vaśe kartum).
 </details>
 </details>
 
@@ -462,6 +554,12 @@ _________________
 
 हीगॆ रघुकुलद प्रमुखवीर महात्मा राजकुमार शत्रुघ्ननु अल्लि नॆरॆद च्यवनादि मुनिगळॊन्दिगॆ नाना प्रकारद कथॆगळन्नु केळुत्ता आ दिनगळल्लि यमुना तीरदल्लि रात्रॆगळन्नु कळॆयतॊडगिदनु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Eager to engage Lavaṇa in battle (kāṅkṣamāṇo lavaṇaṃ yuddhāya), that bull among men (puruṣarṣabhaḥ) dispatched an envoy into Lavaṇa’s presence (dūtaṃ sampreṣayām āsa sakāśaṃ lavaṇasya hi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -481,6 +579,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘दूतने वहाँ जाकर मधुके पुत्रको बहुत-से कटुवचन सुनाये । इस तरह कठोर बातें कहते हुए उस दूतको वह राक्षस तुरंत खा गया ॥ १८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having gone there, that envoy spoke many harsh words to the son of Madhu (sa gatvā vipriyāṇy āha bahūni madhunaḥ sutam); and as the envoy was speaking thus, the rākṣasa devoured him alive (vadantam evaṃ taṃ dūtaṃ bhakṣayām āsa rākṣasaḥ).
 </details>
 </details>
 
@@ -502,6 +606,12 @@ _________________
 
 ‘जब दूतके लौटनेमें विलम्ब हुआ, तब राजा बड़े क्रुद्ध हुए और बाणोंकी वर्षा करके उस राक्षसको सब ओरसे पीड़ित करने लगे ॥ १९ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When the envoy lingered long (cirāyamāṇe dūte tu), the king, filled with wrath (rājā krodha-samanvitaḥ), afflicted that rākṣasa on every side with a shower of arrows (ardayām āsa tad rakṣaḥ śara-vṛṣṭyā samantataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -521,6 +631,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तब लवणासुरने हँसकर हाथसे वह शूल उठाया और सेवकोंसहित राजा मान्धाताका वध करनेके लिये उस उत्तम अस्त्रको उनके ऊपर छोड़ दिया ॥ २० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, bursting into laughter (tataḥ prahasya), that rākṣasa seized the trident in his hand (tad rakṣaḥ śūlaṃ jagrāha pāṇinā) and hurled that supreme weapon for the destruction of the king together with all his retinue (vadhāya sānubandhasya mumocāyudham uttamam).
 </details>
 </details>
 
@@ -542,6 +658,12 @@ _________________
 
 ‘वह चमचमाता हुआ शूल सेवक, सेना और सवारियोंसहित राजा मान्धाताको भस्म करके फिर लवणासुरके हाथमें आ गया ॥ २१ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That blazing trident (tac chūlaṃ dīpyamānam), having reduced the king along with his ministers, armies, and mounts to ashes (sa-bhṛtya-bala-vāhanaṃ bhasmī-kṛtvā nṛpam), returned once more to the hand of Lavaṇa (bhūyo lavaṇasyāgamat karam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -562,6 +684,12 @@ _________________
 
 ‘इस प्रकार सारी सेना और सवारियोंके साथ महाराज मान्धाता मारे गये । सौम्य! उस शूलकी शक्ति असीम और सबसे बढ़ी-चढ़ी है ॥ २२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus was that exceedingly great king slain together with his army and mounts (evaṃ sa rājā sumahān hataḥ sa-bala-vāhanaḥ); for the might of that trident, O gentle one, is immeasurable and unsurpassed (śūlasya tu balaṃ saumya aprameyam anuttamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -581,6 +709,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राजन्! कल सबेरे जबतक वह राक्षस उस अस्त्रको न ले, तबतक ही शीघ्रता करनेपर तुम निःसंदेह उसका वध कर सकोगे और इस प्रकार निश्चय ही तुम्हारी विजय होगी ॥ २३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet tomorrow at dawn, without a doubt, you shall slay Lavaṇa (śvaḥ prabhāte tu lavaṇaṃ vadhiṣyasi na saṃśayaḥ) swiftly while he has not taken up his weapon (agṛhītāyudhaṃ kṣipram)—for your victory is certain (dhruvo hi vijayas tava)!
 </details>
 </details>
 
@@ -605,6 +739,14 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तुम्हारे द्वारा यह कार्य सम्पन्न होनेपर समस्त लोकोंका कल्याण होगा । नरश्रेष्ठ! इस तरह मैंने तुम्हें दुरात्मा लवणका सारा बल बता दिया और उसके शूलकी भी घोर एवं असीम शक्तिका परिचय दे दिया । पृथ्वीनाथ! इन्द्रके प्रयत्नसे उसी शूलके द्वारा राजा मान्धाताका विनाश हुआ था ॥ २४-२५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** “And well-being shall come to all the worlds when this deed is accomplished by you (lokānāṃ svasti caiva syāt kṛte karmaṇi ca tvayā); all this has now been recounted to you concerning the wicked-souled Lavaṇa (etat te sarvam ākhyātaṃ lavaṇasya durātmanaḥ),
+
+**25:** “And the dreadful, immeasurable might of that trident, O bull among men (śūlasya ca balaṃ ghoram aprameyaṃ nararṣabha), as well as the destruction of Māndhātṛ that befell through it, O lord of the earth (vināśaś caiva māndhātur yat tenābhūc ca pārthiva).
 </details>
 </details>
 
@@ -640,6 +782,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि अरवत्तारनॆय सर्ग पूर्णवायितु. ॥66॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tomorrow at dawn, O great-souled one, you shall assuredly slay Lavaṇa—I have no doubt of this (tvaṃ śvaḥ prabhāte lavaṇaṃ mahātman vadhiṣyase nātra tu saṃśayo me)—when he has gone forth in search of meat without his trident (śūlaṃ vinā nirgatam āmiṣārthe); certain shall your victory be, O lord of men (dhruvo jayas te bhavitā narendra)!”
 </details>
 </details>
 

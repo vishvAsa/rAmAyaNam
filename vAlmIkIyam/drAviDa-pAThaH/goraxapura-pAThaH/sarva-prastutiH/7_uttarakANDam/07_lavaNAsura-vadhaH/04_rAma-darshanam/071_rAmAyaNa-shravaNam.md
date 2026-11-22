@@ -39,6 +39,12 @@ _________________
 
 लवणासुरनु हतनादाग इन्द्राग्नि मॊदलाद देवतॆगळु बन्दु शत्रुतापननाद शत्रुघ्ननल्लि सुमधरवागि हेळिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, in the twelfth year (tato dvādaśame varṣe), Śatrughna, attended by only a small retinue of servants and troops (alpa-bhṛtya-balānugaḥ), longed to go (cakame gantum) to Ayodhyā, protected by Rāma (rāma-pālitām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वत्स! लवणासुरन वधॆयागि निनगॆ विजय प्राप्तवादुदु सौभाग्यद मातागिदॆ. सुव्रतने! निनगॆ बेकाद वरवन्नु केळु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Turning back his chief ministers and foremost army commanders (mantri-purogāṃś ca bala-mukhyān nivartya ca), he set forth with choice steeds and a hundred chariots (haya-mukhyaiś ca rathānāṃ ca śatena).
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 महाबाहो! नावॆल्लरू वरगळन्नु कॊडलु इल्लिगॆ बन्दिरुवॆवु. नावु निन्न विजयवन्नु बयसुत्तेवॆ. नम्म दर्शन अमोघवागिदॆ. आद्दरिन्द नीनु यावुदादरू वर केळु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having traveled seven or eight reckoned night-halts (gaṇitān vāsān saptāṣṭau), that greatly illustrious delight of the Raghus arrived at Vālmīki’s hermitage (vālmīky-āśramam āgatya) and took up lodging there (vāsaṃ cakre).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +140,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवतॆगळ मातन्नु केळि विनयशीलनाद शूर महाबाहु शत्रुघ्ननु शिरदल्लि अञ्जलिबद्धनागि हीगॆ हेळिदनु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saluting the feet of Vālmīki (abhivādya ... pādau vālmīkeḥ), that bull among men then accepted foot-water, guest-offering, and hospitality (pādyam ardhyaṃ tathātithyam) from the sage’s own hand (muni-hastataḥ).
 </details>
 </details>
 
@@ -151,6 +175,12 @@ _________________
 
 देवतॆगळे! ई देवनिर्मित रमणीय मधुपुरियु शीघ्रवागि मनोहर राजधानियागि नॆलॆगॊळ्ळलि. इदे ननगागि कॊडुव श्रेष्ठवरवागिदॆ.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There that sage recounted thousands of varied, most honeyed tales (bahurūpāḥ sumadhurāḥ kathās tatra sahasraśaḥ) to the great-souled Śatrughna.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +208,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग देवतॆगळु प्रसन्नरागि रघुकुलनन्दन शत्रुघ्ननल्लि हेळिदरु - ‘हागॆये आगुवुदु’. ई रमणीय पुरियु निःसन्देह शूर-वीरर सैन्यदिन्द सम्पन्नवागुवुदु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the sage spoke words turning upon the slaying of Lavaṇa (lavaṇasya vadhāśritam): “A most difficult feat was accomplished by you (su-duṣkaraṃ kṛtaṃ karma) in slaying Lavaṇa (lavaṇaṃ nighnatā tvayā)!
 </details>
 </details>
 
@@ -207,6 +243,12 @@ _________________
 
 हीगॆ हेळि महात्मा देवतॆगळु स्वर्गक्कॆ तॆरळिदरु. महातेजस्वी शत्रुघ्ननू गङ्गातटदिन्द तन्न सैन्यवन्नु करॆसिकॊण्डनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Many mighty kings, O gentle one (bahavaḥ pārthivāḥ saumya), together with their armies and mounts (sa-bala-vāhanāḥ), were slain by Lavaṇa while fighting him, O mighty-armed prince.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,6 +276,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शत्रुघ्नन आदेश पडॆदु आ सैन्यवु शीघ्रवागि बन्दु बिट्टितु. शत्रुघ्ननु श्रावणमासदिन्द आ पुरियन्नु नॆलॆगॊळिसलु प्रारम्भिसिदनु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That wicked demon was slain by you as if in sport (nihataḥ pāpo līlayā), O bull among men, and thereby the terror of the world (jagataś ca bhayam) was stilled through your radiance (praśāntaṃ tava tejasā).
 </details>
 </details>
 
@@ -263,6 +311,12 @@ _________________
 
 अन्दिनिन्द हन्नॆरडनॆय वर्षदल्लि आ पुरियु मत्तु शूरसेन देशद निर्माण पूर्णगॊण्डितु. अल्लि यारिगू यारिन्दलू भयविरलिल्ल. आ देशवु दिव्य सुखसमृद्धियिन्द सम्पन्नवागित्तु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The dreadful slaying of Rāvaṇa (rāvaṇasya vadho ghoraḥ) was accomplished with mighty exertion (yatnena mahatā kṛtaḥ), whereas this exceedingly great deed (idaṃ tu su-mahat karma) was performed by you effortlessly (kṛtam ayatnataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,6 +344,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लिय हॊलगळु पैरिनिन्द तुम्बिहोदुवु. इन्द्रनु समयक्कॆ सरियागि मळॆगरॆयतॊडगिदनु. शत्रुघ्नन बाहुबलदिन्द सुरक्षित मधुपुरि निरोगि मत्तु वीररिन्द तुम्बि होगित्तु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Supreme joy arose among the gods (prītiś cāsmin parā jātā devānām) when this Lavaṇa was slain, and a boon dear to all creatures and to the whole world (bhūtānāṃ caiva sarveṣāṃ jagataś ca priyam) was wrought.
 </details>
 </details>
 
@@ -320,6 +380,12 @@ _________________
 
 आ पुरियु यमुनॆय तीरदल्लि अर्धचन्द्राकारवागि नॆलॆसित्तु. अनेक सुन्दर गृहगळिन्द, चौकगळिन्द, अङ्गडि बीदिगळिन्द सुशोभित वागित्तु. अदरल्लि नाल्कु वर्णद जनरु वासिसुत्तिद्दरु. नाना रीतिय वाणिज्य-व्यवसायगळु अदर शोभॆ हॆच्चिसिद्दवु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And that battle was witnessed by me exactly as it befell (tac ca yuddhaṃ mayā dṛṣṭaṃ yathāvat), O bull among men, as I sat in the assembly of Indra (sabhāyāṃ vāsavasyātha upaviṣṭena), O Rāghava!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -347,6 +413,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हिन्दॆ लवणा सुरनु निर्मिसिद विशाल गृहगळन्नु स्वच्छगॊळिसि नाना प्रकारद चित्रगळिन्द सुसज्जितगॊळिसि शत्रुघ्ननु अवुगळ शोभॆयन्नु हॆच्चिसिदनु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In my heart too, O Śatrughna, abides supreme delight (mamāpi paramā prītir hṛdi ... vartate); I shall kiss you upon the crown of your head (upāghrāsyāmi te mūrdhni), for this is the highest expression of affection (snehasyaiṣā parā gatiḥ)!”
 </details>
 </details>
 
@@ -376,6 +448,12 @@ _________________
 
 अनेक उद्यानवनगळिन्द, विहार स्थळगळिन्द ऎल्लॆडॆ आ पुरियन्नु सुशोभितगॊळिसिद्दवु. देवतॆगळिगॆ, मनुष्यरिगॆ सम्बन्धिसिद अनेकवाद चित्रकलॆगळिन्द नगरद शोभॆ हॆच्चित्तु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus and kissed Śatrughna upon the head (mūrdhni śatrughnam upāghrāya), the great sage extended hospitality (ātithyam akarot) to him and to those who followed in his train (ye ca tasya padānugāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,6 +481,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नाना प्रकारद क्रय-विक्रय योग्यवाद वस्तुगळिन्द सम्पन्नवाद आ दिव्यपुरियु अनेक देशगळिन्द बन्दिरुव वर्तकरिन्द शोभिसुत्तित्तु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dined (sa bhuktavān), that best of men heard at that hour (śuśrāva ... tasmin kāle) the deeds of Rāma (rāma-caritam), rendered in order (yathākṛmam) with exquisite sweetness of song (gīta-mādhuryam uttamam)—
 </details>
 </details>
 
@@ -434,6 +518,12 @@ _________________
 
 पूर्णवागि समृद्धशालियागिरुव अदन्नु नोडि सल मनोरथनाद भरतानुज शत्रुघ्ननु अत्यन्त सन्तोषगॊण्डु, हर्षवन्नु अनुभविसतॊडगिदनु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Harmonized with lute-strings and tempo (tantrī-laya-samāyuktam), endowed with the three registers of voice-production (tri-sthāna-karaṇānvitam), refined in Sanskrit (saṃskṛtam), graced with every canonical mark (lakṣaṇopetam), and accompanied by even rhythmic measure (sama-tāla-samanvitam)—he heard the life of Rāma, composed of old (purā kṛtam), performed at that hour.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -461,6 +551,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मधुपुरियल्लि नॆलॆसलु अयोध्यॆयिन्द बन्दु हन्नॆरडु वर्षवायितु. ईग नानु अल्लिगॆ होगि श्रीरामन चरणारविन्दगळन्नु दर्शिसबेकॆन्दु मनस्सिनल्लि योचिसिदनु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those truthful syllables (tāny akṣarāṇi satyāni), narrating events just as they had befallen in former times (yathāvṛttāni pūrvaśaḥ), that tiger among men grew dazed (visañjñaḥ), his eyes brimming with tears (bāṣpa-locanaḥ).
 </details>
 </details>
 
@@ -492,6 +588,12 @@ _________________
 
 हीगॆ नाना रीतिय मनुष्यरिन्द तुम्बिद, देव पुरियन्तॆ मनोहर मधुरपुरियन्नु नॆलॆगॊळिसि रघुकुलवंशवर्धन राजा शत्रुघ्ननु श्रीरघुनाथन चरणगळन्नु दर्शिसलु विचार माडिद.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As if bereft of consciousness for a moment (muhūrtam ivāsañjñaḥ), sighing again and again (viniḥśvasya muhur muhuḥ), he listened to the past events in that song (tasmin gīte yathāvṛttam) as though they were unfolding in the present (vartamānam ivāśṛṇot).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -511,6 +613,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 राजा शत्रुघ्नके जो साथी थे, वे भी उस गीत-सम्पत्तिको सुनकर दीन और नतमस्तक हो बोले—‘यह तो बड़े आश्चर्यकी बात है’ ॥ १८ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the king’s attendants (padānugāś ca ye rājñaḥ), hearing that richness of song (tāṃ śrutvā gīti-sampadam), stood with downcast faces and humbled hearts (avāṅmukhāś ca dīnāś ca), exclaiming, “What a marvel (āścaryam iti cābruvan)!”
 </details>
 </details>
 
@@ -534,6 +642,14 @@ _________________
 
 शत्रुघ्नके जो सैनिक वहाँ मौजूद थे, वे परस्पर कहने लगे—‘यह क्या बात है? हमलोग कहाँ हैं? यह कोई स्वप्न तो नहीं देख रहे हैं । जिन बातोंको हम पहले देख चुके हैं, उन्हींको इस आश्रमपर ज्यों-की-त्यों सुन रहे हैं ॥ १९-२० ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** And the soldiers who were there (ye tatra sainikāḥ) spoke among themselves (parasparaṃ ... sambabhāṣire): “What is this (kim idam)? Where are we (kva ca vartāmaḥ)? Is this the vision of a dream (kim etat svapna-darśanam)?
+
+**20:** “The very history we witnessed of old (artho yo naḥ purā dṛṣṭaḥ), we hear again in a hermitage precinct (tam āśrama-pade punaḥ śṛṇumaḥ)! What is this? Could this be a dream—a song-composition of splendor (svapno gīta-bandhaṃ śriyo bhavet)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -553,6 +669,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘क्या इस उत्तम गीतबन्धको हमलोग स्वप्नमें सुन रहे हैं?’ फिर अत्यन्त विस्मयमें पड़कर वे शत्रुघ्नसे बोले— ॥ २१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck with utmost amazement (vismayaṃ te paraṃ gatvā), they said to Śatrughna: “Pray ask Vālmīki, foremost of sages (sādhu pṛccha ... vālmīkiṃ muni-puṅgavam), O best of men!”
 </details>
 </details>
 
@@ -577,6 +699,14 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘नरश्रेष्ठ! आप इस विषयमें मुनिवर वाल्मीकिजीसे भलीभाँति पूछें ।’ शत्रुघ्नने कौतूहलमें भरे हुए उन सब सैनिकोंसे कहा—‘मुनिके इस आश्रममें ऐसी अनेक आश्चर्यजनक घटनाएँ होती रहती हैं । उनके विषयमें उनसे कुछ पूछताछ करना हमारे लिये उचित नहीं है ॥ २२-२३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** But Śatrughna spoke to all of them, filled as they were with curiosity (sarvān kautūhala-samanvitān): “Soldiers, it is not fitting for us to interrogate a matter such as this here (na kṣamo ’smākaṃ paripraṣṭum ihedṛśaḥ)!
+
+**23:** “Many marvels occur here in this sage’s hermitage (āścaryāṇi bahūnīha bhavanty asyāśrame muneḥ); it is not proper to probe that great sage out of curiosity (na tu kautūhalād yuktam anveṣṭuṃ taṃ mahāmunim).”
 </details>
 </details>
 
@@ -610,6 +740,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऎप्पत्तनॆय सर्ग पूर्णवायितु. ॥70॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken these words to the soldiers (evaṃ tad vākyam uktvā ca sainikān), the delight of the Raghus bowed to that great seer (abhivādya maharṣiṃ tam) and went then to his own quarters (svaṃ niveśaṃ yayau tadā).
 </details>
 </details>
 

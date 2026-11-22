@@ -76,6 +76,14 @@ That Hanuma, best among monkeys, the intellectual son of Vayu, one with great mi
 moutain called Lamba with its high peaks equalling a high cloud, gathered courage and entered at night the city
 of Lanka ruled by Ravana and filled with beautiful forests and places of water such as lakes.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Upon the lofty peak of Lamba (lambaśikhare lambe), which resembled a pendant rain-cloud (lambatoyadasaṃnibhe), wise Hanumān, son of the Wind-god, resorted to his inner strength (sattvam āsthāya)—
+
+**2:** and by night that elephant among monkeys (kapikuñjaraḥ) of mighty spirit (mahāsattvaḥ) entered Laṅkā, the city ruled by Rāvaṇa and rich in lovely groves and waters (ramyakānanatoyāḍhyām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -100,6 +108,12 @@ of Lanka ruled by Ravana and filled with beautiful forests and places of water s
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ लङ्कानगरवु शरत्कालद मेघगळन्तॆ श्वेतभवनगळिन्द शोभायमानवागित्तु. समुद्र घोषवन्नु मीरि राक्षसर भयङ्कर ध्वनिगळिन्द तुम्बि होगित्तु. समुद्रद मेलिनिन्द बीसुवन्तह गाळियु ऎल्लॆडॆ बीसुतित्तु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+graced with mansions resembling autumnal clouds (śāradāmbudharaprakhyaiḥ), echoing with a roar like the ocean (sāgaropamanirghoṣām), and fanned by the ocean breeze (sāgarānilasevitām);
 </details>
 </details>
 
@@ -149,6 +163,12 @@ The city of Lanka was shone by buildings equalling autumnal clouds. With a sound
 of an ocean, it was served by ocean breeze. It was filled with well fed and mighty armies like Vitapati, the capital
 of Kubera. It had elephants positioned at archways and had white gates and archways.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+well-nourished with thriving forces (supuṣṭabalasampuṣṭām) just like Viṭapāvatī [Alakā], with lovely archways and turret-projections (cārutoraṇaniryūhām), and whitewashed gates and outer arches (pāṇḍuradvāratoraṇām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,6 +195,12 @@ of Kubera. It had elephants positioned at archways and had white gates and archw
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सर्पगळ सञ्चारवुळ्ळ हागू सर्पगळ पट्टणवाद भोगवति (पाताळ)यन्तॆये लङ्कापट्टणवु राक्षसरिन्द रक्षितवागित्तु. अदु इन्द्रन अमरावतियन्तॆ, मिञ्चिनिन्द कूडिद मेघगळिन्द व्याप्तवाद नक्षत्र मण्डलदन्तॆ शोभिसुतित्तु. अल्लि तङ्गाळियु बीसुतिद्दु, सकल वैभवदिन्द विराजमानवागित्तु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like the auspicious, well-guarded Bhogavatī frequented by serpents (bhujagācaritām), overspread with lightning-lit clouds (savidyudghanākīrṇām) and attended by hosts of luminaries (jyotirgaṇaniṣevitām);
 </details>
 </details>
 
@@ -203,6 +229,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ लङ्कापुरियु ऎत्तरवाद सुवर्णमय प्राकारगळिन्द सुत्तुवरियल्पट्टित्तु. शब्द माडुत्तिद्द किरु गण्टॆगळिन्द कूडिद्द पताकॆगळिन्द समलङ्कृतवागित्तु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and like Amarāvatī resounding with fierce winds (caṇḍamārutanirhrādām), encircled on all sides by a great rampart of burnished gold (śātakumbhena mahatā prākāreṇa).
 </details>
 </details>
 
@@ -251,6 +283,12 @@ city of Bhogavati being protected by serpents moving about, spread with cloud il
 served by pathways of stars, witha light breeze like the Indra's city of Amaravati, surrounded by a wall with
 a golden hue, decorated by flags with sounds from groups of small bells. He became happy and leapt up the wall.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching [that city] adorned with pennants resounding with networks of little bells (kiṅkiṇījālaghoṣābhiḥ), he joyfully (hṛṣṭaḥ) and swiftly mounted the rampart (prākāram abhipedivān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -286,6 +324,16 @@ _________________
 
 लङ्कानगरिय सौधगळ बागिलुगळॆल्लवू सुवर्णमयवागिद्दुवु. वैडूर्यदिन्दले निर्मितवाद जगुलिगळिद्दवु. वज्रगळिन्दलू, स्फटिकगळिन्दलू, मुत्तुगळिन्दलू, मणिगळिन्दलू कूडिद नॆलगळिन्द समलङ्कृतवागिद्दुवु. सौधगळु पुटविट्ट भङ्गारदिन्द निर्मितवाद गोपुरगळिन्द कूडिद्दु, हॊरभागवु परिशुद्धवाद बॆळ्ळियन्तॆ बिळुपागिद्दवु. वैडूर्यदिन्दले निर्मितवाद सोपानगळिन्द (महडि मॆट्टलु) कूडिद्दवु. स्फटिकमयवाद ऒळ अङ्गणगळु धूळुरहितवागिद्दुवु. रमणीयवाद चतुःशालगळिन्द (सभाभवनगळु) परिशोभिसुत्तिद्दुवु. अवुगळु हॆच्चु ऎत्तरवागिद्दु अम्बरवन्नु चुम्बिसुत्तिरुवन्तॆ काणुत्तिद्दु शुभावहगळागिद्दवु.॥8-10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** With his heart filled with wonder (vismayāviṣṭahṛdayaḥ), he surveyed the city on all sides, [graced] with gates of jāmbūnada gold (jāmbūnadamayair dvāraiḥ) having platforms fashioned of cat's-eye gems (vaidūryakṛtavedikaiḥ);
+
+**9:** [with gates] adorned with jewel-paved floors (maṇikuṭṭimabhūṣitaiḥ) set with diamonds, crystal, and pearls (vajrasphaṭikamuktābhiḥ), and having projecting turrets of refined gold (taptahāṭakaniryūhaiḥ) and spotless white upper stories of silver (rājatāmalapāṇḍuraiḥ);
+
+**10:** with stairways fashioned of cat's-eye gems (vaidūryakṛtasopānaiḥ), crystal-paved inner courts free of dust (sphāṭikāntarapāṃsubhiḥ), and lovely quadrangles (cārusaṃjavanopetaiḥ)—auspicious [mansions] seeming to soar into the sky (kham ivotpatitaiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -308,6 +356,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वहाँ क्रौञ्च और मयूरोंके कलरव गूँजते रहते थे, उन द्वारोंपर राजहंस नामक पक्षी भी निवास करते थे । वहाँ भाँति-भाँतिके वाद्यों और आभूषणोंकी मधुर ध्वनि होती रहती थी, जिससे लंकापुरी सब ओरसे प्रतिध्वनित हो रही थी ॥ ११ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+resounding with curlews and peacocks (krauñcabarhiṇasaṃghuṣṭaiḥ), frequented by royal swans (rājahaṃsaniṣevitaiḥ), and echoing on all sides with the sound of musical instruments and ornaments (tūryābharaṇanirghoṣaiḥ).
 </details>
 </details>
 
@@ -367,6 +421,12 @@ lovely assembly halls, with sounds of Krauncha birds and peacocks, served by roy
 toward the sky, with auspicious houses resounding everywhere with the sounds of clarionets and ornaments, equalling
 the city of Vasvaukasaara, as though flying towards the sky.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that city resembling Vasvokasārā (vasvokasārapratimām)—Laṅkā, seeming to leap up into the sky (kham ivotpatitām)—Hanumān the monkey rejoiced (jaharṣa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -413,6 +473,12 @@ the city of Vasvaukasaara, as though flying towards the sky.
 
 Seeing that city of Ravana, which was best among cities, a wealthy city, a beautiful and auspicious
 city, that powerful Hanuma thought thus.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that auspicious, peerless (anuttamām), and opulent (ṛddhimatīm) city of Laṅkā belonging to the lord of rākṣasas, the valorous one reflected:
 </details>
 </details>
 
@@ -461,6 +527,12 @@ _________________
 
 "It is not possible for anyone else to oppose this city, by strength alone, which is being guarded
 by armies of Ravana with raised weapons."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This city, guarded by Rāvaṇa's forces with upraised weapons in their hands (udyatāyudhapāṇibhiḥ), cannot be overpowered by force (śakyā dharṣayituṃ balāt) by anyone else.
 </details>
 </details>
 
@@ -532,6 +604,14 @@ of Sun God - Sugreeva; *hareH* = the monkey; *kushaparvaNaH* = Kusaparvana; *kap
 There may be access to this land to the son of Sun God Sugreeva, to the monkey Kusaparvana, to
 the chief among monkeys Riksha and to me.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** To Kumuda and Aṅgada, however, and to the great monkey Suṣeṇa, as well as to Mainda and Dvivida, this ground would be accessible (prasiddheyaṃ bhaved bhūmiḥ);
+
+**16:** and there would be access (gatir bhavet) for the son of Vivasvat [Sugrīva], for the monkey Kuśaparvan, for the bear [Jāmbavat], foremost of monkeys, and for myself as well.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -576,6 +656,12 @@ the chief among monkeys Riksha and to me.
 **अनुवादः**
 
 Considering the long armed Sri Rama's strength and Lakshmana's valour, Hanuma became happy.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, reflecting upon the prowess (parākramam) of the mighty-armed Rāghava and the valor (vikrāntam) of Lakṣmaṇa, the monkey became joyful (abhavat prītimān).
 </details>
 </details>
 
@@ -638,6 +724,14 @@ That great monkey saw that city of king of rakshasas like a wealthy woman decora
 for her clothes, with various storage houses as earrings, with amouries for her breasts. Due to the lamps that
 illuminated the radiant great houses, all darkness was lost.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** [He beheld] that opulent city clad in a garment of jewels (ratnavasanopetām), having cow-pens and storehouses for her ear-ornaments (goṣṭhāgārāvataṃsikām), and artillery-arsenals for her breasts (yantrāgārastanīm), like a bedecked young woman (pramadām iva bhūṣitām)—
+
+**19:** That great monkey beheld the city of the lord of rākṣasas, its darkness dispelled by lamps (naṣṭatimirāṃ dīpaiḥ) and by radiant great planets [or mansions] (bhāsvaraiś ca mahāgrahaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -686,6 +780,12 @@ balam* = one with great strength; *pavanaatmajam* = Hanuma; *pravishantam* = ent
 Thereafter, the guardian of that city, in her own form, saw Hanuma, the best among monkeys and
 the mighty one, entering.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that city, in her own [embodied] form (svena rūpeṇa), beheld the great monkey, tiger among monkeys (hariśārdūlam), the son of the Wind-god, as he was entering.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -705,6 +805,12 @@ the mighty one, entering.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वानरश्रेष्ठ हनुमान् को देखते ही रावणपालित लंका स्वयं ही उठ खड़ी हुई । उसका मुँह देखनेमें बड़ा विकट था ॥ २१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that best of monkeys, Laṅkā, ruled by Rāvaṇa, rose up of her own accord (svayam evotthitā) there, dreadful in face and aspect (vikṛtānanadarśanā).
 </details>
 </details>
 
@@ -769,6 +875,12 @@ Hanuma; *kapivarasya* = the best among Vanaras; *munchamaanaa* = leaving; *mahaa
 She stood in front of the best among Vanaras Hanuma. She made a great sound and spoke to Hanuma
 thus.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing before (purastāt) that heroic son of the Wind-god, she uttered a mighty roar (muñcamānā mahānādam) and spoke to the son of the Wind-god:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -809,6 +921,12 @@ long as (you) sustained; *te praaNaaH* = your lives; (before that); *kathayasva*
 "O one who lives in gardens! Who are you? For what reason did you come here? As long as your lives
 are sustained, tell me the truth here before that."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who are you, O forest-dweller (vanālaya), and on what business (kena ca kāryeṇa) have you come here? Declare the truth (tattvam) here while your vital breaths still sustain you (yāvat prāṇā dharanti te)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -828,6 +946,12 @@ are sustained, tell me the truth here before that."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वानर! रावणकी सेना सब ओरसे इस पुरीकी रक्षा करती है, अतः निश्चय ही तू इस लंकामें प्रवेश नहीं कर सकता’ ॥ २४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely this Laṅkā cannot be entered (na śakyaṃ praveṣṭum) by you, O monkey, guarded as she is by Rāvaṇa's forces and protected on every side (abhiguptā samantataḥ).”
 </details>
 </details>
 
@@ -913,6 +1037,14 @@ one; *ruddhvaa* = stopping; *maam* = me; *kimartham* = for what reason; *nirbhat
 "You are standing at the entrance to the city. O one with ugly eyes! Who are you? O horrible one!
 Stopping me, for what reason are you threatening me?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** Then the heroic Hanumān spoke to her as she stood before him (agrataḥ sthitām): “I shall tell you that truth (tat tattvam) concerning which you question me (paripṛcchase).
+
+**26:** Who are you with deformed eyes (virūpanayanā) that stand at the city gate (puradvāre 'vatiṣṭhase)? And wherefore, O fierce one (dāruṇe), do you revile me in wrath (krodhān nirbhartsayasi)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -956,6 +1088,12 @@ laN^kaa* = that Lanka; *kaamaruupiNii* = with ability to change form according t
 Listening to Hanuma's words, that Lanka, with ability to achieve desired form, became angry and
 spoke these strong words to Hanuma.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Hanumān's words, that shape-shifting (kāmarūpiṇī) Laṅkā, filled with wrath, spoke harsh words (vacanaṃ paruṣam) to the son of the Wind-god:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -995,6 +1133,12 @@ one.
 
 "I protect this city, being invincible. I wait for the orders of the king of demons Ravana, the
 great one."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Awaiting the command (ājñāpratīkṣā) of the high-souled Rāvaṇa, king of the rākṣasas, I, unassailable (durdharṣā), guard this city.
 </details>
 </details>
 
@@ -1039,6 +1183,12 @@ possible; *tvayaa* = by you; *praveshhTum* = to enter; *nagarii* = the city; *ad
 "After humilliating me it is not possible for you to enter the city. Being beaten by me, you will
 leave life and have a permanent sleep."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disregarding me (mām avajñāya), it is impossible to enter this city; today, bereft of your vital breaths (prāṇaiḥ parityaktaḥ) and slain by me, you shall lie asleep (svapsyase) [in death]!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1080,6 +1230,12 @@ laNkaa nagarii* = the city of Lanka; *sarvataH* = in all directions; *etat* = th
 
 "O Vanara! I am protecting this city of Lanka in all directions. This matter has been already told
 to you by me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For I myself (svayam eva), O leaper (plavaṅgama), am the city of Laṅkā; I guard it on every side (sarvataḥ parirakṣāmi), and therefore have I told you this.”
 </details>
 </details>
 
@@ -1129,6 +1285,12 @@ up; *aparaH shailaH iva* = like a second mountain; *yatnavaan* = with a purpose.
 
 The son of Vayu and best among Vanaras heard Lanka's words and stood up like a second mountain,
 with a purpose.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Laṅkā, Hanumān, son of the Wind-god and foremost of monkeys, stood firm and alert (yatnavān) like a second mountain (śaila ivāparaḥ).
 </details>
 </details>
 
@@ -1180,6 +1342,12 @@ puNgavaH* = best among Vanaras; *dR^ishhTvaa* = saw; *aam* = that Lanka; *strii 
 Thereafter that Hanuma the wise one, with great strength, best among those who can fly and best
 among Vanaras, saw that city of Lanka in the form of an ugly woman and spoke thus.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding her deformed in female shape (strīrūpavikṛtām), that wise and resolute (sattvavān) bull among monkeys and chief of leapers then spoke:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1220,6 +1388,12 @@ lot of curiosity; *me* = to me.
 "I should like to see the city of Lanka with its palaces, defensive walls and archways. I came
 here for that reason. I am very curious to see them."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I shall behold the city of Laṅkā with its watchtowers, ramparts, and archways (sāṭṭaprākāratoraṇām)’—for this purpose (ity artham) have I come here; for great is my curiosity (paraṃ kautūhalaṃ hi me).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1258,6 +1432,12 @@ see; *laN^kaayaaH* = Lanka's; *vanaani* = gardens; *upavanaani* = parks; *kaanan
 
 "My arrival here is indeed to see Lanka's gardens, parks, forests and important houses all over."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+My coming here (āgamanaṃ hi me) is simply to behold the planted woods (vanāni), pleasure-groves (upavanāni), natural forests (kānanāni), and chief mansions (gṛhamukhyāni) of Laṅkā on every side.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1277,6 +1457,12 @@ see; *laN^kaayaaH* = Lanka's; *vanaani* = gardens; *upavanaani* = parks; *kaanan
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 हनुमान् जी का यह कथन सुनकर इच्छानुसार रूप धारण करनेवाली लंका पुनः कठोर वाणीमें बोली— ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his, that shape-shifting (kāmarūpiṇī) Laṅkā once again (bhūya eva punaḥ) spoke a speech of harsh syllables (paruṣākṣaram):
 </details>
 </details>
 
@@ -1342,6 +1528,12 @@ defeating me.
 "O lowly Vanara with an evil mind! It is not possile for you to see this city ruled by king of
 rakshasas, without first defeating me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without vanquishing me (mām anirjitya), who am protected by the lord of rākṣasas, O evil-minded, vilest of monkeys (vānarādhama), this city cannot be seen (na śakyaṃ draṣṭum) by you today!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1388,6 +1580,12 @@ yataagatam* = as I came.
 Then that tiger among Vanaras Hanuma spoke to that demon : "O auspicious one! After seeing this
 city I will return back again to where I came from."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that tiger among monkeys (hariśārdūlaḥ) spoke to that night-roaming female (niśācarīm): “Having merely viewed this city, O auspicious lady (bhadre), I shall return just as I came (punar yāsye yathāgatam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1429,6 +1627,12 @@ vaanarashreshhTham* = the best among Vanaras; *talena* = with the palm; *vegitaa
 
 Thereafter that Lanka made a great sound causing terror and hit Hanuma, the best among Vanaras,
 with her palm quickly.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Laṅkā, uttering a mighty and terrifying roar (mahānādaṃ bhayaṃkaram), impetuously (vegitā) struck that foremost of monkeys with the palm of her hand (talena).
 </details>
 </details>
 
@@ -1477,6 +1681,12 @@ _________________
 
 Then that tiger among Vanaras, the powerful son of Vayu, being hit powerfully by Lanka made a great
 sound.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that valorous son of the Wind-god, tiger among monkeys, struck hard by Laṅkā (laṅkayā tāḍito bhṛśam), roared a tremendous roar (nanāda sumahānādam).
 </details>
 </details>
 
@@ -1529,6 +1739,12 @@ cha iti* = she is a woman (thus); *manyamaanena* = thinking; *ati krodhaH* = gre
 Thereafter that Hanuma became dizzy with anger and folded his fingers of left hand. He then hit
 her with His fist. "She is a woman" - thinking thus He did not show much anger by Himself.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Hanumān, incensed with wrath (krodhamūrcchitaḥ), folded the fingers of his left hand (saṃvartayām āsa vāmahastasya so 'ṅgulīḥ) and struck her down with his fist (muṣṭinābhijaghānainām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1556,6 +1772,12 @@ her with His fist. "She is a woman" - thinking thus He did not show much anger b
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उसे स्त्री समझकर हनुमान् जी ने स्वयं ही अधिक क्रोध नहीं किया । किंतु उस लघु प्रहारसे ही उस निशाचरीके सारे अंग व्याकुल हो गये । वह सहसा पृथ्वीपर गिर पड़ी । उस समय उसका मुख बड़ा विकराल दिखायी देता था ॥ ४१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Considering, “She is a woman (strī ceti),” no excessive wrath (nātikrodhaḥ) was exerted by him; yet by that single blow (tena prahāreṇa) that night-stalker, her limbs reeling (vihvalāṅgī) and her face and aspect contorted, fell suddenly to the ground (papāta sahasā bhūmau).
 </details>
 </details>
 
@@ -1602,6 +1824,12 @@ glorious one; *hanumaan* = Hanuma; *dR^ishhTvaa* = saw; *taam* = her; *vinipaati
 Thereafter the intellectual and glorious Hanuma saw her fallen down and thinking her to be woman,
 showed kindness.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the heroic and radiant Hanumān, beholding her struck down (vinipātitām), felt compassion (kṛpāṃ cakāra), considering her to be a woman (manyamānaḥ striyaṃ ca tām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1647,6 +1875,12 @@ _________________
 Thereafter that Lanka being very gloomy spoke with a falterting tone without pride these words
 to Hanuma the Vanara.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that Laṅkā, sorely terrified (bhṛśam udvignā), spoke an unboastful speech (agarvitaṃ vākyam) in faltering syllables (gadgadākṣaram) to the leaper Hanumān:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1689,6 +1923,12 @@ to Hanuma the Vanara.
 "O long armed one! O best among Vanaras! Get propitiated and protect me. O gentle one! Those with
 great strength and courage always stand firm on tradition."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Be gracious (prasīda), O mighty-armed one! Spare me (trāyasva), O best of monkeys! Gentle sir (saumya), the resolute of mighty strength abide by the code of righteous conduct (samaye tiṣṭhanti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1722,6 +1962,12 @@ itself; *svayameva* = myself; *mahaa bala* = O strong one! viia = O courageous o
 
 "O Vanara! I am myself the city of Lanka. O strong one! O courageous one! I am defeated by your
 strength."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I myself, O leaper, am the city of Laṅkā; I have been vanquished (nirjitāham) by you through your valor (vikrameṇa), O hero of mighty strength!
 </details>
 </details>
 
@@ -1787,6 +2033,12 @@ body; *vikR^itaanana darshanaa* = and became with a horrific face in appearance.
 That demon fell on land immediately by that hit with a distressed body and appeared with a horrific
 face.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And hear this truth (idaṃ ca tathyaṃ śṛṇu) from me as I speak, O lord of monkeys—how a boon (varadānam) was granted to me in person by the Self-born Brahmā (svayaṃ svayambhuvā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1813,6 +2065,12 @@ face.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उन्होंने कहा था—‘जब कोई वानर तुझे अपने पराक्रमसे वशमें कर ले, तब तुझे यह समझ लेना चाहिये कि अब राक्षसोंपर बड़ा भारी भय आ पहुँचा है ॥ ४७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Whenever a certain monkey (vānaraḥ kaścit) shall bring you under his sway by valor (vikramād vaśam ānayet), then you must know for certain (tvayā hi vijñeyam) that terror has arrived for the rākṣasas (rakṣasāṃ bhayam āgatam).’
 </details>
 </details>
 
@@ -1878,6 +2136,12 @@ by you.
 "Let this be known by you - whenever a Vanara conquers you with his might, then a fear will come
 for Rakshasas."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That appointed time of mine (sa hi me samayaḥ), gentle sir, has arrived today through my beholding of you (tava darśanāt); ordained by the Self-born Brahmā (svayambhūvihitaḥ), it is true, and there is no transgression (vyatikramaḥ) of it.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1906,6 +2170,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अब सीताके कारण दुरात्मा राजा रावण तथा समस्त राक्षसोंके विनाशका समय आ पहुँचा है ॥ ४९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On account of Sītā (sītānimittam), the destruction (vināśaḥ) of the wicked-souled King Rāvaṇa and of all the rākṣasas has drawn nigh (samupāgataḥ).
 </details>
 </details>
 
@@ -1966,6 +2236,12 @@ of Ravana; *durraatmanaH* = the evil minded; *raaJNAH* = king; *sarveshhaam raks
 **अनुवादः**
 
 "The destruction has come for Ravana the evil minded king and to all Rakshasas due to Seetha."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, O best of monkeys, enter the city ruled by Rāvaṇa and accomplish all the tasks (vidhatsva sarvakāryāṇi) that you desire here.
 </details>
 </details>
 
@@ -2031,6 +2307,12 @@ Rakshasas, roam everywhere and search for the chaste wife Seetha according to yo
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षि वाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डएदल्लि मूरने सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering at will (yadṛcchayā), O lord of monkeys, this auspicious, curse-smitten (śāpopahatām) city ruled by the chief of rākṣasas, go everywhere at your ease (sarvatra gato yathāsukham) and search thoroughly (vimārga) for the chaste daughter of Janaka (janakātmajāṃ satīm)!”
 </details>
 </details>
 

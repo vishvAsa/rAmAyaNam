@@ -69,6 +69,12 @@ down, tree, as with; *sahasaa papaata* = suddenly, fell down.
 When Rama's arrow hit him then Vali, the scourger in war, suddenly fell down like a hewed down tree.
 [4-17-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, struck (abhihataḥ) by Rāma with his arrow, Vālī, unyielding in battle (raṇakarkaśaḥ), fell down suddenly (papāta sahasā) like a felled tree (nikṛtta iva pādapaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +120,12 @@ kept [sank,] all, body-parts; *a patat* = fell down.
 
 He who glittered with pure golden ornaments, that Vali fell down on earth while all of his limbs sank
 to dust, like the flag of Indra when released from its ropes. [4-17-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With all his limbs stretched upon the earth (bhūmau nyastasarvāṅgaḥ) and adorned with ornaments of refined gold (taptakāñcanabhūṣaṇaḥ), he fell like the banner of the king of the gods when its ropes are loosed (muktaraśmir iva dhvajaḥ).
 </details>
 </details>
 
@@ -163,6 +175,12 @@ nipatite* = on his, on earth, when fell; *medinii* = earth; *naSTa candram vyoma
 On the fall of that lord of hosts of monkeys and bears onto earth, unilluminated is the earth like the
 welkin that has forsooth lost its moon. [4-17-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that lord of the hosts of monkeys and bears (haryṛkṣāṇāṃ gaṇeśvare) had fallen upon the ground, the earth (medinī) shone no more, like the sky when its moon has vanished (naṣṭacandram iva vyoma).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -208,6 +226,12 @@ great-soul one, his, from body; *shriiH na jahaati* = brilliance, not, leaving -
 
 Though that great souled Vali fell onto earth, neither his brilliance, nor lives, nor resplendence,
 nor his bravery are unfettering from his body. [4-17-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even though he had fallen to the ground, neither majesty (śrīḥ), nor vital breaths (prāṇāḥ), nor fiery energy (tejaḥ), nor valor (parākramaḥ) forsook the body of that great-souled one.
 </details>
 </details>
 
@@ -258,6 +282,12 @@ chief's; *praaNaan tejaH shriyam ca* = lives, resplendence, brilliance, also; *d
 That superb and gem-studded golden pendent given by Indra sustained that monkey chief's lives, resplendence
 and brilliance. [4-17-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That excellent golden garland (varā mālā kāñcanī), studded with gems and bestowed by Śakra (śakradattā), sustained the vital breaths, fiery energy, and majesty of the chief of monkeys.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +337,12 @@ traced with - smeared with; *pari antaH* = all, around edges; *payaH dhara iva a
 By still wearing that golden chest-pendant around his neck, that brave general of monkeys Vali appeared
 like a black-cloud smeared with the colour of golden sunset all around its edges. [4-17-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With that golden garland (tayā mālayā ... haimayā), the heroic troop-leader of the monkeys became like a thundercloud (payodhara iva) whose borders are tinged with the glow of twilight (saṃdhyānugataparyantaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -354,6 +390,12 @@ Even though Vali has fallen on ground his splendour is as though refulgent devis
 aspects, namely by his body, chest-pendant, and the arrow of Rama, which arrow is given to strike the
 crucial body parts alone, and which is still stuck in Vali's chest. [4-17-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His garland, his body, and the arrow that pierced his vital organs (marmaghātī ca yaḥ śaraḥ)—even as he lay fallen, his splendor (lakṣmīḥ) shone as though fashioned threefold (tridheva racitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -399,6 +441,12 @@ forth.
 
 That arrow which effectuates the pathway to heaven, now discharged from the bow of Rama has brought
 forth that redemption to brave Vali . [4-17-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That missile (tad astram), opening the path to heaven (svargamārgaprabhāvanam) for that hero and sped from Rāma's bow (rāmabāṇāsanakṣiptam), brought him to the supreme state (paramāṃ gatim).
 </details>
 </details>
 
@@ -492,6 +540,16 @@ is heaven, here there is no you-ness and I-ness...' but in vain. Later unable to
 self-eulogy Indra pushes him back to mortal worlds. Vali is in the same predicament as he took pride
 in his own brawny strength but now battered by still mightier person.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** [Beholding] him fallen thus in battle like a fire whose flames have died out (gatārciṣam ivānalam), like Yayāti fallen here from the world of the gods upon the exhaustion of his merit (puṇyānte),
+
+**10:** Like the sun cast down upon the earth by Time at the end of a world-age (yugānte), unassailable (durdharṣam) like Mahendra, irresistible (duḥsaham) like Upendra,
+
+**11:** That fallen son of Mahendra, Vālī, wearing the golden garland (hemamālinam), broad-chested (vyūḍhoraskam), mighty-armed, of blazing countenance (dīptāsyam) and tawny-eyed (harilocanam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -550,6 +608,14 @@ On seeing the brave Vali fallen like that, who by now is like fire with extingui
 and who is seeing droopily, those two valiant brothers, Rama and Lakshmana, neared him with due honour.
 [4-17-12b, 13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** Rāma, attended by Lakṣmaṇa (lakṣmaṇānucaraḥ), beheld and approached (upasasarpa ca) that hero fallen thus, like a fire whose flames have died out.
+
+**13:** Honoring (bahumānya ca) that hero who was gazing faintly as it were (vīkṣamāṇaṃ śanair iva), the two brothers of great valor, Rāma and Lakṣmaṇa, drew near (upayātau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -574,6 +640,12 @@ and who is seeing droopily, those two valiant brothers, Rama and Lakshmana, near
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ श्रीराम मत्तु महाबलि लक्ष्मण नन्नु नोडि वालियु धर्म मत्तु विनयदिन्द कूडिद कठोरवाणियिन्द नुडिदनु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing that Rāghava and Lakṣmaṇa of great strength, Vālī spoke a harsh speech (paruṣaṃ vākyam) that was yet respectful (praśritam) and conformable to dharma (dharmasaṃhitam):
 </details>
 </details>
 
@@ -620,6 +692,12 @@ On seeing Rama and the great mighty Lakshmana as well, he who fell to ground fla
 whose energy and lives are trifling and vigour trivialised thereby, that Vali spoke these sarcastic
 words in his proper pride to Rama, who is taking pride in this conflict as a victor, which words at
 the same time have meaning, politeness, and self-righteousness. [4-17-14, 15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck down upon the earth, with his fiery energy and life-breaths ebbing (alpatejo'suḥ) and his consciousness fading (naṣṭacetanaḥ), [he spoke] with a voice full of meaning (arthasaṃhitayā vācā) a proud speech to [Rāma], proud in battle (raṇagarvitam):
 </details>
 </details>
 
@@ -703,6 +781,12 @@ For the last compound *tvat kR^ite nidhanam gataH* other mms use *shareNa urasi 
 'with arrow, on chest, struck...' establishing that Rama did not backstab Vali, but hit on chest as
 said at 4-16-35: *vaali vakSasi paatitaH*.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are the renowned (prathitaḥ) and fair-visaged (priyadarśanaḥ) son of the lord of men; having slain one whose face was turned away (parāṅmukhavadhaṃ kṛtvā), what merit (ko ... guṇaḥ) has been gained by you here, in that I, furiously engaged in battle [with another], have met my death on your account?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -768,6 +852,14 @@ Explicitly it is Vali's harsh accusation of Rama, but implicitly it is a praise 
 his arrow accords heavens to Vali. This is the same with the following two verses. *vyaaja ninda*
 innuendo of praise.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** “ `Rāma is high-born (kulīnaḥ), endowed with noble character (sattvasampannaḥ), radiant (tejasvī), observant of vows (caritavrataḥ), sensitive to compassion (karuṇavedī), and devoted to the welfare of creatures;
+
+**18:** “ `Tender-hearted (sānukrośaḥ), of great energy (mahotsāhaḥ), knowing proper conduct (samayajñaḥ), and firm in his vows (dṛḍhavrataḥ)'—thus do all beings upon earth recount this renown [of yours].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -818,6 +910,12 @@ punishing of, also; *parthivaanaam guNaa* = for kings, aptitudes.
 and adventurousness, oh, king, are the aptitudes of a king, and even punishing the wrongdoers, too.
 [4-17-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Self-restraint (damaḥ), tranquility of mind (śamaḥ), forbearance (kṣamā), righteousness (dharmaḥ), fortitude (dhṛtiḥ), truth (satyam), valor (parākramaḥ), and punishment of wrongdoers (daṇḍaś cāpy apakāriṣu) are the virtues of kings, O king.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -863,6 +961,12 @@ even though; *sugriiveNa samaagataH* = with Sugreeva, confronted.
 
 "Concluding that those kingly characteristics will be obtainable in you, and even judging by the noble
 dynasty of yours, I have confronted Sugreeva though Tara dissuaded me. [4-17-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Reflecting (sampradhārya) upon those virtues and upon your exalted lineage (agryaṃ cābhijanam), though forbidden by Tārā (tārayā pratiṣiddhaḥ san), I came forth to meet Sugrīva.
 </details>
 </details>
 
@@ -913,6 +1017,12 @@ thus, my, concept, came up, became.
 "When you have not appeared before me when I confronted Sugreeva my concept was, 'it will be inapt of
 Rama to hurt me while I am combating with another combatant, besides, when I will be unvigilant in that
 fight...' [4-17-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“ `You ought not to pierce me (na māṃ ... veddhum arhasi) when I am furiously locked in combat with another and heedless [of you] (pramattam)'—such was the conviction that arose in me while you remained unseen (adarśane tava).
 </details>
 </details>
 
@@ -972,6 +1082,12 @@ saying in Bhagavad Gita, *kam ghaatayati hanti kam?* 'who can stab the soul, who
 Here Vali has said that 'nobody knows, including me... that you are flag-bearer of virtue above individual
 souls, sins...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“[Now] I know you to be one whose soul is ruined (vinihatātmānam), a banner-hypocrite of dharma (dharmadhvajam), unrighteous, of sinful conduct (pāpasamācāram), like a well covered over with grass (tṛṇaiḥ kūpam ivāvṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1026,6 +1142,12 @@ is no 'garb of dharma...' to you, for you are dharma itself. Thus Vali said to h
 in Rama, as said at *apahata paapmatvaadi guNa vishiSTa* 'Supreme Person is one who is above
 the words like sins, merits' etc.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I did not recognize (nāhaṃ tvām abhijānāmi) you as a sinner wearing the garb of the virtuous (satāṃ veṣadharam), concealed under the guise of dharma (dharmacchadmābhisaṃvṛtam), like fire hidden [under ashes] (pracchannam iva pāvakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1053,6 +1175,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु निन्न राज्यदल्लि, नगरदल्लि यावुदे उपद्रव माडदिद्दाग, निन्नन्नु तिरस्करिसदिद्दागलू नीनु निरपराधियाद नन्नन्नु एकॆ कॊन्दॆ.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since I commit no sin in your realm (viṣaye) or in your city, nor do I slight you (na ca tvām avajāne 'ham), wherefore do you slay [me] who am sinless (akilbiṣam)?
 </details>
 </details>
 
@@ -1105,6 +1233,12 @@ was involved with another? [4-17-24, 25]
 me because there is some guilt in my deeds, of which I am well aware, but waited for you to come...'
 This is the subtext of Vali's retrospection.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“[Why do you slay] me (mām), a forest-ranging monkey (vānaraṃ vanagocaram) always subsisting on fruits and roots (phalamūlāśanam nityam), not fighting against you here (ihāpratiyudhyantam), and engaged in combat with another?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1152,6 +1286,12 @@ even, to be there; *dR^ishyate* = appearing.
 "You are renowned to be a prince with charming looks, oh, king, and indications agreeable to rectitude
 are also appearing on your body. [4-17-26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are the well-known (pratītaḥ), fair-visaged (priyadarśanaḥ) son of a lord of men; and even your outward emblem (liṅgam api), O king, is seen to be conformable to dharma (dharmasaṃhitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1192,6 +1332,12 @@ karma samaacaret* = ruthless, deed [like this one, killing me,] executes.
 "Will anybody born in Kshatriya's family, a learned one in Veda-s, thereby who is rid of ambiguities
 with respect to right and wrong, and who is cloaked in an air of probity, execute such a ruthless deed
 like this? [4-17-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What man born in a kṣatriya lineage (kṣatriyakule jātaḥ), learned in scripture (śrutavān), free of doubt (naṣṭasaṃśayaḥ), and cloaked in the emblem of dharma (dharmaliṅgapraticchannaḥ), would commit such a cruel deed (krūraṃ karma)?
 </details>
 </details>
 
@@ -1261,6 +1407,12 @@ he would like to know that purpose. In this sequence, Vali assumes that Rama kil
 for Seetha, and thus Vali tells Rama 'if that is the only reason I would have brought Seetha in one
 day without any bloodshed…' The purpose for Vali's elimination is nothing but the elimination of Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Born in the lineage of Raghu (rāghavakule jātaḥ) and renowned as righteous (dharmavān iti viśrutaḥ), why do you roam about (paridhāvase), ignoble (abhavyaḥ) beneath a noble guise (bhavyarūpeṇa)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1314,6 +1466,12 @@ oh, king, and even punishing the wrongdoers. [4-17-29]
 'The first said political strategies *saama, daana, bheda*, may not work with me because I am
 not a coequal of yours in kingship, so the last one, *daNda*, 'punishing the wrongdoer,' is enough
 to eliminate me, for I must have committed wrongs.'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Conciliation (sāma), liberality (dānam), forbearance (kṣamā), righteousness (dharmaḥ), truth (satyam), fortitude and valor (dhṛtiparākramau), and punishment of wrongdoers (daṇḍaś cāpy apakāriṣu) are the virtues of kings, O king.
 </details>
 </details>
 
@@ -1385,6 +1543,12 @@ you humans and we monkeys, and then there can be no enmity between you and me, b
 up only when there is a correlation. Apart from this, I am no equal of yours, but inferior and worthless
 vanara, and hence your killing me is only to give me salvation.' Maheshvara Tiirtha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We are forest-ranging beasts (vanacarā ... mṛgāḥ), O Rāma, subsisting on roots and fruits (mūlaphalāśinaḥ); such is our inborn nature (prakṛtir asmākam), whereas you are a sovereign man (puruṣas tvaṃ nareśvara).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1434,6 +1598,12 @@ you are decoyed into these forests of mine or in the fruits of mine. [4-17-31]
 **टिप्पनी**
 
 The statements of 'my forests... my fruits...' will be retorted by Rama in the next chapter.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Land, gold, and silver (bhūmir hiraṇyaṃ rūpaṃ ca) are the causes of warfare (vigrahe kāraṇāni ca); what greed (lobhaḥ) could you have there for the forest or for my fruits (madīyeṣu phaleṣu vā)?
 </details>
 </details>
 
@@ -1490,6 +1660,12 @@ Vali's statement is: 'Even the ordinary rulers on earth do not conduct themselve
 their codes of conduct, then what is there to speak of you who is the Ruler of Universe. So, you must
 have imposed this punishment without mixing the pairs of opposites that results in my salvation...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Policy and modesty (nayaś ca vinayaś cobhau), as well as punishment and favor (nigrahānugrahāv api), constitute the unconfounded conduct of kings (rājavṛttir asaṃkīrṇā); kings do not act out of mere caprice (na nṛpāḥ kāmavṛttayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1539,6 +1715,12 @@ in, [shooting-happy archer.]
 
 "But, to you your self-interests are primary, and you are a wrathful, capricious, contriver of kingcraft,
 and an impetuous shooting-happy archer. [4-17-33]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You, however, are governed by caprice (kāmapradhānaś ca), wrathful (kopanaś ca), unstable (anavasthitaḥ), confounded in royal duties (rājavṛtteṣu saṃkīrṇaḥ), and wholly given over to your bow (śarāsanaparāyaṇaḥ).
 </details>
 </details>
 
@@ -1607,6 +1789,12 @@ kR^iSyase, kim?* 'are you drawn away by senses, or what? No. You cannot be drawn
 called senses for you are the holder of their reins. So you are the *jana iishvara* Supreme Lord
 for the people, as king of people, or as the Supreme Person who took incarnation as Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You have no reverence for dharma (na te 'sty apacitir dharme), nor is your intellect steadied upon true policy (nārthe buddhir avasthitā); acting out of lust (kāmavṛttaḥ san), O lord of men, you are dragged along by your senses (indriyaiḥ ... kṛṣyase).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1662,6 +1850,12 @@ at fault...' " Vali has no need to say repeatedly that he is killed by the arrow
 killed by a sword or cudgel. But, it is to be repeated necessarily to remind that the arrow came from
 an unknown destination.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having slain with your arrow me who am guiltless here (mām ihānaparādhinam), O Kākutstha, and having committed a loathsome deed (jugupsitam), what will you say in the assembly of the virtuous (satāṃ madhye)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1708,6 +1902,12 @@ marriage of his elder brother; *sarve niraya gaaminaH* = all, hell, goers.
 "A regicide, a Brahman-cide, a cow-slayer, a thief, an inveterate killer, an atheist, and an younger
 brother who marries before his elder, all of them will go to hell. [4-17-36]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A regicide (rājahā), a brahmin-slayer (brahmahā), a cow-slayer (goghnaḥ), a thief, one who delights in slaying living beings, an atheist (nāstikaḥ), and a younger brother who weds before his elder (parivettā)—all these go to hell (nirayagāminaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1753,6 +1953,12 @@ go; *na atra samshayaH* = not, there, doubt.
 
 "A slander-monger, skinflint, friend-killer and one who makes love with his teacher's wife, they all
 go to the worlds of evil-souls, no doubt about it. [4-17-37]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A talebearer (sūcakaś ca), a miser (kadaryaś ca), a betrayer of friends (mitraghnaḥ), and a violator of his guru's bed (gurutalpagaḥ)—without doubt these go (gacchante) to the world of evil-souled sinners.
 </details>
 </details>
 
@@ -1812,6 +2018,12 @@ Hence the poachers are making a fortune on this fauna. But the skin, bones, or h
 that matter of fact any item of a monkey is not of any use either in religious or in medicinal or for
 decorative purposes. Hence, they are not killed for food, game or poaching.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My skin may not be worn (adhāryaṃ carma me) by the virtuous, my hair and bone are shunned (varjitam), and my flesh is forbidden to be eaten (abhakṣyāṇi ca māṃsāni) by followers of dharma like yourself.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1865,6 +2077,12 @@ animals; *bhakSyaa* = are edible.
 
 "Raghava, five kinds of five-nailed animals, viz., a kind of wild rodent, a kind of wild-boar, a kind
 of lizard, a hare and fifthly the turtle are edible for Brahmans and Kshatriya-s. [4-17-39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Five five-clawed creatures (pañca pañcanakhāḥ) may be eaten by brahmins and kṣatriyas (brahmakṣatreṇa), O Rāghava: the porcupine (śalyakaḥ), the hedgehog (śvāvidhaḥ), the iguana (godhā), the hare (śaśaḥ), and the tortoise (kūrmaś ca) as the fifth.
 </details>
 </details>
 
@@ -1930,6 +2148,12 @@ such as I am, a five-nailed animal, I am killed. [4-17-40]
 no reason for political, religious, hunting, or food purposes. Then this act of yours shall have an
 ultimate purpose isn't it....'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The wise do not touch (na spṛśanti manīṣiṇaḥ) my skin and bone, O Rāma, and my flesh is inedible; yet I, such a five-nailed creature (pañcanakhaḥ), have been slain!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1982,6 +2206,12 @@ Though dissuaded by Tara, *kaalasya vasham aagataH, satyam*; I am bound to come 
 is over and I am destined to die at the hands of the Supreme Being. Or, to say clearly *iishvarasya
 vasham aagataH, satyam* 'I have come under the control Supreme, truly...' where *kaalaH*,
 Time, is another name for Supreme Being; *kaalo asmi loka kshaya kR^it pravaddhaH... kala *
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I was spoken a true and salutary word (vākyam ukto 'haṃ satyam ... hitam) by all-knowing Tārā (tārayā ... sarvajñayā); having transgressed that out of delusion (mohena), I have fallen under the sway of Time (kālasya vaśam āgataḥ).
 </details>
 </details>
 
@@ -2036,6 +2266,12 @@ is both. Here Vali's contention is, 'unlike a husband without rectitude, you wil
 truthfully as you have all the attributes of a lord of land and a good husband. *duSTa nigrahatvaadi
 kalyaaNa guNa ruupeNa*. So, you will protect Earth by eradicating evildoers on it... like me...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With you as her protector (tvayā nāthena), O Kākutstha, the earth is not truly protected (na sanāthā vasuṃdharā), just like a woman endowed with virtue (pramadā śīlasampūrṇā) wedded to a lawless husband (patyeva ca vidharmaṇā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2079,6 +2315,12 @@ to a false modesty subconsciously, and an evildoer? [4-17-43]
 
 'You are born to great-souled Dasharatha, *yato mahaatmanaa dasharathena jaataH... katham shaThaH?*
 'being the son of such a great-soul Dasharatha, how can you be artful, felonious?
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Treacherous (śaṭhaḥ), deceitful (naikṛtikaḥ), base (kṣudraḥ), and falsely humble in mind (mithyāpraśritamānasaḥ)—how were you, a sinner, begotten by the great-souled Daśaratha?
 </details>
 </details>
 
@@ -2137,6 +2379,12 @@ and social values. The Supreme Being is not so, as said later by himself *naiva 
 in Bhagavad Gita at 3-18 and also at *saMkarsaya ca kartaaa syaam* 3-24. 'So getting eliminated
 from this mortality by no less than the Supreme Being is my fortune.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I have been struck down by the elephant Rāma (rāmahastinā), who has snapped the girth-rope of good conduct (chinnacāritryakakṣyeṇa), transgressed the dharma of the virtuous (satāṃ dharmātivartinā), and cast off the goad of dharma (tyaktadharmāṅkuśena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2191,6 +2439,12 @@ Me, reached...' Vali attained salvation and reached Me. *a+shubham ca a+yuktam c
 'Though Vali's actions are unpropitious, unjustified and condemnable by the righteous, but by Me eliminated
 he attained Me, the Supreme Being...' And this agrees with *mR^ityuH sarva haraH ca aham* Gita
 - 10-34 'I am the death, an all- exhausting-one.'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having perpetrated such a deed—inauspicious (aśubham), improper (ayuktam), and condemned by the good (satāṃ caiva vigarhitam)—[what] will you say (vakṣyase) when you meet with virtuous men?
 </details>
 </details>
 
@@ -2259,6 +2513,12 @@ them to sages and saints. I have seen them now. Had I seen these Divine Feet ear
 fallen on them long back, like Sugreeva. But, I do not foresee advancement of the same feet towards
 the real wrongdoers, namely Ravana, Kumbhakarna and Indrajit, as yet.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Such valor (vikramaḥ) as has been displayed here against us who were neutral (udāsīneṣu yo 'smāsu)—I do not see you displaying such valor against those who wrong you (apakāriṣu), O Rāma!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2321,6 +2581,12 @@ Thinking that, though I am capable of killing you, and hopefully kill you, do yo
 god like Yama in *naraka* the Hell. Improbable and impossible are all these suppositions, and
 thus this act of eliminating me cannot be called a killing, but 'according salvation' by you the Supreme,
 in person.'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Had you fought (yudhyethāḥ) with me in battle while remaining visible (dṛśyamānas tu), O prince, today, struck down by me, you would have beheld the god Vaivasvata [Yama] (vaivasvataṃ devam)!
 </details>
 </details>
 
@@ -2400,6 +2666,12 @@ Knowing this through Sugreeva, and honouring Brahma's boon Rama did not come fac
 This is said at 4-16-27, and 4-16-31. The same is the situation when Hanuma is bound by Brahma missile
 in Sundara Kanda, where he obliges Brahma's decree.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hard to assail (durāsadaḥ) though I am, I have been slain in battle by you remaining unseen (tvayādṛśyena), like a sleeping man overcome by sin [or drink] (pāpavaśaṃ gataḥ) [bitten] by a serpent (pannageneva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2426,6 +2698,12 @@ in Sundara Kanda, where he obliges Brahma's decree.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 याव उद्देशदिन्द सुग्रीवन प्रियवन्नु माडुव इच्चॆयिन्द नीनु नन्नन्नु वधिसिदॆयो अदे उद्देशद सिद्दिगागि नीनु मॊदले नन्नल्लि हेळिद्दरॆ नानु मिथिलेश कुमारि जानकियन्नु ऒन्दे दिनदल्लि हुडुकि निन्न बळिगॆ तन्दु कॊडुत्तिद्दॆ.॥49॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since I have been slain by you desiring to do a favor to Sugrīva (sugrīvapriyakāmena), had you previously urged me myself (mām eva yadi pūrvaṃ tvam ... acodayaḥ) for this purpose, in a single day (ekāhnā) I would have brought (ānītavān bhaveḥ) Maithilī back to you!
 </details>
 </details>
 
@@ -2494,6 +2772,12 @@ am an animal and those adductions, seductions etc., do not work in our animal ki
 what we want.' But it is not so with Veda practising Vanara-s. Hence this race is given the title of
 Vanara, neither animal, nor monkey, nor human.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And having bound by the neck (kaṇṭhe baddhvā) that evil-minded rākṣasa Rāvaṇa, the abductor of your wife (tava bhāryāpahāriṇam), without slaying him in battle (anihatam ... raṇe), I would have delivered him (pradadyāṃ te) unto you!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2546,6 +2830,12 @@ There is one Upanishad called
 horse, this horse was stolen by Madhu and Kaitabha demon-brothers and later retrieved by Hayagreeva,
 another aspect of Vishnu.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whether set down in the waters of the ocean or even in the netherworld (pātāle vāpi), I would have brought back Maithilī at your command (tavādeśāt), like the white she-mule (śvetām aśvatarīm iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2593,6 +2883,12 @@ that which; *a yukatam* = is improper.
 "The fact of Sugreeva's getting the kingdom after my going to heaven is proper, but the fact of your
 killing me in war, unrighteously, is improper. [4-17-52]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“It is fitting (yuktam) that Sugrīva should obtain the kingdom when I have gone to heaven (svargate mayi); [but] it is unfitting (ayuktam) that I have been slain by you unrighteously (adharmeṇa) in battle.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2637,6 +2933,12 @@ you relevant, reply; *saadhu cintyataam* = gently, think of.
 
 "Admittedly the world is this way, and if possible a relevant reply may gently be thought ofabout your
 propriety in killing me..." So said Vali to Rama. [4-17-53]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Granted (kāmam) that creatures in this world are yoked to such a fate by Time (kālena viniyujyate); yet if what you have done be deemed proper, ponder well (sādhu cintyatām) a fitting reply (uttaram).”
 </details>
 </details>
 
@@ -2716,6 +3018,12 @@ says that Vali is nothing when compared with Kumbhakarna and others in Lanka.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हदिनेळनॆय सर्ग सम्पूर्णवायितु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, his mouth parched dry (pariśuṣkavaktraḥ) and racked with pain from the blow of the arrow (śarābhighātād vyathitaḥ), that great-souled son of the king of monkeys [or gods] gazed upon Rāma, who resembled the sun (ravisaṃnikāśam), and fell silent (tūṣṇīṃ babhau).
 </details>
 </details>
 

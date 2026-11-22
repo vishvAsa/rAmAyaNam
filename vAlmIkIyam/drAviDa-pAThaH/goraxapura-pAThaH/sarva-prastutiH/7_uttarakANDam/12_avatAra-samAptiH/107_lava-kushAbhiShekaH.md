@@ -36,6 +36,12 @@ title = "१०७ लव-कुशाभिषेकः"
 
 लक्ष्मणनन्नु परित्यजिसि श्रीरामनु दुःखशोक मग्ननादनु हागू पुरोहित, मन्त्रि मत्तु महाजनरल्लि इन्तॆन्दनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having relinquished Lakṣmaṇa (visṛjya lakṣmaṇam), Rāma, overwhelmed with grief and sorrow (duḥkha-śoka-samanvitaḥ), spoke these words to his royal priest, his ministers, and the guild-citizens (purodhasaṃ mantriṇaś ca naigamāṃś ca):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "१०७ लव-कुशाभिषेकः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्दु नानु अयोध्यॆय राज्यक्कॆ धर्मवत्सल वीर तम्मनाद भरतनन्नु राजनागि पट्टाभिषेक माडुवॆनु. बळिक वनक्कॆ हॊरटु होगुवॆनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today I shall consecrate the dharma-loving Bharata in the kingdom (adya rājye ’bhiṣekṣyāmi bharataṃ dharmavatsalam) as the heroic lord of Ayodhyā (ayodhyāyāḥ patiṃ vīram), and thereafter I shall depart to the forest (tato yāsyāmy ahaṃ vanam).
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "१०७ लव-कुशाभिषेकः"
 
 बेगने ऎल्ल सामग्रिगळन्नु सिद्धगॊळिसिरि, ईग हॆच्चु समय कळॆयबारदु. नानु इन्दे लक्ष्मणन मार्गवन्ने अनुसरिसुवॆनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bring in the ceremonial requisites (praveśayata sambhārān), lest there be any lapse of time (mā bhūt kālasya paryayaḥ); this very day I shall follow the path (adyaivāhaṃ gamiṣyāmi ... gatim) trodden by Lakṣmaṇa (lakṣmaṇena gatām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +129,12 @@ title = "१०७ लव-कुशाभिषेकः"
 
 श्रीरामचन्द्रन मातन्नु केळि प्रजावर्गद ऎल्ल जनरु साष्टाङ्ग नमस्करिसि प्राणहीनरन्तादरु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words spoken by Rāghava (tac chrutvā rāghaveṇoktam), all the subjects bowed deeply with their heads to the ground (sarvāḥ prakṛtayo bhṛśaṃ mūrdhabhiḥ praṇatā bhūmau) and became as though bereft of life (gata-sattvā ivābhavan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,6 +159,12 @@ title = "१०७ लव-कुशाभिषेकः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरघुनाथन मातन्नु केळि भरतनु मूर्छितनादनु. मत्तॆ ऎच्चरगॊण्डु राज्यपदवियन्नु निन्दिसुत्ता हीगॆ हेळिदनु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Bharata lost consciousness upon hearing Rāma’s speech (bharataś ca visañjño ’bhūc chrutvā rāmasya bhāṣitam); he denounced the kingdom (rājyaṃ vigarhayāmāsa) and spoke these words to Rāghava:
 </details>
 </details>
 
@@ -162,6 +192,12 @@ title = "१०७ लव-कुशाभिषेकः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजा रघुनन्दन! नानु सत्यद मेलॆ आणॆयिट्टु हेळुत्तेनॆ- नीनिल्लदॆ ननगॆ राज्यवागली, स्वर्गभोगवागली बेकागिल्ल.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I swear by truth, O king (satyenāhaṃ śape rājan), not even in the heavenly world do I desire [bliss] (svargaloke na caiva hi), just as I do not desire this kingdom without you (na kāmaye yathā rājyaṃ tvāṃ vinā), O delight of the Raghus (raghunandana)!
 </details>
 </details>
 
@@ -193,6 +229,12 @@ _________________
 
 नरेश्वरने! नीनु ई लव-कुशरिगॆ पट्टाभिषेक माडु. दक्षिण कोसलदल्लि कुशनन्नु मत्तु उत्तर कोसलदल्लि लवनन्नु राजनन्नागिसिरि.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Consecrate these two, Kuśa and Lava, O king, O lord of men (imau kuśa-lavau rājann abhiṣiñca narādhipa)—the heroic Kuśa in Kosala (kosaleṣu kuśaṃ vīram) and likewise Lava in the northern [Kosalas] (uttareṣu tathā lavam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -223,6 +265,12 @@ _________________
 
 वेगवागि होगुव दूतरन्नु बेगने कळिसि शत्रुघ्नन बळिगॆ होगलि मत्तु अवनिगॆ नम्म महायात्रॆय वृत्तान्त तिळिसिरि. इदरल्लि विळम्बमाडबारदु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And let swift-paced messengers go to Śatrughna (śatrughnasya tu gacchantu dūtās tvarita-vikramāḥ) to announce without delay (ākhyātu mā ciram) this our departure for heaven (idaṃ gamanam asmākaṃ svargāya)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,6 +295,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भरतन मातन्नु केळि, दुःख सन्तप्तरागि अधोमुखराद पुरवासिगळन्नु नोडि, महर्षि वसिष्ठरु हेळिदरु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words spoken by Bharata (tac chrutvā bharatenoktam), and beholding too the citizens with lowered faces (dṛṣṭvā cāpi hy adhomukhān paurān), scorched by grief (duḥkhena santaptān), Vasiṣṭha spoke these words:
 </details>
 </details>
 
@@ -276,6 +330,12 @@ _________________
 
 वत्स रामा! भूमियल्लि बिद्दिरुव ई प्रजाजनरन्नु नोडि. इवर अभिप्रायवन्नु तिळिदु अदरन्तॆ कार्य माडु. इवर इच्छॆगॆ विरुद्धवागि नडॆदु बडपायि इवर मनस्सु नोयिसबेड.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Dear child Rāma, behold these subjects fallen upon the earth (imāḥ paśya dharaṇīṃ prakṛtīr gatāḥ)! Learning what they desire, do what is fitting (jñātvaiṣām īpsitaṃ kāryam), and do nothing displeasing to them (mā caiṣāṃ vipriyaṃ kṛthāḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -300,6 +360,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वसिष्ठरु हेळिदन्तॆ श्रीरघुनाथनु प्रजॆगळन्नु ऎब्बिसि, अवरल्लि केळिदनु- नानु निम्म याव कार्यवन्नु सिद्धगॊळिसलि.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Vasiṣṭha’s word (vasiṣṭhasya tu vākyena), raising up the multitude of citizens (utthāpya prakṛtī-janam), Kākutstha spoke these words to them all (sarvā vacanam abravīt): “What may I do [for you] (kiṃ karomi)?”
 </details>
 </details>
 
@@ -326,6 +392,12 @@ _________________
 
 आग प्रजाजनरॆल्लरू श्रीरामनल्लि हेळिदरु- रघुनन्दन! नीनु होगुवल्लिगॆ निम्म हिन्दॆ-हिन्दॆये नावू बरुवॆवु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then all the subjects spoke these words to Rāma (sarvāḥ prakṛtayo rāmaṃ vacanam abruvan): “We shall follow you as you go (gacchantam anugacchāmaḥ), wherever you shall go, O Rāma (yatra rāma gamiṣyasi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +422,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 काकुत्स्थ! निमगॆ पुरवासिगळल्लि प्रेमविद्दरॆ, नम्म मेलॆ निमगॆ परमोत्तम स्नेह इद्दरॆ, नम्मन्नु जॊतॆगॆ बरलु अप्पणॆ कॊडिरि. नावु नम्म पत्नी पुत्ररॊन्दिगॆ निम्म जॊतॆगॆ सन्मार्गदल्लि नडॆयलु उद्युक्तरागिद्देवॆ.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If you bear affection for the citizens (paureṣu yadi te prītiḥ), if your love is unsurpassed (yadi sneho hy anuttamaḥ), together with our sons and wives, O Kākutstha (sa-putra-dārāḥ kākutstha), let us walk together along the noble path (samāgacchāma sat-patham)!
 </details>
 </details>
 
@@ -376,6 +454,12 @@ _________________
 
 स्वामि! नीवु तपोवनदल्लागली, यावुदो दुर्गमस्थानदल्लागली, नदि अथवा समुद्रदल्लागली ऎल्लिगॆ होदरू नम्मॆल्लरन्नु करॆदुकॊण्डु होगिरि. नम्मन्नु त्यजिसुवुदु योग्यवल्लवॆन्दु तिळियुवुदादरॆ हीगॆये माडिरि.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whether to a penance-grove or an impassable wild (tapovanaṃ vā durgaṃ vā), to a river or to the ocean (nadīm ambhonidhiṃ tathā)—if we are not to be forsaken by you (vayaṃ te yadi na tyājyāḥ), lead us all, O Lord (sarvān no naya īśvara)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -400,6 +484,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदे नम्म मेलॆ निम्म ऎल्लक्किन्त दॊड्ड कृपॆयागिदॆ मत्तु इदे नमगागि निम्म उत्तम वरवागबहुदु. निम्म हिन्दॆये नडॆयुवुदरल्ले नमगॆ हार्दिक प्रसन्नतॆ आगबहुदु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is our highest joy (eṣā naḥ paramā prītiḥ), this is our supreme boon (eṣa naḥ paramo varaḥ); ever lodged in our hearts is our delight (hṛdgatā naḥ sadā prītiḥ) in following you, O king (tavānugamane nṛpa)!”
 </details>
 </details>
 
@@ -441,6 +531,16 @@ _________________
 
 प्रजाजनर ई दृढभक्तियन्नु नोडि श्रीरामनु ‘हागॆये आगलि’ ऎन्दु हेळि अवर इच्छॆयन्नु अनुमोदिसिदनु. तन्न कर्तव्यवन्नु निश्चयिसि श्रीरघुनाथनु तत्क्षण दक्षिण कोसद राज्यदल्लि वीर कुशनन्नु मत्तु उत्तर कोसलद राज सिंहा सनदल्लि लवनन्नु पट्टाभिषेक माडिदनु. अभिषिक्तराद इब्बरू महात्मा पुत्रराद कुश-लवरन्नु तॊडॆयल्लि कुळ्ळिरिसिकॊण्डु पदे-पदे आलिङ्गिसिकॊण्डु श्रीरामनु मत्तॆ-मत्तॆ अवर शिरवन्नु आघ्राणिसि, तम्म-तम्म राजधानिगळिगॆ कळिसिकॊट्टनु.॥16-18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Considering both the steadfast devotion of the citizens (paurāṇāṃ dṛḍha-bhaktiṃ ca) and his own settled principle of duty (svakṛtāntaṃ cānvavekṣya), on that very day Rāghava spoke simply (tasminn ahani rāghavaḥ): “So be it (bāḍham)!”
+
+**17:** Having consecrated the heroic Kuśa in Kosala (kosaleṣu kuśaṃ vīram) and likewise Lava in the northern [Kosalas] (uttareṣu tathā lavam)—both those great-souled twins Kuśa and Lava (mahātmānāv ubhau ... kuśīlavau)—Rāma,
+
+**18:** the mighty-armed one, having seated his two consecrated sons upon his lap in the city (abhiṣiktau sutāv aṅke pratiṣṭhāpya pure tataḥ), embraced them (pariṣvajya) and kissed them on the crown of the head again and again (mūrdhny upāghrāya cāsakṛt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -466,6 +566,12 @@ _________________
 
 अवनु प्रतियॊब्ब पुत्ररिगॆ अनेक साविर रथ, हत्तु साविर आनॆ मत्तु ऒन्दु लक्ष कुदुरॆगळन्नु कॊट्टनु.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He bestowed as wealth upon each of them (ekaikasya dhanaṃ dadau) thousands of chariots (rathānāṃ tu sahasrāṇi), tens of thousands of elephants (nāgānām ayutāni ca), and ten myriads of horses (daśāyutāni cāśvānām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -490,6 +596,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लव-कुशरिब्बरू हेरळ धन-रत्नादिगळिन्द सम्पन्नरादरु. अवरु हृष्ट-पुष्ट मनुष्यरिन्द परिवृतरागिरुत्तिद्दरु. श्रीरामनु अवरिब्बरन्नु अवरवर राजधानिगळिगॆ कळिसि कॊट्टनु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rich in gems, rich in wealth, and surrounded by joyous and thriving subjects (bahu-ratnau bahu-dhanau hṛṣṭa-puṣṭa-janāvṛtau), he dispatched the two brothers Kuśa and Lava (preṣayāmāsa bhrātarau tu kuśīlavau) each to his own capital city (sve pure).
 </details>
 </details>
 
@@ -526,6 +638,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि नूरएळनॆय सर्ग पूर्णवायितु. ॥107॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having consecrated his two heroic sons (abhiṣicya sutau vīrau) and established them in their cities (pratiṣṭhāpya pure tadā), he then dispatched messengers (dūtān sampreṣayāmāsa) to the great-souled Śatrughna (śatrughnāya mahātmane).
 </details>
 </details>
 

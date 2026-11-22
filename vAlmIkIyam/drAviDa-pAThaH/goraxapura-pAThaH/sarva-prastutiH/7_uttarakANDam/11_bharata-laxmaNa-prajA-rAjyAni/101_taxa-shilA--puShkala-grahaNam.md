@@ -36,6 +36,12 @@ title = "१०१ तक्ष-शिला--पुष्कल-ग्रहण
 
 केकय राजा युधाजित्तु महर्षिगार्ग्यरॊन्दिगॆ स्वतः भरतनु सैन्यसहित बरुत्तिद्दानॆ ऎन्दु केळि अवनिगॆ बहळ सन्तोषवायितु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that Bharata, commander of the army (senāpatiṃ ... bharatam), had arrived accompanied by Gārgya (gārgyasahitam), Yudhājit, lord of the Kekayas (kekayādhipaḥ), attained supreme delight (parāṃ prītim upāgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "१०१ तक्ष-शिला--पुष्कल-ग्रहण
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ केकय राजनु भारी जनसमुदायदॊन्दिगॆ हॊरटु, भरतनन्नु कूडिकॊण्डु अवसरवागि कामरूपिगळाद गन्धर्वर देशद कडॆगॆ हॊरटनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That lord of the Kekayas marched forth with a vast flood of men (janaughena mahatā) and, hastening onward (tvaramāṇaḥ), advanced against the shape-shifting Gandharvas (abhicakrāma gandharvān kāmarūpiṇaḥ).
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "१०१ तक्ष-शिला--पुष्कल-ग्रहण
 
 भरत मत्तु युधाजित्तु इब्बरू सेरि बहळ तीव्रगतियिन्द सैन्य, वाहनगळॊन्दिगॆ गन्धर्व राजधानिय मेलॆ आक्रमण माडिदरु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joined together with swift-striding warriors (sametau laghuvikramaiḥ), both Bharata and Yudhājit reached the Gandharva city (gandharvanagaraṃ prāptau) with their fourfold armies and camp-followers (sabalau sapadānugau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "१०१ तक्ष-शिला--पुष्कल-ग्रहण
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भरतन आगमनवन्नु केळि, आ महापराक्रमि गन्धर्वरु युद्धद इच्छॆयिन्द ऒट्टागि ऎल्लॆडॆ जोरु-जोरागि गर्जिसतॊडगिदरु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that Bharata had arrived (śrutvā tu bharataṃ prāptam), those exceedingly mighty Gandharvas (gandharvās te ... mahāvīryāḥ) assembled eager for battle (samāgatāḥ yoddhukāmāḥ) and roared on every side (vyanadan vai samantataḥ).
 </details>
 </details>
 
@@ -139,6 +163,12 @@ _________________
 
 मत्तॆ ऎरडू कडॆय सैनिकरल्लि रोमाञ्चकर भयङ्कर युद्ध प्रारम्भवायितु. आ महाभयङ्कर सङ्ग्राम ऒन्देसमनॆ एळु हगलु रात्रि नडॆदरू याव पक्षक्कू विजय दॊरॆयलिल्ल.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then ensued a tumultuous, hair-raising battle (yuddhaṃ tumulaṃ romaharṣaṇam), exceedingly terrible, lasting for seven nights (saptarātraṃ mahābhīmam), and victory fell to neither side (na cānyatarayor jayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +197,12 @@ _________________
 
 ऎल्लॆडॆ रक्तद हॊळॆ हरिदवु. खड्ग, शक्ति, धनुष्य नदियल्लि विचरिसुव मॊसळॆयन्तॆ कण्डु बरुत्तित्तु. अदर प्रवाहदल्लि मनुष्यर हॆणगळु हरिदुहोगुत्तिद्दवु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rivers pouring forth streams of blood (nadyaḥ śoṇitasaṃsravāḥ), with swords, spears, and bows as their crocodiles (khaḍga-śakti-dhanur-grāhāḥ), bearing human corpses along (nṛkalevara-vāhinyaḥ), flowed forth in every direction (pravṛttāḥ sarvatodiśam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -192,6 +228,12 @@ _________________
 
 आग रामानुज भरतनु कुपितनागि गन्धर्वर मेलॆ कालदेवतॆय अत्यन्त भयङ्कर संवर्तक ऎम्ब प्रसिद्धवाद अस्त्रवन्नु प्रयोगिसिदनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the enraged younger brother of Rāma, Bharata (rāmānujaḥ kruddhaḥ ... bharataḥ), discharged against the Gandharvas (gandharveṣv abhyacodayat) the exceedingly dreadful weapon of Kāla (kālasyāstraṃ sudāruṇam), named Saṃvarta (saṃvartaṃ nāma).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -216,6 +258,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ महात्मा भरतनु क्षणार्धदल्लि मूरुकोटि गन्धर्वरन्नु संहार माडिदनु. आ गन्धर्वरु कालपाशदिन्द बद्धरागि, संवर्तकास्त्रदिन्द सीळल्पट्ट वरागि हतरादरु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bound by the noose of Death (te baddhāḥ kālapāśena) and torn asunder by Saṃvarta (saṃvartena vidāritāḥ), all three crores of those great-souled warriors (tisraḥ koṭyo mahātmanām) were struck down by him in a single instant (kṣaṇenābhihatās tena).
 </details>
 </details>
 
@@ -251,6 +299,14 @@ _________________
 
 इन्तह भयङ्कर युद्धवन्नु देवतॆगळु ऎन्दू नोडिरलिल्ल, अवरिगॆ नॆनपिरलिल्ल. रॆप्पॆ हॊडॆयुवन्तॆ पराक्रमि महात्मराद समस्त गन्धर्वर संहारवादाग कैकॆयि कुमार भरतनु आग अल्लि ऎरडु समृद्धशाली सुन्दर नगरगळन्नु स्थापिसिदनु.॥9-10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** The dwellers of heaven do not recall (na smaranti divaukasaḥ) so terrifying a slaughter (taṃ ghātaṃ ghorasaṅkāśam) of such great-souled beings within the mere twinkling of an eye (nimeṣāntaramātreṇa).
+
+**10:** When all of them had been slain (hateṣu teṣu sarveṣu), Bharata, the son of Kekayī (bharataḥ kekayīsutaḥ), then established two prosperous, foremost cities (niveśayām āsa tadā samṛddhe dve purottame).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -275,6 +331,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मनोहर गन्धर्व देशदल्लि तक्षशिला ऎम्ब नगरवन्नु नॆलॆगॊळिसि भरतनु तक्षनन्नु राजनागिसिदनु हागू गान्धार देशदल्लि पुष्कलावत ऎम्ब नगरवन्नु स्थापिसि पुष्कलनिगॆ ऒप्पिसिदनु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He established Takṣa in Takṣaśilā (takṣaṃ takṣaśilāyāṃ tu) and Puṣkala in Puṣkalāvata (puṣkalaṃ puṣkalāvate), within the lovely Gandharva land and the Gāndhāra country (gandharvadeśe rucire gāndhāraviṣaye ca saḥ)—
 </details>
 </details>
 
@@ -301,6 +363,12 @@ _________________
 
 आ ऎरडू नगरगळु धन-धान्य गळिन्द, नवरत्नगळिन्द तुम्बिद्दवु. अनेकानेक काननगळु अवुगळ शोभॆ हॆच्चिसिद्दवु. गुणविस्तारद दृष्टियिन्द परस्पर स्पर्धिसुत्तवो ऎम्बन्तॆ बॆळॆयुत्तिद्दवु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—cities teeming with floods of wealth and jewels (dhanaratnaugha-saṅkīrṇe), graced with groves (kānanair upaśobhite), and built as though in mutual rivalry (anyonyasaṅgharṣakṛte) through the vying abundance of their excellences (spardhayā guṇavistaraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,6 +393,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऎरडू नगरगळ शोभॆ परम मनोहरवागित्तु. ऎरडू कडॆय व्यापार- व्यवहार निष्कपट, शुद्ध, सरळवागिद्दवु. अवुगळु उद्यानगळिन्द मत्तु नाना वाहनगळिन्द तुम्बिद्दु, अदरॊळगॆ बेरॆ-बेरॆ अनेक पेटॆगळिद्दवु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Both cities were renowned for exceeding loveliness (ubhe suruciraprakhye) through blameless dealings (vyavahārair akilbiṣaiḥ), filled with parks and conveyances (udyāna-yāna-sampūrṇe), with finely laid-out marketplaces (suvibhaktāntarāpaṇe).
 </details>
 </details>
 
@@ -351,6 +425,12 @@ _________________
 
 ऎरडू पट्टणगळू रम्यवागिद्दवु. इष्टरवरॆगॆ हॆसरिसद अनेक विस्तृत पदार्थगळिन्द अवुगळ शोभॆ हॆच्चिसुत्तित्तु. सुन्दर एळन्तस्तिन मनॆगळिन्द अल्लिन श्रीमन्तिकॆ मॆरॆयुत्तित्तु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Both foremost, delightful cities (ubhe puravare ramye) were adorned with spacious splendors (vistarair upaśobhite) and with exceedingly fair principal mansions (gṛhamukhyaiḥ suruciraiḥ) matching celestial chariots in brilliance (vimāna-samavarṇibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,6 +455,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शोभायमान देवमन्दिरगळिन्दलू, ताल-तमाल-तिलक मुन्ताद वृक्षगळिन्दलू आ ऎरडु नगरगळ शोभॆ, रमणीयतॆ हॆच्चागित्तु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They were graced with beauteous expanses of temples of the gods (śobhanīyaiś ca devāyatana-vistaraiḥ) and adorned with tāla, tamāla, tilaka, and vakula trees (tālais tamālais tilakair vakulair upaśobhite).
 </details>
 </details>
 
@@ -401,6 +487,12 @@ _________________
 
 ऐदु वर्षगळवरॆगॆ आ राजधानिगळ राज्यभार क्रमवन्नु व्यवस्थॆगॊळिसि, रामन तम्म कैकॆयी कुमार महाबाहु भरतनु मत्तॆ अयोध्यॆगॆ मरळि बन्दनु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having established them over the course of five years (niveśya pañcabhir varṣaiḥ), Bharata, the mighty-armed younger brother of Rāghava and son of Kekayī (bharato rāghavānujaḥ ... kekayīsutaḥ), came back again to Ayodhyā (punar āyād ... ayodhyām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -425,6 +517,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लिगॆ होगि इन्द्रनु ब्रह्मदेवरन्नु वन्दिसुवन्तॆ, श्रीमान् भरनु द्वितीय धर्मराजनन्तिरुव महात्मा श्रीरघुनाथनिगॆ प्रणाम माडिदनु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that glorious Bharata bowed down (so ’bhivādya ... bharataḥ śrīmān) before the great-souled Rāghava, who was like Dharma incarnate (sākṣād dharmam ivāparam), just as Vāsava bows before Brahmā (brahmāṇam iva vāsavaḥ).
 </details>
 </details>
 
@@ -461,6 +559,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि नूरऒन्दनॆय सर्ग पूर्णवायितु. ॥101॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And he recounted exactly as it had transpired (śaśaṃsa ca yathāvṛttam) the supreme slaying of the Gandharvas (gandharvavadham uttamam) and the founding of the country (niveśanaṃ ca deśasya); hearing this, Rāghava was delighted with him (śrutvā prīto ’sya rāghavaḥ).
 </details>
 </details>
 

@@ -36,6 +36,12 @@ title = "०५४ राज्य-त्यागः"
 
 श्रीरामन भाषणवन्नु केळि परमार्थवन्नु तिळिदिद्द लक्ष्मणनु ऎरडू कैमुगिदु महा तेजस्वि याद श्रीरघुनाथनल्लि हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of Rāma, Lakṣmaṇa, knower of supreme truth (paramārthavit), with palms joined in reverence (prāñjaliḥ), spoke these words to Rāghava of blazing splendor (dīpta-tejasam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०५४ राज्य-त्यागः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राघव! आ इब्बरू ब्राह्मणरु अल्पवाद अपराधक्कागि राजर्षि नृगनिगॆ यमदण्डदन्तह महाशाप कॊट्टरु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For so slight an offense, O Kākutstha (alpāparādhe kākutstha), such a mighty curse was laid by those two brahmins upon the royal sage Nṛga (śāpa īdṛśaḥ mahān nṛgasya rājarṣeḥ), like a second rod of Yama (yama-daṇḍa ivāparaḥ)!
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०५४ राज्य-त्यागः"
 
 पुरुषश्रेष्ठने! तानु शापरूपी पापदिन्द कूडिरुवुदन्नु केळि, नृगराजनु आ क्रोधी ब्राह्मणरल्लि एनु हेळिदनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing himself burdened with that sin (pāpa-saṃyuktam ātmānam), O bull among men, what did King Nṛga say to those two brahmins filled with wrath (dvijau krodha-samanvitau)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "०५४ राज्य-त्यागः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मणनु हीगॆ केळिदाग श्रीरामनु पुनः हेळिदनु - सौम्य! हिन्दॆ शापग्रस्तनाद नृजराजनु हेळिदुदन्नु तिळिसुवॆनु केळु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Lakṣmaṇa, Rāghava spoke again: “Listen, O gentle one, to what that curse-stricken king did and spoke of old (yathā pūrvaṃ sa rājā śāpa-vikṣataḥ).
 </details>
 </details>
 
@@ -145,6 +169,14 @@ _________________
 
 आ इब्बरू ब्राह्मणरु हॊरटुहोदरु, ईग ऎल्लो दारियल्लि इरबहुदॆन्दु तिळिदु नृगराजनु मन्त्रिगळन्नु, समस्त पुरवासिगळन्नु, पुरोहितरन्नु, समस्त प्रजॆगळन्नु करॆसि, दुःखदिन्द पीडितनागि - नीवु सावधानवागि नन्न मातन्नु केळिरि ऎन्दु हेळिदनु.॥5-6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** “Perceiving then that the two brahmins had departed upon their path (adhvani gatau viprau vijñāya), that King Nṛga summoned all his ministers, the townsmen, and the royal priests (mantriṇaḥ sarvān naigamān sa-purodhasaḥ).
+
+**6:** “Overwhelmed with grief (duḥkhena susamāviṣṭaḥ), King Nṛga addressed them and all the subjects as well (sarvāś ca prakṛtīs tathā): ‘Let my word be heard by you with attentive minds (śrūyatāṃ me samāhitaiḥ)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -170,6 +202,12 @@ _________________
 
 मङ्गळ स्वरूपराद, अनिन्द्यराद देवर्षि नारदरु मत्तु पर्वत ऋषिगळु नन्न बळिगॆ बन्दु, आ इब्बरु ब्राह्मणरु कॊट्ट शापद मातन्नु हेळि ननगॆ महा भयवन्नु कॊट्टु वायुविनन्तॆ तीव्रगतियिन्द ब्रह्मलोकक्कॆ तॆरळिदरु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Nārada and Parvata, those auspicious and blameless sages (bhadrau ... aninditau), having delivered great dread to me (mama dattvā mahad bhayam), have departed to the triple heaven swift as the wind (gatau tribhuvanaṃ ... vāyu-bhūtau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +232,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई वसु ऎम्ब राजकुमारनन्नु राज्यद पट्टाभिषेक माडलागुवुदु. शिल्पिगळु मुन्दॆ नन्न वासक्कागि सुखस्पर्शविरुव ऒन्दु हॊण्डवन्नु निर्मिसलि.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Let this prince named Vasu, that royal lord, be consecrated today (kumāro ’yaṃ vasur nāma sa devo ’dyābhiṣicyatām); and let a pit pleasant to the touch be fashioned for me by artisans (śvabhraṃ ca yat sukha-sparśaṃ kriyatāṃ śilpibhir mama), wherein I shall exhaust this curse issued from brahmins (yatrāhaṃ saṅkṣayiṣyāmi śāpaṃ brāhmaṇa-niḥsṛtam).
 </details>
 </details>
 
@@ -221,6 +265,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्राह्मणरु कॊट्ट शापवन्नु अल्ले इद्दु नानु कळॆयुवॆनु. मळॆगालद कष्ट निवारिसुव ऒन्दु हॊण्डवन्नु, चळिगालद तॊन्दरॆ आगदन्तह मत्तॊन्दु हॊण्डवन्नु, बेसिगॆय बेगॆ तागदन्तह मूरनॆय हॊण्डवन्नु, हीगॆ सुखस्पर्शदायक हॊण्डगळन्नु शिल्पिगळु सिद्धगॊळिसलि.॥9½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Let the artisans fashion one chamber warding off rain (varṣaghnam ekaṃ śvabhram), another warding off winter cold (himaghnam aparam), and one pleasant to the touch warding off summer heat (grīṣmaghnaṃ tu sukha-sparśam ekam).
 </details>
 </details>
 
@@ -255,6 +305,16 @@ _________________
 
 फलबिडुव वृक्षगळन्नु, हूवु बिडुव लतॆगळन्नु ई हॊण्डगळल्लि नॆडिरि. दट्टवाद नॆरळन्नु कॊडुव अनेक प्रकारद वृक्षगळन्नु नॆडुवन्तागलि. आ हॊण्डगळ सुत्तलू ऒन्दूवरॆ योजनद भूमियु तुम्बा रमणीयवागिरलि. शापद समय कळॆयुववरॆगॆ नानु अल्ले सुखवागि इरुवॆनु. आ हॊण्डगळल्लि सुगन्धित पुष्पगळु तुम्बिरलि.॥10-12½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** “‘Let fruit-bearing trees, flowering creepers (phalavantaś ca ye vṛkṣāḥ puṣpavatyaś ca yā latāḥ), and manifold shade-giving shrubs (bahuvidhāś chāyāvantaś ca gulminaḥ) be planted all around.
+
+**11:** “‘Let every side around the chambers be made delightful (kriyatāṃ ramaṇīyaṃ ca śvabhrāṇāṃ sarvato-diśam); here I shall dwell in comfort until the revolution of the appointed time (sukham atra vasiṣyāmi yāvat kālasya paryayaḥ).
+
+**12:** “‘And let fragrant flowers ever be arranged in them (puṣpāṇi ca sugandhīni kriyatāṃ teṣu nityaśaḥ), so that they surround me to a distance of one and a half yojanas (parivārya yathā me syur adhyardhaṃ yojanaṃ tathā).’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -279,6 +339,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ व्यवस्थॆ माडि राजकुमार वसुगॆ सिंहासनदल्लि कुळ्ळिरिसि, राजनु आग हेळिदनु - मगु! नीनु प्रतिदिन धर्म परायणनागि क्षत्रिय धर्मक्कनुसार प्रजॆयन्नु पालिसुत्ता इरु.॥13½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having made these arrangements (evaṃ kṛtvā vidhānam), he then instructed Vasu (sandideśa vasaṃ tadā): ‘Ever devoted to dharma, O son, protect the subjects according to kṣatriya-dharma (dharma-nityaḥ prajāḥ putra kṣatra-dharmeṇa pālaya)!
 </details>
 </details>
 
@@ -305,6 +371,12 @@ _________________
 
 इब्बरु ब्राह्मणरु शापद मूलक नन्न प्रहार माडिदुदु निन्न कण्ण मुन्दॆये इदॆ. नरश्रेष्ठने! अन्तह अल्प अपराधक्कागि सिट्टुगॊण्डु अवरु ननगॆ शाप कॊट्टरु.॥14½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Before your very eyes (pratyakṣaṃ te), O best of men, you saw how a curse was cast upon me by those two wrathful brahmins (dvijābhyāṃ mayi pātitaḥ ... saroṣābhyām), even for so slight a fault (aparādhe ’pi tādṛśe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -329,6 +401,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषप्रवर! नीनु ननगागि दुःखिसबेड. मगु! यावुदरिन्द ननगॆ व्यसनियागिसि, सङ्कटदल्लि हाकिदॆयो, तानु माडिद आ प्राचीन कर्मवे अनुकूल-प्रतिकूल फल कॊडुवुदरल्लि समर्थवागिदॆ.॥15½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Do not give way to bodily anguish even on my account (mā kṛthās tanu-santāpaṃ matkṛte ’pi), O bull among men; destiny is skilled in its craft, O son, by which I have been brought to misfortune (kṛtāntaḥ kuśalaḥ putra yenāsmi vyasanī-kṛtaḥ).
 </details>
 </details>
 
@@ -357,6 +435,14 @@ _________________
 
 वत्स! हिन्दिन जन्मदल्लि माडिद कर्मक्कनुसार मनुष्यनु अदे वस्तुगळन्नु पडॆयुत्तानॆ. अदन्नु पडॆयुव अधिकारि अवने आगिद्दानॆ. अवनिगॆ नियतवाद ऎल्लिगॆ होगलु अनिवार्यवागिदॆयो अदे स्थानगळिगॆ होगुत्तानॆ मत्तु सुख-दुःखगळन्नु पडॆयुत्तानॆ. आद्दरिन्द नीनु विषादपडबेड.॥16-17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** “‘One attains only what is destined to be attained (prāptavyāny eva prāpnoti), goes only where one is destined to go (gantavyāny eva gacchati), and gains only the sorrows and joys destined to be gained (labdhavyāny eva labhate duḥkhāni ca sukhāni ca) from deeds in a former birth (pūrve jātyantare); therefore, my child, give not way to despair (vatsa mā viṣādaṃ kuruṣva ha)!’
+
+**17:** “Having thus spoken to his son there, that renowned king, O bull among men, departed to dwell in that well-built chamber (śvabhraṃ jagāma sukṛtaṃ vāsāya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -381,6 +467,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मण! तन्न पुत्रनल्लि हीगॆ हेळिद महा यशस्वी नृगराजनु तानु वासिसलु सुन्दरवागि निर्मिसिद हॊण्डदल्लि प्रवेशिसिदनु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus entering right then that subterranean chamber adorned with great jewels (śvabhraṃ mahāratna-vibhūṣitaṃ tat), that great-souled monarch (mahātmā) thereupon fulfilled the curse loosed in wrath by those two brahmins (sampādayāmāsa ... śāpaṃ dvijābhyāṃ hi ruṣā vimuktam).”
 </details>
 </details>
 

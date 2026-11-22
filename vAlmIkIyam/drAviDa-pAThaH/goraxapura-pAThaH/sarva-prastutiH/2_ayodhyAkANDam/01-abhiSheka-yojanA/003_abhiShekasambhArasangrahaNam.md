@@ -65,6 +65,12 @@ good; *vachaH* = sentence.
 King Dasaratha, accepted their salutations with folded hands resembling lotus buds
 and spoke good and agreeable words to them as follows:-
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting their lotus-like folded hands (añjali-padmāni) raised in salutation on every side, the king spoke to them words that were both pleasant and salutary (priya-hitaṃ vacaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -105,6 +111,12 @@ comparision.
 
 "Oh! I am very much pleased and incomparable is my fortune in that you desire my
 beloved elder son to be anointed as prince. "
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Ah! I am supremely delighted (parama-prītaḥ), and peerless is my royal glory, inasmuch as you desire my beloved eldest son to be installed in the office of Prince Regent (yauvarājya-stham)!”
 </details>
 </details>
 
@@ -151,6 +163,12 @@ Vasishta; *VaamadevaM cha* = Vaamadeva and; *braahmaNaan* = other brahmanas.
 
 King Dasaratha, thus duly returning the honor done by them, spoke while they were
 listening, to Vasishta, Vamadeva and other Brahmans as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While those citizens and monarchs were listening closely (teṣām evopaśṛṇvatām), the king addressed the Brāhmaṇas whom he had thus honored in return—Vasiṣṭha, Vāmadeva, and the rest:
 </details>
 </details>
 
@@ -202,6 +220,12 @@ Rama as prince)"; *uparate* = while completing; *raajJNaH* = the king's;
 with flowers. Let all arrangements be made for the coronation of Rama as prince." While these words
 of the king were being completed, there was a great delightful uproar of the people.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is the glorious, sacred month of Caitra (caitraḥ śrīmān ayaṃ māsaḥ), when the forests are in full blossom (puṣpita-kānanaḥ); let everything needful be made ready for the consecration of Rāma as Prince Regent!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,6 +272,12 @@ words; *vasishhTham* = to Vasista; *munishaarduulam* = the best of sages.
 When their applause gradually subsided, King Dasaratha spoke the following words to
 the best of sages, Vasishta.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the king’s speech concluded, a mighty roar of acclaim arose from the multitude (jana-ghoṣo mahān abhūt); and when that tumult had gradually subsided, the lord of men
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -288,6 +318,12 @@ for the anointing ceremony of Rama.
 
 "Oh Divine Vasishta! Be pleased to order now for the traditional ceremonial that is
 to be done and various accessories needed for the anointing ceremony of Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+spoke these words to Vasiṣṭha, that tiger among sages (muni-śārdūlam): “Whatever rite, together with all its ritual requisites (sa-paricchadam), is prescribed for Rāma’s consecration—”
 </details>
 </details>
 
@@ -338,6 +374,12 @@ who were there; *kR^itaaJNjaliin* = with folded hands; *agrataH* = before;
 
 Vasishta, the best of Brahmans, hearing the words of king Dasaratha, ordered the
 officers who stood there with folded hands before the king, as follows: -
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—all that, O revered sage, you ought to command today!” Hearing those words of the lord of the earth, Vasiṣṭha, the foremost of sages,
 </details>
 </details>
 
@@ -416,6 +458,20 @@ and clarified butter in separate vessels, new clothes, chariot, all weapons, the
 army, an elephant with auspicious signs, white fan, flag staff, white umbrella, one hundred golden
 pots with brilliant shine, bull with gilded horns and a complete tiger skin".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** commanded the attentive royal officers who stood with folded hands before the king: “Gold and other precious gems (suvarṇādīni ratnāni), ritual offerings (balīn), and all manner of sacred herbs (sarvauṣadhīr api);”
+
+**9:** “white garlands, parched grain (lājāṃś ca), honey and clarified butter in separate vessels (pṛthak ca madhu-sarpiṣī), brand-new unbleached garments (ahatāni ca vāsāṃsi), a chariot, and all weapons;”
+
+**10:** “a fourfold army (caturaṅga-balam), an elephant bearing auspicious marks, a pair of yak-tail whisks (cāmara-vyajane cobhe), a royal banner, and a white umbrella (chatraṃ ca pāṇḍuram);”
+
+**11:** “a hundred golden pitchers resplendent as blazing fire (śataṃ ca śātakumbhānāṃ kumbhānām agni-varcasām), a bull with gilded horns (hiraṇya-śṛṅgam ṛṣabham), and an entire tiger-skin (samagraṃ vyāghra-carma ca)—”
+
+**12:** “and whatever else is required, let all that be made ready, and place it tomorrow at dawn in the sacred fire-sanctuary (agny-agāre) of the lord of the earth!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -458,6 +514,12 @@ attractive smelling; *dhuupaiH* = incense.
 "If any other small things are required, arrange for all of them. Let the doorways
 of the royal palace and those of the entire city be worshipped with sandalwood paste, floral
 garlands and good smelling incense."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let the gateways of the inner palace and of the entire city be worshipped with sandal-paste and garlands (candana-sragbhiḥ) and with fragrant incense that captivates the sense of smell (ghrāṇa-hāribhiḥ).”
 </details>
 </details>
 
@@ -505,6 +567,12 @@ completely; *alaM bhavet* = sufficient for; *shatasaahasre* = one hundred thousa
 "Let fine rice of good quality with milk and yogurt, fully sufficient for one
 hundred thousand Brahmans be arranged."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Choice, wholesome food seasoned with curds and milk (dadhi-kṣīropasecanam), sufficient to satisfy a hundred thousand twice-born Brāhmaṇas (dvijānāṃ śata-sāhasram) to their heart’s content—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -545,6 +613,12 @@ yoghurt; *laajaaH cha* = corn and; *pushhkalaaH* = lot of; *dakshiNaashchaapi*
 
 "Let that rice be given with due respect to important Brahmans tomorrow at dawn;
 along with clarified butter, yogurt, corn, and lot of gifts."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“let that be reverently bestowed tomorrow at daybreak upon the foremost Brāhmaṇas, together with clarified butter, curds, parched grain, and munificent sacrificial fees (dakṣiṇāś cāpi puṣkalāḥ).”
 </details>
 </details>
 
@@ -588,6 +662,12 @@ summoned; *aasanaani cha* = and seats; *kalpyantaam* = be arranged.
 
 "There will be an invocation for the well being of all, tomorrow at sun rise. Let
 brahmanas be invited and suitable seats be arranged for them."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tomorrow, as soon as the sun has risen (sūrye 'bhyudita-mātre śvaḥ), the recitation of auspicious blessings (svasti-vācanam) shall take place; let the Brāhmaṇas be invited, and let their seats be prepared.”
 </details>
 </details>
 
@@ -639,6 +719,12 @@ cha sichyataaM cha* = let royal roads be made wet; *sarve* = (let)all;
 "Let the flags be hung and the royal highways be sprinkled with water. Let well
 dressed dancers and musicians wait in second enclosure in the royal compound."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let festive banners be tied aloft, let the royal highway be sprinkled with water (rāja-mārgaś ca sicyatām), and let all the musical performers (tālāpacarāḥ) and brightly adorned courtesans (gaṇikāś ca svalaṃkṛtāḥ)”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -684,6 +770,12 @@ dressed dancers and musicians wait in second enclosure in the royal compound."
 
 "As worshipping is to be done in temples and at road junctions, let some deserving
 people gather there with rice, eatables, presents and garlands separately."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“enter the second courtyard (kakṣyāṃ dvitīyām) of the royal palace and stand in attendance. And in the temples of the gods and at the sacred crossroad shrines (devāyatana-caityeṣu), accompanied by boiled rice, confections, and gifts—”
 </details>
 </details>
 
@@ -733,6 +825,12 @@ front yard of royal palace; *diirghaasibaddhaaH* = wearing long swords; *sannadd
 
 "Let all the warriors enter the well developed front yard of the royal palace with
 long swords, armors and clean clothing."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—objects worthy of garland-worship (mālya-yogyāḥ) should be separately presented. And let warriors wearing leather finger-guards and girt with long swords (dīrghāsi-baddha-godhāś ca), clad in armour and clean attire (mṛṣṭa-vāsasaḥ),”
 </details>
 </details>
 
@@ -784,6 +882,12 @@ sheshham* = (those things) that remained.
 Those wise men Vasishta and Vamadeva attentively ordered for all those things to be
 done there, informed that to king Dasaratha and performed the remaining things also.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“enter the great, festival-bright courtyard of the sovereign (mahārājāṅganam mahodayam)!” Having thus issued these commands, the two Brāhmaṇa sages, intent upon the rites there,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -831,6 +935,12 @@ words.
 Pleased and satisfied with the arrangements made Vasishta and Vamadeva approached
 king Dasaratha and told him that all had been done according to his words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+performed whatever remaining duties were theirs, and reporting to the lord of the earth, approached the ruler of the world and declared, “All has been accomplished (kṛtam ity eva)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -872,6 +982,12 @@ disciplined intellect; *aniiyataam* = be brought; *bhavataa* = by you;
 Afterwards, Dasaratha spoke to Sumantra "Let Rama, who has a disciplined intellect,
 be brought by you immediately."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleased and filled with joy, the two foremost twice-born sages spoke as they had been bidden; thereupon the radiant king addressed these words to Sumantra:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -912,6 +1028,12 @@ by the king.
 
 As commanded by the king, Sumantra brought there, Rama, the best of charioteers, in
 a chariot.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let Rāma of disciplined soul (kṛtātmā) be brought hither swiftly by you!” Having promised “So be it!” at the king’s command,
 </details>
 </details>
 
@@ -971,6 +1093,14 @@ Afterwards the kings belonging to east, west, north, south as well as those
 belonging to Mlechha kingdom, Aryaa Vartha kingdom and those ruling in hill and forest areas sat
 there and attended on King Dasaratha as celestials attended on Devendra.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** Sumantra brought Rāma, the foremost of chariot-warriors, to that place in his chariot. Meanwhile, seated there together with King Daśaratha at that time,
+
+**25:** monarchs of the eastern, northern, western, and southern realms (prācyodīcyāḥ pratīcyāś ca dākṣiṇātyāś ca bhūmipāḥ), as well as Mlecchas, Āryas, and others dwelling along the borders of forests and mountains (vana-śailānta-vāsinaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1014,6 +1144,14 @@ Devendra; *maruthaam* = in the midst of celestials; *dadarsha* = saw;
 The sage king Dasaratha, sitting in the midst of those kings like Devendra in the
 middle of the celestials, saw from the palace itself, his son Rama arriving in a chariot.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** all waited reverently upon him (upāsāṃ cakrire sarve), even as the gods attend upon Vāsava. Seated in their midst like Vāsava among the Maruts, that royal sage
+
+**27:** Daśaratha, from his palace, beheld his son approaching—resembling the King of the Gandharvas in beauty (gandharva-rāja-pratimam) and renowned throughout the world for his manly valour (vikhyāta-pauruṣam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1033,6 +1171,12 @@ middle of the celestials, saw from the palace itself, his son Rama arriving in a
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उनकी भुजाएँ बड़ी और बल महान् था । वे मतवाले गजराजके समान बड़ी मस्तीके साथ चल रहे थे । उनका मुख चन्द्रमासे भी अधिक कान्तिमान् था । श्रीरामका दर्शन सबको अत्यन्त प्रिय लगता था ।
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+long-armed (dīrgha-bāhum), of mighty strength, striding with the majestic gait of a rutting elephant (matta-mātaṅga-gāminam), with a countenance lovely as the moon (candra-kāntānanam), Rāma, supremely delightful to behold,
 </details>
 </details>
 
@@ -1086,6 +1230,12 @@ face, he looked like the moon. He stole the eyes and minds of the people by his 
 and virtues. King Dasaratha was thus not satiated enough in seeing Rama, coming like a cloud that
 gladdens people by relieving them from the scorching summer heat.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+captivating the eyes and hearts of all men (puṃsāṃ dṛṣṭi-cittāpahāriṇam) by his virtues of beauty and munificence (rūpaudārya-guṇaiḥ), and gladdening the subjects like a rain-cloud cooling those scorched by summer heat (gharmābhitaptāḥ parjanyam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1134,6 +1284,12 @@ father.
 
 Sumantra helped Rama to get down from the excellent chariot and with folded hands
 followed behind Rama, who approached his father.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing upon him as he approached, the lord of men could not be sated (na tatarpa paśyamānaḥ). Sumantra, having assisted Rāghava to alight from that foremost of chariots (avatārya syandanottamāt),
 </details>
 </details>
 
@@ -1185,6 +1341,12 @@ Dasaratha.
 Rama, the best among men, ascended the steps of the palace, which resembled Mount
 Kailaasa, along with Sumantra, to see the king Dasaratha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+followed behind him with folded hands (prāñjaliḥ pṛṣṭhato 'nvagāt) as he walked toward his father. That delight of the Raghus then
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1232,6 +1394,12 @@ father; *praNataH* = bowed down; *shraavayan* = mentioning; *svam* = his own;
 Rama with folded hands approached his father, bowed down mentioning his own name and
 offered salutations to his father's feet.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+swiftly ascended that palace gleaming like a peak of Mount Kailāsa (kailāsa-śṛṅgābhaṃ prāsādam) together with the charioteer to behold the king. Approaching with folded hands and bowing low in his father’s presence,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1272,6 +1440,12 @@ and; *sasvaje* = embraced.
 
 King Dasaratha took into his embrace that beloved son who was standing humbly beside
 him with folded hands.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma announced his own name (nāma svaṃ śrāvayan) and worshipped his father’s feet (vavande caraṇau pituḥ). Beholding him bowed at his side with cupped hands,
 </details>
 </details>
 
@@ -1318,6 +1492,12 @@ bhuushhitam* = decorated with gold and diamonds.
 
 King Dasaratha gave Rama a great throne, which was high, excellent and beautiful,
 decorated with gold and diamonds.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the king grasped him by his folded hands (gṛhyāñjalau), drew him close, and embraced his beloved son (sasvaje priyam ātmajam). And for him, duly prepared and adorned with gems and gold,
 </details>
 </details>
 
@@ -1366,6 +1546,12 @@ sun.
 Rama, occupying that great throne, caused it to shine with his own brightness, just
 as the spotless sun in the morning causes Meru mountain to shine with brilliance.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the king pointed out a splendid, supreme seat (ruciraṃ paramāsanam). Taking that foremost of seats, Rāghava illuminated it (vyadīpayata)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1413,6 +1599,12 @@ stars.
 Rama by his brilliance made that assembly to shine, just as the moon shines the
 clear autumnal sky, with the dimless stars and planets.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+by his own lustre, just as the cloudless sun at sunrise illuminates Mount Meru (merum udaye vimalo raviḥ); and lit up by him there, that assembly hall too shone forth resplendently—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1458,6 +1650,12 @@ son; *aatmanamiva* = as seeing oneself; *alankR^itam* = adorned;
 
 King Dasaratha was as delighted in seeing his beloved son, as one delights in seeing
 oneself adorned, in a mirror.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—like the autumn sky with its cloudless planets and stars illuminated by the moon (śāradī dyaur ivendunā). Gazing upon that beloved son, the monarch rejoiced (tutoṣa),
 </details>
 </details>
 
@@ -1509,6 +1707,12 @@ best; *putravataam* = among those who have sons; *sasmitam* = smilingly;
 King Dasaratha, the best among those who have sons, smilingly conversed with his
 son, and addressed Rama as follows, as Kasyapa does to (his eldest son) Devendra (the ruler of
 gods).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+as though beholding his own adorned self reflected upon the surface of a mirror (ādarśa-tala-saṃsthitam). Addressing that well-seated son, the foremost of fathers of sons
 </details>
 </details>
 
@@ -1580,6 +1784,14 @@ moon appears in conjunction with the constellation Pushya).
 princely kingdom on the day of Pushyami star (when the moon appears in conjunction with the
 constellation Pushya).."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**39:** spoke these words, even as Kaśyapa spoke to Devendra: “Born of my eldest and worthy queen (jyeṣṭhāyām asi me patnyāṃ sadṛśyām), you are a son worthy of me (sadṛśaḥ sutaḥ)!”
+
+**40:** “O Rāma, you have been born as my beloved son, foremost in virtues (guṇa-jyeṣṭhaḥ); and inasmuch as these subjects have been won over by you through your own excellences (svaguṇair anurañjitāḥ),”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1650,6 +1862,14 @@ habits; *kaamakrodha samutthaani* = born of desire and wrath.
 "Be even more humble and always keep the senses under control. Leave the bad habits
 born out of desire and wrath."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** “therefore, receive the office of Prince Regent under the conjunction of the Puṣya asterism (puṣya-yogena yauvarājyam avāpnuhi)! Indeed, by your very nature you are adjudged to be rich in every virtue (prakṛtyaiva nirṇīto guṇavān iti).”
+
+**42:** “Even though you are rich in virtues (guṇavaty api), O son, out of paternal affection I shall speak what is salutary for you: resorting to still greater humility (bhūyo vinayam āsthāya), be ever master of your senses (nityaṃ jitendriyaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1694,6 +1914,12 @@ others.
 **अनुवादः**
 
 "Through direct and indirect means, keep ministers and others happy."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Shun the royal vices born of desire and wrath (kāma-krodha-samutthāni vyasanāni); and conducting your rule through both indirect intelligence and direct personal oversight (parokṣayā vartamāno vṛttyā pratyakṣayā tathā),”
 </details>
 </details>
 
@@ -1757,6 +1983,14 @@ hence; *tvamapi* = you too; *aatmaanam* = (your)self; *samaachara* = act;
 (ruler of earth) are delighted when he fills the granaries and armories to the brim, making the
 common people delightful and happy. Hence, you too act like this."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**44:** “win the affection of all your subjects headed by the ministers (amātya-prabhṛtīḥ sarvāḥ prajāś caivānurañjaya), after amassing abundant stores in your granaries and armouries (koṣṭhāgārāyudhāgāraiḥ)!”
+
+**45:** “When a monarch rules the earth with his subjects cherished and devoted to him (iṣṭānurakta-prakṛtiḥ), his allies rejoice (nandanti mitrāṇi), even as the immortals rejoiced upon obtaining ambrosia (labdhvāmṛtam ivāmarāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1806,6 +2040,12 @@ news).
 The well -wishers of Rama, after hearing those words, intending to do good to
 Kausalya, immediately came to her and informed the matter to her.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O son, disciplining yourself (ātmānaṃ niyamya), act thus!” Hearing those words, the well-wishers of Rāma, eager to do what was pleasing to him (priya-kāriṇaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1845,6 +2085,12 @@ diamonds also; *priyaakhyebhyaH* = to those who informed the good news.
 
 The best among women, Kausalya gave away gold, cows and different types of diamonds
 to those who informed her good news.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+hastened swiftly and announced the glad tidings to Kausalyā (kausalyāyai nyavedayan). And she, the foremost of noble women, bestowed gold, kine, and manifold gems
 </details>
 </details>
 
@@ -1889,6 +2135,12 @@ _________________
 
 Rama, after offering salutations to king Dasaratha, ascended the chariot and went to
 his splendid house after being worshipped by the crowds on the way.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+upon those bearers of joyful news (priyākhyebhyaḥ). Then Rāghava, having bowed in salutation to the king, mounted his chariot and proceeded to his own radiant abode (svaṃ dyutimad veśma), honored on every side by multitudes of people.
 </details>
 </details>
 
@@ -1961,6 +2213,12 @@ thanks and render homage to the Gods.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूरनॆय सर्ग पूर्णवायितु. ॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And those citizens too, having heard that speech of the monarch as though they had swiftly gained their most cherished desire (lābham iveṣṭam āśu), took leave of the lord of men, returned to their homes, and, filled with supreme joy, worshipped the gods (devān samānarcuḥ).
 </details>
 </details>
 

@@ -37,6 +37,12 @@ _________________
 
 लक्ष्मणन मातन्नु केळि शत्रुसंहार माडुव श्रीरामनु हेळिदनु - सुव्रत सुमित्राकुमार! वृत्रासुरन वधॆय कथॆयन्नु पूर्णवागि हेळु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of Lakṣmaṇa, the slayer of foes [Rāma] (śatru-nibarhaṇaḥ) said: “Relate in full the slaying of Vṛtra, O keeper of noble vows (vṛtra-ghātam aśeṣeṇa kathayety āha suvrata)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामन आदेश पडॆद सुव्रत सुमित्रा नन्दन लक्ष्मणनु पुनः आ दिव्य कथॆयन्नु मुन्दुवरिसिदनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāghava, the increaser of Sumitrā’s joy (sumitrānanda-vardhanaḥ), steadfast in vows (suvrataḥ), once again narrated that divine story (bhūya eva kathāṃ divyāṃ kathayām āsa):
 </details>
 </details>
 
@@ -87,6 +99,12 @@ _________________
 
 प्रभो! सहस्राक्ष इन्द्रन हागू समस्त देवतॆगळ प्रार्थनॆयन्नु केळि भगवान् विष्णु इन्द्रादि ऎल्ल देवतॆगळल्लि इन्तॆन्दनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having heard the words of the thousand-eyed one and of all the dwellers in heaven (sahasrākṣa-vacaḥ śrutvā sarveṣāṃ ca divaukasām), Viṣṇu spoke this to all the gods headed by Indra (viṣṇur devān uvācedaṃ sarvān indra-purogamān):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -112,6 +130,12 @@ _________________
 
 देवतॆगळे! निम्म ई प्रार्थनॆय मॊदले नानु महात्मा वृत्रासुरन स्नेहबन्धनदल्लि बन्धितनागिद्देनॆ. अदक्कागि निम्म प्रियमाडुव उद्देशदिन्द नानु आ महा असुरन वधॆ माडलारॆनु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Of old I have been bound by ties of friendship to the great-souled Vṛtra (pūrvaṃ sauhṛda-baddho ’smi vṛtrasya ha mahātmanaḥ); therefore, even for your pleasure, I will not myself slay the great asura (tena yuṣmat-priyārthaṃ hi nāhaṃ hanmi mahāsuram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -136,6 +160,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरू निम्मॆल्लर उत्तम सुखद व्यवस्थॆ माडुवुदु नन्न अवश्य कर्तव्यवागिदॆ. इदक्कागि देवेन्द्रनु अवन वधॆ माडुवन्तह उपाय नानु हेळुत्तेनॆ.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Yet your supreme welfare must certainly be accomplished (avaśyaṃ karaṇīyaṃ ca bhavatāṃ sukham uttamam); therefore I shall declare a stratagem by which Vṛtra shall be slain (tasmād upāyam ākhyāsye yena vṛtro nihanyate).
 </details>
 </details>
 
@@ -164,6 +194,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुरश्रेष्ठरे! नानु नन्न स्वरूपभूत तेजवन्नु मूरु भागवागि माडुवॆनु. अदरिन्द इन्द्रनु निःसन्देहवागि वृत्रासुरन वधॆ माडुवनु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I shall divide myself into three parts, O foremost of gods (tridhābhūtaṃ kariṣyāmi hy ātmānaṃ sura-sattamāḥ); through that, the thousand-eyed one will undoubtedly slay Vṛtra (tena vṛtraṃ sahasrākṣo vadhiṣyati na saṃśayaḥ).
 </details>
 </details>
 
@@ -196,6 +232,12 @@ _________________
 नन्न तेजद ऒन्दु अंशवु इन्द्रनल्लि प्रवेशिसलि, इन्नॊन्दु वज्रदल्लि व्याप्तवागली, मूरनॆय अंश भूतळक्कॆ होगलि.* आग इन्द्रनु वृत्रासुरन वधॆ माडबल्लनु.॥.॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Let one portion enter Vāsava, the second into the thunderbolt itself (ekāṃśo vāsavaṃ yātu dvitīyo vajram eva tu), and the third into the earth (tṛtīyo bhūtalam); then Śakra will slay Vṛtra (śakras tadā vṛtraṃ vadhiṣyati).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -225,6 +267,14 @@ _________________
 
 देवेश्वर विष्णुवु हीगॆ हेळिदाग देवतॆगळु नुडिदरु - दैत्यविनाशकने! नीनु हेळिदुदु सरिये आगिदॆ, इदरल्लि सन्देहवे इल्ल. निनगॆ मङ्गळवागलि. नावु वृत्रासुरन वधॆय इच्छॆयन्नु मनस्सिनल्लिरिसिकॊण्डु इल्लिन्द मरळुवॆवु. परमोदार प्रभुवे! नीनु निन्न तेजदिन्दागि देवेन्द्रनन्नु अनुग्रहितनन्नागिसु.॥8-9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “While the Lord of the gods was speaking thus (tathā bruvati deveśe), the gods then spoke these words (devā vākyam athābruvan): ‘So it is, without doubt, just as you say, O slayer of daityas (evam etan na sandeho yathā vadasi daityahan)!
+
+**9:** “‘May good fortune attend you! Desiring the slaying of the asura Vṛtra, we shall depart (gamiṣyāmo vṛtrāsura-vadhaiṣiṇaḥ); enter Vāsava with your own splendor, O exceedingly munificent one (bhajasva paramodāra vāsavaṃ svena tejasā)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -249,6 +299,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर इन्द्रादि ऎल्ल महात्मा देवतॆगळु महाअसुर वृत्रासुरनु तपस्सु माडुत्तिद्द वनक्कॆ होदरु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then all those great-souled gods, headed by the thousand-eyed one (sahasrākṣa-purogamāḥ), set out for that forest where the great asura Vṛtra dwelt (tadāraṇyam upākrāman yatra vṛtro mahāsuraḥ).
 </details>
 </details>
 
@@ -278,6 +334,12 @@ _________________
 
 असुर श्रेष्ठ वृत्रासुरनु तन्न तेजदिन्द ऎल्लॆडॆ व्याप्तनागिरुवु दन्नु अवरु नोडिदरु. अवनु मूरुलोकगळन्नु कुडिदुबिडुवनो, आकाशवन्नु सुट्टु बिडुवनो ऎम्बन्तॆ तपस्सु माडुत्तिद्दनु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“They beheld that foremost of asuras blazing with fiery energy as he practiced penance (te paśyaṃs tejasā bhūtaṃ tapyantam asurottamam), seeming to drink up the three worlds and scorch the very sky (pibantam iva lokāṃs trīn nirdahantam ivāmbaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -302,6 +364,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ असुरश्रेष्ठ वृत्रनन्नु नोडुत्तले देवतॆगळु गाबरिगॊण्डु, नावु हेगॆ इवनन्नु वधिसबल्लॆवु? याव उपायदिन्द नम्म पराजय आगदिरुवुदु ऎन्दु योचिसतॊडगिदरु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“No sooner had they beheld that best of asuras than the gods fell into terror (dṛṣṭvaiva cāsura-śreṣṭhaṃ devās trāsam upāgaman): ‘How shall we slay him? How shall defeat not befall us (katham enaṃ vadhiṣyāmaḥ kathaṃ na syāt parājayaḥ)?’
 </details>
 </details>
 
@@ -331,6 +399,12 @@ _________________
 
 अवरु अल्लि हीगॆ योचिसुत्तिरुवागले सहस्राक्ष इन्द्रनु ऎरडू कैगळिन्द वज्रवन्नु ऎत्ति अदन्नु वृत्रासुरन तलॆय मेलॆ हॊडॆदनु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even as they stood deliberating there (teṣāṃ cintayatāṃ tatra), the thousand-eyed destroyer of citadels (sahasrākṣaḥ purandaraḥ), seizing the thunderbolt with both hands, hurled it onto Vṛtra’s head (vajraṃ pragṛhya pāṇibhyāṃ prāhiṇod vṛtra-mūrdhani).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -355,6 +429,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्द्रन वज्रायुधवु प्रळयाग्नियन्तॆ भयङ्कर प्रकाशमानवागित्तु. अदरिन्द महाज्वालॆगळु एळुत्तिद्दवु. अदर एटिनिन्द वृत्रासुरन मस्तकवु तुण्डागि बिद्दाग इडी जगत्तु भयभीतवायितु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the falling head of Vṛtra—blazing with great flame like the dreadful fire of doom (kālāgnineva ghoreṇa taptenaiva mahārciṣā | patatā vṛtra-śirasā)—the entire universe fell into terror (jagat trāsam upāgamat).
 </details>
 </details>
 
@@ -384,6 +464,12 @@ _________________
 
 निरपराधी वृत्रासुरनन्नु वधिसुवुदु अनुचितवागित्तु, आदरिन्द महायशस्वी देवेन्द्रनु बहळ चिन्तितनागि कूडले ऎल्ल लोकगळ कॊनॆगिरुव लोकालोक पर्वतदिन्द आचॆय अन्धकारमय प्रदेशक्कॆ हॊरटु होदनु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Brooding over that unseemly slaying of Vṛtra (asambhāvyaṃ vadhaṃ tasya vṛtrasya ... cintayānaḥ), the renowned lord of the gods fled swiftly to the very end of the worlds (jagāmāśu lokasyāntaṃ mahāyaśāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -408,6 +494,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 होगुवाग ब्रह्महत्यॆय तत्काल अवन बॆन्नु बिद्दु, अवनन्नु आक्रमिसितु. इदरिन्द इन्द्रन मनस्सिनल्लि भारी दुःखवायितु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Swiftly the sin of brahmin-slaughter pursued that fleeing Indra (tam indraṃ brahmahatyā ’ ’śu gacchantam anugacchati); it descended upon his limbs, and deep anguish entered into Indra (apatac cāsya gātreṣu tam indraṃ duḥkham āviśat).
 </details>
 </details>
 
@@ -434,6 +526,12 @@ _________________
 
 देवतॆगळ शत्रु हतनादनु. इदरिन्द अग्निये आदि ऎल्ल देवतॆगळु त्रिभुवनस्वामि विष्णुवन्नु पदे-पदे स्तुतिसुत्ता पूजिसतॊडगिदरु. आदरॆ अवर इन्द्रनु कण्मरॆयागिद्दनु. इदरिन्द अवरिगॆ बहळ दुःखवागुत्तित्तु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With their foe slain yet their Indra vanished (hatārayaḥ pranaṣṭendrāḥ), the gods headed by Agni (devāḥ sāgni-purogamāḥ) worshipped Viṣṇu, lord of the three worlds, again and again (viṣṇuṃ tribhuvaneśānaṃ muhur muhur apūjayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -458,6 +556,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 (देवतॆगळु हेळिदरु-) परमेश्वर ! नीने जगत्तिन आश्रय मत्तु आदिपिता आगिद्दीयॆ. नीनु समस्त प्राणिगळ रक्षणॆगागि विष्णुरूपवन्नु धरिसिरुवॆ.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘You are our refuge, O supreme Lord, the first-born Father of the universe (tvaṃ gatiḥ parameśāna pūrvajo jagataḥ pitā); for the protection of all living beings you have assumed the state of Viṣṇu (rakṣārthaṃ sarva-bhūtānāṃ viṣṇutvam upajagmivān).
 </details>
 </details>
 
@@ -484,6 +588,12 @@ _________________
 
 नीने ई वृत्रासुरनन्नु वधिसिरुवॆ. आदरॆ ब्रह्महत्यॆयु इन्द्रनिगॆ कष्ट कॊडुत्तिदॆ. आद्दरिन्द सुरश्रेष्ठ! नीनु अवन उद्धारद यावुदादरू उपाय तिळिसु.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘By you has this Vṛtra been slain, and now brahmin-slaughter afflicts Vāsava (hataś cāyaṃ tvayā vṛtro brahmahatyā ca vāsavam bādhate); O tiger among gods, ordain a deliverance from it (sura-śārdūla mokṣaṃ tasyā vinirdiśa)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -509,6 +619,12 @@ _________________
 
 देवतॆगळ मातन्नु केळि भगवान् विष्णु हेळिदनु - इन्द्रनु नन्न सलुवागि यज्ञ माडलि, नानु आ वज्रधारी देवेन्द्रनन्नु पवित्रगॊळिसुवॆनु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those words of the gods, Viṣṇu spoke (teṣāṃ tadvacanaṃ śrutvā devānāṃ viṣṇur abravīt): ‘Let Śakra worship me alone, and I shall purify the wielder of the thunderbolt (mām eva yajatāṃ śakraḥ pāvayiṣyāmi vajriṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -533,6 +649,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पवित्र अश्वमेध यज्ञद मूलक यज्ञ पुरुषन आराधनॆ माडि पाकशासन इन्द्रनु पुनः देवेन्द्रन पदवियन्नु पडॆदुकॊण्डनु. मत्तॆ अवनिगॆ याव भयवू इरलिल्ल.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Having worshipped me with the sacred horse sacrifice (puṇyena hayamedhena mām iṣṭvā), the chastiser of Pāka shall once again attain fearless sovereignty over the gods (punar eṣyati devānām indratvam akutobhayam).’
 </details>
 </details>
 
@@ -569,5 +691,11 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऎम्भत्तैदनॆय सर्ग पूर्णवायितु.॥85॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having imparted that nectar-like utterance to the gods (evaṃ sandiśya tāṃ vāṇīṃ devānām amṛtopamām), Viṣṇu, Lord of the gods, departed to heaven while being extolled by them (jagāma viṣṇur deveśaḥ stūyamānas triviṣṭapam).”
 </details>
 </details>

@@ -75,6 +75,12 @@ place; *suurye* = (when the) sun; *vimale abhyndite* = had clearly risen.
 Having spent the beautiful night under the big tree, Rama, Seetha and Lakshmana
 started from that place when the immaculate sun had risen.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed that auspicious night (rajanīṃ śivām) beneath that great banyan tree, they set forth from that region when the bright sun had risen (vimale ’bhyudite sūrye).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -99,6 +105,12 @@ started from that place when the immaculate sun had risen.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भागीरथी गङ्गॆयॊन्दिगॆ यमुनॆयु सेरुव प्रयागक्कॆ होगलु आ महावनदॊळगिन्द प्रयाण माडतॊडगिदरु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Plunging into the vast forest (vigāhya sumahad vanam), they journeyed toward that region where the Yamunā flows forth to meet the Bhāgīrathī Gaṅgā (bhāgīrathīṃ gaṅgāṃ yamunābhipravartate).
 </details>
 </details>
 
@@ -153,6 +165,12 @@ Comment: Emperor Bhagiratha had the credit of bringing down the stream to the
 terrestrial plane by dint of his devotion and austerities in order to purify the ashes of his
 departed grand uncles.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those illustrious ones (yaśasvinaḥ) went along beholding here and there varied tracts of land (bhūmi-bhāgān vividhān) and delightful regions never seen before (adṛṣṭa-pūrvān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -202,6 +220,12 @@ _________________
 Observing various trees while walking at ease, Rama spoke to Lakshmana (as follows)
 when the day had just receded.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Walking along at ease in safety (yathā-kṣemeṇa gacchan) and beholding varied trees, Rāma spoke to Saumitri when the day had just begun to decline (nivṛtta-mātre divase):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -250,6 +274,12 @@ near Prayaga (the confluence of the holy Ganga and Yamuna rivers); *manye* = I t
 of fire near Prayaga (the confluence of the holy Ganga and Yamuna rivers). I think that sage
 Bharadwaja is staying nearby."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold near Prayāga (prayāgam abhitaḥ), O Saumitri, the lofty column of smoke (dhūmam unnatam)—the banner of the blessed Fire-god (agner bhagavataḥ ketum); I think the sage is near at hand (sannihito muniḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -296,6 +326,12 @@ heard."
 
 "We have certainly reached the confluence of rivers Ganga and Yamuna. Yes, the noise
 produced by clashing of waters is heard."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely we have reached the confluence of the Gaṅgā and the Yamunā (saṃbhedaṃ gaṅgā-yamunayoḥ); for indeed the roaring sound of the water is heard, churned by colliding water (vāriṇo vāri-ghaṭṭitaḥ).
 </details>
 </details>
 
@@ -347,6 +383,12 @@ Bharadwaja."
 "Pieces of timber split up by men who are dependent upon forest-products, as also
 these trees of various kinds are seen in the hermitage of Bharadwaja."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Logs of wood split open (dārūṇi paribhinnāni) by forest-dwellers who subsist upon woodland produce (vanajair upajīvibhiḥ), as well as these varied trees, are seen in the hermitage of Bharadvāja.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -394,6 +436,12 @@ near the confluence of; *gaN^gaayamunayoH* = rivers Ganga and Yamuna; *divaakare
 Having walked comfortably, Rama and Lakshmana wielding their bows, reached the abode
 of the sage Bhardwaja, near the confluence of rivers Ganga and Yamuna, while the Sun was falling to
 the west.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having walked at ease, those two bowmen (dhanvinau tau), as the sun hung low in the west (lambamāne divākare), reached the abode of the sage at the confluence of the Gaṅgā and the Yamunā (gaṅgā-yamunayoḥ sandhau).
 </details>
 </details>
 
@@ -443,6 +491,12 @@ Having reached the hermitage and scaring the beasts and birds (by his very
 appearance as a bowman) and having proceeded on the intervening path for a while, Rama approached
 the vicinity of Bharadwaja.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached the hermitage and startling the deer and birds (trāsayan mṛga-pakṣiṇaḥ) by his unfamiliar martial aspect, Rāma walked for the space of a muhūrta along the path and approached Bharadvāja.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -489,6 +543,12 @@ distance.
 
 Arriving at the hermitage, the two valiant princes, who wished to see the sage,
 accompanied by Seetha, halted at first at some distance off.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having reached the hermitage itself, those two heroes—desirous of beholding the sage (muner darśana-kāṅkṣiṇau) and followed by Sītā—stood waiting at a respectful distance (dūrād evāvatasthatuḥ).
 </details>
 </details>
 
@@ -553,6 +613,14 @@ Entering the hermitage and beholding the high-souled sage who was austere and
 contemplative, his glance sharpened through severe meditation, surrounded by a group of disciples,
 who had kindled sacrificial fire, the highly fortunate man as he was, Rama together with Lakshmana
 and Seetha greeted him with joined palms.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Having entered, Rāma beheld that high-souled sage surrounded by bands of disciples (śiṣya-gaṇair vṛtam), of sharpened vows (saṃśita-vratam), one-pointed in concentration, who had gained spiritual vision through austerity (tapasā labdha-cakṣuṣam).
+
+**12:** The very moment he beheld that illustrious sage who had just offered the agnihotra oblation (hutāgnihotraṃ dṛṣṭvaiva), Rāma, with joined palms, bowed in salutation together with Saumitri and Sītā (sītayā cābhyavādayat).
 </details>
 </details>
 
@@ -628,6 +696,14 @@ austerities"
 "Here is my blessed and irreproachable wife Seetha, daughter of Janaka who has
 accompanied me to the lonely forest suitable for religious austerities."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** The elder brother of Lakṣmaṇa announced himself to him (nyavedayata cātmānam): “O blessed one, we two are Rāma and Lakṣmaṇa, the sons of Daśaratha.
+
+**14:** “This is my auspicious consort Vaidehī (bhāryā mameyaṃ vaidehī), the blameless daughter of Janaka, who has followed me into the solitary ascetic forest (vijanaṃ tapovanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -675,6 +751,12 @@ accompanied me to the lonely forest suitable for religious austerities."
 "While I was being sent to exile by my father, my young and beloved brother
 Lakshmana (son of Sumitra) of firm vows has also followed me to the forest."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And as I was being sent into exile by my father (pitrā pravrājyamānaṃ mām), this beloved younger brother of mine, Saumitri, of firm vows (dṛḍha-vrataḥ), followed me to the forest itself.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -721,6 +803,12 @@ fruits."
 
 "Oh, Venerable sage! Commanded by our father, we are entering a lonely forest to
 practise asceticism, living on roots and fruits."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Commanded by our father (pitrā niyuktāḥ), O blessed one, we shall enter the ascetic forest and practice righteousness alone there, subsisting upon roots and fruits (mūla-phalāśanāḥ).”
 </details>
 </details>
 
@@ -777,6 +865,12 @@ then offered Madhuparka* as well as water to wash his hands with.
 Comment: Madhuparka is a traditional offering which consists of a mixture of
 curds, butter, honey and the milk of the coconut as a welcome-drink.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of that wise prince, the righteous-souled sage thereupon caused to be brought a cow, the arghya offering, and water (gām arghyam udakaṃ tataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -817,6 +911,12 @@ accommodation.
 
 The sage, who had practiced austerities, gave them various kinds of delicacies
 prepared from wild roots and fruits and also arranged accommodation for them.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He of austere penance (tapta-tapāḥ) gave them varied foods and beverages derived from wild roots and fruits (vanya-mūla-phalāśrayān), and also arranged a lodging place for them (vāsaṃ caivābhyakalpayat).
 </details>
 </details>
 
@@ -887,6 +987,14 @@ hospitality.
 Bharadwaja then said these endowed with righteousness to Rama, who had since taken
 his seat after accepting the aforesaid hospitality:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** Seated surrounded on all sides by tame deer, birds, and ascetics (mṛga-pakṣibhir āsīno munibhiś ca), the sage honored Rāma upon his arrival with a word of welcome (svāgatenābhyarcya) and spoke to him.
+
+**20:** Having accepted that hospitality of worship, Bharadvāja then spoke this righteous speech (vākyaṃ dharma-yuktam) to Rāghava after he had taken his seat (upaviṣṭaṃ rāghavam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -934,6 +1042,12 @@ his seat after accepting the aforesaid hospitality:
 "In fact, I am seeing you, arriving here after a long time, Oh scion of Kakutstha!
 And I have heard of your unjust banishment."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“After a long time indeed (cirasya khalu), O Kākutstha, do I behold you arrived here; and I have heard of this causeless banishment of yours (vivāsanam akāraṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -979,6 +1093,12 @@ the confluence; *mahaanadyoH* = of the two great rivers; *viviktaH* = is seclude
 
 "This holy place at the confluence of the two rivers is secluded and delightful. You
 stay here comfortably."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This secluded place (avakāśo vivikto ’yam) at the confluence of the two great rivers (mahā-nadyoḥ samāgame) is both sacred and delightful; let your honor dwell here in happiness (vasatv iha bhavān sukham).”
 </details>
 </details>
 
@@ -1026,6 +1146,12 @@ the welfare of all; *pratyuvaacha* = replied; *shubham* = in these pleasant;
 
 Addressed in these words by Bharadwaja, Rama, born in Raghu dynasty, for his part,
 interested in the welfare of all, replied in the following pleasant words.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Bharadvāja, Rāghava—Rāma, ever devoted to the welfare of all beings (sarva-hite rataḥ)—replied with an auspicious speech:
 </details>
 </details>
 
@@ -1083,6 +1209,14 @@ hermitage.
 place. Finding me easy to see at this place, people keen to see Seetha and myself, I presume, will
 make their appearance at this hermitage. For this reason, I do not wish to stay here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** “O blessed one, the people of the city and the countryside (paura-jānapado janaḥ) are close to this place (ita āsannaḥ); perceiving me to be easily accessible here (sudarśam iha māṃ prekṣya), I think they will throng to this hermitage.
+
+**25:** “People eager to see Vaidehī and me (prekṣako janaḥ) will come here; for this reason I do not favor dwelling in this place (iha vāsaṃ na rocaye).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1133,6 +1267,12 @@ _________________
 "See some excellent Seetha suitable for a hermitage in some lonely place, Oh
 venerable sir, where Seetha, the daughter of Janaka, who is worthy of every comfort, may find
 delight in it."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Look out in a secluded quarter (ekānte paśya), O blessed one, for an excellent hermitage site (āśrama-sthānam uttamam) where Vaidehī, the daughter of Janaka who deserves every comfort (sukhārhā), may find delight.”
 </details>
 </details>
 
@@ -1187,6 +1327,12 @@ calculated as eighty miles. Making allowance for the difference in the standard 
 abtaining in those days the figure arrived at by the learned commentator appears to be fairly
 concet.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing this auspicious speech, the great sage Bharadvāja then spoke to Rāghava a reply that grasped his true purpose (vākyam artha-grāhakam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1215,6 +1361,12 @@ concet.
 अय्या! इल्लिन्द हत्तु हरदारि (क्रोश) (इतर व्याख्यानकारर प्रकार 30 हरदारि) दूरदल्लि ऒन्दु सुन्दर मत्तु महर्षिगळिन्द सेवित परमपवित्र पर्वतविदॆ. अल्लि नीवु वासिसबहुदु.॥28॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Ten krośas from here (daśa-krośa itaḥ), my dear son, lies a mountain where you shall dwell—frequented by great sages (maharṣi-sevitaḥ), sacred, and pleasant to behold on every side (sarvataḥ sukha-darśanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1271,6 +1423,12 @@ the distance is calculated as eighty miles. Making allowance for the difference 
 measurement abtaining in those days the figure arrived at by the learned commentator appears to be
 fairly concet.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Roaming with black-faced golāṅgūla langurs (golāṅgūlānucaritaḥ) and frequented by monkeys and bears, it is renowned as Citrakūṭa and resembles Mount Gandhamādana (gandhamādana-sannibhaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1316,6 +1474,12 @@ and never sets; *manaH* = his mind; *paape* = on sin."
 
 "As long as a man observes the peaks of Chitrakuta mountain, he will perform
 virtuous deeds and will never set his mind on a sin."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So long as a man beholds the peaks of Citrakūṭa (citra-kūṭasya śṛṅgāṇy avekṣate), he sets his heart upon auspicious deeds (kalyāṇāni samādhatte) and never turns his mind toward sin (na pāpe kurute manaḥ).
 </details>
 </details>
 
@@ -1369,6 +1533,12 @@ sport , ascended to heaven, duly attaining their final emancipation."
 Kapaala Shiras is the name of Shiva which means happiness or final
 emancipation.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Many sages, having sported there in austerity for a hundred autumns (vihṛtya śaradāṃ śatam), ascended to heaven through their penance along with Kapālaśiras (kapāla-śirasā saha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1416,6 +1586,12 @@ Rama!'
 "I consider that mountain to be a very lonely and comfortable place for you to live
 in. Orelse stay with m here itself, during the period of your exile, Oh Rama!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I deem that deeply secluded place (praviviktam) a happy abode for your honor; or else, O Rāma, dwell right here with me (iha vā vasa mayā saha) for the duration of your forest exile.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1461,6 +1637,12 @@ with his brother Lakshmana; *sarvakaamaiH* = with all desired objects.
 
 The pious sage Bharadwaja fulfilled all desires of Rama; who was his beloved guest
 and who was accompanied by his consort, Seetha and his brother, Lakshmana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing the law of righteousness, that Bharadvāja hospitably received (pratijagrāha) Rāma, his beloved guest (priyātithim), together with his consort and his brother, fulfilling all his desires (sarva-kāmaiḥ).
 </details>
 </details>
 
@@ -1508,6 +1690,12 @@ confluence of Ganga and Yamuna); *kathayataH* = was talking; *chitraah* = on var
 
 While Rama, having approached that great sage at Prayaga(the confluence of Ganga and
 Yamuna), was discoursing on various topics, the auspicious night arrived.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma, having approached that great sage at Prayāga, was recounting varied and auspicious discourses (puṇyāś citrāḥ kathayataḥ kathāḥ), the night drew on (prapannā rajanī).
 </details>
 </details>
 
@@ -1557,6 +1745,12 @@ Greatly fatigued, Rama(Scion of Kakutstha) accompanied by Seetha as the third
 (Lakshmana being the second) who was accustmed to all comforts, happily spent that night at the
 lovely hermitage of Bharadwaja.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With Sītā as the third of their company (sītā-tṛtīyaḥ), Kākutstha—though accustomed to every comfort and weary from the journey (pariśrāntaḥ sukhocitaḥ)—passed that night happily in the delightful hermitage of Bharadvāja.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1602,6 +1796,12 @@ approached; *munim* = the sage; *bharadvaajam* = Bharadwaja; *jvalita tejasam*
 
 When the night was gleaming into a dawn, Rama the lion among men approached the sage
 Bharadwaja, who was gleaming with resplendence and spoke as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the night had dawned into daybreak (prabhātāyāṃ rajanyāṃ tu), that tiger among men (nara-śārdūlaḥ) approached Bharadvāja and spoke to the sage of blazing splendor (jvalita-tejasam):
 </details>
 </details>
 
@@ -1649,6 +1849,12 @@ residence."
 
 "We have lodged in your hermitage tonight, Oh venerable sir! (Pray) you give us
 permission for fixing our residence now, Oh sage practicing truthfulness !"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O blessed one of truthful conduct (satya-śīla), we have passed the night today in your hermitage (śarvarīṃ tavāśrame uṣitāḥ sma); may your honor now grant us leave to proceed to our abode (vasatim anujānātu no bhavān).”
 </details>
 </details>
 
@@ -1702,6 +1908,12 @@ fruits."
 
 That night having come to an end, Bharadwaja replied for his part, as follows:
 "Proced to Chitrakuta, rich in honey, tubers and fruits."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that night had dawned (rātryāṃ tu tasyāṃ vyuṣṭāyām), Bharadvāja spoke this word: “Go forth to Citrakūṭa (citrakūṭaṃ vrajeti ha), which abounds in honey, roots, and fruits (madhu-mūla-phalopetam).
 </details>
 </details>
 
@@ -1761,6 +1973,14 @@ possessed of great strength! You set off for that well-known, sacred and lovely 
 Chitrakuta which is adoned with clusters of trees of every description, frequented by Kinnaras and
 Nagas, is rendered charming by the cried of peacocks and infested with lordly elephants and
 bountiful with tubers and fruits."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**39:** “I deem that a fitting abode for you (vāsam aupayikaṃ manye), O Rāma of mighty strength; for it is endowed with clusters of varied trees (nānā-naga-gaṇopetaḥ) and frequented by kinnaras and uraga serpents.
+
+**40:** “Resounding with the cries of peacocks (mayūra-nādābhirutaḥ) and frequented by lordly elephants (gaja-rāja-niṣevitaḥ), let that renowned Mount Citrakūṭa be visited by your honor—sacred, delightful, and abounding in roots and fruits (bahu-mūla-phalāyutaḥ).
 </details>
 </details>
 
@@ -1830,6 +2050,14 @@ nirjharaan* = fissures in rocks; caves and rivulets.
 
 "Roaming about with Seetha, your mind will be delighted to see rivers, cascades,
 peaks of mountains, fissures in rocks, caves and rivulets."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** “There herds of elephants and herds of deer (kuñjara-yūthāni mṛga-yūthāni ca) roam on all sides within the forest skirts; you shall behold them, O Rāghava.
+
+**42:** “As you wander together with Sītā (carataḥ sītayā sārdham) among the rivers, trickling cascades, tablelands, rock-clefts, caverns, and mountain torrents (sarit-prasravaṇa-prasthān darī-kandara-nirjharān), your heart shall rejoice (nandiṣyati manas tava).
 </details>
 </details>
 
@@ -1901,5 +2129,11 @@ many kinds of deer and elephants in rut, settle down there in a hermitage."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तनाल्कनॆय सर्ग पूर्णवायितु.॥54॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having reached that auspicious and most delightful mountain (vasudhā-dharaṃ śivam)—made resonant with the cries of joyful lapwings and cuckoos (prahṛṣṭa-koyaṣṭika-kokila-svanair vināditam) and frequented by exhilarated deer and many elephants—take up your abode in that hermitage (samāvasāśramam).”
 </details>
 </details>

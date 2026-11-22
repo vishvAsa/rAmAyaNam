@@ -136,6 +136,18 @@ He who is well-versed in Veda-s, who is a gatherer of all scholars, riches and
  Manu, the foremost protector of mankind. [1-6-3,4,5]
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** In that city of Ayodhyā dwelt King Daśaratha—knower of the Vedas, gatherer of all worthy men and resources, far-seeing in policy, of mighty splendor, and dearly beloved by both townsfolk and country-dwellers.
+
+**2:** An Atiratha warrior among the Ikṣvākus, a performer of Vedic sacrifices, devoted to Dharma, master of his senses, equal to a great seer (Maharṣi), that royal sage (Rājarṣi) was renowned across the three worlds.
+
+**3:** Possessed of a mighty fourfold army, with all his foes struck down, surrounded by loyal allies, and with his inner and outer organs subdued, he equaled Śakra (Indra) and Vaiśravaṇa (Kubera) in his treasures and manifold stores of wealth.
+
+**4:** Just as Manu Vaivasvata of mighty splendor was the protector of the world, even so was King Daśaratha the protector of the world.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -181,6 +193,12 @@ He that truth-abiding king, who adheres to the three-fold virtues rules the vast
 
 एतादृशे धार्मिके राज्ञि राज्यं प्रशासति सति,
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By him—true to his word and promise, and steadfastly pursuing the threefold human aim (Trivarga: Dharma, Artha, and Kāma)—that supreme city was protected, just as Amarāvatī is protected by Indra.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -222,6 +240,12 @@ He that truth-abiding king, who adheres to the three-fold virtues rules the vast
 In that best city Ayodhya all are exuberant yet virtuous ones, and scholars are
  variously learned ones, people are satisfied with their own riches, they have
  no greed, and they advocate truthfulness alone. [1-6-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In that best of cities, the men were joyful, righteous-souled, and deeply learned in the sacred scriptures; contented each with his own rightful wealth, free from covetousness, they spoke only the truth.
 </details>
 </details>
 
@@ -270,6 +294,12 @@ An ordinary family *kuTumba* is an assemblage of the householder, his wife,
  two of his parents, two sons, two daughters-in-law, one daughter, and one guest,
  totalling to ten members.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In that supreme city, there was no householder of scanty savings, nor any whose worldly or spiritual aims were unfulfilled, nor any lacking in cattle, horses, wealth, and grain.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -310,6 +340,12 @@ An ordinary family *kuTumba* is an assemblage of the householder, his wife,
 
 None can see a lustful person, or a miser or a cruel one anywhere in that Ayodhya,
  along with nondescripts or non-believers, for there are no such persons. [1-6-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nowhere in Ayodhyā could one behold a man enslaved by lust, or a miser, or a cruel and violent person, nor anyone unlearned, nor an atheist (Nāstika) who denies the hereafter.
 </details>
 </details>
 
@@ -358,6 +394,12 @@ None can see a lustful person, or a miser or a cruel one anywhere in that Ayodhy
 All the ladies and gentlemen in that city are virtuous in mind, self-controlled
  ones, they are all self-satisfied like great saints, and both in their conduct
  and character they are blameless. [1-6-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All men and women were steadfast in Dharma, thoroughly self-controlled, joyous, and—through their innate disposition and righteous conduct—spotless as the great seers (Maharṣis).
 </details>
 </details>
 
@@ -416,6 +458,12 @@ Earrings are the indicators of scholarship, and there are grades in their make
  and design, on par with the education one receives. The headgears present their
  social status, while other decorations are to exhibit their lavishness.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There was none without earrings, none without a diadem, none without flower-garlands, none of meager enjoyment, none unbathed or unanointed with oil, and none whose body was not smeared with sandal-paste and fragrant with musk and saffron.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,6 +505,12 @@ Earrings are the indicators of scholarship, and there are grades in their make
 There is none who is famsihed, an uncharitable one in his nature, one with an
  undecorated body with ornaments like bracelets or chest plates, and there is none
  without a heart. [1-6-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+None was seen eating impure or scanty food, none who was not a generous giver, none who did not wear upper-armlets (Aṅgadas) and golden breast-ornaments (Niṣkas), none without hand-bracelets and rings, and none with an unsubdued mind.
 </details>
 </details>
 
@@ -502,6 +556,12 @@ _________________
 There is none someone who is without sacrificial fires, and none without performing
  sacrificial rituals, and none is low in living; neither an immoral, nor a bastard
  nor even a thief, can be found in Ayodhya. [1-6-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There was no twice-born in Ayodhyā who did not maintain the sacred Vedic fires (Anāhitāgni), none who did not perform Soma sacrifices, none base or petty, no thief, none of degenerate conduct, and none born of ilícit intermixture of lineages (Saṅkara).
 </details>
 </details>
 
@@ -566,6 +626,12 @@ The donations received by Vedic scholars are not alms to beggars or charities
  befitting students only. Thus, the words, *daana* and *pratigrahaNa*
  mean all these rules to accept a donation or to accord it.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Brāhmaṇas were ever devoted to their own prescribed duties, masters of their senses, given to charity and Vedic study, and strictly restrained in accepting gifts (Pratigraha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -618,6 +684,12 @@ The donations received by Vedic scholars are not alms to beggars or charities
 
 There is no atheist, no liar, and none is less learnt in Veda-s, and no one is
  found to be jealous, or disabled, or unscholarly person. [1-6-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nowhere was there an atheist, nor a speaker of untruth, nor anyone of shallow learning, nor a detractor who finds fault in others' virtues (Asūyaka), nor anyone incompetent in his duties, nor anyone unlearned.
 </details>
 </details>
 
@@ -675,6 +747,12 @@ None can be found anywhere in Ayodhya without the knowledge of the six ancillari
  rituals, and none a non-donor in thousands, thus none with a saddened heart, turmoil
  in mind or agonised in will is there. [1-6-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There was none here who did not know the six Vedāṅgas (auxiliary sciences of the Veda), none who failed to observe sacred vows, none who did not give by the thousands, none wretched in body, none of distracted or deranged mind, and none afflicted with mental or bodily anguish.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -716,6 +794,12 @@ None can be found anywhere in Ayodhya without the knowledge of the six ancillari
 Whoever it may be, either a gentleman or a lady, none is without wealth, even
  none without elegance or devoid of devotion to their king, and it is impossible
  to see suchlike person in Ayodhya. [1-6-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nowhere in Ayodhyā could one behold any man or woman bereft of auspicious radiance (Śrī), or lacking in beauty of form, or devoid of loving devotion toward the King.
 </details>
 </details>
 
@@ -764,6 +848,12 @@ Though the word 'caste - Spanish and Portuguese *casta *- lineage, race, breed' 
  distasteful, it is used here for an easy communication. Latin *classis* - assembly'
  or section of society would be more suitable.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Across all four social orders—those having the foremost (Brāhmaṇa) as their fourth—all men were worshippers of the deities and honored guests, grateful for kindnesses received, munificent in charity, heroic, and endowed with valor.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -805,6 +895,12 @@ Though the word 'caste - Spanish and Portuguese *casta *- lineage, race, breed' 
 Longevity is there for all of the people, all are with virtuosity and truthfulness,
  and they lived in that best city along with their sons, grandsons and their ladies.
  [1-6-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All men in that supreme city were long-lived, steadfastly devoted to Dharma and truth, and ever surrounded by their wives, sons, and grandsons.
 </details>
 </details>
 
@@ -862,6 +958,12 @@ The warrior class Kshatriya-s is turned towards the Brahmans, the scholarly clas
  the rulership. And the fourth one, Shuudra-s, the working class, while performing
  its own duties, is always working for the other castes. [1-6-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Kṣatriya order looked to the Brāhmaṇas as their head and guide; the Vaiśyas followed the lead of the Kṣatriyas; and the Śūdras, devoted to their own Dharma, dutifully served the three higher orders.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -902,6 +1004,12 @@ The warrior class Kshatriya-s is turned towards the Brahmans, the scholarly clas
 
 That city is well protected by that king from Ikshwaku dynasty namely Dasharatha,
  like Manu, the foremost king of mankind in earlier times. [1-6-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That city was supremely well protected by that lord of the Ikṣvākus, just as it had been protected of old by the wise Manu, lord of mankind.
 </details>
 </details>
 
@@ -950,6 +1058,12 @@ That city is well protected by that king from Ikshwaku dynasty namely Dasharatha
 That city Ayodhya is replete with firebrand like skillful warriors that are intolerant
  of insults, and who have prosecuted their education in archery, chariot-wars,
  swordplay etc. and with them it is like a cave replete with lions. [1-6-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+It was filled with warriors blazing like fire, guileless and dexterous, brooking no insult from any foe, and accomplished in all the sciences of weaponry—even as a mountain cavern is filled with lions.
 </details>
 </details>
 
@@ -1057,6 +1171,12 @@ Sometime back, say during 1985-87, the
 
 इति । एतादृशस्य धर्म-प्रधानस्य दशरथस्य धर्म-प्रधानाः प्रधान-पुरोहिताः । 
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+It was filled with the finest steeds born in the Kāmboja country and the Bāhlīka land, as well as horses bred in Vanāyu and along the Sindhu river, rivaling Uccaiḥśravas, the steed of Indra.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1097,6 +1217,12 @@ Sometime back, say during 1985-87, the
 Born in Vindhya Mountains, and also from Himalayan regions, mighty are the elephants
  fully vigorous and fattened ones, and most powerful in their strength and each
  in similitude is a huge mountain. [1-6-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+It was filled as well with rutting elephants born in the Vindhya mountains and the Himālaya ranges—streaming with ichor, of immense strength, and huge as mountains.
 </details>
 </details>
 
@@ -1153,6 +1279,12 @@ It is said that eight elephants from eight corners called *aSTadiggaja*
  Elephant of Indra, *anjana* , the Elephant of *varuNa* , the Rain-god,
  *vaamana* , the Elephant of Yama, the Lord of Death, and another is *
  punDariika* . Thus, the elephants of Ayodhya are termed as divine breed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With tuskers sprung from the lineage of Airāvata and the race of Mahāpadma, and bred from the stocks of the directional elephants Añjana and Vāmana as well—
 </details>
 </details>
 
@@ -1236,6 +1368,14 @@ While residing in which city King Dasharatha ruled the world that city is furthe
  fortified up to two more yojana-s outside city, true to its name
  a yodhya , an un-assailable one. [1-6-26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** —and with elephants of the pure Bhadra, Mandra, and Mṛga breeds, as well as the threefold mixed breed (Bhadra-Mandra-Mṛga) and the twofold mixed breeds (Bhadra-Mandra, Bhadra-Mṛga, and Mṛga-Mandra)—that city was ever filled.
+
+**26:** Ever filled with perpetually rutting elephants massive as mountains, that city—true to her name `Ayodhyā' (the Unconquerable)—shines forth for two Yojanas and more, wherein King Daśaratha dwelt and protected the world.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1276,6 +1416,12 @@ While residing in which city King Dasharatha ruled the world that city is furthe
 In which city the great resplendent and admirable king Dasharatha resided, he
  ruled the world from that city with silenced enemies, like the moon governing
  the stars. [1-6-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That great King Daśaratha of mighty splendor, having quelled all his foes, ruled over that city just as the Moon rules over the constellations (Nakṣatras).
 </details>
 </details>
 
@@ -1336,5 +1482,11 @@ With gorgeous arches, castle-door-bars and with amazingly built houses that city
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि आरनॆय सर्ग पूर्णवायितु. ॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That auspicious city of Ayodhyā—true to her name, fitted with massive gateway-arches and locking wooden bolts, resplendent with manifold palaces, and teeming with thousands of men—the Sovereign Lord, equal to Śakra (Indra), ruled indeed.
 </details>
 </details>

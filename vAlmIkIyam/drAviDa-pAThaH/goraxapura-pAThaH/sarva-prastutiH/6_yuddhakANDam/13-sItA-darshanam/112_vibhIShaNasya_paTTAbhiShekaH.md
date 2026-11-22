@@ -64,6 +64,12 @@ kathaaH* = about the auspicious narratives.
 Having seen the destruction of Ravana, those gods, celestial musicians and demons,
 while chatting about the auspicious narrative, went away in their respective aerial cars.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding his brother slain, lying vanquished upon the battlefield (raṇe), Vibhīṣaṇa, his soul encompassed by the surge of grief (śokavegaparītātmā), lamented aloud.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,6 +132,14 @@ Rama, the admirable combat of the monkeys, the counsel tendered by Sugreeva, the
 valour of Lakshmana; the son of Sumitra; the loyaltyof Seetha to her husband and about the strength
 of Hanuma, the illustrious celestials and others rejoicingly returned as they had come.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “O hero of renowned valor, skillful and versed in statecraft (nayakovida), you who were endowed with a costly couch (mahārhaśayanopeta)—why do you lie slain upon the bare earth?
+
+**3:** “[Why do you lie here] having cast down your long, motionless arms adorned with armlets (aṅgadabhūṣitau), with your diadem—radiant as the sun's orb—tilted askew?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -172,6 +186,12 @@ Matali.
 
 Taking leave of the celestial chariot, which had been given by Indra the lord of
 celestials and which shone like fire, the mighty armed Rama respectfully saluted Matali.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O hero, that very calamity has now arrived which was foretold by me of old (pūrvam īritam), yet which did not please you when you were encompassed by passion and delusion (kāmamohaparītasya).
 </details>
 </details>
 
@@ -222,6 +242,12 @@ mounting; *divyam tam ratham* = that celestial chariot; *utpapaata* = ascended;
 As assented by Rama, Matali Indra's charioteer, mounting that celestial chariot,
 ascended to the heaven itself.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because out of pride (darpāt) neither Prahasta, nor Indrajit, nor other men, nor the transcendent warrior Kumbhakarṇa, nor Atikāya, nor Narāntaka, nor you yourself held [my counsel] in high regard—this bitter aftermath (udarkaḥ) thereof has now come!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -269,6 +295,12 @@ ascended to the heaven itself.
 When Matali ascended to heaven along with his chariot, Rama, the foremost one among
 the chariot-warriors was highly rejoiced and embraced Sugreeva.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Gone is the boundary-dike of men of sound policy (sunītānām); gone is the embodied form of righteousness (dharmasya vigrahaḥ); gone is the epitome of strength; gone is the refuge of valiant archers (suhastānām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -315,6 +347,12 @@ stationed.
 
 Having embraced Sugreeva greeted by Lakshmana and having been honoured by the
 monkey-troops. Rama came to the camp where the army had been stationed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now that this hero, the foremost of weapon-bearers (śastrabhṛtāṃ vare), has fallen to the earth, the sun has fallen to the ground, the moon is plunged in darkness, fire (citrabhānuḥ) has its flames quenched, and heroic enterprise (vyavasāyaḥ) is stripped of exertion!
 </details>
 </details>
 
@@ -377,6 +415,14 @@ to us.
 whom everyone is attached, a loyal person as he is and the one who has formerly done a service to
 us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “What remains now of this world, bereft of its vital strength (gatasattvasya), when this tiger among Rākṣasas lies in battle as though fast asleep in the dust?
+
+**9:** “Having steadfastness for its young shoots (dhṛtipravālaḥ), impetuous might for its choicest blossoms, asceticism for its strength, and valor for its deep-set roots (śauryanibaddhamūlaḥ), the great tree of the Rākṣasa king has been crushed in battle by the tempest of Rāghava (rāghavamārutena)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -419,6 +465,12 @@ Ravana; *abhiShiktam* = being consecrated for throne; *laN^kaayaam* = in Lanka.
 
 "O gentle one! This s my paramount desire that I should see this Vibhishana, the
 brother of Ravana being consecrated for throne in Lanka."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having fiery splendor for his tusks (tejoviṣāṇaḥ), noble lineage for his spine, and wrath and grace for his hind-limbs and trunk, the scent-elephant Rāvaṇa (rāvaṇagandhahastī), his body seized by the lion of the Ikṣvākus, lies asleep upon the earth!
 </details>
 </details>
 
@@ -480,6 +532,14 @@ sea-water.
 That mighty Lakshmana, then placing that pot in the hands of the monkey-chiefs,
 instructed them, who were as swift as thought, to bring sea-water.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “Having valor and energy for its blazing flames, wrathful sighs for its smoke (niḥśvāsadhūmaḥ), and his own host for its scorching heat, the puissant fire of the Rākṣasa (rākṣasāgniḥ) has been extinguished in battle by the rain-cloud Rāma (rāmapayodhareṇa)!
+
+**12:** “Having the fierce Rākṣasas for his tail, hump, and horns, the conqueror of foes, rushing like the wind in martial ardor (gandhanagandhavāhaḥ) and having caprice for his ears and eyes, the bull among Rākṣasas (rakṣovṛṣaḥ) has sunk down, slain by the tiger among kings!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -519,6 +579,12 @@ obtained; *jalam* = the water; *samudraat* = from the sea.
 
 Thereupon, those excellent monkeys, with the swiftness of thought, moving very
 quickly from that place, returned, having obtained the water from the sea.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unto Vibhīṣaṇa, who was overcome by grief (śokasamāviṣṭam) yet speaking reasoned words whose ascertained truth was clearly perceived (paridṛṣṭārthaniścayam), Rāma spoke thus:
 </details>
 </details>
 
@@ -603,6 +669,16 @@ ordinary delight; *tuShTuvuH* = (they) eulogized; *raameva hi* = Rama indeed.
 Then, all the demons as well as the monkeys consecrated Vibhishana. Having gained
 extra ordinary delight, they indeed eulogized Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “This warrior of fierce valor in combat (caṇḍavikramaḥ) has not perished motionlessly [in vain]; possessed of lofty and mighty energy, he has fallen utterly undaunted (aśaṅkitaḥ).
+
+**15:** “Warriors who abide steadfastly in the Kṣatriya code (kṣatradharmavyavasthitāḥ) and fall upon the battle-arena while aspiring for advancement (vṛddhim āśaṃsamānāḥ) are not mourned when they perish thus.
+
+**16:** “Now that this wise warrior—by whom all three worlds together with Indra (sendrāḥ) were terrorized in battle—has met his destined hour (kālasamāyukte), this is not the time to mourn.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -673,6 +749,14 @@ greatly delighted).
 Rama together with Lakshmana were greatly delighted. That Vibhishana, having gained
 that great kingdom bestowed on him by Rama, was also greatly delighted.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** “Never at any time has exclusive victory (ekāntavijayaḥ) existed in war: in battle, a hero is either slain by his foes (parair vā hanyate) or slays his foes.
+
+**18:** “For this is the path enjoined by the ancients (pūrvaiḥ saṃdiṣṭā) and honored by Kṣatriyas: a Kṣatriya slain in battle (saṃkhye) is not to be mourned—such is the settled rule.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -697,6 +781,12 @@ that great kingdom bestowed on him by Rama, was also greatly delighted.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामचन्द्रनु करुणिसिद आ विशाल राज्यवन्नु पडॆदु विभीषणनु तन्न प्रजॆगॆ सान्त्वन नीडि श्रीरामन बळिगॆ बन्दनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, beholding this settled rule thus and abiding in the truth (tattvam āsthāya), free from feverish grief (vijvaraḥ), reflect now upon what duty should next be performed here.”
 </details>
 </details>
 
@@ -743,6 +833,12 @@ demons who were residing in the city were quite delighted and brought to him (by
 curds, unbroken grains of rice, sweets shaped like balls, parched grains of unhusked rice and
 flowers too.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unto that valiant prince who had spoken these words, Vibhīṣaṇa, tormented by sorrow (śokasaṃtaptaḥ), spoke forthwith for his brother's welfare (bhrātur hitam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -787,6 +883,12 @@ objects; *raaghavaaya* = to Rama; *lakShmaNaaya* = and to Lakshmana;
 Accepting them, the valiant and unconquerable Vibhishana happily offered all those
 auspicious objects to Rama and Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who in past battles (vimardeṣu) was never before shattered by all the gods together or even by Vāsava himself, has been shattered in combat upon encountering you, like the swelling ocean upon encountering its shore (velām ivāsādya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -830,6 +932,12 @@ to him.
 
 Seeing Vibhishana, who had accomplished his act and increased his resources, Rama
 accepted it all, with a sole desire to show gratefulness to him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By him gifts were bestowed upon mendicants (vanīpakeṣu), pleasures were enjoyed, dependents were well nourished (nibhṛtāś ca bhṛtyāḥ), riches were consigned to friends, and hostilities were exacted upon foes.
 </details>
 </details>
 
@@ -879,6 +987,12 @@ Thereupon, Rama spoke the following words to the valiant Hanuma the monkey who w
 equal in size to a mountain and who was standing in humility, with his hands joined in
 salutation.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He maintained the consecrated Vedic fires (āhitāgniś ca), practiced great austerities, mastered the conclusion of the Vedas (vedāntagaḥ), and was a foremost hero in sacrificial rites; by your grace, I wish to perform what is due for him now that he has departed to the hereafter (pretagatasya).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -925,6 +1039,12 @@ Seetha.
 
 "O the benevolent one! Taking permission from this Vibhishana, the great king and
 entering into the City of Lanka, inform about our welfare to Seetha."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rightly moved by those piteous words of Vibhīṣaṇa, that magnanimous prince (narendrasūnuḥ) of unblemished spirit commanded the obsequial rite conducive to heaven (svargīyam ādhānam):
 </details>
 </details>
 
@@ -1004,6 +1124,12 @@ ought to return, taking back her message."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरहन्नॆरडनॆय सर्ग पूर्णवायितु.॥112॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hostilities end with death (maraṇāntāni vairāṇi); our purpose has been accomplished (nirvṛttaṃ naḥ prayojanam). Let his funeral rites be performed; he is as much mine as he is yours!”
 </details>
 </details>
 

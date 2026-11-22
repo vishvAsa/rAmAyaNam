@@ -68,6 +68,12 @@ wall of that house.
 That Hanuma with great resplendence thought for a moment, obtained that Ashoka garden by mind and
 jumped from the compound wall of that house.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having meditated for a moment, as it were (muhūrtam iva dhyātvā), and having reached her [Sītā] with his mind (manasā cādhigamya tām), the supremely radiant one (mahātejāḥ) leaped down from the enclosure wall of that palace [onto the wall of the Aśoka grove].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -92,6 +98,12 @@ jumped from the compound wall of that house.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्राकारद मेलिद्द आ महाकपिवरनु पुलकितगात्रनागि, वसन्त ऋतुविन प्रारम्भदल्लि समृद्धवागि पुष्पगळिन्द कूडिरुव विध-विधवाद वृक्षगळन्नु आ अशोकवनदल्लि नोडिदनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing upon the enclosure wall (prākārasthaḥ) with every limb bristling in joy (saṃhṛṣṭasarvāṅgaḥ), that great monkey beheld manifold trees (vividhān drumān) with blossom-crowned tips at the onset of spring (vasantādau):
 </details>
 </details>
 
@@ -164,6 +176,14 @@ surrounded by hundreds of creepers
 Thereafter Hanuma flew like a Naracha arrow released from bow string, toward the garden covered
 by mango trees and surrounded by hundreds of creepers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** [He beheld] sāla trees, aśokas, bhavyas, and richly blossoming campakas (campakāṃś ca supuṣpitān), as well as uddālakas, nāgavṛkṣas [ironwood trees], and monkey-faced mango trees (cūtān kapimukhān api).
+
+**4:** [Beholding those trees] abounding in mango groves (āmravaṇasampannān) and twined with hundreds of creepers (latāśatasamanvitān), he sprang into the pleasure-grove of trees (vṛkṣavāṭikām) like an iron arrow loosed from a bowstring (jyāmukta iva nārācaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,6 +225,14 @@ _________________
 
 अवनु चित्र-विचित्रवाद वृक्षवाटिकॆयन्नु हॊक्कनु. अल्लि पक्षिगळ किल-किल ध्वनिगळु तुम्बिद्दवु. चिन्न मत्तु बॆळ्ळियन्तॆ शोभिसुव वृक्षगळिन्दलू, पक्षिगळ, मृगगळ समूहगळिन्द कूडिद्दु विचित्रवागि काणुत्तित्तु. अदु उदिसिद सूर्यकान्तियन्तॆ प्रकाशिसुत्ता विराजिसुत्तिद्दितु. हनुमन्तनु अन्तह विचित्रवाद उद्यानवनवन्नु नोडिदनु.॥5-6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Having entered that variegated [grove] (vicitrāṃ tām), which resounded with birds (vihagair abhināditām) and was surrounded on all sides by silvery and golden trees (rājataiḥ kāñcanaiś caiva pādapaiḥ),—
+
+**6:** —mighty Hanumān (hanumān balī) beheld that [grove], variegated with birds and herds of deer (mṛgasaṅghaiś ca), possessing wondrous woodland thickets (citrakānanām), and shining like the newly risen sun (uditādityasaṃkāśām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -229,6 +257,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 फूलों और फलोंसे लदे हुए नाना प्रकारके वृक्षोंसे व्याप्त हुई उस अशोकवाटिकाका मतवाले कोकिल और भ्रमर सेवन करते थे ॥ ७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He beheld that grove] surrounded by manifold trees bearing flowers and bearing fruits (puṣpopagaphalopagaiḥ), and perpetually frequented by intoxicated cuckoos and bhṛṅgarāja birds (kokilair bhṛṅgarājaiś ca mattaiḥ),—
 </details>
 </details>
 
@@ -284,6 +318,12 @@ by birds and groups of animals; wonderful with wonderful trees equaling the Sun 
 of various kinds which obtained flowers and fruits, served daily by Cuckoos and by dragon flies, resounded by
 peacocks in heat and with groups of birds of various kinds.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—[a grove] where human beings rejoiced in that [vernal] season (prahṛṣṭamanujāṃ kāle), astir with the rapture of deer and birds (mṛgapakṣimadākulām), resounding with intoxicated peacocks (mattabarhiṇasaṃghuṣṭām), and teeming with flocks of diverse birds (nānādvijagaṇāyutām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -332,6 +372,12 @@ the royal daughter Seetha; *vara aarohaam* = with excellent limbs; *aninditaam* 
 Hanuma searching the royal daughter Seetha with excellent limbs and without blame, woke up birds
 in comfortable sleep.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Searching (mārgamāṇaḥ) for the irreproachable princess of comely hips (varārohāṃ rājaputrīm aninditām), the monkey awakened the birds that were sweetly sleeping (sukhaprasuptān vihagān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -374,6 +420,12 @@ various kinds.
 
 Trees hit by wings of groups of birds in flight shed showers of flowers of various colours and
 of various kinds.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck by the wing-winds (pakṣair vātaiḥ samāhatāḥ) of the flocks of birds flying upward (utpatadbhir dvijagaṇaiḥ), [the trees] shed manifold, many-hued showers of blossoms (puṣpavṛṣṭayaḥ).
 </details>
 </details>
 
@@ -425,6 +477,12 @@ avakiirNaH* = sprinkled with flowers shushubhe = shone; *giriH yathaa* = like a 
 The son of Lord Vayu, Hanuma sprinkled with flowers shone like a mountain of flowers in the middle
 of Ashoka garden.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Strewn over with blossoms (puṣpāvakīrṇaḥ), Hanumān, son of Māruta (mārutātmajaḥ), shone in the midst of the Aśoka grove like a mountain made of flowers (puṣpamayo giriḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -474,6 +532,12 @@ be) vasanta.
 
 Seeing Hanuma running in all directions and being in the middle of trees, all living creatures
 thought Him to be Vasanta, the lord of spring.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the monkey coursing toward all quarters (diśaḥ sarvābhidhāvantam) amidst the clumps of trees (vṛkṣakhaṇḍagatam), all creatures imagined, ‘This is Spring himself (vasanta iti menire)!’
 </details>
 </details>
 
@@ -525,6 +589,12 @@ woman.
 There the Earth sprinkled by flowers of various kinds which fell down from trees shone like a well
 decorated woman.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Strewn over with manifold flowers fallen from the trees (vṛkṣebhyaḥ patitaiḥ puṣpair avakīrṇā), the earth (vasudhā) shone there like a young woman adorned (pramadeva vibhūṣitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -571,6 +641,12 @@ shaken; *tarasaa* = by the might; *kapinaa* = of Hanuma; *tarasvinaa* = the migh
 **अनुवादः**
 
 Then those trees, shaken by the might of Hanuma the mighty one, showered wonderful flowers.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Violently shaken in many ways (tarasā bahu kampitāḥ) by that impetuous monkey (tarasvinā kapinā), those trees then shed variegated blossoms (kusumāni vicitrāṇi sasṛjuḥ).
 </details>
 </details>
 
@@ -622,6 +698,12 @@ kept down.
 The trees with their branches, removed leaves with fallen down fruits and flowers were like defeated
 gamblers with their clothes and jewellery kept down.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With their leafy crests shaken bare (nirdhūtapatraśikharāḥ)—trees whose flowers and fruits were scattered down (śīrṇapuṣpaphaladrumāḥ)—they resembled defeated gamblers who have cast off their garments and ornaments (nikṣiptavastrābharaṇā dhūrtā iva parājitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -669,6 +751,12 @@ fruits.
 **अनुवादः**
 
 The excellent trees shining with best flowers fell down instantly flowers, leaves and fruits.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shaken by swift Hanumān (hanūmatā vegavatā kampitāḥ), those foremost of fruit-bearing trees (nagottamāḥ phalaśālinaḥ) quickly shed their flowers, leaves, and fruits (puṣpapatraphalāny āśu mumucuḥ).
 </details>
 </details>
 
@@ -719,6 +807,12 @@ being resort to branches only; *agamaaH iva* = like trees; *nirdhutaaH* = shook;
 
 All those trees losing groups of birds became being a resort to branches only like trees shook
 by wind.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bereft of flocks of birds (vihaṃgasaṅghair hīnāḥ) and reduced to having only their trunks remaining (skandhamātrāśrayāḥ), all those trees shaken by the son of Māruta (mārutena vinirdhutāḥ) became unapproachable (babhūvur agamāḥ).
 </details>
 </details>
 
@@ -785,6 +879,14 @@ Hit by Hanuma's tail, hands and feet, Ashoka garden with broken best trees becam
 woman with disturbed hair, with effaced sandal paste, with her auspicious teeth and lips drunk from and wounded
 by nails and by teeth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** Just as a young woman (yuvatiḥ) [after amorous sport] has her hair disheveled (vidhūtakeśī), her cosmetic paste rubbed away (mṛditavarṇakā), her fair teeth-guarded lips sipped (nipītaśubhadantoṣṭhī), and is scratched by nails and teeth (nakhair dantaiś ca vikṣatā),—
+
+**19:** —even so, crushed by his tail and hands (lāṅgūlahastais tu) and by both his feet (caraṇābhyāṃ ca marditā), the Aśoka grove had its woodland trees shattered (prabhagnavanapādapā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -827,6 +929,12 @@ clouds of mountain Vindhya.
 
 Hanuma broke circles of great creepers by His might like the wind during rainy season, breaking
 the groups of clouds of mountain Vindhya.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his impetuous might (tarasā), the monkey tore apart the festoons of great creepers (mahālatānāṃ dāmāni vyadhamat), just as the wind violently scatters banks of clouds in the rainy season (prāvṛṣi vegena meghajālāni mārutaḥ).
 </details>
 </details>
 
@@ -877,6 +985,12 @@ floors.
 That Hanuma pacing there saw diamond studded floors, silver inlaid floors, and beautiful gold inlaid
 floors.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roaming about there (tatra vicaran), the monkey beheld (dadṛśe) charming pavements of gem-stones (maṇibhūmīś ca), silvery terraces (rājatīś ca manoramāḥ), and likewise floors of gold (kāñcanabhūmīś ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -901,6 +1015,14 @@ floors.
 
 उस वाटिकामें उन्होंने जहाँ-तहाँ विभिन्न आकारोंकी बावड़ियाँ देखीं, जो उत्तम जलसे भरी हुईं और मणिमय सोपानोंसे युक्त थीं । उनके भीतर मोती और मूँगोंकी बालुकाएँ थीं । जलके नीचेकी फर्श स्फटिक मणिकी बनी हुई थी और उन बावड़ियोंके तटोंपर तरह-तरहके विचित्र सुवर्णमय वृक्ष शोभा दे रहे थे ॥ २२-२३ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** [He also beheld] pleasure-tanks of manifold shapes (vāpīś ca vividhākārāḥ) filled with supreme water (pūrṇāḥ paramavāriṇā) and furnished here and there with priceless flights of jeweled steps (mahārhair maṇisopānair upapannāḥ),—
+
+**23:** —whose sands were pearls and coral (muktāpravālasikatāḥ), whose inner paved floors were of crystal (sphāṭikāntarakuṭṭimāḥ), and which were graced with wondrous golden trees growing along their banks (kāñcanais tarubhiś citrais tīrajaiḥ),—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -924,6 +1046,12 @@ _________________
 
 उनमें खिले हुए कमलोंके वन और चक्रवाकोंके जोड़े शोभा बढ़ा रहे थे तथा पपीहा, हंस और सारसोंके कलनाद गूँज रहे थे ॥ २४ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—[tanks] containing beds of full-blown lotuses and water-lilies (buddhapadmotpalavanāḥ), graced by cakravāka birds, echoing with the cries of gallinules (natyūharutasaṃghuṣṭāḥ), and resonant with swans and cranes (haṃsasārasanāditāḥ),—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -943,6 +1071,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 अनेकानेक विशाल, तटवर्ती वृक्षोंसे सुशोभित, अमृतके समान मधुर जलसे पूर्ण तथा सुखदायिनी सरिताएँ चारों ओरसे उन बावड़ियोंका सदा संस्कार करती थीं (उन्हें स्वच्छ जलसे परिपूर्ण बनाये रखती थीं) ॥ २५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—[tanks] replenished on all sides (samantataḥ upasaṃskṛtāḥ) by long, tree-lined streams (dīrghābhir drumayuktābhiḥ saridbhiḥ) that were auspicious and held nectar-like waters (amṛtopamatoyābhiḥ śivābhiḥ),—
 </details>
 </details>
 
@@ -1000,6 +1134,12 @@ by trees of golden hue and of wonderful hue at banks containing beds of lotuses 
 by chakravaka birds nearby, sounded by water fowls, resounded by swans and cranes, together with tall trees, with
 nectar like waters, with hundreds of auspicious creepers, covered by the flowers of santaana trees, surrounded
 by various shrubs with middle regions of karaveera and also wells and in various shapes.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—overhung with hundreds of creepers (latāśatair avatatāḥ), covered with saṃtāna [kalpavṛkṣa] blossoms (saṃtānakusumāvṛtāḥ), having their waters bordered by diverse thickets (nānāgulmāvṛtavanāḥ), and having their intervals set with oleanders (karavīrakṛtāntarāḥ).
 </details>
 </details>
 
@@ -1062,6 +1202,14 @@ Thereafter the monkey warrior Hanuma saw a mountain which was a beautiful mounta
 equaling cloud with high peaks, with wonderful peaks surrounded in all directions by peaks, spread by caves and
 covered by different trees.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** Thereafter, [he beheld] a mountain resembling a rain-cloud (ambudharasaṃkāśaṃ girim), with lofty peaks (pravṛddhaśikharam), possessing a wondrous crest and ringed on all sides by lesser peaks (vicitrakūṭaṃ kūṭaiś ca sarvataḥ parivāritam),—
+
+**28:** —overspread with rock-grottos (śilāgṛhair avatatam) and cloaked in manifold trees (nānāvṛkṣasamāvṛtam): that tiger among monkeys (kapiśārdūlaḥ) beheld that mountain, lovely in all the world (ramyaṃ jagati parvatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1087,6 +1235,12 @@ covered by different trees.
 
 प्रियतमन तॊडॆयिन्द मेलॆद्दु दूरसरिदु निल्लुव प्रेयसियन्तॆ आ पर्वतदिन्द कॆळक्कॆ धुमुकुत्तिद्द नदियॊन्दन्नु हनुमन्तनु नोडिदनु.॥29॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the monkey beheld a river cascading down from that mountain (nagāt tasmān nadīṃ nipatitām), like a beloved woman who has sprung up [in anger] from her lover's lap and fallen down (aṅkād iva samutpatya priyasya patitāṃ priyām),—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1111,6 +1265,12 @@ covered by different trees.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लिद्द वृक्षगळ तुदिगळु धुमुकुत्तिद्द नदिय नीरिनिन्द तॊय्दुहोगिद्दवु. पर्वतद मेलिनिन्द हरिदुबरुत्तिद्द नदिय नीरु दट्टवागि बॆळॆदु निन्तिद्द वृक्षगळिन्द तडॆयल्पडुत्तित्तु. अदन्नु नोडिदरॆ क्रुद्धळागि प्रियनन्नु अगलि हॊरट प्रमदॆयन्नु सखीगडणवु तडॆयुत्तिरुवरो ऎम्बन्तॆ काणुत्तित्तु.॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—graced by trees whose tips dipped into the water (jale nipatitāgraiś ca pādapaiḥ), like a wrathful young woman being held back by her dear kinsfolk (vāryamāṇām iva kruddhāṃ pramadāṃ priyabandhubhiḥ).
 </details>
 </details>
 
@@ -1158,6 +1318,12 @@ Hanuma saw river which fell down from the mountain like a beloved (young wife) w
 jumping from the lap of a loved one shone by trees whose ends fell down in water or like a woman in anger being
 detained by her near and dear. That great Hanuma again saw that river with water, turning back like a beloved
 woman reaching her beloved again, being reconciled to her beloved one.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And that great monkey beheld [that river] with its waters eddying back again (punarāvṛttatoyāṃ ca), like a beloved woman who, having grown favorable once more, has returned to her lover's side (prasannām iva kāntasya kāntāṃ punar upasthitām).
 </details>
 </details>
 
@@ -1209,6 +1375,12 @@ of birds.
 The best among vanaras and the son of Vayu, that Hanuma saw near to that mountain, lotus ponds
 together with many groups of birds.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not far from that [mountain] (tasyādūrāt), Hanumān, son of Māruta and tiger among monkeys (kapiśārdūlo hanūmān mārutātmajaḥ), beheld lotus-ponds (padminyaḥ) teeming with flocks of diverse birds (nānādvijagaṇāyutāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1236,6 +1408,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुन्दॆ होगुत्तिद्दाग हनुमन्तनु अल्लि कृत्रिमवाद सरोवरगळन्नु नोडिदनु. अवु शीतलवाद नीरिनिन्द तुम्बिद्दवु. श्रेष्ठवाद रत्नगळिन्द कल्पितवाद सोपानगळिन्द कूडिद्दु, मुत्तिन मरळिनिन्द शोभिसुत्तिद्दवु.॥33॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He beheld] also an artificial oblong lake (kṛtrimāṃ dīrghikāṃ cāpi) filled with cool water (pūrṇāṃ śītena vāriṇā), possessing flights of steps made of the choicest gems (maṇipravarasopānām) and graced with sands of pearl (muktāsikataśobhitām),—
 </details>
 </details>
 
@@ -1286,6 +1464,12 @@ He also saw an artificial pond filled with cold water, with steps embedded with 
 shone by the sand of pearls, wonderful forest with very big buildings made by Vishwakarma, with groups of artificial
 trees decorated in all directions.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—variegated with diverse herds of deer (vividhair mṛgasaṅghaiś ca), bordered by wondrous groves (citrakānanām), [and surrounded] by vast palaces fashioned by Viśvakarman (prāsādaiḥ sumahadbhiś ca nirmitair viśvakarmaṇā),—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1335,6 +1519,12 @@ there; *puSpa upaga phala upagaaH* = with flowers and fruits; *sarve* = all thos
 
 There whatever trees were there with flowers and fruits, all those were together with umbrellas,
 together with big platforms and with smaller golden platforms.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and adorned on all sides with artificial groves (kānanaiḥ kṛtrimaiś cāpi): whatever trees were there, bearing flowers and bearing fruits (puṣpopagaphalopagāḥ),—
 </details>
 </details>
 
@@ -1400,6 +1590,14 @@ bahubhiH lataa prataanaiH* = with many groups of creepers; *bahubhiH parNaiH* = 
 The monkey warrior Hanuma saw one shimshupaa tree golden in colour covered with many groups of
 creepers and with many leaves surrounded everywhere with platforms made of gold.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** —all had canopy-like crowns (sacchatrāḥ), raised platforms (savitardīkāḥ), and golden terraces (sarve sauvarṇavedikāḥ). [And he beheld one tree] enveloped with many creeper-tendrils and thick foliage (latāpratānair bahubhiḥ parṇaiś ca bahubhir vṛtām),—
+
+**37:** —that great monkey beheld a single golden śiṃśapā tree (kāñcanīṃ śiṃśapām ekām), surrounded on all sides by golden platforms (vṛtāṃ hemamayībhis tu vedikābhiḥ samantataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1431,6 +1629,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इसके सिवा उन्होंने और भी बहुत-से खुले मैदान, पहाड़ी झरने और अग्निके समान दीप्तिमान् सुवर्णमय वृक्ष देखे ॥ ३८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He saw terraced expanses of ground (bhūmibhāgāṃś ca) and mountain cascades (nagaprasravaṇāni ca), and beheld other trees of gold gleaming like fire (suvarṇavṛkṣān aparān dadarśa śikhisaṃnibhān).
 </details>
 </details>
 
@@ -1497,6 +1701,12 @@ of those trees, I am of golden colour."
 
 Hanuma saw lands, mountain springs, and some other golden trees equal to fire.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathed in the radiance of those trees (teṣāṃ drumāṇāṃ prabhayā), which was like that of Mount Meru (meror iva), the heroic great monkey then thought on all sides, ‘I am made of gold (kāñcano 'smīti)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1553,6 +1763,12 @@ got surprised.
 
 Seeing that shimshupaa tree with groups of trees of golden colour blown by the wind, with the sound
 of hundreds of tinkle bells, Hanuma got surprised.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those golden clumps of trees (tān kāñcanān vṛkṣagaṇān) shaken by the wind (mārutena prakampitān) and chiming with the sound of hundreds of little bells (kiṅkiṇīśatanirghoṣān), he was filled with wonder (vismayam āgamat).
 </details>
 </details>
 
@@ -1631,6 +1847,14 @@ Rama; *sampatantiim* = while she is moving; *itaH ca itaH ca* = here and there; 
 
 "I will see by God's grace, Seetha who is interested in the sight of Sri Rama while she is moving
 here and there with grief."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** [Beholding those trees] with blossom-crowned tips, radiant and bearing tender shoots and sprouts (taruṇāṅkurapallavān), the supremely swift one climbed that leaf-shrouded śiṃśapā tree (tām āruhya śiṃśapāṃ parṇasaṃvṛtām) [and reflected]:
+
+**42:** ‘From here (itaḥ) I shall behold Vaidehī (drakṣyāmi vaidehīm), who yearns for the sight of Rāma (rāmadarśanalālasām), as she wanders hither and thither at random, stricken with grief (duḥkhārtāṃ sampatantīṃ yadṛcchayā)!’
 </details>
 </details>
 
@@ -1711,6 +1935,14 @@ Ravana; *dR^iDham* = is definitely; *ramyaa* = beautiful; *vibhuuSitaa* = it is 
 This Ashoka garden of evil-souled Ravana is definitely beautiful; it is well decorated by Champaka
 trees, by sandal trees and by Vakula trees.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**43:** ‘And this Aśoka grove of the evil-minded [Rāvaṇa] is exceedingly lovely (dṛḍhaṃ ramyā durātmanaḥ), adorned with sandalwood trees, campakas, and bakulas (candanaiś campakaiś cāpi bakulaiś ca vibhūṣitā).
+
+**44:** ‘And this lotus-pond is lovely, frequented by flocks of birds (dvijasaṅghaniṣevitā); surely that queen, Jānakī, will come to this [pond] (imāṃ sā rājamahiṣī nūnam eṣyati jānakī)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1741,6 +1973,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘रघुनाथजीकी प्रियतमा राजरानी रामा सती-साध्वी जानकी वनमें घूमने-फिरनेमें बहुत कुशल हैं । वे अवश्य इधर आयेंगी ॥ ४५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘That charming lady (sā rāmā), the queen and chaste beloved of Rāghava (rāghavasya priyā satī), who is skilled in roaming through woodlands (vanasaṃcārakuśalā), will surely come here, Jānakī (dhruvam eṣyati jānakī)!
 </details>
 </details>
 
@@ -1807,6 +2045,12 @@ the thought of Sri Rama; *saa aarya* = that noble one; *eSyati* = will come; *ih
 "Otherwise one with the eyes of a deer, emaciated by the thought of Sri Rama, that noble one will
 come for this garden."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Or rather (athavā), that fawn-eyed lady (mṛgaśāvākṣī), who knows this grove well (vanasyāsya vicakṣaṇā) and is sorely wasted by anxious thought of Rāma (rāmacintāsukarśitā), will come today to this grove (vanam eṣyati sādyeha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1857,6 +2101,12 @@ _________________
 "Tortured by grief for Sri Rama, with beautiful eyes, interested always living in the garden, that
 Devi moving about in the garden will come."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Scorched by grief for Rāma (rāmaśokābhisaṃtaptā), that fair-eyed queen (sā devī vāmalocanā), who ever delights in dwelling in the forest (vanavāsaratā nityam), will come here as a forest-wanderer (eṣyate vanacāriṇī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1901,6 +2151,12 @@ garden; *nuunam* = this is true.
 
 "The beloved wife of Sri Rama, the daughter of king Janaka, the chaste wife, earlier always was
 interested the denizens of the garden. This is true."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘And that noble, chaste daughter of Janaka, the beloved [wife] of Rāma (rāmasya dayitā cāryā janakasya sutā satī), has surely ever felt tender fondness for forest-dwelling creatures from of old (vanecarāṇāṃ satataṃ nūnaṃ spṛhayate purā).
 </details>
 </details>
 
@@ -1954,6 +2210,12 @@ water; *sandhyaarthe* = for Sandhya rite.
 "The ever youthful one with the best complexion, Seetha interested in the rites of Sandhya time
 will definitely come to this river with the auspicious water for Sandhya rite."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘With her mind intent upon the twilight hour (saṃdhyākālamanāḥ), youthful Jānakī of exquisite complexion (śyāmā varavarṇinī) will surely come to this river of auspicious waters for her twilight observances (nadīṃ cemāṃ śubhajalāṃ saṃdhyārthe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2006,6 +2268,12 @@ to that Seetha; *iyam ashoka vanikaa* = this Ashoka garden; *shubhaa* = an auspi
 "Whoever Seetha, the auspicious wife, a dear one of Sri Rama, the king of kings, to that Seetha
 this Ashoka garden, an auspicious one, is well suited also."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘And this auspicious Aśoka grove is worthy of that auspicious lady (tasyāś cāpy anurūpeyam aśokavanikā śubhā śubhāyāḥ), the cherished consort of Rāma, lord of kings (pārthivendrasya patnī rāmasya sammatā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2056,6 +2324,12 @@ water.
 
 "That Devi with the face like that of the moon, if alive, she definitely will come for this river
 with auspicious water."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘If that queen whose face resembles the lord of stars [the moon] still lives (yadi jīvati sā devī tārādhipanibhānanā), she will without fail come to this cool-watered river (āgamiṣyati sāvaśyam imāṃ śītajalāṃ nadīm)!’
 </details>
 </details>
 
@@ -2120,6 +2394,12 @@ observing everywhere.
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे चतुर्दशः सर्गः ॥ १४ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें चौदहवाँ सर्ग पूरा हुआ ॥ १४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting thus (evaṃ tu matvā), great-souled Hanumān (hanumān mahātmā), awaiting the consort of the lord of men (pratīkṣamāṇo manujendrapatnīm) and looking all around (avekṣamāṇaś ca), surveyed the entire [grove] while hidden within the richly blossoming, dense foliage [of the śiṃśapā tree] (dadarśa sarvaṃ supuṣpite parṇaghane nilīnaḥ).
 </details>
 </details>
 

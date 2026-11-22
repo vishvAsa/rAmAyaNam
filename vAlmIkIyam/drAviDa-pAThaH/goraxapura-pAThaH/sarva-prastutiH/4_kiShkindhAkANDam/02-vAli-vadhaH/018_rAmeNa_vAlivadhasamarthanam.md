@@ -114,6 +114,16 @@ the cause, I should have brought Ravana without bloodshed, I would have brought 
 before your....' etc. But these words are with the death time wisdom of Vali, and they become parroted
 saying but cannot be practical with the kind of righteousness followed by Vali.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Thus addressed by Vālin, who had been struck down (nihatena) and was distressed in mind (vicetasā), with a speech that [outwardly] seemed humble (praśritaṃ), endowed with righteousness and profit (dharmārthasahitaṃ), and salutary, yet was harsh (paruṣaṃ)—
+
+**2:** Unto that foremost of monkeys who had spoken his piece (uktavākyaṃ), who resembled the sun bereft of its radiance (niṣprabham ivādityam), a cloud that has discharged its water (muktatoyam ivāmbudam), or a fire that has died down (upaśāntam ivānalam)—
+
+**3:** Having been reviled (adhikṣiptaḥ), Rāma thereafter spoke unto Vālin, that peerless lord of monkeys (harīśvaram), words rich in the virtues of righteousness and purposeful counsel (dharmārthaguṇasampannam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -159,6 +169,12 @@ rebuking.
 
 "Uncaring for probity, prosperity, pleasure deriving, and even for the social conventions, now how do
 you rebuke me childishly in this matter? [4-18-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without comprehending righteousness (dharmam), worldly profit (artham), pleasure (kāmam), and established worldly custom (samayaṃ laukikam), how is it that out of childish ignorance (bālyāt) you censure me here today?
 </details>
 </details>
 
@@ -209,6 +225,12 @@ gentle one; *[or saumyam maam* = gentle, me]; *maam* = with me; *vaanara caapaly
 "Unconsulted are the doyens of your race that are intellectually well off and agreeable to your mentors
 about rights and wrongs about your deeds, oh, gentle one, how do you wish to debate with me in this
 matter with your primate's caprice. [4-18-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without consulting elders (vṛddhān) endowed with wisdom and approved by preceptors (ācāryasammatān), O gentle one (saumya), out of simian fickleness (vānaracāpalyāt) you wish to berate me here!
 </details>
 </details>
 
@@ -264,6 +286,12 @@ the animals, birds, and humans on it belongs to Ikshvaku-s. [4-18-6]
 Vali's question No. 4] 'I have not done any misdeed either in your country or city...' is answered in
 this, "when entire earth belongs to us where is the question of a city or a particular country?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This earth, together with its mountains, forests, and deep woods (saśailavanakānanā), belongs to the Ikṣvākus (ikṣvākūṇām), along with the authority for both punishment and grace (nigrahānugraheṣv api) over beasts, birds, and human beings.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -310,6 +338,12 @@ knower of; *nigraha anugrahe rataH* = in controlling, in condoning, concerned in
 "He who is virtue-souled, truth-abiding, plain-speaking, and the knower of the import of probity, pleasures,
 and prosperity, and the one who is concerned in controlling or condoning his subjects, that Bharata
 is the ruler of earth. [4-18-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Righteous-souled Bharata, truthful and upright (satyavān ṛjuḥ), who knows the true essence of righteousness, pleasure, and profit (dharmakāmārthatattvajñaḥ), protects that [earth], ever devoted to restraint and grace (nigrahānugrahe rataḥ).
 </details>
 </details>
 
@@ -359,6 +393,12 @@ kaala vit raajaa* = he is, place, time, knower, king.
 
 "In whom both scrupulousness and benignancy are there, truthfulness is firmed up, and valour as evinced
 by scriptures is evident, and he who is the knower of time and place is the king, namely Bharata. [4-18-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He in whom both statesmanship and modesty (nayaś ca vinayaś cobhau) as well as truth are firmly established (susthitam), and whose valor is seen to follow scriptural ordinance (yathādṛṣṭaḥ), is a king who knows place and time (deśakālavit).
 </details>
 </details>
 
@@ -418,6 +458,12 @@ bhava svayam naraaNaam | vanyaanaam aham api raaja raaNmR^igaaNaam |* Ayodhya Ka
 on his own shoulders, in his own duty as a Kshatriya to keep up dharma, Rama is trekking forests. Some
 'other kings' roaming like this are not detailed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bearing his righteous mandate (tasya dharmakṛtādeśāḥ), we and other monarchs (vayam anye ca pārthivāḥ) traverse the entire earth, desiring the propagation of righteousness (dharmasaṃtānam icchavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,6 +513,12 @@ ruling; *kaH* = who; *dharma vi priyam* = to morality, un, acceptable [way]; *ch
 "While that Bharata, the kingly-tiger and a patron of virtue, is ruling the earth in its entirety, who
 is there to conduct himself in an unacceptable way to morality on it? [4-18-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While that tiger among kings, Bharata, devoted to righteousness (dharmavatsale), protects the whole earth, who would dare practice what is repugnant to righteousness (dharmavipriyam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -515,6 +567,12 @@ _________________
 
 "Abiding in our own pre-eminent righteousness, and even abiding by the order of Bharata we punish him
 who deviated from the path of morality, according to custom. [4-18-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing firm in our supreme duty (svadharme parame sthitāḥ) and placing Bharata's command at the fore (bharatājñāṃ puraskṛtya), we duly punish (nigṛhṇīmo yathāvidhi) anyone who has strayed from the righteous path (mārgavibhraṣṭam).
 </details>
 </details>
 
@@ -571,6 +629,12 @@ conduct meetly to a king. [4-18-12]
 Vali's question 5. 'Non-guilty being is hurt...' is answered: 'your only guilt is that you have not
 abided by conduct a king should have...' The nature of that guilt is narrated in next verses.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You, however, have sullied righteousness (saṃkliṣṭadharmaś ca), are reviled for your conduct (karmaṇā ca vigarhitaḥ), hold sensual pleasure as your sole rule (kāmatantrapradhānaś ca), and do not abide on the royal path (rājavartmani).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -616,6 +680,12 @@ be known.
 
 "It is to be known by him who treads the way of righteousness that he has three fatherly personages,
 namely his own father, his elder brother, and the one who accords education to him. [4-18-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“An elder brother, a father, and he who imparts sacred knowledge (yaś ca vidyāṃ prayacchati)—these three are to be known as fathers (trayaste pitaro jñeyāḥ) when they abide on the path of righteousness (dharme ca pathi vartinaḥ).
 </details>
 </details>
 
@@ -663,6 +733,12 @@ vat* = one's, own, son like; *cintyaa* = are to be deemed; *atra dharmaH caiva k
 
 "An younger brother, a son, and a disciple with good characteristics, these three are to be deemed as
 one's own sons, for such matters take base on rectitude alone. [4-18-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A younger brother (yavīyān), one's own son (ātmanaḥ putraḥ), and a disciple endowed with good qualities (śiṣyaś cāpi guṇoditaḥ)—these three are to be regarded like sons (putravat te trayaś cintyāḥ), and righteousness alone is the determining cause herein (dharmaś caivātra kāraṇam).
 </details>
 </details>
 
@@ -716,6 +792,12 @@ In another way the above is: 'I am that Supreme Soul residing in the hearts of a
 will decide what is right and what is wrong...' Vali's question 8 is taken up. 'Your primary aspiration
 is to kill without probing into good or bad...' is answered saying that 'I am the decider...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Subtle and supremely difficult to comprehend (sūkṣmaḥ paramadurjñeyaḥ) is the righteousness of the virtuous, O leaper (plavaṅgama); the Self dwelling in the heart of all beings (hṛdisthaḥ sarvabhūtānām ātmā) knows what is auspicious and inauspicious (śubhāśubham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -762,6 +844,12 @@ and unjust,] really, what?
 
 "Like a blind by birth counselling with similarly blind, you being a vacillant, on your counselling
 only with frantic minded vacillant monkeys, what can you really fathom about right and wrong? [4-18-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fickle yourself (capalaḥ), taking counsel together with fickle monkeys of uncultivated minds (vānarair akṛtātmabhiḥ), like a man blind from birth consulting with others blind from birth (jātyandha iva jātyandhaiḥ), what indeed can you perceive (prekṣase nu kim)?
 </details>
 </details>
 
@@ -811,6 +899,12 @@ indeed.
 
 "I will clarify about the words I have said, but I tell you that it is indeed inapt of you to disdain
 me just out of your outrage. [4-18-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I, however, shall declare to you the plain import (vyaktatām) of this statement of mine; you ought not to censure me merely out of wrath (kevalaṃ roṣāt).
 </details>
 </details>
 
@@ -863,6 +957,12 @@ the perpetual tradition. [4-18-18]
 With this one and only reason Rama suffices all the thirteen questions of Vali, as summarised in endnote
 of last chapter. Beyond this Rama also answers other paltry questions, later.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold, then, this reason (tad etat kāraṇaṃ paśya) for which you have been slain by me: abandoning eternal righteousness (tyaktvā dharmaṃ sanātanam), you cohabit with your brother's wife (bhrātur vartasi bhāryāyām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -908,6 +1008,12 @@ Vali being a king, he committed incest transgressing tradition. *vaalii taavat s
 dharmaati kramam kR^itavaan | dharma duuShakaH ca raajaa avashyam daNDaniiyaH | dharmaakuutam*This
 is the very fault found by Rama when expressing *'vaalii caaritra duuSakaH* 'abuser of history/tradition...'
 in Kishkindha, 4-10-33.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Acting sinfully (pāpakarmakṛt), out of lust (kāmāt) you cohabit with Rumā, the daughter-in-law [by sacred law] (snuṣāyām), while this great-souled Sugrīva is still alive (asya dharamāṇasya)!
 </details>
 </details>
 
@@ -961,6 +1067,12 @@ brother's wife, thereby for your transgression of tradition and virtue. [4-18-20
 
 Vali's question 10, 'inveterate killers are hell-goers...' is replied, 'killing a sinner is no sin and
 no hell is ensuing thereby...' is the reply, establishing Vali's sin.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, O monkey, because you have transgressed righteousness (vyatītasya te dharmāt) and acted out of unbridled lust (kāmavṛttasya), this punishment has been meted out (daṇḍo 'yaṃ pratipāditaḥ) for this violation of your brother's wife (bhrātṛbhāryābhimarśe 'smin).
 </details>
 </details>
 
@@ -1021,6 +1133,12 @@ Vali may counter Rama in asking for a lesser punishment than killing, like exili
 given to Sugreeva. For this Rama is ready to say that no other punishment is evident than the one said
 by Manu: *sapiNDaapatya daareShu (retaH siktvaa) praaNa tyaago vidhiiyate - - manu smR^iti*.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indeed, O leader of monkey troops (hariyūthapa), for one who opposes the world (lokaviruddhasya) and has departed from the way of the world (lokavṛttād apeyuṣaḥ), I see no restraint other than corporal punishment (daṇḍād anyatra).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1074,6 +1192,12 @@ scriptures, specified.]
 the one who lustfully indulges with his daughter, or with his sister, or with the wife of his younger
 brother is his elimination, as recalled from scriptures. [4-18-22, 23a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nor can I tolerate your sin (na ca te marṣaye pāpam), for I am a Kṣatriya born of a noble lineage (kṣatriyo 'haṃ kulodgataḥ); whoever, toward his own begotten daughter, his sister, or the wife of his younger brother (bhāryāṃ vāpy anujasya yaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1124,6 +1248,12 @@ possible.
 While Bharata is the lord of land and we are his proxies adhering to his orders, and while you too have
 overstepped the bounds of rightness, then how is it possible to be lenient? [4-18-23b, 24a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Should lustfully approach her (pracareta naraḥ kāmāt), death is declared by sacred law to be that man's punishment (tasya daṇḍo vadhaḥ smṛtaḥ). Bharata is the lord of the earth (mahīpālaḥ), and we are the executors of his command (vayaṃ tv ādeśavartinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1164,6 +1294,12 @@ for.
 
 "While ruling righteously sensible Bharata punishes him who oversteps the momentous virtue, and he is
 poised to put down lustful ones. [4-18-24b, 25a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And since you have transgressed righteousness (tvaṃ ca dharmād atikrāntaḥ), how could a wise ruler (prājñaḥ), governing in accordance with righteousness (dharmeṇa pālayan), possibly overlook (kathaṃ śakyam upekṣitum) one who has violated the weighty law of elders (gurudharmavyatikrāntam)?”
 </details>
 </details>
 
@@ -1214,6 +1350,12 @@ _________________
 
 "As for us, oh, monkey's lord, we effectuate our brother's orders and our duty, and we stand for curbing
 your kind of shatterers of ethics. [4-18-25b, c]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bharata is firmly resolved upon the restraint of those given over to lust (kāmayuktānāṃ nigrahe), and we, O lord of monkeys (harīśvara), making Bharata's command our guiding limit (bharatādeśāvadhiṃ kṛtvā), stand ready to punish (nigrahītuṃ vyavasthitāḥ) those like you who have broken moral bounds (bhinnamaryādān).
 </details>
 </details>
 
@@ -1311,6 +1453,14 @@ In Aranya Kanda he tells Seetha, that he even leaves his life than to feign his 
 jiivitam jahyaam tvaam vaa siite sa lakSmaNaam ||* 4-10-18. Hence there is no question of his going
 back on the word given to them that crave for his mercy.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** Moreover, my friendship with Sugrīva (sugrīveṇa ca me sakhyam) is just like that with Lakṣmaṇa (lakṣmaṇena yathā tathā); for the sake of regaining his wife and kingdom (dārarājyanimittaṃ ca), he is the accomplisher of my highest good (niḥśreyasakaraḥ sa me).
+
+**27:** Furthermore, a solemn pledge was given by me (pratijñā ca mayā dattā) at that time in the presence of the monkeys (vānarasaṃnidhau); and how could a pledge possibly be disregarded (kathaṃ śakyā anavekṣitum) by one such as I (madvidhena)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1357,6 +1507,12 @@ yat shaasanam* = to you, which, punishment; *yuktam* = befitting; *tat bhavaan a
 "Thereby you have to infer that a befitting punishment is given to you, owing to all these great reasons
 that abound with virtue and with supreme value. [4-18-28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, for all these weighty reasons grounded in righteousness (kāraṇaiḥ sarvair mahadbhir dharmasaṃśritaiḥ), you yourself ought to approve (tad bhavān anumanyatām) this punishment of yours as just (śāsanaṃ tava yad yuktam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1402,6 +1558,12 @@ it; *vayasyasya upakartavyam eva* = to a friend, has to render assistance, alone
 
 "Anywise, you have to regard the punishment given to you is legitimate, and he whom rectitude guides
 has to render assistance to his friend, in any event. [4-18-29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By every reckoning (sarvathā), your chastisement must be viewed as righteousness itself (dharma ity eva draṣṭavyas tava nigrahaḥ); one who keeps righteousness alone in view (dharmam evānupaśyatā) must render aid to a friend (vayasyasyopakartavyam).
 </details>
 </details>
 
@@ -1456,6 +1618,12 @@ caritam* = by me, that [way,] likewise, done - I have conducted myself.
 we hear two verses that are given to the advocacy of good conventions, which the experts of rightness
 have also accepted, and which are said to be coined by Manu, and I too conducted myself only as detailed
 in those verses of law. [4-18-30]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That act [of accepting expiatory punishment] could even be performed by you yourself (śakyaṃ tvayāpi tat kāryam) while following righteousness alone (dharmam evānuvartatā). Two verses sung by Manu (manunā gītau ślokau), dear to those of virtuous conduct (cāritravatsalau) and accepted by those skilled in righteousness (gṛhītau dharmakuśalaiḥ), are heard in tradition—and accordingly have I acted (tathā tac caritaṃ mayā):”
 </details>
 </details>
 
@@ -1536,6 +1704,14 @@ impose proper punishment will derive the blot of that sin.' So says the other ve
 
 (८ ।३१८,३१६)
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** “‘Men who have committed sins (kṛtvā pāpāni mānavāḥ), once they have received punishment at the hands of kings (rājabhir dhṛtadaṇḍāś ca), go stainless to heaven (nirmalāḥ svargam āyānti), just like virtuous men of good deeds (santaḥ sukṛtino yathā).
+
+**32:** Either through punishment or through release (śāsanād vāpi mokṣād vā), a thief is freed from his sin (stenaḥ pāpāt pramucyate); but a king who fails to punish a sinner (rājā tv aśāsan pāpasya) incurs that very guilt (tad avāpnoti kilbiṣam).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1599,6 +1775,12 @@ is doubly punishable; are the problems of Maandhaata. This word *shramaNa* yati,
 equated with a Buddhist monk, for they also have same titles, and Maandhaata is said to have existed
 long before Buddha's era.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By my noble ancestor Māndhātṛ (āryeṇa mama māndhātrā), a grievous penalty was inflicted (vyasanaṃ ghoram īpsitam) when a sin had been committed by an ascetic (śramaṇena kṛte pāpe), just such a sin as was committed by you (yathā pāpaṃ kṛtaṃ tvayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1652,6 +1834,12 @@ The kings who are otherwise busy may not hanker after thieves and sinners always
 of each and every individual's behaviour. So the kings used to make amends at appropriate time. It is
 up to the individual to comport properly or improperly. An offender may escape hundred offences, but
 if caught once, he has to pay for all his wrongdoings.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even when sin was committed by other heedless lords of the earth (anyair api pramattair vasudhādhipaiḥ), they perform expiation (prāyaścittaṃ ca kurvanti), and thereby that stain is washed away (tena tac chāmyate rajaḥ).
 </details>
 </details>
 
@@ -1708,6 +1896,12 @@ not acted on my own, but bound by scriptures and precedents...'
 by executing a non-murderer...' which again is somewhat similar to the present day saying, 'let hundred
 criminals go unpunished, but let no innocent be punished.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, enough of this anguish (tad alaṃ paritāpena)! Your execution has been ordained in accordance with sacred law (dharmataḥ parikalpitaḥ vadhaḥ), O tiger among monkeys; we do not stand under our own arbitrary will (na vayaṃ svavaśe sthitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1753,6 +1947,12 @@ will not be infuriated.
 
 "Oh, brave and best one among monkeys, further listen to another cause, and on listening that important
 cause you will not be infuriated. [4-18-36]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hear also yet another reason (śṛṇu cāpy aparaṃ bhūyaḥ kāraṇam), O bull among monkeys (haripuṃgava); having heard that weighty reason, O hero, you ought not to harbour wrath (na manyuṃ kartum arhasi).”
 </details>
 </details>
 
@@ -1810,6 +2010,14 @@ animal and asks: 6] Why fruits, tubers eating being is killed; 11] Un-wearable i
 is my flesh; 12] Five kinds of five-nailed animals are usable by humans...' Rama started to tell how
 humans deal with animals, should Vali declare himself an animal, if not a specific Vedic-being.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**37:** “I have neither remorse of heart nor wrath on that score (na me tatra manastāpo na manyuḥ), O bull among monkeys (haripuṃgava)! With snares, nooses, and traps of various kinds (vāgurābhiś ca pāśaiś ca kūṭaiś ca vividhaiḥ), men—
+
+**38:** Both concealed and in plain sight (praticchannāś ca dṛśyāś ca), capture very many beasts (gṛhṇanti subahūn mṛgān), whether they are fleeing in terror (pradhāvitān vā vitrastān), trusting, or standing utterly still (visrabdhān ativiṣṭhitān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1852,6 +2060,12 @@ blame [sacrilege,] not, evident.
 "Meat eating people will undeniably kill animals, either they are speedily sprinting or standing steadily,
 fully dismayed or undismayed, vigilant or unvigilant, and even if they are facing away, in that there
 is no sacrilege. [4-18-38b, 39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whether those beasts are heedless or vigilant (pramattān apramattān vā), men who eat flesh (narā māṃsāśinaḥ), even when the quarry is turned away (vimukhāṃś cāpi), pierce them fiercely (vidhyanti bhṛśam), and no fault exists herein (na ca doṣo 'tra vidyate).
 </details>
 </details>
 
@@ -1927,6 +2141,12 @@ brother whom he regards as a dear friend and almost as an equal, and now he wind
 killing Vali by coolly saying: 'Besides you are only a monkey, you know, after all, and as such I have
 every right to kill you how, when, and where I like.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Royal sages well-versed in righteousness (rājarṣayaś ca dharmakovidāḥ) likewise go a-hunting here (yānti mṛgayām). Therefore, O monkey, you were slain by me in battle with an arrow (nihato yuddhe mayā bāṇena), whether you were not fighting me or fighting another (ayudhyan pratiyudhyan vā), inasmuch as you are a branch-roaming beast (yasmāc chākhāmṛgo hy asi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1965,6 +2185,12 @@ lifestyles, also; *pra daataaraH* = are bounteous, benefactors; *na samshayaH* =
 
 "Kings are the bounteous benefactors of the unobtainable righteousness and propitious lifestyles, oh,
 best vanara, no doubt about it. [4-18-41]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Of hard-to-attain righteousness (durlabhasya ca dharmasya) and of auspicious life (jīvitasya śubhasya ca), kings, O foremost of monkeys, are the bestowers—of this there is no doubt (pradātāro na saṃśayaḥ).
 </details>
 </details>
 
@@ -2016,6 +2242,12 @@ to them; *ete devaaH* = these, divinities [the kings]; *maanuSa ruupeNa* = in hu
 "They the kings are not to be harmed, also not to be reproved, not disparaged and nothing displeasing
 is spoken to them, as they are the divinities conducting themselves in human form on the plane of earth.
 [4-18-42]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+One must neither injure them, nor revile them, nor insult them, nor speak what is unpleasant to them (tān na hiṃsyān na cākrośen nākṣipen nāpriyaṃ vadet); for they are gods walking in human form upon the surface of the earth (devā mānuṣarūpeṇa caranty ete mahītale).”
 </details>
 </details>
 
@@ -2097,6 +2329,12 @@ refuse or not, killing Vali on that day itself, and establishing Sugreeva in Kis
 made by Rama, at the time of befriending Sugreeva. The word given is to be kept up. So Rama did it and
 there is no unrighteous deed done by Rama. And Vali also accepts this in the coming stanzas.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You, however, without comprehending righteousness (dharmam avijñāya), having resorted solely to wrath (kevalaṃ roṣam āsthitaḥ), revile me (vidūṣayasi mām) even as I abide in the ancestral righteousness of my father and grandfather (dharme pitṛpaitāmahe sthitam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2155,6 +2393,12 @@ eva | itaH param vakShyamaaNam akhilam dharmyam eva vadati iti avagatam : dharma
 spoken by Vali earlier is without proper knowledge of dharma, and whatever said hereafter is in conformity
 with righteousness [owing to the dawn of death-time wisdom.] Dharmaakuutam.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma (evam uktas tu rāmeṇa), Vālin was deeply anguished (pravyathito bhṛśam); having gained certainty regarding righteousness (dharme 'dhigataniścayaḥ), he imputed no fault to Rāghava (na doṣaṃ rāghave dadhyau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2201,6 +2445,12 @@ only - proper; *atra samshayaH na* = in that, doubt, is not there.
 
 That lord of vanara-s then replied Rama with adjoined palms, "oh, best one among men, what all you have
 said is that way proper, undoubtedly. [4-18-45]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereafter, with joined palms (prāñjaliḥ), the lord of monkeys replied to Rāma (pratyuvāca tato rāmam): “What you have spoken, O foremost of men (yat tvam āttha naraśreṣṭha), is precisely so—there is no doubt (tat tathaiva na saṃśayaḥ)!
 </details>
 </details>
 
@@ -2286,6 +2536,14 @@ and emancipation; *dharma, artha, kaama, moksha* ; and you take delight
 in the welfare of subjects, and your faultless intellect is clear in accomplishing ends by judging the
 causes and effects. [4-18-47b, c]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**46:** Indeed, an inferior (apakṛṣṭas tu) cannot gainsay one who is superior (prativaktuṃ prakṛṣṭe hi na śaknuyāt). As for the improper and unpleasant speech that was uttered by me earlier out of heedlessness (pramādād vākyam apriyam)—
+
+**47:** Even in that matter, O Rāghava, you truly ought not to impute fault to me (me doṣaṃ kartuṃ nārhasi). For you know the true reality through direct perception (dṛṣṭārthatattvajñaḥ) and are devoted to the welfare of creatures (prajānāṃ ca hite rataḥ); and in determining effect and cause (kāryakāraṇasiddhau ca), your imperishable intellect remains serene (prasannā buddhir avyayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2333,6 +2591,12 @@ with, words; *paripaalaya* = command me - care for me, give me absolution.
 such transgressors, such as I am, give absolution even to me with words abounded with rightness." Vali
 is thus saying to Rama. [4-18-48]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Protect even me (mām api paripālaya)—who have strayed from righteousness (avagataṃ dharmāt) and stand foremost among transgressors (vyatikrāntapuraskṛtam)—with a speech endowed with righteousness (dharmasaṃhitayā vācā), O knower of righteousness (dharmajña)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2379,6 +2643,12 @@ is thus saying to Rama. [4-18-48]
 Vali who like an elephant plumped in slough continued to say slowly, with tears fully impeding his throat
 and with an agonised moan, on keenly observing Rama. [4-18-49]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His throat choked with tears (bāṣpasaṃruddhakaṇṭhas tu), Vālin, uttering a piteous cry (sārtaravaḥ) like an elephant mired in mud (paṅkalagna iva dvipaḥ), gazed steadily at Rāma and slowly spoke (śanair uvāca):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2424,6 +2694,12 @@ api na* = about relative, even, no.
 
 "Also, I neither worry for myself, nor for Tara, nor even for any relatives of mine, as I do for my
 son Angada, the best-virtuous one with golden bicep-lets. [4-18-50]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I do not grieve for myself (na cātmānam ahaṃ śoce), nor for Tārā, nor even for my kinsmen (nāpi bāndhavān), so much as for my son Aṅgada, foremost in virtues (guṇajyeṣṭham) and adorned with golden armlets (kanakāṅgadam).
 </details>
 </details>
 
@@ -2472,6 +2748,12 @@ gets into.
 "Right from his childhood I fondly looked after Angada, and he will be dejected when he sees me no more,
 and he withers away like a lake with its water drained for a drink. [4-18-51]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cherished tenderly since childhood (bālyāt prabhṛti lālitaḥ), he, growing wretched from no longer seeing me (mamādarśanād dīnaḥ), will waste away (upaśoṣaṃ gamiṣyati) like a pond whose waters have been drunk up (taṭāka iva pītāmbuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2517,6 +2799,12 @@ also, not, made-up, mind [juvenile]; *me priyaH eka putraH ca* = to me, dear, on
 
 "He is boyish, juvenile, and the only dear son of mine, oh, Rama, as such that great-mighty son of Tara
 needs your protection. [4-18-52]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Young and of unmatured intellect (bālaś cākṛtabuddhiś ca), my dear and only son (ekaputraś ca me priyaḥ), the mighty son of Tārā (tāreyo mahābalaḥ), ought to be protected by you, O Rāma (rāma bhavatā rakṣaṇīyaḥ).
 </details>
 </details>
 
@@ -2566,6 +2854,12 @@ also.
 "You have firm convictions about practicable and impracticable procedures, and you alone are the protector
 of the good and punisher of the bad, hence treat both Sugreeva and Angada with equal compassion. [4-18-53]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bestow your highest goodwill (vidhatsva matim uttamām) upon both Sugrīva and Aṅgada (sugrīve cāṅgade caiva); for you stand as the protector and the chastiser (goptā ca śāstā ca) in the ordinance of what ought and ought not to be done (kāryākāryavidhau sthitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2611,6 +2905,12 @@ of the good and punisher of the bad, hence treat both Sugreeva and Angada with e
 
 "Oh, lord of men, it will be apt of you to show the same kind of outlook towards Sugreeva, oh, king,
 even towards Angada, which you have for Bharata and Lakshmana. [4-18-54]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whatever disposition you bear (yā te vṛttiḥ), O lord of men, toward Bharata and toward Lakṣmaṇa, that same disposition, O king, you ought to maintain (tāṃ cintayitum arhasi) toward Sugrīva and Aṅgada.”
 </details>
 </details>
 
@@ -2658,6 +2958,12 @@ even towards Angada, which you have for Bharata and Lakshmana. [4-18-54]
 "The fault occurring from my fault of maltreating Sugreeva may not light upon that self-reproachful
 Tara, and it will be apt of you to see that Sugreeva will not look down on her treating her as the wife
 his rival. [4-18-55]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You ought so to arrange matters (tathāvasthātum arhasi) that Sugrīva does not slight (yathā sugrīvo nāvamanyeta) that pitiable Tārā (tāṃ tārāṃ tapasvinīm), who has been stained with fault solely through my fault (maddoṣakṛtadoṣām).
 </details>
 </details>
 
@@ -2710,6 +3016,12 @@ to achieve, also.
 your control and following your heart, why a kingdom, he can rule the earth, why earth, he can even
 achieve the heaven itself. [4-18-56, 57a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indeed, by one who is favoured by you (tvayā hy anugṛhītena), who abides under your command (tvadvaśe vartamānena) and complies with your heart's wish (tava cittānuvartinā), a kingdom can truly be enjoyed (śakyaṃ rājyam upāsitum)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2734,6 +3046,12 @@ achieve the heaven itself. [4-18-56, 57a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निन्न कैयिन्दले नन्न सावु आगलॆन्दे नानु बयसुत्तिद्दॆ. अदक्कागि तारॆयु तडॆदरू नानु नन्न तम्म सुग्रीवनॊडनॆ द्वन्द्वयुद्ध माडलु हॊरटुबन्दॆ.॥57½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nay, heaven itself can be won and the whole earth ruled (śakyaṃ divaṃ cārjayituṃ vasudhāṃ cāpi śāsitum)! Desiring death at your hands (tvatto 'haṃ vadham ākāṅkṣan), even though held back by Tārā (vāryamāṇo 'pi tārayā),
 </details>
 </details>
 
@@ -2834,6 +3152,16 @@ we take care of them... nor you should bother about us thinking that we have arb
 you, nor necessarily bother about yourself for committing sins, as we took this decision according to
 rightness and considerateness in your respect. [4-18-60]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**58:** I entered into this duel together with my brother Sugrīva (sugrīveṇa saha bhrātrā dvandvayuddham upāgataḥ).” Having spoken thus unto Rāma (ity uktvā rāmam), the monkey, the lord of monkeys, fell silent (virarāma harīśvaraḥ).
+
+**59:** With a speech approved by the virtuous (sādhusammatayā vācā) and fraught with the true meaning of righteousness (dharmatattvārthayuktayā), Rāma consoled (sa tam āśvāsayad rāmaḥ) that Vālin whose clear vision had now awakened (vālinaṃ vyaktadarśanam):
+
+**60:** “No anguish should be felt by you on this account (na saṃtāpas tvayā kārya etadarthaṃ), O leaper (plavaṅgama)! Neither should we be doubted by you, nor should you grieve for yourself (na vayaṃ bhavatā cintyā nāpy ātmā), O best of monkeys; because of your special merit (bhavadviśeṣeṇa), we have arrived at a firm resolve in accordance with righteousness (dharmataḥ kṛtaniścayāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2884,6 +3212,12 @@ get condemned.
 "He who administers punishment to the punishable, and he who is punishable and gets punished, both of
 them will achieve the results of cause and effect, where punishment is the effect from the cause of
 wrongdoing, and they both thereby will not be condemned. [4-18-61]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who inflicts punishment upon one deserving punishment (daṇḍye yaḥ pātayed daṇḍam), and he who, deserving punishment, is punished (daṇḍyo yaś cāpi daṇḍyate)—having accomplished their purpose through effect and cause (kāryakāraṇasiddhārthau), both of them never come to grief (ubhau tau nāvasīdataḥ).
 </details>
 </details>
 
@@ -2937,6 +3271,12 @@ own, nature, you got into - obtained.
 in the scriptures on rightness you attained your true nature, that which is agreeable to rightness.
 [4-18-62]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, freed from impurity through this contact with punishment (daṇḍasaṃyogād asmād vigatakalmaṣaḥ), you have regained your own righteous nature (gataḥ svāṃ prakṛtiṃ dharmyām) by the path ordained by punitive law (daṇḍadiṣṭena vartmanā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2983,6 +3323,12 @@ in the scriptures on rightness you attained your true nature, that which is agre
 "Let distress, desire and even dread that abide in your heart be discarded, oh, monkey's supreme, you
 cannot possibly transcend destiny. [4-18-63]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cast off grief, delusion, and fear abiding in your heart (tyaja śokaṃ ca mohaṃ ca bhayaṃ ca hṛdaye sthitam)! Fate's ordinance (vidhānam), O foremost of monkeys (haryagrya), cannot be transgressed by you (tvayā na śakyam ativartitum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3028,6 +3374,12 @@ me, even with; *tathaa nityam varteta* = likewise, always, he will conduct himse
 
 "As Angada has always been conducting himself with you, thus he will conduct himself with Sugreeva and
 also even with me, without doubt." Thus Rama spoke to Vali. [4-18-64]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as Aṅgada ever abides toward you (yathā tvayy aṅgado nityaṃ vartate), O lord of monkeys, even so shall he abide toward Sugrīva and toward me as well—of this there is no doubt (tathā varteta sugrīve mayi cāpi na saṃśayaḥ)!”
 </details>
 </details>
 
@@ -3088,6 +3440,12 @@ in war, absolute, crusher [of enemy]; *tasya raamasya* = his, of that Rama; *mad
 On hearing the agreeable and assertive words of that great-souled Rama, who is the treader on the path
 of rightness and an absolute crusher of enemies in war, Vali, the vanara, spoke these well-disposed
 words to Rama. [4-18-65]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard that sweet, composed speech (vākyaṃ madhuraṃ samāhitam) of the great-souled Rāma, the crusher of foes in battle (raṇāvamardinaḥ), which followed the path of righteousness (dharmapathānuvartitam), that monkey spoke these well-reasoned words (vacaḥ suyuktaṃ nijagāda vānaraḥ):
 </details>
 </details>
 
@@ -3155,5 +3513,11 @@ I appease you for the same. [4-18-66]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हदिनॆण्टनॆय सर्ग सम्पूर्णवायितु. ॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Scorched by your arrow and bewildered in mind (śarābhitaptena vicetasā), whatever I spoke unto you in ignorance, O lord (prabhāṣitas tvaṃ yad ajānatā vibho)—being propitiated, O lord of men of dread valor equal to Mahendra's (mahendropamabhīmavikrama), forgive me this (kṣama me nareśvara)!”
 </details>
 </details>

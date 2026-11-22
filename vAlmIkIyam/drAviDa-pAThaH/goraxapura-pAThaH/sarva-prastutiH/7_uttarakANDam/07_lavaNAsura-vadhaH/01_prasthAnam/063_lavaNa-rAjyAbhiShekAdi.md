@@ -39,6 +39,12 @@ _________________
 
 हीगॆ हेळुत्तिरुव ऋषिगळिन्द प्रेरितनागि श्रीरामनु हेळिदनु - महर्षिगळे! हेळि, निम्म याव कार्यवन्नु नानु सिद्धगॊळिसबेकु? निम्म भय ईगले दूरवागबेकु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma (evam uktas tu rāmeṇa), Śatrughna, endowed with valor (śatrughno vīrya-sampannaḥ), was overcome with profound bashfulness (parāṃ vrīḍām upāgamat) and spoke very softly (mandaṃ mandam uvāca ha):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरघु नाथनु हीगॆ हेळिदाग भृगुपुत्र च्यवनरु हेळिदरु - नरेश्वर ! इडी देशद मेलॆ हागू नम्म मेलॆ प्राप्तवाद महाभयद मूल कारणवन्नु केळु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We know this matter to be unrighteousness, O Kākutstha (adharmaṃ vidma kākutstha hy asminn arthe), O lord of men (nareśvara): how can a younger brother be consecrated (kathaṃ ... kanīyān abhiṣicyate) while his elders stand living (tiṣṭhatsu jyeṣṭheṣu)?
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 राजने! हिन्दॆ कृतयुगदल्लि ऒब्ब दॊड्ड बुद्धिवन्त दैत्यनिद्दनु. अवनु लोलान ज्येष्ठपुत्रनागिद्दनु. आ महा असुरन हॆसरु मधु ऎन्दित्तु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet a command must necessarily be carried out (avaśyaṃ karaṇīyaṃ ca śāsanam), O bull among men (puruṣarṣabha); and your mandate especially, O illustrious one (tava caiva mahābhāga śāsanam), is impossible to transgress (duratikramam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +140,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु बहळ ब्राह्मणभक्त मत्तु शरणागत वत्सलनागिद्दनु. अवन बुद्धियु सुस्थिरवागित्तु. अत्यन्त उदार स्वभाववुळ्ळ देवतॆगळॊन्दिगू अवनिगॆ गाढवाद मैत्रि इत्तु. अदरल्लि अवनिगॆ तुलनॆये इरलिल्ल.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From you have I heard it, O hero (tvatto mayā śrutaṃ vīra), and from the Vedic scriptures have I heard it (śrutibhyaś ca mayā śrutam), that no contrary reply may be spoken by me (nottaraṃ hi mayā vācyam) when the middle brother is making a vow (madhyame pratijānati).
 </details>
 </details>
 
@@ -151,6 +175,12 @@ _________________
 
 मधु बल विक्रमगळिन्द सम्पन्ननागिद्दु, एकाग्रचित्तनागि धर्मानुष्ठानदल्लि तॊडगिद्दनु. अवनु भगवान् शिवन आराधनॆ माडि, अवनिन्द अद्भुत वरवन्नु पडॆदिद्दनु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet an awful, ill-spoken word was uttered by me (vyāhṛtaṃ durvaco ghoram)—‘I shall slay Lavaṇa in battle (hantāsmi lavaṇaṃ mṛdhe)’; this evil plight (durgatiḥ) is the fruit of that ill-spoken speech of mine (tasyaivaṃ me duruktasya), O bull among men!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +208,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महात्मा भगवान् शिवनु अत्यन्त प्रसन्ननागि तन्न शूलदिन्द ऒन्दु हॊळॆयुव परमशक्तिशालि शूलवन्नु प्रकटिसि मधुविगॆ कॊट्टु हेळिदनु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, a rejoinder ought never to be spoken (uttaraṃ nahi vaktavyam) once an elder has spoken (jyeṣṭhenābhihite punaḥ); it is fraught with unrighteousness (adharma-sahitaṃ caiva) and bereft of the next world (paraloka-vivarjitam)!
 </details>
 </details>
 
@@ -207,6 +243,12 @@ _________________
 
 नीनु अनुपम धर्मवन्नाचरिसि नन्नन्नु प्रसन्नगॊळिसिरुवॆ; आद्दरिन्द नानु सन्तोषदिन्द निनगॆ ई उत्तम आयुधवन्नु कॊडुत्तिद्देनॆ.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O Kākutstha, I shall not utter a second rejoinder to you (so ’haṃ dvitīyaṃ kākutstha na vakṣyāmi tavottaram); let not a punishment fall upon me through a second offense (mā dvitīyena daṇḍo vai nipaten mayi), O bestower of honor (mānada)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,6 +276,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महा असुरने! नीनु ब्राह्मणरिगॆ मत्तु देवतॆगळिगॆ विरोध माडुवुदिल्लवो अल्लियवरॆगॆ ई शूल निन्न बळि इरुवुदु. इल्लदिद्दरॆ अदृश्यवागबहुदु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For I am wholly the doer of your will, O king (kāmakāro hy ahaṃ rājaṃs tavāsmi), O bull among men (puruṣarṣabha); destroy the adharma on my behalf, O Kākutstha (adharmaṃ jahi kākutstha mat-kṛte), O delight of the Raghus!”
 </details>
 </details>
 
@@ -263,6 +311,12 @@ _________________
 
 निःशङ्कनागि निन्न मुन्दॆ युद्धक्कॆ बरुव पुरुषनन्नु भस्मगॊळिसि पुनः निन्न कैगॆ बरुवुदु ई शूलवु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the heroic, great-souled Śatrughna had spoken thus (evam ukte tu śūreṇa śatrughnena mahātmanā), Rāma, greatly delighted (uvāca rāmaḥ saṃhṛṣṭaḥ), addressed Bharata and Lakṣmaṇa (bharataṃ lakṣmaṇaṃ tathā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -291,6 +345,12 @@ _________________
 
 भगवान् रुद्रनिन्द इन्तह वरवन्नु पडॆद आ महाअसुरनु महादेवनिगॆ वन्दिसि मत्तॆ हीगॆ हेळिदनु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bring hither with attentive minds (ānayadhvaṃ samāhitāḥ) all the requisites for the consecration (sambhārān abhiṣekasya); this very day I shall consecrate (adyaiva ... abhiṣekṣyāmi) this tiger among men, Rāghava (puruṣa-vyāghram ... rāghavam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,6 +378,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भगवन् देवाधिदेवने! नीनु समस्त देवतॆगळ ऒडॆयनागिरुवॆ, आद्दरिन्द ई परमशूलवु नन्न वंशजरल्लियू सदा इरबेकॆन्दु प्रार्थिसुत्तिद्देनॆ.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Summon at my command (ānayadhvaṃ mamājñayā) the royal priest of the Kākutsthas (purohitaṃ ca kākutstham), the guild-elders and officiating priests (naigamān ṛtvijas tathā), and all those counselors as well (mantriṇaś caiva tān sarvān)!”
 </details>
 </details>
 
@@ -349,6 +415,12 @@ _________________
 
 हीगॆ हेळिद आ मधुविनल्लि समस्त प्राणिगळ अधिपति महादेव भगवान् शिवनु हीगॆ हेळिदनु - हीगागलारदु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing the king’s mandate (rājñaḥ śāsanam ājñāya), those great chariot-warriors did accordingly (tathā ’kurvan mahārathāḥ); placing the royal priest and the consecration preparations at the fore (abhiṣeka-samārambhaṃ puraskṛtya purodhasam), kings and brahmins entered the royal palace (praviṣṭā rāja-bhavanaṃ rājāno brāhmaṇās tathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -376,6 +448,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ प्रसन्ननागि नानु हेळिद शुभवाणि निष्फलवागलारदु; अदक्कागि वरवन्नु कॊडुत्तेनॆ - निन्न ऒब्ब पुत्रन बळि ई शूल इरुवुदु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the consecration of the great-souled Śatrughna went forward (tatho ’bhiṣeko vavṛdhe śatrughnasya mahātmanaḥ), resplendent and bringing abundant joy (sampraharṣa-karaḥ śrīmān) to Rāghava and to the city (rāghavasya purasya ca).
 </details>
 </details>
 
@@ -405,6 +483,12 @@ _________________
 
 ई शूलवु निन्न पुत्रन कैयल्लि इरुवतनक अवनु समस्त प्राणिगळिगॆ अवध्यनागि इरुवनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consecrated, Śatrughna shone radiant as the sun (abhiṣiktas tu śatrughno babhau cāditya-sannibhaḥ), like Skanda consecrated of old (abhiṣiktaḥ purā skandaḥ) by the hosts of Maruts with Indra at their head (sendrair iva marud-gaṇaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -432,6 +516,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महादेवनिन्द इन्तह अत्यन्त अद्भुत वरवन्नु पडॆद असुरश्रेष्ठ मधुवु ऒन्दु सुन्दरवाद, अत्यन्त प्रकाशमान भवनवन्नु निर्मिसिद्दनु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Śatrughna had been consecrated (abhiṣikte tu śatrughne) by Rāma of untiring deeds (rāmeṇākliṣṭa-karmaṇā), the citizens and the deeply learned brahmins became filled with joy (paurāḥ pramuditāś cāsan brāhmaṇāś ca bahuśrutāḥ).
 </details>
 </details>
 
@@ -461,6 +551,12 @@ _________________
 
 अवन प्रियपत्नि विश्वावसुविन पुत्री महाभागा कुम्भीनसियागिद्दळु. अवळु अनलॆयल्लि हुट्टिद्दळु, कुम्भीनसियु अत्यन्त कान्तिमतियागिद्दळु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā, Sumitrā, and Kaikeyī (kausalyā ca sumitrā ca ... kekayī tathā), as well as all the other royal ladies (yāś cānyā rāja-yoṣitaḥ), performed auspicious rites within the royal palace (maṅgalaṃ ... cakrus tā rāja-bhavane).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -488,6 +584,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवळ पुत्र महापराक्रमि लवणासुरनागिद्दनु. अवन स्वभाव तुम्बा भयङ्करवागित्तु. आ दुष्टात्मा बाल्यदिन्दले केवल पापाचरणदल्लि प्रवृत्तनागिद्दनु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the great-souled sages dwelling on the banks of the Yamunā (ṛṣayaś ca mahātmāno yamunā-tīra-vāsinaḥ) already counted Lavaṇa as slain (hataṃ lavaṇam āśaṃsuḥ) by virtue of Śatrughna’s consecration (śatrughnasyābhiṣecanāt).
 </details>
 </details>
 
@@ -517,6 +619,12 @@ _________________
 
 तन्न पुत्रनु उद्धटनादुदन्नु नोडि मधुवु क्रोधदिन्द उरियुत्ता इद्दनु. मगन दुष्टतॆयन्नु नोडि अवनिगॆ बहळ शोकवायितु, आदरू अवनु इवनल्लि एनू हेळलिल्ल.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāghava, seating the consecrated Śatrughna upon his lap (abhiṣiktaṃ śatrughnam aṅkam āropya rāghavaḥ), spoke sweet words (uvāca madhurāṃ vāṇīm), filling him with fiery splendor (tejas tasyābhipūrayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -544,6 +652,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कॊनॆगॆ अवनु आ देशवन्ने बिट्टु समुद्रदल्लि वासिसतॊडगिदनु. होगुवाग अवनु आ शूलवन्नु मगनिगॆ कॊट्टु, वरद वृत्तान्तवन्नु तिळिसिदनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This unfailing, divine arrow, conqueror of hostile cities (ayaṃ śaras tv amoghas te divyaḥ para-purañjayaḥ), is given to you: with this, O gentle one (anena ... saumya), you shall slay Lavaṇa, O delight of the Raghus (lavaṇaṃ ... hantā ’si)! This arrow was created, O Kākutstha (sṛṣṭaḥ śaro ’yam), when there slept upon the great primordial ocean (yadā śete mahārṇave)—
 </details>
 </details>
 
@@ -607,6 +721,18 @@ _________________
 
 ईग आ दुष्टनु शूलद प्रभावदिन्द हागू तन्न दुष्टतॆयिन्द मूरु लोकगळल्लि, विशेषवागि तपस्वी मुनिगळन्नु पीडिसतॊडगिदनु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** —the Self-Existent, Unconquered Lord (svayambhūr ajito devaḥ), whom neither gods nor asuras could behold (yan nāpaśyan surāsurāḥ); invisible to all created beings (adṛśyaḥ sarva-bhūtānām), by him indeed was this supreme arrow created (tenāyaṃ tu śarottamaḥ)—
+
+**21:** —created in wrath (sṛṣṭaḥ krodhābhibhūtena) for the destruction of the two wicked-souled demons Madhu and Kaiṭabha (vināśārthaṃ durātmanoḥ madhu-kaiṭabhayoḥ), O hero, who were bent on obstructing creation (vighāte vartamānayoḥ), by him who desired to create the three worlds (sraṣṭu-kāmena lokāṃs trīn); and by this arrow those two were slain in battle (tau cānena hatau yudhi).
+
+**22:** “Having slain those two, Kaiṭabha and Madhu, with this foremost of arrows (tau hatvā ... kaiṭabhaṃ tu madhuṃ tathā anena śara-mukhyena), for the enjoyment of living beings (jana-bhogārtham), he then fashioned the worlds (tato lokāṃś cakāra saḥ).
+
+**23:** “This arrow was not loosed by me before (nāyaṃ mayā śaraḥ pūrvam ... muktaḥ), O Śatrughna, even when seeking Rāvaṇa’s death (rāvaṇasya vadhārthinā), out of concern that great terror would befall all beings (bhūtānāṃ mahāṃs trāso bhaved iti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -637,6 +763,12 @@ _________________
 
 बल-विक्रम सम्पन्न श्रीराम! हीगॆ नम्म मुन्दॆ उपस्थितवाद भयद कारणवन्नु निन्न मुन्दॆ निवेदिसिकॊण्डिद्देवॆ. नीनु अदन्नु दूर माडलु समर्थनागिरुवॆ. आद्दरिन्द नम्म अभिलाषॆ पूर्णगॊळिसु.॥24॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now, as for that mighty trident (yac ca tasya mahac chūlam) given by the great-souled Three-Eyed God (tryambakeṇa mahātmanā dattam) as a supreme weapon to Madhu for the destruction of foes (śatru-vināśāya madhor āyudham uttamam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -661,6 +793,14 @@ _________________
 
 ‘लवणके पास जो महात्मा महादेवजीका शत्रुविनाशके लिये दिया हुआ मधुका दिव्य, उत्तम एवं महान् शूल है, उसका वह प्रतिदिन बारंबार पूजन करता है और उसे महलमें ही गुप्तरूपसे रखकर समस्त दिशाओंमें जा-जाकर अपने लिये उत्तम आहारका संग्रह करता है ॥ २५-२६ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** “—placing that trident inside his dwelling (sa taṃ nikṣipya bhavane), where it is worshiped again and again (pūjyamānaṃ punaḥ punaḥ), he ranges across all the quarters (diśaḥ sarvāḥ samāsādya) and obtains his choice prey (prāpnoty āhāram uttamam).
+
+**26:** “Whenever anyone desiring battle challenges him (yadā tu yuddham ākāṅkṣan kaścid enaṃ samāhvayet), then seizing that trident (tadā śūlaṃ gṛhītvā), the rākṣasa indeed reduces him to ashes (taṃ bhasma rakṣaḥ karoti hi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -680,6 +820,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जब कोई युद्धकी इच्छा रखकर उसे ललकारता है, तब वह राक्षस उस शूलको लेकर अपने विपक्षीको भस्म कर देता है ॥ २७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O tiger among men (sa tvaṃ puruṣa-śārdūla), bearing your weapons (dhṛtāyudhaḥ), stand waiting beforehand at the city gate (pūrvaṃ dvāri tiṣṭha) for him when he is deprived of his weapon (tam āyudha-vinākṛtam) and has not yet entered the city (apraviṣṭaṃ puram)!
 </details>
 </details>
 
@@ -701,6 +847,12 @@ _________________
 
 ‘पुरुषसिंह! जिस समय वह शूल उसके पास न हो और वह नगरमें भी न पहुँच सका हो, उसी समय पहलेसे ही नगरके द्वारपर जाकर अस्त्र-शस्त्र धारण किये उसकी प्रतीक्षामें डटे रहो ॥ २८ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Before he has entered his dwelling (apraviṣṭaṃ ca bhavanam), O bull among men, challenge him to battle (yuddhāya ... āhvayethāḥ), O mighty-armed one; then you shall be the slayer of the rākṣasa (tato hantāsi rākṣasam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -721,6 +873,12 @@ _________________
 
 ‘महाबाहु पुरुषोत्तम! यदि उस राक्षसको महलमें घुसनेसे पहले ही तुम युद्धके लिये ललकारोगे, तब अवश्य उसका वध कर सकोगे ॥ २९ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If it be done otherwise (anyathā kriyamāṇe tu), he will become unslayable (avadhyaḥ sa bhaviṣyati); whereas if it be carried out thus, O hero (yadi tv evaṃ kṛte vīra), he shall go to his destruction (vināśam upayāsyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -740,6 +898,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ऐसा न करनेपर वह अवध्य हो जायगा । वीर! यदि तुमने ऐसा किया तो उस राक्षसका विनाश होकर ही रहेगा ॥ ३० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All this has been explained to you (etat te sarvam ākhyātam), as well as the means of circumventing the trident (śūlasya ca viparyayaḥ); for the deed of the glorious Blue-Throated Lord is impossible to transgress (śrīmataḥ śitikaṇṭhasya kṛtyaṃ hi duratikramam)!”
 </details>
 </details>
 

@@ -38,6 +38,12 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 
 कौसल्यॆय अन्तःपुरदिन्द श्रीरामन जॊतॆगे बन्दिद्द लक्ष्मणनु पति-पत्नियर ई संवादगळॆल्लवन्नू केळि अवन मुखमण्डल कण्णीरिनिन्द तॊय्दु होयितु. अण्णन विरहद शोकवु अवनिन्द सहिसलागलिल्ल.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having arrived earlier and heard that conversation, Lakṣmaṇa, his face suffused with tears (bāṣpaparyākulamukhaḥ) and unable to endure his grief,—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -86,6 +92,12 @@ his eyes glut with tears, being unable to bear the anguish, tightly pressed the 
 and spoke (as floows) to Rama who was performing a great vow and to Seetha who enjoyed great
 honour.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tightly clasping his brother's feet (caraṇau gāḍhaṃ nipīḍya), that joy of the Raghus spoke to the illustrious Sītā and to Rāghava of mighty vows (mahāvratam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,6 +143,12 @@ go; *vanam* = to forest; *mR^igagajaayutam* = filled with antelopes and elephant
 
 "If you decided to go to the forest filled with antelopes and elephants, I, in front
 wearingthe bow, shall accompany you to the forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If your mind is resolved upon going to the forest teeming with deer and elephants (mṛgagajāyutam), I shall accompany you to the woods, walking in front with bow in hand (agre dhanurdharaḥ).”
 </details>
 </details>
 
@@ -180,6 +198,12 @@ wearingthe bow, shall accompany you to the forest."
 "Together with me, you will travel in the various forests, resonant with sounds of
 birds and herds of wild animals."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Accompanied by me, you shall roam through delightful forests resounding on every side with birds and herds of deer (pakṣibhir mṛgayūthaiś ca).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -222,6 +246,12 @@ even sovereignity; *lokaanaam* = over the globes.
 
 "Without you, I do not want ascendency to heaven now do I desire immortality now do
 I wish for sovereignity over the globes."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without you I do not choose ascent to the world of the gods (devalokākramaṇam), nor immortality (amaratvam), nor do I desire sovereignty over all the worlds!”
 </details>
 </details>
 
@@ -270,6 +300,12 @@ spoke.
 Lakshmana who was speaking in favour of coming to the forst, was forbidden by Rama
 through many of his pacifying words. After hearing them, Lakshmana again soke as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, the son of Sumitrā, firmly resolved upon dwelling in the forest, though dissuaded by Rāma with many soothing words (bahubhiḥ sāntvaiḥ), spoke once again:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -316,6 +352,12 @@ permitted; *bhavataa* = by you; *puurvameva* = even earlier; *idaaniim* = now;
 "I was indeed permitted by you earlier. How is it that you are prohibiting me
 now?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since I was already granted permission by you earlier (anujñātas tu bhavatā pūrvam eva), why is this hindrance now placed in my way once again?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -356,6 +398,12 @@ indeed doubt; *me* = in me.
 
 "Oh, the faultless man! I desire to know the reason for prohibiting me, who is
 indeed willing to come to the forest, because there is doubt in my mind."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For what reason is this prohibition laid upon me when I desire to go? I wish to know this, O sinless one, for doubt troubles my mind (saṃśayo hi mamānagha).”
 </details>
 </details>
 
@@ -403,6 +451,12 @@ before; *viiram* = the valiant man; *yaachamaanam* = soliciting;
 
 Thereafter Rama of great splendour spoke to Lakshmana the valiant man who was
 standing in front, intending to preceede Sri Rama and soliciting with joined palms.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma of mighty splendor spoke to the steadfast Lakṣmaṇa, who stood before him with folded hands, eager to walk ahead (prāggāminam) and imploring his leave:
 </details>
 </details>
 
@@ -453,6 +507,12 @@ path; *priyaH* = the beloved one; *praaNa samaH* = as dear as life; *vashyaH*
 "You are so friendly, interested in righteousness, valiant, abiding always in a good
 path, dear to me as life, obedient, my brother and a companion."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are affectionate, devoted to righteousness, steadfast, ever abiding in the path of the good, dear to me as my own life-breath, obedient, compliant, and my true friend (sakhā ca me).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -500,6 +560,12 @@ illustrious.
 "Oh Lakshmana! If you proceed to the forest along with me now, who will support
 Kausalya or the illustrious Sumitra?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If you go to that forest with me today, O son of Sumitrā, who will care for (ko bhajiṣyati) Kausalyā or the illustrious Sumitrā?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -545,6 +611,12 @@ of great splendour; *abhivarshhati* = used to shower; *kaamaiH* = objects of des
 
 "That emperor of great splendour, who used to shower blessings on the people as a
 cloud sends down rain on the earth, stands circumscribed by cord of love."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That lord of the earth of mighty splendor, who formerly showered desires upon all like a rain-cloud upon the earth (parjanyaḥ pṛthivīm iva), now lies bound in the snare of passion (kāmapāśaparyastaḥ).”
 </details>
 </details>
 
@@ -592,6 +664,12 @@ treatment; *sapatniinaam* = to step-wives; *duHkhitaanaam* = who are at grief.
 "That Kaikeyi daughter of king Aswapathi, after obtaining this kingdom, will
 certainly not accord good treatment to her step-wives, who are at grief."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For once that daughter of King Aśvapati has obtained this kingdom, she will do no good (na kariṣyati śobhanam) to her sorrow-stricken co-wives (duḥkhitānāṃ sapatnīnām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -637,6 +715,12 @@ to Kaikeyi; *na smarishhyati* = will not think; *kausalyaam* = of Kausalya;
 
 "Bharata on acquiring the kingdom will be devoted to Kaikeyi and will not think of
 sorrowful Kausalya or Sumitra."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor will Bharata, once he has gained the kingdom and remains wholly dependent upon Kaikeyī (kaikeyyāṃ paryavasthitaḥ), support Kausalyā and the deeply distressed Sumitrā.”
 </details>
 </details>
 
@@ -684,6 +768,12 @@ the venerable lady; *chara* = do; *imam* = this; *artham* = thing;
 
 "Oh, Lakshmana! You stay here and support the venerable Kausalya through your own
 self or by obtaining favour through the king. Do this thing, as said."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O son of Sumitrā, support the noble Kausalyā right here either by yourself or through the king's favor (rājānugrahaṇena vā); carry out this purpose that I have stated.”
 </details>
 </details>
 
@@ -736,6 +826,12 @@ unequalled; *dharmashcha* = religious merit(will accrue).
 been fully demonstrated by you. By honouring the elders, a great unqualled religious merit will
 accrue to you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus your devotion to me will be nobly demonstrated (bhaviṣyati sudarśitā), O knower of dharma, and in honoring our elders you will win supreme and peerless merit.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -781,6 +877,12 @@ mother; *viprahiinaayaaH* = who is left behind; *naH* = bye us.
 
 "Oh, Lakshmana, the exhilarator of Raghu dynasty! Do this for my sake. There will be
 no happiness to our mother, if she is left behind by us."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Act thus for my sake (matkṛte), O son of Sumitrā, O joy of the Raghus; for if our mother is bereft of us all (asmābhir viprahīṇāyāḥ), she can know no happiness.”
 </details>
 </details>
 
@@ -828,6 +930,12 @@ skilled in speech.
 
 Lakshmana who is intelligent in speech, after hearing Rama's words, replied in a
 gentle voice to him who is skilled in speech.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Rāma in gentle words (ślakṣṇayā girā), Lakṣmaṇa, skilled in speech, then replied to Rāma, the master of eloquence (vākyajño vākyakovidam):
 </details>
 </details>
 
@@ -878,6 +986,12 @@ in this matter.
 
 "Oh, Rama the valiant! Bharata being inspired by your splendour of morality will
 respect Kausalya and Sumitra. There is no doubt in this matter."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through your very valor (tavaiva tejasā), O hero, Bharata will assuredly honor both Kausalyā and Sumitrā with devotion; of this there is no doubt.”
 </details>
 </details>
 
@@ -966,6 +1080,16 @@ accomplishing my object; *tava* = your; *arthattcha* = purpose also;
 "Make me your attendant. In this, there is no unrighteousness. Besides, I will be
 accomplishing my object. Your purpose also will be fulfilled."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** “If, however, having obtained this supreme kingdom, the wicked Bharata should fail to protect them out of an evil mind and especially out of arrogance (garveṇa ca viśeṣataḥ)—”
+
+**21:** “Then I shall slay that wicked and cruel man without a doubt, along with all his partisans—nay, even the three worlds! Yet as for her (kiṃ tu sā)—”
+
+**22:** “The noble Kausalyā could support even a thousand men like me (sahasraṃ madvidhān api), she to whom a thousand villages have been granted for her maintenance (upajīvinām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1014,6 +1138,12 @@ path; *agrataH* = in front; *te* = of you.
 
 "Taking my bow and arrows and carrying a spade and a basket, I will walk in front of
 you showing the path."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore that high-minded lady is fully capable (paryāptā) of maintaining herself, my mother as well, and men like me.”
 </details>
 </details>
 
@@ -1064,6 +1194,12 @@ food stuffs; *vanyaani* = available in the forest; *tapasvinaam* = for sages.
 "I will procure for you for all time the tubers, fruits and other things which are
 good food stuffs available in the forest for sages."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Make me your attendant (kuruṣva mām anucaram); there is no transgression of dharma in this! Thus I shall fulfill my life's purpose (kṛtārtho 'haṃ bhaviṣyāmi), and your own purpose too will be accomplished.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1109,6 +1245,12 @@ with Seetha; *ramsyate* = enjoy yourself; *girisaamushhu* = on mountain = ridges
 
 "You along with Seetha enjoy yourself on mountain-ridges. I shall do everything
 while you are waking or sleeping."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Taking my strung bow and bearing a digging-hoe and basket (khanitrapiṭakādharaḥ), I shall walk ahead of you, pointing out the path for you (panthānaṃ tava darśayan).”
 </details>
 </details>
 
@@ -1159,6 +1301,12 @@ take leave; *sarvameva* = of all; *suhR^ijjanam* = your friends.
 Rama, very much delighted of hearing these words, said to him: "Oh, Lakshmana! Go,
 take leave of all your friends."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Every day I shall gather for you roots and fruits, and whatever other forest produce is fit for the oblations and sustenance of ascetics (svāhārhāṇi tapasvinām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1189,6 +1337,12 @@ _________________
 
 नीवु विदेह कुमारिय जॊतॆगॆ पर्वत शिखरगळल्लि भ्रमण माडुवाग, नीवु मलगिरुवाग, ऎच्चरवागिरुवाग ऎल्ल समयदल्लि निम्म ऎल्ल आवश्यकतॆगळन्नु पूर्णगॊळिसुवॆनु.॥27॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You shall delight with Vaidehī upon the mountain slopes (girisānuṣu raṃsyase), while I perform every service for you, whether you are waking or sleeping (jāgrataḥ svapataś ca te).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1213,6 +1367,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मणन ई माति निन्द श्रीरामचन्द्रनिगॆ बहळ सन्तोषवायितु. अवनु हेळिदनु - सुमित्रानन्दन! होगु, तायिये मॊदलाद ऎल्ल सुहृदरन्नु भॆट्टियागि वनवासद विषयवन्नु तिळिसि अवरिन्द अनुमतियन्नु मत्तु आज्ञॆयन्नु पडॆदुको.॥28॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Greatly pleased by these words, Rāma replied to him: “Go then, O son of Sumitrā, and bid farewell (āpṛcchasva) to all your friends and kinsmen!”
 </details>
 </details>
 
@@ -1312,6 +1472,16 @@ were worshipped maalya bhuushhitam = and decorated by garlands.
 Lakshmana, a tiger among princes, showed to Rama all those arms, which were divine,
 being worshipped and decorated by garlands.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** “And those two divine bows of terrible aspect (dhanuṣī raudradarśane) which the great-souled Varuṇa himself bestowed upon King Janaka at his great sacrifice—”
+
+**30:** “Two divine and impenetrable coats of mail (abhedye kavace divye), two quivers with inexhaustible arrows (tūṇī cākṣayyasāyakau), and two gold-decked swords bright as the spotless sun—”
+
+**31:** “All these have been reverently deposited in the house of our preceptor (ācāryasadmani); take all those weapons, O Lakṣmaṇa, and return quickly!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1358,6 +1528,12 @@ the excellent man! tvam = you; *aagataH* = came; *kaale* = in time;
 
 Rama, who had fully controlled his mind, affectionately spoke as follows to
 Lakshmana who arrived: "Oh, Lakshmana, the excellent man! You came in time as desired by me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Firmly resolved upon dwelling in the forest, Lakṣmaṇa took leave of his friends, approached the preceptor of the Ikṣvākus (ikṣvākugurum āgamya), and received those supreme weapons.
 </details>
 </details>
 
@@ -1406,6 +1582,12 @@ ansterities.
 "Lakshmana, the chastiser of foes! along with you, I want to give all this wealth
 pertaining to me to brahmanas, practising ansterities."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That tiger among princes, the son of Sumitrā, then showed to Rāma all those divine weapons, reverently worshipped and adorned with garlands (satkṛtaṃ mālyabhūṣitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1451,6 +1633,12 @@ brahmanas; *vasanti* = residing; *iha* = here; *dR^idham* = as strong;
 
 "I also desire to give to those excellent brahmanas residing here as strong devotees
 to their proceptors and to all my dependents."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The self-possessed Rāma spoke with affection to Lakṣmaṇa upon his return: “You have arrived at the very moment I desired (kāle ... kāṅkṣite mama), O gentle Lakṣmaṇa!”
 </details>
 </details>
 
@@ -1501,6 +1689,12 @@ samastaan dvijaatiin* = all other brahmanas; *shishhTaan* = who are cultured;
 "You bring boon the venerable Suyagna, the son of Vasista, the best. After adoring
 all other brahmanas also who are cultured, I will go to the forest."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With you at my side, O scorcher of foes, I wish to bestow all this wealth of mine (māmakaṃ dhanam) upon Brāhmaṇas and ascetics (brāhmaṇebhyas tapasvibhyaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1525,6 +1719,12 @@ all other brahmanas also who are cultured, I will go to the forest."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 गुरुहिरियर कुरितु सुदृढ भक्तिभावदिन्द कूडिद्दु, नम्म बळि इरुव श्रेष्ठ ब्राह्मणरिगॆ हागू समस्त आश्रित जनरिगू नन्न ई धनवन्नु हञ्चुवुदिदॆ.॥36॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And to those foremost of twice-born men who dwell here with steadfast devotion to their preceptors (dṛḍhaṃ bhaktyā guruṣu), as well as to all my dependents (sarveṣāṃ copajīvinām), I wish to give generously once more.”
 </details>
 </details>
 
@@ -1570,6 +1770,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bring quickly the noble Suyajña, the son of Vasiṣṭha and foremost of the twice-born; having reverently honored him and all other learned Brāhmaṇas (śiṣṭān aparān dvijātīn), I shall set forth for the forest.”
 </details>
 </details>
 

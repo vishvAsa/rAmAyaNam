@@ -71,6 +71,12 @@ Then, turning away from the mountain, Rama (The prospective ruler of Kosala) sho
 Seetha (the daughter of the King of Mithila) the beautiful river of Mandakini carrying splendid
 waters.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, coming forth from the mountain slopes (atha śailād viniṣkramya), the lord of Kosala (kosaleśvaraḥ) showed Maithilī the delightful river Mandākinī of auspicious waters (adarśayac chubha-jalāṃ ramyāṃ mandākinīṃ nadīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ nibhaananaam* = whose face resembled the moon.
 The lotus-eyed Rama spoke to Seetha, (the daughter of Janaka) who was having an
 elegant waist and whose face resembled the moon:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And lotus-eyed Rāma (rāmo rājīva-locanaḥ) spoke to that daughter of the king of Videha (videha-rājasya sutām), of comely hips (varārohām) and a face resembling the lovely moon (cāru-candra-nibhānanām):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -162,6 +174,12 @@ multi-coloured sandy beaches; *hamsa saarasaa sevitaam* = frequented by swans an
 
 "Behold this charming river of Mandakini, with its multi-coloured sandy beaches,
 frequented by swans and geese and laden with flowers."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold the delightful river Mandākinī (paśya ramyāṃ mandākinīṃ nadīm), with its variegated sandbanks (vicitra-pulinām), frequented by swans and cranes (haṃsa-sārasa-sevitām), and richly endowed with lotuses (kamalair upasampannām).
 </details>
 </details>
 
@@ -211,6 +229,12 @@ loveliness; *aliniim iva* = like the lake (sangandhika); *raajaraajasya* = of Ku
 growing on its banks and enhance its loveliness like the lake (Sangadhika) of Kubera (the ruler of
 Yakshas)"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Girt on every side with manifold bank-growing trees laden with flowers and fruits (nānā-vidhais tīra-ruhair vṛtāṃ puṣpa-phala-drumaiḥ), it shines like the lotus-lake Nalinī of Kubera, the king of kings (rājantīṃ rāja-rājasya nalinīm iva sarvataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -256,6 +280,12 @@ Yakshas)"
 
 "At this moment, its pleasant fords, where herds of deer drink and make the waters
 turbid, create ecstasy in me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Its delightful bathing-fords (tīrthāni ramaṇīyāni), whose waters are just now turbid from being drunk by herds of deer (mṛga-yūtha-nipītāni kaluṣāmbhāṃsi sāmpratam), awaken deep delight in me (ratiṃ sañjanayanti me).
 </details>
 </details>
 
@@ -305,6 +335,12 @@ hour.
 bark of trees for their upper garment, take a dip in the River Mandakini, at the appointed
 hour."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wearing matted locks and deerskins (jaṭājina-dharāḥ), with bark-garments as their upper robes (valkalottara-vāsasaḥ), the sages at the appointed hour (ṛṣayas tu kāle) plunge into the river Mandākinī, O beloved (avagāhante nadīṃ mandākinīṃ priye).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +386,12 @@ hour."
 
 "O, Lady of wide eyes! Here are some other sages of austere vows, worshipping the
 sun with uplifted arms; as per the scriptural injunctions."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With arms upraised in strict observance (niyamād ūrdhva-bāhavaḥ), these other sages of keen-edged vows, O large-eyed one (ete pare viśālākṣi munayaḥ saṃśita-vratāḥ), worship the sun-god (ādityam upatiṣṭhante).
 </details>
 </details>
 
@@ -399,6 +441,12 @@ leaves and flowers; *nadiim abhitaH* = on both sides of the river; *parvataH* =
 
 "The trees, their crowns agitated by the breeze, that shower down leaves and flowers
 on both sides of the river cause the mountain to appear as though it were dancing!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With its trees whose crests are tossed by the wind (mārutoddhūta-śikharaiḥ pādapaiḥ) and which shower leaves and blossoms on both sides of the river (patra-puṣpāṇi sṛjadbhir abhito nadīm), the mountain seems to be dancing (pranṛtta iva parvataḥ).
 </details>
 </details>
 
@@ -452,6 +500,12 @@ places."
 
 Siddha: A class of semi-divine beings endowed with mystic powers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold the river Mandākinī (paśya mandākinīṃ nadīm), displaying crystal-bright waters in some places (kvacin maṇi-nikāśodām), gleaming with sandy beaches in others (kvacit pulina-śālinīm), and thronged with perfected sages in yet others (kvacit siddha-janākīrṇām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -499,6 +553,12 @@ waist.
 "Behold you, heaps of flowers shaken down by the wind and shattered. See some other
 heaps of flowers floating, O lady with slender waist!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold the heaps of blossoms shaken down by the wind (nirdhūtān vāyunā paśya puṣpa-sañcayān) and spread along the banks (vitatān), and behold others bobbing up and down (poplūyamānān aparān paśya tvam) in the midst of the current (jala-madhya-gān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -544,6 +604,12 @@ harmonious; *giraH* = tones.
 
 "O, Kalyani! Behold the sweet-voiced ruddy geese, ascending the banks uttering
 harmonious tones."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And those birds named after the chariot-wheel, of exceedingly sweet voice (tāṃś cātivalgu-vacaso rathāṅgāhvayanā dvijāḥ), mount upon them, O auspicious lady (adhirohanti kalyāṇi), uttering melodious cries (vikūjantaḥ śubhā giraḥ).
 </details>
 </details>
 
@@ -592,6 +658,12 @@ woman!.
 "I consider this sight of Mandakini River and of Chitrakuta, particularly at your
 sight, to be more delightful than dwelling in the City of Ayodhya, O, lovely woman!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O lovely lady (śobhane), I deem the sight of Citrakūṭa and of the Mandākinī (darśanaṃ citrakūṭasya mandākinyāś ca manye) to be more delightful than dwelling in the capital city (adhikaṃ pura-vāsāc ca)—and even than beholding you (tava darśanāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -639,6 +711,12 @@ Here are Siddhas (semi-divine beings endowed with mystic powers), free from
 impurities and rich in asceticism, with their senses and mind under control, who perpetually stir
 the waters. You too should take a dip in the river along with me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Plunge with me (vigāhasva mayā saha) into this stream whose waters are ever stirred (nitya-vikṣobhita-jalām) by perfected sages cleansed of all sin (vidhūta-kaluṣaiḥ siddhaiḥ) and endowed with austerity, self-restraint, and inner peace (tapo-dama-śamānvitaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -684,6 +762,12 @@ Lovely Seetha!.
 
 "Enter the Mandakini River, as on the breast of a friend, submerging the red and
 white lotuses in it- O, Lovely Seetha!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enter the river Mandākinī, O Sītā, as though into the embrace of a female friend (sakhīvac ca vigāhasva sīte mandākinīṃ nadīm), submerging the red and white lotuses, O lovely lady (kamalāny avamajjantī puṣkarāṇi ca bhāmini).
 </details>
 </details>
 
@@ -732,6 +816,12 @@ as the Sarayu.
 "My darling! Think of the wild beasts as inhabitants of the city of Ayodhya, this
 mountain of Chitrakuta as the city of Ayodhya and this river as the Sarayu from now on!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Regard the wild beasts ever as the citizens (tvaṃ paura-janavad vyālān manyasva nityam), O lovely woman (vanite), this mountain as Ayodhyā (ayodhyām iva parvatam), and this river as the Sarayū (sarayūvad imāṃ nadīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -777,6 +867,12 @@ commands; *tvam cha* = you too; *anukuulaa* = are well-disposed; *janayathaH*
 
 "O, Seetha!; The virtuous Lakshmana is obeying my commands and you too are
 well-disposed, causing delight to me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Righteous-souled Lakṣmaṇa, ever abiding in my command (lakṣmaṇaś cāpi dharmātmā man-nideśe vyavasthitaḥ), and you who are ever compliant, O Vaidehī (tvaṃ cānukūlā vaidehi), both awaken deep joy in me (prītiṃ janayatho mama).
 </details>
 </details>
 
@@ -826,6 +922,12 @@ spR^ihaye* = nor do I long; *ayodhyaayai* = for Ayodhya; *adya* = now.
 
 "Bathing three times a day in the river and living on honey, roots and fruits in
 your company, I do not desire for the kingdom nor do I long for Ayodhya now."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathing at the three sacred junctures of the day (upaspṛśaṃs tri-ṣavaṇam) and subsisting on honey, roots, and fruits (madhu-mūla-phalāśanaḥ), in your company today I long neither for Ayodhyā nor for royal sovereignty (nāyodhyāyai na rājyāya spṛhaye 'dya tvayā saha).
 </details>
 </details>
 
@@ -882,6 +984,12 @@ bloom.
 "There is none in the world, who would not be relieved of his fatigue and feel
 refreshed on the banks of this enchanting river, frequented by herds of elephants, who with lions
 and monkeys, come here to drink and which is adorned with innumerable flowers in full bloom."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For there is no one (na so 'sti yaḥ syāt) who, beholding this delightful river graced by herds of deer (imāṃ hi ramyāṃ mṛga-yūtha-śālinīm), whose waters are drunk by elephants, lions, and monkeys (nipīta-toyāṃ gaja-siṃha-vānaraiḥ), and which is adorned with blossoming trees (supuṣpitaiḥ puṣpa-dharair alaṅkṛtām), would remain unrefreshed from fatigue and devoid of happiness (agata-klamaḥ sukhī).”
 </details>
 </details>
 
@@ -948,6 +1056,12 @@ Chitrakuta which was shining like a piece of collieries."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तैदनॆय सर्ग पूर्णवायितु.॥95॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking manifold and harmonious words such as these concerning the river (itīva bahu-saṅgataṃ vacaḥ saritaṃ prati bruvan) in the company of his beloved (priyā-sahāyaḥ), Rāma, the enhancer of the race of Raghu (sa rāmo raghu-vaṃśa-vardhanaḥ), wandered over delightful Mount Citrakūṭa, which shone dark like collyrium for the eyes (cacāra ramyaṃ nayanāñjana-prabhaṃ citrakūṭam).
 </details>
 </details>
 

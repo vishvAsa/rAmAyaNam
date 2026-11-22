@@ -74,6 +74,12 @@ words.
 After informing all this, Hanuma the son of wind-god started telling more of the following
 words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having recounted all that (etat सर्वं आख्याय), Hanūmān, the son of the Wind-god (mārutātmajaḥ), proceeded once more (bhūyaḥ samupacakrāma) to speak a further word (vacanam uttaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +128,12 @@ also; *pravaam* = is devoted (to her).
 
 "By the power of virtuousness of Seetha, Rama's effort and Sugreeva's zeal are getting
 fulfilled. My mind too is devoted to her."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fruitful is Rāghava’s exertion (saphalo rāghavodyogaḥ) and Sugrīva’s eager zeal (saṃbhramaḥ); having witnessed Sītā’s noble conduct (śīlam āsādya), my mind is deeply gladdened (prīṇitaṃ manaḥ).
 </details>
 </details>
 
@@ -172,6 +184,12 @@ kruddhovaapi* = even if he is enraged; *nirdahadapi* = he can scorch away (his e
 "Ravana, the king of demons, who is strong in all ways, can burn away the three worlds
 by the power of his penance. Even if he is enraged, he can scorch away his adversaries."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Worthy is the chaste conduct (sadṛśaṃ śīlam) of the noble lady Sītā (āryāyāḥ sītāyāḥ), O bulls among leapers (plavagarṣabhāḥ); by her austerity (tapasā) she could sustain the worlds (dhārayel lokān), or if enraged (kruddhā vā), even burn them up (nirdahed api).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,6 +237,12 @@ touched; *paaNinaa* = with one's hand; *na kuryaat* = cannot do; *tat* = that;
 his askesis. Even a flame, when fully touched with one's hand, cannot do that which Seetha would, if
 stirred by anger."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In every way (sarvathā) that Rāvaṇa, lord of Rākṣasas (rākṣaseśvaraḥ), is of surpassing ascetic might (atiprakṛṣṭaḥ), since his body (gātram), when touching her (tāṃ spṛśataḥ), was not consumed (na vināśitam) by her austerity (tapasā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -245,6 +269,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 जनकात्मजॆयाद सीतादेवियु कोपगॊण्डरॆ, केवल तन्न करस्पर्शदिन्दले एनन्नादरू भस्मवागिसबल्लळु. आ रीति अग्नियिन्दलू साध्यवागदु. अग्निय ज्वालॆगिन्तलू सीतादेविय कोपवु विशिष्टवादुदु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even a tongue of flame (agniśikhā) touched directly by the hand (saṃspṛṣṭā pāṇinā satī) could not do (na tat kuryāt) what Janaka’s daughter (janakasya sutā), turbid with wrath (krodhakaluṣīkṛtā), could accomplish (kuryāt).
 </details>
 </details>
 
@@ -292,6 +322,12 @@ discovery); *nivedite* = which has been informed; *bharataam* = to you; *evam ga
 "This work (of mine in the form of Seetha's discovery) has been informed to you in this
 way. It is indeed proper to see those two princes (Rama and Lakshmana) along with Seetha, after taking
 permission from all the great monkeys headed by Jambavan.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having sought the leave of all the great monkeys headed by Jāmbavān (jāmbavatpramukhān sarvān anujñāpya mahākapīn), when this business has reached such a pass (asmin evaṃgate kārye) and been reported to you (bhavatāṃ ca nivedite), it were fitting indeed (nyāyyaṃ sma) to behold those two royal princes (tau pārthivātmajau) only together with Vaidehī (saha vaidehyā).
 </details>
 </details>
 
@@ -363,6 +399,14 @@ so?
 "When accompanied by you, who are strong, whose spirit is disciplined, who are proficient
 in the use of arms, valiant, longing for victory and moving by jumps, how much more is required?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** I alone am sufficient (aham eko 'pi paryāptaḥ) to destroy by force (tarasā hantum) that city of Laṅkā (tāṃ laṅkāṃ purīm) along with its hosts of Rākṣasas (sarākṣasagaṇām), and Rāvaṇa of mighty strength (rāvaṇaṃ ca mahābalam);
+
+**8:** how much more so (kiṃ punaḥ) when joined by you (sahito bhavadbhiḥ)—heroes (vīraiḥ) endowed with strength (balavadbhiḥ), self-possessed (kṛtātmabhiḥ), accomplished in weapons (kṛtāstraiḥ), capable leapers (plavagaiḥ śaktaiḥ) eager for victory (vijayaiṣibhiḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +446,12 @@ in the use of arms, valiant, longing for victory and moving by jumps, how much m
 "In the battle, I on my part will kill Ravana along with his army, his forerunners, his
 sons and his brothers."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In battle (yuddhe) I shall slay Rāvaṇa (ahaṃ tu rāvaṇaṃ vadhiṣyāmi) along with his army and vanguard (sasainyaṃ sapuraḥsaram), together with his sons (sahaputram) and joined by his brothers (sahodarayutaṃ yudhi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -433,6 +483,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यद्यपि इन्द्रजित् के ब्राह्म अस्त्र, रौद्र, वायव्य तथा वारुण आदि अस्त्र युद्धमें दुर्लक्ष्य होते हैं—किसीकी दृष्टिमें नहीं आते हैं, तथापि मैं ब्रह्माजीके वरदानसे उनका निवारण कर दूँगा और राक्षसोंका संहार कर डालूँगा ॥ १० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whether it be the missile of Brahmā (brāhmam astram), or of Rudra (raudraṃ ca), or of Vāyu (vāyavyam), or likewise of Varuṇa (vāruṇaṃ tathā)—whatever missiles of Indrajit (yadi śakrajito 'strāṇi) are hard to gaze upon in combat (durnirīkṣyāṇi saṃyuge), those I shall strike down (tāny ahaṃ nihaniṣyāmi) and scatter the Rākṣasas (vidhamiṣyāmi rākṣasān).
 </details>
 </details>
 
@@ -482,6 +538,12 @@ son); *haniSyaami* = I can kill; *raakSasaan* = the demons.
 "In the battle, I can blow out the missiles presided over by Indra the lord of celestials,
 Brahma the creator, Rudra the god of destruction, Vayu the wind-god, Varuna the god of water and even
 those missiles even if they are difficult to be looked at, employed by Indrajit (Ravana's eldest son).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sanctioned by you (bhavatām abhyanujñātaḥ), my valor (vikramo me) shall vanquish him (ruṇaddhi tam); for an peerless, unceasing rain of crags (atulā śailavṛṣṭir nirantarā) hurled by me (mayā visṛṣṭā hi)—
 </details>
 </details>
 
@@ -553,6 +615,14 @@ demons?"
 "The ocean may overflow its shore. Mount Mandara may move from its position. But, in
 battle, no army of adversaries can stagger Jambavan."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** could slay even the gods in battle (devān api raṇe hanyāt), how much more those night-stalkers (kiṃ punas tān niśācarān)! Unsanctioned by you (bhavatām ananujñātaḥ), my valor holds me back (vikramo me ruṇaddhi mām).
+
+**13:** Even the ocean might transgress its shore (sāgaro 'py atiyād velām), and Mount Mandara itself might shake (mandaraḥ pracaled api); yet an enemy host (arivāhinī) could never shake Jāmbavān in battle (na jāmbavantaṃ samare kampayet).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -601,6 +671,12 @@ demons who were their progenitors.
 
 "The heroic Angada, the son of Vali alone, is sufficient to destroy all the troops of
 demons and even the demons who were their progenitors."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The heroic monkey who is Vālin’s son (vīro vālisutaḥ kapiḥ) is alone sufficient (alam eko 'pi) for the destruction (nāśāya) of all the hosts of Rākṣasas (sarvarākṣasasaṅghānām) and whichever Rākṣasas are their foremost elders (rākṣasā ye ca pūrvajāḥ).
 </details>
 </details>
 
@@ -651,6 +727,12 @@ even Mount Mandara; *avashiiryeta* = can be shattered; *kim punaH* = How much mo
 "By the rapid movement of the thighs of the high-souled Neela and of Panasa, even Mount
 Mandara can be shattered. How much more, the demons in battle?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And by the impetuous speed of the thighs (ūruvegena) of the high-souled leaper Nīla (plavagasya nīlasya ca mahātmanaḥ), even Mount Mandara would shatter (mandaro 'py avaśīryeta), how much more the Rākṣasas in battle (kiṃ punar yudhi rākṣasāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -691,6 +773,12 @@ yakSeSu* = or the celestials or demons or Yakshas the semi-divine beings.
 "Tell me any one who can fight against Mainda or Dvivida, among Gandharvas the celestial
 singers or Uragas the serpents or Pakshis the birds or the celestials or the demons or Yakshas the semi-divine
 beings."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Among gods, Asuras, and Yakṣas (sadevāsurayakṣeṣu), and among Gandharvas, serpents, and birds (gandharvoragapakṣiṣu), name any adversary (pratiyoddhāraṃ śaṃsata) to match Mainda or Dvivida (maindasya dvividasya vā)!
 </details>
 </details>
 
@@ -741,6 +829,12 @@ monkeys; *raNaajire* = in the battle-field; *na pashyaami* = I do not find; *pra
 "These two illustrious sons of Ashvini Kumaras, Mainda and Dvivida are the foremost among
 the monkeys. In the battle-field, I do not find anyone who can fight against these two monkeys."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+These two foremost of leapers (etau plavagasattamau), the sons of the Aśvins (aśviputrau), are of mighty speed (mahāvegau); I see no adversary for these two (etayoḥ pratiyoddhāraṃ na paśyāmi) upon the battlefield (raṇājire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -769,6 +863,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मैंने अकेले ही लङ्कावासियोंको मार गिराया, नगरमें आग लगा दी और सारी पुरीको जलाकर भस्म कर दिया । इतना ही नहीं, वहाँकी सब सड़कोंपर मैंने अपने नामका डंका पीट दिया ॥ १८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By me alone was Laṅkā struck down (mayaiva nihatā laṅkā), burned, and the city reduced to ashes (dagdhā bhasmīkṛtā purī); and in all its royal highways (rājamārgeṣu sarveṣu) the name was proclaimed by me (nāma viśrāvitaṃ mayā):
 </details>
 </details>
 
@@ -854,6 +954,14 @@ of Ashvini Kumaras regarding their inviolability."
 "By the pride of those boons, those two heroic monkeys harassed a great army of celestials
 and thereupon drank up nectar, excited as they were with joy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** ‘Victorious is Rāma of surpassing strength (jayaty atibalo rāmaḥ), and Lakṣmaṇa of mighty power (lakṣmaṇaś ca mahābalaḥ); victorious is King Sugrīva (rājā jayati sugrīvaḥ), protected by Rāghava (rāghaveṇābhipālitaḥ)!
+
+**20:** I am the servant of the king of Kosala (ahaṃ kosalarājasya dāsaḥ), born of the Wind-god (pavanasambhavaḥ), Hanūmān!’—thus everywhere (iti sarvatra) was my name proclaimed by me (nāma viśrāvitaṃ mayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -903,6 +1011,12 @@ kumjaraam* = along with its horses; chariots and elephants.
 "Let all the other monkeys stand aside. Even these Mainda and Dvivida on their part are
 capable of destroying the entire city of Lanka together with its horses, chariots and elephants."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the midst of the Aśoka grove (aśokavanikāmadhye) of the evil-souled Rāvaṇa (rāvaṇasya durātmanaḥ), underneath at the root of a śiṃśapā tree (adhastāc chiṃśapāmūle), the chaste lady abides in piteous sorrow (sādhvī karuṇam āsthitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -951,6 +1065,12 @@ _________________
 "I alone burnt and destroyed the City of Lanka. In all its royal high-ways, the name
 (of Rama and others) was proclaimed by me as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by Rākṣasīs (rākṣasībhiḥ parivṛtā) and wasted by grief and torment (śokasaṃtāpakarśitā), she is lustreless (niṣprabhā) like a digit of the moon (candrarekheva) ringed by a streak of cloud (megharekhāparivṛtā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -973,6 +1093,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सुन्दर कटिप्रदेशवाली विदेहनन्दिनी जानकी पतिव्रता हैं । वे बलके घमंडमें भरे रहनेवाले रावणको कुछ भी नहीं समझती हैं तो भी उसीकी कैदमें पड़ी हैं ॥ २३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disregarding Rāvaṇa (acintayantī rāvaṇam), who is arrogant in his strength (baladarpitam), Vaidehī, the fair-hipped Janaka’s daughter (suśroṇī jānakī), remains devoted to her lord (pativratā ca) and held fast in captivity (avaṣṭabdhā ca).
 </details>
 </details>
 
@@ -1021,6 +1147,12 @@ name (of Rama and others); *vishraavitam* = was heralded; *mayaa* = by me; *sarv
 "'Victorious is Rama, the exceedingly strong and the mighty Lakshmana too! Victorious
 is King Sugreeva, protected by Rama. I am Hanuma, a servant of Rama and the son of wind-god'. In this
 way, the name (of Rama and others) was heralded by me everywhere."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For the auspicious Vaidehī (vaidehī śubhā) is devoted to Rāma with all her soul (anuraktā hi rāme sarvātmanā), her mind fixed on none other through Rāma (ananyacittā rāmeṇa), like Paulomī toward Purandara (paulomīva purandare).
 </details>
 </details>
 
@@ -1092,6 +1224,14 @@ the virtuous Seetha was seen staying dejected, encircled as she was with female-
 grief and anguish, lusterless like a digit of the moon encircled by a line of clouds and disregarding
 that Ravana who is arrogant of his strength."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** Clad in that single garment (tadekavāsaḥsaṃvītā) and covered all over with dust (rajodhvastā tathaiva ca), she was seen by me in the midst of the Rākṣasīs (sā mayā rākṣasīmadhye), being threatened again and again (tarjyamānā muhur muhuḥ)—
+
+**26:** beheld indeed in the pleasure-grove (dṛṣṭā hi pramadāvane) surrounded by hideous Rākṣasīs (rākṣasībhir virūpābhiḥ), wearing a single braid (ekaveṇīdharā), afflicted (dīnā), and wholly absorbed in thoughts of her lord (bhartṛcintāparāyaṇā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1118,6 +1258,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बलगर्वितनाद रावणनु अवळन्नु हीगॆ निर्बन्धिसिट्टिद्दरू, सौन्दर्यवतियू, पतिव्रताशिरोमणियू आद जानकिदेवियु अवनन्नु लॆक्किसुवुदे इल्ल.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having the bare ground for her bed (adhaḥśayyā) and her limbs drained of color (vivarṇāṅgī) like a lotus-plant at the onset of winter frost (padminīva himodaye), she has turned her purpose wholly away from Rāvaṇa (rāvaṇād vinivṛttārthā) and resolved upon dying (martavyakṛtaniścayā).
 </details>
 </details>
 
@@ -1165,6 +1311,12 @@ dare* = in the concern of Indra the destroyer of strong holds.
 The auspicious Seetha is devoted to Rama in all ways, giving her undivided thought to Rama like Shachi
 the goddess, giving her concern to Indra the destroyer of strong holds."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With great difficulty (kathaṃcit) the fawn-eyed lady (mṛgaśāvākṣī) was brought to confidence (viśvāsam upapāditā); then she was conversed with (tataḥ saṃbhāṣitā caiva) and apprised of the entire matter (sarvam arthaṃ prakāśitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1194,6 +1346,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘श्रीराम और सुग्रीवकी मित्रताकी बात सुनकर उन्हें बड़ी प्रसन्नता हुई । सीताजीमें सुदृढ़ सदाचार (पातिव्रत्य) विद्यमान है । अपने पतिके प्रति उनके हृदयमें उत्तम भक्ति है ॥ २९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And having heard of the friendship between Rāma and Sugrīva (rāmasugrīvasakhyaṃ ca śrutvā), she attained joy (prītim upāgatā); steadfast is her virtuous conduct (niyataḥ samudācāraḥ), and supreme is her devotion toward her husband (bhaktir bhartari cottamā).
 </details>
 </details>
 
@@ -1238,6 +1396,12 @@ shoka samtaapa diina aNgii* = with her body looking miserable with grief and ang
 "Weaving that single piece of cloth, which she had on her person even while being borne
 away by Ravana, and likewise covered with dust, she was seen by me in a miserable condition with her
 grief and anguish, devoted as she was to the welfare of her husband."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That she does not slay the ten-necked one (yan na hanti daśagrīvam), that ten-faced demon is of great ascetic might (sa mahātmā daśānanaḥ); yet Rāma will be the mere instrument (nimittamātraṃ rāmas tu) in his slaying (vadhe tasya bhaviṣyati).
 </details>
 </details>
 
@@ -1288,6 +1452,12 @@ a royal pleasure-garden; *raakSasii madhye* = amidst female-demons.
 frightened time and again by those ugly female-demons. That Seetha, wearing a single braid of hair and
 looking depressed, was fully engaged in thinking about her lord. Looking like a lotus with a discoloured
 figure in winter, she had determined to die, utterly averting to do anything with Ravana."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Naturally slender-limbed (sā prakṛtyaiva tanvaṅgī) and wasted further by separation from him (tadviyogāc ca karśitā), she has fallen into extreme thinness (tanutāṃ gatā) like the learning of one who studies on the first lunar day (pratipatpāṭhaśīlasya vidyeva).
 </details>
 </details>
 
@@ -1345,6 +1515,12 @@ between Rama and Sugreeva."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऐवत्तॊम्भत्तनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus abides the illustrious Sītā (evam āste mahābhāgā sītā), wholly given over to grief (śokaparāyaṇā); whatever counter-measure is to be taken in this matter (yad atra pratikartavyam), let all that be promptly contrived (tat sarvam upakalpyatām).”
 </details>
 </details>
 

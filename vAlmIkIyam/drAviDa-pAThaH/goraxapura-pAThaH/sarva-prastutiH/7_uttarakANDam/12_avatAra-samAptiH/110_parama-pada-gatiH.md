@@ -36,6 +36,12 @@ title = "११० परम-पद-गतिः"
 
 अयोध्यॆयिन्द ऒन्दूवरॆ योजन दूर होद बळिक श्रीरामनु पश्चिम दिक्किनल्लिरुव पुण्योदकदिन्द कूडिद सरयू नदियन्नु दर्शिसिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having proceeded a yojana and a half (adhyardha-yojanaṃ gatvā), the delight of the Raghus beheld the sacred-watered river Sarayū (sarayūṃ puṇya-salilām), which turned its course westward (nadīṃ paścān-mukhāśritām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "११० परम-पद-गतिः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सरयू नदियल्लि ऎल्लॆडॆ सुळिगळिद्दवु. अल्लि ऎल्लॆडॆ तिरुगाडि रघुनन्दन श्रीरामनु प्रजाजनरॊन्दिगॆ ऒन्दु उत्तम स्थानक्कॆ तलुपिदनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Following along every bend of that river teeming with swirling eddies (tāṃ nadīm ākulāvartāṃ sarvatrānusaran), King Rāma, the delight of the Raghus, arrived together with his subjects at that sacred spot (āgataḥ saprajo rāmas taṃ deśam).
 </details>
 </details>
 
@@ -90,6 +102,14 @@ title = "११० परम-पद-गतिः"
 
 आगले लोकपितामह ब्रह्मदेवरु समस्त देवतॆगळिन्द हागू ऋषिगळिन्द संवृतनागि श्रीरघुनाथनु परमधामक्कॆ तॆरळलु निन्तिद्द स्थलक्कॆ बन्दु तलुपिदरु. अवरॊन्दिगॆ कोटि-कोटि दिव्य विमानगळु शोभिसुत्तिद्दवु.॥3-4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** Then in that very hour (atha tasmin muhūrte tu), Brahmā, the Grandfather of the worlds (brahmā loka-pitāmahaḥ), surrounded by all the gods and the great-souled sages (sarvaiḥ parivṛto devair ṛṣibhiś ca mahātmabhiḥ),
+
+**4:** descended to the place where Kākutstha stood ready for heaven (āyayau yatra kākutsthaḥ svargāya samupasthitaḥ), encircled by a hundred crores of divine aerial cars (vimāna-śata-koṭībhir divyābhir abhisaṃvṛtaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +134,12 @@ title = "११० परम-पद-गतिः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आकाश मण्डलवॆल्ल दिव्यतेजदिन्द व्याप्तवागि अत्यन्त ज्योतिर्मयवागुत्तित्तु. पुण्यकर्ममाडुव स्वर्गवासीगळु स्वयं प्रकाशितरागि तम्म तेजदिन्द आ स्थानवन्नु बॆळगिसुत्तिद्दरु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Overspread with divine effulgence (divya-tejovṛtam), the firmament became a peerless mass of pure radiance (vyoma jyotir-bhūtam anuttamam) through the self-luminous splendors of the righteous heaven-dwellers (svayamprabhaiḥ svatejobhiḥ svargibhiḥ puṇya-karmabhiḥ).
 </details>
 </details>
 
@@ -140,6 +166,12 @@ title = "११० परम-पद-गतिः"
 
 परम पवित्र, सुगन्धित, सुखदायक मन्दानिल बीसतॊडगितु. देवतॆगळु सुरिसुव राशि-राशि दिव्यपुष्पगळ भारी वर्षा आगतॊडगितु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pure, fragrant, and soothing breezes blew (puṇyā vātā vavuś caiva gandhavantaḥ sukhapradāḥ), and a shower of flowers released by the gods rained down like a mighty flood (papāta puṣpa-vṛṣṭiś ca devair muktā mahaughavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +197,12 @@ title = "११० परम-पद-गतिः"
 
 आग नूरारु वाद्यगळु मॊळगिदवु, गन्धर्वरु मत्तु अप्सरॆयरिन्द अल्लिय जाग तुम्बि होयितु. अष्टरल्लि श्रीरामचन्द्रनु सरयू जलवन्नु प्रवेशिसलु मुन्दडियिट्टनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In that hour filled with hundreds of celestial instruments (tasmiṃs tūrya-śataiḥ kīrṇe) and thronged with gandharvas and apsarases (gandharvāpsara-saṅkule), Rāma stepped on foot into the waters of the Sarayū (sarayū-salilaṃ rāmaḥ padbhyāṃ samupacakrame).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +227,12 @@ title = "११० परम-पद-गतिः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग ब्रह्मदेवरु आकाशदिन्द नुडिदरु - श्रीविष्णुस्वरूप रघुनन्दन! बा बा! निनगॆ मङ्गळवागलि. नीनु परमधामक्कॆ आगमिसुवुदु नम्म सौभाग्यवागिदॆ.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the Grandfather spoke a voice from the sky (pitāmaho vāṇīm antarikṣād abhāṣata): “Come, O Viṣṇu—auspiciousness be yours! By good fortune have you arrived, O Rāghava (āgaccha viṣṇo bhadraṃ te diṣṭyā prāpto ’si rāghava)!
 </details>
 </details>
 
@@ -217,6 +261,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबाहो! देवतुल्य तेजस्वी सहोदररॊन्दिगॆ निन्न स्वरूपभूत लोक वन्नु प्रवेशिसु. नीनु बयसिद स्वरूपदिन्दले प्रवेशमाडु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Together with your god-like brothers, enter your own body (bhrātṛbhiḥ saha devābhaiḥ praviśasva svikāṃ tanum); whichever body of yours you desire, O mighty-armed one, enter that body of your own (yām icchasi mahābāho tāṃ tanuṃ praviśa svikām)—that Vaiṣṇava form, O greatly resplendent one, or that eternal supreme Ether (vaiṣṇavīṃ tāṃ mahātejas tadvākāśaṃ sanātanam)!
 </details>
 </details>
 
@@ -249,6 +299,14 @@ _________________
 
 महातेजस्वी परमेश्वर! नीनु इच्छिसुवॆयादरॆ चतुर्भुज विष्णुरूपदल्ले प्रवेशिसु, अथवा तन्न सनातन आकाशमय अव्यक्त ब्रह्मरूपदल्लि विराजमाननागु. देव! नीने समस्त लोकगळ आश्रयवागिरुवॆ. निन्न पुरातन पत्नी योगमाया स्वरूपळाद, विशालाक्षियाद सीतादेविय हॊरतु बेरॆ यारिगू निन्न निज स्वरूप तिळियदु; एकॆन्दरॆ नीनु अचिन्त्यनु, महासत्त्वनु, अविनाशियु, आदिमध्यान्तरहितनु, जरामरणरहितनु. ईग नीनु यावु स्वरूपदल्लि प्रवेशिसलु बयसुवॆयो आ स्वरूपदल्लि सेरिको.॥10-11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** “For you are the supreme refuge of the worlds, O Lord (tvaṃ hi loka-gatir deva); none truly comprehend you (na tvāṃ kecit prajānate), save only wide-eyed Māyā, your primeval consort (ṛte māyāṃ viśālākṣīṃ tava pūrva-parigrahām).
+
+**11:** “You are the inconceivable, the vast Being, the imperishable, the all-encompassing (tvām acintyaṃ mahad bhūtam akṣayaṃ sarva-saṅgraham); whichever form you desire, O greatly resplendent one, enter that body of yourself (yām icchasi mahātejas tāṃ tanuṃ praviśa svayam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -273,6 +331,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पितामह ब्रह्मदेवर मातन्नु केळि परम बुद्धिवन्त श्रीरामनु एनो निश्चयिसि सहोदररॊन्दिगॆ शरीरसहित तन्न वैष्णव तेजस्सिनल्लि प्रवेशिसिदनु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of the Grandfather and resolving firmly in mind (pitāmaha-vacaḥ śrutvā viniścitya mahāmatiḥ), he entered the Vaiṣṇava effulgence in his very body together with his younger brothers (viveśa vaiṣṇavaṃ tejaḥ saśarīraḥ sahānujaḥ).
 </details>
 </details>
 
@@ -299,6 +363,12 @@ _________________
 
 मत्तॆ इन्द्राग्नि आदि ऎल्ल देवतॆगळु, साध्यरु, मरुद्गणरु, विष्णुस्वरूपदल्लि स्थितनाद भगवान् श्रीरामनन्नु स्तुतिसि पूजिस तॊडगिदरु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the deities worshipped the Lord now united with Viṣṇu (viṣṇu-mayaṃ devaṃ pūjayanti sma devatāḥ)—the Sādhyas and the hosts of Maruts, together with Indra and headed by Agni (sādhyā marud-gaṇāś caiva sendrāḥ sāgni-purogamāḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -323,6 +393,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर दिव्यऋषि, गन्धर्वरु, अप्सरॆयरु, गरुड, नाग, दैत्य, दानव, राक्षस इवरॆल्लरू भगवन्तन गुणगान माडतॊडगिदरु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+as well as the divine companies of sages, the gandharvas and apsarases (ye ca divyā ṛṣi-gaṇā gandharvāpsarasaś ca yāḥ), the suparṇas, nāgas, and yakṣas, and the daityas, dānavas, and rākṣasas (daitya-dānava-rākṣasāḥ).
 </details>
 </details>
 
@@ -352,6 +428,12 @@ _________________
 
 अवरु स्तुतिसुत्तारॆ- प्रभो ! नीनु इल्लिगॆ पदार्पण माडिद्दरिन्द देवलोक वासिगळ समुदाय सल मनोरथवाद्दरिन्द हृष्ट-पुष्ट हागू आनन्द मग्नवायितु. ऎल्लर पाप-ताप नाशवागि होदुवु. स्वामि! नीनु माडिद कार्यवु अत्यन्त साधुवागिदॆ.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The entire threefold heaven became fulfilled, overjoyed, with every desire completely satisfied (sarvaṃ puṣṭaṃ pramuditaṃ susampūrṇa-manoratham), and cleansed of all taint as those gods cried out, “Well done, well done!” (sādhu sādhv iti tair devais tridivaṃ gata-kalmaṣam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -376,6 +458,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर विष्णु रूपदल्लि विराजिसुत्तिद्द महातेजस्वी श्रीरामनु ब्रह्म देवरल्लि हेळिदनु - सुव्रत पितामहने! ई समस्त जनसमुदायक्कू नीनु उत्तम लोकवन्नु अनुग्रहिसु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the greatly resplendent Viṣṇu spoke to the Grandfather (atha viṣṇur mahātejāḥ pitāmaham uvāca ha): “O you of noble vows, you ought to grant a fitting realm to these vast multitudes of people (eṣāṃ lokaṃ janaughānāṃ dātum arhasi suvrata).
 </details>
 </details>
 
@@ -405,6 +493,12 @@ _________________
 
 इवरॆल्लरू स्नेहपर वशरागि नन्न हिन्दॆ बन्दिरुवरु. इवरॆल्लरू यशस्वी नन्न भक्तरागिद्दारॆ. इवरु ननगागि तम्म लौकिक सुखगळन्नु त्यजिसिरुवरु; आद्दरिन्द इवरु नन्न अनुग्रहक्कॆ सर्वथा पात्ररागिद्दारॆ.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For all these illustrious ones have followed me out of sheer love (ime hi sarve snehān mām anuyātā yaśasvinaḥ); devotees indeed deserve to be cherished (bhaktā hi bhajitavyāś ca), and they have given up their very lives for my sake (tyaktātmānaś ca matkṛte)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -432,6 +526,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भगवान् विष्णुविन मातन्नु केळि लोकगुरु भगवान् ब्रह्मदेवरु हेळिदरु - भगवन्ता! इल्लिगॆ बन्दिरुव इवरॆल्लरू ‘सान्तानिक’ ऎम्ब लोकक्कॆ होगुवरु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of Viṣṇu, Brahmā, the sovereign preceptor of the worlds, [replied] (tac chrutvā viṣṇu-vacanaṃ brahmā loka-guruḥ prabhuḥ): “These who have come with you shall attain the realms named Sāntānika (lokān sāntānikān nāma yāsyantīme samāgatāḥ).
 </details>
 </details>
 
@@ -463,6 +563,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पशु-पक्षि योनियल्लि बिद्दिरुव जीविगळल्लि यारे निन्नन्नु भक्तिभावदिन्द चिन्तिसुत्ता तम्म प्राणगळन्नु परित्यजिसुवरो अवरू कूड सन्तानक लोकदल्ले वासिसुवरु. ई सन्तानक लोकवु ब्रह्मलोकद निकटवागिदॆ. (साकेतधामद्दे अङ्गवागिदॆ) अदु ब्रह्मन सत्य-सङ्कल्पत्व मॊदलाद ऎल्ल उत्तम गुणगळिन्द कूडिदॆ. अदरल्ले ई निन्न भक्त जनरु वासिसुवरु.॥19½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And even any creature born in an animal womb (yac ca tiryag-gataṃ kiñcit) that relinquishes its vital breaths in devotion meditating thus on you (tvām evam anucintayat prāṇāṃs tyakṣyati bhaktyā vai) shall dwell in that realm of Santāna (tat santāne nivatsyati), endowed with all the qualities of Brahman and immediately adjoining Brahmaloka (sarvair brahma-guṇair yukte brahma-lokād anantare).”
 </details>
 </details>
 
@@ -498,6 +604,14 @@ _________________
 
 वानररु, करडिगळु याव देवतॆगळिन्द उत्पन्नरागिद्दरो, आया देवतॆगळल्लिये सेरिकॊळ्ळुवरु. सुग्रीवनु सूर्यमण्डलवन्नु सेरिकॊळ्ळुवनु. समस्त देवतॆगळु नोडु-नोडुत्तिरुवन्तॆये ऋक्ष-वानररॆल्लरू तम्म-तम्म पितृगळल्लि सेरिकॊण्डवु.॥20-21½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** And the monkeys and bears likewise returned to their own source (vānarāś ca svikāṃ yonim ṛkṣāś caiva tathā yayuḥ)—to the very gods from whom all those divinely born beings had sprung forth (yebhyo vinissṛtāḥ sarve surebhyaḥ sura-sambhavāḥ).
+
+**21:** Among them, Sugrīva entered the solar orb (teṣu praviviśe caiva sugrīvaḥ sūrya-maṇḍalam); and as all the gods looked on (paśyatāṃ sarva-devānām), they rejoined their own celestial sires (svān pitṝn pratipedire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -523,6 +637,12 @@ _________________
 
 देवेश्वर ब्रह्मदेवरु सन्तानक लोकद घोषणॆ माडिदाग सरयूविन गोप्रतारघाटिनल्लि बन्दिरुव ऎल्ल जनरु आनन्दाश्रु हरिसुत्ता सरयू नीरिनल्लि मुळुगु हाकिदरु.॥22½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the Lord of the Gods had spoken thus (tathoktavati deveśe), all those who had arrived at Gopratāra (gopratāram upāgatāḥ) entered the waters of the Sarayū, overcome with tears born of overflowing joy (bhejire sarayūṃ sarve harṣa-pūrṇāśru-viklavāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,6 +667,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीरिनल्लि मुळुगुत्तिरुवन्तॆ अल्लल्ले बहळ हर्षदॊन्दिगॆ प्राणगळन्नु, मनुष्य शरीरवन्नु त्यजिसि विमानवन्नु अडरिदरु.॥23½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whichever living creature plunged joyfully into the water (avagāhya jalaṃ yo yaḥ prāṇī hy āsīt prahṛṣṭavat), casting off its human body (mānuṣaṃ deham utsṛjya), mounted a celestial aerial car (vimānaṃ so ’dhyarohata).
 </details>
 </details>
 
@@ -575,6 +701,14 @@ _________________
 
 पशु-पक्षि योनियल्लिद्द नूरारु प्राणिगळु सरयू नदियल्लि मुळुगि तेजस्वी शरीर धरिसि दिव्यलोकक्कॆ तॆरळिदवु. अवुगळु दिव्यशरीर धरिसि दिव्य अवस्थॆयल्लि स्थितरागि देवतॆगळन्ते प्रकाशमानवादवु.॥24-25॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** And hundreds of beings born in animal wombs (tiryagyoni-gatānāṃ ca śatāni), reaching the waters of the Sarayū (sarayū-jalaṃ samprāpya), ascended to heaven with radiant, luminous forms (tridivaṃ jagmuḥ prabhāsura-vapūṃṣi ca); transfigured in celestial bodies, they shone like blazing gods (divyā divyena vapuṣā devā dīptā ivābhavan).
+
+**25:** And beings both immobile and mobile (sthāvarāṇi carāṇi ca), reaching the Sarayū’s waters and receiving even the touch of its moisture (prāpya tat-toya-vikledam), attained the realm of the gods (devalokam upāgaman).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -600,6 +734,12 @@ _________________
 
 स्थावर - जङ्गम ऎल्ल रीतिय प्राणिगळु सरयू जलदल्लि प्रवेशिसि आ नीरिनिन्द तम्म शरीरवन्नु नॆनॆसि दिव्यलोकक्कॆ नडॆदवु.॥26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the bears, monkeys, and rākṣasas who had entered that very river (tasminn api samāpannā ṛkṣa-vānara-rākṣasāḥ)—they too, laying down their bodies in the waters (dehān nikṣipya cāmbhasi), entered heaven (te ’pi svargaṃ praviviśuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -624,6 +764,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग अल्लिगॆ बन्दिरुव ऋक्ष-वानर राक्षसरु ऎल्लरू तम्म शरीरवन्नु सरयू नीरिनल्लि मुळुगिसि भगवन्तन परमधावन्नैदिदरु.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, having established all those who had assembled in heaven (samāgatān sarvān sthāpya loka-gurur divi), the Preceptor of the Worlds ascended with the ever-joyful immortals to the great supreme Heaven (jagāma tridaśaiḥ sārdhaṃ sadā hṛṣṭair divaṃ mahat).
 </details>
 </details>
 

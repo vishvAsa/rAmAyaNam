@@ -71,6 +71,12 @@ Thereafter the inviolable Rama who possesses sacred knowledge, after hearing
 Hanuman's words, spoke with a clear understanding, the following opinion that was firm in his
 mind:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the unassailable (durdharṣaḥ) Rāma, learned in the śāstras (śrutavān) and serene in spirit (prasannātmā), having heard the words of the son of the Wind-god, spoke in reply what was settled in his own heart (ātmani sthitam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ our welfare.
 
 "I also wish to tell my opinion about Vibhishana. I want it to be heard by you, who
 are firmly established in our welfare."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I too have a certain observation (vivakṣā kācit) concerning Vibhīṣaṇa; I desire that all of it be heard by you who abide in our welfare (śreyasi sthitaiḥ).
 </details>
 </details>
 
@@ -169,6 +181,12 @@ appearance; *syaat yadyapi* = even though he has; *doshhah* = a defect; *etat*
 "By any means, I do not desert anyone who arrives with a friendly appearance, even
 if he has a defect. His acceptance is irreproachable in the eyes of good men"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Never in any wise (na... kathaṃcana) would I forsake one who has approached in the spirit of a friend (mitrabhāvena samprāptam); even if there should be a fault (doṣo yady api) in him, his acceptance is unblamed by the righteous (satām etad agarhitam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -208,6 +226,12 @@ examined; *tadvaakyam* = those words of Rama; *tatah* = and thereafter;
 
 Then, Sugreeva the chief of monkeys closely analyzed and examined the aforesaid
 words of Rama and thereafter spoke the following most auspicious words:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Sugrīva, that bull among monkeys (haripuṅgavaḥ), having repeated (ābhāṣya) and pondered that speech, spoke a still more auspicious (śubhataram) speech:
 </details>
 </details>
 
@@ -260,6 +284,12 @@ words of Rama and thereafter spoke the following most auspicious words:
 "What matters if this ranger of night is very dangerous or other wise, if he can
 desert his own brother at a time of peril? Whom will he not betray subsequently?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whether he be wicked or unwicked (duṣṭo vāpy aduṣṭo vā), what of this night-stalker (rajanīcaraḥ) who would abandon his own brother (bhrātaraṃ yaḥ parityajet) when overtaken by such calamity (īdṛśaṃ vyasanaṃ prāptam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -311,6 +341,14 @@ lakshhaNam* = of virtuous characteristics:
 Hearing the words of Sugreeva, Rama who was truly mighty looked round all of them ,
 smiled a little and spoke the following words to Lakshmana, of virtuous characteristics:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** “Who indeed could there be to him whom this one would not betray (yam eṣa na parityajet)?” Hearing the speech of the lord of the monkeys and looking upon them all,
+
+**7:** smiling faintly (īṣad utsmayamānas tu), Kākutstha, of unfailing valor (satyaparākramaḥ), spoke this speech to Lakṣmaṇa, who was endowed with auspicious marks (puṇyalakṣaṇam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +388,12 @@ scriptures; *anupasevyacha* = and without serving; *vR^iddhaan* = elders.
 
 "Without studying scriptures and without serving elders, it is not possible to speak
 such words as Sugreeva spoke."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without having studied the śāstras (anadhītya ca śāstrāṇi) and without having waited upon elders (vṛddhān anupasevya ca), it is impossible to speak such words as the lord of the monkeys has spoken.
 </details>
 </details>
 
@@ -402,6 +446,12 @@ subtle thing; *asti* = is there; *atra* = Here; *maa* = to me;
 circumstances which are clearly to be seen in all lives of kings and even occurring in ordinary
 life."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet there is something subtler (sūkṣmataraṃ kiṃcit) as it appears to me here (yathātra pratibhāti mā), which is also a matter of direct worldly experience (pratyakṣaṃ laukikaṃ cāpi) prevailing among all kings.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -448,6 +498,12 @@ adversities; *tasmaat* = for that reason; *ayam* = he; *aagatam* = came;
 
 "It is told that persons of the same family and rulers belonging to adjoining
 territories become enemies and strike in times of adversities. For this reason, he came here."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Kinsmen of the same lineage (tatkulīnāḥ) and neighboring rulers (prātideśyāś ca) are declared to be natural foes (amitrāḥ... kīrtitāḥ) who strike in times of calamity (vyasaneṣu prahartāraḥ); therefore this one has come here.
 </details>
 </details>
 
@@ -496,6 +552,12 @@ kings; *eshhaH* = even the persons; *shobhanaH* = who are virtuous;
 "Even if belonging to the same family, persons who are virtuous do respect their own
 well wishers in that family. Generally among kings, even a virtuous person is apprehended."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Sinless kinsmen of the same family (apāpās tatkulīnāś ca) honor their own well-wishers (svakān hitān); yet among kings this is the general rule (eṣa prāyo narendrāṇām)—that even a virtuous kinsman is held suspect (śaṅkanīyas tu śobhanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -543,6 +605,12 @@ adversary.
 "With regard to the draw back you told me in the matter of accepting a person coming
 from the side of an adversary, hear from me what the scriptures say."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And as for the flaw that was declared by you in accepting an enemy force (ādāne 'ribalasya ca), thereon I shall set forth to you in accordance with the śāstras (yathāśāstram)—hear this!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -584,6 +652,12 @@ learned; *tasmaat* = for that reason; *vibhiishhaNaH* = Vibhishana; *graahyaH*
 "We do not belong to the same family. Further, Vibhishana the demon is desirous of
 acquiring the kingdom. A few of the demons also may be rather learned ones. That is why, Vibhishana
 is acceptable."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We are not of his lineage (na vayaṃ tatkulīnāś ca), and this rākṣasa desires the kingdom (rājyakāṅkṣī); some [even among rākṣasas] will prove wise (paṇḍitā hi bhaviṣyanti)—therefore Vibhīṣaṇa ought to be accepted (grāhyo vibhīṣaṇaḥ).
 </details>
 </details>
 
@@ -638,6 +712,12 @@ split; *ataH* = for that reason; *bhayam* = a fear; *aagatam* = has come;
 they get a split among themselves. For this reason, a fear has come to him. This loud appeal is
 also major cause. That is why, Vibhishana can be accepted."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Kinsmen do not remain united in untroubled joy (avyagrāś ca prahṛṣṭāś ca); this loud clamor (praṇādaś ca mahān eṣaḥ) shows that fear has arisen from one another (anyonyasya bhayam āgatam)—thus they will fall into dissension (iti bhedaṃ gamiṣyanti), and therefore Vibhīṣaṇa ought to be accepted.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -683,6 +763,12 @@ also major cause. That is why, Vibhishana can be accepted."
 
 "My dear one! Neither all brothers are like Bharata, nor all sons of a father like
 me nor all friends are like you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Not all brothers, dear friend (tāta), are like Bharata (bharatopamāḥ), nor are all sons of a father like me (madvidhā vā pituḥ putrāḥ), nor are all friends like you (suhṛdo vā bhavadvidhāḥ)!”
 </details>
 </details>
 
@@ -730,6 +816,12 @@ saluting; *abraviit* = and spoke; *idam* = these; *vaakyam* = words:
 Hearing Rama's words Sugreeva who was together with the highly wise Lakshmana stood
 up saluting and spoke these words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Rāma, the supremely wise (mahāprājñaḥ) Sugrīva, together with Lakṣmaṇa (sahalakṣmaṇaḥ), rose up and, bowing low (praṇataḥ), spoke this speech:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -770,6 +862,12 @@ night(demon); *praNihatam* = to have been sent; *raavaNena* = by Ravana;
 
 "O, Rama the excellent among the tolerant! Realise that Ravana has sent Vibhishana,
 the demon. I think of him to be worthy of being taken as a captive."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Know that night-stalker (niśācaram) to have been dispatched (praṇihitam) by Rāvaṇa; I deem his chastisement (tasya nigraham) the proper course (kṣamam), O best of the discerning (kṣamavatāṃ vara).
 </details>
 </details>
 
@@ -834,6 +932,14 @@ demon.
 who are unsuspecting, or to kill Lakshmana or me in trust. He came here with a crooked mind. He
 with his counselors is fit to be imprisoned. Is not Vibhishana the brother of cruel Ravana?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “Instructed with crooked intent (jihmayā buddhyā), this rākṣasa has come here to strike you when you are trusting (tvayi viśvaste), or me when I am trusting, O sinless one (anagha),
+
+**19:** “or Lakṣmaṇa, O mighty-armed one (mahābāho)! That one deserves to be slain (sa vadhyaḥ) together with his ministers; for this Vibhīṣaṇa is the brother of the ruthless (nṛśaṃsasya) Rāvaṇa!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -879,6 +985,12 @@ the mode of expression; *tatah* = thereafter; *paagamat* = obtained; *mounam*
 
 Speaking thus to Rama, the best of Raghu dynasty, Sugreeva who knew the mode of
 expression, thereafter kept silent.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to the best of the Raghus (raghuśreṣṭham), who was skilled in speech (vākyakuśalam), Sugrīva, the lord of the host and a knower of speech (vākyajñaḥ), then fell silent (maunam upāgamat).
 </details>
 </details>
 
@@ -929,6 +1041,12 @@ auspicious; *vaakyam* = words; *haripuNgavam* = to Sugreeva.
 Hearing those words of Sugreeva, Rama pondered over the words and thereafter spoke
 more auspicious words to Sugreeva as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard and pondered (śrutvā vimṛśya ca) that speech of Sugrīva, Rāma then spoke a still more auspicious (śubhataram) speech to that bull among monkeys (haripuṅgavam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -974,6 +1092,12 @@ demon; *sudushhTovaa* = is very bad? asaktaH = He is incapable; *kartum* = of do
 
 "What does it matter whether that demon is very bad or not bad? He is incapable of
 doing even a little harm to me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whether this night-stalker be wicked or unwicked (sa duṣṭo vāpy aduṣṭo vā), is he capable in any wise (śaktaḥ kathaṃcana) of working even the slightest harm (sūkṣmam apy ahitam) to me?
 </details>
 </details>
 
@@ -1022,6 +1146,12 @@ earth; *aNgulyagreNa* = with the tip of my finger.
 "O, Sugreeva, Lord of monkey-troops! If I wish, I can kill those devilish beings,
 demons, supernatural beings and ogres living on earth with just a tip of my finger"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If I so wished (icchan), O lord of the monkey hosts (harigaṇeśvara), I could slay with the tip of my finger (aṅgulyagreṇa tān hanyām) the piśācas, dānavas, yakṣas, and rākṣasas upon the earth!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1068,6 +1198,12 @@ and was invited for a feast; *svaiH* = with its own; *maamsaiH* = flesh.
 "It is narrated how by a dove, its enemy ( a fowler) when it came for a refuge, was
 received according to rules of hospitality and was invited for a feast with its own flesh."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, it is heard in sacred tradition (śrūyate hi) that by a dove (kapotena) an enemy who had come for refuge (śatruḥ śaraṇam āgataḥ) was honored according to justice (arcitaś ca yathānyāyam) and invited to feast upon its own flesh (svaiś ca māṃsair nimantritaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1113,6 +1249,12 @@ accepted as a guest; *tam* = the fowler; *aagatam* = as he came;
 
 "O, the excellent of monkeys! The aforesaid dove indeed accepted as a guest, the
 fowler as he came, although he killed its wife .How much more a man like me has to do?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For that dove (kapotaḥ) accepted (pratijagrāha) him when he arrived, even though he was the abductor of its mate (bhāryāhartāram āgatam), O best of monkeys—how much more a man such as I (kiṃ punar madvidho janaḥ)!
 </details>
 </details>
 
@@ -1163,6 +1305,12 @@ and by Kandu by name; *gathaa* = verses; *dharmishhThaa* = inculcating virtue;
 "Hear the verses inculcating virtue so long ago, by Kandu, the son of a sage called
 Kanva, a great sage and a speaker of truth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hear the most righteous (dharmiṣṭhāḥ) verses (gāthāḥ) sung of old (purā gītāḥ) by the supreme sage Kaṇḍu (kaṇḍunā paramarṣiṇā), the truth-speaking (satyavādinā) son of the sage Kaṇva:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1210,6 +1358,12 @@ and who is seeking refuge; *na hanyaat* = should not be killed; *anR^ishamsyaart
 "O, king the terminator of enemies! Even an enemy, who formed a cup with his
 hollowed hands, a miserable person, a person who is begging and who is seeking a refuge should not
 be killed with the aim of not being cruel."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Even an enemy (api śatrum), O scorcher of foes (paraṃtapa), who has come for refuge (śaraṇāgatam), wretched (dīnam) and begging with cupped hands joined in supplication (baddhāñjalipuṭam), one ought not to slay (na hanyāt) for the sake of compassion (ānṛśaṃsyārtham).
 </details>
 </details>
 
@@ -1262,6 +1416,12 @@ one who has a well-disciplined mind.
 oppressed or arrogant, is to be protected by one who has a disciplined mind, even by abandoning
 one's life."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Whether distressed (ārto vā) or proud (yadi vā dṛptaḥ), a foe who has come for refuge from others (pareṣāṃ śaraṇaṃ gataḥ) must be protected by one of disciplined soul (rakṣitavyaḥ kṛtātmanā), even at the cost of his own life (prāṇān parityajya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1307,6 +1467,12 @@ one's life."
 
 "If he does not protect rightly through his strength, by fear or by ignorance or by
 desire, it is a sin to be reproached by the world."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘If out of fear (bhayād vā), or delusion (mohād vā), or desire (kāmād vāpi) he does not protect [that supplicant] according to justice (yathānyāyam) to the best of his power (svayā śaktyā), that is a sin reproached by the world (tat pāpaṃ lokagarhitam).
 </details>
 </details>
 
@@ -1355,6 +1521,12 @@ in; *sharaNam* = a refuge; *tasya* = and if that; *rakshhiNaH* = protector;
 "If having not been protected, a refugee dies before the eyes of a man who is able
 to protect him, the former takes along all his moral merit and goes."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘If one who has come for refuge (śaraṇaṃ gataḥ) perishes unprotected (vinaṣṭaḥ... arakṣitaḥ) before the very eyes of him who is able to protect (paśyatas tasya rakṣiṇaḥ), he departs taking away (ādāya... gacchet) all that protector's store of merit (sukṛtaṃ tasya sarvam).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1402,6 +1574,12 @@ it devastates strength and valor."
 involved in it. It does not bestow heaven. It destroys reputation. It devastates strength and
 valor"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus there is great fault (doṣo mahān) here in failing to protect those who have surrendered (prapannānām arakṣaṇe): it bars one from heaven (asvargyam), destroys fame (ayaśasyam), and ruins strength and valor (balavīryavināśanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1447,6 +1625,12 @@ reputation; *svargyam* = leads to heaven; *phalodayam* = and rewards appear.
 
 "I will follow the excellent words of Kandu. It becomes a very righteous thing,
 gives reputation, leads to heaven and the rewards appear consequently."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall therefore carry out in its true spirit (kariṣyāmi yathārthaṃ tu) the excellent word of Kaṇḍu (kaṇḍor vacanam uttamam), which is most righteous (dharmiṣṭham), brings renown (yaśasyam), and leads to heaven at the dawning of its fruit (svargyaṃ syāt tu phalodaye).
 </details>
 </details>
 
@@ -1497,6 +1681,12 @@ bhuutebhyaH* = against all types of beings; *etat* = this; *mama* = is my;
 "He who seeks refuge in me just once, telling me that �I am yours', I shall give him
 assurance of safety against all types of beings. This is my solemn pledge"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To one who has surrendered to me even once (sakṛd eva prapannāya) and begs, ‘I am yours (tavāsmīti ca yācate)!’ I grant fearlessness against all beings (abhayaṃ sarvabhūtebhyo dadāmi)—this is my solemn vow (etad vrataṃ mama).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1546,6 +1736,12 @@ been given; *asya* = to him; *mayaa* = by me; *aanaya* = bring; *evam*
 "O, Sugreeva, the chief of monkeys! Let him either be Vibhishana or even Ravana
 himself; I have given an assurance of safety to him. Bring him here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bring him hither (ānayainam), O best of monkeys; fearlessness has been granted to him by me (dattam asyābhayaṃ mayā), O Sugrīva, whether he be Vibhīṣaṇa or Rāvaṇa himself (yadi vā rāvaṇaḥ svayam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1591,6 +1787,12 @@ words; *SugreevaH* = Sugreeva; *plavageshvara* = the Lord of monkeys;
 
 Hearing Rama' s words, Sugreeva the lord of monkeys, overwhelmed as he was with
 cordial friendship, replied to Rama as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Rāma, Sugrīva, lord of the leapers (plavageśvaraḥ), filled with affectionate goodwill (sauhārdenābhipūritaḥ), spoke in reply to Kākutstha:
 </details>
 </details>
 
@@ -1641,6 +1843,12 @@ venerable words?
 surprise is there in thinking that you, duly endowed with true essence of life and established in a
 right path, speak these venerable words?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What wonder is there in this (kim atra citram), O knower of dharma (dharmajña), O crest-jewel of the lords of the world (lokanāthaśikhāmaṇe), that you, endowed with noble strength (sattvavān) and abiding on the path of the good (satpathe sthitaḥ), should utter what is noble (āryaṃ prabhāṣethāḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1687,6 +1895,12 @@ be genuine; *supariikshhitaH* = being well examined; *sarvataH* = from all angle
 "My inmost spirit also feels Vibhishana to be a genuine person, he being well
 examined from all angles, by act of inference and by his appearance."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My own inner heart (mama cāpy antarātmāyam) likewise knows Vibhīṣaṇa to be pure (śuddhaṃ vetti vibhīṣaṇam); by inference and by his demeanor (anumānāc ca bhāvāc ca) he has been thoroughly examined on every side (sarvataḥ suparīkṣitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1732,6 +1946,12 @@ him get; *sakhitvamcha* = friendship too; *nah* = with us.
 
 "O, Rama! Hence, let the highly wise Vibhishana be equal among us soon together. Let
 him get our friendship too"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore let the supremely wise (mahāprājñaḥ) Vibhīṣaṇa swiftly become an equal amongst us (sahāsmābhis tulyo bhavatu), O Rāghava, and let him enter into our friendship (sakhitvaṃ cābhyupaitu naḥ)!”
 </details>
 </details>
 
@@ -1797,6 +2017,12 @@ birds.
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डेऽष्टादशः सर्गः ॥ १८ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें अठारहवाँ सर्ग पूरा हुआ ॥ १८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, hearing that speech of Sugrīva, the lord of men (nareśvaraḥ) swiftly entered into union (āśu jagāma saṃgamam) with Vibhīṣaṇa, who was announced by the lord of the monkeys (harīśvareṇābhihitam), even as Purandara [Indra] united with the king of birds (patatrirājena yathā puraṃdaraḥ).
 </details>
 </details>
 

@@ -80,6 +80,12 @@ Then, on receiving the hospitality in that hermitage for that day, and on the ne
  day before sunrise, Rama bade farewell to all of the sages, and thus entered the deep forests.
  [3-2-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having received hospitality (kṛtātithyaḥ), Rāma then, toward the rising of the sun (sūryasyodayanaṃ prati), took leave of (āmantrya) all the sages and plunged deeper into that very forest (vanam evānvagāhata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -146,6 +152,14 @@ Rama followed by Lakshmana has indeed seen that midst of the forest which is
  creepers, bushes are ruined, water ponds rendered unsightly, birds song-less, but where the
  swarms of crickets are whistling deafeningly. [3-3-2, 3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** [That forest] was thronged with herds of diverse beasts (nānā-mṛga-gaṇākīrṇam), frequented by bears and tigers (ṛkṣa-śārdūla-sevitam), with its trees, creepers, and thickets trampled down (dhvasta-vṛkṣa-latā-gulmam), and its water-pools hard to discern (durdarśa-salilāśayam)—
+
+**3:** Its birds silent and ceased from warbling (niṣkūjamāna-śakunim), and echoing with swarms of crickets (jhillikā-gaṇa-nāditam)—accompanied by Lakṣmaṇa (lakṣmaṇānucaraḥ), Rāma beheld the heart of the forest (vana-madhyam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -199,6 +213,12 @@ _________________
 Therein Rama has seen along with Seetha, a lurid voiced man-eater who is akin to a
  mountain-peak, among horrendous animals. [3-2-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Together with Sītā in that [forest] teeming with fierce beasts (ghora-mṛgāyute), Kākutstha beheld a man-eating demon (puruṣādam) towering like a mountain peak (giri-śṛṅgābham) and of mighty roar (mahā-svanam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -249,6 +269,12 @@ Therein Rama has seen along with Seetha, a lurid voiced man-eater who is akin to
 Deep eyed, huge mouthed, horrible with a monstrous belly, hideously misshapen, and
  a very soaring one that demon is, an ugly one with a horrendous look. [3-2-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deep-sunken of eye (gabhīrākṣam), huge-mouthed (mahā-vaktram), monstrous (vikaṭam), monstrous-bellied (vikaṭodaram), loathsome (bībhatsam), misshapen (viṣamam), tall, deformed (vikṛtam), and dreadful to behold (ghora-darśanam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -297,6 +323,12 @@ Deep eyed, huge mouthed, horrible with a monstrous belly, hideously misshapen, a
 
 Wearing tiger's skin that is wetted with fat and dampened with blood, he is
  frightening to all beings like the wide-open mouth of Death. [3-2-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clad in a tiger-skin (carma vaiyāghram) wet with fat (vasārdram) and spattered with blood (rudhirokṣitam), terrifying to all creatures (trāsanaṃ sarva-bhūtānām) like Death himself with gaping maw (vyāditāsyam ivāntakam)—
 </details>
 </details>
 
@@ -357,6 +389,12 @@ _________________
 He skewered three lions, four tigers, two wolves, ten spotted deer, and a big head
  of an elephant with tusks and fouled with fat on an iron spear, and he is yelling with his
  deafening voice. [3-2-7-8a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Having impaled] three lions, four tigers, two wolves, ten spotted deer (pṛṣatān daśa), and the huge tusked head of an elephant (saviṣāṇaṃ gajasya śiro mahat) smeared with fat (vasā-digdham)—
 </details>
 </details>
 
@@ -429,6 +467,14 @@ He that demon on seeing Rama, Lakshmana and Seetha ran towards them very angrily
 He shouted a tremulous blare, as though to tremor the earth, and seized Vaidehi
  with his arms and gone afar, and then said this way. [9b-10a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Upon an iron pike (āyase śūle), roaring with a mighty clamour (vinadantaṃ mahā-svanam)—seeing Rāma, Lakṣmaṇa, and Sītā of Mithilā,
+
+**9:** He rushed at them in great fury (susaṃkruddhaḥ), like Death the Destroyer (antakaḥ) rushing at creatures at the end of time (kāle). Uttering a terrific roar (bhairavaṃ nādam) as though shaking the earth (cālayann iva medinīm),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -481,6 +527,12 @@ He shouted a tremulous blare, as though to tremor the earth, and seized Vaidehi
 "You two wear jute cloths like hermits, but handle arrows, bows and swords like
  warriors, yet entered Dandaka forest with your wife... your lives are on the wane...
  [3-2-10b-11a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Snatching Vaidehī onto his hip (aṅkenādāya) and stepping back (apakramya), he then spoke: “Wearing matted locks and bark-garments (jaṭā-cīra-dharau), accompanied by a wife (sabhāryau), and your lives nearly spent (kṣīṇa-jīvitau), you two”
 </details>
 </details>
 
@@ -543,6 +595,12 @@ This demon Viradha could not comprehend their identity prima facie. By their
  Lakshmana for flaunting the sainthood, for they are moving with weapons and a wife, he narrates
  about himself in next verses.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Have entered the Daṇḍaka forest holding arrows, bows, and swords in your hands (śara-cāpāsi-pāṇinau)! How is it that you two ascetics (tāpasayoḥ) dwell together with a young woman (pramadayā saha)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -593,6 +651,12 @@ This demon Viradha could not comprehend their identity prima facie. By their
 "I am a demon named Viradha and I will be on the rove in this impassable forest
  with weapon, always eating the flesh of sages... [3-2-12b-13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who are you two wicked practitioners of unrighteousness (adharma-cāriṇau pāpau), defilers of ascetics (muni-dūṣakau)? I am the rākṣasa named Virādha; [ranging] this impassable forest (vanam idaṃ durgam),”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -642,6 +706,12 @@ This demon Viradha could not comprehend their identity prima facie. By their
 
 "This best waisted woman will be my wife, and I will drink your blood of you two
  sinful one in a fight with you... [3-2-13b-14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Armed with weapons (sāyudhaḥ), I ever roam devouring the flesh of sages (ṛṣi-māṃsāni bhakṣayan). This fair-hipped woman (nārī varārohā) shall become my wife (mama bhāryā bhaviṣyati),”
 </details>
 </details>
 
@@ -703,6 +773,14 @@ Here Viradha said that Seetha would become his *
  gata* , gone into the arm-fold of Viradha as babies would. The peevish ones like Viradha or
  Ravana grab her very quickly for she is Goddess Lakshmi, the presiding deity of wealth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “And in battle (mṛdhe) I shall drink the blood (pāsyāmi rudhiram) of you two wretches!” As the evil-minded Virādha was speaking such wicked words (bruvato duṣṭam),
+
+**15:** Hearing his arrogant speech (sagarvitaṃ vākyam), Janaka’s daughter Sītā was bewildered (sambhrāntā) and trembled from terror (pravepitodvegāt) like a plantain tree in a high wind (pravāte kadalī yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -747,6 +825,12 @@ Here Viradha said that Seetha would become his *
 Seetha in fear wiggled like a plantain tree in a whirlwind, and on seeing at the
  auspicious lady gone into the arms of Viradha, Raghava spoke this sentence to Lakshmana, with his
  face fully turning to pale. [3-2-15b-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the auspicious Sītā held upon Virādha’s hip (virādhāṅka-gatām), Rāghava spoke these words to Lakṣmaṇa with a parched face (mukhena pariśuṣyatā):
 </details>
 </details>
 
@@ -803,6 +887,12 @@ _________________
  emperor Janaka, one who is brought up comfortably in immense comfort, and my auspiciously
  traditional wife... now gone into the wretched hands of a demon... [3-2-17-18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold, O gentle one (saumya), the daughter born of King Janaka himself (janakasyātma-sambhavām), my wife of pure conduct (śubhācārām), placed upon Virādha’s hip (virādhāṅke praveśitām)—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -856,6 +946,14 @@ _________________
  Kaikeyi, and that which is concomitant to her boons, oh, Lakshmana, that has come to pass
  quickly, and today only Lakshmana... [3-2-18b-19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “That illustrious princess (rāja-putrīm) reared in supreme comfort (atyanta-sukha-saṃvṛddhām)! That cherished wish (priyam) which was intended regarding us (yad abhipretam asmāsu) and chosen as a boon (vara-vṛtaṃ ca yat)—”
+
+**19:** “Has today been swiftly and fully accomplished (susaṃvṛttam) for Kaikeyī, O Lakṣmaṇa—she who, far-seeing (dīrgha-darśinī) on her son’s behalf (putrārthe), was not satisfied with the kingdom alone (yā na tuṣyati rājyena),”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -903,6 +1001,12 @@ _________________
 "She who is a foresighted lady, she who is not happy with the kingdom for her son,
  she by whom I, a dear one to all beings, am sent to forests, and she is my middle mother, her
  desire is fulfilled today, nay now itself... [3-2-19b-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By whom I, dear to all beings (sarva-bhūtānāṃ priyaḥ), was sent forth into the forest! Today, at this very moment (adyedānīm), that middle mother of mine (mātā madhyamā mama) has her desire fulfilled (sakāmā).”
 </details>
 </details>
 
@@ -968,6 +1072,12 @@ Here Rama says that 'my' kingdom is grabbed away, and now the grabbing away of
  nothing before his wife, Wealth of Fortune, i.e. Bhaagya Lakshmi. Hence Rama is more bothered
  about his fortune wife than the retrievable kingdom, or the death of an aged father.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nothing causes me greater sorrow (na duḥkhataram asti me), O Saumitri, than Vaidehī being touched by another (para-sparśāt tu vaidehyāḥ)—not even the loss of my father (pitur vināśāt) or the seizure of my own kingdom (svarājya-haraṇāt).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1027,6 +1137,12 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
  derivation is that Lakshmana is the incarnation of that serpent, while Bharata and Shatrughna are
  the incarnations of the conch shell and disc that adorn the two upper hands of Vishnu.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Kākutstha was speaking thus, Lakṣmaṇa, overwhelmed by tears and grief (bāṣpa-śoka-pariplutaḥ), spoke in wrath, hissing like a pent-up serpent (ruddho nāga iva śvasan):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1077,6 +1193,12 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 "Oh, Rama, you being the Indra like lord of all beings, and while you are being
  attended by an adherent like me, what for you worry yourself like a derelict? [3-2-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Though you are the protector of all beings (bhūtānāṃ nāthaḥ) and equal to Vāsava (vāsavopamaḥ), why do you grieve like one unprotected (anātha iva), O Kākutstha, when you have me as your servant (mayā preṣyeṇa)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1126,6 +1248,12 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 "He will now be felled with my arrow as I am enraged at him, and gone are his
  lives now, and indeed the earth shall drink his blood... [3-2-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today the earth shall drink the blood (mahī pāsyati śoṇitam) of the rākṣasa Virādha, bereft of life (gatāsoḥ) when struck down by me in wrath with an arrow (śareṇa nihatasya)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1174,6 +1302,12 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 "Indeed, that which anger was there to me on Bharata when he desired kingdom, that
  anger I will now release on Viradha, as Indra released his Thunderbolt on the mountain...
  [3-2-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That wrath which arose in me toward Bharata when I thought him desirous of the kingdom (rājya-kāme bharate), I shall unleash upon Virādha (taṃ virādhe vimokṣyāmi), as the Thunderbolt-wielder [Indra] hurls his thunderbolt upon a mountain (vajrī vajram ivācale)!”
 </details>
 </details>
 
@@ -1242,6 +1376,12 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऎरडनॆय सर्ग सम्पूर्णवायितु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Impelled by the speed of my arm’s strength (bhuja-bala-vega-vegitaḥ), let my mighty shaft fall upon his huge chest (mahān mahorasi), drive the life from his body (vyapanayatu tanoś ca jīvitam), and let him then fall reeling to the earth (mahīṃ vighūrṇitaḥ)!”
 </details>
 </details>
 

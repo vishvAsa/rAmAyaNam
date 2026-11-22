@@ -57,6 +57,12 @@ _________________
 
 महात्मा रघुनाथन मनोभाववन्नु तिळिदु इन्द्रजितु युद्धदिन्द निवृत्तनागि लङ्कॆगॆ हॊरटु होदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Discerning the mind (manaḥ) of that high-souled Rāghava, he withdrew from that battle (āhavāt) and thereupon entered the city.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -104,6 +110,12 @@ _________________
 Then, recalling the killing of those energetic demons like Kumbhakarna and others,
 that valiant Indrajit sallied forth (for the fight) with red-hot eyes in anger.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling the slaughter of those impetuous Rākṣasas, that heroic son of Rāvaṇa (rāvaṇiḥ) then issued forth, his eyes bloodshot with fury (krodha-tāmrekṣaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +162,12 @@ born in Pulastya-dynasty; *vR^itaH* = surrouded; *raakShasaiH* = by demons;
 That Indrajit, of very great prowess, the adversary of gods and who was born in Sage
 Pulstya's dynasty, accompanied by an army of demons, came forth from the western gate.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by Rākṣasas, Indrajit—that Paulastya of supreme valor (su-mahā-vīryaḥ), the thorn in the side of the gods (deva-kaṇṭakaḥ)—sallied forth by the western gate.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -192,6 +210,12 @@ then; *praaduShkarot* = demonstrated; *maayaam* = his conjuring tricks.
 
 Seeing the two valiant brothers, Rama and Lakshamana, who were prepared for the
 encounter, Indrajit for his part, then started to demonstrate his conjuring tricks.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the two heroic brothers Rāma and Lakṣmaṇa arrayed for battle (raṇāyābhyudyatau), Indrajit then brought forth his conjuring illusion (māyāṃ prāduṣkarot).
 </details>
 </details>
 
@@ -239,6 +263,12 @@ then; *aarochayat* = intended; *tasyaaH vadham* = to kill her.
 Placing an illusory image of Seetha on his chariot and a large army surrounding the
 chariot, Indrajit intended to kill her.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing an illusory Sītā (sītāṃ māyāmayīm) upon his chariot and encircling her with a vast force, Indrajit resolved upon her slaying.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -279,6 +309,12 @@ kR^itvaa* = making up his mind; *sarveShaam mohanaartham* = to purposefully conf
 Making up his mind to purposefully confuse all, by playing a trick to kill Seetha's
 illusory image, the exceedingly evil-minded Indrajit sallied forth towards the direction of the
 monkeys.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Forming his design to bewilder (mohanārtham) them all, that utterly wicked-minded warrior (su-durmatiḥ), determined to slay Sītā, advanced facing the Vānaras.
 </details>
 </details>
 
@@ -327,6 +363,12 @@ fight.
 Seeing him coming forth towards their direction, all those monkeys were enraged and
 bounced towards him, with rocks in their hands and with an intent to fight.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him sallying forth (abhiniryāntam), all those forest-dwellers (kānanaukasaḥ) sprang up in surging wrath, rocks in hand, eager for combat (yuyutsavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -367,6 +409,12 @@ others; *jagaama* = went; *purataH teShshaam* = in front of them.
 Hanuma, the foremost among the monkeys, taking hold of a very large mountain-peak,
 which was difficult to be reached by others, marched in front.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seizing a massive, unassailable mountain peak (sumahac chṛṅgam), Hanūmān, that elephant among monkeys (kapi-kuñjaraḥ), strode at their head.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -391,6 +439,12 @@ which was difficult to be reached by others, marched in front.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु इन्द्रजितुविन रथदल्लि सीतॆयन्नु नोडिदनु. अवन उत्साह इळिदुहोयितु. अवळु एकवेणि धरॆयागि बहळ दुःखितॆयागिद्दु, उपवासदिन्दागि मुख बाडिहोगित्तु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon Indrajit's chariot he beheld Sītā robbed of all joy (hatānandām)—wearing a single braid (eka-veṇī-dharām), wretched, her countenance wasted by fasting (upavāsa-kṛśānanām).
 </details>
 </details>
 
@@ -438,6 +492,12 @@ wearing only a single braid of hair, looking miserable, with her face emaciated 
 dressed in a single worn-out clothing, unadorned and with all her limbs covered with dust and dirt;
 in the chaiot of Indrajit.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He saw] that best of women, the beloved of Rāghava, clad in a single soiled garment (parikliṣṭaika-vasanām), unadorned (amṛjām), with all her limbs begrimed with dust and dirt (rajo-malābhyām āliptaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -484,6 +544,12 @@ Seetha; *achiradR^iShTaa his* = was indeed seen not long ago; *tena* = by him.
 On seeing her for a moment, Hanuma ascertained her as Seetha and became dejected.
 That Seetha was indeed seen by him, not long ago.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scanning her for a moment (muhūrtam) and determining her to be Maithilī, [he was overcome with grief]; for that daughter of Janaka had been seen by him not long before (acira-dṛṣṭā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -508,6 +574,12 @@ That Seetha was indeed seen by him, not long ago.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसेन्द्रन पुत्र इन्द्रजितु विन बळि रथदल्लि कुळितिरुव तपस्विनी सीतॆयु शोकदिन्द पीडितळागि दीन हागू आनन्दशून्यळागिद्दळु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that ascetic lady (tapasvinīm) afflicted with sorrow, joyless, wretched, seated upon the chariot and at the mercy of the Rākṣasa lord's son, he spoke [to his companions].
 </details>
 </details>
 
@@ -552,6 +624,12 @@ leaders of monkeys; *abhyadaavata* = rushed; *raavaNim* = towards Indrajit.
 Seeing her stricken with grief bereft of joy, looking distreseed, miserable and
 sitting under the sway of Indrajit, Hanuma wondered as to what his intention might be. Thus
 thinking, he along with those leaders of mnkeys, rushed towards Indrajit.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pondering, 'What is his design (kiṃ samarthitam asya)?', that great monkey, together with those foremost Vānaras, rushed upon Rāvaṇa's son.
 </details>
 </details>
 
@@ -618,6 +696,12 @@ then; *nivR^itya* = turning away from; *tasmaat aahavaat* = that battle;
 Guessing the mind of that great-souled Rama, Indrajit turning away from that battle,
 entered the City.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that Vānara force, Rāvaṇa's son, convulsed with fury (krodha-mūrcchitaḥ), unsheathed his sword (kṛtvā vikośaṃ nistriṃśam) and dragged Sītā by the crown of her head (mūrdhni).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -668,6 +752,12 @@ that woman; *yojitaam* = who was placed; *rathe* = in the chariot; *maayayaa*
 While those monkeys were seeing, demon began to strike that woman who was placed in
 the chariot by the dint of his conjuring trick and who was crying "Rama! Rama!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Before their very eyes (paśyatāṃ teṣām), the Rākṣasa struck that woman—who had been set on the chariot by illusion (māyayā yojitām)—as she cried out, 'O Rāma! O Rāma!'
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -707,6 +797,12 @@ wind-god; *dainyam aagataH* = was confounded with misery; *utsR^ijat* = and shed
 
 On seeing her seized by the hair Hanuma the son of wind-god was confounded with
 affliction and shed tears, in agony from his eyes.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding her seized by the hair (gṛhīta-mūrdhajām), Hanūmān, the son of the Wind-god, sank into anguish (dainyam āgataḥ), shedding tears born of grief from his eyes.
 </details>
 </details>
 
@@ -749,6 +845,12 @@ Indrajit.
 On seeing Seetha with all her charming limbs, the beloved wife of Rama, Hanuma
 angrily addressed the foolowing harsh words to Indrajit:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing that beloved queen of Rāma, fair in every limb (cāru-sarvāṅgīm), he spoke a harsh speech in wrath to the son of the Rākṣasa lord:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -788,6 +890,12 @@ belonging to the race; *raakShasiim* = of demons; *paraamR^ishaH* = you touched;
 
 "O evil minded one! Born in a dynasty of Brahmanical sages, but belonging to
 demoniacal race, you touched a lock of her hair, for your hair, for your own ruin."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O evil-minded wretch (durātman), to your own destruction (ātma-nāśāya) have you laid hands upon her tresses (keśa-pakṣe parāmṛśaḥ)! Though born in the lineage of Brahmarṣis, you have resorted to a demonic womb (rākṣasīṃ yonim)!”
 </details>
 </details>
 
@@ -834,6 +942,12 @@ you!.
 "O cruel, vulgar and mean fellow! O wicked demon of sinful prowess! O pitiless
 fellow! Woe be to you, of sinful conduct, in whom such a resolve has taken place. Such an act is
 worthy of a barbarian. There is no pity in you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fie upon you of sinful conduct (pāpa-samācāram), whose mind is such as this! O cruel, ignoble, ill-behaved, base wretch of wicked valor (pāpa-parākrama)! Such a deed belongs to the ignoble; you have no compassion (ghṛṇā), O pitiless one (nirghṛṇa)!
 </details>
 </details>
 
@@ -882,6 +996,12 @@ her kingdom; *raama hastaachcha* = and from the protection of Rama; *hamsi yat e
 "O pitiless one! Seetha came away from her house, from her kingdom and from her
 huband's (Rama's) protection. What wrong has Seetha done to you, that you are killing her?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Torn from her home, from the kingdom, and from Rāma's protecting hand, what offense has this Maithilī committed (kim tavaiṣāparāddhā) against you, that you slay her without mercy?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -928,6 +1048,12 @@ way; *vadhaarha* = O demon; deserving of death!; *tena karmeNa* = by your act;
 "By killing Seetha, you will not survivie for long in any way. O demon, desrving of
 death! By your act, you indeed fell into my hands."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain Sītā, you shall by no means live long (na ciraṃ jīviṣyasi); O you who deserve death (vadhārha), by that very deed you have fallen into my hands!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -972,6 +1098,12 @@ deserved to be killed by the peple.
 "Abandoning your life in this world, you shall, after death, descend to those worlds
 which are the lot of the killers of women and are condemned even by those who deserved to be killed
 by the people."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And those worlds ordained for the slayers of women (strī-ghātināṃ lokāḥ), reviled even by those whom the world condemns to death (loka-vadhyaiś ca kutsitāḥ)—yielding up your life here, you shall attain them hereafter (pretya)!”
 </details>
 </details>
 
@@ -1022,6 +1154,12 @@ their weapons; *susamkruddhaH* = and very much enraged; *abhyadhaavat* = rushed;
 Thus speaking, Hanuma surrounded as he was by monkeys with their weapons and very
 much enraged, rushed headlong towards Indrajit.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, Hanūmān, surrounded by monkeys bearing weapons (sāyudhaiḥ), rushed forward in fierce wrath toward the son of the Rākṣasa lord.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1068,6 +1206,12 @@ much enraged, rushed headlong towards Indrajit.
 The army of demons of terrible rage intercepted that army of mokeys possessing a
 high prowess and advancing towards them.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With a host of Rākṣasas of dreadful fury (bhīma-kopānām), [Indrajit] checked that oncoming host of forest-dwellers of mighty valor.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1110,6 +1254,12 @@ that Indrajit; *pratyuvaacha ha* = replied; *hanumantam* = to Hanuma;
 
 Stirring up that army of mokeys with a multitude of his arrows, Indrajit replied to
 Hanuma, the foremost of mokeys as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Routing that monkey host (hari-vāhinīm) with a thousand arrows, Indrajit replied to Hanūmān, the foremost of monkeys:
 </details>
 </details>
 
@@ -1170,6 +1320,14 @@ vibhiiShaNam cha* = and that vulgar Vibhishana; *tataH* = thereafter.
 "O monkey! After killing her, I will make a short work of Rama, Lakshmana, yourself
 too, Sugreeva and that vulgar Vibhishana thereafter."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** “She on whose account (yan-nimittam) Sugrīva, you, and Rāma have come here—that Vaidehī I shall slay this very day before your eyes (tava paśyataḥ)!
+
+**27:** Having slain her, O Vānara, I shall thereafter slay Rāma, Lakṣmaṇa, you, Sugrīva, and that ignoble Vibhīṣaṇa (tam cānāryaṃ vibhīṣaṇam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1216,6 +1374,12 @@ hantavyaaH* = are not to be killed; (hear my reply); *yat* = that which;
 
 "O monkey! What you have said just now viz. that women are not to be killed, is
 correct. But that which causes tormentation to the enemies indeed needs to be done."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As for what you say, O leaper (plavaṃgama), that women must not be slain (na hantavyāḥ striyaś ceti)—whatever inflicts torment upon one's foes (pīḍā-karam amitrāṇām), that very thing must be done!”
 </details>
 </details>
 
@@ -1266,6 +1430,12 @@ Hanuma; *indrajit* = Indrajit; *svayam* = personally; *nijaghaana* = killed;
 Having spoken thus to Hanuma, Indrajit personally killed that illusory Seetha, who
 ahd been sobbing all the while, with his sharp-edged sword.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to him, Indrajit himself with his sharp-edged sword (śita-dhāreṇa khaḍgena) struck down that weeping, illusory Sītā (sītāṃ māyāmayīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1307,6 +1477,12 @@ pleasant to the sight; *papaata* = fell down; *pR^ithivyaam* = on the ground.
 Split asunder by him diagonally, that miserable lady of broad hips and pleasant to
 the sight, fell down on the ground.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cloven by him along the path of the sacred thread (yajñopavīta-mārgeṇa), that ascetic lady of broad hips and lovely aspect fell upon the earth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1337,6 +1513,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ स्त्रीयन्नु वधिसि इन्द्रजितनु हनुमन्तनल्लि हेळिदनु - नोडु, नानु रामन प्रिय पत्नी वैदेहियन्नु खड्गदिन्द तुण्डरिसिबिट्टिरुवॆनु. इन्नु निम्म युद्धद परिश्रम व्यर्थवागिदॆ.॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain that woman, Indrajit spoke to Hanūmān: “Behold this beloved of Rāma, cut down by my weapon (śastra-niṣūditām)! Vaidehī lies slaughtered here; fruitless is your toil (niṣphalo vaḥ pariśramaḥ)!”
 </details>
 </details>
 
@@ -1380,6 +1562,12 @@ weapon; *mayaa* = by me; *eShaa* = this; *vaidehii* = Seetha;
 
 After killing that woman, Indrajit told Hanuma as follows: "See, I killed Rama's
 wife with my weapon. This Seetha is dead and all your labour is in vain."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus slain her himself with his great sword, Indrajit, exultant (hṛṣṭaḥ), mounted his chariot and roared a mighty roar (nanāda ca mahā-svanam).
 </details>
 </details>
 
@@ -1427,6 +1615,12 @@ high sound.
 
 After killing her with a large sword personally, that Indrajit then sitting on his
 chariot, pleasurefully roared loudly.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stationed not far off (adūre pratyavasthitāḥ), the Vānaras heard the roar of him who stood within that citadel (tad-durgaṃ saṃśritasya), bellowing with gaping jaws (vyāditāsyasya).
 </details>
 </details>
 
@@ -1484,6 +1678,12 @@ difficult of access for others.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तॊन्दनॆय सर्ग पूर्णवायितु.॥81॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus struck down Sītā, that evil-minded son of Rāvaṇa became thrilled at heart (prahṛṣṭa-cetāḥ); beholding him so jubilant in aspect, the Vānaras, crestfallen in aspect (viṣaṇṇa-rūpāḥ), fled away on all sides.
 </details>
 </details>
 

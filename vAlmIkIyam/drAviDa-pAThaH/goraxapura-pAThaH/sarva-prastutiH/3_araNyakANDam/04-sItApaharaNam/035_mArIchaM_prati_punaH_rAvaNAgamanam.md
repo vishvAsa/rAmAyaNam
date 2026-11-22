@@ -71,6 +71,12 @@ ministers, bidding adieu; *kaaryam buddhvaa jagaama ha* = his task, resolving, p
 On hearing the exciting advise of Shuurpanakha then Ravana bade adieu to ministers, and indeed on resolving
 his further task he proceeded to his personal palace chambers. [3-35-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having heard that hair-raising (roma-harṣaṇam) speech of Śūrpaṇakhā, and having dismissed his ministers (sacivān abhyanujñāya) after determining the course of action (kāryaṃ buddhvā), he departed.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +133,14 @@ While following up his thinking about that task he got a pertinent thought, and 
 the credits and discredits, strengths and weaknesses of that thought he decided that 'this is to be
 done in this method only.' On taking a decision in that way and with a firm mind he indeed proceeded
 to his excellent vehicle-garage. [3-35-2, 3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** Having reflected inwardly upon that undertaking (tat kāryam anugamyāntaḥ), having ascertained it accurately (yathāvad upalabhya ca), and having thoroughly weighed the relative strength and weakness (balābalam) of its defects and merits (doṣāṇāṃ ca guṇānāṃ ca)—
+
+**3:** And having formed his own resolution (niścayam ātmanaḥ), ‘[Thus] alone must it be done (iti kartavyam ity eva),’ he then, of steady resolve (sthira-buddhiḥ), went to the lovely chariot-hall (yāna-śālām).
 </details>
 </details>
 
@@ -212,6 +226,12 @@ not do this way on previous occasions. For such a cowardly act, even Ravana's ch
 may despise or deride Ravana. So, he came to stables with a quirk of secrecy, which of course, will
 not remain a secret, soon.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having then gone secretly (pracchannam) to the chariot-hall, the lord of the rākṣasas (rākṣasādhipaḥ) commanded the charioteer (sūtam): ‘Let the chariot be yoked (rathaḥ saṃyujyatām)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -258,6 +278,12 @@ to harness - horses, got it ready.
 When that brisk-paced charioteer is said in this way he instantly harnessed the favourite and choicest
 chariot of Ravana with horses and got it ready. [3-35-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, the swift-striding (laghu-vikramaḥ) charioteer in a mere instant (kṣaṇenaiva) yoked his favorite, supreme chariot (rathaṃ... abhimatam uttamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -282,6 +308,12 @@ chariot of Ravana with horses and got it ready. [3-35-5]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ सुवर्णमय रथवु इच्छानुसार सञ्चरिसुवुदागित्तु. अदन्नु रत्नगळिन्द अलङ्करिसलागित्तु. अदक्कॆ चिन्नद ऒडवॆगळिन्द अलङ्कृतवाद पिशाचिगळन्तॆ मुखवुळ्ळ कत्तॆगळन्नु हूडलागित्तु. रावणनु आ रथारूढनागि हॊरटनु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting the wish-coursing (kāma-gam) golden chariot, adorned with gems (ratna-bhūṣitam) and yoked with piśāca-faced mules (piśāca-vadanaiḥ... kharaiḥ) decked in golden ornaments (kanaka-bhūṣaṇaiḥ)—
 </details>
 </details>
 
@@ -330,6 +362,12 @@ golden and which rides with a sound like the pealing of thunder, that celebrated
 of Kubera and the lord of demons, travelled towards the lord of rivers and rivulets, namely the ocean.
 [3-35-6,7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By that [chariot], whose rumble matched the thunderclouds (megha-pratima-nādena), the glorious lord of the rākṣasas, younger brother of Kubera (dhanadānujaḥ), journeyed toward the lord of westward and eastward rivers [the ocean] (nada-nadī-patim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -363,6 +401,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग अवनिगॆ बिळिय चामर बीसुत्तिद्दरु. तलॆय मेलॆ श्वेतच्छत्रवित्तु. अवन अङ्गकान्तियु स्निग्ध वैडूर्यमणियन्तॆ नीलि अथवा कप्पागित्तु. अवनु पुटक्किट्ट चिन्नद आभूषणगळिन्द अलङ्कृतनागिद्दनु. अवनिगॆ हत्तु तलॆ, इप्पत्तु तोळुगळिद्दवु. अवन वस्त्राभूणादिगळु इतर उपकरणगळू नोडलु योग्यवागिद्दवु. देवतॆगळ शत्रु मत्तु मुनीश्वरर हत्यॆमाडुववनू आद निशाचरनु हत्तु शिखरवुळ्ळ पर्वतदन्तॆ कण्डुबरुत्तिद्दनु.॥8-9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** With a white yak-tail chowrie (śveta-vāla-vyajanaḥ) and a white parasol (śveta-cchatraḥ), the ten-faced [Rāvaṇa] (daśānanaḥ), gleaming like smooth cat's-eye beryl (snigdha-vaidūrya-saṅkāśaḥ) and adorned in refined gold (tapta-kāñcana-bhūṣaṇaḥ)—
+
+**9:** Twenty-armed (viṃśad-bhujaḥ), ten-necked (daśa-grīvaḥ), of handsome retinue and regalia (darśanīya-paricchadaḥ), that foe of the gods (tridaśāriḥ) and slayer of chief sages (munīndra-ghnaḥ) [looked] like the king of mountains [Himavān] endowed with ten peaks (daśa-śīrṣa ivādrirāṭ).
 </details>
 </details>
 
@@ -420,6 +466,12 @@ and rimmed with flights of cranes. [3-35-8, 9, 10]
 
 Here the cloud metaphors with Ravana, the streaks of lightning with the silvery flashes of his regalia,
 and the decorated chariot with the flight of cranes.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting the wish-coursing chariot, the lord of the rākṣasas shone (śuśubhe) like a thundercloud in the sky encircled by lightning (vidyun-maṇḍalavān meghaḥ) and accompanied by a line of white cranes (sabalākaḥ).
 </details>
 </details>
 
@@ -492,6 +544,14 @@ thresholds; *samantataH alankR^itam* = everywhere, bedecked with - seeing them h
 Everywhere the coastland is bedecked with lotus-lakes containing clean and cool waters, and with extensive
 thresholds of hermitages containing Fire-altars. [3-35-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Gazing upon the mountain-fringed ocean coast (saśaila-sāgarānūpam), which was overspread by thousands of trees (vṛkṣair anukīrṇaṃ sahasraśaḥ) bearing manifold flowers and fruits (nānā-puṣpa-phalaiḥ)—
+
+**12:** [And] adorned on every side with lotus-ponds (padminībhiḥ) of cool, auspicious waters (śīta-maṅgala-toyābhiḥ) and with spacious hermitage grounds (viśālair āśrama-padaiḥ) furnished with sacrificial altars (vedimadbhiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -540,6 +600,12 @@ upashobhitam* = coconut trees, glistening with; *saalaiH taalaiH tamaalaiH ca ta
 Entire coast is gleaming with banana plantation and glistening with coconut trees, and the saala, palm,
 and tamaala trees are also in full blossom. [3-35-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Radiant with plantain groves (kadaly-aṭavi-saṃśobham), graced with coconut palms (nārikelopaśobhitam), and [overspread] with sāla, palmyra (tālaiḥ), and tamāla trees, and with trees in full blossom (tarubhiś ca supuṣpitaiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -567,6 +633,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नियमित आहार सेविसुव दॊड्ड-दॊड्ड महर्षिगळिन्द, नागगळिन्द सुपर्ण (गरुड)गळिन्द, गन्धर्वरिन्द साविरारु किन्नररिन्द आ स्थानवु बहळ शोभिसुत्तित्तु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Graced by supreme sages (paramarṣibhiḥ) of strictly regulated diet (atyanta-niyatāhāraiḥ), and by nāgas, suparṇas [Garuḍas], gandharvas, and kinnaras in thousands—
 </details>
 </details>
 
@@ -618,6 +690,12 @@ brainchildren of Brahma, namely Vaikhanasa-s, Maasha-s, Vaalakhilya-s, Mariicipa
 
 The details about these sages are given in the 6th chapter of this Aranya Kanda when these categories
 of sages meet Rama requesting protection from demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adorned by siddhas who had conquered desire (jita-kāmaiḥ), by cāraṇas, and by the Āja, Vaikhānasa, Māṣa, Vālakhilya, and Marīcipa sages—
 </details>
 </details>
 
@@ -693,6 +771,14 @@ The demons did not get their share of *amR^ita *'divine elixir' therefore they c
 amR^ita arthibhiH *'desirers of ambrosia...' the demons. They also frequent those coasts along with
 gods.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Thronged by thousands of apsarases of celestial form (divya-rūpābhiḥ), wearing celestial ornaments and garlands (divyābharaṇa-mālyābhiḥ) and skilled in the arts of sport and amorous delight (krīḍā-rata-vidhi-jñābhiḥ)—
+
+**17:** Frequented and waited upon by radiant wives of the gods (deva-patnībhiḥ śrīmatībhiḥ), and traversed by hosts of gods and dānavas (deva-dānava-saṅghaiḥ) who partake of ambrosia (amṛtāśibhiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -746,6 +832,12 @@ like, stones, overlain; *saagara tejasaa* = by ocean's, ambience; *saandram* = s
 It is spread with swans, ruddy-gees and frogs, and there the waterfowls are very noisy, and stones overlain
 on the coast are like lapis-gems, and with the ambience of ocean that whole delta is appearing smooth
 and sludgy. [3-35-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crowded with swans, curlews, and water-fowl (haṃsa-krauñca-plavākīrṇam), gladdened by cranes (sārasaiḥ samprasāditam), paved with slabs of cat's-eye beryl (vaidūrya-prastaram), and glistening and cool with the majesty of the ocean (sāgara-tejasā)—
 </details>
 </details>
 
@@ -806,6 +898,14 @@ aircrafts belonging to the deified souls who acquired higher worlds, and from th
 with divine flowery tassels and piloted by the wish of their steersmen, instrumental and vocal music
 is resonating, and gandharva-s are singing and apsara-s are dancing in them. [3-35-19, 20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** White (pāṇḍurāṇi), spacious (viśālāni) aerial palaces (vimānāni) on every side, decked with celestial garlands (divya-mālya-yutāni) and resounding with instrumental music and song (tūrya-gītābhijuṣṭāni)—
+
+**20:** Speeding along (abhisampatan), the younger brother of Kubera (dhanadānujaḥ) beheld those wish-coursing (kāma-gāni) [aerial palaces] of those who had won the worlds through asceticism (tapasā jita-lokānām), as well as gandharvas and apsarases.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -845,6 +945,12 @@ satisfying to, also; *sahasrashaH vanaani pashyan* = in thousands, woodlands, wh
 
 Ravana proceeded while observing thousands of woodlands with sandalwood trees that are soothing and
 satisfying the sense of smell, and that oozed sweet-smelling resin at their bases. [3-35-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding pleasant (saumyāni) forests in thousands of sandalwood trees (candanānām)—the source of exuded aromatic resin (niryāsa-rasa-mūlānām)—which gratified the sense of smell (ghrāṇa-tṛpti-karāṇi ca)—
 </details>
 </details>
 
@@ -957,6 +1063,18 @@ On seeing the delightful, serene, and marvellous cascades, and cities that are a
 agricultural produce, and abundant with gemlike womenfolk, and that are replete with elephants, horses,
 and chariots, Ravana proceeded further. [3-35-25, 26a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** And forests and planted groves (vanāny upavanāni ca) of prime aloe-wood (agurūṇāṃ ca mukhyānām), of takkola spice-trees, and of fragrant, fruit-bearing nutmeg trees (jātyānāṃ phalināṃ ca sugandhinām)—
+
+**23:** And blossoms of the tamāla tree, thickets of black pepper (gulmāni maricasya ca), and heaps of pearls (muktānāṃ ca samūhāni) drying along the shore (śuṣyamāṇāni tīrataḥ)—
+
+**24:** And excellent crags (śailāni pravarāṃś caiva), heaps of coral (pravāla-nicayāṃs tathā), and mountain peaks of gold and likewise of silver (kāñcanāni ca śṛṅgāṇi rājatāni tathaiva ca)—
+
+**25:** And charming, pellucid, and wondrous mountain-streams (prasravāṇi manojñāni prasannāny adbhutāni ca), and [cities] endowed with wealth and grain (dhana-dhānyopapannāni) and thronged with gems among women (strī-ratnair āvṛtāni ca)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1011,6 +1129,12 @@ called *amR^ita ashibhiH *'ambrosia consumers.' As such, some other mms contain 
 expression *amR^ita arthibhiH *'desirers of ambrosia...' the demons. They also frequent those
 coasts along with gods.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing upon cities (nagarāṇi vilokayan) crowded with elephants, horses, and chariots (hasty-aśva-ratha-gāḍhāni), and upon that level (samam), everywhere-verdant (sarvataḥ snigdham) [seashore] fanned by breezes of gentle touch (mṛdu-saṃsparśa-mārutam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1060,6 +1184,12 @@ Indian Fig tree [banyan tree, Ficus benghalensis - the branches of which hang do
 There Ravana also saw a banyan tree which in sheen is like a black-cloud, and the branches of which
 are stretching all over for a hundred yojana-s in length, and on which sages made their abode for practising
 ascesis. [3-35-27b, 28a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Along the coastal tract of the king of rivers [the ocean] (anūpe sindhu-rājasya), he beheld [that expanse] resembling heaven (tridivopamam); and there he saw a cloud-dark banyan tree (meghābhaṃ nyagrodham) surrounded by sages (munibhir vṛtam)—
 </details>
 </details>
 
@@ -1119,6 +1249,12 @@ and to teach a lesson to such causeless quarrellers, Garuda flies in and claws b
 a place to feast on them. Finding this tree worthwhile to have a leisure dinner he dashes on to one
 branch.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whose branches (śākhāḥ) extended a hundred yojanas (śata-yojanam āyatāḥ) on all sides, and to a branch of which, having seized an elephant and a huge-bodied tortoise (hastinam ādāya mahā-kāyaṃ ca kacchapam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1166,6 +1302,12 @@ weight, suddenly, broke - while descending rapidly.
 While descending rapidly then that best bird among birds Garuda suddenly broke that tree's branch which
 is full with leaves, owing to the impact of his high impetuosity. [3-35-29b, 30a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mighty Garuḍa had come in order to devour [them] (bhakṣārtham); and through his weight (bhāreṇa), the foremost of birds (patagottamaḥ) suddenly (sahasā) [snapped] that branch of his—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1212,6 +1354,12 @@ is full with leaves, owing to the impact of his high impetuosity. [3-35-29b, 30a
 Adhering to that tree-branch there are eminent sages like, Vaikhanasa-s, Maasha-s, Vaalakhilya-s, Mariicipa-s,
 Aja-s, and even sages like Dhuumraa-s that thrive on fumes and smokes are there, and there they are
 collectively practising asceticism upside down while clasping branches with their legs. [3-35-30b, 31a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the mighty, fair-winged Suparṇa broke (babhañja) that thickly-leafed (parṇa-bahulām) [bough]; and [suspended] there were Vaikhānasas, Māṣas, Vālakhilyas, and Marīcipas—
 </details>
 </details>
 
@@ -1308,6 +1456,16 @@ When that tree branch is free from sages, Garuda throws it on a province of some
 community, by weight of which the whole of that tribal community is destroyed. This is one way of telling
 the myth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** The Ājas and the smoke-inhaling Dhūmras—supreme sages (paramarṣayaḥ)—were gathered there; out of compassion for them (teṣāṃ dayārtham), Garuḍa [caught up] that hundred-yojana branch (tāṃ śākhāṃ śata-yojanām)—
+
+**32:** Having swiftly (vegena) caught up with one foot (eka-pādena) the broken [branch] along with both the elephant and the tortoise (tau cobhau gaja-kacchapau), the righteous-souled one (dharmātmā), after devouring that flesh (bhakṣayitvā tad āmiṣam) [in mid-air]—
+
+**33:** Having crushed the territory of the Niṣādas (niṣāda-viṣayaṃ hatvā) with that branch, the foremost of birds (patagottamaḥ) attained peerless joy (praharṣam atulaṃ lebhe) after rescuing the great sages (mokṣayitvā mahā-munīn).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1355,6 +1513,12 @@ his mind - resolved.
 When his valour has become twice as much with that happiness that heedful Garuda indeed resolved to
 bring ambrosia from heaven. [3-35-34]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his valor redoubled (dviguṇī-kṛta-vikramaḥ) by that joy, the wise one (matimān) then set his mind (cakāra... matim) upon fetching the ambrosia (amṛtānayanārthaṃ vai).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1400,6 +1564,12 @@ aajahaara* = ambrosia, plundered.
 
 Smashing the guard of iron-grid completely and crashing the unbreakable diamond -like strongroom in
 which the ambrosia is safeguarded, then Garuda carried off ambrosia from the palace of Indra. [3-35-35]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having shattered the iron-chain grilles (ayo-jālāni nirmathya) and broken open the excellent jeweled vault (bhittvā ratna-gṛhaṃ varam), he then carried off (ājahāra) the guarded ambrosia (guptam... amṛtam) from the palace of Mahendra.
 </details>
 </details>
 
@@ -1447,6 +1617,12 @@ deed, signs - betokens Garuda's actions; *naamnaa subhadram* = by name, Subhadra
 Ravana on his way saw such a banyan tree named as Subhadra which is a much sought after tree for assemblages
 of great sages, and which betokens the deeds of that best-winged Garuda. [3-35-36]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The younger brother of Kubera (dhanadānujaḥ) beheld that banyan tree named Subhadra (nāmnā subhadraṃ nyagrodham), frequented by hosts of great sages (maharṣi-gaṇair juṣṭam) and bearing the mark left by Suparṇa (suparṇa-kṛta-lakṣaṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1492,6 +1668,12 @@ Ravana saw.
 
 On going to the other side of the lord of rivers, namely ocean, Ravana saw a pleasing hermitage in the
 sacred and scenic interior of the forest. [3-35-37]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed beyond that [banyan] to the farther shore (paraṃ pāram) of the ocean, lord of rivers (samudrasya nadī-pateḥ), he beheld a hermitage (āśramam) in a secluded, sacred, and lovely forest interior (ekānte puṇye ramye vanāntare).
 </details>
 </details>
 
@@ -1542,6 +1724,12 @@ with controlled, diet; *maariicam naama raakSasam* = Maareecha, named, demon; *d
 At that place Ravana saw the demon named Maareecha, wearing jute-clothes and black deerskin and tufts
 of hairs, and the one with regulated diet. [3-35-38]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There he beheld a rākṣasa named Mārīca (mārīcaṃ nāma rākṣasam), wearing a black antelope skin (kṛṣṇājina-dharam), bearing a crown of matted locks (jaṭā-maṇḍala-dhāriṇam), and observing a regulated diet (niyatāhāram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1588,6 +1776,12 @@ with super, humanly [not subhuman]; *sarva kaamaiH* = with all, offerings; *vidh
 That demon Maareecha welcomed the king Ravana and customarily entertained him catering all the offerings
 that are beyond the scope of humans. [3-35-39]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having met according to rule (samāgamya vidhivat) with that rākṣasa, King Rāvaṇa was honored by Mārīca (mārīcenārcito rājā) with all superhuman amenities (sarva-kāmair amānuṣaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1633,6 +1827,12 @@ entertaining, also; *artha upahitayaa vaacaa* = with significance, connotative, 
 
 On personally offering meals and drinking water, and venerating him properly Maareecha spoke this sentence
 to Ravana which is connotative of significance. [3-35-40]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having personally honored him (taṃ svayaṃ pūjayitvā ca) with food and water (bhojanenodakena ca), Mārīca spoke a speech in words fraught with purpose (arthopahitayā vācā):
 </details>
 </details>
 
@@ -1710,6 +1910,12 @@ the northern side of *kuru *i.e., *kurukhsetra *where Great War of Maha Bharata
 occurred: *uttar˜nþca
 kur¨n paþyan paþyan caiva nagottam˜n | deva d˜nava sanghai× ca sevitam hi am®ta arthibhi× ||*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Is all well with you (kaccit te kuśalam), O King, in Laṅkā, O lord of the rākṣasas (rākṣaseśvara)? And for what purpose (kenārthena) have you come here again in such haste (tūrṇam eva ihāgataḥ)?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1766,6 +1972,12 @@ sentence to Maareecha. [3-35-42]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तैदनॆय सर्ग सम्पूर्णवायितु.॥35॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Mārīca, that Rāvaṇa of great fiery energy (mahā-tejāḥ), skilled in speech (vākya-kovidaḥ), thereafter spoke this speech (idaṃ vākyam abravīt).
 </details>
 </details>
 

@@ -68,6 +68,12 @@ with joined palms; *abraviit* = spoke; *vaakyam* = (the following) words.
 Having traveled the extensive and beautiful Kosala territory and standing with his
 face turned towards Ayodhya, the wise Rama with joined palms spoke the following words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having traversed the wide and lovely realm of Kosala (viśālān kosalān ramyān yātvā), the wise elder brother of Lakṣmaṇa turned facing Ayodhyā with joined palms (ayodhyābhimukho dhīmān prāñjaliḥ) and spoke this word:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +124,12 @@ boundaries."
 "I bid farewell to you, Oh best of the cities, carefully protected by Dasaratha born
 in Kakutstha dynasty, as well as of the deities who protect you and dwell in you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I take leave of you, O best of cities (āpṛcche tvāṃ purī-śreṣṭhe), guarded by the Kākutsthas, and of the deities who guard you and dwell within you (pālayanti vasanti ca)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -164,6 +176,12 @@ with my father."
 
 "After getting relieved from exile in the forest and thus freed from the debt to the
 emperor, I shall see you again, duly getting united with my mother and father."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When I have completed my forest-dwelling (nivṛtta-vana-vāsaḥ) and am freed of my debt to the lord of the earth (anṛṇo jagatī-pateḥ), I shall behold you again, reunited with my mother and father (mātrā ca pitrā ca saha saṅgataḥ).”
 </details>
 </details>
 
@@ -213,6 +231,12 @@ Lifting his right arm and wearing a woeful look, his face covered with tears, Ra
 possessing lovely reddish eyes, spoke them to the people hailing from the countryside.(as follows)
 :
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, with his eyes coppery-red like blood (rudhira-tāmrākṣaḥ), raising up his right arm (bhujam udyamya dakṣiṇam), his face filled with tears and stricken with sorrow (aśru-pūrṇa-mukho dīnaḥ), he spoke unto the countryfolk (jānapadaṃ janam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,6 +285,12 @@ desired object (viz. attending to your house-hold work)."
 you. Keeping agony for a long time is undesirable. Let each return to accomplish your desired
 object(attending to your house-hold work)!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tender sympathy and compassion (anukrośo dayā caiva) have been shown toward me by you as is fitting (yathārhaṃ mayi vaḥ kṛtaḥ); but to linger long in sorrow is worse still (ciraṃ duḥkhasya pāpīyaḥ)—depart therefore for the accomplishment of your duties (gamyatām artha-siddhaye)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +337,12 @@ respect); *te naraaH* = those men; *vyatishhTanta* = stood; *kvachit kvachit*
 Respectfully saluting the high soled prince and going round him clockwise (as a mark
 of reverence), those men stood rooted here and there, wailing frightfully.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed unto that great-souled prince and circumambulated him clockwise (kṛtvā cāpi pradakṣiṇam), those men, wailing terribly (vilapanto narā ghoram), stood lingering here and there (vyatiṣṭhanta kvacit kvacit).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -352,6 +388,12 @@ yathaa* = as the sun; *kshhaNadaamukhe* = at nightfall.
 
 While they were lamenting thus unceasingly, Rama passed beyond their sight, as the
 sun sinks out of view at nightfall.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While they were thus lamenting and still unappeased in their longing to behold him (atṛptānāṃ ca), Rāghava passed beyond the range of their sight (acakṣur-viṣayaṃ prāyāt), even as the sun sets at the approach of night (yathārkaḥ kṣaṇadā-mukhe).
 </details>
 </details>
 
@@ -422,6 +464,16 @@ intersected by ponds full of water, populated by contented and well nourished pe
 herds of cows which deserved to be seen by all kings and which re-echoed to the chanting of
 religious texts.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Then, passing beyond those auspicious Kosala lands endowed with grain and riches (dhānya-dhanopetān), inhabited by charitable folk (dāna-śīla-janān), free from fear from any quarter (akutaścid-bhayān), and lovely with shrines and sacrificial posts (caitya-yūpa-samāvṛtān)—
+
+**9:** —furnished with pleasure-parks and mango groves (udyānāmra-vanopetān), possessing brimming reservoirs of water (sampanna-salilāśayān), crowded with contented and thriving folk (tuṣṭa-puṣṭa-janākīrṇān), and frequented by dense herds of kine (go-kulākula-sevitān)—
+
+**10:** —worthy of being gazed upon by kings (lakṣaṇīyān narendrāṇām) and resounding with the chanting of the Vedas (brahma-ghoṣābhināditān)—that tiger among men passed by chariot beyond Kosala (kosalān atyavartata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,6 +519,12 @@ lovely gardens; *bhogyam* = fit to be enjoyed; *narendraaNaam* = by kings.
 
 Rama, the best among the resolute, moved into the middle of a happy and prosperous
 kingdom, abounding in lovely gardens and fit to be enjoyed by kings.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Right through the midst (madhyena) of that joyful, prosperous realm (muditaṃ sphītam), crowded with lovely parks and fit to be enjoyed by kings (rājyaṃ bhogyaṃ narendrāṇām), journeyed the best of the steadfast (dhṛtimatāṃ varaḥ).
 </details>
 </details>
 
@@ -514,6 +572,12 @@ nishhevitaam* = and frequented by sages.
 
 There, Rama beheld the celestial and lovely river of Ganga with its tree
 tributaries, carrying clear waters without green moss and frequented by sages.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāghava beheld the divine, sacred Gaṅgā (dadarśa rāghavo gaṅgāṃ puṇyām), course of the three paths (tri-patha-gām), carrying auspicious and crystal-clear waters (śiva-toyām), free from water-moss (aśaivalām), and frequented by sages (ṛṣi-niṣevitām).
 </details>
 </details>
 
@@ -563,6 +627,12 @@ The River Ganga was adorned with splendid hermitages within easy distance from o
 another, with pools overflowing with water, visited at suitable hours by celestial nymphs thrilling
 with rapture.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—graced with glorious hermitages standing not far off (āśramair avidūra-sthaiḥ śrīmadbhiḥ samalaṅkṛtām), auspicious, with her deep pools of water frequented at the sporting-hour by joyous Apsarases (kāle 'psarobhir hṛṣṭābhiḥ sevitāmbho-hradāṃ śivām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -602,6 +672,12 @@ Nagas and Gandharvas.
 
 The blessed river was graced by gods and demons, Gandharvas(celestial musicians) and
 kinnaras and was constantly visited by consorts of Nagas and Gandharvas.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—adorned by gods, Dānavas, Gandharvas, and Kinnaras (deva-dānava-gandharvaiḥ kinnarair upaśobhitām), ever auspicious and waited upon by the wives of manifold Gandharvas (nānā-gandharva-patnībhiḥ sevitāṃ satataṃ śivām)—
 </details>
 </details>
 
@@ -650,6 +726,12 @@ the benefit of gods; *vikhyaatam* = (and which in heaven) was named; *devapadmin
 The well known river was hemmed in by hills serving as the play- ground of hundreds
 of celestials and embellished with hundreds of celestial gardens; it coursed through the heavens
 for the benefit of gods and which in heaven was named "The stream of Golden Lotuses".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—crowded with hundreds of sporting-hills of the gods (devākrīḍa-śatākīrṇām), joined with hundreds of celestial groves (devodyāna-śatāyutām), coursing through the sky for the sake of the gods (devārtham ākāśa-gamām), the renowned lotus-stream of the immortals (deva-padminīm)—
 </details>
 </details>
 
@@ -700,6 +782,12 @@ resembled a deep laughter, having a bright smile as white as a foam, its waters 
 places to the shape of a maiden's plaited locks, was rendered beautiful at some places by whirl
 pools.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—awesome with the loud laughter of her crashing waters (jalāghātāṭṭa-hāsogrām) and smiling with pure white foam (phena-nirmala-hāsinīm), in some places having her waters plaited like a braid (kvacid veṇī-kṛta-jalām) and in some places graced with whirlpools (kvacid āvarta-śobhitām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -747,6 +835,12 @@ niHsvanaam* = having a terrific noise.
 At some places, its waters were still and deep. At some places, they were disturbed
 with violent agitation. At some places, they made a deep roaring sound. At some places, they were
 having a terrific noise
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—in some places still and unfathomably deep (kvacit stimita-gambhīrām), in some places turbulent with rushing waters (kvacid vega-jalākulām), in some places rumbling with a deep resonance (kvacid gambhīra-nirghoṣām), and in some places uttering a fearful roar (kvacid bhairava-nisvanām)—
 </details>
 </details>
 
@@ -797,6 +891,12 @@ places; *nirmala vaalukaam* = lined with white sands.
 Hosts of gods took a dip into its water .It was adorned by white lotuses. It was
 hemmed in, with expanse of small islands and at some places, lined with white sands.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—her waters bathed in by hosts of gods (deva-saṅghāpluta-jalām), resplendent with spotless lotuses (nirmalotpala-śobhitām), in some places having expansive sandbanks (kvacid ābhoga-pulinām), and in some places gleaming with pure white sands (kvacin nirmala-vālukām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -845,6 +945,12 @@ The river was rendered resonant by swans and cranes, was graced with cackling of
 Chakrawaka** birds and other birds which are in rut all through the year kept hovering on its
 water.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—resounding with swans and cranes (haṃsa-sārasa-saṅghuṣṭām), echoed with the cooing of cakravāka birds (cakravākopa-kūjitām), and having her banks ever noisy with impassioned birds (sadā madaiś ca vihagair abhisannāditāntarām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -885,6 +991,12 @@ crowded with thick cluster of lotuses.
 
 At some places the river was adorned with trees growing on its banks encircling like
 garlands, at some places crowded with thick cluster of lotuses.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—in some places graced with bank-growing trees as though with garlands (kvacit tīra-ruhair vṛkṣair mālābhir iva śobhitām), in some places overspread with full-blown blue lotuses (phullotpala-cchannām), and in some places thick with beds of day-lotuses (padma-vanākulām)—
 </details>
 </details>
 
@@ -932,6 +1044,12 @@ of numerous flowers; *samadaam iva* = as though excited with passion.
 At some places, it was graced with beds of water lilies in the form of buds and at
 some places, it was reddened with the pollen of numerous flowers, as though excited with
 passion.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—in some places adorned with clusters of white water-lilies and opening buds (kumuda-ṣaṇḍaiś ca kuḍmalair upaśobhitām), and in some places dusted over with the pollen of manifold flowers like a damsel flushed with passion (nānā-puṣpa-rajo-dhvastāṃ sa-madām iva ca kvacit)—
 </details>
 </details>
 
@@ -985,6 +1103,12 @@ Having every aggregation of dirt removed, the river presented a spotlessly clear
 appearance like a crystal. The interior of the forest was reddened noisy again and again by the
 elephants guarding the quarters, by the ruttiest wild elephants and the elephants of excellent
 breed used for riding by gods.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—freed from every mass of impurity and pellucid in aspect as a crystal gem (vyapeta-mala-saṅghātāṃ maṇi-nirmala-darśanām), and having the interior of her riverside woods made to resound again and again by elephants of the quarters, wild elephants, rutting royal elephants (diśā-gajair vana-gajair mattaiś ca vara-vāraṇaiḥ)—
 </details>
 </details>
 
@@ -1041,6 +1165,14 @@ best of jewels. nishhevitaam = infested with; *shimshumaaraishcha* = dolphins;
 Surrounded by fruits and flowers and tender leaves, shrubs and birds, it looked like
 a young woman artistically decked with the best of jewels. The river was infested with dolphins,
 crocodiles and snakes.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** —and elephants fit to be ridden by the gods (devopavāhyaiś ca muhuḥ sannādita-vanāntarām), like a lovely woman carefully decked with the choicest ornaments (pramadām iva yatnena bhūṣitāṃ bhūṣaṇottamaiḥ)—
+
+**24:** —overspread with fruits, flowers, and tender shoots, and with thickets and birds as well (phalaiḥ puṣpaiḥ kisalayair vṛtāṃ gulmair dvijais tathā), and frequented by gangetic porpoises, crocodiles, and serpents (śiṃśumāraiś ca nakraiś ca bhujaṅgaiś ca niṣevitām)—
 </details>
 </details>
 
@@ -1105,6 +1237,14 @@ dispels all sins, which had fallen from the mass of matted hair of Lord Shankara
 spiritual power of Emperor Bhagiratha, which is rendered noisy by cranes and herons, which is a
 consort of the ocean and which is in the vicinity of Sringaverapura(the modern Singraur).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** —fallen from the foot of Viṣṇu (viṣṇu-pāda-cyutām), divine, sinless, and destroyer of sin (apāpāṃ pāpa-nāśinīm), loosed from the massed matted locks of Śaṅkara (śaṅkara-jaṭā-jūṭād bhraṣṭām) by the ascetic splendor of Sagara’s descendant (sāgara-tejasā)—
+
+**26:** —unto that Gaṅgā, the chief queen of the Ocean (samudra-mahiṣīṃ gaṅgām), resounding with sārasa and krauñca cranes (sārasa-krauñca-nāditām), the mighty-armed prince drew nigh over against Śṛṅgaverapura (āsasāda mahā-bāhuḥ śṛṅgivera-puraṃ prati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1152,6 +1292,12 @@ today."
 Beholding the river Ganga with its waves covering whirlpools, Rama the great warrior
 said to Sumantra the charioteer as follows: "We shall halt here itself today."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing upon her whose whirlpools were thick with billowing waves (tām ūrmi-kalilāvartām anvavekṣya), the great chariot-warrior spoke unto the charioteer Sumantra: “Right here today let us halt (ihaivādya vasāmahe)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1197,6 +1343,12 @@ many flowers and shoots. VasaamaH = (We) shall stay; *atraiva* = here itself."
 
 "Oh, charioteer! Not far from the river stands this very large sacred fig tree with
 its many flowers and shoots. We shall stay here itself."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not far from the river stands this mighty iṅgudī tree (su-mahān iṅgudī-vṛkṣaḥ), rich in abundant flowers and tender shoots (bahu-puṣpa-pravālavān); let us dwell right here, O charioteer (vasāmo 'traiva sārathe)!
 </details>
 </details>
 
@@ -1247,6 +1399,12 @@ salilaam* = whose waters are respectable."
 "I shall see (from here) the excellent river Ganga, which is auspicious and whose
 waters deserve to be respected by gods, men, Gandharvas, beasts, reptiles and birds ."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Here we shall behold the best of rivers (drakṣyāmaḥ saritāṃ śreṣṭhām), auspicious, whose waters are worthy of reverence (sammānya-salilāṃ śivām) by gods, Dānavas, Gandharvas, beasts, men, and birds (deva-dānava-gandharva-mṛga-mānuṣa-pakṣiṇām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1292,6 +1450,12 @@ and Sumantra; *tadaa* = then; *upayayatuH* = approached; *hayaiH* = by horses;
 
 Saying �so be it' and nothing more to Rama, Lakshmana and Sumantra too then directed
 the horses to that sacred fig tree.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saying “So be it!” (bāḍham ity eva) unto Rāghava, Lakṣmaṇa and Sumantra then drove with the horses up to that iṅgudī tree (tam iṅgudī-vṛkṣaṃ tadopayayatur hayaiḥ).
 </details>
 </details>
 
@@ -1343,6 +1507,12 @@ Lakshmana.
 Rama, the delight of Ikshvaku dynasty, reached that beautiful tree and got down from
 the chariot along with Sita and Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having approached that lovely tree (abhiyāya taṃ ramyaṃ vṛkṣam), Rāma, the delight of Ikṣvāku, alighted from that chariot (rathād avātarat tasmāt) together with his wife and with Lakṣmaṇa (sa-bhāryaḥ saha-lakṣmaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1389,6 +1559,12 @@ near; *raamam* = Rama; *vR^ikshha muula gatam* = at the foot of the tree.
 Sumantra too dismounted from the chariot, unyoked the superb horses after which with
 joined palms, he seated himself near Rama at the foot of the tree.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumantra too, having alighted from it and unyoked the foremost steeds (mocayitvā hayottamān), waited with joined palms upon Rāma (rāmam upatasthe kṛtāñjaliḥ), who had seated himself at the foot of the tree (vṛkṣa-mūla-gatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1434,6 +1610,12 @@ his life; *nishhaada jaatasya* = Nishada by birth; *balavaan* = a strong man;
 
 There, a king named Guha was Rama's friend dear to him as his own life. He was
 Nishada by birth, a strong man and well known as a ruler of Nishadas.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There ruled a king named Guha (tatra rājā guho nāma), a friend dear to Rāma as his own self (rāmasyātma-samaḥ sakhā), of the Niṣāda race (niṣāda-jātyaḥ), mighty in strength, and renowned as a chieftain (sthapatiś ceti viśrutaḥ).
 </details>
 </details>
 
@@ -1482,6 +1664,12 @@ ministers; *G^yaatibhishcha* = and relatives.
 Hearing of Rama the tiger among men having come to his territory, he approached the
 prince, escorted by elderly ministers and relatives.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that Rāma, that tiger among men, had arrived in his territory (viṣayam āgatam), he drew near, surrounded by aged counsellors and by his kinsfolk (vṛddhaiḥ parivṛto 'mātyair jñātibhiś cābhyupāgataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1527,6 +1715,12 @@ thereupon; *samaagachchhat* = went forth to meet; *guhena* = Guha.
 
 Seeing from a distance the king of Nishada coming, Rama along with Lakshmana
 thereupon went forth to meet Guha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, seeing the lord of the Niṣādas standing at a distance (dṛṣṭvā dūrād upasthitam), Rāma, together with Saumitri, went forth and met with Guha (samāgacchad guhena saḥ).
 </details>
 </details>
 
@@ -1579,6 +1773,12 @@ you? mahaabaaho = Oh; *mighty armed! kaH hi* = who indeed; *praapsyasi* = will g
 Closely embracing Rama, Guha who felt disturbed, spoke to him, "This city too is as
 much as Ayodhya to you. What can I do for you? Oh mighty armed! Who indeed will get such a lovely
 guest?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stricken with grief (ārtaḥ) and embracing him closely (sampariṣvajya), Guha spoke unto Rāghava: “Even as Ayodhyā is unto you, O Rāma, so is this city of mine (yathāyodhyā tatheyaṃ te); what shall I do for you? For who, O mighty-armed one, could ever obtain so dear a guest as this (īdṛśaṃ hi mahā-bāho kaḥ prāpsyaty atithiṃ priyam)?”
 </details>
 </details>
 
@@ -1677,6 +1877,16 @@ food; *te* = for your; *vaajinaam* = horses."
 "Here have arrived various kinds of dishes, drinks and syrups as also excellent beds
 (for you to sleep on) and food for your horses"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**37:** Then, having brought manifold and savory food and drink (guṇavad annādyam upādāya pṛthag-vidham), he swiftly presented the water of welcome (arghyaṃ copānayat kṣipram) and spoke this word:
+
+**38:** “Welcome unto you, O mighty-armed one (svāgataṃ te mahā-bāho)! Yours is this entire earth (taveyam akhilā mahī); we are your servants, and you are our master (vayaṃ preṣyā bhavān bhartā)—pray rule well over our kingdom (sādhu rājyaṃ praśādhi naḥ)!
+
+**39:** Here at hand are foods to be chewed, eaten, drunk, and licked (bhakṣyaṃ bhojyaṃ ca peyaṃ ca lehyaṃ cedam upasthitam), as well as excellent couches (śayanāni ca mukhyāni) and provender for your steeds (vājināṃ khādanaṃ ca te).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1703,6 +1913,12 @@ food; *te* = for your; *vaajinaam* = horses."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 गुहनु हीगॆ हेळिदाग श्रीरामचन्द्रनु अवनिगॆ हीगॆ उत्तरिसिदनु - सखने! नीनु इल्लियवरॆगॆ काल्नडिगॆयिन्द बन्दिरुवुदु, स्नेहतोरिसुवुदे नमगागि ऒळ्ळॆय पूजॆ, स्वागत-सत्कारवायितु. निन्नॊन्दिगॆ भॆट्टियागि ननगॆ बहळ सन्तोषवायितु.॥40॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unto Guha, who was speaking thus, Rāghava replied: “We have been honored and delighted by you in every way (arcitāś caiva hṛṣṭāś ca bhavatā sarvathā vayam)—
 </details>
 </details>
 
@@ -1766,6 +1982,14 @@ Pressing gently with his muscular arms, Rama spoke these words: " Oh, Guha! Than
 heaven that I am seeing you in good health with your relatives. Is all well with the kingdom, the
 allies and the treasure?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** —both by your coming on foot (padbhyām abhigamāc caiva) and by your display of affection (sneha-sandarśanena ca)!” And pressing him closely with his two comely, muscular arms (bhujābhyāṃ sādhu pīnābhyāṃ pīḍayan), he spoke this word:
+
+**42:** “By good fortune I behold you free from illness together with your kinsfolk, O Guha (diṣṭyā tvāṃ guha paśyāmi hy arogaṃ saha bāndhavaiḥ)! Is all well in your realm, and among your friends, and in your treasures (api te kuśalaṃ rāṣṭre mitreṣu ca dhaneṣu ca)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1811,6 +2035,12 @@ indeed to; *pratigrahe* = accept."
 
 "I know your affection by which all this is extensively well arranged by you. But I
 am not in a position indeed to accept it."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And whatever you have affectionately prepared here (yat tv idaṃ bhavatā kiñcit prītyā samupakalpitam), all that I acknowledge with gratitude and return unto you (sarvaṃ tad anujānāmi); for I do not stand in the rule of accepting gifts (na hi varte pratigrahe).
 </details>
 </details>
 
@@ -1862,6 +2092,12 @@ roots."
 "Know me as under a vow to be an ascetic, wearing the robes of bark and deerskin and
 by piety, I am determined to live in the forest by eating roots and fruits only."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Know me to be an ascetic roaming the forest (viddhi ... tāpasaṃ vana-gocaram), wearing kuśa grass, bark-cloth, and deerskin (kuśa-cīrājina-dharam), subsisting on fruits and roots (phala-mūlāśinaṃ ca mām), and intent upon righteousness (praṇihitaṃ dharme).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1909,6 +2145,12 @@ by you."
 "I desire nothing but a little forage for the horses. By being provided with this
 much at the present moment, I shall be duly satisfied by you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I have need only of provender for the horses, and of nothing else whatever (aśvānāṃ khādanenāham arthī nānyena kenacit); by this much alone shall I be well honored by you here (etāvatātra bhavatā bhaviṣyāmi su-pūjitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1954,6 +2196,12 @@ ashvaiH* = by these horses; *suvihitaiH* = being duly fed."
 
 "These horses were cherished by the king Dasaratha, my father. I shall feel honored
 by these horses being duly fed."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For these steeds are dearly beloved of the king, my father Daśaratha (ete hi dayitā rājñaḥ pitur daśarathasya me); when these horses have been well cared for (etaiḥ su-vihitair aśvaiḥ), I myself shall be duly honored (bhaviṣyāmy aham arcitaḥ)!”
 </details>
 </details>
 
@@ -2005,6 +2253,12 @@ horses."
 Then Guha on that spot commanded his men as follows: "Let water for drinking and
 forage be supplied promptly to horses"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Right there Guha commanded his men (so 'nvaśāt guhas tatraiva puruṣān): “Let drink and provender for the horses be given swiftly (aśvānāṃ pratipānaṃ ca khādanaṃ caiva ... tvaritaṃ dīyatām iti)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2054,6 +2308,12 @@ made of bark; *tataH* = (Rama) then; *aadade* = took; *bhojyam* = for food;
 
 Having worshipped the evening twilight appearing in the west, with an upper garment
 made of bark(on his person); Rama then took for food only water brought by Lakshmana himself.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, wearing an upper garment of bark-cloth (cīrottarāsaṅgaḥ) and having worshipped the evening twilight (sandhyām anvāsya paścimām), Rāma partook of water alone as his fare (jalam evādade bhojyam), fetched by Lakṣmaṇa himself (lakṣmaṇenāhṛtaṃ svayam).
 </details>
 </details>
 
@@ -2105,6 +2365,12 @@ against; *vR^ikshham* = a tree.
 Having washed the feet of Rama who was lying on the ground along with his consort,
 Lakshmana then came and stood near a tree.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having washed the feet of him who had lain down upon the bare ground with his wife (tasya bhūmau śayānasya pādau prakṣālya lakṣmaṇaḥ sa-bhāryasya), Lakṣmaṇa then withdrew a little and stood leaning against a tree (tato 'bhyetya tasthau vṛkṣam upāśritaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2150,6 +2416,12 @@ alertly; *anvajaagrat* = kept a vigil; *raamam* = over Rama.
 
 Guha too along with the charioteer conversed with Lakshmana and thereafter wielding
 a bow; alertly kept a vigil over Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Guha too, bow in hand and vigilant (apramatto dhanur-dharaḥ), conversing with Saumitri together with the charioteer (saha sūtena saumitrim anubhāṣayan), kept watch over Rāma (anvajāgrat tato rāmam).
 </details>
 </details>
 
@@ -2221,6 +2493,12 @@ long night passed away.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तनॆय सर्ग पूर्णवायितु ॥50॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, as that wise, illustrious, great-souled son of Daśaratha (dhīmato yaśasvino dāśarather mahātmanaḥ), who had never known sorrow and was accustomed to every comfort (adṛṣṭa-duḥkhasya sukhocitasya), lay thus upon the ground, that night passed slowly away (sā tadā vyatīyāya cireṇa śarvarī).
 </details>
 </details>
 

@@ -67,6 +67,12 @@ the hall of Vedic ritual of Janaka in Mithila kingdom. [1-50-1]
 The northeast is an auspicious direction, and even today it is held high for any ritual or in the architecture.
 This direction is presided over by *iishaana* The God.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proceeding northeast from that hermitage (tataḥ prāguttarāṃ gatvā), Rāma, together with Sumitrā’s son Lakṣmaṇa, placed Viśvāmitra in front and approached the sacrificial enclosure (rāmaḥ saumitriṇā saha viśvāmitraṃ puraskṛtya yajñavāṭam upāgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +120,14 @@ _________________
 
 Rama who is with Lakshmana spoke to the tigerly saint Vishvamitra, " the Vedic-ritual of noble-souled
 Janaka is excellent, indeed with bountifully garnered paraphernalia of the ritual. [1-50-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** Then Rāma, together with Lakṣmaṇa, spoke to that tiger among sages (rāmas tu muniśārdūlam uvāca sahalakṣmaṇaḥ): “Magnificent indeed is the sacrificial opulence of the high-souled Janaka (sādhvī yajñasamṛddhir hi janakasya mahātmanaḥ)!
+
+**3:** “Here, O illustrious sage, are seen many thousands of brāhmaṇas dwelling in diverse lands and illustrious in the study of the Vedas (bahūnīha sahasrāṇi nānādeśanivāsinām brāhmaṇānāṃ mahābhāga vedādhyayanaśālinām),
 </details>
 </details>
 
@@ -164,6 +178,12 @@ of sages rife with hundreds of carts full with their ceremonial chattels, as suc
 may be decided for us too, as I discern every inch is inhabited." Thus Rama spoke to Vishvamitra. [1-50-3,
 4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“and the encampments of the sages are seen crowded with hundreds of carts (ṛṣivāṭāś ca dṛśyante śakaṭīśatasaṃkulāḥ). Let a suitable spot be appointed, O Brāhmaṇa, where we may take up our abode (deśo vidhīyatāṃ brahman yatra vatsyāmahe vayam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -208,6 +228,12 @@ deshe* = in an unfrequented, place; *nivesham akarot* = made [arranged] camp;
 
 On hearing the words of Rama that great-saint Vishvamitra arranged a camp at an unfrequented place that
 has refreshing water. [1-50-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Rāma, the great sage Viśvāmitra established their lodging in a secluded and pure spot well supplied with water (rāmasya vacanaṃ śrutvā viśvāmitro mahāmuniḥ nivāsam akarod deśe vivikte salilānvite).
 </details>
 </details>
 
@@ -261,6 +287,12 @@ On hearing that Vishvamitra has arrived in Mithila, then the best king Janaka in
 towards Vishvamitra, keeping his unreprovable priest Shataananda afore of the team, in deference to
 Vishvamitra. [1-50-6, 7a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing then that Viśvāmitra had arrived, that blameless best of kings placed his family priest Śatānanda in front (viśvāmitram anuprāptaṃ śrutvā nṛpavaras tadā śatānandaṃ puraskṛtya purohitam aninditaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -311,6 +343,12 @@ Even the Ritvik-s, the administrators of that Vedic-ritual, of the great souled 
 with post-haste taking holy waters, and they have ritualistically offered that sanctified water to Vishvamitra.
 [1-50-7b, 8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+as well as his high-souled officiating priests, and taking the arghya offering in haste, advanced immediately in deep humility to welcome him (ṛtvijo ’pi mahātmānas tv arghyam ādāya satvaram pratyujjagāma sahasā vinayena samanvitaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -351,6 +389,12 @@ with post-haste taking holy waters, and they have ritualistically offered that s
 On receiving that veneration from the great souled Janaka, Vishvamitra asked after the well-being of
 the king Janaka, as well about the unhindered proceedings of that Vedic-ritual. [1-50-8b, 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and presented to Viśvāmitra according to sacred law the offering accompanied by scriptural honors (viśvāmitrāya dharmeṇa dadau dharmapuraskṛtam). Accepting that homage of the high-souled Janaka (pratigṛhya tu tāṃ pūjāṃ janakasya mahātmanaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -390,6 +434,12 @@ samaagacChat* = joined them with all sages.
 
 Then Vishvamitra asked after the well-being of saints, mentors, clerics, as befitting to their order,
 and joined the company of all of the sages as a happy-souled sage. [1-50-9b, 10a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra inquired after the king’s welfare and the unobstructed progress of his sacrifice (papraccha kuśalaṃ rājño yajñasya ca nirāmayam); and having likewise inquired after those sages together with the officiating priests and the purohita (sa tāṃś cātha munīn pṛṣṭvā sopādhyāyaurodhasaḥ),
 </details>
 </details>
 
@@ -440,6 +490,12 @@ abhaaSata* = spoke to eminent-sage Vishvamitra; *bhagavaan* = oh reverend sage -
 The king Janaka adjoining his palms then spoke to that eminent-sage Vishvamitra, "oh, reverend sage,
 please be seated on this high seat, along with these eminent saints in their respective seats." Thus
 Janaka spoke to Vishvamitra [1-50-10b, 11a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+he joyfully met and embraced all the sages according to their rank (yathārham ṛṣibhiḥ sarvaiḥ samāgacchat prahṛṣṭavat). Then the king with folded palms addressed that foremost of sages (atha rājā muniśreṣṭhaṃ kṛtāñjalir abhāṣata):
 </details>
 </details>
 
@@ -499,6 +555,14 @@ abraviit* = spoke to Vishvamitra.
 On beholding all of them seated all about in their respective seats as demanded by procedure king Janaka
 then spoke to Vishvamitra. [1-50-12b, 13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “Let the Venerable Lord be seated upon this seat together with these foremost of sages (āsane bhagavān āstāṃ sahaibhir munipuṅgavaiḥ).” Hearing the words of Janaka, the great sage sat down (janakasya vacaḥ śrutvā niṣasāda mahāmuniḥ).
+
+**12:** The family priest Śatānanda, the officiating priests, and the king together with his ministers (purodhā ṛtvijaś caiva rājā ca sahamantribhiḥ) seated themselves all around upon their appointed seats in due order (āsaneṣu yathānyāyam upaviṣṭāḥ samantataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -546,6 +610,12 @@ to have been] obtained by me.
 Today my Vedic ritual is enriched with your advent, whereby I deem that gods have fructified the ritual.
 Let the ritual be like that. I deem that I have obtained the fruit of the ritual just on seeing godlike
 you here today. [1-50-13b, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding them seated there, the king then spoke to Viśvāmitra (dṛṣṭvā sa nṛpatis tatra viśvāmitram athābravīt): “Today my sacrificial opulence has been rendered fruitful by the gods (adya yajñasamṛddhir me saphalā daivataiḥ kṛtā)!
 </details>
 </details>
 
@@ -596,6 +666,12 @@ asmi anugR^ihiitaH asmi* = honoured, I am, hallowed, I am.
 Oh, Brahman, at which Vedic-ritual hall you have arrived along with so many sages that happens to be
 mine, whereby, oh, eminent saint, I feel that I am honoured and hallowed. [1-50-14b, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today, through the sight of Your Holiness, I have already obtained the fruit of my sacrifice (adya yajñaphalaṃ prāptaṃ bhagavaddarśanān mayā); blessed am I and favored by grace, in that the foremost of sages (dhanyo ’smy anugṛhīto ’smi yasya me munipuṅgavaḥ)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -638,6 +714,12 @@ days are remaining to complete the observation of ritual-pledge, and then oh, Ka
 of you to see the gods who arrive at the conclusion of this Vedic-ritual expecting their due in the
 ritual." So said king Janaka to Vishvamitra. [1-50-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“has come with the sages to my sacrificial hall, O Brāhmaṇa (yajñopasadanaṃ brahman prāpto ’si munibhiḥ saha)! The learned priests declare that twelve days of sacrificial consecration remain, O Brahmarṣi (dvādaśāhaṃ tu brahmarṣe dīkṣām āhur manīṣiṇaḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -677,6 +759,12 @@ way; *tadaa prahR^iSTavadanaH* = then, with gladdened face; *praanjaliH prayataH
 
 On speaking to that tigerly sage Vishvamitra in this way, the king again asked the sage pointedly and
 inquisitively with adjoined palms and with a gladdened face. [1-50-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“after which, O Kauśika, you shall behold the gods coming to claim their sacrificial shares (tato bhāgārthino devān draṣṭum arhasi kauśika).” Having spoken thus to that tiger among sages, with a joyful countenance (ity uktvā muniśārdūlaṃ prahṛṣṭavadanas tadā),
 </details>
 </details>
 
@@ -787,6 +875,20 @@ valour or so, I wish to listen about them in actuality. [1-50-20, 21]
 
 Import of verses is the same as at 1-48-5, 6, with a little difference in *anvaya* , parsing.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** the devout king joined his palms and inquired of him once again (punas taṃ paripapraccha prāñjaliḥ prayato nṛpaḥ): “These two young princes—may auspiciousness attend you—equal the gods in valor (imau kumārau bhadraṃ te devatulyaparākramau);
+
+**18:** “heroic, moving with the majestic gait of an elephant, they resemble a tiger and a bull (gajatulyagatī vīrau śārdūlavṛṣabhopamau); with eyes wide as lotus petals, bearing swords, quivers, and bows (padmapatraviśālākṣau khaḍgatūṇīdhanurdharau), they are like the twin Aśvins in beauty and have just reached the bloom of youth (aśvināv iva rūpeṇa samupasthitayauvanau).
+
+**19:** “Like two immortals descended to earth from the world of the gods of their own accord (yadṛcchayaiva gāṃ prāptau devalokād ivāmarau), how have they come here on foot, for what purpose, and to whom do they belong, O Sage (kathaṃ padbhyām iha prāptau kimarthaṃ kasya vā mune)?
+
+**20:** “Heroic bearers of excellent weapons, whose sons are they, O great sage (varāyudhadharau vīrau kasya putrau mahāmune), adorning this land as the moon and the sun adorn the firmament (bhūṣayantāv imaṃ deśaṃ candrasūryāv ivāmbaram)?
+
+**21:** “Resembling each other in stature, inner expression, and outward demeanor (parasparasya sadṛśau pramāṇeṅgitaceṣṭitaiḥ), wearing juvenile kākapakṣa sidelocks and heroic—I wish to hear of them in truth (kākapakṣadharau vīrau śrotum icchāmi tattvataḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -827,6 +929,12 @@ Import of verses is the same as at 1-48-5, 6, with a little difference in *anvay
 On hearing the words of great-souled Janaka, Vishvamitra whose anima is immeasurable, has announced
 that those two as the sons of king Dasharatha. [1-50-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of the high-souled Janaka (tasya tad vacanaṃ śrutvā janakasya mahātmanaḥ), the sage of immeasurable soul announced that those two were the sons of Daśaratha (nyavedayad ameyātmā putrau daśarathasya tau);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -860,6 +968,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर अवरिब्बरु सिद्धाश्रमदल्लि वासिसिदुदु, राक्षसर वधॆ, यावुदे व्यग्रतॆ इल्लदॆ मिथिलॆयवरॆगॆ आगमन, विशालापुरिय दर्शन, अहल्यॆगॆ आद साक्षात्कार, महर्षि गौतमरॊन्दिगॆ समागम, मुन्तादुदन्नु विस्तारवागि वर्णिसि, कॊनॆगॆ इवरु निन्नल्लि इट्टिरुव महाधनुस्सिन सम्बन्धवागि तिळिदुकॊळ्ळुव इच्छॆयिन्द इल्लियवरॆगॆ बन्दिरुवरु ऎम्बुदन्नु तिळिसिदरु.॥23-24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** and he recounted their residence at Siddhāśrama and the slaying of the rākṣasas (siddhāśramanivāsaṃ ca rākṣasānāṃ vadhaṃ tathā), their fearless journey thither and their visit to Viśālā (tatrāgamanam avyagraṃ viśālāyāś ca darśanam),
+
+**24:** their beholding of Ahalyā and meeting with Gautama (ahalyādarśanaṃ caiva gautamena samāgamam), and their coming here to behold and test the great bow (mahādhanuṣi jijñāsāṃ kartum āgamanaṃ tathā).
 </details>
 </details>
 
@@ -924,6 +1040,12 @@ the son of Ahalya, sage Vishvamitra paused. [1-50-23, 24, 25]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तनॆय सर्ग पूर्णवायितु.॥50॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having recounted all this to the high-souled Janaka (etat sarvaṃ mahātejā janakāya mahātmane nivedya), the great sage Viśvāmitra of mighty splendor then fell silent (virarāmātha viśvāmitro mahāmuniḥ).
 </details>
 </details>
 

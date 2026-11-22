@@ -56,6 +56,12 @@ among the creatures inhabiting the sea.
 
 अनन्तर श्रीरघुनाथनु समुद्रतीरदल्लि दर्भॆगळन्नु हासिकॊण्डु महासागरद ऎदुरिगॆ कैमुगिदु पूर्वाभिमुखवागि मलगिबिट्टनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, spreading sacred darbha grass (darbhān āstīrya) along the shore of the sea (sāgaravelāyām), Rāghava, facing east (prāṅmukhaḥ), folded his hands in salutation (añjaliṃ kṛtvā) and lay down before the great Ocean—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -81,6 +87,12 @@ among the creatures inhabiting the sea.
 
 आग शत्रुसूदन श्रीरामनु सर्पदन्तह कोमल मत्तु वनवासद मॊदलु बङ्गारद सुन्दर ऒडवॆगळिन्द अलङ्कृतवागिद्द तन्न बलतॊळन्नु दिम्बागिसिद्दनु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The slayer of foes (arisūdanaḥ), using as his pillow (upadhāya) his arm resembling the coil of a serpent (bhujaṅgabhogābham), which in former days had been adorned with ornaments wrought of gold (jātarūpamayaiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -105,6 +117,12 @@ among the creatures inhabiting the sea.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अयोध्यॆयल्लि इरुवाग मणि मत्तु सुवर्णद केयूर हागू मुत्तिन श्रेष्ठ ऒडवॆगळिन्द विभूषित वाद आ तोळन्नु परमोत्तम नारियरु तम्म करकमलगळिन्द स्नान माडिसुवाग अलङ्करिसुव समय अनेकबारि सवरुत्ता, ऒत्तुत्तिद्दरु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[That arm] which had been caressed in many ways (abhimṛṣṭam anekadhā) by the arms of noble women (paramanārīṇām) adorned with gems, golden armlets, and choice pearls;
 </details>
 </details>
 
@@ -149,6 +167,12 @@ resembling the splendor of a rising sun.
 Formerly, his arm used to be tended with sandalwood and aloe and with saffron pastes
 and made beautiful like the splendor of a rising sun.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Which formerly had been honored (abhisevitam) with sandalwood and aloe (candanāgurubhiḥ), and graced with red sandal-pastes (candanaiḥ) bright as the rising sun (bālasūryaprakāśaiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -192,6 +216,12 @@ In the past, the aforesaid arm was graced by the head of Seetha on the couch. It
 resembled the body of Takshaka. (A snake) supported on the water of the Ganga.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Which in former days upon his couch had been graced by the head (uttamāṅgena) of Sītā, like the body (sambhogam) of [the serpent-king] Takṣaka frequented by the waters of the Gaṅgā (gaṅgājalaniṣevitam);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +268,12 @@ It was delightful to his friends. It is now placed at the shore of the sea.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नेगिलिनन्तॆ सुदीर्घवागिद्द आ बाहुवु युद्धदल्लि शत्रुगळ शोकवन्नु हॆच्चिसुत्तित्तु. सुहृदरिगॆ सन्तोषवन्नुण्टुमाडुत्तित्तु. सागरान्त भूमण्डलद रक्षणॆय भारवू अवन आ बाहुवन्ने आश्रयिसित्तु.॥.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Which in battle resembles a city-gate bar (yugasaṃkāśam), increasing the grief of foes (śokavardhanam), gladdening friends, long, and serving as the support of the ocean-girt earth (sāgarāntavyapāśrayam)—
 </details>
 </details>
 
@@ -315,6 +351,16 @@ charity was used as a pillow. Rama, the competent man and the mighty armed said:
 of the ocean or a death should occur to me today". Making that resolve he laid down by the ocean,
 restraining his speech and with a pious disposition according to tradition.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** And [that] noble one (dakṣiṇaḥ), [pillowing his head] upon his right arm (dakṣiṇaṃ bāhum), which resembled a mighty iron bar (mahāparighasaṃnibham) and whose skin had been calloused by the bowstring's stroke (jyāghātavihatatvacam) as he repeatedly loosed [arrows] toward the left (savyam)—
+
+**8:** Having pillowed his head upon that great arm, the bestower of thousands of cows (gosahasrapradātāram), [resolved]: “Today there shall be either my crossing (taraṇam) or the death (maraṇam) of the Ocean!”
+
+**9:** Having formed this resolve (dhṛtiṃ kṛtvā), mighty-armed Rāma lay down beside the great Ocean according to sacred rule (vidhivat), self-controlled (prayataḥ), restrained, and silent as an ascetic (muniḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -361,6 +407,12 @@ while sleeping on the ground spread with Kusha grass, spent a time of three nigh
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दर्भॆगळन्नु हासिद्द भूमिय मेलॆ मलगि, नियमानुसार अप्रमत्तनागि श्रीरामनु हीगॆ मूरु रात्रॆगळन्नु कळॆदनु.॥1.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As that Rāma lay upon the ground strewn with kuśa grass, unswerving from his vow (niyamād apramattasya), three nights (niśās tisraḥ) passed by.
 </details>
 </details>
 
@@ -420,6 +472,14 @@ waited upon the ocean, the lord of rivers.
 
 Though honored according to his worth by the self subdued Rama, the careless ocean
 did not appear in his personal form to Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Having fasted for three nights (trirātroṣitaḥ) there, Rāma, knower of policy (nayajñaḥ) and devoted to dharma, then waited upon (upāsata) the Ocean, lord of rivers.
+
+**12:** Yet the dull-witted (mandaḥ) Ocean did not show his form (na ca darśayate rūpam) to Rāma, even though duly worshiped (yathārham abhipūjitaḥ) by the self-controlled Rāma.
 </details>
 </details>
 
@@ -487,6 +547,12 @@ Thereafter Rama, the annihilator of enemies, spreading sacred grass on the sea
 shore, making a respectful salutation (by joining his palms) to the great ocean with his face
 turned eastward, lied down with his arm, resembling the body of a snake , as his pillow.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma, enraged at the Ocean (samudrasya), with the corners of his eyes reddened (raktāntalocanaḥ), spoke these words to Lakṣmaṇa of auspicious marks (śubhalakṣaṇam), who stood nearby:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -540,6 +606,12 @@ having no virtues.
 Indeed calmness, forbearance kind spoken ness and straight -forwardness- these qualities of noble
 men give weak results, when directed towards those having no virtues."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What arrogance (avalepaḥ) of the Ocean, who does not show himself (na darśayati yaḥ svayam)! Calmness (praśamaḥ), forbearance (kṣamā), straightforwardness (ārjavam), and gentle speech—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -585,6 +657,12 @@ that man; *aatma prashansinam* = who boasts himself;dushhTam = and shameless;
 
 "This world honors that man, who boasts himself, is corrupt and shameless, runs
 about in all directions advertising himself and commits every kind of excess"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“These virtues of the good (satāṃ guṇāḥ) yield only the fruit of [perceived] impotence (asāmarthyaphalāḥ) among the meritless (nirguṇeṣu)! A man who boasts of himself (ātmapraśaṃsinam), wicked, insolent (dhṛṣṭam), running about everywhere—
 </details>
 </details>
 
@@ -632,6 +710,12 @@ about in all directions advertising himself and commits every kind of excess"
 "O, Lakshmana! In this world, it is not possible to obtain fame, glory or victory at
 the end of a battle, by conciliation"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And dealing out punishment indiscriminately (sarvatrotsṛṣṭadaṇḍam)—him the world honors (satkurute)! Not by conciliation (na sāmnā) can renown (kīrtiḥ) be won, nor by conciliation can glory (yaśaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -677,6 +761,12 @@ sides; *madbaaNanirbhagnaiH* = and broken asunder by my arrows.
 
 "O, Lakshmana! Behold now this ocean, having its water made suffocated soon with its
 crocodiles floated on all sides and broken asunder by my arrows".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or victory in the forefront of battle (raṇamūrdhani) be won in this world, O Lakṣmaṇa! Today, with makaras torn apart by my arrows (madbāṇanirbhagnaiḥ), [behold] the abode of makaras—
 </details>
 </details>
 
@@ -725,6 +815,12 @@ me.
 "See here, O, Lakshmana, the coils of water snakes, the huge bodies of alligators
 and the trunks of sea elephants being shattered by me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With its waters choked (niruddhatoyam), O Saumitri, by [sea-beasts] floating on every side! Behold the bodies (bhogāni) of serpents (bhoginām) cloven by me, O Lakṣmaṇa—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -771,6 +867,12 @@ now; *mahataa yuddhena* = by this great battle.
 "I will make the ocean with its multitude of conches, oyster shells, fishes and
 crocodiles, dry up now in this great battle"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And [behold] here the huge bodies (mahābhogāni) of fishes and the trunks of sea-elephants (kariṇāṃ ca karān)! Today, along with its masses of conchs and pearl-oysters (saśaṅkhaśuktikājālam) and its fishes and makaras—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -816,6 +918,12 @@ endowed as I am; *kshhamayaa* = with forbearance; *dhik* = out with;
 
 "This ocean is considering me as an incapable man endowed as I am with forbearance.
 It is a great mistake to show forbearance to such an individual."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By a mighty battle (yuddhena mahatā) I shall dry up (pariśoṣaye) the Ocean! For this abode of makaras takes me, who am endowed with forbearance (kṣamayā hi samāyuktam)—
 </details>
 </details>
 
@@ -872,6 +980,14 @@ appearing; *aatmaanam* = himself; *me* = to me; *saamnaa* = on kind words;
 "The Ocean is not appearing himself before me on kind words. O, Lakshmana! Bring the
 bow and the serpentine arrows. I shall dry up this ocean, so that our monkeys can cross it by
 feet."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “To be powerless (asamartham)! Fie upon forbearance (dhik kṣamām) toward such a creature! By conciliation (sāmnā) the Ocean does not show me his own form!
+
+**22:** “Bring my bow (cāpam ānaya), O Saumitri, and arrows resembling venomous serpents (āśīviṣopamān)! I shall dry up the ocean (samudraṃ śoṣayiṣyāmi); let the monkeys cross over on foot (padbhyāṃ yāntu plavaṃgamāḥ)!
 </details>
 </details>
 
@@ -930,6 +1046,14 @@ demons.
 the ocean, which is demarcated by banks and agitated with thousands of waves, bereft of a boundary,
 by my arrows. I will agitate the great ocean, thronged with great demons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** “Today, enraged, I shall churn up (kṣobhayiṣyāmi) the Ocean, unperturbable (akṣobhyam) though it be! Bounded by its shores (velāsu kṛtamaryādam) and thronged with thousands of waves—
+
+**24:** “I shall make the abode of Varuṇa transgress its bounds (nirmaryādaṃ kariṣyāmi) with my shafts; I shall agitate the great deep teeming with mighty dānavas (mahādānavasaṃkulam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -975,6 +1099,12 @@ with his hand, became dreadful to look at, as a blazing fire at the end of the w
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि दुर्धर्ष वीर भगवान् श्रीरामनु कैयल्लि धनुस्सन्नॆत्तिकॊण्डनु. अवनु क्रोधदिन्द कण्णरळिसि प्रयळाग्नियन्तॆ प्रज्वलितनादनु.॥2.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, bow in hand (dhanuṣpāṇiḥ), his eyes wide with wrath (krodhavisphāritekṣaṇaḥ), Rāma became unassailable (durdharṣaḥ), blazing like the fire at the end of a yuga (yugāntāgnir iva jvalan).
 </details>
 </details>
 
@@ -1023,6 +1153,12 @@ the arrow resembling a powerful thunderbolt of Indra. (god of celestials).
 
 अवनु तन्न भयङ्कर धनुस्सन्नु बग्गिसि नाणन्नु एरिसिदनु मत्तु अदर टङ्कारदिन्द जगत्तन्ने नडुगिसुत्ता इन्द्रनु अनेक वज्रगळन्नु प्रयोगिसिदन्तॆ दॊड्ड भयङ्करवाद बाणवन्नु बिट्टनु.॥2.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And bending hard (sampīḍya) his dreadful bow and making the world tremble (kampayitvā) with his arrows, he loosed fierce shafts (viśikhān ugrān) as Śatakratu [Indra] hurls thunderbolts (vajrān iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1068,6 +1204,12 @@ their splendor; *pravishhyanti* = entered ; *jalam* = the waters; *samudrasya*
 
 Those excellent arrows having a great speed and ablaze by their splendor, penetrated
 the waters of the ocean, striking the water- snakes with terror.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing with fiery energy (tejasā) and of mighty speed, those peerless arrows entered the water of the Ocean, terrifying its serpents (vitrastapannagam).
 </details>
 </details>
 
@@ -1131,6 +1273,12 @@ His arm formerly adorned with armlets of gems and gold and the most excellent je
 of pearls, was touched more than once, by excellent women ( Kausalya and other mothers or by royal
 maids).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That mighty surge of the Ocean's waters (toyavegaḥ), with its fishes and makaras, became exceedingly dreadful (mahāghoraḥ) and roared with the sound of tempest winds (samārutaravaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1176,6 +1324,12 @@ maids).
 
 Immediately that great ocean, became shaken by the cluster of huge waves enveloped
 by a multitude of conches in its rolling waves and a smoke came out.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Overspread with garlands of huge waves (mahormimālāvitataḥ) and filled with conchs and pearl-oysters, the great Ocean suddenly became wreathed in smoke (sadhūmaḥ) with whirling billows (parivṛttormiḥ).
 </details>
 </details>
 
@@ -1226,6 +1380,12 @@ greatly valiant demons; *paataalatalavaasinaH* = residing in nethermost subterra
 Sea-snakes having brilliant faces and glittering eyes and the very valiant demons
 residing in nethermost subterranean region of the sea, were perturbed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The serpents (pannagāḥ), with blazing mouths and blazing eyes (dīptāsyā dīptalocanāḥ), were anguished (vyathitāḥ), and so too the mighty dānavas who dwell in the depths of Pātāla.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1272,6 +1432,12 @@ in thousands (so large);vindhyamandarasamkaashaaH = resembling Vindhya and Mandh
 Thousands of waves, so large resembling Vindhya and Mandhara mountains, jumped up
 from the sea with its crocodiles and sea monsters.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The waves (ūrmayaḥ) of the king of rivers, along with crocodiles and makaras (sanakramakarāḥ), leaped up (samutpetuḥ) by the thousands, resembling Mount Vindhya and Mount Mandara (vindhyamandarasaṃkāśāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1317,6 +1483,12 @@ serpents and demons; *udvartita mahaagraahaH* = with huge crocodiles caused to c
 
 That ocean with its multitude of fluctuating waves, with its frightened serpents and
 demons, with huge crocodiles coming out, became full of noise.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With its multitudes of waves whirling (āghūrṇitataraṅgaughaḥ), its serpents and rākṣasas bewildered (sambhrāntoragarākṣasaḥ), and its huge sharks tossed upward (udvartitamahāgrāhaḥ), the abode of Varuṇa resounded with a mighty roar (saghoṣaḥ).
 </details>
 </details>
 
@@ -1373,6 +1545,12 @@ Then Lakshmana rushed towards Rama who in a terrific velocity was stretching his
 incomparable bow, with a penetrating sigh, crying: "No further, no farther" and took hold of the
 bow.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, as that Rāghava of fierce impetuosity (ugravegam), breathing heavily (viniḥśvasantam), was drawing his immeasurable bow, Saumitri [Lakṣmaṇa] sprang forward (utpatya), crying “No! No!” (mā meti), and laid hold of his bow (dhanur ālalabe):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1427,6 +1605,12 @@ power of anger; *bhavaan* = some durable; *saadhu vR^ittam* = and noble way;
 "O, honorable man! Even without the destruction of the ocean, the purpose of you the
 greatest hero will be fulfilled. Men like you do not fall into the sway of anger. You see some
 durable and noble alternative"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even without this [destruction] of the Ocean (etad vināpi hy udadheḥ), the work of you, the greatest of heroes (vīratamasya), shall be accomplished today! Those like you do not fall under the sway of wrath (krodhavaśaṃ na yānti); may you look to your far-reaching noble conduct (dīrghaṃ bhavān paśyatu sādhuvṛttam)!”
 </details>
 </details>
 
@@ -1488,5 +1672,11 @@ loud voices, saying "No farther, no farther" and making a noise "Ah,Oh,Alas!"
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तॊन्दनॆय सर्ग पूर्णवायितु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And in the sky, invisible (antarhitaiḥ) brahmarṣis and devarṣis (surarṣibhiś ca) raised a loud cry (śabdaḥ kṛtaḥ), exclaiming “Alas!” (kaṣṭam iti) and crying “No! No!” (mā meti) in a mighty voice.
 </details>
 </details>

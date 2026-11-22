@@ -69,6 +69,12 @@ of, came back - to wreck havoc on; *taam* = to her; *vyaktataa vaacaa* = in clea
 On seeing Shuurpanakha who came back only to wreck havoc on demonic race and again fell before him as
 before, Khara spoke this sentence to her in clear terms in all his fury. [3-21-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Śūrpaṇakhā fallen once more, he [Khara] again spoke in wrath with a clear voice (vyaktayā vācā) to her who had returned to bring about calamity (anarthārtham āgatām):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ commanded; *punaH kim artham rudyate* = again, what, for, it is wept - you howl.
 "What for your are howling again when I have just now commanded those fearless flesh eating demons in
 order to fulfill your wish? [3-21-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Have not those valiant, flesh-eating (piśitāśanāḥ) rākṣasas just now been dispatched by me for the sake of pleasing you (tvat-priyārtham)? Why then do you weep again (rudyate punaḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -164,6 +176,12 @@ no, not, doers - no question of not accomplishing my order.
 
 "Those demons are my admirers, adherers and they always remained my well-wishers, hence there is no
 question of their non-accomplishment of my orders. [3-21-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They are ever devoted (bhaktāḥ), loyally attached (anuraktāḥ), and dedicated to my welfare (hitāḥ); even when struck, they cannot be slain (hanyamānā na hanyante), nor would they ever fail to execute my command (na na kuryur vaco mama).
 </details>
 </details>
 
@@ -211,6 +229,12 @@ it; *shrotum icChaami* = to listen, I wish to.
 
 "Owing to what you are highly bawling by saying, 'haa, lord' and wriggle on the ground like a snake?
 I would like to know the reason for all this, what is it? [3-21-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What is this? I wish to hear the reason on account of which (yat-kṛte) you again writhe upon the ground like a serpent (sarpavac ceṣṭase kṣitau), crying out, ‘Alas, O lord (hā nātheti)!’
 </details>
 </details>
 
@@ -262,6 +286,12 @@ ward off, thus; *iti* = thus he said.
 "I am here to take care of you, then why should you really cry out like an uncared-for being, get up...get
 up, and ward off this sort of perplexity." Thus Khara said to Shuurpanakha. [3-21-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Why indeed do you lament like one without a protector (anāthavat) while I, your lord, stand here (nāthe mayi sthite)? Arise, arise! Do not, do not act thus (mā maivam); let this despondency be cast aside (vaiklavyaṃ tyajyatām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -308,6 +338,12 @@ abraviit* = to brother, Khara, she spoke.
 She that Shuurpanakha who is otherwise an unassuageable one is wholly pacified when Khara spoke to her
 thus that way, and she on dabbing her tearful eyes then spoke to her brother Khara. [3-21-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed in this manner and consoled (parisāntvitā) by Khara, the intractable (durdharṣā) [demoness] wiped her tear-filled eyes (nayane sāsre) and spoke to her brother Khara:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -353,6 +389,12 @@ completely, comforted, also - isn't it.
 
 "I came to you just a while back with my ears and nose chopped off and wet with gushes of blood, and
 you too have comforted me, isn't it. [3-21-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Just now I came [to you] with my ears and nose mutilated (hata-śravaṇa-nāsikā), drenched in a flood of blood (śoṇitaugha-pariklinnā), and was consoled by you (tvayā ca parisāntvitā).
 </details>
 </details>
 
@@ -421,6 +463,14 @@ hands; *te sarve* = they, all; *raameNa* = by Rama; *marma bhedibhiH saayakaiH*
 "But they all who handled their spears and bolts along with an envious anger are killed in a fight with
 Rama by his arrows that cleave the crucial parts of his opponents. [3-21-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** And those fourteen valiant rākṣasas were dispatched by you to slay the dreadful Rāghava together with Lakṣmaṇa (salakṣmaṇam) for the sake of pleasing me (mat-priyārtham).
+
+**9:** Yet all of them, full of wrath (sāmarṣāḥ) and bearing pikes and sharp-edged spears in their hands (śūla-paṭṭiśa-pāṇayaḥ), have been slain in battle (samare nihatāḥ) by Rāma with arrows that cleave the vital organs (sāyakair marma-bhedibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -466,6 +516,12 @@ unusual, deed, also; *dR^iSTvaa* = on seeing; *mama* = to me; *mahaan traasaH ab
 
 "On seeing those highly impetuous demons falling to earth in a trice, and even on seeing the unusual
 deed of Rama in felling them, I am highly alarmed. [3-21-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those [warriors] of mighty speed (mahā-javān) fallen upon the ground in a mere instant (kṣaṇenaiva), and [witnessing] the mighty feat of Rāma (rāmasya ca mahat karma), a great terror arose in me (mahāṃs trāso 'bhavan mama).
 </details>
 </details>
 
@@ -513,6 +569,12 @@ you, for refuge, I sought.
 "Oh me! I am alarmed, fully frenzied, and even despaired, oh, nightwalker Khara, and beholding dread
 everywhere again I have come seeking your refuge. [3-21-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Frightened, deeply agitated (samudvignā), and dejected (viṣaṇṇā), O night-roamer, I have come to you again for refuge (śaraṇaṃ tvāṃ punaḥ prāptā), beholding danger on every side (sarvato bhaya-darśinī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -559,6 +621,12 @@ me, why, not, rescue.
 "Why do not you rescue me when I am drowned in a vast ocean called grief, wherein each pervasive crocodile
 is despair and each swelling wave is fright. [3-21-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Why do you not rescue me (kiṃ māṃ na trāyase), plunged as I am in a vast ocean of grief (vipule śoka-sāgare) inhabited by the crocodiles of despair (viṣāda-nakrādhyuṣite) and garlanded with the waves of terror (paritrāsormi-mālini)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -604,6 +672,12 @@ by Rama; *bhuumau* = on earth; *nishitaiH sharaiH nihataa* = with sharp, arrows,
 
 "Besides, those flesh-eating demons that have followed me are also felled by Rama with his sharp arrows,
 for whom I have a contrite heart. [3-21-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+These flesh-eating (piśitāśanāḥ) rākṣasas who followed in my footsteps (ye ca me padavīṃ prāptāḥ) have been struck down upon the ground by Rāma with sharp arrows (niśitaiḥ śaraiḥ).
 </details>
 </details>
 
@@ -660,6 +734,12 @@ of; *raakSasa kaNTakam* = for demons, a thorn; *jahi* = kill.
 in you to cope with Rama, oh, nightwalker, kill that Rama who is a thorn in the side of demons dwelling
 in Dandaka forest. [3-21-14, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If you have compassion (anukrośaḥ) for me and for those rākṣasas, O night-roamer, or if you possess the strength (śaktiḥ) or fiery energy (tejo vā) [to contend] with Rāma—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -710,6 +790,12 @@ that too in your fore, that too now itself.
 If you are not going to kill that enemy destroyer Rama now itself, now itself I will give up my life
 than living a shameless life with these lopped ears and nose. [3-21-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—then slay this thorn in the side of the rākṣasas (rākṣasa-kaṇṭakam) who dwells in the Daṇḍaka forest (daṇḍakāraṇya-nilayam)! If today you do not slay Rāma, the destroyer of foes (amitra-ghnam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -734,6 +820,12 @@ than living a shameless life with these lopped ears and nose. [3-21-15b, 16a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु महासमरदल्लि बलाढ्यनागिद्दरू रामन ऎदुरिगॆ युद्धदल्लि निल्ललारॆ ऎन्दे ननगॆ बुद्धिपूर्वकवागि पदे-पदे अनिसुत्तिदॆ.॥16½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—I, freed from all shame (nirapatrapā), shall abandon my life-breaths right before your eyes (tava caivāgrataḥ)! By my judgment (buddhyā) I perceive that in battle (saṃyuge) with Rāma you [are] not—
 </details>
 </details>
 
@@ -783,6 +875,14 @@ I am discerning - instinctually perceiving.
 "I can perceive instinctually that you are incapable of affronting Rama in a given crucial battle, even
 if your are with all your forces on the battlefield, and you assert yourself a valiant, but you are
 just vainglorious. [3-21-16b, 17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** —able to stand face-to-face (sthātuṃ pratimukhe śaktaḥ) in great combat, even with your entire army (sabalo 'pi)! Fancying yourself a hero (śūra-mānī), you are no hero—one upon whom valor has been falsely attributed (mithyāropita-vikramaḥ).
+
+**18:** Flee hastily (apayāhi tvaritaḥ) from Janasthāna along with your kinsmen (saha-bāndhavaḥ); or else (anyathā tu), O fool (mūḍha), O disgrace to our lineage (kula-pāṃsana), slay [them] in battle!
 </details>
 </details>
 
@@ -838,6 +938,12 @@ the rescue of Shuurpanakha, or to that matter of fact should they not eliminate 
 there is every possibility of their ouster from their posts by Ravana, because Shuurpanakha has more
 access to Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Since you are unable to slay those two mortals (mānuṣau tau), Rāma and Lakṣmaṇa, what sort of residence (vāsas te kīdṛśaḥ) can you have here, devoid of courage (niḥsattvasya) and of scanty valor (alpa-vīryasya)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -886,6 +992,12 @@ kSipram vi nashiSyasi hi* = quickly, completely evanish, indeed; *dasharatha aat
 
 "You will completely and quickly evanish, indeed, subjugated by resplendence of Rama, for that Dasharatha's
 son Rama possess that kind of resplendence, in effect. [3-21-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For, overwhelmed by Rāma's fiery splendour (rāma-tejo-'bhibhūtaḥ), you shall swiftly perish (kṣipraṃ vinaśiṣyasi)! For that Rāma, the son of Daśaratha, is endowed with supreme energy (tejaḥ-samāyuktaḥ);
 </details>
 </details>
 
@@ -956,6 +1068,14 @@ The name Khara also stands for a he-ass
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** and his brother, by whom I was disfigured (yena cāsmi virūpitā), is of mighty valor (mahā-vīryaḥ)!” Having lamented thus manifoldly (evaṃ vilapya bahuśaḥ), the rākṣasī with her deeply creased belly (pradarodarī)—
+
+**22:** —became bereft of consciousness (naṣṭa-saṃjñā babhūva ha) beside her brother, stricken with grief (śokārtā); and beating her belly with both hands (karābhyām udaraṃ hatvā), she wept in sore distress (bhṛśa-duḥkhitā).
 </details>
 </details>
 

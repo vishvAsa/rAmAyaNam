@@ -68,6 +68,12 @@ priest; Vasista.
 Those brahmans skilled in Vedas stayed there all the night and arrived at a nearby place
 along with the royal priest, Vashishta.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed that night (tāṃ rajanīm uṣya), those Brahmins who had mastered the Vedas (veda-pāragāḥ), together with the royal family priests (saha-rāja-purohitāḥ), attended the royal assembly hall (upatasthur upasthānam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +119,12 @@ of Rama's coronation.
 
 Ministers, army chiefs, prominent leaders of the city assembled there, welcoming the
 cause of Rama's coronation.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The ministers (amātyāḥ), the commanders of the army (bala-mukhyāś ca), and the foremost leaders of the merchant guilds (mukhyā ye nigamasya ca) gathered together in high delight (prīyamāṇāḥ susaṃgatāḥ) for the sake of Rāghava’s consecration.
 </details>
 </details>
 
@@ -184,6 +196,16 @@ chariot; *aastiirNaH* = covered by; *bhaaasvataa* = shining; *vyaaghracharmaNaa*
 
 Golden water-pots, well-decorated throne and chariot covered well by shining tiger-skin
 were impressive.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** When the spotless sun had risen (udite vimale sūrye), when the day joined with the Puṣya asterism had arrived (puṣye cābhyāgate ’hani), and when the Cancer ascendant (lagne karkaṭake)—in which Rāma’s nativity stood (janma rāmasya ca sthite)—had come round,
+
+**4:** everything required for Rāma’s consecration was arrayed by the foremost of the twice-born (dvijendrair upakalpitam): golden water-pitchers (kāñcanā jala-kumbhāś ca) and a splendidly adorned auspicious throne (bhadra-pīṭhaṃ svalaṃkṛtam),
+
+**5:** and a chariot duly spread over (rathaś ca samyag āstīrṇaḥ) with a gleaming tiger-skin (bhāsvatā vyāghra-carmaṇā), together with water brought from the sacred confluence of the Gaṅgā and the Yamunā (gaṅgā-yamunayoḥ puṇyāt saṃgamāt).
 </details>
 </details>
 
@@ -269,6 +291,16 @@ butter; *laajaaH* = popped grain; *darbhaaH* = sacred grass; *sumanasaH* = flowe
 Honey, curd, clarified butter popped grain, sacred grass, flowers and milk were kept
 ready. Harlots adorned with all types of ornaments were also glimmering there.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** And whatever other sacred rivers (saritaḥ puṇyāḥ), deep pools (hradāḥ), wells (kūpāḥ), and lakes (sarāṃsi ca) there were—streams flowing eastward (prāg-vahāḥ), cascading from on high (ūrdhva-vahāḥ), and coursing transversely (tiryag-vāhāś ca) with milk-sweet waters (kṣīriṇaḥ)—
+
+**7:** from those rivers too, and from all the oceans in every quarter (samudrebhyaś ca sarvaśaḥ), water had been fetched; and there stood honey (kṣaudram), curds (dadhi), clarified butter (ghṛtam), parched grain (lājāḥ), sacred darbha grass, blossoms (sumanasaḥ), and milk (payaḥ),
+
+**8:** eight radiant maidens (aṣṭau ca kanyā rucirāḥ), a rutting lordly elephant (mattaś ca vara-vāraṇaḥ), and golden and silver pitchers (ghaṭāḥ kāñcana-rājatāḥ) filled with water and covered with shoots of milky trees (kṣīribhiś channāḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -314,6 +346,12 @@ with gold; *ratna bhuushhitam* = adorned with diamonds; *tishhTati* = was kept; 
 
 An excellent fly-flopper which was like spread-out rays of moon, made of gold, adorned
 with diamonds was kept ready for Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+which shone resplendent, decked with day-lotuses and blue water-lilies (padmotpala-yutāḥ) and brimming with supreme water (pūrṇāḥ parama-vāriṇā); and also a gem-studded, pale-white (pāṇḍuraṃ ratna-bhūṣitam),
 </details>
 </details>
 
@@ -364,6 +402,12 @@ abhishhekapuraskR^itam* = which was kept in advance for the occasion of coronati
 A white umbrella like circular moon, which was kept in advance for the occasion of coronation
 was also kept ready.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and peerless yak-tail fan (vāla-vyajanam uttamam), gleaming like expanded moonbeams (candrāṃśu-vikaca-prakhyam), stood ready for Rāma, along with a pale-white royal parasol (ātapatraṃ ca pāṇḍuram) resembling the orb of the moon (candra-maṇḍala-saṃkāśam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -409,6 +453,12 @@ in well established position; *gajaH cha* = elephant also; *prasR^itaH* = which 
 A white bull, a white horse a mighty and beautiful elephant which was fit to be mounted
 by kings were readily waiting.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+prepared, radiant (dyutikaram), glorious, and foremost among the consecration insignia (abhiṣeka-purassaram); a white bull (pāṇḍuraś ca vṛṣaḥ) stood ready, and a white steed (pāṇḍurāśvaś ca) was stationed there,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -452,6 +502,14 @@ by kings were readily waiting.
 
 Eight auspicious virgins adorned all types of ornaments, various types of musical instruments,
 panegyrists and others were also waiting.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** as well as musical instruments of every kind (vāditrāṇi ca sarvāṇi) and panegyrists besides (vandinaś ca tathāpare)—even as all the requisite articles of consecration should be assembled (yathā rājye sambhriyetābhiṣecanam) for the sovereignty of the Ikṣvākus.
+
+**13:** Having brought consecration articles of that very kind (tathā-jātīyam ādāya) for the anointing of the prince (rājaputrābhiṣecanam), those dignitaries who had assembled there at the king’s command (rājavacanāt tatra samavetāḥ),
 </details>
 </details>
 
@@ -499,6 +557,12 @@ The people who gathered there after getting the things required as per orders of
 for coronation ceremony to be held in a kingdom of Ikshhvaaku dynasty, could not sight the king and
 discussed among themselves about how to inform the king regarding their arrival.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+not beholding the lord of the earth (mahīpatim apaśyantaḥ), said to one another: “Who indeed will announce us to the king (ko nu rājño naḥ prativedayet)? We do not see the monarch, and the sun has already risen (uditaś ca divākaraḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +603,12 @@ wise; *raamasya* = Rama's yauvaraajyaabhishhekaH cha = crowing ceremony also; sa
 
 " The king is not being seen. The sun has risen. Everything is ready for the coronation
 of Rama, the wise".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+while the consecration of wise Rāma as Prince Regent stands fully prepared (yauvarājyābhiṣekaś ca sajjaḥ)!” While they were speaking thus, to all those assembled lords of the earth (sarvāṃs tāṃś ca mahīpatīn)
 </details>
 </details>
 
@@ -605,6 +675,14 @@ those kings, who came from different countries.
 "I am going to Rama quickly as per king's directions. But, you are all worthy of worship
 by Dasaratha and by Rama in particular."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Sumantra, who was held in high honor by the king (rājasatkṛtaḥ), spoke this word: “By the king’s command (rājño niyogena), I have set forth in haste (tvarayā prasthito hy aham) to summon Rāma.
+
+**17:** Yet you are all worthy of reverence to the king (pūjyā rājño bhavantaś ca), and especially so to Rāma (rāmasya tu viśeṣataḥ); therefore, at your word (vacanāt), I shall inquire right now into the welfare of you long-lived ones—that is, the king’s auspicious awakening (sukham āyuṣmatām aham)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -651,6 +729,12 @@ cha* = and about the reason of not coming.
 "I shall ask as your word about the well-being of king who is now awake and also about
 the reason of his not coming here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and the reason for the non-arrival of the king (rājñaś cānāgamana-kāraṇam), though he has already awakened (sampratibuddhasya).” Having spoken thus, Sumantra, knower of ancient lore (purāṇavit), came back to the gate of the inner apartment (antaḥpura-dvāram ājagāma).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -696,6 +780,12 @@ the reason of his not coming here."
 
 That Sumantra, knower of sacred works spoke thus, approached entrance of royal palace
 and entered the inner quarters which is always kept closed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumantra entered that ever-accessible royal mansion (sadā saktaṃ ca tad veśma); and having entered, he praised the lineage of that lord of the people (tuṣṭāvāsya tadā vaṃśam).
 </details>
 </details>
 
@@ -749,6 +839,12 @@ tushhTaava* = praised; *asya* = this; *vishaampateH* = kings's vamsham = dynasty
 He entered the inner quarters and praised the king's dynasty. He approached the royal
 bedroom and stood there at a distance.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching the bedchamber of the lord of men (śayanīyaṃ narendrasya), he stood waiting (vyatiṣṭhata); drawing close to that chamber with only the curtain between them (tiraskaraṇim antarā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -797,6 +893,12 @@ _________________
 He entered the bedroom, approached nearer to the curtain there and praised Dasaratha's
 qualities with blessings.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+he extolled Rāghava—King Daśaratha—with benedictions rich in auspicious virtues (āśīrbhir guṇa-yuktābhiḥ): “O Kākutstha, may Soma and Sūrya, and Śiva and Vaiśravaṇa as well (śiva-vaiśravaṇāv api),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -842,6 +944,12 @@ te* = to you.
 
 "Oh, king Dasaratha! Let sun and the moon, guardians of the world like Shiva and Kubera,
 Varuna, Agni and Indra grant victory to you!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and Varuṇa, Agni, and Indra bestow victory upon you (vijayaṃ pradiśantu te)! The blessed night has passed away (gatā bhagavatī rātriḥ), and the auspicious day has arrived (ahaḥ śivam upasthitam).
 </details>
 </details>
 
@@ -892,6 +1000,12 @@ do; *kaaryam* = whatever to be done; *anantaram* = thereafter.
 "Oh, the best of kings! The venerable night has gone. The auspicious day has come. Wake
 up and do whatever needs to be done thereafter."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awake, O tiger among kings (buddhyasva rājaśārdūla), and perform the duty that follows immediately hereafter (kuru kāryam anantaram)! The Brahmins, the army commanders, and the city merchants (naigamāś ca) have arrived here,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -940,6 +1054,12 @@ up!
 
 "Oh, king Dasaratha ! Brahmanas, chiefs of armed forces and traders are waiting to see
 you. Please wake up."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and eagerly long to behold you (darśanaṃ te ’bhikāṅkṣante); awake, O Rāghava (pratibuddhyasva rāghava)!” Then to that bard Sumantra, skilled in counsel (mantra-kovidam), who was praising him thus,
 </details>
 </details>
 
@@ -996,6 +1116,14 @@ Rama.
 **अनुवादः**
 
 "Why have you not followed my orders even though you were asked by her to bring Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** Recognizing him, the king then spoke this word (pratibuddhya tato rājā idaṃ vacanam abravīt): “O charioteer, when you were expressly commanded by me (yad asy abhihito mayā), ‘Bring Rāma!’ (rāmam ānaya sūteti),
+
+**26:** what is this reason on account of which my command is being turned back (mamājñā prativāhyate)? Moreover, I am by no means asleep (na caiva samprasupto ’ham); bring Rāghava here at once (ānayehāśu rāghavam)!”
 </details>
 </details>
 
@@ -1069,6 +1197,14 @@ Rama here soon".
 He listened to king's words, bowed his head in salutation to him, thought for goodness
 of king, and came out of the king's palace.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** Thus did King Daśaratha command the charioteer there once again (sūtaṃ tatrānvaśāt punaḥ). Having heard the king’s word and honored him with bowed head (śirasā pratipūjya tam),
+
+**28:** he went forth from the royal abode (nirjagāma nṛpāvāsāt), deeming it a great and welcome matter (manyamānaḥ priyaṃ mahat), and reached the royal highway adorned with pennons and standards (patākā-dhvaja-śobhitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1120,6 +1256,12 @@ and banners.
 
 That Sumantra with placid mind, went happily seeing the royal roads adorned with flags
 and banners.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thrilled and filled with inward joy (hṛṣṭaḥ pramuditaḥ sūtaḥ), the charioteer sped along quickly, gazing upon that royal highway; and there the charioteer heard conversations centered upon Rāma (rāmādhikaraṇāḥ kathāḥ),
 </details>
 </details>
 
@@ -1188,6 +1330,14 @@ joyful people there.
 Then, Sumantra saw Rama's palace which was lovely shining like top of a mountain and
 radiant like Indra's palace.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** uttered by all the people as though by men filled with joy (sarva-lokasya hṛṣṭavat) and connected with the consecration (abhiṣecana-saṃyuktāḥ). Then he beheld the radiant palace of Rāma, gleaming like Mount Kailāsa (kailāsa-sadṛśa-prabham),
+
+**31:** Sumantra beheld Rāma’s palace (rāma-veśma), matching the splendour of Śakra’s abode (śakra-veśma-sama-prabham), closed with mighty door-leaves (mahā-kapāṭa-pihitam) and adorned with a hundred quadrangular pavilions (vitardi-śata-śobhitam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1213,6 +1363,12 @@ radiant like Indra's palace.
 
 अदर प्रधान मुम्बागिलु बङ्गारद देवता प्रतिमॆगळिन्द अलङ्कृतवागित्तु. आ इडी भवनवु शरद् ऋतुविन मेघगळन्तॆ बॆळ्ळगिन कान्तियिन्द कूडि देदीप्यमान मेरुपर्वतद गुहॆयन्तित्तु.॥32॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+crowned at its topmost pinnacles with golden statues (kāñcana-pratimaikāgram), furnished with outer archways of gems and coral (maṇi-vidruma-toraṇam), gleaming with the dense radiance of autumn clouds (śāradābhra-ghana-prakhyam), and blazing like a cavern of Mount Meru (meru-guhā-samam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1237,6 +1393,12 @@ radiant like Indra's palace.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुवर्णनिर्मित पुष्पगळ मूलॆगळल्लि नडु-नडुवॆ पोणिसिद अमूल्य मणिगळिन्द कूडिद हारगळिन्द आ भवनवु अलङ्कृतवागित्तु, गोडॆगळल्लि कोद मुक्तामणिगळिन्द हॊळॆयुत्तित्तु. मुत्तु रत्नगळ भण्डारवे ऎल्लॆडॆ तुम्बित्तु. चन्दन, अगरुगळ सुगन्धदिन्द अदर शोभॆ इन्नू हॆच्चित्तु.॥33॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+decked with huge central jewels set amidst exquisite golden garlands (maṇibhir vara-mālyānāṃ sumahadbhir alaṃkṛtam), strewn with pearls and gems (muktā-maṇibhir ākīrṇam), and graced with sandalwood and aloe (candanāguru-bhūṣitam),
 </details>
 </details>
 
@@ -1266,6 +1428,12 @@ _________________
 
 आ भवनदल्लि मलयाचलद दुर्दर ऎम्ब चन्दनगिरि शिखरदन्तॆ ऎल्लॆडॆ मनोहर सुगन्धवु हरडिकॊण्डित्तु. सारस, मयूरवे मॊदलाद पक्षिगळ कलरवदिन्द अदर शोभॆ इम्मडियागित्तु.॥34॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+wafting captivating fragrances (gandhān manojñān visṛjat) like the peak of Mount Dardura (dārduraṃ śikharaṃ yathā), and resplendent with resonant cranes and peacocks (sārasaiś ca mayūraiś ca vinadadbhir virājitam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1290,6 +1458,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 स्वर्णवे मॊदलाद धातुगळिन्द सुन्दरवागि निर्मिसिद तोळगळे मॊदलाद मूर्तिगळिन्द अदु आवरिसित्तु. शिल्पिगळु अदर गोडॆगळल्लि मनोहर चित्तारगळन्नु कॆत्तिद्दरु. अदु तन्न उत्कृष्ट शोभॆयिन्द समस्त प्राणिगळ कण्मनगळन्नु आकर्षिसुत्तित्तु.॥35॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+thronged with exquisitely fashioned figures of wolves (sukṛtehāmṛgākīrṇam) and carved with ornamental relief-patterns (utkīrṇaṃ bhaktibhis tathā), captivating the minds and eyes of all living beings (manaś cakṣuś ca bhūtānām ādadat) by its dazzling lustre (tigma-tejasā),
 </details>
 </details>
 
@@ -1316,6 +1490,12 @@ _________________
 
 चन्द्र-सूर्यरन्तॆ तेजस्वी, कुबेरन भवनदन्तॆ अक्षय सम्पत्तिनिन्द पूर्ण हागू इन्द्रधामदन्तॆ भव्य मत्तु मनोहरवाद आ श्रीरामभवनदल्लि नाना विधद पक्षिगळु तुम्बिद्दवु.॥36॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+shining like the moon and the sun (candra-bhāskara-saṃkāśam), resembling the mansion of Kubera (kubera-bhavanopamam), rivaling the abode of Mahendra (mahendra-dhāma-pratimam), and echoing with birds of every kind (nānā-pakṣi-samākulam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1340,6 +1520,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामभवनवु मेरु पर्वतद शिखरदन्तॆ शोभिसुत्तित्तु. श्रीरामनिगॆ कैमुगिदु वन्दिसलु बन्दिरुव असङ्ख्य जनरिन्द तुम्बिहोद अदन्नु सुमन्त्रनु नोडिदनु.॥37॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The charioteer beheld Rāma’s palace, equal to a peak of Mount Meru (meru-śṛṅga-samam), thronged with waiting people who stood with folded hands (upasthitaiḥ samākīrṇaṃ janair añjali-kāribhiḥ),
 </details>
 </details>
 
@@ -1366,6 +1552,12 @@ _________________
 
 बगॆ-बगॆय उडुगॊरॆगळन्नॆत्तिकॊण्डु प्रजा जनरु अल्लि नॆरॆदिद्दरु. श्रीरामन पट्टाभिषेकद समाचार केळि अवर मुखगळु अरळिद्दवु, अवरु आ उत्सववन्नु नोडलु उत्कण्ठितरागिद्दरु. अवरॆल्लर उपस्थितियिन्द आ भवनवु शोभिसुत्तित्तु.॥38॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and graced on every side by country-folk (jānapadair janaiḥ) who had arrived bearing tribute-gifts (upādāya samākrāntaiḥ), eager for Rāma’s consecration (rāmābhiṣeka-sumukhaiḥ) and craning their necks upwards (unmukhaiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1390,6 +1582,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ विशाल भवनवु महामेघ खण्डदन्तॆ ऎत्तरवागि, सुन्दरवागि शोभा सम्पन्नवागित्तु. अदर गोडॆगळल्लि नाना विधद रत्नगळन्नु जोडिसिद्दरु मत्तु कुळ्ळराद सेवकरिन्द अदु तुम्बिहोगित्तु.॥39॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+lofty (udagram), resplendent, resembling a mighty rain-cloud (mahā-megha-sama-prakhyam), strewn with gems of every kind (nānā-ratna-samākīrṇam), and surrounded by hunchbacks and dwarfs as well (kubjakair api cāvṛtam).
 </details>
 </details>
 
@@ -1468,6 +1666,12 @@ waiting with different gifts in their hands. That house decorated with various d
 high like a great cloud. Hunch backed servants and servants of kirata tribe were moving all over the
 house.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his horse-yoked, fender-guarded chariot (vāji-yuktena rathena... varūthinā) speeding toward the prince’s palace (rāja-gṛhābhipātinā), that charioteer lit up the crowded royal avenue (samākulaṃ rāja-kulaṃ virājayan), gladdening the hearts of the entire city (purasya sarvasya manāṃsi harṣayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1521,6 +1725,12 @@ raajakulam* = and royal race; *harshhayam* = gladdened; *manaamsi* = the hearts;
 That Sumantra with chariot fastened with horses and having a top, approached towards
 Rama's palace, beautifying the human and the royal races, gladdened the hearts of all citizens.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having reached that vast and richly endowed mansion (mahā-dhanaṃ mahat... gṛham)—swarming and resounding with deer and peacocks (mṛgair mayūraiś ca samākulolbaṇam), like the palace of Śacī’s lord Indra, worthy of the choicest offerings (varārhasya śacī-pater iva)—that charioteer felt his hair bristle with joy (prahṛṣṭa-romā sa babhūva sārathiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1573,6 +1783,12 @@ Rama's palace, beautifying the human and the royal races, gladdened the hearts o
 
 That palace of the great souled Rama was like Indra's palace with great wealth. It was
 filled with various deer and peacocks. After approaching that palace, he became quite thrilled.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering there the well-adorned courtyards that shone like Kailāsa and rivaled the abodes of the thirty gods (kakṣyās tridaśālayopamāḥ), and passing beyond many beloved and noble men devoted to Rāma’s counsel (priyān varān rāma-mate sthitān bahūn vyapohya), the chariot-borne Sumantra arrived at the inner apartment (śuddhāntam upasthito rathī).
 </details>
 </details>
 
@@ -1629,6 +1845,12 @@ The inner apartments of Rama's palace were well decorated, high as Kailasa mount
 like abodes of deities. Sumantra entered there, passed over many of Rama's friends who well wishers
 and approached Rama's inner apartment.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There he heard the joyful and exultant voices (harṣa-yuktā... giraḥ prahṛṣṭāḥ) of the people engaged in preparing for Rāma’s consecration (rāmābhiṣekārtha-kṛtāṃ janānām), and of all the populace, uttering auspicious benedictions on every side for the king’s son (narendra-sūnor abhimaṅgalārthāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1681,6 +1903,12 @@ suunoH* = of Rama.
 
 There, Sumantra heard delightful people talking about Rama's coronation and the rites
 to be performed for the sake of Rama's prosperity.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Sumantra beheld Rāma’s lovely mansion (veśma rāmasya ramyam), rivaling the abode of Mahendra (mahendra-sadma-pratimam), frequented by deer and birds (mṛga-pakṣi-juṣṭam), and blazing with splendour like a lofty peak of Mount Meru (meror iva śṛṅgam uccam).
 </details>
 </details>
 
@@ -1735,6 +1963,12 @@ Rama's palace was as high as top of the Meru mountain, shining with radiance. Th
 was filled with birds and antelopes. It was like Indra's mansion. Sumantra saw such a beautiful house
 of Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He beheld the gateway approach (dvāra-padam) thronged by tens of millions and hundreds of trillions (koṭyā parārdhaiś ca) of country-folk and citizens who had unyoked their vehicles (vimukta-yānaiḥ) and stood waiting with folded hands bearing tribute-offerings (upasthitair añjali-kāribhiś ca sopāyanaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1779,6 +2013,12 @@ vehicles.
 
 He saw crores and millions of rural folk and other people with folded hands approaching
 the area leaving their respective vehicles.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then he beheld the handsome, colossal-bodied elephant named Śatruñjaya (śatruñjayaṃ nāgam udagra-kāyam), Rāma’s royal riding-mount (rāmopavāhyam), resembling a mighty cloud resting upon a mountain (mahā-megha-mahīdharābham), streaming with rut (prabhinnam), defying the goad (atyaṅkuśam), and utterly irresistible (atyasahyam).
 </details>
 </details>
 
@@ -1832,6 +2072,12 @@ beautiful; *naagam* = elephant; *shatrunjayam* = called satrunjayam; *udagrakaay
 
 There he saw a beautiful elephant called Satrunjaya with highly elevated body and Rama's
 royal conveyance. It was like a great cloud and a mountain. It was intoxicated, uncontrollable and intolerable.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The charioteer also beheld the king’s beloved chief ministers (amātya-mukhyāṃś ca dadarśa vallabhān), splendidly attired and accompanied by horses, chariots, and elephants (sāśva-rathān sakuñjarān); clearing his way past them where they stood assembled on every side (vyapohya sūtaḥ sahitān samantataḥ), he entered the opulent inner apartment (samṛddham antaḥpuram āviveśa ha).
 </details>
 </details>
 
@@ -1897,6 +2143,12 @@ the rich inner apartment.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि हदिनैदनॆय सर्ग पूर्णवायितु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, unrestrained by any warder (avāryamāṇaḥ), the charioteer entered that mansion—which resembled a motionless cloud resting upon a mountain peak (adri-kūṭācala-megha-sannibham), was joined with seven-storied palaces rivaling great celestial cars (mahā-vimānopama-veśma-saṃyutam), and abounded in jewels—even as a makara sea-monster enters the jewel-teeming ocean (prabhūta-ratnaṃ makaro yathārṇavam).
 </details>
 </details>
 

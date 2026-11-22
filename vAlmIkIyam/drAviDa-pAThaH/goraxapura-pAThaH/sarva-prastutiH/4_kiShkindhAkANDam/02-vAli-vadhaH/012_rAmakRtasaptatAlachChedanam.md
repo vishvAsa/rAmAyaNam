@@ -69,6 +69,12 @@ up, bow.
 On hearing the well-spoken words of Sugreeva that expressed doubt about Rama's
 valour, that great resplendent Rama took-up bow to inculcate credence in Sugreeva. [4-12-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And having heard this eloquent (subhāṣitam) speech of Sugrīva, Rāma of mighty splendor (mahātejāḥ) took up his bow (kārmukam) in order to instill confidence (pratyayārtham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +122,12 @@ Rama, the bestower of dignity to the sufferers, took up his dreadful bow, aimed 
 sala tree, and darted single arrow, by which all the directions reverberated with the twang of his
 bowstring. [4-12-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having grasped his dreadful bow and a single arrow (śaram ekam), that bestower of honor (mānadaḥ) aimed at a sāla tree and shot it, filling the directions with reverberations (ravaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -158,6 +170,12 @@ saalaan giri prastham bhittvaa* = seven, sala trees, mountain, heights, on perfo
 
 The golden arrow released by the mighty Rama perforated all the seven sala trees,
 and even the levelled areas of mountain, and then entered the earth. [4-12-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Loosed by that mighty warrior, that arrow adorned with gold (svarṇapariṣkṛtaḥ) pierced the seven sāla trees, the mountain plateau (giriprastham), and the seven subterranean realms (saptabhūmim).
 </details>
 </details>
 
@@ -215,6 +233,12 @@ and also a mountain from peak to core, and even entered the seventh earthly plan
 beneath the sixth plane of the earth, where *atala, vitala, sutala, paataala, rasaatal,
 talaatala* are the names of six strata of earth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having pierced the sāla trees in an instant (muhūrtena), that shaft of tremendous speed (mahājavaḥ) emerged once more (niṣpatya ca punaḥ) and re-entered that very same quiver (tūṇam tam eva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -254,6 +278,12 @@ astonishment, went into.
 
 On seeing them the seven sala trees that are profoundly fissured, that best monkey
 Sugreeva went into a stunning astonishment at the rapidity of Rama's arrow. [4-12-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those seven sāla trees cloven through (nirbhinnān) by the velocity of Rāma's arrow (śaravegena), the bull among Vānaras (vānarapuṅgavaḥ) entered into supreme wonder (vismayam paramam).
 </details>
 </details>
 
@@ -304,6 +334,12 @@ lambiikR^ita bhuuSaNaH* = while his ornaments, made to dangling [on his crouchin
 Highly gladdened Sugreeva made palm-fold in that astonishment, kneeled while his
 ornaments dangled, and prostrated before Raghava with his head touching the ground. [4-12-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Supremely delighted (paramaprītaḥ), Sugrīva folded his hands in reverence (kṛtāñjaliḥ) and prostrated himself on the ground with his head (mūrdhnā) before Rāghava, his ornaments hanging loosely down (pralambīkṛtabhūṣaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +386,12 @@ present before; *mam* = to Rama; *idam ca uvaaca* = this, also, said.
 Overjoyed with that deed Sugreeva said this to that virtue-knower, the one who is
 proficient among all experts of missiles, namely the valorous Rama, who is just in his presence
 him. [4-12-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thrilled by that feat (karmaṇā tena harṣitaḥ), he spoke this word to Rāma, the knower of dharma (dharmajñam), the foremost of all who know missile-weapons (sarvāstraviduṣām śreṣṭham), the steadfast hero (śūram avasthitam):
 </details>
 </details>
 
@@ -399,6 +441,12 @@ capable of; *vaalinam kim punaH* = of Vali, why, again [speak of him.]
 
 "You with your arrows, oh, best one among men, are capable of eliminating all the
 gods including Indra, oh, lord, then why to speak of Vali. [4-12-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O bull among men (puruṣarṣabha), with your arrows you are capable (samarthaḥ) of slaying in battle (samare) all the gods together with Indra (sendrān api surān sarvān)—how much more so Vālī, O lord (prabho)!
 </details>
 </details>
 
@@ -450,6 +498,12 @@ sthaataa* = who, stands.
 "By whom seven great sala trees, a mountain and also the earth is ripped off with
 only one arrow, oh Kakutstha, who then can stand up to you in the vanguard of war. [4-12-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Kākutstha, before you who have cloven (dāritāḥ) seven great sāla trees, the mountain, and the earth with a single arrow (bāṇenaikena), who can stand in the forefront of battle (raṇāgrataḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -496,6 +550,12 @@ me, heightened, is the joy.
 "Today on gaining a kind-hearted friend like you, who is similar to Indra and
 Rain-god who accord favour on their own, my distress is gone and my joy is heightened.
 [4-12-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today my grief has vanished (vigataḥ śokaḥ), and today my joy is supreme (prītir adya parā mama), having gained you as a friend (suhṛdam) who are equal to Mahendra and Varuṇa (mahendravaruṇopamam).
 </details>
 </details>
 
@@ -544,6 +604,12 @@ anjaliH* = by me, joined, this, palms - in supplication.
 for my happiness, for which I adjoin my palms in supplication." Thus Sugreeva requested Rama.
 [4-12-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today itself (adyaiva), for my pleasure (priyārtham me), slay that enemy wearing the form of a brother (vairiṇam bhrātṛrūpiṇam), Vālī, O Kākutstha! Here are my hands folded in supplication (baddho 'yam añjaliḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -584,6 +650,12 @@ prati uvaaca* = wrods, replied.
 That great percipient Rama embraced Sugreeva, which Sugreeva is pleasant in his look
 for he gained confidence by now, and who is an alternate of Lakshmana to partake Rama's affection,
 and then Rama said these words to such a Sugreeva in reply. [4-12-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Rāma of great wisdom (mahāprājñaḥ), having embraced (pariṣvajya) Sugrīva of pleasing aspect (priyadarśanam), replied in words shared in spirit by Lakṣmaṇa (lakṣmaṇānugatam vacaḥ):
 </details>
 </details>
 
@@ -645,6 +717,12 @@ A meaningless nomenclature called a brother' for that brother who has
 no brotherliness for his brothers. Sugreeva do have such a brother Vali, from whom he got the redolence
 of cruelty alone, but not any brotherliness. Rama Tilaka.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From this [mountain] (asmāt) let us go to Kiṣkindhā; go quickly ahead of us (kṣipram gaccha tvam agrataḥ)! And having gone there, O Sugrīva, challenge (āhvaya) Vālī, that brother only in name (bhrātṛgandhinam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -690,6 +768,12 @@ aatmaanam aavR^itya* = in thickets, of forests, with trees themselves, covering 
 
 They all on quickly going to Kishkindha, the city of Vali, hedged themselves in the
 thickets of forest trees and waited. [4-12-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having gone swiftly (tvaritam gatvā) to Kiṣkindhā, the city of Vālī (vālinaḥ purīm), all of them concealed themselves (ātmānam āvṛtya) among the trees and stood in the dense forest (gahane vane).
 </details>
 </details>
 
@@ -737,6 +821,12 @@ the purpose of; *vyanadat ghoram* = shouted, boisterously.
 Sugreeva firmly tightened his girdle-cloth for the duel and shouted boisterously for
 the purpose of inviting Vali for a duel, and his rapidity in shouting appeared as though to crack
 the sky. [4-12-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tightly girded (gāḍham parihitaḥ), Sugrīva too uttered a dreadful roar (anadad ghoram) to summon Vālī (vālino hvānakāraṇāt), as though splitting the sky (bhindann ivāmbaram) with his cries out of impetuous force (vegāt).
 </details>
 </details>
 
@@ -797,6 +887,12 @@ day now itself hence this is unsuitable.' And some other older mms, contain this
 *toyadaat iva bhaaskaraH * i.e., 'came out
 like blazing sun from behind the black cloud.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that roar of his brother (ninadam bhrātuḥ), Vālī of mighty strength (mahābalaḥ) grew enraged (kruddhaḥ) and rushed forth in utmost fury (susaṃrabdhaḥ), like the sun from the western mountain ridge (bhāskaro 'stataṭād iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -849,6 +945,12 @@ like the awful fight between the planets Mercury and Mars in skies. [4-12-17]
 "Two planets rushing from aspect malign / Of fiercest opposition in midsky / Should combat, and
 their jarring spheres / compound." Paradise Lost. Book VI. - So say Griffith.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then a tumultuous battle (sutumulam yuddham) arose between Vālī and Sugrīva, dreadful like the clash of the two planets Mercury and Mars (budhāṅgārakayor iva) in the sky (gagane).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -897,6 +999,12 @@ jaghnatuH* = in fight, each other battered.
 
 Those two brothers who are convulsed in frenzy battered each other in that fight
 with their thunderbolt-like palms, and lightning-like fists. [4-12-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With open palms like lightning-bolts (talair aśanikalpaiś ca) and with fists like Indra's thunderbolt (vajrakalpaiś ca muṣṭibhiḥ), the two brothers, beside themselves with wrath (krodhamūrchitau), struck one another (jaghnatuḥ samare 'nyonyam) in battle.
 </details>
 </details>
 
@@ -949,6 +1057,12 @@ their appearance, like the Ashwin twins among gods. [4-12-19]
 The Twins of Gemini, as known in European astronomy by names Castor and Pollux,
 or the Dioskuri are the Ashwin twins of Hindus.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma, bow in hand (dhanuṣpāṇiḥ), observed (samudaikṣata) those two heroes, who were identical to one another (anyonyasadṛśau) like the twin Aśvin gods (devāv ivāśvinau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -995,6 +1109,12 @@ moktum = to release; *buddhim* = mind; *na kR^itavaan* = not, made.
 For which reason Raghava could not differentiate between Sugreeva or Vali, for the
 same reason did not make up his mind to release his arrow, otherwise it would have been a deadening
 arrow, as confusion is the only reason for Rama. [4-12-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Because Rāghava could not distinguish (yan nāvagacchat) either Sugrīva or Vālī, he therefore did not make up his mind (na kṛtavān buddhim) to loose the fatal arrow (moktum antakaram śaram).
 </details>
 </details>
 
@@ -1045,6 +1165,12 @@ Vali; *bhagnaH sugriivaH* = broken - whacked, Sugreeva; *naatham* = the benefact
 Meanwhile Sugreeva is unable to spot out his benefactor Raghava as Vali whacked him
 down, and thereby he immediately fled to Mt. Rishyamuka. [4-12-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the meantime (etasminn antare), routed (bhagnaḥ) by that Vālī and not beholding his protector Rāghava (apaśyan rāghavam nātham), Sugrīva fled headlong (pradudruve) toward Ṛṣyamūka.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1090,6 +1216,12 @@ Sugreeva; *pravivesha mahaavanam* = entered, great forest.
 
 Sugreeva is debilitated and enervated by Vali's thwacking till his limbs soaked in
 blood, and he entered the great forest of Rishyamuka as Vali chased him. [4-12-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exhausted (klāntaḥ), his limbs drenched in blood (rudhirasiktāṅgaḥ), and battered by blows (prahārair jarjarīkṛtaḥ), he was pursued in wrath by Vālī (vālinābhidrutaḥ krodhāt) and entered the great forest (mahāvanam).
 </details>
 </details>
 
@@ -1138,6 +1270,12 @@ On seeing Sugreeva's entry into the forest of Rishyamuka, Vali said to him "you 
 let off for now..." and saying so he returned to Kishkindha from there in view of fear from curse
 of Sage Matanga. [4-12-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him enter that forest (tam praviṣṭam vanam dṛṣṭvā), Vālī of mighty strength stopped out of fear of the curse (śāpabhayāt tataḥ) and turned back (nivṛttaḥ), exclaiming, “You are spared (mukto hy asi tvam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1184,6 +1322,12 @@ that, forest, alone, he came.
 Raghava also came to that forest, along with his brother Lakshmana and along with
 Hanuma, where that monkey Sugreeva fled. [4-12-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāghava too, together with his brother [Lakṣmaṇa] (saha bhrātrā) and together with Hanūmān (saha caiva hanūmatā), came to that very forest (tad eva vanam āgacchat) where the Vānara Sugrīva was.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1229,6 +1373,12 @@ piteously, spoke, this.
 
 Seeing the arrival of Rama with Lakshmana, Sugreeva ashamedly turned his eyes down
 to earth and piteously spoke this without eyeing Rama [4-12-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing that Rāma had arrived together with Lakṣmaṇa (sahalakṣmaṇam), Sugrīva, abashed (hrīmān) and gazing down at the earth (vasudhām avalokayan), spoke this piteous word (dīnam uvācedam):
 </details>
 </details>
 
@@ -1297,6 +1447,14 @@ here, would not, have come.
 "You should have truly made it known at that time only, oh, Raghava, that you will
 not kill Vali, then I would not have come here, to Kishkindha. [4-12-27]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** “Having displayed your valor (darśayitvā ca vikramam), having told me `Challenge him!' (āhvayasveti mām uktvā), and having caused me to be battered by my foe (vairiṇā ghātayitvā), what have you done now (kim idānīm tvayā kṛtam)?
+
+**27:** “At that very moment (tām eva velām), O Rāghava, you ought to have told me truly (vaktavyam tvayā tattvataḥ), `I will not slay Vālī' (vālinam na nihanmīti); then I would not have gone from here (tato nāham ito vraje)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1341,6 +1499,12 @@ woefully, this way, while saying; *raaghavaH punaH abraviit* = Raghava, again, s
 
 Rama replied that great-souled Sugreeva who is speaking woefully with pathetic words
 in this way. [4-12-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As great-souled Sugrīva was speaking thus piteously (karuṇam) in a distressed voice (dīnayā vācā), Rāghava replied once more (punar abravīt):
 </details>
 </details>
 
@@ -1388,6 +1552,12 @@ in this way. [4-12-28]
 "Sugreeva, by which reason I have not let-off an arrow such as that of mine, that
 reason may be heard and let the anger be discarded. [4-12-29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hear, O Sugrīva, dear friend (tāta)—and let your wrath be cast aside (krodhaś ca vyapanīyatām)—the reason (kāraṇam) why that arrow of mine was not loosed (na visarjitaḥ) by me!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1427,6 +1597,12 @@ sthaH* = to each other, resemble, you both are there.
 
 "By ornamentation, attire, physicality and movements, you and Vali look-alike.
 [4-12-30]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In ornament (alaṃkāreṇa), in attire (veṣeṇa), in stature (pramāṇena), and in gait (gatena ca), O Sugrīva, both you and Vālī are identical to one another (sadṛśau sthaḥ parasparam).
 </details>
 </details>
 
@@ -1474,6 +1650,12 @@ upalakSaye* = among you, difference, not, spotted.
 "By your voice, bodily glow also thus in your looking, also in bravery and in
 speech, oh monkey, I could not mark any difference. [4-12-31]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In voice (svareṇa), in bodily luster (varcasā caiva), in glance (prekṣitena ca), O Vānara, in valor (vikrameṇa ca), and in battle-cries (vākyaiś ca), I could not discern any distinction between you two (vyaktim vām nopalakṣaye).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1519,6 +1701,12 @@ speech, oh monkey, I could not mark any difference. [4-12-31]
 
 "Thereby, oh, great monkey, I have not released this great speeded and enemy
 annihilating arrow of mine as I was confused in the similarity of your personalities. [4-12-32]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O best of Vānaras (vānarottama), bewildered by your similarity of form (rūpasādṛśyān mohitaḥ), I did not loose (notsṛjāmi) this dreadful arrow of mighty speed (mahāvegam śaram) that destroys foes (śatrunibarhaṇam)—
 </details>
 </details>
 
@@ -1568,6 +1756,12 @@ it will be, isn't it; hence; *iti maya kR^itaH* = thus [ thinking,] by me, not d
 
 "I was ambiguous by your similarities, as such I have not released this ghastly and
 life-taking arrow, otherwise the basic object of ours will be ruined, isn't it. [4-12-33]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—this life-ending, terrible shaft (jīvitāntakaram ghoram), being apprehensive on account of your resemblance (sādṛśyāt tu viśaṅkitaḥ), thinking: `Let there not be a destruction of the very root (mūlaghāto na nau syād dhi) for both of us (dvayor iti) caused by me!'
 </details>
 </details>
 
@@ -1619,6 +1813,12 @@ _________________
 "When my unawareness and fallacy hazardously afflicts none but you in the form of my
 own arrow, oh, brave lord of monkeys, then I will be establishing my own imbecility and naivety,
 isn't it. [4-12-34]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For if you, O hero, had perished (tvayi vīra vipanne hi) through my ignorance and rashness (ajñānāl lāghavān mayā), my folly and my childishness (mauḍhyam ca mama bālyam ca) would have been proclaimed (khyāpitam syāt), O lord of monkeys!
 </details>
 </details>
 
@@ -1672,6 +1872,14 @@ this one, shelter,
 myself and Lakshmana and also thus Seetha with her exquisite glow are all dependent on you, and you
 are our shelterer in this forest. [4-12-35, 36a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**35:** “Indeed, the slaying of one to whom protection has been granted (dattābhayavadho nāma) is a great and monstrous sin (pātakam mahad adbhutam); and I, Lakṣmaṇa, and Sītā of exquisite complexion (varavarṇinī)—
+
+**36:** “—all of us are dependent upon you (tvadadhīnā vayam sarve), and in this forest you are our refuge (śaraṇam bhavān). Therefore fight once more (tasmād yudhyasva bhūyas tvam), and do not doubt me (mā māśaṅkīś ca), O Vānara!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1718,6 +1926,12 @@ see.
 render him ineffective at this moment only with a single arrow of mine, and you can see Vali
 squirming on the ground. [4-12-36, 37],
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Within this very hour (etan muhūrte tu), behold Vālī in battle (āhave) struck down by me with a single arrow (nirastam iṣuṇaikena) and writhing upon the surface of the earth (ceṣṭamānam mahītale)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1763,6 +1977,12 @@ you.
 
 "You have an identification for yourself, oh lord of monkeys, by which you can be
 identified when you are engaged in duel. [4-12-38]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Make a token of recognition (abhijñānam kuruṣva) for yourself (ātmanaḥ), O lord of Vānaras, whereby I may recognize you (yena tvām abhijānīyām) when you have entered into single combat (dvandvayuddham upāgatam).
 </details>
 </details>
 
@@ -1813,6 +2033,12 @@ extracting - picking up; *mahaatmanaH asya sugriivasya* = noble-souled one, his,
 "Lakshmana, pick up this gaja creeper that is beautiful in its appearance and let
 this noble souled Sugreeva be garlanded with that." So said Rama to Lakshmana. [4-12-39]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Lakṣmaṇa, having plucked (utpāṭya) this blooming, auspiciously marked gajapuṣpī creeper (gajapuṣpīm imām phullām śubhalakṣaṇām), place it around the neck (kuru kaṇṭhe 'sya) of this great-souled Sugrīva!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1861,6 +2087,12 @@ vyasarjayat [vi ava sarjayat]* = his [Sugreeva's], around neck, slung it.
 
 Then Lakshmana plucked that gaja creeper with flowers growing at the foot of the
 mountain, and slung it like a garland around the neck of that Sugreeva. [4-12-40] n
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Lakṣmaṇa plucked that flower-laden gajapuṣpī creeper (kusumāyutām gajapuṣpīm tām) growing on the mountain slope (giritaṭe jātām) and draped it around his neck (tasya kaṇṭhe vyasarjayat).
 </details>
 </details>
 
@@ -1911,6 +2143,12 @@ iva* = with herons, train of, like; *shushubhe* = shone forth.
 He that prosperous Sugreeva with that flowery-creeper adorning his neck then shone
 forth like a black rain cloud against a backdrop of rich ochry colour of sunset, and with a train
 of herons adorning that cloud like a garland. [4-12-41]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With that creeper clinging to his neck (latayā kaṇṭhasaktayā), that glorious one shone (sa tayā śuśubhe śrīmān) like a rain-cloud tinged with twilight (sasaṃdhya iva toyadaḥ) encircled by a garland of cranes (mālayeva balākānām).
 </details>
 </details>
 
@@ -1963,6 +2201,12 @@ emboldened by Rama's words, and he again advanced to Kishkindha with Rama, and r
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हन्नॆरडनॆय सर्ग सम्पूर्णवायितु. ॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resplendent in bodily form (vibhrājamāno vapuṣā) and composed by Rāma's words (rāmavākyasamāhitaḥ), he went together with Rāma (jagāma saha rāmeṇa) and reached Kiṣkindhā once more (kiṣkindhām punar āpa saḥ).
 </details>
 </details>
 

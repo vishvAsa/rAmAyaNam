@@ -66,6 +66,14 @@ with excellent ornaments.
 Thereafter at that time Seetha a princess without any blame of excellent limbs shook like a plantain
 tree in wind on seeing Ravana the king of rakshasas endowed with beauty and youth adorned with excellent ornaments.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** At that very moment (tasminn eva tataḥ kāle), the blameless royal princess [beheld him] endowed with beauty and youth (rūpayauvanasampannam) and decked in the finest ornaments (bhūṣaṇottamabhūṣitam);
+
+**2:** Merely upon beholding (dṛṣṭvaiva) Rāvaṇa, lord of rākṣasas, Vaidehī of fair hips (varārohā) trembled violently (prāvepata) like a plantain tree in a high wind (pravāte kadalī yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -107,6 +115,12 @@ color; *aachchhaadya* = covering; *udaram* = stomach; *uurubhyaam* = with thighs
 
 The wide eyed Seetha with excellent color covering stomach with thighs and breasts with hands sat
 down crying.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Covering her belly with her thighs (ūrubhyām udaraṃ chādya) and her breasts with her arms (bāhubhyāṃ ca payodharau), the wide-eyed lady of fair complexion (varavarṇinī) sat weeping (upaviṣṭā rudatī).
 </details>
 </details>
 
@@ -177,6 +191,14 @@ the tree).
 Hanuma saw Seetha sitting down on uncovered land, with a firm resolve, like a branch of a tree
 fallen down on earth being torn from the tree.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Daśagrīva, for his part, beheld Vaidehī guarded by troops of rākṣasīs (rakṣitāṃ rākṣasīgaṇaiḥ), wretched and afflicted with sorrow, like a boat foundering in the ocean (nāvaṃ sannām ivārṇave);
+
+**5:** Seated upon the bare, uncovered ground (asaṃvṛtāyām āsīnāṃ dharaṇyām), strict in her ascetic vows (saṃśitavratām), like a bough severed from a great tree and fallen to the earth (chinnāṃ prapatitāṃ bhūmau śākhām iva vanaspateḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -227,6 +249,12 @@ Hanuma saw Seetha with a stange body with dirt as ornament, who although suited 
 ornaments was without ornaments. Although She was shining like a lotus stem covered with mud, She was not shining
 also.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Her limbs smeared with grime as her only adornment (malamaṇḍanadigdhāṅgīm), worthy of ornaments yet unornamented (maṇḍanārhām amaṇḍanām)—like a lotus-stalk smeared with mud (mṛṇālī paṅkadigdheva), she both shines and shines not.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -265,6 +293,12 @@ manorathaiH* = with desires as chariot; *samkalpahayasamyuktaiH* = tied with tho
 
 Seetha was as though going near to Rama a lion among kings with a famous personality with desires
 as chariot tied with thoughts as horses.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Journeying, as it were (yāntīm iva), to the side (samīpam) of Rāma, lion among kings and knower of the Self (viditātmanaḥ), by the chariots of her longing (manorathaiḥ) yoked with the steeds of her imagination (saṃkalpahayasaṃyuktaiḥ);
 </details>
 </details>
 
@@ -305,6 +339,12 @@ of grief;anuvrataam = following the will; *raamam* = of Rama.
 
 Seetha a pleasant one, was emaciated, was crying, being alone having surrendered to Her thoughts
 and sorrow not seeing the end of grief, following the will of Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wasting away (śuṣyantīm), weeping alone (rudatīm ekām), wholly absorbed in meditation and grief (dhyānaśokaparāyaṇām), beholding no end to her sorrow (duḥkhasyāntam apaśyantīm)—a lovely lady devoted to Rāma (rāmāṃ rāmam anuvratām);
 </details>
 </details>
 
@@ -354,6 +394,12 @@ _________________
 And also Seetha was like a great she-serpant writhing under the spell of an incantation. She was
 like Rohini being fumigated by a smoke colored planet called Ketu.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Writhing (ceṣṭamānām) like the bride of a serpent-lord subdued by a spell (āviṣṭāṃ pannagendravadhūm iva), and scorched with smoke like the constellation Rohiṇī afflicted by the comet-planet Dhūmaketu (dhūpyamānāṃ graheṇeva rohiṇīṃ dhūmaketunā);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -396,6 +442,12 @@ dushhkule* = in a bad family
 
 Being born in a virtuous traditional family with good conduct and character and getting married,
 Seetha appeared as if She was born in a bad family.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Born in a pious family of noble conduct, character, and custom (vṛttaśīle kule jātām ācāravati dhārmike), yet having undergone a new initiation (punaḥ saṃskāram āpannām) as though born in a base family (jātām iva ca duṣkule);
 </details>
 </details>
 
@@ -516,6 +568,18 @@ light; *tamodhvastaam* = destroyed by darkness; *apaagaamiva* = like a river; *u
 Seetha was like a lotus destroyed, like an army with killed warriors, like light destroyed by darkness,
 like vanished river.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Like great fame sunk low (sannām iva mahākīrtim), like faith treated with disrespect (śraddhām iva vimānitām), like wisdom wasted away (prajñām iva parikṣīṇām), like hope frustrated (āśāṃ pratihatām iva);
+
+**12:** Like future prosperity ruined (āyatīm iva vidhvastām), like a royal command disobeyed (ājñāṃ pratihatām iva), like a quarter of the sky ablaze at a time of portent (dīptām iva diśaṃ kāle), like worship desecrated (pūjām apahatām iva);
+
+**13:** Like a full-moon night (paurṇamāsīm iva niśām) with its lunar orb swallowed by darkness [Rāhu] (tamograstendumaṇḍalām), like a blighted lotus pond (padminīm iva vidhvastām), like an army with its heroes slain (hataśūrāṃ camūm iva);
+
+**14:** Like radiance obscured by darkness (prabhām iva tamodhvastām), like a river with its waters dwindled away (upakṣīṇām ivāpagām), like a sacrificial altar desecrated (vedīm iva parāmṛṣṭām), like an extinguished tongue of flame (śāntām agniśikhām iva);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -556,6 +620,12 @@ _________________
 
 Seetha was like an altar desecrated, like a tongue of fire gone out, like a full moon night with
 moon devoured by Rahu.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a lotus pond (padminīm) thrown into turmoil (ākulām iva), with its leaves and lotuses torn up (utkṛṣṭaparṇakamalām) and its birds frightened away (vitrāsitavihaṃgamām), mauled by an elephant's trunk (hastihastaparāmṛṣṭām);
 </details>
 </details>
 
@@ -605,6 +675,12 @@ roughly treated by the trunk of an elephant.
 Seetha was like a lotus pond agitated with torned out leaves and lotuses, being roughly traeated
 by the trunk of an elephant.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Afflicted with grief for her husband (patiśokāturām), like a dried-up river whose waters have been diverted (śuṣkāṃ nadīṃ visrāvitām iva), bereft of supreme bodily lustre (parayā mṛjayā hīnām) like a night in the dark fortnight (kṛṣṇapakṣe niśām iva);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -646,6 +722,12 @@ a river; *shushhkaam* = dried up; *visraavitaam* = (with water) caused to flow o
 
 Grieved for husband, Seetha was like a river which has dried uo with water caused to flow out lacking
 best washing, was like a new moon night.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delicate (sukumārīm), of finely formed limbs (sujātāṅgīm), worthy of a jewel-chambered palace (ratnagarbhagṛhocitām), yet scorched as though by heat like a newly uprooted lotus-stalk (tapyamānām ivoṣṇena mṛṇālīm aciroddhṛtām);
 </details>
 </details>
 
@@ -689,6 +771,12 @@ built limbs; *ratnagarbhagR^ihochitaam* = accustomed to houses full of diamonds;
 
 Seetha was a delicate one with well built limbs, accustomed to houses full of diamonds, being tormented
 by heat, like a lotus fibre uprooted short time back.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like the consort of a lordly elephant (gajarājavadhūm iva) captured (gṛhītām), bound to a post (ālitāṃ stambhe), parted from the leader of her herd (yūthapena vinākṛtām), sighing heavily (niḥśvasantīm), and sorely afflicted with grief (suduḥkhārtām);
 </details>
 </details>
 
@@ -739,6 +827,12 @@ much tormented by grief.
 Seetha was like a she-elephant captured and tied to a pillar, made to be without the leader of
 herd, sighing, very much tormented by grief.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shining effortlessly (śobhamānām ayatnataḥ) with a single long braid (ekayā dīrghayā veṇyā), like the earth (mahīm iva) graced with a dark-blue line of forest trees (nīlayā vanarājyā) at the departure of the rain-clouds (nīradāpāye);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -781,6 +875,12 @@ vanaraajyaa* = with dark groups of trees; *niiradaapaaye* = at the end of rainy 
 With a long single plait, shining without effort, Seetha was like the earth with dark groups of
 trees at the end of rainy season.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wasted away (parikṣīṇām), emaciated (kṛśām), wretched, subsisting on scant nourishment (alpāhārām), and rich in asceticism (tapodhanām) through fasting, grief, anxious meditation, and fear (upavāsena śokena dhyānena ca bhayena ca);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -803,6 +903,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वे दुःखसे आतुर हो अपने कुलदेवतासे हाथ जोड़कर मन-ही-मन यह प्रार्थना-सी कर रही थीं कि श्रीरामचन्द्रजीके हाथसे दशमुख रावणकी पराजय हो ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Afflicted with sorrow and praying with joined palms (āyācamānāṃ prāñjalim) like a deity (devatām iva), through her inner devotion to the chief of the Raghus (bhāvena raghumukhyasya), for the defeat of Daśagrīva (daśagrīvaparābhavam)—
 </details>
 </details>
 
@@ -874,6 +980,12 @@ the defeat of Ravana at the hands of Sri Rama
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि हत्तॊम्भत्तनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa sought to entice (pralobhayāmāsa) unto his own destruction (vadhāya) that blameless Maithilī, who was looking all around (samīkṣamāṇām) and weeping (rudatīm), with fair eyelashes and coppery, wide, white-gleaming eyes (supakṣmatāmrāyataśuklalocanām), supremely devoted to Rāma (anuvratāṃ rāmam atīva).
 </details>
 </details>
 

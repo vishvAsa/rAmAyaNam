@@ -75,6 +75,12 @@ of monkey-leaders fainted. Sugreeva, Nila, Angada and Jambavan could not underst
 
 युद्धभूमियल्लि राम-लक्ष्मणरिब्बरू निश्चेष्टिरागि बिद्दाग वानर सेनापतिगळ सैन्यवु किङ्कर्तव्य मूढवायितु. सुग्रीव, नील, अङ्गद मत्तु जाम्बवन्तरिगू आग एनू तोचलिल्ल.॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When those two [Rāma and Lakṣmaṇa] were thus struck down in the forefront of battle (raṇāgre), the army of the Vānara troop-leaders swooned away (mumoha), and Sugrīva, Nīla, Aṅgada, and Jāmbavān knew not what to do (na cāpi kiṃcit pratipedire te).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -128,6 +134,12 @@ monkeys:
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग ऎल्लरू विषाददल्लि मुळुगिरुवुदन्नु नोडि बुद्धिवन्तरल्लि श्रेष्ठविभीषणनु वानरराजनु आ वीर सैनिकरिगॆ आश्वासनॆयन्नु कॊडुत्ता अनुपम वाणियिन्द नुडिदनु.॥.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding the entire host cast into dejection (viṣaṇṇam), Vibhīṣaṇa, the foremost of the wise (buddhimatāṃ variṣṭhaḥ), spoke to the heroes of the monkey king, consoling them with peerless words (apratimair vacobhiḥ):
 </details>
 </details>
 
@@ -186,6 +198,12 @@ Dasaratha have actually lost their free will and became dejected and have allowe
 knocked down by the missiles of Indrajit. Hence do not be afraid. There is no occasion for
 despondency now."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fear not (mā bhaiṣṭa)! This is no time for despair (nāsty atra viṣādakālaḥ); for the two noble princes lie helpless and dejected only because, upholding the word of the Self-born [Brahmā] (svayaṃbhuvo vākyam athodvahantau), they have let themselves be brought low by Indrajit's networks of missiles.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,6 +259,12 @@ kaalaH* = a time for despondency; *atra* = here.
 strength, was given to Indrajit by Brahma. Honouring it, Rama and Lakshmana the princes fell down
 in battle. This not a time for despondency here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This supreme missile of Brahmā (paramāstram brāhmam), of unfailing might (amoghavīryam), was granted to him by the Self-born Lord; if the two royal princes have fallen in battle while honoring it (tan mānayantāv yudhi), what cause is there for despair at this hour?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -287,6 +311,12 @@ presided over by Brahma and hearing the words of Vibhishana, spoke the following
 
 विभीषणन मातन्नु केळि बुद्धिवन्त मारुतियु ब्रह्मास्त्रवन्नु सम्मानिसुत्ता अवनल्लि हीगॆ हेळिदनु -॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the wise son of the Wind-god (mārutiḥ), Hanūmān, having likewise honored the missile of Brahmā (brāhmam astraṃ mānayitvā) and heard Vibhīṣaṇa's words, spoke thus:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -320,6 +350,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षस राजने! ई अस्त्रदिन्द गायगॊण्डु बदुकिरुव वेगशालि वानर सैनिकरिगॆ नावु होगि आश्वासनॆ यन्नु नीडबेकु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In this missile-smitten army (asminn astrahate sainye) of swift Vānaras, let the two of us console (āśvāsayāvahe) whoever still sustains his life-breaths (yo yo dhārayate prāṇān)!”
 </details>
 </details>
 
@@ -360,6 +396,12 @@ their hands; *vicheratuH* = roamed about; *raNashiirShe* = in the battle-front.
 
 Both those valiant ones, Hanuma and Vibhishana, together at that time of the night,
 roamed about in the battle-front, with torches in their hands.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At that time in the night (tadā rātrau), those two heroes—Hanūmān and the foremost of Rākṣasas [Vibhīṣaṇa]—roamed together over the forefront of the battlefield (raṇaśīrṣe viceratuḥ) with torches in their hands (ulkāhastau).
 </details>
 </details>
 
@@ -423,6 +465,14 @@ mountain-sized monkeys fallen with heir tails, arms, thighs, feet, fingers and h
 fractured with blood oozing from their limbs and urine flowing out. The earth was also covered with
 flaming weapons fallen around.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** With tails, hands, thighs, feet, fingers, and necks mangled (bhinnalāṅgūlahastorupādāṅguliśirodharaiḥ), and with limbs streaming blood (sravadbhiḥ kṣatajam) and discharging [urine] on every side—
+
+**9:** —they beheld the earth covered over with fallen, mountain-like Vānaras (patitaiḥ parvatākārair vānaraiḥ) and strewn with fallen, blazing weapons (śastraiś ca patitair dīptaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -484,6 +534,14 @@ Vibhishana and Hanuma saw Sugreeva, Angada, Nila, Sharabha, Gandhamadana, Gavaks
 Sushena, Vegadarshi, Mainda, Nala, Jyotimukha and a monkey called Dvivida, who were struck down on
 the battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** Sugrīva, Aṅgada, Nīla, Śarabha, Gandhamādana, Jāmbavān, Suṣeṇa, and Vegadarśin as well—
+
+**11:** —Mainda, Nala, Jyotirmukha, and the Vānara Dvivida: Vibhīṣaṇa and Hanūmān beheld them struck down in battle (dadṛśāte hatān raṇe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +588,12 @@ Brahma, the self-born creator, in the fifth and last period* of the day.
 six Ghatikas (or two hours and twenty four minutes) each. They were known by the names of PraataH
 (early morning), Sangava (forenoon), Madhyaahva (midday), Aparaahna (afternoon) and Saayaahna
 (evening).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sixty-seven crores (saptaṣaṣṭiḥ koṭyaḥ) of swift Vānaras had been struck down in the fifth and final division of the day (ahnaḥ pañcamaśeṣeṇa) by the [missile] beloved of the Self-born [Brahmā] (vallabhena svayaṃbhuvaḥ).
 </details>
 </details>
 
@@ -580,6 +644,12 @@ wounded by the arrows; *saagaraughanibham* = and appearing like a tide of an oce
 Hanuma, along with Vibhishana, began to search for Jambavan, while looking at the
 terrific army (wounded by the arrows) which appeared like the tide of an ocean.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that dreadful army, vast as the billows of the ocean (sāgaraughanibham), tormented by arrows (bāṇārditam), Hanūmān together with Vibhīṣaṇa searched specifically for Jāmbavān—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -628,6 +698,14 @@ Looking at Jambavan, the son of Brahma, who was naturally bequeathed with old ag
 an elderly person, with his body conspicuous of hundreds of arrows and a valiant person looking
 like an extinguishing fire, Vibhishana approached him and spoke as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** —who was bowed with natural old age (svabhāvajarayā yuktam), ancient (vṛddham), bristling with hundreds of arrows (śaraśataiś citam), that heroic son of Prajāpati [Brahmā] who resembled a dying fire (śāmyantam iva pāvakam).
+
+**15:** Seeing him and approaching close (samabhisaṃkramya), the scion of Pulastya [Vibhīṣaṇa] spoke these words: “O noble sir (ārya), I trust your life-breaths have not been destroyed by these sharp arrows (kaccin na prāṇā dhvaṃsitās tava)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -665,6 +743,12 @@ vachaH* = the words of Vibhishana; *jaambavaan* = Jambavan; *R^ikSha puNgavaH* =
 the foremost among bears; *abraviit* = spoke; *idam vachanam* = these words;
 *abhyudgivan* = uttering; *vaakyam* = the words; *kR^ichchhraat* = with
 difficulty.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Vibhīṣaṇa's words, Jāmbavān, the bull among bears (ṛkṣapuṅgavaḥ), uttering his speech with great difficulty (kṛcchrād abhyudgiran vākyam), spoke these words:
 </details>
 </details>
 
@@ -712,6 +796,12 @@ with a great prowess!; *abhilakShaye* = I am recognizing; *tvaa* = you;
 
 "O Vibhishana, the leader of demons, with a great prowess! I am able to recognize
 you by your voice alone. Pierced with sharp arrows, I am not able to see you with my eyes."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O lord of the Nairṛtas of mighty valor (nairṛtendra mahāvīrya), I recognize you by your voice (svareṇa tvābhilakṣaye); pierced in every limb by sharp arrows, I cannot see you with my eyes (na tvāṃ paśyāmi cakṣuṣā).
 </details>
 </details>
 
@@ -764,6 +854,12 @@ whom; *aN^janaa* = Anjana (his mother); *maatarishraacha* = and the wind-god;
 whom, Anjana (his mother) and the wind-god are his blessed parents survive, holding his life any
 where nearby?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O faithful one (suvrata), does Hanūmān, the foremost of Vānaras—through whom Añjanā is blessed with a noble son (añjanā suprajā yena) and Mātariśvā [the Wind-god] as well—still sustain his life-breaths (prāṇān dhārayate kvacit)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -805,6 +901,12 @@ you ask; *maarutim* = about Hanuma; *atikramya* = leaving unnoticed;
 Hearing the words of Jambavana, Vibhishana spoke the following words, "why do you
 enquire about Hanuman, passing over the venerable sons of Dasaratha?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Jāmbavān's words, Vibhīṣaṇa spoke thus: “Passing over the two noble princes (āryaputrāv atikramya), why do you ask after Māruti (kasmāt pṛcchasi mārutim)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -845,6 +947,12 @@ even in Rama.
 
 "O venerable one! The exceptional affection, you are showing towards Hanuma, is not
 being shown towards Sugreeva or Angada or even Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither toward King Sugrīva, nor toward Aṅgada, nor even toward Rāghava, O noble sir (ārya), have you shown such supreme affection (snehaḥ paraḥ) as toward the son of the Wind-god (vāyusute)!”
 </details>
 </details>
 
@@ -893,6 +1001,12 @@ Hanuma.
 Hearing the words of Vibhishana, Jambavan replied as follows: "O the foremost among
 demons! Listen to me, why I am enquiring about Hanuma."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Vibhīṣaṇa's words, Jāmbavān spoke these words: “Hear, O tiger among Nairṛtas (nairṛtaśārdūla), why I ask after Māruti:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -932,6 +1046,12 @@ is unhurt; *hanuumati* = If Hanuma; *ujghitapraaNe* = has given up his life;
 
 "If that brave Hanuma is surviving, the whole army even if killed, is unhurt. On the
 other hand, if Hanuma has given up is life, we are all dead, even though living."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While this hero lives (asmiñ jīvati vīre tu), our army, even though struck down, is not slain (hatam apy ahataṃ balam); if Hanūmān has given up his life-breaths (hanūmaty ujjhitaprāṇe), even though living we are dead (jīvanto 'pi mṛtā vayam)!
 </details>
 </details>
 
@@ -982,6 +1102,12 @@ bhavet* = there is a hope to live (for us).
 "O dear child! If Hanuma, who is equal to the wind and the fire in prowess,
 survives; then there is a hope for all of us to survive.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If Māruti, who equals the wind in speed (mārutapratimaḥ) and Vaiśvānara [Agni] in valor (vaiśvānarasamo vīrye), still lives, O dear friend (tāta), then there remains hope of life (jīvitāśā tato bhavet).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1024,6 +1150,12 @@ by grasping the feet; *jaambavataH* = of Jambavan; *vinayaat* = with modesty.
 
 Thereafter, Hanuma the son of wind-god approaching the elderly Jambavan, offered his
 salutation, by grasping the feet of Jambavan with modesty.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, approaching the aged [bear] and clasping Jāmbavān's feet (gṛhya jāmbavataḥ pādau), Hanūmān, the son of the Wind-god, saluted him with humility (vinayenābhyavādayat).
 </details>
 </details>
 
@@ -1071,6 +1203,12 @@ salutation, by grasping the feet of Jambavan with modesty.
 Hearing the voice of Hanuma, Jambavan, the foremost among monkeys, with perturbed
 senses, considered himself as though born again.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Hanūmān's greeting, the bull among bears (ṛkṣapuṅgavaḥ), though his senses were racked with pain (vivyathitendriyaḥ), deemed himself as if reborn (punarjātam ivātmānam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1115,6 +1253,12 @@ Jambavan; *mahaatejaaH* = of great splendour; *abraviit* = spoke;
 Thereafter, that Jambavan of great splendour spoke to Hanuma as follows: "Come on, O
 foremost of monkeys! You ought to protect the lives of monkeys."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that Jāmbavān of mighty splendor spoke to Hanūmān: “Come, O tiger among monkeys (hariśārdūla)! You ought to save the Vānaras (vānarāṃs trātum arhasi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1157,6 +1301,12 @@ kaalaH* = is the time to show your prowess; *na pashyaami* = I do not see;
 other person. This is the appropriate time to show your prowess. I do not see any other person to
 do it."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“No other is sufficient in valor (nānyo vikramaparyāptaḥ), and you are their supreme friend (paramaḥ sakhā); this is the hour for your prowess (tvatparākramakālo 'yam)—I see no other at all.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1197,6 +1347,12 @@ arrow-wounds.
 "Cheer up the martial warriors of both monkeys and bears. Heal Rama and Lakshmana
 from their arrow-wounds."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Gladden the hosts of the bear and Vānara heroes (ṛkṣavānaravīrāṇām anīkāni), and rid of their arrow-shafts (viśalyau kuru) these two prostrated princes, Rāma and Lakṣmaṇa!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1236,6 +1392,12 @@ of mountains; *gatvaa* = by traveling; *uparyupari* = higher and higher over;
 
 "O Hanuma! You ought to go to Himalaya, the foremost of mountains, by traveling
 higher and higher over the large ocean."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Traversing the supreme sky-path (paramam adhvānam) high above the ocean (upary upari sāgaram), O Hanūmān, you must go to Himavān, the foremost of mountains (nagaśreṣṭham).
 </details>
 </details>
 
@@ -1284,6 +1446,12 @@ powerful.
 "O annihilator of enemies! Thereafter, you will see there the Mount Rishabha, the
 excellent mountain and the very much powerful peak of Kailasa, with a golden hue."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, O destroyer of foes (ariniṣūdana), you shall behold the golden, lofty Ṛṣabha (kāñcanam atyuccam ṛṣabham), the best of mountains, and the peak of Kailāsa (kailāsaśikharaṃ cātra) as well.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1330,6 +1498,12 @@ herbs.
 
 "O valiant Hanuma! In the midst of these two peaks, you will see a blazing and
 unequally brilliant herbal mountain, containing all kinds of herbs."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Between those two peaks (tayoḥ śikharayor madhye), O hero, you shall behold the blazing Herb Mountain (oṣadhiparvatam), of peerless radiance (atulaprabham) and endowed with every healing plant (sarvauṣadhiyutam).
 </details>
 </details>
 
@@ -1380,6 +1554,12 @@ quarters.
 
 "O foremost of monkeys! Sprouted on the head of that mountain, are four blazing
 herbs. You can see them, illuminating the ten quarters."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Growing upon its summit (tasya mūrdhni sambhavāḥ), O tiger among Vānaras, you shall behold four luminous herbs (catasro 'ṣadhayo dīptāḥ) illuminating the ten directions (dīpayantīr diśo daśa):
 </details>
 </details>
 
@@ -1434,6 +1614,12 @@ Vishalyakarani (capable of extracting weapons and healing all wounds inflicted b
 Suvarnakarani (restoring the body to its original complexion) and Sandhani, the great herb (capable
 of joining severed limbs or fractured bone)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Namely, the Mṛtasañjīvanī [reviver of the dead], the Viśalyakaraṇī [extractor of arrows], the Suvarṇakaraṇī [restorer of fair complexion], and the great herb Saṃdhānī [knitter of severed limbs].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1480,6 +1666,12 @@ by injecting lives into them.
 
 "O Hanuma! Bring all those herbs quickly. O son of wind-god! Bring succour to the
 monkeys, by injecting lives into them."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Taking all of those, O Hanūmān, you must return swiftly (kṣipram āgantum arhasi); comfort the monkeys by uniting them with their life-breaths (prāṇair yojya), O son of the Wind-god (gandhavahātmaja)!”
 </details>
 </details>
 
@@ -1528,6 +1720,12 @@ wind.
 Hearing the words of Jambavan, Hanuma the son of wind-god was infused with animated
 strength, as the ocean gets animated with the force of the wind.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Jāmbavān's words, Hanūmān, the son of the Wind-god, was filled with surges of strength (āpūryata baloddharṣaiḥ), like the ocean swelling with the blasts of the wind (vāyuvegair ivārṇavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1573,6 +1771,12 @@ appeared; *dvitiiyaH parvataH iva* = like a second mountain.
 
 Standing on the summit of Trikuta mountain and pressing the foremost of mountains
 (with his feet), that valiant Hanuma appeared like a second mountain.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing upon the crest of the mountain slope (parvatataṭāgrasthaḥ) and pressing down that best of mountains (pīḍayan parvatottamam), the heroic Hanūmān appeared like a second mountain (dvitīya iva parvataḥ).
 </details>
 </details>
 
@@ -1623,6 +1827,12 @@ _________________
 Then, increasingly pressed and bent by Hanuma's feet, that mountain was not able to
 bear its weight and sank.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shattered by the monkey's feet (haripādavinirbhagnaḥ), that mountain sank down (niṣasāda); sorely pressed (bhṛśanipīḍitaḥ), it could not bear its own bulk (na śaśāka tadātmānaṃ voḍhum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1664,6 +1874,12 @@ broken.
 The trees on that mountain, pressed by Hanuma, fell to the ground and caught fire
 due to rapidity of Hanuma. Its peaks also got broken.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Its trees crashed to the ground (tasya petur nagā bhūmau) and burst into flame from the monkey's impetuous force (harivegāc ca jajvaluḥ); and the peaks of that mountain, pressed down by Hanūmān, were scattered about (vyakīryanta).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1704,6 +1920,12 @@ broken.
 
 The monkeys were unable to stand on that excellent mountain, which started to reel,
 while being pressed severely by Hanuma, as the trees standing on it and the rocks got broken.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While that foremost of mountains was being sorely pressed (tasmin sampīḍyamāne tu) and its trees and rocky plateaus were being shattered (bhagnadrumaśilātale), the Vānaras could not keep their footing on the reeling mountain (ghūrṇamāne nagottame).
 </details>
 </details>
 
@@ -1751,6 +1973,12 @@ appeared; *pranR^itteva* = as though dancing; *raatrau* = at night.
 Confounded with panic, the City of Lanka, whose principal gates were broken, whose
 houses and town-gates were shattered, appeared as though dancing at night.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With its great gates swaying (ghūrṇitamahādvārā) and its mansions and gate-towers shattered (prabhagnagṛhagopurā), terror-stricken Laṅkā seemed to dance in the night (pranṛttevābhavat tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1797,6 +2025,12 @@ shake.
 Pressing hard the mountain, Hanuma equal to a mountain, caused the earth along with
 the ocean to shake.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling a mountain himself (pṛthivīdharasaṃkāśaḥ), the son of the Wind-god pressed down that mountain (nipīḍya pṛthivīdharam) and shook the earth together with its oceans (pṛthivīṃ kṣobhayām āsa sārṇavām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1821,6 +2055,12 @@ the ocean to shake.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर अल्लिन्द मुन्दरिदु अवनु मेरु मन्दराचलदन्तॆ ऎत्तरवाद अनेक जलपातगळिन्द कूडिद्द मलया चलवन्नु हत्तिदनु.॥42॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From there the monkey then ascended Mount Malaya (āruroha tadā tasmād dharir malayaparvatam), which resembled Meru and Mandara and abounded in manifold mountain streams (nānāprasravaṇākulam)—
 </details>
 </details>
 
@@ -1847,6 +2087,12 @@ the ocean to shake.
 
 अल्लि बगॆ बगॆय वृक्षलतॆगळु हब्बिद्दवु. कमल कुमुदगळु अरळिद्दवु. अरवत्तु योजन ऎत्तरवाद आ पर्वतवन्नु देवतॆगळु गन्धर्वरु सेविसुत्तिद्दरु.॥43॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—which was overgrown with diverse trees and creepers (nānādrumalatākīrṇam), bright with blooming red and blue lotuses (vikāsikamalotpalam), frequented by gods and Gandharvas, and sixty yojanas in height (ṣaṣṭiyojanam ucchritam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1871,6 +2117,12 @@ the ocean to shake.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विद्याधररु, ऋषि-मुनि, अप्सरॆयरु अल्लि वासिसुत्तिद्दरु. अनेक रीतिय मृगपक्षिगळु ऎल्लॆडॆ व्यापिसिकॊण्डिद्दवु. अनेक कन्दरगळिन्द आ पर्वत शोभिसुत्तित्तु.॥44॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—frequented by Vidyādharas, hosts of sages, and Apsarases (apsarobhir niṣevitam), teeming with herds of diverse beasts, and graced with many caverns (bahukandaraśobhitam).
 </details>
 </details>
 
@@ -1926,6 +2178,12 @@ Yojanas (four hundred eighty miles), frequented by Vidyodharas, a number of sage
 nymphs, filled with various kinds of animal-troupes and illuminated by many caves, Hanuma grew his
 body, appearing like a cloud, bewildering Yakshas, Gandharvas and Kinnaras.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Throwing all the Yakṣas, Gandharvas, and Kinnaras there into commotion (sarvān ākulayaṃs tatra), Hanūmān, the son of the Wind-god, grew in bulk like a cloud (meghasaṃkāśo vavṛdhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1976,6 +2234,12 @@ frightening; *rajaniicharaan* = the demon; (Hanuma); *nanaada* = roared;
 Pressing the mountain hard with his feet, opening his terrific mouth which shone
 like a submarine fire and frightening the demons, Hanuma roared loudly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pressing down the mountain with his two feet (padbhyāṃ tu śailam āpīḍya) and opening wide his mouth like the submarine mare-fire (vaḍavāmukhavan mukham vivṛtya), he roared fiercely at the top of his voice (ugraṃ nanādoccaiḥ), terrifying the night-stalkers (trāsayan rajanīcarān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2021,6 +2285,12 @@ of demons; *laN^kasthaaH* = residing in Lanka; *na shekuH* = were not able;
 
 Hearing his loud noise, roaring clamorously, the foremost of demons residing in the
 City of Lanka, were not able to stir anywhere.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the peerless roar of him who was roaring so mightily (tasya nānadyamānasya), the tigers among Rākṣasas stationed in Laṅkā (laṅkāsthā rākṣasavyāghrāḥ) could not stir anywhere (na śekuḥ spandituṃ kvacit).
 </details>
 </details>
 
@@ -2071,6 +2341,12 @@ of Rama.
 
 Hanuma of terrific prowess, annihilator of his enemies, after offering salutation to
 the ocean, made up his mind to embark on a prime act for the sake of Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed in homage to the Ocean (namaskṛtvā samudrāya), Māruti of dreadful prowess, the scorcher of foes (paraṃtapaḥ), resolved upon that supreme deed for Rāghava's sake (rāghavārthe paraṃ karma samīhata).
 </details>
 </details>
 
@@ -2132,6 +2408,12 @@ Raising his tail which resembled on serpent, bending his back, contracting his e
 and opening his month which shone like a terrific submarines-fire, Hanuma jumped into the sky, with
 a head long speed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raising his serpent-like tail (puccham udyamya bhujaṅgakalpam), arching his back (vinamya pṛṣṭham), contracting his ears (śravaṇe nikucya), and opening wide his mouth like the submarine mare-fire, that hero of fierce velocity sprang into the sky (āpupluve vyomni).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2192,6 +2474,12 @@ By his velocity, he carried away a multitude of trees, mountains and some ordina
 monkeys. Driven up and away by the momentum generated from his arms and thighs, they fell down in
 water when their speed diminished.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By his impetuous force (tarasā) he swept along clumps of trees (vṛkṣakhaṇḍān), crags, boulders, and wild monkeys (prākṛtavānarāṃś ca); lifted and propelled by the blast of his arms and thighs (bāhūruvegodgatasampraṇunnāḥ), they fell into the sea once their momentum was spent (kṣīṇavegāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2247,6 +2535,12 @@ Stretching his arms, looking like coils of serpents, that Hanuma vying with the
 prowess of hostile Garuda the eagle, headed towards the excellent mountain of Himalayas, with gush
 as though he was drawing away the four quarters.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stretching forth his two arms that resembled the coils of a great serpent (uragabhogakalpau bhujau), the son of the Wind-god, matching the foe of serpents [Garuḍa] in valor (bhujaṃgārinikāśavīryaḥ), sped toward the mountain, the foremost king of mountains (śailaṃ nagarājam agryam), as if drawing the directions toward himself (diśaḥ prakarṣann iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2300,6 +2594,12 @@ Hanuma; *jagaama* = speeded up sahasaa = quickly; *chakram yathaa* = like the di
 Beholding the sea, whose waves along with its water were made to agitate and all
 whose creatures were caused to whirl round, Hanuma quickly speeded up, like the discuss loosed by
 the fingers of Lord Vishnu.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing down upon the ocean with its garlands of whirling waves (ghūrṇitavīcimālam) and all its creatures spun around by its waters (tadambhasā bhrāmitasarvasattvam), he sped on swiftly like the discus loosed from the tip of Viṣṇu's hand (cakraṃ yathā viṣṇukarāgramuktam).
 </details>
 </details>
 
@@ -2356,6 +2656,12 @@ Gazing at the hills, flocks of birds, lakes, rivers, pools and excellent towns f
 of people, that Hanuma with a speed equal to that of the wind-god his father, shot forth towards
 Himalayas.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding mountains, flocks of birds, lakes, rivers, pools, noble cities, and flourishing lands (sphītāñ janāṃs tān api), he sped on swiftly, matching his father [Vāyu] in velocity (pitṛtulyavegaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2398,6 +2704,12 @@ taking recourse; *aadityapatham* = to the orbit of the sun.
 
 That valiant Hanuma, with a prowess equal to that of his father, whose fatigue was
 gone, swiftly rushed, taking recourse to the orbit of the sun.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Betaking himself to the path of the sun (ādityapatham āśritya), that tireless hero Hanūmān (sa gataśramaḥ), equal to his father in prowess (pitus tulyaparākramaḥ), sped swiftly on.
 </details>
 </details>
 
@@ -2445,6 +2757,12 @@ of monkeys; *jagaama* = hastened towards Himalayas.
 With a great speed of wind, reverberating the four quarters with sound, Hanuma the
 foremost of monkeys, hastened towards Himalayas.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Endowed with mighty speed and the velocity of the wind (vātaraṃhasā), Māruti, that tiger among monkeys, sped on, making the directions resound with his roar (diśaḥ śabdena nādayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2490,6 +2808,12 @@ monkey; *bhiima vikramaH* = with a terrific stride; *sahasaa* = suddenly;
 
 Remembering the words of Jambavan, Hanuma the great monkey with a terrific stride,
 suddenly saw Mount Himalaya too.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Remembering Jāmbavān's words (smarañ jāmbavato vākyam), that great monkey Māruti of dreadful prowess suddenly beheld Himavān (dadarśa sahasā cāpi himavantam).
 </details>
 </details>
 
@@ -2542,6 +2866,12 @@ kinds of caves; mountain-streams; *chaarudarshanaiH shikharaiH* = and summits;
 Hanuma went to Mount Himalaya, the foremost of mountains, embellished with various
 kinds of cascades, many kinds of caves, mountain-streams and summits resembling an assemblage of
 white clouds as also many kinds of trees.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He reached that foremost of mountains (agamat parvatottamam), which was furnished with manifold cascades (nānāprasravaṇopetam), filled with many caverns and waterfalls, graced with lovely peaks resembling masses of white clouds (śvetābhracayasaṃkāśaiḥ śikharaiḥ), and adorned with diverse trees.
 </details>
 </details>
 
@@ -2596,6 +2926,12 @@ by a multitude of divine sages.
 Having approached that great mountain having excellent overbearing summits, he saw
 great holy hermitages, inhabited by a multitude of divine sages.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached that great king of mountains with its towering, supreme golden peaks (atipravṛddhottamahemaśṛṅgam), he beheld sacred, great hermitages (puṇyāni mahāśramāṇi) frequented by the foremost hosts of gods and sages (surarṣisaṅghottamasevitāni).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2645,6 +2981,12 @@ He saw the abode of Brahma the lord of creation, Kailasa the abode of Shiva the 
 of dissolution, the abode of Indra the lord of celestials, the arrow-discharging place of Rudra,
 the worshipping place of Hayagriva, the horse-faced form of Vishnu, the shining place at which
 Brahma's head fell down, the sun-god and Kimkaras.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He beheld Brahmā's treasury (brahmakośam), the silver abode [Kailāsa] (rajatālayam), Śakra's abode, the site where Rudra loosed his arrow (rudraśarapramokṣam), the shrine of Hayānana [Hayagrīva], the blazing head of Brahmā (brahmaśiraś ca dīptam), and the attendants of Vaivasvata [Yama].
 </details>
 </details>
 
@@ -2718,6 +3060,12 @@ the nethermost subterranean region).
 "Let us restore to confidence whosoever is in this army of energetic monkeys, after
 having been struck by the missile."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He beheld the abode of Fire (vahnyālayam), the sun-bright abode of Vaiśravaṇa [Kubera] (vaiśravaṇālayaṃ ca sūryaprabham), the binding-place of the Sun (sūryanibandhanaṃ ca), the abode of Brahmā, the bow of Śaṅkara (śaṅkarakārmukaṃ ca), and the navel of the Earth (nābhiṃ ca vasundharāyāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2780,6 +3128,12 @@ is believed to have practiced austerities and abstract meditation) and Mount Ris
 golden mountain, which was highly illumined by the flaming herbs and the lord of mountains on which
 all types of herbs grew.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He beheld foremost Kailāsa, the rock of Himavān (himavacchilāṃ ca), that foremost golden mountain Vṛṣa [Ṛṣabha] (taṃ vai vṛṣaṃ kāñcanaśailam agryam), and the lord of all herb-mountains (sarvauṣadhiparvatendram), blazing brightly with all its luminous herbs (pradīptasarvauṣadhisampradīptam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2835,6 +3189,12 @@ Seeing that mountain shining with a heap of fire, Hanuma the son of wind-god, wh
 the envoy of Indra, was surprised to see that great mountain of herbs and then made a search for
 the herbs.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that [mountain] blazing like a mass of fire (analarāśidīptam), the son of Vāsava's messenger [Vāyu] (vāsavadūtasūnuḥ) marveled (visismiye); and leaping onto that lord of herb-mountains (āplutya), he searched there for the herbs (oṣadhīnāṃ vicayaṃ cakāra).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2874,6 +3234,12 @@ possessing heavenly herbs.
 
 That Hanuma, the great monkey, having crossed thousands of yojanas, walked around
 that mountain, searching for the heavenly herbs.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having traversed thousands of yojanas (yojanasahasrāṇi samatītya), that great monkey, the son of the Wind-god, ranged over the mountain that bore divine herbs (divyauṣadhidharaṃ śailam).
 </details>
 </details>
 
@@ -2921,6 +3287,12 @@ disappearance.
 
 Knowing then that somebody was coming in search of them, all the distinguished herbs
 on that mountain disappeared from Hanuma's view.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then all the great herbs (mahauṣadhyaḥ sarvāḥ) upon that best of mountains, perceiving that a seeker had come (vijñāyārthinam āyāntam), vanished from sight (jagmur adarśanam).
 </details>
 </details>
 
@@ -2982,6 +3354,12 @@ In not seeing them thus, that great souled Hanuma was enraged. He made a loud no
 in anger unable to bear it, Hanuma with his eyes as red as the fire, spoke the following words to
 the prince of mountains.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not seeing them (tā apaśyan), the great-souled Hanūmān grew wrathful (cukopa) and roared mightily in anger; brooking it not (amṛṣyamāṇaḥ), with eyes blazing like fire (agnisamānacakṣuḥ), he spoke these words to that lord of mountains:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3028,6 +3406,12 @@ pieces; *adya* = today.
 "O prince of mountains! Is it quite sure that you have not shown any compassion for
 Rama? If it is so, overcome by the strength of my arms; find yourself shattered to pieces
 today."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What is this firm resolve of yours (kim etad evaṃ suviniścitaṃ te), that you show no compassion toward Rāghava (yad rāghave nāsi kṛtānukampaḥ)? Overwhelmed today by the might of my arms (madbāhubalābhibhūtaḥ), O lord of mountains, behold yourself shattered into fragments (vikīrṇam ātmānam)!”
 </details>
 </details>
 
@@ -3084,6 +3468,12 @@ Fiercely seizing hold of the top of that mountain, furnished with thousands of
 minerals, with its trees, elephants and gold, with the projections of mountain shattered and the
 crest of its plateau set on fire, at once sprang up with speed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seizing with impetuous force that mountain's peak (tasya śṛṅgam)—together with its trees and elephants (sanagaṃ sanāgam), its gold, and its thousand mineral ores (dhātusahasrajuṣṭam), its crags scattered and its summit-plateaus ablaze (jvalitāgrasānum)—he suddenly wrenched it up (sahasā unmamātha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3138,6 +3528,12 @@ sprang up; *kham* = into the sky; *jagaama vegaat* = and proceeded speedily;
 Having uprooted that mountain, frightening the worlds together with the leaders of
 celestials and demons inhabiting them and being praised by many aerial beings, Hanuma sprang up
 into the sky and proceeded expeditiously with the terrible speed of Garuda the eagle.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having uprooted it (sa taṃ samutpāṭya), he sprang into the sky (kham utpapāta), terrifying the worlds together with the lords of the gods and Asuras (sasurāsurendrān); and being praised by countless sky-farers (saṃstūyamānaḥ khacarair anekaiḥ), he sped on swiftly with the fierce velocity of Garuḍa (garuḍogravegaḥ).
 </details>
 </details>
 
@@ -3194,6 +3590,12 @@ Grasping that mountain-peak, radiant as the sun, that Hanuma who resembled the s
 having reached the orbit of the sun, shone as a second sun (as sun's image) in the vicinity of the
 sun.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having betaken himself to the path of the sun (bhāskarādhvānam anuprapannaḥ) while grasping that sun-bright peak (taṃ bhāskarābhaṃ śikharaṃ pragṛhya), he—resembling the sun himself (bhāskarasaṃnikāśaḥ)—shone near the sun like a second sun (raveḥ samīpe pratibhāskarābhaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3239,6 +3641,12 @@ who resembled mountain himself; *raraaja* = appeared; *bhR^isham* = mostly;
 In the sky, with that mountain in his hand, that Hanuma the offspring of the
 wind-god, who resembled a mountain himself, appeared mostly like Vishnu with his flaming discuss
 with its thousand edges holding his hand.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With that mountain, the mountain-like son of the Wind-god (śailopamo gandhavahātmajas tu) shone resplendently in the sky like Viṣṇu with his thousand-edged, flame-wreathed discus (sahasradhāreṇa sapāvakena cakreṇa) poised in his hand (arpitena).
 </details>
 </details>
 
@@ -3287,6 +3695,12 @@ Then, seeing Hanuma, the monkeys made a noise. Seeing them, Hanuma in turn roare
 delight. Hearing their awfully excessive noises the inhabitants of Lanka roared still more
 terribly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him then, the Vānaras raised a roar (vineduḥ), and beholding them he too roared with joy (mudā nanāda); hearing their mighty uproar (teṣāṃ samutkṛṣṭaravaṃ niśamya), the dwellers of Laṅkā uttered an even more dreadful cry (bhīmataraṃ vineduḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3333,6 +3747,12 @@ embraced; *vibhiiShaNam* = Vibhishana.
 Thereupon, the great souled Hanuma descended on that prince of mountains (Trikuta)
 in the midst of that army of monkeys. Having offered salutation to the illustrious monkeys there
 with his head bent low, he then embraced Vibhishana
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that great-souled hero alighted upon that foremost of mountains [Trikūṭa] in the midst of the Vānara army (vānarasainyamadhye); and bowing his head to the foremost of the monkeys (haryuttamebhyaḥ śirasābhivādya), he embraced Vibhīṣaṇa there (vibhīṣaṇaṃ tatra ca sasvaje saḥ).
 </details>
 </details>
 
@@ -3414,6 +3834,14 @@ By the fragrance of those most powerful herbs, all those monkey-warriors who wer
 earlier dead were healed momentarily of their wounds, relieved of their pain, even as those who are
 asleep fully get up at the close of night.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**73:** Inhaling that fragrance of the great herbs (taṃ gandham āghrāya mahauṣadhīnām), those two royal princes among men [Rāma and Lakṣmaṇa] were freed of their arrow-shafts there and then (babhūvatus tatra tadā viśalyau), and the other foremost monkey heroes rose up (uttasthur anye ca haripravīrāḥ).
+
+**74:** Through the fragrance of those supreme herbs (gandhena tāsāṃ pravarauṣadhīnām), all the foremost monkey heroes—and those who had been slain (hatāś ca ye syuḥ)—became in an instant freed of arrows and healed of pain (viśalyā virujāḥ kṣaṇena), awakening like sleepers at the close of night (suptā niśānteṣv iva samprabuddhāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3470,6 +3898,14 @@ From the day the monkeys and demons began to fight in Lanka, from that day onwar
 under the orders of Ravana, all those demons, who were being killed by the foremost of monkeys were
 being thrown away into the sea as and when they were killed, merely or the sake of honour (so that
 their number may not be known to the monkeys).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**75:** From the very day when the monkeys and Rākṣasas began fighting in Laṅkā (yadāprabhṛti laṅkāyāṃ yudhyante harirākṣasāḥ), from that day onward, for the sake of pride (mānārtham) and by Rāvaṇa's command (ājñayā rāvaṇasya ca)—
+
+**76:** —whichever Rākṣasas were slain there in battle by the elephant-like monkeys (kapikuñjaraiḥ) were, each as he fell dead (hatā hatās tu), cast without exception into the ocean (kṣipyante sarva eva tu sāgare).
 </details>
 </details>
 
@@ -3533,6 +3969,12 @@ herbs quickly back to the mountains of Himalayas and again joined Rama.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎप्पत्तनाल्कनॆय सर्ग पूर्णवायितु.॥74॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that monkey of fierce velocity (udagravegaḥ), the son of the Wind-god, swiftly carried that Herb Mountain back to Himavān (nināya vegād dhimavantam eva), and once again reunited with Rāma (punaś ca rāmeṇa samājagāma).
 </details>
 </details>
 

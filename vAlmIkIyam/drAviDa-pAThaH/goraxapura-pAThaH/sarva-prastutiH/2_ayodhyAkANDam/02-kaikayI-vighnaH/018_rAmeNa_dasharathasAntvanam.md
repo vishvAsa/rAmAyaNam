@@ -73,6 +73,12 @@ _________________
 Rama saw his father sitting on a beautiful seat, but with his face looking
 completely parched up and miserable. Kaikeyi was at his side.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There Rāma beheld his father seated upon an auspicious couch beside Kaikeyī—dejected, wretched, and with his countenance parched and withered.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +124,12 @@ saluted; *kaikeyyaaH* = Kaikeyi's; *charaNau* = feet.
 
 Rama being humble and well composed, first reverentially saluted his father's feet
 and then saluted Kaikeyi's feet.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Humbly bowing first to his father's feet in due reverence (vinītavat), he then bowed with a composed and serene mind (susamāhitaḥ) to the feet of Kaikeyī.
 </details>
 </details>
 
@@ -168,6 +180,12 @@ able; *iikshhitum* = to see; *na* = nor able; *abhibhaashhitum* = to talk.
 Dasaratha spoke only one word "Rama!" with his eyes filled with tears and dejected,
 being not able to see or to talk any further words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Uttering only the single word “Rāma!”, the wretched king, his eyes brimming and clouded with tears, was unable either to look upon him or to speak further.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -213,6 +231,12 @@ fear; *raamo.api* = even Rama; *bhayam aapannaH* = was struck with fear;
 
 Having not seen earlier such a fearful form of his father, even Rama was frightened
 as though he seized a snake by his foot.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that unprecedented and terrifying aspect of the lord of men, Rāma too was seized with fear, like one who has trodden with his foot upon a serpent.
 </details>
 </details>
 
@@ -276,6 +300,14 @@ grief and anguish, with distressed and agitated mind, like ocean which cannot be
 becoming perturbed with row of waves, like sun which is eclipsed and who lost lustre like by a sage
 who spoke untruth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** With his senses robbed of all joy, wasted by the burning heat of grief, sighing heavily, his mind anguished and bewildered—
+
+**6:** that great monarch looked like the billow-garlanded, imperturbable ocean suddenly churned into turmoil, like the sun eclipsed by Rāhu (upaplutam), or like a sage who has uttered a falsehood (uktānṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,6 +357,12 @@ like ocean; parvaNi on full moon day.
 Contemplating over the unimaginable sorrow of the king, he was very much perturbed
 as an ocean does on a full moon day.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pondering that hampir-inconceivable (acintyakalpam) grief of the king, Rāma grew deeply agitated, like the ocean at the full moon (parvaṇi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -370,6 +408,12 @@ thought; *kimsvid* = "why indeed; *nR^ipatiH* = king; *adyaiva* = just today;
 
 The ingenious Rama, who is fond of his father's welfare, anxiously thought : " why
 indeed the king is not greeting me in return just today?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ever devoted to his father's welfare, the discerning Rāma reflected: “Why is it that on this very day the king does not greet me with his customary joy?”
 </details>
 </details>
 
@@ -418,6 +462,12 @@ indeed the king is not greeting me in return just today?"
 "At other times, the father, even though angry used to be gracious after seeing me
 why today such a father has become weary after seeing me?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“On other days, even when angry, my father grows serene the moment he beholds me; why then does such anguish come over him upon seeing me today?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -463,6 +513,12 @@ from his face; *abhivaadyaiva* = salutted; *kaikeyaam* = to Kaikeyi;
 
 Rama indeed distressed and afflicted with grief, with lustre faded from his face,
 offered his salutation to Kaikeyi and spoke these words.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As though wretched himself and stricken with sorrow, the luster of his face dimmed with dejection, Rāma saluted Kaikeyī and spoke these words:
 </details>
 </details>
 
@@ -510,6 +566,12 @@ offered his salutation to Kaikeyi and spoke these words.
 
 "I hope that I have not done anything wrong through ignorance. Tell me why father is
 angry with me. You alone propitiate him in my favour."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I hope no offense has been committed by me through inadvertence (ajñānāt) on account of which my father is angry! Tell me that, and do you yourself propitiate him!”
 </details>
 </details>
 
@@ -560,6 +622,12 @@ dejected; *naabhibhashhate hi* = not talking; *maam* = to me.
 "Why my father, who was always affectionate to me, has become displeased? With his
 face becoming pale and dejected, he is not talking to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Why is he, who is ever affectionate toward me, displeased at heart today? With his face dejected and wretched, he does not speak to me at all!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -608,6 +676,12 @@ of mind; *na baadhate* = is not troubling; *evam* = him; *sukham* = happiness;
 
 "I hope that either bodily affliction or mental distress is not troubling him. The
 object of happiness is indeed difficult to be attained always!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I hope no bodily fever (śārīraḥ saṃtāpaḥ) or mental anguish (mānaso 'bhitāpaḥ) afflicts him—for uninterrupted happiness is ever hard to obtain!”
 </details>
 </details>
 
@@ -658,6 +732,12 @@ man to look at; *shatrughne* = or to great strength; *matruuNaamva* = or to moth
 "I hope that no bad thing occurred to Bharata, the delightful man to look at or to
 Shatrughna, the man of great strength or to my mother. "
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I hope no misfortune has befallen Prince Bharata of lovely aspect, or Śatrughna of mighty spirit, or any of my mothers!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -703,6 +783,12 @@ without doing; *vachaH* = word; *pituH* = of father.
 
 "If our father becomes angry, I do not desire to live even for a moment without
 satisfying him or without fulfilling his command."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Failing to gratify the great king or failing to carry out my father's command, I would not wish to live even for a single moment (muhūrtam api) while the monarch is displeased.”
 </details>
 </details>
 
@@ -750,6 +836,12 @@ visible; *daivate* = god; *katham* = how; *navarteta* = behaves not.
 "Man sees father as the visible god who is the root cause of one's own coming into
 existence and how else can he behave towards him other than like that?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When a man beholds the very root and origin of his own existence here on earth in a father who stands before him as a visible deity (pratyakṣe daivate), how could he not act in devoted obedience toward him?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -795,6 +887,12 @@ existence and how else can he behave towards him other than like that?"
 
 "I hope you have not spoken anything which hurt my father's conscience with your
 pride and anger."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I hope my father has not been spoken to harshly by you in anger out of wounded pride (abhimānāt), whereby his mind has been agitated and distressed?”
 </details>
 </details>
 
@@ -846,6 +944,12 @@ in reality.
 "I am asking you why my father got this perturbation, which was not there earlier.
 Tell me the true position."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tell me this truly, O queen, as I question you thoroughly: from what cause has this unprecedented perturbation arisen in the lord of men?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -885,6 +989,12 @@ her own benefit; *sunirlajjaa* = without any shame.
 
 Thus questioned by the great souled Rama, Kaikeyi fearlessly spoke these words for
 her own benefit, without any shame on her part.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the high-souled Rāghava, Kaikeyī, utterly devoid of shame (sunirlajjā), spoke these brazen words calculated to serve her own ends:
 </details>
 </details>
 
@@ -935,6 +1045,12 @@ you.
 "Oh, Rama! The king is not angry. There is nothing of distress for him. But he has
 something in mind which he is not telling from fear."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The king is not angry, O Rāma, nor has any calamity befallen him; rather, something lies within his mind which, out of fear of hurting you, he dares not utter.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -984,6 +1100,12 @@ to be done; *avashyam* = certainly; *tvayaa* = by you.
 "To him, words are not coming off to tell disagreeable utterance to you, the dear
 one. He promised me a word. It is to be certainly done by you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“His voice cannot bring itself to speak what is unwelcome to you who are so dear to him; yet you must unfailingly carry out that which he has solemnly promised (āśrutam) to me!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1024,6 +1146,12 @@ so; *pashchaattapyate* = he is repenting.
 "Long ago, the king honoured me and gave me a boon. Like a common man, he is
 repenting now for having given the boon."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having honored me of old and granted me a boon, this king now repents afterward, just like any ordinary, low-born man (prākṛtaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1063,6 +1191,12 @@ repenting now for having given the boon."
 
 "This king promised me to give the boon and now he desires to build a dam wastefully
 on a place where water has gone away."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having solemnly pledged to me, ‘I grant this boon!’, the lord of the people now wishes in vain to bind a dam after the water has already flowed away (gatajale setum)!”
 </details>
 </details>
 
@@ -1111,6 +1245,12 @@ for your sake.
 "Oh, Rama! It is known by even wise men, that truth is the root of righteousness.
 See that the offended king does not abandon such a truth for your sake."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Truth is the very root of righteousness (dharmamūlam), O Rāma, and this is well known to the virtuous as well; act therefore so that the king, though distraught for your sake, does not abandon that truth!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1158,6 +1298,12 @@ afterwards.
 "The king is about to mention that truth which may look auspicious or inauspicious
 to you. Still, I shall tell you all that, if you shall do it afterwards."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If you will carry out whatever the king commands—whether it be auspicious or inauspicious—then I myself shall declare the whole matter to you!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1197,6 +1343,12 @@ I; *abhidhaasyaami* = shall tell; *tatH* = then; *eshhaH* = this king;
 
 "If what is spoken by the king does not create unfavourableness in you, I shall then
 tell you. This king will not indeed tell you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If that which has been decreed by the king shall not fail in you, then I shall proclaim it; for he himself will never utter it to you!”
 </details>
 </details>
 
@@ -1246,6 +1398,12 @@ deviim* = to that queen; *nR^ipasannidhau* = in the presence of the king.
 
 After hearing the words of Kaikeyi, Rama felt painful and spoke thus to her in the
 presence of the king.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words spoken by Kaikeyī, Rāma, deeply pained at heart, spoke thus to that queen in the very presence of the king:
 </details>
 </details>
 
@@ -1333,6 +1491,16 @@ things.
 "Oh queen! Tell me the words of the king as desired by him. I even promise to do it.
 Rama does not speak two things."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** “Alas, fie! You ought not, O queen, to speak such words to me! For at the word of the king I would leap even into blazing fire!”
+
+**29:** “Commanded by my preceptor, father, king, and benefactor, I would swallow fierce poison or plunge even into the ocean!”
+
+**30:** “Therefore declare that word, O queen, which is desired by the king! I shall fulfill it, and I solemnly pledge it—Rāma does not speak twice (rāmo dvir nābhibhāṣate)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1378,6 +1546,12 @@ Rama does not speak two things."
 
 That vulgar Kaikeyi uttered very cruel words to that Rama, who was committed to
 sincerity and speaking of truth.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To that upright and truthful Rāma, the ignoble (anāryā) Kaikeyī spoke these exceedingly cruel words:
 </details>
 </details>
 
@@ -1426,6 +1600,12 @@ war; *te pitraa* = by your father; *sa shalyena* = pierced by darts;
 "Oh, Rama! During a battle and a great war between celestials and demons long ago, I
 protected your father who was pierced by darts. Then, he gave me two boons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of old, in the war between the gods and the demons (devāsure yuddhe), two boons were granted to me, O Rāghava, by your father when he was pierced with darts in the great battle and saved by me.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1471,6 +1651,12 @@ coronation; *bharatasya* = of Bharata; *tava* = your; *gamanam* = going;
 
 "Oh, Rama! According to those boons, I asked the king for coronation of Bharata and
 for your going to Dandaka forest today itself."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In fulfillment thereof, the king has been asked by me for the consecration of Bharata, and for your departure into the Daṇḍaka forest this very day, O Rāghava!”
 </details>
 </details>
 
@@ -1521,6 +1707,12 @@ yadi* = If you want; *kartum* = to make; *pitaram* = father;
 "Oh, Rama! If you want to make yourself and your father faithful to a promise,
 listen to these words of mine.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If you wish to make both your father and yourself true to your pledges (satyapratijñam), O best of men, then hear this word of mine:”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1566,6 +1758,12 @@ forest; *praveshhTavyam* = is to be occupied for navapanchacha = faourteen;
 
 "Abide by your father's command. As per his assurance, you have to stay in the
 forest for fourteen years."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Abide by your father's command (saṃnideśe), just as it was promised by him: the forest must be entered by you for nine years and five!”
 </details>
 </details>
 
@@ -1613,6 +1811,12 @@ king.
 
 "Bharata is to be enthroned with the use of complete collection of materials already
 arranged by the king for your sake."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And let Bharata be consecrated with all this consecration apparatus (abhiṣecanam) that had been prepared by the king on your behalf, O Rāghava!”
 </details>
 </details>
 
@@ -1663,6 +1867,12 @@ wearing braided hari and covered with a hide.
 "You have to leave this coronation function and dwell in the forest of Dandaka for
 fourteen years, wearing braided hair and covered with a hide."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Relinquishing this royal consecration and betaking yourself to the Daṇḍaka forest for seven and seven years, wear matted locks and garments of bark (jaṭācīradharaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1708,6 +1918,12 @@ samaakiirNam* = completely covered with various types of precious things;
 
 "Let Bharata rule this earth, by residing in Ayodhya filled with various types of
 precious thing together with horses, chariots and elephants."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let Bharata rule over this earth belonging to the lord of Kosala—an earth strewn with manifold gems and teeming with horses and chariots!”
 </details>
 </details>
 
@@ -1755,6 +1971,12 @@ samklishhTavadanaH* = with face afflicted with grief.
 "For this reason, king Dasaratha who is overwhelmed with sympathy towards you is not
 able to see you with his face, afflicted with grief."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Overwhelmed by tender compassion on this account, this lord of men, his face afflicted with manifold sorrows, cannot bear to look upon you.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1799,6 +2021,12 @@ vachanam* = these words; *narendrasya* = of the king; *taarayasya* = liberate;
 
 "Oh, Rama! Do as per the words of the king and liberate him by giving your father an
 opportunity to maintain the truth."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fulfill this word of the lord of men, O delighter of the Raghus; through this great truth, O Rāma, rescue the lord of men!”
 </details>
 </details>
 
@@ -1864,6 +2092,12 @@ son.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि हदिनॆण्टनॆय सर्ग पूर्णवायितु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even while she was speaking thus harshly, Rāma did not enter into grief at all; yet the high-souled king, scorched by the calamity of separation from his son, trembled in anguish.
 </details>
 </details>
 

@@ -58,6 +58,12 @@ vaakyam shrutvaa* = on hearing that sentence; *pituH gauravaat* = owing respect 
 On hearing that sentence of Rama of Jamadagni, then Rama of Dasharatha said this to him in a courtly owing to the presence
 of his father Dasharatha. [1-76-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of the son of Jamadagni (śrutvā tu jāmadagnyasya vākyam), Rāma, the son of Daśaratha, restraining his speech out of reverence for his father’s presence (gauravād yantritakathaḥ pituḥ), then spoke to Rāma (Paraśurāma):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,6 +109,12 @@ of his father Dasharatha. [1-76-1]
 
 Oh, Bhaargava Rama, whatsoever endeavour you have strived for freeing yourself from the indebtedness towards your father,
 I have heard of them, and oh, Brahman, we appreciate for your achieving that freeness from your paternal debt, but... [1-76-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Bhārgava, I have heard of the deed you performed (kṛtavān asi yat karma śrutavān asmi bhārgava); we approve and excuse it, O Brāhmaṇa (anurudhyāmahe brahman), since you were discharging your debt to your slain father (pitur ānṛṇyam āsthitaḥ).
 </details>
 </details>
 
@@ -159,6 +171,12 @@ Further more, all the people available there are rendered unconscious at the arr
 Vashishta, Rama's brothers are with senses. So, even if they hear and see this scene, those listeners or seers do no harm
 in revealing Rama's godhood to world, or in particular to Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet, O Bhārgava, you slight my valor (avajānāsi me tejaḥ), deeming me devoid of prowess and incapable of fulfilling the duty of a Kṣatriya (vīryahīnam ivāśaktaṃ kṣatradharmeṇa); behold today my might (paśya me ’dya parākramam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -212,6 +230,12 @@ gataayaa saha | jagraaha vaiShNavam caapam vinayena ca liilayaa ||* 'oh, Devi Pa
 Vishnu's anima from Bhaargava Rama, along with bow of Vishnu, sportily and obediently, too...' Thus, Rama of Dasharatha
 bade goodbye to his earlier incarnation, Parashu Rama, as two swords cannot be in one sheath.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, the enraged Rāghava of swift valor (rāghavaḥ kruddho ... laghuparākramaḥ) took from Bhārgava’s hand his supreme weapon, the bow, together with the arrow (bhārgavasya varāyudhaṃ śaraṃ ca pratijagrāha hastāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -250,6 +274,12 @@ arranged arrow on bowstring; *cakaara ha* = did it [took aim,] indeed; *tataH ra
 
 On lifting up the bow that is already fitted with an arrow on bowstring, then Rama started to take aim with it, but being
 indecisive about the target, then Rama of Dasharatha irefully said this to Rama of Jamagadni. [1-76-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stringing that bow (āropya sa dhanū rāmaḥ), Rāma fitted the arrow to the bowstring (śaraṃ sajyaṃ cakāra ha); then, incensed, Rāma spoke these words to Rāma, the son of Jamadagni:
 </details>
 </details>
 
@@ -302,6 +332,12 @@ for they are under an illusion, called war...' So said Bhiishma to Krishna and t
 Kripa, Ashvatthaama and suchlike weaponed Brahman-s in war, but not in peace. There are many more such sayings of Bhiishma.
 Here Parashu Rama said that he will give a duel to Rama, hence he is no more a Brahman when he raises a weapon. And he is
 a blood relation of Vishvamitra, and that corner of mercy is not allowing Rama to release the arrow on Parashu Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because you are a Brāhmaṇa (brāhmaṇo ’sīti), and also on account of your kinship with Viśvāmitra (viśvāmitrakṛtena ca), you are worthy of my reverence (pūjyo me); therefore, O Rāma, I cannot release this life-taking arrow against you (tasmāc chakto na te rāma moktuṃ prāṇaharaṃ śaram).
 </details>
 </details>
 
@@ -374,6 +410,14 @@ lead the epic to its own goal. Dharmaakuutam has to say this: *prakR^ite - adhik
 tu agre kartavyasakalaraakShasavadhahetubhuutavaiShNavadhanuShaH praashastapratipaadanaparam j~neyam |* Hence
 the mythological quarrels have no place in Ramayana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** “Therefore it is my resolve (iti me matiḥ) that I shall destroy either this swift power of movement of yours, O Rāma (imāṃ vā tvadgatiṃ rāma), or else the peerless celestial worlds earned by your ascetic power (tapobalasamārjitān lokān apratimān vāpi haniṣyāmi)!
+
+**8:** “For this celestial arrow of Viṣṇu, the conqueror of hostile citadels (vaiṣṇavo divyaḥ śaraḥ parapuraṃjayaḥ), which crushes the pride of strength by its valor (vīryeṇa baladarpavināśanaḥ), never falls in vain (na hy ayaṃ ... moghaḥ patati)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -398,6 +442,12 @@ the mythological quarrels have no place in Ramayana.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग आ उत्तम धनुस्सु बाणवन्नु धरिसि निन्तिरुव श्रीरामचन्द्रनन्नु नोडलु समस्त देवतॆगळु मत्तु ऋषिगळु ब्रह्मदेवरन्नु मुन्दॆ माडि अल्लि ऒट्टागि बन्दरु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To behold Rāma wielding that supreme weapon (varāyudhadharaṃ rāmaṃ draṣṭum), the gods together with the hosts of sages (sarṣigaṇāḥ surāḥ), placing the Grandsire Brahmā at their head (pitāmahaṃ puraskṛtya), assembled there from all sides (sametās tatra sarvaśaḥ);
 </details>
 </details>
 
@@ -447,6 +497,12 @@ wielding the extraordinary longbow of Vishnu, and extremely amazing event that i
 The 'amazing event' is not the handing over or taking over of longbow, but it is the transference of the essential nature
 of Bhaargava Rama to Dasharatha Rama. Nrisimha Puraana has this: *tataH parashuraamasya dehaat nirgatasya vaiShNavam
 | pashyataam sarvadevaanaam tejo raamam upaavishat ||*
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and Gandharvas and Apsarases, Siddhas, Cāraṇas, and Kinnaras, as well as Yakṣas, Rākṣasas, and Nāgas, gathered to witness that great marvel (tad draṣṭuṃ mahad adbhutam).
 </details>
 </details>
 
@@ -501,6 +557,12 @@ of Vishnu, Dasharatha Rama's aura dazzled like that of Vishnu, and that dazzleme
 daze, and then that aura-less, thus vigourless Bhaargava Rama has nothing to do except to stare at Vishnu-like Rama, with
 upraised eyes.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the world stood transfixed (jaḍīkṛte tadā loke) as Rāma held that supreme bow (rāme varadhanurdhare), the son of Jamadagni, stripped of his vigor (nirvīryo jāmadagnyo ’sau), gazed up at Rāma (rāmo rāmam udaikṣata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -545,6 +607,12 @@ one; *raamam* = to Rama; *mandam mandam* = slowly, softly; *uvaaca ha* = spoke, 
 
 Rama of Jamadagni is calloused as his vitality is subdued by the radiance of that lotus-petal eyed Rama of Dasharatha, and
 he spoke to Rama of Dasharatha, slowly and softly. [1-76-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rendered numb because his vigor had departed through Rāma’s fiery splendor (tejobhir gatavīryatvāj jāmadagnyo jaḍīkṛtaḥ), the son of Jamadagni spoke very softly and slowly (mandaṃ mandam uvāca ha) to lotus-petal-eyed Rāma (rāmaṃ kamalapatrākṣam):
 </details>
 </details>
 
@@ -591,6 +659,12 @@ A donor cannot enjoy a gift anymore, once donated to the donee. And if the donor
 not come under the true definition of 'donation.' Hence, Parashu Rama is asked to depart from this world. Hence he has gone
 to the ethereal mountain called Mt. Mahendra.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When the earth was formerly bestowed by me upon Kaśyapa (kāśyapāya mayā dattā yadā pūrvaṃ vasuṃdharā), Kaśyapa said to me, ‘You must not dwell within my domain’ (viṣaye me na vastavyam iti māṃ kāśyapo ’bravīt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -633,6 +707,12 @@ made over by me; *kaashyapasya ha* = for Kashyapa, indeed.
 
 Such as I was, in my observance of my mentor Kashyapa's order I do not spend nights on this earth from then afterwards,
 oh, Kakutstha Rama, as I made over this earth for Kashyapa, indeed... [1-76-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fulfilling my preceptor’s command (so ’haṃ guruvacaḥ kurvan), I never spend a night upon the earth (pṛthivyāṃ na vase niśām); from that time onward, O Kākutstha, such was the pledge made by me to Kaśyapa (tadāprabhṛti kākutstha kṛtā me kāśyapasya ha).
 </details>
 </details>
 
@@ -680,6 +760,12 @@ will depart.
 Thereby oh, valiant one, it will be inapt of you to impair this motility of mine, oh, Raghava, I will depart with the speed
 of cerebration to Mt. Mahendra, a par excellent mountain... [1-76-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O hero, O Rāghava, you ought not to destroy this power of movement of mine (tām imāṃ madgatiṃ vīra hantuṃ nārhasi rāghava); with the speed of mind I shall depart to Mahendra, the foremost of mountains (manojavaṃ gamiṣyāmi mahendraṃ parvatottamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -721,6 +807,12 @@ _________________
 
 But I triumphed over matchless realms of heavens with my ascesis, oh, Rama, you may hash them up with that irreversible
 arrow... let there be no time-lag... [1-76-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Peerless celestial worlds, O Rāma, have been won by me through asceticism (lokās tv apratimā rāma nirjitās tapasā mayā); strike them down with this foremost of arrows (jahi tāñ śaramukhyena)—let there be no delay of time (mā bhūt kālasya paryayaḥ)!
 </details>
 </details>
 
@@ -764,6 +856,12 @@ enemy-inflamer; *svasti te astu* = blessedness betides to you.
 
 I have realized your touch of nature as that of the Immutable Supreme Being, God of Gods, the Exterminator of the demon
 Madhu, namely Vishnu, by the touch of your handling that bow... oh, enemy-inflamer, blessedness alone betides you... [1-76-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By your handling and drawing of this bow (dhanuṣo ’sya parāmarśāt), I know you to be the imperishable slayer of the demon Madhu, the Lord of the gods (akṣayyaṃ madhuhantāraṃ jānāmi tvāṃ sureśvaram); hail unto you, O scorcher of foes (svasti te ’stu paraṃtapa)!
 </details>
 </details>
 
@@ -809,6 +907,12 @@ achievements and to whom there is no counter-dueller in conflicts... [1-76-18]
 Parashu Rama is hastening up Dasharatha Rama to finish business quickly, otherwise the nature of Rama and his incarnation
 will publicized, not by these two Rama-s, but the game watching gods. If these spectators stay for a long time in sky, some
 airborne demon will let the cat out of the bag.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All these hosts of gods, assembled together (ete suragaṇāḥ sarve ... samāgatāḥ), are gazing upon you of peerless deeds (tvām apratimakarmāṇam), who are without a rival in battle (apratidvandvam āhave).
 </details>
 </details>
 
@@ -859,6 +963,12 @@ _________________
 Oh, Kakutstha Rama, you are the lord of the triad of worlds, such as you are, you faced me down, and it is malapropos to
 say that this is a disgrace to me... [1-76-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor, O Kākutstha, ought this to be a matter of shame for me (na ceyaṃ mama kākutstha vrīḍā bhavitum arhati) that I have been worsted and turned back by you, the Lord of the three worlds (tvayā trailokyanāthena yad ahaṃ vimukhīkṛtaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -898,6 +1008,12 @@ unloosened arrow; *parvatottamam mahendram gamiSyaami* = I will go to ethereal m
 "It will be apt of you to unloose that unsurpassed arrow, oh, Rama, as you have ethical commitment to wipe out demons as
 I wiped out menacing kings, and should you unloosen that arrow now I wish to depart to the ethereal mountain Mt. Mahendra,
 a point of no return for me..." So said Parashu Rama to Dasharatha Rama. [1-76-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Rāma of noble vows, release this peerless arrow (śaram apratimaṃ rāma moktum arhasi suvrata); upon the release of the arrow, I shall depart to Mahendra, the foremost of mountains (śaramokṣe gamiṣyāmi mahendraṃ parvatottamam)!”
 </details>
 </details>
 
@@ -943,6 +1059,12 @@ sharam cikSepa* = shot off nonpareil arrow.
 
 While Rama of Jamadagni is speaking that way, that venturesome and blessed Rama of Dasharatha shot off that nonpareil arrow
 from that longbow of Vishnu. [1-76-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma, the son of Jamadagni, had spoken thus (tathā bruvati rāme tu jāmadagnye), the mighty and glorious Rāma, son of Daśaratha, loosed that supreme arrow (rāmo dāśarathiḥ śrīmāṃś cikṣepa śaram uttamam).
 </details>
 </details>
 
@@ -996,6 +1118,12 @@ Mt. Mahendra, the heavenly mountain. [1-76-22]
 
 Rather, ready to depart... as he is given some more role-play in next verses.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding his own worlds earned by asceticism destroyed by Rāma (sa hatān dṛśya rāmeṇa svāṃl lokāṃs tapasārjitān), the son of Jamadagni swiftly departed to Mahendra, the foremost of mountains (jāmadagnyo jagāmāśu mahendraṃ parvatottamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1044,6 +1172,12 @@ the assemblages of sages extolled Rama, in whose hands the longbow is upraised. 
 **टिप्पनी**
 
 Please refer the endnote about this longbow and how it is passed on to Janaka's dynasty.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon all the cardinal directions and intermediate quarters became free of darkness (tato vitimirāḥ sarvā diśaś copadiśas tathā), and the gods together with the hosts of sages praised Rāma as he held the upraised weapon (surāḥ sarṣigaṇā rāmaṃ praśaśaṃsur udāyudham).
 </details>
 </details>
 
@@ -1100,6 +1234,12 @@ went on his own way into oblivion. [1-76-24]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎप्पत्तारनॆय सर्ग पूर्णवायितु.॥76॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored by Rāma, the son of Daśaratha (rāmaṃ dāśarathiṃ rāmo jāmadagnyaḥ prapūjitaḥ), the mighty Rāma, son of Jamadagni, then circumambulated him (tataḥ pradakṣiṇīkṛtya) and departed to his own abode (jagāmātmagatiṃ prabhuḥ).
 </details>
 </details>
 

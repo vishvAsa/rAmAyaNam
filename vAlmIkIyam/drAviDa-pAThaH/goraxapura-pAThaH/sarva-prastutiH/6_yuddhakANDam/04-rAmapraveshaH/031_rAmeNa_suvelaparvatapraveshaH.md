@@ -78,6 +78,14 @@ The spies of king Ravana informed him that Rama with his imperturbable army
 Hearing through his spies that Rama with his mighty army had arrived to Lanka,
  Ravana was a little agitated and spoke to his counsellors as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then the spies (carāḥ) of the lord of Laṅkā reported (pratyavedayan) to him that Rāghava, whose army is unshakable (akṣobhya-balam), had encamped (niviṣṭam) upon Mount Suvela.
+
+**2:** Hearing from his spies that Rāma of mighty strength had arrived, Rāvaṇa became somewhat agitated (jātodvegaḥ) and spoke these words to his ministers (sacivān):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -108,6 +116,12 @@ Hearing through his spies that Rama with his mighty army had arrived to Lanka,
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सचिवरे! नन्न मन्त्रिगळॆल्लरू आदष्टु बेग इल्लिगॆ बरलि. नावॆल्लरू सेरि गुप्तसमालोचनॆ माडुव काल ईग सन्निहितवागिदॆ.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let all the counselors (mantriṇaḥ), well-composed (su-samāhitāḥ), come quickly! Truly, O rākṣasas, the hour for our deliberation (mantra-kālaḥ) has now arrived.”
 </details>
 </details>
 
@@ -156,6 +170,12 @@ Hearing through his spies that Rama with his mighty army had arrived to Lanka,
 As per his command, the ministers came instantly. Ravana conferred with the
  ogres, his ministers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that command (śāsanam) of his, the counselors came swiftly; thereupon he held counsel (mantrayāmāsa) together with his rākṣasa ministers.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -201,6 +221,12 @@ As per his command, the ministers came instantly. Ravana conferred with the
 
 The dreadful Ravana discussed about the ensuing things to be done immediately.
  He sent away the ministers and entered his palace.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having deliberated (mantrayitvā) immediately thereafter upon what was expedient (kṣamam), that unassailable (durdharṣaḥ) monarch dismissed his ministers and entered his own palace (svam ālayam).
 </details>
 </details>
 
@@ -249,6 +275,12 @@ Thereafter, Ravana the practiser of conjuring tricks, took the exceedingly
 
 मत्तॆ अवनु महाबली, महामायावी, मायाविशारद राक्षस विद्युज्जिह्वनन्नु जॊतयल्लि करॆदु कॊण्डु सीतॆयु इरुव प्रमदावनवन्नु प्रवेशिसिदनु.॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, taking with him (ādāya) the rākṣasa Vidyujjihva of mighty strength—a conjurer (māyāvinam) and master of great illusions (mahā-māyam)—he entered the place where Maithilī was held.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -296,6 +328,12 @@ Ravana the lord of demons spoke to Vidyujjihva, who was a knower of conjuring
  tricks as follows: "With your spells, create an illusion in order to deceive Seetha, daughter
  of Janaka."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lord of the rākṣasas spoke to Vidyujjihva, knower of illusions (māyā-jñam): “Let us two delude (mohayiṣyāvahe) Sītā, the daughter of Janaka, through sorcery (māyayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +379,12 @@ Ravana the lord of demons spoke to Vidyujjihva, who was a knower of conjuring
 
 "O, demon! Produce a head resembling Rama's along with a great bow and arrows
  created deceptively and present yourself before me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking an illusory (māyā-mayam) head of Rāghava, O night-ranger, and his great bow together with his arrow (sa-śaraṃ dhanuḥ), attend (samupatiṣṭhasva) closely upon me.”
 </details>
 </details>
 
@@ -393,6 +437,12 @@ Hearing Ravana's words, the demon Vidyujjihva said, "Be it so". He showed
 
 रावणन अप्पणॆ पडॆदु, निशाचर विद्युज्जिह्वनु ‘हागॆये आगलि’ ऎन्दु हेळि तुम्बा कुशलतॆयिन्द प्रकटिसिद तन्न मायॆयन्नु तोरिसिदनु.॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, the night-ranger Vidyujjihva replied, “So be it (tatheti),” and displayed (darśayāmāsa) before Rāvaṇa that illusion, skillfully contrived (su-prayuktām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -440,6 +490,12 @@ Hearing Ravana's words, the demon Vidyujjihva said, "Be it so". He showed
 
 The exceedingly strong Ravana the suzerain lord of demons, duly entered the
  Ashoka grove, eagerly longing for the sight of Seetha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The king was pleased (tuṣṭaḥ) with him and bestowed upon him an ornament (vibhūṣaṇam); and, eager (lālasaḥ) for the sight of Sītā in the Aśoka grove—
 </details>
 </details>
 
@@ -494,6 +550,14 @@ Then, Ravana the younger brother of Kubera ( the god of riches) saw Seetha
  down in the Ashoka grove plunged in grief as she was and absorbed in the thought of her
  husband.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** —the mighty lord of the Nairṛtas entered (saṃviveśa) therein; and then the younger brother of Kubera (dhanadānujaḥ) beheld her, wretched (dīnām) though undeserving of wretchedness (adainyārhām),
+
+**12:** seated upon the bare ground with downcast face (adho-mukhīm), given over to grief (śoka-parām), and meditating intently (samanudhyāntīm) upon her husband after having come to the Aśoka grove.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +603,12 @@ Then, approaching Seetha who was attended upon by ghastly ogresses seated
  not far distance from her and mentioning his own name with great delight, Ravana spoke the
  following audacious words to Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching (upasṛtya) Sītā, who was attended (upāsyamānām) not far off by dreadful rākṣasīs, and proclaiming aloud (kīrtayan) a feigned exultation (praharṣaṃ nāma),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -579,6 +649,12 @@ Then, approaching Seetha who was attended upon by ghastly ogresses seated
 
 "O, Beautiful one! He in whom you trusted and repelled me when I sought to
  console you - that murderer of Khara, your husband Rama has been killed in battle."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+he spoke this insolent (dhṛṣṭam) speech to the daughter of Janaka: “He relying upon whom (yam āśritya) you disdain (vimanyase) me when I entreat you gently (sāntvyamānā), O fair lady—
 </details>
 </details>
 
@@ -650,6 +726,14 @@ _________________
 "O, Foolish one! Give up this resolution. What will you do with one dead.
  O, beautiful one! Become the Chief Queen over all my consorts."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** that husband of yours, Rāghava the slayer of Khara (khara-hantā), has been slain in battle! Your root (mūlam) is utterly severed, and your pride (darpaḥ) has been struck down by me.
+
+**16:** Through your own calamity (vyasanenātmanaḥ), O Sītā, you shall become my wife! Abandon this thought (matim), O foolish woman; what will you do with a dead man (mṛtena)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -700,6 +784,12 @@ _________________
  as wise! O, Seetha! Hear about the dreadful killing of your husband in battle, as the killing
  of the demon Vritra (at the hands of Indra)"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Become, O fair one, the sovereign mistress (īśvarī) over all my wives! O woman of scant merit (alpa-puṇye), whose purpose is foiled (nivṛttārthe), foolish yet fancying yourself wise (paṇḍita-mānini), hear of the dreadful slaying of your husband, O Sītā, like the slaying of Vṛtra:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -746,6 +836,12 @@ _________________
 "Rama, encircled by an extensive army led forward by Sugreeva, is said to
  have arrived at the sea-shore, to kill me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāghava, they say (kila), arrived at the shore of the ocean (samudrāntam) to slay me, surrounded by a mighty army led by the lord of the monkeys (vānarendra-praṇītena).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -785,6 +881,12 @@ _________________
 
 "While sun was going to set, Rama with his mighty army was encamped there,
  encroaching upon the northern shore of the sea."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As the sun was going to its setting (vrajaty astaṃ divākare), Rāma encamped (saṃniviṣṭaḥ) with his mighty army, crowding closely (pīḍya) upon the northern shore (tīram athottaram) of the ocean.
 </details>
 </details>
 
@@ -828,6 +930,12 @@ _________________
  and completely fatigued in the course of the journey, was approached first and espied by
  our spies."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then at midnight (ardha-rātre), that army, exhausted from the march (adhvani pariśrāntam) and halting there fast asleep (sukha-suptam), was first reconnoitered (caritam) by my spies (caraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -868,6 +976,12 @@ _________________
 
 "By my great army, which was led by Prahasta, Rama's army was killed in the
  night at the place where Rama and Lakshmana were there."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, by my mighty host led by Prahasta (prahasta-praṇītena), his army was slaughtered at night in the place where Rāma was stationed together with Lakṣmaṇa (sa-lakṣmaṇaḥ).
 </details>
 </details>
 
@@ -926,6 +1040,14 @@ The demons wielding harpoons, maces, discus, daggers, sticks, great arrows
  spears, shining maces with spikes, picks lances, darts, massed weapons, clubs and circular
  missiles, made use of them again and again in order to strike down the monkeys."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** Spears (paṭṭiśān), iron-bound clubs (parighān), discus-weapons (cakrān), double-edged swords (ṛṣṭīn), staffs, great weapons, masses of arrows (bāṇa-jālāni), pikes (śūlāni), and gleaming concealed-spike maces (kūṭa-mudgarān),
+
+**23:** as well as staves (yaṣṭīḥ), lances (tomarān), barbed darts (prāsān), quoits (cakrāṇi), and pestles (musalāni)—all these, brandished again and again (udyamya-udyamya) by the rākṣasas, were hurled down upon the monkeys.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -966,6 +1088,12 @@ The demons wielding harpoons, maces, discus, daggers, sticks, great arrows
 
 "The impetuous Prahasta, with his steady hand, severed the head of Rama sleeping
  there, with his mighty sword without a resistance from any one."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, while Rāma lay asleep (suptasya rāmasya), the crusher Prahasta, of practiced hand (kṛta-hastena), severed his head (śiraś chinnam) unhindered (asaktam) with a mighty sword (mahāsinā).
 </details>
 </details>
 
@@ -1015,6 +1143,12 @@ _________________
 
 "Fortunately, Vibhishana was over leaped and held captive. Lakshmana along
  with the monkeys were made to run away in all directions."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Vibhīṣaṇa, springing upward (samutpatya) at random (yadṛcchayā), was seized (nigṛhītaḥ), and Lakṣmaṇa, together with the monkey troops, was driven off (pravrājitaḥ) toward every quarter (diśaḥ).
 </details>
 </details>
 
@@ -1066,6 +1200,12 @@ _________________
 "O, Seetha! Sugreeva the king of monkeys with his neck broken and Hanuman
  with his jaw removed were laid down and killed by the demons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva, lord of the leapers, lies with his neck broken (grīvayā bhagnayā), O Sītā; and Hanūmān, O Sītā, has been slain by the rākṣasas with his jaw shattered (nirasta-hanukaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1112,6 +1252,12 @@ _________________
 "Thereafter Jambavan who was rising up on his knees was killed in the battle.
  His body was cut off with many sharp-edged spears, like a tree is cut off."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Jāmbavān, rising up from his knees (jānubhyām utpatan), was struck down in battle, hacked to pieces by many spears (paṭṭiśair bahubhiḥ) like a felled tree (nikṛttaḥ pādapo yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1138,6 +1284,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मैन्द-द्विविदरॆम्ब श्रेष्ठवानररु रक्तदिन्द तॊय्दु होगि ऒद्दाडुत्ता बिद्दिद्दरु. दीर्घवागि उसिरुबिडुत्ता अळुत्तिद्दाग इब्बरू विशालकाय शत्रुसूदन वानररन्नु खड्गदिन्द नडुवॆये कत्तरिबिट्टरु.॥28½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Both Mainda and Dvivida, those two foremost bulls among monkeys (vānara-vararṣabhau), sighing heavily (niḥśvasantau) and weeping, are drenched in blood (rudhireṇa pariplutau)—
 </details>
 </details>
 
@@ -1184,6 +1336,14 @@ _________________
  and the foremost of the monkeys, groaning and breathless, their limbs bathed in blood-were
  cut to pieces at the waist-level, by a sword."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** —those two tall (vyāyatau) slayers of foes, cleft through the waist (madhye) by the sword! And Panasa groans (anuśvasiti) upon the earth like a split jackfruit (panaso yathā).
+
+**30:** Pierced by many iron shafts (nārācair bahubhiḥ), Darīmukha lies in a cavern (daryām); and Kumuda of great splendor, uttering no sound (niṣkūjan), has been slain by arrows (sāyakaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1227,6 +1387,12 @@ _________________
 "Panasa, crying for help was stretched on the earth under a tree of the same
  name. Pierced by lying in a pit. The exceedingly valiant kumuda on his part, shrieking,
  was killed by a hail of missiles."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Closed in upon (āsādya) by the rākṣasas and pierced by many arrows, Aṅgada—vomiting blood on every side (parito rudhirodgārī)—has fallen (nipatitaḥ) to the earth, even Aṅgada!
 </details>
 </details>
 
@@ -1274,6 +1440,12 @@ _________________
 
 "Angada, who was adorned with bracelets lies fallen down, emitting blood
  on all sides, as he was pierced by the demons with many arrows, after approaching him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkeys were crushed (mathitāḥ) by elephants, and others likewise by hosts of chariots (ratha-jālaiḥ); lying prostrate there (śayānāḥ), they were pulverized (mṛditāḥ) like rain-clouds by blasts of wind (vāyu-vegair ivāmbudāḥ).
 </details>
 </details>
 
@@ -1325,6 +1497,12 @@ _________________
 "The monkeys sleeping there were crushed by elephants and multitude of chariots,
  like clouds are crushed to pieces by the velocity of wind."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And others, terrified (trastāḥ) and fleeing in rout (prasṛtāḥ) while being struck from behind (jaghanyataḥ), were pursued closely (anudrutāḥ) by the rākṣasas like great elephants by lions.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1370,6 +1548,12 @@ _________________
 
 "The enemy fled in terror, pursued by demons, while being struck on the bak,
  like lions pursuing great elephants."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some plunged into the ocean, some sought refuge in the sky, and the bears (ṛkṣāḥ), climbing up into trees (vṛkṣān upārūḍhāḥ), resorted to the habit of monkeys (vānarīṃ vṛttim āśritāḥ).
 </details>
 </details>
 
@@ -1418,6 +1602,12 @@ _________________
 "Some monkeys fell in the sea and some sought shelter in the sky. The bears
  with the monkeys climbed the trees."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And along the shores of the ocean, upon the mountains, and in the forests, those tawny ones (piṅgalāḥ) have been slain in great numbers by the deformed-eyed (virūpākṣaiḥ) rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1463,6 +1653,12 @@ _________________
 
 "By the demons with monstrous eyes, were killed a multitude of monkeys, at
  the shores of the sea, in the mountains an in the woods."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus has your husband been slain together with his army (sa-sainyaḥ) by my host; and this head of his, wet with blood (kṣatajārdram) and befouled with dust (rajo-dhvastam), has been brought here (āhṛtam).”
 </details>
 </details>
 
@@ -1513,6 +1709,12 @@ _________________
 
 "Thus, your husband together with his army was killed by my troops. This
  head, drenched in his blood and besmeared with dust has been gathered up."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāvaṇa, the lord of the rākṣasas, supremely unassailable (parama-durdharṣaḥ), spoke this word to a rākṣasī while Sītā was listening closely (sītāyām upaśṛṇvantyām):
 </details>
 </details>
 
@@ -1574,6 +1776,12 @@ Thereafter, Ravana the Lord of demons who was very much difficult to be attacked
 
 "The time for deliberation has come to us. Let our ministerial colleagues
  come quickly with their keenly attentive minds."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Summon (samānaya) the rākṣasa Vidyujjihva of cruel deeds (krūra-karmāṇam), by whom that head of Rāghava was personally brought back (svayam āhṛtam) from the battle.”
 </details>
 </details>
 
@@ -1639,6 +1847,14 @@ _________________
 Holding that head along with a bow, Vidyujjihva making a respectful salute
  with his head bent low, stood in front of Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**39:** Thereupon Vidyujjihva, taking that head together with the bow (sa-śarāsanam), made obeisance (praṇāmam) with his head and stood before Rāvaṇa (rāvaṇasyāgrataḥ sthitaḥ).
+
+**40:** Then King Rāvaṇa spoke to that rākṣasa Vidyujjihva of huge tongue (mahā-jihvam), who stood waiting at hand (samīpa-parivartinam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1678,6 +1894,12 @@ Holding that head along with a bow, Vidyujjihva making a respectful salute
 
 Thereafter, the king Ravana spoke the following words to Vidyujjihva, the
  demon who had a large tongue and who was standing and moving closely.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Quickly place the head of Daśaratha's son (dāśaratheḥ śiraḥ) before Sītā (agrataḥ sītāyāḥ); let the wretched woman (kṛpaṇā) behold well (sādhu paśyatu) the final state (avasthāṃ paścimām) of her husband!”
 </details>
 </details>
 
@@ -1726,6 +1948,12 @@ Thereafter, the king Ravana spoke the following words to Vidyujjihva, the
 "Keep Rama's head immediately in front of Seetha. Let the miserable Seetha
  see well the final condition of her husband.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, that rākṣasa set down (upanikṣipya) that head of lovely aspect (priya-darśanam) before Sītā and swiftly vanished (kṣipram antaradhīyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1767,6 +1995,12 @@ Thereafter, the king Ravana spoke the following words to Vidyujjihva, the
 Hearing Ravana's words, that demon deposited the cherished head in the vicinity
  of Seetha and soon disappeared from the site.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Rāvaṇa too cast down (cikṣepa) the great, gleaming bow (bhāsvaraṃ kārmukaṃ mahat), saying, “This is Rāma's, famed across the three worlds (triṣu lokeṣu vikhyātam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1807,6 +2041,12 @@ Hearing Ravana's words, that demon deposited the cherished head in the vicinity
 
 "Here is Rama's bow famous in the three worlds!" - saying thus, Ravana threw
  a great shining bow in front of Seetha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Here is that bow of your Rāma, fitted with its bowstring (jyā-samāvṛtam), brought here by Prahasta after slaying that mortal (mānuṣam) at night.”
 </details>
 </details>
 
@@ -1869,6 +2109,12 @@ Hearing Ravana's words, that demon deposited the cherished head in the vicinity
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Casting down (vinikīryamāṇaḥ) that head and bow upon the ground together with Vidyujjihva, he then spoke to that illustrious daughter of the king of Videha: “Become compliant to my will (bhava me vaśānugā)!”
 </details>
 </details>
 

@@ -78,6 +78,14 @@ uncle; that Yutaajit; *raajaanam dR^iSTvaa* = having seen king Dasharatha; *kush
 Yudhaajit, the son of Kekaya king and the brother of Kaikeyi, thus the direct maternal uncle of Bharata, having seen and
 asked after the wellbeing of Dasharatha said this to him. [1-73-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** On the very day that the king performed the supreme godāna ceremony (godānam uttamam), on that same day the heroic Yudhājit arrived (yudhājit samupeyivān).
+
+**2:** The son of the King of Kekaya and the own full maternal uncle of Bharata (sākṣād bharatamātulaḥ), upon seeing the king and inquiring after his welfare (dṛṣṭvā pṛṣṭvā ca kuśalam), spoke these words to him:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,6 +143,14 @@ of Kekaya, my father]; *mama svasriiyam* = my, sister's son - my nephew - Kaikey
 Oh, Raghu's legatee, oh, best king, my father and the king of Kekaya is interested to see my sister Kaikeyi's son, Bharata,
 and for that reason I am sent to Ayodhya... [1-73-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** “The sovereign lord of the Kekayas has affectionately inquired after your welfare (snehāt kuśalam abravīt); those whose well-being you wish for (yeṣāṃ kuśalakāmo ’si) are at present in perfect health (teṣāṃ sampraty anāmayam).
+
+**4:** “O Indra among kings, my royal father is eager to see my sister’s son (svasrīyaṃ mama ... draṣṭukāmo mahīpatiḥ); for that purpose I journeyed to Ayodhyā, O delight of the Raghus (tadartham upayāto ’ham ayodhyām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -184,6 +200,12 @@ though not a question. Further he is saying 'my sister's son' i.e., Bharata alon
 this episode has a bearing on future events or not, one *maama* is entered in Indian epics, like this one and *
 Shakuni maama* in Maha Bharata.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Learning in Ayodhyā, however, O lord of the earth, that your sons had journeyed to Mithilā with you for the purpose of marriage (vivāhārthaṃ tavātmajān mithilām upayātāṃs tu),—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -231,6 +253,12 @@ arrived [in his presence]; *dR^iSTvaa* = on seeing about; *puujaarham* = he who 
 
 Then king Dasharatha on seeing the adorable guest who arrived in his presence, and who is a merited one for adoration, Dasharatha
 adored Yudhaajit well, with full observances. [1-73-6b, 7a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—I have come here in great haste, eager to behold my sister’s son (draṣṭukāmaḥ svasuḥ sutam).” Then King Daśaratha, beholding that dear guest who had arrived (priyātithim upasthitam),—
 </details>
 </details>
 
@@ -285,6 +313,14 @@ He arrived at the Vedic-ritual hall that he was frequenting for the last few day
 will not enter the marriage hall, and nowadays such an invitation includes a small function also, called *varapuuja*
 as every bridegroom will be looked up to as Vishnu, and the bride as Lakshmi. The marriage hall is constructed nearby this
 Vedic-ritual hall, thus it is to be assumed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** —honored that guest worthy of honor with supreme hospitality (paramasatkāraiḥ pūjanārham apūjayat). Then, having passed that night together with his high-souled sons (tām uṣito rātriṃ saha putrair mahātmabhiḥ),—
+
+**8:** —rising again at dawn and performing his morning rites, that knower of truth (kṛtvā karmāṇi tattvavit), placing the sages at his fore, approached the sacrificial pavilion (yajñavāṭam upāgamat).
 </details>
 </details>
 
@@ -352,6 +388,14 @@ Brides are not the lone category of people destined to wear jewellery. But bride
 at least one, on such occasions. The metal gold is said to contain some effect by which a man or a woman will be benefited,
 health wise: *mR^itaa durluptam madhumat suvarNam dhanam jananam ruNam daarayiSunam...* after all gold is gold.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** At the auspicious Vijaya hour (yukte muhūrte vijaye), Rāma, having completed the auspicious bridal thread-ceremony (kṛtakautukamaṅgalaḥ), accompanied by his brothers who were adorned with every ornament,—
+
+**10:** —placed Vasiṣṭha and the other great sages as well at his fore (vasiṣṭhaṃ purataḥ kṛtvā). Then the revered Vasiṣṭha approached the Vaideha king and spoke these words (vaideham idam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -392,6 +436,12 @@ marriage-thread; *putraiH* = with such sons; *daataaram abhikaankSate* = looking
 Then that godly sage Vashishta on going from Vedic-ritual hall to marriage hall said this to Janaka, "Oh, best one among
 best people, oh, king Janaka, having performed the auspicious marriage-thread ceremony, Dasharatha along with his sons is
 looking forward for the donor... [1-73-10b, 11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“King Daśaratha, O King, foremost of the best of men, together with his sons who have completed their auspicious nuptial rites (kṛtakautukamaṅgalaiḥ putraiḥ), awaits the giver of the brides (dātāram abhikāṅkṣate).
 </details>
 </details>
 
@@ -439,6 +489,12 @@ king Dasharatha come, and then on actualising this best marriage you too will be
 Hindu marriage is not a contractual obligation because it protracts over seven life cycles of that couple. Therefore, it
 is calculated correctly and celebrated sacredly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For only through the union of giver and receiver do all desired ends come to pass (dātṛpratigrahītṛbhyāṃ sarvārthāḥ sambhavanti hi). Fulfill your bounden duty by performing this supreme marriage alliance (svadharmaṃ pratipadyasva kṛtvā vaivāhyam uttamam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -478,6 +534,12 @@ is calculated correctly and celebrated sacredly.
 Janaka is not just a decidedly valiant king but he is the profound knower of probity also, besides being an unreservedly
 generous king, hence he has already made all arrangements, and when he is spoken in this way by Vashishta that king replied
 this sentence to that right honourable Vashishta. [1-73-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the high-souled Vasiṣṭha, the supremely munificent Janaka (paramodāro), of great splendor and a supreme knower of dharma (paramadharmavit), spoke these words in reply:
 </details>
 </details>
 
@@ -558,6 +620,14 @@ Oh, eminent-saint Vashishta, on absolutely performing the auspicious ceremony fo
 thread-band at wrists my daughters have already arrived, and they are at the base of the Altar of Fire, like the irradiant
 jets of flames of radiant fire... [1-73-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “What doorkeeper of mine stands in the way (kaḥ sthitaḥ pratihāro me), and whose command is being awaited (kasyājñāṃ sampratīkṣate)? What hesitation can there be in one’s own home (svagṛhe ko vicāro ’sti), since this kingdom is yours just as much as mine (yathā rājyam idaṃ tava)?
+
+**15:** “Having completed the entirety of the auspicious bridal rites (kṛtakautukasarvasvā), my daughters have already come to the base of the sacrificial altar (vedimūlam upāgatāḥ), O best of sages, shining like bright tongues of fire (dīptā vahner ivārciṣaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -611,6 +681,12 @@ be dillydallying, inching and poking along, very leisurely. Even today this cust
 is there and a *baraat* 'pageant of bridegroom's party' covers two furlong distance in two hours, or even more, keeping
 the bride's party on tenterhooks.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Stationed at this altar right now, I am awaiting you alone (sadyo ’haṃ tvatpratīkṣo ’smi vedyām asyāṃ pratiṣṭhitaḥ). Let everything be performed without impediment (avighnaṃ kriyatāṃ sarvam); why indeed is there any delay (kimarthaṃ hi vilambyate)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -649,6 +725,12 @@ even; *praveshayaamaasa* = started to enter - the marriage hall.
 
 On hearing that sentence of Janaka, then Dasharatha started towards marriage hall, and then he started to enter his sons
 one by one, four in all, into marriage hall along with all of the assemblages of sages. [1-73-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words spoken by Janaka, Daśaratha thereupon caused his sons and all the hosts of sages to enter (praveśayām āsa sutān sarvān ṛṣigaṇān api).
 </details>
 </details>
 
@@ -700,6 +782,12 @@ rejoicer of world; *raamasya* = Rama's; *vaivaahikiim kriyaam* = marriage orient
 Then that king from Videha bloodline, Janaka, said in this way to Vashishta, "Oh, the knower of punctilios, oh, Brahma-sage,
 oh, masterly sage, along with other sages you make happen all of the marriage ceremonies of Rama, the rejoicer of the world..."
 Thus Janaka spoke to Vashishta. [1-73-18, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the King of the Videhas spoke these words to Vasiṣṭha: “O righteous sage, together with the sages, do you conduct the entire—”
 </details>
 </details>
 
@@ -840,6 +928,22 @@ with Vedic-chants, and on preparing Ritual-fire by rubbing two wooden sticks, ca
 , he placed that fire in the pit of Altar, which is aflame now, and then reverently and in tune with the Vedic-hymns he
 effused oblational liquids into that Altar of Fire, with short-handled and long-handled wooden scoops. [1-73-23b, 24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “—nuptial liturgy (kriyāṃ vaivāhikīm) of Rāma, who delights the whole world (rāmasya lokarāmasya), O lord!” Saying “So be it” to Janaka, the revered sage Vasiṣṭha,—
+
+**20:** —placing Viśvāmitra and the righteous Śatānanda at the fore, that sage of great austerity duly constructed the sacrificial altar in the center of the pavilion (prapāmadhye tu vidhivad vediṃ kṛtvā).
+
+**21:** He adorned that altar on all sides with fragrant pastes and flowers (gandhapuṣpaiḥ samantataḥ), with golden pālikā pots, and with painted water-jars bearing sprouts (citrakumbhaiś ca sāṅkuraiḥ),—
+
+**22:** —with earthen platters rich in sprouts (aṅkurāḍhyaiḥ śarāvaiś ca), with censers filled with fragrant incense (dhūpapātraiḥ sadhūpakaiḥ), with conch-shell vessels, sacrificial ladles, garlands (śaṅkhapātraiḥ sruvaiḥ sragbhiḥ), and vessels honored with arghya and other offerings,—
+
+**23:** —and with bowls filled with parched grain and consecrated unbroken rice (lājapūrṇaiś ca pātrībhir akṣatair api saṃskṛtaiḥ). Having strewn it evenly with equal blades of darbha grass according to rule and with sacred mantras (darbhaiḥ samaiḥ samāstīrya vidhivan mantrapūrvakam),—
+
+**24:** —and having established the sacred fire upon that altar with prescribed rites and mantras (agnim ādhāya taṃ vedyāṃ vidhimantrapuraskṛtam), Vasiṣṭha, bull among sages of great splendor, offered oblations into the fire (juhāvāgnau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -976,6 +1080,16 @@ Pouring water at the time of donation into the donee's hand symbolises the free 
 expresses *nitya-sambandhatva* 'ever related entity...' Or, a trace of His *liilaa-vibhuuti, maayaa*. Though
 they are living separately so far, that farness is now washed off by this holy water.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** Then, having brought Sītā adorned with every ornament (sītāṃ samānīya sarvābharaṇabhūṣitām), and having stationed her in the presence of the sacred fire facing Rāghava (samakṣam agneḥ saṃsthāpya rāghavābhimukhe tadā),—
+
+**26:** —King Janaka spoke to the increaser of Kausalyā’s joy (kausalyānandavardhanam): “This is Sītā, my daughter, your companion in the fulfillment of dharma (iyaṃ sītā mama sutā sahadharmacarī tava)!
+
+**27:** “Accept her—may auspiciousness attend you (pratīccha caināṃ bhadraṃ te)! Clasp her hand with your hand (pāṇiṃ gṛhṇīṣva pāṇinā)! Devoted to her lord and supremely fortunate, she will ever follow you like your own shadow (pativratā mahābhāgā chāyevānugatā sadā).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1031,6 +1145,12 @@ saa janakaatmajaa* 'unlimited is the energy, to whom Janaka's daughter belongs..
 in eliminating Ravana, whereas Seetha is the efficient cause for it. Lanka is ruined by Seetha, through Hanuma with the
 help of Fire-god, but not by Rama, or all of the monkeys put together. And Rama eliminates the half-dead Ravana. There are
 some more flower-showers and drumbeats and dances, later.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the king thereupon poured water sanctified by mantras (prākṣipad rājā mantrapūtaṃ jalaṃ tadā), while the gods and sages cried out, “Well done! Well done!” (sādhu sādhv iti devānām ṛṣīṇāṃ vadatāṃ tadā).
 </details>
 </details>
 
@@ -1099,6 +1219,14 @@ vaa | vivaahadaanayajnaadau parivedo na duuShaNam ||* 'the elderliness among the
 co-wives, or other sons from other wives, do not count in their marriages, donation ceremonies, of Vedic-rituals... an younger
 one can be called first on such occasions...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** There arose the resounding peal of celestial kettle-drums and a great shower of flowers (devadundubhinirghoṣaḥ puṣpavarṣo mahān abhūt). Having thus bestowed his daughter Sītā preceded by mantra-sanctified water (mantrodakapuraskṛtām),—
+
+**30:** —King Janaka, overwhelmed with joy (harṣeṇābhipariplutaḥ), spoke: “Come forward, O Lakṣmaṇa—may auspiciousness attend you! This Ūrmilā, held ready by me for bestowal (ūrmilām udyatāṃ mayā),—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1137,6 +1265,12 @@ one can be called first on such occasions...'
 
 Janaka having said to Lakshmana that way, he also addressed Bharata, "Oh, Bharata, the delight of Raghu-s, take Maandavi's
 palm into your palm... [1-73-31b-32a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—accept her and clasp her hand; let there be no lapse of the auspicious time (mā bhūt kālasya paryayaḥ)!” Having spoken thus to him, Janaka addressed Bharata as well (bharataṃ cābhyabhāṣata):
 </details>
 </details>
 
@@ -1200,6 +1334,14 @@ not, there be, time's, lapse.
 
 "Oh, Rama, Lakshmana, Bharata, Shatrughna ... you all are tender-hearted, well-behaved and well-intentioned brothers from
 Kakutstha lineage... without lapse of time take up other ceremonies..." So said Janaka to bridegrooms. [1-73-33b, 34a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** “Clasp the hand of Māṇḍavī with your hand, O delight of the Raghus (gṛhāṇa pāṇiṃ māṇḍavyāḥ pāṇinā raghunandana)!” And the righteous lord of Mithilā also spoke to Śatrughna (śatrughnaṃ cāpi dharmātmā abravīt):
+
+**33:** “O mighty-armed prince, clasp the hand of Śrutakīrti with your hand (śrutakīrter mahābāho pāṇiṃ gṛhṇīṣva pāṇinā)! Gentle are you all, and all of you are steadfast in noble vows (sarve bhavantaḥ saumyāś ca sarve sucaritavratāḥ);—
 </details>
 </details>
 
@@ -1285,6 +1427,16 @@ ritual fire and offered oblations into it. Then each couple had oblated rice-fla
 to that Ritual-fire, respectively. Thus, the marriage is not a handshake like one-minute affair, as they all shall be before
 fire, daylong.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**34:** “—may you Kākutsthas be united with your wives; let there be no lapse of the auspicious hour (patnībhiḥ santu kākutsthā mā bhūt kālasya paryayaḥ)!” Hearing Janaka’s words, they clasped those hands with their hands (pāṇīn pāṇibhir aspṛśan),—
+
+**35:** —those four princes clasping the hands of the four princesses, abiding by the direction of Vasiṣṭha (catvāras te catasṛṇāṃ vasiṣṭhasya mate sthitāḥ). Having circumambulated the sacred fire, the altar, and the king as well (agniṃ pradakṣiṇaṃ kṛtvā vediṃ rājānam eva ca),—
+
+**36:** —and the high-souled sages too, those upholders of the Raghu line together with their brides (sahabhāryā raghūdvahāḥ) duly performed the marriage rites in accordance with scriptural ordinance (yathoktena tataś cakrur vivāhaṃ vidhipūrvakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1333,6 +1485,14 @@ divine drums and with vocal and instrumental music, and promenades of apsara-s d
 and because it is the marriage of celebrated bridegrooms from Raghu's dynasty, such a charming spectacle is envisioned..
 [1-73-37, 38]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**37:** From the firmament there fell a great and radiant shower of flowers (puṣpavṛṣṭir mahaty āsīd antarikṣāt subhāsvarā), accompanied by the peals of divine kettle-drums and the sounds of song and musical instruments (gītavāditraniḥsvanaiḥ).
+
+**38:** Hosts of Apsarases danced and Gandharvas sang melodiously (nanṛtuś cāpsaraḥsaṅghā gandharvāś ca jaguḥ kalam); at the wedding of the chiefs of the Raghus, that wondrous spectacle was beheld (tad adbhutam adṛśyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1375,6 +1535,12 @@ te* = those brothers; *triH* = thrice; *agnim parikramya* = circumambulated the 
 
 In this kind of ongoingness of harmonious music of vocal, instrumental and that of dancers, those great resplendent brothers
 married their wives on circumabulating the Ritual-fire fire thrice. [1-73-39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While such festivities were taking place, resounding with the blare and echo of musical instruments (tūryodghuṣṭaninādite), those heroes of mighty splendor thrice circumambulated the fire and wedded their brides (trir agniṃ te parikramya ūhur bhāryā mahaujasaḥ).
 </details>
 </details>
 
@@ -1433,6 +1599,12 @@ the assemblages of sages, kinfolks, queens and wives included, and Dasharatha fe
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎप्पत्तमूरनॆय सर्ग पूर्णवायितु.॥73॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then those delights of the Raghus, accompanied by their wives, departed to the royal camp (athopakāryaṃ jagmus te sabhāryā raghunandanāḥ); and the king too followed behind, beholding them (rājāpy anuyayau paśyan), together with the host of sages and his kinsmen.
 </details>
 </details>
 

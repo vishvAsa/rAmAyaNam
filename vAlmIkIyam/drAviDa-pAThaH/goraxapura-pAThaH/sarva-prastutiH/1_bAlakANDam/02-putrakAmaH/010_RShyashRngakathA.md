@@ -78,6 +78,12 @@ Sumantra thus motivated by King Dasharatha, said these words to king "Oh! King, 
 which idea Sage Rishyasringa is brought by the ministers of Romapada, all that will be spoken...
 that may please be listened from me along with ministers... [1-10-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by the King, Sumantra then spoke these words: `In what manner and by what stratagem Ṛśyaśṛṅga was brought by the ministers—hear from me in full all that I now relate, together with your ministers!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +122,12 @@ idam* = said this to king Romapaada; *upaayaH nirapaayaH ayam* = this one is a n
 
 "The ministers along with clergyman have spoken this way to King Romapaada, "this is a non-harmful
 plan, well thought over by us..." [1-10-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Accompanied by the ministers, the family priest (Purohita) spoke thus to King Romapāda: "A stratagem free from all risk or disaster has been devised by us.
 </details>
 </details>
 
@@ -157,6 +169,12 @@ of.
 "Rishyasringa is a forest-dweller absorbed in ascesis and self-study of Vedic scriptures,
 and he is not aware of women, or of worldly-matters or of even worldly-pleasures...[1-10-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`"Ṛśyaśṛṅga is a forest-dweller, absorbed in austerity and Vedic study, and is wholly unacquainted with women, with objects of sense-pleasure, and with sensual delight.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -195,6 +213,12 @@ wish to bring; *kShipram ca adhyavasiiyataam* = immediately, let be decided.
 
 "With much desired sense-pleasing objects that will be disquieting the minds of men, we wish
 bring him to the city... Let it be decided quickly... [1-10-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`"Through cherished sense-objects that churn and captivate the hearts of men, we shall cause him to be brought to the city; let this be resolved upon swiftly!
 </details>
 </details>
 
@@ -238,6 +262,12 @@ him, hither.
 
 "Beautiful and well decorated courtesans will go there to bring him hither by tempting with
 many a feint, and let the courtesans be given ample gifts... [1-10-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`"Let lovely and richly adorned courtesans go thither; having enticed him by manifold stratagems, and being honored by him (or by us), they shall bring him hither."'
 </details>
 </details>
 
@@ -283,6 +313,12 @@ many a feint, and let the courtesans be given ample gifts... [1-10-5]
 
 "Hearing that the King replied the priest, "Let it be so..." and then the priests and ministers
 have carried out the plan that way... [1-10-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Hearing this, the King replied to his family priest, "So be it!" And the family priest and the ministers accordingly carried out that plan.
 </details>
 </details>
 
@@ -346,6 +382,12 @@ arts *chatuSSaSThi-kalaa* , which include right from music, dance, and drama, sc
 painting etc., up to the art of thievery. Kings in their political or sovereign pursuits variedly
 used these Deva Daasis, the courtesans.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Hearing that command, the chief courtesans (Vāramukhyāḥ) entered the great forest; stationing themselves not far from that hermitage, they strove to catch sight—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -373,6 +415,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुनिकुमार ऋष्यशृङ्गरु बहळ धीर स्वभावदवरागिद्दु, सदा आश्रमदल्ले इरुत्तिद्दरु. अवरिगॆ यावागलू तन्न तन्दॆय बळि इरुवुदरल्ले हॆच्चु सुख सिगुत्तित्तु. आद्दरिन्द अवरु आश्रमद हॊरगे बरुत्तिरलिल्ल.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`—of the steadfast son of the seer, who dwelt perpetually in the hermitage. Ever contented with serving his father, he never stepped beyond the bounds of the hermitage.
 </details>
 </details>
 
@@ -425,6 +473,12 @@ either of city or of countryside from the time of birth onwards... [1-10-8b, 9]
 Rishyasringa is thus not aware of gender differentiation or exposed to any other object of
 pleasure, and thus his father conditioned him to achieve some supreme ritual ideal.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Never since his very birth had that ascetic beheld a woman, or a man, or any other creature bred in city or countryside.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -464,6 +518,12 @@ son Rishyasringa; *yadR^icChayaa tam desham aajagaama* = casually came to that p
 "Then at one time Rishyasringa casually arrived at that place, and has seen those comely females.
 [1-10-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Then one day, by the working of destiny, the son of Vibhāṇḍaka chanced to come to that spot, and there he beheld those exquisite women.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -502,6 +562,12 @@ son Rishyasringa; *yadR^icChayaa tam desham aajagaama* = casually came to that p
 
 "They the lustful women are amazingly attired and singing melodious tunes, all of them neared
 the sage's son and spoke these words... [1-10-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Clad in variegated attire and singing in sweet, melodious tones, all those enchanting women approached the seer's son and spoke these words:'
 </details>
 </details>
 
@@ -548,6 +614,12 @@ vane* = lonely, devoid of people [desolate,] in deep, forests; *[kim] charasi*
 
 "Who you are? Why you move lonely in these deep and desolate forests, why you conduct yourself
 like this? Oh! Brahman, we are interested to know... please tell us..." [1-10-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`"Who are you, O Brāhmaṇa youth, and how do you live? We desire to know! Why do you roam alone in this solitary and dreadful forest? Pray tell us!"'
 </details>
 </details>
 
@@ -597,6 +669,12 @@ inclined to.]
 hence a kind of friendship spouted, with which he is inclined to detail about his father...
 [1-10-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Never before had women of such ravishing beauty been beheld by him in the forest; out of spontaneous affection (Hārdāt), the thought arose in his mind to tell them of his father and himself:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -643,6 +721,12 @@ The birth-event associated with his name is that he is born with a horn on the c
 head. Thus he is named as Rishyasringa, i.e., *R^iSi*= the Sage; *sR^i~Nga*= horn; a Sage with
 a horn, and this here he recalls his birth time event.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`"Our father is Vibhāṇḍaka, and I am his legitimate biological son (Aurasa); my name, renowned across the earth, is Ṛśyaśṛṅga, and so too is my sacred work (of austerity).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -681,6 +765,12 @@ all; *vidhipuurvakam puujaam kariSye* = I wish to worship according to scripture
 
 "Our hermitage is here only, oh, august ones, I wish to perform scripturally worship to you
 all verily there..." thus said the sage to the courtesans. [1-10-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`"Here hard by is our hermitage, O fair-featured ones! There I shall perform hospitality-worship for all of you in due accordance with scriptural rule."'
 </details>
 </details>
 
@@ -721,6 +811,12 @@ jagmuH* = thereby, all, women went.
 
 "On hearing the words of sage's son, all those courtesans are verily inclined to see the threshold
 of that hermitage, then all the women went to hermitage. [1-10-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Hearing the words of the seer's son, all of them resolved to consent; and all those women went with him to behold that hermitage.
 </details>
 </details>
 
@@ -777,6 +873,12 @@ words, which will usually be used in ritual worship of Hindu deities. He being a
 has offered the courtesans the tuber fruits like sweet potatoes etc., which are ridiculous
 to urbanites, that too to the pleasure-taking courtesans.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`When they arrived there, the seer's son offered them hospitality: "Here is water for your hands (Arghya), here is water for your feet (Pādya), and here are our forest roots and fruits!"'
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -816,6 +918,12 @@ mind to make away that way.
 
 "All of them have received that kind of worship much enthusiastically, but dread at the arrival
 of the sage Vibhandaka, they quickly made-up their mind to make away from there. [1-10-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Having accepted that hospitality, all of them were eager to converse with him; yet, fearing the sage Vibhāṇḍaka, they quickly set their minds upon departing.
 </details>
 </details>
 
@@ -862,6 +970,12 @@ holy One; *bhadram te* = safe be you; *bhakShayasva* = eat them; *chiram*
 
 " 'Take these important fruits of ours, oh, Brahman, you be safe, oh, holy one... eat them
 before long....' Said courtesans to Rishyasringa.] [1-10-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`"Here too, O twice-born one, are choice fruits of our own! Accept them, O Brāhmaṇa—may all auspiciousness be yours—and eat them without delay!"
 </details>
 </details>
 
@@ -912,6 +1026,12 @@ of best ones; *pradaduH tasmai* = well presented, to him.
 "Then all of the courtesans have embraced him and all of them with a kind of mirthfulness
 in the offing, presented sweet-balls and other varieties of best sweetmeats to him. [1-10-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Then all those women, filled with joy, embraced him and gave him sweetmeats (Modakas) and manifold delicious confections.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -950,6 +1070,12 @@ in the offing, presented sweet-balls and other varieties of best sweetmeats to h
 
 "Having relished the sweets, that resplendent sage supposed them to be fruits only, for he
 did not taste sweets earlier, as he is always forest-bound. [1-10-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Tasting those confections, the radiant youth thought in his heart: "Surely these are fruits!"—for never before had such delicacies been tasted by those who dwell perpetually in the forest.
 </details>
 </details>
 
@@ -999,6 +1125,12 @@ duties, they the courtesans departed from there on the pretext of their daily wo
 they actually feared for the arrival of Rishyasringa's father who may hurl curses on his arrival...
 [1-10-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Then, taking leave of the Brāhmaṇa youth and feigning that they had to perform a religious observance of their own, those women departed under that pretext, terrified of his father.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1038,6 +1170,12 @@ parivartate* = he behaved in sadness, even.
 
 "After the departure of all them the courtesans, that Brahman Rishyasringa, the grandson of
 Sage Kaashyapa, is disturbed at heart and even behaved sadly... [1-10-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`When all of them had departed, that twice-born son of Kāśyapa's line became restless in heart, and tossed about in the pain of separation.'
 </details>
 </details>
 
@@ -1083,6 +1221,12 @@ aajagaama* = arrived at that place.
 "Then on the next day Rishyasringa, son of Vibhandaka and the prosperous sage with ascetic
 power has arrived at that place where he saw well-decorated and delightful courtesans recollecting
 in mind repetitively about them alone. [1-10-24, 25a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Then on the following day, that auspicious son of Vibhāṇḍaka, of mighty ascetic energy, came again to that same spot, pondering in his mind again and again—
 </details>
 </details>
 
@@ -1140,6 +1284,14 @@ also; *abruvan* = they have said.
 of those courtesans on surrounding him said, "oh, gentle one, welcome to the threshold of
 our hermitage... [1-10-25b, 26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** `—where those charming and richly adorned chief courtesans had been seen by him. Beholding the Brāhmaṇa youth coming toward them, they were delighted at heart;
+
+**26:** `Approaching him, all those women spoke these words to him: "Come, O gentle youth, to our hermitage!"—so they said.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1185,6 +1337,12 @@ indeed.
 
 "There are excellent tuber fruits and fruits and there will be a very distinctive hospitality...
 definitely indeed..." So said the courtesans.[1-10-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`"There we have manifold and wondrous roots and fruits in abundance; and there, mostassuredly, this special hospitality-rite shall be performed for you!"
 </details>
 </details>
 
@@ -1232,6 +1390,12 @@ took away him.
 "On hearing the heart-pleasing words of all those courtesans, Rishyasringa made up his mind
 to go over there, and then those women took him away [to their place in Anga Kingdom.] [1-10-28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Hearing those words spoken by all of them, which went straight to his heart, he resolved to go; and the women thereupon led him away.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1272,6 +1436,12 @@ rain.
 "While that great soul ad Brahman Rishyasringa while being brought into Anga Kingdom, then
 the Rain-god quickly showered rain in Anga kingdom to the delight of the world. [1-10-29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`At the very moment when that high-souled Brāhmaṇa was being brought into the Aṅga realm, the Rain-God (Parjanya) suddenly poured down rain, gladdening the entire world!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1296,6 +1466,12 @@ the Rain-god quickly showered rain in Anga kingdom to the delight of the world. 
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मळॆयन्नु नोडि आ तपस्वी ब्राह्मणकुमारनु बन्दिरबेकु ऎन्दु राजनु अनुमानपट्टनु मत्तॆ बहळ विनयदिन्द राजनु अवरन्नु स्वागतिसि, कालुमुट्टि साष्टाङ्ग नमस्कार माडिदनु.॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Going forth in person to meet that ascetic Brāhmaṇa who had arrived simultaneously with the rain, that Lord of Men (Romapāda) bowed low in humility and prostrated himself with his head upon the earth.
 </details>
 </details>
 
@@ -1351,6 +1527,12 @@ The salutation in prostration on the ground is usually performed before Gods or 
 reverence. It is called *saaSTaanga-praNaamam = sa aSTa anga praNaamam* , i.e., saluting
 with eight body parts touching the ground, indicating his absolute surrender to the worshipped.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`With a deeply collected mind, he offered him the guest-water (Arghya) according to sacred rule, and besought grace from that foremost of Brāhmaṇas, praying that no wrath might enter the Brāhmaṇa's heart.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1398,6 +1580,12 @@ city]; *kanyaam shantaam asmai yathaavidhi datvaa* = on giving bride Shanta cust
 
 "On entering the palace princess Shanta is given to Rishyasringa in customary marriage, and
 then that King Romapada obtained rejoice with a peaceful mind. [1-10-32]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Leading him into the inner royal apartments and bestowing upon him in marriage according to scriptural ordinance his daughter Śāntā with a tranquil and relieved mind, that King attained supreme joy.
 </details>
 </details>
 
@@ -1456,6 +1644,12 @@ Rishyasringa to King Dasharatha.] [1-10-33]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हत्तनॆय सर्ग पूर्णवायितु. ॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Thus, reverently honored with the fulfillment of every desire, Ṛśyaśṛṅga of mighty splendor dwelt there together with his wife Śāntā.'
 </details>
 </details>
 

@@ -71,6 +71,12 @@ Sugreeva, seen.
 With his life-force slowing down Vali respired slowly glancing everywhere, and he
 firstly saw his brother Sugreeva afore him. [4-22-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Looking all around (vīkṣamāṇas tu sarvataḥ) with ebbing life-breath (mandāsuḥ) and breathing faintly (mandam ucchvasan), [Vālin] at the very first (ādāv eva tu) beheld his younger brother Sugrīva (sugrīvam anujam) standing in front [of him] (agrataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +122,12 @@ tone; *sa sneham* = with, amicability; *idam abraviit* = this, spoke.
 
 Vali nodding at Sugreeva, who achieved triumph and became the lord of fly-jumpers,
 amicably spoke this to him in an unambiguous tone. [4-22-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressing in a clear voice (ābhāṣya vyaktayā vācā) that victorious Sugrīva (prāptavijayam), lord of the leapers (plavageśvaram), Vālin spoke this affectionately (sasneham):
 </details>
 </details>
 
@@ -163,6 +175,12 @@ one who is all the while attracted - hauled, [thus you reckon.]
 
 "Sugreeva, reckon me not by my iniquities, but reckon as one who is all the while
 forcibly hauled into this futurity owing to my impropriety and obduracy. [4-22-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Sugrīva, you ought not to hold me in fault (doṣeṇa na māṃ gantum arhasi) on account of my offense (kilbiṣāt), since I was forcibly (balāt) dragged along (kṛṣyamāṇam) by an inevitable (bhaviṣyeṇa) delusion of mind (buddhimohena).
 </details>
 </details>
 
@@ -213,6 +231,12 @@ brothers, seemly to; *tat idam* = that, this - therefore; *sauhaardam* = amity;
 
 "I do not think that we two are fated to share blissfulness simultaneously, oh, boy,
 therefore the amity seemly to brothers has cropped up otherwise. [4-22-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I think, dear brother (tāta), that happiness (sukham) was not ordained (na vihitam) for the two of us simultaneously (yugapat); for that brotherly affection (sauhārdaṃ bhrātṛyuktam) has turned out otherwise (jātam anyathā).
 </details>
 </details>
 
@@ -269,6 +293,12 @@ proposed by Hanuma. Next, Sugreeva is the next best choice for the kingship, rat
 and a younger brother and also as a one-time prince regent. In either way the dying Vali is keeping
 his nobility high up, as an unrivalled champion and even as an elderly brother.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assume this very day (pratipadya tvam adyaiva) the sovereignty over these forest-dwellers (rājyam eṣāṃ vanaukasām), and know that I too am departing this very day (adyaiva gacchantam) to the abode of Vaivasvata [Yama] (vaivasvatakṣayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -309,6 +339,12 @@ indeed.
 
 "Such as I am, I am indeed forgoing my life, kingdom, and this immense prosperity
 and even the unenviable glory which adduces that 'Vali is unkillable,' right away. [4-22-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For I now swiftly (tūrṇam) relinquish (prajahāmi) my life (jīvitaṃ ca), my kingdom (rājyaṃ ca), my vast royal fortune (śriyaṃ ca vipulām), and my blameless renown (agarhitaṃ yaśaḥ).
 </details>
 </details>
 
@@ -361,6 +397,12 @@ of.
 say even in such a situation in which now I am, and oh, king, even if that word of mine is
 infeasible. [4-22-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet in this [dying] condition (asyām avasthāyām), O hero (vīra), whatever word I shall speak (vakṣyāmi yad vacaḥ), even though it be difficult to perform (yady apy asukaram), O king, you ought indeed to fulfill it (kartum eva tvam arhasi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -412,6 +454,12 @@ at.
 comforts, though a boy he is mannerly, and who with his tear-filled face fallen onto ground.
 [4-22-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold (paśya) this Aṅgada fallen upon the ground (bhūmau patitam) with his face filled with tears (bāṣpapūrṇamukham)—worthy of happiness (sukhārham), reared in comfort (sukhasaṃvṛddham), a boy in years yet not childish in mind (bālam enam abāliśam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -458,6 +506,12 @@ resources; *paripaalaya* = you foster.
 "More dear than my own lives is my son, and when he is deprived of me you have to
 foster him as if he is your own son, with no resources becoming sparse in every way. [4-22-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Guard (paripālaya) in every way (sarvataḥ) this son of mine, dearer to me than my own life-breaths (mama prāṇaiḥ priyataram), as though he were a son born of your own loins (putram ivaurasam)—bereft of me (mayā hīnam), yet not bereft of his welfare (ahīnārtham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -503,6 +557,12 @@ father, patron; *sarvataH pari traataa ca* = from all sides, overall, protector,
 
 "Oh, king of fly-jumpers, as with me you too are his father, patron, an overall
 protector from all sides, and also thus an assurer in fear. [4-22-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You too are his father (pitā), his benefactor (dātā), and his protector in all respects (paritrātā ca sarvaśaḥ), and the giver of security amidst dangers (bhayeṣv abhayadaś caiva), just as I was (yathāham), O lord of the leapers (plavageśvara).
 </details>
 </details>
 
@@ -553,6 +613,12 @@ fore, he will be - will be in advance guard.
 "This admirable son of Tara is a coequal of yours in triumphs, and in eliminating
 those demons he will be in your advance guard. [4-22-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This glorious son of Tārā (eṣa tārātmajaḥ śrīmān), equal to you in valor (tvayā tulyaparākramaḥ), shall stand at your forefront (agratas te bhaviṣyati) in the slaying of those Rākṣasas (rakṣasāṃ ca vadhe teṣām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -599,6 +665,12 @@ seemly for my son,] actions; *kariSyati* = he performs - undertakes.
 "This mighty and sinewy son of Tara is youthful, and on overtaking in war this
 Angada will undertake actions seemly for a son of mine. [4-22-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Striding forth (vikramya) in battle (raṇe), this mighty (balavān), radiant (tejasvī), and youthful (taruṇaḥ) Aṅgada, son of Tārā (tāreyaḥ), shall accomplish deeds worthy of himself [and of me] (anurūpāṇi karmāṇi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -627,6 +699,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सुषेणकी पुत्री यह तारा सूक्ष्म विषयोंके निर्णय करने तथा नाना प्रकारके उत्पातोंके चिह्नोंको समझनेमें सर्वथा निपुण है ॥ १३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Moreover, this daughter of Suṣeṇa (suṣeṇaduhitā ceyam) is thoroughly accomplished (sarvataḥ pariniṣṭhitā) in the subtle determination of affairs (arthasūkṣmaviniścaye) and in diverse portents (autpātike ca vividhe).
 </details>
 </details>
 
@@ -702,6 +780,12 @@ least; *anyathaa na parivartate hi* = contrarily, not, it deflects [happens,] in
 "Whatever is said by her as proper that is doable indubitably, indeed nothing
 contrary happens to her opinions, in the least. [4-22-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Moreover, this daughter of Suṣeṇa (suṣeṇaduhitā ceyam) is thoroughly accomplished (sarvataḥ pariniṣṭhitā) in the subtle determination of affairs (arthasūkṣmaviniścaye) and in diverse portents (autpātike ca vividhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -749,6 +833,12 @@ not, honoured [Rama]; *tvaam himsyaat ca* = you, he will torture [punish,] even.
 "You have to accomplish Raghava's mission undoubtedly, and if it is unaccomplished
 there will be infraction on your part because you befriended him before an altar of fire, and you
 may even be punished for dishonouring him and your given word to him. [4-22-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the mission of Rāghava (rāghavasya ca kāryam) must be accomplished by you without hesitation (aviśaṅkayā); for in its non-performance there would be unrighteousness (syād adharmo hy akaraṇe), and if slighted (amānitaḥ), he would slay you (tvāṃ ca hiṃsyāt).
 </details>
 </details>
 
@@ -802,6 +892,12 @@ you wear it." Thus Vali spoke to Sugreeva. [4-22-16]
 Sugreeva may not inherit any fortune of invincibility from this invincible
 pendant, but Vali has to safeguard it without getting into an insulting touch of his dead body
 *shava sparsha doSa*. As such, he is giving it Sugreeva, in preference to Angada.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Put on (ādhatsva) this divine golden necklace (imāṃ mālāṃ divyāṃ kāñcanīm), O Sugrīva; for the exalted royal fortune (udārā śrīḥ) abiding in it would utterly depart (samprajahyāt) when I am dead (mṛte mayi).”
 </details>
 </details>
 
@@ -864,6 +960,12 @@ subject to condition, that this eating will be done only occasionally. Those are
 eclipses of either Sun or Moon. Recent astrology gave names to these two entities as 'Dragon with
 Head' is Raahu and the 'Dragon with Tail' is Ketu.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Vālin out of fraternal affection (bhrātṛsauhṛdāt), Sugrīva abandoned his joy [at victory] (harṣaṃ tyaktvā) and became dejected once more (punar dīnaḥ), like the lord of stars [the moon] seized by the planet [Rāhu] (grahagrasta ivoḍurāṭ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -911,6 +1013,12 @@ one, that, pendant, taken.
 Quietened by Vali's words and conducting himself befittingly and attentively in the
 given situation, Sugreeva has then taken that golden chain only when Vali authorised him.
 [4-22-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pacified (śāntaḥ) by Vālin's words and unwearyingly performing what was fitting (kurvan yuktam atandritaḥ), he, granted permission (abhyanujñātaḥ), accepted that golden necklace (jagrāha mālāṃ tāṃ caiva kāñcanīm).
 </details>
 </details>
 
@@ -961,6 +1069,12 @@ given; *sthitam aatmajam ca dR^iSTvaa* = available [nearby,] his son, also, on s
 On giving away that golden pendant, and on seeing his son who is available nearby,
 readying himself towards his end that is setting in, Vali affectionately spoke to Angada.
 [4-22-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having given that golden necklace (tāṃ mālāṃ kāñcanīṃ dattvā) and beholding his son standing near (dṛṣṭvā caivātmajaṃ sthitam), [Vālin], fully prepared for the state hereafter (saṃsiddhaḥ pretyabhāvāya), spoke out of affection to Aṅgada (snehād aṅgadam abravīt):
 </details>
 </details>
 
@@ -1017,6 +1131,12 @@ enduringly, for you have to conduct yourself according to time and place of your
 also you have to endure the mirth or misery caused at his behest... for you are no more independent
 from now on..."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Attend today to place and time (deśakālau bhajasvādya), patiently enduring what is pleasant and unpleasant (kṣamamāṇaḥ priyāpriye); bearing joy and sorrow (sukhaduḥkhasahaḥ) at the proper season (kāle), be obedient to Sugrīva's will (sugrīvavaśago bhava).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1057,6 +1177,12 @@ yathaa* = you, always, by me, as to how; *laalitaH* = you are nurtured - enterta
 "Oh dextrous Angada, as to how I have entertained you in whichever way you conducted
 yourself with me, Sugreeva may not approve of such a puerile behaviour of yours, if you resort to
 it. [4-22-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For as you, O mighty-armed one (mahābāho), were constantly indulged (lālitaḥ satatam) by me, Sugrīva will not highly regard (na bahu manyate) you if you comport yourself in that same manner (tathā vartamānam).
 </details>
 </details>
 
@@ -1106,6 +1232,12 @@ self-control; *sugriiva vashagaH bhava* = in Sugreeva's, control, you shall be.
 Angada, you shall be in the control of Sugreeva attending to the purposes of your lord with
 self-control. [4-22-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Do not enter into fellowship (na gataṃ gaccheḥ) with his non-friends (asyāmitraiḥ), nor with his foes (mā śatrubhiḥ), O tamer of enemies (ariṃdama); self-controlled (dāntaḥ) and devoted to your lord's interest (bhartur arthaparaḥ), be obedient to Sugrīva's will (sugrīvavaśago bhava).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1152,6 +1284,12 @@ antara dR^ik bhava* = therefore, intermediary, in outlook, you be - you cultivat
 "Do not conduct yourself with excessive friendliness or unfriendliness, as this pair
 of opposites itself has a flaw, therefore you cultivate an intermediary outlook." Vali thus spoke
 to Angada. [4-22-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Neither should excessive familiarity (atipraṇayaḥ) be practiced by you, nor should lack of affection (apraṇayaś ca) be shown; for both are a grave fault (ubhayaṃ hi mahādoṣam)—therefore be one who discerns the middle course (tasmād antaradṛg bhava).”
 </details>
 </details>
 
@@ -1201,6 +1339,12 @@ He who is highly tortured by the arrow of Rama spoke to Angada in that way, and
 afterwards his eyeballs rolled-up, mouth hung open baring his horrid teeth, and his life too took
 to flight from his body. [4-22-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus (ity uktvā), sorely tormented by the arrow (śarasampīḍito bhṛśam), with rolling eyes (vivṛttākṣaḥ) and dreadful bared fangs (vivṛtair daśanair bhīmaiḥ), he became bereft of life (babhūvotkrāntajīvitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1247,6 +1391,12 @@ Vali's death; *vi cukrushuH* = loudly, squawked as a complaint.
 Then, all those best monkeys avaialble there have started to weep when their monkey
 chief is dead, and for that matter they have loudly squawked at his death in this way.
 [4-22-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then all those foremost of leapers (sarve plavagasattamāḥ), the monkeys whose troop-lord was slain (vānarā hatayūthapāḥ), cried out aloud (vicukruśuḥ) there, lamenting (paridevayamānāḥ):
 </details>
 </details>
 
@@ -1302,6 +1452,12 @@ fly-jumpers is dead all the vanara-s are rendered up into a lacklustre life. [4-
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
 1 of the mightiest characters of the rAmAyaNa was the ape vAlin. Among his great acts were the slaying of the dAnava-s dundubhi & mAyAvin &mighty gandharva golabha after a continuous 16 year battle. An account this was recited by the apes in the funerary elegy to their great lord
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now that the lord of the monkeys has departed to heaven (svargate vānareśvare), Kiṣkindhā is today desolate (śūnyā), and desolate too are the pleasure-groves (udyānāni ca śūnyāni), the mountains, and the forests (parvatāḥ kānanāni ca)!
 </details>
 </details>
 
@@ -1372,6 +1528,12 @@ This flowers following Vali is the same situation with Hanuma when he jumps
 from Mt. Mahendra to Lanka. A volley of flowers shower on him owing to kick-start and follow him up
 to some distance into ocean, as though to worship him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Now that the tiger among leapers is slain (hate plavagaśārdūle), the monkeys have been rendered lusterless (niṣprabhā vānarāḥ kṛtāḥ)! He by whose mighty impetus [or majesty] (yasya vegena mahatā) the forests and groves (kānanāni vanāni ca)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1431,6 +1593,14 @@ that Vali is no more. [4-22-28b, 29]
 
 This Sanskrit expression 'giving a duel' is the same that is available in
 English like - 'give me a duel.' etc.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** —were bound with masses of blossoms (puṣpaugheṇānubadhyante), who will accomplish that today (kariṣyati tad adya kaḥ)? He by whom a great battle (mahad yuddham) was granted to the high-souled Gandharva (gandharvasya mahātmanaḥ)—
+
+**29:** —the mighty-armed Golabha (golabhasya mahābāhoḥ), for ten years and five (daśa varṣāṇi pañca ca), neither by night nor by day (naiva rātrau na divase) did that battle abate (tad yuddham upaśāmyati);
 </details>
 </details>
 
@@ -1492,6 +1662,12 @@ nipaatitaH* = how, he is felled.
 killing that evil-minded Golabha with his zigzag teeth Vali accorded fearlessness to all of us, how
 such a Vali is felled now?" Thus the monkeys raised hue and cry. [4-22-30]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then in the sixteenth year (tataḥ ṣoḍaśame varṣe) Golabha was struck down (golabho vinipātitaḥ)! Having slain that unruly [foe] (taṃ hatvā durvinītaṃ tu), Vālin, dreadful with his terrible fangs (daṃṣṭrākarālavān) and the giver of security to us all (sarvābhayaṃkaro 'smākam)—how has he been laid low (katham eṣa nipātitaḥ)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1546,6 +1722,12 @@ went into a freneticness.
 But when that fly-jumper's brave lord Vali is killed, those fly-jumpers have gone
 into a freneticness in that matter of Vali's killing, as with the cows becoming frenetic when their
 husbanding bull is killed while moving in a great forest that is riddled with a lion. [4-22-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that heroic overlord of the leapers was slain (hate tu vīre plavagādhipe tadā), the leapers (plavaṅgamāḥ) found no peace (na śarma lebhire) there, like forest-roaming kine (vanecarāḥ... gāvaḥ) in a vast lion-infested forest (siṃhayute mahāvane) when the lord of the herd [the bull] is slain (nihate gavāṃ patau).
 </details>
 </details>
 
@@ -1616,6 +1798,12 @@ tree on which it is hinging is hacked down. [4-22-32]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तॆरडनॆय सर्ग सम्पूर्णवायितु. ॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Tārā (tatas tu tārā), submerged in an ocean of calamity (vyasanārṇavaplutā), gazing upon the face of her dead husband (mṛtasya bhartur vadanaṃ samīkṣya sā), sank to the earth (jagāma bhūmim) embracing Vālin (parirabhya vālinam), like a creeper clinging to a felled mighty tree (mahādrumaṃ chinnam ivāśritā latā).
 </details>
 </details>
 

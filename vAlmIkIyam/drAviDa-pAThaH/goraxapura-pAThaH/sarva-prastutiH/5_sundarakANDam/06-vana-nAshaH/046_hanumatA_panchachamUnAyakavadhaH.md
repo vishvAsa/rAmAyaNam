@@ -72,6 +72,12 @@ of his face; *chakaara* = made; *uttamaam* = an excellent; *matim* = thought.
 Coming to know that the chief minister's sons were killed by the high souled who had
 cleverly concealed the expression made an excellent thought.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning that the ministers' sons (mantrisutān) had been slain by the great-souled monkey, Rāvaṇa, keeping his outward demeanor concealed (saṃvṛtākāraḥ), formed a supreme resolve (matim uttamām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,6 +139,14 @@ That Ravana ordered (as follows) five foremost leaders of the army viz. Virupaks
 Durdhara the demon, Praghasa and Bhasakarna, all of them brave demons, skilled in strategy, eager to
 capture Hanuma and equal to the speed of wind in battle.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** He [summoned] Virūpākṣa and Yūpākṣa, the Rākṣasa Durdhara as well, Praghasa, and Bhāsakarṇa—the five vanguard commanders of the army (senāgranāyakān)—
+
+**3:** Ten-necked Rāvaṇa (daśagrīvaḥ) commanded those heroes skilled in policy (nayaviśāradān), unflurried (avyagrān) in capturing Hanūmān and equal to the speed of the wind in battle:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -158,6 +172,12 @@ capture Hanuma and equal to the speed of wind in battle.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उसने कहा—‘सेनाके अग्रगामी वीरो! तुमलोग घोड़े, रथ और हाथियोंसहित बड़ी भारी सेना साथ लेकर जाओ और उस वानरको बलपूर्वक पकड़कर उसे अच्छी तरह शिक्षा दो ॥ ४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Go forth, all you vanguard leaders (senāgragāḥ), accompanied by a mighty host (mahābalaparigrahāḥ), together with steeds, chariots, and elephants; let that monkey be chastised (śāsyatām)!
 </details>
 </details>
 
@@ -220,6 +240,12 @@ virodhitam* = which is not out of accord with time and space.
 "Approaching that monkey, you ought to become diligent. Action should be taken by you
 which is not out of accord with time and space."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And approaching that forest-dweller (vanālayam), you must indeed remain vigilant (yattaiḥ), and an action must be executed that is unopposed to place and time (deśakālāvirodhitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -266,6 +292,12 @@ mahaabala parigraham* = putting on an extra ordinary might.
 "Judging him by his actions, I do not think him as a mere monkey. By all means, he may
 be an evil spirit, putting on an extraordinary might."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For judging by his deeds (karmaṇā prati tarkayan), I do not consider him a [mere] monkey; by all means that is a mighty being (mahad bhūtam) endowed with immense strength.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -293,6 +325,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदु कपियॆन्दु तिळिदमेलन्तू नन्न मनस्सु हॆच्चु कळवळगॊण्डिदॆ. ननगॆ तिळिदिरुव विवरणॆयन्तॆ अदु सामान्य कपियिरलारदु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing “This is a monkey,” my mind is indeed not convinced (nahi śuddhyati me manaḥ); nor do I consider him a monkey, as this account has been set forth (prastutā kathā).
 </details>
 </details>
 
@@ -352,6 +390,14 @@ Even same offensive surely, will be effected to us by them. It is such an evil s
 There is no doubt about it. Let it be captured forcibly. This monkey of a great prowess should not be
 despised by you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Or perhaps it was created by Indra (indreṇa vā sṛṣṭam) for our sake [destruction] through the power of asceticism (tapobalāt); the gods, Asuras, and great sages, together with Nāgas, Yakṣas, and Gandharvas—
+
+**9:** Were conquered by me along with all of you dispatched (prahitaiḥ) [to battle]; by them some injury (vyalīkam) must surely be contrived against us.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -381,6 +427,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरे ई कपियन्नु कळिसिरबेकु. इदरल्लि संशयवे इल्ल. आद्दरिन्द नीवॆल्लरू ईगले होगि आ कपियन्नु बलप्रयोगदिन्द बन्धिसिरि.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That very [being] is this—there is no doubt here—let it be seized by force (prasahya parigṛhyatām)! Go forth, all you vanguard leaders, accompanied by a mighty host;
 </details>
 </details>
 
@@ -433,6 +485,12 @@ Nila the Chief of army and so on like Dvivida. their scheme of performance is no
 nor their efficacy, nor their prowess, nor their intellect, nor this capacity to change their form or
 energy at will."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Together with steeds, chariots, and elephants, let that monkey be chastised! Nor must this monkey of resolute valor (dhīraparākramaḥ) be disdained (nāvamanyo) by you.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -458,6 +516,12 @@ energy at will."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जिनके नाम इस प्रकार हैं—वाली, सुग्रीव, महाबली जाम्बवान्, सेनापति नील तथा द्विविद आदि अन्य वानर ॥ १२ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For monkeys of vast valor (vipulavikramāḥ) have been seen by me formerly (pūrve): Vālin along with Sugrīva, and Jāmbavān of mighty strength;
 </details>
 </details>
 
@@ -502,6 +566,12 @@ and human beings; *na paryaaptaaH kaamam* = their desires are not accomplished.
 
 "The three worlds including Indra, celestials, demons and humans are not fit to stand
 before you in the battle-field."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Nīla the army commander (senāpatiḥ), as well as others headed by Dvivida (dvividādayaḥ)—neither is their speed so terrifying (gatir bhīmā), nor their fiery energy, nor their valor;
 </details>
 </details>
 
@@ -564,6 +634,12 @@ in strategy; *aakaaN^kSataa* = desirous of; *jayam* = a victory; *raNe* = in bat
 "Even then, the one who is skilled in strategy, desirous of a victory in a battle is
 to protect himself. Victory in a battle is indeed unreliable."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nor their intelligence, nor their strength and martial ardor (balotsāhau), nor their assumption of forms at will (rūpaparikalpanam). This must be known as a mighty entity (mahat sattvam) abiding in a monkey's form.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -583,6 +659,12 @@ to protect himself. Victory in a battle is indeed unreliable."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘भले ही इन्द्रसहित देवता, असुर, मनुष्य एवं तीनों लोक उतर आयें, वे रणभूमिमें तुम्हारे सामने ठहर नहीं सकते ॥ १५ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resorting to a great effort (prayatnaṃ mahad āsthāya), let the subduing (nigrahaḥ) of this one be accomplished! Granted (kāmam), the three worlds together with Indra, along with gods, Asuras, and mortals—
 </details>
 </details>
 
@@ -627,6 +709,12 @@ a great speed.
 All of them, having a great strength and a blaze equal to that of fire, accepting the
 orders of their king and augmenting their strength with chariots, elephants in rut, horses of extra
 ordinary swiftness and various kinds of sharp weapons, sallied forth with a great speed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Are not capable (na paryāptāḥ) of standing before you on the battlefield (raṇājire); nevertheless, by one conversant with policy (nayajñena) who desires victory in battle,
 </details>
 </details>
 
@@ -692,6 +780,14 @@ Thereafter, those valiant demons saw that Hanuma the great monkey, encircled by 
 of splendour like a rising sun, shining, standing on the archy door-way, possessing enormous energy,
 strong mental disposition and colossal strength.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** One's own self must be guarded (ātmā rakṣyaḥ) with effort, for success in war is fickle (yuddhasiddhir hi cañcalā).” Accepting the command of their lord, all those [generals] of mighty energy—
+
+**18:** Sprang forth (samutpetuḥ) with great speed, matching fire in brilliance (hutāśasamatejasaḥ), with chariots, rutting elephants (mattair nāgaiḥ), and steeds of great swiftness.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -744,6 +840,14 @@ descend; *shiras* = into the head; *tasya* = of Hanuma; *durdhareNa* = by Durdha
 
 Durdhara discharged five sharp and fierce steel arrows with a lustre of black lily-petals
 and yellow tops to descend into Hanuma's head.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** And furnished (upahitāḥ) with diverse sharp weapons and with all forces, the heroes then beheld the blazing great monkey (dīpyamānaṃ mahākapim),
+
+**20:** Garlanded with the rays of his own splendor (svatejoraśmimālinam) like the rising sun (raśmimantam ivodyantam), standing on the archway, of great speed, great determination, and great strength,
 </details>
 </details>
 
@@ -811,6 +915,12 @@ nadan* = making a sound; *vinaadayan* = reverberating; *dashadishaH* = in all di
 Pierced in the head by those fire arrows, Hanuma leapt roaring in the sky, making the
 roar reverberating in all directions.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Of great intelligence, great martial ardor, great body, and great arms. Immediately upon beholding him, all of them, stationed in all directions (dikṣu sarvāsv avasthitāḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -859,6 +969,12 @@ arrows; *abhipede* = attacked Hanuma.
 
 Then the mighty and the valiant Durdhara leapt into the sky with his chariot. Stretching
 his bow and throwing hundreds of sharp arrows, he attacked Hanuma.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rushed at him from every side (tatas tataḥ) with various dreadful missiles. Five sharp, gleaming, yellow-tipped iron arrows (pañcāyasāḥ śarāḥ), resembling blue-lotus petals (utpalapatrābhāḥ), were loosed upon his head by Durdhara.
 </details>
 </details>
 
@@ -909,6 +1025,12 @@ iva* = as the wind (warding off); *vR^iSTimantam payodam* = a rainy cloud; *payo
 Hanuma warded him off from showering the arrows on him in the sky, as the wind wards
 off a rainy cloud from raining at the end of a monsoon.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced on the head by those five arrows, that monkey leaped up (utpapāta) into the sky, roaring (nadan) and making the ten directions resound.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -958,6 +1080,12 @@ ninadam* = a roar; *bhuuyaH* = again; *vegavaan* = and swiftly; *vyavardhataH*
 Thus afflicted by that Durdhara, Hanuma then emitted a roar once again and swiftly expanded
 his body.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the heroic Durdhara of mighty strength, with his chariot and strung bow (sajjakārmukaḥ), approached (abhipede) him, scattering many hundreds of arrows.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1004,6 +1132,12 @@ up; *duuram* = from far above; *mahaavegaH* = with great speed.
 Like a mass of lightning on a mountain, Hanuma instantaneously fell on Durdhara's chariot,
 by jumping up from far above with great speed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That monkey checked (vārayāmāsa) him showering arrows in the sky, just as the wind [checks] a rain-pouring cloud (vṛṣṭimantaṃ payodam) at the close of the rainy season (payodānte).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1032,6 +1166,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 जब दुर्धर अपने बाणोंसे अधिक पीड़ा देने लगा, तब वे परम पराक्रमी पवनकुमार पुनः विकट गर्जना करने और अपने शरीरको बढ़ाने लगे ॥ २६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, being assailed (ardyamānaḥ) by that Durdhara, the valiant son of the Wind uttered a roar (ninadam) again and grew in bulk (vyavardhata).
 </details>
 </details>
 
@@ -1094,6 +1234,12 @@ the air.
 Engrossed in anger to see his fallen on the ground, the inviolable virupaksha and Yupaksha,
 the annihilators of enemies, jumped up into the air.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaping up suddenly to a great height (dūram), that monkey of mighty speed fell (nipapāta) upon Durdhara's chariot like a mass of lightning (vidyudrāśiḥ) upon a mountain.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1139,6 +1285,12 @@ the annihilators of enemies, jumped up into the air.
 
 Jumping up in the air all of a sudden those two demons struck in the chest with their
 clubs that long-armed Hanuma standing in clear sky.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, abandoning that chariot whose eight horses were crushed (mathitāṣṭāśvam) and whose axle and pole were shattered (bhagnākṣakūbaram), Durdhara fell to the ground bereft of life (tyaktajīvitaḥ).
 </details>
 </details>
 
@@ -1189,6 +1341,12 @@ prowess equal to that of Garuda the eagle; *punaH* = again; *nipapaata* = descen
 Striking down the swiftness of those violent demons, the mighty Hanuma whose prowess
 is equal to that of Garuda the eagle, again descended on to the ground.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him fallen on the earth, Virūpākṣa and Yūpākṣa, those two unassailable (durdharṣau) tamers of foes, sprang up (utpetatuḥ) filled with wrath (jātaroṣau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1238,6 +1396,12 @@ tam utpaaTya cha* = and uprooting it; *saH pavanaatmajaH* = that Hanuma; *vaanar
 Approaching a sala tree and uprooting it, that Hanuma the monkey killed those two valiant
 demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having leaped up suddenly and standing in the clear sky, that mighty-armed monkey was struck (abhihataḥ) on the chest by those two with iron maces (mudgarābhyām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1260,6 +1424,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन दोनों वेगवान् वीरोंके वेगको विफल करके महाबली हनुमान् जी वेगशाली गरुड़के समान पुनः पृथ्वीपर कूद पड़े ॥ ३१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nullifying (nihatya) the impetus of those two impetuous ones (vegavatoḥ), that mighty one swooped down (nipapāta) again to the earth, swift as Garuḍa (suparṇa iva vegitaḥ).
 </details>
 </details>
 
@@ -1305,6 +1475,12 @@ in his hand (attacked).
 
 Getting to know all those mighty three killed by Hanuma, Praghasa with a great alacrity,
 forcefully attacked Hanuma. The valiant Bhasakarna, highly enraged, attacked taking a spear in his hand.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching a sāla tree and tearing it up (samutpāṭya), that monkey, the son of the Wind, slew (jaghāna) both those heroic Rākṣasas.
 </details>
 </details>
 
@@ -1385,6 +1561,14 @@ samaprabhaH* = having his blaze similar to that of rising sun.
 With his limbs wounded by those two demons, that Hanuma with his body-hair anointed by
 blood, became enraged, with his blaze similar to that of a rising sun.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**33:** Then, learning that those three had been slain by the swift monkey (vānareṇa tarasvinā), the mighty Praghasa of great speed approached (abhipede) laughing (prahasya),
+
+**34:** And the valiant Bhāsakarṇa, infuriated (saṃkruddhaḥ), seizing a pike (śūlam); together on one side (ekataḥ) they stood facing the illustrious tiger among monkeys (kapiśārdūlam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1427,6 +1611,12 @@ of a mountain; *samR^igavyaaLa paadaam* = with its animals; serpants and trees; 
 
 Having plucked up the top of a mountain with its various animals serpents and trees,
 the heroic Hanuma the best among monkeys, killed those two demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praghasa struck (pratyapothayat) the elephant among monkeys with a sharp-pointed spear (paṭṭiśena śitāgreṇa), and the Rākṣasa Bhāsakarṇa [struck him] with a pike (śūlena).
 </details>
 </details>
 
@@ -1475,6 +1665,12 @@ _________________
 
 When those five army-generals have been killed, Hanuma then destroyed that remaining
 army.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his limbs wounded (vikṣatair gātraiḥ) by those two and his body-hair smeared with blood (asṛgdigdhatanūruhaḥ), that enraged monkey became resplendent like the newly risen sun (bālasūryasamaprabhaḥ).
 </details>
 </details>
 
@@ -1530,6 +1726,12 @@ Like Indra the thousand-eyed god destroying the demons, Hanuma destroyed the hor
 striking them with horses, the elephants with elephants, the warriors with warriors and the chariots
 with chariots.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tearing up a mountain peak (gireḥ śṛṅgam) together with its deer, beasts of prey, and trees (samṛgavyālapādapam), the heroic Hanūmān, the elephant among monkeys, slew both Rākṣasas; thoroughly crushed by the mountain peak (giriśṛṅgasuniṣpiṣṭau), those two were reduced to sesame-sized bits (tilaśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1578,6 +1780,12 @@ _________________
 
 The earth had its path-ways blocked on all sides with the elephants and the horses killed,
 with the demons killed and with the big chariots which had their axles broken.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when those five army commanders (senāpatiṣu pañcasu) had perished (avasanneṣu), the monkey destroyed (nāśayāmāsa) the remnant of that host (balaṃ tadavaśeṣam).
 </details>
 </details>
 
@@ -1634,6 +1842,12 @@ Like Yama the Time-spirit waiting for the right moment for the destruction of th
 the heroic Hanuma, killing the eminent demons and the army-generals with their troops and vehicles in
 the combat, waited for the right moment at the arch-way.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Steeds with steeds, elephants with elephants (gajair nāgān), warriors with warriors, and chariots with chariots that monkey destroyed, like the thousand-eyed Indra (sahasrākṣa iva) [destroying] Asuras.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1661,6 +1875,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सत्तु बिद्दिरुव आनॆगळिन्द, कुदुरॆगळ कळेबरगळिन्द, चूरु-चूरागि चॆल्लापिल्लियागि बिद्दिरुव महारथगळ तुण्डुगळिन्द, हतराद राक्षसर शवगळिन्द आ रणभूमियु तुम्बिहोगि ऎल्ल दारिगळू मुच्चिहोदुवु. ॥40॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By slain steeds, elephants, and horses, by great chariots with shattered axles (bhagnākṣaiḥ), and by slain Rākṣasas, the earth had its pathways blocked (ruddhamārgā) on every side.
 </details>
 </details>
 
@@ -1706,6 +1926,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तारनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having slain those heroic army commanders (dhvajinīpatīn) in battle along with their troops and mounts, the hero occupied the archway just as before (tathaiva), awaiting the moment (kṛtakṣaṇaḥ) like Time at the destruction of creatures (prajākṣaye).
 </details>
 </details>
 

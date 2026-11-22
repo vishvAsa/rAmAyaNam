@@ -72,6 +72,12 @@ esteem.
 Hearing the words of Sugreeva, Dadhimukha the monkey was pleased and offered his salutation
 with reverence to Rama, Lakshmana
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Sugrīva, the delighted (hṛṣṭaḥ) monkey Dadhimukha reverently saluted (abhyavādayat) Rāghava, Lakṣmaṇa, and Sugrīva as well.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,6 +127,12 @@ _________________
 After offering salutation to Sugreeva and to the mighty Rama and Lakshmana, that Dadhimukha
 accompanied by his valiant monkeys, sprang into the air.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed down (praṇamya) to Sugrīva and the two Rāghavas of great might (mahābalau), he sprang up into the very sky (divam evotpapāta), accompanied by valiant Vānaras.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -166,6 +178,12 @@ passed off the honey; *vepamaanaan* = and who were inwardly excited.
 
 That Dadhimukha, after entering Madhuvana, saw all the chiefs of monkeys, who were free
 from their intoxication, having passed off the honey and who were inwardly excited.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as he had come earlier, even so he departed swiftly (tvaritaṃ gataḥ); descending from the sky onto the earth, he entered that grove (tad vanaṃ praviveśa).
 </details>
 </details>
 
@@ -216,6 +234,12 @@ these gentle words; *aN^gadam* = to Angada.
 With his hands joined together for salutation, that valiant Dadhimukha approached them
 and cheerfully spoke the following gentle words to Angada.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having entered the Madhuvana, he beheld all the leaders of the monkey troops (hariyūthapān) free from intoxication (vimadān), high-spirited (uddhatān), and voiding honey-water (madhūdakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,6 +285,12 @@ in this way; *bhavantaH* = you; *pratiSheditaaH* = were prevented; *rakSibhiH*
 
 "O gentle sir! Due to their ignorance, these guards in anger obstructed you to enter
 the grove. No resentment should be harboured by you about this obstruction."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching them and folding his hollowed hands in reverence (karapuṭāñjalim), that hero spoke these gentle (ślakṣṇam) words joyfully (hṛṣṭavat) unto Aṅgada:
 </details>
 </details>
 
@@ -311,6 +341,12 @@ yuva raajaH* = are the prince; *iishasH cha* = and also the master; *asya vanasy
 
 "O exceedingly strong Angada! You are the prince and also the master of this grove. We
 have done a mistake
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O gentle prince (saumya), anger ought not to be harbored (roṣo na kartavyaḥ) over the obstruction caused by these [guards]; out of ignorance and wrath (ajñānād... krodhāt), you were held back by the wardens (rakṣibhiḥ).”
 </details>
 </details>
 
@@ -363,6 +399,12 @@ monkeys; *iha* = here.
 "O faultless Angada! After going there, I indeed informed your uncle about the arrival
 of all these monkeys here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Weary (śrāntaḥ) and arrived from afar (dūrād anuprāptaḥ), partake of your own honey (svakaṃ madhu); O hero of mighty strength, you are the crown prince (yuvarājaḥ) and the lord (īśaḥ) of this grove.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -393,6 +435,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘कपिश्रेष्ठ! मैंने पहले मूर्खतावश जो रोष प्रकट किया था, उसे आप क्षमा करें; क्योंकि पूर्वकालमें जैसे आपके पिता वानरोंके राजा थे, उसी प्रकार आप और सुग्रीव भी हैं । आपलोगोंके सिवा दूसरा कोई हमारा स्वामी नहीं है ॥ ८ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Out of folly (maurkhyāt) was anger shown earlier; that you ought to forgive (tad bhavān kṣantum arhati). For just as your father was formerly the lord of the monkey hosts (harigaṇeśvaraḥ)—”
 </details>
 </details>
 
@@ -487,6 +535,14 @@ all the monkeys here'."
 Hearing these smooth words of Dadhimukha, the eloquent Angada, the foremost among the
 monkeys, spoke to those monkeys as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** “—even so are you and Sugrīva too, and none other (nānyas tu), O best of monkeys! Having gone to your paternal uncle (pitṛvyasya), O sinless one, I reported—”
+
+**10:** “—the arrival here (ihopayānam) of all these forest-ranging monkeys (vanacāriṇām). Upon hearing of your arrival together with these forest-rangers—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -515,6 +571,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘आपके चाचा वानरराज सुग्रीवने बड़े हर्षके साथ मुझसे कहा है कि उन सबको शीघ्र यहाँ भेजो’ ॥ ११ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—he became delighted (prahṛṣṭaḥ) and not angry (na tu ruṣṭaḥ) on hearing that the grove had been ravaged (pradharṣitam). Glad at heart, your paternal uncle Sugrīva, lord of the Vānaras—”
 </details>
 </details>
 
@@ -577,6 +639,12 @@ is there.
 "The monkeys are taking, rest, after drinking the honey to their heart's content. What
 is there remaining, except to go to the place where Sugreeva my uncle is there?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—spoke unto me thus: ‘Send them all quickly (śīghraṃ preṣaya sarvāṃs tān)!’ Hearing these gentle (ślakṣṇam) words of Dadhimukha, Aṅgada—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -631,6 +699,14 @@ bhavadbhiH* = to you; *kartavye* = in what ought to be done.
 
 "I shall do whatever all the leaders of monkeys together tell me. I am obedient to you,
 in the matter of what ought to be done."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** —that foremost of monkeys (hariśreṣṭhaḥ), skilled in speech (vākyaviśāradaḥ), spoke these words to them: “O leaders of the monkey troops, I surmise (śaṅke) that this news has been heard by Rāma!”
+
+**14:** “Moreover, this [Dadhimukha] speaks out of joy (harṣād ākhyāti); by that reason (tena... hetunā) I know it for certain. Therefore, O scorchers of foes, now that our task is accomplished (kṛte kārye), it is not fitting for us to remain here.”
 </details>
 </details>
 
@@ -696,6 +772,12 @@ idam* = these words:
 Hearing the indeclinable words spoken thus by Angada, the monkeys with their pleased
 minds, spoke to him (as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having drunk honey to their heart's content (yathākāmam), the forest-rangers are invigorated (vikrāntāḥ); what else remains (kiṃ śeṣam) save going to the place where the Vānara Sugrīva abides?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -724,6 +806,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वानरपुङ्गवो! आप सब लोग मिलकर मुझसे जैसा कहेंगे, मैं वैसा ही करूँगा; क्योंकि कर्तव्यके विषयमें मैं आपलोगोंके अधीन हूँ ॥ १६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As all the foremost monkeys (haripuṅgavāḥ), assembling together (sametya), shall counsel me, even so shall I act (tathāsmi kartā); in what ought to be done (kartavye), I am dependent upon you (bhavadbhiḥ paravān aham).”
 </details>
 </details>
 
@@ -768,6 +856,12 @@ speak like this); *tava* = your; *samnatiH* = humility; *aakhyaati* = is telling
 
 "It is so worthy of you alone that you have spoken such words. None else can utter like
 this. Your humility itself is telling of your future suitableness for prosperity."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even though I am the crown prince (yuvarājo 'smi yadyapi), I am not entitled to command you (nājñāpayitum īśo 'ham); it is improper for you who have accomplished the feat (kṛtakarmāṇaḥ) to be coerced by force (balāt).”
 </details>
 </details>
 
@@ -833,6 +927,12 @@ place; *yatra* = where; *saH sugriivaH* = that Sugreeva; *avyayaH patiH hari vii
 "All of us, who reached here, are waiting for the right moment to go to that place where
 Sugreeva, the imperishable king of the heroic monkeys, is."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And hearing these supreme words (vacanam uttamam) of Aṅgada as he spoke thus, the forest-dwellers (vanaukasaḥ), delighted in mind (prahṛṣṭamanasaḥ), spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -861,6 +961,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राजन्! कपिश्रेष्ठ! स्वामी होकर भी अपने अधीन रहनेवाले लोगोंसे कौन इस तरहकी बात करेगा? प्रायः सब लोग ऐश्वर्यके मदसे उन्मत्त हो अहंकारवश अपनेको ही सर्वोपरि मानने लगते हैं ॥ १९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who else, O king, being a lord (prabhuḥ san), would speak thus, O bull among Vānaras? For everyone intoxicated by the pride of sovereignty (aiśvaryamadamattaḥ) thinks, ‘I alone am the master (sarvo 'ham iti)!’”
 </details>
 </details>
 
@@ -926,6 +1032,12 @@ monkeys; *utpetuH* = sprang; *kham* = into the air.
 While they were thus speaking; Angada replied, "Let us go." The mighty monkeys then sprang
 into the air.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And this speech is wholly worthy of you (tava... susadṛśam), and of no one else whomsoever; for your humility (sannatiḥ) proclaims your fitness for future good fortune (bhaviṣyacchubhayogyatām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -975,6 +1087,12 @@ _________________
 All those leaders of monkey-troops, like stones shot from a catapult, making the space
 space-less, followed Angada, who was springing forward.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All of us too are ready (prāptāḥ) and eager for the moment (kṛtakṣaṇāḥ) to go thither, to where that imperishable lord (patir avyayaḥ) of monkey heroes, Sugrīva, abides.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1023,6 +1141,12 @@ _________________
 
 Those monkeys with speed, sounding forth a loud noise, sprang into the sky, like clouds
 driven by the wind.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For without being commanded by you (tvayā hy anuktaiḥ), O foremost of monkeys, it is altogether impossible for the monkeys to move even a single step from another (padāt padam); we speak this truth unto you!”
 </details>
 </details>
 
@@ -1074,6 +1198,12 @@ with grief.
 Even before Angada landed there, Sugreeva, the king of monkeys spoke to the louts-eyed
 Rama, who was afflicted with grief (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As they were speaking thus, Aṅgada replied: “Well said! Let us go (sādhu gacchāma)!” Having spoken thus, those heroes of mighty strength sprang up into the sky (kham utpetuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1102,6 +1232,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 आगे-आगे अङ्गद और उनके पीछे वे समस्त वानरयूथपति उड़ने लगे । वे आकाशको आच्छादित करके गुलेलसे फेंके गये पत्थरोंकी भाँति तीव्रगतिसे जा रहे थे ॥ २४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he sprang upward, all those leaders of the monkey troops sprang up after him (utpatantam anūtpetuḥ), making the sky skyless (kṛtvākāśaṃ nirākāśam), like boulders hurled from a catapult (yantrotkṣiptā ivopalāḥ).
 </details>
 </details>
 
@@ -1169,6 +1305,12 @@ raajaH* = prince; *pravaraH* = and the most excellent; plavataam- of monkeys; *n
 "Angada, the long-armed prince and the most excellent of monkeys does not make his appearance
 before my vicinity, if the work is ruined."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing Aṅgada and the Vānara Hanūmān in front (purataḥ kṛtvā), those swift-moving (vegavantaḥ) leapers sprang suddenly into the sky (ambaram),—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1217,6 +1359,12 @@ their work; *saH* = that Angada; *bhavet diina vadanaH* = would have worn a sad 
 
 "Even if such an exploit may be possible by these monkeys who have not been able to accomplish
 their work, Angada would have worn a sad face and felt perplexed and scattered in mind."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—uttering a mighty roar (vinadanto mahānādam) like clouds driven by the wind (ghanā vāteritā yathā). When Aṅgada had nearly arrived (samanuprāpte), Sugrīva, lord of the Vānaras,—
 </details>
 </details>
 
@@ -1269,6 +1417,12 @@ O Rama; *kausalyaa suprajaaH* = the splendid son of Kausalya; *suvrata* = the vi
 "If Angada the lord f the monkeys is not rejoiced, he would not have damaged my madhuvana,
 which belongs to my father and grandfather as well as protected by my forbears. Get consoled well, O
 virtuous Rama, the splendid son of Kausalya!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—spoke to lotus-eyed (kamalalocanam) Rāma, who was burning with grief (śokasaṃtaptam): “Take comfort (samāśvasihi), bless you! The queen has been seen (dṛṣṭā devī)—there is no doubt!”
 </details>
 </details>
 
@@ -1345,6 +1499,14 @@ unchangeable; *tejaH iva* = like a splendour; *suurye* = in the sun.
 "O Rama, having a very good understanding! In Hanuma, qualities like capacity to accomplish
 any object, intelligence, strenuous effort and vigour are unchangeable, like a splendour in the sun."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** “It would not be possible for them to come here now that the appointed time has elapsed (atītasamayaiḥ); and from Aṅgada's exuberance (praharṣācca), O you of auspicious aspect, I know this for certain.”
+
+**29:** “For had the mission failed (kṛtye hi vinipātite), the mighty-armed crown prince Aṅgada, foremost of leapers (plavatām... varaḥ), would never come into my presence (na matsakāśam āgacchet).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1395,6 +1557,12 @@ progress; *tasya* = of that work; *na anyathaa* = cannot be otherwise.
 "Where Jambavan is a leader; Angada as the commander of troops and moreover Hanuma as
 the administer, the progress of that work cannot be as otherwise."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if those who had failed to accomplish their task (akṛtakṛtyānām) were to make such an approach (īdṛśaḥ syād upakramaḥ), he would have a downcast face (dīnavadanaḥ) and a bewildered, agitated mind (bhrāntaviplutamānasaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1417,6 +1585,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मेरे बाप-दादोंके इस मधुवनका, जिसकी पूर्वजोंने भी सदा रक्षा की है, कोई जनककिशोरीका दर्शन किये बिना विध्वंस नहीं कर सकता था ॥ ३१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without having seen the daughter of Janaka (adṛṣṭvā janakātmajām), he would never lay waste (na... hanyāt) my Madhuvana, inherited from father and grandfather (pitṛpaitāmaham) and guarded by our forefathers (pūrvakaiḥ).”
 </details>
 </details>
 
@@ -1465,6 +1639,12 @@ towards; *kiShkindhaam* = Kishkindha; *shushraava* = was heard; *kila kilaa shab
 the monkeys, who are proud of Hanuma's performance and who are making noise as though they are proclaiming
 about the accomplishment of their act are approaching Kishkindha Sugreeva heard certain sounds expressing
 joy, in the vicinity of the sky."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Rāma of noble vows (suvrata), Kausalyā is blessed with a noble son (kausalyā suprajāḥ); take comfort! The queen has been seen, there is no doubt—and by none other than Hanūmān (na cānyena hanūmatā)!”
 </details>
 </details>
 
@@ -1539,6 +1719,14 @@ or see Rama.
 
 Keeping Angada and Hanuma in front of them, those monkeys too arrived with their eagerness
 to see Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**33:** “For in accomplishing this task (karmaṇo... sādhane'sya), there is no other cause save Hanūmān (nānyaḥ... hanūmataḥ); in Hanūmān here abide both success and counsel (siddhiś ca matiś ca), O foremost of the wise!”
+
+**34:** “In him are firmly established (pratiṣṭhitam) both resolute enterprise (vyavasāyaś ca), valor (śauryaṃ ca), and scriptural learning (śrutaṃ cāpi). Where Jāmbavān is the leader (netā) and Aṅgada the lord of monkeys—”
 </details>
 </details>
 
@@ -1617,6 +1805,14 @@ in devotion to her husband; *akShataam* = and sound in body.
 Thereafter, the mighty armed Hanuma, offering his salutation in bending his head low,
 informed Rama that Seetha the princess is constant in devotion to Rama and sound in body.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**35:** “—and where Hanūmān too is the executor (adhiṣṭhātā), there the outcome can never be otherwise (na tatra gatir anyathā). Do not be filled with anxiety (mā bhūś cintāsamāyuktaḥ) now, O hero of measureless valor!”
+
+**36:** “For since the forest-dwellers (kānanaukasaḥ) have come together elated and triumphant (darpitodagrāḥ), there could be no such undertaking (īdṛśaḥ... upakramaḥ) on their part had they failed in their task (akṛtakāryāṇām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1684,6 +1880,14 @@ pavana aatmaje* = about the aforesaid Hanuma; (having accomplished his work).
 Thereupon, Lakshmana with love looked with reverence on the joyful Sugreeva, who earlier
 decidedly apprised about the aforesaid Hanuma, having accomplished the task.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**37:** “By the ravaging of the grove (vanabhaṅgena) and by the consuming of the honey (madhūnāṃ bhakṣaṇena ca), I know this!” Then he heard close at hand in the sky (āsannam ambare) a jubilant clamor (kilakilāśabdam)—
+
+**38:** —of the forest-dwellers roaring (nadatām), proud of Hanūmān's feat (hanūmatkarmadṛptānām), having reached Kiṣkindhā and proclaiming, as it were, their success (siddhiṃ kathayatām iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1732,6 +1936,12 @@ heroes; *upetaH* = who obtained; *parayaa* = a great; *priityaa* = joy; *avaikSh
 Rama, the annihilator of hostile heroes, who obtained a great joy, looked on Hanuma with
 a high esteem.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, hearing that roar (ninādam) of the monkeys, that foremost of monkeys [Sugrīva] became delighted at heart (hṛṣṭamānasaḥ), with his long tail gracefully curved (āyatāñcitalāṅgūlaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1760,6 +1970,12 @@ _________________
 
 शत्रुसंहारकनाद श्रीरामनु हनुमन्तन विषयदल्लि अपारवाद प्रीतियन्नु हॊन्दि अवनन्नु अत्यन्त गौरवभावदिन्द वीक्षिसिदनु.॥40॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And those monkeys too, eager to behold Rāma (rāmadarśanakāṅkṣiṇaḥ), arrived, having placed Aṅgada and the Vānara Hanūmān in front (purataḥ kṛtvā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1779,6 +1995,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वे अङ्गद आदि वीर आनन्द और उत्साहसे भरकर वानरराज सुग्रीव तथा रघुनाथजीके समीप आकाशसे नीचे उतरे ॥ ४१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those heroes headed by Aṅgada (aṅgadapramukhāḥ), thrilled with joy (prahṛṣṭāḥ) and filled with gladness (mudānvitāḥ), alighted (nipetuḥ) near the king of the monkeys and Rāghava.
 </details>
 </details>
 
@@ -1800,6 +2022,12 @@ _________________
 
 महाबाहु हनुमान् ने श्रीरघुनाथजीके चरणोंमें मस्तक रखकर प्रणाम किया और उन्हें यह बताया कि ‘देवी सीता पातिव्रत्यके कठोर नियमोंका पालन करती हुई शरीरसे सकुशल हैं’ ॥ ४२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And mighty-armed (mahābāhuḥ) Hanūmān, bowing down with his head (praṇamya śirasā), then reported (nyavedayat) to Rāghava that the queen was steadfast in her vows (niyatām) and unharmed (akṣatām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1820,6 +2048,12 @@ _________________
 
 ‘मैंने देवी सीताका दर्शन किया है’ हनुमान् जी के मुखसे यह अमृतके समान मधुर वचन सुनकर लक्ष्मणसहित श्रीरामको बड़ी प्रसन्नता हुई ॥ ४३ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing from Hanūmān's mouth the nectar-like (amṛtopamam) words, “The queen has been seen (dṛṣṭā devīti)!” Rāma together with Lakṣmaṇa attained supreme joy (harṣam āpa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1839,6 +2073,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 पवनपुत्र हनुुमान् के विषयमें सुग्रीवने पहलेसे ही निश्चय कर लिया था कि उन्हींके द्वारा कार्य सिद्ध हुआ है । इसलिये प्रसन्न हुए लक्ष्मणने प्रीतियुक्त सुग्रीवकी ओर बड़े आदरसे देखा ॥ ४४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Lakṣmaṇa, filled with affection (prītimān), gazed with high regard (bahumānād avaikṣata) upon the pleased Sugrīva, whose purpose had been fulfilled (niścitārtham) through that son of the Wind-god (pavanātmaje).
 </details>
 </details>
 
@@ -1870,6 +2110,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि अरवत्तनाल्कनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Rāghava, the slayer of hostile heroes (paravīrahā), endowed with supreme affection (prītyā ca parayopetaḥ), looked upon Hanūmān with great reverence (bahumānena mahatā).
 </details>
 </details>
 

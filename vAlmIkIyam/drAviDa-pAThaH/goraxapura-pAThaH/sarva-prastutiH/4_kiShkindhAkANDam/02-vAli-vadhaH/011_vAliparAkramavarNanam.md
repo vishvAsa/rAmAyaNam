@@ -64,6 +64,12 @@ ca* = started extolling, also.
 Sugreeva started to adore and extol Raghava on hearing the words of Rama that are
 inculcating happiness and pride. [4-11-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma's speech, which heightened his joy and valor (harṣapauruṣavardhanam), Sugrīva honored (pūjayāṃcakre) Rāghava and praised him:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +116,12 @@ worlds, you burn; *a samshayam* = no, doubt.
 "It is doubtless that you will burn down everything when you are angry, like the
 blazing sun at the end of era, with these arrows of yours that are highly blazing, incisive and
 invaders on stealthy places." Thus Sugreeva started extolling Rama. [4-11-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Without a doubt (asaṃśayam), with your blazing, sharp, vitals-piercing (marmātigaiḥ) arrows, you could consume the worlds in wrath like the sun at the dissolution of the eon (yugānta iva bhāskaraḥ)!
 </details>
 </details>
 
@@ -158,6 +170,12 @@ anantaram* = which, later to be done; *vidhatsva* = that you impose.
 "That which is impetuousness of Vali, that which is his bravery and courageousness
 are there, they may be listened from me single-mindedly, and later you impose that which need be
 imposed. [4-11-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet hear from me with an undivided mind (ekamanāḥ) what Vālin's prowess (pauruṣam) is, what his valor (vīryam) is, and what his steadfastness (dhṛtiḥ) is, and then ordain (vidhatsva) what follows thereafter.
 </details>
 </details>
 
@@ -223,6 +241,12 @@ samudrebhyaH sandhyaam anvaasya ravaNa | imam muhuurtam aayaati vaalii tiShTa mu
 ||* "Please wait Ravana, Vali comes after offering oblations in four oceans... "
 So says Tara to Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From the western ocean to the eastern, and from the southern to the northern as well, Vālin strides (krāmati) before the sun has risen (anudite sūrye), untouched by fatigue (vyapagataklamaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -270,6 +294,12 @@ again, catches.
 mighty one volleys them upwards and in turn catches them, as though they are play balls.
 [4-11-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ascending the lofty peaks and summits of mountains, that valorous one hurls them aloft (ūrdhvam utpātya) with impetuous force (tarasā) and catches (pratigṛhṇāti) them again!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -316,6 +346,12 @@ felled.
 "As a show his strength Vali used to personally fell many sturdy trees of diverse
 origin by his might. [4-11-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And displaying his own strength (balaṃ prathayatātmanaḥ), Vālin has violently snapped (tarasā bhagnāḥ) many diverse, hardwood (sāravantaḥ) trees in the forests.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -356,6 +392,12 @@ he was bearing.
 "One named Dundubhi was there in the form of a buffalo, whose size shone forth like
 Mt. Kailash and who bears the strength of a thousand elephants." Thus Sugreeva started telling
 Dundubhi's episode to Rama. [4-11-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘There was a valorous buffalo (mahiṣaḥ) named Dundubhi, gleaming like a peak of Kailāsa (kailāsaśikharaprabhaḥ), who bore the strength of a thousand elephants (balaṃ nāgasahasrasya).
 </details>
 </details>
 
@@ -403,6 +445,12 @@ samudram jagaama* = to rivers', lord - ocean, he went to.
 "He that evil-minded and colossal bodied Dundubhi was bemused by the vanity of his
 own vigour, and by the boon bestowed oo him, and once he went to the lord of rivers, namely the
 Ocean. [4-11-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wicked-minded through arrogance over his valor (vīryotsekaduṣṭātmā) and deluded by the boon he had received (varadānena mohitaḥ), that huge-bodied one went to the Ocean, lord of rivers (saritāṃ patim).
 </details>
 </details>
 
@@ -453,6 +501,12 @@ uvaaca* = thus, to him, to vastly, ocean, he spoke.
 "Deriding the garner of weaves and gems he said to that vastly ocean "give me a
 fight" [4-11-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stepping over (atikramya) the billowy (ūrmimantam) sea, that treasury of gems (ratnasaṃcayam), he said to the great ocean: “Grant me battle (mama yuddhaṃ prayaccha)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -499,6 +553,12 @@ vacanam* = said, words.
 "Then, oh, Rama, that virtue-minded and very powerful ocean rose up from his tabular
 position to heights, and spoke these words to that demon Dundubhi who is driven to doom by his own
 time. [4-11-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the righteous-souled (dharmātmā), mighty Ocean rose up (samutthāya), O king, and spoke these words to that demon impelled by fate (kālacoditam):
 </details>
 </details>
 
@@ -548,6 +608,12 @@ daasyati* = he who, to you, fight, accords; *abhi dhaasyaami* = I name him;
 
 "I am not capable to give you a fight, oh, war-expert, but I will name him who can
 give you a fight, listen." So said ocean to the demon. [4-11-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am not able (samartho nāsmi) to give you battle, O knower of warfare (yuddhaviśārada); but hear, I shall declare to you him who will grant you battle!
 </details>
 </details>
 
@@ -611,6 +677,14 @@ forests, well-know by the name Himavan, the king of mountains, and he embodies g
 cataracts, and caves, and he alone is capable to accord a matchless happiness to you in the form of
 a fight." So said ocean to Dundubhi. [4-11-12, 13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** In the great forest stands the king of mountains (śailarājaḥ), the supreme refuge of ascetics (tapasviśaraṇaṃ param), the father-in-law of Śaṅkara (śaṅkaraśvaśuraḥ), renowned by the name Himavān.
+
+**13:** “Endowed with great cascades (mahāprasravaṇopetaḥ) and abounding in caverns and mountain torrents (bahukandaranirjharaḥ), he is capable, and he is worthy of granting you matchless satisfaction (prītim atulām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -668,6 +742,14 @@ forests of Himavan like an arrow darted from bow, and that Dundubhi started to b
 and toss the rock-faces of that mountain that are like white elephants in their figuration,
 severally. [4-11-14, 15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Deeming that Ocean to be afraid (bhītam iti vijñāya), the foremost of demons sped to the forest of Himavān like an arrow shot from a bow (śaraś cāpād iva cyutaḥ).
+
+**15:** Then Dundubhi hurled (cikṣepa) down upon the ground in many ways the white crags (śvetāḥ śilāḥ) of that mountain, huge as lordly elephants (gajendrapratimāḥ), and bellowed aloud (vinanāda ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -715,6 +797,12 @@ severally. [4-11-14, 15]
 in his appearance, that Himavan spoke these words to the demon staying on his own cliff.
 [4-11-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Himavān, shaped like a white cloud (śvetāmbudākāraḥ), gentle (saumyaḥ) and of pleasing aspect (prītikarākṛtiḥ), seated upon his own peak, spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -761,6 +849,12 @@ actions - in fighting, not, skilled one.
 "It is inapt of you to annoy me, oh, virtuous Dundubhi, I am just a shelterer of
 sages, and an unskilled one in fights." So said Himavan to Dundubhi. [4-11-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘You ought not to torment (kleṣṭum arhasi) me, O Dundubhi, O lover of righteousness (dharmavatsala); for I am unskilled in the deeds of war (raṇakarmasv akuśalaḥ) and am the refuge of ascetics (tapasviśaraṇaḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -803,6 +897,12 @@ vaakyam* = said, sentence.
 
 "On hearing the words of that modest king of mountains Dundubhi's uyes are bloodshot
 and he said this sentence. [4-11-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of the wise king of mountains (girirājasya dhīmataḥ), Dundubhi, his eyes bloodshot with wrath (krodhāt saṃraktalocanaḥ), spoke these words:
 </details>
 </details>
 
@@ -853,6 +953,12 @@ who can accord; *tam aacakSva* = about him, you clarify.
 "Whether you are incapable to fight with me, or not venturing me as you are scared
 of me is not my concern, but tell me who can really give me a very combative fight,. [4-11-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘If you are incapable in battle (yuddhe 'samarthaḥ), or devoid of exertion out of fear of me (madbhayād vā nirudyamaḥ), then name (tam ācakṣva) him who would today grant battle to me who am eager to fight (yuyutsataḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -899,6 +1005,12 @@ words]; *tam asura uttamam* = to that, demon, fierce one; *krodhaat* = in anger;
 On hearing Dundubhi's arrogant words that honest Himavan being an expert in
 sentence-making, had to say angry words to that fierce demon that were never uttered by him
 earlier. [4-11-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that, the righteous-souled Himavān, skilled in speech (vākyaviśāradaḥ), out of anger (krodhāt) spoke to that foremost of demons a speech never uttered by him before (anuktapūrvam):
 </details>
 </details>
 
@@ -948,6 +1060,12 @@ matchless city, in pomp, Kishkindha, he presides over.
 
 "Oh, war-expert Dundubhi, Indra's son is there, a brave and glorious one by name
 Vali, and he is now presiding over the matchlessly pompous city Kishkindha. [4-11-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘O deeply discerning one (mahāprājña), the glorious, valorous monkey named Vālin, son of Śakra (śakraputraḥ), dwells in Kiṣkindhā of matchless splendor (atulaprabhām).
 </details>
 </details>
 
@@ -1001,6 +1119,12 @@ Indra, father of Vali, gave such a duel to one demon called Namuchi in early
 times and killed him. This Namuchi is the son of one Viprachit, who is the progeny of Kashyapa, and
 his demon-brothers are Raahu, Ketu, Vaataapi, Ilvala Naraka, Puloma and others.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wise and skilled in warfare (yuddhaviśāradaḥ), he is capable of granting you single combat (dvandvayuddham), even as Vāsava [Indra] granted it to Namuci (namucer iva vāsavaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1051,6 +1175,12 @@ karmaNi* = in war, manoeuvres; *dur marSaNaH hi* = not, assailable one, indeed.
 always be in the manoeuvres of war, and indeed none can assail him." Thus said Himavan to that
 demon Dundubhi. [4-11-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approach him swiftly if you desire battle here; for he is ever unassailable (durmarṣaṇaḥ) and a hero in the work of war (samarakarmaṇi).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1097,6 +1227,12 @@ that, city, Kishkindha, proceeded.
 "Then on hearing Himavan's words he that Dundubhi is convulsed in anger and
 proceeded to Vali's city Kishkindha.. [4-11-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the speech of Himavān, that Dundubhi, filled with wrath (kopāviṣṭaḥ), went at that time to that city of Vālin, Kiṣkindhā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1121,6 +1257,12 @@ proceeded to Vali's city Kishkindha.. [4-11-24]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु कोणनन्तॆ रूपवन्नु धरिसिद्दनु. अवन कॊम्बुगळु बहळ चूपागिद्दवु. भारी भयङ्करनाद दुन्दुभियु वर्षाकालद नीरु तुम्बिद महामेघदन्तॆ कण्डु बरुत्तिद्दनु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—wearing a buffalo form (māhiṣaṃ rūpam), sharp-horned (tīkṣṇaśṛṅgaḥ) and terrifying, like a great cloud full of water in the sky during the rainy season (prāvṛṣīva mahāmeghaḥ).
 </details>
 </details>
 
@@ -1166,6 +1308,12 @@ like; *na narda* = clamorously, na narda = bellowed.
 awe-inspiring, and like the arrival of a massive dark cloud in rainy season full with water on the
 edge of firmament, he arrived at the gateway of Kishkindha and bellowed clamorously like a war-drum
 as though to quake the earth. [4-11-25, 26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, arriving at the gate of Kiṣkindhā, the mighty Dundubhi bellowed (nanarda) like a Kettle-drum (dundubhir yathā), making the earth tremble (kampayan bhūmim),
 </details>
 </details>
 
@@ -1216,6 +1364,12 @@ elephant, as with; *ullikhan* = by goring; *[na narda* = bellowed.]
 "He bellowed uprooting trees that are rooted nearby, scooping the earth with hooves,
 and insolently goring the gateway with horns like a goring elephant. [4-11-27]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+shattering the trees growing nearby (samīpajān drumān bhañjan), tearing up the earth with his hooves (khuraiḥ), and arrogantly goring (ullikhan) that gate with his horn like an elephant (dvirado yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1265,6 +1419,12 @@ papaata* = out, fall [from chambers.]
 "Vali who by then went into his palace chambers became intolerant to hear that noise
 and fell out from there along with ladies, like the moon with stars. [4-11-28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that uproar while inside the inner apartments (antaḥpuragataḥ), the intolerant (amarṣaṇaḥ) Vālin came forth together with his women, like the moon accompanied by the stars (tārābhir iva candramāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1310,6 +1470,12 @@ dundubhim* = to him, that Dundubhi; *vyakta akSara padam* = clearly, lettered ,w
 
 "Vali being the lord of monkeys, and of all the other forest-dwellers as well, spoke
 a clearly worded brief sentence to Dundubhi. [4-11-29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vālin, lord of all forest-roaming monkeys (harīṇām īśvaraḥ), spoke to that Dundubhi a measured speech of clear syllables and words (mitaṃ vyaktākṣarapadam):
 </details>
 </details>
 
@@ -1357,6 +1523,12 @@ mighty one; *rakSa praaNaan* = save, lives [of yours.]
 "Oh, Dundubhi, impeding the gateway of this city what for you are bellowing, I know
 you, oh, might one, save your lives." Vali cautioned that demon that way. [4-11-30]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Why do you block this city gate and bellow aloud (vinardase)? O Dundubhi, you are known to me (vidito me 'si); save your life (rakṣa prāṇān), O mighty one!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1397,6 +1569,12 @@ hearing; *dundubhiH krodhaat samrakta locanaH* = Dundubhi became, in anger, bloo
 "On hearing that sentence of Vali, the tactful lord of monkeys, Dundubhi said this
 sentence with his eyes bloodshot in anger." Thus Sugreeva continued his narration to Rama.
 [4-11-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of the wise lord of monkeys, Dundubhi, his eyes bloodshot with wrath (krodhāt saṃraktalocanaḥ), spoke these words:
 </details>
 </details>
 
@@ -1444,6 +1622,12 @@ j~naasyaami* = then, your, might, I will know, I appreciate.
 "It is inapt of you to speak words in the vicinity of ladies, oh, valiant Vali, give
 me a duel now and then I can appreciate your might." [4-11-32]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘O hero, you ought not to utter such a boastful speech in the presence of women (strīsaṃnidhau)! Grant me battle today, and then I shall know your strength!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1490,6 +1674,12 @@ gratifications; *gR^ihyataam* = be taken up - delight yourself.
 "Otherwise I bear up my rage for this night, oh, monkey, you may unrestrainedly
 delight yourself till morning in your voluptuous gratifications, for you are now surrounded by your
 ladies." [4-11-33]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Or else, I shall restrain (dhārayiṣyāmi) my wrath today for this one night (niśām imām); let your indulgence in sensual pleasures (kāmabhogeṣu) be enjoyed freely (svairam) until sunrise (udayaḥ), O monkey!
 </details>
 </details>
 
@@ -1540,6 +1730,12 @@ tree-branch, animal's, you being the king; *su hR^it janam* = your good, hearted
 "Also embrace all the monkeys and bequeath endowments to them, and you may bid adieu
 to all the good-hearted people of yours for you are the king of all the tree-branch animals, as you
 may not see them later. [4-11-34]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let parting gifts (sampradānam) be bestowed after embracing the monkeys; as lord of all tree-dwellers (sarvaśākhāmṛgendraḥ), bid farewell to your circle of friends (saṃsādaya suhṛjjanam).
 </details>
 </details>
 
@@ -1592,6 +1788,12 @@ shaasanaH* = I am, your, egotism, destroyer.
 equalling you as in charge of city, and also rejoice with the females till sunrise as there is no
 tomorrow to you. [4-11-35]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gaze well (sudṛṣṭāṃ kuru) upon Kiṣkindhā, appoint someone equal to yourself (ātmasamam) in the city, and sport together with your women—for I am the chastiser of your pride (darpaśāsanaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1634,6 +1836,12 @@ on par with those that are not to be killed.
 "He who kills a drunken one, unvigilant one, defeated one, or one without weapons,
 or an atrophied one, he get the sin of foeticide in the world, and your present state is suchlike."
 Dundubhi incited Vali in this way. [4-11-36]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For whoever would slay one who is intoxicated (mattam), or heedless (pramattam), or broken (bhagnam), or unarmed (rahitam), or emaciated—one deluded by passion (madamohitam) like you—he would be a slayer of a Brahmin (bhrūṇahā) in the world!’
 </details>
 </details>
 
@@ -1684,6 +1892,12 @@ demon, lord; *krodhaat* = in anger; *abraviit* = spoke.
 "Then Vali laughed that demon off, discharged all the females namely Tara and
 others, and then he spoke to that stupid lord of demons in anger. [4-11-37]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dismissing (visṛjya) all those women led by Tārā (tārāprabhṛtikāḥ) at that time, he laughed softly (prahasyābravīn mandam) in wrath and spoke to that lord of demons:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1731,6 +1945,12 @@ paanam samarthyataam* = as gallant's, toast, be regarded.
 drunkenness of mine as the toast of a gallant fighter in this deadly fight." Vali said so to
 Dundubhi. [4-11-38]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Do not think (mā maṃsthāḥ), “This one is intoxicated (matto 'yam),” if you are unafraid in battle! Let this intoxication be reckoned (samarthyatām) as the hero's draught (vīrapānam) in this combat!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1777,6 +1997,12 @@ Dundubhi. [4-11-38]
 "Saying that way to that Dundubhi that highly enraged Vali heaved up the golden
 chest-pendant around his neck on to his chest, which was given by his father Mahendra, and stood
 firm for fight. [4-11-39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to him in fierce wrath, lifting up the golden garland (mālām utkṣipya kāñcanīm) given by his father Mahendra, he stood ready for battle (yuddhāya vyavatiṣṭhata).
 </details>
 </details>
 
@@ -1826,6 +2052,12 @@ booming; *aavidhyata* = [whirled and] bumped on ground.
 
 "Then that elephantine monkey Vali took that mountain-similar Dundubhi by horns, and
 booming highly he whirled and bumped him onto ground. [4-11-40]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seizing that mountain-like Dundubhi by both horns (viṣāṇayor gṛhītvā), Vālin, that elephant among monkeys (kapikuñjaraḥ), whirled him around (āvidhyata), roaring aloud;
 </details>
 </details>
 
@@ -1877,6 +2109,12 @@ his [Dundubhi's,] from two ears [of Dundubhi,] blood, gushed out.
 ground, and while Dundubhi was hurled and thrown to ground, blood gushed out of his two ears.
 [4-11-41]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+with might he dashed him down (vyāpādayāṃcakre) and uttered a tremendous roar; and as he was being hurled down (pātyataḥ), blood gushed (susrāva) from both his ears (śrotrābhyām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1923,6 +2161,12 @@ occurred.
 "There occurred a gruesome fight among those two, Dundubhi and Vali, who by their
 fury are impetuous and who aspired victory over the other. [4-11-42]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, out of the fury of their wrath (krodhasaṃrambhāt), a dreadful battle arose between those two—Dundubhi and Vālin—each eager for victory over the other (parasparajayaiṣiṇoḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1968,6 +2212,12 @@ fought.
 
 "Then Vali who is similar to Indra in his fortitude fought with him with his fists,
 knees and feet, and like that with boulders and trees. [4-11-43]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Vālin, equal in valor to Śakra (śakratulyaparākramaḥ), fought with his fists, knees, and feet (muṣṭibhir jānubhiḥ padbhiḥ), as well as with boulders and trees.
 </details>
 </details>
 
@@ -2023,6 +2273,12 @@ Vali does not wear the same chest pendent when fighting with Sugreeva when kille
 it is said, Vali wanted to punish Sugreeva that which is befitting to an errant younger brother,
 but Vali never considered Sugreeva as a real threat or an enemy to the core.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the monkey and the demon smote each other (parasparaṃ ghnatoḥ) there at that time, the demon grew exhausted (āsīd dhīnaḥ) in the fray while the son of Śakra waxed mightier (vyavardhata)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2068,6 +2324,12 @@ piSTaH* = completely pounded out.
 
 "In that life-taking fight when Dundubhi is lifted up and flung to ground, he is
 completely pounded out. [4-11-45]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lifting up (udyamya) that Dundubhi, he hurled him down (abhyapātayat) upon the earth; in that life-destroying combat, Dundubhi was crushed to pulp (niṣpiṣṭaḥ) at that time.
 </details>
 </details>
 
@@ -2126,6 +2388,12 @@ The 'fifth state' of a living being is death, where the other four states are [1
 *suSupta avastha,* deep sleep, [4 * turriya avastha,* fourth
 state, that which is above the three preceding states. Then the fifth state is death.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From the orifices (srotobhyaḥ) of him as he was dashed down, much blood gushed forth; and the mighty-armed one fell upon the ground, having met his death (pañcatvam āgataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2175,6 +2443,12 @@ length, hurled.
 "Then the hastiest Vali swayed that dead and inanimate demon with both of his hands
 and hurled him a yojana distance in a single flick. [4-11-47]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hefting (tolayitvā) with both arms that lifeless, unconscious (gatasattvam acetanam) body, the swift Vālin hurled (cikṣepa) it a full yojana (yojanam) with a single impulse (vegenaikena)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2220,6 +2494,12 @@ Matanga's, hermitage, towards pra petuH = fallen.
 
 "And while he is thrown that hastily blood drops oozed from his mouth, and flung by
 air they fell in the hermitage of sage Matanga. [4-11-48]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From the mouth of him who had been hurled with such force (vegapraviddhasya), drops of blood (kṣatajabindavaḥ), tossed aloft by the wind (mārutotkṣiptāḥ), fell toward the hermitage of Mataṅga (mataṅgasyāśramaṃ prati).
 </details>
 </details>
 
@@ -2271,6 +2551,12 @@ blood; *kruddhaH* = enraged; *ayam kaH nu* = he, who is, indeed [thus as];
 "On seeing the blood drops fallen there, oh Rama, that sage is enraged and thought,
 'who is he indeed, who dropped the blood...' Thus Sugreeva narrated to Rama. [4-11-49]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing those drops of blood (śoṇitavipruṣaḥ) fallen there, the illustrious sage grew wrathful (kruddhaḥ) with him and reflected (cintayāmāsa): ‘Who indeed is this—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2318,6 +2604,12 @@ disobedient one; *kaH ayam baalishaH* = who is, this, child-like [reckless one.]
 evil-minded one? Who is that malevolent, disobedient and a reckless one?' Thus the sage Matanga
 pondered. [4-11-50]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+by which wicked-souled one (durātmanā) I have suddenly been spattered with blood (spṛṣṭaḥ śoṇitena)? Who is this evil-minded, perverse, unchastened (akṛtātmā), and childish fool (bāliśaḥ)?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2364,6 +2656,12 @@ aakaaram mahiSam dadR^ishe* = mountain, in shape, buffalo, he has seen,
 "Thinking thus and coming out of hermitage that celebrated sage has seen the
 mountainous buffalo fallen on ground lifelessly. [4-11-51]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus and stepping forth (viniṣkramya), that best of sages beheld the mountain-sized buffalo lying lifeless (gatāsum) upon the ground.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2406,6 +2704,12 @@ prati* = who tossed, that monkey, towards him; *mahaa shaapam* = great, curse;
 
 "On knowing by his ascetic power that this deed is done by the monkey, he released a
 great curse on him who tossed the cadaver of buffalo. [4-11-52]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Discerning through his ascetic power (vijñāya tapasā) that this had been done by a monkey, he uttered a mighty curse (mahāśāpam) against the monkey who had hurled (kṣeptāram) it:
 </details>
 </details>
 
@@ -2455,6 +2759,12 @@ bhavet* = if enters, fatality, occurs.
 
 "Untreadable is this sheltering wood of mine to him who has stained it with squirts
 of blood, and if he enters this place peradventure, fatality occurs on him. [4-11-53]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘This forest, my refuge (matsaṃśrayam), must not be entered by him (tenāpraveṣṭavyam) by whom it has been defiled with streams of blood (rudhirasravaiḥ); should he enter, his death shall ensue (praviṣṭasya vadho bhavet)—
 </details>
 </details>
 
@@ -2511,6 +2821,12 @@ vyaktam* = he, will not, exists, evidently.
 ought not set his foot in a distance of one full yojana around this hermitage, and if that
 evil-minded one places his foot then he evidently does not exist. [4-11-54, 55a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and by whom, in hurling this demon's carcass (kṣipatā... āsurīṃ tanum), these trees have been shattered—if within a full yojana all around my hermitage (samantād āśramaṃ pūrṇaṃ yojanam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2554,6 +2870,14 @@ themselves with my mercy.
 "And some of his friends that are dependent on my woods shall not live here and they
 may depart on hearing my words and solace themselves with my words. [4-11-55b, 56a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**55:** ‘—that perverse-minded one (durbuddhiḥ) should come, manifestly he shall cease to exist (vyaktaṃ sa na bhaviṣyati)! And whatever followers (sacivāḥ) of his have resorted to my forest,
+
+**56:** they too must not dwell here; having heard this, let them depart at their ease (yathāsukham). Or if they remain here, I shall assuredly curse them as well (śapiṣye tān api dhruvam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2596,6 +2920,12 @@ vaa* = fruits, tubers, for non-existence, also, or; *tiSTanti yadi* = stay behin
 wish to stay behind in this forest alone for further destruction of leaves or sprouts, or even for
 the non-existence of fruits and tubers of this forest, defiantly they too will be cursed.
 [4-11-57]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In this forest of mine, ever cherished like a son (putravat parirakṣite), [they dwell] to the destruction of leaves and shoots (patrāṅkuravināśāya) and the ruin of fruits and roots (phalamūlābhavāya ca).
 </details>
 </details>
 
@@ -2643,6 +2973,12 @@ bhaviSyati vai* = he, stone, he becomes, [petrified.] indeed.
 "And today is the day of limit and the monkey whom I will see tomorrow, he will be
 petrified for many thousand years to come. [4-11-58]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today's daytime is the limit (divasaś cādya maryādā): whatever monkey I shall behold tomorrow (śvaḥ), he shall assuredly become a rock (śailo bhaviṣyati) for many thousands of years!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2689,6 +3025,12 @@ them, on seeing, Vali, spoke.
 "Then those monkeys on hearing the clear wording of the sage started out from that
 forest, and on their coming to Kishkindha, Vali saw them and spoke this way to them. [4-11-59]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, hearing the words uttered by the sage (giraṃ munisamīritām), those monkeys went forth (niścakramuḥ) from that forest; and seeing them, Vālin spoke:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2733,6 +3075,12 @@ samastaaH* = you, all; *kim mat samiipam anupraaptaa* = why, in my, presence, ar
 
 " 'Why all of you dwellers of Matanga forest arrived in my presence, even so, are
 you the dwellers of that forest safe?' Thus Vali asked all. [4-11-60]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Why have all of you dwellers of Mataṅga's forest (mataṅgavanavāsinaḥ) come together into my presence? Is all well (api svasti) with the forest-dwellers?’
 </details>
 </details>
 
@@ -2779,6 +3127,12 @@ chest]; *shashamsuH* = reported.
 
 "Then all of those monkeys have reported to Vali, the one with a golden
 chest-pendant, all the reasons for their exit, likewise the curse to Vali. [4-11-61]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then all those monkeys reported (śaśaṃsuḥ) to Vālin, wearer of the golden garland (hemamāline), the entire cause (kāraṇaṃ sarvam) as well as the curse upon Vālin.
 </details>
 </details>
 
@@ -2829,6 +3183,12 @@ approaching; *yaacate sma* = begged, he has.
 "Then on hearing all those words narrated by monkeys Vali approached that great sage
 and begged of him on becoming humble with palm-fold. [4-11-62]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that report uttered by the monkeys at that time, Vālin approached the great sage and implored him with folded hands (yācate sma kṛtāñjaliḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2874,6 +3234,12 @@ went into.
 
 "The sage inconsiderate of Vali's request withdrew into hermitage, and fearing to
 bear the brunt of the curse Vali was distraught and withdrew from that place. [4-11-63]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disregarding (anādṛtya) him, the great sage withdrew into his hermitage; and Vālin, terrified of incurring the curse (śāpadhāraṇabhītaḥ), fell into utter agitation (vihvalatāṃ gataḥ).
 </details>
 </details>
 
@@ -2922,6 +3288,12 @@ wishes to.
 "Then, dreaded by the fear of curse that monkey Vali does not aspire to enter the
 great mountain Rishyamuka, oh, people's lord, Rama, or he does not even wish to look at it." Thus
 Sugreeva continued his narration. [4-11-64]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thenceforth, terrified by fear of the curse (śāpabhayād bhītaḥ), the monkey does not wish to enter the great mountain Ṛṣyamūka, or even to look upon it (draṣṭuṃ vāpi), O lord of men!
 </details>
 </details>
 
@@ -2972,6 +3344,12 @@ caraami* = I am moving.
 "Knowing the inaccessibility of this forest to him I got rid of my agony, Rama, and
 I move here about in this great forest along with my ministers. [4-11-65]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing his non-entry (tasyāpraveśam), O Rāma, I roam this vast forest together with my ministers, free from despondency (viṣādena vivarjitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3017,6 +3395,12 @@ prakaashate* = shining forth.
 
 "This huge heap of bones that is shining forth like a mountaintop is that of
 Dundubhi, which Vali once hurled by the vanity of his valour. [4-11-66]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And here gleams (samprakāśate) the vast, mountain-peak-like (girikūṭanibhaḥ) heap of bones (asthinicayaḥ) of that Dundubhi, who was cast down through arrogance over his valor (vīryotsekān nirastasya)!
 </details>
 </details>
 
@@ -3064,6 +3448,12 @@ to make it; *ghaTate* = will be trying, or he is capable.
 "Also these are the seven enormous sala trees full with their branches, and Vali is
 capable to make each of them leafless by his vigour, of course, one at a time. [4-11-67]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And here stand seven huge sāla trees (vipulāḥ sālāḥ sapta) with low-hanging branches (śākhāvalambinaḥ), among which Vālin is able by his sheer strength (ojasā) to strip a single one of its leaves (niṣpatrayitum)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3110,6 +3500,12 @@ capable to make each of them leafless by his vigour, of course, one at a time. [
 "Oh, Rama, I am apprising all this to tell about the unequalled vitality of Vali,
 and oh, king, then how is it possible for you to eliminate Vali in war." Thus Sugreeva enquired
 with Rama. [4-11-68]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This matchless valor (asamaṃ vīryam) of his has now been set forth by me, O Rāma; how then will you be able to slay (hantuṃ śakṣyase) that Vālin in battle, O king?’
 </details>
 </details>
 
@@ -3159,6 +3555,12 @@ killing, you have confidence.
 
 When Sugreeva spoke that way Lakshmana a little smiled and asked him, "On performing
 which act do you confide in the possibility of Vali's elimination?" [4-11-69]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Smiling (prahasan) at Sugrīva as he spoke thus, Lakṣmaṇa said: ‘Upon the accomplishment of what deed (kasmin karmaṇi nirvṛtte) would you trust (śraddadhyāḥ) in the slaying of Vālin?’
 </details>
 </details>
 
@@ -3243,6 +3645,14 @@ dead, I construe.
 "If Rama can rend one tree out of the seven with only one arrow, then on seeing
 Rama's valour I can construe that Vali is utterly dead at his hand. [4-11-71]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**70:** Then Sugrīva said to him: ‘Of old, Vālin repeatedly (asakṛt) shook and pierced (vivyātha) these seven sāla trees one by one (ekaikaśaḥ) in just this manner.
+
+**71:** Should Rāma cleave (nirdārayet) even a single tree among these with a single arrow (bāṇenaikena), then upon beholding Rāma's valor I would reckon Vālin already slain (nihatam manye)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3290,6 +3700,12 @@ bow-lengths]; *prakSipet ca api* = kicks and throws, also, even.
 his foot, and makes it fall at a distance of two hundred bow-lengths, I can confide." So said
 Sugreeva to Lakshmana. [4-11-72]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And, O Lakṣmaṇa, should he with a single foot (pādenaikena) lift up the skeleton of this slain buffalo and hurl (prakṣipec cāpi) it with force two hundred bow-lengths (dve dhanuḥśate)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3335,6 +3751,12 @@ words, spoke.
 
 Sugreeva paused for a while on saying thus to Rama, for Rama's eye-corners are
 reddened with anger towards Vali, and then Sugreeva again spoke to Rama. [4-11-73]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to Rāma, whose eyes were reddish at the corners (raktāntalocanam), Sugrīva reflected (dhyātvā) for a moment and once again addressed Kākutstha:
 </details>
 </details>
 
@@ -3382,6 +3804,12 @@ defeated.
 "Vali is a mighty monkey, an intrepid one, who esteems his own intrepidity, and one
 who is well renowned by his might and tenacity, and in combats he is an undefeated one.
 [4-11-74]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘The monkey Vālin is a hero (śūraḥ), esteemed by heroes (śūramānī), of renowned strength and prowess (prakhyātabalapauruṣaḥ), mighty, and undefeated in battles (saṃyugeṣv aparājitaḥ).
 </details>
 </details>
 
@@ -3432,6 +3860,12 @@ Rishyamuka, depended upon - took shelter.
 "His deeds that are impracticable even for gods are obvious, and scared for
 recollecting them I took shelter of Mt. Rishyamuka. [4-11-75]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And his deeds are seen to be difficult of accomplishment even for the gods (duṣkarāṇi surair api)—pondering which, I have in terror taken refuge upon Ṛṣyamūka.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3481,6 +3915,12 @@ _________________
 "Concluding that the lord of monkeys Vali to be an unconquerable, unattackable,
 unsympathetic one I am not leaving this Mt. Rishyamuka. [4-11-76]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brooding upon that unconquerable (ajayyam), unassailable (adhṛṣyam), and unforgiving (amarṣaṇam) lord of monkeys, I never leave this Mount Ṛṣyamūka!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3526,6 +3966,12 @@ mahaavane* = moving about, in great forest.
 
 "I am moving about these forests along with earnest ministers like Hanuma and other
 significant ones, only because I am disconcerted and sceptical of him. [4-11-77]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trembling (udvignaḥ) and apprehensive (śaṅkitaḥ), I roam in the great forest together with my devoted, excellent ministers headed by Hanumān (hanumatpramukhair varaiḥ).
 </details>
 </details>
 
@@ -3574,6 +4020,12 @@ Himavan, like, in you, I take shelter.
 hence I take shelter in you, oh, tigerly man, for you are the final resort for those seeking
 salvation, like Mt. Himavan. [4-11-78]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And now, O lover of friends (mitravatsala), a praiseworthy, noble friend (ślāghyaṃ sanmitram) has been gained by me; O tiger among men, I have taken refuge in you as in Mount Himavān!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3621,6 +4073,12 @@ imprecise.
 "I know the might of that mighty brother-the-malice of mine, and oh, Raghava, but
 your valour in combat is imprecise to me." [4-11-79]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Yet I know the strength (balajño 'ham) of that wicked brother (durbhrātuḥ) of mighty power, whereas your valor in battle is unseen by me (apratyakṣaṃ tu me vīryam), O Rāghava!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3666,6 +4124,12 @@ kaataryam janitam* = to me, cowardice, caused.
 
 "Definitely I am neither examining, nor demeaning, nor intimidating you, but his
 macabre exploits caused cowardice in me. [4-11-80]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Truly I do not weigh you in the balance (na khalv ahaṃ tvāṃ tulaye), nor do I slight you (nāvamanye), nor do I seek to frighten you (na bhīṣaye); rather, timidity (kātaryam) has been bred in me by his dreadful deeds!
 </details>
 </details>
 
@@ -3713,6 +4177,12 @@ covered, as with, fire; *param tejaH suuchayanti* = sublime, radiance, they deno
 "It is definite, oh, Raghava, your word, courage, and physique denote some sublime
 radiance in you, as with ash covered fire." So said Sugreeva to Rama. [4-11-81]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuredly (kāmam), O Rāghava, your speech, stature (pramāṇam), steadfastness (dhairyam), and bearing (ākṛtiḥ) betoken (sūcayanti) supreme energy (paraṃ tejaḥ), like fire concealed beneath ashes (bhasmacchannam ivānalam)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3758,6 +4228,12 @@ uvaacha* = replied.
 
 On hearing that word of great-souled Sugreeva, Rama smilingly replied that monkey in
 his turn. [4-11-82]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of the high-souled Sugrīva, Rāma, smiling first (smitapūrvam), replied to the monkey:
 </details>
 </details>
 
@@ -3805,6 +4281,12 @@ utpaadayaami* = in you, I shall cause - ingrain.
 "If you are unable to confide in the intrepidity of ours, oh, monkey, I shall
 ingrain commendable confidence in you with respect to our action." Thus Rama said to Sugreeva.
 [4-11-83]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘If you do not have confidence (pratyayaḥ) in our valor (asmāsu vikrame), O monkey, I shall right now produce for you a praiseworthy proof (pratyayaṃ ślāghyam) in regard to battle!’
 </details>
 </details>
 
@@ -3868,6 +4350,14 @@ elder brother of Lakshmana sportively flipped the skeleton of Dundubhi with his 
 flicked that withered body of the demon with his big toe itself to a ten yojana distance without
 lifting his foot. [4-11-84, 85]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**84:** Having spoken thus and consoling (sāntvayan) Sugrīva, Rāghava, the elder brother of Lakṣmaṇa, playfully (līlayā) with the big toe of his foot (pādāṅguṣṭhena)—
+
+**85:** hefting (tolayitvā) the dried-up carcass (tanuṃ śuṣkām) of the demon Dundubhi with his big toe, the mighty-armed, valorous one hurled (cikṣepa) it ten yojanas (daśayojanam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3919,6 +4409,12 @@ Then on seeing at the hurled body, and at valiant Rama who by now is like the
 blazing sun, again Sugreeva said this meaningful word to Rama in the presence of Lakshmana and
 other monkeys. [4-11-86]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the body hurled, Sugrīva once again spoke before the monkeys to the heroic Rāma, who was blazing like the sun (tapantam iva bhāskaram) before Lakṣmaṇa, this meaningful speech (vacanam arthavat):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3944,6 +4440,12 @@ other monkeys. [4-11-86]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सखे! मेरा भाई वाली उस समय मदमत्त और युद्धसे थका हुआ था और दुन्दुभिका यह शरीर खूनसे भीगा हुआ, मांसयुक्त तथा नया था । इस दशामें उसने इस शरीरको पूर्वकालमें दूर फेंका था ॥ ८७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Of old, O friend, when this body was wet with blood (ārdraḥ), full of flesh (samāṃsaḥ), and freshly slain (pratyagraḥ), it was hurled at that time by my brother Vālin, even when he was exhausted (pariśrāntena) and intoxicated (mattena)!
 </details>
 </details>
 
@@ -4007,6 +4509,12 @@ merrily - energetically, by you, this way, flipped.
 "Raghava, now this body is sleazy, without flesh, also rendered into a strawy
 condition, and oh, Raghu's delight, you too flipped it because you are now energetic. [4-11-88]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Now, however, O Rāghava, it is light (laghuḥ), devoid of flesh (nirmāṃsaḥ), and reduced to a mere blade of grass (tṛṇabhūtaś ca), and has been hurled thus in high spirits (praharṣeṇa) by you, O delight of the Raghus!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4054,6 +4562,12 @@ it.
 "If it be said something is wet or dried up there chances a lot of difference, oh,
 Raghava, thereby it may not be possible to assess whether you might is greater or his, as the
 gravity of the case depends much on that wetness or dryness alone, isn't it." [4-11-89]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Here it is impossible to know whether your strength or his is greater (tava vā tasya vādhikam); for between what is wet and what is dry (ārdraṃ śuṣkam iti), O Rāghava, there is a vast difference (sumahad antaram)!
 </details>
 </details>
 
@@ -4103,6 +4617,12 @@ evident, they will be.
 superior or his, and if a single sala tree is ripped in an outright manner the ability or otherwise
 will be evident. [4-11-90]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That very same doubt (sa eva saṃśayaḥ) remains, O dear one, as to your strength and his; only by piercing (vinirbhidya) a single sāla tree will there be clear proof of strength and weakness (vyaktir balābale).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4148,6 +4668,12 @@ you release.
 
 "String the bowstring to this bow of yours, an alternate of elephant's trunk, and
 stretch it out up to your ear, and release a great arrow. [4-11-91]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stringing (kṛtvā sajyam) this bow, outstretched like an elephant's trunk (hastihastam ivātatam), and drawing it to the full reach of your ear (ākarṇapūrṇam āyamya), loose a mighty arrow (visṛjasva mahāśaram)!
 </details>
 </details>
 
@@ -4207,6 +4733,12 @@ enough, is thinking; *dhruvam mama priyam kuruSva* = definitely, to me, favour, 
 "Darted by you your arrow will rip off this sala tree, oh, king, there is no doubt
 in that matter, enough is this thinking of yours and you will definitely do me this favour, I pray
 and swear upon me." [4-11-92]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For there is no doubt here that an arrow sped by you (prahitas tvayā śaraḥ) will cleave (vidārayiṣyati) this sāla tree! Enough of deliberation (alaṃ vimarśena); assuredly do me this favor, O king, conjured by my oath (pratiśāpito mayā)!
 </details>
 </details>
 
@@ -4272,6 +4804,12 @@ among all men for your unique valour." So said Sugreeva to Rama. [4-11-93]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हन्नॊन्दनॆय सर्ग सम्पूर्णवायितु. ॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For just as the sun is ever foremost among luminaries (yathā hi tejaḥsu varaḥ sadā raviḥ), just as Mount Himavān is foremost among great mountains, and just as the lion (kesarī) is foremost among quadrupeds, so are you foremost among men in valor (narāṇām asi vikrame varaḥ)!’
 </details>
 </details>
 

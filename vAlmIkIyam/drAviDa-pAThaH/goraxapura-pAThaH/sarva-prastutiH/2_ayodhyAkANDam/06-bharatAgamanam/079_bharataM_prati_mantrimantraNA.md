@@ -68,6 +68,12 @@ spoke; *vaakyam* = (the following) words; *bharatam* = to Bharata.
 Thereafter, early in the morning on the fourteenth day, the king-makers coming
 together, spoke to Bharata the following words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, at the hour of dawn on the fourteenth day (tataḥ prabhāta-samaye divase 'tha caturdaśe), the kingmakers assembled and spoke these words to Bharata (sametya rāja-kartāro bharataṃ vākyam abruvan):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -136,6 +142,14 @@ has not yet missed the mark; *anaayakam* = even without a king.
 "O, the highly illustrious prince! From now on, do you be our king. Fortunately,
 this kingdom has not yet missed the mark, even without a king."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “Having banished eldest Rāma and Lakṣmaṇa of mighty strength (rāmaṃ pravrājya vai jyeṣṭhaṃ lakṣmaṇaṃ ca mahā-balam), Daśaratha, who was our most venerable preceptor and lord, has gone to heaven (gato daśarathaḥ svargaṃ yo no gurutaro guruḥ).
+
+**3:** “O prince of great renown, become our king today (tvam adya bhava no rājā rāja-putra mahā-yaśaḥ)! Even though left without a ruler, this kingdom has not fallen into ruin, thanks to our concord and providence (saṅgatyā nāparādhnoti rājyam etad anāyakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -183,6 +197,12 @@ ministers); *shreNayashcha* = and the citizens; *pratiikshante* = are amiting;
 "O, prince Bharata! Taking all the things needed for coronation, your own people
 (the counsellers and the ministers) as well as the citizens are awaiting for you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having procured all these requisites for the royal consecration, O Rāghava (abhiṣecanikaṃ sarvam idam ādāya rāghava), your kinsmen and the guilds of citizens await you, O king’s son (pratīkṣate tvāṃ sva-janaḥ śreṇayaś ca nṛpātmaja).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,6 +248,12 @@ coronate; *aatmaanam* = yourself; *paahicha* = and rule; *asmaan* = us.
 
 "O, Bharata the excellent among men! Take over the stable kingdom, which came in
 succession from your ancestors, coronate yourself and rule us."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Accept this assured kingdom of your father and grandfather, O Bharata (rājyaṃ gṛhāṇa bharata pitṛ-paitāmahaṃ dhruvam); have yourself consecrated and protect us, O bull among men (abhiṣecaya cātmānaṃ pāhi cāsmān nararṣabha)!”
 </details>
 </details>
 
@@ -276,6 +302,12 @@ around all; *bhaaN^Dam* = the things; *abhiSechanikam* = required for consecrati
 The firmly resolute Bharata performed circumambulation clockwise around all the
 things kept ready for consecration and replied to all those people as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reverently circumambulated all the vessels and regalia of consecration (abhiṣecanikaṃ bhāṇḍaṃ kṛtvā sarvaṃ pradakṣiṇam), Bharata, firm in his vow, answered all those people (bharatas taṃ janaṃ sarvaṃ pratyuvāca dhṛta-vrataḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -323,6 +355,12 @@ kulasya* = of our clan; *bhavantaH* = you; *kushalaaH* = the conversant;
 "It is indeed appropriate to bestow kingship always to the eldest of our clan. You,
 being the conversant people, ought not to tell in this manner to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In our race, kingship is ever the rightful due of the eldest brother (jyeṣṭhasya rājatā nityam ucitā hi kulasya naḥ); wise men as you are, you ought not to speak thus to me (naivaṃ bhavanto māṃ vaktum arhanti kuśalā janāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -368,6 +406,12 @@ paN^chacha* = for fourteen; *varSaaNi* = years.
 
 "Our eldest brother, Rama will become the king. I then will reside in the forest for
 fourteen years."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rāma, our elder brother, shall surely be the lord of the earth (rāmaḥ pūrvo hi no bhrātā bhaviṣyati mahī-patiḥ), while I shall dwell in the forest for nine years and five (ahaṃ tv araṇye vatsyāmi varṣāṇi nava pañca ca).
 </details>
 </details>
 
@@ -415,6 +459,12 @@ forest.
 
 "Let a great and exceptionally powerful army consisting of all the four limbs be
 kept ready. I shall bring Rama our elder brother from the forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let the great fourfold army of mighty strength be marshaled (yujyatāṃ mahatī senā caturaṅga-mahā-balā)! I myself shall bring back my eldest brother Rāghava from the forest (ānayiṣyāmy ahaṃ jyeṣṭhaṃ bhrātaraṃ rāghavaṃ vanāt).
 </details>
 </details>
 
@@ -484,6 +534,14 @@ sacred fire; *adhvaraat* = from a sacrificial rite.
 solemnized in front, as bringing home the sacred fire from a sacrificial rite, after performing it
 outside the city."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** “Placing in the van all these consecrated articles of coronation (abhiṣecanikaṃ caiva sarvam etad upaskṛtaṃ puraskṛtya), I shall set forth to the forest for Rāma’s sake (gamiṣyāmi rāma-hetor vanaṃ prati).
+
+**11:** “Having consecrated that honored tiger among men right there in the forest (tatraivaṃ taṃ nara-vyāghram abhiṣicya puraskṛtam), I shall bring Rāma back, even as the sacrificial fire is borne from the hall of sacrifice (āneṣyāmi tu vai rāmaṃ havya-vāham ivādhvarāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +588,12 @@ desire; *aham* = I; *vatsyaami* = will reside; *vane* = in the forest;
 
 "I shall not make her, my so-called mother, fulfil her desire. I will reside in the
 impassable forest. Rama will become the king."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall never fulfill the desire of this woman who is my mother in name alone (na sakāmāṃ kariṣyāmi svām imāṃ mātṛ-gandhinīm); I shall dwell in the impassable forest, and Rāma shall be king (vane vatsyāmy ahaṃ durge rāmo rājā bhaviṣyati)!
 </details>
 </details>
 
@@ -579,6 +643,12 @@ us; *pathi* = in the path.
 uneven surfaces. Let guards who can easily move in the inaccessible forests accompany us in the
 path."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let a highway be constructed by the artisans, and let the rough and uneven places be made level (kriyatāṃ śilpibhiḥ panthāḥ samāni viṣamāṇi ca); and let guards skilled in scouting difficult terrain march along the route (rakṣiṇaś cānusamyāntu pathi durga-vicārakāḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -625,6 +695,12 @@ and excellent.
 
 Hearing Prince Bharata, talking in consideration of Rama's cause, all the people
 replied in the following illustrious and excellent words:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To that king’s son who was speaking thus for Rāma’s sake (evaṃ sambhāṣamāṇaṃ taṃ rāma-hetor nṛpātmajam), all the people replied with an auspicious and peerless speech (pratyuvāca janaḥ sarvaḥ śrīmad-vākyam anuttamam):
 </details>
 </details>
 
@@ -675,6 +751,12 @@ eldest; *nR^ipasute* = son of the king.
 
 "Let the gracious goddess of prosperity abide with you, who are speaking thus,
 desirous of giving kingdom to Rama the eldest son of the king."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May Padmā, the goddess of royal fortune Śrī, ever attend upon you as you speak thus (evaṃ te bhāṣamāṇasya padmā śrīr upatiṣṭhatāt), since you desire to restore the earth to the eldest son of the king (yas tvaṃ jyeṣṭhe nṛpa-sute pṛthivīṃ dātum icchasi)!”
 </details>
 </details>
 
@@ -728,6 +810,12 @@ prabhaaSitam* = spoken by the prince; *samshravaNe* = close to their ears;
 
 Hearing those excellent words spoken by the prince close to their ears, tears born
 of joy fell from the face and eyes of those venerable men.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing at that solemn pledge that peerless speech spoken by the king’s son (anuttamaṃ tad vacanaṃ nṛpātmaja-prabhāṣitaṃ saṃśravaṇe niśamya ca), tears born of supreme joy, springing from the eyes upon the faces of those noble men, fell toward him (praharṣa-jās taṃ prati bāṣpa-bindavo nipetur āryānana-netra-sambhavāḥ).
 </details>
 </details>
 
@@ -795,6 +883,12 @@ devoted men and a group of artisans have been instructed to make the path-way."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥79॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard that speech, with their sorrow dispelled and their hearts gladdened, the people together with the ministers and the assembly spoke these words (ūcus te vacanam idaṃ niśamya hṛṣṭāḥ sāmātyāḥ sapariṣado viyāta-śokāḥ): “O best of men, at your command the devoted body of citizens and the guild of artisans have been commissioned to construct the highway (panthānaṃ nara-vara bhaktimān janaś ca vyādiṣṭas tava vacanāc ca śilpi-vargaḥ)!”
 </details>
 </details>
 

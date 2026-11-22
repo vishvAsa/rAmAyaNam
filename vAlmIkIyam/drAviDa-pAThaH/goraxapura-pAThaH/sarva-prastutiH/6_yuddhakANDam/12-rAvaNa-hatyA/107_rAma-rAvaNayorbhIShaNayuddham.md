@@ -63,6 +63,12 @@ worlds; *pravR^ittam* = occurred; *raama raavaNayoH* = between Rama and Ravana.
 Then ensued a fierce and a prolonged chariot-duel between Rama and Ravana, which was
 frightful to all the worlds.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Rāma exhausted from the battle (yuddha-pariśrāntam) and standing absorbed in thought (cintayā sthitam) on the field, and beholding Rāvaṇa standing before him ready for combat,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -112,6 +118,12 @@ praharaNam* = having taken hold fast of their weapons; *samavartata* = stood;
 Then, the army of demons and the huge army of mokeys, stood motionless with their
 weapons held fast in their hands.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the revered sage Agastya (agastyo bhagavān), who had come together with the gods (daivataiś ca samāgamya) to witness the battle, approached Rāma and spoke to him then:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -159,6 +171,12 @@ a great; *vismayam* = wonder.
 Having their hearts captivated in seeing those two warriors, a human being and a
 demon, both in full strength engaged in a fight, all for their part experienced a great wonder.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Rāma, O mighty-armed Rāma, hearken to this eternal mystery (guhyaṃ sanātanam), whereby, my child, you shall conquer (vijayiṣyase) all foes in battle:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,6 +223,12 @@ abhijagmuH* = they did not go for war; *parasparam* = on each other.
 Having their hands occupied with various kinds of weapons, all those warriors stood
 amazed in mind in beholding that duel. They did not go for war on each other.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the holy Ādityahṛdaya (āditya-hṛdayam), destroyer of all enemies, bringer of victory, an imperishable and supremely auspicious (paramaṃ śivam) prayer to be recited perpetually (japaṃ nityam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -245,6 +269,12 @@ vaanaraaNaam cha* = and the army of demons; *raaghavam* = (seeing) Rama;
 The demons beholding Ravana and the army of monkeys seeing Rama with their eyes in
 amazement appeared as though they were paintings.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the auspiciousness of all auspicious things (sarva-maṅgala-māṅgalyam), the destroyer of all sins, the allayer of anxiety and grief (cintā-śoka-praśamanam), and the supreme enhancer of longevity (āyur-vardhanam uttamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -278,6 +308,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीराम-रावणरु अल्लि प्रकटगॊण्ड शकुनगळन्नु नोडि, अवुगळ भावी लवन्नु योचिसि युद्ध विषयद विचार स्थिरगॊळिसिकॊण्डरु. अवरिब्बरू ऒब्बरु इन्नॊब्बर कुरितु असहनॆय भाव दृढवाद्दरिन्द निर्भयवागि युद्धमाडुत्तिद्दरु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Worship the ray-crowned (raśmimantam) rising Sun (samudyantam), revered by gods and asuras alike (devāsura-namaskṛtam)—Vivasvat, the maker of light (bhāskaram), the lord of the worlds (bhuvaneśvaram)!
 </details>
 </details>
 
@@ -320,6 +356,12 @@ Rama, who was convinced that he was going to win and Ravana who was firmly persu
 that he would die, then demonstrated the entire wealth of their prowess in battle on that
 occasion.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For he is the embodiment of all the gods (sarva-devātmakaḥ), resplendent, the sustainer through his rays (raśmi-bhāvanaḥ); by his beams (gabhastibhiḥ) he protects the worlds together with the hosts of gods and asuras.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -360,6 +402,12 @@ chariot; *raaghavasya* = of Rama.
 
 Thereupon, the valiant Ravana, fitting his arrows with anger, released them,
 directing them towards the flag-staff fixed on Rama's chariot.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He indeed is Brahmā, Viṣṇu, Śiva, Skanda, and Prajāpati; he is Mahendra, Kubera (dhanadaḥ), Time (kālaḥ), Yama, Soma, and Varuṇa, lord of waters (apāṃ patiḥ);
 </details>
 </details>
 
@@ -411,6 +459,12 @@ Without even reaching the ensign on Indra's chariot and touching off the staff w
 supported the banner of the chariot, the arrows fell on the ground.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the Ancestors (pitaraḥ), the Vasus, the Sādhyas, the twin Aśvins, the Maruts, and Manu; Vāyu, Agni (vahniḥ), created beings (prajāḥ), the Vital Breath (prāṇaḥ), the maker of the seasons (ṛtu-kartā), and the shedder of light (prabhākaraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,6 +511,12 @@ with his mind; *kartum kR^ita pratikR^itam* = to return blow for blow.
 Thereafter, the valiant Rama too, in great anger, stretching his bow, proceeded with
 his mind, to return blow for blow.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He is the son of Aditi (ādityaḥ), the Vivifier (savitā), the Impeller (sūryaḥ), the courser of the sky (khagaḥ), the Nourisher (pūṣā), the ray-endowed one (gabhastimān), golden-hued (suvarṇa-sadṛśaḥ), the Shining One (bhānuḥ), the golden-seeded (hiraṇya-retāḥ), and the maker of day (divākaraḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -497,6 +557,12 @@ flag-staff.
 
 Rama released a sharp arrow, looking like a huge serpent and which was unbearable,
 as though blazing with its own splendour, directing towards Ravana's flag-staff.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+he of bay-colored steeds (harid-aśvaḥ), thousand-rayed (sahasrārciḥ), yoked to seven horses (sapta-saptiḥ), radiant with beams (marīcimān), churner of darkness (timironmathanaḥ), source of bliss (śambhuḥ), the pare-down artificer (tvaṣṭā), sprung from the lifeless egg (mārtaṇḍakaḥ), and rich in rays (aṃśumān);
 </details>
 </details>
 
@@ -547,6 +613,12 @@ having torn asunder; *dashagriiva dhvajam* = Ravana's flag-staff; *jagaama* = we
 
 As the brilliant Rama released the arrow towards the flag-staff, that arrow, tearing
 asunder Ravana's flag-staf, entered the earth.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hiraṇyagarbha, the cooling one (śiśiraḥ), the scorcher (tapanaḥ), the day-maker (ahas-karaḥ), the praised Ravi, womb of fire (agni-garbhaḥ), son of Aditi, the auspicious peaceful one (śaṅkhaḥ), and the destroyer of frost (śiśira-nāśanaḥ);
 </details>
 </details>
 
@@ -607,6 +679,14 @@ ground. Seeing the thrown-down piece of his flag-staff, that mighty Ravana stood
 he was laughing with intolerance. Flaming up with anger, he showered a stream of arrows afflicted
 as he was, with the power of wrath.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “The lord of the firmament (vyoma-nāthaḥ), cleaver of darkness (tamo-bhedī), master of the Ṛg, Yajus, and Sāma Vedas (ṛg-yajuḥ-sāma-pāragaḥ), sender of thick rain (ghana-vṛṣṭiḥ), friend of the waters (apāṃ mitraḥ), and swift courser along the pathway of the Vindhya (vindhya-vīthī-plavaṃgamaḥ);
+
+**14:** radiating heat (ātapī), orb-crowned (maṇḍalī), Death himself (mṛtyuḥ), tawny-hued (piṅgalaḥ), warmer of all (sarva-tāpanaḥ), the omniscient Poet (kaviḥ), the All-form (viśvaḥ), of mighty splendor, crimson-rayed (raktaḥ), and source of all existence (sarva-bhavodbhavaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -658,6 +738,12 @@ they were struck; *padmanaalaiH* = with lotus-stalks.
 Ravana struck Rama's horses with blazing arrows. Those divine horses were neither
 shaken nor stumbled in the battle-field. They were indeed healthy at heart and felt as though they
 were just struck with lotus-stalks.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sovereign lord of lunar mansions, planets, and stars (nakṣatra-graha-tārāṇām adhipaḥ), creator of the universe (viśva-bhāvanaḥ), resplendent even among splendors (tejasām api tejasvī)—O twelve-souled one (dvādaśātman), obeisance be to you!
 </details>
 </details>
 
@@ -737,6 +823,16 @@ thousands of; *baaNaan* = arrows.
 Unwearied as he was in his heart and in effort, Ravana then employed streams of
 missiles as a creation of magic and also thousands of arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Obeisance to the Eastern Mountain [of sunrise] (pūrvāya giraye), obeisance to the Western Mountain [of sunset] (paścimāyādraye)! Obeisance to the lord of the hosts of luminaries (jyotir-gaṇānāṃ pataye), obeisance to the sovereign of the day (dinādhipataye)!
+
+**17:** Obeisance, obeisance to Jaya (Victory), to Jayabhadra (Auspicious Victory), to him of green-bay steeds (hary-aśvāya)! Obeisance, obeisance, O thousand-rayed one (sahasrāṃśo); to Āditya, obeisance, obeisance!
+
+**18:** Obeisance to the fierce one (ugrāya), the heroic one (vīrāya), the swift-moving one (sāraṅgāya), obeisance, obeisance! Obeisance to the awakener of lotuses (padma-prabodhāya); to the fiercely blazing one (pracaṇḍāya), obeisance be to you!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -782,6 +878,12 @@ missiles as a creation of magic and also thousands of arrows.
 
 In that battle, abundant rain of various missiles, which were tumultuous, generating
 fear, terrific and attended with a terrible echo, descended.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Obeisance to the lord of Brahmā, Īśāna (Śiva), and Acyuta (Viṣṇu) (brahmeśānācyuteśāya), to the Sun (sūrāya) of Āditya-splendor (āditya-varcase), to the radiant one (bhāsvate), the all-consuming (sarva-bhakṣāya), the fierce-bodied form (raudrāya vapuṣe)!
 </details>
 </details>
 
@@ -830,6 +932,12 @@ the sky.
 
 Leaving alone Rama's chariot, Ravana released arrows on the army of monkeys on all
 sides, thus wholly covering the sky.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Obeisance to the destroyer of darkness (tamoghnāya), the melter of snow (himaghnāya), the slayer of foes (śatrughnāya), the immeasurable Soul (amitātmane), the slayer of the ungrateful (kṛtaghnaghnāya), the effulgent god, the lord of lights (jyotiṣāṃ pataye)!
 </details>
 </details>
 
@@ -891,6 +999,14 @@ that Ravana, who was interested in the battle, putting forth his great effort, R
 arrows to his bow, as though laughing and thereupon he loosed the arrows in hundreds and
 thousands.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Obeisance to him who shines like molten gold (tapta-cāmīkarābhāya), to Hari, the architect of the universe (viśva-karmaṇe); obeisance to the utter crusher of darkness (tamo-'bhinighnāya), to Splendor itself (rucaye), the witness of the worlds (loka-sākṣiṇe)!
+
+**22:** He indeed, the Sovereign Lord (prabhuḥ), destroys created existence (bhūtam) and creates that very world anew; with his rays he drinks up the waters (pāyaty eṣa), he scorches (tapaty eṣa), and he pours down rain (varṣaty eṣa)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -917,6 +1033,12 @@ thousands.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ बाणगळन्नु नोडि रावणनु पुनः बाणगळन्नु सुरिसि आकाशवन्नु ऎळ्ळुहाकलू जागविल्लदष्टु तुम्बिबिट्टनु. इब्बरू बिट्ट हॊळॆयुव बाणगळ मळॆयिन्द प्रकाशमान आकाशवु तुम्बि होगि यावुदो इन्नॊन्दु आकाशदन्तॆ कण्डु बरुत्तित्तु.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Abiding within all beings (bhūteṣu pariniṣṭhitaḥ), he remains awake when they are asleep (supteṣu jāgarti); he alone is both the agnihotra sacrifice (agnihotram) and the fruit enjoyed by the agnihotra sacrificers (agnihotriṇām)!
 </details>
 </details>
 
@@ -986,6 +1108,14 @@ While Rama and Ravana were discharging the arrows thus in the battle0field, no a
 missed the target, no one failed to pierce the target and none had gone in vain. Colliding with
 each other, they fell on the ground.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** “He is the gods, the Vedic sacrifices (kratavaḥ), and the very fruit of those sacrifices; over all actions that are to be performed (yāni kṛtyāni) in all the worlds, he is the Supreme Lord (parama-prabhuḥ)!
+
+**25:** Glorifying him (kīrtayan) in calamities (āpatsu), in sore straits (kṛcchreṣu), in trackless wildernesses (kāntāreṣu), and in terrors, no man whosoever sinks into despair (nāvasīdati), O Rāghava!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1035,6 +1165,12 @@ other); *ghoraiH sharaiH* = with their terrific arrows; *chakratuH cha* = they m
 Releasing the arrows left and right continually, they fought at each other. With
 their terrific arrows, they made the sky, bereft of even a breathing space.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Worship him with one-pointed mind (ekāgraḥ)—the God of gods (deva-devam), the Lord of the universe (jagat-patim)! Having recited this hymn thrice (etat triguṇitaṃ japtvā), one shall triumph (vijayiṣyati) in battles.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1078,6 +1214,12 @@ each other; *kR^itaanukR^ita kaariNau* = doing anything before and after.
 Rama struck Ravana's horses. Ravana struck Rama's horses. Both the warriors then
 struck at each other, doing anything before and after.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In this very moment (asmin kṣaṇe), O mighty-armed hero, you shall slay (jahiṣyasi) Rāvaṇa!” Having spoken thus, the sage Agastya departed just as he had come (yathā-gatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1118,6 +1260,12 @@ causing the hair to stand erect.
 
 Those two extremely enraged warriors in this way, carried out are excellent combat.
 A tumultuous battle ensued for an hour or so, causing the hair to stand erect.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing this, the supremely radiant Rāghava became free from grief (naṣṭa-śokaḥ) at that moment; well pleased and self-collected (prayatātmavān), he held the hymn within his heart (dhārayām āsa).
 </details>
 </details>
 
@@ -1170,6 +1318,12 @@ The mighty Ravana and Rama carried out the fight well with sharp arrows in the
 battle-field. That Ravana at that time was very much enraged with Rama, as his flag-staff was
 thrown down.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing toward the Sun (ādityaṃ prekṣya) and reciting this hymn (japtvedam), the valorous hero attained supreme joy; sipping water thrice (trir ācamya) and becoming ritually pure (śucir bhūtvā), he took up his bow.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1216,6 +1370,12 @@ Rama and Ravana; *tathaa* = who were thus; *yudhyamaanau* = fighting; *samare*
 All the created beings for their part gazed with an astonished mind on Rama and
 Ravana, who thus were fighting at each other in the battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāvaṇa, he advanced with a joyful spirit (hṛṣṭātmā) for victory (jayārtham), and with all his mighty effort stood resolved upon his destruction (vṛtas tasya vadhe 'bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1257,6 +1417,12 @@ each other.
 
 Furiously attacking each other in the battle-field, those excellent chariots of the
 two warriors ran towards each other.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the Sun-god Ravi (raviḥ), standing amidst the host of gods (sura-gaṇa-madhya-gataḥ) and knowing that the destruction of the lord of night-stalkers was at hand (niśicara-pati-saṃkṣayaṃ viditvā), looked upon Rāma with a delighted mind and, rejoicing supremely, spoke the word: “Hasten (tvareti)!”
 </details>
 </details>
 

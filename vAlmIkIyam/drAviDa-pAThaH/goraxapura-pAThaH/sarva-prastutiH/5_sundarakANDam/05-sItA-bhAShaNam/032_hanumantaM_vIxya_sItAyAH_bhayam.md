@@ -92,6 +92,14 @@ chaamiikarekSaNam* = with his eyes resembling refined gold; *prashritam* = humbl
 Seetha beheld there a monkey, beaming like a cluster of Ashoka flowers wide opened, with his eyes
 resembling regined gold, humble and speaking agreeable words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then, seeing him nestled among the branches (śākhāntare līnam), her mind was agitated (calita-mānasā)—clothed as he was in a white garment (veṣṭitārjuna-vastram) and tawny like a mass of lightning (vidyut-saṃghāta-piṅgalam).
+
+**2:** She beheld the monkey there, humble in bearing and speaking kindly (praśritaṃ priya-vādinam), shining like a cluster of blossoming aśoka flowers (phullāśokotkarābhāsam) and having eyes like molten gold (tapta-cāmīkarekṣaṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -143,6 +151,12 @@ _________________
 Seetha got a great surprise and thought (as follows): "Alas! This monkey is hard to be approached,
 fearful and difficult to be looked at." Thus thinking, she was bewildered again.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing that foremost of monkeys standing deferentially (vinītavad avasthitam), Maithilī reflected, filled with supreme wonder (vismayaṃ paramaṃ gatā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -169,6 +183,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आहा! ई वानरन रूपवु ऎष्टु आश्चर्यवागिदॆ. इदु भयङ्करवू, बळिगॆ होगलू, नोडलू असाध्यवागिदॆ. हीगॆ भाविसि सीतादेवियु पुनः मोहितळादळु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Ah! Terrifying is this creature of a monkey and hard to approach (bhīmam idaṃ sattvaṃ vānarasya durāsadam)!” Deemed hard even to gaze upon (durnirīkṣyam idaṃ matvā), she swooned once again.
 </details>
 </details>
 
@@ -210,6 +230,12 @@ _________________
 
 The splendid woman Seetha, bewildered by fear and afflicted with grief, lamented most piteously
 saying "O, Rama! O, Rama! and "O Lakshmana!". Seetha wept faintly in a low voice in many ways.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bewildered by fear (bhaya-mohitā), the noble lady Sītā lamented piteously and sore, stricken with grief, crying “O Rāma, Rāma! O Lakṣmaṇa!”
 </details>
 </details>
 
@@ -255,6 +281,12 @@ woman; *maithilii* = Seetha; *chintayaamaasa* = thought; *ayam* = it; *iti* = as
 **अनुवादः**
 
 Seeing that excellent monkey appraching humbly, that splendid woman Seetha thought it as a dream.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The chaste Sītā suddenly wept in a hushed, gentle voice (manda-manda-svarā satī). Then, seeing that foremost of monkeys who had approached so humbly (vinītavad upāgatam), the noble lady Maithilī thought, “This is a dream (svapno 'yam iti)!”
 </details>
 </details>
 
@@ -305,6 +337,12 @@ kaaram* = doing as told; *shaakhaamR^igendrasya* = by Sugreeva the king of monke
 
 Seetha, looking hither and thither, saw Hanuman, who was having a wide and curved mouth, doing
 acts as told by sugreeva the king of monkeys, the foremost of monkeys, greatly adored and the best among the inelligent.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing upon him of broad and curved jaw (pṛthu-bhugna-vaktram), the faithful executor of the monkey king’s command (śākhāmṛgendrasya yathokta-kāram), she beheld that noble chief of tawny monkeys, the son of the Wind-god, foremost among the wise (buddhimatāṃ variṣṭham).
 </details>
 </details>
 
@@ -363,6 +401,12 @@ bhuuyaH* = again; *vichintayaamaasa* = thought (as follows).
 As soon as seeing Hanuma Seetha lost her consciousness very much and became seemingly lifeless.
 Regaining her consciousness after a long time the wide eyed Seetha moreover thought (as follows)
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Merely upon beholding him, Sītā was sorely distressed (bhṛśaṃ vipannā) and became almost lifeless (gatāsu-kalpeva babhūva). Regaining consciousness after a long while (cireṇa saṃjñāṃ pratilabhya), the wide-eyed lady reflected thus:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -420,6 +464,12 @@ and; together with Lakshmana; *tathaa* = and; *me pituH* = with my father; *jana
 
 "Today, I saw an ugly monkey in my dream, which is forbidden according to a body of scriptures.
 May it be well with Rama together with Lakshmana and with my father, King Janaka.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“An inauspicious dream has been seen by me today (svapno mayāyaṃ vikṛto 'dya dṛṣṭaḥ)—a monkey, which is declared forbidden by the collections of treatises (śāstra-gaṇair niṣiddhaḥ)! May auspiciousness attend Rāma together with Lakṣmaṇa, as well as my father, King Janaka!
 </details>
 </details>
 
@@ -480,6 +530,12 @@ _________________
 "This is not a dream. To me, tormented by sorrow and grief, there is indeed no sleep. To me, separated
 from Rama whose countenance resembles a full moon, there is no happiness indeed!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet surely this is not a dream (svapno hi nāyam), for sleep is never mine (na hi me 'sti nidrā), tormented as I am by grief and sorrow. Indeed, there is no happiness for me since I am parted from him whose countenance resembles the full moon (tenendu-pūrṇa-pratimānanena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -536,6 +592,12 @@ way; *tadarthaam* = with the same object.
 
 "Since I am pondering with my mind about that Rama only, and always saying 'Rama! Rama!' thus,
 confomably I am seeing and hearing a story thus corresponding to he same thought."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Constantly reflecting ‘Rāma, Rāma!’ with my mind and uttering him alone with my voice (vācā bruvatī tam eva), I thus behold a vision conformable to him and hear a narrative concerning him (kathāṃ tad-arthām).
 </details>
 </details>
 
@@ -594,6 +656,12 @@ like manner; *shR^iNomi* = I am hearing (the same matters).
 "Tormented as I am today by manmatha god of love longing for Rama, my whole feelings directed towards
 him and constantly thinking of him alone, in the like manner I am seeing him and in the like manner i am hearing
 of him alone."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For today, tormented by love-longing for him (tasya manobhavena sampīḍitā) and having my every thought absorbed in him (tad-gata-sarva-bhāvā), while ceaselessly pondering him alone, I see and hear accordingly.
 </details>
 </details>
 
@@ -654,6 +722,12 @@ wish; *syaat* = will be fulfilled; *tathaa* = likewise; *vitarkayaami* = I am re
 "I am imagining that my wish will be fulfilled. Likewise, I am reasoning my wish by my intellect
 also. There is no concrete form indeed for my wish. He, with a well manifested form is speaking to me. for what
 reason?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I think that this may be a wishful fancy (manorathaḥ syād iti cintayāmi), and yet with my intellect I reason further (buddhyāpi vitarkayāmi): for what reason? That fancy has no tangible form (tasya hi nāsti rūpam), whereas this one of distinctly visible form speaks to me (suvyakta-rūpaś ca vadaty ayaṃ mām)!
 </details>
 </details>
 
@@ -724,6 +798,12 @@ monkey be true! Let them not be untrue!"
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि मूवत्तॆरडनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Homage be to the Lord of Speech [Bṛhaspati] together with the Wielder of the Thunderbolt [Indra], to the Self-existent [Brahmā], and to the Oblation-Consumer [Agni] (svayambhuve caiva hutāśanāya)! And whatever has been spoken before me by this forest-dweller (anena vanaukasā), may that be exactly so and not otherwise (tac ca tathāstu nānyathā)!”
 </details>
 </details>
 

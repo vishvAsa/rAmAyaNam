@@ -39,6 +39,12 @@ _________________
 
 महामना शत्रुघ्नन मातन्नु केळि लवणासुरनिगॆ भारी क्रोध बन्दु हेळिदनु-ऎलवो! निल्लु, निल्लु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Lavaṇa was slain (hate tu lavaṇe), the gods with Indra and preceded by Agni (devāḥ sendrāḥ sāgni-purogamāḥ) spoke most honeyed words (sumadhurāṃ vāṇīm) to Śatrughna, scorcher of foes (śatru-tāpanam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन कैगळन्नु हिसुकिकॊळ्ळुत्ता, हल्लु कडियुत्ता रघुकुलसिंह शत्रुघ्ननन्नु पदे-पदे युद्धक्कागि आह्वानिसतॊडगिदनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By good fortune victory is yours, dear child (diṣṭyā te vijayo vatsa), and by good fortune the rākṣasa Lavaṇa is slain (hataḥ), O tiger among men! Choose a boon (varaṃ varaya), O steadfast in vows (suvrata)!
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 भयङ्करवागि काणुव लवणनु हीगॆ हेळुत्तिरु वुदन्नु नोडि देवशत्रुगळन्नु नाश माडुव शत्रुघ्ननु हीगॆ हेळिदनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For we have all come together as bestowers of boons (varadās tu ... sarva eva samāgatāḥ), O mighty-armed one, desiring your victory (vijayākāṅkṣiṇas tubhyam); our appearance is never in vain (amoghaṃ darśanaṃ hi naḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +140,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसने! नीनु बेरॆ वीररन्नु पराजितगॊळिसिदाग शत्रुघ्ननु हुट्टिरलिल्ल. आद्दरिन्द इन्दु नन्न बाणगळ एटु तिन्दु नीनु नेरवागि यमलोकद दारि हिडियुवॆ.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of the gods (devānāṃ bhāṣitaṃ śrutvā), the valiant, mighty-armed Śatrughna, of disciplined self (prayatātmavān), raising his joined palms to his head (mūrdhni kṛtāñjaliḥ), replied:
 </details>
 </details>
 
@@ -151,6 +175,12 @@ _________________
 
 पापात्मने! रावणनु धराशायियादुदन्नु देवतॆगळु नोडिद्दरो हागॆये विद्वान् ब्राह्मणरु, ऋषिगळु इन्दु रणरङ्गदल्लि नन्निन्द हतनाद दुराचारि राक्षस निन्नन्नु नोडुवरु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May this delightful city of Madhu, sweet Mathurā fashioned by the gods (iyaṃ madhupurī rasyā madhurā deva-nirmitā), swiftly attain full settlement (niveśaṃ prāpnuyāc chīghram)—let this be my supreme boon (eṣa me ’stu varaḥ paraḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +208,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निशाचर! इन्दु नन्न बाणगळिन्द दग्धनागि नीनु धरित्रिगॆ बिद्दाग, ई नगर मत्तु राष्ट्रदल्लियू ऎल्लर श्रेयस्सु आगुवुदु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleased at heart (prīta-manasaḥ), the gods said to that Rāghava, “So be it (bāḍham ity eva)! Assuredly this lovely city shall become Śūrasenā (bhaviṣyati purī ramyā śūrasenā), without doubt.”
 </details>
 </details>
 
@@ -207,6 +243,12 @@ _________________
 
 इन्दु नन्न कैयिन्द बिडल्पट्ट वज्रदन्तह तुदियुळ्ळ बाणगळु, सूर्यकिरणवु कमलकोशवन्नु प्रवेशिसुवन्तॆ निन्न ऎदॆयन्नु हॊक्कुववु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, those great-souled deities then ascended to heaven (divam āruruhus tadā), and the greatly resplendent Śatrughna brought forward that army (tāṃ senāṃ samupānayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,6 +276,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शत्रुघ्ननु हीगॆ हेळिदाग लवणनु क्रोधदिन्द मूर्छितनन्तागि ऒन्दु महावृक्षवन्नॆत्ति शत्रुघ्नन ऎदॆगॆ हॊडॆदनु. आदरॆ शत्रुघ्ननु अदन्नु नुच्चुनूरागिसिदनु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Śatrughna’s command (śatrughna-śāsanam), that army came swiftly (śīghram āgacchat), and Śatrughna began the founding of the city (niveśanaṃ ... samārabhat) in the month of Śrāvaṇa (śrāvaṇena).
 </details>
 </details>
 
@@ -263,6 +311,12 @@ _________________
 
 अदु विफलवादुदन्नु नोडि आ बलवन्त राक्षसनु पुनः अनेक वृक्षगळन्नु शत्रुघ्नन मेलॆ प्रयोगिसिदनु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the auspicious twelfth year (varṣe dvādaśame śubhe), that city resembling heaven (sā purā divya-saṅkāśā) was fully settled (niviṣṭā), and the realm of the Śūrasenas became free from fear from any quarter (viṣayaś cākutobhayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,6 +344,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ तेजस्वियाद शत्रुघ्ननु तन्न मेलॆ बीळुव आ असङ्ख्य वृक्षगळन्नु बागिद गण्टुगळुळ्ळ मूरु-मूरु, नाल्कु-नाल्कु बाणगळन्नु हॊडॆदु कत्तरिसि हाकिदनु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The fields teemed with crops (kṣetrāṇi sasya-yuktāni), Indra rained in due season (kāle varṣati vāsavaḥ), and—protected by Śatrughna’s arms (śatrughna-bhuja-pālitā)—she abounded in healthy, heroic men (aroga-vīra-puruṣā).
 </details>
 </details>
 
@@ -321,6 +381,12 @@ _________________
 
 मत्तॆ पराक्रमि शत्रुघ्ननु आ राक्षसन मेलॆ बाणगळ मळॆगरॆदनु. आदरॆ आ निशाचरनु इदरिन्द व्यथॆगॊळ्ळदॆ, विचलितनागलिल्ल.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shaped like a crescent moon (ardhacandra-pratīkāśā) and graced by the bank of the Yamunā (yamunā-tīra-śobhitā), adorned with stately mansions and crossroads, markets, and avenues (gṛha-mukhyaiś ca catvarāpaṇa-vīthikaiḥ), populated by all four social orders (cāturvarṇya-samāyuktā) and radiant with diverse commerce (nānā-vāṇijya-śobhitā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -348,6 +414,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग बल-विक्रमशालि लवणनु नगुत्ता ऒन्दु मरवन्नॆत्तिकॊण्डु शूरवीर शत्रुघ्नन तलॆगॆ अप्पळिसिदनु. अदर एटु तिन्दु शत्रुघ्नन सर्वाङ्गवू शिथिलवागि मूर्छितनादनु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And whatever grand white palace had been built of old by Lavaṇa (yac ca tena purā śubhraṃ lavaṇena kṛtaṃ mahat), Śatrughna adorned it too, embellishing that city radiant with varied hues (nānā-varṇopaśobhitām).
 </details>
 </details>
 
@@ -377,6 +449,12 @@ _________________
 
 वीर शत्रुघ्ननु बीळुत्तले ऋषिगळु, देवतॆगळु, गन्धर्वरु, अप्सरॆयरु महा हाहाकार माडिदरु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resplendent on all sides with pleasure-groves and recreation grounds (ārāmaiś ca vihāraiś ca śobhamānaṃ samantataḥ), and graced with other beauteous creations both divine and human (śobhitāṃ śobhanīyaiś ca tathā ’nyair daiva-mānuṣaiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -399,6 +477,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 नाना प्रकारकी क्रय-विक्रय-योग्य वस्तुओंसे सुशोभित वह दिव्य पुरी अनेकानेक देशोंसे आये हुए वणिग्जनोंसे शोभा पा रही थी ॥ १४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That city resembling heaven (tāṃ purīṃ divya-saṅkāśām), embellished with varied wares (nānā-paṇyopaśobhitām) and thronged by merchants come from many lands (nānā-deśāgataiś cāpi vaṇigbhir upaśobhitām)—
 </details>
 </details>
 
@@ -428,6 +512,12 @@ _________________
 
 शत्रुघ्ननु भूमिगॆ बिद्दुदन्नु नोडि, इवनु सत्तनॆन्दॆ लवणनु तिळिदनु. इदरिन्द अवकाश सिक्किदरू आ राक्षसनु मनॆयॊळगॆ होगलिल्ल, शूलवन्नू तरलिल्ल. धराशायियाद अवनन्नु नोडि सर्वथा सत्तनॆन्दे तिळिदु अवनु तन्न भोजन सामग्रियन्नु ऒट्टुगूडिसिदनु.॥14-15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that prosperous city (tāṃ samṛddhāṃ ... nirīkṣya), Śatrughna, younger brother of Bharata, his purpose fulfilled (samṛddhārthaḥ), was supremely pleased (parama-prītaḥ) and attained highest joy (paraṃ harṣam upāgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -455,6 +545,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुहूर्त मात्रदल्लि शत्रुघ्ननु ऎच्चरगॊण्डु, अस्त्र-शस्त्रगळन्नु धरिसि ऎद्दुनिन्तु मत्तॆ नगर द्वारदल्लि निन्तुकॊण्डनु. आग ऋषिगळु अवनन्नु भूरि-भूरि प्रशंसिसिदरु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having settled the city of Mathurā (niveśya madhurāṃ purīm), this thought arose in him (tasya buddhiḥ samutpannā) as the twelfth year arrived (varṣe dvādaśa āgate): “Let me behold the feet of Rāma (rāma-pādau nirīkṣe ’ham)!”
 </details>
 </details>
 
@@ -498,6 +594,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि अरवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु. ॥69॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having indeed established that city rivaling the capital of the immortals (amara-puropamāṃ purīm) and thronged with varied folk (vividha-janābhisaṃvṛtām), that king, augmenter of the Raghu lineage (raghu-kula-vaṃśa-vardhanaḥ), set his mind upon beholding the feet of the lord of the Raghus (raghupati-pāda-darśane dadhe matim).
 </details>
 </details>
 

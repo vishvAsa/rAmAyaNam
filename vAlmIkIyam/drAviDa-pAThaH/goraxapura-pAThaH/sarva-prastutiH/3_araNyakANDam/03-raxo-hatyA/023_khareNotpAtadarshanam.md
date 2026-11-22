@@ -72,6 +72,12 @@ Khara; *a shivam* = ill-omened; *shoNita udakam* = blood, waters; *abhyavarSat*
 A massy and tumultuous ass-coloured cloud rained ill-omened bloody water while that fiendish force is
 advancing. [3-23-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon that dreadful army as it marched forth (tat prayātaṃ balaṃ ghoram), an exceedingly dreadful, tumultuous (tumulaḥ) [cloud], tawny-grey like an ass (gardabhāruṇaḥ), rained down inauspicious blood-red water (aśivaṃ śoṇitodakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ his, horses; *raaja maarge* = royal, road [high way]; *puSpa cite* = with flower
 
 The highly speedy horses paired to Khara's chariot have tottered in a trice, even though that place
 on the highway is with even surface and spread with flowers. [3-23-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His steeds of mighty speed (mahā-javāḥ), yoked to the chariot (ratha-yuktāḥ), stumbled and fell (nipetuḥ) of their own accord (yadṛcchayā) upon a level, flower-strewn stretch of the royal highway (rāja-mārge).
 </details>
 </details>
 
@@ -164,6 +176,12 @@ This sort of corona can be seen during the total eclipse of sun where a black co
 glow forms around the eclipsed sun. This circling of fireball handheld on a sling is there even today,
 and it is performed before marriage processions or such other events as a daring sport.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A dark halo (śyāmaṃ pariveṣaṇam) rimmed with blood-red (rudhira-paryantam), resembling a whirling firebrand (alāta-cakra-pratimam), appeared, encompassing the sun (pratigṛhya divākaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,6 +227,12 @@ and it is performed before marriage processions or such other events as a daring
 
 Then, nearing the golden shaft of the flag of the chariot with a very lofty flagstaff, an awful eagle
 with massive body occupied and perched atop of that golden shaft. [3-23-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then an exceedingly dreadful, huge-bodied vulture (mahā-kāyo gṛdhraḥ sudāruṇaḥ) approached the lofty golden-staffed banner (dhvajaṃ hema-daṇḍaṃ samucchritam) and perched upon it, gripping it (samākramya tasthau).
 </details>
 </details>
 
@@ -277,6 +301,14 @@ made know - they howled.
 Turning towards the stretch scorched by the sun, fearsome and loud noised jackals have howled emitting
 awful sounds, that which is inauspicious to the demons. [3-23-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** And gathering near Janasthāna, harsh-voiced (khara-svanāḥ), flesh-eating beasts and birds (māṃsādā mṛga-pakṣiṇaḥ) [uttered] diverse discordant cries (visvarān vividhān nādān)—
+
+**6:** —and dreadful, loud-howling jackals (śivā ghorā mahā-svanāḥ) gave forth (vyājahruḥ) a terrifying howl (bhairava-svanam) in the sun-lit quarter (abhidīptāyāṃ diśi), portending calamity for the Yātudhānas (aśivaṃ yātudhānānām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,6 +357,12 @@ aakaasham* = that, sky; *an aakaasham cakruH* = less, leeway, made as.
 Then frightening clouds similar to bursting mountains carrying bloodlike water have rendered the firmament
 less of leeway. [3-23-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling rutting elephants (prabhinna-gaja-saṃkāśāḥ) and bearing water mixed with blood (toya-śoṇita-dhāriṇaḥ), dreadful clouds (bhīmāmbu-vāhakāḥ) rendered the sky no sky at all (ākāśaṃ tad anākāśaṃ cakruḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -369,6 +407,12 @@ milieus, or, even; *su vyaktam na cakaashire* = very, clearly, not, brightened.
 
 There chanced an abominable, cataclysmic, hair-raising darkness whereby the milieus or inter-milieus
 are not very clearly brightened. [3-23-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A dreadful, dense (uddhatam), hair-raising darkness (timiraṃ roma-harṣaṇam) arose; neither the cardinal directions nor the intermediate quarters shone clearly (suvyaktaṃ na cakāśire).
 </details>
 </details>
 
@@ -424,6 +468,12 @@ An untimely eventide glistened with a colour similar to the one drenched in bloo
 brutes and birds have clamoured facing Khara directly, and the vultures, jackals and eagles too have
 screamed portending danger. [3-23-9, 10a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A twilight (saṃdhyā) gleaming with the hue of wet blood (kṣatajārdra-savarṇābhā) appeared out of season (kālaṃ vinā babhau); and dreadful beasts and birds then bayed and screeched directly facing Khara (kharaṃ cābhimukhaṃ neduḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -473,6 +523,12 @@ neduH* = forces, in front of, howled.
 Jackals, that too female jackals, are always the agents of inauspiciousness in wars with demonstrable
 calamities brought forth by their portending howling, and such jackals have now howled in front of Khara's
 army with their snouts spewing blazes. [3-23-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Herons, jackals, and vultures (kaṅka-gomāyu-gṛdhrāś ca) shrieked, portending terror (bhaya-śaṃsinaḥ); and jackals of dreadful aspect (śivā ghora-nidarśanāḥ), ever bringers of ill fortune in battle (nityāśiva-karā yuddhe)—
 </details>
 </details>
 
@@ -525,6 +581,14 @@ A spherical object like that of a human trunk is revealed near at the sun, while
 shineless as though Rahu, the great eclipsing-planet, has eclipsed him inopportunely, and the wind too
 whirled frantically. [3-23-11b, 12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** —howled facing the army (nedur balasyābhimukham) with mouths belching flames (jvālodgāribhir ānanaiḥ). A headless trunk (kabandhaḥ) resembling an iron-bound club (parighābhāsaḥ) was seen near the sun (bhāskarāntike).
+
+**12:** Svarbhānu [Rāhu], the great planet (mahā-grahaḥ), seized the sun (jagrāha sūryam) on a non-new-moon day (aparvaṇi); the wind blew violently (pravāti mārutaḥ śīghram), and the sun became bereft of lustre (niṣprabho 'bhūd divākaraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -574,6 +638,12 @@ fruits, flowers, became - dropped of from trees.
 Stars sprang up with the brilliance of fireflies though it is not night, and at that moment fishes and
 waterfowls stood still in lakes, lotuses have dried up, flowers and fruits have dropped from trees as
 though it is night. [3-23-13, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even without night (vinā rātrim), stars sprang forth (utpetus tārāḥ) with the dim flicker of fireflies (khadyota-saprabhāḥ); and lotus-ponds (nalinyaḥ), their lotuses withered (śuṣka-paṅkajāḥ), had their fishes and water-birds huddled motionless within (saṃlīna-mīna-vihagāḥ).
 </details>
 </details>
 
@@ -626,6 +696,12 @@ started to twitter as 'cii cii kuu cii'. [3-23-14b, 15a]
 
 The expression *cii cii kuu cii* is an onomatopoetic expression for the twittering of birds.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At that moment the trees became bereft of blossoms and fruits (vinā puṣpa-phalair drumāḥ), and even without wind (vinā vātam) a cloud-grey dust (reṇur jaladharāruṇaḥ) was swirled aloft (uddhūtaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -674,6 +750,12 @@ also, even; *pracacaala [pra ca caala]* = verily, shakily, quaked.
 
 Meteors horrible in their look have fallen down thunderously, and even the earth together with its mountains,
 woods and forests quaked shakily. [3-23-15b, 16a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sārikā birds (sārikāḥ) were there screeching (vāśyantyaḥ), “Cīcī-kūcī (cīcīkūcīti)!”; and meteors of dreadful aspect (ulkā ghora-darśanāḥ) fell with thunderous crashes (sa-nirghoṣāḥ).
 </details>
 </details>
 
@@ -743,6 +825,14 @@ proceeded] = he did not turn back.
 While he is seeing everywhere his eyes spawned tears for no good reason, his forehead ached, but he
 did not retrace his steps owing to his own vanity. [3-23-17b, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** And the earth too trembled (pracacāla mahī cāpi) together with its mountains, woods, and deep forests (sa-śaila-vana-kānanā); and as the resolute (dhīmataḥ) Khara stood in his chariot roaring (nardamānasya)—
+
+**17:** —his left arm (bhujaḥ savyaḥ) twitched (prākampata), his voice faltered in his throat (svaraś cāsyāvasajjata), and as he gazed in every direction (paśyamānasya sarvataḥ), his vision became blurred with tears (sāsrā sampadyate dṛṣṭiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -791,6 +881,12 @@ up; *taan roma harSaNaan* = them, hair, raising ones; *mahaa utpaataan* = worst,
 
 On observing those worst auguries stemming up at that moment with hair-raising nature, Khara laughed
 them off and said this to all of the demons. [3-23-18b, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And an aching pain arose in his forehead (lalāṭe ca rujo jātāḥ), yet out of delusion (mohāt) he did not turn back (na ca nyavartata). Beholding those hair-raising, mighty portents (mahotpātān roma-harṣaṇān) that had arisen—
 </details>
 </details>
 
@@ -864,6 +960,14 @@ hurtle]; *sam kruddhaH* = highly, infuriated; *mR^ityum* = to Death; *maraNa dha
 "With the excruciating arrows of mine I can hurtle stars from the face of sky, and if highly infuriated,
 I can even enjoin mortality to Death himself. [3-23-20b, 21a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** —that Khara then laughed aloud (prahasan) and spoke to all the rākṣasas: “All these mighty portents of dreadful aspect (mahotpātān ghora-darśanān) that have arisen—
+
+**20:** —through my valor (vīryāt) I reckon them as naught (na cintayāmy aham), just as a strong man disregards the weak (balavān durbalān iva)! With my sharp arrows I could bring down (pātayeyam) even the stars from the vault of the sky (nabhas-talāt)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -913,6 +1017,12 @@ with incisive, arrows; *a hatvaa* = without, killing; *upaavartitum [upa aa vart
 "I am reluctant to return without killing that Rama, a haughty one by his might, together with his brother
 Lakshmana, with my incisive arrows. [3-23-21b, 22a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When enraged (saṃkruddhaḥ), I can unite Death himself with the law of dying (mṛtyuṃ maraṇa-dharmeṇa yojayāmy aham)! As for that Rāghava puffed up with his strength (balotsiktam), and his brother Lakṣmaṇa as well—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -959,6 +1069,12 @@ Lakshmana, with my incisive arrows. [3-23-21b, 22a]
 
 "In whose respect both Rama and Lakshmana behaved perversely, let that sister of mine be contented in
 drinking the blood of those two. [3-23-22b, 23a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—I cannot bear to return (nopāvartitum utsahe) without having slain them with my sharp shafts (ahatvā sāyakais tīkṣṇaiḥ)! And she on whose account (yan-nimittam) Rāma's and Lakṣmaṇa's perverse transgression (viparyayaḥ) [occurred]—
 </details>
 </details>
 
@@ -1009,6 +1125,12 @@ obvious; *aham an R^itam* = I am, un, truth; *na kathayaami* = not, telling.
 "No defeat has chanced on me in combats at anytime and anywhere, that to you all is obvious and I tell
 no untruth. [3-23-23b, 24a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—let that sister of mine have her desire fulfilled (sakāmā bhaginī me 'stu) by drinking the blood of those two (pītvā tu rudhiraṃ tayoḥ)! Never anywhere in battles have I experienced defeat before (na kvacit prāpta-pūrvo me parājayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1057,6 +1179,12 @@ two, are but, [base] humans; *kim punaH* = why, [speak of] again.
 elephant Iravata, namely Indra in a war, then why talk about these two humans." Thus Khara addressed
 his troops. [3-23-24b, 25a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This is witnessed directly by you (yuṣmākam etat pratyakṣam); I speak no untruth (nānṛtaṃ kathayāmy aham). When enraged, even the king of the gods (deva-rājam api) riding upon the rutting Airāvata (mattairāvata-gāminam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1103,6 +1231,12 @@ they obtained.
 
 On hearing that thundering speech of Khara that sizeable army of demons which is tied down by the noose
 of death obtained an incomparable rejoice. [3-23-25b, 26a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—wielding the thunderbolt in his hand (vajra-hastam), I could slay in battle—how much more those two mortals (kiṃ punas tau ca mānavau)!” Hearing that thunderous boast (garjitam) of his, that great army (mahā-camūḥ) of rākṣasas—
 </details>
 </details>
 
@@ -1169,6 +1303,14 @@ are respected; *to them; *svasti astu* = good, may betide; *[uucuH* = said.]*
 On gathering at a place those great souls met one another and said, "let good betide cows, Brahmans
 and those that are held respectful by the people at large." [3-23-27b, 28a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** —ensnared in the noose of Death (mṛtyu-pāśāvapāśitā), felt peerless exultation (praharṣam atulaṃ lebhe). And mighty-souled [celestials], eager to witness the battle (yuddha-darśana-kāṅkṣiṇaḥ), assembled (sameyuḥ)—
+
+**27:** —sages, gods, gandharvas, and siddhas together with cāraṇas. Having gathered together (sametya sahitāḥ), those doers of meritorious deeds (puṇya-karmaṇaḥ) spoke to one another (ūcur anyonyam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1222,6 +1364,12 @@ to Pulastya dynasty; *jayataam* = shall triumph over.
 "Let Raghava triumph over these mighty night walkers from the lineage of Pulastya, as with Vishnu who
 once conquered all the mighty demons in war." So said celestials to one another. [3-23-28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May auspiciousness (svasti) attend the cows and Brāhmaṇas (go-brāhmaṇebhyaḥ), and all those who are revered by the worlds (lokānāṃ ye ca sammatāḥ)! May Rāghava conquer (jayatām) in battle the night-roaming Paulastyas—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1273,6 +1421,14 @@ their, of demons; *vaahiniim dadR^ishuH* = [flow of] army, they saw.
 While the great sages are speaking about this and many other topics, they and the gods abiding in their
 aircrafts have inquisitively seen the flow of army of demons, whose longevity is now beyond hope. [3-23-29,
 30]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** —even as Viṣṇu holding the discus in his hand (cakra-hasto yathā viṣṇuḥ) [conquered] all the foremost asuras (sarvān asura-sattamān)!” Speaking this and other [benedictions] manifoldly (etac cānyac ca bahuśo bruvāṇāḥ), the supreme sages—
+
+**30:** —and the deities stationed in their aerial cars (vimānasthāś ca devatāḥ), filled with curiosity (jāta-kautūhalāḥ), gazed upon the army (vāhinīm) of those rākṣasas whose life-span was spent (gatāyuṣām).
 </details>
 </details>
 
@@ -1342,6 +1498,14 @@ in front other important demons too rushed to fore. They are Shyenagaami, Prithu
 Vihamgama and also Durjaya, Karaviiraaksha, Parusha, Kaalakaarmuka, Hemamaali, Mahaamaali, Sarpaasya,
 Rudhiraaksha. These twelve highly valorous demons cruised in a semicircle around Khara. [3-23-31]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** In his chariot, Khara shot forth (viniḥsṛtaḥ) with speed at the head of the army (sainyasyāgrāt); [and] Śyenagāmī, Pṛthugrīva, Yajñaśatru, Vihaṃgama—
+
+**32:** —Durjaya, Karavīrākṣa, Paruṣa, Kālakārmuka, Hemamālī, Mahāmālī, Sarpāsya, and Rudhirāśana—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1389,6 +1553,12 @@ fore [army commanders]; *duuSaNam pR^iSThataH anvayuH* = Duushana, at behind, fo
 
 Likewsie Mahakapaala, Stuulaaksha, Pramaathii, Trishira are the four commanders of demonic forces and
 they followed Duushana marching at his behind. [3-23-33]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—these twelve [captains] of mighty valor (dvādaśaite mahā-vīryāḥ) marched flanking Khara on every side (pratasthur abhitaḥ kharam); [while] Mahākapāla, Sthūlākṣa, Pramātha, and Triśiras as well—these four at the forefront of the army (senāgre) followed behind Dūṣaṇa (dūṣaṇaṃ pṛṣṭhato 'nvayuḥ).
 </details>
 </details>
 
@@ -1455,6 +1625,12 @@ would rush towards the Moon and Sun so as to put them to rout. [3-23-34]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That exceedingly dreadful army of heroic rākṣasas (rākṣasa-vīra-senā), of terrifying velocity (bhīma-vegā) and eager for combat (samarābhikāṅkṣiṇī), suddenly closed in upon (sahasābhyupetā) those two princes, like a ring of malignant planets (mālā grahāṇām iva) [closing in upon] the moon and the sun (candra-sūryau).
 </details>
 </details>
 

@@ -111,6 +111,14 @@ of Lanka and thus actually placed His left foot on the enemies' heads.
 Comment : When entering a city of enemies, one who wishes their destruction
 should always place one's left foot first into the city.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Having conquered by his valor (vikrameṇa) that supreme city of Laṅkā, which could assume any form at will (kāmarūpiṇīm), Hanūmān of mighty splendor, the foremost of monkeys,
+
+**2:** Possessed of great prowess, leaped over the rampart (prākāram avapupluve) by a passage other than the gate (advāreṇa); and at night that elephant among monkeys, endowed with immense strength, entered Laṅkā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,6 +143,12 @@ should always place one's left foot first into the city.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सत्त्वसम्पन्ननाद आ मारुतियु लङ्कापट्टणवन्नु प्रवेशिसुवाग ऎडगालन्नु मुन्दिट्टनु. हागॆये शत्रुगळ तलॆयन्ने ऎडगालिनिन्द मॆट्टिदनो** ऎम्बन्तॆ रात्रियल्लि नगरवन्नु प्रवेशिसिदनु. ॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having entered the city of Laṅkā, that benefactor of the monkey king (kapirājahitaṃkaraḥ) then placed his left foot (savyam pādam) squarely upon the heads of his enemies (śatrūṇāṃ mūrdhani).
 </details>
 </details>
 
@@ -181,6 +195,12 @@ That son of Vayu endowed with great strength, entered the city at night and took
 grand road shone by flowers and pearls. After that Hanuma went towards that beautiful city of
 Lanka.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having entered at night, the son of the Wind-god, richly endowed with inner strength (sattvasampannaḥ), took to the great royal highway (mahāpatham) resplendent with strewn flowers (muktapuṣpavirājitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,6 +225,14 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 जैसे आकाश श्वेत बादलोंसे सुशोभित होता है, उसी प्रकार वह रमणीय पुरी अपने श्वेत मेघसदृश गृहोंसे उत्तम शोभा पा रही थी । वे गृह अट्टहासजनित उत्कृष्ट शब्दों तथा वाद्यघोषोंसे मुखरित थे । उनमें वज्रों तथा अंकुशोंके चित्र अङ्कित थे और हीरोंके बने हुए झरोखे उनकी शोभा बढ़ाते थे ॥ ५-६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Then that monkey advanced toward that delightful city of Laṅkā, which was heralded by the sounds of musical instruments (tūryaghoṣapuraskṛtaiḥ) and resonant with loud laughter and jubilant cries (hasitotkṛṣṭaninadaiḥ).
+
+**6:** With its cloud-like mansions (gṛhameghaiḥ) resembling thunderbolts and elephant goads (vajrāṅkuśanikāśaiḥ) and adorned with diamond-latticed windows (vajrajālavibhūṣitaiḥ), the lovely city shone like the sky with rain clouds.
 </details>
 </details>
 
@@ -277,6 +305,12 @@ Rakshasas. These were modern houses which equalled white clouds, which were surp
 shape of lotus and swastika and which were auspicious.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Laṅkā blazed forth then with the auspicious mansions of the rākṣasa hosts (rakṣogaṇagṛhaiḥ śubhaiḥ), variegated, resembling white clouds (sitābhrasadṛśaiḥ), and laid out in padma and svastika architectural patterns (padmasvastikasaṃsthitaiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -326,6 +360,12 @@ cha* = and became happy too.
 That glorious Hanuma, performer of beneficial deeds for Sugreeva the king of
 monkeys, moved around the city of Lanka which had wonderful garlands and jewellery, for the sake of
 Sri Rama. He saw the city and became happy too.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As well as with vardhamāna palaces (vardhamānagṛhaiḥ) splendidly adorned on every side. Moving about for Rāghava's sake (rāghavārthe), that glorious benefactor of the monkey king
 </details>
 </details>
 
@@ -399,6 +439,14 @@ Tara; *shushraava* = heard; *giitam* = song; *madhuram* = which was sweet.
 Hanuma heard a sweet song which was decorated by sound from the three svaras -
 Mandra, Madhya and Tara of love lorne women like Apsara women in heaven.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Beheld that city adorned with variegated garlands and ornaments (citramālyābharaṇām), and rejoiced (dadarśa ca nananda ca). Going from mansion to mansion (bhavanād bhavanam), that elephant among monkeys beheld
+
+**10:** Palaces of diverse shapes and colors (vividhākṛtirūpāṇi) here and there; and he heard charming song (ruciraṃ gītam) graced with notes pitched across the three vocal registers (tristhānasvarabhūṣitam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -449,6 +497,12 @@ arms; *kshveLitaamshcha* = roar of ogres.
 Hanuma also heard there and there sound from the tinkling of ornaments worn around
 the waist in the houses of wealthy people, sounds of footfall over stair, sound from clapping of
 arms by warriors and roar of ogres.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sung by women pierced by the shafts of Love (madanaviddhānām), like celestial nymphs (apsarases) in heaven (divi cāpsarasām iva). He also heard the tinkling of girdles (kāñcīninadam) and the ringing of anklets (nūpurāṇāṃ ca niḥsvanam),
 </details>
 </details>
 
@@ -501,6 +555,12 @@ Hanuma also heard there and there sound from the tinkling of ornaments worn arou
 the waist in the houses of wealthy people, sounds of footfall over stair, sound from clapping of
 arms by warriors and roar of ogres.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As well as the sounds of footsteps upon staircases (sopānaninadān) in the mansions of the great ones, and the clapping of arms (āsphoṭitaninādān) and lion-like battle roars (kṣveḍitān) here and there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -549,6 +609,12 @@ ogres; *svadhyaayanirataan* = engaged in study of Vedas; *dadarsha* = saw;
 There Hanuma heard ritual chantings muttered by rakshasas in their houses. He saw
 ogres engaged in study of Vedas. He also saw roaring rakshasas who came together to praise
 Ravana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the houses of the rākṣasas there, he heard the voices of those muttering sacred formulas (japataṃ mantrān), and he also saw yātudhānas absorbed in Vedic recitation (svādhyāyaniratān),
 </details>
 </details>
 
@@ -599,6 +665,12 @@ highway; *madhyame gulme* = in the central zone of the city.
 He saw many spies of Ravana and a big army of ogres which stood surrounding the
 royal highway in the central zone of city.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As well as rākṣasas roaring aloud while engaged in panegyrics of Rāvaṇa (rāvaṇastavasaṃyuktān), and a vast host of rākṣasas (rakṣogaṇaṃ mahat) stationed so as to block the royal highway (rājamārgaṃ samāvṛtya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -633,6 +705,14 @@ royal highway in the central zone of city.
 
 अवरल्लि कॆलवरु यज्ञदीक्षितरागिद्दरु. कॆलवरु जटॆगळन्नु धरिसिद्दरु. कॆलवरु आयुधगळ रूपदल्लि दर्भॆगळन्ने मुष्टियल्लि धरिसिद्दरु.* कृत्यादि शक्तिगळन्नु आयुध रूपवागि सृष्टिसबल्ल अग्निकुण्डगळन्नु कॆलवरु आराधिसुत्तिद्दरु. ॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** In the central garrison (madhyame gulme) he saw many spies of the rākṣasa king (rākṣasasya carān bahūn)—consecrated ritualists (dīkṣitān), ascetics with matted locks (jaṭilān), shaven-headed mendicants (muṇḍān), and those clad in cow-hides or the sky itself (gojināmbaravāsasaḥ)—
+
+**16:** Who wielded handfuls of sacred darbha grass as weapons (darbhamuṣṭipraharaṇān) and sacrificial fire-pots as arms (agnikuṇḍāyudhān), as well as those holding heavy hammers and mallets (kūṭamudgarapāṇīn) and bearing staff-weapons (daṇḍāyudhadharān);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -656,6 +736,12 @@ _________________
 
 किन्हींके एक ही आँख थी तो किन्हींके रूप बहुरंगे थे । कितनोंके पेट और स्तन बहुत बड़े थे । कोई बड़े विकराल थे । किन्हींके मुँह टेढ़े-मेढ़े थे । कोई विकट थे तो कोई बौने ॥ १७ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+One-eyed (ekākṣān), single-eared (ekakarṇān), with pendulous bellies and breasts (lambodarapayodharān), fanged and frightful (karālān), with crooked faces (bhugnavaktrān), deformed limbs (vikaṭān), and dwarfish stature (vāmanān);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -675,6 +761,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 किन्हींके पास धनुष, खड्ग, शतघ्नी और मूसलरूप आयुध थे । किन्हींके हाथोंमें उत्तम परिघ विद्यमान थे और कोई विचित्र कवचोंसे प्रकाशित हो रहे थे ॥ १८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowmen (dhanvinaḥ), swordsmen (khaḍginaḥ), warriors armed with śataghnīs and iron clubs (śataghnīmusalāyudhān), and those holding supreme iron bars (parighottamahastān), blazing in variegated armor (vicitrakavacojjvalān).
 </details>
 </details>
 
@@ -749,6 +841,12 @@ neither tall nor short, those who were not very fair, those who were not very da
 not very hunchbacked, those who were not very short, those who had great brilliance, those who
 carried banners, those who carried flags and those who carried different weapons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He saw warriors who were neither overly stout nor overly lean (nātisthūlān nātikṛśān), neither overly tall nor overly short (nātidīrghātihrasvakān), neither overly fair nor overly dark, and neither overly hunchbacked nor dwarfish;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -771,6 +869,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 कोई बड़े कुरूप थे, कोई अनेक प्रकारके रूप धारण कर सकते थे, किन्हींका रूप सुन्दर था, कोई बड़े तेजस्वी थे तथा किन्हींके पास ध्वजा, पताका और अनेक प्रकारके अस्त्र-शस्त्र थे ॥ २० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deformed (virūpān), multiform (bahurūpān), and handsome (surūpān) men of bright splendor (suvarcasaḥ); he saw troops bearing standards and banners (dhvajinaḥ patākinaś caiva) and wielding diverse weapons (vividhāyudhān),
 </details>
 </details>
 
@@ -797,6 +901,12 @@ _________________
 
 विरूपरन्नु, बहुरूपरन्नु, सुरूपरन्नु, ऒळ्ळॆय तेजस्विगळन्नु हनुमन्तनु अल्लि नोडिदनु. ध्वज, पताकॆगळन्नु कैगळल्लि हिडिदिरुववरन्नु शक्ति, वृक्ष, पट्टिश, वज्र, कणवॆ, हग्ग मुन्ताद हलवु बगॆय आयुधगळन्नु हिडिदु निन्तिद्द राक्षसरन्नु महाकपियु नोडिदनु. ॥20-21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As well as warriors armed with javelins and trees (śaktivṛkṣāyudhān), bearing paṭṭiśa spears and aśani bolts (paṭṭiśāśanidhāriṇaḥ), and holding slings and nooses in their hands (kṣepaṇīpāśahastān)—all these that great monkey beheld;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -819,6 +929,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 किन्हींके गलेमें फूलोंके हार थे और ललाट आदि अंग चन्दनसे चर्चित थे । कोई श्रेष्ठ आभूषणोंसे सजे हुए थे । कितने ही नाना प्रकारके वेशभूषासे संयुक्त थे और बहुतेरे स्वेच्छानुसार विचरनेवाले जान पड़ते थे ॥ २२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And multitudes wearing garlands (sragviṇaḥ), anointed with unguents (anuliptān), decked in choice ornaments (varābharaṇabhūṣitān), arrayed in various attires (nānāveṣasamāyuktān), and moving about wherever they pleased (yathāsvairacarān bahūn),
 </details>
 </details>
 
@@ -892,6 +1008,12 @@ protective force; *avyagram* = attentive; *setasahasram* = equal in hundred thou
 Hanuma saw at the front of inner city, a hundred thousand central protective force
 which was attentive and was positioned there at the command of Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bearing sharp pikes (tīkṣṇaśūladharān) and mighty thunderbolts (vajriṇaś ca mahābalān). The monkey then beheld the vigilant (avyagram) central garrison (ārakṣaṃ madhyamam) of one hundred thousand warriors (śatasāhasram),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -942,6 +1064,16 @@ That Hanuma saw Ravana's house with a golden doorway. That famed house was on th
 top of a mountain. Motes filled with white lotuses surrounded it. It was also surrounded by a
 compound wall. He watched the house again and again.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** Appointed by the lord of the rākṣasas (rakṣo'dhipatinirdiṣṭam) and stationed in front of the inner palace (antaḥpurāgrataḥ). Having seen that guard and that palace with its great golden archway (mahāhāṭakatoraṇam),
+
+**25:** That great monkey beheld the renowned palace of the lord of rākṣasas (rākṣasendrasya vikhyātam), established upon the crest of the mountain (adrimūrdhni pratiṣṭhitam), surrounded by moats (parikhābhiḥ samāvṛtam) that wore white lotuses as their crest-ornaments (puṇḍarīkāvataṃsābhiḥ),
+
+**26:** And thoroughly enclosed by ramparts (prākārāvṛtam atyantam)—a celestial citadel resembling heaven itself (triviṣṭapanibham divyam), resounding with divine melodies (divyanādavināditam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -970,6 +1102,14 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 घोड़ोंकी हिनहिनाहटकी आवाज भी वहाँ सब ओर फैली हुई थी । आभूषणोंकी रुनझुन भी कानोंमें पड़ती रहती थी । नाना प्रकारके रथ, पालकी आदि सवारी, विमान, सुन्दर हाथी, घोड़े, श्वेत बादलोंकी घटाके समान दिखायी देनेवाले चार दाँतोंसे युक्त सजे-सजाये मतवाले हाथी तथा मदमत्त पशु-पक्षियोंके संचरणसे उस राजमहलका द्वार बड़ा सुन्दर दिखायी देता था ॥ २७-२८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** Echoing with the neighing of steeds (vājihreṣitasaṃghuṣṭam), resonant with the tinkling of ornaments (nāditaṃ bhūṣaṇais tathā), and graced with chariots, palanquins, and aerial cars (rathair yānair vimānaiś ca), as well as auspicious horses and elephants (hayagajaiḥ śubhaiḥ),
+
+**28:** And adorned with four-tusked elephants (vāraṇaiś ca caturdantaiḥ) resembling masses of white clouds (śvetābhranicayopamaiḥ), and with rutting beasts and birds (mattaiś ca mṛgapakṣibhiḥ), having beauteous gateways (ruciradvāram).
 </details>
 </details>
 
@@ -1049,6 +1189,12 @@ Hanuma entered the inner city of Ravana which was filled with gold, which had a
 golden court-yard , with a central area decorated by pearls and diamonds of great value and
 sprinkled daily with water containing superb algallocum and sandal-wood.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkey entered the secret palace of the lord of rākṣasas (rākṣasādhipater guptam gṛham), which was guarded by thousands of yātudhānas of immense prowess (rakṣitaṃ sumahāvīryair yātudhānaiḥ sahasraśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1093,5 +1239,11 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नाल्कने सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He entered Rāvaṇa's inner palace (rāvaṇāntaḥpuram āviveśa), which had an encircling wall of gold and jāmbūnada (hemajāmbūnadacakravālam), whose interior was decked with priceless pearls and gems (mahārhamuktāmaṇibhūṣitāntam), and which was worthy of the finest black aguru and sandalwood (parārghyakālāgurucandanārham).
 </details>
 </details>

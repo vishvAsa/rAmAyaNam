@@ -36,6 +36,12 @@ title = "०३५ सूर्य-बुभुक्षा"
 
 भगवान् श्रीरामनु कैमुगिदुकॊण्डु दक्षिण दिक्किनल्लि वासिसुव अगस्त्यमुनिगळल्लि विनयपूर्वक अर्थयुक्त ई मातन्नु हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma asked the sage whose hermitage lay in the southern quarter (dakṣiṇāśāśramaṃ munim); with joined palms and endowed with humility (prāñjalir vinayopetaḥ), he spoke these meaningful words (idam āha vaco ’rthavat):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ title = "०३५ सूर्य-बुभुक्षा"
 
 महर्षिये! वालि मत्तु रावणर बलक्कॆ तुलनॆये इरलिल्ल ऎम्बुदरल्लि संशयवे इल्ल. आदरॆ अवरिब्बर बलवू हनुमन्तन बलक्कॆ सरियागलारदु ऎम्बुदे नन्न विचार.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Matchless indeed was this strength of Vālī and of Rāvaṇa (atulaṃ balam etad vai vālino rāvaṇasya ca); yet neither of those two is equal to Hanūmān (na tv etābhyāṃ hanumatā samam)—such is my conviction (iti matir mama).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +97,12 @@ title = "०३५ सूर्य-बुभुक्षा"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शौर्य, दक्षतॆ, बल, धैर्य, बुद्धिवन्तिकॆ, नीति, पराक्रम, प्रभाव इवॆल्ल सद्गुणगळु हनुमन्तनल्लि मनॆ माडिवॆ.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Valor, promptness, bodily strength, steadfastness (śauryaṃ dākṣyaṃ balaṃ dhairyam), keen discernment, and mastery of statecraft (prājñatā nayasādhanam), as well as prowess and spiritual potency (vikramaś ca prabhāvaś ca), have all made their abode in Hanūmān (hanūmati kṛtālayāḥ).
 </details>
 </details>
 
@@ -114,6 +132,12 @@ _________________
 
 समुद्रवन्नु नोडिये वानर सैन्यवु गाबरिगॊण्डाग, ई महाबाहु वीरनु अवरिगॆ धैर्यतुम्बि ऒन्दे नॆगॆतक्कॆ नूरु योजन समुद्रवन्नु हारिदनु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having seen the vānara host despondent upon beholding the ocean (dṛṣṭvaiva sāgaraṃ vīkṣya sīdantīṃ kapivāhinīm), that mighty-armed hero comforted them (samāśvāsya mahābāhuḥ) and leaped across a hundred yojanas (yojanānāṃ śataṃ plutaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +162,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ लङ्कापुरिय आधिदैविक रूपवन्नु गॆद्दु, रावणन अन्तःपुरक्कॆ होगि, सीतॆयन्नु कण्डु आकॆयल्लि मातुकतॆयाडि आकॆगॆ धैर्य तुम्बिदनु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having stormed the city of Laṅkā and Rāvaṇa’s inner palace (dharṣayitvā purīṃ laṅkāṃ rāvaṇāntaḥpuraṃ tadā), he beheld Sītā, conversed with her (dṛṣṭvā sambhāṣitā cāpi sītā), and comforted her as well (hy āśvāsitā tathā).
 </details>
 </details>
 
@@ -164,6 +194,12 @@ _________________
 
 अल्लि अशोकवनदल्लि इवनॊब्बने रावणन सेनापतिगळन्नु, मन्त्रिकुमाररन्नु, किङ्कररन्नु हागू रावणपुत्र अक्षकुमारनन्नु कॊन्दुहाकिदनु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The vanguard commanders, the ministers’ sons, the Kiṅkaras, and Rāvaṇa’s son [Akṣa] (senāgragā mantrisutāḥ kiṅkarā rāvaṇātmajaḥ)—all these were struck down there by Hanūmān single-handedly (ete hanumatā tatra hy ekena vinipātitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +224,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ अवनु मेघनादन ब्रह्मास्त्र दिन्द बन्धितनागि ताने मुक्तनादनु. बळिक रावणनॊडनॆ वार्तालापगैदु, प्रळयाग्नियु इडी पृथिवियन्नु सुडुवन्तॆ, लङ्कॆयन्नु सुट्टु बूदिमाडिदनु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Again, released from bondage (bhūyo bandhād vimuktena) after addressing the ten-headed king (bhāṣayitvā daśānanam), by him was Laṅkā reduced to ashes (laṅkā bhasmīkṛtā yena), like the earth consumed by fire (pāvakeneva medinī).
 </details>
 </details>
 
@@ -217,6 +259,12 @@ _________________
 
 युद्धदल्लि हनुमन्तनु तोरिद पराक्रम, शौर्यदन्तॆ, काल-शक्र-विष्णु-वरुण इवरू युद्धदल्लि तोरिरुवरॆन्दु नावु केळिल्ल.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither of Kāla, nor of Śakra, nor of Viṣṇu, nor of the lord of wealth [Kubera] (na kālasya na śakrasya na viṣṇor vittapasya ca) are such deeds heard of in battle (karmāṇi tāni śrūyante) as those of Hanūmān (yāni yuddhe hanūmataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,6 +289,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुनीश्वररे! नानादरो इवन बाहुबलदिन्दले विभिषणनिगागि लङ्कॆयन्नु, शत्रुगळ मेलॆ विजय, अयोध्यॆय राज्य हागू सीता-लक्ष्मण, मित्र-बान्धवरन्नु पडॆदिरुवॆनु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through the valor of his arms (etasya bāhuvīryeṇa), Laṅkā, Sītā, and Lakṣmaṇa were gained by me (prāptā mayā), and likewise victory, my kingdom, friends, and kinsmen (jayaś caiva rājyaṃ mitrāṇi bāndhavāḥ).
 </details>
 </details>
 
@@ -267,6 +321,12 @@ _________________
 
 वानरराज सुग्रीवन सख्य, हनुमन्तनु ननगॆ सिगुत्तिरदिद्दरॆ, जानकियन्नु हुडुकलु यारु समर्थरु इरुत्तिद्दरु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Had Hanūmān, the companion of the vānara king (vānarādhipateḥ sakhā), not stood by me (hanūmān yadi me naḥ syāt), who would have been capable of learning even tidings of Jānakī (pravṛttim api ko vettuṃ jānakyāḥ śaktimān bhavet)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -291,6 +351,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वालि-सुग्रीवरिगॆ विरोध उण्टादाग सुग्रीवन प्रिय माडुवुदक्कागि इवनु दावानलवु वृक्षगळन्नु सुट्टुबिडुवन्तॆ वालियन्नु एकॆ भस्म माडलिल्ल? ऎम्बुदु तिळियुवुदिल्ल.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Why then, when enmity arose long ago (tadā vaire samutpanne), out of desire to please Sugrīva (sugrīva-priya-kāmyayā), was Vālī not burned to ashes by this very hero (kimarthaṃ vāly anenaiva ... na dagdhaḥ), like dry creepers (vīrudho yathā)?
 </details>
 </details>
 
@@ -317,6 +383,12 @@ _________________
 
 आग हनुमन्तनिगॆ तन्न बलद परिचयविरलिल्ल ऎन्दे नानु तिळियुत्तेनॆ. इदरिन्द इवनु तन्न प्राणप्रिय वानरराज सुग्रीवनु कष्टपडुत्तिरुवुदन्नु नोडुत्ता इद्दनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely, I think, Hanūmān did not know his own strength (na hi veditavān manye hanūmān ātmano balam), seeing that he watched the vānara king, dearer than life itself (jīviteṣṭaṃ ... vānarādhipam), suffering affliction (kliśyantam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +413,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देववन्द्य महामुने! पूज्यरे! नीवु हनुमन्तन विषयदल्लि ऎल्लवन्नु यथार्थवागि विस्तारवागि तिळिसिरि.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Relate all this to me in full and as it truly is (vistareṇa yathātattvam), O blessed sage worshipped by the immortals (bhagavan ... amarapūjita), concerning high-minded Hanūmān (hanūmati mahāmatau)!”
 </details>
 </details>
 
@@ -367,6 +445,12 @@ _________________
 
 श्रीरामचन्द्रन युक्तियुक्त मातन्नु केळि महर्षि अगस्त्यरु हनुमन्तन ऎदुरिगे हीगॆ हेळिदरु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those well-reasoned words of Rāghava (rāghavasya vacaḥ śrutvā hetuyuktam), the sage then spoke these words to him (tam idaṃ vacanam abravīt) in the very presence of Hanūmān (hanūmataḥ samakṣam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -391,6 +475,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुकुलतिलक श्रीराम! हनुमन्तन कुरितु नीनु हेळिदुदॆल्ल सत्यवागिदॆ. बल, बुद्धि, वेग इवुगळन्नु सरिगट्टुववनु बेरॆ यारू इल्ल.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“True indeed is this which you declare concerning Hanūmān (satyam etad ... yad bravīṣi hanūmataḥ), O foremost of the Raghus: no other exists equal to him in strength, nor in speed, nor in intellect (na bale vidyate tulyo na gatau na matau paraḥ).
 </details>
 </details>
 
@@ -417,6 +507,12 @@ _________________
 
 शत्रुसूदन रघुनन्दन! यार शापवु ऎन्दू व्यर्थवागुवुदिल्लवो अन्तह मुनिगळु- ‘बलविद्दरू इवनिगॆ तन्न बलद पूर्ण परिचयविरलारदु’ ऎन्दु हिन्दॆ शपिसिद्दरु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Long ago, however, a curse was laid upon him by sages of unerring speech (amoghaśāpaiḥ śāpas tu datto ’sya munibhiḥ purā), whereby, though mighty, that crusher of foes (balī sann arimardanaḥ) does not know his own strength (na vettā hi balam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -442,6 +538,12 @@ _________________
 
 महाबलि श्रीरामा! इवनु बाल्यदल्ले माडिद महाकार्यगळन्नू वर्णिसलागुवुदिल्ल. आग इवनु बालभावदिन्द तिळियदवनन्ते इद्दनु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even in childhood, the deed performed by this hero, O mighty Rāma (bālye ’py etena yat karma kṛtaṃ rāma mahābala), cannot be described (tan na varṇayituṃ śakyam)—thus does he abide in childlike simplicity (iti bālatayā ’’syate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -466,6 +568,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! हनुमन्तन चरित्रॆयन्नु केळुव हार्दिक इच्छॆ निनगिद्दरॆ, एकाग्रचित्तनागि केळु; नानु ऎल्लवन्नु तिळिसुत्तेनॆ.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or if indeed it is your intention to hear of it (yadi vā ’sti tv abhiprāyas tac chrotuṃ tava), O Rāghava, compose your mind, O Rāma (samādhāya matiṃ rāma), and listen attentively—I shall relate it (niśāmaya vadāmy aham)!
 </details>
 </details>
 
@@ -495,6 +603,12 @@ _________________
 
 भगवान् सूर्यन वरदानदिन्द सुवर्णमय स्वरूपवाद सुमेरु ऎम्ब ऒन्दु प्रसिद्ध पर्वतवित्तु. अल्लि हनुमन्तन पिता केसरी राज्यवाळुत्तिद्दनु.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There is a mountain named Sumeru, made golden by a boon of the Sun (sūryadatta-varasvarṇaḥ sumerur nāma parvataḥ), where this hero’s father, Kesarī by name, rules his kingdom (yatra rājyaṃ praśāsty asya kesarī nāma vai pitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -519,6 +633,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन पत्नी अञ्जनादेवियु ख्यातळागिद्दळु. आकॆय गर्भदिन्द वायुदेवर कृपॆयिन्द उत्तम पुत्रनु हुट्टिदनु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He had a renowned wife named Añjanā (tasya bhāryā babhūvaiṣā hy añjaneti pariśrutā), and upon her indeed the Wind-god Vāyu begot this supreme son (janayāmāsa tasyāṃ vai vāyur ātmajam uttamam).
 </details>
 </details>
 
@@ -548,6 +668,12 @@ _________________
 
 अञ्जनॆयु इवनन्नु जन्मवित्ताग इवन अङ्गकान्तियु भत्तद अग्रभाग दन्तॆ पिङ्गळ वर्णदिन्द शोभिसुत्तित्तु. ऒन्दु दिन तायि अञ्जनॆयु फलगळन्नु तरलु गहनवनक्कॆ होदळु.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having given birth to this child glowing like the awn of ripening rice (śāliśūka-nibhābhāsaṃ prāsūtāmuṃ tadā ’ñjanā), Añjanā, roaming the deep forest (gahanecarā), went forth desiring to gather fruits (phalāny āhartukāmā vai niṣkrāntā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -572,6 +698,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग तायियिन्द अगलिद शिशु हनुमन्तनु हसिवॆयिन्द पीडितनागि हिन्दॆ जम्बु हुल्लिन नडुवॆ कुमार कार्तिकेयनु अळुवन्तॆ गट्टियागि अळतॊडगिदनु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Sorely afflicted by separation from his mother and by hunger (mātur viyogāc ca kṣudhayā ca bhṛśārditaḥ), this infant cried aloud exceedingly (ruroda śiśur atyartham), like the infant [Skanda] in the reed-thicket (śiśuḥ śaravaṇe yathā).
 </details>
 </details>
 
@@ -598,6 +730,12 @@ _________________
 
 अष्टरल्लि दासवाळदन्तॆ कॆम्पाद सूर्यनु उदयिसुत्तिरुवुदु काणिसितु. हनुमन्तनु सूर्यनन्नु इदॊन्दु हण्णॆन्दु भाविसि, फलद आसॆयिन्द सूर्यन कडॆगॆ हारिदनु.॥23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, beholding the rising Sun, resembling a cluster of scarlet hibiscus blooms (udyantaṃ vivasvantaṃ japāpuṣpotkaropamam), out of longing for fruit (phalalobhāc ca) he leaped upward toward the Sun (utpapāta raviṃ prati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -622,6 +760,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मूर्तिमन्त बालसूर्यनन्तॆये इद्द हनुमन्तनु बालसूर्यन अभिमुखनागि अवनन्नु हिडियुव इच्छॆयिन्द आकाशदल्लि हारुत्ता होगुत्तिद्दनु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Facing the young sun, the young boy—looking like the young sun embodied (bālārkābhimukho bālo bālārka iva mūrtimān)—soars through mid-heaven (plavate ’mbaramadhyagaḥ), eager to seize the young sun (grahītukāmo bālārkam)!
 </details>
 </details>
 
@@ -648,6 +792,12 @@ _________________
 
 शैशवावस्थॆयल्ले हनुमन्तनु हीगॆ हारुत्तिरुवुदन्नु नोडि देवतॆगळिगॆ, दानवरिगॆ हागू यक्षरिगॆ परमाश्चर्यवायितु.॥25॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As this Hanūmān soared through the sky in his very infancy (etasmin plavamāne tu śiśubhāve hanūmati), exceeding great astonishment arose among the gods, Dānavas, and Yakṣas (devadānava-yakṣāṇāṃ vismayaḥ sumahān abhūt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -672,6 +822,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई वायुपुत्रनु हेगॆ ऎत्तर आकाशदल्लि वेगवागि हारुत्तिरुवनो, अन्तह वेग वायु, गरुड, मनक्कू इल्ल.॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Neither the Wind, nor Garuḍa, nor even the mind is so swift (nāpy evaṃ vegavān vāyur garuḍo vā manas tathā) as this son of the Wind traversing the lofty firmament (yathā ’yaṃ vāyuputras tu kramate ’mbaram uttamam)!
 </details>
 </details>
 
@@ -698,6 +854,12 @@ _________________
 
 बाल्यावस्थॆयल्ले ई शिशुविन इन्तह वेग, पराक्रमविद्दरॆ यौवनद बल पडॆदाग इवन वेग हेगिद्दीतु? ऎन्दु देवतॆगळु योचिसुत्तिद्दरु.॥27॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘If in this infant’s childhood such indeed is his speed and prowess (yadi tāvac chiśor asya tv īdṛśo gativikramaḥ), once he attains youth and full strength (yauvanaṃ balam āsādya), how swift will his velocity become (kathaṃ vego bhaviṣyati)?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -722,6 +884,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तन्न मगनु सूर्यन कडॆगॆ होगुत्तिरुवुदन्नु कण्डु, अवनिगॆ आगुव तापद भयदिन्द अवनन्नु रक्षिसलु वायुदेवरु हिमगड्डॆयन्तॆ शीतलनागि अवन हिन्दॆ-हिन्दॆये होगुत्तिद्दनु.॥28॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behind his soaring son glided the Wind-god himself (tam anuplavate vāyuḥ plavantaṃ putram ātmanaḥ), cool as a bank of snow (tuṣāracaya-śītalaḥ), shielding him from fear of being scorched by the Sun (sūryadāhabhayād rakṣan).
 </details>
 </details>
 
@@ -751,6 +919,12 @@ _________________
 
 हीगॆ बालक हनुमन्तनु तन्न मत्तु तन्दॆय बलदिन्द अनेक साविर योजन दूर आकाशदल्लि क्रमिसि सूर्यदेवन समीपक्कॆ होदनु.॥29॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having ascended the sky, he traverses many thousands of yojanas (bahuyojana-sāhasraṃ kramaty eṣa gato ’mbaram); through his father’s might and his own childish fearlessness (pitur balāc ca bālyāc ca), he came into the very presence of the Sun (bhāskarābhyāśam āgataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -775,6 +949,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवनु इन्नू शिशु, गुणदोषगळन्नु तिळिदवनल्ल, मेलागि इवनल्लि देवतॆगळ मुन्दिन कार्य अडगिदॆ ऎन्दु सूर्यनु योचिसि, बालकनन्नु सुडलिल्ल.॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘This is a mere child, without discernment (śiśur eṣa tv adoṣajñaḥ), and moreover a great mission rests upon him (kāryaṃ cātra samāyattam)’—reflecting thus (iti matvā), the Maker of Day did not burn him (ity evaṃ na dadāha saḥ).
 </details>
 </details>
 
@@ -801,6 +981,12 @@ _________________
 
 हनुमन्तनु सूर्यनन्नु हिडियलु हारिद दिनवे राहुवु सूर्यदेवनन्नु कबळिसलु बयसुत्तिद्दनु.॥31॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“On the very day that this boy leaped upward to seize the Sun (yam eva divasaṃ hy eṣa grahītuṃ bhāskaraṃ plutaḥ), on that very day Rāhu was seeking to devour the Maker of Day (tam eva divasaṃ rāhur jighṛkṣati divākaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -826,6 +1012,12 @@ _________________
 
 सूर्यन रथद मेलिद्द राहुवन्नु हनुमन्तनु मुट्टिदॊडनॆ चन्द्रार्कमर्दननाद राहुवु भयगॊण्डु अल्लिन्द ओडिहोदनु.॥32॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Brushed aside by this child atop the Sun’s chariot, O Rāma (anena sa parāmṛṣṭo rāma sūryarathopari), Rāhu—that crusher of moon and sun (rāhuś candrārkamardanaḥ)—fled thence in terror (apakrāntas tatas trastaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -850,6 +1042,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सिंहिकापुत्र राहुवु रोषगॊण्डु इन्द्रभवनक्कॆ होगि देवतॆगळिन्द परिवृतनाद इन्द्रनन्नु हुब्बु गण्टिक्कि नोडुत्ता हेळिदनु.॥33॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Going in wrath to Indra’s abode (sa indrabhavanaṃ gatvā saroṣaḥ), the son of Siṃhikā (siṃhikāsutaḥ) knit his brows (bhrukuṭiṃ kṛtvā) and spoke to the king of gods surrounded by the celestial hosts (devaṃ devagaṇair vṛtam):
 </details>
 </details>
 
@@ -879,6 +1077,12 @@ _________________
 
 बलवृत्र हन्तक वासवने! सूर्य-चन्द्रनन्नु नन्न हसिवन्नु इङ्गलु नीनु ननगॆ कॊट्टिरुवि, आदरॆ ईग नीने अवरन्नु बेरॆयवर वशक्कॆ कॊट्टिरुवॆ. हीगेकायितु.॥34॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Having bestowed the moon and sun upon me as the banisher of my hunger, O Vāsava (bubhukṣāpanayaṃ dattvā candrārkau mama vāsava), what is this—that you have now given them to another (kim idaṃ tat tvayā dattam anyasya), O slayer of Bala and Vṛtra (balavṛtrahan)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -904,6 +1108,12 @@ _________________
 
 इन्दु अमावास्यॆ पर्वदन्दु नानु सूर्यनन्नु नुङ्गलु होगिद्दॆ. अष्टरल्लि मत्तॊब्ब राहुवु बन्दु सूर्यनन्नु हिडिदुबिट्टिरुवनु.॥35॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Today, on the eclipse day, I came desiring to seize the Sun (adyāhaṃ parvakāle tu jighṛkṣuḥ sūryam āgataḥ); thereupon another Rāhu approached and suddenly grabbed the Sun (athānyo rāhur āsādya jagrāha sahasā ravim)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -928,6 +1138,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राहुविन ई मातन्नु केळि देवेन्द्रनु गाबरिगॊण्डु, सुवर्णमालॆयन्नु धरिसिद अवनु सिंहासनवन्नु बिट्टु मेलक्कॆद्दनु.॥36॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those words of Rāhu (sa rāhor vacanaṃ śrutvā), Vāsava, seized with agitation (vāsavaḥ sambhramānvitaḥ), sprang up leaving his throne (utpapātāsanaṃ hitvā), bearing his golden garland (codvahan kāñcanīṃ srajam).
 </details>
 </details>
 
@@ -963,6 +1179,14 @@ _________________
 
 मत्तॆ कैलास शिखरदन्तॆ उज्वलवाद, नाल्कु दन्तगळिन्द विभूषित, मदोदकवन्नु हरिसुत्तिरुव, बगॆ-बगॆय शृङ्गारदिन्द कूडिद, अति ऎत्तरवाद, सुवर्णमय गण्टानाददन्तॆ अट्टहास माडुव गजराज ऐरावतवन्नु हत्ति देवेन्द्रनु राहुवन्नु मुन्दिरिसिकॊण्डु, हनुमन्तनॊडनॆ सूर्यनु विराजिसुत्तिद्दल्लिगॆ बन्दनु. ॥37-38॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**37:** “Then, mounting the lord of elephants—gleaming like Kailāsa’s peak, four-tusked, streaming with rut (kailāsakūṭābhaṃ caturdantaṃ madasravam), wearing festive trappings, towering tall, and roaring with the peal of golden bells (śṛṅgāradhāriṇaṃ prāṃśuṃ svarṇaghaṇṭāṭṭahāsinam)—
+
+**38:** “Indra, having mounted that royal elephant (indraḥ karīndram āruhya) and placed Rāhu in the van (rāhuṃ kṛtvā puraḥsaram), marched forth to where the Sun stood together with this Hanūmān (prāyād yatrābhavat sūryaḥ sahānena hanūmatā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -988,6 +1212,12 @@ _________________
 
 इत्त राहु इन्द्रनन्नु बिट्टु वेगवागि मुन्दरिदनु. आग पर्वतशिखरदन्तॆ आकारवुळ्ळ राहुवु ओडि बरुत्तिरुवुदन्नु हनुमन्तनु नोडिदनु.॥39॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then Rāhu, leaving Vāsava behind, darted ahead in extreme haste (athātirabhasenāgād rāhur utsṛjya vāsavam); and he was spotted by this boy as he charged onward like a mountain peak (anena ca sa vai dṛṣṭaḥ pradhāvañ chailakūṭavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1012,6 +1242,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग राहुवन्नु फलवॆन्दु नोडि बालक हनुमन्तनु सूर्यनन्नु बिट्टु आ सिंहिका पुत्रनन्ने हिडियलु आकाशदल्लि हारिदनु.॥40॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon, abandoning the Sun (tataḥ sūryaṃ samutsṛjya) and looking upon Rāhu as a fruit (rāhuṃ phalam avekṣya ca), he leaped once more into the sky to seize Siṃhikā’s son (utpapāta punar vyoma grahītuṃ siṃhikāsutam).
 </details>
 </details>
 
@@ -1041,6 +1277,12 @@ _________________
 
 श्रीरामा! सूर्यनन्नु बिट्टु तन्न कडॆगॆ बरुत्तिरुव वानर हनुमन्तनन्नु नोडि, मुखमात्रवुळ्ळ राहु हिम्मुखवागि ओडिदनु.॥41॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding this monkey abandon the Sun and charge straight at him, O Rāma (utsṛjyārkam imaṃ rāma pradhāvantaṃ plavaṅgamam), the one who remains a head alone (mukhaśeṣaḥ) wheeled about and turned his face in flight (parāvṛttya ... parāṅmukhaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1066,6 +1308,12 @@ _________________
 
 आग सिंहिका पुत्र राहु तन्न रक्षक इन्द्रनॆन्दे बगॆदु रक्षणॆगागि भयदिन्द इन्द्रने! इन्द्रने! रक्षिसु ऎन्दु पुनः-पुनः कूगतॊडगिदनु.॥42॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Looking to Indra as his protector (indram āśaṃsamānas tu trātāram), Siṃhikā’s son cried out again and again in sheer terror (saṃtrāsān muhur muhur abhāṣata): ‘Indra! Indra!’ (indra indreti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1090,6 +1338,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कूगुत्तिरुव राहुविन स्वरवन्नु गुरुतिसि इन्द्रनु हेळिदनु - हॆदरबेड. नानु ई आक्रमणकारियन्नु कॊन्दुबिडुवॆ.॥43॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing beforehand the recognized voice of Rāhu shrieking in distress (rāhor vikrośamānasya prāg evālakṣitaṃ svaram), Indra called out (śrutvendrovāca): ‘Fear not! I shall slay this fellow (mā bhaiṣīr aham enaṃ niṣūdaye)!’
 </details>
 </details>
 
@@ -1119,6 +1373,12 @@ _________________
 
 बळिक ऐरावतवन्नु नोडि हनुमन्तनु इदू ऒन्दु दॊड्ड फलवॆन्दु तिळिदु आ गजराजनन्नु हिडियलु अदर कडॆगॆ ओडिदनु.॥44॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, beholding Airāvata (airāvataṃ tato dṛṣṭvā) and thinking, ‘This too is a huge fruit!’ (mahat tad idam ity api phalaṃ matvā), the son of the Wind rushed straight at the king of elephants (hastirājam abhidudrāva mārutiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1143,6 +1403,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऐरावतवन्नु हिडियुव इच्छॆयिन्द ओडुत्तिरुव हनुमन्तन रूपवु मुहूर्त मात्र इन्द्राग्निगळन्तॆ प्रकाशमानवागि भयङ्करवायितु.॥45॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As he raced onward eager to seize Airāvata (tathāsya dhāvato rūpam airāvata-jighṛkṣayā), his form became for a moment terrible and resplendent (muhūrtam abhavad ghoram ... bhāsvaram), like Indra and Agni combined (indrāgnyor iva).
 </details>
 </details>
 
@@ -1169,6 +1435,12 @@ _________________
 
 बालक हनुमन्तनन्नु नोडि शचीपति इन्द्रनिगॆ हॆच्चु सिट्टु बन्दिल्ल. आदरू हीगॆ आक्रमण माडुव बालक वानरन मेलॆ अवनु वज्रायुधदिन्द प्रहरिसिदनु.॥46॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet the lord of Śacī, not overly angered at him charging thus (evam ādhāvamānaṃ tu nātikruddhaḥ śacīpatiḥ), struck him with his thunderbolt released from the tip of his hand (hastāntād atimuktena kuliśenābhyatāḍayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1193,6 +1465,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्द्रन वज्रायुधद एटु तिन्दु हनुमन्तनु ऒन्दु पर्वतद मेलॆ बिद्दनु. हागॆ बीळुवाग अवन ऎड दवडॆयु मुरिदु होयितु.॥47॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Struck by Indra’s thunderbolt, this child fell upon a mountain (tato girau papātaiṣa indravajrābhitāḍitaḥ); and as he fell, his left jaw was broken (patamānasya caitasya vāmo hanur abhajyata).
 </details>
 </details>
 
@@ -1219,6 +1497,12 @@ _________________
 
 वज्राघातदिन्द व्याकुलनागि अवनु बीळुत्तले वायुदेवरु इन्द्रन मेलॆ कुपितनादनु. अवन ई क्रोध प्रजाजनरिगॆ अहितकरवायितु.॥48॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When that boy fell, stunned by the thunderbolt’s blow (tasmiṃs tu patite bāle vajratāḍana-vihvale), the Wind-god grew wrathful against Indra (cukrodhendrāya pavanaḥ)—to the calamity of all creatures (prajānām ahitāya saḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1243,6 +1527,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 समर्थनाद मारुतनु समस्त प्रजॆगळॊळगॆ इद्दरू तन्न गतियन्नु हिन्दॆगॆदुकॊण्डनु. श्वासादि रूपदल्लि सञ्चार तडॆहिडिदनु हागू तन्न पुत्र हनुमन्तनन्नु ऎत्तिकॊण्डु ऒन्दु गुहॆगॆ होदनु.॥49॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Gathering back his circulation (pracāraṃ sa tu saṅgṛhya), that sovereign Wind-god who abides within all creatures (prajāsv antargataḥ prabhuḥ mārutaḥ) took up his infant son and entered a mountain cave (guhāṃ praviṣṭaḥ svasutaṃ śiśum ādāya).
 </details>
 </details>
 
@@ -1269,6 +1559,12 @@ _________________
 
 इन्द्रनु मळॆयन्नु तडॆयुवन्तॆये वायुदेवरु प्रजाजनर मल-मूत्रगळन्नु तडॆदु, अवरिगॆ बहळ पीडॆयन्नुण्टुमाडिदनु. अवनु समस्त प्राणिगळ प्राण-सञ्चार अवरोध माडिबिट्टनु.॥50॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Obstructing the channels of waste and urine (viṇmūtrāśayam āvṛtya) and inflicting extreme agony upon all creatures (prajānāṃ paramārtikṛt), he checked all living beings (rurodha sarvabhūtāni), just as Vāsava withholds the rains (yathā varṣāṇi vāsavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1293,6 +1589,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वायुविन प्रकोपदिन्द समस्त प्राणिगळ उसिरु निन्तुहोयितु. अवर ऎल्ल सन्दुगळु सडिलादवु. ऎल्लरू कट्टिगॆयन्तॆ चेष्टाशून्यरादरु.॥51॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through the wrathful disorder of the Wind (vāyuprakopāt), creatures everywhere grew breathless (bhūtāni nirucchvāsāni sarvataḥ); and with their joints cracking apart (sandhibhir bhidyamānaiś ca), they became rigid like dry logs (kāṣṭhabhūtāni jajñire).
 </details>
 </details>
 
@@ -1322,6 +1624,12 @@ _________________
 
 मूरु लोकगळल्लि वेदाध्ययन, यज्ञगळु नडॆयदन्तागि ऎल्ल धर्म कर्म निन्तुहोदुवु. त्रिभुवनद प्राणिगळु नरकदल्लि बिद्दन्तॆ यातनॆ अनुभविसतॊडगिदरु.॥52॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bereft of Vedic recitation and vaṣaṭ oblations (niḥsvādhyāya-vaṣaṭkāram), devoid of action and stripped of righteousness (niṣkriyaṃ dharmavarjitam), the triple world, through Vāyu’s wrath, became as though plunged in hell (trailokyaṃ nirayastham ivābhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1346,6 +1654,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग गन्धर्वरु, देवतॆगळु, असुररु, मनुष्यरे आदि ऎल्ल प्रजॆयु व्यथितरागि, सुख पडॆयुव इच्छॆयिन्द प्रजापति ब्रह्मदेवर बळिगॆ ओडिदरु.॥53॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon all creatures, together with Gandharvas, gods, Asuras, and mortals (prajāḥ sagandharvāḥ sadevāsuramānuṣāḥ), ran in anguish to the Lord of Creatures, longing for relief (prajāpatiṃ samādhāvan duḥkhitāś ca sukhecchayā).
 </details>
 </details>
 
@@ -1378,6 +1692,14 @@ _________________
 
 आग देवतॆगळ हॊट्टॆ महोदर रोगदन्तॆ उब्बिहोगित्तु. अवरु कैमुगिदुकॊण्डु भगवन्, स्वामि! नीवु नाल्कु रीतिय प्रजॆगळन्नु सृष्टिसिदॆ. नीवु नम्मॆल्लर आयुस्सिन अधिपति रूपदल्लि वायुदेवरिगॆ अर्पिसिदिरि. साधुशिरोमणिये! ई पवन देवनु नम्म प्राणगळ स्वामि यागिद्दरू इन्दु अवनु अन्तःपुरद स्त्रीयरन्तॆ नम्म शरीरदॊळगॆ तन्न सञ्चार निल्लिसिबिट्टिरुवनु हागू ई प्रकार इवनु नमगॆ दुःखजनकनागिद्दानॆ.॥54-55½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**54:** “With joined palms, the gods—their bellies swollen as if by dropsy (mahodara-nibhodarāḥ)—spoke to him: ‘By you indeed, O blessed Lord of Creatures, were the fourfold living beings created (tvayā nu bhagavan sṛṣṭāḥ prajānātha caturvidhāḥ)!
+
+**55:** “‘By you was this Wind appointed the guardian of our lifespan (tvayā datto ’yam asmākam āyuṣaḥ pavanaḥ patiḥ); being the lord of our vital breath (so ’smān prāṇeśvaro bhūtvā), why indeed today, O best of beings (kasmād eṣo ’dya sattama)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1402,6 +1724,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वायुविनिन्द पीडितराद नावु निमगॆ शरणागिरुवॆवु, दुःखहारि प्रजापतिये! नीवु नम्म ई वायुरोधजनित दुःखवन्नु दूरगॊळिसु.॥56½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Has he confined us, inflicting agony, like women shut within an inner apartment (rurodha duḥkhaṃ janayann antaḥpura iva striyaḥ)? Therefore, afflicted by Vāyu, we have come to you for refuge (tasmāt tvāṃ śaraṇaṃ prāptā vāyunopahatā vayam)!’
 </details>
 </details>
 
@@ -1428,6 +1756,12 @@ _________________
 
 प्रजॆगळ ई मातन्नु केळि अवर पालक, रक्षक ब्रह्मदेवरु हेळिदरु - ‘इदरल्लि एनो कारणविदॆ’ ऎन्दु तिळिसि प्रजॆगळल्लि पुनः हेळिदरु.॥57½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing this plea of the creatures (etat prajānāṃ śrutvā tu), the Lord of Creatures, Prajāpati (prajānāthaḥ prajāpatiḥ), declared, ‘It is for a cause!’ (kāraṇād iti coktvāsau), and spoke again to the creatures (prajāḥ punar abhāṣata):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1452,6 +1786,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रजॆगळिरा! याव कारणदिन्द वायुदेवरु क्रोधगॊण्डु, तन्न गतियन्नु निल्लिसिरुवनु? इदन्नु हेळुत्तेनॆ, केळिरि. आ कारण केळुवुदु निमगॆ उचितवागिदॆ.॥58½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Hear, O creatures, the entire cause for which Vāyu grew wrathful and obstructed all (yasmiṃś ca kāraṇe vāyuś cukrodha ca rurodha ca ... śṛṇudhvaṃ tat sarvam)—a matter fitting for you to hear (śrotavyaṃ cātmanaḥ kṣamam).
 </details>
 </details>
 
@@ -1478,6 +1818,12 @@ _________________
 
 इन्दु देवेन्द्रनु राहुविन मातन्नु केळि वायुपुत्रनन्नु हॊडॆदु बीळिसिरुवनु, इदरिन्द अवनु कुपितनागिरुवनु.॥59½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Today his son was struck down by Indra, lord of the immortals (putras tasyāmareśena indreṇādya nipātitaḥ), acting upon Rāhu’s words (rāhor vacanam āsthāya); therefore has the Wind-god grown enraged (tataḥ sa kupito ’nilaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1502,6 +1848,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वायुदेवरु स्वतः शरीर धरिसदॆये समस्त शरीरगळल्लि अदन्नु रक्षिसुत्ता सञ्चरिसुत्तानॆ. वायुविल्लदिद्दरॆ ई शरीर ऒणगिद कट्टिगॆयन्तागुवुदु.॥60½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Bodiless, the Wind moves within all bodies, preserving them (aśarīraḥ śarīreṣu vāyuś carati pālayan); indeed, without the Wind, a body becomes the equal of lifeless timber (śarīraṃ hi vinā vāyuṃ samatāṃ yāti dārubhiḥ).
 </details>
 </details>
 
@@ -1531,6 +1883,12 @@ _________________
 
 वायुवे ऎल्लर प्राण मत्तु सुख आगिद्दानॆ, वायुवे ई इडी जगत्तागिद्दानॆ. वायुवन्नु बिट्टु जगत्तु ऎन्दू सुखियागलारदु.॥61½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Wind is vital breath, Wind is happiness, Wind is this entire universe (vāyuḥ prāṇaḥ sukhaṃ vāyur vāyuḥ sarvam idaṃ jagat); utterly forsaken by Wind, the world finds no joy (vāyunā samparityaktaṃ na sukhaṃ vindate jagat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1555,6 +1913,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वायुवे जगत्तिन आयुस्सु आगिद्दानॆ. ईग वायुवु प्रपञ्चद प्राणिगळन्नु त्यजिसिरुवनु. इदरिन्द अवरॆल्लरू निष्प्राणरागि कट्टिगॆ, गोडॆगळन्तॆ आगिद्दारॆ.॥62½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘This very day, abandoned by Wind who is the world’s lifespan (adyaiva ca parityaktaṃ vāyunā jagadāyuṣā), this very day have beings stood breathless, like wooden posts and walls (nirucchvāsāḥ kāṣṭhakuḍyopamāḥ sthitāḥ).
 </details>
 </details>
 
@@ -1584,6 +1948,12 @@ _________________
 
 अदिति पुत्ररे! ईग नावु ऎल्लरन्नु पीडिसुव वायुदेवरु अडगि कुळितल्लिगॆ होगबेकु. अवनन्नु सन्तोषगॊळिसदॆ ऎल्लर विनाश आगदिरलि.॥63॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Therefore let us go where the Wind-god abides, who now brings us torment (tad yāmas tatra yatrāste māruto rukprado hi naḥ); let us not go to ruin without propitiating him, O sons of Aditi (mā vināśaṃ gamiṣyāma aprasādyāditeḥ sutāḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1612,6 +1982,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर देवतॆगळु, गन्धर्वरु, नागरु, गुह्यकरे मॊदलाद प्रजॆगळन्नु करॆदुकॊण्डु प्रजापति ब्रह्मनु वायुदेवनु इन्द्रनिन्द हॊडॆयल्पट्ट तन्न मगनन्नॆत्तिकॊण्डु कुळितल्लिगॆ बन्दनु.॥64॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then Prajāpati, accompanied by all creatures, along with gods, Gandharvas, serpents, and Guhyakas (prajābhiḥ sahitaḥ prajāpatiḥ sadevagandharva-bhujaṅga-guhyakaiḥ), went to the place where the Wind-god sat holding his son struck down by the king of gods (jagāma tatrāsyati yatra mārutaḥ sutaṃ surendrābhihataṃ pragṛhya saḥ).
 </details>
 </details>
 
@@ -1657,6 +2033,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि मूवत्तैदनॆय सर्ग पूर्णवायितु. ॥35॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, beholding that child of the ever-moving Wind (sutaṃ tadotsaṅgagataṃ sadāgateḥ) resting on his lap, radiant as the sun, fire, and gold (arkavaiśvānara-kāñcanaprabham), four-faced Brahmā, together with gods, Gandharvas, sages, Yakṣas, and rākṣasas, felt deep compassion (caturmukho vīkṣya kṛpām athākarot).
 </details>
 </details>
 

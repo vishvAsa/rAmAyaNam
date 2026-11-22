@@ -73,6 +73,12 @@ took a bath of solemnity, all the gods have come forward wishing to accord the f
 of that ascesis to Vishvamitra." Thus Sage Shataananda continued the legend of Vishvamitra.
 [1-63-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When a full thousand years had elapsed (pūrṇe varṣasahasre tu), all the gods, desiring to bestow the fruit of his austerity (tapaḥphalacikīrṣavaḥ), approached the great sage who had taken his ritual bath upon completing his vow (vratasnātaṃ mahāmunim abhyagacchan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +129,12 @@ a 'kingly sage' *raajaSi* and to attain a still higher *brahmarSi*
 endowed to those who are above the negative traits of humans, like greed, anger,
 lust, jealousy etc.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brahmā of supreme splendour spoke these most pleasing words (abravīt sumahātejā brahmā suruciraṃ vacaḥ): “You have now become a Ṛṣi—may auspiciousness attend you!—through the righteous deeds earned by your own exertion (ṛṣis tvam asi bhadraṃ te svārjitaiḥ karmabhiḥ śubhaiḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,6 +180,12 @@ vigorous Vishvamitra again performed a great ascesis. [1-63-3]
 The word *vi* in the name of Vishvamitra is taken as the third syllable in
 Gayatri Hymn.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to him, the lord of the gods returned again to heaven (tam evam uktvā deveśas tridivaṃ punar abhyagāt); and the resplendent Viśvāmitra once again practiced mighty austerity (bhūyas tepe mahat tapaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,6 +227,12 @@ swimming for sport.
 Then at a long lost time Menaka, the prominent apsara, celestial wench, has arrived
 and started to swim for sport in that holy lake. [1-63-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, after a long time (tataḥ kālena mahatā), the supreme celestial nymph Menakā (menakā paramāpsarāḥ), O best of men, came to bathe in the sacred lakes of Puṣkara (puṣkareṣu naraśreṣṭha snātuṃ samupacakrame).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -249,6 +273,12 @@ an incomparable one; *taam menakaam dadarsha* = he has seen at her, Menaka.
 That great resplendent sage Vishvamitra has seen Menaka who is incomparable in
 her mien and comparable to an electric-flash in a black-cloud, while she is swimming
 in the holy lake. [1-63-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The resplendent son of Kuśika beheld that Menakā there (tāṃ dadarśa mahātejā menakāṃ kuśikātmajaḥ), matchless in beauty, shining like a flash of lightning in a dark cloud (rūpeṇāpratimāṃ tatra vidyutaṃ jalade yathā).
 </details>
 </details>
 
@@ -300,6 +330,12 @@ On seeing her the sage having gone under the sway the Love-god said this to her,
 'oh, apsara, you are welcome, I invite you to bide in my hermitage. Oblige me who
 am bewitched by Love-god for you. You be safe.' [1-63-6, 7a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Falling under the sway of Kāma’s intoxicating pride (kandarpadarpavaśagaḥ), the sage spoke these words to her: “Welcome to you, O celestial nymph! Abide here in my hermitage (apsaraḥ svāgataṃ te ’stu vasa ceha mamāśrame).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -324,6 +360,12 @@ am bewitched by Love-god for you. You be safe.' [1-63-6, 7a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निनगॆ ऒळ्ळॆयदागलि नानु कामदिन्द मोहितनागिरुवॆनु. नन्न मेलॆ दयॆतोरु. अवरु हीगॆ हेळिदाग सुन्दरियाद मेनकॆयु अल्ले इरतॊडगिदळु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Show favour—may auspiciousness attend you!—to me who am utterly bewildered by love (anugṛhṇīṣva bhadraṃ te madanena vimohitam)!” Thus addressed, that fair-hipped nymph took up her abode there (sā varārohā tatra vāsam athākarot).
 </details>
 </details>
 
@@ -372,6 +414,12 @@ When he said thus to her, oh, Raghava, then she made a stopover there and ten ye
 rolled by comfortably, and oh, gentle Rama, because of her staying Vishvamitra is
 indeed faced with a great hindrance in his ascesis. [1-63-7b, 8, 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Verily, a mighty impediment to austerity befell Viśvāmitra (tapaso hi mahāvighno viśvāmitram upāgamat); while she dwelt there, O Rāghava, five years and another five (tasyāṃ vasantyāṃ varṣāṇi pañca pañca ca rāghava)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -396,6 +444,12 @@ indeed faced with a great hindrance in his ascesis. [1-63-7b, 8, 9a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इष्टु समय कळॆदुहोदाग महामुनि विश्वामित्ररु लज्जितरागि चिन्तॆयल्लि मुळुगिदरु.॥9½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Slipped away in pleasure within Viśvāmitra’s pleasant hermitage (viśvāmitrāśrame saumye sukhena vyaticakramuḥ). Then, when that period had passed, the great sage Viśvāmitra (atha kāle gate tasmin viśvāmitro mahāmuniḥ)
 </details>
 </details>
 
@@ -442,6 +496,12 @@ buddhiH samutpannaa* = thought, occurred.
 Then after the lapse of that ten year period Vishvamitra became doleful with distress
 and he is enwrapped in humiliation, as it were, and, oh, Rama, Raghu's legatee,
 then a resentful thought occurred to him. [1-63-9b, 10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Became filled with shame, as it were, and given over to anxious reflection and grief (savrīḍa iva saṃvṛttaś cintāśokaparāyaṇaḥ); and an indignant realization arose in the sage’s mind, O delight of the Raghus (buddhir muneḥ samutpannā sāmarṣā raghunandana):
 </details>
 </details>
 
@@ -494,6 +554,12 @@ Ten years have rolled by as if they are just a day and a night. Furthermore, I w
 am under the influence of lust and lure had to encounter this hindrance in my ascesis.
 [1-63-11, 12a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All this is the work of the gods—a great plot to rob me of my austerity (sarvaṃ surāṇāṃ karmaitat tapo’paharaṇaṃ mahat)! Under the semblance of a single day and night, ten years have passed away (ahorātrāpadeśena gatāḥ saṃvatsarā daśa)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -516,6 +582,12 @@ am under the influence of lust and lure had to encounter this hindrance in my as
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ विचारमाडुत्ता मुनिवर विश्वामित्ररु निट्टुसिरुबिडुत्ता पश्चात्तापदिन्द दुःखितरादरु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Overcome by passion and delusion, I have been confronted by this impediment (kāmamohābhibhūtasya vighno ’yaṃ pratyupasthitaḥ)!” Sighing heavily, that foremost of sages, afflicted with remorse (sa niḥśvasan munivaraḥ paścāttāpena duḥkhitaḥ),
 </details>
 </details>
 
@@ -570,6 +642,12 @@ But on seeing the scared celestial wench Menaka, who is shivering and waiting wi
 suppliantly adjoined palms, he sent her away with pleasant words, and he that Vishvamitra
 indeed went to the northern Himalayan mountain. [1-63-12b, 13, 14a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beheld the celestial nymph Menakā standing before him with joined palms, terrified and trembling (bhītām apsarasaṃ dṛṣṭvā vepantīṃ prāñjaliṃ sthitām); dismissing her with gentle words, the son of Kuśika (menakāṃ madhurair vākyair visṛjya kuśikātmajaḥ)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,6 +690,12 @@ He that highly celebrated sage who made a resolve to attain a sang-froid tempera
 and to vanquish lust, performed an unsurpassable ascesis on reaching the riverbank
 of River Kaushiki. [1-63-14b, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Journeyed to the northern mountain (Himavat), O Rāma (uttaraṃ parvataṃ rāma viśvāmitro jagāma ha). Forming an unwavering resolution of lifelong celibacy in his desire to conquer the senses, the illustrious sage (sa kṛtvā naiṣṭhikīṃ buddhiṃ jetukāmo mahāyaśāḥ)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -652,6 +736,12 @@ mountain; *varSasahasraaNi* = thousand years; *ghoram tapaH upaasataH*
 Oh, Rama, while he reverently performed an unspeakable ascesis for a thousand years
 on the northern mountain, namely Himalayas, then fear occurred to gods. [1-63-15b,
 16a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reached the bank of the Kauśikī river and practiced unapproachable austerity (kauśikītīram āsādya tapas tepe durāsadam). As he practiced terrible penance on the northern mountain for a thousand years (tasya varṣasahasrāṇi ghoraṃ tapa upāsataḥ),
 </details>
 </details>
 
@@ -694,6 +784,12 @@ on the northern mountain, namely Himalayas, then fear occurred to gods. [1-63-15
 ' All gods coming together with assemblages of sages have approached Brahma and conveyed
 that, 'this Vishvamitra, the son of Kushika, may duly be given the epithet of 'Maharshi,
 Exalted Sage.' [1-63-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fear arose among the gods, O Rāma (uttare parvate rāma devatānām abhūd bhayam). Assembling together with the hosts of sages, all the gods took counsel and petitioned Brahmā (āmantrayan samāgamya sarve sarṣigaṇāḥ surāḥ):
 </details>
 </details>
 
@@ -754,6 +850,14 @@ these pleasant words to the ascetically wealthy Vishvamitra. [1-63-17b, 18a]
 'Oh, exalted sage, I welcome you my dear, as I am gladdened by your stern ascesis,
 oh, Kaushika, I bestow upon you the sublimity and supremacy among sages.' [1-63-18b,
 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** “Let this son of Kuśika fittingly receive the title of Maharṣi (maharṣiśabdaṃ labhatāṃ sādhv ayaṃ kuśikātmajaḥ)!” Hearing the words of the gods, the Grandsire of all the worlds (devatānāṃ vacaḥ śrutvā sarvalokapitāmahaḥ)
+
+**18:** Spoke these sweet words to Viśvāmitra whose wealth was austerity (abravīn madhuraṃ vākyaṃ viśvāmitraṃ tapodhanam): “O Maharṣi, welcome to you, my child! Gratified by your fierce penance (maharṣe svāgataṃ vatsa tapasogreṇa toṣitaḥ),
 </details>
 </details>
 
@@ -822,6 +926,14 @@ And on hearing the words of Brahma he that ascetically wealthy Vishvamitra becam
 obeisant and replied the Grandparent adjoining his palms suppliantly. [1-63-19b,
 20a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “I bestow upon you greatness and pre-eminence among sages, O Kauśika (mahattvam ṛṣimukhyatvaṃ dadāmi tava kauśika)!” Hearing the words of Brahmā, Viśvāmitra whose wealth was austerity (brahmaṇas tu vacaḥ śrutvā viśvāmitras tapodhanaḥ),
+
+**20:** Bowing low with joined palms, replied to the Grandsire (prāñjaliḥ praṇato bhūtvā pratyuvāca pitāmaham): “Since the peerless title of Brahmarṣi, through the auspicious deeds earned by my own exertion (brahmarṣiśabdam atulaṃ svārjitaiḥ karmabhiḥ śubhaiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -862,6 +974,12 @@ jitendriyaH taavat na* = you are, not as such with conquered senses;
 
 Brahma then said to him, 'your senses remain unconquered as such, oh, tigerly sage,
 make an effort for it.' Saying so Brahma went heavenward. [1-63-21b, 22a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Has not been pronounced for me by the Blessed Lord, am I then truly a conqueror of my senses (yadi me bhagavān nāha tato ’haṃ vijitendriyaḥ)?” Thereupon Brahmā spoke to him: “Not yet have you conquered your senses (na tāvat tvaṃ jitendriyaḥ);
 </details>
 </details>
 
@@ -904,6 +1022,12 @@ insecurely standing in levitation; *vaayubhakSaH* = subsisting on air;
 While the gods who came here along with Brahma have returned, that great sage Vishvamitra
 undertook another round of ascesis by standing in levitation, upraising his arms,
 and subsisting on air alone. [1-63-22b, 23a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Strive on, O tiger among sages (yatasva muniśārdūla)!” Having spoken thus, he departed to heaven (ity uktvā tridivaṃ gataḥ). When the gods had departed, the great sage Viśvāmitra (viprasthiteṣu deveṣu viśvāmitro mahāmuniḥ)
 </details>
 </details>
 
@@ -963,6 +1087,14 @@ sun, overhead. An ascetic staying among these five fires will become an ascetic
 fire. The first word in first foot *dharme*, will also used as *gharme*,
 as above, in some mms.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** With arms upraised, without any support, subsisting on air alone as he practiced austerity (ūrdhvabāhur nirālambo vāyubhakṣas tapaś caran), surrounded by five fires in the summer heat, and having only the open sky for shelter during the rains (gharme pañcatapā bhūtvā varṣāsv ākāśasaṃśrayaḥ),
+
+**24:** And lying in water day and night during the dewy winter season, rich in austerity (śiśire salileśāyī rātryahāni tapodhanaḥ)—thus for a thousand years he underwent terrible penance (evaṃ varṣasahasraṃ hi tapo ghoram upāgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1002,6 +1134,12 @@ very high, burning [problem]; *aasiit* = it became.
 
 While that great saint is undertaking fervent ascesis it has become a very high
 burning problem to gods and even to Indra. [1-63-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While that great sage Viśvāmitra was thus performing fiery austerity (tasmin saṃtapyamāne tu viśvāmitre mahāmunau), a great torment of anxiety arose among the gods and in Vāsava (Indra) (saṃtāpaḥ sumahān āsīt surāṇāṃ vāsavasya ca).
 </details>
 </details>
 
@@ -1062,6 +1200,12 @@ narration. [1-63-26]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि अरवत्त मूरनॆय सर्ग पूर्णवायितु.॥63॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by all the hosts of Maruts, Śakra (Indra) spoke to the celestial nymph Rambhā (rambhām apsarasaṃ śakraḥ sarvaiḥ saha marudgaṇaiḥ) a word beneficial to himself and detrimental to Kauśika (uvācātmahitaṃ vākyam ahitaṃ kauśikasya ca).
 </details>
 </details>
 

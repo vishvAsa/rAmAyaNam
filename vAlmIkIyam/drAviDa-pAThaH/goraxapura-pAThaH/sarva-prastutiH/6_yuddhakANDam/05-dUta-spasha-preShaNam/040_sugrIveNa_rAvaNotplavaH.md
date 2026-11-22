@@ -52,6 +52,12 @@ Sugreeva comes back and rejoins his monkey-troops.
 
 अनन्तर वानर सेनापतिगळिन्द कूडिद सुग्रीवनॊन्दिगॆ श्रीरामनु ऎरडु योजन विस्तारवाद सुवेल पर्वत शिखरवन्नु हत्तिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma, accompanied by Sugrīva and surrounded by the monkey troops (hari-yūthaiḥ), ascended the summit of Suvela, whose plateau measured two yojanas in circuit.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -105,6 +111,12 @@ Halting there just for a while and surveying the ten cardinal points, Rama saw t
 city of Lanka, which was beautifully constructed by Visvakarma, the divine architect on the top of
 Trikuta Mountain with nice arrangements and ravishing with enchanting groves.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing right there for a muhūrta and surveying the ten directions, [he beheld Laṅkā] built by Viśvakarmā upon the lovely peak of Trikūṭa—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -132,6 +144,14 @@ Trikuta Mountain with nice arrangements and ravishing with enchanting groves.
 
 आग लङ्कापट्टणद गोपुरद तुदियल्लि कुळितिद्द दुर्जय रावणनू कण्डुबन्दनु. अवन इक्कॆलगळल्लि बिळिय चामर बीसुत्तिद्दरु, तलॆय मेलॆ श्वेतछत्र शोभिसुत्तित्तु. रावणनु शरीर कॆम्पाद आभरणगळिन्द अलङ्कृतवागि रक्तचन्दनदिन्द चर्चितवागित्तु.॥3-4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** He beheld well-laid-out Laṅkā, resplendent with lovely groves, and stationed atop the pinnacle of its gateway tower (gopura-śṛṅga-stham) the unassailable lord of Rākṣasas—
+
+**4:** Flanked on either side by white yak-tail fans, graced by a parasol of victory (vijaya-cchatra), smeared with red sandal-paste, and decked with jeweled ornaments—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -156,6 +176,12 @@ Trikuta Mountain with nice arrangements and ravishing with enchanting groves.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु कप्पाद मोडदन्तॆ काणुत्तिद्दनु. चिन्नद जरतारी वस्त्रगळन्नु धरिसिद्दनु. ऐरावतद दाडॆगळिन्द आद एटिन चिह्नॆ ऎदॆयमेलॆ काणुत्तित्तु.॥.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling a dark rain-cloud, clad in gold-veiled raiments (hema-saṃchāditāmbaram), his chest marked with prominent scars gouged by the tips of Airāvata's tusks—
 </details>
 </details>
 
@@ -211,6 +237,12 @@ sunshine at sunset.
 
 मॊलद रक्तदन्तॆ कॆम्पाद वस्त्रगळन्नु हॊद्दुकॊण्डु, अवनु आकाशदल्लिन सन्ध्याकालद कॆम्पाद मोडगळन्तॆ कण्डु बरुत्तिद्दनु.॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Draped in a crimson garment dyed the hue of hare's blood (śaśa-lohita-rāgeṇa), like a mass of clouds in the sky veiled by twilight sunlight.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -250,6 +282,12 @@ sunshine at sunset.
 
 On seeing Ravana, Sugreeva got up all at once, while Rama and the chiefs of the army
 of monkeys were looking on.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as the monkey chiefs looked on, and as Rāghava too was looking on, at the mere sight of the lord of Rākṣasas Sugrīva sprang up suddenly.
 </details>
 </details>
 
@@ -292,6 +330,12 @@ Ravana was).
 Gathering up his strength and courage, Sugreeva, in an impulse of fury, bounded from
 the summit of the mountain and then sprang to the top of the gate (where Ravana was).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with a surge of wrath, and endowed with courage (sattvena) and strength, rising from the mountain crest he bounded onto the gateway terrace (gopura-sthale).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -332,6 +376,12 @@ spoke; *vachaH* = (the following) words; *parusham* = harshly.
 
 For a moment, he paused and then with a fearless soul, he saw that demon, whom he
 regarded as a mere straw and thereafter spoke the following words harshly:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pausing a muhūrta and fixing him with his gaze, with a fearless inner spirit (antarātmanā) and accounting that Rākṣasa as a blade of grass (tṛṇī-kṛtya), he spoke harsh words:
 </details>
 </details>
 
@@ -380,6 +430,12 @@ today; *mayaa* = by me; *tejasaa* = by the inspiring grace; *paarthivendrasya*
 "O, demon! I am a friend and a servant of Rama, the Lord of the world. You will not
 be spared by me today, by the inspiring grace of Rama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am the friend and servant of Rāma, the lord of the world, O Rākṣasa! Today, through the majesty of that lord of kings, you shall not escape me!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -426,6 +482,12 @@ brightly coloured; *mukuTam* = crown; *paatayaamaasa* = and threw; *tat* = it;
 
 Thus speaking, Sugreeva jumped up all at once, bounced over on ravana, pulled his
 brightly coloured crown from his head and threw it away on the ground.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, springing up suddenly, he leaped right upon him; snatching away his wondrous crown (mukuṭaṃ citram), he dashed it down upon the ground.
 </details>
 </details>
 
@@ -478,6 +540,12 @@ Seeing Sugreeva about to rush upon him again, Ravana spoke as follows: "You were
 Sugreeva (one who has a handsome neck), when your were not present before my eyes. But now, you
 will now become Hinagriva bereft of your neck."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him rushing swiftly at him, the night-stalker spoke to him: “Behind my back (parokṣaṃ me) you are Sugrīva (‘fair-necked’), [but before me] you shall become neckless (hīna-grīvaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -519,6 +587,12 @@ having raised up; (Ravana); *baahubhyaam* = with his two arms; *kSipram* = quick
 Speaking thus, Ravana raised up and quickly flung Sugreeva to the ground with both
 his arms. Bouncing like a ball, Sugreeva flung back his adversary with his arms.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus and rising swiftly, he hurled him down onto the platform (tale) with both arms; rebounding like a ball (kanduvat), that monkey threw him down with both arms.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,6 +621,12 @@ his arms. Bouncing like a ball, Sugreeva flung back his adversary with his arms.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ अवरिब्बरू परस्पर द्वन्द्वयुद्धक्कॆ तॊडगिदरु. इब्बर शरीरगळू बॆवरिनिन्द हागू रक्तदिन्द तॊय्दु होयितु. ऒब्बरन्नॊब्बरु बाचि तब्बिकॊण्डाग आ बिगितदिन्द इब्बरू निश्चेष्टितरन्तादरु. आग आ राक्षस-वानररु बूरुगद मत्तु मुत्तुगद मरगळन्तॆ काणुत्तिद्दरु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Their limbs mutually drenched with sweat, their bodies mutually crimsoned with blood, their movements mutually locked in tight embrace, they stood mutually like blooming śālmali and kiṃśuka trees.
 </details>
 </details>
 
@@ -605,6 +685,12 @@ perspiration broke out on their limbs, with their bodies red with blood, each cl
 paralyzing his opponent's movements resembling silk-cotton and Kimshuka trees, followed by blows of
 fists, slaps of hands blows of elbows and blows of fingers on each other.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With blows of their fists, slaps of their palms, strikes of their cubits (aratni-ghātaiḥ), and thrusts of their fingertips, those two mighty lords of Rākṣasas and monkeys waged an unbearable combat.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -651,6 +737,12 @@ flat roof of the gate-way.
 Having wrestled for a long time in the center of the flat floor of the gate way,
 each in turn repeatedly lifting their bodies and bending their feet in a particular way, the two
 highly swift combatants remained in that flat roof of the gate way.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having waged close wrestling (niyuddham) fiercely for a long time in the middle of the gateway terrace, lifting and heaving each other and bending their bodies, by their footwork they clung to the gateway ledge.
 </details>
 </details>
 
@@ -728,6 +820,12 @@ yojanas).
 Then, Rama along with Sugreeva, together with the troop leaders of monkeys, ascended
 the top of Suvela mountain which was having a circumference of sixteen miles.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crushing each other with locked bodies, the two plunged down between the rampart and the moat (sāla-nikhāta-madhye); touching the ground, they sprang back up and stood a muhūrta breathing hard.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -788,6 +886,12 @@ With arms interlaced like with ropes joined together, they remained locked toget
 in the struggle. Both of them, who had received training in wrestling and fully endowed with night,
 were now moving to and fro in the arena.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Locking and relocking each other with the cords of their arms (bāhu-yoktraiḥ), they grappled in battle; endowed with fury, training, and strength, they deftly moved through martial courses.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -843,6 +947,12 @@ The two heroes, who resembled a tiger and a a lion having their tusks growing or
 young lordly elephants encountening in a hostile manner, with arms interlaced and having duly tried
 their strength, fell on the ground together.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a tiger and a lion with newly grown fangs (jāta-daṃṣṭrau), or like two young lordly elephants locked in combat, clashing and wrapping each other with their arms, the two fell simultaneously to the earth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -892,6 +1002,12 @@ jagmatuH* = nor did they obtain; *aashu* = so quickly; *klamam* = fatigue.
 
 Thereafter rising, those two heroes hurled themselves on each other, circling around
 the arena again and again, like skilled and mighty wrestlers, nor were they easily fatigued.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lifting and hurling each other down, they moved through many a course of combat; endowed with athletic training, skill, and strength (vyāyāma-śikṣā-bala-samprayuktau), those two heroes knew no fatigue.
 </details>
 </details>
 
@@ -952,6 +1068,12 @@ Like unto great tuskers with their enormous arms resembling the trunks, those tw
 warriors were keeping back each other, fought vehemently for a long time and moved speedily in a
 circular arena.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warding each other off with their superb arms that resembled elephant trunks (vāraṇa-vāraṇābhaiḥ), the two, resembling magnificent elephants, fought fiercely for a long time and swiftly coursed in circular tracks (maṇḍala-mārgam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -992,6 +1114,12 @@ meat; *yattau* = trying; *anyonya suudane* = to kill each other;
 Approaching each other like tow wild cats fighting over a piece of meat trying to
 kill each other, they stood growling again and again.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Closing with each other and intent on mutual destruction, like two cats contending over prey (mārjārāv iva bhakṣārthe), they stood poised again and again.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1021,6 +1149,12 @@ kill each other, they stood growling again and again.
 विचित्र मण्डल* मत्तु बगॆबगॆय स्थानगळन्नु** प्रदर्शिसुत्ता, गोमूत्रद रेखॆयन्तॆ अङ्कु डॊङ्काद गतियिन्द सञ्चरिसुत्ता, विचित्र गतियिन्द कॆलवॊम्मॆ मुन्दॆ कॆलवॊम्मॆ हिन्दॆ सरियुत्तिद्दरु.॥23॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[They executed] variegated circular courses (maṇḍalāni), diverse martial stances (sthānāni), wondrous zigzag courses (gomūtrakāṇi), and advances and retreats (gata-pratyāgatāni)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1083,6 +1217,16 @@ about abandoning the attack, dashing towards each other, leaping, standing firm 
 retreated, turned sideways, rushed in a bent posture, ran lifting their foot to kick the opponent
 and by letting go or stealing away.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** As well as lateral movements (tiraścīna-gatāni), sinuous movements (vakra-gatāni), the parrying of blows (parimokṣaṃ prahārāṇām), evasion, and circling runs.
+
+**25:** [Exhibiting] headlong charges (abhidravaṇam), frog-leaps (āplāvam), combat stances (avasthānaṃ sa-vigraham), wheeling turns (parāvṛttam), sidesteps (apāvṛttam), low darts (apadrutam), and downward lunges (avaplutam)—
+
+**26:** And arm-extensions (upanyastam) and arm-withdrawals (apanyastam), those two masters of the courses of combat, the lord of monkeys and Rāvaṇa, maneuvered against each other.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1138,6 +1282,14 @@ commence; *maayaabalam* = his magic power; *jJNaatvaa* = knowing; *tam* = it;
 Meanwhile, Ravana decided to common using his magic power. Knowing it, Sugreeva flew
 into the sky triumphantly shaking off all fatigue, while Ravana, baffled by Sugreeva stood
 confounded there alone.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** In the meantime, the Rākṣasa prepared to employ his own power of illusion (māyā-balam); perceiving that [intent of his], the overlord of monkeys—
+
+**28:** Sprang up into the sky right then, radiant with victory (jita-kāśī) and having conquered fatigue (jita-klamaḥ); cheated by the king of monkeys, Rāvaṇa remained standing right there.
 </details>
 </details>
 
@@ -1199,6 +1351,12 @@ Thus, the Lord of the monkeys, acquiring fame as a warrior, reducing Ravana to
 exhaustion, ascended into the infinite sky and the offspring of the Sun then went to the side of
 Rama, who as in the middle of the mokye-troops.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that lord of the foremost monkeys, the son of the Sun (arka-sūnuḥ), having won renown in battle and exhausted the lord of night-stalkers in combat, traversed the vast sky and came to Rāma's side amidst the monkey host.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1259,5 +1417,11 @@ honoured by the monkey leaders and delighted, rejoined the army.
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे चत्वारिंशः सर्गः ॥ ४० ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें चालीसवाँ सर्ग पूरा हुआ ॥ ४० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus accomplished that feat there, the son of Savitṛ, swift as the wind, entered the army filled with joy, heightening the battle-ardor of the prince of the Raghu race and honored by the chiefs of the tree-coursing hosts.
 </details>
 </details>

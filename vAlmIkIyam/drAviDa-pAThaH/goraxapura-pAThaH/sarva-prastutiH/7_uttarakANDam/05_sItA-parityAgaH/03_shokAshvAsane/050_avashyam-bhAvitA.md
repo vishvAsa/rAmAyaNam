@@ -39,6 +39,12 @@ _________________
 
 मिथिलेशकुमारी सीतॆयु मुनिय आश्रमदल्लि प्रवेशिसिदळु, इदन्नु नोडि लक्ष्मणनु मनस्सिनल्ले अत्यन्त दुःखितनागि, घोर सन्तापवुण्टायितु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Sītā Maithilī conducted into the hermitage (āśrame sampraveśitām), Lakṣmaṇa, downcast in spirit (dīna-cetanaḥ), fell into terrible anguish (santāpam agamad ghoram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -67,6 +73,12 @@ _________________
 
 आग महातेजस्वी लक्ष्मणनु मन्त्रियू, सारथियू आगिद्द सुमन्त्रनल्लि हेळिदनु- सारथिये! नोडु, श्रीरामनिगॆ सीता विरहद दुःख ईगिनिन्दले अनुभविस बेकायितल्ल.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the greatly resplendent prince (mahātejāḥ) spoke to Sumantra, the minister-charioteer (sumantraṃ mantra-sārathim): “Behold, O charioteer, the sorrow of Rāma (duḥkhaṃ paśya rāmasya), born of his anguish over Sītā (sītā-santāpajam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -91,6 +103,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पवित्र आचरणवुळ्ळ धर्मपत्नी जनकात्मजॆयन्नु परित्याग माडबेकायितु. इदक्किन्त मिगिलाद दुःख श्रीरामनिगॆ बेरॆ एनिरबहुदु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What indeed could be more grievous for Rāghava than this (tato duḥkhataraṃ kiṃ nu rāghavasya bhaviṣyati), after abandoning his wife of spotless conduct (patnīṃ śuddha-samācārām), the daughter of Janaka?
 </details>
 </details>
 
@@ -117,6 +135,12 @@ _________________
 
 सारथिये! रघुनाथनिगॆ उण्टाद ई सीतॆय नित्य वियोगदल्लि दैववे कारणवॆन्दु नानु तिळियुत्तेनॆ; एकॆन्दरॆ दैवविधानवन्नु अतिक्रमिसु वुदु असाध्यवादुदु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Clearly I deem this separation of Rāghava from Vaidehī (rāghavasya vinā-bhavam vaidehyā) to be the work of destiny (vyaktaṃ daivād ahaṃ manye), O charioteer—for fate is ever impossible to transgress (daivaṃ hi duratikramam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -141,6 +165,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 याव रघुनाथनु क्रुद्धनादरॆ देव-दानव-गन्धर्व-असुर-राक्षस रन्नु संहरिसलु समर्थनो, अवने इन्दु दैवक्कॆ अधीननागिद्दानॆ.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For that Rāghava who in wrath could slay the gods together with the gandharvas (devān sa-gandharvān) and the asuras along with the rākṣasas (asurān saha rākṣasaiḥ)—even he submits to destiny (sa daivam anuvartate).
 </details>
 </details>
 
@@ -167,6 +197,12 @@ _________________
 
 मॊदलु श्रीरामनिगॆ तन्दॆय आज्ञॆयन्तॆ हदिनाल्कु वर्ष निर्जन दण्डकारण्यदल्लि इरबेकायितु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of old, at his father’s word (pitur vākyāt), Rāma dwelt in the lonely Daṇḍaka forest (daṇḍake vijane vane) for nine years and five besides (nava varṣāṇi pañca caiva) in the great wilderness—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -191,6 +227,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ईग अवनिगॆ सीतॆयन्नु अरण्यक्कॆ कळिसबेकाद दुःखवु अदक्किन्तलू दॊड्डदागिदॆ. आदरॆ पुरवासिगळ मातन्नु केळि हीगॆ माडुवुदु अत्यन्त निर्दयवाद कर्मवॆन्दु ननगॆ तोरुत्तदॆ.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet far more grievous than that (tato duḥkhataraṃ bhūyaḥ) is this banishment of Sītā (sītāyā vipravāsanam) upon hearing the talk of citizens (paurāṇāṃ vacanaṃ śrutvā); to me it appears utterly cruel (nṛśaṃsaṃ pratibhāti me).
 </details>
 </details>
 
@@ -217,6 +259,12 @@ _________________
 
 सारथिये! सीतॆय विषयदल्लि अन्यायद मातन्नु आडिद ई पुरवासिगळिन्दागि, इन्तह कीर्तिनाशक कर्मदल्लि प्रवृत्तनागि श्रीरामनु ऎन्तह धर्मवन्नु साधिसिदन्तायितु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What foundation of dharma, O charioteer (ko nu dharmāśrayaḥ sūta), has been gained in this fame-destroying deed (karmaṇy asmin yaśohare) against Maithilī, brought about by citizens who speak worthless words (paurair hīnārtha-vādibhiḥ)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,6 +289,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मणनु आडिद अनेक मातुगळन्नु केळि बुद्धिवन्त सुमन्त्रनु श्रद्धापूर्वक हीगॆ हेळिदनु .॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing these manifold words spoken by Lakṣmaṇa (lakṣmaṇa-bhāṣitāḥ), the wise Sumantra, moved by earnest devotion (śraddhayā prājñaḥ), spoke this reply:
 </details>
 </details>
 
@@ -267,6 +321,12 @@ _________________
 
 सुमित्रानन्दन! मैथिली सीतॆय कुरितु नीवु सन्तप्तवागबारदु. लक्ष्मण! ई मातुगळन्नु ब्राह्मणरु निम्म तन्दॆयवर मुन्दॆये तिळिसिद्दरु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You should not give way to anguish, O Saumitri (na santāpas tvayā kāryaḥ), on account of Maithilī; all this was foreseen of old by brahmins (dṛṣṭam etat purā vipraiḥ) in the presence of your father, O Lakṣmaṇa (pitus te ... agrataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,6 +352,12 @@ _________________
 
 श्रीरामनु निश्चयवागि हॆच्चु दुःखपडुवनु, सुखरहितनागुवनु, महाबाहु श्रीरामनिगॆ शीघ्रवागि तन्न प्रियजनर वियोग उण्टागुवुदु ऎन्दु आगले दूर्वासरु हेळिद्दरु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Assuredly Rāma shall live mostly in sorrow (bhaviṣyati dṛḍhaṃ rāmo duḥkha-prāyaḥ), even while partaking of joy (api saukhya-bhāk), and the mighty-armed one shall surely suffer separation from his loved ones (viprayogaṃ priyair dhruvam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -316,6 +382,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुमित्रानन्दन! धर्मात्मा महापुरुष श्रीरामनु बहळ काल कळॆद बळिक निम्मन्नु, मैथिलियन्नु, भरत मत्तु शत्रुघ्ननन्नु त्यजिसुवनु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Both you and Maithilī, as well as both Śatrughna and Bharata (śatrughna-bharatāv ubhau), that righteous and great-souled one shall relinquish (santyajiṣyati dharmātmā) in the fullness of long time (kālena mahatā).’
 </details>
 </details>
 
@@ -345,6 +417,12 @@ _________________
 
 दुर्वासरु हेळिद मातन्नु निन्नल्लि, शत्रुघ्ननल्लि, भरतनल्लि हेळलु दशरथ महाराजरु हेळबारदॆन्दु ननगॆ आज्ञापिसिद्दरु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This word which Durvāsas uttered (durvāsā yad uvāca ha) when addressed by the king regarding you princes (rājñā vo vyāhṛtaṃ vākyam) must never be spoken before you, O Saumitri, nor before Bharata (tvayi na vaktavyaṃ ... bharate ’pi vā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -369,6 +447,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरश्रेष्ठने! दुर्वासमुनिगळु दॊड्ड जनसमुदायदल्लि नन्न मत्तु वसिष्ठर सन्निधियल्लि निन्न तन्दॆगॆ हेळिद्दरु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In the presence of that great personage [Daśaratha] (mahājana-samīpe), of myself as well (mama caiva), O bull among men, and in the presence of Vasiṣṭha (vasiṣṭhasya ca sannidhau), those words were uttered by the sage (ṛṣiṇā vyāhṛtaṃ vākyam).
 </details>
 </details>
 
@@ -395,6 +479,12 @@ _________________
 
 दुर्वासमुनिय मातन्नु केळि पुरुषश्रेष्ठ दशरथनु ननगॆ हेळिद्दरु - सारथिये! नीनु इतर जनरल्लि ई रीतिय मातुगळन्नु हेळबारदु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having heard the words of the sage (ṛṣes tu vacanaṃ śrutvā), that foremost of men [Daśaratha] said to me: ‘Charioteer, never anywhere must this be spoken by you (na kvacid evaṃ te vaktavyam) in the presence of people (jana-sannidhau).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -420,6 +510,12 @@ _________________
 
 सौम्य! लोकपालक दशरथन आ वाक्यवन्नु नानु सुळ्ळागिसलारॆ, ऎम्बुदे नन्न सङ्कल्प. इदक्कागि नानु ऎच्चरिकॆयिन्द इरुवॆनु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Ever vigilant (susamāhitaḥ), I hold it as my settled conviction (iti me saumya darśanam), O gentle one, that the word of that guardian of the world (tasya ... lokapālasya vākyam) must never at any time be rendered false (naiva jātv anṛtaṃ kāryam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -444,6 +540,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सौम्य रघुनन्दन! ई मातन्नु निम्म मुन्दॆ हेळबारदागित्तु, आदरॆ निम्म मनस्सिनल्लि इदन्नु केळलु श्रद्धॆ (उत्सुकतॆ) इद्दरॆ केळु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By no means ought this to be spoken by me before you, O gentle one (sarvathaiva na vaktavyaṃ mayā saumya tavāgrataḥ); yet if you have ardent faith to hear it (yadi te śravaṇe śraddhā), then listen, O delight of the Raghus (śrūyatāṃ raghunandana)!
 </details>
 </details>
 
@@ -478,6 +580,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हिन्दॆ महाराजरु ई रहस्यवन्नु बेरॆयवरल्लि प्रकटिसबारदॆन्दु आदेशिसिद्दरू, इन्दु नानु अदन्नु तिळिसुवॆनु. दैवविधानवन्नु उल्लङ्घिसुवुदु बहळ कष्टवागिदॆ; अदरिन्दले ई दुःख मत्तु शोक प्राप्तवागिदॆ. अय्या! नीनू कूड भरत-शत्रुघ्नरिगॆ तिळिसबारदु.॥18-19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “Even though I was bound in secret by the king of old (yady apy ahaṃ narendreṇa rahasyaṃ śrāvitaḥ purā), still I shall relate it (tathāpy udāhariṣyāmi), for destiny is impossible to transgress (daivaṃ hi duratikramam)—
+
+**19:** “—that destiny by which this present sorrow fraught with grief has arrived (yenedam īdṛśaṃ prāptaṃ duḥkhaṃ śoka-samanvitam); yet never must you speak of it before Bharata (na tvayā bharate vācyam), nor even in the presence of Śatrughna (śatrughnasyāpi sannidhau)!”
 </details>
 </details>
 
@@ -514,6 +624,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऐवत्तनॆय सर्ग पूर्णवायितु. ॥50॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those weighty words of his, endowed with profound meaning (gambhīrārtha-padaṃ mahat), Saumitri then spoke to the charioteer (sūtaṃ vākyam athābravīt): “Speak the truth (tathyaṃ brūhi)!”
 </details>
 </details>
 

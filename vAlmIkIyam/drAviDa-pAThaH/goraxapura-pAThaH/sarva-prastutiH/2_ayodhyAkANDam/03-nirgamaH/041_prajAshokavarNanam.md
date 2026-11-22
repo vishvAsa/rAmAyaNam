@@ -60,6 +60,12 @@ shabdaH* = a great cry of distress ;samjaG^ye = arose ;striiNaam = among women ;
 As Rama the tiger among men, having paid obeisance with joined palms departed, a
 great cry of distress arose among women of inner apartments.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that tiger among men (puruṣa-vyāghre) went forth with joined palms (kṛtāñjalau), a great cry of anguish (ārta-śabdaḥ) arose among the women in the inner apartments (antaḥpure).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -106,6 +112,12 @@ unhappy."
 
 Where is he going, who was the path, who became the protector of the people, who are
 now defenseless weak and unhappy?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Where now goes that lord (nāthaḥ) who was the refuge (gatiḥ) and shelter (śaraṇam) of this protectorless (anāthasya), weak, and pitiable (tapasvinaḥ) people?
 </details>
 </details>
 
@@ -154,6 +166,12 @@ their suffering?"
 "Where has he gone, who was not angry even when provoked, who resolved every
 misunderstanding and who propitiated all those who were angry by sharing their suffering?
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even when falsely accused (abhiśastaḥ api), he does not give way to anger, shunning all provocations to wrath (krodhanīyāni varjayan); pacifying all who are angry and sharing equally in everyone’s sorrow (sama-duḥkhaḥ), where does he go?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -200,6 +218,12 @@ Rama; *gachchhati* = has gone?"
 
 That illustrious and great-souled Rama, who treated us with the same reverence he
 paid to his own mother, where has he gone?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Where now goes that high-souled one (mahātmā) of great splendour (mahā-tejāḥ), who conducts himself toward us just as he conducts himself toward his own mother Kausalyā?
 </details>
 </details>
 
@@ -248,6 +272,12 @@ Kaikeyi"
 "Where has he gone, he the protector of the people and the whole world, driven to
 the forest by the king, goaded on by Kaikeyi? ''
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Driven forth to the forest (saṃcoditaḥ vanam) by the king, who was tormented by Kaikeyī (kaikeyyā kliśyamānena), where now goes the deliverer (paritrātā) of this people and of the entire world?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -293,6 +323,12 @@ minded; *satyavratam* = strictly truthful .
 
 "Alas! In his folly, the king has banished the virtuous the beloved and the strictly
 truthful Rama to the forest!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Alas! Stripped of his senses (niścetanaḥ), the king banishes to forest exile (vanavāse pravatsyati) the righteous Rāma of true vows (satya-vratam), who is the very refuge of the world of living beings (jīva-lokasya saṃkṣayam)!”
 </details>
 </details>
 
@@ -340,6 +376,12 @@ those queens; *rurudushchaiva* = shed their tears; *duhkhaartaaH* = in grief;
 Thus did all the queens lament, like unto cows deprived of their calves and in there
 affection cried out loudly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus afflicted with grief (duḥkhārtāḥ), all those queens (mahiṣyaḥ) wept and cried aloud with resonant voices (sa-svaram ca vicukruśuḥ), like cows bereft of their calves (vivatsāḥ iva dhenavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -386,6 +428,12 @@ apartments.
 
 Hearing those terrible crying sounds in the private apartments, the king profoundly
 afflicted by the departure of his son, became increasingly depressed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that terrible cry of anguish (ghoram ārta-śabdam) in the inner apartments, the lord of the earth, scorched by grief for his son (putra-śoka-abhisaṃtaptaḥ), became utterly distraught (su-duḥkhitaḥ).
 </details>
 </details>
 
@@ -462,6 +510,14 @@ Elephants threw out the morsels of food they had taken into their mouths. Cows d
 not give suck to their calves. Mother did not rejoice, for having got a son born for the first
 time.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** The agnihotra oblations were not offered (na agnihotrāṇi ahūyanta), householders cooked no food (na apacan gṛhamedhinaḥ), the people performed no work, and the sun itself vanished from view (antaradhīyata).
+
+**10:** Elephants dropped their mouthfuls of forage (vyasṛjan kavalān nāgāḥ), cows did not suckle their calves (gāvaḥ vatsān na pāyayan), and even upon obtaining a first-born son (putram prathamajam labdhvā), a mother did not rejoice.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -507,6 +563,12 @@ stayed; *samam* = with the moon.
 
 Trisanku, Lohintanga, Brihaspati as also Budha and all other planets assumed a
 menacing aspect and got stayed with the moon.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Triśaṅku, red-limbed Mars (lohitāṅgaḥ), and both Jupiter and Mercury (bṛhaspati-budhau api)—all the planets became fierce (dāruṇāḥ) and stood confronting the moon (somam abhyetya vyavasthitāḥ).
 </details>
 </details>
 
@@ -557,6 +619,12 @@ twinkle; *grahaashcha* = planets; *gatachetasaH* = were deprived of their splend
 Stars ceased to twinkle. Planets were deprived of their splendour. The stars of
 Visakha appeared in the heaven, veiled in the mist.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lunar asterisms lost their radiance (nakṣatrāṇi gata-arcīṃṣi), the planets were stripped of their splendour (gata-tejasaḥ), and the constellations of Viśākhā shone darkly in the sky, shrouded in smoke (sa-dhūmāḥ ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -597,6 +665,12 @@ Rama; *pravrajite* = went; *vanam* = to the forest; *tat nagaram* = that city;
 The great ocean rose, as by a speed of a long-lasting tempest. While Rama went to
 the forest, that city was shaken.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma set forth for the forest (rāme vanam pravrajite), that city trembled violently (nagaram pracacāla tat), like the great ocean heaving up under the blast of a storm-cloud wind (kālikā-anila-vegena mahā-udadhiḥ iva utthitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -636,6 +710,12 @@ the forest, that city was shaken.
 
 All the cardinal points, having been disturbed, were covered by darkness. Planets
 did not become visible, nor the stars nor any other thing in heaven.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All the quarters of the sky became turbulent (diśaḥ paryākulāḥ sarvāḥ), as though enveloped in darkness (timireṇa iva saṃvṛtāḥ); neither planet nor asterism shone forth at all (na grahaḥ na api nakṣatram pracakāśe).
 </details>
 </details>
 
@@ -686,6 +766,12 @@ vaa* = in either food; *vihaare vaa* = or in pastime.
 All the people of the city suddenly became apathetic. No one was interested in
 either food or in pastime.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without any other visible cause (akasmāt), all the townsfolk sank into utter dejection (dainyam upāgamat), and no one set his mind either upon food or upon recreation (āhāre vā vihāre vā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -734,6 +820,12 @@ about(the departure of)the Lord of the earth.
 
 All the people of Ayodhya, afflicted by grief in succession, heaved profound and
 burning sighs and bewailed about the departure of the Lord of the earth.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scorched by wave after wave of grief (śoka-paryāya-saṃtaptaḥ) and constantly heaving long sighs (satatam dīrgham ucchvasan), all the people in Ayodhyā cried out in lamentation over the lord of the earth (cukrośa jagatī-patim).
 </details>
 </details>
 
@@ -784,6 +876,12 @@ nakashchit = No one; *lakshhyate* = appeared; *hR^ishhTaH* = rejoicing.sarvaaH =
 The people in the king's way were wearing distressed faces filled with tears. No one
 appeared rejoicing. All were possessed by grief.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With faces turbid with tears (bāṣpa-paryākula-mukhaḥ), the people walking along the royal highway (rāja-mārga-gataḥ janaḥ) were wholly given over to grief (śoka-parāyaṇaḥ); not a single joyful person was to be found.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -830,6 +928,12 @@ was in disorder.
 
 The wind was not blowing coolly. The moon did not appear beneficient. The sun did
 not give out warmth to the earth. The entire world was in disorder
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The wind did not blow cool (na vāti pavanaḥ śītaḥ), the moon did not wear a gentle aspect (na śaśī saumya-darśanaḥ), and the sun did not warm the world; the entire universe was thrown into turmoil (sarvam paryākulam jagat).
 </details>
 </details>
 
@@ -879,6 +983,12 @@ Sons did not ask for their mothers and husbands did not ask for their wives.
 Brothers did not enquire about their sisters. All gave up every thing and thought of Rama
 alone.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sons were indifferent to their mothers, husbands to their wives, and brothers to one another (anarthinaḥ sutāḥ strīṇām bhartāraḥ bhrātaraḥ tathā); abandoning everything else, all thought only of Rāma (rāmam eva anvacintayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -927,6 +1037,12 @@ their agony; na jahuH: did not abandon; *shayanam* = their beds.
 
 Then, all of Rama's own friends were bewildered in mind and the weight of their
 agony overwhelmed them. They did not leave their beds.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And all those who were Rāma’s intimate friends (rāmasya suhṛdaḥ), their minds bewildered (mūḍha-cetasaḥ) and crushed by the weight of sorrow (śoka-bhāreṇa ākrāntāḥ), did not betake themselves to sleep at all (śayanam na eva bhejire).
 </details>
 </details>
 
@@ -998,6 +1114,12 @@ a great uproar reigned in the city which was filled with elephants, warriors and
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥41॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Ayodhyā, bereft of that high-souled prince (rahitā mahātmanā) like the mountain-girt earth bereft of Indra (purandareṇa iva mahī sa-parvatā), shook violently, ablaze with fear and grief (bhaya-śoka-dīpitā), and cried aloud with its hosts of elephants, warriors, and steeds.
 </details>
 </details>
 

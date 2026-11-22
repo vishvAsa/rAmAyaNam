@@ -62,6 +62,12 @@ Seetha; *aN^kena* = in his arms.
 Hearing the foregoing auspicious words of Brahma (the creator), the fire-god came
 up, taking Seetha in his arms.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Maithilī standing humbly (prahvām) beside him, Rāma began to utter the resolve (bhāvam) held within his heart.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -108,6 +114,12 @@ form.
 
 Shaking off that funeral pile and taking that Seetha, the daughter of Janaka in his
 arms, the fire-god forthwith sprang up at once in a personified form.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here you have been won back, O auspicious lady (bhadre), after I conquered the enemy upon the field of battle; whatever was to be accomplished through manly valor (pauruṣāt) has been achieved by me.
 </details>
 </details>
 
@@ -162,6 +174,14 @@ coming out of it), who was absolutely beyond reproach and looked just the same (
 entering the fire and coming out of it), who was absolutely beyond reproach and looked just the
 same (as she did while entering the flames), the fire-god restored her to Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** I have reached the end of my righteous indignation (amarṣasya), and the outrage (dharṣaṇā) has been thoroughly wiped away; both the dishonor and the enemy have been struck down simultaneously by me.
+
+**4:** Today my manly prowess has been witnessed; today my toil has borne fruit; today I have fulfilled my vow (tīrṇapratijñaḥ), and today I am master of myself.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -201,6 +221,12 @@ paapam* = no sin exists; *asyaam* = in her.
 
 Then, the fire-god, the witness of the whole world, spoke to Rama as follows "Here
 is your Seetha. No sin exists in her."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That transgression brought about by fate (daivasampāditaḥ doṣaḥ)—whereby you, separated from me, were carried off by the fickle-minded Rākṣasa—has been overcome by me, a mortal man.
 </details>
 </details>
 
@@ -253,6 +279,12 @@ either by word; *na manasaa* = nor by mind; *naiva buddhyaa* = nor even by intel
 you who are endowed with strength of character either by word or by mind or even by intellect or by
 her glances."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What use is there for the prowess—even if great—of a narrow-minded man (alpacetasaḥ) who does not wipe away by his own splendor (tejasā) an insult that has befallen him?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -298,6 +330,12 @@ arrogant of his valour; *nirjanaat vanaat* = from a lonely hermitage.
 
 "Separated from you, this miserable and helpless lady, was taken away by Ravana the
 demon, who was arrogant of his valour, from a lonely hermitage."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The leaping across the ocean and the crushing (mardanam) of Laṅkā—today that praiseworthy deed of Hanūmān has borne fruit (saphalam).
 </details>
 </details>
 
@@ -350,6 +388,12 @@ _________________
 attainment, was detained in the gynaecium and hidden there. She was guarded by rightful
 female-demons with horrible intellect."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today the toil (pariśramaḥ) of Sugrīva along with his army—fighting valiantly in battle and counseling what was salutary (hitam)—has borne fruit.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -389,6 +433,12 @@ demon; *pralobhyamaanaa* = even though allured; *tarjyamaanaa* = and frightened;
 
 "Seetha, whose mind was directed towards you, ignored that demon even though allured
 and frightened through various means."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And today the toil of Vibhīṣaṇa has likewise borne fruit—he who abandoned his unrighteous (viguṇam) brother and came of his own accord to me.”
 </details>
 </details>
 
@@ -435,6 +485,12 @@ I; *aajJNaapayaami* = (hereby) command; *te* = you.
 
 "Take back Seetha, who is sinless, with a pure character. She should not be told
 anything harsh. I hereby command you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of Rāma speaking thus, Sītā, her eyes wide like those of a doe (mṛgīvotphullanayanā), became flooded with tears.
 </details>
 </details>
 
@@ -489,6 +545,12 @@ Rama, the excellent among the eloquent, whose mind was set on virtue, with a
 pleasant mind to hear the aforesaid speech, reflected for a while, his eyes, entirely filed with
 tears of joy.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma beheld the beloved of his heart (hṛdayapriyām) standing near, the king's heart was split in two (babhūva hṛdayaṃ dvidhā) out of fear of public rumor (janavādabhayāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -540,6 +602,12 @@ shreShTham* = to the fire-god; the best of gods.
 Hearing those words, the courageous Rama of great prowess and the foremost of those
 upholding the virtue, replied to the fire-god, the best of gods.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the midst of the monkeys and Rākṣasas, he spoke to the fair-hipped Sītā (varārohām), whose eyes were like blue lotus petals and whose locks were dark and curled.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -582,6 +650,12 @@ Ravana.
 
 "Seetha certainly deserves this pure factory ordeal in the eyes of the people in as
 much as this blessed woman had resided for a long time indeed in the gynaecium of Ravana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever must be done by a man wiping away an outrage (dharṣaṇāṃ pratimārjatā), that has been done by me—desirous of honor (mānakāṅkṣiṇā)—in slaying Rāvaṇa.
 </details>
 </details>
 
@@ -636,6 +710,12 @@ without indeed examinig Seetha with regard to her chastity.
 really foolish and that his mind was dominated by lust, if I accept Seetha without examining her
 with regard to her chastity."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You have been won back by me like the southern quarter (dakṣiṇeva dik)—unassailable (durādharṣā) by the world of living beings—by the sage Agastya, whose soul was purified by austerity (tapasā bhāvitātmanā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -683,6 +763,12 @@ is undivided in her affection to me.
 
 "I also know that Seetha, the daughter of Janaka, who ever revolves in my mind, is
 undivided in her affection to me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And let this be known—may auspiciousness attend you (bhadraṃ te)—that this toil of battle (raṇapariśramaḥ), successfully crossed through the valor of my friends, was not undertaken by me for your sake (na tvadartham).
 </details>
 </details>
 
@@ -732,6 +818,12 @@ undivided in her affection to me."
 "Ravana could not violate this wide-eyed woman, protected as she was by her own
 splendour, any more than an ocean would transgress its bounds."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rather, it was done by me while guarding my righteous conduct (vṛttam), warding off censure on every side (apavādaṃ ca sarvataḥ), and wiping away the stain (nyaṅgam) upon myrenowned lineage.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -773,6 +865,12 @@ was entering; *hutaashanam* = the fire.
 
 "In order to convince the three worlds, I, whose refugee is truth, ignored Seetha
 while she was entering the fire."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing before me with suspicion fallen upon your character (prāptacāritrasaṃdehā), you are intensely repugnant (pratikūlā) to me, like a bright lamp to one afflicted with an eye-disease (netrāturasyeva).
 </details>
 </details>
 
@@ -821,6 +919,12 @@ was blazing; *agnishikhaamiva* = like a flaming tongue of fire.
 
 "The evil-minded Ravana was not able to lay his violent hands, even in thought, o
 the unobtainable Seetha, who was blazing like a flaming tongue of fire."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore go, O daughter of Janaka—I grant you leave (tvānujāne) today—as you wish (yatheṣṭam); here lie the ten directions, O auspicious lady; I have no further business (kāryam) with you.
 </details>
 </details>
 
@@ -872,6 +976,12 @@ not different) from the sun.
 gynaecium of Ravana, in as much as Seetha is not different from me, even as sunlight is not
 different from the sun."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What man of spirit (tejasvī), born in a noble family, would take back again—out of a mind deluded by fond attachment (suhṛllobhena cetasā)—a woman who has dwelt in another's house (paragṛhoṣitām)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -919,6 +1029,12 @@ the three worlds; *na shakyaa* = and can no longer be; *vihaatum* = renounced;
 three worlds and can no longer be renounced by me, as a good name cannot be cast aside by a prudent
 man."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How could I, proclaiming my great lineage (kulaṃ vyapadiśan mahat), take you back again after you have been crushed in Rāvaṇa's lap (rāvaṇāṅkaparikliṣṭām) and beheld by his wicked eye?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -961,6 +1077,12 @@ me.
 
 The salutary advice of you all, the affectionate guardians of the world, who are
 saying what is conducive to our good, must be certainly carried out by me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That goal for which you were won back by me has now been attained by me; I have no attachment (abhiṣvaṅgaḥ) toward you—go wherever you please.
 </details>
 </details>
 
@@ -1029,6 +1151,12 @@ happiness and was being glorified by his exploits, performed by his own self, ex
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरहदिनॆण्टनॆय सर्ग पूर्णवायितु.॥118॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore today this has been spoken by me with a resolved mind (kṛtabuddhinā), O auspicious lady; fix your mind (kuru buddhim) as pleases you upon Lakṣmaṇa or else upon Bharata.
 </details>
 </details>
 

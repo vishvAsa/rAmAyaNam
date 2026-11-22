@@ -36,6 +36,12 @@ title = "०४९ आश्रम-प्रवेशनम्"
 
 सीतॆयु अळुत्तिद्दरिन्द स्वल्प दूरदल्लि ऋषि बालकरु आडुत्तिद्दरु. अवरु अळुत्तिरुव आकॆयन्नु नोडि आश्रमक्कॆ ओडिहोदरु. अल्लि उग्र तपस्सिनल्लि तॊडगिद पूज्य वाल्मीकिमुनिगळु विराजिसुत्तिद्दरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Sītā weeping there (sītāṃ tu rudatīṃ dṛṣṭvā), those sons of the sages (muni-dārakāḥ) ran to the place where the revered Vālmīki, of fierce intellect (vālmīkir ugradhīḥ), was seated.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ title = "०४९ आश्रम-प्रवेशनम्"
 
 मुनिकुमाररॆल्ल महर्षिगळ चरणगळल्लि अभिवादन माडि अवरल्लि सीतॆयु अळुत्तिरुव समाचारवन्नु तिळिसिदरु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed before the feet of the sage (abhivādya muneḥ pādau), the hermit-youths reported everything (sarvaṃ nivedayām āsuḥ) to the great seer, especially the sound of her weeping (tasyās tu rudita-svanam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +97,12 @@ title = "०४९ आश्रम-प्रवेशनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूज्यरे! गङ्गा तीरदल्लि यारो महात्मा नरेशन पत्नि इद्दाळॆ, अवळु साक्षात् लक्ष्मीयन्तॆ कण्डुबरुवळु. आकॆयन्नु नावु मॊदलु ऎन्दू नोडिल्ल. अवळु मोहदिन्दागि मुख बाडिहोगि अळुत्तिरुवळु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Never before seen (adṛṣṭa-pūrvā), O revered one, this wife of some high-souled personage (kasyāpy eṣā mahātmanaḥ patnī), like Goddess Śrī herself (śrīr iva), cries aloud in bewilderment (sammohād virauti) with her face contorted in grief (vikṛtānanā).
 </details>
 </details>
 
@@ -114,6 +132,12 @@ _________________
 
 पूज्यरे! नीवु स्वतः होगि चॆन्नागि नोडिरि. अवळु आकाशदिन्द इळिद यावुदो देवियन्तॆ काणुत्ताळॆ. स्वामि! गङ्गातीरदल्लि कुळितिरुव श्रेष्ठसुन्दरि बहळ दुःखितॆयागिद्दाळॆ.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O revered one, pray look kindly upon her (sādhu paśya tvam), like a goddess fallen from heaven (devatām iva khāc cyutām); on the bank of the river, O revered one, a certain noble lady is stricken with sorrow (varastrī kāpi duḥkhitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,6 +163,12 @@ _________________
 
 अवळु जोरागि अळुत्तिरुवुदन्नु नावु नोडिदॆवु. गहन शोकदल्लि मुळुगिरुवळु. आकॆ दुःख, शोक अनुभविसलु योग्यळल्ल, दीनळागि अनाथळन्तॆ ऒब्बळे दुःखिसुत्तिद्दाळॆ.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“She was seen by us weeping bitterly (dṛṣṭāsmābhiḥ praruditā), deeply overwhelmed by grief (dṛḍhaṃ śoka-parāyaṇā)—one undeserving of pain and sorrow (anarhā duḥkha-śokābhyām), alone, wretched, and as though without a protector (ekāṃ dīnāṃ hy anāthavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +193,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवळु साधारण स्त्रीयॆन्दु नमगनिसुवुदिल्ल. आकॆयन्नु नीवु सत्करिसबेकु. ई आश्रमद स्वल्प दूरदल्लॆ इरुवुदरिन्द इवळु निम्म शरणागतळागिये बन्दिरबेकु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed we do not take her for an ordinary mortal woman (na hy enāṃ mānuṣīṃ vidmaḥ); let hospitable honor be offered to her (satkriyāsyāḥ prayujyatām), for not far from your hermitage (āśramasyāvidūre) she has come to you for refuge (tvām iyaṃ śaraṇaṃ gatā).
 </details>
 </details>
 
@@ -190,6 +226,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूज्यरे! ई साध्वीदेवियु रक्षकरन्नु अपेक्षिसुत्तिद्दाळॆ. नीवु आकॆयन्नु रक्षिसिरि. आ मुनिकुमारर मातन्नु केळि धर्मज्ञनाद महर्षिगळु तपस्सिनिन्द प्राप्तवाद अन्तर्दृष्टियिन्द अनाथॆयन्तॆ अळुत्तिरु ववळु यारॆन्दु तिळिदु ऒडनॆये मैथिलियिद्दल्लिगॆ धाविसिदरु.॥7½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This virtuous lady desires a protector (trātāram icchate sādhvī); O revered one, you ought to protect her (bhagavaṃs trātum arhasi)!” Hearing those words of theirs, the knower of dharma ascertained the truth through his intellect (buddhyā niścitya dharmavit); possessing inner vision gained by austerity (tapasā labdha-cakṣuṣmān), he hastened to where Maithilī was (prādravad yatra maithilī).
 </details>
 </details>
 
@@ -220,6 +262,14 @@ _________________
 
 महामतिगळाद महर्षियन्नु मुनिकुमाररु हिम्बालिसिदरु. सुन्दरवाद अर्घ्यपात्रॆयन्नु ऎत्तिकॊण्डु काल्नडिगॆयल्ले महर्षिगळु गङ्गातीरक्कॆ होदरु. अल्लिगॆ होगि अवरु श्रीरघुनाथन प्रियपत्नि सीतॆयु अनाथळन्तॆ इरुववळन्नु नोडिदरु.॥8-9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Perceiving that great-minded sage setting forth (taṃ prayāntam abhipretya), his disciples hastened after him; meanwhile the great-minded seer, heading toward that spot (taṃ tu deśam abhipretya), walked a short distance on foot (kiñcit padbhyām)—
+
+**9:** Taking a pleasing guest-offering (arghyam ādāya ruciram), he arrived at the bank of the Jāhnavī (jāhnavī-tīram āgamat) and beheld Sītā, the beloved wife of Rāghava (rāghavasyeṣṭāṃ sītāṃ patnīm), standing as though without a protector (anāthavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,6 +298,12 @@ _________________
 
 शोकभारदिन्द पीडितळागिद्द सीतादेवियन्नु तन्न तेजदिन्द आह्लादगॊळिसुत्ता मुनिवर वाल्मीकिगळु मधुरवाद मातन्नु सीतॆगॆ हेळिदरु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unto that Sītā, afflicted by the heavy burden of grief (śoka-bhārārtām), Vālmīki, foremost among sages (muni-puṅgavaḥ), spoke sweet words (madhurāṃ vāṇīm), soothing her as it were with his spiritual radiance (hlādayann iva tejasā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,6 +328,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पतिव्रते! दशरथन सॊसॆ, महाराजा श्रीरामन पट्टदरसि, मिथिलेश जनकराजन पुत्रियाद निनगॆ स्वागत बयसुत्तिद्देनॆ.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are the daughter-in-law of Daśaratha (snuṣā daśarathasya tvam), the beloved queen of Rāma (rāmasya mahiṣī priyā), and the daughter of King Janaka (janakasya sutā rājñaḥ); welcome to you, O devoted wife (svāgataṃ te pativrate)!
 </details>
 </details>
 
@@ -298,6 +360,12 @@ _________________
 
 नीनु इल्लिगॆ बन्दागले नन्न धर्मसमाधियिन्द ननगॆ तिळिदुहोगित्तु. निन्न परित्यागद कारणवन्नु नन्न अन्तर्दृष्टियिन्द तिळिदुकॊण्डिरुवॆनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your arrival was already known to me (āyāntī cāsi vijñātā mayā) through meditation rooted in dharma (dharma-samādhinā), and the entire cause thereof (kāraṇaṃ caiva sarvam) has been discerned within my heart (me hṛdayenopalakṣitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,6 +390,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भाग्यशालिनिये! निन्न समग्र वृत्तान्तवू ननगॆ यथावत्तागि तिळिदिदॆ. मूरु लोकगळल्लि नडॆयुवुदॆल्लवू ननगॆ तिळियुत्तिरुत्तदॆ.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All concerning you, O highly fortunate one, is known to me in its true essence (viditaṃ mama tattvataḥ); indeed everything that exists within the three worlds (trailokye yad dhi vartate) is known to me.
 </details>
 </details>
 
@@ -351,6 +425,12 @@ _________________
 
 सीते! नीनु निष्पापळागिरुवुदन्नु तपस्सिनिन्द प्राप्तवाद दिव्यदृष्टियिन्द तिळिदिद्देनॆ. आद्दरिन्द विदेहनन्दिनि! ईग नीनु निश्चिन्तळागि नन्न आश्रमदल्ले इरु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I know you to be utterly free from sin, O Sītā (apāpāṃ vedmi sīte tvām), by the eye attained through austerity (tapolabdhena cakṣuṣā); be fully reassured, O Vaidehī (visrabdhā bhava vaidehi), for now you abide in my care (sāmprataṃ mayi vartase).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,6 +455,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मगळे! नन्न आश्रमद बळियल्ले कॆलवु तपस्विस्त्रीयरु तपस्सिनल्लॆ तॊडगिरुवरु. अवरु तम्म मगळन्तॆ सदा निन्नन्नु पालिसुवरु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Not far from my hermitage (āśramasyāvidūre me) dwell female ascetics steadfast in penance (tāpasyas tapasi sthitāḥ); they will cherish and guard you constantly, my child (tās tvāṃ vatse ... pālayiṣyanti nityaśaḥ), just as a mother cherishes her own child (yathā vatsam).
 </details>
 </details>
 
@@ -401,6 +487,12 @@ _________________
 
 इदो नन्न अर्घ्यवन्नु स्वीकरिसि, निश्चिन्त मत्तु निर्भयळागु. तन्न तवरिगे बन्दिरुवॆ ऎन्दु तिळिदु विषाद बिट्टुबिडु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Accept this guest-offering (idam arghyaṃ pratīccha tvam), trusting and freed from all fever of sorrow (visrabdhā vigata-jvarā); as though you had come to your own home (yathā svagṛham abhyetya), yield no more to dejection (viṣādaṃ caiva mā kṛthāḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -425,6 +517,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महर्षिगळ परमाद्भुतवाद मातन्नु केळि सीतॆयु अवर चरणगळिगॆ तलॆबागि वन्दिसि, कैमुगिदुकॊण्डु हागॆये आगलि ऎन्दु हेळिदळु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those exceedingly wondrous words of the sage (bhāṣitaṃ ... muneḥ paramam adbhutam), Sītā bowed her head in reverence to his feet (śirasāvandya caraṇau) and with joined palms replied, “So be it” (tathety āha kṛtāñjaliḥ). Then, with palms still joined (prāñjaliḥ), Sītā followed behind that departing sage (pṛṣṭhato ’nvagāt).
 </details>
 </details>
 
@@ -453,6 +551,12 @@ _________________
 
 आग मुनिगळ हिन्दॆ-हिन्दॆये सीतॆयु कैमुगिदुकॊण्डु नडॆदळु. सीतॆयॊडनॆ महर्षिगळु बरुवुदन्नु नोडि मुनिपत्निगळु आकॆय बळिगॆ बन्दु सन्तोषदिन्द हीगॆ हेळिद.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the sage approaching together with Vaidehī (munim āyāntaṃ vaidehyā), the wives of the sages (muni-patnayaḥ) came forward filled with joy (upājagmur mudā yuktāḥ) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -477,6 +581,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुनिश्रेष्ठरे! तमगॆ स्वागतविदॆ. बहळ दिनगळ बळिक इल्लिगॆ तम्म शुभागमनवायितु. नावॆल्लरू निमगॆ अभिवादन माडुत्तेवॆ, याव सेवॆ निमगॆ माडली तिळिसिरि.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Welcome to you, O foremost of sages (svāgataṃ te muni-śreṣṭha)—after a long while have you come (cirasyāgamanaṃ ca te)! We all bow in salutation to you (abhivādayāmas tvāṃ sarvāḥ); pray tell us what we should do (ucyatāṃ kiṃ ca kurmahe)!”
 </details>
 </details>
 
@@ -506,6 +616,12 @@ _________________
 
 अवर ई मातन्नु केळि वाल्मीकिगळु हेळिदरु- इवळु परम धीमन्त श्रीरामन धर्मपत्नी सीतॆयागिद्दु, इल्लिगॆ बन्दिरुवळु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of theirs, Vālmīki spoke thus: “This is Sītā who has arrived here (sīteyaṃ samanuprāptā), the wife of the wise Rāma (patnī rāmasya dhīmataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -531,6 +647,12 @@ _________________
 
 सती सीतॆयु दशरथराजन सॊसॆयू, जनकन पुत्रियू आगिद्दाळॆ. पापरहितळागिद्दरू पतियु ईकॆयन्नु त्यजिसिरुवनु. आद्दरिन्द इवळन्नु नाने पालिसबेकागिदॆ.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“She is the daughter-in-law of Daśaratha (snuṣā daśarathasyaiṣā) and the virtuous daughter of Janaka (janakasya sutā satī); though sinless, she has been abandoned by her husband (apāpā patinā tyaktā) and must ever be protected by me (paripālyā mayā sadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -555,6 +677,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द नीवॆल्लरू इवळ मेलॆ स्नेहदिन्द नोडिरि. नानु हेळिद्दरिन्द मत्तु तन्नदे आद गौरवदिन्दलू ईगॆ निमगॆ विशेष आदरणीयळागिद्दाळॆ.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Look upon her, revered ladies (imāṃ bhavatyaḥ paśyantu), with supreme affection indeed (snehena parameṇa hi); both for her own eminence (gauravāt) and at my word (mama vākyāc ca), let her be especially honored by you (pūjyā vo ’stu viśeṣataḥ)!”
 </details>
 </details>
 
@@ -586,6 +714,12 @@ _________________
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये उत्तरकाण्डे एकोनपञ्चाशः सर्गः ॥ ४९ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके उत्तरकाण्डमें उनचासवाँ सर्ग पूरा हुआ ॥ ४९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And having repeatedly entrusted Vaidehī to their care (muhur muhuś ca vaidehīṃ praṇidhāya), that illustrious sage of mighty austerity (mahāyaśāḥ ... mahātapāḥ), surrounded by his disciples (śiṣya-vṛtaḥ), returned once more to his own hermitage (svam āśramaṃ ... punar āyāt).
 </details>
 </details>
 

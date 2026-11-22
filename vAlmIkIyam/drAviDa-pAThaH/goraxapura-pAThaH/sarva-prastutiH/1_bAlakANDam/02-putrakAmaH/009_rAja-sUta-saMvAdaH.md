@@ -59,6 +59,12 @@ Sumantra, the charioteer and one of the misters of King Dasharatha, having heard
 the king's desire to perform a Vedic ritual, said this in confidence to king, "oh, king, I
 will tell an early legend, an early legendary narration that I listened... [1-9-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing this, the royal charioteer and counselor Sumantra spoke these words to the King in private: `Pray hear that ancient narrative which I heard of old in the Purāṇas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,6 +109,12 @@ me.
 "Oh, king, I have earlier heard of this present advice given to you by Vedic scholars, as
 godly Sage Sanatkumara has once narrated an account about the arrival of your sons in the
 presence of other sages, and sage Sanat Kumara said... [1-9-2, 3a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`This sacrificial rite enjoined by the officiating priests was heard by me in an ancient account: the blessed sage Sanatkumāra aforetime related a prophetic narrative—
 </details>
 </details>
 
@@ -163,6 +175,14 @@ he is born with a horn on the crown of his head. Thus he is named as Rishyasring
 R^iSi the Sage; *shR^i~Nga* horn; a Sage with a horn on his forehead at his birth time.
 This being the mythological import, he is an acme among sages, as *shR^i~Nga* also
 means a peak.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** `—in the presence of the seers, O King, concerning the future birth of your sons. Kāśyapa has a son renowned by the name of Vibhāṇḍaka.
+
+**4:** `To him shall be born a son famous by the name of Ṛśyaśṛṅga; reared perpetually in the forest, that ascetic shall ever roam the woods.
 </details>
 </details>
 
@@ -227,6 +247,12 @@ is one way of observing sustained family planning methods, instead of resorting 
 Here, this word is more nearer to mean 'hindrance', than to mean the 'two way celibacy' as
 deciphered by some commentators.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Through constant attendance upon his father, that foremost of Brāhmaṇas knows no other human being; and of that high-souled sage there shall be a twofold practice of celibacy (Brahmacarya)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -265,6 +291,12 @@ cha kathitam sadaa* = by Brahmans, praised, always; *tasya evam vartamaanasya*
 
 "In the world he becomes famous for his celibacy, oh king, and he will always be praised by
 Brahmans, and thus time will pass on with that kind of his conduct. [1-9-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`—celebrated across the worlds, O King, and ever extolled by the Brāhmaṇas. As he lives thus, a certain stretch of time shall pass—
 </details>
 </details>
 
@@ -335,6 +367,14 @@ king Romapaada, a valiant in Anga country... [1-9-7, 8a]
 
 "But by a violation of righteousness of that king there will be a shocking and devastating
 famine in that country...[1-9-8b, 9a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** `—while he devoutly serves the sacred fires and his illustrious father. At that very time, the valorous Romapāda—
+
+**8:** `—shall be the renowned and mighty King of the Aṅga country. Through a transgression of Dharma committed by that King, there shall befall a most dreadful—
 </details>
 </details>
 
@@ -409,6 +449,14 @@ Brahmans and learned scholars he will address them... [1-9-9b. 10a]
 "All of you are well versed in rituals and knowers of the world history... order me how to
 how the purification from sin will be... [1-9-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** `—and terrifying drought, striking fear into all living beings. When that drought has set in, the King, overwhelmed with grief—
+
+**10:** `—shall summon Brāhmaṇas grown old in sacred learning and say to them: "You are deeply versed in sacred rites and Dharma, and knowers of the ways and usages of the world—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -433,6 +481,12 @@ how the purification from sin will be... [1-9-10b, 11a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजनु हीगॆ हेळिदाग आ वेदपारङ्गत विद्वांसराद ऎल्ल श्रेष्ठ ब्राह्मणरु अवनिगॆ ई प्रकार सलहॆ नीडिदरु.॥11½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`"Pray enjoin a sacred observance whereby expiation (Prāyaścitta) of my sin may be accomplished." Thus addressed by the King, all those foremost of Brāhmaṇas—
 </details>
 </details>
 
@@ -503,6 +557,14 @@ you give [in marriage.]
 give him your daughter Shanta in marriage to that Vedic Brahman and the son of Sage Vibhaandaka...
 [1-9-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** `—those Brāhmaṇas who have crossed to the farthest shore of the Vedas shall say to the Lord of the Earth: "O King, by every possible means bring hither the son of Vibhāṇḍaka!
+
+**13:** `"And having caused Ṛśyaśṛṅga—the son of Vibhāṇḍaka, a Brāhmaṇa who has mastered the Vedas—to be brought hither and reverently honored, O Protector of the Earth, bestow upon him in marriage your daughter Śāntā according to sacred rule, with a devoted and focused mind."
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,6 +609,12 @@ be fetched.
 "On listening them the king becomes thoughtful about the idea by which it is possible to bring
 that self-controlled sage to his place... [1-9-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Hearing their words, the King shall fall into deep reflection: "By what stratagem can that ascetic of mighty spiritual energy be brought hither?"
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -587,6 +655,12 @@ intelligence; *purohitam* = clergymen; *amaatyaan cha* = ministers, also;
 "Then that intellectual king decides along with ministers, to dispatch clergymen and ministers,
 honouring them well, and then sends them... [1-9-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Then the self-possessed King, having deliberated with his ministers, shall dispatch his family priest and ministers, duly honored with gifts, to bring him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -626,6 +700,12 @@ honouring them well, and then sends them... [1-9-15]
 
 "They on hearing king's words are awestruck and lowering their faces they will say, 'we can
 not go there as we are afraid of sage Vibhandaka, father of Rishyasringa...' [1-9-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Hearing the King's command, however, they shall be distressed and hang their heads in shame and fear; saying "Terrified of the sage Vibhāṇḍaka, we dare not go!" they shall conciliate that monarch—
 </details>
 </details>
 
@@ -674,6 +754,12 @@ aaneShyaamaH* = we will fetch that Brahman, Rishyasringa,; *na cha doShaH bhaviS
 plan to bring that sage, 'we will fetch that Brahman and also by that no stigma will occur...'
 [1-9-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`—and having reflected, they shall propose to him fitting stratagems capable of bringing him: "By these means we shall bring the Brāhmaṇa youth hither, and no fault or curse shall ensue!"
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -714,6 +800,12 @@ will be] brought; *[then] devaH avarSayat* = god[Rain-god] will shower rains;
 "Thus by the king of Anga kingdom and by his courtesans the son of sage Rishyasringa will
 be brought and the presiding deity for rains will shower rains, and Shanta will also be given
 in marriage to that sage...' [1-9-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Thus by the Lord of Aṅga, through courtesans, the son of the seer was brought; the Rain-God (Parjanya) poured down rain, and Śāntā was bestowed upon him in marriage.
 </details>
 </details>
 
@@ -766,6 +858,12 @@ his narration in confidence to King Dasharatha.] [1-9-19]
 Sage Rishyasringa is also a son-in-law to King Dasharatha. Princess Shanta, in a distant relationship
 is a daughter to King Dasharatha in relation and the adopted daughter of Romapaada, the King
 of Anga. Thus Sumantra's saying son-in-law also means Dasharatha's son-in-law, besides Romapada's.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Ṛśyaśṛṅga, your son-in-law, shall procure sons for you! Thus much, as declared by Sanatkumāra, has been related by me.'
 </details>
 </details>
 
@@ -825,6 +923,12 @@ is brought to Anga kingdom, that shall be said elaborately..." [1-9-20]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऒम्भत्तनॆय सर्ग पूर्णवायितु. ॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Daśaratha, filled with joy, replied to Sumantra: `Tell me in full by what stratagem and in what manner Ṛśyaśṛṅga was brought!'
 </details>
 </details>
 

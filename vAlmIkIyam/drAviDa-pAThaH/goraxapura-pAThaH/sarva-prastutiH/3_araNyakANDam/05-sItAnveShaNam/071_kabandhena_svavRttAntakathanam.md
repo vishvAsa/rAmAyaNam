@@ -74,6 +74,12 @@ triSu lokeSu vishrutam* = in three, world, renowned; *aasiit* = was there.
 that of Indra is there now, my physique was also like that earlier, an unbelievable mien and renowned
 in all the three worlds... [3-71-1, 2a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Formerly (purā), O long-armed Rāma, I possessed an inconceivable form (rūpam āsīn mamācintyam), endowed with mighty strength and valour (mahā-bala-parākramam) and renowned throughout the three worlds (triṣu lokeṣu viśrutam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,6 +127,12 @@ this sort of, form, on making [on disguising]; *tataH tataH* = there, there; *va
 
 "Such as I was with an admirable body, disguising myself in this kind of horrendous form which is utterly
 dreadful to the world, I was scaring the forest living sages, there and there... [3-71-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Like the form (vapuḥ) of the Sun, the Moon, and Śakra [Indra]. Assuming (kṛtvā) this huge form that terrifies the world (loka-vitrāsanaṃ mahat)—
 </details>
 </details>
 
@@ -188,6 +200,14 @@ eva astu* = [present] form, alone, will be [you will abide in.]
 "On seeing me that sage who is an enforcer of deadly curse cursed me in this way, 'that which is presently
 diabolic and despicable form of yours, hereinafter you will abide in this form alone...' [3-71-4b, 5a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** “I used to frighten (trāsayāmi) the sages dwelling in the forest (ṛṣīn vana-gatān) here and there, O Rāma. Then a great sage named Sthūlaśiras (sthūlaśirā nāma maharṣiḥ) was provoked to wrath by me (kopito mayā).
+
+**4:** “While gathering manifold forest produce (cinvan vividhaṃ vanyam), he was assailed (dharṣitaḥ) by me in this form; glaring at me (prekṣya), he who pronounced a terrible curse (ghora-śāpābhidhāyinā) spoke thus to me:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,6 +260,12 @@ him, this, word, is spoken.
 "When I begged that enraged sage as, 'even if I have committed this blasphemy owing to my blasphemous
 fate, will there be an end to this blasphemed form of mine, or not...' and then he spoke this word to
 me... [3-71-5b, 6a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Let this very form of yours, so cruel (nṛśaṃsam) and reviled (vigarhitam), remain yours permanently (etad evaṃ te rūpam astu)!’ When I implored (sa mayā yācitaḥ) that wrathful sage that there might be an end to the curse (śāpasyānto bhaved iti)—
 </details>
 </details>
 
@@ -314,6 +340,14 @@ The cause of curse is said so far and now the effect is narrated, and
 *tiivrataratapaHpratyaahitapitaamahavaralabhaashastravadhyabhaavadarpitena
 mayaa raNe vikramya pradharShita shakraH* - so says dk about it.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** “These words were spoken by him [promising an end] to that which had been brought about by his curse (abhiśāpa-kṛtasya): ‘When Rāma, having severed your two arms (chittvā bhujau), shall cremate you in a solitary forest (tvāṃ dahed vijane vane)—
+
+**7:** “‘Then you shall regain (prāpsyase) your own vast and auspicious form (rūpaṃ svam eva vipulaṃ śubham)!’ Know me, O Lakṣmaṇa, to be the son of Danu (putraṃ danoḥ), once resplendent with beauty (śriyā virājitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -387,6 +421,14 @@ relying upon; *raNe shakram adharSayam* = in a bout, with Indra, I jousted with.
 " 'When longevity is acquired by me what Indra can do to me...' thus relying upon that kind of certitude,
 I jousted with Indra in a bout... [3-71-9b, 10a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “Through the wrath of Indra (indra-kopāt), this form was thus incurred on the battlefield (raṇājire). For by fierce austerities (tapasogreṇa) I propitiated the Grandsire [Brahmā] (pitāmaham atoṣayam).
+
+**9:** “He granted me a long span of life (dīrgham āyuḥ sa me prādāt); thereupon infatuated pride (vibhramaḥ) took hold of me (mām aspṛśat): ‘Long life has been won by me; what can Śakra do to me (kiṃ māṃ śakraḥ kariṣyati)?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -438,6 +480,12 @@ head, also thus; *shariire sam praveshitam* = into body, to verily, enter [ramme
 "But the Thunderbolt that has a hundred cutting edges and that which is launched from Indra's hand has
 rammed by head and thighs into my body... [3-71-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Harbouring such a thought (ity evaṃ buddhim āsthāya), I assailed Śakra in battle (raṇe śakram adharṣayam). By the hundred-jointed thunderbolt (vajreṇa śata-parvaṇā) hurled from his arm (tasya bāhu-pramuktena)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -484,6 +532,12 @@ lives]; *tat pitaamaha vacaH satyam astu* = that [word of,] Grandparent's, word,
 "When I begged of him saying, 'lead me to the hell of Yama, rather than making me to live this hell
 of a body...' Then Indra said this to me, 'Let the Grandparent Brahma's word about your longevity come
 true...' Thus Indra spared me to me... [3-71-11b, 12a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My two thighs and my head (sakthinī ca śiraś caiva) were driven right into my torso (śarīre sampraveśitam). Though implored by me (mayā yācyamānaḥ san), he did not dispatch me to the abode of Yama (nānayad yama-sādanam).
 </details>
 </details>
 
@@ -533,6 +587,12 @@ stomach... and without thighs how can I prowl, without arms how can I scrabble, 
 how can I guzzle... and how am I capable to live on, and even that living too, is destined for too long
 a time...' [3-71-12b, 13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Let that word of the Grandsire prove true (pitāmaha-vacaḥ satyaṃ tad astu)!’ so he said to me (mamābravīt). [Then I asked:] ‘Without food (anāhāraḥ), how can one whose thighs, head, and mouth are shattered (bhagna-sakthi-śiro-mukhaḥ) be able [to live]—’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -579,6 +639,12 @@ paunch, he devised.
 
 "When I said to Indra this way, Indra devised for me yojana long arms, also that way a rapier-fanged
 mouth in my paunch... [3-71-13b, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘—struck by the thunderbolt (vajreṇābhihataḥ), for so very long a time (kālaṃ sudīrgham api)?’ Thus addressed, Śakra [bestowed] on me two arms a yojana in length (bāhū yojanam āyatau)—
 </details>
 </details>
 
@@ -630,6 +696,12 @@ in; *bhakSayaami* = I am eating.
 "Such as I am, I have been eating the lions, elephants, animals, and tigers that are on the move in
 this forest, hauling them in with both of my overlong arms... [3-71-14b, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And then he fashioned (akalpayat) a sharp-fanged mouth (āsyaṃ tīkṣṇa-daṃṣṭram) in my belly (me kukṣau). Thus I, sweeping together (saṃkṣipya) the forest-dwellers (vane-carān) in this wood with my two long arms (bhujābhyāṃ dīrghābhyām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -676,6 +748,12 @@ this forest, hauling them in with both of my overlong arms... [3-71-14b, 15a]
 "Indra has also said to me, 'as and when Rama hacks off your arms along with Lakshmana in a conflict,
 then you can go to heaven...' Thus Indra said to me and vanished. [3-71-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Devour (bhakṣayāmi) lions, panthers (dvīpi), deer, and tigers on every side (samantataḥ). And that Indra said to me: ‘When Rāma together with Lakṣmaṇa (yadā rāmaḥ salakṣmaṇaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -720,6 +798,12 @@ then you can go to heaven...' Thus Indra said to me and vanished. [3-71-15b, 16a
 
 "Oh, sire, I am grabbing whatever I see in this forest while living with this body... oh, powerful king,
 as I feel it meetly and a must for me... [3-71-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘—shall sever your two arms in battle (chetsyate samare bāhū), then you shall go to heaven (svargaṃ gamiṣyasi).’ With this body (anena vapuṣā), dear lord (tāta), in this forest, O best of kings (rāja-sattama)—
 </details>
 </details>
 
@@ -769,6 +853,12 @@ captivity, comes nigh of; thus; *aham manye* = I, believed; *imaam buddhim puras
 determination, presaged by sage Sthuulashira, as well... I have been toiling to dislodge this body...
 [3-71-17b, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever creature I behold (yad yat paśyāmi), I resolve upon seizing every one without exception (sarvasya grahaṇaṃ sādhu rocaye), thinking, ‘Surely Rāma will one day come within my grasp (avaśyaṃ grahaṇaṃ rāmo samupaiṣyati)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -817,6 +907,12 @@ na* = I am, by other [person,] to be killed [mangle,] capable, not.
 sage Sthulashira, you alone are that Rama, let safe betide you, and none other than you is capable to
 mangle me... [3-71-18b, 19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Keeping this thought before me (imāṃ buddhiṃ puraskṛtya), I have striven to cast off this body (deha-nyāsa-kṛta-śramaḥ). That very Rāma are you (sa tvaṃ rāmo 'si)—blessings upon you (bhadraṃ te)! Not by any other, O Rāghava—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -864,6 +960,12 @@ will do [give]; *mitram caiva upadekSyaami* = friend, also thus, I will [further
 "Oh, impetuous man Rama, if I were to be beatified by you two by incinerating me in Fire, I will advice
 you about the next course of your action... I will further advise you about your prospective friend..."
 So said Kabandha to Rama. [3-71-19b, 20a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘—can I be slain (śakyo hantum),’ just as was truly spoken by the great sage (yathā-tattvam evam uktaṃ maharṣiṇā). For I shall render you counsel-assistance (mati-sācivyaṃ kariṣyāmi), O bull among men (nararṣabha)—
 </details>
 </details>
 
@@ -918,6 +1020,12 @@ of one or two words. This being the riddle of grammarians, we are supposed to kn
 blessed for gandharva-hood, and then accursed to demon-hood, and then becomes a gandharva again and
 goes to heaven, at the blessing of Rama. The last compound in second stanza differs with that of other
 mms, in wording, but not in its meaning.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And I shall point out to you an ally (mitraṃ caivopadekṣyāmi) once I have been consecrated with fire (saṃskṛto 'gninā) by you two!” Thus addressed by that Danu (danunā tena), the righteous-souled Rāghava—
 </details>
 </details>
 
@@ -999,6 +1107,14 @@ over again. The same is the case with Sugreeva. He blatantly lies to Rama that h
 in Kishkindha Kanda. And if insisted Sugreeva, or to that matter of fact Seetha, both are ready with
 their self-assertive dialogue: *kaH na aparaadhyati* 'who errs not...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Spoke these words while Lakṣmaṇa looked on (lakṣmaṇasya ca paśyataḥ): “My illustrious wife Sītā (bhāryā sītā mama yaśasvinī) was carried off by Rāvaṇa (rāvaṇena hṛtā)—
+
+**22:** “At his ease (yathā-sukham), when I had gone forth from Janasthāna (niṣkrāntasya janasthānāt) together with my brother. I know only the name (nāma-mātraṃ tu jānāmi), not the form (na rūpam), of that rākṣasa;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1052,6 +1168,12 @@ be] following [comply with]; *kaaruNyam* = mercifulness; *sadR^isham kartum [arh
 "It will be apt of you to show befitting mercy on us who are anguished by agony, running all over helter-skelter
 like unsheltered ones, and we who will be compliant for your restitution... [3-71-23b, 24a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor do we know (vayaṃ na vidmahe) his abode (nivāsaṃ vā) or his power (prabhāvaṃ vā). Toward us who are stricken with grief (śokārtānām), helpless (anāthānām), and wandering about thus (viparidhāvatām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1098,6 +1220,12 @@ will incinerate.
 
 "Oh, brave Kabandha, on bringing dried up firewood that was rent at times by elephants, and on digging
 a large trench, we will incinerate you in it... [3-71-24b, 25a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“It is fitting (sadṛśam) to show compassion (kāruṇyaṃ kartum) as we act with helpfulness (upakāreṇa vartatām). Bringing dry timbers (kāṣṭhāny ānīya śuṣkāṇi) broken in due time by elephants (bhagnāni kāle kuñjaraiḥ)—
 </details>
 </details>
 
@@ -1150,6 +1278,12 @@ or; *hR^itaa* = stolen; *samaacakSva* = inform clearly; *ati artham* = very much
 inform of her when incinerated, thus you will be rendering a most gracious deed to me, and to all concerned..."
 Thus Rama made clear of his case. [3-71-25b, 26a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We shall cremate you (dhakṣyāmas tvāṃ vayam), O hero, in a large pit prepared for the purpose (śvabhre mahati kalpite). Do you therefore tell us of Sītā (sa tvaṃ sītāṃ samācakṣva)—by whom or whither she was carried off (yena vā yatra vā hṛtā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1198,6 +1332,12 @@ to Raghava; *anuttamam vaakyam* = unexcelled [expedient words,] words; *provaaca
 When he is said thus that expert articulator Kabandha replied Rama, who is also an expert enunciator,
 with expedient words. [3-71-26b, 27a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Render us this supreme service (kuru kalyāṇam atyartham), if you know in truth (yadi jānāsi tattvataḥ)!” Thus spoken to by Rāma, Danu [uttered] a peerless speech (vākyam anuttamam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1245,6 +1385,14 @@ aasthitaH* = [my] own, form, on assuming; *yaH* = he; *taam* = her; *GYaasyati*
 I assume my own original divine form, and then I will be able tell about him, who will find her out...
 [3-71-27b, 28a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** An eloquent speaker himself (kuśalo vaktā), he addressed Rāghava, who was also a master of speech (vaktāram api): “I do not possess divine omniscience (divyam asti na me jñānam); I do not know Maithilī (nābhijānāmi maithilīm).
+
+**28:** “Once cremated (dagdhaḥ) and restored to my own form (svaṃ rūpam āsthitaḥ), I shall tell you of him who will tell you of her (yas tāṃ vakṣyati taṃ vakṣye)—him who knows that rākṣasa (yo 'bhijānāti tad rakṣaḥ), that I shall declare to you (tad vakṣye), O Rāma, thereafter (tat-param)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1291,6 +1439,12 @@ demon; tat vakshye that, I speak about.
 be able to speak about him who can familiarise you with that great mighty demon, by whom your Seetha
 is stolen, only after that incineration... [3-71-28b, 29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For while uncremated (adagdhasya hi), O lord, I have no power to discern (vijñātuṃ śaktir asti na me) that rākṣasa of mighty valour (rākṣasaṃ tu mahā-vīryam) by whom your Sītā was carried off.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1333,6 +1487,12 @@ sva kR^itena* = by me, by my own, deeds - my own antics towards sages and Indra;
 
 "Oh, Raghava, utterly distorted is my acumen, indeed, by the blemish of curse... and this form which
 is despicable to world has bechanced only because of my own antics... [3-71-30]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For through the taint of the curse (śāpa-doṣeṇa), O Rāghava, my great higher knowledge has been lost (vijñānaṃ hi mahad bhraṣṭam), and through my own deed (sva-kṛtena) have I incurred this form reviled by the world (rūpaṃ loka-vigarhitam).
 </details>
 </details>
 
@@ -1384,6 +1544,12 @@ vehicle predestined to communicate some information to Rama. And when a dusking 
 dawning Sun is also indicated, in his freshness. So also, Kabandha is about to resurrect after this
 incineration, as a vehicular messenger for Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet before (yāvan na) the Sun with his wearied steeds (savitā śrānta-vāhanaḥ) sinks to his setting (yāty astam), cast me into a pit (mām avaṭe kṣiptvā) and cremate me according to rite (daha rāma yathā-vidhi), O Rāma!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1427,6 +1593,12 @@ aham tvayaa* = I, by you; *nyaayena* = justifiably [scripturally]; *avaTe dagdha
 "Oh, Rama, the legatee of Raghu, when I am scripturally burnt by you in a trench, oh, great valiant
 Rama, for sure, I will tell of him, who can quiet fathom that demon... [3-71-32]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Once I have been duly (nyāyena) cremated by you in the pit (dagdhas tvayāham avaṭe), O joy of the Raghus (raghu-nandana), I shall tell you, O great hero, of him who will know that rākṣasa (yas taṃ vetsyati rākṣasam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1466,6 +1638,12 @@ kalpayiSyati* = to you, succour, evolves.
 
 "Oh, Raghava, you have to befriend him with an amicable comportment... and that valiantly alacritous
 one will be gladdened by the sequel of your friendship, and he will evolve a succour to you... [3-71-33]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And friendship should be forged (sakhyaṃ ca kartavyam) by you with that righteous-acting one (tena nyāyya-vṛttena), O Rāghava; O hero of swift valour (laghu-vikrama), he will render you assistance (kalpayiṣyati te sāhāyyam).
 </details>
 </details>
 
@@ -1526,6 +1704,12 @@ to burn him down, perforce.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऎप्पत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥71॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For nothing in the three worlds is unknown to him (na hi tasyāsty avijñātam), O Rāghava, since in times past (purā vai), for a certain reason (kāraṇāntare), he traversed (parivṛtaḥ) all the worlds (sarvān lokān)!”
 </details>
 </details>
 

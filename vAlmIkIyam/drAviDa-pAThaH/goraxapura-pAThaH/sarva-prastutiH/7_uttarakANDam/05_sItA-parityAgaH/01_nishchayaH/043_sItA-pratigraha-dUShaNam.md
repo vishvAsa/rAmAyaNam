@@ -40,6 +40,12 @@ _________________
 
 पुष्पवाटिकॆयल्लि कुळितिरुव महाराजा श्रीरामन बळियल्लि अनेक प्रकारद कथॆगळन्नु हेळुवुदरल्लि कुशलराद, हास्य विनोद माडुव स्नेहितरु बन्दु कुळितरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated there (tatropaviṣṭam), the king was attended on all sides (samantataḥ ... upāsante) by clever companions (vicakṣaṇāḥ), jesters skilled in manifold tales (kathānāṃ bahurūpāṇāṃ hāsyakārāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,6 +70,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विजय, मधुमत्त, काश्यप, मङ्गल, कुल, सुराजि, कालिय, भद्र, दन्तवक्त्र मत्तु सुमागध ऎन्दु आ स्नेहितर हॆसरित्तु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vijaya and Madhumatta, Kāśyapa, Maṅgala, and Kuṭa, Surāja, Kāliya, Bhadra, Dantavakra, and Sumāgadha—
 </details>
 </details>
 
@@ -90,6 +102,12 @@ _________________
 
 इवरॆल्लरू बहळ हर्षदिन्द श्रीरघुनाथन मुन्दॆ अनेक प्रकारद हास्य विनोदपूर्ण कथॆगळन्नु हेळुत्तिद्दरु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted (saṃhṛṣṭāḥ), these companions told manifold tales laced with jest and wit (kathā bahuvidhāḥ parihāsa-samanvitāḥ) in the presence of the high-souled Rāghava (rāghavasya mahātmanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +132,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आगले यावुदो कथा प्रसङ्गदल्लि श्रीरामनु केळिदनु-भद्र! इन्दिन दिनगळल्लि नगर मत्तु राज्य दल्लि याव मातिन चर्चॆ विशेषवागि नडॆयुत्तदॆ.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, in the midst of a certain tale (kathāyāṃ kasyāñcit), Rāghava spoke (samabhāṣata): “O Bhadra, what reports circulate in the city (kāḥ kathā nagare ... vartante) and throughout the provinces (viṣayeṣu ca)?
 </details>
 </details>
 
@@ -144,6 +168,14 @@ _________________
 
 नगर मत्तु राष्ट्रद जनरु नन्न, सीतॆय, भरतन, लक्ष्मणन, शत्रुघ्नन हागू तायि कैकेयिय विषयदल्लि एनेनु हेळुत्तिरुवरु? एकॆन्दरॆ राजनु आचार-विचारदिन्द हीननादरॆ तन्न राज्यदल्लि, वनदल्लियू (ऋषि-मुनिगळ आश्रमगळल्लि) निन्दॆय विषयनागुत्तानॆ. ऎल्लॆडॆ अवन कॆट्टतनद्दे चर्चॆ नडॆयुत्तदॆ.॥5-6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** “What things concerning me (mām āśritāni kāni) do the citizens and countryfolk say (paura-jānapadā janāḥ)? And what concerning Sītā (sītāṃ samāśritya), what of Bharata, and what of Lakṣmaṇa?
+
+**6:** “What indeed regarding Śatrughna (śatrughnam uddiśya), and what of my mother Kaikeyī (kaikayīṃ ... mātaram)? For kings incur public censure (vaktavyatāṃ ... vrajanti) even in a noble realm (vare rājye)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -169,6 +201,12 @@ _________________
 
 श्रीरामचन्द्रनु हीगॆ केळिदाग भद्रनु कैमुगिदु नुडिदनु - महाराज! इन्दिन दिनगळल्लि पुरवासिगळल्लि निन्न कुरितु सदा ऒळ्ळॆय चर्चॆये नडॆयुत्तिदॆ.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma (evam ukte tu rāmeṇa), Bhadra spoke with joined palms (prāñjalir abravīt): “O King, auspicious and steady reports circulate among the citizens (sthitāḥ kathāḥ śubhā rājan vartante puravāsinām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -193,6 +231,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सौम्य! पुरुषोत्तम! दशग्रीव वधॆय सम्बन्धी निन्न विजयद कुरितागिये नगरदल्लि ऎल्ल जनरु हॆच्चागि मातुगळन्नाडुत्तारॆ.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Above all (bhūyiṣṭham), O gentle bull among men (saumya ... puruṣarṣabha), the citizens in your city speak continually (svapure pauraiḥ kathyante) of this your triumph won by the slaying of the Ten-Necked one (amuṃ tu vijayaṃ ... daśagrīva-vadhārjitam).”
 </details>
 </details>
 
@@ -223,6 +267,14 @@ _________________
 
 भद्रनु हीगॆ हेळिदाग श्रीराम केळिदनु - पुरवासिगळु नन्न विषयदल्लि याव-याव शुभ अथवा अशुभ मातुगळन्नाडुत्तारॆ? अदॆल्लवन्नु यथार्थवागि ऎल्लवन्नु तिळिसु. ईग अवर शुभ मातुगळन्नु केळि अदन्नु शुभवॆन्दु तिळियुत्तारो अदन्नु नानु आचरिसुवॆनु. अशुभ मातुगळन्नु केळि अदु अशुभवॆन्दु तिळियुत्तारो, अदन्नु त्यजिसि बिडुवॆ.॥9-10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Thus answered by Bhadra (evam uktas tu bhadreṇa), Rāghava spoke these words: “Tell me everything exactly as it truly is (kathayasva yathātattvam), leaving nothing out (sarvaṃ niravaśeṣataḥ).
+
+**10:** “Whatever words, good or ill (śubhāśubhāni vākyāni), the citizens utter—hearing them now (śrutvedānīm), I shall perform what is good (śubhaṃ kuryām) and abstain from what is ill (na kuryām aśubhāni ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,6 +299,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निश्चिन्तनागि, निर्भयनागि, यावुदे आतङ्क इल्लदॆ ऎल्लवन्नु हेळु. पुरजनरु, देशद प्रजॆगळु नन्न विषयदल्लि याव रीतिय अशुभ चर्चॆमाडुवरो अदन्नु तिळिसु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Speak with full confidence (visrabdhaḥ), fearlessly (nirbhayam), and free from inner distress (vigata-jvaraḥ), just as the citizens and even wicked folk in the provinces speak (kathayanti yathā paurāḥ pāpā janapadeṣu ca).”
 </details>
 </details>
 
@@ -273,6 +331,12 @@ _________________
 
 श्रीरघुनाथनु हीगॆ हेळिदाग भद्रनु कैमुगिदु एकाग्रचित्तनागि महाबाहु श्रीरामनल्लि सुरुचिरवाद मातुगळन्नु हेळतॊडगिदनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāghava with these exceedingly gracious words (suruciraṃ vacaḥ), Bhadra, deeply composed (susamāhitaḥ) and with palms joined (prāñjaliḥ), replied to the mighty-armed prince:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -298,6 +362,12 @@ _________________
 
 राजने! चौकगळल्लियू, बीदि-बीदिगळल्लियू, अङ्गडिगळल्लियू, उद्यान-उपवनगळल्लियू जनरु निन्न विषयवागि शुभ-अशुभवाद याव मातुगळनाडुवरो अदन्नु केळु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hear, O King, how the citizens speak both good and ill (kathayanti śubhāśubham) in crossroads, marketplaces, and highways (catvarāpaṇa-rathyāsu), and in forests and pleasure-groves (vaneṣūpavaneṣu ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,6 +392,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरु हेळुत्तारॆ - श्रीरामनु समुद्रक्कॆ सेतुवॆ कट्टि दुष्कर कर्म माडिदनु. इन्तह कार्य मॊदलु यावुदे देव-दानवरु माडिदुदु नावु केळिल्ल.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘A feat hard to achieve did Rāma accomplish—the building of the bridge across the ocean (samudre setu-bandhanam)—unheard of (aśrutam) by any former kings, or even by the gods together with the Dānavas (devair api sa-dānavaiḥ)!
 </details>
 </details>
 
@@ -351,6 +427,12 @@ _________________
 
 श्रीरामनु दुर्धर्ष रावणनन्नु सैन्य परिवारदॊन्दिगॆ वधिसिदनु हागू राक्षसर सहित करडि, वानररन्नु अवनिगॆ अधीनरादरु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And unassailable Rāvaṇa (rāvaṇaś ca durādharṣaḥ) was slain along with his armies and mounts (sa-bala-vāhanaḥ), and the monkeys and bears—together with the rākṣasas (saha rākṣasaiḥ)—were brought under his sway (vaśaṃ nītāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,6 +457,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ इल्लॊन्दु दोषविदॆ, युद्धदल्लि रावणनन्नु कॊन्दु श्रीरामनु सीतॆयन्नु अरमनॆगॆ करॆतन्दनु. आदरॆ अवन मनस्सिनल्लि सीतॆय चारित्र्यद कुरितु कोपवागली, संशयवागली उण्टागले इल्ल.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Yet after slaying Rāvaṇa in battle (hatvā ca rāvaṇaṃ saṅkhye) and recovering Sītā (sītām āhṛtya), Rāghava put his indignation behind his back (amarṣaṃ pṛṣṭhataḥ kṛtvā) and brought her back into his own house (sva-veśma punar ānayat).
 </details>
 </details>
 
@@ -409,6 +497,16 @@ _________________
 
 सीता समागमदिन्द अवनिगॆ ऎन्तह सुखवु ताने सिगुत्तदॆ? रावणनादरो सीतॆयन्नु बलात्कारवागि तॊडॆय मेलॆ कुळ्ळिरिसिकॊण्डु अपहरिसि लङ्कॆगॆ करॆदुकॊण्डु होदनु. अल्लि अवनु अन्तःपुरद क्रीडाकाननवाद अशोकवनदल्लि आकॆयन्नु इरिसिदनु. हीगॆ राक्षसर वशदल्लि अनेक दिनगळिद्दरू कूड श्रीरामनिगॆ आकॆय कुरितु तिरस्कार एकॆ उण्टागलिल्ल? ईग नमगू पत्नियर इन्तह मातन्नु सहिस बेकादीतु; एकॆन्दरॆ राजनु माडिदन्तॆ प्रजॆयु अदन्नु अनुकरण माडतॊडगुवरु.॥17-19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** “‘What sort of pleasure (kīdṛśaṃ ... sukham) can arise in his heart from union with Sītā (sītā-sambhogajam), who was once forcibly carried off by Rāvaṇa after lifting her onto his lap (aṅkam āropya tu purā rāvaṇena balād dhṛtām)—
+
+**18:** “‘—who was borne away to Laṅkā (laṅkām api purā nītām), taken to the Aśoka grove (aśokavanikāṃ gatām), and fallen into the power of the rākṣasas (rakṣasāṃ vaśam āpannām)? How is it that Rāma does not recoil from her (kathaṃ rāmo na kutsate)?
+
+**19:** “‘We too shall have to endure the like in our own wives (asmākam api dāreṣu sahanīyaṃ bhaviṣyati), for just as the king conducts himself, so his subjects follow him (yathā hi kurute rājā prajā tam anuvartate)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -433,6 +531,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! हीगॆ इडी नगर मत्तु देशद जनरु अनेक मातुगळन्नाडुवरु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Such manifold speeches (evaṃ bahuvidhā vācaḥ) do the citizens utter, O King, in all the towns (nagareṣu ca sarveṣu) and throughout the countryside (janapadeṣu ca).”
 </details>
 </details>
 
@@ -459,6 +563,12 @@ _________________
 
 भद्रन ई मातन्नु केळि श्रीरामनु अत्यन्त दुःखितनागि समस्त सुहृदयरल्लि केळिदनु - ई मातु ऎष्टु सत्यवागिदॆ? ऎम्बुदन्नु नीवु तिळिसिरि.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing these words spoken by him (tasyaivaṃ bhāṣitaṃ śrutvā), Rāghava—as though stricken with extreme anguish (paramārtavat)—said to all his friends (uvāca suhṛdaḥ sarvān): “How is this that you tell me (katham etad bravītha mām)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -483,6 +593,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग ऎल्लरू दीर्घदण्ड नमस्कार माडि श्रीरामनिगॆ दीनवाणियल्लि हेळिदरु-प्रभो! भद्रन ई मातु वास्तववागिदॆ. इदरल्लि यावुदे संशयविल्ल.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing down to the earth with their heads (śirasā bhūmāv abhivādya praṇamya ca), all of them replied to the dejected Rāghava (pratyūcū rāghavaṃ dīnam): “Just so it is—there is no doubt (evam etan na saṃśayaḥ)!”
 </details>
 </details>
 
@@ -519,6 +635,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि नलवत्तमूरनॆय सर्ग पूर्णवायितु.॥43॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words uttered by them all (sarveṣāṃ samudīritam), Kākutstha, the slayer of foes (śatru-sūdanaḥ), thereupon dismissed his companions (visarjayām āsa tadā vayasyān).
 </details>
 </details>
 

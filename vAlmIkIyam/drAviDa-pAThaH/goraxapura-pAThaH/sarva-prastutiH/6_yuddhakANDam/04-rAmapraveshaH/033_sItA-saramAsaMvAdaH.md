@@ -75,6 +75,12 @@ companion then approached Seetha, her beloved Seetha, her beloved friend.
 
 *Sarama, according to some commentators was the wife of Vibhishana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Sītā thus deluded (mohitām), the rākṣasī named Saramā, an affectionate friend (praṇayinī), then approached Vaidehī, her beloved companion (priyāṃ sakhīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +120,12 @@ Seetha; *mohitaam* = who was infatuated; *raakshhasendreNa* = by Ravana;
 
 Sarama, the soft-spoken woman, consoled Seetha who having been infatuated by Ravana
 was very much in distress.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gentle-spoken (mṛdu-bhāṣiṇī) Saramā then consoled (āśvāsayāmāsa) Sītā, who had been deluded by the lord of the rākṣasas and was stricken with supreme sorrow (parama-duḥkhitām).
 </details>
 </details>
 
@@ -161,6 +173,12 @@ being protected; *tatra* = there.
 
 Sarma, who was assigned by Ravana to guard Seetha, was kind hearted and firm in
 austerity. She was indeed made a companion by Seetha, who was being protected by her there.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For while guarding her as commanded by Rāvaṇa (rāvaṇādiṣṭā), she—compassionate (sānukrośā) and firm in her vow (dṛḍha-vratā)—had been made a friend (kṛtā mitram) there by the guarded Sītā.
 </details>
 </details>
 
@@ -211,6 +229,12 @@ covered with dust
 
 The affectionate Sarama found Seetha stupefied and just risen after rolling in the
 dust and soiled, resembling a female horse.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That friend Saramā beheld Sītā bereft of her senses (naṣṭa-cetanām), who had risen up after rolling in the dust (upāvṛtyotthitāṃ pāṃsuṣu), soiled like a mare (dhvastāṃ vaḍavām iva).
 </details>
 </details>
 
@@ -268,6 +292,14 @@ mind.
 Sarama consoled the very virtuous Seetha as follows "O, Seetha! Be comfortable! Do
 not get perturbed in your mind.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Out of affection for her friend (sakhī-snehena), she comforted that lady of noble vows (su-vratām): “Take heart (samāśvasihi), O Vaidehī; let there be no anguish in your mind! Whatever was spoken to you by Rāvaṇa, and whatever was spoken in reply by yourself—
+
+**6:** —all that was overheard by me (mayā sarvaṃ pratiśrutam) out of friendship, O timid one, while I lay hidden in a solitary thicket (līnayā gahane śūnye), casting aside fear of Rāvaṇa; for your sake, O large-eyed lady, I have no fear of Rāvaṇa!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,6 +349,12 @@ timid woman! Because of my friendship with you, I overheard Ravana's words and a
 the words you have spoken in reply to him, by hiding nearby in a barren sky without fear. O, large
 eyed woman! I do not have any fear of Ravana, owing to my affection towards you".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And why the lord of the rākṣasas went forth in such agitation (saṃbhrāntaś ca niṣkrāntaḥ)—all that too has been ascertained by me (me viditaṃ sarvam) after stepping out (abhiniṣkramya), O Maithilī!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -362,6 +400,12 @@ that matter; *yatkR^ite* = why; *saH raakshhaseshvaraH* = that Ravana;
 
 "O, Seetha! Every thing was ascertained by me on the spot, after going out, about
 the reason for which Ravana has gone away agitated."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+It is impossible to carry out a night-slaughter (na śakyaṃ sauptikaṃ kartum) against Rāma, who knows the Self (viditātmanaḥ); nor is being slain (vadhaḥ) at all conceivable (naivopapadyate) in that tiger among men (puruṣa-vyāghre).
 </details>
 </details>
 
@@ -409,6 +453,12 @@ upapadyate* = does not come into existence.
 
 "It is not possible to attack Rama, a man of self awareness, while he is asleep. Nay
 even killing him, the tiger among men, is well nigh impossible."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nor indeed can the monkeys, who fight with trees (pādapa-yodhinaḥ), be slain in this way; for they are well protected (su-rakṣitāḥ) by Rāma, like the gods by the foremost of celestials (surā devarṣabheṇeva).
 </details>
 </details>
 
@@ -467,6 +517,16 @@ Indra the excellent among celestials.
 trees, in as much as they are fully protected by Rama, even as celestials are protected by Indra
 their lord"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** With long, rounded arms (dīrgha-vṛtta-bhujaḥ), glorious, broad-chested (mahoraskaḥ), and full of valor, a bowman endowed with a compact frame (saṃnahanopetaḥ), righteous-souled and renowned on earth—
+
+**11:** valiant, ever the protector of himself and of others (ātmanaś ca parasya ca), of noble lineage (kulīnaḥ) and versed in the science of policy (naya-śāstra-vit), together with his brother Lakṣmaṇa—
+
+**12:** the slayer of enemy troop-multitudes (hantā para-balaughānām), of inconceivable strength and heroism (acintya-bala-pauruṣaḥ)—glorious Rāghava, the crusher of foes (śatru-nibarhaṇaḥ), has not been slain, O Sītā!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -524,6 +584,12 @@ of high descent, a knower of doctrines of conduct and behavior, the killer of a 
 forces, a man of inconceivable strength and valor, a venerable man and an annihilator of
 adversaries, has not been killed."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By that fierce conjurer (raudreṇa māyāvinā), whose understanding and deeds are perverse (ayukta-buddhi-kṛtyena) and who is the enemy of all beings (sarva-bhūta-virodhinā), was this illusion (māyā) practiced upon you.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -569,6 +635,12 @@ virodhinaa* = an enemy of all beings; *roudreNa* = and a fiery person.
 
 "A trickery has been hurled on you here by the cruel Ravana, a conjurer, who is
 perverse in thinking and action and an enemy of all beings."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Your sorrow is gone (śokas te vigataḥ), O lady; all good fortune has drawn near to you (sarva-kalyāṇaṃ tvām upasthitam)! Assuredly Lakṣmī attends upon you (tvāṃ bhajate lakṣmīḥ); hear what is dear to you, O noble lady (bhavati):
 </details>
 </details>
 
@@ -618,6 +690,12 @@ occasioned; *tvaam* = you; *dhruvam* = Assuredly; *lakshhmiiH* = prosperity;
 "Your sorrow is (now) gone once for all. An all-pervading auspiciousness will await
 you. Accordingly prosperity will attend on you. Hear me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having crossed the ocean (uttīrya sāgaram) together with the monkey army, Rāma has reached the southern shore (tīram āsādya dakṣiṇam) of the sea and pitched camp (saṃniviṣṭaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -663,6 +741,12 @@ reached; *dakshhiNam tiiram* = the southern shore; *samudrasya* = of the sea;
 
 "Rama, along with his army of monkeys, having crossed the ocean, reached its
 southern shore and is encamped there."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kākutstha, his purpose accomplished (paripūrṇārthaḥ), has been seen by me (dṛṣṭo me) together with Lakṣmaṇa; he stands protected by his assembled forces stationed along the edge of the ocean (sāgarāntasthaiḥ).
 </details>
 </details>
 
@@ -710,6 +794,12 @@ perceived; *me* = by me; *tishhTati* = who is stationed (there); *rakshhitaH*
 
 "Rama, who was along with fully meaningful Lakshmana, was perceived by me. He stands
 protected by the troops gathered together at the vicinity of the ocean."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And those swift-striding (laghu-vikramāḥ) rākṣasas who were sent out as scouts by this [Rāvaṇa]—by them the tidings (pravṛttiḥ) have been brought here: ‘Rāghava has crossed over (rāghavas tīrṇa ity evam)!’
 </details>
 </details>
 
@@ -760,6 +850,12 @@ that; *raaghavaH* = Rama; *tiirNaH* = had crossed(the ocean.)
 "Some swift paced demons, who were dispatched by Ravana, brought this very news here
 that Rama has crossed the ocean."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard those tidings, O large-eyed lady, this Rāvaṇa, lord of the rākṣasas, is right now deliberating (eṣa mantrayate) together with all his ministers.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -805,6 +901,12 @@ his ministers.
 
 "O, the wide-eyed Seetha! Hearing that news, yonder Ravana is busy making
 deliberations with all his ministers."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the rākṣasī Saramā was speaking thus with Sītā, she heard the dreadful clamor (śabdaṃ bhairavam) of the armies mustering with full exertion (sarvodyogena).
 </details>
 </details>
 
@@ -853,6 +955,12 @@ troops.
 While Sarama, the ogre was talking as aforesaid with Seetha; a terrific sound was
 heard, from the troops engaged in the impending war.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the mighty roar of the kettle-drum (bheryā mahā-svanam) resounding like a thunderbolt under the drumstick (daṇḍa-nirghāta-vādinyāḥ), sweet-spoken Saramā spoke this word to Sītā:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -898,6 +1006,12 @@ sweetly; *uvaacha* = spoke; *siitam* = to Seetha; *idam* = these words:
 
 Hearing the crashing sound of kettle drums, made to sound like a thunder storm with
 a drum stick, Sarama in her sweet voice spoke to Seetha as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This dreadful war-drum (bhairavā bherikā), O timid one, is the rouser to armor (saṃnāha-jananī); hear the deep roll of the drum (bherī-nādaṃ gambhīram), rumbling like a rain-cloud (toyada-niḥsvanam)!
 </details>
 </details>
 
@@ -950,6 +1064,12 @@ resembling the sound of a lightening cloud.
 preparation for a war. Hear also the thundering crash of the kettle drums, which resembles the
 rumbling of clouds"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Must-frenzied elephants are being caparisoned (kalpyante matta-mātaṅgāḥ), chariot-steeds are being yoked (yujyante ratha-vājinaḥ), and horsemen (turagārūḍhāḥ) bearing lances in hand (prāsa-hastāḥ) are seen by the thousands.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -998,6 +1118,12 @@ seen.
 
 "Elephants in rut are being caparisoned for war. Chariot horses are being prepared
 for a battle. Thousands of horsemen carrying darts in their hands are seen."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Here and there, mailed warriors (saṃnaddhāḥ) rush together (sampatanti) by the thousands; the royal highways are filling up (āpūryante rāja-mārgāḥ) with troops of wondrous aspect (adbhuta-darśanaiḥ),
 </details>
 </details>
 
@@ -1054,6 +1180,16 @@ with roaring sound; *vegavadbhiH* = and velocity.
 Royal highways are filled with wonderfully looking warriors like a swift flowing sea with its flood
 of waters making a roaring sound."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** like the ocean with swift, roaring floods of water (toyaughair iva sāgaraḥ)! And of burnished weapons (śastrāṇāṃ ca prasannānām), of shields (carmaṇām), and likewise of coats of mail (varmaṇām)—
+
+**25:** —and of the chariots, steeds, and elephants (ratha-vāji-gajānām) following the lord of the rākṣasas—this is the flurry (saṃbhramaḥ) of the exultant, impetuous (hṛṣitānāṃ tarasvinām) rākṣasas;
+
+**26:** behold [their panoply] sending forth a radiance (prabhāṃ visṛjatām) rising up in manifold colors (nānā-varṇa-samutthitām), like the form of Fire (rūpaṃ vibhāvasoḥ) burning down a forest in the hot season (gharme)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1101,6 +1237,12 @@ forth luster of many hues like the splendor of fire consuming a forest in summer
 flurry of chariots, horses and elephants following the lead of Ravana as well as of energetic
 demons thrilled with joy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hear the clanging of the bells (ghaṇṭānāṃ nirghoṣam), hear the rumble of the chariots (rathānāṃ niḥsvanam), and hear likewise the blare of trumpets (tūrya-dhvanim) amidst the neighing steeds (hayānāṃ heṣamāṇānām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1131,6 +1273,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आयुधगळन्नु धरिसि आनॆय मेलॆ कुळितिरुव रावणन अनुगामि राक्षसरु गाबरिगॊण्डिरुवरु. अवर मेलॆ यावुदो भारी रोमाञ्चकारि भय उपस्थितवागिदॆ ऎन्दॆनिसुत्तदॆ. शोकवन्नु निवारिसुव लक्ष्मियु निम्म सेवॆयल्लि उपस्थितळागिरुवळु.॥28½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This tumultuous (tumulaḥ) flurry of the rākṣasas following the rākṣasa king, bearing upraised weapons in their hands (udyatāyudha-hastānām), makes the hair bristle (loma-harṣaṇam).
 </details>
 </details>
 
@@ -1181,6 +1329,14 @@ neighing horses, resembling the flourish of trumpets. Here is the bustle of demo
 uplifted weapons in their hands; following the lead of Ravana. This bustling activity is causing
 hair to stand erect through terror."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** Fortune that destroys sorrow (śrīḥ śoka-ghnī) now attends upon you, while terror has come upon the rākṣasas (rakṣasāṃ bhayam āgatam)—for lotus-petal-eyed (kamala-patrākṣaḥ) Rāma is [to them] as Vāsava was to the Daityas!
+
+**30:** “Vanquishing (avajitya) him and slaying Rāvaṇa in battle, your husband of inconceivable valor (acintya-parākramaḥ), who has conquered his wrath (jita-krodhaḥ), shall recover you (tvādhigamiṣyati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1225,6 +1381,12 @@ in battle; *adhigamishhyati* = will acquire; *tvaa* = you.
 "A good fortune, which will bring your sorrow to an end, awaits you. A peril has
 arrived for demons. The lotus eyed Rama, your husband, who has overcome his anger but having an
 unimaginable strength will kill Ravana in battle and win you back"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Together with Lakṣmaṇa, your husband shall display his valor (vikramiṣyati) among the rākṣasas, just as Vāsava, the slayer of foes (śatru-ghnaḥ), did among his enemies together with Viṣṇu (viṣṇunā saha).
 </details>
 </details>
 
@@ -1273,6 +1435,12 @@ strength over); *shatrushhu* = the adversaries.
 "Your consort along with Lakshmana will show his valor against the demons, like
 Indra the lord of celestials along with Vishnu the lord of preservation, the annihilator of enemies
 exhibited his strength over his adversaries."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For once the foe is struck down (śatrau vinipātite), I shall swiftly behold you seated upon the lap (aṅka-gatāṃ satīm) of Rāma when he arrives, your purpose fulfilled (siddhārthām)!
 </details>
 </details>
 
@@ -1323,6 +1491,12 @@ coming being fulfilled; *shatrou* = and the enemy; *vinipaatite* = fallen.
 "Very soon, I shall see you, mounted on the lap of Rama who actually arrived, your
 object of his coming being fulfilled and the enemy fallen."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reunited (samāgamya) and embraced upon the chest of that broad-chested hero (tasyorasi mahorasaḥ), you shall shed tears born of bliss (asrāṇy ānanda-jāni vartayiṣyasi), O Jānakī!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1368,6 +1542,12 @@ reunited with you; *parishhvaktaa* = holding you clasped to his breast.
 
 "O, Seetha! You will shed tears of joy on the bosom of that broad-chested Rama, re-
 united with you and holding you clasped to his breast."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Before long (acirāt), O goddess Sītā, Rāma of mighty strength shall untie (mokṣyate) that single braid (ekāṃ veṇīm) reaching down to your hips (te jaghanaṃ gatām), which you have worn for many months (dhṛtāṃ bahūn māsān).
 </details>
 </details>
 
@@ -1416,6 +1596,12 @@ jaghanam* = your hips; *dhR^itaam* = which you have worn; *bahuun* = these many;
 "Before long, O divine Seetha, that mighty Rama will loosen the one single plait
 which has reached past your hips, which you have worn these many months."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding his face, O goddess, like the full moon risen in the sky (pūrṇa-candram ivoditam), you shall cast off the water born of grief (mokṣyase śoka-jaṃ vāri) just as a female serpent sheds her slough (nirmokam iva pannagī)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1461,6 +1647,12 @@ grief; *pannagii iva* = like a female snake; *nirmokam* = (casts off) its slough
 
 "O, Queen! Seeing his face, looking like a rising moon, you will renounce your tears
 born of grief, like a female snake casts off its slough."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain Rāvaṇa in battle before long (nacirād eva), O Maithilī, he who is worthy of happiness (sukhārhaḥ), reunited (samagraḥ) with you his beloved, shall obtain happiness (lapsyate sukham).
 </details>
 </details>
 
@@ -1508,6 +1700,12 @@ yourself.
 
 "O, Seetha! Having killed Ravana in combat within no time, Rama (who deserves
 facility); will enjoy happiness in the company of the beloved, namely yourself."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored (sabhājitā) by the great-souled Rāma, you shall rejoice (modiṣyasi), like the earth (medinī) blessed with abundant rain (su-varṣeṇa samāyuktā) rejoicing in its harvest (sasyena)!
 </details>
 </details>
 
@@ -1569,6 +1767,12 @@ with crops, feels after the onset of good rains."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तमूरनॆय सर्ग पूर्णवायितु.॥33॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seek refuge here (tam iha śaraṇam abhyupehi), O goddess, in that Maker of Day (divasa-karam), who, revolving around the foremost of mountains (giri-varam abhito vivartamānaḥ), swiftly completes his circular course like a steed (haya iva maṇḍalam āśu yaḥ karoti); for he is the source of all creatures (prabhavo hy ayaṃ prajānām).”
 </details>
 </details>
 

@@ -69,6 +69,12 @@ Sugreeva; *kaakutsthoH* = Rama; *pratijagraaha* = concurred with him; *atha* =
 Hearing the well-founded and highly reasonable words of Sugreeva, Rama concurred
 with him and spoke then to Hanuma as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard Sugrīva's speech (sugrīvasya vacaḥ śrutvā), which was grounded in reason and rich in ultimate truth (hetumat paramārthavat), Kākutstha accepted it (pratijagrāha) and then spoke to Hanūmān:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +121,12 @@ with him and spoke then to Hanuma as follows:
 "I am competent of crossing this ocean by all means, either by way of austerity or
 by forming a bridge or by drying up the ocean."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By ascetic power (tapasā), by binding a causeway (setu-bandhena), or by drying up the sea (sāgarocchoṣaṇena ca), I am in every way capable (sarvathāpi samartho 'smi) of crossing this ocean (sāgarasyāsya laṅghane).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,6 +172,12 @@ that; *darshanaadiva* = as though perceived with an eye.
 
 "Tell me how many citadels in Lanka are difficult of access, Oh, Hanuma! I desire to
 know all that, as though viewed with an eye."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How many citadels and defences (kati durgāṇi) belong to inaccessible Laṅkā (durgāyā laṅkāyāḥ)? Tell me that (tad bravīṣva me), O monkey; I wish to know all of it as though from direct sight (darśanād iva).
 </details>
 </details>
 
@@ -224,6 +242,14 @@ fortification-details of the gates and citadels, the way in which Lanka was guar
 mansions of ogres. Describe everything in accordance with facts, for you are skilled in all
 ways."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** “Both the numerical strength of the army (balasya parimāṇaṃ ca) and the defensive construction of the gates (dvāra-durga-kriyām api), the protective measures of Laṅkā (gupti-karma ca laṅkāyāḥ), and the mansions of the Rākṣasas (rakṣasāṃ sadanāni ca)—
+
+**5:** “All that you have observed in Laṅkā at your ease and accurately (yathā-sukhaṃ yathāvac ca), recount to me in its true nature (sarvam ācakṣva tattvena); for you are thoroughly skilled in every respect (sarvathā kuśalo hy asi).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -273,6 +299,12 @@ to Rama (as follows):
 
 Hearing the words of Rama, Hanuma the son of wind-god, who was excellent in the art
 of expression, forthwith spoke once more to Rama as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma's words, Hanūmān, son of the Wind-god (mārutātmajaḥ) and foremost of eloquent speakers (vākyavidāṃ śreṣṭhaḥ), thereupon spoke again to Rāma:
 </details>
 </details>
 
@@ -363,6 +395,16 @@ division of the body of his forces and of animals like horses and elephants carr
 other than the infantry." Saying so, Hanuma the foremost among monkeys, who knew the truth narrated
 as follows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** “Pray listen (śrūyatām): I shall recount everything in due order (sarvam ākhyāsye... vidhānataḥ)—the defensive works (durga-karma), how the citadel of Laṅkā is guarded (guptā purī yathā laṅkā), and how it is protected by armies (rakṣitā ca yathā balaiḥ);
+
+**8:** “How the Rākṣasas are loyally devoted (yathā snigdhāḥ), and how through the fiery might of Rāvaṇa (rāvaṇasya ca tejasā) [there exists] the supreme opulence of Laṅkā (parāṃ samṛddhiṃ laṅkāyāḥ) and the dreadfulness of the ocean (sāgarasya ca bhīmatām);
+
+**9:** “And the deployment of the multitude of forces (vibhāgaṃ ca balaughasya) and the enumeration of the mounts and vehicles (nirdeśaṃ vāhanasya ca).” Having spoken thus, the foremost of monkeys (kapi-śreṣṭhaḥ) narrated it according to the facts (tattvataḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -412,6 +454,12 @@ inhabited by gangs of ogres.
 "The great Lanka was rejoiced and gayful, full of elephants in rut, abounding in
 chariots and inhabited by gangs of ogres."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Laṅkā is exultant and joyous (hṛṣṭa-pramuditā laṅkā), thronged with rutting elephants (matta-dvipa-samākulā), vast (mahatī), filled with war-chariots (ratha-sampūrṇā), and inhabited by hosts of Rākṣasas (rakṣo-gaṇa-niṣevitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,6 +505,12 @@ Lanka; *dR^iDhabaddhakapaaTaani* = are fitted with strong doors; *mahaaparighava
 
 "Four fairly big and extensive gates are fitted with strong doors along with huge
 beams for locking those gates."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“It possesses four wide and colossal gates (catvāri vipulāny asyā dvārāṇi sumahānti ca), having tightly fastened panels (dṛḍha-baddha-kapāṭāni) and massive locking bars (mahā-parighavanti ca).
 </details>
 </details>
 
@@ -507,6 +561,12 @@ _________________
 "Strong and mighty ballista capable of hurling darts and stones have been attached
 to them. The enemy troops which arrive there are warded off by those catapults at the very
 gates."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At those gates stand mighty and massive engines for hurling arrows and boulders (tatreṣūpala-yantrāṇi balavanti mahānti ca); by those engines any approaching hostile army (āgataṃ pratisainyam) is repelled right there (tatra pratinivāryate).
 </details>
 </details>
 
@@ -562,6 +622,12 @@ Comment: Sataghnis are four forearms in length bristled with iron spikes and are
 so called because they are supposed to kill hundreds at a time.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the gates, hundreds of dreadful, sharp-spiked śataghnī engines (bhīmāḥ... śitāḥ śataghnyaḥ) forged of black iron (kālāyasamayāḥ) have been arrayed in readiness (saṃskṛtāḥ... racitāḥ) by bands of heroic Rākṣasas (vīraiḥ rakṣasāṃ gaṇaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -607,6 +673,12 @@ intervals with gems; corals; cat's eyes and pearls.
 
 "A great rampart made of gold, which is difficult to assail with violence and is
 inlaid at intervals with gems, corals, cat's eyes and pearls, encircle that Lanka."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And her massive golden rampart (sauvarṇas tu mahāṃs tasyāḥ prākāraḥ) is impossible to storm (duṣpradharṣaṇaḥ), having its interior inlaid with rubies, coral, cat's-eye gems, and pearls (maṇi-vidruma-vaidūrya-muktā-viracitāntaraḥ).
 </details>
 </details>
 
@@ -655,6 +727,12 @@ round (the city).
 "Most awe-inspiring and fathomless moats (deep trenches) of great splendor, filled
 with cold water, infested with alligators and inhabited by fishes are there all round the
 city."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“On all sides (sarvataś ca) lie supremely dreadful, unfathomable moats (mahā-bhīmāḥ... agādhāḥ parikhāḥ), filled with cold, crystal-clear waters (śīta-toyā mahā-śubhāḥ), teeming with crocodiles and frequented by fish (grāhavatyāś ca... mīna-sevitāḥ).
 </details>
 </details>
 
@@ -710,6 +788,12 @@ numerous engines and furnished with many rows of buildings (built on the rampart
 those entrusted with the duty of guarding the entrances)."
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the gates, spanning those moats (dvāreṣu tāsām), are four exceedingly long bridges (catvāraḥ saṃkramāḥ paramāyatāḥ), equipped with numerous huge engines (yantrair upetā bahubhir mahadbhiḥ) and rows of guard-houses (gṛha-paṅktibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -756,6 +840,12 @@ those entrusted with the duty of guarding the entrances)."
 "Against the approach of the enemy forces there, the draw-bridges are protected by
 the aforesaid engines and the enemy-battalions are flung into the moats on every side."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When a hostile army approaches (para-sainyāgate sati), those bridges are defended there (trāyante saṃkramās tatra), and by means of those engines [the attackers] are hurled down into the moats on every side (yantrais tair avakīryante parikhāsu samantataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -801,6 +891,12 @@ the aforesaid engines and the enemy-battalions are flung into the moats on every
 
 "The most important draw-bridge which is unshakable, firmly fastened very well and
 strong, is dazzling with numerous gold pillars and pedestals."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“One bridge in particular is unshakable (ekas tv akampyaḥ), strongly garrisoned (balavān), and supremely firm (sumahā-dṛḍhaḥ), adorned with many golden pillars and raised platforms (kāñcanair bahubhiḥ stambhair vedikābhiś ca śobhitaḥ).
 </details>
 </details>
 
@@ -855,6 +951,12 @@ and in readiness to review the forces, Oh, Rama!"
 
 Seven powers of the state are usually enumerated, viz. king, minister, allies,
 treasure, army, territory and fortresses.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Restored to his own martial nature (svayaṃ prakṛtim āpannaḥ) and eager for battle (yuyutsū), O Rāma, Rāvaṇa himself stands alert and ever vigilant (utthitaś cāpramattaś ca) in inspecting his forces (balānām anudarśane).
 </details>
 </details>
 
@@ -912,6 +1014,12 @@ artificial fortification."
 Comment: Fourfold defences, defence by water, mountain, forest or by artificial
 means.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Moreover, Laṅkā is supportless to scale (nirālambā), a divine citadel (deva-durgā) inspiring terror (bhayāvahā), possessing a fourfold fortification (catur-vidham): riverine, montane, sylvan, and artificial (nādeyaṃ pārvataṃ vānyaṃ kṛtrimaṃ ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -959,6 +1067,12 @@ communication."
 "Lanka is situated on the other side of the ocean, which is difficult of access, Oh
 Rama! It offers no passage for vehicles either and there is no proper communication from all
 sides."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“She stands upon the far shore of the distant-shored ocean (sthitā pāre samudrasya dūra-pārasya), O Rāghava; here there is didn't even a ship-route (naupathaś cāpi nāsty atra), and it is trackless on all sides (niruddeśaś ca sarvataḥ).
 </details>
 </details>
 
@@ -1008,6 +1122,12 @@ on a mountain peak; *durgaaH* = (and is inaccessible; *saa* = that; *laN^kaa*
 inaccessible. That Lanka is abound with horses and elephants and is extremely difficult to
 conquer."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Built upon the crest of a mountain (śailāgre racitā), that unassailable citadel (durgā sā pūḥ) resembles the city of the gods (deva-puropamā); teeming with steeds and elephants (vāji-vāraṇa-sampūrṇā), Laṅkā is supremely hard to conquer (parama-durjayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1053,6 +1173,12 @@ Sataghnis too; *yantraaNi cha* = as well as engines; *vividhaani* = of various k
 
 Deep trenches and Sataghnis too as well as engines of war of every kind adorn Lanka
 the city of wicked Ravana."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Moats, śataghnī engines, and manifold mechanical contrivances (parikhāś ca śataghnyaś ca yantrāṇi vividhāni ca) adorn the citadel of Laṅkā (śobhayanti purīṃ laṅkām) belonging to the evil-minded Rāvaṇa (rāvaṇasya durātmanaḥ).
 </details>
 </details>
 
@@ -1104,6 +1230,12 @@ eastern gate.
 "Ten thousand ogres all carrying darts in their hands and warriors contending with
 swords, who are difficult to assail, are positioned at the eastern gate."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Ten thousand (ayutam) Rākṣasas are stationed here at the eastern gate (pūrva-dvāraṃ samāśritam)—lance-bearing (śūla-hastāḥ), unassailable (durādharṣāḥ), and all of them fighting in the vanguard with drawn swords (sarve khaḍgāgra-yodhinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1151,6 +1283,12 @@ four limbs(viz. horses; foot soldiers; elephants and chariots).
 "One hundred thousand of ogres, with an army of four limbs (viz. horses, foot
 soldiers, elephants and chariots) are positioned at the southern gate of the city. Warriors
 unsurpassed by others constitute that army."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A hundred thousand (niyutam) Rākṣasas are stationed here at the southern gate (dakṣiṇa-dvāram āśritam), together with a fourfold army (caturaṅgeṇa sainyena); the warriors there too are unsurpassed (yodhās tatrāpy anuttamāḥ).
 </details>
 </details>
 
@@ -1202,6 +1340,12 @@ missiles.
 One million troops arrived with shields and swords as well as proficient in the use
 of all mystic missiles, are positioned at the western gate."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A million (prayutam) Rākṣasas are stationed here at the western gate (paścima-dvāram āśritam), all bearing shields and swords (carma-khaḍga-dharāḥ sarve) and likewise skilled in all missile weapons (tathā sarvāstra-kovidāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1249,6 +1393,12 @@ honored."
 "A hundred millions of ogres, who are mounted in chariots or who ride on hoses, sons
 of distinguished families and greatly honored, are positioned there at the northern gate."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Ten million [or a hundred million] (nyarbudam) Rākṣasas are stationed here at the northern gate (uttara-dvāram āśritam), consisting of chariot-warriors and horsemen (rathinaś cāśva-vāhāś ca), high-born nobles held in high honor (kula-putrāḥ supūjitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1295,6 +1445,12 @@ division."
 
 "Moreover, ogres hundreds of thousands in number, difficult to attack, aggregating
 to one and quarter of a crore of ogres are positioned at the central division."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And hundreds of thousands (śataśo 'tha sahasrāṇi) of unassailable Yātudhānas—over a crore of Rākṣasas in all (sāgra-koṭiś ca rakṣasām)—are stationed in the central encampment (madhyamaṃ skandham āśritāḥ).
 </details>
 </details>
 
@@ -1348,6 +1504,12 @@ was burnt; *praakaaraashcha* = defensive walls; *avasaaditaaH* = pulled down;
 The city of Lanka was burnt by me and the defensive walls were pulled down. A part of the army of
 the gigantic ogres was destroyed."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet those bridges were shattered by me (te mayā saṃkramā bhagnāḥ), the moats were filled up (parikhāś cāvapūritāḥ), the city of Laṅkā was burned (dagdhā ca nagarī laṅkā), the ramparts werepulled down (prākārāś cāvasāditāḥ), and a portion of the army (balaika-deśaḥ) of the mighty-bodied Rākṣasas was destroyed (kṣapitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1395,6 +1557,12 @@ then as destroyed by the monkeys."
 "By some way or other, let us cross the ocean. The city of Lanka should be assumed
 then as destroyed by the monkeys."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By whatever way (yena kena tu mārgeṇa) let us cross the abode of Varuṇa (tarāma varuṇālayam); let the city of Laṅkā be deemed already slain by the monkeys (hateti nagarī laṅkā vānarair upadhāryatām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1419,6 +1587,12 @@ then as destroyed by the monkeys."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अङ्गद, द्विविद, मैन्द, जाम्बवन्त, पनस, नल, सेनापति नील-इष्टॆ वानररु लङ्कॆयन्नु जयिसलु सालुवष्टिद्दारॆ. उळिद सैन्यदिन्द एनु माडुवुदिदॆ.॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Aṅgada, Dvivida, Mainda, Jāmbavān, Panasa, Nala, and Nīla the commander-in-chief (nīlaḥ senāpatiś caiva)—what need have you of the rest of the army (bala-śeṣeṇa kiṃ tava)?
 </details>
 </details>
 
@@ -1450,6 +1624,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! ई अङ्गदने आदि वीररु आकाशमार्गदिन्द हारि होगि रावणन लङ्कॆयन्नु वन, पर्वत, कन्दक, बागिलु गळन्नु प्राकारगळन्नु, मनॆगळ सहित नाश माडि सीतॆयन्नु इल्लिगॆ करॆदुकॊण्डु बरुवरु.॥32॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For leaping across (plavamānā hi) and reaching that great citadel of Rāvaṇa (gatvā tāṃ rāvaṇasya mahā-purīm), they will rend it asunder together with its mountains and groves (sa-parvata-vanāṃ bhittvā), and bring it back with its moats, arched gateways, ramparts, and palaces (sa-khātāṃ ca sa-toraṇām sa-prākārāṃ sa-bhavanām ānayiṣyanti), O Rāghava!
 </details>
 </details>
 
@@ -1508,5 +1688,11 @@ walls and buildings, will recover Seetha."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूरनॆय सर्ग पूर्णवायितु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore command swiftly (evam ājñāpaya kṣipram) the complete mobilization of the armies (balānāṃ sarva-saṃgraham), and at an auspicious hour (muhūrtena tu yuktena) approve the march (prasthānam abhirocaya).”
 </details>
 </details>

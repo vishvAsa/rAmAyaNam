@@ -62,6 +62,12 @@ On becoming personally purified Rama, the descendent of Kakutstha-s,
  received the missiles, and then on their way he is now speaking to Sage
  Vishvamitra with a pleasant face. [1-28-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having duly received those celestial missiles, the pure-hearted scion of Kakutstha, his countenance beaming with joy (prahṛṣṭavadanaḥ śuciḥ), spoke thus to Viśvāmitra even as he walked along (gacchann eva):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,6 +109,12 @@ On becoming personally purified Rama, the descendent of Kakutstha-s,
 "Oh, godly sage, I have taken the missiles and became unassailable even
  for gods, but oh, eminent sage, I wish to know the annulment of missiles
  too." So said Rama to the sage. [1-28-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now that I have received the divine missiles, O venerable Lord, I am unassailable even by the gods (durādharṣaḥ surair api); yet I desire also to know the withdrawal spells of the missiles (astrāṇāṃ saṃhārān), O bull among sages!”
 </details>
 </details>
 
@@ -146,6 +158,12 @@ On becoming personally purified Rama, the descendent of Kakutstha-s,
 When Rama of Kakutstha said thus, next that resolute, well-averred and
  purified sage of eminence Vishvamitra imparted the knowledge of annulment
  missiles. [1-28-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the scion of Kakutstha spoke thus, Viśvāmitra of mighty austerity—steadfast in firmness, faithful to his vows, and ritually pure (dhṛtimān suvrataḥ śuciḥ)—forthwith expounded the withdrawal spells (saṃhārān vyājahārātha):
 </details>
 </details>
 
@@ -265,6 +283,24 @@ When Rama of Kakutstha said thus, next that resolute, well-averred and
  are the eligible one to handle these missiles, let safety be with you."
  Thus Vishvamitra gave missiles to Rama. [1-28-4, 5, 6, 7, 8, 9, 10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Satyavat (“the True”), Satyakīrti (“of True Renown”), Dhṛṣṭa (“the Bold”), and Rabhasa (“the Impetuous”); as well as that named Pratihāratara (“the Supreme Warder”), Parāṅmukha (“With-Face-Averted”), and Avāṅmukha (“With-Face-Downward”);
+
+**5:** And these two, Lakṣya (“the Visible Target”) and Alakṣya (“the Invisible”), together with Dṛḍhanābha (“Firm-Naveled”) and Sunābhaka (“Fair-Naveled”); Daśākṣa (“Ten-Eyed”) and Śatavaktra (“Hundred-Mouthed”), and Daśaśīrṣa (“Ten-Headed”) and Śatodara (“Hundred-Bellied”);
+
+**6:** Padmanābha (“Lotus-Naveled”) and Mahānābha (“Great-Naveled”), Dundunābha (“Drum-Naveled”) and Sunābhaka (“Goodly-Naveled”); Jyotiṣa (“the Luminous”) and Śakuna (“the Auspicious Bird-Omen”), and the pair Nairāsya (“Despair-Dealing”) and Vimala (“the Stainless”);
+
+**7:** Yaugandhara and Vinidra (“the Sleepless”), and the pair of Daityapramathanas (“Crushers of Daityas”); Śucibāhu (“Pure-Armed”), Mahābāhu (“Mighty-Armed”), Niṣkali (“Strife-Free”), and Viruca (“the Radiant”); Sārcirmālin (“Garlanded with Flames”), Dhṛtimālin (“Wreathed in Firmness”), Vṛttimat (“Abiding in Conduct”), and Rucira (“the Resplendent”);
+
+**8:** Pitrya (“Ancestral”), Saumanasa (“Gladdening the Mind”), and the pair Vidhūta (“the Shaken”) and Makara (“the Sea-Monster”); Paravīra (“Crusher of Hostile Heroes”), Rati (“Delight”), and the pair Dhana (“Wealth”) and Dhānya (“Grain”), O Rāghava;
+
+**9:** Kāmarūpa (“Assuming Any Form at Will”), Kāmaruci (“Shining at Will”), Moha (“Stupefaction”), and Āvaraṇa (“the Enveloping Shield”); Jṛmbhaka (“the Yawner”), Sarvanābha (“All-Hubbed”), and the pair Panthana (“the Path-Blocker”) and Varuṇa (“the Noose-Binder”).
+
+**10:** “Receive from me, O Rāma, these blazing sons of Kṛśāśva (kṛśāśvatanayān bhāsvarān) who assume any form at will (kāmarūpiṇaḥ)! May auspiciousness attend you—you are a worthy vessel (pātrabhūto ’si), O Rāghava!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -285,6 +321,12 @@ When Rama of Kakutstha said thus, next that resolute, well-averred and
 
 तब ‘बहुत अच्छा’ कहकर श्रीरामचन्द्रजीने प्रसन्न मनसे उन अस्त्रोंको ग्रहण किया । उन मूर्तिमान् अस्त्रोंके शरीर दिव्य तेजसे उद्भासित हो रहे थे । वे अस्त्र जगत् को सुख देनेवाले थे ॥ ११ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So be it!” (bāḍham ity eva), replied the scion of Kakutstha with a joyful inner spirit (prahṛṣṭenāntarātmanā), and accepted them; thereupon those missiles—endowed with divine, blazing bodies, incarnate in tangible form, and bestowing bliss (mūrtimantaḥ sukhapradāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -304,6 +346,12 @@ When Rama of Kakutstha said thus, next that resolute, well-averred and
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उनमेंसे कितने ही अंगारोंके समान तेजस्वी थे । कितने ही धूमके समान काले प्रतीत होते थे तथा कुछ अस्त्र सूर्य और चन्द्रमाके समान प्रकाशमान थे । वे सब-के-सब हाथ जोड़कर श्रीरामके समक्ष खड़े हुए ॥ १२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some resembling glowing embers of charcoal (kecid aṅgārasadṛśāḥ), some resembling clouds of smoke (kecid dhūmopamāḥ), and some radiant as the moon and the sun (candrārkasadṛśāḥ kecit), stood bowed in humility with hollowed palms joined in salutation (prahvāñjalipuṭāḥ).
 </details>
 </details>
 
@@ -355,6 +403,12 @@ Gladdening in his heart of hearts Rama of Kakutstha received the annulment
  melodiously spoke to Rama saying, "here we are, oh, tigerly man, what
  can we do for you." [1-28-11, 12, 13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joining their palms in reverence (prāñjalayo bhūtvā), those sweet-voiced deities spoke to Rāma: “Here we are (ime sma), O tiger among men! Command us (śādhi)—what shall we perform for you?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -392,6 +446,12 @@ Gladdening in his heart of hearts Rama of Kakutstha received the annulment
  till then you may go away as you wish," thus that legatee of Raghu-s said
  to those deities of annulment missiles. [1-28-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The delight of Raghu’s line said to them: “Depart now as you please (gamyatāṃ yatheṣṭam); abiding in my mind (mānasāḥ), you shall render me aid at the times of action (kāryakāleṣu sāhāyyaṃ me kariṣyatha).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -428,6 +488,12 @@ Gladdening in his heart of hearts Rama of Kakutstha received the annulment
 Saying "it will be done that way" to Rama, the legatee of Kakutstha-s,
  also on performing circumambulation to him and then on taking his consent
  those deities have gone away as they have come. [1-28-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having taken leave of Rāma and circumambulated him from left to right (kṛtvā cāpi pradakṣiṇam), they said to Kakutstha’s scion, “So be it!” (evam astv iti), and departed even as they had come (jagmur yathāgatam).
 </details>
 </details>
 
@@ -469,6 +535,14 @@ Saying "it will be done that way" to Rama, the legatee of Kakutstha-s,
 After learning the nullifying missiles and then while proceeding on
  the walkway Raghava asked the great sage Vishvamitra with sweet and
  soft words. [1-28-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Having mastered those withdrawal spells (tān jñātvā), Rāghava, even as he walked along, spoke to the great sage Viśvāmitra in sweet and gentle words (madhuraṃ ślakṣṇaṃ vacanam abravīt):
+
+**17:** “What is this grove of trees (vṛkṣakhaṇḍam) appearing over there not far from the mountain (parvatasyāvidūrataḥ), dark and gleaming like a bank of clouds (meghasaṃkāśam)? Great indeed is my curiosity (paraṃ kautūhalaṃ hi me)!
 </details>
 </details>
 
@@ -512,6 +586,12 @@ After learning the nullifying missiles and then while proceeding on
  with numerous kinds of birds that have pleasant callings it is highly
  soul-delighting, thus, my inquisitiveness is growing very much to know
  it, what is this, really! [1-28-17, 18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fair to behold, thronged with deer (darśanīyaṃ mṛgākīrṇam), and exceedingly captivating to the heart (manoharam atīva ca), it is adorned with birds of manifold kinds uttering melodious notes (śakunair valgubhāṣair alaṅkṛtam).
 </details>
 </details>
 
@@ -559,6 +639,12 @@ After learning the nullifying missiles and then while proceeding on
  understand that we have come out of the extremely alarming forest of
  Tataka, but oh, god, whose hermitage's threshold is this, kindly tell
  me all. [1-28-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We have now emerged, O best of sages, from that hair-raising wilderness (niḥsṛtāḥ smo muniśreṣṭha kāntārād romaharṣaṇāt)! By the sheer serenity and blissfulness of this region (anayā deśasya sukhavattayā), I infer that we have reached a hermitage;
 </details>
 </details>
 
@@ -630,6 +716,16 @@ After learning the nullifying missiles and then while proceeding on
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डेऽष्टाविंशः सर्गः ॥ २८ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें अट्ठाईसवाँ सर्ग पूरा हुआ ॥ २८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** “Tell me everything in full, O venerable Lord—whose hermitage precinct is this (kasyāśramapadaṃ tv idam)? And where is it that those sinful, Veda-destroying, evil-doing Rākṣasas (pāpā brahmaghnā duṣṭacāriṇaḥ) have arrived
+
+**21:** “In order to obstruct your sacrifice, those wicked-souled ones, O great sage (tava yajñasya vighnāya durātmāno mahāmune)? O venerable Lord, which is the exact spot where that sacrificial rite of yours (tava yājñikī)
+
+**22:** “Must be guarded by me, O Brāhmaṇa, and where those Rākṣasas are to be slain by me (rakṣitavyā kriyā brahman mayā vadhyāś ca rākṣasāḥ)? All this, O best of sages, I desire to hear, O Lord!”
 </details>
 </details>
 

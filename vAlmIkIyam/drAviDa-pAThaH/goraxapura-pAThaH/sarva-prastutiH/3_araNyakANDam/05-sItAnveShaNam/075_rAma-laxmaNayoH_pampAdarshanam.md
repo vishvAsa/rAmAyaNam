@@ -92,6 +92,14 @@ in heavens will usually be determined by their relative merits... am I serving m
 god, and the like... namely Rama, to have an iota of Shabari's merit... or, all the problems to Rama
 have chanced by my neglect of my duty...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** When that Śabarī had departed to heaven by her own spiritual lustre (divaṃ tu tasyāṃ yātāyāṃ śabaryāṃ svena tejasā), Rāghava reflected (cintayām āsa) together with his brother Lakṣmaṇa.
+
+**2:** Having reflected upon the spiritual power of those great-souled sages (prabhāvaṃ taṃ mahātmanām), the righteous-souled Rāghava spoke to the attentive Lakṣmaṇa, who was ever devoted to his welfare (hita-kāriṇam ekāgram):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -137,6 +145,12 @@ a; *aashramaH* = hermitage; *maya dR^iSTaH* = by me, seen.
 
 "I have seen a highly astounding hermitage of self-controlled sages, oh, gentle Lakshmana, in which
 the deer and tigers are at home, and which is adored by divers birds... [3-75-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I have beheld, O gentle one, this hermitage of those self-perfected sages (dṛṣṭo mayāśramaḥ kṛtātmanām), abounding in wonders (bahv-āścaryaḥ), where deer and tigers dwell in mutual trust (viśvasta-mṛga-śārdūlaḥ), and which is frequented by diverse birds (nānā-vihaga-sevitaḥ).
 </details>
 </details>
 
@@ -214,6 +228,14 @@ hi* = in heart, auspiciousness [hope,] issues forth [hatches,] indeed.
 propitiousness is standing en face us, thereby presently this heart of mine is highly gladdening...
 oh, lion-like man, indeed, heart alone hatches hope... [3-75-5, 6a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** And at the sacred bathing-places of those seven oceans (saptānāṃ ca samudrāṇāṃ teṣāṃ tīrtheṣu), O Lakṣmaṇa, we have bathed according to rule (upaspṛṣṭaṃ ca vidhivat), and our ancestors have also been gratified with water-libations (pitaraś cāpi tarpitāḥ).
+
+**5:** That misfortune of ours has vanished (praṇaṣṭam aśubhaṃ yan naḥ), and auspiciousness has drawn near (kalyāṇaṃ samupasthitam); therefore this heart of mine, O Lakṣmaṇa, is filled with joy right now (prahṛṣṭaṃ me mano samprati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,6 +263,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरश्रेष्ठने! ईग नन्न हृदयदल्लि यावुदो शुभ सङ्कल्प एळुत्तिदॆ. अदक्कागि नडॆ, ईग नाविब्बरू परम सुन्दर पम्पासरोवरद तीरक्कॆ होगुवा.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In my heart, O tiger among men, good fortune is about to dawn (śubham āvirbhaviṣyati); therefore come, let us two proceed to that lovely Lake Pampā (gamiṣyāvaḥ pampāṃ tāṃ priya-darśanām)—
 </details>
 </details>
 
@@ -288,6 +316,12 @@ beaming forth; *taam* = to her; *priya darshanaam* = lovely, in its sight [spect
 "Thereby, where Mt. Rishyamuka is beaming forth at its nearby, on which that right minded son of the
 Sun, Sugreeva, is living along with four other vanara-s, always frightened by the fear from Vali, we
 will go to her, to that spectacular Lake Pampa, come on, Lakshmana... [3-75-6b, 7, 8a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—where Mount Ṛṣyamūka shines not far away (ṛṣyamūko girir yatra nātidūre prakāśate), upon which dwells the righteous-souled Sugrīva (vasati dharmātmā sugrīvaḥ), son of the radiant Sun-god (aṃśumataḥ sutaḥ)—
 </details>
 </details>
 
@@ -338,6 +372,12 @@ of, isn't it.
 "I am also hasty to see that best one among vanara-s, Sugreeva, for my enterprise called search for
 Seetha is under his aegis, isn't it... [3-75-8b, 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—ever trembling in fear of Vālin (nityaṃ vāli-bhayāt trastaḥ), together with four monkeys (caturbhiḥ saha vānaraiḥ). And I am eager to behold (ahaṃ tvare ca taṃ draṣṭum) that Sugrīva, bull among monkeys (vānararṣabham)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -383,6 +423,12 @@ is, even, hastening; *tvaritam tatra gacChaavaH* = promptly, to there, let us go
 
 To that brave Rama who is speaking thus, Soumitri said this, " my heart too is hastening me, let us
 go there promptly..." [3-75-9b, 10a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—for upon him depends my task (tad-adhīnaṃ hi me kāryam), the search for Sītā (sītāyāḥ parimārgaṇam).” To that hero speaking thus (iti bruvāṇaṃ taṃ vīram), Sumitrā's son spoke these words:
 </details>
 </details>
 
@@ -432,6 +478,14 @@ tataH* = from there; *lakSmaNena saha* = Lakshmana, along with; *pampaam aajagaa
 Then that Lord of People and Lord of Nature on exiting from that hermitage, he then came nigh of Lake
 Pampa along with Lakshmana. [3-75-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** “Let us two go swiftly there (gacchāvas tvaritaṃ tatra); my mind too is eager (mamāpi tvarate manaḥ)!” Departing then from that hermitage (āśramāt tu tatas tasmān niṣkramya), that lord of the people (sa viśāmpatiḥ)—
+
+**11:** —the mighty lord, came then to Pampā together with Lakṣmaṇa (ājagāma tataḥ pampāṃ lakṣmaṇena saha prabhuḥ), gazing on every side upon that vast-treed woodland rich in blossoms (samīkṣamāṇaḥ puṣpāḍhyaṃ sarvato vipula-drumam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -459,6 +513,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ विशाल वनवु टिट्टिभ, नविलु, मरकुटक, गिळि हागू इतर अनेक पक्षिगळ कलरवदिन्द प्रतिध्वनिसुत्तित्तु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—that great forest resounding (nāditaṃ tad vanaṃ mahat) with lapwings, peacocks, woodpeckers, and parrots (koyaṣṭibhiś cārjunakaiḥ śatapatraiś ca kīrakaiḥ), and with many other birds besides (etaiś cānyaiś ca bahubhiḥ).
 </details>
 </details>
 
@@ -520,6 +580,12 @@ waters, then his innate need for visualising Seetha sprang up and he rushed towa
 presuming her to be Lady Seetha...' but we usually take liberty to cut off other words and retain 'he'
 for pain of retyping.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding diverse trees and diverse pools (vividhān vṛkṣān sarāṃsi vividhāni ca), that Rāma, tormented by longing (kāmābhisaṃtaptaḥ), proceeded to the supreme lake (jagāma paramaṃ hradam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -575,6 +641,12 @@ From here the real confusion about the arrangement of verses occurs, which is as
 copying of copyists. No two versions agree on the placement of verses and some from the next canto Kishkindha
 are also brought in here. With the result parsing of verses also goes wrong. Yet, this goes on.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having approached from afar that [lake] of flowing potable water (tām āsādya dūrāt pānīya-vāhinīm), Rāma plunged into the pool named Mataṅgasaras (mataṅga-sarasaṃ nāma hradaṃ samavagāhata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -623,6 +695,12 @@ are also brought in here. With the result parsing of verses also goes wrong. Yet
 
 Though both Raghava-s came there composedly and dispassionately, but Rama, the son of Dasharatha, is
 ensorcelled by anguish on seeing a ladylike lake Pampa. [3-75-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There the two Rāghavas proceeded, calm and composed in mind (jagmatur avyagrau rāghavau hi samāhitau); and that Rāma, son of Daśaratha, overwhelmed with grief (śoka-samāviṣṭaḥ)—
 </details>
 </details>
 
@@ -745,6 +823,18 @@ water, trove, fair one.
 And that is adored by the beings like sylvan, reptilian, celestial, georgic, and elfish beings, and
 it is overcrowded with trees and tendrils, and it is a trove for fairish and clodish water. [3-75-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** —entered the delightful lotus-lake (viveśa nalinīṃ ramyām), covered with lotuses (paṅkajaiś ca samāvṛtām) and resplendent with tilaka, aśoka, puṃnāga, bakula, and uddālaka trees (tilakāśoka-puṃnāga-bakuloddāla-kāśinīm)—
+
+**17:** —hemmed in by delightful groves (ramyopavana-sambādhām), its waters crowded with lotuses (padma-sampīḍitodakām), its water gleaming like crystal (sphaṭikopama-toyām), and overspread with smooth sand (ślakṣṇa-vāluka-saṃtatām)—
+
+**18:** —teeming with fish and tortoises (matsya-kacchapa-sambādhām), graced with trees standing along its banks (tīra-stha-druma-śobhitām), and encircled by creepers that clung to it like female companions (sakhībhir iva saṃyuktāṃ latābhir anuveṣṭitām)—
+
+**19:** —frequented by kiṃnaras, serpents, gandharvas, yakṣas, and rākṣasas (kiṃnaroraga-gandharva-yakṣa-rākṣasa-sevitām), thick with diverse trees and creepers (nānā-druma-latākīrṇām), an auspicious reservoir of cool water (śīta-vāri-nidhiṃ śubhām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -769,6 +859,12 @@ it is overcrowded with trees and tendrils, and it is a trove for fairish and clo
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अरुण कमलगळिन्द कॆम्पागि, कुमुद कुसुमगळिन्द बिळियागि, नील कमलगळिन्द नीलियागि काणुवुदरिन्द अदु बण्ण बण्णद रत्नकम्बळि यन्तॆ शोभिसुत्तित्तु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—coppery-red with fragrant pink lotuses (padma-saugandhikais tāmrām), white with clusters of night-blooming waterlilies (śuklāṃ kumuda-maṇḍalaiḥ), and dark-blue with expanses of blue waterlilies (nīlāṃ kuvalayodghāṭaiḥ), like a many-colored elephant-housing (bahu-varṇāṃ kuthām iva)—
 </details>
 </details>
 
@@ -828,6 +924,12 @@ is not noticed by Monier Williams in the sense in which it is used in Ramayana. 
 It means a heap *samuuha*. This meaning of the word is very rare...' according to the book -
 Ramayana - A Linguistic Study, by Pt. Satya Vrata.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—abounding in red and blue lotuses (aravindotpalavatīm), filled with fragrant white lotuses (padma-saugandhikāyutām), bordered by groves of flowering mango trees (puṣpitāmra-vaṇopetām), and echoing with the cries of peacocks (barhiṇodghuṣṭa-nāditām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -876,6 +978,12 @@ of Seetha.]
 
 Then Rama along with Lakshmana on seeing at that Pampa Lake, that self-refulgent son of Dasharatha whimpered
 over, owing to his passionate recollection of Seetha. [3-75-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that Lake Pampā then together with Sumitrā's son (tāṃ dṛṣṭvā tataḥ pampāṃ saumitriṇā saha), the radiant Rāma, son of Daśaratha (tejasvī rāmo daśarathātmajaḥ), lamented aloud (vilalāpa ca)—
 </details>
 </details>
 
@@ -997,6 +1105,16 @@ iti khyaataH* = Rishyamuka, thus, renowned; *asyaaH tiire tu [aasiit]* = on its,
 The aforesaid mountain renowned as Rishyamuka which is abounding with colourful ores and amazingly flowered
 trees is there on the bank of Pampa Lake. [3-75-25b, 26a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** —[beholding it graced] with tilaka and citron trees (tilakair bījapūraiś ca), banyans and white-barked lodhra trees (vaṭaiḥ śukla-drumais tathā), flowering oleanders (puṣpitaiḥ karavīraiś ca), and richly blooming puṃnāga trees (puṃnāgaiś ca supuṣpitaiḥ)—
+
+**24:** —with thickets of mālatī and kunda jasmine (mālatī-kunda-gulmaiś ca), bhaṇḍīra and nicula trees (bhaṇḍīrair niculais tathā), aśoka and saptaparṇa trees (aśokaiḥ saptaparṇaiś ca), and kataka and atimuktaka creepers (katakair atimuktakaiḥ)—
+
+**25:** —and adorned like a young woman (pramadām iva śobhitām) with diverse other trees (anyaiś ca vividhair vṛkṣaiḥ). “And on the bank of this [lake] stands the afore-mentioned mountain adorned with mineral ores (pūrvoktaḥ parvato dhātu-maṇḍitaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1044,6 +1162,12 @@ iti vishrutaH* = Sugreeva, thus, renowned; *adhyaaste tu [tam]* = presides over 
 
 A noble soul by his name Risharaja was there and that monkey's son is the highly valiant Sugreeva, thus
 he is renowned, and he presides over that mountain. [3-75-26b, 27b]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—renowned as Ṛṣyamūka (ṛṣyamūka iti khyātaḥ), with its wondrously flowering trees (citra-puṣpita-pādapaḥ); the monkey who is the son of that great-souled one named Ṛkṣarajas (harir ṛkṣarajo-nāmnaḥ putras tasya mahātmanaḥ)—
 </details>
 </details>
 
@@ -1108,6 +1232,14 @@ There is a filler foot in the above verses *raajya bhraSTen diinena tasyaam aaks
 In view of mishmashed editing of verses even the critical edition has no perfect order of verses, leave
 alone ancient copies.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** —of great prowess, renowned as Sugrīva (mahā-vīryaḥ sugrīva iti viśrutaḥ), dwells upon it (adhyāste). Do you approach Sugrīva, the lord of monkeys (sugrīvam abhigaccha tvaṃ vānarendram), O bull among men!”
+
+**28:** Thus he of unfailing valour (satya-vikramaḥ) spoke again to Lakṣmaṇa (uvāca punar vākyaṃ lakṣmaṇam): “How is it possible for me to live without Sītā (kathaṃ mayā vinā sītāṃ śakyaṃ jīvitum), O Lakṣmaṇa?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1168,6 +1300,12 @@ Such as he is whose thinking is applying itself to Seetha alone, and who is voca
 her, to whom aa stymie is laid by the Love-god just at the appearance that lake, that Rama on saying
 that sentence in that way to Lakshmana neared that superb and heart delighting lotus Lake Pampa. [3-75-29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken these words to Lakṣmaṇa, afflicted by the god of love (madanābhipīḍitaḥ) and with his mind fixed on none other [than Sītā] (ananya-cetanaḥ), he entered the delightful lotus-lake Pampā (viveśa pampāṃ nalinī-manoramām), giving voice to that overwhelming grief (tam uttamaṃ śokam udīrayāṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1220,5 +1358,11 @@ and then Rama along with Lakshmana on entering the area of that lake, has seen t
 इत्यार्षे श्रीमद्रामायाणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे पञ्चसप्ततितमः सर्गः ॥ ७५ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें पचहत्तरवाँ सर्ग पूरा हुआ ॥ ७५ ॥  
 ॥ अरण्यकाण्डं सम्पूर्णम् ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proceeding step by step as he gazed upon the forest (krameṇa gatvā pravilokayan vanam), Rāma together with Lakṣmaṇa beheld Pampā with its fair-seeming woods (śubha-darśa-kānanām), thronged with many birds of diverse kinds (aneka-nānā-vidha-pakṣi-saṃkulām), and entered [its precincts] (viveśa).
 </details>
 </details>

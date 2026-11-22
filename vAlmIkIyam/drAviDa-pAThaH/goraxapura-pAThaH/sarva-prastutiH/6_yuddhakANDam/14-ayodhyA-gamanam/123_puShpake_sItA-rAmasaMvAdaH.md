@@ -72,6 +72,12 @@ of swans painted on it; *utpapaatam* = flew; *vihaayasam* = into the sky;
 As approved by Rama, that excellent aerial car, with images of swan painted on it,
 flew into the sky, with a great sound.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that scion of Kakutstha [Daśaratha] had departed (pratiprayāte), Mahendra, the chastiser of Pāka (pākaśāsanaḥ), supremely pleased, spoke to Rāghava who stood with joined palms:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +119,12 @@ face looking like the moon (as follow):
 Casting his look on all sides, Rama, the delight of Raghu dynasty, then spoke to
 Seetha, who had a moon-like face (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Never in vain (amogham) is our beholding of you, O Rāma, O bull among men! We are filled with joy (prītiyuktāḥ sma); therefore, declare whatever is desired by your heart (yan manasepsitam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -153,6 +165,12 @@ looking like a peak of Mount Kailasa and built by Viswarakarma, the universal ar
 
 विदेहराजनन्दिनी! कैलास शिखरदन्तॆ सुन्दर त्रिकूट पर्वतद विशाल शृङ्गदल्लि नॆलॆसिद, विश्वकर्मनु रचिसिद लङ्कापुरियन्नु नोडु, ऎष्टु सुन्दरवागि काणुत्तिदॆ.॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by the gracious and high-souled Mahendra, Rāghava, delighted and serene of mind (suprasannamanāḥ), spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -192,6 +210,12 @@ also a cause for the death of monkeys and demons."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इत्त ई युद्धभूमियन्नु नोडु इल्लि रक्त-मांसद कॆसरे तुम्बिदॆ. सीते! ई युद्धक्षेत्रदल्लि वानरर मत्तु राक्षसर महासंहारवागित्तु.॥.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If affection has arisen in you toward me, O lord of the gods (vibudheśvara), then make true the word that I shall speak, O best of speakers!
 </details>
 </details>
 
@@ -243,6 +267,12 @@ for your sake.
 "O the large-eyed Seetha! Here lies Ravana, the king of demons, the tormentator of
 people, on whom boons were conferred by Brahma and who was killed by me for your sake."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those valiant Vānaras who for my sake (mama hetoḥ) have gone to the abode of Yama (yamasādanam)—may all of them regain their lives (jīvitaṃ prāpya) and rise up!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -289,6 +319,12 @@ people, on whom boons were conferred by Brahma and who was killed by me for your
 "Here, Kumbhakarna and Prahasta the demon were killed. Here, Dhumraksha was killed
 by Hanuma, the monkey."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those Vānaras who on my account (matkṛte) were parted from their sons and wives—all of them, O bestower of honour, I wish to behold joyful at heart (prītamanasaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -329,6 +365,12 @@ Ravana; *nihataH* = was killed; *raNe* = in a combat.
 "Here was Vidyunmali killed by the great-souled Sushena and here was Indrajit, the
 son of Ravana, killed by Lakshmana in a combat."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Heroic and valiant, counting death as naught (na mṛtyuṃ gaṇayanti ca), they strove with all their might and perished (vipannāś ca)—restore these to life (jīvayaitān), O Purandara!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -353,6 +395,12 @@ son of Ravana, killed by Lakshmana in a combat."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इल्ले अङ्गदनु विकटनॆम्ब राक्षस वधॆ माडिद्दनु. नोडलू कूड कठिणवागिद्द विरूपाक्ष, महापार्श्व मत्तु महोदररू इल्ले हतरादरु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those who were devoted to what is dear to me (matpriyeṣv abhiraktāś ca) and reckoned not with death—by your grace (tvatprasādāt) may they be reunited [with their kin]; this is the boon I choose (varam etam ahaṃ vṛṇe)!
 </details>
 </details>
 
@@ -398,6 +446,12 @@ Devantaka and Narantaka (were killed).
 to the sight, Mahaparsva, Mahodara, Akampana, Trishiras, Atikaya Devantaka, Narantaka and other
 mighty demons were also killed here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Free from pain (nīrujaḥ) and free from wounds (nirvraṇāṃś caiva), endowed with their full strength and prowess, I wish to behold the Golāṅgūlas and the bears (ṛkṣāṃś ca), O bestower of honour!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -422,6 +476,12 @@ mighty demons were also killed here."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 युद्धोन्मत्त मत्तु मत्त ऎम्ब ऎरडु श्रेष्ठ राक्षसरु हागू कुम्भ-निकुम्भ ई कुम्भकर्णन इब्बरू पुत्ररु इल्ले मृत्युवन्नैदिदरु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And even out of season (akāle cāpi), may flowers, roots, and fruits, as well as limpid rivers (nadyaś ca vimalāḥ), abide wherever the Vānaras dwell!”
 </details>
 </details>
 
@@ -469,6 +529,12 @@ sons of Kumbhakarna, as also the strong Vajradamshtra, Damshtra and many demons 
 Makaraksha, the most difficult demon to be attacked, was struck down by me in this
 battle-field."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of the high-souled Rāghava, Mahendra replied with this speech full of affection (prītisaṃyutam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,6 +580,12 @@ battle-field."
 
 "Akampana was killed in the great battle. The valiant Shonitaksha was also killed.
 Yupaksa and Prajangha were killed."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Great is this boon (mahān ayaṃ varaḥ), O dear one, which has been spoken by you, O best of the Raghus; yet never before have I spoken twice (dvir mayā noktapūrvam), and therefore this shall come to pass (etad bhaviṣyati)!
 </details>
 </details>
 
@@ -564,6 +636,12 @@ was killed; *mahaabalaH* = the mighty; *suptaghnashcha* = Suptaghna; *nihataH*
 also was killed. The mighty Suptaghna was killed. Surya shatru was killed and another demon called
 Brahma shatru was too killed."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let all those who were slain in battle by the Rākṣasas rise up (samuttiṣṭhantu), along with the bears and the Gopuccha monkeys whose faces and arms had been severed (nikṛttānanabāhavaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,6 +690,12 @@ a wife; *mandodariinaama* = named Mandodari; *paryadevayat* = lamented; *tam*
 "Here, surrounded by more than a thousand fellow-wives, Ravana's wife named
 Mandodari lamented for Ravana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Free from pain and free from wounds (nirvraṇāś caiva), endowed with their full strength and prowess, the monkeys shall rise up (samutthāsyanti), like sleepers at the end of slumber (nidrākṣaye yathā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -651,6 +735,12 @@ ocean (on the sea-shore) yatra uttiirya = where having crossed; *saagaram* = the
 
 "O Seetha, the lovely-faced one! Here is seen a water-descent of the ocean on the
 sea-shore, where having crossed the ocean, we spent that night."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with supreme joy (parayā mudā), every one of them shall be reunited (sameṣyanti) with his friends, kinsmen, clan-fellows, and own family!
 </details>
 </details>
 
@@ -694,6 +784,12 @@ is; *nalasetuH* = the bridge called Nala Setu; *suduShkaraH* = which was so diff
 
 "O the large-eyed Seetha! Here is the bridge called Nala Setu, which was so
 difficult to execute for others, got built by me over the salt-sea for your sake."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even out of season (akāle), O wielder of the mighty bow, the trees shall be variegated with blossoms (puṣpaśabalāḥ) and laden with fruit, and the rivers shall abound with water (salilāyutāḥ)!”
 </details>
 </details>
 
@@ -742,6 +838,12 @@ Varuna; *garjantam* = and which is roaring; *apaaramiva* = as though it is bound
 habitation of Varuna (the god of waters), which is teeming well with couches and
 oyster-shells."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With limbs that had erstwhile been covered with wounds (savraṇaiḥ prathamam) now rendered whole and scarless (idānīṃ nirvraṇaiḥ samaiḥ), all those foremost of monkeys thereupon rose up as though after sleeping (suptveva)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -782,6 +884,12 @@ Hanuma.
 
 "O Seetha! See the golden mountain, Mainaka (the ruler of mountains) which rose
 passing through the ocean, in order to provide rest and relaxation to Hanuma."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All the Vānaras were struck with wonder (vismitāḥ), exclaiming “What can this be (kiṃ tv etad iti)?”, while all the foremost of the gods beheld Kākutstha with his purpose fully accomplished (paripūrṇārtham).
 </details>
 </details>
 
@@ -833,6 +941,12 @@ Lord; *mahaadevaH* = Shiva (the supreme deity); *akarot* = bestowed;
 stationed. At this place, the lord Shiva (the supreme deity) formerly bestowed his grace on
 me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having praised Rāma together with Lakṣmaṇa, [the gods], supremely pleased (paramaprītāḥ), said: “Go forth from this place to Ayodhyā, O king, and dismiss the Vānaras (visarjaya ca vānarān)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -857,6 +971,12 @@ me."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई पुण्यस्थळदल्लि विशालकाय समुद्रद तीर्थ कण्डु बरुत्तिदॆ, अदु सेतु निर्माणद मूलप्रदेशदल्लिद्दुदरिन्द सेतुबन्ध ऎम्ब हॆसरिनिन्द विख्यातनागि मूरु लोकगळिन्द पूजितवागुवुदु.॥20½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Console (sāntvayasva) this devoted and illustrious Maithilī; behold your brother Bharata, who is observing ascetic vows out of grief for you (tvacchokād vratacāriṇam),
 </details>
 </details>
 
@@ -902,6 +1022,12 @@ as Setu bandha; *etat* = this; *paramam pavitram* = is very much a sacred spot;
 in all the three worlds. This is very much a sacred spot, capable of washing away major sins. At
 this very place, Vibhishana the king of demons first came."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+as well as the high-souled Śatrughna and all your mothers, O scorcher of foes! Consecrate yourself upon the throne (abhiṣecaya cātmānam), and having gone there, gladden the citizens (paurān praharṣaya)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -941,6 +1067,12 @@ this very place, Vibhishana the king of demons first came."
 
 "O Seetha! Here is seen the beautiful City of Sugreeva, Kishkindha, which is full of
 colourful groves, where Vali was killed by me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to Rāma together with Saumitri, the thousand-eyed [Indra], rejoicing, departed together with the gods in celestial chariots bright as the sun (vimānaiḥ sūryasaṃkāśaiḥ).
 </details>
 </details>
 
@@ -982,6 +1114,12 @@ Kishkindha; *vaalipaalitaam* = which was ruled by Vali (earlier); *siitaa* = See
 
 Seeing the City of Kishkindha, which was earlier ruled by Vali, Seetha, who was
 feeling timid through love, then spoke the following courteous words to Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And having reverently saluted (abhivādya) all those foremost of the celestials, Kākutstha, together with his brother Lakṣmaṇa, commanded the encampment (vāsam ājñāpayat) at that time.
 </details>
 </details>
 
@@ -1036,6 +1174,12 @@ Tara and other; *sugriiva priyabhaaryaabhiH* = beloved wives of Sugreeva.
 the wives of other monkey-chiefs with Tara and other beloved wives of Sugreeva."
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that great army (mahācamūḥ), protected by Lakṣmaṇa and Rāma, illustrious and filled with rejoicing warriors (hṛṣṭajanā), blazed with splendour and shone on every side like the night illumined by the cool-rayed moon (niśā praṇīteva hi śītaraśminā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

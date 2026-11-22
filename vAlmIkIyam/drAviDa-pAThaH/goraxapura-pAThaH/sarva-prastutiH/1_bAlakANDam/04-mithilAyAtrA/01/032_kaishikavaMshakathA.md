@@ -77,6 +77,12 @@ Sage Vishvamitra starts to narrate Kusha's legend. Vishvamitra is the
  rules of rituals or his vows, and who revered the knowers of virtue
  by name Kusha." Thus Sage Vishvamitra commenced narration. [1-32-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There was of yore a great royal sage named Kuśa (mahān āsīt kuśo nāma), sprung directly from Brahmā (brahmayoniḥ) and rich in ascetic penance (mahātapāḥ), who knew the dharma of unblemished vows (akliṣṭavratadharmajñaḥ) and ever revered the righteous (sajjanapratipūjakaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +133,12 @@ Sage Vishvamitra starts to narrate Kusha's legend. Vishvamitra is the
  Kushamba, Kushanaabha, Adhuurtarajasa also called as Asuurtarajasa,
  and Vasu through the princess of Vidarbha, which princess is of noble
  birth and an eligible wife of Kusha. [1-32-2, 3a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Upon a high-born and worthy princess of Vidarbha (kulīnāyāṃ yuktāyāṃ vaidarbhyām), that high-souled monarch (sa mahātmā) begot four sons worthy of himself (janayām āsa caturaḥ sadṛśān sutān) and endowed with exceeding might (sumahābalān):
 </details>
 </details>
 
@@ -191,6 +203,14 @@ _________________
  and achieve righteousness abundantly.' [1-32-3b, 4]
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** “Kuśāmba, Kuśanābha, Asūrtarajas, and Vasu (kuśāmbaṃ kuśanābhaṃ ca asūrtarajasaṃ vasum)—resplendent with fiery luster and possessed of high energy (dīptiyuktān mahotsāhān)—out of a desire to advance the dharma of the kṣatriya order (kṣatradharmacikīrṣayā).
+
+**4:** “To those supremely righteous and truth-speaking sons (tān putrān dharmiṣṭhān satyavādinaḥ), Kuśa spoke thus (uvāca kuśaḥ): ‘Perform the protection of the subjects, O sons (kriyatāṃ pālanaṃ putrāḥ), and you shall attain abundant merit (dharmaṃ prāpsyatha puṣkalam)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -239,6 +259,12 @@ _________________
  ones in the world and the best men among people initiated to build four
  cities. [1-32-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing the words of Kuśa (kuśasya vacanaṃ śrutvā), all four of those foremost of men, the best in the world (catvāro lokasattamāḥ sarve nṛvarāḥ), thereupon founded royal cities (niveśaṃ cakrire purāṇāṃ tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -279,6 +305,12 @@ _________________
 "Great-resplendent Kushamba built the city named Kaushambii for his
  part, and for his part the virtue-souled Kushanaabha built a city named
  Mahodaya. [1-32-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Kuśāmba of great fiery splendor built the city of Kauśāmbī (kuśāmbas tu mahātejāḥ kauśāmbīm akarot purīm), while the righteous-souled Kuśanābha built the city named Mahodaya (kuśanābhas tu dharmātmā puraṃ cakre mahodayam).
 </details>
 </details>
 
@@ -407,6 +439,12 @@ It is believed that the city Kaushambii is the present day Kannauj and
 
 इति मनु-वचनेन च पितुर् ऊर्ध्वम् एव विभाग-धनावगमात्, तत्-पूर्वं विभाग-द्रव्य-अभावाद् अनधिकार इति चेत्, जीवति पितरि पुष्कल-धर्माचरणाय तेनैव विभाग-करणे तद्-अनुज्ञया धर्मानुष्ठान-संभवात् । अत एव श्रुतिः — "मनुः पुत्रेभ्यो दायं व्यभजत" इति । आपस्तम्बो ऽपि — "जीवन् पुत्रेभ्यो दायं विभजेत् समम्" इति । गौतमो ऽपि — "जीवति चेच्छति पितरि" इति । तस्मात् पितुः कुशस्याज्ञया चतुर्भिः पुत्रैः पृथग्-धर्माचरणं यत् कृतं तद्-युक्तम् एव । रामेणापि स्वयम् एव स्व-पुत्राणां भ्रातृ-पुत्राणां च राज्यानि विभज्य दत्तानि । तद् उत्तर-काण्डे स्पष्टम् । अयं तु विभागः अधर्मिष्ठानां न भवति । तथा च मनुः — "सर्व एव वि-कर्मस्था नार्हन्ति भ्रातरो धनम्" इति । अत एव "धर्मिष्ठान् सत्य-वादिनः" इति तेषां विशेषणम् उक्तम् । तेषु कौशाम्ब्यादिषु,
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The monarch named Asūrtarajas built the supreme city of Dharmāraṇya (asūrtarajaso nāma dharmāraṇyaṃ mahīpatiḥ cakre puravaram), and King Vasu built Girivraja (rājā vasunāma girivrajam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -452,6 +490,12 @@ It is believed that the city Kaushambii is the present day Kannauj and
  high. [1-32-8]
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This fertile land, O Rāma, belonged to that high-souled Vasu (eṣā vasumatī rāma vasos tasya mahātmanaḥ); and here shine on every side these five foremost mountains (ete śailavarāḥ pañca prakāśante samantataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -500,6 +544,12 @@ It is believed that the city Kaushambii is the present day Kannauj and
 **टिप्पनी**
 
 This river is said to be the present day River Son
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The lovely and renowned river Sumāgadhī flowed into the land of the Māgadhas (sumāgadhī nadī ramyā māgadhān viśrutā ’’yayau), shining like a garland in the midst of those five chief mountains (pañcānāṃ śailamukhyānāṃ madhye māleva śobhate).
 </details>
 </details>
 
@@ -571,6 +621,12 @@ The confluence of this river with Ganga is said as the one now available
 "Though many kings were inquisitive about the power of that bow, all of those great mighty princes
  are rendered incapable to string its bowstring.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This very river Māgadhī, O Rāma, belonged to that high-souled Vasu (saiṣā hi māgadhī rāma vasos tasya mahātmanaḥ); flowing toward the east, O Rāma (pūrvābhicaritā rāma), she is blessed with fertile fields and crowned with garlands of grain (sukṣetrā sasyamālinī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -618,6 +674,12 @@ The confluence of this river with Ganga is said as the one now available
 Children begotten through celestial maidens are of superior nature for
  further procreating a divine generation, like Shakuntala, who begot
  Bharata, the earliest dynastic king.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now the royal sage Kuśanābha, righteous of soul, O delighter of the Raghus (kuśanābhas tu rājarṣiḥ dharmātmā raghunandana), begot upon the Apsaras Ghṛtācī a hundred matchless daughters (kanyāśatam anuttamaṃ janayām āsa ghṛtācyām).
 </details>
 </details>
 
@@ -679,6 +741,14 @@ Children begotten through celestial maidens are of superior nature for
  decorated with select ornaments are singing, dancing and playing musical
  instruments, they got into a fantastic felicity. [1-32-12, 13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “Endowed with the bloom of youth, radiant with beauty, and splendidly adorned (tās tu yauvanaśālinyo rūpavatyaḥ svalaṅkṛtāḥ), those maidens entered the royal pleasure-garden (udyānabhūmim āgamya) like flashes of lightning in the rainy season (prāvṛṣīva śatahradāḥ).
+
+**13:** “Singing, dancing, and playing upon musical instruments, O Rāghava (gāyantyo nṛtyamānāś ca vādayantyas tu rāghava), decked in choice ornaments (varābharaṇabhūṣitāḥ), they attained supreme delight (āmodaṃ paramaṃ jagmuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -720,6 +790,12 @@ Children begotten through celestial maidens are of superior nature for
 "On their coming to parklands those girls whose all limbs are pretty
  and whose looks are unparalleled on earth, they looked like stars amid
  clouds within the cloudy thickets of garden bushes. [1-32-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then those maidens of faultless limbs, matchless in beauty upon the earth (atha tāś cārusarvāṅgyo rūpeṇāpratimā bhuvi), having entered the pleasure-garden, shone like stars amidst a rift in the clouds (udyānabhūmim āgamya tārā iva ghanāntare).
 </details>
 </details>
 
@@ -775,6 +851,12 @@ Children begotten through celestial maidens are of superior nature for
  with comeliness and ripeness, the all pervading Air-god, Vayu, spoke
  this word to them. [1-32-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding them all endowed with every excellence and blessed with beauty and youth (tāḥ sarvā guṇasampannā rūpayauvanasaṃyutāḥ dṛṣṭvā), the all-pervading Wind-god Vāyu spoke these words (sarvātmako vāyur idaṃ vacanam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -816,6 +898,12 @@ Children begotten through celestial maidens are of superior nature for
 " 'I have a desire for you all, hence leaving off the notions pertaining
  to human beings you all become my wives, thereby you too will acquire
  longevity like divinities. [1-32-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I desire you all (ahaṃ vaḥ kāmaye sarvāḥ); you shall become my wives (bhāryā mama bhaviṣyatha)! Let your mortal state be cast aside (mānuṣas tyajyatāṃ bhāvaḥ), and you shall attain long life (dīrgham āyur avāpsyatha).
 </details>
 </details>
 
@@ -864,6 +952,12 @@ Children begotten through celestial maidens are of superior nature for
  me you will achieve undiminished youthfulness and forever you can be
  youthful like immortal females.' Thus Air-god said to those girls. [1-32-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘For youth is ever fleeting, especially among mortal beings (calaṃ hi yauvanaṃ nityaṃ mānuṣeṣu viśeṣataḥ); winning imperishable youth, you shall become immortal goddesses as well (akṣayaṃ yauvanaṃ prāptā amaryaś ca bhaviṣyatha)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -905,6 +999,12 @@ Children begotten through celestial maidens are of superior nature for
 "On hearing that proposal of Vayu, the Air-god whose strives are unimpeded,
  then those hundred girls spoke this sentence laughing off his proposal.
  [1-32-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing that speech of Vāyu of unwearied deeds (tasya tad vacanaṃ śrutvā vāyor akliṣṭakarmaṇaḥ), the hundred maidens laughed it to scorn (apahāsya) and then spoke these words in reply (tato vākyaṃ kanyāśatam athābravīt):
 </details>
 </details>
 
@@ -960,6 +1060,12 @@ Children begotten through celestial maidens are of superior nature for
 " 'we are aware that you inspirit all the living beings from inside,
  oh, the ablest divinity, we are also aware of your uniqueness. But,
  what for you are dishonouring all of us. [1-32-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘You move within all living beings, O best of gods (antaś carasi bhūtānāṃ sarveṣāṃ surasattama), and all of us know well your mighty power (prabhāvajñāś ca te sarvāḥ); why then do you treat us with such disrespect (kim artham avamanyase)?
 </details>
 </details>
 
@@ -1019,6 +1125,12 @@ _________________
  all capable of displacing you from your realm, but oh, god, we are restraining
  ourselves in doing so only to conserve our ascetic values. [1-32-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘We are all the daughters of Kuśanābha, O god, O best of celestials (kuśanābhasutā deva samastāḥ surasattama), fully capable of toppling even a deity from his station (sthānāc cyāvayituṃ devam); yet we guard our ascetic penance (rakṣāmas tu tapo vayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1061,6 +1173,12 @@ _________________
 " 'That time shall never come, oh, god with sordid thinking, when we,
  at our liberty, may look up for our grooms overlooking our veracious
  father.' [1-32-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘May that time never come, O foolish-minded one (mā bhūt sa kālo durmedhaḥ), when, despising our truth-speaking father (pitaraṃ satyavādinam avamanya), we choose a husband by our own independent will (svadharmeṇa svayaṃ varam upāsmahe)!
 </details>
 </details>
 
@@ -1119,6 +1237,12 @@ _________________
 
 इति ।
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘For our father is our sovereign lord (pitā hi prabhur asmākam), and he is our supreme deity (daivataṃ paramaṃ ca saḥ); to whomsoever our father shall give us in marriage (yasya no dāsyati pitā), he alone shall be our husband (sa no bhartā bhaviṣyati)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1167,6 +1291,12 @@ _________________
 On hearing their sentence of rejection, Vayu, the Air-god whose impact
  is powerful, very angrily entered into all of the limbs of those girls
  only to disfigure them. [1-32-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing that reply of theirs, the mighty Lord Hari (Vāyu), filled with fierce wrath (tāsāṃ tu vacanaṃ śrutvā hariḥ paramakopanaḥ bhagavān prabhuḥ), entered into all their limbs and bent them crooked (praviśya sarvagātrāṇi babhañja).
 </details>
 </details>
 
@@ -1225,6 +1355,12 @@ _________________
  of the king, but they have entered diffidently, embarrassedly, and tearfully.
  [1-32-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Reduced to the stature of a single cubit, their limbs fractured and afflicted with terror (aratnimātrākṛtayo bhagnagātrā bhayārditāḥ), those maidens bent crooked by Vāyu entered the palace of the king (tāḥ kanyā vāyunā bhagnā viviśur nṛpater gṛham)—entering utterly distraught, overcome with shame, and their eyes brimming with tears (praviśya ca susambhrāntāḥ salajjāḥ sāsralocanāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1266,6 +1402,12 @@ _________________
 
 "That king on seeing his dear and attractive daughters as disfigured
  and despondent girls he is highly perturbed and said this. [1-32-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And beholding those beloved and supremely beautiful daughters of his now bent crooked and wretched (sa ca tā dayitā bhagnāḥ kanyāḥ paramaśobhanāḥ dṛṣṭvā dīnāḥ), the king, deeply agitated, spoke these words (tadā rājā sambhrānta idam abravīt):
 </details>
 </details>
 
@@ -1344,5 +1486,11 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तॆरडनॆय सर्ग पूर्णवायितु. ॥32॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘What is this? Tell me, O daughters! Who despises dharma (kim idaṃ kathyatāṃ putryaḥ ko dharmam avamanyate)? By whom have you all been made hunchbacked, that you writhe in distress yet utter not a word (kubjāḥ kena kṛtāḥ sarvāś ceṣṭantyo nābhibhāṣatha)?’ Sighing deeply after speaking thus, the king then entered into focused stillness (evaṃ rājā viniḥśvasya samādhiṃ saṃdadhe tataḥ).”
 </details>
 </details>

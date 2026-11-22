@@ -77,6 +77,12 @@ Hearing the words of Ravana, those demons who were strong, stupid and without mo
 all raising up their joined palms and spoke to Ravana the king of demons, without knowing the strengths
 of their enemy's side (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the lord of rākṣasas, all those rākṣasas of mighty strength joined their palms in reverence (prāñjalayaḥ) and spoke to Rāvaṇa, sovereign of the rākṣasas:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -125,6 +131,12 @@ and sharp-edged spears; *sumahat* = is very great; *kasmaat* = why; *bhavaan bha
 
 "Oh, king! Our army, equipped with iron bars, javelins, double-edged swords, darts and
 sharp-edged spears, is very great. Why are you getting worried?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without discerning the enemy's faction (dviṣatpakṣam), devoid of sound policy (nītibāhyāḥ) and lacking in judgment—[they said:] “O King, [our host] bristles with iron-bound clubs, lances, swords, pikes, and two-edged spears (parigha-śakty-ṛṣṭi-śūla-paṭṭiśa-kuntalam);
 </details>
 </details>
 
@@ -184,6 +196,14 @@ under the earth), the serpents there were defeated by you. Kubera (the bestower 
 on the peak of Mount Kailasa, surrounded by many yakshas (a class of demi-gods) surrendered to you after
 doing a great battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** “Immense is our armed force (sumahan no balam)! Why then does Your Majesty yield to despondency (viṣādam)? Descending to Bhogavatī, you vanquished the serpents (pannagāḥ) in battle.
+
+**4:** “Though he dwelt upon the peak of Kailāsa surrounded by throngs of yakṣas, the giver of wealth [Kubera] (dhanadaḥ) was reduced to your subjection (vaśyas te kṛtaḥ) after you wrought a mighty slaughter (sumahat kadanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,6 +254,12 @@ with Lord Shiva (the Supreme Lord); *loka paalaH* = a guardian of the world; *ma
 Shiva (the Supreme Lord) and said to be a guardian of the world possessing great strength, was defeated
 by you in battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Boasting of his friendship with Maheśvara (maheśvarasakhyena), O puissant Lord, that mighty world-guardian (lokapālaḥ) was vanquished by you in battle out of wrath.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -280,6 +306,12 @@ by you in battle."
 "Throwing down a group of Yakshas, after causing a flutter among them and taking them
 in prison, this aerial car (Pushpak) was procured by you from Mount Kailasa."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Felling the multitudes of yakṣas, routing and subduing them, you carried off this aerial chariot [Puṣpaka] (vimānam idam) from the summit of Kailāsa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,6 +357,12 @@ fear from you; *icchataa* = and desiring; *sakhyam* = friendship.
 
 "Oh, the best of ogres! By Maya, the lord of demons, Mandodari his daughter was given
 to you in marriage, due to fear from you and duly desiring your friendship."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Out of fear of you and desiring friendship (sakhyam icchatā), Maya, lord of the dānavas, bestowed his own daughter [Mandodarī] to be your consort (bhāryārthe), O bull among rākṣasas!
 </details>
 </details>
 
@@ -373,6 +411,12 @@ Oh, mighty armed! Madhu Kumbhinasa's (your sister's) husband, another ruler of d
 who was proud of his valour and who was difficult to be defeated, was taken into your subjugation, your
 having won a battle against him."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The lord of dānavas [Madhu], proud of his valor (vīryotsiktaḥ) and hard to assail, O mighty-armed one, was grappled with and brought under your sway, becoming the bringer of joy (sukhāvahaḥ) to Kumbhīnasī.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -420,6 +464,12 @@ captivated; *vasham* = as your subject.
 "Oh, mighty armed! After moving down to rasatala (the penultimate subterranean region),
 the you conquered serpent-demons Vasukim Takshaka, Saukha and Jati were conquered by you and captivated
 as your subjects."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Descending to Rasātala, O mighty-armed one, you vanquished the nāgas: Vāsuki, Takṣaka, Śaṅkha, and Jaṭī were brought under your dominion (vaśam āhṛtāḥ).
 </details>
 </details>
 
@@ -484,6 +534,14 @@ battle for a year by you mighty demons who were beyond destruction, who were val
 boons (for immortality) were defeated using your own strength in combat. Several fascinating tricks
 also were learnt from them."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** “And those imperishable (akṣayāḥ), mighty, and heroic dānavas who had moreover obtained boons (labdhavarāḥ), O Lord, after you fought them in battle for a full year (saṃvatsaram)—
+
+**11:** “relying upon your own strength (svabalaṃ samupāśritya), O tamer of foes, were led into subjection; and many magic arts (māyāś ca bahvyaḥ) were acquired by you there, O lord of rākṣasas!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +588,12 @@ chariots; cavalry; and infantry); *nirjitaaH* = were defeated; *te* = by you; *r
 
 "Oh, illustrious king! Varuna's sons, valiant strong and who were followed by an army
 having four limbs (viz. elephants, chariots, cavalry and infantry) were defeated by you in a battle."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The heroic and mighty sons of Varuṇa, attended by a fourfold army (caturvidhabalānugāḥ), were vanquished by you in battle, O illustrious one!
 </details>
 </details>
 
@@ -600,6 +664,16 @@ in the form of Yama's servants and difficult to be conquered on account of might
 over fevers), and churning the sea in the form of Yama's forces, a great victory was obtained and death
 warded off by you. All the people there were delighted to see your good battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “[Plunging into] that ocean of Yama's host, wherein Death's rod was the great crocodile (mṛtyudaṇḍa-mahāgrāham), adorned with śālmalī trees [of torment], where Time's noose formed the mighty billows (kālapāśa-mahāvīcim) and Yama's attendants were the serpents,
+
+**14:** “hard to assail because of the Great Fever (mahājvareṇa durdharṣam)—having plunged into that vast ocean of Yama's realm (yamaloka-mahārṇavam), the sea of Yama's army, O King,
+
+**15:** “a vast victory was won by you, and Death himself was repelled (mṛtyuś ca pratiṣedhitaḥ); and by your noble combat (suyuddhena) all the worlds there were thoroughly gratified (sutoṣitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -645,6 +719,12 @@ equal to that of Devendra (Lord of celestials).
 
 "The earth was filled, like with big trees, with many warriors who were strong with a
 courage equal to that Devendra (Lord of celestials).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The earth was once filled with many heroic kṣatriyas equal in valor to Śakra (śakratulya-parākramaiḥ), even as it is filled with mighty trees (mahadbhir iva pādapaiḥ).
 </details>
 </details>
 
@@ -693,6 +773,12 @@ courage equal to that Devendra (Lord of celestials).
 "Oh, King! Rama was not equal to them in combat, by their valour excellence and energy.
 Those warriors, who were difficult to be overcome in battle, were overpowered and killed by you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rāghava is no match in battle for their valor, virtues, and energy (vīrya-guṇotsāhaiḥ); yet they, though invincible in war (samaradurjayāḥ), were forcibly slain by you, O King!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -738,6 +824,12 @@ stay; *kim* = why; *shrameNa* = by exertion; *tava* = to you? Mahaaraaja = Oh;
 
 Oh, emperor! Why exertion to you? You remain here. Oh, emperor! This Indrajit alone can
 destroy the monkeys."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or rather, remain at ease (tiṣṭha vā), O great King! What need is there for Your Majesty's exertion (śrameṇa tava)? This single mighty-armed Indrajit alone will annihilate the vānaras (kṣapayiṣyati).
 </details>
 </details>
 
@@ -787,6 +879,12 @@ Lord; shiva); *varaH* = a boon; *parama durlabhaH* = very rare to be obtained; *
 
 "Oh, emperor! After performing an excellent sacrifice to propitiate Mahesvara (the great
 lord shiva), a boon very rare to be obtained in the world, was acquired by him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having offered the supreme sacrifice to Maheśvara (māheśvaram anuttamam iṣṭvā yajñam), O great King, he obtained a boon most difficult to win in the world (loke paramadurlabhaḥ).
 </details>
 </details>
 
@@ -865,6 +963,16 @@ having chariots horses and elephants for its volume of waters and the sandy elep
 of waters and the sandy banks its infantry, Devendra (Lord of celestials) was captured by him and was
 impelled to come to Lanka (as a detenu).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** “[That ocean of the gods' army] wherein lances and javelins were the fishes (śaktitomara-mīnam) and strewn entrails the water-weeds (vinikīrṇāntra-śaivalam), thronged with elephant-tortoises (gaja-kacchapa-sambādham) and teeming with horse-frogs (aśva-maṇḍūka-saṃkulam),
+
+**21:** “where the Rudras and Ādityas were the great crocodiles (rudrāditya-mahāgrāham) and the Maruts and Vasus the great serpents (marudvasu-mahoragam), having chariots, horses, and elephants for its surging waters (rathāśvagaja-toyaugham) and infantry for its vast sandbanks (padāti-pulinam mahat)—
+
+**22:** “—assailing that ocean of the gods' host (devānāṃ balasāgaram), he seized the lord of the deities [Indra] (daivatapatiḥ) and led him captive into Laṅkā!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -914,6 +1022,12 @@ demons called Shambara and Vritra; *sarvadevanamaskR^itaH* = and who was adored 
 "Oh, king! Having been released by the orders of your grand father Brahma, Devendra who
 killed demons called Shambara and Vrita and who was adored by all celestials, went back to heaven."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Only at the command of the Grandsire [Brahmā] (pitāmaha-niyogāc ca) was the slayer of Śambara and Vṛtra (śambaravṛtrahā) released, O King, and went back to heaven (triviṣṭapam), revered by all the gods.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -962,6 +1076,12 @@ be brought; *kSayam* = to an end.
 
 "Oh, emperor! You send that Indrajit alone, so that the army of monkeys together with
 Rama will be brought to an end."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O great King, send forth that same son Indrajit (visṛjendrajitaṃ sutam), so that he may bring that vānara army, together with Rāma (sarāmām), to destruction (nayati kṣayam)!
 </details>
 </details>
 
@@ -1022,6 +1142,12 @@ be kept by you in mind, you will kill Rama."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि एळनॆय सर्ग पूर्णवायितु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O King, this calamity that has arisen from vulgar folk (prākṛtāj janāt) is unworthy of you (ayuktā); you must not take it to heart at all (hṛdi naiva tvayā kāryā)—you shall surely slay Rāghava!”
 </details>
 </details>
 

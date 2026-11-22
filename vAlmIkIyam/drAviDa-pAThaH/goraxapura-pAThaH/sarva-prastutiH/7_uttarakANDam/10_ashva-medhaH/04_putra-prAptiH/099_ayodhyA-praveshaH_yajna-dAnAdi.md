@@ -39,6 +39,12 @@ _________________
 
 इरुळु कळॆदु बॆळगादाग श्रीरामचन्द्रनु दॊड्ड-दॊड्ड मुनिगळन्नु करॆदु, तन्न इब्बरू पुत्ररल्लि ‘ईग नीवु निःशङ्करागि उळिद रामायणद गायन प्रारम्भिसिरि’ ऎन्दु हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the night had dawned (rajanyāṃ tu prabhātāyām), having assembled the great sages (samānīya mahāmunīn), Rāma spoke to his two sons (rāmaḥ putrāv uvāca ha): “Let it be sung by you two without hesitation (gīyatām aviśaṅkābhyām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,6 +69,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महात्मा महर्षिगळु यथास्थानगळल्लि कुळितुकॊण्डाग, कुश-लवरु भगवन्तन भविष्यक्कॆ सम्बन्धिसिद, आ महाकाव्यद ऒन्दंशवाद उत्तर काण्डवन्नु हाडलु प्रारम्भिसिदरु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when the great-souled brahmarṣis had taken their seats (samupaviṣṭeṣu brahmarṣiṣu mahātmasu), those two, Kuśa and Lava, sang the future Uttara poem (bhaviṣyad uttaraṃ kāvyaṃ jagatus tau kuśīlavau).
 </details>
 </details>
 
@@ -89,6 +101,12 @@ _________________
 
 सत्यरूपवाद सम्पत्तिन बलदिन्द सीतादेवियु रसातलवन्नु प्रवेशिसिद बळिक आ यज्ञद अन्त्यदल्लि भगवान् श्रीरामन मनस्सु बहळ दुःखित वायितु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Sītā had entered the earth through the splendor of her truth (praviṣṭāyāṃ tu sītāyāṃ bhūtalaṃ satyasampadā), at the conclusion of that sacrifice (tasyāvasāne yajñasya), Rāma was deeply despondent (paramadurmanāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +131,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विदेह कुमारियन्नु नोडदॆ अवनिगॆ इडी जगत्तु शून्यदन्तायितु. शोकदिन्द व्यथितनाद कारण अवन मनस्सिगॆ शान्ति इरलिल्ल.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not beholding Vaidehī (apaśyamāno vaidehīm), he deemed this entire world empty (mene śūnyam idaṃ jagat); sorely afflicted by grief (śokena paramāyastaḥ), he found no peace in his heart (na śāntiṃ manasā ’gamat).
 </details>
 </details>
 
@@ -145,6 +169,14 @@ _________________
 
 अनन्तर श्रीरघुनाथनु ऎल्ल राजरिगॆ, करडि, वानररिगॆ, राक्षसरिगॆ, जनसमुदायक्कॆ, मुख्य- मुख्य ब्राह्मणरिगॆ धनवन्नु कॊट्टु बीळ्कॊट्टनु. हीगॆ विधिवत्तागि यज्ञगळन्नु मुगिसि कमलनयन श्रीरामनु ऎल्लरन्नु बीळ्कॊट्ट बळिक, सीतॆयन्नु मनस्सिनल्ले स्मरिसुत्ता अयोध्यॆयन्नु प्रवेशिसिदनु.॥5-6½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Having dismissed all the kings, bears, vānaras, and rākṣasas (visṛjya pārthivān sarvān ṛkṣa-vānara-rākṣasān), and having dismissed the multitude of foremost brahmins with prior gifts of wealth (vittapūrvaṃ visṛjya ca),
+
+**6:** thus having completed the sacrifice in due ordinance (evaṃ samāpya yajñaṃ tu vidhivat), that Rāghava—lotus-eyed Rāma (rāmo rājīvalocanaḥ)—having dismissed them all,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -171,6 +203,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यज्ञवन्नु पूर्णगॊळिसि रघुकुलनन्दन राजा श्रीरामनु तन्न ऎरडु पुत्ररॊन्दिगॆ इरतॊडगिदनु. अवनु सीतॆयल्लदॆ बेरॆ याव स्त्रीयन्नु विवाहवागलिल्ल. प्रतियॊन्दु यज्ञदल्लि धर्मपत्निय आवश्यकतॆ इद्दाग श्रीरघुनाथनु सीतॆय स्वर्णप्रतिमॆयन्नु माडिसिकॊण्डु होगुत्तिद्दनु.॥7-8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** holding Sītā in his heart (hṛdi kṛtvā tadā sītām), entered Ayodhyā (ayodhyāṃ praviveśa ha)—that king who had offered the sacrifice (iṣṭayajño narapatiḥ), accompanied by his two sons (putradvaya-samanvitaḥ).
+
+**8:** That delight of the Raghus chose no other wife besides Sītā (na sītāyāḥ parāṃ bhāryāṃ vavre); and at sacrifice after sacrifice (yajñe yajñe), to serve in the wife’s role (patnyartham), there was a golden image of Jānakī (jānakī kāñcanī bhavat).
 </details>
 </details>
 
@@ -200,6 +240,12 @@ _________________
 
 अवनु हत्तु साविर वर्षगळवरॆगॆ यज्ञ माडिदनु. ऎष्टो अश्वमेध यज्ञगळन्नु, अवुगळिगिन्त हत्तु पट्टु वाजपेय यज्ञगळन्नु नडॆसिदनु. अवुगळल्लि असङ्ख्य स्वर्णमुद्रॆगळन्नु दक्षिणॆयागि कॊडलागित्तु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For ten thousand years thereafter he performed horse sacrifices (daśa varṣasahasrāṇi vājimedhān athākarot), and ten times as many Vājapeyas (vājapeyān daśaguṇān) as well as Bahusuvarṇaka rites (bahusuvarṇakān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -225,6 +271,12 @@ _________________
 
 श्रीरामनु हेरळ दक्षिणॆगळिन्द कूडिद अग्निष्टोम, अतिरात्र, गोसव, हागू इतर दॊड्ड-दॊड्ड यज्ञगळ अनुष्ठान माडि, अपार धनराशियन्नु व्ययिसिदनु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With Agniṣṭomas and Atirātras, with richly endowed Gosava rites (gosavaiś ca mahādhanaiḥ), and with other sacrifices furnished with ample sacrificial fees (kratubhir anyaiś ca ... āptadakṣiṇaiḥ), that glorious lord worshipped (īje).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -249,6 +301,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई प्रकार राज्यवाळुत्तिरुवाग महात्मा भगवान् श्रीरघुनाथन हॆच्चिन समय धर्मपालनॆय प्रयत्नदल्ले कळॆयितु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus a vast span of time passed (evaṃ sa kālaḥ sumahān ... vyatīyāt) for the great-souled Rāghava, seated upon the throne (rājyasthasya) and ever striving in dharma (dharme prayatamānasya).
 </details>
 </details>
 
@@ -278,6 +336,12 @@ _________________
 
 करडिगळू, वानररू, राक्षसरू, कूड श्रीरामन आज्ञॆगॆ अधीनरागिद्दरु. भूमण्डलद ऎल्ल राजरू प्रतिदिन श्रीरघुनाथनन्नु सन्तोषगॊळिसुत्तिद्दरु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Day after day the kings gladdened King Rāghava (anurañjanti rājānam ahany ahani rāghavam), while bears, vānaras, and rākṣasas stood steadfast in Rāma’s command (sthitā rāmasya śāsane).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -306,6 +370,12 @@ _________________
 
 श्रीरामन राज्यदल्लि मोडगळु समयक्कॆ सरियागि मळॆ सुरिसुत्तिद्दवु. सदा सुभिक्षवागिद्दु, दुर्भिक्ष इरले इल्ल. समस्त दिक्कुगळु निर्मलवागिद्दवु, नगर मत्तु राष्ट्रवु हृष्ट-पुष्ट जनरिन्द तुम्बिरुत्तित्तु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The rain-cloud rained in due season (kāle varṣati parjanyaḥ); there was abundance of food (subhikṣam) and the quarters were clear (vimalā diśaḥ); the city and the countryside alike teemed with joyous, thriving people (hṛṣṭapuṣṭa-janākīrṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -331,6 +401,12 @@ _________________
 
 श्रीरामन आळ्विकॆय कालदल्लि यारदू अकाल मृत्यु आगुत्तिरलिल्ल. प्राणिगळिगॆ यावुदे रोग सतायिसुत्तिरलिल्ल. जगत्तिनल्लि यावुदे उपद्रवगळु तलॆदोरुत्तिरलिल्ल.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+None died untimely (nākāle mriyate kaścit), nor was there disease among living beings (na vyādhiḥ prāṇināṃ tathā), nor did any calamity exist (nānartho vidyate kaścit) while Rāma ruled the kingdom (rāme rājyaṃ praśāsati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -355,6 +431,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर दीर्घकाल कळॆदाग पुत्र-पौत्रवतियाद परम यशस्विनि श्रीराममाता कौसल्यादेवियु काल धर्मक्कनुसार स्वर्गस्थळादळु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, after a long lapse of time (atha dīrghasya kālasya), Rāma’s illustrious mother [Kausalyā] (rāmamātā yaśasvinī), surrounded by her sons and grandsons (putrapautraiḥ parivṛtā), met the law of time (kāladharmam upāgamat).
 </details>
 </details>
 
@@ -390,6 +472,14 @@ _________________
 
 सुमित्रॆ मत्तु कैकेयियरू आकॆय दारियन्ने हिडिदरु. ई राणियरॆल्ल जीवनकालदल्लि नानारीतिय धर्मानुष्ठानमाडि कॊनॆगॆ साकेत धामवन्नु पडॆदुकॊण्डु, बहळ सन्तोषदिन्द अल्लि दशरथनन्नु सेरिकॊण्डरु. आ महाभागा राणियरिगॆ ऎल्ल धर्मगळ पूर्णफल प्राप्तवायितु.॥16-17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Sumitrā followed after her (anviyāya sumitrā ca), and illustrious Kaikeyī too; having practiced manifold dharma (dharmaṃ kṛtvā bahuvidham), they became established in heaven (tridive paryavasthitā).
+
+**17:** All those greatly blessed queens (sarvāḥ ... mahābhāgāḥ), rejoicing in heaven and reunited with King Daśaratha (pramuditāḥ svarge rājñā daśarathena ca samāgatāḥ), obtained the fruit of every dharma (sarvadharmaṃ ca lebhire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -418,6 +508,12 @@ _________________
 
 श्रीरघुनाथनु समयक्कॆ सरियागि तन्न ऎल्ल मातॆयर निमित्तदिन्द यावुदे भेदभावविल्लदॆ तपस्वी ब्राह्मणरिगॆ महादानगळन्नु माडुत्तिद्दनु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For those mothers (tāsāṃ ... mātṝṇām), from time to time (kāle kāle), Rāma bestowed great gifts (mahādānam) without distinction (aviśeṣeṇa) upon ascetic brahmins (brāhmaṇeṣu tapasviṣu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -445,6 +541,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धर्मात्मा श्रीरामनु श्राद्धदल्लि उपयोगि उत्तमोत्तम वस्तुगळन्नु ब्राह्मणरिगॆ कॊट्टु, पितृगळन्नु, देवतॆगळन्नु सन्तुष्टगॊळिसलु पिण्डपितृ यज्ञवे मुन्ताद अत्यन्त दुस्तर यज्ञगळन्नु माडुत्तानॆ.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Righteous Rāma offered ancestral treasures worthy of brahmins (pitryāṇi brahmaratnāni) and performed exceedingly arduous sacrifices (yajñān paramadustarān), gladdening the ancestors and the gods (pitṝn devān vivardhayan).
 </details>
 </details>
 
@@ -481,5 +583,11 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि तॊम्भत्तॊम्भत्तनॆय सर्ग पूर्णवायितु. ॥99॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus many thousands of years passed happily (evaṃ varṣasahasrāṇi bahūny atha yayuḥ sukham) for him who ever fostered manifold dharma through sacrifices (yajñair bahuvidhaṃ dharmaṃ vardhayānasya sarvadā).
 </details>
 </details>

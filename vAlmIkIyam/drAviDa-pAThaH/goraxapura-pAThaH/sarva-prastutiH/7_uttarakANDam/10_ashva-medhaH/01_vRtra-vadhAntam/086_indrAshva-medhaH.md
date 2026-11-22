@@ -36,6 +36,12 @@ title = "०८६ इन्द्राश्व-मेधः"
 
 आग वृत्रासुरन वधॆय पूर्ण कथॆयन्नु केळि नरश्रेष्ठ लक्ष्मणनु उळिद कथॆयन्नु मुन्दुवरिसिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus narrated in its entirety the slaying of Vṛtra (vṛtra-vadhaṃ sarvam akhilena ... kathayitvā), that foremost of men, Lakṣmaṇa, then began the remainder of the tale (kathā-śeṣaṃ pracakrame):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ title = "०८६ इन्द्राश्व-मेधः"
 
 देवतॆगळिगॆ भयवन्नुण्टु माडुव महा पराक्रमि वृत्रासुरनु हतनादाग, ब्रह्महत्यॆयिन्द परिवृतनाद वृत्रनाशक इन्द्रनिगॆ बहळ हॊत्तिनल्लि ऎच्चरगॊण्डनु.॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, when the mighty Vṛtra, terror of the gods, had been slain (hate mahāvīrye vṛtre deva-bhayaṅkare), Śakra, the slayer of Vṛtra, beset by brahmin-slaughter, could not regain his consciousness (brahmahatyāvṛtaḥ śakraḥ sañjñāṃ lebhe na vṛtrahā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +97,12 @@ title = "०८६ इन्द्राश्व-मेधः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लोकगळ कॊनॆय सीमॆयन्नु आश्रयिसि अवनु हाविनन्तॆ तॆवळुत्ता कॆलकाल अल्ले निश्चेष्टितनागि, सञ्ज्ञाशून्यनागि बिद्दिद्दनु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Taking refuge at the very end of the worlds, bereft of sense and awareness (antam āśritya lokānāṃ naṣṭa-sañjño vicetanaḥ), he dwelt there for some time, writhing like a serpent (kālaṃ tatrāvasat kañcid veṣṭamāna ivoragaḥ).
 </details>
 </details>
 
@@ -115,6 +133,14 @@ title = "०८६ इन्द्राश्व-मेधः"
 
 इन्द्रनु अदृश्यनाद्दरिन्द इडी जगत्तु व्याकुलवायितु. भूमि जडदन्तायितु. अदर आर्द्रतॆ नाशवायितु, काडुगळु ऒणगिहोदुवु. नदी, सरोवरगळ नीरिन सॆलॆ बत्तिहोयितु. मळॆयागदॆ ऎल्ल जीविगळु गाबरिगॊण्डवु.॥4-5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** “Now, with the thousand-eyed one vanished, the universe became deeply agitated (naṣṭe sahasrākṣe udvignam abhavaj jagat); the earth appeared as if ruined, devoid of moisture, with parched forests (bhūmiś ca dhvasta-saṅkāśā niḥsnehā śuṣka-kānanā).
+
+**5:** “All those lakes and rivers alike lost their currents (niḥsrotasaś ca te sarve hradāś ca saritas tathā), and there arose great distress among all living creatures on account of the drought (saṅkṣobhaś caiva sattvānām anāvṛṣṭi-kṛto ’bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,6 +165,12 @@ title = "०८६ इन्द्राश्व-मेधः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 समस्त जनरु क्षीणरादरु. इदरिन्द देवतॆगळ मनस्सिनल्लि व्याकुलतॆ आवरिसितु मत्तु अवरिगॆ मॊदलु भगवान् विष्णु हेळिद्द यज्ञद स्मरणॆयायितु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Seeing this world wasting away, the gods, distressed in mind (kṣīyamāṇe tu loke ’smin sambhrānta-manasaḥ surāḥ), brought together the sacrifice that Viṣṇu had ordained of old (yad uktaṃ viṣṇunā pūrvaṃ taṃ yajñaṃ samupānayan).”
 </details>
 </details>
 
@@ -165,6 +197,12 @@ title = "०८६ इन्द्राश्व-मेधः"
 
 अनन्तर गुरुगळाद बृहस्पतिगळन्नु जॊतॆयल्लि करॆदुकॊण्डु, ऋषिगळ सहित ऎल्ल देवतॆगळु इन्द्रनु भयदिन्द मोहितनागि अडगिद्दल्लिगॆ होदरु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then all the hosts of gods, accompanied by their preceptors and the sages (sura-gaṇāḥ sopādhyāyāḥ saharṣibhiḥ), journeyed to that region where Indra lay bewildered with terror (taṃ deśaṃ samupājagmur yatrendro bhaya-mohitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +227,12 @@ title = "०८६ इन्द्राश्व-मेधः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरु ब्रह्महत्यॆयिन्द आवेष्टितनाद इन्द्रनन्नु नोडि, देवेश्वरनाद अवनन्ने मुन्दॆ माडि अश्वमेध यज्ञवन्नु माडलु तॊडगिदरु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding the thousand-eyed one enveloped by brahmin-slaughter (dṛṣṭvā sahasrākṣam āvṛtaṃ brahmahatyayā), they placed that Lord of the gods in the forefront and commenced the horse sacrifice (taṃ puraskṛtya deveśam aśvamedham upākraman).
 </details>
 </details>
 
@@ -218,6 +262,12 @@ _________________
 
 नरेश्वर! मत्तॆ महात्मा महेन्द्रन आ महा अश्वमेधयज्ञ प्रारम्भवायितु. अदर उद्देश ब्रह्महत्यॆयन्नु निवृत्तिगॊळिसि इन्द्रनन्नु पवित्रवागिसुवुदागित्तु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon the mighty horse sacrifice of the great-souled Mahendra (aśvamedhaḥ sumahān mahendrasya mahātmanaḥ) waxed glorious for his purification from brahmin-slaughter, O lord of men (vavṛdhe brahmahatyayāḥ pāvanārthaṃ nareśvara).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +292,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक आ यज्ञवु समाप्तवादाग ब्रह्महत्यॆयु महात्मा देवतॆगळ बळिगॆ बन्दु - ननगॆ इरलु स्थानवन्नु एर्पडिसिरि ऎन्दु हेळितु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, when the sacrifice of that great-souled one was brought to completion (yajñe samāpte tu ... mahātmanaḥ), Brahmahatyā approached them and spoke these words: ‘Where will you assign a dwelling-place for me (kva me sthānaṃ vidhāsyatha)?’
 </details>
 </details>
 
@@ -268,6 +324,12 @@ _________________
 
 इदन्नु केळि सन्तुष्ट हागू प्रसन्नराद देवतॆगळु अदर बळि हेळिदरु - दुर्जय शक्तियुळ्ळ ब्रह्महत्यॆये! नीनु स्वतः तन्नन्नु नाल्कु भागवागि विभक्तनागु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Pleased and filled with delight, those gods then answered her (te tām ūcus tadā devās tuṣṭāḥ prīti-samanvitāḥ): ‘O formidable one, divide yourself into four parts by your own will (caturdhā vibhajātmānam ātmanaiva durāsade)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,6 +354,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महात्मा देवतॆगळ मातन्नु केळि महेन्द्रन शरीरदल्लि दुःखपूर्वकवागि वासिसिद ब्रह्महत्यॆयु नाल्कु भागवागि विभक्तवागि इन्द्रन शरीरवल्लदॆ बेरॆ कडॆ इरलु जागवन्नु बेडितु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing the speech of those great-souled gods (devānāṃ bhāṣitaṃ śrutvā ... mahātmanām), Brahmahatyā, grievous to dwell with, chose abodes elsewhere in their presence (sannidhau sthānam anyatra varayām āsa durvasā):
 </details>
 </details>
 
@@ -318,6 +386,12 @@ _________________
 
 नानु नन्न ऒन्दंशदिन्द मळॆ गालद नाल्कु तिङ्गळवरॆगॆ नीरु तुम्बिद नदिगळल्लि वासिसुवॆनु. आग नानु इच्छानुसार सञ्चरिसुत्तेनॆ मत्तु बेरॆयवर दर्पवन्नु दमन माडुवॆनु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘With one portion I shall dwell in rivers swollen with waters (ekenāṃśena vatsyāmi pūrṇodāsu nadīṣu vai) throughout the four months of the rainy season, destroying arrogance and obstructing desires (caturo vārṣikān māsān darpaghnī kāmavāriṇī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -342,6 +416,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न मत्तॊन्दु अंशदिन्द नानु भूमियल्लि ऎल्ल कालगळल्लियू इरुत्तेनॆ. इदरल्लि सन्देहवे इल्ल. सत्यवाद ई मातन्नु नानु निम्मॊडनॆ हेळुत्तिद्देनॆ.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Upon the earth I shall dwell with one portion at all times and forever (bhūmyām ahaṃ sarva-kālam ekenāṃśena sarvadā | vasiṣyāmi na sandehaḥ); truthfully do I declare this to you (satyenaitad bravīmi vaḥ).
 </details>
 </details>
 
@@ -368,6 +448,12 @@ _________________
 
 नन्न मूरनॆय अंशदिन्द गर्विष्ठॆयराद युवतियरल्लि नानु प्रति तिङ्गळल्लियू मूरु दिवसगळवरॆगॆ वासवागिद्दु अवर दर्पवन्नु मुरियुत्तेनॆ.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘As for this third portion of mine, I shall dwell for three nights in women blooming with youth (strīṣu yauvana-śāliṣu | trirātraṃ), proud in their prime, curbing their pride (darpa-pūrṇāsu vaśiṣye darpa-ghātinī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -392,6 +478,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुरश्रेष्ठरे! नन्न नाल्कनॆय अंशदिन्द नानु सुळ्ळु हेळि इतररन्नु दूषिसदिरुव ब्राह्मणर हत्यॆ माडुववरल्लि सेरिकॊळ्ळुत्तेनॆ.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And as for those who, upon false pretext, slay blameless brahmins (hantāro brāhmaṇān ye tu mṛṣāpūrvam adūṣakān), with my fourth share I shall take up my abode in them, O bulls among gods (tāṃś caturthena bhāgena saṃśrayiṣye surarṣabhāḥ).’”
 </details>
 </details>
 
@@ -418,6 +510,12 @@ _________________
 
 आग देवतॆगळु हेळिदरु - दुर्वसे! नीनु हेळि दन्तॆये आगलि. होगु निन्न अभीष्टवन्नु साधिसिको.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then the gods replied to her: ‘O formidable one, just as you say, so let all that come to pass (yathā vadasi durvase | tathā bhavatu tat sarvam); accomplish whatever you desire (sādhayasva yad īpsitam)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -442,6 +540,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग देवतॆगळॆल्लरू बहळ सन्तोष दिन्द सहस्राक्ष इन्द्रनन्नु वन्दिसिदरु. इन्द्रनु निश्चिन्तनागि, निष्पापनागि विशुद्धनादनु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon, filled with joy, the gods paid homage to the thousand-eyed one (prītyānvitā devāḥ sahasrākṣaṃ vavandire), and Vāsava became free from anguish and purified of soul (vijvaraḥ sa ca pūtātmā vāsavaḥ samapadyata).
 </details>
 </details>
 
@@ -468,6 +572,12 @@ _________________
 
 इन्द्रनु तन्न पदवियल्लि प्रतिष्ठितनागुत्तले सम्पूर्ण जगत्तिनल्लि शान्ति नॆलॆसितु. आग इन्द्रनु आ अद्भुत शक्तिशाली यज्ञवन्नु भूरि-भूरि प्रशंसिसिदनु.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With the thousand-eyed one restored to his station, the entire universe became tranquil (praśāntaṃ ca jagat sarvaṃ sahasrākṣe pratiṣṭhite), and Śakra then worshipped that wondrous-seeming Sacrifice [Viṣṇu] (yajñaṃ cādbhuta-saṅkāśaṃ tadā śakro ’bhyapūjayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -492,6 +602,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! अश्वमेध यज्ञद प्रभाव हीगिदॆ. आद्दरिन्द महाभाग! पृथिविपते! नीनु अश्वमेध यज्ञद मूलक यजन माडु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Such indeed is the gracious power of the horse sacrifice, O delight of the Raghus (īdṛśo hy aśvamedhasya prasādo raghunandana); therefore, O highly fortunate king, offer worship with the horse sacrifice (yajasva sumahābhāga hayamedhena pārthiva)!”
 </details>
 </details>
 
@@ -532,6 +648,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऎम्भत्तारनॆय सर्ग पूर्णवायितु. ॥86॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those excellent and exceedingly enchanting words of Lakṣmaṇa (iti lakṣmaṇa-vākyam uttamaṃ ... atīva manoharam), the great-souled king, equal to Indra in valor and vigor, attained supreme satisfaction with a gladdened heart (paritoṣam avāpa hṛṣṭa-cetāḥ).
 </details>
 </details>
 

@@ -58,6 +58,12 @@ monkeys and the demons. Ravana fights fiercely with monkeys.
 
 रावणनु लङ्कॆय प्रतियॊन्दु मनॆयल्लियू राक्षसियर करुण क्रन्दनवन्नु केळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those thousands of elephants, and [thousands] of steeds along with their riders (sārohāṇi), as well as thousands upon thousands (sahasraśaḥ) of fire-hued chariots furnished with banners—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,6 +109,12 @@ enraged; *babhuuva* = and assumed; *bhiimadarshanaH* = a frightful appearance.
 
 Sighing for a long time and remaining engrossed in reflection for a while, that
 Ravana was very much enraged and assumed a frightful appearance.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and thousands of rākṣasas fighting with maces and iron bludgeons (gadā-parigha-yodhinām), resplendent with golden standards, heroic and capable of assuming any form at will (kāma-rūpiṇām)—
 </details>
 </details>
 
@@ -155,6 +167,12 @@ Nipping his lips with his teeth, his eyes becoming blood-red with anger, and his
 sight becoming difficult to endure even for the demons, Ravana looked like the augmented fire of
 dissolution.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+sent forth (prayuktāni) by Rāvaṇa, were struck down by Rāma of unwearying deeds (akliṣṭa-karmaṇā) with blazing arrows adorned with refined gold (tapta-kāñcana-bhūṣaṇaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -179,6 +197,12 @@ dissolution.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ राक्षसनु बळियल्लि निन्तिद्द राक्षसरॊन्दिगॆ अस्पष्ट शब्दगळिन्द मातनाडुत्ता, अवरन्नु तन्न कण्णु गळिन्दले सुट्टुबिडुवनो ऎम्बन्तॆ नोडुत्तिद्दनु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having seen and heard of [those slaughtered hosts], the surviving night-roamers (hata-śeṣā niśācarāḥ) were bewildered, and the rākṣasa women, coming together, were wretched and overwhelmed by anxiety (cintā-pariplutāḥ).
 </details>
 </details>
 
@@ -207,6 +231,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रावणनॆन्द - निशाचररे! महोदर, महापार्श्व, विरूपाक्ष ऎम्ब राक्षसरल्लिगॆ बेगनॆ होगि ‘नीवु नन्न आज्ञॆयन्तॆ शीघ्रवागि सैन्यक्कॆ हॊरडुवन्तॆ आदेशिसिरि’ ऎन्दु हेळिरि.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Widowed (vidhavāḥ), bereft of their sons, and with their kinsmen slain, the rākṣasa women, assembling together and crying aloud (krośantyaḥ), lamented in their affliction of grief.
 </details>
 </details>
 
@@ -247,6 +277,12 @@ unagitated; *nR^ipaajJNayaa* = in accordance with the orders of the king.
 
 Hearing that command of Ravana, those demons were tormented with fear and enjoined
 those armies of demons, who felt unagitated, in accordance with the orders of the king.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How could the aged (vṛddhā) Śūrpaṇakhā, hideous with gap-toothed jaws (karālā) and sunken belly (nirṇatodarī), approach in the forest Rāma, who is equal in form to Kandarpa (kandarpa-sama-rūpiṇam)?”
 </details>
 </details>
 
@@ -299,6 +335,12 @@ Saying, 'so it be', all those demons of terrible aspect, praying for the blessin
 the Almighty for averting evil, sallied forth, with their faces turned towards the
 battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding that tender (sukumāram) [prince] of mighty spirit, devoted to the welfare of all beings (sarva-bhūta-hite ratam), that unsightly woman (hīna-rūpā), worthy of being slain by the world (loka-vadhyā), was seized with passionate longing (prakāmitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,6 +381,12 @@ palms.
 
 Paying reverence to Ravana according to the rules of propriety, all those great
 car-warriors stood with joined palms, wishing victory to their lord.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How could that foul-faced (durmukhī) rākṣasī, devoid of every virtue (sarva-guṇair hīnā), lust after Rāma, who is endowed with virtues, of mighty energy (mahaujasam), and of fair countenance (sumukham)?
 </details>
 </details>
 
@@ -389,6 +437,12 @@ _________________
 Laughing heartily, Ravana then, stupefied as he was with anger, spoke to those
 demons viz. Mahodara, Mahaparshva and Virupaksha, the demons as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through the scant fortune of this [rākṣasa] folk (janasyāsyālpabhāgyatvāt), that wrinkled (valinī), white-haired (śveta-mūrdhajā) [hag committed] an improper, laughable (apahāsyam), and universally despised (sarva-loka-vigarhitam) deed—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -435,6 +489,12 @@ similar to the sun at the time of dissolution of the universe.
 "Today, I will send Rama and Lakshmana to the abode of Death, with my arrows looking
 similar to the sun at the time of dissolution of the Universe."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+for the destruction of the rākṣasas, and of Dūṣaṇa and Khara, that misshapen woman (apratirūpā sā) perpetrated an outrage (pradharṣaṇam) against Rāghava!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -477,6 +537,12 @@ _________________
 
 "By killing the enemies now, I will take vengeance for Khara, Kumbhakarna, Prahasta
 and Indrajit."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On account of her (tan-nimittam), this great enmity was forged by Rāvaṇa; for his own destruction (vadhāya), that Sītā was brought hither (ānītā) by the rākṣasa Daśagrīva.
 </details>
 </details>
 
@@ -524,6 +590,12 @@ to view.
 
 "The sky overcast by my arrows, like clouds, will not be distinctly seen. Neither
 the quarters, nor the heaven, nor the seas will come to view."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Neither does Daśagrīva win Sītā, the daughter of Janaka (janakātmajām), nor [can he escape], having bound an imperishable enmity (vairam akṣayam) with the mighty Rāghava!”
 </details>
 </details>
 
@@ -574,6 +646,12 @@ will kill; *yuuthaani* = troops; *vaanaramukhyaanaam* = monkey-chiefs; *adya*
 "With a multitude of plumed arrows joined with my bow, I will kill, by turns, the
 troops of monkey-chiefs today."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having seen that rākṣasa Virādha, as he lusted after Vaidehī (vaidehīṃ prārthayānam), slain by Rāma alone (ekena rāmeṇa)—that was sufficient proof (paryāptaṃ tan nidarśanam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -613,6 +691,12 @@ sainyaani* = the armies of monkeys; *sharormiH* = with waves of arrows;
 
 "By mounting on a chariot, having a speed equal to that of wind, I will destroy
 today the armies of monkeys, with waves of arrows arising out of the ocean of my bow.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fourteen thousand (caturdaśa sahasrāṇi) rākṣasas of dreadful deeds were struck down in Janasthāna by arrows resembling tongues of flame (śarair agni-śikhopamaiḥ);
 </details>
 </details>
 
@@ -659,6 +743,12 @@ of monkeys; *padmakesara varchasaam* = shining like the filaments of louts;
 
 "Like an elephant, today I will destroy ponds in the form of troops of monkeys
 shining like the filaments of lotus, with their faces resembling full-blown lotuses."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and Khara was slain in battle (saṃkhye), as well as Dūṣaṇa and Triśiras, by arrows bright as the sun (āditya-saṃkāśaiḥ)—that was sufficient proof (paryāptaṃ tan nidarśanam)!
 </details>
 </details>
 
@@ -707,6 +797,12 @@ stalks.
 "With their faces transfixed with arrows, the monkey-leaders, lying on the
 battle-field today will adorn the earth as with lotuses together with the stalks."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the blood-drinking (rudhirāśanaḥ) Kabandha, whose arms stretched a yojana (yojana-bāhuḥ), was slain even as he roared a roar in wrath—that was sufficient proof!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -752,6 +848,12 @@ the most furious of their troop; *drumayodhinaam* = fighting with trees.
 
 "With each arrow released in battle today, I shall tear one hundred full of monkeys,
 the most furious of their troop, fighting with trees."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma slew the mighty Vālin, son of the thousand-eyed [Indra] (sahasra-nayanātmajam), who resembled Mount Meru (meru-saṃkāśam)—that was sufficient proof!
 </details>
 </details>
 
@@ -802,6 +904,12 @@ killed.
 
 "By killing the enemy today, I shall wipe off the tears of those demons, who lost
 their brothers and sons."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And dwelling on Ṛṣyamūka, wretched and with his hopes shattered (bhagna-manorathaḥ), Sugrīva was restored to his kingdom (prāpito rājyam)—that was sufficient proof!”
 </details>
 </details>
 
@@ -866,6 +974,12 @@ of the afflicted; *raakShasiinaam* = femal-demons; *kule kule* = in every house;
 Ravana for his part heard the mournful and plaintive cry of the afflicted
 female-demons in every house at Lanka.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The speech endowed with dharma and advantage (dharmārtha-sahitaṃ vākyam), salutary to all rākṣasas and fitting (yuktam), spoken by Vibhīṣaṇa, did not please him (tasya na rocate) out of delusion (mohāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -912,6 +1026,12 @@ arrows.
 
 "Today, I shall satiate the crows, vultures and all those other creatures which eat
 the flesh, with the flesh of enemies, struck by my arrows."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If the younger brother of Dhanada (dhanadānujaḥ) had acted upon Vibhīṣaṇa's words (vibhīṣaṇa-vacaḥ kuryāt), this Laṅkā would not have become a burial ground (śmaśāna-bhūtā), afflicted with grief!
 </details>
 </details>
 
@@ -960,6 +1080,12 @@ the flesh, with the flesh of enemies, struck by my arrows."
 "Arrange my chariot quickly. Bring my bow swiftly. Let all the remaining demons
 here, follow me to the combat."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even after hearing that Kumbhakarṇa of mighty strength was slain by Rāghava, that the unassailable (durmarṣam) Atikāya was slain then by Lakṣmaṇa, and that his beloved son Indrajit [was slain], Rāvaṇa does not wake up (nāvabudhyate)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1006,6 +1132,12 @@ here, follow me to the combat."
 
 Hearing that command of Ravana, Mahaparshva ordered the army-chiefs, standing there,
 as follows: "let the army be made ready quickly."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘My son, my brother, my husband has been slain in battle!’—such is the cry (śabdaḥ) heard in household after household (kule kule) of the rākṣasīs.
 </details>
 </details>
 
@@ -1055,6 +1187,12 @@ Going around the city of Lanka, the army-chiefs for their part, with quick
 resolution, joined hand in hand and hastened the demons in every house to set out for the
 battle.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Chariots, steeds, and elephants have been slain here and there by the thousands (sahasraśaḥ) in battle by heroic Rāma, and foot-soldiers (padātayaḥ) too have been slain.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1079,6 +1217,12 @@ battle.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 स्वल्प समयदल्ले भयङ्कर मुख मत्तु आकारवुळ्ळ राक्षसरु गर्जिसुत्ता नाना रीतिय अस्त्र-शस्त्रगळन्नु हिडिदु अल्लिगॆ बन्दु सेरिदरु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whether he be Rudra, or Viṣṇu, or Mahendra of a hundred sacrifices (śata-kratuḥ), or Death himself (svayam antakaḥ), he slays us in the form of Rāma (rāma-rūpeṇa)!”
 </details>
 </details>
 
@@ -1134,6 +1278,14 @@ equipped with various weapons viz. swords, sharp-edged darts, pikes, maces, club
 weapons, sharp-edged javelins, huge Kutas and Mudgara, staffs, discuses of every kind, sharpened
 axes, slings for throwing stones, stones or cylindrical wooden pieces with iron pikes and other
 excellent weapons, rushed out within a moment.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** “With our foremost heroes slain by Rāma (hata-pravīrā rāmeṇa), hopeless of life (nirāśā jīvite), and beholding no end to our terror (apaśyantyo bhayasyāntam), we wail, protectorless (anāthāḥ)!
+
+**26:** Daśagrīva, heroic and endowed with a great boon (datta-mahāvaraḥ), does not perceive this most dreadful peril (bhayaṃ mahāghoram) arisen from the hand of Rāma (rāma-hastāt).
 </details>
 </details>
 
@@ -1197,6 +1349,14 @@ forth; *sahasaa* = quickly; *daamyanniva* = as though he was cracking;
 Then, surrounded by several demons, Ravana sallied forth quickly, as though he was
 cracking the earth with a profundity of his strength.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** Neither gods, nor gandharvas, nor piśācas, nor rākṣasas are able to rescue him when he is assailed (upasṛṣṭam) by Rāma in battle.
+
+**28:** Portents (utpātāḥ) too are seen for Rāvaṇa in battle after battle (raṇe raṇe); verily they foretell the destruction (nibarhaṇam) of Rāvaṇa by Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1243,6 +1403,12 @@ couches; *kalahaiH saha* = along with the clamour; *rakShasaam* = of the demons.
 Thereupon, a great noise emanated on all sides from tabors, drums, Kettle-drums and
 counches along with the clamour of the demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By the pleased Pitāmaha, immunity (abhayam) from gods, dānavas, and rākṣasas was granted to Rāvaṇa, [but immunity] from mortal men (manuṣyebhyaḥ) was not requested (na yācitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1270,6 +1436,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ रथवन्नु अनेक प्रकारदिन्द अलङ्करिसलागित्तु. अदरल्लि बगॆ बगॆय आयुधगळन्नु, दिव्यास्त्रगळन्नु इरिसलागित्तु. अदु गॆज्जॆगळिरुव परदॆगळिन्द सुशोभितवागित्तु.॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This peril, I ween, has arrived beyond doubt from a mortal (mānuṣam), bringing an end to the lives (jīvitāntakaram) of the rākṣasas and of Rāvaṇa, dreadful as it is!”
 </details>
 </details>
 
@@ -1317,6 +1489,12 @@ dynasty.
 A clamour was heard, saying "There comes the ruler of demons, the abductor of
 Seetha, the destroyer of Brahmanas, the enemy of gods, notorious for his bad conduct, accompanied
 by his canopy and pair of whisks, to fight with Rama, the foremost among the Raghu dynasty."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tormented (pīḍyamānāḥ) by the mighty rākṣasa through the bestowal of his boon (vara-dānena), the gods (vibudhāḥ) worshipped Pitāmaha with blazing austerities (dīptais tapobhiḥ).
 </details>
 </details>
 
@@ -1379,6 +1557,14 @@ victory; *jayaaya* = in quest of victory.
 The long-armed Ravana, for his part, with extra-ordinary energy, surrounded by his
 ministers, turned up for victory in quest of victory.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** For the sake of the welfare of the gods (devatānāṃ hitārthāya), the great-souled Pitāmaha, well pleased (tuṣṭaḥ), spoke this great word to all the deities:
+
+**33:** ‘From this day forth (adya-prabhṛti), all the dānavas and rākṣasas, constantly filled with fear (bhayena prabhṛtāḥ), shall roam the three worlds (lokāṃs trīn) perpetually!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1418,6 +1604,12 @@ then; *aaruruhuH* = ascended; *rathaan* = their chariots.
 
 Mahaparshva and Mahodara as also Virupaksha, who was difficult to overpower, as
 order by Ravana, then ascended their chariots.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then all the deities, with Indra at their head (indra-purogamaiḥ), assembled together and propitiated (pratoṣitaḥ) the bull-bannered (vṛṣa-dhvajaḥ) Mahādeva, destroyer of Tripura (tripura-hā).
 </details>
 </details>
 
@@ -1464,6 +1656,12 @@ the earth; *vimuN^chantaH* = and emitting; *ghoram* = an awful; naadam- uroar;
 
 Those demons, roaring elatedly, as though cracking the earth, and emitting an awfull
 uproar, sallied forth, longing for victory.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Mahādeva, being pleased (prasannaḥ), spoke this word to the gods: ‘For your welfare (hitārthaṃ vaḥ), there shall arise a woman bringing destruction to the rākṣasas (rakṣaḥ-kṣayāvahā)!’
 </details>
 </details>
 
@@ -1513,6 +1711,12 @@ raised bow; *niryayau* = set out; *yuddhaaya* = for the battle.
 Then, the powerful Ravana, resembling the all-destroying Time in the form of Yama,
 along with his army-troops of demons, set out for the battle with his raised bow.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sent forth (prayuktā) by the gods, just as Hunger (kṣut) [devoured] the dānavas of old, this [Sītā], the slayer of rākṣasas (rākṣasa-ghnī), shall devour us all along with Rāvaṇa (sarāvaṇān)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1560,6 +1764,12 @@ there.
 Then, that Ravana, the great chariot-warrior, ascending his chariot driven by swift
 horses, sallied forth to the gate, where Rama and Lakshmana were.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through the misconduct (apanītena) of the ill-disciplined (durvinītasya), evil-minded Rāvaṇa, this dreadful groaning of destruction (niṣṭānako ghoraḥ) has overwhelmed us with grief (śokena samabhiplutaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1600,6 +1810,12 @@ notes; *mediniicha* = and the earth too; *samchachaala* = violently trembled.
 Then, the sun lost its radiance. The quarters too were enveloped in darkness. The
 birds emitted fearful notes. The earth too trembled violently.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+We behold no one in the world (taṃ na paśyāmahe loke) who could be a giver of refuge (śaraṇadaḥ) to us who are assailed by Rāghava, as if by Time at the dissolution of the age (kāleneva yuga-kṣaye).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1639,6 +1855,12 @@ a vulture; *nyapatat* = descended; *dhvajaagre* = on the top of the ensign;
 
 The cloud rained blood. The horses stumbled. A vulture descended on the top of the
 ensign. Jackals emitted sinister howls.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There is no refuge whatsoever (nāsti naḥ śaraṇaṃ kiṃcit) for us who stand in great terror, like female elephants (kareṇūnām) in a forest ringed by a wildfire (dāvāgni-veṣṭitānām).
 </details>
 </details>
 
@@ -1689,6 +1911,12 @@ his voice; *kimchit* = was a little; *abhrashyata* = dropped.
 His left eye too throbbed. His left arm trembled. He became pale-faced. His voice
 was a little lowered.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A timely deed (prāpta-kālaṃ kṛtam) was done by that great-souled Paulastya [Vibhīṣaṇa]: he went for refuge (śaraṇaṃ gataḥ) unto that very one from whom peril was foreseen (yata eva bhayaṃ dṛṣṭam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1728,6 +1956,12 @@ his death; *jaN^jire* = appeared; *raNe* = in the battle-field.
 
 When Ravana the demon was sallying forth for the battle, the following evil
 phenomena, predicting his death, appeared in the battle-field.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, all the wives of the night-roamers (rajanīcara-striyaḥ), clasping one another tightly with their arms (parasparaṃ samparirabhya bāhubhiḥ), sank down in anguish, crushed by extreme terror (ārtātibhayābhipīḍitāḥ), and shrieked aloud most dreadfully (sudāruṇam).
 </details>
 </details>
 

@@ -102,6 +102,16 @@ Tara is agonised when she saw the elephantine and mountainous vanara, namely Val
 reduced to no more than an uprooted tree, and she wailed fretfully with grief scorching heart.
 [4-20-2b, 3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Seeing him struck down upon the ground (dṛṣṭvā vinihataṃ bhūmau) by the death-dealing arrow loosed from Rāma's bow (rāmacāpavisṛṣṭena śareṇāntakareṇa), Tārā, whose face resembled the lord of stars [the moon] (tārādhipānanā)—
+
+**2:** Approaching her husband (samāsādya bhartāram), that spirited lady embraced Vālin (paryaṣvajata bhāminī), seeing him who resembled an elephant struck by an arrow (iṣuṇābhihataṃ dṛṣṭvā vālinaṃ kuñjaropamam).
+
+**3:** Her mind tormented with grief (śokasaṃtaptamānasā), the afflicted Tārā lamented over (paryadevayatāturā) that monkey who resembled a lordly mountain (parvatendrābham) and lay like an uprooted tree (tarum ivonmūlam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -154,6 +164,12 @@ greet - talk.
 have never blamed you either in your presence or in your absence, why do not you talk to me now?
 [4-20-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O you of dreadful valor in battle (raṇe dāruṇavikrānta), O great hero, best of leapers (pravīra plavatāṃ vara)! Why do you not speak to me now today, when I stand right before you (kim idānīṃ purobhāgām adya tvaṃ nābhibhāṣase)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -202,6 +218,12 @@ isn't it.
 
 "Arise, oh, tigerly monkey, you have to make use of a best bed as best kings will
 not on repose on soil in this way, isn't it. [4-20-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arise, O tiger among monkeys (uttiṣṭha hariśārdūla), resort to your couch of state (bhajasva śayanottamam)! Surely the foremost of kings such as you do not lie upon the bare ground (naivaṃvidhāḥ śerate hi bhūmau nṛpatisattamāḥ).
 </details>
 </details>
 
@@ -257,6 +279,12 @@ imperatives as, "Is this earth a highly cherished darling of yours than me, that
 cling to her leaving me off, am I that bad..." "Have you built a heavenly city in the pathway of
 heaven and you go there leaving me, am I unfit to come with you..." and the like.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exceedingly dear to you indeed is the earth (atīva khalu te kāntā vasudhā), O lord of the earth (vasudhādhipa), since even when bereft of life (gatāsur api), abandoning me, you cleave to her with your limbs (tāṃ gātrair māṃ vihāya niṣevase)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -305,6 +333,12 @@ it is evident.
 Kishkindha-like delightful city in the pathway to heaven by your leaving lovely Kishkindha.
 [4-20-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Clearly today, O hero, as you proceed in accordance with warrior duty (dharmataḥ sampravartatā), another lovely city like Kiṣkindhā has been fashioned by you along the path to heaven (kiṣkindheva purī ramyā svargamārge vinirmitā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +384,12 @@ uparamaH tvayaa kR^itaH* = to them, stoppage - bring to an end, by you, made.
 
 "You bring an end to the pleasure trips you made along with us in the sweet smelling
 forests from time to time by your departing. [4-20-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those pastimes which were enjoyed by us together with you in the honey-scented woods (vaneṣu madhugandhiṣu vihṛtāni)—of them an end has now been made by you in time (kāle teṣām uparamaḥ kṛtaḥ).
 </details>
 </details>
 
@@ -403,6 +443,12 @@ Where the preceding four states of living beings are, waking state, dream state,
 and the state of deep sleep. There is another undistinguished fourth called *turriya* Death is the
 fifth one.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joyless and bereft of hope (nirānandā nirāśāham), I am plunged into an ocean of grief (nimagnā śokasāgare), now that you, the overlord of great troop-leaders (mahāyūthapayūthape), have met with dissolution into the five elements (tvayi pañcatvam āpanne).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -452,6 +498,12 @@ splintering.
 
 "My heart is very sturdy - perhaps, even on seeing you slain and fallen to ground,
 it is not splintering now into thousand splints, though it is tormented by sorrow. [4-20-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely my heart is firmly hardened (hṛdayaṃ susthitaṃ mahyam), since, upon beholding you fallen on the ground (dṛṣṭvā nipatitaṃ bhuvi), though scorched by grief, it does not shatter today into a thousand fragments (yan na śokābhisaṃtaptaṃ sphuṭate 'dya sahasradhā)!
 </details>
 </details>
 
@@ -503,6 +555,12 @@ wife, snatched away; *saH ca vivaasitaH* = he, also, expelled [ from Kishkindha]
 "By which reason you have snatched away Sugreeva's wife, oh, chief of fliers, and
 even expelled him from Kishkindha, that is the reason why you got this result. [4-20-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That Sugrīva's wife was seized by you and he himself was driven into exile (sugrīvasya tvayā bhāryā hṛtā sa ca vivāsitaḥ)—this fruit thereof has now been reaped by you (tasya tvayā vyuṣṭiḥ prāpteyam), O lord of leapers (plavagādhipa)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -548,6 +606,12 @@ tvayaa mohaat vi garhitaa* = I, by you, unmindfully, refused - brushed me aside.
 
 "I am she who said a beneficial word to you with an interest in your well-being and
 wishing your welfare, but oh, best monkey, you unmindfully brushed me off. [4-20-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And I, who sought your highest good and wished you well (niḥśreyasaparā hitaiṣiṇī), when I spoke salutary counsel (yaiṣābruvaṃ hitaṃ vākyam), was spurned by you out of delusion, O lord of monkeys (mohāt tvayā cāhaṃ vigarhitā vānarendra)!”
 </details>
 </details>
 
@@ -596,6 +660,12 @@ definitely.
 "Oh, endower of honour, apsara-s, the celestial dancers, will be proud of their
 beauty, youthfulness, and expertise in romance, and oh, honourable one, you can stir up their
 hearts towards you by your gallantry, definite is that. [4-20-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely, O noble bestower of honour (mānada ārya), you will churn with longing the hearts of the celestial nymphs (apsarasāṃ cittāni pramathiṣyasi), who are proud of their beauty and youth (rūpayauvanadṛptānām) and skilled in amorous courtesy (dakṣiṇānāṃ ca)!
 </details>
 </details>
 
@@ -649,6 +719,12 @@ The Death / Time no doubt has a concern with anyone for it is the ender of life,
 definitely it chanced upon you by the capability of Sugreeva in getting support of Rama, and
 Sugreeva alone controlled you, who are otherwise an uncontrollable force. [4-20-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Time, which admits of no doubt (kālo niḥsaṃśayaḥ), has surely brought about the end of your life (nūnaṃ jīvitāntakaras tava), through whose force you fell helplessly under Sugrīva's power (balād yenāvapanno 'si sugrīvasyāvaśo vaśam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -700,6 +776,12 @@ and he too is not at all worried for doing such a highly deplorable deed. [4-20-
 This verse is not found in some texts like critical edition and in Eastern
 recension etc.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain Vālin out of turn (asthāne vālinaṃ hatvā) while he was engaged in combat with another (yudhyamānaṃ pareṇa ca), Kākutstha feels no remorse (na saṃtapyati kākutsthaḥ) after perpetrating a most censurable deed (kṛtvā karma sugarhitam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -746,6 +828,12 @@ not, doleful, I am; *a duHkha upacitaa* = not, sadness, accompanied with - not s
 
 "So far I am not doleful or saddened, but now as a desolate seethed by sorrow I have
 to undergo widowhood and dolefulness. [4-20-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wretched now though never wretched before (kṛpaṇākṛpaṇā satī), and nurtured formerly without a trace of sorrow (aduḥkhopacitā pūrvam), I shall endure widowhood and the torment of grief like one who has no protector (vaidhavyaṃ śokasaṃtāpaṃ vartayiṣyāmy anāthavat).
 </details>
 </details>
 
@@ -797,6 +885,12 @@ ucitaH* = for comforts, used to; *viiraH* = brave one; *me angadaH* = my, Angada
 to comforts, but which will be the predicament he has to undergo when his paternal-uncle Sugreeva
 gets into a fit of fury. [4-20-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And my heroic Aṅgada, tenderly cherished, delicate, and accustomed to happiness (lālitaś cāṅgado vīraḥ sukumāraḥ sukhocitaḥ)—what state will he pass through (vatsyate kām avasthāṃ me) when his paternal uncle is blinded with wrath (pitṛvye krodhamūrcchite)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -839,6 +933,12 @@ durlabham bhaviSyati* = his, sight, impossible, it will be [from now on.]
 
 "Oh, son Angada, clearly see your father, a patron of virtue, oh, boy, later it is
 impossible to catch a glimpse of him." Thus Tara said to her son Angada. [4-20-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Gaze well upon your righteous-hearted father, O my son (kuruṣva pitaraṃ putra sudṛṣṭaṃ dharmavatsalam); hereafter, O dear child, the sight of him will be hard for you to obtain (durlabhaṃ darśanaṃ tasya tava vatsa bhaviṣyati)!
 </details>
 </details>
 
@@ -889,6 +989,12 @@ another world, you started, you are, isn't it..
 "You have started towards other world, isn't it, so reassure your son, kiss goodbye
 on his forehead, and give me your parting messages." So said Tara to Vali. [4-20-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Console your son (samāśvāsaya putraṃ tvam), and impart to me your parting command (saṃdeśaṃ saṃdiśasva me); smelling him upon the crown of his head (mūrdhni cainaṃ samāghrāya), you have surely set forth on a distant journey (pravāsaṃ prasthito hy asi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -938,6 +1044,12 @@ Rama's; *a nR^iNyam* = no, debt - debtless; *gatam tu* = obtained, but.
 "Really, Rama has not only done a great deed of hitting you down, but he also
 achieved indebtedness towards Sugreeva, both in a single promise. [4-20-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A mighty deed has indeed been accomplished by Rāma in striking you down (rāmeṇa hi mahat karma kṛtaṃ tvām abhinighnatā); and thereby he has discharged his debt regarding his pledge to Sugrīva (ānṛṇyaṃ tu gataṃ tasya sugrīvasya pratiśrave).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -984,6 +1096,12 @@ get; *an udvignaH* = un, ruffled; *raajyam bhunkSva* = kingdom, you wallow in;
 "Now, you are to your heart's content Sugreeva as you regain your wife Ruma, you may
 even wallow in the kingdom unworriedly as your enemy-brother is silenced." So said Tara to
 Sugreeva. [4-20-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Be fulfilled of your desire, O Sugrīva (sakāmo bhava sugrīva)! You shall recover Rumā (rumāṃ tvaṃ pratipatsyase); enjoy the kingdom free of anxiety (bhuṅkṣva rājyam anudvignaḥ), for your brother, your foe, has been slain (śasto bhrātā ripus tava).
 </details>
 </details>
 
@@ -1036,6 +1154,12 @@ you see.
 prattling at length, by the way, several of your comely wives are here, they are here, see them."
 Thus Tara lamented. [4-20-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Why do you not speak to me, your beloved, as I prattle thus in grief (kiṃ mām evaṃ pralapatīṃ priyāṃ tvaṃ nābhibhāṣase)? Behold these many excellent wives of yours, O lord of monkeys (imāḥ paśya varā bahvyo bhāryās te vānareśvara)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1085,6 +1209,12 @@ wept.
 
 On listening Tara's lamentation the vanara females that are around became plaintive,
 saddened pitiably and wept piteously embracing Angada. [4-20-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing her lamentation (tasyā vilapitaṃ śrutvā), those monkey-women on every side (vānaryaḥ sarvataś ca tāḥ), clasping Aṅgada in their arms (parigṛhyāṅgadam), cried out in reply, wretched and stricken with sorrow (dīnā duḥkhārtāḥ praticukruśuḥ):
 </details>
 </details>
 
@@ -1142,6 +1272,12 @@ leaving your dear son Angada? Your going away leaving such a son, who possesses 
 comes close to your abilities, and the one who always wears an exquisitely pleasant getup, is
 unbefitting. [4-20-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O you whose heroic arms are adorned with armlets (sāṅgadavīrabāho), why have you departed on a long journey, abandoning Aṅgada (kim aṅgadaṃ vihāya yāto 'si ciraṃ pravāsam)? It is not fitting thus to abandon a son so rich in virtues and clad in lovely attire (vihāya putraṃ priyacāruveṣam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1196,6 +1332,12 @@ vrajaami* = with forehead, at your, two feet, I am going - I bow down.
 "If I have done any undesirable deed in an indiscriminate way, even in the least, I
 may be pardoned for that, and here I bow down at your feet... oh, masterful one... oh, the lord of
 monkeys lineage... oh, brave one... [Thus Tara wept for Vali.] [4-20-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Tārā said:] “If without reflection any unpleasantness was ever done by me to you, O long-armed one (yady apriyaṃ kiṃcid asampradhārya kṛtaṃ mayā syāt tava dīrghabāho), forgive me that, O lord of the monkey race (kṣamasva me tad dharivaṃśanātha); I bow with my head to your feet, O hero (vrajāmi mūrdhnā tava vīra pādau)!”
 </details>
 </details>
 
@@ -1262,6 +1404,12 @@ self-immolate, and thus she flounced down onto ground where Vali is slouching. [
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तनॆय सर्ग सम्पूर्णवायितु. ॥ 20 ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping piteously thus beside her husband together with the monkey-women (tathā tu tārā karuṇaṃ rudantī bhartuḥ samīpe saha vānarībhiḥ), Tārā of faultless complexion resolved to sit down in a fast unto death (vyavasyata prāyam anindyavarṇā upopaveṣṭum) on the ground where Vālin lay (bhuvi yatra vālī).
 </details>
 </details>
 

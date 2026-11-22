@@ -36,6 +36,12 @@ title = "०३९ सुग्रीव-विभीषणादि-मान�
 
 महात्मनाद आ राजरॆल्लरू साविरारु आनॆ-कुदुरॆ-कालाळुगळिन्द समावृतरागि परम हर्ष दिन्द भूमियन्नु नडुगिसुत्ता अयोध्यॆयिन्द हॊरटरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those high-souled kings set forth exceedingly joyful (te prayātā mahātmānaḥ pārthivās te prahṛṣṭavat), making the earth tremble (kampayanto vasundharām) with floods of thousands of elephants and horses (gaja-vāji-sahasraughaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०३९ सुग्रीव-विभीषणादि-मान�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भरतन आज्ञॆयन्तॆ श्रीरामन सहायक्कागि अनेक अक्षौहिणि सैन्यगळु युद्धक्कागि बन्दिद्दवु. आ ऎल्ल सैनिकरु मत्तु वाहनगळु हर्षोत्साह गॊण्डिद्दवु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For many akṣauhiṇī armies (akṣauhiṇyo ... anekāḥ) with jubilant troops and mounts (prahṛṣṭā bala-vāhanāḥ) had stood ready there for Rāghava’s cause (rāghavārthe samudyatāḥ) at Bharata’s command (bharatasyājñayā).
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०३९ सुग्रीव-विभीषणादि-मान�
 
 आ ऎल्ल भूपालरु दर्पदिन्द परस्पर हीगॆ मातनाडुत्तिद्दरु - नावु युद्धदल्लि श्रीराम मत्तु रावणरु ऎदुरुबदिरागि निन्तिरुवुदन्नु नोडलागलिल्ल.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And those protectors of the earth, filled with pride in their might (bala-darpa-samanvitāḥ), exclaimed: “We did not get to see Rāma’s foe Rāvaṇa (na rāma-rāvaṇam) standing before us in battle (yuddhe ... purataḥ sthitam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "०३९ सुग्रीव-विभीषणादि-मान�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भरतनु मॊदले नमगॆ सूचिसदॆ, युद्ध मुगिद मेलॆ नम्मन्नु व्यर्थवागि करॆसिकॊण्डनु. ऎल्ल राजरु अल्लिगॆ होगिद्दरॆ, अवरिन्द समस्त राक्षसर संहारवु बेगने अगुत्तित्तु, इदरल्लि संशयवे इल्ल.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Too late were we assembled by Bharata to no avail (bharatena vayaṃ paścāt samānītā nirarthakam); otherwise, without doubt, the rākṣasas would have been swiftly slain by us kings (hatā hi rākṣasāḥ kṣipraṃ pārthivaiḥ syur na saṃśayaḥ)!
 </details>
 </details>
 
@@ -136,6 +160,12 @@ title = "०३९ सुग्रीव-विभीषणादि-मान�
 
 श्रीराम मत्तु लक्ष्मणर बाहुबलदिन्द सुरक्षित मत्तु निश्चिन्तरागि नावु समुद्रद आचॆगॆ सुखपूर्वकवागि युद्ध माडुत्तिद्दॆवु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Protected by the arm-might of Rāma and of Lakṣmaṇa (rāmasya bāhu-vīryeṇa rakṣitā lakṣmaṇasya ca), we would have fought happily, free from all fever of anxiety (sukhaṃ ... yudhyema vigata-jvarāḥ), across the ocean (pāre-samudrasya)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,6 +190,12 @@ title = "०३९ सुग्रीव-विभीषणादि-मान�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवरु इन्नू बहळष्टु मातुगळन्नाडुत्ता साविरारु राजरु बहळ हर्षदिन्द तम्म-तम्म राज्यगळिगॆ तॆरळिदरु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting these and thousands of other tales along the way (etāś cānyāś ca ... kathās tatra sahasraśaḥ), those monarchs departed to their own kingdoms (sva-rājyāni jagmuḥ), filled with delight (harṣa-samanvitāḥ).
 </details>
 </details>
 
@@ -198,6 +234,18 @@ title = "०३९ सुग्रीव-विभीषणादि-मान�
 
 अवर प्रसिद्ध राज्यगळु समृद्धिशालि, सुख-आनन्ददिन्द परिपूर्ण, धन-धान्यगळिन्द सम्पन्न हागू रत्नादिगळिन्द तुम्बि तुळुकुत्तिद्दवु. आ राज्य, नगरगळिगॆ होगि आ राजरु श्रीरामन प्रियमाडुव इच्छॆयिन्द नाना रीतिय रत्नादिगळन्नु उडुगॊरॆयागि अवनिगॆ कळिसिदरु. कुदुरॆ, वाहनगळु, रत्नगळु, मत्तगज, उत्तम चन्दन, दिव्य आभूषण, मणि, मुत्तु, हवळ, सुन्दर दासियरु, नाना प्रकारद आडु-कुरिगळन्नु, हागू बगॆ-बगॆय अनेक रथगळन्नु काणिकॆयागि कळिसिकॊट्टरु.॥7-10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** [Returning to] their own foremost kingdoms (svāni rājyāni mukhyāni), thriving and joyful (ṛddhāni muditāni ca), overflowing with wealth and grain (samṛddha-dhana-dhānyāni), full, and rich in treasures (pūrṇāni vasumanti ca),
+
+**8:** having reached their respective cities (yathā-purāṇi te gatvā), those kings then presented manifold jewels as tribute-gifts (ratnāni vividhāny atha ... upahārān nṛpā daduḥ) to gratify Rāma (rāmasya priya-kāmārtham):
+
+**9:** steeds, vehicles, gems, and elephants fierce with rut (aśvān yānāni ratnāni hastinaś ca madotkaṭān), choice sandalwood (candanāni ca mukhyāni), and celestial ornaments (divyāny ābharaṇāni ca).
+
+**10:** Jewels, pearls, and corals (maṇi-muktā-pravālān), maidservants endowed with beauty (dāsyo rūpa-samanvitāḥ), diverse goats and sheep (ajāvikāṃś ca vividhān), and varied chariots (rathāṃs tu vividhān) they gave.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -226,6 +274,14 @@ title = "०३९ सुग्रीव-विभीषणादि-मान�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबलि भरत, लक्ष्मण, शत्रुघ्नरु आ रत्नगळन्नु ऎत्तिकॊण्डु अयोध्यॆगॆ बन्दरु. रमणीय अयोध्यापुरिगॆ बन्दु आ मूवरू सहोदररु आ विचित्र रत्नगळन्नु श्रीरामनिगॆ अर्पिसिदरु.॥11-12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Bharata, Lakṣmaṇa, and the mighty Śatrughna (bharato lakṣmaṇaś caiva śatrughnaś ca mahābalāḥ), taking those treasures (ādāya tāni ratnāni), returned once more to their own city (svāṃ purīṃ punar āgatāḥ).
+
+**12:** And having arrived at the lovely city of Ayodhyā (āgamya ca purīṃ ramyām ayodhyām), those bulls among men (puruṣarṣabhāḥ) presented those wondrous treasures unto Rāma (tāni ratnāni citrāṇi rāmāya samupāharan).
 </details>
 </details>
 
@@ -256,6 +312,14 @@ title = "०३९ सुग्रीव-विभीषणादि-मान�
 
 अदॆल्लवन्नु स्वीकरिसि महात्मा श्रीरामनु बहळ सन्तोषदिन्द उपकारी वानरराज सुग्रीव मत्तु विभीषणरन्नु हागू इतर राक्षसरिगॆ, वानररिगॆ अदन्नु हञ्चिबिट्टनु; एकॆन्दरॆ अवरिन्द सुत्तुवरॆदु श्रीरामनु युद्धदल्लि विजय प्राप्ति माडि कॊण्डिद्दनु.॥13-14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** Accepting all of that with glad affection (pratigṛhya ca tat sarvaṃ rāmaḥ prīti-samanvitaḥ), the high-souled Rāma bestowed it upon King Sugrīva, who had fulfilled his duty (sugrīvāya dadau rājñe mahātmā kṛta-karmaṇe).
+
+**14:** And Rāghava bestowed gifts upon Bibhīṣaṇa (bibhīṣaṇāya ca dadau) and likewise upon the others as well (tathānyebhyo ’pi)—the rākṣasas and monkeys surrounded by whom he had won victory (rākṣasebhyaḥ kapibhyaś ca yair vṛto jayam āptavān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -280,6 +344,12 @@ title = "०३९ सुग्रीव-विभीषणादि-मान�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ ऎल्ल महाबली वानररु मत्तु राक्षसरु श्रीरामचन्द्रनु कॊट्टिरुव आ रत्नगळन्नु तम्म मस्तक मत्तु भुजगळल्लि धरिसिकॊण्डरु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All those mighty monkeys and rākṣasas (te sarve ... kapi-rākṣasāḥ ... mahābalāḥ) wore the jewels given by Rāma upon their heads and upon their arms (śirobhir dhārayām āsur bāhubhiś ca).
 </details>
 </details>
 
@@ -314,6 +384,16 @@ title = "०३९ सुग्रीव-विभीषणादि-मान�
 
 अनन्तर इक्ष्वाकु नरेश महापराक्रमि, महारथि कमलनयन श्रीरामनु महाबाहु हनुमान् हागू अङ्गदरन्नु तॊडॆयल्लि कुळ्ळिरिसिकॊण्डु सुग्रीवनल्लि हीगॆ हेळिदनु- सुग्रीवने! अङ्गदनु निन्न सुपुत्रनागिद्दानॆ. पवनकुमार हनुमन्तनु मन्त्रि. वानरराजने! इवरिब्बरू ननगॆ मन्त्रिगळ कॆलस माडुत्तिद्दरु हागू सदा नन्न हितसाधनॆयल्ले तॊडगिरुत्तिद्दरु. अदक्कागि विशेषवागि निन्निन्दागि इवरु नन्निन्द विविध आदर सत्कार हागू उडुगॊरॆ पडॆयलु योग्यरागिद्दारॆ.॥16-18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** And that great chariot-warrior, sovereign of the Ikṣvākus, the valiant one (nṛpatir ikṣvākūṇāṃ mahārathaḥ ... vīryavān), lifting both Hanūmān and the mighty-armed Aṅgada onto his lap (hanūmantaṃ ... aṅgadaṃ ca ... aṅkam āropya),
+
+**17:** lotus-eyed Rāma (rāmaḥ kamala-patrākṣaḥ) spoke these words to Sugrīva: “This noble son of yours, Aṅgada (aṅgadas te suputro ’yam), and your counselor, the son of the Wind (mantrī cāpy anilātmajaḥ),
+
+**18:** “both devoted to your royal counsel, O Sugrīva (sugrīva mantrite yuktau), and intent upon my welfare as well (mama cāpi hite ratau), truly deserve manifold honor (arhato vividhāṃ pūjām) on your account, O lord of monkeys (tvat-kṛte vai harīśvara)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +421,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि महायशस्वी श्रीरामनु तन्न मैमेलिन्द बहुमूल्य आभूषण तॆगॆदु अदन्नु अङ्गद हागू हनुमन्तरिगॆ तॊडिसिदनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the greatly renowned one (mahāyaśāḥ) unfastened priceless ornaments from his own limbs (vyavamucyāṅgād bhūṣaṇāni ... mahārhāṇi) and personally bound them then upon Aṅgada and Hanūmān (babandha ... tadāṅgada-hanūmatoḥ).
 </details>
 </details>
 
@@ -394,6 +480,20 @@ _________________
 
 बळिक श्रीरघुनाथनु महापराक्रमि वानर सेनापतिगळाद नील, नळ, केसरी, कुमुद, गन्धमादन, सुषेण, पनस, वीरमैन्द, द्विविद, जाम्बवन्त, गवाक्ष, विनत, धूम्र, बलिमुख, प्रजङ्घ, महाबलि सन्नाद, दधिमुख, दरीमुख मत्तु इन्द्रजानु इवरन्नु करॆदु अवरन्नु कण्णुगळिन्दले कुडिदुबिडुवनो ऎम्बन्तॆ नोडिदनु. अवनु स्नेहयुक्त मधुर वाणियिन्द अवरल्लि हेळिदनु - वानर वीररे! नीवु ननगॆ सुहृद, शरीर मत्तु सहोदररागिद्दीरि. नीवे नन्नन्नु सङ्कटदिन्द ऎत्तिरुविरि. निम्मन्तह श्रेष्ठ सुहृदरन्नु पडॆदु सुग्रीवराजनु धन्यनागिद्दानॆ.॥20-24॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** And addressing those bulls among troop-leaders of mighty valor (ābhāṣya ca mahāvīryān ... yūthaparṣabhān)—Nīla, Nala, Kesarin, Kumuda, and Gandhamādana,
+
+**21:** Suṣeṇa, the heroic Panasa, Mainda and Dvivida as well, Jāmbavān, Gavākṣa, Vinata, and Dhūmra too,
+
+**22:** Valīmukha, Prajaṅgha, the mighty Sannāda, Darīmukha, Dadhimukha, and the troop-leader Indrajānu—
+
+**23:** sweetly with gentle speech (madhuraṃ ślakṣṇayā vācā), as though drinking them in with his eyes (netrābhyām āpibann iva), [he said]: “You are my friends (suhṛdo me bhavantaś ca), my very body (śarīram), and likewise my brothers (bhrātaras tathā)!
+
+**24:** “By you was I lifted out of calamity (yuṣmābhir uddhṛtaś cāhaṃ vyasanāt), O forest-dwellers (kānanaukasaḥ); blessed indeed is King Sugrīva (dhanyo rājā ca sugrīvaḥ) with you, the foremost of friends (bhavadbhiḥ suhṛdāṃ varaiḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -418,6 +518,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि नरश्रेष्ठ श्रीरामनु अवरिगॆ यथायोग्य आभूषण मत्तु बहुमूल्य रत्नादिगळन्नु कॊट्टु, अवरन्नु अप्पिकॊण्डनु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, that bull among men (nararṣabhaḥ) bestowed upon them ornaments according to rank (bhūṣaṇāni yathārhataḥ) as well as priceless diamonds (vajrāṇi ca mahārhāṇi), and embraced them (sasvaje).
 </details>
 </details>
 
@@ -447,6 +553,12 @@ _________________
 
 जेनिनन्तह पिङ्गळ वर्णवुळ्ळ आ वानररु अल्लि मधु सेविसुत्ता, राजभोग वस्तुगळन्नु अनुभविसुत्ता, स्वादिष्ट फल-मूलगळन्नु तिन्नुत्तिद्दरु.॥26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Drinking fragrant honey-wines (pibantaḥ sugandhīni madhūni), those honey-tawny heroes (madhu-piṅgalāḥ) [partook of] delicious meats (māṃsāni ca sumṛṣṭāni), roots, and fruits (mūlāni ca phalāni ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -472,6 +584,12 @@ _________________
 
 हीगॆ वासिसुत्ता वानररु ऒन्दु तिङ्गळिगिन्तलू हॆच्चु समय कळॆयितु. आदरू श्रीरामन कुरितु इरुव भक्तियिन्दागि अष्टु समय ऒन्दु मुहूर्तदन्तॆ कण्डितु.॥27॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As they dwelt thus, a full month and more passed by (evaṃ teṣāṃ nivasatāṃ māsaḥ sāgro yayau tadā); yet out of devotion to Rāma (rāma-bhaktyā), they all deemed it like a single moment (muhūrtam iva te sarve ... menire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -496,6 +614,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनू कूड कामरूपिगळाद वानररॊन्दिगॆ, महापराक्रमि राक्षसरॊन्दिगॆ हागू महाबली करडिगळॊन्दिगॆ आनन्ददिन्द समय कळॆयुत्तिद्दनु.॥28॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma too delighted in their company (rāmo ’pi reme taiḥ sārdham)—with the shape-shifting monkeys (vānaraiḥ kāma-rūpibhiḥ), the rākṣasas of mighty valor (rākṣasaiś ca mahāvīryaiḥ), and the mighty bears (ṛkṣaiś caiva mahābalaiḥ).
 </details>
 </details>
 
@@ -536,6 +660,14 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तरकाण्डदल्लि मूवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥39॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** Thus for those joyful monkeys and rākṣasas everywhere (vānarāṇāṃ prahṛṣṭānāṃ rākṣasānāṃ ca sarvaśaḥ), the second month of the cool season passed happily away (yayau māso dvitīyaḥ śiśiraḥ sukham).
+
+**30:** For them, enjoying supreme delight in the lovely city of the Ikṣvākus (ikṣvāku-nagare ramye parāṃ prītim upāsatām), time glided blissfully by amid Rāma’s tokens of affection (rāmasya prīti-karaṇaiḥ kālas teṣāṃ sukhaṃ yayau).
 </details>
 </details>
 

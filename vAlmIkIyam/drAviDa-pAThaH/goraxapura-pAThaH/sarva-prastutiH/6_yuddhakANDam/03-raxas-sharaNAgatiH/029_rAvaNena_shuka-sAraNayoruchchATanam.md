@@ -60,6 +60,18 @@ back Lanka.
 
 शुकनु हेळुत्तिद्दन्तॆ रावणनु समस्त सेनापतिगळन्नू, श्रीरामन बलगैयन्तिद्द महापराक्रमि लक्ष्मणनन्नु, श्रीरामन बळियल्लि कुळितिरुव तन्न तम्म विभीषणनन्नू, वानरर राजनाद भयङ्कर पराक्रमि सुग्रीवनू, इन्द्रपुत्र वालिय पुत्र बलवन्त अङ्गदनन्नु, बल-विक्रमशाली हनुमन्तनन्नू, दुर्जयवीर जाम्बवन्तनन्नू, सुषेण, कुमुद, नील, वानर श्रेष्ठ नळनन्नू, गज, गवाक्ष, शरभ, मैन्द-द्विविदरन्नु नोडिदनु.॥1-4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Having beheld those monkey troop-commanders (hariyūthapān) pointed out by Śuka (śukena tu samādiṣṭān), as well as Lakṣmaṇa of mighty valor, the right arm of Rāma (bhujaṃ rāmasya dakṣiṇam),—
+
+**2:** —and his brother Vibhīṣaṇa standing near Rāma (samīpasthaṃ ca rāmasya), and Sugrīva of terrible valor, the king of all the Vānaras (sarvavānararājam),—
+
+**3:** —and the mighty Aṅgada, grandson of the thunderbolt-wielding Indra (vajrahastātmajātmajam), and the valorous Hanūmān, and the invincible Jāmbavān (jāmbavantaṃ ca durjayam),—
+
+**4:** —along with Suṣeṇa, Kumuda, Nīla, and Nala, that bull among leapers (plavagarṣabham), and Gaja, Gavākṣa, Śarabha, Mainda, and Dvivida as well,—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +130,12 @@ excellent of monkeys, Gaja, Gavaksha, Sharabha, Mainda and Dvivida- that Ravana 
 agitated a little, was enraged and then abused those two heroes Shuka and Sarana who had completed
 their report.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Rāvaṇa, his heart somewhat agitated (kiṃcid āvignahṛdayaḥ) and his wrath aroused (jātakrodhaś ca), upbraided (bhartsayāmāsa) those two heroes, Śuka and Sāraṇa, at the close of their report (kathānte).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +181,12 @@ faces bent donw; *vaachaa* = in a voice; *roSagadgadayaa* = choked in anger;
 
 Ravana spoke (the following) excited and harsh words, in a voice choked in anger to
 Shuka and Sarana who stood saluting with their faces bent down.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To those two, Śuka and Sāraṇa, who stood bowed with downcast faces (adhomukhau tau praṇatau), he spoke angry and harsh words (saṃrabdhaṃ paruṣaṃ tathā) in a voice choked with rage (roṣagadgadayā vācā):
 </details>
 </details>
 
@@ -210,6 +234,12 @@ who has the power; *nigrahe* = to mete out punishment; *pragrahe* = or reward.
 "It is not befitting to utter unpleasant words by dependent ministers to their king
 who has the power to mete out any punishment or reward."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely it is not at all befitting (na tāvat sadṛśaṃ nāma) for dependent ministers (sacivair upajīvibhiḥ) to speak what is displeasing to a king (vipriyaṃ nṛpateḥ) who has the power to punish and to reward (nigrahe pragrahe prabhoḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -255,6 +285,12 @@ adverse to us; *abhivartataam* = and who are coming; *yuddhartham* = for war;
 
 "Is it proper for both of you to shower irrelevant praise on our enemies who are
 adverse to us and are approaching for a war?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Is it indeed befitting (sadṛśaṃ nāma) for the two of you to utter out of season (aprastave) the praise of hostile foes (ripūṇāṃ pratikūlānāṃ stavam) who are marching forth for battle (yuddhārtham abhivartatām)?
 </details>
 </details>
 
@@ -305,6 +341,12 @@ feet; *aachaaryaaH* = of your elders; *guravaH* = and your preceptors;
 
 "In vain have you sat at the feet of your elders, your preceptors and the aged,
 since the essence to be followed from political sciences has not been grasped by both of you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In vain have preceptors, elders, and the aged (ācāryā guravo vṛddhāḥ) been waited upon by you two (vṛthā vāṃ paryupāsitāḥ), since the vital essence of royal treatises (sāraṃ yad rājaśāstrāṇām), by which a courtier must live (anujīvyam), has not been grasped (na gṛhyate)!
 </details>
 </details>
 
@@ -357,6 +399,12 @@ is a miracle; aham (that) I; *dharaami* = I am able to retain my sovereignity.
 with ignorance! Being associated with such foolish ministers, it is a miracle that I am still able
 to retain my sovereignty."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Or even if grasped, it has not been understood (gṛhīto vā na vijñātaḥ); you merely bear a load of ignorance (bhāro 'jñānasya vāhyate)! Attended by such foolish counselors (īdṛśaiḥ sacivair mūrkhaiḥ), it is by sheer luck that I still endure (diṣṭyā dharāmy aham)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,6 +451,12 @@ to retain my sovereignty."
 
 "Have you no fear of death that you dare address me thus rudely, I whose tongue that
 you dare tongue dispenses good and evil?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Have you no fear of death (kiṃ nu mṛtyor bhayaṃ nāsti) in speaking harsh words to me (māṃ vaktuṃ paruṣaṃ vacaḥ), whose tongue, as I rule (yasya me śāsataḥ), dispenses weal and woe (prayacchati śubhāśubham)?
 </details>
 </details>
 
@@ -453,6 +507,12 @@ daN^DaparaamR^iSTaaH* = if touched by the royal scepter.
 "Trees may survive in the forest, even if disturbed by fire. But the guilty cannot
 survive, if touched by the royal scepter."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trees in a forest may perchance survive (apy eva tiṣṭhanti pādapāḥ) even after touching fire (dahanaṃ spṛṣṭvā); but offenders touched by the king's rod of punishment (rājadaṇḍaparāmṛṣṭāḥ) do not survive (tiṣṭhante nāparādhinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -498,6 +558,12 @@ miscreants; *satrupakSaprashamsinau* = who are praising the band of enemies.
 
 "If my anger is not softened by the services they rendered earlier, I would have
 killed thse two miscreants who are praising the band of enemies."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I would slay these two wretches (hanyām ahaṃ tv imau pāpau) who praise the enemy's faction (śatrupakṣapraśaṃsinau), were it not that my wrath is softened (mṛdutāṃ vrajet) by their past services (pūrvopakāraiḥ)!
 </details>
 </details>
 
@@ -551,6 +617,12 @@ here; *smaraani* = I am recollectin; *vaam* = your; *upakR^itaani* = services;
 your past services and hence do not wish to kill you. Both of you, who are ungrateful and
 unfaithful towards me, are just as dead to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Begone! Vanish from my presence here (apadhvaṃsata naśyadhvaṃ saṃnikarṣād ito mama)! For I do not wish to slay you two, as I remember your past services (smarāmy upakṛtāni vām); yet as two ingrates (kṛtaghnau dvau) who have turned your backs upon affection for me (mayi snehaparāṅmukhau), you are as good as dead (hatāv eva)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -596,6 +668,12 @@ enlogised; *jayashabdena* = with words of victory.
 
 Hearing Ravana's words, Shuka and Sarana felt ashamed to see Ravana paid obeisance
 to him saying, "Be thou victorious!" and went away.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, those two, Śuka and Sāraṇa, looking upon Rāvaṇa with shame (savrīḍau), saluted him with cries of victory (jayaśabdena pratinandya) and went forth (abhiniḥsṛtau).
 </details>
 </details>
 
@@ -649,6 +727,12 @@ standing nearby (as follows):- upasthaaya = bring; *me* = me; *chaaraan* = spies
 The demon Ravana spoke to Mahodara who was standing nearby as follows: "Bring me the
 spies here quickly."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the night-stalker Daśagrīva spoke to Mahodara, who stood nearby (samīpastham): “Bring spies before me at once (upasthāpaya me śīghraṃ cārān)!” And Mahodara, thus addressed, immediately commanded the spies (śīghram ājñāpayac carān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -673,6 +757,12 @@ spies here quickly."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजन अप्पणॆ पडॆदु गुप्तचररु आगले विजयसूचक आशीर्वाद कॊडुत्ता कैमुगिदु सेवॆयल्लि उपस्थितरादरु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the spies, hastening in accordance with the king's command (pārthivaśāsanāt), arrived and stood before him with joined palms (upasthitāḥ prāñjalayaḥ), having offered greetings with blessings of victory (vardhayitvā jayāśiṣaḥ).
 </details>
 </details>
 
@@ -717,6 +807,12 @@ their desire to see him victorious.
 Hearing those words, Mahodara immediately ordered for the spies. The spies came
 hurriedly as per the orders of the king, paid obeisance to him by joining their palms and
 approached him, having made a complement expressing their desire to see him victorious.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāvaṇa, overlord of the Rākṣasas, spoke these words to those spies (cārān)—trustworthy (pratyāyikān), heroic, steadfast, and free from fear (vigatasādhvasān):
 </details>
 </details>
 
@@ -764,6 +860,12 @@ from fear.
 
 Then, Ravana the king of demons spoke the following words to those spies, who were
 faithful, brave, energetic and free from fear:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Go hence to examine Rāma's strategic resolve (rāmasya vyavasāyaṃ parīkṣitum), and those who are his intimate confidants in counsels (mantreṣv abhyantarā ye 'sya) and have joined him out of affection (prītyā tena samāgatāḥ).
 </details>
 </details>
 
@@ -813,6 +915,12 @@ intimate friends; *asya* = to him; *samaagataaH* = and those who joined;
 regards who are his intimate friends and in respect of those who joined on his side with a liking
 towards him."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How he sleeps, how he keeps watch (kathaṃ svapiti jāgarti), and what he intends to do today (kim adya ca kariṣyati)—having ascertained all this with skill (vijñāya nipuṇaṃ sarvam), you must return with a complete report (āgantavyam aśeṣataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -859,6 +967,12 @@ ought to come; *vijJNaaya* = after acquainting with; *sarvam* = all this;
 "Find out what are his hours of sleeping and waking and what he intends to do next.
 You ought to come here, after acquainting with all this information completely and skillfully."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+An enemy who has been thoroughly reconnoitered through spies (cāreṇa viditaḥ śatruḥ) by wise rulers of the earth (paṇḍitair vasudhādhipaiḥ) is engaged and overthrown in battle with very little effort (svalpena yatnena nirasyate).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -904,6 +1018,12 @@ a little; *yatnena* = of effort.
 
 "An enemy in battle, got known through spies by kings, will be defeated with only a
 little of effort."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saying “So be it!” (tathety uktvā), those delighted spies placed Śārdūla at their head (śārdūlam agrataḥ kṛtvā) and then circumambulated the lord of Rākṣasas (cakruḥ pradakṣiṇam).
 </details>
 </details>
 
@@ -952,6 +1072,12 @@ little of effort."
 Those spies on their part delightfully replied, "May it be so", kept Shardula in
 their front and made their circumambulation clockwise around Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having circumambulated that mighty-souled chief of Rākṣasas (rākṣasasattamam), the spies departed to where Rāma was with Lakṣmaṇa (yatra rāmaḥ salakṣmaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -992,6 +1118,12 @@ with Lakshmana (were there).
 
 Having thus made circumambulation to Ravana the excellent and the distinguished
 demon, the spies went to the place where Rama along with Lakshmana were there.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Going in disguise (pracchannāḥ), they beheld near Mount Suvela (suvelasya śailasya samīpe) Rāma and Lakṣmaṇa together with Sugrīva and Vibhīṣaṇa (sasugrīvavibhīṣaṇau).
 </details>
 </details>
 
@@ -1039,6 +1171,12 @@ Lakshman; *sa sugriiva vibhiiSaNau* = together with Sugreeva and Vibhishana;
 Having gone in a disguised manner, those spies saw Rama and Lakshman together with
 Sugreeva and Vibhishana in the neighbourhood of Mountain Suvela.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As they surveyed that army (prekṣamāṇāś camūṃ tām), they became overwhelmed with fear (babhūvur bhayavihvalāḥ). Then those Rākṣasas were spotted by the righteous-souled lord of Rākṣasas (dharmātmanā dṛṣṭā rākṣasendreṇa),—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1084,6 +1222,12 @@ Vibhishana the Lord of demons; *dharmaatmanaa* = the high-souled.
 
 Seeing that army, those demons became overwhelmed with fear. However, they were
 observed by the high-souled Vibhishana the Lord of demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and standing there, they were seized at once by Vibhīṣaṇa (vibhīṣaṇena nigṛhītā yadṛcchayā); the Rākṣasa Śārdūla alone was handed over for seizure (śārdūlo grāhitas tv ekaḥ) with the words, “This one is a wicked villain (pāpo 'yam iti)!”
 </details>
 </details>
 
@@ -1132,6 +1276,12 @@ seized.
 Accidentally, the deomons there were caught by Vibhishana, who said that the demon
 Shardula among them was wicked and got him alone seized.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even he, as he was being beaten by the monkeys (vadhyamānaḥ plavaṃgamaiḥ), was released by Rāma (mocitaḥ so 'pi rāmeṇa); and out of compassion (ānṛśaṃsyena) the other Rākṣasas too were released by Rāma (mocitā rākṣasāḥ pare).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1178,6 +1328,12 @@ kind man.
 
 That Shardula also, who was going to be killed by the monkeys, was got released by
 Rama. The other demons also were got released by Rama, the kind man.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Harassed by the valorous and swift-striding Vānaras (vānarair arditāḥ), they returned once more to Laṅkā (punar laṅkām anuprāptāḥ), gasping for breath and bereft of their senses (śvasanto naṣṭacetasaḥ).
 </details>
 </details>
 
@@ -1239,6 +1395,12 @@ insensible, heaved a sigh and reached back Lanka.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then those mighty night-stalking spies, who ever roamed abroad (bahirnityacarāḥ), presented themselves before Daśagrīva (daśagrīvam upasthitāḥ) and reported Rāma's host encamped near Mount Suvela (gireḥ suvelasya samīpavāsinaṃ rāmabalaṃ nyavedayan).
 </details>
 </details>
 

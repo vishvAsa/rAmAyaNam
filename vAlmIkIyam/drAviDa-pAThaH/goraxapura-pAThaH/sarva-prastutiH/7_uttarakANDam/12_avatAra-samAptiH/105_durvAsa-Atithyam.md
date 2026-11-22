@@ -36,6 +36,12 @@ title = "१०५ दुर्वास-आतिथ्यम्"
 
 इवरिब्बरल्लि हीगॆ मातुकतॆ नडॆयुत्तिद्दागले, श्रीरामचन्द्रनन्नु काणलु महर्षि दुर्वासरु राजद्वारक्कॆ बन्दरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While those two were thus conversing together (tathā tayoḥ saṃvadatoḥ), the blessed seer Durvāsas (durvāsā bhagavān ṛṣiḥ), desiring a sight of Rāma (rāmasya darśanākāṅkṣī), arrived at the royal gate (rāja-dvāram upāgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "१०५ दुर्वास-आतिथ्यम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ मुनिश्रेष्ठरु सुमित्राकुमारन बळिगॆ होगि हेळिदरु- नीनु शीघ्रवागि नन्नन्नु श्रीरामन भॆट्टिमाडिसु. अवनन्नु नोडदॆ नन्न ऒन्दु कार्य कॆट्टु होगुत्ता इदॆ.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching Saumitri (so ’bhigamya tu saumitrim), that foremost of seers spoke (uvāca ṛṣi-sattamaḥ): “Show me Rāma at once (rāmaṃ darśaya me śīghram), before my errand slips past (purā me ’rtho ’tivartate)!”
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "१०५ दुर्वास-आतिथ्यम्"
 
 मुनिय मातन्नु केळि शत्रुवीररन्नु संहार माडुव लक्ष्मणनु आ महात्मनिगॆ नमस्करिसि हेळिदनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the speech of the sage (munes tu bhāṣitaṃ śrutvā), Lakṣmaṇa, slayer of rival heroes (paravīrahā), bowed in salutation to the great-souled one (abhivādya mahātmānam) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +129,12 @@ title = "१०५ दुर्वास-आतिथ्यम्"
 
 पूज्यरे! निम्म याव कार्यविदॆ? एनु प्रयोजनविदॆ? नानु निम्म याव सेवॆ माडलि? तिळिसिरि. ब्रह्मन्! ईग रघुनाथनु बेरॆ कार्यदल्लि मुळुगिरुवनु, आद्दरिन्द ऎरडु गळिगॆ प्रतीक्षॆ माडिरि.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Say what is to be done, O blessed one (kiṃ kāryaṃ brūhi bhagavan), or what is your errand (ko vā ’rthaḥ), what may I do (kiṃ karomy aham)? For Rāghava is engaged right now, O brahmin (vyagro hi rāghavo brahman)—let a brief moment be awaited (muhūrtaṃ pratipālyatām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,6 +159,12 @@ title = "१०५ दुर्वास-आतिथ्यम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदन्नु केळि मुनिश्रेष्ठ दुर्वासर मनस्सु क्रोधदिन्द कदडिहोयितु. तन्न नेत्राग्नियिन्दले अवनन्नु सुट्टुबिडुवरो ऎन्दु नोडुत्ता हेळिदरु .॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that, the tiger among seers (ṛṣi-śārdūlaḥ), darkened by wrath (krodhena kaluṣīkṛtaḥ), spoke these words to Lakṣmaṇa, scorching him as it were with his gaze (nirdahann iva cakṣuṣā):
 </details>
 </details>
 
@@ -173,6 +203,14 @@ _________________
 
 सुमित्राकुमार! ई क्षणदल्ले श्रीरामनिगॆ नन्न आगमनद सूचनॆ कॊडु. ईगिन्दीगले नानु बन्दिरुव समाचार तिळिसदिद्दरॆ नानु ई राज्यवन्नु, नगरवन्नु, निन्नन्नु, श्रीरामनन्नु, भरतनन्नु मत्तु निम्म सन्ततियन्नु शपिसिबिडुवॆनु. नानु ई क्रोधवन्नु तडॆदुकॊळ्ळलारॆनु.॥6-7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** “At this very instant, O Saumitri, announce me to Rāma (asmin kṣaṇe māṃ saumitre rāmāya prativedaya)! If at this very instant, O Saumitri, you do not announce me (na nivedayase yadi)—
+
+**7:** “—I shall curse your realm, you, and the city too (viṣayaṃ tvāṃ puraṃ caiva śapiṣye), and Rāghava as well, and Bharata too, O Saumitri (bharataṃ caiva saumitre), and whatever progeny is yours (yuṣmākaṃ yā ca santatiḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -197,6 +235,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ महात्मर ई घोरवचनवन्नु केळि लक्ष्मणनु अवर वाणियिन्द प्रकटवागुत्तिद्द निश्चयद कुरितु मनस्सिनल्ले योचिसिदनु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For I shall no longer be able to restrain my fury within my heart (na hi śakṣyāmy ahaṃ bhūyo manyuṃ dhārayituṃ hṛdi)!” Hearing that dread-seeming speech of the great-souled one (ghora-saṅkāśaṃ vākyam), he pondered in his mind the certainty of those words (tasya vākyasya niścayam).
 </details>
 </details>
 
@@ -223,6 +267,12 @@ _________________
 
 नन्नॊब्बन मृत्युवागुवुदु ऒळ्ळॆयदे, आदरॆ ऎल्लर विनाशवागबारदु. हीगॆ तन्न बुद्धियिन्द निश्चयिसि लक्ष्मणनु श्रीरघुनाथनल्लि दुर्वासर आगमनद समाचार निवेदिसिकॊण्डनु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let death be mine alone (ekasya maraṇaṃ me ’stu); let there not be universal destruction (mā bhūt sarva-vināśanam)!” Having thus determined with his intellect (buddhyā viniścitya), he announced him to Rāghava (rāghavāya nyavedayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,6 +297,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मणन मातन्नु केळि राजा श्रीरामनु कालनन्नु बीळ्कॊट्टु कूडले हॊरटु, अत्रिपुत्र दुर्वासरन्नु भॆट्टियादनु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Lakṣmaṇa’s words (lakṣmaṇasya vacaḥ śrutvā), Rāma dismissed Time (kālaṃ visṛjya ca), and stepping forth hastily (nissṛtya tvaritam), the king beheld the son of Atri (atreḥ putraṃ dadarśa ha).
 </details>
 </details>
 
@@ -273,6 +329,12 @@ _________________
 
 तन्न तेजदिन्द प्रज्वलिसुत्तिद्द महात्मा दुर्वासरिगॆ प्रणाम माडि, श्रीरामनु कैमुगिदु केळिदनु - महर्षिये! नन्निन्द याव कार्यवागबेकागिदॆ? आज्ञापिसिरि.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having saluted that great-souled one blazing as it were with splendor (jvalantam iva tejasā), Kākutstha, joining his palms in reverence (kṛtāñjaliḥ), spoke: “What is to be done (kiṃ kāryam)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -298,6 +360,12 @@ _________________
 
 श्रीरघुनाथन मातन्नु केळि प्रभावशाली मुनिवर दुर्वासरु अवनल्लि हेळिदरु - धर्मवत्सलने केळु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words spoken by Rāghava (tad vākyaṃ rāghaveṇoktam), the best of sages, Durvāsas (munivaraḥ ... durvāsāḥ), replied to the lord Rāma (pratyāha ... prabhum): “Listen, O lover of dharma (śrūyatāṃ dharmavatsala)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,6 +390,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनघ रघुनन्दन ! नानु ऒन्दु साविर वर्षगळिन्द उपवास माडिद्देनॆ. इन्दु आ उपवास व्रतद समाप्तिय दिनवागिदॆ. अदक्कागि ईग निम्मल्लि सिद्धविरुव भोजनवन्नु नानु स्वीकरिसलु बयसिद्देनॆ.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today is the completion of my thousand-year austerity (adya varṣa-sahasrasya samāptis tapaso mama); therefore I desire a meal (so ’haṃ bhojanam icchāmi), whatever is ready at hand from you, O sinless one (yathāsiddhaṃ tavānagha)!”
 </details>
 </details>
 
@@ -351,6 +425,12 @@ _________________
 
 इदन्नु केळि राजा श्रीरामनु मनस्सिनल्ले सन्तोषगॊण्डु, आ मुनिश्रेष्ठरिगॆ सिद्धवाद भोजनवन्नु बडिसिदनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words, King Rāghava, pleased in mind (rājā rāghavaḥ prīta-mānasaḥ), offered to that foremost of sages (muni-mukhyāya) a meal just as it was prepared (yathāsiddham upāharat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,6 +455,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ अमृतमय अन्न स्वीकरिसि दुर्वास मुनिगळु तृप्तरागि, श्रीरामनिगॆ साधुवाद हेळुत्ता तन्न आश्रमक्कॆ हॊरटु होदरु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having eaten that nectar-like food (bhuktvā ... tad annam amṛtopamam), the best of sages addressed him with “Well done, Rāma!” (sādhu rāmeti sambhāṣya) and departed to his own hermitage (svam āśramam upāgamat).
 </details>
 </details>
 
@@ -401,6 +487,12 @@ _________________
 
 मुनिवर दुर्वासरु तम्म आश्रमक्कॆ हॊरटु होद मेलॆ लक्ष्मणाग्रज श्रीरामनु कालन मातन्नु स्मरिसि दुःखियादनु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that foremost of sages had gone to his own hermitage (tasmin gate munivare svāśramam), Lakṣmaṇa’s elder brother recalled the words of Time (saṃsmṛtya kāla-vākyāni) and thereupon fell into grief (tato duḥkham upāgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -425,6 +517,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भयङ्कर भावी भ्रातृवियोगद दृश्यवु कण्णिगॆ कट्टुव कालन मातिन कुरितु विचार माडि श्रीरामन मनस्सिनल्लि भारी दुःखवायितु. तलॆतग्गि होगि, बायिन्द माते हॊरडलिल्ल.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deeply scorched by sorrow (duḥkhena ca susantaptaḥ) as he remembered that dread decree (smṛtvā tad ghora-darśanam), downcast in face and dejected in mind (avāṅmukho dīna-manāḥ), he could not utter a word (vyāhartuṃ na śaśāka ha).
 </details>
 </details>
 
@@ -464,6 +562,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि नूरऐदनॆय सर्ग पूर्णवायितु. ॥105॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having thoroughly weighed the words of Time with his intellect (buddhyā viniścitya kāla-vākyāni), and concluding “This is no more” (naitad astīti niścitya), the greatly renowned Rāghava sat in silence (tūṣṇīm āsīn mahāyaśāḥ).
 </details>
 </details>
 

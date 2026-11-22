@@ -67,6 +67,12 @@ spoke - replied.
 Rama, the best proponent of probity, happily embraced Sugreeva with both of his arms and replied him who is speaking
 in this way suppliantly adjoining palms at Rama. [3-39-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing with both arms Sugrīva, who was speaking thus with joined palms (kṛtāñjalim), Rāma, best of upholders of righteousness (dharmabhṛtāṃ varaḥ), replied:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -130,6 +136,14 @@ bhaviSyati* = no, wonder, it will be.
 or if the moon makes night shiny with his moonshine, so also oh, gentle one, if a true-friend of your kind gladdens
 his indigent-friend, there is no wonder. [3-39-2, 3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** ‘That Indra rains down rain (varṣate varṣam) will be no matter of wonder (na tac citram); that yonder thousand-rayed sun makes the sky free of darkness (vitimiram);
+
+**3:** ‘that the moon by its lustre renders the night spotless (nirmalām), O gentle one; or that one like you (tvadvidhaḥ) brings joy to his friends, O scorcher of foes—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -177,6 +191,12 @@ vaadinam* = always, as affability, exponent of; *aham jaanaami* = I am, aware of
 the worthwhile, will not be a wonder but natural. I am aware that you have always been the exponent of affability.
 [3-39-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘even so, that such noble conduct (śobhanam) abides in you is no matter of wonder, O gentle one; I know you, O Sugrīva, to be ever a speaker of kindly words (priyavādinam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -222,6 +242,12 @@ worthy of you.
 
 "With you as the helmsman, oh, friend, I will be triumphing over all the enemies, and you alone are worthy to
 proffer a helping hand to me as a good-hearted friend of mine. [3-39-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Having you as my ally (tvatsanāthaḥ), O friend, I shall conquer all my enemies in battle (saṃkhye); you yourself, my loving friend (suhṛn mitram), ought to render me assistance.
 </details>
 </details>
 
@@ -281,6 +307,12 @@ Indra infuriated at Puloma, the father of Sachi Devi, for making the abduction p
 got a name Pulomajit.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘To his own destruction (ātmavināśāya) did that vilest of Rākṣasas carry off Maithilī by deceit (vañcayitvā), just as Anuhlāda carried off Śacī, daughter of Puloman (paulomīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -328,6 +360,12 @@ with sharp, arrows, I wish to eliminate.
 when he eliminated the insolent father of Sachi Devi, namely Puloma." Thus Rama is about to tell other things
 to Sugreeva, but... [3-39-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Before long (nacirāt) I shall slay that Rāvaṇa with sharpened arrows, just as Śatakratu, slayer of foes, slew the arrogant father of Paulomī (paulomyāḥ pitaram)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -356,6 +394,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीराम और सुग्रीवमें जब इस प्रकार बातें हो रही थीं, उसी समय बड़े जोरकी धूल उठी, जिसने आकाशमें फैलकर सूर्यकी प्रचण्ड प्रभाको ढक दिया ॥ ८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the meantime (etasminn antare), a cloud of dust (rajaḥ) rose up on all sides, obscuring in the sky the hot, fierce radiance of the thousand-rayed sun (sahasrāṃśoḥ).
 </details>
 </details>
 
@@ -417,6 +461,12 @@ with, mountains, woods, forests; *sarvaa mahii ca* = entire, earth, also; *cacaa
 Stained with that darkness the directions are confounded, and the entire earth together with its mountains, woods,
 and forests has wobbled. [3-39-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the meantime (etasminn antare), a cloud of dust (rajaḥ) rose up on all sides, obscuring in the sky the hot, fierce radiance of the thousand-rayed sun (sahasrāṃśoḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -441,6 +491,12 @@ and forests has wobbled. [3-39-9]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर पर्वतदन्तॆ शरीरवुळ्ळ, तीक्ष्ण कोरॆदाडॆगळुळ्ळ असङ्ख्य महाबलि वानररिन्द अल्लिय ऎल्ल भूमियु तुम्बिहोयितु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the entire earth was covered over (saṃchāditā) by countless leapers of mighty strength and sharp fangs (tīkṣṇadaṃṣṭraiḥ), resembling lordly mountains (nagendrasaṃkāśaiḥ)—
 </details>
 </details>
 
@@ -467,6 +523,12 @@ and forests has wobbled. [3-39-9]
 
 रॆप्पॆ मिटुकुवष्टरल्लि अर्बुद वानररिन्द सुत्तुवरिद अनेकानेक यूधपतिगळु अल्लिगॆ बन्दु सेरि आ भूभागवॆल्लवन्नू तुम्बि होयितु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+within the mere blink of an eye (nimeṣāntaramātreṇa), by those monkey troop-leaders (hariyūthapaiḥ), by monkeys and monkey commanders attended by retinues of hundreds of crores (koṭīśataparīvāraiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -491,6 +553,12 @@ and forests has wobbled. [3-39-9]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नदी, पर्वत, वन, समुद्र हीगॆ ऎल्ल स्थानगळ निवासि वानररु अल्लि नॆरॆदरु. अवरु मेघ गर्जनॆयन्तॆ गट्टियागि सिंहनाद माडुत्तिद्दरु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+by mighty monkeys dwelling by rivers (nādeyaiḥ), on mountains (pārvateyaiḥ), and along the oceans (sāmudraiḥ), thundering like clouds (meghanirhrādaiḥ), and by others inhabiting the forests,
 </details>
 </details>
 
@@ -550,6 +618,12 @@ place of nightly moon, and the colour of skin looking like lotus-fibrils of many
 from fertile watery lands, and the snow-white complexion of yet some more indicates that the dwelling place of
 those monkeys is Mt. Meru. [3-39-10, 11, 12, 13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and by monkeys colored like the newly risen sun, pale-gleaming as the moon (śaśigauraiḥ), hued like lotus filaments (padmakesaravarṇaiḥ), and white, who had made their abodes on the Golden Mountain [Meru].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -596,6 +670,12 @@ a dR^ishyata]* = = came into view - by Rama and others.
 In the meantime the arrival of a distinguished and valorous vanara named Shatabali, hemmed in with ten thousand
 crores of vanara-s, came into the view of Rama and others. [3-39-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded then by ten thousand crores (koṭīsahasrair daśabhiḥ), the glorious, heroic monkey named Śatabali came into view (pratyadṛśyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -640,6 +720,12 @@ of crores; *an ekaiH* = with not one, with multitudinous monkeys; *pratyadR^ishy
 
 Sushena, the father of Lady Tara, a valorous one with the sheen of golden mountain then appeared with very many
 thousands of crores of vanara-s. [3-39-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Next, the valiant father of Tārā [Suṣeṇa], gleaming like a mountain of gold (kāñcanaśailābhaḥ), came into view attended by many thousands of crores.
 </details>
 </details>
 
@@ -686,6 +772,12 @@ saahasreNa samanvitaH* = of crores, a thousand, followed by - monkey troops; *sa
 
 Like that the most efficient vanara-chief Taara, the father of Ruma and Sugreeva's father-in-law, turned up with
 another thousand crores of vanara-s following him. [3-39-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accompanied likewise by another thousand crores, the mighty father of Rumā [Tāra], father-in-law of Sugrīva (sugrīvaśvaśuraḥ), arrived—
 </details>
 </details>
 
@@ -748,6 +840,14 @@ Honourable Kesari, the father of Hanuma, with his bodily gleam like that of the 
 glittering in the gleam of nascent sun, and who is an intellectual, graceful and prominent vanara among all the
 vanara-s, then came into view associated with thousands and thousands of armies of vanara-s. [3-39-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** resembling lotus filaments in hue (padmakesarasaṃkāśaḥ), with a face bright as the young sun, wise, foremost of monkeys, best of all Vānaras.
+
+**18:** Accompanied by many thousands [of crores] of monkeys, the glorious Kesarī, father of Hanūmān (pitā hanumataḥ), came into view.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -793,6 +893,12 @@ mahaaraajaH* = baboons, sovereign; *bhiima vikramaH* = formidably, adventurous o
 Gavaaksha, the formidably adventurous sovereign of baboons is then seen encircled by a thousand crore vanara-s.
 [3-39-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gavākṣa of formidable valor, great king of the cow-tailed golāṅgūla apes (golāṅgūlamahārājaḥ), came into view surrounded by a thousand crores of monkeys.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -831,6 +937,12 @@ Gavaaksha, the formidably adventurous sovereign of baboons is then seen encircle
 
 Dhuumra, the enemy destroyer, marched to the fore of Rama and others surrounded with two thousand crores of bears
 which have frightful fastness. [3-39-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dhūmra, destroyer of foes (śatrunibarhaṇaḥ), approached surrounded by two thousand crores (koṭisahasrābhyāṃ dvābhyām) of bears of terrible speed.
 </details>
 </details>
 
@@ -877,6 +989,12 @@ up.
 
 The highly valorous commander named Panasa has then arrived attended by a three crore legion of horrendous vanara-s
 who are beaming forth like gigantic mountains. [3-39-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The troop-commander named Panasa of great prowess arrived, surrounded by three crores (tisṛbhiḥ koṭibhiḥ) of formidable [monkeys] resembling great mountains.
 </details>
 </details>
 
@@ -927,6 +1045,12 @@ view.
 Commander Niila has then come into view with his colossal and blackish mascara mound-like body encircled by ten
 crores of vanara-s that are selfsame to their leader. [3-39-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This huge-bodied troop-commander named Nīla, shaped like a mass of dark collyrium (nīlāñjanacayākāraḥ), came into view surrounded by ten crores.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -971,6 +1095,12 @@ crores of vanara-s that are selfsame to their leader. [3-39-22]
 
 Then the great-mighty commander named Gavaya whose bodily sheen is like that of a golden mountain has come forth
 surrounded by five crores of vanara-s. [3-39-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the troop-commander named Gavaya of great valor, gleaming like a mountain of gold (kāñcanaśailābhaḥ), arrived surrounded by five crores.
 </details>
 </details>
 
@@ -1020,6 +1150,12 @@ aa yayau]* = came nigh of; *sugriivam sam upa sthitaH* = to Sugreeva, verily, ne
 Dariimukha, the mighty commander then came along with a thousand crore vanara-s and he stayed nearby Sugreeva
 drawing nigh of him. [3-39-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the mighty troop-commander Darīmukha arrived then, surrounded by a thousand crores, and stationed himself beside Sugrīva (sugrīvaṃ samavasthitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1066,6 +1202,12 @@ dvividaH ca* = Mainda, also, Dvivida, also; *ubhau* = two of them; *vaanaraaNaam
 Both Mainda and Dvivida, the great-mighty sons Ashvini-twin gods have then appeared, each with a thousand crore
 vanara-s. [3-39-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Both Mainda and Dvivida, the two mighty sons of the Aśvins (aśviputrau), came into view attended by a thousand crores of crores (koṭikoṭisahasreṇa) of monkeys.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1110,6 +1252,12 @@ aajagaama* = to Sugreeva's, nearby, came forth.
 
 The mighty, braving and highly resplendent Gaja came forth to the near of Sugreeva encompassed by three crores
 of vanara-s. [3-39-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the mighty hero Gaja of great splendor arrived in the presence of Sugrīva, surrounded by three crores (tisṛbhiḥ koṭibhiḥ).
 </details>
 </details>
 
@@ -1156,6 +1304,12 @@ one; *R^iksha raajaH* = bears, king; *dashabhiH koTibhiH* = ten, crores - of bea
 A great resplendent one who is renowned by his name Jambavanta has then come with a brigade of ten crore bears
 spreading around him and stood firm under the control of Sugreeva. [3-39-27]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The king of bears (ṛkṣarājaḥ) of great splendor, Jāmbavān by name, encompassed by ten crores (koṭibhir daśabhir vyāptaḥ), stood at Sugrīva's command.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1200,6 +1354,12 @@ hundred, along with; *tuurNam aagataH* = swiftly, came.
 
 A blaze-like mighty vanara named Rumana came swiftly surrounded with a hundred crore legion of vanara-s who are
 highly venturesome. [3-39-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The radiant and mighty Rumaṇa by name, surrounded by valiant monkeys, arrived swiftly encompassed by a hundred crores (koṭīśatasamāvṛtaḥ).
 </details>
 </details>
 
@@ -1248,6 +1408,12 @@ also; *haribhiH* = with vanara-s; *pR^iSThataH anugataH* = at behind, followed b
 
 Gandhamaadana has then arrived while ten thousand crores and hundred thousand crores of monkeys are following
 him at his behind. [3-39-29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Gandhamādana arrived, followed behind (pṛṣṭhato 'nugataḥ) by a hundred thousand times a thousand crores of monkeys.
 </details>
 </details>
 
@@ -1298,6 +1464,12 @@ Angada, the crown prince of Kishkindha, who matches his father Vali in valour ha
 padma legions and a hundred shanku legions of vanara-s.
 [3-39-30]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Crown Prince Aṅgada (yuvarājo 'ṅgadaḥ), equal in valor to his father (pitus tulyaparākramaḥ), arrived surrounded by a thousand padmas and a hundred śaṅkus.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1345,6 +1517,12 @@ monkey, crores; *duurataH* = at a distance; *pratyadR^ishyata* = has appeared.
 
 Tara, the vanara-commander, whose sparkle is as that of stars and whose valour is remarkable then appeared at
 a distance with five crore monkeys. [3-39-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Tāra, radiant as the stars (tārādyutiḥ), was seen from afar (dūrataḥ paryadṛśyata) with five crores of monkeys of formidable valor.
 </details>
 </details>
 
@@ -1395,6 +1573,12 @@ yuuthapaH* = very bold, commander; *indrajaanuH kapiH* = Indrajaanu, [named] mon
 Indrajaanu, the brave monkey commander who is the chief of eleven crores of monkeys has appeared then encompassed
 by selfsame vanara troopers. [3-39-32]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The wise and heroic troop-commander Indrajānu (indrajānuḥ kavir vīraḥ), lord of eleven crores (ekādaśānāṃ koṭīnām īśvaraḥ), came into view surrounded by them.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1439,6 +1623,12 @@ by selfsame vanara troopers. [3-39-32]
 
 Rambha whose bodily glow is like that of tender-sun has then come forth fenced in a thousand plus a hundred of
 aayuta-s of vanara legions. [3-39-33]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Next arrived Rambha, resembling the newly risen sun (taruṇādityasaṃnibhaḥ), surrounded by ten thousand (ayutena), a thousand, and a hundred.
 </details>
 </details>
 
@@ -1488,6 +1678,12 @@ _________________
 A braving and powerful legion commander of vanara-s named Durmukha has then appeared encompassed with two crores
 of vanara-s. [3-39-34]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the mighty, heroic troop-commander, the monkey named Durmukha, came into view surrounded by two crores (koṭībhyāṃ dvābhyām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1533,6 +1729,12 @@ bhiima vikramaiH* = of formidable, bravery; *koTi sahasreNa* = crore, thousand; 
 Then Hanuma appeared with a thousand crore vanara-s encompassing him who in shape are like the summits of Mt.
 Kailash and whose bravery is formidable. [3-39-35]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by a thousand crores of monkeys of formidable valor, shaped like the peaks of Kailāsa (kailāsaśikharākāraiḥ), Hanūmān came into view.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1577,6 +1779,12 @@ Kailash and whose bravery is formidable. [3-39-35]
 
 Highly vigorous Nala has also arrived while he is surrounded with a hundred crore one thousand and one hundred
 monkeys, the dwellers on trees. [3-39-36]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Nala of great valor (nalaś cāpi mahāvīryaḥ), surrounded by tree-dwelling monkeys (drumavāsibhiḥ), arrived with a hundred crores, a thousand, and a hundred.
 </details>
 </details>
 
@@ -1625,6 +1833,12 @@ to that, great-souled one, to Sugreeva; *sampraaptaH* = arrived.
 
 Dadhimukha, the salutary vanara-chief then arrived at the near of that great-souled Sugreeva encircled by a ten
 crore vanara-s who are all blaring highly. [3-39-37]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then glorious Dadhimukha, surrounded by ten crores, arrived roaring (abhinadan) into the presence of that high-souled Sugrīva.
 </details>
 </details>
 
@@ -1682,6 +1896,14 @@ Sharabha, Kumuda, Vahni, also even Ramha, these and many other vanara-s have com
 And many of those other commanders who have presented themselves along with their troops, overspreading the earth
 inclusive of its mountains and forests, their count is unknown. [3-39-38, 39]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**38:** Śarabha, Kumuda, Vahni, and the monkey Raṃha [or Rambha]—these and many other monkeys capable of assuming any form at will (kāmarūpiṇaḥ),
+
+**39:** covering the entire earth (āvṛtya pṛthivīṃ sarvām), the mountains, and the forests, troop-commanders arrived whose number cannot be reckoned (yeṣāṃ saṃkhyā na vidyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1737,6 +1959,12 @@ before, they moved,] presented themselves before Sugreeva.
 All those fly-jumpers arrived by swinging, flying and thundering, and all of the monkeys on earth have arrived
 thus, presented themselves and settled down around Sugreeva as if a number of clouds are cramming the sun. [3-39-40]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All the monkeys upon the earth had arrived and encamped (niviṣṭāś ca); leaping up (āplavantaḥ), bounding along (plavantaś ca), and roaring, the leapers gathered around Sugrīva like masses of clouds around the sun (sūryam abhragaṇā iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1784,6 +2012,12 @@ While arriving those monkeys made many a hue and cry of war, and those outstandi
 a pair of their own arms have informed the vanara king Sugreeva about their arrival by tilting up their heads
 as in roll-call or in headcount. [3-39-41]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raising manifold shouts (bahuśabdāṃś ca), those preeminent, mighty-armed monkeys announced themselves (nyavedayan) to Sugrīva, lord of monkeys, by bowing their heads (śirobhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1828,6 +2062,12 @@ tadaa* = then; *praanjalayaH sthitaaH* = with palms-adjoined, stayed behind.
 
 As befitting to them the other vanara leaders have come together to meet Sugreeva, and on their meeting with Sugreeva
 then they stayed behind with their palms adjoined. [3-39-42]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Other foremost monkeys, having assembled as was fitting (yathocitam) and met with Sugrīva, stood there with joined palms (prāñjalayaḥ).
 </details>
 </details>
 
@@ -1874,6 +2114,12 @@ vanara-s, prominent ones; *raame* = to Rama; *nivedayitvaa* = having informed ab
 
 Then Sugreeva, the knower of rectitude, promptly informed about all of those paramount monkeys to Rama as to who
 is who, and staying with folded palms he addressed the forgathered monkey chiefs. [3-39-43]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having swiftly presented (nivedayitvā) all those bulls among monkeys to Rāma, Sugrīva, knower of righteousness, stood with joined palms and spoke:
 </details>
 </details>
 
@@ -1951,5 +2197,11 @@ mathematics: liilaavatii gaNita shaastre siddhanta shiromaNe -
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥39॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘O lords of monkeys, having duly encamped (niveśayitvā vidhivat) your forces at ease beside the mountain cascades and throughout all the forests, let each knower of his troop's strength (balajñaḥ) be ready to muster and review his force (balaṃ pratipattum īṣṭe) [or: you, O Rāma, knower of martial strength, are now master to take command of the army].’
 </details>
 </details>

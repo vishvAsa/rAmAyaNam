@@ -69,6 +69,12 @@ apadyata* = not, in turn, he derived, - find another reply.
 That great vanara king Vali who is sprawling agonised by arrow, and to whom Rama gave a reply with well-reasoned
 words did not find any other reply to be given to Rama. [4-19-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lying there tormented by the arrow (śayānaḥ śarapīḍitaḥ), that great king of monkeys (vānaramahārājaḥ), though answered with well-reasoned words (pratyukto hetumadvākyaiḥ), made no further reply (nottaraṃ pratyapadyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +121,12 @@ the time of breathing last, fainted.
 He who is heavily thrashed with trees, whose limbs are variously cracked with boulders, and whom Rama's
 arrow finally vanquished, that Vali fainted at the time of his breathing his last. [4-19-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His limbs mangled by boulders (aśmabhiḥ paribhinnāṅgaḥ), fiercely battered by trees (pādapair āhato bhṛśam), and overcome by Rāma's arrow (rāmabāṇena cākrāntaḥ), he swooned at the close of his life (jīvitānte mumoha saḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -157,6 +169,12 @@ Tara, wife of Vali, heard that the tigerly monkey Vali perished in fight by the 
 
 This is also said as 'by the salvation accorded by Rama through his arrow...' *raama datten shara
 moksheNa*, but it is said to be a squeezed meaning according to the style of old Sanskrit.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His wife Tārā heard (bhāryā tārā śuśrāva) that Vālin, that tiger among leapers (plavagaśārdūlam), had been slain in battle by the discharge of an arrow loosed by Rāma (bāṇamokṣeṇa rāmadattena).
 </details>
 </details>
 
@@ -204,6 +222,12 @@ cave - say Kishkindha; *niSpapaata* = fell out - rushed out.
 
 On hearing the very gruesome killing of her husband that is unpleasant, she is highly anguished and
 rushed out of Kishkindha along with Angada. [4-19-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the unwelcome and most dreadful slaying of her husband (apriyaṃ śrutvā vadhaṃ bhartuḥ sudāruṇam), she, together with her son (saputrā), rushed forth in great agitation from that mountain cave (niṣpapāta bhṛśaṃ tasmād udvignā girikandarāt).
 </details>
 </details>
 
@@ -254,6 +278,12 @@ quickly, fled.
 On seeing Rama with bow those very mighty vanara-s that form the escort of Angada are scared to death,
 and they very quickly fled from there towards Kishkindha. [4-19-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those mighty monkeys who formed Aṅgada's escort (ye tv aṅgadaparīvārā vānarā hi mahābalāḥ), catching sight of Rāma with his bow (sakārmukam ālokya rāmam), fled in terror (trastāḥ pradudruvuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -303,6 +333,12 @@ wandered off; *mR^igaan iva* = animal, like; *hariin dadarsha* = monkeys, she sa
 Then on her way towards field of combat she saw the monkeys that are frightened and fleeing in disorder,
 like those animals that have wandered off from their herd when their master is killed. [4-19-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She then beheld the terrified monkeys rushing headlong (trastān harīn āpatato drutam), like deer scattered from their herd (yūthād eva paribhraṣṭān mṛgān) when their herd-leader has been slain (nihatayūthapān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +386,12 @@ Nearing those monkeys that are already distressed at the fall of Vali, and that 
 by Rama, and that are fleeing as though Rama's arrow is still tracking them down, Tara spoke to all
 of them, distressed as she is. [4-19-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching all those distressed monkeys (duḥkhitān), who were terrified of Rāma (rāmavitrāsitān) and seemed as if pursued at their heels by arrows (anubaddhān iveṣubhiḥ), that virtuous and grieving lady spoke to them (tān uvāca):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -389,6 +431,12 @@ ones [woebegone, in desperation]; *kasmaat dravata* = what for, you run away.
 
 "Oh! Vanara-s, what for you are running away in utter fright and desperation, leaving off your best
 king to whom all of you are ushers?" Thus Tara enquired with the monkeys. [4-19-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O monkeys, why do you abandon that lion among kings whose vanguard you were (rājasimhasya yasya yūyaṃ puraḥsarāḥ), and flee in utter terror, reduced to such a plight (kasmād dravata durgatāḥ)?
 </details>
 </details>
 
@@ -448,6 +496,12 @@ It may be correct to use 'whether' because it ensues 'not' and also as an altern
 And 'if' is used it is 'if of ignorance' but not 'of certainty' or 'of chance'. Anyway she is interested
 in information and orderliness of monkeys.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If for the sake of the kingdom that brother has been felled by his cruel brother (sa ced bhrātā bhrātrā krūreṇa pātitaḥ) through far-flying arrows shot from afar by Rāma (rāmeṇa prahitair dūrān mārgaṇair dūrapātibhiḥ)—[what cause of fear have you]?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -497,6 +551,12 @@ _________________
 On hearing the words of monkey's wife those guise-changing monkeys spoke this sentence coherently to
 lady Tara, befitting to present time of chaos. [4-19-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the speech of the monkey king's wife (kapipatnyā vacaḥ śrutvā), the monkeys capable of assuming any form at will (kapayaḥ kāmarūpiṇaḥ) spoke unto that lady a timely and coherent reply (prāptakālam aviśliṣṭam ūcur vacanam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -542,6 +602,12 @@ taking away.
 
 "Return, oh, lady with a living son, and safeguard Angada, for the Terminator in the form of Rama is
 taking away Vali on killing. [4-19-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O you whose son still lives (jīvaputre), turn back and protect your son Aṅgada (nivartasva putraṃ rakṣasva cāṅgadam)! Death himself in the form of Rāma (antako rāmarūpeṇa), having slain Vālin, is bearing him away (hatvā nayati vālinam)!
 </details>
 </details>
 
@@ -597,6 +663,12 @@ Vali as if by thunderbolt. [4-19-12]
 The plural number given to the 'arrows' may be observed. Rama shot Vali with only one arrow but each
 monkey is multiplying one arrow to become many. Rumours multiply thus.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Piercing right through the trees that were hurled and the massive boulders as well (kṣiptān vṛkṣān samāvidhya vipulāś ca tathā śilāḥ), Vālin has been struck down by thunderbolt-like arrows as if by Indra's thunderbolt itself (vajrasamair bāṇair vajreṇeva nipātitaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -645,6 +717,12 @@ this one [Vali's,] flier, tiger among; *hate* = when killed; *idam sarvam vaanar
 "When that tigerly fly-jumper Vali whose brilliance is similar to Indra is killed all this vanara force
 felt defenceless and fled. [4-19-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Now that this tiger among leapers (asmin plavagaśārdūle), equal in splendour to Śakra (śakrasamaprabhe), has been slain, this entire monkey host (idaṃ sarvaṃ vānaraṃ balam) is overwhelmed and routed (abhibhūtaṃ vidrutam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -689,6 +767,12 @@ felt defenceless and fled. [4-19-13]
 
 "Let the city of Kishkindha be safeguarded and let Angada be anointed, and when Vali's son Angada is
 enthroned all the fly-jumpers will stand by him. [4-19-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let the city be guarded by heroes (rakṣyatāṃ nagarī śūraiḥ), and let Aṅgada be consecrated (aṅgadaś cābhiṣicyatām); the leapers will rallying serve the son of Vālin once he is installed in royal office (padasthaṃ vālinaḥ putraṃ bhajiṣyanti plavaṃgamāḥ).
 </details>
 </details>
 
@@ -769,6 +853,14 @@ Even in capital many followed the suite of Vali in incarcerating other's wives. 
 up since Sugreeva won the battle, assaulting such followers of Vali's style of living. This is the fear
 of individuals reported to Tara.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** Or else, O lady of lovely countenance (rucirānane), your staying here is unwelcome (arucitaṃ sthānam iha te), for the monkeys [of Sugrīva's party] will swiftly enter the citadels this very day (āviśanti ca durgāṇi kṣipram adyaiva vānarāḥ)!
+
+**16:** Here dwell forest-ranging monkeys, both wifeless and accompanied by wives (abhāryāḥ sahabhāryāś ca); from those greedy and aggrieved ones (lubdhebhyo vipralabdhebhyaḥ) there is very great peril for us (sumahad bhayam)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -821,6 +913,12 @@ under rare words/expressions of Ramayana and gives meaning as 'small distance...
 occurs now for her to reply. She is going towards the place where Vali is and monkeys are following
 her. She paced still ahead, gained a pause and then started to speak to them.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of those monkeys who stood at a short distance (alpāntaragatānāṃ tu), that lady of lovely smile (cāruhāsinī) spoke a reply worthy of herself (ātmanaḥ pratirūpaṃ sā babhāṣe):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -867,6 +965,12 @@ kaaryam* = by son, what, avail of; *raajyena kim* = by kingdom, what; *aatmanaa 
 "Of what avail is a son, or a kingdom, or I to myself when my husband that lion like monkey with great
 honour perished. [4-19-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘What use have I for a son, what for a kingdom, or what even for my own self (putreṇa mama kiṃ kāryaṃ rājyenāpi kim ātmanā), when that noble lion among monkeys, my husband, is perishing (tasmin bhartari naśyati)?’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -912,6 +1016,12 @@ muulam eva* = his, foot, at base, only; *aham gamiSyaami* = I, wish to go - I co
 
 "I wish to consign myself at the base of foot of that great-soul, who is felled down by the arrow projected
 by Rama." So said Tara to fleeing monkeys. [4-19-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I shall go to the very feet (pādamūlaṃ gamiṣyāmi) of that great-souled one (tasyaivāhaṃ mahātmanaḥ) who has been struck down by the arrow loosed by Rāma (rāmaprayuktena śareṇa vinipātitaḥ)!’
 </details>
 </details>
 
@@ -962,6 +1072,12 @@ also; *baahubhyaam* = with two hands; *samabhighnatii [sam abhi ghnatii]* = whil
 Saying thus she started to wail and convulse in agony, and slapped her head and chest with both of her
 hands while she speedily rushed towards Vali. [4-19-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus (evam uktvā), she ran forth weeping and swooning with grief (pradudrāva rudatī śokamūrcchitā), beating her head and breast with both arms in anguish (śiraś coraś ca bāhubhyāṃ duḥkhena samabhighnatī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1010,6 +1126,12 @@ coming - not, retreating; *bhuvi nipatitam* = on ground, fallen down; *patim dad
 
 While she is still trudging then she saw her husband who is the destroyer of arch-demons like Maayaavi
 and Dundubhi, and who never retreated in combats, but now fallen down on ground. [4-19-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proceeding thus (sā vrajantī), she then beheld her husband fallen upon the ground (dadarśātha patiṃ nipatitaṃ bhuvi)—him who was the slayer of Dānava lords that never turned back in battles (hantāraṃ dānavendrāṇāṃ samareṣv anivartinām),
 </details>
 </details>
 
@@ -1098,6 +1220,14 @@ means a tiger in the present day context. For this commentators bring in the rul
 which says *shaarduula* also means a lion *-si~Nho mR^iga indraH pa~ncaasyo haryakShaH shveta
 pi~NgalaH vyaadiirnaasyo mahaanaadaH shaarduulo amita vikrama*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** The hurler of mountain peaks (kṣeptāraṃ parvatendrāṇām), like Vāsava hurling thunderbolts (vajrāṇām iva vāsavam), filled with the impetuous force of a mighty wind (mahāvātasamāviṣṭam), and roaring like a mass of great clouds (mahāmeghaughaniḥsvanam),
+
+**23:** Equal to Śakra in valor (śakratulyaparākrāntam), like a rain-cloud that has ceased after pouring down its rain (vṛṣṭvevoparataṃ ghanam), who used to roar dreadfully among roaring warriors (nardantaṃ nardatāṃ bhīmam), a hero felled by a hero (śūraṃ śūreṇa pātitam), like a king of beasts struck down by a tiger for the sake of meat (śārdūlenāmiṣasyārthe mṛgarājam ivāhatam)—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1161,6 +1291,12 @@ place snakes sneak in, for which eagles will come and sit on the flagstaff, and 
 that eagle kicks off the flag post, and by the fall of that flagstaff that makeshift sanctum gets plumped
 onto ground.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—Like a sacred shrine (caityam) revered by all the world (arcitaṃ sarvalokasya), complete with banners and altar-platform (sapatākaṃ savedikam), torn up by Suparṇa [Garuḍa] for the sake of a serpent (nāgahetoḥ suparṇena unmathitaṃ yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1212,6 +1348,12 @@ at the younger brother of her husband, namely Sugreeva. [4-19-25]
 This verse reminds us of the results from brotherly love-hate, younger-elder brother relation. Lakshmana
 is appearing behind Rama while Sugreeva, over dying Vali.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She beheld Rāma standing leaning upon his mighty bow (avaṣṭabhyāvatiṣṭhantaṃ dhanur ūrjitam), and Rāma's younger brother [Lakṣmaṇa], as well as the younger brother of her husband [Sugrīva] (bhartuś caiva tathānujam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1257,6 +1399,12 @@ earth, fell down, indeed.
 
 Going past them she reached her husband who is routed in combat, and on observing him closely she indeed
 fell down on earth as she is distraught and dumbfounded. [4-19-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing beyond them (tān atītya) and reaching her husband slain in battle (samāsādya bhartāraṃ nihataṃ raṇe), upon beholding him she fell bewildered to the ground in anguish (vyathitā bhūmau sambhrāntā nipapāta ha).
 </details>
 </details>
 
@@ -1307,6 +1455,12 @@ seeing; *ruroda* = she wept.
 
 On getting up as though reawakened from sleep she saw her husband bound fast by the strings of death,
 and then she wailingly addressed him as, "oh, nobleman's son..." [4-19-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising again as if from sleep (supteva punar utthāya) and crying ‘O noble lord!’ (āryaputreti vādinī), she wept upon seeing her husband bound fast in the nooses of Death (saṃvītaṃ mṛtyudāmabhiḥ).
 </details>
 </details>
 
@@ -1364,6 +1518,12 @@ a miserable remorse came upon Sugreeva. [4-19-28]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु. ॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding her crying out like an osprey (krośantīṃ kurarīm iva) and seeing Aṅgada arrived there (dṛṣṭvā cāṅgadam āgatam), Sugrīva sank into bitter despondency (viṣādam agamat kaṣṭam).”
 </details>
 </details>
 

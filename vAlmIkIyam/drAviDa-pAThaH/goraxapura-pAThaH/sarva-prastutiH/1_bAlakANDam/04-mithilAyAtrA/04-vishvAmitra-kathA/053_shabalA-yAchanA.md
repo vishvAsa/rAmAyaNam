@@ -68,6 +68,12 @@ that milker bestowed each and every fancy, fancied by each and every fancier, ac
 fancy." Thus Sage Shataananda continued the legend of Shabala or Kaamadhenu, as a part of the legend
 of Vishvamitra to Rama and others. [1-53-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Vasiṣṭha, O destroyer of foes (śatrusūdana), the wish-milking cow Śabalā brought forth all desired delicacies for each guest just as he wished (vidadhe kāmadhuk kāmān yasya yasyepsitaṃ yathā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +128,12 @@ Shabala bestowed dishes of sugar cane and honey, and flakes of all sorts, like c
 also best arracks and liquors in best wineglasses, further, the drinks and foodstuffs that are very
 diverse and verily apposite to royalties and army-men. [1-53-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+sugarcanes, honeys, and parched grains (ikṣūn madhūṃs tathā lājān), spiced maireya cordials and choice āsava spirits (maireyāṃś ca varāsavān), costly beverages (pānāni ca mahārhāṇi), and manifold dishes of every kind (bhakṣyāṃś coccāvacān api);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -146,6 +158,12 @@ diverse and verily apposite to royalties and army-men. [1-53-2]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बिसि-बिसि अन्नद राशि-राशिगळे सिद्धवादुवु, मृष्टान्न (पायस) तॊव्वॆ, सारु, सिद्धवायितु. हालु, मॊसरु, तुप्प, मॊदलादवुगळ कालुवॆगळे हरिदवु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+mountain-like heaps of piping-hot boiled rice (uṣṇāḍhyasyaudanasyātra rāśayaḥ parvatopamāḥ), sweet milk-rice puddings, seasoned broths, and veritable rivers of curds (mṛṣṭāny annāni sūpāṃś ca dadhikulyās tathaiva ca);
 </details>
 </details>
 
@@ -196,6 +214,12 @@ soft drinks, like that full with sugar-candy preparations, and with preparations
 six tastes have come up together with delectable foodstuffs made out of treacly dumplings of cane sugar.
 [1-53-3, 4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and by the thousands, silver banquet vessels brimful of confections and candied sweets of manifold delicious flavors (nānāsvādurasānāṃ ca khāṇḍavānāṃ tathaiva ca bhojanāni supūrṇāni gauḍāni ca sahasraśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -236,6 +260,12 @@ it became.
 Oh, Rama, all of the men in the forces of Vishvamitra, who are already rejoiced and regaled by the
 regular feasts accorded by their king Vishvamitra, are now comparatively well gladdened when feasted
 by Sage Vashishta, in which they rejoiced and regaled, for a good measure. [1-53-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thoroughly feasted and gratified by Vasiṣṭha, O Rāma (vasiṣṭhena sutarpitam), the entire army of Viśvāmitra was supremely content, its men joyous and well-nourished (sarvam āsīt susaṃtuṣṭaṃ hṛṣṭapuṣṭajanāyutam).
 </details>
 </details>
 
@@ -284,6 +314,12 @@ Partaking that feast together with the best royal ladies of palace chambers, and
 and the court-priests even the king Vishvamitra, who by his nature is a kingly sage, became exultant
 and energetic. [1-53-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The royal sage Viśvāmitra himself became joyous and well-satisfied then (viśvāmitro hi rājarṣir hṛṣṭapuṣṭas tadābhavat), along with the chief ladies of his inner apartments and his brāhmaṇas and royal chaplain (sāntaḥpuravaro rājā sabrāhmaṇapurohitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -323,6 +359,12 @@ mantrisahitaH* = along with advisers, minister; *sabhR^ityaH* = with attendants
 
 When honoured along with his advisers, ministers and attendants by way of receiving a royal banquet,
 king Vishvamitra then in high admiration spoke this to Vashishta. [1-53-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored together with his executive ministers, privy counselors, and attendants (sāmātyo mantrisahitaḥ sabhṛtyaḥ pūjitas tadā), Viśvāmitra, filled with supreme joy, spoke this word to Vasiṣṭha (yuktaḥ paramaharṣeṇa vasiṣṭham idam abravīt):
 </details>
 </details>
 
@@ -364,6 +406,12 @@ king Vishvamitra then in high admiration spoke this to Vashishta. [1-53-7]
 
 You showed me a generous hospitality whereby I am esteemed by an estimable sage like you, oh, expert
 in sententiousness, now I wish to say for myself to which you may please listen. [1-53-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I have been honored and sumptuously entertained by you, O Brāhmaṇa, who are yourself worthy of all worship (pūjito 'haṃ tvayā brahman pūjārheṇa susatkṛtaḥ). Hear now the word that I shall speak, O master of eloquent speech (śrūyatām abhidhāsyāmi vākyaṃ vākyaviśārada)!
 </details>
 </details>
 
@@ -410,6 +458,12 @@ this [cow] is mine - belongs to me as a rule.
 Indeed this do-all cow is a treasure, and the kings are the gatherers of treasures. Therefore bestow
 this cow to me. As rule this cow also belongs to me.' Thus Vishvamitra said to Vashishta. [1-53-9, 10a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In exchange for a hundred thousand cows, let Śabalā be given to me (gavāṃ śatasahasreṇa dīyatāṃ śabalā mama)! For this cow, O venerable Lord, is a veritable jewel, and the sovereign of the earth is by right the taker of jewels (ratnaṃ hi bhagavann etad ratnahārī ca pārthivaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -455,6 +509,12 @@ spoke - replied in turn to the king.
 
 When Vishvamitra addressed him in that way, the reverential sage Vashishta, who is a virtue-souled
 eminent saint, on his part replied the king in this way. [1-53-10b, 11a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore give Śabalā to me; by right of royal dharma she belongs to me, O twice-born sage (tasmān me śabalāṃ dehi mamaiṣā dharmato dvija)!” Thus addressed by Viśvāmitra, the venerable Vasiṣṭha, bull among sages (vasiṣṭho munipuṃgavaḥ)—
 </details>
 </details>
 
@@ -515,6 +575,14 @@ me terroristically and try to wean this cow away from me, as Shabala is everlast
 mine, as with the everlasting and inseparable respectability of a self-respectful person. [1-53-12b,
 13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** —that righteous-souled sage, thus spoken to by Viśvāmitra, replied to the lord of the earth (viśvāmitreṇa dharmātmā pratyuvāca mahīpatim): “Neither for a hundred thousand cows, nor even for hundreds of crores of cows (nāhaṃ śatasahasreṇa nāpi koṭiśatair gavām)—
+
+**12:** “—nor for heaps of silver, O King, will I give away Śabalā (rājan dāsyāmi śabalāṃ rāśibhī rajatasya vā)! She ought never to be parted from my side, O tamer of foes (na parityāgam arheyaṃ matsakāśād ariṃdama).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -569,6 +637,12 @@ on her.
 This cow makes the journey of my life possible. Oblations to gods or manes, enkindling of Ritual-fire,
 religious sacrifices, homa-s, the sacred rituals conducted as
 darshapaurNamaasi, all are dependent on her. [1-53-13b, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Śabalā is eternally bound to me, just as spotless fame abides with a self-mastered sage (śāśvatī śabalā mahyaṃ kīrtir ātmavato yathā). Upon her depend my oblations to the gods, my offerings to the ancestors, and the very maintenance of my life (asyāṃ havyaṃ ca kavyaṃ ca prāṇayātrā tathaiva ca)—
 </details>
 </details>
 
@@ -629,6 +703,12 @@ shall be eligible to perform a Fire-ritual, and if Fire-ritual is performed, som
 are to be learnt, and all this is a cyclic affair, requiring much paraphernalia. This cow supplies everything
 at wish, without a hassle, either to the teacher or to the taught.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—as well as my daily agnihotra fire-oblation, my bali offerings, and my homa sacrifices (āyattam agnihotraṃ ca balir homas tathaiva ca), my svāhākāra and vaṣaṭkāra invocations, and my manifold sacred sciences (svāhākāravaṣaṭkārau vidyāś ca vividhās tathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -671,6 +751,12 @@ tava na daasye* = I do not afford Shabala to you.
 "In truth, this cow is everything to me and ever-gratifier, that way by so many reasons, oh, king,
 I cannot afford Shabala to you or to anyone." So said Vashishta to Vishvamitra. [1-53-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All this without doubt depends upon her, O royal sage (āyattam atra rājarṣe sarvam etan na saṃśayaḥ); in truth she is my entire wealth, and she ever brings delight to my heart (sarvasvam etat satyena mama tuṣṭikarī tathā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -710,6 +796,12 @@ verily reasoning [argumentatively]; *samrabdhataram* = muchly [compellingly] wit
 
 Though Vashishta spoke thus Vishvamitra being an expert in sententiousness then spoke this sentence
 compellingly and argumentatively. [1-53-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—and therefore for many reasons, O King, I will not give Śabalā to you (kāraṇair bahubhī rājan na dāsye śabalāṃ tava)!” Thus addressed by Vasiṣṭha, Viśvāmitra then spoke (vasiṣṭhenaivam uktas tu viśvāmitro 'bravīt tadā)—
 </details>
 </details>
 
@@ -759,6 +851,12 @@ _________________
 
 I bestow upon you fourteen thousand elephants adorned with golden girdles, golden necklets and golden
 goads. [1-53-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—words of far greater agitation and insistence, skilled as he was in speech (saṃrabdhataram atyarthaṃ vākyaṃ vākyaviśāradaḥ): “Adorned with golden girths and neck-chains and equipped with golden goads (hairaṇyakakṣagraiveyān suvarṇāṅkuśabhūṣitān)—
 </details>
 </details>
 
@@ -839,6 +937,16 @@ in best countries of best horse breeding. [1-53-19b, c]
 I award ten million diversely coloured and differently divisionalized cows, whichever of them will
 be came of age as milker, thereby, let this do-all cow Shabala be given to me. [1-53-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “—fourteen thousand elephants I give to you (dadāmi kuñjarāṇāṃ te sahasrāṇi caturdaśa)! And of golden chariots yoked each to four white steeds (hairaṇyānāṃ rathānāṃ ca śvetāśvānāṃ caturyujām)—
+
+**19:** “—adorned with rows of tinkling bells, I give you eight hundred (dadāmi te śatāny aṣṭau kiṃkiṇīkavibhūṣitān)! And of spirited steeds bred in renowned lands and of noble celestial stock (hayānāṃ deśajātānāṃ kulajānāṃ mahaujasām), I give you eleven thousand, O sage of noble vows (sahasram ekaṃ daśa ca dadāmi tava suvrata)!
+
+**20:** “And of youthful cows distinguished by manifold colors (nānāvarṇavibhaktānāṃ vayaḥsthānāṃ tathaiva ca), I give you a full ten million—let Śabalā be given to me (dadāmy ekāṃ gavāṃ koṭiṃ śabalā dīyatāṃ mama)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -879,6 +987,12 @@ be given to me.
 "Or, oh, eminent Brahman, if you yearn either for gems or gold, I gift that much of everything as
 much as you can yearn, let Shabala be given to me." Thus Vishvamitra entreated again. [1-53-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever jewels or gold you desire, O best of the twice-born (yāvad icchasi ratnāni hiraṇyaṃ vā dvijottama), all that I will give to you in full—only let Śabalā be given to me (tāvad dadāmi te sarvaṃ dīyatāṃ śabalā mama)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -918,6 +1032,12 @@ clearly said.
 
 When the shrewd king Vishvamitra spoke to the reverential sage Vashishta, that sage has clearly said,
 'whatever it is oh, king, I do not surrender Shabala, the cow.' [1-53-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the wise Viśvāmitra, the venerable Vasiṣṭha replied: “Under no circumstances, O King, will I give away Śabalā (na dāsyāmīti śabalāṃ prāha rājan kathaṃcana)!
 </details>
 </details>
 
@@ -966,6 +1086,12 @@ is my treasure, thus I do not require your gilded chariots, horses or elephants.
 is my everything, thus I need nothing from you... and actually, this alone is my alter-ego, thus you
 cannot separate me from myself. [1-53-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For she alone is my jewel, and she alone is my wealth (etad eva hi me ratnam etad eva hi me dhanam); she alone is my entire possession, and she alone is my very life (etad eva hi sarvasvam etad eva hi jīvitam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1006,6 +1132,12 @@ vividhaaH kriyaaH ca* = divers, activities, also; *etat eva hi* = this, alone, i
 This alone is my darsha-puurNamaasa rituals, and like that this alone
 is all my Vedic-rituals with worthwhile donations and oh, king, this essentially is of service in diverse
 activities of mine. [1-53-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My new-moon and full-moon sacrifices, my yajñas complete with abundant priestly gifts, and my manifold sacred rites as well—she alone is all these to me, O King (darśaś ca paurṇamāsaś ca yajñāś caivāptadakṣiṇāḥ etad eva hi me rājan vividhāś ca kriyās tathā).
 </details>
 </details>
 
@@ -1067,6 +1199,12 @@ Shataananda continued his narration of the legend of Sacred Cow. [1-53-25]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तमूरनॆय सर्ग पूर्णवायितु.॥53॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All my sacred rites without doubt have their root in her, O King (atomūlāḥ kriyāḥ sarvā mama rājan na saṃśayaḥ). What use is much talk? I will never give away this wish-milking cow (bahunā kiṃ pralāpena na dāsye kāmadohinīm)!”
 </details>
 </details>
 

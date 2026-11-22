@@ -66,6 +66,12 @@ beasts; *vanavaasinaH* = the denizens of the woods; *ardhitaaH* = were frightene
 Seeing that large army on the march, the herds of beasts with their leaders, the
 denizens of the woods were frightened and ran away together.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Harassed (arditāḥ) by that vast advancing army (tayā mahatyā yāyinyā dhvajinyā), the rutting herd-leaders dwelling in the forest (vana-vāsinaḥ yūthapāḥ mattāḥ) fled away on all sides together with their herds (sayūthāḥ sampradudruvuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +117,12 @@ hills; *nadiiSu* = and by the rivers.
 
 Bears, dappled deer and antelopes could be seen every where, on the tracks of the
 forest, on the hills and by the rivers.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bears (ṛkṣāḥ), herds of spotted deer (pṛṣata-saṅghāḥ), and unspotted ruru stags (ruravaḥ) were seen on every side (samantataḥ) along the forest-ranges (vana-rājīṣu), upon the hills, and by the rivers.
 </details>
 </details>
 
@@ -159,6 +171,12 @@ divisions.
 That pious minded Bharata gracefully marched ahead, surrounded by that clamorous
 army of four divisions.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That righteous-souled son of Daśaratha (dharmātmā daśarathātmajaḥ) marched forth joyfully (prītaḥ sampratasthe), surrounded by that vast, resounding fourfold army (vṛto mahatyā nādinyā senayā caturaṅgayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -204,6 +222,12 @@ as clouds; *dyaam* = the sky; *praavR^iSi* = in a rainy season.
 
 The army, of the magnanimous Bharata, which resembled the high tide of an ocean,
 covered the earth as clouds cover the sky in a rainy season.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling the swelling flood of the ocean (sāgaraugha-nibhā), the army of high-souled Bharata overspread the earth (mahīṃ sañchādayāmāsa), even as a rain-cloud overspreads the sky during the monsoon (prāvṛṣi dyām ivāmbudaḥ).
 </details>
 </details>
 
@@ -251,6 +275,12 @@ horses; *vaaraNaishcha* = and elephants; *mahaajavaiH* = of great speed;
 Submerged by the waves of horses and elephants of great speed at that time, the
 earth became invisible for a long time.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Covered over with multitudes of steeds and with elephants (turaṅgaughair avatatā vāraṇaiś ca), the great mountain range (mahāgiriḥ) became as though shaded from the sun (anātapam iva), like the firmament arrayed with clouds (vyūḍhair meghair iva nabho 'bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -297,6 +327,12 @@ counsellors.
 
 Having travelled for a long distance, that glorious Bharata, whose animals were now
 fully exhausted, said to Vasishta, the most segaceios of his counsellors (as follows)
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having travelled a long distance (yātvā dūram adhvānam) until his mounts and vehicles were thoroughly exhausted (supariśrānta-vāhanaḥ), the illustrious Bharata spoke to Vasiṣṭha, the foremost of counselors (mantriṇāṃ varam).
 </details>
 </details>
 
@@ -347,6 +383,12 @@ heard; *mayaa* = by me; *yam* = about which area; *bharadvaajaH* = Bharadwaja;
 
 "Looking at the features of the pace and from what has been heard by me, it is clear
 that we reached that area of which Bharadwaja spoke."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Seeing the appearance of this region (yādṛśaṃ lakṣyate rūpam), and recalling exactly how it was heard of by me (yathā caiva śrutaṃ mayā), clearly we have reached that very country (vyaktaṃ prāptāḥ sma taṃ deśam) of which Bharadvāja spoke (bharadvājo yam abravīt).
 </details>
 </details>
 
@@ -422,6 +464,14 @@ a blue cloud from a distance."
 "By my elephants appearing themselves like mountains, the lovely peaks of Chitrakuta
 mountain are being trampled."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** This is Mount Citrakūṭa (ayaṃ giriś citrakūṭaḥ), this is the river Mandākinī (iyaṃ mandākinī nadī), and yonder shines from afar the forest resembling a dark rain-cloud (dūrān nīla-megha-nibhaṃ vanam).
+
+**9:** The delightful tablelands of Mount Citrakūṭa (gireḥ sānūni ramyāṇi citrakūṭasya) are now being trampled (avamṛdyante) by my mountain-like elephants (vāraṇair māmakaiḥ parvatopamaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,6 +517,12 @@ on the peaks of the mountain; *muN^chaanti* = are showering; *kusumaani* = flowe
 
 "These trees on the peaks of the mountain are shedding flowers, as black and intense
 clouds shower water in a rainy season."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+These trees upon the mountain ridges (ete nagāḥ parvata-sānuṣu) are shedding their blossoms (muñcanti kusumāni), just as dark water-bearing clouds pour down rain (toyaṃ toyadharā ghanāḥ) at the close of the summer heat (ātapāpāye).
 </details>
 </details>
 
@@ -517,6 +573,12 @@ _________________
 "Behold, O Shatrughna, this mountain, (hitherto) frequented by Kinnaras, now teaming
 with horses on every side, as a sea is infested by allegators."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold, O Śatrughna, this mountain—a region frequented by Kinnaras (kinnarācaritaṃ deśam)—thronged on every side with deer (mṛgaiḥ samantād ākīrṇam), like the ocean teeming with makaras (makarair iva sāgaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -563,6 +625,12 @@ in autumn.
 
 "These herds of antelopes, having a rapid speed, as urged forward (by the troops)
 appear like a mass of clouds driven by the wind in the sky in antumn."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Driven onward (pracoditāḥ), these swift-speeding herds of deer (ete mṛga-gaṇāḥ śīghra-vegāḥ) shine like a line of clouds in the sky (megha-rājir ivāmbare) impelled by the wind in autumn (vāyu-praviddhā śaradi).
 </details>
 </details>
 
@@ -613,6 +681,12 @@ the people; *daakSinaatyaaH* = of the south.
 "Those tree, with their leaves in multitude dazzling, crowned with fragrant chaplets
 of flowers, resemble the people of the south."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With their cloud-dark shields (megha-prakāśaiḥ phalakaiḥ), these soldiers are placing fragrant chaplets of flowers upon their heads (kurvanti kusumāpīḍān śirassu surabhīn amī), just like the men of the southern country (dākṣiṇātyā yathā narāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -658,6 +732,12 @@ like Ayodhya; *janaakiirNaa* = swarming with people.
 
 "This forest, which was silent and wore a terrifying look till now, appears to me
 like Ayodhya, swarning with people."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This forest of formidable aspect (idaṃ vanaṃ ghora-pradarśanam), which formerly was silent and solitary (niṣkūjam iva bhūtvā), now appears to me (samprati pratibhāti mā) like Ayodhyā thronged with people (ayodhyeva janākīrṇā).
 </details>
 </details>
 
@@ -706,6 +786,12 @@ pleasure.
 "The dust raised from the hooves of the horses blots out the heavens, but the wind
 carries it away immediately as if to give me pleasure."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The dust raised by the hooves (khurair udīrito reṇuḥ) stands obscuring the sky (divaṃ pracchādya tiṣṭhati), yet the wind swiftly carries it away (taṃ vahaty anilaḥ śīghram), as though doing me a favour (kurvann iva mama priyam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -753,6 +839,12 @@ forest.
 "Behold, O Shatrughna, these chariots yoked with horses and mounted by the chief
 charioteers are rushing together rapidly in the forest."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold, O Śatrughna, these chariots yoked with steeds (syandanāṃs turagopetān) and guided by chief charioteers (sūta-mukhyair adhiṣṭhitān), rushing swiftly through the forest (etān sampatataḥ śīghraṃ kānane).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -781,6 +873,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो देखनेमें बड़े प्यारे लगते हैं उन मोरोंको तो देखो । ये हमारे सैनिकोंके भयसे कितने डरे हुए हैं । इसी प्रकार अपने आवास-स्थान पर्वतकी ओर उड़ते हुए अन्य पक्षियोंपर भी दृष्टिपात करो ॥ १७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold these lovely-plumaged peacocks (etān barhiṇaḥ priya-darśanān), terrified (vitrāsitān) and swiftly entering (āviśataḥ śīghram) this mountain abode of birds (etam adhivāsaṃ patatriṇaḥ).”
 </details>
 </details>
 
@@ -829,6 +927,12 @@ asceics.
 "This place to me is appearing very much lovely. Resembling in every way like a
 threshold of heaven, it is clearly an abode of ascetics."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This region appears to me (ayaṃ deśaḥ pratibhāti mā) exceedingly delightful to the mind (atimātraṃ manojñaḥ); this abode of ascetics (tāpasānāṃ nivāso 'yam) is clearly like the very pathway to heaven (vyaktaṃ svarga-patho yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -876,6 +980,12 @@ flowers.
 "In this forest, many dappled deer with their hinds, endowed with enchanting forms,
 are seen as if studded with flowers."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Many spotted deer accompanied by their does (mṛgā mṛgībhiḥ sahitā bahavaḥ pṛṣatāḥ) are seen in the forest (lakṣyante vane), charming in form (manojña-rūpāḥ) as though dappled with flowers (kusumair iva citritāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -918,6 +1028,12 @@ tigers among men; *raamalakSmaNau* = Rama and Lakshmana.
 
 "Let the soldiers proceed quickly to explore the woods to find those tigers among
 men, Rama and Lakshamana."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let the disciplined soldiers advance (sādhu-sainyāḥ pratiṣṭhantām) and search thoroughly in the forest (vicinvantu ca kānane), so that those two tigers among men, Rāma and Lakṣmaṇa, may be found (yathā tau puruṣa-vyāghrau dṛśyete rāma-lakṣmaṇau).”
 </details>
 </details>
 
@@ -969,6 +1085,12 @@ paaNayaH* = wearing weapons in their hands; *vivishuH* = entered; *tat* = that;
 Hearing the words of Bharata, valiant men wearing weapons in their hands, penetrated
 into the forest suddenly they observed a plume of smoke rising.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the command of Bharata (bharatasya vacaḥ śrutvā), valiant men with weapons in their hands (puruṣāḥ śastra-pāṇayaḥ śūrāḥ) entered that forest (viviśus tad vanam) and thereupon beheld a column of smoke (dhūmaṃ ca dadṛśus tataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1015,6 +1137,12 @@ deserted place; *vyaktam* = Assuredly; *raaghavau* = Rama and Lakshmana;
 
 Seeing that spiral of smoke, they returned to bharata and said; "There can be no
 fire in a deserted place. Assuredly, Rama and Lakshmana are there."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having espied the rising crest of smoke (te samālokya dhūmāgram), they returned and spoke to Bharata (ūcur bharatam āgatāḥ): “Fire does not exist in an uninhabited place (nāmanuṣye bhavaty agniḥ); clearly the two Rāghavas are right here (vyaktam atraiva rāghavau)!
 </details>
 </details>
 
@@ -1063,6 +1191,12 @@ are; *anye* = other; *tapasvinaH* = ascetics; *raamopamaaH* = like Rama;
 "If it be not those two tigers among men, the two princes, the scourger of their
 foes here, obviously there are other ascetics like Rama here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Or if those two tigers among men, the foe-scorching princes, are not here (atha nātra nara-vyāghrau rājaputrau parantapau), methinks other ascetics equal to Rāma (manye rāmopamāḥ tapasvinaḥ) are clearly dwelling here (santi vyaktam atra).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1108,6 +1242,12 @@ sarvaan sainyaan = to that entire army (as follows)
 
 Hearing those words concurred even by pious men, Bharata the destroyer of enemy's
 forces, spoke to the entire army (as follows)
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of theirs approved by the wise (tac chrutvā teṣāṃ vacanaṃ sādhu-sammatam), Bharata, the crusher of enemy hosts (amitra-bala-mardanaḥ), spoke to all those soldiers (sainyān uvāca sarvāṃs tān):
 </details>
 </details>
 
@@ -1156,6 +1296,12 @@ preceptor; Driti.
 "You stay here vigilantly. Do no proceed any further. I alone will go along with
 Sumantra and also Dhriti, my spiritual preceptor."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let you all remain here watchfully (yattā bhavantas tiṣṭhantu); you must not advance any further from this spot (neto gantavyam agrataḥ). I alone shall go forward (aham eva gamiṣyāmi), together with Sumantra and my preceptor (sumantro gurur eva ca).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1202,6 +1348,12 @@ smoke.
 
 On this command, all the troops halted there and Bharat with his gaze fixed on the
 column of smoke, went forward.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, all of them halted right there on every side (sarve tatra tasthuḥ samantataḥ), while Bharata fixed his gaze (dṛṣṭiṃ samādadhāt) toward the spot where the crest of smoke rose (yatra dhūmāgram).
 </details>
 </details>
 
@@ -1287,6 +1439,12 @@ and are entering their dwelling places hastily."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तमूरनॆय सर्ग पूर्णवायितु.॥93॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stationed there in order by Bharata (vyavasthitā yā bharatena), that army (sā camūḥ), beholding the smoke rising ahead (nirīkṣamāṇāpi ca dhūmam agrataḥ), became filled with joy (babhūva hṛṣṭā), knowing that the reunion with their beloved Rāma would take place before long (nacireṇa jānatī priyasya rāmasya samāgamaṃ tadā).
 </details>
 </details>
 

@@ -69,6 +69,12 @@ Ravana; *paryabhaSata* = spoke; *saaraNam* = to Sarama (as follows):
 Hearing those words, which were truthful and coward less, as spoken by Sarana, the
 king Ravana spoke to Sarana as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that truthful and fearless speech (vacaḥ satyam aklībam) spoken by Sāraṇa, King Rāvaṇa replied to Sāraṇa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +120,12 @@ if there is terror from all the worlds.
 
 "I do not give Seetha even if the celestials, celestial musicians or demons attack
 me or even if there is a terror from all the worlds."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if the gods, Gandharvas, and Dānavas should attack me (mām abhiyuñjīran), I would never give up Sītā (naiva sītām ahaṃ dadyām), even out of fear of all the worlds!
 </details>
 </details>
 
@@ -163,6 +175,12 @@ fearful; *manyase* = you are thinking; *pratipradaanam* = of giving back;
 
 "O, gentle one! As you were harassed very much by the monkeys and hence fearful; you
 are thingking of giving back Seetha now itself as good."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You, however, O gentle one (saumya), sorely tormented by the monkeys (haribhiḥ pīḍito bhṛśam) and terrified, deem the immediate restoration of Sītā (pratipradānam adyaiva sītāyāḥ) to be wise.
 </details>
 </details>
 
@@ -222,6 +240,14 @@ his palace which was shining white like his snow and which was equal to the heig
 which was equal to the height of several palmyrah trees, with a desire to see the army of
 monkeys.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** What adversary (sapatnaḥ) indeed can vanquish me in battle?” Having spoken these harsh words (paruṣaṃ vākyam), Rāvaṇa, the lord of rākṣasas,
+
+**5:** then ascended (āruroha) his snow-white palace (prāsādaṃ himapāṇḍuram), towering to the height of many palmyra trees (bahutālasamutsedham), eager to behold (didṛkṣayā) [the monkey army].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -277,6 +303,12 @@ the mountains; *vanaanicha* = and the forest; *dadarsha* = and beheld;
 Ravana, stupefied with anger, along with his spies, saw that ocean, the mountains
 and the forests and beheld the entire land completely filled with monkeys.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accompanied by those two spies (tābhyāṃ carābhyāṃ sahitaḥ), Rāvaṇa, convulsed with rage (krodhamūrcchitaḥ), surveyed (paśyamānaḥ) that ocean, the mountains, and the forests.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -323,6 +355,12 @@ army; *vaanaraaNaam* = of monkeys; *apaaram* = which was boundless;
 Seeing that great army of monkeys, which was boundless and intolerable, the king
 Ravana asked Sarana as follows:-
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He beheld the expanse of earth (pṛthivīdeśam) completely filled with monkeys (susampūrṇaṃ plavaṃgamaiḥ), and viewing that boundless, irresistible, and mighty host (apāram asahyaṃ ca mahābalam) of monkeys,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -367,6 +405,12 @@ great energy?
 
 "Which monkeys are important among them? Who are valiant ones? Who are the very
 strong ones? Who will stay in front at all places, with great energy?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+King Rāvaṇa questioned Sāraṇa: “Among these, which monkeys are the foremost chiefs (ke vānarā mukhyāḥ), which are the brave warriors, and which are the ones of mighty strength?
 </details>
 </details>
 
@@ -417,6 +461,12 @@ all.
 "To whom Sugreeva will hear? Who are the generals of the commanders of the
 monkey-heads? What is the influence of the monkeys? O, Sarana! Tell me all."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Which ones of great energy advance in the vanguard (pūrvam abhivartante) on every side? To whose counsel does Sugrīva listen (keṣāṃ śṛṇoti sugrīvaḥ), and who are the commanders of troop-commanders (yūthapayūthapāḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -463,6 +513,12 @@ enquiring (about them).
 
 Then, Sarana who knew the chiefs of monkeys, spoke the following words about the
 chiefs of the monkeys i them, to the lord of demons who was enquiring about them.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tell me everything, O Sāraṇa—of what might (kiṃprabhāvāḥ) are these monkeys?” [Hearing] the words of the lord of rākṣasas who was questioning him,
 </details>
 </details>
 
@@ -533,6 +589,16 @@ is resembling a mountain- peak in stature, who is like filaments of a louts in h
 of anger continuously lashes out his tail and the swish of which is heard in ten regions, he is the
 prince named Angada, anointed by Sugreeva the king of monkeys and is challenging you to the
 battle."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Sāraṇa, who knew the foremost chiefs (mukhyajñaḥ), then declared the chief forest-dwellers there: “This monkey who stands roaring (nardaṃs tiṣṭhati), facing Laṅkā (abhimukho laṅkām),
+
+**12:** surrounded by a hundred thousand troop-commanders (yūthapānāṃ sahasrāṇāṃ śatena), by whose mighty roar Laṅkā with its ramparts and arched gateways—
+
+**13:** all of Laṅkā, together with its mountains, woods, and groves (saśailavanakānanā), is struck with reverberation (pratihatā)—at the forefront of the army of great-souled Sugrīva, lord of all tree-dwellers,
 </details>
 </details>
 
@@ -609,6 +675,18 @@ anger continuously lashes out his tail and the swish of hwich is heard in ten re
 prince named Angada, anointed by Sugreeva the king of monkeys and is challenging you to the
 battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** stands this heroic troop-commander named Nīla (nīlo nāmaiṣa yūthapaḥ). And he who, raising his arms aloft (bāhū pragṛhya), strides upon the earth on foot (padbhyāṃ mahīṃ gacchati), full of valor,
+
+**15:** facing Laṅkā, and yawns repeatedly in wrath (kopād abhīkṣṇaṃ ca vijṛmbhate), resembling a mountain peak and bright as lotus filaments (padmakiṃjalkasaṃnibhaḥ),
+
+**16:** and in fierce fury (atisaṃrabdhaḥ) lashes his tail (sphoṭayati lāṅgūlam) again and again, by the sound of whose tail the ten quarters resound (svananti pradiśo daśa)—
+
+**17:** this is Crown Prince Aṅgada by name (yuvarājo 'ṅgado nāma), consecrated (abhiṣecitaḥ) by Sugrīva the king of monkeys, who now challenges you in battle (tvām āhvayati saṃyuge).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -650,6 +728,12 @@ battle."
 "This Angada, a worthy son of Vali and always dear to Sugreeva, is coming forwards
 for Rama's interests, as Varuna is to Indra's."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He is the worthy son of Vālin (vālinaḥ sadṛśaḥ putraḥ), ever dear to Sugrīva, and stands ready to display his valor (parākrāntaḥ) for Rāghava's sake, as Varuṇa did for Śakra's [Indra's] sake.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -689,6 +773,12 @@ desires the welfare; *raaghavasya* = of Rama.
 
 "It is all due to Angada's design that Seetha was found by Hanuman, who is a swift
 monkey and a well-wisher of Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+It was entirely through this prince's counsel (etasya sā matiḥ sarvā) that Janaka's daughter was discovered (dṛṣṭā janakātmajā) by swift Hanūmān, who seeks Rāghava's welfare.
 </details>
 </details>
 
@@ -730,6 +820,12 @@ chiefs of monkeys; *abhiyaati* = is approaching; marditum to crush; *tvaam* = yo
 "This valiant Angada, bringing along with him innumerable cheifs of monkeys, is
 approaching to crush you, with the help of his own army."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having mustered many troops of monkey lords (bahūni vānarendrāṇāṃ yūthāni), this valorous prince advances against you (abhiyāti tvām) to crush you with his own army.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -770,6 +866,12 @@ the creator of the bridge; *viiraH* = and the valiant one; *samgraame* = in batt
 "Surrounded by a large army, here stands the valiant Nala the creator of the bridge,
 next to Angada the son of Vali, prepared for the battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And right behind the son of Vālin (anu vālisutasya), surrounded by a mighty force, stands in battle this heroic Nala, the builder of the causeway (setuhetur ayaṃ nalaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -808,6 +910,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शरीरगळन्नु मेलक्कॆ निमिरिसिकॊण्डु गट्टियागि गर्जिसुत्तिरुव आ वानररन्नु नोडु. कॆलवु वानररु कुळितल्लिन्द मेलक्कॆद्दु कोपदिन्द उब्बुत्तिद्दारॆ. अवर वेगवन्नु सहिसुवुदु अति दुस्तरवागिदॆ. अवरु महाभयङ्कररू, महाकोपिष्ठरू आगिद्दु, प्रचण्डवाद पराक्रम उळ्ळवरु. अवर सङ्ख्यॆ नूरु कोटि ऎण्टु लक्षदष्टिदॆ. चन्दनवनदल्लि वासिसुव अवरॆल्लरू वानर श्रेष्ठनाद नळन अनुयायिगळु. नळनू कूड तन्न अपार सैन्यदॊन्दिगॆ लङ्कापट्टणवन्नु मर्दिसलु इच्छिसुत्तिद्दानॆ.॥22-23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** Those bull-like monkeys who, stiffening their limbs (viṣṭabhya gātrāṇi), utter lion-roars and thunder (kṣveḍayanti nadanti ca), and springing up, yawn in wrath (utthāya ca vijṛmbhante krodhena)—
+
+**23:** these are irresistible, dreadful, fierce, and of fierce valor (caṇḍāś caṇḍaparākramāḥ)—eight hundred thousand and a thousand crores (aṣṭau śatasahasrāṇi daśakoṭiśatāni ca)—the heroes dwelling in the sandalwood forests (vīrāś candanavāsinaḥ) who follow him.
 </details>
 </details>
 
@@ -865,6 +975,14 @@ eye=brows raised in anger. These valiant monkeys, who are terrific and fierceful
 zeal are going after Nala. Nala himself with his aforesaid army aspires to smash Lanka
 forthwith."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** This hero alone aspires (eṣaivāśaṃsate) to crush Laṅkā with his own army! And here is Śveta, gleaming like silver (śveto rajatasaṃkāśaḥ), agile and of dreadful prowess (bhīmavikramaḥ),
+
+**25:** a wise and heroic monkey renowned in the three worlds (triṣu lokeṣu viśrutaḥ); having swiftly approached Sugrīva, the monkey hastens back again (punar gacchati),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -916,6 +1034,14 @@ worlds; *aagatya* = has come; *sugriivam* = to Sugreeva; *tuurNam* = swiftly;
 prowess and a warrior renowned in the three worlds, has come to Sugreeva swiftly, dividing the army
 of monkeys and brining great delight to the troops, he goes back at once."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** dividing the monkey army into ranks (vibhajan vānarīṃ senām) and cheering the troops (anīkāni praharṣayan). And he who formerly roamed (purā paryeti) the lovely mountain on the bank of the Gomatī—
+
+**27:** the mountain named Saṃrocana (nāmnā saṃrocano nāma), covered with diverse trees—and ruled the kingdom there, is this troop-commander named Kumuda (kumudo nāma yūthapaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -946,6 +1072,14 @@ of monkeys and brining great delight to the troops, he goes back at once."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्षावधि वानर सैनिकरन्नु हर्षदिन्द तन्नॊन्दिगॆ तन्दिरुव, इवन उद्दवाद बालदल्लिरुव रोमगळु बहळ नीळवागिवॆ. कॆम्पु-हळदि-बिळुपु मुन्ताद बण्णगळिन्द कूडिवॆ. नोडलु महाभयङ्करनागिद्दु, दैन्यवॆम्बुदे इल्लदिरुव, युद्धोच्छुकनाद आ वानरन हॆसरु चण्ड ऎन्दागिदॆ. ई चण्डनू तन्न सैन्यद मूलक लङ्कॆयन्नु मर्दिसलु इच्छिसुत्तिरुवनु.॥28-29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** yonder chief who joyfully leads (saharṣaṃ parikarṣati) hundreds of thousands, and upon whose long tail (dīrghalāṅgūlam āśritāḥ) grow hairs many fathoms in length (vālā bahuvyāmāḥ)—
+
+**29:** coppery, yellow, pale, and white (tāmrāḥ pītāḥ sitāḥ śvetāḥ), disheveled and dreadful to behold (ghoradarśanāḥ); undaunted, the fierce monkey [or: the monkey Caṇḍa] longs for battle (saṃgrāmam abhikāṅkṣati), and he too aspires to crush Laṅkā with his own army.
 </details>
 </details>
 
@@ -1021,6 +1155,16 @@ monkeys. He has a very long hair-coppery, yellow, pale and white and hideous to 
 about on his tail is the intrepid and fierceful monkey called Kanda. He yearns to fight and boast
 that he with destroy Lanka his forces."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** And he who, resembling a lion (siṃhasaṃkāśaḥ), tawny and long-maned (kapilo dīrghakesaraḥ), gazes fixed and motionless upon Laṅkā (nibhṛtaḥ prekṣate laṅkām), as though wishing to burn it up with his eyes (didhakṣann iva cakṣuṣā)—
+
+**31:** and who ever dwells (satatam adhyāste) upon the Vindhya, Kṛṣṇagiri, Sahya, and Mount Sudarśana, O king, is that troop-commander named Rambha (sa rambho nāma yūthapaḥ); a hundred and thirty hundred-thousands (śataṃ śatasahasrāṇāṃ triṃśac ca) of bull-like monkeys,
+
+**32:** dreadful, fierce, and of fierce valor (caṇḍāś caṇḍaparākramāḥ), surround him and follow him as he marches (yaṃ yāntam anugacchanti) to crush Laṅkā with their might.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1077,6 +1221,14 @@ of Krishna and Sahya of Vindhya range of pleasing aspect, is the General named R
 thousand crores of excellent monkeys, who are formidable of impetuous valour and vigour, surround
 him who is marching ahead and follow in his goot-sets to destroy Lanka."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**33:** And he who spreads wide his ears (karṇau vivṛṇute) and yawns again and again, who never trembles before death (na tu saṃvijate mṛtyoḥ) nor rushes back toward his army (na ca senāṃ pradhāvati),
+
+**34:** who quivers with rage (prakampate ca roṣeṇa) and glances sidelong again (tiryak ca punar īkṣate)—behold the lashing of his tail (paśya lāṅgūlavikṣepam) as this mighty warrior utters his battle-roar (kṣveḍaty eṣa mahābalaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1101,6 +1253,12 @@ him who is marching ahead and follow in his goot-sets to destroy Lanka."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाराजा! ई यूथपति शरभनु सदा रमणीयवागिरुव साल्वेय पर्वतदल्लि वासिसुत्ता, महावेगशालियाद इवनिगॆ भयवॆम्बुदे इल्ल.॥35॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Of great swiftness and free from fear (mahājavo vītabhayaḥ), he ever dwells upon the lovely Mount Sālveya (ramyaṃ sālveyaparvatam), O king—the troop-commander named Śarabha (śarabho nāma yūthapaḥ).
 </details>
 </details>
 
@@ -1152,6 +1310,12 @@ does not have fear of death, he who never retreats from a battle, but violently 
 who again sees obliquely, he who lashes out his tail and roars like a lion with great vigour, he
 who constantly dwells on the lovely Salveya mountain, he is Sarabha by name, the commander of
 monkeys with immense energy and devoid of fear."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His mighty troop-commanders, known as the Vihāras (vihārā nāma yūthapāḥ), O king, number forty hundred-thousands (śatasahasrāṇi catvāriṃśat) in all.
 </details>
 </details>
 
@@ -1241,6 +1405,18 @@ of monkey-warriors like Indra the god of celestials, the great voice of whose mo
 battle is heard like the roll of drums, is the General named Panasa, who is always invincible in
 battle. He dwells in Pariyatra, a mountain that is exceeded by none in height."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**37:** And he who stands covering the sky like a huge cloud (megha ivākāśaṃ mahān āvṛtya), in the midst of the monkey heroes like Vāsava [Indra] among the gods,
+
+**38:** whose mighty roar (mahān ghoṣaḥ) is heard like the roll of kettledrums (bherīṇām iva saṃnādaḥ) among the lords of tree-dwellers eager for battle—
+
+**39:** this troop-commander named Panasa (panaso nāma yūthapaḥ), ever irresistible in battle (yuddhe duṣprasaho nityam), dwells upon the peerless Mount Pāriyātra (pāriyātram anuttamam).
+
+**40:** Upon him, the foremost of troop-commanders (yūthapaśreṣṭham), attend half a hundred hundred-thousands (śatasahasrāṇāṃ śatārdham) of troop-commanders, whose own troops are arrayed in distinct divisions (bhāgaśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1287,6 +1463,14 @@ in separate units; *paryupaasate* = attend obediently; *enam* = to him.
 Troop-commanders numbering fifty lakhs commanding separate units attend obediently
 to him, who is excellent among the Generals."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** And he who stands gracing (tiṣṭhati śobhayan) the dreadful, leaping army (bhīmāṃ pravalgantīṃ camūm) stationed along the shore of the sea, like a second ocean (dvitīya iva sāgaraḥ)—
+
+**42:** this is the troop-commander named Vinata (vinato nāma yūthapaḥ), resembling Mount Dardura (dardurasaṃkāśaḥ), who roams drinking of the Veṇā, the foremost of rivers (nadīnām uttamāṃ nadīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1314,6 +1498,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि काणुत्तिरुववने क्रोधन ऎम्ब वानर श्रेष्ठनु. अवनू कूड निम्मन्नु युद्धक्कागि आह्वानिसुत्तिद्दानॆ. अवन बळि महापराक्रमिगळाद मत्तु बलिष्ठराद अनेक दळपतिगळिद्दारॆ. अवर अधीनदल्लियू बेरॆ बेरॆ अनेक तुकडिगळ वानर सैन्यविदॆ.॥43॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sixty hundred-thousands (ṣaṣṭiḥ śatasahasrāṇi) of monkeys form his [Vinata's] army. And here the monkey named Krodhana (krodhano nāma vānaraḥ) challenges you to battle (tvām āhvayati yuddhāya),
 </details>
 </details>
 
@@ -1401,6 +1591,16 @@ sarvaan = all; *vaanaraan* = the monkeys.
 "That resplendent monkey who for his part nourishes his body having the hue of a red
 chalk and proud of his strength, stands facing you with anger despising all other monkeys."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**44:** [whose warriors], valiant and mighty (vikrāntā balavantaś ca), are arrayed troop by troop in distinct divisions (yathā yūthāni bhāgaśaḥ). And the monkey who displays a body gleaming with the hue of red ochre (gairikavarṇābhaṃ vapuḥ puṣyati),
+
+**45:** ever disdaining all other monkeys (avamatya sadā sarvān vānarān) in the pride of his strength (baladarpitaḥ), is the fiery Gavaya by name (gavayo nāma tejasvī), who advances against you in wrath.
+
+**46:** Upon him attend seventy hundred-thousands (śatasahasrāṇi saptatiḥ), and this hero alone aspires (eṣaivāśaṃsate) to crush Laṅkā with his own army!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1460,6 +1660,12 @@ Lanka with the help of his army."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तारनॆय सर्ग पूर्णवायितु.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+These are irresistible heroes (ete duṣprasahā vīrāḥ), whose number cannot be reckoned (yeṣāṃ saṃkhyā na vidyate)—troop-commanders and chiefs of troop-commanders (yūthapā yūthapaśreṣṭhāḥ), each with his troops in distinct divisions (bhāgaśaḥ).
 </details>
 </details>
 

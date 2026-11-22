@@ -36,6 +36,12 @@ title = "०३४ वालि-जयः"
 
 राघव! अर्जुननिन्द बिडुगडॆ हॊन्दि रावणनु खेदविल्लदवनागि पुनः पृथिवियल्लि सञ्चरिस तॊडगिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Released by Arjuna (arjunena vimuktas tu), Rāvaṇa, sovereign of the rākṣasas (rāvaṇo rākṣasādhipaḥ), roamed across the entire earth (cacāra pṛthivīṃ sarvām), rendered wholly free from dejection (anirviṇṇas tathā kṛtaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ title = "०३४ वालि-जयः"
 
 भूमण्डलदल्लि अधिक बलविरुव राक्षसनागली, मनुष्यनागली, अवन बळिगॆ होगि युद्धक्कागि आह्वानिसुत्तिद्दनु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whenever he hears of any rākṣasa or mortal superior in strength (rākṣasaṃ vā manuṣyaṃ vā śṛṇute ’yaṃ balādhikam), Rāvaṇa approaches him (taṃ samāsādya) and arrogantly challenges him to battle (yuddhe hvayati darpitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +97,12 @@ title = "०३४ वालि-जयः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर ऒन्दु दिन अवनु वालियिन्द पालितवाद किष्किन्धॆगॆ होगि सुवर्णमालाधारी वालियन्नु युद्धक्कागि आह्वानिसिदनु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then on a certain occasion (tataḥ kadācit), having gone to the city of Kiṣkindhā, protected by Vālī (kiṣkindhāṃ nagarīṃ vālipālitām), he challenges to combat Vālī, wearer of the golden garland (hvayati yuddhāya vālinaṃ hemamālinam).
 </details>
 </details>
 
@@ -114,6 +132,12 @@ _________________
 
 आग युद्धद इच्छॆयिन्द बन्दिरुव रावणनल्लि वालिय मन्त्रि तार, तारापित सुषेण, युवराज अङ्गद हागू सुग्रीवनु हेळिदरु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the monkey minister Tāra (vānarāmātyas tāraḥ), along with Tārā’s father [Suṣeṇa], the lord [Sugrīva], and the vānara chieftains (tārāpitā prabhuḥ ... vānaraḥ), spoke these words to him who had come eager for battle (uvāca ... vākyaṃ yuddhaprepsum upāgatam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +162,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसेन्द्रने! ईग वालियु हॊरगॆ होगिरुवनु. अवनन्नु बिट्टु बेरॆ याव वानरनु निन्न ऎदुरिगॆ निल्लबल्लनु? अवने निनगॆ सरिसमाननागबल्लनु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O lord of the rākṣasas (rākṣasendra), Vālī—the one who could be an equal match for you (yas te pratibalo bhavet)—has gone away (gato vālī); what other monkey is able to stand before you in combat (ko ’nyaḥ pramukhataḥ sthātuṃ tava śaktaḥ plavaṅgamaḥ)?
 </details>
 </details>
 
@@ -164,6 +194,12 @@ _________________
 
 रावण! नाल्कु समुद्रगळल्लियू सन्ध्योपासनॆ माडुव वालियु ईगले बरुवनु. नीनु स्वल्प हॊत्तु इल्लिये इरु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having duly worshipped the twilight across all four oceans (caturbhyo ’pi samudrebhyaḥ sandhyām anvāsya), O Rāvaṇa, Vālī returns at this very hour (imaṃ muhūrtam āyāti vālī); therefore wait but a brief moment (tiṣṭha muhūrtakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +224,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! नोडु, ई शङ्खदन्तॆ बॆळ्ळगॆ इरुव ऎलुबिन राशियु वालियॊडनॆ युद्धद इच्छॆयिन्द बन्दिरुव निन्नन्तह वीररद्दागिदॆ. वानरराज वालिय तेजदिन्द इवरॆल्लर अन्त्यवागिदॆ.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold these heaps of bones, gleaming pale as conch-shells (etān asthicayān paśya ya ete śaṅkhapāṇḍurāḥ)—these belong to warriors eager for battle (yuddhārthinām ime), O King, felled by the fiery might of the monkey sovereign (vānarādhipa-tejasā).
 </details>
 </details>
 
@@ -217,6 +259,12 @@ _________________
 
 राक्षस रावणने! नीनु अमृतपान माडिद्दरू वालियॊडनॆ युद्ध माडिदाग अदे निन्न जीवनद कॊनॆय गळिगॆयागुवुदु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if the elixir of immortality has been drunk by you (yadvā ’mṛtarasaḥ pītas tvayā), O Rāvaṇa, O rākṣasa, even then, upon encountering Vālī (tadā vālinam āsādya), your life will find its end right there (tadantaṃ tava jīvitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +290,12 @@ _________________
 
 विश्रवस्सुकुमार! वालियु समस्त आश्चर्यद भण्डारवागिद्दानॆ. ईग नीनु अवन दर्शन माडुवॆ. केवल इदे मुहूर्तदवरॆगॆ प्रतीक्षॆ माडु, मत्तॆ निन्न जीवन दुर्लभवादीतु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold now this marvel of the world (paśyedānīṃ jagaccitram imam), O son of Viśravas (viśravasaḥ suta); wait for this single moment (idaṃ muhūrtaṃ tiṣṭhasva), for soon life itself will become hard for you to keep (durlabhaṃ te bhaviṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -266,6 +320,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इल्लवे निनगॆ सायलु बहळ अवसरविद्दरॆ दक्षिण समुद्रद तीरक्कॆ होगु. अल्लि निनगॆ पृथिवियल्लि स्थितनाद यज्ञेश्वरनन्तह वालिय दर्शनवागबहुदु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or else, if you are in haste to die (athavā tvarase martum), go to the southern ocean (gaccha dakṣiṇasāgaram)—there you shall behold Vālī (vālinaṃ drakṣyase tatra), like a blazing fire stationed upon the earth (bhūmistham iva pāvakam)!”
 </details>
 </details>
 
@@ -295,6 +355,12 @@ _________________
 
 आग जगत्तन्नु अळुवन्तॆ माडुव रावणनु तारनन्नु निन्दिसि पुष्पक विमानवन्नेरि दक्षिण समुद्रद कडॆगॆ तॆरळिदनु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spurning Tāra with contempt (sa tu tāraṃ vinirbhartsya), Rāvaṇa, who makes the worlds weep (rāvaṇo lokarāvaṇaḥ), ascended that aerial car Puṣpaka (puṣpakaṃ tat samāruhya) and sped forth to the southern ocean (prayayau dakṣiṇārṇavam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,6 +385,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि रावणनु सुवर्णगिरियन्तह ऎत्तरविरुव वालियु सन्ध्योपासनॆ माडुत्तिरुवुदन्नु नोडिदनु. अवन मुखवु प्रभात सूर्यनन्तॆ अरुण प्रभॆयिन्द हॊळॆयुत्तित्तु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There Rāvaṇa beheld Vālī (tatra ... rāvaṇo vālinaṃ dṛṣṭvā), resembling a mountain of gold (hemagiri-prakhyam), with a countenance glowing like the rising sun (taruṇārka-nibhānanam), absorbed in his twilight devotions (sandhyopāsana-tatparam).
 </details>
 </details>
 
@@ -345,6 +417,12 @@ _________________
 
 अवनन्नु नोडि काडिगॆयन्तॆ कप्पाद रावणनु पुष्पक विमानदिन्द इळिदु, कालिन सप्पळवागदन्तॆ बेग-बेगने वालियन्नु हिडियलु मुन्दरिदनु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Descending then from Puṣpaka (puṣpakād avaruhyātha), Rāvaṇa, dark as collyrium (rāvaṇo ’ñjanasannibhaḥ), swiftly crept forward with soundless steps (tūrṇaṃ niḥśabdapadam āvrajat) in order to seize Vālī (grahītuṃ vālinam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -370,6 +448,12 @@ _________________
 
 दैवयोगदिन्द वालियू रावणनन्नु नोडिदरू अवन पापपूर्ण अभिप्रायवन्नु तिळिदरू गाबरिगॊळ्ळलिल्ल.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By chance that Rāvaṇa was beheld even by Vālī (yadṛcchayā tadā dṛṣṭo vālināpi sa rāvaṇaḥ), bent as he was upon wicked intent (pāpābhiprāyavān); yet seeing him, Vālī betrayed no agitation whatsoever (dṛṣṭvā cakāra na tu sambhramam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -394,6 +478,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सिंहवु मॊलवन्नु, गरुडनु सर्पवन्नु नोडियू अदर परिवॆ माडदन्तॆये वालियु पापपूर्ण विचारवुळ्ळ रावणनन्नु नोडियू चिन्तिसलिल्ल.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a lion eyeing a hare (śaśam ālakṣya siṃho vā) or Garuḍa beholding a serpent (pannagaṃ garuḍo yathā), Vālī took no anxious thought of that wickedly resolved Rāvaṇa (na cintayati taṃ vālī rāvaṇaṃ pāpaniścayam).
 </details>
 </details>
 
@@ -423,6 +513,12 @@ _________________
 
 पापात्मा रावणनु नन्नन्नु हिडियलु हत्तिर बन्दाग नानु इवनन्नु कङ्कुळल्लि अदुमि हिडिदु, इवनन्नु ऎत्तिकॊण्डे उळिद मूरु महासागरगळिगॆ होगुवॆनु ऎन्दु निश्चयिसिदनु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Making this evil-minded Rāvaṇa, who approaches desiring to seize me (jighṛkṣamāṇam āyāntaṃ rāvaṇaṃ pāpacetasam), hang helplessly beneath my armpit (kakṣāvalambinaṃ kṛtvā), I shall traverse the remaining three great oceans (gamiṣye trīn mahārṇavān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,6 +543,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 गरुडनिन्द हिडियल्पट्ट सर्पदन्तॆ शत्रुवाद इवनु नन्न कङ्कुळिनल्लिद्दु नेताडुत्तिरुव तॊडॆ, तोळु, वस्त्रगळिन्द कूडि जोतु बिद्दिरुवुदन्नु लोकद जनरु नोडुवन्तागलि.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The onlookers shall behold my enemy tucked against my side (drakṣyanty ariṃ mamāṅkastham), his thighs, arms, and robes dangling loose (sraṃsad-ūru-karāmbaram)—Ten-necked Rāvaṇa hanging limp like a serpent in Garuḍa’s grip (lambamānaṃ daśagrīvaṃ garuḍasyeva pannagam)!”
 </details>
 </details>
 
@@ -473,6 +575,12 @@ _________________
 
 हीगॆ निश्चयिसि मौनवागिद्द वालियु वैदिक मन्त्रगळन्नु जपिसुत्ता गिरिराज सुमेरुविनन्तॆ निश्चलवागि कुळित्तिद्दनु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fixing his mind upon this resolve (ity evaṃ matim āsthāya), Vālī kept his attention tethered to his ear (vālī karṇam upāśritaḥ) and, chanting Vedic mantras (japan vai naigamān mantrān), stood immobile like the king of mountains (tasthau parvatarāḍ iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -497,6 +605,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ बलाभिमानदिन्द तुम्बिद आ वानरराज मत्तु राक्षसराज इब्बरू परस्पर हिडियलु बयसुत्तिद्दरु. इब्बरू तम्म कार्यसाधनॆगागि प्रयत्नशीलरागिद्दरु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Both eager to seize one another (tāv anyonyaṃ jighṛkṣantau), those two sovereigns of monkeys and rākṣasas (hari-rākṣasa-pārthivau), exerting every effort (prayatnavantau) and flushed with pride of strength (baladarpitau), strove for that very deed (tat karma īhatuḥ).
 </details>
 </details>
 
@@ -523,6 +637,12 @@ _________________
 
 रावणन कालिन सप्पळदिन्द रावणनु मुन्दरिदु नन्नन्नु हिडियलु बयसुत्तिरुव नॆन्दु तिळिद वालियु हिन्दॆ नोडदॆये गरुडनु सर्पवन्नु हिडियुवन्तॆ हिडिदुकॊण्डनु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Judging by the sound of his footsteps that Rāvaṇa was closing to lay hands upon him (hastagrāhaṃ tu taṃ matvā pādaśabdena rāvaṇam), Vālī, though facing away (parāṅmukho ’pi), snatched him up (jagrāha vālī) as Garuḍa snatches a serpent (sarpam ivāṇḍajaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,6 +667,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हिडियुव इच्छॆयुळ्ळ राक्षसराजनन्नु वालिये स्वतः हिडिदु तन्न बगलल्लि अदुमि हिडिदुकॊण्डु वेगवागि आकाशक्कॆ नॆगॆदनु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seizing that lord of the rākṣasas who had longed to seize him (grahītukāmaṃ taṃ gṛhya rakṣasām īśvaram), the monkey hero (hariḥ) bounded swiftly into the sky (kham utpapāta vegena), tucking him hanging beneath his armpit (kṛtvā kakṣāvalambinam).
 </details>
 </details>
 
@@ -573,6 +699,12 @@ _________________
 
 रावणनु उगुरुगळिन्द पदे-पदे वालियन्नु परचुत्तिद्दरू, गाळियु मोडगळन्नु हारिसिकॊण्डु होगुवन्तॆ वालियु रावणनन्नु कङ्कुळल्लिट्टुकॊण्डु तिरुगाडतॊडगिदनु.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as Rāvaṇa squeezed against him (taṃ cāpīḍayamānaṃ tu) and repeatedly gouged him with his nails (vitudantaṃ nakhair muhuḥ), Vālī bore Rāvaṇa away through the air (jahāra rāvaṇaṃ vālī) as the wind carries off a rain-cloud (pavanas toyadaṃ yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -597,6 +729,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ रावणनु अपहरिसल्पट्टाग अवन मन्त्रिगळु वालियिन्द अवनन्नु बिडिसलु बॊब्बिडुत्ता अवन हिन्दॆ-हिन्दॆ ओडिदरु.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then those rākṣasa ministers (atha te rākṣasāmātyāḥ), seeing the Ten-necked one being carried off (hriyamāṇaṃ daśānanam), rushed screaming after Vālī (vāliṃ ravamāṇā abhidrutāḥ) in their eagerness to rescue him (mumokṣayiṣavaḥ).
 </details>
 </details>
 
@@ -623,6 +761,12 @@ _________________
 
 मुन्दॆ वालियु होगुत्तिद्दरॆ हिन्दॆ-हिन्दॆ राक्षसरु बरुत्तिद्दरु. इन्तह स्थितियल्लि आकाशद मध्यक्कॆ तलुपिदाग वालियु मेघमण्डलदिन्द अनुसरिसल्पडुव सूर्यनन्तॆ शोभिसुत्तिद्दनु.॥24॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pursued by them as he soared through mid-heaven (anvīyamānas tair vālī ... ambaramadhyagaḥ), Vālī shone resplendent (bhrājate), like the radiant sun stationed in the sky (ambarastha ivāṃśumān) pursued by billowing masses of clouds (anvīyamāno meghaughaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -647,6 +791,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ श्रेष्ठ राक्षसरु बहळ प्रयत्निसिदरू वालिय बळिगॆ तलुपदादरु. अवन भुज, तॊडॆगळ वेगदिन्द उण्टाद वायुविन हॊडॆतक्कॆ बळलि अवरु निन्तुबिट्टरु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unable to overtake Vālī (te ’śaknuvantaḥ samprāptuṃ vālinam), those foremost rākṣasas (rākṣasottamāḥ), worn out by the rushing impetus of his arms and thighs (tasya bāhūru-vegena pariśrāntāḥ), came to a halt (vyavasthitāḥ).
 </details>
 </details>
 
@@ -673,6 +823,12 @@ _________________
 
 वालिय मार्गदिन्द हाराडुत्तिरुव पर्वतगळू दूरागुत्तिद्दवु. मत्तॆ रक्त-मांसमय शरीरधारी प्राणि अवन दारियिन्द दूर उळियुवुदरल्लि हेळुवुदेनिदॆ.॥26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even the lord of mountains drew back from the path of Vālī as he sped onward (vālimārgād apākrāman parvatendro hi gacchataḥ)—what then of any mortal creature of flesh and blood longing to keep its life (kiṃ punar jīvitaprepsur bibhrad vai māṃsa-śoṇitam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -697,6 +853,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वालियु समुद्रगळवरॆगॆ तलुपुवष्टरल्लि तीव्रगामि पक्षिगळू तलुपुत्तिरलिल्ल. आ महावेगशाली वानरराजनु क्रमवागि ऎल्ल समुद्र तीरगळल्लि होगि सन्ध्यावन्दनॆ माडिदनु.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To all those oceans beyond the flight-range of flocks of birds (apakṣigaṇa-sampātān ... sāgarān sarvān) the monkey king of mighty speed (vānarendro mahājavaḥ) repaired in due order (kramaśaḥ) and worshipped the twilight hour (sandhyākālam avandata).
 </details>
 </details>
 
@@ -723,6 +885,12 @@ _________________
 
 समुद्रगळ यात्रॆ माडुत्ता आकाश चारिगळल्लि श्रेष्ठवालियन्नु ऎल्ल खेचर प्राणिगळु पूजिसुत्ता प्रशंसिसुत्तिद्दरु. अवनु रावणनन्नु बगलल्लि अदुमि हिडिदु पश्चिम समुद्र तीरक्कॆ बन्दनु.॥28॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Acclaimed by the sky-dwelling beings (sabhājyamāno bhūtais tu khaicaraiḥ), that foremost of sky-farers (khaicarottamaḥ), Vālī, arrived at the western ocean bearing Rāvaṇa along (paścimaṃ sāgaraṃ vālī hy ājagāma sarāvaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -747,6 +915,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि स्नान, सन्ध्योपासनॆ, जप माडि आ वानर वीरनु दशानननन्नु ऎत्तिकॊण्डे उत्तर समुद्र तडिगॆ बन्दनु.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having performed twilight worship there, bathed, and chanted his prayers (tasmin sandhyām upāsitvā snātvā japtvā ca), that vānara set out for the northern ocean (uttaraṃ sāgaraṃ prāyāt), still carrying the Ten-necked one (vahamāno daśānanam).
 </details>
 </details>
 
@@ -773,6 +947,12 @@ _________________
 
 वायु, मनस्सिनन्तॆ वेगवुळ्ळ आ महावानर वालियु ऎष्टो साविर योजन रावणनन्नु हॊत्तुकॊण्डे इद्दनु. मत्तॆ तन्न शत्रुविनॊन्दिगॆ अवनु उत्तर समुद्रद तीरक्कॆ बन्दनु.॥30॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bearing him across many thousands of yojanas (bahuyojana-sāhasraṃ vahamāno), that mighty monkey (mahāhariḥ) sped onward swift as the wind and swift as thought (vāyuvac ca manovac ca jagāma), together with his foe (saha śatruṇā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -797,6 +977,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 उत्तर सागर तीरदल्लि सन्ध्योपासनॆ माडि दशानननन्नु हॊत्तुकॊण्डे वालियु पूर्वदिक्किन महासागर तडिगॆ बन्दनु.॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having worshipped the twilight at the northern ocean (uttare sāgare sandhyām upāsitvā), Vālī, still bearing the Ten-necked one (daśānanaṃ vahamānaḥ), proceeded straightway to the eastern great sea (agamad vālī pūrvaṃ vai sa mahodadhim).
 </details>
 </details>
 
@@ -823,6 +1009,12 @@ _________________
 
 अल्लियू सन्ध्योपासनॆ मुगिसि आ इन्द्रपुत्र वानरराज वालियु दशमुख रावणनन्नु बगलल्लि अदुमि हिडिदुकॊण्डे किष्किन्धॆय बळिगॆ बन्दनु.॥32॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having duly worshipped the twilight there as well (tatrāpi sandhyām anvāsya), Vāsava’s son, that sovereign of monkeys (vāsaviḥ sa harīśvaraḥ), holding Rāvaṇa fast (gṛhya rāvaṇam), returned once more toward Kiṣkindhā (kiṣkindhām abhito ... punar āgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -847,6 +1039,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ नाल्कू समुद्रगळल्लि सन्ध्योपासना कार्यमुगिसि रावणनन्नु हॊत्तद्दरिन्द बळलिद वानरराज वालियु किष्किन्धॆय उपवनक्कॆ बन्दनु.॥33॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having performed twilight devotions at all four oceans (caturṣv api samudreṣu sandhyām anvāsya), the vānara, fatigued from carrying Rāvaṇa (rāvaṇodvahana-śrāntaḥ), alighted in a garden of Kiṣkindhā (kiṣkindhopavane ’patat).
 </details>
 </details>
 
@@ -876,6 +1074,12 @@ _________________
 
 अल्लिगॆ होगि कपिश्रेष्ठनु रावणनन्नु कङ्कुळ दिन्द बिट्टु, पदे-पदे नगुत्ता - अय्या! नीनु ऎल्लिन्द बन्दिरुवॆ? ऎन्दु केळिदनु.॥34॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that foremost of monkeys released Rāvaṇa from his armpit (rāvaṇaṃ tu mumocātha svakakṣāt kapisattamaḥ), and laughing heartily again and again (prahasan ... muhuḥ), asked Rāvaṇa: “Whence have you come (kutas tvam iti covāca)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -900,6 +1104,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळलिकॆयिन्द रावणन कण्णुगळु चञ्चलवागिद्दवु. वालिय ई अद्भुत पराक्रमवन्नु नोडि अवनिगॆ आश्चर्यवागि आ राक्षसराजनु वानरराजनल्लि हीगॆ हेळिदनु.॥35॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with immense astonishment (vismayaṃ tu mahad gatvā), his eyes rolling unsteadily from exhaustion (śrama-lola-nirīkṣaṇaḥ), the sovereign of the rākṣasas (rākṣasendraḥ) spoke these words to that king of monkeys (harīndraṃ tam idaṃ vacanam abravīt):
 </details>
 </details>
 
@@ -926,6 +1136,12 @@ _________________
 
 महेन्द्रनन्तॆ पराक्रमी वानरेन्द्रने! नानु राक्षसेश्वर रावणनागिद्देनॆ. युद्धद इच्छॆयिन्द इल्लिगॆ बन्दिद्दॆ. आ युद्धवु निन्निन्द सिक्किये होयितु.॥36॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O king of vānaras (vānarendra), radiant as great Indra (mahendrābha), I am Rāvaṇa, sovereign of the rākṣasas (rākṣasendro ’smi rāvaṇaḥ); I came here eager for combat (yuddhepsur iha samprāptaḥ), and today I have been overpowered by you (sa cādyāsāditas tvayā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -950,6 +1166,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अय्या! निन्नल्लि अद्भुत बल, पराक्रमविदॆ, आश्चर्यजनक गम्भीरतॆ इदॆ. नीनु नन्नन्नु पशुविनन्तॆ हिडिदुकॊण्डु नाल्कु समुद्रगळन्नु सुत्ताडिसिदॆ.॥37॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Oh, what strength! Oh, what valor! Oh, what unfathomable poise as well (aho balam aho vīryam aho gāmbhīryam eva ca)—by which, seizing me like a beast (yenāhaṃ paśuvad gṛhya), you whirled me round the four oceans (bhrāmitaś caturo ’rṇavān)!
 </details>
 </details>
 
@@ -976,6 +1198,12 @@ _________________
 
 वानरवीरने! नीनल्लदॆ नन्नन्नु हीगॆ आयासविल्लदॆ शीघ्रवागि हॊरबल्लनु याव शूरवीर बेरॆ इरबहुदु.॥38॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What other hero, O valiant one (ko ’nyo vīraḥ), could traverse the great oceans so swiftly as though unwearied (evam aśrāntavad vīra śīghram eva mahārṇavān), while carrying even me aloft (māṃ caivodvahamānas tu kramiṣyati)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1001,6 +1229,12 @@ _________________
 
 वानर राजने! इन्तह गतियु मनस्सु, वायु, गरुड ई मूवरल्ले केळलागुत्तदॆ. ई जगत्तिनल्लि नाल्कनॆयव इन्तह तीव्र वेगशालि निःसन्देहवागि नीने आगिरुवॆ.॥39॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To three beings alone belongs such speed as this (trayāṇām eva bhūtānāṃ gatir eṣā), O monkey chief (plavaṅgama)—to mind, to wind, and to Garuḍa (mano-’nila-suparṇānām)—and to you as well, of that there is no doubt (tava cātra na saṃśayaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1025,6 +1259,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कपिश्रेष्ठने! नानु निन्न बल नोडिदॆ. ईग नानु अग्निसाक्षियागिसि निन्नॊन्दिगॆ सदाकाल स्नेहपूर्ण मित्रतॆयन्नु बयसुत्तिद्देनॆ.॥40॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore I, having witnessed your might (so ’haṃ dṛṣṭabalas tubhyam), O bull among monkeys (haripuṅgava), desire enduring and deeply affectionate friendship with you (icchāmi ... tvayā saha ciraṃ sakhyaṃ susnigdham) in the presence of the sacred fire (pāvakāgrataḥ).
 </details>
 </details>
 
@@ -1054,6 +1294,12 @@ _________________
 
 वानर राजने! पत्नी, पुत्र, नगर, राज्य, भोग, वस्त्र, भोजन इवॆल्ल वस्तुगळल्लि नम्मिब्बरिगू समान अधिकारविरुवुदु.॥41॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Wives, sons, capital city, kingdom (dārāḥ putrāḥ puraṃ rāṣṭram), enjoyments, raiment, and fare (bhogācchādana-bhojanam)—all of these shall be held completely undivided between the two of us (sarvam evāvibhaktaṃ nau bhaviṣyati), O lord of monkeys (harīśvara)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1079,6 +1325,12 @@ _________________
 
 आग वानरराज मत्तु राक्षसराज इब्बरू अग्नि प्रज्वलिसि परस्पर आलिङ्गिसिकॊण्डु तम्मल्लि सोदरत्व सम्बन्ध माडिकॊण्डरु.॥42॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, having kindled the sacred fire (tataḥ prajvālayitvāgnim), both that monkey and that rākṣasa (tāv ubhau harīrākṣasau) embraced one another (pariṣvajya parasparam) and entered into sworn brotherhood (bhrātṛtvam upasampannau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1103,6 +1355,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ अवरिब्बरू ऒब्बरु मत्तॊब्बर कै हिडिदुकॊण्डु सन्तोषवागि किष्किन्धापुरिगॆ, ऎरडु सिंहगळु यारदो गुहॆयन्नु प्रवेशिसुवन्तॆ ऒळहॊक्करु.॥43॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, linking hands with one another (anyonyaṃ lambitakarau), those two—monkey and rākṣasa (tatas tau harirākṣasau)—entered Kiṣkindhā in great joy (kiṣkindhāṃ viśatur hṛṣṭau), like two lions entering a mountain cavern (siṃhau giriguhām iva).
 </details>
 </details>
 
@@ -1132,6 +1390,12 @@ _________________
 
 रावणनु अल्लि सुग्रीवनन्तॆ सम्मानितनागि तिङ्गळॊन्दु उळिदनु. मत्तॆ मूरु लोकगळन्नु कित्तु बिसाडुव इच्छॆयुळ्ळ अवन मन्त्रिगळु बन्दु करॆदुकॊण्डु होदरु.॥44॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dwelt there for a full month just like Sugrīva (sa tatra māsam uṣitaḥ sugrīva iva rāvaṇaḥ), Rāvaṇa was led away by his returning ministers (amātyair āgatair nītaḥ), who were eager to lay waste the three worlds (trailokyotsādanārthibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1156,6 +1420,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रभो! हीगॆ ई घटनॆ मॊदलु घटिसित्तु. वालियु रावणनन्नु सोलिसि, मत्तॆ अग्निसाक्षियागिसि अवनन्नु तन्न सहोदरनन्नागिसिकॊण्डनु.॥45॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus transpired this ancient event (evam etat purāvṛttam), O Lord (prabho): by Vālī was Rāvaṇa both humbled (vālinā rāvaṇaḥ ... dharṣitaś ca) and made a sworn brother in the presence of the sacred fire (kṛtaś cāpi bhrātā pāvakasannidhau).
 </details>
 </details>
 
@@ -1192,6 +1462,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तरकाण्डदल्लि मूवत्तनाल्कनॆय सर्ग पूर्णवायितु. ॥34॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Peerless and supreme was the strength of Vālī (balam apratimaṃ ... vālino ’bhavad uttamam), O Rāma—yet even he was utterly consumed by you (so ’pi tvayā vinirdagdhaḥ), like a moth by blazing fire (śalabho vahninā yathā)!
 </details>
 </details>
 

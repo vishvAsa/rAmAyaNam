@@ -46,6 +46,12 @@ starts to the royal court to meet his father. On the way Rama observes the jubil
 
 हिन्दिन वृत्तान्तवन्नु बल्ल सुमन्त्रनु जनरिन्द निबिडवागिद्द अरमनॆय हॊराङ्गणवन्नु दाटि जनबाहुळ्यविल्लद अरमनॆय ऒळाङ्गणवन्नु प्रवेशिसिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed beyond that gate of the inner apartment which was thronged with people (tad antaḥpura-dvāraṃ samatītya janākulam), Sumantra, knower of ancient lore (purāṇavit), then reached a secluded courtyard (praviviktāṃ tataḥ kakṣyām),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -70,6 +76,12 @@ starts to the royal court to meet his father. On the way Rama observes the jubil
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामन अरमनॆय ऒळाङ्गणदल्लि प्रास, धनुस्सुगळन्नु, परिशुद्धवाद कर्णकुण्डलगळन्नु धरिसिद्द, रक्षणॆयल्ले एकाग्र चित्तरागिद्द, जागरूकरागिद्द, श्रीरामनल्ले हॆच्चु अनुरक्तरागिद्द युवकरु निन्तिद्दरु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+which was guarded by youths bearing darts and bows (prāsa-kārmuka-bibhradbhiḥ), wearing burnished earrings (mṛṣṭa-kuṇḍalaiḥ), ever vigilant (apramādibhiḥ), single-minded (ekāgraiḥ), and deeply devoted to their lord (svānuraktaiḥ).
 </details>
 </details>
 
@@ -104,6 +116,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 काषाय वस्त्रगळन्नु धरिसि बॆत्तगळन्नु हिडिदु वस्त्राभूषणगळिन्द अलङ्कृतराद अनेक वृद्धराद अन्तःपुरद अधिकारिगळु द्वारदल्लि कुळितिरुवुदन्नु सुमन्त्रनु नोडिदनु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There at the doorway he beheld aged men attired in saffron-red garments (kāṣāyiṇo vṛddhān), holding rattan canes in their hands (vetra-pāṇīn), splendidly adorned (svalaṃkṛtān), attentive, and appointed as superintendents over the women’s apartments (stry-adhyakṣān susamāhitān).
 </details>
 </details>
 
@@ -150,6 +168,12 @@ well-wishers of Rama; *samiikshhya* = saw; *samaayaantam* = him coming;
 
 All of them, the well-wishers of Rama, saw that Sumantra arriving and raised from
 their seats hurriedly at once.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him approaching (samīkṣya samāyāntam), and desiring to do what was pleasing to Rāma (rāma-priya-cikīrṣavaḥ), all of them sprang up at once from their seats in eager haste (sahasotpatitāḥ sarve hy āsanebhyaḥ sasambhramāḥ).
 </details>
 </details>
 
@@ -198,6 +222,12 @@ entrance.
 That humble-minded Sumantra spoke to them thus, "Tell Rama immediately that Sumantra
 is waiting with reverence at the entrance"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To them the humble-minded and courtly son of a charioteer (vinītātmā sūta-putraḥ pradakṣiṇaḥ) spoke: “Quickly announce to Rāma that Sumantra stands at the door (sumantro dvāri tiṣṭhati)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,6 +267,12 @@ is waiting with reverence at the entrance"
 
 They, the well-wishers of their master, approached Rama who was with his wife and
 immediately informed him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching Rāma (te rāmam upasaṅgamya) and desiring to do what was pleasing to their lord (bhartuḥ priya-cikīrṣavaḥ), they immediately reported his arrival to Rāma, who was seated together with his consort (saha-bhāryāya rāmāya kṣipram evācacakṣire).
 </details>
 </details>
 
@@ -284,6 +320,12 @@ kindness; *anaayayamaasa* = called him in ; *tatraiva* = there only.
 Knowing that Sumantra, who was intimate to his father, came, Rama who desired to
 show kindness, called him in there.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning that his father’s intimate counselor (sūtam abhyantaraṃ pituḥ) had been announced (prativeditam ājñāya), Rāghava, out of desire to do what was pleasing to his father (priya-kāmyayā), had him ushered into that very chamber (tatraivānāyayām āsa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -308,6 +350,12 @@ show kindness, called him in there.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लिगॆ होगि सुमन्त्रनु नोडिदनु - श्रीरामचन्द्रनु वस्त्राभूषगळिन्द अलङ्कृतवागि कुबेरनन्तॆ कण्डुबरुत्तिद्दु, स्वर्णमञ्चदल्लि हंसतूलिकातल्पदल्लि विराजमाननागिद्दनु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The charioteer beheld him resembling Vaiśravaṇa Kubera (vaiśravaṇa-saṃkāśam), splendidly adorned (svalaṃkṛtam) and seated upon a golden couch spread with a costly coverlet (paryaṅke sauvarṇe sottaracchade),
 </details>
 </details>
 
@@ -366,6 +414,14 @@ cloth-covering. He adorned himself well and had the body anointed with sandal pe
 smelling like blood of a boar. With Sita, standing on his side with chowrie in her hand, Rama was
 shining like moon with chitra star.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** that scorcher of foes (paraṃtapam), anointed with pure, fragrant, and priceless sandal-paste (śucinā ca sugandhinā... parārghyena candanena) gleaming dark red like boar’s blood (varāha-rudhirābheṇa),
+
+**10:** and attended once more by Sītā standing at his side with a yak-tail chowrie in her hand (sthitayā pārśvataś cāpi vāla-vyajana-hastayā), even as the moon is joined with the star Citrā (citrayā śaśinaṃ yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -415,6 +471,12 @@ shining; *aadityam iva* = like sun; *varadam* = granting wishes.
 Sumantra, who knew polite conduct, offered salutation to Rama, who was refined with
 his own brilliance, shining like the sun and the fulfiller of desires.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Understanding the rules of courtly decorum (vinayajñaḥ), the panegyrist Sumantra (vandī) humbly bowed in salutation (vavande... vinītavat) to that boon-bestowing prince (varadam), who was endowed with his own innate splendour like the blazing sun (tapantam ivādityam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -460,6 +522,12 @@ with folded hands; *raajaputram* = to that prince; *sumukham* = with beautiful f
 
 Sumantra, who was treated with respect by Rama spoke thus with folded hands to that
 prince with beautiful face and who was seated on a swinging sofa.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With folded hands (prāñjaliḥ), beholding the prince with a serene and cheerful countenance (sumukhaṃ dṛṣṭvā) upon his couch of recreation and repose (vihāra-śayanāsane), Sumantra, honored by the king, spoke this word:
 </details>
 </details>
 
@@ -507,6 +575,12 @@ let you go; *tatra* = there; *maachiram* = wtihout delay.
 "Oh Rama, the good offspring of Kausalya! Your father and the Queen Kaikeyi want to
 see you. Go there soon."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Rāma, through you Kausalyā is blessed with a noble son (kausalyā suprajā rāma)! Your father desires to see you (pitā tvāṃ draṣṭum icchati), together with Queen Kaikeyī (mahiṣyāpi hi kaikeyyā); therefore let your journey thither be made without delay (gamyatāṃ tatra mā ciram)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -552,6 +626,12 @@ brilliance; *samhR^isTaH* = was pleased; *uktaH* = to be told; *evam* = thus;
 
 That best of men with great brilliance was pleased to hear those words, then
 honoured him and spoke thus to Sita.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, that lion among men of mighty splendour (narasiṃho mahādyutiḥ) was thrilled with joy (saṃhṛṣṭaḥ); he then duly honored Sumantra (tataḥ sammānayām āsa) and spoke this word to Sītā:
 </details>
 </details>
 
@@ -599,6 +679,12 @@ relating to coronation; *dhR^ivam* = certain.
 "Oh Sita! The king and the queen together are thinking of something about me,
 relating to coronation. It is certain."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O lady (devi), the king and the queen, having met together on my account (devaś ca devī ca samāgamya mad-antare), are surely deliberating upon something connected with my consecration (mantrayete dhruvaṃ kiṃcid abhiṣecana-saṃhitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -641,6 +727,12 @@ king; *madartham* = for my sake.
 
 "Then black-eyed Kaikeyi who is dexterous and friendly disposed, has perceived the
 king's opinion and is inciting him for my sake"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having discerned the king’s intention (lakṣayitvā hy abhiprāyam), that dark-eyed queen (asitekṣaṇā), who is skilled in counsel (sudakṣiṇā) and desires what is dear to me (priya-kāmā), is urging the monarch on for my sake (saṃcodayati rājānaṃ mad-artham).
 </details>
 </details>
 
@@ -688,6 +780,12 @@ desirous of my benefit; *me arthakaamaa* = wishing my prosperity".
 "Kaikeyi, my mother is following the king's intentions with great pleasure, desirous
 of my benefit and prosperity"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Full of joy (sā prahṛṣṭā), ever complying with the monarch’s benevolent wishes (mahārājaṃ hita-kāmānuvartinī), that daughter of the lord of Kekaya is my mother who desires my true welfare (jananī cārtha-kāmā me).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -733,6 +831,12 @@ fulfils my desires and wishes; *duutam* = as messenger.
 
 "It is certainly our luck that king and queen have sent Sumantra, who fulfils my
 desires and wishes, as messenger".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By good fortune indeed (diṣṭyā khalu), the great king, together with his beloved consort (mahiṣyā priyayā saha), has dispatched Sumantra as a messenger who accomplishes my desired welfare and joy (dūtam artha-kāma-karaṃ mama)!
 </details>
 </details>
 
@@ -780,6 +884,12 @@ anoint; *maam* = me; *youvaraajye* = for the right of succession to kingdom.
 "A worthy messenger has come who is truly representing the assembly there. It is
 certain that today itself the king will anoint me for the right of succession to kingdom".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Such as is the assembly gathered there in the royal palace, even such is the messenger who has come (yādṛśī pariṣat tatra tādṛśo dūta āgataḥ); surely this very day the king will anoint me in the office of Prince Regent (dhruvam adyaiva māṃ rājā yauvarājye ’bhiṣekṣyati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -826,6 +936,12 @@ saha* = with the circle of friends; *ramasva cha* = and enjoy yourself.
 "I shall go immediately and see the king. You stay happily with the circle of
 friends and enjoy yourself."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Come then (hanta), I shall go quickly from this place and behold the lord of the earth (śīghram ito gatvā drakṣyāmi ca mahīpatim); do you remain here happily and sport at ease together with your retinue of companions (saha tvaṃ parivāreṇa sukham āssva ramasva ca).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -871,6 +987,12 @@ thinking; *mangalaani* = of auspicious things.
 
 Sita, treated with respect by her husband and having black eyes, followed her
 husband up to the door, thinking of auspicious things in her mind.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored thus by her lord (pati-sammānitā), dark-eyed Sītā (asitekṣaṇā) followed her husband as far as the doorway (ā dvāram anuvavrāja), meditating upon and uttering auspicious benedictions (maṅgalāny abhidadhyuṣī):
 </details>
 </details>
 
@@ -919,6 +1041,12 @@ perform; *raajasuuyaabhishhehanam* = great sacrifice at coronation of king.
 you with eligibility to perform the great sacrifice at the coronation ceremony like Brahma to
 Devendra."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The king ought to bestow upon you the sovereignty served by the twice-born (rājyaṃ dvijātibhir juṣṭam) and perform for you the imperial Rājasūya consecration (rājasūyābhiṣecanam), even as the Creator Brahmā did for Vāsava Indra (vāsavasyeva loka-kṛt)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -959,6 +1087,12 @@ hand.
 
 "I shall be delighted to see you, initiated for the perfect religious act of
 austerity, wearing excellent antelope-hide, being pure and bearing a deer-horn in hand".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding you consecrated for the sacrifice (dīkṣitam), perfected in sacred vows (vrata-sampannam), wearing the noble black-antelope skin (varājina-dharam), pure (śucim), and holding the deer’s horn in your hand (kuraṅga-śṛṅga-pāṇiṃ ca), I shall wait upon you in devotion (paśyantī tvāṃ bhajāmy aham).
 </details>
 </details>
 
@@ -1011,6 +1145,12 @@ god of riches; *paatu* = protect.
 the regent of the ocean in the west and Kubera the god of riches and treasure in the north, protect
 you".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+May the thunderbolt-wielder Indra guard your eastern quarter (pūrvāṃ diśaṃ vajra-dharo), may Yama guard your southern quarter (dakṣiṇāṃ pātu te yamaḥ), may Varuṇa guard the western region (varuṇaḥ paścimām āśām), and may Kubera, lord of wealth, guard the northern quarter (dhaneśas tūttarāṃ diśam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1056,6 +1196,12 @@ mangalaH* = adorned as in an auspicious ceremony; *anujJNaapya* = got permission
 
 Rama, adorned as in an auspicious festivity, took permission from Sita and started
 from house along with Sumantra.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having taken leave of Sītā (atha sītām anujñāpya), Rāma, for whom the auspicious wrist-thread rites had been performed (kṛta-kautuka-maṅgalaḥ), went forth from his abode together with Sumantra (niścakrāma sumantreṇa saha rāmo niveśanāt),
 </details>
 </details>
 
@@ -1107,6 +1253,12 @@ with the palms of hand joined and put to forehead as a mark of respect.
 That Rama who came out, like a lion residing in a mountain cave from out of the
 mountain, saw Lakshmana standing at the door, bowing with palms of the hand joined and put to the
 forehead as a mark of respect.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like a lion dwelling in a mountain cavern emerging from a mountain (parvatād iva niṣkramya siṃho giri-guhā-śayaḥ); and at the doorway he beheld Lakṣmaṇa standing bowed with folded hands (lakṣmaṇaṃ dvāri so ’paśyat prahvāñjali-puṭaṃ sthitam).
 </details>
 </details>
 
@@ -1164,6 +1316,14 @@ Then, that prince the best of men, met his friends in the middle chamber. He saw
 the people who came there to behold him, approached nearer to them, greeted them and mounted the
 excellent chariot, which was resplendent like fire and covered with tiger's skin.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** Then in the middle courtyard he met with his friends (madhyama-kakṣyāyāṃ samāgacchat suhṛj-janaiḥ); and having beheld, approached, and graciously greeted all the suitors who desired to see him (sa sarvān arthino dṛṣṭvā sametya pratinandya ca),
+
+**28:** that tiger among men, the delighter of the king (puruṣa-vyāghro... rāja-nandanaḥ), then mounted the peerless chariot that shone like fire (pāvaka-saṃkāśam āruroha rathottamam), resplendent and covered with tiger-skin (vaiyāghraṃ... rājitam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1188,6 +1348,12 @@ excellent chariot, which was resplendent like fire and covered with tiger's skin
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु कुळितिद्द आ दिव्य रथद ध्वनियु मेघगम्भीर ध्वनियन्तॆ इत्तु. रथद ऒळभागवु विस्तारवागित्तु. अदु नवरत्नगळिन्दलू, सुवर्णदिन्दलू विभूषितवागित्तु. मेरुपर्वतद सुवर्णकान्तियन्तॆ हॊळॆयुत्तित्तु. आ रथवु नोडुव जनर कण्णु कुक्कुवन्तह प्रभॆयन्नु हॊरसूसुत्तित्तु.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+thundering like a rain-cloud (megha-nādam), spacious and unobstructed (asambādham), decked with gems and gold (maṇi-hema-vibhūṣitam), dazzling the eyes as though stealing them away with its splendour (muṣṇantam iva cakṣūṃṣi prabhayā), and possessing the lustre of Mount Meru (meru-varcasam),
 </details>
 </details>
 
@@ -1237,6 +1403,12 @@ gold and jewels. Its splendour was like that of Meru mountain, stealing the eyes
 looking like infantine elephants were tied to the chariot, which was moving quickly. That Rama
 shining with splendour like Indra, the lord of sky, mounted such a chariot and went forth
 quickly.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+yoked with supreme steeds resembling young elephant calves (kareṇu-śiśu-kalpaiś ca yuktaṃ parama-vājibhiḥ)—even as the thousand-eyed Indra mounts his swift-coursing chariot yoked with bay steeds (hari-yuktaṃ sahasrākṣo ratham indra ivāśugam).
 </details>
 </details>
 
@@ -1326,6 +1498,12 @@ their hands; *susamaahitaan* = well composed; *vishhTitaan* = being posted;
 There he saw aged palace-supervisors wearing orange coloured clothes, adorning
 themselves well, having canes in their hands, well composed and being posted at door-ways.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting quickly, Rāghava, blazing with royal splendour (rāghavo jvalitaḥ śriyā), set forth (prayayau), making the quarters resound like a roaring thundercloud in the sky (parjanya ivākāśe svanavān abhinādayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1368,6 +1546,12 @@ brother; *chhatra chaamara paaNiH* = having umbrella and chamara fan in hand.
 
 Lakshmana, Rama's younger brother mounted the chariot in the back-side and protected
 Rama with umbrella and chamara fan.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The glorious prince issued forth from his palace like the moon emerging from a mighty cloud (niketān niryayau śrīmān mahābhrād iva candramāḥ); and Rāghava’s younger brother Lakṣmaṇa, holding the variegated chowrie—and the royal parasol—in his hands (citra-cāmara-pāṇis tu lakṣmaṇo rāghavānujaḥ),
 </details>
 </details>
 
@@ -1415,6 +1599,12 @@ hallooing sound.
 Then, the crowds started dispersing from all sides generating tumultuous hallowing
 sound.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+guarded his brother from behind, standing upon the chariot (jugopa bhrātaraṃ bhrātā ratham āsthāya pṛṣṭhataḥ). Then a tumultuous roar of ‘Halahalā!’ arose on every side (tato halahalā-śabdas tumulaḥ samajāyata)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1461,6 +1651,12 @@ mountains; *tadaa* = then; *anujagmuH* = followed; *raamam* = Rama.
 Thereupon, hundreds and thousands of important people mounted on excellent horses
 and soldiers mounted on elephants, then followed Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+from that multitude of people surging forth on all sides (tasya niṣkramamāṇasya janaughasya samantataḥ). Then choice steeds and chief elephants resembling mountains (haya-varā mukhyā nāgāś ca giri-sannibhāḥ)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1503,6 +1699,12 @@ Rama; *jagmuH* = went; *agrataH* = in front; *asya* = of Rama.
 
 Valiant persons, dressed in armour adorned with sandal and aloe perfumes, wearing
 swords and bows, declaring the arrival of Rama, went in front of Rama to receive him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+followed after Rāma by the hundreds and by the thousands (anujagmus tathā rāmaṃ śataśo ’tha sahasraśaḥ); and in front of him marched mail-clad warriors adorned with sandal-paste and aloe (agrataś cāsya sannaddhāś candanāguru-bhūṣitāḥ),
 </details>
 </details>
 
@@ -1564,6 +1766,14 @@ went; *kiiryamaNaH* = being sprinkled; *supushhponghaiH* = by stream of good flo
 While Rama, the annihilator of enemies, was going, well-adorned women standing in
 porticoes of palaces, sprinkled flowers on him from all sides.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** heroic men bearing swords and bows, uttering auspicious wishes for his welfare (khaḍga-cāpa-dharāḥ śūrā jagmur āśaṃsavo janāḥ). Then the sounds of musical instruments and the panegyric chants of bards (vāditra-śabdāś ca stuti-śabdāś ca vandinām)
+
+**37:** and the lion-roars of heroes were heard along the road (siṃha-nādāś ca śūrāṇāṃ tataḥ śuśruvire pathi). Then, by adorned women standing at the lattice-windows of the mansions on every side (harmya-vātāyana-sthābhir bhūṣitābhiḥ samantataḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1606,6 +1816,12 @@ with the best words; *raamapipriishhayaa* = with desire to please Rama.
 
 Women of exquisitely beautiful form standing in palaces and on ground were offering
 salutations to Rama with the best words with a desire to please Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the tamer of foes was showered with torrents of lovely flowers as he rode along (kīryamāṇaḥ supuṣpaughair yayau strībhir ariṃdamaḥ). Out of an eager desire to delight Rāma (rāma-piprīṣayā), women of wholly faultless limbs (sarvānavadyāṅgyaḥ)
 </details>
 </details>
 
@@ -1656,6 +1872,12 @@ siddhayaatram = have successful journey; *te* = your; *maataa* = mother;
 
 "Oh, Rama, who creates happiness to mother! Have successful journey! Your mother
 Kausalya will be certainly delighted to see you obtaining the paternal kingdom."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+standing upon the mansion-terraces and standing upon the ground (harmya-sthāḥ kṣiti-sthāś ca) extolled Rāma with choicest words (vacobhir agryair... vavandire): “O delighter of your mother (mātṛ-nandana), surely your mother Kausalyā rejoices today (nūnaṃ nandati te mātā kausalyā),
 </details>
 </details>
 
@@ -1717,6 +1939,14 @@ times.
 "As Rohini star stays together with the moon, Sita having obtained Rama as husband
 must have certainly performed a great penance in former times."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**40:** beholding you successful in your royal procession (paśyantī siddha-yātraṃ tvām) and having attained your ancestral sovereignty (pitryaṃ rājyam upasthitam)!” And above all women with parted hair, they esteemed Sītā as the foremost of noble wives (sītāṃ sīmantinīṃ varām),
+
+**41:** for those women regarded her as the darling of Rāma’s heart (amanyanta hi tā nāryo rāmasya hṛdaya-priyām): “Surely in a former birth great austerity was well practiced by that princess Sītā (tayā sucaritaṃ devyā purā nūnaṃ mahat tapaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1759,6 +1989,12 @@ who was in the royal road; *sushraava* = heard; *priyaaH vaachaH* = pleasent wor
 
 While going through the royal road, Rama heard those pleasant words spoken thus by
 women standing in turrets.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+who has attained union with Rāma, even as Rohiṇī is united with the hare-marked moon (rohiṇīva śaśāṅkena rāma-saṃyogam āpa yā)!” Riding along the royal highway (rāja-mārga-sthaḥ), that best of men heard these pleasing words uttered by the joyous women upon the palace pinnacles (śuśrāva... priyā vāca udāhṛtāḥ).
 </details>
 </details>
 
@@ -1812,6 +2048,12 @@ variously; *aatmaadhikaaraaH* = pertaining to himself; *pure janasya* = by citiz
 
 Then, Rama heard the words of people gathered there and also the words variously
 pertaining to himself, by citizens.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There at that time Rāghava heard the joyful discourses of the assembled populace (pralāpān śuśrāva lokasya samāgatasya), and the manifold words concerning himself (ātmādhikārā vividhāś ca vācaḥ) uttered by the exultant people in the city (prahṛṣṭa-rūpasya pure janasya):
 </details>
 </details>
 
@@ -1867,6 +2109,12 @@ will have fulfilled all desires.
 "By the king's propitiousness, this Rama today is going to obtain this earth and the
 wealthy kingdom. All our desires are going to be fulfilled because Rama will become the ruler."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yonder goes Rāghava today, about to attain vast royal fortune through the king’s grace (rāja-prasādād vipulāṃ śriyaṃ gamiṣyan)! Truly we are all folk whose every desire is fulfilled (ete vayaṃ sarva-samṛddha-kāmāḥ), for whom this prince shall be our ruler (yeṣām ayaṃ no bhavitā praśāstā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1920,6 +2168,12 @@ anyone; *jaatu* = at anytime; *na pashyet hi* = will not see kichana = anything;
 
 "If Rama rules this state for a long time, it will be a great benefit to the people.
 If he becomes a king none can see dislike and sorrow at any time."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+It is the supreme gain of this people (lābho janasyāsya) that this prince shall rule over this entire realm for a long time to come (yad eṣa sarvaṃ prapatsyate rāṣṭram idaṃ cirāya); for while he is lord of men, no one shall ever behold anything unwelcome or any sorrow (na hy apriyaṃ kiṃcana jātu kaścit paśyen na duḥkham)!”
 </details>
 </details>
 
@@ -1980,6 +2234,12 @@ with elephants; *ghoshhavadbhiH* = having resounds.
 While bards and panegyrists were moving in front praising with great respect,
 invoking blessings and eulogised by the most excellent instrumentalists, Rama, like Kubera the god
 of wealth, went with resounding horses and elephants.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored by neighing and bell-decked steeds and elephants marching in front (sa ghoṣavadbhiś ca hayaiḥ sanāgaiḥ puraḥsaraiḥ), and by panegyrists crying ‘Victory!’, charioteer-bards, and genealogists (svastika-sūta-māgadhaiḥ), and praised by foremost musicians (pravaraiś ca vādakair abhiṣṭutaḥ), he advanced like Vaiśravaṇa Kubera (vaiśravaṇo yathā yayau).
 </details>
 </details>
 
@@ -2046,6 +2306,12 @@ was abundance of people gathered at road junctions.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि हदिनारनॆय सर्ग पूर्णवायितु ॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma beheld the spotless grand highway (dadarśa rāmo vimalaṃ mahā-patham), thronged with female elephants, mighty tuskers, chariots, and steeds (kareṇu-mātaṅga-rathāśva-saṃkulam), its crossroads filled to overflowing with vast multitudes of people (mahā-janaughaiḥ paripūrṇa-catvaram), abounding in jewels and heaped with rich merchandise of every kind (prabhūta-ratnaṃ bahu-paṇya-saṃcayam).
 </details>
 </details>
 

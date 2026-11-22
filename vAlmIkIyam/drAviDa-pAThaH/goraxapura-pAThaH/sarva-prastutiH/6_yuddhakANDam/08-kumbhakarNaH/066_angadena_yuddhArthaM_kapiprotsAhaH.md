@@ -70,6 +70,12 @@ quickly; *niryayau* = sallied forth; *nagaraat* = from the city.
 That mighty Kumbhakarna, with his colossal body resembling the peak of a mountain,
 having crossed the rampart, sallied forth from the city.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stepping over the rampart (laṅghayitvā prākāraṃ), the huge Kumbhakarṇa of mighty strength, resembling a mountain peak (girikūṭopamaḥ), sallied forth swiftly from the city.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -112,6 +118,12 @@ were.
 
 Kumbhakarna emitted a roar, making the sea to reverberate, causing the mountains to
 quake and drowning the thunder-claps, as it were.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And he uttered a mighty roar, making the ocean resound (samudram abhinādayan), as though vanquishing thunderclaps (nirghātān) and blowing away mountains (vidhamann iva parvatān).
 </details>
 </details>
 
@@ -160,6 +172,12 @@ Seeing that demons of terrific eyes who could not be destroyed either by Indra t
 lord of celestials or by Yama the lord of death or by Varuna the god of water, the monkeys ran
 away.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that dreadful-eyed giant advancing—invulnerable (avadhyam) even to Maghavān [Indra], Yama, or Varuṇa—the Vānaras fled in all directions (vipradudruvuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,6 +223,12 @@ spoke to; *nalam* = Nala; *neelam* = Neela; *gavaakSam cha* = Gavaksha;
 
 Seeing them running away, Angada the prince spoke to Nala, Neela, Gavaksha and the
 mighty Kumuda as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing them routed in panic, the royal prince Aṅgada spoke to Nala, Nīla, Gavākṣa, and the mighty Kumuda:
 </details>
 </details>
 
@@ -255,6 +279,12 @@ monkeys; *kva* = where; *gachchhata* = do you go?.
 "Where do you go, forgetting your own dignities as also nobilities of birth and
 trembling with fear like common monkeys?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Forgetting those famed exploits and noble lineages of your own (vīryāṇy abhijanāni ca), where are you fleeing, terrified with fear like common monkeys (prākṛtā harayo yathā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -302,6 +332,12 @@ competent; *yuddhaaya* = for a combat; *iyam* = this; *mahatii* = is a great;
 "O auspicious monkeys! Please return! Why do you so fully guard your lives? This
 demon is not competent for a combat. He is merely a great toy of terror."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Turn back nobly, gentle sirs (sādhu saumyā nivartadhvam)! Why do you hoard your lives? This rākṣasa is no match for battle (nālaṃ yuddhāya vai rakṣaḥ)—this is a mere huge scarecrow (mahatīyaṃ vibhīṣikā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +377,12 @@ back.
 
 "O monkeys! By our prowess, we shall destroy this giant toy produced by demons. Come
 back!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By our valor we shall blow away (vikramād vidhamiṣyāmaḥ) this huge phantom of terror (vibhīṣikām) raised up by the rākṣasas; turn back, O leapers!
 </details>
 </details>
 
@@ -388,6 +430,12 @@ trees; *sampratasthuH* = and proceeded towards; *raNaajiram* = the battle field.
 Reconciling themselves with some difficulty, the monkeys, from all sides, assembled
 together at a place and snatching some trees, the monkeys for their part, towards the
 battle-field.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recovering their composure with difficulty (kṛcchreṇa tu samāśvasya) and rallying from this side and that, the monkeys seized trees and stood firm upon the battlefield (raṇājire).
 </details>
 </details>
 
@@ -453,6 +501,14 @@ their ends; *na kampate* = was unshaken.
 The mighty Kumbhakarna, though assaulted with lofty mountain-tops, rocks and trees
 with blossoms at their ends, stood unshaken.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Turning back in furious zeal (saṃrabdhāḥ), those forest-dwellers, enraged to the utmost like rutting elephants (samadā iva kuñjarāḥ), struck Kumbhakarṇa.
+
+**10:** Though pelted by those mighty warriors with lofty mountain crags (prāṃśubhir giriśṛṅgaiś ca), boulders, and trees crowned with blossoms, he did not waver (na kampate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -499,6 +555,12 @@ with blossoms at their ends, stood unshaken.
 Many rocks, fallen on his limbs, got burst into pieces. The trees, with blossoms at
 their ends, were broken and fell shattered on the floor.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Falling upon his limbs, many boulders were shattered to pieces (bhidyante bahavaḥ śilāḥ), and trees with flowering tops fell broken to the ground.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -543,6 +605,12 @@ fire would consume the woods.
 Kumbhakarna too, very much enraged, crushed the ranks of monkeys though they were
 greatly energetic, with his extreme exertion even as a rising fire would consume the woods.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He too, thoroughly incensed and exerting himself to the utmost (paramāyattaḥ), churned (mamantha) the legions of the mighty Vānaras like an uprisen fire consuming forests (vanāny agnir ivotthitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -585,6 +653,12 @@ the monkeys; *nirastaaH* = lay on the ground; *lohitaardraaH* = bathed in blood;
 
 Many of the foremost among the monkeys lay on the ground, bathed in blood as they
 were, fallen like trees with crimson flowers, when tossed up by the demon.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Drenched in blood (lohitārdrāḥ), many bulls among the Vānaras lay stretched upon the ground where they had been flung down (nirastāḥ patitā bhūmau), like trees with crimson blossoms (tāmrapuṣpā iva drumāḥ).
 </details>
 </details>
 
@@ -632,6 +706,12 @@ jumping; *pradhaavantaH* = and running away; *naavalokyan* = did not look back;
 Some monkeys, while jumping and running away, did not look back. Some fell in the
 ocean. Some inhabited the sky.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaping and fleeing headlong, the Vānaras did not look back (nāvalokayan); some plunged into the ocean, while others took to the sky (gaganam āsthitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -678,6 +758,12 @@ the ocean.
 
 While that demon was killing some warriors of monkeys playfully, some others ran
 away by the same route, by which they earlier crossed the ocean.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Slaughtered effortlessly (līlayā) by that rākṣasa, those heroes fled back along the very same path (pathā tenaiva dudruvuḥ) by which they had crossed the ocean [the Setu bridge]!
 </details>
 </details>
 
@@ -729,6 +815,12 @@ vadanaaH* = becoming pale-faced; *bhayaat* = due to fear; (inhabited);
 While some monkeys becoming pale-faced due to fear, inhabited the mounds and the low
 grounds, some bears ascended the trees. Some escaped to a hill.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With faces drained of color from terror (vivarṇavadanā bhayāt), they [fled over] high grounds and low hollows; the bears (ṛkṣāḥ) climbed up into trees, and some sought refuge on the mountain.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -779,6 +871,12 @@ Some were drowned in the ocean. Some had recourse into the caves. Some others
 escaped. Some could not even stand stable on the ground. Some fell down. Some lied down, as though
 they were dead.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some plunged into the sea, some took shelter in caverns; some dropped down, others could not keep their footing at all; some fell flat upon the earth, and some lay motionless as though dead (suptā mṛtā iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -828,6 +926,12 @@ _________________
 Seeing those monkeys disorderly retreated, Angada spoke these words, "Stay. We shall
 carry on the battle. Come back."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those routed (bhagnān) Vānaras, Aṅgada spoke these words: “Stand fast (avatiṣṭhata), let us fight! Turn back, O leapers!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -874,6 +978,12 @@ place; *vaH* = for you; *bhagnaanaam* = who have retreated; *parikramya* =
 
 "I do not catch sight of any place for you, who have retreated, even if you roam
 over the entire earth. Let all of you come back. Why do you safeguard your lives?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even after traversing this whole earth (parikramya mahīm imām), I see no place of refuge (sthānaṃ) for you if you flee broken; turn back, all of you! Why do you hoard your lives?
 </details>
 </details>
 
@@ -922,6 +1032,12 @@ well.
 "O valiant monkeys, moving without hindrances! Your wives, seeing you running away
 leaving your weapos aside, will mock at you. It is indeed a death for those who lived well."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O warriors of unobstructed stride and valor (asaṅgagatipauruṣāḥ), your wives will laugh in scorn (dārā hy upahasiṣyanti) at you fleeing weaponless—and for those who live in comfort, that is verily death (sa vai ghātaḥ sujīvatām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -948,6 +1064,12 @@ leaving your weapos aside, will mock at you. It is indeed a death for those who 
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीवॆल्लरू बहळ दूरदवरॆगॆ हरडिकॊण्डु महाकुलदल्लि हुट्टिरुविरि. हागिरुवाग साधारण कपिगळन्तॆ भयगॊण्डु ओडिहोगुत्तिरुविल्ल? नीवु पराक्रम बिट्टु भयदिन्द ओडि होदरॆ निश्चयवागि अनार्यरागुविरि.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You are all born in vast and noble lineages (kuleṣu... vistīrṇeṣu mahatsu ca); where are you fleeing, terrified with fear like common monkeys? Ignoble indeed are you (anāryāḥ khalu), in that you cast aside your valor and run away in fright!
 </details>
 </details>
 
@@ -992,6 +1114,12 @@ honour.
 "All of us are born in distinguished races; which are well developed. Where to you
 go frightened, like ordinary monkeys? As you are running away with fear, leaving all your valour,
 you are indeed unworthy of honour."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Where now have gone those proud (sodagrāṇi) and salutary boasts (vikatthanāni) of yours that were uttered by you in the assembly of the people (janasaṃsadi)?
 </details>
 </details>
 
@@ -1038,6 +1166,12 @@ coming for the battle)?; *gataani* = melt away?
 
 "Where did those boasting words of you melt away, in which you highly projected
 yourself in front of the people just before coming for the battle?
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reproaches of cowardice (bhīroḥ pravādāḥ) are heard against him who lives on under a curse of shame (dhikkṛtaḥ); let the path trodden by noble men (mārgaḥ satpuruṣair juṣṭaḥ) be followed—cast off fear!
 </details>
 </details>
 
@@ -1089,6 +1223,12 @@ fear; *tyajyataam* = be abandoned.
 "The cowards, who survive even after being reproached, have to hear slanders from
 the people. Let the path trodden by the good people be followed. Let your fear be abandoned."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Either, being short-lived (alpajīvitāḥ), let us lie slain upon the earth and attain the world of Brahmā (prāpnuyāmo brahmalokaṃ), which is hard to reach for cowardly fighters (kuyodhibhiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1137,6 +1277,12 @@ warriors.
 earth and reach the realm of Brahma (residence of pious spirits), which is difficult to be attained
 by bad warriors."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+or let us win renown by slaying the enemy in battle! Or, slain in battle, O Vānaras, we shall enjoy the riches of the heroes' heaven (vīralokasya bhokṣyāmo vasu)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1178,6 +1324,12 @@ warriors.
 "O monkeys! We shall obtain glory by killing our enemies in battle or if killed on
 the other hand, we shall enjoy the heaven, attained by the warriors."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon beholding Kākutstha [Rāma], Kumbhakarṇa will not depart alive (na... jīvan gamiṣyati), any more than a moth (pataṅgaḥ) approaching a blazing fire!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1217,6 +1369,12 @@ jvalanam* = a blazing fire.
 
 "Coming face to face with Rama, Kumbhakarna will not go back alive, any more than a
 moth meeting a blazing fire."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If we, who are renowned among heroes (uddiṣṭāḥ) and many in number, save our lives by flight after being routed by a single foe (ekena bahavo bhagnāḥ), our fame will go to ruin!
 </details>
 </details>
 
@@ -1259,6 +1417,12 @@ one person alone; *rakSaamahi* = and protect; *praaNaan* = and lives;
 "If we, in large numbers, who are intended to fight, are conquered by one person
 alone and if we protect our lives by running away, our glory will undergo a damage."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As that valiant Aṅgada, decked with golden armlets (kanakāṅgadam), spoke thus, the fleeing monkeys uttered in reply a speech despised by heroes (śūravigarhitam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1300,6 +1464,12 @@ golden armlets; *evam* = thus; *bruvaaNam* = speaking.
 Then, those fleeing monkeys spoke the following words, which were contemptible by
 the warriors, to that valiant Angada, who was adorneed with golden armlets.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A dreadful slaughter (kadanaṃ ghoraṃ) has been wrought upon us by the rākṣasa Kumbhakarṇa! This is no time to stand firm—we are leaving, for life is dear to us (dayitaṃ jīvitaṃ hi naḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1339,6 +1509,12 @@ sthaanakaalaH* = it is not the proper time to stay; *gachchhaamaH naH* = to us;
 
 "For us, it is enough of this terrific battle with Kumbhakarna, the demon. It is not
 the proper time to stay back but it is to time to go away. Life is indeed dear to us."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken only these words, all those Vānara troop-leaders scattered toward every quarter, beholding the dreadful, terrible-eyed giant advancing.
 </details>
 </details>
 
@@ -1383,6 +1559,12 @@ all directions.
 
 Seeing that terrific Kumbhakarna coming with his dreadful eyes, all those commanders
 of monkey-troops, speaking words only thus far, scattered in all directions.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet as those valiant monkeys (balīmukhāḥ) were fleeing, they were all turned back by Aṅgada through soothing words (sāntvanaiḥ) and logical persuasions [or: tokens of honor] (anumānaiś ca).
 </details>
 </details>
 
@@ -1430,6 +1612,12 @@ arguments.
 
 Thereafter, with the coaxing words and inferential arguments by Angada, all those
 fleeing commanders of monkeys turned back.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brought to high spirits (praharṣam upanītāś ca) by the wise son of Vālī, all the Vānara troop-leaders stood awaiting his command (ājñāpratīkṣās tasthuś ca).
 </details>
 </details>
 
@@ -1491,6 +1679,12 @@ army-troops stood awaiting his command.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि अरवत्तारनॆय सर्ग पूर्णवायितु.॥66॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ṛṣabha, Śarabha, Mainda, Dhūmra, and Nīla; Kumuda, Suṣeṇa, Gavākṣa, Rambha, and Tāra; and the chiefs headed by Dvivida, Panasa, and the son of the Wind-god [Hanumān] marched rapidly straight toward the battle (tvaritatarābhimukhaṃ raṇaṃ prayātāḥ)!
 </details>
 </details>
 

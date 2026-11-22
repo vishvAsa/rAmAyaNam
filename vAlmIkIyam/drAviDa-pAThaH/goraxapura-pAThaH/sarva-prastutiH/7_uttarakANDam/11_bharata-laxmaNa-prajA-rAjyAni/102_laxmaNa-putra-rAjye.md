@@ -36,6 +36,12 @@ title = "१०२ लक्ष्मण-पुत्र-राज्ये"
 
 गन्धर्वदेशद समाचारवन्नु भरतनिन्द केळिद श्रीरामचन्द्रनिगॆ तम्मन्दिरॊन्दिगॆ तुम्बा सन्तोषवायितु. अनन्तर श्रीरामनु परमाद्भुतवाद मातन्नु अनुजरल्लि हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that report (tac chrutvā), Rāghava attained great joy together with his brothers (harṣam āpede ... bhrātṛbhiḥ saha), and then spoke a wondrous-seeming speech to Lakṣmaṇa (vākyaṃ cādbhutasaṅkāśaṃ tadā provāca lakṣmaṇam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,6 +70,12 @@ _________________
 
 सुमित्रा नन्दन ! अङ्गद मत्तु चित्रकेतु इवरिब्बरू निन्न कुमाररु धर्मज्ञरागिद्दारॆ. इवरु राज्यद रक्षणॆगागि बेकाद दृढतॆ हागू पराक्रमवन्नु हॊन्दिरुवरु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Saumitri, these two sons of yours, Aṅgada and Candraketu (imau kumārau ... aṅgadaś candraketuś ca), are learned in dharma (dharmaviśāradau) and of steadfast valor for the task of kingship (rājyārthe dṛḍhavikramau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,6 +100,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द नानु इवरिगू पट्टाभिषेक माडुवॆनु. नीनु इवरिगागि ऒळ्ळॆय देशवन्नु आरिसु. अदु रमणीयवागिद्दु, विघ्नबाधॆगळिन्द रहितवागिरलि. अल्लि इवरिब्बरु धनुर्धरवीररु आनन्दवागि इरलि.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall consecrate them both in kingship (imau rājye ’bhiṣekṣyāmi); let a suitable country be sought out (deśaḥ sādhu vidhīyatām)—one that is delightful and uncrowded (ramaṇīyo hy asambādhaḥ), where these two bowmen may take joy (rametāṃ yatra dhanvinau).
 </details>
 </details>
 
@@ -114,6 +132,12 @@ _________________
 
 सौम्य! इवरु वासिसुवुदरिन्द इतर राजरिगॆ पीडॆ, उद्वेग आगदिरुव, आश्रमगळ नाशवागदिरुव, नावू कूड यार कण्णिगू अपराधिगळागदिरुवन्तह ऒन्दु देशवन्नु नोडु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let such a country be looked out, O gentle one (sa deśo dṛśyatāṃ saumya), where no king would suffer injury (na rājño yatra pīḍā syāt) and no hermitages would face destruction (nāśramāṇāṃ vināśanam), so that we incur no fault (nāparādhyāmahe yathā).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +162,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामचन्द्रनु हीगॆ हेळिदाग भरतनु उत्तरिसिदनु- आर्यने! कारुपथ ऎम्ब देश बहळ सुन्दरवागिदॆ. अल्लि यावुदे रोग-व्याधिगळ भयविल्ल.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma had spoken thus (tathoktavati rāme tu), Bharata indeed replied (bharataḥ pratyuvāca ha): “There is this Kārupatha country (ayaṃ kārupatho deśaḥ), delightful and free from all blight (ramaṇīyo nirāmayaḥ).
 </details>
 </details>
 
@@ -164,6 +194,12 @@ _________________
 
 अल्लि महात्मा अङ्गदनिगागि हॊस राजधानी स्थापिसल्पडलि हागू चन्द्रकेतुविगॆ इरलु चन्द्रकान्त ऎम्ब नगरद निर्माणवागलि. अदु सुन्दर मत्तु आरोग्य वर्धकवागलि.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let a city be founded there for the great-souled Aṅgada (niveśyatāṃ tatra puram aṅgadasya mahātmanaḥ), and for Candraketu the exceedingly fair and wholesome city of Candrakānta (candraketoḥ suruciraṃ candrakāntaṃ nirāmayam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +224,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भरतनु हेळिद मातन्नु श्रीरघुनाथनु अनुमोदिसि, कारुपथ देशवन्नु तन्न अधिकारदल्लि पडॆदु अङ्गदनन्नु अल्लिय राजनन्नागिसिदनु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāghava accepted those words spoken by Bharata (tad vākyaṃ bharatenoktaṃ pratijagrāha rāghavaḥ), and having brought that country under control (taṃ ca kṛtvā vaśe deśam), he founded a city there for Aṅgada (aṅgadasya nyaveśayat).
 </details>
 </details>
 
@@ -214,6 +256,12 @@ _________________
 
 क्लेशरहित कर्ममाडुव श्रीरामनु अङ्गदनिगागि ‘अङ्गदीया’ ऎम्ब रमणीय पुरियन्नु स्थापिसिदनु. परम सुन्दरवागिद्दु, ऎल्ल कडॆगळिन्द सुरक्षितवागित्तु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lovely city of Aṅgadīyā was founded for Aṅgada (aṅgadīyā purī ramyāpy aṅgadasya niveśitā), charming and well-fortified (ramaṇīyā suguptā ca), by Rāma of unwearied deeds (rāmeṇākliṣṭakarmaṇā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +286,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 चन्द्रकेतु हृष्ट-पुष्टनागि मल्लनन्तॆ इद्दनु. अवनिगागि मल्ल देशदल्लि ‘चन्द्रकान्ता’ ऎम्ब विख्यात दिव्यपुरियन्नु निर्मिसलायितु. अदु स्वर्गद अमरावतियन्तॆ सुन्दरवागित्तु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And for Candraketu, the stalwart prince (candraketoś ca mallasya), a city renowned as Candrakāntā (candrakānteti vikhyātā), divine as a city of heaven (divyā svargapurī yathā), was founded in Mallabhūmi (mallabhūmyāṃ niveśitā).
 </details>
 </details>
 
@@ -264,6 +318,12 @@ _________________
 
 इदरिन्द श्रीराम - लक्ष्मण - भरत मूवरिगू बहळ सन्तोषवायितु. आ ऎल्ल रणदुर्जय वीररु स्वतः आ कुमाररिगॆ पट्टाभिषेक माडिदरु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Rāma, Lakṣmaṇa, and Bharata likewise (rāmaḥ ... lakṣmaṇo bharatas tathā), unassailable in battle (yuddhe durādharṣāḥ), attained supreme joy (parāṃ prītiṃ ... yayuḥ) and performed their royal consecration (abhiṣekaṃ ca cakrire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -288,6 +348,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 एकाग्रचित्त हागू ऎच्चरिकॆयिन्दिरुव आ कुमाररिब्बर पट्टाभिषेक माडि, अङ्गदनन्नु पश्चिमक्कॆ मत्तु चन्द्रकेतुवन्नु उत्तरक्कॆ कळिसिकॊट्टरु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having consecrated the two princes (abhiṣicya kumārau), Rāghava sent them forth (sa prasthāpayati rāghavaḥ): Aṅgada to the western land (aṅgadaṃ paścimāṃ bhūmim) and Candraketu facing north (candraketum udaṅmukham).
 </details>
 </details>
 
@@ -314,6 +380,12 @@ _________________
 
 अङ्गदनॊन्दिगॆ स्वतः सुमित्रा कुमार लक्ष्मणनु होदनु हागू चन्द्रकेतुविगॆ पार्श्वरक्षकनागि भरतनु प्रयाण बॆळॆसिदनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Saumitri Lakṣmaṇa indeed went after Aṅgada (aṅgadaṃ cāpi saumitrir lakṣmaṇo ’nujagāma ha), while Bharata became the rear-guard protector of Candraketu (candraketos tu bharataḥ pārṣṇigrāho babhūva ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,6 +411,12 @@ _________________
 
 लक्ष्मणनु अङ्गदीया पुरियल्लि ऒन्दु वर्षविद्दु, अवन दुर्धर्षपुत्र अङ्गदनु दृढतॆ यिन्द राज्यवन्नु आळतॊडगिदाग, अवनु पुनः अयोध्यॆगॆ मरळिदनु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa, having dwelt for a year in Aṅgadīyā (lakṣmaṇas tv aṅgadīyāyāṃ saṃvatsaram athoṣitaḥ), once his unassailable son was firmly established (putre sthite durādharṣe), came back again to Ayodhyā (ayodhyāṃ punar āgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -363,6 +441,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆये भरतनू चन्द्रकान्ता नगरदल्लि ऒन्दु वर्षक्किन्त स्वल्प हॆच्चु काल उळिदु, चन्द्रकेतुविन राज्यवु दृढवादाग अवनु अयोध्यॆगॆ बन्दु श्रीरामन चरणसेवॆयल्लि तॊडगिदनु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata too, having dwelt likewise for somewhat more than a year (tathaivoṣya saṃvatsaram ato ’dhikam), returned again to Ayodhyā (ayodhyāṃ punar āgamya) and waited upon Rāma’s feet (rāmapādāv upāsta saḥ).
 </details>
 </details>
 
@@ -392,6 +476,12 @@ _________________
 
 लक्ष्मण - भरतरिगॆ श्रीरामचन्द्रन चरणगळल्लि अनन्य अनुरागवित्तु. इब्बरू बहळ धर्मात्मरागिद्दु, श्रीरामन सेवॆयल्लि इरुवाग बहळ समय कळॆयितु; आदरॆ स्नेहाधिक्यदिन्दागि अवरिगॆ अदु तिळियले इल्ल.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Both Saumitri and Bharata, wholly devoted to Rāma’s feet (rāmapādāvanuvratau) and exceedingly righteous (atidhārmikau), out of love did not even perceive the passing of time (kālaṃ gatam api snehān na jajñāte).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -416,6 +506,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ मूवरू सहोदररु पुरवासिगळ कार्यदल्लि सदा मुळुगिद्दु, धर्म पालनॆगागि प्रयत्नशीलरागि इरुत्तिद्दरु. हीगॆ हत्तु साविर वर्षगळु कळॆदु होदुवु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus ten thousand years passed away for them then (evaṃ varṣasahasrāṇi daśa teṣāṃ yayus tadā), ever exerting themselves in dharma (dharme prayatamānānām) and in the affairs of the citizens (paurakāryeṣu nityadā).
 </details>
 </details>
 
@@ -461,6 +557,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि नूर ऎरडनॆय सर्ग पूर्णवायितु. ॥102॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having sported through that span with fully contented minds (vihṛtya kālaṃ paripūrṇamānasāḥ), surrounded by royal splendor (śriyā vṛtāḥ) and firmly established in the city of dharma (dharmapure susaṃsthitāḥ), those three of blazing luster (trayaḥ ... dīptatejasaḥ) shone like the three sacred fires well kindled and offered oblations in a great sacrifice (samiddhā iva ... mahādhvare sādhu hutās trayo ’gnayaḥ).
 </details>
 </details>
 

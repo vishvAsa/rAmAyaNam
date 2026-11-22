@@ -36,6 +36,12 @@ title = "०१७ वेदवती-शापः"
 
 (अगस्त्यरु हेळुत्तारॆ-) राजने! अनन्तर महाबाहु रावणनु भूतळदल्लि सञ्चरिसुत्ता हिमालयद वनक्कॆ बन्दु अल्लि ऎल्लॆडॆ अलॆयतॊडगिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, O King, as the mighty-armed Rāvaṇa roamed over the surface of the earth (vicaran sa mahītale), he reached the forests of the Himālaya (himavad-vanam āsādya) and wandered about (paricakrāma rāvaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०१७ वेदवती-शापः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि कृष्णमृग चर्मवन्नुट्टु, जटाधारियाद ऒन्दु तपस्विनी कन्यॆयन्नु नोडिदनु. अवळु ऋषिप्रणीत विधियिन्द तपस्सिनल्लि तॊडगि देवाङ्गनॆयन्तॆ प्रकाशिसुत्तिद्दळु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There he beheld a maiden (kanyām) clad in a black antelope-skin and bearing matted locks (kṛṣṇājina-jaṭādharām), devoted to the observance prescribed by the sages (ārṣeṇa vidhinā yuktām) and shining like a goddess (dīpyantīṃ devatām iva).
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०१७ वेदवती-शापः"
 
 उत्तम महाव्रतवन्नु पालिसुव, रूप सौन्दर्यदिन्द सुशोभितळाद आ कन्यॆयन्नु नोडि रावणन चित्त कामजनित मोहक्कॆ बलियागि, अट्टहास माडुत्ता आकॆयल्लि केळिदनु .॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that maiden endowed with loveliness (rūpa-sampannām) and observing an exceedingly great vow (sumahāvratām), he—his mind overwhelmed by lust and delusion (kāma-moha-parītātmā)—questioned her as though laughing softly (papraccha prahasann iva):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +129,12 @@ title = "०१७ वेदवती-शापः"
 
 शुभमङ्गळे! नीनु ई यौवनावस्थॆगॆ विपरीतवागि वर्तिसुत्तिरुवॆ. निन्न ई दिव्य रूपक्कॆ इन्तह आचरणॆ ऎन्दिगू उचितवल्ल.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What is this conduct you pursue, O fair one (kim idaṃ vartase bhadre), so contrary to your youth (viruddhaṃ yauvanasya te)? Surely such a perversion (pratikriyā) is not fitting for this beauty of yours (naitasya rūpasyaiva)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,6 +159,12 @@ title = "०१७ वेदवती-शापः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुन्दरी! निन्न ई रूपक्कॆ तुलनॆये इल्ल. इदु पुरुषर हृदयदल्लि कामजनित उन्मादवन्नु उण्टुमाडुवुदागिदॆ. आद्दरिन्द नीनु तपस्सिनल्लिरुवुदु उचितवल्ल. निन्न कुरितु नन्न हृदयदल्लि इदे निर्णय प्रकटवागिदॆ.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Matchless is your beauty, O timid one (rūpaṃ te ’nupamaṃ bhīru), kindling the madness of desire in men (kāmonmādakaraṃ nṛṇām); it is not proper to abide in austerity (na yuktaṃ tapasi sthātum)—for this judgment is universally declared (nirgato hy eṣa nirṇayaḥ).
 </details>
 </details>
 
@@ -167,6 +197,12 @@ _________________
 
 शुभे! नीनु यार मगळागिरुवॆ? याव व्रतवन्नु माडुत्तिरुवॆ? सुमुखी! निन्न पति यारु? निन्न सम्बन्धविरुव मनुष्यनु भूलोकदल्लि पुण्यात्मने सरि. नानु केळुवुदॆल्लवन्नु तिळिसु. याव फलक्कागि इन्तह परिश्रम माडलागुत्तदॆ.॥6½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whose daughter are you, O gentle lady, what observance is this (kasyāsi kim idaṃ bhadre), and who is your husband, O lovely-faced one (kaś ca bhartā varānane)? Blessed with merit upon this earth (puṇyabhāg bhuvi) is that man by whom you are enjoyed, O timid maiden (yena sambhujyase bhīru)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -192,6 +228,12 @@ _________________
 
 रावणनु हीगॆ केळिदाग आ यशस्विनी तपोधन कन्यॆयु आतन विधिवत्तागि आदर-सत्कार माडि नुडिदळु.॥7½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tell me all as I ask you (pṛcchataḥ śaṃsa me sarvam): for what purpose is this arduous toil (kasya hetoḥ pariśramaḥ)?” Thus addressed by Rāvaṇa, that illustrious maiden (sā kanyā ... yaśasvinī)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -216,6 +258,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अमित तेजस्वी ब्रह्मर्षि, बृहस्पतिय पुत्र श्रीमान् कुशध्वजनु नन्न तन्दॆयागिद्दनु. अवनु बृहस्पतियन्तॆ बुद्धिवन्तनॆदु तिळियलागुत्तित्तु.॥8½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rich in austerity (tapodhanā), having first rendered him hospitality according to sacred ordinance (vidhivat kṛtvā tasyātithyam), spoke thus: “My father was the brahmarṣi Kuśadhvaja of immeasurable splendor (brahmarṣir amitaprabhaḥ), the glorious son of Bṛhaspati (bṛhaspati-sutaḥ śrīmān) and equal to Bṛhaspati in wisdom (buddhyā tulyo bṛhaspateḥ).
 </details>
 </details>
 
@@ -245,6 +293,12 @@ _________________
 
 प्रतिदिन वेदाभ्यासमाडुत्तिद्द आ महात्मा तन्दॆयिन्द वाङ्मयी रूपदल्लि नन्न प्रादुर्भाववागित्तु. वेदवति ऎम्बुदु नन्न हॆसरु.॥9½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From that high-souled sage as he constantly practiced Vedic recitation (kurvato nityaṃ vedābhyāsam), I came into being as a daughter embodied of sacred speech (sambhūya vāṅmayī kanyā), known by the name Vedavatī (nāmnā vedavatī smṛtā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -270,6 +324,12 @@ _________________
 
 नानु बॆळॆदाग देवता, गन्धर्व, यक्ष, राक्षस, नाग हीगॆ ऎल्लरू तन्दॆय बळिगॆ बन्दु नन्नन्नु बेडतॊडगिदरु.॥10½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then gods together with gandharvas, yakṣas, rākṣasas, and serpents (devāḥ sagandharvā yakṣa-rākṣasa-pannagāḥ)—they all went unto my father (gatvā hi pitaram) and sought my hand in marriage (varaṇaṃ rocayanti me).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -294,6 +354,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबाहु राक्षसेश्वरने! तन्दॆयवरु यारिगू नन्नन्नु कॊडलिल्ल. इदर कारणवन्नु तिळिसुत्तेनॆ, केळु.॥11½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet my father did not bestow me upon any of them, O bull among rākṣasas (rākṣasarṣabha); I shall tell you the reason for that—listen closely, O night-roamer (niśācara niśāmaya)!
 </details>
 </details>
 
@@ -332,6 +398,16 @@ _________________
 
 मूरुलोकद स्वामि देवेश्वर भगवान् विष्णुवे तन्न अळिय नागबेकॆन्दु तन्दॆ इच्छिसुत्तिद्दनु. अदरिन्द बेरॆ यारिगू नन्नन्नु कॊडलु बयसुत्तिरलिल्ल. ई अभिप्राय तिळिद बलाभिमानि दैत्यराज शम्भु कुपितनागि रात्रॆ मलगिद्दाग नन्न तन्दॆयन्नु हत्यॆमाडिबिट्टनु.॥12-14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “Indeed, my father desired as his son-in-law (jāmātā ... abhipretaḥ) none other than Viṣṇu, lord of the gods (viṣṇuḥ kila sureśvaraḥ) and sovereign of the three worlds (trilokeśaḥ); therefore my father would not give me to any other (tasmān nānyasya me pitā)—
+
+**13:** —“willing to give me [to none else]; hearing that, the king of the Daityas named Dambhu (dambhur nāma ... rājā daityānām), intoxicated with might (bala-darpitaḥ), grew enraged at him (tasmai tu ... kupito ’bhavat), and by that sinful fiend my father was slain while asleep at night (rātrau śayāno me pitā pāpena hiṃsitaḥ).
+
+**14:** “Thereupon my grief-stricken mother (jananī dīnā), that noble and exalted lady (mahābhāgā), embracing my father’s lifeless body (tac-charīraṃ pitur mama pariṣvajya), entered the sacrificial fire (praviṣṭā havyavāhanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -356,6 +432,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदरिन्द महाभागा नन्न तायिगॆ बहळ दुःखवायितु. अवळु तन्दॆय शववन्नु अप्पिकॊण्डु सहगमन माडिदळु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thenceforth, thinking ‘I shall make true my father’s heart’s desire regarding Nārāyaṇa (manorathaṃ satyaṃ pitur nārāyaṇaṃ prati karomi),’ I bear Him alone within my heart (tam evāhaṃ hṛdayena samudvahe).
 </details>
 </details>
 
@@ -382,6 +464,12 @@ _________________
 
 अन्दिनिन्द भगवान् नारायणनिगॆ नन्नन्नु कॊडबेकॆम्ब तन्दॆय मनोरथवन्नु नानु सफलगॊळिसुवॆनॆन्दु प्रतिज्ञॆ माडिदॆ. इदरिन्द नानु अवनन्ने हृदयमन्दिरदल्लि धरिसिकॊण्डिरुवॆनु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having ascended to this solemn vow (iti pratijñām āruhya), I practice vast austerity (carāmi vipulaṃ tapaḥ); all this have I declared unto you, O foremost of rākṣasas (rākṣasa-puṅgava).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -406,6 +494,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ प्रतिज्ञॆ माडिद नानु ई महाव्रतवन्नु कैगॊण्डिद्देनॆ. राक्षसराज! नीनु केळिदन्तॆ नानु ऎल्लवन्नू तिळिसिद्देनॆ.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nārāyaṇa is my husband, and none other than the Supreme Person (na tv anyaḥ puruṣottamāt); I resort to this dreadful discipline (āśraye niyamaṃ ghoram) out of longing to attain Nārāyaṇa (nārāyaṇa-parīpsayā).
 </details>
 </details>
 
@@ -432,6 +526,12 @@ _________________
 
 नारायणने नन्न पतियागिद्दानॆ. आ पुरुषोत्तमनल्लदॆ बेरॆ यारू ननगॆ पतियागलाररु. आ नारायणनन्नु पडॆयलॆन्दे नानु ई कठोर व्रतवन्नु आश्रयिसिरुवॆनु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed you are known to me, O King—depart, O delight of Pulastya’s line (gaccha paulastya-nandana)! For through my austerity I know everything (jānāmi tapasā sarvam) that transpires across the three worlds (trailokye yad dhi vartate).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,6 +557,12 @@ _________________
 
 पौलस्त्यनन्दनने! नानु निम्मन्नु गुरुतिसिदॆ. नीवु होगिरि. त्रिलोकगळल्लिरुव ऎल्लवन्नू नानु तपस्सिनिन्द तिळिदिद्देनॆ.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once more Rāvaṇa spoke to that maiden of exceedingly great vows (tāṃ kanyāṃ sumahāvratām), descending from the crest of his aerial car (avaruhya vimānāgrāt), pierced by the arrows of Kāma (kandarpa-śara-pīḍitaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -481,6 +587,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदन्नु केळि कामपीडितनाद रावणनु विमानदिन्द इळिदु, आ उत्तम महाव्रतवन्नु पालिसुव कन्यॆय बळि पुनः हेळिदनु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are blinded by foolish pride, O fair-hipped one (avaliptā ’si suśroṇi), that your mind should be of such a sort (yasyās te matir īdṛśī)! It is for the aged, O fawn-eyed maiden (vṛddhānāṃ mṛgaśāvākṣi), that the storing up of merit shines (bhrājate puṇya-sañcayaḥ).
 </details>
 </details>
 
@@ -510,6 +622,12 @@ _________________
 
 सुन्दरि! नीनु गर्विष्ठॆ ऎन्दु तोरुत्तदॆ, अदरिन्द निन्न बुद्धि हीगागिदॆ. मृगाक्षिये! इन्तह पुण्यद सङ्ग्रह वृद्ध स्त्रीयरिगॆ शोभिसुत्तिदॆ, निन्नन्तह युवतिगल्ल.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Endowed with every grace (sarva-guṇa-sampannā), you ought not to speak in such a manner (nārhase vaktum īdṛśam); O loveliest beauty of the three worlds, O timid one (trailokya-sundarī bhīru), your youth is slipping away (yauvanaṃ te nivartate)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -534,6 +652,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनादरो सर्वगुण सम्पन्न, त्रिलोकद अद्वितीय सुन्दरियागिरुवॆ. नीनु इन्तह मातन्नु हेळबारदु. भीरु! निन्न यौवन कळॆदुहोगुत्ता इदॆ.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am the sovereign of Laṅkā, O gentle lady (ahaṃ laṅkāpatir bhadre), renowned as Daśagrīva (daśagrīva iti śrutaḥ); become the wife of such as me (tasya me bhava bhāryā tvam) and enjoy all delights at your pleasure (bhuṅkṣva bhogān yathāsukham)!
 </details>
 </details>
 
@@ -562,6 +686,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भद्रे! नानु लङ्कॆय राजनागिद्देनॆ. नन्न हॆसरु दशग्रीव, नीनु नन्न भार्यॆयागु मत्तु सुखपूर्वक उत्तम भोगगळन्नु अनुभविसु.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And who, pray, is that person whom you call Viṣṇu (kaś ca tāvad asau yaṃ tvaṃ viṣṇur ity abhibhāṣase)? In valor and in austerity alike (vīryeṇa tapasā caiva), in luxury and in might (bhogena ca balena ca)—
 </details>
 </details>
 
@@ -594,6 +724,12 @@ _________________
 
 नीनु हेळुव आ विष्णु यारु? मॊदलु हेळु. अङ्गने! नीनु बयसुववनु बल, पराक्रम, तपस्सु, भोग-वैभवदल्लि ननगॆ समाननागलारनु.॥24½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He is no equal to me, O fair woman (na mayā sa samo bhadre), that one whom you desire, O graceful lady (yaṃ tvaṃ kāmayase ’ṅgane)!” When he had spoken thus (ity uktavati tasmiṃs tu), Vedavatī then replied (vedavaty atha sā ’bravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -619,6 +755,12 @@ _________________
 
 अवनु हीगॆ हेळिदाग कुमारी वेदवतियु निशाचरनल्लि इल्ल, इल्ल ऎन्दु हेळिदळु.॥25½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“No, speak not thus (mā maivam)!” that maiden exclaimed to the night-roamer. “What wise being apart from you, O lord of rākṣasas (tvad-ṛte rākṣasendrānyaḥ ... buddhimān), would disparage Viṣṇu (ko ’vamanyeta), sovereign of the three worlds (trailokyādhipatiṃ viṣṇum) bowed to by all the worlds (sarva-loka-namaskṛtam)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -643,6 +785,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसराजने! भगवान् विष्णु मूरु लोकगळ अधिपतियागिद्दानॆ. इडी जगत्तु अवन चरणदल्लि नतमस्तकवागिदॆ. बुद्धिवन्तनागि अवनन्नु अवहेळन माडुववनु नीनल्लदॆ बेरॆ याव पुरुषनिद्दानॆ.॥26½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed there by Vedavatī (evam uktas tayā tatra vedavatyā), that night-roamer (niśācaraḥ) laid hold of the maiden by the hair of her head (mūrdhajeṣu ... kanyām) with the tips of his fingers (karāgreṇa parāmṛśat).
 </details>
 </details>
 
@@ -672,6 +820,12 @@ _________________
 
 वेदवतियु हीगॆ हेळिदाग आ राक्षसनु आ कन्यॆय कूदलन्नु हिडिदनु.॥27½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Vedavatī, filled with wrath (kruddhā), severed her own hair with her hand (keśān hastena sā ’cchinat); becoming a sword (asir bhūtvā), her hand cut off those locks then and there (karas tasyāḥ keśāṃś chinnāṃs tadā ’karot).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -696,6 +850,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदरिन्द वेदवतिगॆ भारी क्रोध बन्दु, तन्न कैयन्ने खड्गवागिसि तन्न कूदलन्नु कत्तरिसि तलॆयिन्द बेरॆयागिसिदळु.॥28½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing as it were with fury (jvalantīva roṣeṇa) and seeming to consume the night-roamer (dahantīva niśācaram), she kindled a fire (agniṃ samādhāya) in haste to die (maraṇāya kṛtatvarā) and spoke:
 </details>
 </details>
 
@@ -722,6 +882,12 @@ _________________
 
 वेदवतियु रोषदिन्द उरिदॆद्दु, सायलु आतुरळागि अग्नियन्नु स्थापिसि आ निशाचरनन्नु सुट्टु बिडुवळो ऎम्बन्तॆ नुडिदळु.॥29½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Defiled as I have been by you, O ignoble wretch (dharṣitāyās tvayānārya), life is no longer desired by me (na me jīvitam iṣyate); therefore, O rākṣasa, I shall enter the sacred fire (pravekṣyāmi ... hutāśanam) before your very eyes (paśyatas te)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -746,6 +912,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीच राक्षसने! नीनु नन्नन्नु अपमान माडिरुवॆ, आद्दरिन्द ईग नानु बदुकिरलु बयसुवुदिल्ल. अदक्कागि नीनु नोडु-नोडुत्ता नानु अग्नियल्लि प्रवेशिसुवॆनु.॥30½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And because I have been violated in the forest by you, O sinful-souled one (dharṣitā cāhaṃ tvayā pāpātmanā vane), therefore for the sake of your destruction (tava vadhārthaṃ hi) I shall surely be born again (samutpatsye hy ahaṃ punaḥ)!
 </details>
 </details>
 
@@ -772,6 +944,12 @@ _________________
 
 पापात्मनाद नीनु ई वनदल्लि नन्न अपमानमाडिरुवॆ. इदक्कागि निन्न वधॆगागि नानु पुनः उत्पन्नळागि बरुवॆनु.॥31½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For a wicked-minded man (puruṣaḥ pāpa-niścayaḥ) cannot be slain by a woman (na hi śakyaṃ striyā hantum), and were a curse to be launched by me upon you (śāpe tvayi mayotsṛṣṭe), it would cause a waste of my austerity (tapasaś ca vyayo bhavet).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -796,6 +974,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 स्त्रीयु तन्न शारीरिक शक्तियिन्द यारे पापाचारी पुरुषनन्नु वधिसलारळु. नानु निनगॆ शापकॊट्टरॆ नन्न तपस्सु क्षीणवादीतु.॥32½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet if anything has been rightly performed, bestowed in charity, or offered in sacred fire by me (yadi tv asti mayā kiñcit kṛtaṃ dattaṃ hutaṃ tathā), then by that merit may I become the non-uterine, virtuous daughter (ayonijā sādhvī ... sutā) of a righteous man (dharmiṇaḥ)!”
 </details>
 </details>
 
@@ -822,6 +1006,12 @@ _________________
 
 नानु एनादरू सत्कर्म, दान, होम माडिद्दरॆ मुन्दिन जन्मदल्लि सती-साध्वी अयोनिजा कन्यॆयागि प्रकटळागि, यावनादरू धर्मात्मा पितन पुत्रियागुवॆनु.॥33½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, she entered the blazing fire (praviṣṭā sā jvalitaṃ jātavedasam), and from the heavens fell a divine shower of blossoms (divyā puṣpa-vṛṣṭiḥ) on every side (samantataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -846,6 +1036,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि अवळु प्रज्वलित अग्नियल्लि ऒन्दादळु. आग आकॆय सुत्तलू आकाशदिन्द दिव्यपुष्पगळ वृष्टियायितु.॥34½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once more she came into being inside a lotus (punar eva samudbhūtā padme), radiant as a lotus herself (padma-samaprabhā); and from there too she was found again by that rākṣasa (punaḥ prāptā ... tena rakṣasā) just as before (pūrvavat).
 </details>
 </details>
 
@@ -872,6 +1068,12 @@ _________________
 
 अनन्तर अवळु मुन्दिन जन्मदल्लि ऒन्दु कमलदिन्द प्रकटळादळु. आकॆय मुख कान्तियु कमलदन्तॆ सुन्दरवागित्तु. आ राक्षसनु मॊदलिनन्तॆ पुनः अल्लिन्द आ कन्यॆयन्नु पडॆदुकॊण्डनु.॥35½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking up that maiden glowing like the heart of a lotus (kanyāṃ kamala-garbhābhām), Rāvaṇa went to his own palace (svagṛhaṃ yayau); and bringing her in (pragṛhya), Rāvaṇa showed her to his minister (darśayām āsa mantriṇe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -897,6 +1099,12 @@ _________________
 
 कमलदॊळगॆ सुन्दर कान्तियुळ्ळ आ कन्यॆयन्नु तॆगॆदुकॊण्डु रावणनु तन्न मनॆगॆ होदनु. अल्लि अवनु मन्त्रिगॆ आ कन्यॆयन्नु तोरिसिदनु.॥36½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Skilled in reading bodily omens (lakṣaṇajñaḥ), the minister examined her intently (nirīkṣyaiva) and spoke thus to Rāvaṇa: “Abiding in your house, this fair-hipped maiden (gṛhasthaiṣā hi suśroṇī) manifestly appears solely for your destruction (tvad-vadhāyaiva dṛśyate)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -921,6 +1129,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मन्त्रियु बालक-बालिकॆयर लक्षणगळन्नु तिळियुत्तिद्दनु. अवनु सरियागि नोडि रावणनल्लि-ई सुन्दरि कन्यॆयु मनॆयल्लिद्दरॆ निम्म वधॆगॆ कारणवागुव लक्षणगळु काणुत्तवॆ, ऎन्दु हेळिदनु.॥37½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing this, O Rāma, Rāvaṇa cast her into the ocean (arṇave ... tāṃ pracikṣepa rāvaṇaḥ); and she, reaching the earth (kṣitim āsādya), entered the midst of a sacrificial precinct (yajñāyatana-madhyagā).
 </details>
 </details>
 
@@ -949,6 +1163,14 @@ _________________
 
 श्रीराम! इदन्नु केळि रावणनु आकॆयन्नु समुद्रक्कॆ ऎसॆदुबिट्टनु. बळिक अवळु भूमियन्नु सेरि राजाजनकन यज्ञमण्टपद मध्यद भूभागक्कॆ तलुपिदळु. अल्लि राजनु नेगिलिनिन्द भूमि उळुवाग आ सतीसाध्वी कन्यॆयु प्रकटगॊण्डळु.॥38-39॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**38:** Turned up by the tip of the king’s plough (rājño halamukhotkṛṣṭā), that virtuous lady rose forth once again (punar apy utthitā satī); she is that very daughter born to King Janaka, O Lord (saiṣā janakarājasya prasūtā tanayā prabho), your own consort, O mighty-armed one—for you are the eternal Viṣṇu (viṣṇus tvaṃ hi sanātanaḥ)!
+
+**39:** That mountain-like foe (śailābhaḥ), formerly struck down by her wrath (pūrvaṃ krodhāhitaḥ śatruḥ), has thus been slain by her (yayā ’sau nihatas tathā) after resorting to your superhuman prowess (upāśrayitvā ... tava vīryam amānuṣam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -974,6 +1196,12 @@ _________________
 
 प्रभो! अदे वेदवतियु महाराजा जनकन पुत्रिय रूपदिन्द प्रादुर्भूतळागि निम्म पत्नियादळु. महाबाहो! नीने सनातन विष्णु आगिरुवॆ.॥40॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even thus shall this illustrious lady be born again among mortals (martyeṣūtpatsyate punaḥ) in a field cloven by the ploughshare’s tip (kṣetre halamukhotkṛṣṭe), like a tongue of flame upon the altar (vedyām agniśikhopamā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -998,6 +1226,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ वेदवतियु मॊदले तन्न रोषजनित शापदिन्द पर्वताकार निम्म शत्रुवन्नु कॊन्दुहाकिद्दळु. अवनन्नु नीनु आक्रमण माडि वधिसिरुवॆ. प्रभो! निन्न पराक्रम अलौकिकवागिदॆ.॥41॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She was formerly named Vedavatī in the Kṛta age (pūrvam āsīt kṛte yuge); having reached the Tretā age for the destruction of that rākṣasa (tretāyugam anuprāpya vadhārthaṃ tasya rakṣasaḥ)—
 </details>
 </details>
 
@@ -1026,6 +1260,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ ई महाभागा देवियु बेरॆ-बेरॆ कल्पगळल्लि पुनः रावणन वधॆगागि मर्त्यलोकदल्लि अवतरिसुत्ता इरुवळु. यज्ञवेदियल्लि अग्निशिखॆयन्तॆ, उत्तक्षेत्रदल्लि ईकॆय आविर्भाववागिदॆ.॥42॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She was born in the Maithila lineage of the high-souled Janaka (utpannā maithila-kule janakasya mahātmanaḥ); and having sprung from the plough-furrow (sītotpannā), she is accordingly called Sītā by mortals (sīteti mānuṣaiḥ punar ucyate).
 </details>
 </details>
 

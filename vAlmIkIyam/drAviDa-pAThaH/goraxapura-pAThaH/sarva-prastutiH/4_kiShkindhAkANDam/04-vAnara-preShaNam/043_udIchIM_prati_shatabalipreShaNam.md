@@ -97,6 +97,14 @@ beneficial, for Rama, even; *vaakyam uvaaca* = words, spoke.
 That knowledgeable and the powerful one among all monkeys, King Sugreeva, spoke
 words to Shatabala that are advantageous to himself, and beneficial to Rama as well. [4-43-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then, having commissioned his father-in-law (śvaśuram) to the western quarter, Sugrīva, the lord of monkeys (vānareśvaraḥ), [addressed] the heroic monkey named Śatabali.
+
+**2:** The all-knowing (sarvajñaḥ) king, best of all monkeys (sarvavānarasattamaḥ), then spoke a speech that was salutary both to himself (ātmahitam) and salutary to Rāma:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -170,6 +178,14 @@ parimaargadhvam* = everywhere, scouted out.
 "Oh, venturesome Shatabala, you scout out whole of the northern quarter that has
 snowy Himalayan mountains as its crown for the glorious wife of Rama. [4-43-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** 'Surrounded by a hundred thousand (śatasahasreṇa) forest-dwellers of your own ilk (tvadvidhānām), and having entered upon the enterprise along with the sons of Vaivasvata and all the counselors (sarvamantribhiḥ),
+
+**4:** thoroughly search on every side (sarvataḥ parimārgadhvam) the spacious northern quarter (diśaṃ hy udīcīm), crowned with the Snow-Mountain as its crest-ornament (himaśailāvataṃsikām), for the illustrious consort of Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -217,6 +233,12 @@ accomplished, of purpose; *bhaviSyaamaH* = we will become.
 "Oh, enterprising vanara-s, when this mission is complete and when we can effectuate
 a task agreeable to Rama, we will become debt-free and accomplished of our purpose. [4-43-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When this task is accomplished (asmin kārye vinirvṛtte) and what is dear to Daśaratha's son is done (kṛte dāśaratheḥ priye), we shall be freed from our debt (ṛṇān muktā bhaviṣyāmaḥ), our purpose fulfilled, O foremost of those who know their true interest (arthavidāṃ varāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -262,6 +284,12 @@ phalam = with, fruit [fruitful]; *bhavet* = becomes.
 
 "Great-souled Raghava has indeed done a favour to us, isn't it. If there is
 reciprocation to that kind deed, our lives will become fruitful. [4-43-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For a great favor has been done to us (kṛtaṃ hi priyam asmākam) by great-souled Rāghava; if there is a requital (pratikāraḥ) for that, our life will become fruitful (saphalaṃ jīvitaṃ bhavet).
 </details>
 </details>
 
@@ -311,6 +339,12 @@ punaH* = why, again - telling.
 rendered any hep earlier, his life becomes fruitful. Then what is there to say again about him who
 has already received help from the requester? [4-43-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whoever accomplishes the purpose (kāryanirvṛttim) of a petitioner even when that person has rendered no prior service (akartur api), his birth is fruitful (tasya syāt saphalaṃ janma)—how much more so for one who has helped first (kiṃ punaḥ pūrvakāriṇaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -358,6 +392,12 @@ undertaken.
 "Let all of you abide by such a thinking as you are the well-wishers of our
 well-being and welfare, and undertake your mission in such a way as to how Seetha can be found in
 your search. [4-43-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adopting this conviction (etāṃ buddhiṃ samāsthāya), you who desire what is dear and beneficial to us (asmatpriyahitaiṣibhiḥ) must act in such a way that Jānakī is found (dṛśyate jānakī yathā).
 </details>
 </details>
 
@@ -410,6 +450,12 @@ befriended us.
 fastnesses, is the estimable one for all beings, and his interests have indeed fell in with ours.
 [4-43-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For this best of men (narasattamaḥ), Rāma, conqueror of hostile citadels (parapuraṃjayaḥ), is worthy of honor from all beings (sarvabhūtānāṃ mānyaḥ) and has conceived deep affection toward us (asmāsu ca gataḥ prītim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -455,6 +501,12 @@ places; *nadyaH shaila antaraaNi ca* = rivers, mountains, canyons also;
 
 "Let all of you with your assets of wisdom and valour rake over all of these
 impassable places, rivers, mountains and also their canyons. [4-43-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Do you thoroughly search these manifold mountain fastnesses (bahudurgāṇi), rivers, and mountain valleys (śailāntarāṇi ca) through the wealth of your intelligence and valor (buddhivikramasampadā).
 </details>
 </details>
 
@@ -534,6 +586,14 @@ Some hold the view that
 Ramayana was written more lately to Greek's invasion on India on seeing the names like this Yavana,
 Shaka etc. for this please see the endnote for some more information
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** There, having searched through the Mlecchas, the Pulindas, and the Śūrasenas as well, the Prasthalas, the Bharatas, and the Kurus together with the Madrakas,
+
+**12:** the Kāmbojas and Yavanas, the cities of the Śakas (śakānāṃ pattanāni ca), and the Daradas as well (anvīkṣya daradāṃś caiva), search thoroughly through Himavān (himavantaṃ vicinvatha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -585,6 +645,12 @@ Deodar trees, Ravana is to be searched there and there, together with Seetha. [4
 Lodhra trees are of Tymplocos racemosa, and Devadaru tree is of Uvaria
 longifolia, commonly called as Deodar trees.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Among thickets of lodhra and padmaka trees (lodhrapadmakaṣaṇḍeṣu) and in forests of devadāru pines (devadāruvaneṣu ca), Rāvaṇa together with Vaidehī must be searched for everywhere (tatas tataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -630,6 +696,12 @@ saanum* = great, peaked; *kaalam naama* = Kala, named; *tam parvatam gamiSyatha*
 
 "You to Soma hermitage, which is adored by the gods and gandharva-s, and then you go
 to that great-peaked mountain named Mt. Kala. [4-43-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having gone to the hermitage of Soma (somāśramam), frequented by gods and Gandharvas (devagandharvasevitam), you shall reach that mountain of vast ridges (mahāsānum) named Kāla.
 </details>
 </details>
 
@@ -680,6 +752,12 @@ Seetha; *raama patniim* = Rama's, wife; *vicinvata* = shall be searched.
 "On its cliffs, mountainsides and in caves the highly fortunate and impeccable wife
 of Rama shall be searched. [4-43-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon its great crags (śaileṣu), subsidiary peaks (parvateṣu), and caverns (guhāsu ca), search for the illustrious and blameless consort of Rāma (rāmapatnīm aninditām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +803,12 @@ mountain; *gantum arhatha* = to go, apt of you.
 
 "On going across that lordly mountain Kala, which great-mountain is impregnated with
 gold, it will be apt of you to go to the mountain named Sudarshana afterwards. [4-43-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing beyond that lord of mountains, you ought next to go to the great mountain named Sudarśana, whose interior is filled with gold (hemagarbhaṃ mahāgirim).
 </details>
 </details>
 
@@ -772,6 +856,12 @@ named, mountain - will be there.
 "Latter there will be a mountain overspread with various birds and adorned with
 varied trees named Devasakha which is a sanctuary for birds. [4-43-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beyond that stands the mountain named Devasakha, an abode of birds (patagālayaḥ), thronged with diverse winged creatures (nānāpakṣisamākīrṇaḥ) and adorned with manifold trees (vividhadrumabhūṣitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -817,6 +907,12 @@ maargitavyaH* = there, there, quested for.
 
 "Let Ravana be quested after in the segments of woods, at waterfalls, and even in
 caverns of that mountain, together with Vaidehi. [4-43-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In its forest groves (kānanaṣaṇḍeṣu), mountain cascades (nirjhareṣu), and caverns, Rāvaṇa together with Vaidehī must be searched for everywhere.
 </details>
 </details>
 
@@ -864,6 +960,12 @@ yojanam* = all around, hundred, yojana-s; *aakaasham* = sky - void land; is ther
 "On crossing Mt. Devasakha, there is a vacant land to a span of hundred yojana-s all
 around, which is devoid of mountains, rivers and even trees, and discarded by all beings.
 [4-43-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And passing beyond that [Mount Devasakha], there is an open wasteland (ākāśam) extending a hundred yojanas on every side (sarvataḥ śatayojanam), devoid of mountains, rivers, and trees (aparvatanadīvṛkṣam) and bereft of all living creatures (sarvasattvavivarjitam).
 </details>
 </details>
 
@@ -922,6 +1024,12 @@ appear to correspond with the Kwenlun Range, which extends northwards and connec
 chain. The route indicated must have been by the south skirts of the desert towards the west, to
 pass by the Kailash Range...' Ancient Geography. This is presently in Tibet.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swiftly crossing that hair-raising wilderness (kāntāraṃ romaharṣaṇam), and reaching white Mount Kailāsa (kailāsaṃ pāṇḍuram), you shall become joyful (hṛṣṭā yūyaṃ bhaviṣyatha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -962,6 +1070,12 @@ pass by the Kailash Range...' Ancient Geography. This is presently in Tibet.
 "There is the delightful mansion of Kubera, which in shine will be like a silver
 cloud and processed with gold, and the Divine Architect Vishvakarma has constructed it.
 [4-43-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There stands the delightful palace of Kubera (kuberabhavanaṃ ramyam), gleaming like a white cloud (pāṇḍurameghābham), decked with jāmbūnada gold (jāmbūnadapariṣkṛtam), and fashioned by Viśvakarman,
 </details>
 </details>
 
@@ -1010,6 +1124,12 @@ is there that is the place of Kubera.
 overrun by swans and partridges, and adored by throngs of apsara-s, that is the place of Kubera,
 Deity for Wealth-Management. [4-43-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+wherein lies a spacious lotus-pond (viśālā nalinī) abounding in day-lotuses and water-lilies (prabhūtakamalotpalā), thronged with swans and kāraṇḍava ducks, and frequented by troops of Apsarases (apsarogaṇasevitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1057,6 +1177,12 @@ rejoices.
 "The son of Sage Vaishravana and king of yaksha-s, who is reverenced by all beings
 for he is the money giver, that fortunate king will be rejoicing there along with guhyaka-s, viz.,
 yaksha-s. [4-43-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There King Vaiśravaṇa, bowed to by all the worlds (sarvalokanamaskṛtaḥ)—the glorious giver of wealth (dhanadaḥ), sovereign of the Yakṣas (yakṣarāṭ)—sports together with the Guhyakas.
 </details>
 </details>
 
@@ -1109,6 +1235,12 @@ which will be shining like moon, together with Vaidehi. [4-43-24]
 Ravana is a brother of Kubera and the aircraft of Kubera, namely Pushpaka, is
 seized from this very Kubera. Thus, there is every chance to hide Seetha at Kubera's place bringing
 Kubera under duress.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon its moon-like (candranikāśeṣu) peaks and within its caverns, Rāvaṇa together with Vaidehī must be searched for everywhere.
 </details>
 </details>
 
@@ -1164,6 +1296,12 @@ Kumara or Skanda, the son of Shiva-Parvati-Ganga made this bore by using His
 shakti prayoga 'Divine power.' This is his birthplace, and the legend of His birth and growth are
 detailed in Bala Kanda.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching Mount Krauñca, you must enter its exceedingly impassable chasm (bilaṃ tasya sudurgamam) with unflagging vigilance (apramattaiḥ); for that [chasm] is renowned as hard to enter (duṣpraveśaṃ hi tat smṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1214,6 +1352,12 @@ ruupaa* = godly, in mien; *mahaatmaanaH* = great-souled ones; such; *maharSayaH*
 great-sages are similar to Sun in their resplendence and godly in their mien. Even then, you search
 for Ravana therein that tunnel. [4-43-26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For there dwell great-souled great sages (mahātmāno maharṣayaḥ) of godlike form (devarūpāḥ) and solar radiance (sūryasamaprabhāḥ), duly entreated by the gods (devair abhyarthitāḥ samyak).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1260,6 +1404,12 @@ there; *vicetavyaaH* = shall be searched.
 
 "Besides the main peak of Mt. Kraunca, its other peaks, terraces, crevices and
 midriffs shall be searched, far and wide. [4-43-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the other caverns of Krauñca (guhāś cānyāḥ), its tablelands and summits (sānūni śikharāṇi ca), its clefts and mountain-flanks (nirdarāś ca nitambāś ca), must be searched everywhere.
 </details>
 </details>
 
@@ -1317,6 +1467,12 @@ un-enterable even for birds or gods how these few monkeys can enter, is the ques
 Sugreeva gives the answer to Rama at the start of this exodus of monkeys, saying that these monkeys
 can do any undoable task, which is peculiar to these genera.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Search] also the treeless peak Kāmaśaila and the Mānasa peak, the haunt of birds (mānasaṃ vihagālayam); there is no access (na gatiḥ) there for living beings, nor for gods, nor for Rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1368,6 +1524,12 @@ fringe mountains, and on moving away from that Mt. Kraunca, a mountain named Mai
 
 This Mainaaka is different from the one that wanted to give hospitality to
 Hanuma during his flight across ocean in Sundara Kanda.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That [Mount Krauñca] too, together with its ridges, plateaus, and adjoining hills (sasānuprasthabhūdharaḥ), must be searched by all [of you]. Passing beyond Mount Krauñca, there stands a mountain named Maināka.
 </details>
 </details>
 
@@ -1429,6 +1591,12 @@ The word *ashvamukhi* is taken as one word to explain the genera of
 *kimpuruSa* , a kind of sylvan beings like *yaksha-s, caarana-s* and the like,
 whereas some take it as horse-faced beings.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There stands the palace of the Dānava Maya, built by himself (svayaṃkṛtam); and Maināka must be searched, together with its ridges, tablelands, and caverns (sasānuprasthakandaraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1478,6 +1646,12 @@ vaalakhilyaaH ca taapasaaH = vaalakhilyaa-s, also, sages.
 "On crossing over that province there is the hermitage adored by siddha-s, the
 resolved-souls. There the sages, namely siddha-s, vaikhaanasa-s, and vaalakhilyaa-s will be there.
 [4-43-31b, 32a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Here and there upon it lie the abodes of horse-faced women (strīṇām aśvamukhīnām); passing beyond that region, [you shall behold] a hermitage frequented by Siddhas (āśramaṃ siddhasevitam),
 </details>
 </details>
 
@@ -1529,6 +1703,12 @@ you; *siitaayaaH pravR^ittim* = of Seetha, course [whereabouts]; *praSTavyaaH ca
 effaced their blemishes, and you may even humbly ask them after Seetha's whereabouts. [4-43-32b,
 33a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+where dwell perfected Vaikhānasas and Vālakhilya ascetics (vālakhilyāś ca tāpasāḥ); those Siddhas, freed from all taint through asceticism (tapasā vītakalmaṣāḥ), must then be reverently saluted (vanditavyāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1577,6 +1757,12 @@ there.
 and overrun with prosperous swans whose resplendence will be similar to the tender sun. [4-43-33b,
 34a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And news of Sītā (sītāyāḥ pravṛttiḥ) must be inquired of by you with humility (vinayānvitaiḥ). There lies the Vaikhānasa lake (vaikhānasaṃ saraḥ), overspread with golden lotuses (hemapuṣkarasaṃchannam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1623,6 +1809,12 @@ place; *pari eti* = goes over - will be visiting.
 "The carrier elephant of Kubera known as Saarvabhauma will always be visiting that
 place along with she-elephants. [4-43-34b, 35a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and frequented by auspicious swans gleaming like the newly risen sun (taruṇādityasaṃkāśair haṃsaiḥ). The royal riding-elephant (aupavāhyaḥ) of Kubera, renowned as Sārvabhauma,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1668,6 +1860,12 @@ clusters; *niS payodam* = without, clouds; *a naaaditam* = less of, noise
 
 "Passing that lake there will be just sky which will be devoid of moon, or sun, or
 the clusters of stars, and it will be cloudless and noiseless. [4-43-35b, c]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+continually roams that region together with female elephants (saha kareṇubhiḥ). Passing beyond that lake, there is a sky (vyoma) where moon and sun have vanished (naṣṭacandradivākaram), devoid of the hosts of stars (anakṣatragaṇam), cloud-free (niṣpayodam), and unlit by cosmic luminaries (anāditam).
 </details>
 </details>
 
@@ -1719,6 +1917,12 @@ luminescent.
 "That place will be luminescent with the self-resplendence of godlike sages who have
 accomplished their asceticism and who are taking rest at that place, as if illuminated with
 innumerable rays of the sun. [4-43-36]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet that region is illumined as though by the rays of the sun (gabhastibhir ivārkasya) by self-luminous (svayaṃprabhaiḥ), godlike ascetics perfected in penance (tapaḥsiddhaiḥ) who repose there (viśrāmyadbhiḥ).
 </details>
 </details>
 
@@ -1781,6 +1985,12 @@ bank is by the entwined bamboo-sticks-bridges across the river, and these monkey
 those bridges because anyone/anything falling in that river will be petrified, say frozen to
 petrifaction.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing beyond that region, there flows a river named Śailodā; upon both of its banks (ubhayos tīrayos tasyāḥ) grow hollow bamboos named kīcakas (kīcakā nāma veṇavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1805,6 +2015,12 @@ petrifaction.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ बिदिरुगळु नदिय कडॆगॆ बागि सेतुवॆयन्तिद्दु सिद्धरु नदि दाटलु होगलु अदन्नु साधनवागिसिवॆ. अल्लि केवल पुण्यात्मा पुरुषरद्दे वासवागिदॆ. आ उत्तर कुरुदेशवु शैलोदॆय तटदल्लॆ इदॆ.॥38॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They carry the Siddhas across to the farther bank (paraṃ tīram) and bring them back again (pratyānayanti ca); there lie the Uttarakurus (uttarāḥ kuravaḥ), the abode of those who have performed meritorious deeds (kṛtapuṇyapratiśrayāḥ).
 </details>
 </details>
 
@@ -1864,6 +2080,12 @@ thickets of red Costuses alongshore. [4-43-38b, 39, 40a]
 The Costus is a lotus-like plant grwoing on land, like Kashmir's Saussurea
 hypoleuca, Latinised from Greek 'kostos'.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereafter, rivers by the thousands (nadyas tatra sahasraśaḥ) flow there, their waters filled with lotus-clusters bearing golden lotuses (kāñcanapadmābhiḥ padminībhiḥ) and rich with leaves of dark cat's-eye beryl (nīlavaiḍūryapatrāḍhyāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1888,6 +2110,12 @@ hypoleuca, Latinised from Greek 'kostos'.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लिय जलाशयगळु कॆम्पु मत्तु बङ्गारद बण्णद कमलगळिन्द कूडिद्दु, प्रातः कालदल्लि उदयिसुव सूर्यनन्तॆ कङ्गॊळिसुत्तिदॆ.॥40॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adorned here with beds of golden red water-lilies (raktotpalavanaiś ca hiraṇmayaiḥ), lakes (jalāśayāḥ) shine there like the newly risen sun (taruṇādityasaṃkāśāḥ).
 </details>
 </details>
 
@@ -1932,6 +2160,12 @@ hypoleuca, Latinised from Greek 'kostos'.
 the hue of sapphires, with fibrils in the hue of gold, and with amazing thickets of blue costuses
 around lakes, which lakes will be surrounding that province with a resplendence similar to sun.
 [4-43-40b, 41]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That land is encompassed on every side (sa deśaḥ sarvato vṛtaḥ) by variegated beds of blue water-lilies (nīlotpalavanaiś citraiḥ) having petals of precious gems (mahārhamaṇipatraiḥ) and filaments of golden lustre (kāñcanaprabhakesaraiḥ).
 </details>
 </details>
 
@@ -2008,6 +2242,14 @@ etc. might have attracted the then invaders towards India, presuming that the lo
 the riverbanks like sand. However mythical these accounts might be, they portray that the lands and
 rivers are self-contained and self-sufficient.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**42:** And the rivers (nimnagāḥ) there have sandbanks raised high (uddhūtapulināḥ) with round pearls (nistulābhiś ca muktābhiḥ), costly gems (maṇibhiś ca mahādhanaiḥ), and gold (jātarūpaiś ca).
+
+**43:** —[rivers] hemmed in (avagāḍhāḥ) by variegated, foremost mountains (nagottamaiḥ) made of every kind of gem (sarvaratnamayaiḥ), and by others made of gold, blazing like fire (hutāśanasamaprabhaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2061,6 +2303,12 @@ aakaaraaNi vaasaansi* = numerous, shapes, of clothing; phalanti bear fruits - th
 endlessly squawking. Their yield will be spilling forth meeting every delicacy with a divine smell,
 taste and touch. Some other best trees will yield clothing in numerous shapes. [4-43-44, 45a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The trees (nagāḥ) there, ever in flower and fruit (nityapuṣpaphalāḥ) and thronged with birds (patrarathākulāḥ), possess celestial fragrance, flavor, and touch (divyagandharasasparśāḥ), and distil every desired object (sarvakāmān sravanti ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2091,6 +2339,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदल्लदॆ बेरॆ-बेरॆ श्रेष्ठ वृक्षगळु फलरूपदल्लि नाना प्रकारद वस्त्रगळन्नु, मुत्तु, वैडूर्यरत्नखचित ऒडवॆगळन्नु कॊडुववु. पुरुषरिगॆ उपयोगीयाद स्त्रीयरन्नु कॊडुत्तवॆ.॥45॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Other foremost trees yield as fruit (phalanty anye nagottamāḥ) garments of diverse forms (nānākārāṇi vāsāṃsi), and likewise ornaments variegated with pearls and cat's-eye beryl (muktāvaiḍūryacitrāṇi bhūṣaṇāni), such as are suited to women and to men as well (strīṇāṃ yāny anurūpāṇi puruṣāṇāṃ tathaiva ca).
 </details>
 </details>
 
@@ -2141,6 +2395,12 @@ producing.
 vying with ornament made with pearls or with lapis gemstones, and suitable both for women and men.
 Like that, they can be worn happily in all seasons. Some other best trees will be yielding gemlike
 marvellous decorations applicable to noblesse. [4-43-45, 46]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Other foremost trees yield [fruits and garments] pleasant to enjoy in every season (sarvartusukhasevyāni); and still other foremost trees yield [couch-frames] variegated with precious gems (mahārhamaṇicitrāṇi),
 </details>
 </details>
 
@@ -2194,6 +2454,14 @@ also.
 even garlands that will be attractively heartening, while some other trees will be yielding juices
 and foodstuffs that are relevant to highly choicest consumers. [4-43-47]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**47:** and bring forth couches (śayanāni prasūyante) furnished with variegated coverlets (citrāstaraṇavanti ca); and other trees here yield garlands delightful to the mind (manaḥkāntāni mālyāni).
+
+**48:** [And there are yielded] costly beverages (pānāni ca mahārhāṇi), manifold viands (bhakṣyāṇi vividhāni ca), and women endowed with every excellence (striyaś ca guṇasampannāḥ), distinguished by beauty and youth (rūpayauvanalakṣitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2243,6 +2511,12 @@ Some say that the females are also born out of the very same trees by adding the
 word *prasuuyante* to these compounds of trees. Nevertheless, it is better taken as 'daughters of
 soil.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gandharvas, Kinnaras, Siddhas, Nāgas, and Vidyādharas as well, of blazing radiance (bhāsvaraprabhāḥ), continually sport there with their women (ramante satataṃ tatra nārībhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2291,6 +2565,12 @@ there.
 hence they are accorded with paradisiacal pleasures now. All are engaged in passion, all of them
 live in pleasure and prosperity along with their youthful females. [4-43-50]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All are of meritorious deeds (sarve sukṛtakarmāṇaḥ), all are devoted to pleasure (ratiparāyaṇāḥ), and all dwell together with their women (saha yoṣitaḥ), endowed with love and wealth (kāmārthasahitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2337,6 +2617,12 @@ notes,] out flowing, sound; *tatra satatam shruuyate* = there, always, comes to 
 "The notes of vocal and instrumental music will be flowing out mixed with the peals
 of vivacious laughter, which will always come to ears in a heart-stealing manner for all beings.
 [4-43-51]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The resonance of song and musical instruments (gītavāditranirghoṣaḥ), accompanied by the sound of joyous laughter (sotkṛṣṭahasitasvanaḥ), is continually heard there, enchanting to all beings (sarvabhūtamanoramaḥ).
 </details>
 </details>
 
@@ -2388,6 +2674,12 @@ attributes; *vardhante* = will be enhancing.
 "There is none who is infelicitous and there is none who is friendly to untruthful
 ones, and in that province these heart-pleasing attributes of those blessed souls like rejoicing,
 festivity etc. will be enriching day by day. [4-43-52]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+No one there is joyless (nāmuditaḥ kaścit), nor is anyone here fond of what is base (nātra kaścid asatpriyaḥ); day by day (ahany ahani), delightful excellences (guṇāḥ manoramāḥ) increase there.
 </details>
 </details>
 
@@ -2443,6 +2735,12 @@ The north of Himalayas is referred as the northern ocean. It is held that
 Himalayas have emerged from an ocean to where Vali used to leap everyday in the early hours to
 offer water oblation to the Sun.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing beyond that land lies the northern ocean (uttaraḥ payasāṃ nidhiḥ); there in its midst (madhye) rises a great mountain of gold (hemamayo mahān) named Somagiri.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2489,6 +2787,12 @@ raajam* = at it, mountain, lordly; *sam avekSante* = they will be clearly seeing
 "Those who have gone to the sphere of Indra, and those who have gone to the sphere
 of Brahma can clearly see that lordly Mt. Soma, situated in the vast of ocean from the vast of
 heavens. [4-43-54]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those gods who have gone to Indraloka and those who have gone to Brahmaloka (brahmalokagatāś ca ye), having ascended to heaven (divaṃ gatāḥ), gaze upon that king of mountains (girirājam).
 </details>
 </details>
 
@@ -2540,6 +2844,12 @@ prakaashate* = its own [mountain's,] resplendence, illuminated with.
 it is illuminated with the resplendence of Mt. Soma itself, which will be irradiating that place as
 if with the resplendence of the Sun. [4-43-55]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And that region, though sunless (visūryo 'pi), shines with the radiance of that [mountain] (tasya bhāsā prakāśate), recognizable by its solar splendor (sūryalakṣmyābhivijñeyaḥ) as if [lit] by the blazing Sun himself (tapateva vivasvatā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2587,6 +2897,12 @@ sojourn - there on Mt. Soma.
 "The God and Cosmic-Souled Vishnu and Shambhu or Shiva, an embodiment of eleven
 selfsame Souls, called ekaadasha rudra-s , and the god of gods Brahma
 who is surrounded by Brahma-Sages, will be sojourning on that Mt. Soma. [4-43-56]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There dwells the Blessed Lord (bhagavān), the Soul of the Universe (viśvātmā), Śambhu in his elevenfold form (śambhur ekādaśātmakaḥ), and Brahmā, lord of the gods (deveśaḥ), surrounded by Brahmarṣis (brahmarṣiparivāritaḥ).
 </details>
 </details>
 
@@ -2644,6 +2960,12 @@ in this northern quarter beyond the Himalayas, the Uttara Kurus and the Uttara M
 consecrated to glorious dominion and people term them glorious...' Mouris, Sanskrit Series, Vol.
 I
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By no means (na kathaṃcana) must you go to the north of the Kurus (kurūṇām uttareṇa vaḥ); nor indeed does the course (gatiḥ) of any other living beings proceed there (nānukrāmati vai).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2689,6 +3011,12 @@ return; *arhatha* = apt of you.
 
 "That mountain named Soma is an impassable one even for gods, and it will be apt of
 you to quickly return from there on seeing that mountain. [4-43-58]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For that mountain named Somagiri is hard of access even for the gods (devānām api durgamaḥ); having beheld it from afar (tam ālokya), you ought swiftly to turn back from there (tataḥ kṣipram upāvartitum arhatha).
 </details>
 </details>
 
@@ -2737,6 +3065,12 @@ not, we know - I do not know.
 " It is possible for the vanara-s to go only up to there, oh, best vanara-s, and we
 have no knowledge of those sunless and boundless realms available far and beyond. [4-43-59]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus far (etāvat) is it possible for monkeys to go, O bulls among monkeys (vānarapuṅgavāḥ); beyond that (tataḥ param), where it is sunless and boundless (abhāskaram amaryādam), we do not know.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2784,6 +3118,12 @@ you make up.
 "You shall thoroughly search in all those provinces that are explained by me, and
 you have to make up your mind for searching in other places that are not referred by me.
 [4-43-60]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All this that has been recounted by me (yan mayā parikīrtitam) must be searched; and whatever else has not been mentioned (yad anyad api noktaṃ ca), toward that too let your thought be directed (tatrāpi kriyatāṃ matiḥ).
 </details>
 </details>
 
@@ -2841,6 +3181,12 @@ accomplishment, it becomes.
 born in Videha kingdom, namely Vaidehi, an extremely desirable task for the sake of Dasharatha's
 son Rama is considered as done. Thereby it becomes a still privileged accomplishment even for me
 achieved through your efforts. [4-43-61]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereby, O you who equal the wind and fire (anilānalopamāḥ), through the deed born of finding Videha's daughter (videhajādarśanajena karmaṇā), a great service dear to Daśaratha's son will have been accomplished, and from that, a service even dearer to me (tato mama priyam) will have been done.
 </details>
 </details>
 
@@ -2909,6 +3255,12 @@ said to the monkeys going to North. [4-43-62]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नलवत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥43॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, your purpose fulfilled (kṛtārthāḥ), united with your kinsmen (sabāndhavāḥ) and honored by me with all delightful excellences (mayārcitāḥ sarvaguṇair manoramaiḥ), your foes pacified (śāntaśatravaḥ), you shall roam over the earth (cariṣyathorvīṃ prati) together with your beloveds (sahapriyāḥ), O leapers, sustaining all living beings (bhūtadharāḥ).'
 </details>
 </details>
 

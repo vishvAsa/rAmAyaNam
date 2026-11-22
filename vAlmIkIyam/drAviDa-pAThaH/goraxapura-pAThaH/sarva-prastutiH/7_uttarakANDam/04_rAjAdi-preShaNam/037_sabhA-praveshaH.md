@@ -34,6 +34,12 @@ title = "०३७ सभा-प्रवेशः"
 
 काकुत्स्थकुलभूषण आत्मज्ञानी श्रीरामचन्द्रनु विधिवत्तागि पट्टाभिषिक्तनाद बळिक पौरर हर्षवन्नु हॆच्चिसिद मॊदलनॆय रात्रियु कळॆयितु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the scion of Kakutstha, knower of the self, had been consecrated according to dharma (abhiṣikte tu kākutsthe dharmeṇa viditātmani), that first night—which heightened the citizens’ joy (paurāṇāṃ harṣavardhinī)—passed away (vyatītā yā niśā pūrvā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -62,6 +68,12 @@ _________________
 
 रात्रॆ कळॆदु बॆळगादाग प्रातःकाल महाराजा श्रीरामनन्नु ऎब्बिसुव सौम्यवन्दी जनरु अरमनॆगॆ बन्दरु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that night brightened into dawn (tasyāṃ rajanyāṃ vyuṣṭāyām), gentle bards whose office was to awaken the king at daybreak (prātar nṛpatibodhakāḥ vandinaḥ ... saumyāḥ) assembled at the royal palace (samupātiṣṭhan ... nṛpativeśmani).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -86,6 +98,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवर कण्ठ मधुरवागिद्दु, सङ्गीत कलॆयल्लि किन्नररन्तॆ शिक्षितरागिद्दरु. अवरु बहळ हर्षदिन्द यथावत्तागि वीर नरेश श्रीरघुनाथनन्नु स्तुतिसलु प्रारम्भिसिदरु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All those sweet-voiced singers (te raktakaṇṭhinaḥ sarve), skilled like celestial Kinnaras (kinnarā iva śikṣitāḥ), duly praised the heroic king (tuṣṭuvur nṛpatiṃ vīraṃ yathāvat), filled with overflowing joy (sampraharṣiṇaḥ):
 </details>
 </details>
 
@@ -115,6 +133,12 @@ _________________
 
 कौसल्या नन्दवर्धन सौम्यरूप वीर रघुवीरने! एळय्य, महाराज एळि. नीवु मलगिद्दरॆ इडी जगत्तु मलगिद्दीतु. (ब्राह्ममुहूर्तदल्लि ऎद्दु धर्मानुष्ठान माडलाररु..॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Awaken, O gentle hero, increaser of Kausalyā’s delight (vīra saumya prabudhyasva kausalyā-prītivardhana)! For the entire world sleeps (jagad dhi sarvaṃ svapiti) while you sleep, O lord of men (tvayi supte narādhipa)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,6 +163,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निम्म पराक्रम विष्णुविनन्तॆ इद्दु, रूपवु अश्विनीकुमाररन्तॆ इदॆ. बुद्धियल्लि नीवु बृहस्पतिगॆ तुल्यरागिद्दीरि. प्रजापालनॆयल्लि साक्षात् प्रजापतियन्तॆ इरुविरि.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your stride is like Viṣṇu’s (vikramas te yathā viṣṇoḥ), and your beauty like that of the twin Aśvins (rūpaṃ caivāśvinor iva); in intellect you are the equal of Bṛhaspati (buddhyā bṛhaspates tulyaḥ), and indeed you are like Prajāpati himself (prajāpatisamo hy asi).
 </details>
 </details>
 
@@ -165,6 +195,12 @@ _________________
 
 निम्म क्षमॆ पृथिवियन्तॆ इदॆ, तेज भगवान् भास्करनन्तॆ इदॆ. वेगवायुविनन्तॆ इद्दु, गम्भीरतॆयल्लि समुद्रदन्तॆ इरुवॆ.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your forbearance equals the earth (kṣamā te pṛthivītulyā), and in brilliance you resemble the Sun (tejasā bhāskaropamaḥ); your swiftness equals the Wind (vegas te vāyunā tulyaḥ), and your profundity is like that of the ocean (gāmbhīryam udadher iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +225,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरेश्वरने! नीवु भगवान् शङ्करनन्तॆ युद्धदल्लि अविचलरागिरुविरि. निम्मल्लिरुव सौम्यतॆयु चन्द्रनल्ले सिगुवुदु. निम्मन्तह राजनु न भूतो न भविष्यति.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Unshakeable as Sthāṇu [Śiva] (aprakampyo yathā sthāṇuḥ), and possessing such gentleness as abides in the moon (candre saumyatvam īdṛśam)—never before were there kings like you, nor shall there ever be, O lord of men (nedṛśāḥ pārthivāḥ pūrvaṃ bhavitāro narādhipa)!
 </details>
 </details>
 
@@ -218,6 +260,12 @@ _________________
 
 पुरुषोत्तमने! निम्मन्नु सोलिसुवुदु असम्भववे आगिदॆ. नीवु सदा धर्मदल्ले संलग्नरागिद्दु, प्रजॆगळ हितदल्लि तत्पर नागिरुविरि. अदरिन्द कीर्ति मत्तु लक्ष्मी निम्मन्नु ऎन्दू बिट्टिल्ल.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because you are exceedingly unassailable, ever steadfast in dharma, and devoted to your subjects’ welfare (yathā tvam atidurdharṣo dharmanityaḥ prajāhitaḥ), neither Fame nor Fortune ever forsakes you, O bull among men (na tvāṃ jahāti kīrtiś ca lakṣmīś ca puruṣarṣabha)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,6 +294,12 @@ _________________
 
 ककुत्स्थकुलनन्दन! ऐश्वर्य मत्तु धर्म निम्मल्लि नित्य प्रतिष्ठितवागिवॆ. वन्दीजनरु हीगॆ इन्नू अनेक स्तुतिगळन्नु हाडिदरु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Sovereign Prosperity and Righteousness, O scion of Kakutstha, abide eternally in you (śrīś ca dharmaś ca kākutstha tvayi nityaṃ pratiṣṭhitau)!” These and many other sweet verses were proclaimed by the bards (etāś cānyāś ca madhurā vandibhiḥ parikīrtitāḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -271,6 +325,12 @@ _________________
 
 सूतरू कूड दिव्यस्तुतिगळिन्द श्रीरघुनाथनन्नु ऎब्बिसुत्तिद्दरु. हीगॆ केळिद स्तुतिगळिन्द भगवान् श्रीरामनु ऎच्चरगॊण्डनु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the royal sūtas likewise kept awakening Rāghava with divine hymns of praise (sūtāś ca saṃstavair divyair bodhayanti sma rāghavam); by those eulogies being sung aloud (stutibhiḥ stūyamānābhiḥ), Rāghava awoke (pratyabudhyata rāghavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -295,6 +355,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पापहारि भगवान् नारायणनु सर्पशय्यॆयिन्द एळुवन्तॆये रामनू बिळिय मेलुहासिनिन्द मुच्चिद्द शय्यॆयन्नु बिट्टु ऎद्दु कुळितनु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaving that couch spread with pale-white linen (sa tad vihāya śayanaṃ pāṇḍarācchādanāstṛtam), he rose up (uttasthau) just as Hari-Nārāyaṇa rises from his serpent bed (nāgaśayanād dharir nārāyaṇo yathā).
 </details>
 </details>
 
@@ -324,6 +390,12 @@ _________________
 
 महाराजरु शय्यॆयिन्द एळुत्तले साविरारु सेवकरु विनयपूर्वक कैमुगिदुकॊण्डु उज्वल पात्रॆगळल्लि नीरु हिडिदुकॊण्डु अवन सेवॆयल्लि उपस्थितरादरु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As that high-souled monarch rose (tam utthitaṃ mahātmānam), thousands of men, bowing low with joined palms (prahvāḥ prāñjalayo narāḥ ... sahasraśaḥ), attended upon him with water in gleaming vessels (salilaṃ bhājanaiḥ śubhrair upatasthuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -351,6 +423,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 स्नानादिगळन्नु मुगिसि शुद्धनागि अवनु सरियाद समयक्कॆ अग्नियल्लि आहुति कॊट्टु, बेगने इक्ष्वाकु वंशीयरिन्द सेवित पवित्र देवमन्दिरक्कॆ आगमिसिदनु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Purified by morning ablutions (kṛtodaka-śucir bhūtvā) and having offered the fire-oblation at the proper hour (kāle hutahutāśanaḥ), he went swiftly to the sacred shrine of the gods cherished by the Ikṣvākus (devāgāraṃ jagāmāśu puṇyam ikṣvākusevitam).
 </details>
 </details>
 
@@ -380,6 +458,12 @@ _________________
 
 अल्लि देवतॆगळन्नु, पितृगळन्नु, ब्राह्मणरन्नु विधिवत्तागि पूजिसि अवनु अनेक कर्मचारिगळॊन्दिगॆ हॊरगिन कक्षॆगॆ बन्दनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having duly worshipped the gods, the ancestors, and the Brahmins there (tatra devān pitṝn viprān arcayitvā yathāvidhi), Rāma emerged into the outer courtyard (bāhyakakṣāntaraṃ rāmo nirjagāma), surrounded by his attendants (janair vṛtaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -405,6 +489,12 @@ _________________
 
 आग प्रज्वलित अग्नियन्तॆ तेजस्वी वसिष्ठादि ऎल्ल महात्मा मन्त्रिगळु मत्तु पुरोहितरु अल्लि उपस्थितरादरु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+High-souled ministers together with the royal priests, headed by Vasiṣṭha (mantriṇaḥ sapurohitāḥ vasiṣṭhapramukhāḥ sarve), waited upon him (upatasthuḥ), blazing with spiritual luster like consecrated fires (dīpyamānā ivāgnayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -429,6 +519,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर अनेकानेक जन पदगळ ऒडॆयरु, महामनस्वी क्षत्रियरु, श्रीरामन बळिगॆ बन्दु इन्द्रन बळि देवतॆगळु बन्दु कुळितुकॊळ्ळुवन्तॆ कुळितरु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+High-souled Kṣatriyas as well, lords of manifold realms (kṣatriyāś ca mahātmāno nānājanapadeśvarāḥ), took their seats beside Rāma (rāmasyopāviśan pārśve), even as the immortals sit around Śakra (śakrasyeva yathā ’marāḥ).
 </details>
 </details>
 
@@ -458,6 +554,12 @@ _________________
 
 महा यशस्वी भरत, लक्ष्मण, शत्रुघ्न मूवरू सहोदररू बहळ हर्षदिन्द मूरु वेदगळु यज्ञद बळि इरुवन्तॆ श्रीरामन सेवॆयल्लि उपस्थितरादरु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata, Lakṣmaṇa, and renowned Śatrughna (bharato lakṣmaṇaś cātra śatrughnaś ca mahāyaśāḥ) joyfully attended upon him there (upāsāñcakrire hṛṣṭāḥ), like the three Vedas waiting upon a sacrifice (vedās traya ivādhvaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -482,6 +584,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आगले मुदितरॆम्ब प्रसिद्ध प्रसन्नमुखवुळ्ळ अनेक सेवकरु कैमुगिदुकॊण्डु सभाभवनक्कॆ बन्दरु हागू श्रीरघुनाथन बळियल्लि कुळितरु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having come with joined palms and gladdened countenances (yātāḥ prāñjalayo bhūtvā ... muditānanāḥ), numerous attendants named Muditas (kiṅkarāḥ ... muditā nāma ... bahavaḥ) took their places seated at his side (pārśvasthāḥ ... samupāviśan).
 </details>
 </details>
 
@@ -511,6 +619,12 @@ _________________
 मत्तॆ महापराक्रमि, महातेजस्वी हागू कामरूपिगळाद सुग्रीवादि इप्पत्तु1 वानररु भगवान् श्रीरामन समीप बन्दु मण्डिसिदरु.॥19॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Twenty vānaras of mighty valor, shape-shifting at will and endowed with great energy (vānarāś ca mahāvīryā viṃśatiḥ kāmarūpiṇaḥ ... mahaujasaḥ), headed by Sugrīva (sugrīvapramukhāḥ), wait upon Rāma (rāmam upāsante).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +653,12 @@ _________________
 
 तन्न नाल्वरु मन्त्रिगळॊन्दिगॆ विभीषणनू कूड, गुह्यकरु धनपति कुबेरन सेवॆयल्लि उपस्थितरादन्तॆये महात्मा श्रीरामन सेवॆयल्लि उपस्थितरादरु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Vibhīṣaṇa, attended by his four rākṣasa counselors (vibhīṣaṇaś ca rakṣobhiś caturbhiḥ parivāritaḥ), waits upon the high-souled king (upāsate mahātmānam), like Guhyakas serving the Lord of Wealth (dhaneśam iva guhyakāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -563,6 +683,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शास्त्रज्ञानदल्लि पारङ्गतराद, कुलीनराद, चतुर मनुष्यरू कूड महाराजनिगॆ तलॆबागि प्रणाम माडि अल्लि बन्दु कुळितु कॊण्डरु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likewise, discerning elders steeped in Vedic lore and men of noble lineage (nigamavṛddhāś ca kulīnā ye ca mānavāḥ ... vicakṣaṇāḥ), having bowed their heads in reverence (śirasā ’’vandya), wait upon the king (rājānam upāsante).
 </details>
 </details>
 
@@ -589,6 +715,12 @@ _________________
 
 हीगॆ बहळ श्रेष्ठ हागू तेजस्वी महर्षिगळु, महापराक्रमि राजरु, वानररु मत्तु राक्षसरिन्द परिवृतनागि राजसभॆयल्लि कुळितिरुव श्रीरामनु बहळ शोभिसुत्तिद्दनु.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus surrounded, the king is encompassed by illustrious sages (tathā parivṛto rājā śrīmadbhir ṛṣibhir vṛtaḥ), by kings of mighty valor (rājabhiś ca mahāvīryaiḥ), and by vānaras together with rākṣasas (vānaraiś ca sarākṣasaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -613,6 +745,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवेन्द्रनु सदा ऋषिगळिन्द सेवितनादन्तॆये महर्षिगळिन्द सुत्तुवरॆद श्रीरामचन्द्रनु आग सहस्राक्षनिगिन्तलू हॆच्चु शोभिसुत्तिद्दनु.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as the Lord of Gods is ever waited upon by the sages (yathā deveśvaro nityam ṛṣibhiḥ samupāsyate), surpassing thousand-eyed Indra in that splendor, he shines resplendent (adhikas tena rūpeṇa sahasrākṣād virocate).
 </details>
 </details>
 
@@ -646,5 +784,11 @@ _________________
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये उत्तरकाण्डे सप्तत्रिंशः सर्गः ॥ ३७ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके उत्तरकाण्डमें सैंतीसवाँ सर्ग पूरा हुआ ॥ ३७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Among them, seated harmoniously together (teṣāṃ samupaviṣṭānām), manifold sweet narratives imbued with dharma (tās tāḥ sumadhurāḥ kathāḥ ... dharmasaṃyuktāḥ) are recounted by high-souled masters of ancient lore (kathyante ... purāṇajñair mahātmabhiḥ).
 </details>
 </details>

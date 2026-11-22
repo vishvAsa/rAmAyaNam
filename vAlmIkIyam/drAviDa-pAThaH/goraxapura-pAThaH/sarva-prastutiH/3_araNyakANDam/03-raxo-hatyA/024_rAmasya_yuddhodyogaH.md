@@ -69,6 +69,12 @@ indeed.
 While fiercely valorous Khara proceeded towards Rama's hermitage, Rama along with his brother Lakshmana
 has indeed seen the very same auguries which have earlier appeared to Khara. [3-24-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Khara of fierce prowess (khara-parākrame) had marched toward the hermitage (āśramam), Rāma, together with his brother, beheld those very portentous omens (autpātikān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +122,12 @@ resent; *raamaH lakSmaNam vaakyam abraviit* = Rama, sentence, said to.
 On looking at those very gruesomely bad omens, and perceiving them to be unpropitious to people, Rama
 spoke this sentence to Lakshmana. [3-24-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing those dreadfully terrible portents (utpātān mahā-ghorān)—and recognizing them to be baneful to living beings (prajānām ahitān)—the deeply indignant (atyamarṣaṇaḥ) Rāma spoke these words to Lakṣmaṇa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -161,6 +173,12 @@ can annihilate; *sarva raakSasaan* = all, demons; *sam hartum* = complete, to el
 
 "Oh, dextrous Lakshmana, for the complete elimination of all the demons these great indications have
 arisen, as though betokening the annihilation of all beings. See them. [3-24-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold, O mighty-armed one (mahā-bāho), these great portents (mahotpātān)—capable of sweeping away all creatures (sarva-bhūtāpahāriṇaḥ)—that have arisen to annihilate all the rākṣasas!
 </details>
 </details>
 
@@ -211,6 +229,12 @@ in reddish-grey tint; *amii meghaa tu* = these, clouds, on their part; *vyomni n
 "On their part these clouds are hovering on the sky with stark reddish-grey tint, thunderously braying
 and copiously showering streams of blood. [3-24-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yonder harsh clouds (meghāḥ paruṣāḥ), tawny-red like asses (gardabhāruṇāḥ) and rumbling with harsh thunders (khara-svanāḥ), wheel across the sky (vyomni), pouring down streams of blood (rudhira-dhārāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -256,6 +280,12 @@ apart; *vi ceSTante [viveSTante]* = verily, gesturing - incessantly spurring.
 
 "All my arrows too are incensed to fuming in an ecstasy towards a war, and dorsally gold-plated bows
 of mine are incessantly spurring to hook up those arrows, telling apart the impeding conflict. [3-24-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All my arrows (śarāḥ), wreathed in smoke (sadhūmāḥ), rejoice at the prospect of battle (yuddhābhinanditāḥ), and the gold-backed bows (rukma-pṛṣṭhāni cāpāni) stir of their own accord (viceṣṭante), O discerning one (vicakṣaṇa)!
 </details>
 </details>
 
@@ -303,6 +333,12 @@ uncertainty, too.
 "Judging by the kind of wild birds that are shrieking here, danger is up ahead and coming upon us, along
 with uncertainty of our lives. [3-24-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Judging by the manner in which the forest-roaming birds (pakṣiṇo vana-cāriṇaḥ) are crying out here, safety (abhayam)—or else danger—lies immediately ahead for us (agrato naḥ), along with grave peril to life (saṃśayo jīvitasya ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -327,6 +363,12 @@ with uncertainty of our lives. [3-24-6]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न बलभुजवु पदे-पदे अदुरुत्तिरुवुदरिन्द स्वल्प हॊत्तिनल्ले दॊड्ड युद्धवागुवुदॆम्बुदन्नु सूचिसुत्तिदॆ. इदरल्लि याव सन्देहवू इल्ल.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without doubt (na saṃśayaḥ), a mighty battle (samprahāraḥ sumahān) is about to take place; this [right] arm of mine (me bāhuḥ), throbbing again and again (sphuramāṇo muhur muhuḥ), proclaims it—
 </details>
 </details>
 
@@ -376,6 +418,12 @@ is going to occur, no doubt, but oh brave one, our victory and defeat to the ene
 and for sure, your face is also appearing brightish and aglow, which itself is a good omen. [3-24-8]
 [3-24-7, 8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Foretelling,] O heroic one (śūra), victory for us (naḥ jayam) and defeat for the foe (śatroḥ parājayam) close at hand (saṃnikarṣe); for your countenance (tava vaktram) appears radiant (suprabham) and serene (prasannam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -422,6 +470,12 @@ dwindle, it will be - death looms large on their longevity.
 "If the faces of those that are poised for a conflict loose lustre, deem that the death is looming large
 on their longevity too. [3-24-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For when men who have marched forth for battle (udyatānāṃ yuddhārtham), O Lakṣmaṇa, have a lustreless countenance (niṣprabhaṃ vadanam), the exhaustion of their life-span (āyuḥ-parikṣayaḥ) is at hand.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,6 +521,12 @@ shruuyate ca* = is audible, also.
 
 "This nasty noise which we hear pertains to the uproar of demons, and even to the drumming of war drums
 by the demons of fiendish activities, and this is ear-splitting. [3-24-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This dreadful, mighty roar (ghoro mahā-dhvaniḥ) of bellowing rākṣasas (rakṣasāṃ nardatām) is heard, along with that of war-drums (bherīṇām) beaten by the cruel-deeded demons (rākṣasaiḥ krūra-karmabhiḥ).
 </details>
 </details>
 
@@ -520,6 +580,12 @@ The meaning can otherwise be rendered as: 'If any misgivings are caused by an im
 and intellectual person shall effectuate preventive measures...' but this becomes more self-centred
 and cannot become a maxim or axiom.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Precautionary provision for the future (anāgata-vidhānam) must be made by a wise man (puruṣeṇa vipaścitā) who desires welfare (śubham icchatā) when he anticipates a calamity (āpadaṃ śaṅkamānena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -564,6 +630,12 @@ samkulaam* = with trees, overgrown; *durgaam guhaam aashraya* = impassable, cave
 
 "Hence, wield your bow, keep arrows ready at hand, and taking Vaidehi with you seek shelter in a impassable
 cave of a mountain overgrown with trees. [3-24-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, taking Vaidehī (vaidehīṃ gṛhītvā), arrow in hand (śara-pāṇiḥ) and bearing your bow (dhanur-dharaḥ), repair to a mountain cavern (guhāṃ śailasya) that is hard of access (durgām) and densely crowded with trees (pādapa-saṃkulām).
 </details>
 </details>
 
@@ -612,6 +684,12 @@ you are] = by my, pair of feet, you are sworn - have honour on my feet; *gamyata
 "I wish you to gainsay me for this word of mine, my boy, have honour on my feet and be gone not before
 long. [3-24-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I do not wish this command of mine (vākyam idam) to be opposed (pratikūlitum) by you; you are conjured by my feet (śāpito mama pādābhyām)—go, my dear brother (vatsa), do not delay (mā ciram)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -657,6 +735,12 @@ nihantum icChami* = personally, to eliminate, I long to.
 
 "You are a stalwart, a forceful one, and for sure you can eliminate them all, it is doubtless, but I
 long to eliminate all of the nightwalkers, personally" Rama said thus to Lakshmana. [3-24-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For you are both heroic and mighty (śūraś ca balavān) and could slay these [demons] without doubt (hanyā etān na saṃśayaḥ); yet I wish to slay all these night-stalkers (niśācarān) by myself (svayam).”
 </details>
 </details>
 
@@ -721,6 +805,12 @@ character of Rama is at stake. Thus, as promised to sages and saints Rama alone 
 the elimination process of demons. That is why Rama breathes fresh air saying "good riddance" in next
 verse.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma, Lakṣmaṇa took up his arrows and bow (śarān ādāya cāpaṃ ca) and, together with Sītā (saha sītayā), betook himself to the inaccessible cavern (guhāṃ durgām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -768,6 +858,12 @@ himself]; *kavacam aavishat* = armour, shield, entered - donned.
 On Lakshmana's entering into cave along with Seetha, Rama said to himself, "thank goodness, it is a
 good-idea!" and thus saying he donned his shield. [3-24-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Lakṣmaṇa had entered the cavern along with Sītā (tasmin praviṣṭe guhām), Rāma exclaimed, “Aha! It is accomplished (hanta niryuktam)!” and donned his coat of mail (kavacam āviśat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -813,6 +909,12 @@ Rama; *timire utthitaH* = in utter darkness, up-shot; *vi dhuumaH* = without, fu
 
 Well bedecked in a shield that has fire-like brilliance that Rama shone forth like a fumeless conflagration
 up-shot in utter darkness. [3-24-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adorned with that fire-bright armour (tenāgni-nikāśena kavacena), Rāma shone like a great fire (mahān agnir iva) blazing up in the darkness (timire utthitaḥ).
 </details>
 </details>
 
@@ -860,6 +962,12 @@ he stood; *sam babhuuva* = he became - he firmed up.
 On raising his imposing bow and drawing arrows, that valorous Rama firmed up and stood there, filling
 all the directions with the tinny sounds of bowstring. [3-24-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lifting up his mighty bow (cāpam udyamya mahat) and taking his arrows, that valorous hero (vīryavān) stood firm there (sambabhūvāsthitas tatra), filling the quarters with the twanging of his bowstring (jyā-svanaiḥ pūrayan diśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -904,6 +1012,12 @@ siddhaaH ca caaraNaiH saha* = great-souls, siddha-s, carana-s, along with; *yudd
 
 Gods with gandharva-s and great-souled siddha-s along with carana-s have then met one another and came
 there aspiring to see the war. [3-24-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the gods along with the gandharvas (devāḥ sagandharvāḥ), and the high-souled siddhas together with the cāraṇas (siddhāś ca saha cāraṇaiḥ), assembled out of a desire to witness the battle (yuddha-darśana-kāṅkṣayā).
 </details>
 </details>
 
@@ -978,6 +1092,14 @@ sarvaan asura pungavaan* = in war, all, demons, mighty ones; *iti uucuH* = thus,
 victorious in the war over the clansmen of Sage Paulastya, the nightwalkers." Thus they talked among
 themselves. [3-24-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** And the high-souled sages (ṛṣayaś ca mahātmānaḥ)—foremost of brahmarṣis in the world (loke brahmarṣi-sattamāḥ) and men of meritorious deeds (puṇya-karmaṇaḥ)—having gathered together (sametya sahitāḥ), spoke to one another (ūcus te 'nyonyam):
+
+**21:** “May welfare attend cows and Brāhmaṇas (svasti go-brāhmaṇānām), and all the worlds (lokānāṃ ca)!”—standing thus, [they prayed:] “May Rāghava conquer (jayatām) in battle the night-stalkers descended from Pulastya (paulastyān rajanīcarān),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1029,6 +1151,14 @@ Thus speaking they also well-said again, looking at each other "the demons of fi
 thousand in number and this virtue-souled Rama is solitary... what would be the result of this war!"
 Thus the sages discussed among themselves. [3-24-22b, 23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** Even as the discus-wielding [Viṣṇu] (cakra-hastaḥ) [conquered] in battle all the foremost of the asuras (sarvān asura-puṅgavān)!” Having spoken thus, they looked at one another (ālokya parasparam) and spoke again:
+
+**23:** “Fourteen thousand (caturdaśa sahasrāṇi) are the rākṣasas of dreadful deeds (bhīma-karmaṇām), and righteous-souled Rāma is all alone (ekaś ca rāmo dharmātmā)—how shall the battle unfold (kathaṃ yuddhaṃ bhaviṣyati)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1073,6 +1203,12 @@ staying, gods, also; *jaata kautuuhalaat tasthuH* = originated, inquisitiveness,
 
 Thus the assemblages of kingly-sages, siddha-s and the eminent Brahmans, along with gods that are staying
 in their aircrafts, tarried there in the firmament peering inquisitively at Rama. [3-24-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, the royal sages (rājarṣayaḥ), siddhas, foremost of twice-born sages with their attendants (sagaṇāś ca dvijarṣabhāḥ), and the gods stationed in their aerial cars (vimāna-sthāś ca devatāḥ) stood filled with eager curiosity (jāta-kautūhalās tasthuḥ).
 </details>
 </details>
 
@@ -1119,6 +1255,12 @@ by dread, verily, in throes of.
 
 Immured in an aura of invincibility Rama is standing up to the war in its vanguard, and then on seeing
 at him all beings went into the throes of dread. [3-24-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāma filled with fiery splendour (āviṣṭaṃ tejasā) and standing at the forefront of battle (saṃgrāma-śirasi sthitam), all beings (sarvāṇi bhūtāni) trembled with fear (bhayād vivyathire) at that moment.
 </details>
 </details>
 
@@ -1178,6 +1320,12 @@ ghanTaam Damaru baaNa paasha ankusham tathaa | caapam vajram khaDgam ca parashum
 shriyam ca gangaam ca dadR^ishuH siddha caaraNaaH | skaandda puraaNa* According to Maheshvara
 Tiirtha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The peerless form (rūpam apratimam) of that Rāma of unwearying deeds (akliṣṭa-karmaṇaḥ) became like the form of the wrathful, high-souled Rudra (kruddhasya rudrasyeva mahātmanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1204,6 +1352,12 @@ Tiirtha.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवतॆगळु, गन्धर्वरु, चारणरु हिन्दिनन्तॆ श्रीरामन मङ्गलकामनॆ माडुत्तिद्दाग, भयङ्कर कत्ति-गुराणि मॊदलाद आयुधगळिन्द मत्तु ध्वजगळिन्द कूडिद निशाचरर आ सैन्यवु गम्भीरवागि गर्जिसुत्ता नाल्कु कडॆगळिन्द श्रीरामन बळिगॆ बन्तु.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While this was being spoken by the gods, gandharvas, and cāraṇas (deva-gandharva-cāraṇaiḥ), then, with a deep rumbling roar (gambhīra-nirhrādam) and dreadful shields, weapons, and banners (ghora-carmāyudha-dhvajam)—
 </details>
 </details>
 
@@ -1258,6 +1412,14 @@ skins, shields, weaponry and war-flags, and onrushing at each other in disarray.
 of bows, with the drumming of war drums, and even by their jumping, leaping and bouncing that area is
 filled with very loud and clamorous noise. [3-24-27, 28, 29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** The army of the yātudhānas (anīkaṃ yātudhānānām) closed in from every side (samantāt pratyapadyata)—[warriors] uttering heroic boasts (vīrālāpān visṛjatām) and rushing toward one another (anyonyam abhigacchatām),
+
+**29:** Twanging their bows (cāpāni visphārayatām), yawning and stretching repeatedly (jṛmbhatāṃ cāpy abhīkṣṇaśaḥ), raising loud clamour (vipraghuṣṭa-svanānām), and beating their war-drums (dundubhīṃś cāpi nighnatām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1310,6 +1472,12 @@ When highly brutish cacophony of demons started to fill the forest, that janglin
 brutes ranging in that forest, and those beasts dashed off to other places where silence prevailed,
 without looking back. [3-24-30, 31a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Their tumultuous uproar (sutumulaḥ śabdaḥ) filled that forest (pūrayām āsa tad vanam); terrified by that din (tena śabdena vitrastāḥ), the forest-roaming beasts of prey (śvāpadā vana-cāriṇaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1359,6 +1527,12 @@ ocean, in simile; *tat aniikam* = that, army; *raamam* = towards Rama; *sam anu 
 And that foolhardy army of demons which in simile is like an unnavigable ocean steered towards Rama
 handling many assault weapons. [3-24-31b, 32a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Fled to wherever there was silence (yatra niḥśabdam), without looking back (pṛṣṭhato nāvalokayan). And that swiftly surging army (tac cānīkaṃ mahā-vegam) closed in upon Rāma (rāmaṃ samanuvartata),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1404,6 +1578,12 @@ has seen.
 
 Casting his sight all-over even that war-expert Rama has seen that army of Khara lunging at a conflict.
 [3-24-32b, 33a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wielding diverse weapons (dhṛta-nānā-praharaṇam), deep and fathomless like the ocean (gambhīraṃ sāgaropamam). Rāma too, skilled in warfare (raṇa-paṇḍitaḥ), casting his gaze on every side (cārayaṃś cakṣuḥ sarvataḥ)—
 </details>
 </details>
 
@@ -1487,6 +1667,14 @@ And when he is enraged and blazing he became frightful-looking like the blazing 
 and on seeing such a Rama when he is pervaded with conflagration like anger, the pastoral deities are
 very much annoyed. [3-24-34]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**33:** Beheld that army of Khara (khara-sainyaṃ tat) as he stood facing the battle (yuddhāyābhimukho gataḥ). Drawing his dread bow (vitatya ca dhanur bhīmam) and plucking arrows from his quivers (tūṇyāś coddhṛtya sāyakān)—
+
+**34:** He summoned up fierce wrath (krodham āhārayat tīvram) for the slaying of all the rākṣasas (vadhārthaṃ sarva-rakṣasām); and in his wrath he became hard to gaze upon (duṣprekṣyaś cābhavat), blazing like the fire at the end of a world-age (yugāntāgnir iva jvalan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1534,6 +1722,12 @@ pinaakinii iva* = one who wields Pinaaka bow - namely Rudra, as with; *dadR^ishe
 The all-pacific aspect of that Rama then in his exasperation appeared to be like that of the all-ruinous
 Rudra, the wielder of bow called Pinaki, namely peaceful Shiva when enraged, at the time of Rudra's
 embarking on to ruin the Vedic ritual of Daksha Prajaapati. [3-24-35]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him filled with fiery energy (tejasāviṣṭam), the forest-deities trembled (prāvyathan vana-devatāḥ); and the form of that enraged Rāma (tasya ruṣṭasya rāmasya rūpam) then appeared like that of Pināka-wielding [Śiva] (pinākinaḥ) upraised to destroy the sacrifice of Dakṣa (dakṣasyeva kratuṃ hantum udyatasya).
 </details>
 </details>
 
@@ -1608,6 +1802,12 @@ of them, the evil-doers, after a short while.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With its bows, ornaments, and chariots (tat-kārmukair ābharaṇai rathaiś ca), and its coats of mail gleaming like fire (tad-varmabhiś cāgni-samāna-varṇaiḥ), that host of flesh-eaters (sainyaṃ piśitāśanānām) looked like a mass of dark-blue clouds at sunrise (sūryodaye nīlam ivābhra-jālam).
 </details>
 </details>
 

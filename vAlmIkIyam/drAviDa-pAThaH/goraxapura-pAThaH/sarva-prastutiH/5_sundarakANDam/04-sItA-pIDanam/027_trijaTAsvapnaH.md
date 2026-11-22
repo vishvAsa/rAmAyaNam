@@ -73,6 +73,12 @@ _________________
 Thus spoken to by Seetha, ogresses swooned with anger terribly. Some went to tell that to Ravana
 the evil minded one.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus fiercely (ghoram) by Sītā [declaring her resolve to die], the demonesses became convulsed with wrath (krodhamūrcchitāḥ); some went to report that [resolve] to the evil-minded Rāvaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +128,12 @@ _________________
 Therafter ogresses with a terrible appearance neared Seetha and ten agin spoke words of evil purpose,
 with a single meaning and which were harsh.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, approaching Sītā, the demonesses of frightful appearance (bhīmadarśanāḥ) once again spoke harsh words of a single purport (ekārtham), yet fraught with ruinous consequence (anarthārtham) [for themselves]:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -161,6 +173,12 @@ with a single meaning and which were harsh.
 
 "O ignoble one! O one with a sinful resolve! O Seetha! Today at this moment ogreeses will eat this
 your flesh according to comfort."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today, at this very moment (adyedānīm), O ignoble Sītā of sinful resolve (pāpaviniścaye), the demonesses shall devour this flesh of yours at their pleasure (yathāsukham)!”
 </details>
 </details>
 
@@ -209,6 +227,12 @@ words.
 Then, seeing Seetha frightened by those evil ones, an ogress named Trijata, sleeping till then,
 spoke these words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Sītā thus menaced (saṃtarjitām) by those ignoble women, the aged (vṛddhā) rākṣasī Trijaṭā, having awakened from sleep (prabuddhā), spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -254,6 +278,12 @@ king Dasaratha.
 
 "O evil ones! Eat your selves. You will not eat Seetha who is the dear daughter of king Janaka
 and daughter-in-law of king Dasaratha."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Devour your own selves (ātmānaṃ khādata), O ignoble ones! You shall not devour Sītā, the beloved daughter (sutām iṣṭām) of Janaka and the daughter-in-law (snuṣām) of Daśaratha.
 </details>
 </details>
 
@@ -304,6 +334,12 @@ _________________
 "Now a dream which is terrible, causing the hairs to stand erect for the destruction of ogres and
 for the welfare of Her husband, has been seen by me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For today a terrible (dāruṇaḥ), hair-raising (romaharṣaṇaḥ) dream has been seen by me, portending the destruction (abhāvāya) of the rākṣasas and the triumph (bhavāya) of her husband.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -352,6 +388,12 @@ _________________
 
 Thus spoken to by Trijata all ogresses were frightened and spoke to that Trijata these words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Trijaṭā, the demonesses, though convulsed with anger (krodhamūrcchitāḥ), were all struck with fear (bhītāḥ) and spoke this word to that Trijaṭā:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,6 +426,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अरी! बताओ तो सही, तुमने आज रातमें यह कैसा स्वप्न देखा है?’ उन राक्षसियोंके मुखसे निकली हुई यह बात सुनकर त्रिजटाने उस समय वह स्वप्न-सम्बन्धी बात इस प्रकार कही— ॥ ८ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Relate (kathayasva) of what nature (kīdṛśaḥ) was this dream seen by you in the night!” Hearing the speech that issued from the mouths (mukhodgatam) of those demonesses,
 </details>
 </details>
 
@@ -453,6 +501,14 @@ sahasreNa* = with a thousand swans; *aagataH* = arrived; *lakshmaNena saha* = al
 "Rama wearing white garlands and clothes passing through the sky, Himself ascending a palanquin
 made of ivory tied with a thousand swans, arrived along with Lakshmana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Trijaṭā at the proper hour (kāle) spoke words concerning her dream (svapnasaṃśritam): “[I beheld] a celestial aerial palanquin (śibikām antarikṣagām) wrought of elephant ivory (gajadantamayīm),
+
+**10:** yoked with a thousand steeds (vājisahasreṇa); mounting it himself, Rāghava, wearing white garlands and white raiments (śuklamālyāmbaradharaḥ), arrived together with Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -505,6 +561,12 @@ white clothes; *aasthitaa* = was sitting; *shvetam parvatam* = on a white mounta
 "Now it has been seen by me in the dream that Seetha also wearing white clothes was sitting on
 a white mountain surrounded by the ocean."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And today in my dream Sītā was seen by me clad in white garments (śuklāmbarāvṛtā), seated upon a white mountain (śvetaparvatam āsthitā) encircled by the ocean (sāgareṇa parikṣiptam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -552,6 +614,12 @@ on a great elephant; *chaturdraShTram* = with four tusks; *shailasaMkaasham* = e
 
 "Seetha came together with Rama like the light with the Sun. Rama also was seen by me to be mounted
 on a great elephant with four tusks and equalling a mountain and Rama wandered together with Lakshmana."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā was united (saṃgatā) with Rāma just as radiance (prabhā) is united with the sun (bhāskareṇa); and Rāghava was seen again [mounting] a great four-tusked elephant (caturdantaṃ mahāgajam).
 </details>
 </details>
 
@@ -602,6 +670,12 @@ two; *narashaarduulau* = best among men (Rama and Lakshmana); *paryupasthitau* =
 "Thereafter shining with their own radiance, wearing white garlands and clothes, those two best
 among men Rama and Laksmana neared Seetha."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounted [upon that elephant] resembling a mountain (śailasaṃkāśam), he shone (cakāsa) together with Lakṣmaṇa; then the two of them, resembling the sun (sūryasaṃkāśau) and blazing with their own splendor (svatejasā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -641,6 +715,12 @@ the sky; *parigR^ihiitasya* = taken; *bhartraa* = by Her husband Rama; *agre* = 
 
 "Thereafter Seetha rested on the upper part of back of elephant in the sky; taken by Her husband
 Rama to the front of that mountain."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+wearing white garlands and white garments (śuklamālyāmbaradharau), approached Jānakī. Then, upon the summit of that mountain (nagasyāgre), onto the shoulder of the elephant standing in the sky (ākāśasthasya dantinaḥ)
 </details>
 </details>
 
@@ -696,6 +776,12 @@ _________________
 of Her husband and gently touched the Moon and the Sun with Her hand."
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and held fast by her husband (bhartrā parigṛhītasya), Jānakī ascended (skandham āśritā); then, springing up from her husband’s lap (bhartur aṅkāt samutpatya), the lotus-eyed lady (kamalalocanā)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -734,6 +820,12 @@ of Her husband and gently touched the Moon and the Sun with Her hand."
 
 "Thereafter that best elephant ascended by those princes Rama and Lakshmana and by Seetha with
 wide eyes stood on the top of Lanka."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+was seen by me stroking (parimārjatī) the moon and the sun (candrasūryau) with her two hands (pāṇibhyām). Then that best of elephants, mounted by those two princes and by wide-eyed Sītā, stood poised above Laṅkā (laṅkāyā upari sthitaḥ).
 </details>
 </details>
 
@@ -784,6 +876,12 @@ yuktena aShTa yujaa* = tied with eight white bulls;
 
 "Rama together with wife Seetha, Himself came here in a chariot tied with eight white bulls."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In a chariot yoked with eight (aṣṭayujā) white bulls (pāṇḍurarṣabhayuktena), Kākutstha himself arrived here (ihopayātaḥ) together with his wife Sītā,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -819,6 +917,14 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इसके बाद दूसरी जगह मैंने देखा, सत्यपराक्रमी और बल-विक्रमशाली पुरुषोत्तम भगवान् श्रीराम अपनी पत्नी सीता और भाई लक्ष्मणके साथ सूर्यतुल्य तेजस्वी दिव्य पुष्पक विमानपर आरूढ़ हो उत्तर दिशाको लक्ष्य करके यहाँसे प्रस्थित हुए हैं ॥ १८-१९ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** wearing white garlands and white raiments, having come with Lakṣmaṇa. Then elsewhere [in another dream-vision] (tato 'nyatra) Rāma of true valor (satyaparākramaḥ) was seen by me,
+
+**19:** Together with his brother Lakṣmaṇa and with Sītā, the heroic one (vīryavān), having ascended (āruhya) the celestial aerial car Puṣpaka resembling the sun (sūryasaṃnibham),
 </details>
 </details>
 
@@ -878,6 +984,12 @@ Lord Vishnu; *raaghavaH* = born in Raghu's dynasty; *saha* = together; *bhraatra
 "Rama with strength equalling that of Lord Vishnu, born in Raghu's dynasty together with brother
 Lakshmana and with Seetha has been seen by me thus in the dream."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the Supreme Person (puruṣottamaḥ) set forth (prasthitaḥ), looking toward the northern quarter (uttarāṃ diśam ālocya). Thus in my dream was Rāma of Viṣṇu’s valor (viṣṇuparākramaḥ) seen by me,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -923,6 +1035,12 @@ by ogres; *anvairvaa* = or by others; *svargaH iva* = like heaven; *paapajanaiH*
 
 "Rama with great glory is not possible to be defeated by Suras or by ogres or by others like heaven
 not being conquerable by sinners."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+together with his brother Lakṣmaṇa and with his wife Sītā. For Rāma of mighty splendor (mahātejāḥ) cannot be conquered (na śakyo jetum) even by gods and asuras (surāsuraiḥ),
 </details>
 </details>
 
@@ -992,6 +1110,14 @@ Oleander flowers, drinking oil and intoxicated."
 
 "Now Ravana fallen down on to earth from Pushpaka aeroplane having the head shaved, wearing black
 clothes again was seen to be pulled by a woman."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** nor by rākṣasas or by any others, any more than heaven can be won by sinful men (svargaḥ pāpajanair iva). And Rāvaṇa was seen by me with his head shaved bald (muṇḍaḥ) and drenched with oil (tailasamukṣitaḥ),
+
+**23:** wearing red garments (raktavāsāḥ), drinking while intoxicated (piban mattaḥ), wearing garlands of red oleander (karavīrakṛtasrajaḥ); today Rāvaṇa fell (patitaḥ) from the Puṣpaka aerial car onto the earth (kṣitau).
 </details>
 </details>
 
@@ -1072,6 +1198,14 @@ the donkey; *avaakchiraaH* = with head down.
 "Undertaking southern direction, Ravana went quickly by a donkey.Again it was seen by me that the
 king of ogres Ravana stupefied with fear, fell down from the donkey with head down."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** Dragged by a woman (kṛṣyamāṇaḥ striyā), shaved bald, he was seen again clad in black garments (kṛṣṇāmbaraḥ), [borne] in a chariot yoked with donkeys (rathena kharayuktena), smeared with red unguents and red garlands (raktamālyānulepanaḥ).
+
+**25:** Drinking oil (pibaṃs tailam), laughing and dancing (hasan nṛtyan), with bewildered mind and disordered senses (bhrāntacittākulendriyaḥ), he sped swiftly upon a donkey (gardabhena), heading toward the southern quarter (dakṣiṇāṃ diśam āsthitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1096,6 +1230,12 @@ king of ogres Ravana stupefied with fear, fell down from the donkey with head do
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुनः नानु स्वप्नदल्लि राक्षसेश्वरनाद रावणनु भयविह्वलनागि कत्तॆय मेलिनिन्द तलॆकॆळगागि नॆलक्कॆ बिद्दिरुवुदन्नु नोडिदॆ.॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And once again Rāvaṇa, lord of the rākṣasas, was seen by me fallen headlong (patito 'vākśirāḥ) upon the ground from the donkey, stupefied with terror (bhayamohitaḥ).
 </details>
 </details>
 
@@ -1170,6 +1310,14 @@ in southern direction.
 "A woman with red clothes, who was black, with body smeared with dirt, tying Ravana by the throat,
 was pulling hiim in southern direction."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** Springing up suddenly (sahasotthāya) in panic (sambhrāntaḥ), afflicted with fear and reeling with intoxication (madavihvalaḥ), appearing like a madman (unmattarūpaḥ) and stark naked (digvāsāḥ), babbling much foul speech (durvākyaṃ pralapan bahu),
+
+**28:** entering swiftly into a foul-smelling (durgandham), unbearable, dreadful, dark mire of filth (malapaṅkam) resembling hell (narakopamam), that Rāvaṇa sank down (magnaḥ) therein.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1242,6 +1390,14 @@ camel; *prayaataaH* = set out; *dakshiNaam disham* = in southern direction.
 
 "Ravana by a pig, Indrajit by a porpoise, Kumbhakarna by a camel set out in southern direction."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** Having set out toward the southern direction (dakṣiṇām āśām), he entered a waterless, mudless pit (akardamaṃ hradam); and binding Daśagrīva by the neck (kaṇṭhe baddhvā), a woman clad in red (pramadā raktavāsinī),
+
+**30:** black-complexioned (kālī) and smeared with mud over her limbs (kardamaliptāṅgī), dragged him (prakarṣati) toward Yama’s quarter (diśaṃ yāmyām). Thus too was mighty Kumbhakarṇa (kumbhakarṇo mahābalaḥ) seen by me there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1273,6 +1429,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘रावणके सभी पुत्र भी मूड़ मुड़ाये और तेलमें नहाये दिखायी दिये हैं । यह भी देखनेमें आया कि रावण सूअरपर, इन्द्रजित् सूँसपर और कुम्भकर्ण ऊँटपर सवार हो दक्षिण-दिशाको गये हैं ॥ ३१ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All the sons of Rāvaṇa had their heads shaved bald (muṇḍāḥ) and were drenched with oil (tailasamukṣitāḥ); Daśagrīva [rode] upon a boar (varāheṇa), Indrajit upon a porpoise (śiśumāreṇa),
 </details>
 </details>
 
@@ -1313,6 +1475,12 @@ be having a white umbrella; *shuklamaalyaambaradharaH* = wearing white garlands 
 
 "Among those Vibhishana is the only one who has been seen by me to be having a white umbrella,
 wearing white garlands and clothes and anointing body with white unguents."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and Kumbhakarṇa upon a camel (uṣṭreṇa), journeying toward the southern quarter (dakṣiṇāṃ diśam). Vibhīṣaṇa alone (ekaḥ) was seen by me there beneath a white parasol (śvetacchatraḥ),
 </details>
 </details>
 
@@ -1390,6 +1558,16 @@ elephants; *bhagnagopuratoraNaa* = with broken gates and arches; *patitaa* = fal
 "This beautiful city of Lanka has also been seen together with horses and elephants with broken
 gates and arches fallen down in the ocean."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**33:** wearing white garlands and white raiments (śuklamālyāmbaradharaḥ), anointed with white fragrant unguents (śuklagandhānulepanaḥ), and graced with dances and songs (nṛttagītaiḥ) amidst the blasts of conchs and kettle-drums (śaṅkhadundubhinirghoṣaiḥ).
+
+**34:** Having ascended a celestial four-tusked elephant (caturdantaṃ gajaṃ divyam) resembling a mountain and roaring like thundering clouds (meghastanitaniḥsvanam), Vibhīṣaṇa remained there, stationed in the sky (vaihāyasam upasthitaḥ) together with his four counselors (caturbhiḥ sacivaiḥ sārdham).
+
+**35:** And a great assembly (samājaś ca mahān) took place, resounding with songs and musical instruments (gītavāditraniḥsvanaḥ), of rākṣasas wearing red garlands (raktamālyānām) and red garments (raktavāsasām) as they drank [oil and liquor];
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1431,6 +1609,12 @@ Ravana; *dR%iShTaa* = has been seen; *mayaa* = by me; *svapne* = in the dream; *
 
 "Lanka protected by Ravana has been seen by me in the dream to be burnt by a quick Vanara who is
 a messenger of Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and this lovely city of Laṅkā (laṅkā ceyaṃ purī ramyā), with its horses, chariots, and elephants (savājirathakuñjarā), was seen fallen into the ocean (sāgare patitā), its gate-towers and arches shattered (bhagnagopuratoraṇā).
 </details>
 </details>
 
@@ -1479,6 +1663,12 @@ cha* = and also dancing a lot.
 "In Lanka horrible with ash, all ogresses were drinking oil, laughing heartily with a great noise
 and also dancing a lot."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Laṅkā, guarded by Rāvaṇa, was seen by me in my dream burned down (dagdhā) by an impetuous monkey (vānareṇa tarasvinā), the envoy of Rāma (rāmasya dūtena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1526,6 +1716,12 @@ _________________
 
 "All these best among ogres such as Kumbhakarna and others taking a red cloth entered a hole filled
 with cow dung."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having drunk oil (pītvā tailam), intoxicated (pramattāḥ) and laughing aloud with mighty cries (prahasantyo mahāsvanāḥ), [were seen] all the rākṣasa women in Laṅkā, which had been made rough with ashes (bhasmarūkṣāyām).
 </details>
 </details>
 
@@ -1576,6 +1772,12 @@ _________________
 "Go away! Be destroyed! Rama will get Seetha. With a great anger He will get you killed together
 with other ogres."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And all these bulls among rākṣasas (rākṣasapuṃgavāḥ), headed by Kumbhakarṇa (kumbhakarṇādayaḥ), taking red garments (raktaṃ nivasanaṃ gṛhya), entered into a pool of cow-dung (gomayahradam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1616,6 +1818,12 @@ _________________
 
 "Rama will not approve frightening ot threatening His dear wife who is highly valued by Him, who
 followed Him to live in the forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Depart (apagacchata)! Behold (paśyadhvam), Rāghava shall regain Sītā! Filled with supreme wrath (paramāmarṣī), he would surely have you slain (ghātayet) together with the rākṣasas.
 </details>
 </details>
 
@@ -1659,6 +1867,12 @@ me* = to me.
 
 "For that reason, enough of cruel words. Gentle words indeed be said. Let us request Seetha. This
 is agreeable to me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His beloved, highly esteemed wife (priyāṃ bahumatāṃ bhāryām), who faithfully followed him into forest exile (vanavāsam anuvratām)—Rāghava will never brook (nānumaṃsyati) her being reviled (bhartsitām) or menaced (tarjitāṃ vāpi).
 </details>
 </details>
 
@@ -1706,6 +1920,12 @@ is agreeable to me."
 
 "Which woman while being sorrowful, such type of dream has been seen, that woman being released
 from various sorrows, will get unsurpassed pleasure."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, enough of cruel words (alaṃ krūravākyaiḥ); let gentle comfort alone be spoken (sāntvam evābhidhīyatām)! Let us entreat (abhiyācāma) Vaidehī, for this alone pleases me (etad dhi mama rocate).
 </details>
 </details>
 
@@ -1756,6 +1976,12 @@ raaghavaat* = from Rama; *ghoram bhayam* = a horrible fear; *upasthitam* = has c
 "O ogresses! Entreat Seetha who has been frightened. What is the use with a desire to speak. From
 Rama a horrible fear has come to ogres."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For she concerning whom, while afflicted with sorrow (duḥkhitāyāḥ), such a dream is beheld is freed from manifold sorrows (duḥkhair bahubhir muktā) and attains supreme happiness (priyaṃ prāpnoty anuttamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1785,6 +2011,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवळु इन्तह दुःखदल्लिरुवाग इवळ कुरितु ई विधवाद स्वप्नगळु ननगॆ बिद्दवु. अदरिन्दागि सीतॆयु दुःखगळिन्द विमुक्तळागि सर्वोत्कृष्टनाद तन्न पतियन्नु हॊन्दुवळु.॥44॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though she has been reviled (bhartsitām api), entreat her (yācadhvam), O demonesses—what use is there in further talk (kiṃ vivakṣayā)? For a dreadful terror (bhayaṃ ghoram) from Rāghava now hangs over the rākṣasas (rākṣasānām upasthitam).
 </details>
 </details>
 
@@ -1830,6 +2062,12 @@ who is wide eyed; *a~NgeShu* = in Her limbs; *susuuskhmamapi* = even a minute; *
 "O ogresses! This Seetha daughter of Janaka, pleased with prostration is competent to protect us
 from great danger. And also I do not see in Her who is wide eyed, in Her limbs even a minute misshapen characteristic,
 even insignificant one."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For Maithilī, the daughter of Janaka, is won over by a mere bow of supplication (praṇipātaprasannā hi); she is fully able (alam eṣā) to rescue (paritrātum) you, O demonesses, from great peril (mahato bhayāt).
 </details>
 </details>
 
@@ -1880,6 +2118,12 @@ even insignificant one."
 "I see an imperfection in complexion alone. I doubt that this princess who came near an aeroplane
 in my dream, who is not suited to sorrows received sorrow."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moreover, in the limbs (aṅgeṣu) of this wide-eyed lady (asya viśālākṣyāḥ) I do not perceive (na kiṃcid upalakṣaye) even the slightest (susūkṣmam api) deformed or inauspicious bodily mark (virūpam api lakṣaṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1921,6 +2165,12 @@ motive; *vaidehyaaH* = of Seetha; *upasthitaam* = coming near; *raakshasendra vi
 "I am seeing Seetha coming near accomplishment of motive. I also see the destruction of Ravana
 also and victory of Rama coming near."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Only a mere dimming of her complexion (chāyāvaiguṇyamātraṃ tu) makes me suspect that sorrow has befallen (śaṅke duḥkham upasthitam) this goddess who does not deserve sorrow (aduḥkhārhām imāṃ devīm) and who [in my dream] stood in the sky (vaihāyasam upasthitām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1960,6 +2210,12 @@ dR^ishyate* = is being seen ( by me).
 
 "Being a cause to listen to a great pleasure of Her, this throbbing eye long like a lotus petal
 is being seen my me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rather, I behold the fulfillment of Vaidehī’s purpose (arthasiddhiṃ tu vaidehyāḥ) close at hand (upasthitām), the destruction of the lord of rākṣasas (rākṣasendravināśaṃ ca), and the victory of Rāghava (vijayaṃ rāghavasya ca).
 </details>
 </details>
 
@@ -2006,6 +2262,12 @@ is being seen my me."
 
 "One left arm of this strightforward Seetha suddenly has become erect and is slightly trembling."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And acting as an auspicious omen (nimittabhūtam etat tu) for her to hear great and welcome tidings (śrotum asyā mahat priyam), her [left] eye, long as a lotus petal (padmapatram ivāyatam), is seen throbbing (dṛśyate ca sphurac cakṣuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2044,6 +2306,12 @@ is being seen my me."
 
 "Seetha's best left thigh equal to an elephant's trunk is trembling indicating Rama's standing
 in front of Her."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And slightly bristling with joy (īṣad dhi hṛṣito vā), the left (adakṣiṇaḥ) arm alone (bāhur ekaḥ) of this gracious and upright lady (asyā dakṣiṇāyāḥ), Vaidehī, trembles spontaneously (akasmād eva prakampate).
 </details>
 </details>
 
@@ -2099,6 +2367,12 @@ impelling (Seetha).
 "A bird also entering its dwelling place on a branch again and again speaking best consolating
 words, is telling heartily welcoming words being delighted again and again, as though impelling Seetha."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And her peerless left thigh (savyaś corur anuttamaḥ), resembling the trunk of a young she-elephant (kareṇuhastapratimaḥ), trembling (vepan), seems to declare (kathayatīva) that Rāghava stands right before her (purataḥ sthitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2128,6 +2402,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदो ऒन्दु पक्षियु रॆम्बॆयल्लिरुव तन्न गूडन्नु प्रवेशिसुत्तिदॆ. आगाग मधुरवागि कूगुत्तिदॆ. आ पक्षिय कूजनवु ‘‘सीतॆ! नीनु भयपडबेड’’ ऎन्दु सन्तैसुवन्तॆ अनिसुत्तदॆ. अदु श्रीरामनिगॆ स्वागतवन्नु हाडुत्तिदॆयो ऎम्बन्तिदॆ. मत्तु सन्तोषदिन्द सीतादेविगॆ उत्साहवन्नु तुम्बुत्तिदॆयो ऎन्दु कूगुत्तिदॆ.॥52॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And a bird (pakṣī ca) that has entered its dwelling on the branch (śākhānilayaṃ praviṣṭaḥ), uttering supreme comfort again and again (punaḥ punaś cottamasāntvavādī), pouring forth a voice of auspicious welcome (susvāgatāṃ vācam udīrayāṇaḥ), seems again and again to urge [her to rejoice] in delight (codayatīva hṛṣṭaḥ)!”
 </details>
 </details>
 
@@ -2160,6 +2440,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक सीतादेवियु तन्न पतिगॆ विजयवु सिद्धिसुवुदु ऎन्दरितु, सन्तसपट्टु, हर्षदिन्द हीगॆन्दळु ‘‘त्रिजटॆयु हेळिद स्वप्न विशेषगळु निजवादरॆ निमगॆल्लरिगू अभयवन्नु कॊडुत्तेनॆ.’’॥53॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that modest young lady (hrīmatī bālā), gladdened by the prospect of her husband’s victory (bhartur vijayaharṣitā), spoke: “If that be true (yadi tat tathyam), I shall indeed become your refuge (bhaveyaṃ śaraṇaṃ hi vaḥ)!”
 </details>
 </details>
 

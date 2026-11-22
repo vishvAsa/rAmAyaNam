@@ -39,6 +39,12 @@ _________________
 
 श्रीरामचन्द्रनु हीगॆ हेळिदाग बल-विक्रमदिन्द सम्पन्न शत्रुघ्ननु लज्जितनागि निधानवागि हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dispatched the entire host (prasthāpya ca balaṃ sarvam) and tarried a single month (māsa-mātroṣitaḥ), Śatrughna then set out alone and swiftly upon the road (eka evāśu ... pathi ... jagāma tvaritaṃ tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरेश्वरने! ई अभिषेकवन्नु स्वीकरिसुवुदरल्लि ननगॆ अधर्म तोरुत्तदॆ. हिरिय अण्णन्दिरु इरुवाग तम्मन अभिषेक हेगॆ माडलागुवुदु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed two nights along the way (dvirātram antare ... uṣya), the heroic delight of the Raghus (śūraḥ ... rāghava-nandanaḥ) arrived at the sacred hermitage of Vālmīki (vālmīker āśramaṃ puṇyam), an excellent resting place (vāsam uttamam).
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 हागिद्दरू पुरुषप्रवर! महाभाग! निन्न आज्ञॆयन्नु नानु अवश्य पालिसबेकु. निन्न शासनवन्नु यारू उल्लङ्घिसलाररु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed in salutation to the great-souled Vālmīki (abhivādya mahātmānaṃ vālmīkim), foremost of sages (muni-sattamam), and joining his palms in reverence (kṛtāñjalir atho bhūtvā), he spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +140,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वीरने! वास्तववागि नडुवण अण्णनु प्रतिज्ञॆ माडिदाग नानु एनन्नु मातनाडबारदॆन्दु निन्निन्द हागू वेदवाक्यगळिन्द केळिरुवॆ.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Blessed One, I desire to stay the night (bhagavan vastum icchāmi), having come hither on an errand of my elder brother (guroḥ kṛtyād ihāgataḥ); tomorrow at dawn I shall journey toward the western quarter, the realm of Varuṇa (pratīcīṃ vāruṇīṃ diśam).”
 </details>
 </details>
 
@@ -151,6 +175,12 @@ _________________
 
 नानु लवणासुरनन्नु कॊल्लुवॆनु ऎम्ब अनुचित शब्द नन्न बायिन्द हॊरटितु. पुरुषोत्तम! आ अनुचित मातिन परिणामवे नन्न हीगॆ दुर्गति आगुत्तिदॆ. (हिरियरु इरुवाग अभिषिक्तवाग बेकायितु..॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Śatrughna (śatrughnasya vacaḥ śrutvā), that bull among sages smiled (prahasya muni-puṅgavaḥ) and replied to the great-souled prince: “Welcome to you, O greatly famed one (svāgataṃ te mahāyaśaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +208,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 जेष्ठनाद भरतनु लवणासुरनन्नु संहरिसुवॆनॆन्दु हेळिदाग नानु याव मातन्नु आडबारदागित्तु. अदर परिणामवागिये नानीग अधर्मयुक्तवाद मत्तु परलोकदिन्द वञ्चितवाद हीनकार्य माडबेकायितु. हिरियरन्नु अतिक्रमिसि पट्टाभिषेक माडिकॊळ्ळबेकागिदॆ. एकॆन्दरॆ निन्न आज्ञॆयन्नु नानु उल्लङ्घिसलु साध्यवे इल्ल.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This hermitage belongs to the lineage of the Raghus themselves (svam āśramam idaṃ saumya rāghavāṇāṃ kulasya hi), O gentle one; accept from me without hesitation (nirviśaṅkaḥ pratīccha me) a seat, water for the feet, and guest-offering (āsanaṃ pādyam arghyaṃ ca).”
 </details>
 </details>
 
@@ -207,6 +243,12 @@ _________________
 
 काकुत्स्थने! ईग निम्म आज्ञॆगॆ विरुद्धवागि नानु एनन्नु हेळलारॆ. मानद! बेरॆ एनादरू मातनाडि इदरिन्दलू कठोरवाद शिक्षॆ अनुभविसुवन्तॆ आगदिरलि.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting that hospitable worship (pratigṛhya tadā pūjām) and the meal of fruits and roots (phala-mūlaṃ ca bhojanam), Kākutstha partook of it (bhakṣayāmāsa) and attained supreme contentment (tṛptiṃ ca paramāṃ gataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,6 +276,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषप्रवर रघुनन्दन! नानु निन्न इच्छॆयन्तॆये कार्य माडुवॆनु. आदरॆ इदरिन्द ननगागि प्राप्तवागुव अधर्म वन्नु नीने नाशमाडु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having eaten the fruits and roots (sa bhuktvā phala-mūlaṃ ca), he spoke to that great sage: “Whose is this sacrificial grandeur (iyaṃ yajña-vibhūtis te kasya) here close by your hermitage (āśrama-samīpataḥ)?”
 </details>
 </details>
 
@@ -263,6 +311,12 @@ _________________
 
 शूरनाद महात्मा शत्रुघ्ननु हीगॆ हेळिदाग श्रीरामचन्द्रनिगॆ बहळ सन्तोषवायितु मत्तु भरत-लक्ष्मणरल्लि हेळिदनु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his (tat tasya bhāṣitaṃ śrutvā), Vālmīki spoke in reply: “Listen, O Śatrughna, to whom this sacred precinct belonged of old (yasyedaṃ babhūvāyatanaṃ purā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -291,6 +345,12 @@ _________________
 
 नीवॆल्लरू एकाग्रचित्तरागि पट्टाभिषेकद ऎल्ल सामग्रिगळन्नु सिद्धपडिसिरि. नानु ईगले रघुकुलनन्दन पुरुषसिंह शत्रुघ्नन पट्टाभिषेक माडुवॆनु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your forefather was King Saudāsa (yuṣmākaṃ pūrvako rājā saudāsaḥ); of that monarch there was a son named Vīrasaha (putro vīrasaho nāma), mighty and exceedingly righteous (vīryavān atidhārmikaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,6 +378,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 काकुत्स्थ! नन्न अप्पणॆयन्तॆ पुरोहितरन्नु, वैदिक विद्वांसरन्नु, ऋत्विजरन्नु, समस्त मन्त्रिगळन्नु करॆदुकॊण्डु बन्नि.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While yet a youth (sa bāla eva), that Saudāsa set out upon a hunt (mṛgayām upacakrame); and the hero beheld a pair of rākṣasas roaming relentlessly (cañcūryamāṇaṃ dadṛśe ... rākṣasa-dvayam).
 </details>
 </details>
 
@@ -348,6 +414,12 @@ _________________
 
 महाराजर आज्ञॆ पडॆदु महारथि भरत मत्तु लक्ष्मणरु हागॆये माडिदरु. अवरु पुरोहितरन्नु मुन्दिट्टुकॊण्डु अभिषेकद सामग्रियॊन्दिगॆ राजभवनक्कॆ बन्दरु. अवरॊन्दिगॆ अनेक राजरू, ब्राह्मणरू अल्लिगॆ बन्दरु.॥12½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In the dreadful guise of tigers (śārdūla-rūpiṇau ghorau), devouring deer by the many thousands (mṛgān bahu-sahasraśaḥ bhakṣamāṇau), insatiable (asantuṣṭau), they never reached repletion (paryāptiṃ naiva jagmatuḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,6 +447,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर श्रीरघुनाथनिगॆ हागू प्रजॆगळ हर्षवन्नु हॆच्चिसु महात्मा शत्रुघ्नन वैभवशाली पट्टाभिषेक प्रारम्भवायितु.॥13½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing those two rākṣasas (sa tu tau rākṣasau dṛṣṭvā) and the forest emptied of deer (nirmṛgaṃ ca vanaṃ kṛtam), seized with great wrath (krodhena mahatāviṣṭaḥ), he slew one with a mighty arrow (jaghānaikaṃ maheṣuṇā).
 </details>
 </details>
 
@@ -404,6 +482,12 @@ _________________
 
 हिन्दॆ इन्द्रादि देवतॆगळु देवसेनापतियागि स्कन्दनिगॆ अभिषेक माडिदन्तॆ श्रीरामादिगळु शत्रुघ्नन पट्टाभिषेक माडिदरु. हीगॆ अभिषिक्तनागि शत्रुघ्ननु सूर्यनन्तॆ शोभिसिदनु.॥14½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having struck down that one (vinipātya tam ekam tu), Saudāsa, bull among men, freed from feverish distress and anger (vijvaro vigatāmarṣaḥ), gazed upon the slain rākṣasa (hataṃ rakṣo hy udaikṣata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -431,6 +515,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आयासविल्लदॆ ऎल्ल कर्ममाडुव श्रीरामनु शत्रुघ्ननिगॆ पट्टकट्टिदाग नगरवासिगळु, विद्वांसराद ब्राह्मणरु बहळ सन्तसपट्टरु.॥15½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him gazing upon the companion of that [slain] rākṣasa (nirīkṣamāṇaṃ taṃ dṛṣṭvā sahāyaṃ tasya rakṣasaḥ), [the surviving demon] fell into terrible anguish (santāpam akarot ghoram) and spoke thus to Saudāsa:
 </details>
 </details>
 
@@ -460,6 +550,12 @@ _________________
 
 आग कौसल्या, सुमित्रा, कैकेयि हागू अरमनॆय इतर राज महिळॆयरु सेरि मङ्गळकार्यवन्नु निर्वहिसिदरु.॥16½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since you have slain my guiltless companion (yasmād anaparādhaṃ tvaṃ sahāyaṃ mama jaghnivān), therefore, O vilest of men (tasmāt tavāpi pāpiṣṭha), I shall surely render you requital (pradāsyāmi pratikriyām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -487,6 +583,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शत्रुघ्नन पट्टाभिषेकवादाग यमुनातीर निवासि महात्मा ऋषिगळु - ईग लवणासुरनु हतनादन्तॆ निश्चयिसिदरु.॥17½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, that rākṣasa vanished on the very spot (evam uktvā tu tad rakṣas tatraivāntaradhīyata); and in the turn of time (kāla-paryāya-yogena), Mitrasaha became king (rājā mitrasaho ’bhavat).
 </details>
 </details>
 
@@ -516,6 +618,12 @@ _________________
 
 अभिषेकद बळिक शत्रुघ्ननन्नु तॊडॆयल्लि कुळ्ळिरिसिकॊण्डु श्रीरघुनाथनु अवन तेजवन्नु हॆच्चिसुत्ता मधुरवागि हेळिदनु .॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The king too celebrated a sacrifice (rājāpi yajate yajñam) close by this hermitage (asyāśrama-samīpataḥ)—a great Aśvamedha sacrifice (aśvamedhaṃ mahāyajñam), over which Vasiṣṭha presided (taṃ vasiṣṭho ’bhyapālayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -544,6 +652,12 @@ _________________
 
 रघुनन्दन! सौम्य शत्रुघ्न! नानु निनगॆ ई दिव्य अमोघ बाणगळन्नु कॊडुत्तेनॆ. नीनु अवुगळिन्द लवणासुरनन्नु अवश्यवागि वधिसुवॆ.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There a mighty sacrifice took place, spanning a myriad of many years (tatra yajño mahān āsīd bahu-varṣa-gaṇāyutaḥ); flourishing with supreme splendor (samṛddhaḥ parayā lakṣmyā), it became like a sacrifice of the gods (deva-yajña-samo ’bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -566,6 +680,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उस यज्ञकी समाप्ति होनेपर पहलेके वैरका स्मरण करनेवाला वह राक्षस वसिष्ठजीका रूप धारण करके राजाके पास आया और इस प्रकार बोला— ॥ २० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then at the close of the sacrifice (athāvasāne yajñasya), recalling his ancient enmity (pūrva-vairam anusmaran), the rākṣasa, assuming the form of Vasiṣṭha (vasiṣṭha-rūpī), spoke thus to the king:
 </details>
 </details>
 
@@ -590,6 +710,12 @@ _________________
 
 ‘‘राजन्! आज यज्ञकी समाप्तिका दिन है, अतः आज मुझे तुम शीघ्र ही मांसयुक्त भोजन दो । इस विषयमें कोई अन्यथा विचार नहीं करना चाहिये’ ॥ २१ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The end of this sacrifice has arrived (asya yajñasya jāto ’ntaḥ); let meat-laden food (sāmiṣaṃ bhojanaṃ mama) be served to me here swiftly (dīyatām iha śīghraṃ vai)—no hesitation should be made in this matter (nātra kāryā vicāraṇā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,6 +738,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ब्राह्मणरूपधारी राक्षसकी कही हुई बात सुनकर राजाने रसोई बनानेमें कुशल रसोइयोंसे कहा— ॥ २२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words uttered by the rākṣasa in brahmin guise (rakṣasā brahma-rūpiṇā), the lord of the earth addressed one skilled in preparing dishes (bhakṣya-saṃskāra-kuśalam uvāca pṛthivīpatiḥ):
 </details>
 </details>
 
@@ -641,6 +773,12 @@ _________________
 
 काकुत्स्थने! हिन्दिन प्रळय कालदल्लि जगत्तॆल्लवू जलमयवागित्तु. अपराजितनाद, स्वयम्भू, दिव्यरूपनाद महाविष्णुवु एकार्णव महासमुद्रदल्लि पवडिसिद्दनु. आग देवतॆगळागली, दानवरागली अवनन्नु नोडलागलिल्ल. सर्व प्राणिगळिगॆ नारायणनु अदृश्यनागिद्दनु. आग मधु-कैटभरॆम्ब राक्षसरु लोकसृष्टिगॆ तडॆयन्नुण्टु माडुत्तिद्दरु. क्रोधाभिभूतनाद नारायणनु आ दुरात्मरन्नु संहरिसलु ई बाणगळन्नु सृष्टिसिद्दनु. ई बाणगळिन्दले लोककण्टकराद मधु-कैटभरन्नु संहरिसि प्राणिगळ कर्मफल भोगक्कागि मूरु लोकगळन्नु सृष्टिसिदनु.॥20-23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Prepare quickly a savory, consecrated meal with meat (haviṣyaṃ sāmiṣaṃ svādu yathā bhavati bhojanam), in such a way that our preceptor may be thoroughly pleased (parituṣyed yathā guruḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -669,6 +807,12 @@ _________________
 
 शत्रुघ्नने! मॊदलु नानु रावणनन्नु वधिसुवागलू ई बाणगळन्नु प्रयोगिसलिल्ल; एकॆन्दरॆ इवुगळिन्दागि अनेक प्राणिगळु नाशवागुव आशङ्कॆ इत्तु.॥24॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the command of the lord of kings (śāsanāt pārthivendrasya), the cook became bewildered in mind (sūdaḥ sambhrānta-mānasaḥ); and that rākṣasa then again assumed the guise of a cook there (sūda-veṣam athākarot).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -691,6 +835,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उसने मनुष्यका मांस लाकर राजाको दे दिया और कहा—‘यह मांसयुक्त अन्न एवं हविष्य लाया हूँ । यह बड़ा ही स्वादिष्ट है’ ॥ २५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then he presented human flesh to the king (sa mānuṣam atho māṃsaṃ pārthivāya nyavedayat), saying: “Here has been brought this savory, consecrated food with meat (idaṃ svādu haviṣyaṃ ca sāmiṣaṃ cānnam āhṛtam).”
 </details>
 </details>
 
@@ -720,6 +870,12 @@ _________________
 
 महात्मा महादेवनु शत्रुविनाशक्कागि कॊट्टिरुव दिव्य, उत्तम, महाशूल मधुविन बळि इदॆ. अदन्नु अवनु प्रतिदिन पूजिसुत्ता, अदन्नु अरमनॆयल्लि गुप्तवागिट्टु, ऎल्ल दिक्कुगळिगॆ होगि तनगागि उत्तम आहार सङ्ग्रह माडुत्तिद्दनु.॥25-26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Together with his queen Madayantī (patnyā sārdham ... madayantyā), O tiger among men, the king offered to Vasiṣṭha that meat-bearing meal (sa bhojanaṃ vasiṣṭhāya ... upāharat) brought by the rākṣasa (sāmiṣaṃ rakṣasā hṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -747,6 +903,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यारादरू युद्धक्कागि अवनन्नु आह्वानिसिदाग आ राक्षसनु आ शूलवन्नॆत्तिकॊण्डु अदरिन्द शत्रुवन्नु भस्ममाडि बिडुत्तानॆ.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing that flesh placed in the dish to be human (jñātvā tad āmiṣaṃ vipro mānuṣaṃ bhājanaṃ gatam), the brahmin, seized with great wrath (krodhena mahatāviṣṭaḥ), began to utter a curse (vyāhartum upacakrame):
 </details>
 </details>
 
@@ -776,6 +938,12 @@ _________________
 
 पुरुषसिंहने! यावाग शूलवु अवन बळि इरुवुदिल्लवो, अवनु नगरक्कॆ हिन्दिरुगुव मॊदले नगरद्वारदल्लि अस्त्र-शस्त्र धरिसिकॊण्डु अवन निरीक्षॆयल्लि युद्धक्कॆ सिद्धनागि निन्तिरु.॥28॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since you desire to offer me this food, O king (yasmāt tvaṃ bhojanaṃ rājan mamaitad dātum icchasi), therefore this very food shall be your sustenance—there is no doubt (tasmād bhojanam etat te bhaviṣyati na saṃśayaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -803,6 +971,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबाहु पुरुषोत्तम! आ राक्षसनु अरमनॆ हॊक्कुव मॊदले नीनु युद्धक्कागि आह्वानिसु. आग अवश्यवागि अवनन्नु वधिसबल्लॆ.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, filled with wrath, Saudāsa took water in his palm (tataḥ kruddhas tu saudāsas toyaṃ jagrāha pāṇinā) and prepared to curse Vasiṣṭha (vasiṣṭhaṃ śaptum ārebhe), but his wife restrained him (bhāryā cainam avārayat).
 </details>
 </details>
 
@@ -832,6 +1006,12 @@ _________________
 
 हीगॆ माडदिद्दरॆ अवनु अवध्यनागुवनु. वीरने! नीनु हीगॆ माडिदरॆ आ राक्षसर विनाशवागुवुदु निश्चि.॥30॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O king, since the blessed sage Vasiṣṭha is our lord (rājan prabhur yato ’smākaṃ vasiṣṭho bhagavān ṛṣiḥ), you are not fit to utter a counter-curse against our godlike royal priest (pratiśaptuṃ na śaktas tvaṃ devatulyaṃ purodhasam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -860,6 +1040,12 @@ _________________
 
 हीगॆ नानु निनगॆ आ शूलदिन्द तप्पिसिकॊळ्ळुव उपाय हागू आवश्यक मातुगळन्नु तिळिसिद्देनॆ. एकॆन्दरॆ श्रीमान् भगवान् नीलकण्ठन विधानवन्नु मीरुवुदु बहळ कठिणवागिदॆ.॥31॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the righteous-souled king relinquished that wrath-charged water endowed with fiery power (krodhamayaṃ toyaṃ tejo-bala-samanvitam vyasarjayata dharmātmā), and sprinkled his own feet with it (tataḥ pādau siṣeca ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -882,6 +1068,12 @@ _________________
 
 ऐसा करनेसे राजाके दोनों पैर तत्काल चितकबरे हो गये । तभीसे महायशस्वी राजा सौदास कल्माषपाद (चितकबरे पैरवाले) हो गये और उसी नामसे उनकी ख्याति हुई ॥ ३२ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereby both feet of that king became mottled dark (tenāsya rājñas tau pādau tadā kalmāṣatāṃ gatau); from that time forth that greatly famed king Saudāsa (tadā-prabhṛti rājāsau saudāsaḥ sumahāyaśāḥ) became Kalmāṣapāda and was renowned by that very name (kalmāṣapādaḥ saṃvṛttaḥ khyātaś caiva tathā nṛpaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -901,6 +1093,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तदनन्तर पत्नीसहित राजाने बारंबार प्रणाम करके फिर वसिष्ठसे कहा—‘ब्रह्मर्षे! आपहीका रूप धारण करके किसीने मुझे ऐसा भोजन देनेके लिये प्रेरित किया था’ ॥ ३३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That king, together with his queen, bowing down again and again (sa rājā saha patnyā vai praṇipatya muhur muhuḥ), reported once more to Vasiṣṭha what had been spoken by the one in brahmin guise (yad uktaṃ brahma-rūpiṇā).
 </details>
 </details>
 
@@ -922,6 +1120,12 @@ _________________
 
 ‘राजाधिराज मित्रसहकी वह बात सुनकर और उसे राक्षसकी करतूत जानकर वसिष्ठने पुनः उस नरश्रेष्ठ नरेशसे कहा— ॥ ३४ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that account of the lord of kings (tac chrutvā pārthivendrasya) and that foul contrivance wrought by the rākṣasa (rakṣasā vikṛtaṃ ca tat), Vasiṣṭha spoke once more to the king, bull among men:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -941,6 +1145,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘‘राजन्! मैंने रोषसे भरकर जो बात कह दी है, इसे व्यर्थ नहीं किया जा सकता; परंतु इससे छूटनेके लिये मैं तुम्हें एक वर दूँगा ॥ ३५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This word which I have uttered while overcome with anger (mayā roṣa-parītena yad idaṃ vyāhṛtaṃ vacaḥ) cannot be rendered void (naitac chakyaṃ vṛthā kartum); yet I shall bestow a boon upon you (pradāsyāmi ca te varam):
 </details>
 </details>
 
@@ -962,6 +1172,12 @@ _________________
 
 ‘‘राजेन्द्र! वह वर इस प्रकार है—यह शाप बारह वर्षोंतक रहेगा । उसके बाद इसका अन्त हो जायगा । मेरी कृपासे तुम्हें बीती हुई बातका स्मरण नहीं रहेगा’ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Twelve years shall be the allotted span (kālo dvādaśa varṣāṇi), and then shall come the end of the curse (śāpasyānto bhaviṣyati); and by my grace, O lord of kings (mat-prasādāc ca rājendra), you shall not remember what has passed (vyatītaṃ na smariṣyasi).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -982,6 +1198,12 @@ _________________
 
 ‘इस प्रकार उस शत्रुसूदन राजाने बारह वर्षोंतक उस शापको भोगकर पुनः अपना राज्य पाया और प्रजाजनोंका निरन्तर पालन किया ॥ ३७ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus that king, slayer of foes (evaṃ sa rājā ... arisūdanaḥ), having endured that curse (taṃ śāpam upabhujya), regained his kingdom once more (pratilebhe punā rājyam) and protected his subjects (prajāś caivānvapālayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1001,6 +1223,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘रघुनन्दन! उन्हीं राजा कल्माषपादके यज्ञका यह सुन्दर स्थान मेरे इस आश्रमके समीप दिखायी देता है, जिसके विषयमें तुम पूछ रहे थे’ ॥ ३८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That auspicious sacrificial precinct of Kalmāṣapāda (tasya kalmāṣapādasya yajñasyāyatanaṃ śubham) near this hermitage (āśramasya samīpe ’sya) is what you ask me about, O Rāghava (yan māṃ pṛcchasi rāghava).”
 </details>
 </details>
 
@@ -1032,6 +1260,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि अरवत्तमूरनॆय सर्ग पूर्णवायितु.॥63॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard that exceedingly dreadful tale of that lord of kings (tasya tāṃ pārthivendrasya kathāṃ śrutvā sudāruṇām), and having bowed to the great sage (maharṣim abhivādya ca), he entered the leaf-hut (viveśa parṇaśālāyām).
 </details>
 </details>
 

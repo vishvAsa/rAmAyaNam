@@ -60,6 +60,12 @@ by her husband; *vasaanaayaam* = is wearing; *chiiram* = bark of trees;
 On seeing Seetha wearing bark of trees like a helpless woman, eventhough protected
 by her husband all the people there loudly cried out: "Fie upon you, Dasaratha!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While she, though possessing a lord and protector (nāthavatyām), was putting on the bark garment like one protectorless (anāthavat), all the people cried out aloud (pracukrośa): “Fie upon you, O Daśaratha (dhik tvāṃ daśaratham)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -128,6 +134,14 @@ made of Kusa grass"
 Dasaratha with a warm sigh, spoke to his wife these words. "Oh, Kaikeyi! Seetha does
 not deserve to go with a robe made of Kusa grass."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** Pierced with grief by that outcry there (tena tatra praṇādena), the lord of the earth severed all regard (ciccheda śraddhām) for his own life, dharma, and renown.
+
+**3:** Heaving a burning sigh (niḥśvasyoṣṇam), that scion of Ikṣvāku spoke these words unto that wife of his: “O Kaikeyī, Sītā ought not to go forth clad in a garment of kuśa-grass and bark (kuśa-cīreṇa)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +181,12 @@ says; *iti* = that; *iyam* = this Seetha; *sukumaariicha* = who is delicate;
 
 "My preceptro truly says that Seetha, who is delicate young and ever habituated to
 comforts, is not fit for forest-life"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tender of frame (sukumārī), young in years (bālā), and ever accustomed to happiness (sukhocitā), she is not fit for the forest—truly has my preceptor spoken!
 </details>
 </details>
 
@@ -222,6 +242,12 @@ harm; *kasya* = to any one?
 "has this pitiable daughter of Janaka, the jewel of kings, done any harm to any one
 that, having obtained a bark of tree she is standing like a hermitess dumbfounded in the midst of
 men?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Does this innocent princess (tapasvinī), the daughter of the foremost of kings (rāja-varasya putrī), ever do any wrong to anyone—she who, having come by a bark garment, stands stupefied (visaṃjñā) in the midst of the people like some female mendicant (śramaṇīva kācit)?
 </details>
 </details>
 
@@ -282,6 +308,12 @@ valuable possessions.
 "Seetha the daughter of Janaka need not wear these barks of trees. No such pledge
 was given be me earlier. hence, let this prinecess go to the forest happily fully provided ewith
 all valuable possesssions."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let the daughter of Janaka cast aside the bark garments (cīrāṇy apāsyāt); this was no pledge given by me before (neyam pratijñā mama datta-pūrvā)! Let the princess go to the forest at her ease (yathā-sukham), complete in every equipage together with all her jewels (samagrā saha sarva-ratnaiḥ)!
 </details>
 </details>
 
@@ -384,6 +416,12 @@ the bamboo dies after flowering. Like other grass, bamboo flowers are tiny and b
 ಬಿದಿರಿನ ಉನ್ನತಿ, ಋಜುತ್ವ, ಸಮೂಹಸಮೃದ್ಧಿಗಳೇ ಮುಂತಾದ ಗುಣಗಳನ್ನು ಪರಿಭಾವಿಸಿದಾಗ  
 ದಶರಥನ ವ್ಯಕ್ತಿತ್ವವೂ ಈ ಮೂಲಕ ಧ್ವನಿಸಿ ಹೋಲಿಕೆಯನ್ನು ಮತ್ತಷ್ಟು ರಸಮಯವಾಗಿಸದಿರದು.+++(5)+++
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By me, unfit to live any longer (ajīvanārheṇa), a cruel pledge (nṛśaṃsā pratijñā) was made under a binding oath (niyamena tāvat); yet this further cruelty undertaken by you out of folly (bālyāt pratipannam etat)—may it not consume you (tan mā dahet) even as its own flower destroys the bamboo reed (veṇum ivātma-puṣpam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -424,6 +462,12 @@ by Seetha?"
 
 "Oh evil woman! (Even) supposing a little offence is done by Rama to you, what harm
 was displayed to you here by Seetha? Oh, mean woman!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if some displeasure (kiṃcit kṛtam aśobhanam) was done to you by Rāma, O sinful woman (pāpe), what offense against you in this world has been shown by Vaidehī, O base wretch (adhame)?
 </details>
 </details>
 
@@ -470,6 +514,12 @@ utphullanayanaa = who has blooming eyes; *mR^igiiva* = like those of a female de
 
 "What harm on earth can be done to you by Seetha, who has blooming eyes like those
 of a female deer, soft in disposition a practiser of penance?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With eyes wide open like a doe’s (mṛgīvotphulla-nayanā), gentle in disposition (mṛdu-śīlā), and high-minded (manasvinī), what offense against you could the daughter of Janaka possibly commit?
 </details>
 </details>
 
@@ -521,6 +571,12 @@ enough; *kim* = what use; *te* = for you; *bhuuyaH* = further;
 "Oh, the evil woman! Sending Rama to exile thus indeed is enough for you. What use
 is there for you in further doing these wretched, sinful acts too.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely the banishment of Rāma (rāma-vivāsanam) is sufficient for you, O sinful woman (nanu paryāptam evaṃ te pāpe)! What need have you of these further wretched and heinous sins (kṛpaṇair bhūyaḥ pātakaiḥ) wrought by you?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -568,6 +624,12 @@ is there for you in further doing these wretched, sinful acts too.
 "Hearing the speech you gave to Rama who came here for coronation, only that much
 was acceded by me, Oh queen!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Listening to what was spoken by you, O Queen, when you addressed Rāma who had come here for his consecration (abhiṣekāya), I pledged only that much (pratijñātaṃ mayā tāvat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -607,6 +669,12 @@ Seetha also; *chiira vaasiniim* = clad in bark of trees.
 
 "Transgressing all that, you somehow or other wish to go to hell, by perceiving
 Seetha also clad in bark of trees.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Transgressing that bound (tat tv etat samatikramya), you desire to go to hell (nirayaṃ gantum icchasi), in that you look with longing (īkṣase) upon Maithilī too clad in bark garments (cīra-vāsinīm)!”
 </details>
 </details>
 
@@ -658,6 +726,12 @@ having been hurt very mcuh.
 That high-souled king thus lamenting, did not see any ending to that sorrow.
 Drenched as he was in excessive devotion to his son and having been hurt vey much, he fell down on
 the ground.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unto his father, who was speaking thus and sitting with his head bowed low (avāk-śirasam āsīnam), Rāma, now set to depart for the forest (samprasthito vanam), spoke these words:
 </details>
 </details>
 
@@ -726,6 +800,14 @@ the glorious woman; *vR^iddhaa* = is aged; *akshhudra shiilaacha* = not base nat
 "Oh, virtuous king! This glorious Kausalya, my mother is aged. She is not of base
 nature and will not accuse you.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “O righteous King (dhārmika), this illustrious mother of mine, Kausalyā, is aged (vṛddhā), free from all meanness of disposition (akṣudra-śīlā), and does not reproach you (na ca tvāṃ deva garhate), O lord!
+
+**15:** “O bestower of boons (varada), you ought to show even greater honour and regard (bhūyaḥ sammantuṃ arhasi) unto her who, bereft of me (mayā vihīnām) and having never before known calamity (adṛṣṭa-pūrva-vyasanām), has plunged into an ocean of grief (śoka-sāgaram)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -772,6 +854,12 @@ earlier.
 
 "Oh, the bestower of boons! You are worthy of amply respection her, who is deprived
 of me, who is immersed in an ocean of sorrow and who has not see such an affliction earlier."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Honoured by you who are worthy of all honour (tvayā pūjyena pūjitā), so that she may not succumb to grief for her son (putra-śokaṃ yathā narcchet), that sorrowing lady (tapasvinī), thinking intently of me, may yet remain alive through her devotion to you (tvayi jīvet).
 </details>
 </details>
 
@@ -834,6 +922,12 @@ such a grief for her son, thinking of me alone and she will draw breath in you."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूवत्तॆण्टनॆय सर्ग पूर्णवायितु.॥38॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O peer of Mahendra (mahendropama), you ought so to act toward this mother of mine—whose whole longing is fixed on her son (jāta-gardhinīm)—that while I dwell in the forest, wasted by grief (śoka-karśitā), she may not lay down her life and depart to the abode of Yama (yama-kṣayaṃ vrajet)!”
 </details>
 </details>
 

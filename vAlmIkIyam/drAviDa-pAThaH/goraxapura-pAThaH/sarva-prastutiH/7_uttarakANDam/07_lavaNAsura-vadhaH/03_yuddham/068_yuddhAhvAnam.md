@@ -34,6 +34,12 @@ _________________
 
 इस प्रकार कथा कहते और शुभ विजयकी आकांक्षा रखते हुए उन मुनियोंकी बातें सुनते-सुनते महात्मा शत्रुघ्नकी वह रात बात-की-बातमें बीत गयी ॥ १ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As they conversed together and wished for auspicious victory (kathāṃ kathayatāṃ teṣāṃ jayaṃ cākāṅkṣatāṃ śubham), the night passed swiftly away for the great-souled Śatrughna (vyatītā rajanī śīghraṃ śatrughnasya mahātmanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगिरलु ऒन्दु दिन रात्रॆ शत्रुघ्ननु भृगुनन्दन च्यवनरल्लि केळिदनु - ब्रह्मन्! लवणासुरनल्लि ऎष्टु बलविदॆ? अवन शूलद शक्ति ऎष्टु? आ उत्तम शूलदिन्द अवनु युद्धदल्लि यारु यारन्नु वधिसिरुवनु.॥1-2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, at stainless dawn (tataḥ prabhāte vimale), at that appointed hour, the bold rākṣasa went forth from the city (tasmin kāle sa rākṣasaḥ nirgatas tu purād dhīraḥ), impelled by the quest for edible prey (bhakṣyāhāra-pracoditaḥ).
 </details>
 </details>
 
@@ -90,6 +102,12 @@ _________________
 
 महात्मा शत्रुघ्नन मातन्नु केळि महातेजस्वी च्यवनरु आ रघुकुलनन्दन राजकुमारनल्लि हेळिदरु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In that very interval, the hero Śatrughna crossed the river Yamunā (etasminn antare vīraḥ śatrughno yamunāṃ nadīm tīrtvā) and took his stand at the gate of Madhupura with bow in hand (madhupura-dvāri dhanuṣpāṇir atiṣṭhata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +135,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! ई लवणासुरन कर्म असङ्ख्यवागिवॆ. अदल्लि ऒन्दु इक्ष्वाकुवंशी राजा मान्धातन मेलॆ घटिसिद कर्मवन्नु वर्णिसुवॆनु केळु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when midday arrived (tato ’rdha-divase prāpte), that rākṣasa of cruel deeds returned (krūra-karmā sa rākṣasaḥ āgacchat), bearing a load of many thousands of living creatures (bahu-sāhasraṃ prāṇināṃ bhāram udvahan).
 </details>
 </details>
 
@@ -157,6 +181,14 @@ _________________
 
 हिन्दॆ अयोध्यापुरियल्लि युवनाश्वन पुत्र राजा मान्धातनु राज्यवाळुत्तिद्दनु. अवनु भारी बलवन्तनू, पराक्रमियू आगिद्दु, मूरु लोकगळल्लि विख्यातनागिद्दनु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** There he beheld Śatrughna standing at the gate with weapons poised (dadarśa śatrughnaṃ sthitaṃ dvāri dhṛtāyudham); then the rākṣasa said to him (tam uvāca tato rakṣaḥ): “What will you accomplish with this (kim anena kariṣyasi)?
+
+**6:** “Thousands of armed men just like you, O vilest of mortals (īdṛśānāṃ sahasrāṇi sāyudhānāṃ narādhama), have been devoured by me in wrath (bhakṣitāni mayā roṣāt); why do you court your own doom (kālam ākāṅkṣase nu kim)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -184,6 +216,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजामाधान्तनु देवलोकद मेलॆ विजय पडॆयलु उद्योग प्रारम्भिसिदाग इन्द्र हागू महात्मा देवतॆगळिगॆ भारी भय उण्टायितु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And this meal of mine is now made complete by him, O vilest of men (āhāraś cāsya sampūrṇo mamāyaṃ puruṣādhama); why have you come of your own accord today and entered my very mouth, O wicked-minded one (svayaṃ praviṣṭo ’dya mukhaṃ katham āsādya durmate)?”
 </details>
 </details>
 
@@ -213,6 +251,12 @@ _________________
 
 नानु इन्द्रन अर्धासन मत्तु अवन अर्धराज्य पडॆदु भूमण्डलद राजनागि, देवतॆगळिन्द वन्दितनागि इरुवॆनु, ऎम्ब प्रतिज्ञॆ माडि अवनु स्वर्गक्कॆ दाळियिट्टनु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As that demon spoke thus and laughed again and again (tasyaivaṃ bhāṣamāṇasya hasataś ca muhur muhuḥ), the valorous Śatrughna shed tears out of blazing wrath (śatrughno vīrya-sampanno roṣād aśrūṇy avāsṛjat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,6 +284,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन ई दुरभिप्रायवन्नु तिळिदु पाकशासन इन्द्रनु आ युवनाश्व पुत्र मान्धातन बळिगॆ होगि, अवनन्नु शान्तवागि समजायिसुत्ता हेळिदनु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From all the limbs of that great-souled Śatrughna, overcome with fury (tasya roṣābhibhūtasya śatrughnasya mahātmanaḥ), rays composed of fiery brilliance burst forth (tejomayā marīcyas tu sarva-gātrair viniṣpatan).
 </details>
 </details>
 
@@ -269,6 +319,12 @@ _________________
 
 पुरुषप्रवर! ईग नीनु इडी मर्त्यलोकक्कॆ राजनागलिल्ल. समग्र पृथिवियन्नु वशपडिसदॆये देवतॆगळ राज्यवन्नु हेगॆ पडॆयलु बयसुवॆ.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And filled with intense wrath, Śatrughna spoke to that night-ranger (uvāca ca susaṅkruddhaḥ śatrughnas taṃ niśācaram): “I wish to fight a duel with you, O dull-witted one (yoddhum icchāmi durbuddhe dvandva-yuddhaṃ tvayā saha)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -296,6 +352,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वीरने! इडी पृथिवी निन्न वशवादरॆ नीनु सेवक, सैन्य, वाहनगळ सहित इल्ले देवलोकद राज्यवाळु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am the son of Daśaratha and brother of the wise Rāma (putro daśarathasyāhaṃ bhrātā rāmasya dhīmataḥ); named Śatrughna, ever the slayer of foes (śatrughno nitya-śatrughnaḥ), I have come desiring your death (vadhākāṅkṣī tavāgataḥ)!”
 </details>
 </details>
 
@@ -325,6 +387,12 @@ _________________
 
 हीगॆ हेळिदाग इन्द्रनल्लि मान्धातनु केळिदनु- देवराज! ई पृथिवियल्लि ऎल्लि नन्न आदेशद अवहेळनॆ नडॆयुत्तदॆ तिळिसु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Grant single combat, then, to me who am eager for battle (tasya me yuddha-kāmasya dvandva-yuddhaṃ pradīyatām); you are the foe of all living beings (śatrus tvaṃ sarva-bhūtānām)—you shall not depart alive from me (na me jīvan gamiṣyasi)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -352,6 +420,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग इन्द्रनु हेळिदनु - निष्पाप नरेशने! मधुवनदल्लि मधुविन पुत्र लवणासुर इरुत्तानॆ. अवनु निन्न आज्ञॆयन्नु मन्निसुवुदिल्ल.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While he spoke thus (tasmiṃs tathā bruvāṇe tu), the rākṣasa, laughing mockingly as it were (rākṣasaḥ prahasann iva), replied to that foremost of men (pratyuvāca nara-śreṣṭham): “By good fortune have you arrived, O wicked-minded one (diṣṭyā prāpto ’si durmate)!
 </details>
 </details>
 
@@ -381,6 +455,12 @@ _________________
 
 इन्द्रनु हेळिद ई घोर, अप्रिय मातन्नु केळि नाचिकॆयिन्द राजा मान्धातन मुख तग्गितु. अवनु एन्नु मातनाडदादनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My maternal aunt’s brother was Rāvaṇa, sovereign of the rākṣasas (mama mātṛ-ṣvasur bhrātā rāvaṇo rākṣasādhipaḥ); he was slain by Rāma for the sake of a woman, O dull-witted vilest of men (hato rāmeṇa durbuddhe strī-hetoḥ puruṣādhama)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -408,6 +488,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ नरेशनु इन्द्रनिन्द बीळ्कॊण्डु तलॆ तग्गिसि अल्लिन्द हॊरटु होदनु हागु पुनः ई मर्त्यलोकक्कॆ बन्दनु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All that destruction of Rāvaṇa’s lineage was endured by me (tac ca sarvaṃ mayā kṣāntaṃ rāvaṇasya kula-kṣayam), putting contempt foremost (avajñāṃ purataḥ kṛtvā)—and you all in particular were tolerated by me (mayā yūyaṃ viśeṣataḥ)!
 </details>
 </details>
 
@@ -437,6 +523,12 @@ _________________
 
 अवनु तन्न हृदयदल्लि क्रोध तुम्बिकॊण्डु, आ शत्रुदमन मान्धाता मधुपुत्रनन्नु वशपडिसिकॊळ्ळलु सेवक, सैन्य, वाहनगळॊन्दिगॆ अवन राजधानिय समीपक्कॆ बन्दनु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For all of them—those past, those yet to come, and you too, O vilest of men (bhūtāś caiva bhaviṣyāś ca yūyaṃ ca puruṣādhamāḥ)—have been slain by me or scorned like a blade of grass (nihatāś ca hi me sarve paribhūtās tṛṇaṃ yathā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -465,6 +557,12 @@ _________________
 
 पुरुषप्रवर शत्रुघ्ननु युद्धद इच्छॆयिन्द लवणासुरन बळिगॆ तन्न दूतनन्नु कळिसिदनु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To you who are so eager for combat I shall indeed grant battle, O wicked-minded one (tasya te yuddha-kāmasya yuddhaṃ dāsyāmi durmate); wait here just a moment while I fetch my weapon (tiṣṭha tvaṃ ca muhūrtaṃ tu yāvad āyudham ānaye), while I make ready whatever weapon is suited to your desire (īpsitaṃ yādṛśaṃ tubhyaṃ sajjaye yāvad āyudham)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -492,6 +590,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दूतनु अल्लिगॆ होगि मधुपुत्रनिगॆ अनेक कटुवचनगळन्नु हेळिदनु. हीगॆ कठोर मातुगळन्नाडुव आ दूतनन्नु राक्षसनु कूडले तिन्दुहाकिदनु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swiftly Śatrughna replied to him (tam uvācāśu śatrughnaḥ): “Where shall you go alive from me (kva me jīvan gamiṣyasi)? An enemy encountered by chance must never be let go by a man of resolute spirit (śatrur yadṛcchayā dṛṣṭo na moktavyaḥ kṛtātmanā)!
 </details>
 </details>
 
@@ -522,6 +626,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दूतनु मरळलु तडवादाग राजनु बहळ क्रुद्धनागि बाणगळ मळॆसुरिदु आ राक्षसनन्नु पीडिसतॊडगिदनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For whoever, through a faltering intellect, grants an opening to an enemy (yo hi viklavayā buddhyā prasaraṃ śatrave dadau) is slain through his own dull-mindedness, just like a wretched coward (sa hato manda-buddhitvād yathā kāpuruṣas tathā).
 </details>
 </details>
 
@@ -565,6 +675,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि अरवत्तेळनॆय सर्ग पूर्णवायितु. ॥67॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore take one last good look at the world of the living (tasmāt sudṛṣṭaṃ kuru jīva-lokam)! With sharp, varied arrows I am dispatching you (śaraiḥ śitais tvāṃ vividhair nayāmi) straight toward the abode of Yama—you wicked foe of the three worlds and of Rāghava (yamasya gehābhimukhaṃ hi pāpaṃ ripuṃ trilokasya ca rāghavasya)!”
 </details>
 </details>
 

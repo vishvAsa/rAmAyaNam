@@ -37,6 +37,12 @@ _________________
 
 पुरुषसिंह शत्रुघ्ननु मलगिद्दरू आ उत्तम श्रीरामचन्द्रन कुरितु अनेक रीतिय मातुगळन्नु योचिसुत्तिद्दनु. इदरिन्द अवनिगॆ बहळ हॊत्तु निद्दॆबन्दिल्ल.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having sent Śatrughna off (prasthāpya tu sa śatrughnam), Rāghava rejoiced happily (pramumoda sukhī) together with his two brothers (bhrātṛbhyāṃ saha), protecting the kingdom in accordance with dharma (rājyaṃ dharmeṇa paripālayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,6 +70,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वीणॆय लयदॊन्दिगॆ रामचरित गायनद सुमधुर शब्द केळि महात्मा शत्रुघ्नन उळिद रात्रियू बेगने कळॆदुहोयितु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, after a few days (tataḥ katipayāhaḥsu), an aged brahmin from the countryside (vṛddho jānapado dvijaḥ) arrived at the king’s gate (rājadvāram upāgamat), carrying his dead child (mṛtaṃ bālam upādāya).
 </details>
 </details>
 
@@ -93,6 +105,12 @@ _________________
 
 रात्रॆ कळॆदु प्रातःकाल पूर्वाह्णद नित्यकर्म मुगिसि शत्रुघ्ननु कैमुगिदु मुनिवर वाल्मीकिगळल्लि हेळिदनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping manifold words fraught with affection and anguish (rudan bahuvidhā vācaḥ sneha-duḥkha-samanvitāḥ), crying “O son! O son!” again and again (asakṛt putra putreti), he spoke these very words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +138,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूज्यरे! ईग नानु रघुकुलनन्द श्रीरामनन्नु दर्शिसलु बयसुत्तिद्देनॆ. आद्दरिन्द नीवु आज्ञॆ कॊट्टरॆ कठोर व्रतवन्नु पालिसुव ई सङ्गडिगरॊन्दिगॆ अयोध्यॆगॆ होगलु इच्छिसुत्तेनॆ.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What evil deed, indeed, was done by me of old in another body (kiṃ nu me duṣkṛtaṃ karma purā dehāntare kṛtam), that I must behold you, my only son (putram ekaṃ tvām), gone to destruction (nidhanaṃ gatam)?
 </details>
 </details>
 
@@ -152,6 +176,12 @@ _________________
 हीगॆ हेळुत्ता रघुकुलभूषण शत्रुसूदन शत्रुघ्ननन्नु वाल्मीकिगळु बिगिदप्पिकॊण्डु होगलु अप्पणॆ नीडिदरु.॥5॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You—a child who had not yet reached youth (aprāpta-yauvanaṃ bālam), counting five thousand ‘years’ [i.e., days] (pañca-varṣa-sahasrakam)—fallen prey to death out of season (akāle kālam āpannam), to my sorrow, O little son (mama duḥkhāya putraka)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -179,6 +209,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामन दर्शनक्कॆ उत्कण्ठितनाद शत्रुघ्ननु मुनिश्रेष्ठ वाल्मीकिगळिगॆ वन्दिसि, ऒन्दु सुन्दर दीप्तियुळ्ळ रथवन्नेरि कूडले अयोध्यॆय कडॆगॆ हॊरटनु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Within a few days (alpair ahobhiḥ) I shall surely go to my death (nidhanaṃ gamiṣyāmi na saṃśayaḥ)—both I and your mother as well (ahaṃ ca jananī caiva)—out of grief for you, O little son (tava śokena putraka)!”
 </details>
 </details>
 
@@ -208,6 +244,12 @@ _________________
 
 इक्ष्वाकुकुलनन्दन महाबाहु श्रीमान् शत्रुघ्ननु अयोध्यॆयन्नु प्रवेशिसि, नेरवागि महातेजस्वी श्रीरामनु विराजिसुत्तिद्द अरमनॆगॆ होदनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I do not recall ever having spoken an untruth (na smarāmy anṛtaṃ hy uktam), nor do I recall any act of violence (na ca hiṃsāṃ smarāmy aham); I do not recall ever having committed a wrong against any living creature (sarveṣāṃ prāṇināṃ pāpaṃ kṛtaṃ naiva smarāmy aham)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -230,6 +272,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘फिर आज किस पापसे मेरा यह बेटा पितृकर्म किये बिना इस बाल्यावस्थामें ही यमराजके घर चला गया ॥ ८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By what misdeed, then (kenādya duṣkṛtena), has this son of mine, still a mere boy (bāla eva mamātmajaḥ), gone today to Yama’s abode (gato vaivasvata-kṣayam) without having performed the rites owed to his ancestors (akṛtvā pitṛ-kāryāṇi)?
 </details>
 </details>
 
@@ -259,6 +307,12 @@ _________________
 
 सहस्रनेत्रधारी इन्द्रनु देवतॆगळ नडुवॆ कुळितिरुवन्तॆ पूर्णचन्द्रनन्तॆ मनोहर मुखवुळ्ळ श्रीरामनु मन्त्रिगळ मध्यदल्लि विराजिसुत्तिद्दनु. तन्न तेजदिन्द प्रज्वलितनाद सत्य पराक्रमि महात्मा श्रीरामनन्नु नोडि शत्रुघ्ननु कैमुगिदु इन्तॆन्दनु.॥8-9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Never before have I seen or heard of such a dreadful sight (nedṛśaṃ dṛṣṭa-pūrvaṃ me śrutaṃ vā ghora-darśanam) as the death of those whose time has not yet come (mṛtyur aprāpta-kālānām) here in Rāma’s realm (rāmasya viṣaye yathā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -286,6 +340,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाराजा! नीवु ननगॆ आज्ञापिसिद ऎल्ल कार्यवन्नु पूरैसि नानु बन्दिद्देनॆ. पापी लवणनु हतनागि अवन पुरियू नॆलॆगॊण्डितु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Assuredly there is some grave misdeed of Rāma’s, without doubt (rāmasya duṣkṛtaṃ kiñcin mahad asti na saṃśayaḥ), since death has come upon children dwelling within his realm (viṣaya-sthānāṃ bālānāṃ mṛtyur āgataḥ)!
 </details>
 </details>
 
@@ -326,6 +386,14 @@ _________________
 
 रघुनन्दन! निम्म दर्शनविल्लदॆ ई हन्नॆरडु वर्षगळु हेगो कळॆदु होदुवु; आदरॆ नरेश्वर! इन्नु हॆच्चु दिन निम्मिन्द दूर उळियुव साहस नन्नल्लि इल्ल.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “For children dwelling in other realms (anya-viṣaya-sthānāṃ bālānām) have no fear of death (mṛtyuto bhayam); do you, O king, restore to life this boy who has fallen into death’s power (tvaṃ rājañ jīvayasvainaṃ bālaṃ mṛtyu-vaśaṃ gatam)!”
+
+**12:** “I shall die at the king’s gate (rājadvāri mariṣyāmi) together with my wife, like one utterly protectorless (patnyā sārdham anāthavat); then, O Rāma, having incurred the guilt of brahmin-slaughter (brahmahatyāṃ ... samupetya), be happy (sukhī bhava)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -353,6 +421,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळुत्तिरुव शत्रुघ्ननन्नु बिगिदप्पिकॊण्डु श्रीरामनु हेळिदनु - शूरवीरने! विषादपडबेड. ई रीति कातरनागुवुदु क्षत्रियरिगॆ उचितवल्ल.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Together with your brothers, O king (bhrātṛbhiḥ sahito rājan), you shall attain long life (dīrgham āyur avāpsyasi)! Happily indeed have we dwelt in this kingdom of yours (uṣitāḥ sma sukhaṃ rājye tavāsmin), O mighty one!
 </details>
 </details>
 
@@ -382,6 +456,12 @@ _________________
 
 रघुकुलभूषण! राजरु परदेशदल्लिद्दरू दुःखितरागुवुदिल्ल. रघुवीरने! राजनु क्षत्रिय धर्मक्कनुसार प्रजॆयन्नु चॆन्नागि पालिसबेकु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet this calamity has fallen upon us (idaṃ tu patitam)! Therefore, abiding under your sway, O Rāma (tava rāma vaśe sthitāḥ), we have fallen under the sway of Death (kālasya vaśam āpannāḥ)—not even the slightest happiness is ours (svalpaṃ hi nahi naḥ sukham)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -409,6 +489,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरश्रेष्ठवीरने! आगाग नन्नन्नु नोडलु अयोध्यॆगॆ बरुत्ता इरु हागू मत्तॆ तन्न पुरिगॆ मरळि होगुत्ता इरु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now indeed is the realm of the great-souled Ikṣvākus utterly protectorless (sampraty anātho viṣaya ikṣvākūṇāṃ mahātmanām), having obtained Rāma here as its lord (rāmaṃ nātham ihāsādya)—a veritable destroyer of children (bālāntakaraṇaṃ dhruvam)!”
 </details>
 </details>
 
@@ -438,6 +524,12 @@ _________________
 
 नीनु ननगॆ प्राणक्किन्त हॆच्चु प्रियनागिरुवॆ इदरल्लि संशयवे इल्ल. आदरॆ राज्यद पालनॆ माडुवुदू आवश्यक कर्तव्यवागिदॆ.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through the faults of a king (rāja-doṣaiḥ), subjects who are not governed according to the sacred ordinance (prajā hy avidhi-pālitāḥ) surely perish (vipadyante); when a monarch follows wrongful conduct (asad-vṛtte tu nṛpatau), people die out of season (akāle mriyate janaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -466,6 +558,12 @@ _________________
 
 आद्दरिन्द काकुत्स्थने ! ईग एळुदिन नीनु नन्नॊन्दिगॆ इरु. अनन्तर सेवकरु, सैन्य, वाहनगळॊन्दिगॆ मधुरापुरिगॆ हॊरटु होगु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or when people in cities and in the countryside (pureṣv ... janapadeṣu ca) commit improper deeds (ayuktāni ... kurvate) and there is no restraint (na ca rakṣā ’sti), then arises terror wrought by untimely Death (tadā kāla-kṛtaṃ bhayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -493,6 +591,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामचन्द्रन ई मातु धर्म युक्त इरुवुदरॊन्दिगॆ मनस्सिगनुकूलवागित्तु. अदन्नु केळि शत्रुघ्ननु श्रीरामन वियोगद भयदिन्द दीनवाणियल्लि ‘तम्म आज्ञॆयन्तागलि’ ऎन्दु हेळिदनु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Most plainly there must be a royal failing, without doubt (suvyaktaṃ rāja-doṣo hi bhaviṣyati na saṃśayaḥ), either in the city or in the countryside (pure janapade cāpi); from that indeed comes this slaying of a child (tato bāla-vadho hy ayam)!”
 </details>
 </details>
 
@@ -532,5 +636,11 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऎप्पत्तॆरडनॆय सर्ग पूर्णवायितु. ॥72॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus upbraided the king again and again (rājānam ... uparudhya muhur muhuḥ) with manifold words (evaṃ bahuvidhair vākyaiḥ), the anguish-stricken father (duḥkha-santaptaḥ) clasped that son of his to his breast (sutaṃ tam upagūhate).
 </details>
 </details>

@@ -76,6 +76,12 @@ A pitiable one, such as he is, he spoke to Lakshmana in a pitiable voice,
 "Lakshmana, go quickly to River Godavari and find out whether Seetha has gone to Godavari to fetch
 lotuses..." [3-64-1, 2a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wretched (sa dīnaḥ), he spoke a word unto Lakṣmaṇa in a piteous voice (dīnayā vācā): “Go quickly to the river Godāvarī (gatvā godāvarīṃ nadīm), O Lakṣmaṇa, and ascertain (śīghraṃ... jānīhi)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,6 +127,12 @@ river; *punaH eva hi* = again, thus, indeed; *jagaama* = went to.
 
 When Rama said thus to him Lakshmana again went to the charming River Godavari
 quickening his pace. [3-64-2b, 3a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whether Sītā has gone to the Godāvarī to fetch lotuses (padmāny ānayituṃ gatā).” Thus addressed by Rāma, Lakṣmaṇa once again (punar eva hi)
 </details>
 </details>
 
@@ -171,6 +183,12 @@ Searching at many declivities which River Godavari has on its banks Lakshmana sa
 to Rama, "I do not espy her at ghats, declivities of riverbanks, and she is not replying though I
 shouted for her. [3-64-3b, 4a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Went with swift strides (jagāma laghu-vikramaḥ) to the lovely river Godāvarī (nadīṃ godāvarīṃ ramyām). Having searched that river rich in sacred bathing-fords (tāṃ... tīrthavatīṃ vicitvā), Lakṣmaṇa spoke to Rāma:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -220,6 +238,12 @@ really.
 Vaidehi, has got round to, or where that frailty is, that place is really incomprehensible to me...
 [3-64-4b, 5a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I do not see her at the bathing-fords (naināṃ paśyāmi tīrtheṣu); though I cry out, she does not hear me (krośato na śṛṇoti me). What region can she have reached (kaṃ nu sā deśam āpannā), that Vaidehī who dispels all distress (kleśa-nāśinī)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -244,6 +268,12 @@ Vaidehi, has got round to, or where that frailty is, that place is really incomp
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मणन मातन्नु केळि दीननाद मत्तु सन्तापदिन्द मोहितनाद श्रीरामचन्द्रनु स्वतः गोदावरी तीरक्कॆ होदनु.॥5½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For I do not know that place (nahi taṃ vedmi), O Rāma, where that slender-waisted lady abides (yatra sā tanu-madhyamā).” Hearing Lakṣmaṇa's words, wretched and bewildered by anguish (dīnaḥ saṃtāpa-mohitaḥ),
 </details>
 </details>
 
@@ -311,6 +341,14 @@ The forest creatures which were asked earlier have not said to Rama that a
 deservedly destructible demagogue of demons has divested him of Seetha, likewise now River Godavari
 which is now being asked has not informed Rama about Seetha. [3-64-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** Rāma himself approached (svayaṃ samabhicakrāma) the river Godāvarī. Standing beside her (sa tām upasthito rāmaḥ), Rāma spoke thus: “Where is Sītā (kva sīteti)?”
+
+**7:** Though she had been carried off by the lord of rākṣasas who deserved death (rākṣasendreṇa vadhārheṇa hṛtām api), the living beings (bhūtāni) did not declare her unto Rāma (na tāṃ śaśaṃsū rāmāya), nor did the river Godāvarī (tathā godāvarī nadī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -358,6 +396,12 @@ she [Godavari]; *siitaam* = about Seetha; *na avadat* = not, said.
 Though the woeful Rama has asked her, and even though all the georgic beings
 impelled her to inform Rama the fact about his ladylove, River Godavari then remained mouthless
 about Seetha. [3-64-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, though urged by the creatures (pracoditā bhūtaiḥ), “Declare his beloved unto him (śaṃsa cāsmai priyām iti)!”, she did not speak of Sītā (na ca sā hy avadat sītām) when questioned by the grieving Rāma (pṛṣṭā rāmeṇa śocatā).
 </details>
 </details>
 
@@ -409,6 +453,12 @@ She that River Godavari has not informed Rama about Vaidehi just out of fear on
 recalling the mien and manoeuvres of malefic-minded Ravana, lest Ravana may drain her away.
 [3-64-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Calling to mind that dreadful form of the evil-souled Rāvaṇa and his deeds as well (rāvaṇasya ca tad-rūpaṃ karmāpi ca durātmanaḥ dhyātvā), out of fear (bhayāt tu) that river did not tell of Vaidehī (vaidehīṃ sā nadī na śaśaṃsa ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -456,6 +506,12 @@ spoke.
 Rama who is already in a rundown condition owing to the non-appearance of Seetha, is
 further rendered as a hopeless being by River Godavari in the matter of his catching a glimpse of
 Seetha, and such a Rama spoke to Saumitri. [3-64-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rendered hopeless by that river in the matter of beholding Sītā (nirāśas tu tayā nadyā sītāyā darśane kṛtaḥ), Rāma, wasted by not seeing Sītā (sītā-darśana-karśitaḥ), spoke unto Sumitrā's son:
 </details>
 </details>
 
@@ -511,6 +567,12 @@ absence of Vaidehi, oh Lakshmana, really what is that unpleasant word I have to 
 father king Janaka, also thus to Vaidehi's mother-in-law and my mother Kausalya, when I meet them!
 [3-64-11, 12a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This Godāvarī, O gentle one, answers naught whatever (kiṃcin na pratibhāṣate)! What word, O Lakṣmaṇa, shall I speak when I meet Janaka (kiṃ nu lakṣmaṇa vakṣyāmi sametya janakaṃ vacaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -561,6 +623,12 @@ away [who is a remover]; *saa kva gataa nu* = she, to where, went to, really.
 surviving in forests on forest produce, such as she is, where has she gone, really! [3-64-12b,
 13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And Vaidehī's mother as well (mātaraṃ caiva vaidehyāḥ), [returning] without her—a word most unwelcome (vinā tām aham apriyam)? She who, when I was bereft of my kingdom and living in the forest on forest fare (vane vanyena jīvataḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -610,6 +678,12 @@ distanced from]; *raaja putriim a pashyataH* = king's, daughter, not, seen;
 "Though I am distanced from my relatives I deemed that princess Seetha alone would
 be an evermore relative of mine. But now when that princess alone is unseen I deem that my
 sleepless nights would be lengthy. [3-64-13b, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Dispelled all my sorrow (sarvaṃ vyapānayac chokam)—whither has that Vaidehī gone (vaidehī kva nu sā gatā)? Bereft of my circle of kinsmen (jñāti-varga-vihīnasya) and not beholding Vaidehī either (vaidehīm apy apaśyataḥ),
 </details>
 </details>
 
@@ -667,6 +741,12 @@ are five Ganga-s panca gangaa Cauvery, Tungabhadra, Krishna Veni, Gautami
 [namely Godavari,] Bhaagiirathi. in Southern India and these are held sacred on par with
 River Ganga.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I think the nights will be long for me as I lie awake (dīrghā bhaviṣyanti rātrayo mama jāgrataḥ)! The Mandākinī, Janasthāna, and this Mount Prasravaṇa (imaṃ prasravaṇaṃ girim)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -715,6 +795,12 @@ vaktu kaama iha hi* = to me, to say [something,] they desire, now - as it were.
 
 "Now all these burly animals are repeatedly looking at me as though to speak to me,
 oh, brave Lakshmana, this I reckon with their body language as it were. [3-64-15b, 16a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All of them shall I wait upon (sarvāṇy anucariṣyāmi), if only Sītā is found (yadi sītā hi labhyate)! Look, O hero, these great deer gaze at me again and again (ete mahā-mṛgā vīra mām īkṣante punaḥ punaḥ);
 </details>
 </details>
 
@@ -766,6 +852,14 @@ once.
 But on seeing them pryingly that tigerly-man Raghava has indeed asked them at once
 with a voice stifled with tears, "where is Seetha?" [3-64-16b, 17a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** “By their gestures I perceive (iṅgitāny upalakṣaye) that they wish to speak to me here (vaktu-kāmā iha hi me).” Beholding them, Rāghava, that tiger among men (nara-vyāghraḥ), spoke to them in turn:
+
+**17:** Looking intently at them (nirīkṣan vai), he asked with a voice choked with tears (bāṣpa-saṃruddhayā girā), “Where is Sītā (kva sīteti)?” Thus addressed by the lord of men, those deer sprang up all at once (te mṛgāḥ sahasotthitāḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -811,6 +905,12 @@ When that best king has asked, those animals rose to their feet in a trice and
 facing themselves southward showed skyward with their snouts. And while running in the direction in
 which Maithili is taken away they are stopping to look back at that lord of people, Rama. Thus they
 are repeatedly running, stopping and staring at Rama. [3-64-17b, 18, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All facing the south (dakṣiṇābhimukhāḥ sarve) and pointing toward the vault of the sky (darśayanto nabhaḥ-sthalam)—toward that quarter which Maithilī had reached while being carried off (maithilī hriyamāṇā sā diśaṃ yām abhyapadyata).
 </details>
 </details>
 
@@ -880,6 +980,14 @@ On noticing the lingua franca and even the lingua persona of those animals, that
 imaginative Lakshmana spoke to his elder brother, alike a striver striving hard for some
 information. [3-64-20b, 21a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** Going along that path (tena mārgeṇa gacchantaḥ), they looked back at the lord of men (nirīkṣante narādhipam). Because those deer kept looking at the sky-path and at the earth (yena mārgaṃ ca bhūmiṃ ca nirīkṣante sma te mṛgāḥ),
+
+**20:** And went on crying out again and again (punar nadanto gacchanti), they were noted by Lakṣmaṇa (lakṣmaṇenopalakṣitāḥ); and he perceived their gesture, which held the whole substance of speech (teṣāṃ vacana-sarvasvaṃ lakṣayāmāsa ceṅgitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -942,6 +1050,14 @@ direction as well, thereby we may, for sure, go south-westward to know whether t
 information about her, or else, even that noble lady herself may be available there..." [3-64-21a,
 22, 23a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** The wise Lakṣmaṇa spoke unto his elder brother like one afflicted (uvāca lakṣmaṇo dhīmān jyeṣṭhaṃ bhrātaram ārtavat): “Since, when asked by thee ‘Where is Sītā?’, these deer sprang up all at once (yatheme sahasotthitāḥ),
+
+**22:** “And point out the earth and the southern quarter (darśayanti kṣitiṃ caiva dakṣiṇāṃ ca diśaṃ mṛgāḥ), let us rightly proceed, O lord (sādhu gacchāvahe deva), toward this southwestern quarter (diśam etāṃ ca nairṛtīm),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -989,6 +1105,12 @@ On saying "Yes!" to Lakshmana that illustrious Rama of Kakutstha sallied forth t
 southern direction followed by Lakshmana, scrutinising the earth on his walkway. [3-64-23b,
 24a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“[To see] whether some trace of her may be found, or whether that noble lady herself may be seen (yadi tasyāgamaḥ kaścid āryā vā sātha lakṣyate).” Saying simply “So be it (bāḍham ity eva)!”, Kākutstha set forth toward the southern quarter (prasthito dakṣiṇāṃ diśam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1035,6 +1157,12 @@ flowers; *apashyataam* = they have seen.
 Those two brothers who are proceeding while discussing among themselves have seen
 the walkway bestrewn with flowers fallen from a person. [3-64-24b, 25a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Followed by Lakṣmaṇa, the glorious prince scanned the earth (lakṣmaṇānugataḥ śrīmān vīkṣamāṇo vasuṃdharām). Conversing thus with one another, both those brothers (evaṃ sambhāṣamāṇau tāv anyonyaṃ bhrātarāv ubhau)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1074,6 +1202,12 @@ anguished, Lakshmana; *vacaH uvaaca* = [this] word, said.
 
 That valiant Rama who is anguished to see the drizzle of flowers fallen on the
 surface of earth spoke this word to Lakshmana who is equally anguished. [3-64-25b, 26a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beheld upon the earth a path strewn with fallen flowers (vasuṃdharāyāṃ patita-puṣpa-mārgam apaśyatām). Seeing that shower of flowers fallen upon the surface of the earth (puṣpa-vṛṣṭiṃ nipatitāṃ dṛṣṭvā... mahī-tale), Rāma,
 </details>
 </details>
 
@@ -1124,6 +1258,12 @@ I recognise; *kaanane mayaa dattaani* = in forest, by me, given - these flowers;
 "I recognise these flowers that are fallen here, oh, Lakshmana. In forest I gave
 them to Vaidehi and she tucked these very flowers in her bun. [3-64-26b, 27a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The hero, afflicted with sorrow, spoke a sorrowful word unto Lakṣmaṇa (uvāca lakṣmaṇaṃ vīro duḥkhito duḥkhitaṃ vacaḥ): “I recognize these very flowers here, O Lakṣmaṇa (abhijānāmi puṣpāṇi tānīmānīha lakṣmaṇa),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1172,6 +1312,12 @@ air as they are unswept by it, and by the glorious earth, as they are unspoilt b
 that these naturals, sun, air, and earth are really proffering a helping hand to me. [3-64-27b,
 28a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Which were given by me in the forest and braided by Vaidehī [in her hair] (apinaddhāni vaidehyā mayā dattāni kānane)! I think the Sun, the Wind, and the glorious Earth (sūryaś ca vāyuś ca medinī ca yaśasvinī)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1217,6 +1363,12 @@ uvaaca* = to mountain, spoke [asked.]
 
 On saying thus to best one among men Lakshmana, that virtue-souled and dextrous Rama
 asked the mountain that is uproarious with rapids. [3-64-28b, 29a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Are guarding these flowers (abhirakṣanti puṣpāṇi), doing what is dear to me (prakurvanto mama priyam)!” Having spoken thus to Lakṣmaṇa, that bull among men (lakṣmaṇaṃ puruṣarṣabham), the mighty-armed,
 </details>
 </details>
 
@@ -1283,6 +1435,12 @@ mountain gave that reply in an echo of Rama's verbiage. Rama takes this as a mer
 mountain, but not a clear reply, and thus angering at it he wants to splinter it down, as said in
 next lines.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Righteous-souled Rāma addressed the mountain (uvāca rāmo dharmātmā girim) that was filled with cascading streams (prasravaṇākulam): “O lord of mountains (kṣiti-bhṛtāṃ nātha), hast thou perchance seen her who is lovely in every limb (kaccit... dṛṣṭā sarvāṅga-sundarī)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1340,6 +1498,14 @@ Because his question is unanswered he is enraged as with a lion enraging at a pu
 animal, and then he spoke to the mountain, "show me that golden tinged, golden limbed Seetha, oh,
 mountain, no sooner than I devastate all your apices, apiece..." [3-64-30b, 31]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** “That enchanting woman (rāmā), separated from me in this lovely woodland spot (ramye vanoddeśe mayā virahitā)?” Then, filled with wrath, he spoke to the mountain, as a lion unto a puny beast (siṃhaḥ kṣudra-mṛgaṃ yathā):
+
+**31:** “Show me that gold-complexioned, golden-limbed Sītā, O mountain (tāṃ hema-varṇāṃ hemāṅgīṃ sītāṃ darśaya parvata), before I shatter all thy ridges (yāvat sānūni sarvāṇi na te vidhvaṃsayāmy aham)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1394,6 +1560,12 @@ anything but a proper indication, thus it has dishonoured Rama - Maheshvara Tiir
 appeared to have said something but kept mum on other details - Govindaraja. In either way it
 silent on other details for fear of later time atrocity of Ravana, thereby Rama wanted to subject
 it to his arrows atrocity, now itself.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma concerning Maithilī, the mountain, though seeming to point out that Sītā (darśayann iva tāṃ sītām), did not show her directly unto Rāghava (nādarśayata rāghave).
 </details>
 </details>
 
@@ -1452,6 +1624,12 @@ will burn you down completely and when you will be pared down ashes, you shall b
 treeless and tender-leafless, and thus you become a meritless mountain... hence, show Seetha before
 becoming so... [3-64-33, 34a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma, son of Daśaratha, spoke to the mountain (śiloccayam): “Consumed by the fire of my arrows (mama bāṇāgni-nirdagdhaḥ), thou shalt be reduced to ashes (bhasmī-bhūto bhaviṣyasi),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1501,6 +1679,12 @@ yadi* = to me, not, going to tell, if; *adya imaam saritam vaa* = now, this one,
 "Lakshmana, if this River Godavari is not going to tell me immediately about that
 moonshine-faced Seetha, now I will dry her up... [3-64-34b, 35a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Unfit to be resorted to on every side (asevyaḥ sarvataś caiva), stripped of grass, trees, and shoots (nistṛṇa-druma-pallavaḥ)! Or I shall dry up this river today, O Lakṣmaṇa (imāṃ vā saritaṃ cādya śoṣayiṣyāmi lakṣmaṇa),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1528,6 +1712,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि रोषगॊण्डु श्रीरामचन्द्रनु तन्न दृष्टियिन्दले सुट्टु बूदि माडिबिडुवन्तॆ अदर कडॆगॆ नोडिदनु. अष्टरल्लि आ पर्वत मत्तु गोदावरिय समीपद भूमियल्लि राक्षसन विशालपाद चिह्नॆ मूडिदुदु कण्डु बन्तु.॥35½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If she does not declare to me today Sītā of moon-like face (yadi nākhyāti me sītām adya candra-nibhānanām)!” Thus fiercely enraged (evaṃ praruṣito rāmaḥ), as though desiring to burn [all things] with his glance (didhakṣann iva cakṣuṣā),
 </details>
 </details>
 
@@ -1575,6 +1765,12 @@ with his eyes, then he has seen on the ground gigantic footprints of a demon, an
 Vaidehi, who appeared to have run fearfully here and there in a helter-skelter manner expecting the
 arrival of Rama, and which footprints are heavily trodden by a demon who followed her. [3-64-35b,
 36, 37a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma beheld upon the ground the huge footprint of a rākṣasa (dadarśa bhūmau niṣkrāntaṃ rākṣasasya padaṃ mahat), and [the footprints] of the terrified lady who, yearning for Rāma, had run to and fro (trastāyā rāma-kāṅkṣiṇyāḥ pradhāvantyā itas tataḥ)—
 </details>
 </details>
 
@@ -1628,6 +1824,14 @@ On scrutinising the overly trodden footprints of Seetha and the demon, and a bro
 bow, broken quiver, and broken and variously bestrewn chariot also, then Rama became baffle-hearted
 and said to his dear brother Lakshmana. [3-64-37b, 38]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**37:** And the footprints of Vaidehī as she was pursued by the rākṣasa (rākṣasenānusṛptāyā vaidehyāś ca padāni tu). Examining the trampling about of Sītā and the rākṣasa (sa samīkṣya parikrāntaṃ sītāyā rākṣasasya ca),
+
+**38:** The broken bow, the quivers, and the chariot scattered in many pieces (bhagnaṃ dhanuś ca tūṇī ca vikīrṇaṃ bahudhā ratham), Rāma, his heart bewildered with alarm (sambhrānta-hṛdayo rāmaḥ), spoke to his dear brother:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1673,6 +1877,12 @@ golden, beads; *kiirNaam [shiirNaam] hi* = strewn around [dropped down] indeed;
 
 "See Lakshmana, many beads of jewellery and many bits of garlands of Vaidehi have
 indeed fallen down, and oh, Soumitri, they are strewn around... [3-64-39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold, O Lakṣmaṇa, the scattered gold beads of Vaidehī's ornaments (vaidehyāḥ kīrṇāḥ kanaka-bindavaḥ bhūṣaṇānāṃ hi), O Saumitri, and garlands of diverse kinds (mālyāni vividhāni ca)!
 </details>
 </details>
 
@@ -1720,6 +1930,12 @@ and small,] blood, with drops; *sarvataH* = everywhere; *aavR^itam* = enclosed
 "Also the surface of the earth is everywhere interspersed with big and small blood
 drops that are akin to golden droplets, you see them Saumitri... [3-64-40]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And behold, O Saumitri, the surface of the earth covered on every side (āvṛtaṃ... sarvato dharaṇī-talam) with variegated drops of blood (citraiḥ kṣataja-bindubhiḥ) gleaming like drops of molten gold (tapta-bindu-nikāśaiś ca)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1760,6 +1976,12 @@ think.
 
 "I think Lakshmana, guise changing demons would have ripped and rived Vaidehi, or
 divided her into pieces, or they might have gluttonised her. [3-64-41]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I think, O Lakṣmaṇa, that Vaidehī has been torn apart piece by piece (bhittvā bhittvā), divided up, or devoured (vibhaktā vā bhakṣitā vā bhaviṣyati) by shape-shifting rākṣasas (rākṣasaiḥ kāma-rūpibhiḥ)!
 </details>
 </details>
 
@@ -1809,6 +2031,12 @@ yuddham babhuuva* = here, a deadly, clash, occurred.
 
 "A deadly clash has occurred here, Soumitri, while two demons were clashing between
 themselves on account of Vaidehi... [3-64-42]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For the sake of that Sītā (tasyā nimittaṃ sītāyāḥ), O Saumitri, a dreadful battle took place here (babhūva yuddhaṃ... ghoraṃ... iha) between two contending rākṣasas (dvayor vivadamānayoḥ... rākṣasayoḥ).
 </details>
 </details>
 
@@ -1860,6 +2088,12 @@ demons; *adhavaa api* = else, or; *suraaNaam* = of gods.
 beautifully decorated, but it is fragmented and fallen to earth. Oh, dear boy, Lakshmana, this bow
 may perhaps belong to demons, or else to gods... [3-64-43, 44a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And whose is this great bow (kasya... mahad dhanuḥ), inlaid with pearls and gems (muktā-maṇi-citam), lovely and richly adorned (ramaṇīyaṃ vibhūṣitam), lying shattered upon the earth, O gentle one (dharaṇyāṃ patitaṃ saumya... bhagnam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1905,6 +2139,12 @@ patitam* = on earth, fallen.
 
 "Studded with lapis gem beads this golden armour of someone is similar to the rising
 sun in its shine, but it is splintered and fallen to earth... [3-64-44b, 45a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“[Does this belong] to the rākṣasas, O dear brother, or else to the gods (rākṣasānām idaṃ vatsa surāṇām athavāpi vā)? Resembling the newly risen sun (taruṇāditya-saṃkāśam) and studded with cat's-eye gems (vaidūrya-gulikācitam),
 </details>
 </details>
 
@@ -1960,6 +2200,12 @@ down.
 but oh, gentle Lakshmana, its central-shaft is wrecked and it is felled to earth... [3-64-45b,
 46a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whose is this golden corselet (kavacaṃ kasya kāñcanam) lying shattered upon the ground (viśīrṇaṃ patitaṃ bhūmau)? And this parasol with a hundred ribs (chatraṃ śata-śalākaṃ ca), graced with celestial garlands (divya-mālyopaśobhitam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2008,6 +2254,12 @@ hewed down; *ime kharaaH* = these, mules; *kasya* = whose; *vaa* = either.
 
 "These ghost-faced mules with golden breastplates are macabre in form and massive in
 frame, but they are hewed down in war, whose are they, either... [3-64-46b, 47a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whose is it, cast down upon the ground with its staff broken, O gentle one (bhagna-daṇḍam idaṃ saumya bhūmau kasya nipātitam)? And these goblin-faced mules (piśāca-vadanāḥ kharāḥ) clad in golden breastplates (kāñcanoraś-chadāś ceme),
 </details>
 </details>
 
@@ -2058,6 +2310,12 @@ down, battered, also.
 
 "Somebody's combat-chariot is irradiant and similar in shine to the flaring fire
 with a war-pennon, but it is broken and battered down, as well... [3-64-47b, 48a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of dreadful aspect and huge body—whose are they, slain in battle (kasya vā nihatā raṇe)? Gleaming like a blazing fire (dīpta-pāvaka-saṃkāśaḥ) and resplendent with its battle-standard (dyutimān samara-dhvajaḥ),
 </details>
 </details>
 
@@ -2115,6 +2373,12 @@ which is unacceptable to some as Ravana did not travel in his chariot with a meg
 way aksha is taken as the 'eye of axle...' Then the diameter of his arrow is said, 'as thick as an
 axle...' Some others said the size of arrow is eighty-four inches according to shilpa shaastra
 'science of chariot making...' taking this 'eye of axle' into consideration.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whose is this war-chariot (kasya sāṅgrāmiko rathaḥ), overturned and shattered (apaviddhaś ca bhagnaś ca)? And these arrows as long as a chariot-axle (rathākṣa-mātrā viśikhāḥ), adorned with gold (tapanīya-vibhūṣaṇāḥ)—
 </details>
 </details>
 
@@ -2179,6 +2443,12 @@ and occurs at least twice in the Ramayana...' Here and at 3-51-14 of this canto 
 used in the meaning of armour. If this meaning of armour is adopted here also, then the meaning of
 the above verse may somewhat be,
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whose are these shattered arrows (kasyeme nihatā bāṇāḥ) of dreadful aspect, scattered about (prakīrṇā ghora-darśanāḥ)? Behold, O Lakṣmaṇa, two quivers full of arrows, smashed to pieces (śarāvarau śaraiḥ pūrṇau vidhvastau)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2237,6 +2507,14 @@ paltry demon... but on seeing the massive footprints I consider this as a calcul
 crime... now that my animosity is multiplied hundredfold, whole of the demonic race will be
 eliminated...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**50:** “And whose is this charioteer slain here (kasya vā sārathir hataḥ), holding goad and reins in his hand (pratodābhīṣu-hasto 'yam)? Clearly this track belongs to some male rākṣasa (padavī puruṣasyaiṣā vyaktaṃ kasyāpi rakṣasaḥ)!
+
+**51:** “Behold, O gentle one, how my enmity with those shape-shifting rākṣasas of most cruel heart (sughora-hṛdayaiḥ... rākṣasaiḥ kāma-rūpibhiḥ) has grown a hundredfold (vairaṃ śata-guṇaṃ paśya) and will end their lives (jīvitāntakam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2287,6 +2565,12 @@ Dharma or Righteousness does not go on safeguarding either its adherents or
 antagonists, everyone, everywhere, everlastingly. dharmo rakshati rakshitaH and suchlike sayings
 are also time-bound and when the time is negative aapatsu raksha ko dharmaH 'in difficulties which
 rightness safeguards?' is the ensuing dilemma.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whether the poor ascetic Vaidehī has been carried off, is dead, or has been devoured (hṛtā mṛtā vā vaidehī bhakṣitā vā tapasvinī), dharma did not protect Sītā as she was being carried off in the great forest (na dharmas trāyate sītāṃ hriyamāṇāṃ mahā-vane)!
 </details>
 </details>
 
@@ -2340,6 +2624,12 @@ Lakshmana, then who are the gods who can possibly be benignant to me in this wor
 'No god can possibly be non-benignant to me, either in this world or in the
 other...' Govindaraja.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When Vaidehī has been devoured or even carried off, O Lakṣmaṇa (bhakṣitāyāṃ hi vaidehyāṃ hṛtāyām api), what lords in the world, O gentle one, are able to do aught dear to me (ke hi loke priyaṃ kartuṃ śaktāḥ saumya mameśvarāḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2386,6 +2676,12 @@ by unenlightenment; *ava manyeran* = dis, respect.
 "Lakshmana, someone, even if He were a Creator of Worlds, or an Omnipotent, if He
 were to be lenient at heart or in His actions, He will be disrespected by all beings, owing to the
 unenlightenment of those beings... [3-64-54]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even the Creator of the worlds (kartāram api lokānām), though heroic, if he is tender with compassion (śūraṃ karuṇa-vedinam), all beings would despise out of ignorance, O Lakṣmaṇa (ajñānād avamanyeran sarva-bhūtāni lakṣmaṇa)!
 </details>
 </details>
 
@@ -2443,6 +2739,12 @@ evil-doers are reverenced by one and all, though negatively owing to scare... bu
 scoffed off, for his deeds are positive and do not yield quick and instant results... and my
 Omnipotence is looked down as my impotence...' This concept is amplified throughout Bhagavat
 Gita.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because I am gentle (mṛdum), devoted to the welfare of the world (loka-hite yuktam), self-controlled (dāntam), and tender with compassion (karuṇa-vedinam), the lords of the thirty gods surely deem me valorless (nirvīrya iti manyante nūnaṃ māṃ tridaśeśvarāḥ)!
 </details>
 </details>
 
@@ -2503,6 +2805,14 @@ with the sizzle of sun uprisen quelling all the moonshine, now you may see as to
 radiates quelling all the merits like softness and fairness for the nonentity of all beings
 proactive to demons, inclusive of demons. [3-64-56, 57]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**56:** “Behold, O Lakṣmaṇa, how upon reaching me even a virtue has turned into a fault (māṃ prāpya hi guṇo doṣaḥ saṃvṛttaḥ)! This very day, for the destruction of all beings and of the rākṣasas (adyaiva sarva-bhūtānāṃ rakṣasām abhavāya ca),
+
+**57:** “Just as the mighty sun, when risen, swallows up the moonlight (saṃhṛtyaiva śaśi-jyotsnāṃ mahān sūrya ivoditaḥ), so my fiery splendour blazes forth, withdrawing all my gentle virtues (saṃhṛtyaiva guṇān sarvān mama tejaḥ prakāśate)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2550,6 +2860,12 @@ vaa* = kinnaraa-s, either; *manuSyaa vaa* = humans, or.
 - no; demons - no; either kinnaraa-s or humans - no, none can be comfortable henceforth...
 [3-64-58]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither yakṣas, nor gandharvas, nor piśācas, nor rākṣasas, nor kiṃnaras, nor men shall find happiness, O Lakṣmaṇa (sukhaṃ prāpsyanti lakṣmaṇa)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2596,6 +2912,12 @@ render, indeed; *pashya* = you notice.
 
 "Now the welkin will be packed with my arrows and missiles, and I will render it as
 an impassable sphere for the treaders in the triad of worlds... [3-64-59]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold the sky filled with my missile-arrows, O Lakṣmaṇa (mamāstra-bāṇa-sampūrṇam ākāśaṃ paśya lakṣmaṇa)! This very day I shall render it impassable for all who course through the three worlds (asampātaṃ kariṣyāmi hy adya trailokya-cāriṇām)!
 </details>
 </details>
 
@@ -2673,6 +2995,14 @@ pulverised, water receptacles will be dried out, and trees, creeping-plants and 
 destroyed, and oceans depleted, thus I will bring the triad of the worlds to nought, relative to
 the task of Time in extinguishing an era... [3-64-60, 61, 62a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**60:** “[I shall make the three worlds] have their hosts of planets arrested (saṃniruddha-graha-gaṇam), the moon veiled over (āvārita-niśākaram), fire and wind destroyed, and the radiance of the sun shrouded (vipraṇaṣṭānala-marud-bhāskara-dyuti-saṃvṛtam)—
+
+**61:** “With mountain peaks churned to pieces (vinirmathita-śailāgram), reservoirs of water drying up (śuṣyamāṇa-jalāśayam), trees, creepers, and thickets shattered (dhvasta-druma-latā-gulmam), and the oceans destroyed (vipraṇāśita-sāgaram),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2718,6 +3048,12 @@ my, onslaught - blitzkrieg, they, will be seeing.
 
 "If the gods are not going to safely restore Seetha to me, oh, Soumitri, they can
 see what my blitzkrieg is, at this very moment... [3-64-62b, 63a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall unite the three worlds with the work of all-destroying Time (trailokyaṃ tu kariṣyāmi saṃyuktaṃ kāla-karmaṇā)! If those lords do not restore Sītā safe and sound to me (na te kuśalinīṃ sītāṃ pradāsyanti mameśvarāḥ),
 </details>
 </details>
 
@@ -2765,6 +3101,12 @@ beings; *mama caapa guNa unmuktaiH* = my, bow, string, released from; *baaNa jaa
 "All beings cannot fly high in the sky, oh, Lakshmana, as there will be a labyrinth
 of my arrows released from my bowstring, minus an intercolumniation... [3-64-63b, 64a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In this very hour, O Saumitri, they shall behold my valor (asmin muhūrte saumitre mama drakṣyanti vikramam)! No living beings shall fly up into the sky, O Lakṣmaṇa (nākāśam utpatiṣyanti sarva-bhūtāni lakṣmaṇa),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2811,6 +3153,12 @@ witness.
 
 "Bombarded with my iron-shafts this world will be put to disorderliness, Lakshmana,
 you may now witness how the animals and birds will be dazed and devastated... [3-64-64b, 65a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Which will be packed without interstice by networks of arrows loosed from my bowstring (mama cāpa-guṇonmuktair bāṇa-jālair nirantaram)! Crushed by my iron shafts (marditaṃ mama nārācaiḥ), with beasts and birds struck down and bewildered (dhvasta-bhrānta-mṛga-dvijam),
 </details>
 </details>
 
@@ -2863,6 +3211,12 @@ phantoms; *a raakSasam* = without, demons; *kariSye* = I will render.
 force-stretching my unstoppable arrows up to my ears to release them forcefully... [3-64-65b,
 66a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold the world today, O Lakṣmaṇa, thrown into tumult and cast beyond all bounds (samākulam amaryādaṃ jagat paśyādya lakṣmaṇa)! With arrows drawn right to the ear and irresistible to the world of living beings (ākarṇa-pūrṇair iṣubhir jīva-loka-durāvaraiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2912,6 +3266,12 @@ adya drakSyanti* = gods, now, let them witness.
 
 "Let the gods witness now the impact of the blaze-crested, thoroughgoing arrows of
 mine, projected by my wrath and released by my irascibility... [3-64-66b, 67a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For Maithilī's sake I shall render [the world] devoid of piśācas and rākṣasas (kariṣye maithilī-hetor apiśācam arākṣasam)! Today the gods shall behold the might of my shafts impelled by wrath (mama roṣa-prayuktānāṃ viśikhānāṃ balaṃ surāḥ)—
 </details>
 </details>
 
@@ -2963,6 +3323,12 @@ demons, no.
 "That being so, when the triad of worlds is completely ruined by my anger will there
 be gods, no; demons - no; phantoms - no, none can survive... [3-64-67b, 68a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Loosed in fury and coursing afar (vimuktānām amarṣād dūra-gāminām)! Neither gods, nor daityas, nor piśācas, nor rākṣasas (naiva devā na daiteyā na piśācā na rākṣasāḥ)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3010,6 +3376,12 @@ falling.
 
 "Whatever worlds of gods, or monsters, or even those of demons are there, they will
 be splintered and falling down apiece by the fusillades of my arrows... [3-64-68b, 69a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Shall survive when the three worlds are destroyed through my wrath (bhaviṣyanti mama krodhāt trailokye vipraṇāśite)! Whatever worlds belong to the gods, dānavas, and yakṣas, and those of the rākṣasas as well (deva-dānava-yakṣāṇāṃ lokā ye rakṣasām api),
 </details>
 </details>
 
@@ -3062,6 +3434,12 @@ arrows; *imaan lokaan* = these, worlds; *nir maryaadaan* = without, civility
 "Whether she is abducted, or even if she is killed, oh, Soumitri, if the gods are
 not going to give back my Seetha I will now jeopardise these worlds with my arrows... [3-64-69b,
 70a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Shall fall down in manifold ways, broken into fragments by floods of arrows (bahudhā nipatiṣyanti bāṇaughaiḥ śakalī-kṛtāḥ)! Today with my shafts I shall strip these worlds of all their bounds (nirmaryādān imāṃl lokān kariṣyāmy adya sāyakaiḥ)!
 </details>
 </details>
 
@@ -3117,6 +3495,14 @@ after Golden Deer, I will be annihilating the triad of world in its entirety, to
 mobile and sessile beings, and I will be sweltering the entire universe with my arrows as long as I
 am not going to get a glimpse of her." Thus Rama gave a vent to his feelings. [3-64-70b, 71a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**70:** “The lords will not give back to me, O Saumitri, her who was carried off or is dead (hṛtāṃ mṛtāṃ vā saumitre na dāsyanti mameśvarāḥ); if indeed they do not give back my beloved Vaidehī in her very same unblemished form (tathā-rūpāṃ hi vaidehīṃ na dāsyanti yadi priyām),
+
+**71:** “I shall destroy the entire universe, the three worlds with all their moving and unmoving beings (nāśayāmi jagat sarvaṃ trailokyaṃ sacarācaram); and until she is seen, I shall scorch [all things] with my shafts (yāvad darśanam asyā vai tāpayāmi ca sāyakaiḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3163,6 +3549,12 @@ bandhayat* = matted hair, mass, twined up.
 Rama on saying thus with his eyes reddening in fury, his lappet-fold of lips jerking
 spasmodically, he girded up his jute-cloths and deerskin and twined up the mass of his matted-hair.
 [3-64-72]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, his eyes copper-red with wrath (krodha-tāmrākṣaḥ) and his lips quivering (sphuramāṇoṣṭha-sampuṭaḥ), he girded his bark-garment and deerskin tightly (valkalājinam ābaddhya) and bound up his mass of matted locks (jaṭā-bhāram abandhayat).
 </details>
 </details>
 
@@ -3211,6 +3603,12 @@ forth.
 When the disposition of that venturesome and infuriated Rama has become in that way
 holocaustic, it is like that of Rudra, the All-Inflamer god, when He became like this in earlier
 times, intending to inflame the Triple-Cities. [3-64-73]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The form of that wise Rāma, thus filled with wrath (tasya kruddhasya rāmasya tathā-bhūtasya dhīmataḥ), shone like that of Rudra in former times when he slew the Triple City (tripuraṃ jaghnuṣaḥ pūrvaṃ rudrasyeva babhau tanuḥ).
 </details>
 </details>
 
@@ -3270,6 +3668,14 @@ Lakshmana and gripped it tightly, unholstered a deadly and dazzling arrow from h
 like a poisonous serpent, and readying it on the bowstring of his bow, that Rama, the vanquisher of
 enemies fastnesses, who looked like the Ear-End-Fire, spoke this sentence. [3-64-74, 75]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**74:** Then taking his bow from Lakṣmaṇa and gripping it tightly (lakṣmaṇād atha cādāya rāmo niṣpīḍya kārmukam), and taking a blazing, dreadful arrow resembling a venomous serpent (śaram ādāya saṃdīptaṃ ghoram āśīviṣopamam),
+
+**75:** The glorious Rāma, conqueror of hostile citadels, fitted it to his bow (saṃdadhe dhanuṣi śrīmān rāmaḥ para-purañjayaḥ); enraged like the fire at the end of a cosmic age (yugāntāgnir iva kruddhaḥ), he spoke this word:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3328,6 +3734,12 @@ Time is the all-transcending factor and none can countervail it. anena mR^ityu
 jara aadayoH ashakya pratiikaaraa iti suucitam | tathaa ca droNa parvaaNi - na hi eSha brahma
 caryeNa na veda adhyayanena ca | na kriyaabhiH na ca astreNa mR^ityoH kashcin nivartayate | kruura
 sarva vinaashaaya kaalo asau na ati vartate | mahaa bhaarata - dk
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Just as old age, just as death, just as Time, and just as Fate (yathā jarā yathā mṛtyur yathā kālo yathā vidhiḥ) are never checked among all living beings, O Lakṣmaṇa (nityaṃ na pratihanyante sarva-bhūteṣu lakṣmaṇa), even so, filled with wrath, I can without doubt never be turned back (tathāhaṃ krodha-saṃyukto na nivāryo 'smy asaṃśayam)!
 </details>
 </details>
 
@@ -3399,6 +3811,12 @@ whatnot... [3-64-77]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु. ॥64॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If today they do not restore to me the blameless Maithilī Sītā of lovely teeth, just as she was before (pureva me cārudatīm aninditāṃ diśanti sītāṃ yadi nādya maithilīm), I shall overturn the entire universe together with its mountains, gods, gandharvas, men, and serpents (sadeva-gandharva-manuṣya-pannagaṃ jagat saśailaṃ parivartayāmy aham)!”
 </details>
 </details>
 

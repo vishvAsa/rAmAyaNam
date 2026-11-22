@@ -67,6 +67,12 @@ _________________
 That Hanuma with great strength crossed the insurmountable ocean without becoming tired and viewed the city of
 Lanka located on the peak of Mount Trikuta.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having crossed over the unassailable (anādhṛṣyam) ocean, that hero of mighty strength stood composed (svasthaḥ) upon the slope of Trikūṭa and beheld Laṅkā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -112,6 +118,12 @@ released by trees.
 **टिप्पनी**
 
 Comment : Being showered by flowers is considered auspicious.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, showered upon by a rain of blossoms (puṣpavarṣeṇa) released from the trees, that valorous monkey shone there as though fashioned entirely of flowers (puṣpamayaḥ).
 </details>
 </details>
 
@@ -171,6 +183,12 @@ had been covered by landmass in antiquity. Also according to Ramayana, the mount
 were to the north of Lanka, but currently the mountains are found in the southern part of Lanka. This suggests
 that the northern parts of current Lanka were submerged in water during the Ramayana period.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though having crossed a hundred yojanas, that glorious monkey of supreme valor (uttamavikramaḥ), not even drawing a heavy breath (aniḥśvasan), experienced no exhaustion (glānim) there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -216,6 +234,12 @@ that the northern parts of current Lanka were submerged in water during the Rama
 "I can cross many hundreds of yojanas. What to say about the end of the ocean which had been counted to be hundred
 yojanas long?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“[I] could traverse (krameyam) even many hundreds of yojanas—what then of the ocean's farther shore, reckoned at a mere hundred yojanas?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -259,6 +283,12 @@ great ocean.
 That Hanuma, the best among powerful ones and the foremost also among those who can fly, reached the city of Lanka
 by crossing the great ocean with good speed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That foremost of the valorous and best of leapers (plavatām), endowed with swiftness, went toward Laṅkā after leaping across the great ocean (mahodadhim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -299,6 +329,12 @@ _________________
 **अनुवादः**
 
 He passed through forests with dark green hued fragrant lawns and also consisting of great rocks and hills.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He passed through the midst (madhyena) of dark-green meadows (śādvalāni), fragrant woods, and honey-laden, mountain-studded (nagavanti) groves.
 </details>
 </details>
 
@@ -348,6 +384,12 @@ with trees; *vanaraajiishcha* = and on series of trees; *pushhpitaaH* = (which w
 Hanuma, the best among Vanaras and the radiant one, tread on mountains covered with trees and on series of trees
 full of flowers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Radiant Hanumān, bull among leapers (plavagarṣabhaḥ), strode across tree-covered hills (śailān) and blossoming rows of woodland (vanarājīḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -393,6 +435,12 @@ full of flowers.
 That son of God Vayu stood on a mountain and saw forests and gardens and also the city of Lanka situated on the
 top of a mountain.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing upon that mountain (acale), the son of the Wind-god beheld forests and pleasure-groves (upavanāni), and beheld Laṅkā situated upon the mountain crest (nagāgre).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -426,6 +474,16 @@ top of a mountain.
 
 अल्लिन्दले सरळ (देवदारु), कर्णिकार वृक्षगळन्नू, पुष्पगळिन्द युक्तवाद खर्जूर वृक्षगळन्नू, प्रियाल, मुचुलिन्द, कुटज (बॆट्टदमल्लिगॆ), केदगॆ वृक्षगळन्नु, सुगन्धयुक्तवाद हिप्पलि गिडगळन्नु, कदम्ब सप्तगुच्छ (ऎळॆलॆ बाळॆ) हॊन्नॆ, कोविदार वृक्षगळन्नु, पुष्पितवाद करवीर वृक्षगळन्नु, नाना बगॆय हूविन गिडगळन्नु नोडिदनु. पुष्पभारदिन्द बागिद हागू मॊग्गुगळिन्द कूडिद पक्षिगळिन्द व्याप्तवागिद्द, गाळियिन्द बग्गिद अग्रभागगळुळ्ळ, नानाविधवाद वृक्षगळन्नु नोडिदनु.॥9-11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** [He beheld] sarala pines, karṇikāras, and well-blossomed date-palms (kharjūrān), as well as priyālas, muculindas, kuṭajas, and ketakas;
+
+**10:** fragrance-filled (gandhapūrṇān) priyaṅgus, nīpas, and saptacchadas, as well as blossoming asanas, kovidāras, and karavīras;
+
+**11:** trees weighed down by loads of blossoms (puṣpabhāranibaddhān) and others in bud (mukulitān), thronged with birds and having their crests shaken by the wind (pavanādhūtamastakān);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -453,6 +511,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हंस, कारण्डव पक्षिगळिन्दलू, साविरारु कमलगळिन्दलू शोभिसुत्तिद्द अनेक सरोवरगळन्नु विविध क्रीडास्थानगळन्नु, जलाशयगळन्नु नोडिदनु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+stepwells (vāpīḥ) crowded with swans and kāraṇḍava ducks and covered with lotuses and water-lilies (padmotpalāvṛtāḥ), diverse delightful pleasure-grounds (ākrīḍān), and varied reservoirs of water.
 </details>
 </details>
 
@@ -508,6 +572,12 @@ tied by the weight of their flowers and flower buds, that were distressed by bir
 wind, wells and various glorious pleasure-groves filled by various trees that give fruits and flowers in all seasons
 and beautiful gardens also, surrounded by various ponds consisting of swans and ducks.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the elephant among monkeys (kapikuñjaraḥ) beheld delightful royal gardens (udyānāni) overspread with diverse trees bearing fruits and flowers in every season (sarvartuphalapuṣpitaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,6 +617,14 @@ _________________
 
 सर्वशुभ लक्ष्मण सम्पन्ननाद हनुमन्तनु इन्नु मुन्दॆ होगि, कमलगळिन्दलू, कन्नैदिलॆगळिन्दलू समलङ्कृतवागिद्दु, कन्दकगळिन्द सुत्तुवरियल्टट्ट, रावणनिन्द पालितवाद लङ्कापट्टणवन्नु नोडिदनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Approaching (samāsādya) Laṅkā, which was ruled by Rāvaṇa and adorned with moats (parikhābhiḥ) filled with lotuses and water-lilies, the glorious one (lakṣmīvān) [beheld it]—
+
+**15:** well-guarded (surakṣitām) by that Rāvaṇa on account of the abduction of Sītā (sītāpaharaṇāt), and by fierce-bowed (ugradhanvabhiḥ) rākṣasas roaming on every side;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -575,6 +653,12 @@ _________________
 
 सुवर्णमयवाद प्राकारदिन्द समावृतवागिद्द महापुरियाद लङ्कॆयल्लि शरत्कालद बिळिय मेघगळन्तॆ हागू पर्वतगळन्तॆ अति दॊड्डदाद सौधगळिद्दवु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+that great city encircled by a lovely golden rampart (kāñcanena prākāreṇa), with mansions resembling mountains and bright as autumnal clouds (śāradāmbudasaṃnibhaiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -597,6 +681,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्वेत रंगकी ऊँची-ऊँची सड़कें उस पुरीको सब ओरसे घेरे हुए थीं । सैकड़ों अट्टालिकाएँ वहाँ शोभा पा रही थीं तथा फहराती हुई ध्वजा-पताकाएँ उस नगरीकी शोभा बढ़ा रही थीं ॥ १७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+enclosed by lofty, whitewashed main avenues (paṇḍurābhiḥ pratolībhiḥ), crowded with hundreds of watchtowers (aṭṭālakaśatākīrṇām), and resplendent with pennants and banners (patākādhvajaśobhitām);
 </details>
 </details>
 
@@ -655,6 +745,12 @@ a golden boundary wall, that beautiful great city consisted of houses equal in h
 like autumnal clouds, with white and elevated main streets, decorated with flags and pennons, with excellent golden
 hued archways adorned with sculpted rows of vines.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+with divine golden archways (toraṇaiḥ) resplendent with rows of creeper-tracery (latāpaṅktivirājitaiḥ), Hanumān beheld Laṅkā as a god [beholds] the city of the gods (devapurīm iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -704,6 +800,12 @@ puram yathaa* = like a city located in the sky.
 That best among monkeys Hanuma saw the city of Lanka with beautiful white buildings situated on the top of a mountain
 like a city located in the sky.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That glorious monkey beheld Laṅkā situated upon the mountain summit (girimūrdhni), with its auspicious white mansions, like a city moving through the sky (purīm ākāśagām iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -747,6 +849,12 @@ _________________
 Hanuma saw that city of Lanka ruled by Ravana the king of Rakshasas, constructed by Visvakarma (architect of Gods),
 and which looked as though it were floating in the sky.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān the monkey beheld [that city] ruled by the lord of rākṣasas and fashioned by Viśvakarman, as though floating in the firmament (plavamānām ivākāśe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -771,6 +879,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 विश्वकर्माकी बनायी हुई लंका मानो उनके मानसिक संकल्पसे रची गयी एक सुन्दरी स्त्री थी । चहारदीवारी और उसके भीतरकी वेदी उसकी जघनस्थली जान पड़ती थीं, समुद्रका विशाल जलराशि और वन उसके वस्त्र थे, शतघ्नी और शूल नामक अस्त्र ही उसके केश थे और बड़ी-बड़ी अट्टालिकाएँ उसके लिये कर्णभूषण-सी प्रतीत हो रही थीं ॥ २१ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He beheld her] having the glacis and ramparts for her hips (vapraprākārajaghanām), the broad moat-waters and forests for her raiment (vipulāmbuvanāmbarām), the śataghnīs and pikes for her tresses (śataghnīśūlakeśāntām), and the watchtowers for her ear-ornaments (aṭṭālakāvataṃsakām)—
 </details>
 </details>
 
@@ -824,6 +938,14 @@ Hanuma saw the city of Lanka with buttress and enclosure wall as her hip and loi
 the moat as her raiment, Satagnis and Sulas as her locks, the mansions as her earrings, constructed by thought.
 He reached the northern gate and thought thus.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** Laṅkā, fashioned by Viśvakarman as though created by the mind alone (manaseva kṛtām); and having reached the northern gate (dvāram uttaram), the monkey fell to reflection.
+
+**23:** [Beholding that gate] resembling a palace on Kailāsa (kailāsanilayaprakhyam), scraping the sky, as it were (ālikhantam ivāmbaram), and seeming to hold up the firmament (dhriyamāṇam ivākāśam) with its lofty palatial edifices—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -862,6 +984,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भोगवति (पाताळलोक)यु नागगळिन्द तुम्बिरुवन्तॆ, लङ्कापट्टणवु घोररूपिगळाद राक्षसरिन्द निबिडवागित्तु. अदु विश्वकर्मनिन्द सुन्दरवागि निर्मिसल्पट्टु ऊहॆगू निलुकदष्टु चॆलुवागित्तु. हिन्दॆ आ पट्टणवु कुबेरन वासस्थानवागित्तु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** and [the city] teeming with dreadful rākṣasas as Bhogavatī teems with nāgas, inconceivable (acintyām), well-constructed, distinct, and formerly inhabited by Kubera (kuberādhyuṣitām purā)—
+
+**25:** [Beholding that city] guarded by many heroic, fanged (daṃṣṭrābhiḥ) dreadful rākṣasas with pikes and paṭṭiśa spears in their hands (śūlapaṭṭiśapāṇibhiḥ), like a cavern guarded by venomous serpents (guhām āśīviṣair iva)—
 </details>
 </details>
 
@@ -919,6 +1049,12 @@ by courageous, horrible serpents and Rakshasas with mouths with sharp teeth like
 (spears) in their hands. Hanuma saw that Lanka's great protection and the ocean and Ravana the horrible enemy
 and thought thus.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and surveying her mighty defense (mahatīṃ guptim), the ocean, and the dreadful foe Rāvaṇa, the monkey reflected:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -964,6 +1100,12 @@ and thought thus.
 "Even if Vanaras were to come here they would not meet with success. It is not possible even for Devas to be victorious
 against Lanka in war".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if the monkeys were to come here (āgatyāpīha), they would prove unavailing (nirarthakāḥ); for Laṅkā cannot indeed be conquered in battle even by the gods (surair api).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1005,6 +1147,12 @@ kiM karishhyati saH mahaabaahuH raaghavaH* = what can that Sri Rama with mighty 
 
 "Even if He reaches this very difficult and impenetrable Lanka ruled by Ravana, what can that Sri Rama with mighty
 arms do"?
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even if the mighty-armed Rāghava were to reach (prāpyāpi) this unassailable (aviṣamām), impregnable Laṅkā ruled by Rāvaṇa, what could he accomplish?
 </details>
 </details>
 
@@ -1055,6 +1203,12 @@ gift; *na bhedasya* = no (opportunity for) dissension; *yuddhasya* = (an opportu
 "In the matter of overcoming rakshasas, there seems to be no opportunity for persuasion, gifts, dissension or
 even war".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+No scope (avakāśaḥ) for conciliation (sāmnaḥ) is found among the rākṣasas, nor is any seen for gift-giving (dānasya), sowing dissension (bhedasya), or even open war (yuddhasya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1097,6 +1251,12 @@ Sugriva.
 
 "Only four great Vanaras can come here - the son of Vali (Angada), Nila, myself and the wise king Sugriva".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For only four swift monkeys (caturṇām eva vānarāṇām) have the power of access (gatiḥ) [here]: the son of Vālin [Aṅgada], Nīla, myself, and the wise king [Sugrīva].”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1134,6 +1294,12 @@ if she is alive or; *na* = not; *chintayishhyaami* = I will think; *tatriava* = 
 **अनुवादः**
 
 "I will first find out if Seetha is alive or not. I will think all this later, after seeing that daughter of Janaka".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“First let me ascertain (yāvaj jānāmi) regarding Vaidehī whether she lives or not; only then (tatraiva), after seeing Janaka's daughter, shall I deliberate [further].”
 </details>
 </details>
 
@@ -1178,6 +1344,12 @@ _________________
 After that, that elephant among monkeys Hanuma who was interested in the welfare of Sri Rama, stood on that mountain
 peak and thought for an instant.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that elephant among monkeys (kapikuñjaraḥ), standing upon the peak of that mountain, reflected for a moment (muhūrtam) upon the success (abhyudayam) of Rāma:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1216,6 +1388,12 @@ ruupeNa* = in this appearance; *purii* = the city; *rakshasaam* = of rakshasa; *
 **अनुवादः**
 
 "It is not possible for me to enter the city of ogres protected by cruel and strong rakshasas, with this appearance".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In this [large] form of mine, the city of the rākṣasas, guarded by cruel rākṣasas endowed with strength, cannot be entered (na śakyā praveṣṭum) by me.
 </details>
 </details>
 
@@ -1258,6 +1436,12 @@ _________________
 
 "All these mighty ogres with extraordinary energy and great prowess are to be cheated by me while engaged in the
 search of Seetha".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The rākṣasas of mighty energy, great valor, and strength must all be deceived (vañcanīyāḥ) by me as I search thoroughly (parimārgatā) for Jānakī.
 </details>
 </details>
 
@@ -1308,6 +1492,12 @@ mayaa* = by me; *praveshhTum* = to enter; *laN^kaapurii* = city of Lanka; *laksh
 "To achieve this great deed successfully, entering the city of Lanka in a small form at night is a timely thing
 to do" .
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To accomplish my great task (kṛtyaṃ sādhayituṃ mahat), it is opportune (prāptakālam) for me to enter the city of Laṅkā by night in a form at once perceptible and imperceptible (lakṣyālakṣyeṇa rūpeṇa).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1356,6 +1546,12 @@ or asuras; *chintayaamaasa* = (and) thought; *muhurmuhuH* = repeatedly.
 Hanuma saw such that city of Lanka, which was difficult to overcome even for Devas or asuras, and thought thus
 repeatedly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that city of such a kind, unassailable even by gods and asuras (durādharṣāṃ surāsuraiḥ), Hanumān reflected, sighing (viniḥśvasya) again and again:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1400,6 +1596,12 @@ Seetha; *janakaatmajaam* = the daughter of Janaka; *adR^ishhTaH* = unseen; *dura
 
 "By what idea can I see Seetha the daughter of Janaka, unseen by the wicked Ravana, the king of the ogres.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By what expedient (kenopāyena) may I behold Maithilī, daughter of Janaka, unseen (adṛṣṭaḥ) by the wicked-souled Rāvaṇa, lord of rākṣasas?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1441,6 +1643,12 @@ knower of self; *na vinashyet* = not be destroyed; *pashyeyam ekashcha* = (How) 
 
 "How can the task of Sri Rama, one who knows self, not be destroyed? How can I alone see Seetha alone in a place
 devoid of people?."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How may the enterprise (kāryam) of Rāma, knower of the Self (viditātmanaḥ), not perish? Alone (ekaḥ) let me behold Janaka's daughter alone (ekām) in a solitary place (rahite).
 </details>
 </details>
 
@@ -1491,6 +1699,12 @@ deshakaalavirodhitaaH* = being against the place and time; *bhuutaaH* = ready; *
 "With a mediator who has an unsteady and gloomy mind working against time and place, tasks that are otherwise
 ready to succeed get harmed, like the darkness that gets destroyed at dawn".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enterprises already nigh accomplished (bhūtāś cārthāḥ) perish when thwarted by place and time (deśakālavirodhitāḥ) upon meeting with a faltering envoy (viklavaṃ dūtam), like darkness at sunrise.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1532,6 +1746,12 @@ respected by scholars; *ghaatayanti hi* = will also harm; *kaaryaaNi* = tasks (d
 
 "Even a decided mind will not shine when thinking about gain and loss. Mediators who are respected by scholarly
 people will also harm tasks due to their arrogance."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In deciding between advantage and disadvantage (arthānarthāntare), even a settled counsel (buddhir niścitāpi) does not shine [when entrusted to a foolish envoy]; envoys who fancy themselves wise (paṇḍitamāninaḥ) ruin enterprises here.
 </details>
 </details>
 
@@ -1579,6 +1799,12 @@ people will also harm tasks due to their arrogance."
 "How will the task at hand be not harmed? How will my mind not get gloominess? How will not the crossing of ocean
 go waste?."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How may the enterprise not be ruined? How may there be no bungling (vaiklavyam)? And how indeed may my leaping across the ocean (laṅghanaṃ ca samudrasya) not prove in vain (vṛthā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1598,6 +1824,12 @@ go waste?."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यदि राक्षसोंने मुझे देख लिया तो रावणका अनर्थ चाहनेवाले उन विख्यातनामा भगवान् श्रीरामका यह कार्य सफल न हो सकेगा ॥ ४२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If I am seen by the rākṣasas, this enterprise of Rāma, knower of the Self, who desires the ruin of Rāvaṇa (rāvaṇānartham icchataḥ), would become fruitless (vyartham).”
 </details>
 </details>
 
@@ -1652,6 +1884,12 @@ will become wasteful."
 "It is not possible to be in Lanka even in the form of a rakshasa. What to say about being there in any other
 form?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For it is impossible to remain anywhere here unperceived (avijñātena) by the rākṣasas, even in the form of a rākṣasa—how much less in any other form (kim utānyena kenacit)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1674,6 +1912,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मेरा तो ऐसा विश्वास है कि राक्षसोंसे छिपे रहकर वायुदेव भी इस पुरीमें विचरण नहीं कर सकते । यहाँ कोई भी ऐसा स्थान नहीं है, जो इन भयंकर कर्म करनेवाले राक्षसोंको ज्ञात न हो ॥ ४४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even the wind (vāyur api) could not roam here unknown—such is my conviction (matir mama); for nothing here is unknown (nāviditaṃ kiṃcit) to the rākṣasas of dreadful deeds.
 </details>
 </details>
 
@@ -1730,6 +1974,12 @@ of my usual form; *upayaasyaami* = I can obtain; *vinaasham* = destruction; *art
 
 "If I stay here with my usual form, I can be destroyed. The task of the Lord will also be harmed."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If I remain here clothed in my own [massive] form (svena rūpeṇa saṃvṛtaḥ), I shall meet with ruin (vināśam upayāsyāmi), and my lord's purpose (bhartur arthaḥ) will be lost (hāsyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1772,6 +2022,12 @@ Sri Rama.
 
 "For that reason, I will become small in my appearance and will enter Lanka at night for the success of the task
 of Sri Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, assuming a diminutive stature (hrasvatāṃ gataḥ) in my own [monkey] form at night (rajanyām), I shall descend upon Laṅkā (laṅkām abhipatiṣyāmi) for the accomplishment of Rāghava's purpose.
 </details>
 </details>
 
@@ -1820,6 +2076,12 @@ of Ravana; *drakshyaami* = I can see; *janakaatmajaam* = Seetha.
 
 "Entering the unapproachable city of Lanka at night and searching all the mansion of Ravana, I can see Seetha."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering Rāvaṇa's most unassailable (sudurāsadām) city by night, and entering [or searching] every mansion (bhavanaṃ sarvam), I shall behold Janaka's daughter.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1848,6 +2110,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ऐसा निश्चय करके वीर वानर हनुमान् विदेहनन्दिनीके दर्शनके लिये उत्सुक हो उस समय सूर्यास्तकी प्रतीक्षा करने लगे ॥ ४८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus resolved (iti niścitya), the heroic monkey Hanumān, eager to behold Vaidehī (vaidehyā darśanotsukaḥ), then awaited (ācakāṅkṣe) the setting of the sun (sūryasyāstamayam).
 </details>
 </details>
 
@@ -1904,6 +2172,12 @@ to that of a cat; *babhuuva* = became; *adhuta darshanaH* = a wonderful sight (t
 After the sun had set, Hanuma reduced His body at night with a size equal to that of a cat and became a wonderful
 sight to behold.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the sun had set (sūrye cāstaṃ gate), Māruti contracted his body (dehaṃ saṃkṣipya) at night and became the size of a cat (vṛṣadaṃśakamātraḥ), wondrous to behold (adbhutadarśanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1951,6 +2225,12 @@ _________________
 
 The courageous Hanuma quickly flew during evening time and entered the beautiful city with well divided main pathways.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the hour of evening twilight (pradoṣakāle), valorous Hanumān swiftly (tūrṇam) sprang up and entered the lovely city with its well-divided royal highways (pravibhaktamahāpathām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1978,6 +2258,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ लङ्कापट्टणदल्लि प्रासादगळु सालु-सालागि शोभिसुत्तिद्दवु. आ प्रासादगळु चिन्नद मत्तु बिळिय कम्बगळिन्दलू, सुवर्णमयवाद जालरिगळिन्दलू अलङ्कृतवागिद्दु, गन्धर्व नगरदन्तॆ अद्भुतवागित्तु.॥51॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+overspread with rows of palaces (prāsādamālāvitatām), with pillars resembling gold (stambhaiḥ kāñcanasaṃnibhaiḥ), and resembling a city of the Gandharvas (gandharvanagaropamām) with its lattices shining like burnished gold (śātakumbhanibhair jālaiḥ).
 </details>
 </details>
 
@@ -2050,6 +2336,14 @@ rakshasas; *shushubhire* = shone; *talaiH* = with top portions; *vaiDuuryamaNi c
 There in that city of Lanka, the houses of rakshasas shone with top portions painted by cats-eyes and emeralds
 and decorated by groups of pearls.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**52:** He beheld the great city with seven-storied and eight-storied (saptabhaumāṣṭabhaumaiḥ) [palaces], having floors inlaid with crystal (talaiḥ sphaṭikasaṃkīrṇaiḥ) and adorned with gold (kārtasvaravibhūṣitaiḥ).
+
+**53:** And with those [floors] variegated with cat's-eye gems (vaidūryamaṇicitraiḥ) and adorned with festoons of pearls (muktājālavibhūṣitaiḥ), those mansions of the rākṣasas shone brightly (śuśubhire) there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2097,6 +2391,12 @@ Lanka; *sarvataH* = in all directions.
 
 Golden archways with strange hues illuminated the well decorated city of Lanka in all directions.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the variegated golden archways (kāñcanāni vicitrāṇi toraṇāni) of the rākṣasas illuminated (udyotayām āsuḥ) Laṅkā, which was adorned on every side.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2142,6 +2442,12 @@ Golden archways with strange hues illuminated the well decorated city of Lanka i
 
 Hanuma on seeing the unimaginable city of Lanka with a wonderful appearance became sad thinking about the prospect
 of capturing Lanka and also happy being eager to see Seetha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Laṅkā of inconceivable and wondrous form (acintyām adbhutākārām), the great monkey, eager to behold Vaidehī, grew at once dejected and joyful (viṣaṇṇo hṛṣṭaś ca).
 </details>
 </details>
 
@@ -2200,6 +2506,12 @@ of buildings; *mahaarhajaambuunadajaalatoraNaam* = having golden windows and doo
 
 Hanuma saw that city of Lanka of great fame, with white, closely built buildings having golden windows and doorways
 of great value, consisting of ogres of great strength and ruled by the hands of Ravana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He [approached that city] garlanded with white, closely serried aerial palaces (pāṇḍurāviddhavimānamālinīm), having latticed archways of priceless jāmbūnada gold (mahārhajāmbūnadajālatoraṇām), illustrious, protected by Rāvaṇa's arms, and well guarded by night-roaming rākṣasas of dreadful might.
 </details>
 </details>
 
@@ -2263,6 +2575,12 @@ a swan; *popluuyamaanam* = swimming; *sarasi* = in a lake.
 The shining moon too rose up with its many thousands of rays, as though performing help to Hanuma, being at the
 middle of its retinue of stars and covering the earth with a canopy of light. That Hanuma saw the moon rising
 up with a glow of a conch shell, shining with a milky white hue of a lotus-fiber, like a swan swimming in a lake.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The moon too (candro 'pi), thousand-rayed (anekasahasraraśmiḥ), shining amidst the hosts of stars (tārāgaṇair madhyagataḥ) and overspreading the worlds with a canopy of moonlight (jyotsnāvitānena), rose up (uttiṣṭhate) as though rendering ministership (sācivyam iva kurvan) to him.
 </details>
 </details>
 
@@ -2332,6 +2650,12 @@ as milk or lotus-fibre, and looking like a swan swimming in a lake.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऎरडने सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That foremost hero among monkeys (kapipravīraḥ) beheld the moon rising (udgacchamānam) and shining brightly (vyavabhāsamānam), radiant as a conch-shell (śaṅkhaprabham) and white as milk or a lotus-stalk (kṣīramṛṇālavarṇam), like a swan swimming to and fro in a lake (poplūyamānaṃ sarasīva haṃsam).
 </details>
 </details>
 

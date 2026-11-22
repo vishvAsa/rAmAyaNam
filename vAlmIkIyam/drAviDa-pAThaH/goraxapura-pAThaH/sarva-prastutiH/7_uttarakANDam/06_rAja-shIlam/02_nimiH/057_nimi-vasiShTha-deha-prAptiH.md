@@ -36,6 +36,12 @@ title = "०५७ निमि-वसिष्ठ-देह-प्राप्�
 
 आ दिव्य हागू अद्भुत कथॆयन्नु केळि लक्ष्मणनिगॆ बहळ सन्तोषवायितु. अवनु श्रीरघुनाथनल्लि केळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that heavenly-seeming tale of wondrous import (divya-saṅkāśāṃ kathām adbhuta-darśanām), Lakṣmaṇa, exceedingly pleased (parama-prītaḥ), spoke these words to Rāghava:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ title = "०५७ निमि-वसिष्ठ-देह-प्राप्�
 
 काकुत्स्थने! देवतॆगळिन्द सम्मानितराद आ ब्रह्मर्षि वसिष्ठरु मत्तु राजर्षि निमि तम्म-तम्म शरीर बिट्टु मत्तॆ नूतन शरीरगळन्नु हेगॆ पडॆदरु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having laid aside their bodies (nikṣipta-dehau), O Kākutstha, how did those two—the brahmin and the king (tau dvija-pārthivau), esteemed by the gods (deva-sammatau)—again attain union with a body (punar dehena saṃyogam)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +97,12 @@ title = "०५७ निमि-वसिष्ठ-देह-प्राप्�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन प्रश्नॆ केळि सत्यपराक्रमि श्रीरामनु महात्मा वसिष्ठरु शरीर पडॆद सम्बन्धवाद कथॆयन्नु मुन्दुवरॆसिदनु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his (tasya tad bhāṣitaṃ śrutvā), Rāma of unfailing valor (satya-parākramaḥ) proceeded to narrate that remaining tale of the great-souled Vasiṣṭha (vasiṣṭhasya mahātmanaḥ):
 </details>
 </details>
 
@@ -114,6 +132,12 @@ _________________
 
 रघुश्रेष्ठ! महात्मा मित्र मत्तु वरुण देवन तेज (वीर्य)दिन्द कूडिद आ प्रसिद्ध कुम्भदिन्द इब्बरु तेजस्वी ब्राह्मणरु प्रकटरादरु. अवरिब्बरू ऋषिगळल्लि श्रेष्ठरागिद्दरु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In that jar, O foremost of the Raghus (yas tu kumbho raghuśreṣṭha), filled with the seed of those two great-souled gods (tejaḥ-pūrṇo mahātmanoḥ), two radiant brahmins, foremost of sages, came into being (tejomayau viprau sambhūtāv ṛṣi-sattamau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +162,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मॊदलिगॆ आ घटदिन्द महर्षि अगस्त्यरु उत्पन्नरादरु हागू मित्रनल्लि ‘नानु निम्म पुत्रनल्ल’ ऎन्दु हेळि अल्लिन्द बेरॆडॆगॆ हॊरटुहोदरु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“First there arose within it the blessed sage Agastya (pūrvaṃ samabhavat tatra hy agastyo bhagavān ṛṣiḥ); saying to Mitra, ‘I am not your son’ (nāhaṃ sutas tavety uktvā), he departed thence (tasmād apākramat).
 </details>
 </details>
 
@@ -164,6 +194,12 @@ _________________
 
 ऊर्वशिय निमित्तदिन्द मॊदले आ कुम्भदल्लि मित्रन तेज स्थापितवागित्तु. अनन्तर आ कुम्भदल्लि वरुणदेवन तेजवू सम्मिलितवागित्तु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For that seed of Mitra (tad dhi tejas tu mitrasya), deposited earlier on account of Urvaśī (urvasyāḥ pūrvam āhitam), mingled in that very jar (tasmin samabhavat kumbhe) where the seed of Varuṇa was (tat tejo yatra vāruṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +224,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर कॆलवु कालदल्लि मित्रावरुणर आ वीर्यदिन्द तेजस्वी वसिष्ठ मुनिय प्रादुर्भाववायितु. अवरु इक्ष्वाकु कुलद गुरु अथवा पुरोहितरादरु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then after some time (kasyacit tv atha kālasya), Vasiṣṭha, sprung from Mitra and Varuṇa (mitrāvaruṇa-sambhavaḥ), endowed with brilliance (tejasā yuktaḥ), was born as the tutelary deity of the Ikṣvākus (jajñe ikṣvāku-daivatam).
 </details>
 </details>
 
@@ -214,6 +256,12 @@ _________________
 
 सौम्य लक्ष्मण! महातेजस्वी राजा इक्ष्वाकु अवरु हुट्टिदाक्षण नम्म कुलद हितक्कागि अवरन्नु पुरोहितरन्नागि माडिकॊण्डनु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Him, blameless (aninditam), the moment he was born (jāta-mātram), the greatly resplendent Ikṣvāku chose as family priest (vavre purodhasam), O gentle one, for the prosperity of this lineage of ours (vaṃśasyāsya bhavāya naḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +286,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सौम्य! हीगॆ नूतन शरीरदिन्द कूडिद वसिष्ठ मुनिगळ उत्पत्तियन्नु तिळिसिरुवॆ. ईग निमिय वृत्तान्तवन्नु केळु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus has been related to you, O gentle one (kathitaḥ ... saumya), the emergence of the great-souled Vasiṣṭha in a wondrous new body (apūrva-dehasya vasiṣṭhasya ... nirgamaḥ); now listen to how it fared with Nimi (nimeḥ śṛṇu yathā ’bhavat)!
 </details>
 </details>
 
@@ -264,6 +318,12 @@ _________________
 
 निमिराजनु देहदिन्द बेरॆयादुदन्नु नोडिद विद्वांसराद ऎल्ल ऋषिगळु स्वतः यज्ञद दीक्षॆ कैगॊण्डु आ यज्ञवन्नु पूर्णगॊळिसिदरु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding the king disembodied (dṛṣṭvā videhaṃ rājānam), all those wise sages (ṛṣayaḥ sarva eva te ... manīṣiṇaḥ) duly engaged him in the sacrificial consecration (taṃ ca te yojayām āsur yāga-dīkṣām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -288,6 +348,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रेष्ठ महर्षिगळू, पुरवासिगळू, सेवकरॊन्दिगॆ गन्ध, पुष्प, वस्त्रसहित निमिराजन आ शरीरवन्नु ऎण्णॆय कॊप्परिगॆयल्लि सुरक्षितवागि इरिसिदरु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And those foremost of brahmins (dvijottamāḥ), accompanied by citizens and royal retainers (paura-bhṛtya-samanvitāḥ), preserved that body of the king (taṃ ca dehaṃ narendrasya rakṣanti sma) with perfumes, garlands, and garments (gandhair mālyaiś ca vastraiś ca).
 </details>
 </details>
 
@@ -314,6 +380,12 @@ _________________
 
 बळिक यज्ञ समाप्तवादाग अल्लि भृगु हेळिदनु - राजन जीवात्मवन्नु सम्बोधिसुत्ता राजने! नानु निन्न मेलॆ बहळ सन्तुष्टनागिद्देनॆ; आद्दरिन्द नीनु बयसुवॆयादरॆ निन्न जीव चैतन्यवन्नु पुनः ई शरीरदल्लि नानु तुम्बि कॊडुवॆनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, when the sacrifice was concluded (tato yajñe samāpte tu), Bhṛgu spoke these words there: ‘I shall bring back your life-spirit (ānayiṣyāmi te cetaḥ); I am pleased with you, O king (tuṣṭo ’smi tava pārthiva)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -338,6 +410,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भृगुगळॊन्दिगॆ इतर देवतॆगळॆल्लरू अत्यन्त प्रसन्नरागि निमिय जीवात्मनल्लि हेळिदरु - राजर्षिये! निन्न जीव-चैतन्यवन्नु ऎल्लि स्थापिसबेकॆन्दु वरवन्नु केळु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And all the gods, well pleased (suprītāś ca surāḥ sarve), spoke thus to Nimi’s spirit (nimeś cetas tathābruvan): ‘Choose a boon, O royal sage (varaṃ varaya rājarṣe)—where shall your consciousness be established (kva te ceto nirūpyatām)?’
 </details>
 </details>
 
@@ -364,6 +442,12 @@ _________________
 
 समस्त देवतॆगळु हीगॆ हेळिदाग निमिय जीवात्मनु अवरल्लि हेळिदनु - सुरश्रेष्ठरे ! नानु समस्त प्राणिगळ नेत्रगळल्लि वासिसलु बयसुत्तेनॆ.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus addressed by all the gods (evam uktaḥ suraiḥ sarvaiḥ), the spirit of Nimi then replied (nimeś cetas tadābravīt): ‘May I dwell in the eyes of all living beings (netreṣu sarva-bhūtānāṃ vaseyam), O foremost of the gods (surasattamāḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -389,6 +473,12 @@ _________________
 
 आग देवतॆगळु निमिय जीवात्मनल्लि हेळिदरु - बहळ ऒळ्ळॆयदु, नीनु वायुरूपवागि समस्त प्राणिगळ कण्णुगळल्लि विचरिसुत्ता इरुवॆ.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘So be it!’ (bāḍham ity eva) the gods replied to Nimi’s spirit (vibudhā nimeś cetas tadā ’bruvan): ‘Having become wind (vāyu-bhūtaḥ), you shall move within the eyes of all beings (netreṣu sarva-bhūtānāṃ ... cariṣyasi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -413,6 +503,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पृथिवीनाथने! वायुरूपदिन्द सञ्चरिसुव निनगॆ विश्रान्तिगागि प्राणिगळु पदे-पदे रॆप्पॆगळन्नु मुच्चिकॊळ्ळुत्ता इरुवरु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And on your account (tvat-kṛte ca), O lord of earth (pṛthivīpate), eyes shall blink again and again (nimiṣyanti cakṣūṃṣi ... muhur muhuḥ) for the sake of rest (viśramārtham), through you moving within them as wind (vāyu-bhūtena caratā).’
 </details>
 </details>
 
@@ -440,6 +536,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि देवतॆगळॆल्लरू हॊरटु होदरु. मत्तॆ महात्मा ऋषिगळु निमिय शरीरवन्नु अरणिय मेलॆ इट्टु वेगवागि कडॆयतॊडगिदरु.॥17½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having spoken thus, all the gods departed whence they had come (sarve jagmur yathāgatam); and the great-souled sages took up the body of Nimi (nimer dehaṃ samāharan).
 </details>
 </details>
 
@@ -473,6 +575,16 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हिन्दिनन्तॆ मन्त्रोच्चारणपूर्वक होम माडुत्ता आ महात्मरु निमिय पुत्रन उत्पत्तिगागि अरणिमन्थन प्रारम्भिसिदाग अदरिन्द महातेजस्वी मिथि ऎम्बुवनु उत्पन्ननादनु. जन्मक्कॆ ई अद्भुत कारणवाद्दरिन्द अवनु जनकनॆन्दादनु हागू विदेह (जीवरहित शरीर)दिन्द प्रकटनाद कारण अवनन्नु वैदेह ऎन्दू हेळलायितु. हीगॆ मॊदलु विदेहराजा जनकन हॆसरु महातेजस्वी मिथि ऎन्दायितु. अवनिन्द ई जनकवंश मैथिलवॆन्दायितु.॥18-20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “Placing a fire-drill therein (araṇiṃ tatra nikṣipya), those great-souled ones performed a churning with power (mathanaṃ cakrur ojasā), accompanied by mantras and oblations (mantra-homaiḥ), for the sake of a son to Nimi (putra-hetor nimes tadā).
+
+**19:** “As the fire-stick was being churned (araṇyāṃ mathyamānāyām), there manifested a sage of great austerity (prādurbhūto mahātapāḥ); because of the churning they called him Mithi (mathanān mithir ity āhuḥ), because of his wondrous birth he became Janaka (jananāj janako ’bhavat), and because he was born from a disembodied one (yasmād videhāt sambhūtaḥ), he was celebrated as Vaideha (vaidehas tu tataḥ smṛtaḥ).
+
+**20:** “Thus did the first King Janaka of Videha come into being (videha-rājaś ca janakaḥ pūrvako ’bhavat), greatly resplendent, named Mithi (mithir nāma mahātejāḥ); through him this lineage became known as Maithila (tenāyaṃ maithilo ’bhavat).”
 </details>
 </details>
 

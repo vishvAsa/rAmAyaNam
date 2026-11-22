@@ -98,6 +98,14 @@ suutam acodayat* = thus, at charioteer, drove [him crazy.]
 On seeing Rama that bawling Khara raised his string-taut bow that makes an ass-like braying twang, drove
 his charioteer crazy saying, "drive to the fore of that Rama..." [3-25-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Having arrived at the hermitage (āśramam āgamya) along with his vanguard (saha puraḥsaraiḥ), Khara beheld that wrathful Rāma, the slayer of foes (ripu-ghātinam), standing with his bow firmly grasped (avaṣṭabdha-dhanum).
+
+**2:** Seeing him, [Khara] raised his strung bow (saguṇaṃ cāpam udyamya) of harsh twang (khara-niḥsvanam) and urged his charioteer (sūtam acodayat), saying, “Drive [the chariot] straight toward Rāma (rāmasyābhimukhaṃ codyatām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -142,6 +150,12 @@ is, bow, while swaying, standing; *to there; *turagaan sam acodayat* = horses, w
 
 On the orders of Khara the charioteer drove the horses to there where the mighty armed Rama is standing
 single-handedly while swaying his bow. [3-25-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Khara's command (kharasyājñayā), that charioteer urged on the steeds (turagān samacodayat) toward the spot where mighty-armed Rāma stood alone, shaking his bow (eko dhunvan dhanuḥ sthitaḥ).
 </details>
 </details>
 
@@ -192,6 +206,12 @@ avaarayan* = around, encircled.*
 On seeing Khara descending on Rama then all those nightwalkers who are the deputies of Khara encircled
 Khara venting out loud battle cries. [3-25-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him sally forth (taṃ niṣpatitaṃ dṛṣṭvā), the night-stalkers—his ministers (sacivāḥ)—uttered a mighty roar (muñcamānā mahā-nādam) and surrounded him on all sides (sarvataḥ paryavārayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +258,12 @@ anga* = up-shot, copper, coloured bodied one - Mars; *iva* = like; *babhuuva* = 
 Khara staying on his chariot in the thick of those demons appeared to be like coppery-red planet Mars
 up-shot in the thick of stars. [3-25-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounted on his chariot (ratha-gataḥ) in the midst of those yātudhānas, Khara shone like the red-limbed planet Mars (lohitāṅgaḥ) risen in the midst of the stars (madhye tārāṇām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -283,6 +309,12 @@ loud, battle cry, blared.
 
 In his proneness to war then Khara assaulted that uniquely forceful Rama with a thousand arrows and
 blared a roaring battle cry. [3-25-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having assailed Rāma of peerless vigour (rāmam apratimaujasam) with a thousand arrows (śara-sahasreṇa) in battle, Khara uttered a mighty roar (mahā-nādaṃ nanāda).
 </details>
 </details>
 
@@ -334,6 +366,12 @@ bhiima dhanvaanam* = one with - horrific, bow; *dur jayam* = one impossible, to 
 All of those infuriated nightwalkers then incessantly rained diverse weapons on that invincibleRama
 who is handling a horrific bow. [3-25-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then all the enraged night-stalkers (kruddhāḥ sarve niśācarāḥ) showered that invincible Rāma of dread bow (taṃ bhīma-dhanvānaṃ rāmaṃ durjayam) with weapons of many kinds (nānā-vidhaiḥ śastraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -378,6 +416,12 @@ shuulaiH praasaiH khaDgaiH parashvadhaiH* = with bludgeons, lances, tridents, da
 
 Those demons that are already caught up with rancour bombarded Rama with bludgeons, lances, tridents,
 darts and hatchets. [3-25-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with fury (roṣa-tatparāḥ), the rākṣasas in battle struck the hero (śūraṃ nijaghnuḥ) with iron mallets (mudgarair āyasaiḥ), pikes (śūlaiḥ), lances (prāsaiḥ), swords (khaḍgaiḥ), and battle-axes (paraśvadhaiḥ).
 </details>
 </details>
 
@@ -431,6 +475,12 @@ Those massive bodied and exceptionally mighty demons came jostling like immense 
 to kill Rama in that war, while some mounted on chariots and horsebacks, and some more riding mountain-ridges
 like elephants rushed in on Rama. [3-25-9,10a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling storm-clouds (balāhaka-saṃkāśāḥ), huge-bodied (mahā-kāyāḥ) and of mighty strength (mahā-balāḥ), they rushed against Kākutstha (abhyadhāvanta kākutstham) on chariots and horses (rathair vājibhir eva ca)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -476,6 +526,12 @@ shara varSaaNi* = arrow, torrents; *vyasR^ijan* = outpoured.
 
 And those bands of demons have outpoured arrows on Rama, as with enormous black-clouds disemboguing
 torrents on a lofty mountain. [3-25-10b, 11a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And on elephants resembling mountain peaks (gajaiḥ parvata-kūṭābhaiḥ), eager to slay Rāma in battle (rāmaṃ yuddhe jighāṃsavaḥ). Those hordes of rākṣasas (rakṣasāṃ gaṇāḥ) loosed showers of arrows upon Rāma (rāme śara-varṣāṇi vyasṛjan),
 </details>
 </details>
 
@@ -527,6 +583,12 @@ When hemmed in with those grisly-looking demons Rama appeared like Rudra surroun
 called prathama gaNa-s, on certain days, whereupon he starts his all-destructive
 cosmic-dance. [3-25-11b, 12a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like great clouds raining torrents upon a lordly mountain (śailendram iva dhārābhir varṣamāṇā mahā-ghanāḥ). Surrounded by all those fierce-looking rākṣasas (sarvaiḥ parivṛto rākṣasaiḥ krūra-darśanaiḥ), Rāma—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -572,6 +634,12 @@ taken [pre-empted.]
 
 That Raghava has pre-empted those arrows discharged by the demons with his excruciatingly pointed arrows
 as an ocean would do with the river's onrush. [3-25-12b, 13a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Shone] like Mahādeva encircled by troops of his attendants (vṛtaḥ pāriṣadāṃ gaṇaiḥ) on the sacred lunar days (tithiṣu). And those weapons hurled by the yātudhānas (tāni muktāni śastrāṇi yātudhānaiḥ), Rāghava—
 </details>
 </details>
 
@@ -621,6 +689,12 @@ gaatraH san* = gashed, bodied, even if; *saH raamaH* = he, that Rama; *pra diipt
 Even if his body is gashed with those gruesome assault weapons Rama is not enfeebled, as with the enormous
 Mt. Meru that can withstand even if battered by very many highly blazing thunderbolts of Indra. [3-25-13,
 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Received with his shafts (pratijagrāha viśikhaiḥ), even as the ocean receives the torrents of rivers (nady-oghān iva sāgaraḥ). Though his limbs were pierced (bhinna-gātraḥ) by those dreadful missiles (taiḥ praharaṇair ghoraiḥ), he did not waver (na vivyathe)—
 </details>
 </details>
 
@@ -674,6 +748,12 @@ Rama is not fading away like the evening sun but becoming more like blood red su
 blood' on his limbs suggests the covering of reddish flaring fire on all his limbs, as we say that evening
 sun is stained with blood and fire.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma [stood firm] like a great mountain struck by many blazing thunderbolts (pradīptair bahubhir vajrair iva mahācalaḥ). Pierced and smeared with blood in every limb (viddhaḥ kṣatajādigdhaḥ sarva-gātreṣu), Rāghava—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -718,6 +798,12 @@ R^iSayaH ca* = gods, celestials, saints, sages, also; *viSeduH* = are dispirited
 
 On seeing lone Rama beset by many demons, then the gods, celestials, saints and sublime-sages are dispirited.
 [3-25-15b, 16a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shone like the sun enveloped by evening clouds (saṃdhyābhrair divākara ivāvṛtaḥ). The gods, gandharvas, siddhas, and supreme sages (parama-ṛṣayaḥ) were cast into dejection (viṣeduḥ),
 </details>
 </details>
 
@@ -786,6 +872,14 @@ feathered; *kaancana bhuuSaNaan* = in gold, adorned; such arrows; *mumoca liilay
 In that war Rama sportily discharged eagle-feathered arrows adorned in gold which are unstoppable and
 intolerable, and which in simile are the leads of Time-god. [3-25-17b, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Seeing him alone (ekam) surrounded at that time by many thousands (sahasrair bahubhiḥ samāvṛtam). Then Rāma, filled with wrath (saṃkruddhaḥ) and bending his bow into a full circle (maṇḍalī-kṛta-kārmukaḥ),
+
+**17:** Loosed sharp arrows (sasarja niśitān bāṇān) by the hundreds and by the thousands (śataśo 'tha sahasraśaḥ)—irresistible (durāvārān), unbearable (durviṣahān), and resembling the nooses of Death (kāla-pāśopamān) in battle;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -830,6 +924,12 @@ made [flung,] tethers, as with; *rakSasaam praaNaan aadaduu* = demon's, lives, [
 
 Those arrows that are playfully discharged on the army of enemy have grabbed the lives of demons like
 the tethers flung by the Time-god. [3-25-18b, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With effortless playfulness (līlayā) he discharged shafts feathered with heron-plumes (kaṅka-patrān) and decked with gold (kāñcana-bhūṣaṇān). Those arrows, loosed by Rāma in sport (muktā rāmeṇa līlayā) into the enemy ranks (śatru-sainyeṣu)—
 </details>
 </details>
 
@@ -883,6 +983,12 @@ with flares equalling inflamed flames. [3-25-19b, 20a]
 The similitude between redness of blood and the redness of flaring fire is again suggested, as said
 at 3-25-14b, 15a above.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Snatched away the lives of the rākṣasas (ādadū rakṣasāṃ prāṇān) like nooses cast by Death (pāśāḥ kāla-kṛtā iva). Having cloven those demon bodies (bhittvā rākṣasa-dehāṃs tān), those blood-drenched arrows (śarā rudhirāplutāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -928,6 +1034,12 @@ lives, filchers of [resulted in]; *a sankhyeyaaH* = not, calculable; *saayakaaH 
 
 Innumerable and highly frightening arrows fusilladed from the nimbus of the bow of Rama that resulted
 as the filchers of the lives of demons. [3-25-20b, 21a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Coursing through the sky (antarikṣa-gatāḥ), shone with a splendour equal to blazing fire (dīptāgni-sama-tejasaḥ). And countless shafts of Rāma (asaṃkhyeyās tu rāmasya sāyakāḥ), from the circle of his bow (cāpa-maṇḍalāt)—
 </details>
 </details>
 
@@ -980,6 +1092,14 @@ heads [of demons,] also; *sa hasta aabharaNaan* = with, hand, ornaments; *bahuun
 In that war, shooting now with hundreds, and now with thousands of such arrows, Rama shredded those
 many bows, pinnacles of war-flags, armours and the like. And even shred are the heads of demons, along
 with their ornamented arms and thighs similar to the trunks of elephants. [3-25-21b, 22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Shot forth, exceedingly fierce (atīvogrāḥ) and robbing the rākṣasas of their lives (rakṣaḥ-prāṇāpahāriṇaḥ). With them, bows, banner-tops (dhvajāgrāṇi), shields (carmāṇi), and coats of mail (kavacāni ca),
+
+**22:** And arms decked with wrist-ornaments (bāhūn sahastābharaṇān) and thighs resembling elephant-trunks (ūrūn kari-karopamān), Rāma severed in battle by the hundreds and by the thousands (śataśo 'tha sahasraśaḥ).
 </details>
 </details>
 
@@ -1044,6 +1164,14 @@ Likewise, he even ripped off the elephants along with their riders, and the hors
 cavaliers. And on eliminating infantrymen in that war Rama led them to the abode of Yama, the Time-god.
 [3-25-23, 24] [3-25-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** Steeds in golden trappings (hayān kāñcana-saṃnāhān) yoked to chariots along with their charioteers (ratha-yuktān sasārathīn), elephants with their riders (gajāṃś ca sagajārohān), and horsemen together with their mounts (sahayān sādinas tadā)—
+
+**24:** Rāma's arrows, sped from his bowstring (guṇa-cyutāḥ), severed and pierced (cicchidur bibhiduś caiva); and slaying the foot-soldiers (padātīn) in battle, he dispatched them to the abode of Yama (anayad yama-sādanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1089,6 +1217,12 @@ cavaliers. And on eliminating infantrymen in that war Rama led them to the abode
 
 While ripped to pieces with tubular arrows, with arrows made of iron, and with sharp-edged and crescent-tipped
 arrows those demons have let out disgusting cries of anguish. [3-25-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, cloven (chidyamānāḥ) by iron-tipped nālīkas, all-iron nārācas (nālīka-nārācaiḥ), and sharp-pointed barbed vikarṇi shafts (tīkṣṇāgraiś ca vikarṇibhiḥ), the night-stalkers raised a dreadful cry of anguish (bhīmam ārta-svaraṃ cakruḥ).
 </details>
 </details>
 
@@ -1136,6 +1270,12 @@ lebhe* = pleasure, not, they have taken - disquieted.
 When those arrows that gore the critical parts are thus harrowing, that army is discomposed like a forest
 burnt to a cinder by wild-fire. [3-25-26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tormented by Rāma (arditaṃ rāmeṇa) with diverse vitals-piercing arrows (vividhair bāṇair marma-bhedibhiḥ), that army found no rest (na sukhaṃ lebhe), like a dry forest [consumed] by fire (śuṣkaṃ vanam ivāgninā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1174,6 +1314,12 @@ burnt to a cinder by wild-fire. [3-25-26]
 
 Some of the grotesquely sinewy and braving nightwalkers are highly enraged and dashed their darts, tridents,
 and hatchets towards Rama. [3-25-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some heroic night-stalkers of dreadful strength (bhīma-balāḥ śūrā rajanīcarāḥ), filled with supreme wrath (parama-kruddhāḥ), hurled lances, pikes, and battle-axes (prāsān śūlān paraśvadhān) at Rāma (rāmāya cikṣipuḥ).
 </details>
 </details>
 
@@ -1220,6 +1366,12 @@ ca = filched, lives, also.
 
 On fending off those weapons with his arrows that mighty armed and valorous Rama filched away their
 lives by shearing off their necks in that war. [3-25-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Parrying their weapons with his arrows (teṣāṃ bāṇaiḥ śastrāṇy āvārya), the valorous, mighty-armed [Rāma] (mahā-bāhur vīryavān) took their lives in battle (jahāra samare prāṇān) and severed their necks (ciccheda ca śirodharān).
 </details>
 </details>
 
@@ -1293,6 +1445,14 @@ eva* = to Khara, alone; *sharaNa artham abhyadhaavanta* = for shelter, seeking, 
 Those nightwalkers that are battered by those arrows and remaining there, they desperately rushed towards
 Khara alone seeking shelter. [3-25-30]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** With their heads severed (chinna-śirasaḥ) and their shields and bows cloven (chinna-carma-śarāsanāḥ), they fell to the earth (petur jagatyām) like trees uprooted by the wind of Garuḍa's wings (suparṇa-vāta-vikṣiptāḥ pādapā yathā).
+
+**30:** And whatever night-stalkers remained there (avaśiṣṭāś ca ye tatra), dejected (viṣaṇṇāḥ) and stricken by arrows (śarāhatāḥ), fled to Khara himself for refuge (kharam evābhyadhāvanta śaraṇārtham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1353,6 +1513,12 @@ where Rudra being the ultimate eliminator himself, angry rush of Yama towards Ru
 The second meaning can be expressed by substituting the word 'kruddha' with 'rudra' as in other mms
 than that of Gorakhpur version.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking up his bow (dhanur ādāya) and rallying all those [routing demons] (tān sarvān samāśvāsya), Dūṣaṇa, filled with fierce wrath (susaṃkruddhaḥ), rushed against the wrathful [Rāma] like wrathful Death himself (kruddhaṃ kruddha ivāntakaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1402,6 +1568,12 @@ towards rushed.
 Coming under the shelter of Duushana all of those demons are but emboldened and returned, and they once
 again rushed towards Rama with saala trees, palm trees and boulders as their weapons. [3-25-32]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Turning back again (nivṛttās tu punaḥ), all of them—rendered fearless by the support of Dūṣaṇa (dūṣaṇāśraya-nirbhayāḥ)—rushed straight at Rāma (rāmam evābhyadhāvanta), armed with sāla trees, palmyras, and boulders (sāla-tāla-śilāyudhāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1450,6 +1622,12 @@ created; *muncantaH* = released.
 
 Handling tridents, maces, and leashes those great-mighty demons have created torrents of arrows, missiles,
 trees and boulders, and inundated Rama in that war. [3-25-33, 34a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Holding pikes and mallets in their hands (śūla-mudgara-hastāś ca) and bearing nooses (pāśa-hastāḥ), those mighty warriors (mahā-balāḥ), loosing showers of arrows (śara-varṣāṇi) and showers of missiles (śastra-varṣāṇi) in battle—
 </details>
 </details>
 
@@ -1502,6 +1680,12 @@ one; *asya yuddham* = that, war; *mahaa ghoram babhuuva* = highly, gruesome, bec
 
 Again there chanced a highly gruesome war between Rama and those demons that is tumultuous, stunning,
 and a hair-raising. [3-25-34b, 35a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And hurling showers of trees and showers of rocks (druma-varṣāṇi muñcantaḥ śilā-varṣāṇi), [assailed him]. That battle became wondrous (adbhutam), tumultuous (tumulam), and hair-raising (roma-harṣaṇam)—
 </details>
 </details>
 
@@ -1566,6 +1750,16 @@ of demons from everywhere, with whom all the directions and inter-directions are
 are storming torrents of arrows, then that exceptionally forceful Rama made a thunderous sound and launched
 an extremely blazing missile among the gather of demons, called gandharva missile. [3-25-35b, 36, 37]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**35:** A dreadfully terrible [encounter] (mahā-ghoram) once again between this Rāma and those rākṣasas (rāmasyāsya punas teṣāṃ ca rakṣasām); enraged, they again assailed Rāghava from all sides (samantād rāghavaṃ punar ārdayan).
+
+**36:** Then, seeing all the cardinal and intermediate quarters (sarvā diśaḥ pradiśaś ca) completely hemmed in (samāvṛtāḥ) by rākṣasas who had closed in from every side (sarvataḥ prāptaiḥ), and enveloped by showers of arrows (śara-varṣābhir āvṛtaḥ)—
+
+**37:** —Uttering a terrible roar (kṛtvā bhairavaṃ nādam), that hero of mighty strength (mahā-balaḥ) nocked against the rākṣasas (samayojayad rākṣaseṣu) the supremely radiant Gāndharva missile (astraṃ parama-bhāsvaraṃ gāndharvam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1610,6 +1804,12 @@ thousands; *nir yayuH* = out, scurried; *samaagataiH baanaiH* = with arrived, ar
 
 Then from the nimbus of his bow, arrows in thousand have scurried out, and with them thus arrived all
 the ten sides are cramped up. [3-25-38]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon thousands of arrows (śara-sahasrāṇi) issued forth from the circle of his bow (cāpa-maṇḍalāt), and all ten directions (sarvā daśa diśaḥ) were filled with the converging shafts (bāṇair āpūryanta samāgataiḥ).
 </details>
 </details>
 
@@ -1658,6 +1858,12 @@ the ten sides are cramped up. [3-25-38]
 Either the drawing of those supreme arrows from the quiver, or the traction of bowstring on placing
 them, or unloosing them from the bow is unperceived by those demons that are harrowing under those arrows.
 [3-25-39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tormented by arrows (śarārditāḥ), those rākṣasas could not see him taking up the dreadful shafts (nādadānaṃ śarān ghorān) or loosing those foremost of arrows (vimuñcantaṃ śarottamān); they saw him only drawing his bow (vikarṣamāṇaṃ paśyanti).
 </details>
 </details>
 
@@ -1709,6 +1915,12 @@ to persevere spewing forth his arrows. [3-25-40]
 
 Dark grew the air with arrowy hail / Which hid the sun as with a veil. - Griffith.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A darkness of arrows (śarāndhakāram) shrouded the sky along with the sun (ākāśam āvṛṇot sadivākaram), while Rāma stood firm (babhūvāvasthitaḥ), as though effortlessly flinging those shafts (prakṣipann iva tān śarān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1757,6 +1969,12 @@ instantly, and huddles that are already felled with an instantaneity. [3-25-41]
 **टिप्पनी**
 
 Fiends wounded, falling, fallen, slain, / All in a moment, spread the plain, - Griffith.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With [demons] falling all at once (yugapat patamānaiś ca), struck down violently all at once (yugapac ca hatair bhṛśam), and lying fallen all at once (yugapat patitaiś caiva), the earth was strewn over (vikīrṇā vasudhābhavat).
 </details>
 </details>
 
@@ -1807,6 +2025,12 @@ and ripped. [3-25-42]
 **टिप्पनी**
 
 And thousands scarce alive were left / Mangled, and gashed, and torn, and cleft. - Griffith.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck down (nihatāḥ), fallen (patitāḥ), gasping with ebbing life (kṣīṇāḥ), severed (chinnāḥ), mangled (bhinnāḥ), and ripped asunder (vidāritāḥ), those rākṣasas were seen here and there by the thousands (tatra tatra sma dṛśyante sahasraśaḥ).
 </details>
 </details>
 
@@ -1902,6 +2126,18 @@ and strewn around. Also the boulders are pulverised, various amazing arrows have
 in many ways. Spread with such wreckage the earth has become horrifying for a glance. [3-25-43, 44,
 45, 46]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**43:** With turbaned heads (soṣṇīṣair uttamāṅgaiś ca) and arms decked with armlets (sāṅgadair bāhubhis tathā), with severed thighs and arms (ūrubhir bāhubhiś chinnaiḥ), and ornaments of diverse forms (nānā-rūpair vibhūṣaṇaiḥ)—
+
+**44:** With horses, foremost of elephants, and chariots shattered in pieces (hayaiś ca dvipa-mukhyaiś ca rathair bhinnair anekaśaḥ), and with yak-tail fans, parasols, and banners of many kinds (cāmara-vyajanaiś chatrair dhvajair nānā-vidhair api)—
+
+**45:** With pikes and paṭṭiśa spears cloven and struck down by Rāma's arrows (rāmeṇa bāṇābhihatair vicchinnaiḥ śūla-paṭṭiśaiḥ), with swords hacked to pieces (khaḍgaiḥ khaṇḍī-kṛtaiḥ), lances, and scattered battle-axes (vikīrṇaiś ca paraśvadhaiḥ)—
+
+**46:** With pulverized boulders (cūrṇitābhiḥ śilābhiś ca) and variegated arrows cloven in pieces (śaraiś citrair anekaśo vicchinnaiḥ), the broad earth (bhūmir vistīrṇā) became dreadful to behold in battle (abhūd bhayaṃkarā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1958,6 +2194,12 @@ to make a move towards Rama, the conqueror of enemy's capitals. [3-25-47]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तैदनॆय सर्ग सम्पूर्णवायितु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing them slain (tān dṛṣṭvā nihatān), all the [surviving] rākṣasas, stricken with extreme distress (paramāturāḥ), were unable to advance there (na tatra calituṃ śaktāḥ) against Rāma, the conqueror of hostile citadels (rāmaṃ para-puraṃ-jayam).
 </details>
 </details>
 

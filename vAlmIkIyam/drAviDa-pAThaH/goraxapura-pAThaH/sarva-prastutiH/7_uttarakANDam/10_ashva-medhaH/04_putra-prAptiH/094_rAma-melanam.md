@@ -36,6 +36,12 @@ title = "०९४ राम-मेलनम्"
 
 रात्रॆ कळॆदु बॆळगादाग स्नान-सन्ध्यादिगळ बळिक अग्निकार्य पूरैसि इब्बरू सहोदररु ऋषिगळु तिळिसिदन्तॆ रामायण गान माडतॊडगिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the night broke into dawn (rajanyāṃ prabhātāyām), those two, bathed and having offered their fire-oblations (snātau huta-hutāśanau), sang everything there just as previously instructed by the sage (yathoktam ṛṣiṇā pūrvaṃ sarvaṃ tatropagāyatām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ title = "०९४ राम-मेलनम्"
 
 हिन्दिन आचार्यरु तिळिसिद नियमक्कनुकूलवाद आ गानवन्नु श्रीरामनू केळिदनु. अदरल्लि सङ्गीतद विशेषतॆगळिन्द कूडिद्दु, स्वरगळ आलापद अपूर्व शैलि इत्तु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kākutstha listened to that unprecedented melodic composition (tāṃ sa śuśrāva kākutsthaḥ ... apūrvāṃ pāṭhya-jātiṃ ca) fashioned by the ancient preceptor (pūrvācārya-vinirmitām) and richly adorned with song (geyena samalaṅkṛtām),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +97,12 @@ title = "०९४ राम-मेलनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनेक विधवाद श्रुत्यर्थगळिन्द सम्बद्धवागि ध्वनि-परिच्छेदादि साधनगळिन्दलू, द्रुत-मध्य-विलम्बित वृत्तिगळिन्दलू, वीणा स्वरमाधुर्यद साम्यदिन्दलू कूडिद्द बालकर आ मधुर गायनवन्नु केळि श्रीरामचन्द्रनिगॆ बहळ कुतूहल उण्टायितु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+bound by manifold rhythmic measures (pramāṇair bahubhir baddhām) and united with lute-strings and tempo (tantrī-laya-samanvitām); hearing it from the two boys (bālābhyāṃ rāghavaḥ śrutvā), Rāghava was filled with intense wonder (kautūhala-paro ’bhavat).
 </details>
 </details>
 
@@ -135,6 +153,18 @@ _________________
 
 अनन्तर पुरुषसिंहराजा श्रीरामनु कर्मानुष्ठानदल्लि अवकाश सिक्किदाग दॊड्ड-दॊड्ड महर्षिगळन्नु, राजरन्नु, वेदविदराद विद्वांसरन्नु, पौराणिकरन्नु, शब्दद स्वरूप बल्ल वैय्याकरणरन्नु, हिरिय वृद्ध ब्राह्मणरन्नु, स्वर मत्तु लक्षणगळन्नु तिळिदिद्द पण्डितरन्नु, गायन केळलु उत्सुकराद द्विजरन्नु, सामुद्रिक लक्षणगळन्नु तिळिदवरन्नु, सङ्गीत विशारदरन्नु, निगमागम विद्वांसरन्नु, पुरवासिगळन्नु, पद- अक्षर समासगळन्नु तिळिदवरन्नु, छन्दः शास्त्रज्ञरन्नु, ह्रस्व-दीर्घ-प्लुत-प्रचयगळ लक्षणगळन्नु तिळिदवरन्नु, ज्योतिष्य पारङ्गतरन्नु, कल्पोक्त-वेदोक्त विधि नियमगळन्नु तिळिद पण्डितरन्नु, कार्य कुशलरन्नु, विभिन्न भाषॆगळन्नु तिळिदवरन्नु, इङ्गितज्ञरन्नु, समस्त महाजनरन्नु यज्ञमण्टपक्कॆ करॆसिदनु.॥4-7½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Then in an interval between ritual acts (atha karmāntare), the king, tiger among men, summoned great sages (samāhūya mahāmunīn), monarchs, learned scholars, and Vedic masters as well (pārthivāṃś ca ... paṇḍitān naigamāṃs tathā),
+
+**5:** reciters of Purāṇas, experts in grammar (paurāṇikāñ chabdavidaḥ), those who were elder twice-borns (ye ca vṛddhā dvijātayaḥ), and foremost brahmins eager to hear (utsukān dvijasattamān) who knew the defining marks of musical notes (svarāṇāṃ lakṣaṇajñāṃś ca),
+
+**6:** as well as masters of physiognomic signs, musicologists (lakṣaṇajñāṃś ca gāndharvān), and civic elders especially (naigamāṃś ca viśeṣataḥ), experts in the metrical arrangement of quarter-verses and syllables (pādākṣara-samāsajñān) firmly grounded in Vedic metres (chandaḥsu pariniṣṭhitān),
+
+**7:** and experts in tonal subdivisions and morae (kalā-mātrā-viśeṣajñān), those who have reached the farthest shore of astronomy (jyotiṣe ca paraṃ gatān), masters of ritual manuals (kriyā-kalpa-vidaś caiva) and men skilled in practical counsel (tathā kāryavido janān),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -172,6 +202,16 @@ _________________
 
 इवरे अल्लदॆ तर्कशास्त्रदल्लि निपुणराद नैयायिकरनु, हलवारु शास्त्रगळन्नु बल्ल युक्तिवादिगळन्नु, छन्दःशास्त्र परिणतरन्नु, पुराणज्ञरन्नु, वैदिकरन्नु, द्विजश्रेष्ठरन्नु, चित्रकलॆयन्नु तिळिदवरन्नु, धर्मशास्त्रानुसार सदाचारिगळन्नु, षड्दर्शन मत्तु कल्पसूत्रगळ परिणतरन्नु, गीत नृत्य परिणतरन्नु, शास्त्रज्ञरन्नु, नीति निपुणरन्नु, वेदान्तद अर्थगळ प्रवचनकाररन्नु, ब्रह्मविदरन्नु, आ यज्ञमण्टपक्कॆ श्रीरामनु करॆसिदनु. इवरॆल्लरन्नु ऒट्टागि सेरिसि भगवान् श्रीरामनु रामायणवन्नु हाडुव आ इब्बरू बालकरन्नु आ महासभॆगॆ करॆसि कुळ्ळिरिसिदनु.॥8-10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** masters of languages and readers of subtle gestures (bhāṣājñān iṅgitajñāṃś ca), merchants and civic elders without exception (naigamāṃś cāpy aśeṣataḥ), those adept in reasoned argumentation (hetūpacāra-kuśalān) and logicians in discourse (vacane cāpi haitukān),
+
+**9:** prosodists, knowers of Purāṇas, foremost Vedic brahmins (chandovidaḥ purāṇajñān vaidikān dvijasattamān), masters of figured poetry, experts in conduct and sūtras (citrajñān vṛtta-sūtrajñān), and connoisseurs of song and dance (gīta-nṛtya-viśāradān),
+
+**10:** experts in śāstras, skilled in polity, and expounders of the meaning of Vedānta (śāstrajñān nīti-nipuṇān vedāntārtha-prabodhakān)—bringing all these together (etān sarvān samānīya), he seated the two singers (gātārau samaveśayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -200,6 +240,12 @@ _________________
 
 अल्लि नॆरॆद सभासदरु आनन्दवर्धक मातुगळन्नु परस्पर आडिकॊळ्ळुत्तिद्दरु. अदे समयदल्लि इब्बरू मुनिकुमाररु गायन प्रारम्भिसिदरु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding them, all the throngs of sages and kings of mighty splendor (dṛṣṭvā munigaṇāḥ sarve pārthivāś ca mahaujasaḥ), as though drinking in with their eyes (pibanta iva cakṣurbhyām) both the king and those two singers (rājānaṃ gāyakau ca tau),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,6 +270,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अतिमानुषवाद, अलौकिक, अति मधुरवाद गायन प्रारम्भवायितु. गेय वस्तुविन ‘रामायणद’ विशेषतॆगळ कारण ऎल्ल श्रोतृगळु मन्त्रमुग्धरागि केळतॊडगिदरु. ऎष्टु केळिदरू यारिगू तृप्तियागुत्तिरलिल्ल.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+spoke thus to one another on every side (ūcuḥ parasparaṃ cedaṃ sarva eva samantataḥ): “Both of these are the very likeness of Rāma (ubhau rāmasya sadṛśau), like a reflection sprung forth from its original form (bimbād bimbam ivotthitau)!”
 </details>
 </details>
 
@@ -250,6 +302,12 @@ _________________
 
 मुनिगळ समुदाय, महा पराक्रमि भूपालरॆल्लरू आनन्दमग्नरागि अवरिब्बरन्नु पदे-पदे अवर रूपमाधुरियन्नु कण्णुगळिन्द कुडिदु बिडुवरो ऎम्बन्तॆ नोडुत्तिद्दरु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Were they not wearing matted locks (jaṭilau yadi na syātām) and were they not clad in bark garments (na valkala-dharau yadi), we could discern no difference at all (viśeṣaṃ nādhigacchāmaḥ) between these two singers and Rāghava (gāyato rāghavasya ca)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -274,6 +332,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरॆल्लरू एकाग्रचित्तरागि परस्पर हीगॆ हेळतॊडगिदरु- इवरिब्बरू कुमारर आकृति श्रीरामनन्तॆये होलुत्तदॆ. बिम्बदिन्द प्रतिस्फलित प्रतिबिम्बदन्तॆ इद्दारॆ.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While they were thus conversing together (teṣāṃ saṃvadatām evam), those two sage-boys commenced the song (geyaṃ pracakratus tatra tāv ubhau muni-dārakau) that swelled the joy of the listeners (śrotṝṇāṃ harṣa-vardhanam).
 </details>
 </details>
 
@@ -300,6 +364,12 @@ _________________
 
 इवर तलॆयल्लि जटॆ इल्लदिद्दरॆ, वल्कलगळन्नु धरिसिरदिद्दरॆ, श्रीरामनल्लि मत्तु गायन माडुत्तिरुव इवरिब्बरल्लि यावुदे व्यत्यास नमगॆ कण्डु बरुत्तिरलिल्ल.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then began a sweet, superhuman melody (tataḥ pravṛttaṃ madhuraṃ gāndharvam atimānuṣam), and none of the listeners reached satiety (na ca tṛptiṃ yayuḥ sarve śrotāraḥ) with the splendor of their singing (gāna-sampadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -324,6 +394,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नागरीकरु, राष्ट्रवासिगळु हीगॆ मातनाडुत्तिरुवागले नारदरिन्द वाल्मीकिगळिगॆ उपदिष्टवाद प्रथम सर्ग - मूल रामायणदिन्दले गायन प्रारम्भवायितु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beginning from the very first canto revealed by Nārada (pravṛttam āditaḥ pūrva-sargaṃ nārada-darśitam), from that point onward they sang (tataḥ prabhṛti sargāṃś ca ... agāyatām) up to twenty sargas (yāvad viṃśati).
 </details>
 </details>
 
@@ -356,6 +432,14 @@ _________________
 
 अल्लिन्द हिडिदु इप्पत्तु सर्गगळवरॆगॆ अवरु हाडिदरु. आ वेळॆगॆ अपराह्णवायितु. अष्टु हॊत्तु इप्पत्तु सर्गगळ गायन केळि भातृवत्सल श्रीरघुनाथनु भरतनल्लि हेळिदनु - काकुत्स्थ! नीनु ई इब्बरु महात्मा बालकरिगॆ हदिनॆण्टुसाविर स्वर्णमुद्रॆगळन्नु पुरस्काररूप वागि अर्पिसु. इदल्लदे बेरॆ वस्तुविन इच्छॆयिद्दरॆ अदन्नु बेगने कॊट्टुबिडु.॥17-18½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** Then in the afternoon (tato ’parāhṇa-samaye), having heard those twenty sargas (śrutvā viṃśati-sargāṃs tān), Rāghava, ever affectionate toward his brothers (bhrātṛ-vatsalaḥ), addressed his brother (samabhāṣata ... bhrātaram):
+
+**18:** “Give swiftly, O Kākutstha, eighteen thousand pieces of gold (aṣṭādaśa-sahasrāṇi suvarṇasya) to these two great-souled ones (mahātmanoḥ), and whatever else they may desire (yad anyad abhikāṅkṣitam)!” And swiftly Kākutstha bestowed it upon each of the two boys separately (dadau śīghraṃ sa kākutstho bālayor vai pṛthak pṛthak).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -380,6 +464,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आज्ञॆ पडॆदु भरतनु शीघ्रवागि इब्बरू बालकरिगॆ बेरॆ-बेरॆयागि स्वर्णमुद्रॆगळन्नु कॊडलु तॊडगिदनु, आदरॆ अवनु कॊट्ट स्वर्णवन्नु कुश-लवरु स्वीकरिसलिल्ल.॥19½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet Kuśa and Lava did not accept the proffered gold (dīyamānaṃ suvarṇaṃ tu nāgṛhṇītāṃ kuśīlavau); astonished (vismitau), those two great-souled ones asked, “What is the use of this?” (ūcatuś ca mahātmānau kim aneneti).
 </details>
 </details>
 
@@ -412,6 +502,14 @@ _________________
 
 आ इब्बरू महात्मा सोदररु विस्मितरागि हेळिदरु - ई धनद आवश्यकतॆ एनिदॆ? वनवासिगळाद नावु काडिन फल-मूलगलिन्द जीवन निर्वाह माडुववरु. ई चिन्न, बॆळ्ळि वनक्कॆ कॊण्डु एनु माडुवुदु.॥20-21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** “Contented with wild fruits and roots (vanyena phala-mūlena niratau), dwellers in the forest (vanavāsinau), what shall we two do in the woods with minted gold and bullion (suvarṇena hiraṇyena kiṃ kariṣyāvahe vane)?”
+
+**21:** As the two of them spoke thus (tathā tayoḥ prabruvatoḥ), filled with wonder (kautūhala-samanvitāḥ), both the listeners and Rāma—all alike—became utterly amazed (śrotāraś caiva rāmaś ca sarva eva suvismitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -436,6 +534,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरु हीगॆ हेळिदाग ऎल्ल श्रोतृगळ मनस्सिनल्लि कुतूहल उण्टायितु. श्रोतृगळु मत्तु श्रीरामनु आश्चयचकितरादरु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eager to hear the origin and transmission of that poem (tasya caivāgamaṃ rāmaḥ kāvyasya śrotum utsukaḥ), the greatly radiant Rāma questioned both of those sage-boys (papraccha tau mahātejās tāv ubhau muni-dārakau):
 </details>
 </details>
 
@@ -462,6 +566,12 @@ _________________
 
 श्रीरामनु रामायण काव्यवु ऋषिकुमाररिगॆ ऎल्लिन्द दॊरकितु ऎन्दु तिळियलु उत्सुकनागि, आ महातेजस्वी रघुनाथनु इब्बरू मुनिकुमाररल्लि केळिदनु .॥23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What is the extent of this poem (kim-pramāṇam idaṃ kāvyam)? What is the scope of the great-souled one (kā pratiṣṭhā mahātmanaḥ)? Who is the composer of this great poem (kartā kāvyasya mahataḥ), and where is that foremost of sages (kva cāsau munipuṅgavaḥ)?” To Rāghava thus inquiring, the sage-boys spoke this reply (pṛcchantaṃ rāghavaṃ vākyam ūcatur muni-dārakau):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -486,6 +596,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई महाकाव्यद श्लोकद सङ्ख्यॆ ऎष्टु? इदन्नु रचिसिद महात्मा कविगळु ऎल्लिरुत्तारॆ? ई महाकाव्यद कर्तृ याव मुनीश्वररु? अवरु ऎल्लिद्दारॆ.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The blessed Vālmīki is its composer (vālmīkir bhagavān kartā), who has arrived right in the vicinity of the sacrifice (samprāpto yajña-saṃvidham)—by whom this entire life-story has been displayed for you (yenedaṃ caritaṃ tubhyam aśeṣaṃ sampradarśitam).
 </details>
 </details>
 
@@ -518,6 +634,12 @@ _________________
 
 हीगॆ केळुत्तिरुव श्रीरामनल्लि आ इब्बरु मुनिकुमाररु हेळिदरु - महाराजा! याव काव्यद मूलक निन्न ई सम्पूर्ण चरित्रवन्नु दर्शिसलागिदॆयो, अदन्नु रचिसिदवरु पूज्यराद वाल्मीकिगळु. अवरु ईयज्ञ स्थळदल्लि आगमिसिरुवरु.॥25॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, twenty-four thousand verses (sannibaddhaṃ hi ślokānāṃ caturviṃśat-sahasrakam) together with a hundred subsidiary narratives (upākhyāna-śataṃ caiva) have been composed by that ascetic descendant of Bhṛgu (bhārgaveṇa tapasvinā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -542,6 +664,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ तपस्वी कविगळु रचिसिद ई महाकाव्यदल्लि इप्पत्तनाल्कु साविर श्लोकगळु मत्तु ऒन्दुनूरु उपाख्यानगळिवॆ.॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From the beginning onward, O king, five hundred sargas (ādi-prabhṛti vai rājan pañca-sarga-śatāni ca) and six books together with the Uttara (kāṇḍāni ṣaṭ kṛtānīha sottarāṇi) have been composed here by the great-souled one.
 </details>
 </details>
 
@@ -568,6 +696,12 @@ _________________
 
 राजने ! आ महात्मरु मॊदलिन्द हिडिदु कॊनॆयवरॆगॆ ऐदुनूरु सर्गगळु हागू आरु काण्डगळन्नु निर्मिसिदरु. इदल्लदॆ अवरु उत्तरकाण्डवन्नु रचिसिरुवरु.॥27॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Composed by our preceptor, the sage, it is your own life-story (kṛtāni guruṇāsmākam ṛṣiṇā caritaṃ tava); its foundation endures over everything as long as life continues (pratiṣṭhā ājīvitaṃ yāvat tāvat sarvasya vartate).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -592,6 +726,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नम्म गुरु महर्षि वाल्मीकरे इदॆल्लवन्नु निर्मिसिदवरु. अवरु निन्न चरित्रवन्ने महाकाव्य रूपदल्लि कॊट्टिरुवरु. इदरल्लि निन्न जीवनद ऎल्ल सङ्गतिगळु बन्दिवॆ.॥28॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If your mind is set upon hearing it, O great-charioted king (yadi buddhiḥ kṛtā rājañ chravaṇāya mahāratha), then in the intervals between rites (karmāntare), finding leisure (kṣaṇī-bhūtaḥ), listen to it together with your younger brothers (tac chṛṇuṣva sahānujaḥ).”
 </details>
 </details>
 
@@ -621,6 +761,12 @@ _________________
 
 महारथी नरेशने! निनगॆ इदन्नु केळुव विचारविद्दरॆ, यज्ञकर्मद नडुवॆ अवकाश माडिकॊण्डु, निश्चित समयदल्लि सहोदररॊन्दिगॆ कुळितु इदन्नु केळिरि.॥29॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So be it!” said Rāma (bāḍham ity abravīd rāmaḥ); and taking leave of Rāghava (tau cānujñāpya rāghavam), those two delighted boys went back to the place where that foremost of sages abode (prahṛṣṭau jagmatuḥ sthānaṃ yatrāste munipuṅgavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -645,6 +791,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग रामचन्द्रनु हेळिदनु - हागॆये आगलि, नावु ई काव्यवन्नु केळुवॆवु. अनन्तर श्रीरामन अप्पणॆ पडॆदु कुश मत्तु लवरु मुनिवर वाल्मीकिगळिद्दल्लिगॆ सन्तोषवागि तॆरळिदरु.॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma too, together with the sages and the great-souled monarchs (rāmo ’pi munibhiḥ sārdhaṃ pārthivaiś ca mahātmabhiḥ), having heard the sweetness of that song (śrutvā tad-gīti-mādhuryam), repaired to the sacrificial hall (karmaśālām upāgamat).
 </details>
 </details>
 
@@ -673,6 +825,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामचन्द्रनू महात्मा मुनिगळॊन्दिगॆ, राजरॊन्दिगॆ मधुर सङ्गीत केळि यज्ञमण्टपक्कॆ होदनु.॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He listened to that composition endowed with musical beat and tempo (śuśrāva tat tāla-layopapannam), arranged in sargas (sargānvitam), joined with resonant notes and words (sa-svara-śabda-yuktam), and united with lute-strings, rhythm, and expressive articulation (tantrī-laya-vyañjana-yoga-yuktam), as it was sung all around by Kuśa and Lava (kuśīlavābhyāṃ parigīyamānam).
 </details>
 </details>
 

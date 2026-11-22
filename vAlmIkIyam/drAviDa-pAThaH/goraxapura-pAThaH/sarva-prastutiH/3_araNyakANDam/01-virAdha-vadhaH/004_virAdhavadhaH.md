@@ -67,6 +67,12 @@ voice, screamed.
 On seeing those two very dexterous scions of Kakutstha, and the best ones from Raghu dynasty, namely Rama and Lakshmana,
 grabbed and being carried off, Seetha screamed in a high-pitched voice.[3-4-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the two Kākutsthas, foremost of the Raghus (raghūttamau), being carried off (hriyamāṇau), Sītā threw up her two shapely arms (pragṛhya sumahā-bhujau) and cried out in a loud voice (uccaiḥ svareṇa cukrośa):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -108,6 +114,12 @@ that, Dasharatha's, Rama; *saha lakshmaNaH* = with Lakshmana; *rakshasaa raudra 
 
 "He that truth-abiding, virtuous, and the flawless Rama of Dasharatha is carried off along with Lakshmana by the demon with
 a ferocious look... [3-4-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This Rāma, son of Daśaratha (dāśarathī rāmaḥ), truthful (satyavān), of noble character (śīlavān), and pure (śuciḥ), is being carried off together with Lakṣmaṇa by a rākṣasa of dreadful form (raudra-rūpeṇa)!”
 </details>
 </details>
 
@@ -157,6 +169,12 @@ they aspire; *raakshasa uttamaH* = oh, demon, the best; *maam haraH* = me, thiev
 "Wild bears, tigers and panthers aspire to eat me away... oh, best demon, thieve me instead and release Kakutstha-s... Hail
 to thee..." [Said Seetha.] [3-4-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bears (ṛkṣāḥ), tigers, and leopards (śārdūla-dvīpinaḥ) will devour me! Carry me off (māṃ hara) and release the two Kākutsthas (utsṛja kākutsthau); obeisance to you, O best of rākṣasas (namas te rākṣasottama)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -202,6 +220,12 @@ that, utterance, on hearing; *dura aatmanaH* = minded one's; *tasya* = of that V
 On hearing Vaidehi's that utterance those valorous ones Rama and Lakshmana speedily busied themselves in eliminating that
 evil-minded demon Viradha. [3-4-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of Vaidehī, the two heroic brothers Rāma and Lakṣmaṇa hastened with all speed (vegaṃ pracakratuḥ) to slay that evil-minded demon (vadhe tasya durātmanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -245,6 +269,12 @@ evil-minded demon Viradha. [3-4-4]
 **अनुवादः**
 
 Soumitri indeed severed the left arm of that ferocious one, while Rama rent the right arm of that demon with his might. [3-4-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saumitri broke the left arm (savyaṃ bāhuṃ babhañja ha) of that dreadful demon, while Rāma by his might (tarasā) broke the right arm (dakṣiṇaṃ bāhum) of that rākṣasa.
 </details>
 </details>
 
@@ -294,6 +324,12 @@ muurchitaH* = frustrated, fainted; *vajra bhinnaH achala iva* = by Thunderbolt, 
 When his arms are mutilated that demon similar to a dark-cloud is frustrated, fainted, and fell onto ground, like the mountain
 demolished by the Thunderbolt of Indra. [3-4-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His arms broken (bhagna-bāhuḥ) and his mind reeling with terror (saṃvignaḥ), that cloud-like demon swiftly fell senseless (vimūrcchitaḥ) upon the earth, like a mountain cleft by a thunderbolt (vajra-bhinna ivācalaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -338,6 +374,12 @@ and heaving, also, even; *staNDile niS pipeSatuH* = on ground, entirely, pounded
 
 They battered that demon with their fists, hands and feet, and even by heaving and hurling him again and again they entirely
 pounded on him on the ground. [3-4-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Battering (sūdayantau) the rākṣasa with their fists, arms, and feet (muṣṭibhir bāhubhiḥ padbhiḥ), and lifting him up again and again (udyamodyamya), they pounded him upon the bare ground (sthaṇḍile niṣpipeṣatuḥ).
 </details>
 </details>
 
@@ -384,6 +426,12 @@ pounded; *saH raakshasa na mamaara* = he, that demon, not, killed.
 Though that demon is battered with many arrows, even sheared off with two swords, and even though he is entirely pounded
 on the ground he is not killed. [3-4-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though pierced by many arrows (viddho bahubhir bāṇaiḥ), gashed by the two swords (khaḍgābhyāṃ ca parikṣataḥ), and pounded repeatedly upon the ground (niṣpiṣṭo bahudhā bhūmau), that rākṣasa did not die (na mamāra).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -429,6 +477,12 @@ on the ground he is not killed. [3-4-8]
 On observing that the mountain-similar demon is ineradicable that easily, then Rama, the sublime one, and the bestower of
 shelter in fear, spoke this sentence to Lakshmana. [3-4-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him utterly unslayable (subhṛśam avadhyam) and resembling a mountain (acalopamam), the glorious Rāma, bestower of fearlessness in every peril (bhayeṣv abhayadaḥ), spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,6 +521,12 @@ this one; *yudhi shashtreNa nirjetum* = in war, by weapons, to overpower; *na sh
 
 "Oh! Manly-tiger Lakshmana, it is impossible to overpower this demon with weapons in a confrontation, hence, let's bury
 this demon... [3-4-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By reason of his penance (tapasā), O tiger among men, this rākṣasa cannot be vanquished in battle with weapons (śastreṇa yudhi nirjetum); therefore let us bury the rākṣasa in a pit (rākṣasaṃ nikhanāvahe)!”
 </details>
 </details>
 
@@ -516,6 +576,12 @@ demon; *kunjarasya iva* = for an elephant, as though; *asmin* = in forest; *su m
 "Lakshmana, a very deep pit be dug for this furious and ferocious reprobate in this forest, as though for an elephant...
 [3-4-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this dreadful rākṣasa of fierce lustre (raudra-varcasaḥ), O Lakṣmaṇa, let a vast pit be dug in this forest (vane 'smin sumahac chvabhraṃ khanyatām), as if for a raging elephant (kuñjarasyeva)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -560,6 +626,12 @@ foot, on the throat, overcoming [repressing,] stood in readiness.
 
 On saying to Lakshmana that a trench shall be dug...' then Rama repressively placed his foot on the throat of Viradha, and
 stood by. [3-4-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus to Lakṣmaṇa—“Let a chasm be dug (pradaraḥ khanyatām iti)!”—the valiant Rāma stood pressing his foot upon Virādha’s throat (virādham ākramya kaṇṭhe pādena).
 </details>
 </details>
 
@@ -606,6 +678,12 @@ said; *puruSarSabhaH kaakuthsam* = man, the best, to Kakutstha; *idam prashritam
 On hearing that said by Raghava, demon Viradha sincerely spoke these humble words to Rama, the finest one from Kakutstha
 dynasty. [3-4-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words spoken by Rāghava, the rākṣasa Virādha addressed these humble words (praśritaṃ vacaḥ) to Kākutstha, that bull among men (puruṣarṣabham):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -651,6 +729,12 @@ me, fallaciously, but; *tvam puurvam na j~naataH* = you are, earlier, [by me] un
 "Dead I am, oh! Manly-tiger and a coequal of Indra in your strength... I have fallaciously not identified you earlier...
 oh, best one among men... [3-4-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I have been slain (hato 'ham), O tiger among men, by one equal to Śakra in might (śakra-tulya-balena vai); previously, out of delusion (mohāt), you were not recognized by me, O bull among men!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -695,6 +779,12 @@ mahaayashaH* = Lakshmana, too, great, renowned one [are now known.]
 
 "Oh, sire, now I have known you to be Rama, the son of Kausalya... and even propitious Seetha and greatly renowned one Lakshmana
 are now known to me... [3-4-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now it is known to me (vidito mayā), O dear lord (tāta), that you are Rāma, of whom Kausalyā is the blessed mother (kausalyā suprajāḥ), and that this is the illustrious Vaidehī and Lakṣmaṇa of great renown.”
 </details>
 </details>
 
@@ -743,6 +833,12 @@ _________________
 
 "By curse I had to enter this ghoulish demon's body, but I am a celestial gandharva, named Tumburu and Kubera cursed me...
 [3-4-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through a curse (abhiśāpāt) I entered this dreadful rākṣasa body (ghorāṃ rākṣasīṃ tanum); for I am the gandharva named Tumburu, cursed by Vaiśravaṇa [Kubera] (śapto vaiśravaṇena hi).”
 </details>
 </details>
 
@@ -793,6 +889,12 @@ body,] you attain; *bhavaan swargam gamiSyati* = you, to heavens, can go;.
 "When entreated by me, he that greatly renowned Kubera said to me, 'When Dasharatha's Rama kills you in a fight... then
 you will attain your nature of celestial body and you will go to heavens...' [3-4-17, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When propitiated by me (prasādyamānaś ca mayā), that lord of great renown said to me: ‘When Rāma, son of Daśaratha, shall slay you in battle (tvāṃ vadhiṣyati saṃyuge),—’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -837,6 +939,12 @@ aasaktam* = in Rambha, interested; *uvaaca ha* = said [this curse-clearance,] in
 
 " King Kubera thus cursed angrily me for not presenting myself in his service when I was interested in a celestial dancer
 Rambha, and indeed he alone said this curse-clearance to me... [3-4-18b, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Then, restored to your original nature (prakṛtim āpannaḥ), you shall go to heaven (svargaṃ gamiṣyati).’ Not being attended upon by me at the appointed hour (anupasthīyamānaḥ), he spoke thus to me in wrath (sa kruddho vyājahāra ha).”
 </details>
 </details>
 
@@ -899,6 +1007,12 @@ in an important article in the B.Br.A.S. Journal makes the following interesting
 the word demon viz., 'Asurya' may here refer to the 'Assyrian' country. 'Assyrian and 'Asuryan' being philologically identical,
 the 'y' and the 'u' being interchangeable as in Greek..."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus spoke King Vaiśravaṇa to me when I was attached to Rambhā (rambhāsaktam uvāca ha). By your grace I am now freed (tava prasādān mukto 'ham) from that most dreadful curse (abhiśāpāt sudāruṇāt)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -952,6 +1066,14 @@ vasati* = Sharabhanga, great, saint, dwells; *tvam kshipram tam abhigaccha* = yo
 "Oh, Sire, att one and half yojana-s of distance from here Sage Sharabhanga, a great saint of virtue, and an efficacious
 sage with sun-like resplendence dwells, you shall quickly approach him for he advises you opportunely... [3-4-20-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** “I shall depart to my own celestial abode (bhuvanaṃ svaṃ gamiṣyāmi); may auspiciousness attend you (svasti vo 'stu), O scorcher of foes! Not far from here dwells the righteous-souled, mighty Śarabhaṅga (śarabhaṅgaḥ pratāpavān)—”
+
+**21:** “At a distance of one and a half yojanas (adhyardha-yojane), O dear lord, shines that great sage like the sun (maharṣiḥ sūrya-saṃnibhaḥ); go to him quickly (taṃ kṣipram abhigaccha tvam), and he shall declare what is for your welfare (sa te śreyo 'bhidhāsyati).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -999,6 +1121,12 @@ to them, worlds of manes.
 "Rama you go safely on burying me in a pit... this is the age-old custom for those demons that lost vitality... those that
 are inhumed in pit, to them there will be the worlds of manes..." [3-4-22, 23a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And having cast me into a pit (avaṭe cāpi māṃ rāma nikṣipya), O Rāma, proceed safely in welfare (kuśalī vraja); for such is the eternal law for rākṣasas whose life-breath has departed (rakṣasāṃ gata-sattvānām eṣa dharmaḥ sanātanaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1045,6 +1173,12 @@ arrows, hurt; *babhuuva swarga sampraaptaH* = became, heavens, attained [heaven-
 
 "And on saying thus to Rama that Viradha who is hurt by arrows became heaven-worthy on leaving his body. [3-4-23b, 24a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Those who are laid to rest in a pit (avaṭe ye nidhīyante), theirs are the eternal worlds (teṣāṃ lokāḥ sanātanāḥ)!” Having spoken thus to Kākutstha, Virādha, tormented by the shafts (śara-pīḍitaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1071,6 +1205,14 @@ arrows, hurt; *babhuuva swarga sampraaptaH* = became, heavens, attained [heaven-
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन मातन्नु केळि श्रीरघुनाथनु लक्ष्मणनिगॆ - लक्ष्मणा! भयङ्कर कर्ममाडुव, आनॆयन्तॆ भयानक ई राक्षसनिगॆ हॊण्डवन्नु अगॆदु सिद्धगॊळिसु ऎन्दु आज्ञापिसिदनु.॥24-25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** Cast off his body (nyasta-dehaḥ) and attained heaven (babhūva svarga-samprāptaḥ), possessed of great might. Hearing that speech, Rāghava commanded Lakṣmaṇa (lakṣmaṇaṃ vyādideśa ha):
+
+**25:** “For this dreadful rākṣasa of fierce deeds (raudra-karmaṇaḥ), O Lakṣmaṇa, let a vast pit be dug in this forest (vane 'smin sumahān śvabhraḥ khanyatām), as if for a raging elephant (kuñjarasyeva raudrasya)!”
 </details>
 </details>
 
@@ -1115,6 +1257,12 @@ stood in readiness.
 And Raghava on hearing those words of the demon ordered Lakshmana, "Lakshmana, a very deep pit be dug for this furious and
 ferocious reprobate in this forest, as though for an elephant..." On saying to Lakshmana that a trench shall be dug...'
 then Rama repressively placed his foot on the throat of Viradha, and stood by. [3-4-24b, 25, 26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus to Lakṣmaṇa—“Let a chasm be dug (pradaraḥ khanyatām iti)!”—the valiant Rāma stood pressing his foot upon Virādha’s throat (virādham ākramya kaṇṭhe pādena).
 </details>
 </details>
 
@@ -1161,6 +1309,12 @@ pit, dug; *paarshvataH tasya viradhasya mahaa aatmanaH* = beside of, that, of Vi
 **अनुवादः**
 
 Then, on taking a digging tool Lakshmana dug a deep pit beside the great soul Viradha. [3-4-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, taking a spade (khanitram ādāya), Lakṣmaṇa dug an excellent pit (śvabhram uttamam) beside that huge-bodied Virādha (pārśvatas tasya virādhasya mahātmanaḥ).
 </details>
 </details>
 
@@ -1210,6 +1364,12 @@ bhairava swanam* = with horrific, voice.
 
 On releasing his throat from the stamping of Rama, he that long eared, lurid voiced Viradha is ensconced in that pit while
 he is still blaring with his horrific voice. [3-4-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lifting up (utkṣipya) that spike-eared (śaṅku-karṇam), loud-voiced Virādha after releasing his throat (mukta-kaṇṭham), he cast him into the pit (prākṣipac chvabhre) as he uttered a terrific roar (nadantaṃ bhairava-svanam).
 </details>
 </details>
 
@@ -1264,6 +1424,12 @@ one; *raakshsam* = him, that blaring, demon; *utkshipya balena* = raising up, by
 Those deftly victorious ones Rama and Lakshmana who compose themselves in a given fight, both have gladly raised that Viradha,
 a ghoulish one in fight, a terrifying demon who is still blaring, with all their might and hurled him into the pit. [3-4-29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swift in valour (āśu-vikramau) and steadfast in battle (sthirāv ubhau saṃyati), both Rāma and Lakṣmaṇa, filled with joy (mudānvitau), lifted up by their might that terrifying rākṣasa who was dreadful in combat and roaring, and cast him down [into the pit] (cikṣipatur bhayāvaham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1316,6 +1482,12 @@ have undertaken.
 
 On observing the indestructibility of that demon with any weapon, however sharp it might be, those two best ones among men
 that are very expertly skilled have thought over well and undertook the elimination of that great demon in a pit. [3-4-30]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving that the great demon could not be slain by sharp weapons (avadhyatāṃ prekṣya mahāsurasya tau śitena śastreṇa), those two bulls among men, supremely skilled (atyartha-viśāradāv ubhau), deliberated together (samarthya) and accomplished Virādha’s slaying inside the pit (bile virādhasya vadhaṃ pracakratuḥ).
 </details>
 </details>
 
@@ -1374,6 +1546,12 @@ as; *swayam niveditaH* = he himself, apprised.
 Viradha himself preferred his death at the hands of Rama and desired for a long to be killed by Rama and that forest walker
 himself appraised that, "Killing me with any weapon is impossible..." [3-4-31]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For by the forest-ranging Virādha himself (svayaṃ virādhena hi kānana-cāriṇā), his own death—eagerly desired from Rāma in truth (prasahya rāmeṇa yathārtham īpsitaḥ)—had been declared by himself (niveditaḥ svayam): “My slaying cannot be wrought by weapons (na me vadhaḥ śastra-kṛto bhaved iti).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1425,6 +1603,12 @@ one, by him, that demon, forest, is verily, blared.
 
 On listening to that which is said by Viradha, Rama resolved his mind to cast him into pit, and when that mighty demon is
 being flung into the pit the whole forest blared with that demon's cries. [3-4-32]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that very declaration (tad eva bhāṣitaṃ niśamya), Rāma resolved upon casting him into a pit (kṛtā matis tasya bila-praveśane); and as that rākṣasa of mighty strength was being thrust into the pit, the forest was made to resound [with his cries] (vanaṃ vināditam).
 </details>
 </details>
 
@@ -1483,6 +1667,12 @@ order to make it a burial-chamber to the departed soul. [3-4-33]
 
 Everywhere Rama patiently performs these funeral rites, whether it is demon, eagle or a monkey, if dead in his presence.
 Here also, Viradha's grave is covered with stones and boulders, as a kind of Stonehenge.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having cast Virādha down into the chasm in the earth (virādham urvyāṃ pradare nipātya tam), Rāma and Lakṣmaṇa, wearing joyful countenances (prahṛṣṭa-rūpāv iva) and freed from fear in the great forest (vīta-bhayau mahā-vane), rejoiced and covered the rākṣasa over with boulders (śilābhir antardadhatuś ca rākṣasam).
 </details>
 </details>
 
@@ -1561,6 +1751,12 @@ in their appeasing personalities and sun-like in their radiant valour.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नाल्कनॆय सर्ग सम्पूर्णवायितु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having slain the rākṣasa and reclaimed Maithilī (nihatya rakṣaḥ parigṛhya maithilīm), those two wielders of gold-decked bows (kāñcana-citra-kārmukau) roamed joyfully through the great forest (vijahratuḥ tau muditau mahā-vane), like the moon and the sun stationed in the sky (divi sthitau candra-divākarāv iva).
 </details>
 </details>
 

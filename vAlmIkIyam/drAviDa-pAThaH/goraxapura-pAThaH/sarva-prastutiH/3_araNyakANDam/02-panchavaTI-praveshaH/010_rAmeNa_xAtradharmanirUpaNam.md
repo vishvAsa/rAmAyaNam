@@ -69,6 +69,12 @@ Janaki.
 On hearing all of the words said by Vaidehi, in adoration of her husband, he who abides by virtue alone
 that Rama replied Janaki. [4-10-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard this speech uttered by Vaidehī out of devotion to her husband (bhartṛ-bhaktayā), Rāma, steadfast in righteousness (dharme sthitaḥ), then replied to Jānakī:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +120,12 @@ is said.
 
 "You have said beneficial, friendlily words that are seemlier to your disposition, oh, lady, which
 are apt to speak of your familial brought up, for you are the daughter of virtue-knowing Janaka. [4-10-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Salutary and fitting (hitam ... sadṛśam) is the speech spoken by you in affection, O queen, setting forth the duty of our race (kulaṃ vyapadiśantyā), O knower of dharma, daughter of Janaka.
 </details>
 </details>
 
@@ -162,6 +174,12 @@ vacaH tvayaa eva uktam* = this, word, by you, alone [perhaps,] said [iterated.]
 "What more shall I say, oh, lady, since it is said that 'a warrior handles a bow so that misery's tears
 cease to flow...' and this saying is iterated even by you... [4-10-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet what shall I say, O queen? By your own self has this word been spoken: ‘The bow is borne by kṣatriyas so that there may be no cry of the distressed (nārta-śabdo bhaved iti).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,6 +225,12 @@ gone in [came into.]
 
 "Oh! Seetha, those shleterable sages of Dandaka forest have approached me sombrely on their own, and
 thus they came into my refuge... [4-10-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And those afflicted sages of strict vows (munayaḥ saṃśita-vratāḥ) in the Daṇḍaka forest, O Sītā, having come of their own accord, have sought refuge in me, their protector (śaraṇyaṃ śaraṇaṃ gatāḥ).
 </details>
 </details>
 
@@ -259,6 +283,12 @@ invidious, deeds, by demons, scared; *sukham na labhante* = quietude, not gettin
 "Subsisting on fruits and tubers, living at all the time in forests those sages are not getting quietude,
 as they are scared by the demons with invidious deeds... [4-10-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dwelling at all seasons in the forest and subsisting on roots and fruits (mūla-phalāśanāḥ), O timid one, they find no peace because of the rākṣasas of cruel deeds (krūra-karmabhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -283,6 +313,12 @@ as they are scared by the demons with invidious deeds... [4-10-5]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ राक्षसरिगॆ तुत्तागिरुव ई दण्डकारण्यवासी द्विज श्रेष्ठ मुनिगळु नम्म बळिगॆ बन्दु ‘प्रभो! नम्म मेलॆ अनुग्रहमाडु’ ऎन्दु हेळिदरु.॥6½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They are devoured by dreadful rākṣasas who subsist on human flesh (nara-māṃsopajīvibhiḥ); and while being devoured, those sages dwelling in the Daṇḍaka forest—
 </details>
 </details>
 
@@ -328,6 +364,12 @@ us] come to rescue; *iti* = thus as; *maam uucur* = to me, said.
 "The sages dwelling in Dandaka forest are being eaten away by fiendish demons that subsist on human
 flesh, and while being eaten away like that those eminent Brahmans have said to me, "please come to
 our rescue..." [4-10-6,7a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Those foremost of the twice-born (dvija-sattamāḥ) said to me: ‘Come to our aid and protect us (asmān abhyavapadyeti)!’ Having heard that speech issuing from their mouths,
 </details>
 </details>
 
@@ -394,6 +436,14 @@ Brahmans, whom I should have actually addressed my self, this indeed is a dishon
 "Then I said before the Brahmans, "what shall I do?" All of them thus thronged and spoke this word.
 [4-10-9b, 10a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** And having rendered them respectful obedience (vacana-śuśrūṣām), I uttered this reply: ‘May Your Reverences be gracious to me (prasīdantu bhavanto me)! Great and peerless indeed is my shame (hrīr eṣā tu mamātulā),
+
+**9:** That I should be approached as a supplicant by such brahmins whom I myself ought to wait upon (upastheyair upasthitaḥ)!’ And in the presence of those twice-born sages I asked, ‘What shall I do (kiṃ karomīti)?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -441,6 +491,12 @@ we are; *bhavaan tatra rakshatu naH* = you, us, there in that, context protect, 
 "Many of the guise changing demons are outrightly torturing us in Dandaka forest, hence in that context
 you shall protect us... [4-10-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then all of them together uttered this speech: ‘By many rākṣasas in the Daṇḍaka forest who assume any form at will (kāma-rūpibhiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -487,6 +543,12 @@ tu* = at oblation, times, but; *parva kaaleSu ca* = on propitious, times, also; 
 "Those resistless carnivorous demons, oh, merited Rama, will descend exactly at the time of fire oblations,
 or on propitious times like full or new moons to persecute us... [4-10-11b, 12a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+We are sorely tormented (arditāḥ sma bhṛśam), O Rāma; may Your Highness protect us against them (bhavān nas tatra rakṣatu)! Whenever the hour of oblation arrives and at the sacred lunar festivals (parva-kāleṣu), O sinless one,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -532,6 +594,12 @@ on you.]
 
 "We the ascetics being assaulted thus are aggrieved, and when we searched for a recourse you chanced
 as our ultimate course... [4-10-12b, 13a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Flesh-eating rākṣasas (piśitāśanāḥ), exceedingly hard to overpower (sudurdharṣāḥ), assail us; and for us ascetics and penitents thus assailed by the rākṣasas—
 </details>
 </details>
 
@@ -600,6 +668,14 @@ not, issued.
 "Many hurdles are always there in our practice of ascesis, and even the ascesis have become impracticable,
 oh, Raghava, thus though being eaten away by the demons we are not issuing any curse... [4-10-14b, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** —Seeking a refuge (gatiṃ mṛgayamāṇānām), Your Highness is our supreme refuge (paramā gatiḥ). True, by the power of our penance (tapaḥ-prabhāveṇa) we are able to slay the night-roamers (niśācarān);
+
+**14:** Yet we do not wish to squander our penance acquired over a long time (cirārjitaṃ tapaḥ khaṇḍayitum); for penance is ever beset with many obstacles (bahu-vighnam) and hard to perform (duścaram), O Rāghava.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -650,6 +726,12 @@ we have you isn't it.
 Dandaka forest as you alone are the protector of ours in these forests...'so said sages to me... [4-10-15b,
 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, though devoured by the rākṣasas, we do not hurl a curse (śāpaṃ na muñcāmaḥ). Since we are thus tormented by the rākṣasas dwelling in the Daṇḍaka forest,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -699,6 +781,12 @@ to sages; *kaartsnyena paripaalanam samshrutam* = complete, protection, promised
 "On hearing all those words, oh, Seetha, I promised complete protection to the sages of Dandaka forests...
 [4-10-16b, 17a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Do you protect us together with your brother, for in the forest we have you alone as our lord and protector (tvan-nāthā hi vayaṃ vane)!’ Having heard this speech, complete protection (kārtsnyena paripālanam)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -745,6 +833,12 @@ isn't it.
 
 "Having promised to the sages it is incapable of me to implement it otherwise while I am alive... truth
 is dearer to me, isn't it... [4-10-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Was promised by me (mayā ... saṃśrutam) to the sages in the Daṇḍaka forest, O daughter of Janaka; and having promised it, while I live (jīvamānaḥ) I shall never be able to falsify my pledge (pratiśravam)—
 </details>
 </details>
 
@@ -793,6 +887,12 @@ is dearer to me, isn't it... [4-10-17b, 18a]
 "I may forfeit my life, forgo Lakshmana, or even forsake you but not a promise, that too especially
 made to Brahmans, and having promised I can never go back... [4-10-18b, 19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—To the sages (munīnām anyathā kartum), for truth is ever dear to me (satyam iṣṭaṃ hi me sadā). I would even abandon my own life (apy ahaṃ jīvitaṃ jahyām), or you, O Sītā, together with Lakṣmaṇa (salakṣmaṇām),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -839,6 +939,12 @@ kaaryam* = by me, definitely, to be done; *pratij~naaya katham punaH* = having, 
 "By that reason, oh, Seetha, even if I am unasked, safeguarding sages is definitely to be done by me,
 how then it is undone when given a promise... [4-10-19b, 20a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Before I would ever abandon a vow once promised (na tu pratijñāṃ saṃśrutya), above all to brahmins (brāhmaṇebhyo viśeṣataḥ)! Therefore the protection of the sages must unfailingly be accomplished by me (avaśyaṃ mayā kāryam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -884,6 +990,12 @@ also; *idam vacaH uktam tvayaa* = this, word, is said, by you; *parituSTaH asmi 
 
 "With your friendship and good-heartedness you say these words, oh, Seetha, I am contended... uninterested
 ones do not forewarn, indeed... [4-10-20b, 21a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even had I not been petitioned [by the sages], O Vaidehī, [it would had to be done]—how much more so after having solemnly promised it (pratijñāya kathaṃ punaḥ)! Out of love and tender-heartedness toward me (mama snehāc ca sauhārdāt) have you spoken this word.
 </details>
 </details>
 
@@ -933,6 +1045,12 @@ ca* = appropriate, seemly, also; *me sa dharma caariNii* = with me, virtue, wife
 "Appropriate and seemly is your word of caution to your bloodline, oh, graceful Seetha, you are the
 co-pursuer in dharma with me, hence you are loftier to me than my own lives..." So said Rama to Seetha.
 [4-10-21b, c]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I am well pleased, O Sītā—for one who is not dear is never counselled (na hy aniṣṭo ’nuśāsyate)—and it is worthy and befitting of your noble lineage, O fair one; for you are my partner in righteousness (sadharma-cāriṇī me tvam), dearer to me even than my life-breaths (prāṇebhyo ’pi garīyasī).”
 </details>
 </details>
 
@@ -996,6 +1114,12 @@ his bow proceeded further with Lakshmana to the picturesque woodlands of hermits
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हत्तनॆय सर्ग सम्पूर्णवायितु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken these words to his beloved Sītā, the princess of Mithilā, the great-souled Rāma, bearing his bow (dhanuṣmān), went forth with Lakṣmaṇa into the delightful penance-groves (ramyāṇi tapovanāni).
 </details>
 </details>
 

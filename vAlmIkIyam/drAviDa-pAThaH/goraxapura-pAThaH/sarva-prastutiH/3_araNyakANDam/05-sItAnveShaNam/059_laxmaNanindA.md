@@ -72,6 +72,12 @@ from hermitage, strayed from; *saumitrim* = at Soumitri; *antaraa* = in middle [
 Rama the descendent of Raghu, again asked Soumitri who strayed from the hermitage and whom his own anguish
 is distressing now, in the middle of path towards their hermitage. [3-59-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, midway along the path (antarā), Rāma, the delight of the Raghus, out of grief (duḥkhāt) questioned Saumitri—who had turned back from the hermitage (āśramād upāvṛttam)—with these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ abandoning; *tvam aagataH* = you, came [to me.]
 
 Rama spoke to such Lakshmana, "when I left her in the forest, I left only on confiding in you. For what
 reason you came to me on abandoning Maithili? [3-59-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He said to him: “Why have you come here, leaving Maithilī behind (apāsya maithilīm), when out of trust in you (tava viśvāsāt) she was left without me in the forest (vane virahitā mayā)?
 </details>
 </details>
 
@@ -166,6 +178,12 @@ evil; *vyathitam iti yat* = distressed, thus, what [what that was being doubted]
 "What my heart had been doubting, rather a perilous evil, oh, Lakshmana, that has become a fact on seeing
 only you, coming to me leaving off Maithili. [3-59-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the very sight (dṛṣṭvaiva) of you arriving after abandoning Maithilī, O Lakṣmaṇa, my mind, fearing some great calamity (śaṅkamānaṃ mahat pāpam), is in truth (yat satyam) deeply anguished (vyathitam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -211,6 +229,12 @@ at you; *duure* = at distance; *pathi* = on pathway; *dR^iSTvaa* = on seeing;
 
 "Seeing your coming without Seetha on pathway at a distance my left eye and left shoulder have pulsated,
 and oh, Lakshmana, my heart too has fluttered." Thus Rama said to Lakshmana. [3-59-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My left eye (nayanaṃ savyam), [left] arm, and heart are throbbing (sphurate) upon seeing you from afar on the path, O Lakṣmaṇa, unaccompanied by Sītā (sītā-virahitam)!”
 </details>
 </details>
 
@@ -259,6 +283,12 @@ When Sumitra's son Lakshmana, whose traits are blamelessly auspicious is address
 a double spell on him, one for the tongue-lashing of Seetha while the other for the reproach from Rama,
 and he replied Rama who is anguished in his own way. [3-59-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, Lakṣmaṇa, the son of Sumitrā endowed with auspicious marks (śubha-lakṣaṇaḥ), filled with still greater sorrow (bhūyo duḥkha-samāviṣṭaḥ), spoke to the grieving Rāma:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -306,6 +336,12 @@ not, I have come; *tayaa eva* = by her, alone; *ugraiH [vacanaiH]* = by hurtful 
 
 "I have not come here leaving her off either independently or intentionally, I came here, to your proximity,
 virtually driven by her hurtful words." Thus Lakshmana is relying Rama. [3-59-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Not of my own accord, acting at will (kāma-kāreṇa), did I abandon her and come here; urged on by her alone (pracoditas tayaiva) with harsh words (ugraiḥ), I have come here to your presence (tvat-sakāśam).
 </details>
 </details>
 
@@ -357,6 +393,12 @@ gatam* = that, of Maithili, into ear, went into - she gave an ear to.
 "Maithili gave an ear to that message which is loudly shouted as if by your honour saying, 'ha, Seetha...
 ha, Lakshmana... save me immediately...' [3-59-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Those words cried out aloud in a high, discordant pitch (suvisvaram) as though by my noble brother (āryeṇeva parikruṣṭam)—‘O Lakṣmaṇa! Save me (paritrāhi)!’—reached the ears of Maithilī (maithilyās tac chrutiṃ gatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -404,6 +446,12 @@ begone; *iti maam aaha* = thus, to me, said.
 "On hearing that grievous voice of yours and owing to her love for you she shuddered with fear and wept
 out to me 'hurry up...get going...' [3-59-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing that cry of distress (tam ārta-svaram), Maithilī, weeping (rudatī) and overwhelmed by fear (bhaya-viklavā) out of love for you (tava snehena), [urged] me at once (āśu), ‘Go! Go!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -449,6 +497,12 @@ you, [with my] confidence, having [expressive of]; *idam vaakyam* = this, senten
 
 "When she frequently and insistingly compelled me to go, I have replied Maithili in this sentence which
 is expressive of my confidence in you. [3-59-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Being urged on repeatedly (bahuśaḥ) by her with the words ‘Go!’, I replied to Maithilī with this speech imbued with confidence (tat pratyayānvitam):
 </details>
 </details>
 
@@ -497,6 +551,12 @@ even, this way, said [mimicked, typified.]
 
 " 'I do no think that there is a demon who can cause panic to Rama. All this is feigning. Someone might
 have typified his voice in this way, please control yourself. [3-59-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I do not see any demon (na tat paśyāmy ahaṃ rakṣaḥ) that could cause fear to him (yad asya bhayam āvahet); be at ease (nirvṛtā bhava)! This is nothing real (nāsty etat); this cry has been uttered by someone else (kenāpy etad udāhṛtam).
 </details>
 </details>
 
@@ -550,6 +610,12 @@ in such circumstances. [3-59-11]
 A hero will not expose a lady to risk when he himself is involved in such a risky position. aapat kaale
 strii samaahvaanasya kshudra kR^ityatvaat kutsitam - Govindaraja.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘How, O Sītā, could my noble brother—who can rescue even the thirty-three gods (yas trāyet tridaśān api)—utter such a reprehensible (vigarhitam) and base (nīcam) word as “Save me (trāhi)!”?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -600,6 +666,12 @@ _________________
 " 'But, somehow, for some reason, someone mimicking my brother's voice discordantly shouted words saying,
 'Lakshmana save me.' [3-59-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘For some motive (kiṃ-nimittaṃ tu), someone, adopting my brother's voice (bhrātur ālambya me svaram), has uttered in a discordant tone (visvaram) the words, “O Lakṣmaṇa, save me!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -647,6 +719,12 @@ a demon - say Maareecha; *iiritam vaakyam* = voiced, words; *traahi iti* = save 
 " 'Oh, auspicious lady, it is unbefitting for you to panic, like lowly womenfolk who will be frivolously
 panicking for flimsy reasons, for the words like 'save me,' shouted by some demon, who may conceivably
 be Maareecha. [3-59-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Out of terror (trāsāt), O fair lady (śobhane), the cry “Save me!” was uttered by the demon (rākṣaseneritaṃ vākyam); you ought not to indulge in anguish (na bhavatyā vyathā kāryā) such as is resorted to by ordinary women (kunārī-jana-sevitā).
 </details>
 </details>
 
@@ -707,6 +785,14 @@ worlds who took birth, or going to take birth, to defeat Raghava in any given ba
 nature. Raghava is undefeatable even if all gods come battling along with Indra in their van.' This
 is what I said to Vaidehi" Thus Lakshmana is informing Rama. [3-59-14, 15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “‘Enough of giving way to agitation (alaṃ viklavatāṃ gantum)! Be calm (svasthā bhava) and free from anxious longing (nirutsukā); for there is no man (na cāsti... pumān) in the three worlds (triṣu lokeṣu) who in battle (raṇe)—
+
+**15:** “‘—either born or yet to be born (jāto vā jāyamāno vā), could vanquish Rāghava in combat (saṃyuge yaḥ parājayet)! Rāghava is invincible in battle (ajeyo rāghavo yuddhe) even by the gods headed by Śakra (devaiḥ śakra-purogamaiḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -751,6 +837,12 @@ maam* = to me; *idam daaruNam vacaH* = this, tart, word; *uvaaca* = said.
 
 "Though I said thus, while her volition is overly besotted for you, Vaidehi said this tartly word to
 me outpouring tears. [3-59-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus addressed, however, Vaidehī, her mind bewildered (parimohita-cetanā), shedding tears (aśrūṇi muñcantī), spoke to me these cruel words (dāruṇaṃ mām idaṃ vacaḥ):
 </details>
 </details>
 
@@ -801,6 +893,12 @@ _________________
 " 'In my respect you have harboured only an impure and nastily perspective to achieve me on the utter
 ruination of your brother, but I am unachievable to you. [3-59-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘An utterly wicked intention (bhāvo... atyarthaṃ pāpa eva) has been fixed by you upon me (mayi tava niveśitaḥ), hoping to win me when your brother has perished (vinaṣṭe bhrātari prāptum); yet you shall never obtain me (na ca tvaṃ mām avāpsyase)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -826,6 +924,12 @@ ruination of your brother, but I am unachievable to you. [3-59-17]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तू भरतके इशारेसे अपने स्वार्थके लिये श्रीरामचन्द्रजीके पीछे-पीछे आया है । तभी तो वे जोर-जोरसे चिल्ला रहे हैं और तू उनके पास जाता तक नहीं है ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘By secret compact with Bharata (saṃketād bharatena) do you follow Rāma (rāmaṃ samanugacchasi), seeing how (hi yathā) you do not go to rescue him (nainam abhyavapadyase) when he cries out so piteously (krośantam atyartham)!
 </details>
 </details>
 
@@ -892,6 +996,12 @@ ripuH* = [Rama's,] adversary; such as you are; *tvam* = you are; *raaghavasya* =
 " 'You are an adversary of Rama comporting yourself in disguise, following him because of me, and searching
 for a leeway from Rama. Thereby now you are not rushing to Rama. [3-59-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘A foe moving in disguise (ripuḥ pracchanna-cārī), you follow for my sake (mad-artham anugacchasi); seeking a vulnerable opening against Rāghava (rāghavasyāntaraṃ prepsuḥ), you therefore do not go to his aid (tathainaṃ nābhipadyase)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -937,6 +1047,12 @@ for a leeway from Rama. Thereby now you are not rushing to Rama. [3-59-19]
 
 "When Vaidehi spoke to me thus I hurriedly came out of hermitage to you with anger reddening my eyes
 and trembling my lips. [3-59-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus addressed by Vaidehī, incensed (saṃrabdhaḥ), with reddened eyes (rakta-locanaḥ) and lips quivering with wrath (krodhāt prasphuramāṇoṣṭhaḥ), I rushed forth from the hermitage (āśramād abhinirgataḥ).”
 </details>
 </details>
 
@@ -989,6 +1105,12 @@ mohitaH* = by angst, deluded; *raamaH* = Rama; *abraviit* = said; *saumya*
 Rama who is deluded by angst said to Soumitri who is speaking thus, that "your arrival without her is
 an improper deed, oh, gentle one. [3-59-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To Saumitri speaking thus, Rāma, bewildered by anguish (saṃtāpa-mohitaḥ), said: “An evil deed has been done (duṣkṛtam), O gentle one (saumya), in that you have come here without her (tāṃ vinā tvam ihāgataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1033,6 +1155,12 @@ vaakyena* = of Maithili, by angry, words; *nirgataH* = exited - hermitage.
 
 "You know that I am capable enough to foil the demons, even then you have come out by the angry words
 of Maithili? [3-59-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even though knowing me to be fully capable (jānann api samarthaṃ mām) of warding off the demons (rakṣasām apavāraṇe), you departed (nirgato bhavān) because of these angry words of Maithilī (anena krodha-vākyena maithilyāḥ)!
 </details>
 </details>
 
@@ -1084,6 +1212,12 @@ lady's; *paruSam shrutvaa* = bitter [words,] on hearing; *yat* = who; *tvam iha 
 "On hearing bitter words of an angry lady you have came away on leaving her off, such as you are, I
 am not at all happy with you. [3-59-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For I am not at all pleased with you (nahi te parituṣyāmi) in that you have come here (yat tvam ihāgataḥ), abandoning Maithilī (tyaktvā maithilīm) upon hearing the harsh words of an angry woman (kruddhāyāḥ paruṣaṃ śrutvā striyāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1129,6 +1263,12 @@ yat* = thus, which [that which issue is there]; *sarvathaa te* = in everyway, of
 
 "That which action of yours is there in non-compliance of my directive to stand guard to Seetha, either
 compelled by Seetha, or coming under your own ire, it shows your dereliction in everyway. [3-59-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In every way (sarvathā), it was ill-judged of you (apanītaṃ te) that, urged on by Sītā (sītayā yat pracoditaḥ) and falling under the sway of anger (krodhasya vaśam āgamya), you did not obey my command (nākaroḥ śāsanaṃ mama)!
 </details>
 </details>
 
@@ -1176,6 +1316,12 @@ a demon indeed; *maya* = by me; *shareNa abhihataH shete* = by arrow, hit down, 
 "By whom I am detoured from hermitage in the form of a deer he is indeed a demon, and he fell flat when
 my arrow hit him down. [3-59-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For yonder lies that demon (asau hi rākṣasaḥ śete), struck down by me with an arrow (śareṇābhihato mayā), by whom in the form of a deer (mṛga-rūpeṇa) I was lured away from the hermitage (āśramād apavāhitaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1222,6 +1368,12 @@ svaraH* = piteously, voicing [bewailing]; *keyuura dharaH* = bracelets [and the 
 "When I effortlessly shot an arrow setting on bowstring and stretching the bow to full length, he hit
 by that arrow left deer's body to become a piteously bewailing demon wearing bracelets and the like
 ornaments. [3-59-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Drawing my bow (vikṛṣya cāpam) and fitting a shaft (paridhāya sāyakam), when he was struck by me with an effortlessly loosed arrow (salīla-bāṇena), he cast off his deer's body (mārgīṃ tanuṃ tyajya) and, with a faltering voice (viklava-svaraḥ), became that armlet-wearing demon (keyūra-dharaḥ sa rākṣasaḥ)!
 </details>
 </details>
 
@@ -1288,6 +1440,12 @@ here forsaking Maithili." Thus Rama said to Lakshmana on their way to their herm
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥59॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Struck by the arrow (śarāhatenaiva), with an anguished voice (ārtayā girā) adopting my tone (svaraṃ mamālambya) so as to be clearly audible from afar (sudūra-suśravam), he uttered that most dreadful cry (udāhṛtaṃ tad vacanaṃ sudāruṇam) because of which you came here, forsaking Maithilī (vihāya maithilīm)!”
 </details>
 </details>
 

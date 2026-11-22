@@ -39,6 +39,12 @@ _________________
 
 किम्पुरुष जातिय उत्पत्तिय ई प्रसङ्गवन्नु केळि लक्ष्मण मत्तु भरतरु महाराजा श्रीरामनल्लि इदादरो बहळ आश्चर्यद मातागिदॆ ऎन्दु हेळिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing of the origin of the Kimpuruṣas (śrutvā kimpuruṣotpattim), Lakṣmaṇa and Bharata then (lakṣmaṇo bharatas tadā) both exclaimed to Rāma, lord of men (ubhau rāmaṃ janeśvaram): “How wondrous (āścaryam iti cābrūtām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,6 +69,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर महायशस्वी धर्मात्म श्रीरामनु प्रजापति कर्दम पुत्र इलन कथॆयन्नु हीगॆ मुन्दुवरिसिदनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the greatly renowned and righteous Rāma (mahāyaśāḥ ... dharmātmā) recounted yet further (bhūya eva ... kathayām āsa) this tale concerning the son of the Prajāpati (kathām etāṃ ... prajāpati-sutasya vai):
 </details>
 </details>
 
@@ -92,6 +104,12 @@ _________________
 
 आ ऎल्ल किन्नरियरु पर्वतद तप्पलिगॆ हॊरटुहोदुदन्नु नोडि मुनिश्रेष्ठ बुधनु आ रूपवति स्त्रीयल्लि नगुत्ता हेळिदन.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding all those Kinnarī women dispersed (sarvās tā vidrutā dṛṣṭvā kinnarīḥ), that foremost of sages (ṛṣi-sattamaḥ), as though smiling gently (prahasann iva), spoke to that beauty-endowed woman (rūpa-sampannāṃ tāṃ striyam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +134,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुमुखि! नानु सोम देवन परप्रिय पुत्रनागिद्देनॆ. वरारोहे! नन्नन्नु अनुराग मत्तु स्नेह तुम्बिद दृष्टियिन्द नोडि तन्नवनन्नागिसिको.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I am the deeply beloved son of Soma (somasyāhaṃ sudayitaḥ sutaḥ), O lady of exquisitely lovely face (surucirānane); accept me, O fair-hipped one (bhajasva māṃ varārohe), with devotion and an affectionate glance (bhaktyā snigdhena cakṣuṣā)!’
 </details>
 </details>
 
@@ -142,6 +166,12 @@ _________________
 
 स्वजन रहितनाद निर्जन स्थानदल्लि बुधन मातन्नु केळि इला आ परम सुन्दर महातेजस्वी बुधनल्लि हीगॆ नुडिदळु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those words of his in that solitary place bereft of her own folk (śūnye svajana-varjite), Ilā replied to that great planetary deity (pratyuvāca mahāgraham) of radiant appearance (surucira-prakhyam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -166,6 +196,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सौम्य सोमकुमार! नानु स्वेच्छॆयिन्द सञ्चरिसुव स्वतन्त्रळागिद्देनॆ, आदरॆ ईग तम्म आज्ञॆगॆ अधीननागिद्देनॆ. आद्दरिन्द ननगॆ उचित सेवॆगागि आदेश कॊडि मत्तु तम्म इच्छॆयन्तॆ माडिरि.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I wander at my own free will, O gentle one (ahaṃ kāmacarī saumya), and I am wholly subject to your command (tavāsmi vaśa-vartinī); direct me, O son of Soma (praśādhi māṃ soma-suta), and do just as you desire (yathecchasi tathā kuru)!’
 </details>
 </details>
 
@@ -192,6 +228,12 @@ _________________
 
 इलाळ ई अद्भुत वचन केळि कामासक्त सोमपुत्रनिगॆ बहळ हर्षवायितु. अवनु आकॆयॊन्दिगॆ रमिसतॊडगिदनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those marvel-like words of hers (tasyās tad adbhuta-prakhyaṃ śrutvā), that passionate son of the Moon (sa vai kāmī ... candramasaḥ sutaḥ), filled with delight (harṣam upāgataḥ), sported lovingly with her (saha tayā reme).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -216,6 +258,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मनोहर मुखवुळ्ळ इलाळॊन्दिगॆ अतिशय रमिसुत्ता बुधन वैशाखमासवु ऒन्दु क्षणदन्तॆ कळॆदुहोयितु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For that enamored Budha (budhasya ... tasya kāminaḥ), delighting exceedingly in that fair-faced Ilā (tām ilāṃ rucirānanāṃ ramayato ’tyartham), the spring month of Mādhava passed away like a single instant (mādhavo māsaḥ ... gato ... kṣaṇavat).
 </details>
 </details>
 
@@ -242,6 +290,12 @@ _________________
 
 ऒन्दु तिङ्गळु पूर्णवादाग चन्द्रनन्तॆ मुखवुळ्ळ प्रजापति पुत्र श्रीमान् इलनु तन्न शय्यॆयिन्द ऎद्दनु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, when the month was fulfilled (atha māse tu sampūrṇe), that glorious son of the Prajāpati (prajāpati-sutaḥ śrīmān), his face radiant as the full moon (pūrṇendu-sadṛśānanaḥ), awakened upon a couch (śayane pratyabudhyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -266,6 +320,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सोमपुत्र बुधनु अल्लि जलाशयदल्लि भुजगळन्नु मेलक्कॆत्ति, निराधारवागि निन्तु तपस्सु माडुत्तिरुवुदन्नु नोडि, इल राजनु बुधनल्लि केळिदनु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He beheld the son of Soma there (so ’paśyat somajaṃ tatra), performing austerity in the lake (tapantaṃ salilāśaye), with arms upraised and without support (ūrdhva-bāhuṃ nirālambam), and the king addressed him (taṃ rājā pratyabhāṣata):
 </details>
 </details>
 
@@ -292,6 +352,12 @@ _________________
 
 पूज्यरे! नानु नन्न सेवकरॊन्दिगॆ दुर्गम पर्वतक्कॆ बन्दिद्दॆ, आदरॆ इल्लि आ सैन्यवु ननगॆ कण्डुबरुवुदिल्ल. नन्न सैनिकरु ऎल्लिगॆ होदरो तिळियदु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O venerable lord, I entered this rugged mountain accompanied by my retinue (parvataṃ durgaṃ praviṣṭo ’smi sahānugaḥ), yet I do not see that army (na ca paśyāmi tat sainyam)—where indeed have those followers of mine gone (kva nu te māmakā gatāḥ)?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,6 +383,12 @@ _________________
 
 राजर्षि इलन स्त्रीत्वद विषयद स्मृति नाशवागित्तु. अवन मातन्नु केळि बुधनु अवनन्नु सान्त्वन पडिसुत्ता इन्तॆन्दनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those words of the royal sage whose memory had vanished (tasya rājarṣer naṣṭa-sañjñasya bhāṣitam), Budha spoke an auspicious reply (pratyuvāca śubhaṃ vākyam), soothing him with most gracious speech (sāntvayan parayā girā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +413,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! निम्म ऎल्ल सेवकरु आलिकल्लिन भारी मळॆयिन्द सत्तुहोदरु. नीनू कूड चण्डमारुतद नीरिनिन्द भयगॊण्डु ई आश्रमक्कॆ बन्दु मलगिद्दॆ.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘By a mighty shower of stones (aśma-varṣeṇa mahatā), your retainers were struck down (bhṛtyās te vinipātitāḥ); and you, tormented by fear of the wind and storm (vāta-varṣa-bhayārditaḥ), lay asleep within the hermitage precinct (āśrama-pade suptaḥ).
 </details>
 </details>
 
@@ -370,6 +448,12 @@ _________________
 
 वीरने! ईग नीनु धैर्य वहिसु. निनगॆ मङ्गळवागलि. नीनु निर्भयनागि, निश्चिन्तवागि फल-मूलगळन्नु तिन्नुत्ता इल्लि सुखवागि वासिसु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Take heart—may all be well with you (samāśvasihi bhadraṃ te), free from fear and rid of feverish grief (nirbhayo vigata-jvaraḥ)! Sustaining yourself on fruits and roots, O hero (phala-mūlāśano vīra), dwell right here at your ease (nivaseha yathāsukham).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -394,6 +478,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बुधन ई मातिनिन्द परम बुद्धिवन्त राजा इलनिगॆ बहळ आश्वासनॆ दॊरकिदरू तन्न सेवकरु नाशवागिद्दरिन्द बहळ दुःखियागिद्दनु, आद्दरिन्द अवनु इन्तॆन्दनु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Somewhat reassured by those words (sa rājā tena vākyena pratyāśvasto mahāmatiḥ), that high-minded king, deeply dejected over the loss of his retainers (dīno bhṛtya-kṣayād bhṛśam), then spoke this reply (pratyuvāca tato vākyam):
 </details>
 </details>
 
@@ -420,6 +510,12 @@ _________________
 
 ब्रह्मन्! नानु सेवकरिन्द रहितनागिद्दरू राज्यवन्नु त्याग माडलारॆनु. ईग क्षण मात्रवू नानु इल्लि इरलारॆ, आद्दरिन्द ननगॆ होगलु अप्पणॆ कॊडिरि.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I shall relinquish my own kingdom (tyakṣyāmy ahaṃ svakaṃ rājyam); bereft of my retainers, I cannot endure even a moment (nāhaṃ bhṛtyair vinākṛtaḥ vartayeyaṃ kṣaṇam), O brahmin—be pleased to grant me leave to depart (brahman samanujñātum arhasi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -445,6 +541,12 @@ _________________
 
 ब्रह्मन्! नन्न धर्मपरायण जेष्ठ पुत्रनु यशस्वियागिद्दानॆ. शशबिन्दु अवन हॆसरु. नानु अल्लिगॆ होगि अवनिगॆ पट्टाभिषेक माडिदागले अवनु नन्न राज्यवन्नु स्वीकरिसुवन.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘My eldest son, devoted to dharma and of great renown (suto dharma-paro ... jyeṣṭho mama mahāyaśāḥ), famed by the name of Śaśabindu (śaśabindur iti khyātaḥ)—he shall take charge of my kingdom (sa me rājyaṃ prapatsyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,6 +571,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महातेजस्वी मुने! देशदल्लिरुव नन्न सेवकरु, पत्नी, पुत्र मॊदलाद परिवारद जनरन्नु बिट्टु नानु इल्लि इरलारॆ. अदरिन्द स्वजनरन्नु अगलि नानु दुःखदिन्द इरलु विवशनागुवन्तह अशुभ मातन्नाडबेडि.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘For indeed I could not bear to abandon the happy wives of my retainers (na hi śakṣyāmy ahaṃ hitvā bhṛtya-dārān sukhānvitān), nor could I speak any ill tidings at all (prativaktuṃ ... kiñcid apy aśubhaṃ vacaḥ), O greatly resplendent one!’
 </details>
 </details>
 
@@ -499,6 +607,14 @@ _________________
 
 राजेन्द्र इलनु हीगॆ हेळिदाग बुधनु अवनन्नु सान्त्वनपडिसुत्ता अत्यन्त अद्भुतवाद मातन्नु हेळिदनु - राजने! नीनु सन्तोषवागि इल्लि इरलु स्वीकरिसु. कर्दमपुत्रने! नीनु सन्ताप पडबेड. नीनु ऒन्दु वर्षदवरॆगॆ इल्लि वासिसिदाग नानु निन्न हितसाधनॆ माडुवॆनु.॥19-20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “While the lord of kings was speaking thus (tathā bruvati rājendre), Budha uttered exceedingly wondrous words preceded by gentle consolation (paramam adbhutaṃ sāntva-pūrvam athovāca): ‘Let dwelling right here find favor with you (vāsas ta iha rocatām)!
+
+**20:** “‘You must not give way to anguish (na santāpas tvayā kāryaḥ), O mighty son of Kardama (kārdameya mahābala); when you have dwelt here for one year (saṃvatsaroṣitasyeha), I shall accomplish your highest good (kārayiṣyāmi te hitam).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -523,6 +639,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुण्यकर्मा बुधन मातन्नु केळि ब्रह्मवादी महात्मन मातिनन्तॆ राजनु अल्लि इरलु निश्चयिसिदनु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those words of Budha of untiring deeds (budhasyākliṣṭa-karmaṇaḥ), he set his mind upon dwelling there (vāsāya vidadhe buddhim), just as that expounder of the Veda had declared (yad uktaṃ brahma-vādinā).
 </details>
 </details>
 
@@ -549,6 +671,12 @@ _________________
 
 अवनु ऒन्दु तिङ्गळवरॆगॆ स्त्रीयागिद्दु निरन्तर बुधनॊन्दिगॆ रमिसुत्ता मत्तॆ ऒन्दु तिङ्गळु पुरुषनागि धर्मानुष्ठानदल्लि मनस्सु तॊडगिसुत्तिद्दनु.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Becoming a radiant woman for one month (māsaṃ sa strī tadā bhūtvā), she delighted him ceaselessly (ramayaty aniśaṃ śubhā); and for the next month, in masculine form (māsaṃ puruṣa-bhāvena), he devoted his mind to dharma (dharma-buddhiṃ cakāra saḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -574,6 +702,12 @@ _________________
 
 अनन्तर ऒम्भत्तनॆय तिङ्गळल्लि सुन्दरी इलाळु सोमपुत्र बुधन ऒब्ब पुत्रनिगॆ जन्म नीडिदळु. अवन हॆसरु पुरूरव ऎन्दिद्दु, बहळ तेजस्वी मत्तु बलवन्तनागिद्दनु.॥23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, in the ninth month (tataḥ sā navame māsi), that shapely Ilā bore to the son of Soma (ilā soma-sutāt ... janayām āsa suśroṇī) a mighty son named Purūravas (sutam ... purūravasam ūrjitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -598,6 +732,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आमहाबली पुत्रन अङ्गकान्तियु बुधनन्तॆ इत्तु. अवनुहुट्टुत्तले उपनयनक्कॆ योग्यवयस्सिन बालकनादनु. इदरिन्द सुन्दरी इलाळु अवनन्नु तन्दॆगॆ ऒप्पिसिबिट्टळु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The very instant he was born (jāta-mātraṃ tu), the shapely Ilā placed that mighty son (suśroṇī ... ilā putraṃ mahābalam), equal in complexion and splendor to Budha (budhasya sama-varṇābham), into his father’s hands (pitur haste nyaveśayat).
 </details>
 </details>
 
@@ -634,6 +774,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऎम्भत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥89॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And during the remainder of that year (sa vai saṃvatsarāntaram), the self-possessed Budha delighted the king in his masculine state (budhas tu puruṣī-bhūtaṃ ... ramayām āsa) with discourses imbued with dharma (kathābhir dharma-yuktābhiḥ).”
 </details>
 </details>
 

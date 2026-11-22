@@ -32,6 +32,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 तदनन्तर महातेजस्वी श्रीरामने मुनिश्रेष्ठ अगस्त्यको प्रणाम करके पुनः विस्मयपूर्वक पूछा— ॥ १ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma of mighty radiance (tato rāmo mahātejāḥ), filled once more with wonder (vismayāt punar eva hi), bowed low (praṇataḥ) and addressed these words to Agastya, foremost of sages (agastyam ṛṣisattamam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -51,6 +57,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘भगवन्! द्विजश्रेष्ठ! जब क्रूर निशाचर रावण पृथ्वीपर विजय करता घूम रहा था, उस समय क्या यहाँके सभी लोग शौर्यसम्बन्धी गुणोंसे शून्य ही थे? ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O revered one (bhagavan), O foremost of the twice-born (dvijottama), from the time that cruel rākṣasa roamed the earth (rākṣasaḥ krūro yadāprabhṛti medinīm paryaṭat), were the worlds then altogether empty (kiṃ tadā lokāḥ śūnyā āsan)?
 </details>
 </details>
 
@@ -72,6 +84,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘क्या उन दिनों यहाँ कोई भी क्षत्रिय-नरेश अथवा क्षत्रियेतर राजा अधिक बलवान् नहीं था, जिससे इस भूतलपर पहुँचकर राक्षसराज रावणको पराजित या अपमानित होना नहीं पड़ा ॥ ३ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Was there neither consecrated king nor even a mere chieftain here (rājā vā rājamātro vā kiṃ tadā nātra kaścana), such that Rāvaṇa, lord of the rākṣasas (rāvaṇo rākṣaseśvaraḥ), met with no humiliation (dharṣaṇaṃ yatra na prāptaḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -91,6 +109,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अथवा उस समयके सभी राजा पराक्रमशून्य तथा शस्त्रज्ञानसे हीन थे, जिसके कारण उन बहुसंख्यक श्रेष्ठ नरपालोंको रावणसे परास्त होना पड़ा’ ॥ ४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or else were those guardians of the earth stripped of valor (utāho hatavīryās te babhūvuḥ pṛthivīkṣitaḥ), and, bereft of supreme celestial missiles (bahiṣkṛtā varāstraiś ca), were many kings thus vanquished (bahavo nirjitā nṛpāḥ)?”
 </details>
 </details>
 
@@ -112,6 +136,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 श्रीरामचन्द्रजीकी यह बात सुनकर भगवान् अगस्त्य-मुनि ठठाकर हँस पड़े और जैसे ब्रह्माजी महादेवजीसे कोई बात कहते हों, इसी तरह वे श्रीरामचन्द्रजीसे बोले— ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāghava’s words (rāghavasya vacaḥ śrutvā), the revered sage Agastya (agastyo bhagavān ṛṣiḥ) laughed aloud (prahasan) and addressed Rāma (uvāca rāmam), even as the Grandfather Brahmā addresses Īśvara [Śiva] (pitāmaha iveśvaram):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,6 +161,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘पृथ्वीनाथ! भूपालशिरोमणे! श्रीराम! इसी प्रकार सब राजाओंको सताता और पराजित करता हुआ रावण इस पृथ्वीपर विचरने लगा ॥ ६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Harassing earthly sovereigns in this very manner (ity evaṃ bādhamānas tu pārthivān), O bull among princes (pārthivarṣabha), Rāvaṇa roamed the earth (cacāra rāvaṇo ... pṛthivīm), O Rāma, O lord of the earth (pṛthivīpate)!
 </details>
 </details>
 
@@ -152,6 +188,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘घूमते-घूमते वह स्वर्गपुरी अमरावतीके समान सुशोभित होनेवाली माहिष्मती नामक नगरीमें जा पहुँचा, जहाँ अग्निदेव सदा विद्यमान रहते थे ॥ ७ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon he arrived at the city named Māhiṣmatī (tato māhiṣmatīṃ nāma purīm), resplendent as the city of heaven (svargapurī-prabhām), where the presence of the Fire-god ever abode (yatra sānnidhyaṃ sadāsīd vasuretasaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -171,6 +213,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उन अग्निदेवके प्रभावसे वहाँ अग्निके ही समान तेजस्वी अर्जुन नामक राजा राज्य करता था, जिसके राज्यकालमें कुशास्तरणसे युक्त अग्निकुण्डमें सदा अग्निदेवता निवास करते थे ॥ ८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There dwelt a king named Arjuna (arjuno nāma ... nṛpaḥ), equal to that Fire-god in majesty (tulya āsīt ... prabhāvād vasuretasaḥ), in whose realm Agni forever reclined within a pit strewn with śara reeds (yatrāgniḥ śarakuṇḍeśayaḥ sadā).
 </details>
 </details>
 
@@ -192,6 +240,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘जिस दिन रावण वहाँ पहुँचा, उसी दिन बलवान् हैहयराज राजा अर्जुन अपनी स्त्रियोंके साथ नर्मदा नदीमें जल-क्रीड़ा करनेके लिये चला गया था ॥ ९ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“On that very day (tam eva divasam), that mighty sovereign of the Haihayas (haihayādhipatir balī), Lord Arjuna (arjuno ... īśvaraḥ), had gone to the Narmadā to sport there with his womenfolk (narmadāṃ rantuṃ gataḥ strībhiḥ saha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -212,6 +266,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘उसी दिन रावण माहिष्मतीपुरीमें आया । वहाँ आकर राक्षसराज रावणने राजाके मन्त्रियोंसे पूछा— ॥ १० ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“On that very day (tam eva divasam) Rāvaṇa arrived there (rāvaṇas tatra āgataḥ); and Rāvaṇa, lord of the rākṣasas (rāvaṇo rākṣasendras tu), questioned his ministers (tasyāmātyān apṛcchata):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -231,6 +291,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मन्त्रियो! जल्दी और ठीक-ठीक बताओ, राजा अर्जुन कहाँ हैं? मैं रावण हूँ और तुम्हारे महाराजसे युद्ध करनेके लिये आया हूँ ॥ ११ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Where is King Arjuna (kvārjuno nṛpatiḥ)? Deign to tell me truly and at once (śīghraṃ samyag ākhyātum arhatha)! I, Rāvaṇa, have arrived desiring battle with that foremost of men (rāvaṇo ’ham anuprāpto yuddhepsur nṛvareṇa ha); let my arrival too be promptly announced before him by you (mamāgamanam apy agre yuṣmābhiḥ sannivedyatām)!’
 </details>
 </details>
 
@@ -254,6 +320,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘तुमलोग पहले ही जाकर उन्हें मेरे आगमनकी सूचना दे दो ।’ रावणके ऐसा कहनेपर राजाके विद्वान् मन्त्रियोंने राक्षसराजको बताया कि हमारे महाराज इस समय राजधानीमें नहीं हैं ॥ १२ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Addressed thus by Rāvaṇa (ity evaṃ rāvaṇenoktāḥ), those deeply learned ministers (te ’mātyāḥ suvipaścitaḥ) informed the lord of the rākṣasas of the king’s absence (abruvan rākṣasapatim asānnidhyaṃ mahīpateḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -273,6 +345,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘पुरवासियोंके मुखसे राजा अर्जुनके बाहर जानेकी बात सुनकर विश्रवाका पुत्र रावण वहाँसे हटकर हिमालयके समान विशाल विन्ध्यगिरिपर आया ॥ १३ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing from the citizens that Arjuna had departed (śrutvā ... paurāṇām arjunaṃ gatam), the son of Viśravas turned back (apasṛtya) and came unto the Vindhya mountain (āgato vindhyam), resembling Himavat (himavat-sannibhaṃ girim).
 </details>
 </details>
 
@@ -296,6 +374,14 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘वह इतना ऊँचा था कि उसका शिखर बादलोंमें समाया हुआ-सा जान पड़ता था तथा वह पर्वत पृथ्वी फोड़कर ऊपरको उठा हुआ-सा प्रतीत होता था । विन्ध्यके गगनचुम्बी शिखर आकाशमें रेखा खींचते-से जान पड़ते थे । रावणने उस महान् शैलको देखा । वह अपने सहस्रों शृङ्गोंसे सुशोभित हो रहा था और उसकी कन्दराओंमें सिंह निवास करते थे ॥ १४-१५ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “That Rāvaṇa beheld the Vindhya (apaśyad rāvaṇo vindhyam), seemingly entered into a great cloud (abhram ivāviṣṭam), as though bursting upward out of the earth (udbhrantam iva medinīm), and as though grazing the sky (ālikhantam ivāmbaram)—
+
+**15:** “Endowed with a thousand peaks (sahasra-śikharopetam), its caverns haunted by lions (siṃhādhyuṣita-kandaram), and resembling a boisterously laughing ocean (sāṭṭahāsam ivāmbudhim) with its waters tumbling down from steep cliffs (prapāta-patitais toyaiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,6 +404,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘उसके सर्वोच्च शिखरके तटसे जो शीतल जलकी धाराएँ गिर रही थीं, उनके द्वारा वह पर्वत अट्टहास करता-सा प्रतीत होता था । देवता, दानव, गन्धर्व और किन्नर अपनी-अपनी स्त्रियों और अप्सराओंके साथ वहाँ क्रीड़ा कर रहे थे । वह अत्यन्त ऊँचा पर्वत अपनी सुरम्य सुषमासे स्वर्गके समान सुशोभित हो रहा था ॥ १६ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Transformed into a very heaven (svargabhūtam) of towering loftiness (mahocchrayam) by gods, Dānavas, and Gandharvas, together with troops of Apsarases and Kinnaras (sāpsarogaṇa-kinnaraiḥ), sporting with their own womenfolk (svastrībhiḥ krīḍamānaiś ca);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,6 +431,14 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘स्फटिकके समान निर्मल जलका स्रोत बहानेवाली नदियोंके कारण वह विन्ध्यगिरि चञ्चल जिह्वावाले फनोंसे उपलक्षित शेषनागके समान स्थित था । अधिक ऊँचाईके कारण वह ऊर्ध्वलोकको जाता-सा जान पड़ता था । हिमालयके समान विशाल एवं विस्तृत विन्ध्यगिरि बहुत-सी गुफाओंसे युक्त दिखायी देता था ॥ १७-१८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** “Standing like the cosmic serpent Ananta (anantam iva viṣṭhitam), with rivers pouring forth crystal-clear water (nadībhiḥ syandamānābhiḥ sphaṭika-pratimaṃ jalam) like flickering-tongued serpent hoods (phaṇābhiś cala-jihvābhiḥ).
+
+**18:** “Gazing upon that soaring, cavern-filled Vindhya mountain resembling Himavat (utkrāmantaṃ darīvantaṃ himavat-sannibhaṃ girim paśyamānaḥ), Rāvaṇa then went unto the sacred Narmadā (narmadāṃ yayau ... puṇyām), whose waters dance over pebbles (calopala-jalām) as she flows toward the western ocean (paścimodadhi-gāminīm).
 </details>
 </details>
 
@@ -364,6 +464,14 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘विन्ध्याचलकी शोभाको देखता हुआ रावण पुण्यसलिला नर्मदा नदीके तटपर गया, जिसमें शिलाखण्डोंसे युक्त चञ्चल जल प्रवाहित हो रहा था । वह नदी पश्चिम समुद्रकी ओर चली जा रही थी । धूपसे तपे हुए प्यासे भैंसे, हिरन, सिंह, व्याघ्र, रीछ और गजराज उस जलाशयको विक्षुब्ध कर रहे थे ॥ १९-२० ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “—whose waters were churned (saṅkṣobhita-jalāśayām) by buffaloes, sṛmara deer, lions, tigers, bears, and lordly elephants (mahiṣaiḥ sṛmaraiḥ siṃhaiḥ śārdūlarkṣa-gajottamaiḥ), scorched by heat and tormented by thirst (uṣṇābhitaptais tṛṣitaiḥ);
+
+**20:** “Thronged all around (samāvṛtām) by cakravāka ducks together with kāraṇḍava birds, geese, and water-fowl (sakāraṇḍaiḥ sahaṃsa-jalakukkuṭaiḥ), and by ever-intoxicated sārasa cranes sweetly calling (sārasaiś ca sadā mattaiḥ sukūjadbhiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -383,6 +491,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सदा मतवाले होकर कलरव करनेवाले चक्रवाक, कारण्डव, हंस, जलकुक्कुट और सारस आदि जलपक्षी नर्मदाकी जल राशिपर छा रहे थे ॥ २१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Wearing blossoming trees as her ear-chaplets (phulla-druma-kṛtottaṃsām), having pairs of cakravākas for her twin breasts (cakravāka-yugastanīm), broad sandbanks for her hips (vistīrṇa-pulina-śroṇīm), and rows of geese for her lovely girdle (haṃsāvali-sumekhalām);
 </details>
 </details>
 
@@ -416,6 +530,18 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘सरिताओंमें श्रेष्ठ नर्मदा परम सुन्दरी प्रियतमा नारीके समान प्रतीत होती थी । खिले हुए तटवर्ती वृक्ष मानो उसके आभूषण थे । चक्रवाकके जोड़े उसके दोनों स्तनोंका स्थान ले रहे थे । ऊँचे और विस्तृत पुलिन नितम्बके समान जान पड़ते थे । हंसोंकी पंक्ति मोतियोंकी बनी हुई मेखला (करधनी)-के समान शोभा दे रही थी । पुष्पोंके पराग ही अङ्गराग बनकर उसके अङ्ग-अङ्गमें अनुलिप्त हो रहे थे । जलका उज्ज्वल फेन ही उसकी स्वच्छ, श्वेत साड़ीका काम दे रहा था । जलमें गोता लगाना ही उसका सुखद संस्पर्श था और खिले हुए कमल ही उसके सुन्दर नेत्र जान पड़ते थे । राक्षसशिरोमणि दशमुख रावणने शीघ्र ही पुष्पकविमानसे उतरकर नर्मदाके जलमें डुबकी लगायी और बाहर निकलकर वह नाना मुनियोंसे सेवित उसके रमणीय तटपर अपने मन्त्रियोंके साथ बैठा ॥ २२—२५ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** “Her limbs anointed with flower-pollen (puṣpa-reṇv-anuliptāṅgīm), clad in spotless white raiment of river-foam (jala-phenāmalāṃśukām), yielding a blissful touch when plunged into (jalāvagāha-saṃsparśām), with lovely eyes of open lotuses (phullotpala-śubhekṣaṇām)—descending swiftly from Puṣpaka (puṣpakād avaruhyāśu) unto that Narmadā, foremost of rivers (narmadāṃ saritāṃ varām)—
+
+**23:** “Having plunged into her as into a cherished, lovely woman (iṣṭām iva varāṃ nārīm avagāhya), the Ten-Headed One (daśānanaḥ) sat upon her enchanting sandbank (tasyāḥ puline ramye), frequented by manifold sages (nānā-muni-niṣevite),
+
+**24:** “Together with his ministers seated close around him (upopaviṣṭaiḥ sacivaiḥ sārdham), that bull among rākṣasas (rākṣasapuṅgavaḥ); then Rāvaṇa praised the Narmadā, declaring, ‘This is the very Gaṅgā!’ (prakhyāya narmadāṃ so ’tha gaṅgeyam iti rāvaṇaḥ).
+
+**25:** “Having obtained delight born of beholding the Narmadā (narmadā-darśajaṃ harṣam āptavān), the lord of the rākṣasas (rākṣasādhipaḥ) playfully addressed his ministers there, Śuka and Sāraṇa (uvāca sacivāṃs tatra salīlaṃ śuka-sāraṇau):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -435,6 +561,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ये साक्षात् गङ्गा हैं’ ऐसा कहकर दशानन रावणने नर्मदाकी प्रशंसा की और उसके दर्शनसे हर्षका अनुभव किया ॥ २६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Behold! Having turned the world as though to gold with his thousand rays (raśmi-sahasreṇa jagat kṛtvaiva kāñcanam), this fiercely scorching sun (tīkṣṇa-tāpakaraḥ sūryaḥ), stationed at mid-heaven (nabhaso ’rdhaṃ samāśritaḥ), knowing that I am seated here (mām āsīnaṃ viditvaiva), acts as cool as the moon (candrāyati divākaraḥ)!
 </details>
 </details>
 
@@ -458,6 +590,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘फिर वहाँ उसने शुक, सारण तथा अन्य मन्त्रियोंसे लीलापूर्वक कहा—‘ये सूर्यदेव अपनी सहस्रों किरणोंसे सम्पूर्ण जगत् को मानो काञ्चनमय बनाकर प्रचण्ड ताप देते हुए इस समय आकाशके मध्यभागमें विराज रहे हैं ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘This breeze too, cooled by Narmadā’s waters (narmadā-jala-śītaś ca), fragrant, and banishing fatigue (sugandhiḥ śrama-nāśanaḥ), blows here gently and attentively (vāty eṣa susamāhitaḥ) out of fear of me (mad-bhayāt)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -480,6 +618,14 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘किंतु मुझे यहाँ बैठा जानकर ही चन्द्रमाके समान शीतल हो गये हैं । मेरे ही भयसे वायु भी नर्मदाके जलसे शीतल, सुगन्धित और श्रमनाशक होकर बड़ी सावधानीके साथ मन्दगतिसे बह रही है ॥ २८-२९ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** “‘And even this foremost of rivers, the joy-increasing Narmadā (saric-chreṣṭhā narmadā narma-vardhinī), whose waves teem with crocodiles, fish, and birds (nakra-mīna-vihaṅgormiḥ), stands still like a frightened woman (sabhayevāṅganā sthitā)!
+
+**29:** “‘Therefore you, wounded by weapons in battle (kṣatāḥ śastraiḥ ... yudhi) by kings equal to Indra (nṛpair indra-samaiḥ) and besprinkled with blood as with sandal-paste (candanasya raseneva rudhireṇa samukṣitāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -499,6 +645,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सरिताओंमें श्रेष्ठ यह नर्मदा भी क्रीड़ारस एवं प्रीतिको बढ़ा रही है । इसकी लहरोंमें मगर, मत्स्य और जलपक्षी खेल रहे हैं और यह भयभीत नारीके समान स्थित है ॥ ३० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Do you plunge into this auspicious, bliss-giving Narmadā (te yūyam avagāhadhvaṃ narmadāṃ śarmadāṃ śubhām), like rutting mighty elephants led by Mahāpadma entering the Gaṅgā (mahāpadma-mukhā mattā gaṅgām iva gahāgajāḥ)! Having bathed in this great river, you shall cast off all sin (asyāṃ snātvā mahānadyāṃ pāpmānaṃ vipramokṣyatha)!
 </details>
 </details>
 
@@ -520,6 +672,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘तुमलोग युद्धस्थलमें इन्द्रतुल्य पराक्रमी नरेशोंद्वारा अस्त्र-शस्त्रोंसे घायल कर दिये गये हो और रक्तसे इस प्रकार नहा उठे हो कि तुम्हारे अङ्गोंमें लालचन्दन रसका लेप-सा लगा हुआ जान पड़ता है ॥ ३१ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I too shall leisurely perform today (aham apy adya ... śanakaiḥ kariṣyāmi) a floral offering unto Kapardin [Śiva] (puṣpopahāraṃ ... kapardinaḥ) upon this sandbank radiant as the autumn moon (puline śaradindu-samaprabhe)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +697,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अतः तुम सब-के-सब सुख देनेवाली इस मङ्गलकारिणी नर्मदा नदीमें स्नान करो । ठीक उसी तरह, जैसे सार्वभौम आदि महान् दिग्गज मतवाले होकर गङ्गामें अवगाहन करते हैं ॥ ३२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Addressed thus by Rāvaṇa (rāvaṇenaivam uktās tu), Prahasta, Śuka, and Sāraṇa, together with Mahodara and Dhūmrākṣa (prahasta-śuka-sāraṇāḥ samahodara-dhūmrākṣāḥ), plunged into the Narmadā (narmadāṃ vijagāhire).
 </details>
 </details>
 
@@ -562,6 +726,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘इस महानदीमें स्नान करके तुम पाप-तापसे मुक्त हो जाओगे । मैं भी आज शरद्-ऋतुके चन्द्रमाकी भाँति उज्ज्वल नर्मदा-तटपर धीरे-धीरे जटाजूटधारी महादेवजीको फूलोंका उपहार समर्पित करूँगा’ ॥ ३३ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By those elephant-like rākṣasa chieftains (rākṣasendra-gajais tais tu) was the river Narmadā churned (kṣobhitā narmadā nadī), even as the Gaṅgā is churned by the great directional elephants led by Vāmana, Añjana, and Padma (vāmanāñjana-padmādyair gaṅgā iva mahāgajaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -581,6 +751,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘रावणके ऐसा कहनेपर प्रहस्त, शुक, सारण, महोदर और धूम्राक्षने नर्मदामें स्नान किया ॥ ३४ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon, having bathed in the Narmadā (snātvā narmadāyām) and come back ashore (uttīrya), those mighty rākṣasas (rākṣasāḥ ... mahābalāḥ) gathered blossoms for Rāvaṇa’s worship-offering (puṣpāṇy ājahrur balyarthaṃ rāvaṇasya tu).
 </details>
 </details>
 
@@ -602,6 +778,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘राक्षसराजकी सेनाके हाथियोंने नर्मदा नदीमें उतरकर उसके जलको मथ डाला, मानो वामन, अञ्जन, पद्म आदि बड़े-बड़े दिग्गजोंने गङ्गाजीके जलको विक्षुब्ध कर डाला हो ॥ ३५ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Upon that charming sandbank of the Narmadā (narmadā-puline hṛdye), gleaming like white autumn clouds (śubhrābhra-sadṛśa-prabhe), a veritable mountain of flowers was raised by the rākṣasas in a single moment (rākṣasais tu muhūrtena kṛtaḥ puṣpamayo giriḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -621,6 +803,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तदनन्तर वे महाबली राक्षस गङ्गामें स्नान करके बाहर आये और रावणके शिवपूजनके लिये फूल जुटाने लगे ॥ ३६ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When the flowers had thus been gathered and brought (puṣpeṣūpahṛteṣv evam), Rāvaṇa, lord of the rākṣasas (rāvaṇo rākṣaseśvaraḥ), descended into the river to bathe (avatīrṇo nadīṃ snātum), like a lordly elephant entering the Gaṅgā (gaṅgām iva mahāgajaḥ).
 </details>
 </details>
 
@@ -642,6 +830,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘श्वेत बादलोंके समान शुभ्र एवं मनोरम नर्मदा-पुलिनपर उन राक्षसोंने दो ही घड़ीमें फूलोंका पहाड़-जैसा ढेर लगा दिया ॥ ३७ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having bathed there according to rite (tatra snātvā ca vidhivat) and murmured his unsurpassed prayers (japtvā japyam anuttamam), that Rāvaṇa stepped up out of the waters of the Narmadā (narmadā-salilāt tasmād uttatāra sa rāvaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -662,6 +856,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 
 ‘इस प्रकार पुष्पोंका संचय हो जानेपर राक्षसराज रावण स्वयं स्नान करनेके लिये नर्मदा नदीमें उतरा, मानो कोई महान् गजराज गङ्गामें अवगाहन करनेके लिये घुसा हो ॥ ३८ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then all the rākṣasas followed after Rāvaṇa (anvayuḥ sarva-rākṣasāḥ) as he walked with joined palms (rāvaṇaṃ prāñjaliṃ yāntam), having cast off his wet garment (klinnāmbaraṃ tyaktvā) and arrayed himself in spotless white robes (śukla-vastra-samāvṛtam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -681,6 +881,12 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वहाँ विधिपूर्वक स्नान करके रावणने परम उत्तम जपनीय मन्त्रका जप किया । इसके बाद वह नर्मदाके जलसे बाहर निकला ॥ ३९ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Subject to his every stride (tad-gatī-vaśam āpannāḥ) like mountains endowed with living bodies (mūrtimanta ivācalāḥ). And wheresoever Rāvaṇa, lord of the rākṣasas, went (yatra yatra ca yāti sma rāvaṇo rākṣaseśvaraḥ), thither was his golden liṅga ever borne along (jāmbūnadamayaṃ liṅgaṃ tatra tatra sma nīyate).
 </details>
 </details>
 
@@ -703,6 +909,14 @@ title = "०३१ नर्मदा-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘फिर भीगे कपड़ेको उतारकर उसने श्वेत वस्त्र धारण किया । इसके बाद वह हाथ जोड़े महादेवजीकी पूजाके लिये चला । उस समय और सब राक्षस भी उसके पीछे हो लिये, मानो मूर्तिमान् पर्वत उसकी गतिके अधीन हो खिंचे चले जा रहे हों ॥ ४०-४१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**40:** “Setting up that liṅga in the center of a sand altar (vālukā-vedi-madhye tu tal liṅgaṃ sthāpya), Rāvaṇa worshipped it (arcayāmāsa) with fragrant unguents and blossoms redolent of ambrosia (gandhaiś ca puṣpaiś cāmṛta-gandhibhiḥ).
+
+**41:** “Then, having duly worshipped that supreme, boon-bestowing Lord (samarcayitvā ... paraṃ varaṃ varapradam), dispeller of the afflictions of the righteous (satām ārtiharam) and adorned with the moon’s rays (candramayūkha-bhūṣaṇam), that night-roamer sang aloud (sa niśācaro jagau), and stretching forth his hands, danced before him (prasārya hastān praṇanarta cāgrataḥ).
 </details>
 </details>
 

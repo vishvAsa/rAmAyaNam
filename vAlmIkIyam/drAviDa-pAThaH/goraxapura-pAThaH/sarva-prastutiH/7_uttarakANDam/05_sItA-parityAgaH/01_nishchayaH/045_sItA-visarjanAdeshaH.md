@@ -36,6 +36,12 @@ title = "०४५ सीता-विसर्जनादेशः"
 
 ई प्रकार ऎल्ल तम्मन्दिरु दीनमनस्करागि अल्लि कुळित्तिद्दरु. आग श्रीरामनु बाडिद मुखदिन्द अवर मुन्दॆ ई मातन्नु हेळिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As they all sat there with dejected hearts (teṣāṃ samupaviṣṭānāṃ sarveṣāṃ dīna-cetasām), Kākutstha spoke these words with a parched countenance (mukhena pariśuṣyatā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,6 +69,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सहोदररे! निमगॆ मङ्गळवागली. नीवॆल्लरू एकाग्रचित्तरागि नन्न मातन्नु आलिसिरि. पुरवासिगळल्लि नन्न मत्तु सीतॆय विषयदल्लि नडॆद चर्चॆयन्नु निमगॆ तिळिसुवॆनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hear me, all of you—blessings upon you (bhadraṃ vaḥ)—and do not turn your minds otherwise (mā kurudhvaṃ mano ’nyathā): hear what talk circulates among the citizens concerning me and Sītā (paurāṇāṃ mama sītāyāṃ yādṛśī vartate kathā).
 </details>
 </details>
 
@@ -92,6 +104,12 @@ _________________
 
 ईग पुरवासिगळु मत्तु देशद जनरल्लि सीतॆय सम्बन्धदल्लि महा अपवाद हरडिदॆ. नन्न कुरितू कूड अवरिगॆ तिरस्कृतभावविदॆ. अवरॆल्लर तिरस्कारवु नन्न मर्मस्थानवन्नु सीळिबिट्टिदॆ.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“An immense calumny from the citizens and likewise from the countryside (paurāpavādaḥ sumahāṃs tathā janapadasya ca)—a loathsome rumor (bībhatsā)—prevails against me (vartate mayi), and it cuts into my very vitals (sā me marmāṇi kṛntati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +134,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु इक्ष्वाकुवंशी महात्मा राजर कुलदल्लि हुट्टिरुवॆनु. सीतॆयू कूड महात्मा जनकर उत्तम कुलदल्लि जन्मवॆत्तिरुवळु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I indeed was born in the lineage of the high-souled Ikṣvākus (kule jāta ikṣvākūṇāṃ mahātmanām), and Sītā too was born in the noble lineage of the high-souled Janakas (sat-kule jātā janakānāṃ mahātmanām).
 </details>
 </details>
 
@@ -142,6 +166,12 @@ _________________
 
 सौम्य लक्ष्मण! रावणनु निर्जन दण्डकारण्यदिन्द सीतॆयन्नु अपहरिसिदुदु निनगॆ तिळिदे इदॆ मत्तु नानु अवनन्नु विध्वंसगॊळिसिदुदू तिळिदिरुवॆ.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You know, O gentle one (jānāsi tvaṃ yathā saumya), how in the solitary Daṇḍaka forest (daṇḍake vijane vane) Sītā was abducted by Rāvaṇa (rāvaṇena hṛtā sītā), and how he was destroyed by me (sa ca vidhvaṃsito mayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -166,6 +196,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर लङ्कॆयिन्द हॊरडुवाग इवळु इष्टु दिनगळवरॆगॆ इल्लि इद्द मेलॆयू ईकॆयन्नु राजधानिगॆ हेगॆ कॊण्डुहोगलि ऎम्ब सीतॆय कुरितु नन्न मनस्सिनल्लि विचार उण्टागित्तु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There, regarding Janaka’s daughter (janakasya sutāṃ prati), this thought arose in my mind (me buddhir utpannā): ‘How can I bring back to the city (ānayeyaṃ kathaṃ purīm) this Sītā who has dwelt here [in Laṅkā] (atroṣitām imāṃ sītām)?’
 </details>
 </details>
 
@@ -198,6 +234,14 @@ _________________
 
 सुमित्राकुमार! आग तन्न पवित्रतॆय विश्वास कॊडिसलु सीतॆयु निन्न मुन्दॆये अग्निप्रवेश माडिद्दळु हागू देवतॆगळ समक्षमदल्लि अग्निदेवनु आकॆयन्नु निर्दोषि ऎन्दु तिळिसिद्दनु. आकाशचारी वायु, चन्द्र, सूर्यरू कूड मॊदलु देवतॆगळल्लि, समस्त ऋषिगळल्लि जनकनन्दिनियु निष्पापळॆन्दु घोषिसिद्दरु.॥7-8½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** “To establish conviction (pratyayārtham), Sītā then entered the fire (viveśa jvalanaṃ tadā); before your very eyes, O Saumitri (pratyakṣaṃ tava saumitre), the Oblation-Bearer of the gods [Agni] (devānāṃ havyavāhanaḥ) and Vāyu who courses through the sky (vāyuś cākāśa-gocaraḥ) declared Maithilī sinless (apāpāṃ maithilīm āha).
+
+**8:** “The Moon and Sun also proclaimed (candrādityau ca śaṃsete) Janaka’s daughter sinless (apāpāṃ janakātmajām) before the assembly of the gods (surāṇāṃ sannidhau) and of all the sages (ṛṣīṇāṃ caiva sarveṣām) of old.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -222,6 +266,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई प्रकार विशुद्ध आचारवुळ्ळ सीतॆयन्नु देवतॆगळु मत्तु गन्धर्वर समक्षम साक्षात् देवेन्द्रनु लङ्काद्वीपदल्लि नन्न कैगॆ ऒप्पिसिद्दनु.॥9½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus proved of spotless conduct (evaṃ śuddha-samācārā), she was placed into my hand (mama haste niveśitā) by great Indra (mahendreṇa) in the island of Laṅkā before the gods and Gandharvas (deva-gandharva-sannidhau).
 </details>
 </details>
 
@@ -248,6 +298,12 @@ _________________
 
 नन्न अन्तरात्मवू यशस्विनी सीतॆ शुद्धळॆन्दे तिळियुत्तिदॆ. अदक्कागि नानु ई विदेह नन्दिनीयन्नु जॊतॆगॆ करॆदुकॊण्डु अयोध्यॆगॆ बन्दिद्दॆ.॥10½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And my own inner self knows Sītā to be pure and illustrious (antarātmā ca me vetti sītāṃ śuddhāṃ yaśasvinīm); therefore, accepting Vaidehī (tato gṛhītvā vaidehīm), I came back to Ayodhyā (ayodhyām aham āgataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,6 +328,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ ईग ई महा अपवाद हरडिदॆ. पुरवासियरल्लि, देशवासिगळल्लि नन्न निन्दॆ बहळ आगुत्तिदॆ. इदरिन्द नन्न मनस्सिगॆ भारी शोकवागुत्तिदॆ.॥11½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet this immense reproach and sorrow now weigh upon my heart (ayaṃ tu me mahān vādaḥ śokaś ca hṛdi vartate)—this mighty scandal of the citizens and likewise of the countryside (paurāpavādaḥ sumahāṃs tathā janapadasya ca).
 </details>
 </details>
 
@@ -301,6 +363,12 @@ _________________
 
 यावुदे प्राणिय अपकीर्तियु लोकदल्लि ऎल्लर चर्चॆय विषयवादाग अवनु अधमलोकक्क.॥नरकक्कॆ॥होगुत्तानॆ. आ अपयशद चर्चॆ आगुत्तिरुवरॆगॆ अवनु अल्ले बिद्दिरुत्तानॆ.॥12½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Any being whatsoever in the world whose ill repute is sung abroad (akīrtir yasya gīyeta loke bhūtasya kasyacit) surely falls into the lowest worlds (pataty evādhamāṃl lokān) for as long as that rumor is proclaimed (yāvac chabdaḥ prakīrtyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,6 +393,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवतॆगळु लोक गळल्लिन अपकीर्तिय निन्दॆ मत्तु कीर्तिय प्रशंसॆ माडुत्तारॆ. ऎल्ल श्रेष्ठ महात्मर शुभ आयोजन उत्तम कीर्तिय स्थापनॆगागिये आगुत्तदॆ.॥13½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Infamy is condemned by the gods (akīrtir nindyate devaiḥ), whereas fair fame is honored throughout the worlds (kīrtir lokeṣu pūjyate); indeed, all endeavor of truly high-souled men is undertaken for the sake of renown (kīrtyarthaṃ tu samārambhaḥ sarveṣāṃ sumahātmanām).
 </details>
 </details>
 
@@ -351,6 +425,12 @@ _________________
 
 नरश्रेष्ठ बन्धुगळे! नानु लोकनिन्दॆय भयदिन्द तन्न प्राणगळन्नु मत्तु नीवॆल्लरन्नु कूड त्यजिसबल्लॆनु. हागिरुवाग सीतॆयन्नु त्यजिसुवुदु याव दॊड्ड मातु.॥14½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Driven by fear of public censure (apavāda-bhayād bhītaḥ), O bulls among men (puruṣarṣabhāḥ), I would abandon even my own life or you (apy ahaṃ jīvitaṃ jahyāṃ yuṣmān vā)—how much more then Janaka’s daughter (kiṃ punar janakātmajām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,6 +455,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द नीवु नन्न कडॆगॆ नोडिरि. नानु शोकसमुद्रदल्लि बिद्दिरुवॆनु. इदक्किन्त मिगिलाद दुःखवन्नु नानु अनुभविसिदुदु ननगॆ नॆनपिल्ल.॥15½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, behold me fallen into an ocean of grief (paśyantu patitaṃ śoka-sāgare); for I see no sorrow that has ever been (na hi paśyāmy ahaṃ bhūtaṃ kiñcid duḥkham) greater than this (ato ’dhikam)!
 </details>
 </details>
 
@@ -404,6 +490,12 @@ _________________
 
 आद्दरिन्द सुमित्राकुमार! नाळॆ बॆळिग्गॆ नीनु सारथि सुमन्त्रनिन्द सञ्चालित रथवन्नेरि सीतॆयन्नु अदरल्ले कुळ्ळिरिसिकॊण्डु ई राज्यद सीमॆय हॊरगॆ बिट्टुबिडु.॥16½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tomorrow at dawn, O Saumitri (śvas tvaṃ prabhāte saumitre), mount the chariot driven by Sumantra (sumantrādhiṣṭhitaṃ ratham āruhya), help Sītā aboard (sītām āropya), and leave her beyond the borders of the realm (viṣayānte samutsṛja).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -428,6 +520,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 गङ्गॆय आचॆ तमसा तटदल्लि महात्मा वाल्मीकि मुनिगळ आश्रमविदॆ.॥17½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“On the far bank of the Gaṅgā (gaṅgāyās tu pare pāre) stands the hermitage of the high-souled Vālmīki (vālmīkes tu mahātmanaḥ), splendid as a celestial abode (āśramo divya-saṅkāśaḥ), situated along the bank of the Tamasā (tamasā-tīram āśritaḥ).
 </details>
 </details>
 
@@ -460,6 +558,14 @@ _________________
 
 रघुनन्दन! आ आश्रमद हत्तिर निर्जन वनदल्लि नीनु सीतॆयन्नु बिट्टु शीघ्रवागि हिन्दिरुगि बा. सुमित्रानन्दन! नन्न ई आज्ञॆयन्नु पालिसु. सीतॆय विषयदल्लि नन्नल्लि यावुदे इतर मातन्नु हेळबारदु.॥18-19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “Leaving her there in a solitary place (tatraināṃ vijane deśe visṛjya), O delight of the Raghus (raghunandana), return swiftly (śīghram āgaccha)—blessings upon you (bhadraṃ te)—and carry out my word (kuruṣva vacanaṃ mama)!
+
+**19:** “Nor am I to be argued against in this matter regarding Sītā in any way (na cāsmin prativaktavyaḥ sītāṃ prati kathañcana); therefore go, O Saumitri (tasmāt tvaṃ gaccha saumitre), and let no deliberation be made herein (nātra kāryā vicāraṇā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -484,6 +590,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदक्कागि लक्ष्मण! ईग नीनु होगु. ई विषयदल्लि यावुदे विचार माडबेड. नन्न ई निश्चयदल्लि यावुदे रीतिय अड्डिपडिसिदरॆ ननगॆ बहळ कष्टवादीतु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For extreme displeasure would be mine if this command were obstructed by you (aprītir hi parā mahyaṃ tvayaitat prativārite); indeed, I bind you all by an oath upon my two arms and my life (śāpitā hi mayā yūyaṃ bhujābhyāṃ jīvitena ca)!
 </details>
 </details>
 
@@ -516,6 +628,12 @@ _________________
 
 नानु निनगॆ नन्न पादद मत्तु जीवनद आणॆ हाकुत्तेनॆ. नन्न निर्णयद विरुद्ध एनन्नू हेळबेड. नन्न ई मातिन नडुवॆ प्रवेशिसि यावुदे रीतियिन्द नन्नल्लि अनुनय-विनयदिन्द एनादरू हेळिदरॆ, अवरु नन्न अभीष्ट कार्यदल्लि बाधॆपडिसिद्दरिन्द सदा नन्न शत्रुगळागुवरु.॥21½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whosoever should speak amidst my words to dissuade me in any way (ye māṃ vākyāntare brūyur anunetuṃ kathañcana) shall verily be deemed my perpetual foes (ahitā nāma te nityam) for thwarting my desired resolve (mad-abhīṣṭa-vighātanāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -541,6 +659,12 @@ _________________
 
 नीवु नन्नन्नु समानिसुत्तिद्दरॆ, नन्न आज्ञॆयल्लि इरलु बयसुविरादरॆ, ईग सीतॆयन्नु इल्लिन्द काडिगॆ कॊण्डुहोगु. नन्न ई आज्ञॆयन्नु पालिसु.॥22½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Honor me, if you stand obedient to my command (mānayantu bhavanto māṃ yadi mac-chāsane sthitāḥ): let Sītā be conducted hence today (ito ’dya nīyatāṃ sītā)—do you carry out my word (kuruṣva vacanaṃ mama)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -565,6 +689,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु गङ्गातीरदल्लि ऋषिगळ आश्रमगळन्नु नोडबयसुत्तेनॆ ऎन्दु सीतॆयु मॊदलु नन्नल्लि हेळिद्दळु. आद्दरिन्द आकॆय इच्छॆयू पूर्णवागुवुदु.॥23½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Earlier she said to me (pūrvam ukto ’ham anayā), ‘May I behold the hermitages along the bank of the Gaṅgā (gaṅgātīre ’ham āśramān paśyeyam iti)’—let that wish of hers now be fulfilled (tasyāś ca kāmaḥ saṃvartyatām ayam)!”
 </details>
 </details>
 
@@ -603,6 +733,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि नलवत्तैदनॆय सर्ग पूर्णवायितु. ॥45॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus (evam uktvā tu kākutsthaḥ), that righteous-souled prince (sa dharmātmā), his face veiled with tears (bāṣpeṇa pihitānanaḥ), entered his inner palace (praviveśa) attended by his brothers (bhrātṛbhiḥ parivāritaḥ); with grief clinging fast to his heart (śoka-saṃlagna-hṛdayaḥ), he sighed deeply like a mighty elephant (niśaśvāsa yathā dvipaḥ).
 </details>
 </details>
 

@@ -39,6 +39,12 @@ _________________
 
 रात्रॆ कळॆदु बॆळगायितु. महातेजस्वी राजा श्रीरामचन्द्रनु यज्ञशालॆगॆ आगमिसि, समस्त ऋषिगळन्नु करॆसिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that night had broken into dawn (tasyāṃ rajanyāṃ vyuṣṭāyām), the king, greatly resplendent Rāghava (mahātejāḥ ... rāghavaḥ), having gone to the sacrificial enclosure (yajñavāṭa-gataḥ), summoned all the sages (ṛṣīn sarvān ... śabdāpayati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -91,6 +97,20 @@ _________________
 
 वसिष्ठ, वामदेव, जाबाली, काश्यप, विश्वामित्र, दीर्घतमा, महा तपस्वी दुर्वास, पुलस्त्य, शक्ति, भार्गव, वामन, दीर्घजीवि मार्कण्डेय, महायशस्वी मौद्गल्य, गर्ग, च्यवन, धर्मज्ञ शतानन्द, तेजस्वी भरद्वाज, अग्निपुत्र सुप्रभ, नारद, पर्वत, महायशस्वी गौतम, कात्यायन, सुयज्ञ इवरॆल्ल हागू कठोर व्रतवन्नु पालिसुव इन्नू अनेक महर्षिगळु कुतूहलदिन्द अल्लि नॆरॆदरु.॥2-6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** Vasiṣṭha and Vāmadeva, Jābāli and Kāśyapa, Viśvāmitra of long austerity (dīrghatapāḥ), and Durvāsas of mighty austerity (mahātapāḥ),
+
+**3:** Pulastya too, and likewise Śakti, Bhārgava, and Vāmana, long-lived Mārkaṇḍeya (mārkaṇḍeyaś ca dīrghāyuḥ), and Maudgalya of great renown (mahāyaśāḥ),
+
+**4:** Garga and Cyavana, Śatānanda, knower of dharma (dharmavit), the radiant Bharadvāja (bharadvājaś ca tejasvī), and Suprabha, son of Agni (agniputraś ca suprabhaḥ),
+
+**5:** Nārada and Parvata, Gautama of great renown, Kātyāyana and Suyajña, and Agastya, treasure-house of austerities (agastyas tapasāṃ nidhiḥ)—
+
+**6:** these and many other sages of sharpened vows (munayaḥ saṃśitavratāḥ), filled with eager wonder (kautūhala-samāviṣṭāḥ), assembled there, every one of them (sarva eva samāgatāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +136,12 @@ _________________
 
 महापराक्रमि राक्षसरु मत्तु महाबलि वानररु हीगॆ ऎल्लरू कुतूहलवशरागि अल्लिगॆ बन्दु सेरिदरु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rākṣasas of mighty prowess (mahāvīryāḥ) and vānaras of great strength (mahābalāḥ)—all those great-souled ones (mahātmānaḥ) likewise came together out of wonder (kutūhalāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,6 +166,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानादेशगळिन्द आगमिसिद तीक्ष्णव्रतधारी ब्राह्मणरु, क्षत्रियरु, वैश्यरु, शूद्ररु साविरारु सङ्ख्यॆयल्लि अल्लि उपस्थितरादरु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kṣatriyas, śūdras, and vaiśyas by the thousands (sahasraśaḥ), together with brahmins of sharpened vows (brāhmaṇāḥ saṃśitavratāḥ) arrived from diverse lands (nānādeśa-gatāḥ),
 </details>
 </details>
 
@@ -169,6 +201,12 @@ _________________
 
 सीतॆयु शपथ माडुवुदन्नु नोडलु ज्ञाननिष्ठ, कर्मनिष्ठ, योगनिष्ठ हीगॆ ऎल्ल प्रकारद जनरु अल्लिगॆ बन्दरु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and others steadfast in knowledge, steadfast in ritual action, and steadfast in yoga (jñānaniṣṭhāḥ karmaniṣṭhāḥ yoganiṣṭhās tathāpare)—all of them assembled to behold Sītā’s oath (sītā-śapatha-vīkṣārtham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -193,6 +231,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजसभॆयल्लि सेरिदवरॆल्ल जनरु कल्लिन विग्रहदन्तॆ निश्चलरागि कुळित्तिद्दरु. इदन्नु केळि मुनिवर वाल्मीकरु सीतॆयन्नु जॊतॆगॆ करॆदुकॊण्डु बेगने बन्दरु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that the entire gathering stood as motionless as stone (aśmabhūtam ivācalam), the foremost of sages [Vālmīki] swiftly approached (tūrṇaṃ ... samupāgamat), accompanied by Sītā (sasītaḥ).
 </details>
 </details>
 
@@ -219,6 +263,12 @@ _________________
 
 महर्षिगळ हिन्दॆ सीतॆयु तलॆतग्गिसि नडॆदुकॊण्डु बरुत्तिद्दळु. ऎरडू कैगळू मुगिदिद्दु, कण्णुगळिन्द कम्बनि सुरियुत्तित्तु. अवळु तन्न हृदयदल्लि कुळित्तिद्द श्रीरामनन्नु चिन्तिसुत्तिद्दळु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behind that sage (tam ṛṣiṃ pṛṣṭhataḥ) walked Sītā with downcast face (avāṅmukhī), palms joined (kṛtāñjaliḥ), her throat choked with tears (bāṣpagalā), holding Rāma fixed in her heart (kṛtvā rāmaṃ manogatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +293,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वाल्मीकिगळन्नु हिम्बालिसि बरुव सीतॆयु ब्रह्मदेवरन्नु अनुसरिसुव श्रुतिमातॆयन्तॆ कण्डु बरुत्तिद्दळु. आकॆयन्नु नोडि अल्लि धन्य! धन्य! ऎम्ब ध्वनि ऎल्लॆडॆ प्रतिध्वनिसितु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Sītā approaching behind Vālmīki like Śruti following Brahmā (śrutim ivāyāntīṃ brahmāṇam anugāminīm), a mighty cry of praise arose (sādhuvādo mahān abhūt).
 </details>
 </details>
 
@@ -269,6 +325,12 @@ _________________
 
 आग समस्त नोडुगर हृदय दुःख-शोकदिन्द व्याकुलवागित्तु. अवरॆल्लर कोलाहलवु ऎल्लॆडॆ तुम्बिहोयितु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then a murmur of commotion (halahalā-śabdaḥ) broke forth in this manner from all of them, their hearts agitated by a vast sorrow born of grief (duḥkha-janma-viśālena śokenākulitātmanām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -293,6 +355,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कॆलवरु - श्रीरामा! नीनु धन्यनागिरुवॆ ऎन्दु हेळिदरॆ, मत्तॆ कॆलवरु - देवि सीते! नीनु धन्य! ऎन्दु हेळुत्तिद्दरु. इतर कॆलवु दर्शकरु - सीतॆ मत्तु राम इब्बरिगू गट्टियागि साधु! साधु! ऎन्दु कूगिकॊळ्ळुत्तिद्दरु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Well done, Rāma!” cried some; “Well done, Sītā!” cried others; and still other onlookers acclaimed both of them alike (ubhāv eva ca tatrānye prekṣakāḥ sampracukruśuḥ).
 </details>
 </details>
 
@@ -319,6 +387,12 @@ _________________
 
 आग जनसमुदायद नडुवॆ सीतासहित प्रवेशिसिद मुनिवर वाल्मीकिगळु श्रीरघुनाथनल्लि ई प्रकार हेळिदरु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, entering the midst of the multitude (madhye janaughasya praviśya), that bull among sages, Vālmīki, with Sītā at his side (sītā-sahāyaḥ), spoke thus to Rāghava:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,6 +417,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दशरथनन्दन! ई सीतॆयु उत्तम व्रतवन्नु पालिसुववळू, धर्मपरायणळू आगिद्दाळॆ. नीनु लोकापवादक्कॆ हॆदरि इवळन्नु नन्न आश्रमद बळि त्यजिसिबिट्टिद्दॆ.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O son of Daśaratha, this Sītā of noble vows, walker in dharma (suvratā dharmacāriṇī), was abandoned near my hermitage (mamāśrama-samīpataḥ) on account of slanders (apavādaiḥ).
 </details>
 </details>
 
@@ -369,6 +449,12 @@ _________________
 
 महाव्रतधारी श्रीरामा! लोकापवाददिन्द हॆदरिद निनगॆ सीतॆयु तन्न शुद्धतॆय विश्वास कॊडुवळु. इदक्कागि तम्म अप्पणॆयागबेकु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To you, O Rāma of great vows, who dread public calumny (lokāpavāda-bhītasya), Sītā will now give proof (pratyayaṃ dāsyate); you ought to grant leave for this (tad anujñātum arhasi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -393,6 +479,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवरिब्बरू कुमार लव- कुशरु जानकिय गर्भदिन्द अवळिगळागि हुट्टिरुवरु. इवरु निन्न पुत्ररे आगिद्दारॆ मत्तु निन्नन्तॆये दुर्धर्ष वीररागिद्दारॆ. इदन्नु नानु सत्यवागि तिळिसुत्ता इद्देनॆ.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And these two sons of Jānakī, both twin-born (ubhau ca yamajātakau), are indeed your own invincible sons (sutau tavaiva durdharṣau)—this truth I declare to you (satyam etad bravīmi te).”
 </details>
 </details>
 
@@ -422,6 +514,12 @@ _________________
 
 रघुकुलनन्दन! नानु प्रचेता ‘वरुण’न हत्तनॆय पुत्रनागिद्देनॆ. नन्न बायिन्द ऎन्दू सुळ्ळु हेळिदुदु ननगॆ नॆनपिल्ल. नानु सत्यवागि हेळुत्तेनॆ - इवरिब्बरू निन्नदे पुत्ररागिद्दारॆ.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am the tenth son of Pracetas (pracetaso ’haṃ daśamaḥ putraḥ), O delight of the Raghus; I do not recall ever speaking a false word (na smarāmy anṛtaṃ vākyam)—these two are indeed your sons (imau tu tava putrakau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -449,6 +547,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु अनेक साविर वर्षगळवरॆगॆ भारी तपस्सु माडिद्देनॆ. मिथिलेश कुमारि सीतॆयल्लि यावुदे दोषविद्दरॆ आ तपस्सिन फलवु सिगदे होगलि.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For many thousands of years I have practiced austerity (bahu-varṣa-sahasrāṇi tapaścaryā mayā kṛtā); may I never enjoy the fruit thereof (nopāśnīyāṃ phalaṃ tasyāḥ) if this Maithilī be tainted (duṣṭeyaṃ yadi maithilī).
 </details>
 </details>
 
@@ -478,6 +582,12 @@ _________________
 
 नानु मनसा, वचसा हागू कर्मणा मॊदलु ऎन्दू पाप माडिल्ल. मिथिलेशकुमारी सीतॆयु निष्पापळागिद्दरॆ, ननगॆ नन्न आ पापशून्य पुण्यकर्मद फल प्राप्तवागली.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Never before has any transgression occurred in my thought, deed, or word (manasā karmaṇā vācā bhūtapūrvaṃ na kilbiṣam); may I enjoy the fruit of that [sinlessness] if Maithilī is guiltless (apāpā maithilī yadi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -503,6 +613,12 @@ _________________
 
 रघुनन्दन! नानु नन्न पञ्चेन्द्रियगळिन्द, मन-बुद्धिय मूलक सीतॆय शुद्धतॆयन्नु चॆन्नागि निश्चयिसिये ईकॆयन्नु संरक्षिसिद्देनॆ. इवळु काडिन ऒन्दु जलपातद बळि सिक्किरुवळु.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having pondered through the five senses with the mind as the sixth (pañcasu bhūteṣu manaṣṣaṣṭheṣu), O Rāghava, that Sītā is pure, I took her in beside the forest stream (jagrāha vananirjhare).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -527,6 +643,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ईकॆय आचरण सर्वथा शुद्धवागिदॆ. पापवु इवळन्नु स्पर्शिसलारदु, इवळु पतियन्ने देवरॆन्दु तिळियुवळु. आद्दरिन्द लोकापवाददिन्द हॆदरिद निनगॆ तन्न शुद्धतॆय विश्वास कॊडिसुवळु.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“She, of spotless conduct, sinless, devoted to her husband as her deity (śuddha-samācārā apāpā patidevatā), will now give proof to you who dread public calumny (pratyayaṃ tava dāsyati).
 </details>
 </details>
 
@@ -567,5 +689,11 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि तॊम्भत्तारनॆय सर्ग पूर्णवायितु. ॥96॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O son of the foremost of men, this pure-hearted one (śuddhabhāvā) was then taken in by me through the sphere of divine vision (divyena dṛṣṭiviṣayeṇa tadā praviṣṭā)—your dearest one, whom you abandoned with a mind troubled by public censure (lokāpavāda-kaluṣīkṛta-cetasā), even though you knew her to be pure (viditā ’pi śuddhā).”
 </details>
 </details>

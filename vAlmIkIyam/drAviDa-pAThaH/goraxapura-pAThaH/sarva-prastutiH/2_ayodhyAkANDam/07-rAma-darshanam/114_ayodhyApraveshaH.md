@@ -68,6 +68,12 @@ entered; *kSipram* = soon; *ayodhyaam* = the city of Ayodhya.
 The highly illustrious Lord, Bharata riding on a chariot emanating a gentle and deep
 sound entered soon the city of Ayodhya.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching in his chariot of smooth and deep-rumbling sound (snigdha-gambhīra-ghoṣeṇa syandanenopayān), the lord Bharata of great renown swiftly entered Ayodhyā (prabhuḥ ayodhyāṃ bharataḥ kṣipraṃ praviveśa mahā-yaśāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +119,12 @@ and owls; *aaliina nara vaaraNaam* = abiding with crouched men and elephants;
 
 He entered the city, frequented by cats and owls, abiding with crouched men and
 elephants and looking like a night enveloped by gloom, indistinctness and darkness.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+a city prowled by cats and owls, with its house-doors shut fast against men (biḍālolūka-caritām ālīna-nara-vāraṇām), like a black, lightless night smitten by darkness (timirābhyāhatāṃ kālīm aprakāśāṃ niśām iva);
 </details>
 </details>
 
@@ -172,6 +184,12 @@ invested with an exceedingly bright splendour by virtue of her glory.
 and identified by modern astronoy with the shadow of the earth cast on the orb of the moon during
 what is known as a lunar eclipse.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like Rohiṇī, the beloved consort of Rāhu’s foe the Moon, once blazing in radiance with splendor (rāhu-śatroḥ priyāṃ patnīṃ śriyā prajvalita-prabhām rohiṇīm iva), now solitary and afflicted by the risen planet Rāhu (graheṇābhyutthitenaikāṃ pīḍitām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -220,6 +238,12 @@ Ayodhya further looked emaciated like a mountain stream, whose scanty waters had
 become hot and agitated, birds living in which were scorched by the sun, and whose fish, small and
 big and alligators had perished.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like a shrunken mountain stream with its scanty, warm, and turbid waters (alpoṣṇa-kṣubdha-salilāṃ kṛśāṃ giri-nadīm iva), its birds tormented by the summer heat, and its small fish, large fish, and crocodiles hiding in the mud (gharmottapta-vihaṅgamāṃ līna-mīna-jhaṣa-grāhām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -267,6 +291,12 @@ extinction (ash).
 Ayodhya looked like a flame of sacrificial fire which when oblation is poured into
 it, rises like a golden cone without smoke and thereafter sinks into extinction (ash).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like a smokeless, golden-hued flame risen from the sacrificial fire (vidhūmām iva hemābhām adhvarāgneḥ samutthitām śikhām), which has afterwards been sprinkled with the oblation and sunk into extinction (havir-abhyukṣitāṃ paścād vipralayaṃ gatām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -313,6 +343,12 @@ chariots had been torn; *hata praviinaam* = its heroic warriors slain.
 Ayodhya looked like an afflicted army, shattered of its armour in a major conflict,
 whose ensigns borne on horses, elephants and chariots had been torn, and its heroic warriors
 slain.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like an army reduced to ruin in a great battle, with its armor shattered (vidhvasta-kavacāṃ āpannāṃ camūm iva mahāhave), its elephants, horses, chariots, and standards broken, and its foremost heroes slain (rugṇa-gaja-vāji-ratha-dhvajāṃ hata-pravīrām);
 </details>
 </details>
 
@@ -363,6 +399,12 @@ _________________
 Ayodhya appeared like the waves of the sea though tosses very high with foam and a
 roar, is rendered noiseless, being shaken up by a silent wind.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like a wave of the ocean’s water that once rose high with foam and roar (sa-phenā sa-svanā bhūtvā sāgarasya samutthitām jalormim iva), now hushed as the buffeting wind has died down (praśānta-mārutodghātāṃ nisvanām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -412,6 +454,12 @@ Ayodhya appeared like a sacred altar, which, when the period of offering oblatio
 into fire has completely expired, has been cleared of all sacrificial implements and deserted of
 recitations by the learned priests.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like a sacrificial altar hushed and silent when the time of the Soma-pressing has concluded (sutyā-kāle vinirvṛtte vediṃ gata-ravām iva), forsaken by all the sacrificial implements and by the learned priests (tyaktāṃ yajñāyudhaiḥ sarvair abhirūpaiś ca yājakaiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,6 +505,12 @@ cease to graze; *navam tR^iNam* = in the new pasture; sthitaam- and stand;
 
 Ayodhya appeared like restless kine, deprived of the bull, who cease to graze in new
 pastures and stand in the cow-pen, dispirited.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like a herd of kine standing distressed in the middle of the cowpen and not grazing on the fresh grass (goṣṭha-madhye sthitām ārtām acarantīṃ tṛṇaṃ navam gavāṃ pattim iva), restless and forsaken by the lordly bull (go-vṛṣeṇa parityaktāṃ utsukām);
 </details>
 </details>
 
@@ -505,6 +559,12 @@ genuine quality.
 Ayodhya was resembling a new pearl-necklace, bereft of well- polished dazzling and
 excellent gems, rubies and the like, of genuine quality.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like a new necklace of pearls stripped of its rubies and other gems of purest breed (prabhākarādyaiḥ viyuktāṃ maṇibhir jātyair navāṃ muktāvalīm iva)—gems of rich luster that seemed to blaze with fire (susnigdhaiḥ prajvaladbhir ivottamaiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -551,6 +611,12 @@ light; *sahasaa* = quickly; *chyutaam* = dropped; *divaH* = from the sky;
 
 Ayodhya appeared like a meteor, which moved from its position with its virtue
 exhausted, soon dropped from the sky and fallen to earth, deprived of its splendour.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like a star fallen from heaven, suddenly dislodged from its station and come to the earth through the exhaustion of merit (sahasā calitāṃ sthānān mahīṃ puṇya-kṣayād gatām tārām iva divaś cyutām), its wide-spreading radiance withdrawn (saṃhṛta-dyuti-vistārām);
 </details>
 </details>
 
@@ -599,6 +665,12 @@ Ayodhya appeared like a flowering creeper laden with blossom in the spring-tide,
 frequented by a swarm of intoxicated bees, that is suddenly consumed by a forest fire and
 withering.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like a forest creeper at the close of spring, thickly clustered with blossoms and resonant with intoxicated bees (puṣpa-naddhāṃ vasantānte matta-bhramara-nāditām vana-latām iva), now withered and scorched by a swift forest fire (druta-dāvāgni-vipluṣṭāṃ klāntām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -645,6 +717,12 @@ and markets closed.
 
 With its senseless traffic paralyzed and with its fairs and markets closed, Ayodhya
 resembled like a firmament, covered with clouds, with the moon and stars obscured.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+with its thoroughfares and merchants stupefied, paralyzed, and its market-stalls and shops closed down (sammūḍha-nigamāṃ stabdhāṃ saṅkṣipta-vipaṇāpaṇām), like the sky overcast with clouds when the moon and stars are hidden (pracchanna-śaśi-nakṣatrāṃ dyām ivāmbudharair vṛtām);
 </details>
 </details>
 
@@ -695,6 +773,12 @@ Ayodhya appeared splendourless, like a deserted and uncleaned tavern, with its
 vendor of spirituous liquors killed, the excellent wine expended, its drinking pots and glasses
 broken and the pieces stewn in disorder.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like an unswept open-air drinking ground whose revelers have been slain (hata-śauṇḍām ivākāśe pāna-bhūmim asaṃskṛtām), strewn all over with shattered earthen goblets drained of choice liquor (kṣīṇa-pānottamair bhinnaiḥ śarāvair abhisaṃvṛtām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -742,6 +826,12 @@ fell down.
 Ayodhya resembled a cistern erected for storage and distribution of water, but now
 broken and collapsed with its platform riven and sunk, and covered with broken jars and earthen
 vessels, its water having been used up.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like a collapsed and fallen wayside water-shed with its water exhausted (upayuktodakāṃ bhagnāṃ prapāṃ nipatitām iva), its ground-platform cracked and sunken, and its surroundings strewn with broken vessels (vṛkṇa-bhūmi-talāṃ nimnāṃ vṛkṇa-pātraiḥ samāvṛtām);
 </details>
 </details>
 
@@ -793,6 +883,12 @@ to the ground.
 Ayodhya resembled a bow-string, which was large and bent, with suitable noose at
 both ends, but severed from the bow by the arrows of heroes and fallen to the ground.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like a long and tautly strung bowstring fitted with end-loops (vipulāṃ vitatāṃ caiva yukta-pāśāṃ jyām iva), severed by the arrows of mighty warriors and fallen from the bow to the ground (tarasvināṃ bhūmau bāṇair viniṣkṛttāṃ patitāṃ āyudhāt);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -839,6 +935,12 @@ the opposite army.
 Ayodhya appeared like a mare, urged on suddenly by a horse-man, skilled in war-fare
 and fallen down when killed by the opposite army.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like a weak young filly ridden hard and suddenly by a battle-eager horseman (sahasā yuddha-śauṇḍena hayāroheṇa vāhitāṃ kiśorīm iva durbalām), now stripped of her saddle-trappings and abandoned (nikṣipta-bhāṇḍām utsṛṣṭām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -881,6 +983,12 @@ shreSTham* = the excellent chariot.
 
 Sitting in the chariot, the glorious Bharata, the son of Dasaratha, spoke the
 following words to the charioteer who was riding his excellent chariot:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like a broad reservoir with its banks breached and its water dried up (śuṣka-toyāṃ prabhinna-taṭa-vistīrṇāṃ vāpīm iva), crowded with many great fish and tortoises and stripped of its lotuses (mahā-matsyaiḥ kūrmaiś ca bahubhir vṛtāṃ hṛtotpalām);
 </details>
 </details>
 
@@ -930,6 +1038,12 @@ instrumental music; *na nishamyate* = is not heard; *yathaa puraa* = as before;
 
 "How is it that the deep and intensified sound of vocal and instrumental music is
 not heard as before in Ayodhya today?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like the slender bodily frame of a joyless man, tormented by grief (puruṣasyāprahṛṣṭasya santaptām iva śokena gātra-yaṣṭim), from which unguents have been banished and ornaments stripped away (pratiṣiddhānulepanāṃ abhūṣaṇām);
 </details>
 </details>
 
@@ -981,6 +1095,12 @@ gandhashcha* = or the aroma of aloe-wood fumes; *muurchitaH* = which used to be 
 the aroma of sandal and aloe-wood fumes, which used to be spread once on all sides, are not being
 wafted."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like the radiance of the sun when it has entered a bank of clouds at the height of the rainy season (prāvṛṣi pravigāḍhāyāṃ praviṣṭasyābhra-maṇḍalam bhāskarasya prabhām iva), hidden away by dark rain-clouds (pracchannāṃ nīla-jīmūtaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1005,6 +1125,12 @@ wafted."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 परमोत्तम वाहनगळ सद्दु, कुदुरॆगळु कॆनॆयुव शब्द मत्त गजगळु घीळुडुव गर्जनॆ, रथगळ गरगर महानाद इद्यावुदू केळिबरुत्तिल्ल.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing in his chariot, the glorious Bharata, son of Daśaratha (bharatas tu ratha-sthaḥ san śrīmān daśarathātmajaḥ), spoke these words to his charioteer who was driving that foremost of chariots (vāhayantaṃ ratha-śreṣṭhaṃ sārathiṃ vākyam abravīt):
 </details>
 </details>
 
@@ -1077,6 +1203,14 @@ making use of; *chandanaagarugandhaamshcha* = the perfumes of sandal-wood and al
 "Rama, having left Ayodhya, the distressful youth are not making use of the perfumes
 like sandal-wood, aloe wood as also the most admirable and fresh floral garlands."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** “Why indeed is the deep, swelling sound of song and musical instruments (kiṃ nu khalv adya gambhīro mūrcchito gīta-vāditra-nisvanaḥ) not heard today in Ayodhyā as in times past (na niśamyate yathā-puram ayodhyāyām)?
+
+**23:** Neither the intoxicating aroma of vāruṇī wine, nor the pervasive fragrance of garlands (vāruṇī-mada-gandhaś ca mālya-gandhaś ca mūrcchitaḥ), nor the scent of smoldering aloe-wood wafts on all sides (dhūpitāgaru-gandhaś ca na pravāti samantataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1124,6 +1258,12 @@ observed.
 
 "In the city afflicted by Rama's desertion, people are not going out for
 pleasure-trips, wearing colourful garlands nor festivals are observed by them."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The rumble of excellent carriages, the pleasant neighing of steeds (yāna-pravara-ghoṣaś ca snigdhaś ca haya-nisvanaḥ), the trumpeting of rutting elephants, and the mighty din of chariots (pramatta-gaja-nādaś ca mahāṃś ca ratha-nisvanaḥ) are no longer heard now in this city since Rāma has been sent into exile (nedānīṃ śrūyate puryām asyāṃ rāme vivāsite).
 </details>
 </details>
 
@@ -1174,6 +1314,12 @@ time of the waning moon.
 "The lustre of Ayodhya has departed along with my brother. It is certain. This
 Ayodhya is not shining indeed, like a rainy night at the time of the waning moon."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For now that Rāma has departed, afflicted young men no longer enjoy (gate hi rāme taruṇāḥ santaptā nopa-bhuñjate) the perfumes of sandalwood and aloe-wood or costly fresh garlands (candanāgaru-gandhāṃś ca mahārhāś ca nava-srajaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1213,6 +1359,12 @@ as do the autumnal rains?
 
 "When will my brother return, like a carnival, diffusing joy in Ayodhya, as do the
 autumnal rains?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Men wearing bright garlands no longer go forth on pleasure-excursions outside (bahir-yātrāṃ na gacchanti citra-mālya-dharā narāḥ), nor do festivals take place in the city afflicted with grief for Rāma (notsavāḥ sampravartante rāma-śokārdite pure).
 </details>
 </details>
 
@@ -1279,6 +1431,14 @@ house; *hiinaam* = bereft of; *tena* = that; *narendreNa* = king;
 Thus speaking in many ways, Bharata entered his father's house, bereft of that
 emperor and which resembled a cave bereft of a lion.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** Surely the radiance of this city has departed together with my brother (saha nūnaṃ mama bhrātrā purasyāsya dyutir gatā); for this Ayodhyā shines no more than a moonlit night of the bright fortnight darkened by a driving rainstorm (na hi rājaty ayodhyeyaṃ sāsārevārjunī kṣapā).
+
+**28:** “When indeed will my brother, returning like a great festival (kadā nu khalu me bhrātā mahotsava ivāgataḥ), bring joy to Ayodhyā like a rain-cloud in summer (janayiṣyaty ayodhyāyāṃ harṣaṃ grīṣma ivāmbudaḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1342,6 +1502,12 @@ gynaecium, looking like a day without the sun with its relinquished radiance.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर हदिनाल्कनॆय सर्ग पूर्णवायितु ॥114॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The highways in Ayodhyā no longer shine with young men in handsome attire (taruṇaiś cāru-veṣaiś ca ayodhyāyāṃ nābhibhānti mahā-pathāḥ), striding with heads held high and thronging together (narair unnata-gāmibhiḥ sampatadbhiḥ).”
 </details>
 </details>
 

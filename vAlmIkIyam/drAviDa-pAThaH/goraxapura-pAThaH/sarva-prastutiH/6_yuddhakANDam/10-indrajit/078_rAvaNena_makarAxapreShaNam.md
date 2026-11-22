@@ -52,6 +52,12 @@ _________________
 
 कुम्भ-निकुम्भरु हतरादुदन्नु केळि, रावणनिगॆ भारि कोप बन्दु बॆङ्कियन्तॆ उरियतॊडगिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that Nikumbha had been slain and Kumbha struck down (vinipātitam), Rāvaṇa, filled with supreme indignation (paramāmarṣī), blazed up like a fire.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +91,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रावणनु क्रोध-शोकदिन्द व्याकुलनागि विशालाक्ष खरपुत्र मरकार्षनल्लि हेळिदनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Overwhelmed (parimūrcchitaḥ) by both wrath and grief, the rākṣasa lord (nairṛtaḥ) urged on Khara's broad-eyed son, Makarākṣa:
 </details>
 </details>
 
@@ -129,6 +141,12 @@ monkeys.
 
 "I am commanding you! Accompanied by an army, go my son! Kill Rama, Lakshmana and
 the monkeys."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Go, my son, at my command (mayājñaptaḥ), accompanied by an army, and slay both Rāghava and Lakṣmaṇa along with the forest-dwelling monkeys (savanaukasau)!”
 </details>
 </details>
 
@@ -195,6 +213,14 @@ Ravana).
 Having respectfully saluted, even by performing circumambulation, the mighty
 Makaraksha, by the orders of Ravana, came forth from these shining palace of Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Hearing Rāvaṇa's words, Khara's son Makarākṣa, proud of his heroism (śūramānī), rejoiced and said to the night-ranger, “So be it (bāḍham)!”
+
+**5:** Saluting Ten-necked Rāvaṇa and circumambulating him (kṛtvā cāpi pradakṣiṇam), that mighty warrior went forth from the gleaming palace at Rāvaṇa's command.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -236,6 +262,12 @@ let a chariot be brought; *tuurNam* = quickly; *sainyam* = and the army;
 Makaraksha the son of Khara asked the commander of an army who was in the vicinity
 to bring a chariot and the army swiftly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Khara's son spoke these words to the commander of the forces (balādhyakṣam) standing nearby: “Let a chariot be brought swiftly (tūrṇam), and let the army be led forth in haste (tvarāt)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -275,6 +307,12 @@ the army; *samiipam* = to his proximity.
 
 Hearing his words, the army-commander of the demons brought the chariot and the army
 to his proximity.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his, the night-ranging commander of the army (balādhyakṣaḥ) brought both the chariot (syandanam) and the troop right before him.
 </details>
 </details>
 
@@ -325,6 +363,12 @@ drive; *ratham* = the chariot; *shiighram* = quickly.
 Walking clockwise round the chariot and ascending it, Makaraksha asked the
 charioteer to drive forward the chariot quickly to the battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Circumambulating the chariot and mounting it (samāruhya), the night-ranger urged on his charioteer (sūtam): “Drive the chariot swiftly forward!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -364,6 +408,12 @@ purastaat* = in my presence; *raakShasaaH* = O; demons!.
 
 Then Makaraksha spoke the following words to those demons, "O demons! All of you
 begin your fight before my presence."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Makarākṣa spoke thus to all those rākṣasas: “Do all of you fight (prayudhyadhvam) in front of me (purastān mama), O rākṣasas!”
 </details>
 </details>
 
@@ -411,6 +461,12 @@ raavaNena* = by the mighty Ravana; *raakShasa raajena* = the king of demons;
 "The mighty Ravana, the king of demons commanded me to kill both Rama and Lakshmana
 in battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I have been commanded (ājñaptaḥ) by the great-souled Rāvaṇa, king of the rākṣasas, to slay both Rāma and Lakṣmaṇa in battle.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -450,6 +506,12 @@ in battle."
 
 "Today, I will kill Rama, Lakshmana, Sugreeva the monkey and the other monkeys with
 my excellent arrows, O demons!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today, O night-rangers, with my choicest shafts (śarottamaiḥ) I shall slay Rāma and Lakṣmaṇa, the branch-leaping monkey (śākhāmṛgam) Sugrīva, and the monkeys!”
 </details>
 </details>
 
@@ -491,6 +553,12 @@ my excellent arrows, O demons!"
 "By hurling the spears, I will destroy completely the huge army of monkeys who
 arrived today to the battle-field, as the fire destroys the dry wood."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today, with downpours of pikes (śūlanipātaiś ca), I shall burn up the great army of monkeys that has arrived here, just as fire consumes dry fuel (śuṣkendhanam ivānalaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +598,12 @@ wielding various kinds of weapons; *samaahitaaH* = were steadfast (to fight).
 
 Hearing those words of Makaraksha, all those strong demons, wielding various kinds
 of weapons, were steadfast to fight.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of Makarākṣa, all those mighty night-rangers, equipped with diverse weapons (nānāyudhopetāḥ), stood resolute (samāhitāḥ).
 </details>
 </details>
 
@@ -588,6 +662,14 @@ Those cruel demons, who can change their forms at will, who had protruding tusks
 had tawny coloured eyes, had their disheveled hair, creating terror with their colossal bodies,
 then marched forward like roaring elephants, shaking the firmament and surrounded the huge-bodied
 Makaraksha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Assuming forms at will (kāmarūpiṇaḥ), cruel, fanged, and tawny-eyed (piṅgalekṣaṇāḥ), roaring like rutting elephants with disheveled hair (dhvastakeśāḥ) and striking terror—
+
+**15:** —those huge-bodied demons surrounded the huge-bodied son of Khara (kharātmajam) and marched forth in joy, making the earth tremble (cālayanto vasundharām).
 </details>
 </details>
 
@@ -650,6 +732,12 @@ lost; *raavaNaH* = Ravana; *paramaamarShii* = was very much enraged;
 On hearing of Nikumbha and Kumbha having been killed, Ravana was very much flared up
 like fire.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From thousands of conches and kettle-drums (śaṅkhabherīsahasrāṇām) beaten on every side, and from lion-roars and arm-slappings (kṣvelitāsphoṭitānām), a mighty uproar arose there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -690,6 +778,12 @@ province.
 
 The long whip then slipped down from the hands of Makaraksha's charioteer and the
 flag-staff of that demon also suddenly fell down by the will of the province.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the goad (pratodaḥ) slipped from his charioteer's hand, and by fate (daivāt) that rākṣasa's banner-staff suddenly fell down.
 </details>
 </details>
 
@@ -733,6 +827,12 @@ were walking; *aakulaiH charaNaiH* = with flurried feet; *yuyuH* = and went;
 
 Those horses, yoked to his chariot, deprived of their diversified gait, were walking
 with flurried feet and went timidly, with tears in their eyes.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His horses yoked to the chariot lost their spirited stride (vikramavarjitāḥ); stumbling with faltering hooves (caraṇair ākulaiḥ), they plodded on dejectedly with tearful faces (sāsramukhāḥ).
 </details>
 </details>
 
@@ -778,6 +878,12 @@ forth.
 At the time of marching of that dreadful and evil-minded Makaraksha, a harsh and
 fearful dust-storm blew forth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the marching forth (niryāṇe) of that fierce and evil-minded Makarākṣa, a harsh and dreadful wind (kharadāruṇaḥ pavanaḥ) blew, laden with dust (sapāṃsuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -817,6 +923,12 @@ those Rama and Lakshmana (were there).
 
 Though seeing those portents, all those highly valiant demons ignored them and set
 out to the place, where both Rama and Lakshmana were there.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though seeing those portents (nimittāni), all the most valorous rākṣasas, disregarding them (acintya), marched out to where Rāma and Lakṣmaṇa stood.
 </details>
 </details>
 
@@ -900,6 +1012,12 @@ son of Khara (as follows):
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎप्पत्तॆण्टनॆय सर्ग पूर्णवायितु. ॥78॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dark in hue as rain-clouds, elephants, or buffaloes (ghanagajamahiṣāṅgatulyavarṇāḥ), and scarred repeatedly in the van of battle by maces and swords, those battle-skilled night-rangers roamed about again and again, shouting, “I first! I first (aham aham iti)!”
 </details>
 </details>
 

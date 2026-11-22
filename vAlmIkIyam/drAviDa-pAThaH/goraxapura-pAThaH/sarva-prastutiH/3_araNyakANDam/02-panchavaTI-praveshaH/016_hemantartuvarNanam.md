@@ -68,6 +68,12 @@ R^ituH* = pleasant, pre-winter, season; *pravartate* = set in.
 Pleasant *hemantha R^itu* , pre-winter season has set in after the passage of *sharat R^itu*,
 post-rainy season at Panchavati where the noble souled Rama is staying comfortably. [4-16-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the magnanimous (mahātmanaḥ) Rāghava dwelt happily there [in Pañcavaṭī], at the close of autumn (śarad-vyapāye) the cherished winter season (hemanta-ṛtuḥ) set in.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +117,12 @@ Godavari, river; *abhiSeka artham prayayaava* = bath, for purpose of, started.
 **अनुवादः**
 
 On some day when night faded into dawn Rama started for the delightful River Godavari for a bath. [4-16-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once, as the night was dawning (prabhātāyāṃ śarvaryām), that delight of the Raghus (raghunandanaḥ) set forth toward the lovely river Godāvarī for his morning ablutions (abhiṣekārtham).
 </details>
 </details>
 
@@ -158,6 +170,12 @@ abraviit* = this, spoke.
 His valorous brother Saumitri following him humbly with a handy vessel, along with Seetha, spoke this
 to Rama. [4-16-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Following behind him together with Sītā, his valiant brother Saumitri—bowed in humble devotion (prahvaḥ) with water-jar in hand (kalaśa-hastaḥ)—spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -204,6 +222,12 @@ year]; *sampraaptaH* = has set in; *yena* = by which; *shubhaH samvatsaraH* = pr
 "Adorned by which season the promising year will be bright, oh, pleasant conversationalist, and which
 season will also be pleasant to you, that hemanta season has set in. [4-16-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O sweet-spoken prince (priyaṃvada), this is that season dear to you which has now arrived, whereby the auspicious year (saṃvatsaraḥ śubhaḥ) shines as though adorned (alaṅkṛta iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,6 +272,12 @@ sasya maalinii* = earth is, crops, has on it; *jalaani an upabhogyaani* = waters
 
 "These days the dew is harsh to the bodies of people, earth is overlaid with crops, water is unenjoyable,
 but fire is delightful. [4-16-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“People have their skin roughened by frost (nīhāra-paruṣaḥ), the earth is resplendent with ripening grain (sasya-śālinī), the waters are unfit for use (anupabhogyāni), and the oblation-bearing fire (havyavāhanaḥ) is most welcome (subhagaḥ).
 </details>
 </details>
 
@@ -302,6 +332,12 @@ at home from fields and before the start of its usage. Usually this is the time 
 the starting day of northern solstice. *na anviShTa aagraayaNe na aahitaagni navasya
 ashniiyaat vriihiinaam yavaanaam shyaamakaanaam iti agra paakasya yajeta -- aapasthamba suutra*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having worshipped the ancestral manes and deities (pitṛ-devatāḥ) in due season with offerings of the new harvest (navāgrayaṇa-pūjābhiḥ), the righteous who maintain the first-fruits sacrifice (kṛtāgrayaṇakāḥ) are freed from sin (vigata-kalmaṣāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -347,6 +383,12 @@ areas villagers; *praajya kaamaa* = ample, desires [self-satisfied]; *mahii paal
 
 "Amply fulfilled are the desires of the villagers with the affluence of milch cows and dairy, and the
 vanquishing kings are make moves for the purposes of their further vanquishes. [4-16-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The countryfolk have their desires abundantly fulfilled (prājya-kāmāḥ) and possess rich stores of dairy produce (sampannatara-gorasāḥ), while kings bent on conquest (vijigīṣavaḥ), engaged in military expeditions (yātrā-sthāḥ), march forth.
 </details>
 </details>
 
@@ -404,6 +446,12 @@ of the existence of her husband. Should she become a widow this mark is made no 
 become dullish for she is without a husband. So also the sun is such a mark on the forehead of the woman
 called horizon. Without him no quarters glitter.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As the sun steadfastly resorts (sevamāne dṛḍham) to the southern quarter presided over by Yama (antaka-sevitām), the northern quarter shines no more, like a woman bereft of her auspicious forehead mark (vihīna-tilakeva strī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -450,6 +498,12 @@ snowy; *su vyaktam* = very, obviously; *yathaartha naamaa* = true to it, name.
 
 "By their very nature Himalayas are the depositories of snow, and presently distanced from the sun they
 are very obviously snowy true to their name. [4-16-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Abounding by nature in masses of snow (hima-kośāḍhyaḥ) and now far removed from the sun (dūra-sūryaḥ), Mount Himavān—deeply snow-clad (himavān)—is manifestly true to its name (yathārtha-nāmā).
 </details>
 </details>
 
@@ -500,6 +554,12 @@ aadityaaaH* = are with genial, sun; *Chaayaa salila* = shades, waters; *dur bhag
 "By the way of touch the mid days are comfortable and in these days the daytime is very much comfortable
 for sauntering, thus the sun in daytimes is genial and ungenial are the shades and waters. [4-16-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Most pleasant for moving about (atyanta-sukha-sañcārāḥ) and agreeable to the touch at midday (madhyāhne sparśataḥ sukhāḥ), the days now have a welcome sun (subhagādityāḥ), while shade and water have become uninviting (chāyā-salila-durbhagāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -548,6 +608,12 @@ paTu shiitaaH* = bitterly, cold; *sa maarutaaH* = with, [wintry] breezes; *shuun
 
 "Overwhelmed by snow presently the noontimes are with soft sun, with bitter cold, with mists and wintry
 breezes, and with them the forests too are bleak in their sheen. [4-16-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With mild sunshine (mṛdu-sūryāḥ), misty frost (sanīhārāḥ), biting cold (paṭu-śītāḥ), and winds (samārutāḥ), the days now appear with their forests deserted (śūnyāraṇyāḥ) and blighted by frost (hima-dhvastāḥ).
 </details>
 </details>
 
@@ -607,6 +673,12 @@ about the purpose of his incarnation, where the gods are precluded from a restfu
 activities of demons are on the increase, and the demons are bringing doom time, so Rama has to quicken
 their eradication.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With sleeping under the open sky abandoned (nivṛttākāśa-śayanāḥ), ushered in by the lunar month of Pauṣa (puṣya-nītāḥ), tawny-grey with frost (himāruṇāḥ), cold, and grown much longer in duration (vṛddhatarāyāmāḥ), the three-watch nights (triyāmāḥ) now pass by.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -653,6 +725,12 @@ like, mirror; *candramaa na prakaashate* = moon, not, lustrous.
 his lustrousness in these days, thus the lustreless moon remained in a blushing sphere with fog, just
 like a mirror blinded by the fog of a suspire. [4-16-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having transferred its loveliness to the sun (ravi-saṅkrānta-saubhāgyaḥ) and with its orb ruddy-grey from frost (tuṣārāruṇa-maṇḍalaḥ), the moon does not shine, like a mirror dimmed by breath (niśśvāsāndha ivādarśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -697,6 +775,12 @@ na raajate* = moonlight, not, shiny; *aatapa shyaamaa* = by sun heat, blackened 
 
 "Even on a full moon day the moonlight is unbright blemished by mist, and it is appearing like brightly
 Seetha becoming swarthy by sun's heat, but not brightly. [4-16-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Sullied by frost (tuṣāra-malinā), the moonlight (jyotsnā) does not sparkle even on the full-moon night (paurṇamāsyām); like Sītā darkened by the sun (ātapa-śyāmā), it is merely perceived, yet does not shine brightly.
 </details>
 </details>
 
@@ -749,6 +833,12 @@ chilly in the early hours. [4-16-15]
 The vernal breeze will be cool by its nature and so is the Omnipotent. Now the snowy dew enriches the
 breeze's coolness. So also the Omnipotent, namely Rama, is doubly cool by the coolness of the prayers
 of divinities and the sages as well. Govindaraja.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Cool to the touch by nature (prakṛtyā śītala-sparśaḥ) and now pierced with frost (hima-viddhaḥ), the western wind (paścimo vāyuḥ) blows doubly cold (dviguṇa-śītalaḥ) in the morning hour.
 </details>
 </details>
 
@@ -805,6 +895,12 @@ to receive the mercy of Rama. The birds' callings are the echoing of Vedic sonor
 locally as *jov dhaan* and is used in fire oblations, . It is a dietary prescription to diabetics
 nowadays.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Veiled in rising vapour (bāṣpa-cchannāni) and rich in barley and wheat (yava-godhūmavanti), the forests shine at sunrise (abhyudite sūrye) with crying krauñca curlews and sārasa cranes (nadadbhiḥ krauñca-sārasaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -857,6 +953,12 @@ The heads of crops are a little bent down by weight of corn, like the heads of s
 the weight of knowledge before the Absolute. Thus their age-old golden hair is gleaming at the first
 rays of sun. Govindaraja.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With their heads shaped like date-palm blossoms (kharjūra-puṣpākṛtibhiḥ) and heavy with full grains (pūrṇa-taṇḍulaiḥ), the golden-hued rice plants (śālayaḥ kanaka-prabhāḥ) shine, slightly bowed down (kiñcid-ānamrāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -907,6 +1009,12 @@ sun is appearing as moon. [4-16-18]
 The sun again is Rama. 'Though you have risen in the vast of forests long back and avowed to eradicate
 demons, has your radiance decreased like the vernal sun, while the demons are still radiant by their
 activities...' is the question of Lakshmana. Govindaraja.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With its spreading rays (mayūkhair upasarpadbhiḥ) shrouded in frost and mist (hima-nīhāra-saṃvṛtaiḥ), the sun, even when risen high (dūram abhyuditaḥ), appears like the moon (śaśāṅka iva).”
 </details>
 </details>
 
@@ -965,6 +1073,12 @@ inappreciable by his taciturnity. Then Lakshmana is deemed to have said, 'The de
 the nature with their cold-blooded activities like coldish snow, oh, Rama, sustaining them with kind
 of cool profile of yours is inapt of you...' Govindaraja.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of imperceptible potency in the forenoon (agrāhya-vīryaḥ pūrvāhṇe) and pleasant to the touch at midday (madhyāhne sparśataḥ sukhaḥ), the sunlight—faintly ruddy and pale (saṃraktaḥ kiñcid-āpāṇḍuḥ)—shines upon the earth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1019,6 +1133,12 @@ The pastureland are like the serene sages who are wetting their faces with dropl
 by the activities of the demons. And now the warmth of the tender sun / valour of Rama, is radiating
 on the countenances of pasturelands/sages which will be furious henceforth. Govindaraja.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With its grassy meadows slightly moistened (kiñcit-praklinna-śādvalā) by the fall of dew (avaśyāya-nipātena), the forest ground shines with the young sunlight resting upon it (niviṣṭa-taruṇātapā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1069,6 +1189,12 @@ elephant is backing away its trunk for the water is that cold. [4-16-21]
 
 Gods are withdrawing to touch pleasurable items that are usually enjoyable to them, fearing Ravana.
 Govindaraja
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Touching the clear, cold, pleasant water (vimalaṃ śītam udakaṃ sukham), the wild elephant (vanyo dviradaḥ), though parched with extreme thirst (atyanta-tṛṣitaḥ), draws back its trunk (pratisaṃharate karam).
 </details>
 </details>
 
@@ -1121,6 +1247,12 @@ The waterfowls are compared with the sages. The sages though staying nearby asce
 on riverbanks, are not able to enter into its enjoyable main realm, namely *samaadhi*, concentration.
 Another way is 'oh Rama, though you are an expert in warfare why you are backing away for a war with
 demons? Why not jump to it? Are you like these fearing waterfowls?'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And these aquatic birds (vihagā jalacāriṇaḥ) sitting gathered by the water's edge (samupāsīnāḥ) do not plunge into the water, like faint-hearted men (apragalbhā iva) shrinking from battle (āhavam).
 </details>
 </details>
 
@@ -1180,6 +1312,12 @@ darkness of night. They not only crouch in themselves with the inner darkness, b
 enfolded by the external darkness of night, they further crouch in. Maheshvara Tiirtha. By this sleep
 attribute, the dormant disposition of sages is made evident.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bound by the darkness of night-dew (avaśyāya-tamo-naddhāḥ) and shrouded in the gloom of morning mist (nīhāra-tamasāvṛtāḥ), the flowerless rows of forest trees (vipuṣpā vanarājayaḥ) appear as though fast asleep (prasuptā iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1233,6 +1371,12 @@ By rivers the sages are denominated and they are all enshrouded by the mist call
 and they are perceptible just by their groaning. They are unable to come out of that misty climate,
 as good as waterfowls dependent on rivers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With their waters veiled in vapour (bāṣpa-sañchanna-salilāḥ) and their sārasa cranes recognizable only by their cries (ruta-vijñeya-sārasāḥ), the rivers now shine with banks of frost-moistened sand (himārdra-vālukais tīraiḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1284,6 +1428,12 @@ wells is generally agreeable for drinking. [4-16-25]
 This falling of the snow is indicative of the falling of demons upon sages, and sun's softness is with
 the soft attitude of Rama. Tiirtha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through the falling of frost (tuṣāra-patanāt), the mildness of the sun (mṛdutvād bhāskarasya), and the extreme chill (śaityāt), even water standing on a mountain peak (agāgrastham api) is generally tasteful [or stinging like poison] (rasavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1303,6 +1453,12 @@ the soft attitude of Rama. Tiirtha.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जो पुराने पड़ जानेके कारण जर्जर हो गये हैं, जिनकी कर्णिका और केसर जीर्ण-शीर्ण हो गये हैं, ऐसे दलोंसे उपलक्षित होनेवाले कमलोंके समूह पाला पड़नेसे गल गये हैं । उनमें डंठलमात्र शेष रह गये हैं । इसीलिये उनकी शोभा नष्ट हो गयी है ॥ २६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With their lotuses withered by age (jarā-jarjaritaiḥ padmaiḥ), their filaments and pericarps shed (śīrṇa-kesara-karṇikaiḥ), and only their stalks remaining (nāla-śeṣaiḥ) after being blighted by frost, the lotus ponds shine no more.
 </details>
 </details>
 
@@ -1370,6 +1526,12 @@ harmaatmaa bharataH* = noble-souled, Bharata; *duHkha samanvitaH* = anguish, alo
 "But during this time, oh, manly-tiger, ushered by anguish that virtue souled one Bharata must be practising
 ascesis in city with adoration to you. [4-16-27]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At this cold season, O tiger among men (puruṣa-vyāghra), righteous-souled Bharata, stricken with grief (duḥkha-samanvitaḥ), practices austerity in the city [at Nandigrāma] out of devotion to you (tvad-bhaktyā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1415,6 +1577,12 @@ too, he is in self-denial, and with his food regulated he sleeps on chilly surfa
 So far Lakshmana spoke about spring season indicating the sufferings of saints and sages by the chill
 and icy effects of demons indirectly. Now his broodings are turning to Bharata, for Bharata is avowed
 to self-immolate if Rama were not to come after a fixed time, and Rama is lingering here.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having renounced royal sovereignty, honour, and manifold rich pleasures (bhogāṃś ca vividhān bahūn), that ascetic (tapasvī) of regulated diet (niyatāhāraḥ) sleeps in the cold upon the bare ground (mahī-tale).
 </details>
 </details>
 
@@ -1462,6 +1630,12 @@ to self-immolate if Rama were not to come after a fixed time, and Rama is linger
 
 "Even he might always be getting up at this time of the day and proceeding to River Sarayu for a bath
 surrounded by ministers, definite is that. [4-16-29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely he too, intent upon his morning ablutions (abhiṣekārtham udyataḥ) at this very hour, proceeds daily to the river Sarayū, surrounded by his ministers and subjects (vṛtaḥ prakṛtibhiḥ).
 </details>
 </details>
 
@@ -1517,6 +1691,12 @@ one who cannot tolerate your absence'. In other mms it is *sukhochita* in place 
 which means one who is habituated to pleasures of a younger prince,' but not to become a monk in these
 early years of his youth. So you should relieve him of his vow. This is the import of Lakshmana's address
 to Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Reared in supreme comfort (atyanta-sukha-saṃvṛddhaḥ), delicate (sukumāraḥ), and accustomed to happiness (sukhocitaḥ), how indeed does he plunge into the Sarayū in the last watches of the night (apara-rātreṣu)?
 </details>
 </details>
 
@@ -1587,6 +1767,14 @@ his adorable brother. [4-16-31, 32]
 Stomachless is not to say that Bharata is without a stomach but has a palm-like concave stomach, but
 not a potbelly to stomach the kingdom of Ayodhya that is easily usurped through his mother Kaika.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** “Lotus-petal-eyed (padma-patrekṣaṇaḥ), heroic, dark-complexioned (śyāmaḥ), slender-waisted (nirudaraḥ), great, knower of dharma, speaker of truth, restrained by modesty (hrī-niṣedhaḥ), and master of his senses (jitendriyaḥ)—
+
+**32:** “Kindly spoken (priyābhibhāṣī), gentle (madhuraḥ), long-armed, and subduer of foes, he has renounced manifold pleasures and devoted himself heart and soul (sarvātmanā śritaḥ) to you, his noble elder brother (āryam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1642,6 +1830,12 @@ is said to be his conquering heavens. Lakshmana is quickening Rama's thinking to
 complete his mission in eradicating the demonic atrocities and quickly return to Ayodhya, lest time
 slips by and Bharata may self-immolate. After these many thoughts, now Lakshmana starts to move the
 eye of the needle towards Kaikeyi, the root cause for all miseries.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Heaven has been won (jitaḥ svargaḥ) by your magnanimous brother Bharata, who emulates (anuvidhīyate) you in asceticism (tāpasye) even while you dwell in the forest.
 </details>
 </details>
 
@@ -1699,6 +1893,12 @@ tashii maatii va jaatii tashii potii'* after Dr. Satya Vrat. This stems up from 
 pitR^i mukhii kanyaa dhanyaa maatR^i mukhaH sutaH* 'Blest is father-like daughter,
 blest is mother-like son.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Mortals (dvipadāḥ) do not follow their father’s nature (pitryam), but rather their mother’s (mātṛkam)’—this well-known popular proverb (loka-pravādaḥ) has been proved false (anyathā kṛtaḥ) by Bharata.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1753,6 +1953,12 @@ Godavari. [4-16-35]
 
 Rama uses the same wording for Kaikeyi as our middle mother' at 3-2-19b-20
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How indeed could that mother Kaikeyī, whose husband was Daśaratha and whose virtuous son is Bharata (sādhuś ca bharataḥ sutaḥ), be of such cruel disposition (krūra-śīlinī)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1798,6 +2004,12 @@ Raghava, about mother; *tam pari vaadam* = against, telling [slanderous talking]
 
 When that upright Lakshmana is speaking those words that way out of his fondness towards Rama, Raghava
 spoke to Lakshmana, intolerant of that slanderous talk about their mother. [4-16-36]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the righteous Lakṣmaṇa spoke these words out of fraternal affection (snehāt), Rāghava, unable to endure (asahan) that censure of his mother (parivādaṃ jananyāḥ), replied:
 </details>
 </details>
 
@@ -1845,6 +2057,12 @@ naathasya bharatasya* = Ikshvaku-s, king, Bharata's; *taam kathaam eva kuru* = t
 "In any way, dear Lakshmana, you are not supposed to deplore another mother of ours, but you go on telling
 the topics of Bharata, the king of Ikshvaku-s. [4-16-37]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Dear brother (tāta), your middle mother (ambā madhyamā) must never be reproached in any way whatsoever (kathañcana); speak rather of that very Bharata, the lord of the Ikṣvākus (ikṣvāku-nāthasya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1891,6 +2109,12 @@ boyishness [fascination,] is made [recurs.]
 "My mind is indeed set to dwell only in forest, and it is firmly avowed, but while yearning for Bharata's
 fellowship my fascination to reunite with him is recurring again. [4-16-38]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Though my mind is firmly resolved (niścitāpi) and steadfast in its vow of forest residence (vanavāse dṛḍha-vratā), yet when tormented by affection for Bharata (bharata-sneha-santaptā) it is made childlike and wavering once more (bāliśīkriyate punaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1935,6 +2159,12 @@ to [ambrosial]; *manaH prahlaadaani ca* = heart, gladdening [heartening words]; 
 
 "I reminisce his words well, that are genial, sweet, heartily, ambrosial and that will gladden the heart.
 [4-16-39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I fondly remember his words—dear, melodious (madhurāṇi), captivating to the heart (hṛdyāni), like unto nectar (amṛta-kalpāni), and gladdening to the mind (manaḥ-prahlādanāni).
 </details>
 </details>
 
@@ -1986,6 +2216,12 @@ you and Seetha." Thus said Rama to Lakshmana. [4-16-40]
 Usually the word *ca* means 'also, and.' In compound *tvayaa ca raghunandana* it is said
 to indicate Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘When indeed shall I be reunited (kadā nv ahaṃ sameṣyāmi) with the magnanimous Bharata, with the heroic Śatrughna, and with you, O delight of the Raghus?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2030,6 +2266,12 @@ worrying; *godaavariim nadiim praapya* = Godavari, river, having reached; *sa an
 
 Thus worrying that way while proceeding, there Rama reached River Godavari and performed bathing with
 his younger brother Lakshmana and along with Seetha. [4-16-41]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting thus in various ways (ity evaṃ vilapan), Kākutstha reached the river Godāvarī there and performed his ablutions (cakre 'bhiṣekam) with his younger brother and Sītā.
 </details>
 </details>
 
@@ -2076,6 +2318,12 @@ Seetha]; *stuvanti sma* = extolled, they are.
 
 Then on offering water oblations to manes and gods that impeccant trinity extolled the rising sun and
 gods likewise. [4-16-42]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having gratified the ancestral manes and deities with water-libations (tarpayitvātha salilaiḥ), they stood in devout concentration (samāhitāḥ) praising the risen sun (uditaṃ sūryam) and the gods.
 </details>
 </details>
 
@@ -2147,6 +2395,12 @@ The similitude between Rama and Shiva suggests that Rama is about to start destr
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हदिनारनॆय सर्ग सम्पूर्णवायितु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having completed his ablutions, Rāma, accompanied by Sītā as his second (sītā-dvitīyaḥ) along with Lakṣmaṇa, shone forth like the blessed Lord Rudra (bhagavān iveśaḥ) attended by Nandin (sanandiḥ) after bathing alongside the daughter of the Mountain King (girirāja-putryā).
 </details>
 </details>
 

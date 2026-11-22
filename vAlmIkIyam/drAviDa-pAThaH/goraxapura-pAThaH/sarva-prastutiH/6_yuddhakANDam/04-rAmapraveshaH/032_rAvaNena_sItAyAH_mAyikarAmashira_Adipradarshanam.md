@@ -93,6 +93,16 @@ a proof resembling her husband's eyes, facial complexion, hair, expanse of his f
 jewel worn on the top of his head, she was very much afflicted with sorrow, cried like an osprey and
 abused Kaikeyi who was the originator of the present calamity (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Beholding that head and that excellent bow (kārmukam uttamam), and recalling the alliance with Sugrīva (sugrīva-pratisaṃsargam) that had been recounted by Hanūmān,
+
+**2:** as well as those eyes, the complexion of the face (mukha-varṇam), the visage so like her husband's (bhartus tat-sadṛśam), the hair, the hairline along the brow (keśānta-deśam), and that auspicious crest-jewel (cūḍā-maṇim)—
+
+**3:** recognizing [him] by all these tokens of identity (abhijñānaiḥ), Sītā, stricken with sore grief (su-duḥkhitā) and crying out like a female osprey (kurarī yathā), reproached (vijagarhe) Kaikeyī right there:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +148,12 @@ of your desires; *ayam* = this Rama; *kula nandanaH* = causing joy to the family
 
 Kaikeyi! Be a fulfiller of your craving! This Rama, causing a joy to the family, has
 been slain. The entire race has been destroyed by a woman of squabbling nature.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Be fulfilled in your desire (sa-kāmā bhava), O Kaikeyī! Slain is this delighter of the dynasty (kula-nandanaḥ); the entire royal line has been uprooted (utsāditam) by you, who delight in strife (kalaha-śīlayā)!
 </details>
 </details>
 
@@ -185,6 +201,12 @@ yat* = why; *prasthaapito* = was he sent on exile; *vanam* = to the forest; *may
 "You gave clothes made of bark to the venerable Rama and sent him on exile to the forest
 along with me. What harm has he done to you?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What offense (vipriyam), pray, was ever done to Kaikeyī by the noble (āryeṇa) Rāma, that he was banished (pravrājitaḥ) to the forest together with me after being given garments of bark (cīra-vasanam)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -231,6 +253,12 @@ tree; *chhinnaa* = which was cut-off.
 Thus speaking, Seetha the miserable girl was trembling and fell on the ground like a
 plantain tree that was cut off. Thus speaking, Seetha the miserable girl was trembling and fell on the
 ground like a plantain tree that was cut off.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the pitiable (tapasvinī) Vaidehī, trembling all over (vepamānā), fell to the earth (jagāma jagatīm), young girl (bālā) that she was, like a severed plantain tree (chinnā tu kadalī yathā).
 </details>
 </details>
 
@@ -281,6 +309,12 @@ _________________
 The wide eyed Seetha thereafter was consoled in a moment, regained consciousness, approached
 near that illusory head and lamented as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Regaining her breath (samāśvasya) after a moment and recovering consciousness (cetanām), that large-eyed lady (āyatekṣaṇā) drew near (samupāsthāya) that head and lamented aloud:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -326,6 +360,12 @@ avasthaam* = last fate; *kR^itaa* = I have been made; *vidhavaa* = a widow.
 
 "O, the long armed Rama! The pursuer of a strong will! Alas, you have been killed! I
 have become a witness to your last fate. I have been made a widow."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Alas, I am undone (hatāsmi), O mighty-armed one, faithful to the warrior's vow (vīra-vratam anuvrata)! I have come to see this final state (paścimāvasthām) of yours, made a widow (vidhavā kṛtā)!
 </details>
 </details>
 
@@ -373,6 +413,12 @@ died; *agrataH* = earlier; *mama* = to me; *saadhu vR^ittaayaaH* = well survivin
 "It is said that the early death of a husband is the misfortune of a wife. You, having
 good conduct, have preceded me in death."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A husband's dying first (prathamaṃ maraṇam) is declared to be a wife's demerit (nāryā vaiguṇyam); yet you of virtuous conduct (su-vṛttaḥ) have passed away (saṃvṛttaḥ) before me, who have lived virtuously (sādhu-vṛttāyāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -419,6 +465,12 @@ so.api* = such of you also; *vinipaatitaH* = have been killed.
 "Even you who were actually intent on protecting me, fallen in great affliction and immersed
 in an ocean of grief, have been killed by the enemies"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And you who strove (udyataḥ) to rescue me, who had fallen into great misery (mahad duḥkham) and sunk in an ocean of grief (śoka-sāgare)—even you have been struck down (vinipātitaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -464,6 +516,12 @@ son; *vatseneva* = as by a calf; *dhenu yathaa* = as to the cow
 
 "O, Rama! My mother- in-law Kausalya who cherished you tenderly has been left without
 a son and resembles a cow that has lost its calf."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By you her son, O Rāghava, my mother-in-law Kausalyā, so tender toward her child (vatsalā), has been rendered childless (vivatsā), like a cow bereft of her calf (vatseneva yathā dhenuḥ).
 </details>
 </details>
 
@@ -514,6 +572,12 @@ lengthy; *raaghava* = O;Rama! teshhaam = their; *vachanam* = words; *anR^itam*
 "O, Rama! It was mentioned even by astrologers that your life span is lengthy. O, Rama!
 Their words are wrong. You are short lived."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A long life (dīrgham āyuḥ) was foretold (uddiṣṭam) for you even by the astrologers (daivajñaiḥ), O Rāghava; false (anṛtam) was their word, for you are short-lived (alpāyur asi), O Rāghava!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -560,6 +624,12 @@ Their words are wrong. You are short lived."
 "Otherwise, your prudence might have disappeared even though you were sagacious, for,
 Time the master of all beings has brought you to an end."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or else wisdom (prajñā) perishes even for one who is wise (prājñasyāpi sataḥ) like you, since Time (kālaḥ), which is the origin (prabhavaḥ) of all beings, brings every creature to maturity (pacaty enam) in just that way!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -605,6 +675,12 @@ Time the master of all beings has brought you to an end."
 
 "How is it possible that you, who knew the doctrine of political ethics obtained an unforeseen
 death? You, who knew the science of expediency, were indeed skilled in warding off calamities"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Why have you met with an unforeseen death (adṛṣṭaṃ mṛtyum āpannaḥ), you who know the science of policy (naya-śāstra-vit), who know the remedies for calamities (vyasanānām upāya-jñaḥ) and are skilled in averting them (kuśalo varjane)?
 </details>
 </details>
 
@@ -655,6 +731,12 @@ by the night of all destroying time; *ati nR^ishamsayaa* = which was very much c
 "O, Rama, the lotus eyed! The night of destroying time which was very much cruel and
 terrible thus has encircled you, embezzled you and snatched you away from me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus, O lotus-eyed one (kamala-locana), have you been forcibly torn away (ācchidya) and carried off after being closely embraced (sampariṣvajya) by the fierce, utterly ruthless Night of Doom (kāla-rātryā)—which was none other than my own self!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -701,6 +783,12 @@ terrible thus has encircled you, embezzled you and snatched you away from me."
 "O, the mighty armed! O, the best of men! Leaving the miserable me, you lied down here,
 embracing the earth as your beloved"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Here you lie (iha śeṣe), O mighty-armed bull among men (puruṣarṣabha), forsaking pitiable me (māṃ vihāya tapasvinīm) and embracing the earth (pṛthivīm) as though she were a beloved woman (priyām iva yathā nārīm)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -740,6 +828,12 @@ matpriyam* = dear to me; *satatam* = which was forever; *architam* = worshipped;
 
 "O, valiant Rama! Here is your bow which was decorated with gold, dear to me and worshipped
 diligently by you with sandal paste and wreath of flowers."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This bow of yours, adorned with gold (kāñcana-bhūṣitam) and ever dear to me (mat-priyam), O hero, was constantly worshiped (arcitam satatam) by me with effort using fragrant pastes and garlands (gandha-mālyaiḥ).
 </details>
 </details>
 
@@ -786,6 +880,12 @@ diligently by you with sandal paste and wreath of flowers."
 
 "O, the faultless Rama! Surely, you must have met in heaven your father and my father-in-
 law Dasaratha as well as all the multitude of manes."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely (nūnam), O sinless one (anagha), you are now reunited in heaven (svarge samāgataḥ) with your father Daśaratha, my father-in-law (śvaśureṇa mama), together with all your forefathers (pitṛbhiḥ sārdham)!
 </details>
 </details>
 
@@ -836,6 +936,12 @@ law Dasaratha as well as all the multitude of manes."
 great act, which illuminated the heaven like a luminary."
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Do you now look indifferently (samupekṣase) upon your own sacred dynasty of royal sages (puṇyaṃ rājarṣi-vaṃśam), which has become a constellation in the sky (divi nakṣatra-bhūtam) and was established by mighty deeds (mahat-karma-kṛtam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -886,6 +992,12 @@ together; *sampraaptam* = since the time of my obtaining; *baalaam* = as girl; *
 "O, prince! Why don't you look at me? Why don't you reply me, a wife who lived with you
 together since the time of obtaining me as a girl by you as a boy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Why do you not look at me (kiṃ māṃ na prekṣase), O king, or why do you not answer me (na pratibhāṣase)—me, your wife and constant companion (saha-cāriṇīm), a young girl won by you in youth (bālāṃ bālena samprāptām)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -933,6 +1045,12 @@ as I am.
 "O, Rama! Remember your solemn promise at the time of our marriage, saying I shall have
 righteous conduct with you' Take me also with you, wretched as I Am."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Remember, pray (smara tan nāma), O Kākutstha, what was promised by you when clasping my hand (gṛhṇatā pāṇim)—‘I shall walk with you (cariṣyāmīti)’—and lead away (naya) even me, stricken with sorrow!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -979,6 +1097,12 @@ this; *lokaat* = world?
 
 "O, Rama the best of beings! Why have you gone away, quitting me like this? Leaving me,
 the miserable woman, why have you gone to the other world from this world?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Why have you gone (gataḥ) from this world to yonder world (asmāl lokād amuṃ lokam), O foremost of those who walk the path (gatimatāṃ vara), forsaking me (mām apahāya) and leaving me behind in grief?
 </details>
 </details>
 
@@ -1029,6 +1153,12 @@ me; *kalyaaNaiH* = with divine essences.
 "That beautiful body, which was cuddled by me with divine essences, is now being dragged
 about by wild beasts."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That comely frame (ruciraṃ gātram) of yours, honored with auspicious rites (kalyāṇaiḥ) and embraced by me alone (mayaiva tu pariṣvaktam)—surely that body of yours is now being dragged about (viparikṛṣyate) by carrion-eaters (kravyādaiḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1077,6 +1207,12 @@ with abundant gifts?
 though you have worshipped the Lord through sacrificial performances such as Agnishtoma, duly furnished
 with abundant gifts?".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having sacrificed with Vedic rites headed by the Agniṣṭoma (agniṣṭomādibhir yajñaiḥ), accompanied by ample priestly gifts (āpta-dakṣiṇaiḥ), why then will you not obtain funeral consecration (saṃskāraṃ na tu lapsyase) with the sacred Agnihotra fire (agnihotreṇa)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1121,6 +1257,12 @@ with abundant gifts?".
 
 "Kausalya absorbed as she was with grief can only see Lakshmana alone returned out of
 the three who attained exile."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Consumed by grief (śoka-lālasā), Kausalyā will behold (pariprekṣyati) Lakṣmaṇa returning alone (ekam āgatam) out of the three who entered upon forest exile (pravrajyām upapannānām).
 </details>
 </details>
 
@@ -1167,6 +1309,12 @@ by the demons; *te mitra balasya* = of the army of your ally; *nishaayaam* = at 
 
 "He will narrate surely to her when enquired, about your slaughter as also the killing
 of the army of your alley, by demons at night."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And when she questions him (tasyāḥ paripṛcchantyāḥ), he will surely recount (ākhyāsyate) the slaughter of your allied army (mitra-balasya) and your own slaying by the rākṣasas at night.
 </details>
 </details>
 
@@ -1215,6 +1363,12 @@ she; *na bhavishhyati* = will be no more; *hR^idayana* = with her heart; *avadii
 "O, Rama! Hearing that you were killed while sleeping and that I was kept in the house
 of ogres, she will be no more, as her heart will be broken."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning that you were slain in sleep (suptaṃ hatam) and that I have passed into the house of the rākṣasas (rakṣo-gṛhaṃ gatām), she will cease to live (na bhaviṣyati), O Rāghava, with her heart rent asunder (hṛdayenāvadīrṇena)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1261,6 +1415,12 @@ the cause; *mama* = of me; *anaaryaayaaH* = an unworthy woman.
 "The strong and faultless prince Rama was killed in a small puddle, after crossing the
 ocean, for the cause of me, an unworthy woman."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For the sake of ignoble me (mama hetor anāryāyāḥ), the sinless prince Rāma of mighty valor, having crossed the ocean (sāgaram uttīrya), has been slain in a mere cow's hoofprint (goṣpade hataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1306,6 +1466,12 @@ ocean, for the cause of me, an unworthy woman."
 
 "I, the obloquy of my race, was wedded by Rama due to ignorance. Thus, a wife herself
 has eventually proved to be the cause for death of Rama, an honorable man."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Out of delusion (mohāt) was I, the defiler of my own lineage (sva-kula-pāṃsanī), wedded by Daśaratha's son; the wife of my noble lord Rāma proved to be his very death (mṛtyur ajāyata)!
 </details>
 </details>
 
@@ -1358,6 +1524,12 @@ anyaam* = in a another (previous); *jaatim* = existence; *uttamam* = an excellen
 that very person, who is weeping here and now, because without doubt, in a previous existence, an excellent
 gift was refused by me (to an eligible person)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely in another birth (anyāṃ jātim) some supreme gift (dānam uttamam) was obstructed (vāritam) by me, since today I grieve here, though the wife of him who was a host and refuge to all (sarvātither iha)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1405,6 +1577,12 @@ act
 "Unite the wife with the husband and without delay, arrange to kill me right at the head
 of Rama. Thus, you will perform an admirable and auspicious act."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rightly (sādhu) have me slain (ghātaya māṃ) swiftly upon Rāma, O Rāvaṇa! Unite (samānaya) the husband with his wife, and perform this supreme benefaction (kalyāṇam uttamam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1450,6 +1628,12 @@ of Rama. Thus, you will perform an admirable and auspicious act."
 
 "O, Ravana! Join my head with his head and my body with his body. I shall go along the
 path of my magnanimous Lord."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Join (yojaya) my head with his head, and my body with his body (kāyaṃ kāyena); O Rāvaṇa, I shall follow (anugamiṣyāmi) the path (gatim) of my great-souled husband!”
 </details>
 </details>
 
@@ -1497,6 +1681,12 @@ grief; *vilalapa* = and lamented; *itiiva* = in this way.
 The wide-eyed Sita, seeing her husband's head and bow there again and again, was tormented
 with grief and lamented as aforesaid.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus, tormented by sorrow (duḥkha-saṃtaptā), the large-eyed daughter of Janaka lamented aloud, gazing upon her husband's head and bow (bhartuḥ śiro dhanuś caiva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1542,6 +1732,12 @@ his joined palms in salutation. (And cried as follows):
 
 While Seetha was lamenting thus, a demon who was a royal guard approached his Lord there
 with his joined palms in salutation (and cried as follows):
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Sītā was wailing thus (evaṃ lālapyamānāyāṃ sītāyām), a rākṣasa stationed in the guard (anīkasthaḥ) approached (abhicakrāma) his lord there with folded hands (kṛtāñjaliḥ).
 </details>
 </details>
 
@@ -1589,6 +1785,12 @@ Lord! saH* = he; *abhivaadya* = respectfully announced; *iti* = thus; *prasaadya
 "May you be victorious, O noble Lord!" he respectfully announced thus, thereby winning
 his pleasure and informed that Prahasta the army chief had come.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed in salutation (abhivādya) with the words, “Be victorious, O noble prince (vijayasyāryaputreti)!” and having propitiated (prasādya) him, he announced that the army commander Prahasta (prahastaṃ vāhinī-patim) had arrived.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1631,6 +1833,12 @@ _________________
 
 "O, Lord! Prahasta has come with all ministers. He has sent me, eager as he is, to see
 you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Accompanied by all the ministers (amātyaiḥ sahitaḥ sarvaiḥ), Prahasta waits upon you (tvām upasthitaḥ); by him, who desires an audience (darśana-kāmena), I have been dispatched (ahaṃ prasthāpitaḥ), O lord.
 </details>
 </details>
 
@@ -1678,6 +1886,12 @@ you."
 "O, king, endowed with patience! There is a little urgent work by way of king's duty.
 Please accord them your audience now."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely, O great king endowed with forbearance (kṣamānvita), by reason of statecraft (rāja-bhāvāt) there is some urgent matter (ātyayikaṃ kāryam); grant them an audience (teṣāṃ tvaṃ darśanaṃ kuru)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1723,6 +1937,12 @@ left; *ashokavanikaam* = the garden of Ashoka; *yayou* = and accorded; *darshana
 
 Hearing the aforesaid communication of the demon, Ravana left the garden of Ashoka and
 bestowed audience to his ministers.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing this report delivered by the rākṣasa (rākṣasa-prativeditam), the ten-necked one left the Aśoka grove (aśoka-vanikāṃ tyaktvā) and went to meet his counselors (mantriṇāṃ darśanaṃ yayau).
 </details>
 </details>
 
@@ -1772,6 +1992,12 @@ He deliberated with his ministers as to what action in its entirety to be pursue
 entered the council-chamber and issued his commands in accordance with the knowledge he possessed of
 Rama's forces.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And having deliberated (samarthyaiva) with his counselors upon all that he had to do (sarvaṃ kṛtyam ātmanaḥ), he entered the assembly hall (sabhāṃ praviśya) and ordained his measures (vidadhe), having ascertained Rāma's valor (viditvā rāma-vikramam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1819,6 +2045,12 @@ kaarmukamcha* = bow; *jagaama* = attained; *antardhaanam* = disappearance.
 
 Soon after the departure of Ravana, the illusory head and bow had vanished.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Meanwhile, immediately upon Rāvaṇa's departure (rāvaṇasyaiva niryāṇa-samanantaram), that head and that excellent bow vanished out of sight (antardhānaṃ jagāma).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1863,6 +2095,12 @@ yaamaasa* = decided; *raamakaaryavinishchayam* = on the measures he would adopt 
 
 Then, Ravana the king of demons in consultation with his highly powerful ministers, decided
 on the measures he would adopt against Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the lord of the rākṣasas, together with those ministers of terrible valor (bhīma-vikramaiḥ), determined (samarthayāmāsa) the settled course of action regarding Rāma (rāma-kārya-viniścayam).
 </details>
 </details>
 
@@ -1910,6 +2148,12 @@ on the measures he would adopt against Rama.
 Ravana the king of demons, resembling Yama the god of death, addressed all the generals
 standing nearby, devoted to his interests as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like Time himself (kāla-sadṛśam), Rāvaṇa, sovereign of the rākṣasas, spoke to all the army commanders (balādhyakṣān) who stood not far off, wishing his welfare (hitaiṣiṇaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1955,6 +2199,12 @@ standing nearby, devoted to his interests as follows:
 
 "By a sound of a drum beaten audibly with a drum stick, immediately summon all my forces.
 Do not tell them the reason for which I am calling."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Quickly muster (samānayadhvam) my armies through the resounding roll of war-drums (bherī-ninādena) struck clearly with the drumstick (sphuṭaṃ koṇāhatena); and no reason is to be stated (vaktavyaṃ ca na kāraṇam)!”
 </details>
 </details>
 
@@ -2015,5 +2265,11 @@ the army.
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे द्वात्रिंशः सर्गः ॥ ३२ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें बत्तीसवाँ सर्ग पूरा हुआ ॥ ३२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, accepting that command with the words “So be it (tatheti),” the envoys at once (tadaiva) rapidly mustered a mighty army (mahad balam), and reported that it had assembled before their lord, who was eager for battle (bhartari yuddha-kāṅkṣiṇi).
 </details>
 </details>

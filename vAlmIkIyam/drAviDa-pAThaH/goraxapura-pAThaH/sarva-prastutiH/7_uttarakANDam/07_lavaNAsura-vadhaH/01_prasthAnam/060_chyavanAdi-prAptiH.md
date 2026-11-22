@@ -32,6 +32,12 @@ title = "०६० च्यवनादि-प्राप्तिः"
 
 श्रीराम और लक्ष्मण परस्पर इस प्रकार कथा-वार्ता करते हुए प्रतिदिन प्रजापालनके कार्यमें लगे रहते थे । एक समय वसन्त-ऋतुकी रात आयी, जो न अधिक सर्दी लानेवाली थी और न गर्मी ॥ १ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Rāma and Lakṣmaṇa were thus conversing together (tayoḥ saṃvadator evam), there arrived a vernal night (vāsantikī niśā prāptā), neither cold nor oppressive with heat (na śītā na ca gharmadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -51,6 +57,12 @@ title = "०६० च्यवनादि-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वह रात बीतनेपर जब निर्मल प्रभातकाल आया, तब पुरवासियोंके कार्योंको जाननेवाले श्रीरघुनाथजी पूर्वाह्णकालके नित्यकर्म—संध्या-वन्दन आदिसे निवृत्त हो बाहर निकलकर प्रजाजनोंके दृष्टिपथमें आये ॥ २ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, at stainless dawn (prabhāte vimale), having performed his morning rites (kṛta-paurvāhṇika-kriyaḥ), Kākutstha, well versed in the affairs of his citizens (paura-kāryavit), proceeded to the hall of public audience (abhicakrāma ... darśanam).
 </details>
 </details>
 
@@ -76,6 +88,14 @@ title = "०६० च्यवनादि-प्राप्तिः"
 
 उसी समय सुमन्त्रने आकर श्रीरामचन्द्रजीसे कहा—‘राजन्! ये तपस्वी महर्षि भृगुपुत्र च्यवन मुनिको आगे करके द्वारपर खड़े हैं । द्वारपालोंने इनका भीतर आना रोक दिया है । महाराज! इन्हें आपके दर्शनकी जल्दी लगी हुई है और ये अपने आगमनकी सूचना देनेके लिये हमें बारंबार प्रेरित करते हैं ॥ ३-४ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** Then Sumantra approached and spoke these words to Rāghava: “O King, these ascetics (ete ... tāpasāḥ) stand halted at the portal (pratihatā ... dvāri tiṣṭhanti).
+
+**4:** “Placing Cyavana of Bhṛgu’s line at their head (bhārgava-cyavanaṃ caiva puraskṛtya), these great sages, dwellers upon the banks of the Yamunā (yamunā-tīra-vāsinaḥ), filled with eager haste (kṛta-tvarāḥ) and delight (prīyamāṇāḥ), O tiger among men, are pressing for an audience with you, the great king (darśanaṃ te mahārājñaś codayanti)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -98,6 +118,12 @@ title = "०६० च्यवनादि-प्राप्तिः"
 
 ‘पुरुषसिंह! ये सब महर्षि यमुनातटपर निवास करते हैं और आपसे विशेष प्रेम रखते हैं ।’ सुमन्त्रकी यह बात सुनकर धर्मज्ञ श्रीरामने कहा—‘सूत! भार्गव, च्यवन आदि सभी महाभाग ब्रह्मर्षियोंको भीतर बुलाया जाय’ ॥ ५ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his, Rāma, knower of dharma (dharmavit), declared: “Let those illustrious twice-born ones, headed by Bhārgava [Cyavana] (bhārgava-pramukhā dvijāḥ), be ushered in (praveśyantām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +143,12 @@ title = "०६० च्यवनादि-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 राजाकी यह आज्ञा शिरोधार्य करके द्वारपालने मस्तकपर दोनों हाथ जोड़ लिये और उन अत्यन्त दुर्जय तेजस्वी तापसोंको वह राजभवनके भीतर ले आया ॥ ६ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honoring the king’s command (rājñas tv ājñāṃ puraskṛtya), the doorkeeper (dvāḥsthaḥ), raising his joined palms to his forehead (mūrdhni kṛtāñjaliḥ), then conducted in those unassailable ascetics (tāpasān sudurāsadān).
 </details>
 </details>
 
@@ -142,6 +174,14 @@ title = "०६० च्यवनादि-प्राप्तिः"
 
 उन तपस्वी महात्माओंकी संख्या सौसे अधिक थी । वे सब-के-सब अपने तेजसे प्रकाशित हो रहे थे । उन सबने राजभवनमें प्रवेश किया और समस्त तीर्थोंके जलसे भरे हुए घड़ोंके साथ बहुत-से फल-मूल लेकर श्रीरामचन्द्रजीको भेंट किये ॥ ७-८ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** More than a hundred high-souled ascetics (śataṃ samadhikaṃ ... tāpasānāṃ mahātmanām), blazing with their own ascetic luster (dīpyamānaṃ svatejasā), entered the royal palace there (praviṣṭaṃ rājabhavanam).
+
+**8:** Those twice-born ones, bearing full pitchers consecrated with waters from all sacred fords (pūrṇa-kalaśaiḥ sarva-tīrthāmbu-satkṛtaiḥ), brought along abundant fruits and roots (gṛhītvā phala-mūlaṃ ca ... bahu) and presented them to Rāma (rāmasyābhyāharan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +203,14 @@ title = "०६० च्यवनादि-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 महाबाहु श्रीरामने बड़ी प्रसन्नताके साथ वह सारा उपहार—वे सारे तीर्थजल और नाना प्रकारके फल लेकर उन सभी महामुनियोंसे कहा— ॥ ९-१० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Receiving all of that with foremost affection (pratigṛhya tu tat sarvaṃ ... prīti-puraskṛtaḥ)—all the sacred ford-waters (tīrthodakāni sarvāṇi) and the diverse fruits (phalāni vividhāni ca)—
+
+**10:** The mighty-armed one spoke to all those great sages: “Here are these foremost seats (imāny āsana-mukhyāni); pray be seated according to your rank (yathārham upaviśyatām)!”
 </details>
 </details>
 
@@ -186,6 +234,12 @@ title = "०६० च्यवनादि-प्राप्तिः"
 
 ‘महात्माओ! ये उत्तमोत्तम आसन प्रस्तुत हैं । आपलोग यथायोग्य इन आसनोंपर बैठ जायँ ।’ श्रीरामचन्द्रजीका यह वचन सुनकर वे सभी महर्षि रुचिर शोभासे सम्पन्न उन सुवर्णमय आसनोंपर बैठे ॥ ११ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma’s words (rāmasya bhāṣitaṃ śrutvā), all those great sages sat down (niṣeduḥ) upon those golden ascetic seats of lovely splendor (bṛsīṣu rucirākhyāsu ... kāñcanīṣu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,6 +259,12 @@ title = "०६० च्यवनादि-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन महर्षियोंको वहाँ आसनोंपर विराजमान देख शत्रुनगरीपर विजय पानेवाले श्रीरघुनाथजीने हाथ जोड़ संयतभावसे कहा— ॥ १२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the sages seated there (upaviṣṭān ṛṣīṃs tatra dṛṣṭvā), Rāghava, conqueror of hostile citadels (parapurañjayaḥ), self-restrained and with joined palms (prayataḥ prāñjalir bhūtvā), spoke these words:
 </details>
 </details>
 
@@ -226,6 +286,12 @@ title = "०६० च्यवनादि-प्राप्तिः"
 
 ‘महर्षियो! किस कामसे यहाँ आपलोगोंका शुभागमन हुआ है! मैं एकाग्रचित्त होकर आपकी क्या सेवा करूँ? यह सेवक आपकी आज्ञा पानेके योग्य है । आदेश मिलनेपर मैं बड़े सुखसे आपकी सभी इच्छाओंको पूर्ण कर सकता हूँ ॥ १३ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What is the purpose of your coming (kim āgamana-kāryaṃ vaḥ)? What may I do with concentrated mind (kiṃ karomi samāhitaḥ)? I stand ready to be commanded by the great sages (ājñāpyo ’haṃ maharṣīṇām), happily fulfilling every wish (sarva-kāmakaraḥ sukham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -245,6 +311,12 @@ title = "०६० च्यवनादि-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यह सारा राज्य, इस हृदयकमलमें विराजमान यह जीवात्मा तथा यह मेरा सारा वैभव ब्राह्मणोंकी सेवाके लिये ही है, मैं आपके समक्ष यह सच्ची बात कहता हूँ’ ॥ १४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This entire kingdom (idaṃ rājyaṃ ca sakalam) and the very life abiding within my heart (jīvitaṃ ca hṛdi sthitam)—all of this exists for the sake of the twice-born (dvidārtham, i.e., dvijārtham); this truth I speak to you (satyam etad bravīmi vaḥ)!”
 </details>
 </details>
 
@@ -266,6 +338,12 @@ title = "०६० च्यवनादि-प्राप्तिः"
 
 श्रीरघुनाथजीके ये वचन सुनकर उन यमुनातीर-निवासी उग्र तपस्वी महर्षियोंने उच्च स्वरसे उन्हें साधुवाद दिया ॥ १५ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his (tasya tad vacanaṃ śrutvā), a mighty shout of “Well said!” (sādhukāro mahān abhūt) arose from those sages of fierce austerity (ṛṣīṇām ugra-tapasām) dwelling upon the Yamunā’s banks.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -286,6 +364,12 @@ title = "०६० च्यवनादि-प्राप्तिः"
 
 फिर वे महात्मा बड़े हर्षके साथ बोले—‘नरश्रेष्ठ! इस भूमण्डलमें ऐसी बातें आपके ही योग्य हैं । दूसरे किसीके मुखसे इस तरहकी बात नहीं निकलती ॥ १६ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And filled with great joy (harṣeṇa mahatā vṛtāḥ), those high-souled ones declared: “Fitting indeed is this (upapannam), O best of men, for you alone upon this earth, and for no other (tavaiva bhuvi nānyataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -305,6 +389,12 @@ title = "०६० च्यवनादि-प्राप्तिः"
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राजन्! हम बहुत-से महाबली राजाओंके पास गये; परंतु उन्होंने कार्यके गौरवको समझकर उसे सुननेके बाद भी ‘करूँगा’ ऐसी प्रतिज्ञा करनेकी रुचि नहीं दिखायी ॥ १७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Many mighty kings of old (bahavaḥ pārthivā ... atikrāntā mahābalāḥ), O monarch, weighing the gravity of the task (kāryasya gauravaṃ matvā), would not consent to make a vow (pratijñāṃ nābhyarocayan).
 </details>
 </details>
 
@@ -335,6 +425,12 @@ title = "०६० च्यवनादि-प्राप्तिः"
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये उत्तरकाण्डे षष्टितमः सर्गः ॥ ६० ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके उत्तरकाण्डमें साठवाँ सर्ग पूरा हुआ ॥ ६० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You, however, out of reverence for brahmins (brāhmaṇa-gauravāt), have made this pledge without even considering the cause (kṛtā pratijñā hy anavekṣya kāraṇam); therefore you will surely accomplish it—there is no doubt (tataś ca kartā hy asi nātra saṃśayaḥ)—and it befits you to deliver the sages from great peril (mahābhayāt trātum ṛṣīṃs tvam arhasi)!”
 </details>
 </details>
 

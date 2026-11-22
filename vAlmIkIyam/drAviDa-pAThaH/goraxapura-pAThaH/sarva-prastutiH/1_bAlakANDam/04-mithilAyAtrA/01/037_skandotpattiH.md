@@ -66,6 +66,12 @@ Sage Vishvamitra continues his narration about the earthly course of Ganga, her
  with Indra and keeping Fire-god at their fore." Sage Vishvamitra continued his
  narration to Rama. [1-37-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While the Great God (Śiva) was thus practicing austerity (tapyamāne tadā deve), the gods together with Indra and led by Agni (sendrāḥ sāgnipurogamāḥ), desiring a commander for their armies (senāpatim abhīpsantaḥ), approached the Grandsire Brahmā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -112,6 +118,12 @@ Sage Vishvamitra continues his narration about the earthly course of Ganga, her
 
 "On approaching the Forefather Brahma, oh, Rama, all of the celestials headed
  by Fire-god and along with Indra have venerated and then spoke this to him. [1-37-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then all the gods, O Rāma, delight of the gods (surārāma), accompanied by Indra and with Agni at their head, bowed low in prostration (praṇipatya) and spoke to the glorious Grandsire:
 </details>
 </details>
 
@@ -161,6 +173,12 @@ Sage Vishvamitra continues his narration about the earthly course of Ganga, her
 The potence that is stirred from Shiva and given to earth as in last chapter has
  not yet materialised as Kaarthikeya.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O Lord, that divine Lord (bhagavatā) by whom our commander-in-chief was formerly granted in seminal form (yena senāpatir dattaḥ purā) has now resorted to supreme austerity (tapaḥ param āsthāya) and is practicing penance together with Umā (tapyate sma sahomayā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -204,6 +222,12 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
  Brahma, you may order us clearly what is to be done next, as you alone are our
  ultimate recourse. [1-37-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Whatever course of action is now to be undertaken next out of desire for the welfare of the worlds (yad atrānantaraṃ kāryaṃ lokānāṃ hitakāmyayā), pray ordain that, O knower of sacred ordinances (saṃvidhatsva vidhānajña); for you alone are our supreme refuge (tvaṃ hi naḥ paramā gatiḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +267,12 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 
 "On listening the words of gods, Brahma, the Forefather of all the worlds, soothingly
  spoke this to the celestials with sweet words. [1-37-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing the words of the deities, the Grandsire of all the worlds (sarvalokapitāmahaḥ), consoling them with sweet words (sāntvayan madhurair vākyaiḥ), spoke thus to the thirty gods:
 </details>
 </details>
 
@@ -286,6 +316,12 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 " 'What the Daughter of Mountain, namely Goddess Uma, has said that 'you shall
  have no posterity in your own wives' is true and it cannot be decried, and it
  is unambiguous too. [1-37-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘As for what was spoken by the Mountain’s daughter—“There shall be no progeny for you in your own wives” (śailaputryā yad uktaṃ tan na prajāḥ svāsu patniṣu)—that unimpaired word of hers (tasyā vacanam akliṣṭam) is absolute truth, without a doubt (satyam eva na saṃśayaḥ)!
 </details>
 </details>
 
@@ -334,6 +370,12 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
 " 'In whom the Fire-god can procreate an enemy-destroying Chief of Celestial Armies,
  such an empyreal Ganga is there. [1-37-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Yet here is the celestial Gaṅgā (iyam ākāśagaṅgā ca), in whom Hutāśana (Agni) shall beget a son (yasyāṃ putraṃ hutāśanaḥ janayiṣyati) to be the foe-taming commander-in-chief of the gods (devānāṃ senāpatim ariṃdamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -378,6 +420,12 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
  of King of Mountains, namely Uma, no doubt about it.' So said Brahma to all the
  gods. [1-37-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘The eldest daughter of the lord of mountains (jyeṣṭhā śailendraduhitā) will honor that son as her own (mānayiṣyati taṃ sutam), and that will without doubt be held in high esteem by Umā as well (umāyās tad bahumataṃ bhaviṣyati na saṃśayaḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -419,6 +467,12 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
 "On hearing those words of Brahma, oh, Rama, the delight of Raghu's dynasty, all
  the gods have praisefully worshipped him, as their ends are achieved at the bidding
  fair of Brahma. [1-37-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing that word of his, O delight of the Raghus, all the gods felt their purpose fulfilled (kṛtārthāḥ) and, bowing low in prostration, worshipped the Grandsire (pitāmaham apūjayan).
 </details>
 </details>
 
@@ -463,6 +517,12 @@ _________________
 "On going to that supreme Mt. Kailash, oh, Rama, which is heaped up with many
  ores, all of those gods have assigned the Fire-god to father a son. [1-37-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Going to supreme Kailāsa adorned with mineral ores (kailāsaṃ dhātumaṇḍitam), O Rāma, all the deities appointed Agni for the sake of a son (agniṃ niyojayām āsuḥ putrārtham):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -506,6 +566,12 @@ _________________
  far, in the daughter of King of Mountains, namely River Ganga.' Thus, all gods
  have requested the Fire-god. [1-37-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O Lord Hutāśana of mighty splendor, accomplish this task of the gods (devakāryam idaṃ samādhatsva)! Cast forth that fiery seed into Gaṅgā, the daughter of the Mountain (śailaputryāṃ gaṅgāyāṃ teja utsṛja)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -548,6 +614,12 @@ _________________
  entreating, 'Oh, Goddess Ganga, you verily bear pregnancy with the potence of
  Shiva, since this is the select process of all the gods.' So said Fire-god to
  River Ganga. [1-37-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Giving his pledge to the deities (devatānāṃ pratijñāya), Pāvaka (Agni) approached Gaṅgā and said: ‘O Goddess, bear this embryo (garbhaṃ dhāraya vai devi); this is dear to the deities (devatānām idaṃ priyam)!’
 </details>
 </details>
 
@@ -596,6 +668,12 @@ _________________
  readying herself, and on seeing her glorious mien the Fire-god seeped throughout
  her. [1-37-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing these words, she assumed a divine form (divyaṃ rūpam adhārayat); and beholding her majesty and beauty (tasyā mahimāṃ dṛṣṭvā), he poured himself forth on every side (samantād avaśīryata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -636,6 +714,12 @@ _________________
 "The Fire-god then drenched River Ganga from all over with the potence of Shiva
  which he contained so far, oh, Raghu's delight Rama, and every rill and channel
  of Ganga is replete with it. [1-37-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then Pāvaka sprinkled and bathed the Goddess on every side (samantatas tadā devīm abhyaṣiñcata), O delight of the Raghus, so that all the channels and currents of Gaṅgā were filled (sarvasrotāṃsi pūrṇāni gaṅgāyāḥ).
 </details>
 </details>
 
@@ -685,6 +769,12 @@ _________________
  with the fire of god Shiva compounded with that of yours my life-force is very
  highly tortured.' [1-37-15, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon Gaṅgā spoke to him who walks at the head of all the gods (sarvadevapurogamam): ‘O Lord, I am unable to bear your surging fiery energy (aśaktā dhāraṇe deva tejas tava samuddhatam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -729,6 +819,12 @@ _________________
  that embryo here at the side of Himalayan Mountains.' So said Fire-god to River
  Ganga. [1-37-16b, 17a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘for I am being scorched by that fire and my consciousness is utterly anguished (dahyamānāgninā tena sampravyathitacetanā)!’ Then the oblation-consumer of all the gods (sarvadevahutāśanaḥ) spoke thus to Gaṅgā:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -770,6 +866,12 @@ _________________
 "Oh, great-resplendent Rama, on hearing the words of Fire-god, oh, charming prince
  Rama, River Ganga indeed ejected that great-radiant embryo of Shiva from all her
  rills and channels. [1-37-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Let this embryo be deposited right here upon the flank of Himavān (iha haimavate pārśve garbho ’yaṃ saṃniveśyatām)!’ Hearing Agni’s words, Gaṅgā took that supremely radiant embryo (taṃ garbham atibhāsvaram)
 </details>
 </details>
 
@@ -815,6 +917,14 @@ _________________
 "Which refulgent embryo with the glitter of molten gold has emerged from River
  Ganga is there that has reached earth, and from that the silver, and even the
  gold with its matchless dazzle have emerged. [1-37-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “and she of mighty splendor cast it forth from her currents (utsasarja mahātejāḥ srotobhyo hi), O sinless Rāma. Whatever issued from her thereby, gleaming like molten Jambūnada gold (taptajāmbūnadaprabham),
+
+**19:** “became upon reaching the earth pure gold (kāñcanam) and silver of peerless luster (hiraṇyam atulaprabham); and from its fiery sharpness (taikṣṇyād eva) were born copper and black iron (tāmraṃ kārṣṇāyasaṃ caiva).
 </details>
 </details>
 
@@ -862,6 +972,12 @@ _________________
  embryo on reaching the earth has evolved itself into various other elements also.
  [1-37-19b, 20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Its dross there became tin and lead (malaṃ tasyābhavat tatra trapu sīsakam eva ca); thus reaching the earth, that effulgence multiplied into manifold mineral ores (nānādhātur avardhata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -881,6 +997,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 पृथ्वीपर उस गर्भके रखे जाते ही उसके तेजसे व्याप्त होकर पूर्वोक्त श्वेतपर्वत और उससे सम्बन्ध रखनेवाला सारा वन सुवर्णमय होकर जगमगाने लगा ॥ २१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the very moment the embryo was laid down (nikṣiptamātre garbhe tu), the entire forest bordering the mountain (sarvaṃ parvatasaṃnaddhaṃ vanam), irradiated by its splendors (tejobhir abhirañjitam), became golden (sauvarṇam abhavat).
 </details>
 </details>
 
@@ -956,6 +1078,12 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
  So, the gold glowing like fire is called gold at many places in Ramayana. Pt.
  Satya Vrat.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From that time forth, O Rāghava, tiger among men, gold blazing like fire (suvarṇaṃ hutāśanasamaprabham) has been renowned as jātarūpa (‘whose form was born there’); and every grass, tree, creeper, and shrub there became gold (sarvaṃ bhavati kāñcanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -996,6 +1124,12 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
 
 "Then for the boy who took birth from the embryo deposited in Himalayas, the Wind-gods
  along with Indra have arranged Krittika stars to simultaneously suckle him. [1-37-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then the gods together with Indra and the hosts of Maruts (sendrāḥ saha marudgaṇāḥ) appointed the six Kṛttikās to nurse that newborn prince with their milk (kṣīrasambhāvanārthāya kṛttikāḥ samayojayan).
 </details>
 </details>
 
@@ -1039,6 +1173,12 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
  son for all of us,' and on making such a best resolve they suckled the just born
  boy. [1-37-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Making an excellent pact among themselves (kṛtvā samayam uttamam) and resolved, ‘This son belongs to all of us alike!’ (putro ’yam asmākaṃ sarvāsām iti niścitāḥ), they offered their milk to him the moment he was born (tāḥ kṣīraṃ jātamātrasya daduḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1079,6 +1219,12 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
 
 "All the gods have then said, 'this boy will be renowned in all the three world
  as Kaarthikeya, as Krittika-stars have suckled him, with any doubt.' [1-37-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon all the deities declared: ‘This son, under the name Kārtikeya (kārtikeya iti), shall without doubt become renowned throughout the three worlds (putras trailokyavikhyāto bhaviṣyati na saṃśayaḥ)!’
 </details>
 </details>
 
@@ -1121,6 +1267,12 @@ lakSmyaa diipyamaanam* = glowing with excellently aupicious radiance;
 "On hearing that blessing of gods Krittika stars gave a wash to that excellently
 auspicious boy who is radiant like fire, and who slid down from the secretion of
 the womb of Ganga. [1-37-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those words of theirs, the Kṛttikās bathed (snāpayan) the child who had slipped forth in the effusion of the womb (skannaṃ garbhaparisrave) and was blazing with supreme luster like fire (parayā lakṣmyā dīpyamānaṃ yathānalam).
 </details>
 </details>
 
@@ -1170,6 +1322,12 @@ the womb of Ganga. [1-37-26]
 "And gods called that boy, oh, Rama of Kakutstha, whose glow is like that of flaring
  fire and who is ambidextrous as 'Skanda' for he slid down from the secretions
  of a womb. [1-37-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And because he had slipped forth during the effusion of the womb (skannaṃ garbhaparisrave), O Kākutstha, the gods called that mighty-armed Kārtikeya, who resembled blazing fire, ‘Skanda’ (skanda ity abruvan devāḥ).
 </details>
 </details>
 
@@ -1229,6 +1387,12 @@ It is said that each of the six Krittika-stars came forward to give her milk fir
  Thus on establishing his ambidextrous personality, the gods nominate him as the
  Chief of Celestial Army.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then the peerless milk of the six Kṛttikās flowed forth (prādurbhūtaṃ tataḥ kṣīraṃ kṛttikānām anuttamam); and becoming six-faced (ṣaḍānano bhūtvā), he drank the milk born of the breasts of all six (ṣaṇṇāṃ jagrāha stanajaṃ payaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1271,6 +1435,12 @@ ajayat* = triumphed over.
  itself, and even though he is of delicate constitution as a boy, that taskmaster
  triumphed over the army troops of demons by his own vigour. [1-37-29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having drunk their milk in a single day (gṛhītvā kṣīram ekāhnā), that all-pervading Lord (vibhuḥ), though tender and youthful in body (sukumāravapus tadā), vanquished the hosts of Daitya armies by his own valor (ajayat svena vīryeṇa daityasainyagaṇān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1311,6 +1481,12 @@ ajayat* = triumphed over.
 "All of the celestial have then come together under the leadership of Fire-god
  and they anointed that highly resplendent boy, Skanda, or Kaarthikeya, as the
  Chief of Celestial Army troops. [1-37-30]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then all the immortals led by Agni (tatas tam amarāḥ sarve sametyāgnipurogamāḥ) assembled and consecrated that lord of mighty splendor as commander-in-chief of the celestial armies (surasenāgaṇapatim abhyaṣiñcan mahādyutim).
 </details>
 </details>
 
@@ -1353,6 +1529,12 @@ ajayat* = triumphed over.
 "This way, I have vividly narrated the legend of Ganga to you, oh, Rama, like
  that the Divine and Meritorious legend of the emergence of Kumara, namely Skanda
  is also narrated. [1-37-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus, O Rāma, the detailed account of Gaṅgā has been related to you by me (eṣa te rāma gaṅgāyā vistaro ’bhihito mayā), together with the auspicious and merit-bestowing birth of Kumāra (kumārasambhavaś caiva dhanyaḥ puṇyas tathaiva ca).
 </details>
 </details>
 
@@ -1412,6 +1594,12 @@ ajayat* = triumphed over.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तेळनॆय सर्ग पूर्णवायितु.॥37॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And whatever mortal on earth is devoted to Kārtikeya (bhaktaś ca yaḥ kārtikeye bhuvi mānavaḥ), O Kākutstha, shall live long blessed with sons and grandsons (āyuṣmān putrapautraiś ca) and attain the very realm of Skanda (skandasālokyatāṃ vrajet)!”
 </details>
 </details>
 

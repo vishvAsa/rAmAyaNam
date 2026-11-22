@@ -92,6 +92,12 @@ voice; *sadR^isham* = identifiable; *tam aarta svaram* = that, grievous, voice; 
 On identifying the grievous voice that is identifiable with her husband's voice, Seetha spoke to Lakshmana,
 "you go at once, and check up on Raghava.' [3-45-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving that distressed cry (ārta-svaraṃ tu tam) in the forest to be like her husband's (bhartur vijñāya sadṛśam), Sītā said to Lakṣmaṇa: “Go, ascertain how Rāghava fares (gaccha jānīhi rāghavam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,6 +146,12 @@ bhraataram* = [such] brother; *traatum arhasi* = protect, apt of you.
 "I have heard the loud yelling voice of highly fretful Rama whereby my heart, or my very entity, is
 not abiding in its place, and it will be apt of you to protect such a brother of yours who is screaming
 in the forest. [3-45-2, 3a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For neither my life-breath (jīvitam) nor my heart (hṛdayaṃ vā) abides in its place (sthāne avatiṣṭhate); the loud cry (śabdo bhṛśam) of him crying out in utter distress (krośataḥ paramārtasya) has been heard by me!”
 </details>
 </details>
 
@@ -212,6 +224,14 @@ though she said a lot to him,] he on his part; *bhraatuH shaasanam aaj~naaya* = 
 Although she spoke a lot to him in this way, Lakshmana on his part has not moved out remembering his
 brother's order to stay guard to Seetha, and hence that Janaki, the daughter of Janaka, who is already
 agitated for Rama further spoke to him in the paradox of his not going out of hermitage. [3-45-4b, 5a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** “You ought to rescue (trātum arhasi) your brother who is crying out for help in the forest (ākrandamānaṃ tu vane); hasten quickly (kṣipram abhidhāva) to that brother of yours who seeks succour (śaraṇaiṣiṇam)—”
+
+**4:** “[Who has] fallen into the power of the Rākṣasas (rakṣasāṃ vaśam āpannam) like a bull into the clutches of lions (siṃhānām iva govṛṣam)!” Yet though addressed thus (tathoktas tu), he did not go (na jagāma), remembering his brother's command (bhrātur ājñāya śāsanam).
 </details>
 </details>
 
@@ -288,6 +308,14 @@ are not following up on Raghava. It is definite. [3-45-6b, 7a]
 The 'real' woman in Seetha is coming out. From now on, she goes on talking unhesitatingly, unilaterally
 and even abusively because her mind is fuddled with the thought 'some damage is being done to her husband.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Thereupon, the agitated (kṣubhitā) daughter of Janaka spoke to him there: “O Saumitri, under the guise of a friend (mitra-rūpeṇa), you act like an enemy toward your brother (bhrātus tvam asi śatruvat)!”
+
+**6:** “Since you do not rush to your brother's aid (yas tvam bhrātaraṃ nābhipadyase) in this plight (asyām avasthāyām), O Lakṣmaṇa, you wish Rāma to perish (icchasi tvaṃ vinaśyantaṃ rāmam) on account of me (mat-kṛte)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -336,6 +364,12 @@ him [at Rama]; *a pashyan* = without, seeing - when he is unseen; *vi srabdhaH t
 " 'Raghava in direst strait' is the most liked thing to you, thus I deem, as you have no heart for that
 brother, and as you complacently stay behind even when that great-resplendent Rama is unseen. [3-45-7b,
 8a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Out of greed for me (lobhāt tu mat-kṛte), surely, you do not follow Rāghava (nānugacchasi rāghavam)! I deem his calamity dear to you (vyasanaṃ te priyaṃ manye); you have no affection for your brother (sneho bhrātari nāsti te)!”
 </details>
 </details>
 
@@ -387,6 +421,12 @@ uncertainty, when he is undergoing; *iha tiSThantyaa* = now, staying on - at her
 such I indeed wonder what business you have here now in staying with me at this hermitage?" Seetha spoke
 so to Lakshmana. [3-45-8, 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore you stand here unconcerned (tiṣṭhasi visrabdham), even while not beholding him of mighty splendour (tam apaśyan mahā-dyutim)! For when he has fallen into peril (saṃśayam āpanne tasmin), of what use would I be, remaining here (kim iha mayā bhavet)—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -433,6 +473,12 @@ from Videha kingdom, to Seetha; *lakSmaNaH abraviit* = Lakshmana, spoke.
 
 Lakshmana spoke to Seetha, the princess from Videha kingdom, who is talking deluged under tears and
 anguish in that way, as she is fretful like a she-deer. [3-45-9a, 10b]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“[Or what] duty could be mine, remaining here (kartavyam iha tiṣṭhantyā), when he with whom as your chief you came (yat-pradhānas tvam āgataḥ) [is in peril]?” To Vaidehī, who was speaking thus, overwhelmed with tears and sorrow (bāṣpa-śoka-samanvitām)—
 </details>
 </details>
 
@@ -482,6 +528,12 @@ doubt.
 
 "Oh, Vaidehi, your husband is an impossible one for vincibility by serpents, asura-s, gandharva-s, gods,
 fiends, demons, no doubt about it.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And trembling like a doe (trastāṃ mṛga-vadhūm iva), Lakṣmaṇa spoke to Sītā: “By Nāgas, Asuras, Gandharvas, gods, Dānavas, and Rākṣasas (pannagāsura-gandharva-deva-dānava-rākṣasaiḥ)—”
 </details>
 </details>
 
@@ -559,6 +611,16 @@ I venture.
 "It is inapt of you to talk that way as Rama is inextirpable in a given war, and as for me, I do not
 venture to abandon you in this forest in the absence of Raghava. [3-45-13b, 14a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “Your husband, O Vaidehī, cannot be vanquished (aśakyas tava bhartā jetum)—there is no doubt (na saṃśayaḥ)! O queen (devi), among gods and men, among Gandharvas and birds (patatriṣu)—”
+
+**12:** “Among Rākṣasas, Piśācas, Kinnaras, and beasts, and among dreadful Dānavas (dānaveṣu ca ghoreṣu), O lovely lady (śobhane), there exists no one (na sa vidyeta)—”
+
+**13:** “—Who could fight against Rāma, the peer of Vāsava [Indra] (vāsavopamam), in battle (yo rāmaṃ pratiyudhyeta samare)! Rāma is invulnerable in battle (avadhyaḥ samare rāmaḥ); you ought not to speak thus (naivaṃ tvaṃ vaktum arhasi)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -628,6 +690,14 @@ Rama's prowess is irrestrainable. [3-45, 14b, 15a]
 "Hence, let your heart be diverted and anxiety divested, as your husband will be returning soon on killing
 that extraordinary deer. [3-45-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “I dare not abandon you (na tvāṃ hātum utsahe) in this forest without Rāghava (rāghavaṃ vinā); his might is irresistible (anivāryaṃ balaṃ tasya) even by the forces of the mightiest (balair balavatām api)—”
+
+**15:** “Even by the three worlds combined (tribhir lokaiḥ samuditaiḥ), together with their lords and the immortals (seśvaraiḥ sāmarair api)! Let your heart be at peace (hṛdayaṃ nirvṛtaṃ te 'stu); let your anguish be cast aside (saṃtāpas tyajyatāṃ tava)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -683,6 +753,12 @@ city of gandharva-s usually created by magicians in general. [3-45-15b, 16]
 Lakshmana has repeated the word gandharva nagara which he said to Rama. This magic is said as: *gandharva
 nagaram proktam indrajaalam maniiShibhiH* 'magic show of showing celestial cities by magicians.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your husband will return quickly (āgamiṣyati te bhartā śīghram) after slaying that foremost of deer (hatvā mṛgottamam); manifestly, that was not his voice (na sa tasya svaro vyaktam), nor that of any divinity (na kaścid api daivataḥ)—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -730,6 +806,12 @@ not, I dare.
 "And you are an entrustment, oh, best lady Vaidehi, as the great-souled Rama has entrusted you in my
 security, as such I do not dare to leave you off now. [3-45-17, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rather, it is the illusion of that Rākṣasa (māyā tasya ca rakṣasaḥ), resembling a phantom city of the Gandharvas (gandharva-nagara-prakhyā). You are a sacred trust (nyāsa-bhūtāsi), O Vaidehī, entrusted to me (nyastā mayi) by the high-souled—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -776,6 +858,12 @@ towards; *vayam etaiH nishaacaraiH* = we are, with these, nigh-walkers; *kR^ita 
 "Oh, gracious lady, we have become the adversaries of these night-walkers insofar as the elimination
 of Khara and others, and concerning the eradication of Janasthaana. [3-45-18b, 19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rāma, O fair-hipped lady (varārohe); I dare not abandon you here (na tvāṃ tyaktum ihotsahe)! Moreover, O auspicious lady (kalyāṇi), we have incurred the enmity of these night-stalkers (kṛta-vairāś ca vayam etair niśācaraiḥ)—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -820,6 +908,12 @@ voices, they put to use; *cintayitum na arhasi* = to bother about it, not, apt o
 
 "The demons are the swaggerers in violence in great forests and they will be employing various voices.
 Therefore Vaidehi, just do not bother about it." Thus Lakshmana advised Seetha. [3-45-18b, 19, 20a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since the slaying of Khara (kharasya nidhane), O queen, on account of the slaughter in Janasthāna (janasthāna-vadhaṃ prati), the Rākṣasas utter manifold [deceitful] voices (vividhā vāco vyāharanti) in the great forest—”
 </details>
 </details>
 
@@ -871,6 +965,12 @@ vaadinam lakSmaNam* = actuality, advocate of - veracious, to Lakshmana; *paruSam
 As for Seetha, she became furious on hearing Lakshmana's words of advice, and while her eyes are becoming
 bloodshot she spoke these rude sentences to that veracious Lakshmana. [3-45-20b, 21a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Delighting in violence (hiṃsā-vihārāḥ), O Vaidehī; you ought not to be anxious (na cintayitum arhasi)!” Addressed thus by Lakṣmaṇa, she grew incensed (kruddhā), with her eyes reddened in anger (saṃrakta-locanā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -920,6 +1020,14 @@ while other mms have it as *akaarya karaNa aarambha; a kaarya kaaraNa aarambha *
 doing an untoward deed.' From Seetha's viewpoint it is 'in wooing brother's wife you are the starter
 of an untoward deed.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** And spoke harsh words (abravīt paruṣaṃ vākyam) to the truthful Lakṣmaṇa (satya-vādinam): “O ignoble one (anārya), of pitiless undertakings (akaruṇārambha), cruel (nṛśaṃsa) disgrace to your lineage (kula-pāṃsana)!”
+
+**22:** “I deem Rāma's great calamity to be dear to you (tava priyaṃ manye rāmasya vyasanaṃ mahat); seeing Rāma's calamity, therefore, you utter such words (tenaitāni prabhāṣase)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -964,6 +1072,12 @@ fact is there,] that fact; *na citram eva* = not, uncommon, in that way - unsurp
 "You are haranguing all these sermons only on noticing hardship to Rama. It is unsurprising that the
 pitiless ones and rivals of your kind, who always behave in a cloak-and dagger way, will tend to commit
 deadly sins, Lakshmana, and it is not uncommon. [3-45-22b, 23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“It is no wonder (naiva citram), O Lakṣmaṇa, that wickedness should dwell in rivals (sapatneṣu pāpaṃ yad bhavet)—in cruel ones like you (tvad-vidheṣu nṛśaṃseṣu) who ever move in secret (nityaṃ pracchanna-cāriṣu)!”
 </details>
 </details>
 
@@ -1021,6 +1135,12 @@ can snatch the kingdom from Rama, you, the other half-brother, can snatch away h
 come with covert intentions, on your own, leaving all your kinsfolk. Or, Bharata wanted me too along
 with the kingdom, so he might have instigated you to fetch me for him, after Rama's death, thus he covertly
 sent 'you' alone.'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Utterly wicked (suduṣṭaḥ), you alone follow Rāma as he goes alone in the forest (vane rāmam ekam eko 'nugacchasi), harbouring a secret design on account of me (mama hetoḥ praticchannaḥ), or else suborned by Bharata (prayukto bharatena vā)!”
 </details>
 </details>
 
@@ -1080,6 +1200,12 @@ husband of mine, Rama? [3-45-25, 26a]
 For how shall I, the chosen bride / Of dark-hued Rama, lotus-eyed, / The queen who once called Rama
 mine, To love of other men decline? - Griffith.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That [design], O Saumitri, shall never succeed (tan na sidhyati), whether yours or Bharata's (tavāpi bharatasya vā)! How could I, having wedded Rāma, dark as a blue lotus (indīvara-śyāmam) and lotus-eyed (padma-nibhekṣaṇam)—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1131,6 +1257,12 @@ surface, not, thus, I live.
 do not eke out an existence on this earth even for a moment without Rama." Thus Seetha threatened Lakshmana.
 [3-45-26b, 27a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having resorted to such a husband (upasaṃśritya bhartāram), ever desire an ordinary man (kāmayeyaṃ pṛthag-janam)? Before your very eyes (samakṣaṃ tava), O Saumitri, I shall undoubtedly cast away my life (prāṇāṃs tyakṣyāmy asaṃśayam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1172,6 +1304,14 @@ palms-adjoined, to Seetha, he spoke.
 
 When that self-mortified Lakshmana is addressed in this way with hair-raising and acerbic words by Seetha,
 he spoke to her suppliantly adjoining his palm-fold. [3-45-27b, 28a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** “Without Rāma, I cannot live upon the earth (naiva jīvāmi bhū-tale) even for a moment (kṣaṇam api)!” Addressed in such harsh, hair-raising words (ity uktaḥ paruṣaṃ vākyaṃ roma-harṣaṇam) by Sītā—
+
+**28:** With joined palms (prāñjaliḥ), that master of his senses (jitendriyaḥ) Lakṣmaṇa spoke to Sītā: “I dare not utter a retort (uttaraṃ notsahe vaktum); you are a deity unto me (daivataṃ bhavatī mama)!”
 </details>
 </details>
 
@@ -1215,6 +1355,12 @@ the nature of, on its part; *eSu lokeSu dR^ishyate* = in this, world, it is obvi
 "I do not venture to reply you Maithili, as you are like a deity to me. Women using words that are in
 a class by themselves is not at all surprising. This sort of bringing stilted words into play is the
 nature of women and it is obvious in the world. [3-45-28b, 29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet unbecoming speech (vākyam apratirūpam) is no wonder among women (na citraṃ strīṣu), O Maithilī; such is the nature of women (svabhāvas tv eṣa nārīṇām) seen throughout these worlds (eṣu lokeṣu dṛśyate).”
 </details>
 </details>
 
@@ -1282,6 +1428,12 @@ the women, may be great beings but they tear asunder hearts, like oceans tearing
 is not eye-to-eye with Seetha and he is going on listening all her accusations with his two ears. And
 in between his two ears his conscience is there which is not permitting him to tolerate these words,
 yet he is tolerating.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Women cast aside dharma (vimukta-dharmāḥ), are fickle (capalāḥ), sharp-tongued (tīkṣṇāḥ), and sowers of discord (bheda-karāḥ); for I cannot endure such speech (na sahe hīdṛśaṃ vākyam), O Vaidehī, daughter of Janaka—”
 </details>
 </details>
 
@@ -1383,6 +1535,16 @@ where he is; to there; *gamiSye* = I will go; *te svasti astu* = to you, safe, b
 "I am going there where Rama is, oh, lady with best visage, you be blest, and oh, broad-eyed one, let
 all of the forest deities protect you. [3-45-33b, 34a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** “[Piercing] between both my ears like a red-hot iron shaft (śrotrayor ubhayor madhye tapta-nārāca-saṃnibham)! Let all the forest-dwellers (sarve vanecarāḥ) listen to me as witnesses (upaśṛṇvantu me sākṣiṇaḥ)—”
+
+**32:** “To how, though speaking what is right (nyāya-vādī), I have been addressed in harsh words by you (yathā vākyam ukto 'haṃ paruṣaṃ tvayā)! Fie upon you today, who are courting ruin (dhik tvām adya vinaśyantīm), since you suspect me thus (yan mām evaṃ viśaṅkase)—”
+
+**33:** “Out of womanhood and a perverse nature (strītvād duṣṭa-svabhāvena), while I stand firm in my elder's command (guru-vākye vyavasthitam)! I am going where Kākutstha is (gacchāmi yatra kākutsthaḥ); may it be well with you, O fair-faced lady (svasti te 'stu varānane)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1444,6 +1606,12 @@ as a vexed person and then, on knowing what that is suddenly uttered by him, he 
 in saying that 'she be blest...' He wished her to prosper as she belongs to Rama. Whatever belongs to
 Rama that cannot be ridiculed, especially his mother-like elder sister-in-law.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May all the sylvan deities (samagrā vana-devatāḥ) protect you, O large-eyed lady (viśālākṣi)! For dreadful portents (nimittāni hi ghorāṇi) are appearing before me (prādurbhavanti me); may I, returning with Rāma (saha rāmeṇa punar āgataḥ), behold you once again (api tvāṃ paśyeyam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1492,6 +1660,12 @@ in reply, said.
 
 When Lakshmana spoke to that wailful daughter of Janaka, she on her part spoke this curt sentence to
 him, while tears whelmed her to a fault. [3-45-35]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Lakṣmaṇa, the weeping daughter of Janaka (rudatī janakātmajā), flooded with burning tears (tīvra-bāṣpa-pariplutā), then spoke these words in reply (pratyuvāca tato vākyam):
 </details>
 </details>
 
@@ -1587,6 +1761,14 @@ fire in the episode of *agni praveshanam *after war, when Rama belittles her. Th
 orders the very same Lakshmana to arrange pyre for her, disregarding her own accusations made at Lakshmana,
 at this situation.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** “Bereft of Rāma (hīnā rāmeṇa), O Lakṣmaṇa, I shall enter the Godāvarī (godāvarīṃ pravekṣyāmi), or hang myself (ābandhiṣye), or cast my body down from a precipice (tyakṣye viṣame deham ātmanaḥ)—”
+
+**37:** “Or I shall drink virulent poison (pibāmi vā viṣaṃ tīkṣṇam), or enter the blazing fire (pravekṣyāmi hutāśanam); but never shall I touch any man other than Rāghava (na tv ahaṃ rāghavād anyaṃ kadāpi puruṣaṃ spṛśe)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1632,6 +1814,12 @@ at this situation.
 
 Seetha on declaring to Lakshmana in this way, she who is anguished and weeping bitterly, then started
 to smite her belly with both of her palms in a heightened agony. [3-45-38]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having made this vow to Lakṣmaṇa (iti lakṣmaṇam āśrutya), Sītā, overwhelmed with grief (śoka-samanvitā) and weeping in anguish (rudatī duḥkhāt), beat her belly with both hands (pāṇibhyāṃ udaraṃ prajaghāna ha).
 </details>
 </details>
 
@@ -1687,6 +1875,12 @@ brother [brother of her husband - to Lakshmana]; *tam* = to him; *kimcit na uvaa
 Observing the agonised aspect of Seetha that cheerless Saumitri started to cheer her up by repeatedly
 informing that her husband Rama will come soon. Even then Seetha has not spoken in the least to the
 brother of her husband, and maintained a silence of antipathy. [3-45-39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that wide-eyed lady (viśāla-netrām) in such a distressed state and weeping (tām ārta-rūpāṃ rudantīm), the heavy-hearted Saumitri (vimanāḥ saumitriḥ) sought to console her (āśvāsayāmāsa); yet Sītā spoke not a word (na caiva kiṃcid uvāca) to that brother of her husband.
 </details>
 </details>
 
@@ -1765,6 +1959,12 @@ he is now sent by her compulsively and compulsorily.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तैदनॆय सर्ग सम्पूर्णवायितु.॥45॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having saluted Sītā (sītām abhivādya) with joined palms (kṛtāñjaliḥ) and bowed slightly (kiṃcid abhipraṇamya), the self-possessed Lakṣmaṇa (ātmavān), looking back again and again at Maithilī (avekṣamāṇo bahuśaḥ sa maithilīm), went toward Rāma (jagāma rāmasya samīpam).
 </details>
 </details>
 

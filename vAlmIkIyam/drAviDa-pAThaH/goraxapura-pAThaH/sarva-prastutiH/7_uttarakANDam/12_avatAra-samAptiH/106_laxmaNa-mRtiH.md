@@ -39,6 +39,12 @@ _________________
 
 श्रीरामचन्द्रनु राहुग्रस्त चन्द्रनन्तॆ दीननागिद्दनु, अवनु तलॆतग्गिसि खेदपडुत्तिरुवुदन्नु नोडि लक्ष्मणनु बहळ हर्षदिन्द मधुरवाणियिन्द हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāghava downcast in face and dejected (avāṅmukham atho dīnam), like the moon eclipsed (somam ivāplutam), Lakṣmaṇa, cheerful in spirit (hṛṣṭaḥ), spoke sweet words to him (vākyaṃ ... madhuram abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,6 +69,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबाहो! नीनु नन्न कुरितु सन्तापपडबारदु; एकॆन्दरॆ पूर्वजन्मद कर्मगळिन्द बन्धितवाद कालद गति हीगॆये इरुत्तदॆ.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You ought not to feel anguish on my account, O mighty-armed one (na saṃtāpaṃ mahābāho mad-arthaṃ kartum arhasi); for bound by primordial decree (pūrva-nirmāṇa-baddhā hi) is such a course of Time (kālasya gatir īdṛśī).
 </details>
 </details>
 
@@ -89,6 +101,12 @@ _________________
 
 सौम्य! नीनु निश्चिन्तनागि नन्नन्नु वधिसिबिडु. हीगॆ माडि तन्न प्रतिज्ञॆयन्नु पालिसु. काकुत्स्थ! प्रतिज्ञाभङ्ग माडुववनु नरकक्कॆ होगुत्तानॆ.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Slay me fearlessly, O gentle one (jahi māṃ saumya visrabdham), and uphold your vow (pratijñāṃ paripālaya); men who fail in their vows, O Kākutstha (hīna-pratijñāḥ kākutstha), go to hell (prayānti narakaṃ narāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +131,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाराजा! निनगॆ नन्न मेलॆ प्रेमविद्दरॆ, नन्नन्नु कृपापात्रनॆन्दु नीनु तिळियुवॆयादरॆ निःशङ्कनागि ननगॆ मरणदण्डनॆयन्नु कॊडु. रघुनन्दन! नीनु निन्न धर्मवन्नु वृद्धिगॊळिसु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If you bear affection for me, O great king (yadi prītir mahārāja), if I am worthy of your grace (yady anugrāhyatā mayi), slay me without hesitation (jahi māṃ nirviśaṅkas tvam) and magnify dharma, O Rāghava (dharmaṃ vardhaya rāghava)!”
 </details>
 </details>
 
@@ -143,6 +167,14 @@ _________________
 
 लक्ष्मणनु हीगॆ हेळिदाग श्रीरामन इन्द्रियगळु चञ्चलवादुवु, अवनु धैर्यगॆट्टनु मत्तु मन्त्रिगळन्नु, पुरोहितरन्नु करॆसि, अवरॆल्लर नडुवॆ श्रीरघुनाथनु ई ऎल्ल वृत्तान्तवन्नु तिळिसुत्ता दुर्वासर आगमन, तपस्वीरूपधारी कालन मुन्दॆ माडिद प्रतिज्ञॆयन्नु तिळिसिदनु.॥5-6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Thus addressed by Lakṣmaṇa (lakṣmaṇena tathoktas tu), Rāma, his faculties stirred into motion (pracalitendriyaḥ), summoned his ministers (mantriṇaḥ samupānīya) and likewise his royal priest (tathaiva ca purodhasam),
+
+**6:** and in their midst (teṣāṃ madhye) that Rāghava then recounted what had occurred (abravīc ca tadā vṛttam)—both the arrival of Durvāsas (durvāso-’bhigamaṃ caiva) and the vow made to the ascetic (pratijñāṃ tāpasasya ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +199,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदन्नु केळि ऎल्ल मन्त्रिगळु, पुरोहितरु सुम्मने कुळितुबिट्टरु. यारू मातनाडदॆ इरुवाग महातेजस्वि वसिष्ठरु हीगॆ नुडिदरु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that, all the ministers together with the preceptors sat silently (mantriṇaḥ sarve sopādhyāyāḥ samāsata); then Vasiṣṭha, great in splendor (vasiṣṭhas tu mahātejāḥ), spoke these words:
 </details>
 </details>
 
@@ -193,6 +231,12 @@ _________________
 
 महाबाहो! महायशस्वी श्रीरामा! ईग रोमाञ्चकर विकट विनाश बरुवुदिदॆ (निन्नॊन्दिगॆ अनेक प्राणिगळु साकेत गमनवागुवुदिदॆ) मत्तु लक्ष्मणनॊन्दिगॆ आगुत्तिरुव वियोगवॆल्लवन्नु नानु तपोबलदिन्द मॊदले नोडिरुवॆनु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Foreseen by me, O mighty-armed one (dṛṣṭam etan mahābāho), was this hair-raising end of yours (kṣayaṃ te romaharṣaṇam), and your separation from Lakṣmaṇa (lakṣmaṇena viyogaś ca), O greatly renowned Rāma (mahāyaśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -217,6 +261,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कालवु बहळ प्रबलवागिदॆ. नीनु लक्ष्मणनन्नु त्यजिसिबिडु. प्रतिज्ञॆ सुळ्ळागिसबेड; एकॆन्दरॆ प्रतिज्ञॆ नाशवादाग धर्मद लोपवागुवुदु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Relinquish him—mighty is Time (tyajainaṃ balavān kālaḥ)! Do not render your vow in vain (mā pratijñāṃ vṛthā kṛthāḥ); for when a vow is destroyed (vinaṣṭāyāṃ pratijñāyām), dharma too would go to dissolution (dharmo ’pi ca layaṃ vrajet).
 </details>
 </details>
 
@@ -243,6 +293,12 @@ _________________
 
 धर्मद लोपवादाग चराचर प्राणिगळ, देवतॆगळ मत्तु ऋषिगळ सहित समस्त त्रिलोकगळु नाशवागि होगुवुदु. इदरल्लि संशयवे इल्ल.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And then, when dharma is destroyed (tato dharme vinaṣṭe tu), the three worlds with all moving and unmoving things (trailokyaṃ sa-carācaram), together with the hosts of gods and seers (sa-devarṣi-gaṇaṃ sarvam), would surely perish—there is no doubt (vinaśyet tu na saṃśayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -268,6 +324,12 @@ _________________
 
 आद्दरिन्द पुरुषसिंहने! नीनु त्रिभुवनगळ रक्षणॆय कडॆगॆ नोडि लक्ष्मणनन्नु त्यजिसिबिडु. अवनिल्लदॆ धर्मपूर्वक स्थितनागि सम्पूर्ण जगत्तन्नु स्वस्थ मत्तु सुखियागिसु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O tiger among men (puruṣa-śārdūla), for the protection of the three worlds (trailokyasyābhipālanāt), even without Lakṣmaṇa (lakṣmaṇena vinā cādya), make the universe whole and secure today (jagat svasthaṃ kuruṣva ha)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,6 +354,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि सेरिद मन्त्रि, पुरोहितरे आदि ऎल्ल सभासदर नडुवॆ वसिष्ठरु हेळिद मातन्नु केळि श्रीरामनु लक्ष्मणनल्लि हेळिदनु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of theirs assembled together (teṣāṃ tat samavetānāṃ vākyam), fraught with dharma and right purpose (dharmārtha-saṃhitam), in the midst of the assembly (pariṣado madhye) Rāma spoke to Lakṣmaṇa:
 </details>
 </details>
 
@@ -321,6 +389,12 @@ _________________
 
 सुमित्रानन्दन! नानु निन्नन्नु परित्याग माडुत्तिद्देनॆ. अदरिन्द धर्मद लोप आगदिरलि. साधु पुरुषरन्नु त्यजिसुवुदु अथवा वधिसुवुदु ऎरडू ऒन्दे आगिदॆ.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I relinquish you, O Saumitri (visarjaye tvāṃ saumitre)—let there be no subversion of dharma (mā bhūd dharma-viparyayaḥ)! Abandonment or death are ordained (tyāgo vadho vā vihitaḥ) as equal indeed for the virtuous (sādhūnāṃ tūbhayaṃ samam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,6 +420,12 @@ _________________
 
 श्रीरामनु हीगॆ हेळुत्तले लक्ष्मणन कण्णुगळल्लि कम्बनि तुम्बि बन्तु. अवनु कूडले अल्लिन्दले मनॆगू होगदॆ हॊरटुहोदनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon those words spoken by Rāma (rāmeṇa bhāṣite vākye), his faculties overwhelmed with tears (bāṣpa-vyākulitendriyaḥ), Lakṣmaṇa departed swiftly (lakṣmaṇas tvaritaṃ prāyāt) and did not enter his own house (svagṛhaṃ na viveśa ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -370,6 +450,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सरयू तीरक्कॆ होगि अवनु आचमन माडि, कैमुगिदु कॊण्डु सम्पूर्ण इन्द्रियगळन्नु वशपडिसिकॊण्डु प्राणवायुवन्नु तडॆदु बिट्टनु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Going to the bank of the Sarayū (gatvā sarayū-tīram), sipping water in purification and joining his palms (upaspṛśya kṛtāñjaliḥ), he restrained all the channels of his senses (nigṛhya sarva-srotāṃsi) and released no breath (niḥśvāsaṃ na mumoca ha).
 </details>
 </details>
 
@@ -399,6 +485,12 @@ _________________
 
 लक्ष्मणनु योगयुक्तनागि श्वासोच्छ्वासवन्नु बन्धिसिरुवुदन्नु नोडि, इन्द्रादि देवतॆगळॆल्लरू, ऋषिगळु, अप्सरॆयरु आग अवन मेलॆ हूमळॆयन्नु सुरिसतॊडगिदरु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he sat breathless and absorbed in yoga (aniḥśvasantaṃ yuktaṃ tam), the gods headed by Śakra with the hosts of apsarases (saśakrāḥ sāpsaro-gaṇāḥ) and all the throngs of seers (devāḥ sarṣi-gaṇāḥ sarve) showered him with flowers (puṣpair abhyakiraṃs tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -423,6 +515,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबली लक्ष्मणनु तन्न शरीरदॊन्दिदे जनर दृष्टियिन्द अगोचरनादनु. आग देवेन्द्रनु अवनन्नु करॆदुकॊण्डु स्वर्गक्कॆ हॊरटुहोदनु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking up the mighty Lakṣmaṇa in his very body (saśarīraṃ mahābalam pragṛhya lakṣmaṇam), invisible to all mortals (adṛśyaṃ sarva-manujaiḥ), Śakra entered the third heaven (śakras tridivaṃ saṃviveśa ha).
 </details>
 </details>
 
@@ -459,6 +557,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तरकाण्डदल्लि नूर आरनॆय सर्ग पूर्णवायितु. ॥106॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding that fourth portion of Viṣṇu arrived (viṣṇoś catur-bhāgam āgatam), all the foremost gods together with the great seers (surasattamāḥ ... samaharṣayaḥ), filled with delight (pramuditāḥ), worshiped him (apūjayan).
 </details>
 </details>
 

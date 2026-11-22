@@ -60,6 +60,12 @@ _________________
 
 श्रीरघुनाथनु हेळिद शुभवचनगळन्नु केळि श्रीमहादेवनु हीगॆ शुभकर मातन्नु हेळिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus in harsh, hair-raising (romaharṣaṇam) words by the wrathful Rāghava, Vaidehī was deeply anguished (pravyathitābhavat) upon hearing them.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -91,6 +97,12 @@ _________________
 
 पुष्कराक्षने! महाबाहुवे! विशालक्षने! परन्तपने! धर्मात्मरल्लि श्रेष्ठनादवने! नीनु रावणवधॆय कार्यवन्नु नॆरवेरिसिदुदु सौभाग्यद मातागिदॆ.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that dreadful speech of her husband—never heard before (aśrutapūrvam)—before a vast multitude, Maithilī bowed her head in shame (lajjayāvanatābhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +130,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामा! रावणनिन्द उण्टाद भय-दुःख समस्त लोकगळिगॆ गाढान्धकारदन्तॆ इत्तु, अदन्नु नीनु युद्धदल्लि तॊलगिसिबिट्टॆ.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As though shrinking into her own limbs (praviśantīva gātrāṇi svāni), that daughter of Janaka, pierced as if by the shafts of those words (vākśarais taiḥ saśalyeva), shed tears profusely.
 </details>
 </details>
 
@@ -178,6 +196,16 @@ sovereignty of Ayodhya, bringing delight to your friends, stabilizing the back-b
 Ikshvaku, getting excellent glory by performing a horse-sacrifice and by granting riches to
 Brahmanas."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Then, wiping her own face drenched with tears (bāṣpapariklinnam), she spoke this slowly to her husband in a voice choked with sobs (gadgadayā vācā):
+
+**5:** “Why do you make me hear such an unbecoming (asadṛśam) speech, harsh and terrible to the ear (śrotradāruṇam), O hero, like a vulgar man addressing a vulgar woman (prākṛtaḥ prākṛtām iva)?
+
+**6:** I am not such as you deem me to be, O mighty-armed one; have faith in me (pratyayaṃ gaccha me)—I swear to you by my own virtuous conduct alone (svena cāritreṇaiva te śape).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,6 +252,12 @@ world; *mahaayashaaH guruH* = the highly glorious and venerable person;
 "This king Dasaratha, your father in this mortal world and the highly glorious as
 well as the venerable person, is seated in an aerial car, O Rama!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Because of the conduct of vulgar women (pṛthakstrīṇāṃ pracāreṇa), you suspect the entire sex (jātim); cast aside this doubt, if indeed I have been tested and known by you (yadi te 'haṃ parīkṣitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -265,6 +299,12 @@ lakShmaNena saha* = along with Lakshmana; your brother.
 "Having been delivered by you, his (godly) son, the glorious king obtained the abode
 of Indra the lord of celestials. you offer your respectful salutation to him, along with Lakshmana,
 your brother."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If, helpless as I was (vivaśā), I came into contact with another's body (gātrasaṃsparśaṃ gatāsmi), O lord, there was no willful intent (kāmakāraḥ) of mine therein; fate alone is at fault there (daivaṃ tatrāparādhyati).
 </details>
 </details>
 
@@ -313,6 +353,12 @@ car.
 Hearing the words of Shiva, Rama along with Lakshmana his brother, offered their
 salutation to their father, seated on the topmost part of an aerial car.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That which is under my own control (madadhīnam)—my heart—abides in you alone; what could I do, powerless (anīśvarī), regarding my limbs that were under another's control (parādhīneṣu gātreṣu)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -359,6 +405,12 @@ with lakshmana his brother; *dadarsha* = saw; *pitaram* = their father;
 The lord Rama along with Lakshmana his brother saw their father, who was blazing
 with his own splendour and clad in brilliant garments.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If through our mutually fostered affection (saha saṃvṛddhabhāvena) and long companionship (saṃsargeṇa), O bestower of honor, I have not been truly known by you, then I am ruined forever (hatā tenāsmi śāśvatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -383,6 +435,12 @@ with his own splendour and clad in brilliant garments.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विमानदल्लि कुळितिरुव महाराज दशरथनु प्राणप्रिय पुत्र श्रीरामनन्नु नोडि बहळ प्रसन्ननादनु.॥1.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the great hero Hanūmān was sent by you as a searcher (avalokakaḥ), O king, why was I—while still abiding in Laṅkā (laṅkāsthāham)—not renounced by you then?
 </details>
 </details>
 
@@ -446,6 +504,12 @@ beautiful speech:
 Hearing the auspicious words thus spoken by Rama, Lord Shiva the Supreme Lord
 thereupon delivered the following still more beautiful speech:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Had I been abandoned by you then, O hero, immediately upon hearing that message (tadvākyasamanantaram), my life would have been forsaken by me before the very eyes of this monkey [Hanūmān].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -493,6 +557,12 @@ thereupon delivered the following still more beautiful speech:
 "O Rama! Separated from you, the heaven is not a liking to me, nor the respect given
 to me by the foremost of celestials. I am telling you the truth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then this toil of yours, placing your life in jeopardy (saṃśaye nyasya jīvitam), would not have been in vain (na vṛthā), nor would this hardship of your friends have been fruitless (viphalaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -538,6 +608,12 @@ period of your exile.
 mind, now that your enemies have been destroyed and you have fully gone through the period of
 exile."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+But by you, O tiger among kings, following only your wrath (roṣam evānuvartatā), womanhood alone (strītvam eva) has been set in the foreground, as if by a shallow-minded man (laghuneva manuṣyeṇa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -578,6 +654,12 @@ in my heart.
 
 "O excellent among the eloquent! The words, which were uttered by Kaikeyi, with an
 aim to send you into exile, are still imprinted in my heart."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though I am named after Janaka (apadeśena janakāt), my birth was from the surface of the earth (vasudhātalāt); yet my manifold righteous conduct (mama vṛttaṃ ca bahu) has not been esteemed by you, O knower of conduct!
 </details>
 </details>
 
@@ -626,6 +708,12 @@ mist.
 "Seeing you in a fine fettle with Lakshmana and hugging you today, I stand
 completely rid of sorrow - even as the sun is freed from mist."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+My hand, clasped by you in childhood (bālye mama nipīḍitaḥ), has not been honored as authority (na pramāṇīkṛtaḥ); both my devotion and my virtue—all have been cast behind your back by you.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -673,6 +761,12 @@ Ashtavakra.
 "O great-souled son! I have been redeemed by you, my worthy son, even as Kahola a
 brahmana was redeemed by Ashtavakra."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus while weeping, her voice choked with tears (bāṣpagadgadabhāṣiṇī), Sītā addressed Lakṣmaṇa, who stood dejected and absorbed in anxious thought (dhyānaparāyaṇam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -716,6 +810,12 @@ vadhaartham* = for the destruction of Ravana.
 "O gently one! I recognize you now to be the Supreme person, duly enjoined here by
 the rulers of gods, for the destruction of Ravana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Prepare a pyre for me (citāṃ me kuru), O Saumitri—the sole remedy (bheṣajam) for this calamity! Smitten by false calumny (mithyāpavādopahatā), I cannot bear to live.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -755,6 +855,12 @@ of your enemies; *nivR^ittam* = returned; *gatam* = and got; *gR^iham* = home;
 
 "Blessed indeed is Kausalya, who will see you, the destroyer of your enemies,
 returned home from the forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spurned before the assembly of people (janasaṃsadi) by a husband unpleased with my virtues (aprītena guṇair bhartrā), I shall enter the bearer of oblations (havyavāhanam), which is the only course fitting for me to take.”
 </details>
 </details>
 
@@ -805,6 +911,12 @@ to the City (of Ayodhya); *raajyam abhiShiktam cha* = and consecrated on the thr
 "Blessed indeed are those men, who will see you returned to the City of Ayodhya and
 consecrated on the throne as a lord of the earth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Vaidehī, Lakṣmaṇa, slayer of hostile heroes, fell under the sway of indignation (amarṣavaśam āpannaḥ) and looked intently toward Rāghava.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -847,6 +959,12 @@ see; *tvaam* = you; *samaagatam* = re united; *bharatena* = with Bharata;
 
 "I desire to see you, re-united with the mighty Bharata, who is affectionate towards
 you, honest and virtuous."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Discerning the inclination of Rāma's mind (manaśchandam) indicated by his facial expression (ākārasūcitam), the valiant Saumitri built the pyre in accordance with Rāma's wish (mate rāmasya).
 </details>
 </details>
 
@@ -894,6 +1012,12 @@ intelligent Lakshmana; *siitaaya saartham* = and with Seetha.
 "O gentle one! You spent fourteen years, residing in the forest with Lakshmana and
 Seetha."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For at that moment no friend had the power to appease (anunetum), to address, or even to look upon Rāma, who resembled Kāla, Antaka, and Yama.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -940,6 +1064,12 @@ Seetha."
 "You completed the term of your exile. My pledge was implemented by you. The
 celestials too have been fully gratified, by your killing of Ravana in battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having reverently circumambulated (kṛtvā pradakṣiṇam) Rāma, who stood with face cast down (adhomukham), Vaidehī approached the blazing fire (dīpyamānaṃ hutāśanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -981,6 +1111,12 @@ attain; *diirgham* = a long; *aayuH* = life.
 "O the destroyer of enemies! A laudable act has been done and glory has been earned
 by you. Getting consecrated on the throne, may you attain a long life, along with your
 brothers."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed down to the deities and to the Brāhmaṇas, Maithilī, with her cupped hands joined in reverence (baddhāञ्जalipuṭā), spoke this near the fire:
 </details>
 </details>
 
@@ -1025,6 +1161,12 @@ kaikeyi; *bharatasya* = and Bharata; *dharmaJNa* = O the knower of virtues!
 To Dasaratha, who was thus speaking, Rama with joined palms in salutation, submitted
 (as follows): "Be gracious to Kaikeyi and Bharata, O the knower of virtues!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Just as my heart never strays (nāpasarpati) from Rāghava, so may the Fire-god, the witness of the world (lokasya sākṣī), protect me on every side (sarvataḥ pātu pāvakaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1064,6 +1206,12 @@ son; *saH ghoraH shaapaH* = May that terrific curse; *na spR^ishet* = not touch;
 
 You will remember those words spoken by you saying, I disown you, with your son
 (Bharata)'. May that terrific curse not touch Kaikeyi and her son, O Lord!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as Rāghava deems me—whose conduct is pure (śuddhacāritrām)—to be defiled (duṣṭām), so may the Fire-god, the witness of the world, protect me on every side!
 </details>
 </details>
 
@@ -1111,6 +1259,12 @@ joined palms; *pariShvajya* = and having embraced; *lakShmaNamcha* = Lakshmana;
 Saying 'May it be" to Rama who stood with joined palms embraced Lakshmana. Dasaratha
 again uttered the following words to Lakshmana:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as I have never transgressed (nāticarāmy aham) against Rāghava, the knower of all dharma, in deed, mind, or speech (karmaṇā manasā vācā), so may the Fire-god protect me!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1155,6 +1309,12 @@ been brought; *mama* = to me; *dharma phalam cha* = a religious merit too;
 "A great gratification has been rendered to me and reward in the form of religious
 merit earned by you in that you served Rama and Seetha, the princess of Videha kingdom, with
 devotion."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as the worshipful Sun, the Wind, the Quarters, and the Moon, as well as Day, the two Twilights (saṃdhye), Night, the Earth, and others too know me to be endowed with pure conduct (cāritrasaṃyutām), [so may Fire protect me]!”
 </details>
 </details>
 
@@ -1222,6 +1382,12 @@ you; *diShTyaa* = thank heaven!.
 "O lotus-eyed, long-armed, broad-chested, annihilator of enemies and excellent among
 those upholding the cause of virtue! Thank heaven! You accomplished this task."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus and circumambulated the fire (parikramya hutāśanam), Vaidehī entered the blazing flame with an unhesitating inner soul (niḥśaṅkenāntarātmanā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1264,6 +1430,12 @@ Rama (well); *raamaH* = Rama; *sadaa* = forever; *abirataH* = is intent;
 
 "Happiness to you, O the augmentor of the joy of Sumitra, your mother! Serve Rama
 well. Rama forever is intent on advancing the interests of the entire world."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And that vast multitude there, crowded with youths and elders (bālavṛddhasamākulaḥ), beheld the radiant Maithilī entering the fire.
 </details>
 </details>
 
@@ -1310,6 +1482,12 @@ and great sages; *archanti* = pay homage to; *mahaatmaanam* = the great-souled;
 
 "These three worlds, including Indra Siddhas (a class of demi-gods) and great sages
 pay homage to the great-souled Rama as a Supreme person, on approaching him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shining like newly smelted gold (taptanavahemābhā) and adorned with ornaments of burnished gold, she plunged into the blazing fire in the presence of the entire world.
 </details>
 </details>
 
@@ -1358,6 +1536,12 @@ gods; *guhyam* = and the secret (of all gods).
 "O great one! O the destroyer of adversaries! Rama has been spoken of as the
 unmanifest and the imperishable Brahama (the absolute), established by the Vedas, the heart of gods
 and the secret of all gods."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All beings (sarvāṇi rūpāṇi) then beheld the wide-eyed Sītā, resembling a golden sacrificial altar (rukmavedinibhām), falling into the bearer of oblations.
 </details>
 </details>
 
@@ -1425,6 +1609,12 @@ battle-field; *raama* = O; Rama!
 "Fortunately has the fear born of Ravana - which increased the severe darkness on
 the entire world has been removed by you, on the battle-field, O Rama!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sages, gods, and Gandharvas beheld that illustrious lady (mahābhāgām) entering the fire like the full oblation (pūrṇāhutīm iva) in a Vedic sacrifice.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1466,6 +1656,12 @@ affectionately; *uvaacha* = advised; *enaam* = her; *iti* = as follows:
 Thus speaking to Lakshmana, the (former) king, addressing his daughter-in-law
 standing before him with joined palms as "My daughter", slowly and affectionately advised her as
 follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All the women wailed aloud (pracukruśuḥ) on beholding her falling into the fire like the continuous stream of clarified butter (vasordhārām iva) consecrated with mantras in a sacrifice (adhvare).
 </details>
 </details>
 
@@ -1513,6 +1709,12 @@ your welfare; *vishuddhyartham* = and for the purpose of showing you purificatio
 "No wrath indeed should be rendered by you towards Rama, for having repudiated you.
 This has been done by him, wishing for your welfare and in order to demostrate your purity."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The three worlds—gods, Gandharvas, and Dānavas—beheld her falling [into the fire] like a goddess cursed (śaptām) and falling from heaven into hell (niraye).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1557,6 +1759,12 @@ will overshadow; *yashaH* = their illustriousness.
 "This act (of entering into fire) which has been done by you and which reveals your
 true character, my daughter, is the most difficult task to perform for other ladies and will
 overshadow their illustriousness."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As she was entering the fire, a vast, wondrous cry of “Alas! Alas!” (hāheti vipulaḥ svanaḥ) arose among both the Rākṣasas and the monkeys.
 </details>
 </details>
 

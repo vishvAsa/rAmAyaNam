@@ -36,6 +36,12 @@ title = "०५६अ प्रक्षिप्तः"
 
 सीतॆयु लङ्कॆयन्नु प्रवेशिसिदाग पितामह ब्रह्मदेवरिगॆ सन्तोषवागि देवेन्द्रनल्लि हीगॆ हेळिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, Vaidehī, fearless (nirbhayā) though wasted with grief (śoka-karśitā), placed a blade of grass between them (tṛṇam antarataḥ kṛtvā) and replied to Rāvaṇa (rāvaṇaṃ pratyabhāṣata):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -59,6 +65,12 @@ title = "०५६अ प्रक्षिप्तः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवेन्द्रने! मूरु लोकगळ हित मत्तु राक्षसर विनाशक्कागि दुरात्मनाद रावणनु सीतॆयन्नु लङ्कॆगॆ कॊण्डु होदनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“[There was] a king named Daśaratha, unshakable like an embankment of dharma (dharma-setur ivācalaḥ), true to his pledge (satya-sandhaḥ), and renowned (parijñātaḥ), whose son is that Rāghava—
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०५६अ प्रक्षिप्तः"
 
 पतिव्रतॆ महाभागा जानकियु सदा सुखदल्ले बॆळॆदवळु. ईग अवळु तन्न पतिय दर्शनदिन्द वञ्चितळागिरुवळु. राक्षसियरिन्द सुत्तुवरिदु इरुवुदरिन्द सदा अवरन्ने ऎदुरिगॆ नोडुत्ता इरुवळु. आकॆय हृदयदल्लि पतिदर्शनक्कागि तीव्रलालसॆ इदॆ.॥3½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—named Rāma, righteous-souled (dharmātmā), famed throughout the three worlds (triṣu lokeṣu viśrutaḥ), long-armed (dīrgha-bāhuḥ) and wide-eyed (viśālākṣaḥ); he is my deity and my husband (daivataṃ sa patir mama)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -109,6 +127,12 @@ title = "०५६अ प्रक्षिप्तः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लङ्कापुरियु समुद्रतीरदल्लि नॆलॆसिदॆ. अल्लिरुव सती-साध्वी सीतॆय सुळिवु श्रीरामचन्द्रनिगॆ हेगॆ तिळियुवुदु.॥4½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Born in the lineage of the Ikṣvākus (ikṣvākūṇāṃ kule jātaḥ), lion-shouldered (siṃha-skandhaḥ) and of great splendour (mahā-dyutiḥ), he, together with his brother Lakṣmaṇa (lakṣmaṇena saha bhrātrā), shall destroy your life-breaths (yas te prāṇān vadhiṣyati)!
 </details>
 </details>
 
@@ -136,6 +160,14 @@ title = "०५६अ प्रक्षिप्तः"
 
 सीतॆयु दुःखदॊन्दिगॆ नाना प्रकारद चिन्तॆगळल्लि मुळुगिरुवळु. पतिगागि ईग अवळु अत्यन्त दुर्लभवागिरुवळु. भोजनवन्नु माडुवुदिल्ल. आद्दरिन्द इन्तह स्थितियल्लि खण्डितवागि अवळु प्राणवन्नु त्यजिसुवळु. सीतॆय प्राणक्षयवादरॆ नम्म उद्देशद सिद्धियल्लि पुनः हिन्दिनन्तॆ सन्देह उपस्थितवादीतु.॥5-6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** “Had I been forcibly violated by you (tvayā vai dharṣitā balāt) before his eyes (pratyakṣaṃ tasya), you would have lain slain in battle (śayitā tvaṃ hataḥ saṅkhye), just like Khara in Janasthāna (janasthāne yathā kharaḥ)!
+
+**6:** “All these rākṣasas of dreadful form and great strength of whom you have boasted (ya ete rākṣasāḥ proktāḥ) will be rendered venomless before Rāghava (rāghave nirviṣāḥ sarve), like serpents before Suparṇa [Garuḍa] (suparṇe pannagā yathā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,6 +192,12 @@ title = "०५६अ प्रक्षिप्तः"
 
 आद्दरिन्द नीनु शीघ्रवागि इल्लिन्द होगि लङ्कॆयन्नु प्रवेशिसि, सुमुखि सीतॆयन्नु कण्डु आकॆगॆ उत्तम हविस्सन्नु प्रधान माडु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Loosed from his bowstring (tasya jyā-vipramuktāḥ), those gold-decked arrows (śarāḥ kāñcana-bhūṣaṇāḥ) will shatter your body (te śarīraṃ vidhamiṣyanti), as waves [crumble] the bank of the Gaṅgā (gaṅgā-kūlam ivormayaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -183,6 +221,12 @@ title = "०५६अ प्रक्षिप्तः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मदेवरु हीगॆ हेळिदाग पाकशासन भगवान् इन्द्रनु निद्रादेवियन्नु जॊतॆगॆ करॆदुकॊण्डु रावणपालित लङ्कॆगॆ बन्दनु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if you cannot be slain by asuras or by gods (asurair vā surair vā tvaṃ yady avadhyo 'si), O Rāvaṇa, having provoked a mighty enmity (utpādya sumahad vairam), you shall not escape him alive (jīvaṃs tasya na mokṣyase)!
 </details>
 </details>
 
@@ -214,6 +258,12 @@ _________________
 
 अल्लिगॆ बन्दु निद्रादेविगॆ - ‘नीनु राक्षसरन्नु मोहितगॊळिसु’ ऎन्दु इन्द्रनिन्द आज्ञप्तळागि निद्रादेविगॆ बहळ सन्तोषवायितु. देवतॆगळ कार्यवन्नु सिद्धि गॊळिसलु आकॆयु राक्षसरन्नु मोह (निद्दॆ)यल्लि कॆडविदळु.॥9½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That mighty Rāghava will make an end (antakaro balī) of whatever remains of your life (te jīvita-śeṣasya); like that of a sacrificial beast bound to the stake (paśor yūpa-gatasyeva), your life is hard to save (jīvitaṃ tava durlabham)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,6 +287,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इष्टरल्लि सहस्राक्ष शचीपति देवेन्द्रनु अशोकवनदल्लि कुळितिरुव सितॆय बळिगॆ होगि ई प्रकार हेळिदनु.॥10½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Should that Rāma behold you (yadi paśyet sa rāmas tvām) with his eye blazing with wrath (roṣa-dīptena cakṣuṣā), O rākṣasa (rakṣaḥ), you would today be burned to ashes (tvam adya nirdagdhaḥ), like Manmatha by Rudra (yathā rudreṇa manmathaḥ)!
 </details>
 </details>
 
@@ -268,6 +324,14 @@ _________________
 
 पवित्रमुगुळ्नगॆयुळ्ळ देवि! निनगॆ मङ्गळवागलि. देवराजनाद इन्द्रनाद नानु निम्म बळिगॆ बन्दिरुवॆनु. जानकि! निम्म उद्धारद कार्यक्कागि महात्मा श्रीरघुनाथनिगॆ सहाय माडुवॆनु. आद्दरिन्द नीवु शोकिसबेडि.॥11-12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “He who could hurl the moon from the sky to the earth (yaś candraṃ nabhaso bhūmau pātayet) or destroy it (nāśayeta vā), or dry up the ocean (sāgaraṃ śoṣayed vāpi)—he will set Sītā free here (sa sītāṃ mocayed iha)!
+
+**12:** “Bereft of life-breath (gatāsus tvam), bereft of fortune (gata-śrīkaḥ), bereft of courage (gata-sattvaḥ), and bereft of senses (gatendriyaḥ) [are you]; through your deed (tvat-kṛtena), Laṅkā shall be plunged into widowhood (vaidhavya-saṃyuktā bhaviṣyati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -291,6 +355,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु नन्न प्रसाददिन्द दॊड्ड सैन्यदॊन्दिगॆ समुद्रवन्नु दाटुवनु. नाने इल्लि ई राक्षसियरन्नु मोहितगॊळिसिरुवॆनु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This sinful deed of yours (te pāpam idaṃ karma) shall not have a happy outcome (na sukhodarkaṃ bhaviṣyati), in that I have been forcibly (tvayā balāt) led into separation (nītā vinā-bhāvam) from my husband's side (pati-pārśvāt)!
 </details>
 </details>
 
@@ -316,6 +386,12 @@ _________________
 
 वैदेहि! अदक्कागि नाने स्वतः ई भॊजन-हविष्यान्नवन्नु तॆगॆदुकॊण्डु निद्रादेवियॊन्दिगॆ निम्म बळिगॆ बन्दिरुवॆनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For that husband of mine of great splendour (mama bhartā mahā-dyutiḥ), joined by my brother-in-law (devara-saṃyuktaḥ), dwells fearless (nirbhayaḥ) in the desolate Daṇḍaka forest (śūnye vasati daṇḍake), relying on his own valor (vīryam āśritya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,6 +415,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुन्दरिये! नन्न कैयिन्द ई हविष्यवन्नु स्वीकरिसि भक्षिसिदरॆ निमगॆ साविरारु वर्षगळवरॆगॆ हसिवु-बायारिकॆ सतायिसलारदु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In battle, with a shower of arrows (śara-varṣeṇa saṃyuge), he will strip from your limbs (apaneṣyati gātrebhyaḥ) your valor, strength, pride, and such haughtiness (vīryaṃ balaṃ darpam utsekaṃ ca tathā-vidham)!
 </details>
 </details>
 
@@ -364,6 +446,12 @@ _________________
 
 देवेन्द्रनु हीगॆ हेळिदाग शङ्कितळाद सीतॆयु अवनल्लि केळिदळु- नीनु शचीपति देवराज इन्द्रने आगमिसिरुवुदु ऎन्दु नानु हेगॆ विश्वासविडलि.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When the destruction of beings (vināśo bhūtānām), impelled by Time (kāla-coditaḥ), looms in sight (dṛśyate), then men who have fallen under the sway of Time (narāḥ kāla-vaśaṃ gatāḥ) err in their conduct (tadā kārye pramādyanti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -387,6 +475,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवेन्द्र! नानु श्रीराम-लक्ष्मणर समीप देवतॆगळ लक्षणगळन्नु कण्णारॆ कण्डिरुवॆनु. नीनु साक्षात् देवराज नागिद्दरॆ आ लक्षणगळन्नु तोरिसु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through laying violent hands on me (māṃ pradhṛṣya), O vilest of rākṣasas (rākṣasādhama), that hour of doom of yours (sa te kālaḥ) has now arrived (prāpto 'yam) for the destruction of yourself, your rākṣasas, and your inner apartments (ātmano rākṣasānāṃ ca vadhāyāntaḥpurasya ca)!
 </details>
 </details>
 
@@ -421,6 +515,14 @@ _________________
 
 सीतॆय ई मातन्नु केळि इन्द्रनु हागॆये माडिदनु. अवनु कालुगळिन्द पृथ्वियन्नु स्पर्शिसलिल्ल. आकाशदल्ले निन्तुकॊण्डनु. कण्णुरॆप्पॆ मिटुकिसुत्तिरलिल्ल. धरिसिद वस्त्रद मेलॆ धूळु मॆत्तिकॊळ्ळुत्तिरलिल्ल. कॊरळल्लि धरिसिद हूविन हार बाडुत्तिरलिल्ल. देवोचित लक्षणगळिन्द इन्द्रनन्नु गुरुतिसि सीतॆयु बहळ सन्तसपट्टळु.॥18-19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “An altar standing in the midst of a sacrifice (yajña-madhya-sthā vediḥ), decked with sacrificial ladles and vessels (srug-bhāṇḍa-maṇḍitā) and sanctified by the mantras of the twice-born (dvijāti-mantra-sampūtā), cannot be trampled upon by an outcaste (na śakyā caṇḍālenāvamarditum)—
+
+**19:** “—just so, I, the lawful wife (dharma-patnī) of one ever steadfast in dharma (dharma-nityasya), firm in my vows (dṛḍha-vratā), cannot be touched by you, a sinner (tvayā spraṣṭuṃ na śakyāhaṃ pāpinā), O vilest of rākṣasas (rākṣasādhama)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -448,6 +550,12 @@ _________________
 
 अवळु श्रीरामनिगागि अळुत्ता हेळिदळु. भगवन्! इन्दु सहोदर सहित महाबाहु श्रीरामन हॆसरु नन्न किविगॆ बित्तु. इदु सौभाग्यद मातागिदॆ.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Sporting continually (krīḍantī nityaśaḥ) with a royal swan (rāja-haṃsena) among lotus-clusters (padma-ṣaṇḍeṣu), how could that female swan (haṃsī sā) even glance at a water-crow (kathaṃ drakṣyeta madgukam) lurking amid the weeds (tṛṇa-madhya-stham)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -471,6 +579,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न मावनवराद दशरथ महाराजर मत्तु तन्दॆ मिथिलाधिप जनक इवर रूपदल्ले नानु इन्दु निन्नन्नु नोडुत्तिद्देनॆ. नन्न पतियु निन्निन्द सनाथरादरु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bind or slay (bandha vā ghātayasva vā) this insentient body (idaṃ śarīraṃ niḥsaṃjñam); neither this body nor even my life (jīvitaṃ vāpi) is to be preserved by me (rakṣyaṃ me), O rākṣasa—
 </details>
 </details>
 
@@ -496,6 +610,12 @@ _________________
 
 देवेन्द्रने! निन्न आज्ञॆयन्तॆ नीनु कॊडुत्तिरुव हालिनिन्द माडिद पायसवन्नु तिन्नुवॆनु. इदु रघुकुलवन्नु वृद्धिपडिसुवन्तागलि.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—for I cannot bring reproach upon myself (na tu śakyam apakrośaṃ dātum ātmanaḥ) on earth (pṛthivyām)!” Having spoken thus out of wrath (evam uktvā tu krodhāt) a most harsh speech (suparuṣaṃ vacaḥ), Vaidehī—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -520,6 +640,12 @@ _________________
 
 इन्द्रन कैयिन्द आ पायसवन्नु तॆगॆदुकॊण्डु शुचिस्मितॆयाद मैथिलियु मनस्सिनल्ले मॊदलिगॆ तन्न स्वामि श्रीराम मत्तु मैदुन लक्ष्मणनिगॆ निवेदिसि, ई प्रकार नुडिदळु.॥23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Jānakī spoke nothing further (punar novāca kiṃcana) to Rāvaṇa there (tatra). Having heard Sītā's harsh, hair-raising speech (sītāyā vacanaṃ śrutvā paruṣaṃ roma-harṣaṇam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -543,6 +669,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबलि नन्न स्वामि अनुजनॊडनॆ जीवन्तरागिद्दरॆ इदु भक्तियिन्द अवरिब्बरिगॆ अर्पितवागिदॆ. इष्टु हेळिद बळिक अवळु आ पायसवन्नु भुञ्जिसिदळु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—he then replied to Sītā with a terrifying word (bhaya-saṃdarśanaṃ vacaḥ): “Hear my word, O Maithilī! [Wait] for twelve months (māsān dvādaśa), O proud lady (bhāmini)—
 </details>
 </details>
 
@@ -576,6 +708,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ आ हविष्यान्नवन्नु तिन्दु सुन्दरी जानकियु हसिवु-बायारिकॆय कष्टगळन्नु त्यजिसिदळु. इन्द्रन बायियिन्द श्रीराम लक्ष्मणर समाचार पडॆदु आ जनकनन्दिनियु मनस्सिनल्ले बहळ प्रसन्नळादळु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—if within this period (kālenānena) you do not come to me (nābhyeṣi yadi mām), O sweet-smiling lady (cāru-hāsini), then my cooks (sūdāḥ) shall slice you into tiny pieces (tvāṃ chetsyanti leśaśaḥ) for my morning meal (prātar-āśārtham)!”
 </details>
 </details>
 
@@ -615,5 +753,11 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि प्रक्षिप्त सर्ग सम्पूर्णवायितु. ॥56॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken this harsh speech (ity uktvā paruṣaṃ vākyam), Rāvaṇa, the make-wail of his foes (śatru-rāvaṇaḥ), then in wrath (tataḥ kruddhaḥ) spoke this word to the rākṣasīs (rākṣasīś ca):
 </details>
 </details>

@@ -75,6 +75,14 @@ _________________
 Thereafter, an energetic demon named Shardula came and saw the army, commanded by
 Sugriva, which was drawn up in a battle array.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then a valiant rākṣasa named Śārdūla, approaching (abhyetya), beheld that army (dhvajinīm) encamped [on the ocean shore] and guarded by Sugrīva.
+
+**2:** A spy (cāraḥ) of the evil-souled Rāvaṇa, king of the rākṣasas, having surveyed that [host], which was wholly unperturbed (sarvato 'vyagrām), that rākṣasa returned—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,6 +129,12 @@ approaching ; *laNkaam* = Lanka.
 "Boundless and immeasurable like another ocean, this multitude of monkeys and bears
 is approaching Lanka.".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And entering Laṅkā with speed, spoke these words to the king: “Yonder flood of monkeys and bears (vānararkṣaughaḥ) is advancing upon Laṅkā!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -145,6 +159,12 @@ is approaching Lanka.".
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजा दशरथन ई पुत्ररिब्बराद श्रीराम- लक्ष्मणरु बहळ रूपवन्त मत्तु श्रेष्ठवीररागिद्दारॆ. अवरु सीतॆयन्नु बिडिसिकॊण्डु होगलु बरुत्तिद्दारॆ.॥4½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fathomless (agādhaḥ) and immeasurable (aprameyaḥ), like a second ocean (dvitīya iva sāgaraḥ)! And these two sons of Daśaratha, the brothers Rāma and Lakṣmaṇa—
 </details>
 </details>
 
@@ -207,6 +227,14 @@ measuring; *sarvataH* = on all sides; *dashayojanam* = ten yojanas(ten miles);ar
 "O, monarch! Their army is employed around a radius of ten yojanas (eighty miles)on
 all sides. You have to ascertain this truth quickly"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** “Supremely noble and endowed with beauty (rūpasampannau), have arrived on the track (padam) of Sītā; having reached the ocean, O lord of great splendor, these two have encamped (saṃniviṣṭau).
+
+**6:** “And their army, covering the sky (ākāśam āvṛtya) for ten yojanas on every side [stands encamped]; O great king, you ought swiftly to ascertain the true state of affairs (tattvabhūtam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -251,6 +279,12 @@ or an act of giving away;bhedovaa = or sowing dissention (in the enemy's ranks);
 "O, monarch! Your other spies also ought to ascertain the fact quickly. Under such
 circumstances, either conciliation or an act of giving away or sowing dissention (in the enemy's
 ranks) may be employed."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your envoys (dūtāḥ), O great king, ought swiftly to ascertain [their designs]; let bribery (upapradānam), conciliation (sāntvam), or dissension (bhedaḥ) be employed here!”
 </details>
 </details>
 
@@ -305,6 +339,12 @@ Hearing Shardula's words Ravana the lord of demons was perturbed and immediately
 determined his cause of action. Then he spoke the following words to a demon by name, Shuka the
 foremost among those who know their duty.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Śārdūla's words, Rāvaṇa, lord of the rākṣasas, agitated (vyagraḥ), hastily weighed his own interest (sampradhāryārtham ātmanaḥ) and spoke a fitting speech to the rākṣasa Śuka, foremost of those who know policy (arthavidāṃ varam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -351,6 +391,12 @@ voice:
 
 "Going quickly, speak fearlessly to king Sugriva on my behalf, according to my
 command, in an excellent and gentle voice, as follows:"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Go swiftly and speak to King Sugrīva in my name (vacanān mama), delivering this message fearlessly (aklībam) in smooth (ślakṣṇayā) and consummate speech:
 </details>
 </details>
 
@@ -408,6 +454,12 @@ O, great king! You are indeed born in a noble family, possessor of a great stren
 and are a son of Riksharaja. No gain whatsoever or any harm will accrue to you (from this battle)
 .O, lord of monkeys! Nevertheless, you are like a brother to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘You are born in a lineage of great kings (mahārājakulaprasūtaḥ), of great strength, and the son of Rikṣarajas (ṛkṣarajaḥsutaḥ); you have neither any gain (arthaḥ) nor any loss (anarthaḥ) [from me], and even so, O lord of monkeys, you are like a brother (bhrātṛsamaḥ) to me.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,6 +509,12 @@ wise? Gamyataam = return; *kishhkindhaam prati* = to Kishkinda.
 "What does it matter to you, if I have embezzled the wife of a wise prince?
 (Therefore) return to Kishkindha"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘If I carried off (aharam) the wife of the wise prince, what is that to you (kiṃ tatra tava), O Sugrīva? Return to Kiṣkindhā!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -501,6 +559,12 @@ monkeys?
 "This Lanka cannot be reached by monkeys in any way. It cannot be acquired even by
 celestials and Gandharvas (celestial musicians), why to talk about men and monkeys?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘For this Laṅkā cannot by any means be reached by monkeys (haribhiḥ)—not even by the gods together with the gandharvas, how much less by men and monkeys (kiṃ punar naravānaraiḥ)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -540,6 +604,12 @@ Ravana; *bhuutvaa* = become; *vihaNgamaH* = a bird; *aaplutyacha* = and flew;
 
 Then Shuka the demon heralded by Ravana turned himself into the form of a bird and
 quickly flew into the sky.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that night-roamer (rajanīcaraḥ) Śuka, commanded by the lord of rākṣasas, having assumed the form of a bird (vihaṃgamo bhūtvā) and swiftly leaped into the sky—
 </details>
 </details>
 
@@ -588,6 +658,12 @@ ocean; *samsthitaH* = and stationed; *ambare* = in the sky(itself); *abraviit*
 
 Proceeding in the sky for a distance continuously over the ocean, Shuka then stood
 up in the sky itself and spoke these words to Sugriva:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having traveled a long distance high above the ocean (upary upari sāgaram), stood poised in the sky (saṃsthito hy ambare) and spoke these words to Sugrīva.
 </details>
 </details>
 
@@ -640,6 +716,12 @@ Shuka repeated all the words the wicked Ravana had told him to say to Sugriva. A
 was still speaking, the monkeys bounded into the air to reach him at that moment quickly to tear
 off his wings and to smite him by their fists.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Everything was spoken by him just as commanded (yathādiṣṭam) by the evil-souled Rāvaṇa; and as he was delivering (prāpayantam) that speech, the monkeys swiftly leaped up—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -688,6 +770,12 @@ down; *bhuutale* = to the ground; *gaganaat* = from the sky.
 
 The demon thus attacked was forcibly seized by all the monkeys and immediately
 brought down to the ground from the sky.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And quickly fell upon (prāpadyanta) him then to pluck (loptum) [his wings] and strike him with their fists; by all the monkeys that night-roamer was forcibly seized (nigṛhītaḥ).
 </details>
 </details>
 
@@ -764,6 +852,14 @@ messenger; *anukta vaadii* = who speaks which was not told; *arhati* = is fit;
 opinion though he being a messenger and he who on the other hand speaks that which was not told to
 him, that messenger is indeed fit to be killed."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** And swiftly dragged down (avatāritaḥ) from the sky to the ground, Śuka, being smitten (pīḍyamānaḥ) by the monkeys, spoke these words:
+
+**18:** “Men do not slay envoys (na dūtān ghnanti), O Kākutstha! Let the monkeys be rightly restrained (vāryantām)! Only that envoy who, abandoning his master's mind (matam bhartuḥ), advances his own opinion—speaking what was not commissioned (anuktavādī)—deserves death!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -813,6 +909,12 @@ monkeys; *ghnatah* = who were beating; *maa vadhishhTa* = "do not kill."
 Hearing Shuka's complaining words, Rama spoke to the foremost of monkeys, who were
 beating him as aforesaid, saying "Do not kill him"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Śuka's lamenting (paridevitam) speech, Rāma said to the monkey chiefs who were striking him (ghnataḥ): “Do not slay him!” (mā vadhiṣṭeti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -860,6 +962,12 @@ laghuH* = light winged; *bhuutvaa* = virtually; *sthitaH* = standing;
 Perceiving no fear from monkeys, Shuka became light winged, virtually standing in
 the sky and spoke again the following words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And when safety was shown (darśite 'bhaye) by the monkeys, he, becoming light on the wing (patralaghur bhūtvā) and stationing himself in mid-air (antarikṣe), spoke again:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -905,6 +1013,12 @@ the sky and spoke again the following words.
 
 "O, Sugriva, rich in courage and possessing great strength and valor! What am I to
 tell Ravana, whose nature is to cause world to cry?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Sugrīva, endowed with courage (sattvasampanna), of great strength and valor! What, pray, is Rāvaṇa, the make-wail of the worlds (lokarāvaṇaḥ), to be told by me?”
 </details>
 </details>
 
@@ -957,6 +1071,12 @@ follows:
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शुकनु ई प्रकार केळिदाग कपिशिरोमणि महाबली उदारचेता वानरराज सुग्रीवनु आ निशाचर दूतनल्लि हागॆ स्पष्ट हागू निश्चल मातन्नु हेळिदनु .॥2.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, that lord of monkeys of great strength, bull among monkeys, of undaunted spirit (adīnasattvaḥ), spoke a forthright (śuddham) reply to Śuka, the spy of the night-roamer:
 </details>
 </details>
 
@@ -1031,6 +1151,12 @@ enemy. Hence, You are worthy to be killed like Vali, along with your associates"
 That demon, the spy of Ravana the evil natured king of ogres, coolly observed that
 army from all sides, speedily returned to Lanka and spoke to their king as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are no friend (mitram) of mine, nor worthy of compassion (anukampyaḥ), nor a benefactor, nor dear to me; you are Rāma's enemy, and therefore, O you who deserve death (vadhārha), you are to be slain along with your followers like Vālin (vālīva)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1077,6 +1203,12 @@ kinsfolk; *sametya* = together; *mahataa balena* = with my great army;
 "O, the king of demons! I am killing you along with your sons, relatives and other
 kinsfolk. Arriving with a great army, I will reduce the entire Lanka and all of you to ashes."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall slay you along with your sons, kinsmen, and clan (sajñātivargam), O lord of night-roamers; and coming with all [my hosts] in a mighty army, I shall reduce all Laṅkā to ashes (bhasma)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1116,6 +1248,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मूर्खरावणने! इन्द्रादि समस्त देवतॆगळु निन्नन्नु रक्षिसिदरू श्रीरघुनाथन कैयल्लि ईग नीनु बदुकिरलारॆ. नीनु अन्तर्धानवागु, आकाशक्कॆ होगु, पाताळदल्लि नुग्गिकुळितुको, अथवा महादेवन चरणारविन्दगळन्नु आश्रयिसु; आदरू निन्न सहोदररॊन्दिगॆ नीनु अवश्यवागि श्रीरामचन्द्रन कैयिन्द सत्तुहोगुवॆ.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O fool (mūḍha), you shall not escape (na mokṣyase) from Rāghava even if protected by the gods together with Indra, or vanished (antarhitaḥ) and gone upon the path of the sun (sūryapatham), or likewise entered into Pātāla, or clinging to the lotus-feet of Girīśa [Śiva] (girīśapādāmbujasaṃgataḥ)—you along with your younger brother [Kumbhakarṇa] are as good as slain (hato 'si) by Rāma!
 </details>
 </details>
 
@@ -1163,6 +1301,12 @@ Rama, even if you are protected by all including Indra (the lord of celestials) 
 disappeared (by virtue of conjuring trick) or obtained, the solar orbit or entered the nethermost
 subterranean region or even if approached the lotus feet of Shiva (the lord of Kailasa
 mountain)"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In all the three worlds I behold no protector (trātāram) for such a one as you—neither piśāca, nor rākṣasa, nor gandharva, nor asura!
 </details>
 </details>
 
@@ -1218,6 +1362,12 @@ musician); *na* = nor; *asuramcha* = an ogre.
 devilish being or a demon or a Gandharva (celestial musician) or an ogre coming forward to protect
 you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You slew Jaṭāyu, the king of vultures, infirm with old age (jarāvṛddham); why then did you not carry off wide-eyed Sītā in the presence of Rāma (rāmasāṃnidhye) or before Lakṣmaṇa? Having seized her, you do not realize (na budhyase) [whom you have provoked]—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1271,6 +1421,12 @@ her; *yaam* = what she is.
 "You killed Jatayu, the king of vultures and who was senior to you in old age. Why
 the wide-eyed Sita was not taken away in the presence of Rama and Lakshmana? Having made her
 captive, you do not recognize her for what she is."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You do not realize that foremost of the Raghus, of great strength, great-souled, unassailable even by the gods (durādharṣaṃ surair api), who shall take away your vital breaths (prāṇān hariṣyati)!”
 </details>
 </details>
 
@@ -1338,6 +1494,14 @@ intelligent! ayam* = He; *na* = is not; *duutaH* = an ambassador;
 Thereafter, Angada the son of Vali and the foremost of the monkeys spoke as follows:
 "O, Sugriva the highly intelligent! He is not an ambassador. He appears to me as a spy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** Then Vālin's son Aṅgada, best of monkeys, also spoke: “This is no envoy (nāyaṃ dūtaḥ), O great king; he appears to me to be a spy (cārakaḥ)!
+
+**30:** “For as he stood here, all your army has been measured (tulitaṃ hi balaṃ sarvam) by him! Let him be seized (gṛhyatām)—let him not return (māgamat) to Laṅkā; for this pleases me!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1378,6 +1542,12 @@ indeed has been evaluated; *anena* = by him; *tishhThataa* = standing here;
 
 "All our army has been indeed evaluated by him, standing here. Let him be made
 captive. Let him not return to Lanka. This indeed finds favor with me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, commanded by the king [Sugrīva], the monkeys leaped up (samutpatya), seized him, and bound (babandhuḥ) him as he wailed like one without a protector (anāthavat).
 </details>
 </details>
 
@@ -1442,6 +1612,14 @@ the high soled; *dasharathaatmajam* = son of Dasaratha(as follows):
 Harassed by those monkeys there, Shuka on his part cried loudly towards Rama, the
 high soled son of Dasaratha as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** Sorely tormented (samprapīḍitaḥ) there by those fierce monkeys, Śuka cried out aloud (vyācukrośa) to the great-souled Rāma, son of Daśaratha: “My two wings are being plucked out (lupyete) by force, and so too my two eyes are being pierced (bhidyete)!
+
+**33:** “Whatever evil (aśubham) has been done by me in the interval between the night on which I was born (jāye rātriṃ ca yām aham) and the night on which I shall die—all that may you incur (upapadyethāḥ), should I abandon my life!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1496,6 +1674,12 @@ the sins incurred by me between my birth and my death would fall to your share."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तनॆय सर्ग पूर्णवायितु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that lamentation (tatparidevitam), Rāma did not let him be slain (nāghātayat) then; and Rāma said to the monkeys: “Let the envoy who has come be released (mucyatām)!”
 </details>
 </details>
 

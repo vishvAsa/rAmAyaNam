@@ -53,6 +53,12 @@ _________________
 
 हनुमान् जी की यह बात सुनकर बालिपुत्र अङ्गदने कहा—‘अश्विनीकुमारके पुत्र ये मैन्द और द्विविद दोनों वानर अत्यन्त वेगशाली और बलवान् हैं ॥ १ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard that speech of his (tasya tad vacanaṃ śrutvā), the son of Vālin spoke (vālisūnur abhāṣata): “The two sons of the Aśvins (aśviputrau), mighty leapers of great speed (mahāvegau balavantau plavaṃgamau),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +129,14 @@ worlds; *saamara daityeSu* = comprising of celestials or demons.
 "O the best of monkeys! No one is equal to us even in our prowess nor indeed anyone who
 can leap like us in the worlds either of celestials or demons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** abide in supreme pride (paramaṃ darpam āsthitau) through the elation of the Grandsire’s boon (pitāmahavarotsekāt); for in order to honor the Aśvins (aśvinor mānanārthaṃ hi), the Grandsire of all the worlds (sarvalokapitāmahaḥ)—
+
+**3:** granted to these two in days of old (anayor dattavān purā) peerless invulnerability before all beings (sarvāvadhyatvam atulam); and intoxicated by the pride of that boon (varotsekena mattau ca), having churned the mighty army (pramathya mahatīṃ camūm)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +179,12 @@ shall go; *gR^ihiitvaa* = after taking; *jaanakiim* = Janaki.
 
 "Hanuma indeed thus killed all the warriors among the demons. What work is remaining
 to be done by us? We will go, after taking Janaki."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+of the gods (surāṇām), those two heroes of mighty strength drank the ambrosia (amṛtaṃ vīrau pītavantau mahābalau); these two alone, when thoroughly enraged (etāv eva hi saṃkruddhau), are able to destroy Laṅkā with its horses, chariots, and elephants (savājirathakuñjarām)—
 </details>
 </details>
 
@@ -264,6 +284,14 @@ tathaa* = in which way; *raamasya matiH* = Rama's inclination; *nivishTa* = will
 "O prince! This thought you thus perceive is not incompetent of us. But, you must see
 the way in which Rama's inclination would be, for the accomplishment of the object."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** let all the other monkeys stand aside (laṅkāṃ nāśayituṃ śaktau sarve tiṣṭhantu vānarāḥ)! Nay, I alone am sufficient (aham eko 'pi paryāptaḥ) to destroy by force that city with its hosts of Rākṣasas (sarākṣasagaṇāṃ purīm)—
+
+**6:** that Laṅkā (tāṃ laṅkāṃ tarasā hantum) and Rāvaṇa of mighty strength (rāvaṇaṃ ca mahābalam); how much more so when joined by you—heroes endowed with strength and self-possessed (kiṃ punaḥ sahito vīrair balavadbhiḥ kṛtātmabhiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -296,6 +324,14 @@ _________________
 
 कार्यसाधक निष्णातनू, भल्लूक प्रमुखनू आद जाम्बवन्तनु अङ्गदन सङ्कल्पवन्नु केळि अवन बळि अर्थवत्ताद मातन्नु प्रीतियिन्द हेळिदनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** accomplished in weapons (kṛtāstraiḥ), capable leapers eager for victory (plavagaiḥ śaktair bhavadbhir vijayaiṣibhiḥ)! Indeed, we have heard (iti naḥ śrutam) that Laṅkā was burned (dagdhā laṅkā) by the sheer strength of the Wind-god’s son (vāyusūnor balenaiva).
+
+**8:** To report there (iti tatra niveditum), ‘The princess was seen, yet not brought back (dṛṣṭā devī na cānītā),’ I deem wholly unbecoming (na yuktam iva paśyāmi) for you of renowned prowess (bhavadbhiḥ khyātapauruṣaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,6 +353,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वानरशिरोमणियो! देवताओं और दैत्योंसहित सम्पूर्ण लोकोंमें कोई भी ऐसा वीर नहीं है, जो दूरतककी छलाँग मारने और पराक्रम दिखानेमें आप-लोगोंकी समानता कर सके ॥ ९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For neither in leaping is anyone your equal (nahi vaḥ plavane kaścit tulyaḥ), nor is anyone your match in valor (nāpi kaścit parākrame) across the worlds with their gods and Daityas (sāmaradaityeṣu lokeṣu), O foremost of monkeys (harisattamāḥ)!
 </details>
 </details>
 
@@ -346,6 +388,12 @@ _________________
 
 प्रज्ञाशालियाद ऎलै अङ्गदा! नीनु हेळुत्तिरुव मातुगळु समुचितवॆन्दु कण्डुबरुवुदिल्ल. वानर प्रभुवाद सुग्रीवनु, प्रज्ञाशालियाद श्रीरामनु दक्षिणदिक्किनल्लि सीतॆयन्नु हुडुकलु मात्र नमगॆ आज्ञॆ कॊट्टिरुवरु. अवळन्नु करॆतरुवुदक्कल्ल. मेलागि नावु राक्षसरन्नु जयिसि सीतॆयन्नु करॆतरुवुदु श्रीरामनिगॆ रुचिसदु. श्रीरामनु राजसिंहनु. अवनु तन्न पराक्रमदिन्दले सीतादेवियन्नु करतरुवने हॊरतु, बेरॆयवर पराक्रमवन्नु अवलम्बिसलारनु.॥8-10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having conquered Laṅkā with its multitudes of Rākṣasas (jitvā laṅkāṃ sarakṣaughām) and slain that Rāvaṇa in battle (hatvā taṃ rāvaṇaṃ raṇe), let us take Sītā and depart (sītām ādāya gacchāmaḥ), our purpose accomplished and our minds joyful (siddhārthā hṛṣṭamānasāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -368,6 +416,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जब हनुमान् जी ने राक्षसोंके प्रमुख वीरोंको मार डाला है, ऐसी परिस्थितिमें हमारा इसके सिवा और क्या कर्तव्य हो सकता है कि हम जनकनन्दिनी सीताको साथ लेकर ही चलें ॥ ११ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When those Rākṣasas have thus had their heroes slain by Hanūmān (teṣv evaṃ hatavīreṣu rākṣaseṣu hanūmatā), what else remains to be done here (kim anyad atra kartavyam)? Taking Jānakī, let us go (gṛhītvā yāma jānakīm)!
 </details>
 </details>
 
@@ -408,6 +462,14 @@ _________________
 
 आ प्रभुवु ऎल्ल वानरर समक्षमदल्लि ‘‘शत्रुवन्नु जयिसि सीतॆयन्नु पडॆयुवॆनु’’ ऎन्दु तन्न वंशद मेलॆ आणॆयिट्टु प्रतिज्ञॆ माडिरुवनु. नावु ऎल्लादरू सीतॆयन्नु करॆदुकॊण्डु बन्दरॆ अवन प्रतिज्ञॆ व्यर्थवादीतु. अदरिन्द अवनिगॆ सन्तोषवू आगलारदु. नावु तोरिद पराक्रमवू व्यर्थवागुत्तदॆ. ॥11-12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** Let us place Janaka’s daughter (nyasyāma janakātmajām) right between Rāma and Lakṣmaṇa (rāmalakṣmaṇayor madhye); what need have we to afflict all those foremost monkeys (kiṃ vyalīkais tu tān sarvān vānarān vānararṣabhān)?
+
+**13:** For we ourselves, having gone and slain those bulls among Rākṣasas (vayam eva hi gatvā tān hatvā rākṣasapuṅgavān), are worthy to behold Rāghava (rāghavaṃ draṣṭum arhāmaḥ) and Sugrīva along with Lakṣmaṇa (sugrīvaṃ sahalakṣmaṇam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -438,6 +500,12 @@ _________________
 
 राजपुत्र अङ्गदने! निन्न विचारवु निन्न दृष्टिगॆ मत्तु निन्न पराक्रमक्कॆ इवॆल्लवू योग्यवे आगिदॆ. इदॆल्लवन्नु नावु अनुसरिसबारदॆन्दॆनू इल्ल. आदरॆ श्रीरामन अभिप्रायक्कनुसारवागि नावु कार्यसिद्धिगागि प्रयत्निसुवुदु युक्तवागिदॆ. अवनिगॆ सन्तोषवागुवन्तॆ नडॆयुवुदे नमगॆल्लरिगॆ कर्तव्यवागिदॆ.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To him who had thus formed his resolve (tam evaṃ kṛtasaṃkalpam), Jāmbavān, foremost of monkeys (jāmbavān harisattamaḥ) and knower of the true purport (arthavit), supremely pleased (paramaprītaḥ), spoke a word full of meaning (uvāca vākyam arthavat):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -460,6 +528,12 @@ _________________
 
 ‘महाकपे! तुम बड़े बुद्धिमान् हो तथापि इस समय जो कुछ कह रहे हो, यह बुद्धिमानीकी बात नहीं है; क्योंकि वानरराज सुग्रीव तथा परम बुद्धिमान् भगवान् श्रीरामने हमें उत्तम दक्षिण दिशामें केवल सीताको खोजनेकी आज्ञा दी है, साथ ले आनेकी नहीं ॥ १५ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is not a sound counsel, O prince of great intelligence (naiṣā buddhir mahābuddhe), which you speak, O great monkey (yad bravīṣi mahākape); we were commanded (vayam ājñaptāḥ) only to search (vicetum) the excellent southern quarter (dakṣiṇāṃ diśam uttamām),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -479,6 +553,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यदि हमलोग किसी तरह सीताको जीतकर उनके पास ले भी चलें तो नृपश्रेष्ठ श्रीराम अपने कुलके व्यवहारका स्मरण करते हुए हमारे इस कार्यको पसंद नहीं करेंगे ॥ १६ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+not to bring her back (nānetum), either by the monkey king (kapirājena) or by the wise Rāma (naiva rāmeṇa dhīmatā); Rāma would in no wise approve (kathaṃcin nābhirocayet) Sītā’s being won back by us (nirjitāṃ sītām asmābhiḥ).
 </details>
 </details>
 
@@ -500,6 +580,12 @@ _________________
 
 ‘राजा श्रीरामने सभी प्रमुख वानरवीरोंके सामने स्वयं ही सीताको जीतकर लानेकी प्रतिज्ञा की है, उसे वे मिथ्या कैसे करेंगे? ॥ १७ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proclaiming His own royal lineage (kulaṃ vyapadiśan svakam), Rāghava, that tiger among kings (rāghavo nṛpaśārdūlaḥ), the King Himself having vowed to win Sītā (pratijñāya svayaṃ rājā sītāvijayam) in the presence of—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -520,6 +606,12 @@ _________________
 
 ‘अतः वानरशिरोमणियो! ऐसी अवस्थामें हमारा किया-कराया कार्य निष्फल हो जायगा । भगवान् श्रीरामको संतोष भी नहीं होगा और हमारा पराक्रम दिखाना भी व्यर्थ सिद्ध होगा ॥ १८ १/२ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+all the foremost monkeys (agrataḥ sarveṣāṃ kapimukhyānām), how will He make His vow false (kathaṃ mithyā kariṣyati)? And the deed done by us would become fruitless (viphalaṃ karma ca kṛtaṃ bhavet), nor would there be satisfaction for Him (tuṣṭir na tasya ca);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +631,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इसलिये हम सब लोग इस कार्यकी सूचना देनेके लिये वहीं चलें, जहाँ लक्ष्मणसहित भगवान् श्रीराम और महातेजस्वी सुग्रीव विद्यमान हैं ॥ १९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and our valor would have been displayed in vain (vṛthā ca darśitaṃ vīryaṃ bhaved), O bulls among monkeys (vānarapuṅgavāḥ)! Therefore let us all indeed depart (tasmād gacchāma vai sarve) to where Rāma is with Lakṣmaṇa (yatra rāmaḥ salakṣmaṇaḥ) and Sugrīva of mighty splendor (sugrīvaś ca mahātejāḥ), for the reporting of this business (kāryasyāsya nivedane).
 </details>
 </details>
 
@@ -574,6 +672,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि अरवत्तनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This judgment of yours is by no means unworthy of us (na tāvad eṣā matir akṣamā no), as you see it, O prince (yathā bhavān paśyati rājaputra); yet just as Rāma’s resolve is fixed (yathā tu rāmasya matir niviṣṭā), even so do you behold the accomplishment of the task (tathā bhavān paśyatu kāryasiddhim).”
 </details>
 </details>
 

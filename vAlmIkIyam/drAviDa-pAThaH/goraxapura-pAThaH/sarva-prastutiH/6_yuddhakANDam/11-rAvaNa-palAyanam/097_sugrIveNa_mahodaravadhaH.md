@@ -65,6 +65,12 @@ summer.
 Being killed by each other in that major battle, those two armies were very much
 diminished soon, like two lakes in a severe summer.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the earth there became strewn (prakīrṇā) with those monkeys whose limbs were mangled (kṛtta-gātraiḥ) in that manner by Daśagrīva with his shafts (mārgaṇaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +116,12 @@ diminished soon, like two lakes in a severe summer.
 
 Ravana the lord of demons got doubly enraged because of the destroyal of his own
 army and the fall of Virupaksha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They could not endure (na śekuḥ sahitum) that irresistible (aprasahyam), blazing downpour of Rāvaṇa's arrows (śara-sampātam) from one side (ekataḥ), any more than moths can endure a blazing fire (pataṅgā jvalanaṃ yathā).
 </details>
 </details>
 
@@ -158,6 +170,12 @@ seeing; *daivaviparyam* = the reversal of his fate; *vyathaa* = restlessness;
 He felt restless to find his own army diminished while being killed by the monkeys
 and to see the reversal of his fate.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tormented by sharpened shafts (arditā niśitair bāṇaiḥ), they fled in all directions crying aloud (krośanto vipradudruvuḥ), like elephants being scorched (dahyamānā yathā gajāḥ) when enveloped by tongues of flame (pāvakārciḥ-samāviṣṭāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -203,6 +221,12 @@ jayaashaa* = my hope for victory; *tvayi sthitaa* = lies in you.
 
 He spoke to Mahodara, the annihilator of enemies, standing beside him (as follows):
 "O the long-armed! At this juncture, my hope for victory is centered in you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dispersing (vidhaman) the ranks of the monkeys with his arrows as the wind scatters great clouds (mahābhrāṇīva mārutaḥ), Rāvaṇa advanced (saṃyayau) in that battle.
 </details>
 </details>
 
@@ -255,6 +279,12 @@ of subsistence received from him); *yudhyataam* = fight; *saadhu* = well.
 the time to repay the debt of your master (received in the form of sustenance from him). Fight
 well."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having swiftly wrought a slaughter (kadanaṃ tarasā kṛtvā) of the forest-dwellers, the lord of rākṣasas then quickly approached Rāghava in battle (āsasāda tato yuddhe tvaritaṃ rāghavam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -301,6 +331,12 @@ enemies; *pataN^gaH iva* = as a moth; (rushed into); *paavakam* = a flame.
 Hearing the words of Ravana, Mahodara the chief of demons saying "So it be",
 penetrated into the army of enemies, as a moth rushed into a flame.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those monkeys routed and put to flight in battle (bhagnān vidrāvitān raṇe), Sugrīva stationed Suṣeṇa in the division (gulme suṣeṇaṃ nikṣipya) and swiftly set his mind on combat (cakre yuddhe drutaṃ manaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -340,6 +376,12 @@ by dint of his own valour.
 
 Emboldened by the words of his master, that mighty demon, with full of energy,
 destroyed the monkeys by dint of his own valour.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having stationed that heroic monkey who was equal to himself (ātmanaḥ sadṛśaṃ vīram), Sugrīva, armed with a tree as his weapon (pādapāyudhaḥ), set forth facing the foe (abhimukhaṃ śatruṃ pratasthe).
 </details>
 </details>
 
@@ -386,6 +428,12 @@ enemies; *jaghmuH* = killed; *sarva raakShasaan* = all the demons.
 
 Taking hold of huge rocks and penetrating the terrific army of enemies, those highly
 strong monkeys too started killing all the demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At his flanks and at his rear (pārśvataḥ pṛṣṭhataś cāsya), all the monkey troop-leaders (vānara-yūthapāḥ) followed after him (anujagmuḥ), [bearing] huge crags and manifold forest trees (mahā-śailān vividhāṃś ca vanaspatīn).
 </details>
 </details>
 
@@ -436,6 +484,12 @@ hands; feet and thighs; *vaanaraaNaam* = of the monkeys.
 In that great battle, the highly enraged Mahodara, with his arrows decked in gold,
 chopped off the hands, feet and thighs of monkeys.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mighty Sugrīva roared in battle with a mighty voice (nanarda yudhi sugrīvaḥ svareṇa mahatā), and crushing (pothayan) manifold other [warriors], he churned the foremost rākṣasas (mamanthottama-rākṣasān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -476,6 +530,12 @@ refuge; *sugriivam* = with Sugreeva.
 
 Then, among all those monkeys who were tormented by the demons, some ran away into
 ten directions. Some others sought refuge with Sugreeva.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the huge-bodied lord of monkeys (mahā-kāyo vānareśvaraḥ) crushed the rākṣasas, as the wind at the time of cosmic dissolution (yugānta-samaye vāyuḥ) [uproots] full-grown trees (pravṛddhān agamān iva).
 </details>
 </details>
 
@@ -524,6 +584,12 @@ close to him.
 Seeing the large army of monkeys defeated in the battle, Sugreeva rushed towards
 Mahodara who was immediately close to him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon the ranks of the rākṣasas he rained a shower of crags (śaila-varṣaṃ vavarṣa ha), just as a cloud rains a shower of hailstones (aśma-varṣaṃ yathā meghaḥ) upon flocks of birds in a forest (pakṣi-saṅgheṣu kānane).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -565,6 +631,12 @@ him.
 Seizing hold of a large and terrific rock, which looked like a mountain, Sugreeva
 who was endowed with a great energy, hurled it with an aim to kill the demon.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck by those showers of crags loosed by the monkey king (kapirāja-vimuktais taiḥ śaila-varṣaiḥ), the rākṣasas fell with their heads shattered (vikīrṇa-śirasaḥ petuḥ), like cloven mountains (vikīrṇā iva parvatāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -604,6 +676,12 @@ who was endowed with a great energy, hurled it with an aim to kill the demon.
 
 Seeing that rock falling suddenly, Mahodara, then unagitated, tore it with his
 arrows, though it was difficult to approach.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, while the rākṣasas were being destroyed on every side (saṃkṣīyamāṇeṣu rākṣaseṣu samantataḥ), routed by Sugrīva (sugrīveṇa prabhagneṣu), roaring and falling (nadatsu ca patatsu ca)—
 </details>
 </details>
 
@@ -651,6 +729,12 @@ like a flock of frightened vultures.
 
 That rock, broken to a thousand pieces by that demon with a multitude of his arrows,
 forthwith fell down on earth, like a flock of frightened vultures.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the unassailable rākṣasa Virūpākṣa, bow in hand (dhanvī), proclaiming his own name (svakaṃ nāma viśrāvya), leaped from his chariot (rathād āplutya) and mounted the shoulder of an elephant (gaja-skandham upāruhat).
 </details>
 </details>
 
@@ -702,6 +786,12 @@ pieces.
 Filled with rage on seeing that rock broken and uprooting a Sala tree, Sugreeva
 hurled it at his enemy and Mahodara chopped it off into many pieces.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having mounted that elephant (taṃ dvipam athāruhya), Virūpākṣa of mighty strength roared a dreadful roar (nanarda bhīma-nirhrādam) and rushed against the monkeys (vānarān abhyadhāvata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -749,6 +839,12 @@ torments hostile forces; *vidadaara* = lacerated; *enam* = Sugreeva; *sharaiH*
 The valiant Mahodara, who was the tormentator of hostile forces, lacerated Sugreeva
 with his arrows. That enraged Sugreeva then saw an iron rod on the ground.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the van of the army (camū-mukhe), he loosed dreadful arrows upon Sugrīva (sugrīve sa śarān ghorān visasarja), and rallied the terrified rākṣasas (sthāpayāmāsa codvignān rākṣasān), gladdening them (sampraharṣayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -794,6 +890,12 @@ Sugreeva; *jaghaana* = killed; *asya hayottamaan* = the excellent horses of Maho
 
 Swinging that flashing iron rod and showing it to him, Sugreeva killed the excellent
 horses of Mahodara with that iron rod of terrible speed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deeply pierced with sharp arrows (atividdhaḥ śitair bāṇaiḥ) by that rākṣasa, that lord of monkeys cried aloud in mighty wrath (cukrośa ca mahā-krodhaḥ) and set his mind upon his slaying (vadhe cāsya mano dadhe).
 </details>
 </details>
 
@@ -841,6 +943,12 @@ valiant; *mahodaraH* = mahodara; *raakShasaH* = the demon; *atha* = thereupon;
 Jumping down from that huge chariot, whose horses had been killed, that valiant
 Mahodara the demon, thereupon seized hold of a mace with anger.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, uprooting a tree (pādapam uddhṛtya), the heroic monkey, intent on battle (sampradhanaḥ), rushed forward and struck down that great elephant of his in the forefront (jaghānāsya pramukhe taṃ mahā-gajam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -881,6 +989,12 @@ battle.
 
 With a mace and an iron road respectively in their hands and roaring like two bulls
 and resembling like two clouds charged with lightning, those two heroes closed in for a battle.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck by that blow (prahārābhihataḥ) from Sugrīva, that great elephant recoiled the length of a bow (apāsarpad dhanur-mātram), sank down, and trumpeted aloud (niṣasāda nanāda ca).
 </details>
 </details>
 
@@ -927,6 +1041,12 @@ and resembling like two clouds charged with lightning, those two heroes closed i
 
 Mahodara the demon was angry with Sgureeva and thereupon hurled his blazing mace,
 which shone like the sun, on Sugreeva.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stepping clear swiftly (tūrṇam apakramya) from the crushed elephant (gajāt tu mathitāt), that valiant rākṣasa, facing the foe, advanced against the monkey (pratyudgamya tataḥ kapim)—
 </details>
 </details>
 
@@ -984,6 +1104,14 @@ Seeing that highly terrible mace, falling on him in that great battle, the might
 Sugreeva, the King of monkeys, was enraged with red eyes and struck that mace, by lifting up the
 iron rod. That iron rod broke off and fell on the ground.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** and seizing a bull-hide shield and a sword (ārṣabhaṃ carma khaḍgaṃ ca pragṛhya), swift in valor (laghu-vikramaḥ), he approached the steadfast (vyavasthitam) Sugrīva, taunting him as it were (bhartsayann iva).
+
+**22:** Incensed at him (tasyābhisaṃkruddhaḥ), Sugrīva seized a huge boulder resembling a cloud (vipulāṃ śilāṃ jaladopamām) and hurled it at Virūpākṣa (virūpākṣasya cikṣepa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1023,6 +1151,12 @@ a formidable steel club; *sarvatah hema bhuuShitam* = entirely decked with gold;
 
 Thereupon, the spirited Sugreeva took hold of a formidable steel club, entirely
 decked with gold, from the earth-surface.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that boulder hurtling toward him (tāṃ śilām āpatantīṃ dṛṣṭvā), that bull among rākṣasas (rākṣasa-puṃgavaḥ), of mighty valor, stepped aside (apakramya) and struck him then with his sword (khaḍgena prāharat tadā).
 </details>
 </details>
 
@@ -1068,6 +1202,12 @@ hurled; *gadaam* = (another) mace; *asya* = on him; *tau* = those two weapons;
 Lifting that steel club, Sugreeva hurled it. Mahodara too hurled another mace on
 him. Those two weapons, clashing each other, broke and fell on the floor.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck by the mighty rākṣasa with that blow of the sword (tena khaḍga-prahāreṇa), the monkey fell upon the ground for a moment as if unconscious (muhūrtam abhavad bhūmau visaṃjña iva vānaraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1107,6 +1247,12 @@ two warriors; *tejobala samaaviShTaa* = who were endowed with spirit and strengt
 
 As all their weapons were broken, those two warriors, who were endowed with spirit
 and strength, resembling two blazing fires, started contending with fists.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaping up suddenly (sahasā sa tadotpatya) in that great battle, he clenched his fist (muṣṭiṃ saṃvartya) and brought it down with speed upon the rākṣasa's chest (pātayāmāsa vakṣasi).
 </details>
 </details>
 
@@ -1158,6 +1304,12 @@ _________________
 Roaring again and again, those two warriors then banged each other. Slapping each
 other with their palms, they rolled on the earth's surface.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck by that blow of the fist (muṣṭi-prahārābhihataḥ), the night-roamer Virūpākṣa, enraged, with that sword at the van of the army (tena khaḍgena saṃkruddhaḥ camū-mukhe)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1203,6 +1355,12 @@ other with their palms, they rolled on the earth's surface.
 
 They raised quickly on their feet and then began to strike each other. Remaining
 unyielded, the two heroes pushed each other on their shoulders.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+struck off Sugrīva's armour (sugrīvasya kavacaṃ pātayāmāsa); struck, he fell upon his feet (padbhyām abhihato 'patat). Having fallen, that monkey sprang up (sa samutthāya patitaḥ kapiḥ) and loosed upon him (tasya vyasarjayat)—
 </details>
 </details>
 
@@ -1268,6 +1426,14 @@ along with a shield; *tatitam* = lying (there).
 In the same way, the highly swift Sugreeva the foremost of monkeys took hold of a
 large sword together with a shield, lying there.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** a blow of his palm equal to a thunderbolt (tala-prahāram aśaneḥ samānam), dreadful in its crash (bhīma-niḥsvanam). Evading (mocayitvā) through his skill (naipuṇyāt) that palm-blow raised by Sugrīva, that rākṣasa—
+
+**29:** struck him on the chest with his fist (muṣṭinorasi tāḍayat). Then Sugrīva, the lord of monkeys, grew still more enraged (tataḥ saṃkruddhataraḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1319,6 +1485,12 @@ Thereupon, those two warriors, who were skilled in the use of weaponry in the
 battle-field and whose limbs were seized with anger, galloped forward, roaring with joy, with their
 swords upraised.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and seeing his own blow evaded (mokṣitaṃ cātmano dṛṣṭvā prahāram) by that rākṣasa, that monkey watched for an opening (dadarśāntaram) in that Virūpākṣa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1365,6 +1537,12 @@ maN^Dalam* = circumambulations from left to right; *sutuurNam* = very quickly.
 With their thoughts concentrated on one point of victory, both the warriors were
 enraged with each other and performed circumambulations form left to right, very quickly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then in wrath he brought down another mighty palm-blow (anyam pātayat krodhān mahā-talam) upon his temple (śaṅkha-deśe). Struck by that palm-blow resembling Mahendra's thunderbolt (mahendrāśani-kalpena talenābhihataḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1410,6 +1588,12 @@ sword; *mahaacharmaNi* = on the heavy shield (of Sugreeva).
 
 That valiant and evil-minded Mahodara, who was boasting of his own prowess, let fall
 with very high speed, that sword on the heavy shield of Sugreeva.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Virūpākṣa fell to the earth (क्षितौ पपात) drenched in blood (rudhira-klinnaḥ), spewing forth blood (śoṇitaṃ hi samudgiran) from his orifices (srotobhyaḥ) like water from a mountain spring (jalaṃ prasravaṇād iva).
 </details>
 </details>
 
@@ -1459,6 +1643,12 @@ Even while Mahodara was extracting his sword which had got struck in the shield,
 Sugreeva severed with his own sword, Mahodara's head, which was adorned with ear-rings and
 helmet.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They beheld Virūpākṣa, his eyes rolling in wrath (vivṛtta-nayanaṃ krodhāt), bathed in foamy blood (saphenaṃ rudhirāplutam), rendered still more ‘deformed-eyed’ (virūpākṣataraṃ kṛtam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1505,6 +1695,12 @@ it; *na dR^ishyate* = could no longer be seen; *tatra* = there.
 While Mahodara, with his head chopped off, was falling on the ground, Ravana's army,
 on seeing it, could no longer be seen on the battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkeys beheld the foe convulsing (sphurantam), rolling on his side (parivartantaṃ pārśvena), drenched in blood (rudhirokṣitam), and groaning piteously (karuṇaṃ ca vinardantam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1545,6 +1741,12 @@ monkeys; *dashagriivaH* = Ravana; *chukrodha cha* = was enraged;
 Having killed Mahodara, Sugreeva made a rejoicing roar with his monkeys. Ravana was
 enraged. Rama looked rejoicing.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus those two impetuous (tarasvinau) ocean-armies (balārṇavau) of monkeys and rākṣasas, locked together in battle (saṃyati samprayuktau), roared dreadfully (sasvanatuś ca bhīmau) like two great oceans that have burst their dykes (mahārṇavau dvāv iva bhinna-setū).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1584,6 +1786,12 @@ them; *vidravanti* = ran away; *tataH* = from the battle-field.
 
 With their faces looking low-spirited all the demons felt dejected. With their minds
 stricken with fear, all of them ran away from the battle-field.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that Virūpākṣa (virūpa-netram) of mighty strength destroyed by the king of monkeys (vināśitaṃ prekṣya hari-pārthivena), the assembled host (balaṃ sametam) of monkeys and rākṣasas became like the swollen Gaṅgā (udvṛtta-gaṅgā-pratimaṃ babhūva).
 </details>
 </details>
 

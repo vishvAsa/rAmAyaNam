@@ -68,6 +68,12 @@ siitaayaaH praimaargane* = in Seetha's, questing; *[maargam* = way out]; *darsha
 On showing a concept for questing after Seetha that context-sensitive Kabandha further spoke this sentence
 which is inclusive of right concept to Rama. [3-73-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having pointed out to Rāma [the expedient] in the search for Sītā (sītāyāḥ parimārgaṇe), Kabandha, knower of purpose (arthajñaḥ), again spoke words true to their meaning (vākyam anvartham):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -95,6 +101,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीराम! इल्लिन्द पश्चिम दिक्कन्नु आश्रयिसि ई हूवुगळिन्द तुम्बिरुव मनोहर वृक्षगळु शोभिसुत्तिरुवल्लिये निमगॆ होगलु ऒळ्ळॆय सुखकर मार्गवागिदॆ.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This, O Rāma, is the auspicious path (śivaḥ panthāḥ), where these flowering, delightful trees (puṣpitā drumāḥ manoramāḥ) shine forth toward the western quarter (pratīcīṃ diśam āśritya)—
 </details>
 </details>
 
@@ -183,6 +195,16 @@ pelting stones at them, not rain,] even; *amR^ita kalpaani* = ambrosia, similar;
 "On shinning up those trees, or else, even on forcefully pelting those fruits down onto ground, then
 you may pelt over, devouring those ambrosial fruits... [3-73-5b, 6a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** —jambū, priyāla, and jackfruit trees (panasāḥ), banyans, plakṣa, and tinduka trees, aśvattha, karṇikāra, and mango trees (cūtāḥ), as well as other trees (pādapāḥ)—
+
+**4:** —dhanvana and nāga-vṛkṣa trees, tilaka and naktamālaka trees, dark aśoka (nīlāśokāḥ), kadamba, and flowering oleander trees (karavīrāś ca puṣpitāḥ)—
+
+**5:** —agnimukhya, aśoka, crimson sandalwood (suraktāḥ), and pāribhadraka trees; climbing those (tān āruhya), or else bending them down to the ground by force (bhūmau pātayitvā ca tān balāt)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -254,6 +276,14 @@ yathaa* = in Caitraratha [Kubera's grdens,] as with.
 all seasons are coeval, as they will be in Caitraratha, the celestial gardens of Kubera... [3-73-7b,
 8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** —and eating their nectar-like fruits (phalāny amṛta-kalpāni bhakṣayitvā), you two shall proceed (gamiṣyathaḥ). Passing beyond that forest of flowering trees (vanaṃ puṣpita-pādapam), O Kākutstha—
+
+**7:** —[you shall reach] another [forest] resembling Indra's Nandana garden (nandana-pratimam) and like the Northern Kurus (kuravas tūttarā iva), where trees bear fruit in every season (sarva-kāla-phalāḥ) and drip with sweet nectar (madhura-sravāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -304,6 +334,12 @@ shine; *mahaa viTapa dhaariNaH* = enormous, branches, bearing [trees]; *tatra sa
 and everywhere such trees will be shining forth like shiny clouds and shining mountains... [3-73-8b,
 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All the seasons abide there (sarve ca ṛtavas tatra), just as in Kubera's Caitraratha grove (vane caitrarathe yathā); trees bowed down with the weight of fruit (phala-bhāra-natāḥ) and bearing mighty boughs (mahā-viṭapa-dhāriṇaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -351,6 +387,12 @@ pra daasyati* = to you, verily, give [present.]
 
 "Let Lakshmana present those ambrosial fruits to you either by climbing up those trees to pluck them,
 or else by pelting them to ground, according to his convenience... [3-73-9b-10a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—shine on every side there, resembling clouds and mountains (megha-parvata-saṃnibhāḥ). Climbing them (tān āruhya), or else bending them down to the ground at ease (bhūmau pātayitvāthavā sukham)—
 </details>
 </details>
 
@@ -403,6 +445,12 @@ _________________
 "Peregrinating finest places by trekking from mountain to mountain, from forest to forest, oh, valorous
 ones, you will trek to an auspicious lotus-lake, called Pampa... [3-73-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Lakṣmaṇa will offer you fruits like ambrosia (phalāny amṛta-kalpāni). Wandering across noble mountains (caṅkramantau varān śailān), from mountain to mountain and forest to forest (śailāc chailaṃ vanād vanam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -448,6 +496,12 @@ shobhitaam* = red-lotuses, blue-lotuses, beautified with - is that Pampa Lake.
 
 "It is un-pebbly, un-slippery, un-weedy thereabouts, oh, Rama, equal are its quaysides and emersed are
 its sandbanks, red and blue lotuses beautify that Pampa Lake... [3-73-11b, 12a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—you two heroes shall then reach the lotus-lake named Pampā (puṣkariṇīṃ pampāṃ nāma), free of gravel (aśarkarām), devoid of slippery mire (avibhraṃśām), with even landing-banks (sama-tīrthām) and free from duckweed (aśaivalām)—
 </details>
 </details>
 
@@ -520,6 +574,14 @@ none kills them, and you may savour them because those birds will be best and bu
 
 Comment: A word about Rama's vegetarianism or otherwise is incorporated at endnote.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** —lined with fine sand (saṃjāta-vālūkām) and graced with pink and dark-blue lotuses (kamalotpala-śobhitām), O Rāma. There swans, waterfowl, krauñca herons, and ospreys (haṃsāḥ plavāḥ krauñcāḥ kurarāś caiva), O Rāghava—
+
+**13:** —frequenting the waters of Pampā (pampā-salila-gocarāḥ), warble with sweet voices (valgu-svarā nikūjanti); ignorant of slaughter (vadhasyākovidāḥ), those auspicious birds do not tremble upon seeing men (nodvijante narān dṛṣṭvā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -550,6 +612,14 @@ Comment: A word about Rama's vegetarianism or otherwise is incorporated at endno
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बाणगळ तुदियिन्द सिप्पॆ तॆगॆद, ऒन्दु मुळ्ळु इल्लदिरुव, बॆण्णॆयन्तॆ तिरुळु उळ्ळ स्निग्धवाद, हसियागिरुवुदन्नु बाणगळिगॆ पोणिसि बॆङ्कियल्लि बेयिसिद फल-मूलगळ भक्ष पदार्थराशि राशियागि अल्लि निमगॆ सिगुवुदु. निन्न कुरितु भक्तिभावदिन्द सम्पन्न लक्ष्मणनु निनगॆ आ भक्ष्यगळन्नु अर्पिसुवनु. नीविब्बरू आ पदार्थगळन्नु ऎत्तिकॊण्डु आ सरोवरद दप्प दप्पवाद प्रसिद्ध जलचर पक्षिगळन्नु हागू श्रेष्ठ रोहित, वक्रतुण्ड, नलमीन मुन्ताद मीनुगळिगॆ स्वल्प-स्वल्प तिन्निसिरि. अदरिन्द निमगॆ मनोरञ्जनवादीतु.॥14-15½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** You two shall eat those plump birds (sthūlāṃs tān dvijān bhakṣayiṣyathaḥ) resembling lumps of clarified butter (ghṛta-piṇḍopamān), as well as rohita, vakratuṇḍa, and nalamīna fish (rohitān vakratuṇḍāṃś ca nalamīnāṃś ca), O Rāghava.
+
+**15:** In Lake Pampā, O Rāma, choice fish (matsyān varān) struck down with arrows (iṣubhir hatān), stripped of skin and fins (nistvak-pakṣān), roasted on iron spits (ayas-taptān), plump (akṛśān), and having but a single central bone (eka-kaṇṭakān)—
 </details>
 </details>
 
@@ -628,6 +698,14 @@ be in the bunches of flowers of that lake, and which will be lotus-scented, pell
 shiny like silver and crystal, uncontaminated and that way pristine, by lifting it up that water with
 lotus leaf, making that leaf a stoup-like basin... [3-73-16b, 17, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** —Lakṣmaṇa, filled with devotion to you (tava bhaktyā samāyuktaḥ), will offer you (sampradāsyati); and as you eat those fish abundantly (bhṛśaṃ tān khādataḥ) amidst Pampā's heap of blossoms (pampāyāḥ puṣpa-saṃcaye)—
+
+**17:** —drawing up at that time (uddhṛtya tadā) auspicious, lotus-scented water (padma-gandhi śivaṃ vāri), pleasantly cool and healthful (sukha-śītam anāmayam), untroubled (akliṣṭam), and gleaming like silver and crystal (rūpya-sphaṭika-saṃnibham)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -652,6 +730,12 @@ lotus leaf, making that leaf a stoup-like basin... [3-73-16b, 17, 18a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीराम! सायङ्कालदल्लि निन्नॊन्दिगॆ विहरिसुव लक्ष्मणनु निनगॆ स्थूलकायराद वनचर वानरन्नु तॊरिसुवनु, अवु पर्वतगळ गुहॆगळल्लि मलगुत्ता इरुत्तवॆ.॥18½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Lakṣmaṇa will then give [you] to drink (pāyayiṣyati) in a lotus leaf (puṣkara-parṇena). And plump forest-ranging monkeys (sthūlān vānarān vana-cāriṇaḥ) that make their beds in mountain caves (giri-guhā-śayyān)—
 </details>
 </details>
 
@@ -697,6 +781,12 @@ wild boars]; *pampaayaam* = at Pampa; *saaya aahne* = evening, of day; *lakshmaN
 mountain caves, and who will be coming nearby the lake, greedy as they are for water, and those forest
 movers will be moving about in evening time of the day, bellowing like bulls... oh, Rama, Lakshmana
 will show them to you... [3-73-18b, 19, 20a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—roaming at eventide (sāyāhne vicaran), O Rāma, Lakṣmaṇa will point out [to you]—coming forth out of eagerness for water (apāṃ lobhād upāvṛttān) and bellowing like bulls (vṛṣabhān iva nardataḥ).
 </details>
 </details>
 
@@ -756,6 +846,12 @@ a tree having twigs. In the course of time the sense of *vR^iksha* was appropria
 Satya Vrat in 'Ramayana - A Linguistic Study' and here twigs are *upa lakshaNa* for blooms and
 then, 'trees garlanded with its own blooms and twigs...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You shall behold at Pampā those plump [creatures] that have drunk (sthūlān pītāṃś ca), O best of men (narottama); and wandering at eventide (sāyāhne vicaran), O Rāma, [beholding] bough-bearing trees crowned with garlands of blossoms (viṭapī mālya-dhāriṇaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -803,6 +899,12 @@ nakta maalakaan* = Naktamaala trees [Galedupa arborea]; *phullaani* = [fully] bl
 "Oh, Raghava, there you will see highly delightful and wide-ranging trees like Tilaka and Naktamaala,
 and fully bloomed red and blue lotuses, as well... [3-73-21b, 22a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and the auspicious water (śivodakam) at Pampā, you shall cast off your grief (dṛṣṭvā śokaṃ vihāsyasi). There tilaka and naktamālaka trees are covered with flowers (sumanobhiś citāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -848,6 +950,12 @@ na ca shiiryanti vai* = not, also, drop down, indeed.
 
 "Oh, Raghava, there is none someone to inwreathe the garlands of those flowers, and indeed, they neither
 dry up, nor drop down... [3-73-22b, 23a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and dark-blue waterlilies and pink lotuses (utpalāni ca paṅkajāni ca) are in full bloom (phullāni), O Rāghava; no man there strings or wears those garlands (na tāni kaścin mālyāni tatrāropayitā naraḥ)—
 </details>
 </details>
 
@@ -929,6 +1037,16 @@ onto ground and from them trees grew up, and they flowered unwithered flowers - 
 through the dell / From limb and brow the heat-drops fell: / Thence sprang and bloomed those wondrous
 trees: - R.T.H. Griffith
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** —nor do they ever wither (na ca vai mlānatāṃ yānti) or shed their petals (na ca śīryanti), O Rāghava. There once dwelt sages of deep concentration (ṛṣayaḥ susamāhitāḥ), the disciples of Mataṅga (mataṅga-śiṣyāḥ)—
+
+**24:** —when they were heated by their burdens (bhārābhitaptānām) as they fetched forest produce for their preceptor (vanyam āharatāṃ guroḥ), whatever drops of sweat swiftly fell to the earth from their bodies (ye prapetur mahīṃ tūrṇaṃ śarīrāt sveda-bindavaḥ)—
+
+**25:** —were transformed at that time into those garlands (tāni mālyāni jātāni) through the ascetic power of the sages (munīnāṃ tapasā tadā); sprung from drops of sweat (sveda-bindu-samutthāni), they never perish (na vinaśyanti), O Rāghava.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -998,6 +1116,14 @@ gamiSyati* = heaven, sphere of, she departs to.
 "Oh, Rama, she who always stands by probity will depart to the sphere of heaven, on attending to you,
 for you are the referent to god, and a reverent for one and all... [3-73-27]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** Even today, after their departure [to heaven] (teṣāṃ gatānām adyāpi), their female attendant (paricāriṇī), a long-lived ascetic woman (śramaṇī cira-jīvinī) named Śabarī (śabarī nāma), is to be seen there, O Kākutstha.
+
+**27:** Ever steadfast in dharma (dharme sthitā nityam), upon beholding you—who are bowed to by all beings (sarva-bhūta-namaskṛtam) and equal to a god (devopamam), O Rāma—she will depart to the celestial realm (svarga-lokaṃ gamiṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1043,6 +1169,12 @@ place of, you will see.
 
 "Oh, Rama, thereafter on your taking course to that western bank of Pampa Lake, oh, Kakutstha, there
 you will see the unequalled and arcane place of hermitage of sage Matanga... [3-73-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, O Rāma, reaching the western bank of Pampā (pampāyās tīram āśritya paścimam), you shall behold an incomparable, secluded hermitage-site (āśrama-sthānam atulaṃ guhyam), O Kākutstha.
 </details>
 </details>
 
@@ -1092,6 +1224,12 @@ _________________
 
 "Sage Matanga so methodised that woodland, where even the elephants are rendered incapable to trespass
 in that hermitage of sage Matanga disturbing its serenity... [3-73-29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Elephants cannot intrude (na tatrākramituṃ nāgāḥ śaknuvanti) into that hermitage (tad-āśrame); and through the ordinance of that sage Mataṅga (ṛṣes tasya mataṅgasya vidhānāt), that forest—
 </details>
 </details>
 
@@ -1144,6 +1282,12 @@ vishrutam* = thus, that way, renowned; *tasmin vane* = in that, forest; *nirvR^i
 "Oh, the legatee of Raghu, that woodland which in simile is like a godly forest, similar to the heavenly
 Nandana gardens, overspread with divers birds is renowned as 'Matanga woodland', and oh, Rama, you will
 take delight rejoicingly in that woodland... [3-73-30, 31a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—is renowned as ‘Mataṅga's Forest’ (mataṅga-vanam ity eva viśrutam), O delighter of the Raghus. In that forest resembling Indra's Nandana (nandana-saṃkāśe) and like a grove of the gods (devāraṇyopame vane)—
 </details>
 </details>
 
@@ -1207,6 +1351,14 @@ purposefully crafted it, as the only shelter to Sugreeva. Its flowers are ever b
 to feed Sugreeva and the other four monkeys in exile. Baby elephants are enough to keep guard for that
 mountain, then why tell about the capacity of full grown ruttish elephants. This prearrangement is owing
 to the presage of Brahma.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** —thronged with diverse birds (nānā-vihaga-saṃkīrṇe), you shall take delight, O Rāma, serene at heart (raṃsyase rāma nirvṛtaḥ). And directly in front of Pampā (pampāyāḥ purastāt) stands Mount Ṛṣyamūka with its flowering trees (ṛṣyamūkas tu puṣpita-drumaḥ)—
+
+**32:** —exceedingly difficult to scale (suduḥkhārohaṇaḥ), guarded by young serpents [or elephants] (śiśu-nāgābhirakṣitaḥ), and munificent (udāraḥ), having been fashioned in ancient times by Brahmā (brahmaṇā pūrva-kāle 'bhinirmitaḥ).
 </details>
 </details>
 
@@ -1280,6 +1432,14 @@ enam aadaaya* = while sleeping, him, on capturing; *raakSasaaH* = demons; *tatra
 "But he who is diabolic in his deportment and devilish in comportment, climbs that and hopes to sleep
 soundly, demons capture him while he is in sleep, and rough him up to death, there itself... [3-73-34]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**33:** A man who sleeps upon the summit of that mountain (śayānaḥ puruṣas tasya śailasya mūrdhani), O Rāma—whatever wealth he obtains in a dream (yat svapnaṃ labhate vittam), that he actually acquires upon waking (tat prabuddho 'dhigacchati).
+
+**34:** But if an evil-doing man of crooked conduct (viṣamācāraḥ pāpa-karmā) ascends this [mountain] (enam adhirohati), right there demons seize him while asleep and strike him down (tatraiva praharanty enaṃ suptam ādāya rākṣasāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1325,6 +1485,12 @@ Matanga, hermitage, indwellers; *shishu naagaanaam* = of baby, elephants; *mahaa
 
 "Oh, Rama, there the blaring trumpet-blasts of baby elephants that amuse themselves at Lake Pampa, and
 of those that are the indwellers of Matanga hermitage, even there on Mt. Rishyamuka are audible... [3-73-35]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even there is heard the mighty trumpeting (ākrandaḥ śrūyate mahān) of young elephants (śiśu-nāgānām) dwelling by Mataṅga's hermitage (mataṅgāśrama-vāsinām) as they sport in Lake Pampā (krīḍatāṃ pampāyām), O Rāma.
 </details>
 </details>
 
@@ -1407,6 +1573,14 @@ clear, springlike for touch, and in which all scents of flowers of that lake are
 they will be collectively re-entering the forests, for they are forest ranging elephants... [3-73-37,
 38a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** Streaked with streams of reddish ichor (saktā rudhira-dhārābhiḥ), swift, cloud-colored lordly elephants (parama-dvipāḥ megha-varṇās tarasvinaḥ), having banded together (saṃhatya), roam about dispersed in separate herds (pracaranti pṛthak-kīrṇāḥ).
+
+**37:** Having drunk there the limpid, lovely, and auspicious water (pītvā pānīyaṃ vimalaṃ cāru śobhanam), exceedingly pleasant to the touch (atyanta-sukha-saṃsparśam) and endowed with every fragrance (sarva-gandha-samanvitam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1454,6 +1628,12 @@ say gnus with black stripes]; *apetaa apajayaan* = unknown, defeat [triumphant, 
 "On your seeing the bears, also thus the tigers and even the exultant sapphire-blue Rurus with black
 stripes there, you will discard your distress... [3-73-38b, 39a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—those forest-ranging elephants, refreshed (nirvṛttāḥ vana-gocarāḥ), plunge back into the woods (saṃvigāhante vanāni). [Beholding] bears and panthers as well (ṛkṣāṃś ca dvīpinaś caiva), gleaming like soft dark sapphires (nīla-komalaka-prabhān)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1498,6 +1678,12 @@ outshines; *asyaaH praveshanam duHkham ca* = in it, entering, problematic, also.
 
 "But oh, Rama, a cavernous cave lidded with a boulder stone outshines on that mountain, and oh, Kakutstha,
 problematic is an entry into it... [3-73-39b, 40a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and beholding ruru deer approaching without fear and unconquered (rurūn apetān ajayān), you shall cast off your grief (dṛṣṭvā śokaṃ prahāsyasi). And O Rāma, on that mountain shines a vast cavern (mahatī śobhate guhā)—
 </details>
 </details>
 
@@ -1586,6 +1772,12 @@ will be there.
 peaks of that mountain, even on its bluffs and cliffs, for he is a terrified monkey..." Thus Kabandha
 informed them. [3-73-41b, 42a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—abounding in roots and fruits (bahu-mūla-phalaḥ), delightful (ramyaḥ), and thick with diverse trees (nānā-naga-samākulaḥ). In that [cavern] dwells the righteous-souled Sugrīva (vasati dharmātmā sugrīvaḥ) together with his monkeys (saha vānaraiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1637,6 +1829,12 @@ That impressive Kabandha adorned with divine garlands and abiding in sky scintil
 of the dazzle of the sun has bidden both the brothers, Rama and Lakshmana thus, awaited a bid adieu
 from them. [3-73-42b, 43a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and at times he also stays upon the summit of that mountain (śikhare tasya parvatasyāpi tiṣṭhati).” Having thus instructed those two, Rāma and Lakṣmaṇa (anuśāsyaivaṃ tāv ubhau rāma-lakṣmaṇau), Kabandha—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1683,6 +1881,12 @@ you, may go; *iti vaakyam uucatuH* = thus, sentence, said.
 
 Rama and Lakshmana who started off on their peregrination said this sentence to that highly providential
 Kabandha, who is temporising in the sky in their vicinity, thus as "you may proceed..." [3-73-43b, 44a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—adorned with garlands (sragvī), gleaming with the hue of the sun (bhāskara-varṇābhaḥ), and valorous (vīryavān), shone brightly in the sky (khe vyarocata). Approaching near (antike), those two, Rāma and Lakṣmaṇa, ready to depart (prasthitau), [addressed] that illustrious one stationed in the sky (taṃ tu khasthaṃ mahā-bhāgam)—
 </details>
 </details>
 
@@ -1731,6 +1935,14 @@ proceed; *iti tau abraviit ca* = thus, to them two, said, further.
 On getting the orders for departure from those two brothers who are highly gladdened at the information
 given by Kabandha, he that Kabandha who is ready to exit, he further said to them thus, "proceed for
 the purpose of achieving your task..." [3-73-44b, 45]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**44:** —and spoke the words, “Do you depart!” (tvaṃ vrajasveti vākyam ūcatuḥ); and he too said to them, “Proceed for the accomplishment of your purpose!” (gamyatāṃ kārya-siddhy-artham). Having taken leave of those two well-pleased princes (suprītau tāv anujñāpya), Kabandha then set forth (prasthitas tadā).
+
+**45:** Having regained that [celestial] form (tat pratipadya rūpam), encompassed by splendour (vṛtaḥ śriyā) and radiant throughout his entire body (bhāsvara-sarva-dehaḥ), that Kabandha, stationed in the sky (khasthaḥ), gazing upon Rāma and pointing out the way (nidarśayan rāmam avekṣya), spoke to him then: “Forge the friendship!” (sakhyaṃ kuruṣveti tadābhyuvāca).
 </details>
 </details>
 

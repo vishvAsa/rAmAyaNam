@@ -64,6 +64,12 @@ direction; *sudaaruNam tapaH tepe* = undertook highly rigorous ascesis.
 oh, Rama, he reached eastern quarter and undertook rigorous ascesis." Thus Sage
 Shataananda continued the legend of Vishvamitra. [1-65-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, abandoning the northern quarter of the Himālaya (haimavatīṃ diśaṃ tyaktvā), O Rāma, the great sage repaired to the eastern quarter (pūrvāṃ diśam anuprāpya) and practised the most dreadful austerity (tapas tepe sudāruṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -106,6 +112,12 @@ anuttamam* = unexcelled; *maunam* = muteness; *vratam* = vow;
 
 Committing himself to a vow of muteness, oh, Rama, he performed an unexcelled and
 unmatched ascesis which is highly impracticable for others to perform. [1-65-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Undertaking an unsurpassed vow of silence for a thousand years (maunaṃ varṣasahasrasya kṛtvā vratam anuttamam), O Rāma, he performed a peerless and supremely arduous penance (cakārāpratimaṃ tapaḥ paramaduṣkaram).
 </details>
 </details>
 
@@ -157,6 +169,12 @@ Even on completing a thousand years, even when that great-saint became woodenly,
 even many barriers are at full blast, oh, Rama, fury has not entered his heart of
 hearts, for he stood fast in an unmitigated ascesis on making a firm determination.
 [1-65-3, 4a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the thousand years were fulfilled, though that great sage—who stood motionless as a block of wood (kāṣṭhabhūtam)—was assailed by manifold obstacles (vighnair bahubhir ādhūtam), wrath found no entry into his heart (krodho nāntaram āviśat).
 </details>
 </details>
 
@@ -213,6 +231,14 @@ of food by the ascetics is called, *vaishvadevam*, since it is a sacred
 preparation *anena vaishvadeva ante samaagato atithiH svayam upoShyaapi sviiya annapradaanena
 sambhojya iti suucitam - dk*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Having formed that firm resolve (sa kṛtvā niścayam), O Rāma, he practised imperishable austerity; and when the vow of that thousand years was completed, that sage of mighty vows (mahāvrataḥ)—
+
+**5:** —prepared to partake of food at that hour of breaking his fast (bhoktum ārabdhavān annaṃ tasmin kāle), O best of the Raghus; whereupon Indra, assuming the form of a twice-born Brahmin (indro dvijātir bhūtvā), begged from him that cooked food (taṃ siddham annam ayācata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,6 +266,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग अवरु आ ऎल्ल सिद्धतॆगळिसिद भोजनवन्नु आ ब्राह्मणनिगॆ कॊडलु निश्चयिसि कॊट्टुबिट्टरु. आ अन्नदल्लि एनू उळियलिल्ल. अदक्कागि आ महातपस्वी भगवान् विश्वामित्ररु उण्णदॆ कुडियदॆ हागे इद्दुबिट्टरु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Firm in his resolve (niścitaḥ), the venerable sage of great austerity gave all that prepared food to that Brahmin (tasmai dattvā tadā siddhaṃ sarvaṃ viprāya); and when the food was wholly exhausted (niḥśeṣite ’nne), he remained without having eaten at all (abhuktvaiva).
 </details>
 </details>
 
@@ -293,6 +325,12 @@ himself. Vishvamitra did not speak a little to the Brahman in dissent as he is a
 by his pledge of muteness, and he again remained in muteness and breath-control.
 Like that, he indeed carried on his ascesis. [1-65-6, 7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Abiding in his vow of silence (maunavratam upāsthitaḥ), he spoke not a single word to the Brahmin (na kiṃcid avadad vipram); remaining just as before, he once again practised silence and suspension of breath (punar maunam anucchvāsaṃ cakāra ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,6 +381,12 @@ That eminent saint remained without respiration for another thousand years, and
 then fumes have started to emit from the head of sage who is controlling his breath,
 by which fumes the triad of worlds looked as if it is searing, and this startled
 all the worlds. [1-65-8, 9a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then for another thousand years that foremost of sages did not draw a single breath (varṣasahasraṃ ca nocchvasan munipuṃgavaḥ); and as he thus refrained from breathing, smoke issued forth from the crown of his head (tasyānucchvasamānasya mūrdhni dhūmo vyajāyata)—
 </details>
 </details>
 
@@ -399,6 +443,14 @@ ascesis of Vishvamitra, and as their own resplendence is dulled by the ascesis o
 Vishvamitra, thereby they are marred by this blemish of lowered resplendence, then
 all of them addressed the Grandparent, Brahma. [1-65-9b, 10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** —whereby the three worlds were thrown into turmoil and seemed scorched with heat (trailokyaṃ yena sambhrāntam ātāpitam ivābhavat). Thereupon the gods, sages, and Gandharvas, together with the Pannagas, Uragas, and Rākṣasas—
+
+**10:** —bewildered by his austerity (mohitās tapasā tasya), their own lustre dimmed by his fiery splendour (tejasā mandaraśmayaḥ), and stricken with dejection (kaśmalopahatāḥ sarve), spoke thus to the Grandfather Brahmā:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -439,6 +491,12 @@ transcending by ascesis.
 Even if that great-saint Vishvamitra is angered and allured in order to foil
 his ascetical ascendancy, by all of us and by all means oh, god, he is transcending
 these lures, angers, and passions by his ascesis. [1-65-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By manifold provocations, O Lord, the great sage Viśvāmitra has been enticed and provoked to wrath (bahubhiḥ kāraṇair lobhitaḥ krodhitaś caiva), yet he only grows mightier through his austerity (tapasā cābhivardhate)!
 </details>
 </details>
 
@@ -516,6 +574,14 @@ kSubhitaaH* = all, oceans, are tempestuous; *[sarve] parvataaH vishiiryante*
 All the directions are all tumultuous, all the oceans are tempestuous, and all
 the mountains are eruptive, and nothing is bright. [1-65-13b, 14a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “Not even the slightest flaw or sin is seen in him (nahy asya vṛjinaṃ kiṃcid dṛśyate sūkṣmam apy uta). If that which is desired by his heart is not granted to him (na dīyate yadi tv asya manasā yad abhīpsitam)—
+
+**13:** “—he will destroy the three worlds together with all their moving and unmoving beings by his austerity (vināśayati trailokyaṃ tapasā sacarācaram)! All the quarters are confounded in darkness (vyākulāś ca diśaḥ sarvāḥ), and nothing whatever shines forth (na ca kiṃcit prakāśate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -563,6 +629,12 @@ they do not tend to become theistic.
 The earth is highly tremulous, air is gusting turbulently, oh, Brahma, people
 tend to become non-theistic and we do not know what to do. [1-65-14b, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All the oceans are convulsed (sāgarāḥ kṣubhitāḥ sarve), the mountains are crumbling to pieces (viśīryante ca parvatāḥ), the earth trembles (prakampate ca vasudhā), and the wind blows here in violent confusion (vāyur vātīha saṃkulaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -609,6 +681,12 @@ as though stupefied; *tasya maharSeH tejasaa* = by resplendence of his grate sag
 All the beings in the triad of the worlds are very highly perturbed at their
 senses and they are as though stupefied, and when juxtaposed the sun is lustreless
 before the resplendence of that great sage. [1-65-15b, 16a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Brahmā, we know of no remedy (brahman na pratijānīmaḥ), and mankind is becoming negligent of Vedic rites as though unbelieving (nāstiko jāyate janaḥ); the three worlds seem bewildered, their minds utterly agitated (samprakṣubhitamānasam).
 </details>
 </details>
 
@@ -658,6 +736,12 @@ he is to be placated.
 Oh, God, great saint Vishvamitra turned out to be the embodiment of Fire-god,
 and before that great-resplendent and most reverential sage makes up his mind for
 total destruction of all worlds he is to be placated. [1-65-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even the sun has been rendered lustreless by the splendour of that great sage (bhāskaro niṣprabhaś caiva maharṣes tasya tejasā)! Before that great sage sets his mind upon universal destruction (buddhiṃ na kurute yāvan nāśe), O God—
 </details>
 </details>
 
@@ -709,6 +793,12 @@ now this sage may do likewise, hence whatever is his predilection that may be gi
 to him, even if he wants to become the potentate on the realm of gods.' Thus, all
 gods appealed to Brahma [1-65-17b, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—let the illustrious one of fiery form and mighty radiance be propitiated (tāvat prasādyo bhagavann agnirūpo mahādyutiḥ)! Even as the entire three worlds were formerly consumed by the fire of universal dissolution (kālāgninā yathā pūrvaṃ trailokyaṃ dahyate ’khilam), so are they burning now.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -750,6 +840,12 @@ Then all the assemblages of gods keeping the Grandparent Brahma in their forefro
 appeared before that great souled Vishvamitra and said this harmonious word. [1-65-18b,
 19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if he should desire the sovereignty of the gods (devarājyaṃ cikīrṣeta), let whatever his heart desires be granted to him (dīyatām asya yan manaḥ)!” Then all the hosts of the gods, headed by the Grandfather Brahmā (pitāmahapurogamāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -789,6 +885,12 @@ tapasaa* = by rigorous, ascesis; *braahmaNyam praaptavaan asi* = you have obtain
 
 Oh, Brahma-sage, you are welcome. We are much contented with your ascesis. Oh,
 Kaushika, you have achieved Bahaman-hood by your rigorous ascesis. [1-65-19b, 20a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—spoke these sweet words to the high-souled Viśvāmitra: “Welcome to you, O Brahmarṣi (brahmarṣe svāgataṃ te ’stu)! We have been thoroughly pleased by your austerity (tapasā sma sutoṣitāḥ).
 </details>
 </details>
 
@@ -832,6 +934,12 @@ gentle [sage]; *yathaasukham gacCha* = take leave as you please.
 Let blissfulness betide you. You be safe. Oh, gentle sage, you may take leave as
 you please.' Thus, Brahma said to Vishvamitra. [1-65-20b, 21a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through fierce austerity you have attained the state of a brāhmaṇa (brāhmaṇyaṃ tapasogreṇa prāptavān asi), O Kauśika! Accompanied by the hosts of the Maruts, O Brahmin, I bestow upon you long life as well (dīrgham āyuś ca te brahman dadāmi samarudgaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -872,6 +980,12 @@ word; *sarveSaam tridivaukasaam ca* = of all, heaven residents [words of];
 On hearing the word of Grandparent Brahma and the other residents of heaven, and
 on paying good devoirs to all of them that great saint cheerfully said. [1-65-21b,
 22a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Attain welfare (svasti prāpnuhi); may good betide you; depart at your ease, O gentle one (gaccha saumya yathāsukham)!” Hearing the speech of the Grandfather Brahmā, and bowing in salutation to all the denizens of heaven—
 </details>
 </details>
 
@@ -951,6 +1065,16 @@ shall acknowledge me in this way as Brahma-sage. Oh, the best gods, you may take
 leave if you can effectuate this ultimate yearning of mine.' Thus Vishvamitra requested
 the gods. [1-65-23b, 24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** —the great sage, filled with joy (muditaḥ), spoke forth: “If Brahminhood has indeed been attained by me (brāhmaṇyaṃ yadi me prāptam), and long life as well (dīrgham āyus tathaiva ca)—
+
+**23:** “—then let the sacred syllable Oṃ, the ritual call Vaṣaṭ, and the Vedas themselves embrace me (oṃkāro ’tha vaṣaṭkāro vedāś ca varayantu mām)! And let him who is foremost among the knowers of the Kṣatraveda and of the Brahmaveda as well (kṣatravedavidāṃ śreṣṭho brahmavedavidām api)—
+
+**24:** “—Vasiṣṭha, the son of Brahmā, himself declare me thus (brahmaputro vasiṣṭho mām evaṃ vadatu), O gods! If this supreme desire of mine is fulfilled (yady evaṃ paramaḥ kāmaḥ kṛtaḥ), then let the foremost of the gods depart.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -992,6 +1116,12 @@ come to Vishvamitra]; *sakhyam cakaara* = made friendship; *evam*
 Then the best one among meditators Vashishta has come over there when the gods
 besought him to come, and he made friendship with Vishvamitra. He also said in this
 way to Vishvamitra, 'you are a Brahma-sage.' [1-65-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, propitiated by the gods, the Brahmarṣi Vasiṣṭha, foremost of mutterers of sacred prayers (japatāṃ varaḥ), entered into friendship with him (sakhyaṃ cakāra) and said: “So be it (evam astu)!
 </details>
 </details>
 
@@ -1038,6 +1168,12 @@ they have come.
 with the sublimity of this sageship,' and when Vashishta said so to Vishvamitra,
 all the gods have gone away as they have come. [1-65-26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are a Brahmarṣi, of this there is no doubt (brahmarṣis tvaṃ na saṃdehaḥ); everything that pertains to Brahminhood is fulfilled for you (sarvaṃ sampadyate tava)!” Having spoken thus, Vasiṣṭha and all the deities departed just as they had come (sarvā jagmur yathāgatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1078,6 +1214,12 @@ Vashishta; *puujayaamaasa* = started to reverence.
 On getting his Brahman-hood even the virtue-souled Vishvamitra started to reverence
 the supreme among meditators and his counterpart Brahma-sage, namely Vashishta.
 [1-65-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having attained supreme Brahminhood (labdhvā brāhmaṇyam uttamam), the righteous-souled Viśvāmitra, too, worshipped the Brahmarṣi Vasiṣṭha, foremost of mutterers of prayers (pūjayām āsa brahmarṣiṃ vasiṣṭhaṃ japatāṃ varam).
 </details>
 </details>
 
@@ -1120,6 +1262,12 @@ one; *anena* = by him; *evam* = in this way; *braahmaNyam praaptam*
 When his aim is effectuated Vishvamitra ambled all over the earth abiding in ascesis,
 and oh, Rama, this great souled sage Vishvamitra achieved Brahman-hood in this way.
 [1-65-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his desire fulfilled (kṛtakāmaḥ), he roamed over the entire earth, steadfast in austerity (mahīṃ sarvāṃ cacāra tapasi sthitaḥ). Thus, O Rāma, was Brahminhood attained by this great-souled sage (evaṃ tv anena brāhmaṇyaṃ prāptaṃ rāma mahātmanā)!
 </details>
 </details>
 
@@ -1167,6 +1315,12 @@ paraayaNam* = he is, dwelling house stonghold for fortitude.
 "Oh, Rama, he is the best saint, he is the embodiment of ascesis, he is always obliged
 with righteousness, and he is the stronghold for fortitude." [1-65-29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This, O Rāma, is the foremost of sages (eṣa rāma muniśreṣṭhaḥ); this is austerity incarnate in bodily form (eṣa vigrahavāṃs tapaḥ)! He is ever supreme dharma (eṣa dharmaḥ paro nityam), and he is the ultimate abode of spiritual might (vīryasyaiṣa parāyaṇam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1212,6 +1366,12 @@ On narrating the legend of Vishvamitra in this way that best Brahman and great-r
 Sage Shataananda took respite. And on listening the narration of Sage Shataananda
 said in the presence of Rama and Lakshmana, king Janaka said this sentence to Kushika's
 son, Vishvamitra, with suppliantly adjoined palms. [1-65-30b, 31a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, that foremost of the twice-born (Śatānanda) of great splendour fell silent (virarāma dvijottamaḥ). Hearing the speech of Śatānanda in the presence of Rāma and Lakṣmaṇa (rāmalakṣmaṇasaṃnidhau)—
 </details>
 </details>
 
@@ -1277,6 +1437,14 @@ bahuvidhaaH guNaaH praaptaaH* = many kinds, of attributes [boons,] achieved
 Oh, Brahman, I stand consecrated just by your graceful glance, and oh, great saint,
 I reckon that I have achieved many boons just glancing at you. [1-65-32b, 33a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** —Janaka, with folded hands (prāñjaliḥ), spoke these words to the son of Kuśika: “Blessed am I, favoured by grace am I (dhanyo ’smy anugṛhīto ’smi), O foremost of sages, unto whose—
+
+**32:** “—sacrifice you have come accompanied by the two scions of Kakutstha (yajñaṃ kākutsthasahitaḥ prāptavān asi), O Kauśika! I have been sanctified by you through your very sight (pāvito ’haṃ tvayā brahman darśanena), O great sage.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1327,6 +1495,14 @@ Oh, great-resplendent Brahman, myself and the noble souled Rama have heard about
 your great ascesis when Sage Shataananda extolled it comprehensively. [1-65-33b,
 34a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**33:** “Manifold spiritual merits and blessings have been gained by me through beholding you (guṇā bahuvidhāḥ prāptās tava saṃdarśanān mayā); and as your mighty austerity was being recounted at length, O Brahmin (vistareṇa ca vai brahman kīrtyamānaṃ mahat tapaḥ)—
+
+**34:** “—it has been heard by me and by the high-souled Rāma (śrutaṃ mayā mahātejo rāmeṇa ca mahātmanā), O sage of great splendour; and the priests and assessors, having assembled in the sacrificial hall, have likewise heard your manifold virtues (sadasyaiḥ prāpya ca sadaḥ śrutās te bahavo guṇāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1370,6 +1546,12 @@ The congregationalists available in this Vedic-ritual congregation have also hea
 about your numerous endowments. Inestimable is your ascesis, infinite is your power,
 and oh, son of Kushika, your talents are everlastingly invaluable. [1-65-34b, 35]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Immeasurable is your austerity (aprameyaṃ tapas tubhyam), immeasurable too is your power (aprameyaṃ ca te balam), and immeasurable ever are your virtues, O son of Kuśika (aprameyā guṇāś caiva nityaṃ te kuśikātmaja)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1412,6 +1594,12 @@ Oh, lord, there is no contentment to me while listening to your wondrous narrati
 but oh nobleman, time for vespertine ritual is fast approaching as sun's sphere
 is dangling westward. [1-65-36]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There is no satiety for me in listening to your wondrous narratives (tṛptir āścaryabhūtānāṃ kathānāṃ nāsti me), O mighty lord! Yet the hour for ritual duties has arrived, O foremost of sages, and the orb of the sun is declining toward the west (karmakālo muniśreṣṭha lambate ravimaṇḍalam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1452,6 +1640,12 @@ you are welcome; *maam anuj~naatum arhasi* = apt of you to permit me [to leave].
 "Oh, great-resplendent sage, it will be apt of you to see me tomorrow. Oh, best
 meditator, it will be apt of you to permit me to leave for now." Thus Janaka sought
 leave from Vishvamitra. [1-65-37]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tomorrow at dawn, O sage of mighty splendour, deign to grant me your sight again (śvaḥ prabhāte mahātejo draṣṭum arhasi māṃ punaḥ)! Hail to your auspicious arrival, O foremost of mutterers of prayers; deign to grant me leave to depart (mām anujñātum arhasi).”
 </details>
 </details>
 
@@ -1501,6 +1695,12 @@ When he is spoken in that way, the best saint Vishvamitra is pleased at heart, a
 praising Janaka, who too is pleased to meet the sage, immediately bid farewell to
 the best one among men, namely Janaka. [1-65-38]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, that best of sages, well pleased in heart (prītamanāḥ), praised that bull among men and swiftly gave leave to the delighted Janaka (visasarjāśu janakaṃ prītam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1541,6 +1741,12 @@ king; *munishreSTham evam uktvaa* = on saying this way to the best saint
 This way on saying to the best saint, the king of Mithila and the legatee of Videha
 lineage, immediately performed circumambulations along with his teachers and relatives
 to Vishvamitra in veneration. [1-65-39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to the foremost of sages, Vaideha, the lord of Mithilā, swiftly circumambulated him in reverence (pradakṣiṇaṃ cakārāśu), accompanied by his preceptor and his kinsmen (sopādhyāyaḥ sabāndhavaḥ).
 </details>
 </details>
 
@@ -1602,6 +1808,12 @@ and Lakshmana, while being venerated by great sages who are available in the rit
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि अरवत्तैदनॆय सर्ग पूर्णवायितु. ॥65॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The righteous-souled Viśvāmitra, too, accompanied by Rāma and Lakṣmaṇa (saharāmaḥ salakṣmaṇaḥ), repaired to his own quarters (svavāsam abhicakrāma), honoured by the high-souled sages (pūjyamāno mahātmabhiḥ).
 </details>
 </details>
 

@@ -83,6 +83,12 @@ Then, on staying that night there in Tataka forest, on the next day
  morning the greatly renowned sage Vishvamitra, smilingly and wording
  sweetly spoke to Rama. [1-27-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having passed that night there (atha tāṃ rajanīm uṣya), Viśvāmitra of mighty renown smiled with delight (prahasya) and spoke to Rāghava in a sweet and melodious voice (vākyam uvāca madhurasvaram):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +129,12 @@ Then, on staying that night there in Tataka forest, on the next day
 "I am highly pleased with you, oh, illustrious prince Rama, let safety
  be with you, I will now give you all of the divine missiles in utmost
  fondness of mine. [1-27-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am thoroughly gratified; may auspiciousness attend you, O prince of mighty renown (parituṣṭo ’smi bhadraṃ te rājaputra mahāyaśaḥ)! Filled with supreme affection, I bestow upon you all the divine missiles in their entirety (prītyā paramayā yukto dadāmy astrāṇi sarvaśaḥ).
 </details>
 </details>
 
@@ -178,6 +190,12 @@ Then, on staying that night there in Tataka forest, on the next day
  earthlings are dominated, humbled down and conquered in war. Let safety
  be with you. [1-27-3, 4a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By means of which you shall forcibly overpower and vanquish in battle all your foes upon the earth—even the hosts of gods and Asuras, together with the Gandharvas and Uragas (devāsuragaṇān vāpi sagandharvoragān bhuvi yair amitrān prasahyājau vaśīkṛtya jayiṣyasi)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -211,6 +229,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! निनगॆ मङ्गळवागलि. इन्दु नानु निनगॆ अवॆल्ल अस्त्रगळन्नु कॊडुत्ता इद्देनॆ. वीरने! नानु निनगॆ दिव्य हागू महान् दण्डचक्र, धर्मचक्र, कालचक्र, विष्णुचक्र, हागू अत्यन्त भयङ्कर ऐन्द्रचक्र कॊडुवॆनु.॥4-5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** All those celestial missiles in their entirety I bestow upon you; may welfare be yours (tāni divyāni bhadraṃ te dadāmy astrāṇi sarvaśaḥ)! First, O Rāghava, I shall give you the mighty and divine Daṇḍacakra discus (daṇḍacakraṃ mahad divyaṃ tava dāsyāmi rāghava);
+
+**5:** Next, O hero, the Dharmacakra discus of righteousness, and likewise the Kālacakra discus of Time (dharmacakraṃ tato vīra kālacakraṃ tathaiva ca); so too the fiercely terrible Viṣṇucakra discus of Viṣṇu, and the Aindracakra discus of Indra as well (viṣṇucakraṃ tathātyugram aindraṃ cakraṃ tathaiva ca);
 </details>
 </details>
 
@@ -278,6 +304,12 @@ _________________
  will become a projectile weapon. Rama uses on Kakasura. In Mahaa Bharata
  Ashvatthaama also uses this at the final stage of war, which Krishna
  nullifies.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The thunderbolt missile Vajra, O best of men, and likewise Śiva’s peerless trident missile (vajram astraṃ naraśreṣṭha śaivaṃ śūlavaraṃ tathā); the Brahmaśiras missile, and the Aiṣīka reed-missile as well, O Rāghava (astraṃ brahmaśiraś caiva aiṣīkam api rāghava).
 </details>
 </details>
 
@@ -349,6 +381,14 @@ _________________
  god's noose] as well as an unequalled missile called Varuna astra, Rain-god's
  missile. [1-27-8b, 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** I give to you, O mighty-armed prince, the unsurpassed Brāhma missile (dadāmi te mahābāho brāhmam astram anuttamam); and also the two auspicious maces, O Kākutstha, named Modakī and Śikharī (gade dve caiva kākutstha modakīśikharī śubhe)—
+
+**8:** Blazing with radiance, O tiger among men, I bestow upon you, O king’s son (pradīpte naraśārdūla prayacchāmi nṛpātmaja); the noose of Dharma, O Rāma, and likewise the noose of Time (dharmapāśam ahaṃ rāma kālapāśaṃ tathaiva ca);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -391,6 +431,12 @@ _________________
  shushka [The Drier] and the other aardra [The Drencher] and even
  the missiles of Pinaaka and that of Narayana, [the missiles of god Shiva
  and Narayana] I will give. [1-27-9b, 10a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the unsurpassed noose and missile of Varuṇa I give to you (vāruṇaṃ pāśam astraṃ ca dadāny aham anuttamam); I also bestow the two thunderbolts, the Dry (Śuṣkā) and the Wet (Ārdrā), O delighter of Raghu’s race (aśanī dve prayacchāmi śuṣkārdre raghunandana).
 </details>
 </details>
 
@@ -438,6 +484,12 @@ _________________
  and another the fond of Fire-god known as prathama [The Blower] and
  a missile of Air-god too, I will be giving. [1-27-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I give you also Śiva’s Paināka missile and likewise Viṣṇu’s Nārāyaṇa missile (dadāmi cāstraṃ painākam astraṃ nārāyaṇaṃ tathā); and Agni’s beloved fiery missile named Śikhara by name (āgneyam astraṃ dayitaṃ śikharaṃ nāma nāmataḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -480,6 +532,12 @@ _________________
  [The Horse-head] and Krouncha [The Wrester] and two Impellers, one
  presided over by the power of Vishnu, and the other by the power of
  Rudra. [1-27-11b, 12a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vāyu’s wind-missile named Prathama I give to you as well, O sinless one (vāyavyaṃ prathamaṃ nāma dadāmi tava cānagha); the missile named Hayaśiras (the Horse-Headed), and likewise the Krauñca missile (astraṃ hayaśiro nāma krauñcam astraṃ tathaiva ca);
 </details>
 </details>
 
@@ -527,6 +585,12 @@ _________________
  the deadly Pounder named Kankaalam, and Rods named as Kapaalam and Kankanam,
  for the elimination of those very demons. [1-27-12b, 13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the pair of Śakti javelins, O Kākutstha, I give to you, O Rāghava (śaktidvayaṃ ca kākutstha dadāmi tava rāghava); and the dreadful Kaṅkāla, the Musala pestle, the Kāpāla skull-weapon, and the bell-ringed Kiṅkiṇī (kaṅkālaṃ musalaṃ ghoraṃ kāpālam atha kiṅkiṇīm)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -568,6 +632,12 @@ _________________
 "Oh, mighty armed son of the best king, I am giving a great missile
  named Vaidyadhara by its name, and a gem of sword named Nandana. [1-27-13b,
  14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All these weapons for the slaying of rākṣasas I bestow upon you in their entirety (vadhārthaṃ rakṣasāṃ yāni dadāmy etāni sarvaśaḥ); and the great Vidyādhara missile named Nandana by name (vaidyādharaṃ mahāstraṃ ca nandanaṃ nāma nāmataḥ)—
 </details>
 </details>
 
@@ -611,6 +681,12 @@ _________________
  [The Stupefier,] the missile called Prasvapana [The Inducer of Sleep,]
  and the gentle Prashamana [The Pacifier of enemy's anger.] [1-27-14b,
  15a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That gem among swords, O mighty-armed son of the best of kings, I give to you (asiratnaṃ mahābāho dadāmi nṛvarātmaja); and the beloved Gandharva missile named Mohana (the Stupefier) by name (gāndharvam astraṃ dayitaṃ mohanaṃ nāma nāmataḥ);
 </details>
 </details>
 
@@ -677,6 +753,16 @@ _________________
  missile,] and oh, tigerly man, a missile dear one to pishaaca-s, monsters,
  namely paishaca [The Monster missile.] [1-27-15, 16, 17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** The sleep-inducing Prasvāpana, the wrath-quelling Praśamana, and the gentle Saumya missile I give to you, O Rāghava (prasvāpanaṃ praśamanaṃ dadmi saumyaṃ ca rāghava); the rain-pouring Varṣaṇa, the parching Śoṣaṇa, and the scorching Saṃtāpana and weeping-inducing Vilāpana (varṣaṇaṃ śoṣaṇaṃ caiva saṃtāpanavilāpane);
+
+**16:** The unassailable Mādana missile, beloved of Kandarpa (Kāmadeva), as well (mādanaṃ caiva durdharṣaṃ kandarpadayitaṃ tathā); and the beloved Gandharva missile named Mānava by name (gāndharvam astraṃ dayitaṃ mānavaṃ nāma nāmataḥ);
+
+**17:** And the beloved Paiśāca missile named Mohana by name (paiśācam astraṃ dayitaṃ mohanaṃ nāma nāmataḥ)—do you receive these, O tiger among men, O royal prince of mighty renown (pratīccha naraśārdūla rājaputra mahāyaśaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -705,6 +791,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरश्रेष्ठ राजन पुत्र, महाबाहु राम! तामस, महाबलि, सौमन, संवर्त, दुर्जय, नौसल, सत्य, मत्तु मायामय उत्तम अस्त्रवन्नु निनगॆ अर्पिसुत्तिद्देनॆ. शत्रुविन तेजवन्नु नाश माडुवन्तह तेजःप्रभ ऎम्ब अस्त्रवन्नु निनगॆ अर्पिसुत्तिद्देनॆ.॥18-19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** And the darkness-shrouding Tāmasa, O tiger among men, and the Saumana missile of mighty potency (tāmasaṃ naraśārdūla saumanaṃ ca mahābalam); the unassailable world-dissolving Saṃvarta, and the Mausala missile as well, O king’s son (saṃvartaṃ caiva durdharṣaṃ mausalaṃ ca nṛpātmaja);
+
+**19:** The infallible Satya missile of truth, O mighty-armed one, and the supreme illusion-wielding Māyāmaya (satyam astraṃ mahābāho tathā māyāmayaṃ param); and the solar missile named Tejaḥprabha, which strips away the splendor and vigor of foes (sauraṃ tejaḥprabhaṃ nāma paratejo ’pakarṣaṇam);
 </details>
 </details>
 
@@ -763,6 +857,12 @@ _________________
  namely shita-iSu, these and the maanava missile of Manu, the earliest
  ruler of mankind, I will be giving. [1-27-17b, 18, 19, 20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Soma’s lunar missile named Śiśira (the Cool), and Tvaṣṭṛ’s most dreadful missile (somāstraṃ śiśiraṃ nāma tvāṣṭram astraṃ sudāruṇam); the fierce missile of Bhaga as well, and Manu’s missile Śīteṣu (dāruṇaṃ ca bhagasyāpi śīteṣum atha mānavam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -807,6 +907,12 @@ _________________
 "These missiles are, oh, dextrous prince, disguise-wizards, greatly
  powered, and highly providential ones, oh, Rama, you may take them forthwith."
  So said sage Vishvamitra to Rama. [1-27-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Do you swiftly accept these personified missiles, O mighty-armed Rāma, O king’s son, who can assume any form at will, who are of immense strength, and who are supremely munificent in granting victory (etān rāma mahābāho kāmarūpān mahābalān gṛhāṇa paramodārān kṣipram eva nṛpātmaja)!”
 </details>
 </details>
 
@@ -858,6 +964,12 @@ That pre-eminent sage Vishvamitra on performing his personal holy depuration
  then gave the assortment of extraordinary hymns to Rama facing eastward.
  [1-27-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing facing the east in ritual purity (sthitas tu prāṅmukho bhūtvā śuciḥ), that best of sages then, supremely delighted, imparted to Rāma the unsurpassed collection of mantras (dadau rāmāya suprīto mantragrāmam anuttamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -900,6 +1012,12 @@ That pre-eminent sage Vishvamitra on performing his personal holy depuration
 The comprehension of which invoking hymns of the missiles is impossible
  even to gods with their sections and subsections of procedures, that
  Brahman dedicated such hymns to Raghava. [1-27-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All those divine missiles, the complete simultaneous mastery of which is hard to attain even for the gods (sarvasaṃgrahaṇaṃ yeṣāṃ daivatair api durlabham), the Brāhmaṇa sage then bestowed upon Rāghava (tāny astrāṇi tadā vipro rāghavāya nyavedayat).
 </details>
 </details>
 
@@ -977,6 +1095,14 @@ All of those highly obliging missiles in astral bodies, gladdening to
  to do, let safety be with you." So said the deities presiding over the
  missiles to Rama. [1-27-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** And as that wise sage Viśvāmitra softly recited their invocatory mantras (japatas tu munes tasya viśvāmitrasya dhīmataḥ), all those supremely venerated missiles presented themselves in person before Rāghava (upatasthur mahārhāṇi sarvāṇy astrāṇi rāghavam).
+
+**25:** Joining their palms in reverence, all those personified missiles joyfully addressed Rāma then (ūcuś ca muditā rāmaṃ sarve prāñjalayas tadā): “Here we stand, O supremely munificent Rāghava, as your obedient servants (ime ca paramodāra kiṃkarās tava rāghava)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1003,6 +1129,14 @@ All of those highly obliging missiles in astral bodies, gladdening to
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ महा प्रभावशालि अस्त्रगळू हीगॆ हेळिदाग श्रीरामचन्द्रनु सन्तोषगॊण्डु अवन्नु परिग्रहिसि, कैयिन्द अवन्नु स्पर्शिसि - ‘नीवॆल्ल नन्न मनस्सिनल्लि वासिसिरि’ ऎन्दु हेळिदनु.॥26-27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** Whatever you desire, may auspiciousness attend you, all that we shall surely accomplish (yad yad icchasi bhadraṃ te tat sarvaṃ karavāma vai)!” Addressed thus by those mighty missiles, Rāma, serene in soul (tato rāmaḥ prasannātmā tair ity ukto mahābalaiḥ)—
+
+**27:** Accepted their allegiance and, gently touching them with his hand (pratigṛhya ca kākutsthaḥ samālabhya ca pāṇinā), commanded them: “You shall present yourselves to me whenever summoned by my thought (manasā me bhaviṣyadhvam iti tāny abhyacodayat)!”
 </details>
 </details>
 
@@ -1054,6 +1188,12 @@ That highly resplendent Rama revered sage Vishvamitra with a thankful
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तेळनॆय सर्ग पूर्णवायितु. ॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma of mighty splendor, delighted at heart, bowed in reverence to the great sage Viśvāmitra and set forth upon his journey (tataḥ prītamanā rāmo viśvāmitraṃ mahāmunim abhivādya mahātejā gamanāyopacakrame).
 </details>
 </details>
 

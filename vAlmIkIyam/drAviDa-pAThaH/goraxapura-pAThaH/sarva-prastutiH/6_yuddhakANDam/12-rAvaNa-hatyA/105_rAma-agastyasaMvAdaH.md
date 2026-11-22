@@ -100,6 +100,14 @@ by the fight, and seeing Ravana who came nearby, facing him duly prepared for th
 glorious sage, Agastya, who had come together with the gods, to perceive the battle, then spoke as
 foolows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Severely tormented then by that Kākutstha out of wrath, Rāvaṇa, who gloried in battle (samara-ślāghī), fell into a towering rage (mahā-krodham).
+
+**2:** With eyes blazing from indignation (amarṣāt), that valorous warrior raised his bow and, fiercely enraged, assailed Rāghava in the supreme combat (paramāhave).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,6 +147,12 @@ foolows:
 
 "O Rama, the mighty armed! Hear the following eternal secret, by which you can
 conquer all the enemies in battle, my child!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With thousands of arrow-torrents (bāṇa-dhārā-sahasraiḥ), like a rain-cloud pouring down from the sky, Rāvaṇa deluged Rāghava with shafts as though filling a reservoir (taṭākam iva).
 </details>
 </details>
 
@@ -197,6 +211,14 @@ blessings; *sarva paapa praNaashanam* = root out all sins; *chintaa shoka
 prashamanam* = allay all anxiety and grief; *uttamam* = excellent;
 *aayurvardhanam* = and prolong life.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Though inundated by that net of arrows (śara-jālena) discharged from the bow in battle, Kākutstha, unshakable as a great mountain (mahā-girir ivākampyaḥ), did not tremble at all.
+
+**5:** Standing firm in battle and warding off those nets of arrows with his own shafts, the valorous hero absorbed them as though receiving the rays of the sun (gabhastīn iva sūryasya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +260,12 @@ and brings light to the world.
 "Worship the sun-god, the ruler of the worlds, who is crowned with the rays, who
 appears at the horizon, who is greeted by the gods and the demons alike, shines forth; covering up
 all other lights and brings light to the world."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the swift-handed (kṣipra-hastaḥ) night-stalker, enraged, struck thousands of arrows upon the chest of the high-souled Rāghava.
 </details>
 </details>
 
@@ -287,6 +315,12 @@ and demons; *lokaan* = as well as their worlds; (by his rays).
 
 "He is the embodiment of all gods, full of glory and the reflector of rays. He
 protects the multitude of gods and demons as well as their worlds by his rays."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Besmeared all over with blood (śoṇita-samādigdhaḥ) in battle, the elder brother of Lakṣmaṇa appeared like a mighty kiṃśuka tree (kiṃśuka-drumaḥ) in full crimson blossom in the forest.
 </details>
 </details>
 
@@ -357,6 +391,14 @@ light.
 physicians of gods, the fortymine Maruts (wind-gods), Manu (a progenitor of the human race), Vayu
 the wind-god, the fire-god, the created beings, the life-breath of the universe, the source of teh
 seasons and the store-house of light."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Incensed by the impact of those arrows (śarābhighāta-saṃrabdhaḥ), Kākutstha of supremely great splendor seized shafts that shone with the radiance of the doomsday sun (yugāntāditya-varcasaḥ).
+
+**9:** Then in that battle darkened by arrows (śarāndhakāre samare), both Rāma and Rāvaṇa, fiercely enraged, could not discern (nopalakṣayatām) each other at that time.
 </details>
 </details>
 
@@ -520,6 +562,22 @@ twelve forms (in the shape of twelve months in a year); *te namaH astu* = hail t
 and the resplendent among the splendid. O god, appearing in twelve forms (in the shape of twelve
 months in a year), hail to you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** Then, filled with wrath, the heroic Rāma, son of Daśaratha, laughed aloud (prahasya) and spoke harsh words (paruṣaṃ vacaḥ) to Rāvaṇa:
+
+**11:** “Because my helpless wife (vivaśā) was abducted by you from Janasthāna out of ignorance (ajñānāt), O vilest of rākṣasas (rākṣasādhama), therefore you are no man of valor!
+
+**12:** Having forcibly (prasabham) carried off Vaidehī when she was parted from me and dwelling distressed in the great forest, you fancy to yourself, ‘I am a hero (śūro 'ham)!’
+
+**13:** O hero only among protectorless women (strīṣu śūra vināthāsu), having committed the cowardly deed (kāpuruṣaṃ karma) of laying hands on another’s wife (para-dārābhimarśanam), do you fancy, ‘I am a hero’?
+
+**14:** O shameless transgressor of moral bounds (bhinna-maryāda), unsteady in righteous conduct (cāritreṣv anavasthita), having invited your own death out of arrogance (darpāt), do you fancy, ‘I am a hero’?
+
+**15:** By you—a ‘hero,’ the brother of Kubera (dhanada-bhrātrā), and endowed with mighty forces—what a praiseworthy (ślāghanīyam), great, and glorious deed has been performed!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -559,6 +617,12 @@ eastern mountain namaH = and hail; *pashchimaaya adraye* = to the western mounta
 
 "Hail to you in the form of eastern mountain and hail to the western mountain. Hail
 to the lord of host of luminaries and hail to the lord of the day."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reap now today the tremendous fruit (sumahat phalam) of that reprehensible (garhitasya) and ruinous action undertaken out of haughtiness (utsekena)!
 </details>
 </details>
 
@@ -607,6 +671,12 @@ rays!; *namaH namaH aadityaaya* = hail; hail to you the son of Aditi!
 you, the god with green horses, hail to you, having thousands of rays! Hail, hail to you the son of
 Aditi!
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Evil-minded one (durmate), you regard yourself thinking, ‘I am a hero,’ yet you have no shame at all in dragging Sītā away like a thief (cauravad vyapakarṣataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -646,6 +716,12 @@ lotus!; *te namaH tu prachaN^Daaya* = hail to you the furious one!
 
 "Hail to you, the fierce one, hail to you the valiant one! Hail to you, the one with
 variegated colours! Hail to you, the awakener of the louts, hail to you, the furious one!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Had Sītā been forcibly violated by you in my presence (mat-saṃnidhau), then, slain by my shafts, you would have gone to see your brother Khara!”
 </details>
 </details>
 
@@ -695,6 +771,12 @@ appearing in teh form of Rudra.
 sun-god, the light indwelling the solar orb, the resplendent one, the devourer of all, appearing in
 form of Rudra."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By good fortune (diṣṭyā), O dull-witted one (mandātman), you have come within range of my sight (cakṣur-viṣayam); today with sharp shafts I shall dispatch you to the abode of Yama!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -743,6 +825,12 @@ the ruler of all lights.
 foes, the one whose extent in immeasurable, the destroyer of the ungrateful, the god, who is the
 ruler of all lights."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today let carrion-eaters (kravyādāḥ) drag about your head with its blazing earrings (jvalita-kuṇḍalam), severed by my arrows and strewn in the dust of the battlefield!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -784,6 +872,12 @@ world!
 "Hail to you, possessing the lustre of refined gold, the dispeller of ignorance, the
 architect of the universe, the uprooter of darkness, the splendour incarnate, the onlooker of the
 world!'"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swooping down upon your chest as you lie hurled upon the ground, O Rāvaṇa, let vultures (gṛdhrāḥ) drink in their thirst (tarṣāt) the blood welling up from the openings torn by my arrow-barbs (bāṇa-śalyāntarotthitam)!
 </details>
 </details>
 
@@ -831,6 +925,12 @@ rays; *eShaH* = He; *varShati* = sends the rain.
 "This sun, the lord alone destroys and brings into existence all the brings. He
 radiates heat by his rays. He sends the rain."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today, as you lie fallen and lifeless (gatāsoḥ), pierced by my arrows, let birds of prey drag out your entrails (antrāṇi) as eagles (garutmantaḥ) drag serpents!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -870,6 +970,12 @@ cha* = and the fruit; *agnihotriNaam* = attained by those who pour such oblation
 
 "Planted in all created beings, he remains awake, when they have fallen asleep. He
 alone is the oblation to the fire-god and the fruit attained by those who pour such oblations."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, the heroic Rāma, destroyer of foes (śatru-nibarhaṇaḥ), covered the lord of rākṣasas standing nearby with showers of arrows (śara-varṣaiḥ).
 </details>
 </details>
 
@@ -916,6 +1022,12 @@ competent one; *kR^ityaami* = of all activities; *yaani* = which are found;
 sacrifices. He is a supremely competent one of all activities, which are found in all the
 worlds."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma desired the destruction of his foe (śatror nidhana-kāṅkṣiṇaḥ) in battle, his valor, strength, joy, and the power of his celestial missiles (astra-balam) became twofold (dviguṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -955,6 +1067,12 @@ distresses; *kR^ichchheShu* = in difficulties; *kaantaareShu* = in the wood;
 
 "O Rama! No individual glorifying this sun-god, in distresses in difficulties; in
 the woods or in times of peril, comes to grief."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All the celestial missiles manifested themselves (prādurbabhūvuḥ) before that knower of the Self (viditātmanaḥ), and out of exultation that hero of great splendor became even swifter of hand (śīghra-hastataraḥ).
 </details>
 </details>
 
@@ -1007,6 +1125,12 @@ praise; *triguNetam* = three times; *vijayiShyasi* = you will come out victoriou
 undivided attention. Muttering this praise three times, you will come out victorious in
 battles."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing these auspicious signs (śubhāny etāni cihnāni) within himself, Rāma, the ender of rākṣasas, tormented Rāvaṇa all the more (bhūya eva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1053,6 +1177,12 @@ he had come.
 
 "You will be able to kill Ravana at this very moment, O mighty armed one!" Saying
 so, the sage, Agastya, thereupon, left as in the same way as he had come.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Battered by the masses of rocks (aśma-nikaraiḥ) from the monkeys and by the showers of arrows from Rāghava, the ten-necked demon grew dizzy at heart (vighūrṇa-hṛdayaḥ).
 </details>
 </details>
 
@@ -1132,6 +1262,16 @@ and repeating this prayer, the valiant Rama obtained a great rejoice. Seizing ho
 seeing Ravana, Rama felt delighted in mind and marched forward for the fight. He stood voed to kill
 Ravana, with an intense and all-sided effort.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** And when, with his inner spirit faltering (viklavenāntarātmanā), he neither reached for a weapon nor drew his bow (śarāsanam), nor countered Rāma’s valor with his own,
+
+**29:** and the arrows and manifold weapons swiftly hurled by him served only for his own destruction (maraṇārthāya vartante) as the hour of death drew near (mṛtyu-kālo 'bhyavartata),
+
+**30:** then his charioteer (sūtaḥ), the driver of his car, beholding him in that condition, calmly (asambhrāntaḥ) and slowly guided his chariot away from the battle (yuddhād ... apavāhayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1189,5 +1329,11 @@ up."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूर ऐदनॆय सर्ग पूर्णवायितु.॥105॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Turning back his terrible chariot that rumbled like a thundercloud (jalada-svanam), the charioteer swiftly departed from the battle in fear (bhītyā), seeing that lord of the earth slumped down with his valor spent (nirasta-vīryam).
 </details>
 </details>

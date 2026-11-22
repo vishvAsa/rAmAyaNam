@@ -83,6 +83,12 @@ Hearing and sustaining that the five army-generals along with their followers an
 were disposed off by Hanuma, Ravana looked at Aksha, his son, violent in combat and who was inclined
 to fighting as well as sitting in front of him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that the five army commanders (senāpatīn pañca) had been slain (pramāpitān) by Hanūmān along with their followers and mounts, the king looked intently (prasamaikṣata) at Prince Akṣa, who sat before him (akṣam) eager and proud for battle (samaroddhatonmukham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -137,6 +143,12 @@ Goaded by the looks of Ravana, the energetic Aksha, wielding a golden dotted bow
 sprang up, like a fire switched up by the foremost of brahmins in a sacrificial fire, by offering oblations
 to it.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Impelled by the casting of his [father's] glance (dṛṣṭyarpaṇasampracoditaḥ), that valorous prince with his wondrous golden bow sprang up (samutpapāta) at once, like the sacrificial fire (pāvakaḥ) kindled with oblations by chief twice-born priests in the assembly (sadasi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -190,6 +202,12 @@ nairR^itarSabhaH* = that valiant chief of demons; *tataH* = then; *yayau* = went
 Mounting a great chariot, having a splendour of a newly risen sun and overlaid with a
 protective armour of highly refined gold, that valiant cheif of demons sallied forth towards that mighty
 monkey.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that great and valiant bull among Rākṣasas (nairṛtarṣabhaḥ), mounting a chariot that shone like the newly risen sun (bāladivākaraprabham) and was overlaid with lattices ofrefined gold (prataptajāmbūnadajālasaṃtatam), set forth toward that great monkey.
 </details>
 </details>
 
@@ -327,6 +345,16 @@ Then, Aksha having a prowess equal to that of celestials, came forth, mounting t
 decorated with golden wreaths, having a brilliance of moon and sun, filled with every right thing and
 shining like rays of sun.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Then [mounting that chariot] won through an accumulated store of asceticism (tapaḥsaṃgrahasaṃcayārjitam), ornamented with lattices of refined gold, bearing pennants (patākinam) and a jewel-decked banner, and well-yoked with eight peerless steeds swift as thought (manojavāṣṭāśvavaraiḥ)—
+
+**5:** Unassailable by gods or Asuras (surāsurādhṛṣyam), moving unimpeded (asaṅgacāriṇam), flashing like lightning, coursing through the sky (vyomacaram), well-equipped, furnished with quivers (satūṇam), its frame bound with eight swords (aṣṭāsinibaddhabandhuram), and stocked in due order with javelins and lances (yathākramāveśitaśaktitomaram)—
+
+**6:** Resplendent with complete martial gear (pratipūrṇavastunā) together with golden cords (sahemadāmnā) and gleaming like the moon and the sun (śaśisūryavarcasā)—having mounted that sun-bright chariot, he of valor equal to the immortals went forth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -386,6 +414,12 @@ door-way.
 Aksha, filling the sky earth and its mountains with sounds of horses elephants and chariots,
 together with his army, approached the efficient Hanuma the great monkey, standing at the archy door-way.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filling the sky and the mountain-girt earth (mahīṃ ca sācalām) with the din of steeds, elephants, and great chariots, he approached with his assembled forces that capable (samartham) monkey seated upon the archway (sahatoraṇasthitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -444,6 +478,12 @@ to; *bahuumaanachakSuSaa* = him with a great esteem.
 Approaching that Hanuma, standing there readily to destroy mortals, similar to a fire
 that is to destroy the world, the yellow-eyed Aksha was bewildered, born of a surprise and looked to
 him with a great esteem.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching that monkey who stood like the doomsday fire (yugāntakālāgnim iva) at the destruction of creatures, lion-eyed (harīkṣaṇaḥ) Akṣa, astonished and stirred with excitement (vismitajātasaṃbhramam), regarded him with an eye of high esteem (bahumānacakṣuṣā).
 </details>
 </details>
 
@@ -505,6 +545,12 @@ That Aksha, the mighty prince, assessing the swiftness of that high-souled Hanum
 his prowess with regard to his adversaries as also his own strength, increased his body more and more
 like the sun when the frost is faded away.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pondering (vicārayan) the speed of that great-souled monkey and his valor among foes, as well as his own strength, that mighty son of Rāvaṇa grew in radiance (abhivardhata) like the sun at the end of a world-age (yugakṣaye).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -563,6 +609,12 @@ _________________
 Understanding Hanuma's prowess to be unrestrainable and stable in battle, that Aksha,
 exhibiting anger initially, became stable and mentally composed and incited Hanuma to battle by discharging
 three sharp arrows towards him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with wrath (jātamanyuḥ) upon beholding his valor, standing firm and resolute (sthitaḥ sthiraḥ) and concentrative of mind (samāhitātmā), he challenged (pracodayāmāsa) Hanūmān, who was hard to check in battle (saṃyati durnivāraṇam), with three sharp arrows.
 </details>
 </details>
 
@@ -623,6 +675,12 @@ Recognizing that Hanuma, as a haughty monkey, after having gallantly conquered h
 and accustomed to fatigue, that Aksha, graspign the bow and arrows his hand, saw him with an excited
 mind.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding that monkey proud (garvitam), unwearied (jitaśramam), worthy of vanquishing foes (śatruparājayocitam), and elated in mind (samudīrṇamānasam), Akṣa looked upon him, holding arrows in hand and grasping his bow (pragṛhītakārmukaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -676,6 +734,12 @@ armlets and charming ear-rings; *saH* = Aksha; *aashuparaakramaH* = of a quick p
 Having a glden chain, a pair of armlets and charming ear-rings, Aksha of a swift prowess,
 approached Hanuma. Their unmatched get-together in combat became a baffle to even the celestials and
 demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adorned with a golden chest-medallion, armlets, and lovely earrings (hemaniṣkāṅgadacārukuṇḍalaḥ), he of swift valor closed with the monkey; between those two arose a peerless encounter (apratimaḥ samāgamaḥ) that inspired awe even in the gods and Asuras (surāsurāṇām api saṃbhramapradaḥ).
 </details>
 </details>
 
@@ -737,6 +801,12 @@ Seeing that battle between Hanuma and Aksha, the earth uproared. The sun did not
 brightly. The wind ceased to blow. The mountain shook. The sky made a reverberant sound. The ocean too
 was agitated.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The earth cried out (rarāsa bhūmiḥ), the sun did not blaze, the wind did not blow, and the mountain trembled; [beholding] the valorous combat (vīryasaṃyugam) of the monkey and the prince, the sky resounded and the ocean surged (udadhiś ca cukṣubhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -796,6 +866,12 @@ kapimuurdhni* = on Hanuma's head; *triin sharaan* = three arrows; *sumukhaan* = 
 Then, that eminent demon, who correctly knew how to fix his gaze on the target, to fit
 an arrow to the bow and to discharge it, hurled on Hanuma's head, three arrows which were well-painted,
 having golden shafts and feathers and which resembled venomous serpants.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that hero, conversant with the true principles of aiming, nocking, and releasing (samādhisaṃyogavimokṣatattvavit), struck (atāḍayat) three gold-feathered (suvarṇapuṅkhān), fine-tipped winged arrows—like venomous serpents—upon the monkey's head.
 </details>
 </details>
 
@@ -857,6 +933,12 @@ Oozing the blood from his wound caused by those arrows descended into his head (
 looking like the newly risen sun, his eyes bathed in blood rolling rapidly, Hanuma shone brightly like
 the sun surrounded by a circle of rays, having the arrows as its rays.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Streaming blood (kṣaran) from those arrows planted simultaneously upon his head, with his rolling eyes smeared with blood (asṛgdigdhavivṛttanetraḥ), he shone like the newly risen sun (navoditādityanibhaḥ), having arrows for rays (śarāṃśumān) like the ray-garlanded sun (āditya ivāṃśumālikaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -915,6 +997,12 @@ his marvelllous weapons and picturesque bow; *saH* = that Hanuma; *piN^gaadhipa 
 Seeing in the battle that Aksha the prince, with his marvellous weapons and picturesque
 bow, that Hanuma the excellent one among Sugree's counsellors, was rejoiced and with an inclination
 to fight, grew in size.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that foremost counselor of the lord of monkeys (plavaṅgādhipamantrisattamaḥ), beholding that son of the best of kings in battle with his uplifted wondrous weapons and wondrous bow, rejoiced and expanded in bulk (āpūryata), eager for combat (āhavonmukhaḥ).
 </details>
 </details>
 
@@ -976,6 +1064,12 @@ That Hanuma, endowed with strength and prowess, resembling the sun appearing on 
 of Mandara muntain and whose anger was increased, then burnt the prince Aksha along with his army and
 vehicles, by the rays of fire emnating from his eyes.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Endowed with strength and valor and with his wrath heightened (vivṛddhakopaḥ), he, like the ray-garlanded sun standing on the crest of Mount Mandara (mandarāgrastha ivāṃśumālī), scorched (dadāha) Prince Akṣa along with his troops and mounts with the fire-rays of his eyes (netrāgnimarīcibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1035,6 +1129,12 @@ That demon in the form of a cloud, raining down arrows, then wielding a bow in t
 of a rain-bow, soon discharged arrows on Hanuma standing in the form of a mountain, like a cloud showering
 rain on a high mountain.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then in battle that Rākṣasa-cloud (rākṣasāmbudaḥ), having his bow for Indra's rainbow (bāṇāsanaśakrakārmukaḥ) and arrows for his torrential rain (śarapravarṣaḥ), swiftly loosed arrows upon the mountain that was the lord of monkeys (harīśvarācale), as a storm-cloud pours rain upon the foremost of mountains.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1093,6 +1193,12 @@ _________________
 Seeing that Aksha the prince, possessing an impetuous valour, endowed with enhanced splendour
 strength and vigour with a capacity to move within the sky like a cloud, coming to the battle, Hanuma
 roared with joy.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding in battle that Prince Akṣa of fierce valor in war (raṇacaṇḍavikramam), whose fiery energy, strength, valor, and arrows had surged (pravṛddhatejobalavīryasāyakam), the monkey roared with joy (nanāda harṣāt), his voice matching the thundercloud (ghanatulyaniḥsvanaḥ).
 </details>
 </details>
 
@@ -1154,6 +1260,12 @@ Boastful of his valour in battle because of his childish attitude, Aksha wit an 
 fury and red-blood eyes, approached Hanuma who was incomparable in battle, as an elephant approaching
 a well covered with heaps of straw.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proud of his valor in battle out of youthful rashness (bālabhāvāt), his wrath heightened and his eyes resembling blood (kṣatajopamekṣaṇaḥ), he approached the peerless monkey in battle just as an elephant [approaches] a great pit covered over with grass (mahākūpam ivāvṛtaṃ tṛṇaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1211,6 +1323,12 @@ _________________
 
 As Aksha forcefully discharged his arrows, Hanuma roared a sound of thunder and bounced
 quickly to the sky assuming a terrible sight, stretching out his arms and thighs.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck forcibly by the arrows loosed by that [prince], he uttered a roar sounding like thunder (ghananādaniḥsvanaḥ), swiftly shattering the sky (nabhaḥ samārujan) with great ardor (samutsahena) and looking dreadful from the flinging about of his arms and thighs (bhujoruvikṣepaṇaghoradarśanaḥ).
 </details>
 </details>
 
@@ -1272,6 +1390,12 @@ That strong and valiant Aksha, the foremost among the demons, and the best among
 warriors, went chasing Hanuma who was flying upwards, difusing arrows like a cloud showering hail-stones
 on a mountian.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he leaped up, that mighty and valorous foremost of Rākṣasas, a chariot-warrior supreme among chariot-fighters (rathī rathaśreṣṭhataraḥ), pursued (samabhidravat) him, showering him with arrows just as a cloud [pelts] a mountain with showers of hailstones (aśmavṛṣṭibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1331,6 +1455,12 @@ wind; *sharaantare* = in the space between one arrow and another; *vimokSayan* =
 That valiant Hanuma, whose swiftness was equal to the mind and possessing impetuous valour
 in battle, rushing forth like wind in the space between one arrow and another and thus escaping Aksha's
 arrows, moved in the path visited by wind (the sky).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rendering those arrows of his futile (vimokṣayan), that heroic monkey coursed along the wind-trodden path (pathi vāyusevite), darting forth like the wind through the spaces between the arrows (śarāntare), swift as thought and of terrible valor in battle.
 </details>
 </details>
 
@@ -1392,6 +1522,12 @@ With a respectful faculty of sight, Hanuma saw that Aksha who was wielding his b
 readily inclined to fight, covering the entire sky with excellent arrows with various types of tops
 and became thoughful.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The son of the Wind looked with an eye of high esteem (bahumānacakṣuṣā) upon Akṣa, who held his bow drawn, eager for battle, and was covering the sky (kham āstṛṇantam) with diverse excellent arrows; and he fell into thought (jagāma cintām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1451,6 +1587,12 @@ Then, the mighty armed Hanuma, who knew how to act under particular circumstance
 when pierced in the breast with shafts by the high souled heroic, Aksha, reflected on the prowess of
 his adversary in battle.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, with his chest between the arms pierced (bhinnabhujāntaraḥ) by arrows by that foremost and great-souled prince, the mighty-armed monkey, roaring and conversant with the true nature of special martial deeds (karmaviśeṣatattvavit), pondered his valor in battle:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1509,6 +1651,12 @@ sarvaahavakarma shobhinaH* = who is distinguished in all acts of war fare.
 "The mighty Aksha, possessing the lustre of a rising sun, is performing a great act,
 as a mature youth. My mind is not conceding here to kill him, who is distinguished in all acts of war-fare."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Shining like the newly risen sun (bāladivākaraprabhaḥ), this mighty one performs a great feat unlike a boy (abālavat); and my mind does not incline here right now toward slaying (pramāpaṇe) this one who excels in all deeds of war (sarvāhavakarmaśālinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1563,6 +1711,12 @@ Nagas the serpent-demons and Yakshas the semi-divine beings.
 "He possesses a great intellect and is also prominent by his valour. He is well-composed
 and highly tolerant in battle. Due to his eminent deeds and virtues, he is undoubtedly adored by saints,
 Nagas the serpent-demons and Yakshas the semi-dviine being."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This one is great-souled, great in valor (mahāṃś ca vīryataḥ), composed (samāhitaḥ), and most enduring (atisahaḥ) in battle; undoubtedly, from the rising excellence of his martial deeds (karmaguṇodayāt), this one is honored by sages along with Nāgas and Yakṣas.
 </details>
 </details>
 
@@ -1623,6 +1777,12 @@ api* = even the minds; *suraasuraaNaam* = of celestials and demons.
 is, by his prowess and enthusiasm. His swift-moving prowess trembles even the minds of celestials and
 demons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his mind swelled by valor and martial ardor (parākramotsāhavivṛddhamānasaḥ), he looks upon me, standing foremost (pramukhaḥ) in front; for the valor of this swift-acting warrior (śīghrakāriṇaḥ) would shake the minds even of gods and Asuras!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1681,6 +1841,12 @@ an augmented; *agniH* = fire.
 
 'If neglected, he would undoubtedly overpower me. His prowess is getting augmented in
 battle. The only option left out for me is to kill him now. It is not proper to neglect a spreadin fire."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If ignored (upekṣitaḥ), this one will surely not fail to overpower (na khalv ayaṃ nābhibhavet) [me], for his valor increases in battle; therefore slaying him (pramāpaṇaṃ hy asya) pleases me today—a growing fire cannot safely be ignored (na vardhamāno 'gnir upekṣituṃ kṣamaḥ)!”
 </details>
 </details>
 
@@ -1742,6 +1908,12 @@ The valiant and te mighty Hanuma, reflecting thus about the swiftness of the ade
 and determining his own couse of action, then acquired a course of action, then acquired a momentum
 and also made up his mind to kill him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus reckoning (tarkayan) the impetuous might (pravegam) of his foe and contriving his own tactical course of action (svakarmayogaṃ ca vidhāya), that valiant and mighty one then put forth his speed (cakāra vegam) and resolved upon his slaying at that moment.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1802,6 +1974,12 @@ That Hanuma, the heroic son of wind, killed using the blows of his palm, those e
 horses posessing a great speed in the path of sky with alertness as also having a capacity to bear burden
 while turning to different directions.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With blows of his open palm (talaprahāraiḥ) along the wind-trodden sky, that heroic monkey, the son of the Wind, slew (jaghāna) those eight peerless, great steeds of his, well-trained (samāhitān) and able to bear the load in wheeling maneuvers (vivartane).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1860,6 +2038,12 @@ kumubaraH* = with its carriage-pole loosened; *hatavaajiH* = and its horses dead
 Then, the great chariot of Aksha, thus struck by the palm and subdued by Hanuma the counsellor
 of Sugreeva, had its interior broken, its carriage pole loosened and its horses dead and fallen from
 the sky to the ground.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, struck by his palm and vanquished by the counselor of the lord of tawny monkeys (piṅgādhipamantrinirjitaḥ), that great chariot of his, with its interior shattered (bhagnanīḍaḥ), its pole wrenched awry (parivṛttakūbaraḥ), and its horses slain, fell from the sky to the earth.
 </details>
 </details>
 
@@ -1921,6 +2105,12 @@ Leaving the chariot, wielding the bow and sword, that Aksha the chariot-warrior 
 to the sky. Having a terrible power of penance and leaving his body like a sage, he then was seen departing
 to heaven because of his Yogic penance.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Abandoning that chariot, that great chariot-warrior, holding bow and sword (sakārmukaḥ khaḍgadharaḥ), sprang up into the sky (kham utpatan), like a sage of fierce ascetic energy (ṛṣir ugravīryavān) rising to the abode of the gods (marutām ivālayam) after casting off his body through the power of austerity (tapo'bhiyogāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1981,6 +2171,12 @@ Thereafter, Hanuma with his prowess equal to that of wind, approaching Aksha mov
 the sky, which is often frequented by Garuda the eagle, the wind and Siddhas the ascetics endowed with
 supernatural powers, slowly grasped his feet firmly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, overtaking (sametya) him as he coursed through the sky frequented by Garuḍa, the Wind, and Siddhas (patatrirājānilasiddhasevite), the monkey of wind-swift valor (mārutavegavikramaḥ) in due course seized him firmly by the feet (jagrāha ca pādayor dṛḍham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2035,6 +2231,12 @@ to the floor; *vegaat* = rapidly.
 That Hanuma, with a prowess equal to that of wind-god, his father, and the excellent
 one among monkeys, spigning round Aksha like grasping a great serpent an eagle for a thousand times
 in the battle, hurled him down to the floor rapidly.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whirling him around (samāvidhya) a thousand times, like the lord of birds (aṇḍajeśvaraḥ) seizing (gṛhya) a great serpent (mahoragam), that foremost of monkeys, matching his father in valor (pitṛtulyavikramaḥ), hurled (mumoca) him with force onto the surface of the earth in battle.
 </details>
 </details>
 
@@ -2093,6 +2295,12 @@ killed; *vaayusutena* = by Hanuma; *kSitau* = on the ground.
 
 With his arms, thighs, hips and neck broken, blood dripping, his bones and eyes crushed,
 his joints displaced and his sinews shattered, that demon was killed by Hanuma.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his arms, thighs, hips, and chest shattered (bhagnabāhūrukaṭīpayodharaḥ), streaming blood (kṣarann asṛk), his bones and eyes crushed (nirmathitāsthilocanaḥ), his joints riven (saṃbhinnasaṃdhiḥ), and his fastenings scattered (pravikīrṇabandhanaḥ), the Rākṣasa lay slain upon the earth by the son of the Wind.
 </details>
 </details>
 
@@ -2166,6 +2374,12 @@ having been killed, Hanuma was gazed on with excessive astonishment by great sag
 without obstruction and having great voes as also by spirits Yakshas the semidivine beings, Pannagas
 the serpent-demons and by celestials with Indra the lord of celestials.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crushing him down (nipīḍya) upon the surface of the earth, the great monkey caused great fear to the lord of Rākṣasas (rakṣo'dhipater mahad bhayam). When the prince was slain, that monkey was gazed upon (nirīkṣitaḥ) by assembled great sages coursing with the wheel of the stars (cakracaraiḥ), by beings gathered with Yakṣas and serpents, and by the gods with Indra, filled with deep amazement (bhṛśajātavismayaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2231,6 +2445,12 @@ way again, like Yama the lord of death expecting in a moment any mortal getting 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तेळनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain in battle that blood-eyed Prince Akṣa, who resembled the son of the thunderbolt-wielder Indra (vajrisutopamam), the hero betook himself to that very archway (tad eva toraṇam), awaiting the moment (kṛtakṣaṇaḥ) like Time at the destruction of creatures.
 </details>
 </details>
 

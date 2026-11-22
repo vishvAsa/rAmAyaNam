@@ -88,6 +88,14 @@ to place and time of ceremonies, again conferred with the ministers and decided 
 will be a day when the constellation of Pushya would be in the ascendant. My son Rama, who has eyes
 like red lotus, can be crowned as a prince tomorrow".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** When the citizens had departed, the king—knower of firm counsel (niścayajñaḥ)—took counsel once more with his ministers and arrived at a decisive resolution.
+
+**2:** The sovereign resolved: “Tomorrow itself the asterism Puṣya will be in ascendance, and tomorrow My lotus-petal-eyed son Rāma must be consecrated as Prince Regent (yuvarājaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,6 +141,12 @@ bring; *raamam* = Rama; *punaH* = again; *iha* = here.
 
 Thereafter, king Dasaratha entered the inner palace and then ordered Sumantra thus,
 "Bring Rama again here".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, entering his inner apartment, King Daśaratha summoned his charioteer Sumantra and commanded: “Bring Rāma here once again.”
 </details>
 </details>
 
@@ -181,6 +195,12 @@ words; *saH* = that; *suutaH* = charioteer Sumantra; *punaH* = again;
 Obeying the king's words, Sumantra went to Rama's house immediately to bring Rama
 once again.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Receiving that command, the charioteer hastened back once more to Rāma’s palace to bring Rāma again.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -221,6 +241,12 @@ doorkeepers; *shrutvaa cha api eva* = and as soon as Rama heard; *tam* = his
 
 The doorkeepers informed Rama that Sumantra had come again. Hearing that, Rama was
 uncertain as to the reason for Sumantra's arrival again.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the doorkeepers announced Sumantra’s return to Rāma, Rāma heard that he had arrived again and became slightly apprehensive (śaṅkānvitaḥ).
 </details>
 </details>
 
@@ -267,6 +293,12 @@ what; *te aagamana kR^ityam* = purpose is your arrival.
 
 Rama immediately allowed Sumantra inside and spoke these words to him: "Tell me
 completely the purpose of your arrival again."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ushering him in quickly, Rāma spoke these words: “Tell Me in full what further purpose brings you here again.”
 </details>
 </details>
 
@@ -315,6 +347,12 @@ Dasaratha; *ichchhati* = wants to; *drashhTum* = see; *tvaam* = you;
 Hearing those words, Sumantra said: "King Dasaratha wants to see you. Decide
 yourself in this matter whether to proceed to your father or otherwise".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the charioteer replied to Him: “The king desires to see You; having heard this, You are the authority (pramāṇam) there as to whether to go or otherwise.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -362,6 +400,12 @@ again.
 Rama, after hearing Sumantra's words, started immediately and went to the royal
 palace to see king Dasaratha, the Lord of people, again.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the charioteer’s words, Rāma too, filled with haste, set out for the royal palace to behold the lord of men once more.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -407,6 +451,12 @@ palace to see king Dasaratha, the Lord of people, again.
 
 Hearing Rama to have arrived, king Dasaratha allowed him to come into the house, to
 tell him an excellent and affectionate word.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that Rāma had arrived, King Daśaratha had Him ushered into his inner chamber, eager to speak what was supremely dear to him.
 </details>
 </details>
 
@@ -455,6 +505,12 @@ of Raghu); *pravishanneva* = soon after entering; *pituH* = father's;
 The glorious Rama, soon after entering his father's house, saw his father from a
 distance and fell prostrate before him in an act of submission, with his palms joined together.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as the glorious Rāghava entered His father’s abode, He beheld His father from afar and bowed down in prostration with joined palms.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -501,6 +557,12 @@ beautiful; *aasanam* = seat; *asmai* = to him; *abraviit* = (and) spoke;
 
 Dasaratha lifted Rama up and took him into his embrace. Then, he offered a beautiful
 seat to Rama and spoke to him as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raising Him up as He bowed and embracing Him closely, the lord of the earth pointed out a seat to Him and spoke again to Rāma:
 </details>
 </details>
 
@@ -551,6 +613,12 @@ ceremonies (have been performed); *kratushataiH* = (through) hundreds of sacrifi
 luxuries in life, as I desired. I propitiated Gods by performing hundreds of sacrifices, in which
 food and lots of fees were given away to the officiating priests. "
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Rāma, I am aged and have lived long; desirable enjoyments have been tasted by Me as wished, and I have worshipped through hundreds of soma-sacrifices abounding in food and rich priestly gifts.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -594,6 +662,12 @@ performed); *adhiitam cha* = and (Vedas and other holy scriptures have been) stu
 my beloved child. I had given away lots of donations, I had performed holy rites and I have also
 studied Vedas and other Holy Scriptures during my life time."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In You, O best of men, an incomparable and cherished offspring has been born to Me on earth; gifts have been given, sacrifices offered, and the Vedas studied by Me.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -636,6 +710,12 @@ myself.
 of all debts to the celestials (by performing holy sacrifices), to the sages (by studying Vedas
 etc.), to my ancestors (by begetting you), to the Brahmans (by giving away donations and food) and
 to myself (by enjoying all comforts as I desired)."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Desired joys too have been experienced by Me, O hero; I stand free of debt (anṛṇaḥ) to the gods, sages, ancestors, and Brāhmaṇas, as well as to my own self.
 </details>
 </details>
 
@@ -684,6 +764,12 @@ to myself (by enjoying all comforts as I desired)."
 "I have no duty other than to anoint you for the crown. Hence, do what I tell
 you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nothing further remains to be accomplished by Me save Your consecration; therefore, whatever I now say to You, You ought to fulfill for Me.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -723,6 +809,12 @@ people; *ichchhanti* = want; *tvaam* = you; *naraadhipam* = as king;
 
 "Now all the people want you to be the king. Hence, I can install you as
 prince."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today all the subjects desire You as their sovereign; therefore, O dear son, I shall consecrate You as Prince Regent.
 </details>
 </details>
 
@@ -772,6 +864,12 @@ inauspicious; *svapne* = dreams; *iha* = here; *sanirghaataa* = thunderous;
 fearful and inauspicious dreams. Here, thunderous comets are falling with great sound, during day
 time."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moreover, O Rāma, Scion of Raghu, today I behold inauspicious dreams, and meteors fall from the sky accompanied by thunderstrokes and mighty roars.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -817,6 +915,12 @@ encroaching; *me* = my; *nakshatram* = natal star.
 
 "Oh, Rama! Astrologers are informing me that fearful planets like Sun, Mars and Rahu
 are encroaching my birth star."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the astrologers (daivajñāḥ) report, O Rāma, that my birth-asterism is beleaguered (avaṣṭabdham) by dread planets—the Sun, Mars, and Rāhu.”
 </details>
 </details>
 
@@ -864,6 +968,12 @@ generally; *aapnoti* = will get; *mR^ityum* = death; *vaa* = or;
 "Whenever such inauspicious signs are produced, the king generally will get either
 death or a fearful accident."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Generally, when such portents arise, a king either meets with death or falls into a dreadful calamity.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -910,6 +1020,12 @@ anointed to crown; *chalaahi* = Is it not unstable; *matiH* = the mind;
 
 "Oh, Rama! Hence, before my mind gets changed, get you anointed to the crown. Are
 not the minds of men unstable?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, O Rāghava, while my mind does not yet falter in delusion, be consecrated at once—for fickle indeed is the mind of living beings.
 </details>
 </details>
 
@@ -959,6 +1075,12 @@ joins pushyami star; *niyatam* = can be fixed (for coronation ceremony).
 Pushyami star. The astrologers inform that the coronation ceremony can be fixed for tomorrow, when
 the moon joins Pushyami star."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today the Moon has entered Punarvasu, which precedes Puṣya; tomorrow the astrologers (daivacintakāḥ) declare Its conjunction with Puṣya to be certain.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1007,6 +1129,12 @@ kingdom; *svaH* = tomorrow.
 as it were to expedite things. O, annihilator of the enemies! I shall anoint you for the princely
 kingdom tomorrow."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Under that Puṣya asterism be consecrated; my mind, as it were, urges Me on with haste. Tomorrow, O scorcher of foes, I shall consecrate You in the office of Prince Regent.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1054,6 +1182,12 @@ Kusha grass.
 "That is why, with self control, you along with your wife should observe fast for
 this night from now onwards, and sleep on a couch made of Kusha grass."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, beginning from today, this night must be spent in fasting (upavastavyā) by You with subdued mind alongside Your bride, sleeping upon a litter of darbha grass.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1093,6 +1227,12 @@ this night from now onwards, and sleep on a couch made of Kusha grass."
 
 "Generally, there are many obstacles for such type of functions. Hence, your friends
 should guard you vigilantly from all directions."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And let Your vigilant friends guard You on every side today, for undertakings of such magnitude are fraught with many obstacles.
 </details>
 </details>
 
@@ -1134,6 +1274,12 @@ opinion.
 
 "It is my opinion that your coronation function should occur, while Bharata is away
 from the city."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And for so long as Bharata remains abroad from this city, even then I deem the time opportune for Your consecration.
 </details>
 </details>
 
@@ -1203,6 +1349,14 @@ cha* = endowed with goodness; *kR^ita shobhi* = may act unexpectedly on impulse.
 "Oh, Rama! It is my opinion that minds of men are inconstant. But the ever
 righteous, endowed with goodness, sometimes may act unexpectedly on impulse."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** To be sure, Your brother Bharata abides steadfastly in the conduct of the righteous—obedient to his elder brother, righteous-souled, compassionate, and of conquered senses.
+
+**27:** Yet I hold that the mind of men is mutable; even the mind of the good who are constant in dharma is graced only by deeds already accomplished (kṛtaśobhi), O Rāghava.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1251,6 +1405,12 @@ Dasaratha, after telling in this way about the ensuing coronation ceremony sched
 for the next day, permitted Rama to depart. Rama offered his salutations to his father and went to
 his house.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed and given leave with the words “Depart!” regarding the consecration to take place on the morrow, Rāma bowed to His father and went to His own palace.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1298,6 +1458,12 @@ mother's queenly palace.
 After hearing the decision of Dasaratha regarding coronation ceremony, Rama entered
 his house and by starting immediately, went to his mother's queenly house.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having entered His own palace after the consecration had been commanded by the king, He immediately stepped forth again and went to His mother’s inner apartment.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1337,6 +1503,12 @@ in a silent way; *ayaachatiim* = who is praying; *shriyam* = goddess Lakshmi.
 
 There, in the queen's worshipping place, Rama saw Kausalya silently in meditation,
 wearing silk clothes and praying to goddess Lakshmi.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There in the sanctuary of the deities (devatāgāre) He beheld His mother clad in pure silk, wholly absorbed in devotion, observing silence (vāgyatām), and praying for His fortune.
 </details>
 </details>
 
@@ -1384,6 +1556,12 @@ wearing silk clothes and praying to goddess Lakshmi.
 Hearing the good news of the coronation ceremony of Rama, Sumitra and Lakshmana came
 there even before Seetha was brought.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard of the welcome consecration of Rāma, Sumitrā and Lakṣmaṇa had already arrived there beforehand, and Sītā too had been summoned.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1429,6 +1607,12 @@ being attended closely ; *sumitrayaa* = by Sumitra; *siitayaa* = by Seetha;
 
 At that time, Kausalya closed her eyes and was in meditation. Along with her,
 Sumitra, Lakshmana and Seetha were sitting nearby.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At that hour Kausalyā remained with half-closed eyes (āmīlitekṣaṇā), attended upon by Sumitrā, Sītā, and Lakṣmaṇa.
 </details>
 </details>
 
@@ -1476,6 +1660,12 @@ Vishnu.
 
 Hearing that her son will be anointed for the princely kingdom on the day of
 Pushyami star, Kausalya with controlled breath, was meditating on lord Vishnu.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard that her son would be consecrated in the office of Prince Regent under the Puṣya asterism, she was meditating through breath-regulation (prāṇāyāmena) upon the Supreme Person, Janārdana.
 </details>
 </details>
 
@@ -1526,6 +1716,12 @@ delighted.
 
 Rama approached his mother, even while she was engaged in pious observance, offered
 salutation and spoke the following words making her delighted.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching her as she was thus engaged in her vow and bowing low, Rāma spoke this excellent speech, gladdening her:
 </details>
 </details>
 
@@ -1600,6 +1796,14 @@ teachers; *uktavaan* = spoke; *evam* = this; *maam* = to me.
 "Seetha too, along with me should observe fast this whole night. The father together
 with preceptors and teachers said this to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**35:** “O Mother, I have been appointed by My father to the duty of protecting the subjects; tomorrow My consecration will take place, in accordance with My father’s command.
+
+**36:** “This night must be spent in fasting by Sītā as well together with Me; for so My father—as instructed by the preceptors—has told Me.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1645,6 +1849,12 @@ me; *vaidehyaaH chaiva* = and to Seetha; *adya* = today.
 
 "Have all the auspicious rites that are required for the ensuing tomorrow's
 anointment ceremony, performed to me and to Seetha today."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whatever auspicious rites (maṅgalāni) are fitting here for the consecration to take place on the morrow, cause them to be performed today for Me and for Vaidehī as well.”
 </details>
 </details>
 
@@ -1693,6 +1903,12 @@ ceremony; *chirakaalaabhikaaN^kshitam* = which was being desired for a long time
 Hearing the news of anointment ceremony, which was being desired by her for a long
 time, Kausalya spoke to Rama the following sweet words with tears of joy in her eyes.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing these long-cherished words, Kausalyā spoke to Rāma this speech choked with tears of joy:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1733,6 +1949,12 @@ Sumitra.
 
 "Oh, child Rama! You live a long life! Let your enemies be destroyed! Let the
 cousins of mine and of Sumitra be made happy by your glory."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My child Rāma, live long! Slain are Your adversaries! Endowed with royal fortune, gladden My kinsfolk and those of Sumitrā as well.
 </details>
 </details>
 
@@ -1781,6 +2003,12 @@ virtues.
 "O, my little son! You were born to me on a day of an auspicious star. That is why,
 your father king Dasaratha was propitiated by your virtues."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Under an auspicious asterism indeed were You born of Me, O dear son, whereby Your father Daśaratha has been won over by Your virtues!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1827,6 +2055,12 @@ this one; *ikshvaaku raajyashriiH* = the glorious kingdom of Ikshvaku dynasty;
 
 "O, son! My worship to the lotus eyed Lord Vishnu with endurance has become
 fruitful. Hence, this glorious kingdom of Ikshvaku dynasty is going to embrace you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Not in vain indeed was My austere endurance toward the lotus-eyed Supreme Person, inasmuch as this royal fortune of the Ikṣvāku race shall now rest upon You, O son!”
 </details>
 </details>
 
@@ -1875,6 +2109,12 @@ smilingly; *idam* = these words.
 Rama, after hearing the words spoken by his mother, saw his brother Lakshmana who
 was sitting humbly nearby with joined palms and spoke to him smilingly as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by His mother, Rāma looked with a gentle smile toward His brother Lakṣmaṇa, who sat bowed in humility with joined palms, and spoke:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1922,6 +2162,12 @@ reached; *tvaam* = you; *me* = my; *dvitiiyam* = second;
 "O, Lakshmana! You rule this earth together with me. This glorious kingdom has
 reached you, who are my second conscience."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Lakṣmaṇa, rule this earth together with Me! Upon you—who are My second inner self (dvitīyaṃ me ’ntarātmānam)—this royal fortune has waited.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1967,6 +2213,12 @@ reached you, who are my second conscience."
 
 "O, Lakshmana! You enjoy the benefits as desired by you and the fruits of kingdom. I
 desire to live and even to rule the kingdom but for you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O Saumitri, enjoy the cherished pleasures and the fruits of sovereignty; even life itself and kingship I desire only for your sake.”
 </details>
 </details>
 
@@ -2027,6 +2279,12 @@ Seetha to obtain permission from them and went to his house along with Seetha.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि नाल्कनॆय सर्ग पूर्णवायितु. ॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus spoken to Lakṣmaṇa, bowed to both His mothers, and given leave to Sītā, Rāma departed to His own abode.
 </details>
 </details>
 

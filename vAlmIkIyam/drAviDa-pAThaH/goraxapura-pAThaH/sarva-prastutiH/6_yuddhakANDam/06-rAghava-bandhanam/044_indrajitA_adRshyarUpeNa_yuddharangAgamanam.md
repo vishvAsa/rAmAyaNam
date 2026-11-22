@@ -78,6 +78,12 @@ demons; *yuddhataameva* = were fighting; *tadaa* = then; *raviH* = the sun;
 While those monkeys and demons were fighting, the sun sank below the horizon,
 setting in motion a night of carnage.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as those Vānaras and rākṣasas were fighting (yudhyatām eva teṣāṃ tu), the sun went down (ravir astaṃ gataḥ) and the life-destroying night (rātriḥ prāṇahāriṇī) set in.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,6 +132,12 @@ _________________
 Then, a nocturnal was commenced between the terrific monkeys and demons, who
 contracted hostility with each other, wishing for their victory.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then a nocturnal battle (niśāyuddham) commenced between the terrible Vānaras and rākṣasas, who were bound in mutual enmity (anyonyaṃ baddhavairāṇām) and eager for victory.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -173,6 +185,12 @@ asi* = "you are a monkey"; *jaghnuH* = killed; *anyonyam* = each other;
 "You are a demon" said the monkeys "You are a monkey" said the demons and killed at
 each other in battle; during that dreadful darkness.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crying “You are a rākṣasa (rākṣaso 'sīti)!” the monkeys, and crying “You are a Vānara (vānaro 'sīti)!” the rākṣasas, slew one another in battle in that dreadful darkness (tasmiṃs tamasi dāruṇe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,6 +237,12 @@ tumultuous; *shabdaH* = sound; *shushruve* = could be hear; *evam* = thus;
 "Strike!" "Tear asunder!" "come near!" "Why are you running away?" - very tumultuous
 sounds like this could be heard in that army.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Strike! Cleave! Come on! Why do you flee (hata dāraya caihīti kathaṃ vidravasīti ca)?”—such was the tumultuous uproar (sutumulaḥ śabdaḥ) heard in that army.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -264,6 +288,12 @@ sounds like this could be heard in that army.
 
 The black demons in that darkness, wearing golden mails, were appearing as mountains
 with groves of medicinal plants emitting their light.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In that darkness, the black rākṣasas clad in golden armor (kālāḥ kāñcanasaṃnāhāḥ) looked like lordly mountains with forests of luminous herbs ablaze (śailendrā dīptauṣadhivanā iva).
 </details>
 </details>
 
@@ -313,6 +343,12 @@ with anger; *bhakSayantaH* = destroying; *plavaN^gamaan* = the monkeys;
 
 In that darkness, which was difficult to be overcome, the demons agitated as they
 were with anger, attacked with great speed, duly destroying the monkeys.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In that impenetrable darkness (tasmiṃs tamasi duṣpāre), the rākṣasas, maddened with wrath (krodhamūrcchitāḥ) and of mighty impetuosity, darted about on all sides (paripetuḥ), devouring the monkeys (bhakṣayantaḥ plavaṅgamān).
 </details>
 </details>
 
@@ -366,6 +402,12 @@ banners; *ashiiviSobhayan* = and frightened; *raakSasiim* = the demoniacal;
 Those strong monkeys with a terrific rage leapt forward and tore asunder by their
 sharp teeth, the steeds with gold ornaments on their head, the serpentine banners and frightened
 the demoniac army.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaping up (āplutya), those [Vānaras] of dreadful wrath (bhīmakopāḥ) tore apart with their sharp teeth (daśanais tīkṣṇair vyadārayan) the gold-crested steeds (hayān kāñcanāpīḍān) and the serpent-like banners (dhvajāṃś cāśīviṣopamān).
 </details>
 </details>
 
@@ -421,6 +463,12 @@ Agitated with anger, the monkeys dragged the elephants and those mounted on them
 also the chariots with their banners and flag-staffs duly breaking them to pieces with their
 teeth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In battle, the mighty Vānaras threw the rākṣasa army into turmoil (yuddhe 'kṣobhayan rākṣasīṃ camūm); [assailing] the elephants, the elephant-riders (kuñjarān kuñjarārohān), and the chariots gay with pennants and banners (patākādhvajino rathān)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -466,6 +514,12 @@ demons; *dR^ishyaadR^ishyaani* = both those who were visible and those who were 
 
 Rama and Lakshmana killed the foremost of the demons, both those who were visible
 and those who were invisible, with their arrows resembling venomous snakes.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and maddened with wrath (krodhamūrcchitāḥ), they dragged them about and bit them with their teeth (cakarṣuś ca dadaṃśuś ca daśanaiḥ). And Lakṣmaṇa and Rāma, with arrows resembling venomous serpents (śarair āśīviṣopamaiḥ)—
 </details>
 </details>
 
@@ -515,6 +569,12 @@ chariots; *rurodha* = blocked; *karNanetvaaNi* = the ears and the eyes;
 
 The dust rising from the hooves of horses and the wheels of the chariots blocked the
 ears and the eyes of the combatants.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—slew the foremost rākṣasas, both visible and invisible (dṛśyādṛśyāni rakṣāṃsi pravarāṇi nijaghnatuḥ). Meanwhile, pulverized by horse-hooves (turaṃgakhuravidhvastam) and raised aloft by chariot-rims (rathanemisamutthitam)—
 </details>
 </details>
 
@@ -566,6 +626,12 @@ terrible; *nadyaH* = rivers; *rudhiroughaaH* = with streams of blood;
 While that terrible battle was taking place, causing the hair to bristle; very
 terrible rivers with streams of blood were flowing there.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—the dust of the earth choked the ears and eyes of the combatants (rurodha karṇanetrāṇi yudhyatāṃ dharaṇīrajaḥ). And as that terrible, hair-raising battle raged on (vartamāne tathā ghore saṃgrāme lomaharṣaṇe), dreadful rivers of streaming blood (rudhiraughā mahāghorā nadyaḥ) flowed there (visusruvuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,6 +678,12 @@ and fellies of chariot-wheels; *paNavaanaamcha* = and drums.
 There arose a marvelous sound of kettle drums and tabors, mixed with the sounds of
 counches, fellies of chariot-wheels and drums.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the roar of kettledrums, mṛdaṅgas, and paṇava drums (bherīmṛdaṅgānāṃ paṇavānāṃ ca niḥsvanaḥ), mingled with the blare of conches and the rumble of chariot-rims (śaṅkhanemisvanonmiśraḥ), arose wondrously (sambabhūvādbhutopamaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -657,6 +729,12 @@ monkeys; *shastaanaam* = being wounded.
 
 There appeared a terrific sound resonated by horses, demons and monkeys being
 wounded.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There arose a terrible uproar (niḥsvanaḥ sambabhūvātra dāruṇaḥ) of rākṣasas struck down and groaning (hatānāṃ stanamānānām), and of Vānaras wounded and slain (śastānāṃ vānarāṇāṃ ca).
 </details>
 </details>
 
@@ -723,6 +801,14 @@ there on the battle-field. And those weapons appeared to be offered up as a prof
 the earth, which became hidden and rendered impassable by the slime formed out of streams of
 blood.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** With Vānara chiefs slain by javelins, pikes, and battle-axes (hatair vānaramukhyaiś ca śaktiśūlaparaśvadhaiḥ), and with slain mountain-sized, shape-shifting rākṣasas (nihataiḥ parvatākārai rākṣasaiḥ kāmarūpibhiḥ)—
+
+**15:** —the battleground there (tatrāsīd yuddhamedinī) had scattered weapons for its floral offerings (śastrapuṣpopahārā ca), and with its mire of streaming blood (śoṇitāsrāvakardamā) became unrecognizable and impassable (durjñeyā durniveśā ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -768,6 +854,12 @@ overcome; *sarveSaam* = by all; *bhuutaanaam* = beings.
 
 That fatal night became as calamitous to the monkeys and demons, as a night of
 dissolution, which is difficult to be overcome by all beings.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sweeping away monkeys and rākṣasas (harirākṣasahāriṇī), that terrible night became impossible for any creature to pass through (bhūtānāṃ sarveṣāṃ duratikramā), like the Night of Cosmic Dissolution (kālarātrīva).
 </details>
 </details>
 
@@ -815,6 +907,12 @@ that darkness; *parama daaruNe* = the very terrible; *te raakSasaaH* = those dem
 In that very terrible darkness, those demons thrilling with rapture attacked Rama
 with showers of arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then in that dreadful darkness (tasmiṃs tamasi dāruṇe), those rākṣasas, massed together (saṃhṛṣṭāḥ), charged straight at Rāma with showers of arrows (rāmam evābhyavartanta śaravṛṣṭibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -861,6 +959,12 @@ in order to attack (Rama); *abhuut* = became; *svanaH iva* = like the noise;
 
 Yelling in fury, the sound of those demons approaching in order to assault Rama was
 like the noise of the oceans at the time of destruction of all the creatures.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The roar of those enraged ones rushing forward and thundering (teṣām āpatatāṃ śabdaḥ kruddhānām api garjatām) was like the roar of the seven oceans at the cosmic upheaval (udvarta iva saptānāṃ samudrāṇām abhūt svanaḥ).
 </details>
 </details>
 
@@ -911,6 +1015,12 @@ arrows; *agnishikhopamaiH* = resembling tongues of flame; *jaghaana* = struck do
 Within a twinkling of an eye, Rama with six sharp arrows resembling tongues of
 flame, struck down six of those demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the mere twinkling of an eye (nimeṣāntaramātreṇa), Rāma struck six of those night-stalkers with six arrows (śaraiḥ ṣaḍbhiḥ ṣaḍ jaghāna niśācarān) resembling tongues of flame (agniśikhopamaiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -935,6 +1045,12 @@ flame, struck down six of those demons.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवर हॆसरुगळु इन्तिद्दवु-दुर्धर्ष वीर यज्ञशत्रु, महापार्श्व, महोदर, महा काय, वज्रदंष्ट्र हागू शुक सारण.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—[namely,] the irresistible Yajñaśatru, Mahāpārśva and Mahodara (mahāpārśvamahodarau), the huge-bodied Vajradaṃṣṭra, and both Śuka and Sāraṇa (tau cobhau śukasāraṇau).
 </details>
 </details>
 
@@ -981,6 +1097,12 @@ The unconquerable Yagnashatru, Mahaparashva, Mahodara, the giant bodied
 Vajradamshtra, both Shuka and Sarana - all those six having been beaten by Rama on their vital
 organs with a flood of his arrows, retreated from the battle and somehow survived for the rest of
 their life.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck by Rāma in all their vital spots with floods of arrows (bāṇaughaiḥ sarvamarmasu tāḍitāḥ), they fled from the battle there (yuddhād apasṛtās tatra) and survived with a remnant of their life-span (sāvaśeṣāyuṣo 'bhavan).
 </details>
 </details>
 
@@ -1029,6 +1151,12 @@ demons).
 Rama the great warrior, merely within an instant, made the quarters and the
 intermediate quarters, clear of all the demons, by his arrows resembling flames of fire.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the twinkling of an eye, the great chariot-warrior (mahārathaḥ) made the cardinal and intermediate directions (diśaś ca pradiśaś ca) bright and clear (cakāra vimalāḥ) with his terrible, flame-like shafts (ghorair agniśikhopamaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1076,6 +1204,12 @@ face towards; *raamasya* = Rama; *te.api* = they also; *naSTaaH* = perished;
 The other valiant demons, who were standing with their face turning towards Rama,
 also perished like moths, having encountered the same fire.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And whatever other heroic rākṣasas stood facing Rāma (rāmasyābhimukhe sthitāḥ), they too perished upon approaching him (te 'pi naṣṭāḥ samāsādya), like moths entering a fire (pataṅgā iva pāvakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1121,6 +1255,12 @@ golden shafts; *vishikaiH* = of arrows; *sampatadbhiH* = falling; *samantataH*
 
 That night, with the golden shafts of arrows, flying on all sides, appeared
 bright-coloured, like an autumnal night with its fire-flies on all sides.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With gold-feathered arrows (suvarṇapuṅkhair viśikhaiḥ) flying on all sides (sampatadbhiḥ samantataḥ), the night became variegated (babhūva rajanī citrā) like an autumn night with fireflies (khadyotair iva śāradī).
 </details>
 </details>
 
@@ -1168,6 +1308,12 @@ the roaring; *raakSasaanaam* = of the demons.
 The terrible night on that day became more terrible again by the sound of
 kettle-drums and by the roaring sounds of the demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With the roars of the rākṣasas (rākṣasānāṃ ca ninadaiḥ) and the reverberations of the kettledrums (bherīṇāṃ caiva niḥsvanaiḥ), that dreadful night became even more dreadful still (sā babhūva niśā ghorā bhūyo ghoratarābhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1214,6 +1360,12 @@ achalah* = the mountain Trikuta; *kandaraatiirNaH* = full of caves;
 By that great sound, which re-echoed on all sides, the mountain Trikuta, full of
 caves, appeared to be uttering confused murmurs.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With that mighty uproar swelling on all sides (tena śabdena mahatā pravṛddhena samantataḥ), cavern-riddled Mount Trikūṭa (trikūṭaḥ kandarākīrṇaḥ) seemed to speak back in reply (pravyāharad ivācalaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1254,6 +1406,12 @@ devoured (by jackals; vultures etc).
 
 Long-tailed and black faced monkeys with their gigantic bodies and dark-like figure,
 crushed the demons with their arms and allowed them to be eaten (by jackals, vultures etc).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Huge-bodied golāṅgūla monkeys, equal in hue to the darkness (tamasā tulyavarcasaḥ), tightly embraced the night-stalkers with both arms (sampariṣvajya bāhubhyām) and devoured them (bhakṣayan rajanīcarān).
 </details>
 </details>
 
@@ -1301,6 +1459,12 @@ his charioteer; *hayaanapi* = and the horses; *aashu* = all at once.
 Angada on his part, who came to annihilate the enemies in that battle-field, struck
 Indrajit, his charioteer and the horses all at once.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Advancing in battle to slay his foes (raṇe śatrūn nihantuṃ samupasthitaḥ), Aṅgada swiftly struck Rāvaṇa's son (rāvaṇiṃ nijaghānāśu), his charioteer, and his steeds as well (sārathiṃ ca hayān api).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1328,6 +1492,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अङ्गदनु कुदुरॆ, सारथियन्नु कॊन्दुहाकिदाग इन्द्रजितु तॊन्दरॆगॊळगागि रथवन्नु बिट्टु अन्तर्धाननादनु.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His steeds and charioteer slain by Aṅgada (hatāśvo hatasārathiḥ aṅgadena), the huge-bodied Indrajit abandoned his chariot (rathaṃ tyaktvā) and vanished into invisibility on that very spot (tatraivāntaradhīyata).
 </details>
 </details>
 
@@ -1372,6 +1542,12 @@ While that awful and very intense battle was going on, Indrajit a great trickste
 leaving the chariot, with its horses and charioteer killed by Angada, vanished from that very spot
 itself.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All the gods together with the sages (sarve devāḥ saharṣibhiḥ), as well as both Rāma and Lakṣmaṇa (tau cobhau rāmalakṣmaṇau), praised that feat of Vāli's son (tat karma vāliputrasya), who was worthy of honor (pūjanārhasya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1412,6 +1588,12 @@ wind-god.
 
 All the celestials, both Rama and Lakshmana together with all sages were pleased
 with that act of the venerable Angada the son of Vali.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All beings knew the might of Indrajit in battle (prabhāvaṃ sarvabhūtāni vidur indrajito yudhi); therefore they rejoiced upon seeing that mighty one overpowered (tatas te taṃ mahātmānaṃ dṛṣṭvā tuṣṭāḥ pradharṣitam).
 </details>
 </details>
 
@@ -1463,6 +1645,12 @@ in battle; *tataH* = for that reason; *tuSTaaH* = (they) were pleased;
 Since all the living beings knew the supernatural powers of Indrajit in battle, they
 were pleased on seeing that highly gifted demon being defeated by Angada.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the delighted monkeys, together with Sugrīva and Vibhīṣaṇa (sasugrīvavibhīṣaṇāḥ), seeing the foe vanquished (dṛṣṭvā śatruṃ parājitam), shouted, “Bravo! Bravo (sādhu sādhv iti neduś ca)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1505,6 +1693,12 @@ delighted; *nedushcha* = and praised him; *saadhviti* = as good.
 
 Seeing the enemy defeated, those monkeys along with Sugreeva and Vibhishana were
 delighted and praised Angada as an efficient warrior.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vanquished in battle at that time by that son of Vāli of dreadful deeds (nirjito bhīmakarmaṇā saṃyuge vāliputreṇa), Indrajit flew into a most terrible rage (krodhaṃ cakre sudāruṇam).
 </details>
 </details>
 
@@ -1551,6 +1745,12 @@ by this Angada the son of wind-god; *bhiimakarmaNaa* = a dreadful monkey.
 
 Indrajit, on the other hand, then was driven to a very terrible rage, as he was
 defeated in battle by Angada the son of Vali a dreadful monkey.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having vanished into invisibility (so 'ntardhānagataḥ), that wicked son of Rāvaṇa, galled in battle (raṇakarśitaḥ)—the heroic Rāvaṇi who had been granted a boon by Brahmā (brahmadattavaro vīraḥ)—was maddened with wrath (krodhamūrcchitaḥ).
 </details>
 </details>
 
@@ -1599,6 +1799,12 @@ antardhaana gataH* = who had gone out of sight; *paapaH* = the sinful one;
 That Indrajit the son of Ravana, the sinful demon who had gone out of sight and was
 cruel in battle, rendered himself as invisible again and hurled forth sharp arrows, bright as
 lightning.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Invisible (adṛśyaḥ), he loosed sharp arrows gleaming like thunderbolts (niśitān bāṇān mumocāśanivarcasaḥ); and with terrible serpent-formed shafts (ghorair nāgamayaiḥ śaraiḥ), [he assailed] both Rāma and Lakṣmaṇa.
 </details>
 </details>
 
@@ -1671,6 +1877,14 @@ Enveloped by illusion, he sought to confuse Rama and Lakshmana in the struggle t
 and invisible to all beings through his magic arts, Indrajit the ranger of the night bound those
 two brothers Rama and Lakshmana with a net work of arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** Enraged in battle, the rākṣasa pierced those two Rāghavas in all their limbs (bibheda samare kruddhaḥ sarvagātreṣu), shrouding himself in illusion (māyayā saṃvṛtas tatra) and bewildering them in the fray (mohayan rāghavau yudhi).
+
+**37:** Invisible to all beings (adṛśyaḥ sarvabhūtānām), that treacherous-fighting night-stalker (kūṭayodhī niśācaraḥ) bound the two brothers Rāma and Lakṣmaṇa with a fettering network of arrows (babandha śarabandhena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1720,6 +1934,12 @@ of that enraged demon.
 
 Then, the monkeys saw the two warriors, those lions among men, being wounded quickly
 by the serpentine arrows of that enraged demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Vānaras then beheld (tadā prekṣanta vānarāḥ) those two heroic tigers among men (tau puruṣavyāghrau vīrau) suddenly struck down and bound (sahasābhihatau) by that enraged [rākṣasa] with serpent-arrows (āśīviṣaiḥ śaraiḥ).
 </details>
 </details>
 
@@ -1785,6 +2005,12 @@ the king of demons with his perverse mind, had recourse to magic in order to mak
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नलवत्तनाल्कनॆय सर्ग पूर्णवायितु.॥44॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that wicked son of the rākṣasa king (rākṣasarājaputraḥ) was unable to overpower those two in visible form (prakāśarūpas tu yadā na śaktas tau bādhitum), he resorted to employing illusion (māyāṃ prayoktuṃ samupājagāma) and bound those two princes (babandha tau rājasutau durātmā).
 </details>
 </details>
 

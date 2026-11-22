@@ -51,6 +51,12 @@ _________________
 
 बळिक रावणेश्वरन आदेशदन्तॆ एळु मन्दि मन्त्रि कुमाररु, अग्निय ज्वालॆगळन्तॆ रावणन अरमनॆयिन्द हॊरबिद्दरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, impelled by the Lord of the Rākṣasas (coditā rākṣasendreṇa), those seven sons of the ministers (mantriṇaḥ sutāḥ sapta), radiant as fire (saptārci-varcasaḥ), issued forth from that palace.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -73,6 +79,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उनके साथ बहुत बड़ी सेना थी । वे अत्यन्त बलवान्, धनुर्धर, अस्त्रवेत्ताओंमें श्रेष्ठ तथा परस्पर होड़ लगाकर शत्रुपर विजय पानेकी इच्छा रखनेवाले थे ॥ २ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Attended by a vast army (mahad-bala-parīvārāḥ), bearing bows and possessing great strength, they were accomplished in missiles, the foremost of masters of missiles (kṛtāstrāstra-vidāṃ śreṣṭhāḥ), and eager to excel one another in victory (paraspara-jayaiṣiṇaḥ).
 </details>
 </details>
 
@@ -139,6 +151,14 @@ with horses. Those chariots were having a noise similar to that of an autumnal c
 a protective armour of gold, surmounted by banners and decorated with smaller flags. They were stretching
 their bows inlaid with refined gold and looking colourful like clouds accompanied by flashes of lightning.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** In great chariots yoked with steeds (vāji-yuktair mahārathaiḥ), latticed with gold (hema-jāla-parikṣiptaiḥ), furnished with standards and pennants (dhvajavadbhiḥ patākibhiḥ), and thundering like the roar of rain-clouds (toyada-svana-nirghoṣaiḥ)—
+
+**4:** —those warriors of boundless valor, rejoicing (saṃhṛṣṭāḥ), twanged their bows variegated with refined gold (tapta-kāñcana-citrāṇi cāpāni), looking like clouds flashing with lightning (taḍidvanta ivāmbudāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +208,12 @@ _________________
 Coming to know that Kimkaras themselves were killed their mothers together with their
 relatives and friends were tormented with grief.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, learning that the Kiṅkaras had been slain (viditvā kiṃkarān hatān), their mothers (jananyas tāḥ), together with their kinsfolk and friends (sabāndhava-suhṛj-janāḥ), became bewildered with grief (śoka-sambhrāntāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -233,6 +259,12 @@ motionless.
 
 Those sons of chief minister, wearing ornaments made of pure gold, rushed towards Hanuma,
 who was ready for battle and who stood on the archy gate-way motionless.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Out of mutual rivalry (paraspara-saṃgharṣāt), those warriors decked in ornaments of refined gold (tapta-kāñcana-bhūṣaṇāḥ) rushed upon Hanūmān, who stood poised upon the archway (toraṇastham avasthitam).
 </details>
 </details>
 
@@ -283,6 +315,12 @@ vR^iSTimantaH ambhodaaH* = resembling rainy clouds.
 Those demons looking like clouds, diffusing thunder-like sounds of their chariots and
 discharging a shower of arrows, moved in different directions resembling rainy clouds in the monsoon.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pouring forth a shower of arrows (sṛjanto bāṇa-vṛṣṭim) and thundering with the roar of their chariots (ratha-garjita-niḥsvanāḥ), those Rākṣasa-clouds (nairṛtāmbudāḥ) coursed about like rain-clouds in the monsoon season (prāvṛṭ-kāla ivāmbhodāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -330,6 +368,12 @@ _________________
 
 Thus covered by those showers of arrows, Hanuma became invisible even as a mountain-king
 is concealed by incessant showers.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Covered over by those showers of arrows (avakīrṇas tābhiḥ śara-vṛṣṭibhiḥ), Hanūmān had his form concealed (abhavat saṃvṛtākāraḥ), like the king of mountains veiled by showers of rain (śailarāḍ iva vṛṣṭibhiḥ).
 </details>
 </details>
 
@@ -380,6 +424,12 @@ _________________
 Roaming about in a cloudless sky, that fast-footed monkey made the arrows and the speedy
 chariots of those virile demons, useless.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Coursing through the cloudless sky (vicaran vimale 'mbare), that swift-moving Vānara (āśucaraḥ kapiḥ) eluded their arrows (śarān vañcayāmāsa) as well as the onrushing speed of those heroes' chariots (ratha-vegāṃś ca vīrāṇām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -425,6 +475,12 @@ chariots of those virile demons, useless.
 
 Playing with those demons wielding a bow each in the sky, that hero shone like the Lord
 of Wind, playing with clouds brandishing a rain bow.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sporting in the sky with those bow-wielders (krīḍan dhanuṣmadbhir vyomni), that hero shone forth just as the mighty Wind-god (mārutaḥ prabhuḥ) sports in the sky with rainbow-decked clouds (dhanuṣmadbhir meghaiḥ).
 </details>
 </details>
 
@@ -472,6 +528,12 @@ rakSassu* = on those demons.
 Making a terrific roar and frightening that great army, the valiant Hanuma rushed on
 those demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Uttering a dreadful roar (kṛtvā ninadaṃ ghoram) and terrifying that great army (trāsayaṃs tāṃ mahācamūm), the valiant Hanūmān made a furious onslaught (cakāra vegam) among those Rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -500,6 +562,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 शत्रुओंको संताप देनेवाले उन वानरवीरने किन्हींको थप्पड़से ही मार गिराया, किन्हींको पैरोंसे कुचल डाला, किन्हींका घूँसोंसे काम तमाम किया और किन्हींको नखोंसे फाड़ डाला ॥ १२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That tormentor of foes (paraṃtapaḥ) struck down some with the palm of his hand (talenābhihanat kāṃścit), some with his feet, battered some with his fists (muṣṭibhiś cāhanat), and tore some apart with his claws (nakhaiḥ kāṃścid vyadārayat).
 </details>
 </details>
 
@@ -565,6 +633,12 @@ with his thighs; *kechit* = some; *patitaaH* = fell down; *bhuvi* = on the groun
 Hanuma crushed some with his chest and some others with his thighs. Some fell down there
 itself on the ground, just by the roar made by Hanuma.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some he crushed with his chest (pramamāthorasā kāṃścit), and others with his thighs (ūrubhyām aparān api); and some fell down upon the ground right there by his roar alone (tasyaiva nādena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -610,6 +684,12 @@ directions; *bhayaarditam* = afflicted with fear.
 
 Seeing those demons dying and falling on the ground, all the remaining army, afflicted
 with fear, fled in ten different directions.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when those [seven ministers' sons] had perished (teṣv avasanneṣu) and fallen upon the ground (bhūmau nipatiteṣu ca), that entire army, afflicted with terror (bhayārditam), fled toward the ten directions (diśo daśa).
 </details>
 </details>
 
@@ -660,6 +740,12 @@ the ground; *bhuushcha* = even the earth; *kiirNaa abhavat* = was filled with; *
 Their elephants trumpeted with a wrong accent. Horses fell down on the ground. Even the
 earth was filled with chariots which had their seats, banners and canopies broken.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The elephants trumpeted discordantly (vinedur visvaraṃ nāgāḥ), the steeds fell upon the ground (nipetur bhuvi vājinaḥ), and the earth became strewn with chariots whose interiors, standards, and parasols were shattered (bhagna-nīḍa-dhvaja-cchatraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -705,6 +791,12 @@ svaraiH* = with various kinds of voices.
 
 Thereafter, streams flowing with blood were seen on the way. Lanka resounded with various
 kinds of horrible voices.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, by the flowing blood (sravatā rudhireṇa), rivers were made visible along the roadways (sravantyo darśitāḥ pathi); and with various cries (vividhaiś ca svanaiḥ), Laṅkā resounded hideously at that time.
 </details>
 </details>
 
@@ -774,6 +866,12 @@ and being desirous of a combat with the other demons, again reached that archy d
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तैदनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain those haughty Rākṣasas (tān pravṛddhān vinihatya rākṣasān), that heroic Vānara of mighty strength and fierce valor (mahābalaś caṇḍa-parākramaḥ kapiḥ), eager to fight with other Rākṣasas (yuyutsur anyaiḥ punar eva rākṣasaiḥ), returned once again to that very archway (tad eva toraṇam).
 </details>
 </details>
 

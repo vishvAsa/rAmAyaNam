@@ -67,6 +67,12 @@ saint; Vishvamitra; *kaakutsthau* = to the legatees of Kakutstha - Rama and Laks
 At dawn after that night the great saint Vishvamitra spoke to the legatees of Kakutstha, Rama
 and Lakshmana, those that are sleeping on a grass bed. [1-23-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the night had dawned (prabhātāyāṃ tu śarvaryām), the great sage Viśvāmitra addressed Kākutstha, who was reposing upon a couch of leaves (śayānaṃ parṇasaṃstare):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,6 +145,12 @@ son [in you.]
 
 अनेन ' पूर्वोत्था' इति स्मृतिसिद्धं पूर्वोत्थानादिकमध्वश्रमेणाकुर्वन्नपि शिष्यः आचार्येण प्रबोध्य नित्यकर्मसु नियोज्य इति सूचितम् ॥   
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Blessed with a noble son is Kausalyā (kausalyā suprajā), O Rāma! The eastern morning twilight is breaking (pūrvā saṃdhyā pravartate); arise, O tiger among men (uttiṣṭha naraśārdūla)! The sacred morning rites pertaining to the gods must now be performed (kartavyaṃ daivam āhnikam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +200,12 @@ night when the stars or the sun are not visible.
 *aho raatrasya yaH sandhiH suuryanakShatravarjitaH* Then this hymn is
 to be meditated placing her in ones own heart or amid the solar system.
 *gaayatriim samsmaret dhiimaan hR^idi vaa suuryamaNDale*.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those supremely noble and resonant words of the sage (tasyarṣeḥ paramodāraṃ vacaḥ śrutvā), those two heroic best of men (narottamau), having bathed and offered water libations (snātvā kṛtodakau), silently recited the supreme Gāyatrī prayer (jepatuḥ paramaṃ japam).
 </details>
 </details>
 
@@ -251,6 +269,12 @@ venerating him. [1-23-4]
 
 इति । 
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having completed their morning devotions (kṛtāhnikau), those two princes of mighty valor, filled with exceeding joy (atisaṃhṛṣṭau), reverently saluted Viśvāmitra rich in asceticism (viśvāmitraṃ tapodhanam abhivādya) and stood ready before him for the onward journey (gamanāyābhitasthatuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -299,6 +323,12 @@ River Ganga follows three courses, firstly in heavens, second on earth, and thir
 worlds. These episodes on the descent of Ganga to earth are narrated in the later part of
 this book, Bala Kanda.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting forth from that spot (tau prayāntau), those two heroes of great valor then beheld there the divine river flowing through the three worlds—the Gaṅgā (divyāṃ tripathagāṃ nadīm)—at her auspicious confluence with the Sarayū (sarayvāḥ saṃgame śubhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -345,6 +375,12 @@ have seen.]
 There they have seen the merited hermitage of sages with contemplative souls, and who are
 practising supreme ascesis for many thousand years. [1-23-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There they also beheld a sacred hermitage (tatrāśramapadaṃ puṇyam) belonging to sages of purified souls (ṛṣīṇāṃ bhāvitātmanām), who had been practicing supreme austerity for many thousands of years (bahuvarṣasahasrāṇi tapyatāṃ paramaṃ tapaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,6 +420,12 @@ practising supreme ascesis for many thousand years. [1-23-6]
 
 On seeing that merited hermitage Rama and Lakshmana are highly pleased and said this word
 to that great-soul Sage Vishvamitra. [1-23-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that sacred hermitage (taṃ dṛṣṭvā puṇyam āśramam), the two Rāghavas were filled with supreme delight (paramaprītau) and spoke these words to the high-souled Viśvāmitra:
 </details>
 </details>
 
@@ -434,6 +476,12 @@ asked. [1-23-8]
 
 ततो राघवौ गङ्गा-सरयू-संगमे ऋष्याश्रमं दृष्ट्वा विश्वामित्रं पप्रच्छतुः । स च —
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whose is this sacred hermitage (kasyāyam āśramaḥ puṇyaḥ), and what personage dwells herein (ko nv asmin vasate pumān)? O venerable Lord, we two wish to hear (bhagavañ śrotum icchāvaḥ), for great indeed is our curiosity (paraṃ kautūhalaṃ hi nau).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -480,6 +528,12 @@ that word; *prahasya* = smiled; *abraviit* = said; *puurva*
 On hearing their words the eminent sage Viswamitra said smilingly, " whose hermitage is this
 in earlier times that may be listened." Thus Vishvamitra started to narrate. [1-23-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of the two brothers (tayos tad vacanaṃ śrutvā), that bull among sages smiled (prahasya) and said: “Listen, O Rāma, to whose hermitage this formerly was (śrūyatāṃ rāma yasyāyaṃ pūrva āśramaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -504,6 +558,12 @@ in earlier times that may be listened." Thus Vishvamitra started to narrate. [1-
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विद्वांसरु कामवॆन्दु हेळुव कन्दर्पनु हिन्दॆ सशरीरियागि विहरिसुत्तिद्दनु. आग भगवान् स्थाणु (शिवनु) इदे आश्रमदल्लि एकाग्रचित्तनागि तपस्सन्नाचरिसुत्तिद्दनु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Kandarpa, who is called Kāma by the wise (kāma ity ucyate budhaiḥ), formerly possessed a corporeal form (mūrtimān āsīt). While Lord Sthāṇu (Śiva) was practicing austerity right here (tapasyantam iha sthāṇum), absorbed in meditation under a strict vow (niyamena samāhitam),
 </details>
 </details>
 
@@ -570,6 +630,12 @@ started to attack Shiva. The Love-god on going there to that hermitage that is b
 by Vishvamitra along with Wind-gods et al, with an intention to get the marriage of Shiva
 performed, assailed Shiva.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And as that Lord of the gods, having celebrated his marriage (kṛtodvāhaṃ tu deveśam), was proceeding surrounded by the troop of Maruts (gacchantaṃ samarudgaṇam), the foolish Kāma dared to assail him with passion (dharṣayām āsa durmedhāḥ), and was met with a fiery roar of hum by that high-souled deity (huṃkṛtaś ca mahātmanā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -632,6 +698,12 @@ to derive a clear meaning of 'burnt down,' because *avadhyataH* is just killing,
 whereas Shiva's third-eye truly burns down anything where even ashes do not remain. The critical
 editions have this as *dagdhasya tasya raudreNa chakShuShA*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And as he was glared upon by Rudra with his fiery third eye (avadhyātaś ca rudreṇa cakṣuṣā), O delight of the Raghus, all the limbs of that foolish god (sarvagātrāṇi durmateḥ) withered and fell away from his own body (vyaśīryanta śarīrāt svāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -678,6 +750,12 @@ Manmatha and his wife Rati will have supremely exquisite physiques. At the very 
 everybody used to become a prey to lasciviousness. So Shiva had to completely burn down that
 physical form of love, whereby only kaama, the mental desire, is remaining.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There the body of Kāma, utterly consumed by that high-souled deity (tasya gātraṃ hataṃ tatra nirdagdhasya mahātmanā), was destroyed; and through the wrath of the Lord of the gods (krodhād deveśvareṇa ha), Kāma was rendered bodiless (aśarīraḥ kṛtaḥ kāmaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -717,6 +795,12 @@ one - Love-god; *angaviSayaH* = [that is] Anga, province.
 
 Then onwards Love-god is renowned as Ananga, as he is without body, and where his body is
 given up that is renowned as Anga province. [1-23-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From that day forth, O Rāghava, he became renowned as Anaṅga (‘the Bodiless One’, anaṅga iti vikhyātas tadā prabhṛti); and that prosperous country where he cast off his body (yatrāṅgaṃ sa mumoca ha) became renowned as the realm of Aṅga (sa cāṅgaviṣayaḥ śrīmān).
 </details>
 </details>
 
@@ -775,6 +859,12 @@ na vidyate ityarthaH||* Govindaraja.
 
 इत्य्-अनेन महा-पुरुष-द्रोहिणो दुर्बलस्य स्वरूप-नाशो ऽपि भवति महा-पुरुष-द्रोहः सर्वथा न कर्तव्य इति सूचितम् ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“His is this sacred hermitage (tasyāyam āśramaḥ puṇyaḥ), and these sages dwelling here were from of old his disciples devoted to dharma (tasya ime munayaḥ purā śiṣyā dharmaparāḥ); in them no sin whatsoever is found (teṣāṃ pāpaṃ na vidyate), O hero!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -814,6 +904,12 @@ tariSyaamahe* = we will cross over [River Ganga.]
 
 "Let us stay for this night in this hermitage situated in between two meritorious rivers Ganga
 and Sarayu, oh, Rama with auspicious mien, tomorrow we will cross over the River Ganga. [1-23-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let us pass the night here today (ihādya rajanīṃ rāma vasema), O Rāma of auspicious aspect (śubhadarśana), between the two sacred rivers (puṇyayoḥ saritor madhye); tomorrow we shall cross over (śvas tariṣyāmahe vayam).
 </details>
 </details>
 
@@ -867,6 +963,12 @@ ourselves; *puNyam aashramam abhigacChaamahe* = let us enter meritorious hermita
 daily oblations, and then let us enter this meritorious hermitage, thus our stay in here will
 be comforting to us." So said Vishvamitra to Rama and Lakshmana. [1-23-17, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Purified by bathing (śucayaḥ), let us all approach this sacred hermitage (abhigacchāmahe sarve puṇyam āśramam); dwelling here is most fitting for us (iha vāsaḥ paro ’smākam), and we shall spend the night in comfort (sukhaṃ vastyāmahe niśām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -891,6 +993,12 @@ be comforting to us." So said Vishvamitra to Rama and Lakshmana. [1-23-17, 18a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवरु हीगॆ परस्पर मातनाडुत्तिद्दाग आ आश्रमवासिगळाद मुनिगळु तपस्सिनिन्द गळिसिद दूरदृष्टियिन्द इवर आगमनवन्नु तिळिदु मनस्सिनल्लि हर्षितरादरु.॥18½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having bathed, completed our silent prayers, and offered oblations into the sacred fire (snātāś ca kṛtajapyāś ca hutahavyā narottama).” Even as they were conversing thus there (teṣāṃ saṃvadatāṃ tatra), with their far-seeing eye of asceticism (tapodīrgheṇa cakṣuṣā)—
 </details>
 </details>
 
@@ -936,6 +1044,12 @@ When they are discussing there the sages of that hermitage are highly gladdened 
 them with their sixth-sense, and on approaching them enchantedly they offered water for hands
 and feet wash and then offered hospitality firstly to Sage Vishvamitra. [1-23-18, 19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving their arrival (vijñāya), the sages were supremely pleased (paramaprītā munayaḥ) and experienced great joy (harṣam āgaman). Having first offered water for honoring the hands (arghyam), water for washing the feet (pādyam), and hospitable refreshments (tathātithyam) unto the son of Kuśika (nivedya kuśikātmaje),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -976,6 +1090,12 @@ akurvan atithikriyaam* = accorded, guest's works [reception]; *satkaaram samanup
 Afterwards those sages of that hermitage have accorded reception to Rama and Lakshmana, and
 applauded by Vishvamitra for their hospitality those sages have entertained Rama and other
 guests with myths and legends. [1-23-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They next performed the rites of hospitality for Rāma and Lakṣmaṇa (rāmalakṣmaṇayoḥ paścād akurvann atithikriyām). Having received that gracious hospitality (satkāraṃ samanuprāpya), they delighted one another with sacred discourses (kathābhir abhirañjayan).
 </details>
 </details>
 
@@ -1035,6 +1155,12 @@ the deity of sunset when it is sundown, followed by Rama and others. Then led in
 by those sages who are with pious commitments and who are dwelling there, Rama and others
 have very comfortably stayed in the precincts of Shiva's hermitage. [1-23-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With collected minds (samāhitāḥ), those sages duly recited the evening sandhyā prayers (yathārham ajapan saṃdhyām ṛṣayas te); and escorted by the resident ascetics of noble vows (tatra vāsibhir ānītā munibhiḥ suvrataiḥ saha),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1091,6 +1217,12 @@ then that virtuous sage Vishvamitra, saint the eminent, delighted the delightful
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तमूरनॆय सर्ग पूर्णवायितु. ॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They dwelt together most happily there in the precinct of Kāmāśrama (nyavasan susukhaṃ tatra kāmāśramapade tathā); and with delightful narratives (kathābhir abhirāmābhiḥ), the righteous-souled Kauśika, that bull among sages (dharmātmā kauśiko munipuṅgavaḥ), regaled the two delightful princes (abhirāmau nṛpātmajau ramayām āsa).
 </details>
 </details>
 

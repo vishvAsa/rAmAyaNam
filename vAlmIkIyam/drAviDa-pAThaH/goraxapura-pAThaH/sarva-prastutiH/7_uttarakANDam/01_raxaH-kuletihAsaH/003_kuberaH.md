@@ -38,6 +38,12 @@ title = "००३ कुबेरः"
 
 पुलस्त्यर पुत्र मुनिवर विश्रवसनु तन्दॆयन्तॆ तपस्सिगॆ तॊडगिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Now Viśravas, the son of Pulastya and foremost of sages (munipuṅgavaḥ), in a very short time (acireṇaiva kālena) stood steadfast in ascetic austerity (tapasi sthitaḥ), even like his father (piteva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,6 +70,12 @@ title = "००३ कुबेरः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु सत्यवादियू, शीलवन्तनू, जितेन्द्रियनू, सदा धर्मतत्परनू आगिद्दनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Truthful (satyavān), virtuous in conduct (śīlavān), serene (śāntaḥ), devoted to Vedic study (svādhyāya-nirataḥ), and pure (śuciḥ), he remained detached from all worldly enjoyments (sarva-bhogeṣv asaṃsaktaḥ) and ever intent upon righteousness (dharma-parāyaṇaḥ).
 </details>
 </details>
 
@@ -94,6 +106,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विश्रवसन उत्तम आचरणवन्नु तिळिदु महामुनि भरद्वाजरु देवाङ्गनॆयन्तॆ सुन्दरळाद तम्म कन्यॆयन्नु अवरिगॆ मदुवॆमाडि कॊट्टनु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning of that exemplary conduct of his (tad-vṛttam), the great sage Bharadvāja (bharadvājo mahāmuniḥ) bestowed his own daughter Devavarṇinī (svasutāṃ devavarṇinīm) upon Viśravas as his wife (bhāryām).
 </details>
 </details>
 
@@ -141,6 +159,16 @@ _________________
 
 धर्मज्ञनाद मुनिवर विश्रवसनु सन्तोषदिन्द धर्मानुसार भारद्वाजर कन्यॆय पाणिग्रहण माडिकॊण्डु, प्रजॆय हितवन्नु चिन्तिसि, लोककल्याणद विचारमाडि आकॆय गर्भदिन्द अद्भुत पराक्रमि ऒब्ब पुत्रनन्नु उत्पन्न माडिदरु. अवनल्लि ब्राह्मणोचित ऎल्ल गुणगळू इद्दवु. अवन जन्मदिन्द अज्ज पुलस्त्यरिगॆ बहळ सन्तोषवायितु.॥4-6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Having accepted Bharadvāja’s daughter in accordance with sacred law (dharmeṇa) at that time, with an intellect discerning the destiny of progeny (prajānvekṣikayā buddhyā) and pondering the welfare of the child to be born (śreyo hy asya vicintayan)—
+
+**5:** —filled with supreme joy (mudā paramayā yuktaḥ), Viśravas, that foremost of sages (munipuṅgavaḥ), upon her (tasyām) an offspring endowed with heroic vigor (vīrya-sampannam apatyam) and supremely wondrous (paramādbhutam)—
+
+**6:** —did that knower of righteousness (dharmajñaḥ) beget, graced with all brahminical virtues (sarvair brahma-guṇair yutam). And upon that child’s birth (tasmiñ jāte), the grandsire [Pulastya] (pitāmahaḥ) became filled with delight (saṃhṛṣṭaḥ sambabhūva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +195,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ‘ई बालकनल्लि जगत्तिन श्रेयस्सु माडुव बुद्धि इद्दु, इवनु मुन्दॆ धनाध्यक्षनागुवनु’, ऎन्दु दिव्यदृष्टियिन्द तिळिदु, हर्षगॊण्डु देवर्षिगळॊन्दिगॆ अवन नामकरण माडिदरु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving his auspicious bent of mind (śreyaskarīṃ buddhim)—[reflecting,] “He shall become the Lord of Wealth (dhanādhyakṣo bhaviṣyati)”—[Pulastya,] delighted, together with the divine sages (sārdhaṃ devarṣibhiḥ), bestowed a name upon him at that time:
 </details>
 </details>
 
@@ -195,6 +229,12 @@ _________________
 
 ‘विश्रवस्सुविन ई पुत्रनु तन्दॆयन्तॆ हुट्टिरुवनु, अदक्कागि इवनु वैश्रवणनॆन्दु विख्यातनागुवनु’ ऎन्दु हेळिदरु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because he is the offspring of Viśravas (viśravaso ’patyam) and by his likeness is even as Viśravas himself (sādṛśyād viśravā iva), therefore shall he become renowned (viśrutaḥ) by the name Vaiśravaṇa (vaiśravaṇo nāma).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,6 +259,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कुमार वैश्रवणनु तपोवनदल्लि इरुत्ता तुप्पद आहुतियिन्द अग्नियु प्रज्वलितनागुवन्तॆ बॆळॆयतॊडगिदनु हागू महातेजदिन्द सम्पन्ननादनु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that Vaiśravaṇa of mighty splendor (mahātejāḥ), dwelling there in the penance grove (tapovana-gataḥ), grew in radiance like a sacrificial fire fed with oblations (āhuti-huto ... yathānalaḥ).
 </details>
 </details>
 
@@ -245,6 +291,12 @@ _________________
 
 आश्रमदल्लि इरुत्ता महात्मा वैश्रवणन मनस्सिनल्लि - नानु उत्तम धर्मवन्नु आचरिसुवॆनु ऎम्ब विचार उण्टायितु; एकॆन्दरॆ धर्मवे परमगतियागिदॆ.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While that high-souled one dwelt within the hermitage grounds (āśrama-pada-sthasya), this resolve arose in his mind (buddhir jajñe): “I shall practice the supreme righteousness (paramaṃ dharmam), for righteousness alone is the highest refuge (dharmo hi paramā gatiḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -269,6 +321,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ योचिसि तपस्सन्नु माडलु निश्चयिसि, महावनदल्लि साविरारु वर्ष कठोर नियमगळिन्द भारी तपस्सन्नाचरिसिदनु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Practicing austerity (tapas taptvā) for thousands of years (varṣa-sahasrāṇi) in the great forest (mahāvane), disciplined by fierce observances (yantrito niyamair ugraiḥ), he performed a most tremendous penance (sumahat tapaḥ).
 </details>
 </details>
 
@@ -297,6 +355,12 @@ _________________
 
 ऒन्दु साविर वर्ष पूर्णवागुत्तले तपस्सिन हॊस-हॊस विधियन्नु आचरिसुत्तिद्दनु. मॊदलिगॆ अवनु केवल नीरन्नु कुडिदु इद्दरॆ, मत्तॆ गाळियन्नु मात्र नुङ्गि इरुत्तिद्दनु. मुन्दॆ अदन्नू त्यजिसि केवल निराहारि यागिद्दनु. हीगॆ अनेक साविर वर्ष कळॆदवु.॥12½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the completion of each thousand-year span (pūrṇe varṣa-sahasrānte), he instituted each successive discipline (taṃ taṃ vidhim akalpayat): subsisting upon water (jalāśī), feeding solely upon air (mārutāhāraḥ), and likewise taking no nourishment at all (nirāhāraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,6 +386,12 @@ _________________
 
 आग अवन तपस्सिगॆ ऒलिद ब्रह्मदेवरु इन्द्रादि देवतॆगळॊन्दिगॆ अवन आश्रमक्कॆ बन्दु इन्तॆन्दरु.॥13½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus did those thousands of years (varṣa-sahasrāṇi) pass away as though they were a single year (eka-varṣavat). Thereupon the greatly resplendent one (mahātejāḥ), pleased, together with the hosts of gods led by Indra (sendraiḥ sura-gaṇaiḥ saha)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,6 +416,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुव्रतने! निन्न ई कर्मदिन्द, तपस्सिनिन्द नानु बहळ सन्तुष्टनागिद्देनॆ. महामाते! निनगॆ मङ्गळवागली. नीनु वर पडॆयलु योग्य नागिरुवॆ, एनादरू वर केळु.॥14½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Brahmā, having gone to his hermitage (āśrama-padam), spoke these words: “I am deeply pleased with you, O dear child (vatsa), by this austerity of yours, O keeper of noble vows (suvrata). Choose a boon (varaṃ vṛṇīṣva), may blessings attend you (bhadraṃ te), for you are worthy of a boon (varārhaḥ), O great-minded one!”
 </details>
 </details>
 
@@ -375,6 +451,12 @@ _________________
 
 इदन्नु केळि वैश्रवणनु तन्न ऎदुरिगॆ निन्तिरुव पितामहनल्लि - भगवन्तने! लोकवन्नु रक्षिसबेकॆम्ब नन्न विचारविदॆ; आद्दरिन्द नानु लोकपालकनागबेकॆन्दु हेळिदनु.॥15½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Vaiśravaṇa addressed the Grandsire (pitāmaham) standing before him: “O Blessed Lord (bhagavan), I would desire the rank of a World-Guardian (lokapālatvam) and the guardianship of all wealth (vitta-rakṣaṇam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -399,6 +481,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वैश्रवणन मातिनिन्द ब्रह्मदेवरिगॆ इन्नू सन्तोषवायितु. अवरु समस्त देवतॆगळॊन्दिगॆ प्रसन्नतॆयिन्द ‘‘हागॆये आगलि’’ ऎन्दु हेळिदरु.॥16½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then with a deeply gratified heart (parituṣṭena cetasā), Brahmā, together with the hosts of gods, spoke to Vaiśravaṇa joyfully, saying, “So be it (bāḍham)! Indeed, I myself was already intent upon creating a fourth among the World-Guardians (lokapālānāṃ caturtham).
 </details>
 </details>
 
@@ -425,6 +513,12 @@ _________________
 
 बळिक, मगु! नानु नाल्कनॆय लोकपालन सृष्टि माडलु तॊडगिद्दॆ. यम, इन्द्र, वरुणरिगॆ दॊरकिद लोकपाल पदवियु निन्न इष्टदन्तॆ निनगू सिगुवुदु, ऎन्दु हेळिदरु.॥17½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Go and assume that station (padam) alongside Yama, Indra, and Varuṇa which you have desired, O knower of righteousness (dharmajña), and attain the lordship of treasures (nidhīśatvam); you shall become the fourth alongside Śakra, the Lord of Waters, and Yama (śakrāmbupa-yamānām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -450,6 +544,12 @@ _________________
 
 धर्मज्ञने! नीनु सन्तोषवागि आ पदवियन्नु स्वीकरिसु हागू अक्षयनिधिगळिगॆ स्वामियागु. इन्द्र, वरुण, यमरॊन्दिगॆ नीनु नाल्कनॆय लोकपालनागुवॆ.॥18½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Accept also this aerial chariot named Puṣpaka (puṣpakaṃ nāma vimānam), radiant as the sun (sūrya-sannibham), for your conveyance (yānārtham), and attain equality with the thirty gods (tridaśaiḥ samatāṃ vraja).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -474,6 +574,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई सूर्यतुल्य पुष्पक विमानवन्नु निन्न सञ्चारक्कॆ पडॆदुको मत्तु देवतॆगळन्तॆ आगु.॥19½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May all be well with you (svasti te ’stu); we shall all depart even as we came (yathāgatam), for we have fulfilled our purpose (kṛta-kṛtyā vayam), dear child, having bestowed upon you these two boons (vara-dvayam).” Having spoken thus, Brahmā departed to his own abode (svasthānam) together with the thirty gods.
 </details>
 </details>
 
@@ -502,6 +608,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अय्या! निनगॆ मङ्गळवागलि. ई नावॆल्लरू बन्द हागॆ तॆरळुवॆवु. निनगॆ वरगळन्नु कॊट्टु नावु कृतकृत्यरॆन्दु तिळियुत्तेवॆ.॥20½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the gods headed by Brahmā (brahma-pūrveṣu deveṣu) had ascended to the expanse of heaven (nabhaḥ-sthalam), he [Vaiśravaṇa], standing in the forest with folded palms (prāñjaliḥ) and self-controlled spirit (prayatātmavān), spoke to his father: “That Lord of Creatures (prajāpatiḥ) has not appointed a dwelling place (nivāsanam) for me.
 </details>
 </details>
 
@@ -537,6 +649,14 @@ _________________
 
 हीगॆ हेळि ब्रह्मदेवरु देवतॆगळॊन्दिगॆ तम्म स्थानक्कॆ तॆरळिदरु. ब्रह्मादि देवतॆगळु आकाशमार्गवागि हॊरटु होद मेलॆ, मनस्सन्नु संयमदल्लिरिसुव धनाध्यक्षनु तन्दॆय बळि कैमुगिदु-‘पूज्यरे! नानु पितामहरिन्द मनोवाञ्छित फलवन्नु पडॆदिरुवॆनु’ ऎन्दु हेळिदनु.॥21-22½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “O Blessed One (bhagavan), I have obtained my cherished boon (varam iṣṭam) from the Grandsire; therefore look out (paśya) for some fitting abode (kañcin nivāsam) for me, O venerable lord (prabho),
+
+**22:** “—where no harm shall befall any living creature whatsoever (prāṇino yasya kasyacit).” Thus addressed by his son, Viśravas, foremost of sages (munipuṅgavaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -563,6 +683,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ आ प्रजापति देवरु ननगागि वासक्कॆ स्थान तिळिसलिल्ल. आद्दरिन्द पूज्यरे! ईग नीवु ननगॆ वासिसलु योग्यवाद, ऎल्ल दृष्टियिन्द चॆन्नागिरुव स्थानवन्नु हुडुकिरि. प्रभो! अल्लि इरुवाग यावुदे प्राणिगॆ कष्टवागदन्तिरबेकु.॥23-24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** —that noblest knower of righteousness (dharmajñaḥ ... sattamaḥ)—spoke these words: “Listen! Upon the shore of the southern ocean (dakṣiṇasyodadhes tīre) stands a mountain named Trikūṭa (trikūṭo nāma parvataḥ).
+
+**24:** “Upon its summit (tasyāgre), spacious as the city of Great Indra (mahendrasya purī yathā), stands a lovely citadel named Laṅkā (laṅkā nāma purī ramyā), fashioned by Viśvakarman (nirmitā viśvakarmaṇā)—
 </details>
 </details>
 
@@ -593,6 +721,14 @@ _________________
 
 तन्न मगनु हीगॆ हेळिदाग मुनिवर विश्रवस्सु हेळिदरु - धर्मज्ञने! साधु शिरोमणिये! केळु, दक्षिणसमुद्र तीरदल्लि त्रिकूट ऎम्ब ऒन्दु पर्वतविदॆ. अदर शिखरदल्लि देवराज इन्द्रन अमरावतियन्तॆ ऒन्दु विशालपुरियु शोभिसुत्तिदॆ.॥25-26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** “—for the habitation of the rākṣasas (rākṣasānāṃ nivāsārtham), even as Amarāvatī was built for Indra. Dwell there (tatra tvaṃ vasa), may blessings attend you (bhadraṃ te), in Laṅkā—of this let there be no doubt (nātra saṃśayaḥ)!
+
+**26:** “Girt with golden ramparts and bars (hema-prākāra-parighā) and well-furnished with war-engines and weapons (yantra-śastra-samāvṛtā), delightful indeed is that city (ramaṇīyā purī sā hi), adorned with gateways of gold and cat’s-eye gems (rukma-vaiḍūrya-toraṇā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -617,6 +753,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लङ्कॆ ऎन्दु अदर हॆसरु. इन्द्रन अमरावतिगॆ समानवाद आ पुरियन्नु विश्वकर्मनु राक्षसरिगॆ इरलु निर्मिसिद्दनु.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of old (purā) it was abandoned by the rākṣasas (rākṣasaiḥ sā parityaktā), who were tormented by the fear of Viṣṇu (viṣṇu-bhayārditaiḥ); it now lies empty of all the rākṣasa hosts (śūnyā rakṣo-gaṇaiḥ sarvaiḥ), who have fled to the depths of Rasātala (rasātala-talaṃ gataiḥ).
 </details>
 </details>
 
@@ -643,6 +785,12 @@ _________________
 
 वत्स! निनगॆ मङ्गळवागली. नीनु होगि निःसन्देहवागि आ लङ्कापुरियल्लि इरु. अदर सुत्तलू बङ्गारद प्राकारविदॆ. नाल्कूकडॆ अगलवाद कन्दकगळिवॆ मत्तु अदु अनेक यन्त्रगळिन्द मत्तु शस्त्रगळिन्द सुरक्षितवागिदॆ.॥28॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Empty is that Laṅkā at present (śūnyā samprati laṅkā sā), and no lord rules over her (prabhus tasyā na vidyate). Therefore, my son (putra), go there to take up your abode at your pleasure (yathāsukham)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -667,6 +815,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ पुरियु बहळ रमणीयवागिदॆ. अदर महाद्वारगळु चिन्नदिन्द मत्तु नीलमणिगळिन्द निर्मितवागिवॆ. हिन्दॆ विष्णुविन भयदिन्द राक्षसरु आ पुरियन्नु बिट्टु होगिरुवरु.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Blameless (nirdoṣaḥ) will be your dwelling there, for no harm (bādhāḥ) will come to anyone therein.” Having heard that most righteous counsel (dharmiṣṭhaṃ vacanam) of his father, that righteous-souled one (dharmātmā)—
 </details>
 </details>
 
@@ -696,6 +850,12 @@ _________________
 
 राक्षसरॆल्लरू रसातळक्कॆ हॊरटु होगिरुवरु. अदरिन्द लङ्कापुरियु बरिदागिदॆ. ईगलू लङ्कॆयु शून्यवागिदॆ, ईग अदक्कॆ ऒडॆयरु यारू इल्ल.॥30॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—settled and peopled Laṅkā (nivāsayām āsa ... laṅkām) upon the mountain crest (parvata-mūrdhani), together with thousands of Nairṛtas (nairṛtānāṃ sahasraiḥ), joyful and exultant (hṛṣṭaiḥ pramuditaiḥ); and in a very short time (acireṇaiva kālena), through his righteous governance (tasya śāsanāt), it became completely filled [with abundance] (sampūrṇā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -720,6 +880,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द मगने! नीनु वासिसलु सुखवागि अल्लिगॆ होगु. अल्लि इरुवुदरिन्द यावुदे दोष अथवा अडॆ-तडॆ इल्ल. अल्लि यारिन्दलू विघ्न-बाधॆगळु बरलारवु.॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus that righteous-souled bull among the Nairṛtas (nairṛtarṣabhaḥ), the son of Viśravas (viśravātmajaḥ), dwelt joyfully (prītaḥ) in Laṅkā, which had the ocean itself for its moat (samudra-parighāyām).
 </details>
 </details>
 
@@ -746,6 +912,12 @@ _________________
 
 तन्दॆय धर्मयुक्त मातन्नु केळि धर्मात्मा वैश्रवणनु त्रिकूट पर्वत शिखरदल्लि निर्मितवाद लङ्कापुरिगॆ होगि वासिसिदनु.॥32॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And from time to time (kāle kāle), that righteous-souled, humble-spirited (vinītātmā) Lord of Wealth (dhaneśvaraḥ) came riding in the Puṣpaka chariot (puṣpakeṇa) to pay homage to his father and his mother (pitaraṃ mātaraṃ ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -770,6 +942,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु वासिसिदाग कॆलवे दिनगळल्लि आ पुरियु साविरारु दष्टपुष्ट राक्षसरिन्द तुम्बि होयितु. वैश्रवणन आज्ञॆयन्तॆ राक्षसरु अल्लि आनन्दवागि इरतॊडगिदरु.॥33॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praised by throngs of gods and Gandharvas (deva-gandharva-gaṇair abhiṣṭutaḥ), his aerial hall adorned with the dances of Apsarases (apsaro-nṛtya-vibhūṣitālayaḥ), illuminating the sky like the sun with his rays (gabhastibhiḥ sūrya ivāvabhāsayan), that Lord of Wealth (vittapaḥ) journeyed to his father’s presence (pituḥ samīpaṃ prayayau).
 </details>
 </details>
 

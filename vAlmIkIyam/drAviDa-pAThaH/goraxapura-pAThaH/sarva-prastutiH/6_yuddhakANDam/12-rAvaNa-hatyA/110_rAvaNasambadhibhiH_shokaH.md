@@ -70,6 +70,12 @@ rushed out; *antaH puraat* = from their gynaecium.
 Seeing Ravana killed by the great-souled Rama, the female-demons were stricken with
 grief and rushed out from their gynaecium.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All beings beheld those two, Rāma and Rāvaṇa, fighting thus in battle, with their inner souls filled with wonder (vismitenāntarātmanā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -104,6 +110,12 @@ _________________
 
 सेवकियरु पदे पदे तडॆयुत्तिद्दरू आ स्त्रीयरु धूळिनल्लि हॊरळाडतॊडगिदरु. तलॆकॆदरिकॊण्डु अवरॆल्लरू करुवन्नु कळकॊण्ड गोवुगळन्तॆ शोकपीडितरागिद्दरु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Harassing one another in battle, those two supreme chariots of theirs (tayos tau syandanottamau), furiously enraged at one another and rushing upon one another—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -128,6 +140,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसरॊन्दिगॆ लङ्कॆय उत्तरद्वारदिन्द हॊरबन्दु भयङ्कर युद्धभूमियन्नु प्रवेशिसि मडिद तम्म पतियन्नु हुडुक तॊडगिदरु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—intent upon each other's destruction, assumed a dreadful aspect (ghorarūpau babhūvatuḥ). Executing circular maneuvers (maṇḍalāni), straight lanes (vīthīś ca), and advances and retreats (gatapratyāgatāni ca)—
 </details>
 </details>
 
@@ -173,6 +191,12 @@ Issuing out of the northern gate along with demons and penetrating into the terr
 battle-field, searching for their husband, who had been killed and crying out, "Ah my lord! Ah my
 husband!" they all ran hither and thither on the ground which was covered with headless trunks and
 rendered muddy with blood."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—while the two charioteers displayed manifold movements born of their skill in charioteering (sārathyajāṃ gatim), Rāma harassing Rāvaṇa and Rāvaṇa likewise harassing Rāghava—
 </details>
 </details>
 
@@ -224,6 +248,12 @@ Those women, who were overcome with grief about the death of their husband, havi
 their eyes filled with tears, loudly lamented like female-elephants who had lost the leader of
 their herd.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—attained swift momentum (gativegaṃ samāpannau) in advancing and wheeling back (pravartananivartane); and as those two warriors cast networks of arrows, their two supreme chariots—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -274,6 +304,12 @@ collyrium.
 Those women saw the gigantic Ravana, who was endowed with a great strength and
 invested with a great splendour, lying killed on the ground, like a heap of black collyrium.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—coursed over the battlefield like two rain-clouds accompanied by torrential showers (sāsārau jaladāv iva). Having displayed manifold movements in battle at that time, those two—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,6 +355,12 @@ their husband; *shayaanam* = lying; *raNa paamsuShu* = in dust of the battle-fie
 
 Suddenly seeing their husband lying in dust of the battle-field, those women fell
 down on his limbs, like uprooted wild creepers.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—stood once again directly facing one another (parasparasyābhimukhau). Chariot-pole met chariot-pole (dhuraṃ dhureṇa rathayoḥ), the faces of the steeds met the faces of the steeds—
 </details>
 </details>
 
@@ -366,6 +408,12 @@ woman; *aalambya* = clinging; *charaNau* = his feet; *kaachit* = a woman;
 A woman wept, embracing him out of great regard, another woman clinging to his feet
 and another, catching hold of his neck.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and the pennants met the pennants (patākāś ca patākābhiḥ samīyuḥ) as the two chariots stood still then. Thereupon Rāma, with sharp arrows loosed from his bow—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -408,6 +456,12 @@ her deceased husband; *upaagamat moham* = fell into a swoon.
 
 A woman rolled over the ground, with her arms thrown up. On seeing the face of her
 deceased husband, another woman fell into a swoon.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—forced Rāvaṇa's four blazing steeds backward (pratyapasarpayat) with four shafts. Falling under the sway of wrath at the backing away of his steeds (hayānām apasarpaṇe)—
 </details>
 </details>
 
@@ -453,6 +507,12 @@ face; *ruroda* = wept; *snaapayantii* = moistening; *mukham* = that face;
 Keeping Ravana's head in her lap, a woman, looking at his face, wept moistening that
 face with her tears, as dew drops moisten a lotus-flower.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Daśānana discharged sharp arrows against Rāghava. Though deeply pierced (atividdhaḥ) by the mighty Daśagrīva, Rāghava—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -477,6 +537,12 @@ face with her tears, as dew drops moisten a lotus-flower.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ तम्म पति रावणनु नॆलदल्लि सत्तु बिद्दिरुवुदन्नु नोडि ऎल्लरू आर्तरागि अवनन्नु करॆयतॊडगिदरु हागू शोकदिन्दागि नाना प्रकारदिन्द विलापिस तॊडगिदरु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—underwent no change of expression (jagāma na vikāram) nor felt any distress (na cāpi vyathito 'bhavat). And Daśānana hurled arrows once more, resounding like the crash of the thunderbolt (vajrasārasamasvanān)—
 </details>
 </details>
 
@@ -528,6 +594,14 @@ whom Kubera the king was deprived of Pushpaka the aerial car, and by whom fear w
 battle-field in the Gandharva the celestial musicians, in the sages and the great-souled gods, lies
 killed in the battle-field."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** —aiming at the charioteer of the wielder of the thunderbolt (sārathiṃ vajrahastasya). Those shafts of mighty speed fell upon the body of Mātali—
+
+**13:** —yet in battle they caused him not even the slightest bewilderment or pain (na sūkṣmam api sammohaṃ vyathāṃ vā). Enraged by that outrage against Mātali as he was not by one against himself (mātaler na tathā”tmanaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -571,6 +645,12 @@ and; *pannagebhyo.api* = even the serpents for that matter!.
 "This danger has come from a mortal to him, who did not conceive any fear from the
 demons or the gods or even the serpents for that matter!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Rāghava forced his enemy to turn his face away (vimukhaṃ ripum) with a network of arrows. Twenty, thirty, sixty, and by hundreds and by thousands—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -611,6 +691,12 @@ man.
 
 "Here lies killed in battle, by a pedestrian man coming from Ayodhya, that Ravana,
 who was incapable of being killed by gods and even so by devils and demons too."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—the heroic Rāghava loosed shafts upon his enemy's chariot. Then Rāvaṇa too, the lord of rākṣasas, standing firm in his chariot and filled with wrath—
 </details>
 </details>
 
@@ -658,6 +744,12 @@ demons like; *mR^ityum lambhitaH* = could be killed; *martyena* = by a mortal;
 "He who could not be killed by gods, Yakshas and demons alike, could be killed by a
 mortal like one devoid of strength."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—harassed Rāma in turn (pratyardayat) in battle with a shower of maces and pestles (gadāmusalavarṣeṇa). Once again that tumultuous battle raged on, making the hair stand on end.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -704,6 +796,12 @@ grief.
 
 Thus uttering, those women of Ravana, wailing as aforesaid, burst into tears. They
 once more and repeatedly lamented, stricken, as they were, with grief (as follows):
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By the roaring clamour of maces, pestles, and iron clubs, and by the blasts from the feathered shafts of arrows (śarāṇāṃ puṅkhavātaiś ca), the seven oceans were churned into agitation (kṣubhitāḥ sapta sāgarāḥ).
 </details>
 </details>
 
@@ -753,6 +851,12 @@ as your own self; *paatitaH* = struck down; *idaaniim* = now.
 "For your own death, Seetha was borne away by you, who did not listen to your near
 and dear ones, who always offered friendly counsel to you. The demons were struck down. Here, stand
 we (your consorts) as well as your own self, struck down now."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And because of the agitated oceans (kṣubdhānāṃ sāgarāṇām), all the Dānavas dwelling in the depths of the netherworld (pātālatalavāsinaḥ) and the serpents (pannagāḥ) by the thousands were stricken with distress.
 </details>
 </details>
 
@@ -804,6 +908,12 @@ who sought your own destruction.
 "Though tendering salutary advice to you, Vibhishana your beloved brother, was
 harshly scolded through ignorance by you, who sought your own destruction."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The entire earth with its mountains, forests, and groves trembled (cakampe medinī kṛtsnā); the sun lost its radiance (bhāskaro niṣprabhaś cāsīt), and the wind did not blow.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -850,6 +960,12 @@ haram* = which has robbed us of every root; *nasyaat* = would not have befallen 
 "If you had restored Seetha a princess of Mithila to Rama, this appallingly terrific
 disaster, which has robbed us of every root, would not have befallen us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the gods together with the Gandharvas, the Siddhas, and the supreme sages, along with the Kiṃnaras and great serpents, all fell into deep anxiety (cintām āpedire sarve).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -893,6 +1009,12 @@ ambition.
 desire fulfilled. Rama would have been in the company of our allies. All of us would have been
 spared the curse of widowhood and our enemies would not have realized their ambition."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`May it be well with the cows and the brāhmaṇas (svasti gobrāhmaṇebhyas tu)! May the worlds endure eternally! May Rāghava conquer Rāvaṇa, the lord of rākṣasas, in battle!'
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -933,6 +1055,12 @@ cruelly; *tulyam nipaatitam* = destroyed all at once; *raakShasaaH* = the demons
 
 "By you, however, who forcefully captivated Seetha cruelly, the demons, we (your
 consorts) and your own self all the three have been destroyed all at once."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Murmuring this prayer (evaṃ japantaḥ), those gods together with the hosts of sages beheld at that time the exceedingly dreadful and hair-raising battle of Rāma and Rāvaṇa.
 </details>
 </details>
 
@@ -975,6 +1103,12 @@ done; *daivam* = by a divine power; *hatam* = struck; *hanyate* = and ruined;
 "O the excellent demon! Your act of following your own free will, may not be the
 reason for your destruction, either for, all is being run by a divine power, struck and ruined by
 the divine power."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that incomparable battle (yuddham anūpamam), the multitudes of Gandharvas and Apsarases [exclaimed]: `The sky has only the sky for its likeness (gaganaṃ gaganākāram), the ocean is comparable only to the ocean (sāgaraḥ sāgaropamaḥ)—
 </details>
 </details>
 
@@ -1023,6 +1157,12 @@ battle; *upaagataH* = happened; *daivayogaat* = at the juncture of the providenc
 "This destruction of the monkeys, your demons as also yourself, in the battle, has
 happened at the juncture of the Providence (alone), O the great armed!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`—and the battle of Rāma and Rāvaṇa is like the battle of Rāma and Rāvaṇa alone (rāmarāvaṇayor yuddhaṃ rāmarāvaṇayor iva)!' Speaking thus, they gazed upon that battle between Rāma and Rāvaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1068,6 +1208,12 @@ aajJNayaacha* = nor even by command; *loke* = in this world.
 
 "The course of destiny, when ready to bear fruit, cannot be diverted either by
 money, or by wish, or by valour or even by command in this world."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon out of wrath the mighty-armed Rāma, the increaser of the glory of the Raghus (raghūṇāṃ kīrtivardhanaḥ), having fitted to his bow an arrow resembling a venomous serpent (āśīviṣopamam)—
 </details>
 </details>
 
@@ -1139,6 +1285,12 @@ had lost their calf.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरहत्तनॆय सर्ग पूर्णवायितु.॥110॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—severed Rāvaṇa's glorious head blazing with earrings (śrīmaj jvalitakuṇḍalam); and that head, fallen upon the earth, was beheld at that time by the three worlds.
 </details>
 </details>
 

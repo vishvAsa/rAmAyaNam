@@ -71,6 +71,12 @@ assented her perspective.
 In that way when Tara has submissively argued with words containing probity,
 Saumitri gave assent to her perspective as he is soft by his nature. [4-36-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Tārā with a humble speech endowed with righteousness (dharmasaṃhitam), the gentle-natured son of Sumitrā accepted those words of hers.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,6 +132,12 @@ cloth. [4-36-2]
 This may be said as: 'Sugreeva lost his scare as a dampened cloth looses its
 water on squeezing it. But here there is no squeezing.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that speech was accepted, the lord of the monkey hosts (harigaṇeśvaraḥ) cast off his immense terror arising from Lakṣmaṇa, just as one discards a drenched garment (vastraṃ klinnam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -174,6 +186,12 @@ Sugreeva, the king of vanara-s, then ripped apart the superb garland which is so
 enwreathing his neck, and which has several strands according several gratifications, and he also
 became sober as though the insobriety is ripped from his mind. [4-36-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Sugrīva, lord of the Vānaras, tore away the wondrous, richly virtue-endowed [and intoxicating] great garland (mālyam) resting around his neck and became free from intoxication (vimadaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -213,6 +231,12 @@ formidable, prowess, to Lakshmana; *sam pra harSayan* = very, well, to please - 
 
 Sugreeva who is the most powerful one among all vanara-s, then placatingly spoke
 this humble sentence to Lakshmana, whose prowess is most formidable. [4-36-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gladdening Lakṣmaṇa of formidable might (bhīmabalam), Sugrīva, best of all monkeys, spoke a humble speech:
 </details>
 </details>
 
@@ -260,6 +284,12 @@ also.
 
 "My prosperity, prominence and this perpetual kingdom of monkeys are once mislaid,
 but oh, Soumitri, I regained all this just by the beneficence of Rama. [4-36-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘My vanished royal fortune (śrīḥ), renown, and eternal monkey kingdom—all this has been regained by me, O Saumitri, through the grace of Rāma (rāmaprasādāt).
 </details>
 </details>
 
@@ -312,6 +342,12 @@ like daring and eliminating Vali.
 "Who is capable of repudiating such a lordly Rama, even by a fraction of one's own
 bravery, unless he is prepared to tread that kind of path on which Vali has gone. [4-36-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Who is capable, O prince, of repaying (pratikurvīta) even by a fraction (aṃśenāpi) such a benefaction of that divine lord, renowned by his own heroic deeds?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -351,6 +387,12 @@ acquires; *raavaNam vadhiSyati ca* = Ravana, he exterminates, also.
 
 "Virtue-souled Raghava reacquires Seetha, and even exterminates Ravana by himself
 with his own resplendence, while I and my assistance remain only in name. [4-36-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Righteous-souled Rāghava will recover Sītā and slay Rāvaṇa by his own radiance (svena tejasā), with me serving as a mere nominal companion (sahāyamātreṇa).
 </details>
 </details>
 
@@ -398,6 +440,12 @@ kR^ityam kim* = succour, measures, why - why extending help.
 "Basically, why some measures of succour need be extended to him who has ripped
 seven gigantic-trees, a mountain, and even the earth, all just with one arrow! [4-36-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘What need is there to be accomplished by allies (sahāyakṛtyam) for him by whom seven mighty trees, a mountain, and the earth itself were cleft with a single arrow?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -437,6 +485,12 @@ to one who is outstretching it; *yasya* = whose - Rama's; *shabdena* = by clango
 
 "He who outstretches his bow with a clangour by which the earth with its mountains
 quakes, oh, Lakshmana, to him these aides are really of what aid, indeed! [4-36-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘As he twanged his bow (dhanur visphāramaṇasya), O Lakṣmaṇa, at the sound of which the earth trembled along with its mountains—what need indeed does he have of allies?
 </details>
 </details>
 
@@ -484,6 +538,12 @@ behind, treading, I can do - I will just follow Rama.
 
 "Lakshmana, I just can tread behind that king of people, Rama, on his charging to
 eliminate enemy Ravana along with all of his vanguards, that's all. [4-36-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘O bull among men, I shall simply perform the rear-march (anuyātrām) behind the lord of men as he sets forth to slay his enemy Rāvaṇa along with his vanguard (sapurassaram).
 </details>
 </details>
 
@@ -550,6 +610,12 @@ on punishing your own folk for very small reasons, who is there that is not a wr
 you leave off, and at the end who are they that remain to be protected by you?' Seetha also says
 'who is there that causes no offence?' in Sundara Kanda.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘If anything has been transgressed (atikrāntam) out of trust or out of affectionate familiarity (praṇayena), it should be forgiven me, his servant (preṣyasya); for there is no one who never offends.’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -596,6 +662,12 @@ this, said, indeed.
 Lakshmana is pleased with that great-souled Sugreeva who is speaking thus, and said
 this he said to him, indeed, in friendliness. [4-36-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As high-souled Sugrīva was speaking thus (iti tasya bruvāṇasya), Lakṣmaṇa became pleased and out of affection (premṇā) spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -637,6 +709,12 @@ indeed.
 "In anyway, my brother indeed has a defender with him, oh, king of vanara-s
 Sugreeva, especially you, who are a defender of your own word and a deferential one towards Rama.
 [4-36-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘In every way indeed my brother possesses a true protector (sanāthaḥ), O lord of monkeys, having you as an ally, O Sugrīva—especially one so humble (praśritena).
 </details>
 </details>
 
@@ -688,6 +766,12 @@ kingdom's; *anuttamaam shriyam bhoktum* = unexcelled, prosperity of Kishkindha, 
 "With this kind of preponderance and plainness you possess, Sugreeva, you are the
 only merited one to enjoy this unexcelled kingdom of monkeys. [4-36-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Given such martial potency (prabhāvaḥ) as is yours, O Sugrīva, and such purity of heart (śaucam) as is yours, you are truly worthy to enjoy the peerless royal fortune of the monkey kingdom.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -737,6 +821,12 @@ therein, doubt, is not there.
 "Before long, Sugreeva, dauntless Rama will be eliminating enemies in a war with you
 as his supporter, there is no doubt about it. [4-36-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘And with you as his companion, O Sugrīva, valiant Rāma will slay his enemies in battle before long (acirāt); of this there is no doubt.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -783,6 +873,12 @@ your, spoken word; *upapannam ca yuktam ca* = conclusive, also, coherent, also.
 "You are the knower of virtuousness and gratefulness and you do not retreat from
 battlegrounds, or, on your own word, thus what you have said is conclusive as well as coherent.
 [4-36-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Of you who know righteousness (dharmajñasya), who remember benefits received (kṛtajñasya), and who never retreat in battles, this speech, O Sugrīva, is both fitting (upapannam) and well-reasoned (yuktam).
 </details>
 </details>
 
@@ -831,6 +927,12 @@ behoves him.
 "Even though one has capability to know his own lapse and speak it up, oh, ablest
 among Vanara-s, who is he that behoves outspokenly, excepting my elder brother and you.
 [4-36-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Recognizing his own fault (doṣajñaḥ) even while possessing martial power (sati sāmarthye), who else could speak thus, excepting my elder brother and you, O best of monkeys?
 </details>
 </details>
 
@@ -886,6 +988,12 @@ gods to their progeniture. But Lakshmana is saying that Sugreeva is godsend gift
 a long time of their searching for Seetha, as thy have come searching for Sugreeva according to the
 advise of demon Kabandha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘You are equal to Rāma in valor (vikrameṇa) and in strength, O bull among monkeys, and have been granted by the gods for a long time (cirāya) as his ally.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -934,6 +1042,12 @@ saantvayasva ca* = your friend, embolden, also.
 
 "However, you quickly start from here along with me, oh, brave one, and embolden
 your friend who is anguishing in the despoilment of his wife. [4-36-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Yet come forth (niṣkrama) swiftly from here with me, O hero, and console your friend who is stricken with grief by the abduction of his wife (bhāryāharaṇaduḥkhitam).
 </details>
 </details>
 
@@ -1028,6 +1142,12 @@ but to embolden Rama saying that there is a real adherent in Sugreeva.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तारनॆय सर्ग सम्पूर्णवायितु.॥36॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘And whatever harsh words (paruṣāṇi) you were spoken to by me after hearing the lament of grief-overwhelmed Rāma—forgive that of me, O my friend.’
 </details>
 </details>
 

@@ -84,6 +84,14 @@ While Rama is bewailing like a forlorn as his anguish is scorching him, rendered
 impoverished with an inanimate heart as a high passion possessed him, Lakshmana, the son of
 Sumitra, suppliantly gripped his feet and started to address him. [4-66-1, 2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** [Beholding] him thus scorched by grief (śoka-saṃtaptam), lamenting like one helpless (vilapantam anāthavat), overwhelmed by great delusion (mohena mahatā yuktam), wasted with sorrow (paridyūnam), and distraught in mind (acetasam)—
+
+**2:** Then Lakṣmaṇa, son of Sumitrā (saumitriḥ), having recovered his breath (āśvasya) after an hour, as it were (muhūrtād iva), reasoned with Rāma (rāmaṃ saṃbodhayām āsa), clasping his feet (caraṇau cābhipīḍayan):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -145,6 +153,12 @@ destructive from day one, and now if Rama destructs everything, it tantamount to
 taken sides with demons. This is again a self-critical phenomenon of his incarnation. And so
 on...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By great austerity (mahatā tapasā) and also by a great sacrificial rite (mahatā karmaṇā), you were obtained (āsīl labdhaḥ) by King Daśaratha, like ambrosia by the immortals (amṛtam ivāmaraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -201,6 +215,12 @@ a wilful disobedient, despicable and even that way a dishonest one, such as you 
 [as at 3-61-8b, 9a,] but when you resort to undertake still deplorable devastation of worlds, than
 that of demons, what will he say of you...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bound by your virtues alone (tava caiva guṇair baddhaḥ), the king, lord of the earth (mahīpatiḥ), attained godhood [in heaven] (devatvam āpannaḥ) through separation from you (tvad-viyogāt), just as was heard from Bharata (bharatasya yathā śrutam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -255,6 +275,12 @@ Ritual Deity, therefore you should have some divine endowments, if not all, and 
 yourself to a commoner and bewail like this, instead of making humanly efforts... and if a person
 of your stature sits bewailing and moaning, whereto a commoner has to go in a similar
 situation...
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If you, O Kākutstha, will not endure (na sahiṣyase) this sorrow that has befallen you (duḥkham idaṃ prāptam), what other ordinary man (itaraḥ prākṛtaḥ) of little fortitude (alpa-sattvaś ca) will endure it?
 </details>
 </details>
 
@@ -315,6 +341,12 @@ Bringing thee heat and cold, sorrows and joys, / 'Tis brief and mutable!' but we
 action, let us undertake some action, rather than bewailing... all this is but brief and
 mutable...' but think yourself, what to do next, in a human way...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Take heart (āśvasihi), O best of men (nara-śreṣṭha)! What living being (prāṇinaḥ kasya) do calamities (āpadaḥ) not touch like fire (saṃspṛśanty agnivad), O king, and pass away in an instant (kṣaṇena vyapayānti ca)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -372,6 +404,12 @@ respective protective areas or spheres, say stratosphere, troposphere and suchli
 come here explicitly as a fence to this world, and when the fence alone is trampling the crop of
 the rightness, who else will come to the rescue of that forlorn elements of crop, called the
 inmates of worlds...'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For if you, when afflicted with sorrow (duḥkhitaḥ), burn up the worlds with your fiery energy (lokāṃs tejasā yadi dhakṣyate), O tiger among men (nara-vyāghra), where indeed will distressed creatures (ārtāḥ prajāḥ) find peace (nirvṛtim)?
 </details>
 </details>
 
@@ -435,6 +473,12 @@ god supreme... but it is in your realm... not on earth... on earth you have to b
 earthling... wrecking the system from within is meaningless... have some obedience to the set
 order...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This is the very nature of the world (loka-svabhāva evaiṣa): Yayāti, son of Nahuṣa (nahuṣātmajaḥ), attained the same celestial world as Śakra [Indra] (śakreṇa sālokyam), yet misfortune (anayaḥ) touched him (taṃ samaspṛśat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -489,6 +533,12 @@ Annex: 'world's disposition is such, a hundred living beings may take birth on
 one day and even die in hundreds, or thousands in one day... birth entails death... you ordained it
 to be so, but when the problem has come right under your seat, you go on bewailing without
 undertaking humanly effort... is this befitting...'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the great sage Vasiṣṭha, who was the family priest of our father (pitur naḥ purohitaḥ), begot a hundred sons in a single day (ahnā putra-śataṃ jajñe), and even so they were slain again (punar hatam) [in a single day].
 </details>
 </details>
 
@@ -549,6 +599,12 @@ Mother Earth, to suffering by earthquakes, storms, whirlwinds, twisters, and wha
 appropriate of you to make her suffer periodically, while you say that your one-time-suffering such
 as this one is nonpareil... or what... world's disposition is as such... not even you can change
 it, lest it boomerangs...'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And this earth (bhūmeḥ), who is the mother of the world (jagato mātā) and revered by all peoples (sarva-loka-namaskṛtā)—even her trembling (asyāś ca calanam) is seen, O lord of Kosala (kosaleśvara).
 </details>
 </details>
 
@@ -611,6 +667,12 @@ vR^iShTiH - vR^iShTiH tato annam abhijaayate - candramasau oShadhi vanaspatau
 they are eclipsed occasionally, for they are around the mortal world... and what if, your anguish
 eclipses you, temporarily...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the mighty sun and moon (āditya-candrau mahā-balau), who are the twin embodiments of dharma (dharmau) and the eyes of the world (jagato netrau) on whom all things rest (yatra sarvaṃ pratiṣṭhitam), undergo eclipse (grahaṇam abhyupetau).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -667,6 +729,12 @@ bhuutaani dehinaH or sarva bhuutaadi dehinaH Hence it is up to the grammarians t
 use vedaaH for devaaH in first foot, thus 'even all Veda-s put together cannot transcend the
 Absolute...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even the greatest beings (sumahānty api bhūtāni) and the gods, O bull among men (puruṣarṣabha)—indeed, all embodied beings (sarva-bhūtāni dehinaḥ)—do not escape (na pramuñcanti) the sway of destiny (daivasya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -720,6 +788,12 @@ The last compound in second foot na tvam vyathitum arhasi is the 'theme
 instruction' in Gita na tvam shocitum arhasi which again appears in the next verse. This has a near
 psalm in The Bible: 'Fret not thyself because of the ungodly...' Psalm 37, v 1.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even among the gods headed by Śakra [Indra] (śakrādiṣv api deveṣu), good and ill fortune (nayānayau) are heard to prevail (vartamānau śrūyete), O tiger among men (nara-śārdūla); you ought not to grieve (na tvaṃ śocitum arhasi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -765,6 +839,12 @@ as with; *tathaa* = that way; *shocitum na arhase* = to sadden, not, apt of you.
 
 "Whether Vaidehi is stolen or slain, oh, brave one, it will be inapt of you sadden
 like this as with any other commoner without tracking her whereabouts... [4-66-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even if Vaidehī were dead (mṛtāyām api vaidehyām) or lost (naṣṭāyām api), O Rāghava, you ought not to grieve, O hero, just like another ordinary man (yathānyaḥ prākṛtas tathā).
 </details>
 </details>
 
@@ -817,6 +897,12 @@ api* = in very, high [highly desperate straits,] even; *kR^icChreSu* = in strait
 remain non-dispirited even if they are undergoing desperate straits, and they will not just sadden
 like this... [4-66-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For men like you (tvad-vidhāḥ), ever all-seeing (satataṃ sarva-darśanāḥ) and undismayed in their discernment (anirviṇṇa-darśanāḥ), do not grieve, O Rāma, even in the greatest distress (sumahatsv api kṛcchreṣu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -864,6 +950,12 @@ having [with braininess]; *shubha* = auspicious [good]; *a shubhe* = not, auspic
 "Oh, foremost man among men, you ratiocinate in subtle pursuit, objectively and
 brainily, and great brains will comprehend good and bad in subtlety with their braininess...
 [4-66-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflect according to the truth (tattvato hi samanucintaya) with your intellect (buddhyā), O best of men! Endowed with intellect, men of great wisdom (mahā-prājñāḥ) discern what is auspicious and inauspicious (śubhāśubhe).”
 </details>
 </details>
 
@@ -954,6 +1046,12 @@ There is another shade to this verse with some altered verbiage as below:
 And the commentaries go on expanding these tenets, till this chapter vies with
 Bhagavad Gita.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of actions whose merits and defects are unseen (adṛṣṭa-guṇa-doṣāṇām) and which are transient (adhruvāṇām), the desired fruit (phalam iṣṭam) does not come into being without their performance (nāntareṇa kriyāṃ teṣām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1004,6 +1102,12 @@ anushiSyaat hi* = to you, can profess, indeed.
 "Oh valiant one, indeed you alone have said this way to me previously and
 repeatedly, who really can profess you even he were to be professedly the Jupiter... [4-66-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indeed, O hero, you yourself spoke to me thus many a time in the past (mām evaṃ hi purā bahuśoktavān); who indeed—even Bṛhaspati in person (api sākṣād bṛhaspatiḥ)—could instruct you (anuśiṣyāt)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1053,6 +1157,12 @@ thinking process; *devaiH api dur anvayaa* = by gods, even, impossible, to expli
 "Oh, great discerner, your thinking process is non-explicatory even to gods, but now
 that thinking process is obliquely and utterly slumberous owing to your sadness, hence I am
 addressing your percipience and this is no schoolteaching... [4-66-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And your intellect (buddhiś ca te), O man of great wisdom (mahā-prājña), is unfathomable even by the gods (devair api duranvayā); I am [merely] awakening (saṃbodhayāmy aham) your knowledge, which has been lulled to sleep by grief (śokenābhiprasuptam).
 </details>
 </details>
 
@@ -1119,6 +1229,12 @@ then the meaning is 'you have missiles unknown to humans and you also have missi
 gods, by the courtesy of Vishvamitra and Agastya, and you have your own valour, then try hard for
 the abuser...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having considered your own valour (ātmanaś ca parākramam), both divine and human (divyaṃ ca mānuṣaṃ caivam), O bull of the Ikṣvākus (ikṣvāku-vṛṣabha), strive for the slaying of your foes (yatasva dviṣatāṃ vadhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1177,6 +1293,12 @@ and it will be apt of you to uproot him... him alone... [4-66-21]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तारनॆय सर्ग सम्पूर्णवायितु. ॥66॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What use is there to you (kiṃ te) in bringing about universal destruction (sarva-vināśena kṛtena), O bull among men (puruṣarṣabha)? Having ascertained that wicked enemy alone (tam eva tu ripuṃ pāpaṃ vijñāya), you ought to uproot him (uddhartum arhasi).”
 </details>
 </details>
 

@@ -69,6 +69,12 @@ reverence.
 Hearing that Vajradamshtra was killed by Angada, Ravana spoke the following words to
 the General of his forces who, with joined palms, stood near him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that Vajradaṃṣṭra had been slain by the son of Vālin (vāliputreṇa), Rāvaṇa spoke these words to the commander of the army (balādhyakṣam), [Prahasta,] who stood near with joined palms (kṛtāñjalim upasthitam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +121,12 @@ demons; *durdharSaaH* = of irresistible courage; *niryaantu* = go forth;
 "Let the invincible demons of irresistible courage go forth soon, with Akampana as
 their head, who is skilled in the use of every weapon and missile."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let the indomitable (durdharṣāḥ) Rākṣasas of terrible valor (bhīmavikramāḥ) sally forth swiftly, placing at their head Akampana, who is thoroughly skilled in all weapons and missiles (sarvaśastrāstrakovidam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -154,6 +166,12 @@ my welfare; *samarapriyaH* = and loved war; *nityam* = forever.
 
 "This excellent demon is a chastiser, a protector and a leader in battle. He ever
 desired my welfare and always loved war."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He is indeed a chastiser [of foes] (śāstā), a protector [of our forces] (goptā), and the foremost leader in battle (netā ca yudhi sattamaḥ); he ever desires my prosperity (bhūtikāmaḥ) and ever delights in war (samarapriyaḥ).
 </details>
 </details>
 
@@ -201,6 +219,12 @@ terrific; *vaanaraan* = monkeys; *na* = there is no; *samshayaH* = doubt.
 "There is no doubt that he will prove victorious and Rama, Lakshmana, the mighty
 Sugreeva and the other terrible monkeys."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He will surely vanquish the two Kākutsthas (kākutsthau) and the mighty Sugrīva, and he will slay the other fierce Vānaras—of this there is no doubt (na saṃśayaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -244,6 +268,12 @@ Akampana; *laghuparaakramaH* = of quick resolution; *tadaa* = then;
 Taking that command of Ravana, the mighty Akampana of quick resolution then
 mobilized the army.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting that command of Rāvaṇa (tām ājñāṃ rāvaṇasya), that mighty warrior [Prahasta], swift in valor (laghuparākramaḥ), then set the army in motion (balaṃ samprerayāmāsa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -284,6 +314,12 @@ had dispatched them.
 
 Those foremost of demons of terrifying appearance, furnished with every kind of
 weapon and fearful to look upon, rushed into the fray where their general had dispatched them.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged on by the commander of the army (balādhyakṣapracoditāḥ), the foremost Rākṣasas, bearing manifold weapons (nānāpraharaṇāḥ), dreadful-eyed and terrifying to behold (bhīmākṣā bhīmadarśanāḥ), thereupon rushed forth.
 </details>
 </details>
 
@@ -329,6 +365,12 @@ dreadful; *raakSasaiH* = demons.
 Then, Akampana of the stature and colour of a cloud, whose voice resembled a
 thunder, ascended his great chariot, decorated with fine gold and set out, surrounded by dreadful
 demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting a spacious chariot adorned with refined gold (taptakāñcanabhūṣaṇam), resembling a thundercloud in stature, dark as a cloud in hue, and possessing a mighty roar like the rumble of clouds (meghasvanamahāsvanaḥ)—
 </details>
 </details>
 
@@ -376,6 +418,12 @@ iva* = was resembling the sun; *teSaam* = among the demons.
 Even celestials were indeed unable to upset Akampana in a great battle. Hence, among
 the demons, he was shining like the sun, by his splendour.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by dreadful Rākṣasas, Akampana then sallied forth (niryāty akampanaḥ)—he who could not be shaken (na hi kampayituṃ śakyaḥ) even by the gods in great battle (mahāmṛdhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -422,6 +470,12 @@ dainyam* = were deprived of their energy; *akasmaat* = suddenly.
 As he sped on his way, hastened and eager to enter the battle, the horses drawing
 his chariot were suddenly deprived of their energy.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore was he [called] Akampana, [blazing] among them like the sun in splendor (āditya iva tejasā). Yet as he rushed forth, furious with the desire to fight (saṃrabdhasya yuyutsayā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,6 +521,12 @@ and his voice; *abhavat* = became; *gadgadaH* = trembled.
 
 The left eye of Akampana, who delighted in warfare, began to twitch. His countenance
 grew pale and his voice trembled.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without visible cause (akasmāt), dejection (dainyam) overcame the horses drawing his chariot (rathavāhinām), and the left eye (nayanaṃ savyam) of that warrior who delighted in battle throbbed (vyasphurat).
 </details>
 </details>
 
@@ -518,6 +578,12 @@ beasts; *uuchuH* = uttered; *kruuraaH* = cruel; *bhayaavahaaH* = and fearful;
 At a time of a good day, marked by fine weather, it turned into a day of bad weather
 with a bitter wind beginning to blow. Birds and beasts uttered cruel and fearful cries.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The hue of his face grew pallid (vivarṇo mukhavarṇaś ca), and his voice became faltering (gadgadaś cābhavat svanaḥ); even in a fair season (sudine kāle), the day turned overcast with a harsh wind (rūkṣamārutam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -564,6 +630,12 @@ shoulders of a lion; *shaarduulasama vikramaH* = and the agility of a tiger;
 That demon, who had the shoulders of a lion and the agility of a tiger, disregarding
 those portents, rushed towards the battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All the birds and beasts (khagamṛgāḥ sarve) uttered cruel and terrifying cries (vācaḥ krūrā bhayāvahāḥ); yet he, possessing broad shoulders like a lion's (siṃhopacitaskandhaḥ) and the valor of a tiger (śārdūlasamavikramaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -609,6 +681,12 @@ that seemed to convulse; *saagaram* = the ocean.
 
 While Akampana advanced thus with his troops, an immense tumult arose that seemed to
 convulse the ocean.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disregarding those portents (tān utpātān acintyaiva), he marched forth onto the field of battle (raṇājiram); and as that Rākṣasa went forth together with the Rākṣasas—
 </details>
 </details>
 
@@ -680,6 +758,14 @@ raavaNayoH arthe* = for the sake of Rama and Ravana.
 A highly fierce battle ensued between those monkeys and demons, who were ready to
 lose their lives for the sake of Rama and Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** There arose a mighty roar (sumahān nādaḥ), as though churning the ocean (kṣobhayann iva sāgaram); terrified by that sound, the great army of the Vānaras (vānarāṇāṃ mahācamūḥ)—
+
+**15:** Who fought with trees and crags (drumaśailaprahārāṇām), stood ready to give battle (yoddhuṃ samupatiṣṭhatām); and between those Vānaras and Rākṣasas a most dreadful battle arose (yuddhaṃ mahāraudraṃ saṃjajñe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +811,12 @@ and all; *parvata samnibhaaH* = were resembling mountains.
 
 All the monkeys and demons, who were willing to kill each other, were very strong
 and valiant. All were resembling mountains.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having wholly renounced their own bodies (samabhityaktadehinaḥ) for the sake of Rāma and Rāvaṇa (rāmarāvaṇayor arthe), all of them were of surpassing strength and valor, and all resembled mountains (parvatasaṃnibhāḥ).
 </details>
 </details>
 
@@ -778,6 +870,12 @@ were heard; *pamyuge* = in that combat.
 The tremendous clamour of the aforesaid warriors, yelling in their rage and
 strength, making savage cries, were distinctly heard on the battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Both the Vānaras and the Rākṣasas [fought] with the desire to slay one another (parasparajighāṃsayā); and the roar of those roaring warriors of exceeding impetuosity in battle (saṃyuge 'titarasvinām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -823,6 +921,12 @@ strength, making savage cries, were distinctly heard on the battle-field.
 
 A highly terrific dust, in a thick coppery colour, raised by the monkeys and demons
 enveloped all the ten quarters.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Was heard, vast and loud, as they bellowed at one another in wrath (kopād anyonyam abhigarjatām); and the dust, glowing crimson in hue (aruṇavarṇābham), became exceedingly dreadful (subhīmam abhavad bhṛśam).
 </details>
 </details>
 
@@ -870,6 +974,12 @@ whitish like a piece of silk shaken by the wind; *na dadR^ishuH* = did not see;
 The combatants, enveloped by that dust, which was whitish like a piece of silk
 shaken by the wind, could no longer distinguish each other on the battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raised up by the Vānaras and Rākṣasas (uddhṛtaṃ harirakṣobhiḥ), [that dust] obstructed all ten directions (saṃrurodha diśo daśa); and through that dust, pale-red as a fluttering silken banner (kauśeyoddhatapāṇḍunā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -915,6 +1025,12 @@ shaken by the wind, could no longer distinguish each other on the battle-field.
 
 Neither standard, banner and shield, nor horse, weapon and chariot could be
 discerned in that pall of dust.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Living beings, shrouded on the battlefield (saṃvṛtāni ca bhūtāni), could not see one another (anyonyaṃ dadṛśur na raṇājire); neither standard nor banner, nor shield (carma vā) nor steed—
 </details>
 </details>
 
@@ -966,6 +1082,12 @@ heard; *yuddhe* = in the battle; *ruupaaNi* = (yet in the confuison) no forms;
 A great tumultuous clamour, of warriors, making challenging cries and rushing upon
 each other, was heard on the battle-field, yet in that confusion, no form was visible.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nor weapon nor chariot (āyudhaṃ syandano vāpi) could be seen through that dust (dadṛśe tena reṇunā); only the mighty roar of those roaring and charging warriors—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1012,6 +1134,12 @@ the demons; *nijaghnuH* = killed; *raakSasaashchaapi* = the demons themselves.
 In the darkness, the greatly enraged monkeys killed the monkeys themselves and the
 demons killed the demons themselves in battle.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Was heard in the tumultuous battle (śrūyate tumulo yuddhe), while no forms were visible (na rūpāṇi cakāśire); in their fierce wrath, Vānaras struck down Vānaras (harīn eva susaṃruṣṭā harayo jaghnuḥ) in battle—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1052,6 +1180,12 @@ mud.
 
 Those monkeys and demons killing other and their own people then made the earth
 dampened with blood, anointing its body with mud.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Rākṣasas likewise slew Rākṣasas in that darkness (nijaghnus timire tadā); thus striking down both foes and their own comrades (parāṃś ca vinighnantaḥ svāṃś ca), the Vānaras and Rākṣasas—
 </details>
 </details>
 
@@ -1102,6 +1236,12 @@ filled with bodies and corpses.
 Under the stream of blood being sprinkled, the dust was laid, revealing the earth
 covered with bodies and corpses.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[They] then made the earth wet with blood (rudhirārdrāṃ mahīm) and smeared with bloody mire (paṅkānulepanām); and thereupon, sprinkled by that flood of blood (rudhiraugheṇa siktam), the dust subsided (apagataṃ rajaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1148,6 +1288,12 @@ maces; javelins; *shilaa parigha tomaraiH* = stones; bars and picks.
 The demons and the monkeys vigorously struck each other swiftly with blows from
 trees, spears, maces, javelins, stones, bars and picks.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the earth became strewn with lifeless bodies (śarīraśavasaṃkīrṇā); and with trees, javelins, maces, and darts (drumaśaktigadāprāsaiḥ), and with crags, iron-bound clubs, and lances (śilāparighatomaraiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1193,6 +1339,12 @@ deeds; *parvatopamaaH* = and who resembled mountains; *yuddhantaH* = fighting;
 
 The monkeys of dreadful deeds, resembling mountains, fighting with their arms
 appearing like iron bars, killed the demons in battle.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Rākṣasas and Vānaras swiftly struck one another with might (jaghnur anyonyam ojasā); fighting with arms shaped like iron bars (bāhubhiḥ parighākāraiḥ), against [foes] resembling mountains (parvatopamān)—
 </details>
 </details>
 
@@ -1243,6 +1395,12 @@ cruel; *shastraiH* = weapons.
 The enraged demons with darts and javelins in their hands, struck the monkeys there
 with their cruel weapons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Vānaras of dreadful deeds (bhīmakarmāṇaḥ) slew the Rākṣasas in battle; and the Rākṣasas, filled with wrath, with darts and lances in their hands (prāsatomarapāṇayaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1282,6 +1440,12 @@ Akampana; *chamuupatiH* = the General of the army; *raakSasaanaam* = of demons;
 
 The extremely enraged Akampana, the general of the army of demons, cheered all those
 demons by his terrible prowess.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck down the Vānaras there with exceedingly terrible weapons (śastraiḥ paramadāruṇaiḥ), while Akampana, the commander of the Rākṣasas (rākṣasānāṃ camūpatiḥ), filled with fierce wrath—
 </details>
 </details>
 
@@ -1329,6 +1493,12 @@ those demons; *mahaa druma mahaashmabhiH* = with blows from large trees and ston
 The monkeys however leaping upon them and snatching their weapons through their
 strength, crushed those demons with blows from large trees and stones.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cheered on all those Rākṣasas of terrible valor (rākṣasān bhīmavikramān); yet the Vānaras, for their part, with mighty trees and huge boulders (mahādrumamahāśmabhiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1374,6 +1544,12 @@ displayed; *anuttamam* = unsurpassed; *vegam* = rashness.
 
 Meanwhile Kumuda, Nala and Mainda the courageous monkeys in an outburst of anger,
 displayed unsuprassed rashness.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Charging forward and snatching away their weapons by sheer might (śastrāṇy ācchidya vīryataḥ), tore the Rākṣasas apart (rakṣāṃsi vidārayanti). Meanwhile, the heroic Vānaras—Kumuda, Nala—
 </details>
 </details>
 
@@ -1437,6 +1613,14 @@ demons with every kind of weapon.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तैदनॆय सर्ग पूर्णवायितु.॥55॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** Mainda, and Dvivida—filled with wrath, put forth unsurpassed speed (cakrur vegam anuttamam); and with trees those great heroes, at the forefront of the Rākṣasa army (rākṣasānāṃ camūmukhe)—
+
+**32:** Those bulls among the Vānaras (haripuṃgavāḥ) wrought a mighty slaughter as if in sport (kadanaṃ sumahac cakrur līlayā), and all of them fiercely crushed the Rākṣasas with manifold weapons (nānāpraharaṇair bhṛśam).
 </details>
 </details>
 

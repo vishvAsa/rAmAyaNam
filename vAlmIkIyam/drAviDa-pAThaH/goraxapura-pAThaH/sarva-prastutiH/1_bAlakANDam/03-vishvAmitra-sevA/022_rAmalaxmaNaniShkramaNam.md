@@ -72,6 +72,14 @@ King Dasharatha sends Rama and Lakshmana along with Sage Vishvamitra as requeste
 When Vashishta said that way king Dasharatha with an air of satisfaction personally
  fetched Rama along with Lakshmana. [1-22-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** When Vasiṣṭha had spoken thus (tathā vasiṣṭhe bruvati), King Daśaratha himself, with a joyful countenance (prahṛṣṭavadano), summoned Rāma together with Lakṣmaṇa (rāmam ājuhāva salakṣmaṇam).
+
+**2:** Over whom auspicious rites of benediction had been performed (kṛtasvastyayanam) by his mother Kausalyā and by his father Daśaratha, and who had been consecrated with auspicious Vedic mantras (maṅgalair abhimantritam) by the royal chaplain Vasiṣṭha—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -183,6 +191,12 @@ Duryodhana of Maha Bharata knows about this rule position and when he wanted to
 
 इति मातृ-मङ्गलान्य् एव प्रयुक्तम् ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Smelling his son tenderly upon the crown of his head (sa putraṃ mūrdhny upāghrāya), King Daśaratha then gave him over to the son of Kuśika with a deeply contented heart (suprītenāntarātmanā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,6 +262,14 @@ When the great-souled Rama forged ahead there occurred an abounding downpour of
 Then on seeing the lotus-eyed Rama following Vishvamitra, dustless
  and pleasant for touch breeze blew. [1-22-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Then, upon beholding lotus-eyed Rāma gone to Viśvāmitra’s side (viśvāmitragataṃ rāmaṃ dṛṣṭvā rājīvalocanam), a breeze of delightful touch and free of dust blew (vāyuḥ sukhasparśo nīrajasko vavau tadā).
+
+**5:** As that high-souled sage set forth (prayāte tu mahātmani), a great shower of blossoms fell from the sky accompanied by the reverberations of celestial kettledrums (puṣpavṛṣṭir mahaty āsīd devadundubhinisvanaiḥ), along with the resonance of conches and drums (śaṅkhadundubhinirghoṣaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,6 +314,12 @@ Rama with jet-black hair-locks handling his bow followed Vishvamitra who walked
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
 
 अनेन महान्तम् अनुसृत्य गन्तव्यम् इति सूचितम् ।
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra walked in front (viśvāmitro yayāv agre); behind him walked Rāma of great renown (tato rāmo mahāyaśāḥ), wearing charming side-locks of hair (kākapakṣadharo) and bearing his bow (dhanvī); and Sumitrā’s son Lakṣmaṇa followed close behind him (taṃ ca saumitrir anvagāt).
 </details>
 </details>
 
@@ -360,6 +388,12 @@ The meaning of As'vins from as'va a horse, Persian asp, Greek
  personified. In the popular mythology they are regarded as the physicians of the
  Gods. Gorresio/Griffith.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wearing quivers of arrows (kalāpinau) and holding bows in their hands (dhanuṣpāṇī), illuminating all ten directions (śobhayānau diśo daśa), they followed the high-souled Viśvāmitra like two three-headed serpents (triśīrṣāv iva pannagau)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -387,6 +421,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्तह अद्भुत रूप वीर्यादि वैभवयुक्तराद श्रीराम-लक्ष्मणरु-ब्रह्मदेवरन्नु अनुसरिसि होगुव अश्विनी देवतॆगळन्तॆ विश्वामित्ररन्नु अनुसरिसिहोगुत्तिद्दरु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those two high-minded princes (akṣudrau) followed him just as the twin Aśvins follow Pitāmaha Brahmā (pitāmaham ivāśvinau); following in his train (anuyātau), radiant with beauty (śriyā dīptau) and irreproachable (aninditau), the two adorned the sage (śobhayetām).
 </details>
 </details>
 
@@ -469,6 +509,14 @@ and Vishaakha, are incorporated in simile to Rama and Lakshmana.
 And on going one and half yojana distance Vishvamitra addressed Rama in a harmonious
  voice calling, 'oh, Rama', on the southern riverbank of Sarayu. [1-22-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Then, with bows in hand (dhanuṣpāṇī) and splendidly arrayed (svalaṃkṛtau), wearing iguanaskin finger-guards bound upon their hands (baddhagodhāṅgulitrāṇau), girt with swords (khaḍgavantau), and blazing with great luster (mahādyutī)—
+
+**10:** Those two youthful princes of shapely form (kumārau cāruvapuṣau), the brothers Rāma and Lakṣmaṇa (bhrātarau rāmalakṣmaṇau), following in his train, radiant with splendor and irreproachable (aninditau), graced the son of Kuśika—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -542,6 +590,14 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
  can effect you, nor the demons can charge you either you are sleeping or unvigilant.
  [1-11-12b, 13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** —Just as the two fire-born youths Skanda and Viśākha (kumārāv iva pāvakī) grace the inconceivable god Sthāṇu (Śiva, sthāṇuṃ devam ivācintyam). Having proceeded one and a half yojanas (adhyardhayojanaṃ gatvā) along the southern bank of the Sarayū (sarayvā dakṣiṇe taṭe),
+
+**12:** Viśvāmitra spoke in a sweet voice, calling out, “O Rāma!” (rāmeti madhurāṃ vāṇīṃ viśvāmitro ’bhyabhāṣata): “Take water for ritual sipping, my child (gṛhāṇa vatsa salilam); let there be no lapse of the proper hour (mā bhūt kālasya paryayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -589,6 +645,12 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 "As it is none whosoever on earth can equal you in dexterity, Rama, and by reciting
  these hymns none can equal you in the three worlds. [1-22-13b, 14a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Receive from me the sacred body of mantras (mantragrāmaṃ gṛhāṇa tvam) known as Balā and Atibalā (balām atibalāṃ tathā). Thereby neither fatigue (na śramo) nor feverish heat (na jvaro vā) shall afflict you, nor shall your bodily beauty suffer any change (na rūpasya viparyayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -613,6 +675,12 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मलगिद्दाग इल्लवे ऎच्चरवागिरुवाग राक्षसरु निन्न मेलॆ आक्रमण माडलाररु. ई भूतळदल्लि बाहुबलदल्लि निनगॆ समानरादवरु यारू इरलारर.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor shall the rākṣasas (nairṛtāḥ) ever overpower you, whether you are asleep or off guard (suptaṃ pramattaṃ vā). In the might of your arms (bāhvoḥ vīrye), no one upon the earth shall be your equal (na sadṛśaḥ pṛthivyām asti kaścana)—
 </details>
 </details>
 
@@ -659,6 +727,12 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
  can equal you in the world by your handsomeness, calibre, erudition, by your discernment,
  and even in replying or rebutting you. [1-22-14b, 15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor across all the three worlds (triṣu lokeṣu vā), O Rāma, shall anyone rival you when you recite Balā and Atibalā (balām atibalāṃ caiva paṭhataḥ), O beloved Rāghava!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -699,6 +773,12 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 "On receiving these two teachings there will be none similar to you, for bala
  and atibala are the mothers of all knowledge. [1-22-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither in winning grace (na saubhāgye), nor in dexterous skill and courtesy (na dākṣiṇye), nor in philosophical wisdom (na jñāne), nor in decisive judgment (buddhiniścaye), nor in furnishing a ready reply in debate (nottare prativaktavye) shall anyone in the world be your equal (samo loke tavānagha), O sinless one!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -738,6 +818,12 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 
 "Oh, best one among men, Raghava, if you go on reciting bala and atiblala hymns,
  my dear Rama, there will be no hunger or thirst to you. [1-22-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Once this pair of sacred sciences is acquired (etadvidyādvaye labdhe), none shall ever equal you (na bhavet sadṛśas tava); for Balā and Atibalā are the very mothers of all knowledge (sarvajñānasya mātarau).
 </details>
 </details>
 
@@ -797,6 +883,12 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
  to you, oh virtuous one, as you are the most eligible one, hence take the teachings
  that are kept safe from the world. [1-22-18, 19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither hunger nor thirst shall ever touch you (kṣutpipāse na te rāma bhaviṣyete), O best of men, when you recite Balā and Atibalā along the way (balām atibalāṃ caiva paṭhataḥ), O beloved Rāghava!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -827,6 +919,12 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई ऎरडु विद्यॆगळन्नु अध्ययन माडिदाग ई भूतळदल्लि निन्न कीर्तिय विस्तारवागुवुदु. इवॆरडु विद्यॆगळु ब्रह्मदेवर तेजस्वी पुत्रियरागिद्दारॆ.॥19½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Receive them for the protection of the entire world (gṛhāṇa sarvalokasya guptaye), O delight of the Raghus! When you study and recite this pair of vidyās (vidyādvayam adhīyāne), boundless renown shall be yours upon the earth (yaśaś cātha bhaved bhuvi); for these two radiant sciences are the very daughters of Pitāmaha Brahmā (pitāmahasute hy ete vidye tejaḥsamanvite).
 </details>
 </details>
 
@@ -888,6 +986,12 @@ _________________
  too in abundance, yet these hymns if ascetically nurtured will yield various results."
  Thus spoke Sage Vishvamitra to Rama. [1-22-19b, 20a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am resolved to bestow them upon you (pradātuṃ tava kākutstha), for you alone are worthy of them (sadṛśas tvaṃ hi pārthiva), O prince! Admittedly (kāmam), all these manifold virtues already abide naturally in you—of this there is no doubt (bahuguṇāḥ sarve tvayy ete nātra saṃśayaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -928,6 +1032,12 @@ _________________
 
 Then Rama on touching water to purify himself received those teachings from the
  contemplative soul Vishvamitra with gladness beaming on his face. [1-22-20b, 21a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet these two sciences, nurtured through asceticism (tapasā saṃbhṛte), shall assume manifold fruitful forms in you (bahurūpe bhaviṣyataḥ).” Thereupon Rāma, having sipped water in ritual purification (jalaṃ spṛṣṭvā), pure (śuciḥ) and with a joyful countenance (prahṛṣṭavadanaḥ),
 </details>
 </details>
 
@@ -995,6 +1105,12 @@ Throughout this chapter Vishvamitra addresses Rama alone to learn the hymns. It
  one with Rama when it comes to education. Thus these hymn are imparted to Lakshmana
  also, not to Rama alone.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Duly received those two sacred sciences (pratijagrāha te vidye) from the great sage of purified soul (maharṣer bhāvitātmanaḥ). Illumined by those sciences (vidyāsamudito), Rāma of mighty valor (bhūrivikramaḥ) shone forth (śuśubhe)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1033,6 +1149,12 @@ _________________
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
 
 अनेनाचार्येण सदृशे शिष्ये नियमोपदेश-पूर्वकं मन्त्रोपदेशः शुचौ देशे कर्तव्यः, शिष्येणापि कृत-स्नानाचमनेन गुरु-नियमेन मन्त्रं गृहीत्वा गुरु-शुश्रूषणादिकम् अवश्यं कर्तव्यम् इति सूचितम् । 
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like the glorious thousand-rayed sun in autumn (sahasraraśmir bhagavāñ śaradīva divākaraḥ). Having performed all the duties of service due to a preceptor (gurukāryāṇi sarvāṇi niyujya) toward the son of Kuśika (kuśikātmaje), the three of them spent that night most happily there on the bank of the Sarayū (ūṣus tāṃ rajanīṃ tatra sarayvāṃ susukhaṃ trayaḥ).
 </details>
 </details>
 
@@ -1096,6 +1218,12 @@ Though both Rama and Lakshmana slept on an undeserving grass bed, nestled by the
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तॆरडनॆय सर्ग पूर्णवायितु. ॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And for those two foremost sons of King Daśaratha (daśarathanṛpasūnusattamābhyām), resting then upon an unaccustomed couch of grass (tṛṇaśayane ’nucite tadoṣitābhyām) yet tenderly caressed by the affectionate words of Kuśika’s son (kuśikasutavaco’nulālitābhyām), that night shone forth full of felicity (sukham iva sā vibabhau vibhāvarī ca).
 </details>
 </details>
 

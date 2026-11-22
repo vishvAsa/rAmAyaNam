@@ -71,6 +71,12 @@ Vibhishana; *bhraatuH* = his brother; *dashagriivaH* = Ravana; *abraviit* = spok
 Hearing those words, which were aprropriate for that place and time, spoken by that hih-souled
 Vibhishana, his brother, Ravana spoke the following words in reply:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of his high-souled brother (bhrātuḥ), suited to place and time (deśa-kāla-hitam), Ten-Necked Rāvaṇa (daśagrīvaḥ) spoke these words in reply [lit. as a rejoinder, uttaram]:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +126,12 @@ _________________
 "You have spoken well indeed that killing of an envoy is forbidden. Another punishment
 other than killing needs be certainly meted out to him."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, you have spoken rightly (samyag uktam): the slaying of an envoy (dūta-vadhyā) is censured (vigarhitā). Yet some punishment (nigrahaḥ) other than death [lit. for the sake of chastisement short of slaying] must certainly be inflicted upon him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -166,6 +178,12 @@ other than killing needs be certainly meted out to him."
 
 "It is said that a tail is possibly a beloved ornament for the monkeys. Let his tail
 be burn immediately. Let him go with a burnt tail."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For monkeys, they say (kila), the tail (lāṅgūlam) is a cherished ornament (iṣṭam bhūṣaṇam); let that tail of his be set ablaze (dīpyatām) at once, and let him depart with it burned!
 </details>
 </details>
 
@@ -216,6 +234,12 @@ relatives; *samitrajJNaataaH* = together with his friends and kinsmen; *sasuhR^i
 "Let all his relatives together with his friends, kinsmen and amicable persons then see
 him miserably injured with his deformed limbs."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then let all his allies and kinsmen (sumitra-jñātayaḥ), relatives (bāndhavāḥ), and dear friends (sa-suhṛj-janāḥ) behold him wretched (dīnam) and wasted by bodily disfigurement (aṅga-vairūpya-karśitam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,6 +285,12 @@ its cross-roads.
 
 Ravana ordered that let the monkey be carried around with his burning tail by the demons
 in the entire city around its cross-roads."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lord of rākṣasas (rākṣasendraḥ) commanded: “Let him be led around (pariṇīyatām) by the rākṣasas through the entire city with its crossroads (sa-catvaram) with his tail blazing (pradīptena lāṅgūlena)!”
 </details>
 </details>
 
@@ -310,6 +340,12 @@ _________________
 Hearing those words of Ravana, the demons, hard-tempered with their wrath, wrapped, up
 old ragged clothes around Hanuma's tail.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that command of his, the rākṣasas, harsh with wrath (kopa-karkaśāḥ), wrapped (veṣṭante) his tail with worn-out cotton cloths (jīrṇaiḥ kārpāsikaiḥ paṭaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -358,6 +394,12 @@ iva* = like a fire; *aasaadya* = after catching; *shuSkam indhanam* = dry wood;
 
 While his tail was being wrapped around with cotton tatters, Hanuma proliferating, soon
 after catching dry wood in forests.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As his tail was being wrapped (saṃveṣṭyamāne lāṅgūle), the great monkey grew in bulk (vyavardhata), like a fire in the woods (vaneṣv iva hutāśanam) upon reaching dry fuel (śuṣkam indhanam).
 </details>
 </details>
 
@@ -414,6 +456,12 @@ The demons sprinkled oil and set out fire on that tail. Then, Hanuma, with his f
 a rising sun with his mind filled with anger and impatience and with his burning tail, threw those demons
 down.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Soaking it with oil (tailena pariṣicya), they then applied fire (agnim upapādayan) to it; with his blazing tail (lāṅgūlena pradīptena), he struck down (atāḍayat) those rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -462,6 +510,12 @@ baala vR^iddhaashcha* = together with their women; children and elders; *jagmuH*
 
 To see the burning tail of that Hanuma, the delighted demons together with their women,
 chldren and elders went there.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His soul filled with wrath and indignation (roṣāmarṣa-parītātmā) and his face resembling the rising sun (bāla-sūrya-samānanaḥ), that bull among monkeys (hari-puṅgavaḥ) was again [bound] by cruel rākṣasas who banded together (saṃgataiḥ).
 </details>
 </details>
 
@@ -536,6 +590,14 @@ me; *chhitvaa* = breaking; *paashaan* = the nooses; *punaH* = again; *aham*
 "Though I have been tied down, those demons cannot do whatever they wish to do against
 me. Breaking the ties, I can fly up and kill them."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** And the night-roamers, together with their women, children, and elders (saha-strī-bāla-vṛddhāś ca), attained delight (jagmuḥ prītim); though bound (nibaddhaḥ), the hero formed a resolve suited to that moment (tat-kāla-sadṛśīṃ matim):
+
+**11:** “Granted, these rākṣasas are no match for me (na me śaktāḥ) even when I am bound (nibaddhasyāpi); snapping my bonds (chittvā pāśān) and springing up, I could slay them once again.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -585,6 +647,12 @@ command of their lord; *na niSkR^itiH* = no rebuff; *kR^itaa* = has been done; *
 "If these evil-minded demons fasten me who is acting for the good of Rama my lord, because
 of the command by their lord, no rebuff has been done to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if these wicked-souled ones (durātmānaḥ) bind me at their master's command (bhartṛ-śāsanāt) while I act for my lord's welfare (bhartṛ-hitārthāya), they still have achieved no true retaliation (niṣkṛtiḥ) against me.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -606,6 +674,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मैं युद्धस्थलमें अकेला ही इन समस्त राक्षसोंका संहार करनेमें पूर्णतः समर्थ हूँ, किंतु इस समय श्रीरामचन्द्रजीकी प्रसन्नताके लिये मैं ऐसे बन्धनको चुपचाप सह लूँगा ॥ १३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am a match (paryāptaḥ) for all the rākṣasas in battle (yudhi); yet for the sake of pleasing Rāma (rāmasya prītyartham), I shall endure (viṣahiṣye) such treatment as this.
 </details>
 </details>
 
@@ -649,6 +723,12 @@ priityartham* = for the delight; *raamasya* = of Rama; *iidR^isham* = such; *laN
 
 "I am adequate enough to kill all these demons in battle. But, for the delight of Rama,
 such city of Lanka is fit to be espionaged again. For this reason, I am putting up with it."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Laṅkā ought to be traversed (cārayitavyā) by me once again’—for at night (rātrau) she was not well inspected (na hi sudṛṣṭā) by me with respect to the layout of her fortifications (durga-karma-vidhānataḥ).
 </details>
 </details>
 
@@ -696,6 +776,12 @@ specifications of the fort; *meva* = surely; *draSTavyaa* = it is to be seen; *m
 
 "Lanka was not indeed observed well as to the particulars of specifications of the fort,
 when it was seen by me during the night. Surely, it is to be seen by me during the day-time."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the passing of night (niśā-kṣaye), Laṅkā must certainly be seen by me; let them bind me (badhnantu) again as they please and set my tail ablaze (pucchasyoddīpanena ca)!
 </details>
 </details>
 
@@ -774,6 +860,14 @@ There will be no travail to my mind."
 Then, those delighted demons went, seizing Hanuma, who concealed all types of his feelings,
 who was strong and foremost among monkeys.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** “Though the rākṣasas inflict torment (pīḍāṃ kurvanti), there is no weariness in my mind (manasaḥ śramaḥ).” Then, seizing that mighty monkey who possessed great strength (sattvavantam) and concealed his true demeanor (saṃvṛtākāram),
+
+**17:** the delighted rākṣasas marched off with that elephant among monkeys (kapi-kuñjaram), proclaiming their own exploits (sva-karmabhiḥ) with the blasts of conchs and kettledrums (śaṅkha-bherī-ninādaiś ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -850,6 +944,14 @@ happily; *chaarayaamaasa* = and roamed about; *mahaapuriim* = in the great city;
 Accompanied by demons, Hanuma the annihilator of enemies, went happily and roamed about
 in that great city of demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** The rākṣasas of cruel deeds (krūra-karmāṇaḥ) led him around that city (cārayanti sma tāṃ purīm); escorted by the rākṣasas (anvīyamāno rakṣobhiḥ), that tamer of foes (arindamaḥ) went along at ease (sukham).
+
+**19:** Hanumān traversed the great city of the rākṣasas (rākṣasānāṃ mahāpurīm); then the great monkey beheld wondrous aerial palaces (vimānāni vicitrāṇi),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -896,6 +998,12 @@ in that great city of demons.
 
 Then, Hanuma saw some wonderful house some wrapped up plots of land and well parted cross
 ways.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+secluded grounds (saṃvṛtān bhūmi-bhāgāṃś ca), well-laid-out courtyards (suvibhaktāṃś ca catvarān), streets crowded with mansions (rathyāś ca gṛha-sambādhāḥ), and four-way crossroads (śṛṅgāṭakāni ca),
 </details>
 </details>
 
@@ -950,6 +1058,12 @@ Hanuma, the son of wind-god, saw streets congested with dwellings, places where 
 roads meet, high-ways as also approach-roads, small inner apartments and palaces appearing in multitudes,
 like clouds.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+as well as highways and side-lanes (rathyoparathyāś ca), and likewise the interiors of houses (gṛhāntarān). In the courtyards, at the four-way junctions (catuṣkeṣu), and along the royal highway (rāja-mārge),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -997,6 +1111,12 @@ that Hanuma was a spy.
 
 All the demons proclaimed in cross roads, four-pillared temples and in royal high-ways,
 saying that Hanuma was a spy.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+all the rākṣasas proclaimed the monkey, crying, “He is a spy (cāra ity eva)!” Women, children, and elders (strī-bāla-vṛddhāḥ) came pouring out here and there out of curiosity (kutūhalāt),
 </details>
 </details>
 
@@ -1048,6 +1168,12 @@ _________________
 Women, children and old people came out from their respective dwellings, with an eagerness
 to see that Hanuma with his burning tail.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+eager to see (didṛkṣavaḥ) that Hanumān whose tail had been set ablaze (pradīpita-lāṅgūlam). Then, while the tip of Hanumān's tail (lāṅgūlāgre) was blazing,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1095,6 +1221,12 @@ _________________
 
 While the tip of Hanuma's tail was being ignited by the demons there, those female-demons
 with monstrous eyes then informed that unpleasant matter to Seetha, the princess.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+those ugly-eyed rākṣasa women (rākṣasyas tā virūpākṣyaḥ) reported that unwelcome news (tad apriyam) to the princess: “O Sītā, that coppery-faced monkey (tāmra-mukhaḥ kapiḥ) with whom you held converse (kṛta-saṃvādaḥ)—
 </details>
 </details>
 
@@ -1146,6 +1278,12 @@ _________________
 "O Seetha! That monkey with a red face, who had a conversation with you, is being moved
 around in the city, with his ignited tail."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘—that very one is being led around (pariṇīyate) with his tail blazing (lāṅgūlena pradīptena)!’ Hearing that cruel speech, which was like a second abduction of herself (ātmāpaharaṇopamam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1193,6 +1331,12 @@ _________________
 
 Hearing that cruel news, which created as much sorrow as when she was carried away by
 Ravana, Seetha was tormented with grief and started to pay homage to the fire-god.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vaidehī, tormented by grief (śoka-saṃtaptā), approached the fire (hutāśanam upāgamat); intent upon auspiciousness (maṅgalābhimukhī) for that great monkey,
 </details>
 </details>
 
@@ -1244,6 +1388,12 @@ _________________
 Then, the large-eyed Seetha, wishing for the welfare of Hanuma, prayed the fire-god with
 her devoted self.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the wide-eyed princess, pure and self-collected (prayatā), worshiped the bearer of oblations (havyavāhanam): “If service to my husband (pati-śuśrūṣā) has been performed by me, if austerity (tapaḥ) has been practiced, or if there is fidelity to a single lord (eka-patnītvam), become cool (śīto bhava) for Hanumān!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1291,6 +1441,12 @@ yadi* = if I am; *eka patniitvam* = a faithful wife; *tvam* = you; *bhava*
 
 "If I have done any service to my husband, if I have performed a penance and if I am
 a faithful wife, please be cool to Hanuma."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If that wise lord has even a little compassion (kiṃcid anukrośaḥ) for me, or if any remnant of good fortune (bhāgya-śeṣaḥ) remains for me, become cool for Hanumān!
 </details>
 </details>
 
@@ -1342,6 +1498,12 @@ if towards me; *bhaagya sheSaH* = some good fortune is remaining; *bhava* = be; 
 "If the wise Rama has even a little of kindness to me and if I have still some good fortune
 remaining to my credit, please be cool to Hanuma."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If that righteous-souled one (dharmātmā) knows me to be endowed with virtuous conduct (vṛtta-sampannām) and yearning for reunion with him (tat-samāgama-lālasām), become cool for Hanumān!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1391,6 +1553,12 @@ _________________
 "If that virtuous Rama recognises me as one,, who is endowed with a good moral conduct
 and who is ardently desirous of meeting him, please be cool to Hanuma."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If the noble Sugrīva, true to his promise (satya-saṃgaraḥ), is to rescue me (māṃ tārayet) from this confining ocean of sorrow (duḥkhāmbu-saṃrodhāt), become cool for Hanumān!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1438,6 +1606,12 @@ duH khaambu samrodhaat* = from this ocean of sorrow; *bhava* = be; *shiitaH* = c
 
 "If the venerable Sugreeva, true to his promise, can make me traverse from this ocean
 of sorrow, please be cool to Hanuma."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the sharp-rayed fire (tīkṣṇārcir analaḥ), steady (avyagraḥ) and with its flames curling clockwise (pradakṣiṇa-śikhaḥ), blazed up as if proclaiming to the fawn-eyed princess (mṛga-śāvākṣyāḥ) the monkey's welfare (śubhaṃ kapeḥ).
 </details>
 </details>
 
@@ -1490,6 +1664,12 @@ the right.
 Then, the fire-god, as though informing the fawn-eyed Seetha about the well-being of
 Hanuma, shone brightly with sharp flames, undisteurbed and shooting out pointed flames towards the right.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the Wind (anilaḥ), Hanumān's own progenitor (hanūmaj-janakaḥ), though joined with the fire on his tail (pucchānala-yutaḥ), blew as cool as a snowy breeze (prāleyānila-śītalaḥ), bringing comfort to the princess (svāsthya-karo devyāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1539,6 +1719,12 @@ Hanuma; *puchchhaanala yutaH* = combined with the fire on his tail; *vavau* = sw
 Even wind-god, the father of Hanuma, combined with the fire on Hanuma's tail, swept coolly
 like a snow-breeze, creating a solace to Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While his tail was burning (dahyamāne ca lāṅgūle), the monkey reflected: “Why does this fire, though blazing on all sides (pradīpto 'gnir ayaṃ sarvataḥ), not burn me (na māṃ dahati)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1567,6 +1753,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इसमें इतनी ऊँची ज्वाला उठती दिखायी देती है, तथापि यह आग मुझे पीड़ा नहीं दे रही है । मालूम होता है मेरी पूँछके अग्रभागमें बर्फका ढेर-सा रख दिया गया है ॥ ३४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“It is seen with mighty flames (mahā-jvālaḥ), yet it causes me no pain (na me rujam); it rests upon the tip of my tail (lāṅgūlāgre pratiṣṭhitaḥ) like a mass of frost (śiśirasyeva sampātaḥ)!
 </details>
 </details>
 
@@ -1632,6 +1824,12 @@ though; *shishirasya samghaataH* = a snow-ball; *pratiSThitaH* = is kept; *laaNg
 "It is conspicuous with large flames. But it is not creating any paoin to me, as if a
 snow-ball is kept at the tip of my tail."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or rather, this is clearly (tad idaṃ vyaktam) just like that marvel (āścaryam) which was seen by me while leaping (plavatā mayā)—the mountain in the lord of rivers (saritāṃ patau) [rising] through Rāma's power (rāma-prabhāvāt)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1660,6 +1858,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यदि श्रीरामके उपकारके लिये समुद्र और बुद्धिमान् मैनाकके मनमें वैसी आदरपूर्ण उतावली देखी गयी तो क्या अग्निदेव उन भगवान् के उपकारके लिये शीतलता नहीं प्रकट करेंगे? ॥ ३६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If the Ocean (samudrasya) and wise Maināka (mainākasya ca dhīmataḥ) showed such eager solicitude (sambhramas tādṛk) for Rāma's sake (rāmārtham), what will Fire not do (kim agnir na kariṣyati)?
 </details>
 </details>
 
@@ -1725,6 +1929,12 @@ not do it?
 "If such an eagerness was there in the mind of the sea and the wise Mount Mainaka for
 the cause of Rama; will not the fire-god show the same degree of eagerness in making its touch cold?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through Sītā's compassion (sītāyāś cānṛśaṃsyena), through Rāghava's fiery majesty (tejasā rāghavasya ca), and through friendship with my father (pituś ca mama sakhyena), the purifier (pāvakaḥ) does not burn me!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1756,6 +1966,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर कपिकुञ्जर हनुमान् ने पुनः एक मुहूर्ततक इस प्रकार विचार किया ‘मेरे-जैसे पुरुषका यहाँ इन नीच निशाचरोंद्वारा बाँधा जाना कैसे उचित हो सकता है? पराक्रम रहते हुए मुझे अवश्य इसका प्रतीकार करना चाहिये’ ॥ ३८ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once more that elephant among monkeys (kapi-kuñjaraḥ) reflected for a moment (muhūrtam): “How can one like me (asmad-vidhasya) submit here to binding by the vilest of rākṣasas (rākṣasādhamaiḥ)?
 </details>
 </details>
 
@@ -1819,6 +2035,12 @@ among mokeys; *chintayaamaasa* = reflected; *bhuuyaH* = again; *atha* = and ther
 That Hanuma, the foremost among the monkeys, reflected agian for a monment, jumped with
 swiftness and roared too.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When prowess (parākrame) is mine, fitting retaliation (pratikriyā) for this ought to be exacted!” Then, snapping those bonds (chittvā ca tān pāśān), the swift and mighty monkey
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1867,6 +2089,12 @@ puradvaaram* = the city-gate; *unnatam* = which was looking high; *vibhaktarakSa
 
 Then, the glorious Hanuma like a mountain-peak, approached the city-gate, which was looking
 high and stood secluded from the crowds of demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+leapt up with force (utpapātātha vegena) and uttered a roar (nanāda ca); then the glorious monkey [reached] the city gate (pura-dvāram), lofty as a mountain peak (śaila-śṛṅgam ivonnatam).
 </details>
 </details>
 
@@ -1943,6 +2171,14 @@ free from his tethers; *punaH* = again; *abhavat* = assumed; *parvatasannibhaH*
 The glorious Hanuma, having been free from his bonds, again assumed the form equal to
 a mountain and while looking around, found and iron rod belonging to the arched door-way.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** The son of the Wind (anilātmajaḥ) reached [the city gate] where the thronging of rākṣasas had parted (vibhakta-rakṣaḥ-sambādham); having grown mountain-like (bhūtvā śaila-saṃkāśaḥ), the self-possessed hero in an instant (kṣaṇena) once again
+
+**42:** assumed extreme minuteness (hrasvatāṃ paramāṃ prāptaḥ) and shook off his bonds (bandhanāny avaśātayat); and freed (vimuktaś ca), the glorious one again became like a mountain (punaḥ parvata-saṃnibhaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1992,6 +2228,12 @@ guards.
 **अनुवादः**
 
 That long-armed Hanuma, again taking taht rod made of iron, killed all those guards.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Glancing around (vīkṣamāṇaś ca), he spotted an iron bolt (parigham) resting against the archway (toraṇāśritam); seizing that [bolt] plated with black iron (kālāyasa-pariṣkṛtam), mighty-armed Māruti once again slew (sūdayām āsa) all those guards (rakṣiṇaḥ).
 </details>
 </details>
 
@@ -2059,6 +2301,12 @@ over Lanka, shone like the sun encircled with rays, with the wreath of flames bl
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऐवत्तमूरनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain them (sa tān nihatvā), that hero of fierce valor in battle (raṇa-caṇḍa-vikramaḥ) surveyed Laṅkā once again (samīkṣamāṇaḥ punar eva laṅkām); garlanded with flames made by his blazing tail (pradīpta-lāṅgūla-kṛtārcimālī), he shone forth (prakāśata) like the ray-garlanded sun (āditya ivārcimālī).
 </details>
 </details>
 

@@ -72,6 +72,12 @@ mind on Rama; *yatra* = of whom; *tam* = those; *apriyam* = unpleasant words;
 Hearing those most disagreeable words from Guha, Bharata began to think deeply,
 directing his mind on Rama, of whom those unpleasant words were heard.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard the exceedingly unwelcome words of Guha (guhasya vacanaṃ śrutvā bhṛśam apriyam), Bharata sank into anxious reflection right there where that unwelcome news was heard (bharato dhyānaṃ jagāma tatraiva yatra tac chrutam apriyam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,6 +141,14 @@ resembled a lion's his large eyes opening like a flowering lotus and having plea
 momentarily sighed and in his extreme anguish, sank to the ground suddenly like an elephant that
 has been wounded in the heart with goads.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** Tender, of mighty spirit, lion-shouldered, and long-armed (sukumāro mahā-sattvaḥ siṃha-skandho mahā-bhujaḥ), with eyes wide like white lotuses, youthful, and lovely to behold (puṇḍarīka-viśālākṣas taruṇaḥ priya-darśanaḥ),
+
+**3:** having recovered his breath for a brief moment, deeply dejected in mind (pratyāśvasya muhūrtaṃ tu kālaṃ parama-durmanāḥ), he suddenly collapsed like an elephant deeply pierced by goads (papāta sahasā totrair hy atividdha iva dvipaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -184,6 +198,12 @@ drumaH* = like a tree; *bhuumikampe* = during an earth-quake.
 Seeing Bharata unconscious, Guha growing pale, shook like a tree during an
 earthquake.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Bharata in a swoon, Guha, his face drained of color (bharataṃ mūrcchitaṃ dṛṣṭvā vivarṇa-vadano guhaḥ), was shaken with distress there like a tree in an earthquake (babhūva vyathitas tatra bhūmi-kampe yathā drumaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -230,6 +250,12 @@ who was in that stae; *visamjJNaH* = becoming non-pulsed; *ruroda* = cried;
 Shatrughna, who stood near, taking Bharata, who was in that unconscious state in his
 arms, becoming non-pulsed, cried loudly, overcome as he was with grief.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing Bharata in that state, Śatrughna, who stood close beside him (tad-avasthaṃ tu bharataṃ śatrughno 'nantara-sthitaḥ pariṣvajya), wept aloud, bereft of his senses and wasted by grief (rurodoccair visaṃjñaḥ śoka-karśitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -273,6 +299,12 @@ Bharata).
 
 Then, all the queens, emaciated through fasting, extremely miserable, being unable
 to find consolation for the sad end of their lord, rushed towards Bharata.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then all those mothers of Bharata came rushing together (tataḥ sarvāḥ samāpetur mātaro bharatasya tāḥ), emaciated by fasting, wretched, and afflicted by the calamity of their lord’s death (upavāsa-kṛśā dīnā bhartṛ-vyasana-karśitāḥ).
 </details>
 </details>
 
@@ -323,6 +355,12 @@ ground; *kausalyaaH tu* = Kausalya on her part; *durmanaaH* = torn with grief;
 All of them, sobbing, surrounded Bharata who fell on the ground. Kausalya on her
 part, torn with grief and bending over him, embraced him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping, those queens surrounded him as he lay fallen upon the ground (tāś ca taṃ patitaṃ bhūmau rudantyaḥ paryavārayan), while Kausalyā, heavy-hearted, approached him and embraced him (kausalyā tv anusṛtyainaṃ durmanāḥ pariṣasvaje).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -371,6 +409,12 @@ to her bossom; *vatsam yathaa* = as to a calf; *svam* = by its own mother-cow;
 
 That affectionate Kausalya, agitated as she was with grief and looking miserable,
 pressing him to her bosom as a cow its own calf, questioned Bharata (in the following words)
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tenderly affectionate, clasping him as a cow her own calf (vatsalā svaṃ yathā vatsam upagūhya), that sorrowing lady, wholly given over to grief, questioned Bharata as she wept (tapasvinī paripapraccha bharataṃ rudantī śoka-lālasā):
 </details>
 </details>
 
@@ -421,6 +465,12 @@ hope that no ailment afflicts; *te shariiram* = your body; *adya* = now;
 "O, son! I hope that no ailment afflicts your body. Now, the life of this royal race
 is indeed dependent on you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My son, I hope no illness afflicts your body (putra vyādhir na te kaccic charīraṃ paribādhate)? Today the very life of this royal house depends upon you (adya rāja-kulasyāsya tvad-adhīnaṃ hi jīvitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -468,6 +518,12 @@ now.
 "O, son! Rama along with Lakshman has gone to the forest. The king Dasaratha is
 dead. I survive, looking on you. Now, you alone are the protector for us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding you, my son, I live on, now that Rāma has gone with his brother (tvāṃ dṛṣṭvā putra jīvāmi rāme sa-bhrātṛke gate); since King Daśaratha has passed away, you alone are our protector today (vṛtte daśarathe rājñi nātha ekas tvam adya naḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,6 +570,12 @@ putraayaaH* = my only son; *gate* = who left; *vanam* = for the forest;
 
 "I hope you have not heard any unpleasant news about Lakshmana or about Rama my one
 and the only son who left for the forest along with his wife."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Have you heard, my son, anything untoward concerning Lakṣmaṇa (kaccin na lakṣmaṇe putra śrutaṃ te kiṃcid apriyam), or concerning the son of me who have but a single son, gone to the forest with his wife (putre vāpy eka-putrāyāḥ saha-bhārye vanaṃ gate)?”
 </details>
 </details>
 
@@ -564,6 +626,12 @@ consoled; *kausalyaam* = kausalya; *rudanneva* = and while still weaping;
 Bharata of great renown, easing himself well within a moment, consoled Kausalya and
 while still weeping, spoke to Guha (as follows)
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recovering himself after a moment, that prince of great renown, still weeping (sa muhūrtaṃ samāśvasya rudann eva mahā-yaśāḥ), comforted Kausalyā and spoke these words to Guha (kausalyāṃ parisāntvyedaṃ guhaṃ vacanam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,6 +680,12 @@ did Lakshmana (halt in the night)?; *bhuktvaa* = eating; *kim* = what;
 "O, guha! Tell me where did Rama my brother as also Seetha and Lakshmana halt in the
 night? On what couch and eating what, did he repose?
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Where did my brother pass the night, where Sītā, and where Lakṣmaṇa (bhrātā me kvāvasad rātrau kva sītā kva ca lakṣmaṇaḥ)? Upon what couch did he sleep, and after partaking of what food? Tell me, O Guha (asvapac chayane kasmin kiṃ bhuktvā guha śaṃsa me)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -659,6 +733,12 @@ Nishadas; *hR^iSTaH* = thrilling with rapture; *abraviit* = spoke; *bharatam*
 Guha, the Lord of Nishadas, thrilling with rapture, spoke to Bharata about the
 manner in which he made arrangements for (feeding and reposing) his beloved and kind guest,
 Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Glad at heart, Guha, lord of the Niṣādas, told Bharata (so 'bravīd bharataṃ hṛṣṭo niṣādādhipatir guhaḥ) what hospitality he had offered toward Rāma, his dear and benevolent guest (yad-vidhaṃ pratipede ca rāme priya-hite 'tithau):
 </details>
 </details>
 
@@ -710,6 +790,12 @@ consumption.
 "Various kinds of food and drink and different varieties of fruits were brought
 repeatedly by me to the presence of Rama for the purpose of his consumption."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Food of diverse kinds, confections, and manifold fruits (annam uccāvacaṃ bhakṣāḥ phalāni vividhāni ca) were brought by me in abundance for Rāma’s repast (rāmāyābhyavahārārthaṃ bahu copahṛtaṃ mayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -755,6 +841,12 @@ pratyagR^ihNaat* = could not accept; *tat* = it.
 
 Rama, the truly courageous man, refused all of them. Reminding himself of his
 warrior's statute, he could not accept it.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All that, Rāma of true valor graciously acknowledged and permitted to be taken back (tat sarvaṃ pratyanujñāsīd rāmaḥ satya-parākramaḥ), yet remembering the duty of a Kṣatriya, he did not accept it (na tu tat pratyagṛhṇāt sa kṣatra-dharmam anusmaran).
 </details>
 </details>
 
@@ -802,6 +894,12 @@ saying thus; *'sakhe* = O; friend!; *na pratigraahyam* = nothing should be recei
 "O, Bharata! We were pacified by that high-souled Rama by saying thus: ' O, friend!
 We are not allowed to receive anything we must always be givers."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Friend, gifts are never to be accepted by us, but ever to be given (na hy asmābhiḥ pratigrāhyaṃ sakhe deyaṃ tu sarvadā)’—with these words, O king, we were gently conciliated by that great-souled prince (iti tena vayaṃ rājann anunītā mahātmanā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -847,6 +945,12 @@ We are not allowed to receive anything we must always be givers."
 
 "Rama, of great glory, then along with Seetha drank the water brought by Lakshman as
 observed fasting."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having drunk only the water brought by Lakṣmaṇa (lakṣmaṇena samānītaṃ pītvā vāri mahā-yaśāḥ), Rāghava of great renown observed a fast at that time together with Sītā (aupavāsyaṃ tadākārṣīd rāghavaḥ saha sītayā).
 </details>
 </details>
 
@@ -894,6 +998,12 @@ evening-twillight
 
 "Thereafter Lakshmana also drank the left-over water and those three practised
 silence together in that evening-twilight.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then with the remainder of the water Lakṣmaṇa too quenched his thirst at that time (tatas tu jala-śeṣeṇa lakṣmaṇo 'py akarot tadā); keeping silence in self-collected absorption, those three worshipped the evening twilight (vāg-yatās te trayaḥ sandhyāṃ samupāsata saṃhitāḥ).
 </details>
 </details>
 
@@ -944,6 +1054,12 @@ bed; raaghava; *kaaraNaat* = for Rama; *kSipram* = immediately.
 "Lakshmana then personally brought a layer of Kusa grass and arranged a fittingly
 nice bed with it for Rama immediately."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereafter the son of Sumitrā quickly fetched sacred blades of grass himself (saumitris tu tataḥ paścāt svayam ānīya barhīṃṣi kṣipram) and fashioned a fair couch for Rāghava’s sake (akarot svāstaraṃ śubhaṃ rāghava-kāraṇāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -990,6 +1106,12 @@ nice bed with it for Rama immediately."
 "Rama, along with Seetha, settled down on that bed. After washing their feet,
 Lakshmana went away to a distance."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon that couch of grass Rāma lay down together with Sītā (tasmin samāviśad rāmaḥ svāstare saha sītayā), and after washing their feet, Lakṣmaṇa withdrew to a respectful distance (prakṣālya ca tayoḥ pādāv apacakrāma lakṣmaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1035,6 +1157,12 @@ foot of Ingudi Tree; *idameva* = on just this; *tR^iNamcha* = grass; *yasmin*
 
 "Here at this fort of Ingndi Tree, on just this grass, on which both Rama and Seetha
 slept that night."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Here is the foot of that iṅgudī tree, and here is this very grass (etat tad iṅgudī-mūlam idam eva ca tat tṛṇam), upon which both Rāma and Sītā lay through that night (yasmin rāmaś ca sītā ca rātriṃ tāṃ śayitāv ubhau).
 </details>
 </details>
 
@@ -1095,6 +1223,12 @@ alone; *paritaH* = round; *asya* = Rama; *nishaam* = during the night.
 "Lakshmana, the scourge of his foe, wearing a glove of goha skin, strapping two
 quivers full of arrows on either side of his back and wielding a great stringed bow, remained on
 his part walking round Rama during that night."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Strapping upon his back two quivers filled with arrows and wearing leathern arm-guards and finger-guards (niyamya pṛṣṭhe tu talāṅgulitravān śaraiḥ supūrṇāv iṣudhī), that scorcher of foes Lakṣmaṇa held his great strung bow and stood all around him throughout the night without sleep (paraṃtapaḥ mahad dhanuḥ sajyam upohya lakṣmaṇo niśām atiṣṭhat parito 'sya kevalam).
 </details>
 </details>
 
@@ -1166,6 +1300,12 @@ celestials."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तेळनॆय सर्ग पूर्णवायितु.॥87॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then I too, bearing an excellent bow and arrows, took my stand right where Lakṣmaṇa stood (tatas tv ahaṃ cottama-bāṇa-cāpa-dhṛt sthito 'bhavaṃ tatra sa yatra lakṣmaṇaḥ), guarding at that time with my vigilant, bow-wielding kinsmen him who resembles Mahendra (atandritair jñātibhir ātta-kārmukair mahendra-kalpaṃ paripālayaṃs tadā).”
 </details>
 </details>
 

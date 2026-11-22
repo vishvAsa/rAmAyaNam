@@ -72,6 +72,12 @@ the gardens andgroves; *laN^kaayaam* = in Lanka
 The valiant army-chiefs of monkeys stayed on Suvela mountain for that night and saw
 the garden and groves in Lanka.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed that night (tāṃ rātrim uṣitāḥ) there upon Suvela, the heroic vānara troop-leaders beheld in Laṅkā the natural forests and artificial pleasure-groves (vanāny upavanāni ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +124,12 @@ astonished.
 Seeing those gardens which were levelled, beautiful, spacious, majestic and
 enchanting to look at, they became astonished.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those level and tranquil (samasaumyāni), lovely, vast, and expansive [woodlands], delightful to the eye (dṛṣṭiramyāṇi), they were filled with wonder.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -157,6 +169,16 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सम्पिगॆ, अशोक, बकुल, साल-तालवृक्षगळिन्द व्याप्तवागिद्दु, अरळिनिन्त हागू बळ्ळिगळिन्द सुत्तुवरिद हिन्ताल, अर्जुन, कदम्ब, हूगळु अरळिद एळॆलॆ बाळॆ, तिलक, कर्णिकार, पाटल मुन्ताद दिव्यवृक्षगळिन्द कूडिद लङ्कापट्टणवु इन्द्रन अमरावतियन्तॆ शोभिसुत्तित्तु.॥3-5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** Thronged with campaka, aśoka, bakula, śāla, and palmyra trees (campakāśokabakulaśālatālasamākulā), overspread with tamāla groves, and encircled by rows of nāgakesara trees (nāgamālāsamāvṛtā)—
+
+**4:** —and on every side with hintāla, arjuna, nīpa, and saptaparṇa trees in full bloom, as well as with tilakas, karṇikāras, and pāṭalas—
+
+**5:** —Laṅkā shone with manifold celestial trees (bahuvidhair divyaiḥ) whose crests were in blossom and which were twined about with creepers, just like Indra's Amarāvatī—
 </details>
 </details>
 
@@ -212,6 +234,12 @@ variegated avenues and with beautiful trees of various kinds like Hintala, Arjun
 in full flowering, Tilaka, Karnikara and Patal whose crests were laden with flowers and which were
 intertwined with climbers laden with multi-coloured flowers and red tender leaves.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and with [trees] bearing variegated flowers and tender crimson shoots (raktakomalapallavaiḥ), with dark-green grassy meadows (śādvalaiḥ), and with picturesque rows of woodland groves.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -257,6 +285,12 @@ iva* = as human beings; *bhuuSaNaani* = the ornaments;
 
 The trees there were laden with fragrant and greatly enchanting flowers and fruits,
 as human beings were laden with ornaments.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There the trees (agamāḥ) bear fragrant and exceedingly lovely flowers and fruits, just as men wear ornaments (bhūṣaṇānīva mānavāḥ).
 </details>
 </details>
 
@@ -306,6 +340,12 @@ That garden, which bore flowers and fruits in relation to all seasons and with f
 of bees, like chaitraratha (garden of Kubera, the god of riches), was quite charming, like Nandana
 (garden of Indra the Lord of celestials)
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling Caitraratha, charming, and comparable to Nandana, that lovely woodland where all seasons abide (sarvartukam) shone, teeming with bees (ṣaṭpadāyutam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -352,6 +392,12 @@ of bees, like chaitraratha (garden of Kubera, the god of riches), was quite char
 In that garden abounding in cascades, the songs of birds like gallinules,
 lapwings(small white cranes), dancing peacocks and cuckoos were heard.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the mountain-stream groves (vananirjhare), accompanied by gallinules, lapwings, and herons (dātyūhakoyaṣṭibakaiḥ) and by dancing peacocks, the cooing of cuckoos (parabhṛtānām) was heard.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -388,6 +434,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लङ्कॆय वन-उपवनगळु सदा मत्त विहङ्गमगळिन्द विभूषितवागिद्दवु. अल्लि वृक्षगळल्लि भ्रमरगळु झेङ्करिसुत्तिद्दवु. ऎल्लॆडॆ कोगिलॆगळ कूहु-कूहु केळिबरुत्तित्तु. पक्षिगळु चिलिपिलि गुट्टित्तिद्दवु. भृङ्गगळु हाडुत्तिद्दवु. कुरर पक्षिगळ शब्द प्रतिध्वनिसुत्तित्तु. गीजगद हक्किगळिन्दलू सारस पक्षिगळिन्दलू शोभायमानवागिद्द लङ्कॆय वन-उपवनगळन्नु वानररु प्रवेशिसिदरु.॥10-11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** [Those groves] had birds ever inebriated with joy (nityamattavihaṃgāni), were frequented by bumblebees, had thickets thronged with cuckoos (kokilākulaṣaṇḍāni), and echoed with bird-song—
+
+**11:** —were sung over by bhṛṅgarāja shrikes, resounded with the cries of ospreys (kurarasvanitāni), were noisy with koṇālaka waterbirds, and echoed with cranes; then they entered those forests and pleasure-groves—
 </details>
 </details>
 
@@ -458,6 +512,14 @@ with flowers; *ghraaNasukhaH* = delightful to the nose; *vavau* = blew.
 While those mighty and splendid monkeys were entering the groves a breeze with
 flowery fragrance, delightful to the nose, blew.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** —thrilled, overjoyed, and heroic monkeys able to change their form at will (kāmarūpiṇaḥ); and as those vānaras of mighty energy were entering there—
+
+**13:** —a breeze fragrant from contact with flowers (puṣpasaṃsargasurabhiḥ) and pleasant to the sense of smell blew gently; meanwhile other troop-leaders, emerging from the host of monkey heroes and granted leave by Sugrīva, advanced toward bannered Laṅkā (laṅkāṃ patākinīm)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -505,6 +567,12 @@ flags.
 Some other troop-leaders of the valiant monkeys came out of their troops with due
 permission from sugreeva and went towards Lanka, the city adorned with flags
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—terrifying the birds, exhausting the deer and elephants (glāpayanto mṛgadvipān), and making that Laṅkā tremble with their roars, those foremost of roarers!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -551,6 +619,12 @@ sounds.
 
 Those monkeys, great in making noises causing the birds to frighten and displeasing
 to the animals and elephants, went, causing that Lanka to tremble, by their noises.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Possessed of tremendous speed, they crushed the earth with their feet (mahīṃ caraṇapīḍitām), and the dust raised by their feet (caraṇotthitam rajaḥ) rose suddenly aloft.
 </details>
 </details>
 
@@ -600,6 +674,12 @@ their feet; *rajashcha* = and the dust; *charaNotthitam* = raised by their feet;
 
 Those monkeys with great speed marched ahead, making the earth flattened by their
 feet and the dust thus raised by their feet went up instant aneously.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Frightened by that din, bears, lions, buffaloes, wild elephants (vāraṇāḥ), deer, and birds fled in terror toward the ten directions.
 </details>
 </details>
 
@@ -651,6 +731,12 @@ toward; *dasha dishaH* = ten directions.
 Frightened by that sound, bears lions buffaloes elephants, deers and birds were
 trembled and terrified and hastened towards ten different directions.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Now the single, lofty peak of Trikūṭa, touching the heavens (divispṛśam), covered on all sides with blossoms and gleaming like refined gold (mahārajatasaṃnibham)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -678,6 +764,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ शिखरवु नूरु योजन विस्तारवागित्तु. अदु नोडलु बहळ सुन्दर, स्वच्छ, स्निग्ध, कान्तियुक्त विशालवागित्तु. पक्षिगळिगू तदियवरॆगॆ तलुपलु कष्टवागुत्तित्तु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—a hundred yojanas in extent, spotless, lovely to behold, smooth (ślakṣṇam), glorious, vast, and unattainable even by birds (duṣprāpaṃ śakunair api)—
 </details>
 </details>
 
@@ -730,6 +822,12 @@ The solitary peak of Trikuta mountain, which is so high as if touching the sky, 
 over covered with flowers entirely, resembling gold; to an extent of eight hundred miles; bright;
 charming to look at, beautiful, glorious, majestic, inaccessible even by birds, hard to be ascended
 by people may, even by the mind-how much more by an act of walking?
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—inaccessible even in thought (manasāpi durāroham), how much more so by deed for mortal men! Upon its crest is situated Laṅkā, ruled by Rāvaṇa.
 </details>
 </details>
 
@@ -786,6 +884,12 @@ which is a hundred Yojanas wide and thirty yojanas long. This anomaly is reconci
 by explaining the present verse as referring to the length and breadth of Lanka proper, which
 comprised the residence of Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ten yojanas wide and twenty yojanas long, that city shines with lofty gateway-towers (gopurair uccaiḥ) resembling white clouds, and with a rampart (śālena) of gold and of silver.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -836,6 +940,12 @@ The city of Lanka looked beautiful with its towering City-gates resembling white
 clouds as well as with golden and silver ramparts.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Supremely adorned with palaces and seven-storied mansions (prāsādaiś ca vimānaiś ca), Laṅkā [shines] like the middle step of Viṣṇu [the sky] (madhyamaṃ vaiṣṇavaṃ padam) adorned with clouds at the close of summer (ātapāpāye).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -884,6 +994,12 @@ The city of Lanka, greatly adorned by palaces and seven storied mansions, looked
 like the sky with clouds at the end of a summer and as a region of Vishnu (the god of preservation)
 between earth and heaven.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In her is seen a palace adorned with a thousand pillars (stambhasahasreṇa), shaped like the peak of Mount Kailāsa and seeming to scrape the sky (kham ivollikhan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -908,6 +1024,12 @@ between earth and heaven.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसराज रावणन आ चैत्यप्रासादवु लङ्कॆगॆ भूषणप्राय वागित्तु. अनेक नूरु राक्षसरु आ प्रासादवन्नु समग्रवागि प्रतिदिन रक्षिसुत्तिद्दरु.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That Caitya palace (caityaḥ) was the crowning ornament of the city (purabhūṣaṇam) of the lord of rākṣasas, which is ever guarded by a full hundred rākṣasas.
 </details>
 </details>
 
@@ -955,6 +1077,12 @@ Kailasa was three in the City of Lanka, which was always the City of Lanka, whic
 protected by a complete army of demons. The palace seemed to be scraping the skies and was to be
 seen as an ornament to the City of Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Beholding that city] charming, rich in gold (kāñcanavatīm), graced with pleasure-hills (parvatair upaśobhitām), and adorned with gardens variegated with manifold mineral ores (nānādhātuvicitraiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -979,6 +1107,12 @@ seen as an ornament to the City of Ravana.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नाना प्रकारद पक्षिगळिन्द निनादितवागिद्दितु. नानाविधद मृगगळिन्द सेवितवागित्तु. अनेक रीतिय पुष्पगळिन्द सम्पन्नवागिद्दु, अनेक आकारद राक्षसरु अल्लि वासिसुत्तिद्दरु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—resounding with diverse birds, frequented by manifold deer, rich in various blossoms, and inhabited by throngs of different rākṣasas—
 </details>
 </details>
 
@@ -1007,6 +1141,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धन-धान्यगळिन्द समृद्धवाद, मनोवाञ्छित वस्तुगळिन्द तुम्बिद्द आ रावणन लङ्कॆयन्नु लक्ष्मणन अण्ण लक्ष्मीवन्त श्रीरामनु वानररॊन्दिगॆ नोडिदनु.॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—radiant Rāma, the elder brother of Lakṣmaṇa (lakṣmīvāṃl lakṣmaṇāgrajaḥ), together with the vānaras, beheld that prosperous city of Rāvaṇa, abounding in wealth (samṛddhārthām).
 </details>
 </details>
 
@@ -1060,6 +1200,12 @@ charming golden city of Ravana, graced with mountains picturesque with various m
 with gardens reechoing with songs of birds of every kind, frequented by varieties of deer, richly
 endowed with various kinds of flowers, inhabited by demons of every degree and duly flourishing,
 having increased its wealth.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that metropolis crowded with palatial mansions (mahāgṛhasambādhām) and resembling the third heaven (tridivaprakhyām), the valiant elder brother of Lakṣmaṇa was struck with wonder (vismayaṃ prāpa).
 </details>
 </details>
 
@@ -1116,5 +1262,11 @@ valiant Rama the elder brother of Lakshmana was seized with astonishment.
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकोनचत्वारिंशः सर्गः ॥ ३९ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें उन्तालीसवाँ सर्ग पूरा हुआ ॥ ३९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his vast army, Rāma beheld that city filled with jewels, furnished with manifold defensive arrangements (bahusaṃvidhānām), adorned with rows of palaces, and preeminent for its mighty mechanical engines and gates (mahāyantrakavāṭamukhyām).
 </details>
 </details>

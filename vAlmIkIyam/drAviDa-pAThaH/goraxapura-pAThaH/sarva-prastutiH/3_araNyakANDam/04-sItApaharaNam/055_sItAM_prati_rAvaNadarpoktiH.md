@@ -74,6 +74,12 @@ ghastly, demons; *samdishya* = on directing; *buddhi vaiklavyaat* = by mind's, h
 On directing those eight ghastly demons Ravana is amused in his heart of hearts that he has accomplished
 a great feat. [3-55-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dispatched the eight dreadful rākṣasas of great strength (rākṣasān ghorān aṣṭau mahā-balān), Rāvaṇa, out of perversity of intellect (buddhi-vaiklavyāt), deemed himself to have accomplished his purpose (kṛta-kṛtyam amanyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ he entered.
 
 On continually musing upon Vaidehi Ravana is tormented with the arrows of Love-god, thereby to lay eyes
 on Seetha he post-hastily entered the beautiful palace. [3-55-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brooding upon Vaidehī (cintayāno vaidehīm) and tormented by the arrows of Kāma (kāma-bāṇaiḥ prapīḍitaḥ), he entered his lovely palace (praviveśa gṛhaṃ ramyam), hastening to behold Sītā (sītāṃ draṣṭum abhitvaran).
 </details>
 </details>
 
@@ -170,6 +182,14 @@ paraayaNam siitaam* = ruefulness, overwhelmed by, at Seetha; *apashyat* = he beh
 
 On entering the palace-chamber that supremo of demons beheld Seetha overwhelmed with ruefulness amongst
 demonesses. [3-55-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** And having entered that mansion (praviśya tu tad veśma), Rāvaṇa, the overlord of rākṣasas, saw Sītā in the midst of the rākṣasīs (rākṣasī-madhye), wholly given over to sorrow (duḥkha-parāyaṇām)—
+
+**4:** —her face filled with tears (aśru-pūrṇa-mukhīm), wretched (dīnām), weighed down by the burden of grief (śoka-bhārāvapīḍitām), like a ship sinking in the ocean (majjantīṃ nāvam arṇave), buffeted by the blasts of the wind (vāyu-vegair ivākrāntām)—
 </details>
 </details>
 
@@ -238,6 +258,14 @@ that Seetha is brought to Lanka as a much cherished Goddess Lakshmi, but her bri
 villainous intent. Even then, the supporters of Ravana - the devotee - disagree. There are many such
 slants given to Ravana's dialogs, to portray him as a devotee, in this chapter itself.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** —like a doe separated from a herd of deer (mṛga-yūtha-paribhraṣṭāṃ mṛgīm) and surrounded by hounds (śvabhir ivāvṛtām); having approached that Sītā whose face was cast down (adhogata-mukhīm), the night-roamer—
+
+**6:** —that overlord of rākṣasas forcibly (sa balāt) showed (darśayām āsa) his palace, which resembled a mansion of the gods (gṛhaṃ deva-gṛhopamam), to that wretched and reluctant (avaśām) lady who was under the sway of grief (śoka-vaśāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -262,6 +290,12 @@ slants given to Ravana's dialogs, to portray him as a devotee, in this chapter i
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदु ऎत्तरवाद सौधगळिन्द एळु अन्तस्तिन मनॆगळिन्द तुम्बित्तु. अवुगळल्लि साविरारु स्त्रीयरु वासिसुत्तिद्दरु. गुम्पु गुम्पाद नाना जातिय पक्षिगळु अल्लि कलरव माडुत्तिद्दवु. नाना प्रकारद रत्नगळु आ अन्तःपुरद शोभॆयन्नु हॆच्चिसिद्दवु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—crowded with mansions and lofty palaces (harmya-prāsāda-sambādham), frequented by thousands of women (strī-sahasra-niṣevitam), haunted by flocks of diverse birds (nānā-pakṣi-gaṇair juṣṭam), and furnished with manifold gems (nānā-ratna-samanvitam)—
 </details>
 </details>
 
@@ -317,6 +351,12 @@ and they are even embossed with diamonds and with lapis gems, which are heart-pl
 drumbeats of divine drums are echoing in entire palace, and its archways are adorned with the gildings
 of pure gold. [3-55-7, 8, 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—[adorned] with pillars of ivory (dāntakaiḥ), refined gold (tāpanīyaiś ca), crystal (sphāṭikaiḥ), and silver (rājatais tathā), variegated with diamonds and cat's-eye gems (vajra-vaidūrya-citraiś ca) and ravishing to the sight (dṛṣṭi-manoramaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +381,12 @@ of pure gold. [3-55-7, 8, 9a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ भवनदल्लि दिव्य दुन्दुभिगळ मधुर घोष आगुत्तित्तु. आ अन्तःपुरवन्नु पुटक्किट्ट बङ्गारद ऒडवॆगळिन्द अलङ्करिसलागित्तु. रावणनु सीतॆयन्नु करॆदुकॊण्डु चिन्नदिन्द निर्मिसिद विचित्र मॆट्टिलुगळन्नु हत्तिदनु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resounding with divine kettledrums (divya-dundubhi-nirghoṣam) and adorned with burnished gold (tapta-kāñcana-bhūṣaṇam), a wondrous golden staircase (sopānaṃ kāñcanaṃ citram) he ascended together with her (āruroha tayā saha).
 </details>
 </details>
 
@@ -393,6 +439,12 @@ amusing for sight. [3-55-9b, 10]
 Did she walk on her own or was she dragged on the flight of stairs? Yes! She had to walk up the staircase
 after Ravana, but defiantly and straggly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There were latticed windows (gavākṣāḥ) of ivory and silver (dāntakā rājatāś caiva), pleasing to behold (priya-darśanāḥ), and rows of palaces (prāsāda-paṅktayaḥ) covered with golden trellises (hema-jālāvṛtāś cāsan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -432,6 +484,12 @@ praadarshayata* = to Maithili, he displayed.
 
 That Decahedral Ravana displayed the multiple stories of his own palace which is all over white-marbled
 and diamond encrusted to Maithili. [3-55-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In his palace (sva-bhavane), Daśagrīva showed Maithilī (prādarśayata maithilīm) on every side (sarvaśaḥ) floor-expanses (bhūmi-bhāgāni) variegated with white stucco and gems (sudhā-maṇi-vicitrāṇi).
 </details>
 </details>
 
@@ -490,6 +548,12 @@ to her reply to Ravana, in next chapter 'all this affluence is going to be reduc
 Rama in view as the reducing agent, for Hanuma, the actual reducer of this affluence, is yet an unknown
 entity.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Oblong pleasure-tanks (dīrghikāḥ) and lotus-ponds (puṣkariṇyaś ca) surrounded by manifold flowers (nānā-puṣpa-samāvṛtāḥ), Rāvaṇa showed (darśayām āsa) to Sītā, who was wholly given over to grief (śoka-parāyaṇām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -538,6 +602,12 @@ palace, best one; *vaidehiim darshayitvaa* = to Vaidehi, on flaunting siitaam ic
 
 On flaunting his best palace in its entirety to Vaidehi that dirty-minded Ravana spoke this sentence
 to Seetha in order that she may be tempted on her own, lustily. [3-55-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having shown Vaidehī the whole of that supreme palace (kṛtsnaṃ tad bhavanottamam), the wicked-souled one (pāpātmā), with the desire to entice Sītā (sītāṃ lobhitum icchayā), spoke this speech:
 </details>
 </details>
 
@@ -588,6 +658,14 @@ ghastly exploits are there, thus all put together, three hundred twenty millions
 in Lanka, omitting the weakish, oldish, youngish demons. For all of them I am the lord." Thus Ravana
 started his self-eulogy. [3-55-14, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “[There are] ten crores of rākṣasas (daśa rākṣasa-koṭyaś ca), and twenty-two more (dvāviṃśatir athāparāḥ), excluding (varjayitvā) night-roamers who are aged with decrepitude (jarā-vṛddhān) and young boys (bālāṃś ca).
+
+**15:** “Of all those [warriors] of terrible deeds (teṣāṃ sarveṣāṃ bhīma-karmaṇām), I am the lord (prabhur aham), O Sītā; and a thousand [attendants] for each single one (sahasram ekam ekasya) march before me in my service (mama kārya-puraḥsaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -633,6 +711,12 @@ one; *tvam me praaNaiH gariiyasii* = you are, to me, by lives, loftier.
 "For every single work of mine a thousand servitors will rush in. Such as I am I pledge entire life
 of mine along with the suzerainty of this sovereign city-state Lanka to you, oh, broad-eyed lady, for
 you are loftier than my lives. [3-55-15b, 16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever this royal sovereignty of mine (yad idaṃ rājya-tantraṃ me), all of it—and my very life (jīvitaṃ ca)—rests in you (tvayi sarvaṃ pratiṣṭhitam); O wide-eyed lady, you are dearer to me than my life-breaths (tvaṃ me prāṇair garīyasī)!
 </details>
 </details>
 
@@ -689,6 +773,12 @@ though appearing in a gross form of Seetha, you are the real Subtlety, Goddess L
 bhaa= cidruupiNii*= oh, Subtlety; *aaryaa* = oh, adorable one; *a+bhava* = oh, Redeemer;
 *priye* = most adorable Goddess Lakshmi.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever this retinue of wives of mine (mama yo 'sau parigrahaḥ), consisting of many excellent women (bahvīnām uttama-strīṇām)—over them you are the sovereign mistress (tāsāṃ tvam īśvarī), O Sītā; become my wife (mama bhāryā bhava), O beloved!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -744,6 +834,12 @@ dhvani/innuendo: The word *kaama* is ellipted here as it appears in other mms. T
 ' *kaama* 'desirous... I have the burning desire of regaining my servitude at your door...' thus
 *maam bhajasva* 'me, you accept accordingly...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Well now (sādhu), what use have you for thinking otherwise (kiṃ te 'nyathā-buddhyā)? Find pleasure in my words (rocayasva vaco mama); favor me (bhajasva mā), and deign to show grace (prasādaṃ kartum arhasi) to one who is burning with passion (abhitaptasya)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -790,6 +886,12 @@ Indra; *sura asuraiH api* = for gods, demons, even; *iyam dharSayitum* = this, t
 "It is impossible to assail this Lanka even for Indra with all of the gods and demons, as an ocean roundly
 enshrouds this Lanka which is hundred-yojana-s witdthwise. [3-55-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Encircled by the ocean (parikṣiptā samudreṇa), this Laṅkā extends a hundred yojanas (śata-yojanā); she cannot be assailed (neyaṃ dharṣayituṃ śakyā) even by the gods and asuras together with Indra (sendrair api surāsuraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -835,6 +937,12 @@ no; *R^iSiSu na* = among sage, no.
 
 "I behold none matchable to my vitality is existent among gods; among yaksha-s - no; among gandharva-s
 - no; among sages - no, nor anyone in any world. [3-55-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither among gods, nor among yakṣas, nor among gandharvas, nor among sages (narṣiṣu) do I behold anyone in the worlds (ahaṃ paśyāmi lokeṣu) who could equal me in valor (yo me vīrya-samo bhavet).
 </details>
 </details>
 
@@ -895,6 +1003,12 @@ the saints, sages, seers and such hapless lot...' and *alpa tejasaa* by which I 
 itareSaam teejo yasmaat tena* 'by whom others' resplendency is dwindled and lessened, just by his
 own resplendence... about such *raameNa kim?* Why you bother about such Rama, since he is *
 parama puruSa* the Supreme Person?
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What will you do with Rāma (kiṃ kariṣyasi rāmeṇa)—fallen from his kingdom (rājya-bhraṣṭena), wretched (dīnena), an ascetic going on foot (tāpasena padātinā), a mere mortal of puny vigor (mānuṣeṇālpa-tejasā)?
 </details>
 </details>
 
@@ -964,6 +1078,12 @@ in your service constantly... for which I am the seemliest servant of yours... f
 Lanka and grace me and this Fortune of Kingdom, till the arrival of Rama, and then accord deliverance
 through Rama...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Accept me alone (bhajasva mām eva), O Sītā—I am a husband worthy of you (bhartāhaṃ sadṛśas tava)! Youth is fleeting (yauvanaṃ tv adhruvam), O timid one (bhīru); take your pleasure here with me (ramasveha mayā saha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1018,6 +1138,12 @@ heart, is ambitiously steered by that chariot's horses, called the five senses o
 alone all through this incarnation. And bechanced is that time and opportunity, thus he has to come
 here, hence oh, Seetha, you needn't worry...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Set not your mind (mā kṛthā buddhim) on beholding Rāghava (darśane rāghavasya), O fair-faced lady (varānane); what power has he (kāsya śaktiḥ) to come here (ihāgantum), O Sītā, even in his wishes (api manorathaiḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1066,6 +1192,12 @@ api vaa* = even, or [more so,] to lay hold of; *[na shakyaH* = not practicable.]
 
 "It is impossible to knot the currents of cyclonic gusts in mid air, more so, it is impracticable to
 lay hold on the tongues of radiately irradiant fire. [3-55-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The wind of mighty speed (vāyur mahā-javaḥ) cannot be bound with nooses in the sky (na śakya आकाशे पाशैर्बद्धुम्), nor is it possible to grasp the pure flames (grahītuṃ vimalāḥ śikhāḥ) of a blazing fire (dīpyamānasya vāpy agneḥ)—
 </details>
 </details>
 
@@ -1124,6 +1256,12 @@ foresee anyone else... *raamam vinaa, iti seSaH* 'excepting Rama...' ellipted. T
 scheduled to come here as we have our own dealings, hence *maa kR^ithaaH buddhim darshane raamasya*
 don't get perturbed at mind in not seeing Rama... he comes soon...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—[so too], O lovely one (śobhane), among all the three worlds (trayāṇām api lokānām) I do not behold anyone (na taṃ paśyāmi) who by his valor could carry you away (vikrameṇa nayed yas tvām) while you are guarded by my arms (mad-bāhu-paripālitām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1178,6 +1316,12 @@ From now on Ravana is dedicating whatever he has or acquired to his benefactress
 saying *madvidhaa* 'me-like...' it is *aatma samarpaNa* self-dedication...' *lankaayaam
 raajyam anu paalaya* 'from Lanka you rule over...' this is *aatmiiya samarpaNa* 'selfless
 dedication...'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rule over this vast kingdom of Laṅkā (laṅkāyāḥ sumahad rājyam idaṃ tvam anupālaya)! Those like me, and the gods too, and all moving and unmoving beings (carācaram) shall be your servants (tvat-preṣyāḥ).
 </details>
 </details>
 
@@ -1249,6 +1393,12 @@ by me are evanished just by getting a glimpse of my choicest deity Goddess Laksh
 absolved of all demerits... and any merit, if remnant with me by my performing some good deeds, intentionally
 or unintentionally, I surrender the fruits of all those merits even, unto to you... pray accept...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bathed in consecration-waters (abhiṣeka-jala-klinnā) and contented (tuṣṭā ca), delight [me] (ramayasva ca)! Whatever evil deed (duṣkṛtaṃ karma) was done [by you] of old (yat purā), that has passed away through your forest exile (vana-vāsena tad gatam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1298,6 +1448,12 @@ God cannot be appeased with mountainy offerings. But here Ravana, the devotee wa
 deity with divinely garlands and topmost jewellery... *maya - samarpitaani iti sheSaH* 'by me...'
 ellipted: 'offered...' *saha= ekadaiva* 'at least once...' *sevasva* 'accept them...'
 'Touch my offerings at least for once... thereby I deem that I am graced by you...'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—and whatever meritorious deed is yours (yac ca te sukṛtaṃ karma), reap its fruit right here (tasyeha phalam āpnuhi)! Here, O Maithilī, are all garlands of heavenly fragrance (mālyāni divya-gandhāni)—
 </details>
 </details>
 
@@ -1373,6 +1529,14 @@ to you...' *sa artham= sarva sampadbhiH* 'with all other riches, besides this ai
 viharasva* 'you enjoy...' 'Apart from this aircraft, I denounce all the riches I gained in you...
 you enjoy the fruits of my action and release me...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** “—and choicest ornaments (bhūṣaṇāni ca mukhyāni); enjoy them together with me (tāni seva mayā saha)! O fair-hipped lady (suśroṇi), the [aerial chariot] named Puṣpaka (puṣpakaṃ nāma) of my brother Vaiśravaṇa (bhrātur vaiśravaṇasya me)—
+
+**30:** “—that sun-bright aerial chariot (vimānaṃ sūrya-saṅkāśam) won by my might in battle (tarasā nirjitaṃ raṇe)—spacious (viśālam), delightful (ramaṇīyaṃ ca), and swift as thought (mano-javam) is that aerial chariot—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1420,6 +1584,12 @@ bhraajati* = not, brightish.
 fairish and eyeful, but oh, curvaceous lady, with such a mushily maudlin of such a face this palace
 of mine is unbright, thus marry me to brighten everything" Thus Ravana spoke to Seetha. [3-55-31b, 32a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—therein, O Sītā, sport at your pleasure (viharasva yathā-sukham) together with me (mayā sārdham)! Your lotus-like face (vadanaṃ padma-saṅkāśam), spotless and lovely to behold (vimalaṃ cāru-darśanam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1466,6 +1636,12 @@ of mine is unbright, thus marry me to brighten everything" Thus Ravana spoke to 
 
 While Ravana is speaking to her in this way that graceful lady Seetha veiled her moonier face with fringe
 of her sari, and stiflingly dispelled tears on that mooniest face behind her half-veil. [3-55-32b, 33a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—afflicted with grief (śokārtaṃ tu), O fair-hipped, fair-faced lady (varārohe varānane), does not shine (na bhrājati)!” While he was speaking thus (evaṃ vadati tasmin), that noble woman (sā varāṅganā), with the hem of her garment (vastrāntena)—
 </details>
 </details>
 
@@ -1525,6 +1701,12 @@ She allowed him to prattle whatever he wished, but when it is aimed at her face,
 customarily to conceal the flood of sobbing tears, aversely. But Ravana, being a leech of lechery, amusedly
 thinks that she is bashful, thus silent, and because silence is 'half-agreeing', thus he furthers his
 leeching.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—having veiled her moon-like [face] (pidhāyendu-nibham), Sītā softly shed tears (mandam aśrūṇy avartayat). To that Sītā, who was brooding (dhyāyantīm), distraught as it were (ivāsvasthām), her lustre dimmed by anxiety (cintā-hata-prabhām)—
 </details>
 </details>
 
@@ -1642,6 +1824,12 @@ In spite of all these debates and counter-debates of commentators - Ravana remai
 Seetha, namely Goddess Lakshmi, legendarily.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—the heroic night-roamer Rāvaṇa spoke [this] word: “Enough of your shame (alaṃ vrīḍena te), O Vaidehī, occasioned by the transgression of dharma (dharma-lopa-kṛtena)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1688,6 +1876,12 @@ subordinate; *daasaH asmi* = servant, I am.
 
 "Let these two feet of yours be massaged by my ten heads, do me favour readily, for I am your subordinate
 and servant. [3-55-35b. 36a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O queen, this outcome (niṣpandaḥ) that shall come upon you (yas tvām abhibhaviṣyati) is sanctioned by the sages (ārṣo 'yam)! These two glossy feet [of yours] (etau pādau snigdhau) are pressed by me with my heads (mayā śirobhiḥ paripīḍitau)—
 </details>
 </details>
 
@@ -1744,6 +1938,12 @@ the wordage is *shunnyamaanena* emptied by lust...' *imaaH vaacaH* 'these words.
 *shuunyaaH* 'empty...' *na kR^ithaa* 'do not make them...' 'Nullified by lust I spoke
 all these words... and you, on taking them as mere nullities, pray, do not nullify my lovelorn words...'
 Tiirtha calls this as *rasaabhaasa* 'desiring an undesirous woman of others, by hook or by crook.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—bestow your grace upon me swiftly (prasādaṃ kuru me kṣipram); I am your obedient slave (vaśyo dāso 'ham asmi te)! These humble words have been spoken by me (imāḥ śūnyā mayā vāco bhāṣitāḥ) as I am parched [with passion] (śuṣyamāṇena)—
 </details>
 </details>
 
@@ -1803,5 +2003,11 @@ is mine,' as he has gone under the sway of the Terminator. [3-55-37]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तैदनॆय सर्ग सम्पूर्णवायितु.॥55॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—nor indeed has Rāvaṇa ever bowed with his head (mūrdhnā praṇameta ha) to any woman (kāṃcit strīm)!” Having spoken thus to Maithilī, the daughter of Janaka, Daśagrīva, fallen under the sway of Fate (kṛtānta-vaśam āpannaḥ), fancies (manyate), “She is mine (mameyam iti)!”
 </details>
 </details>

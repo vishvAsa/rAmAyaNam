@@ -36,6 +36,12 @@ title = "०९७ भू-साक्ष्या सीता-शपथः"
 
 महर्षि वाल्मीकिगळु हीगॆ हेळिदाग श्रीरामनु सुन्दरि सीतादेवियन्नु ऒम्मॆ नोडि, आ जन समुदायद नडुवॆ कैमुगिदुकॊण्डु हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Vālmīki (vālmīkinaivam uktaḥ), Rāghava looked upon that fair-complexioned lady (dṛṣṭvā tāṃ varavarṇinīm) and replied with joined palms (prāñjaliḥ) in the midst of the world (jagato madhye):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ title = "०९७ भू-साक्ष्या सीता-शपथः"
 
 महाभागरे! नीवु धर्मवन्नु तिळिदवरु. सीतॆय कुरितु नीवु हेळिदन्तॆये ऎल्लवू सरियागिदॆ. ब्रह्मन्! निम्म ई निर्दोष वचनगळिन्द ननगॆ जानकिय शुद्धतॆय कुरितु पूर्ण विश्वास उण्टागिदॆ.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even so is it, O greatly blessed knower of dharma (evam etan mahābhāga yathā vadasi dharmavit); indeed, conviction has arisen in me, O brahmin, through your stainless words (pratyayas tu mama brahmaṃs tava vākyair akalmaṣaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +97,12 @@ title = "०९७ भू-साक्ष्या सीता-शपथः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मॊदलॊम्मॆयू देवतॆयर सन्निधियल्लि विदेहकुमारिय शुद्धतॆय विश्वास ननगॆ उण्टागित्तु. आग सीतॆयु तन्न शुद्धिगागि शपथ माडिद्दळु, अदरिन्द नानु इवळिगॆ नन्न भवनदल्लि स्थान कॊट्टिद्दॆ.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Proof was indeed given of old by Vaidehī in the presence of the gods (pratyayas tu purā vṛtto vaidehyāḥ surasannidhau); an oath was sworn there, and thereby she was brought into my palace (tena veśma praveśitā). Yet public calumny is mighty (lokāpavādo balavān), by which Maithilī was cast away.
 </details>
 </details>
 
@@ -112,6 +130,12 @@ title = "०९७ भू-साक्ष्या सीता-शपथः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ मुन्दॆ पुनः जोराद लोकापवाद ऎद्दितु, अदरिन्द विवशनागि ननगॆ मिथिलेश कुमारियन्नु त्यजिसबेकायितु. ब्रह्मन्! सीतॆयु सर्वथा निष्पापळागिद्दाळॆ ऎन्दु तिळिदिद्दरू, केवल समाजद भयदिन्द इवळन्नु बिट्टुबिट्टिद्दॆ; आद्दरिन्द नीवु नन्न ई अपराधवन्नु क्षमिसिरि.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Out of fear of the world (lokabhayāt), O brahmin, this Sītā was abandoned by me even while knowing her to be guiltless (apāpety abhijānatā); therefore you ought to forgive me (tad bhavān kṣantum arhati).
 </details>
 </details>
 
@@ -141,6 +165,12 @@ _________________
 
 ई अवळियागि हुट्टिद कुमार कुश-लवरु नन्न पुत्ररे आगिद्दारॆ ऎन्दु तिळिदिद्दरू जनसमुदायदल्लि शुद्धतॆ प्रमाणितवादागले, मिथिलेशकुमारियल्लि ननगॆ प्रेम उण्टागबल्लदु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I know too that these twin-born Kuśīlavas are my sons (jānāmi cemau putrau me yamajātau kuśīlavau); once Maithilī is proven pure in the midst of the world (śuddhāyāṃ jagato madhye maithilyām), let my love abide in her (prītir astu me).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +197,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामचन्द्रन अभिप्रायवन्नु तिळिद सीतॆयु शपथ माडुवाग महेन्द्रादि ऎल्ल मुख्य- मुख्य महातेजस्वी देवतॆगळु ब्रह्मदेवरन्नु मुन्दॆ माडि अल्लिगॆ बन्दरु.॥6½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Understanding that intent of Rāma (abhiprāyaṃ tu vijñāya rāmasya), the foremost of gods—mighty-splendored Indra and the rest (mahendrādyā mahaujasaḥ)—all assembled at that oath of Sītā, placing Grandfather Brahmā at their head (pitāmahaṃ puraskṛtya).
 </details>
 </details>
 
@@ -202,6 +238,14 @@ _________________
 
 आदित्य, वसु, रुद्र, विश्वेदेव, मरुद्गण, समस्त साध्यदेव, ऎल्ल महर्षिगळु, नागरु, गरुड मत्तु समस्त सिद्धगणरु प्रसन्नचित्तरागि सीतॆय शपथग्रहणवन्नु नोडलु गाबरिगॊण्डवरन्तॆ अल्लि बन्दु सेरिदरु.॥7-8½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** The Ādityas, Vasus, Rudras, the twin Aśvins together with the Marut hosts (hyaśvinau sa-marudgaṇāḥ), and Gandharvas and Apsarases too—all of them assembled there.
+
+**8:** The Sādhyas, the Viśvedevas, and all the supreme sages (paramarṣayaḥ), Nāgas, Suparṇas, and Siddhas—all with gladdened hearts (hṛṣṭamānasāḥ), stirred with eager haste at Sītā’s oath (sītā-śapatha-sambhrāntāḥ), assembled there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -229,6 +273,14 @@ _________________
 
 देवतॆगळु, ऋषिगळु उपस्थितरादुदन्नु नोडि श्रीरघुनाथनु मत्तॆ हेळिदनु- सुरश्रेष्ठरे! महर्षि वाल्मीकिगळ निर्दोष वचनगळल्लि ननगॆ पूर्णविश्वासविद्दरू, जन-समाजद मुन्दॆ वैदेहिय विशुद्धतॆ प्रमाणितवाद मेलॆ ननगॆ हॆच्चु सन्तोषवागबहुदु.॥9-10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Beholding the gods and sages, Rāghava spoke once more: “O foremost of men (naraśreṣṭhāḥ), conviction is mine through the stainless words of the sage; let my love abide in Vaidehī once she is proven pure in the midst of the world.”
+
+**10:** Then a blessed, sacred, divinely fragrant, enchanting breeze (vāyuḥ śubhaḥ puṇyo divyagandho manoramaḥ), foremost among gods (suraśreṣṭhaḥ), gladdened that whole throng on every side (hlādayāmāsa sarvataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -253,6 +305,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक दिव्यसुगन्धदिन्द पूर्णवाद, मनस्सिगॆ आह्मादवन्नीयुव, परम पवित्र हागू शुभकारक सुरश्रेष्ठ वायुदेवरु मन्दगतियिन्द ऎल्लॆडॆ प्रवाहितनागि अल्लिय जनसमुदायवन्नु मुदगॊळिसतॊडगिदनु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The human beings gathered from all realms (mānavāḥ sarvarāṣṭrebhyaḥ) gazed upon that unthinkable marvel (tad adbhutam ivācintyam), as in the Kṛta Yuga of old (pūrvaṃ kṛtayuge yathā).
 </details>
 </details>
 
@@ -279,6 +337,12 @@ _________________
 
 समस्त राष्ट्रगळिन्द बन्दिरुव मनुष्यरु एकाग्रचित्तरागि प्राचीन कालद कृतयुगदन्तॆ ई अद्भुत मत्तु अचिन्त्यदन्तह घटनॆयन्नु नोडिदरु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding all those assembled, Sītā, clad in ochre garments (kāṣāya-vāsinī), spoke these words with joined palms, eyes cast down and face lowered (adhodṛṣṭir avāṅmukhī):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -304,6 +368,12 @@ _________________
 
 आग सीतादेवियु तपस्विनिगॆ योग्यवाद काषाय वसवन्नु धरिसिद्दळु. ऎल्लरू उपस्थितरागिरुवुदन्नु तिळिदु कैमुगिदुकॊण्डु, तलॆतग्गिसि हेळिदळु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Inasmuch as I do not think even in my mind of anyone other than Rāghava (yathā ’haṃ rāghavād anyaṃ manasāpi na cintaye), by that truth let Goddess Mādhavī [Earth] grant me an opening (tathā me mādhavī devī vivaraṃ dātum arhati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -328,6 +398,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु श्रीरघुनाथनल्लदॆ बेरॆ पुरुषन ‘स्पर्श दूर उळियितु’ मनस्सिनल्लि चिन्तनॆयू माडिल्ल; इदु सत्यवागिद्दरॆ भगवती भूदेवियु नन्नन्नु तन्न रन्ध्रदल्लि स्थानवन्नीयलि.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Inasmuch as in mind, deed, and speech I worship Rāma alone (manasā karmaṇā vācā yathā rāmaṃ samarcaye), by that truth let Goddess Mādhavī grant me an opening.
 </details>
 </details>
 
@@ -357,6 +433,12 @@ _________________
 
 नानु मनस्सिनिन्द, क्रियॆयिन्द, मातिनिन्द केवल श्रीरामनन्ने अर्चिसुत्तिदुदु निश्चयवादरॆ माधवन पत्नियाद भूदेवियु तन्न रन्ध्रदॊळगॆ ननगॆ आश्रय नीडलि.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Inasmuch as this truth has been spoken by me—that I know none higher than Rāma (vedmi rāmāt paraṃ na ca)—by that truth let Goddess Mādhavī grant me an opening.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -382,6 +464,12 @@ _________________
 
 ‘भगवान् श्रीरामनन्नु बिट्टु बेरॆ यारन्नू अरियॆ’ ई मातु सत्यवागिद्दरॆ भगवती पृथिवि देवियु तन्न रन्ध्रदल्लि ननगॆ स्थान कॊडलि.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as Vaidehī was swearing thus (tathā śapantyāṃ vaidehyām), that marvel manifested (prādurāsīt tad adbhutam): rising from the surface of the earth (bhūtalād utthitam), a peerless divine throne (divyaṃ siṃhāsanam anuttamam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -406,6 +494,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वैदेहियु हीगॆ शपथ माडुत्तले भूमियॊळगिन्द ऒन्दु अद्भुत सिंहासनवु प्रकटवायितु. अदु बहळ सुन्दर मत्तु दिव्यवागित्तु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+borne aloft upon the heads of nāgas of boundless prowess (dhriyamāṇaṃ śirobhis tu nāgair amitavikramaiḥ), resplendent with a celestial form (divyaṃ divyena vapuṣā), [the nāgas] adorned with heavenly gems (divyaratna-vibhūṣitaiḥ).
 </details>
 </details>
 
@@ -435,6 +529,12 @@ _________________
 
 दिव्यरत्नगळिन्द भूषित महापराक्रमि नागरु दिव्यरूप धरिसि आ दिव्य सिंहासनवन्नु तम्म तलॆयल्लि हॊत्तुकॊण्डिद्दरु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Goddess Dharaṇī [Earth], taking Maithilī in both her arms (bāhubhyāṃ gṛhya maithilīm) and greeting her with a loving welcome (svāgatenābhinandyainām), seated her upon that throne (tasmiṃs tu ... āsane copaveśayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -459,6 +559,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सिंहासनदॊन्दिगे पृथिविय अधिष्ठात्री देवियू दिव्यरूपदिन्द प्रकटळादळु. अवळु मिथिलेश कुमारी सीतॆयन्नु तन्नॆरडु भुजगळिन्द बाचि तब्बिकॊण्डु, स्वागतपूर्वक आकॆयन्नु अभिनन्दिसि सिंहासनदल्लि कुळ्ळिरिसिदळु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding her seated upon the throne and descending into Rasātala (tām āsanagatāṃ dṛṣṭvā praviśantīṃ rasātalam), an unbroken celestial shower of flowers (puṣpavṛṣṭir avicchinnā divyā) rained down upon Sītā (sītām avākirat).
 </details>
 </details>
 
@@ -485,6 +591,12 @@ _________________
 
 सिंहासनदल्लि कुळितु सीतादेवियु रसातळक्कॆ प्रवेशिसुत्तिरुवाग देवतॆगळु आकॆय कडॆगॆ नोडिदरु. मत्तॆ आकाशदिन्द आकॆय मेलॆ दिव्यपुष्पगळ मळॆ ऒन्दे समनॆ सुरियितु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And a mighty acclaim of “Well done!” burst forth suddenly from the gods (sādhukāraś ca sumahān devānāṃ sahasotthitaḥ): “Bravo, bravo, O Sītā, whose purity of conduct is such as this (yasyās te śīlam īdṛśam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -509,6 +621,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवतॆगळु आकाशदिन्द धन्य! धन्य! ऎम्ब मातु ऎल्लॆडॆ केळि बन्तु. सीते! नीनु धन्यळागिरुवॆ, धन्यळागिरुवॆ. निन्न शील-स्वभाव अत्यन्त पवित्र मत्तु शुद्धवागिदॆ ऎन्दु हेळतॊडगिदरु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Uttering manifold words such as these (evaṃ bahuvidhā vāco ... vyājahruḥ), the gods stationed in the firmament (antarikṣa-gatāḥ surāḥ) spoke with gladdened hearts (hṛṣṭamanasaḥ), beholding Sītā’s entry (dṛṣṭvā sītā-praveśanam).
 </details>
 </details>
 
@@ -535,6 +653,12 @@ _________________
 
 सीतॆयु रसातलदल्लि प्रवेशिसिदुदन्नु नोडि आकाशदल्लि निन्तिरुव देवतॆगळु प्रसन्नचित्तरागि हीगॆ अनेक मातुगळन्नु हेळ तॊडगिदरु.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And all those sages abiding in the sacrificial enclosure (yajñavāṭa-gatāś cāpi munayaḥ), as well as the kings, tigers among men (rājānaś ca naravyāghrāḥ), could not cease from wonder (vismayān noparemire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -559,6 +683,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यज्ञमण्टपदल्लि नॆरॆद ऎल्ल मुनिगळु हागू नरश्रेष्ठ राजरू कूड आश्चर्यगॊण्डरु.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the firmament and upon the earth, all beings stationary and moving (sarve sthāvara-jaṅgamāḥ), the huge-bodied Dānavas (dānavāś ca mahākāyāḥ), and the serpent-lords in Pātāla (pātāle pannagādhipāḥ)—
 </details>
 </details>
 
@@ -588,6 +718,12 @@ _________________
 
 अन्तरिक्षदल्लि मत्तु भूतळदल्लि ऎल्ल चराचर प्राणिगळु हागू पाताळदल्लिरुव विशालकाय दानवरु मत्तु नागराजनू आश्चर्यचकितरादरु.॥24॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+some shouted aloud in delight (kecid vineduḥ saṃhṛṣṭāḥ), some became absorbed in meditation (kecid dhyāna-parāyaṇāḥ), some gazed steadily upon Rāma (kecid rāmaṃ nirīkṣante), and some stared senseless at Sītā (kecit sītām acetanāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -615,6 +751,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कॆलवरु हर्षनाद माडिदरु, कॆलवरु ध्यानस्थरादरु, कॆलवरु श्रीरामन कडॆगॆ नोडिदरु, कॆलवरु अवाक्कागि सीतॆय कडॆगॆ निरीक्षिसिदरु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Sītā’s entry (sītā-praveśanaṃ dṛṣṭvā), such was the convergence of their feelings (teṣām āsīt samāgamaḥ); for a moment, as it were, the entire world stood utterly entranced (tan muhūrtam ivātyarthaṃ samaṃ sammohitaṃ jagat).
 </details>
 </details>
 

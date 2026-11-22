@@ -89,6 +89,14 @@ this to that king." Thus, sage Shataananda continued his narration to Rama and o
 another branch of the same tree of wisdom, when that very tree rejected you?' So the sons of Vashishta
 have started to denounce Trishanku. [1-58-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then, O Rāma, upon hearing the words of Triśaṅku, the hundred sons of the sage (ṛṣiputraśatam), filled with wrath (krodhasamanvitam), spoke thus to the king:
+
+**2:** “You have been refused, O foolish-minded one (durmedho), by your truth-speaking preceptor (guruṇā satyavādinā)! How is it that, transgressing him (taṃ samatikramya), you have resorted to another branch (śākhāntaram upeyivān)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -129,6 +137,12 @@ Priest is, ultimate, course, isn't it; *satyavaadinaH* = advocator's of truth - 
 'The Royal Priest is the ultimate course for all of Ikshvaku-s, isn't it. It is impossible to transgress
 the word of advise of such a veracious Priest. [1-58-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For all the Ikṣvākus, indeed, the royal chaplain is the supreme refuge (purodhāḥ paramā gatiḥ); and the word of that speaker of truth cannot be transgressed (na cātikramituṃ śakyam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,6 +182,12 @@ we; *katha~ncana shaktaaH* = in which way, capable.
 
 Vashishta is the most reverential sage and such a sage has already said it is impossible to conduct
 such a Vedic-ritual. Then, in which way we are capable to conduct such a Vedic-ritual? [1-58-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The revered sage Vasiṣṭha declared, ‘It is impossible’ (aśakyam iti sovāca); how, then, could we possibly be capable (śaktāḥ kathaṃcana) of conducting that sacrifice (taṃ kratuṃ samāhartum)?
 </details>
 </details>
 
@@ -214,6 +234,12 @@ by [kings] of three worlds; *yaajane shaktaH* = is capable in orchestration of r
 alone is capable to orchestrate any ritual by any king in all the three worlds. Oh, king, how then we
 are capable to cause a disrepute to his reputation.' Thus, the sons of Vashishta refuted Trishanku.
 [1-58-5, 6a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are childishly ignorant (bāliśas tvam), O best of men! Return again to your own city (gamyatāṃ svapuraṃ punaḥ). The revered sage, O lord of earth, is capable of officiating at sacrifices even for all three worlds (yājane bhagavān śaktas trailokyasyāpi).”
 </details>
 </details>
 
@@ -273,6 +299,14 @@ this sentence to all of them." So Shataananda continued. [1-58-6b, 7a]
 'I am indeed rejected by the godlike Vashishta, likewise even by you, the sons of the same mentor,
 as such oh, ascetically wealthy scholars, in this state obloquy I will resort to another recourse, let
 safety betide you.' So Trishanku bade farewell to the sons of Vashishta, but... [1-58-7b, 8a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** “How could we dare to show disrespect to him (avamānaṃ kathaṃ kartuṃ tasya śakṣyāmahe vayam)?” Hearing those words of theirs, whose syllables were agitated with wrath (krodhaparyākulākṣaram),
+
+**7:** the king once again spoke these words to them: “Having been refused by the revered preceptor (pratyākhyāto bhagavatā) and likewise by the preceptor’s sons (guruputrais tathaiva hi),
 </details>
 </details>
 
@@ -354,6 +388,14 @@ gataH* = king, entered into state of basely profaner.
 On saying thus those great-souled sons of Vashishta withdrew to one's own hermitage and when that night
 elapsed into day then the king lapsed into a state of basely profaner. [1-58-9b, 10a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “I shall resort to another refuge (anyāṃ gatiṃ gamiṣyāmi); may all be well with you, O sages rich in asceticism (svasti vo ’stu tapodhanāḥ)!” Hearing that speech fraught with a dreadful intent (vākyaṃ ghorābhisaṃhitam), the sons of the sage,
+
+**9:** filled with supreme wrath (paramasaṃkruddhāḥ), cursed him: “You shall pass into the state of a Caṇḍāla (caṇḍālatvaṃ gamiṣyasi)!” Having spoken thus, those high-souled ones entered each his own hermitage (viviśuḥ svaṃ svam āśramam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -405,6 +447,12 @@ yestereve was a gilt-royalty, his head-hair is shaggy which earlier was silkily 
 garlands which were richly fragrant are now funeral wreaths, and he is besmeared with crematory ashes
 which were regal emollients, and his royal jewellery is now rendered into iron adornments. [1-58-10b,
 11a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when the night had passed away (rātryāṃ vyatītāyām), the king passed into the condition of a Caṇḍāla (rājā caṇḍālatāṃ gataḥ): a dark-complexioned man clad in dark blue garments (nīlavastradharo nīlaḥ), rough-limbed and with cropped, disheveled hair (puruṣo dhvastamūrdhajaḥ).
 </details>
 </details>
 
@@ -464,6 +512,14 @@ prosperous Vishvamitra.
 
 Though that resolutely self-assured king seethed for one night and day for this mishap, then went to
 the ascetically prosperous Vishvamitra. [1-58-12b, 13a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Wearing garlands and body-unguent from the cremation ground (cityamālyāṅgarāgaś ca), he came to wear ornaments of iron (āyasābharaṇo ’bhavat). Seeing him in the form of a Caṇḍāla and abandoning him (tyajya caṇḍālarūpiṇam), all his ministers (mantriṇaḥ sarve),
+
+**12:** together with the citizens who had followed him (paurā ye ’syānugāminaḥ), fled away in haste (prādravan sahitāḥ), O Rāma. Alone, indeed, O Kākutstha, did the king, possessed of supreme fortitude (paramātmavān), depart,
 </details>
 </details>
 
@@ -548,6 +604,16 @@ chieftain, oh brave one; *shaapaat caNDaalataam gataH* = you got [accurst] state
 'What is the purpose of your visit, oh, great-mighty prince Trishanku, oh, brave lord of Ayodhya,
 you are accurst to the state of profaner.' [1-58-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** burning with grief day and night (dahyamāno divārātram), unto Viśvāmitra rich in asceticism (viśvāmitraṃ tapodhanam). And seeing that king thwarted in his purpose (rājānaṃ viphalīkṛtam), the sage Viśvāmitra,
+
+**14:** beholding him in the form of a Caṇḍāla (caṇḍālarūpiṇam), O Rāma, was moved to compassion (muniḥ kāruṇyam āgataḥ). Out of compassion, that supremely righteous sage of great splendour (mahātejāḥ paramadhārmikaḥ)
+
+**15:** spoke these words to the king of dreadful appearance (rājānaṃ ghoradarśanam): “Blessings be upon you (bhadraṃ te)! What is the purpose of your coming (kim āgamanakāryaṃ te), O mighty prince (rājaputra mahābala),”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -588,6 +654,12 @@ spoke sentence to sententious Vishvamitra with adjoined-palms.
 Then that king who is accurst to a state of profaner on listening that sentence, as a diligent sentence
 maker spoke this sentence with his palms adjoined to the sententious sage Vishvamitra. [1-58-16b, 17a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O heroic lord of Ayodhyā (ayodhyādhipate vīra), who have fallen into the state of a Caṇḍāla through a curse (śāpāc caṇḍālatāṃ gataḥ)?” Then, hearing those words, the king who had been reduced to a Caṇḍāla,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -627,6 +699,12 @@ maker spoke this sentence with his palms adjoined to the sententious sage Vishva
 
 I am spurned off by my mentor Vashishta and also like that by his sons. My aspiration remained unachievable,
 besides, this discrepancy has bechanced upon me. [1-58-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+skilled in speech (vākyajñaḥ), with joined palms spoke these words to that master of speech (vākyakovidam): “I have been refused by my preceptor, and likewise by my preceptor’s sons (pratyākhyāto ’smi guruṇā guruputrais tathaiva ca).
 </details>
 </details>
 
@@ -670,6 +748,12 @@ achieved.
 
 'Oh, gentle Vishvamitra, my aspiration is nothing but to go to heaven with my body. I have performed
 hundred rituals but I have not achieved the fruit.' Thus Trishanku started tell his sad tale.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without even attaining that desired object (anavāpyaiva taṃ kāmam), I have met with the very reverse (mayā prāpto viparyayaḥ)! ‘May I ascend to heaven in my very body (saśarīro divaṃ yāyām)’—such was my aspiration, O sage of gentle aspect (saumyadarśana).
 </details>
 </details>
 
@@ -716,6 +800,12 @@ pledge you upon my virtue of Kshatriya-hood. [1-58-19, 20a]
 
 A liar is hell-bound but not the other way as said *yaj~no anR^ite na rakshati...* 'a Vedic ritual
 would not save liars...'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A hundred sacrifices have been offered by me (mayā ceṣṭaṃ kratuśatam), yet their fruit is not obtained (tac ca nāvāpyate phalam). Never before have I spoken an untruth (anṛtaṃ noktapūrvaṃ me), nor shall I ever speak one,
 </details>
 </details>
 
@@ -800,6 +890,16 @@ course, isn't it.
 I deem destiny is the only ultimate, and manly efforts are meaningless, for destiny surmounts everything.
 Destiny is the ultimate course, isn't it? [1-58-22b, 23a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** “even when plunged into dire extremities (kṛcchreṣv api gataḥ), O gentle sage—I swear to you by my Kṣatriya code of righteousness (kṣatradharmeṇa te śape)! With manifold sacrifices have I worshipped (yajñair bahuvidhair iṣṭam), and my subjects have been protected righteously (prajā dharmeṇa pālitāḥ).
+
+**21:** “High-souled preceptors, too, have been gratified by my virtuous character and conduct (guravaś ca mahātmānaḥ śīlavṛttena toṣitāḥ). Yet though I strive earnestly in righteousness (dharme prayatamānasya) and desire to perform this sacrifice (yajñaṃ cāhartum icchataḥ),
+
+**22:** “my preceptors do not attain satisfaction (paritoṣaṃ na gacchanti guravaḥ), O bull among sages! Therefore I deem destiny alone to be supreme (daivam eva paraṃ manye), and human exertion to be in vain (pauruṣaṃ tu nirarthakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -841,6 +941,12 @@ me* = such as, as I am; *prasaadam kartum arhasi* = favour, to do [to accord,] a
 
 A highly anguished endeavourer, marred by destiny, a sincere requester, such as I am, it will be
 apt of you to accord, you be safe, your favour upon me. [1-58-23b, c]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Everything is overpowered by destiny (daivenākramyate sarvam); destiny, indeed, is the supreme arbiter (daivaṃ hi paramā gatiḥ)! Unto me, thus supremely afflicted (tasya me paramārtasya), whose righteous endeavours have been struck down by fate (daivopahatakarmaṇaḥ), and who long for your grace (prasādam abhikāṅkṣataḥ), you ought to grant favour (kartum arhasi)—blessings be upon you!
 </details>
 </details>
 
@@ -902,6 +1008,12 @@ grace of Vishvamitra..." So said Sage Shataananda to Rama and others continuing 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तॆण्टनॆय सर्ग पूर्णवायितु. ॥58॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall resort to no other refuge (nānyāṃ gatiṃ gamiṣyāmi); no other shelter exists for me (nānyac charaṇam asti me). You ought to turn back my adverse destiny by your heroic exertion (daivaṃ puruṣakāreṇa nivartayitum arhasi)!”
 </details>
 </details>
 

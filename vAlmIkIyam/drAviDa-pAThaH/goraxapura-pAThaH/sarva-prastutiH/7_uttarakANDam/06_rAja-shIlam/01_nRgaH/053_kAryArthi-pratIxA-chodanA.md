@@ -36,6 +36,12 @@ title = "०५३ कार्यार्थि-प्रतीक्षा-�
 
 लक्ष्मणन आ अत्यन्त अद्भुत मातन्नु केळि श्रीरामनिगॆ बहळ सन्तोषवागि इन्तॆन्दनु-॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those exceedingly wondrous words of Lakṣmaṇa (tad vākyaṃ ... paramādbhutam), Rāma became deeply pleased (suprītaś cābhavad rāmaḥ) and spoke this speech in reply:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ title = "०५३ कार्यार्थि-प्रतीक्षा-�
 
 सौम्य! नीनु बहळ बुद्धिवन्तनागिरुवॆ. नीनु नन्न मनस्सिनन्तॆ अनुसरिसुवन्तह सहोदर विशेषवागि ईग सिगुवुदु कठिणवागिदॆ.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rare indeed is such a kinsman (durlabhas tv īdṛśo bandhuḥ), especially at a time such as this (asmin kāle viśeṣataḥ), as you are, O gentle one, following the very mind of me of great discernment (mahābuddher mama ... mano-’nugaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +97,12 @@ title = "०५३ कार्यार्थि-प्रतीक्षा-�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शुभलक्षण लक्ष्मण! ईग नन्न मनस्सिनल्लिरुव मातन्नु केळि, हागॆये माडु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And whatever now abides within my heart (yac ca me hṛdaye kiñcid vartate), O you of auspicious marks (śubha-lakṣaṇa), hear it attentively, and having heard it (tan niśāmaya ca śrutvā), carry out my word.
 </details>
 </details>
 
@@ -114,6 +132,12 @@ _________________
 
 सौम्य! सुमित्राकुमार! नानु पुरवासिगळ कार्यमाडदॆ नाल्कुदिनगळु कळॆदवु. ई मातु नन्न मर्मस्थळवन्नु सीळुत्तिदॆ.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Four days have passed, O gentle Saumitri, without my attending to the business of the citizens (kāryaṃ paura-janasya ... akurvāṇasya)—and that pierces my very vitals (tan me marmāṇi kṛntati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -142,6 +166,12 @@ _________________
 
 पुरुषश्रेष्ठने! नीनु प्रजॆ, पुरोहित, मन्त्रिगळन्नु करॆसु. याव पुरुष-स्त्रीयरिगॆ यावुदादरू कॆलसविद्दरॆ, अवरन्नु करॆसु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let the subjects, the royal priest, and the ministers be summoned (āhūyantāṃ prakṛtayaḥ purodhā mantriṇas tathā), together with men and women who have suits to plead (kāryārthinaś ca puruṣāḥ striyaś ca), O bull among men!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -166,6 +196,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 याव राजनु प्रतिदिन प्रजॆगळ कार्य माडुवुदिल्लवो, अन्तह राजनु खण्डितवागि वायुसञ्चारविल्लद घोर नरकदल्लि बीळुवनु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever king does not attend day by day to the affairs of his citizens (paura-kāryāṇi ... na karoti dine dine) falls into a dreadful, tightly enclosed hell (saṃvṛte narake ghore patitaḥ)—of this there is no doubt.”
 </details>
 </details>
 
@@ -192,6 +228,12 @@ _________________
 
 हिन्दॆ ई पृथिवियल्लि नृगनॆम्ब प्रसिद्ध ऒब्ब महायशस्वी राजनु राज्यवन्नाळुत्तिद्दनु. आ भूपालनु दॊड्ड ब्राह्मण भक्त, सत्यवादी, आचार-विचारदिन्द पवित्रनागिद्दनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“It is heard that of old there was a king named Nṛga of great renown (rājā nṛgo nāma mahāyaśāḥ), a protector of the earth, devoted to brahmins (brahmaṇyaḥ), truthful in speech, and pure (satyavāk śuciḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -216,6 +258,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ नरेशनु यावागलो पुष्कर तीर्थक्कॆ होगि ब्राह्मणरिगॆ सुवर्णभूषित, करुगळुळ्ळ ऒन्दु कोटि गोवुगळन्नु दान माडिदनु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Once, that god among men, the king (nṛdevo ... nṛpaḥ), bestowed crores of cows with their calves, adorned with gold (gavāṃ koṭīḥ savatsāḥ svarṇa-bhūṣitāḥ), upon brahmins, the gods on earth (bhūmidevebhyaḥ), at the sacred waters of Puṣkara (puṣkareṣu).
 </details>
 </details>
 
@@ -242,6 +290,12 @@ _________________
 
 निष्पाप लक्ष्मण ! आग बेरॆ दरिद्र उञ्छवृत्तिय ब्राह्मणनिगॆ दानमाडिद ऒन्दु गोवु मरळि इतर गोवुगळॊडनॆ सेरिकॊण्डितु. अदु बेरॆयवरदॆन्दु तिळियदॆ नृगनु आ धेनुवन्नु ब्राह्मणनिगॆ दान माडिदनु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, O sinless one, by mingling with that herd (saṅgād gatā), the cow with calf belonging to a poor, gleaning brahmin who maintained the sacred fires (brāhmaṇasyāhitāgneś ca daridrasyoñcha-vartinaḥ) was ritually touched and gifted away (sparśitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -266,6 +320,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ बडपायि ब्राह्मणनु कळॆदु होद हसुवन्नु बहळ वर्षगळवरॆगॆ इडी राज्यदल्लि हुडुकुत्ता हसिविनिन्द बळलि तिरुगुत्तिद्द. आदरॆ अवनिगॆ आ हसु सिगलिल्ल.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tormented by hunger (kṣudhārto vai), that brahmin wandered searching here and there for his lost cow (naṣṭāṃ gām ... anviṣaṃs tatra tatra ca), yet found her not across all the kingdoms for many cycles of years (saṃvatsara-gaṇān bahūn).
 </details>
 </details>
 
@@ -292,6 +352,12 @@ _________________
 
 कॊनॆगॆ ऒन्दु दिन कनखलगॆ होदाग अवनु तन्न हसुवन्नु ऒब्ब ब्राह्मणन मनॆयल्लि नोडिदनु. अदु निरोगियागि दष्ट-पुष्टवागिद्दु, अदर करु बहळ दॊड्डदागित्तु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At length, going to Kanakhala (kanakhalaṃ gatvā), he beheld his own cow, now with an aged calf yet free from disease (jīrṇa-vatsāṃ nirāmayām), in the dwelling of another brahmin (brāhmaṇasya niveśane).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,6 +383,12 @@ _________________
 
 ब्राह्मणनु अदक्किट्ट शबला ऎम्ब हॆसरिनिन्द करॆद - शबला बा, बा! गोवु आ स्वरवन्नु केळितु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon that twice-born called to her by the name he himself had given (nāmadheyena svakenovāca): ‘Come, Śabalā!’ (āgaccha śabalety evam)—and that cow heard his voice (sā tu śuśrāva gauḥ svaram).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +413,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हसिविनिन्द कङ्गालाद आ ब्राह्मणन परिचित स्वरवन्नु गुरुतिसिद गोवु मुन्दॆ होगुत्तिरुव आ अग्नितुल्य ब्राह्मणनन्नु हिम्बालिसितु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Recognizing that voice of the hunger-stricken twice-born (tasya taṃ svaram ājñāya kṣudhārtasya dvijasya), that cow followed close behind him (anvagāt pṛṣṭhataḥ sā gauḥ) as he walked away radiant as fire (gacchantaṃ pāvakopamam).
 </details>
 </details>
 
@@ -368,6 +446,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इष्टु दिन अदन्नु साकुत्तिद्द ब्राह्मणनू कूडले आ गोवन्नु हिम्बालिसिदनु. होगि आ ब्रह्मर्षियल्लि हेळिदनु-ब्रह्मान्! ई हसु नन्नदागिदॆ. ननगॆ राजा नृगनु दानवागि कॊट्टिद्दनु.॥14½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the brahmin who had been tending her (yo ’pi pālayate vipraḥ) likewise ran swiftly after the cow (so ’pi gām anvagād drutam); overtaking that sage, he declared hastily (gatvā tam ṛṣim ācaṣṭa ... satvaram): ‘This cow is mine!’ (mama gaur iti).
 </details>
 </details>
 
@@ -397,6 +481,12 @@ _________________
 
 मत्तॆ इब्बरू ब्राह्मणरल्लि हसुविन कुरितु विवाद उण्टायितु. अवरिब्बरू परस्पर जगळवाडुत्ता, दानी नृगराजन बळिगॆ बन्दरु.॥15½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Ritually touched by that lion among kings, Nṛga, she was bestowed upon me!’ (sparśitā rāja-siṃhena mama dattā nṛgeṇa ha)—thereupon a great dispute arose between those two learned brahmins (tayor brāhmaṇayor vādo mahān āsīd vipaścitoḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -421,6 +511,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि अरमनॆय बागिलिगॆ होगि अवरु अनेक दिनगळवरॆगॆ निन्तिद्दरू अवरिगॆ राजन न्याय सिगलिल्ल. (अवरिगॆ राजनन्नु नोडलागलिल्ल.) इदरिन्द अवरिब्बरिगू भारी क्रोध उण्टायितु.॥16½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Disputing with one another (vivadantau ... anyonyam), they then repaired to the donor (dātāram abhijagmatuḥ); yet standing at the gate of the royal palace (rāja-bhavana-dvāri), those two obtained no summons from Nṛga (na prāptau nṛga-śāsanam).
 </details>
 </details>
 
@@ -450,6 +546,12 @@ _________________
 
 अवरिब्बरू श्रेष्ठ ब्राह्मणरु अत्यन्त सन्तप्त मत्तु कुपितरागि घोर शापवन्नु कॊडुवाग हेळिदरु.॥17½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Dwelling there for many days and nights (ahorātrāṇy anekāni vasantau), they fell into wrath (krodham īyatuḥ); and those two great-souled foremost brahmins, enraged and brought to the utmost pitch of fury (kruddhau parama-samprāptau), uttered a speech charged with dread (vākyaṃ ghorābhisaṃhitam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -478,6 +580,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! तम्म विवादद निर्णय माडलु बन्दिरुव प्रार्थी पुरुषर कार्य सिद्धिगागि नीनु अवरिगॆ दर्शन कॊडुत्तिल्ल; आद्दरिन्द नीनु ऎल्ल प्राणिगळिन्द अडगि इरुव ओतिक्यातनागि अनेक वर्षगळवरॆगॆ ऒन्दु हॊण्डदल्लि बिद्दिरु.॥18-19½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “‘Because you do not grant audience to petitioners for the fulfillment of their affairs (arthināṃ kārya-siddhyarthaṃ yasmāt tvaṃ naiṣi darśanam), you shall become a chameleon, invisible to all creatures (adṛśyaḥ sarva-bhūtānāṃ kṛkalāso bhaviṣyasi)!
+
+**19:** “‘For many thousands of years and many hundreds of years (bahu-varṣa-sahasrāṇi bahu-varṣa-śatāni ca), you shall abide for a long time in this pit as a chameleon (śvabhre ’smin kṛkalāso vai dīrgha-kālaṃ vasiṣyasi).
 </details>
 </details>
 
@@ -519,6 +629,16 @@ _________________
 
 यावाग यदुकुलद कीर्ति बॆळगुव विख्यात भगवान् विष्णु वासुदेवनागि ई जगत्तिनल्लि अव तरिसुवनो आगले अवनु निन्नन्नु ई शापदिन्द बिडिसुवनु. आद्दरिन्द ईग नीनु ओतिक्यातनागु, मत्तॆ श्रीकृष्णावतारद समय निन्न उद्धारवागुवुदु. कलियुग बरुव स्वल्प मॊदलु महापराक्रमि नर-नारायणरिब्बरू ई भूमिय भारवन्नु कळॆयलु अवतरिसुवरु.॥20-22½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** “‘For there shall be born in this world the enhancer of the Yadus’ renown (utpatsyate hi loke ’smin yadūnāṃ kīrti-vardhanaḥ), Viṣṇu in human form, famed as Vāsudeva (vāsudeva iti khyāto viṣṇuḥ puruṣa-vigrahaḥ).
+
+**21:** “‘He shall become your liberator from that curse, O king (sa te mokṣayitā rājaṃs tasmāc chāpād bhaviṣyasi); and through that long lapse of time, your expiation shall be accomplished (kṛtā ca tena kālena niṣkṛtis te bhaviṣyati).’”
+
+**22:** “‘For to lighten the earth’s burden (bhārāvataraṇārthaṃ hi), both Nara and Nārāyaṇa of mighty prowess (nara-nārāyaṇāv ubhau ... mahāvīryau) shall take birth when the Kali age draws nigh (kalau yuga upasthite).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -543,6 +663,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ शाप कॊट्टु अवरिब्बरू ब्राह्मणरु शान्तरादरु. अवरु आ मुदि दुर्बल गोवन्नु यारो ब्राह्मणनिगॆ कॊट्टु बिट्टरु.॥23½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having thus discharged their curse, those two brahmins, freed from the fever of wrath (vigata-jvarau), bestowed that feeble, aged cow upon another brahmin (tāṃ gāṃ hi durbalāṃ vṛddhāṃ dadatur brāhmaṇāya vai); and thus that king undergoes that exceedingly dreadful curse (taṃ śāpam upabhuṅkte sudāruṇam).
 </details>
 </details>
 
@@ -571,6 +697,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ नृगराजनु आ अत्यन्त दारुण शापवन्नु अनुभविसुत्तिरुवनु. आद्दरिन्द कार्यार्थि पुरुषर विवाद निर्णयवागदिद्दरॆ अदु राजरिगॆ दोष कॊडुवुदागिदॆ.॥24½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, the contention of petitioners (kāryārthināṃ vimardo hi) turns to the transgression of kings (rājñāṃ doṣāya kalpate); therefore let those who have business swiftly approach my presence (tac chīghraṃ darśanaṃ mahyam abhivartantu kāryiṇaḥ)!
 </details>
 </details>
 
@@ -608,6 +740,12 @@ _________________
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये उत्तरकाण्डे त्रिपञ्चाशः सर्गः ॥ ५३ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके उत्तरकाण्डमें तिरपनवाँ सर्ग पूरा हुआ ॥ ५३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For does a king ever lose the fruit of a duty well-performed? (sukṛtasya hi kāryasya phalaṃ nāpaiti pārthivaḥ); therefore go, O Saumitri, and look out for any petitioner who awaits (gaccha pratīkṣasva saumitre kāryavāñ janaḥ).”
 </details>
 </details>
 

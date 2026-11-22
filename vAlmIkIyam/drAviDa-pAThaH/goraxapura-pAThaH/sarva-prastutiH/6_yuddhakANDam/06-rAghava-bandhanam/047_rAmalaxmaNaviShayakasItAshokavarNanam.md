@@ -66,6 +66,12 @@ protected him.
 Indrajit, the son of Ravana having returned to Lanka, his purpose accomplished, the
 leading monkeys surrounded Rama in order to watch over him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāvaṇa's son, having accomplished his purpose (kṛtārthe rāvaṇātmaje), had entered Laṅkā (tasmin praviṣṭe laṅkāyām), the foremost of the Vānaras surrounded Rāghava and stood guard over him (rāghavaṃ parivāryātha rarakṣur vānararṣabhāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -89,6 +95,14 @@ leading monkeys surrounded Rama in order to watch over him.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 हनुमान्, अङ्गद, नील, सुषेण, कुमुद, नल, गज, गवाक्ष, गवय, शरभ, गन्धमादन, जाम्बवान्, ऋषभ, स्कन्ध, रम्भ, शतबलि और पृथु—ये सब सावधान हो अपनी सेनाकी व्यूहरचना करके हाथोंमें वृक्ष लिये सब ओरसे पहरा देने लगे ॥ २-३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** Hanumān, Aṅgada, Nīla, Suṣeṇa, Kumuda, Nala, Gaja, Gavākṣa, Gavaya, Śarabha, and Gandhamādana,
+
+**3:** Along with Jāmbavān, Ṛṣabha, Skandha, Rambha, Śatabali, and Pṛthu—having arrayed their troops in battle formation (vyūḍhānīkāś ca), vigilant (yattāś ca), and grasping trees on every side (drumān ādāya sarvataḥ)—
 </details>
 </details>
 
@@ -135,6 +149,12 @@ and the mighty Jambavan with Sunda, Rambha, Shatabali and Prithu all these monke
 trees, reorganized their ranks, stood alert, surveyed the quarters of the sky up and down and on
 every side and, even if a grass stirred, they exclaimed, "It is a demon!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scanned all the directions, horizontally and upward (vīkṣamāṇā diśaḥ sarvās tiryag ūrdhvaṃ ca); even when blades of grass stirred (tṛṇeṣv api ca ceṣṭatsu), the Vānaras imagined, “They are Rākṣasas!” (rākṣasā iti menire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,6 +195,12 @@ female-demons; *siitaa raakSaNiiH* = who guarded Seetha; *tadaa* = then.
 
 Ravana, meanwhile, full of joy, dismissed his son Indrajit and thereafter summoned
 the female demons who guarded Seetha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Meanwhile Rāvaṇa, filled with joy, dismissed his son Indrajit (visṛjyendrajitaṃ sutam) and summoned the Rākṣasa women who guarded Sītā (ājuhāva tataḥ sītārakṣaṇī rākṣasīs tadā).
 </details>
 </details>
 
@@ -219,6 +245,12 @@ follows)
 Following his orders, the female-demons along with Trijata appeared before him.
 Then, the rejoiced Ravana said to them as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At his command (śāsanāt), those Rākṣasa women along with Trijaṭā presented themselves before him (tam upasthitāḥ); then the delighted lord of the Rākṣasas spoke to those Rākṣasa women:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,6 +293,12 @@ aeroplane; Pushpaka; *darshayadhvam* = show; *hatau* = Rama and Lakshmana; kille
 "Tell Seetha that Rama and Lakshmana have been killed by Indrajit. Take her in
 Pushpaka the aeroplane and show her Rama and Lakshman who were killed in battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Announce to Vaidehī (ākhyāta vaidehyāḥ) that Rāma and Lakṣmaṇa have been slain by Indrajit (hatāv indrajitā); placing her aboard the Puṣpaka aerial chariot (puṣpakaṃ tat samāropya), show her the two slain in battle (darśayadhvaṃ raṇe hatau)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -301,6 +339,12 @@ Pushpaka the aeroplane and show her Rama and Lakshman who were killed in battle.
 
 "Her husband, the one depending on whom rendered her so proud that she refused to be
 united with me, lies there killed with his brother in the battle-front."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That husband of hers, relying upon whom in her pride (yadāśrayād avaṣṭabdhā) she does not submit to me (neyaṃ mām upatiṣṭhate), has been slain along with his brother at the forefront of the battle (nihato raṇamūrdhani).
 </details>
 </details>
 
@@ -343,6 +387,12 @@ of reunion.
 
 "From now on, free from anxiety, grief and expectation of reunion, Seetha the
 princess of Mithila kingdom, adorned in all her jewels, will submit herself to me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Free from apprehension, free from anxiety, and devoid of further expectation (nirviśaṅkā nirudvignā nirapekṣā ca), Sītā, the princess of Mithilā, adorned with every ornament (sarvābharaṇabhūṣitā), will now wait upon me (mām upasthāsyate)!
 </details>
 </details>
 
@@ -391,6 +441,12 @@ me; *svayam* = herself; *apashyatii* = without finding; *anyaam* = any other;
 today, finding no other haven and hoping for nothing else, the large-eyed Seetha will voluntarily
 seek refuge with me!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today, beholding Rāma along with Lakṣmaṇa fallen under the sway of Time in battle (kālavaśaṃ prāptaṃ raṇe), her hopes turned back (vinivṛttā sā) and seeing no other refuge (anyāṃ gatim apaśyatī),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -432,6 +488,12 @@ Pushpaka-plane was there.
 
 Hearing these words of the cruel Ravana, they all replied, "Be it so" and went to
 where the Pushpaka chariot was.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without further longing [for another] (anapekṣā), the wide-eyed lady will wait upon me of her own accord (mām upasthāsyate svayam).” Hearing those words of the evil-souled Rāvaṇa (rāvaṇasya durātmanaḥ),
 </details>
 </details>
 
@@ -475,6 +537,12 @@ grove.
 Thereafter, the female-demons brought the aerial car, Pushpaka as per the
 instructions of Ravana and carried it nearer to Seetha who was staying in Ashoka-grove.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those Rākṣasa women said, “So be it!” (tathety uktvā), and went to where the Puṣpaka stood (jagmur vai yatra puṣpakam); then, taking the Puṣpaka at Rāvaṇa's command (rāvaṇājñayā), the Rākṣasa women—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -516,6 +584,12 @@ instructions of Ravana and carried it nearer to Seetha who was staying in Ashoka
 The female-demons brought Seetha who was afflicted with grief for her husband and
 made her to ascend Pushpaka-plane.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brought that princess of Mithilā, who was dwelling in the Aśoka grove (aśokavanikāsthāṃ tāṃ maithilīṃ samupānayan); and taking her, who was overwhelmed by grief for her husband (bhartṛśokaparājitām), the Rākṣasa women
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -552,6 +626,14 @@ show; *tasyai* = her; *raama lakSmaNau* = Rama and Lakshmana.
 
 The female-demons along with Trijata made Seetha to ascend Pushpaka-plane and
 proceeded to show her Rama and Lakshmana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Placed Sītā aboard the aerial chariot Puṣpaka at that time (sītām āropayām āsur vimānaṃ puṣpakaṃ tadā); and having placed Sītā aboard the Puṣpaka together with Trijaṭā (trijaṭayā saha),
+
+**15:** The Rākṣasa women set out to show her Rāma and Lakṣmaṇa (jagmur darśayituṃ tasyai rāmalakṣmaṇau). And Rāvaṇa caused [the city of Laṅkā] to be festooned with garlands of pennants and banners (patākādhvajamālinīm),
 </details>
 </details>
 
@@ -590,6 +672,12 @@ demons; *hR^iSTaH* = thrilled with rapture; *kaarayaamaasa* = made; *laN^kaam*
 Ravana the king of demons, thrilled with rapture, caused Lanka to be garlanded with
 flags and banners and arranged a proclamation to be made in Lanka announcing that Rama and
 Lakshmana had been slain by Indrajit in battle.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the delighted lord of the Rākṣasas had it proclaimed throughout Laṅkā (prāghoṣayata hṛṣṭaś ca laṅkāyām): “Rāghava and Lakṣmaṇa have been slain in battle by Indrajit (hatāv indrajitā raṇe)!”
 </details>
 </details>
 
@@ -632,6 +720,12 @@ had been slain.
 Seetha along with Trijata, transported by that plane, saw all the monkey-troops who
 had been slain.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Journeying by the aerial chariot together with Trijaṭā (vimānenāpi gatvā tu sītā trijaṭayā saha), Sītā beheld the entire army of the Vānaras struck down (dadarśa vānarāṇāṃ tu sarvaṃ sainyaṃ nipātitam);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -673,6 +767,12 @@ paarshvataH* = by the side of Rama and Lakshmana.
 Seetha saw the demons who were delighted at heart and monkeys disturbed with grief,
 standing round Rama and Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And she beheld the flesh-eating Rākṣasas exultant in heart (prahṛṣṭamanasaś cāpi dadarśa piśitāśanān), and the Vānaras sorely afflicted with grief at the sides of Rāma and Lakṣmaṇa (rāmalakṣmaṇapārśvataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -692,6 +792,12 @@ standing round Rama and Lakshmana.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर सीताने बाणशय्यापर सोये हुए दोनों भाई श्रीराम और लक्ष्मणको भी देखा, जो बाणोंसे पीड़ित हो संज्ञाशून्य होकर पड़े थे ॥ १९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Sītā beheld both Lakṣmaṇa and Rāma lying stretched upon a couch of arrows (śayānau śaratalpagau), bereft of consciousness and tormented by shafts (visaṃjñau śarapīḍitau)—
 </details>
 </details>
 
@@ -732,6 +838,12 @@ the ground.
 Then, Seetha beheld those two warriors Rama and Lakshmana lying unconscious on the
 ground on a bed of arrows, their limbs pierced with arrows, riddled with weapons, their armour
 shattered, their bows cast aside at a distance and their entire body transfixed by darts.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Two heroes with their armor shattered (vidhvastakavacau vīrau), their bows cast far aside (vipraviddhaśarāsanau), every limb gashed by arrows (sāyakaiś chinnasarvāṅgau), lying upon the earth bristling like clumps of reeds with shafts (śarastambamayau kṣitau).
 </details>
 </details>
 
@@ -786,6 +898,14 @@ excellent of men, lying streteched on a bed of arrows there in that wretched pli
 sons of the fire-god (Shkha and Vishakha) lying on a bed of reeds, Seetha wailed piteously,
 stricken as she was with a great agony.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Beholding those two heroic brothers, bulls among men (pravīrau puruṣarṣabhau), lotus-eyed (puṇḍarīkākṣau), lying there like the two youthful sons of Fire (kumārāv iva pāvakī)—
+
+**22:** Those two heroic bulls among men reduced to such a plight upon their bed of arrows (śaratalpagatau vīrau tathābhūtau nararṣabhau)—Sītā, stricken with grief, lamented most piteously and bitterly (duḥkhārtā karuṇaṃ sītā subhṛśaṃ vilalāpa ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -820,6 +940,12 @@ lying paamsuSu = in the dust; *ruroda* = burst into sobs.
 
 The dark-eyed Seetha the daughter of Janaka with her faultless limbs, beholding her
 lord and Lakshmana lying in the dust, burst into sobs.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing her husband and Lakṣmaṇa writhing in the dust (prekṣya pāṃsuṣu ceṣṭantau), the dark-eyed daughter of Janaka, of faultless limbs (anavadyāṅgī), wept aloud (ruroda janakātmajā).
 </details>
 </details>
 
@@ -874,6 +1000,12 @@ sorrow, believing their death, spoke with grief the following words.
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे सप्तचत्वारिंशः सर्गः ॥ ४७ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें सैंतालीसवाँ सर्ग पूरा हुआ ॥ ४७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stricken with tears and sorrow (sabāṣpaśokābhihatā) as she gazed upon those two brothers whose splendor equaled the sons of the gods (devasutaprabhāvau), and surmising that the two of them were dead (vitarkayantī nidhanaṃ tayoḥ sā), filled with anguish she spoke these words:
 </details>
 </details>
 

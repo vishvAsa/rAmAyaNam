@@ -84,6 +84,14 @@ Bharata, knowing what is right, leaving all his army behind, discarding his weap
 and wearing simple silken garment, went forwards by foot, proceeded by Vasishta, his spiritual
 preceptor.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Sighting the hermitage of Bharadvāja from a full krośa away (bharadvājāśramaṃ dṛṣṭvā krośād eva), that bull among men halted his entire army and proceeded with his ministers (nararṣabhaḥ balaṃ sarvam avasthāpya jagāma saha mantribhiḥ),
+
+**2:** walking on foot, that knower of Dharma, having laid aside his weapons and royal trappings (padbhyām eva hi dharmajño nyasta-śastra-paricchadaḥ), clad in two silken garments and placing his family priest in front (vasāno vāsasī kṣaume purodhāya purodhasam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -129,6 +137,12 @@ Vasista; his spiritual preceptor
 
 Leaving his ministers behind at a visible distance to Bharadwaja, Bharata then went
 along with Vasishta, his spiritual preceptor.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, coming within sight of Bharadvāja (tataḥ sandarśane tasya bharadvājasya), Rāghava halted those ministers as well and walked behind the family priest (rāghavaḥ mantriṇas tān avasthāpya jagāmānupurohitam).
 </details>
 </details>
 
@@ -180,6 +194,12 @@ to wash the hands (of the distinguished guests) with.
 On seeing Vasishta, Bharadwaja the great ascetic rose quickly from his seat, asking
 his disciples to fetch water to wash the hand (of the distinguished guests) with.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The moment Bharadvāja of great austerity beheld Vasiṣṭha (vasiṣṭham atha dṛṣṭvaiva bharadvājo mahā-tapāḥ), he rose swiftly from his seat, calling out to his disciples, “Bring the arghya offering!” (sañcacālāsanāt tūrṇaṃ śiṣyān arghyam iti bruvan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -225,6 +245,12 @@ salutation; *bharatena* = by Bharata; *abudhyata* = recognized; *tam* = him;
 
 Having met Vasishta and greeted by Bharata, Bharadwaja of great splendour recognized
 him to be a son of Dasaratha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Meeting with Vasiṣṭha and receiving the salutation of Bharata (samāgamya vasiṣṭhena bharatenābhivāditaḥ), the sage of mighty splendor recognized him to be the son of Daśaratha (abudhyata mahā-tejāḥ sutaṃ daśarathasya tam).
 </details>
 </details>
 
@@ -277,6 +303,12 @@ Bharadwaja, knowing what is right, offering them both, in order of seniority, wa
 to wash theri hands and feet with and fruits afterwards, made enquiries concerning the welfare of
 their family.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having offered them both the arghya oblation and water for the feet, and afterwards fruits (tābhyām arghyaṃ ca pādyaṃ ca dattvā paścāt phalāni ca), the knower of Dharma inquired in due order after the welfare of their house (ānupūrvyāc ca dharmajñaḥ papraccha kuśalaṃ kule),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -326,6 +358,12 @@ in the city of Ayodhya, with the army, with the treasury, friends and counsellor
 Dasaratha friends and counsellors. But knowing Dasaratha to be dead, he did not speak of the
 king.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and after the welfare of Ayodhyā, the army, the treasury, the allies, and the ministers (ayodhyāyāṃ bale kośe mitreṣv api ca mantriṣu); knowing that Daśaratha had passed away, he did not mention the king (jānan daśarathaṃ vṛttaṃ na rājānam udāharat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -373,6 +411,12 @@ birds
 Vasishta and Bharata in return made enquires with Bharadwaja, if all were well with
 his body his sacred fires, his disciples, the trees, the deer and birds in the hermitage.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha and Bharata in turn inquired of him after the well-being (vasiṣṭho bharataś cainaṃ papracchatur anāmayam) of his body, his sacred fires, the hermitage trees, his disciples, and the deer and birds (śarīre 'gniṣu vṛkṣeṣu śiṣyeṣu mṛga-pakṣiṣu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -418,6 +462,12 @@ Bharadwaja; *pratijJNaaya* = replied; *tata tatheti* = "All is well";
 
 The great ascetic Bharadwaja replied, "All is well" and spoke the following words to
 Bharata, bound as he was with affection to Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assenting with the words “So it is,” Bharadvāja of great austerity (tatheti tat pratijñāya bharadvājo mahā-tapāḥ), bound by affection for Rāghava, spoke thus in reply to Bharata (bharataṃ pratyuvācedaṃ rāghava-sneha-bandhanāt):
 </details>
 </details>
 
@@ -465,6 +515,12 @@ cleared (of all doubts)
 
 "For what reason have you, who are ruling the kingdom, come here? Tell me all this,
 for my mind is not getting cleared of doubts."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What business brings you here while you are ruling the kingdom (kim ihāgamane kāryaṃ tava rājyaṃ praśāsataḥ)? Declare all this to me, for my mind is not at ease (etad ācakṣva me sarvaṃ na hi me śudhyate manaḥ).
 </details>
 </details>
 
@@ -542,6 +598,16 @@ is full of glory, through the intrigues of a woman was condemned to dwell in the
 fourteen years by his father. I hope you do not intend to do any harm to that irreproachable prince
 and his younger brother in order to enjoy the throne without hindrance."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** He whom Kausalyā bore—that destroyer of foes and increaser of joy (suṣuve yam amitraghnaṃ kausalyā nanda-vardhanam)—who along with his wife and brother has been banished to the forest for a long time (bhrātrā saha sa-bhāryo yaś ciraṃ pravrājito vanam),
+
+**12:** that prince of great renown who, commanded by his father at a woman’s bidding (niyuktaḥ strī-niyuktena pitrā yo 'sau mahā-yaśāḥ), was told to become a forest-dweller here for fourteen years (vana-vāsī bhavetīha samāḥ kila caturdaśa)—
+
+**13:** desiring to enjoy the kingdom free of thorns, you do not wish, I hope, to do any harm here to that sinless prince and his younger brother (kaccin na tasyāpāpasya pāpaṃ kartum ihecchasi akaṇṭakaṃ bhoktu-manā rājyaṃ tasyānujasya ca)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -587,6 +653,12 @@ replied; *bharadvaajam* = to Bharadwaja ( as follows).
 
 "Thus spoken to as aforesaid, Bharata with his eyes filled with tears in grief and
 in a faltering tone, replied to Bharadwaja as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, Bharata replied to Bharadvāja (evam ukto bharadvājaṃ bharataḥ pratyuvāca ha), his eyes brimming with tears of sorrow and his voice faltering (paryaśru-nayano duḥkhād vācā saṃsajjamānayā):
 </details>
 </details>
 
@@ -637,6 +709,12 @@ _________________
 "If you the Blessed One, regard me like this, I am lost indeed! I cannot conceive of
 any harm towards Rama having proceeded from me. do not charge me thus."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Undone am I if even Your Reverence deems me such (hato 'smi yadi mām evaṃ bhagavān api manyate)! Suspect no fault from me; do not admonish me thus (matto na doṣam āśaṅke naivaṃ mām anuśādhi hi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -684,6 +762,12 @@ words.
 " I do not approve of what my mother has done when I was away from home. I am not
 pleased with her nor do I accept her word in this matter."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What my mother spoke on my behalf was never desired by me (na caitad iṣṭaṃ mātā me yad avocan mad-antare); neither am I pleased therewith, nor do I accept her word (nāham etena tuṣṭaś ca na tad vacanam ādade).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -729,6 +813,12 @@ among men; *ayodhyaam* = to Ayodhya; *prasaadakaH* = after propitiating him.
 
 "I, on my part, came to take back that tiger among men to Ayodhya, after prostrating
 myself at his feet and having propitiated him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rather, I have come to propitiate that tiger among men (ahaṃ tu taṃ nara-vyāghram upayātaḥ prasādakaḥ), to bring him back to Ayodhyā, and to bow to his feet (pratinetum ayodhyāṃ ca pādau tasyābhivanditum).
 </details>
 </details>
 
@@ -780,6 +870,12 @@ the lord of the world; *(is to be found) samprati* = now?
 "O, venerable one! Believing me to have come for the aforesaid purpose, you ought to
 do a favour for me. Tell me where Rama the Lord of the world is to be found now?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing me to have come with this intent, you ought to show me grace (tvaṃ mām evaṃ-gataṃ matvā prasādaṃ kartum arhasi); tell me, O venerable sage, where is Rāma, lord of the earth, at present (śaṃsa me bhagavan rāmaḥ kva samprati mahī-patiḥ)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -825,6 +921,12 @@ affectionate; *vachaH* = words ( as follows):
 
 Requested by Vasishta and other priests likewise, Bharadwaja answered Bharata in
 affectionate words as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entreated thereupon by Vasiṣṭha and the other officiating priests (vasiṣṭhādibhir ṛtvigbhir yācito bhagavāṃs tataḥ), the venerable Bharadvāja graciously spoke this word to Bharata (uvāca taṃ bharadvājaḥ prasādād bharataṃ vacaḥ):
 </details>
 </details>
 
@@ -872,6 +974,12 @@ following; *saadhuunaam* = virtuous men; *(are all) yuktam* = worthy of you.
 "O, Bharata the tiger among men! Good manners towards teachers as well as self
 control and walking in the footsteps of virtuous men-these qualities are worthy of you, born as you
 are in the Raghu dynasty."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Worthy of you, O tiger among men, born in the line of the Rāghavas, is this (tvayy etat puruṣa-vyāghra yuktaṃ rāghava-vaṃśa-je): devotion to elders, self-restraint, and following the path of the righteous (guru-vṛttir damaś caiva sādhūnāṃ cānuyāyitā).
 </details>
 </details>
 
@@ -923,6 +1031,12 @@ fame; *atyartham* = immeasurably.
 " I was aware of your purpose in your mind. But, I desired to confirm it and it is
 on this account that I asked you, in order to strengthen you fame immeasurably."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I know well that this resolve abides in your heart; thinking ‘Let it be made even firmer’ (jāne caitan manaḥ-sthaṃ te dṛḍhī-karaṇam astv iti), I questioned you thus so as to enhance your glory exceedingly (apṛcchaṃ tvāṃ tathātyarthaṃ kīrtiṃ samabhivardhayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -970,6 +1084,12 @@ called Chitrakuta.
 "I know where the virtuous Rama along with Seetha and LakSmana are to be found. Your
 elder brother is staying on the great mountain called Chitrakuta."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And I know where righteous Rāma is, together with Sītā and Lakṣmaṇa (jāne ca rāmaṃ dharmajñaṃ sa-sītaṃ saha-lakṣmaṇam); yonder brother of yours dwells upon the great mountain Citrakūṭa (asau vasati te bhrātā citrakūṭe mahā-girau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1016,6 +1136,12 @@ desham* = to that place; *vasa* = stay here; *adya* = today;
 
 "You may proceed to that place tomorrow. Stay here today along with your ministers.
 O, man of great wisdom, who understands legitimate interest and desire! Grant me this desire."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tomorrow you shall go to that place; abide here today with your ministers (śvas tu gantāsi taṃ deśaṃ vasādya saha mantribhiḥ). Grant me this desire, O wise prince, skilled in both pleasure and profit (etaṃ me kuru suprājña kāmaṃ kāmārtha-kovida).”
 </details>
 </details>
 
@@ -1087,6 +1213,12 @@ the hermitage."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥90॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Bharata of noble aspect, renowned in fame, replied, “So be it” (tatas tathety evam udāra-darśanaḥ pratīta-rūpo bharato 'bravīd vacaḥ), and at that time the king’s son resolved to pass the night in that hermitage (cakāra buddhiṃ ca tadā tad-āśrame niśā-nivāsāya narādhipātmajaḥ).
 </details>
 </details>
 

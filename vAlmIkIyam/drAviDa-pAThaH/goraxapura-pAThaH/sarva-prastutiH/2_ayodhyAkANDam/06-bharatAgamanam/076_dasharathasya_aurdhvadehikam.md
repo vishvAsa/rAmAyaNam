@@ -71,6 +71,12 @@ of Kaikeyi; *evam* = who was thus; *shokatamtaptam* = tormented with grief.
 The sage Vasishta, the excellent one among the speakers having eloquence, spoke to
 that Bharata, Kaikeyi's son who was thus tormented with grief.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To that Bharata, the son of Kaikayī (kaikayī-sutam), who was thus tormented by grief (śoka-santaptam), the sage Vasiṣṭha of most excellent speech (śreṣṭha-vāg ṛṣiḥ), the foremost of eloquent speakers (vadatāṃ śreṣṭhaḥ), spoke.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +122,12 @@ your sorrow; *kuru* = perform; *uttamam* = in an excellent; *samyaanam* = way;
 
 "O, the greatly illustrious prince! My blessing to you. You have lamented long
 enough. Perform in an excellent way, the last rites of the king."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Enough of grief (alaṃ śokena), O prince of great renown (mahāyaśaḥ)! May auspiciousness attend you (bhadraṃ te); perform now the supreme funeral procession (saṃyānam uttamam) for the lord of men, whose appointed hour has arrived (prāpta-kālam).”
 </details>
 </details>
 
@@ -164,6 +176,12 @@ obsequies.
 Hearing the words of Vasishta, Bharata conversant with his duty fell prostate and
 proceeded with all the arrangements for the obsequies.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Vasiṣṭha, Bharata recovered his composure (dhāraṇāṃ gataḥ) and, knowing the sacred law (dharmavit), caused all the funeral rites (preta-kāryāṇi sarvāṇi) to be set in motion.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +206,12 @@ proceeded with all the arrangements for the obsequies.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दशरथन शववन्नु ऎण्णॆकॊप्परिगॆयिन्द तॆगॆदु नॆलद मेलॆ इरिसिदरु. हॆच्चु समय ऎण्णॆयल्लि इरिसिद्दरिन्द राजन मुख हळदियागित्तु. अवनन्नु नोडिदरॆ दशरथनु मलगिरुवनो ऎम्बन्तित्तु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having had the lord of the earth lifted up from the preserving trough of oil (uddhṛtaṃ taila-saṃrodhāt) and laid upon the ground (bhūmau niveśitam)—his countenance pale and yellowish (āpīta-varṇa-vadanam), appearing as though fast asleep (prasuptam iva)—
 </details>
 </details>
 
@@ -234,6 +258,12 @@ Raising the body of king Dasaratha, from the vessel where it had been immersed i
 oil, seeming as it were asleep with face in the color of gold, that son Bharata placed it in a
 magnificent couch, adorned with every kind of precious stone and in a great grief, lamented.(as
 follows):
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and having placed King Daśaratha upon a foremost couch (śayane cāgrye) adorned with manifold jewels (nānā-ratna-pariṣkṛte), his deeply afflicted son lamented (vilalāpa suduḥkhitaḥ):
 </details>
 </details>
 
@@ -283,6 +313,12 @@ Lakshmana; *mahaabalam* = possessed of great strength?
 great strength, while I was away from home and had not yet returned, what did you intend to
 do?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What had you resolved upon (kiṃ te vyavasitam), O King, while I was away in a distant land and had not yet returned (proṣite mayy anāgate), having banished righteous Rāma and Lakṣmaṇa of mighty strength?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -328,6 +364,12 @@ leaving; *imam janam* = this person; *duHkhitam* = who is distressed; *hiinam*
 
 "Where will you go, leaving this person (me) who was distressed and bereft of Rama
 the unwearied one in action and the excellent one among men?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whither will you go, O great king (kva yāsyasi mahārāja), having forsaken this afflicted people (hitvemaṃ duḥkhitaṃ janam), already bereft of that lion among men, Rāma of untiring deeds (akliṣṭa-karmaṇā)?”
 </details>
 </details>
 
@@ -377,6 +419,12 @@ while you; *prayaate* = have gone;svaH = to heaven; *raamecha* = and Rama;
 Ayodhya, while you have departed for heaven and while Rama has gone, taking refuge in a
 forest?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who now in this city will secure the acquisition and preservation of welfare (yogakṣemaṃ kalpayitā) for you, O King, when you have departed to heaven, O father (tvayi prayāte svas tāta), and Rāma has resorted to the forest?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -424,6 +472,12 @@ out a moon.
 "O, king! Bereft of you and deprived of its lord, this earth does not look charming.
 To me, this city is looking like a night without a moon."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Widowed and bereft of you, O King (vidhavā... tvayā hīnā), the earth does not shine (pṛthivī na rājate); the city appears to me like a night bereft of the moon (hīna-candreva rajanī).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,6 +523,12 @@ bharatam* = to that bharata; *diinamaanasam* = who was distressed in mind; *evam
 
 The great sage Vasishta again spoke the following words to that Bharata who was
 distressed in mind and thus lamenting.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To that Bharata, who was lamenting thus with a dejected heart (vilapamānaṃ... dīna-mānasam), the great sage Vasiṣṭha once again spoke these words (abravīd vacanaṃ bhūyaḥ):
 </details>
 </details>
 
@@ -519,6 +579,12 @@ those; *pretakaaryaaNi* = funeral rites; *asya vishaampate* = to this king;
 "O, mighty armed Bharata! Without hesitation or repining, carry out the funeral
 rites of the king that should be done."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever funeral rites (preta-kāryāṇi) must be performed for this lord of the people (viśāṃ pateḥ), O mighty-armed prince, let them be performed unhesitatingly and without distraction (avyagram... avicāritam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -564,6 +630,12 @@ purohitaachaaryaan* = the appointed priests; knowing the rules of the funeral ri
 
 "Be it so" answered Bharata and obedient to Vasishta's command, he summoned speedily
 the appointed priests who were knowing the rules of the funeral rites."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reverently accepting those words of Vasiṣṭha with the reply ‘So be it’ (tatheti... abhipūjya), Bharata urged on the officiating priests, family chaplains, and spiritual preceptors in every way (ṛtvik-purohitācāryāṃs tvarayām āsa sarvaśaḥ).
 </details>
 </details>
 
@@ -611,6 +683,12 @@ the appointed priests; *yaajakaashchaiva* = and sacrificial attendants; *yathaav
 
 The fires of that king were prepared outside the chamber and kindled in accordance
 with the rituals by the priests and the sacrificial attendants.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those sacred fires of the lord of men (ye tv agnayo narendrasya) which had been brought out from the fire-sanctuary (agny-agārād bahiṣkṛtāḥ) were borne along according to ritual ordinance (hriyanta yathā-vidhi) by the officiating priests and sacrificers (ṛtvigbhir yājakaiś caiva).
 </details>
 </details>
 
@@ -662,6 +740,12 @@ it(away).
 The attendants were choked with tears in their throats and disconsolate in their
 mind, made the dead king to mount on a small palanquin and carried it away.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having placed the lifeless king (rājānaṃ gata-cetasam) upon a palanquin (śibikāyām āropya), his attendants bore him along (tam ūhuḥ paricārakāḥ), their throats choked with tears and their minds dejected (bāṣpa-kaṇṭhā vimanasaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -707,6 +791,12 @@ in front; *nR^ipate* = of the king.
 
 The people went along the path, scattering silver, gold and various kinds of clothes
 in front of the king.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scattering silver, gold, and manifold garments along the path (hiraṇyaṃ ca suvarṇaṃ ca vāsāṃsi vividhāni ca prakiranto... mārgam), men walked in front of the lord of men (nṛpater agrato yayuḥ).
 </details>
 </details>
 
@@ -771,6 +861,14 @@ essences, with leaps of Sarala Padmaka and Devadaru woods and many other kinds o
 substances, went there and threw them into the funeral pile. Thereafter the appointed priests
 caused the king's body to lie down there in the midst of the funeral pyre.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Fetching sandalwood, aloe-wood, fragrant resins (candanāgaru-niryāsān), pine (saralam), and padmaka wood, as well as Himalayan cedar logs (devadārūṇi cāhṛtya), others constructed the funeral pyre (citāṃ cakrus tathāpare).
+
+**17:** Having gone there and strewn manifold other fragrant substances high and low (gandhān uccāvacāṃś cānyān), the officiating priests laid the lord of the earth in the midst of the pyre (saṃveśayām āsuś citā-madhye tam ṛtvijaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -822,6 +920,12 @@ shaastram* = according to the rules.
 Then, those priests engaged for the benefit of the king poured oblations into the
 fire and recited sacred texts (relevant to the funeral rites). Those among the priests, who could
 recite the hymns of Samaveda, chanted them according to the rules.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having offered oblations into the fire (hutāśanaṃ hutvā), his officiating priests softly recited the prescribed mantras for him (jepus tasya tad-ṛtvijaḥ), and the Sāman-chanters sang the Sāman hymns there in accordance with the sacred texts (jaguś ca te yathā-śāstraṃ tatra sāmāni sāmagāḥ).
 </details>
 </details>
 
@@ -893,6 +997,14 @@ Then, the appointed priests as well as Kausalya and other women who were torment
 with grief, circumambulated in anti clockwise direction that king who was lying on a funeral
 pile.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** In palanquins and vehicles according to their rank (śibikābhiś ca yānaiś ca yathārham), his consorts went forth from the city to that place (nagarān niryayus tatra), surrounded at that time by aged attendants (vṛddhaiḥ parivṛtās tadā).
+
+**20:** Then the officiating priests—and the womenfolk headed by Kausalyā, tormented by grief (striyaś ca śoka-santaptāḥ kausalyā-pramukhāḥ)—walked counter-clockwise around the king laid upon the fire-altar (prasavyaṃ cāpi taṃ cakrur... agni-citaṃ nṛpam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -938,6 +1050,12 @@ heard; *krouN^chiinamiva* = like the sounds of female curlew birds.
 
 At that time the crying sounds of thousands of women, pitiably weeping with agony,
 were heard like the sounds of female curlew birds.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There was heard at that moment the wailing of thousands of afflicted women crying out piteously (ārtānāṃ karuṇaṃ kāle krośantīnāṃ sahasraśaḥ), like the shrill cry of female krauñca birds (krauñcīnām iva nārīṇāṃ ninādaḥ).
 </details>
 </details>
 
@@ -985,6 +1103,12 @@ River.
 
 Thereafter, the lamenting ladies deprived of their grit wept again and again and
 descended from their vehicles at the bank of Sarayu River.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, weeping helplessly and lamenting again and again (rudantyo vivaśā vilapya ca punaḥ punaḥ), the noble women descended from their vehicles to the bank of the Sarayū (yānebhyaḥ sarayū-tīram avaterur varāṅganāḥ).
 </details>
 </details>
 
@@ -1051,6 +1175,12 @@ great difficulty by sleeping on bare floor.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तारनॆयय सर्ग पूर्णवायितु.॥76॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having offered the funerary water libation (kṛtvodakam) together with Bharata, the royal women, ministers, and family priests entered the city with eyes flooded with tears (aśru-parīta-netrāḥ) and passed ten days of mourning sleeping upon the bare ground (bhūmau daśāhaṃ vyanayanta duḥkham).
 </details>
 </details>
 

@@ -71,6 +71,12 @@ for a while, this, said.
 meditating for a while that sage said this..." Thus Sampaati continued his narration, and now he
 reports to Angada and others what that is said by Sage Nishaakara to him. [4-62-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having spoken thus to the foremost of sages (muniśreṣṭham), I wept (arudam), sorely afflicted with grief (bhṛśaduḥkhitaḥ); then, having meditated for a moment (dhyātvā muhūrtam), the reverend one spoke this:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ comeback.]
 power, and life-force will comeback...' Thus Sage Nishaakara started to console Sampaati.
 [4-62-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Both your two wings (pakṣau) and your two wing-tips (prapakṣau) shall arise again anew (punar anyau bhaviṣyataḥ), and so too your two eyes (cakṣuṣī), vital breaths (prāṇāḥ), valor (vikramaḥ), and strength!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -158,6 +170,12 @@ viditam* = by hearing, to me, known.
 
 " 'In olden days I have heard that a very great happening is going to happen indeed,
 and it is known to me as I perceived it ascetically... [4-62-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`For in the ancient lore (purāṇe) a very great future deed (sumahat kāryaṃ bhaviṣyam) has been heard by me; and it has been seen by me through austerity (dṛṣṭaṃ me tapasā), and having heard it, it is known to me.
 </details>
 </details>
 
@@ -204,6 +222,12 @@ bhaviSyati* = great-resplendent, son, will be there.
 
 "There is some king known as Dasharatha, an enhancer of Ikshvaku dynasty, and to him
 there will be a great-resplendent a son who will be known as Rama... [4-62-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`There shall be a certain king named Daśaratha, an increaser of the Ikṣvākus (ikṣvākuvardhanaḥ); to him shall be born a son of great splendor (mahātejāḥ) named Rāma.
 </details>
 </details>
 
@@ -254,6 +278,12 @@ goes.
 " 'When his father assigns him for that objective of his going to forests, that
 truth-valiant Rama goes to forests along with his brother Lakshmana... [4-62-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`And he of true valor (satyaparākramaḥ), being enjoined (niyuktaḥ san) in that matter by his father, shall go to the forest (araṇyam) together with his brother Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -299,6 +329,12 @@ by gods, demons, an un, killable one; *raavaNaH naama* = Ravana, known as;
 
 " 'A demon named Ravana, the chief of demons, and an unkillable one even for gods or
 demons abducts Rama's wife from Janasthaana... [4-62-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`A Nairṛta named Rāvaṇa, lord of the Rākṣasas (rākṣasendraḥ), invulnerable to gods and Dānavas (avadhyaḥ suradānavaiḥ), shall carry off his wife in Janasthāna.
 </details>
 </details>
 
@@ -348,6 +384,12 @@ bhokSyati* = not, enjoys them - does not touch them.
 food, though she is highly lured by banquets and feasts by that Ravana, for she will be sunken in
 sorrow... [4-62-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`And she, Maithilī, of great fortune (mahābhāgā) and illustrious (yaśasvinī), though being enticed (pralobhyantī) with objects of desire (kāmaiḥ) and with foods to be chewed and savored (bhakṣyair bhojyaiś ca), immersed in grief (duḥkhamagnā), shall not eat (na bhokṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -395,6 +437,12 @@ he gives.
 " 'On knowing Seetha's plight Indra gives a nectarean food for Vaidehi, which food
 is renowned to be Nectarous and unattainable even by gods... [4-62-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`And knowing [her fast], Vāsava [Indra] shall give supreme food (paramānnam) for Vaidehī—food resembling nectar (amṛtaprakhyam), hard to obtain even for the gods (surāṇām api durlabham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -441,6 +489,12 @@ dispenses it - she cedes it as seeds in sowing.
 
 " 'But on getting that food, and on knowing that it is from Indra, Maithili takes up
 the first morsel and dispenses it on the surface of earth for Rama, saying... [4-62-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Having received that food and recognized (vijñāya), ’This is from Indra (indrād idam),’ Maithilī, lifting up the first portion (agram uddhṛtya) for Rāma, shall offer it upon the surface of the earth (bhūtale nirvapiṣyati):
 </details>
 </details>
 
@@ -490,6 +544,12 @@ saying she will offer food.
 or even if they have attained godhood, this food belongs to both of them...' Saying so Seetha
 offers oblation to them... [4-62-10
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`’If my husband lives (yadi jīvati me bhartā), or my brother-in-law Lakṣmaṇa (lakṣmaṇo vāpi devaraḥ), or even if they two have gone to godhood (devatvaṃ gacchator vāpi), let this food be theirs (tayor annam idam)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -538,6 +598,12 @@ tellable - you inform them about her.
 place where Seetha is captivated as harbingers of Rama, and you ought to tell those monkeys about
 the queen of Rama... [4-62-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Dispatched [by Sugrīva], monkeys, the envoys of Rāma (rāmadūtāḥ plavaṃgamāḥ), shall come there; Rāma's queen (rāmamahiṣī) must be declared (ākhyeyā) by you to them, O bird (vihaṅgama)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -585,6 +651,12 @@ pakSau pratipatsyase* = you, both wings, will regain.
 where you wish to go... await the times and scenes, you will regain both of your wings...
 [4-62-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`By no means must you go (sarvathā tu na gantavyam); being such (īdṛśaḥ), where will you go? Await the place and time (deśakālau pratīkṣasva); you shall regain your two wings (pakṣau tvaṃ pratipatsyase).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -631,6 +703,12 @@ kariSyasi* = for worlds, agreeable, deed, you do - can you do?
 " 'I am capable of making you a winged eagle now itself, but how can you stay here
 and do an agreeable deed to the worlds! So you have to wait. [4-62-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`I would be able (utsaheyam aham) to make you winged (sapakṣakam) this very day (adyaiva); [yet I do not,] for abiding right here (ihasthas tvam), you shall accomplish a deed beneficial to the worlds (lokānāṃ hitaṃ kāryam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -676,6 +754,12 @@ is to be done, isn't it.
 
 " 'That deed aimed at the wellbeing of both those princes, Rama and Lakshmana, and
 of Brahmans, teaches, sages and also of Indra is to be done by you alone, isn't it! [4-62-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Indeed, that task must be done by you as well (tvayāpi khalu tat kāryam), and it is [the task] of those two king's sons (tayor nṛpaputrayoḥ), of the Brāhmaṇas, of the elders (gurūṇām), of the sages, and of Vāsava.
 </details>
 </details>
 
@@ -745,6 +829,12 @@ narration in this way. [4-62-15]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद अरवत्तॆरडनॆय सर्ग सम्पूर्णवायितु.॥62॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`I too desire to behold (icchāmy aham api draṣṭum) the two brothers Rāma and Lakṣmaṇa; [yet] I do not wish to bear my vital breaths for long (necche ciraṃ dhārayituṃ prāṇān)—I shall cast off my body (tyakṣye kalevaram).' Thus spoke the great sage who had beheld the vision of ultimate truth (dṛṣṭatattvārthadarśanaḥ).
 </details>
 </details>
 

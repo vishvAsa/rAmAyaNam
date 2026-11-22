@@ -70,6 +70,12 @@ vachanam* = these words; *mandam* = slowly.
 Seetha was distressed to hear these words of Rama and spoke these words slowly, with
 her face with tears.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of Rāma, the sorrowful Sītā, her face suffused with streaming tears (prasaktāśrumukhī), spoke these words softly:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ placed before them.
 
 "know all those disadvantages you mentioned about dwelling in the forest become
 advantages to me, if your affection is placed before them."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The hardships that you have recounted regarding dwelling in the forest—know them all to be very virtues (guṇān ity eva), for I hold love for you foremost (tava snehapuraskṛtā).”
 </details>
 </details>
 
@@ -179,6 +191,14 @@ legs), birds, yaks and all others which roam in the forest, run away after seein
 they have never seen your figure before. When there is cause for fear, who would not have
 fear?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** “Deer, lions, elephants, tigers, and śarabhas, as well as yaks (camarāḥ), sṛmara deer, and whatever other creatures roam the forest—”
+
+**4:** “Because they have never before beheld your form (adṛṣṭapūrvarūpatvāt), O Rāghava, all of them will flee upon seeing your form, for all creatures stand in fear of you.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,6 +244,12 @@ along with you; *tvadviyogena* = by separation from you; *jiivitam* = life;
 
 "Oh, Rama! As per the command of the elders, I also should go along with you. My
 life is to be abandoned here, if I were separated from you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By the command of our elders (gurujanājñayā), I too must go with you; separated from you, O Rāma, I would have to abandon my life right here.”
 </details>
 </details>
 
@@ -274,6 +300,12 @@ me; *tvatsamiipasthaam* = who is in your vicinity.
 "Oh Rama! Even Devendra the Lord of celestials, by his strength, cannot over power
 me, who is in your vicinity."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When I am at your side (tvatsamīpasthām), O Rāghava, not even Śakra himself, the lord of the gods, is able to overpower me by force (pradharṣayitum ojasā).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,6 +351,12 @@ live; *raama* = Oh; *Rama! kaamam* = verily; *evam vidham* = such a thing;
 
 "Oh Rama! Verily such a thing was taught to me by you, that a woman disunited from
 her husband should not be able to survive."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A woman bereft of her husband cannot continue to live (na sā śakṣyati jīvitum); this truth of such a nature, O Rāma, has already been clearly shown (nidarśitam) to me by you.”
 </details>
 </details>
 
@@ -367,6 +405,12 @@ besides; *puraa* = formerly; *pitR^igR^ihe* = in my father's house;
 "Oh Rama, the very wise! Besides, formerly in my father's house it was heard by me
 from the month of brahmanas that I was destined to stay really in a forest."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Moreover, O man of great wisdom, in former days in my father's house I heard a true word from the Brāhmaṇas: that I am indeed destined to dwell in the forest (vastavyaṃ kila me vane).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -413,6 +457,12 @@ a forest.
 
 "Oh Rama the man of great strength! Ever since I heard this word from brahmanas who
 can interpret marks on the body, I was always eager to stay in a forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Ever since I heard that word at home from twice-born seers skilled in bodily marks (lakṣaṇibhyo dvijātibhyaḥ), I have always been eager for residence in the forest (vanavāsakṛtotsāhā), O mighty one.”
 </details>
 </details>
 
@@ -463,6 +513,12 @@ by me; *aham* = I saa = as such; *yaasyaami* = can go; *tatra* = to forest;
 "Oh, Rama the beloved! That prediction of dwelling in the forst is to be realised by
 me. I must accordingly accompany you to the forest, it cannot be otherwise."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That prophecy (ādeśaḥ) of forest residence must indeed be fulfilled by me; therefore I shall go with you, my husband, O beloved, and not otherwise.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -510,6 +566,12 @@ come; *bhavatn dvijaH* = let brahmana become; *bhavatu dvijaH* = let brahmana be
 "I shall be the one who has fulfilled the brahmana's word. I shall accompany you to
 the forest. The time has come for brahmana's words to come true."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall fulfill that prophecy (kṛtādeśā bhaviṣyāmi) and go with you; now that the appointed time has arrived, let the Brāhmaṇa prove true to his word (satyavān bhavatu dvijaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -555,6 +617,12 @@ are many indeed; *niyatam* = certainly; *praapyante* = be obtained;
 
 "Oh valiant prince! I know that in the forest, sufferings indeed are many and are
 invariably obtained by men having unformed minds."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I know well, O hero, that manifold hardships are indeed encountered in forest life; yet they befall only men of unmastered minds (puruṣair akṛtātmabhiḥ).”
 </details>
 </details>
 
@@ -606,6 +674,12 @@ invariably obtained by men having unformed minds."
 heard by me in my father's house from a female mendicant having good manners, in the presence of my
 mother."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While I was still a maiden in my father's house, my forest exile was also heard of by me in my mother's presence from a female ascetic of tranquil conduct (bhikṣiṇyāḥ śamavṛttāyāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -654,6 +728,12 @@ indeed; *tvayaa saha* = with you.
 "Oh Lord! In the past, you have been really pleased for many a time to take me along
 with you indeed for the tour of a forest, as longed by me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And here in former days, O lord, you yourself were entreated by me many a time (bahutithaṃ prabho), for going to dwell in the forest with you has ever been my cherished desire (kāṅkṣitaṃ hi saha tvayā).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -699,6 +779,12 @@ adventurist; *rochate hi* = is really delightful mama = to me.
 
 "Oh, Rama! May all be well with you! I am waiting for a journey to the forest. A
 work-out of adventurist is really delightful to me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May all be well with you, O Rāghava! I am joyously resolved (kṛtakṣaṇāham) upon setting forth; for service (caryā) to a hero dwelling in the forest delights my heart.”
 </details>
 </details>
 
@@ -746,6 +832,12 @@ by loving devotion; *anugachchhantii* = following; *bhartaaram* = you; the husba
 "Oh, the pure-minded! Following my husband with loving devotion, I shall become
 sin-less; for husband is the supreme deity to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O pure-souled one (śuddhātman), by following my husband out of pure love (premabhāvād dhi) I shall remain free from all blemish (vikalmaṣā); for the husband is a woman's supreme deity (paradaivatam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -773,6 +865,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निम्मन्नु हिम्बालिसुवुदरिन्द परलोकदल्लियू नन्न श्रेयस्सु आगुवुदु हागू सदा निम्मॊन्दिगॆ नन्न संयोग इरुवुदु. ई विषयदल्लि यशस्वी ब्राह्मणरिन्दॊन्दु पवित्र श्रुति केळलागुत्तदॆ. अदु ई प्रकार इदॆ.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even in the hereafter (pretyabhāve hi), auspicious and eternal is my union with you; for thus is heard the sacred Vedic revelation (śrutiḥ) of illustrious Brāhmaṇas:”
 </details>
 </details>
 
@@ -820,6 +918,12 @@ words of brahmanas is being heard thus:- In this world, which woman was given aw
 parents with water according to the moral code binding on them, that woman belongs to him alone
 even after death.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“ ‘Whatever woman, O mighty one, is given away in this world by her parents with water according to sacred law (adbhir dattā svadharmeṇa), she belongs to that husband even in the hereafter (pretyabhāve 'pi tasya sā).’ ”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -866,6 +970,12 @@ you.
 
 "By what reason now are you thus not willing to take me, the woman having good
 conduct, devoted to her husband and belonging to you, from this place?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even when this is so (evam), for what reason here do you not wish to take me—your own virtuous and devoted wife (suvṛttāṃ hi pativratām)—forth from this city (asmāt)?”
 </details>
 </details>
 
@@ -915,6 +1025,12 @@ sharing in your joys and sorrows.
 to husband, who is distressed who feels alike in pleasure and pain and shares your joys and
 sorrows."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Kākutstha, you ought to take me—devoted, faithful to my husband, distressed (dīnām), equal in joy and sorrow, and sharing your every weal and woe (samānasukhaduḥkhinīm).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -960,6 +1076,12 @@ or; *agnim* = fire or; *jalamvaa* = water; *mR^ityukaaraNaat* = for dying;
 
 "I shall take resort to poison or fire or water for dying, if you are not willing to
 take me, afflicted as I am, as above."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If you do not wish to take me, thus afflicted with sorrow, to the forest, I shall resort to poison, fire, or water in order to end my life (mṛtyukāraṇāt).”
 </details>
 </details>
 
@@ -1011,6 +1133,12 @@ is a solitary place.
 Eventhough she requested him in many ways about setting out to the forest, he did
 not agree to take her to the forest, which is a solitary place.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus in manifold ways did she implore him concerning her departure; yet the mighty-armed hero did not consent (nānumene) to take her into the solitary forest (vijanaṃ vanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1056,6 +1184,12 @@ with earth; *snaapayantiiva* = as though wet; *ushhNaiHashrubhiH* = by burning t
 
 After hearing Rama's words, seetha was sorrowful, moistening with earth as it were
 with burning tears, trickling down her eyes.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, the princess of Mithilā sank into deep anxiety (cintāṃ samupāgatā), as though bathing the earth with hot tears falling from her eyes.
 </details>
 </details>
 
@@ -1116,6 +1250,12 @@ who was sorrowful as above.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि इप्पत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeking to dissuade Vaidehī, who was then plunged in thought and filled with loving indignation (krodhāviṣṭām), the self-possessed Kākutstha consoled her at length (bahv asāntvayat).
 </details>
 </details>
 

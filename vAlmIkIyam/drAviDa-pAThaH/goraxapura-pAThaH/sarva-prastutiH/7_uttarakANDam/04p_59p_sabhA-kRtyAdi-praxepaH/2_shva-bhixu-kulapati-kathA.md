@@ -33,6 +33,12 @@ title = "२ श्व-भिक्षु-कुलपति-कथा"
 
 श्रीरामन मातन्नु केळि बुद्धिवन्त लक्ष्मणनु कूडले आ नायियन्नु करॆदु, श्रीरामनिगॆ अदु बन्दिरुव सूचनॆ कॊट्टनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of the high-souled Rāghava (rāghavasya mahātmanaḥ), the pitcher-born sage Agastya of mighty luster (kumbhayonir mahātejāḥ) spoke thus to Rāma (rāmam etad uvāca ha):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -57,6 +63,12 @@ title = "२ श्व-भिक्षु-कुलपति-कथा"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लिगॆ बन्दिरुव नायियन्नु नोडि श्रीरामनु हेळिदनु - सारमेय! निनगॆ एनु बेकॆन्दिरुवॆयो अदन्नु नन्न मुन्दॆ हेळु. इल्लि निनगॆ यावुदे भयविल्ल.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hear, O Rāma, the true account of his mighty fiery strength (kathā-vṛttaṃ tasya tejo-balaṃ mahat), by which he slew his foes (jaghāna śatrūn) and could not be slain by enemies (na ca vadhyaḥ sa śatrubhiḥ).
 </details>
 </details>
 
@@ -83,6 +95,12 @@ title = "२ श्व-भिक्षु-कुलपति-कथा"
 
 नायिय तलॆ ऒडॆदुहोगित्तु. अदु राज सभॆयल्लि कुळितिरुव महाराजा श्रीरामन कडॆगॆ नोडि हीगॆ हेळितु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“First (tāvat), O Rāghava, I shall relate to you this lineage and birth of Rāvaṇa (rāvaṇasyedaṃ kulaṃ janma ca), and likewise the granting of boons (vara-pradānam) that was bestowed upon him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -107,6 +125,12 @@ title = "२ श्व-भिक्षु-कुलपति-कथा"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने समस्त प्राणिगळ उत्पादक मत्तु नायकनागिद्दानॆ. ऎल्लरू मलगिद्दरू राजनु ऎच्चरवागिद्दु प्रजॆगळन्नु पालिसुत्तानॆ.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of old in the Kṛta age (purā kṛta-yuge), O Rāma, there lived the mighty son of Prajāpati (prajāpati-sutaḥ prabhuḥ), a Brahmarṣi named Pulastya (pulastyo nāma brahmarṣiḥ), like the Grandsire Brahmā incarnate (sākṣād iva pitāmahaḥ).
 </details>
 </details>
 
@@ -133,6 +157,12 @@ title = "२ श्व-भिक्षु-कुलपति-कथा"
 
 राजनु ऎल्लर रक्षकनागिद्दानॆ. अवनु उत्तम नीतियन्नु प्रयोगिसि ऎल्लरन्नु रक्षिसुत्तानॆ. राजनु पालिसदिद्दरॆ समस्त प्रजॆगळु शीघ्रवागि नाशवागि होगुवुदु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“His virtues in dharma and conduct (guṇās tasya dharmataḥ śīlatas tathā) cannot be exhausted by mere enumeration (nānukīrtyāḥ); for merely by name (nāmataḥ) it suffices to declare that he is the son of Prajāpati (prajāpateḥ putra iti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -157,6 +187,12 @@ title = "२ श्व-भिक्षु-कुलपति-कथा"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजनु कर्ता, रक्षक, समस्त जगत्तिन पितामहनागिद्दानॆ. राजनु काल, युग हागू सम्पूर्ण जगत्तू अवने आगिद्दानॆ.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By virtue of being Prajāpati’s son, he was beloved of the gods (devānāṃ vallabho hi saḥ); and that high-minded sage was cherished by the entire world (hṛṣṭaḥ sarvasya lokasya) for his stainless virtues (guṇaiḥ śubhraiḥ).
 </details>
 </details>
 
@@ -183,6 +219,12 @@ title = "२ श्व-भिक्षु-कुलपति-कथा"
 
 धर्मवु समस्त जगत्तन्नु धरिसुत्तदॆ. अदक्कागि अदर हॆसरु धर्मवागिदॆ. धर्मवे प्रजॆयन्नु धरिसिट्टिदॆ; एकॆन्दरॆ अदे चराचर प्राणिगळ सहित त्रिलोकगळ आधारवागिदॆ.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Devoted to righteous austerity (dharma-prasaṅgena), that foremost of sages repaired to the hermitage of Tṛṇabindu (tṛṇabindv-āśramaṃ gatvā) upon the slope of the mighty mountain Meru (meroḥ pārśve mahāgireḥ) and dwelt there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,6 +249,12 @@ title = "२ श्व-भिक्षु-कुलपति-कथा"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजनु तन्न द्रोहिगळन्नु धरिसुत्तानॆ. (अथवा अवनु दुष्टरन्नु मेरॆयल्लि इडुत्तानॆ) अवनु धर्मदिन्द प्रजॆगळन्नु सन्तोषदल्लिरिसुत्तानॆ. अदक्कागि अवन शासनरूपी कर्मवन्नु धारण ऎन्दु हेळिदॆ. धारणवे धर्मवागिदॆ, इदु शास्त्रद सिद्धान्तवागिदॆ.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That righteous-souled sage practiced penance (tapas tepe), restraining his senses through Vedic recitation (svādhyāya-niyatendriyaḥ); yet maidens (kanyakāḥ), repairing to his hermitage precinct (āśrama-padam), created distraction (vighnaṃ kurvanti).
 </details>
 </details>
 
@@ -236,6 +284,12 @@ _________________
 
 रघुनन्दन! ई प्रजापालनरूपी परम धर्मवु राजनिगॆ परलोकदल्लि उत्तम फल कॊडुवन्तहुदागिदॆ. धर्मदिन्द यावुदू दुर्लभविल्ल ऎम्बुदु नन्न दृढविश्वासवागिदॆ.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Daughters of gods and serpents (deva-pannaga-kanyāś ca), daughters of royal sages (rājarṣi-tanayāś ca), and sporting Apsarases (krīḍantyo ’psarasaś caiva) resorted to that lovely spot (taṃ deśam upapedire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -260,6 +314,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामा! दान, दयॆ, सत्पुरुषर सम्मान, व्यवहारदल्लि सरळदॆ इदे परम धर्मवागिदॆ. प्रजाजनर रक्षणॆयिन्द आगुव उत्कृष्टधर्मवु इहलोकदल्लि मत्तु परलोकदल्लियू सुख कॊडुवुदागिदॆ.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because the grove was delightful in every season (sarvartuṣūpabhogyatvād ramyatvāt kānanasya ca), those maidens would repair daily (nityaśaḥ) to that very spot and sport there.
 </details>
 </details>
 
@@ -286,6 +346,12 @@ _________________
 
 उत्तम व्रतवन्नु पालिसुव रघुनन्दन! नीनु समस्त प्रमाणगळ प्रमाणवागिरुवॆ. सत्पुरुषरु आचरिसिद धर्मवु निनगॆ चॆन्नागि तिळिदिदॆ.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Drawn by the loveliness of that place where the twice-born Pulastya dwelt, those blameless maidens (aninditāḥ)—singing (gāyantyaḥ), playing instruments (vādayantyaḥ), and dancing (lāsayantyaḥ)—constantly interrupted the penance of that ascetic sage (munes tapasvinas tasya vighnaṃ cakruḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -310,6 +376,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! नीवु धर्मगळ परमधाम मत्तु गुणगळ सागरवागिरुवॆ. नानु अज्ञानवशवागिये निम्म मुन्दॆ धर्मद व्याख्यॆमाडिदॆ.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, provoked to wrath (atha kruddhaḥ), that great sage of mighty luster spoke forth (vyājahāra mahāmuniḥ): ‘Whichever maiden comes within my sight (yā me darśanam āgacchet), she shall conceive a child (sā garbhaṃ dhārayiṣyati)!’
 </details>
 </details>
 
@@ -336,6 +408,12 @@ _________________
 
 इदक्कागि नानु निम्म चरणगळल्लि तलॆयन्निट्टु क्षमॆ इच्छिसुत्तेनॆ, निम्मन्नु प्रसन्नगॊळिसलु प्रार्थिसुत्तेनॆ. नीवु नन्न मेलॆ कुपितरागबेडि. नायिय मातन्नु केळि श्रीरामनु हेळिदनु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing that pronouncement of the high-souled sage (pratiśrutya tasya vākyam), all those maidens, terrified by fear of the Brahmin’s curse (brahma-śāpa-bhayād bhītāḥ), approached that precinct no more (taṃ deśaṃ nopacakramuḥ); yet the daughter of the royal sage Tṛṇabindu (tṛṇabindos tu rājarṣes tanayā) did not hear it (na śṛṇoti tat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -360,6 +438,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु निर्भयवागि तिळिसु. इन्दु नानु निन्न याव कार्यवन्नु सिद्धगॊळिसलि? तन्न कार्यवन्नु तिळिसलु विळम्ब माडबेड. श्रीरामन मातन्नु केळि नायियु हेळितु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Repairing to the hermitage grounds, she wandered about there utterly fearless (vicacāra sunirbhayā); standing there, she saw not a single companion who had come (na sāpaśyat ... kāñcid abhyāgatāṃ sakhīm).
 </details>
 </details>
 
@@ -388,6 +472,12 @@ _________________
 
 रघुनन्दन! राजनु धर्मदिन्दले राज्य पडॆयलि हागू धर्मदिन्दले निरन्तर अदन्नु पालिसलि. धर्मदिन्दले राजनु ऎल्लरिगॆ शरणुकॊडुत्तानॆ मत्तु ऎल्लर भयदूर माडुववनागुत्तानॆ. हीगॆ तिळिदु नन्न कार्यवन्नु केळिरि.॥15½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At that very moment, the great sage of mighty luster, son of Prajāpati (prājāpatyo mahān ṛṣiḥ), purified in himself by austerity (tapasā bhāvitaḥ svayam), was engaged there in Vedic recitation (svādhyāyam akarot tatra).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -412,6 +502,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रभो! सर्वार्थसिद्ध ऎम्ब ऒम्ब प्रसिद्ध भिक्षु इद्दानॆ. अवनु ब्राह्मणर मनॆयल्लि इरुत्तानॆ. अवनु इन्दु कारणविल्लदॆ ननगॆ हॊडॆदनु. नानु अवन याव अपराधवन्नु माडलिल्ल.॥16½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing the sound of the Vedic chant (veda-śrutiṃ śrutvā) and beholding that treasury of austerity (dṛṣṭvā vai tapaso nidhim), she instantly grew pale of frame (abhavat pāṇḍu-dehā sā), with the child clearly manifest within her body (suvyañjita-śarīrajā).
 </details>
 </details>
 
@@ -438,6 +534,12 @@ _________________
 
 नायिय ई मातन्नु केळि श्रीरामनु कूडले ओर्व द्वारपालकनन्नु कळिसि, आ सर्वार्थसिद्धनॆम्ब विद्वान् भिक्षुवन्नु करॆसिदनु.॥17½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding that blemish upon herself (dṛṣṭvā tad-doṣam ātmanaḥ), she became deeply agitated (babhūva ca samudvignā); thinking ‘What can this be that has befallen me?’ (idaṃ me kiṃ tv iti jñātvā), she went and stood in her father’s hermitage (pitur gatvāśrame sthitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -462,6 +564,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनन्नु नोडि आ महातेजस्वी श्रेष्ठ ब्राह्मणनु केळिदनु - निष्पाप रघुनन्दन! नन्नल्लि निनगॆ याव कार्यविदॆ.॥18½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Seeing her in such a condition (tathābhūtām), Tṛṇabindu thereupon spoke to her: ‘Why do you bear this unbecoming condition of your own body (kiṃ tvam etad tv asadṛśaṃ dhārayasy ātmano vapuḥ)?’
 </details>
 </details>
 
@@ -494,6 +602,14 @@ _________________
 
 ब्राह्मणनु हीगॆ केळिदाग श्रीरामनु हेळिदनु- ब्रह्मन्! नीनु ई नायिय तलॆगॆ हॊडॆद कारण वेनु? विप्रवर! नीनु दॊण्णॆयिन्द हॊडॆयलु इदु एनु अपराध माडित्तु.॥19-20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “Joining her palms in distress (kṛtvāñjaliṃ dīnā), that maiden replied to the ascetic rich in penance (tapodhanam): ‘I know not the cause, dear father (na jāne kāraṇaṃ tāta), whereby my form has become like this (yena me rūpam īdṛśam).
+
+**20:** “‘Only this: earlier I went alone (pūrvaṃ gatāsmy ekā) to the divine hermitage of the self-perfected great sage Pulastya (pulastyasyāśramaṃ divyam) in order to search for my band of companions (anveṣṭuṃ sva-sakhī-janam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -522,6 +638,12 @@ _________________
 क्रोधवु प्राणाहारी शत्रुवागिदॆ. क्रोधवन्नु मित्रमुख शत्रु* ऎन्दु हेळिदॆ. क्रोधवु अत्यन्त हरितवाद खड्गवागिदॆ. क्रोधवु ऎल्ल सद्गुणगळन्नु ऎळॆदुकॊळ्ळुत्तदॆ.॥21॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Yet I saw not a single companion who had come there (na ca paśyāmy ahaṃ tatra kāñcid abhyāgatāṃ sakhīm); and beholding this sudden alteration of my form (rūpasya tu viparyāsaṃ dṛṣṭvā), I fled back here in terror (trāsād ihāgatā).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -546,6 +668,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मनुष्यनु माडुव तपस्सु, यज्ञ, दान मुन्तादवुगळ पुण्यवन्नु क्रोधवु नाशमाडिबिडुत्तदॆ. अदरिन्द क्रोधवन्नु त्यजिसबेकु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then the royal sage Tṛṇabindu, whose radiance blazed with austerity (tapasā dyotita-prabhaḥ), entered into yogic meditation (dhyānaṃ viveśa) and perceived that this too was born of the sage’s deed (tac cāpi hy apaśyad ṛṣi-karmajam).
 </details>
 </details>
 
@@ -572,6 +700,12 @@ _________________
 
 दुष्टवाद कुदुरॆगळन्तॆ विषयगळ ओडुत्तिरुव इन्द्रियगळन्नु आ विषयगळिन्द हिम्मॆट्टिसि धैर्यदिन्द हतोटियल्लिरिसिकॊळ्ळबेकु.॥23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having ascertained that curse of the self-perfected great sage (vijñāya taṃ śāpaṃ maharṣer bhāvitātmanaḥ), he took his daughter (gṛhītvā tanayām), went unto Pulastya, and spoke these words to him:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -596,6 +730,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मनुष्यनु तन्न बळि सुळियुव जनरिगॆ मन, वाणि, क्रियॆ, दृष्टियिन्द ऒळ्ळॆयदन्ने माडबेकु. यारन्नू द्वेषिसबारदु. हीगॆ माडुवुदरिन्द अवनु पापदिन्द लिप्तनागुवुदिल्ल.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O revered great sage (bhagavan ... maharṣe), pray accept this daughter of mine (tanayāṃ me ... pratigṛhāṇemām), adorned solely by her own virtues (guṇaiḥ svair eva bhūṣitām), as an alms offered of its own accord (bhikṣām ... svayam udyatām).
 </details>
 </details>
 
@@ -622,6 +762,12 @@ _________________
 
 नम्म दुष्ट मनस्सु अनिष्ट अथवा अनर्थमाडुत्तदो, हागॆ हरितवाद खड्ग, काल कॆळगॆ तुळिद हावु, सदाक्रोध तुम्बिद शत्रुवू कूड माडलारनु.॥25॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘As you engage in arduous penance (tapaścaraṇa-yuktasya) with senses wearied by austerity (śramyamāṇendriyasya te), she will ever remain devoted to your service (śuśrūṣaṇa-parā nityam)—of that there is no doubt!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -647,6 +793,12 @@ _________________
 
 विनयद शिक्षण दॊरकिदवन प्रकृतियू हॊसदागि आगुवुदिल्ल. यारे तन्न दुष्ट प्रकृतियन्नु ऎष्टे अडगिसिट्टिद्दरू, अवन कार्यदल्लि आ दुष्टतॆ खण्डितवागि प्रकटवागुत्तदॆ.॥26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To that righteous royal sage speaking those words (taṃ bruvāṇaṃ tu tad-vākyaṃ rājarṣiṃ dhārmikam), that twice-born sage, willing to accept the maiden (jighṛkṣur ... kanyām), replied simply: ‘So be it!’ (bāḍham ity eva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -671,6 +823,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 क्लेशरहित कर्ममाडुव श्रीरामनु हीगॆ हेळिदाग सर्वार्थसिद्ध ऎम्ब ब्राह्मणनु अवनल्लि हीगॆ हेळिदनु.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having bestowed her in accordance with sacred ordinance (dattvā sa tu yathānyāyam), he returned to his own hermitage precinct (svam āśrama-padaṃ gataḥ); and that maiden dwelt there, gratifying her husband by her virtues (toṣayantī patiṃ guṇaiḥ).
 </details>
 </details>
 
@@ -706,6 +864,14 @@ _________________
 
 प्रभो ! नन्न मनस्सिनल्लि क्रोध तुम्बित्तु, अदरिन्द नानु इदन्नु दॊण्णॆयिन्द हॊडॆदॆ. भिक्षॆय समय मीरि होगित्तु, हसिवॆयिन्द भिक्षॆ बेडलु नानु मनॆ-मनॆ तिरुगुत्तिद्दॆ. ई नायि नडुदारियल्लि निन्तित्तु. नानु पदे-पदे ‘दारि बिडु’ ऎन्दु हेळिदरू स्वेच्छॆयिन्द नडुदारियल्ले निन्तित्तु.॥28-29॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** “With her character and noble conduct (śīla-vṛttābhyām), that foremost of sages was deeply pleased (tutoṣa munipuṅgavaḥ); and thus gratified (prītaḥ), the sage of mighty luster spoke these words to her:
+
+**29:** “‘O fair-hipped lady (suśroṇi), I am exceedingly pleased with the wealth of your virtues (parituṣṭo ’smi ... guṇānāṃ sampadā bhṛśam); therefore today, O noble lady (devi), I bestow upon you a son equal to myself (putram ātma-samaṃ tava)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -732,6 +898,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु हसिदिद्दॆ, क्रोधवू बन्दित्तु. श्रीरामा! आ क्रोधदिन्द प्रेरितनागि इदर तलॆगॆ दॊण्णॆयिन्द हॊडॆदॆ. नानु अपराधियागिद्देनॆ. नीनु ननगॆ शिक्षॆ कॊडु. निन्न शिक्षॆयिन्द ननगॆ नरकद भयविरुवुदिल्ल.॥30½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘—who shall perpetuate both our lineages (ubhayor vaṃśa-kartāram) and be celebrated as Paulastya (paulastya iti viśrutam). Moreover, because this Veda was heard by you while I was reciting it (yasmāt tu viśruto vedas tvayaiṣo ’dhyayato mama),
 </details>
 </details>
 
@@ -763,6 +935,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग श्रीरामनु ऎल्ल सभासदरल्लि केळिदनु - इदक्कागि एनु माडबेकॆम्बुदन्नु नीवु तिळिसिरि. इवनिगॆ याव शिक्षॆ कॊडलागुवुदु? एकॆन्दरॆ सरियाद शिक्षॆय प्रयोगवादाग प्रजॆ सुरक्षितवागिरुत्तदॆ. ॥31-32॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** “‘—therefore shall he be named Viśravas (viśravā nāma bhaviṣyati), of that there is no doubt!’ Addressed thus, that noble lady, with her inner spirit brimming with joy (prahṛṣṭenāntarātmanā),
+
+**32:** “In no long time gave birth to her son Viśravas (acireṇaiva kālenāsūta viśravasaṃ sutam), renowned throughout the three worlds (triṣu lokeṣu vikhyātam) and endowed with glory and righteousness (yaśo-dharma-samanvitam).
 </details>
 </details>
 
@@ -800,6 +980,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ सभॆयल्लि भृगु, अङ्गिरा, कुत्स, वसिष्ठ, काश्यप मॊदलाद मुनिगळिद्दरु. धर्मशास्त्रवन्नु बल्ल मुख्य-मुख्य विद्वांसरु उपस्थितरागिद्दरु. मन्त्रिगळू महाजनरू इद्दरु. इन्नु अनेक पण्डितरु अल्लि सेरिद्दरु. राजधर्मगळ परिनिष्ठितराद आ ऎल्ल विद्वांसरु श्रीरामनल्लि हेळिदरु- भगवन्ता! ब्राह्मणनु दण्डनॆयिन्द अवध्यनागिद्दानॆ. अवनिगॆ शारीरिक दण्डनॆ सिगबारदु. इदॆ समस्त शास्त्रज्ञर मतवागिदॆ.॥33-34½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Learned in scripture (śrutimān), equal-visioned toward all (samadarśī ca), and devoted to vows and righteous conduct (vratācāra-rataḥ), the sage Viśravas became endowed with austerity just like his father (piteva tapasā yukto hy abhavad viśravā muniḥ).
 </details>
 </details>
 

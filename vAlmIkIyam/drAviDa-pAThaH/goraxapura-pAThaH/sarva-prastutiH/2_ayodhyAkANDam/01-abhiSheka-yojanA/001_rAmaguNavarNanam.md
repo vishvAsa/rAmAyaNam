@@ -52,6 +52,12 @@ kingdom.
 
 (मॊदले हेळिद प्रकार) तन्दॆ तायिगळ अनुमति पडॆदु सोदर मावन मनॆगॆ हॊरट महात्मनाद भरतनु कामादि शत्रुगळन्नु अनुदिनवू नाश माडुव निष्पापि शत्रुघ्ननन्नु प्रेम वशनागि तन्न जॊतॆगॆ करॆदुकॊण्डु होदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Bharata set out at that time for the house of his maternal uncle (mātula-kulam), the sinless (anaghaḥ) Śatrughna—the perpetual subduer of his internal foes (nitya-śatrughnaḥ)—was taken along by him, impelled by deep fraternal affection (prīti-puraskṛtaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -107,6 +113,12 @@ his maternal uncle; *saH* = that Bharatha; *bhraatraa saH* = with his brother;
 Treated with good hospitality and paternal love by his maternal uncle, Yudhajit, who
 was a lord of cavalry, Bharatha stayed with his brother there.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored with every hospitable courtesy (satkāra-satkṛtaḥ) and cherished with paternal affection (putra-snehena lālitaḥ) by his maternal uncle Aśvapati, he dwelt there together with his brother.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -146,6 +158,12 @@ satisfied by; *kaamataH* = all the wants; *smarataaM* = were remembering;
 
 Those heroes of valour Bharatha and Satrughna, though staying there enjoying all the
 comforts, were remembering their age old father.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though dwelling there and being gratified with every desired pleasure (kāmataḥ), the two heroic brothers ever remembered the aged monarch Daśaratha.
 </details>
 </details>
 
@@ -187,6 +205,12 @@ mahendravaruNopamau* = (and who were) equivalent to Indra and Varuna.
 The mighty Dasaratha was also often remembering his sons Bharatha and Satrughna who
 were out of his state and who were equivalent to Indra and Varuna.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The king too, of mighty splendour (mahā-tejāḥ), constantly remembered those two absent sons—both Bharata and Śatrughna—who were equal unto Mahendra and Varuṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -226,6 +250,12 @@ emerging; *svashariiraat* = out of his own body.
 
 Dasaratha was bestowing his equal love to all his four sons who were best among men,
 as though they were his four hands emerging out of his own body.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All four of those bulls among men (puruṣarṣabhāḥ) were equally dear to him, like four mighty arms sprung forth from his own body.
 </details>
 </details>
 
@@ -267,6 +297,12 @@ babhuuva* = became a source of joy; *pituH* = for his father.
 Rama, like the Brahma among all the living beings, the most virtuous among those
 brothers and the mightiest was a great source of joy for his father.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet even among them, Rāma of great splendour, the delighter of his father (ratikaraḥ pituḥ), was preeminent in virtues (guṇavattaraḥ), like the self-born Brahmā (svayambhūḥ) among all living beings.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -306,6 +342,12 @@ brothers and the mightiest was a great source of joy for his father.
 
 That Rama - was He not the eternal Vishnu who was born on earth as prayed by
 celestials to kill the egoistic Ravana?
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For He, the eternal Viṣṇu (viṣṇuḥ sanātanaḥ), when entreated by the gods desiring the destruction of the arrogant (udīrṇasya) Rāvaṇa, was born in the mortal world (mānuṣe loke).
 </details>
 </details>
 
@@ -347,6 +389,12 @@ mighty.
 Like Adithi by Indra, best among the celestials, Kausalya shone by her son Rama, the
 mighty.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā shone resplendent with that son of boundless lustre (amita-tejasā), even as Aditi shone with the thunderbolt-wielding Indra (vajra-pāṇinā), the foremost of the gods.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -386,6 +434,12 @@ hi* = son indeed; *bhuumau* = on earth.
 
 Rama was beautiful in form, a hero of valor and without envy. By virtues, he was
 like Dasaratha. In this way, he was an incomparable son on earth.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Endowed with beauty, heroic valour, and freedom from envy (anasūyakaḥ), he was a son peerless upon the earth (bhūmāv anupamaḥ), and equal to Daśaratha in noble virtues.
 </details>
 </details>
 
@@ -433,6 +487,12 @@ like Dasaratha. In this way, he was an incomparable son on earth.
 That Rama was always peaceful in mind and spoke softly. He did not react even to the hard
 words spoken by others.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ever serene in soul (praśāntātmā), he always speaks with gentle words first (mṛdu-pūrvaṃ ca bhāṣate); even when addressed harshly (paruṣam), he renders no harsh reply in return.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -479,6 +539,12 @@ not remember; *shatam api* = even a hundred; *apakaaraaNaam* = of bad things.
 That Rama, because of his good bent of mind, feels glad even by whatever way a good
 thing is done to him. He does not remember any number of bad things done to him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He is gratified by even a single service (upakāreṇa kṛtenaikena) rendered at any time, and through his self-mastery (ātmavattayā) he remembers not even a hundred offenses (apakārāṇāṃ śatam api).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -518,6 +584,12 @@ archery; *nityam* = always; *kathayan aaste* = used to converse;
 
 Whenever he finds some time even while practising archery, Rama used to converse
 with elderly people, elder by way of conduct or wisdom or age or with good- natured people.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even during the intervals of his martial exercises with weapons (astra-yogyāntareṣv api), he ever sat conversing with virtuous men advanced in character, advanced in wisdom, and advanced in years.
 </details>
 </details>
 
@@ -560,6 +632,12 @@ Rama was a wise man. He used to speak sweetly. He was the first man to initiate 
 talk. His speech was compassionate. He was valorous. But he was not arrogant of his mighty
 valor.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wise, sweet-spoken (madhurābhāṣī), the first to greet others in conversation (pūrva-bhāṣī), and kindly in speech (priyaṃvadaḥ), he was mighty in valour, yet never proud (vismitaḥ) of his own great might.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -599,6 +677,12 @@ valor.
 
 He did not speak untruth. He was all knowing. He used to be receptive and worshipful
 to the elders. People used to love him and he used to love the people.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Never uttering an untrue word (anṛta-kathaḥ), learned, and a reverent honorer of elders (vṛddhānāṃ pratipūjakaḥ), he was dearly loved by the subjects and in turn cherished the subjects with affection.
 </details>
 </details>
 
@@ -644,6 +728,12 @@ conduct).
 He had compassion. He conquered anger. He used to be receptive and worshipful to the
 wise. He had mercy towards the meek. He knew what was to be done. He had always self-control. He
 was clean (in conduct).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tender-hearted (sānukrośaḥ), having conquered anger, a reverent honorer of Brāhmaṇas, compassionate toward the afflicted (dīnānukampī), knower of dharma, ever self-restrained (pragrahavān), and pure (śuciḥ);
 </details>
 </details>
 
@@ -693,6 +783,12 @@ That Rama, having an attitude suitable for his social rank, giving due respect t
 righteousness of warrior-class, believed that by following the righteousness he would attain great
 fame and through it the fruit of heaven.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Possessing a mind worthy of his royal lineage (kulocita-matiḥ), he holds in high esteem his own Kṣatriya duty (kṣātraṃ svadharmam), and with supreme delight regards the great reward of heaven as flowing therefrom.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -739,6 +835,12 @@ opposing righteousness; *vaachaspatiH yathaa* = like the lord of speech; *uttaro
 Rama was not interested in actions, which were not beneficial. He was a scholar. He
 had no taste in tales opposing righteousness. Like vachaspathi, his eloquent speech contained a
 series of strategies for action.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He never takes delight in what is unwholesome (aśreyasi), nor relishes discourse opposed to righteousness; like Bṛhaspati, the Lord of Speech (vācaspatir yathā), he is a master speaker of progressive chains of reasoning (uttarottara-yuktīnām).
 </details>
 </details>
 
@@ -788,6 +890,12 @@ Rama was a young man without any disease. He was a good speaker. He had a good b
 He knew both time and place. He could grasp the essence of men. He was the one gentleman born on
 earth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Free from disease, youthful (taruṇaḥ), eloquent (vāgmī), comely in form, knowing the proper place and season, and discerning the true worth of men (puruṣa-sārajñaḥ), he was fashioned as the one peerless righteous man in the world.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -827,6 +935,12 @@ spirit; *bahishcharaH* = moving outside; *guNataH* = from virtues.
 
 People loved the virtuous prince Rama and treated him as their spirit moving
 outside.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Endowed with the noblest virtues, that prince became through his excellences as dear to the subjects as their own vital breath moving outside their bodies (bahiścara iva prāṇaḥ).
 </details>
 </details>
 
@@ -875,6 +989,12 @@ education; *samyak* = properly; *saaN^gavedavit* = the one who knows veda along 
 After completing his education properly, Rama, after knowing the veda along with vedanga-s
 as prescribed, became better than his father in the use of bow and arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having completed the sacred vows of all branches of learning (sarva-vidyā-vrata-snātaḥ) and knowing the Vedas together with their auxiliary limbs (sāṅga-vedavit) in due order, the elder brother of Bharata surpassed even his father in the science of arrows and mantra-missiles (iṣv-astre).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -916,6 +1036,12 @@ as prescribed, became better than his father in the use of bow and arrows.
 Rama, having born in a good clan, was gentle minded. He was not feeble. He spoke
 truth. He was straightforward. He was properly trained by elderly brahmana-s those who knew
 righteousness.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Of noble lineage (kalyāṇābhijanaḥ), righteous, nunca-dejected (adīnaḥ), truthful in speech, and straightforward (ṛjuḥ), he was thoroughly trained by aged twice-born sages who perceived the truth of dharma and worldly welfare.
 </details>
 </details>
 
@@ -959,6 +1085,12 @@ Rama knew the real form of desire, wealth and righteousness. He had a good memor
 power. He had a spontaneous wisdom. He had skills in arranging customs useful to society prevalent
 at that time.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing the true essence of dharma, pleasure (kāma), and wealth (artha), endowed with unfailing memory (smṛtimān) and spontaneous insight (pratibhānavān), he was well-established and skilled in worldly customs and conventions (laukike samayācāre).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -999,6 +1131,12 @@ others; *amoghakrodhaharShaH cha* = also the one whose anger and pleasure not wa
 Rama was humble. He did not let his feelings appear outwardly. He kept his thoughts
 to himself. He helped others. His anger and pleasure were not wasteful. He knew when to give and
 when not to give.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Modest (nibhṛtaḥ), concealing his inner emotions (saṃvṛtākāraḥ), keeping his counsel secret (gupta-mantraḥ), and surrounded by able allies, his anger and favour were never in vain (amogha-krodha-harṣaḥ), and he knew the proper season for liberality and restraint.
 </details>
 </details>
 
@@ -1047,6 +1185,12 @@ Rama had a firm devotion and steadfast mind. He was not stubborn nor did he spea
 evil words. He was free from idleness and was ever alert. He recognized his own errors and those of
 others.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Steadfast in devotion (dṛḍha-bhaktiḥ), firm in wisdom, neither grasping after what is base nor harsh in speech (na durvacaḥ), he was free from sloth (nistandrīḥ), vigilant, and a discerner of both his own faults and the faults of others (svadoṣa-paradoṣavit).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1086,6 +1230,12 @@ knew their practice; *puruShaantarakovidaH* = one who understood differences amo
 
 Rama knew the theory and practice of sciences. He understood the differences among
 men. He could judiciously discriminate whom to protect and whom to punish.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learned in the śāstras, grateful (kṛtajñaḥ), and skilled in discerning the inner differences among men (puruṣāntara-kovidaḥ), he was expert in exercising restraint and conferring favour (pragrahānugrahayoḥ) in due accordance with justice.
 </details>
 </details>
 
@@ -1146,6 +1296,12 @@ economic sciences.
 (महा० सभा० ५ ।७१)
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In welcoming and cherishing the virtuous (sat-saṃgrahānugrahaṇe), he knew the proper occasion for punishment as well (sthānavin nigrahasya ca); conversant with the right means of collecting revenue (āya-karmaṇi), he knew the prescribed rules of royal expenditure (saṃdṛṣṭa-vyaya-karmavit).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1197,6 +1353,12 @@ Rama could obtain great skill in the groups of sciences along with their
 subsidiaries. He was interested in enjoying comforts only after understanding the economy
 and virtues. He never remained inactive.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having attained preeminence (śraiṣṭhyam) in the entire array of sciences and missile-weapons as well as in mixed literary arts (vyāmiśrakeṣu ca), he enjoyed pleasure only while upholding wealth and righteousness (artha-dharmau ca saṃgṛhya), and was never slothful.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1246,6 +1408,12 @@ distribute the wealth. He was efficient in riding and also taming of elephants a
 
 (श्रीमद्भा० ८ । १९ । ३७)
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A connoisseur of the fine arts of recreation (vaihārikāṇāṃ śilpānām) and knower of the proper division of wealth (artha-vibhāgavit), he was accomplished in mounting and training elephants and steeds (vāraṇa-vājinām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1286,6 +1454,12 @@ archery; *senaanayavishaaradaH* = one who attained skills in moving the army pro
 Rama was the best of persons knowing the science of archery in the world; and was
 well appreciated by the champions of archery. He attained skills in marshalling the army. He faced
 and killed the enemies in battle.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foremost among knowers of the science of archery (dhanurveda-vidām) and revered in the world by supreme chariot-warriors (atiratha-sammataḥ), he marched boldly against the foe (abhiyātā), struck in the vanguard (prahartā), and was skilled in arraying armies (senā-naya-viśāradaḥ).
 </details>
 </details>
 
@@ -1336,6 +1510,12 @@ who had not surrendered to time.
 Even enraged celestials and demons could not defeat Rama in battle. He had no
 jealousy. He conquered anger. He had no arrogance and envy. He had not even humiliated any living being.
 He had not surrendered to time.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unassailable (apradhṛṣyaḥ) in battle even by enraged gods and asuras, he was free from envy (anasūyaḥ), master of his wrath, neither arrogant (na dṛptaḥ) nor jealous of others’ prosperity (na ca matsarī).
 </details>
 </details>
 
@@ -1399,6 +1579,14 @@ iva* = like the sun; *diiptaH* = shining; *aMshubhiH* = by the rays.
 Rama, by his virtues, was a source of happiness to all the people and a spring of
 joy to his father. As the sun shines with his rays, Rama was shining, thus, with his virtues.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** Never to be slighted by any living being (nāvajñeyaś ca bhūtānām) and never subject to the sway of Time (na ca kāla-vaśānugaḥ), that prince was thus endowed with the noblest virtues among the subjects.
+
+**32:** Honored throughout the three worlds, he was equal to the Earth in his qualities of forbearance (vasudhāyāḥ kṣamā-guṇaiḥ), equal to Bṛhaspati in intellect (buddhyā), and equal to Śacī’s lord Indra in valour.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1445,6 +1633,12 @@ disciplined life; *apradhR^iShyaparaakramam* = one having undefeatable valor;
 The earth wished Rama to be her Lord as he was adorned with self -control and norms
 of behavior bearing undefeatable valor equal to that of universal lords like Indra.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With those virtues beloved by all the subjects (sarva-prajā-kāntaiḥ) and generating supreme delight in his father, Rāma shone forth resplendently (viruruce), like the blazing sun with its rays.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1485,6 +1679,12 @@ incomparable; *etaiH* = by these; *guNaiH* = by virtues.
 Dasaratha, who annihilates enemies, started thinking as follows after observing his
 son with his many incomparable virtues.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Earth (medinī) longed for him—who was thus endowed with noble conduct (evaṃ-vṛtta-sampannam), of unassailable prowess, and equal to the Guardians of the World (lokanāthopamam)—as her sovereign lord.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1524,6 +1724,12 @@ jiivati* = while I am alive; *eShaa priitiH* = this happiness.
 
 The long living and aged Dasaratha thought: "Will Rama become king while I am still
 alive? Shall I enjoy that happiness?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding his son endowed with these manifold, peerless virtues (guṇair anupamaiḥ), King Daśaratha, the scorcher of foes, fell to deep reflection (cakre cintām).
 </details>
 </details>
 
@@ -1567,6 +1773,12 @@ _________________
 
 A great loving thought was ringing in his mind that when he would be able to see his
 beloved son Rama crowned as a king.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then there arose in the aged, long-lived monarch this fond desire (prītir eṣā): “How may Rāma become king while I am still alive (mayi jīvati)?”
 </details>
 </details>
 
@@ -1617,6 +1829,12 @@ iva* = like cloud; *vR^iddhikaamaH* = one who desires development; *lokasya* = o
 "Is not Rama, as a raining cloud to the earth, better liked by people than me, as he
 desires the development of the world and has compassion towards all living beings."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This supreme desire (parā prītiḥ) revolved unceasingly in his heart: “When indeed shall I behold my beloved son consecrated (abhiṣiktam)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1656,6 +1874,12 @@ Indra; *matau* = in wisdom; *bR^ihaspatisamaH* = equal to Bruhaspati;
 
 "Rama is equal to Yama and Devendra in valor, to Brihaspati in wisdom and to a
 mountain in courage. He is more virtuous also than me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Desiring the prosperity of the world (vṛddhi-kāmo hi lokasya) and compassionate toward all beings (sarva-bhūtānukampakaḥ), he is dearer to the people than I myself, like a rain-bearing cloud (parjanya iva vṛṣṭimān).”
 </details>
 </details>
 
@@ -1697,6 +1921,12 @@ entire; *imaam mahiim* = this Earth.
 "Shall I attain heaven, after seeing in this age, my son ruling the entire
 earth?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Equal to Yama and Śakra in valour, equal to Bṛhaspati in counsel (matau), and equal to a mountain in steadfastness (mahīdhara-samo dhṛtyām), he is far richer in virtues than I.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1721,6 +1951,12 @@ earth?"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु ई वयस्सिनल्लि मगनाद श्रीरामनु इडी पृथिविय राज्यवन्नु आळुत्तिरुवुदन्नु नोडि यथाकालदल्लि सुखवागि स्वर्गवन्नु पडॆदुकॊळ्ळुवुदे नन्न जीवनद सार्थकतॆयागिदॆ.॥40॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having beheld with my own eyes in this aged frame (anena vayasā) my son ruling over this entire earth (mahīm imāṃ kṛtsnām adhitiṣṭhantam), may I then attain heaven!”
 </details>
 </details>
 
@@ -1788,6 +2024,14 @@ The wise Dasaratha observed that there was sign of a great alarm being forecast 
 of bad omens found in earth heaven and the sky. He also told the ministers that his body
 was getting aged.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** Thus endowed with those manifold virtues unattainable by other monarchs (anya-pārthiva-durlabhaiḥ), and with remaining uncounted excellences transcendent in the world (lokottarair guṇaiḥ)—
+
+**42:** —beholding him thus endowed with altogether exalted virtues, the king deliberated with his ministers (niścitya sacivaiḥ sārdham) and resolved upon his consecration to the office of Prince Regent (yauvarājyam amanyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1830,6 +2074,12 @@ shokaapanudam* = to the one who removes worry of self.
 
 He recognized that if Rama were crowned as king, he would not have worries as Rama
 had beautiful face as a full moon; was a great wise man; and was liked by the people.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The wise monarch observed and declared to his ministers the fearful dread born of portents (ghoram utpātajaṃ bhayam) in the heavens, in the mid-space, and on the earth, as well as old age (jarām) in his own body.
 </details>
 </details>
 
@@ -1877,6 +2127,12 @@ interest; *shreyase cha* = also beneficial to; *aatmanaH cha* = and of own self;
 The righteous Dasaratha was hurried with concern in the coronation of Rama as it is
 for his own benefit and for the benefit of people. Because it is as per his liking and also as the
 appropriate time has come.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He recognized too the universal popularity (sampriyatvam) in the world of the high-souled Rāma of full-moon countenance (pūrṇa-candrānanasya), which would dispel his own grief and anxiety (śokāpanudam ātmanaḥ).
 </details>
 </details>
 
@@ -1927,6 +2183,12 @@ _________________
 Dasaratha called for other kings and officers staying in various cities and villages
 in his kingdom separately.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For the welfare of himself and his subjects, and impelled by affectionate joy, when the auspicious time arrived (prāpte kāle), that righteous-souled monarch hastened with devotion (bhaktyā tvaritavān nṛpaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1967,6 +2229,12 @@ vaa* = or Janaka; *tau* = both of them; *shroShyataH* = could hear;
 The hurried Dasaratha did not call for the king Kekaya, the maternal uncle of
 Bharatha or the King Janaka as he thought they both could hear the good news even afterwards.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lord of the earth convoked (samānināya) the foremost leaders (pradhānān) upon the earth—both residents of various cities (nānā-nagara-vāstavyān) and rulers of diverse provinces (pṛthag-jānapadān api).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2006,6 +2274,12 @@ Bharatha or the King Janaka as he thought they both could hear the good news eve
 
 The king Dasaratha presented them suitably with houses and jewelry. Duly adorned
 himself, he looked after them in the manner Lord Brahma looks after his children.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adorned in royal splendour, the king beheld those guests who had been duly honored according to rank with mansions and varied ornaments (veśma-nānābharaṇaiḥ), even as Prajāpati beholds his creatures.
 </details>
 </details>
 
@@ -2056,6 +2330,12 @@ All the invited kings, duly liked by their people, entered the assembly after th
 king Dasaratha , who annihilates the opponent's army, occupied his seat.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In his haste (tvarayā), however, the lord of men did not summon the King of Kekaya or Janaka, thinking: “Those two will hear the joyful news afterward (paścāt tau śroṣyataḥ priyam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2095,6 +2375,12 @@ king Dasaratha , who annihilates the opponent's army, occupied his seat.
 
 The kings thus entered, occupied their various seats allotted to them by the king,
 by facing toward the king as per the prescribed rules.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that monarch, the crusher of enemy citadels (para-purārdane), had taken his seat, the remaining kings who were held in high esteem by the world entered the assembly.
 </details>
 </details>
 
@@ -2141,6 +2427,12 @@ Surrounded by the respected and humble kings sitting closely to him as well as t
 important heads of cities and villages, king Dasaratha shone like lord Devendra surrounded by
 celestials.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, upon the varied seats assigned to them by the king (rāja-vitīrṇeṣu vividheṣv āsaneṣu), the disciplined monarchs sat down facing the sovereign alone (rājānam evābhimukhāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2180,5 +2472,11 @@ celestials.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि मॊदलनॆय सर्ग पूर्णवायितु. ॥1॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by those honored and modest kings, as well as by city-dwellers and country-folk (purālayair jānapadaiś ca mānavaiḥ) seated near him, the monarch shone forth like the thousand-eyed Lord Indra (sahasra-cakṣur bhagavān) encircled by the immortals.
 </details>
 </details>

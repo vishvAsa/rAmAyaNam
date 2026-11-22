@@ -69,6 +69,12 @@ half of the lunar month of Ashvayuja (roughly corresponding to the month of Sept
 was disciplined even now, reaching the hermitage of the sage Bharadwaja, offered his salutation to
 the sage.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To Rāma, the tamer of foes, who had passed that night (tāṃ rātrim uṣitam) and risen refreshed (sukhoditam), Vibhīṣaṇa, with joined palms, wished victory (jayaṃ pṛṣṭvā) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +122,12 @@ enquired (of him): "Have you heard, O venerable one, of Ayodhya City having an a
 and free from disease? Is that Bharata attentive in his rule? I hope my mothers are still
 alive."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bathing waters (snānāni) and body-unguents (aṅgarāgāṇi), raiments and ornaments, sandal-pastes and diverse celestial garlands,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -155,6 +167,12 @@ quite rejoiced as he was; *pratyuvaacha* = replied; *smitapuurvam* = with a smil
 
 Hearing the words of Rama, Bharadwaja the great sage, quite rejoiced as he was,
 smilingly replied to Rama (as follows):
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and these lotus-eyed women skilled in the art of adornment (alaṃkāravidaś caitā nāryaḥ) stand ready (upasthitāḥ); they shall bathe you in due form (vidhivat), O Rāghava!”
 </details>
 </details>
 
@@ -203,6 +221,12 @@ are; *kshalam* = safe; *gR^ihe* = at your home and in the city.
 "Bharata, with his mud-smeared limbs 9throwing the burden and blame ie. mud and with
 matted locks, as also placing your wooden-sandals before him, is looking forward for your arrival.
 All are safe at your home and in the city."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, Kākutstha replied to Vibhīṣaṇa: “Do you invite (upanimantraya) the monkeys headed by Sugrīva for the ceremonial bath (snānena)!
 </details>
 </details>
 
@@ -283,6 +307,16 @@ Lakshmana and yourself), resolved in carrying out the behest of your father and 
 implementing the pledge given (by your father) to Kaikeyi and living on wild roots and fruits, pity
 arose in me earlier."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** For that righteous-souled, delicate (sukumāraḥ), and mighty-armed Bharata, true to his promise (satyasaṃśrayaḥ), though worthy of every comfort (sukhocitaḥ), is pining away on my account (mama hetoḥ tāmyati).
+
+**6:** Without that righteous-living Bharata, the son of Kaikeyī, neither bath nor raiments nor ornaments are held in esteem by me (na me snānaṃ bahu matam)!
+
+**7:** “Look into this (etat paśya), whereby we may swiftly return (kṣipraṃ pratigacchāma) to that city; for this road of one travelling to Ayodhyā is exceedingly difficult to traverse (paramadurgamaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -324,6 +358,12 @@ friends and relatives.
 "But now, a great delight occurred to me, on seeing you, having fulfilled your
 purpose, that you have conquered your enemies and are accompanied by your host of friends and
 relatives."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, Vibhīṣaṇa replied to Kākutstha: “In a single day (ahnā), O prince, I shall convey you (tvāṃ prāpayiṣyāmi) to that city!
 </details>
 </details>
 
@@ -371,6 +411,12 @@ joy and sorrow; *tvayaa* = by you; *raaghava* = o Rama!
 "That joy and sorrow experienced by you in abundance while residing in
 Janasthana-forest in completely known to me, O Rama!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There is the celestial chariot named Puṣpaka (puṣpakaṃ nāma vimānam), bright as the sun—may auspiciousness attend you!—which belonged to my brother Kubera and by the mighty Rāvaṇa
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -410,6 +456,12 @@ the interest of Brahmanas; *aninditaa iyam* = this irreproachible wife of yours;
 
 "While you were busy in protecting all the ascetics who prayed you for safeguarding
 the interests of Brahmanas, this irreproachable wife of yours was taken away by Ravana."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+was seized after conquering him in battle; moving at will (kāmagam), divine, and supreme, it stands here preserved for your sake (tvadarthaṃ pālitam), O hero of peerless valour!
 </details>
 </details>
 
@@ -464,6 +516,20 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धर्मवत्सल! मारीचनु कपटमृगवागि काणिसिकॊळ्ळुवुदु, सीतॆय बलवन्तवागि अपहरणवागुवुदु, आकॆयन्नु हुडुकुवाग दारियल्लि कबन्धनु सिगुवुदु, नीनु पम्पा सरोवरक्कॆ होगुवुदु, सुग्रीवनॊन्दिगॆ मैत्रि एर्पडुवुदु, निन्न कैयिन्द वालियु हतनागुवुदु, सीतान्वेषण, हनुमन्तन अद्भुत कार्य, सीतॆय शोधवाद बळिक नळनिन्द समुद्रद मेलॆ सेतुनिर्माण, हर्षोत्साह तुम्बिद वानर दळपतिगळिन्द लङ्कादहन, पुत्र, बन्धु, मन्त्रि, सैन्य मत्तु वाहनगळ सहित बलाभिमानी रावणन वधॆ निन्निन्दादुदु, आ देव कण्टक रावणनु हतनादाग देवतॆगळॊन्दिगॆ निन्न समागम, अवरु निनगॆ वर कॊट्टिद्दु - इवॆल्ल सङ्गतिगळु तपस्सिन प्रभाव दिन्द ननगॆ तिळिदिदॆ.॥11-15½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Yonder stands here (iha tiṣṭhati) that cloud-like celestial chariot (meghasaṃkāśaṃ vimānam), by which conveyance you shall travel to Ayodhyā freed from all anxiety (gatajvaraḥ)!
+
+**12:** Yet if I am worthy of your favour (yady anugrāhyaḥ), if you remember any merits of mine, and if you bear affection toward me, O wise one, then abide here for a little while (vasa tāvad iha)!
+
+**13:** “Together with your brother Lakṣmaṇa and together with your consort Vaidehī, having been worshipped with all desired objects (arcitaḥ sarvakāmaiḥ), you shall then depart, O Rāma!
+
+**14:** Accompanied by your army and circle of friends (sasainyaḥ sasuhṛdgaṇaḥ), O Rāma, pray accept (gṛhāṇa) this hospitality (satkriyām) prepared by me with a loving heart and held in readiness by me (mayodyatām)!
+
+**15:** Out of affectionate familiarity (praṇayāt), high reverence (bahumānāc ca), and heartfelt friendship (sauhārdena), O Rāghava, I entreat your grace (prasādayāmi); I am your servant (preṣyo 'ham)—I do not presume to command you!”
 </details>
 </details>
 
@@ -545,6 +611,14 @@ far superior; *svargaadapi* = to even the heaven.
 "The friends, the riches and the grains are highly honoured in this world. Mother
 and mother-land are far superior to even the heaven."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Addressed thus, Rāma then replied to Vibhīṣaṇa while all the Rākṣasas and Vānaras were listening (sarveṣām eva śṛṇvatām):
+
+**17:** “I have already been honoured by you, O hero, through your supreme counsel and alliance (sācivyena pareṇa), through your endeavours with your whole soul (sarvātmanā ca ceṣṭābhiḥ), and through your supreme friendship!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -586,6 +660,12 @@ following boon:
 Bowing to the aforesaid statement of the sage with his head bent low, highly pleased
 as he was and saying, "By all means" the glorious prince (Rama) asked of him the following
 boon:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely it is not that I would refuse (na khalv etan na kuryām) to fulfill this word of yours, O lord of the Rākṣasas; yet my heart hastens (tvarate manaḥ) to behold that brother of mine, Bharata—
 </details>
 </details>
 
@@ -643,6 +723,12 @@ abundant fruits of various kinds; *amR^itagandhiini* = and emitting the fragranc
 even in the off-season and flow with honey. Let abundant fruits of various kinds, emitting the
 fragrance of nectar, appear on them."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—he who came to Citrakūṭa to turn me back (māṃ nivartayitum), and whose words, though he entreated me with bowed head (śirasā yācataḥ), were not complied with by me,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -682,6 +768,12 @@ trees.
 
 Once the consent of the sage was given in the words "be it so", the trees there grew
 to be closely like the heavenly trees.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and [to behold] Kausalyā, Sumitrā, and the illustrious Kaikeyī, my friend Guha, and the townsfolk together with the countryfolk (paurāñ jānapadaiḥ saha)!
 </details>
 </details>
 
@@ -736,6 +828,14 @@ Then, for an extent of three Yojanas (twenty four miles) on all sides, in the
 direction of their travel, the trees that no longer bore fruit, were laden with fruit and those
 which had ceased to blossom looked charming with blossom. The withered trees were fully clothed
 with foliage and further began to flow with honey.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Grant me leave to depart (anujānīhi māṃ saumya), O gentle Vibhīṣaṇa; I have been duly honoured! Surely no resentment or grief should be felt (manyur na khalu kartavyaḥ), O friend—I entreat your kind indulgence (tvāṃ cānumānaye)!
+
+**22:** Bring forward (upasthāpaya) the celestial chariot for me swiftly, O lord of the Rākṣasas! Now that my task is accomplished (kṛtakāryasya me), how could lingering here be approved (kathaṃ syād iha sammataḥ)?”
 </details>
 </details>
 
@@ -800,6 +900,12 @@ at will, thousands of many of those wonderful fruits.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूर इप्पत्तनाल्कनॆय सर्ग पूर्णवायितु.॥124॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Rāma, Vibhīṣaṇa, the lord of the Rākṣasas, filled with haste (tvarānvitaḥ), summoned that celestial chariot bright as the sun (vimānaṃ sūryasaṃkāśam).
 </details>
 </details>
 

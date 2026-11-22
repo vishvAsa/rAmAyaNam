@@ -82,6 +82,12 @@ palms; saying.
 Thereafter, Bharata along with his routine, who were treated hospitably, spent that
 night there and sought out Bharadwaja with fondness.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed that night there and received royal hospitality, Bharata, accompanied by his retinue, approached Bharadvāja out of eagerness to behold Rāma (tatas tāṃ rajanīṃ vyuṣya bharataḥ sa-paricchadaḥ kṛtātithyo bharadvājaṃ kāmād abhijagāma ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +133,12 @@ Bharata; *puruSavyaaghram* = the tiger among men; *aagatam* = who came;
 
 The sage Bharadwaja, who had offered oblations in sacred fire, spoke to Bharata the
 tiger among men, who had come there with joined palms, saying.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that tiger among men approaching with joined palms, the sage Bharadvāja, who had just offered his morning agnihotra oblation, spoke to Bharata (tam ṛṣiḥ puruṣa-vyāghraṃ prāñjaliṃ prekṣya cāgatam hutāgnihotro bharataṃ bharadvājo 'bhyabhāṣata):
 </details>
 </details>
 
@@ -175,6 +187,12 @@ kachchit* = fully satisfied; *aatithye* = with my hospitality? shamsa = tell;
 "O, handsome Bharata! Have you passed this night at out place comfortably? Is your
 retinue fully satisfied with my hospitality? Tell me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Has the night passed pleasantly for you here in our hermitage precincts (kaccid atra sukhā rātris tavāsmad-viṣaye gatā)? And has your entire host been gratified in our hospitality? Tell me, O sinless one (samagras te janaḥ kaccid ātithye śaṃsa me 'nagha)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -220,6 +238,12 @@ retinue fully satisfied with my hospitality? Tell me."
 
 After joining his palms in salutation, Bharata replied to the very glorious sage
 Bharawaja, who came out from his hermitage (as follows):
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joining his palms and bowing low, Bharata spoke to that sage of supreme spiritual radiance as he stepped forth from his hermitage (tam uvācāñjaliṃ kṛtvā bharato 'bhipraṇamya ca āśramād abhiniṣkrāntam ṛṣim uttama-tejasam):
 </details>
 </details>
 
@@ -268,6 +292,12 @@ felt comfortable; *tarpitaH* = and satisfied; *saamaatyaH* = along with my minis
 comfortable and satisfied, along with very ministers my entire army and our animals too used in
 riding.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I have passed the night in great comfort, O venerable Lord, with all my troops and mounts (sukhoṣito 'smi bhagavan samagra-bala-vāhanaḥ), and together with my ministers I have been abundantly sated by you with every object of desire (tarpitaḥ sarva-kāmaiś ca sāmātyo balavat tvayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -315,6 +345,12 @@ with a good accommodation.
 "All of us including our servants have become very much satisfied with our fatigue
 and pains removed, having eaten a good food and having been provided an excellent
 accommodation."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Freed from all fatigue and feverish heat, provided with abundant food and handsome dwellings (apeta-klama-santāpāḥ subhikṣāḥ supratiśrayāḥ), all of us—including even the menial servants—have passed the night in supreme comfort (api preṣyān upādāya sarve sma susukhoṣitāḥ).
 </details>
 </details>
 
@@ -366,6 +402,12 @@ eye; *prasthitam* = me who is settingout; *samiipam* = towards the vicinity of;
 "O, Blessed one! O, excellent sage I am taking leave of you. Look on me with favour
 as I find myself in my brother's vicinity."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I now take leave of you to my heart’s content, O venerable one, O best of sages (āmantraye 'haṃ bhagavan kāmaṃ tvām ṛṣi-sattama); look with a friendly and benign eye upon me as I set forth toward my brother’s presence (samīpaṃ prasthitaṃ bhrātur maitreṇekṣasva cakṣuṣā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -413,6 +455,12 @@ high-souled; *dhaarmikasya* = and pious man; *shamsa* = tell; *me* = me;
 "O, knower of piety! Tell me about the abode of that high-souled and pious man,
 Rama. Tell me as to which way I have to go, how much distance it is from here and so forth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Declare to me the hermitage of that righteous and high-souled prince, O knower of dharma (āśramaṃ tasya dharma-jña dhārmikasya mahātmanaḥ ācakṣva), and tell me which road leads thither and how far it is (katamo mārgaḥ kiyān iti ca śaṃsa me)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -458,6 +506,12 @@ glorious; *mahaatapaah* = and having excellent austerity; *iti* = thus;
 
 The highly glorious Bharadwaaja, of rigid asceticism, thus questioned by Bharata
 (who intensely desired to see his brother again), answered him as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned thus, Bharadvāja of mighty asceticism and great spiritual lustre replied to Bharata, who was ardent to behold his brother (iti pṛṣṭas tu bharataṃ bhrātṛ-darśana-lālasam pratyuvāca mahā-tejā bharadvājo mahā-tapāḥ):
 </details>
 </details>
 
@@ -509,6 +563,12 @@ kaananaH* = with its beautiful cascades and groves.
 Chitrakuta, in the middle of a lonely forest with its charming Cascades and groves."
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Bharata, at a distance of two and a half yojanas, in an uninhabited forest, stands Mount Citrakūṭa, charming with its rocky caverns and woodlands (bharatārdha-tṛtīyeṣu yojaneṣv ajane vane citrakūṭo giris tatra ramya-nirdara-kānanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -577,6 +637,14 @@ there; *dhruvam* = It is certain.
 "O, beloved Bharata! Beyond that river, there is a mountain called Chitrakuta and on
 it, their hut made of leafy twigs. Both of them are residing there. It is sure."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “Bordering its northern flank flows the Mandākinī river (uttaraṃ pārśvam āsādya tasya mandākinī nadī), shaded by blossoming trees and graced with charming flowering groves (puṣpita-druma-sañchannā ramya-puṣpita-kānanā).
+
+**12:** “Immediately beyond that river stands Mount Citrakūṭa, and there stands their leaf-thatched cottage; there, my dear child, those two surely dwell (anantaraṃ tat-saritaś citrakūṭaś ca parvataḥ tayoḥ parṇa-kuṭī tāta tatra tau vasato dhruvam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -628,6 +696,12 @@ army!; *vaahayasva* = direct; *raahiniim* = the army; *gajavagirathaakiirNaam*
 and chariots either towards the southern route or to the left proceeding southward. You can see
 Rama then."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By the southern road itself, or turning southwestward to the right and left (dakṣiṇenaiva mārgeṇa savya-dakṣiṇam eva vā), lead forth your army thronged with elephants, horses, and chariots, O lord of hosts, O highly fortunate prince; then you shall behold Rāghava (gaja-vāji-rathākīrṇāṃ vāhinīṃ vāhinī-pate vāhayasva mahā-bhāga tato drakṣyasi rāghavam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -674,6 +748,12 @@ Rama then."
 
 Hearing him speak of the journey, Dasaratha's wives eligible of sitting in
 palanquins, descended from their palanquins and stood encircling Bharadwaja.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that talk of the march, the queens of the king of kings, though worthy of riding in palanquins, left their vehicles and gathered around the Brāhmaṇa sage (prayāṇam iti tac chrutvā rāja-rājasya yoṣitaḥ hitvā yānāni yānārhā brāhmaṇaṃ paryavārayan).
 </details>
 </details>
 
@@ -723,6 +803,12 @@ clasped; *charaNau* = the feet; *muneH* = of the sage Bharadawaja;
 
 Kaikeyi with her unfulfilled desire and despised by the whole world, clasped the
 sage's feet with bashfulness.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trembling, emaciated, and wretched, Queen Kausalyā, accompanied by Queen Sumitrā, clasped the sage’s feet there with both her hands (vepamānā kṛśā dīnā saha devyā sumitrayā kausalyā tatra jagrāha karābhyāṃ caraṇau muneḥ).
 </details>
 </details>
 
@@ -792,6 +878,14 @@ manaaH* = distressed at heart.
 Then, having gone around that venerable and eminent sage clock-wise, she stood close
 to Bharata himself, distressed as she was at heart.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Condemned by the whole world on account of her unfulfilled desire, Kaikeyī too clasped his feet, overwhelmed with shame (asamṛddhena kāmena sarva-lokasya garhitā kaikeyī tasya jagrāha caraṇau sa-vyapatrapā).
+
+**17:** Having circumambulated that venerable and great sage, she then stood not far from Bharata himself, downcast in heart (taṃ pradakṣiṇam āgamya bhagavantaṃ mahā-munim adūrād bharatasyaiva tasthau dīna-manās tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -839,6 +933,12 @@ mothers.
 Then, Bharadwaja, firm in austerity, enquired Bharata as follows: "O, Bharata! I
 wish to know the distinctions of your mothers."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Bharadvāja of firm vows questioned Bharata (tataḥ papraccha bharataṃ bharadvājo dṛḍha-vrataḥ): “I desire to know the distinct identity of each of your mothers, O Rāghava (viśeṣaṃ jñātum icchāmi mātṝṇāṃ tava rāghava)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -884,6 +984,12 @@ kovidaH* = skilled in expression; *bhuutvaa praaN^jaliH* = with joined palms;
 
 Hearing the words of the learned sage, Bharadwaja, Bharata who was skilled in
 expression, with joined palms, spoke the following words.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Bharadvāja, righteous Bharata, skilled in speech, joined his palms and spoke these words (evam uktas tu bharato bharadvājena dhārmikaḥ uvāca prāñjalir bhūtvā vākyaṃ vacana-kovidaḥ):
 </details>
 </details>
 
@@ -943,6 +1049,14 @@ royal consort of my father, who you see resembling a goddess - it is she, Kausal
 gave birth to Upendra, begot that Tiger among the heroes, with the great gait and pride of a lion
 that Rama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** “This wretched lady whom you behold, O venerable Lord, emaciated by grief and fasting—my father’s chief queen, shining like a goddess (yām imāṃ bhagavan dīnāṃ śokānaśana-karśitām pitur hi mahiṣīṃ devīṃ devatām iva paśyasi)—
+
+**21:** “she is Kausalyā, who gave birth to that tiger among men, Rāma of lion-like valorous stride, even as Aditi gave birth to Dhātṛ (eṣā taṃ puruṣa-vyāghraṃ siṃha-vikrānta-gāminam kausalyā suṣuve rāmaṃ dhātāram aditir yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1001,6 +1115,16 @@ She, who stands clinging to the left shoulder of Kausalya, plunged in grief is t
 unfortunate Sumitra, looking like a branch of Karnikara tree with withered flowers standing in the
 interior of the grove. Both Lakshmana and Shatrughna, the two heroic princes of god-like appearance
 and unfailing prowess are the sons of this godly woman, Sumitra.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** “And she who stands dejected, clinging to her left arm like a branch of a karṇikāra tree in the forest with all its blossoms withered and shed (asyā vāma-bhujaṃ śliṣṭā yaiṣā tiṣṭhati durmanāḥ karṇikārasya śākheva śīrṇa-puṣpā vanāntare)—
+
+**23:** “of this queen the two sons are the god-like princes, both heroes of unfailing valor, Lakṣmaṇa and Śatrughna (etasyās tu sutau devyāḥ kumārau deva-varṇinau ubhau lakṣmaṇa-śatrughnau vīrau satya-parākramau).
+
+**24:** “And she on whose account those two tigers among men have departed hence to the ruin of their lives, and King Daśaratha, bereft of his sons, has departed to heaven (yasyāḥ kṛte nara-vyāghrau jīva-nāśam ito gatau rāja-putra-vihīnaś ca svargaṃ daśaratho gataḥ)—
 </details>
 </details>
 
@@ -1074,6 +1198,16 @@ hissing; *naagaH* = snake.
 Bharata, the tiger among men, with his red eyes spoke thus in a voice broken by sobs
 and breathing as he like an enraged and hissing snake.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** “wrathful, of undisciplined understanding, arrogant, and fancying herself a paragon of beauty and fortune (krodhanām akṛta-prajñāṃ dṛptāṃ subhaga-māninīm), greedy for sovereignty, ignoble while wearing a noble guise—Kaikeyī (aiśvarya-kāmāṃ kaikeyīm anāryām ārya-rūpiṇīm)—
+
+**26:** “know this woman to be my mother, cruel and bent upon sin, in whom I behold the root of my own great calamity (mamaitāṃ mātaraṃ viddhi nṛśaṃsāṃ pāpa-niścayām yato-mūlaṃ hi paśyāmi vyasanaṃ mahad ātmanaḥ)!”
+
+**27:** Having spoken thus in a voice choked with tears, that tiger among men, with his eyes reddened, sighed heavily like an enraged serpent hissing (ity uktvā nara-śārdūlo bāṣpa-gadgadayā girā sa niśaśvāsa tāmrākṣo nāgaḥ kruddha iva śvasan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1119,6 +1253,12 @@ these; *arthavat* = meaningful; *vachanam* = words.
 
 Hearing the aforesaid words spoken by Bharata, Bharadwaja the great intellectual
 sage replied in the following meaningful words.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Bharata spoke thus, the great sage Bharadvāja of mighty wisdom replied to him with these meaningful words (bharadvājo maharṣis taṃ bruvantaṃ bharataṃ tathā pratyuvāca mahā-buddhir idaṃ vacanam arthavat):
 </details>
 </details>
 
@@ -1166,6 +1306,12 @@ hi* = will indeed become; *sukhodarkam* = a cause for happiness.
 "O, Bharata! Kaikeyi is not intended to be understood by you accusatively. The exile
 of Rama with indeed become ultimately a cause for happiness!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Kaikeyī ought not to be judged with blame by you, O Bharata; for this banishment of Rāma shall issue in happy consequences in the end (na doṣeṇāvagantavyā kaikeyī bharata tvayā rāma-pravrājanaṃ hy etat sukhodarkaṃ bhaviṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1208,6 +1354,12 @@ spirit.
 
 "Now, due to Rama's exile, there will indeed be a benefit to the celestials the
 demons and the sages whose souls are purified by meditating on the Universal Spirit."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For from the banishment of Rāma there shall surely arise here nothing but welfare for the gods, the Dānavas, and the sages of purified souls (devānāṃ dānavānāṃ ca ṛṣīṇāṃ bhāvitātmanām hitam eva bhaviṣyad dhi rāma-pravrājanād iha).”
 </details>
 </details>
 
@@ -1254,6 +1406,12 @@ the army; *iti* = thus; *yujyataam* = "Let us carry on."
 
 Bharata satisfied, paid obeisance to him and circumambulated him in bidding a
 farewell, directing the army to get prepared to leave.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed low and circumambulated him, Bharata, blessed and comforted in heart, took leave of the sage and commanded the army: “Let the forces be harnessed (abhivādya tu saṃsiddhaḥ kṛtvā cainaṃ pradakṣiṇam āmantrya bharataḥ sainyaṃ yujyatām ity acodayat)!”
 </details>
 </details>
 
@@ -1304,6 +1462,12 @@ _________________
 Then, setting out for their destination, countless people ascended many excellent
 chariots, decorated with gold, duly harnessed to horses.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then a manifold host of people, eager to set out on the march, harnessed the numerous celestial horse-chariots decked with gold and mounted them (tato vāji-rathān yuktvā divyān hema-pariṣkṛtān adhyārohat prayāṇārthī bahūn bahu-vidho janaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1353,6 +1517,12 @@ elephants; *hemakakSyaaH* = pataakinaH = wearing golden chains and flags; *sagho
 Female and male elephants, wearing golden chains and flags, distinguished by the
 sound of bells, like thundering clouds at the end of a summer marched in a form.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Female elephants and male tuskers, girt with golden belly-bands and bearing pennants, set forth together with a deep rumble like thunderclouds at the close of the hot season (gaja-kanyā gajāś caiva hema-kakṣyāḥ patākinaḥ jīmūtā iva gharmānte sa-ghoṣāḥ sampratasthire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1399,6 +1569,12 @@ small; *prayayuH* = marched forward; *padaatayaH* = Pedestrians; *paadaaraiva*
 Various precious conveyances, both big and small, marched forward. Pedestrians
 marched forward by foot.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vehicles of diverse kinds, both large and small and of great price, moved forward, while the foot-soldiers marched on foot (vividhāny api yānāni mahānti ca laghūni ca prayayuḥ sumahārhāṇi pādair eva padātayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1444,6 +1620,12 @@ pravekaiH* = on excellent conveyances; *tadaa* = then.
 
 Desirous of seeing Rama and delighted, Kausalya and other honourable women
 thereafter advanced on their excellent conveyances.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the royal women headed by Kausalyā, eager to behold Rāma, set forth filled with joy in the choicest of conveyances (atha yāna-pravekais tu kausalyā-pramukhāḥ striyaḥ rāma-darśana-kāṅkṣiṇyaḥ prayayur muditās tadā).
 </details>
 </details>
 
@@ -1492,6 +1674,12 @@ along with his escort.
 The illustrious Bharata mounted a readily kept palanquin which was auspiciously
 shining like rising moon and sun and proceeded along with his escort.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting a handsome palanquin appointed for him, which gleamed like the young moon and the rising sun, glorious Bharata set forth accompanied by his retinue (candrārka-taruṇābhāsāṃ niyuktāṃ śibikāṃ śubhām āsthāya prayayau śrīmān bharataḥ sa-paricchadaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1516,6 +1704,12 @@ shining like rising moon and sun and proceeded along with his escort.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆये श्रीमान् भरतनु नवोदित चन्द्र-सूर्यर कान्तियुक्त बोविगळु हॊत्तिरुव मेनॆयल्लि कुळितु आवश्यक सामग्रिगळॊन्दिगॆ हॊरटनु.॥37॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That mighty army, thronged with elephants, horses, and chariots, marched forth covering the southern quarter like a vast thundercloud risen in the sky (sā prayātā mahā-senā gaja-vāji-rathākulā dakṣiṇāṃ diśam āvṛtya mahā-megha ivotthitaḥ)—
 </details>
 </details>
 
@@ -1561,6 +1755,12 @@ by deer and birds.
 That vast army with its countless elephants horses and chariots proceeded, covering
 the southern direction, like a great cloud that has risen in the sky and on the other bank of the
 Ganges, by mountains and streams, crossing the woods inhabited by deer and birds.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+passing beyond the forests frequented by deer and birds along the farther bank of the Gaṅgā, among mountains and rivers (vanāni tu vyatikramya juṣṭāni mṛga-pakṣibhiḥ gaṅgāyāḥ para-velāyāṃ giriṣv api nadīṣu ca).
 </details>
 </details>
 
@@ -1614,6 +1814,12 @@ innumerable beats and birds; *raraaja* = appeared resplendent; *tatra* = there.
 That army of Bharata, with its squadrons of rejoicing elephants horses and warriors,
 penetrating into the vast forest, frightening innumerable beasts and birds, appeared resplendent
 there.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With its joyous elephants, steeds, and warriors, startling the flocks of deer and birds as it plunged deep into that vast forest, that army of Bharata shone resplendent there (sā samprahṛṣṭa-dvija-vāji-yodhā vitrāsayantī mṛga-pakṣi-saṅghān mahad vanaṃ tat pratigāhamānā rarāja senā bharatasya tatra).
 </details>
 </details>
 

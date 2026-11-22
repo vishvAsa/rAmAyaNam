@@ -69,6 +69,12 @@ Daughters of Kushanaabha report about the Air-god's mischief. Pleased
 On hearing that sentence of scholarly Kushanaabha those hundred
  girls touched his feet with their foreheads and spoke to him. [1-33-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing that speech of the wise Kuśanābha (tasya tad vacanaṃ śrutvā kuśanābhasya dhīmataḥ), the hundred maidens touched his feet with their heads and spoke thus (śirobhiś caraṇau spṛṣṭvā kanyāśatam abhāṣata):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +116,12 @@ On hearing that sentence of scholarly Kushanaabha those hundred
 " 'The all-pervasive Air-god desired to dishonour us, oh, king, resorting
  to improper approach and overlooking virtuous conduct. [1-33-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘The all-pervading Wind-god Vāyu, O King, sought to violate us (vāyuḥ sarvātmako rājan pradharṣayitum icchati); resorting to an unrighteous path of force, he paid no heed to dharma (aśubhaṃ mārgam āsthāya na dharmaṃ pratyavekṣate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +162,12 @@ On hearing that sentence of scholarly Kushanaabha those hundred
 " 'Our father is there and we are not independent, you be safe, hence
  oh, Air-god, you may request our father to know whether he gives us
  to you or not.' Thus we have told the Air-god, but... [1-33-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘[We told him:] “We have a father living—may auspiciousness attend you (pitṛmatyaḥ sma bhadraṃ te)! We do not stand at our own independent disposal (svacchande na vayaṃ sthitāḥ); ask our father for our hand, if he will bestow us upon you (pitaraṃ no vṛṇīṣva tvaṃ yadi no dāsyate tava)!”
 </details>
 </details>
 
@@ -207,6 +225,12 @@ Since then, because the Wind-God bent / The damsels' forms for punishment,
  That is, the City of the Bent Virgins, the modern Kanauj or Canouge
  - Griffith.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Even as we spoke thus, all of us were sorely struck down by Vāyu (evaṃ bruvantyaḥ sarvāḥ sma vāyunābhihatā bhṛśam), whose mind was bent upon sin and who refused to heed our words (tena pāpānubandhena vacanaṃ na pratīcchatā).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,6 +270,12 @@ Since then, because the Wind-God bent / The damsels' forms for punishment,
 
 On listening their words that highly virtuous and highly resplendent
  king spoke to the hundred girls with unsurpassed virtue. [1-33-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing that account of theirs, the supremely righteous monarch of great fiery splendor (tāsāṃ tu vacanaṃ śrutvā rājā paramadhārmikaḥ mahātejāḥ) spoke in reply to his matchless hundred daughters (pratyuvāca kanyāśatam anuttamam):
 </details>
 </details>
 
@@ -289,6 +319,12 @@ On listening their words that highly virtuous and highly resplendent
 " 'Forgiving is the duty of imperturbable and you have done it. Excellent.
  Oh, daughters, coursing through your unity my family's prestige is also
  kept up. [1-33-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘You have shown forbearance, O daughters, and accomplished the supreme duty of the forgiving (kṣāntaṃ kṣamāvatāṃ putryaḥ kartavyaṃ sumahat kṛtam); uniting in unanimous accord, you have safeguarded the honour of my royal house (aikamatyam upāgamya kulaṃ cāvekṣitaṃ mama)!
 </details>
 </details>
 
@@ -351,6 +387,12 @@ This also means: 'though you possess excellent aspects and persona alike
  apsara Ghritachi... you have forgiven Air-god, without submitting yourselves
  to bodily pleasures of humans.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘For forbearance is the true ornament of women as well as of men (alaṅkāro hi nārīṇāṃ kṣamā tu puruṣasya vā); and that forbearance which you have shown is hard indeed to practice, especially toward the gods (duṣkaraṃ tac ca vai kṣāntaṃ tridaśeṣu viśeṣataḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,6 +445,12 @@ _________________
  glory, grace is virtue, and this universe is verily abiding in graciousness
  alone for grace itself is the truth, isn't it!' Thus king Kushanaabha
  said to his daughters and sent them away. [1-33-8b, 9a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘such forbearance as belongs to all of you without exception, O daughters (yādṛśī vaḥ kṣamā putryaḥ sarvāsām aviśeṣataḥ)! Forbearance is charity, forbearance is truth, and forbearance is sacrifice, O dear daughters (kṣamā dānaṃ kṣamā satyaṃ kṣamā yajñāś ca putrikāḥ);
 </details>
 </details>
 
@@ -457,6 +505,14 @@ _________________
  is to be proposed, and so on." Thus Vishvamitra continued his narration.
  [1-33-9b, 10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** “‘forbearance is glory, forbearance is dharma, and upon forbearance the entire universe rests established (kṣamā yaśaḥ kṣamā dharmaḥ kṣamāyāṃ viṣṭhitaṃ jagat)!’ Having thus comforted and dismissed his daughters, O Kākutstha, the king of godlike valor (visṛjya kanyāḥ kākutstha rājā tridaśavikramaḥ),
+
+**10:** “skilled in counsel, deliberated together with his ministers concerning their bestowal in marriage (mantrajño mantrayām āsa pradānaṃ saha mantribhiḥ)—how they should be given at the proper place and time to a bridegroom of worthy lineage (deśe kāle ca kartavyaṃ sadṛśe pratipādanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -509,6 +565,12 @@ The *uurdhvaretas* is that the yogi-s of a very high practice
  the six-plexuses of human body. This type of practice is to enrich their
  mental and physical glow and they will have a divine aura around them.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now at that very time, the sage named Cūlī of great spiritual effulgence (etasminn eva kāle tu cūlī nāma mahādyutiḥ), continent in seed and pure in conduct (ūrdhvaretāḥ śubhācāraḥ), was engaged in supreme Brāhmaic austerity (brāhmaṃ tapa upāgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -550,6 +612,12 @@ Rama.
 "While that sage is in the practise of asceticism a celestial female served
 him at the place of his ascesis, safety be with you oh, Rama, she is Somada by her
 name, the daughter of Urmila. [1-33-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As that sage was practicing austerity there, a Gandharva maiden—may auspiciousness attend you (bhadraṃ te)!—named Somadā, the daughter of Ūrmilā, reverently waited upon him (tapasyantam ṛṣiṃ tatra gandharvī paryupāsate somadā nāma ūrmilātanayā tadā).
 </details>
 </details>
 
@@ -594,6 +662,12 @@ name, the daughter of Urmila. [1-33-12]
  to him she stayed there righteously. After some time that sage Cuulii
  has become satisfied with her service. [1-33-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bowing low before him in humble devotion and wholly intent upon serving him (sā ca taṃ praṇatā bhūtvā śuśrūṣaṇaparāyaṇā), that righteous maiden dwelt there at the appointed hours of service (uvāsa kāle dharmiṣṭhā); and the preceptor grew well pleased with her (tasyās tuṣṭo ’bhavad guruḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -636,6 +710,12 @@ name, the daughter of Urmila. [1-33-12]
 "When her service is fructified, oh, Rama, that sage benevolently spoke
  to her saying, 'I am perfectly pleased with your service, let good betide
  you, what cherish of yours I have to fulfil.' [1-33-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In the fullness of time, O delighter of the Raghus, that sage spoke to her thus (sa ca tāṃ kālayogena provāca raghunandana): ‘I am thoroughly pleased with you—may auspiciousness attend you (parituṣṭo ’smi bhadraṃ te)! What welcome boon shall I accomplish for you (kiṃ karomi tava priyam)?’
 </details>
 </details>
 
@@ -685,6 +765,12 @@ name, the daughter of Urmila. [1-33-12]
  who is aware of making good sentences is highly delighted and spoke
  with her melodious voice to that pedantic sage. [1-33-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Perceiving that the sage was well pleased, the Gandharva maiden, skilled in speech and filled with supreme joy (parituṣṭaṃ muniṃ jñātvā gandharvī paramaprītā vākyajñā), spoke in sweet tones to that master of eloquence (madhurasvaram uvāca vākyakovidam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -729,6 +815,12 @@ name, the daughter of Urmila. [1-33-12]
  son whose ascetic spirituality may embody the spirituality enunciated
  in Veda-s. [1-33-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Illumined by the spiritual radiance of Brahman, you have become one with Brahman and are rich in great penance (lakṣmyā samudito brāhmyā brahmabhūto mahātapāḥ); I desire a righteous son endowed with Brāhmaic austerity (brāhmeṇa tapasā yuktaṃ putram icchāmi dhārmikam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -770,6 +862,12 @@ name, the daughter of Urmila. [1-33-12]
 " 'I am unmarried and nobody's wife, safe you be, and as I took shelter
  under your kindness it will be apt of you to endow me a son with your
  faculty of asceticism.' So said Somada to sage Cuulii. [1-33-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I have no husband—may auspiciousness attend you!—nor am I to be the wife of anyone (apatiś cāsmi bhadraṃ te bhāryā cāsmi na kasyacit); therefore, by your Brāhmaic yoga, you ought to bestow a son upon me who have sought refuge in you (brāhmeṇopagatāyāś ca dātum arhasi me sutam)!’
 </details>
 </details>
 
@@ -818,6 +916,12 @@ name, the daughter of Urmila. [1-33-12]
 The word 'cuuli' also read as Cuulina, another name for this sage
  Cuuli.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Well pleased with her, the Brahmarṣi bestowed upon her a matchless son endowed with Brāhmaic power (tasyāḥ prasanno brahmarṣir dadau brāhmam anuttamam)—the mind-born son of Cūlin, renowned by the name of Brahmadatta (brahmadatta iti khyātaṃ mānasaṃ cūlinaḥ sutam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -858,6 +962,12 @@ The word 'cuuli' also read as Cuulina, another name for this sage
 
 "King Brahmadatta endued with superb grandeur ruled from a city called
  Kaampilya as with Indra ruling the heaven. [1-33-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That King Brahmadatta then dwelt in the royal city of Kāmpilyā (sa rājā brahmadattas tu purīm adhyavasat tadā kāmpilyām) with supreme splendor, even as Indra the king of the gods dwells in heaven (parayā lakṣmyā devarājo yathā divam).
 </details>
 </details>
 
@@ -900,6 +1010,12 @@ The word 'cuuli' also read as Cuulina, another name for this sage
 "The most righteous king Kushanaabha then made up his mind, oh, Rama
  of Kakutstha, to espouse his hundred daughters to Brahmadatta. [1-33-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then the supremely righteous King Kuśanābha formed the resolve, O Kākutstha (sa buddhiṃ kṛtavān rājā kuśanābhaḥ sudhārmikaḥ kākutstha), to bestow his hundred daughters upon Brahmadatta (brahmadattāya dātuṃ kanyāśataṃ tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -941,6 +1057,12 @@ The word 'cuuli' also read as Cuulina, another name for this sage
 "Inviting Brahmadatta that great-resplendent lord of the land, namely
  the king Kushanaabha, married his hundred daughters to him, pleasing
  highly in his heart of hearts. [1-33-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Summoning that monarch Brahmadatta, the king of great fiery splendor (tam āhūya mahātejā brahmadattaṃ mahīpatiḥ rājā) bestowed his hundred daughters upon him with a deeply gladdened heart (dadau kanyāśataṃ suprītenāntarātmanā).
 </details>
 </details>
 
@@ -993,6 +1115,12 @@ _________________
  of gods, namely Indra, in succession took the palm of each of the hundred
  girls into his palm. [1-33-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, O delighter of the Raghus, King Brahmadatta, like the lord of the gods himself (tadā raghunandana brahmadatto mahīpālo devapatir yathā), clasped the hands of those maidens in marriage in due order of seniority (yathākramaṃ pāṇiṃ jagrāha tāsām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1043,6 +1171,12 @@ _________________
  are evanished, and all of those hundred maidens beamed bright as they
  are retouched with utmost elegance. [1-33-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The very instant their hands were touched by him (spṛṣṭamātre tadā pāṇau), those hundred maidens were freed from their crookedness and cured of all feverish anguish (vikubjā vigatajvarāḥ), and shone forth endowed with supreme loveliness (yuktaṃ paramayā lakṣmyā babhau kanyāśataṃ tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1084,6 +1218,12 @@ _________________
 "On seeing his daughters getting release from the effect of Air-god
  Kushanaabha became highly joyful, and he took great delight time and
  again as and when he looked at them. [1-33-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding them released from the affliction of Vāyu (sa dṛṣṭvā vāyunā muktāḥ), King Kuśanābha was filled with supreme delight and experienced joy again and again (kuśanābho mahīpatiḥ babhūva paramaprīto harṣaṃ lebhe punaḥ punaḥ).
 </details>
 </details>
 
@@ -1133,6 +1273,12 @@ _________________
 "Later when the marriage is complete king Kushanaabha bade farewell
  to king Brahmadatta along with his wives, his own hundred daughters,
  and along with the groups of religious teachers. [1-33-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then the monarch sent forth King Brahmadatta, who had completed his nuptial rites (kṛtodvāhaṃ tu rājānaṃ brahmadattaṃ mahīpatim preṣayām āsa tadā), accompanied by his brides and the assembly of preceptors (sadāraṃ sopādhyāyagaṇam).
 </details>
 </details>
 
@@ -1199,6 +1345,12 @@ kriyaam* = worthwhile deed of son; in getting such daughter-in-laws;
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तमूरनॆय सर्ग पूर्णवायितु. ॥33॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the Gandharvī Somadā too, beholding her son and the marriage worthy of her son (somadāpi sutaṃ dṛṣṭvā putrasya sadṛśīṃ kriyām), welcomed those daughters-in-law in due order (yathānyāyaṃ ca gandharvī snuṣās tāḥ pratyanandata), fondly caressing those princesses again and again and praising King Kuśanābha (spṛṣṭvā spṛṣṭvā ca tāḥ kanyāḥ kuśanābhaṃ praśasya ca).”
 </details>
 </details>
 

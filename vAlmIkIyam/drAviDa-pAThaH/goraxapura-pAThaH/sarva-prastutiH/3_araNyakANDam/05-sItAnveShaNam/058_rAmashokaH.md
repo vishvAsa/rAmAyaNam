@@ -69,6 +69,12 @@ on seeing; *pari apR^icChata* = verily [impatiently] asked.
 On seeing dreary Lakshmana coming into the void of forest devoid of Vaidehi, then the virtue-souled
 Rama, the son of Dasharatha, has asked him impatiently. [3-58-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Lakṣmaṇa dejected (dīnam) and vacant of mind (śūnyam), the righteous-souled (dharmātmā) son of Daśaratha questioned him who had arrived without Vaidehī (vaidehīm āgataṃ vinā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +121,12 @@ to here, came [lonely]; *saa vaidehii kva* = she, Vaidehi, where [is she?]
 "She who has come in tow with me to Dandaka forest when I started for peregrination, whom you have now
 deserted and came here, oh, Lakshmana, she that Vaidehi, where is she? [3-58-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Where, O Lakṣmaṇa, is that Vaidehī who followed me (mām anujagāma) when I set forth for the Daṇḍaka forest (daṇḍakāraṇyam), and whom you have left behind (hitvā) to come here?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -155,6 +167,12 @@ Vaidehi, where is she?
 
 "When I have become forlorn with the forfeiture of my kingdom and when I was rushing for Dandaka forest
 she stood with me as a partaker in my woes. She that comely Vaidehi, where is she? [3-58-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Where is that slender-waisted (tanu-madhyamā) Vaidehī, the companion in my sorrow (duḥkha-sahāyā me) as I, fallen from royal sovereignty (rājya-bhraṣṭasya) and afflicted, roam through the Daṇḍaka woods?
 </details>
 </details>
 
@@ -203,6 +221,12 @@ kva* = Seetha, where is she?
 "Without whom I am disinclined to live even for a moment, oh, valiant one, such a Seetha who in simile
 is like the daughter of deities and who is my life-force, where is she? [3-58-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Where, O hero, is that Sītā—resembling a daughter of the gods (sura-sutopamā) and the companion of my very life-breaths (prāṇa-sahāyā me)—without whom I cannot bear (notsahe) to live even for a moment (muhūrtam api)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,6 +272,12 @@ is like the daughter of deities and who is my life-force, where is she? [3-58-4]
 
 "I am unambitious for the rulership either on heavens or on the earth, oh, Lakshmana, without the daughter
 of Janaka whose aspect glisters like gold. [3-58-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, O Lakṣmaṇa, without that daughter of Janaka who shines like refined gold (tapanīyābhām), I would not desire (neccheyam) the lordship of the immortals (patitvam amarāṇām) or even of the earth!
 </details>
 </details>
 
@@ -301,6 +331,12 @@ trek for ultimate annihilation of Ravana. If Seetha is dead I am also dead. Then
 the pledge. But when I am dead I will become a killer of my own pledge than my own body. If Seetha is
 no more what happens to her abduction, Ravana's elimination, and my pledge to gods and my incarnation...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Does Vaidehī, dearer to me than my own life-breaths (prāṇaiḥ priyatarā mama), still live? Will my banishment (pravrājanam), O hero, not prove in vain (mithyā)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,6 +382,12 @@ I am, being dead; *tvayi gate* = you, on getting back [lonesomely to Ayodhya]; *
 
 "When I am dead for the sake of Seetha and when you get back to Ayodhya lonesomely, and when Kaikeyi's
 wishes are accomplished thus, oh, Soumitri, will she be comfortable, somewhat! [3-58-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When I have died on account of Sītā (sītā-nimittam), O Saumitri, and you have departed [for Ayodhyā], will that Kaikeyī—her desire fulfilled (sakāmā)—be happy (sukhitā)?
 </details>
 </details>
 
@@ -399,6 +441,12 @@ nearby, stays [be in attendance - get into servitude] anyhow.
 and because of the death of her son will my austerely mother Kausalya humbly get into the servitude
 of Kaikeyi, anyhow! [3-58-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Will poor, wretched (tapasvinī) Kausalyā, her son dead (mṛta-putrā), wait upon (upasthāsyati) Kaikeyī gently (saumyena)—who possesses the kingdom with her son (saputra-rājyām) and has achieved her object (siddhārthām)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -450,6 +498,12 @@ out [by death]; *praaNaan tyakSyaami* = lives, I give up.
 oh, Lakshmana, if death has already conducted her out of hermitage I too will give up my lives here
 itself. [3-58-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If Vaidehī lives, I shall return again to the hermitage (āśramam); if she of noble conduct has perished (saṃvṛttā yadi vṛttā sā), I shall abandon my life-breaths (prāṇāṃs tyakṣyāmi), O Lakṣmaṇa!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -499,6 +553,12 @@ chats [with me]; *vi nashiSyaami* = verily, I breath my last.
 "If Seetha, the princess from Videha, does not chat with me as before smiling gleefully on my arrival
 at the hermitage, oh, Lakshmana, I really breath my last. [3-58-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If, when I reach the hermitage (āśrama-gatam), Sītā, princess of Videha, does not step before me (puraḥ) and speak to me (nābhibhāṣate) with a bright smile (prahasitā), I shall perish (vinaśiṣyāmi), O Lakṣmaṇa!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -544,6 +604,12 @@ bruuhi say.
 
 "Say Lakshmana, whether that pietistic Vaidehi is alive or not? Or, on your becoming unmindful of your
 guard is she consumed by demons, either? [3-58-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tell me, O Lakṣmaṇa, whether Vaidehī is alive or not (jīvati vā na vā), or whether, while you were heedless (tvayi pramatte), the poor lady (tapasvinī) was devoured by night-stalking demons (rakṣobhir bhakṣitā)!”
 </details>
 </details>
 
@@ -591,6 +657,12 @@ connectedness - dissociation, separation; *shocati* = she will be despairing; *v
 
 "She who is softish by her nature and youngish by her age has never noticed the despair of separation
 from me, and now by my dissociation she will be despairing brokenheartedly, so it seems. [3-58-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tender (sukumārī), young (bālā), and ever unacquainted with sorrow (aduḥkha-bhāginī), Vaidehī, distressed in mind (durmanāḥ), clearly grieves (vyaktaṃ śocati) through separation from me (mad-viyogena).
 </details>
 </details>
 
@@ -643,6 +715,12 @@ caused fear even in you in everyway. [3-58-13]
 Annex: 'you yourself have said that the Golden Deer is demon Maareecha, but I went after to eliminate
 the very same demon... then, how you are dismayed to hear a trickster's mimicking my voice and came
 rushing fearfully, were you fearful or did I yell like that right from our childhood, anytime...'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In every way (sarvathā), by that crooked (jihmena) and utterly wicked-minded (sudurātmanā) demon crying out ‘O Lakṣmaṇa!’ aloud (uccaiḥ), fear was aroused even in you (tavāpi janitaṃ bhayam)!
 </details>
 </details>
 
@@ -699,6 +777,12 @@ as she is she might have also hastened you, and I hope you also have come to see
 Annex: 'maybe, as a woman she is hopeless of my capabilities, but you are a coequal of mine, are you
 unhopeful of my capabilities and came rushing at the haste of a hasty woman, or what!
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And I think (manye) that voice resembling mine (sa svaraḥ sadṛśo mama) was heard by Vaidehī, and that, sent by her in her terror (trastayā preṣitaḥ), you came swiftly to see me.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -752,6 +836,12 @@ in isolation from our fetters, and a leeway is given to those diabolic demons as
 I cocksurely attack them now in the name of Seetha, and it is cocksure that they have to surface now
 to counterattack me, instead of these tricks and gimmicks...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet in every way a grievous wrong has been done (kṛtaṃ kaṣṭam) by you in abandoning Sītā in the forest (sītām utsṛjatā vane): an opening (antaram) has been given to the cruel demons (nṛśaṃsānāṃ rakṣasām) to exact vengeance (pratikartum)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -797,6 +887,12 @@ she would have been; *samshayaH na* = doubt, is not there.
 
 "Raw-flesh eating demons are distraught as I have liquidated Khara, as a result those ghastly ones would
 have liquidated Seetha by now. There is no doubt about it. [3-58-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The flesh-eating demons (rākṣasāḥ piśitāśanāḥ) are aggrieved by the slaying of Khara (khara-ghātena); without doubt (na saṃśayaḥ), Sītā will have been slain (nihatā bhaviṣyati) by those dreadful ones!
 </details>
 </details>
 
@@ -848,6 +944,12 @@ of [scourge,] [I am] liable to get, I deem; *aho* = alas!
 situation? Perchance, this sort of scourge is liable to chance upon me, alas!" Thus Rama gave vent to
 his feelings on his way to hermitage. [3-58-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Alas! I am plunged utterly into calamity (vyasane magnaḥ), O destroyer of foes (ripu-nāśana)! What then shall I do now? I suspect (śaṅke) such a lot was destined to befall me (prāptavyam īdṛśam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -893,6 +995,12 @@ his feelings on his way to hermitage. [3-58-17]
 In this way while thinking emotively about that curvaceous Seetha, Raghava hurriedly returned to Janasthaana
 along with Lakshmana. [3-58-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus anxiously thinking solely of the fair-hipped (varārohām) Sītā, Rāghava, together with Lakṣmaṇa (saha-lakṣmaṇaḥ), came in haste (tvarayā) to Janasthāna.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -921,6 +1029,12 @@ along with Lakshmana. [3-58-18]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दुःखितनाद तम्म लक्ष्मणनन्नु जरॆयुत्ता हसिवु - बायारिकॆयिन्द दीर्घवागि निट्टुसिरुबिडुत्ता बाडिद मुखवुळ्ळ श्रीरामचन्द्रनु आश्रमद बळिगॆ बन्दु बरिदाद अदन्नु नोडि विषाददल्लि मुळुगिदनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reproaching (vigarhamāṇaḥ) his afflicted younger brother (anujam ārta-rūpam), parched-mouthed (śuṣka-mukhaḥ) with hunger, exhaustion, and thirst, sighing heavily (viniḥśvasan) and dejected (viṣaṇṇaḥ), he reached the shelter (pratiśrayam) and beheld it empty (śūnyam)—
 </details>
 </details>
 
@@ -992,6 +1106,12 @@ of Seetha. [3-58-19, 20]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तॆण्टनॆय सर्ग सम्पूर्णवायितु.॥58॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering deep into his own hermitage (svam āśramaṃ sa pravigāhya) and visiting several pleasure-spots (vihāra-deśān anusṛtya), that hero, recalling “This was that very spot!” upon their dwelling-ground (nivāsa-bhūmau), had his hair bristling (prahṛṣṭa-romā) and became stricken with anguish (vyathito babhūva).
 </details>
 </details>
 

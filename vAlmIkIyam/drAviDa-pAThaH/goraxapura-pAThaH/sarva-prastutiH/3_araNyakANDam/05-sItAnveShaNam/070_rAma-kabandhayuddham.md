@@ -69,6 +69,12 @@ elated for his accursed state is over at the hands of Rama.
 On prying at those two brothers, Rama and Lakshmana, who are completely stowed in the hangman's halter-like
 arms of the demon, and who are enduring within it, Kabandha said this sentence to them. [3-70-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing those two brothers Rāma and Lakṣmaṇa standing there encircled by the noose of his arms (bāhu-pāśa-parikṣiptau), Kabandha spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ are sent.
 "Oh, excellent Kshatriya-s, on seeing me who am miserably famished, really what for you stay cool? You
 are the godsend gobs of mine, and hence now you are almost dead..." So said Kabandha to brothers. [3-70-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Why do you two stand [idle] (tiṣṭhataḥ kiṃ nu), O bulls among Kṣatriyas (kṣatriyarṣabhau), on beholding me tormented by hunger (kṣudhārtam), when, bereft of your senses (hata-cetanau), you have been ordained by destiny (daivena saṃdiṣṭau) to serve as my food (āhārārtham)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +175,12 @@ vaakyam uvaaca* = advisable, words, said [to Rama.]
 
 Lakshmana who is possessed by anguish, and who is determined to wreck revenge on that demon, said these
 expedient and advisable words to Rama on hearing that demon's word. [3-70-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words, Lakṣmaṇa, though stricken with distress (ārti-samāpannaḥ), resolved upon valour (vikrame kṛta-niścayaḥ) and spoke words that were timely (prāpta-kālam) and salutary (hitam):
 </details>
 </details>
 
@@ -215,6 +233,12 @@ off.
 "This scurrilous demon quickly hauled in you and me to his face level, and he will quickly take us in,
 therefore, we will have to swiftly hack off his lengthy arms at his shoulder level... [3-70-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Before (purā) this vilest of rākṣasas (rākṣasādhamaḥ) swiftly snatches up (tūrṇam ādatte) both you and me, let us quickly sever (āśu chindāvahe) his two massive arms (bāhū gurū) with our swords (asibhyām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -264,6 +288,12 @@ hi* = now, us, to finish off, wishes, indeed.
 
 "Gruesome is this gargantuan bodied demon, and triumphing over just with his arms he has utterly devastated
 this province, and he now wishes to end us... [3-70-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This terrifying, gigantic rākṣasa, whose prowess lies in his arms (bhuja-vikramaḥ), having utterly vanquished (atijitaṃ kṛtvā) the world, desires to slay us both here (āvāṃ hantum ihecchati).
 </details>
 </details>
 
@@ -327,6 +357,12 @@ off, unhurt...' 4] or, one that which is not at the sacrificial post - it is not
 sacrificed...' and Lakshmana says addressing Rama as 'oh, king, you have to let off those beasts,
 but not this beastly demon who is aggressive and contemplating a regicide...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For a ruler of the earth (jagatī-pateḥ), O king, the slaying of creatures incapable of resistance (niśceṣṭānāṃ vadhaḥ) is reviled (kutsitaḥ), like that of [wild] beasts brought into the midst of a sacrifice (kratu-madhyopanītānāṃ paśūnām iva), O Rāghava!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -376,6 +412,12 @@ bhakshayitum aarabhat* = both, to wolf down, started to.
 
 On hearing all of their conversation that demon is infuriated, and then widely opening his ferocious
 mouth he started to wolf down both of them. [3-70-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that conversation (saṃjalpitam) of theirs, the enraged rākṣasa, opening wide his fierce mouth (vidāryāsyaṃ raudram), began to devour (bhakṣayitum ārabhat) them both.
 </details>
 </details>
 
@@ -435,6 +477,12 @@ at the short time available to cut off his hands, before falling into his well-h
 this expression 'very highly gladdened' is for the righteous advice given by Lakshmana,
 circumspectly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then those two Rāghavas, knowers of place and time (deśa-kāla-jñau), filled with high spirits (susaṃhṛṣṭau), severed (acchindantām) his two arms from the region of his shoulders (aṃsa-deśataḥ) with their swords alone (khaḍgābhyām eva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -480,6 +528,12 @@ cicCheda]* = left [arm, hewed down.]
 
 Then that dextrous Rama with an unrestrained speed hacked off the right arm, and valiant Lakshmana on
 his part hewed down the left arm that speedily. [3-70-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the dexterous (dakṣiṇaḥ) Rāma swiftly (vegena) severed his right arm (dakṣiṇaṃ bāhum) cleanly without impediment (asaktam) with his sword, while the heroic Lakṣmaṇa [severed] his left (savyam).
 </details>
 </details>
 
@@ -527,6 +581,12 @@ mangled, arms; *mahaa svanaH* = with cacophonous, voice; *jala daH yathaa* = rai
 
 He that overlong-armed Kabandha fell down with mangled arms, reverberated the sky, earth, and all of
 the ten points of horizon with a cacophonous voice, like a black-thunderous-cloud. [3-70-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his arms severed (chinna-bāhuḥ), that long-armed monster fell (papāta) with a mighty roar (mahā-svanaḥ), making the sky, the earth (gāṃ ca), and the quarters resound (nādayan) like a thundercloud (jalado yathā).
 </details>
 </details>
 
@@ -577,6 +637,12 @@ papracCha* = those, two bold ones, has asked.
 That demon on seeing at his dissevered shoulders on which the gushes of blood are overflowing, he self-piteously
 asked those two bold ones thus as, "who are you..." [3-70-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing his two arms severed (nikṛttau bhujau) and bathed in torrents of blood (śoṇitaugha-pariplutaḥ), the humbled (dīnaḥ) Dānava asked those two heroes, “Who are you two (kau yuvām)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -619,6 +685,12 @@ shashamsa* = about Kakutstha Rama, informed.
 
 When that great mighty Kabandha is asking thus, Lakshmana who has prosperous characteristics has informed
 him about Rama of Kakutstha, an unremitting dynasty. [3-70-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he spoke thus (iti tasya bruvāṇasya), the mighty Lakṣmaṇa, endowed with auspicious marks (śubha-lakṣaṇaḥ), made known (śaśaṃsa) Kākutstha to that Kabandha:
 </details>
 </details>
 
@@ -668,6 +740,12 @@ one by my name]; *viddhi* = you know.
 
 "He is known to people by the name of Rama, the legatee of Ikshvaku dynasty, and you know me as his
 younger brother, Lakshmana, by my name... [3-70-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is the heir of the Ikṣvākus (ikṣvāku-dāyādaḥ), renowned among men (janaiḥ śrutaḥ) by the name of Rāma; and know me to be his younger brother (avarajaṃ bhrātaram), Lakṣmaṇa.
 </details>
 </details>
 
@@ -740,6 +818,14 @@ abducted; *yaam icChantau iha aagatau* = whom, wishing [to retrieve,] to here, [
 "A demon stole his wife while he whose leverage is like that of god is living in the unpopulated forest...
 and wishing to retrieve her we came here... [3-70-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “When his sovereignty was obstructed by his [step-]mother (mātrā pratihate rājye), Rāma was sent forth into exile (pravrājito vanam), and he roams (caraty eṣa) this great forest together with me and his wife (bhāryayā ca).
+
+**15:** “While this hero of divine majesty (deva-prabhāvasya) was dwelling in the solitary forest (vijane vane), his wife was carried off by a rākṣasa (rakṣasāpahṛtā bhāryā); seeking her (yām icchantau), we two have come here (ihāgatau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -787,6 +873,12 @@ calves [legs, legless]; *vane* = in forest; *kim artham vaa* = for what, reason,
 a topless, rootless tree trunk you are sprawling in the forest, how so, or, for what reason?" Lakshmana
 asked the demon thus. [3-70-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“But who are you (tvaṃ tu ko vā), and wherefore (kim-arthaṃ vā) do you writhe about (viceṣṭase) in the forest with shattered shanks (bhagna-jaṅghaḥ), resembling a headless trunk (kabandha-sadṛśaḥ) with a blazing mouth upon your chest (āsyenorasi dīptena)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -831,6 +923,12 @@ on his part; *tat indra vacanam smaran* = that, Indra's, words, on memorising; *
 
 But Kabandha is highly delighted when Lakshmana spoke that way, as the words of Indra came to his memory,
 and he said these words in reply. [3-70-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Lakṣmaṇa, Kabandha, delighted (prītaḥ) as he recalled those words of Indra (tad indra-vacanaṃ smaran), spoke these words in reply (uttaraṃ vacaḥ):
 </details>
 </details>
 
@@ -888,6 +986,12 @@ The arms, mouth-to-stomach, and another organ are the epitomes of mortals. A
 mortal does everything with arms and devours anything with mouth. *martyaa kartaa bhoktaa
 ca* Now those shackles of mortality are severed and he is ready for immortality.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Welcome to you two (svāgataṃ vām), O tigers among men (nara-vyāghrau)! By good fortune (diṣṭyā) do I behold you both, and by good fortune have these two binding arms (bāhu-bandhanau) of mine been severed (nikṛttau) by you two!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -944,6 +1048,12 @@ that you may listen while I narrate it to you. [3-70-19]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऎप्पत्तनॆय सर्ग सम्पूर्णवायितु.॥70॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And how (yathā) this deformed shape of mine (virūpaṃ me rūpam) was incurred through my own insolence (avinayāt), hear that (tan me śṛṇu), O tiger among men, as I relate it to you in truth (tattvataḥ śaṃsatas tava)!”
 </details>
 </details>
 

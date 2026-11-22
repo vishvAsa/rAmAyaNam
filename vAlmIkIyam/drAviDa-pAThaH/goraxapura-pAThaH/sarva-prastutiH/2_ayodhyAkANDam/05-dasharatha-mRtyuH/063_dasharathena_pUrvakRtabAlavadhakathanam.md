@@ -73,6 +73,12 @@ chetanaH* = with mind affiliated with grief; *abhyapadyata* = got into;
 The king, awakened after some time, with his mind afflicted with grief, got into an
 anxious thinking.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awakening after a brief moment with his consciousness overwhelmed by grief (pratibuddho muhūrtena śokopahata-cetanaḥ), King Daśaratha then fell into deep brooding (atha rājā daśarathaḥ sa cintām abhyapadyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ Rahu.
 
 Due to banishing of Rama and Lakshmana, a great calamity befell on Dasaratha who was
 equal in strength to Indra like sun seized by obscurity, which is attributed to the demon Rahu.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Because of the exile of Rāma and Lakṣmaṇa, a calamitous affliction entered into that king who resembled Vāsava (rāma-lakṣmaṇayoś caiva vivāsād vāsavopamam āviveśopasargas taṃ), just as the demonic darkness of Rāhu eclipses the sun (tamaḥ sūryam ivāsuram).
 </details>
 </details>
 
@@ -171,6 +183,12 @@ After Rama along with his wife departed to the forest, Dasaratha the king of Kos
 recalling his earlier sin, wanted to tell Kausalya, whose eye-corners were dark in colour all about
 it.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma had departed with his wife, the lord of Kosala remembered a past misdeed of his own (sabhārye nirgate rāme ... smṛtvā duṣkṛtam ātmanaḥ), and desired to speak to dark-cornered-eyed Kausalyā (kausalyāṃ kośaleśvaraḥ vivakṣur asitāpāṅgām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -221,6 +239,12 @@ ago).
 After Rama was sent into exile to the forest, King Dasaratha, on the sixth night at
 mid-night, was recalling his sin done (long ago).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On the sixth night after Rāma had gone forth into the forest (sa rājā rajanīṃ ṣaṣṭhīṃ rāme pravrājite vanam), at midnight King Daśaratha, recalling the misdeed he had committed (ardha-rātre daśarathaḥ saṃsmaran duṣkṛtaṃ kṛtam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -266,6 +290,12 @@ to Kausalya; *putrashokaartaam* = who was suffering from sorrow for her son.
 
 King Dasaratha, afflicted by grief for his son, recalling his sin, spoke the
 following words to Kausalya who was suffering from sorrow for her son.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stricken with grief for his son and remembering his own misdeed (sa rājā putra-śokārtaḥ smṛtvā duṣkṛtam ātmanaḥ), that king spoke these words to Kausalyā, who was likewise stricken with grief for her son (kausalyāṃ putra-śokārtām idaṃ vacanam abravīt):
 </details>
 </details>
 
@@ -313,6 +343,12 @@ obtains; *tadeva* = it surely; *aatmanaH* = his own; *karmajam* = result.
 "O, blessed lady! O gracious one! A doer reaps surely the fruit of his own deeds
 corresponding to the nature of work either good or bad, of that which he does!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever deed a man performs, O auspicious lady, whether auspicious or inauspicious (yad ācarati kalyāṇi śubhaṃ vā yadi vāśubham), the doer himself, O blessed one, reaps that very fruit born of his own action (tad eva labhate bhadre kartā karmajam ātmanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -359,6 +395,12 @@ vaa* = (or) their defect; *saH* = he; *uchoyate ha* = is surely called;
 
 "He who does not consider, while undertaking actions, the relative value of their
 fruits as well as the utilities or defects accruing from them, is surely called a fool."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who at the outset of actions does not know the weight or lightness of ends, or their fruit and fault (guru-lāghavam arthānām ārambhe karmaṇāṃ phalam doṣaṃ vā yo na jānāti), is truly called a foolish child (sa bāla iti hocyate).
 </details>
 </details>
 
@@ -411,6 +453,12 @@ to grief; *phalaagame* = after arrival of fruit."
 (large and luscious) fruits and nourishes Palasa trees, by cutting off a mongo grove, he will come
 to grief after bearing of their fruit."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Someone who cuts down a mango grove and waters palāśa trees instead (kaścid āmra-vanaṃ chittvā palāśāṃś ca niṣiñcati), greedy for fruit upon seeing their flamboyant blossoms, grieves when the season of fruit arrives (puṣpaṃ dṛṣṭvā phale gṛdhnuḥ sa śocati phalāgame).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -456,6 +504,12 @@ at the time of fruit-bearing; *shochet* = will come to grief.
 
 "He who without knowing the result goes running towards action, will come to grief
 as a nourisher of Kimsuka trees coming to grief at the time of their fruit-bearing."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For he who rushes into an action without discerning its future consequence (avijñāya phalaṃ yo hi karma tv evānudhāvati) must grieve at the time of fruit, just like the waterer of kiṃśuka trees (sa śocet phala-velāyāṃ yathā kiṃśuka-secakaḥ).
 </details>
 </details>
 
@@ -507,6 +561,12 @@ mango grove. durmatiH = being wicked-minded; *tyaktvaa* = leaving; *raamam* = Ra
 "I nourished Palasa trees, by cutting off mango grove. Being wicked-minded in
 abandoning Rama at the time of arrival of fruit, I am lamenting thereafter."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Just so did I cut down a mango grove and water palāśa trees (so 'ham āmra-vanaṃ chittvā palāśāṃś ca nyaṣecayam); having cast away Rāma at the very season of fruit, fool that I am, I grieve afterward (rāmaṃ phalāgame tyaktvā paścāc chocāmi durmatiḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -554,6 +614,12 @@ a bow; *idam* = this; *paapam* = sin; *kR^itam* = was done; *kumaareNa*
 "This sin was done by me while I was young and wielding a bow. At that time, I was
 famous as a young man, who can shoot heard (but unseen) object by an arrow, O Kausalya!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When I was a young prince bearing the bow, O Kausalyā, having won renown (labdha-śabdena kausalye kumāreṇa dhanuṣmatā) with the boast, ‘The prince is a piercer by sound!’—this sin was committed by me (kumāraḥ śabda-vedhīti mayā pāpam idaṃ kṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -600,6 +666,12 @@ me; *yathaa syaat* = perhaps as; *viSam* = a poison; *bhakSitam* = eaten;
 
 "This grief, obtained by my own accord, has befallen me, as by a boy in ignorance
 eating poison in the world; O, Kausalya!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And this sorrow of my own making has now overtaken me, O queen (tad idaṃ me 'nusamprāptaṃ devi duḥkhaṃ svayaṃ-kṛtam), just like poison eaten in this world by a child out of delusion (sammohād iha bālena yathā syād bhakṣitaṃ viṣam)!
 </details>
 </details>
 
@@ -649,6 +721,12 @@ eating poison in the world; O, Kausalya!"
 in the same manner, without knowing accurately the correct result of hitting a target by means of
 sound only."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Just as some other ordinary man might be deluded by palāśa blossoms (yathānyaḥ puruṣaḥ kaścit palāśair mohito bhavet), even so the consequence born of piercing by sound remained unknown to me as well (evaṃ mamāpy avijñātaṃ śabda-vedhyamayaṃ phalam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -695,6 +773,12 @@ and desire (for hunting).
 
 "O, Kausalya! You were unmarried till then and I was the Prince Regent. Then came
 the rainy season which enhanced excitement and desire (for hunting)."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You were then not yet wedded, O queen, and I was the heir apparent (devy anūḍhā tvam abhavo yuvarājo bhavāmy aham), when the rainy season arrived, heightening passion and desire (tataḥ prāvṛḍ anuprāptā mada-kāma-vivardhinī).
 </details>
 </details>
 
@@ -743,6 +827,12 @@ spirits.
 "The sun, partaking fluids from earth and warming the world with its rays, entered
 the terrible southern quarter haunted by spirits."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having drunk up the juices of the earth and scorched the world with his rays (upāsya ca rasān bhaumāṃs taptvā ca jagad aṃśubhiḥ), the sun entered the dread southern quarter frequented by the departed (paretācaritāṃ bhīmāṃ ravir āviśate diśam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -788,6 +878,12 @@ frogs; cuckoos and peacocks; *kajR^iSire* = were full of joy."
 
 "Heat disappeared suddenly. Resplendent clouds appeared in the sky. All frogs,
 cuckoos and peacocks were full of joy."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Heat vanished at once, cool rain-clouds came into view (uṣṇam antardadhe sadyaḥ snigdhā dadṛśire ghanāḥ), and thereupon all the frogs, spotted deer, and peacocks rejoiced (tato jahṛṣire sarve bheka-sāraṅga-barhiṇaḥ).
 </details>
 </details>
 
@@ -836,6 +932,12 @@ wind."
 "Birds with moistened top of their wings as if they bathed, reached with great
 difficulty the trees, the tops of which were shaken off by rain and wind."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With the upper surfaces of their wings drenched, bathed as though after an arduous vow, the birds (klinna-pakṣottarāḥ snātāḥ kṛcchrād iva patatriṇaḥ) sought out the trees whose crests were tossed by rain and wind (vṛṣṭi-vātāvadhūtāgrān pādapān abhipedire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -881,6 +983,12 @@ rut; *ababhau* = glowed; *toyaraashiriva* = like an ocean.
 
 "Enveloped by water falling again and again on the water already fallen, the
 mountain with its antelopes in rut, glowed like an ocean."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Covered by the water that had already fallen and by that which was falling unceasingly (patitenāmbhasācchannaḥ patamānena cāsakṛt), the mountain with its rutting elephants shone like the motionless ocean (ābabhau matta-sāraṅgas toya-rāśir ivācalaḥ).
 </details>
 </details>
 
@@ -929,6 +1037,12 @@ varNaani* = with white and red colours; *sabhasmaani* = along with ashes;
 with white and red colours because of their admixture with ashes and mountain-minerals on the
 way."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even the clear mountain streams, tinged pale-white and reddish from mineral ores and mixed with ashes (pāṇḍurāruṇa-varṇāni srotāṃsi vimalāny api ... giri-dhātubhyaḥ sa-bhasmāni), flowed windingly like serpents (susruvur bhujaṅgavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -975,6 +1089,12 @@ churned with reddish water; *unmaargajalogaamini* = carrying water by a wrong wa
 "The water-streams, which were crystal-clear till then, became churned with reddish
 waters, carrying water by a wrong way, after the onset of rain."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the coming of the rain-clouds, even pellucid streams grew turbid with reddish waters and overflowed their banks (ākulāruṇa-toyāni srotāṃsi vimalāny api unmārga-jala-vāhinī babhūvur jaladāgame).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1020,6 +1140,12 @@ a chariot; dhanuSmaan; wearing a bow; *ishhumaan* = and arrows.
 
 "With a wish to do hunting as an exercise in that most comfortable season, I went
 along Sarayu River, in a chariot, wearing bow and arrows."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In that most delightful season, armed with bow and arrows and mounted on my chariot (tasminn atisukhe kāle dhanuṣmān iṣumān rathī), resolved upon the sport of hunting, I followed the course of the river Sarayū (vyāyāma-kṛta-saṅkalpaḥ sarayūm anvagāṃ nadīm).
 </details>
 </details>
 
@@ -1071,6 +1197,12 @@ kaarmukaH* = I was ready with my bow; *ekaante* = at a solitary place.
 or an elephant or any other wild animal coming in the night at that place for the purpose of
 drinking water, I was ready with my bow at a solitary place."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With my senses unsubdued, desiring to slay at night a buffalo, or an elephant come down to the river at the watering-place, or some other beast of prey (nipāne mahiṣaṃ rātrau gajaṃ vābhyāgataṃ nadīm anyaṃ vā śvāpadaṃ kañcij jighāṃsur ajitendriyaḥ), I waited there at night in that solitary spot with my bow uncovered (tasmiṃs tatrāham ekānte rātrau vivṛta-kārmukaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1117,6 +1249,12 @@ which arrived; *tatra* = there.
 
 "Hearing the sound, I killed turning towards it, a wild animal, which came to the
 bank of Sarayu River and another violent beast too which came there."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There, concealed in ambush, I slew wild game that came to the bank (tatrāhaṃ saṃvṛtaṃ vanyaṃ hatavāṃs tīram āgatam), and other beasts of prey as well that drew near upon hearing the sound (anyaṃ cāpi mṛgaṃ hiṃsraṃ śabdaṃ śrutvābhyupāgatam).
 </details>
 </details>
 
@@ -1190,6 +1328,14 @@ an arrow; *diiptam* = shining; *ashiiviSopamam* = and equal to a serpent.
 "With an intent to hit that elephant, I drew out a shining arrow resembling a
 serpent, targeted towards the direction sound and discharged it."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** “Then in the darkness, beyond the range of sight, I heard the gurgling sound of a pitcher being filled in the water (athāndhakāre tv aśrauṣaṃ jale kumbhasya pūryataḥ acakṣur-viṣaye ghoṣaṃ), sounding like the trumpeting of a drinking elephant (vāraṇasyeva nardataḥ).
+
+**25:** “Thereupon, drawing forth a blazing arrow resembling a venomous serpent (tato 'haṃ śaram uddhṛtya dīptam āśīviṣopamam), eager to bag an elephant, I took aim toward the sound and let fly (śabdaṃ prati gaja-prepsur abhilakṣya tv apātayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1214,6 +1360,12 @@ serpent, targeted towards the direction sound and discharged it."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अय्यो! नन्नन्तह तपस्विय मेलॆ शस्त्रद प्रहार हेगॆ सम्भविसितु? नानादरो नदिय ई एकान्त तीरदल्लि रात्रियल्लि नीरु तरलु बन्दिद्दॆ.॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As I released that whetted, serpent-like shaft (amuñcaṃ niśitaṃ bāṇam aham āśīviṣopamam), there arose at dawn the distinct cry of a forest-dweller (tatra vāg uṣasi vyaktā prādur āsīd vanaukasaḥ), crying ‘Alas! Alas!’ as he fell into the water, struck in his vital parts by the arrow (hā heti patatas toye bāṇābhihata-marmaṇaḥ).
 </details>
 </details>
 
@@ -1297,6 +1449,16 @@ was done; *mayaa* = by me; *karya* = to any one?
 
 'I came to the river, which is away from habitation, in the night to fetch water. By
 whom I was hit by an arrow? On the other hand what wrong have I done to anyone?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** “When that arrow struck home, a human voice rang out there (tasmin nipatite bāṇe vāg abhūt tatra mānuṣī): ‘How could a weapon fall upon an ascetic such as I (katham asmad-vidhe śastraṃ nipatet tu tapasvini)?
+
+**28:** “‘At night I came to this solitary river to fetch water (praviviktāṃ nadīṃ rātrāv udāhāro 'ham āgataḥ); by whom have I been struck with an arrow, and to whom have I done any wrong (iṣuṇābhihataḥ kena kasya vā kiṃ kṛtaṃ mayā)?
+
+**29:** “‘How indeed can death by a weapon be dealt to an ascetic like me (kathaṃ nu śastreṇa vadho mad-vidhasya vidhīyate), who has laid aside all violence and lives in the forest on wild produce (ṛṣer hi nyasta-daṇḍasya vane vanyena jīvataḥ)?
 </details>
 </details>
 
@@ -1388,6 +1550,16 @@ violates his teacher's bed; *saadhu* = as good.
 No one will admire him, as for instance like any man seeking the bed of his preceptor's wife, as
 good."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** “‘Who could seek any gain by slaying me, who wear only a mass of matted locks and garments of bark and deer-skin (jaṭā-bhāra-dharasyaiva valkalājina-vāsasaḥ), or what wrong have I done to him (ko vadhena mamārthī syāt kiṃ vāsyāpakṛtaṃ mayā)?
+
+**31:** “‘No one could approve of an act undertaken thus fruitlessly and fraught with pure ruin (evaṃ niṣphalam ārabdhaṃ kevalānartha-saṃhitam), any more than one would approve of a violator of his guru’s bed (na kaścit sādhu manyeta yathaiva guru-talpagam)!
+
+**32:** “‘I do not grieve so much over the loss of my own life (nāhaṃ tathānuśocāmi jīvita-kṣayam ātmanaḥ); rather, at my slaying, I grieve for both my mother and my father (mātaraṃ pitaraṃ cobhāv anuśocāmi mad-vadhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1434,6 +1606,12 @@ both; *maataram* = for my mother; *pitaaramcha* = and father.
 "I do not worry that much of my death. I worry both for my mother and father, in the
 case of my death."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘When I have met my death, what livelihood will that aged couple lead (mayi pañcatvam āpanne kāṃ vṛttiṃ vartayiṣyati), who have been supported by me for so long (tad etan mithunaṃ vṛddhaṃ cira-kāla-bhṛtaṃ mayā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1479,6 +1657,12 @@ case of my death."
 
 'By what means of livelihood this elderly couple, maintained since a long time by
 me, support themselves when I obtain my death?'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘My aged mother and father and I myself have all been slain by a single arrow (vṛddhau ca mātā-pitarāv ahaṃ caikeṣuṇā hataḥ); by what utter fool of undisciplined mind have we all been struck down (kena sma nihatāḥ sarve subālenākṛtātmanā)?’
 </details>
 </details>
 
@@ -1570,6 +1754,16 @@ grief."
 "Hearing his pathetic cry, weeping profusely during the night, I became unconscious
 frequently, utterly bewildered as I was, due to flare-up of my grief."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**35:** “Hearing that piteous voice, as I yearned to follow dharma and was stricken with anguish (tāṃ giraṃ karuṇāṃ śrutvā mama dharmānukāṅkṣiṇaḥ), the bow together with its arrow fell from my hands to the ground (karābhyāṃ sa-śaraṃ cāpaṃ vyathitasyāpatad bhuvi).
+
+**36:** “Hearing him lamenting piteously at length in the night (tasyāhaṃ karuṇaṃ śrutvā niśi lālapato bahu), I was bewildered by the rush of grief and became utterly bereft of my senses (sambhrāntaḥ śoka-vegena bhṛśam āsaṃ vicetanaḥ).
+
+**37:** “Approaching that spot with my spirit crushed and my mind deeply anguished (taṃ deśam aham āgamya dīna-sattvaḥ sudurmanāḥ), I beheld on the bank of the Sarayū the ascetic struck down by my arrow (apaśyam iṣuṇā tīre sarayvās tāpasaṃ hatam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1597,6 +1791,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! वनदल्लि इरुत्ता नानु निनगॆ याव अपराध माडिद्दॆ? अदरिन्द नीनु बाणदिन्द नन्नन्नु हॊडॆदॆयल्ल? नानादरो तायि-तन्दॆयवरिगॆ नीरु तरलु बन्दिद्दॆ.॥38½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Lying tormented by the arrow-shaft, with the mass of his matted locks disheveled, his pitcher of water flung aside (avakīrṇa-jaṭā-bhāraṃ praviddha-kalaśodakam), and his limbs smeared with dust and blood (pāṃsu-śoṇita-digdhāṅgaṃ śayānaṃ śalya-pīḍitam).
 </details>
 </details>
 
@@ -1643,6 +1843,12 @@ the arrow.
 the ascetic, hit by the arrow at the bank of Sarayu River, with his tresses of hair scattered, his
 pitcher of water thrown asunder, having his limbs anointed with sand and blood lying down as he
 was, hurt by the arrow."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fixing his eyes upon me as I stood terrified and troubled in mind (sa mām udvīkṣya netrābhyāṃ trastam asvastha-cetasam), he then spoke these stern words, as if about to consume me with his ascetic splendor (ity uvāca tataḥ krūraṃ didhakṣann iva tejasā):
 </details>
 </details>
 
@@ -1691,6 +1897,12 @@ he; *uvaacha* = spoke; *iti* = thse; *kruuram* = harsh(words); *tataH*
 Looking up with his eyes, as if going to scorch with his glory, at me who stood
 terrified and sick in mind, he spoke those harsh words then:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘What wrong have I done to you, O king, dwelling in the forest (kiṃ tavāpakṛtaṃ rājan vane nivasatā mayā), that I have been struck down by you while seeking to fetch water for my parents (jihīrṣur ambho gurv-arthaṃ yad ahaṃ tāḍitas tvayā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1738,6 +1950,12 @@ residing; *vane* = in a forest?"
 "O, king! I, who was carrying water for my parents, was hit by you. What was the
 harm done to you by me who is residing in a forest?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Truly, when I have been struck in my vital parts by a single arrow (ekena khalu bāṇena marmaṇy abhihate mayi), two aged and blind ones have been slain—my mother and my father who begot me (dvāv andhau nihatau vṛddhau mātā janayitā ca me)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1783,6 +2001,12 @@ father; *andhau* = who are blind; *vR^iddhau* = and aged.
 
 'Being hit on my secret part by a single arrow, you virtually killed both my mother
 and father, who are blind and aged.'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘How shall those two frail and blind ones, parched with thirst and waiting for me (tau kathaṃ durbalāv andhau mat-pratīkṣau pipāsitau), long endure their painful thirst sustained only by hope (ciram āśā-kṛtāṃ tṛṣṇāṃ kaṣṭāṃ sandhārayiṣyataḥ)?
 </details>
 </details>
 
@@ -1832,6 +2056,12 @@ and attended with expectation; *chiram* = since long; *nuunam* = I am sure.
 
 "Both of them, weak blind and thirsty, might have refrained their thirst with
 difficulty and waited with expectation of my arrival since long. I am sure."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Surely there is no fruit either of austerity or of sacred learning (na nūnaṃ tapaso vāsti phala-yogaḥ śrutasya vā), since my father does not know that I am lying fallen upon the ground (pitā yan māṃ na jānāti śayānaṃ patitaṃ bhuvi)!
 </details>
 </details>
 
@@ -1884,6 +2114,12 @@ on the ground.
 borne fruit because my father does not have information about me, having fallen down and lying on
 the ground.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And even if he knew, what could he do, powerless and unable to walk (jānann api ca kiṃ kuryād aśaktir aparikramaḥ)—just as one tree is powerless to save another tree that is being cleft by a storm (bhidyamānam ivāśaktas trātum anyo nago nagam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1929,6 +2165,12 @@ the ground.'
 
 "What my disabled father, unable to walk around can do, even if he knows like a tree
 unable to protect another tree which is being cut off?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Go yourself swiftly and tell my father, O Rāghava (pitus tvam eva me gatvā śīghram ācakṣva rāghava), lest in his wrath he burn you up like a blazing fire consuming a forest (na tvām anudahet kruddho vanaṃ vahnir ivaidhitaḥ)!
 </details>
 </details>
 
@@ -2005,6 +2247,14 @@ you."
 'O, king! This foot-path will lead you to my father's hermitage. After going there,
 seek his graciousness, lest he should get angry and execrate you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**46:** “‘This single-file footpath, O king, leads to my father’s hermitage (iyam ekapadī rājan yato me pitur āśramaḥ); go and propitiate him, lest in his anger he curse you (taṃ prasādaya gatvā tvaṃ na tvāṃ sa kupitaḥ śapet).
+
+**47:** “‘Draw the arrow-shaft from me, O king! This sharp arrow pierces my vital spot (viśalyaṃ kuru māṃ rājan marma me niśitaḥ śaraḥ), just as a rushing torrent of water eats away a soft, high riverbank (ruṇaddhi mṛdu sotsedhaṃ tīram ambu-rayo yathā)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2066,6 +2316,14 @@ suffer; *praaNaiH* = with his lives; *vishalyaH* = without the arrow-head;
 arrow-head in his body he will suffer, even though surviving. But after extracting the arrow-head,
 he will die."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**48:** “‘With the arrow-shaft in him he is tormented in his vital breaths, yet if the shaft is drawn out he will perish at once (sa-śalyaḥ kliśyate prāṇair viśalyo vinaśiṣyati)’—such was the anxious thought that entered into me regarding the extraction of his arrow (iti mām aviśac cintā tasya śalyāpakarṣaṇe).
+
+**49:** “Then the sage’s son perceived the anxious thought in the heart of me (lakṣayām āsa hṛdaye cintāṃ muni-sutas tadā), who was distressed, wretched, and racked with grief (duḥkhitasya ca dīnasya mama śokāturasya ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2114,6 +2372,12 @@ pitiable; *shokaaturasya* = suffering from anguish.
 
 "Then, the son of the sage perceived worry in the heart of myself, who was lamenting
 pitiably, suffering from anguish."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fainting, sinking, with his limbs contorted, writhing on the ground, and nearing his end (tāmyamānaḥ ... sīdamāno vivṛttāṅgo veṣṭamāno gataḥ kṣayam), he spoke to me with difficulty like one in supreme agony (sa māṃ kṛcchrād uvāca paramārtavat):
 </details>
 </details>
 
@@ -2187,6 +2451,14 @@ heart; *brahmahatyaakR^itam* = caused by the thought of your having killed a Bra
 'Suppressing my grief with firmness, I am becoming stable-minded. Let the torment in
 your heart, caused by the thought of your having killed Brahmana be removed.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**51:** “‘Restraining my grief with fortitude, I remain steadfast in mind (saṃstabhya śokaṃ dhairyeṇa sthira-citto bhavāmy aham); let the fear of the sin of slaying a brahmin be banished from your heart (brahma-hatyā-kṛtaṃ pāpaṃ hṛdayād apanīyatām)!
+
+**52:** “‘I am not a twice-born brahmin, O king—let there be no anguish in your mind (na dvijātir ahaṃ rājan mā bhūt te manaso vyathā); I was begotten by a Vaiśya upon a Śūdra woman, O lord of the realm (śūdrāyām asmi vaiśyena jāto janapadādhipa)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2247,6 +2519,12 @@ your mind. I am born through a Sudra woman by a Vysya.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि अरवत्तमूरनॆय सर्ग पूर्णवायितु.॥63॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As he was speaking thus with difficulty, struck in his vital parts by the arrow (itīva vadataḥ kṛcchrād bāṇābhihata-marmaṇaḥ), rolling about, helplessly convulsing, and trembling upon the ground (vighūrṇato viceṣṭasya vepamānasya bhūtale)—
 </details>
 </details>
 

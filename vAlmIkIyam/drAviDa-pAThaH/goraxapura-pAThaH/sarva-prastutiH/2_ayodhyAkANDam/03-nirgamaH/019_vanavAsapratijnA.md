@@ -69,6 +69,12 @@ equivalent to death; *navivyathe* = was unruffled; *abrabiit* = spoke; *idam*
 Rama the annihilator of enemies heard those harsh and deadly words but was
 unruffled. He spoke these words to Kaikeyi.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that unwelcome speech, which was as dreadful as death itself, Rāma, the slayer of foes, was not perturbed in the least, and spoke these words to Kaikeyī:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +121,12 @@ hair and covered with a hide.
 
 "Let it be, as you said it. I shall fulfil the king's promise, go to the forest from
 here to reside there, wearing braided hair and covered with a hide."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So be it (evam astu)! Wearing matted locks and garments of bark, I shall depart hence to dwell in the forest, upholding the solemn pledge of the king.”
 </details>
 </details>
 
@@ -164,6 +176,12 @@ inviolable; *arindamaH* = the subduer of enemies; *naabhinandati* = is not greet
 "But I want to know why the king, the inviolable and the subduer of enemies, is not
 greeting me today as before."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet this alone I wish to know: wherefore does the invincible lord of the earth, the tamer of foes, not greet me joyfully today as he did before?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,6 +227,12 @@ rags and braided hair; *bhava* = become; *supriitaa* = delighted well.
 
 "Oh, queen! you need not be indignant. I am telling before you that I shall go to
 the forest, wearing rags and braided hair. Become delighted well."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor should any anger or suspicion (manyuḥ) be harbored by you, O queen! I declare before you: be well pleased—I shall go to the forest wearing bark-cloth and matted locks!”
 </details>
 </details>
 
@@ -256,6 +280,12 @@ commanded; *hitena* = as well = wisher; *guruNaa* = as person with right conduct
 "How can I not do faithfully an action dear to my father, as commanded by him as
 well-wisher, venerable man, as person with right conduct and as king."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When commanded by my benefactor, preceptor, father, and grateful king, what dear service would I not perform with an untroubled heart (visrabdhaḥ)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -301,6 +331,12 @@ burning indeed;ekam = one; *aliikam* = displeasure; *maanasam* = of mind;
 
 "My heart is burning indeed with one sorrowful feeling that king himself has not
 informed me about Bharata's coronation."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“One mental sorrow (alīkam) alone burns my heart: that the king did not himself declare to me the consecration of Bharata!”
 </details>
 </details>
 
@@ -352,6 +388,12 @@ brother.
 "Without being asked, I myself would have gladly offered even Sita with kingdom,
 even my life, loved ones and wealth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For even unprompted (apracoditaḥ), I would joyfully give away to my brother Bharata my own Sītā, the kingdom, my dear life-breaths, and all my wealth!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -399,6 +441,12 @@ the sake of your beloved desire.
 
 "Being directed by king, who is my father himself, how much more should I tell that
 I can give everything to Bharata, duly obeying father's promise to fulfil your beloved desire."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How much more readily, then, when commanded by my father the lord of men himself, and while upholding his pledge in order to fulfill what is dear to you!”
 </details>
 </details>
 
@@ -449,6 +497,12 @@ fixed upon the floor.
 "That is why, you console him. Why indeed the king is thus slowly shedding tears,
 with eyes gazed upon the floor?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore console the bashful king! For why is it that the lord of the earth, keeping his eyes fixed upon the ground, slowly sheds tears?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -497,6 +551,12 @@ itself; *hayaiH* = on horses; *shiighrajavaiH* = with rapid speed; *aanayitum*
 "Let messengers go now itself on fleet horses to bring Bharata from maternal uncle's
 house as per orders of the king."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let messengers set forth this very day at the king's command on steeds of swift pace to bring Bharata back from his maternal uncle's house!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -542,6 +602,12 @@ without reflecting; *vaakyam* = on words; *pituH* = of father.
 
 "Immediately, I shall go to live in forest of Dandaka for fourteen years, without
 reflecting on whether my father's words are right or wrong."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without questioning my father's word, here I depart in all haste for the Daṇḍaka forest to dwell there for fourteen years!”
 </details>
 </details>
 
@@ -592,6 +658,12 @@ glad; *shraddhadhaanaa* = believing; *prasthaanam* = his departure;
 Hearing Rama's words, Kaikeyi felt glad that he would certainly go and urged him to
 make haste at once.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of Rāma, Kaikeyī rejoiced; convinced now of his departure (prasthānaṃ śraddadhānā), she urged Rāghava to make haste.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -637,6 +709,12 @@ make haste at once.
 
 "Let it be so. Messengers can go on horses having rapid speed, to bring back Bharata
 from his maternal uncle's house."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So let it be! Envoys shall go forth on steeds of swift pace to bring Bharata back hither from his maternal uncle's house.”
 </details>
 </details>
 
@@ -684,6 +762,12 @@ why tvam = you; *arhasi* = are fit; *gantum* = to go; *vanam* = to forest;
 
 "But I think it is not quite appropriate for you who are enthusiastic to go to
 forest, to delay further."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet since you are eager to depart (utsukasya), I deem any delay unfitting for you; therefore, O Rāma, you ought to depart hence for the forest at once!”
 </details>
 </details>
 
@@ -734,6 +818,12 @@ be removed.
 "It is nothing but shyness that the king is not able to speak to you. Oh Rama, the
 best of men! Do not worry about it."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And as for the fact that the king, overcome with shame (vrīḍānvitaḥ), does not address you himself—that is nothing at all, O best of men; let this distress be cast aside!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -779,6 +869,12 @@ immediatly; *vanam* = to the forest.
 
 "Oh, Rama! Your father will neither take his bath nor eat a meal until you leave the
 city for the forest immediately.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For so long as you have not departed from this city for the forest in all haste, O Rāma, your father will neither bathe nor partake of food!”
 </details>
 </details>
 
@@ -829,6 +925,12 @@ with murchhitaH = fainted; *nyapatat* = fell; *tasmin paryaN^ke* = in that couch
 Hearing these words, the king saying "what a pity! How much misery!" was overwhelmed
 with sorrow, fainted and fell in that couch adorned with gold.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sighing “Fie, alas! How cruel!”, the king, overwhelmed with grief, fell down in a swoon (mūrcchitaḥ) upon that couch adorned with gold.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -875,6 +977,12 @@ Kaikeyi; *vaajiiva* = as horse; *aahataH* = was hit; *kashayaa* = by whip.
 Rama lifted up the king and soon got hurried up to leave for the forest he was again
 instigated by Kaikeyi as a horse was hit by a whip.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raising up the king, Rāma too, goaded onward by Kaikeyī like a noble steed struck with a whip (kaśayeva hato vājī), made haste to depart for the forest.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -920,6 +1028,12 @@ spoke; *vaakyam* = the words; *kaikeyiim* = to Kaikeyi.
 
 Rama after hearing that vulgar woman's words, which were harsh and having
 consequence, was unruffled and spoke these words to Kaikeyi.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that unwelcome speech of the ignoble queen, fraught with dreadful consequences (dāruṇodayam), Rāma, wholly free from distress (gatavyathaḥ), spoke these words to Kaikeyī:
 </details>
 </details>
 
@@ -969,6 +1083,12 @@ equal to R^ishhibhiH = sages; *aasthitam* = abiding; *dharmam* = in righteousnes
 
 "Oh queen! I am not concerned with wealth. I want to receive the world hospitable.
 Know me as equal to a sage, abiding in righteousness alone."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I do not desire to dwell in the world as one intent upon wealth and power (arthaparaḥ), O queen; know me to be equal to the sages, steadfastly abiding in stainless righteousness (vimalaṃ dharmam)!”
 </details>
 </details>
 
@@ -1022,6 +1142,12 @@ do; *yat priyam* = that is dearer; *atrabhavataH* = to my revered father;
 "If I have to do whatever action is dearer to my revered father, that action is just
 done in all respects even by renouncing life."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever dear service can possibly be rendered by me to my revered father—even by abandoning my very life-breaths—know that to be accomplished in every way!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1073,6 +1199,12 @@ father; *tasya vachana kriyaavaa* = or doing what he commands.
 "There is not indeed anything of greater performance of duty than doing service to
 father or than doing what he commands."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For there is no practice of righteousness (dharmacaraṇam) greater than this: namely, dutiful service toward one's father, or the fulfillment of his word.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1121,6 +1253,12 @@ fourteen years; *bhavatyaaH vachanaat* = as per your word.
 
 "Even if our reverent father does not tell me, I shall reside in the forest, devoid
 of people, now for fourteen years as per your word."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even though uncommanded by my revered father, at your word alone I shall dwell for fourteen years in the solitary forest!”
 </details>
 </details>
 
@@ -1172,6 +1310,12 @@ any; *guNam* = merit; *mayi* = in me; *nuunam* = certain!
 though you had every authority to tell, me directly. By this, it is known that you have not seen
 any merit in me. It is certain!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely, O Kaikeyī, you did not recognize any virtue in me at all, seeing that—although you yourself hold even greater authority over me (īśvaratarā satī)—you spoke instead to the king!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1218,6 +1362,12 @@ go; *mahat dandakaanaam vanam* = to the great forest of Dandaka.
 " Today itself, I shall go to the forest of Dandaka after bidding, farewell to my
 mother and also after consoling Sita."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Wait only until I take leave of my mother (mātaram āpṛcche) and console Sītā; immediately thereafter, this very day, I shall depart for the great forest of the Daṇḍakas!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1263,6 +1413,12 @@ father; *saH* = It; *sanaatanaH dharamaH* = is indeed an agae old practice.
 
 "While ruling the kingdom, see that Bharata serves our father well. It is indeed an
 age-old practice."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You must act in such a way that Bharata protects the kingdom and dutifully serves his father; for that is the eternal law of righteousness (dharmaḥ sanātanaḥ).”
 </details>
 </details>
 
@@ -1311,6 +1467,12 @@ was hurt with grief; *bhR^isham* = very much; *ashaknuvan* = was unable;
 Dasaratha after hearing Rama's words was hurt very much with grief was unable to
 talk and wept loudly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Rāma, his father, plunged into fathomless sorrow and unable to speak a word through grief, wept aloud with a great cry.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1357,6 +1519,12 @@ honourable.
 
 That Rama, with great brilliance, came out, after duly offering obeisance to the
 feet of his father who was fainted and also to the feet of that vulgar Kaikeyi.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed in reverence to the feet of his unconscious father the king, and to those of the ignoble Kaikeyī as well, Rāma of mighty splendor went forth.
 </details>
 </details>
 
@@ -1407,6 +1575,12 @@ circumabulatory salutation; *pitaram* = to his father; *kaikeyiimcha* = and Kaik
 Rama made circumambulatory salutation to his father as well as Kaikeyi, left that
 palace and saw his friends.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having circumambulated his father and Kaikeyī, keeping them auspiciously to his right (pradakṣiṇam), Rāma emerged from that inner apartment and beheld his own circle of devoted friends.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1454,6 +1628,12 @@ paripuurNaakshhaH* = with tearful eyes; *anujagaamaH* = accompanied;
 
 Lakshmana, the son of Sumitra, felt very angry with his eyes filled with tears and
 accompanied behind Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his eyes brimming with tears, Lakṣmaṇa, the increaser of Sumitrā's joy, followed closely behind him in fierce wrath (paramakruddhaḥ).
 </details>
 </details>
 
@@ -1507,6 +1687,12 @@ collected coronation; *dR^ishhTim* = the glance; *saapakshhaH* = kept respectful
 Rama did a circumbulatory salutation around the auspicious materials collected for
 the propound coronation and having fixed his attention respectfully on them, moved away slowly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Circumambulating the vessels arrayed for the royal consecration (ābhiṣecanikaṃ bhāṇḍam) so as to keep them to his right, Rāma walked slowly onward with his heart full of regard (sāpekṣaḥ), without turning his gaze away from them.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1557,6 +1743,12 @@ As Rama was a pleasing personality, he was loved by all the people. The loss of
 kingdom could not diminish such a great splendour of Rama as a night cannot diminish the splendour
 of the moon.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The loss of the kingdom did not diminish the mighty splendor of him who was beloved of all the world, any more than the waning of the moon (śītaraśmer iva kṣayaḥ) diminishes its loveliness, because of its innate beauty.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1605,6 +1797,12 @@ the earth; *gantukaamasya* = who decided to go; *vanam* = to forest;
 In that Rama, who was leaving the kingdom after having decided to go to the forest,
 there was no perturbation of mind in him like in an ascetic who is beyond worldly pain and
 pleasure.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he prepared to depart for the forest and relinquished the entire earth, no perturbation of mind at all was perceived in him, just as in a liberated sage who has transcended all the worlds (sarvalokātigasyeva).
 </details>
 </details>
 
@@ -1672,6 +1870,14 @@ Rama, the man of great courage, refused fans and umbrella, sent away his friends
 chariot and citizens kept back sorrow in his mind, subdued his senses and entered his mother's
 house to inform the unpleasant news.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**34:** Declining the auspicious royal umbrella and the two richly adorned yak-tail fans (vyajane), and dismissing his retinue, his chariot, and the townsfolk,
+
+**35:** that self-possessed prince (ātmavān), holding his sorrow within his mind and restraining his senses, entered his mother's palace to announce the unwelcome tidings (apriyaśaṃsivān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1721,6 +1927,12 @@ spoke truth.
 The people adjacent to Rama could not visualise any change in the face of Rama who
 was dignified and truthful in his words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+None among the noble attendants standing around perceived the slightest change of expression (ākāram) upon the countenance of that glorious and truthful Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1768,6 +1980,12 @@ lose; *aatmanaH* = his; *uchitam* = usual; *harshham* = joy; *tejaiva*
 
 Rama did not lose his natural joy, as an autumnal moon with lofty rays does not lose
 its natural splendour.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nor did that self-possessed, mighty-armed prince abandon his natural cheerfulness (ucitaṃ harṣam), any more than the radiant autumn moon abandons its innate luster.
 </details>
 </details>
 
@@ -1817,6 +2035,12 @@ went; *samiipam* = near to; *maatuH* = mother.
 Rama with his courageous spirit and of great fame, paying his respects to the people
 with his sweet words, went nearer to his mother.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honoring all the people with sweet speech, the righteous-souled Rāma of mighty renown entered into the presence of his mother.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1865,6 +2089,12 @@ with; *tam* = that Rama.
 
 Lakshmana, who got virtues equal to Rama, who was having great heroic valour and who
 was the brother, kept the grief within himself and went along with Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His brother of vast prowess, the son of Sumitrā, who was his equal in noble virtues (guṇaiḥ samatāṃ prāptaḥ), followed closely behind him, holding back the sorrow born within his heart.
 </details>
 </details>
 
@@ -1935,6 +2165,12 @@ perturabation.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि हत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering that palace, which was overflowing with festal joy, and beholding the ruin of his worldly fortune that had arrived, Rāma still betrayed no perturbation of mind at all, fearing lest any sign of distress in him endanger the very lives of his loved ones (suhṛjjanasyātmavipattiśaṅkayā).
 </details>
 </details>
 

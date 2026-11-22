@@ -62,6 +62,12 @@ samyuktaa* = gladness, associated with - gladly; *samutplutya [sam ut plutya]* =
 Those lion-hearted fly-jumpers who are informed thus by the kingly eagle Sampaati have gladly jumped and loped
 and screamed in league [4-64-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Informed (ākhyātāḥ) by the king of vultures, the leapers of lion-like valor (siṃhavikramāḥ), leaping up (samutplutya), assembled together and roared (vineduḥ), filled with joy (prītisaṃyuktāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -107,6 +113,12 @@ arrived.
 
 On hearing the words of Sampaati, the monkeys have delightedly come to the ocean to go to the residence of Ravana,
 longing for a glimpse of Seetha. [4-64-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard Sampāti's speech regarding the abode [or destruction] of Rāvaṇa (rāvaṇakṣayam), the monkeys, delighted and desiring the sight of Sītā (sītādarśanakāṅkṣiṇaḥ), came to the ocean (sāgaram ājagmuḥ).
 </details>
 </details>
 
@@ -162,6 +174,12 @@ Here the word *pratibimba * is taken as entire ocean with its shores, and the oc
 framed by it shores.' Thus, the ocean is said to contain all the items of entire world and it is becoming a world
 by itself, together with its own paraphernalia, from fishes to sharks, pebbles to diamonds etc. This is according
 to Govindaraja.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having approached that region, they of terrible valor (bhīmavikramāḥ) beheld the entire reflection of the great world (kṛtsnaṃ lokasya mahataḥ pratibimbam) standing [mirrored in the sea].
 </details>
 </details>
 
@@ -221,6 +239,12 @@ with their wide-opened mouths.
 Here in this mms of Gorakhpur one verse is not given which is available in other versions. That verse is given
 here for an easy comprehension of the later verses.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached the northern quarter of the southern ocean (dakṣiṇasya samudrasyottarāṃ diśam), the monkey-heroes of great strength then made their encampment (saṃniveśaṃ tataś cakruḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,6 +272,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ समुद्रवु कॆलवॆडॆ तरङ्गगळिल्लदॆ शान्तवाद्दरिन्द मलगिदन्तॆ कण्डु बन्दरॆ, इन्नॊन्दॆडॆ स्वल्पवागि एळुव अलॆगळिन्दागि क्रीडिसुत्तिरुवन्तॆ काणुत्तित्तु. मत्तॊन्दॆडॆ ऎत्तरवागि एळुत्तिरुव तरङ्गगळिन्द पर्वतदन्तह जलराशियिन्द कूडिदन्तॆ तोरुत्तित्तु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And beholding [the ocean] as if fast asleep in one place (prasuptam iva cānyatra), and as if sporting in another (krīḍantam iva cānyataḥ), and in some places covered with masses of water the size of mountains (parvatamātraiś ca jalarāśibhir āvṛtam),
 </details>
 </details>
 
@@ -293,6 +323,12 @@ Somewhere that ocean is as though sleeping well, and somewhere else it is as tho
 overspread with tidewaters as high as mountains, somewhere else it is tumultuous with the best demonic beings
 who are the residents on the plane of netherworld, and the elephantine monkeys despaired on seeing such a hair-raising
 ocean.. [4-64-5, 6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and teeming with lords of Dānavas (saṃkulaṃ dānavendraiś ca) dwelling in the depths of Pātāla (pātālatalavāsibhiḥ), causing the hair to bristle (romaharṣakaram), the elephant-like monkeys sank into dejection (viṣeduḥ kapikuñjarāḥ).
 </details>
 </details>
 
@@ -340,6 +376,12 @@ saying.
 On seeing the shoreless ocean that is like an endless sky, hence unnavigable, the vanara-s are despaired and said
 each to each, "how to vault this ocean?" [4-64-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the ocean hard to cross like the sky (ākāśam iva duṣpāram), all the monkeys together sank into dejection (viṣeduḥ sahitāḥ sarve); “How is the task to be done (kathaṃ kāryam)?” so they spoke (bruvan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,6 +426,12 @@ each to each, "how to vault this ocean?" [4-64-7]
 
 Then the best one among monkeys, Angada, started to inspirit the army of monkeys who are anguished by fear on
 their gazing at the ocean. [4-64-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the army despondent (viṣaṇṇāṃ vāhinīm) from surveying the ocean (sāgarasya nirīkṣaṇāt), the foremost of monkeys [Aṅgada] (harisattamaḥ) reassured the monkeys afflicted with fear (bhayārtān):
 </details>
 </details>
 
@@ -430,6 +478,12 @@ ruins.
 
 "Loosing heart to dismay is an unworkability, because dismaying itself is detrimental, and dismay alone ruins
 a person, as a vicious viper unworkably ruins an innocent child... [4-64-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The mind must not be set upon despondency (na viṣāde manaḥ kāryam); despondency is most full of fault (viṣādo doṣavattaraḥ)! Despondency slays a man (viṣādo hanti puruṣam), as an angry serpent [slays] a child (bālaṃ kruddha ivoragaḥ).
 </details>
 </details>
 
@@ -486,6 +540,12 @@ has occurred. [4-64-10]
 These two sayings of Angada, and suchlike at other places, become precedent for the sayings of Krishna in Bhagavad
 Gita, esp., in the Ch. of *arjuna viSaadayoga* 'Arjuna's Despair'.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who yields to despondency (yo viṣādaṃ prasahate) when the time for valorous action has arrived (vikrame samupasthite)—for him, bereft of energy (tejasā tasya hīnasya), the human aim is not accomplished (puruṣārtho na siddhyati).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +590,12 @@ vR^iddhaiH vaanaraiH saha* = old, monkeys [golden-agers,] along with; *samaagamy
 
 While that night is elapsing into the wee hours of next day, Angada met all the golden-ager monkeys, and again
 deliberated with them. [4-64-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that night had passed (tasyāṃ rātryāṃ vyatītāyām), Aṅgada, having met together with the monkeys and the monkey-elders (harivṛddhaiḥ samāgamya), again held counsel (punar mantram amantrayat).
 </details>
 </details>
 
@@ -576,6 +642,12 @@ like; *babhau* = beamed forth.
 
 When those troops of monkey army stood encircling Angada, it beamed forth like the army of gods encircling Indra.
 [4-64-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That host of monkeys (sā vānarāṇāṃ dhvajinī), having surrounded Aṅgada, shone forth (babhau) like the army of the Maruts (marutāṃ vāhinī) standing surrounding Vāsava [Indra].
 </details>
 </details>
 
@@ -635,6 +707,12 @@ bhavaanushanasaa tulyo hita eShii ca sadaa mama | asamhaaryaH sthito dharme sa n
  Now,
 excepting Angada and Hanuma, some other vaulter is needed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Who else would be able to steady (śaktaḥ stambhayituṃ bhavet) that monkey army (tāṃ vānarīṃ senām), other than the son of Vālin (anyatra vālitanayāt) and other than Hanūmān (anyatra ca hanūmataḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -681,6 +759,12 @@ spoke.
 Then that enemy-subjugator and illustrious Angada, on revering the old-ager monkeys and paying due respects to
 the army of monkeys, spoke this meaningful sentence. [4-64-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the glorious Aṅgada, tamer of foes (ariṃdamaḥ), having paid honor (anumānya) to those monkey-elders and to that army, spoke a purposeful speech (vākyam arthavad abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +809,12 @@ sandham* = truth [truthful word,] bounden; kariSyati, makes [facilitates.]
 
 "Now, who is that great-resplendent one who can vault over the ocean and who is he who can facilitate the enemy-repressor
 Sugreeva to become truthful to his word... [4-64-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who now of great splendor (ka idānīṃ mahātejāḥ) will leap across the ocean (laṅghayiṣyati sāgaram)? Who will make Sugrīva, tamer of foes, true to his promise (satyasaṃdham)?
 </details>
 </details>
 
@@ -775,6 +865,12 @@ yojana shatam langhayeta* = yojana-s [distance,] hundred, hurdles over; *imaan y
 "Who is that brave hurdler who can hurdle over a hundred yojana distance, oh, fly-jumpers, who is he who can even
 emancipate all these monkey commanders from the great fear of Sugreeva... [4-64-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What heroic leaper (ko vīro plavaṃgamaḥ) could leap across a hundred yojanas (yojanaśataṃ laṅghayeta)? And who could release all these troop-leaders (yūthapān sarvān mocayet) from great fear (mahābhayāt)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -820,6 +916,12 @@ even; *pashyema* = we can see.
 
 "By whose benignancy we can rejoicingly see our wives, sons, houses and homes on going back from here after achieving
 the purpose of our task... [4-64-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By whose grace (kasya prasādāt), having returned from here (ito nivṛttāḥ), may we, our purpose accomplished (siddhārthāḥ) and happy, behold our wives, and sons, and homes (dārāṃś ca putrāṃś caiva gṛhāṇi ca)?
 </details>
 </details>
 
@@ -870,6 +972,12 @@ also; *mahaabalam sugriivam ca* = great-mighty one [here, ruthless one,] to Sugr
 "By whose benevolence we can unworriedly approach Rama, or even that irascible Lakshmana, or ruthless Sugreeva,
 as well... [4-64-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By whose grace (kasya prasādāt) may we, thoroughly delighted (saṃhṛṣṭāḥ), approach Rāma, and Lakṣmaṇa of great strength (mahābalam), and the forest-dwelling Sugrīva (sugrīvaṃ ca vanaukasam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -916,6 +1024,12 @@ dakSiNaam* = munificence; *dadaatu* = let him give.
 "If someone among you is competent enough to jump over the ocean, that monkey may now quickly give us all, a munificence,
 called a solemn impunity from Sugreeva..." Angada addressed monkeys in this way. [4-64-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If any monkey among you is capable of leaping across the ocean (samartho vaḥ sāgaraplavane hariḥ), let him quickly give us here the sacred gift of fearlessness (puṇyām abhayadakṣiṇām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -960,6 +1074,12 @@ all, that, monkey, troop; *stimitaa iva abhavat* = standstill [dumbfounded,] as 
 
 On hearing Angada's words there is none someone to say something in that matter, as the entire monkey troop is
 as though dumbfounded. [4-64-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard the speech of Aṅgada, no one spoke anything at all (na kaścit kiṃcid abravīt); that entire monkey army (sā sarvā harivāhinī) became motionless there (stimitevābhavat tatra).
 </details>
 </details>
 
@@ -1012,6 +1132,12 @@ again, adored ones [for your adventures,] also, even.
 Again that best one among monkeys Angada clearly said to those monkeys thus, "all of you are the best ones among
 powerful monkeys, you all are determinedly venturesome, born in flawless families and even adored again and again
 for your adventures... [4-64-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet again Aṅgada, the foremost of monkeys, spoke to those monkeys: “All of you are the best of the strong (balavatāṃ śreṣṭhāḥ), of firm valor (dṛḍhavikramāḥ), born in a stainless lineage (vyapadeśakule jātāḥ), and honored continually (pūjitāś cāpy abhīkṣṇaśaḥ)!
 </details>
 </details>
 
@@ -1072,6 +1198,12 @@ each one you may give an account as to which one has got which capability in jum
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद अरवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥64॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, in going (gamane) there could never be any hindrance for any one of you (bhaṅgaḥ kadācit kasyacid bhavet); declare, O bulls among leapers (bruvadhvaṃ plavagarṣabhāḥ), whatever power each possesses in leaping (yasya yā śaktiḥ plavane)!”
 </details>
 </details>
 

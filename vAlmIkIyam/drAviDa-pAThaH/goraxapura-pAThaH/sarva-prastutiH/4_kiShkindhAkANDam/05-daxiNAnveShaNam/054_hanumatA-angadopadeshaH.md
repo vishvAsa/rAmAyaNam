@@ -73,6 +73,12 @@ Lt. Tara, that way, has spoken; *atha* = then; *hanumaan* = Hanuma; *angadena ta
 When Lt Tara whose resplendence is similar to moonshine has spoken that way, then Hanuma deemed that Angada is
 laying siege to that kingdom of Vanaras. [4541]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Tāra, possessing the radiance of the lord of stars (tārādhipati-varcasi), spoke thus, Hanūmān then deemed that sovereignty (rājyam) had already been usurped by Aṅgada.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -155,6 +161,12 @@ not uttering lies, 9] courageousness, 10] recognising strengths and weaknesses o
 in opinions or actions.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān recognized Vālin's son to be endowed with an eightfold intellect (aṣṭāṅgayā buddhyā), possessed of the fourfold strength (caturbala-samanvitam), and graced with the fourteen royal virtues (caturdaśa-guṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -179,6 +191,12 @@ in opinions or actions.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवनु तेज, बल, पराक्रमदिन्द सदा परिपूर्णवागिरुत्तानॆ. शुक्लपक्षद चन्द्रनन्तॆ राजकुमार अङ्गदन श्रीयु दिनेदिने हॆच्चुत्ता इरुत्तदॆ.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He saw him] perpetually replenished with splendor, strength, and valor (tejo-bala-parākramaiḥ), waxing in majesty like the moon at the beginning of the bright fortnight (śuklapakṣādau).
 </details>
 </details>
 
@@ -207,6 +225,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवनु बुद्धियल्लि बृहस्पतियन्ते, पराक्रमदल्लि तन्न तन्दॆ वालिगॆ समाननागिद्दानॆ. देवेन्द्रनु बृहस्पतियिन्द नीतिय मातन्नु केळुवन्तॆये अङ्गदनु तारन मातन्नु केळुत्तानॆ.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Equal to Bṛhaspati in intellect and like his father in valor, he was hearkening (śuśrūṣamāṇam) unto Tāra just as Purandara [Indra] hearkens unto Śukra [or Bṛhaspati].
 </details>
 </details>
 
@@ -269,6 +293,12 @@ Indian categorisation of a month does not directly jump to weeks, but firstly in
 weeks and then to days: *1] paurNami, poorNima *White Fortnight - where the moon will be waxing from new-moon-day;
 *2] amaavaasya *Black Fortnight - where the moon will be waning to no-moon-day.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Hanūmān, well-versed in all the treatises of polity (sarvaśāstra-viśāradaḥ), began to win over (abhisaṃdhātum) Aṅgada, who had grown exhausted in his lord's cause (bhartur arthe pariśrāntam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -320,6 +350,12 @@ ideations, viz., placation, presentation, partition, persecution. [4546]
 The four ideations are *saama, daana, bheda, daNDa upaayaaH *The ideations for placation, presentation,
 partition, persecution, in connection with a political adversary.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Expounding the third of the four expedients of statecraft (caturṇām upāyānāṃ tṛtīyam) [namely dissension, bheda], he divided all those Vānaras through the eloquence of his speech (vākya-sampadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -370,6 +406,12 @@ When Hanuma made all of the vanaras to defect from Angada's idea of defecting Su
 Angada with diverse and awesome orations containing the fourth ideation, namely the persecutory measures, employable
 by Sugreeva on defectors. [4547]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When all those [Vānaras] had been divided (bhinneṣu), he then intimidated (abhīṣayat) Aṅgada with diverse, terrifying words (bhīṣaṇair vividhair vākyaiḥ) fraught with the expedient of wrathful chastisement (kopopāya-samanvitaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -412,6 +454,12 @@ sustain, capable.
 
 "As with your father you are undeniably abler in warfare, oh, the son of Lady Tara, and as with your father you
 are unquestionably capable enough to sustain the monkey kingdom." Thus Hanuma started to address Angada. [4548]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O son of Tārā (tāreya), in battle you are assuredly more capable even than your father, and you are able to hold fast the sovereignty of the monkeys (kapirājyam) firmly just as your father did.”
 </details>
 </details>
 
@@ -461,6 +509,12 @@ not, consistent, at will, isn't it; *putra daaraan vinaa* = sons, wives, without
 
 "Oh, best monkey, Angada, monkeys will be inconsistent at their will, isn't it! Separated from their sons and
 wives they cannot tolerate to remain under your control for a long. [4549]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet monkeys, O bull among Vānaras (haripuṅgava), are ever fickle-minded (asthiracittāḥ); parted from their wives and sons (putradāraṃ vinā), they will never endure your command (ājñāpyam).”
 </details>
 </details>
 
@@ -525,6 +579,14 @@ do not definitely tagalong you, isn't it. Likewise I too do not definitely tagal
 be impossible for you to sidetrack us from Sugreeva using tactics like placation, presentation or even persecution,
 isn't so! [45410, 11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** “Truly, I tell you openly before your eyes (pratyakṣam): these [monkeys] will not remain loyally attached to you (tvāṃ naite hy anurañjeyuḥ), any more than will this Jāmbavān, Nīla, and the great monkey Suhotra.”
+
+**11:** “Neither I nor all these here can be drawn away (apakarṣitum) from Sugrīva by you through the methods of conciliation, gifts, and the rest (sāma-dānādibhir guṇaiḥ), nor through chastisement (daṇḍena).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -579,6 +641,12 @@ purchasing the wrath of the mighty by the mightless is futile... and such as you
 a cavity as counselled haphazardly by all these fickly monkeys... thus, beware that the mightless is the one who
 shall strive for selfguarding against the mighty, but not contrariwise...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“They declare that holding out after declaring hostility (vigṛhyāsanam) is possible for the stronger against the weak; therefore a weak man who seeks self-preservation (ātmarakṣākaraḥ) should never wage war [against the stronger].”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -625,6 +693,12 @@ baaNaanaam* = for Lakshmana's, arrows; *etat vi daaraNe* = all this [Black Hole]
 "This matter of going underground into that Black Hole which you suppose as a hideout from Sugreeva, as you heard
 from Lt. Tara and others, but it is a deed of trifle to Lakshmana's arrows, not necessarily for Rama's arrows,
 in splitting apart whole of that Black Hole in a trice. [45413]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And as for this cavern—heard of as this subterranean fastness (bilam)—which you regard as your protectress (dhātrīm), splitting it open (vidāraṇam) is a trifling task (īṣatkāryam) for Lakṣmaṇa's arrows.”
 </details>
 </details>
 
@@ -675,6 +749,12 @@ _________________
 trivial deed for that Thunderbolt made a single demonsized aperture to eliminate a single demon, Maya, which we
 now call Riksha bila, Black Hole, nevertheless Lakshmana will splinter whole of this
 Black Hole with his acute arrows, as if it is leafy bowl. [45414]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For of old, only a slight cleft (svalpam) was made by Indra when he hurled his thunderbolt (aśanim); Lakṣmaṇa, with his keen shafts, would pierce it through like a folded leaf-cup (patrapuṭaṃ yathā).”
 </details>
 </details>
 
@@ -730,6 +810,12 @@ Annex: 'of which you all may have heard, but a few of us like Jaambavanta, Nala,
 witness, personally... on piercing the seven sturdy trees Rama's arrow penetrated into the nethermost terrain
 of earth and resurfaced... then, Lakshmana's arrow can pulverise mountains, isn't so...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And Lakṣmaṇa possesses many iron shafts (nārācāḥ) of that kind, matching the thunderbolt and lightning-bolt in impact (vajrāśani-samasparśāḥ), capable of cleaving even mountains (girīṇām api dārakāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -776,6 +862,12 @@ resolve; *tyakSyanti* = will desert [you.]
 "As and when you settle down in that underground, more so, an unbefitting place for a crown prince, oh, enemyburner
 Angada, then and there all the monkeys will desert you resolvedly. [45416]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O scorcher of foes (paraṃtapa), the very moment you take up your abode here (avasthānam āsiṣyasi), that very moment all the monkeys, firmly resolved (kṛtaniścayāḥ), will abandon [you].”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -821,6 +913,12 @@ Angada, then and there all the monkeys will desert you resolvedly. [45416]
 "Always sulking and reminiscing on their sons and wives, and hungered for the proximity of their kinfolk and hungered
 for diverse palatability as any monkey would cherish, even so, lamenting on the beds of lament they push you backwards.
 [45417]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Remembering their sons and wives, perpetually anxious and famished (bubhukṣitāḥ), and worn out by wretched beds of pain (duḥkha-śayyābhiḥ), they will turn their backs upon you (tvāṃ kariṣyanti pṛṣṭhataḥ).”
 </details>
 </details>
 
@@ -877,6 +975,12 @@ of straw. [45418]
 He will become 'a crown prince of straw...'* anena parijanaiH pari tyaktaH tR^iNaat api laghu taro bhavati
 iti suucitam - dk* if he discards his own people.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bereft of friends and of kinsmen who wish your welfare (hitakāmaiś ca bandhubhiḥ), you will become violently terrified (bhṛśodvignaḥ) even by a quivering blade of grass (spandamānāt tṛṇād api).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -922,6 +1026,12 @@ speedy [fierily frenetic arrows,] unassailable [here, irreversible.]
 
 "By far, those fiercely frantic arrows of Lakshmana if targeted to kill you, in case you become a sidestepper
 from loyalties, will be terrifyingly twingeing. Further, those fierily frenetic arrows are irreversible. [45419]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor will the dread arrows of Lakṣmaṇa, of mighty impetus and impossible to withstand (durāsadāḥ), ever fail to smite you (na ca jātu na hiṃsyus tvām), seeking to slay you should you turn away from duty (apavṛttam).”
 </details>
 </details>
 
@@ -969,6 +1079,12 @@ aanupuurvyaat* = as before, only; *sthaapayiSyati* = establishes.
 "But, if you return to Kishkindha along with us, and if you obediently become Sugreeva's flanker, he establishes
 you only in kingdom as before. [45420]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“On the other hand, if you go along with us and present yourself humbly (vinītavad upasthitam), Sugrīva will establish you in the kingdom in due order of succession (ānupūrvyāt).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1015,6 +1131,12 @@ jaatu* = he, you, in no way; *na naashayet* = not, liquidates.
 "Your paternaluncle Sugreeva's gleam is his honesty as he is free of dishonesty, his desire is affection as he
 is free of aversion, his dedication is staunch as he is free of prevarication, and he himself is exoneration as
 he is free from exploitation, thus in no way he liquidates you. [45421]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your paternal uncle is a righteous king (dharmarājaḥ), desirous of your affection (prītikāmaḥ), firm in his vows, pure, and true to his promise (satyapratijñaḥ); he would never destroy you.”
 </details>
 </details>
 
@@ -1084,5 +1206,11 @@ are not reiterated here.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥54॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Moreover, he desires what is dear to your mother (priyakāmaś ca te mātuḥ), and his very life exists for her sake (tadartham); besides, he has no other offspring (apatyam). Therefore, O Aṅgada, let us depart!”
 </details>
 </details>

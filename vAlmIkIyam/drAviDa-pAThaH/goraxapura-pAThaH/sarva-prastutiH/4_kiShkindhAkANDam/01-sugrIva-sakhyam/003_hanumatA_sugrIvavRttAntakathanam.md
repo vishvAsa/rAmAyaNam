@@ -80,6 +80,12 @@ words, mindful of; *puplave* = took his flight; *parvataat R^iSyamuukaat* = from
 Mindful of the words of noble-souled Sugreeva, Hanuma took his flight from Mt. Rishyamuka to where Raghavaa-s
 are. [4-3-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Understanding the words (vacaḥ) of high-souled Sugrīva, Hanūmān leaped forth (pupluve) from Mount Ṛṣyamūka to where the two Rāghavas were.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,6 +137,12 @@ of ascetic, thinking that nobody tells a lie to an ascetic, and thus he wanted t
 an ascetic's form, but futile is his effort. Rama or Lakshmana will go on listening to what Hanuma says,
 without any reply. Hanuma himself is vexed at their silence and he has to come out of his guise to reveal
 his original form, as at 4-3-19.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Casting aside his monkey-form (kapirūpam), the ape Hanūmān, son of the Wind-god, then assumed the form of a mendicant (bhikṣurūpam) owing to his reputation for guile (śaṭhabuddhitayā).
 </details>
 </details>
 
@@ -202,6 +214,16 @@ words, spoke.
 
 The best Vanara Hanuma spoke soft-wordily, as desired by Sugreeva, to those candidly resolute ones,
 on making reverent obeisance to both of them. [4-3-4b, 5a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** Then Hanūmān, approaching the two Rāghavas in a humble manner (vinītavat) and bowing down (praṇipatya), with smooth and captivating speech (vācā ślakṣṇayā sumanojñayā)—
+
+**4:** —addressed those two heroes and praised them according to truth (yathāvat); having duly honored (vidhivat sampūjya) the two heroes, Hanūmān, foremost of Vānaras—
+
+**5:** —spoke a gentle speech in accordance with [Sugrīva's] wish (kāmataḥ) to those two of unfailing valor, who resembled royal sages and gods (rājarṣidevapratimau), two ascetics of sharpened vows (saṃśitavratau):
 </details>
 </details>
 
@@ -280,6 +302,16 @@ but you with your golden hue appear as courageous ones, yet you sigh over repeat
 yet you look mighty shouldered... who are you that distress all the beings in this forest... [4-3-7,
 8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** “How have you two, endowed with resplendent complexions (varavarṇinau), reached this region, startling the herds of deer and the other forest-dwellers (vanacāriṇaḥ)?”
+
+**7:** “Gazing all around upon the trees growing along the banks of Pampā (pampātīraruhān), you two men of impetuous vigor (tarasvinau) adorn this river of auspicious waters (śubhajalām).
+
+**8:** “Endowed with fortitude (dhairyavantau), gleaming like gold (suvarṇābhau), clad in bark-garments (cīravāsasau), sighing deeply and possessing noble arms, who are you two that agitate these woodland creatures (prajāḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -304,6 +336,12 @@ yet you look mighty shouldered... who are you that distress all the beings in th
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निम्मिब्बरू वीरर दृष्टियु सिंहदन्तॆ इदॆ. निम्म बल मत्तु पराक्रमवु महत्तागिदॆ. इन्द्र धनुस्सिनन्तॆ महान् शरासन धरिसिकॊण्डु नीवु शत्रुगळन्नु नाशमाडुव शक्तिहॊन्दिरुविरि.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having the gaze of lions (siṃhaviprekṣitau), heroic, of mighty strength and valor, grasping two bows resembling Śakra's rainbow (śakracāpanibhe), you two are destroyers of foes (śatrunāśanau).
 </details>
 </details>
 
@@ -348,6 +386,12 @@ foremost..
 "Dauntless, bold and brave are you with sharp glances of lions, wielding bows like that of Indra's bow
 you are the real enemy destroyers... glorious, splendid, and even impetuous you appear like Sacred Bulls...
 elephant's trunks are your arms... and you foremost among men are self-resplendent... [4-3-9, 10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Glorious, endowed with beauty (rūpasampannau), having the stride of the foremost of bulls (vṛṣabhaśreṣṭhavikramau), with arms like elephants' trunks (hastihastopamabhujau), radiant, O bulls among men (nararṣabhau)!
 </details>
 </details>
 
@@ -394,6 +438,12 @@ divinities-like; *iha desham katham aagatau* = now, to country-side, how, you re
 "This lord-like mountain is effulgent with your effulgence, you two look as kingdom-worthy, or worthy
 divinities, but how you have reached this countryside now... [4-3-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By the splendor (prabhayā) of you two, this lord of mountains (parvatendraḥ) is illuminated (avabhāsitaḥ); worthy of sovereignty (rājyārhau) and resembling immortals, how have you come to this region here?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -421,6 +471,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निम्म नेत्रगळु अरळिद कमलदळगळन्तॆ शोभिसुत्तिवॆ. निम्मल्लि शौर्य तुम्बिदॆ. नीविब्बरु तम्म मस्तकद मेलॆ जटॆगळन्नु धरिसिरुविरि. नीविब्बरू ऒन्दे रीतियिन्द इरुविरि. वीररे! नीवु देवलोकदिन्द इल्लिगॆ आगमिसिरुविरा.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Heroic, with eyes like lotus petals (padmapatrekṣaṇau), wearing crowns of matted locks (jaṭāmaṇḍaladhāriṇau), resembling one another (anyonyasadṛśau), you two heroes have come here from the world of the gods (devalokāt)—”
 </details>
 </details>
 
@@ -468,6 +524,12 @@ you some undaunted human ascetics... nay, you look clonal, are you from some wor
 are on earth, does this earth have a chance to receive Sun and Moon on her by her fortune... nay, are
 you some broad-chested deities in human form... lion-shouldered, very vehement and vigorous like Sacred
 Bulls... who you might be... [4-3-12, 13, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—like the Moon and the Sun (candrasūryau) having reached the earth as if by their own wish (yadṛcchayaiva), broad-chested (viśālavakṣasau) heroes, human beings bearing the forms of gods (devarūpiṇau),
 </details>
 </details>
 
@@ -563,6 +625,14 @@ hands if shook by Sugreeva in friendship, Sugreeva's miseries will be removed co
 "I deem that each of you are the choicest one to protect the earth adorned with Mt Meru and Vindhya
 range, and with all her oceans and forests... [4-3-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “lion-shouldered (siṃhaskandhau), of mighty energy, like two spirited bulls (samadāv iva govṛṣau)! Your arms are long (āyatāḥ), well-rounded (suvṛttāḥ), and like iron clubs (parighopamāḥ);
+
+**15:** “worthy of being adorned with every ornament (sarvabhūṣaṇabhūṣārhāḥ), wherefore are they not adorned? I deem you both worthy to protect (rakṣitum) this earth—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -609,6 +679,12 @@ like, Indra's; *hema vibhuuSite* = in gold, decorated; *vajre iva* = Thunderbolt
 "And these awesome bows are polished with odd things are smooth, and they are brightening like the gilded
 Thunderbolt of Indra. [4-3-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—in its entirety, together with its oceans and forests (sasāgaravanām), adorned by the Vindhya and Meru mountains! And these two wondrous, smooth bows with variegated gold-inlay (citrānulepane)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -654,6 +730,12 @@ full with, also.
 
 "Full with hazardous, life terminating, fiery snake like sharp arrows are these quivers, admirable in
 their appearance... [4-3-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—shine forth like the two gold-decked thunderbolts of Indra (indrasya vajre)! And your handsome quivers (tūṇāḥ) are filled with sharp arrows (śitair bāṇaiḥ),
 </details>
 </details>
 
@@ -702,6 +784,12 @@ burnt [refined,] gold, decorated with; *khaDagau etau viraajete* = swords, these
 
 "Dazzling are these amply wide, broad and gilded swords like the snakes just released from their moults...
 [4-3-18b, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“dread, life-ending (jīvitāntakaraiḥ) [shafts] that are like blazing serpents (jvaladbhir iva pannagaiḥ)! Of immense measure (mahāpramāṇau), broad, and decked with refined gold (taptahāṭakabhūṣaṇau)—”
 </details>
 </details>
 
@@ -778,6 +866,14 @@ his own, who is talking like this one, and who has high knowledge of all the scr
 Rama gives to Lakshmana after a few more verses. For now, Hanuma had to yield to high resistance from
 those two brothers, and is going to reveal himself, with a come-what-may attitude.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “—these two swords (khaḍgāv etau) shine forth like two serpents that have just shed their skins (nirmuktabhujagāv iva)! Why indeed do you two not reply (nābhibhāṣataḥ) to me as I address you thus?
+
+**20:** “There is a certain righteous-souled (dharmātmā) bull among Vānaras named Sugrīva; wronged (vinikṛtaḥ) by his brother, that hero wanders the world in sorrow (duḥkhitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -825,6 +921,12 @@ ones, by king; *tena SugreeveNa* = by him, by that Sugreeva; *preSitaH* = delega
 
 "Delegated by that great soul and the king of important monkeys Sugreeva, I have come here and by name
 I am Hanuma, another Vanara... [4-3-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Sent (preṣitaḥ) by that high-souled Sugrīva, king of the foremost of Vānaras, I—a Vānara named Hanūmān—have come here.
 </details>
 </details>
 
@@ -884,6 +986,14 @@ the son of Air-god... I had to come here from Mt. Rishyamuka in an ascetic's for
 Sugreeva, and I can wend my way by my will, and wear any guise as I wish..." Hanuma said so to those
 brothers. [4-3-22, 23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** “For that righteous-souled Sugrīva desires friendship (sakhyam icchati) with you two; know me (vittam) to be his minister (sacivam), a Vānara who is the son of the Wind-god (pavanātmajam),
+
+**23:** “disguised in the form of a mendicant (bhikṣurūpapraticchannam) for the sake of doing what is dear to Sugrīva (sugrīvapriyakāraṇāt), having come here from Ṛṣyamūka, coursing at will (kāmagam) and acting at will (kāmacāriṇam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -928,6 +1038,12 @@ tu* = thus, saying, only; *punaH kinchanaH na uvaacha* = further, anything, not 
 
 Saying thus to those valorous Rama and Lakshmana, Hanumaan, the sententious wordsmith, spoke nothing
 further. [4-3-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus unto those two heroes, Rāma and Lakṣmaṇa, Hanūmān—knower of speech (vākyajñaḥ) and skilled in eloquence (vākyakuśalaḥ)—spoke nothing further.
 </details>
 </details>
 
@@ -984,6 +1100,12 @@ to have another reason. Because Lakshmana is another wordsmith, equalling Hanuma
 in scriptures, Rama assigns that duty to Lakshmana. Now Rama's analysis of this envoy's knowledge, thereby
 gauging his master's virtuousness, is made know to Lakshmana in the following verses.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his, glorious Rāma, his countenance beaming with delight (prahṛṣṭavadanaḥ), spoke unto his brother Lakṣmaṇa, who stood at his side (pārśvataḥ sthitam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1028,6 +1150,12 @@ alone, [I am] cherishing, at my, near, he arrived.
 
 "He is the minister of that noteworthy soul and king of monkeys, Sugreeva... whom alone I cherish, but
 he himself has drew nigh of me, on his own... [4-3-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is the minister (sacivaḥ) of high-souled Sugrīva, lord of apes; he has come here into my presence (mamāntikam) even as I was longing for that very Sugrīva (tam eva kāṅkṣamāṇasya).
 </details>
 </details>
 
@@ -1085,6 +1213,12 @@ destroyer, because Rama has not yet concluded on Hanuma's epithets. In Chaukambh
 Gorakhpur version and in Eastern versions it is *arindama* , in vocative case only, but
 Baroda and Tokunaga versions and some more have this as *arindamam*, objective case. Similar
 usage can be found in this chapter at 4-3-36, *vaajyaj~naH, vaakyaj~nam* etc.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Address (abhyabhāṣa) with sweet words, O Saumitri, that monkey who is Sugrīva's minister, a knower of speech (vākyajñam), full of affection (snehayuktam), and a tamer of foes (ariṃdamam)!
 </details>
 </details>
 
@@ -1154,6 +1288,12 @@ said having lotus-petal like eyes, at 4-3-11, taking clue from cChandogya of Saa
 myathaakapyaasam punDariikam evaakshiNii...*. Hence these utterances of Hanuman are said to have
 direct base in the Veda-s.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For one not trained in the Ṛgveda (anṛgvedavinītasya), nor retaining the Yajurveda (ayajurvedadhāriṇaḥ), nor learned in the Sāmaveda (asāmavedaviduṣaḥ), it is impossible to speak thus (evaṃ vibhāṣitum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1209,6 +1349,12 @@ thereon is to be implemented in society. A simple recitalist is known as *chaa.n
 orthodox fellow, while the user of that knowledge for the good of society is *vyavahaarta*
 practical fellow. Hence Hanuma is implementing the grammar and training received originally as a
 Vedic scholar, because he is a practical one.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely the entire science of grammar (vyākaraṇaṃ kṛtsnam) has been heard by him in manifold ways (bahudhā śrutam); for though speaking at great length (bahu vyāharatā), not a single solecism has been uttered by him (na kiṃcid apaśabditam).
 </details>
 </details>
 
@@ -1271,6 +1417,12 @@ worst reciters.
 1] Undue stretching, 2] quickening the pace, 3] nodding the head 4] reading by
 seeing written texts without memorising 5] unknowing the meaning, 6] weak-voiced, are thus the six
 sorts of worst reciters of Vedic hymns.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither on his face, nor in his eyes, nor on his forehead, nor in his brows, nor in any of his other limbs (anyeṣv api ca sarveṣu) is any fault (doṣaḥ) perceived anywhere.
 </details>
 </details>
 
@@ -1339,6 +1491,12 @@ nasal, 6] shrieking, 7] high-pitched, and like with 8]improper sounds placement,
 10] rudely, and also 11] letters torn apart, 12] rendering negative meaning, 13] chaotic, 14]
 labiovelar, are the fourteen reciting mistakes.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Free from prolixity (avistaram), unambiguous (asaṃdigdham), unhesitating (avilambitam), and ungrating (avyatham), his speech—arising from the chest (uraḥstham) and issuing through the throat (kaṇṭhagam)—proceeds in a balanced pitch (madhyamasvaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1402,6 +1560,12 @@ With sweet voice, enunciated syllables, properly parting the words, quick and
 confident, and rhythm included are the six best qualities of best reciters.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He articulates (uccārayati) auspicious speech that is endowed with grammatical purity and orderly sequence (saṃskārakramasampannām), wondrous, unhurried, and gladdening to the heart (hṛdayaharṣiṇīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1455,6 +1619,12 @@ at head, *kanTha* at throat. A real speqker of his mind has to generate his spee
 three areas, without rendering any lip service. Again this is the rule of Vedic *siksha*
 namely the training.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By this wondrous speech resting upon the three vocal registers of manifestation (tristhānavyañjanasthayā), whose heart would not be won over (nārādhyate)—even that of an enemy with upraised sword (udyatāser arer api)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1496,6 +1666,12 @@ kaaryaaNaam katham siddhyanti* = his, works [means,] ways, how, they will accomp
 
 "Oh, faultless Lakshmana, if this sort of envoy is not there to a king, really how can that king accomplishes
 his ways and means... [4-3-34]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How indeed, O sinless one (anagha), could the courses of affairs (kāryāṇāṃ gatayaḥ) succeed for a monarch who does not possess an envoy of such a kind (evaṃvidho dūtaḥ)?”
 </details>
 </details>
 
@@ -1539,6 +1715,12 @@ by; *siddhyanti* = are achieved;
 
 "Should a king have this kind of work accomplishers with a variety of virtues, all his objectives will
 be achieved impelled by such an envoy's words..." Rama thus said to Lakshmana. [4-3-35]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely for one whose accomplishers of affairs (kāryasādhakāḥ) are endowed with such multitudes of virtues (evaṃguṇagaṇair yuktāḥ), all his purposes succeed, impelled by the words of his envoy (dūtavākyapracoditāḥ).”
 </details>
 </details>
 
@@ -1586,6 +1768,12 @@ j~naH* = wise-worded one; *vaakyaj~nam* = to [another] wise-worded one; *pavamaa
 When said thus by Rama, wise-worded Lakshmana spoke to that monkey and the minister of Sugreeva, namely
 Hanuma, the son of Air-god, who is equally a wise-worded one. [4-3-36]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed [by Rāma], the son of Sumitrā (saumitriḥ), a knower of speech (vākyajñaḥ), spoke unto that monkey, the son of the Wind-god, who was Sugrīva's counselor and a knower of speech:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1632,6 +1820,12 @@ alone.
 "The virtues of that great soul Sugreeva are known to us, oh, scholarly monkey, we for our part are
 in search of that lord of fly-jumpers Sugreeva alone... [4-3-37]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The virtues (guṇāḥ) of high-souled Sugrīva are known to us both (viditā nau), O learned one (vidvan); and we two are searching (mārgāvaḥ) for that very Sugrīva, lord of leapers.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1677,6 +1871,12 @@ indeed.
 
 "As you communicated the words of Sugreeva, oh, gentle Hanuma, by them and by your words we indeed wish
 to do accordingly... [4-3-38]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Just as you speak here, O Hanūmān, at Sugrīva's word (sugrīvavacanāt), even so shall we two act (kariṣyāvaḥ) in accordance with your word, O best of the virtuous (sattama)!”
 </details>
 </details>
 
@@ -1742,5 +1942,11 @@ friendship between Rama ad Sugreeva, at the earliest. [4-3-39]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूरनॆय सर्ग सम्पूर्णवायितु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that skillful speech (vākyaṃ nipuṇam) of his, the monkey who was the son of the Wind-god wore a joyful aspect (prahṛṣṭarūpaḥ); fixing his mind upon the attainment of victory (jayopapattau), he then desired to forge friendship (sakhyam) between those two.
 </details>
 </details>

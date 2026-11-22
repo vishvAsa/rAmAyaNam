@@ -70,6 +70,12 @@ uvaaca* = in reply, spoke - replied.
 On hearing that idea of the chief of demons Ravana in abducting Seetha, Maareecha, a
 well-informed one and an articulator spoke to the lord of demons in reply. [3-37-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard that speech of the lord of rākṣasas, Mārīca of great fiery energy (mahā-tejāḥ), skilled in speech (vākya-viśāradaḥ), replied to the sovereign of the rākṣasas (rākṣaseśvaram):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -129,6 +135,12 @@ vaktaa shrotaa ca durlabhaH ||* The last two foots may be observed because they 
 verse of Ramayana, by such similarities some hold the opinion that Maha Bharata is an explanation
 to Ramayana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Easy to find (sulabhāḥ), O King, are men who always speak what is pleasant (satataṃ priya-vādinaḥ); but rare (durlabhaḥ) is both the speaker and the hearer (vaktā śrotā ca) of words that are unpleasant yet salutary (apriyasya ca pathyasya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -154,6 +166,12 @@ to Ramayana.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तुम कोई गुप्तचर तो रखते नहीं और तुम्हारा हृदय भी बहुत ही चञ्चल है; अतः निश्चय ही तुम श्रीरामचन्द्रजीको बिलकुल नहीं जानते । वे पराक्रमोचित गुणोंमें बहुत बढ़े-चढ़े तथा इन्द्र और वरुणके समान हैं ॥ ३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having failed to employ spies (ayukta-cāraḥ) and being fickle-minded (capalaḥ), you surely do not know Rāma (na nūnaṃ budhyase rāmam), who is exalted in great valor and virtues (mahā-vīrya-guṇonnatam) and equal to Mahendra and Varuṇa (mahendra-varuṇopamam).
 </details>
 </details>
 
@@ -224,6 +242,12 @@ will render this world de-demonised! [3-37-4]
 eradicate them through Rama, through your obsessions.' The second thought has come true when Rama
 eliminated all demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+May there be welfare (api svasti bhavet), dear friend (tāta), for all the rākṣasas (sarveṣām api rakṣasām)! May Rāma, thoroughly enraged (saṃkruddhaḥ), not render the worlds devoid of rākṣasas (kuryāl lokān arākṣasān)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -271,6 +295,12 @@ be there [will there be a disaster, so to speak.]
 "Has this Seetha, the daughter of Janaka, taken birth to end your life, or what! And
 because of this Seetha will there be a great disaster, so to speak! [3-37-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+May the daughter of Janaka (janakātmajā) not have been born to bring an end to your life (te jīvitāntāya notpannā)! And may no great calamity (vyasanaṃ mahat) arise on account of Sītā (sītā-nimittaṃ ca)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,6 +347,12 @@ doomed or what.]
 
 "Egocentric and rampant, such as you are, on acquiring you as her lord, will the
 City of Lanka be doomed along with her demons, and you put together, or what! [3-37-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having got you—who act at whim (kāma-vṛttam) and are unrestrained (niraṅkuśam)—for its ruler (tvām īśvaraṃ prāpya), may the city of Laṅkā, together with you and its rākṣasas (tvayā saha sarākṣasā), not perish (na vinaśyet)!
 </details>
 </details>
 
@@ -375,6 +411,12 @@ Ramayana quotes Kamandaka etc., in such matters of dharma. The availability of t
 the commentator of Dharmaakuutam in reprint is doubtful, where Dharmaakuutam itself is unavailable
 in full, in these days.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For an evil-minded king (sa rājā... durmatiḥ) like you (tvad-vidhaḥ)—acting at whim (kāma-vṛttaḥ), of wicked conduct (duḥśīlaḥ), and guided by sinful counsels (pāpa-mantritaḥ)—destroys himself, his kinsmen, and his realm (ātmānaṃ sva-janaṃ rāṣṭraṃ... hanti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +444,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामचन्द्रनन्नु तन्दॆयु त्यजिसलिल्ल, अवनु धर्वामर्यादॆयन्नु त्यजिसलिल्ल, अवनु लोभियू अल्ल, दूषितविचारवुळ्ळवनू अल्ल मत्तु क्षत्रिय कुलकलङ्कितनू अल्ल.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma was neither forsaken by his father (na ca pitrā parityaktaḥ), nor is he in any way transgressing the bounds of propriety (nāmaryādaḥ kathaṃcana); he is neither greedy, nor ill-behaved (duḥśīlaḥ), nor a disgrace to Kṣatriyas (kṣatriya-pāṃsanaḥ).
 </details>
 </details>
 
@@ -451,6 +499,12 @@ father - no, he is not; there is unseemliness in him - no, not in the least; he 
 one insofar as the merits of righteousness are concerned, nor he is atrocious towards living
 beings, for he takes delight in the welfare of all beings. [3-37-8, 9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nor is the enhancer of Kausalyā's joy (kausalyānanda-vardhanaḥ) devoid of righteous virtues (dharma-guṇair hīnaḥ); nor is he harsh toward living beings (tīkṣṇo hi bhūtānām), for he delights in the welfare of all creatures (sarva-bhūta-hite rataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -499,6 +553,12 @@ vrajitaH* = he neatly, journeyed.
 "On seeing his father who is a proponent of truth, and whom Kaikeyi has outwitted,
 that virtue-souled Rama neatly decamped from Ayodhya saying that 'I will prove my father to be a
 real proponent of truth.' [3-37-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing his father deceived by Kaikeyī (vañcitaṃ pitaraṃ dṛṣṭvā kaikeyyā), the righteous-souled one (dharmātmā) resolved, ‘I shall make him true to his word (satya-vādinaṃ kariṣyāmīti),’ and therefore went forth into exile in the forest (pravrajito vanam).
 </details>
 </details>
 
@@ -550,6 +610,12 @@ discarding; *daNDakaa vanam praviSTaH* = Dandaka, forest, he entered.
 fulfil the cherish of Kaikeyi, viz., kingdom for her son Bharata, and even that of Dasharatha,
 viz., to remain loyal to his promise to Kaikeyi. [3-37-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To fulfill the desired pleasure of Kaikeyī (kaikeyyāḥ priya-kāmārtham) and of his father Daśaratha, he relinquished the kingdom and royal enjoyments (hitvā rājyaṃ ca bhogāṃś ca) and entered the Daṇḍaka forest (praviṣṭo daṇḍakā-vanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -598,6 +664,12 @@ speak of, apt of you.
 "Rama is ruthless - no; an unscholarly one - no; unconquered are his senses - no;
 and oh, boy, it is unapt of you to speak of impalpable and unheard-of topics in this way.
 [3-37-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma is not ruthless (karkaśaḥ), dear friend (tāta), nor ignorant (nāvidvān), nor of unsubdued senses (nājitendriyaḥ); you ought never to utter (naiva tvaṃ vaktum arhasi) what is false and unheard-of (anṛtaṃ na śrutaṃ caiva).
 </details>
 </details>
 
@@ -650,6 +722,12 @@ as his valour, and as with Indra to all gods he is the king of entire world. [3-
 Rama's principles alone make him victorious, as he does not deviate from the
 path of righteousness. And by not deviating from the path of righteousness, he is truly valorous
 and the question of his defeat does not arise, because he will abide by his conscience.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma is dharma incarnate (rāmo vigrahavān dharmaḥ), noble (sādhuḥ), and of unfailing valor (satya-parākramaḥ); he is the king of the entire world (rājā sarvasya lokasya), even as Vāsava [Indra] is of the gods (devānām iva vāsavaḥ).
 </details>
 </details>
 
@@ -705,6 +783,12 @@ doubt controlled natural forces like sun, moon, rivers etc., but not altogether 
 upturned their functions. Then, is it possible to Ravana and hosts of his demonic-adherents to
 thrive in an unnatural gloom? This is the doubt of Maareecha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How then do you wish (kathaṃ nu... icchase) to forcibly carry off (prasabhaṃ hartum) his Vaidehī, who is protected by her own lustre (rakṣitāṃ svena tejasā), any more than the radiance of the sun (prabhām iva vivasvataḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -752,6 +836,12 @@ Rama, [called] fire; *sahasaa* = rashly - recklessly; *praveSTum* = to enter int
 "Arrows as it jets of fire, bow and sword as it firewood that fire called Rama will
 be blazing in war, and it will be inapt of you to enter into such an uninfringeable fire,
 recklessly. [3-37-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You ought not rashly (sahasā) to enter the blazing fire that is Rāma (rāmāgniṃ... dīptam) in battle—unassailable (anādhṛṣyam), having arrows for its flames (śarārciṣam) and the bow and sword for its fuel (cāpa-khaḍgendhanam)!
 </details>
 </details>
 
@@ -817,6 +907,14 @@ becoming tongues of fire spewed forth from that flaming mouth, he that Rama the 
 will become fierce and insufferable when he wields bow and arrows, and oh, dear boy Ravana, it will
 be inapt of you to at once draw pretty nigh of such an annihilator of the armies of enemies, on
 discarding your kingdom, comforts and even the dear life of yours. [3-37-16, 17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** [That Rāma-Yama] whose gaping, blazing maw is his drawn bow (dhanur-vyādita-dīptāsyam), whose flames are his arrows (śarārciṣam), unyielding (amarṣaṇam), bearing bow and shafts, fierce (tīkṣṇam), the destroyer of enemy armies (śatru-senāpahāriṇam)—
+
+**17:** Abandoning your kingdom, happiness, and your own dear life (jīvitaṃ ceṣṭam ātmanaḥ), dear friend (tāta), you ought not here to approach too closely (nātyāsādayituṃ... arhasi) Rāma, who is Death himself (rāmāntakam)!
 </details>
 </details>
 
@@ -885,6 +983,12 @@ This apart, it is said that 'a pertinent devotion to a god makes the devotee lik
 Rama. Thereby, there is twofold resplendence, namely, that of Rama and that of Seetha, so it is
 inapt of you to make any useless effort when everything is firewalled.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Immeasurable indeed is that fiery energy (aprameyaṃ hi tat tejaḥ) of him to whom that daughter of Janaka belongs (yasya sā janakātmajā); you are not able to abduct her (na tvaṃ samarthas tāṃ hartum), sheltered as she is in the forest by Rāma's bow (rāma-cāpāśrayāṃ vane).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -932,6 +1036,12 @@ perpetuity, his - him alone; *anu vrataa* = following, avowed - avowed to follow
 "That lady Seetha is his wife, dearest than the lives of that lion-chested lion-man
 Rama, and in truth, she is avowed to follow him alone, in perpetuity. [3-37-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The radiant wife (bhāminī... bhāryā) of that lion among men (tasya vai nara-siṃhasya) of lion-like chest (siṃhoraskasya) is dearer to him even than life (prāṇebhyo 'pi priya-tarā) and ever devoted to him (nityam anuvratā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -978,6 +1088,12 @@ to abuse; *na shakyaa* = not, possible one.
 
 "As the spire of blazing ritual fire cannot be abused, so also, she that curvaceous
 Maithili, the cherished wife of that dynamic Rama, is an impossibility for any abuse. [3-37-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That slender-waisted (su-madhyamā) Sītā, princess of Mithilā (maithilī), beloved of the mighty one (ojasvinaḥ priyā), cannot be violated (na sā dharṣayituṃ śakyā), any more than the flame of a blazing fire (dīptasyeva hutāśasya śikhā).
 </details>
 </details>
 
@@ -1037,6 +1153,12 @@ the four doors to death...' Hence, Maareecha is advising Ravana not to embark on
 even if Seetha is forcibly abducted, she cannot be possessed because she surrounded by a firewall,
 namely the resplendence of that couple.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What [gain] is yours by making this futile effort (kim udyamaṃ vyartham imaṃ kṛtvā te), O lord of the rākṣasas? If you are so much as seen by him in battle (dṛṣṭaś cet tvaṃ raṇe tena), your life ends right there (tad-antam upajīvitam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1083,6 +1205,12 @@ wish; *raama vi priyam* = to Rama, un, pleasant; *maa kR^ithaa* = do not, do.
 "If you cherish to take pleasure for a long time in your life, in your comforts and
 also thus in your kingdom, which kingdom is highly impossible to achieve, do not do anything
 unpleasant to Rama. [3-37-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If you wish to enjoy for a long time (yadīcchasi ciraṃ bhoktum) your life, happiness, and hard-won sovereignty (rājyaṃ caiva sudurlabham), do not commit any offense against Rāma (mā kṛthā rāma-vipriyam)!
 </details>
 </details>
 
@@ -1155,6 +1283,14 @@ your own strengths and weakness, and even on making sure of Raghava's capability
 and then it will be apt of you to take up befitting action that will be conducive to your
 interests. [3-37-24,25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** Having taken counsel (mantrayitvā) with all your most righteous ministers (sarvaiḥ sacivaiḥ sārdhaṃ... dharmiṣṭhaiḥ) headed by Vibhīṣaṇa (vibhīṣaṇa-puraskṛtaiḥ), having formed your own resolution (kṛtvā niścayam ātmanaḥ), and having weighed the relative strength and weakness of defects and merits (doṣāṇāṃ ca guṇānāṃ ca sampradhārya balābalam)—
+
+**24:** And having truly ascertained (jñātvā... tattvataḥ) your own strength and that of Rāghava, and determined what is beneficial for you (hitaṃ hi tava niścitya), you ought to do what is fitting (kṣamaṃ tvaṃ kartum arhasi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1220,6 +1356,12 @@ this advise of mine, to which you may listen further. [3-37-25]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तेळनॆयु सर्ग सम्पूर्णवायितु.॥37॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I, for my part, deem an encounter in battle (raṇe samāgamam) with the son of the King of Kosala (kosala-rāja-sūnunā) unfitting for you (tava na kṣamam); therefore, O lord of night-roamers (niśācarādhipa), hear further this supreme, fitting, and reasonable counsel (vākyam uttamaṃ kṣamaṃ ca yuktaṃ ca)!’
 </details>
 </details>
 

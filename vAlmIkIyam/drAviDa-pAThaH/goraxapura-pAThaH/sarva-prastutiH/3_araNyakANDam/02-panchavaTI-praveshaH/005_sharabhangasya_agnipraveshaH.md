@@ -85,6 +85,16 @@ in ascesis, wealthy, to Sharabhanga, we will go.
 "Difficult is this impassable forest, nor we are forest inhabitants either... let's go quickly to that ascetically rich
 sage Sharabhanga..." [3-5-2b, 3a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Having slain that rākṣasa Virādha of terrible strength (bhīma-balam) in the forest, the heroic [Rāma] then embraced Sītā and consoled (samāśvāsya) her.
+
+**2:** Rāma spoke to his brother Lakṣmaṇa of blazing splendour (dīpta-tejasam): “Arduous and impassable (durgam) is this forest, and we are not accustomed to the wilderness (vana-gocarāḥ).
+
+**3:** “Let us quickly approach Śarabhaṅga, rich in asceticism (tapo-dhanam).” [Having spoken thus,] Rāghava set out toward the hermitage of Śarabhaṅga.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +137,12 @@ wonder, has seen.
 
 On his approach at the hermitage of Sage Sharabhanga, a sage with a divine effect and the one with a purified soul, saw
 a great wonder at the nearby of that hermitage of Sharabhanga.[3-5-3b, 4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Near that Śarabhaṅga of divine power (deva-prabhāvasya), whose self was purified by austerity (tapasā bhāvitātmanaḥ), he beheld a great marvel (mahad adbhutam).
 </details>
 </details>
 
@@ -184,6 +200,14 @@ Rama has seen Indra, the lord of three worlds, with a radiant body that has the 
 on a great chariot that does not touch the earth, wearing greatly brilliant ornaments and attired in spotless dress, while
 the other divinities are attending, and many more selfsame great-souls are worshipping him. [3-5-5, 6, 7a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** [He saw one] shining forth with his form, resplendent like the sun and fire (sūrya-vaiśvānara-prabham), mounted upon a preeminent chariot in the sky and attended by the gods (vibudhānugam).
+
+**6:** He beheld the lord of the gods (vibudheśvaram) not touching the earth (asaṃspṛśantaṃ vasudhām), a deity adorned with radiant ornaments and wearing dustless celestial garments (virajo’mbara-dhāriṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -214,6 +238,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनन्तॆ वेषभूषणगळुळ्ळ बेरॆ अनेक महात्मरु देवेन्द्रनन्नु पूजिसुत्तिद्दरु. अवर रथगळु आकाशदल्लि निन्तिद्दवु. रथगळिगॆ हसिरु बण्णद कुदुरॆगळन्नु हूडिद्दरु. श्रीरामनु आग ताने उदयिसिद सूर्यनन्तॆ प्रकाशिसुत्तिद्द रथवन्नु हत्तिरदिन्द नोडिदनु.॥7½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He beheld him] being reverenced by many great-souled beings of like appearance (tadvidhair eva), and [saw] near him a chariot stationed in the mid-space (antarikṣa-gatam), yoked with green steeds (haritair vājibhiḥ).
 </details>
 </details>
 
@@ -259,6 +289,12 @@ firmament, traversing, chariot [of Indra] [raamaH] dadarsha = Rama, saw.
 
 Rama saw at his very nearby a chariot yoked with green horses that traverses in firmament, which in its splendour is either
 like the noontime sun, or a cluster of silver clouds, or like the silvern sphere of the moon. [3-5-7b, 8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not far from him (adūratas tasya), he saw [that chariot] resembling the newly risen sun (taruṇāditya-saṃnibham), gleaming with the dense luster of a white cloud (pāṇḍurābhra-ghana-prakhyam) and resembling the orb of the moon.
 </details>
 </details>
 
@@ -315,6 +351,12 @@ Comment: The royal umbrella and fanning instruments of Hindu order are of partic
 counterparts. These chamara instruments will be made from the bushy long, silver-white hair of chamara animal, a Himalayan
 beast, [Bos grunniens] and the hair will be studded into a golden or silver handle. These are not for actual air circulation
 but they are royal insignias.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He beheld a spotless parasol (vimalaṃ chatram) graced with variegated garlands, and two preeminent, costly yak-tail fans (cāmara-vyajane) with golden handles (rukma-daṇḍe).
 </details>
 </details>
 
@@ -380,6 +422,16 @@ Rama; *lakshmanam* = to Lakshmana; *abraviit* = spoke.
 
 On seeing Indra speaking there to sage Sharabhanga, Rama spoke to Lakshmana. [3-5-11b, 12a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** Held by two celestial maidens (vara-nārībhyām) and waved above his head, [they shone] while many Gandharvas, gods, Siddhas, and supreme sages (paramarṣayaḥ)—
+
+**11:** —extolled with choicest hymns (gīrbhir agryābhiḥ) the god stationed in the sky. While Vāsava was thus conversing with Śarabhaṅga—
+
+**12:** —Rāma, having seen Śatakratu there, spoke to Lakṣmaṇa; pointing out the chariot, Rāma then showed that marvel (adbhutam) to his brother.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -422,6 +474,12 @@ pradarshayan* = his amazement, to Lakshmana, on showing; oh, Lakshmana; *archiSm
 
 Rama then on pointing out the chariot expressed his own amazement saying, "Lakshmana see this wonderful chariot that includes
 effulgence and auspiciousness as well, and that abides in firmament, and highly luminous like the Sun... [3-5-12b, 13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold, O Lakṣmaṇa, this wondrous chariot stationed in the sky, radiant with rays (arciṣmantam), endowed with splendour, and blazing like the scorching sun!
 </details>
 </details>
 
@@ -471,6 +529,12 @@ firmament, abiding; *divyaaH ime* = divine, they, dhruvam = definitely.
 "Of which horses we have earlier heard from our teachers telling that they belong to Indra, the Chief Invitee in Vedic rituals,
 they are these divinely green horses that now abide in the firmament, and definitely these must be Indra's horses... [3-5-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Those divine horses of Puruhūta—of Śakra—of whom we had heard in former times (purā naḥ śrutāḥ): surely these stationed in the sky are those very green steeds (harayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -499,6 +563,14 @@ they are these divinely green horses that now abide in the firmament, and defini
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषसिंहने! ई रथद इक्कॆलगळल्लि कैगळल्लि खड्ग वन्नु हिडिदु कुण्डलदारी नूरु-नूरु युवकरु निन्तिरुवरु. अवर वक्षस्थळवु उब्बिकॊण्डु विशालवागिवॆ. भुजगळु परिघगळन्तॆ सुदृढ हागू दष्टपुष्टवागिदॆ. इवरॆल्लरू कॆम्पुवस्त्रगळन्नु धरिसिकॊण्डिद्दु, हुलिगळन्तॆ दुर्जयरागिरुवरु.॥15-16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** “And these, O tiger among men, who stand in every direction (abhito diśam) by hundreds upon hundreds (śataṃ śatam)—youths wearing earrings (kuṇḍalinaḥ) with swords in hand—
+
+**16:** “—possessing broad and muscular chests (vistīrṇa-vipuloraskāḥ), with arms long as iron bars (parighāyata-bāhavaḥ), all clad in crimson-rayed garments (śoṇāṃśu-vasanāḥ), unassailable like tigers—
 </details>
 </details>
 
@@ -549,6 +621,12 @@ ear-ornaments and swords in hands, with wide and broad chests, with club shaped 
 all are like tigers, all are unapproachable, all of them are wearing ornamental chains on their chest-place that are akin
 to flaring fires, and in their appearance, Soumitri, they always bear a look of twenty-five-year-olds... [3-5-15, 16, 17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—upon the chests of all of them are necklaces (hārāḥ) resembling blazing fire; O Saumitri, they bear the form of twenty-five years of age (pañcaviṃśati-vārṣikam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -594,6 +672,12 @@ remains, they say; [elliptic: for they are immortals and they will be ever young
 "The age factor of gods remains constant at the age that appears for these nice-looking Tigerly-men, so they say...
 for gods are immortals and they will be ever young... [3-5-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this, indeed, is forever the constant age of the gods (devānāṃ vayaḥ), just as these tigers among men of pleasing aspect are seen to bear.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -638,6 +722,12 @@ a resplendent one, on chariot.
 
 "Stay for a moment Lakshmana along with Vaidehi, until I know clearly about that resplendent one on that chariot... [3-5-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Remain right here with Vaidehī for a moment (muhūrtam), O Lakṣmaṇa, until I ascertain clearly (vyaktam) who this radiant personage is upon the chariot.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -681,6 +771,12 @@ on saying; *kaakutshhaH* = Kakustha scion, Rama; *sharabhanga; *aashramam prati*
 **अनुवादः**
 
 On saying to Lakshmana stay there only...' Rama proceeded towards the hermitage of Sage Sharabhanga.. [3-5-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to Saumitri—“Let a halt be made right here (ihaiva sthīyatām)”—Kākutstha strode forth toward the hermitage of Śarabhaṅga.
 </details>
 </details>
 
@@ -727,6 +823,12 @@ On saying to Lakshmana stay there only...' Rama proceeded towards the hermitage 
 Then, on seeing Rama arriving there, Indra, bade farewell to Sage Sharabhanga and said this to the celestials attending
 him. [3-5-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Śacī’s lord [Indra], beholding Rāma approaching closely (samabhigacchantam), took leave of Śarabhaṅga (anujñāpya) and spoke this [word] to the gods:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -751,6 +853,12 @@ him. [3-5-21]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामचन्द्रनु इल्लिगॆ बरुत्तिरुवनु, अवनु नन्नॊन्दिगॆ एनादरू मातनाडुव मॊदले नीवु नन्नन्नु इल्लिन्द बेरॆ कडॆगॆ ऒय्यिरि. ईग श्रीरामनॊन्दिगॆ नन्न सन्दर्शन आगबारदु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yonder Rāma is drawing near here; before he addresses me, convey [me] to our destination (niṣṭhāṃ nayata); thereafter [when his task is done] he is worthy to behold me.
 </details>
 </details>
 
@@ -811,6 +919,12 @@ The same verse in Dharmaakuutam is like this,
 In any case, the import is this "Now he that Rama can not talk to me, and after getting the results of his incarnation,
 i.e., elimination of Ravana, then only he can see me..."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For not long hereafter I [shall behold] him victorious (jitavantam) and his purpose accomplished (kṛtārtham); for a mighty deed, most difficult for others to achieve (suduṣkaram), must be performed by him.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -865,6 +979,12 @@ Ravana will apprehend that and then revokes his boon of not to be killed by any 
 Rama to be a human being, so long he dares any human to confront, because he slighted humans when seeking his boon. Ravana
 can be ended only by Rama, but not by others. Hence, Indra departed from there before the arrival of Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the thunderbolt-wielder (vajrī), the tamer of foes, having taken leave of that ascetic and honored him, departed to heaven (divam) by his horse-yoked chariot.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -917,6 +1037,12 @@ the enclosures for Rama are Seetha and Lakshmana. As with any deity in a sanctum
 walls and sanctimonious atmosphere, Rama is enclosed by that impregnable Lakshmana like a firewall, where the sanctimonious
 environ is the presence of Seetha, near at Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the thousand-eyed [Indra] had departed, Rāghava, accompanied by his retinue (saparicchadaḥ), approached Śarabhaṅga, who was seated beside his sacred fire-oblation (agnihotram upāsīnam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -962,6 +1088,12 @@ labdha vaasaa* = obtaining, shelter [say, for that day and for first time]; *nim
 Touching the feet of that Sage Sharabhanga Rama along with Seetha and Lakshmana, and duly permitted and invited by that
 Sage Sharabhanga they sat there, as they obtained a shelter. [3-5-26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having clasped his feet, Rāma, Sītā, and Lakṣmaṇa sat down as permitted by him (tad-anujñātāḥ), having been granted a lodging place (labdha-vāsāḥ) and hospitably welcomed.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1005,6 +1137,12 @@ Sharabhanga also; *raaghvaaya* = to Raghava; *tat sarvam*
 **अनुवादः**
 
 Then, Raghava enquired with sage about the arrival of Indra and Sage Sharabhanga narrated all that to him. [3-5-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāghava inquired about the arrival of Śakra (śakropayānam), and Śarabhaṅga related all of that to Rāghava:
 </details>
 </details>
 
@@ -1053,6 +1191,12 @@ abode; *maam* = me; *niniiSati* = wishes to take.
 
 "Oh! Rama, that boon-giver Indra wishes to take me to Brahma's abode, which is achieved by me by my arduous ascesis and
 that which is unattainable for them with their souls unconquered... [3-5-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This boon-granting [Indra], O Rāma, desires to lead (ninīṣati) me to Brahmaloka, which has been won by fierce austerity and is hard to attain by the undisciplined (akṛtātmabhiḥ).
 </details>
 </details>
 
@@ -1109,6 +1253,12 @@ an impracticable affair. Hence the mortal body is to be cast off here only. If t
 request of Indra, the sage's mortal eyes cannot see Rama, for Rama leaves this earth after fulfilling his vow of eradicating
 evil, and equally, a Sage of high order like Sharabhanga, on going to Brahma's abode will not return as an earthling. Hence
 seeing and receiving Rama is his priority now.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Knowing you, O tiger among men, to be dwelling not far away (adūrataḥ), I do not depart for Brahmaloka without having beheld you, my beloved guest (priyātithim).
 </details>
 </details>
 
@@ -1169,6 +1319,12 @@ tripaadasya amR^itam divi...*' etc. Dharmaakootam puts it as *brahma lokam gamiS
 without separating this concept into two kinds of heavens, namely paradise and Brahma's abode. Hence there is nothing enjoyable
 in any of the said heavens, than having a glance at you. Maheshvara Tiirtha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having met with you, O tiger among men—righteous and great-souled as you are—I shall depart to heaven (tridivam), both the lower and the supreme (avaraṃ param).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1227,6 +1383,12 @@ with oblating water saying ' *karomi yad yat sakalam parsmai naaraayaNaayeti sam
 in all its entirety, I dedicate it unto the Supreme...' And Govindaraja observes, whatever that is acquired by the sage
 is his wealth. So the heavenly abodes are his only wealth as of now, and they all are surrendered to Rama, as guest-worship.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O tiger among men, imperishable and auspicious worlds (akṣayāḥ śubhāḥ lokāḥ) have been won by me—both those of Brahmā (brāhmyāḥ) and those upon the vault of heaven (nāka-pṛṣṭhyāḥ); do you accept them as mine!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1271,6 +1433,12 @@ this sentence, said.*
 
 Thus said by the Sage Sharabhanga to that Manly-tiger Rama, being the scholar in all the scriptures he spoke this sentence
 to that sage. [3-5-32]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by the sage Śarabhaṅga, Rāghava, that tiger among men conversant with all scriptures (sarva-śāstra-viśāradaḥ), spoke these words:
 </details>
 </details>
 
@@ -1341,6 +1509,12 @@ away, or merge and thus Rama is said to express 'I snatch away everything and an
 does not do it for his own sake...' This is said to be God's *karma phala swiikaara* 'receiving of the fruits of
 work...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I myself shall win (aham evāhariṣyāmi) all those worlds, O great sage; I desire only a dwelling place prescribed (āvāsaṃ pradiṣṭam) by you here in the forest.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1385,6 +1559,12 @@ way, spoke, sentence.
 
 Thus said by Raghava, who is like Indra in strength, that supremely intellectual Sage Sharabhanga again spoke this sentence
 this way. [3-5-34]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Rāghava, whose strength equaled Śakra’s, Śarabhaṅga of great wisdom (mahā-prājñaḥ) spoke once more:
 </details>
 </details>
 
@@ -1434,6 +1614,12 @@ saH te shreyaH vidishyati* = he, to you, benignant, will do.
 "Here, oh! Rama, a great resplendent sage named Suteekshna, lives in this forest...a virtuous and a self-disciplined one,
 and he will do something benignant to you... [3-5-35]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here in the forest, O Rāma, dwells a righteous ascetic of great splendour named Sutīkṣṇa, self-controlled (niyataḥ); he will arrange what is auspicious for you (śreyo vidhāsyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1481,6 +1667,12 @@ vidhaasyati* = he, to you, housing, arranges.
 
 "You approach Sage Suteekshna and to you he will arrange housing in his auspicious and dpleasant place woods of hermits...
 [3-5-36]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Do you approach the ascetic Sutīkṣṇa in a pure spot; in a delightful tract of the forest (ramaṇīye vanoddeśe) he will arrange a dwelling (vāsaṃ vidhāsyati) for you.
 </details>
 </details>
 
@@ -1532,6 +1724,12 @@ at Sage Suteekshna's hermitage...] [3-5-37]
 Comment: Mandaakini is the name of River Ganga, and hence any river with continuous flow is affectionately called Ganga,
 like Dakshina Ganga, Bhaagiirathi etc. So this name of Mandakini is to mean a river here, but not Ganga. Later in Kishkindha
 also River Pampa is called Mandakini, at times.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Follow this river Mandākinī upstream against the current (pratisrotām), bearing rafts of blossoms (puṣpoḍupa-vahām), O Rāma; thereby you shall reach there.
 </details>
 </details>
 
@@ -1593,6 +1791,12 @@ loyalties to Ravana, it is definite that an encounter will ensue and Rama will s
 ultimately ending with Ravana...' this appears to be the logic of all the sages. As such Rama is asked to go on travelling
 towards the evil side of the earth, for all of the sages know about Rama's destination
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is the path, O tiger among men; look upon me for a moment (muhūrtaṃ paśya), dear one, while I cast off my limbs as a serpent sheds its worn slough (jīrṇāṃ tvacam ivoragaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1637,6 +1841,12 @@ susamaadhaaya* = fire, well, invoked; *aajyena* = with clarified butter; *mantra
 
 Then that hymnist on invoking the sacred fire and offering oblations with clarified butter into it, that radiant sage Sharabhanga
 entered that sacred fire. [3-5-39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having kindled and consecrated the sacred fire (agniṃ samādhāya) and offered oblations of clarified butter with mantras (mantravat), Śarabhaṅga of great splendour entered the fire (hutāśanam).
 </details>
 </details>
 
@@ -1702,6 +1912,12 @@ Deva, cannot even touch, rather provides a coolant condition in His lap. It is t
 it also happened with Queen Chandramati, the virtuous wife of Emperor Harishchandra, one of the forefathers of Rama. Thus
 said in Dharmaakuutam:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the fire [consumed] the body-hair and locks of that great-souled sage, his worn skin, his bones, and whatever flesh and blood were his.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1751,6 +1967,12 @@ fire he shone-forth. [3-5-41]
 
 Comment: The age of celestial is always constant like twenty-five-year-olds, as said above by Rama at 3-5-17/18.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And he became a youth (kumāraḥ samapadyata) resplendent like fire (pāvaka-saṃkāśaḥ); rising up from that heap of flames (agni-cayāt), Śarabhaṅga shone forth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1795,6 +2017,12 @@ souls, of saints, also; *devaanaam cha* = divinities, also; *lokaan* = worlds; *
 
 He that Sage Sharabhanga, transcending the ethereal worlds of fire-worshippers, of saints, of great souls, and also of divinities,
 has ascended to Brahma's abode. [3-5-42]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing beyond (vyatikramya) the worlds of ritualists who maintain the sacred fires (āhitāgnīnām), of great-souled sages, and of the gods, he ascended to Brahmaloka.
 </details>
 </details>
 
@@ -1858,6 +2086,12 @@ happily spoke to him... "Welcome..." [3-5-43]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐदनॆय सर्ग सम्पूर्णवायितु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That bull among the twice-born (dvijarṣabhaḥ), of meritorious deeds in the world, beheld Pitāmaha accompanied by his attendants (sānucaram); and Pitāmaha too, beholding that twice-born sage, rejoiced and spoke: “Most welcome (susvāgatam)!”
 </details>
 </details>
 

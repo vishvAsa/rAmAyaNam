@@ -74,6 +74,12 @@ saha* = Lt. Tara, Angada and others, along with; *sangamya* = associated with;
 Associated with Angada, Lt. Tara and others, the monkey Hanuma searched the caves
 and thick forests of Vindhya Range. [4-50-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having united (saṅgamya) with Tāra and Aṅgada, the monkey Hanumān searches (vicinoti) the caves (guhāḥ) and impenetrable thickets (gahanāni) of Mount Vindhya.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ sravaNeSu ca* = towering, rapids, also; *[vicinoti sma* = he has searched.]
 
 Hanuma has searched in the caves of that kingly Mt. Vindhya, which are jammed in
 with lions and tigers, and even at the towering rapids. [4-50-2, 3a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He searched] the caves frequented by lions and tigers (siṃhaśārdūlajuṣṭāḥ) on every side then, across the rugged precipices (viṣameṣu) and mighty cascades (mahāprasravaṇeṣu) of that king of mountains.
 </details>
 </details>
 
@@ -166,6 +178,12 @@ swiftly elapsed.
 They reached the southwest peak of that mountain during their search and the time
 set by Sugreeva swiftly lapsed while they are overstaying thereat that Mt. Vindhya alone.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They reached (āseduḥ) the southwestern peak (koṭiṃ dakṣiṇapaścimām) of that mountain; while they dwelt right there, that appointed period of time (sa kālaḥ) passed away (vyatyavartata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,6 +227,12 @@ sutaH* = Air's, son [Hanuma]; *tatra sarvam parvatam* = there, everywhere, on mo
 Though that extensive province is indeed an unsearchable one with its impenetrable
 caves and forests, yet Hanuma, the son of Air-god, searched everywhere on that mountain. [4-50-3b,
 4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For that vast region (sa deśo mahān), filled with caves and dense thickets (guhāgahanavān), was exceedingly difficult to search (duranveṣyaḥ); there the son of the Wind-god searched the entire mountain.
 </details>
 </details>
 
@@ -281,6 +305,16 @@ southern direction that is encompassed with interlocked mountains, and during th
 they have observed a wide-opened and impassable cavity known as Riksha cavity which is well guarded
 by a demon called Maya. [4-50-5, 6, 7, 8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Kept apart from one another (paraspareṇa rahitāḥ) yet not far from each other (anyonyasyāvidūrataḥ), Gaja, Gavākṣa, Gavaya, Śarabha, and Gandhamādana [searched],
+
+**6:** as did Mainda and Dvivida, Hanumān and Jāmbavān too, Crown Prince (yuvarājaḥ) Aṅgada, and the forest-ranging (vanagocaraḥ) Tāra.
+
+**7:** Having searched the regions overspread with mountain ranges (girijālāvṛtān deśān) and exploring the southern quarter, they then beheld there a wide-open cavern (vivṛtaṃ bilam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -327,6 +361,12 @@ enwrapped; *mahaa bilam dadR^ishuH* = capacious, cavity, they beheld.
 Thirst and hunger invading them they are fatigued and craving for water, and such as
 they are they beheld that capacious cavity which is enwrapped in climbers and trees. [4-50-8,
 9a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the hard-to-access [cavern] named Ṛkṣabila (durgam ṛkṣabilaṃ nāma), guarded by a Dānava (dānavenābhirakṣitam); overcome by hunger and thirst (kṣutpipāsāparītāḥ), exhausted, and longing for water (salilārthinaḥ),
 </details>
 </details>
 
@@ -381,6 +421,12 @@ water, drenched; *padma reNubhiH* = with lotus, pollen; rakta angaaH reddened, w
 There they have seen the swans and the waterfowls like Kraunca, Saarasa, and even
 Cakravaka waterfowls exiting from the cavity with their bodies drenched in water and reddened with
 the dapples of lotuses' pollen. [4-50-9b, 10a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+they beheld that great cavern overgrown with creepers and trees (avakīrṇaṃ latāvṛkṣaiḥ); and from there curlews (krauñcāḥ), swans (haṃsāḥ), and cranes (sārasāḥ) were emerging (niṣkraman),
 </details>
 </details>
 
@@ -451,6 +497,14 @@ Naraka, The Hell of Yama, or Paataala, the Netherworld of Emperor Bali, those hi
 and great mighty fly-jumpers have neared it, rejoicing for the availability of water in there.
 [4-50-11b, 12a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** along with water-drenched cakravāka birds (jalārdrāś cakravākāḥ), their limbs reddened with lotus pollen (raktāṅgāḥ padmareṇubhiḥ). Then, having approached that fragrant (sugandhi), hard-to-traverse cavern,
+
+**11:** the foremost monkeys became agitated in mind with wonder (vismayavyagramanasaḥ); conceiving both hope and apprehension (saṃjātapariśaṅkāḥ), those best of leapers [approached] that cavern.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -505,6 +559,12 @@ That hideous cavity is dispersed with diverse beings, similar to the residence o
 the emperor of demons, namely Emperor Bali, in Paataala, the Netherworld, and it is unsightly and
 impermeable from anywhere. [4-50-12b, 13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing (saṃhṛṣṭāḥ), radiant and of mighty strength, they drew near [that cavern], which teemed with manifold creatures (nānāsattvasamākīrṇam) and resembled the abode of the lord of Daityas (daityendranilayopamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -555,6 +615,12 @@ The son of Air-god Hanuma whose glossiness is like that of a mountaintop and who
 a mastermind in scrutinising every inscrutable forest, then spoke to all of the formidable
 Vanara-s. [4-50-13b, 14a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[That cavern] seemed hard to behold (durdarśam iva), dreadful (ghoram), and utterly impenetrable (durvigāhyaṃ ca sarvaśaḥ). Then Hanumān, son of the Wind-god, resembling a mountain peak (parvatakūṭābhaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -601,6 +667,12 @@ direction; *maargitvaa* = having searched; *pari shraantaa* = overly, fatigued;
 "We all have searched the southern quarter including those places that are enmeshed
 with meshes of mountains, and we are overly fatigued, but Maithili is unnoticed. [4-50-14b,
 15a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+skilled in impenetrable forests (kāntāravanakovidaḥ), spoke to the formidable monkeys: “Having searched the mountain-ringed regions and the southern quarter,
 </details>
 </details>
 
@@ -666,6 +738,14 @@ birds are coming out of this cavity from all over, and even the trees available 
 verdant. Certainly there must be a wellspring, or otherwise a pond with water." Thus Hanuma spoke
 to all monkeys. [4-50-15b, 16, 17a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** we are all thoroughly exhausted (pariśrāntāḥ), and we do not behold Maithilī; yet from this very cavern swans and curlews together with cranes,
+
+**16:** and water-drenched cakravāka birds are flying forth (niṣpatanti sma) on all sides. Surely (nūnam) there is here a well (kūpaḥ) or else a deep pool (hradaḥ) containing water;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -714,6 +794,12 @@ When Hanuma spoke to them thus as a kind of assurance, all those monkeys entered
 cavity and found it as a sunless or moonless cavity, enfolded in hair-raising darkness. [4-50-17b,
 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+moreover, these trees at the cavern entrance (biladvāre) stand glossy and verdant (snigdhāḥ).” Thus addressed, they all entered (viviśuḥ) that darkness-shrouded (timirāvṛtam) cavern.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -760,6 +846,12 @@ entered.
 
 Those tigerly monkeys have also seen lions and various other animals and birds
 exiting therefrom, and entered that cavity which is enshrouded in obscurity. [4-50-18b, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having observed lions and various beasts and birds [emerging] from it, the monkeys beheld [that cavern] devoid of moon and sun (acandrasūryam) and bristling the hair with terror (romaharṣaṇam).
 </details>
 </details>
 
@@ -816,6 +908,12 @@ Despite of the gloominess of that cavity, unobstructed is their eyesight, or the
 vigour or their valorousness, and their permeation is like that of the gust of air as their
 eyesight is actuated even in darkness. [4-50-19, 20a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once those tiger-like monkeys had entered (praviṣṭāḥ) the darkness-enveloped cavern (bilaṃ timirasaṃvṛtam), neither their sight (dṛṣṭiḥ) nor their valor nor their prowess faltered (na sajjate);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -865,6 +963,12 @@ ca* = lovely, also; *uttamam desham dadR^ishuH* = a best, place, they saw.
 But on their going further into that cavity speedily, those elephantine monkeys
 beheld a best place that is luminous, as well as lovely. [4-50-20b, 21a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+their movement (gatiḥ) and their vision in the darkness operated like that of the wind (vāyor iva). Having entered that cavern with speed (vegena), those elephant-like monkeys
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -910,6 +1014,12 @@ antaram jagmuH* = a yojana, interstice, advanced further.
 
 In that awful cave that is compacted with various trees, then they advanced further
 an interstice of yojana distance, hand in hand lest one may miss the other. [4-50-21b, 22a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+beheld a radiant (prakāśam), delightful, and supreme region. Then, inside that dreadful cavern crowded with manifold trees (nānāpādapasaṃkule),
 </details>
 </details>
 
@@ -959,6 +1069,12 @@ Though they are craving for water, highly perplexed, and lost track of their
 destination or any waterway, and yet hopeful of their mission they unwearyingly hopped in that
 cavity for a good while. [4-50-22b, 23a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+clasping one another tightly (anyonyaṃ sampariṣvajya), they travelled a distance of one yojana (yojanam antaram). With their senses bewildered (naṣṭasaṃjñāḥ), parched with thirst, confused, and seeking water,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1007,6 +1123,12 @@ Those fly-jumpers are presently enervated and overly tired, and sad faced, and w
 those brave ones are despaired of their life, just then they perceived a luminescence. [4-50-23b,
 24a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+they wandered about (paripetuḥ) in that cavern for some time unwearied (atandritāḥ). Emaciated (kṛśāḥ), downcast of face (dīnavadanāḥ), and utterly exhausted, those leapers,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1035,6 +1157,12 @@ _________________
 
 अनन्तर अन्धकारदिन्द प्रकाशपूर्ण प्रदेशक्कॆ बन्दु आ सौम्यवानररु अल्लि अन्धकाररहित वनवन्नु नोडिदरु - अल्लि ऎल्ल वृक्षगळु सुवर्णमयवागिद्दु, अग्नियन्तॆ प्रकाशिसुत्तिद्दवु.॥24½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+those heroes, when they had lost all hope of life (nirāśā jīvite yadā), beheld a gleam of light (ālokam); then, reaching that gentle region, a darkness-free forest (vitimiraṃ vanam), [they marveled].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1059,6 +1187,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 साल, ताल, तमाल, नागकेसर, अशोक, धव, सम्पिगॆ, नागवृक्ष मत्तु कणगिलॆ - मुन्ताद ऎल्ल वृक्षगळु हूवुगळिन्द तुम्बिद्दवु.॥25½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They beheld golden trees (kāñcanān vṛkṣān) shining with the radiance of blazing fire (dīptavaiśvānaraprabhān)—sālas, palmyras (tālān), tamālas, puṃnāgas, vañjulas, and dhavas,
 </details>
 </details>
 
@@ -1088,6 +1222,12 @@ _________________
 
 विचित्र सुवर्णमय गॊञ्चलु मत्तु कॆम्पु-कॆम्पाद चिगुरुगळु आ वृक्षगळ मुकुटदन्तॆ इद्दवु. अवुगळल्लि बळ्ळिगळु हब्बिद्दु, अवु तम्म लरूपवागि सुवर्ण आभूषणगळिन्द विभूषितवागिद्दवु.॥26½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+campakas, nāgavṛkṣas, and blossoming karṇikāras—adorned with variegated golden clusters (stabakaiḥ kāñcanaiś citraiḥ) and red tender shoots (raktaiḥ kisalayaiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1115,6 +1255,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवु प्रातःकालद सूर्यनन्तॆ अनिसुत्तिद्दवु. अवुगळ कॆळगॆ वैडूर्यदिन्द वेदि माडलागित्तु. आ सुवर्णमय वृक्षगळु तम्म दीप्तियिन्द प्रकाशितवागुत्तिद्दवु.॥27½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and with chaplet-crests (āpīḍaiḥ) and creepers, decked with golden ornaments (hemābharaṇabhūṣitān), resembling the newly risen sun (taruṇādityasaṃkāśān), with platforms fashioned of cat's-eye gems (vaidūryamayavedikān);
 </details>
 </details>
 
@@ -1209,6 +1355,14 @@ dadR^ishuH* = there, they beheld;
 Then they beheld there the lotus-lakes containing serene waters and stocky lotuses
 and burly fishes that are golden. [4-50-29b, 30a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** [they beheld] golden trees blazing in their form (bibhrājamānān vapuṣā), and lotus beds (padminīḥ) of dark lapis-lazuli hue (nīlavaidūryavarṇāḥ) surrounded by birds (patagair vṛtāḥ),
+
+**29:** ringed by great golden trees resembling the young sun (bālārkasaṃnibhaiḥ), along with great fishes made of gold (jātarūpamayair matsyaiḥ) and great lotuses;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1270,6 +1424,14 @@ There the monkeys beheld choicest mansions everywhere made out of gold and silve
 some with golden and some with silver domes, while some with golden and some with silver
 multi-stories, but all are studded with lapis gems with golden windows covered with laceworks of
 pearls. [4-50-30b-32a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** there they beheld lotus ponds (nalinīḥ) endowed with pellucid water (prasannasalilāyutāḥ), and palaces (vimānāni) of gold and likewise of silver.
+
+**31:** [There were mansions] having windows of refined gold (tapanīyagavākṣāṇi), covered with networks of pearls (muktājālāvṛtāni), with stories of gold and silver (haimarājatabhaumāni), and set with cat's-eye gems (vaidūryamaṇimanti);
 </details>
 </details>
 
@@ -1423,6 +1585,22 @@ glow; *shubhraan* = undefiled; *jaataruupasya sancayaan* = gold's, mounds of;
 Vanara-s have also observed mounds of undefiled gold stockpiled here and there
 glowing with the glow of ritual fire. [4-50-37b, 38a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** there on every side the monkeys beheld foremost mansions (gṛhamukhyāni), and blossoming, fruit-laden trees resembling coral and gems (pravālamaṇisaṃnibhān),
+
+**33:** and golden bees (kāñcanabhramarān) and honey (madhūni) on all sides, and beds and seats (śayanāny āsanāni ca) variegated with gems and gold,
+
+**34:** manifold and spacious, they beheld on all sides, as well as heaps of vessels (bhājanānāṃ ca rāśayaḥ) of gold, silver, and bell-metal (haimarājatakāṃsyānām),
+
+**35:** and stores of divine aloe-wood (agurūṇām) and sandalwood (candanānām), and pure edible roots and fruits (śucīny abhyavahārāṇi mūlāni ca phalāni ca),
+
+**36:** and costly palanquins (mahārhāṇi ca yānāni) and flavorful nectars (madhūni rasavanti), and heaps of divine and precious garments (ambarāṇām).
+
+**37:** [And they beheld] heaps of variegated blankets (kambalānāṃ ca citrāṇām) and deerskins (ajinānām), and set down here and there, blazing with the radiance of fire (vaiśvānaraprabhān),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1519,6 +1697,16 @@ who, are; *bilam kasya vaa* = cavity, whose, either.
 In wonderment the monkeys stood still all over, and in the matter of her identity
 Hanuma asked her, "Who are you? Whose cavity is this, either? [4-50-40b, 40c]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**38:** the monkeys beheld bright heaps of gold (jātarūpasya saṃcayān). Searching here and there inside that cavern, those [monkeys] of great splendor (mahāprabhāḥ),
+
+**39:** the valiant monkeys beheld not far off (adūrataḥ) a certain woman (striyaṃ kāṃcit); and there they beheld her clad in bark-cloth and black antelope skin (cīrakṛṣṇājināmbarām),
+
+**40:** a female ascetic (tāpasīm) of regulated diet (niyatāhārām), blazing as it were with ascetic splendor (jvalantīm iva tejasā). Astonished (vismitāḥ), the monkeys stood still (vyavatiṣṭhanta) there on all sides, and Hanumān asked there: “Who art thou, and whose is this cavern?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1584,6 +1772,12 @@ jewels? Please speak." [4-50-41]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तनॆय सर्ग सम्पूर्णवायितु.॥50॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Hanumān, resembling a mountain (girisaṃnikāśaḥ), with joined palms (kṛtāñjaliḥ) having reverently saluted that aged lady (tām abhivādya vṛddhām), asked: “Who art thou, and tell [us] whose are this mansion, this cavern, and these jewels?”
 </details>
 </details>
 

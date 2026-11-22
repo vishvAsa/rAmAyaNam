@@ -36,6 +36,12 @@ title = "०९५ सीता-शपथ-व्यवस्था"
 
 ई प्रकार श्रीरामनु ऋषिगळ, राजर मत्तु वानररॊन्दिगॆ अनेक दिनगळवरॆगॆ आ उत्तम रामायणद गानवन्नु केळुत्ता इद्दनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus for many days Rāma listened to that supremely auspicious song (rāmo bahūny ahāny evaṃ tad gītaṃ paramaṃ śubham) together with the sages, the monarchs, and the vānaras (śuśrāva munibhiḥ sārdhaṃ pārthivaiḥ saha vānaraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -65,6 +71,14 @@ title = "०९५ सीता-शपथ-व्यवस्था"
 
 आ कथॆयिन्दले कुश-लव इब्बरू कुमाररु सीतॆय सुपुत्ररागिद्दारॆ ऎन्दु अवनिगॆ तिळियितु. इदन्नु तिळिदु सभामध्यदल्लि कुळित्तिद्द श्रीरामचन्द्रनु शुद्ध आचार-विचारवुळ्ळ दूतरन्नु करॆसि नीवीगले पूज्यराद वाल्मीकिगळ बळिगॆ होगि, अवरिगॆ नन्न ई सन्देश तिळिसिरि ऎन्दु हेळिदनु.॥2-3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** When, through that very song, he came to know Kuśa and Lava to be Sītā’s sons (tasmin gīte tu vijñāya sītā-putrau kuśīlavau), Rāma spoke these words in the midst of that assembly (tasyāḥ pariṣado madhye rāmo vacanam abravīt);
+
+**3:** summoning messengers of spotless conduct by his own discernment (dūtāñ chuddha-samācārān āhūyātma-manīṣayā), he said: “Go forth from here into the presence of the blessed sage (gacchadhvam ito bhagavato ’ntikam) and deliver my words (mad-vaco brūta):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -89,6 +103,12 @@ title = "०९५ सीता-शपथ-व्यवस्था"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सीतॆय चरित्र शुद्धवागिद्दरॆ, आकॆयल्लि यावुदे पापविल्लदिद्दरॆ, अवळु महामुनिगळ अनुमति पडॆदु इल्लिगॆ जनसमुदायदल्लि बन्दु तन्न शुद्धतॆयन्नु प्रमाणितगॊळिसलि.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘If she is pure in conduct or if she is free from all blemish (yadi śuddha-samācārā yadi vā vīta-kalmaṣā), let her perform her own vindication here (karotv ihātmanaḥ śuddhim), having obtained the great sage’s consent (anumānya mahāmunim).’
 </details>
 </details>
 
@@ -115,6 +135,12 @@ title = "०९५ सीता-शपथ-व्यवस्था"
 
 नीवु ई विषयदल्लि महर्षि वाल्मीकिगळ हागू सीतॆय हार्दिक अभिप्राय तिळिदु, अवळु इल्लिगॆ बन्द तन्न शुद्धतॆय बग्गॆ विश्वास उण्टु माडलु बयसु त्तिरुवळे ऎन्दु अरितु बेगने ननगॆ सूचिसिरि.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having ascertained the sage’s wish (chandaṃ muneś ca vijñāya) and the inward intention of Sītā (sītāyāś ca manogatam), should she desire to offer proof (pratyayaṃ dātukāmāyāḥ), report swiftly back to me (tataḥ śaṃsata me laghu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,6 +165,12 @@ title = "०९५ सीता-शपथ-व्यवस्था"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नाळॆ बॆळिग्गॆ मिथिलेश कुमारि जानकियु तुम्बिद सभॆगॆ बरलि मत्तु नन्न कलङ्कवन्नु दूरगॊळिसलु शपथ माडलि.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tomorrow at dawn let Maithilī, daughter of Janaka (śvaḥ prabhāte tu ... maithilī janakātmajā), perform an oath in the midst of the assembly (śapathaṃ ... karotu pariṣan-madhye) for my own exoneration as well (śodhanārthaṃ mamaiva ca).”
 </details>
 </details>
 
@@ -165,6 +197,12 @@ title = "०९५ सीता-शपथ-व्यवस्था"
 
 श्रीरघुनाथन अत्यन्त अद्भुत मातन्नु केळि दूतरु वाल्मीकि मुनिगळु विराजिसुत्तिद्द कुटीरक्कॆ होदरु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing these supremely wondrous words of Rāghava (śrutvā tu rāghavasyaitad vacaḥ paramam adbhutam), the messengers swiftly went to the enclosure where that foremost of sages dwelt (dūtāḥ samprayayur vāṭaṃ yatrāste munipuṅgavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -190,6 +228,12 @@ title = "०९५ सीता-शपथ-व्यवस्था"
 
 महात्मा वाल्मीकिगळु अमित तेजस्वीयागिद्दु, तन्न तेजदिन्द अग्नियन्तॆ प्रज्वलिसुत्तिद्दरु. आ दूतरु अवरिगॆ वन्दिसि, श्रीरामन मातन्नु मधुर कोमल शब्दगळल्लि हेळिदरु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing down before that great-souled sage blazing with measureless radiance (te praṇamya mahātmānaṃ jvalantam amita-prabham), they spoke Rāma’s gentle and sweet words (ūcus te rāma-vākyāni mṛdūni madhurāṇi ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -214,6 +258,12 @@ title = "०९५ सीता-शपथ-व्यवस्था"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ दूतर मातन्नु केळि, श्रीरामन हार्दिक अभिप्रायवन्नु तिळिदु, आ महातेजस्वी मुनिगळु ई प्रकार हेळिदरु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing what they had spoken (teṣāṃ tad vyāhṛtaṃ śrutvā) and discerning Rāma’s inward intent (rāmasya ca manogatam vijñāya), the greatly resplendent sage then spoke this reply (sumahātejā munir vākyam athābravīt):
 </details>
 </details>
 
@@ -243,6 +293,12 @@ _________________
 
 हागॆये आगुवुदु, निमगॆ ऒळ्ळॆयदागलि. श्रीरामनु आज्ञापिसिदन्तॆये सीतॆयु माडुवळु; एकॆन्दरॆ पतियु पत्निगॆ देवतॆयागिद्दानॆ.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So let it be, good fortune to you (evaṃ bhavatu bhadraṃ vaḥ)! Just as Rāghava says (yathā vadati rāghavaḥ), so shall Sītā do (tathā kariṣyate sītā)—for a husband is indeed a woman’s deity (daivataṃ hi patiḥ striyāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -267,6 +323,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुनिगळु हीगॆ हेळिदाग आ दूतरु महातेजस्वी श्रीरघुनाथन बळिगॆ मरळि बन्दु, मुनिगळु हेळिद ऎल्लवन्नु हागॆये निवेदिसि कॊण्डरु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the sage (tathoktā muninā sarve), all the royal messengers swiftly returned to the mighty-splendored Rāghava (rājadūtā mahaujasam pratyetya rāghavaṃ kṣipram) and reported the sage’s words (muni-vākyaṃ babhāṣire).
 </details>
 </details>
 
@@ -293,6 +355,12 @@ _________________
 
 महात्मा वाल्मीकिगळ मातन्नु केळि श्रीरामनिगॆ बहळ सन्तोषवायितु. अवनु अल्लिगॆ बन्दिरुव ऋषिगळल्लि, राजरल्लि हीगॆ हेळिदनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Kākutstha, greatly gladdened upon hearing the words of that great-souled one (tataḥ prahṛṣṭaḥ kākutsthaḥ śrutvā vākyaṃ mahātmanaḥ), addressed the sages and kings gathered there (ṛṣīṃs tatra sametāṃś ca rājñaś caivābhyabhāṣata):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,6 +385,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूज्यपाद नीवॆल्ल मुनिगळु शिष्यरॊन्दिगॆ सभॆगॆ आगमिसिरि. सेवकर सहित राजरू उपस्थितरागलि. सीतॆय प्रतिज्ञॆ केळलु बयसुववरू बरलि. हीगॆ ऎल्ल जनरू ऒट्टागि बन्दु सीतॆय शपथवन्नु केळलि.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let the blessed sages with their disciples (bhagavantaḥ saśiṣyā vai), and the lords of men with their retinues (sānugāś ca narādhipāḥ), behold Sītā’s oath (paśyantu sītā-śapatham), along with whoever else besides desires to witness it (yaś caivānyo ’pi kāṅkṣate)!”
 </details>
 </details>
 
@@ -343,6 +417,12 @@ _________________
 
 महात्मा राघवेन्द्रन मातन्नु केळि समस्त महर्षिगळु साधु! साधु! ऎन्दु उद्गरिसिदरु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of the great-souled Rāghava (tasya tad vacanaṃ śrutvā rāghavasya mahātmanaḥ), a mighty cry of applause arose from all the foremost sages (sarveṣām ṛṣi-mukhyānāṃ sādhuvādo mahān abhūt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -367,6 +447,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजरू कूड महात्मा श्रीरामनन्नु प्रशंसिसुत्ता हेळिदरु - नरश्रेष्ठने! ई पृथिवियल्लि उत्तम मातुगळु केवल निन्नल्ले इरबल्लवु, बेरॆ यारल्लियू इरलारवु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the great-souled monarchs praised Rāghava (rājānaś ca mahātmānaḥ praśaṃsanti sma rāghavam): “O best of men, this is fitting in you alone upon earth, and in none other (upapannaṃ nara-śreṣṭha tvayy eva bhuvi nānyataḥ)!”
 </details>
 </details>
 
@@ -395,6 +481,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ मरुदिन सीतॆय शपथ माडुवुदागि निश्चयिसि, शत्रुसूदन श्रीरामनु ऎल्लरन्नु बीळ्कॊण्डनु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus made the firm decision, “Tomorrow at dawn” (evaṃ viniścayaṃ kṛtvā śvobhūta iti rāghavaḥ), Rāghava, slayer of foes, then dismissed all of them (visarjayām āsa tadā sarvāṃs tāñ chatrusūdanaḥ).
 </details>
 </details>
 
@@ -440,6 +532,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि तॊम्भत्तैदनॆय सर्ग पूर्णवायितु. ॥95॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus having thoroughly deliberated the firm resolve for the oath on the morrow (iti sampravicārya rājasiṃhaḥ śvobhūte śapathasya niścayaṃ vai), that lion among kings, great-souled and high-minded, dismissed all the great sages and kings (visasarja munīn nṛpāṃś ca sarvān sa mahātmā mahato mahānubhāvaḥ).
 </details>
 </details>
 

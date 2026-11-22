@@ -73,6 +73,12 @@ monkeys; *dadR^ishaH* = beheld; *bhraatarau* = the brothers; *raama lakSmaNau*
 Thereafter, surveying the earth and the sky, the monkeys beheld the brothers Rama
 and Lakshmana, covered with arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scanning both the sky and the earth (dyāṃ pṛthivīṃ caiva vīkṣamāṇāḥ), the forest-dwellers (vanaukasaḥ) beheld the two brothers Rāma and Lakṣmaṇa covered all over with arrows (saṃtatau bāṇaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +129,12 @@ his work and retired; even as Indra* would, after raining.
 
 � Indra: The god of the sky and the given of rain.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that Rākṣasa, having accomplished his deed (kṛtakarmaṇi rākṣase), had ceased [raining shafts] like the rain-god after pouring down rain (vṛṣṭvevoparate deve), Vibhīṣaṇa arrived at that spot together with Sugrīva (sasugrīvo vibhīṣaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -169,6 +181,12 @@ his work and retired; even as Indra* would, after raining.
 Nila, Dvivida, Mainda, Sushena, kumuda, Angada along with Hanuman forthwith began to
 grieve for Rama and Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nīla, Dvivida, Mainda, Suṣeṇa, Kumuda, and Aṅgada, together with Hanūmān, swiftly lamented the two Rāghavas (tūrṇaṃ hanumatā sārdham anvaśocanta rāghavau)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +212,12 @@ grieve for Rama and Lakshmana.
 
 आग अवरिब्बरु सहोदररु हसिविनिन्द व्याकुलरागि शरशय्यॆयल्लि बिद्दिद्दरु. बाणगळिन्द अवर इडी शरीर नोयुत्तित्तु. अवरु निश्चलरागि निधानवागि उसिराडुत्तिद्दरु. अवर चेष्टॆगळॆल्ल निन्तु होगिद्दवु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Who lay motionless (aceṣṭau), breathing faintly (mandaniḥśvāsau), bathed in blood (śoṇitena pariplutau), heaped over with a network of arrows (śarajālacitau), rigid (stabdhau), and stretched upon a couch of shafts (śayānau śaratalpagau);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -218,6 +242,12 @@ grieve for Rama and Lakshmana.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सर्पगळन्तॆ निट्टुसिरुबिडुत्ता निश्चेष्टितरागि बिद्दिरुव अवर पराक्रम मङ्कागित्तु. अवर इडी देहगळु रक्तदिन्द तोय्दु होगिद्दवु. मुरिदुबिद्द ऎरडु सुवर्णध्वजगळन्तॆ अवरु काणुत्तिद्दरु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hissing like two serpents (niḥśvasantau yathā sarpau), bereft of movement and sluggish in vigor (mandavikramau), their limbs smeared with streaming blood (rudhirasrāvadigdhāṅgau), like two standards of burnished gold (tapanīyāv iva dhvajau);
 </details>
 </details>
 
@@ -246,6 +276,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वीर शय्यॆयल्लि मलगिद्द, चेष्टाहीनराद आ वीररु, कण्णीरु तुम्बिद वानर सेनानायकरिन्द सुत्तुवरॆदिद्दरु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those two heroes lying upon their hero's bed with faint stirrings of life (mandaceṣṭitau), surrounded by their troop-commanders whose eyes were turbid with tears (bāṣpavyākulalocanaiḥ).
 </details>
 </details>
 
@@ -305,6 +341,12 @@ lying on heroes' couch, those warriors with tardy movement of their limbs, were 
 monkey-leaders, whose eyes were suffused with tears. Seeing the two Raghavas, pierced by a
 multitude of arrows, all the monkeys along with Vibhishana became perturbed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the two Rāghavas fallen and enveloped in a network of arrows (śarajālasamanvitau), all the Vānaras together with Vibhīṣaṇa were stricken with anguish (babhūvur vyathitāḥ sarve).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +392,12 @@ multitude of arrows, all the monkeys along with Vibhishana became perturbed.
 
 The monkeys surveyed all the quarters in the sky, without being able to discover
 Indrajit (the son of Ravana), who was veiled by his magic powers in the fight.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though scanning the sky and all the directions (antarikṣaṃ nirīkṣanto diśaḥ sarvāś ca), the Vānaras could not behold Rāvaṇa's son concealed by illusion in the battle (māyayā channaṃ rāvaṇim).
 </details>
 </details>
 
@@ -398,6 +446,12 @@ pratichchhannam* = duly hidden by his occult power.
 
 Vibhishana, beholding by his magic arts, saw that nephew, standing nearby, duly
 hidden by his occult power.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet Vibhīṣaṇa, gazing by means of his own mystic power (māyayaiva vīkṣamāṇaḥ), beheld his brother's son—who was veiled in illusion (māyāpraticchannam), of peerless deeds, and unrivalled in combat—standing directly before him (agre bhrātuḥ putram avasthitam).
 </details>
 </details>
 
@@ -449,6 +503,12 @@ Althought that warrior who had no peer in the field and who had unique exploits,
 made himself invisible by virtue of the boon he had received, he was recognized by Vibhishana, who
 was full of energy, glory and prowess.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Endowed with splendor, renown, and valor (tejasā yaśasā caiva vikrameṇa ca saṃyutaḥ), Vibhīṣaṇa beheld that invisible hero by virtue of a divine boon (varadānāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -496,6 +556,12 @@ all the demons; *uvaacha* = said.
 Contemplating his own feat, Indrajit gazed on those two warriors, stretched on the
 earth and in excess of joy, wishing to share it with all the demons, said.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surveying his own feat (ātmanaḥ karma) and those two lying prostrate (tau śayānau samīkṣya ca), Indrajit, supremely delighted, spoke while gladdening all the Rākṣasas (harṣayan sarvarākṣasān):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -535,6 +601,12 @@ killed; *maamakaiH* = by my; *baaNaiH* = arrows.
 
 "The exceedingly strong brothers Rama and Lakshmana, the killers of Khara and
 Dushana have been killed by my arrows."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The two mighty brothers Rāma and Lakṣmaṇa, the slayers of Dūṣaṇa and Khara (dūṣaṇasya ca hantārau kharasya ca), have been laid low by my arrows (sāditau māmakair bāṇaiḥ)!”
 </details>
 </details>
 
@@ -584,6 +656,12 @@ themselves; *etasmaat iSubandhanaat* = from those arrows that paralyse them.
 
 "Even were they aided by the gods and demons with the host of sages, these two
 brothers would never be able to release themselves from those arrows that paralyse them."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if all the gods and Asuras, together with the hosts of sages (sarṣisaṅghaiḥ surāsuraiḥ), were to assemble together (samāgamya), they could not release these two from this bond of arrows (etasmād iṣubandhanāt)!
 </details>
 </details>
 
@@ -651,6 +729,14 @@ couch with his limbs, who remains absorbed in thought and stricken with grief an
 the entire city of Lanka remains agitated, like a river during the rains, has ban destroyed by
 me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “He on whose account (yatkṛte) the three-watched night passes (triyāmā yāti śarvarī) for my grief-stricken father as he broods without his limbs ever touching his bed (aspṛṣṭvā śayanaṃ gātraiḥ)—
+
+**15:** “He on whose account this entire city of Laṅkā is convulsed like a river during the rains (nadī varṣāsv ivākulā)—that very calamity who strikes at our roots (mūlaharo 'narthaḥ) has been quelled by me (śamito mayā) for the sake of all!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -700,6 +786,12 @@ _________________
 "As clouds are useless in the autumn, so are all the exploits of Rama, Lakshmana and
 all the monkeys."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All the exploits (vikramāḥ sarve) of Rāma, of Lakṣmaṇa, and of all the forest-dwellers have become fruitless (niṣphalāḥ), like clouds in autumn (yathā śaradi toyadāḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -745,6 +837,12 @@ too; *parishyataH* = who were observing.
 
 Thus speaking to all those demons, Indrajit the son of Ravana (by his arrows0 struck
 the monkey chief.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to all those Rākṣasas who were looking on around him (paripaśyataḥ), Rāvaṇa's son also struck all those Vānara troop-commanders (yūthapān api tān sarvāṃs tāḍayat).
 </details>
 </details>
 
@@ -796,6 +894,12 @@ superb arrows (on each).
 Striking Nila with nine arrows, Indrajit the destroyer of foes tormented Mainda and
 Dvivida with three superb arrows on each.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Striking Nīla with nine shafts (nīlaṃ navabhir āhatya), that slayer of foes (amitraghnaḥ) tormented both Mainda and Dvivida with three supreme arrows each (tribhis tribhiḥ parameṣubhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -837,6 +941,12 @@ Dvivida with three superb arrows on each.
 Indrajit the wielder of a great bow smacked the chest-region of Jambavan with an
 arrow and released ten arrows towards Hanuman, the swift monkey.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having pierced Jāmbavān in the chest with an arrow (viddhvā bāṇena vakṣasi), that wielder of a mighty bow (maheṣvāsaḥ) loosed ten shafts against the swift Hanūmān (hanūmato vegavato visasarja śarān daśa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -876,6 +986,12 @@ Gavaksha; *sharabham chaiva* = and Sharabha; *amitavikramau* = of unbounded valo
 
 Indrajit the son of Ravana of great swiftness, struck both Gavaksha and Sharabha of
 unbounded valour with two arrows on each of them, in that battle.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With two shafts each (dvābhyāṃ dvābhyām), Rāvaṇa's son of impetuous speed (mahāvegaḥ) pierced in battle both Gavākṣa and Śarabha (gavākṣaṃ śarabhaṃ caiva), who were likewise of boundless valor (amitavikramau).
 </details>
 </details>
 
@@ -917,6 +1033,12 @@ then; *aNgadam* = Angada; *vaali putram* = the son of Vali.
 Thereafter, Indrajit the son of Ravana swiftly with his various arrows, struck
 Gavaksha (the ruler of golangulas) and then Angada the son of Vali too.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Making haste (tvaramāṇaḥ), Rāvaṇa's son then pierced the lord of the Golāṅgūla monkeys (golāṅgūleśvaram) and Vālin's son Aṅgada with numerous arrows (bahubhir bāṇaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -957,6 +1079,12 @@ began to shout (in triumph).
 
 Indrajit, that strong and highly courageous demons, pierced those jewels among the
 monkeys there with his arrows which resembled flames of fire and began to shout in triumph.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having pierced those foremost Vānaras with shafts resembling tongues of flame (śarair agniśikhopamaiḥ), Rāvaṇa's son, mighty and of immense vigor (balavān mahāsattvaḥ), roared aloud there (nanāda).
 </details>
 </details>
 
@@ -1008,6 +1136,12 @@ _________________
 Tormenting them with a multitude of arrows and frightening the monkeys, the mighty
 armed Indrajit heartily laughed and spoke (as follows).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having tormented those Vānaras with floods of arrows and struck terror into them (tān ardayitvā bāṇaughais trāsayitvā ca vānarān), the mighty-armed warrior laughed aloud (prajahāsa) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1053,6 +1187,12 @@ Lakshmana); *baddhau* = bound; *sahitau* = together; *mayaa* = by me;
 
 "O, demons! At the forefront of the army, behold those two brothers (Rama and
 Lakshmana) bound together by me by a terrible net work of my arrows."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold, O Rākṣasas (niśāmayata rākṣasāḥ), these two brothers bound together by me (mayā baddhau sahitau bhrātarāv etau) with a dreadful snare of arrows at the head of the army (śarabandhena ghoreṇa camūmukhe)!”
 </details>
 </details>
 
@@ -1100,6 +1240,12 @@ the treacherous fighters; *evam* = thus; *uktaaH* = spoken (by Indrajit);
 All those demons, the treacherous fighters on their part, after hearing the words of
 Indrajit, were seized with a great wonder and were overjoyed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, all those deceit-fighting Rākṣasas (rākṣasāḥ kūṭayodhinaḥ) were filled with supreme astonishment (paraṃ vismayam āpannāḥ) and rejoiced at that feat (karmaṇā tena harṣitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1145,6 +1291,12 @@ is dead; *samapuujayan* = (they) unanimously cheered; *raavaNim* = Indrajit.
 
 All of them cheered Indrajit unanimously with a roar like unto thunder, crying "Rama
 is dead".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling thunderclouds (jaladopamāḥ), all of them sent up mighty roars (vineduś ca mahānādān); deeming that Rāma was slain (hato rāma iti jñātvā), they paid homage to Rāvaṇa's son (rāvaṇiṃ samapūjayan).
 </details>
 </details>
 
@@ -1192,6 +1344,12 @@ the two brothers; *raamalakSmaNau* = Rama and Lakshmana; *niSpanau* = motionless
 Seeing the two brothers - Rama and Lakshmana lying motionless and breathless on the
 floor, Indrajit thought they were dead.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the two brothers Rāma and Lakṣmaṇa lying motionless (niṣpandau) and breathless (nirucchvāsau) upon the earth, he [Indrajit] concluded that they were dead (hatāv ity anvamanyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1237,6 +1395,12 @@ purrim* = the city of Lanka.
 
 Indrajit, full of joy and victorious in conflict, returned to Lanka, spreading
 happiness among the demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with joy, Indrajit, triumphant in battle (samitiñjayaḥ), entered the city of Laṅkā, gladdening all the Rākṣasas (harṣayan sarvanairṛtān).
 </details>
 </details>
 
@@ -1284,6 +1448,12 @@ Sugreeva.
 
 Seeing Rama and Lakshmana riddle with arrows and pierced in every limb and bone of
 their bodies, a great fear had taken possession of Sugreeva.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the bodies of Rāma and Lakṣmaṇa—and all their major and minor limbs (sarvāṇi cāṅgopāṅgāni)—covered over with shafts (śarīre sāyakaiś cite), fear entered into Sugrīva (sugrīvaṃ bhayam āviśat).
 </details>
 </details>
 
@@ -1336,6 +1506,12 @@ baaSpavadanam* = with his face filled with tears; *diinam* = looking helpless;
 
 Vibhishana then spoke to that Sugreeva, who was frightened, whose eyes were filled
 with tears, looking helpless and whose eyes were agitated in grief.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Vibhīṣaṇa spoke to that terrified lord of the Vānaras (tam uvāca paritrastaṃ vānarendram), whose face was bathed in tears (sabāṣpavadanam), who was dejected, and whose eyes were turbid with grief (śokavyākulalocanam):
 </details>
 </details>
 
@@ -1427,6 +1603,16 @@ righteousness.
 "O, Sugreeva! Be courageous and bring about courage in me, having no protector. For
 those who are devoted to truth and righteousness, there is no fear of death."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** “Enough of terror, O Sugrīva! Let the rush of tears be checked (bāṣpavego nigṛhyatām). Battles are generally of such a nature (evaṃprāyāṇi yuddhāni); victory is never constant and assured (vijayo nāsti naiṣṭhikaḥ).
+
+**32:** “If any store of good fortune remains to us (sabhāgyaśeṣatāsmākaṃ yadi bhaviṣyati), O hero, these two great-souled and mighty ones will shake off this swoon (moham etau prahāsyete).
+
+**33:** “Steady yourself, O Vānara, and steady me as well, who am otherwise helpless (paryavasthāpayātmānam anāthaṃ māṃ ca); for those devoted to truth and righteousness (satyadharmābhiraktānām), there is no fear arising from death (nāsti mṛtyukṛtaṃ bhayam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1473,6 +1659,12 @@ hand; *jalaklinnena* = moistened in water.
 Thus speaking, Vibhishana then wiped the charming eyes of Sugreeva with his hand
 moistened in water.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, Vibhīṣaṇa wiped Sugrīva's auspicious eyes (sugrīvasya śubhe netre pramamārja) with his water-moistened hand (jalaklinnena pāṇinā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1512,6 +1704,12 @@ cha* = enchanted it; *vidyayaa* = with an incantation; *pramamaarja* = and wiped
 
 Then, the pious minded Vibhishana took water, enchanted it with an incantation and
 wiped the eyes of Sugreeva.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, taking water and consecrating it with a mystic formula (vidyayā parijapya ca), the righteous Vibhīṣaṇa wiped Sugrīva's eyes once more (sugrīvanetre pramamārja).
 </details>
 </details>
 
@@ -1559,6 +1757,12 @@ sense; *asambhraantam* = and comfort.
 Having dried the face of the wise Sugreeva Vibhishana spoke the following words full
 of good sense and comfort.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having wiped the face of that wise lord of monkeys (vimṛjya vadanaṃ tasya kapirājasya), he spoke these timely and unagitated words (kālasaṃprāptam asambhrāntam idaṃ vacaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1604,6 +1808,12 @@ of good sense and comfort.
 
 "O, Sugreeva the king of monkeys! This is not the time to cling to despondency. At
 this hour, even too much attachment leads to death."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is not the time, O chief of monkey kings (kapirājendra), to give way to despondency (vaiklavyam avalambitum); even excessive affection (atisneho 'pi) at such a critical juncture conduces to death (kāle 'smin maraṇāyopakalpate).
 </details>
 </details>
 
@@ -1653,6 +1863,12 @@ troops; *raama purogaaNaam* = which have Rama going before them.
 
 "Therefore, abandoning your despair, which ruins all actions, focus now on how best
 to serve the troops which have Rama going before them.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, casting aside despondency, which ruins every enterprise (sarvakāryavināśanam), bethink yourself of the welfare of the armies (hitaṃ sainyānām anucintaya) that have Rāma as their leader (rāmapurogāṇām).
 </details>
 </details>
 
@@ -1704,6 +1920,12 @@ Rama and Lakshmana; *vyapaneSyataH hi* = can indeed drive away; *bhayam* = the f
 "Or else, let Rama be protected till he regains consciousness. Having regained
 consciousness, Rama and Lakshmana can indeed drive away the fear of both of us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or else, let Rāma be guarded until this loss of consciousness passes (rakṣyatāṃ rāmo yāvat saṃjñāviparyayaḥ); for once the two Kākutsthas regain consciousness (labdhasaṃjñau hi kākutsthau), they will dispel our fear (bhayaṃ nau vyapaneṣyataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1751,6 +1973,12 @@ abandoning; *evam* = him.
 "This is nothing to Rama nor Rama is going to die. The bodily splendour, which is
 difficult to be found in those whose longevity of life has run out; is not abandoning him."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This [affliction] is nothing at all to Rāma (naitat kiṃcana rāmasya), nor is Rāma about to die (na ca rāmo mumūrṣati); for that radiant grace (lakṣmīḥ) which is impossible to find among those whose life-span is spent (durlabhā yā gatāyuṣām) will never forsake him (nahy enaṃ hāsyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1797,6 +2025,12 @@ difficult to be found in those whose longevity of life has run out; is not aband
 "Therefore console yourself and call on your prowess, till I restore confidence in
 the entire ranks."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore hearten yourself and reassure your own host (balaṃ cāśvāsaya svakam), while I rally all the armies once again (yāvat sainyāni sarvāṇi punaḥ saṃsthāpayāmy aham).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1842,6 +2076,12 @@ each and every ear; *aagata saadhvasaaH* = terrified as they were.
 
 "O, the foremost of monkeys! These monkeys, having their eyes dilated due to fear,
 are signaling some words into each other's ear, terrified as they were."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For these Vānaras, O foremost of monkeys (harisattama), their eyes wide with terror and seized with panic (phullanayanās trāsād āgatasādhvasāḥ), are whispering into one another's ears (karṇe karṇe prakathitāḥ).
 </details>
 </details>
 
@@ -1890,6 +2130,12 @@ activate aaniikam = the troops.
 "Let the monkeys cast off their fear, even as one would discard a used garland, on
 seeing me running about to activate the troops."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“But seeing me rushing forth to cheer the gladdened army (māṃ tu dṛṣṭvā pradhāvantam anīkaṃ sampraharṣitam), let the Vānaras cast off their terror like a garland that has been worn and cast aside (bhuktapūrvām iva srajam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1936,6 +2182,12 @@ monkeys; *vidrutam* = who were pushing away.
 Having emboldened Sugreeva, Vibhishana the foremost of demons once again reassured
 that army of monkeys, who were pushing away.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus consoled Sugrīva, Vibhīṣaṇa, that lord of Rākṣasas, reassured once again that routed Vānara army (vidrutaṃ vānarānīkaṃ tat samāśvāsayat punaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1980,6 +2232,12 @@ samaavR^itaH* = surrounded by all his forces.
 
 Indrajit, the great conjurer, surrounded by all his forces, re-entered the city of
 Lanka.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Meanwhile Indrajit of mighty illusions (mahāmāyaḥ), surrounded by all his troops (sarvasainyasamāvṛtaḥ), entered the city of Laṅkā and approached his father (pitaraṃ cābhyupāgamat).
 </details>
 </details>
 
@@ -2028,6 +2286,12 @@ had been killed.
 Approaching Ravana there and saluting with joined palms, Indrajit informed his
 father in pleasing words that both Rama and Lakshmana had been slain.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching Rāvaṇa there and saluting him with joined palms (abhivādya kṛtāñjaliḥ), he reported the welcome tidings to his father (ācacakṣe priyaṃ pitre): that Rāma and Lakṣmaṇa had been slain (nihatau rāmalakṣmaṇau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2074,6 +2338,12 @@ son.
 
 Hearing in the midst of demons, the news that both the enemies having been killed,
 Ravana forthwith sprang on his feet in joy and embraced his son.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that his two enemies had been felled (śrutvā śatrū nipātitau), Rāvaṇa sprang up in joy (utpapāta tato hṛṣṭaḥ) in the midst of the Rākṣasas and embraced his son (putraṃ ca pariṣasvaje).
 </details>
 </details>
 
@@ -2127,6 +2397,14 @@ by being entwined with arrows.
 Smelling on his head, Ravana delighted at heard, made enquiries in the matter.
 Indrajit reported the matter as it happened, to his enquiring father, as to how both Rama and
 Lakshmana were made motion-less and luster-less by entwining them with arrows.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**48:** Smelling his head in affection (upāghrāya ca taṃ mūrdhni), with a delighted heart he questioned him (papraccha prītamānasaḥ); and to his inquiring father he recounted everything just as it had happened (pṛcchate ca yathāvṛttaṃ pitre tasmai nyavedayat)—how those two had been rendered motionless and bereft of luster by the snare of arrows (śarabandhena niśceṣṭau niṣprabhau kṛtau).
+
+**49:** His inner soul swept along by a surge of joy (harṣavegānugatāntarātmā) upon hearing the words of that mighty car-warrior (śrutvā giraṃ tasya mahārathasya), Rāvaṇa cast off the fever of anxiety born of Daśaratha's son (jahau jvaraṃ dāśaratheḥ samuttham) and applauded his son with jubilant words (prahṛṣṭavācābhinananda putram).
 </details>
 </details>
 

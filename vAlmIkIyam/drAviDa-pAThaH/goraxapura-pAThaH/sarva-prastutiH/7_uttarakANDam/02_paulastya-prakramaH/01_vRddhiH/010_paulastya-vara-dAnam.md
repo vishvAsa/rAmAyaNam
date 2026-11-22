@@ -39,6 +39,12 @@ _________________
 
 इल्लियवरॆगिन कथॆ केळि श्रीरामनु अगस्त्यरल्लि केळिदनु - ब्राह्मण श्रेष्ठरे! आ मूवरू महाबलि राक्षसरु वनदल्लि हेगॆ तपस्सु माडुत्तिद्दरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma spoke to the sage (athābravīn muniṃ rāmaḥ): “How, O brahman, did those mighty-strengthed brothers (te bhrātaro ... mahābalāḥ) dwell in the forest, and of what sort was the austerity they performed at that time (kīdṛśaṃ ... tapas tepuḥ)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,6 +70,12 @@ _________________
 
 अत्यन्त प्रसन्नचित्तराद अगस्त्यरु श्रीरामनल्लि हेळिदरु- रघुनन्दन! आ मूवरू सहोदररू बेरॆ-बेरॆ धर्मविधिगळन्नु अनुष्ठान माडिदरु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Agastya spoke to Rāma, whose mind was exceedingly pleased (suprīta-mānasam): “There those brothers entered upon manifold observances of dharma (tāṃs tān dharma-vidhīṃs tatra ... samāviśan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -86,6 +98,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘कुम्भकर्ण अपनी इन्द्रियोंको संयममें रखकर प्रतिदिन धर्मके मार्गमें स्थित हो गर्मीके दिनोंमें अपने चारों ओर आग जला धूपमें बैठकर पञ्चाग्निका सेवन करने लगा ॥ ३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Self-restrained (yattaḥ) and ever steadfast in the path of dharma (nityaṃ dharma-pathe sthitaḥ), Kumbhakarṇa then practiced austerity during the summer season (grīṣma-kāle) seated surrounded by the five fires (pañcāgnīn paritaḥ sthitaḥ).
 </details>
 </details>
 
@@ -112,6 +130,12 @@ _________________
 
 कुम्भकर्णनु तन्न इन्द्रियगळन्नु नियन्त्रिसि प्रतिदिन धर्ममार्गदल्लि स्थितनागि बेसिगॆयल्लि पञ्चाग्निगळ नडुवॆ कुळितु घोर तपस्सन्नाचरिसिदनु.॥3-4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Drenched by the waters of the rainclouds during the monsoon (meghāmbu-sikto varṣāsu), he practiced the heroic posture (vīrāsanam asevata), and in the cold season (śiśire kāle) he ever made the midst of the waters his abode (jala-madhya-pratiśrayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -136,6 +160,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ मळॆगालदल्लि बयलल्लि वीरासनदल्लि कुळितु मळॆ नीरिनल्लि नॆनॆयुत्ता, चळिगालदल्लि नीरिनल्लि मुळुगि तपस्सु माडुत्तिद्दनु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus ten thousand years (varṣa-sahasrāṇi daśa) elapsed for him (tasyāticakramuḥ) as he strove diligently in dharma (dharme prayatamānasya) and remained firmly grounded in the righteous path (sat-pathe niṣṭhitasya).
 </details>
 </details>
 
@@ -162,6 +192,12 @@ _________________
 
 विभीषणनु सदा धर्मात्मनागिद्दनु. अवनु नित्य धर्म परायणनागि, शुद्ध आचार विचार पालिसुत्ता ऐदुसाविर वर्ष ऒण्टि कालिनल्लि निन्तु तपस्सु माडिदनु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Meanwhile the righteous-souled Vibhīṣaṇa (vibhīṣaṇas tu dharmātmā), ever devoted to dharma (nityaṃ dharma-paraḥ) and pure (śuciḥ), stood upon a single foot (pādenaikena tasthivān) for five thousand years.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,6 +222,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन नियम समाप्तवादाग अप्सरॆयरु नृत्यमाडतॊडगिदरु. अवन मेलॆ आकाशदिन्द हूविन मळॆ सुरियितु हागू देवतॆगळु विभीषणनन्नु स्तुतिसिदरु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Upon the completion of that vow of his (samāpte niyame tasya), throngs of Apsarases danced (nanṛtuś cāpsaro-gaṇāḥ), a rain of blossoms fell (papāta puṣpa-varṣaṃ ca), and the deities too were stirred with commotion (kṣubhitāś cāpi devatāḥ).
 </details>
 </details>
 
@@ -212,6 +254,12 @@ _________________
 
 अनन्तर विभीषणनु ऎरडू कैगळन्नु मेलक्कॆत्ति, स्वाध्याय परायणनागि ऐदुसाविर वर्ष सूर्य नारायणनन्नु आराधिसिदनु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For five thousand years more he followed the course of the sun (sūryaṃ caivānvavartata), standing with head and arms uplifted (tasthau cordhva-śiro-bāhuḥ), his mind steadfastly fixed in Vedic study (svādhyāya-dhṛta-mānasaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -236,6 +284,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ मनस्सन्नु वशकॊण्ड विभीषणनू कूड हत्तुसाविर वर्ष स्वर्गद नन्दनवनदल्लि इरुवन्तॆ सुखवागि कळॆदनु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus for the self-restrained Vibhīṣaṇa too (vibhīṣaṇasyāpi ... niyatātmanaḥ), ten thousand years passed away (daśa-varṣa-sahasrāṇi gatāni), as though for one dwelling in heaven within the Nandana grove (svargasthasyeva nandane).
 </details>
 </details>
 
@@ -262,6 +316,12 @@ _________________
 
 दशमुखनू हत्तुसाविर वर्षगळु ऒन्दे समनॆ उपवास माडिदनु. प्रतियॊन्दु साविर वर्ष पूर्णवादाग अवनु तन्न ऒन्दु मस्तकवन्नु कडिदु अग्नियल्लि आहुति कॊडुत्तिद्दनु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Meanwhile the ten-faced Rāvaṇa (daśānanaḥ) remained without food for ten thousand years (daśa-varṣa-sahasraṃ tu nirāhāraḥ), and at the completion of each thousand years (pūrṇe varṣa-sahasre tu) he offered a head into the sacrificial fire (śiraś cāgnau juhāva saḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -286,6 +346,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ माडुत्ता ऒम्भत्तु साविर वर्ष कळॆयितु हागू ऒम्भत्तु तलॆगळन्नु अग्निगॆ अर्पिसिदनु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In this manner nine thousand years elapsed for him (varṣa-sahasrāṇi nava tasyāticakramuḥ), and nine of his heads as well (śirāṃsi nava cāpy asya) entered the fire (praviṣṭāni hutāśanam).
 </details>
 </details>
 
@@ -315,6 +381,12 @@ _________________
 
 हत्तनॆय साविर वर्ष पूर्णवादाग दशग्रीवनु तन्न हत्तनॆय मस्तकवन्नु कडियलु मुन्दादाग पितामह ब्रह्मदेवरु अल्लिगॆ आगमिसिदरु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, in the tenth millennium (varṣa-sahasre tu daśame), just as Daśagrīva was poised to sever his tenth head (daśamaṃ śiraḥ chettu-kāme daśagrīve), the Grandsire Brahmā arrived upon that spot (prāptas tatra pitāmahaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,6 +411,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पितामह ब्रह्मदेवरु अत्यन्त प्रसन्नरागि देवतॆगळॊन्दिगॆ अल्लिगॆ बन्दिद्दरु. अवरु बन्दाक्षण हेळिदरु- दशग्रीव! नानु निन्न मेलॆ प्रसन्ननागिद्देनॆ.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Greatly pleased, the Grandsire (pitāmahas tu suprītaḥ) appeared there accompanied by the gods (sārdhaṃ devair upasthitaḥ) and spoke thus: ‘Daśagrīva, I am indeed pleased with you (tava tāvad daśagrīva prīto ’smi)!
 </details>
 </details>
 
@@ -365,6 +443,12 @@ _________________
 
 धर्मज्ञने! निन्न मनस्सिनल्लिरुव इच्छित वरवन्नु केळु. इन्दु निन्न अभिलाषॆ पूर्णगॊळिसुवॆनु. निन्न परिश्रम व्यर्थवागि होगबारदु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Choose swiftly, O knower of dharma (śīghraṃ varaya dharmajña), whatever boon is longed for by you (varo yas te ’bhikāṅkṣitaḥ). What desire of yours shall I fulfill today (kaṃ te kāmaṃ karomy adya)? Your arduous exertion shall not be in vain (na vṛthā te pariśramaḥ).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -389,6 +473,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदन्नु केळि दशग्रीवनु सन्तोषगॊण्डु, तलॆबागि ब्रह्मदेवरिगॆ प्रणाम माडि, हर्ष, गद्गद वाणियल्लि हेळिदनु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon Daśagrīva spoke (athābravīd daśagrīvaḥ) with an exceedingly delighted heart (prahṛṣṭenāntarātmanā), bowing low with his head to the deity (praṇamya śirasā devam) in a voice faltering with joy (harṣa-gadgadayā girā):
 </details>
 </details>
 
@@ -415,6 +505,12 @@ _________________
 
 भगवन्तने! प्राणिगळिगॆ मरणक्किन्त हॆच्चिनदाद भयविरुवुदिल्ल. आद्दरिन्द नानु अमरनागलु बयसुत्तेनॆ; एकॆन्दरॆ मृत्युविगॆ समवाद शत्रु मत्तॊन्दु इरुवुदिल्ल.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O revered Lord (bhagavan), for living creatures there is ever no fear other than death (prāṇināṃ nityaṃ nānyatra maraṇād bhayam); there is no enemy equal to Death (nāsti mṛtyu-samaḥ śatruḥ)—therefore I choose immortality (amaratvam ahaṃ vṛṇe)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -439,6 +535,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु हीगॆ हेळिदाग ब्रह्मदेवरु दशग्रीवनल्लि हेळिदरु-निनगॆ सर्वथा अमरत्व सिगलारदु; अदक्कागि बेरॆ वरवन्नु केळु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus addressed, Brahmā thereupon spoke to Daśagrīva (daśagrīvam uvāca ha): ‘Absolute immortality cannot be yours (nāsti sarvāmaratvaṃ te); choose some other boon from me (varam anyaṃ vṛṇīṣva me)!’
 </details>
 </details>
 
@@ -465,6 +567,12 @@ _________________
 
 श्रीरामा! लोकसृष्टा ब्रह्मदेवरु हीगॆ हेळिदाग दशग्रीवनु कैमुगिदु इन्तॆन्दनु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When thus spoken to, O Rāma, by Brahmā, maker of the worlds (brahmaṇā loka-kartṛṇā), Daśagrīva stood before him with joined palms (kṛtāñjalir athāgrataḥ) and uttered these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -489,6 +597,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सनातन प्रजापतिये! नानु गरुड, नाग, यक्ष, दैत्य, दानव, राक्षस हागू देवतॆगळिगू अवध्यनागबेकु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘May I be unslayable (avadhyo ’ham), O Lord of creatures (prajādhyakṣa), O Eternal One (śāśvata), by Suparṇas, Nāgas, and Yakṣas (suparṇa-nāga-yakṣāṇām), by Daityas, Dānavas, and Rākṣasas (daitya-dānava-rakṣasām), and by the deities as well (devatānāṃ ca)!
 </details>
 </details>
 
@@ -515,6 +629,12 @@ _________________
 
 देववन्द्य पितामहने! इतर प्राणिगळिन्द ननगॆ ऎळ्ळष्टु भयविल्ल. मनुष्यादि इतर जीविगळन्नु नानु तृणप्रायवॆन्दु तिळियुत्तेनॆ.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I have no anxiety concerning other living beings (na hi cintā mamānyeṣu prāṇiṣu), O thou worshipped by the immortals (amara-pūjita); for I regard those creatures beginning with humans (prāṇino mānuṣādayaḥ) as mere blades of grass (tṛṇa-bhūtāḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -540,6 +660,12 @@ _________________
 
 दशग्रीव राक्षसनु हीगॆ हेळिदाग देवतॆगळ सहित ब्रह्मदेवरु हीगॆ हेळिदरु.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus addressed by that Rākṣasa Daśagrīva (daśagrīveṇa rakṣasā), the righteous-souled god (dharmātmā ... devaḥ), the Grandsire accompanied by the deities (saha devaiḥ pitāmahaḥ), spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -564,6 +690,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसश्रेष्ठने! निन्न मातु निजवागलि. श्रीरामा! पितामहरु पुनः दशग्रीवनल्लि हीगॆ हेळिदरु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Even so shall this word of yours come to pass (bhaviṣyaty evam etat te vacaḥ), O bull among Rākṣasas (rākṣasa-puṅgava)!’ Having thus spoken to that Daśagrīva, O Rāma, the Grandsire continued:
 </details>
 </details>
 
@@ -596,6 +728,14 @@ _________________
 
 निष्पाप राक्षसने! केळु, नानु प्रसन्ननागि पुनः निनगॆ ई शुभवरवन्नु कॊडुत्तेनॆ. नीनु मॊदलु अग्नियल्लि होम माडिद निन्न तलॆगळु हिन्दिनन्तॆ प्रकटवागलि. सौम्यने! इदल्लदॆ इन्नॊन्दु दुर्लभ वरवन्नु कॊडुत्तिद्देनॆ - नीनु मनस्सिनल्लि बयसिद रूपवन्नु धरिसबल्लॆ. नीनु कामरूपि यागुवॆ.॥23-24½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** “‘Hear as well a further auspicious boon (śṛṇu cāpi varo bhūyaḥ ... śubho mama) from me, who am pleased here: those heads which were previously offered by you into the fire (hutāni yāni śīrṣāṇi pūrvam agnau tvayā), O sinless one,
+
+**24:** “‘Those very heads shall come back into being for you just as before (punas tāni bhaviṣyanti tathaiva tava), O Rākṣasa; and I bestow upon you here, O gentle one (vitarāmīha te saumya), yet another boon hard to attain (varaṃ cānyaṃ durāsadam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -620,6 +760,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मदेवरु हीगॆ हेळिदागले राक्षस दशग्रीवनु मॊदलु अग्नियल्लि होमिसिद तलॆगळु हॊसदागि मूडिदवु.॥25½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Moreover, whatever form you desire in your mind (manasā yad yathepsitam), that form shall come into being for you at your pleasure (chandatas tava rūpaṃ ca ... bhaviṣyati)—of that there is no doubt (na sandehaḥ), through my boon, O Rākṣasa!’
 </details>
 </details>
 
@@ -646,6 +792,12 @@ _________________
 
 श्रीरामा! दशग्रीवनल्लि इन्तु नुडिदु लोकपितामह ब्रह्मदेवरु विभीषणनल्लि इन्तॆन्दरु.॥26½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When that Rākṣasa Daśagrīva had been thus addressed by the Grandsire (evaṃ pitāmahoktasya daśagrīvasya rakṣasaḥ), those very heads offered into the fire (agnau hutāni śīrṣāṇi) sprang up anew indeed (punas tāny utthitāni vai).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -670,6 +822,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मगु विभीषणने! निन्न बुद्धि सदा धर्मदल्ले तॊडगिदॆ, आद्दरिन्द नानु निनगॆ बहळ सन्तुष्टनागिद्देनॆ. सुव्रत धर्मात्मने! नीनू कूड तनगॆ अभीष्टवाद वरवन्नु केळु.॥27½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having thus spoken to that Daśagrīva, O Rāma, the Grandsire, the Great-Father of the worlds (loka-pitāmahaḥ), thereupon addressed these words to Vibhīṣaṇa (vibhīṣaṇam athovāca):
 </details>
 </details>
 
@@ -700,6 +858,14 @@ _________________
 
 आग किरण मालामण्डित चन्द्रनन्तॆ, समस्त गुणसम्पन्न धर्मात्मा विभीषणनु कै मुगिदु हेळिदनु - भगवन्तने! लोकगुरु नीनु नन्न मेलॆ प्रस्ननागिद्दरॆ नानु कृतार्थनागिद्देनॆ. ननगॆ केळु वुदु यावुदू उळिदिल्ल. सुव्रत पितामहने! नीनु प्रसन्ननागि वर कॊडलु बयसुवॆयादरॆ केळु.॥28-29½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** “‘O child Vibhīṣaṇa (vibhīṣaṇa ... vatsa), I am thoroughly pleased with you (parituṣṭo ’smi), whose intellect is firmly joined to dharma (dharma-saṃhita-buddhinā); O righteous-souled one of noble vows (dharmātman ... suvrata), choose a boon (varaṃ varaya)!’
+
+**29:** “Thereupon the righteous-souled Vibhīṣaṇa—ever encircled by all virtues (vṛtaḥ sarva-guṇair nityam), even as the moon is ringed by its rays (candramā raśmibhir yathā)—spoke these words with joined palms (vacanaṃ prāha sāñjaliḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -724,6 +890,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भगवन्तने ! भारी आपत्तिनल्लि बिद्दरू नन्न बुद्धि धर्मदल्ले तॊडगिरलि, अदरिन्द ऎन्दू विचलित वागदॆ, कलियदॆये ननगॆ ब्रह्मास्त्रद ज्ञान उण्टागली.॥30½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O revered Lord (bhagavan), I have already attained all fulfillment (kṛta-kṛtyo ’ham), since the Preceptor of the worlds himself (loka-guruḥ svayam) is pleased with me! Yet if a boon must be bestowed upon me by you in your pleasure (prītena yadi dātavyo varo me), hear me, O noble-vowed one (śṛṇu suvrata):
 </details>
 </details>
 
@@ -752,6 +924,14 @@ _________________
 
 यावुदे आश्रमद विषयदल्लि नन्न विचार धर्मानुकालवागिरलि हागू आ धर्मवन्नु नानु पालिसुवॆनु; इदे ननगॆ ऎल्लक्किन्त उत्तमवाद वरदानवागिदॆ.॥31-32॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** “‘Even when fallen into supreme calamity (paramāpad-gatasyāpi), may my mind remain fixed upon dharma (dharme mama matir bhavet), and may the brahmāstra, though unlearned (aśikṣitaṃ ca brahmāstram), shine forth intuitively to me (pratibhātu me), O Lord!
+
+**32:** “‘Whatever thought arises within me (yā yā me jāyate buddhiḥ) in whatsoever stages of life (yeṣu yeṣv āśrameṣu ca), may every such thought be thoroughly righteous (sā sā bhavatu dharmiṣṭhā), and may I faithfully uphold that very dharma (taṃ tu dharmaṃ ca pālaye)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -776,6 +956,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 एकॆन्दरॆ धर्मदल्लि अनुरक्तनादवनिगॆ यावुदू दुर्लभवल्ल. इदन्नु केळि प्रसन्नराद प्रजापति ब्रह्मदेवरु पुनः विभीषणनल्लि हेळिदरु.॥33॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘This, O supremely munificent Lord (paramodāra), is deemed by me the highest boon (varaḥ paramako mataḥ); for truly nothing in the world is hard to obtain (na hi ... loke kiñcana durlabham) for those devoted to dharma (dharmābhiraktānām)!’
 </details>
 </details>
 
@@ -804,6 +990,12 @@ _________________
 
 वत्स! नीनु धर्मदलि स्थितनागुवॆ, नीनु बयसिदुदॆल्ल पूर्णवागुवुदु. शत्रुनाशकने ! राक्षसयोनियल्लि हुट्टिद्दरू निन्न बुद्धि अधर्मदल्लि ऎन्दू तॊडगलारदु; इदरिन्द निनगॆ नानु अमरत्ववन्नु करुणिसुवॆनु.॥34½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Delighted, Prajāpati spoke once again to Vibhīṣaṇa (punaḥ prajāpatiḥ prīto vibhīṣaṇam uvāca ha): ‘Just as you are most righteous, O child (dharmiṣṭhas tvaṃ yathā vatsa), even so shall all this come to pass (tathā caitad bhaviṣyati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -829,6 +1021,12 @@ _________________
 
 विभीषणनल्लि हीगॆ हेळि ब्रह्मदेवरु कुम्भकर्णनिगॆ वर कॊडलु हॊरटाग देवतॆगळॆल्ल कैमुगिदु अवरल्लि हीगॆ हेळिदरु.॥35½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And because, though born in a Rākṣasa womb (rākṣasa-yonau te jātasya), O destroyer of foes (amitra-nāśana), your intellect never inclines toward adharma (nādharme jāyate buddhiḥ), I bestow immortality upon you (amaratvaṃ dadāmi te)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -853,6 +1051,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रभो! नीवु कुम्भकर्णनिगॆ वर कॊडबेडिरि; एकॆन्दरॆ ई दुर्बद्धि निशाचर समस्त लोकगळिगॆ तॊन्दरॆ कॊडुत्तिरुवुदु नीवु तिळिदे इद्दीरि.॥36½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having spoken thus, as Prajāpati drew near to grant a boon to Kumbhakarṇa (kumbhakarṇāya varaṃ dātum upasthitam), all the deities addressed these words to him with joined palms (vākyaṃ prāñjalayo ’bruvan):
 </details>
 </details>
 
@@ -882,6 +1086,12 @@ _________________
 
 ब्रह्मन्! इवनु नन्दनवनद एळु अप्सरॆयन्नु, देवेन्द्रन हत्तु अनुचररन्नु हागू अनेक ऋषिगळन्नु, मनुष्यरन्नु तिन्दु हाकिरुवनु.॥37½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Pray do not bestow a boon upon Kumbhakarṇa (na tāvat kumbhakarṇāya pradātavyo varas tvayā), for you well know (jānīṣe hi) how this wicked-minded one terrorizes the worlds (lokāṃs trāsayaty eṣa durmatiḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -906,6 +1116,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वर पडॆयदॆये ई राक्षसनु हीगॆ प्राणिगळन्नु तिन्दु क्रूर कर्ममाडुत्तिरुवनादरॆ, वर प्राप्त वादाग इवनु मूरु लोकगळन्नु तिन्दु बिडुवनु.॥38½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Seven Apsarases in the Nandana grove (nandane ’psarasaḥ sapta), ten attendants of Mahendra (mahendrānucarā daśa), and sages and human beings alike (ṛṣayo mānuṣās tathā) have already been devoured by him (anena bhakṣitāḥ), O Brahman!
 </details>
 </details>
 
@@ -932,6 +1148,12 @@ _________________
 
 अमित तेजस्वी देवने! नीवु वरद नॆपदल्लि इवनिगॆ मोह उण्टुमाडिरि. इदरिन्द समस्त लोकगळ मङ्गळवादीतु मत्तु इन सम्मानवू आगुवुदु.॥39½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Judging by what this Rākṣasa wrought before ever obtaining a boon (alabdha-vara-pūrveṇa yat kṛtaṃ rākṣasena tu), if he were now to gain a boon (tad eṣa vara-labdhaḥ syāt), he would devour the entire triple world (bhakṣayed bhuvana-trayam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -956,6 +1178,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवतॆगळु हीगॆ हेळिदाग पद्मसम्भवनु सरस्वतियन्नु स्मरिसिदनु, स्मरिसुत्तले देवी सरस्वतियु बळिगॆ बन्दळु.॥40½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Under the pretext of a boon, let bewilderment be bestowed upon him (vara-vyājena moho ’smai dīyatām), O thou of boundless splendor (amitaprabha)! Thus shall there be welfare for the worlds (lokānāṃ svasti caivaṃ syāt), and due restraint for him as well (bhaved asya ca sannatiḥ)!’
 </details>
 </details>
 
@@ -982,6 +1210,12 @@ _________________
 
 अवर बळियल्लि निन्तिरुव सरस्वतियु कैमुगिदु, देव! नानु बन्दिरुवॆनु, ननगेनु अप्पणॆ? नानु याव कार्य माडलि.॥41½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus addressed by the deities, the lotus-born Brahmā (brahmā ... padma-sambhavaḥ) called her to mind (acintayat), and no sooner was she thought of than Goddess Sarasvatī stood waiting at his side (cintitā copatasthe ’sya pārśvaṃ devī sarasvatī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1007,6 +1241,12 @@ _________________
 
 अल्लिगॆ बन्दिरुव सरस्वति देवियल्लि प्रजापतिगळु हेळिदरु-वाग्देवते! नीनु राक्षसेन्द्र कुम्भकर्णन नालिगॆयल्लि नॆलॆसु, देवतॆगळिगॆ अनुकूलवाद वाणियिन्द प्रकटळागु.॥42½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Standing at his side with joined palms (prāñjaliḥ sā tu pārśvasthā), Sarasvatī spoke these words: ‘Here I have arrived, O God (iyam asmy āgatā deva); what task shall I accomplish (kiṃ kāryaṃ karavāṇy aham)?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1031,6 +1271,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ‘हागॆये आगलि’ ऎन्दु हेळि सरस्वतियु कुम्भकर्णन बायन्नु सेरिदळु. बळिक प्रजापतिगळु आ राक्षसनल्लि - महाबाहु कुम्भकर्णने! निन्न मनस्सिगॆ बन्द वरवन्नु केळु ऎन्दु हेळिदरु.॥43½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon Prajāpati spoke these words to Sarasvatī, who had come before him (tāṃ prāptāṃ prāha vākyaṃ sarasvatīm): ‘O Vāṇī [Speech], become for this lord of Rākṣasas (rākṣasendrasya bhava) that very speech which is desired by the deities (yā devatepsitā)!’
 </details>
 </details>
 
@@ -1058,6 +1304,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवर मातन्नु केळि कुम्भकर्णनु हेळिदनु - देवदेवा! नानु अनेक वर्षगळवरॆगॆ मलगिये इरुवॆनु. इदे नन्न इच्छॆयागिदॆ. आग ‘हागॆये आगलि’ ऎन्दु हेळि ब्रह्मदेवरु देवतॆगळॊन्दिगॆ हॊरटु होदरु.॥44-45॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**44:** “Saying ‘So be it’ (tathety uktvā), she entered within him (praviṣṭā sā); thereupon Prajāpati spoke: ‘O mighty-armed Kumbhakarṇa (kumbhakarṇa mahābāho), choose whatever boon is dear to your mind (varaṃ varaya yo mataḥ)!’
+
+**45:** “Hearing those words (tad vākyaṃ śrutvā), Kumbhakarṇa thereupon uttered this speech (vacanam abravīt): ‘O God of gods (devadeva), it is my desire to sleep for many years (svaptuṃ varṣāṇy anekāni ... mamepsitam)!’
 </details>
 </details>
 
@@ -1088,6 +1342,14 @@ _________________
 
 मत्तॆ सरस्वतियु राक्षसनन्नु बिट्टु देवतॆगळॊन्दिगॆ तॆरळिदाग दुष्टात्मा कुम्भकर्णनु ऎच्चरगॊण्डु, दुःखितनागि हीगॆ योचिस तॊडगिदनु.॥46-47॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**46:** “Saying ‘So be it’ to him (evam astv iti taṃ coktvā), Brahmā departed together with the deities (prāyād brahmā suraiḥ samam), and Goddess Sarasvatī too (devī sarasvatī caiva) forsook that Rākṣasa once more (rākṣasaṃ taṃ jahau punaḥ).
+
+**47:** “When the deities together with Brahmā had ascended into the expanse of the sky (brahmaṇā saha deveṣu gateṣu ca nabhaḥ-sthalam), he, released by Sarasvatī (vimukto ’sau sarasvatyā), thereupon regained his own consciousness (svāṃ sañjñāṃ ca tato gataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1112,6 +1374,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अय्यो! इन्दु नन्न बायियिन्द इन्तह मातु एकॆ हॊरटितु? ब्रह्मदेवरॊन्दिगॆ बन्दिरुव देवतॆगळे आग नन्नन्नु मोहगॊळिसिदरॆन्दु नानु तिळियुत्तेनॆ.॥48॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then the wicked-souled Kumbhakarṇa (kumbhakarṇas tu duṣṭātmā), filled with sorrow (duḥkhitaḥ), brooded within himself (cintayāmāsa): ‘What sort of speech is this that has slipped from my mouth today (īdṛśaṃ kim idaṃ vākyaṃ mamādya vadanāc cyutam)?
 </details>
 </details>
 
@@ -1148,6 +1416,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि हत्तनॆय सर्ग पूर्णवायितु. ॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I believe I have been utterly deluded (ahaṃ vyāmohito ... iti manye) by the gods who came here just now (devair ... tadāgataiḥ)!’ Thus having obtained their boons (evaṃ labdha-varāḥ), all those brothers of blazing splendor (sarve bhrātaro dīpta-tejasaḥ) repaired to the Śleṣmātaka forest (śleṣmātaka-vanaṃ gatvā) and dwelt happily there (tatra te nyavasan sukham).”
 </details>
 </details>
 

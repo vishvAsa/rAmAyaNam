@@ -69,6 +69,12 @@ Having stayed that night there, those princes the annihilators of enemies,
 thereafter offered salutation to the sage Bharadwaja and proceeded towards that mountain of
 Chitrakuta.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed the night there, those two princes, subduers of foes (rāja-putrāv arindamau), bowed in salutation to the great sage (maharṣim abhivādya) and then set forth toward that mountain (taṃ giriṃ prati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +124,12 @@ That great sage Bharadwaja performed a religious rite ensuring a sage journey
 sacred texts0 for them. Perceiving them setting out for the journey, the sage accompanied them for
 a distance, as a father would do for his sons (and daughter-in-law).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That great sage performed a rite of auspicious benediction for them (teṣāṃ svasty-ayanaṃ cakāra ha); and beholding them setting out, he followed them just as a father follows his own legitimate sons (pitā putrān ivānvagāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +175,12 @@ a distance, as a father would do for his sons (and daughter-in-law).
 
 Bharadwaja the great sage with a remarkable splendour began to speak the following
 words to Rama the truly brave man.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that great sage Bharadvāja of mighty splendor (mahā-tejāḥ) began to speak this word to Rāma of unfailing valor (rāmaṃ satya-parākramam):
 </details>
 </details>
 
@@ -210,6 +228,12 @@ anugachchhetaam = follow; *kaaLindiinadiim* = the River Yamuna;
 "After approaching Oh, the best of men! The confluence of Ganga and Yamuna, follow
 the river Yamuna which takes to the direction of west."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having reached the confluence of the Gaṅgā and the Yamunā (gaṅgā-yamunayoḥ sandhim), O foremost of men, follow the Kālindī river as she turns westward (paścān-mukhāśritām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +266,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘रघुनन्दन! तदनन्तर गङ्गाजीके जलके वेगसे अपने प्रवाहके प्रतिकूल दिशामें मुड़ी हुई यमुनाके पास पहुँचकर लोगोंके आने-जानेके कारण उनके पदचिह्नोंसे चिह्नित हुए अवतरण-प्रदेश (पार उतरनेके लिये उपयोगी घाट) को अच्छी तरह देख-भालकर वहाँ जाना और एक बेड़ा बनाकर उसीके द्वारा सूर्यकन्या यमुनाके उस पार उतर जाना ॥ ५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, having reached the swift-currented river Kālindī (śīghra-srotasam āpagām) and beheld her well-frequented, ancient ford (tīrthaṃ pracalitaṃ purāṇam), O Rāghavas—
 </details>
 </details>
 
@@ -322,6 +352,14 @@ After crossing the river Yamuna and approaching a large banyan tree named Syama
 (dark-green) having green leaves surrounded by many tress and visited by Siddhas, Seetha should,
 joining her palms, recite her auspicious prayers to the tree."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** “Constructing a raft there (tatra yūyaṃ plavaṃ kṛtvā), cross over the river Aṃśumatī (taratāṃśumatīṃ nadīm); and then, having reached the great green-leaved banyan tree (nyagrodhaṃ mahāntaṃ harita-cchadam)—
+
+**5:** “Then, having reached the swift-currented river Kālindī (śīghra-srotasam āpagām) and beheld her well-frequented, ancient ford (tīrthaṃ pracalitaṃ purāṇam), O Rāghavas—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -376,6 +414,12 @@ with Sallaka and jujube trees."
 for two miles from there, you will see a beautiful forest blue in colour with bamboo trees touching
 upon Yamuna river and interspersed with Sallaka and jujube trees."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having reached that tree, one may either halt there to rest or pass beyond it (vased vātikrameta vā); going a mere krośa from there, you shall behold a dark-blue forest (nīlaṃ drakṣyatha kānanam) mingled with palāśa and jujube trees and delightful with Yamunā bamboos (vaṃśaiś ca yāmunaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -423,6 +467,12 @@ forest-fire.
 "It is the way to Chitrakuta. I visited that place many times. It is beautiful,
 endowed with serenity and free from forest-fire."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That is the path to Citrakūṭa, trodden very many times by me (gataḥ subahuśo mayā)—delightful, soft underfoot (mārdava-yuktaś ca), and wholly free from forest fires (vana-dāvair vivarjitaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,6 +519,12 @@ return.
 
 Having thus informed the way and ebbing urged by Rama to return after he had paid
 obeisance to the sage and Rama having replied �so be it', the great sage Bharadwaja returned.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus pointed out the path (iti panthānam āvedya), that great sage turned back, after Rāma had bowed to him, said ‘So be it’ (abhivādya tathety uktvā), and induced him to return.
 </details>
 </details>
 
@@ -520,6 +576,12 @@ anukampate shows compassion; *naH* = towards us.
 That sage having returned, Rama spoke to Lakshmana as follows: "Oh Lakshmana! We are
 fortunate that the sage has shown compassion towards us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that sage had turned back (upāvṛtte munau tasmin), Rāma spoke to Lakṣmaṇa: “We have truly stored up merit (kṛta-puṇyāḥ sma), O Saumitri, inasmuch as the sage shows such compassion toward us (munir yan no ’nukampate)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -569,6 +631,12 @@ guarding; *siitaam* = Seetha; *agrataH eva* = still in front.
 Deliberating thus, Rama and Lakshmana the tigers among men who were highly
 intelligent, headed for the river Yamuna guarding Seetha still in front.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus taken counsel together (mantrayitvā), those two high-minded tigers among men placed Sītā herself in front (sītām evāgrataḥ kṛtvā) and went toward the Kālindī river.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -617,6 +685,12 @@ titiirshhavaH* = desirous of crossing the river-waters.
 
 Having reached the River Yamuna, running with rapid stream, all of them then plunged
 into a thought of how to cross those river-waters.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having reached the swift-flowing Kālindī river (śīghra-sroto-vahāṃ nadīm), all of them, desirous of crossing the river’s waters (nadī-jala-titīrṣavaḥ), fell into reflection (cintām āpedire sarve).
 </details>
 </details>
 
@@ -691,6 +765,14 @@ branches of reeds; *jambushaakshaashcha* = and branches of rose apple tree.
 Thereafter, the valiant Lakshmana made for Seetha a comfortable seat, after chopping
 branches of reeds and of rose apple tree.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Thereupon those two fashioned a great raft of bound timber (kāṣṭha-saṅghātam atho cakratuḥ sumahā-plavam), strewn over with dry bamboos (śuṣkair vaṃśaiḥ samāstīrṇam) and bound around with uśīra grass-roots (uśīraiś ca samāvṛtam).
+
+**15:** Then the mighty Lakṣmaṇa cut branches of cane and branches of the rose-apple tree (vetasa-śākhāś ca jambū-śākhāś ca chittvā) and fashioned a comfortable seat for Sītā (sītāyāḥ sukham āsanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -764,6 +846,14 @@ robes; *bhushhaNaani cha* = the jewellery; *kaThinakaajam cha* = shovel and a ba
 Rama kept the two robes the jewellery, a shovel and a basket by the side of Seetha
 in the raft there, along with weapons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** There Rāma, the son of Daśaratha, helped his beloved consort—who resembled the inconceivable goddess Śrī herself (śriyam ivācintyām) and was slightly bashful (īṣat-saṃlajjamānām)—to ascend the raft (adhyāropayata plavam).
+
+**17:** And beside Vaidehī on the raft, Rāma placed her garments and ornaments, the digging-spade and leather basket (kaṭhinakājaṃ ca), together with their weapons (sahāyudhaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -814,6 +904,12 @@ Seetha to ascend (it); *tataH* = and then; *prateratuH* = ferried over;
 Those valiant sons of Dasaratha firmly held that raft, firstly helped Seetha to
 ascend it and then ferried across the river watchfully.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having first placed Sītā aboard (āropya prathamaṃ sītām) and laid hold of the timber raft (saṅghāṭaṃ parigṛhya), those two resolute heroes, the sons of Daśaratha, then rowed across (tataḥ prateratur yattau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -838,6 +934,12 @@ ascend it and then ferried across the river watchfully.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यमुना नदिय मध्यक्कॆ बन्दाग सीतॆयु आकॆयन्नु वन्दिसि हेळिदळु - देवि! ई तॆप्पद मूलक नावु निन्नन्नु दाटुत्तिद्देवॆ. इदरिन्द नावु क्षेमवागि दाटि होगि, नन्न पतिदेवर तम्म वनवासद प्रतिज्ञॆयु निर्विघ्नवागि पूर्णवागुवन्तॆ कृपॆ माडु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When she had reached the middle of the Kālindī (kālindī-madhyam āyātā), Sītā bowed in salutation to her (enām avandata): “Hail to you, O goddess! I am crossing over you; may my husband fulfill his vow (pārayen me patir vratam)!
 </details>
 </details>
 
@@ -886,6 +988,12 @@ and prayed as follows: "Oh, goddess of Yamuna! Adieu! I am crossing you! May my 
 his vow! When Rama safely comes back again towards the city of Ayodhya, ruled by Ikshvaku kings I
 shall propitiate you by offering a thousand cows and a hundred drinking vessels."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall worship you with a thousand cows and a hundred jars of spirituous liquor (go-sahasreṇa surā-ghaṭa-śatena ca) when Rāma returns in safety to the city ruled by the Ikṣvākus (purīm ikṣvāku-pālitām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -932,6 +1040,12 @@ reached; *dakshhiNam tiirameva* = the bank on the southern side.
 Seetha of excellent complexion thus praying with joined palms to Yamuna River,
 forthwith reached the southern side of the river.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Offering her supplication thus to the Kālindī with joined palms (kālindīm yācamānā kṛtāñjaliḥ), Sītā of fairest complexion (vara-varṇinī) safely reached the southern bank (tīram evābhisamprāptā dakṣiṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -974,6 +1088,12 @@ Thus, by the raft, Seetha Rama and lakshmaNa crossed the River Yamuna, which flo
 briskly, wreathed with waves, with many trees born on its bank and having rays for it
 reflection.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then with that raft they crossed over the swift-flowing, wave-garlanded Yamunā river, Aṃśumatī (aṃśumatīṃ śīghra-gām ūrmi-mālinīm), whose banks were lined with many riverside trees (tīra-jair bahubhir vṛkṣaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1015,6 +1135,12 @@ through; *yamunaavanaat* = the river-forest of Yamuna; *aaseduH* = and reached;
 They, who have crossed the river, abandoned the raft and march through the
 river-forest of Yamuna and reached a cool banyan tree called Syama having green leaves.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having crossed over, left the raft behind (plavam utsṛjya), and set forth from the Yamunā forest (prasthāya yamunā-vanāt), they reached the cool, green-leaved banyan tree known as Śyāma (śyāmaṃ nyagrodham āseduḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1039,6 +1165,12 @@ river-forest of Yamuna and reached a cool banyan tree called Syama having green 
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वटवृक्षद बळिगॆ सारि वैदेही सीतॆयु अदक्कॆ तलॆबागिदळु हागू हीगॆ हेळिदळु - महा वृक्षवे! निनगॆ नमस्कार. नन्न पतिदेवरु वनवास व्रतवन्नु पूर्णगॊळिसुवन्तॆ कृपॆ माडु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching that banyan tree, Vaidehī spoke these words: “Obeisance be to you, O great tree (namas te ’stu mahā-vṛkṣa)! May my husband fulfill his vow (pārayen me patir vratam)!
 </details>
 </details>
 
@@ -1083,6 +1215,12 @@ Kausalya and; *yashasviniim* = the illustrious; *sumitraam cha* = Sumitra;
 Having approached that banyan tree, Seetha spoke these words, "Oh, great tree!
 Obeisance to you! Let my husband complete his vow! Let me see again Kausalya and the illustrious
 Sumitra." Thus speaking, Seetha circumambulated that tree with joined palms.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And may we behold Kausalyā and the illustrious Sumitrā again (kausalyāṃ caiva paśyema sumitrāṃ ca yaśasvinīm)!” Speaking thus and joining her palms in reverence, Sītā circumambulated the lordly tree (paryagacchad vanaspatim).
 </details>
 </details>
 
@@ -1130,6 +1268,12 @@ was beloved; *vidheyaameha* = and who was obedient; *abraviit* = spoke;
 Seeing the irreproachable Seetha, who was beloved and obedient to him thus praying,
 Rama spoke to Lakshmana as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the blameless, beloved, and compliant Sītā (dayitāṃ ca vidheyāṃ ca) offering her prayers thus (sītām āyācantīm), Rāma spoke to Lakṣmaṇa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1175,6 +1319,12 @@ Rama spoke to Lakshmana as follows:
 
 "Oh, Lakshmana, the excellent of men! You take Seetha and proceed in the front. I,
 along with weapons, will follow you behind."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Taking Sītā, go ahead in front (gaccha tvam agrataḥ), O younger brother of Bharata; armed with my weapons, I shall follow behind (pṛṣṭhato ’haṃ gamiṣyāmi sāyudhaḥ), O foremost of men.
 </details>
 </details>
 
@@ -1222,6 +1372,12 @@ finds delight."
 
 "Give to Seetha whatever fruit or flower she desires it and wherever this Seetha's
 mind finds delight."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever fruit or flower the daughter of Janaka desires (yad yat phalaṃ prārthayate puṣpaṃ vā), give that to Vaidehī wherever her heart takes delight (yatrāsyā ramate manaḥ).”
 </details>
 </details>
 
@@ -1271,6 +1427,12 @@ the middle; *maataNgayoH* = of two elephants.
 
 Seetha who was walking in the middle of both of them was like an auspicious female
 elephant in the middle of two elephants.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As those two walked along, the daughter of Janaka moved between them (gacchatos tu tayor madhye babhūva), like a lovely young female elephant walking between two lordly tuskers (mātaṅgayor madhya-gatā śubhā nāga-vadhūr iva).
 </details>
 </details>
 
@@ -1322,6 +1484,12 @@ earlier.
 That Seetha asked Rama whenever she saw the one or the other tree or a bush or a
 creeper shining with flowers which was not seen earlier.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding one by one each tree, shrub, or flower-laden creeper never seen before (ekam-ekaṃ pādapaṃ gulmaṃ latāṃ vā puṣpa-śālinīm adṛṣṭa-pūrvām), that gentle lady questioned Rāma (rāmaṃ papraccha sābalā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1368,6 +1536,12 @@ kinds; *ramaNiiyaan* = of beautiful twigs; *paadapaan* = of tress;
 Duly grasping Seetha's words; Lakshmana brought to her many kinds of beautiful twigs
 of trees, full of flowers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stirred to eager haste by Sītā’s words (sītā-vacana-saṃrabdhaḥ), Lakṣmaṇa brought her delightful, varied boughs thick with blossoms (pādapān kusumotkaṭān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1413,6 +1587,12 @@ naaditaam* = re-echoing to the cry of swans and cranes.
 
 Then Seetha the daughter of King Janaka was please to see the River Yamuna with
 wonderful sands and waters re-echoing to the cry of swans and cranes.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that river with its variegated sands and waters (vicitra-vāluka-jalām), resounding with swans and sārasa cranes (haṃsa-sārasa-nāditām), the daughter of King Janaka rejoiced.
 </details>
 </details>
 
@@ -1475,6 +1655,12 @@ Lakshmana killed many consecrated deer and ate in the river-forest of Yamuna.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तैदनॆय सर्ग पूर्णवायितु ॥55॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having gone a mere krośa from there, the two brothers Rāma and Lakṣmaṇa slew many pure deer fit for sacrifice (bahūn medhyān mṛgān hatvā) and partook of their fare in the Yamunā forest (ceratur yamunā-vane).
 </details>
 </details>
 

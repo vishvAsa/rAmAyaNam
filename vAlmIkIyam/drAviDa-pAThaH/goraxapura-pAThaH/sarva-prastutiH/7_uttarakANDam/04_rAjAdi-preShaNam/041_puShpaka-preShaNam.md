@@ -36,6 +36,12 @@ title = "०४१ पुष्पक-प्रेषणम्"
 
 करडिगळन्नु, वानररन्नु, राक्षसरन्नु बीळ्कॊट्टु सहोदररॊन्दिगॆ सुखस्वरूप महाबाहु श्रीरामनु सुख मत्तु आनन्दवागि अयोध्यॆयल्लि इरतॊडगिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dismissed the bears, monkeys, and rākṣasas (visṛjya ... ṛkṣa-vānara-rākṣasān), the mighty-armed Rāma, happy by his very nature (sukhī), rejoiced serenely in happiness (pramumoda sukham) together with his brothers.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०४१ पुष्पक-प्रेषणम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऒन्दु दिन अपराह्णदल्लि तन्न सहोदररॊन्दिगॆ कुळितिरुव महाप्रभु श्रीरघुनाथनु आकाशदिन्द ई मधुर वाणि केळिदनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, in the afternoon (aparāhṇa-samaye), Rāghava, seated with his brothers, heard a sweet voice (madhurāṃ vāṇīm) spoken forth from the sky (antarikṣāt prabhāṣitām):
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०४१ पुष्पक-प्रेषणम्"
 
 सौम्य श्रीरामा! नीनु नन्न कडॆगॆ सन्तोषदिन्द दृष्टि बीरुव कृपॆ माडु. नानु कुबेरन भवनदिन्द मरळिद पुष्पकविमानवॆन्दु निनगॆ तिळिदिरबहुदु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O gentle Rāma (saumya rāma), look upon me with a gracious countenance (saumyena vadanena); know me, O Lord, to be Puṣpaka, arrived from the palace of Kubera (kubera-bhavanāt prāptam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "०४१ पुष्पक-प्रेषणम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरश्रेष्ठने! निन्न अप्पणॆयन्तॆ नानु कुबेरन सेवॆगागि अवन भवनक्कॆ होगिद्दॆ. आदरॆ अवनु ननगॆ हेळिदनु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Obeying your command (tava śāsanam ājñāya), O foremost of men, I went to his palace to attend upon him (upasthātum); and he answered me thus:
 </details>
 </details>
 
@@ -136,6 +160,12 @@ title = "०४१ पुष्पक-प्रेषणम्"
 
 ऎलै विमानवे! महात्मा महाराज श्रीरामनु युद्धदल्लि दुर्धर्ष राक्षसराज रावणनन्नु वधिसि निन्नन्नु गॆद्दुकॊण्डिरुवनु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘You have been fairly won (nirjitas tvam) by the high-souled monarch Rāghava, after slaying in battle (nihatya yudhi) the unassailable Rāvaṇa, lord of the rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,6 +190,12 @@ title = "०४१ पुष्पक-प्रेषणम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुत्र, बन्धु-बान्धव, सेवकरॊन्दिगॆ आ दुरात्मा रावणनु हतनाद्दरिन्द ननगॆ बहळ सन्तोषवागिदॆ.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I too felt supreme delight (mamāpi paramā prītiḥ) when that wicked-souled Rāvaṇa was slain (hate tasmin durātmani), together with his troops, his sons, and his kinsmen (sa-gaṇe ... sa-putre saha-bāndhave).
 </details>
 </details>
 
@@ -186,6 +222,12 @@ title = "०४१ पुष्पक-प्रेषणम्"
 
 सौम्य! हीगॆ परमात्मा श्रीरामनु लङ्कॆयल्लि रावणनॊन्दिगॆ निन्नन्नु गॆद्दुकॊण्डिरुवनु. आद्दरिन्द नीनु अवन सेवॆयल्ले इरु ऎन्दु नानु आज्ञापिसुत्तेनॆ.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Therefore, won as you were in Laṅkā by the supreme-souled Rāma (nirjitaḥ paramātmanā), bear him alone, O gentle one (vaha saumya tam eva tvam)—this I command you (aham ājñāpayāmi te)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -210,6 +252,12 @@ title = "०४१ पुष्पक-प्रेषणम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुकुलवन्नु आनन्दितगॊळिसुव श्रीरामनु सम्पूर्ण जगत्तिन आश्रयदातनागिद्दानॆ. नीनु अवन वाहनवागिरु. इदु नन्न बहुदॊड्ड कामनॆयागिदॆ. अदक्कागि नीनु निश्चिन्तवागि होगु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘For this is my highest wish (paramo hy eṣa me kāmaḥ), that you should bear the delight of the Raghus (rāghava-nandanam) in his journeys through the worlds (lokasya saṃyānam); go forth freed from all anxiety (gacchasva vigatajvaraḥ)!’
 </details>
 </details>
 
@@ -236,6 +284,12 @@ title = "०४१ पुष्पक-प्रेषणम्"
 
 हीगॆ नानु कुबेरन आज्ञॆ पडॆदे निन्न बळिगॆ बन्दिरुवॆनु. आद्दरिन्द नीनु नन्नन्नु निःशङ्कनागि स्वीकरिसु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus, having accepted the command of the high-souled Lord of Wealth (śāsanam ājñāya dhanadasya mahātmanaḥ), I have returned to your presence (tvat-sakāśam anuprāptaḥ); receive me without any hesitation (nirviśaṅkaḥ pratīkṣa mām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,6 +315,12 @@ title = "०४१ पुष्पक-प्रेषणम्"
 
 नानु ऎल्ल प्राणिगळिगॆ अजेयनागिद्देनॆ. कुबेरन आज्ञॆयन्तॆ नानु निन्न आदेशवन्नु पालिसुत्ता, तन्न प्रभावदिन्द समस्त लोकगळल्लि सञ्चरिसुवॆनु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Unassailable by all beings (adṛṣyaḥ sarvabhūtānām) through Kubera’s decree (dhanadājñayā), I shall roam everywhere by my own potency (carāmy ahaṃ prabhāveṇa), ever upholding your command (tavājñāṃ paripālayan)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -285,6 +345,12 @@ title = "०४१ पुष्पक-प्रेषणम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुष्पकवु हीगॆ हेळिदाग महाबलि श्रीरामनु आ विमान पुनः बन्दिरुवुदन्नु नोडि अदर बळि हेळिदनु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Puṣpaka, the mighty Rāma gazed upon the aerial car (vimānaṃ punar āgatam) that had returned to him, and spoke to Puṣpaka:
 </details>
 </details>
 
@@ -314,6 +380,12 @@ _________________
 
 विमानराज पुष्पकवे! मातु हीगिद्दरॆ नानु निन्नन्नु स्वागतिसुत्तेनॆ. कुबेरन अनुकूलतॆयिन्दागि नमगॆ मेरॆ मीरिद दोष तट्टलारदु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If it be thus (yady evam), then welcome to you, O Puṣpaka, foremost of aerial cars (svāgataṃ te ’stu vimānavara puṣpaka)! By the gracious consent of the Lord of Wealth (ānukūlyād dhaneśasya), no blemish of conduct (vṛttadoṣaḥ) shall attach to us!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -338,6 +410,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि महाबाहु श्रीरामनु अरळु, पुष्प, धूप, चन्दनादिगळिन्द पुष्पकविमानवन्नु पूजिसिदनु हागू हेळिदनु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the mighty-armed Rāghava honored Puṣpaka (pūjayitvā ... puṣpakam) with parched grain (lājaiḥ), flowers (puṣpaiḥ), and fragrant incense (dhūpaiś caiva sugandhibhiḥ),
 </details>
 </details>
 
@@ -370,6 +448,12 @@ _________________
 
 ईग नीनु हॊरटु होगु, नानु स्मरिसिदाग बन्दु बिडु. आकाशदल्लि इरुत्ता, निनगॆ नन्न वियोगद दुःखवागबारदु. (समय बन्दाग निन्नन्नु उपयोगिसुवॆनु.) स्वेच्छॆयिन्द समस्त दिक्कुगळिगॆ होगुवाग ऎल्लियू ढिक्कि हॊडॆयदिरलि, अथवा निन्न गति कुण्ठितवागदिरलि.॥14½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And spoke to it: “Go now (gamyatām), and return whenever I call you to mind (āgaccha tvaṃ smare yadā)! O gentle one, do not afflict yourself—or trouble the Siddhas—with distress along the aerial path of the Siddhas (siddhānāṃ ca gatau ... mā viṣādena yojaya), and may no obstacle ever impede you (pratighātaś ca te mā bhūt) as you travel at will across the quarters (yatheṣṭaṃ gacchato diśaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -394,6 +478,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुष्पकवु हागॆये आगलि ऎन्दु हेळि अवन आज्ञॆयन्नु शिरसावहिसिकॊण्डनु. हीगॆ श्रीराम अदन्नु पूजिसि होगलु अप्पणॆ माडिदाग आ पुष्पकवु तनगॆ बेकादल्लिगॆ हॊरटुहोयितु.॥15½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saying “So be it!” (evam astv iti), that Puṣpaka, duly worshipped and dismissed by Rāma (rāmeṇa pūjayitvā visarjitam), thereupon departed from that place toward its chosen quarter (abhipretāṃ diśaṃ ... prāyāt).
 </details>
 </details>
 
@@ -420,6 +510,12 @@ _________________
 
 हीगॆ पुण्यमय पुष्पकविमानवु अदृश्यवादाग भरतनु कैमुगिदुकॊण्डु श्रीरघुनाथनल्लि इन्तॆन्दनु.॥16½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that exquisitely fashioned Puṣpaka (puṣpake sukṛtātmani) had thus vanished from sight (evam antarhite), Bharata, with palms joined in reverence (prāñjaliḥ), addressed these words to the delight of the Raghus:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -444,6 +540,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वीरवरने! नीनु देवस्वरूपनागिरुवॆ. इदरिन्द निन्न शासन कालदल्लि मनुष्येतर प्राणिगळू कूड पदे-पदे मनुष्यरन्तॆ सम्भाषण माडुवुदु कण्डुबरुत्तदॆ.॥17½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While you—whose nature is manifold and wondrous (vividhātmani ... tvayi)—rule the realm (praśāsati), O hero, the spoken utterances of non-human beings (amānuṣāṇāṃ sattvānāṃ vyāhṛtāni) are witnessed again and again (dṛśyante ... muhur muhuḥ)!
 </details>
 </details>
 
@@ -472,6 +574,14 @@ _________________
 
 राघव! नीनु पट्टाभिषिक्तनागि ऒन्दु तिङ्गळिगिन्त हॆच्चायितु अन्दिनिन्द ऎल्ल जनरु निरोगियागिद्दारॆ. मुदिप्राणिय बळियू मृत्यु सुळियुवुदिल्ल. स्त्रीयरु कष्टविल्लदॆ मक्कळन्नु हडॆयुत्तारॆ. ऎल्ल मनुष्यरु हृष्ट-पुष्टरागि कण्डुबरुत्तारॆ.॥18-19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “This past month and more (sāgro māso gato hy ayam) has passed wholly free of disease for all creatures (anāmayaś ca sattvānām); death does not approach even the aged among living beings (jīrṇānām api sattvānāṃ mṛtyur nāyāti), O Rāghava!
+
+**19:** “Women bring forth children free from ailment (aroga-prasavā nāryaḥ), and men are vigorous and handsome of frame (vapuṣmanto hi mānavāḥ); and supreme joy abounds, O King, among the people dwelling in the city (janasya puravāsinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -496,6 +606,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! प्रजाजनरल्लि हर्ष हॆच्चागिदॆ. मेघगळु अमृतदन्तह नीरन्नु सुरिसुत्ता समयक्कॆ सरियागि मळॆगरॆयुत्तिवॆ.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The rain-cloud showers down nectar-like waters in due season (kāle varṣati parjanyaḥ pātayann amṛtaṃ payaḥ), and these breezes blow soft to the touch, pleasant, and auspicious (sparśayuktāḥ sukhāḥ śivāḥ).
 </details>
 </details>
 
@@ -527,6 +643,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वायुवु शीतल मत्तु सुखस्पर्शवागि बीसुत्तिदॆ. राजने! नगर मत्तु राष्ट्रद जनरु - नमगॆ चिरकाल इन्तह प्रभावी राजने इरलि ऎन्दु ई पुरियल्लि हेळुत्तारॆ.॥21½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘May such an imperishable monarch be our lord of men!’ (īdṛśo ’naśvaro rājā bhaved iti nareśvaraḥ)—so speak both townsfolk and country-dwellers throughout the city (paurajānapadās tathā), O King!”
 </details>
 </details>
 
@@ -563,5 +685,11 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि नलवत्तॊन्दनॆय सर्ग पूर्णवायितु. ॥41॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing these exceedingly sweet words spoken by Bharata (etā vācaḥ sumadhurā bharatena samīritāḥ), Rāma, foremost of kings (nṛpasattamaḥ), was filled with supreme gladness (mudā yukto babhūva).
 </details>
 </details>

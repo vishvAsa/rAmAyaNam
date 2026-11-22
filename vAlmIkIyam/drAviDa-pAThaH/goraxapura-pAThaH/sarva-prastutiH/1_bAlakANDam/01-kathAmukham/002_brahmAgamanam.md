@@ -76,6 +76,12 @@ Then, the great sage Valmiki, a skilled orator and a virtue-minded one, having h
 
 अत्र धर्मात्मा महा-मुनिः इति विशेषण-द्वयेन कर्तुः सत्-पुरुषत्वम् उक्तम् ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard that nectar-like discourse of Nārada, the righteous-souled Vālmīki—himself a master of eloquent speech (vākyaviśāradaḥ)—accompanied by his disciples, reverently worshipped the great sage.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -125,6 +131,12 @@ That divine sage Narada being worshipped befittingly by Valmiki in that way, on 
 permission of Valmiki to leave and having been permitted by Valmiki, went away heaven-ward.
 [1-2-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Duly honored by him in accordance with scriptural ordinance, the celestial seer Nārada then affectionately took leave (āpṛṣṭvaiva) and, having received Vālmīki’s cordial permission to depart (abhyanujñātaḥ), ascended into the sky.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -161,6 +173,12 @@ permission of Valmiki to leave and having been permitted by Valmiki, went away h
 **अनुवादः**
 
 Then, on Narada's going to the world of gods in a trice, that sage Valmiki went to the banks of Tamasa river not far from Jahnavi river. [1-2-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A brief while (muhūrtam) after Nārada had departed for the celestial realm, the sage Vālmīki set forth for the bank of the Tamasā river, situated not far from the sacred Jāhnavī (Gaṅgā).
 </details>
 </details>
 
@@ -207,6 +225,12 @@ Then, on Narada's going to the world of gods in a trice, that sage Valmiki went 
 
 Then that sage Valmiki on reaching the shore of the clean Tamasa, and on beholding a ford of that river, spoke to his disciple who was at his side. [1-2-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached the bank of the Tamasā, the sage beheld a ford wholly free of mud and silt (tīrtham akardamam) and spoke to his disciple standing attentively at his side:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -244,6 +268,12 @@ Then that sage Valmiki on reaching the shore of the clean Tamasa, and on beholdi
 **अनुवादः**
 
 "Oh! Bharadwaja, behold this ford which is without dirt, with clear waters and pleasant like a virtuous man's mind. [1-2-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold (niśāmaya), O Bharadvāja, how free of mire is this sacred ford! Delightful to the heart and pellucid in its waters (prasannāmbu), it shines like the mind of a virtuous man (sanmanuṣyamano yathā).
 </details>
 </details>
 
@@ -284,6 +314,12 @@ Then that sage Valmiki on reaching the shore of the clean Tamasa, and on beholdi
 "My dear! Let the hand-vessel [kamaNDalu] be kept [there]. Let my bark-garment be given to me. I will enter this best
 ford of Tamasa only... [1-2-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Set down the water-pitcher (kalaśaḥ), my dear son (tāta), and hand me my bark-garment (valkalam). Into this very ford of the Tamasā, supreme among bathing-places, I shall now descend for my ablutions.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -321,6 +357,12 @@ ford of Tamasa only... [1-2-6]
 **अनुवादः**
 
 Thus being said by the great-souled Valmiki, Bharadwaaja who was obedient to his Guru, gave the bark-garment to the sage [1-2-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the magnanimous Vālmīki, Bharadvāja—ever disciplined and reverent toward his preceptor (niyato guroḥ)—handed the bark-garment to that sage.
 </details>
 </details>
 
@@ -363,6 +405,12 @@ vanam* = that wide forest.
 That self-controlled Sage Valmiki on taking bark-garment from his disciple's hands, and looking in all directions, indeed moved away from that
 wide expanse of forest. [1-2-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking the bark-garment from his disciple’s hand, the sage—his senses wholly under control (niyatendriyaḥ)—walked about, gazing on every side upon that vast, blossoming forest.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -404,6 +452,12 @@ its [in foreshore's] vicinity.
 There holy sage Valmiki saw a couple of curlews, in the vicinity of that river's
 foreshore, flying there about in togetherness and cooing charmingly. [1-2-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Near that bank, the worshipful sage beheld a pair of krauñca (sarus crane) birds wandering together in inseparable union (anapāyinam), warbling sweet and melodious notes (cāruniḥsvanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -443,6 +497,12 @@ foreshore, flying there about in togetherness and cooing charmingly. [1-2-9]
 A tribal hunter with evil intent, and a receptacle of enimity, killed the male
 one among the couple of birds, while Valmiki was looking on. [1-2-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Out of that pair, a Niṣāda fowler of sinful resolve (pāpaniścayaḥ)—the very abode of unprovoked malice (vairanilayaḥ)—struck down the male bird (pumāṃsam) while the sage was looking on (tasya paśyataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,6 +527,12 @@ one among the couple of birds, while Valmiki was looking on. [1-2-10]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ पक्षियु रक्तसिक्तवागि मरणासन्न स्थितियल्लि नॆलदल्लि हॊरळाडुत्तिरुवुदन्नु कण्डु हॆण्णु पक्षियु करुणाजनक ध्वनियिन्द रोदिसतॊडगितु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him struck down, his limbs bathed in blood (śoṇitaparītāṅgam) and writhing in agony upon the ground (ceṣṭamānaṃ mahītale), his mate (bhāryā) uttered a heart-rending cry of lamentation.
 </details>
 </details>
 
@@ -513,6 +579,12 @@ that bird slain on ground reeling with blood covered wings really made wailing s
 husband.
 [1-2-11, 12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Torn apart from that lord of hers—a twice-born bird (dvijena), her constant companion (sahacāriṇā), crimson-crested (tāmraśīrṣeṇa), transported with love-joy (mattena), strong-winged (pattriṇā), and ever united with her (sahitena)—she wailed piteously.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -551,6 +623,12 @@ occasioned.
 
 On seeing that bird felled that way by the tribal hunter, compassion occassioned in that
 saintly sage Valmiki. [1-2-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that bird struck down in such a manner by the Niṣāda, profound compassion (kāruṇyam) welled up in the heart of that righteous-souled seer.
 </details>
 </details>
 
@@ -594,6 +672,12 @@ abraviit* = uttered this sentence.
 
 Then on seeing the wailing female krounchi bird, out of state of compassion and apperceiving
 the killing of male bird as unjust, the sage uttered this sentence... [1-2-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, out of his tender sensitivity to another’s sorrow (karuṇaveditvāt), judging “This is a grievous transgression of dharma!” (adharmo ’yam iti), the twice-born sage, hearing the female krauñcī weeping, uttered these words:
 </details>
 </details>
 
@@ -770,6 +854,12 @@ alone lusting]; Seetha is fascinated by her desire to see sage's wives in uttara
 she is sent to forests through Lakshmana. Hence seventh canto, *uttara Ramayana* is also
 suggested.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Niṣāda, may you not attain enduring continuance (pratiṣṭhām) for eternal years to come (śāśvatīḥ samāḥ), since out of a pair of krauñca birds you have slain one while he was absorbed in the transport of love (kāmamohitam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -815,6 +905,12 @@ tasya hR^idi* = in his heart; *chintaa babhuuva* = [he] became thoughtful;
 
 Thus speaking and pondering in his heart, he became thoughtful: "What is this utterance by me in grief and anguish for this bird?". [1-2-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as he spoke thus while gazing upon the bird, anxious reflection arose in his heart: “Afflicted with grief for this bird, what is this utterance that has issued from me?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -854,6 +950,12 @@ Thus speaking and pondering in his heart, he became thoughtful: "What is this ut
 
 That great wise one who was an intellectual and the best among sages, on cogitating, made up his mind and also spoke these words to the
 disciple... [1-2-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting deeply, that sage of supreme wisdom and acute discernment (mahāprājñaḥ, matimān) came to a settled conclusion in his mind, and that bull among sages spoke this word to his disciple:
 </details>
 </details>
 
@@ -913,6 +1015,12 @@ kiirti
 
 पूर्वं पाद-बद्ध-अक्षरः श्लोको न स्थितः । श्री-राम-स्वामि-चरित-वर्णनं पाद-बद्ध-अक्षर-श्लोकैर् वाल्मीकिना कारयितव्यम् इति भगवतश् चतुर्मुखस्यच् छन्दात् शोक-निमित्तेन पाद-बद्धाक्षरः श्लोको वाल्मीकेर् वदनारविन्दान् निःसृतः । एतदारभ्यच् छन्दोबद्धानि काव्यानि जातानि । अनेन रामायणस्यादि-काव्यत्वं वाल्मीकिर् अपि सर्वेषां कवीनां मार्ग-दर्शीति च सूचितम् ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bound in four metrical quarters (pādabaddhaḥ), equal in syllables (akṣarasamaḥ), and endowed with the rhythmic cadence of lute-strings (tantrī-laya-samanvitaḥ)—since this utterance sprang forth from me while I was stricken with grief (śokārtasya), let it be a śloka, and nothing otherwise!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -958,6 +1066,12 @@ abhavat muniH* = saint was delighted.
 
 Even the disciple happily received what that is articulated by the saint, a unique articulation,
 by which the saint too, was delighted. [1-2-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As that sage spoke, his disciple Bharadvāja joyfully received and committed to memory (pratijagrāha saṃhṛṣṭaḥ) that peerless utterance; and the preceptor was deeply pleased with him.
 </details>
 </details>
 
@@ -1008,6 +1122,12 @@ arrives at the river for a daily bath, which he would do by usual dipping in riv
 it appears that waters are showered on him, *abhiShekam kR^itvaa *meaning that waters showered
 on him are on the analogy of poetic verses of Ramayana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having performed his ritual ablutions (abhiṣekam) in that sacred ford according to scriptural ordinance (yathāvidhi), the sage turned back toward his hermitage, pondering that very matter in his heart.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1049,6 +1169,12 @@ Then Bharadwaja, the obedient disciple and an erudite scholar, for he heard and 
 scriptures by listening, on taking handy-vessel full with water followed at the behind of
 his mentor. [1-2-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Bharadvāja—his humble disciple, richly endowed with sacred learning received from his preceptor (śrutavān guroḥ)—took up the pitcher filled with pure water and walked behind him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1089,6 +1215,12 @@ along with disciples; *pravishya aashramapadam* = on entering, hermitage's thres
 He that knower of dharma, Valmiki, having entered the threshold of hermitage along with disciples,
 and having seated spoke about the day-to-day teachings and also other things, but he himself
 is preoccupied in cogitation on the verse. [1-2-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering the hermitage precinct accompanied by his disciple, that knower of dharma took his seat and, though conversing on other matters of sacred lore, remained inwardly absorbed in meditation (dhyānam āsthitaḥ).
 </details>
 </details>
 
@@ -1144,6 +1276,12 @@ penance, or on raising hue and cry as is done by demon devotees. Here Brahma, on
 Trinity of Hindu mythology, arrives on his own, to execute a divine deed through Valmiki,
 i.e. authoring the epic, Ramayana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the four-faced Lord Brahmā of transcendent splendor—the self-manifest Creator of the worlds (lokakartā svayaṃ prabhuḥ)—came in person to behold that bull among sages.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1189,6 +1327,12 @@ palms; *vaagyataH* = spellbound; *tasthau* = stood aside.
 
 Then that pious saint Valmiki is highly surprised on seeing Brahma, and on quickly getting
 up from his seat with his palms adjoined humbly, he stood aside, as he is spellbind. [1-2-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him, Vālmīki rose at once in reverent silence (sahasotthāya vāgyataḥ); joining his palms in supplication (prāñjaliḥ) with a collected mind, he stood filled with supreme wonder.
 </details>
 </details>
 
@@ -1256,6 +1400,12 @@ now arrives to ordain Valmiki to author Ramayana.
 
 अत्र ब्रह्मणः स्वयम् एवागमनेन वाल्मीकेर् माहात्म्यं तपसश् च सिद्धिर् व्यक्तीकृता ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing down in accordance with scriptural rule and inquiring after his unblemished well-being (nirāmayam), Vālmīki worshipped that Effulgent Lord with water for the feet (pādya), oblation-water (arghya), a seat of honor (āsana), and reverent salutations.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1294,6 +1444,12 @@ very, highly, worshipped [by Valmiki];*vaalmiikaye ca R^iSaye =* also at sage Va
 
 Then god Brahma, who is seated on a high seat, very highly worshipped by Valmiki, also beckoned
 at Valmiki to take a seat. [1-2-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having seated himself upon that supremely honored seat, the worshipful Lord Brahmā motioned to the seer Vālmīki to take his seat as well (saṃdideśāsanaṃ tataḥ).
 </details>
 </details>
 
@@ -1374,6 +1530,14 @@ to capture the kill, is an evil souled one that caused hardship..." [1-2-28b-29a
 
 अनेन ब्रह्मणा आसने अवस्थानस्याभ्यनुज्ञानात् सर्व-ऋषि-श्रेष्ठत्वम् ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** Permitted by Brahmā (brahmaṇā samanujñātaḥ), he too sat down upon his seat. Even while the Grandfather of the worlds sat visibly before him in person (sākṣāl lokapitāmahe), Vālmīki, his mind wholly absorbed in that earlier tragedy, sank into brooding contemplation:
+
+**28:** “Alas, a cruel deed was perpetrated by that sinful-souled wretch of hostile intent, in that without any cause (akāraṇāt) he slew such a sweet-voiced krauñca bird!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1432,6 +1596,12 @@ The word *jaguH *is singing; *gai= shabde; liT; prathama bahu; jagau - jagatuH -
 variant of *gaay*; c.f. Raghuvamsha of Kalidasa, verse 20, in fourth sarga; *
 aakumaarakathodghaatam shaaligopyo
 jaguryashaH *
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grieving once again for the female krauñcī, his mind turned inward and wholly given over to sorrow (śokaparāyaṇaḥ), he chanted this very stanza closely aloud (upaślokam imaṃ jagau).
 </details>
 </details>
 
@@ -1502,6 +1672,14 @@ you shall render the legend of Rama, in its entirety... [1-2-31]
 
 अनेनच् छन्दो-बद्ध-श्लोको वाल्मीकिना कृतः । तद् अङ्गीकृत्य श्लोक एव नाम स्थापितम् ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** Then Lord Brahmā, smiling gently (prahasan), spoke to that bull among sages: “A śloka indeed is this that has been composed by you; no anxious doubt need be entertained herein (nātra kāryā vicāraṇā)!
+
+**31:** “By my own will alone (macchandād eva), O Brāhmaṇa, has this goddess of speech (sarasvatī) issued forth from your lips! Compose, therefore, in its entirety (kṛtsnam), the sacred history of Rāma, O noblest of seers!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1564,6 +1742,12 @@ a godlike person in this world as well, as you have heard it from sage Narada. [
 अनेन श्री-राम-स्वामि-चरित-वर्णनं स्वयं ब्रह्मणा कर्तव्यम् अपि स्वाशयानुरूपेण वाल्मीकिर् एव करिष्यतीति मत्वा तस्य मुखात् सरस्वतीं निःसार्य स्वयम् एवागत्योपश्लाघन-पूर्वकं कुर्व् इत्य् अभ्यनुज्ञानेन भगवतो वाल्मीकेर् ब्रह्मावतारत्वं सूचितम् ॥
 
 अस्य काव्यस्य श्री-राम-स्वामी नायकः । अत्र अनन्त-गुणाभिरामस्यापि रामस्य धर्मवत्त्वादि-गुण-चतुष्टय-वर्णनं ब्रह्मणो मुख-चतुष्टय-साफल्य-द्योतनार्थम् । एवं च राम-कथां कुर्वत एव मुखं सफलम् इति द्योतितम् ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Narrate the deeds of Rāma—the righteous-souled (dharmātmanaḥ), the Lord possessed of sixfold divine majesty in this world (bhagavataḥ), the wise and steadfast hero (dhīmataḥ, dhīrasya)—just as you have heard them from Nārada.
 </details>
 </details>
 
@@ -1634,6 +1818,14 @@ it were to be unknown, as yet... [1-2-33-34]
 
 अनेन रहस्यार्थ-वेदन-रूप-वर-दानम् उक्तम् ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**33:** “Whatever deeds—whether secret (rahasyam) or publicly known (prakāśam)—were performed by that wise Rāma together with Sumitrā’s son Lakṣmaṇa, and by the rākṣasas in every detail;
+
+**34:** “And whatever befell Vaidehī (Sītā)—whether in public view or in solitude (rahaḥ)—all that too, though hitherto unknown to you (aviditaṃ sarvam), shall become directly known to your inner vision (viditaṃ te bhaviṣyati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1681,6 +1873,12 @@ word of yours will not be false in this epic... [1-2-35]
 
 अनेन न केवलं दोषाभावः, अपि तु वक्तुः श्रोतुश् च पुण्याधायकम् इति सूचितम् ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Not a single word of yours in this poem shall ever prove untrue (na te vāg anṛtā kāvye kācid atra bhaviṣyati)! Compose, therefore, the sacred, heart-ravishing story of Rāma bound in melodious ślokas.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1705,6 +1903,12 @@ word of yours will not be false in this epic... [1-2-35]
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
 
 अनेन धार्मिकेण पुरुषेण कृतं धर्म-प्रधान-पुरुष-चरित्र-वर्णनं चिर-कालं सर्वोपादेयतयावतिष्ठत इति सूचितम् ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As long as the mountains and the rivers shall endure upon the surface of the earth, so long shall the story of the Rāmāyaṇa circulate throughout the worlds!
 </details>
 </details>
 
@@ -1768,6 +1972,12 @@ legend of Ramayana will flourish in this world... [1-2-36]
 "And as long as Rama's legend authored by you flourishes...till then you will flourish in
 heavenly, in netherworlds, and even in my abode, namely Abode of Brahma... [1-2-37]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And as long as the story of Rāma composed by you (tvatkṛtā) shall circulate, so long shall you dwell aloft and below across all my cosmic realms (mallokeṣu nivatsyasi)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1812,6 +2022,12 @@ Valmiki came by astonishment, along with his disciples. [1-2-38]
 <details><summary>त्र्यम्बकः - धर्माकूतम्</summary>
 
 अनेन कर्तुर् भगवतो वाल्मीकेः परम-पुरुषार्थ-सिद्धिर् अप्य् उक्ता भवति, "तस्य सर्वेषु लोकेषु काम-चारो भवति" इति श्रुति-वचनात् । एवं च अन्यस्यापि महा-पुरुष-चरित-वर्णन-कर्तुर् महा-फल-प्राप्तिः सूचिता । एवम् अनेक-वरान् प्रदाय ब्रह्मा तत्रैवान्तरधीयत ।
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the worshipful Lord Brahmā vanished on that very spot (tatraivāntaradhīyata); thereupon the worshipful sage Vālmīki, together with his disciples, entered into supreme wonder.
 </details>
 </details>
 
@@ -1859,6 +2075,12 @@ recited, also.
 
 Then all of the disciples of Valmiki sang this verse time and again very delightedly, and
 much astonished they also recited this verse, reciprocally. [1-2-39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then all of his disciples chanted this śloka again and again (muhur muhuḥ); filled with rapture and supreme astonishment, they declared to one another:
 </details>
 </details>
 
@@ -1922,6 +2144,12 @@ shlokatvam aagataH...* the pathos of the poet attained the status of verse that 
 being sung by the disciples, thus anyone can recite it.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Sung by the great seer in four quarters of equal syllables (samākṣaraiś caturbhiḥ pādaiḥ), that very grief (śokaḥ), through repeated recitation (anuvyāharaṇād bhūyaḥ), has been transmuted into the state of a śloka (ślokatvam āgataḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1961,6 +2189,12 @@ maharSeH jaataa* = born to that great sage.
 
 Born is an intuition in that great sage and contemplated soul asserting that "I will compose
 entire Ramayana, the epic, in suchlike verses...' [1-2-41]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then this resolve arose in the mind of Vālmīki, whose inner self was purified by contemplation (bhāvitātmanaḥ): “With verses such as this (īdṛśaiḥ), I shall compose the entire Rāmāyaṇa poem!”
 </details>
 </details>
 
@@ -2035,6 +2269,12 @@ meanings semantically, prosody free-flowing, and with hundreds of such verses. [
 
 अनेन ब्रह्मणो लब्ध-वरस्य कीर्तिमतो वाल्मीकेस् तत्-कृत-यशस्कर-काव्यस्य तत्-प्रतिपाद्यस्य यशस्विनः सकल-कल्याण-गुणाभिरामस्य रामस्य च महिमातिशयः प्रतिपादितः ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that illustrious seer of noble vision (udāradarśanaḥ) composed for this glorious Rāma a fame-bestowing poem (yaśaskaraṃ kāvyam) in hundreds of equal-syllabled ślokas, adorned with exalted meters, pregnant meanings, and heart-ravishing words (udāra-vṛttārtha-padair manoramaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2103,5 +2343,11 @@ attentively.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎरडनॆय सर्ग पूर्णवायितु. ॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pray listen attentively (niśāmayadhvam) to the sacred history of the noblest of the Raghus (raghuvaracaritam) and the slaying of the ten-headed Rāvaṇa, composed by the sage in sentences where compounds and euphonic junctions blend effortlessly (tad-upagata-samāsa-saṃdhi-yogam) and where harmonious, sweet words naturally yield their meaning (sama-madhuropanatārtha-vākya-baddham)!
 </details>
 </details>

@@ -78,6 +78,14 @@ The lives of those citizens, who had returned dejected and cheerless in this way
 after accompanying Rama were greatly hurt, having their eyes filled with tears afflicted with
 grief, longing to give up their lives and appeared as though they were dead.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Of those dejected men (teṣām evaṃ viṣaṇṇānām), sorely tormented (pīḍitānām atīva ca), their eyes flooded with tears (bāṣpa-vipluta-netrāṇām) and longing for death in their sorrow (sa-śokānāṃ mumūrṣayā)—
+
+**2:** —of those townsfolk who had returned after following Rāma (anugamya nivṛttānām) and were bereft of heart (amanasvinām), the very life-breaths seemed to have departed (udgatānīva sattvāni babhūvuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -124,6 +132,12 @@ by tears.
 
 Reaching each his own house, all of them surrounded by their sons and wife, shed
 tears, their faces being covered by them.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having come each to his own home (svaṃ svaṃ nilayam āgamya), surrounded by sons and wives (putra-dāraiḥ samāvṛtāḥ), they all shed tears, their faces covered with hot vapor (bāṣpeṇa pihitānanāḥ).
 </details>
 </details>
 
@@ -172,6 +186,12 @@ cook.
 None was either delightful or merry. Merchants no longer exhibited their wares, nor
 their merchandise looked charming. Those in charge of home did not attend to cooking.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They neither rejoiced nor took delight (na cāhṛṣyan na cāmodan); merchants did not spread out their wares (vaṇijo na prasārayan), nor did merchandise shine (na cāśobhanta paṇyāni), nor did householders cook (nāpacan gṛha-medhinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -217,6 +237,12 @@ Mother;naabhyanandata = did not rejoice; *labdhvaa* = on obtaing; *putram* = a s
 
 None was delightful for instance on finding out a lost fortune, or on getting riches
 in abundance. No mother did rejoice even on obtaining a son born for the first time.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing lost wealth recovered (naṣṭaṃ dṛṣṭvā) or an abundant influx of riches (vipulaṃ vā dhanāgamam), men did not rejoice (nābhyanandan); nor did a mother rejoice upon obtaining a first-born son (putraṃ prathamajaṃ labdhvā).
 </details>
 </details>
 
@@ -268,6 +294,12 @@ goads.
 Oppressed with sorrow and weeping, women in every house heaped reproaches on their
 husbands who came home, with words as sharp as pricks of the goad which attack an elephant.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And in house after house (gṛhe gṛhe), weeping women afflicted with grief reproached (vyagarhayanta) their husbands who had come home, piercing them with words as one goads elephants with iron hooks (vāgbhis totrair iva dvipān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -314,6 +346,12 @@ their sons or; *sukhairvaapi* = even pleasures even?"
 
 "What purpose of theirs who do not see Rama, will be served by their dwellings, wife
 or wealth or sons or pleasures even?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What use have those men for houses (kiṃ nu teṣāṃ gṛhaiḥ kāryam), what for wives, or what for wealth, or what for sons or pleasures, who do not behold Rāghava (ye na paśyanti rāghavam)?
 </details>
 </details>
 
@@ -362,6 +400,12 @@ Kakutstha dynasty; *siitayaa saha* = along with Sita; paricharam rending service
 Lakshmana alone is a good man in this world, who was accompanying Rama belonging to
 Kakutstha dynasty, along with Sita ,duly rendering service to them in the forest."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There is but one true man in the world (ekaḥ sat-puruṣo loke)—Lakṣmaṇa, together with Sītā—who follows after Kākutstha, serving Rāma in the forest (rāmaṃ paricaran vane)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -408,6 +452,12 @@ Kakutstha dynasty, along with Sita ,duly rendering service to them in the forest
 "Fortunate too are the rivers; lotus ponds and lakes for bathing in whose sacred
 waters Rama entered into."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Meritorious are those rivers (āpagāḥ kṛta-puṇyās tāḥ), lotus-ponds (padminyaḥ), and lakes, wherein Kākutstha will bathe, plunging into their pure water (vigāhya salilaṃ śuci).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -453,6 +503,12 @@ rivers; *parvataaH* = and mountains; *saanumantaH* = with alluring peaks;
 
 "Forests with beautiful row of trees, tracks of land abounding in water, rivers and
 mountains with alluring peaks will bring splendor to Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Forests with lovely groves (aṭavyo ramya-kānanāḥ), rivers with broad watery banks (āpagāś ca mahānūpāḥ), and peaked mountains (sānumantaś ca parvatāḥ) will grace Kākutstha!
 </details>
 </details>
 
@@ -501,6 +557,12 @@ arrived."
 "Any mountain or forest which Rama will visit, will not fail to respect him like a
 beloved guest who has arrived."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whatever woodland or mountain Rāma shall approach (yaṃ rāmo 'dhigamiṣyati), they will not be able to refrain from honoring him (nainaṃ śakṣyanty anarcitum), like a dearly beloved guest who has arrived (priyātithim iva prāptam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -545,6 +607,12 @@ themselves; *raaghavam* = at Rama."
 
 "Plants with many -colored flowers as their chaplets, bearing copious clusters of
 blossoms full of bees exhibit themselves at Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crowned with variegated flower-chaplets (vicitra-kusumāpīḍāḥ) and bearing abundant blossom-clusters (bahu-mañjari-dhāriṇaḥ), trees (nagāḥ) will display even out of season their choicest flowers and fruits—
 </details>
 </details>
 
@@ -593,6 +661,12 @@ unseasonable ness anukroshaat = with compassion.
 "Even in unseasonable ness, mountains in compassion will present principal flowers
 and fruits to Rama, on his arrival."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and out of tender compassion (anukrośāt), the mountains will display even out of season (akāle cāpi) their choicest flowers and fruits unto Rāma when he has arrived (girayo rāmam āgatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -638,6 +712,12 @@ and fruits to Rama, on his arrival."
 
 "Mountains will show various wonderful waterfalls again and again, duly streaming
 forth uncontaminated waters."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The mountains (mahī-dharāḥ) will pour forth pellucid waters (prasraviṣyanti toyāni vimalāni), displaying manifold and wondrously variegated waterfalls (vidarśayanto vividhān bhūyaś citrāṃś ca nirjharān).
 </details>
 </details>
 
@@ -707,6 +787,14 @@ us. Anugachhaama = Let us run after; *raaghavam* = Rama."
 "That Rama the son of Dasaratha, the hero and the mighty armed will come to our view
 not far from us. Let us run after him."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** Trees upon the mountain peaks (pādapāḥ parvatāgreṣu) will delight Rāghava. Where Rāma is, there is no fear (yatra rāmo bhayaṃ nātra), nor is there any humiliation there (nāsti tatra parābhavaḥ).
+
+**16:** For he is a hero of mighty arms, and the son of Daśaratha; before he goes far from us (purā bhavati no dūrāt), let us follow after Rāghava (anugacchāma rāghavam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -753,6 +841,12 @@ the Lord; *mahaatmanaH* = and the high-souled; *taadR^ishsya* = is in such a man
 
 "The shelter of the feet of the lord and the high-souled Rama is in itself a joy.
 Rama indeed is the protector of all of us, he the refuge and our supreme asylum "
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sweet is the shade of the feet (pāda-cchāyā sukhā) of such a great-souled lord (bhartus tādṛśasya mahātmanaḥ); for he is the protector of this people, he is our refuge, he is our supreme resort (sa gatiḥ sa parāyaṇam).
 </details>
 </details>
 
@@ -804,6 +898,12 @@ husbands.
 "We shall serve Sita; while you attend on Rama." Thus, the citizen's wives,
 afflicted with agony, spoke in so many words to their husbands.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+We women shall wait upon Sītā, and you men upon Rāghava (vayaṃ paricariṣyāmaḥ sītāṃ yūyaṃ tu rāghavam)!”—thus did the wives of the citizens, afflicted with sorrow, speak one thing and another unto their husbands.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -850,6 +950,12 @@ janasya naarii* = of these people; the women folk.
 "Rama will secure the needs and interests of yours in the forest, while Sita will do
 the same thing with regard to us womenfolk."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rāghava will provide for your acquisition and preservation of welfare in the forest (yuṣmākaṃ rāghavo 'raṇye yoga-kṣemaṃ vidhāsyati), and Sītā will provide for the welfare of this womankind (nārī-janasyāsya)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -895,6 +1001,12 @@ spot; *hR^ita chetasaa* = with unsettled minds?"
 
 "Who will be highly pleased with this residence in the city, which is apprehensible,
 with anxious people in it and not being a pleasant spot with unsettled minds?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Who indeed could take delight (ko nv anenāpratītena ... saṃprīyeta) in this cheerless abode, filled with pining folk (sotkaṇṭhita-janena), joyless (amanojñena), and robbed of its heart (hṛta-cetasā)?
 </details>
 </details>
 
@@ -944,6 +1056,12 @@ righteousness; *anaathavat* = with no protector; *na hi* = indeed; no;
 righteousness, with no protector and indeed with no use for our lives, mush less for our sons and
 riches."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If the kingdom should pass to Kaikeyī, unrighteous and masterless (syād adharmyam anāthavat), we have no use even for life (na hi no jīvitenārthaḥ)—how much less for sons, how much less for wealth (kutaḥ putraiḥ kuto dhanaiḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -969,6 +1087,12 @@ riches."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जिसने राज्य-वैभवके लिये अपने पुत्र और पतिको त्याग दिया, वह कुलकलङ्किनी कैकेयी दूसरे किसका त्याग नहीं करेगी? ॥ २२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She by whom both her son and her husband were forsaken for the sake of sovereignty (tyaktāv aiśvarya-kāraṇāt)—whom else would that family-disgracing Kaikeyī spare (kaṃ sā parihared anyam)?
 </details>
 </details>
 
@@ -1035,6 +1159,12 @@ are) living; *shapaamahe* = we swear even; *putrairapi* = even by our sons."
 "We swear even by our sons that while Kaikeyi is surviving and as long as we live,
 we will never inhabit this kingdom as Kaikeyi's servants!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Never while we live (jītu jīvantyaḥ) would we dwell as hirelings (bhṛtakā nivasemahi) in the kingdom of Kaikeyī while she lives (kaikeyyā ... jīvantyāḥ)—we swear even by our sons (putrair api śapāmahe)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1085,6 +1215,12 @@ happily; *praapya* = on having obtained; *taam* = her; *yaa* = who;
 "Who can live happily on having obtained (as one's ruler) that impious woman of
 wicked conduct, who banished the son of the king without any pity?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She who pitilessly banishes (pravāsayati nirghṛṇā) the son of the lord of kings—who, falling under that unrighteous woman of wicked conduct (adharmyāṃ duṣṭa-cāriṇīm), could live in happiness (sukhaṃ jīvet)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1134,6 +1270,12 @@ fault."
 "The whole of this kingdom, without any leader, having no support and visited by
 calamities, will meet with ruin because of Kaikeyi's fault."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Oppressed by calamity is all this realm (upadrutam idaṃ sarvam), bereft of support and without a leader (anālambam anāyakam); for on Kaikeyī’s account (kaikeyyā hi kṛte), everything will go to destruction (vināśam upayāsyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1179,6 +1321,12 @@ After the death; *dasharathe* = of Dasaratha; *vilaapaH* = utter moaning sounds;
 
 "For, Rama having gone into exile, the monarch will not survive and when Dasaratha
 is dead, utter regrets will remain thereafter. It is certain!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For when Rāma has gone forth into exile (pravrajite rāme), the lord of the earth will not survive (na hi ... jīviṣyati mahī-patiḥ); and when Daśaratha has died, utter ruin (vilāpaḥ / vilopaḥ) will manifestly follow immediately thereafter (tad-anantaram).
 </details>
 </details>
 
@@ -1228,6 +1376,12 @@ vaa* = or follow; *raamam* = Rama (to the forest); *gachchhati* = or reach;
 marked out by ill fortune. Otherwise, follow Rama to forest or reach a place where even the name of
 Kaikeyi may not reach your ears."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having your merit exhausted and fallen into dire misery (kṣīṇa-puṇyāḥ su-durgatāḥ), stir up poison and drink it (te viṣaṃ pibatāloḍya), or follow after Rāghava (rāghavaṃ vānugacchadhvam), or else go to a land beyond hearing (aśrutiṃ vāpi gacchata)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1274,6 +1428,12 @@ Bharata; *sounike yathaa* = like to a slaughterer; *pashavaH* = the beasts."
 "Rama has been sent to exile along with Sita and Lakshmana deceitfully. We have been
 handed over now to Bharata, like the beasts in the hands of a slaughterer."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deceitfully banished (mithyā-pravrājitaḥ) is Rāma together with Sītā and Lakṣmaṇa; and we have been handed over to Bharata like cattle to a butcher (bharate sannisṛṣṭāḥ smaḥ saunike paśavo yathā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1302,6 +1462,14 @@ handed over now to Bharata, like the beasts in the hands of a slaughterer."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मणन अण्ण श्रीरामन मुखवु पूर्णचन्द्रनन्तॆ मनोहरवागिदॆ. अवन कान्ति श्यामलवागिद्दु, पुष्टवागिरुव हॆगलु उळ्ळवनू, आजानुबाहुवू, नेत्रगळु कमलदन्तॆ सुन्दरवागिवॆ. यारन्नादरू अवरिगिन्त मॊदले मातनाडिसुववनु, मधुर मत्तु सत्यवागि नुडियुववनागिद्दानॆ. श्रीरामनु शत्रुगळन्नु दमन माडुव महाबलवन्तनागिद्दानॆ. समस्त जगत्तिगॆ सौम्य(कोमल)स्वभावदवनागिद्दु, अवन दर्शन चन्द्रनन्तॆ आह्लादकरवागिदॆ.॥29-30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** With a face like the full moon (pūrṇa-candrānanaḥ), dark-hued (śyāmaḥ), with well-concealed collarbones (gūḍha-jatruḥ), tamer of foes, with arms reaching to his knees (ājānu-bāhuḥ) and lotus-eyed (padmākṣaḥ), is Rāma, the elder brother of Lakṣmaṇa.
+
+**30:** He who ever speaks first in greeting (pūrvābhibhāṣī), sweet of speech (madhuraḥ), truthful in word (satya-vādī), of mighty strength, gentle unto all the world (saumyaḥ sarvasya lokasya), and lovely to behold like the moon (candravat priya-darśanaḥ)—
 </details>
 </details>
 
@@ -1359,6 +1527,12 @@ is benevolent to all, delightfully charming as the moon, that tiger among men, a
 elephant in rut, that great car-warrior, will surely adorn the woods, while roaming through
 them.."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—surely that tiger among men (puruṣa-śārdūlaḥ), possessing the stride of a rutting elephant (matta-mātaṅga-vikramaḥ), that great chariot-warrior, will grace the forests as he roams through them (śobhayiṣyaty araṇyāni vicaran)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1398,6 +1572,12 @@ that manner; *chukrushuH* = cried; *bhayaagame iva* = as though fear has cropped
 
 Those wives of citizens in the city of Ayodhya, lamenting as aforesaid, began
 weeping, as though fear has cropped up for a forth-coming death.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting thus in the city, those wives of the citizens (nāgara-striyaḥ), tormented with sorrow (duḥkha-santaptāḥ), cried aloud as though at the approach of the terror of Death (mṛtyor iva bhayāgame).
 </details>
 </details>
 
@@ -1444,6 +1624,12 @@ below the horizon; *rajaniicha* = and the night; *abhyavartata* = fell;
 
 The sun sank below the horizon and the night fell, while the women in the houses
 were weeping in that manner about Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the women were thus lamenting for Rāghava in their mansions (vilapantīnāṃ strīṇāṃ veśmasu rāghavam), the sun went down to his setting (jagāmāstaṃ dina-karaḥ) and the night drew on (rajanī cābhyavartata).
 </details>
 </details>
 
@@ -1493,6 +1679,12 @@ The city of Ayodhya, in which the kindling of fires had ceased and the chanting 
 Vedas and narration of sacred stories died out, looked as though it was coated with darkness at
 that time.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With the heat of its sacrificial fires extinguished (naṣṭa-jvalana-santāpā) and Vedic study and sacred discourse hushed (praśāntādhyāya-sat-kathā), that city then looked as though smeared all over with darkness (timireṇābhilipteva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1534,6 +1726,12 @@ in which the stars had disappeared.
 The city of Ayodhya, in which the business of the trading class had come to a
 stand-still, in which joy had been faded out, which had become (now) support less, looked dim as
 though stars had disappeared in the sky.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With the wares of its merchants stilled (upaśānta-vaṇik-paṇyā), its joy destroyed (naṣṭa-harṣā), and bereft of its refuge (nirāśrayā), the city of Ayodhyā became like the sky when its stars have vanished (naṣṭa-tāram ivāmbaram).
 </details>
 </details>
 
@@ -1595,6 +1793,12 @@ miserably; *vilapya* = lamented; *ruruduH* = (and) wept. taasaam = To them;
 The women whose minds became sick on account of Rama, as one would feel on one's own
 son or brother having been sent into exile, cried miserably expressing their grief in various ways.
 To them, Rama was dearer than their very sons!
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, anguished on Rāma’s account (rāma-nimittam āturāḥ) as though their own son or brother had been banished (yathā sute bhrātari vā vivāsite), the wretched women, beside themselves, lamented and wept; for unto them he was dearer even than their own sons (sutair hi tāsām adhiko hi so 'bhavat).
 </details>
 </details>
 
@@ -1660,6 +1864,12 @@ looked at that time like a grat ocean whose waters had dried up.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तॆण्टनॆय सर्ग पूर्णवायितु.॥48॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With song, festivity, dance, and instrumental music stilled (praśānta-gītotsava-nṛtta-vādanā), its joy cast away (vyapāsta-harṣā), and the display of its shops shuttered (pihitāpaṇodayā), that city of Ayodhyā then became like the great ocean when its waters have been drained dry (mahārṇavaḥ saṅkṣapitodako yathā).
 </details>
 </details>
 

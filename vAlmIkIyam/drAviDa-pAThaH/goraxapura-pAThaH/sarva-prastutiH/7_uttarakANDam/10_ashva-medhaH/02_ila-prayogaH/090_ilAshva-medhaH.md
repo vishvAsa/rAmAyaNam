@@ -37,6 +37,12 @@ _________________
 
 श्रीरामचन्द्रनु पुरूरवन जन्मद अद्भुत कथॆ हेळिदाग लक्ष्मण मत्तु महायशस्वी भरतनु पुनः केळिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma had thus recounted that wondrous birth of his (tathoktavati rāme tu tasya janma tad adbhutam), Lakṣmaṇa and the greatly renowned Bharata spoke once again (uvāca lakṣmaṇo bhūyo bharataś ca mahāyaśāḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरश्रेष्ठने ! सोमपुत्र बुधन बळि ऒन्दु वर्ष वासिसिद बळिक इलनु एनु माडिदनु? इदन्नु तिळिसलु कृपॆ माडिरि.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having dwelt a full year with the son of Soma (ilā sā somaputrasya saṃvatsaram athoṣitā), what did Ilā then do, O foremost of men (akarot kiṃ nara-śreṣṭha)? Be pleased to tell us the truth (tattvaṃ śaṃsitum arhasi)!”
 </details>
 </details>
 
@@ -87,6 +99,12 @@ _________________
 
 सहोदररु मधुरवाणियिन्द हेळिदुदन्नु केळि श्रीरामनु प्रजापति पुत्र इलन विषयदल्लि मत्तॆ मुन्दिन कथॆ प्रारम्भिसिदनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the sweet words of those two questioning brothers (tayos tad vākya-mādhuryaṃ niśamya paripṛcchatoḥ), Rāma resumed this narrative (rāmaḥ punar uvācemām ... kathām) concerning the son of the Prajāpati (prajāpati-sute):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +129,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शूरवीररे ! इलनु ऒन्दु तिङ्गळिगागि पुरुषभाव पडॆदाग परम बुद्धिवन्त महायशस्वी बुधनु परमोदार महात्मा संवर्तकनन्नु करॆसिदनु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When that hero had returned to manhood (puruṣatvaṃ gate śūre), the supremely wise and renowned Budha (budhaḥ parama-buddhimān ... mahāyaśāḥ) summoned the supremely noble sage Saṃvarta (saṃvartaṃ paramodāram ājuhāva),
 </details>
 </details>
 
@@ -137,6 +161,12 @@ _________________
 
 भृगुपुत्र च्यवनमुनि, अरिष्टनेम, प्रमोदन, मोदकर मत्तु दुर्वास मुनियन्नु आमन्त्रिसिदनु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“and Cyavana, son of Bhṛgu (cyavanaṃ bhṛgu-putraṃ ca), and the sage Ariṣṭanemi (muniṃ cāriṣṭaneminam), Pramodana, Modakara (pramodanaṃ modakaram), and then the sage Durvāsas (tato durvāsasaṃ munim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -161,6 +191,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवरॆल्लरन्नु करॆसि वाक्यविशारदनाद तत्त्वदर्शि बुधनु, धैर्यदिन्द एकाग्रचित्तराद आ ऎल्ल सुहृदरल्लि हेळिदनु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having brought all these together (etān sarvān samānīya), that master of speech and seer of truth (vākyajñas tattva-darśanaḥ) addressed all those dear friends, steadfast in composure (sarvān suhṛdo dhairyeṇa susamāhitān):
 </details>
 </details>
 
@@ -187,6 +223,12 @@ _________________
 
 ई महाबाहु राजा इलनु प्रजापति कर्दमर पुत्रनागिद्दानॆ. इवन स्थितियन्नु नीवॆल्ल तिळिदे इरुविरि. आद्दरिन्द इवन श्रेयस्सागुव यावुदादरू उपाय माडिरि.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘This mighty-armed king is Ila, the son of Kardama (ayaṃ rājā mahābāhuḥ kardamasya ilaḥ sutaḥ); know him as he truly is (jānītainaṃ yathā-bhūtam), and let what is best be ordained for him here (śreyo hy atra vidhīyatām)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,6 +251,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वे सब इस प्रकार बातचीत कर ही रहे थे कि महात्मा द्विजोंके साथ महातेजस्वी प्रजापति कर्दम भी उस आश्रमपर आ पहुँचे ॥ ८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While they were still conversing together (teṣāṃ saṃvadatām eva), the greatly resplendent Kardama himself arrived at that hermitage (tam āśramam upāgamat kardamas tu mahātejāḥ) accompanied by great-souled brahmins (dvijaiḥ saha mahātmabhiḥ):
 </details>
 </details>
 
@@ -243,6 +291,12 @@ _________________
 
 इवरॆल्लरू हीगॆ मातुकतॆयाडुत्तिरुवागले महात्मा द्विजरॊन्दिगॆ महातेजस्वी प्रजापति कर्दमरू आ आश्रमक्कॆ बन्दरु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Pulastya and Kratu, and Vaṣaṭkāra as well (pulastyaś ca kratuś caiva vaṣaṭkāras tathaiva ca), together with the greatly resplendent Oṅkāra (oṅkāraś ca mahātejāḥ), arrived at that hermitage (tam āśramam upāgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -271,6 +325,12 @@ _________________
 
 परस्पर भेटियागि ऎल्ल महर्षिगळु सन्तोषचित्तरागि बाह्लिकदेशद ऒडॆय राजा इलन हितवन्नु बयसुत्ता बेरॆ- बेरॆ रीतिय अभिप्राय व्यक्तपडिसिदरु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All of them, rejoicing in heart at meeting one another (hṛṣṭa-manasaḥ paraspara-samāgame), and desiring the welfare of the lord of Bāhli (hitaiṣiṇo bālhi-pateḥ), then uttered diverse counsels (pṛthag vākyāny athābruvan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -296,6 +356,12 @@ _________________
 
 आग कर्दमरु पुत्रन कुरितु अत्यन्त हितकर मातन्नु हेळिदरु - ब्राह्मणरे! ई राजनिगॆ श्रेयस्करवाद नन्न मातन्नु केळिरि.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then Kardama spoke words of supreme benefit for his son’s sake (sutārthaṃ paramaṃ hitam): ‘Listen, O twice-born ones, to my word (dvijāḥ śṛṇuta mad-vākyam) regarding what is truly auspicious for this king (yac chreyaḥ pārthivasya hi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -320,6 +386,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई रोगद औषधि माडबल्लवनु भगवान् शङ्करनल्लदॆ बेरॆ यारन्नु नानु नोडुवुदिल्ल हागू महात्मा महादेवनिगॆ प्रियवाद अश्वमेध यज्ञक्किन्त मिगिलाद याव यज्ञवू इल्ल.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I see no other remedy save the Bull-Bannered Lord (nānyaṃ paśyāmi bhaiṣajyam antarā vṛṣabha-dhvajam); no sacrifice is higher than the Aśvamedha (nāśvamedhāt paro yajñaḥ), and it is most dear to that Great-Souled One (priyaś caiva mahātmanaḥ); therefore let us all perform that hard-to-attain rite for the king’s sake (tasmād yajāmahe sarve pārthivārthe durāsadam)!’
 </details>
 </details>
 
@@ -348,6 +420,12 @@ _________________
 
 आद्दरिन्द नावॆल्लरू राजा इलन हितक्कागि आ दुष्कर यज्ञानुष्ठान माडुवा. कर्दमरु हीगॆ हेळिदाग ऎल्ल श्रेष्ठ ब्राह्मणरु भगवान् रुद्रन आराधनॆगागि आ यज्ञद अनुष्ठानवे ऒळ्ळॆयदॆन्दु तिळिदरु.॥13½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus addressed by Kardama (kardamenaivam uktās tu), all those bulls among the twice-born (sarva eva dvijarṣabhāḥ) heartily approved that sacrifice (rocayanti sma taṃ yajñam) for the propitiation of Rudra (rudrasyārādhanaṃ prati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -372,6 +450,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 संवर्तकन शिष्य हागू शत्रुनगरवन्नु जयिसुव सुप्रसिद्ध राजर्षि मरुत्तनु आ यज्ञद आयोजन माडिदनु.॥14½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the royal disciple of Saṃvarta, conqueror of hostile cities (saṃvartasya tu rājarṣeḥ śiṣyaḥ pura-purañjayaḥ), famed by the name of Marutta (marutta iti vikhyātaḥ), furnished all requisites for that sacrifice (taṃ yajñaṃ samupāharat).
 </details>
 </details>
 
@@ -398,6 +482,12 @@ _________________
 
 मत्तॆ बुधन आश्रमद बळियल्ले आ महायज्ञवु नॆरवेरितु. अदरिन्द महायशस्वी रुद्रदेवरिगॆ बहळ सन्तोषवायितु.॥15½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon a mighty sacrifice took place (tato yajño mahān āsīt) near the hermitage of Budha (budhāśrama-samīpataḥ), and the greatly renowned Rudra attained supreme gratification (rudraś ca paramaṃ toṣam ājagāma mahāyaśāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -422,6 +512,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यज्ञ समाप्तवादाग परमानन्द परिपूर्णचित्तनाद भगवान् उमापतियु इलन बळियल्ले आ ऎल्ल ब्राह्मणरल्लि हेळिदनु.॥16½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, when the sacrifice was concluded (atha yajñe samāpte tu), the lord of Umā, delighted with transcendent joy (prītaḥ paramayā mudā umāpatiḥ), addressed all the twice-born sages in the presence of Ila (dvijān sarvān uvāca ila-sannidhau):
 </details>
 </details>
 
@@ -451,6 +547,12 @@ _________________
 
 द्विजश्रेष्ठरे! नानु निम्म भक्तियिन्द मत्तु अश्वमेध यज्ञानुष्ठानदिन्द बहळ प्रसन्ननागिद्देनॆ. नानु बाह्लिक नरेश इलन याव शुभ-प्रिय कार्य माडलि हेळिरि.॥17½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I am well pleased by this horse sacrifice and by your devotion (prīto ’smi hayamedhena bhaktyā ca), O foremost of brahmins (dvija-sattamāḥ); what dear and auspicious favor shall I do for this lord of Bāhli (asya bāhli-pateś caiva kiṃ karomi priyaṃ śubham)?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -476,6 +578,12 @@ _________________
 
 देवेश्वर शिवनु हीगॆ हेळिदाग आ ऎल्ल ब्राह्मणरु एकाग्रचित्तरागि, आ देवाधिदेवनन्नु नारी इला सदाकाल पुरुष इलनागुवन्तॆ माडबेकॆन्दु प्रार्थिसिदरु.॥18½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While the lord of the gods was speaking thus (tathā vadati deveśe), those deeply composed twice-born sages (dvijās te susamāhitāḥ) propitiated the lord of the gods (prasādayanti deveśam) so that Ilā might become a man (yathā syāt puruṣas tv ilā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -500,6 +608,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग प्रसन्ननाद महातेजस्वी महादेवनु इलनिगॆ सदा पुरुषत्व प्रदान माडिदनु हागू हीगॆ माडि अवनु अन्तर्धाननादनु.॥19½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon the delighted Mahādeva of surpassing splendor (tataḥ prīto mahādevaḥ ... sumahātejāḥ) bestowed manhood once more upon Ilā (puruṣatvaṃ dadau punaḥ ilāyai), and having granted it, vanished from sight (dattvā cāntaradhīyata).
 </details>
 </details>
 
@@ -529,6 +643,12 @@ _________________
 
 अश्वमेध यज्ञ समाप्तवादाग महादेवनु दर्शन कॊट्टु अदृश्यनादनु. आग आ ऎल्ल दीर्घदर्शि ब्राह्मणरु तम्म-तम्म स्थानगळिगॆ तॆरळिदरु.॥20½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When the horse sacrifice was completed (nivṛtte hayamedhe ca) and Hara had passed out of sight (gataś cādarśanaṃ haraḥ), all those far-seeing brahmins departed the way they had come (yathāgataṃ dvijāḥ sarve hy agacchan dīrgha-darśinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -557,6 +677,12 @@ _________________
 राजा इलनु बाह्लिक देशवन्नु बिट्टु गङ्गा-यमुना सङ्गमद हत्तिर, मध्यदेशदल्लि ऒन्दु परमोत्तम यशस्वी प्रतिष्ठानपुरवन्नु नॆलॆगॊळिसिदनु.॥21½॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then the king, relinquishing Bāhli (rājā tu bāhlim utsṛjya), founded in the Middle Country (madhyadeśe ... niveśayām āsa) the peerless, fame-bringing city of Pratiṣṭhāna (puraṃ pratiṣṭhānaṃ yaśaskaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -581,6 +707,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शत्रुनगर विजयी राजर्षि शशबिन्दुवु बाह्लिक देशद राज्यवन्नु स्वीकरिसिदनु मत्तु प्रजापति कर्दम पुत्र बलवन्त राजा इलनु प्रतिष्ठानपुरद शासकनादनु.॥22½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The royal sage Śaśabindu, conqueror of cities, ruled Bāhli (śaśabinduś ca rājarṣir bāhliṃ pura-purañjayaḥ), while the mighty King Ila, son of the Prajāpati, ruled in Pratiṣṭhāna (pratiṣṭhāne ilo rājā prajāpati-suto balī).
 </details>
 </details>
 
@@ -609,6 +741,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 समय बन्दाग राजा इलवु शरीर त्यजिसि परमोत्तम ब्रह्मलोकवन्नु हॊन्दिदनु. इलाळ पुत्र राजा पुरूरवनु प्रतिष्ठान पुरद राज्यवन्नु पडॆदुकॊण्डनु.॥23½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In due time that King Ila attained the unsurpassed world of Brahmā (sa kāle prāptavāṃl lokam ilo brāhmam anuttamam), and King Purūravas, son of Ilā (ailaḥ purūravā rājā), inherited Pratiṣṭhāna (pratiṣṭhānam avāptavān).
 </details>
 </details>
 
@@ -640,5 +778,11 @@ _________________
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये उत्तरकाण्डे नवतितमः सर्गः ॥ ९० ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके उत्तरकाण्डमें नब्बेवाँ सर्ग पूरा हुआ ॥ ९० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Such indeed is the potency of the Aśvamedha, O bulls among men (īdṛśo hy aśvamedhasya prabhāvaḥ puruṣarṣabhau)! Though turned into a woman, he regained manhood (strī-bhūtaḥ pauruṣaṃ lebhe), as well as whatever else is hard to attain (yac cānyad api durlabham).”
 </details>
 </details>

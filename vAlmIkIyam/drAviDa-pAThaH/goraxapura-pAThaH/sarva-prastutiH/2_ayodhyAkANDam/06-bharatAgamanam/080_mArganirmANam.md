@@ -91,6 +91,16 @@ excavators, mechanics, labourers, carpenters, road-menders, wood-cutters, hollow
 skilled in plastering and white washing, basket makers, tanners and skilled supervisors of work
 sallied forth in advance.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then men who knew the nature of the terrain and were skilled in surveying with the measuring-cord (atha bhūmi-pradeśa-jñāḥ sūtra-karma-viśāradāḥ), bold and devoted to their respective tasks, along with diggers and operators of mechanical contrivances (sva-karmābhiratāḥ śūrāḥ khanakā yantrakās tathā);
+
+**2:** hired laborers, master-architects, and men skilled in engines (karmāntikāḥ sthapatayaḥ puruṣā yantra-kovidāḥ), as well as carpenters, road-levelers, and tree-hewers (tathā vārdhakayaś caiva mārgiṇo vṛkṣa-takṣakāḥ);
+
+**3:** well-makers, lime-plasterers, and workers in bamboo-craft (kūpa-kārāḥ sudhā-kārā vaṃśa-karma-kṛtas tathā), together with capable overseers and route-inspectors, set forth in advance (samarthā ye ca draṣṭāraḥ puratas te pratasthire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -137,6 +147,12 @@ moon.
 
 That mighty assembly of men gladly setting out to that forest was splendid like an
 ocean on the day of the full moon having a gigantic commotion.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proceeding with joy toward that region (sa tu harṣāt tam uddeśaṃ prayān), that vast multitude of people of mighty impetus shone like the ocean at the full-moon tide (janaugho vipulaḥ aśobhata mahā-vegaḥ samudra iva parvaṇi).
 </details>
 </details>
 
@@ -187,6 +203,12 @@ kind; *samaasthaaya* = seeking the company; *svavaaram* = of their own proper pl
 Men skilled in making roads, furnished with tools of every kin, seeking the company
 of men of their own proper place, marched ahead.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stationing themselves in their respective companies, those men skilled in road-making (te sva-vāraṃ samāsthāya vartma-karmaṇi kovidāḥ) marched ahead equipped with implements of every kind (karaṇair vividhopetaiḥ purastāt sampratasthire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -235,6 +257,12 @@ creepers; *gulmaamshcha* = and shrubs; *sthaaNuun* = timber; *ashmana evacha*
 Clearing away rows of creepers and shrubs timber and big rocks as well as variours
 kinds of trees (which obstructed the way), they carved out a path.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clearing away creepers, trailing vines, thickets, tree-stumps, and boulders (latā-vallīś ca gulmāṃś ca sthāṇūn aśmana eva ca), and felling diverse trees, they constructed the highway (janāyāṃcakrire mārgaṃ chindanto vividhān drumān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,6 +309,12 @@ hatchests; *daatraiH cha* = and sickles.
 
 Some men planted trees in tree-less areas. Some others chopped the existing trees
 here and there by means of axes, hatchets and sickles.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In treeless tracts some planted trees (avṛkṣeṣu ca deśeṣu kecid vṛkṣān aropayan), while elsewhere others hewed away with axes, stone-chisels, and sickles (kecit kuṭhāraiṣ ṭaṅkaiś ca dātraiś chindan kvacit kvacit).
 </details>
 </details>
 
@@ -350,6 +384,14 @@ around.
 Some others filled up wells and extensive pits with earth. Some men leveled
 low-lying places all around.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Other strong and still mightier men (apare balino balavattarāḥ) uprooted clumps of vīraṇa grass and leveled rugged and uneven mounds here and there (vīraṇa-stambhān vidhamanti sma durgāṇi sthalāni ca tatas tataḥ).
+
+**9:** Others filled up dry pits and wide chasms with earth (apare 'pūrayan kūpān pāṃsubhiḥ śvabhram āyatam), and some made the low-lying depressions level on every side (nimna-bhāgāṃs tataḥ kecit samāṃś cakruḥ samantataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -400,6 +442,12 @@ Then, some men bridged the steams that could be bridged, pulverised the rocks th
 could be pulverised and smashed (the impediments that blocked the flow of water) those which could
 be smashed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those men bridged the streams that required bridging (babandhur bandhanīyāṃś ca), pulverized the rocky ground that needed crushing (kṣodyān saṃcukṣudus tadā), and breached the obstructed tracts that needed draining (bibhidur bhedanīyāṃś ca tāṃs tān deśān narās tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -446,6 +494,12 @@ shape; *bahuudakaan* = with plenty of water; *saagara pratimaan* = resembling a 
 Many ponds, in various sizes and shapes containing plenty of water resembling seas
 were built (by constructing dams on rivulets).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In a very short time they formed many deep-watered reservoirs of diverse shapes, resembling the ocean (acireṇaiva kālena parivāhān bahūdakān cakrur bahu-vidhākārān sāgara-pratimān bahūn).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -485,6 +539,12 @@ platforms.
 
 In water-scarce areas, excellent wells in various shapes were dug duly decorated all
 around with platforms (to rest).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And in waterless tracts they caused excellent wells of manifold designs to be excavated, encircled with raised platforms (nirjaleṣu ca deśeṣu khānayām āsur uttamān udapānān bahu-vidhān vedikā-parimaṇḍitān).
 </details>
 </details>
 
@@ -544,6 +604,14 @@ trees inlaid with cement, with flowering trees on both sides, inhabited with bir
 making their sounds, adorned with flags on its either side with its surface sprinkled with water of
 sandal-wood fragrance, and decorated with various kinds of flowers, looked very much splendid like
 the path of celestials.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** With its surface paved with white stucco and lined with blossoming trees (sasudhā-kuṭṭima-talaḥ prapuṣpita-mahī-ruhaḥ), resounding with flocks of intoxicated birds and decked with banners (mattodghuṣṭa-dvija-gaṇaḥ patākābhir alaṅkṛtaḥ),
+
+**14:** sprinkled with sandal-water and adorned with manifold flowers (candanodaka-saṃsikto nānā-kusuma-bhūṣitaḥ), the highway of the army shone wondrously, resembling the path of the gods (bahv aśobhata senāyāḥ panthāḥ sura-pathopamaḥ).
 </details>
 </details>
 
@@ -609,6 +677,14 @@ skillfully instructed their work-men and erected a tent which was intended for t
 Bharata, in a beautiful place abundant with tasty fruits. They further adorned profusely with
 decorations, the tent which itself resembled on ornament.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** Then, having issued orders in accordance with the prince’s command, those appointed officers, intent upon their duty (ājñāpyātha yathā-jñapti yuktās te 'dhikṛtā narāḥ), in delightful regions abounding in sweet fruits (ramaṇīyeṣu deśeṣu bahu-svādu-phaleṣu ca),
+
+**16:** adorned still further with rich decorations that encampment which had been approved for magnanimous Bharata, itself resembling an ornament upon the earth (yo niveśas tv abhipreto bharatasya mahātmanaḥ bhūyas taṃ śobhayām āsur bhūṣābhir bhūṣaṇopamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -654,6 +730,12 @@ and moments.
 
 The connoisseurs erected the tents of the high-souled Bharata at auspicious hours in
 days when the stars were propitious.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Under auspicious lunar mansions and at favorable hours (nakṣatreṣu praśasteṣu muhūrteṣu ca), men versed in architectural science established the halting-camps of magnanimous Bharata (tad-vidaḥ niveśān sthāpayām āsur bharatasya mahātmanaḥ).
 </details>
 </details>
 
@@ -721,6 +803,16 @@ as resplendent as sapphires, their crowns of terrets, the ramparts covered with 
 then, the splendid banners, the skillfully laidout avenues, lofty mansions the tops of which were
 provided with dove-cots, which flew about as it were in the air and in splendour, resembled the
 capitals of Indra.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** Furnished with high mounds of fine sand and encircled by moats (bahu-pāṃsu-cayāś cāpi parikhā-parivāritāḥ), resembling Mount Indrakīla there and graced with splendid avenues (tatrendrakīla-pratimāḥ pratolī-vara-śobhitāḥ),
+
+**19:** overspread with rows of palaces and enclosed by whitewashed ramparts (prāsāda-mālā-vitatāḥ saudha-prākāra-saṃvṛtāḥ), all of them bright with banners and provided with well-laid highways (patākā-śobhitāḥ sarve sunirmita-mahā-pathāḥ),
+
+**20:** with lofty seven-storied pavilions crowned with dovecotes that seemed to glide through the sky (visarpadbhir ivākāśe viṭaṅkāgra-vimānakaiḥ samucchritaiḥ), those encampments shone like the city of Śakra (niveśās te babhuḥ śakra-puropamāḥ).
 </details>
 </details>
 
@@ -808,6 +900,14 @@ stars.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तनॆय सर्ग पूर्णवायितु.॥80॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Reaching all the way to the sacred Jāhnavī (Gaṅgā), bordered by forests of diverse trees (jāhnavīṃ tu samāsādya vividha-druma-kānanām), with cool and crystal-clear waters teeming with great fish (śītalāmala-pānīyāṃ mahā-mīna-samākulām),
+
+**22:** just as the cloudless sky at night shines adorned with the moon and clusters of stars (sacandra-tārā-gaṇa-maṇḍitaṃ yathā nabhaḥ kṣapāyām amalaṃ virājate), even so shone that lovely royal highway, fashioned stage by stage by skilled artisans (narendra-mārgaḥ sa tathā vyarājata krameṇa ramyaḥ śubha-śilpi-nirmitaḥ).
 </details>
 </details>
 

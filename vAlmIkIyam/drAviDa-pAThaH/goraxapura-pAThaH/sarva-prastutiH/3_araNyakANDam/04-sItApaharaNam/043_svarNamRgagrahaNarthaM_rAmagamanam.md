@@ -84,6 +84,14 @@ is presently culling flowers is highly gladdened to observe the Golden Deer that
 flank with the colour of gold and the other is silvery, and she shouted for attention of her husband,
 and even that of Lakshmana who is presently weaponed. [3-43-1, 2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** While gathering blossoms (kusumāni vicinvatī), that fair-hipped lady (suśroṇī) beheld that [deer], graced with flanks of golden and silver hues (hema-rājata-varṇābhyāṃ pārśvābhyām)—
+
+**2:** And thrilled with joy (prahṛṣṭā), she of flawless limbs (anavadyāṅgī) and the complexion of burnished gold (mṛṣṭa-hāṭaka-varṇinī) called out (cakranda) to her husband and also to Lakṣmaṇa bearing his weapons (sāyudham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,6 +139,12 @@ way]; *aahuuya aahuuya* = calling, calling; *punaH tam mR^igam saadhu viikshate*
 "really come with your younger brother quickly," and again gazed at the deer, and thus she oftentimes
 called and oftentimes saw the deer fondly. [3-43-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Calling and calling out again (āhūyāhūya ca punaḥ), she gazed intently upon that deer: “Come, come quickly (āgacchāgaccha śīghraṃ vai), O noble lord (āryaputra), together with your younger brother (sahānuja)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -176,6 +190,12 @@ Golden Deer, they saw.
 
 Those manly lions Rama and Lakshmana thus bidden by Vaidehi came there exploring that place and then
 they saw that Golden Deer. [3-43-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoned by Vaidehī, those two tigers among men (nara-vyāghrau), Rāma and Lakṣmaṇa, scanning that region (vīkṣamāṇau tu taṃ deśam), then beheld the deer (dadṛśatur mṛgam).
 </details>
 </details>
 
@@ -223,6 +243,12 @@ deer; *tam raakSasam maariicam eva manye* = him, as Maareecha, demon, alone, I b
 But Lakshmana became incredulous on seeing it and said to Rama, "I believe this deer to be that Maareecha,
 the demon." [3-43-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Growing suspicious (śaṅkamānaḥ) upon seeing it, Lakṣmaṇa spoke these words: “I deem this deer (enaṃ mṛgam) to be none other than that very Rākṣasa Mārīca (mārīcaṃ rākṣasam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -268,6 +294,12 @@ resorting to] disguises; *nihataa* = are killed.
 
 "Oh, Rama, when kings engaged in hunting games were delightedly moving in the forest, this Maareecha
 killed many of them resorting to many disguises, for he is a guise-changer by his wish. [3-43-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While joyfully ranging the forest on the hunt (caranto mṛgayāṃ hṛṣṭāḥ), O Rāma, kings have been slain (nihatāḥ rājānaḥ) through wicked deceit (pāpenopādhinā) by this shape-shifter (kāma-rūpiṇā).”
 </details>
 </details>
 
@@ -321,6 +353,12 @@ can create to make-believe. [3-43-7]
 The 'Gandharva-city' is the name given to a make-believe formation of a city-like structure in skies
 by magicians, and presently the magicians world over are making the apparent structures to disappear,
 rather than constructing one which is un-manifest.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This radiant (bhānumat) deer-form, O tiger among men (puruṣa-vyāghra), resembling a phantom city of the Gandharvas (gandharva-pura-saṃnibham), has been conjured as an illusion (māyā) by this master of illusion (asya māyāvidaḥ).”
 </details>
 </details>
 
@@ -378,6 +416,12 @@ chose Maareecha for this particular purpose. Because Maareecha has that extraord
 and has a good record of wily accomplishments, Ravana chose him. Lakshmana has done his duty in presenting
 expedient data and it is up to Rama to analyse it. Rama argues on this point later in the chapter.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For no such jewel-dappled deer (mṛgo ratna-vicitraḥ) exists upon the earth (jagatyām), O Rāghava, lord of the earth (jagatī-nātha); this is surely an illusion (māyaiṣā), there is no doubt!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -424,6 +468,12 @@ who is speaking, Kakutstha Lakshmana; *prati vaarya* = in turn, on forestalling 
 
 While Lakshmana of Kakutstha-s is speaking thus, she who is self-satisfied as her heart is conjured
 by the cozenage, such a Seetha of a toothy smile deterred him and spoke. [3-43-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Interrupting (prativārya) Kākutstha [Lakṣmaṇa] as he spoke thus, the thrilled Sītā of pure smile (śuci-smitā), her mind captivated by that deception (chadmanā hṛta-cetanā), spoke [to Rāma]:
 </details>
 </details>
 
@@ -473,6 +523,12 @@ us, for playing, [a plaything,] it will become.
 
 "Oh, nobleman's son, that delightful deer is stealing my heart, oh, dextrous one, bring it round, it
 will be our plaything. [3-43-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O noble lord (āryaputra), this charming deer (abhirāmo 'sau mṛgaḥ) steals away my heart (harati me manaḥ); bring it here, O mighty-armed one (mahābāho)—it shall serve as a plaything for us (krīḍārthaṃ no bhaviṣyati)!”
 </details>
 </details>
 
@@ -579,6 +635,16 @@ mayaa na dR^iSTa puurvaH* = by me, not seen, earlier - so far.
 "As to how this extraordinary deer is appearing, oh, king, by way of its brilliance, tameness, or by
 the lustre of its skin, I have not so far seen any coequal to this. [3-43-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “Here in our hermitage precinct (ihāśrama-pade 'smākam), many deer of auspicious aspect (puṇya-darśanāḥ) roam in herds (caranti sahitāḥ), as do camara and sṛmara deer—”
+
+**12:** “And bears (ṛkṣāḥ), herds of spotted antelopes (pṛṣata-saṅghāḥ), monkeys, and kinnara deer, foremost in beauty (rūpa-śreṣṭhāḥ) and of great strength, roam about, O mighty-armed one—”
+
+**13:** “Nor, O king, has any other deer like this best of deer (mṛga-sattamaḥ) ever been seen by me before (dṛṣṭaḥ pūrvaṃ mṛgo mayā)—in vigour (tejasā), gentleness (kṣamayā), and radiance (dīptyā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -626,6 +692,12 @@ the lustre of its skin, I have not so far seen any coequal to this. [3-43-13]
 that is completely gemmy, and while nonchalantly moving before me it is enlivening the forest like the
 moon. [3-43-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With limbs variegated in manifold hues (nānā-varṇa-vicitrāṅgaḥ), appearing like a living jewel (ratna-bhūtaḥ) before me, illuminating the entire forest (dyotayan vanam avyagram), it shines like the moon (śaśi-saṃnibhaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -672,6 +744,12 @@ as it were.
 "Ah, what a form, ah, what a brilliance, what a beautiful bleat! This amazingly limbed deer is wonderful,
 and this is stealing my heart, as it were. [3-43-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Oh, what form! Oh, what lustre (aho rūpam aho lakṣmīḥ)! And what lovely richness of voice (svara-sampac ca śobhanā)! This wondrous deer of variegated limbs (mṛgo 'dbhuto vicitrāṅgaḥ) steals away my heart, as it were!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -717,6 +795,12 @@ it will be; *vismayam janayiSyati* = astonishment, creates.
 "It will be surprising if this deer draws into your capture alive and well, as it creates astonishment
 to one and all. [3-43-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If this deer comes into your capture alive (yadi grahaṇam abhyeti jīvann eva), it will be a marvel (āścarya-bhūtaṃ bhavati) and will awaken wonder (vismayaṃ janayiṣyati)—”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -759,6 +843,12 @@ sake of - as a masterpiece; *bhaviSyati* = it becomes.
 
 "When we return to kingdom on completing our dwelling in forest this deer becomes a masterpiece in palace-chambers
 for us. [3-43-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And when we have completed our forest exile (samāpta-vanavāsānām) and are restored to the kingdom (rājya-sthānāṃ ca naḥ punaḥ), this deer shall serve as an ornament in the royal women's quarters (antaḥpure vibhūṣārthaḥ).”
 </details>
 </details>
 
@@ -805,6 +895,12 @@ creates.
 
 "Oh, lord, the form of this deer creates an excellent jubilation to Bharata, to you the son of the nobleman,
 to my mothers-in-law, and also to me in palace-chambers. [3-43-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O lord (prabho), this celestial deer-form (mṛga-rūpam idaṃ divyam) will awaken wonder in Bharata, in you, my noble lord (āryaputrasya), in my mothers-in-law (śvaśrūṇām), and in me!”
 </details>
 </details>
 
@@ -854,6 +950,12 @@ with us.
 
 "Else if that best deer does not come into you capture while alive, oh tigerly-man, at the least its
 gorgeous deerskin will be remnant of it. [3-43-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And if this best of deer (mṛga-sattamaḥ) does not come into your capture alive (jīvan na yadi te 'bhyeti grahaṇam), O tiger among men (nara-śārdūla), its lovely hide (ajinaṃ ruciram) will still remain!”
 </details>
 </details>
 
@@ -906,6 +1008,12 @@ in case the deer is felled. [3-43-20]
 The seat of those that are under a vow is called bR^isii, vratiinaam aasanam bR^isii, ajina, carma,
 kR^ittiH : amara kosha 'A seat covered with darbha, the sacred grass, [and if available] a deerskin
 thereon.'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Upon the golden hide (jāmbūnadamaya-tvaci) of this slain creature (nihatasyāsya sattvasya), spread out over a mat of tender grass (śaṣpa-bṛsyāṃ vinītāyām), I wish to sit (icchāmy aham upāsitum) [with you]!”
 </details>
 </details>
 
@@ -967,6 +1075,12 @@ a free living. Thus, when Seetha is trying to jump off the cordon of security la
 say that she is said to have smiled scornfully. *lakshmaNa vaakya shravaNa janita kopaa siitaa raamam
 eva aaha - dk* 'with the anger generated on listening Lakshmana's words, Seetha spoke to Rama,'
 Whether Seetha is with kopa 'anger' or not, it is unsaid in the text.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This willful conduct (kāma-vṛttam idam) is fierce (raudram) and deemed unbecoming of women (strīṇām asadṛśaṃ matam); yet by the form of this creature (vapuṣā tv asya sattvasya), wonder has been awakened in me!”
 </details>
 </details>
 
@@ -1082,6 +1196,16 @@ Bharata, sabhaa parva ; 'Rama, unable to distinguish illusory deer [went after i
 all his four brothers and his queen [in dice game...] thus even great people at inopportune times loose
 their brains,' an ancient saying.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** By that [deer] with golden hair (kāñcana-romṇā), with horns of choicest gems (maṇi-pravara-śṛṅgiṇā), bearing the hue of the rising sun (taruṇāditya-varṇena) and the lustre of the starry firmament (nakṣatra-patha-varcasā)—
+
+**23:** Even Rāghava's mind was filled with wonder (mano vismayam āgatam); having heard Sītā's words thus (iti sītā-vacaḥ śrutvā) and having beheld that wondrous deer (mṛgam adbhutam)—
+
+**24:** Allured by that form (lobhitas tena rūpeṇa) and urged on by Sītā (sītayā ca pracoditaḥ), the delighted Rāghava spoke these words to his brother Lakṣmaṇa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1106,6 +1230,12 @@ their brains,' an ancient saying.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मण! नोडल्लि विदेहनन्दिनी सीतॆय मनस्सिनल्लि ई मृगवन्नु पडॆयलु ऎष्टु प्रबल इच्छॆ उण्टागिदॆ? वास्तववागि इदर रूपवू बहळ सुन्दरवागिदॆ. तन्न रूपद ई श्रेष्ठतॆय कारणदिन्दले ई मृगवु इन्दु जीवितवागि इरलारदु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold, O Lakṣmaṇa, this eager longing (spṛhām ullasitām imām) of Vaidehī! Because of its pre-eminent beauty (rūpa-śreṣṭhatayā), this deer shall not survive today (mṛgo 'dya na bhaviṣyati)!”
 </details>
 </details>
 
@@ -1156,6 +1286,12 @@ with such an excellent form exists in this forest. Or else, does it exist in Nan
 - no, it cannot be there; in the adjoins of Caitraratha Gardens of Kubera - no, it will not be there,
 then how can there be some deer on earth which is similar to this! [3-43-25, 26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither in the forest region of Nandana (nandanoddeśe) nor in the resort of Caitraratha (caitraratha-saṃśraye)—how much less upon the earth (kutaḥ pṛthivyām), O Saumitri—is there any deer equal to this one!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1204,6 +1340,12 @@ lines; *mR^igam aashritya shobhante* = deer, abiding - embedded [on coat of deer
 "Amazing are its hairlines with hair upturned at some places and down-turned at other, and the golden
 spots embedded on the coat of the deer are glittery. [3-43-27]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Running both against and with the grain (pratilomānulomāś ca), lovely streaks of hair (rucirā roma-rājayaḥ), variegated with golden spots (citrāḥ kanaka-bindubhiḥ), shine upon the deer.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1251,6 +1393,12 @@ in hundred ways, which is flowing - lightning; *iva* = as with; *pashya* = you s
 "See at its tongue that is exserting from its mouth while it is yawning, which is similar to the flaring
 tongue of fire and to the lightning from a cloud. [3-43-28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold its blazing tongue (dīptāṃ jihvām), like a tongue of flame (agni-śikhopamām), darting forth from its mouth as it yawns (jṛmbhamāṇasya), like a flash of lightning from a cloud (meghād iva śatahradām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1297,6 +1445,12 @@ na lobhayet* = whose, in name, heart, not, lures.
 "Its face is like a mug made up of sapphires, its paunch is pearly and conchoidal, and whose heart is
 it that will not lured for this deer with an inexplicable beauty. [3-43-29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With a face like a goblet of sapphire (masāra-galvarka-mukhaḥ) and a belly gleaming like conch and pearl (śaṅkha-muktā-nibhodaraḥ), whose heart indeed would this indescribable deer (anirūpyo 'sau mṛgaḥ) not allure?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1341,6 +1495,12 @@ on seeing; *kasya manaH vismayam na vrajet* = whose, mind, into astonishment, no
 
 "On seeing at this astounding look of the deer which is golden in glitter and bejewelled numerously
 as it were, whose heart is it that will not be transported into astonishment. [3-43-30]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding this celestial form (rūpam idaṃ divyam), radiant like burnished gold (jāmbūnadamaya-prabham) and studded with manifold gems (nānā-ratnamayam), whose mind would not be struck with wonder?”
 </details>
 </details>
 
@@ -1387,6 +1547,12 @@ forests, in games of hunting; *maamsa hetoH api* = flesh, for the sake of, even;
 
 "Kings pursuing games of hunting in great forests, oh, Lakshmana, will be felling deer either for the
 sake of flesh, or just for the purpose of sporting archery. [3-43-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Both for the sake of flesh (māṃsa-hetoḥ) and for sport (vihārārthaṃ ca), O Lakṣmaṇa, bow-wielding kings (dhanvinaḥ rājānaḥ) slay deer on the hunt in the great forest.”
 </details>
 </details>
 
@@ -1439,6 +1605,12 @@ and the gravel of gold. [3-43-32]
 'And this deer is also the produce of this forest, as such hunting this for taming or tanning is befitting
 to us, as we are princes.' One should not 'exert oneself,' or 'amass' forest produce even if he is a
 king, but collect it casually without looting it.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through resolute enterprise (vyavasāyena), riches are gathered (dhanāni vicīyante) in the great forest, as well as manifold mineral ores (dhātavo vividhāḥ) abounding in gems, jewels, and gold (maṇi-ratna-suvarṇinaḥ).”
 </details>
 </details>
 
@@ -1509,6 +1681,12 @@ the coffers of the kings for maintenance of kingdom, and for other rich people i
 Hence, this deer, or its deerskin is *saaram* 'an excellent gift' to be taken to Ayodhya on our
 return.' Rama's saying is interpreted in this way giving a high priority to forest produce.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All that choice wealth (tat sāram akhilaṃ dhanam) swells the treasury of men (nṝṇāṃ nicaya-vardhanam), like everything conceived in thought by Śukra (manasā cintitaṃ sarvaṃ yathā śukrasya), O Lakṣmaṇa.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1567,6 +1745,12 @@ in reality, Rama is substantiating with this statement. This is called *apuurva 
 further insist 'even then you shall not go, it is a fanciful deer/demon,' for which Rama is saying 'getting
 the un-gettable itself is worthwhile.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That object (tam artham) in pursuit of which a seeker (arthī) sets forth without hesitation (saṃvrajaty avicārayan)—that alone do rich masters of statecraft (artha-śāstra-jñāḥ arthyāḥ) declare to be true wealth (artham), O noble Lakṣmaṇa!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1614,6 +1798,12 @@ me. [3-43-35]
 
 Rama is not primarily bothered to tame the Golden Deer by declaring about its skin and its usage at
 this juncture. This skin alone is the 'laudable wealth' 'worthwhile object' and a 'masterpiece.'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Upon the priceless golden hide (parārdhye kāñcana-tvaci) of this jewel among deer (etasya mṛga-ratnasya), the slender-waisted Vaidehī (sumadhyamā) shall sit together with me (upavekṣyati mayā saha)!”
 </details>
 </details>
 
@@ -1677,6 +1867,12 @@ aiNam ubhe triSu* Thus it conveys the meaning aiNeya, the best deer belonging to
 belonging to buck. Some take this praveNi as a separate breed whose dictionary meaning is completely
 different than that of deer.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither the hide of the kadalī deer, nor of the priyaka, nor a praveṇī rug, nor a fleece of sheep's wool (āvikī) could equal this [hide] in softness of touch (sparśe 'nena)—such is my conviction!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1738,6 +1934,12 @@ getting its skin is also that dreamy.' For this Rama explains his duty in his ne
 viz., killing the demon.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Both this glorious deer (eṣa caiva mṛgaḥ śrīmān) and that celestial one which courses through the sky (yaś ca divyo nabhaś-caraḥ)—both these two deer are divine (ubhāv etau mṛgau divyau): the starry deer [Mṛgaśīrṣa] and the earthly deer (tārā-mṛga-mahī-mṛgau)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1785,6 +1987,12 @@ in; ellipses : if this deer happens to be Maareecha, he is eliminable, from vers
 "You are telling me that 'this is the wizardry of the demon.' Even then, Lakshmana, if this results
 in that way as a demon's wizardry, my duty also results in the elimination of that deer. [3-43-38]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or even if this be just as you tell me (yadi vāyaṃ tathā yan māṃ bhaved vadasi), O Lakṣmaṇa—that ‘this is the illusion of a Rākṣasa (māyaiṣā rākṣasasya)’—its slaying must still be accomplished by me (kartavyo 'sya vadho mayā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1830,6 +2038,12 @@ sages, eminent, are tortured.
 
 "If this deer is Maareecha, this heinous and vicious-souled demon has indeed tortured many eminent sages
 earlier when was on the prowl in the forests, thus he is eliminable. [3-43-39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For by this cruel (nṛśaṃsena) and unchastened (akṛtātmanā) Mārīca, roaming through the forest in former times (vane vicaratā pūrvam), foremost sages were harmed (hiṃsitā muni-puṃgavāḥ).”
 </details>
 </details>
 
@@ -1884,6 +2098,12 @@ for that reason this bestial monster is eradicable. [3-43-40]
 
 The last word in second foot *mR^iga* is also identifiable with 'beast' thus a bestial monster.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rising up (utthāya), he has slain many great bow-wielding kings (nihatāḥ parameṣvāsāḥ janādhipāḥ) on the hunt (mṛgayāyām); therefore, this deer must be slain (tasmād vadhyas tv ayaṃ mṛgaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1936,6 +2156,12 @@ killing its own mother at its time of birth by ripping the womb of its own mothe
 The legend of Vaataapi is said in detail in chapter 11 of this Aranya Kanda when Rama and others were
 going to Agastya's hermitage.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In former times here [in Daṇḍakāraṇya] (purastād iha), Vātāpi, treating ascetics with contempt (paribhūya tapasvinaḥ), used to slay twice-born sages from within their bellies (udarastho dvijān hanti), even as her own foetus kills a she-mule (svagarbho 'śvatarīm iva).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1985,6 +2211,12 @@ agastyam* = great-saint Agastya; *aasasaada* = obtained; *tasya* = to him, to Ag
 "On one occasion after some time, that Vaataapi avariciously obtained that great-saint and the one who
 is endowed with effulgent, namely Agastya, as an eatable, but actually that demon has became an eatable
 to the sage. [3-43-42]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Once, after a long time, out of greed (cirāl lobhāt) he approached the great sage Agastya (āsasāda mahā-munim agastyam), endowed with fiery energy (tejasā yuktam), and became his food (bhakṣyas tasya babhūva ha).”
 </details>
 </details>
 
@@ -2037,6 +2269,12 @@ idam abraviit* = to Vaataapi, this, spoke.
 "On observing the demon Vaataapi who is trying to assume his original form of demon in order to come
 out of his stomach, that godly saint Agastya spoke this to Vaataapi with a scornful smile. [3-43-43]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the conclusion of the meal (samutthāne ca), perceiving him desirous of assuming his own [Rākṣasa] form (tad-rūpaṃ kartu-kāmam), the revered [Agastya] smiled (utsmayitvā) and spoke thus to Vātāpi:”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2083,6 +2321,12 @@ tasmaat jaraam gataH asi* = therefore, into digestion, gone, you are you are dig
 
 " 'Oh, Vaataapi, you have irreverently eradicated the best Brahmans in this world owing to your might,
 therefore I have assimilated you.' So said sage Agastya to Vaataapi. [3-43-44]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Disregarding [sin] (avigaṇya), O Vātāpi, by your power (tejasā) you have overwhelmed the foremost of the twice-born (paribhūtāḥ dvija-śreṣṭhāḥ) in the world of the living; therefore, you have now been digested (tasmād asi jarāṃ gataḥ)!’”
 </details>
 </details>
 
@@ -2135,6 +2379,12 @@ at [confronting, if he provokes]; *agastyena vaataapiH iva* = by Agastya, Vaataa
 "Lakshmana, such a demon who is like Vaataapi will not be there any more. He who disregards someone
 of my kind, who always abides in righteousness and who is self-controlled, such a demon will be eliminated
 as sage Agastya has eliminated demon Vaataapi, if that demon happens to get at me. [3-43-45, 46a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Just like Vātāpi, O Lakṣmaṇa, that Rākṣasa shall surely cease to exist (tad rakṣo na bhaved eva)—he who would dare transgress (yo 'timanyeta) one like me, ever steadfast in dharma (dharma-nityam) and master of his senses (jitendriyam)!”
 </details>
 </details>
 
@@ -2201,6 +2451,12 @@ the deer or its skin, duly eliminating that conjuring demon.' In such a case, th
 or prophesising will not occur to Rama, in saying 'Seetha as the pivotal character is to be kidnapped
 by Ravana' etc. In fact, Rama is the person who is more beguiled by the deer.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having encountered me (mā gataḥ), this one shall be slain just as Vātāpi was by Agastya (bhaved dhato 'yaṃ vātāpir agastyeneva); remain here in full armour (iha tvaṃ bhava saṃnaddhaḥ), and with undivided attention (yantritaḥ) guard Maithilī!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2246,6 +2502,12 @@ to fetch; *drutam* = forthwith; *yaavat gacChaami* = I will go.
 
 "I wish to catch this deer, Soumitri, if not I will kill it, and I will be going forthwith to fetch
 the deer. [3-43-47b, 48a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Upon her depends whatever duty is ours (asyām āyattam asmākaṃ yat kṛtyam), O delight of the Raghus (raghunandana); I shall either slay this deer or capture it (aham enaṃ vadhiṣyāmi grahīṣyāmy athavā mṛgam)!”
 </details>
 </details>
 
@@ -2293,6 +2555,12 @@ bhaviSyati* = this, deer, now, not, will be there - survives.
 
 "Lakshmana, see how Vaidehi's percept is overtaken by deerskin. Indeed by the strangeness of its skin
 that deer must be a mysterious being, hence, it will not survive now. [3-43-48]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Meanwhile, O Saumitri, I shall go swiftly to bring the deer (yāvad gacchāmi mṛgam ānayituṃ drutam); behold, O Lakṣmaṇa, Vaidehī's longing fixed upon the deer's hide (vaidehyā mṛga-tvaci gatāṃ spṛhām)!”
 </details>
 </details>
 
@@ -2352,6 +2620,14 @@ go I will be felling that spotted deer with one arrow and returning quickly. [3-
 The ambiguity is whether Rama is going for the deer, or deerskin, or for the latent demon. He is going
 for the deer epically, for the memento of deerskin to Seetha as a hero of the epic, and for the demon
 in deer, according to mythology.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**49:** “Because of its peerless hide (tvacā pradhānayā), this deer shall not survive today (mṛgo 'dya na bhaviṣyati); remaining at the hermitage with Sītā (āśrama-sthena sītayā), you must be ever vigilant (apramattena te bhāvyam)!”
+
+**50:** “While I strike down this spotted antelope with a single arrow (yāvat pṛṣatam ekena sāyakena nihanmy aham), O Lakṣmaṇa, having slain it and taken its hide (hatvaitac carma cādāya), I shall return quickly!”
 </details>
 </details>
 
@@ -2422,5 +2698,11 @@ to Lakshmana and started to go after the deer [3-43-51]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥43॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Together with the auspicious (pradakṣiṇena), mighty, and wise bird Jaṭāyus (atibalena pakṣiṇā jaṭāyuṣā buddhimatā ca), O Lakṣmaṇa, take charge of Maithilī (pratigṛhya maithilīm) and remain vigilant (bhavāpramattaḥ), suspicious of every quarter at every moment (pratikṣaṇaṃ sarvata eva śaṅkitaḥ)!”
 </details>
 </details>

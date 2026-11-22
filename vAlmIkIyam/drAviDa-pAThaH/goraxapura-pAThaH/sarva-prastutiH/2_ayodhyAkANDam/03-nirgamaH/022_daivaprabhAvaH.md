@@ -77,6 +77,14 @@ Afterwards ,the self composed Rama by controlling his thoughts with courage ,app
 the kind -hearted and affectionate brother Lakshmana who was distressed with agony who was very much
 angry like a hissing king cobra ,with his eyes dilated with wrath and spoke the following words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then, approaching that beloved brother and friend Saumitri—who was distressed with anguish, exceedingly indignant (saviśeṣam amarṣitam), and wide-eyed with rage like an infuriated lordly serpent (nāgendram)—
+
+**2:** the self-possessed (ātmavān) Rāma, maintaining his inner firmness with fortitude (dhairyeṇa dhārayan sattvam), spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,6 +141,14 @@ kaaryam* = action; *nirtyayam* = that is faultless."
 great joy! Abandon all these arrangements made today for my coronation and immediately take up action
 that is faultless ."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** “Curbing your wrath and grief, resorting solely to fortitude, casting aside this sense of insult (avamānaṃ nirasyainam), and embracing supreme joy (harṣam uttamam)—”
+
+**4:** “quickly turn back all these excellent preparations arranged for my consecration, and accomplish the task before us without obstacle (kuru kāryaṃ niravyayam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -182,6 +198,12 @@ sambhaara sambhramaH* = zeal for preparations; *astu* = be ; *abhishheka nivR^it
 "Oh, Lakshmana! Show the same zeal now in terminating my coronation as the zeal shown
 earlier in preparations for my coronation."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Saumitri, whatever eager haste (sambhramaḥ) was shown in gathering materials for my consecration—let that same eager haste in gathering materials now be directed toward cancelling the consecration (abhiṣekanivṛttyarthe)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,6 +250,12 @@ earlier in preparations for my coronation."
 "My mother Kaikeyi is still agonized about my coronation. Behave in such a way that no
 apprehension comes to her mind on this matter."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Act in such a way that that mother of ours (mātā naḥ sā), whose mind is tormented on account of my consecration, may no longer harbor any suspicion (saviśaṅkā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,6 +300,12 @@ the form of suspision; *pratisanjaatamapi* = created; *manasi* = in mind ; *tasy
 **अनुवादः**
 
 "Oh, Lakshmana! I do not wish to disregard the painful doubt in her mind even for a moment".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Saumitri, I cannot bear to overlook even for a single moment (muhūrtam api notsahe ... upekṣitum) the pain of suspicion that has arisen in her mind!”
 </details>
 </details>
 
@@ -320,6 +354,12 @@ the form of suspision; *pratisanjaatamapi* = created; *manasi* = in mind ; *tasy
 "I do not remember to have done even a small disagreeable thing here at any time to my
 mothers or to my father, either intentionally or unintentionally."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I do not recall ever having done in this world, either intentionally (buddhipūrvam) or unintentionally (abuddham), even the slightest displeasure to my mothers or to my father.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -366,6 +406,12 @@ of; *paralokabhayaat* = the fear of the other world; *nityam* = always; *satyaab
 "Let the promise made by my father ,who is truthful, who is truly mighty and who is afraid
 of the fear of the other world, become true .Let him be fearless."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Truthful, true to his pledges (satyābhisaṃdhaḥ), and ever of unfailing valor, my father fears the peril of the next world (paralokabhayād bhītaḥ)—let him be free from fear!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -411,6 +457,12 @@ apasamhR^ite* = if this coronation is not with drawn; *tasya* = his; *tapaaH* = 
 
 "Our father will feel anguished that his word has not come true ,if this coronation is
 not withdrawn. His distress will cause pain to me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For if this rite of consecration were not halted (apratisaṃhṛte), heartache would arise in him at the thought, ‘My pledge has not come true’—and his anguish would scorch me as well!”
 </details>
 </details>
 
@@ -461,6 +513,12 @@ _________________
 "Oh, Lakshmana for that reason, I wish to go to forest immediately from her, by withdrawing,
 coronation arrangement."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O Lakṣmaṇa, halting the preparations for the consecration, I wish to depart straightway (anvag eva) from this city to the forest!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -509,6 +567,12 @@ _________________
 "Soon after my departure to the forest now, Kaikeyi having accomplished her purpose,
 will coolly get her son coronated."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With her purpose accomplished today through my banishment, let the king's daughter then cause her son Bharata to be consecrated without anxiety (avyagram)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -553,6 +617,12 @@ dhare* = wearing deer skin rags; *jaaTaamaNdale dhaariNi* = wearing twisted lock
 
 "If go to forest , wearing deer -skin rags and with my hair twisted together Kaikeyi
 will have mental peace."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When I have departed to the forest wearing bark-cloth and deer-skin (cīrājinadhare) and bearing a crown of matted locks, Kaikeyī's heart will be at ease!”
 </details>
 </details>
 
@@ -604,6 +674,12 @@ maa = without chiram = delay."
 "I do not want to create trouble to my father, who has taken this hard decision in his
 mind . Hence, I will go to the forest at once
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I ought not to grieve Him by whom this resolve was instilled (buddhiḥ praṇītā yeneyam) and her mind so firmly fixed; I shall depart into exile without delay (mā ciram)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -649,6 +725,12 @@ Matpravaasane = and in sending me to exile".
 "Oh, Lakshmana! Look at it as destiny which has taken back kingdom given to me and which
 is sending me to exile"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Destiny alone (kṛtānta eva), O Saumitri, must be recognized as the cause in my banishment and in the turning back again of the kingdom that had already been bestowed!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -693,6 +775,12 @@ is sending me to exile"
 
 -"If not making of destiny to create such a thought in Kaikeyi, how come she resolved
 to harass?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For how could Kaikeyī's resolve (pratipattiḥ) ever turn toward afflicting me, if this disposition of hers had not been ordained by Destiny (kṛtāntavihito bhavet)?”
 </details>
 </details>
 
@@ -740,6 +828,12 @@ me sute api vaa = or in her son Bharata."
 "You know that I had no discrimination among mothers and Kaikeyi also in the past had
 no discrimination between me and her son Bharata"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For you know, O gentle brother, that I have never made any distinction among my mothers (na mātṛṣu mamāntaram), nor did she ever before make any distinction between me and her own son!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -785,6 +879,12 @@ for abolishion of my coronation ; *pravaasaarthaishena* = desirous of sending me
 
 "I do not perceive any other reason than an accident that made Kaikeyi to abolish my
 coronation , to send me to exile ,and to speak ferocious words ,not to be talked about."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, in her uttering those harsh and cruel words aimed at halting my consecration and banishing me, I can see no cause other than Destiny (nānyad daivāt samarthaye)!”
 </details>
 </details>
 
@@ -834,6 +934,12 @@ atriiva = like common woman; *bhartR^I sannidhou* = before husband matpiidaam = 
 "If it is for not an accidental reason, how Kaikeyi who is of a perfect temperament and
 who is born in a royal family can tell like a common woman to her husband to create trouble for me ?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How could a princess endowed with such a noble nature (prakṛtisampannā) and such virtues speak words to pain me in her husband's very presence, like a low-born woman (prākṛteva strī)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -878,6 +984,12 @@ patitaH = befall; *mayicha* = in me tasyaamcha = and in her vyaktam = It is clea
 
 "The influence of destiny is un imaginable. No living being can counteract its influence.
 An adverse fate has befallen on me and on her .It is clear now ."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That Destiny which is inscrutable (yac cintyaṃ tu tad daivam) cannot be thwarted among any beings; clearly it is through it that this reversal (viparyayaḥ) has befallen both me and her!”
 </details>
 </details>
 
@@ -924,6 +1036,12 @@ be able yoddhum = to fight against daivena = destiny? kanchit = whatever anyatra
 "Oh, Lakshmana! There is no means whatsoever to abstain from it otherwise than to follow
 the course of destiny. Who will be able to fight against the destiny. ?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And what man, O Saumitri, can venture to contend with Destiny (daivena ... yoddhum utsahate), of which no comprehension whatsoever is seen apart from its ripe effect (karmaṇo 'nyat)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -968,6 +1086,12 @@ thing tathaabhuutam = of such nature tat = that karmanamu = indeed is action dai
 
 "Pleasure and pain, fear and anger, gain and loss, birth and death and such other things
 are all the acts of destiny"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Pleasure and pain, fear and anger, gain and loss, birth and death (bhavābhavau)—whatever of this kind befalls anyone, is not all that the work of Destiny (nanu daivasya karma tat)?”
 </details>
 </details>
 
@@ -1014,6 +1138,12 @@ are all the acts of destiny"
 "Even sages, who performed sever penance, having been harassed by destiny leave aside
 restraint and get ruined by lust and anger."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even sages of fierce austerity (ṛṣayo 'py ugratapasaḥ), impelled by Destiny, cast aside their strict vows and fall through desire and wrath (kāmamanyubhiḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1058,6 +1188,12 @@ restraint and get ruined by lust and anger."
 
 "It is indeed an act of destiny which suddenly and unimaginably obstructs an action,
 undertaken in the world ,at the starting point itself."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When something wholly unpremeditated (asaṃkalpitam eva) suddenly comes to pass in this world, frustrating an undertaking already begun with every preparation (nivartyārabdham ārambhaiḥ)—is not that the work of Destiny?”
 </details>
 </details>
 
@@ -1104,6 +1240,12 @@ self by the self; *etayaa buddyaa* = with this intellect tattvayaa = which is re
 "Although my coronation is obstructed, I have no grief since I have restrained the self
 by myself with real consciousness."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Steadying my mind by my own self with this true wisdom (etayā tattvayā buddhyā), I feel no sorrow (paritāpo na vidyate) even though my consecration has been thwarted.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1148,6 +1290,12 @@ relating to coronation kshhipram = immediately aparitaapaH = without agony."
 
 "Hence ,you also ,like me, get the arrangements for coronation withdrawn immediately
 without any anguish"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, freeing yourself from sorrow and following my example (anuvidhāya mām), quickly cause the rite of consecration (ābhiṣecanikīṃ kriyām) to be halted!”
 </details>
 </details>
 
@@ -1196,6 +1344,12 @@ bath after completing religious vow taapasye = of asceticism mama = to me."
 
 Oh, Lakshmana! Let all these very pots of water arranged for coronation be used by me
 for my bath after completing the religious vow of asceticism."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With all these very water-jars gathered for the consecration, O Lakṣmaṇa, my ritual bath of initiation into asceticism (tāpasye vratasnānam) shall take place!”
 </details>
 </details>
 
@@ -1247,6 +1401,12 @@ svayam = by myself karishhyati = will do vrataadesham = imposition of the vow me
 "Otherwise ,why to me this water in these pots ,which is royal property? The water drawn
 out by myself ,will be used for my bath after completing the religious vow."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or rather, what need have I of this water mingled with royal substances (rājyadravyamayena)? Water drawn by my own hand (uddhṛtaṃ me svayaṃ toyam) shall serve for the initiation of my vow (vratādeśam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1289,6 +1449,12 @@ mahodayaH = final beautitude."
 
 "Oh, Lakshmana! Do not repent about this perverseness of Lakshmi, the goddess of wealth.
 When you talk of kingdom or dwelling in the forest, this is the final beautitude."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And do not grieve, O Lakṣmaṇa, at this reversal of royal fortune! Whether it be kingship or dwelling in the forest, dwelling in the forest brings the greater exaltation (vanavāso mahodayaḥ)!”
 </details>
 </details>
 
@@ -1358,6 +1524,12 @@ influence."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि इप्पत्तॆरडनॆय सर्ग पूर्णवायितु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Lakṣmaṇa, in this obstruction of my sovereignty neither my youngest mother (mātā yavīyasī) nor my father should in any way be suspected—for they are overpowered by Destiny (daivābhipannā), and you know that Destiny possesses such irresistible power!”
 </details>
 </details>
 

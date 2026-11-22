@@ -74,6 +74,12 @@ with Lakshmana.
 Having spoken the aforesaid harsh words to Ravana, Vibhishana arrived almost
 immediately to the place where Rama was together with Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken these harsh (paruṣam) words to Rāvaṇa, Rāvaṇa's younger brother arrived within an hour (muhūrtena) where Rāma was with Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +126,12 @@ immediately to the place where Rama was together with Lakshmana.
 Those leaders of monkeys standing on the ground saw Vibhishana, resembling the peak
 of Mount Meru and shining like a thunderbolt in the sky.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing upon the earth (mahīsthāḥ), those lords of the monkeys beheld him stationed in the sky (gaganastham), shaped like the peak of Mount Meru and blazing like a flash of lightning (śatahradām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +175,12 @@ there); *teapi* = they also; *varmaayudhopetaaH* = were wearing armor and weapon
 His four companions of terrific prowess were also there with him. They were wearing
 weapons and armour and were adorned with excellent ornaments.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And those four attendants (anucarāḥ) of his were of terrible valor (bhīmavikramāḥ); they too were endowed with armor and weapons (varmāyudhopetāḥ) and adorned with the finest ornaments.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -202,6 +220,12 @@ weapons; *divyaabharaNa bhuushhitaH* = and adorned with wonderful jewels.
 
 Vibhishana also resembled a mass of cloud, the equal of the God who wields the
 thunderbolt. He was holding excellent weapons and was adorned with wonderful jewels.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And that hero (vīraḥ), resembling a dark cloud or a mountain and matching the wielder of the thunderbolt (vajrāyudha-samaprabhaḥ) in splendor, bore excellent weapons and was decked in divine ornaments.
 </details>
 </details>
 
@@ -253,6 +277,12 @@ himself the fifth one along with four others; *chintayaamaasa* = became thoughtf
 Sugriva the valiant of monkeys, who was difficult to be overpowered, having seen
 Vibhishana, the fifth one along with four others, became thoughtful along with monkeys.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him with himself as the fifth (ātmapañcamam), the wise and unassailable (durdharṣaḥ) Sugrīva, lord of the monkeys, reflected (cintayāmāsa) together with the monkeys.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -298,6 +328,12 @@ Vibhishana, the fifth one along with four others, became thoughtful along with m
 
 Having thought for a moment, Sugriva spoke these sterling words to all those monkeys
 and to Hanuman in particular.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reflected for a moment (muhūrtam), he spoke this excellent speech to all those monkeys headed by Hanumān (hanumatpramukhān).
 </details>
 </details>
 
@@ -345,6 +381,12 @@ us."
 
 "See this demon possessing all types of weapons, coming along with four demons.
 There is no doubt that he is coming to kill us."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold! Endowed with every weapon (sarvāyudhopetaḥ) and accompanied by four rākṣasas, this rākṣasa approaches to slay us—of this there is no doubt (na saṃśayaḥ).”
 </details>
 </details>
 
@@ -395,6 +437,12 @@ and mountains; *abruvan* = and spoke; *idam* = these; *vachanam* = words:
 Hearing Sugriva's words, all those excellent monkeys lifted trees and mountains and
 spoke as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Sugrīva, all those foremost of monkeys (vānarottamāḥ) lifted up sāla trees and crags (śailāṃś ca) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -440,6 +488,12 @@ will drop; *dharaNyaam* = to the ground."
 
 "Do you swiftly order us to slay these wicked doers, O, king? Let us strike these
 fools down so that they drop to the ground!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Command us swiftly (śīghraṃ vyādiśa), O king, for the slaying of these wicked ones, so that struck down (hatāḥ) they may fall upon the earth bereft of vitality (alpacetanāḥ)!”
 </details>
 </details>
 
@@ -490,6 +544,12 @@ stationed; *svasthaheva* = indeed composedly; *teshhaam* = while those monkeys;
 While the monkeys were speaking thus among one another, Vibhishana had reached the
 northern shore and indeed coolly halted there.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as they were conversing (sambhāṣamāṇānām) with one another, that Vibhīṣaṇa reached the northern shore (uttaraṃ tīram) and stood stationed in the sky itself (khastha eva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -536,6 +596,12 @@ halting in the sky itself; *uvaacha* = spoke; *mahataa* = with a loud;
 
 That great and highly intelligent Vibhishana, halting in the sky itself, saw Sugriva
 and those monkeys and spoke to them in a loud voice (as follows):
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing intently (samprekṣya) upon Sugrīva and those [monkeys], the great and supremely wise (mahāprājñaḥ) Vibhīṣaṇa, still stationed in the sky, spoke in a mighty voice (svareṇa mahatā):
 </details>
 </details>
 
@@ -585,6 +651,12 @@ conduct; *aham* = I; *tasya anujaH bhraataaH* = am his younger brother;
 
 "There is a demon called Ravana, the king of demons, having a bad conduct. I am his
 younger brother, known as Vibhishana."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There is a wicked-minded (durvṛttaḥ) rākṣasa named Rāvaṇa, the lord of rākṣasas; I am his younger brother (anujo bhrātā), known as Vibhīṣaṇa.”
 </details>
 </details>
 
@@ -637,6 +709,12 @@ against her will; *diinaa* = and unfortunate Sita; *surakshhitaa* = is well guar
 unfortunate lady is held captive against her will and she is now amidst the female titans who guard
 her jealously"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By him Sītā was abducted (hṛtā) from Janasthāna after slaying Jaṭāyu, and kept confined (ruddhā), helpless and distressed, closely guarded by rākṣasa women (rākṣasībhiḥ surakṣitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -682,6 +760,12 @@ punaH* = again and again; *vivdhaiH* = by diverse; *vaakyaih* = words;
 
 "I persuaded Ravana again and again by my diverse words and arguments to restore
 Sita smoothly to Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Again and again (punaḥ punaḥ) I counseled (nyadarśayam) him with diverse reasoned speeches (hetubhir vākyaiḥ): ‘Let Sītā be duly restored (sādhu niryātyatām) to Rāma!’
 </details>
 </details>
 
@@ -729,6 +813,12 @@ fate; *na pratijagraaha* = did not accept ; *hitam* = the sage;vaakyam = advice;
 "That Ravana, impelled by fate, did not receive my sage advice, as a perverted
 person does not accept his prescribed medicine"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Impelled by Death (kālacoditaḥ), that Rāvaṇa did not accept (na pratijagrāha) the salutary words spoken to him, just as a perverse dying man (viparītaḥ) rejects medicine (auṣadham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -774,6 +864,12 @@ person does not accept his prescribed medicine"
 
 "Reviled by him and humiliated as a slave, I, leaving my sons and my wife, have come
 to take refuge with Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Reviled (paruṣitaḥ) by him and humiliated like a slave (dāsavac cāvamānitaḥ), I have abandoned my sons and wives and come to Rāghava for refuge (rāghavaṃ śaraṇaṃ gataḥ).
 </details>
 </details>
 
@@ -832,6 +928,12 @@ lokasharaNyaaya* = and the refuge of all the worlds; *maam* = of me;
 "Inform immediately to high soled Rama, the protector of all the worlds, that I,
 Vibhishana, have come here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Announce (nivedayata) me swiftly to the magnanimous Rāghava, the refuge of all the worlds (sarvalokaśaraṇyāya)—that Vibhīṣaṇa has arrived (upasthitam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -877,6 +979,12 @@ Rama; *agrataH* = in front; *lakshmaNasya* = of Lakshmana.
 
 The swift-paced Sugriva, having heard the words of Vibhishana, spoke more hurriedly
 to Rama, in front of Lakshmana as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing these words, the swift-striding (laghuvikramaḥ) Sugrīva spoke these agitated (saṃrabdham) words to Rāma in the presence of Lakṣmaṇa (lakṣmaṇasyāgrataḥ):
 </details>
 </details>
 
@@ -925,6 +1033,12 @@ hi* = has indeed come; *nihanyaat* = to kill us; *labdhvaa* = getting;
 "Belonging to the enemy force, here is an adversary taking us unawares, who
 unexpectedly has come here to slay us at the first opportunity like an owl destroying crows!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For an enemy who has penetrated (praviṣṭaḥ) the enemy's host and arrived unawares (atarkitaḥ) would strike them down upon finding an opening (antaram labdhvā), as an owl slays crows (ulūko vāyasān iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -969,6 +1083,12 @@ foes; *bhadram* = May good come; *te* = to you."
 "O, annihilator of enemies! You ought to be aware of the design, distribution,
 leading of the army and the secret service of the monkeys and also of your foes. May good come to
 you!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O scorcher of foes (paraṃtapa), you ought to be vigilant (yukto bhavitum arhasi) in counsel, battle-array, policy, and espionage (mantre vyūhe naye cāre) among both the monkeys and our adversaries—may good betide you!
 </details>
 </details>
 
@@ -1015,6 +1135,12 @@ can not trust; *teshhaam* = them; *jaatu* = at any time."
 
 "These demons can assume any form at will and can disappear. They are valiant and
 deceitful. We can not trust them at any time."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For these rākṣasas move in invisibility (antardhānagatāḥ) and assume any form at will (kāmarūpiṇaḥ); they are bold and skilled in deceit (nikṛtijñāś ca)—one should never trust them (teṣāṃ jātu na viśvaset).
 </details>
 </details>
 
@@ -1066,6 +1192,12 @@ doubt."
 "He may be a spy of Ravana the king of demons. He will succeed to become a member
 among us and create differences. There is no doubt."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This one may be a secret agent (praṇidhī) of Rāvaṇa, lord of the rākṣasas; having infiltrated (anupraviśya) us, he would sow dissension (bhedam) among us—of this there is no doubt.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1115,6 +1247,12 @@ trust."
 
 "Otherwise he , intelligent by himself, can get into possession of a weak point in
 us. Having first gained our confidence by craft, he may even at any time attack us."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or else, being shrewd (buddhimān), this one might himself find a vulnerable point (chidram āsādya) after infiltrating us and strike (prahared api) when we are trusting (viśvaste).
 </details>
 </details>
 
@@ -1167,6 +1305,12 @@ leaving off; *dvishhadbalam* = that furnished by an enemy."
 or furnished by hereditary warriors or paid servants - all these contingents can be accepted but
 not that furnished by an enemy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Allied forces and forest troops (mitrāṭavibalam), as well as hereditary and hired troops (maulabhṛtyabalam)—all these forces may be accepted, excluding the force of the enemy (varjayitvā dviṣadbalam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1214,6 +1358,12 @@ is indeed a demon; *prakR^ityaa* = by nature; *bhraataa* = a brother;
 "O, Lord! He is indeed a demon by nature and a brother of an enemy who came directly
 from an adversary. How can we keep trust in him?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For by his very nature (prakṛtyā) this one is a rākṣasa and the brother of our foe, O lord; and since he has come straight from the enemy (ripuḥ sākṣāt), how could one place trust in him?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1260,6 +1410,12 @@ refuge."
 The younger brother of the famous Ravana, called Vibhishana along with four other
 demons approached you for refuge."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The younger brother of Rāvaṇa, known as Vibhīṣaṇa, has come to you for refuge (bhavantaṃ śaraṇaṃ gataḥ) accompanied by four rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1305,6 +1461,12 @@ is being sent; *raavaNena* = by Ravana; *manye* = I think; *tasya* = of him;
 
 "O, the excellent one among men knowing what is right! Know that Ravana is sending
 Vibhishana. I opine that Vibhishana is fit for arrest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Know that Vibhīṣaṇa to have been dispatched (praṇītam) by Rāvaṇa; I deem his chastisement (tasya nigraham) the proper course (kṣamam), O best of the discerning (kṣamavatāṃ vara).
 </details>
 </details>
 
@@ -1353,6 +1515,12 @@ remaining hidden; *maayayaa* = by his witchcraft."
 "O, the faultless one! Being sent with a crooked intent, this demon came here to
 attack when you are going to repose faith in him, (remaining hidden by his witchcraft).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Instructed with crooked intent (jihmayā buddhyā), this rākṣasa has come here disguised by illusion (māyayā channaḥ) to strike you when you are trusting, O sinless one (anagha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1398,6 +1566,12 @@ killed; *tiivrena* = by severe; *daNdena* = punishment."
 
 "This Vibhishana is indeed the brother of cruel Ravana. Hence, let him along with
 his ministers be killed, by imposing severe punishment on them."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let this one be slain with severe punishment (tīvreṇa daṇḍena) together with his ministers (sacivaiḥ saha); for this Vibhīṣaṇa is the brother of the ruthless (nṛśaṃsasya) Rāvaṇa!”
 </details>
 </details>
 
@@ -1445,6 +1619,12 @@ thus; *samrabdhaH* = hurriedly; *tam raamam* = to that Rama; *vaakyakushalam*
 
 The chief of army Sugriva, who knew how to speak expressed thus hurriedly to Rama,
 who was skilled in oratory and thereafter entered into silence.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus in agitation (saṃrabdhaḥ) to that Rāma, who was skilled in speech (vākyakuśalam), the lord of the host, a knower of speech (vākyajñaḥ), then fell silent (maunam upāgamat).
 </details>
 </details>
 
@@ -1496,6 +1676,12 @@ words; *sugrivasya* = of Sugriva; *mahaabalaH* = the exceedingly strong;
 Hearing those words of Sugriva, the exceedingly strong Rama addressed as follows to
 the monkeys in front of Hanuman staying near by:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of Sugrīva, the mighty (mahābalaḥ) Rāma spoke these words to the monkeys standing nearby (samīpasthān), headed by Hanumān (hanumatpramukhān):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1541,6 +1727,12 @@ Sugriva; *raavaNaavarajam prati* = about Vibhishana; *shrutam* = were heard;
 
 "The very reasonable words uttered by Sugriva about Vibhishana were heard by you
 too."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The speech, rich in reasoning (hetumad atyartham), that was spoken by the king of the monkeys concerning Rāvaṇa's younger brother (rāvaṇāvarajaṃ prati) has been heard by you as well.
 </details>
 </details>
 
@@ -1590,6 +1782,12 @@ difficult matters."
 friends should properly advise them well in difficult matters. Hence, tell your opinion one by
 one"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In times of grave difficulty (arthakṛcchreṣu) for one's friends, it is ever fitting (yuktam) for a wise and capable man who desires their lasting welfare (śāśvatīṃ bhūtim icchatā) to offer counsel (upasaṃdeṣṭum).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1636,6 +1834,12 @@ politeness; *uuchuH* = spoke; *svam matam* = their respective opinion;
 
 Thus asked by Rama, those monkeys free from lassitude, wishing to do good and out of
 their politeness, spoke their respective opinions to Rama as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned thus (ity evaṃ paripṛṣṭāḥ), those unwearying (atandritāḥ) ones, desiring to do what was pleasing (priyacikīrṣavaḥ), then spoke to Rāma with courtly deference (sopacāram), each stating his own opinion:
 </details>
 </details>
 
@@ -1686,6 +1890,12 @@ _________________
 "O, Rama! Nothing is unknown to you in the three worlds. You are consulting us with
 a friendly heart, as an honor to us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nothing in the three worlds (triṣu lokeṣu) is unknown (ajñātam) to you, O Rāghava; honoring us out of friendship (suhṛttayā), O Rāma, you question us while exalting yourself (ātmānaṃ pūjayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1733,6 +1943,12 @@ friends."
 "You are avowed to truth, a valiant man and a righteous man of firm fortitude. You
 take action only after proper investigation. You have good memory. You are committed in your heart
 to your friends."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For you are true to your vow (satyavrataḥ), heroic, righteous, of firm valor (dṛḍhavikramaḥ), acting only after due examination (parīkṣyakārī), possessed of keen memory, and wholly devoted in spirit to your friends (nisṛṣṭātmā suhṛtsu ca).
 </details>
 </details>
 
@@ -1782,6 +1998,12 @@ reason; *ekaikashaH* = one by one."
 
 "Hence, your counselors, who are rich in their minds and are moreover efficient, one
 by one, will tell their opinion with reason."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore let your counselors (sacivāḥ), who are endowed with wisdom (matisampannāḥ) and capable, speak one by one (ekaikaśaḥ) with reasoned arguments (hetutaḥ) again and again.”
 </details>
 </details>
 
@@ -1833,6 +2055,12 @@ instance."
 Having spoken thus by the monkeys, Angada the intelligent monkey told Rama to
 arrange for examination of Vibhishana before hand."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When this had been said to Rāghava, the wise monkey Aṅgada spoke first (agrataḥ) a speech aimed at testing Vibhīṣaṇa (vibhīṣaṇaparīkṣārtham):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1878,6 +2106,12 @@ made; *vishvaasaniiyaH* = a trustworthy person; *sahasaa* = immediately."
 
 "Vibhishana who came from an enemy is indeed to be doubted by all means. He is not
 to be made as a trust worthy person so soon."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“One who has come from the presence of the enemy (śatroḥ sakāśāt) must by all means be scrutinized (sarvathā tarkya eva hi); Vibhīṣaṇa ought not to be made an object of trust precipitately (sahasā).
 </details>
 </details>
 
@@ -1925,6 +2159,12 @@ move around; *chhaadayitvaa* = concealing; *aatma bhaavam* = their peculiar natu
 "Deceitful persons move around, concealing their peculiar nature and attack at weak
 places. They will create a very great misfortune."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For men of deceitful minds (śaṭhabuddhayaḥ) move about concealing their true intent (chādayitvātmabhāvam) and strike at vulnerable points (randhreṣu)—that would be a very great calamity (anarthaḥ sumahān)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1971,6 +2211,12 @@ quality; *doshhatastu* = but faults; *visarjayet* = should be given up.
 "One must take a decision, after ascertaining the pros and cons of it. One should
 take up the action, if there is an advantage and reject it, if it is faulty."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having ascertained benefit and harm (arthānarthau viniścitya), one should adopt a resolute course (vyavasāyam bhajeta): on account of virtue one should accept (guṇataḥ saṃgrahaṃ kuryāt) [a newcomer], and on account of fault one should reject (visarjayet) him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2016,6 +2262,12 @@ many; *guNaam* = good qualities; *kriyataam samgrahaH* = let him be accepted.
 
 "O, king! If there are great faults in him, let him be rejected undoubtedly. If we
 recognize many good qualities in him, let him be accepted."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If there be great fault (doṣo mahān) in him, let him be rejected without hesitation (aviśaṅkitam); or else, upon recognizing many virtues (guṇān vāpi bahūn jñātvā), let his acceptance be effected, O king!”
 </details>
 </details>
 
@@ -2064,6 +2316,12 @@ him."
 Thereafter Sharabha on his part spoke the following meaningful and decisive words:
 "O, tiger among men! Let a spy be sent to shadow him"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Śarabha, having resolved the matter (niścitya), spoke a purposeful (sārtham) speech: “O tiger among men (naravyāghra), let a spy be swiftly dispatched (cāraḥ pratividhīyatām) regarding this one!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2103,6 +2361,12 @@ acceptance; *kaaryaH* = to be done; *yathaanyaayam* = as per justice."
 
 "By sending out a spy and causing a suitable investigation by a keenly intellectual
 spy, he can then be accepted as per justice."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For having observed him through a spy (praṇidhāya hi cāreṇa) of subtle intellect (sūkṣmabuddhinā) and examined him aright, his acceptance (parigrahaḥ) should then be carried out according to justice (yathānyāyam).”
 </details>
 </details>
 
@@ -2150,6 +2414,12 @@ buddhyaa* = through his leaning derived from scriptures; *vij^N^aapayaamaasa* = 
 Then, the discerning Jambavan on his part, perceiving the matter through his
 learning derived from scriptures, advised the following fault-less and qualitative words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the discerning (vicakṣaṇaḥ) Jāmbavān, reflecting with an eye to the śāstras (śāstrabuddhyā), submitted a speech endowed with merit and free of fault (guṇavad doṣavarjitam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2196,6 +2466,12 @@ very wrong place and time; *ayam* = He; *shNkyataam* = is to be suspected;
 
 "This Vibhishana came from sinful Ravana who has contracted hostility with you and
 that too at a wrong place and time. He is to be suspected by all means."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Coming from the sinful lord of the rākṣasas with whom we have bounden hostility (baddhavairāt), this Vibhīṣaṇa has arrived at an improper place and time (adeśakāle)—let him be suspected in every way (sarvathā śaṅkyatām ayam)!”
 </details>
 </details>
 
@@ -2246,6 +2522,12 @@ oratory; *hetumattaram* = highly reasonable; *vaakyam* = words.
 Then Mainda, skilled in discriminating good and bad conduct in others observed the
 matter carefully and spoke in his perfect oratory in the following highly reasonable words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Mainda, conversant with policy and mispolicy (nayāpanayakovidaḥ) and eloquent in speech (vacanasampannaḥ), reflected and spoke a still more reasoned (hetumattaram) speech:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2291,6 +2573,12 @@ questioned; *shanaiH* = slowly; *madhureNa* = by sweet words."
 
 "O, king of kings! This Vibhishana is indeed the younger brother of that Ravana. Let
 him be questioned slowly by sweet words"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This Vibhīṣaṇa is famously (nāma) the younger brother of that Rāvaṇa; let him be questioned gently (pṛcchyatāṃ madhureṇāyam) and gradually (śanaiḥ), O lord of kings (narapatīśvara).
 </details>
 </details>
 
@@ -2339,6 +2627,12 @@ feelings."
 "O, the best among men! Having read actually his mind whether he is dangerous or
 not, you should act according to your feelings."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having ascertained his disposition (bhāvam asya tu vijñāya) in accordance with the truth (tattvataḥ), you will deal with him deliberately (buddhipūrvam), O bull among men, whether he be wicked or not wicked (duṣṭo na duṣṭo vā).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2384,6 +2678,12 @@ sampannah* = who was well educated; *sachivottamaH* = the best among consellors;
 
 Then the well educated Hanuman, the excellent among counselors; spoke the following
 smooth meaningful, sweet and brief words:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Hanumān, the foremost of counselors (sacivottamaḥ), endowed with cultivated wisdom (saṃskārasampannaḥ), spoke a smooth, meaningful, sweet, and concise (ślakṣṇam arthavan madhuraṃ laghu) speech:
 </details>
 </details>
 
@@ -2434,6 +2734,12 @@ talking; *na shaktaH* = cannot; *atishayaayitum* = excel; *bhavantam* = you;
 "Even Brihaspati, while talking cannot excel you, who are possessing an exalted
 intellect. You are powerful and the foremost man among those who are eloquent."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even Bṛhaspati himself, when speaking, is incapable of surpassing (atiśāyayituṃ śaktaḥ) you, the foremost in intellect (matiśreṣṭham), capable, and the best of speakers (vadatāṃ varam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2481,6 +2787,12 @@ importance; *vakshhyaami* = I am talking; *yataartham* = the matter in hand.
 "O, king! O, Rama! I am talking neither for argument, nor for competition (with
 other counselors, nor for superiority, nor out of passion for debate but on account of importance
 of this matter in hand."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither from love of debate (na vādāt), nor from rivalry (saṃgharṣāt), nor from arrogance (ādhikyāt), nor from caprice (kāmataḥ) shall I speak my words in truth, O King Rāma, but out of regard for the gravity of the matter (gauravāt).
 </details>
 </details>
 
@@ -2530,6 +2842,12 @@ judicious investigation.
 into advantages and disadvantages, accruing from accepting Vibhishana. It is not possible for such
 a judicious investigation into his character."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In what was said by your counselors for the sake of discerning benefit and harm (arthānarthanimittam), I perceive a flaw (doṣaṃ prapaśyāmi); for the proposed action is not feasible (kriyā na hy upapadyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2575,6 +2893,12 @@ ability; *pratibhaati* = It occurs; *me* = to me; *doshhavaan* = as a mistake;
 
 "Without entrusting any work, it is not possible to understand his ability. But at
 the same time, it occurs to me as a mistake to entrust any work so soon to a stranger."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without employing him in a task (ṛte niyogāt), his capability (sāmarthyam) cannot be known; yet employing him precipitately (sahasā viniyogo 'pi) appears to me fraught with peril (doṣavān pratibhāti me).”
 </details>
 </details>
 
@@ -2623,6 +2947,12 @@ praNihitam* = to send spies; *tatra* = that; *kaaraNam* = action;
 "What ever was told by your counselors that it was befitting to send spies to
 Vibhishana, that action is not possible due to impracticality of the proposition."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As for what was said by your counselors—that dispatching a spy is fitting (cārapraṇihitaṃ yuktam)—because the object is impracticable (arthasyāsambhavāt), the means is not tenable (kāraṇaṃ nopapadyate) in that case.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2669,6 +2999,12 @@ Listen; *taam* = to it.
 
 "It has been said that Vibhishana came into a wrong place and time. In that matter,
 I have to express my thought. Listen to it."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And as for the claim that this Vibhīṣaṇa has arrived at an improper place and time (adeśakāle samprāptaḥ), I have a certain observation (vivakṣā) to make thereon; hear it according to my understanding (yathāmati).
 </details>
 </details>
 
@@ -2745,6 +3081,14 @@ worthy; *tasya* = of his ; *buddhitaH* = judgement.
 "It is indeed appropriate for him to arrive at this place and time, by seeing the
 prowess in you and the wickedness in Ravana. It is worthy of his judgment."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**57:** “Passing in thought from one person to another (puruṣāt puruṣaṃ prāpya), and weighing fault and virtue as well (doṣaguṇāv api), this very place and time (eṣa deśaś ca kālaś ca) become right and fitting here (bhavatīha yathā tathā).
+
+**58:** “Beholding wickedness (daurātmyam) in Rāvaṇa and valor (vikramam) likewise in you, his coming here is altogether fitting (yuktam āgamanam) and worthy of his wisdom (sadṛśaṃ tasya buddhitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2795,6 +3139,12 @@ consideration; *asti* = is this.
 "O, king! Whatever was told by your counselors that let Vibhishana be questioned by
 spies of unknown identity, my considered view is as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And as for what was said—‘Let him be questioned by men in disguise (ajñātarūpaiḥ puruṣaiḥ), O king’—on this point too I have a well-considered view (prekṣā kācid asti samīkṣitā).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2842,6 +3192,12 @@ easily obtained; *mitram* = friend; *pradushhyeta* = becomes faithless;
 "A wise man being questioned suddenly would be apprehensive of that questioning. In
 those circumstances, an easily obtained friend becomes faithless upon facing a deceitful
 questioning."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Questioned abruptly (pṛcchyamāno... sahasā), a wise man would grow suspicious (viśaṅketa) of the speech; in that case, a friend who has come in good faith (mitraṃ... sukhāgatam), being falsely interrogated (mithyā pṛṣṭam), would be alienated (praduṣyeta).
 </details>
 </details>
 
@@ -2892,6 +3248,12 @@ different voices; *ashakyam* = it is not possible; *sahasaa* = rapidly;
 "O, king! Without possessing a high skill of reading his diversified tones, it is
 not possible rapidly to comprehend his intention."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“It is impossible, O king, to fathom (boddhum) another's inner intent (bhāvaḥ) precipitately, apart from closely observing (paśyatāṃ bhṛśam) his skill through his varied tones of voice (antareṇa svarair bhinnaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2938,6 +3300,12 @@ is seen; *jaatu* = at all; *asya* = in his; *bruvataH* = talk;
 "I am not seeing any bad intention at all in his talk. His face is also bright.
 Hence, I do not doubt him."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Never as he speaks is any malice of intent (duṣṭabhāvatā) perceived in him, and his countenance is serene (prasannaṃ vadanaṃ cāpi); therefore I have no doubt (tasmān me nāsti saṃśayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2963,6 +3331,12 @@ Hence, I do not doubt him."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘दुष्ट पुरुष कभी निःशङ्क एवं स्वस्थचित्त होकर सामने नहीं आ सकता । इसके सिवा इसकी वाणी भी दोषयुक्त नहीं है । अतः मुझे इसके विषयमें कोई संदेह नहीं है ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A deceitful man (śaṭhaḥ) does not approach with an unhesitating mind (aśaṅkitamatiḥ) and self-possessed bearing (svasthaḥ), nor is his speech flawed (na cāsya duṣṭavāg asti); therefore I have no doubt.
 </details>
 </details>
 
@@ -3028,6 +3402,12 @@ too is not bad. Hence, there is no doubt to me on him."
 "It is not possible to hide expression of the face, even if it is concealed. By
 force, the internal intent of the persons certainly gets revealed."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A deceitful man (śaṭhaḥ) does not approach with an unhesitating mind (aśaṅkitamatiḥ) and self-possessed bearing (svasthaḥ), nor is his speech flawed (na cāsya duṣṭavāg asti); therefore I have no doubt.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3076,6 +3456,12 @@ associated; *prayogeNa* = with practice; *kshhipram* = quickly.
 
 "O, the eminently skillful man in work! An action endowed with proper place and time
 transacts successfully, if it is performed quickly."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“An action endowed with the right place and time (deśakālopapannaṃ ca kāryam), O best of those who know what should be done (kāryavidāṃ vara), swiftly renders [its doer] successful (saphalaṃ kurute kṣipram) when joined with proper execution (prayogeṇābhisaṃhitam).
 </details>
 </details>
 
@@ -3139,6 +3525,14 @@ about Vali having been killed and Sugriva anointed as king, he deliberately came
 desire to obtain the kingdom of demons. On consideration of this aspect alone, he is worthy of
 acceptance by us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**66:** “Beholding your martial enterprise (udyogaṃ tava samprekṣya) and Rāvaṇa of false conduct (mithyāvṛttam), and hearing that Vālin was slain and Sugrīva consecrated (sugrīvaṃ cābhiṣecitam),
+
+**67:** “he has come here deliberately (buddhipūrvam ihāgataḥ), desiring the kingdom (rājyaṃ prārthayamānas tu); keeping this much in view (etāvat tu puraskṛtya), his acceptance is altogether fitting (yujyate tasya saṃgrahaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3197,6 +3591,12 @@ of the issue."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हदिनेळनॆय सर्ग पूर्णवायितु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To the best of my ability (yathāśakti) I have spoken regarding the uprightness (ārjavaṃ prati) of the rākṣasa; having heard [my words], you are the sole authority (pramāṇaṃ tvaṃ hi) for what remains, O best of the wise!”
 </details>
 </details>
 

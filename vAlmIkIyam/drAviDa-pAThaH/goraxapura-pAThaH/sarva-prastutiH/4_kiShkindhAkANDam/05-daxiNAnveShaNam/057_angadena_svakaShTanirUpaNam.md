@@ -75,6 +75,12 @@ Though Sampaati's voice is turned husky by his sadness for the demise of his bro
 Jataayu, the monkey commanders doubtingly disbelieved neither him nor even his words by the fact of
 his being an eagle intending to kill and eat up all the monkeys. [4-57-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even upon hearing his voice choked with grief (śokād bhraṣṭasvaram api), the leaders of the monkey troops did not trust that speech of his (śraddadhur naiva tad vākyam), remaining suspicious on account of his former act (karmaṇā tasya śaṅkitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +128,12 @@ eagle.
 On seeing the eagle those fly-jumpers who sat for fast-unto-death have become
 furious at the eagle thinking that, "that eagle wishes to eat up all of us..." Thus, the monkeys
 deliberated the eagle's words. [4-57-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the vulture, those monkeys who had sat down in a fast unto death (prāyam upaviṣṭāḥ) then formed a grim resolve (cakrur buddhiṃ tadā raudrām): “He will devour us all!”
 </details>
 </details>
 
@@ -171,6 +183,12 @@ achieved.
 then our deliverance will be achieved in anyway and we will go to heaven from here..." Thus, some
 other monkeys gave thought to lower that eagle down. [4-57-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If he devours us who are in any case sitting in a fast unto death (sarvathā prāyam āsīnān), we shall have accomplished our purpose (kṛtakṛtyā bhaviṣyāmaḥ), swiftly attaining fulfillment from here (kṣipraṃ siddhim ito gatāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -216,6 +234,12 @@ angadaH* = then, Angada; *aaha* = spoke to it.
 
 When all of the monkey chiefs made up their mind in this way, then some of them on
 going to the mountaintop brought that eagle down, and then Angada spoke to the eagle. [4-57-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All those leaders of the monkey troops then formed this resolve; and having helped the vulture down from the peak of the mountain (avatārya gireḥ śṛṅgāt), Aṅgada then spoke to him:
 </details>
 </details>
 
@@ -280,6 +304,14 @@ outstanding monkey among all monkeys, was the king of monkeys. He has two genero
 sons namely Vali and Sugreeva. My father Vali was highly renowned in the world for his bold acts,
 and he became the king later to my grandfather... [4-57-5, 6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** “There was a mighty lord of Vānaras named Ṛkṣarajas, my noble grandsire (mamāryaḥ pārthivaḥ), O bird, and he had two righteous sons (dhārmikau tasya cātmajau):”
+
+**6:** “Sugrīva and Vālin, both sons of compact might (ghanabalāv ubhau); and my father, King Vālin, was renowned in the world for his deeds (viśrutakarmābhūt).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +373,14 @@ praviSTaH* = Dandaka, forest, moved into.
 peerless person, and he is the son of Dasharatha, namely Rama, and abiding by his father's
 directives and opting for righteous course of conduct, he moved into Dandaka forests along with his
 brother Lakshmana and even with his wife Vaidehi... [4-57-7, 8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** “The sovereign of the entire universe (rājā kṛtsnasya jagataḥ), the great chariot-warrior of the Ikṣvākus, the illustrious Rāma, son of Daśaratha, entered the Daṇḍaka forest—”
+
+**8:** “Together with his brother Lakṣmaṇa and his wife Vaidehī, devoted to his father's command (pitur nideśanirataḥ) and abiding by the path of righteousness (dharmaṃ panthānam āśritaḥ).”
 </details>
 </details>
 
@@ -415,6 +455,14 @@ abduction]; *pari shraantaH ca* = overly, tired, also; *vR^iddhaH ca* = being ol
 Maithili from abduction as he is senescent, then Ravana killed him in that conflict... [4-57-10b,
 c]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** “His wife was forcibly abducted from Janasthāna by Rāvaṇa; and the king of vultures named Jaṭāyus, the friend of Rāma's father (rāmasya tu pitur mitram),”
+
+**10:** “Beheld Sītā Vaidehī being carried away through the sky (hriyamāṇāṃ vihāyasā). Having deprived Rāvaṇa of his chariot (virathaṃ kṛtvā) and set Maithilī down, exhausted and aged as he was (pariśrāntaś ca vṛddhaś ca), he was slain in battle by Rāvaṇa.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -461,6 +509,12 @@ api* = by Rama, solemnised by [performed], obsequies, also, even; *uttamaam gati
 "Thus that eagle was killed by that mighty Ravana, but solemnised by the obsequies
 performed by Rama, he departed on a sublime avenue to heavens... [4-57-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus slain by that mighty Rāvaṇa and honored with funeral rites by Rāma (saṃskṛtaś cāpi rāmeṇa), the vulture departed to the supreme state (jagāma gatim uttamām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -485,6 +539,12 @@ performed by Rama, he departed on a sublime avenue to heavens... [4-57-11]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर श्रीरामनु नन्न चिक्कप्प महात्मा सुग्रीवनॊन्दिगॆ मैत्रि माडिकॊण्डनु. सुग्रीवनु हेळिदन्तॆ श्रीरामनु नन्न पितनन्नु वधिसिदनु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereafter, Rāghava forged an alliance (cakāra sakhyam) with my high-souled paternal uncle Sugrīva, and he slew my father (so 'vadhīt pitaraṃ mama).”
 </details>
 </details>
 
@@ -534,6 +594,12 @@ autocrat, and Sugreeva got my father killed. Since Sugreeva antagonised my fathe
 interdicted him along with his ministers, and Rama killed my father Vali and anointed Sugreeva...
 [4-57-12, 13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because Sugrīva, together with his ministers, had been barred from the kingdom by my father (mama pitrā niruddho hi), Rāma slew Vālin and then consecrated him (tam abhiṣecayat).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -579,6 +645,12 @@ vayam prasthaapitaa* = by him, we all are, expedited.
 
 "Rama enthroned Sugreeva as the ruler of all vanara-s and that king of all vanara
 chiefs expedited all of us... [4-57-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Established by him in the sovereignty, that Sugrīva, lord of Vānaras and king of the foremost monkeys, dispatched us (tena prasthāpitā vayam).”
 </details>
 </details>
 
@@ -626,6 +698,12 @@ we attained.
 "Though we are spearheaded by Rama and though we searched thereabouts for Vaidehi at
 the behest of Sugreeva, as with a nightly sunshine Vaidehi is unattainable for us... [4-57-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus commissioned in Rāma's service (rāmaprayuktās tu) and searching everywhere (mārgamāṇās tatas tataḥ), we do not find Vaidehī, any more than one finds the radiance of the sun by night (rātrau sūryaprabhām iva).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -672,6 +750,12 @@ have.
 
 "Such as we were we searched Dandaka forest very meticulously, but we unwittingly
 entered into a wide-opened Black Hole of the earth... [4-57-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having searched the Daṇḍaka forest with great concentration (susamāhitāḥ), we entered through ignorance (ajñānāt) a subterranean cavern laid open in the earth (dharaṇyā vivṛtaṃ bilam).”
 </details>
 </details>
 
@@ -722,6 +806,12 @@ crafted; *tat bilam vicinvataam* = that, hole, while searching; *naH* = for us;
 "During our search in that Black Hole, which was crafted by the wizardry of demon
 Maya, the month fixed by our king for our return has been elapsed... [4-57-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And as we were exploring that cavern fashioned by Maya's illusion (mayasya māyāvihitam), the month appointed by the king as our term (yo rājñā samayaḥ kṛtaḥ) slipped away from us there.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -768,6 +858,12 @@ owing to fear [from Sugreeva,] fast-unto-death, we sat down.
 "We who are all supposed to execute the order of our king, we have exceeded the
 established norm of timeframe, and for fear of fury from our king Sugreeva we sat down for
 fast-unto-death... [4-57-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having transgressed the stipulated limit (kṛtāṃ saṃsthām atikrāntāḥ), all of us who execute the monkey king's command have sat down in a fast unto death out of fear (bhayāt prāyam upāsitāḥ).”
 </details>
 </details>
 
@@ -826,6 +922,12 @@ for all of us..." Thus Angada narrated their plight to Sampaati. [4-57-19]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तेळनॆय सर्ग सम्पूर्णवायितु. ॥57॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For when that Kākutstha is incensed, along with Sugrīva and Lakṣmaṇa, there is no life left for any of us even if we return there (gatānām api sarveṣāṃ tatra no nāsti jīvitam).”
 </details>
 </details>
 

@@ -43,6 +43,12 @@ of Ravana sleeping in the house. He sees Mandodari and thinks her to be Seetha.
 
 वहाँ इधर-उधर दृष्टिपात करते हुए हनुमान् जी ने एक दिव्य एवं श्रेष्ठ वेदी देखी, जिसपर पलंग बिछाया जाता था । वह वेदी स्फटिक मणिकी बनी हुई थी और उसमें अनेक प्रकारके रत्न जड़े गये थे ॥ १ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Looking around there (tatra avekṣamāṇaḥ), Hanumān beheld a pre-eminent crystal couch-platform (mukhyaṃ sphāṭikaṃ śayanāsanam), comparable to a celestial one (divyopamam) and adorned with gems (ratnabhūṣitam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,6 +94,12 @@ chitraaN^gaiH* = with wonderful parts made of ivory and gold; *vyDuuryaiH mahaar
 In that house, while observing, Hanuma saw a portion of house with beds and couches, consisting
 of best couches equaling those in heaven, made of crystal decorated with diamonds, with wonderful parts made of
 ivory and gold, covered with best beds made of cat's eye gems of great value.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Furnished with costly, exquisite seats (varāsanair mahādhanaiḥ) having variegated limbs of ivory and gold (dāntakāñcanacitrāṅgaiḥ), wrought of cat's-eye gems (vaidūryaiś ca), and spread with priceless coverings (mahārhāstaraṇopetaiḥ).
 </details>
 </details>
 
@@ -138,6 +150,12 @@ tasya* = of that room; *chhatram* = an umbrella; *paaNDuram* = white in colour; 
 Hanuma saw in a part of that room, an umbrella white in colour decorated with best flower garlands
 and resembling moon - the lord of stars.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And at one end of it (tasya caikatame deśe), he beheld a white canopy (dadarśa pāṇḍuraṃ chatram) graced with celestial garlands (divyamālopāśobhitam) and resembling the lord of stars [the Moon] (tārādhipatisaṃnibham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -180,6 +198,12 @@ _________________
 Hanuma saw an excellent couch made of gold with radiance equaling that of fire, spread by garlands
 of Ashoka flowers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He beheld a supreme couch (dadarśa paramāsanam) overlaid with gold (jātarūpaparikṣiptam), equal in radiance to the fire-god or sun (citrabhānoḥ samaprabham), and festooned with garlands of aśoka blossoms (aśokamālāvitataṃ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -206,6 +230,12 @@ of Ashoka flowers.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उसके चारों ओर खड़ी हुई बहुत-सी स्त्रियाँ हाथोंमें चँवर लिये उसपर हवा कर रही थीं । वह पलंग अनेक प्रकारकी गन्धोंसे सेवित तथा उत्तम धूपसे सुवासित था ॥ ५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Being fanned on all sides (vījyamānaṃ samantataḥ) by women holding yak-tail whisks in their hands (vālavyajanahastābhiḥ), steeped in diverse perfumes (gandhaiś ca vividhair juṣṭam), and fragrant with choice incense (varadhūpena dhūpitam),
 </details>
 </details>
 
@@ -265,6 +295,12 @@ rows; *varamaalyaanaam* = of excellent garlands.
 **अनुवादः**
 
 Covered by an excellent bed, spread by sheep skin everywhere and shone by rows of excellent garlands.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spread with supreme coverings (paramāstaraṇāstīrṇam), covered over with soft sheep-skins (āvikājinasaṃvṛtam), and adorned on every side with festoons of choice garlands (dāmabhir varamālyānām).
 </details>
 </details>
 
@@ -408,6 +444,20 @@ rakshasa girls and causing comfort to rakshasas.
 
 That great Hanuma saw the gallant king of rakshasas in sleep on a shining couch resting after drinking.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** Upon that [couch], [he beheld Rāvaṇa,] resembling a thundercloud (jīmūtasaṃkāśam), with blazing, brilliant earrings (pradīptojjvalakuṇḍalam), red-eyed (lohitākṣam), mighty-armed (mahābāhum), and clad in a garment of gold (mahārajatavāsasam)—
+
+**8:** His limbs anointed with fragrant red sandalwood (lohitenānuliptāṅgaṃ candanena sugandhinā), looking like a raincloud in the sky reddened by twilight (saṃdhyāraktam ivākāśe toyadam) andstreaked with flashes of lightning (sataḍidguṇam),
+
+**9:** Covered with celestial ornaments (vṛtam ābharaṇair divyaiḥ), of handsome form (surūpam) and able to assume any form at will (kāmarūpiṇam), looking like Mount Mandara asleep (prasuptam iva mandaram), rich with trees, groves, and thickets (savṛkṣavanagulmāḍhyam),
+
+**10:** Having ceased at night after amorous sport (krīḍitvoparataṃ rātrau), adorned with choice ornaments (varābharaṇabhūṣitam), beloved of the rākṣasa maidens (priyaṃ rākṣasakanyānām), and bringer of happiness to the rākṣasas (rākṣasānāṃ sukhāvaham),
+
+**11:** And having ceased also after drinking (pītvāpy uparataṃ cāpi)—the great monkey beheld that heroic lord of rākṣasas (vīraṃ rākṣasādhipam) fast asleep upon his radiant couch (bhāsvare śayane prasuptam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -485,6 +535,14 @@ sma* = (and) observed closely; *raakshasa shaarduulam* = Ravana.
 
 Thereafter the great Hanuma neared staircase, sought another dais and observed closely Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** Drawing near (āsādya) to Rāvaṇa, who was hissing like a great serpent (niḥśvasantaṃ yathā nāgam), that foremost of monkeys (vānarottamaḥ) was seized with extreme trepidation (paramodvignaḥ) and stepped back as though terrified (sopāsarpat subhītavat).
+
+**13:** Then, reaching the staircase (ārohaṇam āsādya) and taking his stand upon the middle landing (vedikāntaram āśritaḥ), the great monkey gazed (prekṣate sma mahākapiḥ) upon that tiger among rākṣasas, steeped in intoxication (kṣībaṃ rākṣasaśārdūlam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -534,6 +592,12 @@ samvishhThe* = when a scented elephant resides (in it).
 The excellent couch of the sleeping Ravana shone like a great lake when a scented elephant resides
 in it.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The auspicious couch (śayanaṃ śubham) of the sleeping lord of rākṣasas (svapato rākṣasendrasya) shone like the great Mount Prasravaṇa (yathā prasravaṇaṃ mahat) when a scent-elephant reclines upon it (gandhahastini saṃviṣṭe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -563,6 +627,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन्होंने महाकाय राक्षसराज रावणकी फैलायी हुई दो भुजाएँ देखीं, जो सोनेके बाजूबंदसे विभूषित हो इन्द्रध्वजके समान जान पड़ती थीं ॥ १५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He beheld the two outstretched arms (vikṣiptau bhujau) of that mighty-bodied lord of rākṣasas (mahātmano rākṣasendrasya), bound with golden armlets (kāñcanāṅgadasaṃnaddhau) and resembling banners of Indra (indradhvajopamau)—
 </details>
 </details>
 
@@ -605,6 +675,12 @@ diamond; *vishhNuchakraparikshatau* = hit by Vishnu chakra;
 Those arms had wounds made by stabbing from the pointed edges of tusks of Iraavata and fleshy shoulders
 smeared with diamond and hit by Vishnu chakra.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bearing scars made by the crushing thrusts of the tips of Airāvata's tusks (airāvataviṣāṇāgrair āpīḍanakṛtavraṇau), their brawny shoulders grazed by the thunderbolt (vajrollikhitapīnāṃsau), and gashed by Viṣṇu's discus (viṣṇucakraparikṣatau),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -645,6 +721,12 @@ with well grown and equal shoulders; *samgatau* = proportionate to body; *balasa
 
 These arms of Ravana were corpulent with well grown and equal strong shoulders proportionate to
 body, with knees and thumbs of good characteristics, with good fingers and palms.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brawny (pīnau), with symmetrical and nobly formed shoulders (samasujātāṃsau), well-proportioned (saṃgatau), endowed with might (balasaṃyutau), having auspiciously marked nails and thumbs (sulakṣaṇanakhāṅguṣṭhau), and graced with handsome signet-rings (svaṅgulīyakalakṣitau),
 </details>
 </details>
 
@@ -690,6 +772,12 @@ iva* = like five headed snakes; *vikshiptau* = thrown; *subhre shayane* = on cle
 With strong joints in the shape of club, round in shape resembling the trunks of an elephant, like
 five headed snakes thrown on clean couch.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Compactly knit (saṃhatau), shaped like ironstad-bars (parighākārau), rounded (vṛttau), resembling an elephant's trunk (karikaropamau), and flung out upon the white couch (vikṣiptau śayane śubhre) like two five-hooded serpents (pañcaśīrṣāv ivoragau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -712,6 +800,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 खरगोशके खूनकी भाँति लाल रंगके उत्तम, सुशीतल एवं सुगन्धित चन्दनसे चर्चित हुई वे भुजाएँ अलंकारोंसे अलंकृत थीं ॥ १९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Those two arms] were well anointed and richly adorned (svanuliptau svalaṃkṛtau) with priceless, cool, and fragrant sandalwood paste (candanena parārghyeṇa suśītena sugandhinā) resembling the blood of a hare (śaśakṣatajakalpena),
 </details>
 </details>
 
@@ -749,6 +843,12 @@ deva daanava raaviNau* = (which made) yakshas; nagas; gandharvas; devas and daan
 Shoulders well smeared by best sandal with good smell and very cool resembling in color to a hare's
 blood, well decorated, massaged by the best women, served by the best sandal and which made yakshas, nagas, gandharvas,
 devas and daanavaas scream.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Massaged by peerless women (uttamastrīvimṛditau), steeped in the finest perfumes (gandhottamaniṣevitau), and making Yakṣas, Pannagas, Gandharvas, gods, and Dānavas cry out in terror (yakṣapannagagandharvadevadānavarāviṇau).
 </details>
 </details>
 
@@ -790,6 +890,12 @@ Mandara.
 
 That Hanuma saw there arms on the couch like great serpents in anger sleeping in the middle of
 mount Mandara.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkey beheld those two arms of his (dadarśa sa kapis tasya bāhū) resting upon the couch (śayanasaṃsthitau), like two great wrathful serpents (mahāhī ruṣitāv iva) sleeping in a cleft of Mount Mandara (mandarasyāntare suptau).
 </details>
 </details>
 
@@ -859,6 +965,12 @@ That king of Rakshasas equaling a mountain with those shoulders, which were well
 like Mount Mandara with twin peaks.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With those two full and massive [arms] (tābhyāṃ sa paripūrṇābhyām ubhābhyām), the mountain-like lord of rākṣasas (acalasaṃkāśaḥ rākṣaseśvaraḥ) shone like Mount Mandara with its twin peaks (śṛṅgābhyām iva mandaraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -919,6 +1031,14 @@ From the great face of that king of Rakshasas who was sleeping, came out breath 
 like that of flowers of chuuta and punnaaga, consisting of the best fragrance of Vakula flowers, together with
 the flavor of best cooked rice, with the smell of liquor as though filling that house.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** Fragrant with mango and puṃnāga blossoms (cūtapuṃnāgasurabhiḥ), blended with the choicest bakula flowers (bakulottamasaṃyutaḥ), mingled with the savor of exquisite viands (mṛṣṭānnarasasaṃyuktaḥ), and preceded by the aroma of wine (pānagandhapuraḥsaraḥ),
+
+**24:** The breath (viniḥśvāsaḥ) of that sleeping king of rākṣasas (tasya rākṣasarājasya śayānasya) issued forth from his great mouth (niścakrāma mahāmukhāt), as though filling that entire hall (pūrayann iva tad gṛham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -946,6 +1066,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर हनुमन्तनु रावणन मुखवन्नु नोडिदनु. आ मुखवु उज्वलवाद कर्णकुण्डलगळिन्द अलङ्कृतवागित्तु. मुत्तिन मणिगळिन्द चित्रितवागि थळ-थळिसुत्तिद्द सुवर्णखचितवाद, स्वल्प ओरॆयागिद्द किरीटदिन्द कङ्गॊळिसुत्तित्तु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He beheld Rāvaṇa,] whose face wasablaze with earrings (kuṇḍalojjvalitānanam) beneath a golden diadem (kāñcanena mukuṭena) variegated with pearls and gems (muktāmaṇivicitreṇa) that had tilted slightly askew (apavṛttena virājatā),
 </details>
 </details>
 
@@ -975,6 +1101,12 @@ _________________
 
 रावणन वक्षस्थलवु रक्तचन्दनदिन्द लेपितवागित्तु. रत्न हारगळिन्द शोभिसुत्तिद्दु, ऎत्तरवागियू, दप्पवागियू विशालवागियू विराजिसुत्तित्तु.॥26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Who shone with a brawny, long, and broad chest (pīnāyataviśālena vakṣasābhivirājitā) smeared with red sandalwood paste (raktacandanadigdhena) and graced with a resplendent pearl necklace (tathā hāreṇa śobhinā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1003,6 +1135,12 @@ _________________
 
 अवनु बिळुपाद पट्टवस्त्रवन्नु उट्टिद्दनु. निद्दॆयल्लिरुवुदरिन्द अदु स्वल्प अत्त-इत्त सरिदित्तु. हॊम्बण्णद महामौल्यद मेलु हॊदिकॆयिन्द समलङ्कृतवागिद्दनु.॥27॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crimson-eyed (kṣatajekṣaṇam), clad in a white silken lower garment that had slipped askew (pāṇḍureṇāpaviddhena kṣaumeṇa) and well wrapped in a priceless yellow upper garment (mahārheṇa susaṃvītaṃ pītenottaravāsasā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1027,6 +1165,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु उद्दिन राशियन्तॆ नीलवर्णदवनागिद्दनु. महासर्पवु बुसुगुट्टुवन्तॆ अवनु निट्टुसिरुबिडुत्तिद्दनु. रत्नपर्यङ्कदल्लि मलगिद्द अवनु गङ्गानदिय महाप्रवाहदल्लि मलगिरुव आनॆयन्तॆ कङ्गॊळिसुत्तिद्दनु. ॥28॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling a heap of black māṣa beans (māṣarāśipratīkāśam), hissing like a serpent (niḥśvasantaṃ bhujaṃgavat), and looking like an elephant fast asleep (prasuptam iva kuñjaram) in the great waters of the Gaṅgā (gāṅge mahati toyānte),
 </details>
 </details>
 
@@ -1055,6 +1199,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नाल्कू दिक्कुगळन्नु बॆळगुव सुवर्णद नाल्कु दीपगळन्नु रावणन पर्यङ्कद सुत्तलू इट्टिद्दरु. मिञ्चिनिन्द मेघगळु प्रकाशिसुवन्तॆ आ दीपगळिन्द रावणन सर्वाङ्गगळू जाज्वल्यमानवागि बॆळगुत्तिद्दवु.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Illuminated toward all four quarters (dīpyamānaṃ caturdiśam) by four golden lamps (caturbhiḥ kāñcanair dīpaiḥ), his whole body lit up (prakāśīkṛtasarvāṅgam) like a thundercloud by flashes of lightning (meghaṃ vidyudgaṇair iva).
 </details>
 </details>
 
@@ -1118,6 +1268,12 @@ snoring like a hiss of a snake, like an elephant sleeping in the middle of water
 Ganga with all the four directions shone by the four lamps of golden colour, resembling a cloud with all the parts
 being shone by groups of lighting.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And in the mansion of that lord of rākṣasas (tasya rakṣaḥpater gṛhe), who was so fond of his consorts (priyabhāryasya), he also beheld the wives (patnīḥ dadarśa) of that mighty-bodied monarch lying at the soles of his feet (pādamūlagatāś cāpi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1166,6 +1322,12 @@ out.
 
 The leader of Vanaras saw those wives of Ravana with faces with radiance of moon, adorned with
 beautiful earrings, wearing jewellery and flower garlands which were not worn out.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The leader of the monkey host (hariyūthapaḥ) beheld [those wives], whose faces shone like the moon (śaśiprakāśavadanāḥ), who were decked with choice earrings (varakuṇḍalabhūṣaṇāḥ), and whose garlands and ornaments were unwithered (amlānamālyābharaṇāḥ).
 </details>
 </details>
 
@@ -1217,6 +1379,12 @@ being in sleep.
 Hanuma saw wives of Ravana with skill in dance and musical instruments, who obtained the shoulders
 of Ravana wearing the best jewellery and being in sleep.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkey beheld (dadṛśe kapiḥ) those women reclining there (niṣaṇṇāḥ), skilled in dancing and musical instruments (nṛtyavāditrakuśalāḥ), accustomed to entering the lap of the arms of the lord of rākṣasas (rākṣasendrabhujāṅkagāḥ), and wearing choice ornaments (varābharaṇadhāriṇyaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1264,6 +1432,12 @@ and cats eye gems; *taapaniiyaani* = and having golden colour.
 
 He saw earrings of those women at the end of ears with embedded diamonds and cats eye gems and
 having golden colour.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the tips of the ears of those women (śravaṇānteṣu yoṣitām), he beheld golden earrings and armlets (dadarśa tāpanīyāni kuṇḍalāny aṅgadāni ca) set within with diamonds and cat's-eye gems (vajravaidūryagarbhāṇi).
 </details>
 </details>
 
@@ -1315,6 +1489,12 @@ _________________
 With the faces of those women with delicate earrings which were equal to moon and auspicious that
 house shone like the sky with clusters of stars.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With their auspicious, moon-like faces (tāsāṃ candropamair vaktraiḥ śubhaiḥ) graced with lovely earrings (lalitakuṇḍalaiḥ), that aerial palace shone forth (virarāja vimānaṃ tat) like the sky with clusters of stars (nabhas tārāgaṇair iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1360,6 +1540,12 @@ house shone like the sky with clusters of stars.
 
 Women of that Ravana being tired from lustful passion and exertion and having lean waists slept
 at first opportunity.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exhausted by intoxication and amorous sport (madavyāyāmakhinnās tāḥ), those slender-waisted wives of the lord of rākṣasas (rākṣasendrasya yoṣitaḥ tanumadhyamāḥ) lay fast asleep in various spots (teṣu teṣv avakāśeṣu prasuptāḥ).
 </details>
 </details>
 
@@ -1410,6 +1596,12 @@ dance postures.
 Another woman with skill in dancing consisting of delicate body postures slept in the same way
 with all her body parts making the same dance postures.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And another woman of peerless complexion (anyā varavarṇinī), graceful in dance (nṛtyaśālinī) with her delicate dramatic postures (aṅgahārais tathaiva komalaiḥ), lay fast asleep (prasuptā) with all her auspicious limbs artistically poised (vinyastaśubhasarvāṅgī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1457,6 +1649,12 @@ with all her body parts making the same dance postures.
 One woman hugging veena and sleeping was shining like a lotus plant thrown away by the flow of
 a great river and resorting a boat.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+One woman, fast asleep embracing her vīṇā (kācid vīṇāṃ pariṣvajya prasuptā), shone forth (samprakāśate) like a cluster of lotus-plants swept along a great river (mahānadīprakīrṇeva nalinī) that has lodged against a boat (potam āśritā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1503,6 +1701,12 @@ boy with love.
 
 Another woman with black eyes sleeping with an instrument called madduka under arm pit shone like
 a woman carrying an infant boy with love.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Another dark-eyed beauty (anyā asitekṣaṇā bhāminī), fast asleep with a maḍḍuka drum tucked right under her arm (kakṣagatenaiva maḍḍukena), shone like a tender mother with her infant son (bālaputreva vatsalā).
 </details>
 </details>
 
@@ -1554,6 +1758,12 @@ _________________
 A woman with beautiful body features and with beautiful breasts slept tightly and hugged instrument
 called pataha as though hugging a lover, getting him after a long time.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A fair-bosomed woman of lovely limbs (cārusarvāṅgī śubhastanī) slept pressing a paṭaha drum to herself (paṭahaṃ nyasya śete), like an enamored woman (kāminīva) embracing her lover after winning him back after a long separation (cirasya ramaṇaṃ labdhvā pariṣvajya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1601,6 +1811,12 @@ like a woman with lust; *gR^ihya* = holding; *priyatamam* = (her) lover; *rahaH*
 
 Another woman with lotus like eyes hugging a flute slept like a woman with lust holding her lover
 in secret.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+One lotus-eyed woman (kācit kamalalocanā) slept embracing her vīṇā [or flute] (vīṇāṃ pariṣvajya suptā), just like a passionate woman (sakāmeva hi kāminī) clasping her noble, dearly beloved lover (varaṃ priyatamaṃ gṛhya).
 </details>
 </details>
 
@@ -1652,6 +1868,12 @@ with her lover.
 Another woman skilled in dance obtained sleep getting an instrument like veena and being in tune
 with it like a woman together with her lover.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Another woman, devoted to her art and skilled in dance (anyā niyatā nṛtyaśālinī), had fallen under the sway of sleep (nidrāvaśam anuprāptā) clasping her vipañcī lute (vipañcīṃ parigṛhya), like a passionate lady lying beside her beloved (sahakānteva bhāminī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1701,6 +1923,12 @@ gold; *mR^idupiinaiH* = and which were smooth and fleshy.
 
 Another woman with lusty eyes slept hugging a percussion instrument called mridanga with her body
 parts which were pleasant which resembled gold and which were smooth and fleshy.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And another woman with intoxicated eyes (anyā mattalocanā) lay fast asleep (prasuptā), clasping a mṛdaṅga drum (mṛdaṅgaṃ parividdhya) with her charming, soft, and rounded limbs that shone like gold (kanakasaṃkāśair mṛdupīnair manoramaiḥ aṅgaiḥ).
 </details>
 </details>
 
@@ -1752,6 +1980,12 @@ not to be blamed; *suptaa* = slept; *madakR^itasramaa* = due to tiresomeness fro
 Another woman with thin stomach, who was not to be blamed, slept due to tiresomeness from lust
 together with an instrument called Padama between her shoulders and reaching arm pits.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Another blameless, slender-waisted woman (kṛśodarī anindyā), fatigued by intoxication (madakṛtaśramā), slept together with a paṇava drum (paṇavena saha suptā) tucked under her arm within the noose of her embrace (bhujapāśāntarasthena kakṣagena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1802,6 +2036,12 @@ her husband; *vastham* = and also her child;
 Another woman with an instrument called Dindima near her slept in the same way as a woman hugging
 her husband and also her child.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Another passionate woman (anyā bhāminī), devoted to her ḍiṇḍima drum (tathaivāsaktaḍiṇḍimā), lay fast asleep clasping her ḍiṇḍima (ḍiṇḍimaṃ parigṛhya prasuptā), as though embracing both her young lover and her child (taruṇaṃ vatsam upaguhyeva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1850,6 +2090,12 @@ petals; *prasuptaa* = slept; *kR^itvaa* = making; *aaDambaram* = the instrument 
 
 Another woman with eyes like lotus petals slept making the instrument called adambara pressing
 it by her shoulders being desired by lust.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And one lotus-petal-eyed woman (kācin nārī kamalapatrākṣī), bewildered by intoxication (madamohitā), lay fast asleep after pressing an āḍambara drum tightly in the embrace of her arms (āḍambaraṃ bhujasambhogapīḍitaṃ kṛtvā).
 </details>
 </details>
 
@@ -1901,6 +2147,12 @@ spring.
 Another woman sleeping, felling down a small pot, shone like a flower garland with the flowers
 of strange hue made auspicious in spring.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Another lovely woman (anyā bhāminī), fast asleep after overturning a water-pitcher (kalaśīm apaviddhya prasuptā), shone like a variegated flower-garland in spring (vasante puṣpaśabalā māleva) that has been freshly sprinkled with water (parimārjitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1948,6 +2200,12 @@ hugging; *kuchau* = her breasts; *suvarNkalashopamau* = resembling golden pots; 
 
 Another woman slept hugging her breasts resembling golden pots by her hands, overcome with sleep.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And one delicate woman (kācid abalā), overcome by the power of sleep (nidrābalaparājitā), slept clasping with both hands (pāṇibhyāṃ copaguhya) her own breasts that resembled golden pitchers (kucau suvarṇakalaśopamau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1994,6 +2252,12 @@ Another woman slept hugging her breasts resembling golden pots by her hands, ove
 
 Another woman with eyes like lotus petals, with her face resembling full moon, overcome with lust
 slept hugging another woman with a beautiful hip region.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And another lotus-petal-eyed woman (anyā kamalapatrākṣī) whose face resembled the full moon (pūrṇendusadṛśānanā), languid with intoxication (madavihvalā), lay fast asleep embracing another fair-hipped woman (anyām āliṅgya suśroṇīm).
 </details>
 </details>
 
@@ -2044,6 +2308,12 @@ with breasts; *kaaminyaH kaamukaaniva* = as though lustful woman with lusty men;
 Some excellent women slept hugging strange instruments and pressing them with breasts as though
 lustful woman with lusty men.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing their variegated musical instruments (ātodyāni vicitrāṇi pariṣvajya) and pressing them tightly against their breasts (nipīḍya ca kucaiḥ), those noble women slept like passionate women clasping their lovers (kāminyaḥ kāmukān iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2093,6 +2363,12 @@ women; *ruupasampannaam striyam* = a very beautiful woman; *syaanaam* = sleeping
 That Hanuma saw among those women a very beautiful woman sleeping on an auspicious couch arranged
 alone at a side.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, sleeping upon an auspicious couch set apart from those women (tāsām ekāntavinyaste śayānāṃ śayane śubhe), the monkey beheld a woman endowed with peerless beauty (dadarśa rūpasampannām atha tāṃ sa kapiḥ striyam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2120,6 +2396,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ नारीमणियु मुत्तिन मणिगळिन्द निर्मितवाद सुन्दरवाद ऒडवॆगळिन्द समलङ्कृतवागिद्दळु. दिव्यवाद हागू श्रेष्ठवाद आ भवनवन्ने तन्न अङ्गकान्तियिन्द बॆळगिसुत्तिरुवळो ऎम्बन्तॆ काणुत्तिद्दळु. ॥51॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Richly adorned with ornaments set with pearls and gems (muktāmaṇisamāyuktair bhūṣaṇaiḥ suvibhūṣitām), and seeming by her own radiance to adorn that supreme mansion (vibhūṣayantīm iva ca svaśriyā bhavanottamam),
 </details>
 </details>
 
@@ -2198,6 +2480,14 @@ That Hanuma with great arms seeing the woman well decorated, out of logic though
 Seetha by the wealth of her appearance and her youth". That warrior of Vanaras was delighted together with great
 pleasure.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**52:** Fair-complexioned (gaurīm), radiant with the hue of gold (kanakavarṇābhām), the dearly beloved queen of the inner apartments (iṣṭām antaḥpureśvarīm)—the monkey [beheld] Mandodarī sleeping there, of lovely form (kapir mandodarīṃ tatra śayānāṃ cārurūpiṇīm).
+
+**53:** Beholding her thus adorned (sa tāṃ dṛṣṭvā bhūṣitām), the mighty-armed son of the Wind-god (mahābāhur mārutātmajaḥ) conjectured from her wealth of beauty and youth (rūpayauvanasampadā), ‘This is Sītā!’ (tarkayāmāsa sīteti); and filled with immense joy, the leader of the monkey host rejoiced (harṣeṇa mahatā yukto nananda hariyūthapaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2262,5 +2552,11 @@ simian nature, climbed pillars and fell down on land.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि हत्तनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He slapped his arms (āsphoṭayāmāsa), kissed his tail (cucumba puccham), rejoiced, gambolled, sang, and paced about (nananda cikrīḍa jagau jagāma); he climbed the pillars and leaped down to the ground (stambhān arohan nipapāta bhūmau), displaying his own innate monkey nature (nidarśayan svāṃ prakṛtiṃ kapīnām).
 </details>
 </details>

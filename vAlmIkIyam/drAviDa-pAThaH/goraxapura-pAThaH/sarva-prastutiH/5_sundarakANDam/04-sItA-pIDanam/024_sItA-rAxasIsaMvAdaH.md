@@ -70,6 +70,12 @@ _________________
 Thereafter ogre women with a cruel nature, with crooked faces neared that Seetha and spoke unpleasant
 words harshly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then all those deformed-faced ogresses (rākṣasyaḥ vikṛtānanāḥ) together spoke harsh and unpleasant words to Sītā, who was wholly undeserving of harshness (paruṣānarhām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +117,12 @@ _________________
 
 "O Seetha! Why are you not agreeing to stay in the gynaeceum pleasing to all beings together with
 very best beds."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Why, O Sītā, do you not consent to reside (vāsam anumanyase) in the inner apartments (antaḥpure), delightful to all beings and furnished with priceless couches?
 </details>
 </details>
 
@@ -155,6 +167,12 @@ _________________
 "You who are a human are thinking highly about the wifehood of a human being. Withdraw your mind
 from Rama. Otherwise you will not exist at all."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Being a human woman (mānuṣī), you prize wifehood to a mere mortal (mānuṣasyaiva bhāryātvam). Withdraw your heart from Rāma (pratyāhara mano rāmāt); such [a reunion] shall never come to pass.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -193,6 +211,12 @@ from Rama. Otherwise you will not exist at all."
 
 "Sport according to your comfort coming together with the king of ogres Ravana enjoying luxuries
 of the three worlds and taking him as husband.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching as your husband Rāvaṇa, lord of the rākṣasas and enjoyer of the wealth of the three worlds (trailokyavasubhoktāram), take your pleasure at ease (viharasva yathāsukham).
 </details>
 </details>
 
@@ -244,6 +268,12 @@ Rama; *maanushham* = who is a human; *bhrashhTam* = banished; *raajyaat* = from 
 "O beautiful one! O irrreproachable one! But being a human you are desiring that Rama who is a
 human, banished from kingdom, unsuccessful and gloomy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Being a human woman, O lovely and blameless one (anindite), you desire that mortal Rāma, who has fallen from his kingdom (rājyād bhraṣṭam), failed in his purpose, and become despondent (viklavantam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -282,6 +312,12 @@ vachanam* = these words; *netraabhyaam* = with eyes; *ashrupuurNaabhyaam* = fill
 
 Seetha with eyes like lotuses hearing the words of ogre women spoke these words with eyes filled
 with tears.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the speech of the ogresses, lotus-eyed Sītā (padmanibhekṣaṇā), with both eyes brimming with tears (netrābhyām aśrupūrṇābhyām), spoke these words:
 </details>
 </details>
 
@@ -326,6 +362,12 @@ in your; *manasi* = mind;
 "All of you coming together whatever words which are hated in the world you spoke in my matter,
 this does it not seem sinful in your mind?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This sinful speech, reviled by the world (lokavidviṣṭam), which you utter all together (saṃgatāḥ)—this wicked word (kilbiṣam) finds no place in my mind.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -366,6 +408,12 @@ kaamam* = freely; *khaadata* = eat; *maam* = me; *na karishhyaami* = I will not 
 "Human woman is not waited to become wife of an ogre. All of you freely eat me. I will not honour
 your words."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A human woman ought not to become the wife of a rākṣasa (rākṣasasya bhāryā). Devour me at your pleasure (kāmaṃ khādata mām), all of you; I shall never do your bidding.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -390,6 +438,12 @@ your words."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न पतियु दीननागिरली, राज्यहीननागिरली, अवने ननगॆ गुरुवु. सुवर्चला देवियु सूर्यनल्लिरुवन्तॆ नानु सदा काल पतियल्ले अनुरक्तळागिरुववळु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whether wretched (dīno vā) or bereft of his kingdom (rājyahīno vā), he who is my husband is my venerated preceptor (sa me guruḥ); to him I am ever devoted, even as Suvarcalā is to the Sun (sūryaṃ suvarcalā),
 </details>
 </details>
 
@@ -463,6 +517,16 @@ on the Moon God, like Lopamudra on Agastya, like Sukanya on Chyavana, like Savit
 on Kapila, like Madayanti on Saudasa, like Kesini on Sagara, like Damayanti the daughter of Bhima, devoted to
 husband Nala, in the same way I am devoted to my husband Rama, the best in Ikshvaku dynasty."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** even as blessed Śacī waits upon Śakra (śakraṃ samupatiṣṭhati), and Arundhatī upon Vasiṣṭha, and as Rohiṇī attends the Moon (śaśinam),
+
+**11:** as Lopāmudrā attends Agastya, as Sukanyā attends Cyavana, as Sāvitrī attends Satyavān, and as Śrīmatī attends Kapila,
+
+**12:** likewise as Madayantī is devoted to Saudāsa, as Keśinī to Sagara, and as Bhīma's daughter Damayantī (damayantīva bhaimī) is devoted to her husband Nala, lord of Niṣadha (naiṣadham)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -510,6 +574,12 @@ _________________
 
 Ogre women incited by Ravana listening to the words of Seetha, swooned with anger and frightened
 Her with harsh words.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—even so am I devoted to my husband Rāma, the best of the Ikṣvākus (ikṣvākuvaraṃ rāmam).” Hearing Sītā's words, the ogresses, convulsed with wrath (krodhamūrcchitāḥ) and instigated by Rāvaṇa, reviled her with harsh speeches.
 </details>
 </details>
 
@@ -560,6 +630,12 @@ not talking; *avaliinaH* = (and) hiding; *shiMshupaa drume* = in the Simsupa tre
 That monkey Hanuma not talking and hiding in the Simsupa tree listened to those ogre women frightening
 Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concealed (avalīnaḥ) and silent (nirvākyaḥ) in the śiṃśapā tree, that monkey Hanumān listened to those ogresses menacing Sītā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -609,6 +685,12 @@ lips.
 Nearing that Seetha shaking with fear in all directions, those ogres being angry licked a lot shining
 and hanging lips.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching her from all sides as she trembled (vepamānām), the furious ogresses (saṃrabdhāḥ) repeatedly licked (saṃlilihuḥ) their gleaming, pendulous lips (pralambān daśanacchadān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -628,6 +710,12 @@ and hanging lips.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उनका क्रोध बहुत बढ़ा हुआ था । वे सब-की-सब तुरंत हाथोंमें फरसे लेकर बोल उठीं—‘यह राक्षसराज रावणको पतिरूपमें पानेयोग्य है ही नहीं’ ॥ १६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seizing battle-axes (paraśvadhān) in haste, they cried out in supreme rage: “This woman does not deserve Rāvaṇa, overlord of the rākṣasas, as her husband!”
 </details>
 </details>
 
@@ -695,6 +783,12 @@ the king of ogres Ravana as husband."
 Being frightened by ogre women who were horrible that Seetha with best face with tears in eyes
 and moving from there reached that Simsupa tree.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reviled by those dreadful ogresses (bhīmābhī rākṣasībhiḥ), that noble lady (varāṅganā), wiping away her tears (bāṣpam apamārjantī), approached that very śiṃśapā tree.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -746,6 +840,12 @@ surrounded; *raakshasiibhiH* = by ogre women; *tasthau* = was situated (there); 
 Thereafter the wide eyed Seetha nearing that Simsupa tree being surrounded by ogre women was situated
 there with gloom.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, surrounded by the ogresses, wide-eyed Sītā (viśālākṣī) reached that śiṃśapā tree and stood there overwhelmed with grief (śokapariplutā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -775,6 +875,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वे बहुत ही दुर्बल हो गयी थीं । उनके मुखपर दीनता छा रही थी और उन्होंने मलिन वस्त्र पहन रखा था । उस अवस्थामें उन जनकनन्दिनीको चारों ओर खड़ी हुई भयानक राक्षसियोंने फिर धमकाना आरम्भ किया ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounding her on all sides, those dreadful ogresses reviled (bhartsayāñcakrire) that emaciated lady of downcast countenance (kṛśāṃ dīnavadanām), clad in soiled garments (malināmbaravāsinīm).
 </details>
 </details>
 
@@ -838,6 +944,12 @@ to Her.
 Thereafter an ogre woman named Vinata with a horrible appearance with an angry form, crooked, having
 a prominent belly spoke to Her.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then a hideous ogress named Vinatā (vinatā nāma rākṣasī), of wrathful aspect (kupitākārā), snag-toothed (karālā), and sunken-bellied (nirṇatodarī), spoke:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -887,6 +999,12 @@ excessively; *upakalpate* = serves as; *vyasanaaya* = vice ;
 "O Seetha! You have showed love of husband. This much is enough. O auspicious one! At all times
 doing something excessively serves as vice."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Sītā, enough (paryāptam etāvat)! Your affection for your husband has been demonstrated (bhartuḥ snehaḥ pradarśitaḥ). Excess in anything (sarvatrātikṛtam), O good lady, leads only to calamity (vyasanāyopakalpate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -927,6 +1045,12 @@ vachaH api* = words also;bruvantyaaH = (which are) being told;
 "O Seetha! I am happy. Human duty has been done by you. Let there be fortune to you. Do also according
 to my wholesome words being told."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I am well pleased; auspiciousness be unto you (bhadraṃ te)! You have fulfilled the human code of conduct (mānuṣas te kṛto vidhiḥ). Now heed my wholesome counsel (vacaḥ pathyam) as I speak, O Maithilī.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -954,6 +1078,12 @@ _________________
 
 ऎलै सीतॆ! ओर्व मानवस्त्रीय धर्मवन्नु नीनु चॆन्नागि आचरिसिद्दिये. इदरिन्द ननगॆ सन्तोषवागिदॆ. निनगॆ मङ्गळवागलि. आदरॆ निनगॆ हितवागुवुदन्नु नानु हेळुत्तेनॆ. अदरन्तॆ नडॆ.॥23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accept as your husband Rāvaṇa, the lord of all rākṣasas, who is valorous and rushing into battle (vikrāntam āpatantaṃ ca) like Vāsava, lord of the gods (sureśam iva vāsavam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -975,6 +1105,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘दीन-हीन मनुष्य रामका परित्याग करके सबसे प्रिय वचन बोलनेवाले, उदार और त्यागी रावणका आश्रय लो ॥ २४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Abandoning the wretched mortal Rāma (mānuṣaṃ kṛpaṇaṃ rāmam), resort to Rāvaṇa, who is courteous (dakṣiṇam), munificent (tyāgaśīlaṃ ca), and kindly-spoken toward all (sarvasya priyavādinam).
 </details>
 </details>
 
@@ -1042,6 +1178,12 @@ of all the worlds; *adyaprabhR^iti* = from today.
 "Leaving Rama who is a human and miserable, seek refuge in Ravana. O Seetha! With best unguents
 to the body and decorated with best ornaments, become mistress of all the worlds from today."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Adorned with celestial unguents (divyāṅgarāgā), O Vaidehī, and decked in divine ornaments (divyābharaṇabhūṣitā), from this day forth (adyaprabhṛti) become the sovereign mistress of all the worlds (lokānāṃ sarveṣām īśvarī)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1089,6 +1231,12 @@ to the body and decorated with best ornaments, become mistress of all the worlds
 "O auspicious one! Like Svaha the wife of the Fire God, like Sachi the wife of Indra become mistress
 of all worlds. O Seetha! What is the use with Rama who is miserable and with gone vigour."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like Goddess Svāhā unto Agni, or Śacī unto Indra, O lovely one, what use have you, O Vaidehī, for wretched Rāma whose life is spent (kṛpaṇena gatāyuṣā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1133,6 +1281,12 @@ this spoken word; *vayam sarvaaH* = all of us; *asmin* = in this; *muhuurte* = m
 **अनुवादः**
 
 If you do not do my this spoken word, all of us in this moment will eat you.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And if you will not carry out this word spoken by me, within this very hour (asmin muhūrte) all of us shall devour you (bhakṣayiṣyāmahe vayam)!”
 </details>
 </details>
 
@@ -1179,6 +1333,12 @@ kupitaa* = with anger; *abraviit* = spoke; *siitaam* = to Seetha.
 **अनुवादः**
 
 Another ogre named Vikata with hanging breasts raising fist and roaring with anger spoke to Seetha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then another ogress named Vikaṭā (vikaṭā nāma), with pendulous breasts (lambamānapayodharā), raised her fist (muṣṭim udyamya) and, menacing her (tarjatī), spoke in wrath to Sītā:
 </details>
 </details>
 
@@ -1227,6 +1387,12 @@ _________________
 
 "O Seetha with an evil mind! Your many words which are unpleasant have been tolerated due to pity
 and due to softness."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Many unseemly words (bahūny apratirūpāṇi vacanāni) of yours, O utterly foolish woman (sudurmate), have been endured (soḍhāni) out of compassion and gentleness (anukrośān mṛdutvāc ca), O Maithilī.
 </details>
 </details>
 
@@ -1291,6 +1457,14 @@ have entered; *ghoram* = terrible; *raavaNaanantaHpuram* = gynaeceum of Ravana.
 have been brought to this bank of the ocean not obtainable by others. You have entered the terrible gynaeceum
 of Ravana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** Yet you do not heed our salutary speech suited to the occasion (hitaṃ kālapuraskṛtam). You have been brought across to the farther shore of the ocean (samudrasya pāram), unassailable by others (anyair durāsadam).
+
+**31:** “Moreover, O Maithilī, you have entered Rāvaṇa's dreadful inner apartments (rāvaṇāntaḥpure ghore); confined in Rāvaṇa's house (rāvaṇasya gṛhe ruddhā), you are closely guarded by us (asmābhis tv abhirakṣitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1310,6 +1484,12 @@ of Ravana."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मैथिलि! साक्षात् इन्द्र भी यहाँ तुम्हारी रक्षा करनेमें समर्थ नहीं हो सकते । अतः मेरा कहना मानो, मैं तुम्हारे हितकी बात बता रही हूँ ॥ ३२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not even Purandara in person (api sākṣāt puraṃdaraḥ) is able to rescue you (paritrātum). Heed my words, O Maithilī, as I speak for your welfare (hitavādinyā).
 </details>
 </details>
 
@@ -1374,6 +1554,12 @@ to) my word; *hitavaadinyaaH* = (which is) beneficial; *ashruprapaatena* = disch
 "O Seetha! Do according to my word, which is beneficial. Discharge of tears is enough. Leave worthless
 gloom."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enough with this shedding of tears (alam aśrunipātena)! Cast aside useless grief (tyaja śokam anarthakam); embrace affection and delight (bhaja prītiṃ praharṣaṃ ca), abandoning your perpetual wretchedness (nityadainyatām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1401,6 +1587,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सीते! राक्षसराज रावणके साथ सुखपूर्वक क्रीडाविहार करो । भीरु! हम सभी स्त्रियाँ जानती हैं कि नारियोंका यौवन टिकनेवाला नहीं होता ॥ ३४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O Sītā, sport at ease (parikrīḍa yathāsukham) with the king of the rākṣasas! We know well, O timid one (bhīru), how transient is the youth of women (strīṇāṃ yauvanam adhruvam).
 </details>
 </details>
 
@@ -1467,6 +1659,14 @@ avaapnuhi* = get; *sukham* = comfort.
 "O timid one! You know how youth of women is not lasting. As long as your youth will not pass away,
 so long get comfort."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**35:** Before it passes away from you (yāvan na te vyatikrāmet), attain happiness (sukham avāpnuhi)! Through delightful gardens and mountain pleasure-groves (parvatopavanāni ca),
+
+**36:** roam in company with the king of the rākṣasas, O lady of intoxicating eyes (madirekṣaṇe)! Thousands of women (strīsahasrāṇi), O fair queen, shall stand at your command (vaśe sthāsyanti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1528,6 +1728,12 @@ nearby forests.
 "O beautiful one! seven thousand women will be in your control. Have as husband Ravana the lord
 of all ogres."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Accept as your husband Rāvaṇa, the lord of all rākṣasas—or else, tearing out your heart (utpāṭya vā te hṛdayam), I shall devour it, O Maithilī,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1569,6 +1775,12 @@ vyaahR^itam vaakyam* = (according to) my spoken word; *yathhvat* = as is; *bhaks
 
 "O Seetha! If you do not do according to my spoken word as is, I will eat your heart indeed by
 plucking it out."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+if you will not duly carry out (na yathāvat kariṣyasi) the word spoken by me!” Then an ogress of cruel aspect named Caṇḍodarī (caṇḍodarī nāma rākṣasī krūradarśanā),
 </details>
 </details>
 
@@ -1639,6 +1851,14 @@ this word.
 "Seeing this woman with eyes like that of a deer, with moving breasts due to fear, abducted by
 Ravana, there occured to me a great desire."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**39:** whirling a great lance (bhrāmayantī mahac chūlam), spoke these words: “Beholding this fawn-eyed woman (hariṇaśāvākṣīm), her breasts trembling with terror (trāsotkampapayodharām),
+
+**40:** abducted by Rāvaṇa, this great craving (daurhṛdo me mahān ayam) has arisen in me: her liver and spleen (yakṛtplīham), her great bosom (mahat kroḍam), her heart together with its vessels (hṛdayaṃ ca sabandhanam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1687,6 +1907,14 @@ sabandhanam* = together with muscle; *antraaNyapi cha* = and entrails; *tathaa* 
 
 "It is my mind to eat the liver, the spleen, flesh above heart and heart together with muscle and
 entrails and the head."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** her limbs as well, and her head (gātrāṇy api tathā śīrṣam)—that I may devour these is my desire (khādeyam iti me matiḥ)!” Then an ogress named Praghasā (praghasā nāma rākṣasī) spoke these words:
+
+**42:** “Let us throttle the neck of this cruel woman (kaṇṭham asyā nṛśaṃsāyāḥ pīḍayāmaḥ)! Why do we sit idle (kim āsyate)? Let it then be reported to the king that the human woman has died (mānuṣī sā mṛteti ha).
 </details>
 </details>
 
@@ -1751,6 +1979,14 @@ delay?"
 "Thereafter let it be known to the king that that human woman has died. He will say thus : "Eat.".
 There is no doubt in this matter."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**43:** “There is no doubt herein: he will say, ‘Devour her (khādateti sa vakṣyati)!’” Then an ogress named Ajāmukhī (ajāmukhī nāma rākṣasī) spoke these words:
+
+**44:** “Slaughtering this woman (viśasyemām), make all the portions of flesh equal (sarvān samān kuruta piṇḍakān); then let us all divide them (vibhajāma tataḥ sarvāḥ), for contention does not please me (vivādo me na rocate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1814,6 +2050,14 @@ of lickables be brought quickly."
 
 Thereafter an ogre woman named Ajamukhi spoke these words : "All of you killing this woman thereafter
 do equal pieces."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**45:** Let drink be brought quickly (peyam ānīyatāṃ kṣipram), and manifold garlands in abundance!” Then an ogress named Śūrpaṇakhā (śūrpaṇakhā nāma rākṣasī) spoke these words:
+
+**46:** “What has been spoken by Ajāmukhī—that alone pleases me (tad eva mama rocate)! Let wine that banishes all sorrow (surā sarvaśokavināśinī) be brought quickly!
 </details>
 </details>
 
@@ -1883,6 +2127,12 @@ we will dance for propitiating Nikumbila."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तनाल्कनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having tasted human flesh (mānuṣaṃ māṃsam āsvādya), let us then dance before Nikumbhilā (nṛtyāmo 'tha nikumbhilām)!” Thus menaced (nirbhartsyamānā) by those deformed ogresses, Sītā, resembling a daughter of the gods (surasutopamā), cast aside her fortitude and wept (dhairyam utsṛjya roditi).
 </details>
 </details>
 

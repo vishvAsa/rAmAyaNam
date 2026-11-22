@@ -71,6 +71,12 @@ Then, in the fresh of the morning those enemy destroyers, Rama and Lakshmana, ar
 riverbank of Ganga keeping sage Vishvamitra ahead of them, which sage has just completed his
 ritualistic chores of dawn. [1-24-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then at clear daybreak (prabhāte vimale), those two tamers of foes, Rāma and Lakṣmaṇa, placing Viśvāmitra—who had completed his morning ritual duties (kṛtāhnikam)—at their head (puraskṛtya), approached the bank of the river Gaṅgā (nadyās tīram upāgatau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ upasthaapya* = nearby positioning auspicious ferryboat; *atha vishvaamitram abru
 All those sages of Kaama's hermitage that are the great souls and scrupulous ones in their
 vows, have positioned an auspicious ferryboat within the reach in the river, and then they
 said to sage Vishvamitra. [1-24-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And all those great-souled sages of whetted ascetic vows (munayaḥ saṃśitavratāḥ), having brought forward an auspicious boat (upasthāpya śubhāṃ nāvam), then spoke to Viśvāmitra:
 </details>
 </details>
 
@@ -167,6 +179,12 @@ not be there - without time-shift.
 "You may board the boat keeping the princes ahead of you, and we wish you to proceed on a
 prosperous route without the shift of time." So said the sages. [1-24-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May your venerable self board the boat, attended by the two royal princes (rājaputrapuraskṛtaḥ); journey along an auspicious, unobstructed path (ariṣṭaṃ gaccha panthānam)—let there be no lapse or delay of time (mā bhūt kālasya paryayaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -206,6 +224,12 @@ tataara* = crossed over.
 
 Sage Vishvamitra on saying 'it must be so,' to those sages and revering them in his turn,
 cruised the river that itself is cruising towards ocean, along with both the princes. [1-24-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saying “So be it!” and honoring those sages in return (tān ṛṣīn pratipūjya ca), Viśvāmitra, accompanied by those two princes, began to cross the river that flows to the ocean (tatāra sahitas tābhyāṃ saritaṃ sāgaraṅgamām).
 </details>
 </details>
 
@@ -262,6 +286,12 @@ On coming to the midstream of water there Rama heard an unusual and increasing n
 waters along with his younger brother, and that brilliant one Rama desired to know its significance.
 [1-24-5, 6a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There, upon reaching the middle of the river’s waters (madhyam āgamya toyasya), Rāma heard a mighty roar swelled by the violent collision of the currents (śabdaṃ toyasaṃrambhavardhitam); and the true cause of that sound (tasya śabdasya niścayam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -305,6 +335,12 @@ sound.
 Rama then asked the eminent sage Vishvamitra in the midst of the river, "what is this turbulent
 sound sire, as though slashing water?" [1-24-6b, 7a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—eager to know (jñātukāmaḥ), the illustrious Rāma, together with his younger brother Lakṣmaṇa, then questioned the foremost of sages in the middle of the river (sarinmadhye papraccha munipuṅgavam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,6 +379,12 @@ nishchayam* = of that, sound's, significance; *kathayaamaasa* = started telling.
 
 On hearing the inquisitive words of Raghava that virtue-souled sage Vishvamitra started to
 tell the significance of that sound. [1-24-7b, 8a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Wherefore is this tumultuous roar of the waters clashing and cleaving against one another (vāriṇo bhidyamānasya kim ayaṃ tumulo dhvaniḥ)?” Hearing Rāghava’s words filled with eager curiosity (kautūhalasamanvitam),
 </details>
 </details>
 
@@ -390,6 +432,12 @@ at will, created - lake is the brainchild of Brahma; *tena* = hence; *idam saraH
 "On Mt. Kailash Brahma created a great lake at his will, oh, tigerly-man Rama, hence that
 is called Maanasa Lake. [1-24-8b, 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The righteous-souled sage declared the true cause of that sound (tasya śabdasya niścayam): “Upon Mount Kailāsa, O Rāma, there is a supreme lake fashioned by the mind (manasā nirmitaṃ param)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -414,6 +462,12 @@ is called Maanasa Lake. [1-24-8b, 9a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ सरोवरदिन्द ऒन्दु नदि हॊरटु अयोध्यापुरियन्नु सुत्तुवरिदु हरियुत्तिदॆ. ब्रह्म सरस्सिनिन्द हॊरट कारण अदु पवित्र सरयू नदि ऎन्दु विख्यातवागिदॆ.॥9½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By Lord Brahmā, O tiger among men; therefore this lake is known as the Mānasa Lake (tenedaṃ mānasaṃ saraḥ). From that lake flowed forth a river which lovingly embraces Ayodhyā (tasmāt susrāva sarasaḥ sāyodhyām upagūhate)—
 </details>
 </details>
 
@@ -464,6 +518,12 @@ is the remarkable noise of such a Sarayu River in its coursing towards River Gan
 by the collision of their waters, and Rama, offer regards to these rivers, respectfully."
 So said Vishvamitra to the princes. [1-24-9b, 10, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The holy river Sarayū, issuing from that lake (saraḥpravṛttā sarayūḥ) and descended from Brahmā’s own pool (brahmasaraścyutā). This peerless roar belongs to her as she flows headlong into the Jāhnavī (Gaṅgā) (tasyāyam atulaḥ śabdo jāhnavīm abhivartate)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -512,6 +572,12 @@ princes proceeded further on reaching the southern riverbank. [1-24-11b, 12a]
 
 अनेन पुण्य-तीर्थे दर्शन-समनन्तरम् एव वन्दनादि-पूजा कर्तव्येति सूचितम् ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Born of the violent agitation of their colliding waters is this sound, O Rāma; with mind collected in reverence, offer your salutation (praṇāmaṃ niyataḥ kuru)!” Having bowed in salutation to both those sacred rivers (tābhyāṃ tu tāv ubhau kṛtvā praṇāmam), those two supremely righteous princes—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -551,6 +617,12 @@ in looks; *aviprahatam* = [a-vi-pra-hatam = not, verily, trodden] = untrodden - 
 
 On seeing a horrendous and uninhibited forest, Rama, the son of the best king Dasharatha asked
 the eminent sage Vishvamitra. [1-24-12b, 13a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—reached the southern bank (tīraṃ dakṣiṇam āsādya) and strode forward with swift paces (jagmatur laghuvikramau). Beholding a forest of terrifying aspect (vanaṃ ghorasaṃkāśaṃ dṛṣṭvā), that son of the foremost of men,
 </details>
 </details>
 
@@ -626,6 +698,14 @@ also, even; *shobhitam* = made to shine - atypical.
 "Various vultures are screeching with fierce sonority, and tigers, wild boars, and elephants
 render this forest atypical. [1-24-14b, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** The scion of Ikṣvāku, seeing it untrodden by human footsteps (aviprahatam), questioned the foremost of sages: “Ah! How impenetrable is this wilderness, swarming with hordes of crickets (aho vanam idaṃ durgaṃ jhillikāgaṇasaṃyutam),
+
+**14:** Strewn with ferocious beasts of prey (bhairavaiḥ śvāpadaiḥ kīrṇam) and vultures of dreadful cry (śakuntair dāruṇāravaiḥ), and echoing with birds of manifold kinds screaming with hideous screeches (nānāprakāraiḥ śakunair vāśyadbhir bhairavasvanaiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -687,6 +767,12 @@ The botanical names of the trees mentioned in the text are Grislea Tormentosa, S
 Echites Antidysenterica, Bignonia Suaveolens, Aegle Marmelos, and Diospyrus Glutinosa. I have
 omitted the Kutaja (Echites) and the Tinduka (Diospyrus). Griffith.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with lions, tigers, wild boars, and elephants as well (siṃhavyāghravarāhaiś ca vāraṇaiś cāpi śobhitam), and overgrown with dhava, aśvakarṇa, kakubha, bilva, tinduka, and pāṭala trees,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -726,6 +812,12 @@ hear - I will tell you, my boy; *kaakutstha* = oh Rama; *etat daaruNam vanam yas
 
 The resplendent and the great saint Vishvamitra then said to Rama, "I will tell you, oh, my
 boy Rama, whose is this wretched forest. [1-24-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And densely tangled with jujube thickets (saṃkīrṇaṃ badarībhiś ca)—what, pray, is this dreadful forest (kiṃ nv idaṃ dāruṇaṃ vanam)?” To him the great sage Viśvāmitra of mighty splendor spoke:
 </details>
 </details>
 
@@ -785,6 +877,12 @@ if hunger is eliminated there will be nothing filthy. Once these provinces were 
 removers equalling to heaven, but deteriorated in their heaven-on-earth attributes, owing
 to demoness Tataka.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hear, my dear child Kākutstha, to whom this dreadful forest belongs (yasyaitad dāruṇaṃ vanam)! In former times, O best of men, there stood here two prosperous and flourishing realms (etau janapadau sphītau pūrvam āstāṃ narottama)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -827,6 +925,12 @@ befell upon.
 when he eliminated demon Vritra, as he committed the sin of killing of a Brahman, where the
 demon Vritra was incidentally a Brahman. [1-24-18b, 19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—named Malada and Karūṣa, fashioned by the workmanship of the gods themselves (maladāś ca karūṣāś ca devanirmāṇanirmitau). In ancient times, O Rāma, upon the slaying of Vṛtra, when the thousand-eyed Indra was overwhelmed with impurity (malena samabhiplutam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -867,6 +971,12 @@ filth.
 "The gods and ascetically rich sages then started to bathe feculent Indra with their handy
 vessels for the riddance of his defilement. [1-24-19b, 20a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ravenous hunger and the sin of brahmahatyā (slaying a Brāhmaṇa) entered into him (kṣudhā caiva sahasrākṣaṃ brahmahatyā samāviśat). That tainted Indra the gods and the sages rich in penance (tam indraṃ malinaṃ devā ṛṣayaś ca tapodhanāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -905,6 +1015,12 @@ thus; *datvaa* = on giving; *tataH devaaH harSam prapedire* = then gods obtained
 
 "On giving filth and hunger emerged out of the body of Mahendra here on the earth then the
 gods were gladdened. [1-24-20b, 21a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathed with sacred water-jars (kalaśaiḥ snāpayām āsuḥ) and freed him of his taint (malaṃ cāsya pramocayan). Having consigned that taint and his ravenous hunger as well here upon the earth (iha bhūmyāṃ malaṃ dattvā devāḥ kārūṣam eva ca)—
 </details>
 </details>
 
@@ -980,6 +1096,14 @@ cha* = as Malada, and Karuusha, also; *loke khyaatim gamiShyataH* = they will at
 attain renown in world as Malada and Karusha." Thus Indra gave boon to this place. [1-24-22b,
 23a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Which had sprung from the body of Mahendra (śarīrajaṃ mahendrasya), the gods then attained great joy (tato harṣaṃ prapedire). When Indra thus became free of taint, free of hunger, and purified of sin (nirmalo niṣkarūṣaś ca śuddha indro yathābhavat),
+
+**22:** Well-pleased, the Lord bestowed a supreme boon upon this land (dadau deśasya suprīto varaṃ prādād anuttamam): ‘These two prosperous realms shall attain renown throughout the world (imau janapadau sphītau khyātiṃ loke gamiṣyataḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1019,6 +1143,12 @@ paakashaasanam* = controller of demon Paaka - to Indra; *abruvan* = said - prais
 
 "On observing the honour accorded by wise Indra to these places gods praised the controller
 of demon Paaka, namely Indra saying, 'splendid, splendid it is.' [1-24-23b, 24a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the Maladas and the Karūṣas, since they bear the taint and hunger from my limbs (maladāś ca karūṣāś ca mamāṅgamaladhāriṇau)!’ ‘Well done! Well done!’—so spoke the gods to Indra, the chastiser of Pāka (sādhu sādhv iti taṃ devāḥ pākaśāsanam abruvan).
 </details>
 </details>
 
@@ -1069,6 +1199,12 @@ etau janapadau* = these people's habitations were affluent; *dhanadhaanyataH mud
 "For a long time these habitations Malada and Karuusha were affluent, oh, enemy subjugator
 Rama, and people were happy with wealth and provisions. [1-24-24b, 25a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that honor bestowed upon the land by the wise Śakra (deśasya pūjāṃ tāṃ dṛṣṭvā kṛtāṃ śakreṇa dhīmatā), the gods acclaimed him. For a long time thereafter, O tamer of foes, these two prosperous realms (etau janapadau sphītau dīrghakālam ariṃdama)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1105,6 +1241,12 @@ Rama, and people were happy with wealth and provisions. [1-24-24b, 25a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कॆल कालान्तरदल्लि इल्लिगॆ इच्छानुसार रूपधरिसुव ओर्व यक्षिणियु बन्दळु. आकॆय शरीरदल्लि ऒन्दु साविर आनॆगळ बलवित्तु.॥25½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Malada and Karūṣa—rejoiced abundantly in wealth and grain (muditā dhanadhānyataḥ). Then, after the lapse of some time (kasyacit tv atha kālasya), a shape-shifting Yakṣiṇī (yakṣiṇī kāmarūpiṇī),
 </details>
 </details>
 
@@ -1172,6 +1314,14 @@ traasayate prajaaH* = always, terrifying, people.
 "That demon Mareecha is round shouldered, huge headed, cavernous mouthed, and gigantic bodied
 one, and he is always terrifying the people. [1-24-27b, 28a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** Possessing the strength of a thousand elephants, came to be there (balaṃ nāgasahasrasya dhārayantī tadā hy abhūt)—Tāṭakā by name, may auspiciousness be yours (tāṭakā nāma bhadraṃ te), the wife of the sagacious Sunda (bhāryā sundasya dhīmataḥ),
+
+**27:** Whose son is the rākṣasa Mārīca, equal in valor to Indra himself (mārīco rākṣasaḥ putro yasyāḥ śakraparākramaḥ)—round-armed, huge-headed, of cavernous mouth and gigantic frame (vṛttabāhur mahāśīrṣo vipulāsyatanur mahān),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1212,6 +1362,12 @@ one, Tataka; *imau janapadau* = these, inhabitations; *maladaan cha karuuSaan ch
 
 "And Raghava, that malevolent Tataka is always destroying the inhabitations at Malada and
 Karusha. [1-24-28b, 29a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A rākṣasa of terrifying form who perpetually terrorizes the people (rākṣaso bhairavākāro nityaṃ trāsayate prajāḥ)! And as for Tāṭakā, she perpetually devastates these two realms, O Rāghava (imau janapadau nityaṃ vināśayati rāghava)—
 </details>
 </details>
 
@@ -1301,6 +1457,14 @@ and assigned by me you have to make this province free from thorniness. [1-24-30
 Great persons accomplish their deeds by their self-confidence, *kriyaasiddhiH sattve bhavati
 mahataam, nopakaraNe* not by their hardware.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** —both Malada and Karūṣa, does that wicked-living Tāṭakā destroy (tāṭakā duṣṭacāriṇī)! Blocking the highway, she dwells at a distance of one and a half yojanas from here (seyaṃ panthānam āvṛtya vasaty atyardhayojane).
+
+**30:** For this very reason we must proceed to the forest of Tāṭakā, since our path lies that way (ata eva ca gantavyaṃ tāṭakāyā vanaṃ yataḥ). Relying upon the might of your own arms, slay this wicked-living demoness (svabāhubalam āśritya jahīmāṃ duṣṭacāriṇīm)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1353,6 +1517,12 @@ hi* = none, not, capable, indeed; [hence make them habitable.]
 "Indeed, none is able to enter this sort of province, Rama, destroyed by the hazardous
 and invincible unearthly being who turned into a demoness, namely Tataka, hence you have to
 make the provinces habitable. [1-24-31b, 32a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By my command, render this region free of thorns once more (manniyogād imaṃ deśaṃ kuru niṣkaṇṭakaṃ punaḥ)! For no one whomsoever is able even to approach so fair a land as this (nahi kaścid imaṃ deśaṃ śakto hy āgantum īdṛśam),
 </details>
 </details>
 
@@ -1408,6 +1578,12 @@ Rama. [1-24-32]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तनाल्कनॆय सर्ग पूर्णवायितु. ॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Which has been laid waste by that dreadful and unbearable Yakṣiṇī, O Rāma (yakṣiṇyā ghorayā rāma utsāditam asahyayā). Thus have I recounted to you in full how this forest became so dreadful (etat te sarvam ākhyātaṃ yathaitad dāruṇaṃ vanam), and how, devastated by that Yakṣī, it still does not recover or desist from her ravages even today (adyāpi na nivartate)!”
 </details>
 </details>
 

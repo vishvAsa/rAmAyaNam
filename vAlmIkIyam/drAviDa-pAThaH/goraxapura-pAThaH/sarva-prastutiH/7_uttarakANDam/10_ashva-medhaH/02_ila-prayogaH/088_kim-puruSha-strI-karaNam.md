@@ -34,6 +34,12 @@ title = "०८८ किम्-पुरुष-स्त्री-करणम�
 
 श्रीरामनु हेळिद इलान चरित्रसम्बन्धी आ कथॆयन्नु केळि लक्ष्मण मत्तु भरतरु इब्बरू बहळ विस्मितरादरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that tale concerning Ila (tāṃ kathām ila-sambaddhām), related in full by Rāma (rāmeṇa samudīritām), both Lakṣmaṇa and Bharata (lakṣmaṇo bharataś caiva) were filled with supreme astonishment (parama-vismitau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -59,6 +65,12 @@ title = "०८८ किम्-पुरुष-स्त्री-करणम�
 
 अवरिब्बरू कैमुगिदु श्रीरामनल्लि महामना राजा इलान स्त्री-पुरुषभावद विस्तृत वृत्तान्तद विषयदल्लि पुनः केळिदरु-॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joining their palms in reverence before Rāma (tau rāmaṃ prāñjalī bhūtvā), they then asked once again (tadā papracchatuḥ punaḥ) for the full account of that condition (vistaraṃ tasya bhāvasya) of that great-souled king (tasya rājño mahātmanaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -83,6 +95,12 @@ title = "०८८ किम्-पुरुष-स्त्री-करणम�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रभो! राजा इलनु स्त्रीयागि बहळ दुर्गति यल्लि बिद्दिरबहुदु. अवनु आ समयवन्नु हेगॆ कळॆदनु? अवनु पुरुषनागिद्दाग याव वृत्तियन्नु आश्रयिसिद्दनु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How did that king, fallen into such distress (durgatiḥ), pass his time when transformed into a woman (strī-bhūto vartayām āsa)? And when he became a man again (puruṣaḥ sa yadā bhūtaḥ), what manner of life did he lead (kāṃ vṛttiṃ vartayaty asau)?”
 </details>
 </details>
 
@@ -111,6 +129,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मण मत्तु भरतर आ कुतूहलपूर्ण मातन्नु केळि श्रीरामचन्द्रनु इलराजन वृत्तान्तवन्नु उपलब्धविरुव रूपदल्ले पुनः हेळलु प्रारम्भिसिदनु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of theirs, filled with eager curiosity (kautūhala-samanvitam), Kākutstha recounted (kathayām āsa) all that befell that king exactly as it had happened (tasya rājño yathāgatam).
 </details>
 </details>
 
@@ -141,6 +165,14 @@ _________________
 
 अनन्तर आ प्रथम मासदल्ले इला त्रिभुवन सुन्दरी नारियागि वनदल्लि सञ्चरिसतॊडगिदळु. मॊदलु अवन सेवकरू स्त्रीरूपदल्लि परिणतरागिद्दरु; अदे स्त्रीयरिन्द परिवृतनागि लोकसुन्दरी कमललोचनॆ इला वृक्षलतॆगळिन्द तुम्बिद ऒन्दु वनदल्लि प्रवेशिसि काल्नडिगॆयल्ले सञ्चरिसतॊडगिदळु.॥5-6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** “During that very first month (tam eva prathamaṃ māsam), having become a woman of world-surpassing beauty (strī-bhūtā loka-sundarī), she was surrounded by those women (tābhiḥ parivṛtā strībhiḥ) who had formerly been his retainers (ye ca pūrva-padānugāḥ).
+
+**6:** “Plunging swiftly into that forest (tat kānanaṃ vigāhyāśu), dense with trees, thickets, and creepers (druma-gulma-latākīrṇam), that lotus-petal-eyed beauty of the world (padma-dalekṣaṇā) wandered sportively on foot (vijahre ... padbhyām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -166,6 +198,12 @@ _________________
 
 आग ऎल्ल वाहनगळन्नु अल्ले बिट्टु इला विस्तृत पर्वतमालॆगळ मध्यभागदल्लि भ्रमण माडतॊडगिदळु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Leaving behind all their mounts on every side (vāhanāni ca sarvāṇi sā tyaktvā vai samantataḥ), Ilā then sported (reme ilā tadā) within that wide recess of the mountain (parvatābhoga-vivare tasmin).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -190,6 +228,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ वनप्रान्तदल्लि पर्वतद बळियल्ले ऒन्दु सुन्दर सरोवरवित्तु. अदरल्लि नाना रीतिय पक्षिगळु कलरव माडुत्तिद्दवु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, in that forest region not far from the mountain (parvatasyāvidūrataḥ), there lay a lake of exceedingly lovely aspect (saraḥ surucira-prakhyam), thronged with flocks of diverse birds (nānā-pakṣi-gaṇair yutam).
 </details>
 </details>
 
@@ -219,6 +263,12 @@ _________________
 आ सरोवरदल्लि तेजस्वी शरीरदिन्द, उदयिसिद पूर्णचन्द्रनन्तॆ प्रकाशिसुत्तिद्द सोमपुत्र बधनु तपस्सु माडुत्तिद्दुदन्नु इलाळु अवनन्नु नोडिदनु..॥9॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therein Ilā then beheld Budha, the son of Soma (dadarśa sā tv ilā tasmin budhaṃ soma-sutaṃ tadā), blazing with his own bodily radiance (jvalantaṃ svena vapuṣā) like the risen full moon (pūrṇa-somam ivoditam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -244,6 +294,12 @@ _________________
 
 अवनु नीरिनॊळगॆ तीव्र तपस्सिनल्लि मुळुगिद्दनु. अवनन्नु पराभव गॊळिसुवुदु यारिगू अत्यन्त कठिणवागित्तु. अवनु यशस्वी, पूर्णकाम मत्तु युवकनागिद्दनु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“performing fierce austerity amid the waters (tapantaṃ ca tapas tīvram ambho-madhye), unapproachable (durāsadam), giver of renown and granter of desires (yaśaskaraṃ kāmakaram), ever steadfast in compassion (kāruṇye paryavasthitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -268,6 +324,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! अवनन्नु नोडि इला चकितळादळु हागू मॊदलु पुरुषरागिद्द स्त्रीयरॊन्दिगॆ नीरिगिळिदु अवरु इडी जलाशयवन्नु क्षुब्धगॊळिसिदरु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Filled with wonder, she stirred up that entire lake (sā taṃ jalāśayaṃ sarvaṃ kṣobhayām āsa vismitā), O delight of the Raghus, together with her attendants who had formerly been men and were now turned into women (sahagaiḥ pūrva-puruṣaiḥ strī-bhūtaiḥ).
 </details>
 </details>
 
@@ -297,6 +359,12 @@ _________________
 
 इलॆयन्नु नोडुत्तले बुधनु मन्मथन बाणगळिगॆ गुरियादनु. अवनिगॆ तनु-मनद ऎच्चरदप्पि, आग नीरिनॊळगे विचलितनादन.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And Budha, the very instant he beheld her (budhas tu tāṃ samīkṣyaiva), fell under the sway of the arrows of Love (kāma-bāṇa-vaśaṃ gataḥ); losing all self-possession then (nopalebhe tadātmānam), he stirred restlessly in the water (sañcacāla tadāmbhasi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,6 +393,12 @@ _________________
 
 इला त्रिलोकदल्लि ऎल्लरिगिन्त हॆच्चु सुन्दरियागिद्दळु. आकॆयन्नु नोडुत्तले बुधनु मनस्सु आकॆयल्लि आसक्तवायितु. ई स्त्री यारु? देवाङ्गनॆयरिगिन्तलू हॆच्चु रूपवतियागिद्दाळॆ. ईकॆ यारु ऎन्दु योचिसतॊडगिदनु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Gazing intently upon Ilā, lovely beyond all the three worlds (trailokyābhyadhikāṃ śubhām), he became wholly absorbed in thought (cintāṃ samabhyatikrāmat): ‘Who indeed is this maiden surpassing the very gods (kā nv iyaṃ devatādhikā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -349,6 +423,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देववनितॆयल्लि, नागवधुगळल्लि, असुर स्त्रीयरल्लि, अप्सरॆयरल्लियू हिन्दॆ इन्तह मनोहर रूपदिन्द शोभिसुव स्त्रीयरन्नु नानु ऎन्दू नोडलिल्ल.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Never among goddesses, nor among nāga maidens (na devīṣu na nāgīṣu), nor among asura women or apsaras (nāsurīṣv apsaraḥsu ca), has any woman ever before been seen by me (dṛṣṭa-pūrvā mayā kācit) adorned with such beauty as this (rūpeṇānena śobhitā)!
 </details>
 </details>
 
@@ -375,6 +455,12 @@ _________________
 
 इवळु बेरॆयवरिगॆ विवाहितवागदिद्दरॆ सर्वथा नन्न पत्नियागलु योग्यवागिद्दाळॆ. हीगॆ योचिसि नीरिनिन्द हॊरगॆ बन्दु तीरक्कॆ बन्दन.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘She would be a fitting match for me (sadṛśīyaṃ mama bhavet), if she belongs to no other (yadi nānya-parigrahaḥ).’ Fixing his mind upon this resolve (iti buddhiṃ samāsthāya), he stepped up from the water onto the bank (jalāt kūlam upāgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -399,6 +485,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ आश्रमक्कॆ होगि आ धर्मात्मनु हिन्दिन ऎल्ल सुन्दरियरन्नु कूगि करॆदनु मत्तु अवरॆल्लरू बन्दु अवनिगॆ प्रणाममाडिदरु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Returning to his hermitage (āśramaṃ samupāgamya), that righteous one then summoned those foremost of women (tatas tāḥ pramadottamāḥ śabdāpayata dharmātmā), and they paid him reverent homage (tāś cainaṃ ca vavandire).
 </details>
 </details>
 
@@ -425,6 +517,12 @@ _________________
 
 आग धर्मात्म बुधनु आ ऎल्ल स्त्रीयरल्लि केळिदनु- ई लोक सुन्दरि नारियु यार पत्नियागिद्दाळॆ मत्तु यातक्कागि इल्लिगॆ बन्दिरुवळु? इदॆल्लवन्नु नीवु बेगने तिळिसिरि.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That righteous sage asked them (sa tāḥ papraccha dharmātmā): ‘Whose lady is this world-surpassing beauty (kasyaiṣā loka-sundarī)? And for what purpose has she come here (kim artham āgatā caiva)? Tell me all without delay (sarvam ākhyāta mā ciram)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -450,6 +548,12 @@ _________________
 
 बुधनु नुडिद मधरवाद आ शुभवचनवन्नु केळि ऎल्ल स्त्रीयरु मधुरवागि हेळिदरु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those auspicious words of his, sweet and framed in mellifluous syllables (madhuraṃ madhurākṣaram), all those women replied in gentle, melodious speech (ūcur madhurayā girā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -474,6 +578,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मन्! ई सुन्दरियु सदा नम्म स्वामिनियागिद्दाळॆ. इवळिगॆ यारू पति इल्ल. ईकॆ नम्मॊन्दिगॆ तन्न इच्छॆगनुसार वन प्रान्तदल्लि सञ्चरिसुत्ता इरुत्ताळॆ.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘This shapely lady ever holds sovereignty over us (asmākam eṣā suśroṇī prabhutve vartate sadā); without a husband (apatiḥ), she wanders with us along the woodland borders (kānanānteṣu sahāsmābhiś caraty asau).’
 </details>
 </details>
 
@@ -503,6 +613,12 @@ _________________
 
 आ स्त्रीयर मातु ऎल्ल रीतियिन्द सुष्पष्टवागित्तु. अदन्नु केळि ब्राह्मण बुधनु पुण्यमयी आवर्तनी विद्यॆ यन्नु स्मरिसिदनु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those words of the women, whose import was veiled (tad vākyam avyakta-padaṃ tāsāṃ strīṇām), that twice-born sage meditated upon the sacred lore called Āvartanī (vidyām āvartanīṃ puṇyām āvartayata sa dvijaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +646,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ राजन विषयद ऎल्ल मातुगळु यथार्थरूपदिन्द तिळिदु मुनिवर बुधनु आ ऎल्ल स्त्रीयरल्लि हेळिदनु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having ascertained the entire truth concerning that king exactly as it had befallen him (so ’rthaṃ viditvā sakalaṃ tasya rājño yathāgatam), that foremost of sages addressed all those women (sarvā eva striyas tāś ca babhāṣe muni-puṅgavaḥ):
 </details>
 </details>
 
@@ -559,6 +681,12 @@ _________________
 
 नीवॆल्लरू किम्पुरुषी ‘किन्नरि’यागि पर्वतद तप्पलिनल्लि इरुविरि. ई पर्वतद मेलॆ शीघ्रवे तनगागि निवास स्थान माडिकॊळ्ळि.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Becoming Kimpuruṣa women here (atra kimpuruṣīr bhūtvā), you shall dwell upon this mountainside (śaila-rodhasi vatsyatha); let a habitation be swiftly established by you upon this mountain (āvāsas tu girāv asmiñ śīghram eva vidhīyatām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -586,6 +714,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पत्र मत्तु फल - मूलगळिन्द निवेल्लरू सदा जीवन निर्वाह माडिरि. मुन्दॆ नीवॆल्ल स्त्रीयरु किम्पुरुष ऎम्ब पतिगळन्नु पडॆयुविर.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Subsisting continually upon roots, leaves, and fruits (mūla-patra-phalaiḥ sarvā vartayiṣyatha nityadā), you women shall obtain husbands known as Kimpuruṣas (striyaḥ kimpuruṣān nāma bhartṝn samupalapsyatha).’
 </details>
 </details>
 
@@ -622,5 +756,11 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऎम्भत्तॆण्टनॆय सर्ग पूर्णवायितु.॥88॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those words of the son of Soma (tāḥ śrutvā soma-putrasya vācam), those manifold women, transformed into Kimpuruṣīs (kimpuruṣī-kṛtāḥ ... vadhvas tā bahulās tadā), took up their abode upon the mountain (upāsāñcakrire śailam).”
 </details>
 </details>

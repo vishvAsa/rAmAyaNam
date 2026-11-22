@@ -77,6 +77,12 @@ thrilling; *samgamam* = converse; *bhraatR^ibhyaam* = between those two brothers
 Witnessing that thrilling converse between those two brothers with incomparable
 dignity, the great sages gathered there were astonished.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that hair-raising meeting of the two brothers of matchless splendor (tam apratima-tejobhyāṃ bhrātṛbhyāṃ roma-harṣaṇam saṅgamaṃ prekṣya), the assembled great sages were filled with wonder (vismitāḥ samavetā maharṣayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,6 +132,12 @@ Bharata; *mahaatmaanau* = the high-souled; *bhraatarau* = brothers (as follows)
 The assemblies of ascetics, great saints present there and the distinguished sages
 who stood invisible in space, applauded both Rama and Bharata, the magnanimous brothers, saying (as
 follows):
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing invisible, the hosts of sages, the Siddhas, and the supreme seers (antarhitās tv ṛṣi-gaṇāḥ siddhāś ca paramarṣayaḥ) praised those two high-souled brothers, the scions of Kakutstha (tau bhrātarau mahātmānau kākutsthau praśaśaṃsire):
 </details>
 </details>
 
@@ -178,6 +190,12 @@ and whose strength is justice; *dhanyaH* = was fortunate; *shrutvaa* = by hearin
 is justice, was fortunate. By hearing the debate between these two princes, we are indeed
 delighted."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Blessed indeed is he whose two sons are such knowers of Dharma and heroes in Dharma (sa dhanyo yasya putrau dvau dharmajñau dharma-vikramau)! Hearing the converse of them both, we ourselves are filled with longing (śrutvā vayaṃ hi sambhāṣām ubhayoḥ spṛhayāmahe).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,6 +246,12 @@ king.
 Thereafter, that assembly of sages, who wished to see a quick destruction of Ravana,
 came together and spoke the following words to Bharata, the excellent king.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the hosts of sages, desiring the slaying of the ten-necked Rāvaṇa (tatas tv ṛṣi-gaṇāḥ daśagrīva-vadhaiṣiṇaḥ), swiftly came together and spoke these words to Bharata, that tiger among kings (kṣipraṃ bharataṃ rāja-śārdūlam ity ūcuḥ saṅgatā vacaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -274,6 +298,12 @@ came together and spoke the following words to Bharata, the excellent king.
 
 "O Bharata born in a noble race, highly intelligent, having a superior conduct and a
 great repute! If you have regard for your father, Rama's words are to be accepted.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O you born in a noble race, O you of great wisdom, of noble conduct, and of high renown (kule jāta mahā-prājña mahā-vṛtta mahā-yaśaḥ), you must accept the word of Rāma if you have regard for your father (grāhyaṃ rāmasya vākyaṃ te pitaraṃ yady avekṣase).
 </details>
 </details>
 
@@ -322,6 +352,12 @@ heaven.
 "We wish to see Rama absolved of all obligations forever to his father. Dasaratha,
 having honoured his pledge to Kaikeyi, indeed went to heaven."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+We wish this Rāma to remain forever free of debt toward his father (sadānṛṇam imaṃ rāmaṃ vayam icchāmahe pituḥ); for it was through his freedom from debt toward Kaikeyī that Daśaratha went to heaven (anṛṇatvāc ca kaikeyyāḥ svargaṃ daśaratho gataḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -367,6 +403,12 @@ went; *svaam svaam* = their respective; *gatim* = abodes.
 
 Having uttered that much, all the celestial musicians and the great sages then went
 to their respective abodes.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken these words, the Gandharvas together with the great sages (etāvad uktvā vacanaṃ gandharvāḥ sa-maharṣayaḥ) and the royal sages as well all departed then to their respective abodes (rājarṣayaś caiva tadā sarve svāṃ-svāṃ gatiṃ gatāḥ).
 </details>
 </details>
 
@@ -414,6 +456,12 @@ auspicious; *shubhadarshanaH* = the good-looking; *raamaH* = Rama; *LaaditaH*
 Hearing those auspicious words, the good-looking Rama looked radiant and worshipped
 those sages with a joyful countenance.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gladdened by that auspicious speech, Rāma of auspicious aspect (hlāditas tena vākyena śubhena śubha-darśanaḥ rāmaḥ), his countenance filled with joy, reverently honored those sages (saṃhṛṣṭa-vadanas tān ṛṣīn abhyapūjayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -459,6 +507,12 @@ again spoke; *idam vaakyam* = these words; *raaghavam* = to Rama;
 
 Bharata, on his part, with trembled limbs, joined his palms in salutation and again
 spoke the following words to Rama in a strangled voice:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Bharata, his limbs gone limp, with folded hands and in a faltering voice (srasta-gātras tu bharataḥ sa vācā sajjamānayā kṛtāñjaliḥ), spoke these words once again to Rāghava (idaṃ vākyaṃ rāghavaṃ punar abravīt):
 </details>
 </details>
 
@@ -506,6 +560,12 @@ mother.
 
 "O, Rama! Keep in view the continuance of our royal statue and the statute of the
 race. You ought to yield to the entreaties of mine and those of your mother."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Considering the Dharma of kings and the unbroken continuity of our family’s Dharma (rāja-dharmam anuprekṣya kula-dharmānusantatim), you ought, O Kakutstha, to fulfill the entreaty of myself and my mother (kartum arhasi kākutstha mama mātuś ca yācanām).
 </details>
 </details>
 
@@ -556,6 +616,12 @@ the beloved; *paurajaanapadaan* = inhabitants of town and country.
 "I am not able to rule this vast empire alone to the satisfaction of the beloved
 inhabitants of town and country!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alone I am unable to protect this vast kingdom (rakṣituṃ sumahad rājyam aham ekas tu notsahe), or likewise to keep the devoted citizens of city and country contented (paura-jānapadāṃś cāpi raktān rañjayituṃ tathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -605,6 +671,12 @@ iva* = as farmers (wait); *parjanyamiva* = for the rainy clouds.
 "Our kith and king, soldiers, companions and allies are waiting for you indeed, as
 farmers wait for the rainy clouds."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For our kinsmen, warriors, allies, and friends (jñātayaś ca hi yodhāś ca mitrāṇi suhṛdaś ca naḥ) look eagerly toward you alone, even as tillers of the soil look toward the rain-cloud (tvām eva pratikāṅkṣante parjanyam iva karṣakāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -650,6 +722,12 @@ you are; *shaktimaan* = competent; *panipaalane* = of administration;
 
 "O, the sagacious Rama! Return to the kingdom and keep it in order. You have the
 competence to save the world!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Accept this kingdom, O you of great wisdom, and establish it firmly (idaṃ rājyaṃ mahā-prājña sthāpaya pratipadya hi); for you have the power, O Kakutstha, to protect the world (śaktimān asi kākutstha lokasya paripālane).”
 </details>
 </details>
 
@@ -697,6 +775,12 @@ deal.
 
 That Bharata, who was kind-spoken, thus made a fervent appeal to Rama and fell at
 his feet.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, Bharata fell at his brother’s feet right then (ity uktvā nyapatad bhrātuḥ pādayor bharatas tadā), and that sweet-spoken prince earnestly implored Rāma alone (bhṛśaṃ samprārthayām āsa rāmam eva priyaṃvadaḥ).
 </details>
 </details>
 
@@ -747,6 +831,12 @@ Rama; *abraviit* = spoke; *vachanam* = (the following) words.
 Placing on his lap, that Bharata of dark hue, with eyes resembling lotus-petals and
 having a voice like that of a swan in rut, Rama spoke the following words to him:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking that brother—dark-complexioned, lotus-petal-eyed, and endowed with the voice of an impassioned swan—upon his own lap (tam aṅke bhrātaraṃ kṛtvā śyāmaṃ nalina-patrākṣaṃ matta-haṃsa-svaraṃ svayam), Rāma spoke these words (rāmo vacanam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -794,6 +884,12 @@ competent; *bhR^isham* = very much; *rakSitum api* = even to rule;
 "O, my dear brother! You are very much competent to rule the earth, by the intellect
 you obtained both inherently and by training."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This intellect that has come to you is both innate and born of humble discipline (āgatā tvām iyaṃ buddhiḥ svajā vainayikī ca yā); you are abundantly capable, dear brother, of protecting the entire earth as well (bhṛśam utsahase tāta rakṣituṃ pṛthivīm api).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -839,6 +935,12 @@ all activities; *sumhaantyapi* = even if they are gigantic.
 
 "Take counsel with your ministers, companions and intelligent counsellors and get
 all activities done, even if they are gigantic."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking counsel with your chief ministers, friends, and wise counselors (amātyaiś ca suhṛdbhiś ca buddhimadbhiś ca mantribhiḥ saṃmantrya), cause all affairs of state, even the greatest, to be carried out (sarva-kāryāṇi sumahānty api kāraya).
 </details>
 </details>
 
@@ -890,6 +992,12 @@ transgress; velaam- the shore; *aham* = (But) I; *na* = will not transgress;
 "Light may go off from the moon; Himalayan mountain may shake off its snows; the sea
 may transgress its shores, but I will never be false to my father's vow!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Splendor may depart from the moon, or Himavān may forsake its snow (lakṣmīś candrād apeyād vā himavān vā himaṃ tyajet), or the ocean may overstep its shore, but I shall never transgress the promise of my father (atīyāt sāgaro velāṃ na pratijñām ahaṃ pituḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -937,6 +1045,12 @@ obey; *maatR^ivat* = towards your mother.
 "My dear brother! Your mother acted thus, for your sake, out of her affection or
 ambition. It should not be carried out in your mind. You ought to obey her as your mother."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whether out of affection or out of greed, dear brother, your mother did this for your sake (kāmād vā tāta lobhād vā mātrā tubhyam idaṃ kṛtam); you must not take that to heart, and you must act toward her as toward a mother (na tan manasi kartavyaṃ vartitavyaṃ ca mātṛvat).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -982,6 +1096,12 @@ kausalyaasutam* = to Rama; *bruvaaNam* = who was speaking; *evam* = thus;
 
 Bharata replied (as follows) to Rama, who was speaking as aforesaid and who was
 equal to sun by his splendour or to the moon in its first quarter.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To Kausalyā’s son as he spoke thus—resplendent as the sun in fiery energy and fair to behold as the crescent moon of the first lunar day (evaṃ bruvāṇaṃ kausalyā-sutaṃ tejasāditya-saṅkāśaṃ pratipac-candra-darśanam)—Bharata spoke (bharato 'bravīt):
 </details>
 </details>
 
@@ -1029,6 +1149,12 @@ bestow; *yogakSemam* = gain and security; *sarva lokasya* = to the entire people
 "O, noble brother! Pray mount with your feet on the wooden sandals adorned with
 gold! Surely, these will bestow, gain and security to all the people!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Mount with your feet, O noble one, these two sandals adorned with gold (adhirohārya pādābhyāṃ pāduke hema-bhūṣite); for these two shall secure the acquisition and preservation of welfare for the entire world (ete hi sarva-lokasya yoga-kṣemaṃ vidhāsyataḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1074,6 +1200,12 @@ gold! Surely, these will bestow, gain and security to all the people!"
 
 Rama, the tiger among men, possessing exceptional glory, placing his feet on the
 sandals and leaving them, gave them to the magnanimous Bharata.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having stepped onto the two sandals and stepped down again, that tiger among men of immense splendor (so 'dhiruhya nara-vyāghraḥ pāduke hy avaruhya ca sumahā-tejāḥ) gave them to the high-souled Bharata (prāyacchad bharatāya mahātmane).
 </details>
 </details>
 
@@ -1141,6 +1273,14 @@ hero and the tormentator of enemies! For fourteen years, I shall wear matted loc
 bark, live on fruits and roots O Rama, and live outside the city, offering the ruling of the
 kingdom to your sandals."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** Bowing low to the two sandals, he spoke these words to Rāma (sa pāduke sampraṇamya rāmaṃ vacanam abravīt): “For fourteen years I too shall wear matted locks and bark-cloth (caturdaśa hi varṣāṇi jaṭā-cīra-dharo hy aham),
+
+**24:** subsisting on fruits and roots, O hero, O delight of the Raghus (phala-mūlāśano vīra bhaveyaṃ raghu-nandana), awaiting your return while dwelling outside the city (tavāgamanam ākāṅkṣan vasan vai nagarād bahiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1180,6 +1320,12 @@ see; *tvaam* = you; *ahani* = on the day; *sampuurNe* = after completion of;
 
 "O, Rama! If I do not see you the following day when the fourteenth year has fully
 ended, I shall enter the fire once for all."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+having entrusted the machinery of royal governance to your two sandals, O scorcher of foes (tava pādukayor nyasta-rājya-tantraḥ parantapa); when the fourteenth year is complete, on the very day, O best of the Raghus (caturdaśe hi sampūrṇe varṣe 'hani raghūttama), if I do not behold you, I shall enter the fire (na drakṣyāmi yadi tvāṃ tu pravekṣyāmi hutāśanam).”
 </details>
 </details>
 
@@ -1222,6 +1368,12 @@ _________________
 
 "So be it" promised Rama, embraced that Bharata with affection, took Shatrughna also
 in his arms and spoke to Bharata as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Promising “So be it!” and embracing him with tender regard (tatheti ca pratijñāya taṃ pariṣvajya sādaram), and embracing Śatrughna as well, he spoke these words to Bharata (śatrughnaṃ ca pariṣvajya bharataṃ cedam abravīt):
 </details>
 </details>
 
@@ -1277,6 +1429,14 @@ tears; *visarjaha* = bade farewell; *bhraataram* = to his brother.
 "O Bharata! Protect your mother, Kaikeyi. Do not get angry with her. You are taken
 vow thus by me and by Seetha." speaking thus, Rama with his eyes filled iwth tears, bade farewell
 to his brother.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** “Protect your mother Kaikeyī; do not harbor anger toward her (mātaraṃ rakṣa kaikeyīṃ mā roṣaṃ kuru tāṃ prati). You are conjured by oath by me and by Sītā, O best of the Raghus (mayā ca sītayā caiva śapto 'si raghu-sattama)!”
+
+**28:** Having spoken thus, with eyes brimming with tears, he bade his brother farewell (ity uktvā 'śru-parītākṣo bhrātaraṃ visasarja ha). Worshipping those two well-adorned sandals, that valorous knower of Dharma, Bharata (sa pāduke te bharataḥ pratāpavān svalaṅkṛte sampariūjya dharmavit), circumambulated Rāghava and placed them upon the head of the foremost elephant (pradakṣiṇaṃ caiva cakāra rāghavaṃ cakāra caivottama-nāga-mūrdhani).
 </details>
 </details>
 
@@ -1338,6 +1498,12 @@ The valiant Bharata, who knew righteousness worshipped those sandals which were
 well-decorated made a circumambulation to Rama and kept the sandals on the head of an excellent
 elephant.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having greeted that multitude, the preceptors, the ministers and subjects, and his two younger brothers in due order of precedence (athānupūrvyāt pratinandya taṃ janaṃ gurūṃś ca mantri-prakṛtīs tathānujau), the increaser of Rāghava’s race bade them farewell, standing firm in his own Dharma like the unshakable Mount Himavān (vyasarjayad rāghava-vaṃśa-vardhanaḥ sthiraḥ sva-dharme himavān ivācalaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1397,6 +1563,12 @@ and; *anujau* = and his brothers; *vyasarjayat* = and bade farewell.
 Rama, the augmentator of Raghu dynasty, being firm as a Himalayan rock in abiding in
 his own righteousness, greeted those men, in accord with their rank, the host of his preceptors,
 ministers, subjects and his brothers and bade farewell to all of them.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His mothers, their throats choked with tears of grief, could not utter a word of farewell to him (taṃ mātaro bāṣpa-gṛhīta-kaṇṭhyo duḥkhena nāmantrayituṃ hi śekuḥ); bowing low to all his mothers and weeping, Rāma entered his own hut (sa tv eva mātṝr abhivādya sarvā rudan kuṭīṃ svāṃ praviveśa rāmaḥ).
 </details>
 </details>
 

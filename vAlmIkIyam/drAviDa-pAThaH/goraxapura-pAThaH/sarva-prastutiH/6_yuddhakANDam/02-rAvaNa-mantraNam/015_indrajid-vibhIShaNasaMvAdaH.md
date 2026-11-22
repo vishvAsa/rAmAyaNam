@@ -83,6 +83,12 @@ Carefully hearing the words of Vibhishana, whose intellect was equal to that of
 Brihaspati (god Of wisdom and eloquence) the high spirited Indrajit, the chief of army of demons
 spoke as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having listened with effort (niśamya yatnena) to that speech of Vibhīṣaṇa, whose intellect equaled Bṛhaspati's (bṛhaspates tulyamateḥ), the mighty Indrajit, chief of the Nairṛta hosts (nairṛtayūthamukhyaḥ), then spoke this word there:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -143,6 +149,12 @@ thing (as you suggest)".
 frightening. Even he who is not born in this race would neither speak such words nor do such a
 thing (as you suggest)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Why indeed, O younger paternal uncle (tāta kaniṣṭha), is your speech so futile and altogether like that of a terrified man (bahubhītavac ca)? Even one not born in this lineage (asmin kule yo 'pi bhaven na jātaḥ) would neither speak nor conceive (naiva vaden na kuryāt) such a thing!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +200,12 @@ courage; *shauryana* = valour; *tejasaacha* = and vital power."
 "In our race, this Vibhishana the youngest uncle is the only individual lacking in
 strength, heroism, prowess, courage, valor and vital powers" W.w m.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This Vibhīṣaṇa, our father's younger brother (tāta kaniṣṭha eṣaḥ), is the sole man in this lineage devoid (ekaḥ kule 'smin puruṣo vimuktaḥ) of innate strength (sattvena), potency (vīryeṇa), martial exertion (parākrameṇa), steadfastness (dhairyeṇa), valor (śauryeṇa), and fiery pride (tejasā ca)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -232,6 +250,12 @@ are you frightening (us); *bhiiro* = O; coward!"
 
 "What after all are those princes who are mere human beings? They can be killed even
 by one very ordinary demon among us. O, coward! Why are you frightening us? "
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What indeed are those two sons of a mortal king (mānuṣarājaputrau)? These two can be slain by even a single ordinary Rākṣasa among us (asmākam ekena hi rākṣasena suprākṛtenāpi); why do you seek to frighten us, O coward (kuto bhīṣayase sma bhīro)?
 </details>
 </details>
 
@@ -288,6 +312,12 @@ quarters."
 down on the floor by me. All the flocks of celestials were cast into fear and all of them fled to
 different quarters."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Was not Śakra [Indra], the king of the gods and lord of the three worlds (trilokanātho devarājaḥ), cast down by me upon the surface of the earth (mayā bhūmitale niviṣṭaḥ)? And at that time all the hosts of the gods in their entirety, stricken with terror (bhayārpitāḥ), fled to the quarters of the sky (diśaḥ prapannāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,6 +373,12 @@ were frightened."
 by me on the floor. I forcibly extracted its teeth and frightened the entire flock of
 celestials."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That elephant Airāvata, trumpeting loudly (niḥsvanam unnadan), was hurled down by me upon the ground (nipātito bhūmitale mayā tu); and having forcibly wrenched out his two tusks (vikṛṣya dantau tu mayā prasahya), I terrified all the hosts of the gods in their entirety (vitrāsitā devagaṇāḥ samagrāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +433,12 @@ who made miserable; *daityottomaanaamapi* = the life of even excellent of the de
 "How can I, with great valor, who suppressed the arrogance of even the celestials
 and who made the lives of even excellent of the demons miserable, not capable of conquering the two
 princes who are ordinary human beings?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How then am I—who am of great valor (suvīryaḥ), the crusher of the pride even of the gods (surāṇām api darpahantā) and the causer of grief even to the foremost Daityas (daityottamānām api śokakartā)—not capable of subduing these two ordinary mortal sons of a king (manuṣyayoḥ prākṛtayoḥ narendrātmajayoḥ)?”
 </details>
 </details>
 
@@ -458,6 +500,12 @@ Hearing those words of Indrajit, who was equal to Indra (god of celestials),
 dangerous to be approached, and possessing great vital power, Vibhishana the excellent one among
 bearers of weapons spoke then the following highly meaningful words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, hearing that speech of that unassailable one of mighty energy who resembled Indra (indrakalpasya durāsadasya mahaujasaḥ), Vibhīṣaṇa, the foremost of weapon-bearers (śastrabhṛtāṃ variṣṭhaḥ), spoke a word of great import (mahārthaṃ vacanam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -513,6 +561,12 @@ too; *aatmavinaashanaaya* = for only your self destruction."
 immature in mind. That is why, many a meaningless word was prattled by you too, for only your
 self-destruction."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O dear son (tāta), you have no settled discernment in counsel (na mantre tava niścayo 'sti); you are still a child of unripe intellect (bālas tvam adyāpy avipakvabuddhiḥ). Therefore, to your own destruction (ātmavināśanāya), much meaningless talk has been babbled by you as well (vaco 'rthahīnaṃ bahu vipralaptam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -567,6 +621,12 @@ self-destruction."
 "In the guise of a son, O, Indrajit, you are an enemy of Ravana putting on the mask
 of a well wisher in that even hearing (from me) of his destruction at the hands of Rama, you are
 blindly agreeing with him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Under the title of Rāvaṇa's son (putrapravādena tu rāvaṇasya), O Indrajit, you are an enemy with the face of a friend (mitramukho 'si śatruḥ), since upon hearing of such destruction for him from Rāghava (rāghavato vināśam), out of delusion you endorse it (mohād anumanyase tvam)!
 </details>
 </details>
 
@@ -627,6 +687,12 @@ also he; *sudurmatiH* = who is very much a fool; *vadhyah* = is to be killed."
 "You surely are fit to be killed. Nay, he too is fit to be killed, who brought you,
 a reckless boy here today and ushered you foolishly in the proximity of counselors".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You yourself deserve death (tvam eva vadhyaḥ), being utterly perverse in mind (sudurmatiś ca), and he too deserves death who brought you here and today admitted a headstrong, rash boy (bālaṃ dṛḍhaṃ sāhasikaṃ ca) into the presence of councillors (mantrakṛtāṃ samīpam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -686,6 +752,12 @@ viishhi* = are thus speaking; *baalatayaa* = because you are a boy."
 evil person, inexperienced and highly evil minded. You are speaking in this manner because you are
 an immature boy".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Deluded (mūḍhaḥ), immature (apragalbhaḥ), devoid of discipline (avinayopapannaḥ), harsh by nature (tīkṣṇasvabhāvaḥ), of scant wit (alpamatiḥ), evil-minded (durātmā), foolish (mūrkhaḥ), and supremely perverse in judgment (atyantasudurmatiś ca)—you speak thus, O Indrajit, out of childishness (bālatayā bravīṣi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -732,6 +804,12 @@ Yama's staff.
 "Who can endure the arrows, discharged by Rama in battle right in front of the
 enemy, which resemble Brahma's (creator's) staff in glory, which present a form similar to that of
 God of Death and are equal to the Yama's staff?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who could endure in battle (ko saheta yudhi) the blazing arrows (arciṣmataḥ bāṇān) loosed face-to-face by Rāghava (samakṣamuktān rāghaveṇa), which shine like the rod of Brahmā (brahmadaṇḍapratimaprakāśān), resemble Death in form (kālanikāśarūpān), and equal the mace of Yama (yamadaṇḍakalpān)?
 </details>
 </details>
 
@@ -802,6 +880,12 @@ bright colored gems and the god-like Sita to Rama, let us live here, free from a
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि हदिनैदनॆय सर्ग पूर्णवायितु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having offered wealth, precious valuables (ratnāni), fine ornaments, celestial garments, variegated gems (maṇīṃś ca citrān), and Queen Sītā to Rāma (sītāṃ ca rāmāya nivedya devīm), let us dwell here free from grief (vasema rājann iha vītaśokāḥ), O king!”
 </details>
 </details>
 

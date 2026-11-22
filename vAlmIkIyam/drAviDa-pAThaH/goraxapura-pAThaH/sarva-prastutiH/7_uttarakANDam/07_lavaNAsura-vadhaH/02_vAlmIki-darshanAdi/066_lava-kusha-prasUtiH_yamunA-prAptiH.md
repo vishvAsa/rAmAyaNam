@@ -39,6 +39,12 @@ _________________
 
 तन्न सैन्यवन्नु मुन्दॆ कळिसि, अयोध्यॆयल्लि ऒन्दु तिङ्गळु इद्दु, शत्रुघ्ननु ऒब्बण्टिगनागि अयोध्यॆयिन्द मधुवनद दारियल्लि वेगवागि होगतॊडगिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On the very night that Śatrughna entered the leaf-hut (yām eva rātriṃ śatrughnaḥ parṇaśālām upāviśat), on that very night Sītā too gave birth to a pair of sons (tām eva rātriṃ sītāpi prasūtā dāraka-dvayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुकुलनन्दन शूर वीर शत्रुघ्ननु दारियल्लि ऎरडु रात्रॆ कळॆदु, मूरनॆय दिन महर्षि वाल्मीकिगळ पवित्र आश्रमक्कॆ तलुपिदनु. अदु ऎल्लक्किन्त उत्तम वासस्थानवागित्तु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then at the midnight hour (tato ’rdharātra-samaye), the young boys, sons of the sages (bālakā muni-dārakāḥ), announced to Vālmīki the joyful news (vālmīkeḥ priyam ācakhyuḥ) of Sītā’s auspicious delivery (sītāyāḥ prasavaṃ śubham):
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 अल्लि अवनु कैमुगिदु मुनिश्रेष्ठ महात्मराद वाल्मीकिगळिगॆ वन्दिसि, इन्तॆन्दनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Blessed One, that wife of Rāma has given birth to twin boys (bhagavan rāma-patnī sā prasūtā dāraka-dvayam); therefore, O greatly effulgent one, perform the protective rite that destroys evil spirits (tato rakṣāṃ mahātejaḥ kuru bhūta-vināśinīm)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +140,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूज्यरे! नानु अण्णनाद श्रीरघुनाथन कार्यदिन्द इत्त बन्दिरुवॆनु. इन्दिन इरुळन्नु इल्लि कळॆयलु निश्चयिसिद्देनॆ. नाळॆ बॆळिग्गॆ वरुणन पश्चिमदिक्किगॆ हॊरटु होगुवॆनु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of theirs (teṣāṃ tad vacanaṃ śrutvā), the great sage came forth (maharṣiḥ samupāgamat) [to see the twins] resembling young moons, like sons of the gods, of mighty splendor (bālacandra-pratīkāśau devaputrau mahaujasau);
 </details>
 </details>
 
@@ -151,6 +175,12 @@ _________________
 
 शत्रुघ्नन मातन्नु केळि मुनिवर्य वाल्मीकिगळु आ महात्मनिगॆ नगुत्ता उत्तरिसिदरु-महायशस्वी वीरने! निनगॆ स्वागतविदॆ.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+he went thither with delighted heart (jagāma tatra hṛṣṭātmā) and beheld the two young boys (dadarśa ca kumārakau), and wrought for them a spirit-slaying protection that destroys rākṣasas (bhūtaghnīṃ cākarot tābhyāṃ rakṣāṃ rakṣo-vināśinīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +208,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सौम्य! ई आश्रमवु रघुवंशीयरिगॆ तम्म मनॆये आगिदॆ. नीनु निःशङ्कनागि नानु नीडुव आसन, पाद्य, अर्घ्य स्वीकरिसु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking a fistful of kuśa grass tips and its lower cuttings as well (kuśa-muṣṭim upādāya lavaṃ caiva tu), that twice-born sage Vālmīki bestowed upon them the spirit-destroying protection (pradadau tābhyāṃ rakṣāṃ bhūta-vināśinīm).
 </details>
 </details>
 
@@ -218,6 +254,14 @@ _________________
 
 आग आ सत्कारवन्नु स्वीकरिसि शत्रुघ्ननु फल-मूलगळन्नु सेविसि, बहळ तृप्तिपट्टनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** “He of the two who was born first (yas tayoḥ pūrvajo jātaḥ) is to be wiped with kuśa tips consecrated by mantras (sa kuśair mantra-satkṛtaiḥ nirmārjanīyas tu tadā); therefore his name shall be Kuśa (kuśa ity asya nāma tat).
+
+**8:** “And he who is the younger of the two (yaś cāvaro bhavet tābhyām) is to be wiped attentively by the elderly women with the lava stalks (lavena sa samāhitaḥ nirmārjanīyo vṛddhābhiḥ), and thus by name he shall be Lava (lava ityeva nāmataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,6 +290,12 @@ _________________
 
 अवन प्रश्नॆयन्नु केळि वाल्मीकिगळु हेळिदरु - शत्रुघ्नने! हिन्दॆ याव यजमान नरेशन ई यज्ञमण्टपवित्तो, अदन्नु तिळिसुवॆनु, केळु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus both those twin-born boys (tāv ubhau yamajātakau) shall be Kuśa and Lava by name (evaṃ kuśa-lavau nāmnā), and through the names bestowed by me (mat-kṛtābhyāṃ ca nāmabhyām) they shall become endowed with renown (khyāti-yuktau bhaviṣyataḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -273,6 +323,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निम्म पूर्वजनाद सुदासराजनु ई भूमण्डलक्कॆ ऒडॆयनागिद्दनु. आ भूपालनिगॆ वीरसह (मित्रसह) ऎम्ब पुत्र हुट्टिदनु. अवनु दॊड्ड पराक्रमि मत्तु अत्यन्त धार्मिकनागिद्दनु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Self-composed and free from stain (samāhitāḥ ... vigata-kalmaṣāḥ), those [elderly women] received that protective offering from the sage’s hand (tāṃ rakṣāṃ jagṛhus tāś ca muni-hastāt) and thereupon performed the protective rite for the two infants (akurvaṃś ca tato rakṣāṃ tayoḥ).
 </details>
 </details>
 
@@ -313,6 +369,14 @@ _________________
 
 सुदासन शूरपुत्रनु बाल्यदल्ले ऒन्दु दिन बेटॆगागि काडिगॆ होगिद्दनु. अल्लि अवनु विचरिसुत्तिरुव इब्बरु राक्षसरन्नु नोडिदनु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** And hearing of that rite being performed by the elderly women (tathā tāṃ kriyamāṇāṃ ca vṛddhābhiḥ), of the birth and naming (janma nāma ca), and the mention of Rāma (saṅkīrtanaṃ ca rāmasya) and the auspicious twin births of Sītā (sītāyāḥ prasavau śubhau),
+
+**12:** at midnight Śatrughna heard that exceedingly joyful news (ardharātre tu śatrughnaḥ śuśrāva sumahat priyam); then, going to the leaf-hut (parṇaśālāṃ tato gatvā), he exclaimed: “O Mother, by good fortune (mātar diṣṭyeti cābravīt)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -340,6 +404,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सौदासनु आ इब्बरू राक्षसरन्नु नोडिद. जॊतॆगॆ अवरु मृगगळिन्द बरिदागिसिद वनद अवस्थॆयन्नु नोडिदनु. इदरिन्द अवनु महाक्रोधगॊण्डु ऒब्बनन्नु कॊन्दुहाकिदनु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus for that deeply gladdened, high-souled Śatrughna (tathā tasya prahṛṣṭasya śatrughnasya mahātmanaḥ), swift in stride (laghu-vikramaḥ), that rainy-season night of Śrāvaṇa passed away (vyatītā vārṣikī rātriḥ śrāvaṇī).
 </details>
 </details>
 
@@ -369,6 +439,12 @@ _________________
 
 ऒब्बनन्नु धराशायियागिसि आ पुरुषश्रेष्ठ सौदासनु निश्चिन्तनादनु. अवन सिट्टु शान्तवागि, सत्तिरुव राक्षसनन्नु नोडतॊडगिदनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At dawn, the exceedingly mighty hero (prabhāte sumahāvīryaḥ), having performed the morning rites (kṛtvā paurvāhṇikīṃ kriyām), took leave of the sage with joined palms (muniṃ prāñjalir āmantrya) and set out westward once more (yayau paścānmukhaḥ punaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +473,12 @@ _________________
 
 सत्तिरुव राक्षसन जॊतॆयवनन्नु सौदासनु नोडुत्तिद्दाग, इन्नॊब्ब राक्षसनु अवनन्नु नोडि मनस्सिनल्ले घोर सन्ताप उण्टागि सौदासनल्लि हेळिदनु .॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spent seven nights upon the road (sapta-rātroṣitaḥ pathi), he reached the bank of the Yamunā (sa gatvā yamunā-tīram) and went to stay at the hermitage of sages of holy renown (ṛṣīṇāṃ puṇya-kīrtīnām āśrame vāsam abhyayāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -424,6 +506,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महापापी नरेशने ! नीनु निरपराधियाद नन्न जॊतॆयवनन्नु कॊन्दुहाकिदॆ. इदक्कागि नानू कूड इदर सेडु तीरिसिकॊळ्ळुवॆनु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There that greatly famed prince (sa tatra ... nṛpaḥ ... mahāyaśāḥ), together with the sages headed by the Bhārgava [Cyavana] (munibhiḥ sārdhaṃ bhārgava-pramukhaiḥ), spent his stay amidst edifying discourses (kathābhir abhirūpābhir vāsaṃ cakre).
 </details>
 </details>
 
@@ -467,6 +555,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि अरवत्तैदनॆय सर्ग पूर्णवायितु. ॥65॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joined with the sages headed by Kāñcana [Cyavana] (sa kāñcanādyair munibhiḥ sametaḥ), that foremost hero of the Raghus (raghu-pravīraḥ), the great-souled son of the king (mahātmā ... narendra-sūnuḥ), brought that night to a close with manifold kinds of discourses (rajanīṃ tadānīṃ kathā-prakārair bahubhir ... virāmayāmāsa).
 </details>
 </details>
 

@@ -57,6 +57,12 @@ Rama in battle. Ravana accepts the advice of his minister and returns to his ass
 
 रावणन मन्त्रिगळु इन्द्रजितुविन वधॆय समाचारवन्नु केळि, स्वतः प्रत्यक्ष नोडि निश्चयिसिकॊण्डु, दशमुख रावणन बळिगॆ होगि ऎल्ल वृत्तान्तवन्नु तिळिसिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his limbs drenched in blood (rudhiraklinnagātraḥ), Lakṣmaṇa, endowed with auspicious marks (śubhalakṣaṇaḥ), rejoiced after slaying that conqueror of foes (śatrujetāram) in battle.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,6 +109,12 @@ battle-field.
 
 "O monarch! Your great majestic son has been killed by Lakshmana with the help of
 Vibhishana, while we were witnessing the event in the battle-field."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that heroic one of great splendor (mahātejāḥ), having gathered together (saṃnipatya) Jāmbavān, Hanūmān, and all those forest-dwellers (vanaukasaḥ),
 </details>
 </details>
 
@@ -161,6 +173,12 @@ highest world.
 the lord of celestials, having collided with valiant Lakshmana, has been killed. Having tormented
 Lakshmana with his arrows, Indrajit departed to the highest world."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+came swiftly from that place to where Sugrīva and Rāghava stood, leaning upon (avaṣṭabhya) Vibhīṣaṇa and Hanūmān, O [king], Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -200,6 +218,12 @@ way; *mahat kashmalam* = to a protracted swoon.
 
 Hearing that news of formidable, harsh and terrific death of Indrajit his son in
 battle, Ravana gave way to a protracted swoon.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having approached Rāma and reverently saluted him (abhivādya), the son of Sumitrā stood beside his brother (bhrātṛsamīpasthaḥ), just as Indra's younger brother [Upendra] stands beside Śakra.
 </details>
 </details>
 
@@ -242,6 +266,12 @@ mind.
 Regaining his consciousness after a long time, the king Ravana, confounded as he was
 with sorrow on account of his son's death and with his mind confused, lamented as follows depressed
 as he was.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Coming forward as though groaning from exertion (niṣṭanann iva), the hero then recounted (ācacakṣe) to the high-souled Rāghava the dreadful slaying of Indrajit.
 </details>
 </details>
 
@@ -289,6 +319,12 @@ will of Lakshmana?
 
 "Alas! My child, the chief of the army of demons, having extraordinary might! Having
 conquered Indra, how have you been subjected to the power of Lakshmana now?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Meanwhile, Vibhīṣaṇa, filled with joy, reported (nyavedayata) to Rāma that the head of Rāvaṇa's son (rāvaṇeḥ) had been severed by the high-souled Lakṣmaṇa.
 </details>
 </details>
 
@@ -338,6 +374,12 @@ punaH* = what to tell about Lakshmana?
 all-destroying time in the form of Yama the Lord of Death and even the peaks of Mount Mandara. What
 to tell about Lakshmana?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Merely upon hearing (śrutvaiva) of the slaying of Indrajit by Lakṣmaṇa, he of great valor (mahāvīryaḥ) attained peerless joy (praharṣam atulam) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -377,6 +419,12 @@ esteemed mama = to me; *raajaa* = is king Yama; *vaivasvataH* = son of sun-god;
 
 "O the long armed one! Highly esteemed to me is the king Yama, son of sun-god, by
 whom you have been subjected to the ravages of time today."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Well done (sādhu), O Lakṣmaṇa! I am deeply pleased; a feat most difficult to accomplish (karma cāsukaraṃ kṛtam) has been wrought. Know for certain (upadhāraya) that through the destruction of Rāvaṇa's son, victory is already won!”
 </details>
 </details>
 
@@ -418,6 +466,12 @@ celestial hosts; *saH pumaan* = that male offspring; *hanyate* = who is killed;
 
 "This is the path for great warriors even among all the celestial hosts. That male
 offspring who is killed for the cause of his lord, obtains heaven."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that heroic one, smelling the crown of the head (śirasy upāghrāya) of Lakṣmaṇa, the enhancer of glory, forcibly (balāt) out of affection drew him—though he was shrinking in modesty (lajjamānam)—onto his lap (aṅkam āropya).
 </details>
 </details>
 
@@ -466,6 +520,12 @@ sages; *adya* = can now; *svapsyanti* = sleep; *adya* = can now;
 "Seeing Indrajit having been killed, all the hosts of celestials, the guardians of
 the world and the great sages now can sleep comfortably and peacefully."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seating him upon his lap (utsaṅge) and tightly embracing him who was sorely afflicted by wounds (avapīḍitam), he gazed again and again (punaḥ punar udaikṣata) upon his beloved brother Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -512,6 +572,12 @@ wholly alone; *me* = to me; *trayaH lokaaH* = may; even the three worlds!
 "Bereft of Indrajit alone, the entire earth with its forest appear to be wholly
 alone to me. Nay, even the three worlds!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa was tormented by arrow-shafts (śalyasampīḍitam), wounded by weapons (śastam), and breathing heavily (niḥśvasantam); and toward him, who was racked with pain and distressed by deep sighs,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -557,6 +623,12 @@ as one would hear the roar; *kareNu samghasya* = of a troop of female-elephants;
 
 "Now, I shall hear the hue and cry of the demon-maidens in the gynaecium, even as
 one would hear the roar of a troop of female-elephants in a mountain cave."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+that bull among men (puruṣarṣabhaḥ) smelled his head once more, hastened to stroke him (saṃspṛśya ca tvaran) all over, and after consoling Lakṣmaṇa, spoke these words:
 </details>
 </details>
 
@@ -623,6 +695,12 @@ killing; *paulastya sachivaaH* = Ravana's counsellors; *tataH* = then;
 Hearing of Indrajit's killing and having ascertained the news, Ravana's counsellors
 reported the matter hurriedly to Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A supremely auspicious deed (paramakalyāṇaṃ karma) has been accomplished by you of arduous deeds (duṣkarakarmaṇā); today, his son being slain, I reckon Rāvaṇa himself slain in battle!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -662,6 +740,12 @@ are indeed in a reverse path.
 
 "O hero! The obsequies rights in my honour ought to have been done by you,
 consequent upon my death in future. You are, however, following a reverse path."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today I am victorious (vijayī), now that that wicked enemy has been slain by you in battle through good fortune (diṣṭyā), O hero—[he who was the chief support] of the ruthless Rāvaṇa.
 </details>
 </details>
 
@@ -709,6 +793,12 @@ consequent upon my death in future. You are, however, following a reverse path."
 "Deserting us without taking away my tormentation, while Sugreeva, lakshmana and
 Rama are still alive, where have you gone?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For his right arm (dakṣiṇo bāhuḥ) has been severed, since that [son] was his true mainstay (vyapāśrayaḥ). By Vibhīṣaṇa and Hanūmān, too, a mighty deed was wrought in battle!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -748,6 +838,12 @@ was feeling distressed through grief as aforesaid.
 
 A huge rage enveloped Ravana, the king of demons, born of his son's death, while he
 was feeling distressed through grief as aforesaid.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through three days and nights (ahorātrais tribhiḥ) the hero was with great effort laid low (kathaṃcid vinipātitaḥ). Today I have been rendered free of foes (niramitraḥ); for Rāvaṇa will surely march forth.
 </details>
 </details>
 
@@ -792,6 +888,12 @@ summer.
 
 The anguishes occasioned by the death of his son, flared up further for him, who by
 his very nature, was wrathful, as rays of the sun flare up the blazing sun in summer.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With a vast array of forces (balavyūhena mahatā) Rāvaṇa will surely march forth, upon hearing with his vast array of forces that his son has been struck down.
 </details>
 </details>
 
@@ -838,6 +940,12 @@ the time of dissolution of the world; *bhrukuTiibhiH* = with his eye-brows;
 
 With his eye brows joined together on his forehead, he shone brightly like an ocean,
 at the time of the dissolution of the world, with crocodiles and giant waves.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enveloping with a mighty force (balenāvṛtya mahatā) that lord of Rākṣasas as he marches out tormented by the slaying of his son (putravadhasaṃtaptam), I shall slay him, hard to conquer though he be!”
 </details>
 </details>
 
@@ -886,6 +994,12 @@ former days).
 While he was yawning with anger; a fire with smoke, as though clearly burning, broke
 out from his mouth, as it did from the month of Vritra (in the former days).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With you as my protector (tvayā lakṣmaṇa nāthena), O Lakṣmaṇa, neither Sītā nor the earth (pṛthivī) is hard for me to attain (na duṣprāpā), now that that conqueror of Śakra has been slain in battle!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -927,6 +1041,12 @@ of Seetha.
 Afflicted with the grief of his son's killing, that valiant Ravana got wrapped up in
 wrath and pondering with his mind, craved for the killing of Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus consoled and embraced his brother, Rāghava—Rāma, filled with joy (muditaḥ)—addressed Suṣeṇa (samābhāṣya) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -966,6 +1086,12 @@ wrath and pondering with his mind, craved for the killing of Seetha.
 
 The dreadful eyes of that Ravana, which were red in colour by their very nature and
 were red even by the fire of his wrath, looked glittering.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O you of great wisdom (mahāprājña), minister (samupācara) in such a way that this son of Sumitrā, so devoted to his friends (mitravatsalaḥ), becomes freed of arrow-shafts (viśalyaḥ) and thoroughly restored to health (susvasthaḥ).
 </details>
 </details>
 
@@ -1016,6 +1142,12 @@ rudrasya iva* = like the form of enraged Rudra the god of destruction.
 That naturally terrific form of Ravana, filled with the fire of his wrath, became
 difficult to be approached, like the form of enraged Rudra the god of destruction.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let the son of Sumitrā, together with Vibhīṣaṇa (savibhīṣaṇaḥ), swiftly be made free of arrow-shafts; and among the heroic troops of bears and Vānaras (ṛkṣavānarasainyānām) who fight with trees,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1065,6 +1197,12 @@ of oil; *saarchiShaH* = with flames; (fall down); *diiptaabhyaam* = from blazing
 Drops of tears fell down from his enraged eyes, as drops of oil with flames fall
 down from blazing lamps.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+whatever others fight here who are pierced with shafts (saśalyāḥ) and covered with wounds (vraṇinaḥ), let all of them also be made comfortable (kriyante sukhinaḥ) by you with diligent care (prayatnena).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1110,6 +1248,12 @@ demons.
 
 The sound of his teeth, produced from the friction of his teeth as he ground them,
 were heard like the noise of a large machine being bragged by the demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma, that high-souled Vānara commander Suṣeṇa administered (dadau) a supreme medicinal herb (paramauṣadham) to Lakṣmaṇa through the nose (nastaḥ).
 </details>
 </details>
 
@@ -1157,6 +1301,12 @@ demons; *samvililyire* = hid themselves; *yaam yaam disham* = in whichever quart
 Trembling with fear, the demons hid themselves, in whichever quarter to which he
 directed his look, enraged as he was, like the fire of universal dissolution.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon inhaling its fragrance (tasya gandham āghrāya), he at once became free of arrow-shafts (viśalyaḥ samapadyata), free of pain (nirvedanaḥ), and with all his wounds completely healed (saṃrūḍhavraṇa eva ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1199,6 +1349,12 @@ Demons could not go towards Ravana, who was looking at all the four quarters, li
 the enraged Yama the god of Death, who wants to devour both the mobile and the immobile
 creatures.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, at Rāghava's command (rāghavājñayā), he performed medical treatment (cikitsām akarot) for his allies headed by Vibhīṣaṇa (vibhīṣaṇamukhānāṃ ca suhṛdām) and for all the foremost Vānaras.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1240,6 +1396,12 @@ midst.
 Desirous of posting the demons to the battle-field, Ravana the king of demons, who
 was very much enraged, then spoke as follows, in their midst:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, restored to his natural state (prakṛtim āpannaḥ), with his arrow-shafts extracted (hṛtaśalyaḥ) and his fatigue dispelled (gataklamaḥ), the son of Sumitrā rejoiced there, freed of feverish anguish in an instant (kṣaṇena vigatajvaraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1279,6 +1441,12 @@ avakaasheShu* = at the conclusion of those austerities.
 
 "Brahma the lord of creation was gratified by me, by performing a stupendous
 austerity for thousands of years, at the conclusion of those austerities."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Right then Rāma, the lord of the leaping monkeys, Vibhīṣaṇa, and the heroic lord of the bears [Jāmbavān], beholding the son of Sumitrā risen free of affliction (arogam utthitam), rejoiced with their armies in great delight for a long time (suciraṃ jaharṣire).
 </details>
 </details>
 
@@ -1323,6 +1491,12 @@ the celestials.
 
 "As a consequence of that austerity alone and by the grace of Brahma the lord of
 creation, there was never a fear for me either from the demons or from the celestials."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The high-souled son of Daśaratha praised (apūjayat) that most arduous feat of Lakṣmaṇa; and the lord of the Vānaras rejoiced in battle upon hearing that the conqueror of Śakra (śakrajitam) had been laid low.
 </details>
 </details>
 

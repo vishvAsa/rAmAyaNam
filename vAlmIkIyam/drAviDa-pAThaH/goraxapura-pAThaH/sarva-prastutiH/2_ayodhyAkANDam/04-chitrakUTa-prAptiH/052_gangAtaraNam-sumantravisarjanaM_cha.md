@@ -74,6 +74,12 @@ auspicious signs.
 That night having given way to dawn, the illustrious Rama with a broad chest spoke
 (as follows) to Lakshmana, the son of Sumitra and who was endowed with auspicious signs :
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the night had dawned (prabhātāyāṃ tu śarvaryām), broad-chested Rāma of great renown spoke to Sumitrā’s son Lakṣmaṇa, who bore auspicious marks (śubha-lakṣaṇam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ kaalaH* = is the hour of sunrise. bhagavatii = The auspicious; *nishaa* = night;
 
 "Oh, dear brother! This is the hour of sunrise. The auspicious night has departed.
 That bird of dark plumage, the cuckoo, is singing."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now is the hour of sunrise (bhāskarodaya-kālo ’yam), and the blessed night has departed (gatā bhagavatī niśā); yonder jet-black bird, the cuckoo (kokilaḥ), is singing, dear brother!
 </details>
 </details>
 
@@ -170,6 +182,12 @@ Jahnu, who in his anger, drank up its waters. But the gods and sages and particu
 appeased his anger and he consented to release the waters through his ears. The river is thereafter
 regarded as his daughter.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The resonant cries of peacocks (barhiṇānāṃ ca nirghoṣaḥ) calling in the woods are heard; let us now cross the swift-flowing (śīghra-gām) Jāhnavī that speeds toward the ocean (sāgaraṅ-gamām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -217,6 +235,12 @@ his brother.
 Lakshmana, the delight of his friends, having understood the words of Rama, called
 Guha as well as Sumantra and stood in front of his brother.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Understanding Rāma’s words (vijñāya rāmasya vacaḥ), Sumitrā’s son, the gladdener of his friends, summoned Guha and the charioteer Sumantra and stood before his brother.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -262,6 +286,12 @@ ministers; *abraviit* = and spoke; *idam* = these words:
 
 Hearing the command of Rama, Guha quickly received it, invited his ministers and
 spoke to them as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma’s command and receiving it with bowed head (pratigṛhya ca), the Niṣāda chieftain (sthapatiḥ) swiftly summoned his ministers and spoke these words to them:
 </details>
 </details>
 
@@ -309,6 +339,12 @@ across; *dR^iDhaam* = and solidly constructed.
 
 "Let a beautiful boat that is solidly constructed, sails well and a helmsman in it,
 be brought to the bank to carry this hero across!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Quickly bring to the landing-ghāṭ (tīrthe) for this prince a sturdy, auspicious boat equipped with oars (vāhana-saṃyuktām) and a helmsman (karṇa-grāhavatīm), capable of an easy crossing (su-pratārām).”
 </details>
 </details>
 
@@ -359,6 +395,12 @@ the matter; *guhaaya* = to Guha.
 Hearing that command, the chief minister of King Guha brought a charming boat to the
 bank and reported the matter to Guha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that command, the great host of Guha’s ministers (guhāmātya-gaṇo mahān) brought a handsome boat to the bank (upohya) and reported its arrival to Guha.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -399,6 +441,12 @@ for you"
 
 Then, Guha with folded hands spoke to Rama as follows: "Oh, Lord! Here, the boat has
 arrived. What more can I do for you?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Guha, joining his palms in reverence (prāñjalir bhūtvā), spoke to Rāghava: “This boat now stands ready, my lord (upasthiteyaṃ naur deva); what more may I do for you?
 </details>
 </details>
 
@@ -447,6 +495,12 @@ boat; *tava* = for you; *tartum* = to cross; *nadiim* = the river;
 "Oh, tiger among men! Oh, Rama resembling a son of divinity! Here is the boat for
 you to cross the river, which flows into the sea. Oh, virtuous one! (Pray) get into it."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Here is the boat for you, O prince resembling the son of an immortal (amara-suta-prakhya), to cross the river that flows to the sea; embark upon it, O tiger among men of noble vows!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -487,6 +541,12 @@ shiighram = with speed".
 
 Then, Rama with great splendor, spoke to Guha as follows: "My desire has been
 accomplished by you. Let us embark with all speed."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma of mighty splendour spoke these words to Guha: “My desire has been fulfilled by you (kṛta-kāmo ’smi bhavatā); let our effects be loaded aboard quickly (śīghram āropyatām iti)!”
 </details>
 </details>
 
@@ -538,6 +598,12 @@ way; *gaN^gaam* = Ganga is situated.
 Having equipped themselves with a quiver each with arrows, fastening their swords
 and armed with their bows, Rama and Lakshmana, with Sita, proceeded towards the river of Ganga.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, strapping on their mail and quivers (kalāpān sannahya) and girding their swords, the two bow-wielding Rāghavas proceeded alongside Sītā by the path leading to the Gaṅgā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -584,6 +650,12 @@ thus: kim = :What aham = I; *karavaaNi* = shall do?"
 Sumantra joining his palms in humility, approached Rama who knew what is right and
 said, "What shall I do?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching Rāma himself, the knower of righteousness, in a humble manner (vinītavat), the charioteer Sumantra joined his palms and asked: “What shall I do now?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -628,6 +700,12 @@ punareva* = Return; *shiighram* = quickly; *raaG^yaH* = to king's;
 
 Touching Sumantra with his auspicious right hand, Rama then said: "Oh, Sumantra!
 Return quickly to the king's presence and be attentive in serving him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Touching him with his auspicious right hand (kareṇottama-dakṣiṇena), the son of Daśaratha then spoke to Sumantra: “O Sumantra, go back quickly to the king’s presence, and remain ever vigilant (bhava cāpramattaḥ)!”
 </details>
 </details>
 
@@ -675,6 +753,12 @@ on foot; *mahaavanam* = to the great forest; *vihaaya* = abandoning; *ratham*
 "Go now, that your service to me has been completed. Abandoning the chariot, I shall
 go on foot to the mighty forest," Rama said.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Turn back!” so did he speak to him; “for thus far have you rendered service to me (etāvad dhi kṛtaṃ mama). Leaving the chariot behind, I shall now proceed on foot (padbhyāṃ tu) into the great forest.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -720,6 +804,12 @@ to Rama; *purushavyaaghram* = the tiger among men.
 
 Finding himself dismissed, Sumantra the charioteer was distressed and spoke to Rama,
 the tiger among men, as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving himself thus dismissed (ātmānaṃ tv abhyanujñātam avekṣya), that afflicted charioteer Sumantra spoke these words to the scion of Ikṣvāku, that tiger among men:
 </details>
 </details>
 
@@ -767,6 +857,12 @@ world.
 
 "None in the world has had to suffer such a fate as yourself; that you should have
 to dwell in the forest with your brother and your consort as if you were an ordinary man!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Never before in this world has any man surpassed such a trial as this—that you, together with your brother and your consort (sa-bhrātṛ-bhāryasya), should dwell in the forest like an ordinary man (prākṛtavad vane)!
 </details>
 </details>
 
@@ -816,6 +912,12 @@ cultivating tenderness and strait forwardness; *vyasanam chet* = (when) adversit
 studying religious scriptures or even in cultivating tenderness and straight forwardness, when
 adversity has come to you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I think there is no fruition in celibate studenthood (na manye brahmacarye ’sti), nor in Vedic study (svadhīte vā), nor in gentleness and rectitude (mārdavārjavayor vāpi), seeing that such calamity has befallen you!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -862,6 +964,12 @@ same position; *jayanniva* = as one who has conquered; *triin* = the three;
 
 "Oh, heroic Rama! Living in the forest along with Sita and your brother, you will
 obtain the same position as one who has conquered the three worlds."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet dwelling in the forest with Vaidehī and your brother, O Rāghava, you shall attain the supreme state, O hero, as though conquering the three worlds (trīn lokāṃs tu jayann iva)!
 </details>
 </details>
 
@@ -910,6 +1018,12 @@ bhaaginaH* = and reap suffering".
 "Oh, Rama! We are actually ruined, in that, disappointed in our hopes by you too, we
 shall fall under the sway of Kaikeyi the sinful woman and reap the suffering."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“It is we who are truly ruined, O Rāma, who have been deluded even by you (ye tvayāpy upavañcitāḥ); doomed to misery, we shall now fall under the sway of wicked Kaikeyī!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -956,6 +1070,12 @@ distance.
 
 Sumantra the charioteer thus speaking, wept for a long time, stricken with grief,
 seeing Rama, equal to his soul, departing to a distance.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus to Rāma, who was as dear to him as his own self (ātma-samam), and beholding him standing ready to depart afar (dūra-gatam), the charioteer Sumantra, stricken with grief, wept for a long time.
 </details>
 </details>
 
@@ -1007,6 +1127,12 @@ which were sweet; *tam suutam* = to that charioteer; *baashhpe* = (whose) tears;
 Then, Rama again and again spoke these sweet words as follows to that charioteer,
 whose tears got dried up and who had sipped some water and got himself purified:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when his tears had subsided and the charioteer had sipped water and purified himself (spṛṣṭodakaṃ śucim), Rāma spoke gentle words to him again and again:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1054,6 +1180,12 @@ Ikshvaku dynasty. kuru = Act; *tathaa* = in such a way; *yathaa* = as;
 "I do not see any one who is as great a friend of the Ikshvakus as you are. (Pray)
 act in such a way that king Dasaratha may not lament about me"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Among the Ikṣvākus I perceive no friend equal to you (tvayā tulyaṃ suhṛdaṃ nopalakṣaye); act in such a way that King Daśaratha does not grieve for me!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1099,6 +1231,12 @@ is) pressed down by a burden of passion. tasmaat = for that reason; *braviimi* =
 
 "The king, his mind afflicted with grief, is aged as well. He is pressed down by a
 burden of passion. Hence, I tell you this."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lord of the earth has his mind shattered by grief (śokopahata-cetāś ca), is advanced in years, and is weighed down by the burden of passion (kāma-bhāvāvasannaś ca); therefore do I tell you this:
 </details>
 </details>
 
@@ -1146,6 +1284,12 @@ hesitatingly."
 
 "What so ever act that high-soled emperor may enjoin you to do, with intent to
 oblige the desire of Kaikeyi, it is to be done unhesitatingly."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whatever that high-souled lord of the earth may command with a view to pleasing Kaikeyī (kaikeyyāḥ priya-kāmārtham), all that must be carried out without hesitation (avikāṅkṣayā).
 </details>
 </details>
 
@@ -1196,6 +1340,12 @@ in all their undertakings."
 "The kings indeed rule the states with this end in view that their will may not be
 frustrated in any undertaking."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For it is to this very end that rulers of men govern kingdoms (rājāni praśāsati nareśvarāḥ)—namely, that in all undertakings their will may never be thwarted (mano na pratihanyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1242,6 +1392,12 @@ it; *aLiikam* = as anything unpleasing; *na cha taamyati* = nor gets distressed;
 
 "Oh, Sumantra! Carry out everything in such a way that the said emperor neither
 finds it unpleasing nor gets tormented by grief."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Act in such a way, O Sumantra, that the great king neither encounters any displeasure (nālīkam adhigacchati) nor languishes in sorrow (na ca tāmyati duḥkhena)!
 </details>
 </details>
 
@@ -1290,6 +1446,12 @@ who has subdued his senses; *tvam* = you; *bruuyaaH* = tell; *idam* = these;
 "Only after performing respectful salutation to the old and venerable king, who has
 never known suffering and who has subdued his senses, you tell these words to him on my
 behalf."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saluting on my behalf that aged, noble, self-controlled king who has never known sorrow (adṛṣṭa-duḥkhaṃ rājānam), speak these words to him in my name (mama hetoḥ):
 </details>
 </details>
 
@@ -1340,6 +1502,12 @@ _________________
 "Indeed neither I nor Lakshmana and Sita grieve for having moved from Ayodhya or
 that we are going to dwell in a forest."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Neither I, nor Lakṣmaṇa, nor Maithilī grieve in the least (naivāham anuśocāmi) over having been banished from Ayodhyā or having to dwell in the forest!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1389,6 +1557,12 @@ and Sita too; *aagataan* = returned; *kshhipram* = quickly."
 "After completing fourteen years, you will once more see Lakshmana, myself and Sita
 too returned apace from the forest."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When fourteen years have elapsed, you shall once again (punaḥ punaḥ) behold Lakṣmaṇa, me, and Sītā swiftly returned!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1413,6 +1587,12 @@ too returned apace from the forest."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुमन्त्रने! महाराजरल्लि हीगॆ हेळि नन्न तायिय बळियल्लि, आकॆयॊन्दिगॆ कुळितिरुव इतर मातॆयरिगू हागू कैकॆयिय बळियल्लियू पदे-पदे नम्म क्षेम-समाचार हेळु.॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to the king, O Sumantra, and to my mother, as well as to the other queens together and to Kaikeyī again and again—
 </details>
 </details>
 
@@ -1458,6 +1638,12 @@ of) Sita; *mama cha* = as well as myself; *vachanaat* = the words;
 "Oh,Sumantra! This is what you should say to the king, my mother, all other queens
 and Kaikeyi. Tell Kausalya again and again that I am keeping good health. Thereafter, convey
 salutations at her feet on behalf of Sita as well as myself and Lakshmana the faithful man."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—report our good health to Kausalyā, and then convey the reverent prostrations at her feet (pādābhivandanam) of Sītā, of myself the eldest, and in the name of Lakṣmaṇa.
 </details>
 </details>
 
@@ -1505,6 +1691,12 @@ installed; *pade* = in the position; *nR^ipa mate* = as desired by the king."
 "Tell our salutations to the emperor too. Bring Bharata quickly. After his arrival,
 Bharata may be installed in the position, as desired by the king."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And you must also say to the great king: ‘Summon Bharata quickly (bharataṃ kṣipram ānaya)! And once Bharata has arrived, let him be installed in the office approved by the king (nṛpa-mate pade).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1551,6 +1743,12 @@ account; *na abhibhavishhyati* = will not overpower; *tvaam* = you."
 "When you embrace Bharata and install him in the office of the Prince Regent, the
 agony caused by the repentance felt by you on our account will not overpower you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When you have embraced Bharata and consecrated him in the regency (yauvarājye ’bhiṣicya ca), the grief born of anguish over us (asmat-santāpajaṃ duḥkham) will no longer overwhelm you!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1596,6 +1794,12 @@ as; *vartase* = (you) behave; *raajani* = towards the king."
 
 "Bharata too is to be told thus: "Treat without distinction all your mothers with
 the same regard as you behave towards the king."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Bharata too should be told: ‘Just as you conduct yourself toward the king (yathā rājani vartase), so should you conduct yourself toward all the mothers without distinction (sarvāsv evāviśeṣataḥ).
 </details>
 </details>
 
@@ -1646,6 +1850,12 @@ mother; *visheshhataH* = in particular"
 "As is your affection for Kaikeyi, so let it be for Sumitra and also the divine
 Kausalya, my mother"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And just as Kaikeyī is to you, and Sumitrā in particular, even so should Queen Kausalyā, my mother, be regarded by you with special devotion (viśeṣataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1692,6 +1902,12 @@ enhance; *sukham* = happiness; *yat* = whatever; *ubhayoH* = in both;
 
 "If you accept the princely kingdom with an intent to please our father, it will be
 possible for you to enhance happiness in both the worlds (in this world and the next)."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Desiring what is dear to our father and accepting the office of regent (yauvarājyam apekṣatā), you will thus be able to prosper happily in both worlds (lokayor ubhayoḥ)!’”
 </details>
 </details>
 
@@ -1742,6 +1958,12 @@ Rama (as follows):
 
 Sumantra, who was being sent back by Rama, was agonized with grief after hearing the
 whole of that discourse and affectionately spoke to Rama as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus urged to turn back by Rāma, Sumantra, wasted by grief (śoka-karśitaḥ), heard all those words and spoke out of affection to Kākutstha:
 </details>
 </details>
 
@@ -1812,6 +2034,14 @@ has been reduced to the state of a mother stricken with grief due to separation 
 you, has been reduced to the state of a mother stricken with grief due to separation from her
 son"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**38:** “Whatever words I may speak without courtly formality (nopacāreṇa), unhesitating out of love (snehād aviklabaḥ), you ought to forgive, knowing me to be your devoted servant (bhaktimān iti)!
+
+**39:** How indeed shall I return without you (tvad-vihīno ’ham) to that city, which through separation from you is as though distraught with grief for a lost son (putra-śokākulām iva)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1860,6 +2090,12 @@ chariot; *vinaa raamam* = without Rama; *saa purii* = that city;
 much. Now, if they see the chariot without Rama the city of Ayodhya will even be broken
 asunder."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Look what the people suffered even when they beheld my chariot bearing Rāma (sa-rāmam api); beholding the chariot now without Rāma, that city might split asunder altogether (vidīryetāpi sā purī)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1906,6 +2142,12 @@ beholding; *imam* = this; *ratham* = chariot; *shuunyam* = empty."
 
 "The city will be plunged in misery, like an army in which its commander is lost in
 a combat with the charioteer alone surviving, on seeing this chariot without you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For the city would sink into utter despondency upon seeing this empty chariot (śūnyam imaṃ ratham), like an army in battle whose hero has been slain and whose charioteer alone survives (sūtāvaśeṣam)!
 </details>
 </details>
 
@@ -1956,6 +2198,12 @@ food. nuunam = It is certain."
 
 "Thinking of you, who though residing far away are established foremost in their
 minds, the people of Ayodhya must have been deprived of their food today."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Picturing you in their minds as standing right before them (mānasenāgrataḥ sthitam) even while you dwell afar, the citizens, thinking of you today, have surely abstained from all food (nirāhārāḥ kṛtāḥ prajāḥ)!
 </details>
 </details>
 
@@ -2008,6 +2256,12 @@ whose minds were depressed through grief on your account."
 (of Ayodhya), whose minds were depressed through grief on your account, was witnessed by you
 indeed, Oh, Rama!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For you yourself witnessed, O Rāma, what a tumultuous commotion (saṅkulaṃ vṛttam) arose among the citizens at your banishment, their hearts exhausted with grief for you!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2057,6 +2311,12 @@ with (an empty) chariot."
 
 "The cry of distress raised by the citizens (of Ayodhya) will be increased a
 hundred-fold, when they see me with an empty chariot."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The anguished wail that was raised by the townsfolk at your banishment—they would raise one a hundredfold greater (śata-guṇaṃ tataḥ) upon seeing me return alone with the chariot!
 </details>
 </details>
 
@@ -2125,6 +2385,14 @@ true; *apriyam* = (but) unkind?"
 "I cannot tell such words too which are untrue. How can I tell, �I abandoned your
 son in the forest', which words are true but unkind?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**45:** And what shall I say to the Queen? ‘Your son has been taken by me to his maternal uncle’s house (nīto ’sau mātula-kulam); do not grieve!’?
+
+**46:** Even though untrue, I could never utter such a falsehood (asatyam api naivāhaṃ brūyām); yet how could I utter this truth, which is so utterly cruel (apriyam eva)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2171,6 +2439,12 @@ carried yourselves and your relatives(Sita and Lakshmana); *pravakshhyanti* = wi
 "How will the excellent horses obedient to me, which carried yourself, Sita and
 Lakshmana, draw the chariot bereft of you?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And how will these noblest of steeds (hayottamāḥ), standing under my command and accustomed to bearing you and your kinsfolk (tvad-bandhu-jana-vāhinaḥ), draw back a chariot bereft of you?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2210,6 +2484,12 @@ to Ayodhya. arhasi = You are obliged; *anuG^yaatum* = to permit; *maam* = me;
 
 "Oh, the faultless Rama! For this reason, I cannot go back to Ayodhya. (Pray) permit
 me to accompany you to the forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore I shall not be able to go back to Ayodhyā without you, O sinless one (tvad-ṛte ’nagha); you ought to grant me leave to accompany you in your forest exile (vana-vāsānuyānāya)!
 </details>
 </details>
 
@@ -2257,6 +2537,12 @@ me to accompany you to the forest."
 "If you leave me even though I solicit you to take me with you, I shall enter a fire
 with chariot and all, here itself the moment I am forsaken by you"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If you should cast me off even as I implore you (yācamānasya tyāgam eva kariṣyasi), the very moment I am abandoned by you here (tyakta-mātra iha tvayā) I shall enter the fire together with my chariot!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2302,6 +2588,12 @@ sattvaani* = those animals; *rathena* = by the chariot."
 
 "Oh, Rama! With the help of the chariot, I shall ward off those animals in the
 forest, which create obstacles to your austerities."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With my chariot I shall ward off (rathena pratibādhiṣye) whatever wild creatures in the forest might obstruct your ascetic observances (tapo-vighna-karāṇi te), O Rāghava!
 </details>
 </details>
 
@@ -2349,6 +2641,12 @@ through you; *aham* = I; *aashamse* = seek; *sukham* = the happiness;
 "The pleasure of driving your chariot has been obtained by me because of you and it
 is through you that I seek the happiness that comes in dwelling in a forest."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through your misfortune (tvat-kṛte) I failed to obtain the joy of driving your royal chariot; through your grace (tvat-kṛtena) I now earnestly long for the joy born of dwelling in the forest!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2395,6 +2693,12 @@ Be; *me* = my; *pratyanantaraH* = close associate!"
 "Be graceful. I desire to become your close associate in the forest. I wish to hear
 your loving assent with the words �be my close associate!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Be gracious! I wish to remain right beside you in the forest (te ’raṇye bhavituṃ pratyanantaraḥ); I long for it to be spoken by you with affection: ‘Stay right beside me (bhava me pratyanantaraḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2439,6 +2743,12 @@ If these horses too can do; *paricharyaam* = service; *te* = to you;
 
 "Oh, hero! If these horses too can render service to you, they can attain a supreme
 abode."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And if these steeds too, O hero, render service to you as a forest-dweller (te vana-vāsinaḥ paricaryāṃ kariṣyanti), they will attain the supreme state (paramāṃ gatim)!
 </details>
 </details>
 
@@ -2487,6 +2797,12 @@ service."
 -"By all means, I am leaving for good, Ayodhya or even heaven. Dwelling in the
 forest, with my head bent low, I shall render service to you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dwelling in the forest, I shall carry out your service with bowed head (śuśrūṣaṇaṃ mūrdhnā kariṣyāmi); I utterly renounce Ayodhyā, or even the world of the gods (deva-lokaṃ vā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2532,6 +2848,12 @@ forest, with my head bent low, I shall render service to you."
 
 "As a doer of wicked deeds cannot enter Amaravati, the capital of Devendra, so also
 I cannot enter Ayodhya without you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For without you that Ayodhyā cannot possibly be entered by me (na hi śakyā praveṣṭuṃ sā mayāyodhyā), any more than the capital of great Indra can be entered by a doer of evil deeds (duṣkṛta-karmaṇā)!
 </details>
 </details>
 
@@ -2579,6 +2901,12 @@ chariot; *puriim* = to the city (of Ayodhya)."
 
 "This is indeed my desire that after reaching the end of your exile, I may take you
 back to the city of Ayodhya in this very chariot."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indeed, this is my cherished desire (mamaiṣa hi manorathaḥ): that when your forest exile has come to an end (vana-vāse kṣayaṃ prāpte), I may drive you back to the city in this very chariot!
 </details>
 </details>
 
@@ -2629,6 +2957,12 @@ away; *kshhaNa bhuutaani* = momentarily. Anyathaa = Otherwise; *ataH* = than thi
 "So long as I am with you together in the forest, fourteen years will slip away
 momentarily. Otherwise than this, they will multiply a hundred- fold."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For one who abides with you in the forest, the fourteen years will pass like a single moment (kṣaṇa-bhūtāni yāsyanti); otherwise—apart from you—they will stretch out a hundredfold (śata-saṅkhyāny ato ’nyathā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2677,6 +3011,12 @@ tvam* = You; *naarhasi* = ought not; *haatum* = abandon; *maam* = me;
 devoted servant, established in the path followed by the son of his master and (always)keeping
 within bounds."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O lord affectionate to your servants (bhṛtya-vatsala), you ought not to forsake me—a devoted servant standing firm in duty and following the path trodden by my master’s son (bhartṛ-putra-gate pathi)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2722,6 +3062,12 @@ punaH* = again and again; *bahuvidham* = in many modes.
 
 Rama, who was compassionate towards his dependents, spoke as follows to Sumantra,
 who was miserably entreating him again and again in many modes.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To Sumantra, who was thus piteously imploring him in manifold ways again and again, Rāma, ever compassionate toward his servants (bhṛtyānukampī tu), spoke these words:
 </details>
 </details>
 
@@ -2770,6 +3116,12 @@ to the city."
 "Oh, charioteer so fond of your master! I know your excellent devotion to me. Hear
 wherefore I send you from here to the city of Ayodhya."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I know your supreme devotion to me (jānāmi paramāṃ bhaktiṃ mayi te), O you who hold your master dear; yet hear for what purpose I am sending you back from here to the city:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2816,6 +3168,12 @@ the forest."
 
 "Seeing you, returning to Ayodhya, Kaikeyi, my younger mother will get the proof
 that Rama has gone to the forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When my younger mother Kaikeyī (jananī me yavīyasī kaikeyī) sees that you have returned to the city, she will be convinced (pratyayaṃ gacchet): ‘Rāma has indeed gone to the forest!’
 </details>
 </details>
 
@@ -2864,6 +3222,12 @@ untruth"
 "Having completely satisfied, about me having gone to forest, Kaikeyi will leave her
 strong suspicion that the virtuous king may be a person who speaks untruth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thoroughly satisfied once I have gone into forest exile (parituṣṭā hi sā devī), she will not distrust the righteous king as a speaker of untruth (mithyā-vādīti)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2910,6 +3274,12 @@ kingdom of her son; *bharataa rakshhitam* = protected by Bharata"
 
 "This is my first priority that my younger mother should get the extensive kingdom,
 protected by Bharata and thus ruled by her own son."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This is my foremost aim (eṣa me prathamaḥ kalpaḥ): that my younger mother should obtain for her son the prosperous kingdom protected on all sides by Bharata (bharatārakṣitaṃ sphītaṃ putra-rājyam)!
 </details>
 </details>
 
@@ -2960,6 +3330,12 @@ manner."
 and inform all the matters that you have been asked to tell each in the way you have been asked to
 do."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For the sake of what is dear to me and to the king, go back to the city with the chariot (sa-rathas tvaṃ purīṃ vraja); and whatever matters you have been charged with, declare each of them just as instructed!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3007,6 +3383,12 @@ Guha.
 Having spoken thus to the charioteer, the courageous Rama consoled him again and
 again. Then, he spoke the following reasoned words to Guha:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken these words to the charioteer and consoled him again and again, unyielding Rāma (aklībaḥ) spoke these reasoned words (vacanaṃ hetumat) to Guha:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3053,6 +3435,12 @@ again. Then, he spoke the following reasoned words to Guha:
 
 "Oh, Guha! This stay in the inhabited woods is not proper for me. My stay should
 definitely be in a hermitage. Let an action diverted towards that aim be taken"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“It is not proper for me now, O Guha, to dwell in a peopled forest (sa-jane vane); my residence must necessarily be made in a hermitage (āśrame vāsaḥ kartavyaḥ), and my observance must conform thereto (tad-gato vidhiḥ).
 </details>
 </details>
 
@@ -3132,6 +3520,14 @@ to Lakshmana.
 Guha immediately brought that latex to the prince. With that, Rama made matted hair
 to himself and to Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**67:** “Desiring the supreme welfare of my father, of Sītā, and of Lakṣmaṇa (hita-kāmaḥ pitur bhūyaḥ sītāyā lakṣmaṇasya ca), and taking up the ascetic vow that is the ornament of hermits (tapasvi-jana-bhūṣaṇam)—
+
+**68:** —I shall mat my locks and proceed (jaṭāḥ kṛtvā gamiṣyāmi); bring me the milky sap of the banyan tree (nyagrodha-kṣīram ānaya)!” Guha swiftly brought that sap to the prince.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3156,6 +3552,12 @@ to himself and to Lakshmana.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु अदरिन्द लक्ष्मणन मत्तु तन्न जटॆयन्नु कट्टिकॊण्डनु. महाबाहु पुरुषसिंह श्रीरामनु तत्क्षण जटाधारियादनु.॥69॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With that sap Rāma fashioned matted locks for Lakṣmaṇa and for himself (lakṣmaṇasyātmanaś caiva); the long-armed tiger among men assumed the state of a matted-haired ascetic (jaṭilatvam adhārayat).
 </details>
 </details>
 
@@ -3204,6 +3606,12 @@ ascetic (in the shape of matted hair) . Then, Rama and Lakshmana the brothers cl
 trees and wearing a round mass of matted locks (on their head) looked bright like two ascetic
 sages.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clad in bark-garments (cīra-vasanau) and wearing coils of matted hair (jaṭā-maṇḍala-dhāriṇau), those two brothers Rāma and Lakṣmaṇa shone forth like two sages (āśobhetām ṛṣi-samau)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3250,6 +3658,12 @@ lakshhmaNa* = along with Lakshmana; *raamaH* = Rama; *aadishhTavaan* = accepted;
 
 Having adopted the way of a hermit (temporarily) along with Lakshmana, Rama then
 accepted the vow of an ascetic life and spoke to Guha, his friend as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus entered upon the path of the forest anchorites (vaikhānasaṃ mārgam āsthitaḥ) together with Lakṣmaṇa and undertaken that vow, Rāma spoke to his friend Guha:
 </details>
 </details>
 
@@ -3298,6 +3712,12 @@ difficult one to protect."
 "Oh, Guha! Remain vigilant in defense, finance, internal security and public
 relations, for a kingdom is the most difficult one to be protected!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Remain ever vigilant, O Guha, over your army, treasury, fortress, and countryside (bale kośe durge janapade tathā); for a kingdom is held to be most difficult to guard (durārakṣatamaṃ matam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3344,6 +3764,12 @@ with Lakshmana.
 
 Then Rama, who was a delight to Ikshvaku dynasty, bade farewell to Guha and departed
 quickly, remaining undistracted, along with his consort and together with Lakshmana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus taken leave of Guha (taṃ samanujñāya guham), the scion of Ikṣvāku proceeded swiftly and calmly (avyagraḥ) with his consort and with Lakṣmaṇa.
 </details>
 </details>
 
@@ -3392,6 +3818,12 @@ quickly, remaining undistracted, along with his consort and together with Lakshm
 Seeing the boat on the bank of the river and keen to cross the swift- flowing Ganga,
 Rama spoke to Lakshmana as follows: -
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the boat on the riverbank, that scion of Ikṣvāku, eager to cross the swift-flowing Gaṅgā (titīrṣuḥ śīghra-gāṃ gaṅgām), spoke these words to Lakṣmaṇa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3437,6 +3869,12 @@ Tvam* = you; *aaroha* = get into; *imaam* = this; *naavam* = boat;
 
 "Oh, Lakshmana the tiger among men! You get into the boat stationed here unhurriedly
 afterwards, having helped Sita the virtuous wife step into it."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Mount this waiting boat gently, O tiger among men (āroha tvaṃ nara-vyāghra sthitāṃ nāvam imāṃ śanaiḥ), and holding high-minded Sītā, help her aboard right after (anvakṣam)!”
 </details>
 </details>
 
@@ -3485,6 +3923,12 @@ maithiliim* = having made Sita to ascend (the boat); *puurvam* = first;
 Hearing the command completely of his elder brother, the prudent Lakshmana, by not
 counteracting it, made Sita to ascend the boat first and stepped into it afterwards.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing his brother’s command and swerving from it in no respect (sarvam apratikūlayan), self-possessed Lakṣmaṇa first helped Maithilī aboard and then mounted himself (ārurohātmavāṃs tataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3532,6 +3976,12 @@ row them across the river).
 Then, the glorious Rama got into the boat himself. Thereafter, Guha the ruler of
 Nishadas commanded his kinsfolk to row them across the river.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Next the radiant elder brother of Lakṣmaṇa mounted by himself; thereupon Guha, lord of the Niṣādas, urged on his kinsmen (jñātīn acodayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3572,6 +4022,12 @@ good; *aatmanaH* = of his son.
 
 After ascending the boat, Rama too of mighty splendor then recited a sacred text
 (daiviim naavam etc) fit for brahmanas and Kshatriyas alike and conducive to his own good.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having boarded that boat, Rāghava of mighty splendour softly recited for his own welfare (jajāpa hitam ātmanaḥ) a sacred mantra befitting both Brāhmaṇas and Kṣatriyas (brahmavat kṣatravac caiva).
 </details>
 </details>
 
@@ -3623,6 +4079,12 @@ suit.)
 Having sipped water as per scriptures and with extreme delight, Rama with Sita made
 obeisance to that river. Lakshmana, of infinite splendor, followed suit.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having sipped water in accordance with scriptural precept (ācamya ca yathā-śāstram), he—together with Sītā—and Lakṣmaṇa of boundless splendour bowed to that river, thrilled with joy (prīti-saṃhṛṣṭaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3669,6 +4131,12 @@ directed; *naavikaan* = the boatmen (to move on).
 Bidding farewell to Guha with his army of men and Sumantra, Rama sat on the boat and
 directed the boatmen to move on.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Giving final leave to Sumantra and to Guha along with his troop (sa-balaṃ caiva taṃ guham), Rāma took his seat in the boat and bade the boatmen row on (codayām āsa nāvikān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3714,6 +4182,12 @@ vega abhihataa* = obeying those splendid and vigorous oarsmen; *shiighram* = rap
 
 Propelled by those splendid and vigorous oarsmen, that boat furnished with a pilot,
 rapidly moved across the water.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Propelled by those boatmen, that vessel, steered by its helmsman (karṇa-dhāra-samāhitā) and struck by the swift strokes of shapely oars (śubha-sphya-vegābhihatā), sped rapidly across the water.
 </details>
 </details>
 
@@ -3762,6 +4236,12 @@ river.
 Coming to the middle of Bhagirathi river, the irreproachable Sita with joined palms,
 spoke as follows to the said river: -
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon reaching the middle of the Bhāgīrathī (madhyaṃ tu samanuprāpya bhāgīrathyāḥ), blameless Vaidehī joined her palms in reverence and spoke these words to that river:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3790,6 +4270,12 @@ _________________
 
 देविगङ्गे! इवरु परमबुद्धिवन्त दशरथ महाराजर पुत्ररु पितृवाक्यपरिपालनॆगागि वनक्कॆ होगुत्तिद्दारॆ. इवरु निन्निन्द सुरक्षितरागि पितन आज्ञॆयन्नु पालिसुवन्तॆ अनुग्रहिसु.॥83॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Protected on every side by you, O Gaṅgā (gaṅge tvad-abhirakṣitaḥ), may this son of the wise great king Daśaratha fulfil this command (nideśaṃ pārayitvemam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3814,6 +4300,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वनदल्लि हदिनाल्कु वर्ष वासिसि इवरु नन्नॊन्दिगॆ हागू लक्ष्मणनॊन्दिगॆ पुनः अयोध्यॆगॆ मरळुवरु.॥84॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and, having dwelt full fourteen years in the forest (caturdaśa hi varṣāṇi samagrāṇy uṣya kānane), may he return once more together with his brother and with me!
 </details>
 </details>
 
@@ -3863,6 +4355,12 @@ kaama samR^iddhinii* = all my desires fulfilled; *yakshhye* = shall worship;
 under your protection! Having dwelled in the forest in full fourteen years, may he return once more
 to your bank with his brother, Lakshmana and myself! Oh, blessed goddess Ganga! Returning safely,
 with all my desires fulfilled, I shall worship you with great joy."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Returning safely thereafter, O blessed goddess Gaṅgā (devi subhage), I shall worship you with a joyful heart, having all my desires fulfilled (sarva-kāma-samṛddhinī)!
 </details>
 </details>
 
@@ -3916,6 +4414,12 @@ You, Oh goddess flowing through three regions (namely heaven, earth and subterra
 regions), include in your basin the realm of Brahma (the outermost of the six spheres enveloping
 the earth) and are vividly seen on this terrestrial plane as a consort of the ocean king."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For you, O three-pathed goddess (tri-patha-gā devi), behold the world of Brahmā itself (brahma-lokaṃ samīkṣase), and in this world you are seen as the consort of the lord of oceans (bhāryā codadhi-rājasya)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3940,6 +4444,12 @@ the earth) and are vividly seen on this terrestrial plane as a consort of the oc
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शोभाशालिनी देवि! पुरुषसिंह श्रीरामनु पुनः वनदिन्द क्षेमवागि मरळि तन्न राज्यवन्नु पडॆदाग सीतॆयाद नानु पुनः निनगॆ वन्दिसि, निन्नन्नु स्तुतिसुवॆनु.॥87॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even such as I am, O lovely goddess, I bow to you and praise you (namasyāmi praśaṃsāmi ca śobhane)! When that tiger among men has safely returned and regained his kingdom (prāpta-rājye)—
 </details>
 </details>
 
@@ -3988,6 +4498,12 @@ kingdom; *pradaasyaami* = I shall give away; *shatasahasraaNi* = a lakh;
 "Oh, charming goddess! I, Sita, greet you and extol you too. When Rama the tiger
 among men safely returns and regains his kingdom, I shall give away a lakh of cows, soft clothing
 and food to brahmanas with intent to please you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—out of a desire to do what is pleasing to you (tava priya-cikīrṣayā), I shall bestow upon the Brāhmaṇas a hundred thousand cows, garments, and exquisite food (annaṃ ca peśalam)!
 </details>
 </details>
 
@@ -4043,6 +4559,12 @@ thousand pots of spirituous liquor and jellied meat with cooked rice well prepar
 rite."
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When I have returned once more to the city, O goddess, I shall worship you with devout self-restraint (prayatā) with a thousand jars of wine (surā-ghaṭa-sahasreṇa) and rice dressed with meat (māṃsa-bhūtaudanena ca)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4082,6 +4604,12 @@ vaasini* = dwelling on your banks; *tiirthaani* = sacred spots; *aayatanaamicha*
 
 "I shall worship all deities dwelling on your banks as also sacred spots and
 sanctuaries."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And whatever deities dwell along your banks (yāni tvat-tīra-vāsīni daivatāni ca santi hi), all of them I shall worship, along with their sacred fords and shrines (tīrthāny āyatanāni ca)!
 </details>
 </details>
 
@@ -4130,6 +4658,12 @@ the forest; *sangataH* = along with; *bhraatraacha* = Lakshmana; his brother;
 "Oh, irreproachable goddess! May the sinless Rama (with mighty arms) re-enter
 Ayodhya again from the forest, along with Lakshmana and myself."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Reunited with me and with his brother, O sinless goddess (anaghe), may that sinless, mighty-armed prince re-enter Ayodhyā from his forest exile!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4175,6 +4709,12 @@ Ayodhya again from the forest, along with Lakshmana and myself."
 
 Thus praying to Ganga, the efficient and irreproachable Sita rapidly reached the
 right bank of the river.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As blameless, gracious Sītā (dakṣiṇā) was thus addressing the Gaṅgā, she swiftly reached the southern bank (dakṣiṇaṃ tīraṃ kṣipram evābhyupāgamat).
 </details>
 </details>
 
@@ -4225,6 +4765,12 @@ Sita.
 
 Reaching the bank and leaving the boat, Rama the best among men and the chastiser of
 foes proceeded further along with Lakshmana and Sita.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached the bank and left the boat behind (nāvaṃ hitvā), that bull among men, the scorcher of foes, set forth accompanied by his brother and Vaidehī.
 </details>
 </details>
 
@@ -4324,6 +4870,16 @@ Protection; *kartavyaa* = must be accorded; *iha* = here; *naH* = by us;
 "I shall proceed in the rear, protecting you and Sita. Oh, jewel among men! We must
 accord protection here to one another."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**94:** Then the mighty-armed prince spoke to the enhancer of Sumitrā’s joy: “Remain ever alert for her protection (bhava saṃrakṣaṇārthāya), whether in peopled territory or in the trackless wilds (sa-jane vijane ’pi vā)!
+
+**95:** Protection must unfailingly be maintained in this unfamiliar, uninhabited forest (adṛṣṭe vijane vane); walk in front, O Saumitri, and let Sītā follow behind you (agrato gaccha saumitre sītā tvām anugacchatu)!
+
+**96:** I shall walk behind, guarding both you and Sītā (tvāṃ ca sītāṃ ca pālayan); today indeed Vaidehī will experience the true hardship of dwelling in the forest (duḥkhaṃ tu vaidehī vana-vāsasya vetsyati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4363,6 +4919,12 @@ Vaidehii = Sita; *vetsyati* = will experience; *duHkham* = the hardship;
 
 "An act which has gone out of hand, whatsoever, cannot indeed be remedied again.
 Sita will experience the hardship of staying in a forest only from now."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For once an opportunity has slipped past, no action is easy to mend (na hi tāvad atikrāntā sukarā kācana kriyā); today indeed Vaidehī will experience the hardship of dwelling in the forest!
 </details>
 </details>
 
@@ -4410,6 +4972,12 @@ seen; *kshhetra araama vivarjitam* = which is utterly devoid of fields and garde
 "Today she will enter the forest, where density of people is not seen, which is
 utterly devoid of fields and gardens, has a rugged surface and is full of stumbles."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today she will enter a forest devoid of human concourse (praṇaṣṭa-jana-sambādham), stripped of cultivated fields and gardens (kṣetrārāma-vivarjitam), rugged, and full of precipitous ravines (viṣamaṃ ca prapātaṃ ca)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4455,6 +5023,12 @@ utterly devoid of fields and gardens, has a rugged surface and is full of stumbl
 
 Listening to Rama's words, Lakshmana walked in front. Immediately after Sita, Rama,
 the delight of Raghu dynasty, advanced.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma’s words, Lakṣmaṇa set forth in front (pratasthe lakṣmaṇo ’grataḥ), and right behind Sītā walked Rāghava, the joy of the Raghus.
 </details>
 </details>
 
@@ -4516,6 +5090,12 @@ Constantly gazing at Rama, who reached soon the other bank of Ganga River, the
 distressed Sumantra, his vision having failed due to the long distance and perturbed as he was,
 shed tears (of grief over separation from Rama).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing unblinkingly (pratatam nirīkṣya) at Rāma who had swiftly crossed to the farther bank of the Gaṅgā, poor afflicted Sumantra, his vision failing from the sheer distance of the road (adhva-prakarṣād vinivṛtta-dṛṣṭiḥ), shed tears.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4570,6 +5150,12 @@ maalinaH* = which contained rows of beautiful crops.
 Having crossed the great river, Rama the high-soled, the bestowal of boons, equal in
 glory with the guardians of spheres, then reached progressively the prosperous and the happy land
 of Vatsa; which contained rows of beautiful crops.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having crossed the great river, that high-souled bestower of boons, possessing majesty equal to the Guardians of the World (loka-pāla-pratima-prabhāvavān), gradually reached the prosperous, joyful realm of the Vatsas, garlanded with thriving crops (śubha-sasya-mālinaḥ).
 </details>
 </details>
 
@@ -4637,5 +5223,11 @@ they were, Rama and Lakshmana reached a tree to take rest in the evening.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तॆरडनॆय सर्ग पूर्णवायितु ॥52॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain there four great game animals—a wild boar, an ṛśya antelope, a spotted pṛṣata deer, and a great ruru stag (varāham ṛśyaṃ pṛṣataṃ mahā-rurum)—and quickly taking their pure flesh (ādāya medhyam), the two hungry brothers repaired at evening to a great forest tree to pass the night.
 </details>
 </details>

@@ -76,6 +76,12 @@ Jataayu who is spinning on earth to breath his last:
 jiivitam gR^idhram sphurantam raakSha adipa | dadarsha bhuumau patitam samipe raaghava aashramaat ||*
 thereby giving some time to Seetha to recollect what has happened.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that king of vultures (nirīkṣya taṃ gṛdhra-rājam) struck down by Rāvaṇa (rāvaṇena vinihatam), she of moon-like face (sā tu tārādhipa-mukhī), deeply afflicted with grief (suduḥkhitā), lamented (vilalāpa):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +133,12 @@ or by the callings of birds and movements of animals... so, by now your left sho
 have shuddered, or some crows might have cawed uglily, or some birds might have gone from your right
 to left, except *garuDa, bharadwaja* birds, and by these forebodings why do not you cognise that something
 is happening to me and thus why not come to my rescue?'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Portents (nimittam), bodily signs (lakṣaṇam), dreams (svapnam), and the hearing of bird-cries or sighting of their flight (śakuni-svara-darśanam) are unfailingly observed (avaśyaṃ paridṛśyate) in the joys and sorrows of mortals (sukha-duḥkheṣu narāṇām).
 </details>
 </details>
 
@@ -185,6 +197,12 @@ hunting that Golden Deer, but, for a while keep that hunting at bay and give an 
 animals that are rushing towards you to convey the news of my kidnap... and for god's sake do not kill
 these animals, presuming that they are pestering you...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely, O Rāma, you do not know (na nūnaṃ jānāsi) of the great calamity that has befallen yourself (mahad vyasanam ātmanaḥ); yet surely, O Kākutstha, the beasts and birds (mṛga-pakṣiṇaḥ) are hastening [toward you] on my account (dhāvanti nūnaṃ mad-artham)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,6 +255,12 @@ bhaava/import: 'My ill luck is so preponderant, in that it has demolished this J
 is a pious and merited being who came to help the helpless one like me... but my ill luck pervaded over
 such an impeccable being also... otherwise Jataayu would have vanquished Ravana... thus, when an immeasurable
 ill luck is holding sway, it is for you, and you alone, oh, Rama, to come for my rescue...'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For this bird (ayaṃ hi vihaṃgamaḥ), who came here out of compassion to rescue me (kṛpayā māṃ trātum iha saṃgataḥ), O Rāma, lies struck down upon the ground (śete vinihato bhūmau) through my ill fortune (mamābhāgyāt)!
 </details>
 </details>
 
@@ -297,6 +321,12 @@ bawling is not in a clamorous tone but it is a *roshantiim madhura svaraam* 'cry
 as detailed at verse 42 below, for there should be difference between the braying of an ass and parroting
 of a parrot.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Save me today, O Kākutstha! O Lakṣmaṇa!’ (trāhi mām adya kākutstha lakṣmaṇeti)—thus the lovely lady (varāṅganā), utterly terrified (susaṃtrastā), cried out aloud (samākrandat) as though before those listening nearby (śṛṇvatāṃ tu yathāntike).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,6 +373,12 @@ to Vaidehi; *raakSasa adhipaH raavaNaH* = demons', sovereign, Ravana; *abhyadhaa
 That sovereign of demons, Ravana, rushed towards Vaidehi whose garlands and jewellery are muddled up
 and who is bawling like an orphanized one. [3-52-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Toward that Vaidehī, whose garlands and ornaments were crushed and dishevelled (kliṣṭa-mālyābharaṇām) and who was wailing like one protectorless (vilapantīm anāthavat), Rāvaṇa, the lord of rākṣasas, rushed (abhyadhāvata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -370,6 +406,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवळु हब्बिद लतॆयन्तॆ दॊड्ड-दॊड्ड मरगळन्नु अप्पिकॊळ्ळुत्तिद्दळु मत्तु ‘नन्नन्नु सङ्कटदिन्द पारु माडिरि, बिडिसिरि’ ऎन्दु पदे पदे हेळुत्तिरुवागले रावणनु आकॆय बळिगॆ बन्दनु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lord of rākṣasas reached her (prāpa tām) as she clung like a creeper (latām iva veṣṭantīm) and embraced the great trees (āliṅgantīṃ mahā-drumān), crying out again and again, “Let go! Let go!” (muñca muñceti bahuśaḥ).
 </details>
 </details>
 
@@ -443,6 +485,14 @@ as with Simhika-Hanuma in Sundara Kanda, Ravana should not have given her this m
 but should have captured by her shadow without leaving her to pay a visit to dying Jataayu. Hence, this
 capture is viewed on a human plane, rather than a conjuror's trick.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Looking like Death himself (antaka-saṃnibhaḥ), he seized her by the hair (keśeṣu jagrāha)—to the ending of his own life (jīvitāntāya)—as she, bereft of Rāma in the forest (rāmeṇa rahitāṃ vane), cried out, “O Rāma! O Rāma!” (krośantīṃ rāma rāmeti).
+
+**9:** When Vaidehī was thus violated (pradharṣitāyāṃ vaidehyām), the entire universe with its moving and unmoving beings (jagat sarvaṃ sacarācaram) lost its natural order (babhūvāmaryādam) and was enveloped in blinding darkness (tamasāndhena saṃvṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -491,6 +541,12 @@ the Sun. [3-52-9]
 
 This 'blackness' is a poetic gloominess of the mood, rather than a material or mythical, or superimposing
 darkness. Sun is gloomy, wind is gloomy, and the entire nature is in oblivion of sadness.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The wind did not blow there (na vāti mārutas tatra) and the sun grew lustreless (niṣprabho 'bhūd divākaraḥ); and beholding Sītā laid hold of (dṛṣṭvā sītāṃ parāmṛṣṭām) through his divine vision (divyena cakṣuṣā), the god—
 </details>
 </details>
 
@@ -571,6 +627,14 @@ not tell us directly, their body language and odd behaviour will certainly tell.
 and birds before an earthquake or a storm or any natural devastation is not an unknown phenomena. After
 all, a frog crocks before a rain.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** The glorious Grandsire Brahmā (śrīmān pitāmahaḥ) declared, “The work is accomplished!” (kṛtaṃ kāryam iti). And all those supreme sages (sarve te paramarṣayaḥ) were at once overjoyed and distressed (prahṛṣṭā vyathitāś cāsan)—
+
+**12:** Those dwellers of the Daṇḍaka forest (daṇḍakāraṇya-vāsinaḥ), upon seeing Sītā laid hold of (dṛṣṭvā sītāṃ parāmṛṣṭām) and realizing that Rāvaṇa's destruction (rāvaṇasya vināśam) had arrived of its own accord (prāptaṃ buddhvā yadṛcchayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -619,6 +683,12 @@ took flight.
 
 Ravana, the lord of demons, on wresting Seetha who is bawling, "Rama... Rama..." also thus as, "Lakshmana..."
 took flight skyward. [3-52-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking her as she wept (tāṃ rudatīṃ ādāya), crying “O Rāma, Rāma!” and “O Lakṣmaṇa!” (rāma rāmeti ... lakṣmaṇeti ca), Rāvaṇa, the lord of rākṣasas, rose into the sky (jagāmākāśam).
 </details>
 </details>
 
@@ -675,6 +745,12 @@ silky dress, while traversing in the sky. [3-52-14]
 dhvani/innuendo: A lightening in a cloud does not last for a long period. So also, for being with this
 cloudlike Ravana, these flashes of lightning, called Seetha, will not last long, albeit those flashes
 alone will electrocute that cloud, called Ravana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Her limbs the color of burnished gold ornaments (taptābharaṇa-varṇāṅgī) and clad in yellow silk (pīta-kauśeya-vāsinī), the princess shone (rarāja rāja-putrī) like a flash of saudāmanī lightning (vidyut saudāmanī yathā).
 </details>
 </details>
 
@@ -735,6 +811,12 @@ rhythmically or spasmodically, by air and it is flagging off the annihilation of
 motions on his face. Thus, Ravana who is standing like a mountain as of now is destined soon to become
 a mountain with a self-ruinous fire, overly and muchly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And with her yellow garment fluttering aloft (uddhūtena ca vastreṇa tasyāḥ pītena), Rāvaṇa blazed all the more (adhikaṃ paribabhrāja), like a mountain ablaze with fire (girir dīpta ivāgninā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -793,6 +875,12 @@ from his accursed state, while on the other, it suggests that his opulence is so
 away like a withered petal of lotus. The last foot is taken, which obtains in other mms, leaving off
 the middle foot, that also says the same.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The coppery-red and fragrant lotus petals (tāmrāṇi surabhīṇi ca padma-patrāṇi) of that supremely auspicious Vaidehī (tasyāḥ parama-kalyāṇyā vaidehyāḥ) were scattered all over Rāvaṇa (abhyakīryanta rāvaṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -843,6 +931,12 @@ hue of sun in red heat of midday it beamed forth like a reddish cloud. [3-52-17]
 
 bhaava/import: A reddish cloud is acceptable either in morning or in evening but not in midday since
 it is a bad omen.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And her golden-hued silk garment (tasyāḥ kauśeyaṃ kanaka-prabham), fluttering in the sky (uddhūtam ākāśe), shone like a cloud reddened by the glow of the sun (babhau cāditya-rāgeṇa tāmram abhram iva) at twilight (ātape).
 </details>
 </details>
 
@@ -897,6 +991,12 @@ bhaava/import: A lotus without a stalk looses its glamour as well as its infrast
 the face of moon, Rama brightens Seetha's visage. As moon depends on sun, Seetha depends on Rama, and
 devoid of him, she is lost to the world for a glimpse.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resting on Rāvaṇa's hip in the sky (ākāśe rāvaṇāṅkagam), that spotless face of hers (tasyās tad vimalaṃ vaktram), separated from Rāma (vinā rāmam), did not shine (na rarāja), like a lotus severed from its stalk (vinālam iva paṅkajam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -925,6 +1025,14 @@ devoid of him, she is lost to the world for a glimpse.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुन्दर ललाट मत्तु मनोहर केशयुक्त, कमलद ऒळभागदन्तॆ कान्तियुळ्ळ, यावुदे कलॆगळिल्लद, बिळिय निर्मलवागि हॊळॆयुव दन्तपङ्क्तियिन्द अलङ्कृत, सुन्दर नेत्रगळिन्द सुशोभित आकाशदल्लि रावणन अधीनदल्लिद्द सीतॆय मुखवु कप्पाद मोडगळन्नु भेदिसि उदयिसिद चन्द्रनन्तॆ कण्डुबरुत्तित्तु.॥19-20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** With its shapely forehead (sulalāṭam), lovely hairline (sukeśāntam), spotless complexion (avraṇam), and the hue of a lotus calyx (padma-garbhābham), [her face] appeared like the moon risen after cleaving a dark rain-cloud (babhūva jaladaṃ nīlaṃ bhittvā candra ivoditaḥ)—
+
+**20:** Adorned with white, spotless, and lustrous teeth (śuklaiḥ suvimalair dantaiḥ prabhāvadbhir alaṃkṛtam), that lovely-eyed face of hers (tasyāḥ sunayanaṃ vaktram), resting on Rāvaṇa's hip in the sky (ākāśe rāvaṇāṅkagam)—
 </details>
 </details>
 
@@ -1009,6 +1117,14 @@ thus may cause havocs. Moon coming out when sun is still on sky will be somewhat
 is un-brightened because Rama is not at her side as of now, but like a diamond that is coexistent with
 coal, Seetha is now with this coal-like Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Tear-stained from weeping (ruditam) with its tears wiped away (vyapamṛṣṭāsram), lovely to behold as the moon (candravat priya-darśanam), with a shapely nose (sunāsam), charming coppery lips (cāru-tāmroṣṭham), and the sheen of gold in the sky (ākāśe hāṭaka-prabham)—
+
+**22:** Shaken by the lord of rākṣasas (rākṣasendra-samādhūtam), that auspicious face of hers (tasyās tad vadanaṃ śubham) did not shine without Rāma (śuśubhe na vinā rāmam), like the moon risen by day (divā candra ivoditaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1076,6 +1192,12 @@ kakshyaa iva kaa.ncanii *Then, in the text of Maheshvara Tiirtha this verse 30 i
 farther place that is at 30. 'Then unblemished it is, insofar as proximate reiteration is
 concerned...' it is said so.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resting against the dark-limbed lord of rākṣasas (nīlāṅgaṃ rākṣasādhipam āśritā), the golden-complexioned Maithilī (sā hema-varṇā maithilī) shone like a golden girth-chain (kāñcanī kāñcī) around a dark elephant (nīlaṃ gajam iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1133,6 +1255,12 @@ The nearness or the proximity of a lightning and cloud is short-lived, so is thi
 with Ravana. And the lightning will brighten a darkish cloud, but the darkish cloud cannot darken that
 silvery lightning.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yellow-fair as a lotus (padma-pītā), gleaming like gold (hemābhā), and wearing ornaments of refined gold (tapta-bhūṣaṇā), Janaka's daughter shone upon entering Rāvaṇa's embrace (rāvaṇam āviśya śuśubhe) like lightning entering a dark cloud (vidyud ghanam iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1184,6 +1312,12 @@ cloud with rumbles and undulating lightning. [3-52-25]
 dhvani/innuendo: A massive darkish cloud may rumble, roar or blare, but its bursting will be scanty
 and short. So also, this Ravana may appear like a thunderous cloud as of now, but it dissipates soon.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With the ringing of that Vaidehī's ornaments (tasyā bhūṣaṇa-ghoṣeṇa vaidehyāḥ), the dark lord of rākṣasas (nīlo rākṣaseśvaraḥ) appeared like a gleaming, rumbling rain-cloud (babhūva vimalaḥ saghoṣa iva toyadaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1232,6 +1366,12 @@ surface, fallen.
 
 Flowers gracing her best body on her head, in garlands on chest, and on armlets have fallen all-over
 the surface of earth like showers of flowers while she is being abducted. [3-52-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Sītā was being carried off (sītāyā hriyamāṇāyāḥ), a shower of blossoms fallen from her head (uttamāṅga-cyutā tasyāḥ puṣpa-vṛṣṭiḥ) fell all around upon the surface of the earth (samantataḥ papāta dharaṇī-tale).
 </details>
 </details>
 
@@ -1292,6 +1432,12 @@ up-heaved and fallen on the body of Ravana...' In either the case, Goddess Laksh
 with the flowers fallen from her physique onto the head of Ravana, as with the flowers slid from an
 idol in a temple, becoming worthy to wear on heads of devotees.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swirled about on every side by Rāvaṇa's speed (rāvaṇa-vegena samantataḥ samādhūtā), that shower of blossoms (sā tu puṣpa-vṛṣṭiḥ) circled back around Daśagrīva once again (daśagrīvaṃ punar evābhyavartata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1337,6 +1483,12 @@ Ravana, the brother of Kubera. [3-52-28]
 dhvani/innuendo: This whirling and twirling of flowers around Ravana is not a one time affair. It is
 continued by his dashing speed. When the circling flowers are lowered by gravity, they are again up-heaved
 by Ravana's speed and thus it is recurrent.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The stream of flowers (puṣpāṇāṃ dhārā) encircled the younger brother of Vaiśravaṇa (abhyavartata vaiśravaṇānujam), just as a bright garland of stars (nakṣatra-mālā vimalā) encircles the lofty mountain Meru (meruṃ nagam ivonnatam).
 </details>
 </details>
 
@@ -1384,6 +1536,12 @@ by Ravana's rush. When it is circuitously whirling, that ring's sparkles are lik
 in a circular band. And this ringlet is a symbolic of an electric ring-like guard for the entire earth
 against further atrocities on earth, which is why it exhibited its electric-sparks in sky for a while
 and descended onto earth.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Slipped from Vaidehī's foot (caraṇān bhraṣṭaṃ vaidehyāḥ), a gem-studded anklet (nūpuraṃ ratna-bhūṣitam), resembling a circle of lightning (vidyun-maṇḍala-saṃkāśam), fell upon the surface of the earth (papāta dharaṇī-tale).
 </details>
 </details>
 
@@ -1443,6 +1601,12 @@ it. Here Seetha is that golden girdle to this elephantine Ravana, with the help 
 mahout, can control this elephant in rut, namely Ravana, and can place that pachyderm in its elephant-stable.
 Govindaraja.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ruddy-golden like the young shoot of a tree (taru-pravāla-raktā), that Vaidehī (sā vaidehī) lit up the dark-limbed lord of rākṣasas (nīlāṅgaṃ rākṣaseśvaraṃ praśobhayata), like a golden girth-rope around an elephant (gajaṃ kakṣyeva kāñcanī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1500,6 +1664,12 @@ gardens, instead of placing her in his golden palace, so that his golden palace 
 this torch, called Seetha. But the same torch burns that golden palace down to ashes, though not directly
 but indirectly through Hanuma, in Sundara Kanda, as a coincidence.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering the sky (ākāśam āviśya), the younger brother of Vaiśravaṇa carried off Sītā (jahāra sītām), who blazed with her own effulgence (dīpyamānāṃ sva-tejasā) like a great meteor in the sky (tāṃ maholkām ivākāśe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1548,6 +1718,12 @@ taani bhuuSaNaani* = [some of] those, ornaments; *sa ghoSaaNi* = with, [much] cl
 
 Some of her ornaments which are lustrously flamy, for they are sparkling like the sparkles of fireworks,
 are strewn about on the plane of earth with much clatter like the stars pelted down from the sky. [3-52-32]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those fire-colored ornaments of hers (tasyās tāny agni-varṇāni bhūṣaṇāni) showered down with a ringing sound (saghoṣāṇy avaśīryanta) upon the surface of the earth (mahī-tale), like stars whose merit is exhausted (kṣīṇās tārā iva) falling from the sky (ambarāt).
 </details>
 </details>
 
@@ -1610,6 +1786,12 @@ are her streams, and the string's wavy movement is Ganga's beautiful flexuous an
 the stings are falling off medially from two mountains, called Seetha's breasts, as Ganga also rose
 and fell from mountainous heights.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Slipped from between the breasts of that Vaidehī (tasyāḥ stanāntarād bhraṣṭo vaidehyāḥ), a pearl necklace bright as the lord of stars (hāras tārādhipa-dyutiḥ) shone as it fell (nipatan bhāti) like the Gaṅgā descending from the sky (gaṅgeva gagana-cyutā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1669,6 +1851,12 @@ as with 'ta-ta, cheerio, best of luck...'. The word is 'tree' which comes out of
 earth, thus an earth-born one. Seetha is also an earth-born one and kindred of trees, i.e., nature.
 Nature itself is assuring Seetha to not to fear.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tossed by portentous winds (utpāta-vātābhiratāḥ) and thronged with flocks of diverse birds (nānā-dvija-gaṇāyutāḥ), the trees with their swaying treetops (vidhūtāgrāḥ pādapāḥ) seemed to cry out (vyājahrur iva), “Fear not!” (mā bhair iti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1722,6 +1910,12 @@ The lakes with lotuses as their faces, and fishes as their eyes, and with the ot
 like the swimming, sweeping and sailing water-moving beings like tortoises, waterfowls and the like
 are unenthused, for a similar girlfriend of theirs, the lotus-faced, fish-eyed, lotus-modelled Seetha
 is beleaguered, and thus they are sorrowing for such a selfsame Maithili. [3-52-35]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With their lotuses withered (dhvasta-kamalāḥ) and their fishes and water-creatures terrified (trasta-mīna-jalecarāḥ), the lotus-ponds (nalinyaḥ) seemed to mourn (śocantīva sma) for the dispirited Maithilī as for a dear friend (sakhīm iva gatotsāhāṃ maithilīm).
 </details>
 </details>
 
@@ -1777,6 +1971,12 @@ pursuantly shadowing the shadow of Seetha. [3-52-36]
 dhvani/innuendo: Even the cruellest animals will be compassionate, if only humans are compassionate
 to them. Neither Seetha scared any animal nor any animal scared Seetha. This may be a useful verse for
 Animal Rights Activists.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Flocking together from every side (samantād abhisampatya), lions, tigers, deer, and birds (siṃha-vyāghra-mṛga-dvijāḥ) ran after her in wrath (anvadhāvaṃs tadā roṣāt), following Sītā's shadow (sītā-cchāyānugāminaḥ).
 </details>
 </details>
 
@@ -1835,6 +2035,12 @@ who is up above the sky or pray the Almighty to rescue her? Hence, their raised 
 upraised arms, expressing all of their anguish, more so, with the booming weepy noise of the air coming
 out their caves, which in normal situations will be like the booming voicing of Sama Veda.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Sītā was being carried off (sītāyāṃ hriyamāṇāyām), the mountains (parvatāḥ), with their waterfalls for tear-stained faces (jala-prapātāsra-mukhāḥ) and their peaks for upraised arms (śṛṅgair ucchrita-bāhubhiḥ), seemed to wail aloud (vikrośantīva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1881,6 +2087,12 @@ divaakaraH diinaH* = magnificent, day maker [Sun,] is saddened; *pra vi dhvasta 
 
 On seeing Vaidehi who is being abducted thus, magnificent Sun in firmament is saddened, and lowly weakened
 is his sunshine, palely whitened is his sun-disc, and faintly deadened is his solar constant. [3-52-38]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Vaidehī being carried off (hriyamāṇāṃ tu vaidehīṃ dṛṣṭvā), the glorious sun (śrīmān divākaraḥ) grew downcast (dīnaḥ), his radiance dimmed (pravidhvasta-prabhaḥ) and his orb turned pale (āsīt pāṇḍura-maṇḍalaḥ).
 </details>
 </details>
 
@@ -1967,6 +2179,14 @@ candour or compassion. Hence, they are peeking out skyward repeatedly while Seet
 for Rama and Lakshmana, where the commonality is in the fawn-eyes filled with tears, both to the fawns
 and Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**39:** “Righteousness is no more (nāsti dharmaḥ)—whence then truth (kutaḥ satyam)? There is neither uprightness (nārjavam) nor compassion (nānṛśaṃsatā), since Rāvaṇa is carrying off Rāma's Vaidehī Sītā (yatra rāmasya vaidehīṃ sītāṃ harati rāvaṇaḥ)!”
+
+**40:** Thus all living beings lamented in troops (iti bhūtāni sarvāṇi gaṇaśaḥ paryadevayan), and the terrified fawns (vitrastakā mṛga-potakāḥ), with downcast faces (dīna-mukhāḥ), wept (ruruduḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2019,6 +2239,12 @@ shuddered, bodied; *babhuuvuH* = [bodies] happened to be.
 
 On seeing Seetha who is undergoing anguish in that way the sylvan deities physically shuddered in a
 worst way. [3-52-41b, 42a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Looking up again and again (udvīkṣyodvīkṣya) with eyes lustreless as if from terror (nayanair bhayād iva vilakṣaṇaiḥ), the sylvan deities (vana-devatāḥ) stood with their limbs trembling violently (supravepita-gātrāś ca babhūvuḥ)—
 </details>
 </details>
 
@@ -2082,6 +2308,14 @@ She who is looking searchingly at the plane of earth for Rama or Lakshmana, and 
 but mellowly voice calling "Rama, Lakshmana", and whose hair-lengths are tousled, and whose felicitous
 vermilion mark on her forehead is smudged very untidily, that Decahedral demon abducted such an uncompromising
 husband-devout, Vaidehi, only for his self-ruination. [3-52-42a, 43]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**42:** Upon beholding Sītā crying out piteously (vikrośantīṃ dṛḍhaṃ sītāṃ dṛṣṭvā) and reduced to such anguish (duḥkhaṃ tathā gatām). And that sweet-voiced lady (tāṃ tu madhura-svarām), crying out, “O Lakṣmaṇa! O Rāma!” (lakṣmaṇa rāmeti krośantīm)—
+
+**43:** That high-minded Vaidehī (vaidehīṃ manasvinīm), who kept gazing down again and again at the surface of the earth (avekṣamāṇāṃ bahuśo dharaṇī-talam), her locks dishevelled (ākula-keśāntām) and her forehead-mark rubbed away (vipramṛṣṭa-viśeṣakām)—Daśagrīva carried off to his own destruction (sa tāṃ jahārātma-vināśāya daśagrīvaḥ).
 </details>
 </details>
 
@@ -2150,6 +2384,12 @@ or both are unseen by her, and thus her face is paled for she is chastened by th
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तॆरडनॆय सर्ग सम्पूर्णवायितु.॥52॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that Maithilī of lovely teeth and pure smile (cāru-datī śuci-smitā maithilī), torn away from her kinsfolk (vinākṛtā bandhu-janena) and beholding neither Rāghava nor Lakṣmaṇa (apaśyatī rāghava-lakṣmaṇāv ubhau), grew pale of face (vivarṇa-vaktrā), crushed by the weight of terror (bhaya-bhāra-pīḍitā).
 </details>
 </details>
 

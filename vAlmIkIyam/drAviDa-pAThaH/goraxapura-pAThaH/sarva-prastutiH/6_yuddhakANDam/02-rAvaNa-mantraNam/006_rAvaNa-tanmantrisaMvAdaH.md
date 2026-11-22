@@ -78,6 +78,12 @@ Having seen the fearful and the terrible act in Lanka done by Hanuma, like Deven
 the powerful King of celestials, Ravana with his face descended a little with shame, spoke to the
 demons as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the dreadful and terrifying havoc (kṛtaṃ karma ghoraṃ... bhayāvaham) wrought in Laṅkā by the great-souled Hanūmān (hanumatā... mahātmanā), even as by Śakra [Indra] himself (śakreṇeva), the lord of Rākṣasas, his face slightly bowed with shame (hriyā kiṃcid avāṅ-mukhaḥ), spoke to all the Rākṣasas:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +122,12 @@ also seen (by him).
 
 "By him, who was only a monkey, the irresistible City of Lanka was entered into and
 was over-powered. Seetha the daughter of Janaka was also discovered by him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By that mere monkey alone (tena vānara-mātreṇa), the unassailable citadel of Laṅkā (laṅkā duṣprasahā purī) was entered and violated (dharṣitā ca praviṣṭā ca), and Jānakī Sītā was discovered (dṛṣṭā sītā ca jānakī).
 </details>
 </details>
 
@@ -172,6 +184,12 @@ sanctuary; *dharshhitaH* = was assaulted; *hanumataa* = by Hanuma; *pravaraaH*
 The thousand-pillared building used as a sanctuary was assaulted by Hanuma. Our most
 excellent demons were killed. The entire City of Lanka was made turbid.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The sacred Caitya palace was wrecked (prāsādo dharṣitaś caityaḥ), our foremost Rākṣasas were slain (pravarā rākṣasā hatāḥ), and the entire city of Laṅkā was thrown into turmoil and ruin (āvilā ca purī laṅkā sarvā... kṛtā) by Hanūmān.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -218,6 +236,12 @@ well-done.
 
 May prosperity befall on you! What shall I do? What appropriate thing is to be done
 next? Please speak that which is well-answering and that, if attempted becomes well-done.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What shall I do (kiṃ kariṣyāmi)? May good fortune attend you (bhadraṃ vaḥ)! What next step do you deem fitting (kiṃ vo yuktam anantaram)? Declare what is advantageous for us (ucyatāṃ naḥ samarthaṃ yat), and which, when done, will prove well done (kṛtaṃ ca sukṛtaṃ bhavet).
 </details>
 </details>
 
@@ -268,6 +292,12 @@ desire; *mantram* = a deliberation; *raamamprati* = about Rama.
 "Oh, people of great strength! Wise-men say that victory is dependent on good
 forethought. Verily for that reason, I desire a deliberation about Rama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Wise men of resolute mind declare that victory has counsel for its root (mantra-mūlaṃ ca vijayaṃ pravadanti manasvinaḥ); therefore, O mighty ones (mahā-balāḥ), I desire deliberation regarding Rāma (rocaye mantraṃ rāmaṃ prati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -313,6 +343,12 @@ most and the lowest; *aham* = I; *vadaami* = am telling; *teshhaam* = their;
 
 "There are three types of men in the world, namely the foremost the middle most and
 the lowest. I am telling their inherent merits and defects."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Threefold are men in this world (tri-vidhāḥ puruṣā loke)—supreme, base, and middling (uttamādhama-madhyamāḥ); of them, as they are mingled together (teṣāṃ tu samavetānām), I shall declare the respective merits and defects (guṇa-doṣau vadāmy aham).
 </details>
 </details>
 
@@ -373,6 +409,14 @@ any undertaking after consulting those who are wedded with welfare of others, or
 are efficient in conferring decisions or with friends having common interests or additionally with
 relatives or who try to get a favour from Providence too."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** “He whose deliberation is joined with three [marks] (mantras tribhir hi saṃyuktaḥ) [or: who deliberates with well-wishing ministers], who are capable in deciding policy (samarthair mantra-nirṇaye), or with friends sharing the same interests (mitrair vāpi samānārthaiḥ), or with kinsmen even more numerous (bāndhavair api vādhikaiḥ)—
+
+**8:** “He who, having taken counsel together with them (sahito mantrayitvā), sets enterprises in motion (karmārambhān pravartayet) and also exerts effort toward divine providence (daive ca kurute yatnam), wise men call the noblest of men (puruṣottamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -419,6 +463,12 @@ naram* = that man; *madhyamam* = as mediocre.
 
 "The wise men call that man as mediocre, who deliberates about an activity
 solitarily, applies his mind on law and justice all by himself and performs works singly."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who deliberates upon a matter all alone (eko 'rthaṃ vimṛśet), fixes his mind upon dharma [or providence] alone (eko dharme prakurute manaḥ), and executes undertakings alone (ekaḥ kāryāṇi kurute), they call a middling man (madhyamaṃ naram).
 </details>
 </details>
 
@@ -468,6 +518,12 @@ solitarily, applies his mind on law and justice all by himself and performs work
 recourse to Providence and neglects his duty by simply telling �I shall do it', he is the lowest
 among men."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And he who, without determining the merits and defects (guṇa-doṣau na niścitya) and abandoning reliance on providence (tyaktvā daiva-vyapāśrayam), says ‘I shall do it’ and then neglects the enterprise (kāryam upekṣet), is the lowest of men (sa narādhamaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -513,6 +569,12 @@ known; *uttama adhama madhyamaH* = as good; bad or mediocre."
 
 "In which manner these men are categorized always as good, bad or mediocre, so also
 the resolution in thought is classified as good bad or mediocre."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Just as these men are ever supreme, base, and middling (uttamādhama-madhyamāḥ), so too counsel itself is to be known as supreme, base, and middling (evaṃ mantro 'pi vijñeya uttamādhama-madhyamaḥ).
 </details>
 </details>
 
@@ -561,6 +623,12 @@ the excellent one.
 "The wise say that resolution of thought is excellent, in which the thinkers, on a
 view perceived by scriptures, obtain consensus and are satisfied with it."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Where ministers, having arrived at unanimity of opinion (aikamatyam upāgamya) through the eye of scriptural vision (śāstra-dṛṣṭena cakṣuṣā), remain firmly devoted to it (mantriṇo yatra niratāḥ), that they call supreme counsel (tam āhur mantram uttamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -608,6 +676,12 @@ of a matter; *mantriNaam* = by the counselors; *punaH* = once more; *praaptaH*
 "Only after deliberating several kinds of opinions, that decision of a matter
 obtained finally by a consensus of the counselors, is called mediocre."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Where the determination of a matter (artha-nirṇayaḥ), even after passing through many divergent views of the ministers (bahvīr api matīr gatvā mantriṇām), subsequently reaches unity (punar yatraikatāṃ prāptaḥ), that counsel is remembered as middling (sa mantro madhyamaḥ smṛtaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -654,6 +728,12 @@ divergent opinions; *naasti* = (in which) there is no; *shriyaH* = advantage;
 
 "That resolution is said to be worst in which several arguments are made, employing
 one or the other divergent opinions and in which there is no advantage even after a consensus."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Where debate is carried on in mutual rivalry by clinging to conflicting opinions (anyonya-matim āsthāya yatra sampratibhāṣyate), and even in agreement there is no real welfare (na caikamatyē śreyo 'sti), that counsel is called base (mantraḥ so 'dhama ucyate).
 </details>
 </details>
 
@@ -705,6 +785,12 @@ be done."
 "For that reason, you, having excellent intellect, arrive at a well-thought out
 rightful action. To me, this is earnestly to be done."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O foremost of wise counsellors (bhavanto mati-sattamāḥ), adopt a course of action that is soundly deliberated and salutary (sumantritaṃ sādhu kāryaṃ sampratipadyantām); this I deem my imperative duty (etat kṛtyaṃ mataṃ mama).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -754,6 +840,12 @@ _________________
 "Rama surrounded by thousands of courageous monkeys, is coming to the City of Lanka,
 for the purpose of besieging us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For surrounded by thousands of resolute monkeys (vānarāṇāṃ hi dhīrāṇāṃ sahasraiḥ parivāritaḥ), Rāma is advancing upon the citadel of Laṅkā (rāmo 'bhyeti purīṃ laṅkām) to besiege us (asmākam uparodhakaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -802,6 +894,12 @@ _________________
 
 "Rama, by his be-fitting strength, can certainly cross the ocean easily, with his
 brother along with his army and his companions."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Clearly (suvyaktam), Rāghava will cross the ocean with ease (tariṣyati... sāgaraṃ sukham) by his fittingly matchless valor (tarasā yukta-rūpeṇa), together with his younger brother and his following army (sānujaḥ sa-balānugaḥ).
 </details>
 </details>
 
@@ -862,6 +960,12 @@ good for the city and my army."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि आरनॆय सर्ग पूर्णवायितु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Either he will dry up the ocean (samudram ucchoṣayati) or by his prowess he will contrive some other means (vīryeṇānyat karoti vā); in this impending conflict with the monkeys (tasminn evaṃ-vidhe kārye viruddhe vānaraiḥ saha), deliberate thoroughly upon all that is beneficial for my city and army (hitaṃ pure ca sainye ca sarvaṃ sammantryatāṃ mama).”
 </details>
 </details>
 

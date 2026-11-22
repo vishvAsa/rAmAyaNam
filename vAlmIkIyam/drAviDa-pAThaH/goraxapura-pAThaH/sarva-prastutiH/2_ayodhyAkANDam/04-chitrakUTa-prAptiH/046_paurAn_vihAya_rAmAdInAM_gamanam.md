@@ -70,6 +70,12 @@ vachanam* = these words; *soumitrim* = to Lakshmana :
 Then Rama taking his position at the banks of Tamasa river and looking at Sita,
 spoke to Lakshmana as follows :
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having betaken himself to the lovely bank of the Tamasā (tamasā-tīram), Rāghava, gazing up at Sītā (sītām udvīkṣya), spoke this word unto Saumitri.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ you."
 "Oh, Lakshmana! We have been sent to the forest. Today is the first night of our
 residence in the forest .You ought not feel anxious. May all be well with you!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This today, O Saumitri, is the first night (niśā pūrvā) ushered in (prahitā) of our forest-dwelling (vana-vāsasya), now that we have set out for the woods; auspiciousness be unto you (bhadraṃ te), and you ought not to pine with longing (utkaṇṭhitum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -162,6 +174,12 @@ residence in the forest .You ought not feel anxious. May all be well with you!"
 
 "Look here: As the animals and birds are returning to their respective abodes
 seeking for shelter, the desolate woods seem to be crying from all sides"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold the desolate forests (śūnyāny araṇyāni), as though weeping on every side (rudantīva samantataḥ), with beasts and birds nestled within as they return each to its own resting-place (yathā-nilayam).
 </details>
 </details>
 
@@ -212,6 +230,12 @@ with its women and men; *shochishhyati* = will lament; *asmaan* = about us;
 "Now, the city of Ayodhya the capital of my father with its men and women will
 lament about us that have departed (to the forest). There is no doubt"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today the city of Ayodhyā, my father’s royal capital (rājadhānī pitur mama), with all its women and men (sa-strī-puṃsā), will surely mourn for us who have departed; of this there is no doubt.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -260,6 +284,12 @@ virtues; *bahubhiH* = which are many."
 king no less than to you and myself, as also to Bharata and Satrughna, for many of our
 virtues."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For the people are deeply devoted (anuraktāḥ) to the king by reason of his manifold virtues (bahubhir guṇaiḥ), and likewise unto you and me, O tiger among men, and unto Śatrughna and Bharata as well.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -306,6 +336,12 @@ apivaa bhavetaam = Will they become even; *andhou* = blind; *rudantou* = by weep
 "I feel repented for my father and my illustrious mother. I fear whether they will
 become even blind, by weeping incessantly."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And I grieve for my father and for my illustrious mother (mātaraṃ ca yaśasvinīm); alas, may those two, weeping unceasingly (abhīkṣṇaśaḥ) for our sake, not become blind (apī nāndhau bhavetāṃ nau)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -351,6 +387,12 @@ sahitaiH* = (containing)religious merit ; material welfare and sense- gratificat
 
 "Bharata, the virtuous man, can indeed console my father and mother by his kind
 words."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet surely the righteous-souled Bharata (bharataḥ khalu dharmātmā) will console my father and my mother with words fraught with righteousness, worldly profit, and pleasure (dharmārtha-kāma-sahitaiḥ).
 </details>
 </details>
 
@@ -401,6 +443,12 @@ and again; *aham* = I;naanushochaami = do not grieve; *pitaram* = for(our) fathe
 "Oh,Lakshmana! Thinking of Bharata's kindness again and again, I do not grieve for
 our father and mother"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting again and again upon Bharata’s tender humanity (ānṛśaṃsatvam), I do not grieve so sorely for my father and mother, O mighty-armed one (mahā-bhuja).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -446,6 +494,12 @@ following; *maam* = me; *kaaryam* = a purpose; *kR^itam* = has been served;
 
 "Oh, Lakshmana, tiger among men! You have done well by accompanying me, as
 otherwise, a help would have to be sought for by me for protecting Seetha"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By following after me (mām anuvrajatā), O tiger among men, you have done what needed to be done (kāryam); for otherwise assistance (sahāyatā) would have had to be sought out for the protection of Vaidehī.
 </details>
 </details>
 
@@ -494,6 +548,12 @@ though being present; *etat* = this is; *rochete hi* = indeed a preference;
 " Oh, Lakshmana! I shall live on water alone tonight. Though there are various kinds
 of wild fruits and roots, this is indeed a liking for me"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By water alone (adbhir eva), O Saumitri, shall I pass this night today; for this alone pleases me (etad dhi rocate mahyam), even though manifold forest fare (vanye 'pi vividhe) is at hand.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +599,12 @@ careful; *ashveshhu* = about the horses."
 
 Thus telling Lakshmana, Rama spoke also to Sumantra as follows: "Oh, gentle man!
 Attend to the horses carefully."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus unto Saumitri, Rāghava said also unto Sumantra: “Be you vigilant (apramattaḥ) over the horses, O gentle one (saumya)!”
 </details>
 </details>
 
@@ -589,6 +655,12 @@ eat);babhuuva = (and)became; *pratyanantaraH* = the immediate neighbor(of Rama).
 The sun having completely set, Sumantra tied up the horses, supplied them with
 abundant grass and immediately stood nearest (to Rama).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the sun had gone down to rest (sūrye 'staṃ samupāgate), Sumantra tethered the horses, supplied them with abundant fodder (prabhūta-yavasān kṛtvā), and remained in close attendance (pratyanantaraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -635,6 +707,12 @@ bed; *raamasya* = for Rama.
 
 Having worshipped the beautiful evening twilight and having seen the night come
 nearer, Sumantra along with Lakshmana made the bed for Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having worshipped the auspicious evening twilight (upāsya tu śivāṃ saṃdhyām) and seeing that night had come on, the charioteer, together with Saumitri, prepared a couch (śayanam) for Rāma.
 </details>
 </details>
 
@@ -683,6 +761,12 @@ ha* = laid down.
 Seeing that bed made of leaves of a tree on the bank of Tamasa river with the help
 of Lakshmana, Rama along with his wife laid down on it.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that couch on the bank of the Tamasā strewn with the leaves of trees (vṛkṣa-dalair vṛtām), Rāma, accompanied by Saumitri, lay down to rest together with his consort (sa-bhāryaḥ saṃviveśa ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -728,6 +812,12 @@ various; *guNaan* = virtues; *suutaaya* = to Sumantra.
 
 Seeing that brother sleeping along with his wife, Lakshmana narrated Rama's various
 virtues to Sumantra.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him fast asleep together with his consort (sa-bhāryaṃ samprasuptam) and weary, Lakṣmaṇa recounted unto the charioteer the manifold virtues of Rāma (rāmasya vividhān guṇān).
 </details>
 </details>
 
@@ -775,6 +865,12 @@ river;jaagratohyeva = keeping awake; *taam raatrim* = that (whole) night.
 WhileLakshmana was thus recounting Rama's excellences to Sumantra, keeping awake
 that whole night at the bank of Tamasa river, the sun rose.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even while those two kept vigil through that entire night (jāgrator eva tāṃ rātrim) on the bank of the Tamasā—as Saumitri spoke of Rāma’s virtues unto the charioteer—the sun rose (udito raviḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -820,6 +916,12 @@ Tamasa river; *gokulaakula tiiraayaH* = whose banks were crowded with herds of c
 
 At a good distance from Tamasa river, whose banks were crowded with herds of cows,
 Rama passed that night there with the citizens.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At some distance (vidūrataḥ) from the Tamasā, whose banks were thronged with herds of cattle (gokulākula-tīrāyāḥ), Rāma dwelt through that night together with the citizens (prakṛtibhiḥ saha).
 </details>
 </details>
 
@@ -868,6 +970,12 @@ auspicious bodily marks:
 Getting up from the bed and seeing those citizens, Rama with an extraordinary
 splendor, spoke to his brother, Lakshmana who was endowed with auspicious bodily marks:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And rising up, Rāma of mighty splendour, observing those sleeping citizens (prakṛtīs tā niśāmya ca), spoke unto his brother Lakṣmaṇa, who was endowed with auspicious marks (puṇya-lakṣaṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -914,6 +1022,12 @@ unmindful; *gR^iheshhvapi* = even of their homes; *sampratam* = now;
 
 "Observe, Oh Lakshmana, the citizens full of longing for us, unmindful even of their
 homes, sleeping together at the roots of trees, Oh, the son of Sumitra!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold now, O Lakṣmaṇa, O Saumitri, these citizens who look solely unto us (asmad-vyapekṣān) and have cast aside all regard even for their own homes (nirvyapekṣān gṛheṣv api), lying fast at the roots of trees (vṛkṣa-mūleṣu saṃsaktān)!
 </details>
 </details>
 
@@ -962,6 +1076,12 @@ back; *nyasishhyanti* = (they) will lay down; *praaNaanapi* = even their lives;
 Ayodhya), it seems they will even lay down their lives, but in no case would give up their
 resolve"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To judge by the determined vow (niyamam) these citizens are making for our return (asman-nivartane), they will even lay down their lives (prāṇān nyasiṣyanti), yet they will never abandon their resolve (niścayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1007,6 +1127,12 @@ asleep; *taavadeva* = in that time; *vayam* = we; *laghu* = quickly;
 
 "Till which time the citizens are asleep, within that time, let us quickly mount the
 chariot and take a route which has no fear from any quarter"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While they are still fast asleep (saṃsuptāḥ), even right now let us swiftly (laghu) mount the chariot and set forth upon a path free from every fear (panthānam akuto-bhayam).
 </details>
 </details>
 
@@ -1057,6 +1183,12 @@ me; *nasvapeyuH* = may not sleep; *idaaniim* = as of now; *vR^ikshha muulaani*
 "From this the citizens of Ayodhya (the ancient capital of Ikshvaku), who are
 longing for me, may not sleep as of now, at the roots of trees again and again"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From this point onward (ato bhūyo 'pi), may the dwellers of Ikṣvāku’s city who are so devoted to me (anuraktā mā) no longer sleep as they do now, taking shelter at the roots of trees!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1104,6 +1236,12 @@ citizens; *na yojyaaH hi* = should not be burdened; *duHkhena* = with hardship;
 "The residents of city should indeed be made free of their suffering brought about
 by (citizens) themselves, by the sons of their rulers. The citizens should on no account be
 burdened with hardship caused by (princes) them selves as is our case."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For citizens ought to be delivered by princes (nṛpātmajaiḥ) even from sorrow of their own making (ātma-kṛtād duḥkhāt); never indeed should city-dwellers be yoked to sorrow caused by oneself (ātmanā)!”
 </details>
 </details>
 
@@ -1153,6 +1291,12 @@ Lakshmana replied as follows to Rama, who is standing firm like righteousness
 personified: "Oh, wise brother! What you say is agreeable to me. (Pray) ascend the chariot
 quickly"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa spoke unto Rāma, who stood there like Righteousness incarnate (sākṣād dharmam iva sthitam): “It pleases me thus, O wise one (prājña); let the chariot be mounted swiftly (kṣipram āruhyatām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1199,6 +1343,12 @@ Oh; *capable man! yujyataam* = Arrange; *rathaH* = the chariot; *gamishhyaami*
 
 Then, the glorious Rama spoke to the charioteer as follows: "Oh, capable man! Keep
 the chariot ready. I shall proceed to the forest. Let us go quickly from here."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma spoke unto the charioteer: “Let the chariot be yoked swiftly (śīghraṃ saṃyujyatāṃ rathaḥ)! Thence I shall go to the forest; proceed swiftly from this place (gaccha śīghram itaḥ), O able one (prabho)!”
 </details>
 </details>
 
@@ -1247,6 +1397,12 @@ palms.
 Then, Sumantra quickly fastened the chariot to its excellent horses and thereafter
 submitted with joined palms to Rama (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the charioteer, hastening (saṃtvaritaḥ), yoked the chariot with those finest of steeds (tair hayottamaiḥ) and with joined palms (prāñjaliḥ) reported it unto Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1294,6 +1450,12 @@ with Sita; *saha lakshhmaNaH* = and with Lakshmana . bhadram = May prosperity be
 "Oh, mighty armed prince! Your chariot is kept ready. You ascend it along with Sita
 and with Lakshmana, Oh jewel among car-warriors! May prosperity attend you"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here, O mighty-armed one, your chariot stands yoked (yukto rathas te), O best of chariot-warriors (rathināṃ vara); mount with haste (tvarayāroha), auspiciousness be unto you, together with Sītā and with Lakṣmaṇa!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1335,6 +1497,12 @@ with whirl-pools .
 Rama mounted the chariot with all necessaries (like bow, armor, quiver, spade,
 basket, and so on) and crossed the swift flowing Tamasa river, thickly set with whirl- pools.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting that chariot (taṃ syandanam adhiṣṭhāya) with all his martial equipage (sa-paricchadaḥ), Rāghava crossed over the swift-flowing Tamasā river (śīghragāṃ tamasām ataran nadīm), turbulent with eddies (ākulāvartām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1375,6 +1543,12 @@ danger.
 
 Having duly crossed the stream, the glorious Rama the mighty armed reached a great
 road free from obstacles and safe even for those who are apprehensive of danger.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having crossed over completely (saṃtīrya), that glorious, mighty-armed prince reached a great highway (mahā-mārgam) that was auspicious, free of thorns (śivam akaṇṭakam), and fearless even for the timid (abhayaṃ bhaya-darśinām).
 </details>
 </details>
 
@@ -1447,6 +1621,14 @@ Then the seemingly untruth is not untruth, the hurt in appearance is not really 
 deception is not a deception. Rama the knower of love was free to do what was right and whatever he
 did was righteous.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** Then, to bewilder the citizens (mohanārthaṃ tu paurāṇām), Rāma spoke this word unto the charioteer: “Mounting the chariot, O charioteer, drive forth facing northward (udaṅ-mukhaḥ prayāhi tvam)!
+
+**31:** Having gone swiftly for a brief while (muhūrtaṃ tvaritaṃ gatvā), turn the chariot back again; act with careful attention (samāhitaḥ) in such a way that the citizens may not discover me (yathā na vidyuḥ paurā mām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1495,6 +1677,12 @@ _________________
 
 Hearing Rama's advice, the charioteer made a round of the chariot as he was
 suggested and on returning, reported to Rama about the arrival of the chariot.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma’s word, the charioteer did just so; and having come back again (pratyāgamya), he presented the chariot unto Rāma (rāmasya syandanaṃ pratyavedayat).
 </details>
 </details>
 
@@ -1550,6 +1738,12 @@ drove forward; *turangamaan* = the horses; *pathaa* = along the route; *yena*
 Then, Rama and Lakshmana(the promoters of the race of Raghu) along with Sita
 ascended the chariot yoked together. The charioteer urged the horses along the route by which they
 can reach a grove suited to the practice of austerities.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then those two increasers of Raghu’s line (raghu-vaṃśa-vardhanau), together with Sītā (sa-sītau), mounted the well-yoked chariot; and the charioteer urged on the steeds along that road which led to the ascetic forest (tapo-vanam).
 </details>
 </details>
 
@@ -1616,6 +1810,12 @@ with the charioteer mounted the chariot and proceeded to the forest.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तारनॆय सर्ग पूर्णवायितु.॥46॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having mounted the chariot, the great chariot-warrior (mahā-rathaḥ), the son of Daśaratha, set forth for the forest with his charioteer; but the charioteer had first turned that chariot northward on account of seeing auspicious omens for the journey (prayāṇa-māṅgalya-nimitta-darśanāt).
 </details>
 </details>
 

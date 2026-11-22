@@ -66,6 +66,12 @@ When those two, Vishvamitra and Sumati, have met one another there at that place
 king Sumati raised the topic of Rama and Lakshmana, after exchanging greetings and
 enquiring about the well-being of the great-saint Vishvamitra. [1-48-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having inquired after one another’s welfare there at their mutual meeting (pṛṣṭvā tu kuśalaṃ tatra parasparasamāgame), at the close of their converse King Sumati addressed these words to the great sage (kathānte sumatir vākyaṃ vyājahāra mahāmunim):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -91,6 +97,12 @@ enquiring about the well-being of the great-saint Vishvamitra. [1-48-1]
 
 ‘ब्रह्मर्षिगळे! निमगॆ मङ्गळवागलि’. इवरिब्बरु राजकुमाररु देवतॆगळन्तॆ पराक्रमिगळु ऎन्दु तोरुत्तारॆ. इवर नडिगॆ गज मत्तु सिंहदन्तॆ गम्भीरवागिदॆ. इवरीर्वरु वीररु सिंह मत्तु गूळियन्तॆ कण्डु बरुत्तिरुवरु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“These two young princes—may auspiciousness attend you (imau kumārau bhadraṃ te)—equal the gods in valor (devatulyaparākramau); heroic, moving with the gait of an elephant and a lion, they resemble a tiger and a bull (gajasiṃhagatī vīrau śārdūlavṛṣabhopamau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +127,12 @@ enquiring about the well-being of the great-saint Vishvamitra. [1-48-1]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवर विशालकण्णुगळु कमलदळगळन्तॆ शोभिसुत्तिवॆ. इब्बरू खड्ग, धनुष्य, बत्तळिकॆगळन्नु धरिसिरुवरु. तम्म रूप सौन्दर्यदिन्द अश्विनिदेवतॆगळन्नु नाचिसुत्ता, यौवनद हॊस्तिलिनल्लि अडियन्निट्टिरुवरु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With eyes wide as lotus petals, bearing swords, quivers, and bows (padmapatraviśālākṣau khaḍgatūṇidhanurdharau), they are like the twin Aśvins in beauty and have just reached the bloom of youth (aśvināv iva rūpeṇa samupasthitayauvanau).
 </details>
 </details>
 
@@ -190,6 +208,12 @@ Seetha, in marriage. Hence, he footslogged this much distance for *siitaakalyaaN
 lokakalyaaNaartham* Seetha's marriage, which is for the 'universal
 goodness.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Like two immortals descended to earth from the world of the gods of their own accord (yadṛcchayaiva gāṃ prāptau devalokād ivāmarau), how have they come here on foot, for what purpose, and whose sons are they, O Sage (kathaṃ padbhyām iha prāptau kimarthaṃ kasya vā mune)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -214,6 +238,12 @@ goodness.'
 <details><summary>अनुवाद (कन्नड)</summary>
 
 चन्द्र-सूर्यरु आकाशद शोभॆयन्नु हॆच्चिसुत्तिरुवन्तॆ, ई इब्बरु कुमाररु ई देशवन्नु सुशोभित गॊळिसुत्तिद्दारॆ. देहद ऎत्तर, मनोभाव सूचक सङ्केत हागू नडॆनुडिगळल्लि ऒब्बरु मत्तॊब्बरिगॆ समवागिद्दारॆ.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Adorning this land as the moon and the sun adorn the firmament (bhūṣayantāv imaṃ deśaṃ candrasūryāv ivāmbaram), they resemble one another in stature, inner expression, and outward demeanor (paraspareṇa sadṛśau pramāṇeṅgitaceṣṭitaiḥ).
 </details>
 </details>
 
@@ -273,6 +303,12 @@ very expressions as we presently call this as face reading. This is what Sugreev
 says when sending Hanuma to Rama and Lakshmana for the first time, 'because you
 are an expert in reading faces, know them by their facial expressions...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And for what purpose have these two best of men, heroic bearers ofexcellent weapons, arrived along this rugged path (kimarthaṃ ca naraśreṣṭhau samprāptau durgame pathi varāyudhadharau vīrau)? I wish to hear this in truth (śrotum icchāmi tattvataḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -323,6 +359,12 @@ On hearing those words of King Sumati, Vishvamitra informed him about the visit
 of Rama and Lakshmana to the Hermitage of Accomplishment, also about the elimination
 of demons, as it has happened. [1-48-7a, 7b]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of his, Viśvāmitra recounted all as it had happened (tasya tad vacanaṃ śrutvā yathāvṛttaṃ nyavedayat)—their residence at Siddhāśrama and the slaying of the rākṣasas (siddhāśramanivāsaṃ ca rākṣasānāṃ vadhaṃ yathā); and upon hearing Viśvāmitra’s words, the king was filled with supreme wonder (viśvāmitravacaḥ śrutvā rājā paramavismitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -370,6 +412,12 @@ of Rama and Lakshmana, and treating them to have come as the most prominent and
 honour-worthy guests that king started to honour those two great-mighty sons of
 Dasharatha customarily. [1-48-7c, 8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+According to sacred ordinance, he worshiped those two mighty sons of Daśaratha (putrau daśarathasya tau pūjayām āsa vidhivat), worthy of high honor, who had arrived as supreme guests (atithī paramaṃ prāptau satkārārhau mahābalau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -410,6 +458,12 @@ praapya* = on getting high honour from Sumati; *tatra ekaam nishaam uSya*
 On getting high honours from King Sumati, Raghava-s stayed there along with Vishvamitra
 and with the community of sages for one night, and then they all have moved on to
 Mithila. [1-48-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having received supreme hospitality from Sumati (tataḥ paramasatkāraṃ sumateḥ prāpya), the two Rāghavas dwelt there for a single night and then set forth for Mithilā (uṣya tatra niśām ekāṃ jagmatur mithilāṃ tataḥ).
 </details>
 </details>
 
@@ -460,6 +514,12 @@ by itself it is a temple town and the Vedic-rituals etc., will be going on forev
 It is a blessed place as it has Shiva's Bow, for which bow ritual worship is be
 ongoing from time immemorial.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding from afar that fair city of Janaka (tāṃ dṛṣṭvā janakasya purīṃ śubhām), all the sages acclaimed Mithilā, praising it with cries of “Excellent! Excellent!” (munayaḥ sarve sādhu sādhv iti śaṃsanto mithilāṃ samapūjayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -501,6 +561,12 @@ papracCha* = asked the eminent sage.
 On seeing a hermitage in the fringes of Mithila, that appeared to be age-old, but
 now uninhabited, yet pleasing, Rama asked the eminent sage Vishvamitra. [1-48-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing in a grove on the outskirts of Mithilā (mithilopavane tatra āśramaṃ dṛśya) an ancient, uninhabited, yet lovely hermitage (purāṇaṃ nirjanaṃ ramyam), Rāghava questioned the foremost of sages (papraccha munipuṅgavam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -541,6 +607,12 @@ hermitage; *shrotum icChaami* = I wish to listen.
 "This is semblable to a hermitage but sages seem to have discarded it. Oh, venerable
 sage, whose is this hermitage previously, I wish to listen of it." Thus, Rama asked
 Vishvamitra. [1-48-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What is this place that resembles a hermitage and yet is devoid of sages (idam āśramasaṃkāśaṃ kiṃ nv idaṃ munivarjitam)? I wish to hear, O Venerable Lord: whose hermitage was this of old (śrotum icchāmi bhagavan kasyāyaṃ pūrva āśramaḥ)?”
 </details>
 </details>
 
@@ -591,6 +663,12 @@ uktam* = spoken by Raghava; *tat vaakyam* = that, sentence; *shrutvaa*
 
 On hearing that sentence spoken by Raghava, the expert in sententiousness, a great
 resplendent sage and eminent-saint Vishvamitra replied him in this way. [1-48-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech spoken by Rāghava (tac chrutvā rāghaveṇoktaṃ vākyam), the great sage Viśvāmitra, eloquent in speech and of great splendor, replied (vākyaviśāradaḥ pratyuvāca mahātejā viśvāmitro mahāmuniḥ):
 </details>
 </details>
 
@@ -647,6 +725,12 @@ factually, and which great soul has resentfully cursed this. [1-48-14]
 The pleasure expressed by Vishvamitra is for the arrival of time, for the event
 of Rama's grace, in releasing Ahalya from her cursed state.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Aha! I shall tell you—listen in truth, O Rāghava (hanta te kathayiṣyāmi śṛṇu tattvena rāghava)—whose hermitage-site this is, and how it was cursed in wrath by that high-souled sage (yasyaitad āśramapadaṃ śaptaṃ kopān mahātmanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -688,6 +772,12 @@ gautamasya aasiit* = belonged to the great-souled, Gautama's, was there
 Oh, the best one among men Rama, this hermitage with a heavenly glisten, and highly
 hallowed even by gods, once belonged to the great-souled sage Gautama. [1-48-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of old, O best of men, this hermitage belonged to the high-souled Gautama (gautamasya naraśreṣṭha pūrvam āsīn mahātmanaḥ); celestial in appearance, it was worshiped even by the gods (āśramo divyasaṃkāśaḥ surair api supūjitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -728,6 +818,12 @@ son [prince Rama]; *puraa* = once; *saH* = he - Gautama; *ahalyaasahitaH*
 
 In this hermitage, oh, prince Rama, once that highly renowned Sage Gautama sat
 tight in asceticism for numerous cycle of years along with his wife Ahalya. [1-48-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here in former times, O prince of great renown, he practiced austerity together with Ahalyā for many multitudes of years (sa cātra tapa ātiṣṭhad ahalyāsahitaḥ purā varṣapūgāny anekāni rājaputra mahāyaśaḥ).
 </details>
 </details>
 
@@ -780,6 +876,12 @@ On knowing the meantime of Gautama's availability at hermitage, Indra, the husba
 of Shaci Devi and the Thousand-eyed god wearing the guise of sage Gautama and becoming
 such a sage, approached Ahalya and said this to her. [1-48-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Watching for an opportunity during his absence, the thousand-eyed lord of Śacī (tasyāntaraṃ viditvā ca sahasrākṣaḥ śacīpatiḥ) assumed the guise of the sage and spoke thus to Ahalyā (muniveṣadharo bhūtvā ahalyām idam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -829,6 +931,12 @@ and on seeing your slender waist and thickset hips I wish to copulate with you n
 itself... and let there be no fear of safe period or unsafe period for I do not
 wish to have any progeny of mine from you...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Suitors afflicted by passion do not wait for the ritual fertile season, O exquisitely formed lady (ṛtukālaṃ pratīkṣante nārthinaḥ susamāhite); I desire union with you right now, O slender-waisted one (saṅgamaṃ tv aham icchāmi tvayā saha sumadhyame)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -876,6 +984,12 @@ Her thinking is: This is none but Indra in the guise of my husband, for my husba
 never asks me like this nor he violates times... I heard that Indra is seeking me
 for a long time... and when King of Gods expresses such a desire, it cannot be refused...
 let him have it
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Recognizing the thousand-eyed Indra in the guise of the sage, O delight of the Raghus (muniveṣaṃ sahasrākṣaṃ vijñāya raghunandana), she of clouded judgment resolved upon union out of curiosity for the king of the gods (matiṃ cakāra durmedhā devarājakutūhalāt).
 </details>
 </details>
 
@@ -931,6 +1045,12 @@ Indra, 'I am gratified in complying with your wish, oh, best of gods, get going
 oh, lord, from here quickly, oh, ruler of gods, always safeguard yourself and me
 from Sage Gautama.' Thus, Ahalya said to Indra. [1-48-20, 21a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, with her inner heart satisfied (kṛtārthenāntarātmanā), she spoke to the best of the gods (athābravīt suraśreṣṭham): ‘My desire is fulfilled, O best of the gods; depart quickly from this place, O Lord (kṛtārthāsmi suraśreṣṭha gaccha śīghram itaḥ prabho)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -973,6 +1093,12 @@ I am; *yathaa aagatam gamiSyaami* = as I have come, I will go away.
 
 Indra on his part smilingly said this word to Ahalya, 'oh, well-hipped lady, I
 am quite delighted, here I go as I have came.' [1-48-21b, 22a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Protect yourself and me by every means, O Lord of the Gods, from Gautama (ātmānaṃ māṃ ca deveśa sarvathā rakṣa gautamāt)!’ Laughing, Indra spoke these words to Ahalyā (indras tu prahasan vākyam ahalyām idam abravīt):
 </details>
 </details>
 
@@ -1020,6 +1146,12 @@ hastily; *gautamam prati shankitaH* = uncertain towards [his arrival] Gautama
 
 Oh, Rama, Indra then came out of the cottage flustering hurriedly after copulating
 with her with an uncertainty about the arrival of Sage Gautama. [1-48-22b, 23a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O fair-hipped lady, I am fully delighted; I shall depart just as I came (suśroṇi parituṣṭo ’smi gamiṣyāmi yathāgatam).’ Having thus united with her then, he stepped forth from the leaf-hut (evaṃ saṅgamya tu tadā niścakrāmoṭajāt tataḥ).
 </details>
 </details>
 
@@ -1069,6 +1201,14 @@ Indra looked at Gautama..the one who is great saint, inaccessible to gods and de
 purified with holy water, bright like fire, holding Samidha-s and kusha grass in hands,
 and eminent Sage entering into the hermitage. [1-48-23b, 24, 25a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** “Hurrying in fearful agitation, O Rāma, apprehensive of Gautama (sa sambhramāt tvaran rāma śaṅkito gautamaṃ prati), he then beheld the great sage Gautama entering the hermitage (gautamaṃ sa dadarśātha praviśantaṃ mahāmunim)—
+
+**24:** “unassailable by gods and demons, endowed with the power of austerity (devadānavadurdharṣaṃ tapobalasamanvitam), dripping with sacred ford-water from his bath, and blazing like a sacrificial fire (tīrthodakapariklinnaṃ dīpyamānam ivānalam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1115,6 +1255,14 @@ Indra; *dR^iSTvaa* = on seeing; *roSaat vacanam abraviit* = spoke words by furio
 On seeing the sage the lord of gods Indra is scared and became dreary-faced. Then
 the well-behaved Gautama furiously spoke these words on seeing the ill-behaved Thousand-eyed
 Indra who is donning the guise of a saint. [1-48-25b, 26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** “bearing sacrificial fuel and kuśa grass in his hands (gṛhītasamidhaṃ tatra sakuśaṃ munipuṅgavam). Beholding that foremost of sages, the lord of the gods was struck with terror and his face grew pale and crestfallen (dṛṣṭvā surapatis trasto viṣaṇṇavadano ’bhavat).
+
+**26:** “Then, seeing the thousand-eyed Indra wearing the guise of a sage (atha dṛṣṭvā sahasrākṣaṃ muniveṣadharaṃ muniḥ), the sage of perfect conduct spoke in wrath to that profligate one (durvṛttaṃ vṛttasampanno roṣād vacanam abravīt):
 </details>
 </details>
 
@@ -1163,6 +1311,12 @@ Indra who is donning the guise of a saint. [1-48-25b, 26]
 'Oh, dirty-minded Indra, taking hold of my form you have effectuated this unacceptable
 deed, whereby you shall become infecund.' Thus, Gautama cursed Indra. [1-48-27]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Since, assuming my form, O evil-minded one, you have committed this deed that ought never to be done (mama rūpaṃ samāsthāya kṛtavān asi durmate akartavyam idam), therefore you shall become bereft of your testicles (yasmād viphalas tvaṃ bhaviṣyasi)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1209,6 +1363,12 @@ testicles; *tat kSaNaat* = that, very moment; *bhuumau petatuH*
 
 When that great-souled sage Gautama spoke that way with rancour, the testicles
 of the cursed Thousand-eyed Indra fell down onto ground at that very moment. [1-48-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When the thousand-eyed Indra was thus addressed by the high-souled Gautama in fierce wrath (gautamenaivam uktasya suroṣeṇa mahātmanā), his two testicles fell to the ground that very instant (petatur vṛṣaṇau bhūmau sahasrākṣasya tatkṣaṇāt).
 </details>
 </details>
 
@@ -1301,6 +1461,18 @@ and craze in which you lingered so far, and then you will assume your own body a
 then you can be in my proximity, rejoicingly.' Thus, Sage Gautama cursed his wife
 Ahalya. [1-48-32]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** “Having thus cursed Śakra, he cursed his own wife as well (tathā śaptvā ca vai śakraṃ bhāryām api ca śaptavān): ‘Here for many thousands of years you shall dwell (iha varṣasahasrāṇi bahūni nivasiṣyasi),
+
+**30:** “‘feeding on wind alone, fasting from all other food, performing penance, and lying in ashes (vātabhakṣā nirāhārā tapyantī bhasmaśāyinī); unseen by all beings, you shall dwell in this hermitage (adṛśyā sarvabhūtānām āśrame ’smin vasiṣyasi).
+
+**31:** “‘When the unassailable Rāma, son of Daśaratha, shall come to this dreadful forest (yadā tv etad vanaṃ ghoraṃ rāmo daśarathātmajaḥ āgamiṣyati durdharṣaḥ), then shall you be purified (tadā pūtā bhaviṣyasi).
+
+**32:** “‘By offering hospitality to him, O wayward woman, freed from greed and delusion (tasyātithyena durvṛtte lobhamohavivarjitā), filled with joy in my presence, you shall resume your own visible form (matsakāśaṃ mudā yuktā svaṃ vapur dhārayiṣyasi).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1357,6 +1529,12 @@ Thus, Vishvamitra continued his narration about the legend of Ahalya. [1-48-33]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तॆण्टनॆय सर्ग पूर्णवायितु. ॥48॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having spoken thus to that erring woman, the resplendent Gautama of great austerity (evam uktvā mahātejā gautamo duṣṭacāriṇīm mahātapāḥ) abandoned this hermitage and practiced penance on a lovely peak of Himavat frequented by Siddhas and Cāraṇas (imam āśramam utsṛjya siddhacāraṇasevite himavacchikhare ramye tapas tepe).”
 </details>
 </details>
 

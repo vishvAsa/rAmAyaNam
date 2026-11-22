@@ -39,6 +39,12 @@ _________________
 
 अन्तह करुणाजनक दुःख-शोकदिन्द कूडिद ब्राह्मणन गोळाटवन्नु श्रीरामनु केळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those nectar-like words of Nārada (nāradasya tu tad vākyaṃ śrutvā ’mṛtamayam), he then experienced matchless joy (praharṣam atulaṃ lebhe) and spoke these words to Lakṣmaṇa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -78,6 +84,14 @@ _________________
 
 इदरिन्द अवनु सन्तप्तनादनु. श्रीरामनु मन्त्रिगळन्नु, वसिष्ठ, वामदेव हागू महाजनरॊन्दिगॆ तन्न तम्मन्दिरन्नु आमन्त्रिसिदनु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “Go, O gentle one, comfort that foremost of the twice-born (dvija-śreṣṭhaṃ samāśvāsaya), steadfast in his vows (su-vratam), and have that boy’s body placed in a vat of oil (bālasya tu śarīraṃ tat taila-droṇyāṃ nidhāpaya).
+
+**3:** “With the finest perfumes (gandhaiś ca paramodāraiḥ) and with fragrant oils as well (tailaiś cāpi sugandhibhiḥ), arrange it, O gentle one, so that the boy does not decay (yathā na kṣīyate bālaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -106,6 +120,12 @@ _________________
 
 मार्कण्डेय, मौद्गल्य, वामदेव, काश्यप, कात्यायन, जाबालि, गौतम मत्तु नारदरु हीगॆ आ ऎण्टु मन्दि इद्दरु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Act so that the body of the virtuous boy (śarīro bālasya ... śiṣṭa-karmaṇaḥ), remaining well-protected (guptaḥ san), suffers neither dissolution nor disfigurement (vipattiḥ paribhedo vā na bhavet).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,6 +153,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ ऎल्ल श्रेष्ठ ब्राह्मणरन्नु आसनगळल्लि कुळ्ळिरिसिदनु. अल्लिगॆ आगमिसिद महर्षिगळिगॆ श्रीरामनु कैमुगिदु नमस्करिसि, तानु आसनदल्लि कुळितुकॊण्डनु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus instructed Lakṣmaṇa of auspicious marks (lakṣmaṇaṃ śubha-lakṣaṇam), Kākutstha of great renown (mahā-yaśāḥ) meditated in his mind upon Puṣpaka (manasā puṣpakaṃ dadhyau), thinking, “Come!”
 </details>
 </details>
 
@@ -163,6 +189,12 @@ _________________
 
 मत्तॆ मन्त्रिगळु मत्तु महाजनरॊन्दिगॆ शिष्टाचार निर्वहिसिदनु. उद्दीप्त तेजवुळ्ळ अवरॆल्लरू यथास्थानगळल्लि कुळितुकॊण्डाग श्रीरामनु अवरल्लि ऎल्ल मातुगळन्नु तिळिसि, हेळिदनु - ई ब्राह्मणनु राजद्वारदल्लि सत्याग्रह हूडिद्दानॆ.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving his unspoken intent (iṅgitaṃ sa tu vijñāya), that gold-decked Puṣpaka (puṣpako hema-bhūṣitaḥ) arrived within a single moment (ājagāma muhūrtena) beside Rāghava.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -190,6 +222,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्राह्मणन दुःखदिन्द दुःखितनाद महाराजर ई मातन्नु केळि इतर ऎल्ल ऋषिगळल्लि स्वतः नारदरु हीगॆ शुभवचनवन्नाडिदरु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing low, it spoke (so ’bravīt praṇato bhūtvā): “Here I am, O lord of men (ayam asmi narādhipa)—your obedient servant stands present before you (vaśyas tava ... kiṅkaraḥ samupasthitaḥ), O mighty-armed one!”
 </details>
 </details>
 
@@ -219,6 +257,12 @@ _________________
 
 राजने! याव कारणदिन्द ई बालकन मृत्यु आगिदॆयो, अदन्नु तिळिसुत्तेनॆ. रघुनन्दन! नन्न मातन्नु केळि उचित कर्तव्यवन्नु पालिसु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the pleasing speech of Puṣpaka (bhāṣitaṃ ruciraṃ śrutvā puṣpakasya), the lord of men bowed in reverence to those great seers (abhivādya maharṣīṃs tān) and ascended the aerial car (vimānaṃ so ’dhyarohata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,6 +290,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! मॊदलु कृतयुगदल्लि केवल ब्राह्मणरे तपस्वीगळागिद्दरु. महाराजा! आग ब्राह्मणेतर मनुष्यनु याव रीतियिन्दलू तपस्सिनल्लि प्रवृत्तनागुत्तिरलिल्ल.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking up his bow, his pair of quivers, and his sword of radiant sheen (dhanur gṛhītvā tūṇī ca khaḍgaṃ ca rucira-prabham), and entrusting both heroes, Saumitri and Bharata, to the city (nikṣipya nagare vīrau saumitri-bharatāv ubhau),
 </details>
 </details>
 
@@ -275,6 +325,12 @@ _________________
 
 आ युगवु तपस्सिनिन्द प्रकाशितवागुत्तित्तु. अदरल्लि ब्राह्मणरदे प्रधानतॆ इत्तु. आग अज्ञानद वातावरणविरलिल्ल. अदरिन्द आ युगद ऎल्लरू अकाल मरण रहितरागिद्दु, त्रिकालदर्शियागिद्दरु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the glorious king set forth toward the western quarter (prāyāt pratīcīṃ haritam), searching here and there (vicinvaṃś ca tatas tataḥ); then he proceeded to the northern quarter (uttarām agamad ... diśam), bounded by the Himālaya (himavatā vṛtām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -302,6 +358,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कृतयुगद बळिक त्रेतायुग बन्तु. इदरल्लि सुदृढ शरीरवुळ्ळ क्षत्रियर प्रधानतॆ उण्टायितु. आ क्षत्रियरू अदे प्रकारद तपस्सु माडतॊडगिदरु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing not even the slightest wrongdoing there either (apaśyamānas tatrāpi svalpam apy atha duṣkṛtam), the lord of men next surveyed the entire eastern quarter (pūrvām api diśaṃ sarvām atho ’paśyan narādhipaḥ).
 </details>
 </details>
 
@@ -331,6 +393,12 @@ _________________
 
 आदरू त्रेतायुगदल्लि इरुव महात्मा पुरुषरिगिन्त कृतयुगद जनरु तपस्सु मत्तु पराक्रमद दृष्टियिन्द हॆच्चिनवरागिद्दरु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From his seat in Puṣpaka, the mighty-armed lord of men then beheld that eastern quarter (puṣpakastho mahābāhus tadāpaśyan narādhipaḥ) utterly pure in conduct (praviśuddha-samācārām) and spotless as the surface of a mirror (ādarśa-tala-nirmalām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -358,6 +426,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हिन्दिन युगदल्लि ब्राह्मणरु उत्कृष्ट मत्तु क्षत्रियरु अपकृष्टरागिद्दरु. ई त्रेतायुगदल्लि अवरॆल्लरू समान शक्तिशालियागिद्दारॆ.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that delight of the royal sages pressed on to the southern quarter (dakṣiṇāṃ diśam ākrāmat), and on the northern flank of Mount Śaivala (śaivalasyottare pārśve) he beheld a vast lake (dadarśa sumahat saraḥ).
 </details>
 </details>
 
@@ -388,6 +462,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग मनु आदि ऎल्ल धर्मप्रवर्तकरु ब्राह्मण मत्तु क्षत्रियरल्लि ऒब्बरिगिन्त ऒब्बरु यावुदे विशेषतॆ अथवा न्यूनाधिक्यतॆ नोडदॆ सर्वलोक सम्मत चातुर्वर्ण्यद व्यवस्थॆ स्थापिसिदरु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At that lake, the glorious Rāghava beheld an ascetic (tasmin sarasi ... dadarśa rāghavaḥ śrīmān) practicing exceedingly great austerity (tapyantaṃ tāpasaṃ sumahat tapaḥ), suspended head-downward (lambamānam adho-mukham).
 </details>
 </details>
 
@@ -426,6 +506,14 @@ _________________
 
 त्रेतायुग वर्णाश्रम धर्म प्रधानवागिदॆ. अदु धर्मद प्रकाशदिन्द प्रकाशितवागिदॆ. अदु धर्मदल्लि बाधॆपडिसुव पापदिन्द रहितवागिदॆ. ई युगदल्लि अधर्मवु भूतळदल्लि तन्न ऒन्दु कालन्नूरिदॆ. अधर्मयुक्तवाद्दरिन्द इल्लि जनर तेज दिने-दिने मन्दवागुत्तिदॆ.॥15-16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** Approaching him as he performed that supreme austerity (rāghavas tam upāgamya tapyantaṃ tapa uttamam), Rāma then spoke these words (uvāca sa tadā vākyam): “Blessed are you, O steadfast observer of vows (dhanyas tvam asi su-vrata)!
+
+**16:** “Of what birth are you, O sage ripe in austerity (kasyāṃ yonyāṃ tapo-vṛddha vartase), O man of steadfast valor (dṛḍha-vikrama)? Out of curiosity I ask you (kautūhalāt tvāṃ pṛcchāmi), for I am Rāma, son of Daśaratha (rāmo dāśarathir hy aham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -455,6 +543,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कृतयुगदल्लि जीवनद साधनॆयाद कृषि आदि रजोगुण मूलक कर्म ‘अनृत’ ऎन्दु हेळल्पट्टित्तु मत्तु मलदन्तॆ अत्यन्त ताज्यवागित्तु. आ अनृतवू अधर्मद ऒन्दु पादवागि त्रेतायुगदल्लि ई भूतळदल्लि स्थिरवायितु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What goal is desired by you (ko ’rtho manīṣitas tubhyam)—the attainment of heaven or something higher (svarga-lābhaḥ paro ’thavā)—dependent upon a boon (varāśrayaḥ), for whose sake you perform this exceedingly arduous austerity (yadarthaṃ tvaṃ tapasyasi su-duṣkaram)? Relying upon what birth you have practiced this penance, O ascetic, I wish to hear (yam āśritya tapas taptaṃ śrotum icchāmi tāpasa).
 </details>
 </details>
 
@@ -488,6 +582,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ आनृत (असत्य)रूपी ऒन्दु कालन्नु भूतळदल्लि इट्टु अधर्मवु त्रेतायुगदल्लि कृतयुगक्किन्त आयुस्सन्नु सीमितगॊळिसितु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Are you a brāhmaṇa—may good fortune attend you (brāhmaṇo vā ’si bhadraṃ te)—or an unconquerable kṣatriya (kṣatriyo vā ’si durjayaḥ)? Or are you a vaiśya of the third order (vaiśyas tṛtīya-varṇo vā), or a śūdra? Speak the truth (satya-vāg bhava)!”
 </details>
 </details>
 
@@ -531,6 +631,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऎप्पत्तनाल्कनॆय सर्ग पूर्णवायितु. ॥74॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by that lord of men (ity evam uktaḥ sa narādhipena), that head-downward ascetic declared to that son of Daśaratha (avāk-śirā dāśarathāya tasmai), the bull among kings, both his birth (uvāca jātim) and the aim for which his ascetic endeavor was undertaken (yat-kāraṇe caiva tapaḥ-prayatnaḥ).
 </details>
 </details>
 

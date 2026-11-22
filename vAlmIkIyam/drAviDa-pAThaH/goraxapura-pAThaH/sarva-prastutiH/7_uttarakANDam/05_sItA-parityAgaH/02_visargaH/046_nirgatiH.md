@@ -39,6 +39,12 @@ _________________
 
 अनन्तर रात्रॆ कळॆद्ढु बॆळगादाग लक्ष्मणनु मनस्सिनल्लि दुःखितनागि बाडिद मुखदिन्द सुमन्त्र नल्लि हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when the night had brightened into dawn (rajanyāṃ vyuṣṭāyām), Lakṣmaṇa, crushed in spirit (dīna-cetanaḥ), spoke these words to Sumantra with a parched countenance (mukhena pariśuṣyatā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -68,6 +74,14 @@ _________________
 
 सारथिये! ऒन्दु उत्तम रथदल्लि शीघ्रगामि कुदुरॆगळन्नु हूडि, आ रथदल्लि सीतॆगागि सुन्दर आसनवन्नु इरिसु. नानु महाराजर आज्ञॆयन्तॆ सीतादेवियन्नु पुण्यकर्मा महर्षिगळ आश्रमक्कॆ करॆदॊय्यबेकागिदॆ. नीनु बेगने रथवन्नु तॆगॆदुकॊण्डु बा.॥2-3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “O charioteer (sārathe), swiftly harness the steeds to the finest chariot (turagāñ chīghraṃ yojayasva rathottame), and from the royal palace (rājabhavanāt) prepare a well-cushioned seat for Sītā (svāstīrṇaṃ ... sītāyāś cāsanaṃ kuru).
+
+**3:** “For at the king’s command (rāja-vacanāt), Sītā must be conducted by me (mayā neyā) to the hermitage of the great sages of holy deeds (āśramaṃ puṇya-karmaṇām maharṣīṇām); let the chariot be brought at once (śīghram ānīyatāṃ rathaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -92,6 +106,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग सुमन्त्रनु हागॆये आगली ऎन्दु हेळि कूडले उत्तम कुदुरॆगळन्नु हूडिद ऒन्दु सुन्दर रथवन्नु तन्दनु. अदरल्लि सुखमय शय्यॆयिन्द कूडिद्दु सुन्दर मेल्हॊदिकॆ हासित्तु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saying “So be it,” Sumantra brought forth that chariot, yoked with supreme steeds (yuktaṃ parama-vājibhiḥ), radiant in wondrous beauty (surucira-prakhyam), and smoothly spread with a comfortable couch (svāstīrṇaṃ sukha-śayyayā),
 </details>
 </details>
 
@@ -118,6 +138,12 @@ _________________
 
 अदन्नु तन्दु मित्रर मानवन्नु हॆच्चिसुव सुमित्राकुमारनल्लि हेळिदनु - प्रभो! इदो रथ बन्दिदॆ. मुन्दिन कार्यवन्नु माडु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And addressed Saumitri, enhancer of the honor of his friends (mitrāṇāṃ māna-vardhanam): “This chariot has arrived (ratho ’yaṃ samanuprāptaḥ); let whatever is to be done be performed, O lord (yat kāryaṃ kriyatāṃ prabho)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -143,6 +169,12 @@ _________________
 
 सुमन्त्रनु हीगॆ हेळिदाग नरश्रेष्ठ लक्ष्मणनु अरमनॆयॊळगॆ होगि सीतॆय बळियल्लि इन्तॆन्दनु-॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Sumantra, Lakṣmaṇa, bull among men (nararṣabhaḥ), entered the royal palace (rājaveśmani praviśya), approached Sītā (sītām āsādya), and spoke to her:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +199,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवि! नीवु महाराजरल्लि मुनिगळ आश्रमगळिगॆ होगुव वर केळिद्दीरल्ल. महाराजरु निम्मन्नु आश्रमक्कॆ कळुहिसिकॊडलु ऒप्पिगॆयन्नु नीडिद्दरु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You indeed asked a boon of this sovereign lord (varaṃ vai yācitaḥ prabhuḥ), and it has been promised by the king (nṛpeṇa ca pratijñātam), and I have been commanded (ājñaptaś ca) regarding the hermitage (āśramaṃ prati).
 </details>
 </details>
 
@@ -199,6 +237,12 @@ _________________
 
 विदेहनन्दिनि! देवि ! आ मातिगनुसार नानु राजर आज्ञॆयन्तॆ शीघ्रवागि गङ्गातीरद ऋषिगळ सुन्दर आश्रमगळिगॆ निम्मन्नु करॆदुकॊण्डु होगुवॆनु.॥8½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O noble lady, having gone swiftly to the auspicious hermitages of the sages on the bank of the Gaṅgā (gaṅgātīre ... ṛṣīṇām āśramāñ chubhān), O Vaidehī, at the decree of our king (śāsanāt pārthivasya naḥ), you are to be conducted by me (mayā ... apaneyā bhaviṣyasi) into the forest frequented by ascetics (araṇye munibhir juṣṭe)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -223,6 +267,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महात्मा लक्ष्मणनु हीगॆ हेळिदाग वैदेहि सीतॆगॆ अपार हर्षवायितु. अवळु होगलु सिद्धळादळु.॥9½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spoken to thus by the high-souled Lakṣmaṇa (lakṣmaṇena mahātmanā), Vaidehī felt incomparable delight (praharṣam atulaṃ lebhe) and gladly approved the journey (gamanaṃ cāpy arocayat).
 </details>
 </details>
 
@@ -253,6 +303,14 @@ _________________
 
 बहुमूल्य वस्त्र मत्तु नाना प्रकारद रत्नगळन्नु ऎत्तिकॊण्डु सीतॆयु वनद यात्रॆगागि उद्युक्तळागि लक्ष्मणनल्लि हेळिदळु - इवॆल्ल बहुमूल्य वस्त्राभूणगळन्नु, नाना रीतिय रत्न, धनगळन्नु नानु मुनिपत्नियरिगॆ कॊडुवॆनु.॥10-11½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** Gathering precious garments (vāsāṃsi ca mahārhāṇi) and manifold gems (ratnāni vividhāni ca), Vaidehī prepared to set forth (gamanāyopacakrame).
+
+**11:** “These ornaments (ābharaṇāni), and these costly garments (vastrāṇi ca mahārhāṇi) and varied treasures (dhanāni vividhāni ca), I shall bestow upon the wives of the sages (munipatnīnāṃ dāsyāmy ... aham)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -277,6 +335,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ‘हागॆये आगलि’ ऎन्दु हेळि लक्ष्मणनु मिथिलेश कुमारि सीतॆयन्नु रथदल्लि कुळ्ळिरिसि श्रीरामन आज्ञॆयन्नु गमनदल्लिट्टु, वेगवागि ओडुव कुदुरॆगळुळ्ळ रथदल्लि हत्ति वनद कडॆगॆ हॊरटनु.॥12½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saying “So be it,” Saumitri helped Maithilī ascend the chariot (ratham āropya maithilīm) and set out with swift steeds (prayayau śīghra-turagaiḥ), keeping Rāma’s command ever in mind (rāmasyājñām anusmaran).
 </details>
 </details>
 
@@ -305,6 +369,14 @@ _________________
 
 आग सीतॆयु लक्ष्मीवर्धन लक्ष्मणनल्लि हेळिदळु - रघुनन्दन! ननगॆ अनेक अपशकुनगळु कण्डु बरुत्तिवॆ. इन्दु नन्न बलगण्णु हारुत्तिदॆ. शरीर नडुगुत्तिदॆ.॥13-14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** Then Sītā spoke to Lakṣmaṇa, enhancer of good fortune (lakṣmi-vardhanam): “Many ill omens indeed do I behold (aśubhāni bahūny eva paśyāmi), O delight of the Raghus (raghunandana)!
+
+**14:** “My eye throbs today (nayanaṃ me sphuraty adya), a trembling seizes my limbs (gātrotkampaś ca jāyate), and my very heart, O Saumitri, I feel as though unsettled (hṛdayaṃ caiva ... asvastham iva lakṣaye).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -329,6 +401,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुमित्रा कुमार! नन्न मनस्सु अस्वस्थदन्तागिदॆ. मनस्सिनल्लि भारी उत्कण्ठतॆ उण्टागिदॆ. नन्न अधीरतॆ पराकाष्ठॆगॆ मुट्टिदॆ.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Extreme restlessness (autsukyaṃ paramam) and utter loss of composure (adhṛtiś ca parā) beset me, and I behold the whole earth as though empty (śūnyām eva ca paśyāmi pṛthivīm), O wide-eyed one (pṛthu-locana).
 </details>
 </details>
 
@@ -355,6 +433,12 @@ _________________
 
 विशाललोचन लक्ष्मण! भूमियु बरिदागिरुवन्तॆ ननगॆ तोरुत्तदॆ. भ्रातृवत्सल! निन्न अण्ण कुशलरागि इरलि.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May all be well (api svasti bhavet) with that brother of yours, O brother-devoted one (bhrātṛ-vatsala), and with all my mothers-in-law without exception (śvaśrūṇāṃ caiva me ... sarvāsām aviśeṣataḥ), O hero!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -379,6 +463,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वीरने! नन्न ऎल्ल अत्तॆयन्दिरु आनन्दवागिरलि. नगर मत्तु देशद ऎल्ल प्राणिगळु क्षेमदिन्द इरलि.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And may welfare abide for all living beings in the city and the countryside alike (pure janapade caiva kuśalaṃ prāṇinām api)!” Thus, with palms joined in reverence (añjali-kṛtā), Sītā entreated the gods (devatā abhyayācata).
 </details>
 </details>
 
@@ -411,6 +501,12 @@ _________________
 
 हीगॆ हेळुत्ता सीतॆयु कैमुगिदु देवतॆगळल्लि प्रार्थिसिदळु. सीतॆय मातन्नु केळि लक्ष्मणनु तलॆबागि आकॆगॆ नमस्करिसि, हॊरगिनिन्द प्रसन्ननागि, कमरिद हृदयदिन्द हेळिदनु - ऎल्लर कल्याणवागलि.॥18½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that portentous speech (arthaṃ tataḥ śrutvā), Lakṣmaṇa bowed his head in reverence to Maithilī (śirasā vandya maithilīm) and answered “All is auspicious!” (śivam ity abravīt), appearing cheerful (hṛṣṭaḥ) even as his heart withered within (hṛdayena viśuṣyatā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -435,6 +531,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर गोमतिय तीरक्कॆ होगि ऒन्दु आश्रमदल्लि इरुळन्नु कळॆदु, मत्तॆ प्रातःकाल ऎद्दु सुमित्रा कुमारनु सारथियल्लि हेळिदनु.॥19½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having taken up lodging at a hermitage on the bank of the Gomatī (gomatītīra āśrame), Saumitri rose again at dawn (prabhāte punar utthāya) and spoke to the charioteer (sūtam abravīt):
 </details>
 </details>
 
@@ -461,6 +563,12 @@ _________________
 
 सारथिये! बेगने रथ सिद्धगॊळिसु. भागीरथियन्नु भगवान् शङ्करनु तन्न तेजदिन्द मस्तकदल्लि धरिसिदन्तॆये, इन्दु नानू गङ्गॆयन्नु तलॆयल्लि धरिसुवॆनु.॥20½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Harness the chariot swiftly (yojayasva rathaṃ śīghram)! Today I shall bear the waters of the Bhāgīrathī upon my head (śirasā dhārayiṣyāmi), even as Tryambaka [Śiva] did upon the mountain (tryambakaḥ parvate yathā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -485,6 +593,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सारथियु मनोवेगदन्तॆ वेगशालि कुदुरॆगळन्नु रथक्कॆ हूडिदनु मत्तॆ विदेहनन्दिनी सीतॆयल्लि कैमुगिदु हेळिदनु-देवि! रथारूढरागिरि.॥21½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having then harnessed the four mind-swift steeds to the chariot with their reins (aśvān rajvātha caturo rathe yuṅktvā manojavān), the charioteer stood with joined palms (prāñjaliḥ) and said to Vaidehī: “Pray ascend (ārohasva)!”
 </details>
 </details>
 
@@ -513,6 +627,14 @@ _________________
 
 सूतनु हेळिदाग देवी सीतॆयु आ उत्तम रथवन्नु हत्तिदळु. हीगॆ लक्ष्मण मत्तु बुद्धिवन्त सुमन्त्ररॊन्दिगॆ विशाललोचनॆ सीतादेवियु पापनाशिनी गङ्गातीरक्कॆ तलुपिदळु.॥22-23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** At the charioteer’s word (sūtasya vacanāt), Sītā ascended that finest chariot (āruroha rathottamam) together with Saumitri and the wise Sumantra (saumitriṇā sārdhaṃ sumantreṇa ca dhīmatā),
+
+**23:** And the large-eyed queen reached the sin-destroying Gaṅgā (āsasāda viśālākṣī gaṅgāṃ pāpa-vināśinīm). Then, having journeyed half a day (ardha-divasaṃ gatvā) and beholding the vast watery expanse of the Bhāgīrathī (bhāgīrathyā jalāśayam nirīkṣya), Lakṣmaṇa, wretched with grief (dīnaḥ), broke into loud weeping (praruroda mahāsvanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -537,6 +659,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मध्याह्न भागीरथिय प्रवाहदवरॆगॆ तलुपि लक्ष्मणनु अदन्नु नोडुत्ता दुःखितनागि गट्टियागि बिक्कि-बिक्कि अळतॊडगिदनु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Lakṣmaṇa thus afflicted (dṛṣṭvā lakṣmaṇam āturam), Sītā, deeply distressed (paramāyattā) yet knowing dharma (dharmajñā), spoke these words: “Why is it that you are weeping thus (kim idaṃ rudyate tvayā)?
 </details>
 </details>
 
@@ -567,6 +695,14 @@ _________________
 
 लक्ष्मणनु शोकातुरनादुदन्नु नोडि धर्मज्ञा सीतॆयु अत्यन्त चिन्तितळागि आतनल्लि हेळिदळु - लक्ष्मण! इदेनु? नीनु अळुत्तिरुवॆ. गङ्गातीरक्कॆ बन्दु नन्न चिरकालद अभिलाषॆ पूर्णवागिदॆ. ई हर्षद समयदल्लि नीनु अळुत्ता नन्नन्नु दुःखितॆयन्नागि एकॆ माडुत्तिरुवॆ.॥25-26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** “Having reached the bank of the Jāhnavī, long desired by me (jāhnavī-tīram āsādya cirābhilaṣitaṃ mama), why do you sadden me at this moment of joy (harṣa-kāle kim arthaṃ māṃ viṣādayasi), O Lakṣmaṇa?
+
+**26:** “Ever do you abide at Rāma’s side (nityaṃ tvaṃ rāma-pārśveṣu vartase), O bull among men (puruṣarṣabha); can it be that, parted from him for two nights (kaccid vinākṛtas tena dvirātram), you have fallen into grief (śokam āgataḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -591,6 +727,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषप्रवर! श्रीरामन बळियल्ले नीनु सदा इरुत्तीयॆ. ऎरडु दिन अवनिन्द अगलिदुदक्कॆ नीनु इष्टु शोकाकुलनादॆयेनु.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To me too is Rāma dearer than life itself (dayito rāmo jīvitād api), O Lakṣmaṇa! Yet I do not grieve like this (na cāham evaṃ śocāmi); do not behave so childishly (maivaṃ tvaṃ bāliśo bhava)!
 </details>
 </details>
 
@@ -617,6 +759,12 @@ _________________
 
 लक्ष्मण! श्रीरामनादरो ननगू प्राणक्किन्त हॆच्चु प्रियनागिद्दानॆ; आदरॆ नानु हीगॆ शोकिसुवुदिल्ल. नीनु हीगॆ एकॆ बेसरगॊण्डिरुवॆ.॥28॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Ferry me across the Gaṅgā (tārayasva ca māṃ gaṅgām) and show me the ascetics (darśayasva ca tāpasān); then I shall bestow garments and ornaments upon the sages (tato munibhyo dāsyāmi vāsāṃsy ābharaṇāni ca)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -641,6 +789,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्नन्नु गङ्गॆय आचॆ दण्डक्कॆ कॊण्डु होगु हागू तपस्वी मुनिगळ दर्शन माडिसु. नानु अवरिगॆ वसा भूषणगळन्नु कॊडुवॆनु.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, having offered fitting salutations to the great sages (maharṣīṇāṃ yathārham abhivādanam) and having spent a single night there (tatra caikāṃ niśām uṣya), we shall return once more to that city (yāsyāmas tāṃ purīṃ punaḥ).
 </details>
 </details>
 
@@ -667,6 +821,12 @@ _________________
 
 अनन्तर आ महर्षिगळिगॆ यथायोग्य अभिवादन माडि, अल्लि ऒन्दु रात्रॆ उळिदु, नावु पुनः अयोध्यापुरिगॆ मरळि होगुव.॥30॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For my heart too hastens to behold Rāma (tvarate hi mano draṣṭuṃ rāmam)—the lotus-petal-eyed (padma-patrākṣam), lion-chested (siṃhoraskam), slender-waisted (kṛśodaram) foremost of those who bring delight (ramayatāṃ varam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -691,6 +851,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सिंहदन्तॆ वक्षःस्थळवुळ्ळ, कृश उदार मत्तु कमलदन्तॆ नेत्रवुळ्ळ, मनस्सन्नु रमिसुवुदरल्लि ऎल्लरिगिन्त श्रेष्ठनाद श्रीरामनन्नु नोड बेकॆन्दु नन्न मनस्सू कूड आतुरवागिदॆ.॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of hers, Lakṣmaṇa, slayer of hostile heroes (paravīrahā), wiped his fair eyes (pramṛjya nayane śubhe) and summoned the boatmen (nāvikān āhvayāmāsa); and the ferrymen spoke with joined palms: “Here indeed is a boat made ready (iyaṃ ca sajjā nauḥ)!”
 </details>
 </details>
 
@@ -722,6 +888,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सीतॆय मातन्नु केळि शत्रुवीररन्नु संहरिसुव लक्ष्मणनु तन्न ऎरडू सुन्दर कण्णुगळन्नु ऒरॆसिकॊण्डु, अम्बिगरन्नु करॆदु कैमुगिदु नावॆ सिद्धगॊळिसुवन्तॆ हेळिदनु. स्वामि! दोणि सिद्धवागिदॆ ऎन्दु हेळिदरु.॥32॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Desiring to cross the Gaṅgā (titīrṣur lakṣmaṇo gaṅgām), Lakṣmaṇa approached the auspicious vessel (śubhāṃ nāvam upāruhat), and with composed concentration (samāhitaḥ) Lakṣmaṇa ferried her across the Gaṅgā (gaṅgāṃ santārayāmāsa ... tām).
 </details>
 </details>
 

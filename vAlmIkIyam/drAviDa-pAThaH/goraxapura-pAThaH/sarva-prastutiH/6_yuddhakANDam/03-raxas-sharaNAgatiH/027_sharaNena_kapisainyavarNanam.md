@@ -54,6 +54,12 @@ the army of monkeys, mentioning their names one by one, in detail.
 
 सारणनु मुन्दुवरिसुत्तानॆ- महाराज! वानर सैन्यवन्नु गमनिसुत्तिरुव निमगॆ, रामन सलुवागि तम्म पराक्रम तोरुव, जीवद हङ्गन्नु तॊरॆदु बन्दिरुव दळपतिगळ परिचयमाडिकॊडुत्तेनॆ.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now I shall declare in full to you, as you look on (prekṣamāṇasya), those troop-commanders (yūthapān) who, valorous for the sake of Rāghava (rāghavārthe), do not spare their own lives.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -125,6 +131,16 @@ the city of Lanka; *sahasaa* = soon.
 "Hundreds and thousands of troop-leaders who are resolved to be the servants of
 Sugreeva rally behind him, carrying trees with them and with an intention to attack Lanka
 soon."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** He of dreadful deeds (ghorakarmaṇaḥ), upon whose long tail (dīrghalāṅgūlam) rest glossy hairs (snigdhāḥ) measuring many fathoms (bahuvyāmāḥ)—coppery, yellow, pale, and bright white, scattered all around—
+
+**3:** —which, when held aloft (pragṛhītāḥ), shine like the rays of the sun (sūryasyeva marīcayaḥ) and trail along the ground (pṛthivyāṃ cānukṛṣyante)—this Vānara is named Hara.
+
+**4:** Behind him (pṛṣṭhataḥ) follow by the hundreds and thousands, suddenly brandishing trees (vṛkṣān udyamya) and intent upon scaling Laṅkā (laṅkārohaṇatatparāḥ),—
 </details>
 </details>
 
@@ -232,6 +248,20 @@ appearance, encircled by all like Parjanya (the rain-god) being encircled by clo
 army-chief called Dhumra, the Lord of all bears, who drinks the waters of River Narmada and resides
 on an excellent mountain named Rikshavanta."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** —troop-commanders (yūthapāḥ) who have assembled as servants of the king of monkeys (harirājasya kiṃkarāḥ). And those whom you see standing like dark, massive storm-clouds (nīlān iva mahāmeghān),—
+
+**6:** —resembling black collyrium (asitāñjanasaṃkāśān), of unfailing valor in battle (satyaparākramān), innumerable and beyond specific designation (asaṃkhyeyān anirdeśān), like [the sands upon] the farther shore of the ocean (paraṃ pāram ivodadheḥ)—
+
+**7:** —all those who [dwell] upon mountains, in various territories (viṣayeṣu), and along rivers—these most formidable bears (ṛkṣāḥ sudāruṇāḥ), O king, are advancing against you (tvām abhivartante).
+
+**8:** Standing in their midst, O king, of terrible eyes (bhīmākṣaḥ) and dreadful aspect (bhīmadarśanaḥ), surrounded on all sides like Parjanya by rain-clouds (jīmūtaiḥ),—
+
+**9:** —who inhabits the noblest of mountains, Ṛkṣavat (ṛkṣavantaṃ giriśreṣṭham), drinking the waters of the Narmadā—this troop-commander, overlord of all the bears (sarvarkṣāṇām adhipatiḥ), is named Dhūmra.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -296,6 +326,14 @@ form resembling like his brother, is more distinguished in prowess. He as such i
 even the mighty generals called Jambavan, who is setting on the march (for the battle). He has a
 respectful behaviour towards venerable persons impatient in battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** And his younger brother (yavīyān bhrātā)—behold him, resembling a mountain (parvatopamam), equal to his brother in form (rūpeṇa) yet excelling him in valor (viśiṣṭas tu parākrame)—
+
+**11:** —he is this Jāmbavān by name, a supreme commander of great troop-commanders (mahāyūthapayūthapaḥ), serene (praśāntaḥ), obedient to his elders (guruvartī), and uncompromising in battles (samprahāreṣv amarṣaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -342,6 +380,12 @@ celestials) in a battle between celestials and demons and many boons were obtain
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बुद्धिवन्त ई जाम्बवन्तनु देवासुरर सङ्ग्रामदल्लि इन्द्रनिगॆ बहळ दॊड्ड सहाय माडिद्दनु हागू इन्द्रनिन्द इवनु बहळष्टु वरगळन्नु पडॆदुकॊण्डिद्दनु.॥1.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By this wise Jāmbavān (dhīmatā jāmbavatā) great assistance (sāhyaṃ mahat) was rendered to Śakra in the war of gods and Asuras (daivāsure), and many boons (bahavo varāḥ) were obtained by him.
 </details>
 </details>
 
@@ -398,6 +442,14 @@ and hurl; *mahaabhra vipulaaH* = as big as huge clouds; *shilaaH* = massive rock
 "Jambavan's giant bodied troops, resembling demons and devils, having thick hair and
 endowed with unlimited energy, wander about, climbing mountain-heights and hurl massive rocks as
 big as huge clouds. They do not have a fear in facing death."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** Climbing up, they of vast frames (vipulākārāḥ) hurl down from the mountain peaks (parvatāgrebhyaḥ) boulders as huge as great clouds (mahābhravipulāḥ śilāḥ), and do not shrink back from death (na mṛtyor udvijanti).
+
+**14:** Shaggy with hair (romaśāḥ), resembling Rākṣasas and Piśācas, this [leader's] numerous soldiers (sainyā bahavaḥ) of boundless energy (amitaujasaḥ) roam about.
 </details>
 </details>
 
@@ -459,6 +511,14 @@ called Dambha; *balasamyuktaH* = who along with his army; *balena* = in bulkines
 "O, king! This Lord of monkeys- the commander of commanders on whom, whether he is
 in a hurried fury or leaping or standing still and all the monkeys stand looking - he is called
 Dambha who along with his bulky troops dwell on Sahasraksha mountain."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** Whom all the Vānaras, standing still, gaze upon—that commander of troop-commanders (yūthapayūthapam), fierce with rage (abhisaṃrabdham), who stands as though leaping (plavamānam avasthitam)—
+
+**16:** —this lord of monkeys (harīśvaraḥ), O king, attends upon the thousand-eyed Indra (sahasrākṣam) with his host (balena); endowed with might (balasaṃyuktaḥ), this troop-commander is named Dambha.
 </details>
 </details>
 
@@ -544,6 +604,16 @@ of Rama; *narakSanti* = without protecting; *jiivitam* = their life.
 
 "I on my part shall tell you, who are keenly observing about those army-chiefs, who
 are ready to show their valour in the case of Rama, even without caring for their lives."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** He who, while walking (gacchan), brushes with his flank (pārśvena sevate) a mountain standing a yojana away (yojane sthitam), and likewise, rising aloft with his body (ūrdhvaṃ kāyena gataḥ), reaches a full yojana in height—
+
+**18:** —surpassing whom no higher form (paramaṃ rūpam) exists among quadrupeds (catuṣpātsu), he is renowned as Saṃnādana by name, the grandsire of the Vānaras (vānarāṇāṃ pitāmahaḥ).
+
+**19:** This wise one (dhīmatā) by whom battle was given in combat to Śakra at that time (tadā), and who suffered no defeat (parājayaś ca na prāptaḥ)—he is this commander of troop-commanders (yūthapayūthapaḥ).
 </details>
 </details>
 
@@ -674,6 +744,20 @@ ground.
 "He is a monkey called Hara, who has terrific acts to his credit. The hair on his
 tail, measuring many fathoms, soft, red in colour, yellow, white and super-white, wavery and
 shining like the rays of the sun standing erect thrown about are dragging along the ground."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** He whose valor, when striding forth in battle (vikramamāṇasya), is like the valor of Śakra (śakrasyeva parākramaḥ)—this one was begotten upon a Gandharva maiden (gandharvakanyāyām) by Agni (kṛṣṇavartmanā)—
+
+**21:** —at the time of the war between gods and Asuras (devāsure yuddhe), for the assistance of the dwellers in heaven (sāhyārthaṃ tridivaukasām). Where King Vaiśravaṇa resorts to the rose-apple tree (jambūm upaniṣevate),—
+
+**22:** —that sovereign of lordly mountains (parvatendrāṇāṃ rājā) frequented by many Kiṃnaras (bahukiṃnarasevinām), which ever bestows the pleasure of sport upon your brother [Kubera] (bhrātus te vihārasukhadaḥ), O lord of Rākṣasas—
+
+**23:** —there this glorious and mighty foremost of Vānaras (vānarottamaḥ) delights (ramate); ever unboastful in battles (yuddheṣv akatthanaḥ), this troop-commander is named Krathana.
+
+**24:** Surrounded by a thousand crores of monkeys (koṭisahasreṇa harīṇām) and standing ready (samavasthitaḥ), he alone aspires (eṣaivāśaṃsate) to crush Laṅkā with his own army (svenānīkena).
 </details>
 </details>
 
@@ -835,6 +919,24 @@ different directions. Energetic and excited army of monkeys is also stationed th
 Pramathi."
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** He who roams along the Gaṅgā (gaṅgām anuparyeti), terrifying the leaders of elephant-herds (gajayūthapān) as he recalls the ancient enmity (pūrvavairam anusmaran) between elephants and monkeys—
+
+**26:** —this troop-commander and leader (yūthapatir netā), roaring and lairing in mountain caves (giriguhāśayaḥ), checks the wild elephants (gajān rodhayate vanyān) while shattering trees (ārujaṃś ca mahīruhān).
+
+**27:** Chief of the monkey hosts (harīṇāṃ vāhinīmukhyaḥ), resorting along the Himālayan river [Gaṅgā] (nadīṃ haimavatīm anu) to Uśīrabīja and to Mandara, the foremost of mountains (parvatottamam),—
+
+**28:** —this best of Vānaras sports like Śakra himself in heaven (divi śakra iva svayam). A thousand hundred-thousands (śatasahasrāṇāṃ sahasram) attend upon him—
+
+**29:** —of roaring monkeys of mighty arms (bāhuśālinām), proud of their heroism and valor (vīryavikramadṛptānām); and he is this leader of those high-souled Vānaras.
+
+**30:** He is this irresistible (durdharaḥ) troop-commander named Pramāthī, O king, whom you behold here like a storm-cloud driven up by the wind (vātenevoddhataṃ megham).
+
+**31:** And [you behold] the furious host (anīkam api saṃrabdham) of impetuous Vānaras (vānarāṇāṃ tarasvinām), where, stirred up on all sides by the wind (pavanena samantataḥ), ruddy-gleaming (aruṇābhāsam),—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -892,6 +994,14 @@ bodily strength.
 appearance and with great strength, experiencing the crossing of the bridge, surrounds the
 troop-leader by name Gavaksha, a monkey and are making a roaring noise, ready to crush Lanka by
 their bodily strength."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** —this thick dust (bahulaṃ rajaḥ) swirls about manifoldly (vivartamānaṃ bahuśaḥ). These fierce, black-faced (asitamukhāḥ) and mighty golāṅgūla monkeys,—
+
+**33:** —a hundred hundred-thousands (śataṃ śatasahasrāṇi) strong, having beheld the construction of the causeway (dṛṣṭvā vai setubandhanam), [surround] the golāṅgūla troop-commander named Gavākṣa, O great king,—
 </details>
 </details>
 
@@ -973,6 +1083,18 @@ whose table-land on the top of the mountain the great sages do not leave, wherei
 mango-trees laden with fruits on all sides and wherein inhabit honey-bees of excellent
 variety."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**34:** —and, encompassing him (parivārya), roar aloud (abhinardante) to crush Laṅkā with their might (ojasā). And where trees bearing fruit in every season (sarvakālaphaladrumāḥ) are frequented by bees (bhramarācaritāḥ),—
+
+**35:** —that mountain shining with a hue like the sun's own (tulyavarṇābham), around which the sun revolves (sūryo 'nuparyeti), and by whose radiance (yasya bhāsā) the beasts and birds ever gleam of that same golden hue (tadvarṇāḥ)—
+
+**36:** —whose tableland (prastham) high-souled great sages never forsake (na tyajanti maharṣayaḥ), where trees yielding every desired fruit (sarvakāmaphalā vṛkṣāḥ) are ever laden with fruit (sadā phalasamanvitāḥ),—
+
+**37:** —and upon which best of mountains (parvatasattame) are precious honeys (madhūni ca mahārhāṇi)—there upon that lovely Golden Mountain (kāñcanaparvate), O king, this one delights,—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1000,6 +1122,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अरवत्तु साविर रमणीय सुवर्णमय पर्वतगळ नडुवॆ सावर्णिमेरु ऎम्ब ऒन्दु श्रेष्ठ पर्वतविदॆ. राक्षसपतिये! राक्षसरल्लि नीवु श्रेष्ठरागिरुवन्तॆये पर्वतगळल्लि आ पर्वतवु श्रेष्ठवागिदॆ.॥38॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—the chief of Vānara chiefs (mukhyo vānaramukhyānām), the troop-commander named Kesarī. Sixty thousand mountains (ṣaṣṭir girisahasrāṇi) there are, lovely golden mountains (kāñcanaparvatāḥ);—
 </details>
 </details>
 
@@ -1073,6 +1201,18 @@ like tigers, resembling fire, like unto serpents vomiting poison with their very
 tails, resembling elephants in rut, equal to mighty mountains and making great thunderous sound
 like that of clouds. All of them stand looking on your Lanka as if they are about to crush it."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**39:** —in their midst stands the sovereign mountain (girivaraḥ), like you among the Rākṣasas, O faultless one (anagha). There dwell certain [monkeys]—tawny, white, copper-faced, and honey-yellow (madhupiṅgalāḥ)—
+
+**40:** —who inhabit that farthest mountain (antimagirau), sharp-fanged (tīkṣṇadaṃṣṭrāḥ) and armed with claws (nakhāyudhāḥ), four-tusked like lions (siṃhā iva caturdaṃṣṭrāḥ) and unassailable as tigers (vyāghrā iva durāsadāḥ).
+
+**41:** All of them are equal to Vaiśvānara fire (vaiśvānarasamāḥ) and resemble blazing venomous serpents (jvaladāśīviṣopamāḥ), having very long, gracefully curved tails (sudīrghāñcitalāṅgūlāḥ) and resembling rutting elephants (mattamātaṅgasaṃnibhāḥ).
+
+**42:** Resembling great mountains (mahāparvatasaṃkāśāḥ) and thundering like massive storm-clouds (mahājīmūtaniḥsvanāḥ), they have round, yellow-brown eyes (vṛttapiṅgalanetrāḥ) and most terrible gaits and roars (mahābhīmagatisvanāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1128,6 +1268,14 @@ he; *aashamasate* = who swears; *marditum* = to destroy; *laN^kaam* = Lanka;
 faces the sun, who is a wise man, eager to conquer you and is famous in the world by the name,
 Shatabali. He swears to destroy Lanka with his troops."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**43:** Beholding your Laṅkā (laṅkāṃ samīkṣya te), all of them stand as though crushing her (mardayantīva tasthuḥ); and in their midst stands their valorous overlord (eṣām adhipatir vīryavān),—
+
+**44:** —the valorous one who, seeking victory (jayārthī), ever worships the Sun (nityam ādityam upatiṣṭhati), and who is renowned across the earth by the name Śatabali, O king.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1170,6 +1318,12 @@ sake of Rama.
 
 "This Shatabali the monkey is courageous, strong, valiant and is established in his
 manliness. He does not care for his life, in the cause of Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He alone aspires (eṣaivāśaṃsate) to crush Laṅkā with his own army (svenānīkena)—valorous, mighty, heroic, and firmly established in his own manly prowess (pauruṣe sve vyavasthitaḥ).
 </details>
 </details>
 
@@ -1216,6 +1370,12 @@ koTibhiH* = by ten crores; *yodhaanaam* = of warriors.
 
 "Each and every single one, like Gaja, Gavaya, Nala and a monkey called Nila is
 surrounded by crores of warriors."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For the sake of what is dear to Rāma (rāmapriyārtham), this monkey shows no regard for his own life-breath (prāṇānāṃ dayāṃ na kurute). Gaja, Gavākṣa, Gavaya, Nala, and the Vānara Nīla—
 </details>
 </details>
 
@@ -1265,6 +1425,12 @@ mountain; *laghuvikramaaH* = and are impossible; *samkhyaatum* = to be counted;
 
 "Besides, other excellent monkeys residing in Vindhya mountain are quick-paced and
 are impossible to be counted because of their multitude."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—each one alone is surrounded by ten crores of warriors (koṭibhir daśabhir vṛtaḥ). So too other foremost Vānaras dwelling on the Vindhya mountain (vindhyaparvatavāsinaḥ), swift in valor (laghuvikramāḥ), cannot be numbered on account of their multitude (bahutvāt).
 </details>
 </details>
 
@@ -1323,5 +1489,11 @@ by uprooting and razing its mountains to the ground."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तेळनॆय सर्गः पूर्णवायितु. ॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All of them, O great king, are of mighty power (mahāprabhāvāḥ); all have bodies resembling great mountains (mahāśailanikāśakāyāḥ); all are capable of rendering the earth in an instant (kṣaṇena) strewn with shattered and scattered mountains (pravidhvastavikīrṇaśailām).”
 </details>
 </details>

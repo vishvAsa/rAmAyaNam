@@ -77,6 +77,12 @@ with auspicious hymns of praise on the night preceding Naandimukha.
 Naandimukha: The name of a ceremony in honour and for the benefit of dead
 relatives observed on a festive occasion to secure their blessings.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, as that auspicious-faced night drew toward dawn (tato nāndī-mukhīṃ rātrim), bards and panegyrists skilled in the distinctions of speech praised Bharata with eulogies fraught with blessings (bharataṃ sūta-māgadhāḥ tuṣṭuvur vāg-viśeṣa-jñāḥ stavair maṅgala-saṃhitaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -128,6 +134,12 @@ A drum from the sound of which nigh-hours are identified, struck with a golden
 stick, gave its sound. Couches and loud-sounding instruments in hundreds producing various types of
 noises were blown.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck with a golden drumstick, the watch-drum resounded (suvarṇa-koṇābhihataḥ prāṇadad yāma-dundubhiḥ), and men blew conchs by the hundreds along with wind instruments of high and low notes (dadhmuḥ śaṅkhāṃś ca śataśo nādāṃś coccāvaca-svarān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -174,6 +186,12 @@ grief.
 
 That mammoth sound of the musical instruments, as if filling up the whole sky,
 created further distress and grief to Bharata who was already tormented with grief.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That mighty din of musical instruments, filling the sky as it were (sa tūrya-ghoṣaḥ sumahān divam āpūrayann iva), pierced Bharata, already tormented by grief, all the more with sorrows (bharataṃ śoka-santaptaṃ bhūyaḥ śokair arandhrayat).
 </details>
 </details>
 
@@ -222,6 +240,12 @@ am not; *raajaa* = the king; *samnivartyacha* = caused to stop; *tam* = that;
 Then, the awakened Bharata proclaiming that "I am not the king", caused to stop that
 sound and spoke the following words to shatrughna:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awakened thereupon, Bharata stopped that clamor (tataḥ prabuddho bharatas taṃ ghoṣaṃ sannivartya ca), and exclaiming, “I am not the king!” spoke these words to Śatrughna (nāhaṃ rājeti cāpy uktvā śatrughnam idam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -268,6 +292,12 @@ sound and spoke the following words to shatrughna:
 
 "Behold, O, Shatrughna! How much harm was done to the world by Kaikeyi! The king
 Dasartha left us, leaving all sorrows to me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold, O Śatrughna, the great wrong done to the world through Kaikeyī (paśya śatrughna kaikeyyā lokasyāpakṛtaṃ mahat); casting all these sorrows upon me, King Daśaratha has departed (visṛjya mayi duḥkhāni rājā daśaratho gataḥ).
 </details>
 </details>
 
@@ -317,6 +347,12 @@ Dasartha left us, leaving all sorrows to me."
 high-souled Dasaratha the righteous king is now like boat without a rudder moving hitter and
 thither in water.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This royal sovereignty of that high-souled and righteous king, firmly rooted in righteousness (tasyaiṣā dharma-rājasya dharma-mūlā mahātmanaḥ rājya-śrīḥ), now drifts about like a ship without a helmsman upon the water (paribhramati naur ivākarṇikā jale).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -363,6 +399,12 @@ who; *sumahaan* = was a great; *naathaH* = protector; *naH* = to us;
 
 "Even that Rama, who was a great protector has been sent to the forest by this very
 mother of mine, abandoning her righteousness."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For he who is our supreme lord—even that Rāghava himself has been banished to the forest by this mother of mine, who cast aside righteousness (yo hi naḥ sumahān nāthaḥ so 'pi pravrājito vanam anayā dharmam utsṛjya mātrā me rāghavaḥ svayam).”
 </details>
 </details>
 
@@ -411,6 +453,12 @@ mother of mine, abandoning her righteousness."
 Seeing Bharata who lost his consciousness by lamenting in that way, all the women
 then miserably cried in one voice.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Bharata lamenting thus in utter distraction (ity evaṃ bharataṃ prekṣya vilapantaṃ vicetanam), all the royal women wept piteously aloud at that time (kṛpaṇaṃ ruruduḥ sarvāḥ sa-svaraṃ yoṣitas tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,6 +505,12 @@ Ikshvaku dynasty.
 
 While Bharata was lamenting thus, the great illustrious Vasishta who knew the rules
 relating to kings, entered the assembly-hall of Dasaratha the Lord of Ikshvaku dynasty.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While he was lamenting thus, the illustrious Vasiṣṭha, knower of royal duty (tathā tasmin vilapati vasiṣṭho rāja-dharmavit mahā-yaśāḥ), entered the assembly hall of the lord of the Ikṣvākus (sabhām ikṣvāku-nāthasya praviveśa).
 </details>
 </details>
 
@@ -527,6 +581,14 @@ follows)
 
 Vasista, who knew all the scriptures, then sat in a presidential chair made of gold
 and wrapped with a comfortable cushion. He ordered the messengers as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** Righteous-souled and accompanied by his troop of disciples (dharmātmā sa-gaṇaḥ), he entered that lovely hall wrought of gold and teeming with gems and jewels, resembling Sudharmā, the assembly hall of the gods (śātakumbha-mayīṃ ramyāṃ maṇi-ratna-samākulām sudharmām iva pratyapadyata).
+
+**11:** That knower of all the Vedas seated himself upon a golden seat overspread with a comfortable coverlet (sa kāñcanamayaṃ pīṭhaṃ sukhāstaraṇa-saṃvṛtam adhyāsta sarva-vedajño), and gave orders to the messengers (dūtān anuśaśāsa ca):
 </details>
 </details>
 
@@ -599,6 +661,14 @@ charioteer; *ye janaaH* = and those people who; *hitaaH* = are royal well-wisher
 (Bharata's maternal uncle) Sumantra the charioteer and those people who are royal well-wishers
 there."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “Unflurried, quickly bring hither Brāhmaṇas, Kṣatriyas, Vaiśyas, ministers, and commanders of troops (brāhmaṇān kṣatriyān vaiśyān amātyān gaṇa-vallabhān kṣipram ānayatāvyagrāḥ), for an urgent matter of state presses upon us (kṛtyam ātyayikaṃ hi naḥ);
+
+**13:** as well as Śatrughna with the royal attendants, the illustrious Bharata, Yudhājit, Sumantra, and all those people who are well-wishers in this matter (sa-rāja-bhṛtyaṃ śatrughnaṃ bharataṃ ca yaśasvinam yudhājitaṃ sumantraṃ ca ye ca tatra hitā janāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -644,6 +714,12 @@ shabdaH* = hallooing sound; *samapadyata* = generated from the people;
 
 There was a huge hallooing sound generated while the people invited were coming on
 chariots, horses and elephants.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then a mighty tumult of ‘Halahalā!’ arose (tato halahalā-śabdaḥ sumahān samapadyata) as people arrived on chariots, horses, and elephants (rathair aśvair gajaiś cāpi janānām upagacchatām).
 </details>
 </details>
 
@@ -691,6 +767,12 @@ celestials.
 
 People of high position like ministers and other welcomed the approaching Bharata in
 every way as they had welcomed Dasaratha and as Indra was welcomed by celestials.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the subjects welcomed Bharata as he arrived, just as the immortals welcome Śatakratu and just as they formerly welcomed Daśaratha (tato bharatam āyāntaṃ śatakratum ivāmarāḥ pratyanandan prakṛtayo yathā daśarathaṃ tathā).
 </details>
 </details>
 
@@ -763,5 +845,11 @@ and sand and filled with great fish and serpents.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तॊन्दनॆय सर्ग पूर्णवायितु.॥81॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a deep sea-pool frequented by whales and sea-elephants, still-watered, with gems, conchs, and golden gravel (hrada iva timi-nāga-saṃvṛtaḥ stimita-jalo maṇi-śaṅkha-śarkaraḥ), that assembly hall graced by Daśaratha’s son shone as if with Daśaratha himself, just as of old (daśaratha-suta-śobhitā sabhā sa-daśaratheva babhau yathā purā).
 </details>
 </details>

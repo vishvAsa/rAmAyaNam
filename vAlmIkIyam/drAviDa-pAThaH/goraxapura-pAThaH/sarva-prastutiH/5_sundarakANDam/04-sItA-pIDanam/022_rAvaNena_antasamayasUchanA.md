@@ -73,6 +73,12 @@ are seen to be pleasant.
 Ravana listening to Seetha's words which were harsh thereafter replied to Seetha unpleasant words
 which are seen to be pleasant.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Sītā’s harsh speech (paruṣaṃ vacanam), the lord of the rākṣasas then spoke an unpleasant reply (vipriyam) to Sītā, who was lovely to behold (priyadarśanām):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +126,12 @@ words; *tathaa tathaa* = in that way; *paribhuutaH* = they will be rejected.
 "In whatever way gentle language is used to women in that way they will be under control. In whatever
 way men speak dear words, in that way they will be rejected."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The more a man speaks soothingly (sāntvayitā), the more he falls under the sway (vaśyaḥ) of women; the more he speaks what is pleasing (priyaṃ vaktā), the more he is despised (paribhūtaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +177,12 @@ up; *saMniyachchhati* = is subdueing; *krodham* = anger;hayaniva = like horses; 
 "In your matter desire which has risen up is subdueing my anger like horses running obtaining a
 bad path being subdued by a good charioteer."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The passion (kāmaḥ) that has arisen in me for you checks (saṃniyacchati) my wrath, just as a skilled charioteer (susārathiḥ) [checks] horses bolting off the road!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -203,6 +221,12 @@ bad path being subdued by a good charioteer."
 
 "Desire of men is unfavourable. In which man desire is tied up, in that man there is compassion
 and fondness."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon whatever person the perverse passion (vāmaḥ kāmaḥ) of mortals fastens itself, toward that very person, they say, compassion (anukrośaḥ) and affection arise.
 </details>
 </details>
 
@@ -253,6 +277,12 @@ sham exile; *na ghaatayaami* = I am not killing you.
 "O one with a beautiful face! For this reason although you are suitable to be killed and suitable
 to be humilaited, interested in Rama who is in sham exile, I am not killing you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For this reason, O lovely-faced lady (varānane), I do not put you to death, though you deserve death (vadhārhām) and humiliation and delight in a false asceticism (mithyā pravrajane ratām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -295,6 +325,12 @@ slaying; *yuktaH* = is suitable;
 
 "O Seetha! Here whatever harsh words you are speaking about me, because of those words, you are
 suitable to be horribly slayed."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For each and every harsh word (paruṣāṇi vākyāni) that you speak to me, O Maithilī, a dreadful death (vadho dāruṇaḥ) would be fitting for you!”
 </details>
 </details>
 
@@ -341,6 +377,12 @@ suitable to be horribly slayed."
 The king of ogres Ravana speaking thus to Seetha, full of anger and fury spoke subsequent word
 to Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to Vaidehī, Rāvaṇa, the overlord of the rākṣasas, filled with furious agitation (krodhasaṃrambhasaṃyuktaḥ), spoke a further word to Sītā:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -380,6 +422,12 @@ thereafter; *aaroha* = ascend; *mama shayanam* = my bed.
 
 "O Seetha with best complexion! Whatever limit has been made by me to you, those two months are
 protectable to me. Thereafter ascend my bed."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Two months (dvau māsau) remain to be kept by me—the time-limit (avadhiḥ) that I fixed for you; thereafter, O lady of exquisite complexion (varavarṇini), ascend my couch!
 </details>
 </details>
 
@@ -429,6 +477,12 @@ _________________
 
 "Above two months you not desiring me as husband will be killed in my kitched for my breakfast."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+But after two months, if you still do not desire me as your husband, cooks (sūdāḥ) shall chop you up piece by piece (khaṇḍaśaḥ) for my morning meal (prātarāśārthe)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -470,6 +524,12 @@ Deva and Gandharva maidens; *vishheduH* = grieved; *vikR^itekshaNaaH* = with tro
 
 Seeing Seetha being frightened by Ravana those Deva and Gandharva maidens grieved with troubled
 eyes.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that Jānakī being menaced (bhartsyamānām) by the lord of the rākṣasas, those daughters of gods and gandharvas (devagandharvakanyāḥ) sank into dejection with distressed eyes (vikṛtekṣaṇāḥ).
 </details>
 </details>
 
@@ -519,6 +579,12 @@ in the like manner; *aparaaH* = some (others); *vaktranetraiH* = with faces and 
 Some in the way of lips and in like manner some others with faces and eyes consoled that Seetha
 frightened by that ogre.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some by movements of their lips (oṣṭhaprakāraiḥ), and others by gestures of their eyes and faces (netrair vaktraiḥ), comforted Sītā as she was threatened by that rākṣasa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -560,6 +626,12 @@ _________________
 
 Consoled by them Seetha proud of virtuous conduct spoke words beneficial to self to the king of
 ogres Ravana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reassured (āśvāsitā) by them, Sītā spoke to Rāvaṇa, the overlord of the rākṣasas, a speech salutary for herself (ātmahitam) and proud with the heroism of her chaste conduct (vṛttaśauṭīryagarvitam):
 </details>
 </details>
 
@@ -604,6 +676,12 @@ nuunam = this is definite.
 "Whoever prevents you from these actions which are blameable, such a person interested in your
 welfare there is none. This is definite."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely there is no one in this city devoted to your ultimate welfare (niḥśreyasi sthitaḥ), since no one restrains (nivārayati) you from this reprehensible deed (karmaṇo vigarhitāt)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -647,6 +725,12 @@ _________________
 "In all the three worlds except you who even by heart will desire me who am the wife of virtuous
 Rama like Sachi the wife of Indra."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Who else than you in the three worlds would even in thought (manasāpi) covet me, the wife of that righteous-souled lord, like Śacī the consort of Śacīpati [Indra]?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -686,6 +770,12 @@ respendent Rama; *tasya* = from that word; *kva* = where; *gataH* = will you go;
 
 "O vile ogre! Whatever sinful word you spoke to me who is the wife of the great resplendent Rama,
 from that word where will you go to be released?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O vilest of rākṣasas (rākṣasādhama), having spoken such a sinful word against the wife of Rāma of immeasurable splendour (amitatejasaḥ), whither will you flee to escape (mokṣyase) from it?
 </details>
 </details>
 
@@ -730,6 +820,12 @@ one! raamaH = Rama; *dviradavat* = is like an elephant; *tvam* = you; *smR^itaH*
 "Like an elephant in rut and a hare at war in the forest, in the same way O vile one! Rama is like
 an elephant and you are said to be like a hare."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As a proud elephant (dṛptaś ca mātaṅgaḥ) and a hare (śaśaś ca) brought together in a forest, so is Rāma remembered as like the tusker (dviradavat), while you, O vile one, are like the hare (śaśavat)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -771,6 +867,12 @@ kshipan* = abusing; *ikshvaakunaatham* = the lord of Ikshvaku dynasty Rama; *na 
 
 "Such you are not shameful abusing the lord of Ikshvaku dynasty Rama. You are not getting Rama's
 matter so much."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Such as you are, reviling (kṣipan) the lord of the Ikṣvākus here, are you not ashamed—so long as you do not come within the range of his sight (cakṣuṣo viṣaye)?
 </details>
 </details>
 
@@ -821,6 +923,12 @@ patite* = are (they) not falling down.
 "O ignoble one! your these eyes which are cruel, crooked, which are black and reddish brown, which
 are seeing me, for what reason are they not falling down."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Why have these two cruel, deformed, dark-tawny eyes (kṛṣṇapiṅgale nayane) of yours not fallen to the ground (kṣitau na patite) as you gaze upon me, O ignoble wretch (anārya)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -862,6 +970,12 @@ wife; *dharmaatmanaH tasya* = of virtuous Rama; *snushhaam cha* = and the daught
 
 "Thus speaking about me who am the wife of virtuous Rama and the daughter-in-law of Dasaratha how
 your tongue did not fall off."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I am the wife of that righteous-souled lord and the daughter-in-law (snuṣā) of Daśaratha; as you accost (vyāharataḥ) me, O sinner, how does your tongue not split into pieces (na jihvā śīryati)?
 </details>
 </details>
 
@@ -909,6 +1023,12 @@ be burnt into ashes; *asaMdeshaat* = not having mandate; *raamasya* = of Rama; *
 "O Ravana! Although you are suited to be burnt into ashes, not having the mandate of Rama and preserving
 austerity, I am not reducing you into ashes with my glory."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Only because I lack Rāma’s mandate (asaṃdeśāt) and because I guard my asceticism (tapasaś cānupālanāt), O ten-necked one (daśagrīva), do I not reduce you—who deserve to be ashes—to ashes (bhasma) by my fiery energy (tejasā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -954,6 +1074,12 @@ in this; *na saMshayaH* = there is no doubt.
 
 "Wise Rama's I am not capable of being abducted by you. This act has been made for your slaying.
 In this there is no doubt."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I could never be carried off from that wise Rāma; surely Destiny (vidhiḥ) ordained this for the purpose of your destruction (tava vadhārthāya)—of this there is no doubt!
 </details>
 </details>
 
@@ -1004,6 +1130,12 @@ _________________
 "By you who is strong, brother of Kubera possessed of army, removing Rama for what reason abduction
 of wife has been done."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Since you are a hero, the brother of Dhanada [Kubera], and exalted with armies (balaiḥ samuditena), why did you lure Rāma away (apohya rāmam) and commit a cowardly theft of a wife (dāracauryam)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1048,6 +1180,12 @@ of wife has been done."
 
 King of rakshasas Ravana listening to Seetha's words turned around his cruel eyes and saw Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Sītā’s words, Rāvaṇa, the overlord of the rākṣasas, rolling (vivṛtya) his two cruel eyes, glared (anvavaikṣata) at Jānakī.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1076,6 +1214,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वह नीलमेघके समान काला और विशालकाय था । उसकी भुजाएँ और ग्रीवा बड़ी थीं । वह गति और पराक्रममें सिंहके समान था और तेजस्वी दिखायी देता था । उसकी जीभ आगकी लपटके समान लपलपा रही थी तथा नेत्र बड़े भयंकर प्रतीत होते थे ॥ २४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling a dark storm-cloud (nīlajīmūtasaṃkāśaḥ), with massive arms and neck (mahābhujaśirodharaḥ), possessing the strength and gait of a lion (siṃhasattvagatiḥ), majestic, with blazing tongue-tip and fierce eyes (dīptajihvogralocanaḥ),
 </details>
 </details>
 
@@ -1141,6 +1285,14 @@ red garlands and clothes, with ornaments made of refined gold.
 
 Like Mount Mandara tied by Vasuki for producing nectar, Ravana was well tied by a black big thread.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** Tall with a diadem of swaying crest-tips (calāgramukuṭaprāṃśuḥ), decked with variegated garlands and unguents (citramālyānulepanaḥ), wearing red garlands and robes, and adorned with armlets of refined gold (taptāṅgadabhūṣaṇaḥ),
+
+**26:** well-girt with a great dark-blue waist-girdle (śroṇīsūtreṇa mahatā mecakena), like Mount Mandara bound around with the serpent [Vāsuki] at the churning of the nectar (amṛtotpādane),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1194,6 +1346,12 @@ shoulders; *mandaraH i va* = like Mount Mandara; *shR^iN^gaabhyaam* = with its p
 Equalling a mountain the king of ogres shone with those perfect shoulders like Mount Mandara with
 its peaks.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+with those two full, massive arms (paripūrṇābhyāṃ bhujābhyām), that lord of the rākṣasas, resembling a mountain, shone like Mount Mandara with its two peaks (śṛṅgābhyām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1232,6 +1390,12 @@ its peaks.
 
 With the color of just risen sun, decorated by earrings, he was like a mountain with Ashoka trees
 with red flowers and shoots.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adorned with two earrings of the hue of the rising sun (taruṇādityavarṇābhyāṃ kuṇḍalābhyām), he looked like a mountain graced with two aśoka trees in crimson leaf and blossom (raktapallavapuṣpābhyām).
 </details>
 </details>
 
@@ -1275,6 +1439,12 @@ Equalling a Kalpavriksha he was like the embodiment of spring season. Like a fun
 grave-yard was horrible even though decorated.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling a wish-granting tree (kalpavṛkṣapratimaḥ) and like Spring incarnate (vasanta iva mūrtimān), yet resembling a tree in a cremation ground (śmaśānacaityapratimaḥ), he was terrifying (bhayaṃkaraḥ) even though adorned.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1312,6 +1482,12 @@ iva* = like a serpant; *uvaacha* = spoke; *siitaam* = to Seetha.
 **अनुवादः**
 
 With red eyes due to anger Ravana was looking at Seetha sighing like a serpant and spoke to Seetha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing upon Vaidehī with eyes bloodshot with rage (kopasaṃraktalocanaḥ), Rāvaṇa spoke to Sītā, hissing like a serpent (bhujaṃga iva niḥśvasan):
 </details>
 </details>
 
@@ -1352,6 +1528,12 @@ twilight; *ojasaa* = with light.
 
 O foloower of Rama posessing bad conduct, without wealth! Now I will destroy you like sun destroying
 morning twilight with light.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O you who are devoted (anuvrate) to one steeped in unrighteousness (anayenābhisampannam) and bereft of all wealth (arthahīnam)! Today I shall destroy you by my might, just as the sun [destroys] the twilight (sūryaḥ saṃdhyām ivaujasā)!”
 </details>
 </details>
 
@@ -1401,6 +1583,12 @@ thereafter; *sandidesha* = ordered; *sarvaaH* = all; *raakshasiiH* = ogre women;
 
 The king Ravana who causes enemies to cry thus speaking to Seetha, thereafter ordered all ogre
 women with horrible appearances.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to Maithilī, King Rāvaṇa, who makes his enemies wail (śatrurāvaṇaḥ), then surveyed (saṃdadarśa) [and commanded] all the rākṣasīs of dreadful aspect (ghoradarśanāḥ):
 </details>
 </details>
 
@@ -1528,6 +1716,20 @@ of punishment; *avarjayata* = bring under possession; *vaidehiim* = Seetha.
 "With hostile and favourable tasks, with kind words, with gifts and dividing words and exertion
 of punishment, bring Seetha under my possession."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**33:** one-eyed (ekākṣīm), one-eared (ekakarṇām), having ears for a mantle (karṇaprāvaraṇām), cow-eared, elephant-eared, pendulous-eared, and earless (akarṇikām);
+
+**34:** elephant-footed and horse-footed (hastipadyaśvapadyau), cow-footed, having hair-tufts on the feet (pādacūlikām), one-eyed, one-footed, broad-footed, and footless (apādikām);
+
+**35:** possessing oversized heads and necks (atimātraśirogrīvām), oversized breasts and bellies (atimātrakucodarīm), oversized mouths and eyes, and long tongues and nails (dīrghajihvānakhām);
+
+**36:** noseless (anāsikām), lion-faced, cow-faced, and sow-faced (sūkarīmukhīm)—[saying]: “[Act] so that Jānakī Sītā swiftly bends to my will (madvaśagā bhavati)!
+
+**37:** All of you rākṣasīs, either singly or coming together (sametya vā), act swiftly by hostile and friendly measures (pratilomānulomaiḥ), and by conciliation, gifts, and dissension (sāmadānādibhedanaiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1556,6 +1758,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 राक्षसियोंको इस प्रकार बारम्बार आज्ञा देकर काम और क्रोधसे व्याकुल हुआ राक्षसराज रावण जानकीजीकी ओर देखकर गर्जना करने लगा ॥ ३८ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and bend Vaidehī to my will (āvarjayata vaidehīm) even by brandishing punishment (daṇḍasyodyamanena ca)!” Having thus instructed them again and again, the lord of the rākṣasas,
 </details>
 </details>
 
@@ -1597,6 +1805,12 @@ _________________
 
 Thereafter an ogre named Dhanyamalini quickly neared Ravana, embraced him and spoke these words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+his mind overwhelmed by passion and wrath (kāmamanyuparītātmā), roared (garjata) at Jānakī. Then, swiftly approaching, the rākṣasī Dhānyamālinī
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1631,6 +1845,12 @@ maanushhyaa* = and a wreched human;
 
 "O king! Sport with me. O lord of ogres! Of what use to you is this Seetha who is colorless and
 a wreched human."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+embraced (pariṣvajya) the ten-necked one and spoke this word: “Sport with me (mayā krīḍa), O great king! What use have you for this Sītā—
 </details>
 </details>
 
@@ -1676,6 +1896,12 @@ _________________
 "O king! Lord Barhma did not assign to Her wonderful best luxuries earned by the might of your
 arms. This is definite."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+a pale (vivarṇayā), wretched mortal woman (kṛpaṇayā mānuṣyā), O lord of the rākṣasas? Surely, O great king, the gods have not [ordained] for her the supreme enjoyments (bhogasattamān)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1718,6 +1944,12 @@ desires (him).
 
 "The body of one who desires a woman without desire suffers pain. Good happiness will occur to
 one who loves a woman who desires him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+won by the strength of your arms (tava bāhubalārjitān)! When a man courts an unwilling woman (akāmāṃ kāmayānasya), his own body is tormented (śarīram upatapyate);
 </details>
 </details>
 
@@ -1772,6 +2004,12 @@ equalling a cloud; *tataH* = thereafter; *samutkkshipataH* = being taken away; *
 Thus spoken to by that ogre that Ravana who was strong equalling a cloud, thereafter being taken
 away turned back laughing."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+when he courts a willing woman (icchatīṃ kāmayānasya), the delight becomes exquisite (prītir bhavati śobhanā)!” Thus addressed by that rākṣasī and gently drawn away (samutkṣiptaḥ), that mighty
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1819,6 +2057,12 @@ _________________
 
 That Ravana departing was as though shaking the earth and entered his house with the lustre of
 blazing sun shine.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+rākṣasa, resembling a storm-cloud, laughed (prahasan) and turned back (nyavartata). Setting forth and making the earth tremble, as it were (kampayann iva medinīm), that ten-necked one entered his palace resembling the blazing sun (jvaladbhāskarasaṃkāśam).
 </details>
 </details>
 
@@ -1868,6 +2112,12 @@ directions; *vivishuH* = entered; *tam* = that; *gR^ihottamam* = best among hous
 
 Deva and Gandharva maidens and Naga maidens surrounding Ravana in all directions entered that best
 among houses.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounding (parivārya) the ten-necked one, those daughters of gods and gandharvas and daughters of nāgas (nāgakanyāś ca) then entered that peerless palace (gṛhottamam).
 </details>
 </details>
 
@@ -1938,5 +2188,11 @@ Seetha, infatuated by love, entered his own house which was shining.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तॆरडनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having menaced (paribhartsya) that trembling Maithilī who remained steadfast in dharma (dharmaparām avasthitām), that Rāvaṇa, infatuated by love (madanena mohitaḥ), left Sītā and entered his own radiant abode.
 </details>
 </details>

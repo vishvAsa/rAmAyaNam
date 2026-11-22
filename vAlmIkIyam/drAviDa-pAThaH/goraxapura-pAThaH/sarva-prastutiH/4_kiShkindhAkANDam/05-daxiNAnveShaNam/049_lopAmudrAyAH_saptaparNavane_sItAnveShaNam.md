@@ -71,6 +71,12 @@ all of the, vanara - s, on comforting; *tadaa* = then; *shanaiaH idam vacaH abra
 Then on comforting all of those vanara-s the highly diligent one but overly tired
 Angada slowly spoke this word to them. [4-49-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then at that time the supremely wise Aṅgada, though exhausted himself (pariśrāntaḥ), gently consoled (samāśvāsya śanaiḥ) all the monkeys and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -128,6 +134,14 @@ mountains, and rivers, and unfathomable cavities and in mountain caves up to the
 not seen Janaki, so also that ill-natured demon, the abductor of Seetha, is not seen. [4-49-2,
 3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “Forests, mountains, rivers, impenetrable fastnesses (durgāṇi gahanāni ca), clefts, and mountain caverns have been searched to the very end (sarvam antataḥ).
+
+**3:** “Everywhere here and there neither the patient Jānakī (sahā jānakī) is seen by us, nor that wicked rākṣasa (duṣkṛtī rakṣaḥ), the abductor of Sītā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -173,6 +187,12 @@ all; *sahitaaH samantataH vicinvantu* = collectively, all over, let search be co
 
 "We started a long time back and a great deal of time is lapsed, and Sugreeva is a
 severe disciplinarian, therefore let the search continued everywhere collectively. [4-49-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Much of our appointed time has elapsed (kālaś ca no mahān yātaḥ), and Sugrīva is stern in his command (ugra-śāsanaḥ); therefore do you all together search thoroughly on every side!
 </details>
 </details>
 
@@ -221,6 +241,12 @@ siitaam* = Janaka's, daughter, Seetha; *[yathaa ] pashyaamaH* = [as to how,] we 
 "Surrender not to sluggishness, submit not to sorrowfulness, slouch not to sleep, as
 these lethargies are presently have come up against you. Let all of you search in such a way how
 best we can find the daughter of Janaka, Seetha. [4-49-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Casting aside lassitude (tandrīm), grief, and the slumber that has risen upon you, search in such a way that we may behold Sītā, Janaka's daughter!
 </details>
 </details>
 
@@ -280,6 +306,12 @@ anirvedaadayaH kaarya siddhikaraa iti uktam - tathaa ca - bhaarate - udyoge vidu
 shriyo muulam dharmasya ca | mahaan bhavati anirvisaNNo bhayam na mahat dR^icchati | -
 dk*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Freedom from despondency (anirvedam), energetic capability (dākṣyam), and non-defeat of the mind (manasaś cāparājayam)—these, they say, are the causes of success in action (kārya-siddhi-karāṇi); therefore do I speak thus.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -329,6 +361,12 @@ this, forest, in entirety, let it be searched.
 "Even now the forest dwellers can search this impenetrable forest, thus get rid of
 your rue and let all of this forest be searched in its entirety. [4-49-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even today let the forest-dwellers search this rugged forest (vanaṃ durgam); casting off weariness (khedaṃ tyaktvā), let them search the entire forest once again (punaḥ sarvaṃ vanam eva vicinvatām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -377,6 +415,12 @@ definitely, it is perceptible -will become evident; *param* = if not, on the oth
 earnestly, on the other hand, it will be unforgivable to shut our eyes deriving a high dejection.
 [4-49-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The fruit of an action (karmaṇaḥ phalam) is surely seen by those who persist in doing it (kurvatām); having yielded to utter despondency (paraṃ nirvedam āgamya), sitting idle with closed eyes is by no means fitting for us!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -423,6 +467,12 @@ self-reliant one, of Rama, also; *satatam* = always; *[naH* = for us];
 
 "King Sugreeva is irascible and he is a ruthful persecutor too, oh, vanara-s, we
 shall always be frightened of him, and of self-reliant Rama as well. [4-49-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“King Sugrīva is prone to wrath (krodhanaḥ) and severe in punishment (tīkṣṇa-daṇḍaḥ), O monkeys; we must ever stand in fear of him (bhetavyaṃ tasya satatam) and of the high-souled Rāma!
 </details>
 </details>
 
@@ -476,6 +526,12 @@ you it may be done in this way as I have said, if not, any other way out is ther
 conducive for all of us, oh, vanara-s, it may be said." Thus Angada spoke to the troops of monkeys.
 [4-49-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This has been spoken for your welfare (hitārtham etad uktam); let it be done if it pleases you, or else let whatever is fitting for all of us be spoken, O monkeys!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -515,6 +571,12 @@ uvaaca* = sentence, said.
 
 On hearing Angada's words, Gandhamaadana who is enervated with thirst and fatigue
 spoke this sentence with inexplicit words. [4-49-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Aṅgada's words, Gandhamādana spoke this speech in an articulate voice (vyaktayā vācā) that was yet faint with thirst and exhaustion (pipāsā-śrama-khinnayā):
 </details>
 </details>
 
@@ -562,6 +624,12 @@ bhaaSitam kriyataam* = his, as said, may be done.
 "What Angada has said that is indeed appropriate, isn't it! It is advantageous and
 pragmatic also. Let us carry out as said by him. [4-49-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Worthy indeed of you (sadṛśaṃ khalu vaḥ) is the speech that Aṅgada has uttered! Wholesome and salutary (hitaṃ caivānukūlaṃ ca) is his word; let it be done!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -607,6 +675,12 @@ uninhabited, forests, also; *giri prasravaNaani ca* = mountain, rapids, too;
 
 "Again let us search out mountains, caves, crags, also like that the uninhabited
 forests and mountain rapids, too. [4-49-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let us once again search (punar mārgāmahe) the mountains, caverns, crags (śilān), desolate forests, and mountain cascades (giri-prasravaṇāni),
 </details>
 </details>
 
@@ -655,6 +729,12 @@ indicated; *sarvaaNi giri durgaaNi* = all of the, mountain, gorges; *vanam* = fo
 as indicated by that self-assertive Sugreeva." Thus Gandhamaadana spoke to all monkeys.
 [4-49-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“all that were specified (yathoddiṣṭāni) by the high-souled Sugrīva! United together (saṃgatāḥ), let all search the forest and the mountain fastnesses!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -701,6 +781,12 @@ ones, those, vanara-s; *punaH samutthaaya* = again, on getting up - bestirring t
 Those great-mighty vanara-s again perking themselves up searched the southern
 compass that is overspread with Vindhya forests. [4-49-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising up again (samutthāya punaḥ), those monkeys of mighty strength traversed the southern quarter crowded with Vindhya forests (vindhya-kānana-saṃkīrṇām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +811,12 @@ compass that is overspread with Vindhya forests. [4-49-15]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऎदुरिगॆ शरद् ऋतुविन मोडगळन्तह शोभाशाली रजत पर्वत कण्डुबन्तु. अदरल्लि अनेक शिखरगळु मत्तु कन्दकगळिद्दवु. आ वानररॆल्लरू अदन्नु हत्ति हुडुकलु तॊडगिदरु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Climbing that glorious Silver Mountain (śrīmad-rajata-parvatam), which resembled an autumnal cloud (śāradābhra-pratimam) and was endowed with peaks and caverns,
 </details>
 </details>
 
@@ -775,6 +867,12 @@ of Seetha have clambered up a magnificent Silver Mountain which in statuesque is
 silvery cloud, and which has many zeniths and caverns, and searched there in the delightful woods
 of Lodhra trees, and even in the groves of seven-leaved banana plants. [4-49-16, 17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+those foremost of monkeys, eager to behold Sītā (sītā-darśana-kāṅkṣiṇaḥ), searched the lovely lodhra forest and the groves of seven-leaved saptaparṇa trees there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -822,6 +920,12 @@ Though they searched everywhere on ascending the mountaintop they have not found
 Seetha, the dear queen of Rama, and though they are immensely venturesome they are fatigued.
 [4-49-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having climbed to its summit (tasyāgram adhirūḍhāḥ), those heroes of vast prowess, exhausted (śrāntāḥ), did not behold Vaidehī, the beloved queen of Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -864,6 +968,12 @@ mountain; *dR^iSTvaa* = having seen - searched; *sam antataH* = all over;
 
 On searching what all they could see all over on that many caved mountain those
 monkeys descended yet keeping an eye on all over that mountain. [4-49-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having surveyed that many-caverned mountain as far as the eye could reach (dṛṣṭi-gatam), the monkeys climbed down (adhyārohanta), looking around on every side.
 </details>
 </details>
 
@@ -914,6 +1024,12 @@ staying; *atha vR^ikSa muulam upaashritaaH* = then, at tree, base, took shelter.
 Then on climbing down the mountain they reached ground and became tired and inane,
 and staying there for moment they took shelter at the base of a tree. [4-49-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Descending then to the ground, exhausted and their minds dazed (vigata-cetasaḥ), they resorted to the foot of a tree and rested there for a muhūrta (sthitā muhūrtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -959,6 +1075,12 @@ udyataaH* = to search ventured.
 
 They took respite for a moment and when their laboriousness intermitted a little,
 again they ventured to search the southern direction in its entirety. [4-49-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having recovered their breath for a muhūrta (muhūrtaṃ samāśvastāḥ), their fatigue slightly relieved (kiṃcid-bhagna-pariśramāḥ), they stood ready once again to search the entire southern quarter.
 </details>
 </details>
 
@@ -1018,6 +1140,12 @@ for Seetha. [4-49-22]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद नलवत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥49॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting forth with Hanūmān at their head (hanumat-pramukhāḥ), those bulls among leapers began once more with the Vindhya itself (vindhyam evāditaḥ kṛtvā) and ranged on every side.
 </details>
 </details>
 

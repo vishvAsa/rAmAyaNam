@@ -34,6 +34,12 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 
 (श्रीरामनु हेळिदनु- ) लक्ष्मण ! हीगॆ नानु निनगॆ नृगराजन शाप प्रसङ्गवन्नु विस्तारवागि तिळिसिदॆ. निनगॆ केळुव इच्छॆ इद्दरॆ इन्नॊन्दु कथॆयन्नु केळु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus have I related to you the full account of Nṛga’s curse (nṛga-śāpasya vistaro ’bhihito mayā); if you have earnest faith to hear (yady asti śravaṇe śraddhā), listen now to another tale on this matter (śṛṇuṣvehāparāṃ kathām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -59,6 +65,12 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 
 श्रीरामनु हीगॆ हेळिदाग सुमित्रानन्दन हेळिदनु - नरेश्वर! इन्तह आश्चर्यकर कथॆगळन्नु केळलु ननगॆ ऎन्दू तृप्तियागुवुदिल्ल.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma, Saumitri spoke again: “Of wondrous tales such as these, O king, I can never have satiety (tṛptir āścarya-bhūtānāṃ kathānāṃ nāsti me nṛpa)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -83,6 +95,12 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मणनु हीगॆ हेळिदाग इक्ष्वाकुकुलनन्दन श्रीरामनु पुनः उत्तम धर्मदिन्द कूडिद कथॆयन्नु हेळलु प्रारम्भिसिदनु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus urged by Lakṣmaṇa, Rāma, the delight of the Ikṣvākus (ikṣvāku-nandanaḥ), began to recount a story supremely grounded in dharma (kathāṃ parama-dharmiṣṭhāṃ vyāhartum upacakrame):
 </details>
 </details>
 
@@ -112,6 +130,12 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 सुमित्रानन्दन! महात्मा इक्ष्वाकु पुत्ररल्लि हन्नॆरडनॆय* पुत्र निमि ऎम्ब ऒब्ब राजनागि होदनु. अवनु पराक्रम मत्तु धर्मदल्लि पूर्णवागि स्थिरवागि इरुववनिद्दनु.॥4॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There was a king named Nimi, the twelfth son among the great-souled Ikṣvākus (ikṣvākūṇāṃ mahātmanāṃ putro dvādaśamaḥ), steadfastly established in valor and in dharma (vīrye dharme ca pariniṣṭhitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -136,6 +160,12 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ पराक्रम सम्पन्न नरेशनु गौतमर आश्रमद हत्तिरदल्लॆ देवपुरदन्तॆ ऒन्दु नगरवन्नु नॆलॆगॊळिसिदनु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That valor-endowed monarch then established a city rivaling the city of the gods (puraṃ deva-puropamam niveśayāmāsa tadā) in the vicinity of Gautama’s hermitage (abhyāśe gautamasya tu).
 </details>
 </details>
 
@@ -162,6 +192,12 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 
 महायशस्वी राजर्षि निमियु वासिसुव नगरद हॆसरु वैजयन्त ऎन्दु इट्टनु. (देवराज इन्द्रन पासादन हॆसरु वैजयन्त ऎन्दु इत्तु. निमियु अदे हॆसरन्निट्टिद्दनु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Aptly bestowed was the city’s name, famed as Vaijayanta (purasya sukṛtaṃ nāma vaijayantam iti śrutam), wherein the greatly renowned royal sage Nimi made his residence (niveśaṃ yatra rājarṣir nimiś cakre mahāyaśāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,6 +222,12 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ महानगरवन्नु स्थापिसि, नानु तन्दॆय मनस्सिगॆ आह्लादवन्नुण्टु माडुवन्तह दीर्घकालदवरॆगॆ नडॆयुव यज्ञानुष्ठान माडुवॆनॆम्ब विचार निमिगॆ मनस्सिनल्लि उण्टायितु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having founded that exceedingly great city (niveśya sumahāpuram), this thought arose in him (tasya buddhiḥ samutpannā): ‘Let me sacrifice with a prolonged satra (yajeyaṃ dīrgha-satreṇa), gladdening the mind of my father (pituḥ prahlādayan manaḥ)!’
 </details>
 </details>
 
@@ -216,6 +258,14 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 
 अनन्तर इक्ष्वाकुकुलनन्द निमियु तन्न तन्दॆ मनुपुत्र इक्ष्वाकुविनल्लि केळि तन्न यज्ञ माडिसलु मॊट्टमॊदलु ब्रह्मर्षि शिरोमणि वसिष्ठरन्नु वरण माडिदनु. बळिक अत्रि, अङ्गिरा, तपोधन, भृगुवन्नु आमन्त्रिसिदनु.॥8-9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “Then, taking leave of his father Ikṣvāku, the son of Manu (pitaram āmantrya ikṣvākuṃ hi manoḥ sutam), he first chose Vasiṣṭha, foremost of brahmin sages (vasiṣṭhaṃ varayāmāsa pūrvaṃ brahmarṣi-sattamam).
+
+**9:** “Next, that royal sage Nimi, delight of Ikṣvāku (nimir ikṣvāku-nandanaḥ), chose Atri and Aṅgiras, as well as Bhṛgu whose wealth was austerity (atrim aṅgirasaṃ caiva bhṛguṃ caiva tapodhanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,6 +291,12 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 
 आग ब्रह्मर्षि वसिष्ठरु राजर्षियरल्लि श्रेष्ठ निमियल्लि हेळिदरु - देवेन्द्रनु ऒन्दु यज्ञक्कागि मॊदले नन्नन्नु वरणमाडिकॊण्डिरुवनु. आद्दरिन्द आ यज्ञ समाप्तवागुव तनक नन्न आगमनवन्नु प्रतीक्षॆ माडुत्ता इरु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“But Vasiṣṭha spoke thus to Nimi, foremost of royal sages: ‘I have already been chosen beforehand by Indra (vṛto ’haṃ pūrvam indreṇa); await the interval (antaraṃ pratipālaya)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -265,6 +321,12 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वसिष्ठरु हॊरटु होद बळिक महाब्राह्मण महर्षि गौतमरु बन्दु अवन कार्यवन्नु पूर्णगॊळिसिदरु. अत्त महातेजस्वी वसिष्ठरू इन्द्रन यज्ञ माडिसतॊडगिदरु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Immediately thereafter, the great brahmin Gautama filled that priestly place (anantaraṃ mahāvipro gautamaḥ pratyapūrayat), while the greatly resplendent Vasiṣṭha proceeded to perform Indra’s sacrifice (indrayajñam athākarot).”
 </details>
 </details>
 
@@ -293,6 +355,12 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 
 राजानिमियु आ ब्राह्मणरन्नु करॆयिसि हिमालयद बळि तन्न नगरद समीपवे, ऐदुसाविर वर्षगळवरॆगॆ नडॆयुव यज्ञदीक्षॆ पडॆदु यज्ञ प्रारम्भिसिदनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“King Nimi, lord of men, assembling those brahmins (viprāṃs tān samānīya narādhipaḥ), sacrificed on the flank of the Himalayas near his own city (ayajad himavat-pārśve svapurasya samīpataḥ); for five thousand years the monarch underwent sacrificial consecration (pañca-varṣa-sahasrāṇi rājā dīkṣām upāgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -320,6 +388,12 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 
 इत्त इन्द्रन यज्ञ समाप्तवादाग अनिन्द्य वसिष्ठ ऋषिगळु निमि राजन बळिगॆ होतृकर्म माडलु बन्दरु. अल्लि बन्दु नोडिदरॆ याव समय प्रतीक्षॆगागि कॊट्टिदेनो, अदन्नु गौतमरु बन्दु पूर्णगॊळिसिदरु.॥13½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the conclusion of Indra’s sacrifice (indrayajñāvasāne tu), the blameless, blessed sage Vasiṣṭha (vasiṣṭho bhagavann ṛṣiḥ) came into the presence of the king to perform the office of hotṛ (sakāśam āgato rājño hautraṃ kartum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,6 +420,14 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदन्नु नोडि ब्रह्मकुमार वसिष्ठरु महाक्रोधगॊण्डरु हागू राजनन्नु काणलु ऎरडु गळिगॆ अल्ले कुळित्तिद्दरु. आदरॆ अन्दु राजर्षि निमियु अत्यन्त निद्दॆयिन्दागि मलगिबिट्टिद्दनु.॥14-15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “Seeing then that interval already filled by Gautama (tad antaram athāpaśyad gautamenābhipūritam), Vasiṣṭha, the son of Brahmā, was seized by mighty wrath (kopena mahatāviṣṭaḥ).
+
+**15:** “Desiring to behold the king, he sat down waiting for a muhūrta (rājño darśanākāṅkṣī muhūrtaṃ samupāviśat); on that day, however, the royal sage was deeply overcome by sleep (rājarṣir nidrayā ’pahṛto bhṛśam).
 </details>
 </details>
 
@@ -375,6 +457,12 @@ _________________
 
 राजनु सिगदिद्द कारण महात्मा वसिष्ठ मुनिगळिगॆ भारी क्रोधगॊण्डु, राजर्षियन्नु कुरितु नुडियतॊडगिदर.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon fierce indignation arose within the great-souled Vasiṣṭha (tato manyur vasiṣṭhasya prādurāsīn mahātmanaḥ); not obtaining sight of the royal sage (adarśanena rājarṣeḥ), he began to speak forth a curse (vyāhartum upacakrame).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +490,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भूपाल निमिये! नीनु नन्न अपमानमाडि इन्नॊब्ब पुरोहितनन्नु वरणमाडिकॊण्डिरुवॆ, इदक्कागि निन्न ई शरीर अचेतनवागि बिद्दु होगलि.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Since, slighting me, you chose another priest, O king (yasmāt tvam anyaṃ vṛtavān mām avajñāya pārthiva), your body shall become bereft of consciousness (cetanena vinābhūto dehas tava bhaviṣyati)!’
 </details>
 </details>
 
@@ -431,6 +525,12 @@ _________________
 
 बळिक राजनु निद्दॆयिन्द ऎद्दु, अवरु कॊट्टिरुव शापवृत्तान्त केळि क्रोध-मूर्छितनागि, ब्रह्मयोनि वसिष्ठरल्लि हेळिदनु .॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon the royal sage awoke, and hearing the curse pronounced (prabuddho rājarṣiḥ śrutvā śāpam udāhṛtam), stupefied with wrath, he spoke in agitation to the Brahmā-born sage (brahmayonim athovāca saṃrambhāt krodha-mūrcchitaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -456,6 +556,12 @@ _________________
 
 ननगॆ निम्म आगमन तिळिदिरलिल्ल, अदक्कागि मलगिद्दॆ. आदरॆ नीवु क्रोधदिन्द कलुषितरागि नन्न मेलॆ यमदण्डदन्तह शापाग्नियिन्द प्रहरिसिदिरि.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Tainted by anger (krodhena kaluṣī-kṛtaḥ), upon me while asleep and unaware (ajānataḥ śayānasya ... mayi) you have loosed a fire of malediction like a second rod of Yama (muktavān ... śāpāgniṃ yama-daṇḍam ivāparam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -480,6 +586,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द ब्रह्मर्षिये! चिरन्तन शोभायुक्तवाद निम्म शरीरवू अचेतनवागि बिद्दु होगुवुदु; इदरल्लि संशयवे इल्ल.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Therefore, O brahmin sage, your exceedingly radiant body as well (tavāpi brahmarṣe ... dehaḥ surucira-prakhyaḥ) shall be rendered bereft of consciousness (cetanena vinā kṛtaḥ bhaviṣyati)—of this there is no doubt!’
 </details>
 </details>
 
@@ -520,5 +632,11 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऐवत्तैदनॆय सर्ग पूर्णवायितु. ॥55॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus, under the sway of wrath, mutually cursed at that very moment (roṣa-vaśād ubhau tadānīm anyonyaṃ śapitau), those two lords of kings and brahmins, endowed with equal attained spiritual might (nṛpa-dvijendrau ... tat-tulyādhigata-prabhāvavantau), instantly became bodiless (sahasaiva babhūvatur videhau).”
 </details>
 </details>

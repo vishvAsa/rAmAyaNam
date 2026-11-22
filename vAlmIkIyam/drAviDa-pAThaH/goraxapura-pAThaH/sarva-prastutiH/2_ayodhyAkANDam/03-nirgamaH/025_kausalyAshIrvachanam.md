@@ -68,6 +68,12 @@ purified; *chakaara* = performed; *maNgaLaani* = rites ; conduciveto welfare;
 Kausalya, the magnanimous mother putting away her grief, sipped water from the palm
 of the hand, became purified and performed rites conducive to the welfare of Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting aside (vinīya) that grief-born exhaustion (tam āyāsam) and sipping pure water (upaspṛśya jalaṃ śuci), the high-minded (manasvinī) mother of Rāma performed auspicious rites of benediction (maṅgalāni).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +119,12 @@ in the way; *sataam* = of the righteous.
 
 "Oh, Rama! Your departure cannot be restrained, depart now, return soon. Abide in
 the footsteps of the virtuous."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since you cannot be held back (na śakyase vārayitum), go forth now, O best of the Raghus! Return swiftly (śīghraṃ ca vinivartasva), and walk in the path of the righteous (satāṃ krame).
 </details>
 </details>
 
@@ -161,6 +173,12 @@ you.
 "Oh, Rama! Let that righteousness, which you are fostering with courage and
 discipline , protect you".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That very dharma which you uphold with joyful affection (prītyā) and steadfast observance (niyamena ca)—may that dharma itself protect you on every side, O tiger among the Raghus!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -206,6 +224,12 @@ and in temples; *te* = those; *maharshhibhisaha* = along with greatsaints;
 
 "Oh, son! To whom you will be bowing in salutation at cross-roads and in temples,
 those along with great saints will protect you in the forest.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Those deities to whom you bow down, O my son, in the shrines and sanctuaries (deveṣv āyataneṣu ca)—may they, together with the great sages, protect you in the forest!
 </details>
 </details>
 
@@ -253,6 +277,12 @@ those along with great saints will protect you in the forest.
 "All the arms given by the wise sage Viswamitra to you, will ever protect you who
 are rich in good qualities"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Those celestial missiles (astrāṇi) which were bestowed upon you by the wise Viśvāmitra—may they ever protect you, who are richly endowed with noble virtues (guṇaiḥ samuditam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -298,6 +328,12 @@ Truth; *chiramjiiva* = you will be long lived!
 
 "Oh, son with magnificent arms! Protected by your service to father and service to
 mother as well as truthfulness, you will belong-lived"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Protected by your devoted service to your father (pitṛ-śuśrūṣayā), by your service to your mother (mātṛ-śuśrūṣayā), and by truth (satyena ca), O mighty-armed one, live long (ciraṃ jīva)!”
 </details>
 </details>
 
@@ -354,6 +390,12 @@ sacrificial occasions)sacrificial altars , temples and various sites selected by
 worship of gods, mountains, trees, bushes, large and deep pools of water, birds, snakes and lions
 protect you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May the sacrificial fuel, kuśa grass, and purifying darbha-rings (samit-kuśa-pavitrāṇi), the altars and sanctuaries (vedyaś cāyatanāni ca), the consecrated sacrificial grounds of the Brahmins (sthaṇḍilāni ca viprāṇām), the mountains, trees, shrubs, and deep pools (kṣupā hradāḥ), and the birds, serpents, and lions protect you, O best of men!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -381,6 +423,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 साध्य, विश्वेदेव, महर्षिगळ सहित मरुद्गणरु निनगॆ कल्याण माडलि. धाता-विधाता, पूषा, भग मत्तु अर्यमा इवरु निनगॆ मङ्गलकारिगळागलि.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May the Sādhyas, the Viśvedevas, and the Maruts together with the great sages grant you welfare (svasti); may Dhātṛ and Vidhātṛ grant you welfare, and may Pūṣan, Bhaga, and Aryaman grant you welfare!
 </details>
 </details>
 
@@ -447,6 +495,14 @@ good; *te* = to you
 "May the six seasons, all the fortnights and months, years, nights, days and hours
 always do good to you.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** “May all those Guardians of the Worlds (lokapālāḥ) headed by Vāsava (Indra), and all the six seasons (ṛtavaḥ ṣaṭ), the months, the years, and the nights (kṣapāḥ)—
+
+**10:** “—and the days and the auspicious hours (muhūrtāḥ) ever work your welfare (svasti kurvantu te sadā)! May Vedic revelation (śrutiḥ), sacred tradition (smṛtiḥ), and dharma protect you on every side, O my son!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -500,6 +556,12 @@ you, my son! May lord Skanda (the younger son of Lord Siva)and the moon god alon
 Brihaspati(the preceptor of gods), the well known seven sages as well as Sage Narada guard you on
 all sides."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May the blessed god Skanda, and Soma together with Bṛhaspati, and the Seven Sages (saptarṣayaḥ) and Nārada—may they protect you on every side!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -549,6 +611,12 @@ that forest.
 
 "May the four quarters along with the glorious guardians of the four quarters which
 are enlogised by me may protect you always on all sides in that forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And may the Siddhas on every side, and the quarters of space together with their regent lords (diśaś ca sadig-īśvarāḥ), praised by me, continually protect you in that forest, O my son!
 </details>
 </details>
 
@@ -609,6 +677,14 @@ intermediate space between them , rivers , astrological mansions including gods 
 them, day and night, the morning and evening twilights may protect you while you reside in the
 forest ."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “May all the mountains and the oceans, and King Varuṇa himself, and heaven, the mid-space, the earth, and the wind together with all moving and unmoving beings (sacarācaraḥ)—
+
+**14:** “—and all the lunar mansions (nakṣatrāṇi) and the planets together with their presiding deities (saha daivataiḥ), and day and night (ahorātre) as well as the two twilights (sandhye), protect you who have resorted to the forest!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -656,6 +732,12 @@ forest ."
 "The six holy seasons, months, years and the measures of time known as Kala
 (equilent to one minute) and Kastha(1/30th of Kala or two seconds)bestow you happiness"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And may the six seasons, and the other months and years, as well as the kalās and kāṣṭhās (minute divisions of time), grant you happiness (śarma diśantu te)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -702,6 +784,12 @@ of a hermit; *dhiimataH* = full of wisdom.
 
 "Let the heavenly deities and the demons too ever grant happiness on you while you
 traverse through the large forest, in the guise of a hermit and full of wisdom "
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As you roam even in the great forest (mahāvane 'pi carataḥ), wise and clad in the garb of an ascetic sage (muni-veṣasya), may both the gods and the Daityas ever be bestowers of happiness upon you!
 </details>
 </details>
 
@@ -751,6 +839,12 @@ fondness of flesh or from their yellowish appearance)sarveshhaam = of all;
 "Oh, son! Let there not be fear for you of demons the terrible ones performing cruel
 deeds, of devilish beings called Pisachas and of all carnivorous animals."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From ferocious (raudrāṇām) Rākṣasas and Piśācas of cruel deeds (krūra-karmaṇām), and from all flesh-eating spirits (kravyādānām), O my dear child, may there be no fear for you!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -797,6 +891,12 @@ impenetrable.
 
 "In that impenetrable forest occupied by you, let there be no monkeys, scorpions,
 gad fies, mosquitoes, snakes or other insects ."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May monkeys (plavagāḥ), scorpions (vṛścikāḥ), gadflies (daṃśāḥ), and mosquitoes in the woodland, and creeping serpents (sarīsṛpāḥ) and worms not beset you in the impenetrable thicket (mā bhūvan gahane tava)!
 </details>
 </details>
 
@@ -847,6 +947,12 @@ druhyantu* = be nothostile; *te* = to you.
 "Oh, son! Let the great elephants , lions with tusks, tigers, bears, terrible
 he-buffaloes with horns not to be hostile to you.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May great elephants (mahā-dvipāḥ), lions, tigers, and fanged bears (ṛkṣāś ca daṃṣṭriṇaḥ), and fierce horned buffaloes (mahiṣāḥ śṛṅgiṇo raudrāḥ) bear no malice toward you (na te druhyantu), O dear child!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -894,6 +1000,12 @@ he-buffaloes with horns not to be hostile to you.
 
 "Oh, son! Let the other ferocious man-eaters belonging to animal-species, being
 worshipped by me here, not hurt you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And may ferocious creatures that feed on human flesh (nṛ-māṃsa-bhojanā raudrāḥ), and whatever other species of wild beings there be—propitiated by me here (mayā sampūjitās tv iha)—do you no harm (mā ca tvāṃ hiṃsiṣuḥ), O my son!
 </details>
 </details>
 
@@ -945,6 +1057,12 @@ _________________
 "Oh, Rama, my son! May your path-ways be propitious ! Let your valour be powerful!
 Go well with all accomplishments!.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May your pathways be auspicious (āgamās te śivāḥ santu), and may your heroic endeavours succeed (sidhyantu ca parākramāḥ)! May all rich store of blessings be yours, O Rāma; go forth in welfare (svastimān gaccha), O dear child!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -990,6 +1108,12 @@ you ; *antarikshhebhyaH* = against those dwelling in theatmosphere ; *punaH* = a
 
 "Let there be security to you against those dwelling in the atmosphere and on the
 earth as well as against all the celestials as also your enemies."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May welfare be yours again and again from the beings of the mid-space (āntarikṣebhyaḥ) and of the earth (pārthivebhyaḥ), and from all the gods and from those who would obstruct your way (ye ca te paripanthinaḥ)!
 </details>
 </details>
 
@@ -1038,6 +1162,12 @@ vaasinam* = dwelling in the forest of Dandaka.
 "Oh, Rama! May Venus and the moon as also the sun and Kubera (the god of wealth) and
 Yama (the god of death) who are being worshipped by me, protect you, while you reside in the forest
 of Dandaka"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May Śukra, Soma, and Sūrya, and Kubera (dhanadaḥ) and Yama as well, worshipped by me, protect you, O Rāma, as you dwell in the Daṇḍaka forest!
 </details>
 </details>
 
@@ -1089,6 +1219,12 @@ kaaletu* = at the time of taking bath.
 "Oh, Rama! May sacred hymns coming forth from fire, air , vapour, and from the mouth
 of singer of sacred hymns protect you at the time of taking bath."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And may fire, wind, and smoke, and the sacred mantras uttered from the mouths of the sages (ṛṣi-mukha-cyutāḥ), protect you at the time of ritual bathing (upasparśana-kāle tu), O delighter of the Raghus!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1137,6 +1273,12 @@ may protect; *tvaam* = you; *vanavaasinam* = dwelling in the forest.
 nourisher of beings, the sages and the rest of the celestials may protect you dwelling in the
 forest.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May Brahmā, the Lord of all the worlds (sarva-loka-prabhuḥ), the Creator of beings (bhūta-kartā), and the sages, as well as the remaining gods (ye ca śeṣāḥ surāḥ), protect you as you dwell in the forest!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1184,6 +1326,12 @@ Kausalya; *aayatalochanaa* = having large eyes ; *aanarcha* = worshipped ;
 Uttering thus, the illustrious Kausalya having large eyes, worshipped troops of
 divinities with garlands , sandal paste and befitting hymns of praise.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the glorious lady of large eyes (āyata-locanā) worshipped the hosts of gods (sura-gaṇān) with garlands, fragrant unguents (gandhaiḥ), and fitting hymns of praise (stutibhiś cānurūpābhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1223,6 +1371,12 @@ direction; *braahmaNena* = by a Brahmana; *mahaatmanaa* = who is high souled;
 
 Duly procuring fire, she caused oblation to be poured into it, as per the direction
 of a high souled brahmana for the purpose of Rama's well- being .
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Procuring the sacred fire (jvalanaṃ samupādāya), she caused a high-souled Brahmin to offer oblations in accordance with ritual precept (hāvayāmāsa vidhinā) for the sake of Rāma’s auspicious welfare (rāma-maṅgala-kāraṇāt).
 </details>
 </details>
 
@@ -1269,6 +1423,12 @@ woman; *upasampaadayaamaasa* = procured together; *ghR^itam* = clarified butter;
 
 Kausalya, the excellent woman procured clarified butter , white garlands, ceremonial
 sticks and white mustard seeds.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā, the foremost of noble women (paramāṅganā), got ready clarified butter (ghṛtam), white garlands (śvetāni mālyāni), sacrificial fuel-sticks (samidhaḥ), and white mustard seeds (sarṣapān).
 </details>
 </details>
 
@@ -1318,6 +1478,12 @@ That preceptor performed ceremony for peace as per the statute as well as withou
 error and carried out propitiatory oblation externally with the remaining sacrificial food left
 after the main offering .
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having offered the oblation according to rule for peace and freedom from illness (hutvā śāntim anāmayam), that preceptor (upādhyāyaḥ) prepared the outer bali offering (bāhyaṃ balim akalpayat) with the remnant of the sacrificial oblation (huta-havyāvaśeṣeṇa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1366,6 +1532,12 @@ She then got brahmanas to pronounce blessings with honey, curd , unbroken grains
 rice and clarified butter by the repetition of certain hymns and to utter prayers for the well -
 being of Rama in the forest.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Presenting the twice-born Brahmins with honey, curds, unbroken rice, and clarified butter (madhu-dadhy-akṣata-ghṛtaiḥ), she then caused them to pronounce auspicious blessings (svasti-vācyam) and recite the benedictory rites for Rāma’s welfare in the forest (vane svastyayana-kriyām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1413,6 +1585,12 @@ Rama:-
 The illustrious Kausalya gave the desired fee to that chief of brahmanas and spoke
 as follows to Rama:-
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the glorious mother of Rāma bestowed upon that chief of the twice-born (tasmai dvijendrāya) the sacrificial fee of his desire (dakṣiṇāṃ kāmyām), and spoke this word to Rāghava:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1458,6 +1636,12 @@ maNgalam* = let that felicity; *bhavatu* = occur ; *te* = to you.
 
 "Which felicity occurred in Devendra the thousand- eyed, adored by all celestials
 when a demon called Vritta was destroyed, let that felicity occur to you"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That auspicious benediction (yan maṅgalam) which accrued to the thousand-eyed Indra (sahasrākṣe), revered by all the gods, at the destruction of Vṛtra (vṛtra-nāśe)—may that benediction be yours!
 </details>
 </details>
 
@@ -1508,6 +1692,12 @@ that blessing; *bhavatu* = happen ; *te* = to you.
 "Which blessing was invoked by Vinata to Garuda who was setting off to bring nectar
 in the past , may that blessing happen to you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That auspicious benediction which Vinatā of old fashioned for Suparṇa (Garuḍa) when he was seeking the ambrosia of immortality (amṛtaṃ prārthayānasya)—may that benediction be yours!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1553,6 +1743,12 @@ killing; *daityaan* = demons; *amR^itotpaadane* = at the time of producing necta
 
 "While blessing was bestowed on Devendra, the wielder of the thunderbolt , killing
 the demons at the time of producing nectar, let that blessing come to you "
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That auspicious benediction which Aditi bestowed upon the thunderbolt-wielding Indra (vajra-dharasya) as he smote the Daityas at the churning forth of the ambrosia (amṛtotpādane)—may that benediction be yours!
 </details>
 </details>
 
@@ -1605,6 +1801,12 @@ immensely glorious ; *prakramataH* = while keeping; *treen* = three;
 making his three strides (in order to measure the three worlds), let that good fortune come to
 you
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That auspicious benediction which belonged to Viṣṇu of peerless splendour (atula-tejasaḥ) as He strode forth His three cosmic strides (trivikramān prakramataḥ), O Rāma—may that benediction be yours!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1652,6 +1854,12 @@ earth ; girdled by oceans; *vedaaH* = vedas; *lokaaH* = the spheres;
 "Oh, Rama, the mighty armed! May the seasons , oceans , Dvipas (principal division
 of earth girdled by oceans ), vedas, various spheres and quarters confer blessings with good luck
 to you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May the sages, the oceans, the continents (dvīpāḥ), the Vedas, the worlds, and the quarters of space bestow upon you, O mighty-armed one, auspicious blessings and supreme felicity (śubha-maṅgalam)!”
 </details>
 </details>
 
@@ -1712,6 +1920,14 @@ of an amulet, a herb called Visalyakarani(so called because it helps in painless
 arrow stuck into one's body )which is efficacious and auspicious and muttered sacred hymns in order
 to enhance its virtue.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**37:** Having spoken thus, the noble and large-eyed lady placed consecrated unbroken grains of rice (śeṣāḥ) upon her son’s head, and anointed Rāma with fragrant sandal-pastes (gandhaiś cāpi samālabhya).
+
+**38:** And with the auspicious herb named Viśalyakaraṇī (“Extractor of Arrows”), of proven efficacy (su-siddhārthām), Kausalyā fashioned a protective amulet (cakāra rakṣām) and consecrated it with murmured mantras (mantrair abhijajāpa ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1760,6 +1976,12 @@ mouth; *na* = not; *bhaavena* = with heart.
 
 Though filled with grief inside, she appeared to be over-joyed outside and with
 faltering words , spoke thus with only mouth and not with her heart.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though overwhelmed by grief (duḥkha-vaśa-vartinī), she spoke as though outwardly cheerful (prahṛṣṭeva)—with words alone and not from her inmost heart (vāṅ-mātreṇa na bhāvena)—in a voice faltering with choked emotion (vācā saṃsajjamānayā).
 </details>
 </details>
 
@@ -1835,6 +2057,14 @@ Ayodhya; *sukham* = happily ; *susthitam* = well-established; *raaja vartmani*
 Oh, son! With all your purposes fulfilled and with good health, I shall see you
 returning to Ayodhya happily and taking over the reins of the kingdom
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**40:** Bending his head down (ānamya), smelling his crown (mūrdhni cāghrāya), and embracing him, the glorious queen spoke to her son: “Go forth according to your ease (yathā-sukham), O Rāma, with your purpose fulfilled (iṣṭārthaḥ)!
+
+**41:** “Healthy (arogam), with all your aims accomplished (sarva-siddhārtham), and returned once more to Ayodhyā, I shall joyfully behold you, O my child, firmly established upon the royal pathways of sovereignty (saṃdhitaṃ rāja-vartmasu)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1882,6 +2112,12 @@ with joy.
 "All my thoughts of grief having been expulsed and my face shining with joy, I shall
 behold you returning from the forest like the full moon rising from the horizon"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With all my anxious thoughts of sorrow dispelled (praṇaṣṭa-duḥkha-saṃkalpā) and my face radiant with joy (harṣa-vidyotitānanā), I shall behold you returned from the forest like the full moon risen in the sky (pūrṇa-candram ivoditam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1927,6 +2163,12 @@ behold you returning from the forest like the full moon rising from the horizon"
 
 "Oh, Rama! I shall behold you returning here from your sojourn in the forest, having
 fulfilled your father's word and installed on the splendid throne."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And I shall behold you once again, O Rāma, returned hither from your forest exile, seated upon the auspicious throne of state (bhadrāsana-gatam), having fulfilled the word of your father (tīrṇavantaṃ pitur vacaḥ)!
 </details>
 </details>
 
@@ -1978,6 +2220,12 @@ _________________
 "Having come here from your sojourn in the forest, you will be familiar with
 auspicious things and will ever be augmenting the desires of my daughter-in-law and of me. Depart
 now, Oh, Rama !"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Endowed with auspicious blessings (maṅgalair upasampannaḥ) and returned hither from your dwelling in the forest, do you ever fulfil the cherished desires of my daughter-in-law (vadhvāś ca mama nityaṃ tvaṃ kāmān saṃvardha); go forth now (yāhi bhoḥ)!
 </details>
 </details>
 
@@ -2035,6 +2283,12 @@ forest.
 Being, the great sages, spirits, the chief of evil spirits, the celestial serpents and the
 (four)quarters wish well of you, who is setting forth to forest, "
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May the hosts of gods headed by Śiva (deva-gaṇāḥ śivādayaḥ), the great sages, the troops of spirits (bhūta-gaṇāḥ), the celestials and serpents (suroragāḥ) worshipped by me, and the quarters of space desire your welfare for a long time (cirāya te hitāni kāṅkṣantu) as you set forth for the forest, O Rāghava!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2089,6 +2343,12 @@ punaHcha api* = again and again.
 Having so said and having completed the rite of invoking blessings befittingly,
 Kausalya whose eyes were overflowing with tears, further went clockwise around Rama and having
 pressed close to him, embraced again and again.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With her eyes overflowing with tears (aśru-pratipūrṇa-locanā), having duly completed the auspicious benediction rite (samāpya ca svastyayanaṃ yathā-vidhi), she circumambulated Rāghava (pradakṣiṇaṃ cāpi cakāra rāghavam), and gazing upon him again and again, embraced him (sasvaje).
 </details>
 </details>
 
@@ -2160,6 +2420,12 @@ own splendour, went to Sita's house
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि इप्पत्तैदनॆय सर्ग पूर्णवायितु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus circumambulated by that queen (tayā hi devyā ca kṛta-pradakṣiṇaḥ), and pressing his mother’s feet again and again in reverence (nipīḍya mātuś caraṇau punaḥ punaḥ), that Rāghava of great renown, blazing with that auspicious splendour (prajvalitas tayā śriyā), went to the abode of Sītā (jagāma sītā-nilayam).
 </details>
 </details>
 

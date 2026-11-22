@@ -36,6 +36,12 @@ title = "०४८ सीता-विलापः"
 
 लक्ष्मणनु हेळिद दारुणवाद मातन्नु केळि वैदेहियु अत्यन्त विषण्णळागि नॆलक्कॆ बिद्दुबिट्टळु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those dreadful words of Lakṣmaṇa (lakṣmaṇasya vacaḥ śrutvā dāruṇam), Janaka’s daughter Vaidehī, overcome by extreme despair (paraṃ viṣādam āgamya), collapsed upon the earth (nipapāta ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०४८ सीता-विलापः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कम्बनि तुम्बिद कण्णुगळिन्द कूडिद्द सीतादेवियु स्वल्प हॊत्तिन बळिक ऎच्चरगॊण्डु लक्ष्मणनल्लि दैन्य तुम्बिद ई मातन्नु हेळिदळु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lying as though senseless for a moment (muhūrtam ivāsañjñā), Janaka’s daughter, her eyes swimming with tears (bāṣpa-paryākulekṣaṇā), spoke to Lakṣmaṇa in a broken voice (dīnayā vācā):
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०४८ सीता-विलापः"
 
 लक्ष्मण! निश्चयवागियू विधातनु नन्न शरीरवन्नु केवल दुःख अनुभविसलॆन्दे सृष्टिसिरुवनु. अदरिन्द इन्दु ऎल्ल दुःखगळु मूर्तिमन्तरागि ननगॆ कण्डु बरुत्तिवॆ.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely this body of mine (māmikeyaṃ tanuḥ) was fashioned by the Creator solely for suffering (sṛṣṭā duḥkhāya ... dhātrā), O Lakṣmaṇa, since today the very embodiment of sorrow (duḥkha-mūrtiḥ) stands revealed in me (yasyās tathā me ’dya ... pradṛśyate)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "०४८ सीता-विलापः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु हिन्दिन जन्मदल्लि याव पाप माडिद्देनो, अथवा यारन्नु पत्नियिन्द बेर्पडिसिद्देनो, नानु शुद्ध आचरणवुळ्ळवळागिद्दरू महाराजरु नन्नन्नु त्यजिसिबिट्टिरुवरु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What sin indeed did I commit in a former life (kiṃ nu pāpaṃ kṛtaṃ pūrvam), or whom did I separate from his wife (ko vā dārair viyojitaḥ), that I—a faithful wife of pure conduct (śuddha-samācārā ... satī)—have been abandoned by the king (tyaktā nṛpatinā)?
 </details>
 </details>
 
@@ -136,6 +160,12 @@ title = "०४८ सीता-विलापः"
 
 सुमित्रानन्दन! मॊदलु नानु वनवासद दुःखदल्लि बिद्दरू अदन्नु सहिसि श्रीरामन चरणगळन्नु अनुसरिसुत्ता आश्रमदल्लि इरलु इच्छिसुत्तिद्दॆ.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Formerly, O Saumitri, following close upon Rāma’s footsteps (rāma-pādānuvartinī), even though I accepted dwelling in a hermitage (āśrame vāsam anurudhyāpi) and moved amidst hardship (duḥkhe ca parivartinī)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,6 +190,12 @@ title = "०४८ सीता-विलापः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ सौम्य! ईग नानु ऒब्बण्टिगळागि प्रियजनरिन्द अगलि हेगॆ आश्रमदल्लि वासिसलि? नन्न दुःखवन्नु यारल्लि हेळिकॊळ्ळलि.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How indeed, O gentle one (saumya), shall I now dwell in a hermitage left utterly alone (vatsyāmi vijanīkṛtā)? And to whom shall I confide my grief (ākhyāsyāmi ca kasyāhaṃ duḥkham), given over wholly to sorrow (duḥkha-parāyaṇā)?
 </details>
 </details>
 
@@ -186,6 +222,12 @@ title = "०४८ सीता-विलापः"
 
 प्रभो! महात्मा रघुनाथनु याव अपराधक्कागि निन्नन्नु त्यजिसिरुवनु ऎन्दु मुनिगळु नन्नन्नु केळिदरॆ नानु निम्म याव अपराधवन्नु तिळिसली.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What indeed shall I say among the sages (kiṃ nu vakṣyāmi muniṣu)? What evil deed (karma vāsatkṛtaṃ ca kim), or for what cause (kasmiṃścit kāraṇe), have I been cast off by the high-souled Rāghava (tyaktā rāghaveṇa mahātmanā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -210,6 +252,12 @@ title = "०४८ सीता-विलापः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुमित्रा कुमार! नानु नन्न शरीरवन्नु गङ्गॆयल्लि विसर्जिसिबिडुवॆनु; आदरॆ ईग हागॆ माडलारॆ; एकॆन्दरॆ हीगॆ माडिदरॆ नन्न पतिदेवन राजवंश नाशवागि होदीतु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet I cannot indeed cast away my life this very day in the waters of the Jāhnavī (na khalv adyaiva ... jīvitaṃ jāhnavī-jale tyajeyam), O Saumitri, for then my husband’s royal lineage would be cut off (rājavaṃśas tu bhartur me parihāsyate)!
 </details>
 </details>
 
@@ -239,6 +287,12 @@ _________________
 
 आदरॆ सुमित्रानन्दन! महा राजरु आज्ञापिसिदन्तॆ नीनु माडु. दुःखितॆयाद नन्नन्नु इल्ले बिट्टु नीनु महाराजर आज्ञापालनॆ यल्लि स्थिरवागिरु हागू नन्न ई मातन्नु केळु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Do according to command (yathājñaṃ kuru), O Saumitri: leave me here, sharer in sorrow (tyaja māṃ duḥkha-bhāginīm)! Abide by the king’s decree (nideśe sthīyatāṃ rājñaḥ), and hear these words of mine (śṛṇu cedaṃ vaco mama):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -263,6 +317,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न ऎल्ल अत्तॆयरिगॆ कैमुगिदु नन्न परवागि अवर चरणगळल्लि वन्दिसु. जॊतॆगॆ महाराजर चरणगळल्लि मस्तक चाचि नन्न कडॆयिन्द अवर कुशल विचारिसु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having bowed with your head at the feet of all my mothers-in-law without distinction (śvaśrūṇām aviśeṣeṇa ... śirasāvandya caraṇau), holding forth joined palms in reverence (prāñjali-pragraheṇa ca), convey my greetings of well-being to the king (kuśalaṃ brūhi pārthivam)—
 </details>
 </details>
 
@@ -292,6 +352,12 @@ _________________
 
 लक्ष्मण! नीनु अन्तःपुरद ऎल्ल वन्दनीय स्त्रीयरिगॆ नन्न कडॆयिन्द प्रणाम माडि नन्न समाचार अवरिगॆ तिळिसु हागू सदा धर्मपालनॆयल्लि तत्परराद महाराजरिगॆ नन्न ई सन्देशवन्नु तिळिसु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bowing low with your head (śirasābhinataḥ), speak to all of them alike (brūyāḥ sarvāsām eva), O Lakṣmaṇa! And the king too, ever steadfast in dharma (nṛpatir dharmeṣu susamāhitaḥ), should be addressed thus (vaktavyaś cāpi):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -316,6 +382,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! सीतॆयु शुद्धचरित्रा आगिरुवुदु नीवु वास्तववागि तिळिदिरुवरु. सर्वदा निम्म हितदल्ले तत्परळागिद्दु, निम्म कुरितु परम प्रेम भक्ति इरिसुववळु नानु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘You know in very truth (jānāsi ca ... tattvena), O Rāghava, how pure Sītā is (yathā śuddhā sītā), endowed with supreme devotion (bhaktyā ca parayā yuktā) and ever intent upon your welfare (hitā ca tava nityaśaḥ).
 </details>
 </details>
 
@@ -348,6 +420,12 @@ _________________
 
 वीर! नीवु अपयशक्कॆ हॆदरिये नन्नन्नु त्यजिसिरुविरि; आद्दरिन्द लोकदल्लि आगुत्तिरुव निम्म निन्दॆ अथवा नन्न कारणदिन्दागि हरडिद अपवादवन्नु दूरगॊळिसुवुदु नन्न कर्तव्यवू आगिदॆ; एकॆन्दरॆ नीवु ननगॆ परमाश्रयरागिरुविरि.॥13½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I have been relinquished by you, O hero (ahaṃ tyaktā tvayā vīra), out of dread of ill fame among the people (ayaśo-bhīruṇā jane); and whatever reproach might fall upon you arising from scandal (yac ca te vacanīyaṃ syād apavāda-samutthitam) must be warded off by me (mayā ca parihartavyam), for you alone are my supreme refuge (tvaṃ hi me paramā gatiḥ).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -379,6 +457,14 @@ _________________
 
 लक्ष्मण! नीनु महाराजरल्लि हेळु - नीवु धर्मदिन्द ऎच्चरवागि इद्दु पुरवासिगळॊन्दिगॆ तम्म सहोदररन्तॆ वर्तिसिरि. इदे निम्म परम धर्मवागिद्दु, इदरिन्दले निम्म परमोत्तम यशद प्राप्तियागबल्लदु.॥14-15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “And thus should the king, steadfast in righteousness (dharmeṇa susamāhitaḥ), be told: ‘Even as you conduct yourself toward your brothers (yathā bhrātṛṣu vartethāḥ), so behave ever toward the citizens (tathā paureṣu nityadā)! For this is your highest dharma (paramo hy eṣa dharmas te), and from it springs unsurpassed renown (tasmāt kīrtir anuttamā)—
+
+**15:** “‘—whatever merit the citizenry may gain through your righteous rule (yat tu paurajano rājan dharmeṇa samavāpnuyāt). As for me, O bull among men (nararṣabha), I grieve not for my own body (ahaṃ tu nānuśocāmi sva-śarīram),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,6 +489,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजन्! पुरवासिगळ कुरितु धर्मानुकूल आचरण माडुवुदरिन्द प्राप्तवागुव पुण्यवे निमगॆ उत्तम धर्म मत्तु कीर्तियागिदॆ. पुरुषोत्तम! ननगॆ नन्न शरीरद बग्गॆ कॊञ्चवू चिन्तॆ इल्ल.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘—but rather for the scandal among the citizens (yathāpavādaṃ paurāṇām), even so, O delight of the Raghus! For a husband is a woman’s deity (patir hi devatā nāryāḥ), her kinsman (bandhuḥ), and her preceptor (guruḥ);
 </details>
 </details>
 
@@ -431,6 +523,12 @@ _________________
 
 रघुनन्दन! पुरवासिगळु अपवादगळिन्द तप्पिसिकॊळ्ळलु साध्यवागुवन्तॆ नीवु व्यवहरिसिरि. स्त्रीयळिगागि पतिये देवतॆ, बन्धु, गुरु आगिरुवनु इदक्कागि प्राण पणवागिट्टुकॊण्डु नानु विशेषवागि पतिय प्रियवन्ने माडलु बयसुत्तेनॆ.॥17½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Therefore a husband’s pleasure must above all be fulfilled, even at the cost of one’s life (prāṇair api priyaṃ tasmād bhartuḥ kāryaṃ viśeṣataḥ).’ Thus at my word must Rāma be told this summary of my message (iti mad-vacanād rāmo vaktavyo mama saṅgrahaḥ). Now look closely upon me—visibly past my courses (nirīkṣya mādya gaccha tvam ṛtukālātivartinīm)—and depart!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -455,6 +553,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न परवागि ऎल्ल मातुगळन्नु नीनु श्रीरामनिगॆ तिळिसु हागू इन्दु नीनू नन्नन्नु नोडिकॊण्डु होगु. नानीग ऋतुकालवन्नु दाटि गर्भिणियागिरुवॆनु.॥18½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Sītā spoke thus (evaṃ bruvantyāṃ sītāyām), Lakṣmaṇa, broken in spirit (dīna-cetanaḥ), bowed his head to the earth (śirasāvandya dharaṇīm) and could not utter a word (vyāhartuṃ na śaśāka ha).
 </details>
 </details>
 
@@ -484,6 +588,12 @@ _________________
 
 सीतॆयु हीगॆ हेळिदाग लक्ष्मणन मनस्सिगॆ बहळ दुःखवायितु. अवनु दण्डवत् सीतॆगॆ नमस्करिसिदनु. आग अवन बायियिन्द याव मातू हॊरडलिल्ल.॥19½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Circumambulating her (pradakṣiṇaṃ ca tāṃ kṛtvā) while weeping aloud (rudann eva mahāsvanaḥ), he brooded for a moment (dhyātvā muhūrtam) and said to her: “What is this you say to me, O fair lady (kiṃ māṃ vakṣyasi śobhane)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -508,6 +618,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु गट्टियागि अळुत्ता सीतामातॆगॆ प्रदक्षिणॆ माडि ऎरडु गळिगॆ विचार माडि हेळिदनु - शोभने! नीवु इदन्नु नन्नल्लि एकॆ हेळुत्तिरुवि.॥20½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Never before have I looked upon your form (dṛṣṭa-pūrvaṃ na te rūpam)—only your feet have I beheld (pādau dṛṣṭau tavānaghe), O sinless one! How indeed can I gaze upon you here in the forest, parted from Rāma (katham atra hi paśyāmi rāmeṇa rahitāṃ vane)?”
 </details>
 </details>
 
@@ -537,6 +653,12 @@ _________________
 
 पुण्यात्म पतिव्रतॆये! नानु मॊदलू निम्म सम्पूर्णरूप ऎन्दू नोडिल्ल. केवल निम्म चरणगळन्ने दर्शिसिद्दॆ. मत्तॆ इन्दु वनदॊळगॆ श्रीरामन अनुपस्थितियल्लि निम्म कडॆ हेगॆ नोडलि.॥21½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus and bowed in homage to her (tāṃ namaskṛtya), he went once more to the boat (punar nāvam upāruhat), and having embarked again upon the vessel (āruhya ca punar nāvam), he urged the boatman onward (nāvikaṃ cābhyacodayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -561,6 +683,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि सीतॆगॆ पुनः नमस्कार माडिदनु हागू दोणियन्नु हत्तिदनु. दोणियन्नेरि बॆस्तनिगॆ नडॆसुवन्तॆ हेळिदनु.॥22½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached the northern shore (gatvā cottaraṃ tīram), weighed down by the burden of grief (śoka-bhāra-samanvitaḥ) and as if dazed by sorrow (sammūḍha iva duḥkhena), he hastily mounted the chariot (ratham adhyāruhad drutam).
 </details>
 </details>
 
@@ -587,6 +715,12 @@ _________________
 
 शोकभारदिन्द कुग्गिद लक्ष्मणनु गङ्गॆयन्नु दाटि दुःखदिन्दागि निश्चेष्टितनन्तागि, अदे स्थितियल्लि अवसरवागि रथवन्नेरिदनु.॥23½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Turning back again and again (muhur muhuḥ parāvṛtya) and beholding Sītā on the opposite bank (paratīrasthām) writhing in anguish like one without a protector (sītām anāthavat ceṣṭantīm), Lakṣmaṇa then drove away (prayayāv atha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,6 +746,12 @@ _________________
 
 सीतॆयु गङ्गातीरदल्लि अनाथळन्तॆ अळुत्ता नॆलदल्लि मलगिद्दळु. लक्ष्मणनु पदे-पदे हिन्तिरुगि नोडुत्ता हॊरटुहोदनु.॥24½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing again and again (muhur muhuḥ nirīkṣamāṇām) upon the receding chariot (dūrasthaṃ ratham ālokya) and upon Lakṣmaṇa, grief utterly overwhelmed the distraught Sītā (udvignāṃ sītāṃ śokaḥ samāviśat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -636,6 +776,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रथ मत्तु लक्ष्मण क्रमवागि दूरवागुत्तिरुवन्तॆ, सीतॆयु अवन कडॆगॆ मत्तॆ-मत्तॆ नोडुत्ता उद्विग्नळादळु. अवनु कण्णिगॆ काणदादाग गाढशोकक्कॆ ऒळगादळु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowed low beneath the weight of sorrow (duḥkha-bhārāvanatā), that illustrious lady whose sole treasure was honor (yaśasvinī yaśodhanā), chaste and devoted yet beholding no protector (nātham apaśyatī satī), wept aloud, abandoned wholly to grief, in that forest echoing with the cries of peacocks (barhiṇa-nādite vane).
 </details>
 </details>
 

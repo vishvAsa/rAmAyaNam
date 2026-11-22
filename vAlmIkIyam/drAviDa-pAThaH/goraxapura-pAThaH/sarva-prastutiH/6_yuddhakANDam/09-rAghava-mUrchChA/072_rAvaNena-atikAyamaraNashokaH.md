@@ -52,6 +52,12 @@ Atikaya, his son.
 
 महात्मा लक्ष्मणनिन्द अतिकायनु हतनादनॆम्ब वार्तॆ केळि रावणनु उद्विग्ननागि हेळिदनु.॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that Atikāya had been slain by high-souled Lakṣmaṇa, the king was seized with agitation (udvegam agamat) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -80,6 +86,14 @@ Atikaya, his son.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अत्यन्त कोपिष्ठनाद धूम्राक्ष, समस्त शस्त्रधारिगळल्लि श्रेष्ठ अकम्पन, प्रहस्त हागू कुम्भकर्ण इवरॆल्ल महाबलि वीरराक्षसरु सदा युद्धाभिलाषियागिद्दरु. इवरॆल्लरू शत्रुसैन्यवन्नु जयिसुववरू, शत्रुगळिन्द ऎन्दू पराजितरागदवरागिद्दरु.॥2-3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “Dhūmrākṣa of supreme wrath, foremost of all wielders of weapons (sarvaśastrabhṛtāṃ varaḥ), Akampana, Prahasta, and Kumbhakarṇa as well—
+
+**3:** “—these mighty and heroic rākṣasas eager for battle (yuddhakāṅkṣiṇaḥ), conquerors of enemy hosts (jetāraḥ parasainyānām) and ever unvanquished by foes (parair nityāparājitāḥ)—
 </details>
 </details>
 
@@ -131,6 +145,12 @@ were struck down.
 of weapons, Prahasta and Kumbhakarna were killed by Rama, who was unwearied in battle. The mighty
 and valiant demons longing for battle, who conquer the adversaries, who was never defeated in
 battle by the enemies they along with their enemies were killed. Many other mighty warriors.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—those heroes, huge-bodied rākṣasas skilled in manifold weapons (nānāśastraviśāradāḥ), have been slain together with their armies (sasainyāḥ) by Rāma of unwearying deeds (akliṣṭakarmaṇā).
 </details>
 </details>
 
@@ -212,6 +232,16 @@ or by Yakshas the supernatural beings or Gandharvas the celestial musicians or P
 serpent-demons. Rama and Lakshmana, the two brothers were released from that tie of arrows either
 by their power or by their sorcery or by their marvel I do not know that."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** “Many other high-souled warriors too have been laid low (nipātitāḥ). And by my son Indrajit of renowned strength and valor (prakhyātabalavīryeṇa)—
+
+**6:** “—those two brothers were bound at that time with dreadful boon-granted shafts (dattavaraiḥ śaraiḥ)—a bond that could not be loosed by all the gods or mighty asuras—”
+
+**7:** “—nor even by yakṣas, gandharvas, and serpents (yakṣagandharvapannagaiḥ) could that dreadful bond be loosed (moktuṃ tadbandhanaṃ ghoram). I do not know whether by their own powers (prabhāvaiḥ), by illusion (māyayā), or by stupefying magic (mohanena)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -258,6 +288,12 @@ monkeys.
 
 "All of those valiant demon-warriors set out for battle, at my command, were killed
 by those exceptionally mighty monkeys."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—those two brothers Rāma and Lakṣmaṇa were freed from that bond of arrows (śarabandhād vimuktau). Whatever heroic rākṣasa warriors went forth at my command (mama śāsanāt)—
 </details>
 </details>
 
@@ -308,6 +344,12 @@ lakShmaNam* = along with Lakshmana; *sasugriiva vibhiiShaNam* = Sugreeva and Vib
 "I do not find any demon, who can destroy the valiant Rama along with Lakshmana,
 Sugreeva and Vibhishana accompanied by their army in battle now."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—all of them have been slain in battle by monkeys of prodigious strength (vānaraiḥ sumahābalaiḥ). Today I behold no one in battle who might destroy Rāma together with Lakṣmaṇa—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -347,6 +389,12 @@ Sugreeva and Vibhishana accompanied by their army in battle now."
 
 "By Rama's valour, the demons were destroyed. Alas! How great is Rama's strength!
 How great is the power of his arrow!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—that heroic warrior together with his army, Sugrīva, and Vibhīṣaṇa. Ah! Exceedingly mighty is Rāma, and great indeed is his power of mystic missiles (mahad astrabalaṃ ca vai)—
 </details>
 </details>
 
@@ -393,6 +441,12 @@ Seetha; *abhirakShyate* = is being guarded; *rakShyaatu* = have to be protected;
 
 "Some regiments of the army have to protect this City and even Ashoka garden where
 Seetha is being guarded, vigilantly on all sides."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—encountering whose prowess (yasya vikramam āsādya) the rākṣasas have met their death (nidhanaṃ gatāḥ). I deem that heroic Rāghava to be the imperishable Nārāyaṇa himself (nārāyaṇam anāmayam).”
 </details>
 </details>
 
@@ -441,6 +495,12 @@ tva* = in that and that place (where); *niShkramovaa* = persons are going out;
 "We should know the locations of army-regiments and also the places where persons
 are exiting and entering at all times, again and again.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Out of fear of him, the city of Laṅkā has had its gates and arched portals barred (pihitadvāratoraṇā). Therefore this city must be guarded at every garrison post (sarvatra gulme) by vigilant warriors (apramattaiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -486,6 +546,14 @@ those monkeys; *draShTavyam cha* = is to be watched.
 
 "O demons! Stay on all sides with your respective armies. The various positioning of
 those monkeys are to be watched."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “—and the Aśoka grove as well, where Sītā is guarded (yatra sītābhirakṣyate). Every exit or entry (niṣkramo vā praveśo vā) must always be known by us (jñātavyaḥ sarvadaiva naḥ).
+
+**14:** “Wherever there is a garrison post (yatra yatra bhaved gulmaḥ), there again and again stand fast on every side (sarvataś cāpi tiṣṭhadhvam), surrounded by your respective troops (svaiḥ svaiḥ parivṛtā balaiḥ).
 </details>
 </details>
 
@@ -534,6 +602,12 @@ remaining.
 evening or at midnight or at dawn. You have watch whether the army of adversaries is fervently
 active or advancing or staying where it was."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O night-stalkers, the movements (padam) of those monkeys must be watched at nightfall (pradoṣe), at midnight (ardharātre), and at break of dawn (pratyūṣe) on all sides.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -580,6 +654,12 @@ active or advancing or staying where it was."
 Hearing those words of Ravana, all the mighty demons then precisely carried it out
 forthwith in its totality.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Never at any time must those monkeys be treated with disdain (nāvajñā tatra kartavyā): [you must ever watch] whether the marshaled host of the enemy (dviṣatāṃ balam udyuktam) is advancing to attack (āpatat kim) or how it stands (sthitaṃ yathā).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -625,6 +705,12 @@ manyushalyam* = suffering from prickly sorrow; *diinaH* = and depression;
 
 Having thus instructed all of them, Ravana the king of demons, suffering from
 prickly sorrow and depression, penetrated deeply into his palace.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard that command of the lord of Laṅkā, all those mighty rākṣasas duly carried out (yathāvat tu... ātiṣṭhan) his entire order.
 </details>
 </details>
 
@@ -677,6 +763,12 @@ sighing.
 
 Blazed as he was with a fire of anger, Ravana the mighty lord of demons, then
 remained broading about the loss of his son (Atikaya) and also sighing again and again.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus instructed all of them, Rāvaṇa, lord of rākṣasas, bearing the dart of grief and wrath (manyuśalyaṃ vahan), dejectedly (dīnaḥ) entered his own palace (svam ālayam).
 </details>
 </details>
 
@@ -732,6 +824,12 @@ Ravana was worried and spoke as follows:
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎप्पत्तॆरडनॆय सर्ग पूर्णवायितु.॥72॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that mighty lord of night-stalkers, with the fire of his wrath blazing high (saṃdīpitakopavahniḥ), brooded over that very calamity of his sons' deaths (tad eva putravyasanaṃ vicintayan), sighing heavily again and again (muhur muhuś caiva tadā viniḥśvasan).
 </details>
 </details>
 

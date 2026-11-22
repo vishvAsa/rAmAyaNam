@@ -74,6 +74,12 @@ Rama, the enemy-scorcher, has gone towards the threshold of the hermitage of Sag
 along with his brother Lakshmana and Seetha, also along with those Brahmans who accompanied him all
 the way. [4-7-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma, the scorcher of foes (paraṃtapaḥ), accompanied by his brother and by Sītā, went together with those twice-born sages to the hermitage site (āśrama-padam) of Sutīkṣṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,6 +127,12 @@ having gone on; *bahu udakaaH nadiiH tiirtvaa* = with plenty, of waters, rivers,
 He travelling on a long way, and on crossing rivers with plenty of waters has seen a
 tranquil mountain towering like great Mt. Meru. [3-7-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having traveled a long way (dūram adhvānam) and crossed rivers abounding in water (bahūdakāḥ), he beheld a spotless mountain towering like great Meru.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -166,6 +178,12 @@ drumaiH* = always, with divers, tress; *tat kaananam vivishatuH* = that, forest,
 
 Then those best ones from Ikshvaku dynasty, those two Raghava-s along with Seetha have
 entered the forest which will always be full with diverse trees. [3-7-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then those two foremost of the Ikṣvākus, the two Rāghavas together with Sītā, entered that forest densely overspread (satatam) with diverse trees.
 </details>
 </details>
 
@@ -213,6 +231,12 @@ cloths, garlanded, adorned with.
 
 Entering that perilous forest with its many a flower and fruit bearing trees, they have
 seen the hermitage in a reclusive place adorned with rows of jute cloths as though garlanding it. [3-7-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having entered that formidable forest abounding in trees laden with blossoms and fruits, he beheld in a secluded spot (ekānte) a hermitage adorned with rows of bark-garments (cīra-mālā-pariṣkṛtam).
 </details>
 </details>
 
@@ -272,6 +296,12 @@ but hermits of a sort leave away that bodily bathing, because the sweat and soil
 after each bath on this impure body. So they stop taking outward bath and concentrate on cleansing the
 inner space.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There Rāma, according to rule (vidhivat), addressed the ascetic Sutīkṣṇa, rich in penance, who was seated bearing matted locks caked with bodily mire (mala-paṅkaja-dhāriṇam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,6 +348,12 @@ abhi vada* = to me, you talk.
 
 "Oh! godly sage I am Rama, I have come to see you, hence oh, knower of virtue, oh, great
 sage, oh, one with truthfulness as your courage, please talk to me..." [3-7-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am Rāma, O venerable one (bhagavan), come to behold you; therefore greet me (mābhivada), O knower of dharma, O great sage of true valour (satya-vikrama)!”
 </details>
 </details>
 
@@ -366,6 +402,12 @@ sage, oh, one with truthfulness as your courage, please talk to me..." [3-7-6]
 Then that sage having seen that brave and best proponent of virtue, Rama, embraced him
 with both of his hands, and spoke this sentence. [3-7-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that steadfast sage (dhīraḥ), beholding Rāma, the foremost of upholders of dharma, embraced him with both arms (samāśliṣya ca bāhubhyām) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -412,6 +454,12 @@ tvayaa aakraantaH* = by you, caught unprepared [treaded upon]; *ayam aashramaH* 
 
 "Welcome to you Rama, best of Raghu dynasty and the best patron of truth, and when you
 presently caught this hermitage unprepared this has become a well-lorded one... [3-7-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Welcome to you (svāgataṃ te), O best of the Raghus, O Rāma, foremost of upholders of truth! Trodden by you (tvayākrāntaḥ), this hermitage now truly has a lord (sanātha iva sāmpratam).
 </details>
 </details>
 
@@ -473,6 +521,12 @@ your kingdom and you are coming this way. So I am waiting for your graceful look
 leaving the body. Should I leave the body and go to heavens, I cannot see *parama puruSa* , The
 Absolute, in you... so I did not cast off this body...' Thus said the sage to Rama. Maheshvara Tirtha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Awaiting you alone (pratīkṣamāṇas tvām eva), O hero of great renown, I have not ascended to the realm of the gods from this place, casting off my body upon the earth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -497,6 +551,12 @@ Absolute, in you... so I did not cast off this body...' Thus said the sage to Ra
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु राज्यदिन्द भ्रष्टनागि चित्रकूटपर्वतक्कॆ बन्दु इरुवुदन्नु नानु केळिद्दॆ. काकुत्स्थने! इल्लिगॆ शतक्रतु देवेन्द्रनु बन्दिद्दनु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I had heard that, having lost the kingdom (rājya-bhraṣṭaḥ), you had betaken yourself to Citrakūṭa; for Śatakratu, king of the gods (deva-rājaḥ), came hither, O Kākutstha.
 </details>
 </details>
 
@@ -538,6 +598,12 @@ by me]; *maam aaha* = [thus] to me, he said.
 
 "The king of gods and the chief invitee in hundred sacrifices Indra approached me, and
 that great deity said me that I have conquered all the worlds by my meritorious deeds... [3-7-10, 11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having approached me, the great god, lord of the celestials (sureśvaraḥ), declared that all the worlds had been won by my meritorious deeds (puṇyena karmaṇā).
 </details>
 </details>
 
@@ -596,6 +662,12 @@ meritorious and establishes a selflessness of the devotee. Even in any daily wor
 with a saying, *ye tat phalam parameshwara arpaNamastu...* i.e., whatever is the result of this
 worship it is dedicated in the Supreme...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In those worlds frequented by divine sages (devarṣi-juṣṭeṣu) and won by me through penance, do you sport (viharasva) through my grace together with your wife and with Lakṣmaṇa!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -642,6 +714,12 @@ vaadinam* = truth, advocate of; *prati uvaaca* = in turn, said; *brahmaaNam iva 
 
 That self-respecting Rama replied the radiant sage with intense asceticism, a great soul
 and an advocate of truth by himself, as Indra would reply to Brahma. [3-7-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To that blazing great sage of fierce austerity (ugra-tapasam) and truthful speech, self-possessed (ātmavān) Rāma replied, like Vāsava unto Brahmā:
 </details>
 </details>
 
@@ -695,6 +773,12 @@ in this forest as indicated by you... [3-7-14]
 This is the same situation with Sage Sharabhanga in the 5th chapter of this canto.
 This is an allusive saying by Rama. cf. 3-5-33.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I myself shall win (aham evāhariṣyāmi) those worlds on my own, O great sage; I desire only a dwelling place prescribed (āvāsaṃ pradiṣṭam) here in the forest.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -741,6 +825,12 @@ gautamena = said by, great soul, Sharabhanga, belonging to sage Gautama's dynast
 so said the great souled Sage Sharabhanga of Sage Gautama's dynasty..." [So said Rama to the sage.]
 [3-7-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That you are skilled in every matter (sarvatra kuśalaḥ) and devoted to the welfare of all beings (sarva-bhūta-hite rataḥ) was told to me by the great-souled Gautama Śarabhaṅga.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -786,6 +876,12 @@ abraviit madhuram vaakyam* = spoke, sweet worded, sentence.
 
 When said thus by Rama, that great sage with world renown spoke sweet worded sentence
 with great pleasure. [3-7-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Rāma, the world-renowned great sage, filled with great joy (harṣeṇa mahatā yutaḥ), spoke these sweet words:
 </details>
 </details>
 
@@ -836,6 +932,12 @@ here, thus.
 
 "You can take delight in this good featured hermitage alone, for groups of sages will
 always be moving here, and this always contains tubers and fruits..." Thus said Sage Suteekshna. [3-7-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This very hermitage (ayam evāśramaḥ), O Rāma, is endowed with every excellence; let delight be taken here (ramyatām)! It is frequented by hosts of sages and ever abounds in roots and fruits.
 </details>
 </details>
 
@@ -898,6 +1000,12 @@ of hermitage, whether it be deer or other blaring wild animals. So Rama's fury m
 deer', say Golden Deer, but not at ordinary deer. Thus this usage of 'deer and lure' may be taken as
 *lakshaNa* for *lakshita* of Ramayana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Coming to this hermitage of the great-souled one, herds of deer (mṛga-saṃghāḥ), free from all fear (akutobhayāḥ), depart unharmed (ahatvā) after alluring the mind (lobhayitvā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -949,6 +1057,12 @@ vacanam shrutvaa* = of that, great sage, that, sentence, on hearing; *sa sharam 
 "Know that no other problem is there other than the animals..." So said the sage. On
 hearing those words of that great sage, that brave elder brother of Lakshmana taking bow and arrow said
 this sentence. [3-7-19, 20a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Know indeed that there is no other blemish (doṣaḥ) here apart from the deer (mṛgebhyo’nyatra).” Hearing that speech of the great sage, Lakṣmaṇa’s elder brother—
 </details>
 </details>
 
@@ -1017,6 +1131,14 @@ staying, not, befitting [thus I deem.]
 more painful to you, hence I deem our staying in this hermitage for along will be unbefitting..." So
 said Rama. [3-7-21b, 22a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** —steadfast (dhīraḥ), grasping his bow with arrow (vigṛhya saśaraṃ dhanuḥ), spoke these words: “O most illustrious sage, those herds of deer that come hither—
+
+**21:** “—I could slay with a sharp-edged arrow of smooth nodes (ānata-parvaṇā); yet you would be pained thereby (tatrābhiṣajyeta), and what could be more distressing than that (kṛcchrataraṃ tataḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1041,6 +1163,12 @@ said Rama. [3-7-21b, 22a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द नानु ई आश्रमदल्लि हॆच्चु समय इरलु बयसुवुदिल्ल. मुनिय बळि हीगॆ हेळि मौननाद श्रीरामनु सन्ध्योपासनॆगागि हॊरटुहोदनु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore I do not approve of a prolonged residence (vāsaṃ ciram) in this hermitage.” Having spoken thus to the sage who had ceased speaking (uparamam), Rāma approached the evening twilight (saṃdhyām upāgamat).
 </details>
 </details>
 
@@ -1083,6 +1211,12 @@ delightful one; *tatra vaasam akalpayat* = there, stay, arranged for himself.
 On saying thus to the sage then Rama came by the twilight, and he paused at it. On worshipping
 the westward vesperal time, Rama arranged a stay for himself along with Seetha and Lakshmana, there
 in that delightful hermitage of Sage Suteekshna. [3-7-22b, 23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having worshipped the western twilight (anvāsya paścimāṃ saṃdhyām), he made his abode there for the night in Sutīkṣṇa’s delightful hermitage together with Sītā and Lakṣmaṇa.
 </details>
 </details>
 
@@ -1156,6 +1290,12 @@ their meal, [for a long time...of course, with their unending chit-chatting...]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि एळनॆय सर्ग सम्पूर्णवायितु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, at the conclusion of the twilight rites (saṃdhyā-nivṛttau), perceiving that night had fallen, the great-souled Sutīkṣṇa himself, having honored those two bulls among men, bestowed upon them pure food suitable for ascetics (tāpasa-yogyam annam).
 </details>
 </details>
 

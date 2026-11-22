@@ -70,6 +70,12 @@ expedition (to Rama)
 Thereafter, Shatrughna the younger brother of Lakshmana spoke the following words to
 Bharata, who was tormented with grief and who desired to undertake an expedition to Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Śatrughna, the younger brother of Lakṣmaṇa (śatrughno lakṣmaṇānujaḥ), spoke these words to grief-tormented Bharata (bharataṃ śoka-santaptam), who was contemplating the journey to Rāma (yātrāṃ samīhantam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ to the forest.
 "When that even-minded Rama is a refuge for all beings, how much more to tell about
 our seeking solace to him in our grief? He has been abandoned to the forest by a woman."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That Rāma, endowed with true strength and magnanimity (sa rāmaḥ sattva-sampannaḥ), who is the refuge of all beings in their distress—how much more so our own! (gatir yaḥ sarva-bhūtānāṃ duḥkhe kiṃ punar ātmanaḥ)—has been banished to the forest by a woman (striyā pravrājito vanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +175,12 @@ it?
 
 "Why the so-called Lakshmana, the strong and powerful man, even could not rescue
 Rama from distress by making our father to restrain from doing it?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Why did even that Lakṣmaṇa, who is strong and endowed with valor (balavān vīrya-sampanno lakṣmaṇo nāma yo 'py asau), not deliver Rāma by forcibly restraining our father (kiṃ na mocayate rāmaṃ kṛtvā sma pitṛ-nigraham)?
 </details>
 </details>
 
@@ -215,6 +233,12 @@ puurvameva = even before itself.
 who has fallen into the clutches of a woman, Lakshmana should have restrained Dasaratha even at the
 beginning itself."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having duly weighed justice and injustice (samavekṣya nayānayau), the king who had fallen under the sway of a woman and mounted upon an evil path (utpathaṃ yaḥ samārūḍho rājā nāryā vaśaṃ gataḥ) ought to have been restrained at the very outset (pūrvam eva tu nigrāhyaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,6 +285,12 @@ types of ornaments; *abhuut* = appeared; *praagdvaare* = at the eastern gate.
 While Shatrughna the younger brother of Lakshmana was talking thus, the hump-backed
 Manthara duly adorned with all types of ornaments, appeared at the eastern gate.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Śatrughna, the younger brother of Lakṣmaṇa, was speaking thus (iti sambhāṣamāṇe tu śatrughne lakṣmaṇānuje), at that moment the hunchback Mantharā appeared at the eastern gate, adorned with every ornament (prāg-dvāre 'bhūt tadā kubjā sarvābharaṇa-bhūṣitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -300,6 +330,12 @@ sandal-word; *bibhratii* = wearing; *raajavastraaNi* = royal clothes;
 
 Anointed with a scent of sandal-wood and wearing royal clothes, she was bedecked
 with several kinds of ornaments of every description in various ways.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Smeared with choice sandal-paste and wearing royal garments (liptā candana-sāreṇa rāja-vastrāṇi bibhratī), she was manifoldly decked out with diverse ornaments of every sort (vividhaṃ vividhais tais tair bhūṣaṇaiś ca vibhūṣitā).
 </details>
 </details>
 
@@ -350,6 +386,12 @@ _________________
 Studded with bright-coloured girdle-bands and many other excellent ornaments,
 Manthara appeared like a female-monkey tied with ropes!
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bound about with many bright girdle-cords and other fine ornaments (mekhalā-dāmabhiś citrair anyaiś ca śubha-bhūṣaṇaiḥ), she looked like a she-monkey tied up with ropes (babhāse bahubhir baddhā rajju-baddheva vānarī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -396,6 +438,12 @@ the door-keepers; *gR^ihiitvaa* = caught her; *nyavedayan* = and delivered her;
 
 Beholding that hump-backed Manthara, the very much sinful and insensitive woman, the
 door-keepers caught her and delivered her to Shatrughna (with the following words:)
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that pitiless hunchback, the perpetrator of terrible sin (tāṃ samīkṣya tadā dvāḥsthāḥ subhṛśaṃ pāpa-kāriṇīm), the doorkeepers seized her and delivered her to Śatrughna (gṛhītvā 'karuṇāṃ kubjāṃ śatrughnāya nyavedayan):
 </details>
 </details>
 
@@ -444,6 +492,12 @@ you please; *tasyaaH* = with her.
 "Here is that sinful and cruel woman, by whose act Rama is in the forest and your
 father has laid down his body. Do with her, as you consider fitting."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This wicked and cruel wretch is the very one on whose account Rāma is in the forest and your father has laid down his body (yasyāḥ kṛte vane rāmo nyasta-dehaś ca vaḥ pitā); deal with her as you see fit (seyaṃ pāpā nṛśaṃsā ca tasyāḥ kuru yathāmati)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -489,6 +543,12 @@ words; *shatrughnaH* = Shatrughna; *bhR^isha duHkhitaH* = who was very much in g
 
 Hearing those words, Shatrughna who was very much in grief and was firmly resolute,
 spoke to all those inmates of that gynaecium, as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech, Śatrughna, deeply anguished and firm in his resolve (śatrughnaś ca tad ājñāya vacanaṃ bhṛśa-duḥkhitaḥ dhṛta-vrataḥ), spoke thus to all the attendants of the inner apartments (antaḥpura-carān sarvān ity uvāca):
 </details>
 </details>
 
@@ -540,6 +600,12 @@ _________________
 "Let this woman, who created serious misfortune to my brothers and my father,
 receive the fruit of her cruel act."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let this wretch, by whom fierce sorrow was brought upon my brothers and my father (tīvram utpāditaṃ duḥkhaṃ bhrātṝṇāṃ me tathā pituḥ yayā), now reap the fruit of her ruthless deed (seyaṃ nṛśaṃsasya karmaṇaḥ phalam aśnutām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -589,6 +655,12 @@ resound (with her shrieks).
 
 Speaking thus in the midst of her companions, he seized that hunch-backed woman with
 his powerful hand soon and she in turn made that mansion resound with her shrieks.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When he had spoken thus, that hunchback, surrounded by her female companions, was swiftly and forcibly seized by him (evam uktvā tu tenāśu sakhī-jana-samāvṛtā gṛhītā balavat kubjā), and she made that palace resound with her shrieks (sā tad gṛham anādayat).
 </details>
 </details>
 
@@ -640,6 +712,12 @@ directions.
 Then, her companion, having conceived Shatrughna's anger and extremely agonised as
 they were, ran away helter-shelter in all directions.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, seeing Śatrughna enraged (kruddham ājñāya śatrughnam), all her female companions, deeply distressed (tataḥ subhṛśa-santaptas tasyāḥ sarvaḥ sakhī-janaḥ), fled away in every direction (vipalāyata sarvaśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -685,6 +763,12 @@ companions; *amantrayata* = surnised (as follows); *yathaa* = the way how;
 
 All the company of women there surmised as follows : "The way how he is coming up,
 he will surely slay us all"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And all her companions took counsel together in their entirety (āmantrayata kṛtsnaś ca tasyāḥ sarvaḥ sakhī-janaḥ): “Given the way this prince has begun, he will utterly annihilate us (yathā 'yaṃ samupakrānto niḥśeṣāṃ naḥ kariṣyati)!
 </details>
 </details>
 
@@ -733,6 +817,12 @@ Kausalya; *saanukroshaam* = the compassionate; *vadaanyaam ca* = and the magnani
 "We shall take reguge with the compassionate, magnanimous, virtuous and illustrious
 Kausalya. Let her be the sure asylum for us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let us go for refuge to Kausalyā, who is compassionate, kindly-spoken, knower of dharma, and illustrious (sānukrośāṃ vadānyāṃ ca dharma-jñāṃ ca yaśasvinīṃ kausalyāṃ śaraṇaṃ yāma); let her be our sure refuge (sā hi no 'stu dhruvā gatiḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -778,6 +868,12 @@ violently dragged; *kroshantiim* = the crying; *kubjaam* = hum-back;
 
 That Shatrughna, the tormentor of enemies, with his raging red eyes then violently
 dragged the crying hump-back along the floor.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Śatrughna, the tormentor of foes, his eyes coppery-red with rage (sa ca roṣeṇa tāmrākṣaḥ śatrughnaḥ śatru-tāpanaḥ), dragged the shrieking hunchback along the ground (vicakarṣa tadā kubjāṃ krośantīṃ dharaṇī-tale).
 </details>
 </details>
 
@@ -829,6 +925,12 @@ _________________
 While that Manthara was violently dragged, here various colourful ornaments were
 scattered asunder here and there on the floor.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Mantharā was being dragged hither and thither (tasyā hy ākṛṣyamāṇāyā mantharāyās tatas tataḥ), her bright and manifold ornaments were scattered all over the ground (citraṃ bahu-vidhaṃ bhāṇḍaṃ pṛthivyāṃ tad vyaśīryata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -872,6 +974,12 @@ stars).
 
 Thus, that splendid royal mansion scattered by those ornaments, appeared very much
 like an autumnal sky studded with innumerable stars.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Strewn with those ornaments (tena bhāṇḍena saṃstīrṇam), the splendid royal palace shone all the more, like the autumn sky strewn with stars (śrīmad-rāja-niveśanam aśobhata tadā bhūyaḥ śāradaṃ gaganaṃ yathā).
 </details>
 </details>
 
@@ -921,6 +1029,12 @@ man; *gR^ihiitvaa* = seizing; *balavat* = violently; *krodhaat* = with rage;
 Shatrughna, the strong and the eminent man, thus violently seizing her with rage,
 sharply rebuked Kaikeyi and spoke harsh words to her.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seizing the hunchback violently in his wrath (sa balī balavat krodhād gṛhītvā), that mighty bull among men sternly rebuked Kaikeyī and spoke harsh words to her (puruṣarṣabhaḥ kaikeyīm abhinirbhartsya babhāṣe paruṣaṃ vacaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -967,6 +1081,12 @@ son.
 
 Agonised very much by those harsh and painful words, Kiakeyi overwhelmed as she was
 with the fear of Shatrughna, took refuge with Bharata.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deeply distressed by those harsh and painful words (tair vākyaiḥ paruṣair duḥkhaiḥ kaikeyī bhṛśa-duḥkhitā), and terrified by fear of Śatrughna, Kaikeyī came to her son for refuge (śatrughna-bhaya-santrastā putraṃ śaraṇam āgatā).
 </details>
 </details>
 
@@ -1015,6 +1135,12 @@ beings; *pramadaaH* = women; *avadhyaaH* = are not to be killed; *kSamyataam*
 Seeing that enraged Shatrughna, Bharata said: "Among all beings women are not to be
 killed. Hence she is to be pardoned."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Śatrughna enraged, Bharata spoke to him thus (taṃ prekṣya bharataḥ kruddhaṃ śatrughnam idam abravīt): “Women must never be slain by any creature; therefore forgive and forbear (avadhyāḥ sarva-bhūtānāṃ pramadāḥ kṣamyatām iti)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1062,6 +1188,12 @@ have killed; *imam kaikeyiim* = this Kaikeyi; *duSTachaariNiim* = the evil-doing
 "If the pious Rama were not to express his displeasure with me for killing the
 mother, I would have killed this Kaikeyi, the ill-mannered and sinful woman."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I myself would slay this wicked Kaikeyī of evil conduct (hanyām aham imāṃ pāpāṃ kaikeyīṃ duṣṭa-cāriṇīm), if righteous Rāma would not abhor me as a matricide (yadi māṃ dhārmiko rāmo nāsūyen mātṛ-ghātakam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1108,6 +1240,12 @@ hunch-backed woman; *hataam* = has been killed; *dhruvam* = it is sure;
 
 "If the virtuous Rama hears that the hunch-backed woman has been killed, it is sure
 that he will cease to talk to you or even to me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if Rāghava learns that this hunchback has been slain (imām api hatāṃ kubjāṃ yadi jānāti rāghavaḥ), that righteous-souled prince will surely never speak to either you or me (tvāṃ ca māṃ ca hi dharmātmā nābhibhāṣiṣyate dhruvam)!”
 </details>
 </details>
 
@@ -1159,6 +1297,12 @@ younger brother of Lakshman; *tataH* = then; *nyavartaH* = renouncing;
 Hearing the words of Bharata, Shatrughna the younger brother of Lakshmana renouncing
 his guilty design forthwith released that Manthara.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Bharata, Śatrughna, the younger brother of Lakṣmaṇa (bharatasya vacaḥ śrutvā śatrughno lakṣmaṇānujaḥ), desisted from his wrath and released that Mantharā (nyavartata tato roṣāt tāṃ mumoca ca mantharām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1206,6 +1350,12 @@ weeping kR^ipaNam = piteously.
 **अनुवादः**
 
 Manthara fell at the feet of Kaikeyi, breathless, weeping piteously.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That Mantharā fell down at Kaikeyī’s feet (sā pāda-mūle kaikeyyā mantharā nipapāta ha); sighing heavily and sorely afflicted with grief, she wept piteously (niḥśvasantī suduḥkhārtā kṛpaṇaṃ vilalāpa ca).
 </details>
 </details>
 
@@ -1272,6 +1422,12 @@ Bharata's mother slowly consoled her.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तॆण्टनॆय सर्ग पूर्णवायितु.॥78॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the hunchback with her senses stupefied by Śatrughna’s violent hurling (śatrughna-vikṣepa-vimūḍha-saṃjñāṃ samīkṣya kubjām), distressed in form and looking like a female krauñca bird caught in a snare (ārta-rūpāṃ krauñcīṃ vilagnām iva vīkṣamāṇām), Bharata’s mother gently consoled her (bharatasya mātā śanaiḥ samāśvāsayat).
 </details>
 </details>
 

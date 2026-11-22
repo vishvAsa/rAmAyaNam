@@ -35,6 +35,12 @@ title = "००१ अगस्त्यादि-मेलनम्"
 
 राक्षसरन्नु संहरिसि भगवान् श्रीरामनु तन्न राज्यवन्नु पडॆदाग समस्त ऋषि-महर्षिगळु श्रीरघुनाथनन्नु अभिनन्दिसलु अयोध्यॆगॆ आगमिसिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the slaughter of the rākṣasas had been accomplished (rākṣasānāṃ vadhe kṛte), all the sages came (ājagmur ṛṣayaḥ sarve) unto Rāma, who had regained his kingdom (prāpta-rājyasya rāmasya), in order to congratulate Rāghava (rāghavaṃ pratinanditum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -59,6 +65,12 @@ title = "००१ अगस्त्यादि-मेलनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुख्यवागि पूर्वदिक्किनल्लि वासिसुव कौशिक, यवक्रीत, गार्ग्य, गालव मत्तु मेधातिथिय पुत्र कण्व मुन्तादवरु अल्लिगॆ बन्दरु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kauśika, and likewise Yavakrīta, Gārgya, and Gālava, and Kaṇva, the son of Medhātithi (medhātitheḥ putraḥ)—all those who dwelt in the eastern quarter (pūrvasyāṃ diśi ye śritāḥ)—
 </details>
 </details>
 
@@ -87,6 +99,12 @@ title = "००१ अगस्त्यादि-मेलनम्"
 
 दक्षिण दिक्किनल्लिरुव महर्षि अगस्त्यरॊन्दिगॆ स्वत्स्यात्रेय, भगवान् नमुचि, प्रमुचि, भगवान् अत्रि, सुमुख मत्तु विमुखरु अल्लिगॆ आगमिसिदरु.॥3½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the venerable Svastyātreya (svastyātreyo ’tha bhagavān), Namuci, and Pramucis—those who dwelt in the southern quarter (ye śritā dakṣiṇāṃ diśam) came accompanied by Agastya (sahāgastyāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +132,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पश्चिम दिशॆयल्लि वासिसुव नृषङ्ग, कवष, धौम्य मत्तु महर्षि कौशेय इवरू तम्म शिष्यरॊन्दिगॆ बन्दरु.॥4½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nṛṣadgu, Kavaṣa, Dhaumya, and the great sage Raudreya—they too arrived together with their disciples (sa-śiṣyāḥ), those who dwelt in the western quarter (ye śritāḥ paścimāṃ diśam).
 </details>
 </details>
 
@@ -145,6 +169,14 @@ _________________
 हागॆये उत्तरदिक्किनल्लि नित्य वासिसुव वसिष्ठरू,* कश्यप, अत्रि, विश्वामित्र, गौतम, जमदग्नि मत्तु भरद्वाज ई सप्तर्षिगळू अयोध्यॆगॆ आगमिसिदरु.॥5-6॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Vasiṣṭha, Kaśyapa, Atri, Viśvāmitra together with Gautama, Jamadagni, and Bharadvāja—those Seven Sages (saptarṣayaḥ) also arrived, all seven of whom are eternally residents of the northern quarter (udīcyāṃ diśi ... nityam eva nivāsinaḥ).
+
+**6:** Having reached the royal palace of Rāghava (rāghavasya niveśanam), those high-souled ones, radiant as sacrificial fire (hutāśana-sama-prabhāḥ), stood waiting for the doorkeeper (viṣṭitāḥ pratihārārtham)—men learned in the Vedas and Vedāṅgas (veda-vedāṅga-viduṣaḥ) and deeply versed in manifold scriptures (nānā-śāstra-viśāradāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -172,6 +204,12 @@ _________________
 
 इवरॆल्लरू अग्नियन्तॆ तेजस्विगळू, वेद-वेदाङ्ग विद्वांसरू, अनेक शास्त्रगळल्लि प्रवीणरू आगिद्दरु. आ महात्मा मुनिगळु श्रीरामन अरमनॆगॆ बन्दु तावु बन्दिरुव सूचनॆयन्नु कॊडलु महाद्वारदल्लि निन्तरु.॥7½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the righteous Agastya, foremost among sages (munisattamaḥ), addressed the doorkeeper (dvāḥstham): “Let it be announced to Daśaratha’s son (nivedyatāṃ dāśaratheḥ) that we sages have arrived (ṛṣīn asmān samāgatān)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -196,6 +234,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग धर्मपरायण मुनिश्रेष्ठ अगस्त्यरु द्वारपालकरल्लि - नीनु होगि भगवान् श्रीरामनल्लि नावु अनेक ऋषि-मुनिगळु निन्नन्नु भेटियागलु बन्दिरुवॆवु ऎन्दु तिळिसु ऎन्दु हेळिदरु.॥8½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, at Agastya’s word (agastya-vacanāt), the doorkeeper (pratīhāraḥ), swiftly (tūrṇam) and in utmost haste (drutam), immediately (āśu) entered the presence of the high-souled Rāghava.
 </details>
 </details>
 
@@ -228,6 +272,14 @@ _________________
 
 महर्षि अगस्त्यर आज्ञॆयन्तॆ नीतिज्ञनू, परेङ्गितज्ञनू, सदाचारियू, चतुरनू, धैर्यवन्तनू आद द्वारपालकनु कूडले महात्मा श्रीरामन बळिगॆ होदनु.॥9-10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Skilled in policy and reading gestures (nayeṅgitajñaḥ), of upright conduct (sadvṛttaḥ), capable, and endowed with composure (dhairya-samanvitaḥ), he immediately beheld Rāma, radiant as the full moon (pūrṇacandra-samaprabham), and announced that Agastya had arrived together with the sages (samprāptam ṛṣibhiḥ saha).
+
+**10:** Hearing that those sages, resplendent as the rising sun (bāla-sūrya-samaprabhān), had arrived, Rāma thereupon replied to the doorkeeper (dvāsstham): “Conduct them in at their pleasure (praveśaya yathāsukham)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -256,6 +308,12 @@ _________________
 
 पूर्णचन्द्रनन्तॆ कान्तियुळ्ळ श्रीरामनन्नु दर्शिसि- ‘प्रभो! मुनिश्रेष्ठ अगस्त्यरु अनेक ऋषिगळॊन्दिगॆ आगमिसिरुवरु’ ऎन्दु तिळिसिदनु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those sages who had entered (tān samprāptān munīn dṛṣṭvā), Rāma rose to greet them (pratyutthāya) with palms joined in reverence (kṛtāñjaliḥ) and worshipped them with foot-water, guest-offerings, and the rest (pādyārghyādibhir ānarca), respectfully presenting a cow (gāṃ nivedya ca sādaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,6 +339,12 @@ _________________
 
 बाल सूर्यनन्तॆ दिव्य तेजस्वी आ मुनीश्वरर आगमनद समाचार केळि श्रीरामचन्द्रनु - नीवु होगि अवरॆल्लरन्नु इल्लिगॆ आदरपूर्वक करॆतन्नि ऎन्दु आज्ञापिसिदनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed down in self-restraint (abhivādya prayataḥ), Rāma indicated seats for them (āsanāny ādideśa ha)—upon those spacious and precious seats inlaid with gold (kāñcana-citreṣu mahatsu ca vareṣu ca)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -305,6 +369,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 (अप्पणॆ पडॆदु द्वारपालकरु ऎल्लरन्नु करॆदु तन्दरु) मुनीश्वरर उपस्थितियन्नु नोडि श्रीरामनु कैमुगिदु निन्तुकॊण्डनु. मत्तॆ अर्घ्य पाद्यादिगळिन्द अवरन्नु आदरदिन्द पूजिसिदनु. पूजॆयल्लि ऎल्लरिगू ऒन्दॊन्दु गोवन्नु अर्पिसिदनु.॥1.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—strewn beneath with layers of kuśa grass (kuśāntardhāna-datteṣu) and covered with deerskins (mṛgacarma-yuteṣu ca), upon which those foremost of sages (ṛṣi-puṅgavāḥ) took their seats according to rank (yathārham upaviṣṭāḥ).
 </details>
 </details>
 
@@ -336,6 +406,14 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीरामने शुद्धभावसे उन सबको प्रणाम करके उन्हें बैठनेके लिये आसन दिये । वे आसन सोनेके बने हुए और विचित्र आकार-प्रकारवाले थे । सुन्दर होनेके साथ ही वे विशाल और विस्तृत भी थे । उनपर कुशके आसन रखकर ऊपरसे मृगचर्म बिछाये गये थे । उन आसनोंपर वे श्रेष्ठ मुनि यथायोग्य बैठ गये ॥ १४-१५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Asked after their well-being by Rāma (rāmeṇa kuśalaṃ pṛṣṭāḥ), those great Veda-knowing sages (maharṣayo vedavidaḥ), attended by their disciples and foremost leaders (sa-śiṣyāḥ sa-purogamāḥ), spoke these words to Rāma:
+
+**15:** “All is well with us everywhere (kuśalaṃ no ... sarvatra), O mighty-armed delight of the Raghus (raghunandana), since by good fortune (diṣṭyā) we behold you safe and well (kuśalinam), with all your foes slain (hata-śātravam).
 </details>
 </details>
 
@@ -398,6 +476,14 @@ _________________
 
 महाबाहु रघुनन्दन! नमगॆ ऎल्ल कुशल मङ्गलवे आगिदॆ. नावॆल्लरु निन्नन्नु क्षेमवागि नोडुत्तिद्देवॆ हागू निन्न ऎल्ल शत्रुगळु नाशवादुदु सौभाग्यद मातागिदॆ. राजने! समस्त लोकगळन्नु अळुवन्तॆ माडिद रावणन वधॆ नीनु माडिदुदु ऎल्लरिगू हॆच्चिन सौभाग्यद मातागिदॆ.॥16-17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** “By good fortune, O King, Rāvaṇa—who made the worlds weep (rāvaṇo lokarāvaṇaḥ)—has been slain by you; indeed, O Rāma, that Rāvaṇa, though attended by sons and grandsons (putra-pautravān), was no heavy burden for you (na hi bhāraḥ sa te).
+
+**17:** “For with bow in hand (sa-dhanuḥ), you could conquer the three worlds (lokāṃs trīn vijayethāḥ)—of that there is no doubt! By good fortune, O Rāma, Rāvaṇa, lord of the rākṣasas (rākṣaseśvaraḥ), has been slain by you.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -422,6 +508,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीराम! मक्कळु मॊम्मक्कळ सहित रावणनन्नु वधिसिदुदु निनगेनु भारवागिरलिल्ल. नीनु धनुस्सु हिडिदु निन्तॆयादरॆ मूरु लोकगळ मेलॆ विजय पडॆयुवुदरल्लि संशयवे इल्ल.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By good fortune we behold you today victorious together with Sītā (vijayinaṃ tvādya paśyāmaḥ saha sītayā), and with Lakṣmaṇa, O righteous-souled one, your brother ever devoted to your welfare (bhrātrā tvad-dhita-kāriṇā).
 </details>
 </details>
 
@@ -451,6 +543,12 @@ _________________
 
 रघुनन्दन राम! नीनु राक्षसराज रावणनन्नु वधिसि, सीतॆयॊन्दिगॆ विजयी वीरनाद निन्नन्नु नोडिदुदु ऎष्टु आनन्दद मातागिदॆ.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today, O King, we behold you united with your mothers and brothers (mātṛbhir bhrātṛ-sahitam). By good fortune Prahasta, Vikaṭa, Virūpākṣa, Mahodara, and the unassailable Akampana (akampanaś ca durdharṣaḥ)—all those night-roamers have been slain by you (nihatās te niśācarāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -479,6 +577,12 @@ _________________
 
 धर्मात्मा नरेशने! निन्न तम्म लक्ष्मणनु सदा निन्न हितदल्लॆ तॊडगिरुवनु. भरत-शत्रुघ्न हागू तायियरॊन्दिगॆ इल्लि आनन्दवागि विराजिसुत्तिरुवॆ. ई रूपदल्लि नमगॆ निन्न दर्शन आगुत्तिरुवुदु नम्म अहो भाग्यवागिदॆ.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By good fortune, O Rāma, Kumbhakarṇa—than whose vast proportions no greater bulk exists upon this earth (yasya pramāṇād vipulaṃ pramāṇaṃ neha vidyate)—has been struck down by you in battle (samare ... nipātitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -503,6 +607,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रहस्त, विकट, विरूपाक्ष, महोदर, दुर्धर्ष, अकम्पन इन्तह निशाचररु निन्निन्द हतरादुदु भारी आनन्दद मातागिदॆ.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Triśiras and Atikāya, Devāntaka and Narāntaka—by good fortune, O Rāma, those night-roamers of mighty valor (mahāvīryā niśācarāḥ) have been slain by you.
 </details>
 </details>
 
@@ -529,6 +639,12 @@ _________________
 
 श्रीराम! ऎल्लरिगिन्त ऎत्तर मत्तु स्थूलकायनाद कुम्भकर्णनन्नु नीनु समराङ्गणदल्लि वधिसिदॆ. इदु नमगॆ परम सौभाग्यद मातागिदॆ.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Kumbha and Nikumbha as well, those two rākṣasas of terrifying aspect (rākṣasau bhīma-darśanau)—by good fortune, O Rāma, those two sons of Kumbhakarṇa (kumbhakarṇa-sutau) have been slain in combat (mṛdhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -553,6 +669,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीराम! त्रिशिरा, अतिकाय, देवान्तक, नरान्तक ई महा पराक्रमि निशाचररु निन्न कैयिन्द हतरादुदु नम्म सौभाग्यवागिदॆ.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yuddhonmatta and Matta, resembling Time the Destroyer and Yama (kālāntaka-yamopamau), and the mighty Yajñakopa, and the rākṣasa named Dhūmrākṣa—
 </details>
 </details>
 
@@ -579,6 +701,12 @@ _________________
 
 रघुवीरने! नोडलु महाभयङ्करराद कुम्भकर्णन मक्कळाद कुम्भ मत्तु निकुम्भरॆम्ब राक्षसरू युद्धदल्लि कॊल्लल्पट्टरु.॥24॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All these masters of weapons and celestial missiles (śastrāstra-pāragāḥ), who wrought terrible carnage (kurvantaḥ kadanaṃ ghoram), have by good fortune been utterly destroyed by you with shafts like Death himself (antaka-pratimair bāṇaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -603,6 +731,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रळयकालद संहारकारी यमनन्तॆ भयानक युद्धोन्मत्त मत्तु मत्त इवरू कालवशरादरु. बलिष्ठ यज्ञकोप मत्तु धूम्राक्ष ऎम्ब राक्षसरु यमलोकद अतिथियादरु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By good fortune you met that lord of rākṣasas (rākṣasendreṇa)—invulnerable even to the gods (devatānām avadhyena)—in single combat (dvandva-yuddham upāgataḥ) and attained victory (vijayaṃ prāptavān asi).
 </details>
 </details>
 
@@ -629,6 +763,12 @@ _________________
 
 इवरॆल्ल निशाचररु अस्त्र-शस्त्रगळ पारङ्गतरागिद्दरु. इवरु जगत्तिनल्लि भयङ्कर संहार सारिद्दरु; आदरॆ नीनु अन्तकदन्तह बाणगळिन्द ऎल्लरन्नू मृत्यु मुखवागिसिदुदु तुम्बा हर्षद मातागिदॆ.॥26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet the defeat of that Rāvaṇa in battle is as nothing (saṅkhye tasya na kiñcit tu rāvaṇasya parābhavaḥ); rather, by good fortune was Rāvaṇi [Indrajit], who came forth to single combat (dvandva-yuddham anuprāptaḥ), slain by you (diṣṭyā te rāvaṇir hataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -653,6 +793,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसराजा रावणनु देवतॆगळिगू अवध्यनागिद्दनु. अवनॊन्दिगॆ युद्धमाडि विजयपडॆदुदु दॊड्ड सौभाग्यद मातागिदॆ.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By good fortune, O mighty-armed hero, were you delivered (muktaḥ) from that foe of the gods (suraripoḥ) charging forward like Death himself (kālasyevābhidhāvataḥ), and victory was won by you (prāptaś ca vijayas tvayā).
 </details>
 </details>
 
@@ -679,6 +825,12 @@ _________________
 
 युद्धदल्लि निन्निन्द रावणन पराभव (संहार)वादुदु दॊड्ड मातल्ल; आदरॆ द्वन्द्वयुद्धदल्लि लक्ष्मणनिन्द रावणिय वधॆयादुदु दॊड्ड आश्चर्यद मातागिदॆ.॥28॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We all congratulate you (abhinandāma te sarve) upon hearing of the slaying of Indrajit (saṃśrutyendrajito vadham)! Invulnerable to all beings (avadhyaḥ sarva-bhūtānām) and wielder of supreme illusions in battle (mahāmāyādharo yudhi), he fills us with this sheer astonishment (vismayas tv eṣa cāsmākam) when we hear that Indrajit has been slain!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -703,6 +855,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबाहु वीरने! कालनन्तॆ आक्रमण माडुव आ देवद्रोहि राक्षसन नागपाशदिन्द मुक्तवागि नीनु विजयपडॆदुदु महा सौभाग्यद मातागिदॆ.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“These and many other shape-shifting rākṣasa heroes (rākṣasāḥ kāma-rūpiṇaḥ) have by good fortune been slain by you, O increaser of the race of the Raghus (raghūṇāṃ kulavarddhana)!
 </details>
 </details>
 
@@ -731,6 +889,12 @@ _________________
 
 इन्द्रजितुविन वधॆय समाचार केळि नावॆल्लरू बहळ सन्तोषगॊण्डिद्देवॆ. इदक्कागि निन्नन्नु अभिनन्दिसुत्तेवॆ. आ महामायावी राक्षसनु युद्धदल्लि ऎल्ल प्राणिगळिगॆ अवध्यनागिद्दनु. अन्तह इन्द्रजितनू हतनादुदन्नु केळि नमगॆ हॆच्चिन आश्चर्यवागिदॆ.॥30½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having bestowed this pure and benign sacrificial fee of fearlessness (puṇyām imāṃ ... saumyām abhaya-dakṣiṇām), O hero, crusher of foes (amitra-karśana), by good fortune you flourish through victory (diṣṭyā vardhasi ... jayena), O scion of Kakutstha!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -756,6 +920,12 @@ _________________
 
 रघुकुलवर्धन राम! इन्नू अनेक कामरूपिगळाद राक्षसवीररु निन्निन्द वधिसल्पट्टरु; इदु बहळ आनन्दद मातागिदॆ.॥31½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of the self-perfected sages (ṛṣīṇāṃ bhāvitātmanām), Rāma was filled with supreme astonishment (vismayaṃ paramaṃ gatvā) and spoke with joined palms (prāñjalir abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -780,6 +950,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 काकुत्स्थकुलभूषण वीरने! शत्रुदमन श्रीराम! जगत्तिगॆ ई परम पुण्यमय अभयदानवन्नु नीनु कॊट्टु, विजयदिन्दागि अभिनन्दनॆगॆ पात्रनागिरुवॆ. निन्न कीर्तियु निरन्तर वर्धिसुत्तिदॆ; इदु ऎष्टु हर्षद मातागिदॆ.॥32½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O revered ones (bhagavantaḥ), passing over Kumbhakarṇa and the night-roamer Rāvaṇa, both of mighty valor (atikramya mahāvīryau), why do you exalt Rāvaṇi (kiṃ praśaṃsatha rāvaṇim)?
 </details>
 </details>
 
@@ -809,6 +985,12 @@ _________________
 
 आ पवित्रात्मा मुनिगळ मातन्नु केळि श्रीरामनिगॆ भारी आश्चर्यवागि, कैमुगिदुकॊण्डु केळतॊडगिदनु.॥33½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Passing over Mahodara, Prahasta, and the rākṣasa Virūpākṣa, as well as the unassailable Matta and Unmatta, Devāntaka and Narāntaka—all warriors of mighty valor (atikramya mahāvīryān)—why do you exalt Rāvaṇi?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -833,6 +1015,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूज्य महर्षिगळे! निशाचर रावण मत्तु कुम्भकर्ण इब्बरू महापराक्रम सम्पन्नरागिद्दरु. अवरिब्बरन्नु बिट्टु नीवु रावणपुत्र इन्द्रजितुवन्ने एकॆ प्रशंसिसुत्तिद्दीरि.॥34½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Passing over Atikāya, Triśiras, and the night-roamer Dhūmrākṣa—warriors of mighty valor—why do you exalt Rāvaṇi?
 </details>
 </details>
 
@@ -861,6 +1049,14 @@ _________________
 
 महोदर, प्रहस्त, विरूपाक्ष मत्त, उन्मत्त, दुर्धर्षवीर नरान्तक-वेदान्तक ई महा वीररन्नु बिट्टु नीवु रावणियन्नु एकॆ प्रशंसिसुत्तिद्दीर.॥35-36॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**35:** “Of what sort indeed was his majesty (kīdṛśo vai prabhāvo ’sya), what his strength (kiṃ balam), and what his prowess (kaḥ parākramaḥ)? Or for what reason does he surpass Rāvaṇa himself (kena vā kāraṇenaiṣa rāvaṇād atiricyate)?
+
+**36:** “If it is fitting for me to hear (śakyaṃ yadi mayā śrotum)—by no means do I command you (na khalv ājñāpayāmi vaḥ)—and if it be no secret unfit to speak (yadi guhyaṃ na ced vaktum), I desire to hear it: pray tell me (śrotum icchāmi kathyatām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -886,6 +1082,12 @@ _________________
 
 अतिकाय, त्रिशिरा, निशाचर, धूम्राक्ष ई महा पराक्रमिगळनन्नु बिट्टु इन्द्रजितुवन्नु एकॆ प्रशंसिसुत्तिद्दीरि.॥37॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How was even Śakra vanquished by him (śakro ’pi vijitas tena), and how did he obtain his boons (kathaṃ labdha-varaś ca saḥ)? And how was the son so mighty, rather than his father Rāvaṇa (kathaṃ ca balavān putro na pitā tasya rāvaṇaḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -910,6 +1112,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन प्रभाव अन्तहदेनित्तु? अवनल्लि याव बल-पराक्रमवित्तु? याव कारणदिन्द रावणनन्नु मीरिसिद्दनु.॥38॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How was he superior to his father in great battle (pituś cābhyadhiko mahāhave), how indeed did that rākṣasa become the conqueror of Śakra (śakrasya jetā), and how were his boons obtained (varāś ca labdhāḥ)? Relate all of this to me today, O lord of sages (munīndra), as I ask you here (pṛcchataś cāsya)!”
 </details>
 </details>
 

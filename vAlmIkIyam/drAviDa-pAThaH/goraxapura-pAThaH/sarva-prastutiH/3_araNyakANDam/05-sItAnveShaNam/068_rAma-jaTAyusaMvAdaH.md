@@ -70,6 +70,12 @@ sampannam saumitrim* = friendly, asset - who has the assets of companionability,
 Rama on seeing that eagle felled to ground by the atrocious Ravana, said this sentence to Soumitri who
 is an asset for good companionability. [3-68-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that vulture felled to the ground (bhuvi pātitam) by the fierce [Rāvaṇa] (raudreṇa), Rāma spoke this word (idaṃ vacanam abravīt) to the son of Sumitrā, who was rich in friendly devotion (mitra-sampannam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +121,12 @@ to cast off - lives]; *praaNaan tyajati* = lives, leaves; *nuunam* = definitely.
 
 "While this bird is venturing in my concern the demon felled him in combat and he is leaving off his
 lives owing to me, definitely... [3-68-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Striving in my cause (mamārtheṣu yatamānaḥ), this bird (ayaṃ vihaṃgamaḥ), struck down in battle (hataḥ saṃkhye) by the Rākṣasa, is surely giving up his life-breaths (prāṇāṃs tyajati) for my sake (mat-kṛte).
 </details>
 </details>
 
@@ -163,6 +175,12 @@ is being seen by us - he appears.
 "Obviously, lives in his body are very feeble, oh, Lakshmana, it is natural, isn't it, and he looks
 highly anguished with a dulled voice..." Thus on saying to Lakshmana, Rama then spoke to Jataayu. [3-68-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In this body, O Lakṣmaṇa, his life-breath abides utterly exhausted (atikhinnaḥ prāṇo vidyate); therefore, bereft of voice (svara-vihīnaḥ), he gazes about distressfully (viklavaṃ samudīkṣate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,6 +227,12 @@ relate, too.
 "Oh, Jataayu, if you are in fine fettle to further reiterate words, relate about Seetha, let safe betide
 you, and recount how you are murdered, too... [3-68-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O Jaṭāyus, if you are able to utter speech again (vākyaṃ vyāharituṃ punaḥ)—may auspiciousness attend you (bhadraṃ te)!—tell [me] of Sītā (sītām ākhyāhi) and tell of your own slaying (vadham ākhyāhi cātmanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -254,6 +278,12 @@ what, wrong is committed; *yam dR^iSTvaa* = which, keeping in view; *priyaa raav
 
 "What is the reason for Ravana in stealing that noblewoman, and even what is the wrong I have committed
 in his respect, keeping which in view that Ravana stole my ladylove... [3-68-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prompted by what motive (kiṃ-nimittaḥ) did Rāvaṇa carry off the noble lady (jahārāryām)? What [offense] have I committed against him (tasya kiṃ mayā), seeing which offense (aparādhaṃ tu yaṃ dṛṣṭvā) my beloved was abducted by Rāvaṇa (rāvaṇena hṛtā priyā)?
 </details>
 </details>
 
@@ -304,6 +334,12 @@ mukham* = that, face - of Seetha; *katham aasiit* = how, it was - when abducted;
 "How was that moon similar heart-stealing face of hers at that time of abduction, oh, best bird, and
 even what are the words she uttered when being abducted... [3-68-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How was that charming face of hers (tat mukhaṃ manoharam), which resembles the moon (candra-saṃkāśam), and what words were spoken by Sītā (sītayā kāni coktāni) at that time (tasmin kāle), O best of birds (dvijottama)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +386,12 @@ kva ca* = his, residence [stronghold,] where is it, also; *taata* = oh, sire; *p
 "What is his stamina of that demon? What is his form? And what are his strategies? And where is his
 stronghold? Oh, sire, tell me while I ask you inquisitively..." Rama urged Jataayu thus for information.
 [3-68-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of what prowess (kathaṃ-vīryaḥ), of what form (kathaṃ-rūpaḥ), and of what deeds (kiṃ-karmā) is that Rākṣasa? And where is his dwelling (kva cāsya bhavanam), dear father (tāta)? Tell me as I question you (brūhi me paripṛcchataḥ)!”
 </details>
 </details>
 
@@ -399,6 +441,12 @@ to Rama, this, sentence, said.
 
 Then that warm-hearted Jataayu with his eyes rolling upwards saw Rama and with a fluttery voice said
 this sentence to Rama who is wailing like an orphan. [3-68-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Looking up at Rāma (tam udvīkṣya rāmam), who was lamenting like one helpless (vilapantam anāthavat), that righteous-souled one (sa dharmātmā) spoke this word in a faltering voice (vācā viklavayā):
 </details>
 </details>
 
@@ -451,6 +499,12 @@ the flagitious chief of demons Ravana abducted Seetha... [3-68-9]
 Annex: 'he created such illusion only to render me unsteady in my flight combat... and for his escape
 in the dark of the day...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“She was abducted by the wicked-souled Rāvaṇa, lord of the Rākṣasas (rākṣasendreṇa rāvaṇena durātmanā), who resorted to a vast illusion (māyām āsthāya vipulām) thick with wind and storm-clouds (vāta-durdina-saṃkulām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -499,6 +553,12 @@ pra yaataH* = went away.
 
 "That night walker hacked both my wings when I was overtired, and went southward taking the princess
 of Videha, Seetha, along with him... [3-68-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having severed both wings (pakṣau chittvā) of me who was exhausted (pariklāntasya me), dear son (tāta), the night-stalker (niśācaraḥ) took Vaidehī Sītā and departed facing south (prayāto dakṣiṇā-mukhaḥ).
 </details>
 </details>
 
@@ -551,6 +611,12 @@ grass as their treetops... [3-68-11]
 The cuscus grass is the aromatic fibrous root of an Indian grass, Vetiveria zizanaoides, used for making
 fans, screens, etc., Urdu kaskas. This odd combination of trees of gold, instead of wood, and grass
 instead of leaves, is an omen of death.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+My life-breaths are being choked (uparudhyanti me prāṇāḥ), and my sight whirls (dṛṣṭir bhramati), O Rāghava; I see golden trees (paśyāmi vṛkṣān sauvarṇān) with crests made of uśīra fibres (uśīra-kṛta-mūrdhajān).
 </details>
 </details>
 
@@ -645,6 +711,14 @@ an astrological treatise called *raavaNa samhita*, did not care about it.
 "On stealing your ladylove Janaki, that chief of demons, Ravana, will ruin himself, as with a fish which
 swallows a baited fishhook... [3-68-13b, c]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** By virtue of the astrological hour (yena muhūrtena) in which Rāvaṇa departs taking Sītā, the rightful owner (tat-svāmī) swiftly recovers (kṣipraṃ pratipadyate) his lost treasure (vipraṇaṣṭaṃ dhanam).
+
+**13:** “That astrological hour is named Vinda (vindo nāma muhūrto 'sau), O Kākutstha, and he did not know it (na ca so 'budhat); having abducted your beloved Jānakī (tvat-priyāṃ jānakīṃ hṛtvā), Rāvaṇa, lord of the Rākṣasas (rākṣaseśvaraḥ), having swallowed the fish-hook like a fish (jhaṣavad baḍiśaṃ gṛhya), will swiftly perish (kṣipram eva vinaśyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -685,6 +759,12 @@ of; *tam kSipram* = hatvaa = him [Ravana,] in no time, on killing; *vaidehyaa ra
 "Impractical is your anguishing for the daughter of Janaka, as you will delight yourself with Vaidehi
 in no time, on killing that Ravana in the vanguard of a war..." Thus saying Jataayu paused for a while.
 [3-68-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nor should you feel anxiety (na ca tvayā vyathā kāryā) concerning the daughter of Janaka (janakasya sutāṃ prati); having slain him in the van of battle (hatvā taṃ raṇa-mūrdhani), you shall swiftly rejoice with Vaidehī (vaidehyā raṃsyase kṣipram)!”
 </details>
 </details>
 
@@ -731,6 +811,12 @@ in no time, on killing that Ravana in the vanguard of a war..." Thus saying Jata
 
 Though Jataayu is speaking on to Rama with an alert mind, blood freely flowed from his mouth with shreds
 of flesh as death verged on him, even then he struggled to say. [3-68-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From the mouth (āsyāt) of the dying vulture (gṛdhrasya mriyamāṇasya), who remained unclouded in mind (asammūḍhasya) as he replied to Rāma (rāmaṃ pratyanubhāṣataḥ), blood mixed with flesh (rudhiraṃ sāmiṣam) gushed forth (susrāva).
 </details>
 </details>
 
@@ -793,6 +879,12 @@ stipulate as to how much Rama has to listen or how much Jataayu has to report. *
 raajendra yaavat sambhaaShaNam mama | bhavataH taavat aasan me praaNaa iti aaha jaanakii ||* Maheshvara
 Tiirtha. So, the bird called life flew away for bird Jataayu...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“[He is] the own son of Viśravas (putro viśravasaḥ sākṣāt) and the brother of Vaiśravaṇa [Kubera] (bhrātā vaiśravaṇasya ca)”—having spoken thus (ity uktvā), the lord of birds (patageśvaraḥ) gave up his precious life-breaths (durlabhān prāṇān mumoca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -839,6 +931,12 @@ thin air; *jagmuH* = went away.
 
 But the lives of Jataayu departing from his body went into thin air before the very eyes of Rama who
 is still speaking to him with folded-palms, "tell... tell more..." [3-68-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as Rāma, with joined palms (kṛtāñjaleḥ), was crying, “Speak! Speak!” (brūhi brūhīti bruvāṇasya), the vulture's life-breaths left his body (tyaktvā śarīram) and ascended into the sky (jagmur vihāyasam).
 </details>
 </details>
 
@@ -889,6 +987,12 @@ papaata* = collapsed.
 Jataayu flopped his head on earth, sprawled his feet on ground, and then his body collapsed onto the
 surface of earth writhing jerkily. [3-68-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dropping his head upon the ground (nikṣipya śiro bhūmau), stretching out his two legs (prasārya caraṇau tathā), and convulsing his own body (vikṣipya ca śarīraṃ svam), he collapsed on the surface of the earth (papāta dharaṇī-tale).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -936,6 +1040,12 @@ prekSya* = him, eagle, on seeing; *saumitrim [idam ]abraviit* = to Soumitri, [th
 He who is worsened by very many mishaps that Rama, on seeing the mountainous eagle whose eyes are bloodshot
 and whose lives have gone, said this way to Soumitri... [3-68-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that red-eyed vulture (taṃ gṛdhraṃ tāmrākṣam) lifeless (gatāsum) and resembling a mountain (acalopamam), Rāma, afflicted by manifold sorrows (subahubhir duḥkhair dīnaḥ), spoke to the son of Sumitrā (saumitrim abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -981,6 +1091,12 @@ sukham bahuuni varSaaNi vasataa* = happily [fearlessly,] many, for years togethe
 
 "This bird which for years together lived fearlessly in Dandaka forest, a habitat of demons, that bird
 wilted to death, because of me... [3-68-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Dwelling happily for many years (bahūni varṣāṇi vasatā sukham) in the abode of the Rākṣasas (rakṣasāṃ vāse), this bird has perished here (viśīrṇam iha pakṣiṇā) in the Daṇḍaka forest (daṇḍakāraṇye).
 </details>
 </details>
 
@@ -1030,6 +1146,12 @@ wilted to death, because of me... [3-68-20]
 and prostrating before the Time, because of me... alas... it is indeed impossible to infringe the Time...
 [3-68-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He who had lived for countless years (aneka-vārṣikaḥ) and had flourished for a long time (cira-kāla-samutthitaḥ) now lies slain today (adya hataḥ śete); for Time is indeed impossible to transgress (kālo hi duratikramaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1076,6 +1198,12 @@ brute-forced, by Ravana, is slain; *pashya* = you see.
 "Lakshmana, this eagle which has dashed to rescue Seetha in order to render help to me is slain by that
 brute-forced Ravana, only because of me, you see... [3-68-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+See, O Lakṣmaṇa, how this vulture, my benefactor (upakārī me), who hastened to rescue Sītā (sītām abhyavapannaḥ), has been slain (hataś ca) by the mighty Rāvaṇa (rāvaṇena balīyasā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1120,6 +1248,12 @@ hetoH* = for my, sake - on my account; *praaNaan mumoca* = lives, released [aban
 
 "On abandoning great empire of eagles belonging to his father and forefathers this lord of bird has
 now abandoned his lives too, only for my sake... [3-68-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having renounced his vast ancestral kingdom of the vultures (gṛdhra-rājyaṃ pitṛ-paitāmahaṃ mahat), this lord of birds (patageśvaraḥ) gave up his life-breaths (prāṇān mumoca) for my sake (mama hetoḥ).
 </details>
 </details>
 
@@ -1167,6 +1301,12 @@ gone in, even in; *dR^ishyante khalu* = are noticeable, really.
 "Universally noticeable are the protective, prepotent, principled ones that are the followers of probity,
 oh, Soumitri, even though their births are avian or bestial... [3-68-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Everywhere indeed (sarvatra khalu), O Saumitri, righteous men who practice dharma (sādhavo dharma-cāriṇaḥ), heroes who afford shelter (śūrāḥ śaraṇyāḥ), are seen—even among creatures born in animal wombs (tiryag-yoni-gateṣv api)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1207,6 +1347,12 @@ thus, obtained [or, tathaa vidham = that, kind of - that much]; *na* = it is not
 
 "To me, oh, enemy-inflamer, oh, gentle Lakshmana, anguish caused by Seetha's abduction is not that much,
 when compared with the anguish caused by the perish of this eagle, that too, because of me... [3-68-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The sorrow born of Sītā's abduction (sītā-haraṇa-jaṃ duḥkham), O gentle one (saumya), does not cut me to the quick so deeply (na me tathāgatam) as does the destruction of the vulture (yathā vināśo gṛdhrasya) for my sake (mat-kṛte), O scorcher of foes (paraṃtapa)!
 </details>
 </details>
 
@@ -1253,6 +1399,12 @@ venerable; *maanyaH ca* = honourable, also; *tathaa* = likewise; *ayam patageshv
 
 "As to how the celebrated and highly renowned king Dasharatha is venerable and honourable for me, likewise
 this lord of birds is also a venerable and honourable one to me... [3-68-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as the glorious and illustrious King Daśaratha (rājā daśarathaḥ śrīmān mahā-yaśāḥ) is worthy of my worship and reverence (mama pūjanīyaś ca mānyaś ca), even so is this lord of birds (tathāyaṃ patageśvaraḥ).
 </details>
 </details>
 
@@ -1304,6 +1456,12 @@ pointed end to the other, and this pointed end is rubbed in churning mode in the
 stick, and then both the dry wood-sticks give out a small fire, which then is taken on cotton, to lit
 a huge pyre.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O Saumitri, bring logs of wood (hara kāṣṭhāni); I shall churn forth fire (nirmathiṣyāmi pāvakam) and cremate (didhakṣyāmi) the king of vultures, who met his death for my sake (mat-kṛte nidhanaṃ gatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1351,6 +1509,12 @@ demon, killed; *imam* = this one; *pataga lokasya naatham* = birds, of realm, lo
 
 "Oh, Soumitri, I will mount this lord of realm of birds onto the pyre and cremate him who is killed
 by a feral demon..." Thus saying to Lakshmana, Rama said this to dead eagle Jataayu. [3-68-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I shall place the lord of the bird-world (nāthaṃ pataga-lokasya) upon the funeral pyre (citim āropayāmy aham) and cremate him (imaṃ dhakṣyāmi), O Saumitri, who was slain by the fierce Rākṣasa (hataṃ raudreṇa rakṣasā).
 </details>
 </details>
 
@@ -1484,6 +1648,14 @@ aatmaj~nam hi arcayet bhuuti kaamaH - bhaaShyam - ukta lakShaNam sarvaatmanam aa
 | tasya sarva aatmatvaat eva sarvaa avaapti lakShaNam phalam aaha - - - aatmaj~nam aatmaj~natena vishuddha
 antaHkaraNam hi arcet puujayet - ataH puujaarha eva asau |*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** Whatever supreme state (yā gatiḥ) belongs to those devoted to sacrifices (yajña-śīlānām), whatever state belongs to one who maintains the sacred fires (āhitāgneś ca), whatever belongs to those who never turn back [in battle or asceticism] (aparāvartinām), and whatever belongs to givers of land (bhūmi-pradāyinām)—
+
+**30:** “Granted leave by me (mayā tvaṃ samanujñātaḥ), depart to the unsurpassed worlds (gaccha lokān anuttamān), O king of vultures of great fortitude (gṛdhra-rāja mahā-sattva), and, consecrated by me with funeral rites (saṃskṛtaś ca mayā), go forth (vraja)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1530,6 +1702,12 @@ antaHkaraNam hi arcet puujayet - ataH puujaarha eva asau |*
 On saying that way, that ethical-souled Rama mounted that lord of birds onto the pyre and he sorrowfully
 incinerated that eagle in a flaring fire of pyre, as he would do in respect of his own deceased relative.
 [3-68-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus and placed the lord of birds (patageśvaram) upon the blazing funeral pyre (citāṃ dīptām āropya), the righteous-souled Rāma, afflicted with sorrow (duḥkhitaḥ), cremated him like his own kinsman (dadāha sva-bandhum iva).
 </details>
 </details>
 
@@ -1606,6 +1784,14 @@ On drawing up the flesh of that Rohi animal and lumping it to gobbets, that high
 those gobbets on pleasant greenish pasturelands as obsequial offerings in respect of that bird Jataayu.
 [3-68-33]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** Then the valiant Rāma, having gone into the forest with the son of Sumitrā (saha-saumitrir vanaṃ gatvā) and slain stout mahārohi deer (sthūlān hatvā mahā-rohīn), spread [sacred grass] for that bird (anutastāra taṃ dvijam).
+
+**33:** And having carved out the flesh of the rohi deer (rohi-māṃsāni coddhṛtya) and shaped it into funeral balls (peśī-kṛtvā), the illustrious Rāma offered it to the bird (śakunāya dadau) on the lovely green sward (ramye harita-śādvale).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1672,6 +1858,12 @@ into one - Vishnu. 'the adherents of Vishnu, may it be an animal, like Gajendra,
 like Shabari et al., or a bird, like Jataayu, by Him, by Vishnu alone, they are led to the Ultimate
 course of the realm of Vishnu...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Rāma recited for him (tasya rāmo jajāpa ha) that ancestral [collection of Vedic mantras] conducive to heaven (tat svarga-gamanaṃ pitryam) which the twice-born [Brāhmaṇas] recite (yat tat kathayanti dvijātayaḥ) for a departed mortal (pretasya martyasya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1717,6 +1909,12 @@ on going; *tasmai gR^idhra raajaaya* = for him, to eagle's, for king; *udakam ca
 
 Then both the sons of that notable man, namely Dasharatha, on going to River Godavari they have oblated
 waters for that king of eagles, Jataayu. [3-68-35]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having gone to the river Godāvarī (godāvarīṃ gatvā nadīm), those two sons of the best of men (tāv ubhau nara-varātmajau) offered funeral water-libations (udakaṃ cakratuḥ) to that king of vultures (tasmai gṛdhra-rājāya).
 </details>
 </details>
 
@@ -1766,6 +1964,12 @@ udakam cakruH* = for eagle's, king, waters, made [offered.]
 
 Both of the Raghava-s took funeral baths in the waters of River Godavari and then made water oblations
 to the king of eagles. [3-68-36]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bathed in the water (jalaṃ snātvā) for the sake of the vulture (gṛdhrāya) according to the rite prescribed in the scriptures (śāstra-dṛṣṭena vidhinā), the two Rāghavas then offered water-libations (udakaṃ cakratuḥ) to the king of vultures.
 </details>
 </details>
 
@@ -1821,6 +2025,12 @@ gatim jagaama* = to [heavenly] realms, went away.
 That king of eagle Jataayu, who has performed a creditworthy deed of stalling and combating Ravana,
 but who is felled by that Ravana, went away to the merited and auspicious heavenly realms of his own,
 as and when consecrated by sublime sage like Rama. [3-68-37]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having accomplished a glorious and most difficult deed (yaśaskaraṃ suduṣkaraṃ karma) and been felled in battle (raṇe nipātitaḥ), that king of vultures, consecrated with funeral rites (saṃskṛtaḥ) by him who was like a great sage (maharṣi-kalpena), then attained his own holy and auspicious supreme state (puṇyāṃ gatim ātmanaḥ śubhām).
 </details>
 </details>
 
@@ -1888,6 +2098,12 @@ namely Vishnu and Indra, went to southerly woods when their mind is set to searc
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तॆण्टनॆय सर्ग सम्पूर्णवायितु. ॥68॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having performed the water-rites (kṛtodakau) and fixed their steadfast filial regard upon that best of birds (pakṣi-sattame sthirāṃ ca buddhiṃ praṇidhāya), those two, setting their minds thereafter upon the recovery of Sītā (sītādhigame mano praveśya), entered the forest (vanaṃ jagmatuḥ) like the two lords of the gods, Viṣṇu and Vāsava [Indra] (surendrāv iva viṣṇu-vāsavau).
 </details>
 </details>
 

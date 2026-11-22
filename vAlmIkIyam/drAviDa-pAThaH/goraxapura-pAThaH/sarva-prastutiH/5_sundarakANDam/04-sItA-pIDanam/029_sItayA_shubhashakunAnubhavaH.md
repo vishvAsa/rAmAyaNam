@@ -81,6 +81,12 @@ To her who was in such circumstances, who was in distress, who was irraproachabl
 and dejected but virtuous, was bestowed with auspicious omens, as a prosperous man is bestowed with dependent
 servants.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon that blameless (aninditām), auspicious lady (śubhām) in such a plight (tathāgatām)—distressed (vyathitām), her joy departed (vyatītaharṣām), and her mind utterly dejected (paridīnamānasām)—auspicious portents (nimittāni śubhāni) waited (bhejire), just as attendants (upasevinaḥ) wait upon a man favored by royal Fortune (naraṃ śriyā juṣṭam iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,6 +145,12 @@ by the blow of a fish.
 The beautifully haired Seetha's left eye, which was auspicious, whose surrounding row of eye-lashes
 were curved, which was black, wide and bright-looking; was predominantly quivering, like a red lotus quivered
 by the blow of a fish.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Of that fair-haired lady (tasyāḥ sukeśyāḥ), the single auspicious left eye (śubhaṃ vāmam ekaṃ nayanam)—encircled by a row of curved eyelashes (arālapakṣmarājyāvṛtam), black [in the pupil], wide, and white (kṛṣṇaviśālaśuklam), and reddish at the corners (abhitāmram)—throbbed (prāspandata) like a lotus struck by a fish (mīnāhataṃ padmam iva).
 </details>
 </details>
 
@@ -199,6 +211,12 @@ for long as a pillow; *anuttamena* = by her most excellently; *priyeNa* = belove
 Her left shoulder, which was pretty, distinguished beefy and round, which deserved to be applied
 with excellent black aloe and sandalwood paste, which had been used
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And her comely, gracefully curved, rounded, and plump (cārvañcitavṛttapīnaḥ) left arm (bhujo vāmaḥ), worthy of the most precious black aloe and sandal-paste (parārghyakālāgurucandanārhaḥ), which for a long time (cireṇa) had been pillowed upon by her peerless beloved (anuttamenādhyuṣitaḥ priyeṇa), quivered suddenly (samavepatāśu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -257,6 +275,12 @@ quivering; *achachakSe* = spoke; *sthitam* = the existance; *raamam* = of Rama; 
 
 Of her two thighs kept together, the left tigh which was beefy and well born, which resembled the
 trunk of a princely elephant was predominantly quivering, spoke indistinctly of existenc of Rama in front.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And of those two closely set (saṃhatayoḥ) thighs, her plump (pīnaḥ), shapely (jātaḥ) [left] thigh (ūruḥ), resembling the trunk of a lordly elephant (gajendrahastapratimaḥ), throbbing again (praspandamānaḥ punaḥ), proclaimed (ācacakṣe) that Rāma stood right before her (purastāt sthitam).
 </details>
 </details>
 
@@ -318,6 +342,12 @@ Again, the clothing of Seetha standing there, of spotless eyes and charming limb
 resembling the buds of jasmine, which was of golden shade and was slightly soiled as it were with dust, glited
 down, which appeared auspicious (for her).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Furthermore, the auspicious (śubham), gold-colored (hemasamānavarṇam) garment (vāsaḥ)—slightly soiled with dust, as it were (īṣadrajodhvastam iva)—of that peerless-eyed (atulākṣyāḥ), fair-limbed lady (cārugātryāḥ) whose teeth resembled the tips of pomegranate seeds (śikharāgradantyāḥ) slipped down slightly (kiṃcit parisraṃsata) as she stood (sthitāyāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -378,6 +408,12 @@ Bolstered by these and some other omens which straight explained that they were 
 earlier occasion also, Seetha of beautiful eyebrows disclosed a great joy, even as a seed vanished and withered
 by the wind and the sun, got sprouted by rain.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cheered (saṃcoditā) by these and other portents that had proven true even of old (prāg api sādhusiddhaiḥ), the fair-browed lady (subhrūḥ) revived with joy (pratisaṃjaharṣa), like a perishing seed (praṇaṣṭaṃ bījam iva), wilted by wind and sun (vātātapaklāntam), [revived] by a shower of rain (varṣeṇa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -437,6 +473,12 @@ raahoH mukhaat* = from the mouth of the demon Rahu.
 Moreover, having the lips resembling Bimba fruit, having beautiful eyes and eyebrows, whose eye
 lids are curved, having charming white teeth, her face shone like the moon liberated from the mouth of the demon
 Rahu.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then her face (tasyāḥ punar vaktram)—with lips resembling a ripe bimba fruit (bimbaphalopamoṣṭham), with lovely eyes, brows, and hair-locks (svakṣibhrukeśāntam), curved eyelashes (arālapakṣma), and gleaming white teeth (sitaśukladaṃṣṭram)—shone forth (babhāse) like the moon released from the mouth of Rāhu (rāhor mukhāc candra iva pramuktaḥ).
 </details>
 </details>
 
@@ -508,6 +550,12 @@ moon appears during the bright fortnight.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तॊम्भत्तनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Freed from sorrow (vītaśokā), her lassitude dispelled (vyapanītatandrā), her fever of grief allayed (śāntajvarā), and her spirit awakened by joy (harṣavibuddhasattvā), that noble lady shone (aśobhatāryā) with her face just as a night in the bright fortnight (śukle rātrir iva) shines with the risen cool-rayed moon (śītāṃśunā uditena).
 </details>
 </details>
 

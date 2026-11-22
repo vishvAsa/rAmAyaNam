@@ -68,6 +68,12 @@ received; *nishaacharaiH* = by the demons.
 Thus directed by Rama, Hanuma the son of wind-god, entered deeply into the City of
 Lanka, being respectfully received by the demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that Rāvaṇa had been slain by magnanimous Rāghava, the Rākṣasa women (rākṣasyaḥ), emaciated with grief (śokakarśitāḥ), rushed forth from the inner apartments.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -92,6 +98,12 @@ Lanka, being respectfully received by the demons.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरियल्लि प्रवेश माडि अवनु विभीषणन अप्पणॆ पडॆदु हनुमन्तनु अशोकवनक्कॆ होदनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though held back again and again (subahuśaḥ), they rolled in the dust of the earth (kṣitipāṃsuṣu) with disheveled hair, stricken with sorrow like cows whose calves have been slain (vatsahatā iva).
 </details>
 </details>
 
@@ -118,6 +130,12 @@ Lanka, being respectfully received by the demons.
 
 अशोकवनवन्नु प्रवेशिसि न्यायानुसार अवनु सीतॆगॆ तानु बन्द सूचनॆयन्नु कॊट्टनु. बळिक हत्तिर होगि दर्शन माडिदनु. अवळु स्नानादिगळिन्द रहितळाद्दरिन्द स्वल्प मलिनळन्तॆ कण्डुबरुत्तिद्दळु हागू सशङ्कळाद रोहिणियन्तॆ अनिसुत्तित्तु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Going forth by the northern gate together with Rākṣasas and entering the dreadful battlefield (āyodhanaṃ ghoram), they searched for their slain lord.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -142,6 +160,12 @@ Lanka, being respectfully received by the demons.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सीतादेवियु राक्षसियरिन्द परिवृतळागि वृक्षद कॆळगॆ आनन्दशून्यळागि कुळित्तिद्दळु. हनुमन्तनु शान्त-विनीत भावदिन्द ऎदुरिगॆ होगि प्रणामगैदु सुम्मने निन्तुकॊण्डनु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crying out “O noble lord (āryaputra)!” and “Alas, O protector (hā nātha)!” on every side, they ran about the earth, which was marked with headless trunks (kabandhāṅkām) and mired with blood.
 </details>
 </details>
 
@@ -190,6 +214,12 @@ Lanka, being respectfully received by the demons.
 Even after seeing the mighty Hanuma who came there, Seetha kept herself silent.
 Then, seeing and recollecting him, she became rejoiced.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With their eyes brimming with tears and vanquished by grief for their husband (bhartṛśokaparājitāḥ), they trumpeted like female elephants (kareṇvaḥ) whose herd-leader has been slain (hatayūthapāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -232,6 +262,12 @@ entire; *vachanam* = message; *raamasya* = of Rama.
 
 Seeing her cool face, Hanuma the excellent monkey began to narrate the entire
 message of Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They beheld Rāvaṇa of gigantic body, mighty valor, and great splendor lying slain upon the ground, resembling a heaped mass of dark collyrium (nīlāñjanacayopamam).
 </details>
 </details>
 
@@ -278,6 +314,12 @@ sahitaH* = and collectively with the army of monkeys; *kushalii* = is well.
 
 "O Seetha! Rama is well, together with Sugreeva and Lakshmana, along with Vibhishana
 as his supporter and collectively with the army of monkeys."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding their husband suddenly lying in the dust of the battlefield (raṇapāṃsuṣu), they fell upon his limbs like severed forest creepers (chinnā vanalatā iva).
 </details>
 </details>
 
@@ -330,6 +372,12 @@ saha* = along with the monkeys; *viiryavaan raavaNaH* = the valiant Ravana;
 adversaries, having accomplished his object, is informing you about his welfare. Rama and
 Lakshmana, with the support of Vibhishana and the monkeys, killed the valiant Ravana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+One woman embraced him out of deep reverence (bahumānāt) and wept; one clung to his feet, and another hung upon his neck (kaṇṭhe 'valambya ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -377,6 +425,14 @@ prabhaavaat* = because of your power; *ayam* = this; *mahaan* = great;
 "O the divine lady! I am telling a pleasant news and again eulogizing you. O Seetha,
 the knower of righteousness! Rama accomplished this great victory in the battle, because of your
 power. Be free from your grief and be comfortable."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Throwing up both her arms (utkṣipya ca bhujau), one rolled about upon the ground; beholding the face of the slain monarch, another fell into a swoon (moham upāgamat).
+
+**10:** Placing his head upon her lap (aṅke śiraḥ kṛtvā), one wept as she gazed upon his face, bathing his countenance with tears as a lotus is drenched with frost (tuṣārair iva paṅkajam).
 </details>
 </details>
 
@@ -427,6 +483,12 @@ been redeemed.
 "Ravana, the enemy was killed. Even the Lanka has been subdued. With a firm
 determination to win you back, by me who have had no sleep, a bridge has been constructed across
 the great ocean and this vow (of winning you back) has been fulfilled."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus afflicted at beholding their husband Rāvaṇa slain upon the earth, they cried out in manifold ways from grief (śokāt) and lamented anew:
 </details>
 </details>
 
@@ -488,6 +550,14 @@ rejoice.
 "That is why, console yourself complacently. You are staying in your own house. This
 Vibhishana too is coming to you with a rejoice, as he is so eager to see you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “He by whom Śakra was terrified (vitrāsitaḥ śakraḥ), by whom Yama was terrified, and by whom King Vaiśravaṇa was deprived of the aerial car Puṣpaka—
+
+**13:** “—he by whom terror was struck in battle into the Gandharvas, the sages, and the magnanimous gods, that very warrior now lies slain upon the battlefield (śete raṇe hataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -534,6 +604,12 @@ Vibhishana too is coming to you with a rejoice, as he is so eager to see you."
 Hearing these words, that Seetha the divine lady, whose face resembled the moon,
 could not speak, tongue-tied as she was with a thrill of delight.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who knew no fear from Asuras, or from gods, or even from serpents (pannagebhyo 'pi vā)—upon him has come this fatal peril from a mortal (mānuṣād bhayam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -574,6 +650,12 @@ speak; *maam* = to me?
 
 Thereupon, Hanuma spoke to Seetha, who was not making any answer (as follows): "O
 divine lady! What are you reflecting upon? Why don't you speak to me?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who was invulnerable (avadhyaḥ) to the gods as well as to Dānavas and Rākṣasas—that very monarch lies slain in battle by a mortal fighting on foot (mānuṣeṇa padātinā)!
 </details>
 </details>
 
@@ -617,6 +699,12 @@ a righteous path; *paramapriitaa* = was very much delighted; *abraviit* = and sp
 
 Thus asked by Hanuma, Seetha, who was ever established in a righteous path, was very
 much delighted and spoke (as follows) in a voice choked with tears.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who could not be slain by gods, nor by Yakṣas, nor by Asuras—that very hero, like some powerless weakling (kaścid ivāsattvaḥ), has been brought to death by a mortal!”
 </details>
 </details>
 
@@ -663,6 +751,12 @@ praharShavasham* = overpowered as I was by extreme joy.
 
 "Hearing these pleasant tidings about the victory of my husband, I became speechless
 for a while, overpowered as I was, by extreme joy."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, those sorrow-stricken wives of his wept aloud (ruruduḥ); and afflicted with grief, they lamented yet again and again (punaḥ punaḥ).
 </details>
 </details>
 
@@ -715,6 +809,12 @@ brain.
 return, to offer you, who have announced these tidings pleasant to me, even after enervating my
 brain."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because you did not listen to your well-wishers (suhṛdām) who ever spoke for your welfare, Sītā was abducted for your own death and the Rākṣasas have been struck down; now we ourselves and your own self have been brought down together (samam idānīṃ) by you!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -765,6 +865,12 @@ yat* = and on bestowing which; *tava* = on you; *sukham* = happiness;
 "Nor, do I perceive anything worthy for you on this earth for you act of conveying
 this agreeable news to me and on bestowing which on you, happiness may come to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Though your beloved brother Vibhīṣaṇa spoke salutary words (hitaṃ vākyam), he was harshly reviled out of delusion (mohāt) by you who were courting your own destruction (ātmavadhakāṅkṣiṇā)—as is now visibly proved!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -810,6 +916,12 @@ the three worlds.
 
 "Neither silver, nor gold nor even diamonds nor the sovereignty of the three worlds,
 can be worthy of this message."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If Sītā, princess of Mithilā, had been restored by you (niryātitā te syāt) unto Rāma, this dreadful and mighty calamity that has torn up our very roots (mūlaharaṃ mahat) would not have befallen us!
 </details>
 </details>
 
@@ -861,6 +973,12 @@ follows):
 Hearing the words of Seetha, Hanuma standing with his face turned towards Seetha and
 with his hands joined in salutation, joyfully replied as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your brother would have seen his desire fulfilled (vṛttakāmaḥ), Rāma would have become an allied house (mitrakulam), all of us would have remained un-widowed (avidhavāḥ), and our enemies would not have achieved their desire!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -911,6 +1029,12 @@ _________________
 "O faultless lady, interested in things agreeable and beneficial to husband and
 wishing for his victory! You alone deserve to speak such words filled with affection."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Instead, by you who cruelly (nṛśaṃsena) detained Sītā by force, the Rākṣasas, ourselves, and your own self—all three have been struck down equally together (trayaṃ tulyaṃ nipātitam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -953,6 +1077,12 @@ diamonds; *devaraajyaat* = or the sovereignty over the gods.
 
 "O gentle lady! These words of yours, endowed with preciousness and affection, are
 better than various kinds of collection of diamonds or the sovereignty over the celestials."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet, O bull among Rākṣasas (rākṣasapuṃgava), this was not indeed your willful act (kāmakāraḥ) nor your mere desire: fate sets everything in motion (daivaṃ ceṣṭayate sarvam), and what is already struck by fate is slain!
 </details>
 </details>
 
@@ -1002,6 +1132,12 @@ qualities; *praaptaaH* = have been obtained; *mayaa* = by me.
 victory. That is to say, I have attained the blessing like the sovereignty over the celestials and
 other good qualities."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This destruction in battle of the Vānaras and of your Rākṣasas, as well as of yourself, O mighty-armed lord, has come to pass through the dispensation of fate (daivayogād upāgataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1041,6 +1177,12 @@ following most auspicious words; *pavanaatmajam* = to Hanuma.
 
 Hearing those words of Hanuma, Seetha the daughter of Janaka thereupon spoke the
 following auspicious words to Hanuma.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Once the course of fate stands ready to strike (daivagatir udyatā), it cannot be turned back in this world either by wealth (arthena), or by desire, or by valor, or by royal command (ājñayā)!”
 </details>
 </details>
 
@@ -1127,6 +1269,12 @@ joylessly like a frightened cow and surrounded with female-demons. Approaching h
 offering salutation to her in bending his head, he stood there silently.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus did those wretched consorts of the lord of Rākṣasas (rākṣasādhipayoṣitaḥ) lament, stricken with sorrow like ospreys (kurarya iva) and with their eyes turbid with tears (bāṣpaparyākulekṣaṇāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

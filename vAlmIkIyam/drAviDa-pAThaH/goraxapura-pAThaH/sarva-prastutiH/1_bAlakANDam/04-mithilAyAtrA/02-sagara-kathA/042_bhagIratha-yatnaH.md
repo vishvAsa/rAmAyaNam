@@ -69,6 +69,12 @@ Bhageeratha's effort for bringing Ganga to earth is fulfilled. Amshuman
  accordingly." Thus Vishvamitra continued narration about the predecessors
  of Rama. [1-42-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When Sagara had succumbed to the law of Time (kāladharmaṃ gate rāma sagare), O Rāma, the ministers and subjects chose the supremely righteous Aṃśumān as their king (prakṛtījanāḥ rājānaṃ rocayām āsur aṃśumantaṃ sudhārmikam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +117,12 @@ Bhageeratha's effort for bringing Ganga to earth is fulfilled. Amshuman
  Raghu's delight, he begot a marvellous son who is renowned as Dileepa.
  [1-42-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That Aṃśumān was a very great king, O delight of the Raghus (sa rājā sumahān āsīd aṃśumān raghunandana); and he had a great son renowned by the name of Dilīpa (tasya putro mahān āsīd dilīpa iti viśrutaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -152,6 +164,12 @@ Bhageeratha's effort for bringing Ganga to earth is fulfilled. Amshuman
 Assigning the kingdom to Dileepa, oh, Rama of Raghu's dynasty, Amshuman
  undertook very stern ascesis on a pleasant peak of Himalayas desiring
  the descent of River Ganga to earth. [1-42-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having made over the kingdom to that Dilīpa (tasmai rājyaṃ samādiśya dilīpe), O delight of the Raghus, Aṃśumān practiced most severe austerity upon a lovely peak of Himavān (himavacchikhare ramye tapas tepe sudāruṇam).
 </details>
 </details>
 
@@ -208,6 +226,12 @@ Instead of achieving reward of ascesis in the form of descent of River
  Ganga, he could achieve only his personal merit of his penance, namely
  an abode in heaven.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Dwelling in the ascetic forest for thirty-two hundred thousand years (dvātriṃśacchatasāhasraṃ varṣāṇi tapovanagataḥ), that king of supreme renown, rich in austerity, attained heaven (sumahāyaśāḥ rājā svargaṃ lebhe tapodhanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -251,6 +275,12 @@ The great resplendent Dileepa on hearing the elimination of his grandfathers,
  a mind that is marred by the plight of his father Amshuman in absolving
  the souls of Sagara's sons, he that Dileepa could not arrive at any
  decision concerning the descent of Ganga. [1-42-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Dilīpa of great splendor, however, having heard of the slaughter of his grand-uncles (dilīpas tu mahātejāḥ śrutvā paitāmahaṃ vadham), could not arrive at any definite means with his mind overwhelmed by sorrow (duḥkhopahatayā buddhyā niścayaṃ nādhyagacchata).
 </details>
 </details>
 
@@ -296,6 +326,12 @@ Dileepa became worried as to how River Ganga is to be alighted onto
  of Sagara's sons, and how to cross them, the souls, over this mortal
  world. [1-42-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘How can the descent of Gaṅgā be brought about (kathaṃ gaṅgāvataraṇam)? How can their obsequial water-rite be performed (kathaṃ teṣāṃ jalakriyā)? And how may I deliver them (tārayeyaṃ kathaṃ caitān)?’—thus he remained ever absorbed in anxious thought (iti cintāparo ’bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,6 +375,12 @@ To him who is self-mortified and who is always thinking righteously
  about the alight of Ganga onto earth, to such a Dileepa a most-virtuous
  son is born who is renowned by his name Bhageeratha. [1-42-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To him who was constantly pondering thus and whose very soul was renowned through dharma (tasya cintayato nityaṃ dharmeṇa viditātmanaḥ), there was born a supremely righteous son named Bhagīratha (putro bhagīratho nāma jajñe paramadhārmikaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -380,6 +422,12 @@ That great-resplendent king Dileepa on his part performed numerous
  Vedic-rituals, and he ruled the kingdom for thirty thousand years -
  to the delight of each of his subjects, but could not find a way to
  fetch Ganga. [1-42-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Dilīpa of great splendor offered many sacrifices (dilīpas tu mahātejā yajñair bahubhir iṣṭavān), and for thirty thousand years the king governed the kingdom (triṃśadvarṣasahasrāṇi rājā rājyam akārayat).
 </details>
 </details>
 
@@ -424,6 +472,12 @@ Oh, tigerly-man Rama, that king Dileepa by not attaining any choice
  Ganga to earth, he took to illness, and he attained the ultimate virtue
  of Time, namely the demise. [1-42-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without arriving at a definite means for their deliverance (agatvā niścayaṃ rājā teṣām uddharaṇaṃ prati), O tiger among men, the king succumbed to the law of Time through an illness (vyādhinā naraśārdūla kāladharmam upeyivān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -464,6 +518,12 @@ Oh, tigerly-man Rama, that king Dileepa by not attaining any choice
 That best one among men, namely king Dileepa, on anointing his son
  Bhageeratha in the kingdom went to the abode of Indra, namely the heaven,
  only by his self-acquired merits of deeds. [1-42-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having consecrated his son Bhagīratha upon the throne (rājye bhagīrathaṃ putram abhiṣicya), that bull among men, the king, departed to the world of Indra through the merit of his own deeds alone (indralokaṃ gato rājā svārjitenaiva karmaṇā nararṣabhaḥ).
 </details>
 </details>
 
@@ -543,6 +603,14 @@ Interested in the alighting of River Ganga on earth, oh, Rama, the
 The five-fires are *pancaagni-s* the four earthly fires in four
  corners of directions and the sun's fire overhead.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “The royal sage Bhagīratha, O delight of the Raghus, was devoted to dharma (bhagīrathas tu rājarṣir dhārmiko raghunandana); childless and desiring progeny (anapatyo mahārājaḥ prajākāmaḥ), that great king entrusted his subjects (sa ca prajāḥ)—
+
+**12:** “—and that kingdom to his ministers (mantriṣv ādhāya tad rājyam), and, intent upon bringing about the descent of Gaṅgā (gaṅgāvataraṇe rataḥ), entered upon a long austerity at Gokarṇa, O delight of the Raghus (tapo dīrghaṃ samātiṣṭhad gokarṇe raghunandana).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -569,6 +637,12 @@ The five-fires are *pancaagni-s* the four earthly fires in four
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबाहुवे! अवनु ऎरडू भुजगळन्नु मेलक्कॆत्ति पञ्चाग्नि साधनॆ माडुत्ता, इन्द्रियगळन्नु हतोटियल्लिट्टुकॊण्डु तिङ्गळल्लि ऒन्दे सल आहार स्वीकरिसुत्तिद्दनु. ई प्रकार घोर तपस्सिनल्लि तॊडगिरुव भगीरथ महाराजन ऒन्दु साविर वर्षगळु कळॆदवु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With arms upraised, practicing the five-fire penance, partaking of food only once a month, and having conquered his senses (ūrdhvabāhuḥ pañcatapā māsāhāro jitendriyaḥ), as he stood in that terrible austerity, thousands of years (tasya varṣasahasrāṇi ghore tapasi tiṣṭhataḥ)—
 </details>
 </details>
 
@@ -638,6 +712,14 @@ Forefather Brahma then arrived along with assemblages of gods, and
  spoke this way to the great-souled Bhageeratha who is deep in the practise
  of ascesis. [1-42-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “—passed by for that high-souled king, O mighty-armed Rāma (atītāni mahābāho tasya rājño mahātmanaḥ); thereupon the Blessed Lord Brahmā, the sovereign lord of creatures, became supremely pleased (suprīto bhagavān brahmā prajānāṃ prabhur īśvaraḥ).
+
+**15:** “Then approaching accompanied by the hosts of gods, the Grandfather (tataḥ suragaṇaiḥ sārdham upāgamya pitāmahaḥ) spoke thus to the high-souled Bhagīratha as he was performing penance (bhagīrathaṃ mahātmānaṃ tapyamānam athābravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -689,6 +771,12 @@ Oh, great king Bhageeratha, oh, lord of the people, I am delighted
  with the perfectly conducted ascesis of yours, hence oh, truly committed
  one, you may beseech for a boon. [1-42-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O great king Bhagīratha, lord of men, I am pleased with you and with your well-performed austerity (bhagīratha mahārāja prītas te ’haṃ janādhipa tapasā ca sutaptena); choose a boon, O hero of noble vows (varaṃ varaya suvrata)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -733,6 +821,12 @@ _________________
 That great resplendent and highly fortunate king Bhageeratha then remaining
  with suppliantly adjoined palm fold spoke to him who is the Forefather
  of all worlds, namely Brahma. [1-42-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Standing with his palms joined in supplication (kṛtāñjalipuṭaḥ sthitaḥ), the mighty-armed Bhagīratha of great splendor spoke thus to the Grandfather of all the worlds (tam uvāca mahātejāḥ sarvalokapitāmaham bhagīratho mahābāhuḥ):
 </details>
 </details>
 
@@ -785,6 +879,12 @@ Oh, god, if you are satisfied with my ascesis, and if there is any
  fruition to the ascesis of mine, let all the sons of Sagara get water
  oblations through me. [1-42-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘If the Blessed Lord is pleased with me, and if there is fruit to my austerity (yadi me bhagavān prīto yady asti tapasaḥ phalam), may all the sons of Sagara receive funeral libation-water from me (sagarasyātmajāḥ sarve mattaḥ salilam āpnuyuḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -832,6 +932,12 @@ While the ashes of these great souls are drenched with the waters
  of Ganga, let all of those great-grandfathers of mine depart to heaven,
  eternally. [1-42-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘When the ashes of these high-souled ones are moistened by the water of Gaṅgā (gaṅgāyāḥ salilaklinne bhasmany eṣāṃ mahātmanām), may all my great-grandfathers ascend to everlasting heaven (svargaṃ gaccheyur atyantaṃ sarve ca prapitāmahāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -873,6 +979,12 @@ While the ashes of these great souls are drenched with the waters
 Oh, god, I indeed pray for offspring in our Ikshvaku dynasty, let
  not our dynasty dwindle as I am issueless, and oh, god, let this be
  the other boon to me. [1-42-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And O Lord, I pray for progeny, so that our lineage may not sink into extinction (deva yāce ha saṃtatyai nāvasīdet kulaṃ ca naḥ); in the house of the Ikṣvākus, O Lord, let this be my second supreme boon (ikṣvākūṇāṃ kule deva eṣa me ’stu varaḥ paraḥ)!’
 </details>
 </details>
 
@@ -922,6 +1034,12 @@ The Forefather of all the worlds, Brahma, then replied the king who
  has spoken in that way, in an auspicious tongue that is sweet-sounding
  and sweetly worded, as well. [1-42-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To the king who had spoken thus, the Grandfather of all the worlds replied (uktavākyaṃ tu rājānaṃ sarvalokapitāmahaḥ pratyuvāca) with an auspicious speech that was sweet in meaning and sweet in its syllables (śubhāṃ vāṇīṃ madhurāṃ madhurākṣarām):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -963,6 +1081,12 @@ The Forefather of all the worlds, Brahma, then replied the king who
 Oh, top-speeded chariot-rider Bhageeratha, this aspiration of yours
  is sublime, and oh, the furtherer of Ikshvaku dynasty, so be it, let
  safeness betide you. [1-42-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Great is this desire of yours, O great-charioteer Bhagīratha (manoratho mahān eṣa bhagīratha mahāratha)! So let it be—blessings be upon you, O increaser of the house of Ikṣvāku (evaṃ bhavatu bhadraṃ te ikṣvākukulavardhana)!
 </details>
 </details>
 
@@ -1012,6 +1136,12 @@ This Ganga is the one with snow-broth, the elder daughter of Himavanta,
  force in the course of her alighting onto earth, and in fact, he is
  to be commissioned for that purpose. [1-42-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘This Haimavatī Gaṅgā is the eldest daughter of Himavān (iyaṃ haimavatī jyeṣṭhā gaṅgā himavataḥ sutā); to sustain her descent in that task, O King, let Lord Hara (Śiva) be entreated (tāṃ vai dhārayituṃ rājan haras tatra niyujyatām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1057,6 +1187,12 @@ _________________
 'Oh, king Bhageeratha, the earth cannot endure the downfall of Ganga
  and to sustain Ganga, oh, king, indeed I do not behold none other than
  the Trident-wielder, god Shiva.' Thus Brahma spoke to Bhageeratha. [1-42-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘The earth will not be able to endure the fall of Gaṅgā, O King (gaṅgāyāḥ patanaṃ rājan pṛthivī na sahiṣyate); to sustain her, O King, I behold no one other than the trident-bearing Śiva (tāṃ vai dhārayituṃ rājan nānyaṃ paśyāmi śūlinaḥ)!’
 </details>
 </details>
 
@@ -1121,6 +1257,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तॆरडनॆय सर्ग पूर्णवायितु.॥42॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having spoken thus to that king and having addressed Gaṅgā as well, the Creator of the worlds (tam evam uktvā rājānaṃ gaṅgāṃ cābhāṣya lokakṛt) departed to the third heaven accompanied by all the gods and the hosts of Maruts (jagāma tridivaṃ devaiḥ sarvaiḥ saha marudgaṇaiḥ).”
 </details>
 </details>
 

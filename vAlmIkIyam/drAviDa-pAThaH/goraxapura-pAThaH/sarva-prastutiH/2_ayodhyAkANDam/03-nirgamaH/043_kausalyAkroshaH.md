@@ -60,6 +60,12 @@ monarch.
 Thereafter, Kausalya afflicted with grief of her son and seeing the king lying down
 depressed with sorrow, spoke to the monarch as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding the king sunk upon the couch in grief (śayane sannam śokena pārthivam), Kausalyā, afflicted by grief for her son (putra-śoka-ārtā), spoke to that lord of the earth:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -106,6 +112,12 @@ slough.
 
 "Having planted her poison on Rama the tiger among men, indeed Kaikeyi of crooked
 ways will surely wander about freely like a female serpent that has cast off its slough"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having discharged her venom (viṣam muktvā) upon Rāghava, O tiger among men (rāghave nara-śārdūle), Kaikeyī of serpentine crookedness (ahi-jihmagā) will roam about like a female serpent that has shed her slough (nirmuktā iva hi pannagī).
 </details>
 </details>
 
@@ -156,6 +168,12 @@ on me; *dushhTaahiriva* = like a dangerous serpent; *veshmani* = in the hous.
 "Having fulfilled her desire of expelling Rama to the forest, Kaikeyi the charming
 woman will frighten by clamping down upon me, like a dangerous serpent in the house."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having banished Rāma (vivāsya rāmam), that fortunate woman (subhagā), having attained her desire (labdha-kāmā) and become wholly intent (samāhitā), will terrify me all the more (trāsayiṣyati mām bhūyaḥ), like a malignant serpent inside a house (duṣṭa-ahiḥ iva veśmani).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -203,6 +221,12 @@ the house;kaama kaaraH = by doing the work entrusted ; *charan* = and roaming ab
 "Even giving my son to her as a slave would have been better. By that Rama would
 have at least stayed in the house by doing the work entrusted by her and roaming about in the city,
 asking alms.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if Rāma had dwelt in a house within this city (asmin nagare... gṛhe vaset) while begging for alms (caran bhaikṣam), or even if my own son had been given away as her slave (api dāsam mama ātmajam), it would have been preferable to grant such a boon at will (kāma-kāraḥ varam dātum).
 </details>
 </details>
 
@@ -255,6 +279,12 @@ to; *rakshhasaam* = ogres; *parvaNi* = on a new or full moon; *aahitaagninaa*
 as one who tends the sacred fire throws a part of the sacrifice to ogres on a new or full
 moon."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Cast down from his station by Kaikeyī according to her whim (pātayitvā tu kaikeyyā rāmam sthānāt yatheṣṭataḥ), Rāma has been flung away like the portion offered to the Rākṣasas at the sacred change of the moon by one who maintains the sacrificial fires (praviddhaḥ rakṣasām bhāgaḥ parvaṇi iva āhitāgninā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -301,6 +331,12 @@ forest.
 
 Together with his wife, accompanied by Lakshmana and walking like king of elephants
 having a bow in hand, the mighty armed hero surely will have entered the forest "
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Walking with the gait of the king of elephants (nāga-rāja-gatiḥ), that mighty-armed hero and wielder of the bow (vīraḥ mahā-bāhuḥ dhanuḥ-dharaḥ) is surely now entering the forest (vanam āviśate nūnam), accompanied by his wife and together with Lakṣmaṇa (sa-bhāryaḥ saha-lakṣmaṇaḥ).
 </details>
 </details>
 
@@ -352,6 +388,12 @@ Kaikeyi.
 " In the forest, what fate will befall them who had never seen such a suffering
 before and who have been sent by you to a forest life as per the wishes of Kaikeyi?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For those who have never known suffering (adṛṣṭa-duḥkhānām) and who have been abandoned by you for forest-exile (tvayā tyaktānām vana-vāsāya) with Kaikeyī’s approval (kaikeyī-anumate), what other plight awaits them in the forest (vane... kā anyā avasthā bhaviṣyati)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +444,12 @@ fruits and roots;kR^itaashanaaH = to be eaten.
 enjoying diversions of every kind, how are they to live in misery, having only roots and fruits for
 their nourishment?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Deprived of royal treasures (ratna-hīnāḥ), youthful (taruṇāḥ), and banished at the very season of enjoying life’s fruits (phala-kāle vivāsitāḥ), how will those pitiable ones dwell (katham vatsyanti kṛpaṇāḥ), subsisting on wild fruits and roots (phala-mūlaiḥ kṛta-aśanāḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,6 +495,12 @@ Rama;sabhaaryam = with his wife;saha bhraataa = along with his brother; *iha* = 
 
 "When that auspicious hour will come to me that will bring an end to my sorrows and
 I shall see Rama with his wife and brother returning here?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Might that auspicious time that ends my grief (sa kālaḥ... mama śoka-kṣayaḥ śivaḥ) come even now (api idānīm... syāt), when I may behold Rāghava here (paśyeyam iha rāghavam) together with his wife and his brother (saha-bhāryam saha bhrātrā)?
 </details>
 </details>
 
@@ -496,6 +550,12 @@ maalinii* = and be adorned with rows of towering banners.
 be adorned with rows of towering banners the moment it hears of the two heroic princes (Rama and
 Lakshmana) being present ? "
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When will glorious Ayodhyā (kadā ayodhyā bhaviṣyati yaśasvinī), merely upon hearing that the two heroes have arrived (śrutvā eva upasthitau vīrau), be filled with rejoicing people (hṛṣṭa-janā) and garlanded with lofty banners (su-ucchrita-dhvaja-mālinī)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -543,6 +603,12 @@ forest?".
 "When will the city rejoice like an ocean swelling jubilantly on a full moon night
 to perceive the two princes who are tigers among men come back from the forest? "
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When, upon beholding those two tigers among men returned again from the forest (kadā prekṣya nara-vyāghrau araṇyāt punar-āgatau), will the city swell with joy like the ocean at the full moon (bhaviṣyati purī hṛṣṭā samudraḥ iva parvaṇi)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -588,6 +654,12 @@ to perceive the two princes who are tigers among men come back from the forest? 
 
 "When will the mighty armed hero (Rama) enter the city of Ayodhya placing Sita in
 his front in the chariot as a bull would follow a cow?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When will that mighty-armed hero (mahā-bāhuḥ... vīraḥ) enter the city of Ayodhyā (kadā ayodhyām... purīm pravekṣyati), placing Sītā at the fore in his chariot (puraskṛtya rathe sītām) as a lordly bull leads a young cow (vṛṣabhaḥ go-vadhūm iva)?
 </details>
 </details>
 
@@ -636,6 +708,12 @@ the city?"
 "When will thousands of men shower the parched grains of paddy on the royal highway
 over my two sons (Rama and Lakshmana) the subduer of their enemies, entering the city?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When will thousands of living beings (kadā prāṇi-sahasrāṇi) strew my two sons with parched grain (mama ātmajau lājaiḥ avakariṣyanti) along the royal highway (rāja-mārge) as those two tamers of foes enter (praviśantau arindamau)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -682,6 +760,12 @@ Ayodhya;parvataaviva = like(a pair of mountains) ;sashR^ngou = crowned with peak
 "When shall I see the two princes adorned with splendid ear-rings and armed with
 excellent bows and swords, entering Ayodhya like a pair of mountains crowned with peaks?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When shall I behold the two entering Ayodhyā (praviśantau kadā ayodhyām drakṣyāmi), adorned with auspicious earrings (śubha-kuṇḍalau) and bearing uplifted bows and swords (udagra-āyudha-nistriṃśau), like two peaked mountains (sa-śṛṅgau iva parvatau)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -724,6 +808,12 @@ fruits; *kanyaa dvijaatiinaam* = to virgins and brahmanas?"
 
 +++(Wrong - hindI translation is correct.)+++ "When will those two princes with Sita merrily go round the city clockwise, giving
 away flowers and fruits to virgins and brahmanas?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When will maidens of the twice-born (kanyāḥ dvijātīnām), joyful (hṛṣṭāḥ) and offering flowers and fruits (sumanasaḥ... phalāni ca pradiśantyaḥ), walk clockwise around the city (purīm... kariṣyanti pradakṣiṇam)?
 </details>
 </details>
 
@@ -776,6 +866,12 @@ crops).
 "When will the pious Rama, grown ripe in intellect and shining like a god in point
 of age ,return to me, cherishing the world like the proportious and timely rain?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When will that righteous-souled one (dharmātmā), mature in wisdom (pariṇataḥ buddhyā) and radiant as an immortal in youthful age (vayasā ca amara-prabhaḥ), come near (abhyupaiṣyati), gladdening the people like timely rain (su-varṣaḥ iva lālayan)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -822,6 +918,12 @@ them."
 
 "Undoubtedly in some past life, through mean-mindedness, Oh, valiant king, I believe
 that the teats of cows were cut off by me while their calves were longing to suck them."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without doubt (niḥsaṃśayam), O hero (vīra), I think that in a former birth (manye purā), vile as I was (mayā... kadaryayā), the udders of mother cows were severed by me (mātṝṇām śātitāḥ stanāḥ) while their calves were eager to drink (pātu-kāmeṣu vatseṣu).
 </details>
 </details>
 
@@ -871,6 +973,12 @@ Kaikeyi; *gouriva* = as a cow; *baalavatsaa* = having a calf of tender age;
 deprived of my child by Kaikeyi in the same way as a cow having a calf of tender age may be
 deprived of her calf by a lion."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore I, so tender toward my child (sā aham... vatsalā), have been forcibly bereft of my calf by Kaikeyī (vivatsā... kṛtā kaikeyyā... balāt), O tiger among men (puruṣa-vyāghra), like a cow with a young calf (bāla-vatsā iva gauḥ) despoiled by a lion (gauḥ iva siṃhena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -916,6 +1024,12 @@ shaastra vishaaradam* = well-versed in all scriptures."
 
 "I cannot indeed wish to survive without my only son who is adorned with all virtues
 and is well-versed in all scriptures."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having but one son (eka-putrā), I cannot bear to live (na hi... aham jīvitum utsahe) without that son (vinā putram) who is endowed with so many virtues (tāvat-guṇaiḥ juṣṭam) and skilled in all the sacred sciences (sarva-śāstra-viśāradam).
 </details>
 </details>
 
@@ -966,6 +1080,12 @@ strength."
 
 "There is not the least capacity imaginable in me to sustain my life here so long as
 I fail to perceive my beloved son (Rama) who is mighty armed and Lakshmana of great strength"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, no strength whatever remains in me to sustain life here (na hi me jīvite kiṃcit sāmarthyam iha kalpyate) while I do not behold my beloved son (apaśyantyāḥ priyam putram) and Lakṣmaṇa of mighty strength (lakṣmaṇam ca mahā-balam).
 </details>
 </details>
 
@@ -1032,6 +1152,12 @@ rays in summer."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तमूरनॆय सर्ग पूर्णवायितु.॥43॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For today this fire born of grief for my son (ayam... vahniḥ tanūja-śoka-prabhavaḥ), most hostile to my life (mahā-ahitaḥ), scorches me (mām dīpayate adya), just as the radiant Lord Sun of supreme splendour (uttama-prabhaḥ... bhagavān divākaraḥ) scorches this earth with his rays in the summer heat (mahīm imām raśmibhiḥ... yathā nidāghe).”
 </details>
 </details>
 

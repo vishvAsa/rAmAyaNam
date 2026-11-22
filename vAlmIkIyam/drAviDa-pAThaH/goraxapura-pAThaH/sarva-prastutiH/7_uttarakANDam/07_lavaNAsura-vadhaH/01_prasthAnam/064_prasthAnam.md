@@ -39,6 +39,12 @@ _________________
 
 ऋषिगळु हीगॆ हेळिदाग श्रीरामचन्द्रनु अवरिगॆ कैमुगिदु - लवणासुरनु एनु तिन्नुत्तानॆ? अवन आचार - व्यवहार हेगिदॆ? अवनॆल्लि इरुत्तानॆ? ऎन्दु केळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to Kākutstha [Śatrughna] (evam uktvā ca kākutstham) and praised him again and again (praśasya ca punaḥ punaḥ), the delight of the Raghus [Rāma] once more addressed another speech to him (punar evāparaṃ vākyam uvāca raghunandanaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -78,6 +84,14 @@ _________________
 
 श्रीरामन ई मातन्नु केळि आ ऋषिगळॆल्लरू लवणासुरन आहार-विहारगळ बग्गॆ ऎष्टु तिळिदित्तो अदॆल्लवन्नु तिळिसिदरु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “Let these four thousand horses (aśva-sahasrāṇi catvāri), O bull among men, two thousand chariots (rathānāṃ dve sahasre), and a hundred noble elephants (gajānāṃ śatam uttamam),
+
+**3:** “together with the inner-city market-streets adorned with diverse wares (antarā paṇa-vīthyaś ca nānā-paṇyopaśobhitāḥ), and likewise actors and dancers (tathaiva naṭa-nartakāḥ), follow Kākutstha!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -105,6 +119,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु प्रतिदिनवू ऎष्टो साविर सिंह, हुलि, मृग, पक्षि मत्तु मनुष्यरन्नु कॊन्दु तिन्नुत्तानॆ.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Taking a hundred thousand measures of silver and fine gold (hiraṇyasya suvarṇasya niyutam), O bull among men, go forth, O Śatrughna, well supplied with wealth and mounts (paryāpta-dhana-vāhanaḥ).
 </details>
 </details>
 
@@ -134,6 +154,12 @@ _________________
 
 संहार काल बन्दाग बायि तॆरॆदु निन्त यमराजनन्तॆ आ महाबलि असुरनु बेरॆ-बेरॆ जीविगळन्नु तिन्नुत्ता इरुत्तानॆ.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And keep your army well maintained (balaṃ ca subhṛtam), O hero, joyful, well-nourished, and free from arrogance (hṛṣṭa-puṣṭam anuddhatam); gladden them through gracious speech and liberal gifts (sambhāṣā-sampradānena rañjayasva), O best of men!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -161,6 +187,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवर मातन्नु केळि श्रीरामनु आ महामुनिगळल्लि हेळिदनु - महर्षिगळे! नानु आ राक्षसनन्नु कॊल्लिसुवॆनु. निम्म भय दूरवागलि.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For neither wealth (arthāḥ), nor wives (dārāḥ), nor kinsmen (bāndhavāḥ) abide where you shall stand, O Rāghava—only a deeply contented host of retainers (suprīto bhṛtya-vargaś ca)!”
 </details>
 </details>
 
@@ -201,6 +233,14 @@ _________________
 
 हीगॆ आ उग्र तेजस्वी मुनिगळ बळि प्रतिज्ञॆ माडि रघुनन्दन श्रीरामनु अल्लि नॆरॆद तन्न ऎल्ल सहोदररल्लि केळिदनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** “Therefore, having dispatched ahead this mighty host thronged with joyful folk (hṛṣṭa-janākīrṇāṃ prasthāpya mahatīṃ camūm), go forth alone, bow in hand (eka eva dhanuṣpāṇiḥ), to the forest of Madhu (madhuno vanam),
+
+**8:** “in such a manner that Lavaṇa, the son of Madhu (lavaṇas tu madhoḥ putraḥ), does not perceive you coming eager for battle (gacchantaṃ yuddha-kāṅkṣiṇam); thus should you advance without arousing suspicion (tathā gaccher aśaṅkitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -229,6 +269,12 @@ _________________
 
 रघुनाथनु हीगॆ केळिदाग भरतनु हेळिदनु - अण्ण! नानु ई लवणासुरनन्नु वधिसुवॆनु. इदु नन्न पालिगॆ इरलि.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For there is no other means of death for him whatsoever (na tasya mṛtyur anyo ’sti kaścid dhi), O bull among men; whoever comes into his sight (darśanaṃ yo ’bhigaccheta) is surely slain by Lavaṇa (sa vadhyo lavaṇena hi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -251,6 +297,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘सौम्य! जब ग्रीष्म-ऋतु निकल जाय और वर्षाकाल आ जाय, उस समय तुम लवणासुरका वध करना; क्योंकि उस दुर्बुद्धि राक्षसके नाशका वही समय है ॥ १० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When the summer has departed (grīṣme ’payāte tu) and the rainy season has arrived (varṣā-rātra upāgate), you shall slay Lavaṇa, O gentle one (hanyās tvaṃ lavaṇaṃ saumya); for that is the appointed hour of that wicked-minded one (sa hi kālo ’sya durmateḥ).
 </details>
 </details>
 
@@ -280,6 +332,12 @@ _________________
 
 भरतन ई धैर्य मत्तु शौर्यपूर्ण मातन्नु केळि, शत्रुघ्ननु स्वर्ण सिंहासनवन्नु बिट्टु निन्तु महाराज श्रीरामनिगॆ वन्दिसि हेळिदनु - रघुनन्दन! महाबाहु भरतनु बहळ कार्य माडिरुवनु.॥10-11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Placing the great sages in the vanguard (maharṣīṃs tu puraskṛtya), let your soldiers march forth (prayāntu tava sainikāḥ), so that with the remnant of summer (grīṣmāvaśeṣeṇa) they may cross the waters of the Jāhnavī [Gaṅgā] (tareyur jāhnavī-jalam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +365,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मॊदलु अयोध्यॆयु बरिदागिद्दाग निम्म आगमनद कालदवरॆगॆ हृदयदल्लि अत्यन्त सन्तापपट्टु इवनु अयोध्यापुरियन्नु पालिसिद्दनु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Stationing the entire host there upon the riverbank (tatra sthāpya balaṃ sarvaṃ nadī-tīre), self-composed (samāhitaḥ), go forward with your bow alone (agrato dhanuṣā sārdham), swift in stride (laghu-vikramaḥ)!”
 </details>
 </details>
 
@@ -337,6 +401,12 @@ _________________
 
 पृथिविनाथने! महायशस्वी भरतनु नन्दिग्रामदल्लि दुःखकर ऒरटाद शय्यॆयल्लि मलगुत्ता बहळ दुःख भोगिसिरुवनु. इवनु फल-मूल तिन्दु इरुत्तिद्दनु मत्तु तलॆय मेलॆ जटॆयन्नु धरिसि नारुमडियन्नु धरिसुत्तिद्दनु.॥13½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Rāma (evam uktas tu rāmeṇa), Śatrughna summoned those mighty army commanders (tān mahābalān senā-mukhyān samānīya) and then spoke these words to them:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -365,6 +435,12 @@ _________________
 
 महाराजा! इन्तिन्थ दुःखगळन्नु भोगिसि ई रघुकुलनन्दन भरतनु सेवकनाद नानिरुवाग ईग पुनः हॆच्चु क्लेशपडबारदु.॥14½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“These halting-places have been appointed for you (ete vo gaṇitā vāsāḥ); wherever you shall encamp (yatra tatra nivatsyatha), you must abide without strife (sthātavyaṃ cāvirodhena), so that distress befalls no one (yathā bādhā na kasyacit).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -386,6 +462,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इस प्रकार उन सेनापतियोंको आज्ञा दे अपनी विशाल सेनाको आगे भेजकर शत्रुघ्नने कौसल्या, सुमित्रा तथा कैकेयीको प्रणाम किया ॥ १५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having commanded them thus (tathā tāṃs tu samājñāpya) and dispatched the mighty army (prasthāpya ca mahad balam), he paid reverent homage to Kausalyā, Sumitrā, and Kaikeyī (kausalyāṃ ca sumitrāṃ ca kaikeyīṃ cābhyavādayat).
 </details>
 </details>
 
@@ -414,6 +496,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शत्रुघ्ननु हीगॆ हेळिदाग श्रीरामनु पुनः हेळिदनु-काकुत्स्थने! नीनु हेळिदन्तॆ आगलि. नीने नन्न आदेशवन्नु पालिसु. नानु निनगॆ मधुविन सुन्दर नगरदल्लि राजनागि पट्टाभिषेक माडुवॆ.॥15-16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having circumambulated Rāma (rāmaṃ pradakṣiṇīkṛtya) and bowed down with his head (śirasābhipraṇamya ca), and granted leave by Rāma (rāmeṇa cābhyanujñātaḥ), Śatrughna, scorcher of foes (śatrutāpanaḥ),
 </details>
 </details>
 
@@ -444,6 +532,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबाहो! नीनु भरतनिगॆ क्लेश कॊडलु बयसुवुदिल्लवादरॆ अवनु इल्ले इरलि. नीनु शूर-वीरनागिरुवॆ, अस्त्रविद्यॆयन्नु तिळिदिरुवॆ, निन्नल्लि नूतन नगर निर्मिसुव शक्ति इदॆ.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+bowing with joined palms to Lakṣmaṇa and Bharata (lakṣmaṇaṃ bharataṃ caiva praṇipatya kṛtāñjaliḥ), and to the royal priest Vasiṣṭha (purohitaṃ vasiṣṭhaṃ ca), the self-restrained Śatrughna (prayatātmavān), after performing circumambulation, set forth in mighty strength (pradakṣiṇam atho kṛtvā nirjagāma mahābalaḥ).
 </details>
 </details>
 
@@ -488,6 +582,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि अरवत्तॆरडनॆय सर्ग पूर्णवायितु. ॥62॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dispatched the army ahead, teeming with surges of lordly elephants and foremost steeds (gajendra-vāji-pravaraugha-saṅkulām), he waited a month beside the king (upāsa māsaṃ tu narendra-pārśvataḥ) and then departed, enhancer of Raghu’s line (raghuvaṃśa-vardhanaḥ).
 </details>
 </details>
 

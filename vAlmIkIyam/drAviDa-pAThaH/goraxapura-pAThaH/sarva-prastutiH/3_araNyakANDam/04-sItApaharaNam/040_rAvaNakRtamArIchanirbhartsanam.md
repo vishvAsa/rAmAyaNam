@@ -69,6 +69,12 @@ pratijagraaha* = not, received - Ravana rejected.
 When Maareecha spoke those acceptable and equitable words, Ravana rejected them like
 a person with a death wish rejects medicament. [3-40-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though spoken to by Mārīca with words that were fitting and reasonable (kṣamaṃ yuktaṃ ca), Rāvaṇa did not accept that counsel, like a man wishing to die (martu-kāmaḥ) spurning medicine (auṣadham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ Ushered by the Terminator the king of demons Ravana, uncouthly spoke these
 unbefitting words to Maareecha who had been speaking conducive and beneficial words of advise.
 [3-40-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Impelled by Fate (kāla-coditaḥ), the lord of rākṣasas spoke harsh and unseemly words (paruṣaṃ vākyam ayuktam) to that Mārīca, who had spoken what was salutary and beneficial (pathya-hita-vaktāram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +177,12 @@ much - decidedly; *niS phalam* = without, fruit - worthless; *kila* = in effect.
 
 "All these meaningless words that are being said to me are decidedly worthless, in
 effect, like the seeds seeded in wastelands. [3-40-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O base-born Mārīca (duṣkula), this speech of yours of improper purport (ayuktārtham) addressed to me is utterly fruitless (niṣphalam atyartham), like seed sown in barren alkaline soil (bījam uptam ivoṣare).
 </details>
 </details>
 
@@ -217,6 +235,12 @@ Rama, that too, from a human being, with these words of yours. [3-40-4]
 There is a grammarian's irk in *bhettum *' to cut off, to destroy' *
 bhetum *'to scare me' and if *bhettum *is taken, then 'it is impossible for that human to
 destroy me in war' will be the meaning, as per Eastern recension.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By your words I cannot be deterred (na tu māṃ śakyaṃ bhettum) from battle with Rāma—especially since he is a fool (mūrkhasya), of sinful conduct (pāpa-śīlasya), and a mere mortal (mānuṣasya)—
 </details>
 </details>
 
@@ -280,6 +304,14 @@ be stolen - seizable.
 "But his wife Seetha who is dearer to him more than his lives is certainly seizable
 by me in association with you, as that Rama had purposelessly killed Khara in a war. [3-40-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** “He who, abandoning his friends, kingdom, mother, and father, went off to the forest in an instant (ekapade) upon hearing the vulgar words of a woman (strī-vākyaṃ prākṛtam)!
+
+**6:** “In your presence (tava sannidhau), I must certainly abduct Sītā, who is dearer to him than life itself (prāṇaiḥ priyatarā), belonging to that slayer of Khara in battle (saṃyuge khara-ghātinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -327,6 +359,12 @@ thinking, in this way, is decided; and; *hR^idi vidyate [vartate]* = in heart, o
 impossible to roll back my mind or heart even for Indra coming along with gods and demons.
 [3-40-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus stands this fixed resolve in my heart (niścitā buddhir hṛdi), O Mārīca; it cannot be turned back (na vyāvartayituṃ śakyā) even by the gods and asuras together with Indra (sendrair api surāsuraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -373,6 +411,12 @@ vaktum arhasi* = you, this way, to talk, apt of you.
 "If you are asked about the credits or discredits, or either of the danger or
 ideation of the deed for determining its modus operandi, it will be apt of you to talk like this,
 but I did not seek any viewpoints of yours. [3-40-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Only when questioned (sampṛṣṭaḥ) regarding the defect or merit (doṣaṃ guṇaṃ vā), or the risk or expedient means (apāyaṃ vā upāyaṃ vā), in determining this undertaking ought you to speak thus.
 </details>
 </details>
 
@@ -439,6 +483,12 @@ iti katham vaktum shakyata iti cenna - pR^iShTenaiva vaktavyam iti etasya svasth
 viShayatvaat - aapadi uttham pratipanne c raajani kesha grahaNa puurvakam pR^iShTe naa api
 vaktavyam eva - dk* .
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A wise minister (sacivena vipaścitā) who desires his own prosperity (bhūtim ātmanaḥ) should speak to a king only when asked (sampṛṣṭena), with joined palms upraised (udyatāñjalinā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -499,6 +549,12 @@ subject at issue. *vijaanan na api
 bruuyaat bhartruH kShiptaH uttaram vacaH | praviiNo api hi medhaavii varjayet abhimaanitaam
 ||*.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A ruler of the earth (vasudhādhipaḥ) should be addressed with deference (upacāreṇa), in words that are unopposed (apratikūlam), gentle at the outset (mṛdu-pūrvam), auspicious, salutary, and fitting.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,6 +603,12 @@ nandati* = not, towards [him,] gladdens.
 "Or else, oh, Maareecha, even if a beneficial word is said, but if it is said with
 reprehension it will not gladden that king who insists upon honour, for that said word is
 dishonourable, let alone reprehension. [3-40-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if a salutary word is spoken (hitam ucyate), if it is accompanied by rudeness (sāvamardam) and devoid of respect (māna-varjitam), a king who prizes honour (mānārthī) will not welcome it.
 </details>
 </details>
 
@@ -634,6 +696,14 @@ traits of the presiding deities of the compass, by virtue of his kingship, and t
 very same to Rama when he entered Dandaka forest. *anena agni aadi dik
 paalaka ruupatvaat raajaa puujyo maanyaH ca iti suucitam - dk* .
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “Kings of immeasurable energy (amitaujasaḥ) bear five divine forms (pañca rūpāṇi)—those of Agni, Indra, Soma, Yama, and Varuṇa.
+
+**13:** “Great-souled kings, O night-roamer (kṣaṇadā-cara), embody fiery heat (auṣṇyam), valour (vikramam), gentleness (saumyam), chastisement (daṇḍam), and graciousness (prasannatām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -709,6 +779,14 @@ Maareecha untold bravery; *tvaam prati* = you, addressing [samprati = presently]
 "Oh, demon, I did not ask the rights and wrongs concerning me, nor that which is
 expedient for me, but oh, demon of untold bravery, I have said this much to you. [3-40-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “Therefore, under all circumstances (sarvāsv avasthāsu), they are perpetually to be respected and revered (mānyāḥ pūjyāś ca); you, however, ignorant of royal duty (dharmam avijñāya), have given yourself over entirely to delusion (moham āśritaḥ).
+
+**15:** “Out of wickedness (daurātmyāt) you speak such harsh words to me who have come as a guest (abhyāgatam); I am not asking you about merits and defects (guṇa-doṣau), nor what is salutary for myself, O rākṣasa!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -759,6 +837,12 @@ you listen.
 " 'It will be apt of you to proffer a helping hand in this deed.' This much I said
 to you. And such as you are you may now listen to that task which you have to undertake during the
 course of your assistance as I detail it to you. [3-40-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having said this much to you, O you of immeasurable prowess (amita-vikrama), you ought now to render assistance (sāhāyyaṃ kartum arhasi) in this undertaking of mine.
 </details>
 </details>
 
@@ -812,6 +896,14 @@ alluring; *yathaa iSTam gantum arhasi* = as, you like, to go away, apt of you.
 "On becoming an amazing silver-potted golden deer you move in front of Seetha in the
 hermitage of Rama, and on verily alluring Vaidehi you can go away as you like. [3-40-17, 18 ]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** “Hear that task which you must perform by way of assistance at my command (vacanān mama): becoming a golden deer (sauvarṇas tvaṃ mṛgo bhūtvā) dappled with silver spots (citro rajata-bindubhiḥ)—
+
+**18:** “Roam before Sītā (sītāyāḥ pramukhe cara) at the hermitage of that Rāma; having enticed Vaidehī (pralobhayitvā vaidehīm), you may depart wherever you wish (yatheṣṭam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -861,6 +953,12 @@ be brought; *iti* = thus; *raamam vakSyati hi* = to Rama, tells, indeed.
 "On seeing you as a wholly illusory golden deer curiosity arises in Vaidehi, and
 indeed she tells Rama, 'bring that one quickly.' [3-40-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For upon beholding you in that golden, illusory form (māyāmayaṃ kāñcanam), Maithilī, struck with wonder (jāta-vismayā), will quickly say to Rāma, ‘Bring him here!’ (ānayainam iti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -907,6 +1005,12 @@ express - you blurt out even.
 
 "Further, on Rama's coming out of his hermitage you go distantly and blurt out in
 this way, 'ha Seetha' and even as, 'ha, Lakshmana,' mimicking Rama's voice. [3-40-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And when Kākutstha has been drawn far away (apakrānte ca kākutsthe), go to a distance and cry out, ‘Ah Sītā! Ah Lakṣmaṇa!’ in a voice mimicking Rāma's voice (rāma-vākyānurūpakam).
 </details>
 </details>
 
@@ -957,6 +1061,12 @@ hearing; *siitaayaa ca pra coditaH* = = by Seetha, further, well, hastened;
 "On hearing that, and further hastened by Seetha, even Soumitri apprehensively
 follows the path of Rama in all his fondness for Rama. [3-40-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing that, and urged on by Sītā (sītayā ca pracoditaḥ), the agitated son of Sumitrā too (saumitrir api), out of brotherly affection (sauhṛdāt), will follow Rāma's track (rāma-padavīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1002,6 +1112,12 @@ convenience - effortlessly, I carry off.
 
 "When Rama is diverted from hermitage, Lakshmana as well, I will carry off Vaidehi
 effortlessly like the Thousand-eyed Indra who once carried off Sachi Devi. [3-40-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When both Kākutstha and Lakṣmaṇa have gone away, I shall at my ease (yathā-sukham) carry off Vaidehī, even as the thousand-eyed Indra carried off Śacī.
 </details>
 </details>
 
@@ -1049,6 +1165,12 @@ to you; *raajyasya ardham pradaasyaami* = kingdom's, half, I grant.
 "Oh, demon, on carrying out this stint in this manner you may go as you like, and to
 you oh, Maareecha with solemn vows, I will grant half of my kingdom. [3-40-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having accomplished this task in this manner, go wherever you wish, O rākṣasa; I shall bestow upon you half of my kingdom (rājyasyārdhaṃ pradāsyāmi), O Mārīca of noble vows!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1094,6 +1216,12 @@ daNDakaa vanam anugamiSyaami* = with, chariot, to Dandaka, forest, I wish to fol
 
 "Hence, oh, gentle one, get going on a trouble-free path for the easy achievement of
 the task, and I for myself will follow you to Dandaka forest along with the chariot. [3-40-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Set forth, gentle sir (saumya), upon an auspicious path (śivaṃ mārgam) for the success of this undertaking; I, for my part, shall follow you with my chariot (sarathaḥ) into the Daṇḍaka forest.
 </details>
 </details>
 
@@ -1143,6 +1271,12 @@ prati gamiSyaami* = Lanka, towards, I will proceed.
 
 "My goal will be achieved just by misleading Raghava, and by gaining Seetha without
 a conflict, then I will proceed to Lanka along with you. [3-40-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having obtained Sītā without a battle (ayuddhena) by deceiving Rāghava (vañcayitvā tu rāghavam), I shall return to Laṅkā with my purpose accomplished (kṛta-kāryaḥ), together with you.
 </details>
 </details>
 
@@ -1199,6 +1333,12 @@ hi* = safely, not, succeeds, indeed.
 "If you are not going to do so, oh, Maareecha, for sure I will kill you now itself.
 I will get my work done through you even under duress, and indeed, any subject setting against his
 king will never succeed safely. [3-40-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If you do not do this (no cet karoṣi), O Mārīca, I shall slay you this very day! You shall certainly perform this task of mine even by force (balād api), for one who stands opposed to a king (rājño vipratikūlasthaḥ) never prospers in happiness.
 </details>
 </details>
 
@@ -1266,6 +1406,12 @@ Ravana spoke to Maareecha. [3-40-27]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तनॆय सर्ग सम्पूर्णवायितु. ॥40 ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“On encountering him, your life is [merely] in doubt (jīvita-saṃśayas te), whereas if you oppose me today, your death is certain (mṛtyur dhruvaḥ)! Weighing this duly in your mind (parigaṇya buddhyā), do accordingly what is salutary in this matter.”
 </details>
 </details>
 

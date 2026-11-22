@@ -75,6 +75,12 @@ relatives.
 Thereafter, the illustrious Rama, highly respected among his fraternity, (as
 follows) to Bharata who was speaking as aforesaid among his relatives.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, honoured in the midst of his kinsmen (jñāti-madhye ’bhisatkṛtaḥ), the glorious elder brother of Lakṣmaṇa (lakṣmaṇāgrajaḥ) replied once more unto that Bharata who was speaking thus:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +128,12 @@ follows) to Bharata who was speaking as aforesaid among his relatives.
 "These words, which you have spoken are worthy of you, the son of Dasaratha the
 excellent king, born through Kaikeyi."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fitting and worthy (upapannam) is this speech which you have uttered thus, born as you are as a son in Kaikeyī from Daśaratha, the foremost of kings (rāja-sattamāt)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,6 +180,12 @@ exceptional; *raajyashulkam* = marriage dowry in the form of our kingdom;
 
 "O, My brother! Long ago, when our father married your mother, he promised your
 maternal grandfather that he would confer his kingdom as an exceptional marriage-dowry"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In days of yore, O brother, when that father of ours wedded your mother (mātaraṃ te samudvahan), he solemnly promised unto your maternal grandfather (mātāmahe samāśrauṣīt) the peerless bride-price of the kingdom itself (rājya-śulkam anuttamam).
 </details>
 </details>
 
@@ -217,6 +235,12 @@ jananyai* = to your mother; *samprahR^iSTaH* = he having been overjoyed;
 of two boons from the efficient lord of the earth, King Dasartha, as a token of his joy and
 gratitude."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And in the battle between the gods and the asuras (daivāsure ca saṅgrāme), our lord the king, gratified and filled with joy when tended by her (ārādhitaḥ), granted a boon unto your mother (jananyai tava).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,6 +265,12 @@ gratitude."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदर पूर्तिगागि प्रतिज्ञॆ माडिसि निन्न यशस्विनी तायियु आ नरश्रेष्ठ तन्दॆयवरल्लि ऎरडु वरवन्नु केळिदळु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon that illustrious mother of yours of fair complexion (vara-varṇinī), having bound the foremost of men by a solemn pledge (sampratiśrāvya), begged two boons of him:
 </details>
 </details>
 
@@ -289,6 +319,12 @@ promise; *narashreSTam* = by Dasaratha the chief of men; *ayaachata* = asked;
 "O, Tiger among men! Your illustrious mother of beautiful complexion consequently
 demanded these two boons from that cheif of men, for you the throne and for me the exile to the
 forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The sovereignty for you, O tiger among men, and exile into the forest for me (mama pravrājanaṃ tathā); and bound by his pledge (niyuktaḥ), the king at that time granted those two boons unto her.
 </details>
 </details>
 
@@ -339,6 +375,12 @@ vaSaaNi* = for fourteen years; *varadaanikam* = in accord with the granting of b
 "O, excellent among men! I too, have been enjoined by our aforesaid father to live
 here in the forest for fourteen years, in accord iwth granting of boon."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By that father I too have been appointed here, O bull among men, to a residence in the forest for fourteen years (caturdaśa vane vāsaṃ varṣāṇi) arising from the granting of that boon (varadānikam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,6 +426,12 @@ accompanied by Lakshmana; *siitayaa cha* = and Seeta; *sthitaH* = standing firm;
 
 "I as such, without any rival, have come to this lonely forest accompanied by
 Lakshmana and Seetha in order to carry out the promise given by our father."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore I—having no rival (apratidvandvaḥ) and abiding steadfastly in my father’s truthful word (satya-vāde sthitaḥ pituḥ)—have come to this uninhabited forest accompanied by Lakṣmaṇa and by Sītā.
 </details>
 </details>
 
@@ -436,6 +484,12 @@ delay.
 promise, O Indra (the Lord of Celestials) among kings, by getting yourself anointed to the crown
 without any delay.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Your Highness too, O chief of kings, ought in the very same manner (tathety eva) to prove our father true to his word (pitaraṃ satya-vādinam) by accepting royal consecration without delay (kṣipram evābhiṣecanāt)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -484,6 +538,12 @@ father and happy mother.
 
 "O, Bharata! For my sake relieve the mighty king from his vow and make both our
 mother and fahter happy."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For my sake (mat-kṛte), O Bharata, release our lord the king from his debt (ṛṇān mocaya rājānam), satisfy our father who knows dharma, and gladden your mother as well (mātaraṃ cābhinandaya)!
 </details>
 </details>
 
@@ -535,6 +595,12 @@ while performing a sacrifice; *gayeSvena* = in a place called Gaya; *pitR^iin pr
 "My dear brother! Formerly, an illustrious king named Gaya, while perfoming a
 sacrifice in a place called Gaya in honour of his ancestors, chanted the following verse:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For there is heard an ancient Vedic adage (śrutiḥ), O dear brother, chanted in days of yore by the illustrious King Gaya while performing a sacrifice right at Gayā in honour of the ancestors (gayeṣv eva pitṝn prati):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -585,6 +651,12 @@ named; *pitra iti* = as "Putra"; *yaH* = he who; *paati* = delivers;
 "Since a son delivers his father from a place of torment (hell) called 'Put', he is
 named as 'Putra'- 'he who delivers his ancestors from all dangers'"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because a son rescues his father from the hell named Put (punnāmno narakād yasmāt pitaraṃ trāyate sutaḥ), therefore he is called a son (putra iti proktaḥ)—or else because a son protects his ancestors (pitṝn yat pāti vā sutaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -631,6 +703,12 @@ sacrifice)
 
 "To have many virtuous and learned sons is to be desired, since one, atleast among
 them, who is intimately connected will ocme to Gaya to perform a sacrifice."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Many sons endowed with noble virtues and wide scriptural learning ought to be desired (eṣṭavyā bahavaḥ putrā guṇavanto bahu-śrutāḥ), so that at least one among them all assembled together may journey to Gayā (api kaścid gayāṃ vrajet)!”
 </details>
 </details>
 
@@ -679,6 +757,12 @@ them, who is intimately connected will ocme to Gaya to perform a sacrifice."
 "O, prince! This is the conviction of all the royal sages. O, the efficient and the
 excellent of men! Therefore, save our father from hell.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus, O delight of kings, were all the royal sages (rājarṣayaḥ sarve) firmly convinced (pratītāḥ); therefore, O foremost of men, O lord, rescue our father from hell (trāhi pitaraṃ narakāt)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +809,12 @@ Shatrughna; *sarvaiH* = and all; *dvijaatibhiH saha* = the brahmanas;
 "O, the valiant Bharata! Go to Ayodhya along with Shatrughna and all the Brahmanas
 and give joy to the people there."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Go back to Ayodhyā, O heroic Bharata, accompanied by Śatrughna and together with all the twice-born Brāhmaṇas (saha sarvair dvijātibhiḥ), and gladden the subjects (prakṛtīr anurañjaya)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -770,6 +860,12 @@ and give joy to the people there."
 
 "O, King! I too, without delay, will proceed to Dandaka forest along with Seetha and
 Lakshaman."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without delay (avilambayan), I too, O king, shall enter the Daṇḍaka forest (pravekṣye daṇḍakāraṇyam), accompanied by these two alone—by Vaidehī and by Lakṣmaṇa.
 </details>
 </details>
 
@@ -826,6 +922,12 @@ daN^Dakaan; Dandaka forest; *sampraR^iSTaH* = with joy.
 "O, Bharata! You become the Lord of men. I will become the emperor of the wild
 beasts of the forest! Return now to the excellent city of Ayodhya full of joy and I also full of
 joy will enter Dankada Forest!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Do you yourself, O Bharata, become the king of men (rājā narāṇām), while I too shall be the sovereign king of the wild beasts of the forest (vanyānām aham api rājarāṇ mṛgāṇām); depart today joyfully for the foremost of cities, and I too shall joyfully enter the Daṇḍaka woods!
 </details>
 </details>
 
@@ -886,6 +988,12 @@ shadow; *kaanana drumaaNaam* = of forest-trees.
 "O, Bharata! Let the (royal) white umbrella provide a cool shadow for your head,
 repulsing the rays of sunlight. I will take shelter comoftably under the abundant shadow of these
 forest-trees."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let the royal white parasol (varṣatram), warding off the scorching rays of the sun (dinakara-bhāḥ prabādhamānam), cast cool shade over your head (chāyāṃ te karotu mūrdhni śītām), O Bharata, while I too shall happily resort to the surpassing shade of these forest trees (kānana-drumāṇām)!
 </details>
 </details>
 
@@ -957,6 +1065,12 @@ promise. Do not get disappointed."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर एळनॆय सर्ग पूर्णवायितु.॥107॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wise Śatrughna (śatrughnaḥ kuśala-matiḥ) is your companion, while Saumitri is known as my chief friend (mama viditaḥ pradhāna-mitram); let all four of us foremost sons (catvāras tanaya-varā vayam), O Bharata, establish our lord the king in truth (narendraṃ satyasthaṃ carāma)—do not give way to despondency (mā viṣādam)!”
 </details>
 </details>
 

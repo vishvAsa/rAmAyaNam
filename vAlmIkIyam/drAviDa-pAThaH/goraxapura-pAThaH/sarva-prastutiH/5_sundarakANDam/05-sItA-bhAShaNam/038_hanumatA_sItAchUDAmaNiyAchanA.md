@@ -74,6 +74,12 @@ among monkeys; *vaakya vishaaradaH* = who was skilled in speech; *shrutvaa* = af
 Hearing those words of Seetha, the eloquent Hanuma was very much pleased and spoke to
 Seetha (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that tiger among monkeys (kapi-śārdūlaḥ), gratified by that speech, having heard that statement, spoke [his] reply to Sītā, skilled as he was in speech (vākya-viśāradaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +119,12 @@ Seetha (as follows):
 
 "O Seetha, the beautiful princess! Whatever you spoke is befitting. It is in keeping
 with woman's nature and humility of a chaste women."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What has been spoken by you, O lady of auspicious appearance (śubha-darśane), is most fitting (yukta-rūpam), worthy of feminine nature (strī-svabhāvasya) and of the modesty (vinayasya) of chaste wives (sādhvīnām).
 </details>
 </details>
 
@@ -162,6 +174,12 @@ Yojanas.
 
 "It is indeed not fit for a woman to mount on my back and traverse an extensive ocean,
 which is having a width of one hundred yojanas."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Because of womanhood (strītvāt), you are not able to cross completely over (vyativartitum) the vast ocean stretching a hundred yojanas (śata-yojanam āyatam) by mounting upon me.
 </details>
 </details>
 
@@ -225,6 +243,14 @@ te* = of you; *patnyaaH* = the wife; *tasya mahaatmanaH* = of that high soled Ra
 touching any one else other then Rama is befitting of you, the wife of that high soled Rama. O princess!
 which other lady except you can speak of such sweet words?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** And as for the second reason (dvitīyaṃ kāraṇam) which you state, O lady endowed with modesty (vinayānvite)—‘I do not ought to have contact (saṃsargam) with anyone other than Rāma,’ O Jānakī—
+
+**5:** this, O lady, is worthy of you, the wife of that great-souled one (mahātmanaḥ); for what other woman apart from you, O lady, could utter such a speech?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -270,6 +296,12 @@ in front; *mama* = of me.
 
 "O princess! I can completely inform Rama of all that you have done and of all that you
 have spoken before me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Kākutstha [Rāma] shall hear everything without remainder (niravaśeṣataḥ)—whatever conduct (ceṣṭitam) was enacted by you, O lady, and whatever was spoken in my presence.
 </details>
 </details>
 
@@ -317,6 +349,12 @@ manasaa* = and with a mind moistened with affection; *etat* = this; *samudiirita
 "O princess! All this was told by me because of several reasons, being desirous of doing
 good to Rama ad with my mind moistened with affection towards him."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Out of many reasons, O lady, through a desire to do what is dear to Rāma (rāma-priya-cikīrṣayā), and with a mind melting with affection (sneha-praskanna-manasā), this was uttered by me.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -345,6 +383,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘दूसरा कारण यह है कि लङ्कामें प्रवेश करना सबके लिये अत्यन्त कठिन है । तीसरा कारण है, महासागरको पार करनेकी कठिनाई । इन सब कारणोंसे तथा अपनेमें आपको ले जानेकी शक्ति होनेसे मैंने ऐसा प्रस्ताव किया था ॥ ८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Because of Laṅkā’s being hard to enter (duṣpraveśatvāt), because of the great ocean’s being hard to cross (dustaratvāt), and because of my own capability (sāmarthyād ātmanaḥ), this was uttered by me.
 </details>
 </details>
 
@@ -410,6 +454,12 @@ and devotion; *ichchhami* = I wish; *tvaam samaanetum* = to carry you well; *ady
 "Because of my great affection and devotion towards you, I wish to carry you well now
 itself to Rama your hushand. These words were not spoken by me with any other motive."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I wish to reunite (samānetum) you this very day with the delighter of the Raghus (raghu-nandinā); out of reverence and affection for my elder (guru-snehena) and out of devotion (bhaktyā), and not otherwise, was that spoken.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -455,6 +505,12 @@ not willing; *yaatam* = to go; *mayaa saartham* = with me; *tvam* = you; *prayac
 
 "O faultless Seetha! If you are not willing to go with me, give me a token of remembrance
 which Rama can recognise."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If you do not feel able (notsahase) to go along with me, O blameless lady (anindite), grant a token of recognition (abhijñānam) by which Rāghava will surely know.
 </details>
 </details>
 
@@ -508,6 +564,12 @@ thing; *abhiJNaanam* = as a token of remembrance; *mama priyam* = to my beloved 
 Hearing Hanuma's words, Seetha like the daughter of a god, slowly spoke the following
 words, strung together with alphabets of tears: "You tell this (following) excellent thing as a token
 of remembrance to my beloved husband."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Hanumān, Sītā, resembling a daughter of the gods (sura-sutopamā), spoke gentle words whose syllables were choked with tears (bāṣpa-pragrathitākṣaram):
 </details>
 </details>
 
@@ -586,6 +648,16 @@ with roots fruits and water. In that place, while we were residing in a hermitag
 long ago, we were strolling in water in parts of groves with various kinds of flowers of perfume in
 that hillock. Your thereupon became wet and sat at my proximity."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “You should tell my beloved (mama priyam) this supreme token of recognition (śreṣṭham abhijñānam): at the northeastern foothill (pāde pūrvottare) of Mount Citrakūṭa, in that spot,
+
+**13:** while I dwelt in the ascetics’ hermitage (tāpasāśrama-vāsinyāḥ) in that region frequented by perfected beings (siddhāśrite deśe), rich in roots, fruits, and water (prājya-mūla-phalodake), not far from the Mandākinī,
+
+**14:** having sported in the groves of its pleasure-woods (upavana-khaṇḍeṣu), fragrant with manifold flowers, you, wet in the water (salile klinnaḥ), sat down upon my lap (mamāṅke samupāviśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -663,6 +735,14 @@ crow pariliiyate = was hiding; *tatraiva* = there only; *saH* = that; *balibhoja
 "Pecking me again and again, the crow was hiding there only. That crow, yearning for
 food, did not resig from meat."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** Then a crow intent upon flesh (māṃsa-samāyuktaḥ) pecked about with its beak (paryatuṇḍayat); lifting up a clod of earth (loṣṭam udyamya), I tried to ward off that crow.
+
+**16:** Tearing at me (dārayan), that crow lurked right there (tatraiva parilīyate), nor did that oblation-eater (bali-bhojanaḥ), greedy for food (bhakṣārthī), desist from my flesh.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -711,6 +791,12 @@ _________________
 
 "While I was angry with that bird, my skirt was slipping and I was pulling its string
 (so as to tighten it). I was seen by you then."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And as I, enraged at the bird (kruddhāyāṃ mayi pakṣiṇe), was pulling off my girdle-cord (utkarṣantyāṃ ca raśanām) and my garment was slipping down (sraṃsamāne ca vasane), I was then seen by you.
 </details>
 </details>
 
@@ -761,6 +847,12 @@ for food; *upaagataa* = I sought shelter; *tvaam* = with you.
 "Moved by anger, I felt abashed for being laughed at by you. Torn down by the crow, which
 was yearning for food, I sought shelter with you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Laughed at by you (tvayā vihasitā), angry and thoroughly abashed (saṃlajjitā) then, torn by the crow greedy for food (bhakṣya-gṛddhena kākena), I approached you.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -810,6 +902,12 @@ delighted.
 "Feeling tired, I again settled on your lap. As though angry, I was consoled by you and
 I was fully delighted."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, exhausted (śrāntā), I entered the lap of you who were seated (āsīnasya tavāviśam); as I remained angry, I was fondly consoled (parisāntvitā) by you, who were delighted.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -855,6 +953,12 @@ having my eyes; *parimaarjatii* = being wiped; *mandam* = slowly; *aham* = I;
 
 "Slowly wiping my eyes, my face filled with tears, I was seen by you, O Lord, as having
 been annoyed by the crow."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With my face filled with tears (bāṣpa-pūrṇa-mukhī), slowly wiping both my eyes (cakṣuṣī parimārjatī), I was noticed by you, O lord, provoked to anger by the crow (vāyasena prakopitā).
 </details>
 </details>
 
@@ -905,6 +1009,12 @@ prasuptaH* = slept; mama; *aN^ke* = in my arms.
 "I even slept for a long time on Rama's lap because of my fatigue. In his turn, Rama
 the elder brother of Bharata, slept in my arms."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And from exhaustion (pariśramāt), alas, I slept for a long time on Rāghava’s lap (rāghavāṅke); and in turn (paryāyeṇa), Bharata’s elder brother fell fast asleep on my lap.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -931,6 +1041,12 @@ the elder brother of Bharata, slept in my arms."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदाद बळिक पुनः आ कागॆयु अल्लिगॆ हारि बन्दु कुळितुकॊण्डितु. स्वल्प हॊत्तु श्रीरामनु मडिलल्लि मलगिकॊण्डिद्दाग आ कागॆयु वेगवागि नन्नन्नु समीपिसि, कालुगुरुगळिन्द नन्न ऎदॆयन्नु गायगॊळिसितु. ॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that crow came right back there again; suddenly approaching me after I had awakened from sleep (supta-prabuddhām) and risen from Rāghava’s lap, the crow tore me between the breasts (stanāntare).
 </details>
 </details>
 
@@ -978,6 +1094,12 @@ up; *punaH punaH* = again and again; *maam vidadaara* = tore me up; *bhR^isham*
 "Meanwhile, the same crow appeared there. Descending all of a sudden, the crow clawed
 me at the space between the breasts, even as I awoke from my sleep and rose from the lap of Rama. Flying
 up again, it tore me up a lot."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, flying up again and again (punaḥ punar athotpatya), it tore me severely (vidadāra sa māṃ bhṛśam); thereupon Rāma was roused (samutthitaḥ) by the shed drops of blood (śoṇita-bindubhiḥ).
 </details>
 </details>
 
@@ -1032,6 +1154,12 @@ of enemies; *sukha suptaH* = who was in a pleasant slumber; *bodhitaH* = was wok
 the annihilator of enemies, who was in a pleasant slumber, was woken up by that crow and by me who was
 grievously tormented by the crow."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing me then pecked upon the breasts (vitunnāṃ stanayoḥ), that mighty-armed one (mahā-bāhuḥ), enraged like a venomous serpent (āśīviṣa iva kruddhaḥ), hissing, spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1079,6 +1207,12 @@ tadaa* = then; *shvasan* = hissing; *kruddhah ashiiviSaiva* = like an angry serp
 
 "That long-armed Rama, seeing me pierced violently on the breasts, then spoke the following
 words, hissing like an angry serpant.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘By whom has the space between your breasts (stanāntaram) been wounded, O you whose thighs resemble an elephant’s trunk (nāga-nāsoru)? Who is sporting with an angry five-hooded serpent (pañca-vaktreṇa bhoginā)?’
 </details>
 </details>
 
@@ -1130,6 +1264,12 @@ serpent; *saroSeNa* = filled with fury?
 "O Seetha the round-thighed woman! Who has wounded the space between your breasts? who
 is playing with a fire-faced serpent filled with fury?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Glancing around (vīkṣamāṇaḥ), he then beheld (samavaikṣata) that crow standing facing right toward me with sharp, blood-stained claws (nakhaiḥ sa-rudhirais tīkṣṇaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1179,6 +1319,12 @@ me alone.
 'Then, throwing a glance around, Rama saw that crow with its sharp claws moistened iwth
 blood and sitting in front of me alone."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That crow, foremost of flying creatures (patatāṃ varaḥ), was reportedly the son of Śakra [Indra] (putraḥ kila sa śakrasya); equal to the wind in his speed (pavanasya gatau samaḥ), he swiftly entered a cleft in the earth (dharāntaraṃ gataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1227,6 +1373,12 @@ celestials; *dharaantarayataH* = residing; among the mountains; *gatau* = and in
 
 "That crow, the best among birds, seems to be the son of Indra the Lord of celestials,
 staying in mountains and moving with a peed equal to the wind."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the mighty-armed one (mahā-bāhuḥ), foremost of the wise (matimatāṃ varaḥ), with eyes rolling in wrath (kopa-saṃvartitekṣaṇaḥ), formed a fierce resolve (krūrāṃ matim) against that crow.
 </details>
 </details>
 
@@ -1278,6 +1430,12 @@ of that ferocious cow.
 "Then, the long-armed Rama, the best among wise men, swirling his eyes in anger, made
 a resolve in the matter of that ferocious crow."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking [a blade] from the mat of darbha grass (darbha-saṃstarād gṛhya), he joined it with the missile of Brahmā (brahmaṇo ’streṇa yojayat); like the blazing fire of universal dissolution (dīpta iva kālāgniḥ), it flamed up facing the bird (dvijam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1327,6 +1485,12 @@ the world; *jajvaala* = flared up; *dvijam abhimukham* = in front of that bird.
 "Taking a blade of Kusa grass from his bed ( made of Kusa grass), Rama employed it to
 work with Brahma's missile (a mythical weapon which deals with infallible destruction). That blazing
 shoot of grass, resembling a fire destroying the world, flared up in front of that bird."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He hurled that blazing blade of darbha grass (pradīptaṃ darbham) toward that crow; and thereupon that darbha grass pursued (anujagāma ha) the crow across the sky.
 </details>
 </details>
 
@@ -1378,6 +1542,12 @@ ha* = chased; *tam vaayasam* = that crow; *ambare* = in the sky.
 "As Rama threw that blazing blade of Kusa grass towards that crow, that blade of grass
 went chasing that crow in the sky."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pursued (anusṛṣṭaḥ) then, the crow betook himself to manifold courses (vividhāṃ gatim); desirous of protection (trāṇa-kāmaḥ), he wandered through this entire world.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1427,6 +1597,12 @@ chased; *jagaama* = wnet; *vividhaam* = in many; *gatim* = a way; *traaNa kaamaH
 "Then, while that blade of grass came chasing, that crow went flying in many a way. Seeking
 protection, it roamed all over the world."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Forsaken (parityaktaḥ) both by his father and by all the supreme sages (sarvaiś ca paramarṣibhiḥ), having wandered round the three worlds (trīṃl lokān samparikramya), he went for refuge to him [Rāma] alone (tam eva śaraṇaṃ gataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1454,6 +1630,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘रघुनाथजी शरणागतवत्सल हैं । उनकी शरणमें आकर जब वह पृथ्वीपर गिर पड़ा, तब उन्हें उसपर दया आ गयी; अतः वधके योग्य होनेपर भी उस कौएको उन्होंने मारा नहीं, उबारा ॥ ३३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though he deserved death (vadhārham api), Kākutstha, the true protector of refugees (śaraṇyaḥ), out of compassion (kṛpayā) protected him who had come for refuge (śaraṇāgatam) and fallen upon the ground.
 </details>
 </details>
 
@@ -1519,6 +1701,12 @@ for protection; *vadhaarhamapi* = even though it was apt to be killed.
 "That Rama, who affords protection, was compassionate and protected that crow, which
 fell on the ground (in salutation to Rama) and sought for protection, eventhough it was apt to be killed."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To him who was utterly exhausted (paridyūnam), pallid (vivarṇam), and falling down, he spoke: ‘The missile of Brahmā (brāhmam astram) cannot be made vain (mogham); therefore let it be stated [what it should strike]!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1549,6 +1737,12 @@ _________________
 
 ‘फिर उसकी सम्मतिके अनुसार श्रीरामने उस अस्त्रसे उस कौएकी दाहिनी आँख नष्ट कर दी । इस प्रकार दायाँ नेत्र देकर वह अपने प्राण बचा सका ॥ ३५ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then he destroyed the right eye (akṣi dakṣiṇam) of that crow; and having given up his right eye (dattvā tu dakṣiṇaṃ netram), he was preserved in respect of his vital breaths (prāṇebhyaḥ parirakṣitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1570,6 +1764,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘तदनन्तर दशरथनन्दन राजा रामको नमस्कार करके उन वीरशिरोमणिसे विदा लेकर वह अपने निवासस्थानको चला गया ॥ ३६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed in homage (namaskṛtvā) to Rāma and to King Daśaratha, dismissed by that hero (visṛṣṭas tena vīreṇa), he returned to his own abode (svam ālayam).
 </details>
 </details>
 
@@ -1633,6 +1833,12 @@ Thereafter, that crow said "Let your arrow shoot my right eye." Then that blade 
 grass shooted the right eye of that crow. By giving away its right eye in that way, the crow saved its
 life."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For my sake (mat-kṛte), the missile of Brahmā (brahmāstram) was discharged even against a mere crow (kāka-mātre ’pi); why then, O lord of the earth (mahī-pate), do you pardon him who abducted me from you?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1675,6 +1881,12 @@ svam* = its own; *aalayam* = abode.
 
 "After offering salutations to Rama and King Dasaratha and being discharged by that valiant
 Rama, the crow returned to its own abode."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore show compassion full of great energy (mahotsāhāṃ kṛpām) toward me, O bull among men (nararṣabha); though having a protector through you (tvayā nāthavatī), O lord, I am seen as though protectorless (anāthā iva).
 </details>
 </details>
 
@@ -1725,6 +1937,12 @@ kasmaat* = why; *kSamase* = are you forgiving; *tam* = him; *yaH* = who;
 "O lord of the earth! For my sake you hurled a Brahma's missile even at a crow. Why are
 you forgiving the one who has taken me away from you?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Compassion (ānṛśaṃsyam) is the supreme dharma (paro dharmaḥ)’—this was heard by me from you yourself; I know you to be of great valor (mahā-vīryam), of great energy, and of great strength,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1774,6 +1992,12 @@ _________________
 "O Rama the best among men! You, with great strength, annihilate the enemy and bestow
 your mercy on me. O Lord! She who has a protector in you, actually looks like one without any protector."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+boundless in extent (apāra-vāram), imperturbable (akṣobhyam), resembling the ocean in depth (gāmbhīryāt sāgaropamam), the lord of the earth together with its oceans (sa-samudrāyā dharaṇyāḥ), equal to Vāsava [Indra].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1801,6 +2025,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निन्न गुणगळू, कर्मगळू दिव्यवू अनन्तवू आगिवॆ. अवु ऊहॆगू निलुकदु. निन्नन्नु यारू क्षोभॆगॊळिसलाररु. गाम्भीर्यदल्लि समुद्रदन्तॆ इरुववनु. समुद्रगळिन्द आवृतवाद भूमण्डलक्कॆ ऒडॆयनु. ऐश्वर्यदल्लि देवेन्द्रनिगॆ समाननु.॥41॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Being thus the foremost of knowers of missiles (astra-vidāṃ śreṣṭhaḥ), powerful and endowed with courage (sattvavān api), why do you not employ your missile against the rākṣasas (kimartham astraṃ rakṣaḥsu na yojayasi), O Rāghava?’
 </details>
 </details>
 
@@ -1849,6 +2079,12 @@ mahotsaaham* = a great energy; *mahaabalam* = and a great strength; *apaarapaara
 prowess, a great energy, and a great strength. I know your non-acquiescence, imperturbability, profoundness
 like an ocean, as Lord of the earth including the oceans and as equal to Indra the Lord of celestials."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Neither nāgas nor gandharvas, nor gods nor the hosts of Maruts (marud-gaṇāḥ), are able to withstand (pratisamīhitum) the onslaught of Rāma in battle (rāmasya samare vegam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1877,6 +2113,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘उन परम पराक्रमी श्रीरामके हृदयमें यदि मेरे लिये कुछ व्याकुलता है तो वे अपने तीखे सायकोंसे इन राक्षसोंका संहार क्यों नहीं कर डालते? ॥ ४३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If there is perchance any eager regard (sambhramaḥ) for me in that valorous one (tasya vīryavataḥ), why does he not bring the rākṣasas to destruction (kṣayaṃ nayati) with sharp arrows?
 </details>
 </details>
 
@@ -1922,6 +2164,12 @@ storm-gods; *na* = are not capable.
 
 "Neither the serpent-demons, nor the divine musicians nor the demons nor the storm-gods
 are able to resist the onrush of Rama in battle."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Or why, taking his brother’s command (bhrātur ādeśam ādāya), does the heroic Lakṣmaṇa, scorcher of foes (paraṃtapaḥ) and of great strength, for what reason (kasya hetoḥ) not rescue me?
 </details>
 </details>
 
@@ -1987,6 +2235,12 @@ his sharp arrows?
 "If the valiant Rama has any haste in my case, why does he not destroy the demons with
 his sharp arrows?!
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If those two tigers among men (puruṣa-vyāghrau), equal in splendor to Wind and Indra (vāyv-indra-sama-tejasau) and unassailable even by the gods (surāṇām api durdharṣau), [are such,] why do they disregard me (mām upekṣataḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2015,6 +2269,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘निःसंदेह मेरा ही कोई महान् पाप उदित हुआ है, जिससे वे दोनों शत्रुसंतापी वीर मेरा उद्धार करनेमें समर्थ होते हुए भी मुझपर कृपादृष्टि नहीं कर रहे हैं’ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely some great misdeed of my very own (mamaiva duṣkṛtaṃ kiṃcin mahat) exists—there is no doubt (na saṃśayaḥ)—inasmuch as those two scorchers of foes, though capable (samarthāv api), do not look after me (nāvekṣete)!”
 </details>
 </details>
 
@@ -2058,6 +2318,12 @@ men; Rama and Lakshman; *vaayvagni samtejasau* = with a sharpness equal to that 
 
 Those two tigers among men, Rama and Lakshmana, with a sharpness equal to that of wind
 and fire, even if they are unconquerable by demons too, why are they neglecting me?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard Vaidehī’s piteous speech (vacanaṃ karuṇam) spoken with tears (sāśru bhāṣitam), Hanumān of great splendor, leader of monkey troops (hari-yūthapaḥ), then spoke:
 </details>
 </details>
 
@@ -2124,6 +2390,12 @@ not seeing; *maam* = me.
 "There is not doubt that I would have committed a great sin, for which reason those two
 brothers Rama and Lakshmana the tormentators of enemies, even when capable , are neglecting me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rāma is turned away from all else through grief for you (tvac-choka-vimukhaḥ), O lady—by truth I swear to you (satyena te śape); and when Rāma is overwhelmed by sorrow (duḥkhābhipanne), Lakṣmaṇa is sorely tormented (paritapyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2152,6 +2424,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘किसी तरह आपका दर्शन हो गया । अब शोक करनेका अवसर नहीं है । शोभने! इसी घड़ीसे आप अपने दुःखोंका अन्त होता देखेंगी ॥ ४९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Somehow (kathaṃcit) your ladyship has been seen; this is no time to lament (na kālaḥ pariśocitum); from this very moment (imaṃ muhūrtam) you shall behold the end of your sorrows (duḥkhānām antam), O lovely lady.
 </details>
 </details>
 
@@ -2217,6 +2495,12 @@ by grief; *lakSmaNaH cha* = Lakshmana too; *paritapyate* = is tormented (by grie
 "O Seetha! Rama has grown averse to everything else, caused by grief towards you. I swear
 it to you by truth. When Rama is overpowered by grief; Lakshmana too gets tormented by grief."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Both those tigers among men (puruṣa-vyāghrau), princes of great strength, filled with ardor through news of seeing you (tvad-darśana-kṛtotsāhau), shall reduce the worlds [of the rākṣasas] to ashes (lokān bhasmīkariṣyataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2245,6 +2529,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘विशाललोचने! रघुनाथजी समराङ्गणमें क्रूरता प्रकट करनेवाले रावणको उसके बन्धु-बान्धवोंसहित मारकर आपको अपनी पुरीमें ले जायँगे ॥ ५१ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And having slain in battle the cruel Rāvaṇa together with his kinsmen (saha-bāndhavam), Rāghava will lead you back to his own city (svāṃ purīṃ prati neṣyati), O large-eyed lady (viśālākṣi).
 </details>
 </details>
 
@@ -2309,6 +2599,12 @@ time to lament. Your will see the end of your sorrow within a short time."
 "Those two mighty princes, the excellent among men, are eager to see you and they will
 reduce Lanka to ashes."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speak whatever Rāghava should be told (yad rāghavo vācyaḥ), and Lakṣmaṇa of great strength, or radiant Sugrīva, or the monkeys who are assembled (harayo vā samāgatāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2359,6 +2655,12 @@ _________________
 
 "O large-eyed Seetha! Killing the cruel Ravana along with his relatives in battle, Rama
 will take you back to his own city."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And when he had spoken thus (ity uktavati tasmin), Sītā then spoke again: “He whom high-minded Kausalyā (kausalyā manasvinī) bore as the supporter of the worlds (loka-bhartāram)—
 </details>
 </details>
 
@@ -2584,6 +2886,28 @@ Dasaratha, my father-in-law, he is his replica a beloved and the best prince."
 "Lakshmana, the younger brother of Rama is the one who is dearer to me always. That energetic
 Lakshmana carries out well, whatever load of work is entrusted to him"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**54:** on my behalf (mamārthe) inquire after his welfare (sukhaṃ pṛccha) and bow to him with your head (śirasā cābhivādaya); and [as for him who renounced] garlands, all jewels (sarva-ratnāni), and beloved noble women (varāṅganāḥ),
+
+**55:** and sovereignty hard to obtain (aiśvaryaṃ durlabham) even on the wide earth, having honored and propitiated (sammānyābhiprasādya ca) his father and mother,
+
+**56:** he who went forth into exile after Rāma (anupravrajito rāmam), through whom Sumitrā is blessed with a noble son (su-prajāḥ), righteous-souled (dharmātmā), having abandoned supreme happiness (tyaktvā sukham anuttamam) out of loving devotion (ānukūlyena),
+
+**57:** the lion-shouldered (siṃha-skandhaḥ), mighty-armed, high-minded one of pleasing aspect (priya-darśanaḥ) who follows Kākutstha, guarding his brother in the forest (bhrātaraṃ pālayan vane),
+
+**58:** who behaves toward Rāma as toward a father (pitṛvad vartate rāme) and treated me as a mother (mātṛvan māṃ samācarat)—that heroic Lakṣmaṇa did not know (na tu māṃ veda) that I was being carried off then.
+
+**59:** Attentive to elders (vṛddhopasevī), endowed with auspiciousness (lakṣmīvān), capable yet not given to much speaking (na bahu-bhāṣitā), the foremost of those dear to the prince (rājaputra-priya-śreṣṭhaḥ), resembling my father-in-law [Daśaratha],
+
+**60:** Lakṣmaṇa, Rāma’s brother, is ever dearer [to him] than I myself (mattaḥ priyataraḥ); and whatever yoke of duty (dhuri yasyām) he is appointed to, that the valorous one bears (tām udvahati vīryavān).
+
+**61:** Beholding whom, Rāghava did not even miss his departed noble father (vṛttam āryam anusmarat)—he should be greeted with inquiries after his welfare (kuśalaṃ vaktavyaḥ) on my behalf at my word.
+
+**62:** Lakṣmaṇa, ever gentle (mṛdur nityam), pure, skillful (śucir dakṣaḥ), and dear to Rāma, [should be addressed] in such a way, O best of monkeys (vānara-śreṣṭha), that he may become the destroyer of my sorrow (duḥkha-kṣaya-karo bhavet).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2613,6 +2937,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वानरयूथपते! अधिक क्या कहूँ? जिस तरह यह कार्य सिद्ध हो सके, वही उपाय तुम्हें करना चाहिये । इस विषयमें तुम्हीं प्रमाण हो—इसका सारा भार तुम्हारे ही ऊपर है । तुम्हारे प्रोत्साहन देनेसे ही श्रीरघुनाथजी मेरे उद्धारके लिये प्रयत्नशील हो सकते हैं ॥ ६३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You are the chief authority (tvam pramāṇam) in accomplishing this task (asmin kārya-nirvāhe), O leader of monkey troops; through your enterprise (tvat-samārambhāt), Rāghava will become intent on exertion (yatna-paraḥ) for me.
 </details>
 </details>
 
@@ -2658,6 +2988,12 @@ _________________
 "Seeing whom, Rama ceases to recollect his deceased father, that Lakshmana is to be asked
 about his well-being, as my word and on my behalf."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And you should speak this again and again (punaḥ punaḥ) to my lord, the heroic Rāma: ‘I shall sustain my life (jīvitaṃ dhārayiṣyāmi) for one month (māsam), O son of Daśaratha.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2680,6 +3016,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘वीर! पापाचारी रावणने मुझे कैद कर रखा है । अतः राक्षसियोंद्वारा शठतापूर्वक मुझे बड़ी पीड़ा दी जाती है । जैसे भगवान् विष्णुने इन्द्रकी लक्ष्मीका पातालसे उद्धार किया था, उसी प्रकार आप यहाँसे मेरा उद्धार करें’ ॥ ६५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beyond a month (ūrdhvaṃ māsāt) I shall not live—by truth I tell you (satyenāhaṃ bravīmi te); you ought to rescue me, O hero, held captive through deceit (nikṛtyā) by Rāvaṇa of sinful deeds, as [Nārāyaṇa rescued] Kauśikī from Pātāla (pātālād iva kauśikīm).’”
 </details>
 </details>
 
@@ -2748,6 +3090,12 @@ me naatham* = my lord; *shuuram* = and the hero.
 "Depending on your effort, Rama will be more active with his effort the following words
 again and again to Rama, my Lord and the hero:"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having untied (muktvā) the divine, auspicious crest-jewel (divyaṃ cūḍāmaṇiṃ śubham) that was tied in her garment (vastra-gatam), Sītā gave it to Hanumān, saying, “It is to be given to Rāghava (pradeyo rāghavāya).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2797,6 +3145,12 @@ _________________
 "O Rama! I shall hold my life for a month. I cannot survive after a month I am telling
 you the truth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having received (pratigṛhya) that peerless jewel-gem (maṇi-ratnam anuttamam), the hero then fitted it upon his finger (aṅgulyā yojayāmāsa), for his arm was not suited for it (na hy asya prābhavad bhujaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2825,6 +3179,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वह मणिरत्न लेकर कपिवर हनुमान् ने सीताको प्रणाम किया और उनकी प्रदक्षिणा करके वे विनीतभावसे उनके पास खड़े हो गये ॥ ६८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having received the jewel-gem, bowed in salutation (abhivādya ca), and circumambulated Sītā clockwise (sītāṃ pradakṣiṇaṃ kṛtvā), the best of monkeys stood bowed at her side (praṇataḥ pārśvataḥ sthitaḥ).
 </details>
 </details>
 
@@ -2892,6 +3252,12 @@ her garment; *siitaa* = Seetha; *dadau* = gave (it); *hanumate* = to Hanuma;
 Then, untying the bright devine jewel for her head tied in her garment, Seetha gave it
 to Hanuma, saying that it might be handed over to Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with great joy (harṣeṇa mahatā yuktaḥ) born from beholding Sītā (sītā-darśana-jena), he went with his heart (hṛdayena gataḥ) to Rāma and to Lakṣmaṇa endowed with auspicious marks (sa-lakṣaṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2955,6 +3321,12 @@ his arm (eventhough he had assumed his former tiny form), was not fitting to it 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि मूवत्तॆण्टनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having taken up (upagṛhya) that priceless best of jewels (maṇi-varaṃ mahārham), preserved by the daughter of King Janaka through her power (prabhāvāt), he—like a lordly mountain shaken by the wind and then freed from it (girivara-pavanāvadhūta-muktaḥ)—with gladdened mind (sukhita-manāḥ) set about his return journey (pratisaṃkramaṃ prapede).
 </details>
 </details>
 

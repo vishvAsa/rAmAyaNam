@@ -104,6 +104,14 @@ wood; *upashobhitam* = splendid; *paN^duraiH grihaiH* = with white houses; *abhr
 That Rama went through the royal passage which was incensed with aloe wood. That royal
 street was splendid with white houses resembling clouds.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Mounting his chariot, his heart gladdened by throngs of joyful friends, that illustrious Rāma set forth along the thoroughfare, which was arrayed with pennants and banner-staffs and perfumed with the smoke of precious aloe-wood (aguru).
+
+**2:** Possessed of radiant fortune (śrīmān), he beheld the city teeming with people of every walk of life and resplendent with gleaming white mansions that resembled banks of clouds.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -195,6 +203,18 @@ Rama saw that royal route like divine passage in heaven. All the road junctions 
 were regularly worshipped with yoghurt, unbroken rice, clarified butter, fried grain, incense, aloe
 and sandal and all types of garlands and perfumes.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** Rāma rode down the very center of the royal highway (rājamārgam), which was fragrant with aloe-wood incense and lined with heaps of the choicest sandalwood and dark aloe.
+
+**4:** It shone with stores of the finest perfumes, linen (kṣauma) and silken garments (kauśāmbara), unpierced pearls, and exquisite crystals.
+
+**5:** Wide and unobstructed, that supreme royal highway was strewn with diverse flowers and furnished with confections and foods of every kind, high and low.
+
+**6:** Like the lord of the gods (devapati) looking upon his celestial avenue in heaven, he beheld that royal highway honored with curds, unbroken auspicious grains (akṣata), clarified butter, parched grain (lāja), incense, aloe-wood, and sandal-paste.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,6 +266,12 @@ went; *sampuujyacha* = acknowledging; *sarvaanena* = all; *naraan* = people;
 Hearing the various blessing words spoken by his friends, he went acknowledging all those
 people suitably.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Along that avenue whose crossroads were ever worshiped with varied garlands and fragrant unguents, he rode on, listening to manifold benedictions (āśīrvādān) uttered aloud by his well-wishers.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -293,6 +319,12 @@ people suitably.
 
 "Get coronated today, take the path followed by your grandfathers and great grandfathers
 and rule the kingdom."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honoring all the people in return according to their dignity (yathārham), he proceeded as they cried: “Protected by you upon your consecration, follow from today onward the path practiced by your grandfathers and great-grandfathers!”
 </details>
 </details>
 
@@ -342,6 +374,12 @@ and rule the kingdom."
 "If Rama becomes king, we shall be more happy than when his father ruled and also when
 his grandfathers ruled.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Taking up from today that ancestral path now that you are being consecrated, guard us well! Just as we were cherished by your father and by all your forefathers, even more happily than that shall we all dwell when Rāma is king!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -390,6 +428,12 @@ enough; *paramaarthaiH* = of other concerns.
 "If we can see Rama going forth in the city after getting coronated today, it is enough
 of eating or other activities."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Enough for us today with food, and enough with the highest spiritual ends (paramārthaiḥ), if only we may behold Rāma coming forth established in the sovereignty of the realm!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -434,6 +478,12 @@ of unbounded spleadour.
 **अनुवादः**
 
 "There is no other dearer thing to us than coronation of Rama of unbounded splendour".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For nothing else at all shall be dearer to us than this—the consecration to royal sovereignty of Rāma of boundless splendor!”
 </details>
 </details>
 
@@ -483,6 +533,12 @@ of unbounded spleadour.
 Rama, though hearing of these good, words spoken by his friends about himself was passive
 and went in royal route.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing these and other auspicious speeches of his friends that magnified his glory, Rāma rode along the great highway in serene equanimity (udāsīnaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -528,6 +584,12 @@ naraH* = which man; *na shaknotihi* = was not able; *apaakrashhTum* = to turn ba
 
 Though Rama became distant, no one could turn back one's eyes and mind from him, the
 best of men.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even after Rāghava had passed by, not a single man could tear his mind or his two eyes away from that best of men.
 </details>
 </details>
 
@@ -595,6 +657,12 @@ classes; *vayasthaanam* = towards the aged; *tena* = hence; *te* = they; *anuvar
 Rama, the virtuous, had compassion towards all the four classes of men and towards the
 aged people. Hence, they were all devoted to him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indeed, whoever does not look upon Rāma, and whoever Rāma does not look upon, is condemned across all the worlds—even his own inner self (svātmā) reproaches him!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -628,6 +696,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजकुमार श्रीरामनु नाल्कु मार्गगळु सेरुव चौकगळन्नु, चैत्यवृक्षगळन्नु, मन्दिरगळन्नु बलपार्श्वक्कॆ बिट्टुकॊण्डु मुन्दॆ होगुत्ता अरमनॆय बळिगॆ बन्दनु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Keeping crossroads, temple avenues, sacred trees (caityān), and sanctuaries auspiciously to his right (pradakṣiṇam), the king's son journeyed onward.
 </details>
 </details>
 
@@ -663,6 +737,12 @@ towards them.
 
 Rama went by crossing road junction, god's paths, sacred trees and temples keeping his
 right side towards them.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Keeping crossroads, temple avenues, sacred trees (caityān), and sanctuaries auspiciously to his right (pradakṣiṇam), the king's son journeyed onward.
 </details>
 </details>
 
@@ -730,6 +810,16 @@ with blazing radiance like the palace of king of celestials on earth. All around
 various types turrets looking like Mount Kailasa, as group of clouds, as white heavenly cars touching
 the sky. There were royal houses named vardhamana which were adorned with a net of precious stones.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** Then he reached the royal palace (rājakulam), which shone with auspicious, manifold turret-peaks (prāsādaśṛṅgaiḥ) resembling banks of clouds and the summits of Mount Kailāsa.
+
+**18:** With its gleaming white aerial pavilions (vimānaiḥ) that seemed to screen the very sky, and its pleasure-mansions (vardhamānagṛhaiḥ) adorned with lattices of precious gems,
+
+**19:** that peerless palace upon the earth resembled the abode of Mahendra himself; blazing with royal splendor, the prince entered that residence of his father.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -774,6 +864,12 @@ with bows; *jagaama* = got; *apare* = other; *dve kakshhye* = two enclosures;
 
 Rama the best of men crossed with chariot three enclosures protected by men armed with
 bows and moved over the other two enclosures by foot.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having crossed three outer courtyards (kakṣyāḥ) guarded by bowmen while still borne by his chariot-horses, that best of men traversed the remaining two courtyards on foot (padātiḥ).
 </details>
 </details>
 
@@ -821,6 +917,12 @@ _________________
 **अनुवादः**
 
 That Rama passed over all the gates, sent all the people back and entered the palace.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed through all the courtyards, the son of Daśaratha dismissed his entire retinue and entered the inner royal apartments (śuddhāntaḥpuram).
 </details>
 </details>
 
@@ -885,6 +987,12 @@ his return as the ocean waits for raising of the moon.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि हदिनेळनॆय सर्ग पूर्णवायितु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that prince had entered his father's presence, all the joyous people outside awaited his coming forth once more, just as the lord of rivers—the ocean (saritpatiḥ)—awaits the rising of the moon.
 </details>
 </details>
 

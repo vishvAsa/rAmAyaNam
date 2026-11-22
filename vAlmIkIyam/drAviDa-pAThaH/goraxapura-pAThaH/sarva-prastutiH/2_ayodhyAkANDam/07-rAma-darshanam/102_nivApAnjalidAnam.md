@@ -63,6 +63,12 @@ kariSyati raajadharma* = "What will the discharge of royal duties amount; *me* =
 Hearing Rama's words, Bharata replied as follows: "What will the discharge of royal
 duties amount to me, who is outside of that code?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those piteous words spoken by Bharata concerning his father’s death (tāṃ śrutvā karuṇāṃ vācaṃ pitur maraṇa-saṃhitām bharatenoktām), Rāghava lost consciousness (rāghavo babhūva gata-cetanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +119,12 @@ the elder son is there; *kaniiyaan* = the younger son; *na bhavet* = cannot beco
 "O, the foremost of men! O, Majesty! It has been ever the established tradition in
 us that while the elder son is there, the younger one cannot become a king."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that harsh thunderbolt of speech uttered by Bharata, like the thunderbolt hurled in battle by Indra, the foe of the Dānavas (taṃ tu vajram ivotsṛṣṭam āhave dānavāriṇā vāg-vajraṃ bharatenoktam amanojñaṃ), that scorcher of foes (parantapaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -153,6 +165,12 @@ race; *naH* = of ours.
 
 "O, Rama! Therefore, come to the prosperous Ayodhya along with me and get anointed
 in kingdom for the welfare of our race."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—throwing up his arms, Rāma fell to the earth just like a tree in the forest with flowering crest cut down by an axe (pragṛhya bāhū rāmo vai puṣpitāgro yathā drumaḥ vane paraśunā kṛttas tathā bhuvi papāta ha).
 </details>
 </details>
 
@@ -195,6 +213,12 @@ conceded; *mama* = by me; *devatve* = as a godhead.
 "The king, whom people speak of as a human being and whose conduct is in conformity
 with righteousness and worldly prosperity, they declare as super- human, is conceded by me as a
 god-head."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma, the lord of the earth, fallen thus upon the earth like a sleeping elephant exhausted by battering a riverbank (tathā nipatitaṃ rāmaṃ jagatyāṃ jagatī-patim kūla-ghāta-pariśrāntaṃ prasuptam iva kuñjaram)—
 </details>
 </details>
 
@@ -244,6 +268,12 @@ has gone; *divam* = to heaven.
 Dasaratha, the revered one who was given to the performance of sacrifices and was honoured by the
 virtuous, has gone to heaven."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—his brothers, weeping together with Vaidehī, sprinkled that great archer, wasted on every side by grief, with water (bhrātaras te maheṣvāsaṃ sarvataḥ śoka-karśitam rudantaḥ saha vaidehyā siṣicuḥ salilena vai).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -283,6 +313,12 @@ and ascended; *tridivam* = to the most sacred heaven."
 
 "Hardly were you gone with Seetha and Lakshmana, than the king succumbed to
 misfortune and grief and ascended to the most sacred heaven."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Regaining consciousness and shedding tears from his eyes (sa tu saṃjñāṃ punar labdhvā netrābhyām āsram utsṛjan), Kākutstha began to speak many piteous words (upākrāmata kākutsthaḥ kṛpaṇaṃ bahu bhāṣitum).
 </details>
 </details>
 
@@ -327,6 +363,12 @@ libations of water.
 
 "Arise, O the Tiger among men! Let the traditional libations of water be offered to
 our father. Shatrughna and I have previously done it."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that his father, the lord of the earth, had gone to heaven (sa rāmaḥ svargataṃ śrutvā pitaraṃ pṛthivī-patim), the righteous-souled Rāma spoke to Bharata words fraught with righteousness (uvāca bharataṃ vākyaṃ dharmātmā dharma-saṃhitam):
 </details>
 </details>
 
@@ -373,6 +415,12 @@ our father. Shatrughna and I have previously done it."
 
 "O, Rama! It is said that the one given by an affectionate son becomes measureless
 and you undoubtedly are beloved to our father."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What shall I do in Ayodhyā now that my father has gone upon his destined course (kiṃ kariṣyāmy ayodhyāyāṃ tāte diṣṭāṃ gatiṃ gate)? Who will guard that Ayodhyā bereft of the best of kings (kas tāṃ rāja-varād dhīnām ayodhyāṃ pālayiṣyati)?
 </details>
 </details>
 
@@ -439,6 +487,12 @@ you, your father died."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नूर ऎरडनॆय सर्ग पूर्णवायितु.॥102॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What could have been done for that high-souled sire by me, ill-born as I am (kiṃ nu tasya mayā kāryaṃ durjātena mahātmanaḥ)—he who died through grief for me and was not even given his obsequies by me (yo mṛto mama śokena mayā cāpi na saṃskṛtaḥ)?
 </details>
 </details>
 

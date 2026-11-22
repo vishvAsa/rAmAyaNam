@@ -71,6 +71,12 @@ abudhyata* = in morning, again, got up [awoken.]
 Rama along with Soumitri is well revered by Sage Suteekhsna, spent that night there and awoken in the
 morning. [3-8-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored by Sutīkṣṇa, Rāma together with Saumitri passed the night (pariṇāmya niśām) there and awoke at dawn (prabhāte pratyabudhyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -146,6 +152,16 @@ Then they all, Vaidehi, Rama and Lakshmana, on worshipping sacred fire and deiti
 shelter of the sages in that forest and on seeing the dawning sun, they are reft of their blemishes,
 and then they approached Sage Suteekshna speaking this sentence gently. [3-8-3, 4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** Rising at the proper hour (yathā-kālam) together with Sītā, Rāghava bathed (upaspṛśya) with deliciously cool water fragrant with blue lotuses (utpala-gandhinā).
+
+**3:** Then in that forest which was the sanctuary of ascetics (tapasvi-śaraṇe vane), Vaidehī, Rāma, and Lakṣmaṇa duly worshipped the sacred fire and the gods at daybreak (kālyam).
+
+**4:** Beholding the rising sun (udayantaṃ dinakaram), cleansed of all taint (vigata-kalmaṣāḥ), they approached Sutīkṣṇa and spoke these gentle words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -190,6 +206,12 @@ puujitaaH* = by you, venerable one, venerated; *aa pR^icChaamaH* = we come, to a
 
 "We stayed here happily, oh, god, venerated by a venerable one like you, and here we come to ask your
 permission as we wish to journey on, as the sages are hastening us... [3-8-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We have rested happily (sukhoṣitāḥ sma), O venerable one, honored by you who are worthy of all honor; we now ask leave to depart (āpṛcchāmaḥ), for the sages hasten us (tvarayanti naḥ).
 </details>
 </details>
 
@@ -236,6 +258,12 @@ sages, entire, hermitage, habitats; *draSTum* = to see; *tvaraamahe* = we make h
 "We make haste to see the habitats of hermitages in their entirety, and even wish to see the sages with
 meritorious selves living in Dandaka forest... [3-8-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We are eager to behold the entire circle of hermitages (kṛtsnam āśrama-maṇḍalam) of the righteous-natured sages dwelling in the Daṇḍaka forest.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,6 +309,12 @@ icChaamaH* = permission, we aspire.
 
 "We wish to have your permission, and that of these eminent sages, who are ever virtuous, self-controlled
 by their ascesis, and who look like the veritable tongues of sacred fire... [3-8-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We wish to be granted leave (abhyanujñātum icchāmaḥ) together with these bulls among sages, ever steadfast in dharma, subdued by austerity, and resembling flameless fires (viśikhair iva pāvakaiḥ).
 </details>
 </details>
 
@@ -338,6 +372,14 @@ feet, venerated.
 attains wealth in an improper way with much glare..." saying so Rama with Seetha and Lakshmana venerated
 at the feet of that sage Suteekshna. [3-8-8, 9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “Before the sun of unbearable heat (aviṣahyātapaḥ) blazes overly fiercely—like a man devoid of noble lineage (anvaya-varjitaḥ) who has attained fortune arrived through unrighteous means (amārgeṇāgatāṃ lakṣmīm)—
+
+**9:** “—by then we wish to depart.” Having spoken thus, Rāghava together with Saumitri and Sītā bowed to the two feet of the sage.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -383,6 +425,12 @@ at the feet of that sage Suteekshna. [3-8-8, 9]
 That eminent sage lifted them that are touching his feet, embraced them tightly, and said this sentence
 in all his friendliness. [3-8-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raising up those two as they touched his feet, that bull among sages embraced them closely (gāḍham āśliṣya) and with tender affection spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -427,6 +475,12 @@ gacCha* = invulnerable, on way, you may go.
 
 "Proceed in an invulnerable way, Rama, along with Lakshmana, and with this Seetha while she follows
 you closely like a shadow... [3-8-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Follow a safe and auspicious path (ariṣṭaṃ panthānam), O Rāma, together with Saumitri and accompanied by this Sītā, who follows you like your own shadow (chāyayevānuvṛttayā)!
 </details>
 </details>
 
@@ -474,6 +528,12 @@ see.
 "See the pleasant thresholds of the hermitages of the dwellers in the forests of Dandaka, oh! Valiant
 one, whose souls are consecrated just by their ascesis... [3-8-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold, O hero, the delightful hermitage sites (āśrama-padam) of these ascetics dwelling in Daṇḍakāraṇya, whose souls have been purified by austerity (tapasā bhāvitātmanām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -498,6 +558,12 @@ one, whose souls are consecrated just by their ascesis... [3-8-2]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई प्रवासदल्लि नीवु साकष्टु फल-मूलगळिन्द युक्त हागू हूवुगळिन्द सुशोभित अनेक वनगळन्नु नोडुविरि. अल्लि उत्तम जिङ्कॆगळ गुम्पु सञ्चरिसुत्तिरबहुदु, पक्षिगळु शान्त भावदिन्द इरुवुदन्नु काणुविरि.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—and the blossoming forests abounding in plentiful fruits and roots (suprājya-phala-mūlāni), graced with auspicious herds of deer and tranquil flocks of birds (śānta-pakṣi-gaṇāni)—
 </details>
 </details>
 
@@ -526,6 +592,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अरळिद कमलगळिन्द शोभिसुत्तिरुव, स्वच्छवाद जलभरित हागू हंस कारण्डव मुन्ताद नीरु हक्किगळु व्यापिसिद अनेक सरोवरगळु, कल्याणिगळु कण्डु बरुववु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—and the ponds and lakes (taṭākāni sarāṃsi ca) with limpid waters, overspread with clusters of full-blown lotuses (phulla-paṅkaja-khaṇḍāni) and thronging with kāraṇḍava water-fowl.
 </details>
 </details>
 
@@ -572,6 +644,12 @@ araNyaani* = pleasant, forests; *drakSyase*= you can see.
 peaceful bird flocks... tranquil waters with spreading clusters of bloomed lotuses and water-birds in
 the pools and lakes... eye-pleasing rapids from mountains and you can see pleasant forests loaded with
 the hearty screams of precooks... [3-8-13, 14, 15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You shall behold mountain cascades (giri-prasravaṇāni) charming to the eye, and delightful woodlands resounding with the cries of peacocks (mayūrābhirutāni).
 </details>
 </details>
 
@@ -620,6 +698,12 @@ ca* = come, and go you may.
 "My dear Rama, you may go and Soumitri you too also may go... but come again towards this hermitage
 after seeing all of them... [3-8-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Set forth (gamyatām), my child! And you too, O Saumitri, proceed! Having beheld those hermitages, you must come back once again (punar evāgantavyam) to this hermitage.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -667,6 +751,12 @@ started on.
 Thus said by the sage, Rama in his turn said to him, "so be it..." and having performed circumambulations
 around the sage he started to journey on. [3-8-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, Kākutstha together with Lakṣmaṇa said, “So be it (tatheti),” circumambulated the sage clockwise (pradakṣiṇaṃ kṛtvā), and prepared to set forth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -711,6 +801,12 @@ around the sage he started to journey on. [3-8-17]
 
 Then the broad eyed Seetha gave auspicious quivers and bows to those brothers and then spotless swords
 too. [3-8-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then large-eyed Sītā (āyatekṣaṇā) handed to those two brothers their two auspicious quivers (tūṇī) and bows, and thereafter their two spotless swords (khaḍgau ca vimalau).
 </details>
 </details>
 
@@ -760,6 +856,12 @@ to go, exited.
 
 Both of those two Rama and Lakshmana tied their beautiful quivers well on their backs, and took the
 twangy bows and exited from that hermitage to go on their way. [3-8-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Binding on their two bright quivers and taking up their resonant bows (cāpe sasvane), both Rāma and Lakṣmaṇa stepped forth from the hermitage to depart.
 </details>
 </details>
 
@@ -820,6 +922,12 @@ wielding bows and swords, and along with Seetha. [3-8-20]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऎण्टनॆय सर्ग सम्पूर्णवायितु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Granted leave by the great sage, those two Rāghavas, endowed with beauty and bearing their bows and swords (dhṛta-cāpāsī), swiftly set forth together with Sītā.
 </details>
 </details>
 

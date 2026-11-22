@@ -68,6 +68,12 @@ Manthara.
 After hearing those words, Kaikeyi with her face burning with anger, had a long and
 hot sigh and spoke to Manthara as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, Kaikeyī, her face blazing with wrath (krodhena jvalitānanā), sighed a long, hot breath and spoke these words to Mantharā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +119,12 @@ shall make Rama to travel; *kshhipram* = quickly; *vanam* = to forest; *itaH*
 
 "Now itself, I shall send Rama quickly to forest. I shall get Bharata anointed for
 princely kingdom immediately."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today I shall swiftly dispatch Rāma hence into the forest, and today I shall swiftly have Bharata consecrated in the office of Prince Regent (yauvarājyena).
 </details>
 </details>
 
@@ -160,6 +172,12 @@ method; *sampasya* = see; *idam* = this; *idaaniim* = now.
 "O Manthara! What is the means by which Bharata will get the kingdom but Rama will
 not get it by any method. Think about it now."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflect carefully right now by what stratagem (kenopāyena) I may accomplish this, so that Bharata shall obtain the sovereignty and never Rāma by any means!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,6 +223,12 @@ thinker; *abraviit* = spoke; *idam* = these words; *kaikeyiim* = to Kaikeyi;
 
 After hearing her words, the sinful thinking Manthara, spoke thus to Kaikeyi to
 destroy Rama's benefit of kingdom.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by the queen, the evil-minded Mantharā (pāpadarśinī), seeking to obstruct Rāma's cause (rāmārtham upahiṃsantī), spoke these words to Kaikeyī:
 </details>
 </details>
 
@@ -252,6 +276,12 @@ shruuyataamcha* = let I be listened.
 "O Kaikeyi! I am very glad. I shall tell you the means by which your son Bharata
 only will get the kingdom. Listen to it!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Ah (hanta)! Behold now, O Kaikeyī, and hear my words—how your son Bharata alone (kevalam) shall obtain the kingdom!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,6 +322,12 @@ stated; *aatmaanam* = for your benefit; *na smarasi kim* = are you not remeberin
 "Oh, Kaikeyi! You desire to hear from me the means for your benefit. Have you
 forgotten about it or are you hiding, even if you have remembered it?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Why do you not remember, O Kaikeyī, or while remembering do you conceal (nigūhase) that matter spanning your own interest which, though often spoken by you, you now wish to hear from me?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -331,6 +367,12 @@ by me; *abhidhaasyaami* = I shall tell you; *shruuyataam* = let it be heard;
 
 "O the lady of charms, Kaikeyi! If you desire to hear this from my mouth, I shall
 tell you. Listen to me. Let it be acted upon after listening to me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If it is your desire (chandaḥ) to hear what is spoken by me, O graceful lady (vilāsini), then listen as I declare it; and having heard, let this be carried out!”
 </details>
 </details>
 
@@ -377,6 +419,12 @@ well laid bed; *abraviit* = and spoke; *idam* = these words.
 
 After hearing Manthara's words, Kaikeyi slightly rose from the well-laid bed and
 spoke the following :
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of Mantharā, Kaikeyī rose slightly (kiṃcid utthāya) from her well-spread couch (śayanāt svāstīrṇāt) and spoke these words:
 </details>
 </details>
 
@@ -428,6 +476,12 @@ trick.
 "O Manthara! Tell me the trick by which Bharata will get the kingdom and Rama will
 not get it under any circumstances."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Declare to me the stratagem, O Mantharā—by what means (kenopāyena) Bharata may obtain the kingdom, and never Rāma by any means!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -475,6 +529,12 @@ benefit.
 After hearing Kaikeyi's words, the sinful thinking, hunch backed Manthara, spoke
 thus, with an intention to destroy Rama's benefit of kingdom.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus then by the queen, the evil-minded Mantharā, seeking to strike down Rāma's cause, spoke these words to Kaikeyī:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -499,6 +559,12 @@ thus, with an intention to destroy Rama's benefit of kingdom.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवि! हिन्दॊम्मॆ देवासुर सङ्ग्रामद सन्दर्भ राजर्षिगळ जॊतॆगॆ निन्न पतियु निन्नन्नु जॊतॆगॆ करॆदुकॊण्डु देवेन्द्रन सहायक्कागि स्वर्गलोकक्कॆ होगिद्दनु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of old, in the war between the gods and the demons (devāsure yuddhe), your husband went forth together with royal sages, taking you along, to render aid to the king of the gods (devarājasya sāhyakṛt)—
 </details>
 </details>
 
@@ -570,6 +636,14 @@ forest of Dandaka."
 "That great demon famously called shambara, who had several magic effects, defeated
 all the celestials and conferred battle upon Devendra."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** betaking himself, O Kaikeyī, toward the southern quarter facing the Daṇḍaka country (dakṣiṇāṃ daṇḍakān prati), to the city renowned as Vaijayanta, where dwelt Timidhvaja.
+
+**13:** “That great demon of a hundred illusions (śatamāyo mahāsuraḥ), renowned as Śambara and unconquered by the hosts of gods, gave battle to Śakra.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -624,6 +698,12 @@ by arrows and also those who were sleeping at night."
 Comment : It is not a virtuous practice according to scriptures, to kill injured
 people and defenceless people sleeping at night. Demons do not follow such scriptures.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In that mighty battle, Rākṣasas violently dragged away (tarasāpāsya) the men who lay wounded and mangled (kṣatavikṣatān) and slew them as they slept at night.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -666,6 +746,12 @@ pieces; *shastraiaH* = with weapons; *asuraiH cha* = by demons.
 
 "Then, king Dasaratha fought a great battle there. With their weapons, demons made
 into pieces the long armed Dasaratha."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There King Daśaratha waged a mighty battle at that time, and the great-armed monarch was hacked to pieces (śakalīkṛtaḥ) by the Asuras with their weapons.
 </details>
 </details>
 
@@ -714,6 +800,12 @@ patiH* = your husband; *vikshhataH* = who was beaten; *shastraiH* = by weapons;
 "O Queen! You saved the life of your unconscious husband by taking him away from the
 battle field. There also, you again saved him, when beaten by demons with their weapons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having been borne away (apavāhya) from the battlefield by you, O queen, while unconscious (naṣṭacetanaḥ), and wounded by weapons there as well (tatrāpi), your husband was saved by you.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -761,6 +853,14 @@ said; *tena mahaatmanaa* = by that great souled Dasaratha; *tathaa iti* = let it
 "O Kaikeyi with auspicious appearance! Getting delighted, he gave two boons to you.
 Then, you said, " I shall ask you whenever I require them". He then agreed to it."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** Pleased thereby, he granted you two boons (dvau varau), O auspicious-featured lady; and that husband was told by you, O queen: ‘Whenever I may desire a boon—
+
+**18:** then shall I claim it, O lord!’—and ‘So be it!’ (tatheti) was spoken by that magnanimous king. I myself was ignorant of this, O queen; it was told to me of old by you yourself.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -803,6 +903,12 @@ anointment; *nigR^ihya* = by force.
 "O Queen! I do not know what had happened there. You yourself told this story
 previously to me. I am keeping this in my mind because of my friendship with you. Hence, you have
 to stop, by force, the arrangements being made for Rama's coronation."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Out of affection for you, this account has been held by me in my mind; curbing the preparations for Rāma's consecration (rāmābhiṣekasambhārān), turn them back!
 </details>
 </details>
 
@@ -850,6 +956,12 @@ exile; *chaturdasha varshhaaNi* = for fourteen years.
 "You ask your husband as two boons, anointing Bharata for princely kingdom and
 sending Rama to exile for fourteen years."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beg of your husband those two boons: the consecration of Bharata (bharatasyābhiṣecanam), and the banishment of Rāma (pravrājanaṃ ca rāmasya) for fourteen years.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -889,6 +1001,12 @@ your son; *prajaabhaavagatasnehaH* = will get intimate association in the people
 
 If you send Rama to forest for fourteen years, your son Bharata will get intimate
 association in the hearts of the people and will get stabilised in kingdom.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For when Rāma is banished to the forest for fourteen years, your son, having won the affection of the subjects' hearts (prajābhāvagatasnehaḥ), will become firmly established (sthiraḥ).
 </details>
 </details>
 
@@ -937,6 +1055,12 @@ clothes.
 Oh, kaikeyi! Now, enter the room of wrath as if angry with him and lie down on floor
 without any spread underneath and wearing soiled clothes.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering the chamber of wrath (krodhāgāram) today as though enraged, O daughter of Aśvapati, lie down upon the bare ground (anantarhitāyāṃ bhūmau), clad in soiled garments (malinavāsinī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -982,6 +1106,12 @@ abhibhaashhataaH* = nor talk; face to face; *enam* = to him.
 
 As soon as you see Dasaratha, be sorrowful and keep on weeping, without looking at
 him and without talking to him face to face.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Do not look up at him (mā smainaṃ pratyudīkṣethāḥ), nor speak to him; upon beholding the monarch, remain weeping on the bare earth, consumed by grief (śokalālasā).
 </details>
 </details>
 
@@ -1029,6 +1159,12 @@ even enter; *hutaashanam* = fire; *tvatkR^ite* = for your sake.
 You are always dear to your husband. I have no doubt about it. King Dasaratha will
 even jump into a fire for your sake.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You have ever been the beloved (dayitā) of your husband—of this I have no doubt; for your sake (tvatkṛte) the great king would even enter blazing fire (hutāśanam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1074,6 +1210,12 @@ krodhayitum* = of making you angry; *na* = not able; *diikshhitum* = to see;
 
 The king is not capable of making you angry. He is not even able to see you with
 anger. He will give up his life for your love.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He is incapable of angering you, nor can he bear to look upon you when you are enraged; to please you (tava priyārtham), the king would abandon even his very life-breaths (prāṇān api parityajet)!
 </details>
 </details>
 
@@ -1121,6 +1263,12 @@ strength.
 Oh, foolish one! The king will not be able to transgress your word. You realise your
 abundant strength.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lord of the earth has no power to transgress your word; O slow-natured lady (mandasvabhāve), recognize the power of your own conjugal fortune (saubhāgyabalam ātmanaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1166,6 +1314,12 @@ abundant strength.
 
 King Dasaratha may offer you diamonds, pearls, gold and various other precious
 stones. Do not care for them.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+King Daśaratha will offer you gems, pearls, gold, and manifold jewels (ratnāni vividhāni ca)—do not set your heart upon them (mā sma teṣu manaḥ kṛthāḥ)!
 </details>
 </details>
 
@@ -1215,6 +1369,12 @@ Oh, Kaikeyi, the great fortunate! you remind Dasaratha of those boons given by h
 to you in that battle between celestials and demons. See that your benefit does not get
 thwarted.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Remind him of those two boons that Daśaratha granted in the war between the gods and demons, O fortunate lady; let not that object slip past you (so 'rtho na tvā kramed ati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1260,6 +1420,12 @@ king steady; *vriNuyaaH* = ask; *imam varam* = this boon.
 
 Dasaratha himself will raise you from the floor and offer you the boon. Thus , after
 making him steady, you ask for this boon.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And when the scion of Raghu, lifting you up himself (svayam utthāpya), offers you the boon, bind the great king fast (vyavasthāpya mahārājam) and choose this boon:
 </details>
 </details>
 
@@ -1307,6 +1473,12 @@ for fourteen years; *bharataH kriyataam* = let Bharata be made; *raajaa* = as ki
 "Oh, king! send Rama to forest for fourteen years. Let Bharata be made as king of
 this earth".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Let Rāma be banished afar into the forest for nine years and five (nava varṣāṇi pañca ca), and let Bharata be made king upon the earth, O bull among monarchs (pārthivarṣabha)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1352,6 +1524,12 @@ to forest; *chaturdashavarshhaaNi* = for fourteen years; *te sutaH* = your son;
 
 Rama having been sent to forest for fourteen years, your son will stand firmly,
 having laid his roots and will stay in power for the remaining period.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For when Rāma is banished to the forest for fourteen years, your son, having grown up (rūḍhaḥ) and struck deep roots (kṛtamūlaś ca), will abide for the remainder of time (śeṣam).
 </details>
 </details>
 
@@ -1399,6 +1577,12 @@ benefits; *siddhyanti* = will be accomplished.
 Oh, Kaikeyi! Ask Dasaratha of sending Rama to forest also as a boon. Thus, your son
 will accomplish all the desired benefits.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, O queen, beg that boon—the banishment of Rāma; thus, O passionate lady (kāmini), all your son's purposes will be accomplished (setsyanti)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1441,6 +1625,12 @@ people; *tava* = your; *bharatascha* = Bharata; *bhavishhyati* = will become;
 
 Thus , by sending Rama to exile, he will not become amiable to people. Your Bharata
 will become king, after the enemies having been annihilated.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Banished thus, Rāma will become ‘non-Rāma’ (rāmo 'rāmo bhaviṣyati)—estranged from the people's delight—and Bharata, his foes vanished (gatāmitraḥ), will be your king.
 </details>
 </details>
 
@@ -1490,6 +1680,12 @@ manushhyaH* = having drawn people to his fold; *suhridbhiH* = and friends also;
 When Rama returns from forest, your wise son will accumulate friends and draw people
 to his fold, thus establishing roots himself.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By the time Rāma returns from the forest, your son will have struck firm roots both within and without (antarbahiś ca),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1531,6 +1727,12 @@ appropriate time; *te* = to you; *viita saadhvasaa* = after bequeathing fear;
 
 This is the appropriate time for you. Be fearless and by your insistence, make the
 king turn aside his effort to anoint Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+having won over the people (saṃgṛhītamanuṣyaś ca), self-possessed (ātmavān) together with his allies. Freed from fear (vītasādhvasā), I deem the time at hand with the king:
 </details>
 </details>
 
@@ -1591,6 +1793,14 @@ natured; *param vismayam gataa* = was very much surprised; *vaakyena* = by words
 
 Though of right thinking in nature, Kaikeyi was very much surprised to hear
 Manthara's words and like a small girl, got into a wrong path.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** curbing his resolve for Rāma's consecration (rāmābhiṣekasaṃkalpāt), turn him back!” Made to grasp ruin in the guise of advantage (anartham artharūpeṇa grāhitā) by her thus—
+
+**37:** —Kaikeyī, delighted and convinced (hṛṣṭā pratītā), spoke these words to Mantharā; for by the hunchback's speech, she had strayed onto a ruinous path like a young filly (kiśorīvotpathaṃ gatā).
 </details>
 </details>
 
@@ -1660,6 +1870,14 @@ being; *hitaishhiNii* = and wishing my benefit; *aham* = I;
 Oh, Manthara! you always show interest in my well being and wish for my benefit. But
 for you, I would not have been aware of the king's intentions.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**38:** Filled with supreme wonder (vismayaṃ prāpya param), Kaikeyī of peerless beauty said: “I do not slight your wisdom, O best of women who speak what is best (śreṣṭhe śreṣṭhābhidhāyini)!
+
+**39:** Upon the earth, among all hunchbacks (kubjānām), you are the foremost in decisive intelligence (buddhiniścaye); you alone are ever devoted to my interests and wish me well (hitaiṣiṇī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1709,6 +1927,12 @@ extremely dreadful; *tvam* = you; *priyadarshanaaH* = appear lovely;
 There are so many hunch backed persons in the world. Their bodily construction is
 very bad. They are crooked and dreadful. But you appear lovely, as a lotus flower bent by
 breeze.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without you, O Kubjā, I would never have comprehended (nāhaṃ samavabuddhyeyam) the king's design (rājñaś cikīrṣitam)! There are misshapen hunchbacks (duḥsaṃsthitāḥ kubjāḥ), crooked and utterly wicked;
 </details>
 </details>
 
@@ -1760,6 +1984,12 @@ Your chest is appearing equally on both sides and is loftily extended unto the
 shoulder. Below it is the stomach with an excellent navel, which is lean as though it is shy of
 seeing the loftiness of chest.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+you, however, are lovely to behold, gracefully bent like a lotus by the wind (padmam iva vātena saṃnatā)! Your chest is firmly set, raised high right up to the shoulders (yāvat skandhāt samunnatam);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1806,6 +2036,12 @@ seeing the loftiness of chest.
 Oh, Manthara! with perfect hips and well rounded breasts and with your face like an
 untainted moon you are shining well.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and beneath it, your waist is slender (udaraṃ śāntam), bashful as it were with its lovely navel (sunābham iva lajjitam); your hips are full (pratipūrṇaṃ ca jaghanam), and your breasts are plump!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1851,6 +2087,12 @@ both; *paadou cha* = feet also; *aayatou* = are long.
 
 Oh, Manthara! your waist decorated with golden belt is making sound. Your
 leg-muscles are well rounded and your feet are tall.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your face equals the spotless moon—oh, how you shine, O Mantharā! Your hips are smooth (nirmṛṣṭam) and adorned with a girdle-cord (raśanādāma-bhūṣitam).
 </details>
 </details>
 
@@ -1899,6 +2141,12 @@ are splendid; *raajahamsiiva* = like a royal swan; *gachchhantii* = walking;
 
 Oh, Manthara! you are splendid like a royal swan walking before me, with long thighs
 are wearing a silk sari.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Your shanks are firmly set (jaṅghe bhṛśam upanyaste) and both your feet are long; with your elongated thighs (āyatābhyāṃ sakthibhyām), O Mantharā clad in fine linen (kṣaumavāsini)—
 </details>
 </details>
 
@@ -1977,6 +2225,14 @@ and magic effects.
 In your long hunch, which looks like an apex of a chariot, are dwelling your various
 thoughts, royal arts and magic effects.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**45:** walking before me, you shine exceedingly, O lovely one! Those thousand illusions (māyāḥ sahasram) that belonged to Śambara, lord of the Asuras—
+
+**46:** all those are lodged within your heart, and thousands more besides! That very hump of yours (tad eva sthagu), which is long and wide like the hub of a chariot-wheel (rathaghoṇam ivāyatam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2044,6 +2300,14 @@ gold; *jaatyena* = of good class.
 Oh, Manthara! After accomplishing the benefit desired by me, I shall, with delight,
 get your hunch back anointed with well refined gold of good quality.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**47:** therein dwell your counsels (matayaḥ), your science of statecraft (kṣatravidyāś ca), and your illusions! Right upon it I shall fasten a golden garland (mālāṃ kubje hiraṇmayīm), O Kubjā—
+
+**48:** when Bharata is consecrated and Rāghava has gone to the forest! With pure, thoroughly refined gold (jātyena ca suvarṇena suniṣṭaptena), O fair one—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2085,6 +2349,14 @@ get your hunch back anointed with well refined gold of good quality.
 
 Oh, Manthara! I shall get beautiful ornaments made and for your forehead auspicious
 dots of variety done of pure gold.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**49:** “—once I have gained my object (labdhārthā) and am delighted, I shall coat your hump (lepayiṣyāmi te sthagu), and have an exquisite, auspicious golden mark (tilakaṃ citraṃ jātarūpamayam) made upon your brow,
+
+**50:** as well as splendid ornaments for you, O Kubjā! Clad in two auspicious garments, you shall walk about like a goddess (devateva cariṣyasi).
 </details>
 </details>
 
@@ -2128,6 +2400,12 @@ competing with; *chandram* = moon.
 You will be moving around like an angel, wearing beautiful clothes. You will achieve
 an important position in the eyes of your adversaries with pride and with your face, incomparably
 competing with moon.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With a face that challenges the moon (candram āhvayamānena mukhena), O peerless-faced one, you shall walk with the proudest gait, lording it over your foes (garvayantī dviṣajjane)!
 </details>
 </details>
 
@@ -2176,6 +2454,12 @@ The hunch backed women, adorned with all ornaments, will always do service, at y
 feet, as how as hunch-backed women, adorned with all ornaments, will always do service at your
 feet, as how as hunch-backed you are doing it to me.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hunchbacked maids (kubjāḥ) adorned with every ornament shall attend upon the feet even of you, a hunchback (tavāpi kubjāyāḥ), just as you ever attend upon mine!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2215,6 +2499,12 @@ couch;agni sihaamiva = like a flame of five; *vedyaam* = in a sacrificial altar.
 
 Manthara in this way being praised spoke these words to Kaikeyi, who was lying in a
 clean couch like a flame of fire upon the sacrificial altar.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praised thus, she spoke these words to Kaikeyī, who lay upon her white couch like a tongue of sacrificial fire upon the altar (vedyām agniśikhām iva):
 </details>
 </details>
 
@@ -2262,6 +2552,12 @@ act; *anudarshaya* = show your influence; *raajaanam* = to king.
 Oh, Kaikeyi the auspicious one! When water has already flown out, there is no use
 constructing a dam. Now rise and do this purposeful action. Show your influence to the king.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“One does not build a dam when the water has flowed away (gatodake setubandho na vidhīyate), O auspicious lady! Arise, accomplish your good fortune, and let the king behold you (rājānam anudarśaya)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2290,6 +2586,14 @@ constructing a dam. Now rise and do this purposeful action. Show your influence 
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मन्थरॆयु हीगॆ प्रोत्साहिसिदाग सौभाग्यद मददिन्द गर्वितळाद विशाललोचनॆ सुन्दरी कैकादेवियु आकॆयॊन्दिगे कोपभवनक्कॆ होगि अनेक लक्ष वरहगळ मौल्यद मुत्तिन हारगळन्नू, इतर सुन्दर-सुन्दर ऒडवॆगळन्नु शरीरदिन्द कळचि ऎसॆयतॊडगिदळु.॥55-56॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**55:** Incited thus (tathā protsāhitā), the wide-eyed queen, proud with the intoxication of her conjugal fortune (saubhāgyamadagarvitā), went with Mantharā to the chamber of wrath (krodhāgāram).
+
+**56:** Stripping off (avamucya) her pearl necklace worth many hundreds of thousands (anekaśatasāhasraṃ muktāhāram), as well as her priceless, resplendent ornaments, that foremost of women—
 </details>
 </details>
 
@@ -2343,6 +2647,12 @@ Kaikeyi who was of wide eyes, who was proud of her intoxicating beauty, who was 
 a queen, removed pearl necklace worth in lacs and other great valuable auspicious ornaments from
 her body, entered the chamber of wrath along with Manthara, lied on the floor there like a golden
 wire and spoke to Manthara as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Kaikeyī, golden in hue (hemopamā), having fallen under the sway of the hunchback's words (kubjāvākyavaśaṃgatā), lay down upon the bare floor there and spoke these words to Mantharā:
 </details>
 </details>
 
@@ -2412,6 +2722,14 @@ to me; *na* = nor; *ratnaiH* = diamonds; *na* = nor; *bhuushhaNaiH cha*
 Neither gold nor diamonds nor ornaments are of any use to me. on which day Rama gets
 anointed for the kingdom, the same day it will be the end of my life.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**58:** “Either you shall report me dead right here (iha vā māṃ mṛtām) to the king, O Kubjā, or once Rāghava has gone to the forest, Bharata shall obtain the earth!
+
+**59:** I have no use for gold, nor for jewels, nor for royal fare; if Rāma is consecrated, this is the end of my life (eṣa me jīvitasyāntaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2463,6 +2781,12 @@ upetya* = in relation to Rama.
 Afterwards, that Manthara again spoke to the seriously talking mother of Bharata
 that is Kaikeyi the following words which were beneficial to her and not beneficial in relation to
 Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then once again, with words of exceedingly fierce potency (vacobhir atyarthamahāparākramaiḥ), the hunchback spoke to the monarch's queen, the mother of Bharata, a speech beneficial to him and hostile toward Rāma:
 </details>
 </details>
 
@@ -2517,6 +2841,12 @@ son; *bharataH* = Bharata; *abhishhekshhyate* = will get anointed ; *yatasva*
 
 If Rama becomes king, you and your son will be destroyed. Oh, Kaikeyi of auspicious
 qualities! Hence you try for coronation of your son, Bharata
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For if Rāghava attains this kingdom, surely you together with your son (sasutā) will suffer torment (tapsyase); therefore, O auspicious lady, strive in such a way that your son Bharata shall be consecrated!”
 </details>
 </details>
 
@@ -2578,6 +2908,12 @@ Having thus hit by arrows of words employed by Manthara again and again, Kaikeyi
 felt sad, was angry with the king, by keeping hands on her heart, was surprised with the cleverness
 of Manthara and praised her time and again.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced deeply thus (tathātividdhā) by the hunchback and struck again and again by her arrows of speech (vāgiṣubhir muhur muhuḥ), the queen, placing both hands upon her heart in utter amazement (ativismitā), spoke to the hunchback again and again in wrath:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2627,6 +2963,12 @@ bhavishhyativaa* = or Bharata becomes; *samR^iddha kaamaH* = fulfiller of desire
 
 If Rama does not go to forest from here, I do not long for any mattresses or
 garlands or sandal paste or eye-liner or drink or food or even the loaf here.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Either you shall behold me departed hence to the realm of Yama (yamasya vā māṃ viṣayaṃ gatām) and report it to the king, O Kubjā, or when Rāghava has gone to the forest for a long time (sucirāya), Bharata shall have his desires fulfilled!
 </details>
 </details>
 
@@ -2681,6 +3023,12 @@ bhojanam* = drink or food; *na* = nor; *jiivitamcha* = life even.
 If Rama does not go to forest from here, I do not long for any mattresses or
 garlands or sandal paste or eye-liner or drink or food or even the life here.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For I desire neither carpets (āstaraṇāni), nor garlands, nor sandal-paste, nor collyrium, drink, or food—nor do I desire anything at all, nor life here (na ceha jīvanam), if Rāghava does not depart hence to the forest!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2734,6 +3082,12 @@ vachanam* = these words; *sudaaruNam* = which are cruel; *atta* = afterwards;
 
 Kaikeyi, thus uttering cruel words, having removed all ornaments, lied on the floor
 without a mattress like a fallen angel.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having spoken those most dreadful words (vacanaṃ sudāruṇam) and cast aside all her ornaments, the passionate queen lay down upon the bare earth unspread with any carpet (asaṃskṛtām āstaraṇena medinīm), like a fallen Kinnarī (patiteva kiṃnarī).
 </details>
 </details>
 
@@ -2803,6 +3157,12 @@ extreme anger and with her depressed mind, looked like a starless sky in a gloom
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒम्भत्तनॆय सर्ग पूर्णवायितु. ॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Her face overspread by the darkness of surging wrath (udīrṇasaṃrambhatamovṛtānanā), and her finest garlands and ornaments cast away, that consort of the king became darkened in mind (vimanā babhūva), like the sky overspread with gloom and its stars sunk out of sight (tamovṛtā dyaur iva magnatārakā).
 </details>
 </details>
 

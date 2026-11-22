@@ -36,6 +36,12 @@ title = "०५८ ययाति-शापः"
 
 श्रीरामनु हीगॆ हेळिदाग शत्रुवीर संहारी लक्ष्मणनु तेजदिन्द प्रज्वलितनन्तागि महात्मा श्रीरामनन्नु सम्बोधिसि हीगॆ हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Rāma was speaking thus (evaṃ bruvati rāme tu), Lakṣmaṇa, slayer of hostile heroes (paravīrahā), replied to that great-souled one (mahātmānam), who seemed to blaze with splendor (jvalantam iva tejasā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ title = "०५८ ययाति-शापः"
 
 नृपश्रेष्ठने! राजा विदेह (निमि) हागू वसिष्ठ मुनिय पुरातन वृत्तान्तवु अत्यन्त अद्भुत मत्तु आश्चर्यकरवागिदॆ.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Great, wondrous, and astonishing (mahad adbhutam āścaryam) is this ancient episode of Videha (videhasya purātanam), O tiger among kings (rājaśārdūla), that transpired between Vasiṣṭha and Nimi (vasiṣṭhasya nimes saha)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +97,12 @@ title = "०५८ ययाति-शापः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ राजानिमियु क्षत्रिय, शूरवीर, विशेषतः यज्ञद दीक्षॆ पडॆदिद्दनु; आद्दरिन्द अवरु महात्मा वसिष्ठर कुरितु उचितवागि वर्तिसलिल्ल.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet Nimi, a heroic kṣatriya (kṣatriyaḥ śūraḥ) and especially consecrated for sacrifice (viśeṣeṇa ca dīkṣitaḥ), did not practice forbearance (na kṣamāṃ kṛtavān rājā) toward the great-souled Vasiṣṭha (vasiṣṭhasya mahātmanaḥ)!”
 </details>
 </details>
 
@@ -113,6 +131,12 @@ title = "०५८ ययाति-शापः"
 
 लक्ष्मणनु हीगॆ हेळिदाग इतररिगॆ सन्तोषवन्नुण्टुमाडुववरल्लि श्रेष्ठक्षत्रिय शिरोमणि श्रीरामनु सम्पूर्ण शास्त्र विशारदनाद महेतेजस्वी लक्ष्मणनल्लि इन्तॆन्दनु.॥4½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by him (evam uktas tu tenāyam), the glorious bull among kṣatriyas (śrīmān kṣatriya-puṅgavaḥ) spoke to Lakṣmaṇa words versed in all the scriptures (vākyaṃ sarva-śāstra-viśāradam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,6 +164,14 @@ title = "०५८ ययाति-शापः"
 
 वीर सुमित्राकुमार! राजा ययातियल्लि इद्दन्तह क्षमॆयु ऎल्ल पुरुषरल्लि कण्डु बरुवुदिल्ल. राजा ययातियु सत्वगुणक्कनुकूलवाद मार्ग वन्नु आश्रयिसि दुःसह रोषवन्नु शान्तगॊळिसिद्दनु. आ प्रसङ्गवन्नु हेळुवॆनु दत्तचित्तनागि केळु.॥5-6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Rāma, foremost of those who give delight (rāmo ramayatāṃ śreṣṭhaḥ), spoke to his brother of blazing splendor (bhrātaraṃ dīpta-tejasam): “Forbearance is not seen everywhere among men, O hero (na sarvatra kṣamā vīra puruṣeṣu pradṛśyate)!
+
+**6:** “How unbearable wrath was endured by Yayāti (duḥsaho roṣo yathā kṣānto yayātinā), O Saumitri, keeping to the path aligned with goodness (sattvānugaṃ puraskṛtya)—listen to that with collected mind (tan nibodha samāhitaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +197,12 @@ title = "०५८ ययाति-शापः"
 
 सौम्य! नहुषन पुत्र ययाति राजनु पुरवासिगळ, प्रजाजनर वृद्धि माडुववनागिद्दनु. अवनिगॆ इब्बरु पत्नीयरिद्दु अवरु अप्रतिम रूपवतियरागिद्दरु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nahuṣa’s son was King Yayāti, promoter of his citizens’ welfare (pauravardhanaḥ); he had two wives, O gentle one (tasya bhāryā-dvayaṃ saumya), matchless in beauty upon the earth (rūpeṇāpratimaṃ bhuvi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +227,12 @@ title = "०५८ ययाति-शापः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नहुषनन्दन राजर्षि ययातिय ओर्व पत्निय हॆसरु शर्मिष्ठा ऎन्दित्तु. अवळु राजनिन्द बहळ सम्मानितळागिद्दळु. शर्मिष्ठा दैत्यकुलद कन्यॆ हागू वृषपर्वान पुत्रियागिद्दळु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“One of them, held in highest honor by that royal sage, son of Nahuṣa (rājarṣer nāhuṣasya puraskṛtā), was Śarmiṣṭhā by name, a Daitya maiden (daiteyī), daughter of Vṛṣaparvan (duhitā vṛṣaparvaṇaḥ).
 </details>
 </details>
 
@@ -224,6 +268,14 @@ _________________
 
 पुरुषश्रेष्ठने! अवन इन्नोर्व पत्नी शुक्राचार्यर पुत्रि देवयानियागिद्दळु. देवयानियु सुन्दरियागिद्दरू राजनिगॆ हॆच्चु प्रियळागिरलिल्ल. अवरिब्बर पुत्ररू रूपवन्तरिद्दरु. शर्मिष्ठॆयु पुरुविगॆ जन्म नीडिदरॆ, देवयानियु यदुविगॆ जन्म नीडिदळु. अवरिब्बरू बालकरू तम्म चित्तवन्नु एकाग्रवागि इरिसिकॊळ्ळुववरागिद्दरु.॥9-10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** “The other, daughter of Uśanas (anyā tūśanasaḥ), was the wife of Yayāti, O bull among men (patnī yayāteḥ puruṣarṣabha); yet she, slender-waisted Devayānī (devayānī sumadhyamā), was not beloved of the king (na tu sā dayitā rājñaḥ).
+
+**10:** “To those two women were born two handsome, self-controlled sons (putrau tu sambhūtau rūpavantau samāhitau): Śarmiṣṭhā bore Pūru (śarmiṣṭhā ’janayat pūrum), and Devayānī bore Yadu at that time (devayānī yaduṃ tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,6 +300,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तायिय शिक्षणदिन्दलू, तन्न सद्गुणगळिन्दलू पुरुवु राजनिगॆ हॆच्चु प्रियनागिद्दनु. इदरिन्द यदुविगॆ बहळ दुःखवुण्टागि, अवनु तायियल्लि हेळिदनु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now Pūru was dear to the king (pūrus tu dayito rājñaḥ) by reason of his virtues and on account of his mother (guṇair mātṛ-kṛtena ca); thereupon Yadu, overcome with grief (duḥkha-samāviṣṭaḥ), spoke to his mother:
 </details>
 </details>
 
@@ -274,6 +332,12 @@ _________________
 
 अम्मा! नीनु आयासविल्लदॆ महत्कर्म माडुव देवस्वरूप शुक्राचार्यर कुलदल्लि हुट्टिद्दरू इल्लि हार्दिक दुःख मत्तु दुस्सह अपमान सहिसुत्तिरुवॆ.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Born in the lineage of Bhārgava (bhārgavasya kule jātā), that god-like sage of unwearied deeds (devasyākliṣṭa-karmaṇaḥ), do you endure this heart-piercing sorrow (hṛdgataṃ duḥkham) and unbearable humiliation (avamānaṃ ca duḥsaham)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -298,6 +362,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आद्दरिन्द देवि! नाविब्बरू ऒट्टिगॆ अग्निप्रवेश माडुव. राजनु दैत्यपुत्रि शर्मिष्ठॆय जॊतॆगॆ अनन्तरात्रिगळवरॆगॆ रमिसुत्ता इरलि.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Come, O queen, let us two enter fire together (āvāṃ ca sahitau devi praviśāva hutāśanam), and let the king sport with the Daitya’s daughter for many nights (rājā tu ramatāṃ sārdhaṃ daitya-putryā bahu-kṣapāḥ)!
 </details>
 </details>
 
@@ -324,6 +394,12 @@ _________________
 
 निनगॆ इदॆल्ल सहिसबेकादरॆ ननगॆ प्राणत्यागद आज्ञॆकॊडु. नीनु सहिसु, नानु सहिसलारॆ. खण्डितवागि सत्तुहोगुवॆनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Or if this is bearable to you (yadi vā sahanīyaṃ te), then deign to grant me leave (mām anujñātum arhasi); forbear if you will, I shall not forbear (kṣama tvaṃ na kṣamiṣye ’ham)—I shall surely die, there is no doubt (mariṣyāmi na saṃśayaḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -348,6 +424,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अत्यन्त आर्तनागि अळुत्तिरुव तन्न पुत्र यदुविन मातन्नु केळि देवयानिगॆ बहळ क्रोधवुण्टागि, तत्काल तन्न तन्दॆ शुक्राचार्यरन्नु स्मरिसिदळु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing the words of her son (putrasya bhāṣitaṃ śrutvā), weeping in extreme distress (paramārtasya rodataḥ), Devayānī, filled with wrath (saṅkruddhā), then thought of her father (sasmāra pitaraṃ tadā).
 </details>
 </details>
 
@@ -374,6 +456,12 @@ _________________
 
 शुक्राचार्यरु तन्न पुत्रिय चेष्टॆयन्नु तिळिदु कूडले, देवयानि इद्दल्लिगॆ बन्दु तलुपिदरु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Discerning that inward signal of his daughter (iṅgitaṃ tad abhijñāya duhituḥ), Bhārgava at once came swiftly (āgatas tvaritaṃ tatra) to where Devayānī was (devayānī tu yatra sā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -398,6 +486,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मगळ अस्वस्थ, अप्रसन्न, निश्चेष्टितळन्तिरुवुदन्नु नोडि तन्दॆयु केळिदरु - मगळे! इदेनु मातु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And seeing her utterly unlike her natural self (aprakṛti-sthām), devoid of cheer (aprahṛṣṭām), and bewildered in mind (acetanām), the father spoke these words to his daughter: ‘What is this (kim etad iti cābravīt)?’
 </details>
 </details>
 
@@ -428,6 +522,14 @@ _________________
 
 उरियुत्तिद्द तेजवुळ्ळ तन्दॆ भृगुनन्दन शुक्राचार्यरु पदे-पदे केळिदाग, देवयानियु अत्यन्त कुपितळागि हेळिदळु - मुनिश्रेष्ठ! नानु प्रज्वलित अग्नियन्नु अथवा आळवाद नीरिनल्लि प्रवेशिसुवॆ, इल्लवे विष तिन्दु बिडुवॆ; आदरॆ ई प्रकार अपमानितळागि बदुकि इरलारॆ.॥18-19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** To that Bhārgava of blazing splendor (bhārgavaṃ dīpta-tejasam) who was questioning her again and again (pṛcchantam asakṛt), the enraged Devayānī (devayānī tu saṅkruddhā) spoke these words to her father:
+
+**19:** “Fire, sharp poison, or water (agniṃ viṣaṃ tīkṣṇam apo vā), O foremost of sages (munisattama)—I shall swallow or enter them (bhakṣayiṣye pravekṣyāmi), for I cannot endure to live (na tu śakṣyāmi jīvitum)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -452,6 +554,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु इल्लि ऎष्टु दुःखितळागिद्देनॆ मत्तु अपमानितळागिरुवुदन्नु नीवु तिळिदिल्ल. ब्रह्मन्! वृक्षवन्नु उपेक्षिसिदरॆ अदन्नु आश्रयिसिद फल - पुष्पगळिगॆ, पक्षिगळिगू तॊन्दरॆयागुवुदल्लवे.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Do you not realize (na ... avajānīṣe) that I am afflicted and humiliated (duḥkhitām avamānitām)? Through contempt shown to the tree (vṛkṣasyāvajñayā), O brahmin, those that live upon the tree are cut down (chidyante vṛkṣa-jīvinaḥ)!
 </details>
 </details>
 
@@ -478,6 +586,12 @@ _________________
 
 भृगुनन्दरे! राजर्षि ययातियु निम्म कुरितु अनादर भावविरिसिद्दरिन्द नन्न अवहेळनवू आगिदॆ. ननगॆ हॆच्चिन आदर कॊडुत्तिल्ल.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Out of contempt for you, O Bhārgava (avajñayā ca ... bhārgava), and despising me (paribhūya ca), the royal sage shows disregard toward me (mayy avajñāṃ prayuṅkte hi) and holds me in no esteem (na ca māṃ bahu manyate)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -502,6 +616,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवयानिय ई मातन्नु केळि भृगुनन्दन शुक्राचार्यरिगॆ तुम्बा सिट्टुबन्दु, अवरु नहुष पुत्र ययातिगॆ उद्देशिसि हीगॆ हेळलु उपक्रमिसिदरु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of hers (tasyās tad vacanaṃ śrutvā), overwhelmed with wrath (kopenābhipariplutaḥ), Bhārgava began to pronounce a curse (vyāhartum upacakrāma) upon the son of Nahuṣa (nahuṣātmajam):
 </details>
 </details>
 
@@ -528,6 +648,12 @@ _________________
 
 नहषकुमार ! नीनु दुरात्मनाद्दरिन्द नन्न अवहेळन माडुत्तिरुवॆ, अदक्कागि नीनु जरा-जीर्ण मुदुकनागि होगु. नीनु सर्वथा शिथिलनागि होगुवॆ.॥23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since you despise me (yasmān mām avajānīṣe), O wicked-souled son of Nahuṣa (nāhuṣa tvaṃ durātmavān), worn out by extreme old age (jarayā parayā jīrṇaḥ), you shall fall into decrepitude (śaithilyam upayāsyasi)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -552,6 +678,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजनिगॆ हीगॆ हेळि, मगळिगॆ आश्वासनॆ कॊट्टु महायशस्वी ब्रह्मर्षि शुक्राचार्यरु तम्म मनॆगॆ हॊरटुहोदरु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus and comforted his daughter (duhitaraṃ samāśvāsya ca), that greatly renowned brahmin sage Bhārgava (brahmarṣiḥ ... mahāyaśāḥ) went back to his own abode (punar jagāma ... bhavanaṃ svam).
 </details>
 </details>
 
@@ -592,6 +724,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऐवत्तॆण्टनॆय सर्ग पूर्णवायितु. ॥58॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, that foremost among the best of brahmins (dvija-puṅgavāgryaḥ), equal to the sun in splendor (sūrya-samāna-tejāḥ), having comforted his daughter Devayānī (sutāṃ samāśvāsya ca devayānīm) and pronounced his curse upon Nahuṣa’s son (dattvā ca śāpaṃ nahuṣātmajāya), returned once more (punar yayau).
 </details>
 </details>
 

@@ -67,6 +67,12 @@ to siddha-s, gandharva-s, carana-s; *agnipurogamaan* = Fire-god in forefront
 The emasculated Indra then with panicked eyes spoke to gods, siddha-s, gandharva-s,
 and carana-s, keeping Fire-god as their helms-god. [1-49-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then Śakra, bereft of his testicles and with his eyes wide with terror (aphalas tu tataḥ śakro trastanayanaḥ), spoke to the gods headed by Agni and to the Siddhas, Gandharvas, and Cāraṇas (devān agnipurogamān abravīt siddhagandharvacāraṇān):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -130,6 +136,12 @@ is a divine-act as proclaimed by Indra to other gods. In doing such 'divine-acts
 Indra will also be maligned, for which the higher gods like Brahma, Vishnu, Shiva,
 or other higher beings will come to his rescue.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘By obstructing the austerity of the high-souled Gautama and provoking him to wrath (kurvatā tapaso vighnaṃ gautamasya mahātmanaḥ krodham utpādya hi mayā), I have accomplished this work of the gods (surakāryam idaṃ kṛtam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -170,6 +182,12 @@ or other higher beings will come to his rescue.
 By Gautama's anger I am rendered testicle-less and his wife Ahalya is also rejected
 by the sage, and thus by his releasing a severe curse his propriety for ascesis
 is dwindled, therefore his ascesis is pre-empted by me. [1-49-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘By him in his wrath I have been rendered testicle-less, and she too has been cast off (aphalo ’smi kṛtas tena krodhāt sā ca nirākṛtā); thus, by making him loose a mighty curse, I have robbed him of his ascetic energy (śāpamokṣeṇa mahatā tapo ’syāpahṛtaṃ mayā).
 </details>
 </details>
 
@@ -215,6 +233,12 @@ arhatha* = apt of you to make me virile.
 'Therefore, oh, all gods with the assemblages of sages and caarana-s, it will
 be apt of you to make me virile again, as I have acted for the benefit of gods.'
 Thus Indra spoke to all gods. [1-49-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Therefore, O best of the gods, together with all the hosts of sages and Cāraṇas (tan māṃ suravarāḥ sarve sarṣisaṅghāḥ sacāraṇāḥ), you ought to restore my manhood, since I acted in the service of the gods (surakāryakaraṃ yūyaṃ saphalaṃ kartum arhatha)!’
 </details>
 </details>
 
@@ -264,6 +288,12 @@ On hearing the words of the officiator for Hundred-Vedic-rituals, namely Indra,
 all of the gods and other assemblages of celestials, together with the groups of
 Marut-gods came to the godly manes keeping the Fire-god in van, and appealed. [1-49-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing the words of Śatakratu, all the gods headed by Agni, together with the hosts of Maruts (śatakrator vacaḥ śrutvā devāḥ sāgnipurogamāḥ sarve saha marudgaṇaiḥ), approached the ancestral deities (the Pitṛdevas) and said (pitṛdevān upetyāhuḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +337,12 @@ vR^iSaNau gR^ihya* = on taking ram's testicles; *shakraaya aashu prayacChata*
 'This ram is with testicles and Indra is indeed rendered testicle-less. Taking
 the testicles of this ram they may be given to Indra quickly.' Thus Fire-god started
 his appeal to manes. [1-49-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Here is this sacrificial ram with testicles, whereas Śakra has been left bereft of his testicles (ayaṃ meṣaḥ savṛṣaṇaḥ śakro hy avṛṣaṇaḥ kṛtaḥ); taking the two testicles of the ram, bestow them quickly upon Śakra (meṣasya vṛṣaṇau gṛhya śakrāyāśu prayacchata).
 </details>
 </details>
 
@@ -378,6 +414,12 @@ manes can enjoy even a castrated ram, if offered by humans on earth, and in turn
 the manes shall afford plentiful benefits of undiminished value to those offerers,
 namely humans...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Even when rendered testicle-less, the ram shall afford you supreme satisfaction (aphalas tu kṛto meṣaḥ parāṃ tuṣṭiṃ pradāsyati); and to those mortals who offer such rams for your gratification, you shall grant abundant and inexhaustible merit (bhavatāṃ harṣaṇārthaṃ ca ye ca dāsyanti mānavāḥ akṣayaṃ hi phalaṃ teṣāṃ yūyaṃ dāsyatha puṣkalam).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -420,6 +462,12 @@ On hearing the words of Agni, the Fire-god, the manes-gods who gathered to colle
 their share of offering have extricated that ram's testes, which is not yet sacrificed
 but tethered to a sacrificial post, and offered them to the Thousand-eyed Indra.
 [1-49-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing the words of Agni, the assembled Pitṛdevas plucked out the two testicles of the ram and attached them to the thousand-eyed Indra (agnes tu vacanaṃ śrutvā pitṛdevāḥ samāgatāḥ utpāṭya meṣavṛṣaṇau sahasrākṣe nyaveśayan).
 </details>
 </details>
 
@@ -471,6 +519,12 @@ If rams with testes are offered the manes discard the testes of those rams and e
 the rest of it. Even if a goat is offered they enjoy it, considering it as homogenous
 to a ram. In either way, the offerer is blessed with benefits and Indra with testes.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From that day forth, O Kākutstha, the assembled Pitṛdevas partake of castrated rams in ancestral offerings (tadāprabhṛti kākutstha pitṛdevāḥ samāgatāḥ aphalān bhuñjate meṣān) and endow their donors with the full fruit of intact offerings (phalais teṣām ayojayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -518,6 +572,12 @@ one having goat's testes.
 Oh, Raghava, owing to the efficacy of the great-souled Gautama and his ascesis,
 from then onwards Indra has became one with the testes of a goat. [1-49-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And from that day forth, O Rāghava, Indra has borne the testicles of a ram (indras tu meṣavṛṣaṇas tadāprabhṛti rāghava) through the majestic power and austerity of the high-souled Gautama (gautamasya prabhāveṇa tapasā ca mahātmanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -560,6 +620,12 @@ her [lady]; *ahalyaam taaraya* = let Ahalya, be atoned.
 are pietistic, and atone Ahalya who is highly fortunate and who is in the compose
 of a divinity." Thus Vishvamitra spoke to Rama. [1-49-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore come, O prince of great splendor, to the hermitage of that sage of holy deeds (tad āgaccha mahāteja āśramaṃ puṇyakarmaṇaḥ); redeem this blessed Ahalyā of celestial form (tārayaināṃ mahābhāgām ahalyāṃ devarūpiṇīm)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -600,6 +666,12 @@ indeed.
 On hearing Vishvamitra's words Rama entered the hermitage along with Lakshmana and
 keeping Vishvamitra afore. [1-49-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Viśvāmitra, Rāghava, together with Lakṣmaṇa (viśvāmitravacaḥ śrutvā rāghavaḥ sahalakṣmaṇaḥ), placed Viśvāmitra in front and entered the hermitage (viśvāmitraṃ puraskṛtya āśramaṃ praviveśa ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -624,6 +696,12 @@ keeping Vishvamitra afore. [1-49-12]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि होगि नोडिदरॆ महासौभाग्यशालिनी अहल्यॆयु तन्न तपस्सिनिन्द प्रकाशिसुत्तिद्दळु. ई लोकद मनुष्यरु हागू समस्त देवतॆगळु, असुररू अल्लिगॆ बन्दु आकॆय प्रखरतॆयन्नु नोडलागुत्तिरलिल्ल.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And there Rāma beheld that blessed lady, her splendorkindled by austerity (dadarśa ca mahābhāgāṃ tapasā dyotitaprabhām), impossible for the worlds—even gods and demons together—to gaze upon (lokair api samāgamya durnirīkṣyāṃ surāsuraiḥ),
 </details>
 </details>
 
@@ -689,6 +767,14 @@ practising an utmost ascesis subsisting on air alone, which ascesis alone made h
 like a flaring Ritual Fir, and Rama has seen such a highly glorious Ahalya. [1-49-13,
 14, 15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** fashioned with special effort by the Creator, celestial, as though wrought of illusion (prayatnān nirmitāṃ dhātrā divyāṃ māyāmayīm iva), like a blazing tongue of flame with its form shrouded in smoke (dhūmenābhiparītāṅgīṃ dīptām agniśikhām iva),
+
+**15:** like the radiance of the full moon veiled in mist and accompanied by clouds (satuṣārāvṛtāṃ sābhrāṃ pūrṇacandraprabhām iva), and like the dazzling, unassailable brilliance of the sun reflected in the midst of water (madhye ’mbhaso durādharṣāṃ dīptāṃ sūryaprabhām iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -730,6 +816,12 @@ became, indeed.
 
 Ahalya is indeed indiscernible to all the three worlds by the very word of Gautama
 until the manifestation of Rama. [1-49-16a, b]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For by the word of Gautama she had remained invisible to all the three worlds until the sight of Rāma (sā hi gautamavākyena durnirīkṣyā babhūva ha trayāṇām api lokānāṃ yāvad rāmasya darśanam); now, having reached the end of her curse, she came within their sight (śāpasyāntam upāgamya teṣāṃ darśanam āgatā).
 </details>
 </details>
 
@@ -801,6 +893,14 @@ Reminiscing Gautama's words Ahalya received those two, and self-consciously offe
 water for feet and hand washing, and like that she also offered guestship customarily
 and dutifully, and Rama of Kakutstha on his part acquiesced her hospitality. [1-49-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** Then the two Rāghavas joyfully clasped her feet in reverence (rāghavau tu tadā tasyāḥ pādau jagṛhatur mudā); and remembering the words of Gautama, she welcomed them with honor (smarantī gautamavacaḥ pratijagrāha sā hi tau).
+
+**18:** With deeply composed mind, she offered them water for their feet, the arghya oblation, and full hospitality (pādyam arghyaṃ tathātithyaṃ cakāra susamāhitā); and Kākutstha accepted it according to scriptural ordinance (pratijagrāha kākutstho vidhidṛṣṭena karmaṇā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -848,6 +948,12 @@ There chanced an abundant floral fall form firmament to the drumbeats of god's d
 and the celestials like gandharva-s, apsara-s revelled in a splendid festivity that
 is superb. [1-49-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then a great shower of flowers fell to the sound of celestial kettledrums (puṣpavṛṣṭir mahaty āsīd devadundubhiniḥsvanaiḥ), and a grand festival of song and dance arose among the Gandharvas and Apsarases (gandharvāpsarasāṃ caiva mahān āsīt samutsavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -889,6 +995,12 @@ thus [saying,] *samapuujayan* = collectively, reverenced;
 Gods have collectively reverenced her, whose limbs are depurated by the asset of
 her ascesis which is performed as a devotee of Gautama remaining in his directives,
 saying 'Gracious! Goodness!' [1-49-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crying “Well done! Well done!”, the gods honored Ahalyā (sādhu sādhv iti devās tām ahalyāṃ samapūjayan), whose limbs were purified by the power of austerity and who now followed the will of Gautama (tapobalaviśuddhāṅgīṃ gautamasya vaśānugām).
 </details>
 </details>
 
@@ -932,6 +1044,12 @@ Even that great-resplendent Gautama is heartened when he reunited with Ahalya af
 a long, long a time, and that sage customarily reverenced Rama for actualising his
 solemn utterance, and that great-ascetic Gautama continued his ascesis together
 with Ahalya. [1-49-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the resplendent Gautama of great austerity, joyfully reunited with Ahalyā (gautamo ’pi mahātejā ahalyāsahitaḥ sukhī), worshiped Rāma according to sacred ordinance and practiced penance there (rāmaṃ sampūjya vidhivat tapas tepe mahātapāḥ).
 </details>
 </details>
 
@@ -983,6 +1101,12 @@ great-saint Gautama himself, then moved ahead to Mithila. [1-49-22]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु. ॥49॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Rāma too, having duly received supreme honor from the great sage Gautama, then proceeded to Mithilā (rāmo ’pi paramāṃ pūjāṃ gautamasya mahāmuneḥ sakāśād vidhivat prāpya jagāma mithilāṃ tataḥ).
 </details>
 </details>
 

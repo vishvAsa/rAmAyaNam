@@ -66,6 +66,12 @@ When that night is elapsing into the wee hours of next day, then the eminent-sai
  Vishvamitra on asking for the leave of absence from those kings, Dasharatha and Janaka, and from
  both Rama and Lakshmana, he set out to northern mountains, namely Himalayas. [1-74-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when the night had passed away, the great sage Viśvāmitra took formal leave of both those kings (āpṛṣṭvā tau ca rājānau) and departed for the northern mountain (jagāmottaraparvatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ _________________
 When Vishvamitra departed that ruler to the delight of people, namely Dasharatha,
  on asking leave of absence with king Janaka who outvies bodily affairs, promptly set forth for
  the city of Ayodhya. [1-74-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Viśvāmitra had departed, King Daśaratha took leave of the Vaideha king, lord of Mithilā (vaidehaṃ mithilādhipam āpṛṣṭvaiva), and straightway set out for his own city (jagāmāśu ... purīm).
 </details>
 </details>
 
@@ -191,6 +203,14 @@ Then that king Janaka of Mithila, the one from Videha lineage, gave innumerable
  decorated girls, divine in their mien, as unexcelled chambermaids and handmaidens to the brides.
  [1-74-3, 4, 5a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** Thereupon the King of the Videhas, lord of Mithilā, bestowed abundant bridal wealth (dadau kanyādhanaṃ bahu)—many hundreds of thousands of cows (gavāṃ śatasahasrāṇi bahūni),—
+
+**4:** —and of the finest woolen blankets, linen robes, and crores of costly garments (kambalānāṃ ca mukhyānāṃ kṣaumān koṭyambarāṇi ca), together with elephants, horses, chariots, and foot-soldiers, divinely fair and splendidly arrayed (hastyaśvarathapādātaṃ divyarūpaṃ svalaṃkṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,6 +260,12 @@ Then that king Janaka of Mithila, the one from Videha lineage, gave innumerable
 
 King Janaka gave beau idéal bridal riches in gold, silver, pearls and corals even,
  for he is very highly gladdened as Seetha's marriage came true. [1-74-5b, 6a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He gave to those princesses a hundred peerless high-born maidens as companions and male and female attendants (dadau kanyāśataṃ tāsāṃ dāsīdāsam anuttamam), along with vast stores of silver, gold, pearls, and coral (hiraṇyasya suvarṇasya muktānāṃ vidrumasya ca).
 </details>
 </details>
 
@@ -330,6 +356,14 @@ It is customary to follow the wedding party up to the outskirts of village or
 Even the king Dasharatha, the sovereign of Ayodhya proceeded with his noble-souled
  sons, keeping all the sages in the fore, while his forces followed him. [1-74-7b, 8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** Greatly rejoicing, the king bestowed that peerless bridal dowry (dadau rājā susaṃhṛṣṭaḥ kanyādhanam anuttamam). Having given manifold wealth and taken formal leave of the monarch Daśaratha (samanujñāpya pārthivam),—
+
+**7:** —the lord of Mithilā re-entered his own abode, the city of Mithilā (praviveśa svanilayaṃ mithilāṃ mithileśvaraḥ). And the king, sovereign lord of Ayodhyā, together with his high-souled sons,—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -396,6 +430,14 @@ Also thus, all of the earth bound animals are going his leftward, and on seeing
  this, albeit he is a tigerly king he is perplexed, and particularly asked Vashishta. [1-74-9b,
  10a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** —placing all the sages at the fore, marched forth accompanied by his army and attendants (jagāma sabalānugaḥ). As that tiger among men was marching along with the host of sages and with Rāghava (gacchantaṃ tu naravyāghraṃ sarṣisaṅghaṃ sarāghavam),—
+
+**9:** —birds uttered dreadful cries on all sides (ghorās tu pakṣiṇo vāco vyāharanti samantataḥ), while all the beasts of the earth moved clockwise around them (bhaumāś caiva mṛgāḥ sarve gacchanti sma pradakṣiṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -443,6 +485,12 @@ Also thus, all of the earth bound animals are going his leftward, and on seeing
 "Unpropitious is the starling voicing of birds, whereby my heart is throbbing
  down... and propitious is the leftward going of the animals, thereby my heart is throbbing up...
  why so?" [1-74-10b, 11a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those portents, that tiger among kings questioned Vasiṣṭha (tān dṛṣṭvā rājaśārdūlo vasiṣṭhaṃ paryapṛcchata): “Why are the birds uttering harsh and dreadful cries, while the beasts of the earth move clockwise around us (asaumyāḥ pakṣiṇo ghorā mṛgāś cāpi pradakṣiṇāḥ)?
 </details>
 </details>
 
@@ -525,6 +573,14 @@ On hearing all that is said by king Dasharatha, the instinctual sage Vashishta
  perilous trepidation, but the behaviour of these animals is betokening it as mitigable... hence,
  let this consternation be forsaken... [1-74-12b, 13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “What is this portent that makes the heart tremble (kim idaṃ hṛdayotkampi)? My mind sinks with apprehension (mano mama viṣīdati)!” Hearing these words of King Daśaratha, the great sage Vasiṣṭha—
+
+**12:** —spoke in a sweet and soothing voice: “Hear what the outcome of this portent shall be (śrūyatām asya yat phalam)! A dreadful danger is at hand, heralded from the sky by the mouths of the birds (upasthitaṃ bhayaṃ ghoraṃ divyaṃ pakṣimukhāc cyutam);—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -595,6 +651,14 @@ While they are discussing among themselves, a whirlwind started to whirligig
 Murkiness enshrouded the sun, thus everyone is unaware of quarters, a sandstorm
  enwrapped that army, by which it has become as though ensorcelled. [1-74-14b, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “—yet these deer moving clockwise signify that it shall swiftly be quelled; therefore cast aside this anxiety of yours (mṛgāḥ praśamayanty ete saṃtāpas tyajyatām ayam)!” Even as they were conversing thus there, a violent wind suddenly arose (teṣāṃ saṃvadatāṃ tatra vāyuḥ prādur babhūva ha),—
+
+**14:** —shaking the entire earth and felling mighty trees (kampayan medinīṃ sarvāṃ pātayaṃś ca mahādrumān). The sun was veiled in darkness, and none could discern the quarters of the sky (tamasā saṃvṛtaḥ sūryaḥ sarve nāvediṣur diśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -642,6 +706,14 @@ Murkiness enshrouded the sun, thus everyone is unaware of quarters, a sandstorm
 Then Vashishta and the other sages, the king Dasharatha along with his sons
  remained there with animation, and everything and every other one available there has become
  inanimate. [1-74-15b, 16a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** Everything was shrouded in ash-like dust, and that entire army seemed stupefied (bhasmanā cāvṛtaṃ sarvaṃ sammūḍham iva tad balam). Only Vasiṣṭha, the other sages, and the king together with his sons at that time—
+
+**16:** —remained conscious, as it were, while all the rest stood bereft of sense (sasaṃjñā iva tatrāsan sarvam anyad vicetanam). In that dreadful darkness, that army, as though buried in ashes (bhasmacchanneva sā camūḥ),—
 </details>
 </details>
 
@@ -715,6 +787,16 @@ In that catastrophic darkness, that sand-muffled military of king Dasharatha has
  and handling an arrow which is as if ready to electrocute, and he vied in his overall look with
  the devastator of triple cities, namely God Shiva. [1-74-16b, 17, 18, 19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** —and the king beheld the terrifying descendant of Bhṛgu, the son of Jamadagni, the crusher of kings (bhārgavaṃ jāmadagnyeyaṃ rājā rājavimardanam), wearing a crown of matted locks (jaṭāmaṇḍaladhāriṇam),—
+
+**18:** —unassailable like Mount Kailāsa, unbearable like the doomsday fire (kailāsam iva durdharṣaṃ kālāgnim iva duḥsaham), blazing with fiery energy, and impossible for ordinary mortals to gaze upon (durnirīkṣyaṃ pṛthagjanaiḥ).
+
+**19:** Having slung his battle-axe upon his shoulder and grasping a bow dazzling like a cluster of lightning bolts (skandhe cāsajya paraśuṃ dhanur vidyudgaṇopamam) along with a fierce arrow, he shone like Śiva the destroyer of Tripura (tripuraghnaṃ yathā śivam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -761,6 +843,12 @@ In that catastrophic darkness, that sand-muffled military of king Dasharatha has
 On seeing him who is perilous in his propensity and flaming like the Ritual-fire,
  Vashishta and the other prominent Brahman-s who are the practisers of meditation and
  fire-oblations have come together and started to susurrate, up and down. [1-74-20, 21a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him of terrifying appearance, blazing like a flaming fire (jvalantam iva pāvakam), the brahmins headed by Vasiṣṭha, ever devoted to japa and homa oblations (japahomaparāyaṇāḥ),—
 </details>
 </details>
 
@@ -819,6 +907,14 @@ _________________
 An account of Parashu Rama's elimination of Kshatriya clans is given in
  endnote.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** —all those sages gathered together and spoke anxiously to one another (saṃgatā munayaḥ sarve saṃjajalpur atho mithaḥ): “Filled with wrath over his father’s slaying, will he not exterminate the Kṣatriya race (kaccit pitṛvadhāmarṣī kṣatraṃ notsādayiṣyati)?
+
+**22:** “Yet having already slaughtered the Kṣatriyas of old, his wrath and fever of grief have passed away (pūrvaṃ kṣatravadhaṃ kṛtvā gatamanyur gatajvaraḥ); surely the extermination of the Kṣatriyas a second time is not his intention (kṣatrasyotsādanaṃ bhūyo na khalv asya cikīrṣitam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -867,6 +963,12 @@ _________________
 After their susurrus the sages have approached him, who in his very look is like a
  visitation, with oblational water and addressed him with benign words of greeting like, "oh,
  Rama, oh, Bhaargava Rama..." [1-74-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus among themselves and taking up the arghya offering, the sages addressed the Bhārgava of terrifying aspect with sweet words, saying, “O Rāma, O Rāma!” (ṛṣayo rāma rāmeti madhuraṃ vākyam abruvan).
 </details>
 </details>
 
@@ -922,6 +1024,12 @@ On receiving the deference paid by the sage Vashishta, that inexorable Rama of
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎप्पत्तनाल्कनॆय सर्ग पूर्णवायितु. ॥74॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting that homage offered by the sages (pratigṛhya tu tāṃ pūjām ṛṣidattām), the mighty Rāma Jāmadagnya addressed Rāma Dāśarathi (rāmaṃ dāśarathiṃ rāmo jāmadagnyo ’bhyabhāṣata).
 </details>
 </details>
 

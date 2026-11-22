@@ -72,6 +72,12 @@ them off - dispersed them.
 On receiving all those gifts brought in by the Vanara-s from Himalayas, Sugreeva dispersed them all with approbation.
 [4-38-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having accepted all that tribute brought before him (upāyanam upāhṛtam), and having spoken kindly (sāntvayitvā) to all the monkeys, he dismissed them.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ raaghavam ca* = great-mighty, Raghava, also; *kR^ita artham* = achieved, aspirat
 
 On dispersing thousands of monkeys who have effectuated their errand of summoning all monkeys on the earth, Sugreeva
 deemed that his own aspirations and as well as those of that great-mighty Rama are achieved. [4-38-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dismissed those thousands of monkeys who had accomplished their task (kṛtakarmaṇaḥ), he deemed both himself and mighty Rāghava to have achieved their purpose (kṛtārtham).
 </details>
 </details>
 
@@ -170,6 +182,12 @@ harSayan* = to gladden; *prashritam vaakyam abraviit* = courteous, sentence, spo
 Gladdening Sugreeva who is indomitably mighty and the indomitable one among all vanara-s, Lakshmana spoke these
 courteous words to him, "oh, gentle one, if it please you, make an exit from Kishkindha." [4-38-3, 4a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Lakṣmaṇa, gladdening Sugrīva of formidable might (bhīmabalam), best of all monkeys, spoke a courteous speech:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -196,6 +214,12 @@ courteous words to him, "oh, gentle one, if it please you, make an exit from Kis
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सौम्यने! निनगॆ रुचिसिदरॆ ईग किष्किन्धॆयिन्द हॊरडु. लक्ष्मणन ई सुन्दर मातन्नु केळि सुग्रीवनु अत्यन्त प्रसन्ननागि इन्तॆन्दनु .॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Come forth (viniṣkrāma) from Kiṣkindhā, O gentle one, if it pleases you.’ Hearing that well-spoken utterance (subhāṣitam) of Lakṣmaṇa,
 </details>
 </details>
 
@@ -258,6 +282,14 @@ him, "So be it. Let us go. I remain biddable in your command." [4-38-4b, 5]
 Sugreeva speaking thus to Lakshmana, whose person itself is auspicious, then bade adieu to Lady Tara and the other
 female vanara-s. [4-38-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Sugrīva, supremely pleased, spoke this sentence: ‘So be it! Let us go (gacchāma); I must abide under your command (stheyaṃ tvacchāsane mayā).’
+
+**6:** Having spoken thus to Lakṣmaṇa of auspicious marks (śubhalakṣaṇam), Sugrīva then dismissed Tārā and the other women.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -310,6 +342,12 @@ Sugreeva shouted sharply saying, "come here," at the best monkey-adjutants and o
 monkeys that are spared to see the ladies of palace chambers have come there swiftly with their palms adjoined
 in supplication. [4-38-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva called out aloud, ‘Come here (ehi)!’ to the foremost of monkeys; hearing that summons of his, the monkeys came swiftly.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -355,6 +393,12 @@ in supplication. [4-38-7]
 Then the king Sugreeva whose refulgence is kindred to that of sun has said to those vanara-s that have arrived
 there, "oh, vanara-s, immediately position my palanquin before me." [4-38-8b, 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With cupped hands joined in reverence (baddhāñjalipuṭāḥ), all those who were privileged to behold the royal women (strīdarśanakṣamāḥ) arrived; to them the king, resplendent as the sun, then spoke:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -393,6 +437,12 @@ there, "oh, vanara-s, immediately position my palanquin before me." [4-38-8b, 9a
 
 On hearing his words those monkeys who are the adept ones in their agility right away brought an exquisite palanquin
 and readily started to position it at his nearby. [4-38-9b, 10a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Bring forth (upasthāpayata) my palanquin swiftly, O monkeys!’ Hearing his command, the monkeys of swift stride
 </details>
 </details>
 
@@ -439,6 +489,12 @@ mount it; *iti saumitrim abraviit* = thus, to Soumitri, said.
 
 And on seeing palanquin positioned at his nearby the king of monkeys Sugreeva said to Saumitri, "you mount it,
 Lakshmana, be quick." [4-38-10b, 11a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+brought near the lovely palanquin (śibikāṃ priyadarśanām); and seeing that palanquin brought ready, the overlord of monkeys
 </details>
 </details>
 
@@ -487,6 +543,12 @@ _________________
 
 Saying so Sugreeva got into that golden carriage which in shine is like the sun and which has many monkey-carriers
 along with Lakshmana. [4-38-11b, 12a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+said to the son of Sumitrā, ‘O Lakṣmaṇa, pray mount (āruhyatām) swiftly!’ Having spoken thus, Sugrīva mounted the sun-like golden conveyance (kāñcanaṃ yānam),
 </details>
 </details>
 
@@ -549,6 +611,14 @@ Sugreeva who achieved the kingdom of unexcelled magnificence has started out tha
 of panegyrists, while a white royal-parasol spread overhead the palanquin, white fur-fans fanning him from all
 over, and while conch-shells are blowing loud and drums are drumming high. [4-38-12b, 13, 14a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** borne by many monkeys (bahubhir haribhir yuktam), together with Lakṣmaṇa (salakṣmaṇaḥ), while a white royal parasol (ātapatreṇa) was held aloft over his head,
+
+**13:** and with white yak-tail chowries (vālavyajanaiḥ) being waved on every side, greeted by the blasts of conches and kettle-drums and by panegyrists (bandibhiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -594,6 +664,12 @@ Rama, where he is, ensconced; *tatra yayau* = to there, they travelled.
 
 Sugreeva travelled thus surrounded with many hundreds of vanara-s, who look confrontational and who wielded weapons,
 to the place where Rama is staying. [4-38-14b, 15a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva set forth, having attained peerless royal fortune (rājyaśriyam anuttamām). Surrounded by many hundreds of fierce monkeys bearing weapons in their hands (śastrapāṇibhiḥ),
 </details>
 </details>
 
@@ -660,6 +736,14 @@ making, palms adjoined, when he remained; *vaanaraaH ca* = [all of the] monkeys,
 When Sugreeva reached Rama he stood still with adjoined-palms, and when he remained still with palm-fold all the
 other monkeys stood still with palm-fold. [4-38-16b, 17a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** he proceeded to the place where Rāma was stationed. Having reached that foremost region graced by Rāma (rāmaniṣevitam),
+
+**16:** he of great splendor alighted (avātarat) from the palanquin together with Lakṣmaṇa; and approaching Rāma, he stood with cupped hands joined in reverence (kṛtāñjalipuṭaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -715,6 +799,12 @@ lotus buds. While adjoining palms they raised hands over their heads, where thei
 to the stems of lotuses, and folded palms are like unfolded lotus buds. Rama is gladdened because the lake called
 Sugreeva contains these many prayerful devotees who are praying with lotus-bud-like folded palms.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While he stood with joined palms (kṛtāñjalau sthite tasmin), the monkeys too did likewise. Beholding that vast army of monkeys resembling a lake full of lotus-buds (kuḍmalapaṅkajam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -759,6 +849,12 @@ Rama,] fallen; *tam hariishvaram* = him, monkey's king - Sugreeva; *utthaapya* =
 
 Raghava raised and tightly hugged the king of monkeys Sugreeva, who has prostrated himself with his head touching
 the feet of Rama, with care and credit. [4-38-18b, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma felt deep affection toward Sugrīva (sugrīve prītimān abhūt); and raising up that lord of monkeys who had fallen with his head at his feet,
 </details>
 </details>
 
@@ -809,6 +905,12 @@ _________________
 
 After hugging Sugreeva that virtue-souled Rama then said to him, "be seated." Then on seeing Sugreeva who took
 seat on ground Rama spoke to him. [4-38-19b, 20a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāghava embraced him out of affection (premṇā) and high esteem (bahumānāt); and having embraced him, the righteous-souled prince then said, ‘Be seated (niṣīda)!’
 </details>
 </details>
 
@@ -886,6 +988,14 @@ he is like the one who slept on a treetop who awakens only after falling down. [
 An out-and-out pleasure-seeker wakes up only when he runs into troubles. Till such time he uses slender branches
 and tender leaves available on the infirm treetop, called his pleasuring area, as his cushion bed and foam pillows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** Seeing him seated upon the ground (kṣitau), Rāma then spoke: ‘He who pursues righteousness (dharmam), wealth (artham), and pleasure (kāmam) at their proper time,
+
+**21:** ‘duly apportioning them (vibhajya) at all times, O hero, he alone is a true king, O best of monkeys. But he who, abandoning righteousness and wealth, pursues pleasure alone—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -935,6 +1045,12 @@ pursuance to acquire real and everlasting prosperity, in lifetime. And a real ki
 who practises and enjoys all the threefold virtues, namely probity, prosperity and pleasures at appropriate timings
 and at appreciable limits, unlike Sugreeva who is indulgent in only one among those three, namely pleasures.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘he awakens only after he has fallen (patitaḥ pratibudhyate), like a man asleep at the top of a tree (vṛkṣāgre yathā suptaḥ). Intent upon the destruction of enemies and devoted to the winning of friends,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -980,6 +1096,12 @@ and at appreciable limits, unlike Sugreeva who is indulgent in only one among th
 
 "Oh, enemy-eliminator, time for endeavour has come, oh, king of monkeys, let this be discussed along with your
 monkey-ministers." Thus Rama spoke to Sugreeva. [4-38-23b, 24a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘a king who enjoys the fruits of the triad of human aims (trivargaphalabhoktā) is united with royal merit (dharmeṇa yujyate). Now this season of martial exertion (udyogasamayaḥ) has arrived, O slayer of foes;
 </details>
 </details>
 
@@ -1036,6 +1158,14 @@ When Rama addressed him in this way, Sugreeva said these words to Rama, "oh, dex
 I have repossessed prosperity, popularity and this everlasting kingdom of monkeys which are actually mislaid.
 [4-38-24b, 25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** ‘therefore let counsel be taken (saṃcintyatām), O lord of the tawny monkeys, together with your monkey ministers.’ Addressed thus, Sugrīva spoke these words to Rāma:
+
+**25:** ‘My vanished royal fortune (śrīḥ), renown, and eternal monkey kingdom—all this has been regained by me, O mighty-armed one, through your grace (tvatprasādāt),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1086,6 +1216,12 @@ _________________
 and he who does not requite the favour that has been done for him will become the vitiator of probity among men.
 [4-38-26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘and through the grace of your brother, O lord, best of conquerors! Whoever does not repay a benefit done to him (kṛtaṃ na pratikuryāt) is indeed the defiler of men (puruṣāṇāṃ hi dūṣakaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1113,6 +1249,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शत्रुसूदन! ई साविरारु बलिष्ठ मत्तु मुख्य वानररु भू मण्डलदल्लि ऎल्ल बलशालि वानररन्नु जॊतॆगॆ करॆदुकॊण्डु बल्लिगॆ बन्दिरुवरु.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Here these mighty monkey chiefs (vānaramukhyāḥ) by the hundreds, O slayer of foes, have arrived after summoning (ādāya) all the monkeys upon the earth.
 </details>
 </details>
 
@@ -1153,6 +1295,12 @@ just returned on forgathering.
 
 "These are the hundreds of vanara chiefs, oh, enemy-subjugator, who have just returned on forgathering all of
 the forceful vanara-s on earth. [4-38-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Heroic bears (ṛkṣāḥ), monkeys, and cow-tailed golāṅgūla apes (golāṅgūlāḥ), O Rāghava, well acquainted with wildernesses and forest fastnesses (kāntāravanadurgāṇām), formidable in appearance,
 </details>
 </details>
 
@@ -1199,6 +1347,12 @@ the impenetrable forests, woodlands and impassable mountains are coming. And the
 who are the children of gods and gandharva-s, and who change their guise just by their wish are halfway through
 on their path duly fenced round with one's own forces. [4-38-28, 29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘and monkeys who are the sons of gods and gandharvas (devagandharvaputrāḥ), capable of assuming any form at will (kāmarūpiṇaḥ), surrounded by their respective armies, are now on the road (vartante pathi), O Rāghava.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1226,6 +1380,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 परन्तप वीरने! इवरल्लि कॆलवर जॊतॆगॆ नूरु, कॆलवरॊन्दिगॆ लक्ष, कॆलवरॊन्दिगॆ कोटि, कॆलवर जॊतॆगॆ अयुत (हत्तुसाविर), कॆलवरॊन्दिगॆ ऒन्दु शङ्कुवानररु इद्दारॆ.॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Surrounded by hundreds, by hundreds of thousands (śatasahasraiḥ), and by crores, as well as by tens of thousands (ayutaiḥ) and by śaṅkus, O hero, scorcher of foes,
 </details>
 </details>
 
@@ -1258,6 +1418,12 @@ _________________
 ऎष्टो वानररु अर्बुद (हत्तुकोटि) नूरु अर्बुद (हत्तु अरब), मध्य (हत्तु पद्म), अन्त्य (ऒन्दु पद्म) वानर सैनिक रॊन्दिगॆ बरुत्तिद्दारॆ. ऎष्टो वानररु हागू वानर यूथपतिगळ सङ्ख्यॆ समुद्र (हत्तु नील) हागू परार्ध (शङ्ख)दवरॆगॆ तलुपिदॆ.॥31॥*
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘and by arbudas, hundreds of arbudas, madhyas, and antyas, the monkeys and monkey troop-leaders (hariyūthapāḥ)—themselves numbering in samudras and parārdhas—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1343,6 +1509,12 @@ by the names: *prayutam* 'a million...' *arbuda* 'a billion..' and *shanku* 'a t
 and this exactly relates to the decimal system which is based on the number ten, in which the smaller units are
 related to the principal units as powers of ten [units, tens, hundreds, thousands, etc.]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘will come to you, O king, equal to Mahendra in valor (mahendrasamavikramāḥ), resembling clouds and mountains, having made their abodes on Meru and Vindhya.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1388,6 +1560,12 @@ will be approaching; *hi* = surely.
 
 "Those vanara-s who are combative in wars, and those who can fetch Maithili on eliminating Ravana in war, will
 be approaching you soon." Thus Sugreeva informed Rama. [4-38-33]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘They will approach you in order to fight the Rākṣasa in battle; having slain Rāvaṇa in combat, they will surely bring back Maithilī (ānayiṣyanti maithilīm).’
 </details>
 </details>
 
@@ -1459,5 +1637,11 @@ his control, the eyes of valorous prince Rama are widened in jubilance, like the
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मूवत्तॆण्टनॆय सर्ग सम्पूर्णवायितु.॥38॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding the mighty martial preparation (samudyogam) of that foremost of monkey heroes who abided by his command (nideśavartinaḥ), the valiant son of the lord of the earth became out of joy like a newly opened blue lotus in appearance (prabuddhanīlotpalatulyadarśanaḥ).
 </details>
 </details>

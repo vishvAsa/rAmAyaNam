@@ -77,6 +77,12 @@ drifted into.
 That prince Rama whom agony and anguish are distressing has become anxious in his mien, and he again
 drifted into a dire desperation while despairing his brother Lakshmana. [3-63-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bereft of his beloved (priyayā vihīnaḥ) and tormented by grief and delusion (śokena mohena ca pīḍyamānaḥ), that prince (sa rāja-putraḥ), wearing an afflicted aspect (ārta-rūpaḥ) and filling his brother with despair (viṣādayan bhrātaram), entered into still fiercer despondency (bhūyo viṣādaṃ praviveśa tīvram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -132,6 +138,12 @@ Rama who is sunken in a chasmal sorrow spoke this sentence while wailing sorrowf
 and scorchingly, and which sentence is seemly to his sensitivity, to Lakshmana who is already under
 the sway of sorrow. [3-63-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Plunged in vast sorrow (śoke nimagno vipule), Rāma sighed hotly (uṣṇaṃ viniḥśvasya) and, weeping sorrowfully (rudan saśokam), spoke words suited to his calamity (vyasanānurūpam) unto Lakṣmaṇa, who was himself overcome by the sway of grief (śoka-vaśābhipannam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -185,6 +197,12 @@ woe; *paramparaayaa* = in seriation; *hR^idayam* = heart; *manaH ca* = mind, eve
 
 "I am second to none among the blameworthy wrongdoers on this earth, thus I deem, and indeed woe followed
 by woe are getting at me in seriation to burst my heart and mind... [3-63-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I think there is no second person like me upon the earth (na mad-vidho... dvitīyo 'sti vasuṃdharāyām) who has wrought such evil deeds (duṣkṛta-karmakārī); for sorrow upon sorrow (śokānuśoko hi) comes upon me in unbroken succession (paramparāyāḥ), rending my heart and mind (bhindan hṛdayaṃ manaś ca)!
 </details>
 </details>
 
@@ -248,6 +266,12 @@ kR^ita paapa anuruupam phalam bhavati iti arthaH - strii parvaaNi - nuunam vyapa
 | yena maam duHkhabhaageShu dhaataa karmasu yuktkavaan - mahaa bhaarata - dk* and this ripens and
 bechances at a later time in the shape of misfortune.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely in former times (pūrvam) sinful deeds were deliberately and repeatedly committed by me (mayā... abhīpsitāni pāpāni karmāṇy asakṛt kṛtāni); in that regard, this ripening of fruits has befallen me today (ayam adyāpatito vipākaḥ), whereby I enter from sorrow into sorrow (duḥkhena duḥkhaṃ yad ahaṃ viśāmi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -302,6 +326,12 @@ that are thought over; *me shoka vegam aapuurayanti* = my; agony, haste of, [the
 am detached from my mother, and Lakshmana, when all these setbacks are very deeply thought over they
 are replenishing the haste of my agony... [3-63-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The loss of the kingdom (rājya-praṇāśaḥ), separation from kinsfolk (svajanair viyogaḥ), my father's death (pitur vināśaḥ), and separation from my mother (jananī-viyogaḥ)—all these, when reflected upon (pravicintitāni), O Lakṣmaṇa, swell the surge of my grief (me... śoka-vegam āpūrayanti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -355,6 +385,12 @@ agniH iva* = by firewood [fuel,] in a flash, flaring up, fire, as with; *puna ap
 "All this sadness of mine has silenced physically and there is some peace on coming to these desolate
 forests, in association of Seetha, but with the dissociation of Seetha misery is again upshot, as with
 fire which flares up in a flash when fuel is added... [3-63-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet all this sorrow of mine, O Lakṣmaṇa, had subsided in my body (śāntaṃ śarīre) after coming to the hardship of the forest (vanam etya kleśam); now, through separation from Sītā (sītā-viyogāt), it has flared up once more (punar apy udīrṇam), like a fire suddenly kindled with faggots (kāṣṭhair ivāgniḥ sahasopadīptaḥ).
 </details>
 </details>
 
@@ -411,6 +447,12 @@ tune [untunefully]; *vikranditavati* = she [must have] shouted; *nuunam* = it is
 sweet voice might have wept a lot fearfully, and it is definite that she must have shouted a lot, untunefully...
 [3-63-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely that noble lady of mine (sā nūnam āryā mama), timid as she is (bhīruḥ), when seized by a rākṣasa (rākṣasena hy abhyāhṛtā) and borne up into the sky (khaṃ samupetya), cried out repeatedly in terror (bhayena vikranditavaty abhīkṣṇam) in a broken voice (apasvaram), though wont to speak in sweet tones (susvara-vipralāpā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -465,6 +507,12 @@ blood, mud of, bedaubed; *na abhibhaata* = not, shining forth.
 "Those two roundish bosoms of my ladylove which always deserved the application of pleasantly looking
 red-sandalwood's paste might definitely be unshiny, as they might be bedaubed with muddy blood when
 they are extricated from her body for devouring. [3-63-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Those two rounded breasts of my beloved (vṛttau stanau... priyāyā mama), ever worthy of red sandal-paste (sadocitāv uttama-candanasya) of lovely aspect (priya-darśanasya), are surely besmeared with bloody mire (śoṇita-paṅka-digdhau)—and yet no death befalls me (mama nābhipātaḥ)!
 </details>
 </details>
 
@@ -526,6 +574,12 @@ with a hairdo with hair lumped together and plaited, such as her visage is, it m
 on her going into the repression of demon, as with an unshiny moon when repressed in the mouth of eclipsing
 planet Raahu, it is definite... [3-63-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That face of hers (tasyā mukham), with its gentle, distinct, and soft speech (ślakṣṇa-suvyakta-mṛdu-pralāpam) and its mass of curling locks (kuñcita-keśa-bhāram), now that she has surely fallen under a demon's power (rakṣo-vaśaṃ nūnam upāgatāyāḥ), shines no more, like the moon in Rāhu's jaws (rāhu-mukhe yathenduḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -585,6 +639,12 @@ eaters [thirsty,] demons; *shuunye* = in a secluded [place]; *bhitvaa* = on mang
 chain-wears. The bloodthirsty demons would have indeed mangled that neck in a secluded place and they
 might have drunk her blood, it is definite... [3-63-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having slit in a lonely spot (śūnye hi bhittvā) that throat of my beloved of noble vows (grīvāṃ priyāyā mama suvratāyāḥ), whose border was ever graced by a pearl-necklace (hāra-pāśasya sadocitāntām), blood-drinking demons have surely drunk their fill (rakṣāṃsi nūnaṃ paripītavanti... rudhirāśanāni)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -640,6 +700,12 @@ like; *vi naadam* = rough, sound [discordantly]; *muktavatii* = released [shriek
 "While I was away from her in this uninhibited forest demons would have forcibly hauled her up when
 they are abducting that lady with broad-bright eyes, and she would have discordantly shrieked out like
 a piteous she-dove, it is definite... [3-63-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bereft of me in the desolate forest (mayā vihīnā vijane vane) and dragged away after being seized by demons (rakṣobhir āhṛtya vikṛṣyamāṇā), she of long, lovely eyes (āyata-kānta-netrā), wretched like a female osprey (kurarīva dīnā), surely uttered a piteous cry (nūnaṃ vinādaṃ... muktavatī)!
 </details>
 </details>
 
@@ -731,6 +797,12 @@ is evident and Oxford in saying meaning for proximity, says 'sat in close proxim
 'proximity' itself is one *upa* and 'close' is another *upa...* Thus tautology is
 same everywhere.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Seated close beside me (mayā sārdham... upopaviṣṭā) on this rock slab in former days (asmin... śilā-tale pūrvam), O Lakṣmaṇa, Sītā of noble disposition (udāra-śīlā), with a lovely smile (kānta-smitā) and breaking into laughter (jāta-hāsā), spoke many words unto thee (tvām āha sītā bahu-vākya-jātam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -782,6 +854,12 @@ I think; *saa ekaakinii* = she, lonely; *kadaacit na yaati hi* = anytime, not, g
 
 "Among rivers this Godavari is the best and it is an all the time cherished river to my ladylove, and
 I think she would have gone thereunto. But, at anytime she did not go there, singly... [3-63-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This Godāvarī, best of rivers (saritāṃ variṣṭhā), is ever dear to my beloved (priyā priyāyā mama nitya-kālam); ‘Could she have gone hither?’—so I ponder (apy atra gacched iti cintayāmi), yet she never goes anywhere alone (naikākinī yāti hi sā kadācit).
 </details>
 </details>
 
@@ -835,6 +913,12 @@ gacChati hi* = for lotuses, not, she goes, indeed.
 
 "Or, that lotus-faced, lotus-petal eyed Seetha has gone straight to bring lotuses! Nay, that idea itself
 is incongruous, for she never goes to get lotuses, indeed without me... [3-63-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or has she of lotus-like face (padmānanā) and lotus-petal eyes (padma-palāśa-netrā) gone forth to fetch lotuses (padmāni vānetum abhiprayātā)? That too is impossible (tad apy ayuktam), for she never goes for lotuses without me (nahi sā kadācin mayā vinā gacchati paṅkajāni).
 </details>
 </details>
 
@@ -895,6 +979,12 @@ much, scared - to go alone.
 kind! Nay, that thought also is incongruent, because she as a timid one is much scared of solitude...
 [3-63-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or could she indeed have gone to this forest (kāmaṃ tv idaṃ... vanaṃ prayātā nu) with its clusters of blossoming trees (puṣpita-vṛkṣa-ṣaṇḍam) and flocks of diverse birds (nānā-vidhaiḥ pakṣi-gaṇair upetam)? That too is impossible, for being timid, she is exceedingly afraid when alone (ekākinī sātibibheti bhīruḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -949,6 +1039,12 @@ you tell.
 "Oh, Sun, you are the knower of performed and unperformed deeds in the world, a wittnesser of good and
 bad deeds in the world, tell me, who am woefully writhing, to where my ladylove strolled, or is she
 stolen... [3-63-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Sun (āditya bho), knower of what is done and undone in the world (loka-kṛtākṛta-jña), O witness of the true and false deeds of the world (lokasya satyānṛta-karma-sākṣin), whither has my beloved gone, or by whom was she carried off (kva gatā hṛtā vā)? Declare all to me, who am stricken with grief (śaṃsasva me śoka-hatasya sarvam)!
 </details>
 </details>
 
@@ -1012,6 +1108,12 @@ and whichsoever it might be, and whencesoever it might exist, that cannot possib
 Hence, tell me of the lady from noble heritage... is she stolen, or slain, or strayed her steps..."
 Thus Rama begged of the Eternals for locating Seetha. [3-63-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In all the worlds there is naught whatever (lokeṣu sarveṣu na nāsti kiṃcid) that is not ever known to thee (yat te na nityaṃ viditaṃ bhavet tat); declare, O Wind (śaṃsasva vāyo), concerning that lady who upholds the honour of her house (kula-pālinīṃ tām), whether she is dead, carried off, or tarrying on the way (mṛtā hṛtā vā pathi vartate vā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1065,6 +1167,12 @@ diina sattvaH* = not, dispirited, in courage; *nyaaye sthitaH* = in justice, sta
 
 To such a Rama whose physique is routed by his anguish in this way and who is insensately bewailing
 in that way, Soumitri whose courage is un-dispirited gave a justifiable and timely suggestion. [3-63-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unto that Rāma, whose body was thus utterly subject to grief (śoka-vidheya-deham), bereft of sense (visaṃjñam), and lamenting (vilapantam eva), Sumitrā's son of undaunted spirit (adīna-sattvaḥ), abiding in what was right (nyāyye sthitaḥ), spoke a timely word (kāla-yutaṃ ca vākyam):
 </details>
 </details>
 
@@ -1136,6 +1244,12 @@ GYaatvaa sthiro bhuutvaa jahi ariin dhairyam aapnuhi | dk* Thus Vyaasa advises
 Dharmaraja to have fortitude and courage when he was sinking under the grief for the merciless
 killing of lonesome Abhimanyu, the son of Arjuna, in Maha Bharata war.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Casting off grief today, betake thyself to fortitude (śokaṃ visṛjyādya dhṛtiṃ bhajasva), and let there be energetic resolve in searching for her (sotsāhatā cāstu vimārgaṇe 'syāḥ); for men of energy never sink down in the world (utsāhavanto hi narā na loke sīdanti) even in deeds most difficult to accomplish (karmasv atiduṣkareṣu).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1199,6 +1313,12 @@ no heed to it, and since he castaway his fortitude he again encountered an inexp
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥63॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though Sumitrā's son of lofty valor spoke thus (itīva saumitrim udagra-pauruṣaṃ bruvantam), the afflicted increaser of Raghu's line (ārto raghu-vaṃśa-vardhanaḥ) paid no heed (na cintayāmāsa); abandoning fortitude (dhṛtiṃ vimuktavān), he once again fell into mighty sorrow (punaś ca duḥkhaṃ mahad abhyupāgamat).
 </details>
 </details>
 

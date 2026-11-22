@@ -72,6 +72,12 @@ tasya* = by that Indrait's; *karmaNaa* = deed.
 Then, Hanuma with a terrific prowess, was enraged (at his capture and his being dragged)
 and saw Ravana with his red hot eyes. He was surprised by that deed of Indrajit.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Hanūmān of formidable valor (bhīmavikramaḥ), astonished by his [Indrajit's] feat (karmaṇā) yet with eyes copper-red with wrath (krodhatāmrākṣaḥ), beheld the overlord of the rākṣasas (rakṣo'dhipam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,6 +127,12 @@ with strings of pearls.
 Ravana was endowed with a great splendor and shone with a glittering and precious diadem
 of gold as also encircled with strings of pearls.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He beheld him] of great effulgence (mahādyutim), blazing with a priceless (mahārheṇa), resplendent golden crown (kāñcanena mukuṭena) encircled by a lattice of pearls (muktājālavṛtena);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -166,6 +178,12 @@ the mind.
 
 That Ravana was adorned with bright-coloured gold ornaments, inlaid with diamonds and
 decorated with worthy gems, which appeared as though they were prepared with the mind.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Adorned] with wondrous golden ornaments (haimair ābharaṇaiś citraiḥ) fitted with settings of diamonds (vajrasaṃyogasaṃyuktaiḥ), fashioned from priceless gems (mahārhamaṇivigrahaiḥ), and seemingly wrought by thought alone (manaseva prakalpitaiḥ);
 </details>
 </details>
 
@@ -213,6 +231,12 @@ decorated with worthy gems, which appeared as though they were prepared with the
 Ravana was attired in very costly silk and his body was smeared with red-sandal paste
 and well painted with various brightly coloured designs.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clad in priceless linen (mahārhakṣaumasaṃvītam), besmeared with red sandal-paste (raktacandanarūṣitam), and finely anointed (svanuliptam) with variegated and diverse ornamental patterns (bhaktibhiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -235,6 +259,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उसकी आँखें देखने योग्य लाल-लाल और भयावनी थीं; उनसे और चमकीली तीखी एवं बड़ी-बड़ी दाढ़ों तथा लंबे-लंबे ओठोंके कारण उसकी विचित्र शोभा होती थी ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wondrous (vicitram) with handsome yet dread-inspiring red-eyed [faces] (raktākṣair bhīmadarśanaiḥ), having blazing, sharp, great fangs (dīptatīkṣṇamahādaṃṣṭram) and pendulous lips (pralambaṃ daśanacchadaiḥ);
 </details>
 </details>
 
@@ -283,6 +313,12 @@ Ravana looked strange with his ten heads, having terrible-looking yet good-looki
 of red eyes each, with brilliant sharp enormous teeth and protruding lips, like a daring demon endowed
 with extra ordinary vigour, shining brightly as Mount Mandara with its peaks and infested with snakes
 of different varieties.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The hero [Hanūmān beheld him] of mighty energy (mahaujasam), blazing with ten heads (śirobhir daśabhiḥ) like Mount Mandara with its peaks (śikharair iva mandaram) teeming with diverse serpents (nānāvyālasamākīrṇaiḥ).
 </details>
 </details>
 
@@ -334,6 +370,12 @@ Ravana was having a pearl necklace casting its splendor on his bosom. He was loo
 like a mass of blue antimony, but with his countenance shining like the full moon and appearing like
 a cloud illumined by the rising sun.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling a mass of dark collyrium (nīlāñjanacayaprakhyam), [he looked] like a rain-cloud accompanied by the rising sun (sabālārkām ivāmbudam), with a necklace shining upon his chest (hāreṇorasi rājatā) whose central gem gleamed like the full moon (pūrṇacandrābhavaktreṇa);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,6 +426,12 @@ Ravana was distinguished by (twenty) arms, adorned with bracelets, smeared with 
 sandal-paste and decked with shining Angadas another variety of bracelets and looking like large five-hooded
 serpents.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With formidable arms (bāhubhir bhīmaiḥ) bound with upper-arm clasps (baddhakeyūraiḥ), smeared with the finest sandal-paste (candanottamarūṣitaiḥ), and blazing with armlets (bhrājamānāṅgadaiḥ), like five-hooded serpents (pañcaśīrṣair ivoragaiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -433,6 +481,12 @@ picturesque; *ratna samyoga samskR^ite* = by being embedded with jewels; *uttmaa
 He was comfortably seated on a big excellent throne of crystal, rendered picturesque
 by being embedded with jewels and overspread with an exquisite covering.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated royally (sūpaviṣṭam) upon a great, wondrous crystal throne (mahati sphāṭike citre varāsane) variegated with settings of gems (ratnasaṃyogacitrite) and spread with the finest coverings (uttamāstaraṇāstīrṇe);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -477,6 +531,12 @@ alankR^itaabhiH* = well adorned; *vaalavajanahastaabhiH* = with whisks in their 
 
 He was duly waited upon at close quarters on all sides by young ladies, well-adorned
 and with whisks in their hands.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Waitingly attended close at hand (ārāt samupasevitam) on all sides (samantataḥ) by richly adorned young women (alaṃkṛtābhir atyarthaṃ pramadābhiḥ) holding chowrie-fans in their hands (vālavyajanahastābhiḥ);
 </details>
 </details>
 
@@ -539,6 +599,14 @@ He was proud of his might and had four counselors sitting nearby, all belonging 
 demonical race and who knew the secret of good counsel, viz. Durdhara, Prahasta, Mahaparshva the demon
 and the counselor Nikumbha and looked like the entire terrestrial globe enclosed by four oceans.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** And [attended] by the rākṣasas Durdhara, Prahasta, and Mahāpārśva, by counselors (mantribhiḥ) conversant with the essence of statecraft (mantratattvajñaiḥ), and by the minister Nikumbha (nikumbhena ca mantriṇā).
+
+**12:** Seated closely surrounded (upopaviṣṭam) by those four rākṣasas and proud of his strength (baladarpitam), like the entire earth (kṛtsnaṃ lokam) encompassed by the four oceans (caturbhir iva sāgaraiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -589,6 +657,12 @@ other; *rakSobhiH* = demons; *shubhabuddhibhiH* = with; *rakSobhiH* = demons;
 He was being reassured by counselors knowing the secret of good counsel and other demons
 with auspicious minds, as Indra the lord of celestials is reassured by celestials.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Being heartened (āśvāsyamānam) by counselors conversant with the essence of policy (mantratattvajñaiḥ) and by other auspicious-sighted ministers (anyaiś ca śubhadarśibhiḥ sacivaiḥ), like the lord of the gods by the gods (surair iva sureśvaram);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -637,6 +711,12 @@ satoyam toyadam iva = like a rainy cloud; *merushikaare* = on the peak of Mount 
 Hanuma saw Ravana with a great splendor, sitting on the throne, looking like a rainy
 cloud on the peak of Mount Meru.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān beheld the lord of the rākṣasas (rākṣasapatim) of surpassing splendor (atitejasam), encircled [on his throne] like a water-laden cloud (satoyam iva toyadam) resting upon a peak of Mount Meru (meruśikhare);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -682,6 +762,12 @@ demons; *saH* = that Hanuman; *bhiimavikramaiH* = of terrific prowess; *gatvaa*
 
 Though tortured by the demons that Hanuma, of terrific prowess, experiencing a great
 surprise, looked attentively at Ravana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though being sorely pressed (sampīḍyamāno'pi) by those rākṣasas of terrible valor (rakṣobhir bhīmavikramaiḥ), he [Hanūmān] fell into supreme wonder (vismayaṃ paramaṃ gatvā) and gazed upon the overlord of the rākṣasas (rakṣo'dhipam avaikṣata).
 </details>
 </details>
 
@@ -729,6 +815,12 @@ surprise, looked attentively at Ravana.
 Seeing the glittering Ravana, the king of demons, Hanuma was bewildered by his splendor
 and thought in his mind as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the lord of the rākṣasas blazing thus (bhrājamānam), Hanūmān, dazzled by his splendor (tejasā tasya mohitaḥ), reflected in his mind (manasā cintayāmāsa):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -775,6 +867,12 @@ has.
 "What figure, what courage, what strength, what splendor and what amalgam of auspicious
 marks, alas, this king of demons has!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Ah, what form (rūpam)! Ah, what firmness (dhairyam)! Ah, what strength (sattvam)! Ah, what splendor (dyutiḥ)! Ah, the endowment with every royal mark (sarvalakṣaṇayuktatā) in the king of the rākṣasas!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -820,6 +918,12 @@ celestials; *sashakrasya* = including Indra the Lord of celestials.
 
 "Had this lord of demons perhaps not strong in unrighteousness, he would have been a
 protector of even the world of celestials together with Indra the lord of celestials."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If unrighteousness (adharmaḥ) were not so mighty [in him], this lord of the rākṣasas (rākṣaseśvaraḥ) would be the protector (rakṣitā) even of the world of the gods together with Śakra (saśakrasyāpi suralokasya)!
 </details>
 </details>
 
@@ -915,6 +1019,14 @@ intelligent Hanuma formulated many kinds of thoughts in this way.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तॊम्भत्तनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “Because of his cruel and ruthless deeds (krūrair nṛśaṃsaiś ca karmabhiḥ), reviled by the world (lokakutsitaiḥ), all the worlds together with gods and dānavas (sāmaradānavāḥ) truly fear him (bibhyati khalv asmāt).
+
+**20:** “For when enraged (kruddhaḥ), this one is capable of turning the universe into a single ocean (kartum ekārṇavaṃ jagat)!” Thus did the wise monkey (matimān kapiḥ) engage in manifold reflection (cintāṃ bahuvidhām akarot) upon beholding the majesty of the rākṣasa king of boundless energy (amitaujasaḥ).
 </details>
 </details>
 

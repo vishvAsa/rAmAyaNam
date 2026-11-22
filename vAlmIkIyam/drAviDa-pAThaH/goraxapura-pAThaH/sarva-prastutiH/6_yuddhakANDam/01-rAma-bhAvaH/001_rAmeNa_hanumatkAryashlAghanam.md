@@ -71,6 +71,12 @@ _________________
 Touched with joy to hear the words rightly spoken by Hanuman, Rama replied as
 follows: -
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard the speech (vākyam) of Hanūmān, spoken strictly in accordance with the facts (yathāvad abhibhāṣitam), Rāma, filled with deep delight (prīti-samāyuktaḥ), spoke these words in reply (uttaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +124,12 @@ achieved; *manasaapi* = even in thought; *anyena* = by another; *dharaNiitale*
 "A very outstanding work, the most arduous in the world has been done by Hanuman,
 which could not be carried out even in thought by any other on the surface of this earth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A supremely great deed (kāryaṃ sumahat), rare to achieve upon the earth (bhuvi durlabham), has been accomplished by Hanūmān—one that could not even be conceived in mind (manasāpi) by any other upon the face of the earth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -164,6 +176,12 @@ vehicle of Lord Vishnu); *vaayoH* = wind-god; *anyatracha* = and anyone other th
 
 "Indeed, I cannot perceive as such anyone other than Garuda (chief of the feathered
 race and vehicle of Lord Vishnu), wind- god and Hanuman, who can cross the mighty ocean."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, I do not behold anyone (na hi taṃ paripaśyāmi) who could cross that mighty ocean (mahodadhim), save Garuḍa, Vāyu [the Wind-god], and Hanūmān himself (anyatra ca hanūmataḥ).
 </details>
 </details>
 
@@ -214,6 +232,12 @@ ogres; *surakshhitaam* = and well under the custody; *raavaNena* = of Ravana?"
 the city of Lanka, which is unconquerable by gods demons and Yakshas and even by Gandharvas, Nagas
 and ogres and well under the custody of Ravana?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Into the citadel of Laṅkā (purīṃ laṅkām), unassailable (apradhṛṣyām) even by gods, Dānavas, and Yakṣas, or by Gandharvas, Uragas, and Rākṣasas, and securely guarded by Rāvaṇa (rāvaṇena surakṣitām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -256,6 +280,12 @@ strength; *samaH* = like; *hanuumataH* = Hanuman?"
 be attacked and which is powerfully guarded by ogres, but one whose courage and valour are equal to
 Hanuman's?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having entered by relying upon his own heroic mettle (sattvam āśritya), what man indeed could emerge alive (jīvan ko nāma niṣkramet)? Who could even set foot inside that most impregnable fortress (sudurādharṣām), closely guarded by Rākṣasas,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -295,6 +325,12 @@ Sugriva; *evam* = thus; *vidhaaya* = by exhibiting; *svabalam* = his strength;
 
 "A great act of service has been done by Hanuman to Sugriva thus by exhibiting his
 strength corresponding to his pace."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Unless he were endowed with valor and strength (vīrya-bala-sampannaḥ) equal to Hanūmān's? A mighty service due from a servant (bhṛtya-kāryaṃ mahat) has been rendered to Sugrīva by Hanūmān, displaying thus his own strength (svabalam) worthy of his prowess (vikramasya).
 </details>
 </details>
 
@@ -343,6 +379,12 @@ difficult to perform; *bhrutyaH* = the servant; *kuryaat* = does; *tat* = it;
 "That servant to whom his master entrusts a difficult task and who performs it with
 zeal is said to be a superior person."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That servant (bhṛtyaḥ) who, when commissioned by his master (niyuktaḥ san bhartrā) in an arduous enterprise (karmaṇi duṣkare), executes it with ardent devotion (tad-anurāgeṇa), wise men declare to be the noblest of men (puruṣottamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -388,6 +430,12 @@ superior; *kaaryam* = work; *priyam* = liked; *nR^ipate* = by the king."
 
 "The one who is ready and capable but who yet does no more than his master extracts
 from him is called a mediocre person."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That servant who, though appointed, capable, and well-suited (yuktaḥ samarthaś ca), does not perform a further service dear to his king (paraṃ kāryaṃ nṛpateḥ priyam) [beyond what was commanded], they call a middling man (madhyamaṃ naram).
 </details>
 </details>
 
@@ -435,6 +483,12 @@ the work; *nR^ipateH* = of the king; *samaahitaH* = as directed."
 
 "The one who is well and able and yet does not carry out the instructions of his
 master as directed is said to be the least of men ."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And that servant who, though appointed, well-qualified, and fully capable (yuktaḥ samarthaś ca), does not execute his king's command with focused mind (samāhitaḥ), they declare to be the lowest of men (puruṣādhamam).
 </details>
 </details>
 
@@ -484,6 +538,12 @@ Sugriva too; *toshhitaH* = was delighted."
 fulfilled the task entrusted to him unfalteringly to the satisfaction of Sugriva and hence there
 was no diminution to his self."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Appointed to that commission (tan-niyoge niyuktena), Hanūmān has accomplished his bounden duty (kṛtaṃ kṛtyam); neither has he brought his own self into belittlement (na cātmā laghutāṃ nītaḥ), nor has he failed to bring delight to Sugrīva (sugrīvaś cāpi toṣitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -529,6 +589,12 @@ saved; *adya* = today; *dharmataH* = rightly."
 
 "By finding out Sita, the Raghu dynasty as well as myself and the valiant Lakshmana
 too, have been rightly saved today."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today, through the discovery of Vaidehī (vaidehyā darśanenādya), I myself, the dynasty of Raghu (raghuvaṃśaś ca), and Lakṣmaṇa of mighty strength have all been righteously preserved (dharmataḥ parirakṣitāḥ).
 </details>
 </details>
 
@@ -577,6 +643,12 @@ informed me these good tidings."
 "But it squeezes my conscience further, hopeless as I am, to think that I am not
 able to do a pleasant act befittingly to the bearer of these good tidings."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet this one thought torments my afflicted heart all the more (mano bhūyaḥ prakarṣati): that here and now I cannot render a fitting kindness (sadṛśaṃ priyam) to this announcer of glad tidings (priyākhyātuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -622,6 +694,12 @@ kaalam* = in these present circumstances; *dattaH* = is offered; *mayaa* = by me
 
 "Let me at least embrace this magnanimous Hanuman since in the present
 circumstances, this is all that is easily obtained from me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, having reached this opportune moment (kālam imaṃ prāpya), this embrace (pariṣvaṅgaḥ)—which is my very all-in-all (sarvasva-bhūtaḥ)—is bestowed by me upon that great-souled Hanūmān (tasya mahātmanaḥ).”
 </details>
 </details>
 
@@ -670,6 +748,12 @@ word.
 Thus saying, Rama vibrating with joy, clasped Hanuman in his arms who, master of
 himself, his mission fulfilled, had returned.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, Rāma, his limbs thrilling with joy (prīti-hṛṣṭāṅgaḥ), tightly embraced Hanūmān (taṃ pariṣasvaje), who had returned self-mastered (kṛtātmānam) with his mission accomplished (kṛta-kāryam upāgatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -716,6 +800,12 @@ vachanam* = these words; *sugriivasya* = Sugriva; *iishvarasya* = the ruler;
 After reflecting a while, Rama the great scion of Raghus, again spoke as follows,
 Sugriva the ruler of monkeys too listening attentively.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reflected awhile (dhyātvā), the noblest of the Raghus (raghusattamaḥ) once again spoke these words, while Sugrīva, lord of the monkeys (harīṇām īśvarasyāpi), listened closely nearby (upaśṛṇvataḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -755,6 +845,12 @@ Sugriva the ruler of monkeys too listening attentively.
 
 "The search for Sita has been performed so much well in all ways. But my mind gets
 dejected once more, when I behold this vast ocean."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In every respect (sarvathā), the search for Sītā (sītāyāḥ parimārgaṇam) has thus far been nobly accomplished (sukṛtaṃ tāvat); yet when I contemplate the ocean (sāgaraṃ tu samāsādya), my heart once again sinks into despair (punar naṣṭaṃ mano mama).
 </details>
 </details>
 
@@ -801,6 +897,12 @@ which is difficult to cross; *mahaambhasaH* = and which contains voluminous wate
 
 How can these monkeys put together will reach the southern bank of the ocean, which
 is so difficult to cross and which contains voluminous water?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How indeed (kathaṃ nāma) shall the monkeys, now assembled together (samāgatāḥ), reach the southern shore (dakṣiṇaṃ pāram) of the mighty-waters ocean (mahāmbhasaḥ), which is so hard to cross (duṣpārasya)?
 </details>
 </details>
 
@@ -850,6 +952,12 @@ _________________
 
 "Having received the tidings of Sita, what can now be done to take the monkeys to
 the farther side the sea?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even though this news of Vaidehī (eṣa tu vṛttānto vaidehyāḥ) has been recounted to me, what further means (kim ivottaram) is there for the monkeys in crossing to the far shore of the sea (samudra-pāra-gamane)?”
 </details>
 </details>
 
@@ -907,6 +1015,12 @@ filled with apprehension and then became absorbed in thought.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मॊदलनॆय सर्ग पूर्णवायितु. ॥1॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to Hanūmān, the mighty-armed Rāma, crusher of foes (śatru-nibarhaṇaḥ), bewildered by grief (śoka-sambhrāntaḥ), thereupon sank into silent reflection (dhyānam upāgamat).
 </details>
 </details>
 

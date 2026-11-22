@@ -82,6 +82,12 @@ narrated somewhere like web, if it is going to cost a fortune on printing and st
 them occasionally is unnoticed, and they appear to be redundant metre fillers in these days where Sanskrit
 itself has become an alienated language.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having cloven (bhittvā) that mace with his arrows, Rāghava, devoted to dharma (dharma-vatsalaḥ), smiling (smayamānaḥ), spoke these wrathful words (saṃrabdham idaṃ vākyam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -129,6 +135,12 @@ yourself.
 "So, this is all the strength of yours and your army that is displayed and nothing more to display,
 is it! You wretched demon, it is paltriest compared to my strength, yet you vaunt aloud futilely! [3-30-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is the utmost of your strength (etat te bala-sarvasvam) that you have displayed (darśitam), O vilest of rākṣasas (rākṣasādhama)! Far inferior to me in power (śakti-hīnataro mattaḥ), you roar at me in vain (vṛthā tvam upagarjasi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,6 +180,12 @@ surface, gone down.
 
 "This mace of yours in which you repose your bombastic aplomb, now completely battered with my arrows
 has gone onto the surface of earth, so also is your vanity. [3-30-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Cloven by my arrows (bāṇa-vinirbhinnā), this mace has fallen to the surface of the earth (bhūmi-talaṃ gatā), shattering the confidence (pratyaya-ghātinī) of you who are bold only in boastful speech (abhidhāna-pragalbhasya).
 </details>
 </details>
 
@@ -216,6 +234,12 @@ api* = your, that, words, even; *mithyaa* = are fake.
 "What that is said by you, 'I will dab the tears of the demons whose kinfolk are dead here...' even
 this word of yours is a fake. [3-30-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And what was spoken by you—‘I shall perform this wiping away of the tears (idam aśru-pramārjanam) of the slain rākṣasas’—that word of yours too is false (mithyā tad api te vacaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -262,6 +286,12 @@ this word of yours is a fake. [3-30-4]
 "In boasting you are knavish, in character roguish, and in behaviour ghoulish, such a demon as you are,
 I will take your life away as the Divine Eagle Garuda took away Ambrosia. [3-30-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall snatch away (apahariṣyāmi) the life-breaths (prāṇān) of a base (nīcasya), mean-natured (kṣudra-śīlasya), and falsely behaved rākṣasa (mithyā-vṛttasya rakṣasaḥ), just as Garutmān carried off the ambrosia (amṛtaṃ yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +337,12 @@ rip; *bhinna kaNThasya* = chopped off, of your throat; *te phena budbuda bhuuSit
 
 "Now, my arrows will rip and chop off your throat, and then the earth will guzzle the blood gushed therefrom
 garnished with froth and foam. [3-30-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today the earth shall drink (mahī pāsyati) the blood (śoṇitam), flecked with foam and bubbles (phena-budbuda-bhūṣitam), of you whose throat is cloven (bhinna-kaṇṭhasya) and whose body is rent (vidāritasya) by my arrows!
 </details>
 </details>
 
@@ -355,6 +391,12 @@ to gain, lady, like.
 "You will go to eternal sleep embracing the earth as you embrace an un-gainable lady, when both of your
 arms are knocked down to slide on earth, and limbs smeared with dirt. [3-30-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With all your limbs befouled with dust (pāṃsu-rūṣita-sarvāṅgaḥ) and your two arms slackened and laid low (srasta-nyasta-bhuja-dvayaḥ), you shall sleep (svapsyase) embracing the earth (gāṃ samāśliṣya) as though she were a hard-won woman (durlabhāṃ pramadām iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -400,6 +442,12 @@ Dandaka forests; *sharaNyaanaam* = for shelter-worthy [sages]; *sharaNyaa bhaviS
 
 "While you are in profound sleep, oh, notorious demon, this Dandaka forest becomes a shelter to the
 shelter-worthy sages and saints. [3-30-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When you, the defiler of the rākṣasas (rākṣasa-pāṃsane), lie plunged in the deep sleep [of death] (pravṛddha-nidre śayite), this Daṇḍaka forest (daṇḍakā ime) shall become a safe refuge (śaraṇyāḥ) for those who are themselves a refuge to all (śaraṇyānām).
 </details>
 </details>
 
@@ -447,6 +495,12 @@ move about.
 "When the strongholds of demons in your Janasthaana are ruined with my arrows, the sages in this forest
 will move about everywhere, fearlessly. [3-30-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When your Janasthāna has had its stronghold destroyed (hata-sthāne) by my arrows (mac-charaiḥ), O rākṣasa, the sages shall roam free from fear (nirbhayā vicariṣyanti) everywhere in the forest.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -493,6 +547,12 @@ pra sariSyanti]* = very, quickly, flee away.
 "The demonesses who terrorized others so far will be pitiably terrorised now, and they flee away very
 quickly with tear-wet faces as their kinsmen are killed. [3-30-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today the rākṣasa women (rākṣasyaḥ), who used to inspire terror in others (anya-bhayāvahāḥ), their kinsfolk slain (hata-bāndhavāḥ), shall flee in all directions (viprasariṣyanti) out of fear, wretched (dīnāḥ) and with faces wet with tears (bāṣpārdra-vadanāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -521,6 +581,12 @@ _________________
 <details><summary>Misc Detail</summary>
 
 ‘जिनका तुझ-जैसा दुराचारी पति है, वे तदनुरूप कुलवाली तेरी पत्नियाँ आज तेरे मारे जानेपर काम आदि पुरुषार्थोंसे वञ्चित हो शोकरूपी स्थायी भाववाले करुणरसका अनुभव करनेवाली होंगी ॥ ११ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today those wives of yours (patnyaḥ), sprung from families matching your own (anurūpa-kulāḥ), who have such a husband as you (yāsāṃ tvaṃ patir īdṛśaḥ), shall become bereft of all purpose (nirarthikāḥ) and taste the flavour of grief (śoka-rasajñāḥ).
 </details>
 </details>
 
@@ -597,6 +663,12 @@ are hesitatingly consigning oblations into Ritual-Fire, which are to be swiftly 
 the chants of hymns and even on time, hence you are countervailing against Veda-s and counteracting
 to their rituals, and countermanding their procedures." Thus Rama spoke to Khara irefully. [3-30-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O ruthless-natured (nṛśaṃsa-śīla), mean-minded (kṣudrātman) wretch, ever a thorn to the brāhmaṇas (nityaṃ brāhmaṇa-kaṇṭaka), on your account (tvat-kṛte) the sages cast their oblations (pātyate haviḥ) into the fire in constant dread (śaṅkitaiḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -642,6 +714,12 @@ than braying; *kharaH* = Khara; *nirbhartsayaamaasa* = started to intimidate.
 
 While Raghava is speaking that way with such an impetuosity in that forest, Khara started to intimidate
 him rancorously in a voice stridulous than braying. [3-30-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāghava was speaking thus wrathfully (evam abhisaṃrabdhaṃ bruvāṇam) in the forest, Khara, his voice grown even harsher with rage (roṣāt kharatara-svaraḥ), reviled (nirbhartsayām āsa) him:
 </details>
 </details>
 
@@ -691,6 +769,12 @@ of, for sure.
 "Priding yourself resolutely you are unfearing even in a fearful situation, thereby you have indeed
 gone into the control of death, and for sure you are unmindful of what is speakable and what is not."
 Thus, Khara started his tongue-lashing. [3-30-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are thoroughly arrogant indeed (dṛḍhaṃ khalv avalipto 'si), and fearless even amid causes of fear (bhayeṣv api ca nirbhayaḥ); therefore, being in the grip of Death (mṛtyor vaśyaḥ), you do not discern what may and may not be spoken (vācyāvācyaṃ na budhyase)!
 </details>
 </details>
 
@@ -753,6 +837,12 @@ is this sermonising. Why not finish me off from this curse and accord salvation?
 *anena maraNa samaye janaanaam buddhi bhramsho bhavati iti sUchitam - dk* 'at the time of death
 people's mind deranges...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For those men who are bound fast by the noose of Time (kāla-pāśa-parikṣiptāḥ), having the operations of their six senses paralyzed (nirasta-ṣaḍ-indriyāḥ), do not know what ought or ought not to be done (kāryākāryaṃ na jānanti).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -804,6 +894,14 @@ Saying so to Rama that nightwalker Khara then knitting his brows tightly saw eve
 weapon for use in that combat, and then he indeed found one not far away from him, namely a huge saala
 tree. [3-30-16, 17a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Having spoken thus to Rāma, knitting his brow (saṃrudhya bhṛkuṭim), that night-roamer (niśācaraḥ) then beheld a huge sāla tree (mahā-sālam) not far away (avidūre).
+
+**17:** Looking around on all sides (sarvato hy avalokayan) in battle for a weapon (praharaṇasyārthe), he uprooted (utpāṭayām āsa) that [tree], biting his lip (saṃdaṣṭa-daśanacchadam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -849,6 +947,12 @@ you are, killed; *iti ca abraviit* = thus, also, saying - shouting.
 He curled his lips in frown and started to extricate that Saala tree, and that great-mighty Khara on
 forcefully uprooting that tree with both of hands hurled it aiming at Rama, braying loudly and shouting
 at him 'you are dead...' [3-30-17b, 18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Heaving it aloft with both arms (taṃ samutkṣipya bāhubhyām) and roaring (vinarditvā), the mighty one hurled it (cikṣepa) aiming at Rāma (rāmam uddiśya), and cried out, “You are slain!” (hatas tvam iti).
 </details>
 </details>
 
@@ -906,6 +1010,12 @@ unusual facet of Rama. [3-30-19]
 The inveterate bitterness of Rama is to see the unyielding Khara at a time when all of his war paraphernalia
 is lost, but still trying to be aggressive, rancorously.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having cloven (chittvā) that hurtling [tree] (tam āpatantam) with floods of arrows (bāṇaughaiḥ), the valorous (pratāpavān) Rāma summoned up fierce wrath (roṣam āhārayat tīvram) to slay Khara in battle (nihantuṃ samare kharam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -951,6 +1061,12 @@ sahasreNa* = with arrows, a thousand; *samare kharam* = in war, Khara is; *nirbi
 
 Rama whose body is perspiring and whose eyes are acrimoniously bloodshot at ends, he utterly shredded
 Khara with a thousand arrows in that war. [3-30-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perspiring (jāta-svedaḥ) and with the corners of his eyes reddened with wrath (roṣa-raktānta-locanaḥ), Rāma then pierced (nirbibheda) Khara in battle with a thousand arrows (sahasreṇa bāṇānām).
 </details>
 </details>
 
@@ -1004,6 +1120,12 @@ rapids on Mt. Prasavana, and it overflowed on earth too. [3-30-21]
 Mt. Prasavana is depicted in Kishkindha canto where Rama admires and eulogises the rainy season when
 waiting for Sugreeva's help.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From the wounds cloven by the arrows (bāṇāntarāt), foaming blood (raktaṃ phenilam) gushed forth in abundance (bahu susrāva) from him, like the outpouring of mountain-torrents (dhārāṇāṃ ca parisravaḥ) from Mount Prasravaṇa (gireḥ prasravaṇasyeva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1049,6 +1171,12 @@ towards, bolted.
 
 When Khara is tormented with the arrows of Rama in that conflict he is bedevilled and with his blood
 stinking body he quickly bolted towards that Rama alone. [3-30-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mangled (vikalaḥ kṛtaḥ) by Rāma with arrows in combat, Khara, maddened by the stench of blood (matto rudhira-gandhena), charged swiftly straight at him (tam evābhyadravad drutam).
 </details>
 </details>
 
@@ -1124,6 +1252,12 @@ verse as, even though this verse too has the word *apasarpaNa* scrape:
 *tam aapatantam
 vegena iiptaasyam rudhira plutam | apasR^itya tataH sthaanaat dR^iShTvaa tvarita vikramaH ||*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As that enraged demon, drenched in blood (rudhirāplutam), rushed upon him (āpatantam), the accomplished archer (kṛtāstraḥ), quickening his pace slightly (kiṃcit tvarita-vikramaḥ), stepped back two or three paces (apāsarpad dvi-tri-padam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1169,6 +1303,12 @@ vegena iiptaasyam rudhira plutam | apasR^itya tataH sthaanaat dR^iShTvaa tvarita
 
 Then, Rama snatched an arrow which is similar to the Ritual-fire, and secondary only to the ultimate
 missile, namely the Brahma-missile, for the elimination of Khara in war. [3-30-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, for the slaying of Khara in battle (vadhāya samare kharasya), Rāma took up (jagrāha) an arrow blazing like fire (pāvaka-saṃkāśam), like a second rod of Brahmā (brahma-daṇḍam ivāparam).
 </details>
 </details>
 
@@ -1217,6 +1357,12 @@ That particular arrow is made available to Rama through Sage Agastya by the king
 because Indra is a sensible one about the future course of events, and he is also prosperous in securing
 impossible weaponry, and now Rama fitted such an arrow on his bow and released it towards Khara. [3-30-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That righteous-souled one (sa dharmātmā) fitted (saṃdadhe ca) that [shaft]—which had been bestowed by the wise Maghavat, king of the gods (dattaṃ maghavatā sura-rājena dhīmatā)—and loosed it (mumoca ca) toward Khara.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1264,6 +1410,12 @@ Khara's chest.]
 That formidable arrow is promptly released on Rama's stretching the bowstring up to his ear, bending
 bow almost to a circularity, and which arrow is thunderous while in egress like the thunder of a thunderbolt,
 and that has come and plunged inthe chest of Khara. [3-30-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Loosed (vimuktaḥ) by Rāma after drawing his bow (dhanur āyamya), that mighty arrow (mahā-bāṇaḥ), roaring like a thunderclap (nirghāta-sama-niḥsvanaḥ), fell upon Khara's chest (kharasyorasi cāpatat).
 </details>
 </details>
 
@@ -1317,6 +1469,12 @@ Andhaka is the son of Danu, the wife of Kashyapa Prajaapati, and her progeny is 
 demons. Shiva burns this Andhaka with his Third-eye in Shveta-forest, which is said to be at the confluence
 point of River Kauvery in ocean.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consumed by the fire of that arrow (dahyamānaḥ śarāgninā), Khara fell to the ground (papāta bhūmau), just as Andhaka fell in the Śvetāraṇya forest (śvetāraṇye yathāndhakaḥ), utterly burnt up by Rudra (rudreṇeva vinirdagdhaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1368,6 +1526,12 @@ Khara too is brought down. [3-30-28]
 
 The demon Namuchi secures a boon from the gods that he may not die by wetness or dryness, so Indra uses
 foam and forth, which are neither wet nor dry, to eliminated him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Slain (hataḥ), Khara fell down (nipapāta) like Vṛtra struck by the thunderbolt (vṛtra iva vajreṇa), or Namuci by the foam (phenena namucir yathā), or Bala smitten by Indra's lightning-bolt (balo vendrāśani-hataḥ).
 </details>
 </details>
 
@@ -1446,6 +1610,16 @@ And those gods and other celestials in their amazement said among themselves tha
 say seventy two minutes of this extreme crack-down Rama with his sharp arrows has eradicated fourteen
 thousand guise changing demons, including their chieftains Khara and Duushana. [3-30-30b, 31]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** In the meantime (etasminn antare), the gods, gathered together with the celestial bards (cāraṇaiḥ saha saṃgatāḥ), beating their celestial drums (dundubhīṃś cābhinighnantaḥ), [showered] a rain of flowers on every side (puṣpa-varṣaṃ samantataḥ)—
+
+**30:** Rejoicing (saṃhṛṣṭāḥ) and filled with wonder (vismitāḥ), they rained down [flowers] (vavarṣuḥ) upon Rāma (rāmasyopari): “In a muhūrta and a half (ardhādhika-muhūrtena), by Rāma with his sharp arrows—
+
+**31:** “Fourteen thousand (caturdaśa sahasrāṇi) shape-shifting rākṣasas (rakṣasāṃ kāma-rūpiṇām), headed by Khara and Dūṣaṇa (khara-dūṣaṇa-mukhyānām), have been slain in this great battle (nihatāni mahā-mṛdhe)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1498,6 +1672,12 @@ all, those, gods; *yathaa aagatam yayuH* = as, they came, went away.
 his valour and fortitude are like those of Vishnu..." Thus saying that way all of those gods have gone
 away as the have come. [3-30-32, 33a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Oh, what a mighty feat (aho bata mahat karma) of Rāma, who knows the Self (viditātmanaḥ)! Oh, what valor (aho vīryam), oh, what firmness (aho dārḍhyam)—it is seen to be just like that of Viṣṇu (viṣṇor iva hi dṛśyate)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1545,6 +1725,12 @@ away as the have come. [3-30-32, 33a]
 All the kingly-sages and elite-sages along with Sage Agastya, who as incidentally came here to witness
 the victory of Rama, then on foregathering near at Rama delightedly said this on adoring him. [3-30-33b,
 34a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, all those gods departed as they had come (yayur devā yathā-gatam). Then all the royal sages (rājarṣayaḥ sarve) and supreme sages (paramarṣayaḥ), gathered together (saṃgatāḥ),
 </details>
 </details>
 
@@ -1613,6 +1799,14 @@ countryside, you are brought.
 "For the purpose of eradicating these demons who are the evildoers by nature and the natural enemies
 to saintly people you are led to this countryside by the great sages with an ideation. [3-30-35b, 36a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**34:** Together with Agastya (sāgastyāḥ), joyfully honored Rāma (sabhājya muditā rāmam) and spoke these words: “For this very purpose (etad-artham), the mighty-splendoured Mahendra, chastiser of Pāka (pāka-śāsanaḥ)—
+
+**35:** “Purandara—came (ājagāma) to the sacred hermitage of Śarabhaṅga (śarabhaṅgāśramaṃ puṇyam); and by a stratagem (upāyena) you were led to this region (ānītas tvam imaṃ deśam) by the great sages (maharṣibhiḥ)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1660,6 +1854,12 @@ dharmam pracariSyanti [pra car iSyati]* = their own [of sages,] duties, well-pra
 "That which is the task of ours it is accomplished by you, oh, son of Dasharatha, now that Dandaka is
 unimpeded these great-sages will be practising their respective sacred devoirs in it." Thus, the sages
 expressed their thanksgiving. [3-30-36b, 37a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For the slaying of these foes (eṣāṃ vadhārthaṃ śatrūṇām), the rākṣasas of sinful deeds (rakṣasāṃ pāpa-karmaṇām). That task of ours (tad idaṃ naḥ kāryam) has now been accomplished by you (kṛtaṃ tvayā), O son of Daśaratha!
 </details>
 </details>
 
@@ -1711,6 +1911,12 @@ brave, Lakshmana, with, Seetha; *giri durgaat viniSkramya* = mountain, from cave
 In the meanwhile the brave Lakshmana exiting from the mountain cave came along with Seetha to their
 hermitage, and he is charmed at the victory of his brother Rama. [3-30-37b, 38a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The great sages shall now practice their own dharma (sva-dharmaṃ pracariṣyanti) in the Daṇḍaka forest.” In the meantime (etasminn antare), the heroic Lakṣmaṇa, together with Sītā (saha sītayā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1758,6 +1964,12 @@ _________________
 
 And then that brave and victories Rama too came towards hermitage while great-sages reverenced him,
 and he entered the hermitage while Lakshmana came forward to greet him. [3-30-38b, 39a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Emerged from the mountain fastness (giri-durgād viniṣkramya) and happily entered the hermitage (saṃviveśāśrame sukhī). Then the victorious Rāma (rāmas tu vijayī), being honored by the great sages (pūjyamāno maharṣibhiḥ),
 </details>
 </details>
 
@@ -1835,6 +2047,14 @@ is also scatheless, she is all-smiles for him smiling sniggeringly. [3-30-40]
 Any wife on seeing her husband returning from a risky journey will embrace her husband delightfully,
 and nothing special about it. But the commentators attach a great significance to this situation.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**39:** The hero, entered the hermitage (praviveśāśramam), reverenced by Lakṣmaṇa (lakṣmaṇenābhipūjitaḥ). Beholding him, the slayer of foes (śatru-hantāram) and bringer of happiness to the great sages (maharṣīṇāṃ sukhāvaham),
+
+**40:** Vaidehī rejoiced (babhūva hṛṣṭā) and embraced her lord (bhartāraṃ pariṣasvaje); filled with supreme joy (mudā paramayā yuktā) upon seeing the rākṣasa hordes slain (dṛṣṭvā rakṣo-gaṇān hatān), and beholding Rāma unscathed (rāmaṃ caivāvyayaṃ dṛṣṭvā), the daughter of Janaka was delighted (tutoṣa janakātmajā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1898,6 +2118,12 @@ demonic troops, and whom great-sages are worshipping, again embraced him and bec
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तनॆय सर्ग सम्पूर्णवायितु. ॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, embracing once again (punaḥ pariṣvajya) that crusher of the rākṣasa multitudes (rākṣasa-saṅgha-mardanam), who was being honored by the joyous great-souled sages (sampūjyamānaṃ muditair mahātmabhiḥ), the daughter of Janaka, her face radiant with joy (mudānvitānanā), rejoiced at that time (babhūva hṛṣṭā tadā).
 </details>
 </details>
 

@@ -111,6 +111,12 @@ is hindered by the banks of life [here the banks of the lake.] Thus on certain o
 meet with the different points of view of Rama, one as hero and the other as god incarnate, derived
 from the metaphors or similes by the ancient commentators.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached that lotus-pond (puṣkariṇī) teeming with day-lotuses, night-lilies, and fish, Rāma, accompanied by Saumitri [Lakṣmaṇa], lamented aloud with his senses agitated (ākulendriyaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -159,6 +165,12 @@ overcame, engrossed; *saumitrim idam abraviit* = to Lakshmana, this way, spoke.
 
 There, on seeing that Lake of Lotuses, thrilled are his senses with gladness, and he engrossed and overcame
 by passion spoke this way to Lakshmana. [4-1-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There, upon merely beholding that [lake], his senses trembled with delight (harṣāt); falling under the sway of longing (kāmavaśam āpannaḥ), he spoke these words to Saumitri:
 </details>
 </details>
 
@@ -227,6 +239,12 @@ other eight gems including a diamond. As such the waters are crystalline and pel
 like priceless gems, for water is the invaluable gem-like gift of nature and flowing waters are the
 priceless possessions for livelihood as well.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Saumitri, Pampā shines forth with water as clear as cat's-eye gem (vaiḍūrya-vimalodakā), abounding in full-blown lotuses and water-lilies, and graced by diverse trees.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -271,6 +289,12 @@ or trees lustre with their mountainous peaks... [4-1-4]
 The mountainous trees are teachers, and their mountainous branches are the taught, that depend on their
 teachers, and both of they depending upon the Pampa Lake, the divine tranquil water... and everything
 depends on waters, as per Vedic saying: *aapovaa idagam sarvam...* waters are everything...
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O Saumitri, behold the auspicious-looking (śubhadarśanam) forest of Pampā, where the trees with their lofty crowns shine like peaked mountains (śailā vā saśikharā iva).
 </details>
 </details>
 
@@ -328,6 +352,12 @@ along with Seetha at this juncture, because as a god incarnate He remembers the 
 innate souls dedicated to Him. Bharata is another *kainkarya* /dedicatee of Rama, the divine,
 like Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet mental agonies (ādhayaḥ) sorely torment me, already scorched by grief (śokābhisaṃtaptam), both through Bharata's sorrow and through the abduction of Vaidehī.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -379,6 +409,12 @@ cool waters, though I am disquieted... [4-1-6]
 In grief everything is disquieting, *duHkhite manasi sarvam asahyam...* but these pleasant floral
 environment of Pampa is admirable to Rama, because nature is divine.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even to me, afflicted with sorrow (śokārtasyāpi), auspicious Pampā with its cool waters and variegated woods shines brightly, strewn with manifold blossoms (puṣpaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -429,6 +465,12 @@ and restless are the deer and birds flocks, as well... [4-1-7]
 Even though serpents etc., are there, the lake with its lotuses is pleasant. This suggests that if a
 wise-one contains a vice, he is not deplorable... *teSaam tejo visheSeNa pratyavaayo na vidyate...smriti*
 scriptures.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Covered over with lotus-beds (nalinaiḥ), it is exceedingly lovely to behold (atyartha-śubhadarśanā), frequented by serpents and beasts of prey, and teeming with deer and birds.
 </details>
 </details>
 
@@ -482,6 +524,12 @@ The green pasturelands have become colourful pastures with variegated flower-fal
 mortal soul on receiving many a teaching from many teachers, where the teachers are trees and flowers
 are teachings, that mortal is becoming immortal, and becomes an abode to the Supreme soul.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This dark-blue and yellow-green sward (nīlapītaṃ śādvalam) shines all the more brightly, overlaid with the diverse blossoms of trees as though with woven coverlets (paristomair iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -534,6 +582,12 @@ are wholly embraced by climbers and their apices. [4-1-9]
 
 A householder, though embraced by many flowery desires, will stand out, with his own flowers of wisdom,
 should he be true devotee.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On every side, the treetops (śikharāṇi), richly laden with masses of flowers, are closely embraced (upagūḍhāni) all around by creepers with blossoming tips.
 </details>
 </details>
 
@@ -590,6 +644,12 @@ to the captive Seetha finds some other great teachers of nature, but whom he can
 purpose because they are sessile. He however praises them while remembering Seetha. The touch of Cupid
 is for the Rama, the Hero, and the touch of anguish in search of a good teacher is for the god incarnate.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleasant-breezed (sukhānilaḥ), O Saumitri, is this season (kālaḥ) abounding in passion; fragrant is this spring month (surabhir māsaḥ), in which trees bear both flowers and fruit.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -639,6 +699,12 @@ rain, like the rain from rain-clouds... [4-1-11]
 
 Teachers rain flowers of wisdom like rain from clouds without any seeking.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold, O Saumitri, the splendors of the flower-decked woods (vanānāṃ puṣpaśālinām), pouring forth showers of blossoms (puṣpavarṣāṇi) like rain-clouds shedding rain.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -683,6 +749,12 @@ swung; *puShpaiH avakiranti gaam* = flowers, showering, onto ground.
 
 "Also on those appeasing terraces of mountains there are many forest trees... speed of winds are swinging
 them to shower flowers onto ground... [4-1-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And upon the lovely rock-slabs (prastareṣu), diverse forest trees, shaken by the force of the wind (vāyuvega-pracalitāḥ), strew the earth with flowers.
 </details>
 </details>
 
@@ -737,6 +809,12 @@ morally. With all of them the god plays in his *kriida, liila* . Presently god's
 namely the Air is playing with them, since air is the *suutra* , string, the thread of whole
 creation.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold, O Saumitri, how on every side the breeze (mārutaḥ) seems to sport (krīḍatīva) with flowers that have fallen, that are falling, and that still rest upon the trees.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -787,6 +865,12 @@ and though displaced those bees are singing as though in accompaniment to the si
 
 The singing of honeybees or of the air amounts to the chanting of Sama Veda hymns at the sight of Absolute,
 i.e., Rama who now appeared in this environ.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tossing about the diverse boughs of the trees heavy with blossoms (kusumotkaṭāḥ), the wind is accompanied in song (anugīyate) by bees dislodged from their perches.
 </details>
 </details>
 
@@ -846,6 +930,12 @@ dwell in caves, and are equated with the pre-eminent teaches who always sing in 
 will be as good as singing the Vedic Hymns. Now the air emerging from the caverns of yonder firmaments
 is singing Sama Veda applauding Rama, the Divine.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Issuing from the mountain caves (śailakandara-niṣkrāntaḥ), the wind seems to burst into song through the calls of intoxicated cuckoos, making the trees dance (nartayann iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -897,6 +987,12 @@ entwined one with the other... [4-1-16]
 **टिप्पनी**
 
 Entwined are the devotees in the devotion of their common Supreme.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tossed violently on all sides by that wind, these trees with their branch-tips intertwined (saṃsakta-śākhāgrāḥ) appear as though woven together (grathitā iva).
 </details>
 </details>
 
@@ -970,6 +1066,12 @@ Veda. The birds, as the captivated souls, are seeking salvation in their chantin
 i.e., flowers to communicate the same to god, with their fragrant knowledge. This enthrals the god,
 now Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That very wind (anilaḥ), pleasant to the touch and cool as sandal-paste (candana-śītalaḥ), blows wafting a pure fragrance and dispelling fatigue (śramāpanayanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1014,6 +1116,12 @@ humming; *vaneSu madhu gandhiSu* = in forest, with honey's, aroma.
 "Air is vacillating these trees in this honey scented forest... and the trees appear to be enjoying
 their fluttering dance and seem to be swinging their treetops to appreciate the singing of honeybees
 that are humming in accompaniment to this dance... [4-1-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tossed by the breeze in the honey-scented woods (vaneṣu madhugandhiṣu), these trees seem to murmur aloud (vinadantīva) through the bees humming in response.
 </details>
 </details>
 
@@ -1060,6 +1168,12 @@ shailaaH* = mountains; *vi raajante mahaa drumaiH* = indeed, liven up, with grea
 "On mountain-planes that are beautiful with fully flowered and pleasant tress that entwine the mountain
 peaks with their high treetops, and thus these mountains indeed liven up with these great trees...[4-1-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon the lovely mountain plateaus (giriprastheṣu), the peaks with their contiguous summits (saṃsakta-śikharāḥ) shine forth with charming, flower-laden great trees.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1105,6 +1219,12 @@ peaks with their high treetops, and thus these mountains indeed liven up with th
 "Air is moving the treetops fully covered with flowers to swinging and the coronet like honeybees have
 to swing around those treetops, thus these trees themselves appear to be dancing to be dancing and singing...
 [4-1-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With their crowns covered in blossoms and swaying as the wind tosses them (mārutotkṣepa-cañcalāḥ), these trees crested with bees (madhukarottaṃsāḥ) seem to burst into song.
 </details>
 </details>
 
@@ -1156,6 +1276,12 @@ iva* = yellow, cloth, like.
 stems, and they look like men wearing golden ornaments on their upper body, while their loin cloth is
 yellow... [4-1-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And behold on every side these karṇikāra trees in full bloom (supuṣpitān), looking like men clad in yellow garments (pītāmbarān iva) and decked all over with gold.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1200,6 +1326,12 @@ disunited...[4-1-22]
 All the innate souls are required to be in unison with the Supreme Soul, and they are not to depart
 for the worldly illusions. Seetha's illusion to possess the Golden Deer chanced for her abduction, and
 thus disunited from Rama
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This spring season (vasantaḥ), O Saumitri, resounding with the cries of diverse birds, kindles grief (śokasaṃdīpanaḥ) in me, bereft as I am of Sītā.
 </details>
 </details>
 
@@ -1249,6 +1381,12 @@ The hero hears the call of cuckoo as heroine's call. The God is listening to the
 of nature, as a call for salvation. Rama, who has not heard any call of Seetha so far, which he will
 hear at the end of this canto, is in wait for such a call.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For love (manmathaḥ) torments me who am already overcome by sorrow, and the cuckoo (kokilaḥ), warbling joyously, challenges me on every side.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1294,6 +1432,12 @@ me awesome.
 
 "This gallinule bird happily calling in the forest brooks is making me awesome with its calls, as the
 Love-god has already made me awestricken... [4-1-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And this joyful gallinule (dātyūhakaḥ), crying out beside the lovely forest cascade (vananirjhare), will plunge me, already possessed by passion, into deeper grief, O Lakṣmaṇa.
 </details>
 </details>
 
@@ -1344,6 +1488,12 @@ my, dear one Seetha; *etasya shabdam shrutva* = this bird's, calling, on hearing
 "Earlier when we were in hermitage, on hearing this bird's call, dear Seetha used to call me to listen,
 and she herself was highly cheerful at this bird's calls... [4-1-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Formerly, while dwelling at our hermitage (āśramasthā), my beloved, upon hearing the cry of this [gallinule], would call me in sheer delight (pramuditā) and rejoice exceedingly.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1385,6 +1535,12 @@ _________________
 
 "Very many amusing birds of that kind are flitting all over on trees, bushes, and creepers emitting
 very many sounds... see them, Lakshmana... [4-1-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold how brightly colored birds (vicitrāḥ patagāḥ), uttering manifold cries (nānārāva-virāviṇaḥ), alight on every side upon the trees, shrubs, and creepers.
 </details>
 </details>
 
@@ -1434,6 +1590,12 @@ king-bees, well, gladdened; Soumitri; *madhura swaraaH* = pleasing, tunes [singi
 "Well mingled are these female birds with their male ones, for which they are well admired by their
 own flock, oh! Soumitri, and such birds are calling gladsomely together with the pleasing humming of
 king-bees... [4-1-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Female birds mingled with their mates (vimisrāḥ puṃbhiḥ), gladdened by their own flocks (ātmavyūhābhinanditāḥ) and delighted by the bhṛṅgarāja birds, warble with sweet voices, O Saumitri.
 </details>
 </details>
 
@@ -1521,6 +1683,12 @@ retrieves Her, for no one on earth can amass heavenly wealth. In Lakshmi tantra,
 text Lakshmi states that: *aham naaraayanii naama saa sattaa vaiShNavii paraa* " I am indeed
 Naaraayanee [i.e. Lakshmi] the supreme essence of Vishnu..." [Lakshmi Tantra 3.1.] Hence, Seetha may
 not be taken as yet another princess from this viewpoint.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And here upon the bank of this [Pampā], birds in flocks (saṅghaśaḥ śakunāḥ) rejoice amid the amorous cries of gallinules (dātyūha-rativikrandaiḥ) and the notes of male cuckoos.
 </details>
 </details>
 
@@ -1633,6 +1801,12 @@ The Ashoka flower kills natual hunger, Jasmine desciccates, mango flower fades
 the colour, and lotusess causes criss-cross thinking, and the costuses incite the desire for
 suicide.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And these trees resound, kindling passion in me (mamānaṅga-pradīpakāḥ); having clusters of aśoka blossoms for its live coals (aśokastabakāṅgāraḥ) and the hum of bees for its crackling roar,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1679,6 +1853,12 @@ life, [will there,] be, purposefulness.
 
 "And if she with slender eyelids on her eyes, decent hairdo, and a soft spoken one, Oh! Soumitri, if
 she is unseen by me will there be any purposefulness of my life? [4-1-30b, 31a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the fire of spring (vasantāgniḥ), with its copper-red flames of young shoots (pallava-tāmrārciḥ), will surely burn me up! For without beholding her of fine-lashed eyes, lovely hair, and gentle speech—
 </details>
 </details>
 
@@ -1729,6 +1909,12 @@ end of [far-flung]; *ayam kaalaH* = season; *hi ruchiraH* = indeed, appealing [t
 "My dear Seetha has an enchantment for these enchanting woodlands bustling with koels up to their horizons,
 and Lakshmana, similarly enchanting is this vernal season to her... [4-1-31b, 32a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—there is no use in life for me, O Saumitri, while I do not behold her! For this lovely season (ruciraḥ kālaḥ) with its charming woods was ever dear to her—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1778,6 +1964,12 @@ of love, throes, born out of; *vasanthaH guNa varthitaH* = spring's, by attribut
 will swiftly burn me down in no time... [4-1-32]
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—its forest borders echoing with cuckoos (kokilākula-sīmāntaḥ), O sinless one, dear to my beloved! Born of the torment of passion (manmathāyāsa-saṃbhūtaḥ) and fed by the excellences of spring,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1823,6 +2015,12 @@ this, in soul, arising one [Love God, in me]; *bhuuyastvam upayaasyati* = intens
 "As the one unable to see that lady but able to see beautiful trees the Love-god in me gains intensity...
 [4-1-33b, 34a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+this fire of grief (śokāgniḥ) will swiftly burn me up before long (nacirād iva), as I gaze upon these lovely trees without beholding that lady.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1867,6 +2065,12 @@ touch of, remover;. dR^ishyamaanaH vasantha cha = visible one, spring-season, to
 
 "Now, that invisible Seetha is intensifying my agony, and this visible spring season, the remover of
 the touch of sweat too, is doing the same... [4-1-34b, 35a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This mind-born love (ātmaprabhavaḥ) of mine will grow to even greater intensity (bhūyastvam upayāsyati); here Vaidehī, remaining unseen, increases my sorrow,
 </details>
 </details>
 
@@ -1916,6 +2120,12 @@ chaitra vana anilaH* = cruel, Chaitra month's [April-May], forest, breeze; *sant
 
 "Overwhelmed with the grief of worry about that deer eyed Seetha, such as I am, I am burnt down by this
 cruel vernal breeze of forests...[4-1-35b, 36a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and spring, being seen all around and drying up the touch of sweat (svedasaṃsarga-dūṣakaḥ), [increases my sorrow]. For that fawn-eyed lady (mṛgaśāvākṣī), and the cruel forest wind of Caitra,
 </details>
 </details>
 
@@ -1973,6 +2183,12 @@ look like crystals. Thus the spring breeze is permeating anywhere, including Ram
 the togetherness with Seetha. Unlike other birds, the peacocks do not mate often and in open. It has
 some ritual like dancing and secret in its conduct of mating.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+torment me, O Saumitri, overpowered as I am by anxiety and grief (cintāśoka-balātkṛtam). Yonder peacocks (mayūrāḥ) shine forth, dancing here and there—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2021,6 +2237,12 @@ love, muffled in; *mama manamadha vardhanaaH* = in me, lovesickness, intensifyin
 "Those peacocks that are surorounded by their peahens and convulsed in love are intensifying longing
 in me, who am already muffled in love-longing... [4-1-37b, 38a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—with their own tail-feathers (svaiḥ pakṣaiḥ) tossed by the wind like crystal-latticed windows (gavākṣaiḥ sphāṭikair iva); surrounded by peahens, yonder [peacocks] are intoxicated with passion,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2066,6 +2288,12 @@ bhartaaram mayuuram upa nR^ityanti* = dancing, after husband, peacock, at nearby
 "See Lakshmana, on that mountain terrace this peahen longing for love is dancing at the nearby of her
 husband, that peacock... [4-1-38b, 39a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+increasing the longing (manmathavardhanāḥ) of me who am already overwhelmed by passion! Behold, O Lakṣmaṇa, how the peahen dances toward (upanṛtyati) the dancing peacock,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2110,6 +2338,12 @@ wings; *rutaiH upahasan iva* = screams, jokingly, as though; *manasaa taam raama
 
 "Spreading his beautiful wings and screaming as though joking, even that peacock is longingly running
 after his female... [4-1-39b, 40a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+this peahen (śikhinī) afflicted with love approaching her mate upon the mountain ridge (girisānuni); and the peacock too pursues that charming mate with his heart,
 </details>
 </details>
 
@@ -2159,6 +2393,12 @@ na hR^itaa* = by demon, not, abducted; *tasmaat* = therefore; *nR^ityati ramyeSu
 forests... [4-1-40b, 41a]
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+spreading wide his two bright wings (rucirau pakṣau) and seeming to mock [me] with his cries (rutair upahasann iva). Surely in the forest the peacock's beloved was not carried off by a Rākṣasa!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2210,6 +2450,14 @@ in passion, her husband, following.
 "Living in this flowering month is unbearable for me... Lakshmana, see the fondness even in those originated
 in animals, thus that peahen in her passion is following her husband... [4-1-41b, 42]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** Therefore he dances in the lovely woods together with his beloved (saha kāntayā); for me, however, dwelling here without [Sītā] in this month of blossoms (puṣpamāse) is utterly unbearable.
+
+**42:** Behold, O Lakṣmaṇa, what passionate attachment (saṃrāgaḥ) exists even among creatures born in animal wombs (tiryagyonigateṣv api), inasmuch as this peahen out of love approaches her mate!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2258,6 +2506,12 @@ she is; *madanena jaata sambhramaa* = with love, born, ecstasy, haste; *evam maa
 "Had she, that broad eyed lady Seetha, not been abducted, she too would have followed me in this way
 with an ecstatic love... [4-1-43]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even so would large-eyed Jānakī (viśālākṣī jānakī), filled with eager flurry (jātasaṃbhramā), draw near to me out of love (madanena), had she not been carried off!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2299,6 +2553,12 @@ niSphalaani bhavanti me* = flowers, futile, are becoming, to me.
 
 "See Lakshmana, while these forests are abundantly weighty with flowers in wintry season these flowers
 are becoming futile to me... [4-1-44]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold, O Lakṣmaṇa, how at the passing of winter (śiśirātyaye) the blossoms of the woods, richly laden with masses of flowers, prove fruitless (niṣphalāni) for me.
 </details>
 </details>
 
@@ -2344,6 +2604,12 @@ are becoming futile to me... [4-1-44]
 
 "Though these flowers on the trees are exceedingly beautiful they are falling onto the earth wastefully,
 along with the swarms of honeybees hovering over them... [4-1-45.]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even the lovely blossoms of the trees, in their surpassing splendor (atiśriyā), fall fruitless to the earth along with swarms of bees (madhukarotkaraiḥ).
 </details>
 </details>
 
@@ -2395,6 +2661,12 @@ as they like, and this is causing love madness in me... [4-1-46]
 The calling of the birds in-groups suggests the harmonious prayers by the devotees, which is maddening
 the god to accord salvation to so many of them.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joyful birds in flocks (saṅghaśaḥ) warble sweetly at will (kāmaṃ kalam), seeming to call out to one another and driving me mad with longing (kāmonmādakarāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2440,6 +2712,12 @@ me.
 
 "Should this spring season be there too, where my dear one Seetha is living, she with her unrequited
 merriment will definitely be saddened like me... [4-1-47]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If spring is present there as well where my beloved dwells, surely Sītā, under the sway of others (paravaśā), grieves there just as I do here.
 </details>
 </details>
 
@@ -2487,6 +2765,12 @@ how can, [she,] comport, indeed
 "Definitely this spring season will not touch that place where she is... and even if this touches that
 place, how can that lady with black-lotus-eyes can possibly comport without me! [4-1-48]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet surely spring does not touch that region where she is; for how could she, the dark-lotus-eyed lady (asitapadmākṣī), remain alive without me?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2526,6 +2810,12 @@ do.
 
 "Otherwise, even if the spring happens to be there where my dear is, what can that fine waisted lady
 do under threat by others? [4-1-49]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Or else, even if spring is present there where my beloved is, what can that fair-hipped lady (suśroṇī) do when she is menaced by foes (nirbhartsitā paraiḥ)?
 </details>
 </details>
 
@@ -2572,6 +2862,12 @@ bhaashiNii cha* = soft spoken, also; *me priyaa* = my dear one; *nuunam vasantam
 "She in midst of her youth, eyes like lotus petals, also soft-spoken one is my dear one... and definitely
 taken by the spring she leaves her life... [4-1-50]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Youthful (śyāmā), lotus-petal-eyed, and gentle of speech, my beloved, upon encountering spring (vasantam āsādya), will surely abandon her life!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2616,6 +2912,12 @@ vartayitum* = to live; *na alam* = not, be able to.
 
 "Indeed in my heart a strong notion is prevailing that the chaste lady Seetha will be unable to live
 separated from me... [4-1-51]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For this conviction (buddhiḥ) revolves firmly within my heart: chaste Sītā, having fallen into separation from me (madvirahaṃ gatā), is unable to sustain her life (nālaṃ vartayitum).
 </details>
 </details>
 
@@ -2662,6 +2964,12 @@ vi niveshitaH* = always, well, abide.
 "My thoughts of Seetha alone are well biding in me, and in Seetha also thoughts about me will always
 be abiding... [4-1-52.]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For Vaidehī's heart's affection (bhāvaḥ) is truly fixed upon me (tattvato viniveśitaḥ), and my affection too is wholly fixed upon Sītā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2700,6 +3008,12 @@ be abiding... [4-1-52.]
 
 "This breeze carrying fragrance of flowers is though pleasant for touch and though coolish like snow,
 this alone is like fire to me as I am very much worried about that lady... [4-1-53]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This blossom-wafting breeze (puṣpavaho vāyuḥ), pleasant to the touch and bearing coolness (himāvahaḥ), feels like fire (pāvakapratimaḥ) to me as I think upon that beloved lady.
 </details>
 </details>
 
@@ -2746,6 +3060,12 @@ always, happiness, I, felt; *yam* = by which [breeze]; = saH maarutaH = that, br
 "By which breeze I always felt happiness earlier along with Seetha... that breeze alone is increasing
 anguish in me without Seetha... [4-1-54]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That very breeze which formerly, in Sītā's company, I ever deemed delightful (sadā sukham), now without Sītā begets only grief (śokasaṃjananaḥ) in me.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2791,6 +3111,12 @@ well, cawing.
 
 "When Seetha was with me, then this crow flew into the sky and cawed much indicating Seetha's departure
 from me, and now sitting on a tree it is cawing agreeably indicating early arrival of Seetha... [4-1-55]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Now, in her absence, yonder bird (vihaṅgaḥ)—the crow (vāyasaḥ) that cried out harshly in the sky back then—perched upon a tree, caws joyously (prahṛṣṭam abhikūjati).
 </details>
 </details>
 
@@ -2852,6 +3178,12 @@ roves over in the sky continuously cawing, it is bad omen. If it sits on nearby 
 incessantly, it is good omen to get desired things or to indicate the arrival of dear ones etc. Such
 prognostications are available by way of bad dreams etc., at many places in Ramayana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This very bird (vihagaḥ), which there portended Vaidehī's abduction (pratihārakaḥ), will now in turn lead me into the presence of the large-eyed lady!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2899,6 +3231,12 @@ _________________
 
 "Lakshmana, observe the appealing tonality of birds in the forest that calling out atop the flowered
 trees, that which is indeed furthering one's passion� [4-1-57]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceive, O Lakṣmaṇa, the chorus of cries (saṃnādam) heightening passion in the forest, as birds warble down (avakūjatām) among the trees with blossoming tips.
 </details>
 </details>
 
@@ -2950,6 +3288,12 @@ that are raising their faces with vigour�[4-1-58]
 The true devotee quickly grasps the nectar of knowledge from the teacher like the honeybee
 that quickly grasps the nectar of the flower, however vagrant the flower may be.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yonder bee (ṣaṭpadaḥ) darts suddenly toward this tilaka flower-cluster tossed by the breeze (vikṣiptāṃ pavanena), as if toward a beloved trembling with intoxication (madoddhūtām iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2996,6 +3340,12 @@ it is standing.
 "To the impassioned ones that Ashoka tree is very much enhancing grief, and with its bouquets of flowers
 hustled up by the wind it is sanding as though to daunt me... [4-1-59]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This aśoka tree (`sorrowless'), which exceedingly increases the sorrow (śokavardhanaḥ) of lovers, stands as if menacing me (tarjayann iva) with its wind-tossed clusters.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3040,6 +3390,12 @@ trees; *vibhrama utsikta manasaa* = flirtatiously, aroused, with heart; *sa anga
 
 " Lakshmana, these mango trees bearing greenish yellow flower are appearing like men whose hearts are
 flirtatiously aroused, and who have creamed their bodies with greenish-yellow body cream� [4-1-60]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yonder mango trees (cūtāḥ) rich in blossoms, O Lakṣmaṇa, appear like men anointed with unguents (sāṅgarāgā narā iva), their minds elated with amorous dalliance.
 </details>
 </details>
 
@@ -3089,6 +3445,12 @@ tataH* = indeed moving, there, and there.
 "Oh, tigerly man Soumitri, see these Pampa's amazing forests ranges... and therein the nymphs are moving,
 hither and yon... [4-1-61]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold, O Saumitri, tiger among men (naraśārdūla), how in the variegated forest groves of Pampā, Kiṃnaras roam about here and there (yatastataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3127,6 +3489,12 @@ propitiously, fragrant; *jale sarvashaH* = in waters, everywhere; *taruna suurya
 
 "See Lakshmana, these fragrant and propitious blue lotuses are everywhere in the waters, glistening
 like tender sun... [4-1-62]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold on every side, O Lakṣmaṇa, how these sweet-scented red lotuses (nalināni) gleam upon the water like the young morning sun (taruṇasūryavat).
 </details>
 </details>
 
@@ -3174,6 +3542,12 @@ permeated with; *sougandhikaa yutaa* = with red lotuses, along with; *eSaa pampa
 "This Pampa Lake is shining forth with its tranquil waters, that contain lotuses, blue water-lily's,
 and red lotuses, along with swans and water-birds that permeate it � [4-1-63]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pellucid-watered (prasannasalilā), teeming with day-lotuses and blue water-lilies, crowded with swans and kāraṇḍava ducks, this Pampā abounds in fragrant saugandhika lilies.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3218,6 +3592,12 @@ abhi samvR^itaH* = all over, well wrapped up; *shobhate [eSaa pampaa]* = beams f
 
 "Lotuses with the resplendence of tender sun enwrapping its waters, pollen grain pilfered by honeybees
 enwrapping those lotuses� with them this Pampa is beaming forth�
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pampā shines forth, covered all over upon its water with lotuses bright as the rising sun (taruṇasūryābhaiḥ), whose filaments are brushed by bees (ṣaṭpadāhata-kesaraiḥ).
 </details>
 </details>
 
@@ -3281,6 +3661,12 @@ Tungabhadra at this place. However there is a vast lake like formation at presen
 in Karnataka State, where three rivers, namely Tungabhadra, Varada and Hagari and their tributaries
 etc., meet and disperse. This place is geographically at Long. 76�--78�, and Lat. 12�--16�.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ever frequented by cakravāka birds and bordered by woods on variegated tablelands (citraprastha-vanāntarā), it shines with herds of elephants and deer coming in quest of water (salilārthibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3328,6 +3714,12 @@ wind, throbbed, by the speed; *uurmibhiH* = by ripples; *taaDyamaanaani* = pulsa
 
 "In the tranquil water the speed of wind is throbbing ripples, and the ripples throb the lotuses, thus
 the throbbing and rippling lotuses appear beautiful� [4-1-66]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the limpid water (vimale 'mbhasi), O Lakṣmaṇa, the lotuses shine brightly as they are lashed (tāḍyamānāni) by ripples whose speed is impelled by the wind.
 </details>
 </details>
 
@@ -3380,6 +3772,12 @@ Rama's tranquil heart is throbbing like the ripples in the waters, because the r
 like heart, Seetha is missing. Goddess Lakshmi sits in the lotus holding lotuses, like the pollen, and
 the vast lake of tranquil waters is the heart of Vishnu.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not beholding Vaidehī, whose eyes are wide as lotus-petals (padmapatra-viśālākṣīm) and to whom lotuses were ever dear (satataṃ priyapaṅkajām), life does not please me at all.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3425,6 +3823,12 @@ that graceful lady; *smaara yiSyati* = to reminisce, [love-god] wishes to.
 
 "Aha! Deplorable is the deviousness of Love-god, for he is causing reminisces about that graceful lady
 who articulates that gracefully, even if she is gone away and cannot be regained now... [4-1-68]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Oh, the perversity of Kāma (kāmasya vāmatvam), who keeps reminding me (smārayiṣyati) of that auspicious lady of most auspicious speech, even when she is gone and hard to reach!
 </details>
 </details>
 
@@ -3475,6 +3879,12 @@ tolerate; *shakyaH* = possible one
 "If this spring with its flowered trees is not going to deaden me... the Love-god is a possible one
 to tolerate, though now he came upon me forcefully...[4-1-69]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This passion that has come upon me (abhyāgataḥ kāmaḥ) might have been possible for me to bear (śakyo dhārayitum), if spring with its blossoming trees did not strike me down again!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3523,6 +3933,12 @@ exhilarating [places or objects,] becoming, they are; *taani eva tayaa vina a ra
 "All those places or objects that were delightful ones to me when she was with me, and they alone are
 now becoming anguishing ones to me...for she parted from me� [4-1-70]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those very things that used to be delightful (ramaṇīyāni) to me in her company now become joyless (aramaṇīyāni) to me without her.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3570,6 +3986,12 @@ _________________
 
 "To gaze the petals of the lotus buds my sight is fascinated... and in them I perceive the pair of Seetha's
 bud-like eyes...Oh! Lakshmana...and they are alike thus... [4-1-71]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For my gaze (dṛṣṭiḥ) consents to look upon the petals of the lotus-cups (padmakośa-palāśāni), O Lakṣmaṇa, only because they resemble the buds of Sītā's eyes (sītāyā netrakośābhyām).
 </details>
 </details>
 
@@ -3667,6 +4089,12 @@ obliteration of his sins and to accord salvation. Hence Vaishnavites demand hear
 the Almighty, than indulging in earthly cherishing. This is termed as *nirhetuka satata dyaa prasaara*
 i.e., without any precondition the grace of Goddess Lakshmi always flows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mingled with lotus-filaments (padmakesara-saṃsṛṣṭaḥ) and issuing from between the trees, the charming breeze blows like the very sigh of Sītā (niḥśvāsa iva sītāyāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3708,6 +4136,12 @@ on terraces; *puSpitaam karNikaarasya* = flowered, karnikara trees [Pentepetes A
 
 "Soumitri, see those flowered Karnikara trees with their tree-trunks on those southern hill-terraces
 of Pampa, they are highly splendorous... [4-1-73]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold, O Saumitri, upon the mountain ridges to the south of Pampā (pampāyā dakṣiṇe girisānuṣu), a blossoming bough of the karṇikāra tree (karṇikārasya yaṣṭim), supremely radiant!
 </details>
 </details>
 
@@ -3753,6 +4187,12 @@ by; *vichitram reNum adhikam sR^ijate* = wondrous, dust, muchly, creating [exhau
 
 "That one, that kingly mountain which is ornamentally impregnated with ores and minerals is exhausting
 much mass of wondrous dust with the colour of its ores, that is drifted by the wind's speed... [4-1-74]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Richly adorned with mineral ores (dhātubhiḥ), this king of mountains (śailarājaḥ) sheds forth a variegated dust (vicitraṃ reṇum) stirred up by the force of the wind.
 </details>
 </details>
 
@@ -3808,6 +4248,12 @@ the other King Rama or Rama the divine, with an incensed camphor, that will be r
 coloured smoke. This is the *mangala aarati* , the auspicious camphor-torch deference offered to kings
 of deities.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the mountain plateaus (giriprasthāḥ), O Saumitri, appear on all sides as if ablaze (pradīptā iva) with leafless, lovely kiṃśuka trees in full bloom everywhere.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3856,6 +4302,12 @@ _________________
 
 "On the banks of Pampa these jasmines, water-lilies, red oleanders have grown up and they are now flowered
 that is wetted with the fragrance of nectar...[4-1-76]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Growing along the banks of Pampā (pampātīraruhāḥ), well-watered and honey-scented (madhugandhinaḥ), these mālatī and mallikā jasmines, lotuses, and oleanders (karavīrāḥ) are in bloom;
 </details>
 </details>
 
@@ -3906,6 +4358,12 @@ _________________
 "The Mogra bushes, Sinduka, Vaasanti are well flowered. Maadhavi, flowers are also fully fragrant, and
 everywhere there are bushes of Jasmine... [4-1-77]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+ketakīs, sinduvāras, and vāsantī creepers are in full blossom (supuṣpitāḥ), along with fragrance-filled mādhavī vines and kunda jasmine thickets (kundagulmāḥ) on every side;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3955,6 +4413,12 @@ champakaaH* = [Michelia champaca]; *tilkaaH* = tilaka; *cha eva* = also, like th
 "Charming are the saplings of Bilva, and Madhooka, and plants like Vakula, Champaka, Tilaka, Naaga trees
 are well flowered.... [4-1-78]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+ciribilvas, madhūkas, vañjulas, and bakulas, as well as campakas, tilakas, and nāgavṛkṣas (ironwood trees), are all in bloom—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4003,6 +4467,12 @@ _________________
 
 "Padmaka plants are well flourishing, and like that Neela, Ashoka are also flowered... trees on the
 mountain terraces namely Lodhra trees are brownish like lion's mane... [4-1-79]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and blossoming padmakas and dark nīlāśokas shine forth, along with lodhra trees upon the mountain slopes, tawny as a lion's mane (siṃhakesara-piñjarāḥ).
 </details>
 </details>
 
@@ -4055,6 +4525,12 @@ _________________
 
 "The trees of Alangium, Kurntaka, Poornaka, Devadaaru, and also the Mango trees, and like that Patala
 trees, and the trees of Mountain ebony are flowered...[4-1-80]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aṅkolas, yellow kuraṇṭas, cūrṇakas, and pāribhadrakas, as well as mango trees (cūtāḥ), trumpet-flowers (pāṭalayaḥ), and kovidāras, are in bloom.
 </details>
 </details>
 
@@ -4130,6 +4606,14 @@ eva* = also, like that; *raktaah kuravaka* = red, mehandi [Globe amaranat]; *tat
 "Silk cotton trees, palaasha trees also, like that are red mehandi trees, thus are Tinisha and Naktamaala
 trees, sandalwood trees, spandana trees are all thus well flowered... [4-1-82]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**81:** And mucukundas and arjunas are seen upon the mountain ridges (girisānuṣu), together with ketakas, uddālakas, śirīṣas, śiṃśapās, and dhavas;
+
+**82:** silk-cotton trees (śālmalyaḥ), kiṃśukas, and red kurabakas, as well as tiniśas, naktamālas, sandal-trees (candanāḥ), and syandanas;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4180,6 +4664,12 @@ _________________
 "Flowered are the trees like hintaala, tilaka, and naaga trees, and they are enfolded by the flowered
 climber-plants at their apices... [4-1-83]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and hintāla palms, tilakas, and nāgavṛkṣas are in bloom. [And see] the blossoming [trees] twined about (pariveṣṭitān) by creepers with flowering tips (puṣpitāgrābhir latābhiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4228,6 +4718,12 @@ climber-plants at their apices... [4-1-83]
 other trees, as though these trees are nearby and within the reach of climber-plants... thus the climber-plants
 passionately bear upon those trees, like the doting of passionate women... [ [4-1-84, 85a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—behold here, O Saumitri, the many lovely trees (drumān rucirān bahūn) of Pampā! And [toward] these nearby trees whose boughs are tossed by the wind (vātavikṣipta-viṭapān)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4275,6 +4771,12 @@ savouring, happy, as though; *paadapaat paadapam* = from tree to tree; *vanaat v
 be gliding from tree to tree, forest to forest, mountain to mountain... while going from tree to tree,
 mountain to mountain, forest to forest... [4-1-85b, 86a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—the creepers (latāḥ) twine after them like intoxicated fair women (mattā iva varastriyaḥ). Moving from tree to tree, from hill to hill, and from grove to grove,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4319,6 +4821,12 @@ buds, enveloped; *shyaamaa varNaa iva babhuH* = dark, in colour, thus, they shin
 
 "Some trees are full with flowers whose nectar is fragrant, and some shine forth with dark colour as
 they are enveloped with buds... [4-1-86b, 87a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the breeze (anilaḥ) blows as if gladdened by tasting manifold nectars (naikarasāsvāda-saṃmodita iva). Some honey-scented trees are covered in full-blown blossoms (paryāptakusumāḥ),
 </details>
 </details>
 
@@ -4369,6 +4877,12 @@ thus, plunging.
 "And the honeybee on assessing each of the flower as 'this one is pure... this one is delicious... and
 this one is well bloomed...' is plunging into them... [4-1-87b, 88a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+while others, wrapped in unopened buds (mukula-saṃvītāḥ), shine with a dark-green hue (śyāmavarṇā iva). [Thinking,] “This one is pure, this one is sweet, and this one is wide open!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4414,6 +4928,12 @@ this one is well bloomed...' is plunging into them... [4-1-87b, 88a]
 "On plunging into the flowers that nectar-avaricious honeybee is again coming up, and quickly going
 elsewhere in the trees on the banks of Pampa... [4-1-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the impassioned bee (rāgarakto madhukaraḥ) clings to the very blossoms; having settled down and sprung up again, yonder honey-greedy bee (madhulubdho madhukaraḥ) darts suddenly elsewhere among the trees on Pampā's banks.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4458,6 +4978,12 @@ clusters of; *shayana prastharaiH iva* = bed, laid on, like; *upastiirNaa* = spr
 
 "These clusters of flowers that have fallen on their own are spreading out like a bed of flowers laid
 on, with them the ground appears to endow comfort... [4-1-89]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Strewn with masses of blossoms (kusumasaṃghātaiḥ) that have fallen of their own accord, this earth is made comfortable (sukhākṛtā) as though spread with couches and coverlets (śayanaprastarair iva).
 </details>
 </details>
 
@@ -4506,6 +5032,12 @@ slabs, rendered into, yellow, red, hues.
 
 "On mountain slopes varied flowers are spread out, with them the colour of diverse mountain slabs is
 rendered into yellow-red hue... [4-1-90]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And upon the mountain ridges (nagasānuṣu), O Saumitri, broad couches (vistīrṇāḥ prastarāḥ) gleaming yellow and red have been fashioned in diverse ways by those very flowers of diverse kinds.
 </details>
 </details>
 
@@ -4556,6 +5088,12 @@ flowered, indeed, as though.
 "Soumitri see the bloom of flowers in spring after winter, as if the trees have indeed bore the flowers
 in competition with one another... [4-1-91]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the close of winter (himānte), O Saumitri, behold the burgeoning of blossoms (puṣpasaṃbhavam) upon the trees; for in this month of flowers, the trees have burst into bloom as if out of rivalry (saṃgharṣād iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4602,6 +5140,12 @@ attractive, highly; Lakshmana.
 "The drones of honeybees among the trees with flowered treetops appear to be the talk of trees, and
 the swinging branches of trees appear to be their invitational gestures to one another, thus those trees
 look highly attractive... [4-1-92]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeming to challenge one another (āhvayanta ivānyonyam), the trees resounding with bees (ṣaṭpadanāditāḥ) and wearing flower-crests upon their boughs (kusumottaṃsa-viṭapāḥ) shine richly, O Lakṣmaṇa.
 </details>
 </details>
 
@@ -4662,6 +5206,12 @@ topsy-turvy, when Manmadha took charge of the Universe for only a few moments, t
 towards Parvati. As such the nature at Pampa itself has become a love god to Rama, to pour out his passion
 for Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Plunging into the limpid water (vigāhya salilaṃ śubham), yonder kāraṇḍava bird sports together with his mate (kāntayā sārdham), as though kindling my passion!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4715,6 +5265,12 @@ is there to River Ganga, it would have been the world's best environ..." But Riv
 and this environ cannot be there. This stanza signifies that Pampa is a river but not a vast lake, and
 all these narrations of longing epitomises the longing for a true friend like Sugreeva or Hanuma, or
 for Rama's life-mate Seetha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If such is this heart-stealing beauty (rūpam etan manoramam) of the Mandākinī [matched here by Pampā], it is rightly (sthāne) that her charming excellences are celebrated throughout the world!
 </details>
 </details>
 
@@ -4776,6 +5332,12 @@ Rama, basing on some satirical remarks of his lowly subject deserts Seetha.
 Now that, that kingdom-fortune, Rajya Lakshmi winning your affection, is jealous of me i.e., Bhagya
 Lakshmi, and she does not let me live in your palace.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If that chaste lady (sā sādhvī) were to be seen, and if we were to dwell right here (iha vasemahi), I would not envy Śakra [Indra] nor long for Ayodhyā, O best of the Raghus!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4821,6 +5383,12 @@ to be; *na me bhavet chintaa* = not, to me, there will be, worry; *spR^ihaa anye
 
 "Nay... if I were to take delight this way in these pleasant green meadows along with her, there will
 be no worry to me... nor interest in other things... [4-1-96]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For sporting with her upon such delightful grassy meadows (ramaṇīyeṣu śādvaleṣu), no anxiety (cintā) would arise in me, nor any longing for other [pleasures].
 </details>
 </details>
 
@@ -4872,6 +5440,12 @@ me.
 "Indeed these beautifully leaved and variously flowered trees are maddening my heart as I am without
 that lady Seetha in this forest... [4-1-97]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For in this forest, yonder trees of varied foliage (vividhacchadāḥ) with their diverse blossoms breed anxiety (cintām utpādayanti) in me without my beloved.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4919,6 +5493,12 @@ that lady Seetha in this forest... [4-1-97]
 
 "See the cool water of this Pampa Lake, Soumitri, filled with blue lotuses, and with ruddy geese well
 moving in, and well venerated by the partridge birds...[4-1-98]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And behold, O Saumitri, this cool-watered [Pampā] abounding in lotuses (puṣkarāyutām), frequented by cakravāka birds, and resorted to by kāraṇḍava ducks,
 </details>
 </details>
 
@@ -4983,6 +5563,14 @@ priyam* = reminding of, dear one; *padma nibha iikshNaam* = lotus, radiance, in 
 "Enkindling passion in me, are these umpteen gladdened birds, reminding me of my dear one who is in
 the mid of her youth, moonfaced, and with the radiance of lotuses in her eyes... [4-1-100]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**99:** teeming with plava waterfowl and krauñca herons, and visited by great deer (mahāmṛga-niṣevitām)! Pampā shines all the more brightly with birds warbling aloud (vikūjadbhir vihaṃgamaiḥ).
+
+**100:** Diverse joyful birds (muditā dvijāḥ) seem to inflame my passion (dīpayantīva me kāmam), reminding me of my youthful, moon-faced beloved with lotus-like eyes (padmanibhekṣaṇām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5035,6 +5623,12 @@ vyadhayanti iva* = further, agonising, as though; *me cittam* = my, heart is [ t
 and at me, who am weaned away from such a fawn-eyed lady Seetha... and such as I am, my heart is further
 agonised on seeing these wide-eyed deer, and for not seeing her, the wide-eyed Seetha... [4-1-101]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold upon the variegated mountain slopes the stags accompanied by their does (mṛgībhiḥ sahitān mṛgān); roaming here and there, they seem to rend the heart (vyathayantīva me cittam) of me who am parted from fawn-eyed Vaidehī!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5081,6 +5675,12 @@ there.
 "If only I can see that lady on those spectacular terraces filled with impassioned bird groups with
 much ado, then there shall be peace for me... [4-1-102]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If only I might behold that beloved lady upon this lovely mountain ridge (asmin sānuni ramye) thronged with flocks of intoxicated birds, then all would be well with me (svasti bhaven mama)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5122,6 +5722,12 @@ _________________
 
 "I live along for sure, Soumitri, if that slender-waisted Vaidehi basks in this benignant breeze of
 Pampa along with me... [4-1-103]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Truly I would live on (jīveyaṃ khalu), O Saumitri, if slender-waisted Vaidehī (sumadhyamā vaidehī) were enjoying along with me the auspicious breeze of Pampā!
 </details>
 </details>
 
@@ -5179,6 +5785,12 @@ dhanyaaH* fortunate, *sevante* those that await and adore. Those couples that aw
 first breeze, emerging from the gardens of Pampa Lake, carrying fragrance of many a flower, like that
 of a garland of flowers, are fortunate.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fortunate indeed (dhanyāḥ), O Lakṣmaṇa, are those who enjoy the forest breeze of Pampā, auspicious, grief-dispelling (śokavināśanam), and wafting the fragrance of red lotuses and saugandhika lilies!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5223,6 +5835,12 @@ of a garland of flowers, are fortunate.
 
 "That youthful, lotus-petal eyed beloved of mine, that Janaka's daughter... how can that helpless lady
 bear her lives without me... [4-1-105]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How does my youthful, lotus-petal-eyed beloved, the daughter of Janaka, sustain her vital breaths (kathaṃ dhārayati prāṇān), helpless and parted from me (virahitā mayā)?
 </details>
 </details>
 
@@ -5270,6 +5888,12 @@ Seetha is an unusual princess by birth. Winning her hand in marriage is unusuall
 King Janaka with the lifting of Shiva's bow, which none else could do than Rama. Having won Seetha's
 hand in marriage, but lost her in the forest, will be ridiculous. Rama reflects here as to how his father-in-law
 King Janaka would lookdown Rama for not protecting his daughter Seetha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What indeed shall I say in the assembly of the people (janasaṃsadi) to that dharma-knowing, truth-speaking King Janaka when he asks after Sītā's welfare (pṛṣṭasītaṃ kuśalam)?
 </details>
 </details>
 
@@ -5320,6 +5944,12 @@ is staying.
 "She who accompanied me, an unfortunate one whom his father sent to forests, taking up a virtuous course...
 now where will be she, that ladylove of mine, be abiding... [4-1-107]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Where indeed is that beloved Sītā who, steadfastly embracing righteousness (dharmaṃ samāsthāya), followed me—luckless as I am (mandam)—when I was sent forth to the forest by my father?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5368,6 +5998,12 @@ kR^ipaNaH* = her, without, desolated; *katham dhaaraye* = how, live on.
 "Whose kingdom is forfeited, and whose soul succumbed to the circumstance at the time of exile, but
 she accompanied suchlike me, and Lakshmana, without her how I can I live on in desolation... [4-1-108]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bereft of her, wretched as I am (kṛpaṇaḥ), how shall I sustain my life (kathaṃ dhāraye), O Lakṣmaṇa—she who followed me when I was cast down from the kingdom with my mind stricken?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5414,6 +6050,12 @@ siidati iva* = my, mind, is sinking, as though.
 "She who has a pretty and beaming face with lotus-like eyes, that is fragrant, auspicious and scarless,
 and not seeing such a face my mind is as though sinking... [4-1-109]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not beholding that lovely, fragrant, auspicious, and blemishless (avraṇam) face of hers, with its gracefully curved lotus-eyes (cārvāñcita-padmākṣam), my mind seems to sink (sīdatīva matir mama).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5459,6 +6101,12 @@ in between, having; *guNavat* = wisdom-wise; *madhuram* = pleasing; *hitam* = fr
 
 " Lakshmana, when can I hear that conversation of Vaidehi that will have smiles and wits in between...
 wisdom wise pleasing, friendly and unique one in its own way... [4-1-110]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When, O Lakṣmaṇa, shall I hear again Vaidehī's peerless speech (vākyam atulam), endowed with excellence, sweet, salutary, and graced amidst its words with a gentle smile (smita-hāsyāntarayutam)?
 </details>
 </details>
 
@@ -5507,6 +6155,12 @@ wisdom wise pleasing, friendly and unique one in its own way... [4-1-110]
 of her sufferings, and as though gladsome woman, and she used to speak to me, one smitten by her love,
 very fondly... [4-1-111]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even after meeting with hardship in the forest, that youthful, chaste lady (śyāmā sādhvī), as though her sorrow had vanished and she were filled with joy (naṣṭaduḥkheva hṛṣṭeva), would speak kindly to me when I was worn by love!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5533,6 +6187,12 @@ very fondly... [4-1-111]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘राजकुमार! अयोध्यामें चलनेपर जब मनस्विनी माता कौसल्या पूछेंगी कि ‘मेरी बहूरानी कहाँ है?’ तो मैं उन्हें क्या उत्तर दूँगा? ॥ ११२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What indeed shall I say in Ayodhyā, O prince, to high-minded Kausalyā (kausalyāṃ manasvinīm) when she asks, “Where is my daughter-in-law (kva sā snuṣā), and how does she fare?”
 </details>
 </details>
 
@@ -5620,6 +6280,14 @@ raamam* = to great soul, Rama; *bhraataa* = his brother; Lakshmana; *yuktam avya
 To that great-souled Rama who is bewailing that way like a waif, his brother Lakshmana said these appropriate
 and infallible words. [4-1-114]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**113:** Go, O Lakṣmaṇa, see Bharata who is so devoted to his brothers (bhrātṛvatsalam); for without that daughter of Janaka (tām ṛte janakātmajām), I am unable to live on!”
+
+**114:** To the great-souled Rāma, who was lamenting thus like one refugeless (anāthavat), his brother Lakṣmaṇa spoke a fitting and imperishable word (vacanaṃ yuktam avyayam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5665,6 +6333,12 @@ and infallible words. [4-1-114]
 
 "Oh, best one among men, please control yourself Rama, let safety betide you, do not lament, the intellect
 of your kind of unblemished souls does not become languorous... [4-1-115]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Take heart (saṃstambha), O Rāma—may all be well with you! Do not grieve, O Supreme Person (puruṣottama); the resolve of pure-souled ones (akaluṣātmanām) such as you never grows faint.
 </details>
 </details>
 
@@ -5734,6 +6408,12 @@ Such wrong orientations of words used in verses will be found in other verses al
 books are carrying them forward, and they need correction by some pundits who can kindly spare time
 and effort. The above correction is per courtesy of : Pt. Paturi Sitaramaanjaneyulu
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling the sorrow born of separation (viyogajaṃ duḥkham), cast off excessive fondness for a beloved person; through soaking in too much oil [or: excessive attachment] (atisneha-pariṣvaṅgāt), even a wet wick is consumed by fire!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5779,6 +6459,12 @@ na bhavishyati taavat* = in any way, does not, live on, at all.
 "If Ravana goes to the netherworlds, or still deeper worlds from there, oh my brother, still he will
 not live, Raghava... [4-1-117]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even if he goes to the netherworld (pātālam) or still further beyond (tato 'bhyadhikam eva vā), in no case, dear brother (tāta), shall Rāvaṇa survive, O Rāghava!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5823,6 +6509,12 @@ of by him; *nidhanam vaa gamiSyati* = doom, or, enter into.
 
 "Let the emplacement of that sinning demon e obtained... and then he either cedes Seetha or enters into
 his own doom... [4-1-118]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+First let intelligence be gained (pravṛttir labhyatāṃ tāvat) of that wicked Rākṣasa's whereabouts; thereafter he shall either surrender Sītā (hāsyati vā sītām) or go to his destruction!
 </details>
 </details>
 
@@ -5876,6 +6568,12 @@ I wish to slay him,...[4-1-119]
 
 Please refer to Ch 45- 46 of Bala Kanda of details about Diti and someone entering her womb.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even if Rāvaṇa enters the womb of Diti (diter garbham) together with Sītā, even there I shall slay him if he does not give back Maithilī!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5926,6 +6624,12 @@ try; *na adhigamyate* = not, regain.
 "May you rejuvenate and be secure, oh, revered one, cast-off your pathetic mood... result of purpose
 will be lost indeed, for the endeavourers without a try, thus nothing can be regained by them... [4-1-120]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Regain your noble composure (svāsthyaṃ bhadram), O noble one, and cast aside this wretched despondency (kṛpaṇā matiḥ); for by those who have lost sight of their goal, no object is achieved without effort!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5973,6 +6677,12 @@ impossible.
 "Vehemence is might, oh, noble one, there is no superior might than vehemence and to him with vehemence
 there is no impossibility in the world,... even the slightest... [4-1-121]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resolute energy (utsāhaḥ) is mighty, O noble one; there is no strength higher than energy! For to a man of resolute energy (sotsāhasya), nothing whatsoever is hard to attain in the worlds.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6016,6 +6726,12 @@ in deeds; *utsaaha maatram aashritya* = with vehemence, alone, taking hold of; *
 **अनुवादः**
 
 "Vehement men do not regress in deeds, and taking hold of vehemence alone we regain Seetha...[4-1-122]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Men endowed with energy (utsāhavantaḥ puruṣāḥ) never sink down in their undertakings; relying on resolute energy alone (utsāhamātram āśritya), we shall recover Jānakī!
 </details>
 </details>
 
@@ -6061,6 +6777,12 @@ pR^iSTataH* = compassion, let go, behind [pushback]; *maha aatmaanam* = your gre
 
 "You leave off this enclosure of ardency and pushback that compassion ... you are not able to know your
 great and controlled soul...with these thoughts of self-pity and fondness... [4-1-123]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cast aside this surrender to passion (kāmavṛttatvam), putting grief behind your back! Do you not recognize your own self (ātmānaṃ nāvabudhyase) to be great-souled and self-mastered (mahātmānaṃ kṛtātmānam)?”
 </details>
 </details>
 
@@ -6116,6 +6838,12 @@ on receiving information that Indrajit, the son of Ravana killed Seetha. Here th
 His creation. Thus the pity and fondness of god is now aimed at releasing the innate soul, namely Seetha,
 from the captivation.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus reminded by him (evaṃ saṃbodhitas tena), Rāma, whose mind had been overwhelmed by grief, cast off both sorrow and delusion (tyajya śokaṃ ca mohaṃ ca) and regained his steadfastness (dhairyam upāgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6165,6 +6893,12 @@ strode forward.
 
 He that inestimable valiant Rama strode forward those areas of charming Pampa Lake, with the charm of
 wind-flopped trees, getting rid of grief. [4-1-125]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unflustered (avyagraḥ) and of inconceivable valor (acintyaparakramaḥ), that Rāma passed beyond (abhyatikrāmat) the exceedingly lovely and charming Pampā with its swaying trees (pāriplavadrumām).
 </details>
 </details>
 
@@ -6216,6 +6950,12 @@ wind-flopped trees, getting rid of grief. [4-1-125]
 
 That great one Rama on observing all over quickly, all round the forest with its brooks and caves, and
 reviewing with Lakshmana, though agonised at heart that anguished one travelled on. [4-1-126]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scanning at once (nirīkṣamāṇaḥ sahasā) the entire forest with its cascades and caves (nirjharakandaraṃ ca), the great-souled [Rāma], his mind agitated and stricken with sorrow, deliberated (vicārya) and set forth together with Lakṣmaṇa.
 </details>
 </details>
 
@@ -6269,6 +7009,12 @@ manaa* = not, despaired, at mind; *apramattaH* = vigilantly; *dharmeNa balena ch
 While that great soul Rama is walking ahead, that great souled Lakshmana whose stride is also like that
 of an elephant, and whose deeds are agreeable to Rama, vigilantly protected Rama with an un-despaired
 mind and even by his virtue and strength. [4-1-127]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Walking with the graceful gait of a rutting elephant (mattamātaṅga-vilāsagāmī), that great-souled Lakṣmaṇa, of steady mind and devoted deeds (iṣṭaceṣṭaḥ), guarded Rāghava as he went, both by righteousness and by might (dharmeṇa balena caiva).
 </details>
 </details>
 
@@ -6328,6 +7074,12 @@ He who is the chief of Vanara-s, who moves about Mt. Rishyamuka, while he is mea
 happened to see those two who are so amazing for a look, namely Rama and Lakshmana, by which he is so
 frightened that he is petrified. [4-1-128]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roaming near Mount Ṛṣyamūka (ṛṣyamūkasya samīpacārī), the mighty lord of the branch-leaping monkeys (śākhāmṛgāṇām adhipaḥ) [Sugrīva] beheld those two of wondrous aspect (adbhutadarśanīyau); he trembled in fear (vitatrase) and could make no movement at all.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6385,6 +7137,12 @@ is engulfed under the weight of his fear. [4-1-129]
 **टिप्पनी**
 
 Here Dharmaakuutam depicts this:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those two roaming there as he himself roamed with the stately gait of an elephant (gajamandagāmī), that great-souled monkey sank into supreme dejection (viṣādaṃ paramaṃ jagāma), overwhelmed by anxiety and crushed by the weight of fear (bhayabhārabhagnaḥ).
 </details>
 </details>
 
@@ -6449,5 +7207,11 @@ and sheltering them. [4-1-130]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद मॊदलनॆय सर्ग सम्पूर्णवायितु.॥1॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And upon beholding those two of mighty splendor (mahaujasau), Rāghava and Lakṣmaṇa, the terrified monkeys (trastā harayaḥ) fled into that holy, blissful hermitage [of Mataṅga], a true refuge (śaraṇyam) whose interior was ever frequented by monkeys.
 </details>
 </details>

@@ -92,6 +92,14 @@ extra ordinary splendour; *prachakrame* = started; *utsR^iShTum* = to release;
 Ravana, who was endowed with extraordinary splendour, started to release another
 cruel and terrific missile built by Maya the demon, on Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** When that mighty hero Virūpākṣa had been slain, and upon seeing Mahodara and Mahāpārśva struck down, that Rāvaṇa—
+
+**2:** great wrath entered Rāvaṇa in that great battle; he urged on his charioteer (sūtaṃ saṃcodayāmāsa) and spoke this word:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -152,6 +160,14 @@ destruction of the world.
 Various kinds of furious mallets, deceptive nooses and blazing thunderbolts came
 forth, like piercing gales at the time of the destruction of the world.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** “By slaying those two, Rāma and Lakṣmaṇa, I shall remove the grief of my slain ministers (nihatānām amātyānām) and of my besieged city (ruddhasya nagarasya).
+
+**4:** “In battle I shall cut down the tree that is Rāma (rāmavṛkṣam), which yields fruit through its flower Sītā (sītāpuṣpaphalapradam), and whose great branches (praśākhāḥ) are Sugrīva, Jāmbavān, Kumuda, Nala,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -200,6 +216,12 @@ The glorious Rama, the foremost among the knower in the use of excellent missile
 and who was endowed with extra ordinary splendour, struck down that missile with an excellent
 missile presided over by Gandharvas the celestial musicians.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Dvivida and Mainda, Aṅgada, Gandhamādana, Hanūmān, Suṣeṇa, and all the troop-leaders of the monkeys (hariyūthapāḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,6 +268,12 @@ down; *mahaatmanaa raaghaveNa* = by the great souled Rama; *raavanaH* = Ravana;
 When that missile was made defunct by the great souled Rama, Ravana with his coppery
 eyes in anger, employed a missile presided over by the sun-god.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Making the ten directions resound with the roar of his chariot, that great and supreme chariot-warrior (atiratho mahān) set forth swiftly and rushed toward Rāghava.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -285,6 +313,12 @@ Ravana; *bhiimavegasya* = of terrific impetuosity.
 
 Then came forth resplendent and large discuses, from the bow of that intelligent
 Ravana, of terrific impetuosity.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with that din, the whole earth, together with its rivers, mountains, and forests (sanadīgirikānanā), trembled, its lions, deer, and birds terrified (trastasiṃhamṛgadvijā).
 </details>
 </details>
 
@@ -332,6 +366,12 @@ sky; *aasiit* = diiptam = was blazing; *dishashcha* = and the quarters (illumina
 Even as they came forth and falling on all sides, the sky was blazing and the
 quarters illuminated, as by the moon, the sun and other planets.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He fashioned the exceedingly dreadful and pitiless Tāmasa missile (tāmasaṃ... astram) and scorched all the monkeys (nirdadāha kapīn sarvān); they fled headlong in every direction.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -378,6 +418,12 @@ army; *saH raaghavaH* = that Rama; *chichchheda* = split; *taani* = those;
 In the forefront of Ravana's army, that Rama split those discuses and other strange
 weapons, with a multitude of arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dust rose up from the earth as those routed [monkeys] fled in panic, for they were unable to endure (nahi tat sahituṃ śekuḥ) that [missile] fashioned by Brahmā himself (brahmaṇā nirmitaṃ svayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -421,6 +467,12 @@ all his vital organs; *dashabhiH baaNaiH* = with ten arrows.
 Seeing that missile struck down, Ravana the king of demons, for his part, pierced
 Rama with ten arrows in all his vital parts.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing those many divisions shattered by the hundreds by Rāvaṇa’s finest arrows, Rāghava stood his ground (paryavasthitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -460,6 +512,12 @@ by Ravana; *saH raaghavaH* = that Rama; *mahaatejaaH* = of extraordinary energy;
 
 Eventhough that Ravana struck Rama with those ten arrows released from his great
 bow, Rama of extraordinary energy was not shaken.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having routed the monkey host (vidrāvya harivāhinīm), that tiger among rākṣasas beheld Rāma standing unconquered (tiṣṭhantam aparājitam),
 </details>
 </details>
 
@@ -501,6 +559,12 @@ saraiH* = with a multitude of arrows.
 Then, Rama the victorious in battle, was quite enraged and struck Ravana in all his
 organs with a multitude of arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+together with his brother Lakṣmaṇa, like Vāsava [Indra] with Viṣṇu (viṣṇunā vāsavaṃ yathā), leaning upon his mighty bow as though scratching the sky (ālikhantam ivākāśam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -541,6 +605,12 @@ hold; *sapta saayakaan* = of seven arrows.
 In the meantime, the mighty and enraged Lakshmana, Rama's younger brother, the
 destroyer of valiant enemies, seized hold of seven arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—[Rāma] of broad eyes like lotus petals (padmapatraviśālākṣam), long-armed, tamer of foes. Then mighty Rāma of immense splendor, accompanied by the son of Sumitrā (saumitrisahitaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -580,6 +650,12 @@ tore off; *naikadhaa* = into many pieces; *dhvajam* = the flag-staff tasya raava
 
 Lakshmana of great brilliance, with those arrows of high velocity, tore off into
 many pieces, the flag-staff of Ravana, which bore the emblem of a man's head.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+beholding the monkeys routed in battle and Rāvaṇa charging toward him, Rāghava rejoiced (hṛṣṭaḥ) and grasped his bow by the middle (madhye jagrāha kārmukam).
 </details>
 </details>
 
@@ -627,6 +703,12 @@ many pieces, the flag-staff of Ravana, which bore the emblem of a man's head.
 The glorious and mighty Lakshmana, with a single arrow, tore the head of Ravana's
 charioteer, which was adorned with blazing ear-rings.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then he began to twang (visphārayitum ārebhe) that supreme bow of mighty impetus and thunderous roar, as though splitting the earth asunder (nirbhindann iva medinīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -673,6 +755,12 @@ charioteer, which was adorned with blazing ear-rings.
 With five sharp arrows, Lakshmana then chopped off Ravana's bow, which looked like
 an elephant's trunk.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By Rāvaṇa’s floods of arrows and by that din produced by Rāma’s bow-twang (rāmavisphāritena ca śabdena), the rākṣasas fell by the hundreds at that time.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -712,6 +800,12 @@ the excellent horses of this Ravana; *niilamegha nibhaan* = which looked like bl
 
 Bouncing forward, Vibhishana killed, with his mace, the excellent horses of Ravana,
 which looked like black clouds and were tall as mountains.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Coming within the arrow-range (śarapatham) of those two princes, Rāvaṇa shone like Rāhu in the vicinity of the moon and the sun (samīpe śaśisūryayoḥ).
 </details>
 </details>
 
@@ -763,6 +857,12 @@ younger brother (of Rama).
 Leaping down with speed from his large chariot, whose horses had been killed, Ravana
 then exhibited a violent anger towards the younger brother of Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Desiring to fight him first (tam icchan prathamaṃ yoddhum) with sharp arrows, Lakṣmaṇa drew his bow and loosed shafts that resembled tongues of fire (agniśikhopamān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -812,6 +912,12 @@ thunderbolt; *vibhiiShaNasya* = on Vibhishana.
 Then, Ravana, of great energy and prowess, hurled a spear looking like a blazing
 thunderbolt, on Vibhishana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his own arrows, Rāvaṇa of immense splendor intercepted (pratyavārayat) in mid-air those shafts the very moment they were loosed (muktamātrān) by bow-wielding Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -858,6 +964,12 @@ arrows; *atha* = thereupon; *vaanaraaNaam samnaadaH* = a loud cheer of the monke
 Even before the spear reached Vibhishana, Lakshmana tore it with three of his arrows
 and a loud cheer then arose from the monkeys in the battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Displaying his dexterity of hand (darśayan pāṇilāghavam), he cleft Lakṣmaṇa’s [arrows]—one with a single arrow, three with three, and ten with ten (tribhis trīn daśabhir daśa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -901,6 +1013,12 @@ gold; *chhinnaa* = torn; *tridhaa* = into three pieces; *sampapaata* = fell;
 That gold-crowned spear, torn into three pieces, fell like a large meteor with
 sparks of fire falling from the sky.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing beyond the son of Sumitrā (abhyatikramya saumitrim), Rāvaṇa, victorious in battle (samitiṃjayaḥ), closed with Rāma in the fray, who stood like another mountain (sthitam śailam ivāparam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -942,6 +1060,12 @@ splendour.
 Thereupon, Ravana took hold of another large most competent spear, which was
 difficult to be approached even by Yama the lord of Death and blazing as it was, with its own
 splendour.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching Rāghava, his eyes bloodshot with fury (krodhasaṃraktalocanaḥ), Rāvaṇa, lord of the rākṣasas, loosed showers of arrows (śaravarṣāṇi).
 </details>
 </details>
 
@@ -989,6 +1113,12 @@ mighty; *duraatmanaa* = and the evil-minded; *raavaNena* = Ravana.
 The mighty and the evil-minded Ravana swiftly hurled that very great spear, burning
 with a radiance similar to that of a blazing thunder-bolt.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The moment Rāma beheld those streams of arrows (śaradhārāḥ) sped from Rāvaṇa’s bow hurtling swiftly toward him, he quickly seized broadhead shafts (bhallāñ jagrāha satvaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1034,6 +1164,12 @@ samshayam* = a danger to his life.
 
 In the meanwhile, the valiant Lakshmana quickly rushed towards that Vibhishana, who
 got a danger to his life.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then with sharp broadheads Rāghava severed those floods of arrows—blazing, exceedingly dreadful shafts that resembled venomous serpents (āśīviṣopamān).
 </details>
 </details>
 
@@ -1081,6 +1217,12 @@ arrows; *raavaNam* = on Ravana; *shaktihastam* = having the spear in his hand.
 To rescue that Vibhishana, the heroic Lakshmana, having stretched his bow, threw out
 streams of arrows on Ravana who was holding a spear in his hand.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swiftly Rāghava showered Rāvaṇa and Rāvaṇa showered Rāghava—both pelted one another (anyonyaṃ... vavarṣatuḥ) with diverse, sharp showers of arrows.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1127,6 +1269,12 @@ manaH* = did not make up his mind; *prahartum* = to attack Vibhishana (further).
 Poured in with a multitude of arrows discharged by the great-souled Lakshmana,
 Ravana with his attach frustrated, did not make up his mind to attack Vibhishana further.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unconquered (aparājitau), they traversed for a long time wondrous circular maneuvers to left and right (maṇḍalaṃ savyadakṣiṇam), repelling one another by the speed of their arrows.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1166,6 +1314,12 @@ Ravana; *abraviit* = spoke; *idam vachanam* = the following words; *tiShThan*
 
 Seeing Vibhishana his brother rescued by Lakshmana, that Ravana, turning his face
 towards Lakshmana spoke the following words:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All beings trembled (bhūtāni vitresuḥ) as those two fierce arrow-loosing warriors (raudrayoḥ sāyakamucoḥ), resembling Yama and Death (yamāntakanikāśayoḥ), fought together simultaneously.
 </details>
 </details>
 
@@ -1211,6 +1365,12 @@ hurled; *tvayi* = on you.
 "O Lakshmana, exalter of your own strength! As Vibhishana was rescued by you in this
 way, this spear, on letting off Vibhishana the demon, is being hurled on you now."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Covered continuously with diverse arrows, the sky then looked as though overspread at the close of summer (ātapāpāye) with clouds massed with garlands of lightning (vidyunmālāsamākulaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1250,6 +1410,12 @@ blood-marks; *madbaahu parighotsR^iShTaa* = and hurled by my steel rod-like arm;
 
 "This spear, having blood-marks and hurled by bludgeon-like arm, having pierced your
 heart, will depart only after taking your life."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By showers of arrows of mighty speed, razor-sharp tips, vulture feathers (gṛdhrapatraiḥ), and handsome plumage (suvājitaiḥ), the firmament became as though latticed with window-grilles (gavākṣitam ivākāśam).
 </details>
 </details>
 
@@ -1301,6 +1467,14 @@ unfailing spear, which was adorned with eight loudly clamouring bells, which had
 Maya the demon by dint of his conjuring trick, capable of destroying adversaries and blazing as it
 was with splendour.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** They turned the sky into a dense darkness of arrows (śarāndhakāram), like two great thunderclouds rising up even after the sun has set (gate 'staṃ tapane cāpi).
+
+**31:** Between those two, each eager to slay the other (anyonyavadhakāṅkṣiṇoḥ), there raged a great battle, unapproachable and inconceivable (anāsādyam acintyaṃ ca), like that between Vṛtra and Vāsava [Indra].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1347,6 +1521,12 @@ lakShmaNam- on Lakshmana; *raNamuurdhani* = into the battle-front.
 That spear, with a sound equal to Indra's thunder-bolt, hurled by the terribly swift
 Ravana, soon fell with speed on Lakshmana in the battle-front.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For both were wielders of supreme bows (parameṣvāsau), both were skilled in warfare (yuddhaviśāradau), both were foremost among masters of missiles (astravidāṃ mukhyau), and both wheeled about in battle.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1386,6 +1566,12 @@ bhava = become; *moghaa* = vain; *hatodyamaa* = may your effort be frustrated!
 
 Rama repeatedly uttered to that spear even as it was rushing forth (on Lakshmana) as
 follows: "May it be well with Lakshmana! May you prove useless! May your effort be frustrated!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By whatever path those two moved, along that very path surged billows of arrows (śarormayaḥ), like the waves of two oceans driven by the wind (ūrmayo vāyunā viddhāḥ).
 </details>
 </details>
 
@@ -1433,6 +1619,12 @@ the fearless Lakshmana.
 
 That spear, which was looking like a venomous serpent, released by the enraged
 Ravana in the battle, quickly penetrated the bosom of Lakshmana, who stood fearless.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāvaṇa, who makes the worlds cry out (lokarāvaṇaḥ), his hand incessantly engaged [with the bow] (saṃsaktahastaḥ), loosed a garland of iron arrows (nārācamālām) straight onto Rāma’s forehead (lalāṭe).
 </details>
 </details>
 
@@ -1494,6 +1686,14 @@ heart broken.
 Penetrated very deeply and pierced through his heart by the spear due to the force
 exerted by Ravana, Lakshmana fell to the ground.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**35:** Rāma bore upon his head (śirasādhārayat) that [garland] sped from that fierce bow and dark as blue lotus petals (nīlotpaladalaprabhām), and felt no pain (na vyathām abhyapadyata).
+
+**36:** Then, muttering mantras (mantrān api japan) and invoking the Raudra missile (raudram astram udīrayan), Rāma, filled with wrath, once more selected arrows,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1540,6 +1740,12 @@ fraternal love.
 
 Seeing Lakshmana in that state, Rama, of extraordinary splendour, who was stationed
 in the vicinity, became sorrowful at heart because of the love towards his brother.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and drawing his bow, that valorous hero of immense splendor loosed them; maintaining an unbroken stream of shafts (acchinnasāyakaḥ), he cast those arrows at the lord of rākṣasas.
 </details>
 </details>
 
@@ -1589,6 +1795,12 @@ iva* = like fire at the time of dissolution of the world.
 
 Rama, whose eyes were filled with tears, reflected just for a while and then was
 very much enraged, like fire at the time of dissolution of the world.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Falling upon the impenetrable (avadhye) armor of the rākṣasa lord, which resembled a great thundercloud (mahāmeghasaṃkāśe), those arrows caused him no pain at that time.
 </details>
 </details>
 
@@ -1646,6 +1858,12 @@ Becoming aware that it was not the time for feeling despondent, and looking at
 Lakshmana, Rama resumed that highly tumultuous battle with a great and whole-hearted endeavour,
 determined as he was to destroy Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then once again Rāma, skilled in every missile (sarvāstrakuśalaḥ), struck that lord of rākṣasas standing in his chariot upon the forehead with a supreme missile (paramāstreṇa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1687,6 +1905,12 @@ blood; *achalam iva* = and looking like a mountain; *sapannagam* = with a snake
 Then, Rama saw Lakshmana, who was struck by the spear in that Great War, bathed as
 he was in blood and looking like a mountain with a snake (entering its centre).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Piercing through the arrow-forms (bhittvā bāṇarūpāṇi) and repelled by Rāvaṇa (rāvaṇapratikūlitāḥ), those [shafts] entered the earth hissing like five-hooded serpents (pañcaśīrṣā ivoragāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1711,6 +1935,12 @@ he was in blood and looking like a mountain with a snake (entering its centre).
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अत्यन्त बलवन्त रावणनु प्रयोगसिद शक्तियन्नु लक्ष्मणन ऎदॆयिन्द कीळलु श्रेष्ठ वानररु बहळ प्रयत्न माडिदरू सलरागलिल्ल.॥41॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having countered Rāghava’s missile (nihatya rāghavasyāstram), Rāvaṇa, inflamed with wrath, brought forth the exceedingly dreadful Āsura missile (āsuraṃ sumahāghoram astram).
 </details>
 </details>
 
@@ -1759,6 +1989,12 @@ tormented; *pravakeNa rakShasaam* = by Ravana the foremost among the demons;
 Even with an exertion to pull out that spear hurled by the mighty Ravana, those
 foremost of the monkeys could not those foremost of the monkeys could not do it because they were
 being tormented by Ravana the foremost of demons with a stream of his arrows.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[He loosed arrows] with the faces of lions and tigers (siṃhavyāghramukhān), and with the faces of herons and ruddy geese (kaṅkakokamukhān), with the faces of vultures and hawks (gṛdhraśyenamukhān), and with the muzzles of jackals (śṛgālavadanān);
 </details>
 </details>
 
@@ -1809,6 +2045,12 @@ Penetrating through Lakshmana's bosom, that spear touched the earth. Seizing hol
 awful spear with his hands, the mighty Rama drew it out and getting enraged, broke it during the
 course of the battle.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+he loosed sharp, terrifying arrows with the faces of wolves (īhāmṛgamukhān) and gaping jaws (vyāditāsyān), five-headed [serpents] (pañcāsyān) and darting-tongued snakes (lelihānāṃś ca);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1848,6 +2090,12 @@ who was drawing; *shaktim* = that spear.
 
 While Rama was drawing the spear out; arrow, which pierced his vital organs, were
 sunk by the mighty Ravana on all his limbs.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and other arrows with the faces of asses (kharamukhān), bearing the snouts of boars (varāhamukhasaṃśritān), with the heads of dogs and cocks (śvānakukkuṭavaktrān), and with the jaws of makaras and venomous serpents (makarāśīviṣānanān).
 </details>
 </details>
 
@@ -1895,6 +2143,12 @@ Sugreeva; *mahaakapim* = the king of the monkeys (as follows):
 Ignoring those arrows and having embraced Lakshmana, Rama spoke to Hanuma and
 Sugreeva, the king of monkeys, as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hissing like an enraged serpent (kruddhaḥ sarpa iva śvasan), [Rāvaṇa] of immense splendor loosed by his sorceries (māyābhiḥ) these and other sharp arrows against Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1922,6 +2176,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कपिगळिरा! नीवु लक्ष्मणनन्नु सुत्तुवरिदु निन्तुकॊळ्ळि. ननगॆ बहळ दिनगळिन्द अभीष्टवाद पराक्रम तोरुव सन्दर्भ बन्दॊदगिदॆ.॥46॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assailed by that Āsura missile (āsureṇa samāviṣṭaḥ... astreṇa), that bull among the Raghus, resembling fire (pāvakopamaḥ), loosed the fiery Pāvaka missile of mighty energy (sasarjāstraṃ mahotsāhaṃ pāvakam).
 </details>
 </details>
 
@@ -1969,6 +2229,12 @@ Ravana of evil designs be killed. The time to manifest my prowess, which I have 
 long, has come, as for a chataka bird, the site of a cloud would come, as sought by it, at the end
 of a hot season."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There he loosed arrows with tips blazing like fire (agnidīptamukhān), and with faces like the sun (sūryamukhān), with tips like the full moon and the crescent moon (candrārdhacandravaktrān), with faces like comets (dhūmaketumukhān), colored like the planets and constellations (grahanakṣatravarṇān), and bearing the heads of great meteors (maholkāmukhasaṃsthitān);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2009,6 +2275,12 @@ monkeys!; *drakShyatha* = you will see; *nachiraat* = without delay; *jagat* =
 
 "I take this vow in truth before you, at this moment, O monkeys, that without delay,
 you will see the world devoid of Ravana or Rama (myself)."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and he loosed diverse arrows resembling tongues of lightning-flame (vidyujjihvopamān). Struck by Rāghava’s missile (rāghavāstrasamāhatāḥ), those dreadful arrows of Rāvaṇa
 </details>
 </details>
 
@@ -2083,6 +2355,14 @@ wandering around in the woods of Dandaka and the rough treatment of Seetha by th
 "A great and terrible suffering has happened to me and an agony equivalent to hell.
 Now, by killing Ravana in battle, I will relieve myself of all that agony."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**49:** dissolved into nothingness in the sky (vilayaṃ jagmur ākāśe) and perished by the thousands. Seeing that missile destroyed by Rāma of unwearying deeds (rāmeṇākliṣṭakarmaṇā),
+
+**50:** all the shape-shifting monkeys (kapayaḥ kāmarūpiṇaḥ), heroic and headed by Sugrīva (sugrīvābhimukhā vīrāḥ), surrounded Rāghava and roared with joy (hṛṣṭā neduḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2141,6 +2421,12 @@ battle-field; *adya* = now.
 Sugreeva has been anointed on the throne after killing Vali and for whose sake the ocean has been
 crossed and a bridge built on it, has come within the range of my sight in the battle-field
 now."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having forcibly destroyed that missile sped from Rāvaṇa’s arm (rāvaṇabāhuniḥsṛtam), great-souled Rāghava, son of Daśaratha, was filled with joy (mudānvitaḥ), and the delighted monkey lords roared aloud (vinedur uccair muditāḥ kapīśvarāḥ).
 </details>
 </details>
 

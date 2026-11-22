@@ -67,6 +67,12 @@ who, you two are; *kva gamiSyathaH* = whereto, wish to go; *hi* = really.
 Then in his turn that demon Viradha said this sentence filling the forest with his gruesome voice, "I am asking you, really...
 tell me who you are and whereto you wish to go? " [3-3-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Virādha, filling the forest [with his roar] (pūrayan vanam), spoke again: “Tell me as I ask (pṛcchato mama hi brūtam)—who are you two, and whither are you going?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,6 +137,14 @@ to; *dandakaan charasi tvam kaH* = in Dandaka, you move about, you, who.
 "Know us as Kshatriya-s with ennobled bearing, and we are trekking the forest...but we wish to know about you, who are you
 that move about in Dandaka forest? [3-3-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** Then Rāma of mighty splendour (sumahā-tejāḥ) declared his own Ikṣvāku lineage (ikṣvāku-kulam ātmanaḥ) to that questioning rākṣasa of flaming maw (jvalitānanam):
+
+**3:** “Know us two (viddhi nau) to be kṣatriyas endowed with righteous conduct (vṛtta-sampannau), ranging the forest (vana-gocarau). Desiring to know you, however (tvāṃ tu veditum icchāvaḥ)—who are you that roam the Daṇḍaka woods?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,6 +189,12 @@ me be informed of me; *raaghava* = Raaghava.
 
 Viradha said to that truly valiant Rama, "Ah! I'll tell you, oh king, be informed of me, oh Raghava... [3-3-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Virādha then spoke to Rāma of unfailing valour (satya-parākramam): “Aha (hanta)! I shall tell you, O king; hear from me (nibodha mama), O Rāghava!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -218,6 +238,12 @@ me, call.
 **अनुवादः**
 
 "I am the son of Java indeed... my mother is Shatahradaa, and all the demons on earth call me Viradha...'[3-3-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am indeed the son of Java (putraḥ kila javasyāham), and my mother is Śatahradā; all rākṣasas upon the earth call me Virādha.”
 </details>
 </details>
 
@@ -264,6 +290,12 @@ be killed, and even; *a cChedya a bhedya ca eva* = not, be cut, not, to be slit,
 "On my undertaking ascesis I derived a boon from the beneficence of Brahma, by which I will neither be cut, nor slit, nor
 killed with a weapon in this world..."[3-3-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through austerity (tapasā) I have obtained [a boon] born of Brahmā’s grace (brahmaṇo hi prasāda-jā): invulnerability to weapons in the world (śastreṇāvadhyatā loke), and the state of being neither cleavable nor pierceable (acchedyābhedyatvam eva ca).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -309,6 +341,12 @@ killed with a weapon in this world..."[3-3-6]
 "Leave off this lady without any yearning for her, and you expeditiously flee-away as you have come, then your lives will
 not be snatched away... [3-3-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Abandoning this young woman (utsṛjya pramadām enām), flee in haste without looking back (anapekṣau) the way you came (yathā-gatam); I shall not take your lives (na vāṃ jīvitam ādade)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -353,6 +391,12 @@ not be snatched away... [3-3-7]
 
 Rama in reply said this to that ogre Viradha, whose eyes are fully bloodshot in anger, who is monstrous in his body, and
 evil in intent... [3-3-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His eyes bloodshot with wrath (kopa-saṃrakta-locanaḥ), Rāma replied thus to that deformed (vikṛtākāram), evil-minded rākṣasa Virādha:
 </details>
 </details>
 
@@ -402,6 +446,12 @@ death, you are in quest of, definitely; *raNe sampraapyasi* = in war, you will g
 "You knave, fie upon you... you are in quest of you own death for your meanly measures, and definitely you will get it in
 this confrontation. Stay! I will not let you to live... [3-3-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fie upon you, vile wretch of base purpose (kṣudra dhik tvāṃ tu hīnārtham)! Truly you are seeking your own death (mṛtyum anveṣase dhruvam); stand fast—you shall meet it in battle (raṇe prāpsyasi), and you shall not escape me alive!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -445,6 +495,12 @@ nijaghaana ha* = well, aiming, at demon, darted, indeed.
 **अनुवादः**
 
 Then, stringing his bow Rama indeed darted very sharp arrows, very quickly and well aiming the demon... [3-3-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, stringing his bow (sajyaṃ dhanuḥ kṛtvā) and swiftly fitting razor-sharp arrows (suniśitān śarān), Rāma struck the rākṣasa (rākṣasaṃ nijaghāna ha).
 </details>
 </details>
 
@@ -491,6 +547,12 @@ anila tulya gaan* = Garuda, [the Divine Eagle, and] Air-god, equal, in flight.
 Indeed seven arrows are let off with perfectly stringed bow, which have golden vanes, and very fast ones that equal the
 flights of Garuda, the Divine Eagle and the Air-god. [3-3-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From his bow fitted with its bowstring (dhanuṣā jyā-guṇavatā), he loosed seven shafts (sapta bāṇān mumoca ha)—gold-feathered (rukma-puṅkhān), of mighty speed, and coursing like Garuḍa or the wind (suparṇānila-tulyagān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -529,6 +591,12 @@ dressed [as their fins]; *viraadhasya shariiram bhitvaa* = Viradha's, body, on p
 
 But, they the arrows that are akin to infernos and dressed with peacock feathers as their fins, on piercing the body of
 Viradha they fell onto the ground besmirched with blood. [3-3-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Piercing through Virādha’s body (śarīraṃ virādhasya bhittvā), those peacock-plumed shafts (barhiṇa-vāsasaḥ), smeared with blood (śoṇitādigdhāḥ) and blazing like fire (pāvakopamāḥ), fell upon the earth.
 </details>
 </details>
 
@@ -575,6 +643,12 @@ Viradha they fell onto the ground besmirched with blood. [3-3-12]
 When that demon is thus struck, then he placed Vaidehi down from his arms, hauled up his spear, and very angrily rushed
 towards Rama and Lakshmana. [3-3-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced (viddhaḥ), that rākṣasa set Vaidehī down [upon the ground] (nyasya vaidehīm), raised his pike (śūlam udyamya), and in great fury rushed at Rāma and Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -619,6 +693,12 @@ towards Rama and Lakshmana. [3-3-13]
 
 And holding fast his spear that is similar to the Indra's Flagstaff he blaringly yelled a ghastly shriek, and thus he shone
 forth like the wide-mouthed Death, ready-to-gulp. [3-3-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Uttering a mighty roar (vinadya mahā-nādam) and grasping his pike that resembled Indra’s banner-staff (śakra-dhvajopamam), he shone then like Death with gaping maw (vyāttānana ivāntakaḥ).
 </details>
 </details>
 
@@ -665,6 +745,12 @@ rain, incessantly rained.
 Then with an effulgent arrow-rain those two brothers incessantly rained on demon Viradha, who is similar to the terminator
 of lifetime. [3-3-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the two brothers rained down a blazing shower of arrows (dīptaṃ śara-varṣaṃ vavarṣatuḥ) upon that rākṣasa Virādha, who resembled Time, the Destroyer, and Yama (kālāntaka-yamopame).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -710,6 +796,12 @@ baanaaH* = those, speedy, arrows; *kaayaat niSpetuH* = from his body, spilled ou
 He that highly horrendous demon laughed at that arrow-shower, and standing for a while he yawned, and on his yawning and
 stretching his limbs in fatigue those arrows that earlier have gone speedily, spilled out from his body that speedily. [3-3-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Laughing aloud (prahasya), that fiercely dreadful rākṣasa stood still and yawned [stretching his limbs] (sthitvājṛmbhata); as he yawned, those swift-flying arrows fell out from his body (kāyān niṣpetur āśugāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -753,6 +845,12 @@ raising up; *raaghavau* = upon two Raghava-s; *abhya dhaavata* = quickly, ran.
 **अनुवादः**
 
 Demon Viradha held back his lives by the touch of boon, and raising up the spear he ran quickly at Rama and Lakshmana. [3-3-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Checking his vital breaths (prāṇān saṃrodhya) by virtue of his boon (vara-dānena) despite the impact [of the shafts] (sparśāt tu), the rākṣasa Virādha raised his pike and rushed at the two Rāghavas.
 </details>
 </details>
 
@@ -798,6 +896,12 @@ blaze, like; Rama; *shastra bhR^itaam varaH* = weaponry, wielder, the best;* dva
 
 The best wielder of weaponry Rama ripped that spear apart, which is akin to the Thunderbolt of Indra, and that which is
 like a blaze in the sky, with two arrows in the sky itself. [3-3-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With two arrows (dvābhyāṃ śarābhyām), Rāma, foremost of weapon-wielders (śastra-bhṛtāṃ varaḥ), severed that pike which resembled a thunderbolt (vajra-saṃkāśam) and blazed like fire in the sky (gagane jvalanopamam).
 </details>
 </details>
 
@@ -847,6 +951,12 @@ Mt. Meru, boulder-mass, as with.
 Shattered by Rama's blazing shafts that spear fallen on ground like the boulder mass of Mt. Meru when it is shattered by
 Indra's Thunderbolt. [3-3-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Severed by Rāma’s shafts (rāma-viśikhaiś chinnam), that pike of his fell to the earth, as a rocky crag of Mount Meru (meror iva śilā-talam) falls when cleft by the thunderbolt (aśaninā chinnam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -895,6 +1005,12 @@ cobra, like, up swinging; *tuurNam aapatataH tasya* = rapidly, crashed, on him; 
 They quickly upraised their swords and like a pair of up-swinging black-cobras they rapidly crashed on him, and then battered
 him mightily. [3-3-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swiftly drawing their two swords (tau khaḍgau kṣipram udyamya), which were like two reared black cobras (kṛṣṇa-sarpāv ivodyatau), the two [brothers] leapt at him at once (tūrṇam āpetatuḥ) and struck him with all their might (praharatāṃ balāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -942,6 +1058,12 @@ prasthaatum aicChata* = furious one [the demon,] to getaway [to carry away,] he 
 
 He that demon thus beaten very firmly by Rama and Lakshmana, then on grabbing those unwavering ones and manly tigers with
 his arms, that furious demon wished to carry them away. [3-3-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Being fiercely battered (vadhyamānaḥ subhṛśam), that dreadful demon seized those two unshakeable tigers among men (aprakampyau nara-vyāghrau) with his two arms (bhujābhyāṃ parigṛhya) and sought to stride away (prasthātum aicchata).
 </details>
 </details>
 
@@ -993,6 +1115,14 @@ charaH yena yaati* = night-walker, by which [way,] he goes; *ayam eva hi naH pan
 Rama does not want to travel comfortably on the shoulders of the demon, but wants to examine what the demon wanted to do
 next, after carrying afar. The prince in Rama will not let the demon go rampant. Besides, the divine fury allows any sinister
 to tread his own way towards his own grave.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** Discerning his intention (tasyābhiprāyam ājñāya), Rāma said to Lakṣmaṇa: “Let this rākṣasa carry us freely along this path for now (vahatv ayam alaṃ tāvat pathānena)!”
+
+**23:** “Let the rākṣasa carry us just as he pleases, O Saumitri (yathā cecchati saumitre tathā vahatu); for this very road by which the night-ranger goes (yena yāti niśācaraḥ) is our own path (ayam eva hi naḥ panthāḥ).”
 </details>
 </details>
 
@@ -1052,6 +1182,12 @@ like; *skanda gatau chakaara* = on shoulders, having gone on, made as.
 But he that night-walker arrogant as he is by his might has uplifted Rama and Lakshmana like babies by that might and courage
 alone, and placed them on his shoulders as one would place babies. [3-3-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that night-ranger, haughty with excessive strength (atibaloddhataḥ), lifted them up by his own might and valour (svabala-vīryeṇa samutkṣipya) and placed them on his shoulders like two children (bālāv iva skandha-gatau cakāra).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1099,6 +1235,12 @@ gone, towards, forest.
 
 That nightwalker Viradha on placing those two Raghava-s on his shoulders gone towards deeper forest yelling very luridly.
 [3-3-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having mounted the two Rāghavas upon his shoulder (tāv āropya tataḥ skandham), the night-ranging Virādha, roaring dreadfully (vinadan ghoram), strode toward the forest (jagāmābhimukho vanam).
 </details>
 </details>
 
@@ -1164,6 +1306,12 @@ are sprawling around, along with Rama and Lakshmana. [3-3-26]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूरनॆय सर्ग सम्पूर्णवायितु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He entered a forest dark as a great cloud (vanaṃ mahā-megha-nibhaṃ praviṣṭaḥ), filled with diverse mighty trees (drumair mahadbhir vividhair upetam), variegated with flocks of manifold birds, haunted by jackals (śivā-yutam), and strewn with savage beasts (vyāla-mṛgair vikīrṇam).
 </details>
 </details>
 

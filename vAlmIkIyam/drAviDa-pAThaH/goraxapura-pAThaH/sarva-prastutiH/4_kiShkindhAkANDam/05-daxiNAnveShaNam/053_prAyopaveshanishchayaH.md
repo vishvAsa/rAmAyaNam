@@ -69,6 +69,12 @@ aakulam* = implacable, with waves, tumultuous; *saagaram* = ocean; *dadR^ishuH* 
 Then they saw an inexorable ocean, the realm of Rain-god, tumultuous with out-roaring and implacable waves, and
 shoreless otherwhere. [4-53-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then they beheld the dreadful ocean (ghoraṃ sāgaram), the abode of Varuṇa (varuṇālayam), boundless (apāram), roaring (abhigarjantam), and agitated with dreadful waves (ghorair ūrmibhir ākulam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -108,6 +114,12 @@ raaj~naa samayaH kR^itaH* = which [month,] by king, time, made [timeframe,] set;
 
 Which month is set as timeframe for the monkeys by king Sugreeva that month passed off while the monkeys are searching
 mountains, impassable areas and within the cavity concocted by the wizardry of demon Maya. [4-53-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While they were searching the mountain fastness fashioned by Maya's illusion (mayasya māyāvihitaṃ giridurgam), the month that had been appointed as a time-limit by the king (yo rājñā samayaḥ kṛtaḥ) had elapsed (vyatikrāntaḥ).
 </details>
 </details>
 
@@ -159,6 +171,12 @@ in desperation. [4-53-3]
 This is the southwest quarter of India as said at: *himavat vindhya shailaabhyaam praayo vyaaptaa vasundharaa
 - bheShaja kalpa *'the Vindhya range spans from Himalayas to [southern ocean, for India...]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sitting down (upaviśya) at the foot of Mount Vindhya (vindhyasya tu gireḥ pāde), where the trees were in full blossom (samprapuṣpitapādape), those high-souled ones fell into anxious thought (cintām āpedire) then.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -208,6 +226,12 @@ trees; *dR^iSTvaa* = on seeing; *bhaya shankitaaH babhuuvuH* = by fright, incred
 
 Then on seeing the treetops of spring season, weighty with flowers and enshrouded with hundreds of vines, they
 became incredulous with the fright of failing Sugreeva's timeframe. [4-53-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding the vernal trees (drumān vāsantikān) with their crowns weighed down by an abundance of blossoms (puṣpātibhārāgrān) and overspread with hundreds of creepers (latāśatasamāvṛtān), they became filled with fearful apprehension (bhayaśaṅkitāḥ).
 </details>
 </details>
 
@@ -263,6 +287,12 @@ Oct. - Dec., and fixed *puSya* month, nearly Feb., as their timeframe. That *puS
 while they were searching at other places in south and the next *maagha* month, nearly March, they spent
 in the Dark Hole. Hence this must be *phaalguna* nearly April, and in their overstaying for two months
 they are frightened of Sugreeva.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Informing one another (prativedya parasparam) that spring had arrived (vasantam anuprāptam), and having lost the purpose of their commissioned time (naṣṭasaṃdeśakālārthāḥ), they sank down upon the surface of the earth (nipetur dharaṇītale).
 </details>
 </details>
 
@@ -320,6 +350,14 @@ spoke.
 The crown prince and a great foreseer Angada, the monkey, whose nape of neck is leonine and bullish, arms lengthy
 and sturdy, then as usual paying respects to elderly monkeys greeted all of the forest dwellers and spoke this
 sentence in a modest voice. [4-53-6, 7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** Then, having addressed those monkey elders (kapivṛddhān) and the remaining forest-dwellers (śiṣṭāṃś caiva vanaukasaḥ) with gentle speech (vācā madhurayā) and having honored them appropriately (yathāvad anumānya ca), [Aṅgada spoke].
+
+**7:** Then that monkey of lion-like and bull-like shoulders (siṃhavṛṣaskandhaḥ), with stout and long arms (pīnāyatabhujaḥ), the Crown Prince Aṅgada of great wisdom (mahāprājñaḥ), spoke these words:
 </details>
 </details>
 
@@ -413,6 +451,14 @@ Sugreeva *kaartiike samanupraapte tvam raavaNam dheyata* "On the advent of *kaar
 [October, post-rainy season,] you shall try for the elimination of Ravana... this is our accord... hence oh,
 gentle one, enter your mansion for now..." at 4-26-17.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “By the command of the monkey king (śāsanāt kapirājasya) we all set forth (vinirgatāḥ); a full month (māsaḥ pūrṇaḥ) has elapsed for us while abiding in the cavern (bilasthānām)—O monkeys, do you not perceive [this] (kiṃ na budhyata)?
+
+**9:** In the month of Āśvayuja (āśvayuje māsi), bound by a fixed reckoning of time (kālasaṃkhyāvyavasthitāḥ), we set forth (prasthitāḥ), and that [month] too has passed (so 'pi cātītaḥ); what is to be done next after this (kim ataḥ kāryam uttaram)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -461,6 +507,12 @@ contrivers of.
 
 "You all the pioneers in the pathway of principles, you have notched up the credibility of your king, you are
 all well-disposed in the well-being of your king, and you are the contrivers of any exploit. [4-53-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You have won confidence (pratyayaṃ prāptāḥ), are skilled in the paths of statecraft (nītimārgaviśāradāḥ), devoted to the welfare of your master (hiteṣv abhiratā bhartuḥ), and appointed to all undertakings (nisṛṣṭāḥ sarvakarmasu);
 </details>
 </details>
 
@@ -529,6 +581,14 @@ is incomplete; hence; *martavyam* = we have to die [at the hand of Sugreeva]; *a
 "As of now our mission is incomplete hence we are scheduled to die, and there is no doubt about it. Who can be
 complacent by keeping the directive of monkey's king incomplete? [4-53-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** peerless in deeds (karmasv apratimāḥ) are you all, with your valor renowned throughout the quarters (dikṣu viśrutapauruṣāḥ); placing me at your head (māṃ puraskṛtya), you marched forth urged by the tawny-eyed [Sugrīva] (piṅgākṣapraticoditāḥ).
+
+**12:** Now, with our object unaccomplished (akṛtārthānām), we must die (martavyam)—of this there is no doubt (nātra saṃśayaḥ); who could be happy without having fulfilled the command of the monkey king?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -573,6 +633,12 @@ yuktam* = personally - voluntarily, fast unto deaths, is appropriate.
 
 "But in this matter of course, as the time set by Sugreeva is lapsed, it is appropriate for all of us forest dwelling
 monkeys to voluntarily undertake fasting unto death. [4-53-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now that this time-limit appointed by Sugrīva himself (sugrīveṇa kṛte svayam) has passed (asminn atīte kāle tu), fasting unto death (prāyopaveśanam) is fitting for all of us forest-dwellers.
 </details>
 </details>
 
@@ -621,6 +687,12 @@ transgression, done; *naH* = us; *sarvaan na kSamiSyati* = all [any of us,] not,
 
 "Instinctively Sugreeva is a tormentor and now he is institutionalised in lordship, thus he will not condone any
 of us as we will be as good as transgressors if we were to return. [4-53-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fierce by nature (tīkṣṇaḥ prakṛtyā) is Sugrīva, and now established in sovereign authority (svāmibhāve vyavasthitaḥ), he will not pardon (na kṣamiṣyati) us all if we return after committing an offense (aparādhakṛto gatān).
 </details>
 </details>
 
@@ -674,6 +746,12 @@ and homes, too; *tyaktvaa* = on leaving off; *iha adya eva* = here, now, only; *
 it is pertinent to enter upon fasting unto, leaving off our sons, wives, riches and houses and homes, too. [4-53-15,
 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And in the absence of tidings of Sītā (apravṛttau ca sītāyāḥ), he will surely perpetrate a dark deed [our execution] (pāpam eva kariṣyati); therefore it is fitting for us right here today to enter upon a fast unto death (gantuṃ prāyopaveśanam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -719,6 +797,12 @@ us, all; *a prati ruupeNa* = un, mirrored, in shape [in a freakish manner]; *vad
 
 "That king Sugreeva definitely and freakishly tortures all of us on our going back futilely, hence suicide at
 this place is justifiable for all us. [4-53-16b, c]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+having renounced our sons, wives, wealth, and homes (tyaktvā putrāṃś ca dārāṃś ca dhanāni ca gṛhāṇi ca). Surely the king will slay (dhruvaṃ no hiṃsate rājā) us all if we return from here (sarvān pratigatān itaḥ);
 </details>
 </details>
 
@@ -766,6 +850,12 @@ I am.
 "I am not anointed to crown-princedom by Sugreeva, but I am anointed by the unbigoted Rama, the king of people.
 [4-53-17b, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+better is death for us right here (śreyān mṛtyur ihaiva naḥ) than an ignominious execution (vadhenāpratirūpeṇa)! Nor was I consecrated (na cāhaṃ abhiṣecitaḥ) to the office of Crown Prince (yauvarājyena) by Sugrīva.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -805,6 +895,12 @@ observing; *kR^ita nishcayaH* = on making, decision [decisively]; *maam* = me; *
 
 "That king Sugreeva who is already bound up in animosity with my father, and thus with me too, now on observing
 me transgressing his directive will decisively wish to liquidate me by a tyrannous victimisation. [4-53-18a, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I was consecrated by the lord of men (narendreṇābhiṣikto 'smi), Rāma of unwearied deeds (rāmeṇākliṣṭakarmaṇā)! Harboring enmity toward me from of old (pūrvaṃ baddhavairo mām), that king [Sugrīva], upon beholding this transgression (dṛṣṭvā vyatikramam),
 </details>
 </details>
 
@@ -853,6 +949,12 @@ fast unto death, sit out [outwait.]
 on this sacred seashore alone I will outwait my death fasting unto it." Thus Angada said to all the monkeys. [4-53-19b,
 c]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+resolutely determined (kṛtaniścayaḥ), will have me put to death with severe punishment (ghātayiṣyati daṇḍena tīkṣṇena). What avails it that my friends should behold my ruin (kiṃ me suhṛdbhir vyasanaṃ paśyadbhiḥ) at the close of my life (jīvitāntare)? Right here on the sacred shore of the ocean (puṇye sāgararodhasi) I shall sit in a fast unto death (prāyam āsiṣye)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -897,6 +999,12 @@ c]
 
 On hearing all that uttered by that youngish Angada, the crown prince, all of those prominent Vanara-s sympathetically
 spoke these words. [4-53-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing this spoken by the prince, the Crown Prince (kumāreṇa yuvarājena), all those foremost monkeys spoke piteous words (karuṇaṃ vākyam abruvan):
 </details>
 </details>
 
@@ -960,6 +1068,14 @@ is lapsed and Vaidehi is unspotted. If we go back to Kishkindha now, on seeing u
 our assignment, and with a thinking to satisfy Rama Sugreeva wishes to liquidate us without any doubt. [4-53-21,
 22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “Sugrīva is fierce by nature (tīkṣṇaḥ prakṛtyā), and Rāghava is passionately devoted to his beloved (priyāraktaś ca rāghavaḥ); beholding us with our task unaccomplished (akṛtakāryān) now that the appointed time has passed (tasmiṃś ca samaye gate),
+
+**22:** and seeing us returned while Vaidehī remains unseen (adṛṣṭāyāṃ ca vaidehyām), out of a desire to do what is dear to Rāghava (rāghavapriyakāmāya), he will slay [us] without doubt (ghātayiṣyaty asaṃśayam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1005,6 +1121,12 @@ ca* = being chieftains, also; *vayam samaagataaH* = we, are co-ordinated [and se
 "It will be inexcusable for the culprits to pass at the sideways of lords, then where is the question of their
 coming into king's audience, and we should be barefaced to return because we are all the chieftains of Sugreeva
 who are coordinated and sent here. [4-53-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor is it fitting for offenders (aparāddhānām) to go into the presence of their master (gamanaṃ svāmipārśvataḥ); and we who have assembled here are the principal servants of Sugrīva (pradhānabhūtāś ca vayaṃ sugrīvasya).
 </details>
 </details>
 
@@ -1055,6 +1177,12 @@ will to go.
 "If we do not return to that champion Sugreeva on searching somewhere here for Seetha, or on our educing some
 information about her, we will rather enter the realm of Yama, the Terminator." Thus the other monkeys discussed
 among themselves. [4-53-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Either having beheld Sītā right here (ihaiva sītām anvīkṣya) or having obtained tidings [of her] (pravṛttim upalabhya vā), [we shall go to that hero]; if we do not go [thus] to that hero, we shall depart to the abode of Yama (gamiṣyāmo yamakṣayam)!”
 </details>
 </details>
 
@@ -1109,6 +1237,12 @@ on entering, we live [therein.]
 On hearing the words of fly-jumpers, who are tormented by fear of Sugreeva, Lt. Tara spoke this to them, "enough
 is your desperation, if you all are interested let us enter that cave again where we can live. [4-53-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of the leapers afflicted with fear (plavaṅgamānāṃ tu bhayārditānām), Tāra spoke this: “Enough of despondency (alaṃ viṣādena)! Having entered the cavern (bilaṃ praviśya), let us all dwell [there], if it pleases you (yadi rocate vaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1154,6 +1288,12 @@ monkeys, king, either.
 "That highly impassable cavity is contrived by the demon Maya and it is abundant with trees, water, eatables and
 potables, and there is no fear even from Indra in that cavity, nor from Raghava, nor from Sugreeva, the king of
 monkeys." So said Lt. Tara to all. [4-53-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For this [cavern], fashioned by illusion (māyāvihitam), is exceedingly inaccessible (sudurgamam) and abounds in blossoms, water, food, and drink (prabhūtapuṣpodakabhojyapeyam); here we have no fear at all from Purandara [Indra], nor from Rāghava, nor even from the king of monkeys!”
 </details>
 </details>
 
@@ -1215,6 +1355,12 @@ make it happen now only." So said all the monkeys to Angada. [4-53-27]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तमूरनॆय सर्ग पूर्णवायितु.॥53॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the speech that was agreeable to Aṅgada as well (śrutvāṅgadasyāpi vaco 'nukūlam), all the monkeys, convinced (pratītāḥ), spoke: “Let such a measure be enacted for us without delay right today (asaktam adyaiva vidhīyatāṃ naḥ), whereby we may not be slain (yathā na hanyema)!”
 </details>
 </details>
 

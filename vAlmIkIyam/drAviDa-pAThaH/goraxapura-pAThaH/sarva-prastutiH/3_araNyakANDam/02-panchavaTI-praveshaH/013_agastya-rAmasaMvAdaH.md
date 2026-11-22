@@ -70,6 +70,12 @@ Seetha, me, to pay respects, arrived, you have.
 " I am delighted Rama, safe you be, oh Lakshmana, well-contended I am for you have
 come to pay respects to me along with Seetha. [3-13-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Rāma, I am pleased—blessed be you (bhadraṃ te)—and I am well-contented (parituṣṭo ’smi), O Lakṣmaṇa, that you two have arrived together with Sītā to pay homage to me (abhivādayituṃ mām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +128,12 @@ The word *utkaNTha* is interpreted in two ways. One is *ut kaNTha*
 above neck, sides of face; the other being the anxiousness to get some rest. Thus, they are either
 wet with sweat or also anxious to get rest after a long trek in woods.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through the fatigue of the journey (adhva-śrameṇa), exhaustion causing abundant sweat (khedaḥ pracura-śramaḥ) afflicts you both (vāṃ bādhate); and clearly Maithilī, daughter of Janaka (janakātmajā), longs for rest (vyaktam utkaṇṭhate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +179,12 @@ praptaa* = highly, detrimental, forests, she came to.
 
 "She is delicate and not discomforted by such distresses earlier, yet motivated by
 her friendship she came to these highly detrimental forests. [3-13-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tender as she is (sukumārī ca), and never before subjected to hardships (khedaiś ca na vimānitā), she has come to the forest fraught with abundant perils (prājya-doṣaṃ vanam), impelled by love for her husband (bhartṛ-sneha-pracoditā).
 </details>
 </details>
 
@@ -218,6 +236,12 @@ possible [impossible,] [deed] she has done.*
 to her, for she has done an impossible deed in following you to forests, an impossible deed for
 womenfolk, in general. [3-13-4]*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So act, O Rāma, that Sītā may find delight here (iha sītā ramate); she has performed a feat hard to accomplish (duṣkaraṃ kṛtavatī) in following you into the forest (vane tvām abhigacchatī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -267,6 +291,12 @@ stham tyajanti ca* = in ill fortune, leave off.*
 "From the beginning of creation the nature of women is this way only, oh scion of
 Raghu, they devote themselves to their men in good fortune, but they leave them off in ill fortune.
 [3-13-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For such has been the nature of women (prakṛtiḥ strīṇām) since the beginning of creation (āsṛṣṭeḥ), O delighter of the Raghus: they cleave to a man who abides in prosperity (samastham anurajyante), and they forsake one who falls into adversity (viṣamasthaṃ tyajanti ca).
 </details>
 </details>
 
@@ -323,6 +353,12 @@ capricious are the women's hearts with the speed of lightning, and razor sharp w
 attitude to cut-off the age-old friendship, if they are ill at ease, and they sever relations with
 the speediness of an eagle or a gust.*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Women imitate (anugacchanti yoṣitaḥ) the fickleness of lightning-flashes (śatahradānāṃ lolatvam), the sharpness of weapons (śastrāṇāṃ tīkṣṇatām), and the swiftness of Garuḍa and the wind (garuḍānilayoḥ śaighryam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -376,6 +412,12 @@ her husband and she has become a star in the sky by virtue of that devotion. Eve
 marriages, at the close of all observances, this star in skies is shown to the bride imbuing a
 sense of devotion to her bridegroom, may it be in noontime.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet this wife of yours (iyaṃ tu bhavato bhāryā) is utterly free from these faults (doṣair etair vivarjitā); she is worthy of praise (ślāghyā ca) and worthy of being cited as an exemplar (vyapadeśyā ca), like Arundhatī among goddesses (yathā devīṣv arundhatī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -423,6 +465,12 @@ also, glorified.*
 enemy-destroyer Rama, that province shall be glorified." So said Sage Agastya to Rama."
 [3-13-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And this region (ayaṃ deśaś ca), O Rāma, tamer of foes (ariṃdama), is adorned (alaṃkṛtaḥ) where you shall dwell (vatsyasi tvam) together with Saumitri and this Vaidehī!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -468,6 +516,12 @@ amiable, sentence.
 
 Thus said by the sage, Raghava spoke amiable this sentence adjoining his palms to
 the sage who is glowing like a ritual-fire. [3-13-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the sage (evam uktas tu muninā), Rāghava, with joined palms (saṃyatāñjaliḥ), spoke courteous words (praśritaṃ vākyam) to the seer who blazed like fire (ṛṣiṃ dīptam ivānalam):
 </details>
 </details>
 
@@ -515,6 +569,12 @@ I am; *anu gR^ihiitaH asmi* = blessed, I am.**
 "I am privileged and blessed as my mentor and the eminent age is well pleased with
 the virtues of my brother and wife which are non-dissimilar to mine. [3-13-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Blessed am I (dhanyo ’smi), favored am I (anugṛhīto ’smi), since the bull among sages (muni-puṃgavaḥ), our preceptor (gurur naḥ), is well-pleased (parituṣyati) with the virtues of me along with my brother and wife (sabhrātṛ-bhāryasya)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -561,6 +621,12 @@ kaananam* = many, forests; *vyaadisha[vi aa dish] be directed, be shown.***
 *"But a place with water and many forests may please be shown, where I can reside
 happily and self-composedly on erecting a hermitage." Thus Rama asked the Sage Agastya.
 [3-13-11]*
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet pray point out to me a region (vyādiśa me deśam) well-supplied with water and abounding in groves (sodakaṃ bahu-kānanam), where I may build a hermitage (āśrama-padaṃ kṛtvā) and dwell happily and contentedly (vaseyaṃ nirataḥ sukham).”
 </details>
 </details>
 
@@ -620,6 +686,12 @@ at Panchavati. This is because, he himself is courageous sage in eliminating the
 that Rama also will do the same, he has shown a place which has many forests' around it, that too
 as Rama desired.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that foremost of sages (muni-śreṣṭhaḥ), having heard Rāma’s speech (śrutvā rāmasya bhāṣitam), meditated for a moment (dhyātvā muhūrtam), and the righteous-souled one spoke these auspicious words (tato ’vāca vacaḥ śubham):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -670,6 +742,12 @@ yojana* = from here, two yojana-s.*
 from here, oh, dear Rama, which is abundant with tubers, fruits, water, and many deer." Thus
 Agastya started to tell. [3-13-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Two yojanas from here (ito dvi-yojane), dear child (tāta), lies an auspicious region (deśaḥ śrīmān) abounding in roots, fruits, and water (bahu-mūla-phalodakaḥ) and teeming with deer, renowned as Pañcavaṭī (pañcavaṭy abhiviśrutaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -715,6 +793,12 @@ pituH vaakyam anupaalayan* = as, decreed, father's, sentence [order], complying 
 
 *"On your going there along with Saumitri, and on erecting a hermitage you may
 take delight in there complying the decreed order of your father. [3-13-14]*
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Going there (tatra gatvā) and building a hermitage (āśrama-padaṃ kṛtvā) together with Saumitri, delight yourself (ramasva tvam) while upholding your father’s word (pitur vākyam anupālayan) exactly as spoken.
 </details>
 </details>
 
@@ -764,6 +848,12 @@ indeed.**
 
 *"Indeed all of this episode of yours is known to me, oh, merited one, by the
 ability of my asceticism, and also by my friendship with Dasharatha. [3-13-15]*
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this entire history of yours (eṣa vṛttānto mama sarvas tava), O sinless one (anagha), is known to me through the power of my austerity (tapasaś ca prabhāvena) and through my affection for Daśaratha (snehād daśarathasya ca).
 </details>
 </details>
 
@@ -815,6 +905,12 @@ you go, thus as, to you, I am, telling [advising.]***
 advise you to go to Panchavati, though I said that you may dwell in these ascetic-woods along with
 me. [3-13-16, 17a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the desire abiding in your heart (hṛdaya-sthaṃ ca te chandaḥ)—though you promised to dwell here with me in the ascetic grove (iha vāsaṃ pratijñāya)—has been discerned by me through austerity (vijñātaṃ tapasā mayā);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -861,6 +957,12 @@ praiseworthy, also; *[because it is]; *na ati duure ca* = not, very, far off, al
 "That woodland will be delightful, isn't it Raghava, for it is praiseworthy and not
 very far off from here, and Seetha can take delight in there. [3-13-17b, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And therefore I tell you (ataś ca tvām ahaṃ brūmi), ‘Go to Pañcavaṭī!’ (gaccha pañcavaṭīm iti); for that woodland region is delightful (sa hi ramyo vanoddeśaḥ), and Maithilī will find delight there (maithilī tatra raṃsyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -885,6 +987,12 @@ very far off from here, and Seetha can take delight in there. [3-13-17b, 18a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! आ श्लाघनीय स्थानवु इल्लिन्द हॆच्चु दूरविल्ल. गोदावरिय हत्तिर (अदर तीरदल्ले) इदॆ. आद्दरिन्द मैथिलिय मनस्सु अल्लि तुम्बा रमिसीतु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That region is praiseworthy (ślāghanīyaś ca) and not very far (nātidūre ca), O Rāghava, and close to the Godāvarī (godāvaryāḥ samīpe ca); Maithilī will find delight there (maithilī tatra raṃsyate).
 </details>
 </details>
 
@@ -931,6 +1039,12 @@ tathaa eva ca* = meritorious, like that, even, also ramyaH = appealing one.
 tubers, fruits, various are its bird flocks, and it is very reclusive too, oh, great dextrous Rama,
 further it is meritorious and appealing. [3-13-18b, 19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Abounding in plentiful roots and fruits (prājya-mūla-phalaiś caiva) and filled with diverse flocks of birds (nānā-dvija-gaṇair yutaḥ), it is secluded (viviktaś ca), O mighty-armed one, sacred (puṇyaḥ), and delightful (ramyas tathaiva ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -976,6 +1090,12 @@ further it is meritorious and appealing. [3-13-18b, 19]
 
 "Even you, Rama, with your good deportment are capable to safeguard the hermits
 while residing there. [3-13-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You too are of righteous conduct (sadācāraḥ) and capable of affording protection (śaktaś ca parirakṣaṇe); moreover, dwelling there (atra vasan), O Rāma, you will protect the ascetics (tāpasān pālayiṣyasi).
 </details>
 </details>
 
@@ -1050,6 +1170,14 @@ there.]*
 and that renowned Panchavati is there in an ever-blooming forest in the valley of that mountain."
 Said Sage Agastya to Rama. [3-13-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “Yonder, O hero, is seen the great forest of madhūka trees (madhūkānāṃ mahā-vanam); as you go even toward the banyan tree (nyagrodham api gacchatā), you must proceed to the north of this grove (uttareṇāsya gantavyam).
+
+**22:** “Then, ascending the level plateau (tataḥ sthalam upāruhya) not far from the mountain (parvatasyāvidūrataḥ), [you will see the region] renowned simply as Pañcavaṭī (khyātaḥ pañcavaṭīty eva), whose groves are ever in blossom (nitya-puṣpita-kānanaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1095,6 +1223,12 @@ farewell.*
 
 When thus said by Sage Agastya, Rama along with Soumitri venerated and bade farewell
 to that truth advocator sage Agastya. [3-13-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Agastya (agastyenaivam uktas tu), Rāma, together with Saumitri, honored that truth-speaking seer (tam ṛṣiṃ satya-vādinam) and took leave of him (satkṛtyāmantrayām āsa).
 </details>
 </details>
 
@@ -1143,6 +1277,12 @@ to Panchavati; *jagmatuH* = proceeded.
 Thus well bidden by Sage Agastya those two Rama and Lakshmana have offered their
 venerations at the feet of that sage and proceeded to their prospective hermitage at Panchavati
 along with Seetha. [3-12-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Permitted to depart by him (tenābhyanujñātau) and having paid homage at his feet (kṛta-pādābhivandanau), those two went to that hermitage of Pañcavaṭī (tam āśramaṃ pañcavaṭīm) together with Sītā.
 </details>
 </details>
 
@@ -1213,6 +1353,12 @@ quivers, and resolutely proceeded to Panchavati on the route apprised by that gr
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हदिमूरनॆय सर्ग सम्पूर्णवायितु. ॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Holding their bows (gṛhīta-cāpau), with quivers fastened on (viṣakta-tūṇī), and fearless in battle (samareṣv akātarau), the two sons of the lord of men (narādhipātmajau) proceeded with composed minds (samāhitau) to Pañcavaṭī along the path pointed out by the great seer.
 </details>
 </details>
 

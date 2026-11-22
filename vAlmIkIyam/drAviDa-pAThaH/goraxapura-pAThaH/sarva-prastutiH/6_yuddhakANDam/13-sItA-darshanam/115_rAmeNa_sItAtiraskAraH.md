@@ -70,6 +70,12 @@ asks her to seek shelter elsewhere.
 Seeing that Seetha, who stood at his vicinity bowing low, Rama began to tell his
 feeling hidden in his heart (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the slaying of Rāvaṇa (rāvaṇavadhaṃ dṛṣṭvā), those gods, Gandharvas, and Dānavas departed in their respective aerial cars (svaiḥ svair vimānaiḥ), recounting auspicious tales:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -112,6 +118,12 @@ enemy; *raNaajire* = in the battle-field; *tat yat* = that which;
 
 "You are won back by me, after conquering the enemy in the battle-field, my dear
 lady! That which is to be done through human effort, has been accomplished by me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Recounting] the dreadful slaying of Rāvaṇa, the valor of Rāghava, the noble combat of the Vānaras (suyuddhaṃ vānarāṇāṃ ca), and the wise counsel of Sugrīva (sugrīvasya ca mantritam),
 </details>
 </details>
 
@@ -162,6 +174,12 @@ lady! That which is to be done through human effort, has been accomplished by me
 "I have come to the end of my indignation and my outrage has been completely
 requited as also the contempt against the enemy have been wiped out, all at once, by me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the devotion and valor of Māruti and of Lakṣmaṇa, the wifely fidelity of Sītā (pativratātvaṃ sītāyāḥ), and the heroic prowess in Hanūmān,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,6 +223,12 @@ I; *tiirNa pratijJNaH* = have fulfilled my promise; *adya* = today;
 "Now, my manly strength has been seen by all. Today, my toil has borne fruit. Now, I
 have fulfilled my promise. Today, I am the master of myself."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+those illustrious beings, recounting these deeds, departed rejoicing even as they had come (yathāgatam). Meanwhile, mighty-armed Rāghava [took leave of] the celestial chariot given by Indra, which shone like fire (śikhiprabham);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,6 +271,12 @@ been corrected; *mayaa* = by me; *maanuSheNa* = a human being.
 "The wrong done to you, when you were deserted from me, in that you were taken away
 by a fickle-minded demon, which was ordained by the destiny, has been corrected by me as a human
 being."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+having granted leave [to the chariot], he honored Mātali in return (mātaliṃ pratyapūjayat). Granted leave by Rāghava, Mātali, the charioteer of Śakra,
 </details>
 </details>
 
@@ -292,6 +322,12 @@ lot; *tejasaa* = by means of his energy?
 
 "What is the use of a prowess, however great, of that weak-minded man who does not
 wipe out, by his energy, the insult fallen to his lot?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+mounted that celestial chariot and flew straight up to heaven (divam evotpapāta ha). And when he had ascended to heaven with the chariot, the foremost of chariot-warriors (rathināṃ varaḥ)—
 </details>
 </details>
 
@@ -342,6 +378,12 @@ fruit.
 "The praise-worthy act of Hanuma in the form of crossing of the ocean and the
 destroying of Lanka, has borne fruit today."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Rāghava, supremely pleased (paramaprītaḥ), embraced Sugrīva; and having embraced Sugrīva, he was reverently saluted by Lakṣmaṇa (lakṣmaṇenābhivāditaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -383,6 +425,12 @@ destroying of Lanka, has borne fruit today."
 
 "The endeavour of Sugreeva, who exhibited his prowess on the battle-field with his
 army and tendered a good advice, is fruitful today."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored by the troops of monkeys (harigaṇaiḥ), he came to the encampment of the host (balālayam); then that scion of Kakutstha spoke to him who stood at his side—
 </details>
 </details>
 
@@ -433,6 +481,12 @@ abandoning; *bhraataram* = his brother; *viguNam* = who was void of good qualiti
 "Furthermore, the exertion of Vibhishana, who after deserting his brother who was
 void of good qualities, sought my presence, is fruitful today.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—unto Saumitri, Lakṣmaṇa, endowed with fortitude and blazing with splendor (dīptatejasam): “O gentle one, consecrate this Vibhīṣaṇa in Laṅkā (laṅkāyām abhiṣecaya),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -474,6 +528,12 @@ those of a female-deer; babhuuva was; *ashrupariplutaa* = filled with tears.
 
 Hearing those words spoken thus by Rama, Seetha with her eyes wide open like those
 of a female-deer, was bathed in tears.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“who is affectionate (anuraktaṃ ca), devoted, and our benefactor of old (pūrvopakāriṇam)! This is my supreme desire: that this younger brother of Rāvaṇa—
 </details>
 </details>
 
@@ -517,6 +577,12 @@ bhayaat* = for fear of the talk of the public.
 The heart of King Rama, as he saw Seetha, (the beloved of his heart) near him, was
 torn for fear of public scandal.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—Vibhīṣaṇa, O gentle one, I may behold consecrated in Laṅkā (abhiṣiktaṃ vibhīṣaṇam)!” Thus addressed by magnanimous Rāghava, Saumitri,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -558,6 +624,12 @@ patraakShiim* = whose eyes resembled the petals of a lotus; *niila kuN^jitu muur
 
 In the midst of monkeys and demons, Rama spoke (as follows) to Seetha, whose eyes
 resembled the petals of a lotus, who wore dark curly hair and was endowed with fine hips.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+saying “So be it!” in great joy (susaṃhṛṣṭaḥ), took up a golden pitcher (sauvarṇaṃ ghaṭam); and placing that pitcher into the hand of the monkey-chiefs who were swift as thought (manojavān),
 </details>
 </details>
 
@@ -608,6 +680,12 @@ killing; *raavaNam* = Ravana; *pratimaarjitaa* = and thus wiping away;
 "I, wanting for an honour, have done this particular act, which ought to be done by
 a man, in killing Ravana and thus wiping away the insult meted out to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+he commanded those beings of mighty strength (mahāsattvān) [to fetch] ocean water (samudrasalilam) then. Going with extreme swiftness, those Vānaras who were swift as thought
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -652,6 +730,12 @@ Sage Agastya.
 quarter, which was difficult to be approached by the world of mortals, was conquered by the Sage
 Agastya."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+returned, those foremost of Vānaras, having taken water from the ocean (samudrāt). Then taking one pitcher and seating him upon the supreme throne (paramāsane),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -678,6 +762,12 @@ Agastya."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निनगॆ मङ्गळवागलि. नानु माडिद युद्धद परिश्रम हागू ई मित्रर पराक्रमदिन्द पडॆद विजय, इदॆल्ल निन्नन्नु पडॆयलु अल्लवॆम्बुदन्नु नीनु तिळिदुकॊळ्ळबेकु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+with that pitcher Saumitri consecrated Vibhīṣaṇa (abhyaṣiñcad vibhīṣaṇam) in Laṅkā amidst the Rākṣasas as king, by the command of Rāma (rāmaśāsanāt).
 </details>
 </details>
 
@@ -728,6 +818,12 @@ successful carried through, due to the strength of my friends was not undertaken
 there be prosperity to you! This was done by me in order to keep up my good conduct and to wipe off
 the evil-speaking from all sides as well as the insinuation on my own illustrious dynasty."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+According to the rite enjoined by sacred mantras (vidhinā mantradṛṣṭena), all the Rākṣasas and the Vānaras as well consecrated him then, surrounded by a company of friends (suhṛdgaṇasamāvṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -777,6 +873,12 @@ eye-sight.
 "You, with a suspicion arisen on your character, standing in front of me, are
 extremely disagreeable to me, even as a light to one, who is suffering from a poor eye-sight."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering into boundless joy (praharṣam atulaṃ gatvā), they praised Rāma himself; and his ministers rejoiced (jahṛṣire), as did the Rākṣasas who were devoted to him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -819,6 +921,12 @@ directions; *naasti* = there is no; *kaaryam* = work to be done; *me* = to me;
 
 "O Seetha! That is why, I am permitting you now. Go wherever you like. All these ten
 directions are open to you, my dear lady! There is no work to be done to me, by you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Vibhīṣaṇa, lord of the Rākṣasas (rākṣasendraṃ vibhīṣaṇam), consecrated in Laṅkā, Rāghava together with Lakṣmaṇa experienced supreme joy (paramāṃ prītiṃ jagāma).
 </details>
 </details>
 
@@ -868,6 +976,12 @@ directions are open to you, my dear lady! There is no work to be done to me, by 
 "Which noble man, born in an illustrious race, will take back a woman who lived in
 another's abode, with an eager mind?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having obtained that great kingdom bestowed by Rāma (rāmadattam) and having consoled his subjects (sāntvayitvā prakṛtayaḥ), Vibhīṣaṇa then approached Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -911,6 +1025,12 @@ looks?
 "While mentioning greatly about my lineage, how can I accept again, you who were
 harassed in Ravana's lap (while being borne away by him) and who were seen (by him) with evil
 looks?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the delighted citizens, the night-stalkers (paurā niśācarāḥ), brought unto him curds, unbroken grain (akṣatān), sweetmeats, parched grain (lājāḥ), and flowers as well.
 </details>
 </details>
 
@@ -963,6 +1083,12 @@ here.
 The honour has been restored by me. For me, there is no intense attachment in you. You may go
 wherever you like from here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking those offerings, that unassailable and valiant monarch presented every auspicious article conducive to good fortune (maṅgalyaṃ maṅgalaṃ sarvam) unto Rāghava and unto Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1005,6 +1131,12 @@ sukham* = as per your ease.
 
 "O gracious lady! Therefore, this has been spoken by me today, with a resolved mind.
 Set you mind on Lakshmana or Bharata, as per your ease."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Vibhīṣaṇa with his task accomplished and his purpose prospering (kṛtakāryaṃ samṛddhārtham), Rāma accepted all that out of a desire to please him (tasyaiva pratikāmyayā).
 </details>
 </details>
 
@@ -1057,6 +1189,12 @@ on Sugreeva; *vibhiiShaNe va* = or on Vibhishana; *raakShase* = the demon;
 "O Seetha! Otherwise, set your mind either on Shatrughna or on Sugreeva or on
 Vibhishana the demon; or according to your own comfort."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then unto the valiant monkey Hanūmān, who resembled a mountain (śailopamam) and stood bowed before him with joined palms (prāñjaliṃ praṇataṃ sthitam), Rāma spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1105,6 +1243,12 @@ separation).
 
 "Seeing you, who are endowed with a beautiful form and attractive to the sense,
 detained for long in his abode, Ravana could not have endured your separation."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O gentle one, having sought the permission of this great king Vibhīṣaṇa (anujñāpya mahārājam) and entered the city of Laṅkā, inquire after the welfare of Maithilī (kauśalaṃ brūhi maithilīm).
 </details>
 </details>
 
@@ -1176,6 +1320,12 @@ an elephant and thereupon shed tears.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरहदिनैदनॆय सर्ग पूर्णवायितु.॥115॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Unto Vaidehī, O foremost of speakers (vadatāṃ śreṣṭha), declare that I am well (kuśalam), along with Sugrīva and Lakṣmaṇa, and that Rāvaṇa has been slain in battle!
 </details>
 </details>
 

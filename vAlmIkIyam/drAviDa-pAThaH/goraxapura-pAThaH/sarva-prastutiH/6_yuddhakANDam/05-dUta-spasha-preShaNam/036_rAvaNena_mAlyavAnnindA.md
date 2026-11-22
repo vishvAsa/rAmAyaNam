@@ -70,6 +70,12 @@ evil-minded; *aagataH* = who had fallen; *vasham* = under the sway; *kaalasya*
 The evil- minded Ravana the ten-faced monster, who had fallen under the sway of Death;
 could not brook that beneficial advice tendered by Malyavan.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wicked-souled Daśānana, however, having fallen under the sway of Time (kālasya vaśam āgataḥ), did not brook that salutary speech spoken by Mālyavān.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +122,12 @@ fury; *abraviit* = spoke; *atha* = then; *maalyavantam* = to Malyavan; (as follo
 He had fallen under the sway of anger, knitting his brows on the face as he was, rolling
 his eyes in fury and spoke to Malyavan (as follows)
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knitting his brow on his face and overpowered by wrath, he rolled his eyes in indignation (parivṛttākṣaḥ) and spoke thus to Mālyavān:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -161,6 +173,12 @@ an enemy; *na shrotagatam* = has not caught the ears; *mama* = to me.
 
 "I have closed my ears to the speech you have made, albeit with good intentions and even
 by taking sides with the enemy."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This harsh and unwholesome speech that is uttered under the guise of salutary intent (hitabuddhyā), after having gone over to the enemy's side, does not enter my ears!
 </details>
 </details>
 
@@ -209,6 +227,12 @@ small man; *shaakhamR^igaashrayam* = taking help from monkeys; *tyaktam* = aband
 "How can you hold Rama, who is a mere human being, a small feeble man, taking help from
 monkeys and dwelling in a forest having been abandoned by his father, to be a competent person?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On what ground (kena) do you deem Rāma capable—a wretched mortal (mānuṣaṃ kṛpaṇam), solitary, relying on monkeys, cast off by his father, and dwelling in the forest?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -254,6 +278,12 @@ monkeys and dwelling in a forest having been abandoned by his father, to be a co
 
 "How can you hold me, the Lord of demons, terrifying celestials and possessing all powers
 in full, to be a weaker person?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And on what ground do you deem me inferior (hīnam)—me, the lord of rākṣasas, the terror of the gods, who am never lacking in any valor (ahīnaṃ sarvavikramaiḥ)?
 </details>
 </details>
 
@@ -304,6 +334,12 @@ of your hero-hatred; *pakSapatena vaa* = or your partiality; *ripoH* = towards t
 "I suspect that you spoke these harsh words to me because of your envy of my prowess
 or your partiality towards the enemies or my lenience towards you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I suspect that harsh words have been spoken to me by you either out of malice toward heroes (vīradveṣeṇa), or out of partiality for the foe, or by way of instigation from the enemy (paraprotsāhanena)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -349,6 +385,12 @@ vaa = without any instigation?
 
 "Which learned man, understand the truth in the scriptures, would speak thus harshly
 to a mighty person in power, were it not to instigate him?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For what learned man conversant with the truths of the śāstras (śāstratattvajñaḥ) would speak harshly to a mighty monarch firmly established in his sovereignty (padastham), without instigation [from the foe]?”,
 </details>
 </details>
 
@@ -396,6 +438,12 @@ from the forest; *bhayaat* = through fear; raaghavasya of Rama?
 "Why should I give back Seetha, who is like Lakshmi the goddess of fortune without the
 lotus, having brought her away from the forest, through fear of Rama?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having brought Sītā from the forest—who is like Śrī without her lotus (padmahīnām iva śriyam)—why should I surrender her out of fear of Rāghava?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -442,6 +490,12 @@ together with Sugreeva; *nR^itam* = in the midst; *vaanara koTiibhiH* = of crore
 "See Rama killed within a few days by me, along with Lakshama together with Sugreeva
 in the midst of crores of monkeys."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold Rāghava, though surrounded by tens of millions of vānaras along with Sugrīva and Lakṣmaṇa, slain by me within a few days (kaiścid ahobhiḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -487,6 +541,12 @@ entertain; *bhayam* = fear; *yuddhe* = in the encounter?
 
 "How should this Ravana, whom in combat, the celestials themselves dare not meet in a
 duel, entertain fear in this encounter?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Before whom even the gods do not stand in single combat (dvandve) on the battlefield—how shall that Rāvaṇa feel fear in battle?
 </details>
 </details>
 
@@ -536,6 +596,12 @@ duel, entertain fear in this encounter?"
 "Rather would I be cut into two pieces than bend before anybody! Such was I from birth,
 it is my nature by difacult and unalterable."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even if I should break in two (dvidhā bhajyeyam api), I would never bend before anyone! This is my innate fault (sahajo doṣaḥ); one's own nature is impossible to overcome (duratikramaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -583,6 +649,12 @@ it is my nature by difacult and unalterable."
 "What great marvel is there in that which gave way to terror if by happy chance, a bridge
 indeed was constructed by Rama across the ocean."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even if a bridge has been built across the ocean by Rāma by mere chance (yadṛcchayā), what cause for wonder is there in this, whereby fear has come upon you?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -629,6 +701,12 @@ his army of monkeys; *tiirtraa* = having crossed; *aarNaam* = the ocean; *na pra
 "That Rama along with his army of monkeys, having crossed the ocean, will not go back
 alive. It is my true promise to you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having crossed the ocean with the vānara army, that Rāma—I promise you truly—shall not return alive!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -674,6 +752,12 @@ did not get; *vaakyam* = (any) words; *uttaram* = in reply.
 
 Beholding Ravana to be highly excited and speaking with such fury, Malyavan, abashed,
 did not reply.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving Rāvaṇa speaking thus, incensed (saṃrabdham) and wrathful, the abashed (vrīḍitaḥ) Mālyavān offered no word in reply.
 </details>
 </details>
 
@@ -724,6 +808,12 @@ Malyavan; *abhyaanujJNaataH* = having been given permission; *jagaama* = went; *
 Invoking blessings of victory to the king as courtesy demanded Malyavan took permission
 and went home.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having greeted the king with a benediction of victory (jayāśiṣā) as was fitting, Mālyavān, granted leave (abhyanujñātaḥ), departed to his own abode.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -769,6 +859,12 @@ things to be examined; *kaarayaamaasa* = set about planning; *tadaa* = then; *gu
 
 Ravana the demon on his part, assisted by his ministers having deliberated on the things
 to be examined, set about planning the defense of Lanka.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa the rākṣasa, however, having taken counsel and deliberated with his ministers (sahāmātyaḥ), then caused the defense (guptim) of Laṅkā to be arranged.
 </details>
 </details>
 
@@ -826,6 +922,14 @@ Thereafter, he assigned the eastern gate to the demon, Prahasta and the southern
 to Maha Parshva and Mhodara both of great prowess. At the western gate, he placed his son Indrajit,
 a powerful conjuror, with considerable force of demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** He stationed the rākṣasa Prahasta at the eastern gate (pūrvasyāṃ dvāri), and at the southern gate the two heroes of mighty valor, Mahāpārśva and Mahodara.
+
+**18:** Then at the western gate (paścimāyāṃ dvāri) he stationed his son Indrajit, master of great illusion (mahāmāyam), surrounded by numerous rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -875,6 +979,12 @@ spoke; *mantriNaH* = to his ministers; *taan* = that; *gamiSyaami* = he would go
 Placing Shuka and Sarana at the northern city-gate, Ravana told his ministers that he
 would go there personally.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having appointed Śuka and Sāraṇa at the northern city gate (uttarasyāṃ puradvāri), he said to those ministers: “I myself shall also go there (svayaṃ cātra gamiṣyāmi)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -921,6 +1031,12 @@ number of demons.
 He place the demon Virupaksha, who was full of energy and courage, to be in the center
 of the fort, with a large number of demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And in the central garrison (madhyame gulme) he stationed the rākṣasa Virūpākṣa of mighty valor and prowess, together with many rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -966,6 +1082,12 @@ demons; *kaalachoditaH* = under the sway of Time; *manyate* = deemed; *aatmaanam
 
 Making an arrangement in Lanka in this manner, that bull among demons, under the sway
 of Time, deemed his purpose as accomplished.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus arranged the defense in Laṅkā, the bull among rākṣasas, impelled by Time (kālacoditaḥ), deemed himself as one who had accomplished his task (kṛtakṛtyam iva).
 </details>
 </details>
 
@@ -1032,6 +1154,12 @@ entered his mighty and sumptuous inner apartments.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तारनॆय सर्ग पूर्णवायितु.॥36॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having commanded the ample defense of the city, he then dismissed his ministers; honored by the assembly of counselors with benedictions of victory, he entered his vast and opulent inner apartments (antaḥpuram ṛddhimat).
 </details>
 </details>
 

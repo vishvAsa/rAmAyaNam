@@ -39,6 +39,12 @@ _________________
 
 सुमन्त्रनु महात्मा लक्ष्मणन प्रेरणॆयिन्द दुर्वासरु हेळिद मातन्नु हेळलु तॊडगिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus urged by the high-souled Lakṣmaṇa (tathā sañcoditaḥ sūto lakṣmaṇena), the charioteer began to recount (vyāhartum upacakrame) those words formerly spoken by the sage (tad vākyam ṛṣiṇā proktam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,6 +69,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लक्ष्मण! अत्रिमहर्षिगळ पुत्रराद महामुनि दुर्वासरु हिन्दॊम्मॆ वसिष्ठर पवित्र आश्रमदल्लि वर्षाकालद नाल्कु तिङ्गळन्नु कळॆदिद्दरु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of old, the great sage named Durvāsas, son of Atri (durvāsā atreḥ putro mahāmuniḥ), dwelt for the rainy-season retreat (vārṣikyaṃ samuvāsa ha) in the sacred hermitage of Vasiṣṭha (vasiṣṭhasyāśrame puṇye).
 </details>
 </details>
 
@@ -92,6 +104,12 @@ _________________
 
 ऒन्दु दिन महायशोवन्तनाद निन्न तन्दॆयवरु पुरोहितराद वसिष्ठरन्नु काणलु आश्रमक्कॆ तावागिये बन्दरु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To that hermitage your greatly resplendent and illustrious father (pitā te sumahāyaśāḥ) went in person (agamat svayam), eager to behold his high-souled family preceptor (purohitaṃ mahātmānaṃ didṛkṣuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +134,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि तन्न तेजदिन्द सूर्यनन्तॆ देदीप्यमानराद ओर्व महामुनिगळु वसिष्ठर वामभागदल्लि कुळितिरुवुदन्नु राजनु नोडिदनु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There he beheld that great sage [Durvāsas], radiant as the sun (sūrya-saṅkāśam) and blazing as it were with spiritual splendor (jvalantam iva tejasā), seated on the left side of Vasiṣṭha (upaviṣṭaṃ vasiṣṭhasya savyapārśve).
 </details>
 </details>
 
@@ -148,6 +172,12 @@ _________________
 
 आग राजनु इब्बरू तापसश्रेष्ठ महर्षियरन्नु विनयदिन्द अभिवादन माडिदनु. अवरिब्बरू स्वागतपूर्वक आसन नीडि, पाद्य, फल-मूल अर्पिसि राजनन्नु सत्करिसिदरु. मत्तॆ अवनु अल्लि मुनिगळ बळि कुळितुकॊण्डनु.॥5½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With humility he bowed in salutation to both those foremost ascetics (tau munī tāpasa-śreṣṭhau vinīto hy abhivādayat); honored by them with words of welcome and a seat (svāgatenāsanena ca), as well as foot-water, fruits, and roots (pādyena phala-mūlaiś ca), the king sat down together with the sages (uvāsa munibhiḥ saha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -172,6 +202,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि कुळितिरुव महर्षिगळु मध्याह्नद समय बगॆ-बगॆय अत्यन्त मधुर कथॆगळन्नु परस्पर हेळिकॊण्डरु.॥6½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As they sat seated there (teṣāṃ tatropaviṣṭānām), manifold sweet and sacred discourses arose among those supreme seers (tās tāḥ sumadhurāḥ kathāḥ babhūvuḥ paramarṣīṇām) when the day had reached midday (madhyāditya-gate ’hani).
 </details>
 </details>
 
@@ -198,6 +234,12 @@ _________________
 
 बळिक यावुदो कथॆय सन्दर्भदल्लि महाराजनु कैमुगिदु तपोधन अत्रिपुत्र महात्मा दुर्वासरल्लि विनयदिन्द केळिदनु.॥7½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, in the course of a certain tale (kathāyāṃ kasyāñcit), the king, humble and with joined palms (prāñjaliḥ pragraho nṛpaḥ), addressed that high-souled son of Atri, rich in austerity (atreḥ putraṃ tapodhanam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -222,6 +264,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूज्यरे! नन्न वंश ऎष्टु समय नडॆदीतु? नन्न रामनिगॆ आयुस्सु ऎष्टिद्दीतु? हागू उळिद ऎल्ल पुत्रर आयुस्सू कूड ऎष्टिरबहुदु.॥8½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O revered one, to what extent shall my lineage endure (kiṃ pramāṇena mama vaṃśo bhaviṣyati)? And what shall be the lifespan of my Rāma (kim āyuś ca hi me rāmaḥ), and what the lifespans of my other sons (putrāś cānye kim āyuṣaḥ)?
 </details>
 </details>
 
@@ -248,6 +296,12 @@ _________________
 
 श्रीरामनिगॆ हुट्टुव पुत्रर आयुस्सु ऎष्टागबहुदु? पूज्यरे! तावु इच्छानुसार नन्न वंशद स्थितियन्नु तिळिसिरि.॥9½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And whatever sons may be born to Rāma (rāmasya ca sutā ye syuḥ), how long shall their lives be (teṣām āyuḥ kiyad bhavet)? Out of favor for my wish, O revered one, declare (kāmyayā bhagavan brūhi) the future course of this my dynasty (vaṃśasyāsya gatiṃ mama)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,6 +326,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दशरथराजन मातन्नु केळि महातेजस्वि दुर्वासरु हेळतॊडगिदरु.॥10½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those words spoken by King Daśaratha (rājño daśarathasya), the exceedingly resplendent Durvāsas (durvāsāḥ sumahātejāḥ) began to speak (vyāhartum upacakrame):
 </details>
 </details>
 
@@ -300,6 +360,14 @@ _________________
 
 राजने! केळु, हिन्दॊम्मॆ देवासुर सङ्ग्रामदल्लि देवतॆगळिन्द पीडितराद दैत्यरु महर्षि भृगुपत्नियल्लि शरणादरु. भृगुपत्नियु आग दैत्यरिगॆ अभयवित्तरु हागू अवर आश्रमदल्लि निर्भयरागि इरतॊडगिदरु.॥11-12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “‘Hear, O King, an ancient event (śṛṇu rājan purāvṛttam) from the war between the gods and asuras (devāsure yudhi): harassed by the gods, the daityas took refuge with the wife of Bhṛgu (bhṛgu-patnīṃ samāśritāḥ); granted safety by her (tayā dattābhayāḥ), they dwelt there free from fear (nyavasann abhayās tadā).
+
+**12:** “‘Beholding them sheltered by her (tayā parigṛhītāṃs tān dṛṣṭvā), the Lord of the Gods [Viṣṇu] grew wroth (kruddhaḥ sureśvaraḥ), and with his razor-edged discus (cakreṇa śita-dhāreṇa) he severed the head of Bhṛgu’s wife (bhṛgu-patnyāḥ śiro ’harat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,6 +393,12 @@ _________________
 
 भृगुपत्नियु दैत्यरिगॆ आश्रय नीडिदुदन्नु नोडि कुपितनाद देवेश्वर भगवान् विष्णु हरितवाद चक्रदिन्द आकॆय तलॆयन्नु कत्तरिसिदनु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Then, beholding his wife slain (tāṃ nihatāṃ dṛṣṭvā patnīm), that scion of Bhṛgu’s race (bhṛgu-kulodvahaḥ), filled with sudden wrath (sahasā kruddhaḥ), cursed Viṣṇu, the destroyer of enemy hosts (śaśāpa ... viṣṇuṃ ripu-kulārdanam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -349,6 +423,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तन्न पत्निय वधॆयन्नु नोडि भार्गव वंश प्रवर्तक भृगुमुनिगळु कुपितरागि शत्रुकुलनाशक भगवान् विष्णुविगॆ शापवन्नित्तरु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘“Because, blinded by anger (krodha-mūrcchitaḥ), you slew my wife who was inviolable (avadhyāṃ me patnīm avadhīḥ), therefore you shall be born in the mortal world (mānuṣe loke janiṣyasi), O Janārdana!
 </details>
 </details>
 
@@ -381,6 +461,12 @@ _________________
 
 जनार्दनने! नन्न पत्नियु वधॆगॆ योग्यळिरलिल्ल. आदरू नीनु क्रोधमूर्छितनागि आकॆयन्नु वधिसिदॆ. इदरिन्द निनगॆ मनुष्यलोकदल्लि हुट्टबेकादीतु मत्तु अल्लि बहळ दिनगळवरॆगॆ रामनिगॆ पत्नी वियोगद कष्ट सहिसबेकादीतु.॥15½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘“There you shall suffer separation from your wife for many years (patnī-viyogaṃ tvaṃ prāpsyase bahu-vārṣikam)!” Stricken in heart by the curse he had uttered (śāpābhihata-cetāḥ), he became deeply moved within himself (svātmanā bhāvito ’bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -405,6 +491,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ ई प्रकार शापकॊट्ट अवर मनस्सिनल्लि बहळ पश्चात्तापवुण्टायितु. विष्णुवु शापवन्नु स्वीकरिसुवन्तॆ विष्णुविन आराधनॆ माडुवन्तॆ महर्षिगळन्नु अवर अन्तरात्मवु प्रेरेपिसितु. हीगॆ शापद विफलतॆय भयदिन्द पीडितराद भृगुवु तपस्सिन मूलक भगवान् विष्णुविन आराधनॆयन्नु माडिदरु.॥16½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Tormented on account of that curse (śāpena pīḍitaḥ), Bhṛgu worshipped that Lord (arcayām āsa taṃ devam); propitiated by his penance, the God affectionate to his devotees (devo ... bhakta-vatsalaḥ) spoke, declaring that for the supreme welfare of the worlds (lokānāṃ saṃhitārtham) that curse should indeed be accepted (taṃ śāpaṃ grāhyam uktavān).
 </details>
 </details>
 
@@ -434,6 +526,12 @@ _________________
 
 तपस्सिन मूलक आराधनॆ माडिदाग भक्तिवत्सल महाविष्णु प्रसन्ननागि महर्षिगळिगॆ हेळिदनु - महर्षिगळे! समस्त लोकगळ प्रियवन्नुण्टु माडलु निम्म शापवन्नु स्वीकरिसुवॆनु.॥17½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Thus cursed by Bhṛgu in a former existence (śapto ... bhṛguṇā pūrva-janmani), that greatly resplendent Lord has come here into sonship to you (ihāgato hi putratvaṃ tava), O best of monarchs!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -461,6 +559,14 @@ _________________
 
 हिन्दॆ महाविष्णुवु वामननागि अवतरिसिदाग महाविष्णुविगॆ भृगु महर्षिगळिन्द हीगॆ शाप बन्दित्तु. आ शापद परिणामवागि आ महाविष्णुवे भूमियल्लि निन्न मगनागि हुट्टि रामनॆम्ब हॆसरिनिन्द मूरु लोकगळल्लि विख्यातनागुत्तानॆ.॥18-19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “‘Renowned across the three worlds as Rāma (rāma ity abhivikhyātas triṣu lokeṣu), O giver of honor, he shall indeed undergo that mighty fruit (tat phalaṃ prāpsyate) wrought by the curse of Bhṛgu (bhṛgu-śāpa-kṛtaṃ mahat).
+
+**19:** “‘Rāma shall be lord of Ayodhyā for a long age (ayodhyāyāḥ patī rāmo dīrghakālaṃ bhaviṣyati), and happy and prosperous shall be all those who follow him (sukhinaś ca samṛddhāś ca bhaviṣyanty asya ye ’nugāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -485,6 +591,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भृगु महर्षिगळ शापद परिणामवागि अवनु पत्नी वियोग रूपवाद फलवन्नु पडॆदरू बहळ दीर्घकालदवरॆगॆ अयोध्यॆयल्लि राज्यभार माडिकॊण्डिरुवनु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Having governed the kingdom (rājyam upāsitvā) for ten thousand years and ten hundred years besides (daśa varṣa-sahasrāṇi daśa varṣa-śatāni ca), Rāma shall depart to the world of Brahmā (brahmalokaṃ gamiṣyati).
 </details>
 </details>
 
@@ -512,6 +624,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवन अनुयायिगळू कूड परमसुखि मत्तु धन-धान्यगळिन्द सम्पन्नरागुवरु. श्रीरामनु हन्नॊन्दु साविर वर्ष राज्यवाळि कॊनॆगॆ वैकुण्ठ अथवा साकेतधामक्कॆ तॆरळुवनु.॥21½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Having sacrificed with opulent horse sacrifices (samṛddhaiś cāśvamedhaiś ca iṣṭvā), that supremely invincible hero (paramadurjayaḥ) shall establish many royal dynasties in abundant measure (rāja-vaṃśāṃś ca bahuśo bahūn saṃsthāpayiṣyati).
 </details>
 </details>
 
@@ -544,6 +662,14 @@ _________________
 
 परम दुर्जयवीर श्रीरामनु समृद्धिशाली अश्वमेध यज्ञगळन्नु अनुष्ठान माडि अनेक राज वंशरुगळन्नु स्थापनॆ माडुवनु. श्रीरघुनाथनिगॆ सीतॆय गर्भदिन्द इब्बरु पुत्ररागुवरु.॥22-23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** “‘Two sons shall be born to Rāghava from Sītā (dvau putrau tu bhaviṣyete sītāyāṃ rāghavasya tu)—elsewhere, not in Ayodhyā (anyatra na tv ayodhyāyām); this is truth beyond all doubt (satyam etan na saṃśayaḥ)—and Rāghava shall thereafter consecrate those two sons of Sītā (sītāyāś ca tataḥ putrāv abhiṣekṣyati rāghavaḥ).’
+
+**23:** “He recounted in its entirety (sarvam akhilam ... āha) all that had passed and all that was to come of the king’s dynasty (rājño vaṃśasya ... gatāgatam); having declared this, that greatly resplendent sage fell silent (tūṣṇīm āsīn mahāmuniḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -568,6 +694,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवॆल्ल मातुगळन्नु हेळि आ महातेजस्वी महामुनियु राजवंशद भूत, भविष्यद ऎल्ल मातुगळन्नु तिळिसि सुम्मनादरु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When that sage had fallen silent (tūṣṇīṃbhūte tadā tasmin ... munau), King Daśaratha bowed in salutation to both high-souled seers (abhivādya mahātmānau) and returned to his foremost of cities (punar āyāt purottamam).
 </details>
 </details>
 
@@ -594,6 +726,12 @@ _________________
 
 दुर्वासरु सुम्मनादाग दशरथनू इब्बरू महात्मरिगॆ वन्दिसि तन्न नगरक्कॆ बन्दनु.॥25॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This very word uttered of old by the sage there (etad vaco mayā tatra muninā vyāhṛtaṃ purā) was heard by me and laid up within my heart (śrutaṃ hṛdi ca nikṣiptam); it shall never prove otherwise (nānyathā tad bhaviṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -618,6 +756,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हिन्दॆ दुर्वासरु हेळिद ऎल्ल मातुगळन्नु नानु अल्लि केळिसिकॊण्डु मनस्सिनल्लिट्टुकॊण्डु प्रकटपडिसलिल्ल. आ मातुगळु सुळ्ळागलारवु.॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Such being the case (evaṃ gate), O Rāghava, you ought not to give way to anguish (na santāpaṃ kartum arhasi)—be firm of heart, O best of men (dṛḍho bhava narottama), whether for Sītā’s sake or for Rāghava’s (sītārthe rāghavārthe vā)!”
 </details>
 </details>
 
@@ -644,6 +788,12 @@ _________________
 
 दुर्वासर मातिनन्तॆ श्रीरघुनाथनु सीतॆय इब्बरू पुत्रर पट्टाभिषेक अयोध्यॆयिन्द हॊरगे नडॆसुवनु.॥27॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those exceedingly wondrous words spoken by the charioteer (sūtasya paramādbhutam), Lakṣmaṇa attained incomparable joy (praharṣam atulaṃ lebhe) and exclaimed, “Well spoken, well spoken!” (sādhu sādhv iti cābravīt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -668,6 +818,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरश्रेष्ठ लक्ष्मण! विधातन विधान हीगे इरुवुदरिन्द नीनु सीतॆ अथवा श्रीरामन कुरितु सन्ताप पडबेड. धैर्यधरिसिको.॥28॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, as the charioteer and Lakṣmaṇa conversed thus along the road (saṃvadator evaṃ sūta-lakṣmaṇayoḥ pathi), when the sun had set (astam arke gate), the two then took their night’s lodging by the river Keśinī (vāsaṃ keśinyāṃ tāv athoṣatuḥ).
 </details>
 </details>
 

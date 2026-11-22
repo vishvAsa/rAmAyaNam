@@ -70,6 +70,12 @@ camouflaging]; *atiSThan* = stayed waited on.
 They all on quickly going to Kishkindha, the city of Vali, hedged themselves in the
 thickets of forest trees and waited. [4-14-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having gone swiftly (tvaritam gatvā) to Kiṣkindhā, the city of Vālī (vālinaḥ purīm), all of them concealed themselves (ātmānam āvṛtya) among the trees and stood in the dense forest (gahane vane).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +121,12 @@ he assumed.
 
 That forest lover with tumultuous voice Sugreeva cast his eye everywhere and assumed
 tremendous fury. [4-14-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Casting his gaze on every side (visārya sarvato dṛṣṭim) in the forest, broad-necked Sugrīva (sugrīvo vipulagrīvaḥ), who loved the woods (kānanapriyaḥ), summoned up fierce wrath (krodham āhārayad bhṛśam).
 </details>
 </details>
 
@@ -165,6 +177,12 @@ Then Sugreeva encompassed by his followers war-whooped ghastlily, like a great c
 that emerged accelerated by gusty wind and that is thundering as though to rip the sky, inviting
 Vali for fight. [4-14-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, surrounded by his attendants (parivāraiḥ parivṛtaḥ), he uttered a dreadful roar (ninadam ghoram kṛtvā) and challenged [Vālī] to battle (yuddhāya cāhvayat), as though splitting the sky with his cries (nādair bhindann ivāmbaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -210,6 +228,12 @@ alike; *dR^ipta simha gatiH* = proud, lion, in stride; *sugriivaH* = Sugreeva;
 
 Then Sugreeva who is like the rising sun and whose stride is like that of a proud
 lion saw the adroit Rama and then said this sentence. [4-14-4b, 5a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thundering like a great storm-cloud (garjann iva mahāmeghaḥ) preceded by the rush of the wind (vāyuvegapuraḥsaraḥ), resembling the newly risen sun (bālārkasaḍṛśaḥ), and striding with the gait of a proud lion (dṛptasiṃhagatis tataḥ)—
 </details>
 </details>
 
@@ -297,6 +321,14 @@ tree to hang on and flourish. It is said *lata, kavita, vanita na shobhate aashr
 climbing plant, poetry, or an young girl do not prosper without patronage. So Sugreeva is
 submitting himself, as a *kainkarya* to the patronage of Rama, like Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** —beholding Rāma skilled in action (kriyādakṣam), Sugrīva spoke this word: “[To this city] encompassed by a snare of monkeys (harivāgurayā vyāptām) and adorned with arches of refined gold (taptakāñcanatoraṇām)—
+
+**6:** “—we have arrived at Vālī's city Kiṣkindhā (prāptāḥ sma kiṣkindhām vālinaḥ purīm), richly equipped with banners and war-engines (dhvajayantrāḍhyām)! That vow which was made by you (pratijñā yā kṛtā tvayā) of old, O hero, for the slaying of Vālī (vālivadhe purā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -345,6 +377,12 @@ said, words.
 
 When thus said by Sugreeva that enemy-destroyer and righteous Raghava said this word
 Sugreeva. [4-14-7b, 8a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—make that [vow] bear fruit swiftly (saphalām kuru tām kṣipram), just as the arriving season (kāla ivāgataḥ) brings a creeper to fruit (latām)!” Thus addressed by Sugrīva, that righteous-souled Rāghava (dharmātmā sa rāghavaḥ)—
 </details>
 </details>
 
@@ -458,6 +496,14 @@ for he is wearing the gaja-flower garland, Rama foresees the destruction of the 
 Kishkindha, namely Vali. Further Sugreeva is from Lord Sun's lineage. Govindaraja and Maheshvara
 Tiiratha agree on the last rendering.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** —that destroyer of foes (śatrusūdanaḥ), spoke this word to that very Sugrīva: “You have been marked with a token of recognition (kṛtābhijñānacihnas tvam) by this elephant-named creeper (anayā gajasāhvayā)!
+
+**9:** “Plucked (samutpāṭya) by Lakṣmaṇa, this [creeper] has been placed around your neck (eṣā kaṇṭhe kṛtā tava); and with that creeper clinging to your neck (latayā kaṇṭhasaktayā), O hero, you shine all the more (śobhase 'py adhikam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -504,6 +550,12 @@ fear, enmity, as well; *pramokSyaami* = I will set free.
 "Oh Vanara, today itself I will set you free from the fear and enmity whipped up by
 Vali by releasing a single arrow in fight. [4-14-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—like the sun in the sky (sūrya ivākāśe) encircled by a garland of stars (viparīto nakṣatramālayā)! Today, O Vānara, your fear and enmity (te bhayam vairam ca) sprung from Vālī (vālisamuttham)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -543,6 +595,12 @@ ceSTate* = by then, he rolls.
 
 "You show me your enemy in a brother's mien, oh, monkey, by then he will be rolling
 in the dust of this forest eliminated by me. [4-14-11b, 12a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—I shall dispel (aham pramokṣyāmi) in battle with the release of a single arrow (ekena bāṇamokṣeṇa saṃyuge)! Point out to me (mama darśaya), O Sugrīva, your enemy wearing the form of a brother (vairiṇam bhrātṛrūpiṇam)—
 </details>
 </details>
 
@@ -587,6 +645,12 @@ deride, also.
 
 "If he returns to live even after my espying him then immediately you can find fault
 with me, you can even deride me. [4-14-12b, 13a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—so that Vālī, struck down (vinihataḥ), may writhe in the dust in the forest (yāvad vane pāṃsuṣu ceṣṭate)! If, having come within range of my sight (dṛṣṭipatham prāptaḥ), he returns alive (jīvan sa vinivartate)—
 </details>
 </details>
 
@@ -633,6 +697,12 @@ be, dispatched, you will be knowing - be sure.
 
 "Seven saala trees are rived with a single of arrow of mine in your presence,
 thereby be sure that Vali will be dispatched now, by my might. [4-14-13b, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—then you may impute fault to me (tato doṣeṇa māgacchet) and reproach me on the spot (sadyo garhec ca mām bhavān)! Before your very eyes (pratyakṣam te), seven sāla trees were cloven by me with a single arrow (sapta sālā mayā bāṇena dāritāḥ);
 </details>
 </details>
 
@@ -704,6 +774,14 @@ promise, fructify - will make happen, I will do; *jahi sambhramam* = kill, perpl
 "As Indra fructifies the sprouted paddy field I will make happen my promise, hence
 leave off your perplexity." [4-14-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “by that strength (tena balena), know that Vālī is slain in battle today (avehi adya vālinam nihatam raṇe)! Never before has an untruth been spoken by me (anṛtam noktapūrvam me), even when standing long in dire distress (ciram kṛcchre 'pi tiṣṭhatā)—
+
+**15:** “—filled as I am with eager devotion to dharma (dharmalobhaparītena), nor shall I ever speak one in any way (na ca vakṣye kathaṃcana)! Cast aside your trepidation (jahi saṃbhramam); I shall make my vow bear fruit (saphalām ca kariṣyāmi pratijñām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -755,6 +833,12 @@ niSpatet* = by which, monkey [Vali,] comes out.
 
 "Thereby to invite that Vali with golden pendant, oh, Sugreeva, you make such a
 war-cry by which that monkey Vali comes out. [4-14-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—just as Śatakratu [Indra] brings a sprouted rice-field to fruit with rain (prasūtam kalamakṣetram varṣeṇeva śatakratuḥ)! Therefore, in order to summon Vālī who wears the golden garland (tadāhvānanimittam ca vālino hemamālinaḥ)—
 </details>
 </details>
 
@@ -821,6 +905,12 @@ once, Vali will not tolerate any more war cries from Sugreeva, thus comes out of
 *ripunagara gopura dvaaram uparudhya vyuthaaya bahir aagaccheti samud ghoShaya | tadasahamaano
 vaali yuddha sannadho bahir nirgacched eva --- iti raama vacanam - dharmaakuutam*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—raise that battle-cry, O Sugrīva (sugrīva kuru tam śabdam), whereby that Vānara, proud of conquest (jitakāśī), boasting of victory (jayaślāghī), and challenged by you (tvayā cādharṣitaḥ), may rush forth from the city (niṣpated purāt)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -867,6 +957,12 @@ ladies, presence, especially.
 "One who is assertive of his own valour will not tolerate to hear enemy's daring in
 a brawl, that too in the presence of ladies." So said Rama to Sugreeva. [4-14-18b, 19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That Vālī, who delights in battle (priyasaṃyugaḥ), will rush forth without delay (niṣpatiṣyaty asaṅgena); for having heard the defiance of their foes (ripūṇām dharṣitam śrutvā), [heroes] do not brook it in battle (marṣayanti na saṃyuge)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -912,6 +1008,12 @@ naadena nanarda* = with a gruesome, blare, blared.
 
 On hearing the words of Rama he that Sugreeva with golden yellow complexion blared a
 gruesome blare as though to completely rend the sky. [4-14-19b, 20a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—especially when conscious of their own valor (jānantas tu svakam vīryam) in the presence of their womenfolk (strīsamakṣam viśeṣataḥ)!” Hearing Rāma's words, that Sugrīva, tawny as gold (hemapiṅgalaḥ)—
 </details>
 </details>
 
@@ -963,6 +1065,12 @@ outsiders - invaders, mishandled - ill-treated; *kula striya iva* = well-born, l
 By that sound of Sugreeva the splendour of cows is marred and they are running
 helter-skelter like the well-born ladies who are mishandled by invaders due to the misrule of their
 own king. [4-14-20b, 21a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—roared with a fierce cry (nanarda krūranādena), as though splitting the sky in two (vinirbhindann ivāmbaram). Terrified by that sound there (tatra śabdena vitrastāḥ), cows fled, bereft of luster (gāvo yānti hataprabhāḥ)—
 </details>
 </details>
 
@@ -1023,6 +1131,12 @@ falling is like the meteors falling onto ground. It is said that every liberated
 in the sky, like the star of North Pole, *dhruva tara* . So also the planets and stars are the
 liberated soul of eminent saints or sages. Thus the falling of birds is compared to the falling of stars,
 planets, or meteors. This expression is *shleSa* with *kaanti guNa* ; Metaphoric colligates.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—distraught like noblewomen (kulastriya ivākulāḥ) afflicted by a king's misrule (rājadoṣaparāmṛṣṭāḥ); deer bolted swiftly (dravanti ca mṛgāḥ śīghram) like horses routed in battle (bhagnā iva raṇe hayāḥ); and birds fell to the earth (patanti ca khagā bhūmau) like planets whose karmic merit is exhausted (kṣīṇapuṇyā iva grahāḥ).
 </details>
 </details>
 
@@ -1088,6 +1202,12 @@ splashing waves drifted by gales. [4-14-22]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हदिनाल्कनॆय सर्ग सम्पूर्णवायितु. ॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that son of Sūrya (sūryātmajaḥ), whose fiery splendor was heightened by valor (śauryavivṛddhatejāḥ) and who was filled with confidence (pratītaḥ), swiftly loosed a roar (nādam hy amuñcat tvarayā) resounding like a thundercloud (jīmūtakṛtapraṇādaḥ), or like the lord of rivers [the ocean] with wind-tossed waves (saritpatir vā 'nilacañcalormiḥ).
 </details>
 </details>
 

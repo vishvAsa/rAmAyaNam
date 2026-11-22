@@ -71,6 +71,12 @@ vaahiniim* = monkey, soldiery; *samudiikSya* = on overseeing; *atha* = then;
 On overseeing the crestfallen monkey-soldiery, which is with many hundreds and
 thousands of soldiers, then Jambavanta sad this way to Hanuma. [4-66-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding (samudīkṣya) the monkey army (harivāhinīm) of many hundreds of thousands (anekaśatasāhasrīm) thus dejected (viṣaṇṇām), Jāmbavān then spoke to Hanumān:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +124,12 @@ to; *kim na jalpasi* = why, not, mumble [something.]
 scriptural scholars, Hanuma, why do not you mumble something, why do you resort to a calmly
 loneliness... [4-66-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O hero of the monkey world (vīra vānaralokasya), best of all knowers of the scriptures (sarvaśāstravidāṃ vara), why do you sit in silence apart (tūṣṇīm ekāntam āśritya) and not speak (kiṃ na jalpasi), O Hanumān?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +175,12 @@ hi* = you match up to, you are, indeed.
 
 "By your brilliance and brawn, oh, Hanuma, you match up to king of monkeys Sugreeva,
 or even to Rama and Lakshmana, as well... [4-66-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Hanumān, you are indeed equal (samo hy asi) to the monkey-king Sugrīva, and to Rāma and Lakṣmaṇa as well, both in fiery energy and in strength (tejasā ca balena ca).
 </details>
 </details>
 
@@ -213,6 +231,12 @@ iva [iti] vi khyaata* = Garuda, thus, universally, renowned as - such a bird is 
 "The son of Kashyapa Prajapati and Lady Vinata is the best bird among all the birds
 who is superbly mighty and who is universally renowned as Garuda... [4-66-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The mighty son of Ariṣṭanemi (ariṣṭaneminaḥ putraḥ), Vinatā's son (vainateyaḥ), is renowned as Garutmān, the foremost of all birds (uttamaḥ sarvapakṣiṇām), just like [you] (iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -258,6 +282,12 @@ bahushaH dR^iSTaH hi* = by me, oftentimes, is seen, indeed.
 
 "Iindeed, I have oftentimes seen that highly glorious, rapidly speedy, great mighty
 bird Garuda, pecking up reptiles from ocean... [4-66-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For many times (bahuśo hi) has that mighty, great-armed, powerful bird (pakṣī mahābāhur mahābalaḥ) been seen by me in the ocean (sāgare), lifting up serpents (bhujaṅgān uddharan).
 </details>
 </details>
 
@@ -305,6 +335,12 @@ dash and dare]; *na apahiiyate* = underwhelmed [unreprovable.]
 "Whatever is the strength of his wings, that much is the strength of you arms, and
 even by the yardsticks of his dash and dare, yours too, are unreprovable... [4-66-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What strength is in his two wings (pakṣayor yad balaṃ tasya), that is the strength and valour of your arms (bhujavīryabalaṃ tava); neither your stride nor your speed falls short of his (na te tenāpahīyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -351,6 +387,12 @@ sajjase* = yourself, why, not, readying [yourself.]
 "Oh, forthright monkey, you are the finest among all beings by the dint of your
 force, faculty, flair, and fortitude... why then is your unreadiness in this task of leaping
 ocean... [4-66-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your strength, intellect, fiery energy, and courage (balaṃ buddhiś ca tejaś ca sattvaṃ ca), O bull among monkeys, are preeminent among all beings (viśiṣṭaṃ sarvabhūteṣu)—why do you not rouse yourself (kim ātmānaṃ na sajjase)?
 </details>
 </details>
 
@@ -430,6 +472,14 @@ earth; *kaama ruupiNii* = by wish, form changer; *kapitve* = with monkey-hood;
 boy Hanuma, had to take a rebirth on earth as a monkey who can change her form by her wish, owing
 to a curse... [4-66-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “The nymph (apsarāḥ), foremost of nymphs (apsarasāṃ śreṣṭhā), renowned as Puñjikasthalā, became widely famed as Añjanā, the consort of the monkey Kesarī (patnī kesariṇo hareḥ).
+
+**9:** “Renowned in the three worlds and peerless in beauty upon earth (rūpeṇāpratimā bhuvi), through a curse (abhiśāpāt), O dear one, she came to exist in a monkey's state (kapitve), able to assume any form at will (kāmarūpiṇī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -485,6 +535,14 @@ assuming a human physique, putting on caparisons of amazing garlands, dressed in
 and shining forth with rarity of her beauty and nubility, at one time ambled on the top of a
 mountain like a streak of lightning athwart a black-cloud of rainy season. [4-66-10, 11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** “The daughter of the high-souled monkey-lord Kuñjara (duhitā vānarendrasya kuñjarasya), endowed with beauty and youth (rūpayauvanaśālinī), having assumed a human form (mānuṣaṃ vigrahaṃ kṛtvā)—
+
+**11:** “Adorned with wondrous garlands and ornaments (vicitramālyābharaṇā) and wearing linen silk (kṣaumadhāriṇī), she once roamed (acarat) upon a mountain summit that resembled a monsoon cloud (prāvṛḍambudasaṃnibhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -529,6 +587,12 @@ up.]
 "When she is strolling on the mountaintop Air-god has slowly lifted up that
 broad-eyed lady's auspicious and ochry silk apparel with red rouches... [4-66-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As that large-eyed lady stood upon the mountain summit (sthitāyāḥ parvatasyāgre), the Wind (mārutaḥ) gently (śanaiḥ) drew aside (apāharat) her fair yellow garment with red fringes (vastraṃ pītaṃ raktadaśaṃ śubham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -570,6 +634,12 @@ proportioned [becomingly build]; *caaru aananam ca* = beautiful, face, also;
 "Then the Air-god beheld her well-twinned, thickset, roundish thighs, and even the
 paired off plumpish breasts, and her beautiful face which is well proportioned in its build...
 [4-66-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then he beheld her rounded, well-knit thighs (vṛttāv ūrū susaṃhatau), her full, close-set breasts (stanau ca pīnau sahitau), and her finely formed, lovely face (sujātaṃ cāru cānanam).
 </details>
 </details>
 
@@ -613,6 +683,12 @@ Air-god; *kaama mohitaH* = by enamour, enamoured.
 ample and who is slender-waisted, and who by all her limbs is pristine, the Air-god is enamoured...
 [4-66-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the very sight (dṛṣṭvaiva) of that glorious lady of broad hips (āyataśroṇīm), slender waist (tanumadhyām), and auspicious limbs (śubhasarvāṅgīm), the Wind became infatuated with love (pavanaḥ kāmamohitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -655,6 +731,12 @@ Air-god; *manmatha aaviSTa sarva angaH* = by Love-god, ensorcelled by, in all, l
 limbless and existing in thin air, embraced that immaculate lady with both of his far-flung arms,
 as he lost his heart for her... [4-66-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With every limb pervaded by love (manmathāviṣṭasarvāṅgaḥ) and his heart gone out to her (gatātmā), the Wind embraced (paryaṣvajata) that blameless lady (tām aninditām) with his two long arms (bhujābhyāṃ dīrghābhyām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -696,6 +778,12 @@ naashayitum icChati* = who, to despoil, wishes to.
 "But she that conscientious lady perplexedly said this sentence in that matter of
 invisible hugging, 'who wishes to despoil my vow of one-man-one-wife...' [4-66-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Utterly bewildered (sambhrāntā) right there, that lady of noble vows (suvratā) spoke this word: “Who desires to destroy (ko nāśayitum icchati) this single-husband vow (ekapatnīvratam idam) [of mine]?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -736,6 +824,12 @@ manasaH bhayam maa bhuut* = to your, heart, fear, let not, be there.
 "On listening the words of Anjana the Air-god spoke this in reply, 'oh, high-hipped
 one, I don't dishonour you, hence let there be no fear in your heart, for I am the all-permeating
 Air-god... [4-66-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the speech of Añjanā, the Wind replied: “I do not violate you (na tvāṃ hiṃsāmi), O fair-hipped one! Let there be no fear in your heart (mā bhūt te manaso bhayam).
 </details>
 </details>
 
@@ -782,6 +876,12 @@ bhaviSyati* = son, will be there [takes birth.]
 you are impregnated in a supersensory manner, thereby you will beget a valiant son endowed with
 intellect... [4-66-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because, having embraced you, I have united with you through the mind (manasāsmi gato yat tvām), O glorious lady, a son possessed of valour and endowed with wisdom (vīryavān buddhisampannaḥ) shall be born to you (tava putro bhaviṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -823,6 +923,12 @@ a son]; *mayaa samaH* = with me, a coequal; *bhaviSyati* = will be there.
 " 'An admirably brave, and a bravely dazzling, and a dazzlingly forceful, and a
 forcefully overpowering son will be there, also thus, he will be a coequal of mine in flying off
 and jumping up...' Thus, the Air-god said to Anjana. [4-66-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+““Possessed of great courage, great fiery energy, and great strength and prowess (mahābalaparākramaḥ), in bounding and in leaping (laṅghane plavane caiva) he shall be equal to me (bhaviṣyati mayā samaḥ).”
 </details>
 </details>
 
@@ -867,6 +973,12 @@ birth.]
 mother is gratified, and then, oh, bullish fly-jumpers, your mother very well divined you in a
 cave... [4-66-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus addressed, your mother was pleased (tataḥ tuṣṭā jananī te), O great monkey, and in a mountain cave (guhāyām), O great-armed one, she brought you forth (tvāṃ prajajñe), O bull among leapers!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -909,6 +1021,12 @@ risen, sun, on seeing; *phalam ca iti* = fruit, just, thus [thinking]; *jighR^ik
 forest, and deeming it to be a just ripen reddish fruit, and thinking it to be a best catch, you
 hopped up and flew towards sun on the sky... [4-66-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, as a child (bālaḥ) in the great forest, seeing the sun newly risen (abhyutthitaṃ sūryaṃ dṛṣṭvā) and thinking `It is a fruit!' (phalaṃ ceti), desiring to seize it (jighṛkṣus tvam), you leapt up and flew into the sky (utplutyābhyutpato divam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -950,6 +1068,12 @@ indefatigably courageous.]
 "Even on your flying up three hundred yojana-s, oh, brave monkey, and even when
 sun's radiation puffed and blown you down, you did not get into any anguish as were
 indefatigable... [4-66-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having gone three hundred yojanas (śatāni trīṇi gatvātha yojanānām), O great monkey, though buffeted by its fiery radiance (tejasā tasya nirdhūtaḥ), you did not sink into dejection then (na viṣādaṃ gatas tataḥ).
 </details>
 </details>
 
@@ -995,6 +1119,12 @@ at you, even [on seeing you]; *kopa aaviSTena* = one who with - anger, captivate
 "Oh, mighty monkey, even on seeing you who are coming near the vault of heaven,
 Indra is captivated by anger and by his effulgence he catapulted his Thunderbolt at you...
 [4-66-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And as you swiftly approached the mid-heaven (tvām apy upagataṃ tūrṇam antarikṣam), O great monkey, Indra, filled with wrath (kopāviṣṭena), hurled his thunderbolt at you (kṣiptam indreṇa te vajram) with fiery might (tejasā).
 </details>
 </details>
 
@@ -1043,6 +1173,12 @@ The word hanu also means 'wisdom...' and Hanuma is one having an absolute
 wisdom. He is also addressed as Hanumanta, Hanuma and at certain
 places Valmiki terms him as Hani... nectareous...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then upon a lofty mountain peak (śailāgraśikhare) your left jaw was fractured (vāmo hanur abhajyata); from that indeed your name was celebrated as `Hanumān' (hanumān iti kīrtitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1085,6 +1221,12 @@ really.
 "Then on observing that you are mutilated, highly infuriated is that scent-wafter
 Air-god and that tempestuous Air-god has not physically circulated throughout the triad of
 worlds... [4-66-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, seeing you struck down (tvāṃ nihataṃ dṛṣṭvā), the fragrance-bearing Wind himself (vāyur gandhavahaḥ svayam), the tempestuous Lord (prabhañjanaḥ), fiercely enraged (bhṛśasaṃkruddhaḥ), did not blow through the three worlds (trailokyaṃ na vavau vai).
 </details>
 </details>
 
@@ -1130,6 +1272,12 @@ enraged, Air-god, started to supplicate for grace.
 administrative gods of universe are bewildered, and they started to supplicate the Air-god for his
 grace... [4-66-26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And when the three worlds were thrown into agitation (trailokye kṣubhite sati), all the gods were seized with alarm (sambhrāntāś ca surāḥ sarve); those lords of the worlds (bhuvaneśvarāḥ) sought to appease the enraged Wind (prasādayanti saṃkruddhaṃ mārutam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1169,6 +1317,12 @@ not, by [any] missile, destructibility; *varam dadau* = boon, gave.
 
 "Oh, chivalric warrior at war, while the Air-god is being supplicated, oh, dear boy,
 Brahma gave you a boon decreeing your 'indestructibility by any missile...' [4-66-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And when the Wind was appeased (prasādite ca pavane), Brahmā granted you a boon (brahmā tubhyaṃ varaṃ dadau), O dear one of true valour: invulnerability to weapons in battle (aśastravadhyatāṃ samare).
 </details>
 </details>
 
@@ -1219,6 +1373,12 @@ it; *tvaam* = you; *vi rujam* = without, hurt; *samiikSya* = on scrutinising;
 Hanuma, the Thousand-eyed Indra kind-heartedly gave you a choicest boon saying that your death
 occurs only by your own volition... [4-66-28, 29a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And beholding you unhurt (virujaṃ tvāṃ samīkṣya) even by the fall of the thunderbolt (vajrasya ca nipātena), the thousand-eyed [Indra], pleased at heart (sahasranetraḥ prītātmā), gave you a supreme boon (varam uttamam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1246,6 +1406,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई प्रकार नीनु केसरिय क्षेत्रज पुत्रनागिरुवॆ. निन्न पराक्रम शत्रुगळिगॆ भयङ्करवागिदॆ. नीनु वायुदेवर औरस पुत्रनागिरुवॆ, अदरिन्द तेजदिन्दलू अवनन्तॆये आगिरुवॆ.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+““And death shall be yours only by your own free will (svacchandataś ca maraṇaṃ tava syāt),” O lord! That same you are the son of Kesarī born in his consort (kesariṇaḥ putraḥ kṣetrajaḥ), of terrible prowess (bhīmavikramaḥ).
 </details>
 </details>
 
@@ -1339,6 +1505,14 @@ iva* = the other, monkey's, king [Sugreeva,] like.
 with competence and valiance, you are the other Sugreeva, the king of monkeys, to us...
 [4-66-31]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** “You are the direct son of the Wind (mārutasyaurasaḥ putraḥ) and equal to him in fiery energy (tejasā cāpi tatsamaḥ); for you are the son of the Wind-god, O dear child, and equal to him in leaping as well (plavane cāpi tatsamaḥ)!
+
+**31:** “Today we are as good as lifeless (vayam adya gataprāṇāḥ); among us at the present moment (bhavān asmāsu sāmpratam), endowed with skill and prowess (dākṣyavikramasampannaḥ), you are like another king of monkeys [or king of birds, Garuḍa] (kapirāja ivāparaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1380,6 +1554,12 @@ moved around.
 "During the period of Trivikrama incarnation I have circumambulated the earth
 inclusive of its mountains, forests and thickets for twenty-one times, moving rightward around
 it... [4-66-32]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the time of the Three Strides (trivikrame), O dear one, the earth with its mountains, forests, and groves (pṛthivī saśailavanakānanā) was circumambulated by me from left to right (parikrāntā pradakṣiṇam) thrice seven times (triḥsaptakṛtvaḥ).
 </details>
 </details>
 
@@ -1438,6 +1618,12 @@ great energy for us... [4-66-33]
 The expressions 'we' and 'us' 'ourselves' are royal the 'we-s', 'us-s' and
 'ourselves...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And likewise, at the command of the gods (devaśāsanāt), the herbs by which nectar was to be churned forth (yābhir nirmathyam amṛtam) were gathered by us (auṣadhayo 'smābhiḥ saṃcitāḥ); at that time great was our strength (tadānīṃ no mahad balam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1483,6 +1669,12 @@ guNa anvitaH* = with all, endowments, endowed with.
 
 "Such as I am, I am now aged and my valiance is completely lessened... but at the
 present time, you alone are endowed with all endowments among us... [4-66-34]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That same I am now old (idānīm ahaṃ vṛddhaḥ) and bereft of my prowess (parihīnaparākramaḥ); at the present time, among us (sāmprataṃ kālam asmākam), you alone are endowed with every excellence (bhavān sarvaguṇānvitaḥ).
 </details>
 </details>
 
@@ -1532,6 +1724,12 @@ anxious.
 alone are the best one among all fly-jumpers, and this entire vanara army is anxious to witness
 your prowess... [4-66-35]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore expand yourself (vijṛmbhasva), O valiant one, for you are the foremost of leapers (plavatām uttamo hy asi)! Indeed, this entire monkey army is eager to behold your valour (tvadvīryaṃ draṣṭukāmā hi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1578,6 +1776,12 @@ all, beings - escape velocity of all beings; *paraa hi* = unalike / the other, i
 
 "Arise, oh, lion-like monkey, leap over this vast ocean, oh, Hanuma, your escape
 velocity is indeed unalike that of all the other beings... [4-66-36]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Arise (uttiṣṭha), O tiger among monkeys, and leap across the great ocean (laṅghayasva mahārṇavam); for the stride that is yours (yā gatis tava), O Hanumān, is supreme among all beings (parā hi sarvabhūtānām)!
 </details>
 </details>
 
@@ -1640,6 +1844,12 @@ The bracketed words are in remembrance of the regularly chanted eulogy of Hanuma
 manojavam maaruta
 tulya vegam jitendriyam buddhimataam variShTham | vaataaatmajam vaanara yuudha mukhyam shrii raama
 duutam shirasaa namaami || *in that mano javam is 'speedier than thought...'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All the monkeys are dejected (viṣaṇṇā harayaḥ sarve)—why do you look on indifferently (kim upekṣase), O Hanumān? Stride forth, O one of mighty speed (vikramasva mahāvega), as Viṣṇu strode His three strides (viṣṇus trīn vikramān iva)!”
 </details>
 </details>
 
@@ -1707,6 +1917,12 @@ monkeys. [4-66-38]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद अरवत्तारनॆय सर्ग सम्पूर्णवायितु. ॥66॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, impelled by that bull among monkeys (kapīnām ṛṣabheṇa coditaḥ), the monkey who was the Wind-god's son (pavanātmajaḥ kapiḥ), renowned for his speed (pratītavegaḥ), gladdening that army of monkey heroes (praharṣayaṃs tāṃ harivīravāhinīm), thereupon assumed a mighty form of his own (cakāra rūpaṃ mahad ātmanas tadā).
 </details>
 </details>
 

@@ -81,6 +81,14 @@ mountains and groves, who desired Seetha's happiness and himself delightful in h
 point out the beauty of Chitrakuta to his consort, as Indra the god of celestials converses with
 Shachi the wife of Indra, saying:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Having dwelt for a long time upon that mountain (dīrgha-kāloṣitas tasmin girau), that lover of mountains and forests (giri-vana-priyaḥ), desiring to bring pleasure to Vaidehī (vaidehyāḥ priyam ākāṅkṣan) and beguiling his own heart (svaṃ ca cittaṃ vilobhayan),
+
+**2:** the son of Daśaratha, resembling an immortal god (dāśarathiḥ amara-saṅkāśaḥ), then showed wondrous Mount Citrakūṭa to his wife (citraṃ citrakūṭam adarśayat bhāryām), even as Purandara shows the celestial heights to Śacī (śacīm iva purandaraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -128,6 +136,12 @@ neither; *bhramshanam* = the loss; *raajyaat* = of the kingdom; *na* = nor;
 "O, my good lady! By seeing this beautiful mountain, neither the loss of kingdom nor
 the non-existence of friends distresses my mind."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither the loss of the kingdom, O auspicious lady (na rājyād bhraṃśanaṃ bhadre), nor separation from beloved friends (na suhṛdbhir vinābhavaḥ) afflicts my mind (mano me bādhate) when I behold this delightful mountain (dṛṣṭvā ramaṇīyam imaṃ girim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -174,6 +188,12 @@ every kind; *dhaatumadbhiH* = where minerals lie; *vibhuuSitam* = crowned;
 
 "O, my good lady! Behold this mountain, abounding with flocks of birds of every kind
 where minerals lie and crowned with peaks that seem to project upwards to the sky."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold this mountain, O gentle lady, thronged with flocks of diverse birds (paśyemam acalaṃ bhadre nānā-dvija-gaṇāyutam) and adorned with mineral-streaked peaks (śikharaiḥ dhātumadbhir vibhūṣitam) that seem to pierce the sky (kham ivodviddhaiḥ).
 </details>
 </details>
 
@@ -233,6 +253,14 @@ silver, some resembling blood, some yellowish, some red as madder, some sparkle 
 stones, some possessing, the luster of topaz and crystal and a hue of Ketaka flower and some
 sparkle with the splendour of a kind of gem called Jyotirasa."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Some regions shine like silver (kecid rajata-saṅkāśāḥ), some are blood-red (kecit kṣataja-sannibhāḥ), some are yellow and madder-crimson (pīta-māñjiṣṭha-varṇāś ca), and some gleam with the lustre of choice sapphires (kecin maṇi-vara-prabhāḥ).
+
+**6:** Others shine like topaz, crystal, and ketaka blossoms (puṣpārka-ketakābhāś ca), while still others flash like stars or quicksilver (kecij jyotī-rasa-prabhāḥ)—thus do the mineral-adorned slopes of this king of mountains (acalendrasya deśā dhātu-vibhūṣitāḥ) gleam in splendour (virājante).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,6 +309,12 @@ enlivened; *bahu pakSi samaayutaH* = by a flock of many birds.
 
 "The mountain is filled with tame beasts of every kind, tigers, panthers and bears,
 and is enlivened by a flock of many birds."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thronged with peaceful herds of diverse deer, leopards, hyenas, and bears (nānā-mṛga-gaṇa-dvīpi-tarakṣv-ṛkṣa-gaṇair vṛtaḥ aduṣṭaiḥ), and teeming with many birds (bahu-pakṣi-samāyutaḥ), this mountain shines in splendour (bhāty ayaṃ śailaḥ).
 </details>
 </details>
 
@@ -357,6 +391,16 @@ Priyalas (commonly called Payals), bread-fruit trees, Dhavas, Ankolas, Bhavyas a
 (Bel trees), Tindukas and bamboos, Kashmaris, margosas and Varaas, Madhukas; Tilaks, jujube trees,
 emblic myrobalans, Kadamoos, came, Dhanvanas and pomegranates, enhancing its beauty."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** With mangoes, rose-apples, asana, lodhra, priyāla, jackfruit, and dhava trees (āmra-jambv-asanair lodhraiḥ priyālaiḥ panasair dhavaiḥ), and with aṅkola, bhavya, tiniśa, bilva, tinduka, and bamboos (aṅkolair bhavya-tiniśair bilva-tinduka-veṇubhiḥ),
+
+**9:** as well as with kāśmarī, ariṣṭa, varuṇa, madhūka, and tilaka trees (kāśmary-ariṣṭa-varuṇair madhūkais tilakais tathā), jujubes, āmalakas, nīpas, rattans, dhanvanas, and citron trees (badary-āmalakair nīpair vetra-dhanvana-bījakaiḥ)—
+
+**10:** covered with these and other charming trees laden with flowers, rich in fruit, and cool with shade (puṣpavadbhiḥ phalopetaiś chāyāvadbhir manoramaiḥ evam-ādibhir ākīrṇaḥ), this mountain puts forth its beauty (śriyaṃ puṣyaty ayaṃ giriḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -404,6 +448,12 @@ mountain-plains.
 "O, my good lady! See these Kinnaras, thrilling to be looked at, in their high
 spirits, wandering in couples in these lovely mountain-plains."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon the delightful mountain tablelands (śaila-prastheṣu ramyeṣu), behold, O auspicious lady, these thrilling, high-minded Kinnaras (paśyemān roma-harṣaṇān kinnarān manasvinaḥ) sporting in pairs (dvandvaśo ramamāṇān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -449,6 +499,12 @@ retreats.
 
 "Behold their swords hanging on the trees, their excellent swords and the charming
 retreats, where vidyadharas and their women sport."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold their swords hung upon the tree-branches (śākhāvasaktān khaḍgāṃś ca), their exquisite garments (pravarāṇy ambarāṇi ca), and the enchanting pleasure-groves of the Vidyādhara women (vidyādhara-strīṇāṃ krīḍoddeśān manoramān).
 </details>
 </details>
 
@@ -500,6 +556,12 @@ and there.
 "This mountain resembles an elephant with ichors flowing from its forehead, as from
 its crevices, springs and cascades flow here and there."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With waterfalls, gushing springs, and trickling rills flowing here and there (jala-prapātair udbhedair niṣyandaiś ca kvacit kvacit sravadbhiḥ), this mountain shines like a rutting elephant streaming with ichor (sravan-mada iva dvipaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -545,6 +607,12 @@ which) fragrance; *naanaa puSpa bhavaan* = of many flowers; *vahan* = issues;
 
 "Who would not be filled with delight, by these glades from which fragrance of
 various flowers issues, pleasing to the senses?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wafting fragrances born of diverse flowers (gandhān nānā-puṣpa-bhavān vahan) and bringing gratification to the sense of smell (ghrāṇa-tarpaṇam abhyetya), what man would the cavern-breeze not fill with delight (guhā-samīraṇaḥ kaṃ naraṃ na praharṣayet)?
 </details>
 </details>
 
@@ -592,6 +660,12 @@ grief; *na pradhakSyati* = will not get the upper hand over; *maam* = me.
 "O, irreproachable lay! If I am live with you and Lakshmana for many autumns here,
 grief will not overpower me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If I dwell here for many autumns (yadīha śarado 'nekāḥ vatsyāmi), O blameless lady, together with you and Lakṣmaṇa (tvayā sārdham anindite lakṣmaṇena ca), grief shall never consume me (na māṃ śokaḥ pradhakṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -637,6 +711,12 @@ peaks; *asmin hi* = I am indeed; *ratavaan* = captivated.
 
 "O, Seetha! Seeing this mountain laden with many flowers and fruit, the enchanting
 resort of flocks of birds as also the ravishing peaks of the mountain, I am really captivated."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon this delightful mountain of wondrous peaks (vicitra-śikhare hy asmin ramye), rich in flowers and fruits and frequented by flocks of diverse birds (bahu-puṣpa-phale nānā-dvija-gaṇāyute), I have found deep delight, O lovely lady (ratavān asmi bhāmini).
 </details>
 </details>
 
@@ -685,6 +765,12 @@ happiness.
 "By residing in the forest, a two-fold advantage is secured by me; freedom from debt
 to my father in regards my duty and Bharata's happiness."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By this residence in the forest (anena vana-vāsena), a twofold fruit has been won by me (mayā prāptaṃ phala-dvayam): freedom from debt to my father in the path of righteousness (pituś cānṛṇatā dharme), and the fulfilment of what is dear to Bharata (bharatasya priyaṃ tathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -730,6 +816,12 @@ vaakkaaya sammataan* = agreeable to your thought; word and temperament?
 
 "O, Seetha! Are you happy with me on this Chitrakuta mountain, seeing various
 objects agreeable to your thought word and temperament?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Do you take delight, O Vaidehī, upon Citrakūṭa in my company (vaidehi ramase kaccic citrakūṭe mayā saha), beholding manifold objects (paśyantī vividhān bhāvān) that captivate mind, speech, and body (mano-vāk-kāya-saṃyatān)?
 </details>
 </details>
 
@@ -778,6 +870,12 @@ the forest; *amR^itam* = is nectar-like.
 "My paternal great grand fathers the ancient royal sages have said that for a king
 to obtain liberation after death, such a residence in the forest is nectar like."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O queen, the supreme royal sages of old, my great-grandsires (rājñi rājarṣayaḥ pare me prapitāmahāḥ), declared this very residence in the forest to be nectar (idam evāmṛtaṃ prāhuḥ vana-vāsam), leading to highest welfare after death (bhavārthāya pretya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -823,6 +921,12 @@ to obtain liberation after death, such a residence in the forest is nectar like.
 
 "Hundreds and multitude of rocks of this extensive mountain are shining around in
 multifarious colours like blue, yellow, white and red."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Around the mountain on every side (śailasya abhitaḥ), broad crags shine by the hundreds (śilāḥ śobhante viśālāḥ śataśaḥ), manifold with rich hues of blue, yellow, white, and crimson (bahulā bahulair varṇair nīla-pīta-sitāruṇaiḥ).
 </details>
 </details>
 
@@ -873,6 +977,12 @@ shikhaa iva* = like points of fire.
 "Thousands of herbs of this Chitrakuta mountain, glittering with their lovely light,
 are sparkling like points of fire."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At night, luminous herbs upon this king of mountains (niśi acalendrasya oṣadhyaḥ), discernible by their own radiance (sva-prabhā-lakṣyāḥ) and blazing by the thousands (bhrājamānāḥ sahasraśaḥ), shine like tongues of fire (bhānti hutāśana-śikhā iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -918,6 +1028,12 @@ and some; *bhaanti* = appear; *ekashilaaH* = like a single pile.
 
 "O, Seetha! Some parts of this mountain resemble mansions, some look like parks and
 some others appear like a single pile."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some regions of this mountain resemble mansions (kecit kṣaya-nibhā deśāḥ), some resemble pleasure-gardens (kecid udyāna-sannibhāḥ), and some shine as single massive slabs of rock, O lovely lady (kecid eka-śilā bhānti parvatasyāsya bhāmini).
 </details>
 </details>
 
@@ -965,6 +1081,12 @@ appears; *shubhaH* = charming; *sarvataH* = on all sides.
 "Chitrakuta appears as though emerged, having split the earth. This summit of
 Chitrakuta appears charming on all sides."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mount Citrakūṭa shines as though it had risen up cleaving the earth asunder (bhittveva vasudhāṃ bhāti citrakūṭaḥ samutthitaḥ), and yonder peak of Citrakūṭa (citrakūṭasya kūṭo 'sau) appears auspicious on every side (dṛśyate sarvataḥ śubhaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1010,6 +1132,12 @@ trees; *kusheshaya dalaayutaan* = heaped with flowers of water-lilies; *svaastar
 
 "See the leaves of lilies, Sthagara trees, Punnaga trees and Bhurja trees heaped
 with flowers of water-lilies form the cozy beds of voluptuaries."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold the couches of lovers (kāmināṃ svāstarān paśya), overspread with coverlets of kuṣṭha, punnāga, sthagara, and birch-bark leaves (kuṣṭha-punnāga-sthagara-bhūrja-patrottara-cchadān), and strewn with lotus petals (kuśeśaya-dalāyutān).
 </details>
 </details>
 
@@ -1060,6 +1188,12 @@ srajaH* = the garlands of lotus-flowers; *mR^idi taashcha* = Crushed;
 
 "O, Seetha! Look at the garlands of lotus-flowers crushed and thrown aside by
 voluptuaries as also fruits of every kind that have been tasted."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold, O lovely woman (vanite paśya), the lotus garlands crushed and cast aside by lovers (mṛditāś cāpaviddhāś ca dṛśyante kamala-srajaḥ kāmibhiḥ), as well as manifold fruits (phalāni vividhāni ca).
 </details>
 </details>
 
@@ -1112,6 +1246,12 @@ Vasvaukasara; *naliniim* = Nalini the capital of Indra better known as Amaravati
 beautiful than Vasvankasara better known as Alaka the capital of Kubera the Lord of Riches, Nalini
 the capital of Indra (the God of celestials) better known as Amaravati and Uttarakuru the country
 of Eternal Beatitude."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rich in roots, fruits, and water (bahu-mūla-phalodakaḥ), yonder Mount Citrakūṭa (parvataś citrakūṭo 'sau) seems to surpass (atyetīva) Kubera’s city Vasvaukasārā, the celestial lotus-lake Nalinī, and the Northern Kurus (vasvaukasārāṃ nalinīm uttarān kurūn).
 </details>
 </details>
 
@@ -1178,6 +1318,12 @@ enhancing the piety of my race."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तनाल्कनॆय सर्ग पूर्णवायितु.॥94॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing this period of exile in woodland sport (imaṃ tu kālaṃ vijahrivān), O lovely Sītā, together with you and Lakṣmaṇa (tvayā ca sīte saha lakṣmaṇena ca), and abiding in the path of the righteous by my own supreme vows (satāṃ pathi svair niyamaiḥ paraiḥ sthitaḥ), I shall attain a joy that exalts the dharma of our race (ratiṃ prapatsye kula-dharma-vardhinīm).”
 </details>
 </details>
 

@@ -64,6 +64,12 @@ down; *bhumau* = on floor; *kinnariiva* = like a kinnara woman;
 Having been thus wrongly preached by that sinful Manthara. Kaikeyi lied down on the
 floor as a Kinnara woman beaten by a poisoned arrow.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the queen had been thoroughly misguided (vidarśitā bhṛśam) by the wicked hunchback, she lay upon the ground like a Kinnarī pierced by a poisoned shaft (digdhaviddheva kiṃnarī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -109,6 +115,12 @@ floor as a Kinnara woman beaten by a poisoned arrow.
 
 The skilful Kaikeyi, after deciding in mind what ought to be done told it all slowly
 to Manthara.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having resolved in her mind that her course of action was right (niścitya manasā kṛtyaṃ sā samyag iti), the shrewd and passionate woman (bhāminī vicakṣaṇā) softly declared everything to Mantharā.
 </details>
 </details>
 
@@ -162,6 +174,12 @@ Being stupefied by the words of Manthara, that Kaikeyi became dejected, made fir
 resolve, with deep and warm sigh, like a maiden-serpent and thought for that moment about the ways
 which can lead to her happiness.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dejected (dīnā) and deluded by Mantharā's words, that passionate queen made up her mind; and sighing a long, hot breath like a Nāga maiden (nāgakanyeva niḥśvasya)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -211,6 +229,12 @@ resolution; *babhuuva* = became; *paramapriitaa* = very much pleased;
 Manthara, who is Kaikeyi's companion and who is desirous of getting benefit, heard
 of Kaikeyi's firm resolve and became very much pleased as if she achieved success.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+she pondered for a moment the path that would bring happiness to herself (mārgam ātmasukhāvaham). Hearing that firm resolve, Mantharā—her friend and well-wisher (suhṛc cārthakāmā ca)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -258,6 +282,12 @@ face.
 Kaikeyi, being angry and well determined, lied down on the floor with eye brows,
 knitted in her face.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+became supremely delighted (babhūva paramaprītā), as though she had already attained success (siddhiṃ prāpyeva). Then that enraged queen, having firmly fixed her resolve,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -297,6 +327,12 @@ which were thrown away; *kaikeyyaa* = by Kaikeyi; *prapedire* = reached;
 
 Thereafter, she threw away her colourful chaplets and beautiful ornaments on to the
 floor.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+lay down helplessly (abalā) upon the ground, knitting a frown upon her brow (niveśya bhrukuṭiṃ mukhe); and then her bright garlands and divine ornaments—
 </details>
 </details>
 
@@ -339,6 +375,12 @@ floor.
 
 Those chaplets and ornaments which were thrown away by her were making the earth
 shine, as stars to the sky.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—flung aside (apaviddhāni) by Kaikeyī, fell upon the ground; those garlands and ornaments cast off by her
 </details>
 </details>
 
@@ -390,6 +432,12 @@ Tying her single braid of hair tightly over her head and wearing soiled clothes,
 that Kaikeyi lying down in the chamber of wrath was looking like a Kinnara woman lying down
 dead.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+adorned the earth even as stars adorn the firmament (nakṣatrāṇi yathā nabhaḥ). Fallen in the chamber of wrath and clad in soiled garments (malināmbarā), she shone—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -435,6 +483,12 @@ took permission; *upasthaanam* = from the nearest; *pravivesha* = entered;
 
 King Dasaratha ordered for various arrangements to be made for Rama's coronation,
 took permission to leave from the elders who were present there and entered his palace.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+having bound her hair into a tight single braid (ekaveṇīṃ dṛḍhāṃ baddhvā), like a Kinnarī bereft of strength (gatasattveva kiṃnarī). Meanwhile, the great king, having commanded Rāghava's consecration,
 </details>
 </details>
 
@@ -486,6 +540,12 @@ king Dasaratha, who kept all activates under his control entered into the inner
 chambers to tell the good news of Rama's coronation to Kaikeyi who was a worthy woman to be told
 the good news first (thinking that she has not yet heard the news).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+dismissed the royal assembly (upasthānam anujñāpya) and entered his inner apartments, knowing that Rāma's consecration was now publicized (adya rāmābhiṣeko vai prasiddha iti jajñivān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -528,6 +588,12 @@ Kaikeyi's house; *nishaakaraH aakaashamiva* = as the moon into sky; *paaNDuraabh
 That Dasaratha with vast glory entered Kaikeyi's chambers as moon enters the sky
 with white clouds.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To impart the gladsome tidings to her who was worthy of pleasant news (priyārhāṃ priyam ākhyātum), the self-controlled monarch entered the women's quarters; that illustrious king entered Kaikeyī's splendid palace—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -557,6 +623,14 @@ with white clouds.
 
 आ भवनदल्लि गिळिगळु, नविलुगळु, क्रौञ्च, हंसगळु कलरव माडुत्तिद्दवु. अल्लि वाद्यगळ मधुर ध्वनिगळु मॊळगुत्तिद्दवु. अदु अनेक कुब्जॆयराद, गूनु बॆन्नुळ्ळु दासियरिन्द तुम्बिहोगित्तु. अशोक, चम्पकादि बहळष्टु लताभवनगळिन्द, चित्रमन्दिरगळिन्द आ भवनद शोभॆ अवर्णनीयवागित्तु.॥12-13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** even as the moon enters a sky pale with white clouds yet beset by Rāhu (pāṇḍurābhram ivākāśaṃ rāhuyuktaṃ niśākaraḥ)—a palace Thronged with parrots and peacocks, and resounding with the cries of krauñcas and swans,
+
+**13:** —resounding with the strains of musical instruments (vāditraravasaṅghuṣṭam), attended by hunchbacked and dwarf maids (kubjāvāmanikāyutam), and graced with vine-bowers and picture-galleries (latāgṛhaiś citragṛhaiḥ) bright with campaka and aśoka trees;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -585,6 +659,12 @@ _________________
 
 हस्तिदन्त, बॆळ्ळि, बङ्गारगळिन्द रचिसिद वेदिकॆगळिन्दलू, नित्यवू फल-पुष्पगळिन्द भरितवाद वृक्षगळिन्दलू, सुन्दर कल्याणिगळिन्दलू आ अन्तःपुरवु शोभिसुत्तित्तु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+furnished with pavilions of ivory, silver, and gold (dāntarājatasauvarṇavedikābhiḥ), and adorned with pleasure-tanks and trees bearing perpetual blossoms and fruit (nityapuṣpaphalair vṛkṣaiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -611,6 +691,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदरल्लि चिन्न, बॆळ्ळि, आनॆय दन्तगळिन्द रचिसिद उत्तम सिंहासनगळन्नु इरिसिद्दरु. अदु नाना विधद भक्ष्य-भोज्यगळिन्द, बगॆ-बगॆय आहार पदार्थगळिन्द तुम्बि होगित्तु. अमूल्य आभूषणगळिन्द सुसम्पन्न आ कैकॆयिय भवनवु स्वर्गदन्तॆ शोभितवागित्तु.॥15½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+arrayed with supreme couches and seats of ivory, silver, and gold, and with manifold foods, drinks, and delicacies of every kind;
 </details>
 </details>
 
@@ -672,6 +758,12 @@ seasons and wells in the middle. There were beautiful seats constructed with ivo
 gold. Various types of food, drinks and snacks were made available. That palace was looking like
 heaven with beautifully adorned women.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and endowed with costly ornaments, so that it resembled heaven (tridivopamam). Entering his own opulent inner apartment (svam antaḥpuram ṛddhimat), the great king
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -717,6 +809,12 @@ pleasure; *vishhasaada* = was distress; *apashyam* = in not seeing; *dayitaam*
 
 Being possessed of power of lust, that king who came with object of sexual pleasure,
 was distressed in not finding his beloved wife and enquired the people there.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+did not behold his wife Kaikeyī upon her supreme couch (śayanottame). Filled with the force of love (kāmabalasaṃyuktaḥ) and seeking amorous delight (ratyarthī), the lord of men,
 </details>
 </details>
 
@@ -778,6 +876,14 @@ Kaikeyi; *swaartha lipsum* = who desired to get her selfish ends.
 After entering the house, king Dasaratha enquired with the aid-servants there as
 before, without knowing about foolish Kaikeyi who desired to get her selfish ends.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** not seeing his beloved consort, inquired after her and sank into dejection (viṣasāda ca); for never before had the queen transgressed that hour of his coming (tāṃ velām atyavartata)—
+
+**19:** —nor had the king ever entered her palace to find it empty (gṛhaṃ śūnyam). Then, having entered the apartment, the king inquired after Kaikeyī
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -824,6 +930,12 @@ angry".
 
 Then, a female door-keeper fearfully folding her hands in supplication, said: "Oh,
 king! The queen ran to her chamber of wrath with much anger".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+as was his wont before (yathāpuram), not knowing that the foolish woman was greedy for her own selfish end (svārthalipsum apaṇḍitām). Then the female doorkeeper (pratihārī), terrified and with joined palms, spoke:
 </details>
 </details>
 
@@ -874,6 +986,12 @@ hearing; *pratiihaaryaaH* = door keeper's; *vachaH* = words.
 That Dasaratha having much disturbed mind already for the absence of Kaikeyi there,
 became more dejected after hearing the words of door-keeper.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O my lord, the queen, exceedingly enraged, has rushed into the chamber of wrath (krodhāgāram abhidrutā)!” Hearing the doorkeeper's words, the king, his mind sorely distressed (paramadurmanāḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -914,6 +1032,12 @@ improper condition; *praptaH eva* = like burning; *duHkhena* = with grief.
 King Dasaratha, after seeing Kaikeyi lying down on floor in the chamber of wrath,
 became tormented with grief.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+sank into even deeper dejection (viṣasāda punar bhūyaḥ), his senses agitated and bewildered (lulitavyākulendriyaḥ). There the lord of the earth, as though scorched by grief (pratapta iva duḥkhena),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -940,6 +1064,14 @@ became tormented with grief.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजनु मुदुकनागिद्दु, अवन पत्नी तरुणियागिद्दळु. आद्दरिन्द अवनु आकॆयन्नु प्राणगळिगिन्त हॆच्चु प्रीतिसुत्तिद्दनु. राजन मनस्सिनल्लि यावुदे पाप इल्लदिद्दरू कैकॆयियु तन्न मनस्सिनल्लि पाप सङ्कल्पवन्नु हॊन्दिद्दळु. कत्तरिसिद लतॆयु नॆलक्कॆ बिद्दिरुवन्तॆ, यावुदो देवाङ्गनॆयु स्वर्गदिन्द भूमिगॆ बिद्दिरुवन्तॆ आकॆयन्नु नोडिदनु.॥23-24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** beheld her lying fallen upon the ground in a manner unworthy of her (atathocitām); the aged monarch (sa vṛddhaḥ) beheld his youthful wife (taruṇīṃ bhāryām), dearer to him than his own life-breaths (prāṇebhyo 'pi garīyasīm)—
+
+**24:** he, sinless himself (apāpaḥ), beheld her of sinful resolve (pāpasaṃkalpām) upon the surface of the earth, like a creeper hacked down (latām iva viniṣkṛttām), or like a goddess fallen from heaven,
 </details>
 </details>
 
@@ -989,6 +1121,12 @@ That Dasaratha, who was sinless, a youthful woman dearer than his life, lying do
 on the floor with an intent to do sin. At that time, she was looking like a completely uprooted
 creeper, like a fallen angel, like a thrown down Kinnara woman, like an expelled divine dancer
 Apsarasa, like a dropped off illusionism and like a female deer tied up in a net.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—like a Kinnarī cast down (kinnarīm iva nirdhūtām), like an Apsaras fallen from the sky, like an illusion dispelled (māyām iva paribhraṣṭām), like a doe ensnared in a net (hariṇīm iva saṃyatām),
 </details>
 </details>
 
@@ -1059,6 +1197,14 @@ spoke; *idam* = these words.
 That Dasaratha, possessed with infatuation and having fearful mind, touched that
 lotus-eyed woman with his hands and spoke the following words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** and like a cow-elephant pierced in the forest by a hunter with a poisoned arrow (kareṇum iva digdhena viddhāṃ mṛgayuṇā vane). Out of affection, like a great elephant in the forest,
+
+**27:** stroking her who was sorely distressed with both hands (parimṛjya ca pāṇibhyām), his mind terrified (abhisaṃtrastacetanaḥ), the love-smitten king (kāmī) spoke these words to his lotus-petal-eyed wife:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1111,6 +1257,12 @@ seshhe* = that you are resting; *paamsushhu* = on dirty floor."
 "Oh queen, of auspicious qualities! I do not know that you are angry with me. Who
 has cursed or disrespected you? I am pained to see you resting in this way on a dirty floor."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I do not know the cause of the wrath lodged within your heart (krodham ātmani saṃśritam); O queen, by whom have you been wronged (abhiyuktāsi), or by whom have you been slighted (vimānitā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1159,6 +1311,12 @@ one who is possessed of a devil.
 "when I am here to expend all good to you, why are you hurting my mind by lying down
 on the floor like the one who is possessed of a devil."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Why is it that, to my sorrow, you lie here in the dust (pāṃsuṣu), O auspicious lady? Why do you lie upon the bare ground when my heart is ever devoted to your welfare (mayi kalyāṇacetasi),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1199,6 +1357,12 @@ abhishhTutaaH cha* = and who are enlogised on all sides; *karishhyanti* = who ca
 
 "There are so many royal physicians who are skilled and famous on all sides. They
 can make you healthy. Tell me your sickness".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+as though your mind were possessed by a spirit (bhūtopahatacitteva), O tormentor of my heart (mama cittapramāthini)? I have skilled physicians (kuśalā vaidyāḥ), thoroughly contented in every way—
 </details>
 </details>
 
@@ -1248,6 +1412,12 @@ ought to be done; *te* = by you? kena vaa = by whom; *vipriyam* = offence;
 
 "To whom do you want a favour to be done? who has offended you? Tell me to whom I
 have to extend a favour now and to whom I have to do a great offensive act."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—they will restore you to health; declare your malady (vyādhim ācakṣva), O passionate lady! Or upon whom is a favour to be conferred, or by whom has an offence (vipriyam) been committed?
 </details>
 </details>
 
@@ -1305,6 +1475,14 @@ be released? kovaa = who; *daridraH* = a poor person; *bhavet* = to become;
 person who is exempt from death or shall release a person who is worthy to be killed. I shall make
 a poor man prosperous or a rich man, destitute".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** Who shall obtain a favour today, or who shall meet with a grievous displeasure (sumahad apriyam)? Do not weep (mā rautsīḥ), O queen, and do not waste away your frame (mā ca kārṣīs tvaṃ devi sampariśoṣaṇam)!
+
+**33:** What man exempt from death shall be slain (avadhyo vadhyatāṃ ko vā), or what man condemned to death shall be set free? What pauper shall become wealthy (āḍhyaḥ), or what man of wealth be made penniless (akiṃcanaḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1352,6 +1530,12 @@ your; *abhipraayam* = intention.
 
 "I and all my people are submissive to you. I do not wish to foil even a little of
 your intention".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For both I myself and all who are mine follow your will (sarve tava vaśānugāḥ); I cannot bear to thwart (vyāhantum) any wish of yours!
 </details>
 </details>
 
@@ -1402,6 +1586,12 @@ do; *tava* = your; *riitim* = liking.
 "Tell me that which is desired by your mind to be achieved even at the cost of my
 life. You need not suspect me, as you very well know your authority over me. I keep my oath on my
 righteousness that I shall certainly do whatever is liked by you".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even at the cost of my own life (ātmano jīvitenāpi), speak what is lodged in your heart; knowing the power you hold over me (balam ātmani jānantī), you ought not to doubt me!”
 </details>
 </details>
 
@@ -1456,6 +1646,14 @@ a chariot-wheel revolves. Eastern countries, Sindhu, Sauviira and Saurastra coun
 countries in the south, Vanga, Anga, Magadha and Matsya countries, Kasi and Kausala countries are
 all full of riches.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** “I shall fulfill your pleasure—I swear to you by my own good deeds (sukṛtenāpi te śape)! As far as the wheel of sovereignty revolves (yāvad āvartate cakram), so far extends this earth that is mine:
+
+**37:** the Drāviḍas, the Sindhu-Sauvīras, the Saurāṣṭras, the realms of the Southern Path (dakṣiṇāpathāḥ), the Vaṅgas, Aṅgas, Magadhas, Matsyas, and the prosperous Kāśis and Kosalas—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1496,6 +1694,12 @@ all full of riches.
 
 In those countries, gold and grain, sheep and goats and all types of goods are
 produced. Oh, Kaikeyi! which of the goods do you want to acquire?
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+manifold products arise there, wealth, grain, goats, and sheep (dhanadhānyam ajāvikam); from all that, choose, O Kaikeyī, whatever you desire in your heart!
 </details>
 </details>
 
@@ -1549,6 +1753,12 @@ tell; *me* = me; *tat* = that; *yataH* = from where; *bhayam* = fear;
 "Oh, fearful one! why are you exerted like this? oh, beautiful lady? Get up get up!
 Oh, Kaikeyi1 Tell me the source of your fear. I shall remove that source as sun sets aside the
 mist."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What need is there of this weary toil (kim āyāsena te), O timid one? Arise, arise, O lovely lady! Speak the truth to me, O Kaikeyī, whence this fear has come upon you; I shall dispel it for you, even as the radiant sun dispels the mist (nīhāram iva raśmivān)!”
 </details>
 </details>
 
@@ -1606,6 +1816,12 @@ like Rama's exile was beginning to harass her husband further, by her words.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि हत्तनॆय सर्ग पूर्णवायितु. ॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, she was reassured (samāśvastā); and eager to utter that cruel demand (vaktukāmā tad apriyam), she began to torment her husband still further (paripīḍayituṃ bhūyo bhartāram upacakrame).
 </details>
 </details>
 

@@ -69,6 +69,12 @@ highest, dismay, remaining in; *duHkhitaa* = she is distraught.
 Maithili, the daughter of Janaka, on seeing the skyward flight of Ravana taking her
 along became highly frantic and remaining in highest dismay she is distraught. [3-53-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him springing up into the sky (kham utpatantaṃ taṃ dṛṣṭvā), Maithilī, the daughter of Janaka, stricken with grief, supremely agitated, and standing in great terror (duḥkhitā paramodvignā bhaye mahati vartinī)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ Seetha whose eyes turned coppery-red with tears and resentment, still outpouring
 tears while being abducted she piteously poured this scorn on that gory-eyed demon's chief, Ravana.
 [3-53-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—her eyes coppery with rage and weeping (roṣa-rodana-tāmrākṣī), Sītā, weeping piteously as she was being carried away (rudatī karuṇaṃ sītā hriyamāṇā), spoke to that grim-eyed lord of rākṣasas (bhīmākṣaṃ rākṣasādhipam... tam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +177,12 @@ not ashamed in the least.
 
 "You knave Ravana, you are taking flight on thieving me after prowling about my
 loneliness, such as you are, are you not ashamed in the least for this subterfuge. [3-53-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Are you not ashamed, O vile Rāvaṇa, of this deed (na vyapatrapase nīca karmaṇānena rāvaṇa)—you who, having ascertained that I was left alone, steal me away and flee (jñātvā virahitāṃ yo māṃ corayitvā palāyase)?
 </details>
 </details>
 
@@ -215,6 +233,12 @@ Golden-Deer's, guise; *apa vaahitaH* = to side, lined - led away from hermitage;
 
 "You black-hearted fiend, for sure, you alone sidelined my husband in a trickish
 guise of Golden Deer wishful to abduct me as you are a coward. [3-53-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely, O wicked-souled one, it was by you yourself—a coward desiring to carry me off (tvayaiva nūnaṃ duṣṭātman bhīruṇā hartum icchatā)—that my lord was lured away through magic in the form of a deer (mamāpavāhito bhartā mṛga-rūpeṇa māyayā)!
 </details>
 </details>
 
@@ -267,6 +291,12 @@ father-in-law, such as he is he is also felled, indeed. [3-53-5]
 Annex: 'You have felled an old and withered eagle after a long-drawn battle...
 then, how long can you battle that Raghava? Does this felling of an age-old eagle adds any feather
 to your crown?'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And even this one who rose up to rescue me has been struck down (yo hi mām udyatas trātuṃ so 'py ayaṃ vinipātitaḥ)—yonder ancient king of vultures, the friend of my father-in-law (gṛdhra-rājaḥ purāṇo 'sau śvaśurasya sakhā mama)!
 </details>
 </details>
 
@@ -355,6 +385,14 @@ deplorable deed, how unashamed are you? [3-53-7]
 Annex: 'Will not the other males deplore you for your unmasculine female
 stealing, for this kind of undertaking is unobserved even in animal world?'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** “Supreme indeed is the valour seen in you, O vilest of rākṣasas (paramaṃ khalu te vīryaṃ dṛśyate rākṣasādhama)! For after proclaiming your name, you have not won me in battle (viśrāvya nāmadheyaṃ hi yuddhe nāsmi jitā tvayā)!
+
+**7:** “Having committed such a censurable deed, how do you not feel shame (īdṛśaṃ garhitaṃ karma kathaṃ kṛtvā na lajjase)—the abduction of a woman, O vile one, and another man's wife at that, in a solitary place (striyāś cāharaṇaṃ nīca rahite ca parasya ca)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -406,6 +444,12 @@ yours will be recounted by all men in all worlds. [3-53-8]
 Annex: 'For this is an unmanly action of yours, all the manly men wish to
 recount this as a fabulously fabled account, in dissent, for exemplification of their manliness and
 also to retroject your self-vainglory...'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Throughout the worlds, men will speak of the loathsome, most cruel, and utterly unrighteous deed (kathayiṣyanti lokeṣu puruṣāḥ karma kutsitam sunṛśaṃsam adharmiṣṭham) of you who fancy yourself a hero (tava śauṭīrya-māninaḥ)!
 </details>
 </details>
 
@@ -462,6 +506,12 @@ one in the thick of the forests... and this misdemeanour of yours which not only
 becomes a lamentable affair to whole of your clan, while being burnt in the infernos of Raghava's
 arrows...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fie upon your valour and your strength of which you boasted then (dhik te śauryaṃ ca sattvaṃ ca yat tvayā kathitaṃ tadā)! And fie upon such conduct of yours, which brings reproach upon your whole lineage in the world (kulākrośakaraṃ loke dhik te cāritram īdṛśam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -516,6 +566,12 @@ behind... wait, wait and stay... it will approach you speedily... when death nea
 watchfully ascertain whose is glory or whose is vainglory... between your Death similar Raghava and
 deadened you...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What indeed can be done when you flee thus at top speed (kiṃ śakyaṃ kartum evaṃ hi yaj javenaiva dhāvasi)? Just stand still for a single moment, and you shall not return alive (muhūrtam api tiṣṭha tvaṃ na jīvan pratiyāsyasi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -565,6 +621,12 @@ samarthaH hi* = moment, even, to live on, not, capacitated you are, indeed.
 "On your coming into the line of sight of those two princes, even if you are with
 whole of your military, you will be incapacitated to live on, indeed even for a moment...
 [3-53-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For once you come within range of the sight of those two princes (nahi cakṣuḥ-pathaṃ prāpya tayoḥ pārthiva-putrayoḥ), even with your whole army you will not be able to live for a single moment (sasainyo 'pi samarthas tvaṃ muhūrtam api jīvitum)!
 </details>
 </details>
 
@@ -621,6 +683,12 @@ Annex: 'After all, birds flee by the very touch of fiery air of forest fire even
 it is burning distantly... thus, where is the question of your tolerating those infernos, called my
 husband's arrows, shot from long, long a distance... and whereby you can stop them from hitting
 you, or with what you can retaliate them...'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are in no way able to endure the touch of their arrows (na tvaṃ tayoḥ śara-sparśaṃ soḍhuṃ śaktaḥ kathaṃcana), any more than a bird can endure the touch of a blazing fire in the forest (vane prajvalitasyeva sparśam agner vihaṃgamaḥ)!
 </details>
 </details>
 
@@ -683,6 +751,12 @@ sermonise this demon with *hita bodha* 'moral teaching...' thinking in 'his' sho
 foreseeing 'his' annihilation. What and why does he care? And how does she bother for his
 well-being? These questions have their answers in mythology.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Doing what is wholesome for yourself, release me at once, O Rāvaṇa (sādhu kṛtvātmanaḥ pathyaṃ sādhu māṃ muñca rāvaṇa)! Enraged by this outrage against me, my husband together with his brother (mat-pradharṣaṇa-saṃkruddho bhrātrā saha patir mama)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -736,6 +810,12 @@ Seetha's wording should have been 'for lovemaking with me...' instead of
 'endeavour' but as an urbane lady, she used a + graamya pada prayoga, 'urbane' language rather than
 the graamya bhaaSa 'boorish wording.' Her calculated and cultured talking indicates her staunchness
 in her 'husband-devoutness...'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—will take measures for your destruction if you do not release me (vidhāsyati vināśāya tvaṃ māṃ yadi na muñcasi)! Moreover, that resolve by which you seek to carry me off by force (yena tvaṃ vyavasāyena balān māṃ hartum icchasi)—
 </details>
 </details>
 
@@ -791,6 +871,12 @@ after this dialogue. She prefers to use whatever means to end her life, rather t
 immorality. To indicate this 'character's mood' *paatra aucityam* of Seetha, all her opinions about
 'somebody's possessing her' were listed when Lakshmana was hastened after Rama, though at the cost
 of Lakshmana's steadfastness in his duty.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—that resolve of yours, O vile one, shall prove fruitless (vyavasāyas tu te nīca bhaviṣyati nirarthakaḥ); for without beholding that husband of mine who is like a god (nahy ahaṃ tam apaśyantī bhartāraṃ vibudhopamam)—
 </details>
 </details>
 
@@ -872,6 +958,14 @@ behold, indeed.
 "But which is recuperative that is unpalatable to all of the death-rattlers, and
 indeed, I behold you as one around whose throat the noose of Time is looped. [3-53-17b, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** “—fallen into the power of an enemy, I shall not consent to sustain my life-breaths for long (utsahe śatru-vaśagā prāṇān dhārayituṃ ciram)! Surely you do not perceive what is for your own welfare or what is wholesome for you (na nūnaṃ cātmanaḥ śreyaḥ pathyaṃ vā samavekṣase)—
+
+**17:** “—just as a mortal at the hour of death pursues courses that are perverse (mṛtyu-kāle yathā martyo viparītāni sevate); for to all who are about to die, what is wholesome does not appeal (mumūrṣūṇāṃ tu sarveṣāṃ yat pathyaṃ tan na rocate)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -922,6 +1016,12 @@ indeed.
 "As you are dauntless in this daunting situation as for yourself, oh, Decahedral
 demon, indeed it is clear that you are clearly fantasising the ill-omened golden trees all around.
 [3-53-18b, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For here and now I see you with the noose of Deathfastened about your neck (paśyāmīha hi kaṇṭhe tvāṃ kāla-pāśāvapāśitam)! And since in this occasion for terror you do not feel fear, O night-ranger (yathā cāsmin bhaya-sthāne na bibheṣi niśā-cara)—
 </details>
 </details>
 
@@ -1014,6 +1114,14 @@ silk-cotton tree like wooden structure with golden leaves and sappharine flowers
 where all these items will be sweltering the sinners besides pinching and piercing with thorns.
 This punishment is aimed at those who abduct, molest, or rape the other man's wife.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “—clearly you are already beholding the trees as made of gold (vyaktaṃ hiraṇmayāṃs tvaṃ hi sampaśyasi mahī-ruhān), and the dreadful river Vaitaraṇī flowing with torrents of blood (nadīṃ vaitaraṇīṃ ghorāṃ rudhiraugha-vivāhinīm)!
+
+**20:** “And you behold the terrible forest of sword-bladed leaves, O Rāvaṇa (khaḍga-patra-vanaṃ caiva bhīmaṃ paśyasi rāvaṇa), and [the tree] with blossoms of molten gold and leaves of finest cat's-eye gems (tapta-kāñcana-puṣpāṃ ca vaidūrya-pravara-cchadām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1098,6 +1206,14 @@ you will get complacency from that uncompromising husband of mine? [3-53-22b, 23
 Ravana may say: 'is it? What is the proof of his mettle basing on which you
 sermonise me?' For this, her reply is in the next verse.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “—you shall behold that sharp śālmalī tree bristling with thorns of iron (drakṣyase śālmalīṃ tīkṣṇām āyasaiḥ kaṇṭakaiś citām)! For after committing such an offence against that great-souled one (nahi tvam īdṛśaṃ kṛtvā tasyālīkaṃ mahātmanaḥ)—
+
+**22:** “—you shall not be able to survive for long, O pitiless one, any more than one who has drunk poison (dhārituṃ śakṣyasi ciraṃ viṣaṃ pītveva nirghṛṇa)! You are bound by the irresistible noose of Death, O Rāvaṇa (baddhas tvaṃ kāla-pāśena durnivāreṇa rāvaṇa)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1164,6 +1280,14 @@ single-handedly without any help from his brother, how then that brave and might
 expert in all kinds of missiles, will not eliminate you, the stealer of his chosen wife, with his
 mordant arrows?" Thus Seetha poured forth her ire at Ravana. [3-53-23b, 24, 25a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** “Going where shall you find refuge from my great-souled husband (kva gato lapsyase śarma mama bhartur mahātmanaḥ), when in the mere twinkling of an eye, without his brother in battle (nimeṣāntara-mātreṇa vinā bhrātaram āhave)—
+
+**24:** “—fourteen thousand rākṣasas were slain by him (rākṣasā nihatā yena sahasrāṇi caturdaśa)? How then shall that heroic Rāghava, mighty and skilled in every missile (kathaṃ sa rāghavo vīraḥ sarvāstra-kuśalo balī)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1209,6 +1333,12 @@ mordant arrows?" Thus Seetha poured forth her ire at Ravana. [3-53-23b, 24, 25a]
 
 On saying this much and other exacting words, Vaidehi who has gone onto the flank of
 Ravana, indeed lamented lamentably as her dismay is coalesced with her distress. [3-53-25b, c]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—not slay you with keen arrows, the abductor of his beloved wife (na tvāṃ hanyāc charais tīkṣṇair iṣṭa-bhāryāpahāriṇam)?” Uttering this and other harsh words while held in Rāvaṇa's arms (etac cānyac ca paruṣaṃ vaidehī rāvaṇāṅkagā), Vaidehī, overwhelmed with fear and grief, lamented piteously indeed (bhaya-śoka-samāviṣṭā karuṇaṃ vilalāpa ha).
 </details>
 </details>
 
@@ -1282,6 +1412,12 @@ way that sinner stole that princess Seetha. [3-53-26]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तमूरनॆय सर्ग सम्पूर्णवायितु.॥53॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that wicked one carried off the youthful princess (jahāra pāpas taruṇīṃ... nṛpātmajām), who was sorely afflicted, speaking many words with piteous lamentation, writhing, and seized with trembling in every limb (tadā bhṛśārtāṃ bahu caiva bhāṣiṇīṃ vilāpa-pūrvaṃ karuṇaṃ ca bhāminīm... viceṣṭatīṃ... āgata-gātra-vepathuḥ).
 </details>
 </details>
 

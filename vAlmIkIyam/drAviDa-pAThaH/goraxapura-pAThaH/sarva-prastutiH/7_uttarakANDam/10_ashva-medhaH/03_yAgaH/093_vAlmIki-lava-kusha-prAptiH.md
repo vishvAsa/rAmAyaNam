@@ -36,6 +36,12 @@ title = "०९३ वाल्मीकि-लव-कुश-प्राप्�
 
 हीगॆ आ अत्यन्त अद्भुत यज्ञ नडॆयुत्तिरुवाग भगवान् वाल्मीकि मुनिगळु तम्म शिष्यरॊन्दिगॆ अल्लिगॆ आगमिसिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While that supremely wondrous sacrifice of such splendor was in progress (vartamāne tathābhūte yajñe ca paramādbhute), the eminent sage Vālmīki (vālmīkir munipuṅgavaḥ) swiftly arrived together with his disciples (saśiṣya ājagāmāśu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०९३ वाल्मीकि-लव-कुश-प्राप्�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरु आ दिव्य अद्भुत यज्ञवन्नु दर्शिसिदरु. ऋषिगळिगागि निर्मिसिद्द पर्णशालॆगळ हत्तिरदल्ले वाल्मीकिगळिगागि सुन्दर पर्णशालॆयन्नु निर्मिसि कॊट्टरु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that divine-looking sacrifice of marvelous aspect (divya-saṅkāśaṃ yajñam adbhuta-darśanam), he built auspicious leafy huts (cakāra uṭajāñ chubhān) in a secluded spot beside the sages’ enclosures (ekānte ṛṣi-vāṭānām).
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०९३ वाल्मीकि-लव-कुश-प्राप्�
 
 वाल्मीकिगळ सुन्दर कुटीरद बळियल्ले अन्नादिगळिन्द तुम्बिद बण्डिगळन्नु निल्लिसलागित्तु. जॊतॆगॆ उत्तमोत्तम फल-मूलगळन्नु इरिसिद्दरु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And many fine carts filled with fruits and roots (śakaṭāṃś ca bahūn pūrṇān phala-mūlaiś ca śobhanān) were stationed not far away in Vālmīki’s lovely enclosure (vālmīki-vāṭe rucire sthāpayann avidūrataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "०९३ वाल्मीकि-लव-कुश-प्राप्�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजाराम हागू अनेक महात्मा मुनिगळिन्द चॆन्नागि पूजॆगॊण्डु, सम्मानितराद महातेजस्वी, आत्मज्ञानी वाल्मीकि मुनिगळु बहळ सुखवागि अल्लि वासिसिदरु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deeply honored by the king and by the great-souled sages (āsīt supūjito rājñā munibhiś ca mahātmabhiḥ), the greatly radiant Vālmīki, supreme in self-mastery (sumahātejā ... paramātmavān), took up his abode there.
 </details>
 </details>
 
@@ -139,6 +163,12 @@ _________________
 
 अवरु तम्म हृष्ट-पुष्ट इब्बरु शिष्यरल्लि हेळिदरु - नीविब्बरू एकाग्रचित्तरागि ऎल्लॆडॆ तिरुगाडुत्ता बहळ आनन्दवागि सम्पूर्ण रामायण काव्यवन्नु गायन माडिरि.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He spoke to his two delighted disciples (sa śiṣyāv abravīd dhṛṣṭau): “Go forth, both of you, with collected minds (yuvāṃ gatvā samāhitau), and sing the entire Rāmāyaṇa poem (kṛtsnaṃ rāmāyaṇaṃ kāvyam) with supreme joy (gāyethāṃ parayā mudā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +193,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऋषिगळ, ब्राह्मणर पवित्र स्थानगळल्लि, बीदिगळल्लि, राजमार्गगळल्लि हागू राजर निवास स्थानगळल्लियू ई काव्यद गायन माडिरि.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—in the sacred enclosures of the sages (ṛṣi-vāṭeṣu puṇyeṣu), in the dwellings of brahmins (brāhmaṇāvasatheṣu ca), along the streets and royal highways (rathyāsu rājamārgeṣu), and in the pavilions of the kings (pārthivānāṃ gṛheṣu ca)—”
 </details>
 </details>
 
@@ -189,6 +225,12 @@ _________________
 
 श्रीरामचन्द्रन गृहद्वारदल्लि, ब्राह्मणरु यज्ञ माडुवल्लि हागू ऋत्विजर ऎदुरिनल्लियू ई काव्यवन्नु विशेषवागि हाडबेकु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the gate of Rāma’s pavilion (rāmasya bhavana-dvāri) and where they perform the sacrificial rite (yatra karma ca kurvate), and right before the officiating priests (ṛtvijām agrataś caiva)—there especially must you sing (tatra geyaṃ viśeṣataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -213,6 +255,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इल्लि पर्वत शिखरगळल्लि नाना रीतिय रुचिकर फलगळु बिट्टिवॆ. निमगॆ हसिवादाग अदन्नु सवियुत्ता काव्यद गान माडुत्ता इरि.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tasting again and again (āsvādyāsvādya) these varied, sweet fruits (imāni ca phalāny atra svādūni vividhāni ca) grown upon the mountaintops here (jātāni parvatāgreṣu), let the two of you sing (gāyatām)!
 </details>
 </details>
 
@@ -242,6 +290,12 @@ _________________
 
 मक्कळिरा! इल्लिय सुमधुर फलगळन्नु भक्षिसुवुदरिन्द निमगॆ ऎन्दू बळलिकॆ उण्टागदु मत्तु निम्म कण्ठद मधुरतॆ नाशवागदु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having eaten these fruits and savory roots (bhakṣayitvā phalāni vai mūlāni ca sumṛṣṭāni), dear boys, you shall feel no fatigue (na yāsyathaḥ śramaṃ vatsau), and you shall lodge outside the city (nagarād bahir āsyathaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -269,6 +323,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाराज श्रीरामनु नीविब्बरल्लि गान केळबेकॆन्दु करॆदरॆ नीवु अवनल्लि हागू अल्लि कुळितिरुव ऋषिमुनिगळल्लि यथायोग्य विनयदिन्द वर्तिसिरि.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If King Rāma should summon you to listen (yadi śabdāpayed rāmaḥ śravaṇāya mahīpatiḥ), then in the presence of the seated sages (ṛṣīṇām upaviṣṭānām) let your singing commence (tato geyaṃ pravartatām).
 </details>
 </details>
 
@@ -298,6 +358,12 @@ _________________
 
 नानु मॊदलु बेरॆ-बेरॆ सङ्ख्यॆयुळ्ळ श्लोकगळिन्द कूडिद रामायण काव्यद सर्गगळन्नु निमगॆ उपदेशिसिदन्तॆ अदक्कनुसार प्रतिदिन इप्पत्तु-इप्पत्तु सर्गगळन्नु मधुर स्वरदिन्द गान माडिरि.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Twenty sargas each day (divase viṃśatiḥ sargāḥ) are to be sung with a sweet voice (geyā madhurayā girā), in the manifold measures (pramāṇair bahubhis tatra) just as I instructed you of old (yathoddiṣṭā mayā purā).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -326,6 +392,12 @@ _________________
 
 धनद इच्छॆयिन्द स्वल्पवू लोभ इरबारदु, आश्रमदल्लि इद्दु फल-मूलगळ भोजन माडुव वनवासिगळिगॆ धनदिन्द एनु कॆलस.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor must even the slightest greed be entertained (lobhaś cāpi na kartavyaḥ svalpo ’pi) out of longing for wealth (dhana-kāṅkṣayā); what use is wealth to hermitage dwellers who subsist on fruits and roots (kiṃ dhanenāśramasthānāṃ phala-mūlopajīvinām)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +422,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मक्कळे ! नीविब्बरू यार मक्कळु ऎन्दु श्रीरघुनाथनु केळिदरॆ नाविब्बरू सहोदररु महर्षि वाल्मीकिगळ शिष्यरु इष्टे हेळबेकु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If Kākutstha should ask, ‘Whose boys are you two?’ (yadi pṛcchet sa kākutstho yuvāṃ kasyeti dārakau), speak thus to the lord of men (brūtam evaṃ narādhipam): ‘We are disciples of Vālmīki’ (āvāṃ vālmīki-śiṣyau svaḥ).
 </details>
 </details>
 
@@ -379,6 +457,12 @@ _________________
 
 ई वीणॆगॆ एळु तन्तिगळिवॆ. इदर स्वरगळन्नु झङ्कृतगॊळिसि, श्रुति सेरिसि सुमधुर स्वरदिन्द नीविब्बरू काव्यगायन माडिरि हागू सर्वथा निश्चिन्तरागिरि.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Modulating these sweet lute-strings (imās tantrīḥ sumadhurāḥ) and the fret-board of wondrous resonance (sthānaṃ vāpūrva-darśanam mūrcchayitvā), sing most sweetly (sumadhuraṃ gāyatām), free from all anxiety (vigata-jvarau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,6 +487,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रारम्भदिन्दले ई काव्यवन्नु गाय माडबेकु. गायनदल्लि राजन अपमानवागुवन्तह यावुदे वर्तनॆ माडबेडि; एकॆन्दरॆ राजनु धर्मद दृष्टियिन्द समस्त प्राणिगळ तन्दॆयागिरुवनु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The singing should proceed from the very beginning (ādi-prabhṛti geyaṃ syāt), and never in disregard of the king (na cāvajñāya pārthivam); for by dharma a king is indeed the father of all beings (pitā hi sarva-bhūtānāṃ rājā bhavati dharmataḥ).”
 </details>
 </details>
 
@@ -429,6 +519,12 @@ _________________
 
 आद्दरिन्द नीविब्बरू प्रसन्न, एकाग्रचित्तदिन्द नाळॆ बॆळिग्गिनिन्दले वीणॆय लयदल्लि मधुर स्वरदल्लि रामायण गानवन्नु प्रारम्भिसिरि.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, joyful in mind and steadfast (tad yuvāṃ hṛṣṭa-manasau ... samāsthitau), tomorrow at dawn (śvaḥ prabhāte) sing the sweet song (gāyethāṃ madhuraṃ geyam), united with lute-strings and rhythm (tantrī-laya-samanvitam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -453,6 +549,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ बहळष्टु उपदेश माडि वरुणन पुत्र परम उदार महामुनि वाल्मीकिगळु सुम्मनादरु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus instructed them repeatedly (iti sandiśya bahuśaḥ), the supremely generous, greatly renowned sage Prācetasa Vālmīki (muniḥ prācetasas tadā vālmīkiḥ paramodāraḥ ... mahāyaśāḥ) then became silent (tūṣṇīm āsīt).
 </details>
 </details>
 
@@ -481,6 +583,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुनिगळु हीगॆ आदेश कॊट्टाग मिथिलेश कुमारि सीतॆय आ इब्बरू शत्रुदमन पुत्ररु ‘हागॆये आगलि’ नावु हागॆये माडुवॆवु ऎन्दु अल्लिन्द हॊरटु होदरु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus directed by that sage (sandiṣṭau muninā tena), both those sons of Maithilī, subjugators of foes (tāv ubhau maithilī-sutau ... arindamau), declaring “Even so shall we do!” (tathaiva karavāveti), took their departure (nirjagmatuḥ).
 </details>
 </details>
 
@@ -521,6 +629,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि तॊम्भत्तमूरनॆय सर्ग पूर्णवायितु. ॥93॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Receiving into their hearts that wondrous utterance spoken then by the sage (tām adbhutāṃ tau hṛdaye kumārau niveśya vāṇīm ṛṣi-bhāṣitāṃ tadā), those two eager princes passed the night together (samutsukau tau samam ūṣatur niśām), just as the twin Aśvins received the treatise of Bhārgava’s wisdom (yathāśvinau bhārgava-nīti-saṃhitām).
 </details>
 </details>
 

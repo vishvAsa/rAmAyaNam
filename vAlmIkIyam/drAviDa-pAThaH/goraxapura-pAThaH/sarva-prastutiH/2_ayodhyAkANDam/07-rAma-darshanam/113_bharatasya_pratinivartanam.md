@@ -73,6 +73,12 @@ pleased; *aaruroha* = ascended; *ratham* = his chariot.
 Thereafter, keeping the sandals on his head, Bharata delightfully ascended his
 chariot along with Shatrughna.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, placing the two sandals upon his head (tataḥ śirasi kṛtvā tu pāduke), Bharata, filled with joy, mounted his chariot accompanied by Śatrughna (bharatas tadā āruroha rathaṃ hṛṣṭaḥ śatrughnena samanvitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +124,12 @@ went ahead.
 
 Before him, Vasishta, Vasudeva of firm vows, Jabali and all the ministers
 distinguished for their counsels, went ahead.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha, Vāmadeva, and Jābāli of firm vow (vasiṣṭho vāmadevaś ca jābāliś ca dṛḍha-vrataḥ), together with all the ministers honored for their counsel, proceeded in front (agrataḥ prayayuḥ sarve mantriṇo mantra-pūjitāḥ).
 </details>
 </details>
 
@@ -165,6 +177,12 @@ charming; *nadiim* = River; *mandaakiniim* = Mandakini.
 Them, they advanced eastwards, by the charming Mandakini River, after making a round
 of Chitrakuta Mountain.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Facing eastward, they went along the lovely river Mandākinī (mandākinīṃ nadīṃ ramyāṃ prāṅ-mukhās te yayus tadā), performing a clockwise circumambulation of the great mountain Citrakūṭa (pradakṣiṇaṃ ca kurvāṇāś citrakūṭaṃ mahā-girim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -211,6 +229,12 @@ with his troops.
 
 Observing various types of thousands of enchanting rocks, Bharata advanced along
 with his troops along the side of the mountain.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding thousands of lovely and varied mineral veins (paśyan dhātu-sahasrāṇi ramyāṇi vividhāni ca), Bharata together with his army marched along the flank of that mountain (prayayau tasya pārśvena sa-sainyo bharatas tadā).
 </details>
 </details>
 
@@ -261,6 +285,12 @@ In the vicinity of Chitrakuta Mountain, Bharata saw a hermitage where the sage
 Bharadwaja resided.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not far from Citrakūṭa, Bharata then beheld (adūrāc citrakūṭasya dadarśa bharatas tadā) the hermitage where that sage Bharadvāja had made his abode (āśramaṃ yatra sa munir bharadvājaḥ kṛtālayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +337,12 @@ descended; *rathaat* = from his chariot; *vavande* = and bowed down in salutatio
 
 Then, that Bharata endowed with understanding reached that hermitage of Bharadwaja,
 descended from his chariot and bowed down to the feet of Bharadwaja in saluation.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arriving at that hermitage of Bharadvāja, the wise Bharata (sa tam āśramam āgamya bharadvājasya buddhimān bharatas tadā) alighted from his chariot and bowed to the sage’s feet (avatīrya rathāt pādau vavande).
 </details>
 </details>
 
@@ -357,6 +393,12 @@ replied; *bharadvaajam* = to Bharadvaja (as follows)
 The, Bharadvaja full of joy, enquired of Bharata saying, "O, dear prince! Has your
 purpose been accomplished? Have you met Rama?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the delighted Bharadvāja spoke these words to Bharata (tato hṛṣṭo bharadvājo bharataṃ vākyam abravīt): “Has your purpose been accomplished, dear son, and have you met with Rāma (api kṛtyaṃ kṛtaṃ tāta rāmeṇa ca samāgatam)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +444,12 @@ replied; *bharadvaajam* = to Bharadvaja (as follows):
 
 Hearing the words of the learned sage, Bharadvaja, Bharata who was affectionate
 towards his brothers, replied to Bharadvaja (as follows)
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by the wise Bharadvāja (evam uktaḥ sa tu tato bharadvājena dhīmatā), Bharata, devoted to his brother, replied to Bharadvāja (pratyuvāca bharadvājaṃ bharato bhrātṛ-vatsalaḥ):
 </details>
 </details>
 
@@ -449,6 +497,12 @@ spoke; *vaakyam* = ( the following) words; *vasiSTham* = to Vasishta.
 Despite the entreaties of his preceptor and of mine, Rama is unshakeable in his
 resolve and most cheerfully spoke the following words to Vasishta.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Though entreated by our preceptor and by me, Rāghava of firm valor (sa yācyamāno guruṇā mayā ca dṛḍha-vikramaḥ rāghavaḥ), supremely pleased, spoke these words to Vasiṣṭha (parama-prīto vasiṣṭhaṃ vākyam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -494,6 +548,12 @@ varSaaNi* = for fourteen years.
 
 "I shall honour the promise of my father scrupulously and reside in the forest for
 fourteen years as I promised him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘I shall faithfully keep that very promise of my father (pituḥ pratijñāṃ tām eva pālayiṣyāmi tattvataḥ)—the promise of my father for fourteen years (caturdaśa hi varṣāṇi yā pratijñā pitur mama).’
 </details>
 </details>
 
@@ -545,6 +605,12 @@ the most skilful of orators.
 Hearing the words of Rama, the highly wise Vasishta, the knower of proper mode of
 expression, replied to Rama who is the most skilful of orators, in the following great words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, the sagacious Vasiṣṭha, knower of speech (evam ukto mahā-prājño vasiṣṭhaḥ vākyajñaḥ), spoke in reply a weighty word to Rāghava, skilled in speech (pratyuvāca ha vākya-kuśalaṃ rāghavaṃ vacanaṃ mahat):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -590,6 +656,12 @@ expression, replied to Rama who is the most skilful of orators, in the following
 
 "O, the extremely segacious prince! Bestow joyfully thse gold-encrusted sandals of
 yours on us and ensure peace and harmony in Ayodhya."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Joyfully bestow these two gold-adorned sandals (ete prayaccha saṃhṛṣṭaḥ pāduke hema-bhūṣite), O you of great wisdom, which shall secure acquisition and preservation of welfare for you in Ayodhyā (ayodhyāyāṃ mahā-prājña yoga-kṣema-kare tava).’
 </details>
 </details>
 
@@ -637,6 +709,12 @@ EAst; *adhiruhya* = placed his feet; *ete* = in those; *paaduke* = sandals;
 "Hearing the words of Vasishta, Rama stood up and turning to the East, placed his
 feet in those sandals and gave them to me as a sign of regency."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Addressed thus by Vasiṣṭha, Rāghava stood facing eastward (evam ukto vasiṣṭhena rāghavaḥ prāṅ-mukhaḥ sthitaḥ), stepped onto these two sandals, and gave them to me for the governance of the kingdom (pāduke adhiruhyaite mama rājyāya vai dadau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -683,6 +761,12 @@ auspicious; *paaduke* = sandals; *gachchhaami* = and proceeding;
 "Having taken leave of the very high-souled Rama, I turned back after receiving the
 auspicious sandals. Now, I am proceeding to Ayodhya."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Given leave by the high-souled Rāma, I have turned back (nivṛtto 'ham anujñāto rāmeṇa sumahātmanā) and am going to Ayodhyā itself, taking the two auspicious sandals (ayodhyām eva gacchāmi gṛhītvā pāduke śubhe).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -728,6 +812,12 @@ high-souled; *bharadvaajaH muniH* = the sage Bharadvaja; *uvaacha* = spoke;
 
 Hearing those auspicious words of the high-souled Bharata, the sage Bharadvaja spoke
 to him the following words.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing this auspicious speech of the high-souled Bharata (etac chrutvā śubhaṃ vākyaṃ bharatasya mahātmanaḥ), the sage Bharadvāja spoke to him an even more auspicious word (bharadvājaḥ śubhataraṃ munir vākyam uvāca tam):
 </details>
 </details>
 
@@ -780,6 +870,12 @@ there is no; *chitram* = surprise; *etat* = that; *aaryam* = a noble trait;
 conduct! There is no surprise that a noble trait prevails in you, as naturally as the water allowed
 to go, always settles downwards."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is no wonder, O tiger among men, O best of those endowed with noble character and conduct (naitac citraṃ nara-vyāghra śīla-vṛttavatāṃ vara), that noble rectitude abides in you, even as water poured forth gathers in low ground (yad āryaṃ tvayi tiṣṭhet tu nimne sṛṣṭam ivodakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -826,6 +922,12 @@ you; *putraH* = are the son; *iidR^ishaH* = wndowed with such qualities;
 
 "Your valiant father, Dasaratha, is immortal in having such a son as you are, the
 knower of righteousness and loving peity."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Immortal is that mighty-armed father of yours, Daśaratha (amṛtaḥ sa mahā-bāhuḥ pitā daśarathas tava), who has a son like you, a knower of Dharma and devoted to Dharma (yasya tvam īdṛśaḥ putro dharmajño dharma-vatsalaḥ)!”
 </details>
 </details>
 
@@ -875,6 +977,12 @@ _________________
 Hearing the words of that sage, Bharata with his joined palms, touched his feet in
 salutation and began taking leave from him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clasping the feet of that high-souled sage after he had spoken (tam ṛṣiṃ tu mahātmānam ukta-vākyaṃ caraṇāv upagṛhya ca), Bharata with folded hands proceeded to take leave of him (kṛtāñjaliḥ āmantrayitum ārebhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -922,6 +1030,12 @@ ministers.
 Then, the glorious Bharata made circumambulation again and again to Bharadwaja and
 proceeded to Ayodhya along with hims ministers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having circumambulated Bharadvāja again and again (tataḥ pradakṣiṇaṃ kṛtvā bharadvājaṃ punaḥ-punaḥ), the glorious Bharata set forth for Ayodhyā together with his ministers (bharatas tu yayau śrīmān ayodhyāṃ saha mantribhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -967,6 +1081,12 @@ and elephants; *nivR^ittaa* = turned back; *punaH* = again (towards Ayodhya).
 
 Thata extensive army of Bharata, following him with vehicles, carts and elephants,
 turned back again towards Ayodhya.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With its carriages, carts, horses, and elephants, that vast army following in Bharata’s train (yānaiś ca śakaṭaiś caiva hayair nāgaiś ca sā camūḥ vistīrṇā bharatasyānuyāyinī) turned back once more (punar nivṛttā).
 </details>
 </details>
 
@@ -1014,6 +1134,12 @@ Yamuna; *uurmi maaliniim* = wreathed wtih waves; *punaH* = and moreover;
 
 Thereafter, all of them crossed the charming River Yamuna wreathed with waves and
 moreover saw the River Ganga with its pure water.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having crossed the celestial river Yamunā garlanded with waves (tatas te yamunāṃ divyāṃ nadīṃ tīrtvormi-mālinīm), they all beheld once again that river Gaṅgā of auspicious waters (dadṛśus tāṃ punaḥ sarve gaṅgāṃ śubha-jalāṃ nadīm).
 </details>
 </details>
 
@@ -1065,6 +1191,12 @@ Bharata accompanied by his relative and his army crossed that River Ganga, full 
 charming waters and entered the beautiful town of Shringibhera. From Shringibhera, he saw Ayodhya
 again.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having crossed that river brimming with lovely waters, together with his kinsmen and troops (tāṃ ramya-jala-sampūrṇāṃ santīrya saha-bāndhavaḥ sa-sainikaḥ), he entered the lovely city of Śṛṅgiberapura (śṛṅgiberapuraṃ ramyaṃ praviveśa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1112,6 +1244,12 @@ brother; *bharataH* = Bharata; *duHkhasantaptaH* = tormented with grief;
 
 Beholding the City of Ayodhya, which was bereft of his father and brother, Bharata
 tormented with grief, spoke the following words to the charioteer:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From Śṛṅgiberapura he beheld Ayodhyā once again (śṛṅgiberapurād bhūyas tv ayodhyāṃ sandadarśa ha); and beholding Ayodhyā bereft of his father and brother (ayodhyāṃ ca tato dṛṣṭvā pitrā bhrātrā vivarjitām), Bharata, tormented by grief, spoke these words to his charioteer (bharato duḥkha-santaptaḥ sārathiṃ cedam abravīt):
 </details>
 </details>
 
@@ -1163,5 +1301,11 @@ miserable, and with an impeded voice."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर हदिमूरनॆय सर्ग पूर्णवायितु ॥113॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold, O charioteer: ruined and stripped of her comely form, joyless, wretched, and her sounds hushed (sārathe paśya vidhvastā nirākārā nirānandā dīnā pratihata-svarā), yonder Ayodhyā does not shine (sāyodhyā na prakāśate)!”
 </details>
 </details>

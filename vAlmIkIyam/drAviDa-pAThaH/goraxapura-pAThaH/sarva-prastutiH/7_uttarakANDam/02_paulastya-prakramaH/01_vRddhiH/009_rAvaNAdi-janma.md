@@ -49,6 +49,14 @@ _________________
 
 स्वल्प कालद बळिक, नीलमेघदन्तॆ शोभितनाद, पुटक्किट्ट चिन्नद कर्णकुण्डलगळिन्द अलङ्कृतनाद सुमालियु, कमलरहितळाद लक्ष्मीदेवियन्तिद्द तन्न सुन्दर कन्यॆयन्नु करॆदुकॊण्डु रसातळदिन्द भूमण्डलक्कॆ बन्दु सञ्चरिसुत्तिद्दनु.॥1-2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** After some time had elapsed (kasyacit tv atha kālasya), a rākṣasa named Sumālī (sumālī nāma rākṣasaḥ), emerging from Rasātala (rasātalāt), wandered over the entire mortal world (martyalokaṃ sarvaṃ vai vicacāra ha).
+
+**2:** Dark as a blue rain-cloud (nīla-jīmūta-saṅkāśaḥ) and wearing earrings of burnished gold (tapta-kāñcana-kuṇḍalaḥ), he took along his unmarried daughter (kanyāṃ duhitaraṃ gṛhya), who resembled Śrī without her lotus (vinā padmam iva śriyam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +93,14 @@ _________________
 
 आग भूतळदल्लि सञ्चरिसुत्तिरुवाग पुष्पक विमानदल्लि कुळितु तन्दॆयाद पुलस्त्यरन्नु मग विश्रवस्सुविन दर्शन माडलु होगुत्तिद्द धनेश्वरनाद कुबेरनन्नु नोडिदनु. देवसदृशनाद प्रज्वलित अग्नियन्तिद्द कुबेरनन्नु नोडि विस्मितनाद राक्षसराजनु मर्त्यलोकदिन्द रसातळक्कॆ हिन्दिरुगिदनु.॥3-4½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** As that lord of rākṣasas (rākṣasendraḥ) was then wandering across the surface of the earth (vicaran vai mahītalam), he beheld the Lord of Wealth [Kubera] (dhaneśvaram) traveling by means of Puṣpaka (gacchantaṃ puṣpakeṇa)—
+
+**4:** Going to visit his father (pitaraṃ draṣṭum), the mighty son of Pulastya (pulastya-tanayaṃ vibhum). Beholding him, who resembled an immortal (amara-saṅkāśam), moving at will (svacchandam) and radiant as the sun (tapanopamam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +127,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बुद्धिवन्तनाद सुमालियु एनु माडुवुदरिन्द राक्षसर उन्नतियादीतु? हेगॆ ऒळितादीतु? ऎन्दु योचिसतॊडगिदनु.॥5½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Returning from the mortal world into Rasātala (rasātalaṃ praviṣṭaḥ san martyalokāt) filled with wonder (sa-vismayaḥ), that sagacious counselor among the rākṣasas (rākṣasānāṃ mahāmatiḥ) reflected thus:
 </details>
 </details>
 
@@ -146,6 +168,14 @@ _________________
 
 हीगॆ विचारमाडि आ राक्षसनु तन्न मगळाद कैकसॆयल्लि हेळिदनु - मगळे! ईग नीनु विवाहयोग्यळागिरुवॆ, यौवन कळॆयुत्ता इदॆ. नीनु तिरस्करिसुवॆ ऎम्ब भयदिन्द श्रेष्ठवररु निन्नन्नु वरिसुवुदिल्ल.॥6-7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** “What deed would bring us welfare (kiṃ kṛtaṃ śreyaḥ), and how might we prosper (vardhemahi kathaṃ vayam)?” Thereupon the rākṣasa addressed his daughter, known by the name Kaikasī (kaikasīṃ nāma nāmataḥ):
+
+**7:** “Daughter, this is the time for giving you in marriage (pradāna-kālo ’yam); your youth is passing away (yauvanaṃ vyativartate). Yet out of fear of rejection (pratyākhyānāc ca bhītaiḥ), you are not sought in marriage by suitors (na varaiḥ pratigṛhyase).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -172,6 +202,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मगळे ! निनगॆ विशिष्ट वर दॊरॆयलि ऎन्दु नावु बहळ प्रयत्न माडिदॆवु; एकॆन्दरॆ कन्यादानद विषयदल्लि धर्मबुद्धि इरिसुववरु नावु. नीनादरो, साक्षात् लक्ष्मियन्तॆये सर्वगुण सम्पन्ननागिरुवॆ. निन्नन्नु वरिसुव वरनु निनगॆ अनुरूपनागिरबेकु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“On your account all of us, whose minds are set on righteousness (dharma-buddhayaḥ), are sorely constrained (yantritāḥ); for you are endowed with every virtue (sarva-guṇopetā), like Fortune incarnate (śrīḥ sākṣād iva), my little daughter.
 </details>
 </details>
 
@@ -200,6 +236,12 @@ _________________
 
 मानवागि बाळबेकॆन्दिरुव ऎल्ल जनरिगू कन्यापितृत्ववु दुःखक्कॆ कारणवागिरुत्तदॆ. एकॆन्दरॆ ऎन्तह पुरुषनु मगळन्नु वरिसुवनॆम्बुदु कॊनॆयवरॆगू तिळिदिरुवुदिल्ल.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Being the father of a daughter (kanyā-pitṛtvam) is truly a sorrow (duḥkhaṃ hi) for all who cherish honor (māna-kāṅkṣiṇām), for it is never known who may seek a maiden’s hand (kaḥ kanyāṃ varayed iti), my girl.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -226,6 +268,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तायिय, तन्दॆय मत्तु सेरबेकाद मनॆय कुटुम्बवन्नु सदा संशयदल्ले इट्टिरुत्ताळॆ.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Her mother’s lineage (mātuḥ kulam), her father’s lineage (pitṛ-kulam), and the family into which she is given (yatra caiva pradīyate)—a daughter ever keeps three families suspended in anxiety (kulatrayaṃ ... saṃśaye sthāpya tiṣṭhati).
 </details>
 </details>
 
@@ -254,6 +302,12 @@ _________________
 
 आद्दरिन्द मगळे! नीनु प्रजापतिय कुलदल्लि हुट्टिद श्रेष्ठगुणसम्पन्न पुलस्त्य नन्दन मुनिवर विश्रवस्सुवन्नु स्वयम्पतियागि वरिसि अवन सेवॆयल्लि इरु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore do you, O daughter, wait upon (bhaja) that foremost of sages (munivaraṃ śreṣṭham), born in the lineage of Prajāpati (prajāpati-kulodbhavam)—choose Viśravas, Pulastya’s son (viśravasaṃ ... paulastyam), of your own accord (varaya svayam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -280,6 +334,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मगळे! हीगॆ माडुवुदरिन्द निःसंशयवागि धनेश्वर कुबेरनन्तह पुत्रनु निनगॆ हुट्टुवनु. कुबेरनु तन्न तेजदिन्द सूर्यनन्तॆ बॆळगुत्तिरुवुदन्नु नीनु नोडिये इरुवॆ.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Such sons will surely be born to you (īdṛśās te bhaviṣyanti putrāḥ), my daughter—of this there is no doubt (na saṃśayaḥ)—equal to the sun in splendor (tejasā bhāskara-samaḥ), just like this Lord of Wealth [Kubera] (yādṛśo ’yaṃ dhaneśvaraḥ)!”
 </details>
 </details>
 
@@ -308,6 +368,12 @@ _________________
 
 तन्दॆय मातन्नु केळि, अदन्नु गौरविसुव उद्देशदिन्द मुनिवर विश्रवस्तु तपस्सु माडुत्तिरुवल्लिगॆ, होगि ऒन्दु कडॆ निन्तुकॊण्डळु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his, that maiden (kanyakā), out of reverence for her father (pitṛ-gauravāt), went to the place where Viśravas was practicing austerity (viśravā yatra tapyate) and stood there (tatropāgamya sā tasthau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -335,6 +401,12 @@ _________________
 
 श्रीरामा! आग पुलस्त्यनन्दन विश्रवस्सु सायङ्कालद अग्निहोत्र माडुत्तिद्दनु. आ तेजस्वी मुनियु मूरु अग्निगळॊन्दिगॆ नाल्कनॆय अग्नियन्तॆ प्रकाशिसुत्तिद्दनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At that very moment, O Rāma (etasminn antare rāma), the twice-born son of Pulastya (pulastya-tanayo dvijaḥ) was attending upon the agnihotra fire-sacrifice (agnihotram upātiṣṭhat), like a fourth sacrificial fire (caturtha iva pāvakaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -361,6 +433,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तन्दॆय कुरितु गौरवबुद्धियुळ्ळ कैकसॆयु आ भयङ्कर समयवन्नु विचारमाडदॆ, अवर बळिगॆ होगि अवर चरणगळल्लि दृष्टियिरिसि ऎदुरिगॆ होगि निन्तळु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Giving no thought to that dread hour (avicintya tu tāṃ velāṃ dāruṇām), out of regard for her father (pitṛ-gauravāt), that lovely lady (bhāminī) drew near before him (upasṛtyāgratas tasya) and stood with face bowed toward his feet (caraṇādhomukhī sthitā), repeatedly tracing the ground with the tip of her great toe (vilikhantī muhur bhūmim aṅguṣṭhāgreṇa).
 </details>
 </details>
 
@@ -392,6 +470,12 @@ _________________
 
 आकॆयु कालिन हॆब्बॆरळिनिन्द नॆलवन्नु कॆरॆयुत्ता, चन्द्रनन्तॆ मुख हागू सुन्दर कटिप्रदेशवुळ्ळ आ सुन्दरियु तन्न तेजदिन्द प्रकाशिसुत्तिद्दळु. आकॆयन्नु नोडि महर्षिगळु केळिदरु.॥16½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding her—shapely of hip (suśroṇīm), with a countenance like the full moon (pūrṇacandra-nibhānanām), and glowing with her own radiance (dīpyamānāṃ svatejasā)—that supremely noble sage (paramodāraḥ) spoke to her:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -418,6 +502,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मङ्गळागिये ! नीनु यार मगळागिरुवॆ? ऎल्लिन्द बन्दिरुवॆ? नन्निन्द एनु कार्यवागबेकागिदॆ? याव उद्देशदिन्द नीनु इल्लिगॆ बन्दिरुवॆ? इदॆल्लवन्नु सरियागि तिळिसु.॥17-18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** “O auspicious one (bhadre), whose daughter are you (kasyāsi duhitā), and from where have you come hither (kuto vā tvam ihāgatā)? What errand brings you, and for what purpose (kiṃ kāryaṃ kasya vā hetoḥ)? Tell me truthfully, O fair one (tattvato brūhi śobhane)!”
+
+**18:** Thus addressed, that maiden joined her palms in reverence (kṛtāñjaliḥ) and replied: “Through your own spiritual power, O sage (ātma-prabhāveṇa mune), you ought to discern my wish (jñātum arhasi me matam).
 </details>
 </details>
 
@@ -456,6 +548,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विश्रवसमुनियु हीगॆ केळिदाग कैकसॆयु कैमुगिदु इन्तॆन्दळु- मुनिश्रेष्ठरे! नीवु निम्म प्रभावदिन्दले नन्न मनोकामनॆ तिळियबल्लरि; आदरॆ ब्रह्मषिये! नीवु केळिद्दरिन्द नानु हेळुत्तेनॆ-तन्दॆय अप्पणॆयन्तॆ नानु निम्म सेवॆगागि बन्दिरुवॆनु. नन्न हॆसरु कैकसॆ. उळिदुदु निमगॆल्ल तिळिदे इदॆ. नन्निन्द हेळिसुव आवश्यकतॆ इल्ल.॥19-20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “Know only this, O Brahmin sage (brahmarṣe), that I have come by my father’s command (śāsanāt pitur āgatām); I am named Kaikasī (kaikasī nāma nāmnāham), and the rest you ought to know yourself (śeṣaṃ tvaṃ jñātum arhasi).”
+
+**20:** Thereupon that sage entered into meditation (gatvā munir dhyānam) and spoke these words: “I have discerned, O auspicious one (vijñātaṃ te mayā bhadre), the reason that lies within your heart (kāraṇaṃ yan manogatam).
 </details>
 </details>
 
@@ -499,6 +599,16 @@ _________________
 
 इदन्नु केळि मुनियु ध्यानमग्नरागि क्षणकाल योचिसि हेळिदरु - मङ्गळाङ्गिये! निन्न मनस्सिन अभिप्राय तिळियितु. मदिसिद आनॆयन्तॆ नडॆयुळ्ळवळे! नन्निन्द पुत्ररन्नु पडॆयलु नीनु बयसुत्तिरुवॆ; आदरॆ ई दारुण समयदल्लि नन्न बळिगॆ बन्दिरुवॆ. अदरिन्द नीनु ऎन्तह पुत्ररन्नु पडॆयुवॆ ऎम्बुदन्नु केळु - सुन्दरी! निन्न पुत्ररु क्रूररू, भयङ्कर शरीरवुळ्ळवरागुवरु. अवरिगॆ क्रूरकर्मि राक्षसरॊन्दिगॆ प्रेम उण्टादीतु. नीनु क्रूरकर्मिगळाद राक्षसरन्ने पडॆयुवॆ.॥21-23½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “You have a desire for sons from me (sutābhilāṣo mattas te), O you whose gait resembles a rutting elephant’s (matta-mātaṅga-gāmini)! Yet because you have approached me at this dread hour (dāruṇāyāṃ tu velāyāṃ yasmāt tvaṃ mām upasthitā),
+
+**22:** “Hear therefore, O gentle lady (śṛṇu tasmāt ... bhadre), what sort of sons you shall bring forth (yādṛśāñ janayiṣyasi): fierce of nature (dāruṇān), terrible in form (dāruṇākārān), and fond of cruel kinsmen (dāruṇābhijana-priyān)—
+
+**23:** “You shall give birth, O fair-hipped one (prasaviṣyasi suśroṇi), to rākṣasas of savage deeds (rākṣasān krūra-karmaṇaḥ)!” Hearing those words of his, she fell prostrate at his feet (praṇipatya) and spoke:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -529,6 +639,14 @@ _________________
 
 मुनिय मातन्नु केळि कैकसॆयु अवर कालिगॆ बिद्दु हीगॆ नुडिदळु - पूज्यरे! नीवु ब्रह्मवादी महात्मरागिद्दीरि. नानु निम्मिन्द इन्तह दुराचारी मक्कळन्नु बयसुवुदिल्ल; आद्दरिन्द नीवु नन्न मेलॆ कृपॆदोरिरि.॥24-25॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** “O revered lord (bhagavan), from you, a knower of Brahman (tvatto ’haṃ brahmavādinaḥ), I do not desire such utterly wicked sons (īdṛśān putrān ... necchāmi sudurācārān)! Deign to show me grace (prasādaṃ kartum arhasi)!”
+
+**25:** Addressed thus by that maiden, Viśravas, foremost among sages (viśravā muni-puṅgavaḥ), spoke again to Kaikasī, as the full moon addresses Rohiṇī (pūrṇendur iva rohiṇīm):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -555,6 +673,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ राक्षसकन्यॆ हीगॆ हेळिदाग पूर्णचन्द्रनन्तिद्द मुनिवर विश्रवसरु रोहिणि यन्तॆ सुन्दरळाद कैकसिय बळि हेळिदरु.॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The last-born son who shall be born to you (paścimo yas tava suto bhaviṣyati), O fair-faced one (śubhānane), he shall be worthy of my lineage (mama vaṃśānurūpaḥ) and righteous of soul (dharmātmā ca bhaviṣyati)!”
 </details>
 </details>
 
@@ -587,6 +711,12 @@ _________________
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
 The birth of the king of the Rakṣas. While the Rakṣa-es are repeatedly mentioned in the śruti, we do not have a clear iconography therein. We believe the account of the birth of the lord of Lankā captures the early visualization of Rakṣa-es. While his birth name was Daśagrīva, he received his famous moniker Rāvaṇa later from Rudra.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, O Rāma, that maiden in the course of time (kālena kenacit) gave birth to a loathsome (bībhatsam), utterly terrifying creature in rākṣasa form (rakṣorūpaṃ sudāruṇam)—
 </details>
 </details>
 
@@ -628,6 +758,14 @@ He had ten heads, huge fangs, and resembled a heap of dark collyrium. He had cop
 
 श्रीरामा! मुनियु हीगॆ हेळिदाग कैकसॆयु स्वल्प समयदल्लि अत्यन्त भयानक मत्तु क्रूर स्वभावद ऒब्ब राक्षसनिगॆ जन्म नीडिदळु. अवनिगॆ हत्तु तलॆ, दॊड्ड-दॊड्ड दाडॆगळु, ताम्रदन्तॆ तुटिगळु, इप्पत्तु भुजगळु, विशालमुखगळु, हॊळॆयुव केशराशि इत्तु. अवन शरीरद बण्ण इद्दिलिनन्तॆ कप्पागित्तु. ॥28-29॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** Ten-necked (daśagrīvam), great-fanged (mahādaṃṣṭram), resembling a mountain of dark collyrium (nīlāñjana-cayopamam), copper-lipped (tāmroṣṭham), twenty-armed (viṃśati-bhujam), huge-mouthed (mahāsyam), with blazing hair (dīpta-mūrdhajam).
+
+**29:** At the very instant he was born (tasmiñ jāte tu tatkāle), jackals with flaming morsels in their jaws (sajvāla-kavalāḥ śivāḥ) and flesh-eating birds (kravyādāḥ) circled round in sinister counter-clockwise rings (apasavyāni maṇḍalāni pracakramuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -660,6 +798,12 @@ At the moment of his birth, jackals, with mouths emitting flames, and other pred
 
 अन्तह राक्षसनु हुट्टुत्तले हॆण्णुगुळ्ळॆनरिगळु बॆङ्कियुण्डॆगळन्नु उगुळुत्तिद्दवु. मांसभक्षि रणहद्दु मॊदलाद पक्षिगळु अप्रदक्षिणवागि मण्डलाकार हाराडुत्तिद्दवु.॥30॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The sky-god rained down blood (vavarṣa rudhiraṃ devaḥ), clouds roared with harsh thunder (meghāś ca khara-niḥsvanāḥ), the sun ceased to shine (prababhau na ca sūryo vai), and huge meteors plunged to earth (maholkāś cāpatan bhuvi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -687,6 +831,12 @@ sky, and great meteors fell on the earth.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इन्द्रदेव रुधिरकी वर्षा करने लगे, मेघ भयंकर स्वरमें गर्जने लगे, सूर्यकी प्रभा फीकी पड़ गयी, पृथ्वीपर उल्कापात होने लगा, 
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The earth itself trembled (cakampe jagatī caiva), fiercely terrifying winds blew (vavur vātāḥ sudāruṇāḥ), and even the unshakable ocean, lord of rivers (akṣobhyaḥ ... samudraḥ saritāṃ patiḥ), was violently agitated (kṣubhitaś caiva).
 </details>
 </details>
 
@@ -718,6 +868,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पर्जन्यनु रक्तद मळॆगरॆदनु, मेघगळु कत्तॆयन्तॆ गर्जिसिदवु, सूर्यनु मङ्कादनु, भयङ्कर बिरुगाळि बीसतॊडगितु, उल्कापात आगुत्तित्तु, यारिन्दलू क्षुब्धनागद सरित्वतियाद समुद्रवु विक्षुब्धवायितु.॥31-32॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then his father, equal to Grandfather Brahmā (pitāmaha-samaḥ pitā), bestowed a name upon him (nāmākarot tasya): “Since he has been born with ten necks (daśagrīvaḥ prasūto ’yam), he shall be called Daśagrīva (daśagrīvo bhaviṣyati)!”
 </details>
 </details>
 
@@ -752,6 +908,12 @@ Then his father, who was like the grandfather (Brahmā), gave him his name: ‘H
 
 आग ब्रह्मदेवरन्तॆ तेजस्वी विश्रवस्सु मुनियु आ पुत्रनिगॆ नामकरण माडिदनु. इवनु हत्तुतलॆगळिन्द हुट्टिरुवुदरिन्द ‘दशग्रीव’ ऎम्ब हॆसरिनिन्द प्रसिद्धनागुवनु.॥33॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Immediately after him (tasya tv anantaram) was born the mighty Kumbhakarṇa (kumbhakarṇo mahābalaḥ), than whose vast proportions no greater bulk exists in this world (pramāṇād yasya vipulaṃ pramāṇaṃ neha vidyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -777,6 +939,12 @@ Then his father, who was like the grandfather (Brahmā), gave him his name: ‘H
 
 बळिक महाबलि कुम्भकर्णन जन्मवायितु. अवन शरीरक्किन्त दॊड्ड शरीर जगत्तिनल्लि यारिगू इरलिल्ल.॥34॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Next was born a daughter named Śūrpaṇakhā, hideous of face (śūrpaṇakhā nāma sañjajñe vikṛtānanā), and thereafter the righteous-souled Vibhīṣaṇa (vibhīṣaṇaś ca dharmātmā), the youngest son of Kaikasī (kaikasyāḥ paścimaḥ sutaḥ). When that noble-hearted being was born (tasmiñ jāte mahāsattve), a shower of flowers fell from above (puṣpa-varṣaṃ papāta ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -801,6 +969,12 @@ Then his father, who was like the grandfather (Brahmā), gave him his name: ‘H
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर विकराळ मुखवुळ्ळ शूर्पणखॆ हुट्टिदळु. बळिक धर्मात्मा विभीषणन जन्मवायितु. अवनु कैकसॆय कॊनॆय पुत्रनागिद्दनु.॥35॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the expanse of the sky (nabhaḥ-sthāne), the kettledrums of the gods thundered forth (dundubhayo devānāṃ prāṇadan), and cries of “Well done! Well done!” (sādhu sādhv iti) resounded in the firmament (vākyaṃ caivāntarikṣe).
 </details>
 </details>
 
@@ -833,6 +1007,12 @@ _________________
 
 आ महा सत्त्वशालि पुत्रनु हुट्टिदाग आकाशदिन्द पुष्पवृष्टियायितु. देवतॆगळ दुन्दुभिगळु मॊळगिदवु. आग अन्तरिक्षदिन्द ‘साधु-साधु’ ऎम्ब ध्वनि केळि बन्तु.॥36॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those two of mighty energy (tau tu ... mahaujasau), Kumbhakarṇa and Daśagrīva, grew up there in that great forest (tatra mahāraṇye vavṛdhāte), spreading terror through the worlds (lokodvegakarau tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -860,6 +1040,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कुम्भकर्ण मत्तु दशग्रीव इवरिब्बरु महाबलि राक्षसरु लोकदल्लि उद्वेग उण्टुमाडुववरागिद्दरु. आ विशालकाय इब्बरू काडिनल्ले दिने-दिने वृद्धिसतॊडगिदरु.॥37॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Intoxicated with arrogance (pramattas tu), Kumbhakarṇa roamed the three worlds (trailokyaṃ ... vicacāra ha), perpetually unsated (nityāsantuṣṭaḥ), devouring great sages devoted to righteousness (maharṣīn dharma-vatsalān bhakṣayan).
 </details>
 </details>
 
@@ -889,6 +1075,12 @@ _________________
 
 कुम्भकर्णनु भारी उन्मत्तनादनु. अवनु ऎष्टु तिन्दरू तृप्तनागुत्तिरलिल्ल; अदरिन्द मूरू लोकगळल्लि अलॆयुत्ता धर्मात्मा महर्षिगळन्नु तिन्नुत्तिद्दनु.॥38॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The righteous-souled Vibhīṣaṇa (vibhīṣaṇas tu dharmātmā), however, remained ever steadfast in dharma (nityaṃ dharme vyavasthitaḥ), dwelling with senses conquered (uvāsa vijitendriyaḥ), devoted to Vedic recitation and regulated in diet (svādhyāya-niyatāhāraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -913,6 +1105,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विभीषणनु बाल्यदिन्दले धर्मात्मनागिद्दनु. अवनु सदा धर्मदल्ले स्थितनागिद्दु, स्वाधाय, नियमित आहार सेविसुत्ता, इन्द्रियगळन्नु तन्न हतोटियल्लिरिसिकॊण्डिद्दनु.॥39॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, in the course of time (kālena kenacit), Lord Vaiśravaṇa, the King of Wealth (vaiśravaṇo devaḥ ... dhaneśvaraḥ), arrived there by means of Puṣpaka (āgataḥ ... puṣpakeṇa) in order to visit his father (pitaraṃ draṣṭum).
 </details>
 </details>
 
@@ -939,6 +1137,12 @@ _________________
 
 कॆल दिनगळल्लि धनाधक्षनाद वैश्रवणनु (कुबेर) पुष्पक विमानारूढनागि तन्न तन्दॆय दर्शन पडॆयलु अल्लिगॆ बन्दनु.॥40॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him there blazing as it were with fiery splendor (jvalantam iva tejasā), that rākṣasa woman Kaikasī (kaikasī ... rākṣasī) went up to Daśagrīva and spoke:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -964,6 +1168,12 @@ _________________
 
 तन्न तेजदिन्द प्रकाशिसुत्तिद्द अवनन्नु नोडि, राक्षस कन्यॆ कैकसॆयु तन्न मगनाद दशग्रीवन बळिगॆ बन्दु हीगॆ नुडिदळु.॥41॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Son, behold your brother Vaiśravaṇa (putra vaiśravaṇaṃ paśya bhrātaram), encircled by radiant glory (tejasā vṛtam)! Though your status as brothers is entirely equal (bhrātṛbhāve same cāpi), look at yourself in such a state as this (paśyātmānaṃ tvam īdṛśam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -988,6 +1198,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मगु! निन्नण्ण वैश्रवणनन्नु नोडु. अवनु हेगॆ तेजस्वियागिद्दानॆ! तम्मनाद कारण नीनू कूड अवनन्तॆ आगबेकु. आदरॆ तन्न स्थितियन्नु नोडु हेगिदॆ.॥42॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Daśagrīva of boundless prowess (amita-vikrama), exert yourself in such a way (tathā yatnaṃ kuruṣva) that you too, my son (yathā tvam api me putra), may become the equal of Vaiśravaṇa (bhaver vaiśravaṇopamaḥ)!”
 </details>
 </details>
 
@@ -1017,6 +1233,12 @@ _________________
 
 अमित पराक्रमि दशग्रीवने! मगने! नीनु वैश्रवणनन्तॆ तेज मत्तु वैभवदिन्द सम्पन्ननागुवन्तॆ प्रयत्नमाडु.॥43॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his mother (mātus tad vacanaṃ śrutvā), the mighty Daśagrīva (daśagrīvaḥ pratāpavān) was seized with matchless indignation (amarṣam atulaṃ lebhe) and thereupon made a solemn vow (pratijñāṃ cākarot tadā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1042,6 +1264,12 @@ _________________
 
 तायिय मातन्नु केळि प्रतापशालियाद दशग्रीवनिगॆ अत्यन्त असहनॆयुण्टायितु. अवनु कूडले हीगॆ प्रतिज्ञॆ माडिदनु.॥44॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Truly I swear to you (satyaṃ te pratijānāmi): I shall become equal to my brother, or even surpass him (bhrātṛ-tulyo ’dhiko ’pi vā bhaviṣyāmi), in radiant power (ojasā caiva)! Cast away the anguish within your heart (santāpaṃ tyaja hṛdgatam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1066,6 +1294,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अम्मा! नीनु मनस्सिन चिन्तॆ बिट्टुबिडु. नानु नन्न पराक्रमदिन्द अण्णनाद वैश्रवणनन्तॆ इल्लवे अवनिगिन्त हॆच्चिनवनागुवॆनु ऎन्दु प्रतिज्ञापूर्वक हेळुत्तेनॆ.॥45॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, driven by that very wrath (tatas tenaiva kopena), Daśagrīva together with his younger brothers (daśagrīvaḥ sahānujaḥ), desiring to accomplish an arduous deed (cikīrṣur duṣkaraṃ karma), set his mind firmly upon austerity (tapase dhṛta-mānasaḥ).
 </details>
 </details>
 
@@ -1100,6 +1334,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक क्रोधावेशदिन्द सहोदर रॊन्दिगॆ दशग्रीवनु दुष्कर कर्मवन्नु इच्छिसि ‘नानु तपस्सिनिन्द नन्न मनोरथ पूर्ण माडिकॊळ्ळुवॆनु’ ऎन्दु योचिसि, मनस्सिनल्लि तपस्सन्नु माडलु निश्चैसि, अभीष्टसिद्धिगागि गोकर्णद पवित्र आश्रमक्कॆ होदनु.॥46-47॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**46:** “Through austerity I shall obtain my desire (prāpsyāmi tapasā kāmam)”—taking this to heart and firmly resolving (iti kṛtvādhyavasya ca), he came to the auspicious hermitage of Gokarṇa (gokarṇasyāśramaṃ śubham) for the attainment of his goal (ātma-siddhyartham).
+
+**47:** There that rākṣasa of fierce prowess (sa rākṣasas tatra ... ugravikramaḥ), accompanied by his younger brothers (sahānujaḥ), performed peerless austerity (tapaś cakārātulam); he gratified the mighty Grandfather [Brahmā] (atoṣayac cāpi pitāmahaṃ vibhum), and he, well pleased, bestowed upon him victory-bringing boons (dadau sa tuṣṭaś ca varāñ jayāvahān).
 </details>
 </details>
 

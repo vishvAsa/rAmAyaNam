@@ -39,6 +39,12 @@ _________________
 
 अनन्तर कॆलकाल सन्द बळिक भगवान् श्रीरामनु धर्मपूर्वकवागि अयोध्यॆयन्नु आळुत्तिद्दाग साक्षात् कालनु तपस्विय रूपदल्लि अरमनॆय द्वारक्कॆ बन्दनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then after the lapse of some time (kasyacit tv atha kālasya), while Rāma abided steadfast in dharma (rāme dharmapare sthite), Time himself arrived at the royal gate in the guise of an ascetic (kālas tāpasarūpeṇa rājadvāram upāgamat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,6 +69,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु द्वारदल्लि निन्तु धैर्यवन्त, यशस्वी लक्ष्मणनल्लि हेळिदनु - नानॊन्दु भारी कार्यदिन्द बन्दिरुवॆनु. नीनु रामचन्द्रनिगॆ नानु बन्दिरुव सूचनॆयन्नु कॊडु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He spoke these words to the steadfast and illustrious Lakṣmaṇa (lakṣmaṇaṃ ... dhṛtimantaṃ yaśasvinam): “Announce me to Rāma (māṃ nivedaya rāmāya) as one who has arrived on a matter of grave importance (samprāptaṃ kāryagauravāt).
 </details>
 </details>
 
@@ -89,6 +101,12 @@ _________________
 
 महाबलि लक्ष्मण! नानु अमित तेजस्वी महर्षि अति बलन दूतनागिद्देनॆ हागू ऒन्दु आवश्यक कार्यवश श्रीरामचन्द्रनन्नु काणलु बन्दिरुवॆनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am the messenger of an exceedingly mighty great sage of boundless vigor (dūto ’smy atibalasyāhaṃ maharṣer amitaujasaḥ); I have come wishing to see Rāma (rāmaṃ didṛkṣur āyātaḥ) on urgent business, O mighty-armed one (kāryeṇa hi mahābala).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +132,12 @@ _________________
 
 अवन मातन्नु केळि सुमित्रा कुमार लक्ष्मणनु लगुबगॆयिन्द ऒळगॆ होगि श्रीरामनल्लि आ तापसन आगमनवन्नु सूचिसिदनु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his (tasya tadvacanaṃ śrutvā), Saumitri, filled with haste (saumitris tvarayānvitaḥ), announced to Rāma the arrival of that ascetic (nyavedayata rāmāya tāpasaṃ taṃ samāgatam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +162,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महातेजस्वी महाराज! नीनु निन्न राजधर्मद प्रभावदिन्द इह- परलोकगळन्नु जयिसिद्दीयॆ. ओर्व महर्षि दूतन रूपदल्लि निम्मन्नु काणलु बन्दिरुवरु. अवरु तपस्सिनिन्द प्राप्तवाद तेजदिन्द सूर्यनन्तॆ प्रकाशिसुत्तिरुवरु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Conquer both worlds through dharma, O Rāma of great splendor (jayasva rāma dharmeṇa ubhau lokau mahādyute)! A messenger, effulgent as the sun through austerity (dūtas ... tapasā bhāskaraprabhaḥ), has come wishing to behold you (tvāṃ draṣṭum āyātaḥ).”
 </details>
 </details>
 
@@ -167,6 +197,12 @@ _________________
 
 लक्ष्मणनु हेळिद मातन्नु केळि श्रीरामनु - अय्या! तन्न स्वामिय सन्देशवन्नु हॊत्तु तन्दिरुव आ महातेजस्वी मुनियन्नु ऒळगॆ करॆदुकॊण्डु बा ऎन्दु हेळिदनु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words spoken by Lakṣmaṇa (tadvākyaṃ lakṣmaṇenoktam), Rāma indeed replied (rāma uvāca ha): “Let that sage of great vigor, bearer of his message, be ushered in, O dear one (praveśyatāṃ munis tāta mahaujās tasya vākyadhṛt)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -195,6 +231,12 @@ _________________
 
 ‘हागॆये आगलि’ ऎन्दु हेळि सौमित्रियु आ मुनियन्नु ऒळगॆ करॆदुकॊण्डु बन्दनु. अवरु तेजदिन्द प्रज्वलितनागि, तन्न प्रखर किरणगळिन्द सुट्टुबिडुवरो ऎन्दॆनिसुत्तित्तु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saying “So be it!” (tathety uktvā), Saumitri ushered in that sage (prāveśayata taṃ munim), who seemed to blaze with inner splendor (jvalantam eva tejobhiḥ) and scorch all around with his rays (pradahantam ivāṃśubhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,6 +261,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तन्न तेजदिन्द दीप्तिमन्तनाद रघुकुलतिलक श्रीरामन बळिगॆ बन्द ऋषियु अवनल्लि मधुरवागि हेळिदनु - रघुकुलनन्दन! निनगॆ अभ्युदयवागलि.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching that foremost of the Raghus, who shone with his own native radiance (raghuśreṣṭhaṃ dīpyamānaṃ svatejasā), the sage addressed Rāghava in honeyed speech (madhurayā vācā): “May you prosper (vardhasva)!”
 </details>
 </details>
 
@@ -245,6 +293,12 @@ _________________
 
 महातेजस्वी श्रीरामनु अवरिगॆ अर्घ्य, पाद्यादि पूजोपचारगळन्नु अर्पिसि, शान्तवागि अवर क्षेम समाचार केळतॊडगिदनु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To him the greatly resplendent Rāma offered worship preceded by the arghya offering (pūjām arghyapurogamām dadau), and unhurriedly began to inquire after his welfare (kuśalam avyagraṃ praṣṭum evopacakrame).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -269,6 +323,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु केळिदाग श्रेष्ठवाग्नि, महायशस्वी मुनियु क्षेम-समाचार तिळिसि, दिव्य स्वर्णमय आसनदल्लि विराजमानरादरु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asked about his welfare by that Rāma, foremost of eloquent speakers (pṛṣṭaś ca kuśalaṃ tena rāmeṇa vadatāṃ varaḥ), the greatly illustrious sage sat down upon a divine golden seat (āsane kāñcane divye niṣasāda).
 </details>
 </details>
 
@@ -298,6 +358,12 @@ _________________
 
 बळिक श्रीरामनु अवरल्लि हेळिदनु - महामते! निमगॆ स्वागतविरलि. नीवु यार दूतरागि इल्लिगॆ आगमिसिरुविरो, अवर सन्देश तिळिसिरि.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma said to him (tam uvāca tato rāmaḥ): “Welcome to you, O great sage (svāgataṃ te mahāmune)! Convey the words of him (prāpayāsya ca vākyāni) from whom you have come as messenger (yato dūtas tvam āgataḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,6 +388,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजसिंह श्रीरामनु हीगॆ प्रेरेपिसिदाग मुनि हेळिदरु - नीनु नम्म हितवन्नु बयसुवॆयादरॆ, नानु-नीनु इब्बरे इरुवल्लिये हेळुवुदु उचितवादीतु.॥1.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prompted by that lion among kings (codito rājasiṃhena), the sage spoke these words (munir vākyam abhāṣata): “This must be spoken in strict secrecy between us two (dvandvam etat pravaktavyam), if indeed you have regard for what is beneficial (hitaṃ vai yady apekṣase).
 </details>
 </details>
 
@@ -348,6 +420,12 @@ _________________
 
 नीनु मुनिश्रेष्ठ अतिबलन मातिन कडॆगॆ गमन कॊडुवुदिद्दरॆ, यारे मनुष्यनु नम्मिब्बर मातन्नु केळिसिकॊण्डरॆ, अथवा नावु माडुव वार्तालापवन्नु नोडिदरॆ अवनन्नु वधिसलागुवुदु ऎन्दु नीनु घोषणॆ माडबेकु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whoever overhears or looks upon us (yaḥ śṛṇoti nirīkṣed vā) shall be put to death by you (sa vadhyo bhavitā tava)—so indeed must it be (bhaved vai), if you respect the command of that foremost of sages (munimukhyasya vacanaṃ yady apekṣase).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -373,6 +451,12 @@ _________________
 
 श्रीरामनु ‘हागॆये आगलि’ ऎन्दु हेळि प्रतिज्ञॆ माडिदनु मत्तु लक्ष्मणनल्लि हेळिदनु- महाबाहो! द्वारपालकनन्नु कळिसि नीने स्वतः बागिलल्लि निन्तु कावलु कायबेकु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pledging “So be it!” (sa tatheti pratijñāya), Rāma spoke to Lakṣmaṇa (rāmo lakṣmaṇam abravīt): “Stand at the door, O mighty-armed one (dvāri tiṣṭha mahābāho), and dismiss the doorkeeper (pratihāraṃ visarjaya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +481,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुमित्रानन्दन! ऋषि मत्तु नन्न मातन्नु केळुववनु, नावु मातनाडुवुदन्नु नोडुववनु नन्निन्द वधिसल्पडुवनु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He shall assuredly deserve death at my hands (sa me vadhyaḥ khalu bhavet) who either looks upon or overhears (paśyed vā śṛṇuyāc ca yaḥ) the private conversation spoken between the sage and myself, O Saumitri (kathādvandvaṃ samīritam ṛṣer mama ca)!”
 </details>
 </details>
 
@@ -442,6 +532,14 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि नूरमूरनॆय सर्गपूर्णवायितु. ॥103॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Then, having stationed Lakṣmaṇa at the door as its watchful guardian (nikṣipya ... lakṣmaṇaṃ dvāri saṅgraham), Kākutstha Rāghava said to him (tam uvāca): “O sage, speak your message (mune vākyaṃ kathayasva)!
+
+**17:** “Whatever message is cherished in your mind (yat te manīṣitaṃ vākyam), or on whatever mission you have been charged (yena vāsi samāhitaḥ), declare it without hesitation (kathayasvāviśaṅkas tvam); it dwells in my own heart as well (mamāpi hṛdi vartate).”
 </details>
 </details>
 

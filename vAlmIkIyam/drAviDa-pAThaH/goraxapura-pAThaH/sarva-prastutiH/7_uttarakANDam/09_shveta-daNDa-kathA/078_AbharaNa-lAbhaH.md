@@ -39,6 +39,12 @@ _________________
 
 (अगस्त्यरु हेळुत्तारॆ -) श्रीरामा! हिन्दिन त्रेतायुगद मातु - ऒन्दु बहळ दॊड्ड वनवित्तु, अदु सुत्तलू नूरु योजन व्यापिसित्तु; आदरॆ आ वनदल्लि पशु-पक्षिगळु इरलिल्ल.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing my auspiciously worded speech, O Rāma (śrutvā tu bhāṣitaṃ vākyaṃ mama rāma śubhākṣaram), that celestial dweller joined his palms in reverence and spoke this reply (prāñjaliḥ pratyuvācedaṃ sa svargī), O delight of the Raghus:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सौम्य! आ निर्जन वनदल्लि उत्तम तपस्सु माडलु उपयुक्त स्थानवन्नु हुडुकुत्ता तिरुगाडुत्ता नानु अल्लिगॆ होदॆ.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hear, O brahmin, this ancient account of both my joy and my sorrow (śṛṇu brahman purā vṛttaṃ mamaitat sukha-duḥkhayoḥ); for your inquiry cannot be set aside (anatikramaṇīyaṃ hi), O twice-born sage, just as you ask me.
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 आ वनवु ऎष्टु सुखदायक इद्दितो, अदन्नु तिळिसलु नानु असमर्थनागिद्देनॆ. स्वादिष्ट फल-मूल हागू अनेक आकारद बण्णद वृक्षगळु अदर शोभॆ हॆच्चिसिद्दवु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of old, my father was the greatly famed king of Vidarbha (purā vaidarbhako rājā pitā mama mahāyaśāḥ), renowned throughout the three worlds as the mighty Sudeva (sudeva iti vikhyātas triṣu lokeṣu vīryavān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +141,12 @@ _________________
 
 आ वनद मध्यदल्लि ऒन्दु सरोवरवित्तु, अदर उद्द-अगल ऒन्दॊन्दु योजनवित्तु. अदरल्लि हंस, कारण्डव, मॊदलाद जलपक्षिगळिद्दु, चक्रवाकगळ जोडिगळु अदर शोभॆ हॆच्चिसिद्दवु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To him, O brahmin, two sons were born of two wives (tasya putra-dvayaṃ brahman dvābhyāṃ strībhyām ajāyata): I was known as Śveta (ahaṃ śveta iti khyātaḥ), and my younger brother was Suratha (yavīyān suratho ’bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +174,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदरल्लि कमल, नैदिलॆ अरळिद्दवु, सरोवरक्कॆ यावुदे हॆसरिरलिल्ल. आ परमोत्तम सरोवर अत्यन्त आश्चर्यमयवागि काणुत्तित्तु. अदर नीरु कुडियलु स्वादिष्ट मत्तु सुखदवागित्तु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, when our father departed to heaven (pitari svaryāte), the citizens consecrated me as king (paurā mām abhyaṣecayan); and there, deeply composed (susamāhitaḥ), I carried out a righteous reign (kṛtavān rājyaṃ dharmyaṃ ca).
 </details>
 </details>
 
@@ -180,6 +210,12 @@ _________________
 
 कॆसरिल्लदॆ अदु स्वच्छवागित्तु. अदन्नु यारू दाटलाररु. अदरॊळगॆ सुन्दर पक्षिळु कलरव माडुत्तिद्दवु. आ सरोवरद बळि ऒन्दु पुरातन, विशाल, अद्भुत आश्रमविद्दु, आदरॆ ऒब्बनू तपस्विगळु इरलिल्ल.॥6½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus thousands of years elapsed, O sage of noble vows (evaṃ varṣa-sahasrāṇi samatītāni suvrata), while I governed the kingdom and protected my subjects in accordance with dharma (rājyaṃ kārayato brahman prajā dharmeṇa rakṣataḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,6 +243,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषश्रेष्ठने! ग्रीष्मऋतुविन रात्रियल्लि नानु आ आश्रमदल्लि तङ्गिद्दॆ. प्रातःकाल ऎद्दु स्नानादि गळिगागि नानु आ सरोवरद तडिगॆ होदॆ.॥7½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, O best of the twice-born, having ascertained the limit of my lifespan through a certain sign (nimitte kasmiṃścid vijñātāyur dvijottama) and taking the law of mortality to heart (kāladharmaṃ hṛdi nyasya), I repaired to the forest (tato vanam upāgamam).
 </details>
 </details>
 
@@ -236,6 +278,12 @@ _________________
 
 आग ननगॆ अल्लि हृष्ट-पुष्टवाद, निर्मलवाद ऒन्दु शव कण्डुबन्तु. अदरल्लि ऎल्लियू मलिनतॆ इरलिल्ल. नरेश्वर! आ शववु जलाशयद तीरदल्लि बिद्दित्तु.॥8½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus I entered this impenetrable wilderness devoid of beasts and birds (vanam idaṃ durgaṃ mṛga-pakṣi-vivarjitam) to practice austerity in this fair precinct beside the lake (tapaś cartuṃ praviṣṭo ’smi samīpe sarasaḥ śubhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -264,6 +312,12 @@ _________________
 
 प्रभो! रघुनन्दन! इदेनु ऎन्दु नानु आ शवद कुरितु योचिसुत्तिद्दॆ. अल्लि ऎरडु गळिगॆ आ पुष्करिणिय तीरदल्लि कुळित्तिद्दॆ.॥9½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, having consecrated my brother Suratha as sovereign upon the throne (bhrātaraṃ surathaṃ rājye hy abhiṣicya mahīpatim) and having reached this lake, I practiced austerity for a long time (tapas taptaṃ mayā ciram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -285,6 +339,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इस विशाल वनमें तीन हजार वर्षोंतक अत्यन्त दुष्कर तपस्या करके मैं परम उत्तम ब्रह्मलोकको प्राप्त हुआ ॥ १० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having performed exceedingly arduous austerity in this great forest for three thousand years (varṣa-sahasrāṇi tapas trīṇi mahāvane taptvā suduṣkaram), I attained the peerless world of Brahmā (prāpto brahmalokam anuttamam).
 </details>
 </details>
 
@@ -314,6 +374,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऎरडु गळिगॆ कळॆयुत्तले अल्लि ऒन्दु दिव्य, अद्भुत, उत्तम हंसयुक्त, मनोवेगदन्तह विमान इळियितु. रघुनन्दन! आ विमानदल्लि अत्यन्त रूपवन्त ओर्व स्वर्गवासी देवतॆ कुळित्तिद्दनु. दिव्य आभूषणगळिन्द विभूषित साविरारु अप्सरॆयरु अवन सेवॆगागि अदरल्लि कुळित्तिद्दरु.॥10-11½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet even as I dwelt in heaven, O foremost of brahmins, hunger and thirst tormented me (tasya me svarga-bhūtasya kṣut-pipāse ... bādhete), O supremely noble one; my senses anguished thereby (vyathitendriyaḥ), I went to the Grandfather, foremost in the three worlds, and spoke (gatvā tribhuvana-śreṣṭhaṃ pitāmaham uvāca ha):
 </details>
 </details>
 
@@ -349,6 +415,14 @@ _________________
 
 अवरल्लि कॆलवरु मनोहर हाडु हाडुत्तिद्दरॆ, कॆलवरु मृदङ्ग, वीणॆ, पणव मॊदलाद वाद्यगळन्नु नुडिसुत्तिद्दरु. इतर अनेक अप्सरॆयरु नाट्यवाडुत्तिद्दरु. अरळिद कमलगळन्तॆ नेत्रगळुळ्ळ इतर अप्सरॆ यरु स्वर्णमय दण्डदिन्द विभूषित, चन्द्रनन्तॆ बॆळ्ळगिन चामरगळन्नु बीसुत्ता स्वर्गवासी देवतॆगॆ गाळि हाकुत्तिद्दरु.॥12-13½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “‘O Blessed Lord, this world of Brahmā is free from hunger and thirst (brahmaloko ’yaṃ kṣut-pipāsā-vivarjitaḥ); of what deed is this the ripening, that I am dogged by hunger and thirst (kasyāyaṃ karmaṇaḥ pākaḥ kṣut-pipāsānugo hy aham)? And what is my food, O god? Tell me that, O Grandfather!’
+
+**13:** “‘The Grandfather answered me (pitāmahas tu mām āha): “Your food, O son of Sudeva (tavāhāraḥ sudevaja), is your own savory flesh (svādūni svāni māṃsāni); eat of it continually (tāni bhakṣaya nityaśaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -370,6 +444,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 यह सुनकर ब्रह्माजी मुझसे बोले—‘सुदेवनन्दन! तुम मर्त्यलोकमें स्थित अपने ही शरीरका सुस्वादु मांस प्रतिदिन खाया करो; यही तुम्हारा आहार है ॥ १४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘“While performing supreme austerity, you nourished only your own body (sva-śarīraṃ tvayā puṣṭaṃ kurvatā tapa uttamam); O Śveta of great mind, what has never been sown never sprouts (anuptaṃ rohate śveta na kadācin mahāmate)!
 </details>
 </details>
 
@@ -399,6 +479,12 @@ _________________
 
 रघुकुलनन्दन श्रीरामा! अनन्तर सूर्यनु मेरुपर्वतदिन्द कॆळगॆ इळियुवन्तॆ आ स्वर्गवासी पुरुषनु विमानदिन्द इळिदु नानु नोडु-नोडुत्तिरुवन्तॆये आ शववन्नु भक्षिसिदनु.॥14-15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘“Not even the slightest satiety exists for you in the forest frequented by living beings (tṛptir na te ’sti sūkṣmā ’pi vane sattva-niṣevite), because of old, O Indra-like king, you gave no alms to a begging ascetic or even to a guest (bhikṣamāṇāya bhikṣā vai yataye ... na hi dattā ... atithaye ’pi vai).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -426,6 +512,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 स्वेच्छॆयिन्द आ सुपुष्ट, साकष्टु मांसवन्नु तिन्दु ई स्वर्गीय देवतॆ सरोवरक्कॆ इळिदु कै-बायि तॊळॆयतॊडगिदनु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘“Not even the tiniest gift was ever given by you (dattaṃ na te ’sti sūkṣmo ’pi); you devoted yourself to austerity alone (tapa eva niṣevase). Therefore, though gone to heaven, my son, you are tormented by hunger and thirst (tena svargagato vatsa bādhyase kṣut-pipāsayā).
 </details>
 </details>
 
@@ -455,6 +547,12 @@ _________________
 
 रघुनन्दन! यथोचित बायि मुक्कळिसि आचमन माडि आ स्वर्गवासी पुरुषनु आ उत्तम विमानवन्नु एरलु तॊडगिदनु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘“Eating that peerless body of yours, well nourished by rich foods and tasting like nectar (supuṣṭam āhāraiḥ sva-śarīram anuttamam bhakṣayitvāmṛta-rasam), you shall find satiety thereby (tena tṛptir bhaviṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -482,6 +580,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषोत्तम! आ देवतुल्य पुरुषनु विमानवन्नु एरुवाग नानु अवनल्लि केळिदॆ.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘“Yet when the exceedingly great and invincible sage Agastya shall come to that forest, O Śveta (agastyaḥ sumahān ṛṣiḥ āgamiṣyati durdharṣaḥ), then he shall deliver you from this distress (tadā kṛcchrād vimokṣyate)!”
 </details>
 </details>
 
@@ -511,6 +615,12 @@ _________________
 
 सौम्य! देवोत्तम पुरुषने! नीवु यारु? यातक्कागि इन्तह घ्रणित आहार स्वीकरिसुत्तिरुविरि? इदन्नु तिळिसुव कृपॆ माडिरि.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘“For he is capable of delivering even the hosts of gods, O gentle one (sa hi tārayituṃ saumya śaktaḥ suragaṇān api); how much more you, O mighty-armed one, who have fallen under the sway of hunger and thirst (kiṃ punas tvāṃ mahābāho kṣut-pipāsā-vaśaṃ gatam)!”’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +649,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवतुल्य तेजस्वी पुरुषने! इन्तह दिव्य स्वरूप मत्तु इन्तह निन्द्यवाद आहार यारदागबहुदु? निम्मल्लि ई ऎरडू आश्चर्यजनक मातुगळिवॆ. आद्दरिन्द नानु इदर यथार्थ रहस्य केळलु बयसुत्तेनॆ. एकॆन्दरॆ ई शववु निमगॆ योग्य आहारवॆन्दु नानु तिळियुवुदिल्ल.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing that settled decree of the Blessed God of gods (bhagavataḥ śrutvā devadevasya niścayam), O foremost of brahmins, I have been making my own body my censured food (āhāraṃ garhitaṃ kurve sva-śarīram).
 </details>
 </details>
 
@@ -570,6 +686,12 @@ _________________
 
 नरेश्वर! कुतूहलदिन्द नानु मधुर वाणियल्लि आ स्वर्गीय पुरुषनल्लि हीगॆ केळिदाग नन्न मातुगळन्नु केळि अवरु ननगॆ ऎल्लवन्नु तिळिसिदरु.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Though eaten by me for many multitudes of years, O brahmin (bahūn varṣa-gaṇān brahman bhujyamānam idaṃ mayā), this body never suffers diminution (kṣayaṃ nābhyeti brahmarṣe), and my satiety too is complete (tṛptiś cāpi mamottamā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -589,6 +711,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मुने! इस प्रकार मैं संकटमें पड़ा हूँ । आप मेरे दृष्टिपथमें आ गये हैं, इसलिये इस कष्टसे मेरा उद्धार कीजिये । आप ब्रह्मर्षि कुम्भजके सिवा दूसरोंकी इस निर्जन वनमें पहुँच नहीं हो सकती (इसलिये आप अवश्य कुम्भयोनि अगस्त्य ही हैं) ॥ २२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Deliver me, who have fallen into this dire plight, from this affliction (tasya me kṛcchra-bhūtasya kṛcchrād asmād vimocaya)! For no others have access here except the pitcher-born brahmin (anyeṣāṃ na gatir hy atra kumbhayonim ṛte dvijam).
 </details>
 </details>
 
@@ -610,6 +738,12 @@ _________________
 
 ‘सौम्य! विप्रवर! आपका कल्याण हो । आप मेरा उद्धार करनेके लिये मेरे इस आभूषणका दान ग्रहण करें और आपका कृपाप्रसाद मुझे प्राप्त हो ॥ २३ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Accept this ornament, O gentle and foremost of brahmins, for the sake of my deliverance (idam ābharaṇaṃ saumya tāraṇārthaṃ dvijottama pratigṛhṇīṣva); blessings be upon you—pray show me favor (bhadraṃ te prasādaṃ kartum arhasi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -629,6 +763,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ब्रह्मन्! ब्रह्मर्षे! यह दिव्य आभूषण सुवर्ण, धन, वस्त्र, भक्ष्य, भोज्य तथा अन्य नाना प्रकारके आभरण भी देता है ॥ २४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this ornament yields gold, wealth, and garments, O twice-born one (idaṃ tāvat suvarṇaṃ ca dhanaṃ vastrāṇi ca dvija), as well as foods both solid and soft, O brahmin-sage, and ornaments besides (bhakṣyaṃ bhojyaṃ ca brahmarṣe dadāty ābharaṇāni ca).”
 </details>
 </details>
 
@@ -650,6 +790,12 @@ _________________
 
 ‘मुनिश्रेष्ठ! इस आभूषणके द्वारा मैं समस्त कामनाओं (मनोवाञ्छित पदार्थों) और भोगोंको भी दे रहा हूँ । भगवन्! आप मेरे उद्धारके लिये मुझपर कृपा करें’ ॥ २५ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘I bestow all desires and every enjoyment, O bull among sages (sarvān kāmān prayacchāmi bhogāṃś ca munipuṅgava); O Blessed Lord, pray show me favor in my deliverance (tāraṇe bhagavan mahyaṃ prasādaṃ kartum arhasi)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -669,6 +815,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 स्वर्गीय राजा श्वेतकी यह दुःखभरी बात सुनकर मैंने उनका उद्धार करनेके लिये वह उत्तम आभूषण ले लिया ॥ २६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those sorrow-laden words of that celestial dweller (tasyāhaṃ svargiṇo vākyaṃ śrutvā duḥkha-samanvitam), I accepted that most excellent ornament for the sake of his deliverance (tāraṇāyopajagrāha tad ābharaṇam uttamam).
 </details>
 </details>
 
@@ -690,6 +842,12 @@ _________________
 
 ज्यों ही मैंने उस शुभ आभूषणका दान ग्रहण किया, त्यों ही राजर्षि श्वेतका वह पूर्व-शरीर (शव) अदृश्य हो गया ॥ २७ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The moment that auspicious ornament was accepted by me (mayā pratigṛhīte tu tasminn ābharaṇe śubhe), the former human body of that royal sage vanished utterly (mānuṣaḥ pūrvako deho rājarṣer vinanāśa ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -709,6 +867,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उस शरीरके अदृश्य हो जानेपर राजर्षि श्वेत परमानन्दसे तृप्त हो प्रसन्नतापूर्वक सुखमय ब्रह्मलोकको चले गये ॥ २८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And when his body had disappeared (pranaṣṭe tu śarīre), that royal sage—wholly sated and filled with supreme joy (parayā mudā tṛptaḥ pramudito rājā)—ascended happily to heaven (jagāma tridivaṃ sukham).
 </details>
 </details>
 
@@ -740,5 +904,11 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऎप्पत्तेळनॆय सर्ग पूर्णवायितु. ॥77॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By that Indra-like king, O Kākutstha (tenedaṃ śakra-tulyena ... kākutstha), was this divine ornament of wondrous aspect given to me on that occasion (divyam ābharaṇaṃ mama tasmin nimitte ... dattam adbhuta-darśanam).”
 </details>
 </details>

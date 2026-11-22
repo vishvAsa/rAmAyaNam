@@ -51,6 +51,12 @@ safeguarding Vishwamitra's Vedic-ritual, when Rama was still a young boy.
 
 हिन्दॊम्मॆ नानु नन्न पराक्रमक्कॆ अधीननागि पर्वतदन्तह शरीरवन्नु धरिसिकॊण्डु ई पथ्विय प्रदक्षिणॆ माडुत्तिदॆ. आग नन्नल्लि ऒन्दु साविर आनॆगळ बलवित्तु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘Once, roaming over this earth (paryaṭan pṛthivīm imām) in the pride of my valor (vīryāt), possessing the strength of a thousand elephants (balaṃ nāga-sahasrasya dhārayan) and resembling a mountain (parvatopamaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -105,6 +111,12 @@ sheen, wearing ear-knobs and a crown made out of refined gold, with a bludgeon a
 such as I was, I rambled Dandaka forest causing terror to the world, and eating the fleshes of
 sages." Thus Maareecha started to narrate his experience with Rama. [3-38-1, 2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dark like a blue-black thundercloud (nīla-jīmūta-saṅkāśaḥ), wearing earrings of refined gold (tapta-kāñcana-kuṇḍalaḥ), crowned with a diadem (kirīṭī), and armed with an iron club (parighāyudhaḥ), striking terror into the world (bhayaṃ lokasya janayan)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +162,12 @@ person; *nara indram dasharatham gatvaa* = to people's king, to Dasharatha, on g
 
 "The virtue-souled great-saint Vishvamitra who was highly scared of me, then on
 going to Dasharatha in person that great-saint spoke this to that lord of people. [3-38-3b, 4a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I ranged the Daṇḍaka forest (vyacaran daṇḍakāraṇyam), devouring the flesh of sages (ṛṣi-māṃsāni bhakṣayan). Then the righteous-souled great sage Viśvāmitra, terrified of me (mad-vitrastaḥ)—
 </details>
 </details>
 
@@ -198,6 +216,12 @@ verily, chanced - befallen; *raamaH samaahitaH* = Rama, becoming alert; *parva k
 Dasharatha, let Rama safeguard me becoming alert at the opportune time of the Vedic-ritual.
 [3-38-4b 5a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Went in person (svayaṃ gatvā) to King Daśaratha and spoke this: “Let this Rāma, intent and alert (samāhitaḥ), guard me at the time of the sacrificial parvan (parva-kāle);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +267,12 @@ Dasharatha; *dharma atmaa raajaa dasharathaH tadaa* = virtue-souled, king, Dasha
 
 "When he is spoken in that way, then that virtue-souled king Dasharatha replied that
 great-fortunate and great-saint Vishvamitra in this way. [3-38-5b, 6a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For a dreadful fear (bhayaṃ ghoram) has arisen for me from Mārīca, O lord of men (nareśvara)!” Thus addressed, the righteous-souled King Daśaratha then—
 </details>
 </details>
 
@@ -334,6 +364,14 @@ In the fourfold army the four categories of army units are chariots, elephants,
 cavalry, and foot-soldiers.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** Replied to the illustrious great sage Viśvāmitra: “This Rāghava is less than twelve years old (ūna-dvādaśa-varṣo 'yam) and unpracticed in missiles (akṛtāstraś ca).
+
+**7:** Rather, let that army of mine (mama tat sainyam) go at will along with me (kāmaṃ tu... mayā saha gamiṣyati); coming in person with a fourfold army (balena catur-aṅgeṇa svayam etya), that night-roamer—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -381,6 +419,12 @@ counterbalance.
 "When the sage Vishvamitra is spoken thus, then he said to the king, 'No other force
 in the world than Rama can counterbalance that demon. [3-38-8b, 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I shall slay (vadhiṣyāmi), O foremost of sages (muni-śreṣṭha), that enemy of yours as you desire (śatruṃ tava yathepsitam)!” Thus addressed, however, that sage spoke this to the king:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -426,6 +470,12 @@ aasiit* = in tri-world, well-known, is there.
 
 " 'No doubt, you are a defender of gods in wars, and oh, king, the exploits you have
 undertaken on behalf of gods are well-known in the triad of worlds. [3-38-9b, 10a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“No force in the world other than Rāma (rāmān nānyad balaṃ loke) is a match for that rākṣasa (paryāptaṃ tasya rakṣasaḥ). Even of the gods (devatānām api) you have been the protector in battles (samareṣv abhipālakaḥ);
 </details>
 </details>
 
@@ -481,6 +531,14 @@ alone, and even if this great resplendent one is still a boy he alone is compete
 that Maareecha, hence oh, enemy-subjugator, let good betide you, I wish to take him alone along
 with me.' [3-38-10b, 11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** The deed performed by you (tava kṛtaṃ karma), O King, was renowned throughout the three worlds (triloka-viditam). Granted that you possess a mighty army (kāmam asti mahat sainyam), let it remain here, O scorcher of foes (tiṣṭhatv iha paraṃtapa)!
+
+**11:** Though a boy (bālo 'pi), this [Rāma] of great fiery energy (mahā-tejāḥ) is capable of subduing him (samarthas tasya nigrahe). Taking Rāma, I shall depart (gamiṣye rāmam ādāya); may welfare be yours (svasti te 'stu), O scorcher of foes!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -506,6 +564,12 @@ with me.' [3-38-10b, 11]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ऐसा कहकर (लक्ष्मणसहित) राजकुमार श्रीरामको साथ ले महामुनि विश्वामित्र बड़ी प्रसन्नताके साथ अपने आश्रमको गये ॥ १२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, that sage Viśvāmitra, supremely pleased (parama-prītaḥ), took that prince (tam ādāya nṛpātmajam) and went to his own hermitage (svam āśramam).
 </details>
 </details>
 
@@ -576,6 +640,12 @@ Vishvamitra who entered the vow of Vedic-ritual. [3-38-13]
 There is a difference in mentioning the forest as Dandaka. Bala Kanda says that
 Vishvamitra performed ritual in north and Maareecha is now saying that as Dandaka forest.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Twanging his wondrous bow (citraṃ visphārayan dhanuḥ), Rāma stood guard near (babhūvopasthitaḥ) that [Viśvāmitra], who had thus undergone consecration for the sacrifice (yajñam uddiśya dīkṣitam) in the Daṇḍaka forest.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -600,6 +670,12 @@ Vishvamitra performed ritual in north and Maareecha is now saying that as Dandak
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग श्रीरामनु इन्नू तरुणनागिरलिल्ल. अवनु ओर्व शोभाशाली बालकनन्तॆ कण्डुबरुत्तिद्दनु. श्यामलाङ्गनाद अवन कण्णुगळु विशालवागि सुन्दरवागिद्दवु. अवनु ऒन्दु वस्त्र धरिसिद्दु, कैयल्लि धनुस्सन्नु हिडिदुकॊण्डु, सुन्दर शिखॆ मत्तु चिन्नद हारदिन्द सुशोभितनागिद्दनु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beardless (ajāta-vyañjanaḥ), glorious (śrīmān), a dark-complexioned boy (bālaḥ śyāmaḥ) with auspicious eyes (śubhekṣaṇaḥ), wearing a single garment (eka-vastra-dharaḥ), armed with a bow (dhanvī), wearing side-locks (śikhī), and [adorned] with a golden necklace (kanaka-mālayā)—
 </details>
 </details>
 
@@ -674,6 +750,12 @@ When Ravana sees Rama for the first time in war, Ravana praisefully acknowledges
 personality. Besides, Rama's gleam is like that of a baby-moon, against the backdrop of a thickish,
 darkish, blackish sky, called the forest.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Illuming the Daṇḍaka forest (śobhayan daṇḍakāraṇyam) with his own blazing lustre (dīptena svena tejasā), Rāma appeared then like the newly risen crescent moon (bāla-candra ivoditaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -730,6 +812,12 @@ that 'wealth or wisdom is nothing to Rama, but righteousness alone will work out
 did not give an ear for the suggestions of Maareecha, his Lanka, built with refined gold, will be
 burnt to ashes in Sundara Kanda.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then I, resembling a thundercloud (megha-saṅkāśaḥ), wearing earrings of refined gold (tapta-kāñcana-kuṇḍalaḥ), mighty and proud of the boon granted to me (balī datta-varo darpāt), came into the interior of the hermitage (ājagāmāśramāntaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -777,6 +865,12 @@ bowstring; *cakaara ha* = made - strung, aimed, indeed.
 "Rama quickly noticed me on my very entry with an uplifted weapon, and on seeing me
 he unexcitedly strung bowstring to his bow. [3-38-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+No sooner had I entered with weapon upraised (sahasaivodyatāyudhaḥ) than I was seen by him (tena dṛṣṭaḥ); and upon seeing me, he unhurriedly (asambhrāntaḥ) strung his bow (dhanuḥ sajyaṃ cakāra ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -823,6 +917,12 @@ Vishvamitra, that, towards Fire-altar; *abhya dhaavam* = towards, ran.
 "Unmindfully trivialising him as, 'this Raghava is just a boy,' I made haste and ran
 towards that Fire-altar of Vishvamitra. [3-38-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disdaining (avajānan) Rāghava out of delusion (mohāt) with the thought, “He is a mere boy (bālo 'yam iti),” I rushed in haste (abhyadhāvaṃ kṛta-tvaraḥ) toward that sacrificial altar of Viśvāmitra (viśvāmitrasya tāṃ vedim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -868,6 +968,12 @@ yojana-s [afar,] in ocean, plunged.
 
 "He then released an acute arrow that eliminates the enemy, and hit by it I am
 plunged into the ocean which was a hundred yojana-s off. [3-38-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then a sharp, foe-destroying arrow (bāṇaḥ śitaḥ śatru-nibarhaṇaḥ) was loosed by him (tena muktaḥ); struck by it (tenāhaṃ tāḍitaḥ), I was hurled into the ocean a hundred yojanas away (kṣiptaḥ samudre śata-yojane).
 </details>
 </details>
 
@@ -943,6 +1049,14 @@ towards, went.
 "That way I who had been flung into the abyssal water of the ocean by him gained
 consciousness after a long time and proceeded towards the city of Lanka. [3-38-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** Not wishing to slay me then (necchatā... māṃ hantum), dear friend (tāta), I was spared by that hero (tadā vīreṇa rakṣitaḥ); cast away (nirastaḥ) by the force of Rāma's arrow (rāmasya śara-vegena), my senses reeling (bhrānta-cetanaḥ)—
+
+**21:** I was plunged then by him into the deep waters of the ocean (gambhīre sāgarāmbhasi); having regained consciousness after a long time (prāpya saṃjñāṃ cirāt), dear friend, I went toward the city of Laṅkā (laṅkāṃ prati gataḥ purīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -989,6 +1103,12 @@ consciousness after a long time and proceeded towards the city of Lanka. [3-38-2
 "At that time, that one with elementary knowledge in the use of weaponry, but who
 can undertake deeds in an effortless manner, such a boy, such a Rama spared me, albeit killing them
 that were my helpmates in that escapade. [3-38-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus was I spared at that time (evam asmi tadā muktaḥ), while those companions [of mine] were struck down (sahāyās te nipātitāḥ) by Rāma—a boy untrained in missiles (akṛtāstreṇa... bālena), yet unwearying in deeds (akliṣṭa-karmaṇā).
 </details>
 </details>
 
@@ -1039,6 +1159,12 @@ nashiSyasi* = on getting, you ruin yourself.
 "Thereby, if you wish to make for any confrontation with Rama, despite of my
 proscribing you, you will ruin yourself on getting a disastrous calamity. [3-38-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, if despite being restrained by me (mayā vāryamāṇas tu) you wage war with Rāma (rāmeṇa vigrahaṃ kariṣyasi), you will swiftly incur dreadful calamities (āpadāṃ ghorāṃ kṣipraṃ prāpya) and will not survive (na śiṣyasi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1088,6 +1214,12 @@ disaster, also; *aahariSyasi* = you derive.
 "The demons are methodical in sporting and flirting, thus by their own conduct they
 are also socialising and frolicking, and to them you derive distress and disaster. [3-38-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And you will bring anguish and ruin (saṃtāpam anarthaṃ cāhariṣyasi) upon the rākṣasas, who are skilled in the ways of sport and pleasure (krīḍā-rati-vidhi-jñānām) and delight in festive assemblies (samājotsava-darśinām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1135,6 +1267,12 @@ will see.
 "Dense with skyscrapers and palaces, and decorated with many a gemstone is that city
 Lanka, but you will see it completely shattered down, for the sake of that Maithili. [3-38-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You will behold the city of Laṅkā—crowded with mansions and palaces (harmya-prāsāda-sambādhām) and adorned with manifold gems (nānā-ratna-vibhūṣitām)—destroyed on account of Maithilī (vinaṣṭāṃ maithilī-kṛte)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1180,6 +1318,12 @@ if; *shucayaH* = sinless ones; *paapa samshrayaat* = with sinners, by interdepen
 
 "Even if with uncommitted sins, the sinless will get ruined owing to their
 interdependence with other sinners, like the fish in a lake with snakes. [3-38-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even the pure (śucayaḥ) who commit no sins (akurvanto 'pi pāpāni) perish through the sins of others (para-pāpair vinaśyanti) on account of their association with the sinful (pāpa-saṃśrayāt), like fish in a serpent-infested pool (matsyā nāga-hrade yathā).
 </details>
 </details>
 
@@ -1229,6 +1373,12 @@ abhihataan drakSyasi* = to earth, trampled out, you are going to see.
 of the demons now, perchance you will be seeing them trampled out on ground for the blunder of
 yours. [3-38-27]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through your fault alone (tava doṣāt tu), you will behold the rākṣasas—their limbs anointed with celestial sandal-paste (divya-candana-digdhāṅgān) and adorned with celestial ornaments (divyābharaṇa-bhūṣitān)—struck down upon the ground (abhihatān bhūmau)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1277,6 +1427,12 @@ protector; *dasha dishaH* = to ten, directions; *vi dravataH* = verily, running 
 carnage in all ten directions, some abandoning their wives and some along with their wives, only
 for lack of a protector. [3-38-28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You will behold the surviving night-roamers (hata-śeṣān... niśācarān)—both those bereft of their wives and those accompanied by their wives (hṛta-dārān sadārāṃś ca)—fleeing shelterless in all ten directions (daśa vidravato diśaḥ... aśaraṇān)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1322,6 +1478,12 @@ you, will see; *a samshayam* = without, doubt.
 
 "Without a doubt you will be seeing Lanka encircled with an enmesh of arrows,
 enfolded in the tongues of torches, while her buildings are utterly gutting down. [3-38-29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without a doubt (asaṃśayam), you will behold Laṅkā enveloped in a net of arrows (śara-jāla-parikṣiptām), shrouded in tongues of fire (agni-jvālā-samāvṛtām), and with its mansions burned to ashes (pradagdha-bhavanām)!
 </details>
 </details>
 
@@ -1391,6 +1553,14 @@ iSTam jiivitam ca* = for yourself, dear, [your] life, also; *[raksha* = safeguar
 ethnos, thus safeguard dignity, affluence, and kingdom of demons, thereby safeguard even your own
 dear life. [3-38-31]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** There is no greater sin (nānyat pāpataraṃ mahat) than violating another's wife (para-dārābhimarśāt tu)! Thousands of fair women (pramadānāṃ sahasrāṇi), O King, are in your own household (tava... parigrahe).
+
+**31:** Be devoted to your own wives (bhava sva-dāra-nirataḥ); protect your lineage and the rākṣasas (sva-kulaṃ rakṣa rākṣasān), as well as your honor, prosperity, kingdom, and your own dear life (mānaṃ vṛddhiṃ ca rājyaṃ ca jīvitaṃ ceṣṭam ātmanaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1436,6 +1606,12 @@ long time, to enjoy; *icChasi yadi* = you desire, if; *raama vi priyam maa kR^it
 
 "If you desire to take pleasure with your beautiful wives and with your friend's
 circles for a long time, do not do anything undesirable to Rama. [3-38-32]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And your gentle wives (kalatrāṇi ca saumyāni) and circle of friends (mitra-vargaṃ tathaiva ca)—if you wish to enjoy [all these] for a long time (yadīcchasi ciraṃ bhoktum), do not commit any offense against Rāma (mā kṛthā rāma-vipriyam)!
 </details>
 </details>
 
@@ -1503,5 +1679,11 @@ of Rama." Thus, Maareecha spoke to Ravana. [3-38-33]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मुवत्तॆण्टनॆय सर्ग सम्पूर्णवायितु. ॥38॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If, though earnestly restrained by me, your friend (nivāryamāṇaḥ suhṛdā mayā bhṛśam), you forcibly violate Sītā (prasahya sītāṃ yadi dharṣayiṣyasi), then with your forces exhausted (kṣīṇa-balaḥ) and your life cast away by Rāma's arrows (rāma-śarāsta-jīvitaḥ), you together with your kinsmen (sabāndhavaḥ) will go to the abode of Yama (yama-kṣayam)!’
 </details>
 </details>

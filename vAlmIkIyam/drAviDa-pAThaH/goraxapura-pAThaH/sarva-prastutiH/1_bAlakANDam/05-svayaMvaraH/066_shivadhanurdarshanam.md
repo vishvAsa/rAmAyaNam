@@ -57,6 +57,14 @@ endnote.
 
 मरुदिन विमल प्रभातकाल उदयिसिदाग धर्मात्मा जनकनु तन्न नित्यकर्मवन्नु पूरैसि श्रीराम-लक्ष्मण सहित विश्वामित्ररन्नु करॆसि, शास्त्रक्कनुसार मुनियन्नु हागू महात्मराद इब्बरू राजकुमाररन्नु पूजिसि ई प्रकार हेळिदनु.॥1-2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then, at clear dawn (prabhāte vimale), having performed his morning ritual duties (kṛtakarmā), the lord of men summoned the high-souled Viśvāmitra together with the two Rāghavas (viśvāmitraṃ mahātmānam ājuhāva sarāghavam).
+
+**2:** Having worshipped him and the two high-souled Rāghavas with rites prescribed by the scriptures (śāstradṛṣṭena karmaṇā), the righteous-souled monarch then spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -99,6 +107,12 @@ I am biddable by you, indeed.
 
 Oh, god, you are welcome, oh, holy sage, bid me as to what I should for you, for
 I am biddable by you, indeed... [1-66-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O venerable lord, welcome to you (bhagavan svāgataṃ te ’stu)! What service may I render you, O sinless one (kiṃ karomi tavānagha)? Deign to command me, Your Reverence, for I am bound to obey your command (ājñāpyo bhavatā hy aham).”
 </details>
 </details>
 
@@ -148,6 +162,12 @@ with Raghava-s this far, and thus asked him as to what next is to be done,] that
 sage Vishvamitra, for he is presager and wordsmith, [and who knows what is to be
 done next,] said these words in reply to that valiant king Janaka. [1-66-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the high-souled Janaka, that righteous-souled foremost of sages, eloquent in speech (vākyaviśāradaḥ), spoke in reply:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -191,6 +211,12 @@ shreSTham* = desirous to see, marvellous bow; *yat etat tvayi tiSThati*
 These two are the sons of Dasharatha, well-renowned Kshatriya-s in world, and they
 are desirous to see that marvellous bow which has a place with you... [1-66-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“These two sons of Daśaratha, Kṣatriyas renowned throughout the worlds (kṣatriyau lokaviśrutau), desire to behold that supreme bow which abides here with you (draṣṭukāmau dhanuḥśreṣṭhaṃ yad etat tvayi tiṣṭhati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -231,6 +257,12 @@ sons [two princes]; *darshanaat asya dhanuSaH* = by beholding, that, bow;
 You may show that bow, well bodes you, and on beholding that bow the desire of
 these two princes will come true, and they will go back as they like... [1-66-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Show this bow to them, may good betide you (etad darśaya bhadraṃ te); when these two king’s sons have fulfilled their desire by beholding this bow (darśanād asya dhanuṣaḥ kṛtakāmau), they shall return according to their wish (yatheṣṭaṃ pratiyāsyataḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -270,6 +302,12 @@ here, it has a place.
 
 But Janaka replied the great sage Vishvamitra when he was addressed thus, "I shall
 [firstly] tell by which reason that bow has its place here... [1-66-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, Janaka spoke in reply to the great sage: “Hear the history of this bow, and for what purpose it abides here (śrūyatām asya dhanuṣo yad artham iha tiṣṭhati)!
 </details>
 </details>
 
@@ -328,6 +366,12 @@ Some mms use the word *jyeSTaH* instead of *SaSTa* for Nimi
 and then the meaning is that Nimi's eldest son is Devaraata. Basing on the account
 that is given by Janaka at the time of Rama's mariage with Seetha, Devaraata is
 the sixth one from Nimi, the originator of Janaka's lineage.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There was a lord of the earth renowned by the name of Devarāta, the eldest descendant of Nimi (nimer jyeṣṭho mahīpatiḥ); into the hand of that great-souled monarch, O venerable lord, this bow was given as a sacred trust (nyāso ’yaṃ tasya bhagavan haste datto mahātmanaḥ).
 </details>
 </details>
 
@@ -405,6 +449,14 @@ limbs [heads]; *mahaarhaaNi* = highly revered [heads]; *dhanuSaa shaatayaami*
 s, as I am also the] desirer of such portion, [thereby] I will shred the highly
 revered heads of yours with this bow...' [So said Shiva to gods.] [1-66-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** “Of old, at the destruction of Dakṣa’s sacrifice (dakṣayajñavadhe pūrvam), the mighty Rudra drew this bow (dhanur āyamya vīryavān), routed the gods in wrath (vidhvaṃsya tridaśān roṣāt), and spoke to them with effortless sportiveness (salīlam idam abravīt):
+
+**10:** “‘Since, O gods, you allotted no sacrificial share to me who sought my rightful share (yasmād bhāgārthino bhāgaṃ nākalpayata me surāḥ), I shall sever your precious heads with my bow (varāṅgāni mahārhāṇi dhanuṣā śātayāmi vaḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -453,6 +505,12 @@ became glad of them.
 
 Then, oh, best saint Vishvamitra, all gods are truly dismayed, and on their supplicating,
 Bhava, namely Shiva, the God of Gods is gladdened... [1-66-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon, O foremost of sages, all the gods, downcast in heart (vimanasaḥ sarve devāḥ), propitiated the Lord of the Gods (prasādayanta deveśam); and Bhava (Śiva) grew pleased with them (teṣāṃ prīto ’bhavad bhavaḥ).
 </details>
 </details>
 
@@ -505,6 +563,12 @@ Bhava, namely Shiva, the God of Gods is gladdened... [1-66-11]
 And that Sublime Soul Shiva gladly gave that bow to all of the great souled gods,
 and oh, godly saint, then those great souled gods gave this gem of a bow of Shiva,
 the God of Gods, to our ancestor [Devaraata,] for custodial care... [1-66-12, 13a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Filled with affection, he bestowed upon those high-souled gods that bow (prītiyuktas tu sarveṣāṃ dadau teṣāṃ mahātmanām); and this same jewel of a bow belonging to the great-souled God of Gods (tad etad devadevasya dhanūratnaṃ mahātmanaḥ)—
 </details>
 </details>
 
@@ -589,6 +653,14 @@ exchanged, which has slowly developed into a mega havoc these days. Here Janaka
 wants the 'valour' of his prospective son-in-law as bounty due to him in the marriage
 of Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “—was then deposited by the gods as a sacred trust with our mighty royal ancestor (nyāsabhūtaṃ tadā nyastam asmākaṃ pūrvaje vibhau). Thereafter, while I was plowing the sacrificial ground, she rose up behind the plowshare (atha me kṛṣataḥ kṣetraṃ lāṅgalād utthitā tataḥ)—
+
+**14:** “—and being found by me as I was clearing and purifying the sacrificial field, she became renowned by the name of ‘Sītā’ (kṣetraṃ śodhayatā labdhā nāmnā sīteti viśrutā). Risen from the surface of the earth, she grew up as my own daughter (bhūtalād utthitā sā tu vyavardhata mamātmajā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -640,6 +712,12 @@ Oh, eminent sage, as my daughter has surfaced from the surface of earth and has
 come of age, the kings, [having heard my declaration that the bounty for Seetha
 is boldness alone,] have come and besought for her... [1-66-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Not born from a womb (ayonijā), this maiden of mine has been established with heroic valour as her bride-price (vīryaśulketi me kanyā sthāpiteyam). And as that daughter of mine, risen from the earth, grew to maidenhood—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -679,6 +757,12 @@ sage; *na dadaami sutaam aham* = I do not give daughter.
 
 To all of those kings who are beseeching for the girl, I have not given my daughter,
 saying that she will be given for a bounty of boldness... [1-6-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—kings came and sought her hand in marriage, O foremost of sages (varayām āsur āgatya rājāno munipuṃgava). Unto all those lords of the earth who sought the maiden’s hand—
 </details>
 </details>
 
@@ -727,6 +811,12 @@ _________________
 
 Then all the kings convoked and on arriving at Mithila, then they wanted to ascertain
 the calibre [of the bow, vis-a-vis their own...] [1-66-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—I did not give my daughter, O venerable lord, declaring that her bride-price is heroic valour (vīryaśulketi bhagavan na dadāmi sutām aham). Thereafter all the kings assembled together, O foremost of sages—
 </details>
 </details>
 
@@ -786,6 +876,12 @@ sapta-R^iSi* 'Seven Sages...' issues a curse to Seetha, saying that 'Seetha
 will be separated from her husband for some time, of course, for the good of people...'
 So says the tradition.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and coming to Mithilā, desired to test its weight and their own strength (vīryaṃ jijñāsavas tadā). As they sought to test their strength, that bow of Śiva was brought before them (teṣāṃ jijñāsamānānāṃ śaivaṃ dhanur upāhṛtam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -831,6 +927,12 @@ Oh, great saint, on knowing the valour of those valorous ones as valueless, I co
 them... oh, ascetically wealthy Vishvamitra, by that you may know [the sequel of
 it...] [1-66-19b, 20a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—yet they were incapable of grasping that bow or even lifting it to test its weight (na śekur grahaṇe tasya dhanuṣas tolane ’pi vā). Perceiving the paltry might of those mighty-seeming suitors, O great sage (teṣāṃ vīryavatāṃ vīryam alpaṃ jñātvā mahāmune)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -870,6 +972,12 @@ valour.
 
 Then, oh, eminent sage, those kings beleaguered Mithila in a blind fury, since
 a self-mistrust bechanced among them all, about their own valour... [1-66-20b, 21a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—those kings were rejected by me; hear what followed thereupon, O sage rich in austerity (pratyākhyātā nṛpatayas tan nibodha tapodhana)! Then, in supreme wrath, O foremost of sages, all the kings—
 </details>
 </details>
 
@@ -952,6 +1060,12 @@ On reverencing Vishvamitra and the noble souled Raghava-s according to the forma
 envisaged by scriptures, then the virtue souled Janaka spoke these words, indeed.
 [1-66-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—besieged Mithilā, having fallen into doubt and humiliation regarding their own prowess (arundhan mithilāṃ sarve vīryasaṃdeham āgatāḥ). Deeming themselves spurned and slighted by me, those bulls among kings (ātmānam avadhūtaṃ me vijñāya nṛpapuṃgavāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -994,6 +1108,12 @@ aham bhR^ishaduHkhitaH* = thereby, I was, highly anguished.
 
 Then elapsed is an year and in anyway the possessions for livelihood went into
 a decline, oh, eminent sage, thereby I am highly anguished [1-66-22b, 23a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—filled with mighty rage, harassed the city of Mithilā (roṣeṇa mahatāviṣṭāḥ pīḍayan mithilāṃ purīm). Then, when a full year had elapsed, all my defensive stores and provisions were utterly exhausted (tataḥ saṃvatsare pūrṇe kṣayaṃ yātāni sarvaśaḥ)—
 </details>
 </details>
 
@@ -1040,6 +1160,12 @@ gladdened and gave me fourfold forces... [1-66-23b, 24a]
 Comment: The four components of army are foot soldiers, cavalry, elephant-squadrons,
 and chariot-warriors.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—all my means of defence, O foremost of sages, whereat I was sorely distressed in heart (sādhanāni muniśreṣṭha tato ’haṃ bhṛśaduḥkhitaḥ). Thereupon I propitiated all the hosts of the gods through austerity (tato devagaṇān sarvāṃs tapasāhaṃ prasādayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1081,6 +1207,12 @@ viiryasandigdhaaH* = self-mistrustful [of their own valour] of valour; *paapakaa
 Then those evildoers and self-mistrustful kings while being drubbed [by the heaven-sent
 army, they have become] vigourless and broken, and they beat a hasty retreat...
 [1-66-24b, 25a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Supremely pleased, the gods bestowed upon me a fourfold army (daduś ca paramaprītāś caturaṅgabalaṃ surāḥ); whereupon those wicked kings, routed and struck down, fled in all directions (tato bhagnā nṛpatayo hanyamānā diśo yayuḥ)—
 </details>
 </details>
 
@@ -1131,6 +1263,12 @@ at verse 4 'what can I do next...' etc., Janaka has sensed as to why this Vishva
 brought some boys on this long a route, that too by foot. But he is not yet self-assured
 of Rama's capability or otherwise. Hence, the next verse starts with the clause
 'if'.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—stripped of their valour, doubting their own prowess, together with their ministers, those evildoers (avīryā vīryasaṃdigdhāḥ sāmātyāḥ pāpakāriṇaḥ)! That same supremely radiant bow, O tiger among sages (tad etan muniśārdūla dhanuḥ paramabhāsvaram)—
 </details>
 </details>
 
@@ -1184,6 +1322,12 @@ whose birth is non-uterine, to Dasharatha's Rama..." [So said Janaka to Vishvami
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि अरवत्तारनॆय सर्ग पूर्णवायितु.॥66॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—I shall now show to Rāma and Lakṣmaṇa as well, O sage of noble vows (rāmalakṣmaṇayoś cāpi darśayiṣyāmi suvrata)! If Rāma should accomplish the stringing of this bow, O sage (yady asya dhanuṣo rāmaḥ kuryād āropaṇaṃ mune), I shall bestow my womb-unborn daughter Sītā upon the son of Daśaratha (sutām ayonijāṃ sītāṃ dadyāṃ dāśarather aham)!”
 </details>
 </details>
 

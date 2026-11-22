@@ -72,6 +72,12 @@ thus, became senseless; *sanj~naavaan idam abraviit* = said this gaining senses.
 On hearing what is spoken by Vishvamitra the tigerly-king Dasharatha became insensate for
 a time, and on redeeming senses he said this. [1-20-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of Viśvāmitra (asking for Rāma to slay the sacrifice-obstructing rākṣasas), that tiger among kings lost consciousness for a moment as it were (muhūrtam iva niḥsaṃjñaḥ); then, regaining his senses (saṃjñāvān), he spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -155,6 +161,12 @@ is not to be reckoned' As such, though Rama appears to be under aged he can do w
 eliminating the vice. This is again rounded off with Vishvamitra's wording in last chapter:
 *aham vedmi mahaatmaanam raamam raajiivalocanam*.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My lotus-eyed Rāma is less than sixteen years of age (ūnaṣoḍaśavarṣo me rāmo rājīvalocanaḥ); I do not see in him the fitness to wage battle against the rākṣasas (na yuddhayogyatām asya paśyāmi saha rākṣasaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -210,6 +222,12 @@ One *pankti* row, is the first unit of ancient military, which consists of 1 cha
 troop, which consists of 21,870 chariots and the same number of elephants, 65,610 cavalry,
 and 1,09,350 of foot soldiers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Here is this full akṣauhiṇī army of which I am the protector and sovereign lord (iyam akṣauhiṇī senā yasyāhaṃ patir īśvaraḥ); marching forth accompanied by this host, I myself shall fight against those night-prowlers (yoddhāhaṃ tair niśācaraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -252,6 +270,12 @@ brave ones, also; *vikraantaaH* = daring ones; *astravishaaradaaaH* = experts in
 ones to combat the hordes of demons, but, it will be ungentle of you to take Rama with you.
 [1-20-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+These heroic and valiant warriors of mine are deeply skilled in missiles (ime śūrāś ca vikrāntā bhṛtyā me ’straviśāradāḥ) and are well-fitted to fight against the hordes of rākṣasas; you ought not to take Rāma away (na rāmaṃ netum arhasi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -291,6 +315,12 @@ yotsye* = I war with nightwalkers [demons] .
 
 "I alone with bow in my hand can protect your ritual, and as long as I bear my lives so long
 I war with those nightwalkers staying in the van of war. [1-20-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I myself, bow in hand, shall stand as the protector of your sacrifice in the vanguard of battle (aham eva dhanuṣpāṇir goptā samaramūrdhani); for so long as I shall hold my vital breaths, I shall fight with the night-prowlers (yāvat prāṇān dhariṣyāmi tāvad yotsye niśācaraiḥ).
 </details>
 </details>
 
@@ -337,6 +367,12 @@ impediments; *bhaviSyati* = it will be; *raamam netum na arhasi* = inapt of you 
 
 " I myself wish to come over there thereby the works of ritual will be well-guarded and unimpeded,
 but, taking Rama with you will be ungracious of you. [1-20-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus guarded well by me, that sacrificial vow of yours shall proceed free of all obstacles (nirvighnā vratacaryā sā bhaviṣyati surakṣitā). I myself shall go thither; you ought not to take Rāma away (ahaṃ tatra gamiṣyāmi na rāmaṃ netum arhasi)!
 </details>
 </details>
 
@@ -392,6 +428,12 @@ it.
 strengths and weaknesses of opponents - no; has he got the equipage of arsenal - no; has he
 any expertise in warfare - no; is he an equal to the demons - no; be that as it may, those
 demons definitely conduct a deceitful warfare, isn't it. [1-19-7, 8a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He is still a tender boy, his martial training not yet complete (bālo hy akṛtavidyaś ca), nor does he know how to gauge the comparative strength and weakness of foes (na ca vetti balābalam); he is neither equipped with the power of celestial missiles (na cāstrabalasaṃyuktaḥ) nor experienced in pitched battle (na ca yuddhaviśāradaḥ).
 </details>
 </details>
 
@@ -458,6 +500,14 @@ him off along with me, and along with my four kinds of troops. [1-20-9b, 10a]
 
 The four kinds of troops are: chariots, elephants, cavalry, and foot soldiers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Nor is he a match for the rākṣasas, for the rākṣasas fight by treacherous magic and illusion (kūṭayuddhā hi rākṣasāḥ). Separated from Rāma, I cannot bear even for a single muhūrta (viprayukto hi rāmeṇa muhūrtam api notsahe)—
+
+**9:** To remain alive, O tiger among sages! You ought not to take Rāma away (jīvituṃ muniśārdūla na rāmaṃ netum arhasi)! Or if, O Brāhmaṇa of noble vows, you are resolved upon taking Rāghava (yadi vā rāghavaṃ brahman netum icchasi suvrata),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -506,6 +556,12 @@ with you.
 at this age, that too with tribulations, hence taking Rama with you will be inappropriate
 of you. [1-20-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then take him accompanied by a fourfold army and together with me as well (caturaṅgasamāyuktaṃ mayā saha ca taṃ naya)! Sixty thousand years have passed since my birth, O Kauśika (ṣaṣṭir varṣasahasrāṇi jātasya mama kauśika),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,6 +603,12 @@ unapt of you to take Rama with you.
 "I will have exceptional affection for all of my four sons, isn't it, and among them Rama
 has a significance in the matter of his descent as an eldest son, hence taking Rama with you
 will be unjust of you. [1-20-11b, 12a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And this son was begotten by me through great hardship and penance (kṛcchreṇotpāditaś cāyam); you ought not to take Rāma away! For among all my four sons, my supreme and fondest love (prītiḥ paramikā mama)—
 </details>
 </details>
 
@@ -605,6 +667,14 @@ pratikartavyam* = how to, retaliate.
 "Oh, Brahman, how Rama, or my forces, or I myself have to retaliate those demons that are
 deceitful militants. [1-20-13b, 14a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** Rests upon him, the eldest and the chief upholder of dharma (jyeṣṭhe dharmapradhāne ca); you ought not to take Rāma away! Of what might are those rākṣasas, whose sons are they, and who are they by name (kiṃvīryā rākṣasās te ca kasya putrāś ca ke ca te)?
+
+**13:** Of what stature and measure are they, and who protects them at their head, O foremost of sages (kathaṃpramāṇāḥ ke caitān rakṣanti munipuṃgava)? And how are those rākṣasas to be countered by Rāma (kathaṃ ca pratikartavyaṃ teṣāṃ rāmeṇa rakṣasām),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -631,6 +701,12 @@ deceitful militants. [1-20-13b, 14a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मन्! नन्न सैनिकरिगॆ अथवा स्वतः ननगॆ आ मायावी राक्षसर प्रतीकार हेगॆ माडबेकु इवॆल्लवन्नु ननगॆ तिळिसिरि. पूज्यरे! अदु राक्षसरन्नु युद्धदल्लि नानु दुष्टरन्नु हेगॆ ऎदुरिसबेकु तिळिसिरि, एकॆन्दरॆ राक्षसरु तुम्बा बलाढ्यरागिरुत्तारॆ.॥14½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Or by my armies, O Brāhmaṇa, or by myself in battle against those treacherous fighters (māmakair vā balair brahman mayā vā kūṭayodhinām)? Tell me all of this in full, O venerable lord: how am I to stand in battle (kathaṃ teṣāṃ mayā raṇe)—
 </details>
 </details>
 
@@ -721,6 +797,16 @@ so.
 "Unequivocally that chief of demons is the brother of Kubera and the son of sage Vishravasa,
 thus we hear. [1-20-17b, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** Against those evil-natured beings, for the rākṣasas are puffed up with their own might (sthātavyaṃ duṣṭabhāvānāṃ vīryotsiktā hi rākṣasāḥ)?” Hearing those words of the King, Viśvāmitra replied (tasya tad vacanaṃ śrutvā viśvāmitro ’bhyabhāṣata):
+
+**16:** “There is a rākṣasa named Rāvaṇa, sprung from the lineage of Sage Pulastya (paulastyavaṃśaprabhavo rāvaṇo nāma rākṣasaḥ). Granted a boon by Lord Brahmā, he sorely afflicts the three worlds (sa brahmaṇā dattavaras trailokyaṃ bādhate bhṛśam),
+
+**17:** Possessed of mighty strength and vast valor, and surrounded by multitudes of rākṣasas (mahābalo mahāvīryo rākṣasair bahubhir vṛtaḥ). This Rāvaṇa, the overlord of the rākṣasas, O great King, is renowned throughout the world (śrūyate ca mahārāja rāvaṇo rākṣasādhipaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -769,6 +855,14 @@ Subaahu, also; *tau mahaabalau raakShasau tu* = those, very mighty, demons, but;
 demons called Mareecha and Subaahu will cause devastating hindrances to rituals, instigated
 by him." Thus Sage Vishvamitra said to Dasharatha. [1-20-18b, 19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** As the own uterine brother of Vaiśravaṇa (Kubera) and the son of Sage Viśravas (sākṣād vaiśravaṇabhrātā putro viśravaso muneḥ). When that mighty lord does not himself come in person to obstruct a sacrifice (yadā na khalu yajñasya vighnakartā mahābalaḥ),
+
+**19:** Impelled by him, those two rākṣasas of exceeding might, Mārīca and Subāhu, will obstruct the sacrifice (mārīcaś ca subāhuś ca yajñavighnaṃ kariṣyataḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -811,6 +905,12 @@ Thus when he is said so by that sage Vishvamitra, then the king Dasharatha spoke
 "I myself am not capable of standing against that evil minded Ravana, in truth, where is the
 question of deputing my young Rama to confront him? [1-20-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by that sage, the King then spoke to the sage: “Indeed I am not able to stand in battle against that evil-souled one (na hi śakto ’smi saṃgrāme sthātuṃ tasya durātmanaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -852,6 +952,12 @@ less fortunate one, me, also, thus; *prasaadam kuruSva* = benevolence, you besto
 boyish son, as well on a less fortunate one like me too, and as our mentor you are indeed
 a god of ours. [1-20-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, O knower of dharma, do you show grace toward my little son (sa tvaṃ prasādaṃ dharmajña kuruṣva mama putrake)! For to me, of scant fortune as I am, you are my very deity and preceptor (mama caivālpabhāgyasya daivataṃ hi bhavān guruḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -891,6 +997,12 @@ capable of; *kim punaH maanavaaH*= why, again [tell, about] humans.
 
 "Gods, demons, celestial beings like gandharva-s, yaksha-s, winged and reptile beings
 are incapable to bear the brunt of that Ravana in fight, why tell again about humans. [1-20-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even the gods, Dānavas, Gandharvas, Yakṣas, birds (Garuda and his race), and serpents are unable to withstand Rāvaṇa in battle—how much less mere mortal men (na śaktā rāvaṇaṃ soḍhuṃ kiṃ punar mānavā yudhi)!
 </details>
 </details>
 
@@ -938,6 +1050,12 @@ are incapable to bear the brunt of that Ravana in fight, why tell again about hu
 either with my entire forces, or with all my sons I am inadequate to grapple with all his
 forces, or with him, individually. [1-20-23, 24a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For that Rāvaṇa snatches away the very valor of the valiant in battle (sa tu vīryavatāṃ vīryam ādatte yudhi rāvaṇaḥ). Therefore I am unable to contend in battle either with him or with his forces (tena cāhaṃ na śakto ’smi saṃyoddhuṃ tasya vā balaiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -978,6 +1096,12 @@ a boy]; *sangraamaaNaam* = in wars; *akovidam* = not experienced; *baalam*
 "My boyish son is godlike and unfledged in warfare, oh, Brahman, and he is the one who alleviates
 me from punnama naraka the hell of sonless fathers... no, I cannot
 spare my son in anyway. [1-20-24b, 25a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whether accompanied by my army, O foremost of sages, or together with my sons (sabalo vā muniśreṣṭha sahito vā mamātmajaiḥ). How then could I possibly hand over my tender son, godlike in beauty yet unacquainted with battles (katham apy amaraprakhyaṃ saṃgrāmāṇām akovidam)—
 </details>
 </details>
 
@@ -1026,6 +1150,14 @@ war, Death-god in simile; *putrakam na eva daasyaami* = not in any way I spare m
 and the descendents of the earliest demons and subverters of rituals, namely Sunda and Upasunda,
 no, I cannot spare my son, in any case. [1-20-25b, 26a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** My young child, O Brāhmaṇa? I will never give away my little son (bālaṃ me tanayaṃ brahman naiva dāsyāmi putrakam)! Moreover, those two sons of Sunda and Upasunda are like Death himself in battle (atha kālopamau yuddhe sutau sundopasundayoḥ)—
+
+**26:** Those two obstructors of your sacrifice! I will never give away my little son to you (yajñavighnakarau tau te naiva dāsyāmi putrakam)! Both Mārīca and Subāhu are mighty in valor and thoroughly trained in warfare (mārīcaś ca subāhuś ca vīryavantau suśikṣitau);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1069,6 +1201,12 @@ friendly forces; *tayoH anyataram yoddhum* = to war with one only [either of the
 friendly forces to war with either of those two demons, otherwise, I along with all my relatives
 implore upon you for your exoneration in my failure to comply my own promises. [1-20-26b,
 27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Against either one of those two I shall march forth to fight along with my host of friends and allies (tayor anyataraṃ yoddhuṃ yāsyāmi sasuhṛdgaṇaḥ); or else, accompanied by my kinsmen, I shall humbly entreat and propitiate you (anyathā tv anuneṣyāmi bhavantaṃ sahabāndhavaḥ).”
 </details>
 </details>
 
@@ -1138,6 +1276,12 @@ and which is drenched with a lot of clarified butter, whereby it is flaring up i
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि इप्पत्तनॆय सर्ग पूर्णवायितु. ॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At this wild and incoherent prattle of the monarch (iti narapatijalpanāt), a towering wrath entered the foremost of twice-born sages, the son of Kuśika (dvijendraṃ kuśikasutaṃ sumahān viveśa manyuḥ); like a sacrificial fire well-fed with dry fuel in a rite and drenched with clarified butter, the fire of that great sage blazed up fiercely (samabhavad ujjvalito maharṣivahniḥ).
 </details>
 </details>
 

@@ -75,6 +75,12 @@ On listening the narration of Vishvamitra, Rama, the delighter of Raghu's
  dynasty is highly rejoiced, and at the end of the episode he spoke to
  sage whose glow is fire like. [1-39-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Viśvāmitra at the conclusion of that episode (kathānte), the delight of the Raghus, supremely pleased (paramaprītaḥ), spoke to the sage who shone like a blazing fire (muniṃ dīptam ivānalam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ On listening the narration of Vishvamitra, Rama, the delighter of Raghu's
 I am interested to listen this episode exhaustively, oh, Brahman, let
  good betide you, how my ancestor Sagara had completed the Vedic-ritual,
  really. [1-39-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May auspiciousness attend you (bhadraṃ te)! I desire to hear this narrative in full detail (śrotum icchāmi vistareṇa kathām imām): how, O Brāhmaṇa, did my royal ancestor perform that sacrifice (pūrvajo me kathaṃ brahman yajñaṃ vai samupāharat)?”
 </details>
 </details>
 
@@ -169,6 +181,12 @@ On listening the words of Rama that are inclusive of his inquisitiveness,
  Sage Vishvamitra smilingly spoke to that descendent of Kakutstha, "oh,
  Rama, let the episode of the great-souled Sagara be listened vividly."
  Vishvamitra thus commenced to narrate that episode. [1-39-3, 4a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of his, Viśvāmitra, filled with eager delight (kautūhalasamanvitaḥ), spoke to Kākutstha as though smiling brightly (uvāca prahasann iva):
 </details>
 </details>
 
@@ -244,6 +262,14 @@ Oh, best one among men, Rama, that Vedic-ritual of Sagara started
  and oh, tigerly-man Rama, that area is renowned for Vedic-rituals, isn't
  it! [1-39-5b, 6a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** “Listen, O Rāma, to the detailed account of the high-souled Sagara (śrūyatāṃ vistaro rāma sagarasya mahātmanaḥ)! The mountain renowned by the name of Himavān, the father-in-law of Śaṅkara (śaṃkaraśvaśuro nāmnā himavān iti viśrutaḥ)—
+
+**5:** “—stretching toward the Vindhya mountain range, gazes upon it face to face (vindhyaparvatam āsādya nirīkṣete parasparam); in the sacred plain between those two ranges (tayor madhye), O best of men, that sacrifice took place (samabhavad yajñaḥ sa puruṣottama).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -295,6 +321,12 @@ Oh, dear sire Rama, the grandson of Sagara and the son of exiled Asamanja
 
 Details regarding the release of horse are at Bala Kanda 1-14-1
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For that region, O tiger among men, is celebrated as supremely auspicious for sacrificial rites (sa hi deśo naravyāghra praśasto yajñakarmaṇi). In that sacrifice, O Kākutstha, the great chariot-warrior of firm bow (dṛḍhadhanvā mahārathaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -340,6 +372,12 @@ _________________
 And on the day of a sacred function called ukthyam
  , Indra assumed the form of a demon and stole the ritual horse of the
  chief of the ritual, namely Sagara. [1-39-7b, 8a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—Aṃśumān, O dear one, abiding by Sagara’s command (sagarasya mate sthitaḥ), discharged the duty of escorting the sacrificial horse (tasyāśvacaryām akarot). While that monarch was performing the sacrifice at the sacred parvan juncture (tasya parvaṇi taṃ yajñaṃ yajamānasya), Vāsava (Indra)—
 </details>
 </details>
 
@@ -436,6 +474,16 @@ While that ritual-horse of the great-souled Sagara is stolen, all the
  fault in proceedings of the ritual.' The religious-teachers of Sagara
  have advised him in this way. [1-39-10b, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “—assuming the form of a rākṣasa, carried off the sacrificial steed (rākṣasīṃ tanum āsthāya yajñiyāśvam apāharat). When that horse of the high-souled king was being abducted (hriyamāṇe tu tasminn aśve), O Kākutstha—
+
+**9:** “—all the assemblies of officiating priests thereupon spoke to the sacrificer (upādhyāyagaṇāḥ sarve yajamānam athābruvan): ‘Here at the very parvan juncture, the sacrificial horse is being swiftly carried away (ayaṃ parvaṇi vegena yajñiyāśvo ’panīyate)!
+
+**10:** “‘Slay the abductor, O Kākutstha, and let the steed be brought back at once (hartāraṃ jahi kākutstha hayaś caivopanīyatām)! This ritual breach in the sacrifice brings calamity upon us all (yajñacchidraṃ bhavaty etat sarveṣām aśivāya naḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -505,6 +553,14 @@ On hearing the words of religious-teachers that king Sagara indeed
  since oh, best ones among men, holy-sanctifiers who themselves are sanctified
  by the Vedic-hymns are conducting this glorious Vedic-ritual, isn't
  it. [1-39-12b, 13a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “‘Therefore, O King, let such action be taken that the sacrifice may be rendered free of defect (tat tathā kriyatāṃ rājan yajño ’cchidraḥ kṛto bhavet)!’ Hearing the words of the preceptors and priests in that sacrificial assembly, the monarch (sopādhyāyavacaḥ śrutvā tasmin sadasi pārthivaḥ)—
+
+**12:** “—spoke this command to his sixty thousand sons (ṣaṣṭiṃ putrasahasrāṇi vākyam etad uvāca ha): ‘O bulls among men, O my sons, I perceive no access for rākṣasas here (gatiṃ putrā na paśyāmi rakṣasāṃ puruṣarṣabhāḥ)—
 </details>
 </details>
 
@@ -580,6 +636,16 @@ _________________
  earth, by my order you dig up the earth until the appearance of the
  horse, while searching for the stealer of that horse. [1-39-14b, 15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “‘—for this great sacrifice is presided over by high-souled sages sanctified by Vedic mantras (mantrapūtair mahābhāgair āsthito hi mahākratuḥ)! Therefore go forth and search thoroughly, O my sons; may auspiciousness attend you (tad gacchata vicinvadhvaṃ putrakā bhadram astu vaḥ)!
+
+**14:** “‘Traverse the entire earth garlanded by the oceans (samudramālinīṃ sarvāṃ pṛthivīm anugacchatha); proceed across its expanse, O my sons, searching one yojana after another (ekaikaṃ yojanaṃ putrā vistāram abhigacchata).
+
+**15:** “‘Until the steed is sighted, dig up the earth itself (yāvat turagasaṃdarśas tāvat khanata medinīm), tracking down that very abductor of the horse by my royal command (tam eva hayahartāraṃ mārgamāṇā mamājñayā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -623,6 +689,12 @@ _________________
  appears, as I am under vow of the ritual.' Thus Sagara instructed to
  his sixty thousand sons and stayed back at the ritual place. [1-39-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Consecrated for the sacrifice (dīkṣitaḥ), accompanied by my grandson Aṃśumān and the assembly of officiating preceptors (pautrasahitaḥ sopādhyāyagaṇas tv aham), I shall remain right here until the horse is seen (iha sthāsyāmi yāvat turagadarśanam); may auspiciousness attend you!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -664,6 +736,12 @@ _________________
 
 Animated by their father's words those great-mighty princes enthusiastically
  proceeded onto earth's surface in the preliminary round of search. [1-39-1]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bound by their father’s command (pitur vacanayantritāḥ), O Rāma, all those mighty princes, their hearts filled with eager zeal (hṛṣṭamanaso rājaputrā mahābalāḥ), set forth across the surface of the earth (jagmur mahītalam).
 </details>
 </details>
 
@@ -726,6 +804,12 @@ But, oh, tigerly-man Rama, on going round the earth in its entirety
  surface of earth with their arms that have the touch of the diamonds.
  [1-39-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having traversed the entire earth without sighting that steed (gatvā tu pṛthivīṃ sarvām adṛṣṭvā tam), those tigers among men of mighty strength (puruṣavyāghrā mahābalāḥ), with arms whose impact matched the thunderbolt (vajrasparśasamair bhujaiḥ), cloven the surface of the earth, each excavating a trench one yojana in length and breadth (yojanāyāmavistāram ekaiko dharaṇītalaṃ bibhiduḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -766,6 +850,12 @@ But, oh, tigerly-man Rama, on going round the earth in its entirety
 
 Mother Earth bewailed while she is ruptured with spears also that are
  similar to thunderbolts, besides with very gruelling ploughs. [1-39-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rent asunder by tridents resembling thunderbolts (śūlair aśanikalpaiś ca) and by dreadful plowshares (halaiś cāpi sudāruṇaiḥ), the earth cried out in anguish (bhidyamānā vasumatī nanāda), O delight of the Raghus!
 </details>
 </details>
 
@@ -818,6 +908,12 @@ Oh, Raghava, there emerged an unbearable rumpus from the serpents,
  asura-s, demons, and other beings living underneath the surface of earth,
  while they are killed during hollowing the earth. [1-39-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As the Nāgas, Asuras, and Rākṣasas were being slaughtered (nāgānāṃ vadhyamānānām asurāṇāṃ ca rākṣasānām), O Rāghava, a terrifying uproar arose from those subterranean beings (durādharṣaṃ sattvānāṃ ninado ’bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -860,6 +956,12 @@ Oh, Rama, the legatee of Raghu's dynasty, thus sixty thousand square
  yojana-s of the earth is dug over, so as to make the earth's outermost
  plane as the unsurpassed rasaatala, the
  sixth subterranean and the nethermost plane. [1-39-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Across sixty thousand yojanas (yojanānāṃ sahasrāṇi ṣaṣṭiṃ tu), O delight of the Raghus, they cloven the earth, O Rāma, right down to the peerless netherworld of Rasātala (bibhidur dharaṇīṃ rāma rasātalam anuttamam).
 </details>
 </details>
 
@@ -913,6 +1015,12 @@ The *jambudwiipa* is a continent according to Hindu mythology
  are *jambu- plakSha - shaalmali- kusha - kraunca - shaka - puSkara*,
  and *jambudwiipa* is one among them.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus excavating Jambūdvīpa, crowded as it was with mountain ranges (evaṃ parvatasaṃbādhaṃ jambūdvīpaṃ khanantaḥ), the king’s sons, O tiger among kings, roamed everywhere in every direction (nṛpātmajāḥ sarvataḥ paricakramuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -958,6 +1066,12 @@ All the gods along with gandharva-s, asura-s, and reptiles who are
  distraught at heart for the plight of earth have approached the Forefather,
  Brahma. [1-39-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon the gods, together with the Gandharvas, Asuras, and mighty serpents (tato devāḥ sagandharvāḥ sāsurāḥ sahapannagāḥ), their minds bewildered with alarm (saṃbhrāntamanasaḥ sarve), approached the Grandfather Brahmā (pitāmaham upāgaman).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1000,6 +1114,12 @@ They the gods who are very highly scared, and who are chap-fallen,
  then spoke this sentence to the great-souled Forefather Brahma on gaining
  his grace. [1-39-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Propitiating that high-souled Creator with downcast countenances (te prasādya mahātmānaṃ viṣaṇṇavadanās tadā), they spoke these words to the Grandfather in utter terror (ūcuḥ paramasaṃtrastāḥ pitāmaham idaṃ vacaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1041,6 +1161,12 @@ They the gods who are very highly scared, and who are chap-fallen,
 
 'Oh, god Brahma, the sons of Sagara are digging entire earth, thus
  aquatic beings and many great-souls are being destroyed. [1-39-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O Lord, the entire earth is being dug up by the sons of Sagara (bhagavan pṛthivī sarvā khanyate sagarātmajaiḥ), and many high-souled aquatic and subterranean beings are being slain (bahavaś ca mahātmāno vadhyante jalacāriṇaḥ)!
 </details>
 </details>
 
@@ -1095,6 +1221,12 @@ They the gods who are very highly scared, and who are chap-fallen,
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तॊम्भत्तने सर्ग पूर्णवायितु.॥39॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Crying, “This one is the destroyer of our sacrifice! By this one our horse was carried off!” (ayaṃ yajñaharo ’smākam anenāśvo ’panīyate), those sons of Sagara are slaughtering all creatures (iti te sarvabhūtāni hiṃsanti sagarātmajāḥ)!’”
 </details>
 </details>
 

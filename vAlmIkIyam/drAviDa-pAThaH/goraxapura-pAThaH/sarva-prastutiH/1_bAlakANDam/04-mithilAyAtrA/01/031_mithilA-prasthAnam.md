@@ -77,6 +77,12 @@ Rejoicing for achieving the result of their journey with Vishvamitra, the brave
 Rama and Lakshmana then resided in that hermitage for that night, gladdening in
 their heart of hearts. [1-31-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having accomplished their purpose (kṛtārthau), those two joyful heroes Rāma and Lakṣmaṇa (muditau vīrau rāmalakṣmaṇau) spent that night there (tāṃ rajanīṃ tatra ūṣatuḥ) with deeply gladdened hearts (prahṛṣṭenāntarātmanā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -124,6 +130,12 @@ When that night turned into a new day, performing their morning chores both of t
 brother jointly approached Sage Vishvamitra, who is along with other sages by then.
 [1-31-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the night had dawned (prabhātāyāṃ tu śarvaryām), having performed their morning purificatory rites (kṛtapaurvāhṇikakriyau), the two brothers together (sahitau) approached Viśvāmitra and the other sages (viśvāmitram ṛṣīṃś cānyān abhijagmatuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -170,6 +182,12 @@ uucatuH* = highly, courteous, sentence, they spoke.
 And those gentle-speakers on reverencing that eminent sage Vishvamitra, whose radiance
 is akin to the ritual-fire, they two spoke this highly courteous sentence to him.
 [1-31-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reverently saluted that foremost of sages (abhivādya muniśreṣṭham), who blazed like a flaming fire (jvalantam iva pāvakam), the two sweet-spoken princes (madhurabhāṣiṇau) spoke words of supreme nobility (ūcatuḥ paramodāraṃ vākyam):
 </details>
 </details>
 
@@ -223,6 +241,12 @@ order is to be carried out further, oh, eminent saint, that you may order us. [1
 
 ततः प्रभाते महर्षयः -
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here we two stand, O tiger among sages (imau sma muniśārdūla), arrived before you as your obedient servants (kiṅkarau samupāgatau)! Command us, O foremost of ascetics (ājñāpaya muniśreṣṭha): what order shall we execute (śāsanaṃ karavāva kim)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,6 +296,12 @@ _________________
 When they have said that way all those great sages spoke to Rama, keeping Vishvamitra
 at the helm of affairs. [1-31-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When those words had been spoken by the two princes (evam ukte tayor vākye), all the great sages (sarva eva maharṣayaḥ), placing Viśvāmitra at their head (viśvāmitraṃ puraskṛtya), addressed this speech to Rāma (rāmaṃ vacanam abruvan):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,6 +347,12 @@ Vedic-ritual; *bhaviSyati* = is going to take place; *vayam tatra yaasyaamahe*
 
 "Oh, best one among men, a highly righteous Vedic ritual belonging to King Janaka
 of Mithila is going to take place, and we the sages are going over there. [1-31-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O best of men (naraśreṣṭha), a supremely righteous sacrifice (yajñaḥ paramadharmiṣṭhaḥ) of Janaka, the lord of Mithilā (maithilasya janakasya), is about to take place (bhaviṣyati); we shall journey there (tatra yāsyāmahe vayam).
 </details>
 </details>
 
@@ -392,6 +428,12 @@ get excited to string.
 
 इति मुनि-गण-निवेदित-माहेश्वर-धनुः-संदर्शन-संजात-कुतूहलेन दाशरथिना सह प्रस्थितो गाधि-सुतः शोणा-कूलम् अवाप । तं च रामः पप्रच्छ "को न्व् अयं देशः" इति । 
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And you too, O tiger among men (tvaṃ caiva naraśārdūla), shall go there along with us (sahāsmābhir gamiṣyasi); there you ought to behold (tatra tvaṃ draṣṭum arhasi) that wondrous jewel of a bow (adbhutaṃ ca dhanūratnam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -439,6 +481,12 @@ king of Mithila in a congregation of a Vedic-ritual. [1-31-8]
 This is the bow of Shiva with which He destroyed the ritual of Daksha. Then gods
 pleased Shiva and obtained this bow from Him. Then gods gave it to Devaraata, an
 earlier king of Mithila as a boon of Vedic-ritual.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For in days of yore, O best of men (tad dhi pūrvaṃ naraśreṣṭha), that terrible bow of immeasurable might (aprameyabalaṃ ghoram), supremely radiant (paramabhāsvaram), was bestowed by the gods in the sacrificial assembly at a great rite (dattaṃ sadasi daivataiḥ makhe).
 </details>
 </details>
 
@@ -489,6 +537,12 @@ na* = gandharva-s, not; *asuraa* = asura-s, not; *na ca raakSasaaH*
 "Gods cannot capably lift it to string; gandharva-s, no; asura-s, no; demons, no;
 and for human beings, not in any way. [1-31-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither gods nor gandharvas, neither asuras nor rākṣasas (nāsya devā na gandharvā nāsurā na ca rākṣasāḥ), are able to string it (kartum āropaṇaṃ śaktā), nor by any means can mortal men (na kathañcana mānuṣāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -534,6 +588,12 @@ that, bow's; *viiryam jij~naasantaH* = power, inquisitive about; *[te sarve*
 
 "Though many kings were inquisitive about the power of that bow, all of those great
 mighty princes are rendered incapable to string its bowstring. [1-31-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Desiring to test the might of that bow (dhanuṣas tasya vīryaṃ hi jijñāsantaḥ), kings and princes of great strength (mahīkṣitaḥ rājaputrā mahābalāḥ) were utterly unable to string it (na śekur āropayitum).
 </details>
 </details>
 
@@ -582,6 +642,12 @@ Mithila, if you come with us.
 "Oh, tigerly-man Rama, there in Mithila you can see that particular bow of the great-souled
 king of Mithila and his highly admirable Vedic ritual too, if you come with us.
 [1-31-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There, O tiger among men, O Kākutstha (tatra naraśārdūla kākutstha), you shall behold that bow of the high-souled lord of Mithilā (tad dhanur maithilasya mahātmanaḥ drakṣyasi), as well as his supremely wondrous sacrifice (yajñaṃ ca paramādbhutam).
 </details>
 </details>
 
@@ -641,6 +707,12 @@ padma puraaNa '*Satisfying with the ritual of Devaraata of Janaka, the Trident
 holder and holder of venom in throat, namely god Shiva, gave the marvellous bow
 to eliminate enemies.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For that supreme bow with its shapely grip (tad dhi uttamaṃ dhanuḥ sunābham), O tiger among men, was requested as the fruit of his sacrifice (yajñaphalaṃ yācitam) by that lord of Mithilā from all the gods (tena maithilena sarvadaivataiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -694,6 +766,12 @@ dhanur utsava-s, festivals of bows-and- arrows. Hence
 it is kept in the palace of King of Mithila, and oh, Raghava it is worshipped with
 a variety of sandalwood pastes, scents of aloe substance, and with incenses." [1-31-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Abiding as an object of sacred worship in the palace of that king, O Rāghava (āyāgabhūtaṃ nṛpates tasya veśmani rāghava), it is venerated with diverse fragrant unguents and aloe-scented incense (arcitaṃ vividhair gandhair dhūpaiś cāgurugandhibhiḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -743,6 +821,12 @@ of sages, and even along with Rama and Lakshmana, whose tacit consent to follow
 the sage is obtained by now, and on bidding farewell to the deities of woodlands
 of that Accomplished Hermitage, where his ritual is accomplished with the help of
 Rama and Lakshmana. [1-31-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus (evam uktvā), that best of sages (munivaraḥ), accompanied by the host of rishis and by Kākutstha (sarṣisaṅghaḥ sakākutsthaḥ), took leave of the forest deities (āmantrya vanadevatāḥ) and set out on his journey (prasthānam akarot tadā):
 </details>
 </details>
 
@@ -794,6 +878,12 @@ the ritual I have undertaken here, I wish to go from this Accomplished Hermitage
 towards the ranges of Himalayan Mountains that are on the northern bank of River
 Ganga." [1-31-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May auspiciousness attend you (svasti vo ’stu)! Having accomplished my vow (siddhaḥ), I shall now depart from Siddhāśrama (gamiṣyāmi siddhāśramād aham) to the mountain Himavat (himavantaṃ śiloccayam) on the northern bank of the Jāhnavī (uttare jāhnavītīre).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -840,6 +930,12 @@ is ascesis; *uttaraam disham uddishya* = northern, side, intending to;
 Thus saying farewell to woodland-deities that descendent of Kaushika, namely Vishvamitra,
 the saint whose wealth is his ascesis started to journey on aiming to reach the
 northern side of River Ganga. [1-31-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, that tiger among sages (ity uktvā muniśārdūlaḥ), Kauśika rich in ascetic penance (kauśikaḥ sa tapodhanaḥ), set out to journey toward the northern quarter (uttarāṃ diśam uddiśya prasthātum upacakrame).
 </details>
 </details>
 
@@ -888,6 +984,12 @@ northern side of River Ganga. [1-31-16]
 While that best saint set forth, the team of his close followers who are the advocators
 of Vedic canons have moved behind him, approximately with a hundred carts loaded
 with their ritual paraphernalia. [1-31-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As that best of sages journeyed forth (taṃ vrajantaṃ munivaram), a train of some hundred wagons (śakaṭīśatamātraṃ tu) belonging to the Veda-expounding sages who followed him (anusāriṇāṃ brahmavādinām) accompanied him on the march (prayāṇe anvagāt).
 </details>
 </details>
 
@@ -948,6 +1050,12 @@ This following of animals and birds is to suggest that while any guest proceedin
 from their place, it is the courtesy of the residents of that place or house, to
 see him off for a distance, unlike 'showing a person the door.' Here Vishvamitra
 is the guest at these woodlands.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even the flocks of deer and birds dwelling in Siddhāśrama (mṛgapakṣigaṇāś caiva siddhāśramanivāsinaḥ) followed behind the high-souled Viśvāmitra rich in penance (anujagmur mahātmānaṃ viśvāmitraṃ tapodhanam).
 </details>
 </details>
 
@@ -1019,6 +1127,14 @@ When the sun went into dusk those sages with illimitable resplendence took their
 bath and on kindling the consumer of kindled oblations they completed their evening
 fire ritual, and then squatted before sage Vishvamitra. [1-31-20b, 21a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** Then the sage, together with the host of rishis, gently turned back the birds and deer (nivartayām āsa tataḥ sarṣisaṅghaḥ sapakṣiṇaḥ). Having traveled a long distance (te gatvā dūram adhvānam), as the sun sank low toward the horizon (lambamāne divākare), the hosts of sages made their halt on the bank of the Śoṇā in collected meditation (vāsaṃ cakrur munigaṇāḥ śoṇākūle samāhitāḥ).
+
+**20:** When the sun had set (te ’staṃ gate dinakare), those sages of immeasurable spiritual splendor (amitaujasaḥ), having bathed and offered oblations into the sacred fire (snātvā hutahutāśanāḥ), seated themselves with Viśvāmitra at their head (viśvāmitraṃ puraskṛtya niṣeduḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1067,6 +1183,12 @@ before; *niSasaada* = squatted.
 And even Rama along with Lakshmana on worshipping those sages squatted before that
 intellectual Vishvamitra. [1-31-21b, 22a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma too, together with Sumitrā’s son Lakṣmaṇa (rāmo ’pi sahasaumitriḥ), having reverently saluted those sages (munīṃs tān abhipūjya ca), seated himself in front of the wise Viśvāmitra (agrato niṣasādātha viśvāmitrasya dhīmataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1112,6 +1234,12 @@ sage; *muni shaarduulam* = sagely, tiger; *kautuuhala samanvitaH*
 
 With growing inquisitiveness that resplendent Rama has asked the tigerly sage Vishvamitra
 whose wealth is his ascesis. [1-31-22b, 23a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma of great fiery splendor (atha rāmo mahātejāḥ), filled with eager curiosity (kautūhalasamanvitam), questioned Viśvāmitra, that tiger among sages rich in penance (papraccha muniśārdūlaṃ viśvāmitraṃ tapodhanam):
 </details>
 </details>
 
@@ -1160,6 +1288,12 @@ arhasi* = in essence, to talk - to tell, apt of you.
 "Oh, godly sage, this place is glistening with well-developed woodlands, really
 what is this place? You be blest! It will be apt of you tell about it, in essence."
 Thus Rama asked Vishvamitra.[1-31-23b, 24a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O revered Lord, what region is this (bhagavan ko nv ayaṃ deśaḥ), resplendent with prosperous groves (samṛddhavanaśobhitaḥ)? I wish to hear of it—may auspiciousness attend you (śrotum icchāmi bhadraṃ te)! You ought to recount it in truth (vaktum arhasi tattvataḥ).”
 </details>
 </details>
 
@@ -1221,6 +1355,12 @@ that place. [1-31-24b, c]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तॊन्दनॆय सर्ग पूर्णवायितु. ॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prompted by Rāma’s words (codito rāmavākyena), that sage of noble vows and great penance (suvrataḥ mahātapāḥ) began to narrate in the midst of the rishis (kathayām āsa ṛṣimadhye) the entire history of that region (tasya deśasya nikhilam).
 </details>
 </details>
 

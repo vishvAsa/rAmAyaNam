@@ -67,6 +67,12 @@ consciousness.
 Hearing those mournful words relating to the death of his father, spoken by Bharata,
 Rama fainted away.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing Daśaratha’s wives in front, Vasiṣṭha, athirst for the sight of Rāma, advanced toward that region (vasiṣṭhaḥ purataḥ kṛtvā dārān daśarathasya ca abhicakrāma taṃ deśaṃ rāma-darśana-tarṣitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -125,6 +131,14 @@ released by Indra the Lord of celestials in a battle, Rama the tormentator of hi
 stretched forth his hands and fell on the ground, in the same manner as a tree covered at
 extremities with blossoms was cut off by an axe in the forest.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** Walking slowly toward the Mandākinī, the royal consorts beheld there that bathing-ghat frequented by Rāma and Lakṣmaṇa (rāja-patnyaś ca gacchantyo mandaṃ mandākinīṃ prati dadṛśus tatra tat tīrthaṃ rāma-lakṣmaṇa-sevitam).
+
+**3:** With her tear-filled face parched by grief, the wretched Kausalyā spoke to Sumitrā and the other royal women (kausalyā bāṣpa-pūrṇena mukhena pariśuṣyatā sumitrām abravīd dīnā yāś cānyā rāja-yoṣitaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -182,6 +196,14 @@ Seeing Rama lying on the earth, has the lord of the earth, like an elephant crus
 by a land slide on a bank where he was sleeping, those brother along with Seetha approached him
 from all sides and weepingly sprinkled water on him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** “This in the forest is the rugged and sole bathing-ghat of those protectorless ones of unwearied deeds, who were formerly deprived of their realm (idaṃ teṣām anāthānāṃ kliṣṭam akliṣṭa-karmaṇām vane prāk kevalaṃ tīrthaṃ ye te nirviṣayī-kṛtāḥ)!
+
+**5:** “From this place, O Sumitrā, your son Saumitri, ever unwearied, fetches water with his own hands for my son’s sake (itaḥ sumitre putras te sadā jalam atandritaḥ svayaṃ harati saumitrir mama putrasya kāraṇāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,6 +250,12 @@ out; *asram* = tears; *upaakraamata* = began; *bhaaSitum* = to speak;
 Coming to his senses again and tears falling from his eyes, Rama began to speak much
 plaintively.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Though your son has performed a lowly task, he is nowise censured; whatever is fraught with benefit for his elder brother is wholly enjoined as virtuous (jaghanyam api te putraḥ kṛtavān na tu garhitaḥ bhrātur yad artha-sahitaṃ sarvaṃ tad vihitaṃ guṇaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -268,6 +296,12 @@ sahitam* = consistent with righteousness; *bharata* = to Bharata.
 Hearing that the King and his father had ascended to heaven, the virtuous. Rama
 spoke the following words, consistent with righteousness to Bharata.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today let this son of yours, unaccustomed to such hardships, cast off this menial task fraught with lowly distress that has clung to him (adyāyam api te putraḥ kleśānām atathocitaḥ nīcānartha-samācāraṃ sajjaṃ karma pramuñcatu)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +341,12 @@ that Ayodhya; *hiinaam* = bereft; *raajavaraat* = of that excellent king?
 
 "What should I do with Ayodhya, now that my father reached the end of his life? Who
 will rule that Ayodhya, which is bereft of that excellent king?
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that large-eyed queen beheld upon the ground the iṅgudī oil-cake placed for their father on darbha grass pointing south (dakṣiṇāgreṣu darbheṣu sā dadarśa mahī-tale pitur iṅgudi-piṇyākaṃ nyastam āyata-locanā).
 </details>
 </details>
 
@@ -353,6 +393,12 @@ samskR^itashchaapi* = and not even last rites were performed; *mayaa* = by me.
 
 "In my misfortune, what can I do for that high-souled one? He died of grief on my
 account and I did not perform the last rites for him!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that offering placed on the ground for his father by the grief-stricken Rāma, Queen Kausalyā spoke to all the wives of Daśaratha (taṃ bhūmau pitur ārtena nyastaṃ rāmeṇa vīkṣya sā uvāca devī kausalyā sarvā daśaratha-striyaḥ):
 </details>
 </details>
 
@@ -401,6 +447,12 @@ obsequies rites!
 "O, Bharata the faultless one! Alas! Happy are you, by whom as well as by Shatrughna
 the king was honoured by all obsequial rites!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold this offering duly presented according to rule by Rāghava to his father, the high-souled Rāghava, lord of the Ikṣvākus (idam ikṣvāku-nāthasya rāghavasya mahātmanaḥ rāghaveṇa pitur dattaṃ paśyataitad yathā-vidhi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -440,6 +492,12 @@ chief; *vinaakR^itaam* = and bereft; *narendreNa* = of a king.
 
 'Even after the end of my exile, I do not want to return to Ayodhya which is i a
 disarranged state, deprived of a chief and made bereft of a king."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For that high-souled monarch, equal to a god, who enjoyed every royal luxury, I do not deem this a fitting meal (tasya deva-samānasya pārthivasya mahātmanaḥ naitad aupayikaṃ manye bhukta-bhogasya bhojanam).
 </details>
 </details>
 
@@ -486,6 +544,12 @@ world; *kaH* = who; *punaH anuShaasiSyati* = will again advise; *maam* = me;
 
 "O, Bharata the tormentator of foes While our father has gone to the other world,
 who will counsel me when my exile in the forest is over?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having enjoyed the earth bounded by the four oceans, how can that lord of the earth, equal to great Indra, eat iṅgudī oil-cake (catur-antāṃ mahīṃ bhuktvā mahendra-sadṛśo vibhuḥ katham iṅgudi-piṇyākaṃ sa bhuṅkte vasudhādhipaḥ)?
 </details>
 </details>
 
@@ -534,6 +598,12 @@ are delightful to the ears?
 "Formerly, seeing my good conduct, our father used to address me in words of praise;
 from whom now shall I hear those words delightful to the ears?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nothing in the world appears to me more sorrowful than this—that the prosperous Rāma should have to offer crushed iṅgudī meal to his father (ato duḥkhataraṃ loke na kiñcit pratibhāti mā yatra rāmaḥ pitur dadyād iṅgudī-kṣodam ṛddhimān)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -579,6 +649,12 @@ samtaptaH* = and stricken with grief; *uvaacha* = spoke (as follows)
 
 Having spoken thus to Bharata, Rama went to seek out his consort, whose face
 resembled the full moon, and overwhelmed with grief, spoke to her as follows:-
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding iṅgudī oil-cake offered by Rāma to his father, why does my heart not shatter into a thousand pieces with grief (rāmeṇeṅgudi-piṇyākaṃ pitur dattaṃ samīkṣya me kathaṃ duḥkhena hṛdayaṃ na sphoṭati sahasradhā)?
 </details>
 </details>
 
@@ -630,6 +706,12 @@ the emperor; *svargatam* = being dead.
 "O, Seetha! your father-in-law is dead. O, Lakshmana! You have become bereft of your
 father. Bharata is informing a sorrowful news of the emperor being dead.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Truly this popular saying appears to me to be true: ‘Whatever food a man eats, that same food his deities eat’ (śrutis tu khalv iyaṃ satyā laukikī pratibhāti mā yad-annaḥ puruṣo bhavati tad-annās tasya devatāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -675,6 +757,12 @@ the eyes of those illustrious sons of Dasaratha.
 
 While Rama was uttering those words, copious tears caused to flow then from the eyes
 of those sons of Dasaratha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having consoled her as she lamented thus, her co-wives went forward and beheld Rāma in the hermitage like an immortal fallen from heaven (evam ārtāṃ sapatnyas tā jagmur āśvāsya tāṃ tadā dadṛśuś cāśrame rāmaṃ svarga-cyutam ivāmaram).
 </details>
 </details>
 
@@ -723,6 +811,12 @@ the earth.
 Then, all those brothers consoled Rama very much and said to him, "Let us offer
 libations of water for our father, the Lord of the earth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāma bereft of all royal luxuries, his mothers, stricken with grief and wasted by sorrow, shed tears aloud (sarva-bhogaiḥ parityaktaṃ rāmaṃ samprekṣya mātaraḥ ārtā mumucur aśrūṇi sa-svaraṃ śoka-karśitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -770,6 +864,12 @@ filled with tears.
 Hearing that her father-in-law, that great monarch had ascended to heaven, Seetha
 was unable to see her husband through eyes filled with tears.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising up, Rāma, that tiger among men and keeper of his word, clasped the auspicious feet of all those mothers of his (tāsāṃ rāmaḥ samutthāya jagrāha caraṇān śubhān mātṝṇāṃ manuja-vyāghraḥ sarvāsāṃ satya-saṅgaraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -809,6 +909,12 @@ Lakshmana; *tatra* = there; *duHkhitam* = who was lamenting.
 
 Rama consoled that Seetha who was weeping and himself stricken with grief, spoke to
 the lamenting Lakshmana as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With their auspicious hands, pleasant of touch and soft of fingers and palms, those large-eyed queens wiped the dust from Rāma’s back (tāḥ pāṇibhiḥ sukha-sparśair mṛdv-aṅguli-talaiḥ śubhaiḥ pramamārjū rajaḥ pṛṣṭhād rāmasyāyata-locanāḥ).
 </details>
 </details>
 
@@ -851,6 +957,12 @@ about my loins; *uttaram* = and another for being used as an upper garment;
 "Bring the crushed pulp of Ingudi Tree and bring a piece of bark for being wrapped
 about my loins and another for being used as my loins and another for being used as an upper
 garment, so that we may proceed to offer libations of water for our magnanimous father."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding all those mothers, the sorrowful Saumitri too bowed low to them unceasingly and gently right after Rāma (saumitrir api tāḥ sarvā mātṝḥ samprekṣya duḥkhitaḥ abhyavādayatāsaktaṃ śanai rāmād anantaram).
 </details>
 </details>
 
@@ -898,6 +1010,12 @@ terrible; *gatiH* = procession.
 
 "Let Seetha walk in the front and you follow after her nearby. I shall follow in the
 rear. This indeed is the most terrible procession.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as they acted toward Rāma, so did all those women act toward Lakṣmaṇa of auspicious marks, born of Daśaratha (yathā rāme tathā tasmin sarvā vavṛtire striyaḥ vṛttiṃ daśarathāj jāte lakṣmaṇe śubha-lakṣaṇe).
 </details>
 </details>
 
@@ -956,6 +1074,14 @@ Then, their faithful companion Sumantra versed in the spiritual science, endowed
 with great intelligence, kind, self-controlled and glorious, and deeply devoted to Rama, consoling
 him and his brothers, took Rama by the hand and helped him descend to the auspicious River
 Mandakini.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** Sītā too, afflicted with grief and her eyes filled with tears, touched the feet of her mothers-in-law and stood before them (sītāpi caraṇāṃs tāsām upasaṃgṛhya duḥkhitā śvaśrūṇām aśru-pūrṇākṣī sā babhūvāgrataḥ sthitā).
+
+**23:** Embracing her as she grieved, wasted by dwelling in the forest and wretched, like a mother embracing her own daughter, Kausalyā spoke these words (tāṃ pariṣvajya duḥkhārtāṃ mātā duhitaraṃ yathā vanavāsa-kṛśāṃ dīnāṃ kausalyā vākyam abravīt):
 </details>
 </details>
 
@@ -1019,6 +1145,14 @@ The illustrious Rama and others painfully reached the River Mandakini, that stre
 of sacred fords, the enchanting one always covered with flowers, coming to a blessed ford, free
 from mud and offered the lustrual water to the king, saying "Father! May this prove agreeable to
 you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** “How has the daughter of the king of Videha, the daughter-in-law of Daśaratha, and the wife of Rāma come to suffer such sorrow in the desolate forest (videha-rājasya sutā snuṣā daśarathasya ca rāma-patnī kathaṃ duḥkhaṃ samprāptā nirjane vane)?
+
+**25:** “Like a lotus scorched by the sun, like a crushed water-lily, like gold dimmed by dust, like the moon obscured by clouds (padmam ātapa-santaptaṃ parikliṣṭam ivotpalam kāñcanaṃ rajasā dhvastaṃ kliṣṭaṃ candram ivāmbudaiḥ)—
 </details>
 </details>
 
@@ -1087,6 +1221,14 @@ where you are.
 O, Tiger among men! May this water without taint and incorruptible at the moment
 that I offer it to you, reach you in the region of your ancestors where you are."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** —beholding your face, O Vaidehī, grief born from the fire-sticks of calamity burns me fiercely in my heart, just as fire consumes its own wooden receptacle (mukhaṃ te prekṣya māṃ śoko dahaty agnir ivāśrayam bhṛśaṃ manasi vaidehi vyasanāraṇi-sambhavaḥ)!”
+
+**27:** While his mother was speaking thus in distress, Rāghava, the elder brother of Bharata, approached and clasped the feet of Vasiṣṭha (bruvantyām evam ārtāyāṃ jananyāṃ bharatāgrajaḥ pādāv āsādya jagrāha vasiṣṭhasya ca rāghavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1132,6 +1274,12 @@ offered; *nivaapam* = balls of food; *pituH* = to his father.
 
 Thereafter, the glorious Rama, resending the bank of Mandakini River along with his
 brothers, offered balls of food to his father.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clasping the feet of that family priest of richly abounding splendor, who was like fire itself—just as Indra, lord of the immortals, clasps the feet of Bṛhaspati—Rāghava sat down together with him (purohitasyāgni-samasya vai tadā bṛhaspater indra ivāmarādhipaḥ pragṛhya pādau su-samṛddha-tejasaḥ sahaiva tenopaviveśa rāghavaḥ).
 </details>
 </details>
 
@@ -1179,6 +1327,12 @@ sadness; *rudan* = weeping; *abraviit* = spoke; *vachanam* = these words.
 Rama placed the pulp of the Ingudi tree mixed with the pulp of plums on a mat of
 Kusa grass and overcome with sadness, weeping, spoke the following words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then behind them, accompanied by his ministers, the chief men of the city, the soldiers, and the people most conversant with righteousness, the righteous Bharata sat down near his elder brother (tato jaghanyaṃ sahitaiḥ sa-mantribhiḥ pura-pradhānaiś ca sahaiva sainikaiḥ janena dharmajñatamena dharmavān upopaviṣṭo bharatas tadāgrajam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1218,6 +1372,12 @@ eat; *yadannaH puruSaH* = for; that which man eats; *tadannaah* = is also consum
 
 "O, Great King! Be pleased to partake of this, which we eat for, that which man
 eats, is also consumed by his gods."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated thus near him with folded hands, the heroic Bharata gazed upon Rāghava blazing with majesty in the garb of an ascetic, just as the self-controlled Mahendra gazes upon Prajāpati (upopaviṣṭas tu tathā sa vīryavāṃs tapasvi-veṣeṇa samīkṣya rāghavam śriyā jvalantaṃ bharataḥ kṛtāñjalir yathā mahendraḥ prayataḥ prajā-patim).
 </details>
 </details>
 
@@ -1285,6 +1445,14 @@ Lakshmana; *baahubhyaam* = with his arms.
 
 Gaining the door of his leafy hut, Rama the Lord of the earth then embraced Bharata
 and Lakshmana with his arms.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** “What fitting words will this Bharata speak today to Rāghava after bowing to him and paying him homage?”—such in truth was the supreme curiosity that arose among those noble people at that moment (kim eṣa vākyaṃ bharato ’dya rāghavaṃ praṇamya satkṛtya ca sādhu vakṣyati itīva tasyārya-janasya tattvato babhūva kautūhalam uttamaṃ tadā).
+
+**32:** Surrounded by their friends, Rāghava, Lakṣmaṇa of true resolve, and the righteous Bharata of great majesty shone forth like the three sacred fires in a sacrifice attended by the officiating priests (sa rāghavaḥ satya-dhṛtiś ca lakṣmaṇo mahānubhāvo bharataś ca dhārmikaḥ vṛtāḥ suhṛdbhiś ca virejur adhvare yathā sadasyaiḥ sahitās trayo ’gnayaḥ).
 </details>
 </details>
 

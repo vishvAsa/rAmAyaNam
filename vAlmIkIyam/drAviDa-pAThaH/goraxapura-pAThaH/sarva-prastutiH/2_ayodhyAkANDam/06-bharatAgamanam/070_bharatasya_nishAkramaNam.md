@@ -49,6 +49,12 @@ Ayodhya.
 
 ई प्रकार भरतनु मित्ररिगॆ तन्न स्वप्नवृत्तान्तवन्नु तिळिसुत्तिरुवाग, बळलिद कुदुरॆगळिन्द बन्द आ दूतरु आ रमणीय राजगृहपुर प्रवेशिसिदरु. सुत्तलिरुव कन्दकवन्नु दाटुवुदु शत्रुगळिगॆ बहळ कठिणवागित्तु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even while Bharata was relating his dream (bharate bruvati svapnam), those envoys with their exhausted mounts (dūtās te klānta-vāhanāḥ), having entered the lovely city of Rājagṛha with its impassable moat (praviśyāsahya-parikhaṃ ramyaṃ rājagṛhaṃ puram),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -96,6 +102,12 @@ entered the beautiful city called Rajagriha, which has too big a palace-gate and
 Kekeya and the prince Yudhajit, who received them hospitably. They saluted the feet of the king
 Kekeya and spoke the following words to Bharata:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and having met with the king and been honoured by him and by the prince (samāgamya tu rājñā ca rāja-putreṇa cārcitāḥ), clasped the feet of the young king and spoke this word to Bharata (rājñaḥ pādau gṛhītvā tu tam ūcur bharataṃ vacaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -142,6 +154,12 @@ the ministers also; (were asking about your welfare); *niryaahi* = come forth in
 
 "Vasistha, the family-priest and all the ministers were asking about your welfare.
 Come forth indeed quickly. There is an urgent work with you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The royal priest enquires after your welfare, and so do all the ministers (purohitas tvāṃ kuśalaṃ prāha sarve ca mantriṇaḥ); set forth in haste, for there is an urgent matter to be accomplished by you (tvaramāṇaś ca niryāhi kṛtyam ātyayikaṃ tvayā)!
 </details>
 </details>
 
@@ -192,6 +210,12 @@ _________________
 "O, Bharata the wide-eyed man! Take these very valuable clothes and jewels and give
 them to your maternal uncle"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And accepting these costly garments and ornaments, O large-eyed prince (imāni ca mahārhāṇi vastrāṇy ābharaṇāni ca pratigṛhya viśālākṣa), cause them to be presented to your maternal grandfather and maternal uncle (mātulasya ca dāpaya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,6 +261,12 @@ Kekeya; *tathaivacha* = and like wise; *sampuurNaaH* = a full; *dashakoTyastu*
 
 "O, prince! In these jewels and clothes, a worth of hundred crores is to be given to
 the king Kekeya and likewise a worth of ten crores in full to your maternal uncle."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here are twenty crores’ worth for the king, and for your maternal uncle (atra viṃśati-koṭyas tu nṛpater mātulasya te) a full ten crores’ worth of the very same excellence, O son of the king (daśa-koṭyas tu sampūrṇās tathaiva ca nṛpātmaja).”
 </details>
 </details>
 
@@ -288,6 +318,12 @@ follows):
 Bharata, who had a great affection towards his kind hearted relatives, took all
 that, honored these messengers profusely with gifts of their liking and spoke(as follows) :
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting all that wealth, deeply affectionate toward his kinsmen (pratigṛhya tu tat sarvaṃ svanuraktaḥ suhṛj-jane), Bharata honoured those envoys well with desired gifts and spoke to them (dūtān uvāca bharataḥ kāmais sampratipūjya tān):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -337,6 +373,12 @@ high soled; *lakshhmaNecha* = Lakshmana."
 "I hope that king Dasaratha, my father is quite safe. I also hope that Rama and the
 high-soled Lakshmana are well."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Is King Daśaratha my father in good health (kaccit sukuśalī rājā pitā daśaratho mama)? And is there health and well-being with Rāma and with high-souled Lakṣmaṇa (kaccic cārogatā rāme lakṣmaṇe ca mahātmani)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -383,6 +425,12 @@ healthy?"
 
 "Is Kausalya, the venerable lady, who is intent on virtue, who knows righteousness,
 who visualizes goodness and who is the mother of the wise Rama, also well? "
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And is the noble Kausalyā—ever devoted to dharma, knowing dharma, and beholding only dharma—free from illness (āryā ca dharma-niratā dharma-jñā dharma-darśinī arogā cāpi kausalyā), the mother of wise Rāma (mātā rāmasya dhīmataḥ)?
 </details>
 </details>
 
@@ -431,6 +479,12 @@ healthy."
 "I hope that Sumitra, who knows righteousness, who is the mother of Lakshmana as
 well as the heroic Satrughna and our middle mother, is well."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Is the middle queen Sumitrā, knower of dharma, who is the mother of Lakṣmaṇa (kaccit sumitrā dharma-jñā jananī lakṣmaṇasya yā) and of the heroic Śatrughna, also free from illness (śatrughnasya ca vīrasya sārogā cāpi madhyamā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -476,6 +530,12 @@ mother; *api arogaa* = also healthy? kim = What; *uvaachaha* = did she say?"
 
 "As Kaikeyi, who loves herself, a forever fiery lady of wrathful nature, who prides
 herself to be highly intelligent and my mother, also well? What did she say?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And is my mother Kaikeyī—ever self-willed, fierce, prone to anger, and fancying herself wise—also in good health, and what did she say (ātma-kāmā sadā caṇḍī krodhanā prājña-māninī arogā cāpi kaikeyī mātā me kim uvāca ha)?”
 </details>
 </details>
 
@@ -526,6 +586,12 @@ messengers; *tadaa* = then; *uuchuH* = spoke; *idam vachaH* = these words;
 On hearing the words of the high soled Bharata, those messengers then respectfully
 spoke to Bharata as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by high-souled Bharata (evam uktās tu te dūtā bharatena mahātmanā), those envoys spoke this humble word to that Bharata right then (ūcus sapraśrayaṃ vākyam idaṃ taṃ bharataṃ tadā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -572,6 +638,12 @@ your; *rathaH* = chariot; *yujyataamchaapi* = be made ready."
 
 "O, tiger among men! Those, of whom you do enquire, are all well. The goddess of
 prosperity, holding a lotus in her hand, awaits you. Let your chariot be made ready."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Well are they, O tiger among men, whose welfare you desire (kuśalās te nara-vyāghra yeṣāṃ kuśalam icchasi); and Lotus-bearing Śrī chooses you—let your chariot be yoked at once (śrīś ca tvāṃ vṛṇute padmā yujyatāṃ cāpi te rathaḥ)!”
 </details>
 </details>
 
@@ -623,6 +695,12 @@ to those messengers(as follows); *"aham* = I; *apR^ichchhe* = will get permissio
 Hearing the words Bharata spoke to the messengers as follows: "I will get permission
 from the monarch(to leave for Ayodhya) saying that the messengers are hastening me up."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, Bharata too spoke to those envoys (bharataś cāpi tān dūtān evam ukto 'bhyabhāṣata): “I shall take leave of the great king, since the envoys are urging me on in haste (āpṛcche 'haṃ mahā-rājaṃ dūtās santvarayanti mām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -670,6 +748,12 @@ maternal uncle:
 Bharata the prince having been asked to move quickly (to Ayodhya) by the messengers,
 spoke as aforesaid to those messengers and uttered the following words to his maternal uncle:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to those envoys, Bharata, son of the king (evam uktvā tu tān dūtān bharataḥ pārthivātmajaḥ), urged on by the messengers, spoke this word to his maternal grandfather (dūtais sañcodito vākyaṃ mātāmaham uvāca ha):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -715,6 +799,12 @@ messengers to move quickly; *gamishhyaami* = I am going; *pituH* = to my father'
 
 "O, king! Requested by the messengers to come to Ayodhya urgently, I am going to my
 father's presence. I shall again come, whenever you recall me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O king, urged by the envoys, I shall go to my father’s presence (rājan pitur gamiṣyāmi sakāśaṃ dūta-coditaḥ); and I shall come back again whenever you remember me (punar apy aham eṣyāmi yadā me tvaṃ smariṣyasi).”
 </details>
 </details>
 
@@ -763,6 +853,12 @@ auspicious ; *vaakyaam* = words:
 Hearing the words of Bharata, the king Kekeya, his maternal uncle smelled (as a
 token of affection) the head of Bharata and spoke the following auspicious words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Bharata, the king, his maternal grandfather, then (bharatenaivam uktas tu nṛpo mātāmahas tadā) smelled Rāghava upon the head and spoke to him an auspicious word (tam uvāca śubhaṃ vākyaṃ śirasy āghrāya rāghavam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -809,6 +905,12 @@ and father."
 
 "Go, my dear child! I am permitting you. Kaikeyi is fortunate to have a good son
 like you. Bear my greetings to your mother and father."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Go, dear son, I grant you leave; Kaikeyī is blessed with noble offspring through you (gaccha tātānujāne tvāṃ kaikeyī suprajās tvayā). Speak my welfare greetings to your mother and to your father, O scorcher of foes (mātaraṃ kuśalaṃ brūyāḥ pitaraṃ ca parantapa);
 </details>
 </details>
 
@@ -857,6 +959,12 @@ Lakshmana."
 " My dear child! Pay obeisance to your family priest, the other illustrious Brahmins
 and your brothers Rama and Lakshmana the wielders of bows."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“and convey my welfare greetings to the royal priest and whatever other foremost Brāhmaṇas there are (purohitaṃ ca kuśalaṃ ye cānye dvija-sattamāḥ), as well as to those two mighty archers, your brothers Rāma and Lakṣmaṇa, O dear son (tau ca tāta maheṣvāsau bhrātarau rāma-lakṣmaṇau).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -904,6 +1012,12 @@ riches(gold;silver vessels etc)
 The king Kekaya, treating him hospitably gave that Bharata the best of elephants,
 woolen clothes of varied colors, antelope skins and riches (gold and silver vessels etc).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honouring him well, the Kekaya king bestowed upon that Bharata wealth (tasmai... abhisatkṛtya kaikeyo bharatāya dhanaṃ dadau): foremost elephants, variegated woollen blankets, and deer-skins (hasty-uttamāṃś citrān kambalān ajināni ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -949,6 +1063,12 @@ nishhkasahasre* = thousand coins of gold; *shhoDasha* = sixteen;
 
 The king Kekeya generously gave as gifts to Bharata, two thousands coins of gold and
 sixteen hundred horses.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honouring the son of Kaikeyī, the Kekaya king assigned to him as wealth (satkṛtya kaikeyī-putraṃ kekayo dhanam ādiśat) two thousand golden niṣkas and sixteen hundred horses (rukma-niṣka-sahasre dve ṣoḍaśāśva-śatāni ca).
 </details>
 </details>
 
@@ -999,6 +1119,12 @@ _________________
 Likewise, Aswapati sent some attendants, who were dear, reliable, endowed with
 virtues and inmates of his palace with Bharata (to accompany him on the return journey)
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+So too did Aśvapati swiftly give unto Bharata as attendants (dadāv aśvapatiḥ kṣipraṃ bharatāyānuyāyinaḥ) beloved, trustworthy, and virtuous counsellors (tathāmātyān abhipretān viśvāsyāṃś ca guṇānvitān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1047,6 +1173,12 @@ Yuddhajit, his maternal uncle gave him as gifts, elephants of Airavata race born
 Indrasira mountain-range and which were charming to behold as well as mules which could walk
 quickly and were well trained
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His maternal uncle bestowed upon him as wealth handsome elephants of the Airāvata lineage and from the Indraśiras mountains (airāvatān aindraśirān nāgān vai priya-darśanān), as well as swift, well-trained mules (kharāñ śīghrān susaṃyuktān mātulo 'smai dhanaṃ dadau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1094,6 +1226,12 @@ yudhaan* = and which used tusks as weapons.
 He gave as a gift, large bodied dogs, which were well nourished in the gynoecium,
 possessing strength and vitality of a tiger and which were using their tusks as weapons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And he gave as a parting gift massive-bodied hounds having fangs for their weapons (daṃṣṭrāyudhān mahā-kāyāñ śunaś copāyanaṃ dadau), reared to great size inside the inner apartments and endowed with the valour and strength of tigers (antaḥ-pure 'tisaṃvṛddhān vyāghra-vīrya-balānvitān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1140,6 +1278,12 @@ that; *bharataH* = Kaikeyi's son; *gamanatvarayaa* = who was in a hurry to go;
 The wealth of gifts bestowed by the king Kekeya did not rejoice Bharata, Kaikeyi's
 son, who was then in a hurry to go.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having taken leave of his maternal grandfather and his maternal uncle Yudhājit (sa mātāmaham āpṛcchya mātulaṃ ca yudhājitam), Bharata mounted his chariot and set forth accompanied by Śatrughna (ratham āruhya bharataś śatrughna-sahito yayau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1185,6 +1329,12 @@ messengers; *darshanaachchaapi* = and visualization; *svapnasya* = of the dream;
 
 Due to goading of messengers and visualization of the dream, a very big worry was
 formed at that time in his heart.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For a very great anxiety arose in his heart at that time (babhūva hy asya hṛdaye cintā sumahatī tadā), both on account of the haste of the envoys and from having seen that dream (tvarayā cāpi dūtānāṃ svapnasyāpi ca darśanāt).
 </details>
 </details>
 
@@ -1233,6 +1383,12 @@ high way.
 The glorious Bharata crossed his very big palace, augmented with men elephants and
 horses and entered the excellent royal high way.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing beyond his own residence thronged with men, elephants, and horses (sa sva-veśmābhyatikramya nara-nāgāśva-saṃvṛtam), the glorious prince reached the supreme and mighty royal highway (prapede sumahac chrīmān rāja-mārgam anuttamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1279,6 +1435,12 @@ crossed the royal highway; *apashyat* = as saw; *antaHpuram* = the gynaecia;
 The sagacious Bharata crossed the royal high way and perceived the gynoecia. Then,
 the glorious Bharata entered those gynoecia.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having crossed beyond it, the noble-minded prince then beheld the inner apartments (abhyatītya tato 'paśyad antaḥ-puram udāra-dhīḥ); then glorious Bharata entered that inner palace unhindered (tatas tad bharataś śrīmān āviveśānivāritaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1324,6 +1486,12 @@ of; *maataamaham* = his maternal grand father; *maatulam* = and his maternal unc
 
 Bharata took leave of his maternal grandfather and also Yudhajit, his maternal uncle
 and set out on a chariot (for Ayodhya) along with Satrughna.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having taken leave of his maternal grandfather and his maternal uncle Yudhājit (sa mātāmaham āpṛcchya mātulaṃ ca yudhājitam), Bharata mounted his chariot and set forth accompanied by Śatrughna (ratham āruhya bharataś śatrughna-sahito yayau).
 </details>
 </details>
 
@@ -1379,6 +1547,12 @@ horses and mules as also servants followed Bharata as he departed.
 
 Instead of "rathaan maNdalachakraamshcha", "rathaan ratnavichitraamshcha" in the
 old version is taken -as the clause "chariots with round wheels " appears to be meaningless.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yoking over a hundred chariots with round wheels (rathān maṇḍala-cakrāṃś ca yojayitvā paraś-śatam), attendants followed behind the departing Bharata with hosts of camels, oxen, and horses (uṣṭra-go-'śva-balair bhṛtyā bharataṃ yāntam anvayuḥ).
 </details>
 </details>
 
@@ -1452,6 +1626,12 @@ to possess supernatural faculties) would start from Indraloka( the world of cele
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तनॆय सर्ग पूर्णवायितु.॥70॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Guarded by the army, high-souled Bharata, free of foes (balena gupto bharato mahātmā... apeta-śatruḥ), taking Śatrughna along with his maternal grandfather’s ministers who were like his own self (sahāryakasyātma-samair amātyaiḥ ādāya śatrughnam), departed from the palace like a Siddha from Indra’s heaven (gṛhād yayau siddha ivendra-lokāt).
 </details>
 </details>
 

@@ -68,6 +68,12 @@ looked; *taan sachivaan* = towards those ministers.
 Hearing of Akampana's killing, Ravana the Lord of demons, with a little depressed
 face, was enraged and looked towards his ministers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing of the slaying of Akampana (akampanavadhaṃ śrutvā), the lord of the Rākṣasas was filled with wrath, and with a somewhat downcast countenance (kiṃcid dīnamukhaś cāpi) he looked toward those ministers of his (sacivāṃs tān udaikṣata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +124,12 @@ inspect; *sarvagulmaan* = all his defenses; *puurvadivasa* = in the forenoon.
 Having reflected awhile and deliberated with his ministers, Ravana the king of
 Demons then passed that forenoon in inspecting his defenses in the City of Lanka.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting for a moment (sa tu dhyātvā muhūrtaṃ tu) and deliberating with his counselors (mantribhiḥ saṃvicārya ca), Rāvaṇa, the overlord of the Rākṣasas, in the forenoon (pūrvadivase) went around the city of Laṅkā to inspect all the military outposts (sarvān gulmān avekṣitum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -164,6 +176,12 @@ flags.
 
 The king Ravana saw that City, guarded by groups of demons, filled with innumerable
 troops and decorated with banners and flags.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The king beheld that city guarded by hosts of Rākṣasas (rākṣasagaṇair guptām), encompassed by numerous troop divisions (gulmair bahubhir āvṛtām), and festooned with pennons and standards (patākādhvajamālinīm).
 </details>
 </details>
 
@@ -212,6 +230,12 @@ kovidam* = who was skilled in war-fare; *aatmahitam* = and who wished well of hi
 Seeing Lanka besieged, Ravana the Lord of Demons spoke as follows to Prahasta who
 was skilled in war-fare and who wished well of him even at a critical time.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the city besieged (ruddhāṃ tu nagarīṃ dṛṣṭvā), Rāvaṇa, the lord of the Rākṣasas, spoke at that juncture what was salutary for himself (uvācātmahitaṃ kāle) to Prahasta, who was skilled in warfare (yuddhakovidam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -257,6 +281,12 @@ is beseiged; *sahasaa* = suddenly; *piiDitasya* = and being devastated.
 
 "O, Prahasta the proficient in war-free! I do not see any other deliverance than a
 battle for this city, which is besieged suddenly and being devastated."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For a city that is closely beleaguered (purasyopaniviṣṭasya) and violently pressed (sahasā pīḍitasya ha), I see no deliverance other than battle (nānyayuddhāt prapaśyāmi mokṣam), O master of war (yuddhaviśārada)!
 </details>
 </details>
 
@@ -304,6 +334,12 @@ vaa* = or Indrajit; *nikumbho vaa* = or Nikumbha; *vaheyuH* = can bear;
 "Either myself or Kumbhakarna or yourself my army-chief or Indrajit or Nikumbha and
 none else could undertake such a task!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Either I myself, or Kumbhakarṇa, or you who are my army commander (tvaṃ vā senāpatir mama), or Indrajit, or Nikumbha could bear such a burden as this (vaheyur bhāram īdṛśam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +386,12 @@ none else could undertake such a task!"
 
 "For that reason, taking a company of warriors, you quickly place yourself in their
 midst and set forth in order to triumph over all those monkeys."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, taking and marshaling a force swiftly from here (sa tvaṃ balam ataḥ śīghram ādāya parigṛhya ca), sally forth for victory (vijayāyābhiniryāhi) to where all the forest-dwellers are (yatra sarve vanaukasaḥ)!
 </details>
 </details>
 
@@ -400,6 +442,12 @@ the sound; *raakSasendraaNaam* = of the leaders of demons; *nardataam* = roaring
 "Unsettled in no time on knowing your decision to enter the battle-field, the army
 of monkeys will run away on hearing the raring sound of the leaders of demons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Merely at your sallying forth (niryāṇād eva), the unsettled Vānara host (calitā harivāhinī), hearing the roar of the roaring Rākṣasa chiefs (nardatāṃ rākṣasendrāṇām), will swiftly flee (tūrṇaṃ draviṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -446,6 +494,12 @@ iva* = as elephants; *simhanaadani* = the lion's roar.
 "The monkeys are unsteady, mis-behaved and fickle-minded. They do not tolerate your
 sound, as elephants the lion's roar."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For the Vānaras are fickle, undisciplined, and unsteady of mind (capalā hy avinītāś ca calacittāś ca vānarāḥ); they will not endure your roar (na sahiṣyanti te nādam), any more than elephants endure a lion's roar (siṃhanādam iva dvipāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -491,6 +545,12 @@ with Lakshmana; *niraalambaH* = without any support; *avashaH* = unwillingly;
 
 "O, Prahasta! As that army takes to its heels, Rama along with Lakshmana being
 supportless, will fall into your power though unwillingly."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And once that army is routed (vidrute ca bale tasmin), Rāma together with the son of Sumitrā, helpless and bereft of support (avaśas te nirālambaḥ), will fall into your power, O Prahasta (prahasta vaśam eṣyati)!
 </details>
 </details>
 
@@ -542,6 +602,12 @@ which; *hitam* = is advantageous; *naH* = for us.
 "A skeptical misfortune is preferable to one that is certain! Whether it is
 unpleasing to hear or not, say what you consider as an advantage to us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Uncertain peril here is preferable to certain ruin (āpat saṃśayitā śreyo nātra niḥsaṃśayīkṛtā); or speak whatever else you deem salutary for us, whether contrary or agreeable (pratilomānulomaṃ vā yat tu no manyase hitam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -587,6 +653,12 @@ Ushanaa = like Ushana (the preceptor of demons) asurendramiva = to Bali the king
 
 Hearing the words of Ravana, Prahasta the Army-General spoke the following words to
 Ravana, like Ushana the preceptor of demons would speak to Bali, the king of demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāvaṇa, Prahasta, the commander of the host (vāhinīpatiḥ), spoke these words to the lord of the Rākṣasas, just as Uśanas [spoke] to the lord of the Asuras (asurendram ivośanā).
 </details>
 </details>
 
@@ -635,6 +707,12 @@ arose; *naH* = between us.
 O, king! Formerly, we deliberated this matter with our wise ministers and, after
 having a good dialogue with each other, a disagreement arose between us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O king, we previously held counsel together with skilled ministers (mantritapūrvaṃ naḥ kuśalaiḥ saha mantribhiḥ), and after considering one another's views, a dispute arose among us (vivādaś cāpi no vṛttaḥ samavekṣya parasparam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -680,6 +758,12 @@ having a good dialogue with each other, a disagreement arose between us."
 
 "To return Seetha was what I considered preferable. Not to do so meant war; we
 foresaw this."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By me it was determined that our welfare lay in restoring Sītā (pradānena tu sītāyāḥ śreyo vyavasitaṃ mayā); whereas in not restoring her, battle was clearly foreseen for us—and just so has it come to pass (apradāne punar yuddhaṃ dṛṣṭam eva tathaiva naḥ).
 </details>
 </details>
 
@@ -728,6 +812,12 @@ by you; *kaale* = at appropriate time; *daanaishcha* = by gifts; *maanaishcha*
 "I have ever been honoured by you at appropriate times by gifts, felicitations and
 nice words. When the opportunity arises, is it not for me to render you a service?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored continually by you with gifts, marks of respect (dānaiś ca mānaiś ca satataṃ pūjitas tvayā), and manifold conciliatory words, what benefit would I not perform for you in this hour of need (kāle kiṃ na kuryāṃ hitaṃ tava)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -775,6 +865,12 @@ wish to sacrifice; *jiivitam* = my life; *tvadarthe* = for your sake; *yudhi*
 "Neither wives nor sons nor riches are going to be spared by me. See you me,
 intending to sacrifice my life for your sake in the battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Neither my own life nor my sons, wives, and riches are to be guarded by me (na hi me jīvitaṃ rakṣyaṃ putradāradhanāni ca); behold me ready to offer up my life in battle for your sake (tvaṃ paśya māṃ juhūṣantaṃ tvadarthe jīvitaṃ yudhi)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -821,6 +917,12 @@ to his leading officers; *sthitaan* = stationed; *purataH* = in front.
 Having spoken thus to Lord Ravana, the General Prahasta said to his leading officers
 who stood before him as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to his master Rāvaṇa, Prahasta, the commander of the host (vāhinīpatiḥ), addressed these words to the army officers standing before him (balādhyakṣān purataḥ sthitān):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -847,6 +949,12 @@ who stood before him as follows:
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु शीघ्रवागि राक्षसर विशालवाद सैन्यवन्नु नन्न बळिगॆ करॆदुकॊण्डु बा. इन्दु मांसाहारि पक्षिगळु समराङ्गणदल्लि नन्न बाणगळिन्द सत्त वानरर मांस तिन्दु तृप्तरागुववु.॥18½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bring before me swiftly a mighty host of Rākṣasas (samānayata me śīghraṃ rākṣasānāṃ mahābalam)! And of those slain on the battlefield by the speed of my arrows (madbāṇānāṃ tu vegena hatānāṃ ca raṇājire)—
 </details>
 </details>
 
@@ -892,6 +1000,12 @@ beasts; *tR^ipyantu* = shall feed; *hataanaam* = on the enemy that I stroke down
 
 "Gather a large army of demons together for me. Today, the flesh-eating birds and
 beasts shall feed on the enemy that I strike down on the battle-field with my swift arrows."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let the flesh-eating birds today feast to satisfaction upon the forest-dwellers (adya tṛpyantu māṃsādāḥ pakṣiṇaḥ kānanaukasām)!” Hearing those words of his, the mighty officers of the army (balādhyakṣā mahābalāḥ)—
 </details>
 </details>
 
@@ -939,6 +1053,12 @@ raakSasa mandire* = in the abode of that demon.
 Hearing that command of Prahasta, the mighty leaders of the army assembled the
 forces in the abode of that demon.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marshaled the host in that abode of the Rākṣasas (balam udyojayāmāsus tasmin rākṣasamandire); and within an hour (muhūrtena), with dreadful warriors wielding manifold weapons (bhīmair nānāvidhāyudhaiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -984,6 +1104,12 @@ resembling elephants; *naanaa vidhaayudhaiH* = wielding various types of weaponr
 
 Within a short while, that City of Lanka was filled with those terrific
 demon-warriors, resembling elephants and wielding various types of weaponry.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Laṅkā became thronged with those Rākṣasa heroes as if with elephants (rākṣasavīrais tair gajair iva samākulā); and as they gratified the sacrificial fire and bowed in homage to the Brahmins (hutāśanaṃ tarpayatāṃ brāhmaṇāṃś ca namasyatām)—
 </details>
 </details>
 
@@ -1032,6 +1158,12 @@ blow.
 While some demons propitiated the fire-god with their offerings and paid homage to
 Brahmanas, a fragrant freeze bearing the scent of clarified butter, began to blow.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A fragrant breeze blew, bearing the scent of clarified butter (ājyagandhaprativahaḥ surabhir māruto vavau); and they took up garlands of manifold forms consecrated with mantras (srajaś ca vividhākārā jagṛhus tv abhimantritāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1077,6 +1209,12 @@ wore; *srajashcha* = garlands; *vividhaakaaraaH* = of different shapes;
 
 Then, the demons who were ready for the battle, delightedly wore garlands of
 different shapes, consecrated by certain Mantras (sacred formulas).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arrayed for battle and filled with joy, the Rākṣasas wore them then (saṃgrāmasajjāḥ saṃhṛṣṭā dhārayan rākṣasās tadā); and leaping forward with speed, bow in hand and clad in armor (sadhanuṣkāḥ kavacino vegād āplutya rākṣasāḥ)—
 </details>
 </details>
 
@@ -1124,6 +1262,12 @@ different shapes, consecrated by certain Mantras (sacred formulas).
 Thereafter, armed with bows and armours, the demons with their eyes turned towards
 their king Ravana, marched at a brisk pace and ranged themselves round Prahasta.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding King Rāvaṇa (rāvaṇaṃ prekṣya rājānam), they surrounded Prahasta (prahastaṃ paryavārayan); and then, taking leave of the king and striking the dreadful war-drum (athāmantrya tu rājānaṃ bherīm āhatya bhairavām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1152,6 +1296,12 @@ _________________
 
 प्रहस्तन रथक्कॆ वेगशालि कुदुरॆगळन्नु हूडिद्दरु, सारथियू कुशलनागिद्दनु. आ रथवु पूर्णवागि सारथिय नियन्त्रणद्ललित्तु. अदु नडॆदाग महा मेघ गर्जनॆयन्तॆ शब्दमाडुत्तित्तु. रथवु प्रत्यक्ष चन्द्र-सूर्यरन्तॆ प्रकाशमानवागित्तु.॥25½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ready for battle (yuktaḥ), Prahasta mounted his chariot, which was fully equipped (sajjakalpitam), yoked with steeds of mighty speed (hayair mahājavair yuktam), guided by an expert charioteer (samyaksūtam), and well-controlled (susaṃyatam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1176,6 +1326,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सर्प चिह्नॆय ध्वजदिन्दागि अदु दुर्धर्षवागि अनिसुत्तित्तु. रथद रक्षाकवचनवु सुन्दरवागित्तु. अदरल्लि श्रेष्ठ सामग्रिगळन्निरिसिदरु. अदु तन्न शान्तियिन्द नगुत्तिरुवन्तॆ कण्डुबरुत्तित्तु.॥26½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rumbling like a mighty thundercloud (mahājaladanirghoṣam), dazzling like the moon and sun made manifest (sākṣāc candrārkabhāsvaram), indomitable with its serpent standard (uragadhvajadurdharṣam), provided with a fine fender and excellent wheels (suvarūthaṃ svapaskaram)—
 </details>
 </details>
 
@@ -1229,6 +1385,12 @@ large cloud, actually shining like moon-light, inviolable with a flag bearing an
 with a good collision-guard, with nice wheels and decorated with a net of pure gold smiling as it
 were in its magnificence.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fitted with golden lattices (suvarṇajālasaṃyuktam) and laughing, as it were, with splendor (prahasantam iva śriyā). Then, mounting that chariot and entrusted with Rāvaṇa's command (rāvaṇārpitaśāsanaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1274,6 +1436,12 @@ whom command was given by Ravana; *aasthaaya* = mounted; *ratham* = his chariot;
 
 Then, Prahasta the one who was commanded by Ravana, ascended his chariot and set out
 from Lanka soon along with a huge army.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He sallied forth swiftly from Laṅkā, surrounded by a mighty host (balena mahatā vṛtaḥ); thereupon the rumble of kettle-drums, resembling the roar of rain-clouds (parjanyaninadopamaḥ), and the sound of musical instruments, as though filling the earth (pūrayann iva medinīm)—
 </details>
 </details>
 
@@ -1326,6 +1494,12 @@ While Prahasta the general sallied forth, the sound of a kettle-drum, the resona
 of musical instruments and the sound of conches were heard, as though filling the earth like the
 roar of a cloud.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Together with the blast of conchs, was heard (śuśruve śaṅkhaśabdaś ca) as the commander of the host marched forth (prayāte vāhinīpatau); and Rākṣasas, uttering dreadful cries (ninadantaḥ svarān ghorān), marched in front (jagmur agrataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1371,6 +1545,12 @@ with terrible; *svaraan* = voices; *jagmuH* = went; *agrataH* = in front;
 
 The demons with terrific forms and bulky bodies, shouting with dreadful voices, went
 in front, as forerunners of Prahasta.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Of terrible form and gigantic stature (bhīmarūpā mahākāyāḥ), marching before Prahasta (prahastasya puraḥsarāḥ), those lieutenants of Prahasta—Narāntaka, Kumbhahanu, Mahānāda, and Samunnata—sallied forth surrounding him (niryayuḥ parivārya tam).
 </details>
 </details>
 
@@ -1418,6 +1598,12 @@ attendants of Prahasta; *ete* = they; *niryayuH* = sallied forth; *parivaarya*
 Narantaka, Kumbhahanu, Mahanada and Samunnata, attendants of Prahasta sallied forth,
 surrounding him on all sides.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by a mighty, most dreadful host arrayed in battle order (vyūḍhenaiva sughoreṇa balena mahatā vṛtaḥ) and resembling a herd of elephants (gajayūthanikāśena), he sallied forth from the eastern gate (pūrvadvārāt sa niryayau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1463,6 +1649,12 @@ army; *gaja yuutha nikaashena* = resembling a herd of elephants.
 
 He emerged from the eastern gate in the midst of an immense, formidable and orderly
 arranged army, resembling a herd of elephants.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Encompassed by that army whose surging flood resembled the ocean (sāgarapratimaughena), Prahasta went forth in wrath, resembling Time, the Destroyer, and Yama (kālāntakayamopamaḥ).
 </details>
 </details>
 
@@ -1510,6 +1702,12 @@ appearing like Death at the end of the world.
 In the centre of that army, vast as the sea, that Prahasta in his fury, came forth
 appearing like Death at the end of the world.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the roar of his sallying forth and of the roaring Rākṣasas (tasya niryāṇaghoṣeṇa rākṣasānāṃ ca nardatām), all creatures in Laṅkā cried out with discordant voices (laṅkāyāṃ sarvabhūtāni vinedur vikṛtaiḥ svaraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1556,6 +1754,12 @@ calls; *sarvabhuutaani* = from all creatures; *laN^kaayaam* = in Lanka.
 The uproar that arose on his setting forth with his demons raising the war-cries
 drew sinister answering calls from all creatures in Lanka.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering a cloudless sky (vyabhram ākāśam āviśya), flesh- and blood-devouring birds (māṃsaśoṇitabhojanāḥ khagāḥ) wheeled in counter-clockwise circles (maṇḍalāny apasavyāni cakruḥ) toward his chariot.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1601,6 +1805,12 @@ right; *rathamprati* = towards the chariot.
 
 In a cloudless sky, birds of prey eating flesh and blood, flew in circles from left
 to right towards the chariot.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dreadful jackals howled, vomiting flames of fire (vamantyaḥ pāvakajvālāḥ śivā ghorā vavāśire); a meteor fell from the firmament (antarikṣāt papātolkā), and the wind blew harshly (vāyuś ca paruṣaṃ vavau).
 </details>
 </details>
 
@@ -1654,6 +1864,14 @@ sky; *vaayushcha* = and the wind; *vavau* = blew; *paruSam* = harshly.
 Fearful jackals vomited forth fire and flames, howling repeatedly. A meteor fell
 from the sky and the wind blew harshly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** The planets, locked in mutual hostility, did not shine (anyonyam abhisaṃrabdhā grahāś ca na cakāśire); and clouds with the braying sound of asses (meghāś ca kharanirghoṣāḥ) [gathered] above the Rākṣasa's chariot (rathasyopari rakṣasaḥ)—
+
+**37:** And rained down blood upon him (vavarṣū rudhiraṃ cāsya) and drenched his vanguard (siṣicuś ca puraḥsarān); while a vulture, perched atop his standard and facing south (ketumūrdhani gṛdhras tu vilīno dakṣiṇāmukhaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1696,6 +1914,12 @@ brilliance; *meghaashcha* = the clouds; *kharanirghoSaaH* = made harsh sounds;
 The plants, in opposition to each other, lost their brilliance. The clouds, with
 their raucous sound, showered blood on Prahasta's chariot and dampened those who were walking in
 front of it.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Screaming and pecking at both its flanks, robbed him of all his splendor (nadann ubhayataḥ pārśvaṃ samagrāṃ śriyam āharat); and as his charioteer repeatedly plunged into battle (sārather bahuśaś cāsya saṃgrāmam avagāhataḥ)—
 </details>
 </details>
 
@@ -1747,6 +1971,12 @@ standard; *nadan* = croaking; *ubhayataH paarshvam* = on its both the sides;
 A vulture facing the south alighted on the top of the standard, croaking towards
 both of its sides and deprived the demon of his entire lustre.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The goad fell from the hand of that driver and horse-trainer (pratodo nyapatad dhastāt sūtasya hayasādinaḥ); and that radiant and scarce-won splendor of his sallying forth (niryāṇaśrīś ca yā ca syād bhāsvarā ca sudurlabhā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1795,6 +2025,12 @@ The goad fell several times then from the hand of the charioteer, himself a Suta
 (the son of a Kshatriya by a Brahamana woman) eventhough skilled in controlling the horses, as he
 entered the battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perished within an hour (sā nanāśa muhūrtena), and his steeds stumbled on level ground (same ca skhalitā hayāḥ). Then the Vānara army, wielding manifold weapons in battle (yudhi nānāpraharaṇā kapisenā), advanced against Prahasta of renowned virtues and valor as he sallied forth (prahastaṃ taṃ hi niryāntam abhyavartata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1841,6 +2077,12 @@ ground.
 
 That rarely splendour which clothed Prahasta at the time of his exit vanished in an
 instant and horses stumbled on the even ground.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then there arose a most tumultuous roar from the Vānaras (atha ghoṣaḥ sutumulo harīṇāṃ samajāyata) as they wrenched up trees (vṛkṣān ārujatāṃ caiva) and seized massive boulders (gurvīr vai gṛhṇatāṃ śilāḥ).
 </details>
 </details>
 
@@ -1889,6 +2131,12 @@ battle.
 Beholding that Prahasta, renowned for his excellences and martial valour; as he
 advanced to give battle, the army of monkeys went forward to attack him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the Rākṣasas roared and the Vānaras bellowed (nadatāṃ rākṣasānāṃ ca vānarāṇāṃ ca garjatām), both armies—that of the Rākṣasa hosts and that of the forest-dwellers—were filled with battle-joy (ubhe pramudite sainye rakṣogaṇavanaukasām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1934,6 +2182,12 @@ monkeys; *aarujataam chaiva* = as they tore up; *vR^ikSaan* = the trees;
 
 Thereafter, an exceedingly tumultuous clamour arose among the monkeys as they tore
 up the trees and seized hold of huge rocks.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A mighty uproar was heard (ninādaḥ śrūyate mahān) of those swift and capable warriors who desired to slay one another (vegitānāṃ samarthānām anyonyavadhakāṅkṣiṇām) and who were challenging one another to combat (parasparaṃ cāhvayatām).
 </details>
 </details>
 
@@ -1993,6 +2247,12 @@ shouts.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तेळनॆय सर्ग पूर्णवायितु.॥57॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the deluded Prahasta (prahastaḥ durmatiḥ) marched forth for victory against the army of the Vānara king (kapirājavāhinīm abhipratasthe vijayāya), and he plunged into that host of surging impetuosity (vivṛddhavegāṃ ca viveśa tāṃ camūm), just as a moth bent on death plunges into a blazing fire (yathā mumūrṣuḥ śalabho vibhāvasum).
 </details>
 </details>
 

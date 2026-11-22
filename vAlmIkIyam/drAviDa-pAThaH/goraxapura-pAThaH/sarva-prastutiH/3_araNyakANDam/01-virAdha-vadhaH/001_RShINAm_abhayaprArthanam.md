@@ -133,6 +133,12 @@ of verse 1-1-4. The courage and invincibility are reflected in the opening verse
 sages. The sages are to be saved from the onslaught of demons, which requires, both courage and un-invincibility. Apart
 from the above *aatmavaan* normally means sagacious one.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having entered the vast forest (mahāraṇyam)—the forest of Daṇḍaka (daṇḍakāraṇyam)—the self-possessed (ātmavān) and unassailable (durdharṣaḥ) Rāma beheld a circle of ascetic hermitages (tāpasāśrama-maṇḍalam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -200,6 +206,12 @@ Now Rama and Seetha are passing through this dazzling Solar-orbit like hermitage
 devotees, and even to eradicate vice on earth. This appearance is without any prayers from the devotee, as contained in
 the above Vedic hymn. God reveals Himself
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Strewn round with sacred kuśa grass and bark-garments (kuśa-cīra-parikṣiptam) and enveloped in Brahmanic splendour (brāhmyā lakṣmyā), it was hard to gaze upon (durdarśam), like the blazing orb of the sun (sūrya-maṇḍalam) in the sky.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -244,6 +256,12 @@ many, dense with; *pakshi sanghaiH* = bird, groups; *sama aavritam* = well, teem
 
 Those hermitages have well-tidied thresholds on all sides, dense with many deer and teemed with many groups of birds, and
 they are the recourse for all living beings. [3-1-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ever a refuge for all living beings (śaraṇyaṃ sarva-bhūtānām) with its courtyards always well-swept (susammṛṣṭājiram), it was thronged with many deer and surrounded by flocks of birds (pakṣi-saṅghaiḥ).
 </details>
 </details>
 
@@ -317,6 +335,14 @@ Alter of Fire. The deerskin is the prescribed seat for meditation. The sacrifici
 domestic rituals, symbolising that the human kind shall prosper like the interlaced and intermingled grass, where the starting
 or the end point is intractable.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Constantly honored and danced near (upanṛttam) by troops of apsarases (apsarasāṃ gaṇaiḥ), [it was graced] with spacious fire-sanctuaries (agni-śaraṇaiḥ), sacrificial ladles and vessels (srug-bhāṇḍaiḥ), deerskins, and kuśa grass—
+
+**5:** Adorned with sacrificial kindling (samidbhiḥ), water-pitchers (toya-kalaśaiḥ), fruits, and roots, and encompassed by sacred, mighty forest trees (āraṇyaiś ca mahā-vṛkṣaiḥ) bearing sweet fruits (svādu-phalaiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -355,6 +381,12 @@ ninaaditam* = Brahma's, sounds [Vedic sounds,] reverberating with; *sa padmayaa 
 
 Those hermitages are sacrosanct for Ritual fire is being worshiped with fire-oblations and sacrifices to the reverberating
 Vedic sounds, and they are enwrapped with lotus ponds with lotuses, and even with flowers of forest. [3-1-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hallowed by bali offerings and fire-oblations (bali-homārcitam), sacred, resounding with the chanting of the Vedas (brahma-ghoṣa-nināditam), strewn round with other blossoms, and [graced] with a lotus-pond full of lotuses (padminyā ca sapadmayā).
 </details>
 </details>
 
@@ -409,6 +441,12 @@ tubers alone, ye their resplendence is like that that of the Sun-god or the Fire
 This *chiira* is the Sanskrit word for the present day *sari* and it is still called as *chiira* in
 some parts of India.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[That hermitage-circle] was filled with ancient sages (purāṇair munibhiḥ) who subsisted on fruits and roots (phala-mūlāśanaiḥ), were self-controlled (dāntaiḥ), wore garments of bark and black antelope-skin (cīra-kṛṣṇājināmbaraiḥ), and shone like the sun and fire (sūrya-vaiśvānarābhaiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -455,6 +493,12 @@ has seen.]
 Rama has seen such a cluster of hermitages that is glistening forth just by the presence of holy saints whose sustenance
 is constrained, and that hermitage is distinctive like Brahma's abode, reverberating with the sounds of that Brahma's Vedic
 chants alone. [3-1-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And graced by holy supreme sages (paramarṣibhiḥ) of regulated diet (niyatāhāraiḥ)—that [hermitage-circle], resembling the abode of Brahmā (brahma-bhavana-prakhyam) and resounding with the chanting of the Vedas (brahma-ghoṣa-nināditam),
 </details>
 </details>
 
@@ -504,6 +548,12 @@ bow; *vi jyam kR^itvaa* = without, bowstring, on making it; *abhyagacChat* = nea
 
 That glorious and great resplendent Rama on seeing those precincts of hermitage that is graced with highly blest Brahmans,
 the knowers of Brahma, neared it, unstringing the bowstring of his great bow. [3-1-9-10a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adorned by illustrious brāhmaṇas who were knowers of Brahman (brahma-vidbhiḥ)—beholding that circle of ascetic hermitages (tāpasāśrama-maṇḍalam), the glorious Rāghava,
 </details>
 </details>
 
@@ -564,6 +614,12 @@ which bow. Then if the archer is going to beam out an arrow, he shall pull the a
 and leave it, *aakarNaanta prayoga* . Here, removing the bowstring from its fastening implies that this archer, namely
 Rama who is so far handling the stringed bow, for he is roaming in forests, and since he is entering the place of elderly
 saints now, unfastened the bowstring in all his humbleness to sages and saints.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Of mighty splendour (mahā-tejāḥ), approached it after unstringing his great bow (vijyaṃ kṛtvā mahad dhanuḥ). Seeing Rāma, those great sages endowed with divine knowledge (divya-jñānopapannāḥ)
 </details>
 </details>
 
@@ -647,6 +703,14 @@ is now arising like moon, and at Lakshmana and at glorious Seetha as well, rende
 
 This context is also explained in the following ways:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Went forth in joy (prītāḥ) toward [him] and the illustrious Vaidehī; and beholding that follower of dharma (dharma-cāriṇam), who was like the rising moon (somam ivodyantam),
+
+**12:** And seeing Lakṣmaṇa too and the illustrious Vaidehī, those sages of firm vows (dṛḍha-vratāḥ) welcomed them (pratyagṛhṇan), pronouncing auspicious blessings (maṅgalāni prayuñjānāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -697,6 +761,12 @@ peculiar to themselves and not on par with the regular dress of hermits. This dr
 attire for onlookers, like demon Viradha, or monkey-chief Sugreeva, for these three do look like neither perfect sages nor
 perfect warriors. Even the demon Viradha scorns them in the next chapter, for the inconstancy in their attire and their
 wielding weapons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Their expressions filled with wonder (vismitākārāḥ), the forest-dwellers (vana-vāsinaḥ) gazed upon Rāma’s beauty and bodily symmetry (rūpa-saṃhananam), radiance (lakṣmīm), delicate youthfulness (saukumāryam), and fair attire (suveṣatām).
 </details>
 </details>
 
@@ -754,6 +824,12 @@ the sages lost their wink. And loosing any single wink will loose the sight of t
 vaikunTha; hence their unannounced arrival caused surprise in them, which further caused a
 wink-less state [3-1-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All those forest-dwellers gazed with unblinking eyes, as it were (netrair animiṣair iva), upon Vaidehī, Lakṣmaṇa, and Rāma, who appeared like marvels (āścarya-bhūtān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -799,6 +875,12 @@ atra parNa shaalaayaam* = into, hermitage; *atithim* = being the guest [guest a 
 Those august sages that are interested in the well being of all beings have indeed accommodated Rama in that hermitage,
 as Rama is their guest a priori. [3-1-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There those illustrious sages, ever devoted to the welfare of all beings (sarva-bhūta-hite ratāḥ), lodged Rāghava as an honored guest (atithim) in a leaf-thatched cottage (parṇa-śālāyām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -843,6 +925,12 @@ dharma chaariNaH* = they, the virtue, practisers -sages; *vidhinaa satkR^itya* =
 
 Then those august sages who are similar to sacred fire in glow have procedurally accorded guestship to Rama, and fetched
 water for him. [3-1-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then those illustrious followers of dharma (dharma-cāriṇaḥ), resplendent as fire (pāvakopamāḥ), having honored Rāma according to precept (vidhinā satkṛtya), brought water (salilam) [for arghya].
 </details>
 </details>
 
@@ -890,6 +978,12 @@ flowers, fruits; *sarvam aashramam ca* = entire, the hermitage, too; *mahaatmana
 
 On sounding out Vedic blessings those virtuous sages have offered flowers, fruits and tubers, and even the entire hermitage
 to that great soul Rama, and then with their palms adjoined. [3-1-17-18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Uttering auspicious blessings (maṅgalāni prayuñjānāḥ) and filled with supreme joy (mudā paramayā yutāḥ), [offering] roots, flowers, fruits, and their entire hermitage (sarvam āśramam) to the great-souled one—
 </details>
 </details>
 
@@ -978,6 +1072,14 @@ a pleasant one and presiding deity for medicinal herbs, so shall the king be ple
 external *aagneya vrata* . The earthly earth sustains scholars and stupid, wealthy and poor, prosperous and pathetic
 alike, so shall the king bear with all of his subjects *pR^ithvii vrata*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** Having presented [these], those knowers of dharma (dharma-jñāḥ), with joined palms (prāñjalayaḥ), spoke: “The protector of dharma (dharma-pālaḥ) for this people, their refuge (śaraṇyaḥ), and of great renown—”
+
+**19:** “Worthy of worship (pūjanīyaḥ) and worthy of honor (mānyaḥ), the king is the wielder of the rod of justice (daṇḍadharaḥ) and a preceptor (guruḥ); as a fourth part of Indra himself (indrasyaiva catur-bhāgaḥ), O Rāghava, he protects the subjects (prajā rakṣati).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1016,6 +1118,12 @@ be in forests; *naH raajaa* = you are, our, king; *jana iishvara* = of people.
 
 "You alone have to protect us as we are the subjects living in your kingdom..May you be in the capital... or in the forest...you
 are our king... [3-1-20b,c]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore the king, bowed to in reverence (namaskṛtaḥ), enjoys choice and delightful pleasures (varān bhogān ramyān). Dwelling within your realm (bhavad-viṣaya-vāsinaḥ), we are to be protected by you (bhavatā rakṣyāḥ); whether residing in the city or residing in the forest (nagarastho vanastho vā), you are our king and lord of men (janeśvaraḥ).”
 </details>
 </details>
 
@@ -1062,6 +1170,12 @@ tvayaa* = [we are to be] protected, by you; *shashvat garbha bhuuta* = [like] fo
 "We gave-up punishments, either physically or by the power of curses, conquered are our anger and senses, and our ascesis
 is the only wealth of ours, thus oh! King, we are to be protected by you, like the foetus inside a womb... [3-1-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We have laid aside the rod of punishment (nyasta-daṇḍāḥ), O king, having conquered anger (jita-krodhāḥ) and subdued our senses (jitendriyāḥ); rich only in austerity (tapo-dhanāḥ), we are ever to be protected by you like embryos in the womb (garbha-bhūtāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1106,6 +1220,12 @@ forest, also; *vividha aahaaraiH* = variety of, foods; *apuujayan* = worshipped.
 
 Thus saying they worshipped Raghava along with Lakshmana, on giving fruits, tubers, flowers and other varieties of forest
 foods. [3-1-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, they honored Rāghava together with Lakṣmaṇa (salakṣmaṇam) with fruits, roots, flowers, and other varied forest foods (vanyaiś ca vividhāhāraiḥ).
 </details>
 </details>
 
@@ -1159,6 +1279,12 @@ to the wont of custom. [3-1-23]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकि विरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मॊदलनॆय सर्ग सम्पूर्णवायितु.॥1॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likewise other perfected ascetics (tāpasāḥ siddhāḥ), resplendent as fire (vaiśvānaropamāḥ) and righteous in conduct (nyāya-vṛttāḥ), gratified that Lord (īśvaram) Rāma in due accordance with precept (yathā-nyāyam).
 </details>
 </details>
 

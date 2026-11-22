@@ -70,6 +70,12 @@ Then the monkey commanders sat on that beautiful mountain surrounding the eagle 
 all over, after that eagle has offered water-oblations for his deceased Jataayu and bathed for
 purification. [4-60-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the monkey troop-leaders (hariyūthapāḥ), having surrounded on all sides (parivārya samantataḥ) that vulture who had offered the water-libation (kṛtodakam) and bathed (snātam), sat down upon the pleasant mountain.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +121,12 @@ pratyayaH* = who caused, trust [trustworthy Sampaati]; *sampaatiH* = Sampaati;
 
 Sampaati who earned trustworthiness of monkeys, and who is sitting surrounded by all
 monkeys, again gladly spoke to Angada who sat at his close by. [4-60-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having inspired confidence (janitapratyayaḥ), Sampāti, out of joy (harṣāt), spoke again to that Aṅgada who was seated near (upāsīnam), surrounded by all those monkeys:
 </details>
 </details>
 
@@ -162,6 +174,12 @@ you listen.
 
 "Oh, monkeys, you all be quiet and listen to my words alertly as I wish to recount
 the actuality as to how I came to know about Maithili... [4-60-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having made silence (kṛtvā niḥśabdam), let the monkeys listen to me single-mindedly (ekāgrāḥ)! I shall recount the truth (tathyam) according as I know Maithilī.
 </details>
 </details>
 
@@ -213,6 +231,12 @@ was
 "Oh, impeccable Angada, once I have fallen on the peak of this Mt. Vindhya when
 sunrays completely burned my wings and limbs scorching in sun's heat... [4-60-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Long ago, O sinless one (anagha), I fell upon the peak of this Vindhya (asya vindhyasya śikhare), my limbs encompassed by the heat of the sun (sūryatāpaparītāṅgaḥ), scorched by the sun's rays (nirdagdhaḥ sūryaraśmibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -259,6 +283,12 @@ control [helpless]; *sarvaaH dishaH viikSamaaNaH* = in all, directions, on looki
 "On getting sensitivity after six days, and on looking in all directions I could not
 recognise anything in the least, as I was helpless and frantic... [4-60-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having regained consciousness (labdhasaṃjñaḥ) after six nights (ṣaḍrātrāt), helpless and as though reeling (vihvalann iva), looking toward all the directions, I did not recognize anything at all (nābhijānāmi kiṃcana).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -304,6 +334,12 @@ senses, came [I could sensate.]
 
 "But then on observing all the oceans, mountains, rivers, lakes, provinces and
 forests, I could regain senses... [4-60-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, having surveyed (nirīkṣya) the oceans, mountains, all the rivers, and lakes, and the forests and regions (pradeśāṃś ca), recollection came [to me] (matir āgatā).
 </details>
 </details>
 
@@ -352,6 +388,12 @@ this one is this mountain is; *dakSiNasya udadheH tire* = southerly, ocean's, at
 is with peaks of its own kind, thus I resolved this to be Mt. Vindhya at the coast of southern
 ocean... [4-60-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thronged with flocks of joyful birds (hṛṣṭapakṣigaṇākīrṇaḥ), possessing caves, hollows, and peaks (kandarodarakūṭavān), on the shore of the southern ocean (dakṣiṇasyodadhes tīre)—`This is Vindhya,' so it was ascertained [by me] (niścitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +439,12 @@ intense, ascesis; *R^iSiH abhavat* = a sage, was there.
 
 "There was a sacred hermitage belonging to a sage of intense ascesis known as Sage
 Nishaakara which was reverenced even by gods. [4-60-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And here there was a sacred hermitage (āśramaṃ puṇyam), well-honored even by the gods (surair api supūjitam), wherein dwelt the sage named Niśākara of fierce austerity (ugratapāḥ).
 </details>
 </details>
 
@@ -444,6 +492,12 @@ thousand years; *[gatau* = lapsed.]
 
 "Eight thousand years have lapsed while I was living here on this mountain after the
 departure of that probity knowing sage Nishakara to heaven. [4-60-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While I have been dwelling (vasato mama) on this mountain, eight thousand years (aṣṭau varṣasahasrāṇi) [have passed] since Niśākara, knower of righteousness (dharmajñe), went to heaven (svargate).
 </details>
 </details>
 
@@ -497,6 +551,12 @@ onerously and slowly, whereat the sacred-grass-blades are thorny... [4-60-10]
 The grass blades became thorny because sages nipped their apices and they dried
 up and became thorny for a wingless eagle perching almost on its belly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And having descended (avatīrya) slowly with difficulty (kṛcchreṇa) from the rugged summit of Vindhya (vindhyāgrāt viṣamāt), I came again with pain to the earth covered with sharp darbha-grass (tīkṣṇadarbhāṃ vasumatīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -542,6 +602,12 @@ thus; *bahushaH abhigataH hi* = many times, [he was] approached, indeed.
 
 "As I was desiring to see that sage I neared that place with much anguish, because I
 and Jataayu approached that sage for many a time in earlier times... [4-60-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Desirous of beholding that sage (tam ṛṣiṃ draṣṭukāmaḥ), I approached with great pain (duḥkhenābhyāgato bhṛśam); for he had been visited (adhigataḥ) many times (bahuśaḥ) by Jaṭāyus and by me.
 </details>
 </details>
 
@@ -592,6 +658,12 @@ vaa* = without, fruits, either; *na* = is not seen.
 "Near about his hermitage wind wiffles with a sweet-smell, and no tree is flowerless
 and no tree is fruitless, whatsoever it is... [4-60-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In the vicinity of his hermitage-ground (tasyāśramapadābhyāśe) blew fragrant breezes (vātāḥ sugandhinaḥ); not a single tree was seen unblossomed (apuṣpitaḥ) or fruitless (aphalo vā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -638,6 +710,12 @@ present] I awaited.
 
 "On nearing that sacred hermitage and sheltering myself at the base of a tree, I
 waited there desirous to see that godly Nishaakara... [4-60-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And having approached the sacred hermitage, resting at the root of a tree (vṛkṣamūlam upāśritaḥ), desirous of beholding [him], I awaited (pratīkṣe) the reverend Niśākara.
 </details>
 </details>
 
@@ -689,6 +767,12 @@ am seeing - I saw.
 "Then I saw the sage available distantly, returning facing north after performing
 his holy bath, an unassailable sage irradiating the ambience with his radiance... [4-60-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then I beheld (paśyāmi) at a distance (dūrastham) the sage of blazing splendor (jvalitatejasam), having performed his ablutions (kṛtābhiṣekam), unassailable (durdharṣam), returning facing north (udāṅmukham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -739,6 +823,12 @@ gacChanti* = at heel, they are going - following him.
 "Bears, antelopes, tigers, lions, and diverse reptiles and snakes are following him
 at his heel, as with living beings following a donor, or all-donating Brahma... [4-60-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bears, sṛmara-deer, tigers, lions, and various reptiles (nānāsarīsṛpāḥ) approached surrounding him, as living beings [surround] a giver (dātāraṃ prāṇino yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -787,6 +877,12 @@ those, beings [animals etc.,] went away.
 place-chambers, so also the animals and other beings on knowing the sage's entry into his
 hermitage, retraced their steps and went away... [4-60-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, knowing the sage to have arrived (prāptam ṛṣiṃ jñātvā), those creatures departed (yayuḥ), just as an entire army together with its ministers (sāmātyakaṃ balam) [departs] when the king has entered [his inner apartments].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -833,6 +929,12 @@ of my coming,] he asked about.
 
 "But the sage is gladdened on seeing me and though he has entered into his hermitage
 he again came out in a moment and asked about the objective of my visit... [4-60-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The sage, pleased upon seeing me, entered the hermitage again; and having come out (nirgamya) after just a moment (muhūrtamātrāt), he then inquired after my purpose (kāryam apṛcchata):
 </details>
 </details>
 
@@ -881,6 +983,12 @@ being identified [you are]; *imau pakSau agni dagdhau* = these two, wings, by fi
 unidentifiable. These two wings of yours are fire burnt, but lives are let out in your body...'
 Thus, the sage started to talk to me... [4-60-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`O gentle one (saumya), seeing the disfigurement of your feathers (vaikalyatāṃ romṇāṃ te), [you] are not recognized (nāvagamyate); these two wings are burnt by fire (agnidagdhāv imau pakṣau), and the vital powers (prāṇāś cāpi) remain in your frail body (śarīrake).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -921,6 +1029,12 @@ similar to; *kaama ruupiNau* = by wish, form-changers - this is an inconsistent 
 
 " 'I have earlier seen you two eagle brothers, kingly eagles among eagles, similar
 in your speed to Wind-god and form-changers by your wish... [4-60-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Two vultures were seen before by me (dṛṣṭapūrvau me), equal to the Wind-god in speed (mātariśvasamau jave), kings of the vultures, brothers able to assume any form at will (kāmarūpiṇau).
 </details>
 </details>
 
@@ -968,6 +1082,12 @@ feet.
 
 " 'You are the elder, isn't it! And Jataayu is your younger brother. You used to
 touch my feet taking up human forms... [4-60-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Known (avitaḥ) are you as the elder, O Sampāti, and Jaṭāyus is your younger brother (anujas tava); assuming human form (mānuṣaṃ rūpam āsthāya), you two used to clasp my feet (gṛhṇītāṃ caraṇau mama).
 </details>
 </details>
 
@@ -1030,6 +1150,12 @@ any scourge imposed on you, if so, who is he... tell me all who am inquiring int
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद अरवत्तनॆय सर्ग सम्पूर्णवायितु.॥60॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`What is the origin of your ailment (vyādhisamutthānam)? How came the falling of your wings (pakṣayoḥ patanam)? Or by whom was this punishment inflicted (daṇḍo vāyaṃ dhṛtaḥ kena)? Tell everything to me who ask (pṛcchataḥ)!'
 </details>
 </details>
 

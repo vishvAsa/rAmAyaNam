@@ -36,6 +36,12 @@ title = "०४२ सीता-दौर्हृदम्"
 
 सुवर्णभूषित पुष्पक विमानवन्नु बीळ्कॊट्टु महाबाहु श्रीरामनु अशोका वनवन्नु (अन्तःपुरद समीपदल्लिद्द विहार योग्यवाद उपवन) प्रवेशिसिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus dismissed the gold-adorned Puṣpaka (puṣpakaṃ hemabhūṣitam), the mighty-armed Rāma then entered the royal Aśoka pleasure-grove (praviveśa ... aśokavanikām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०४२ सीता-दौर्हृदम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 चन्दन, अगरु, मावु, तॆङ्गु, रक्तचन्दन हागू देवदारु मुन्ताद वृक्षगळिन्द आ अशोकवनद शोभॆयन्नु हॆच्चिसिद्दवु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beautified on every side (samantād upaśobhitām) by sandalwood, aloe-wood, and mango trees (candanāguru-cūtaiḥ), by tuṅga and red-sandalwood kāleyaka trees, and by groves of deodar cedars (devadāru-vanaiḥ);
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०४२ सीता-दौर्हृदम्"
 
 सम्पिगॆ, अशोक, पुन्नाग, हिप्पॆ, हलसु, हॊन्नॆ, हॊगॆयिल्लद अग्नियन्तॆ प्रकाशिसुत्तिद्द पारिजातदिन्द आ वाटिका सुशोभितवागित्तु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adorned with campaka, aśoka, punnāga, madhūka, jackfruit (panasa), and asana trees, and with pārijāta coral-trees radiant as smokeless fire (vidhūma-jvalana-prabhaiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "०४२ सीता-दौर्हृदम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लोध्र, नीप, मत्ति, नागकेसर, ऎळॆलॆ बाळॆ, ताळॆ, मन्दार, कदळि मुन्ताद मर-गिडगळु हागू लता समूहगळु अदरल्लि ऎल्लॆडॆ हरडिद्दवु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Covered over with lodhra, nīpa, arjuna, nāgakeśara, saptaparṇa, and atimuktaka jasmine, and thickets of mandāra, plantain groves, and tangles of creepers (kadalī-gulma-latājāla-samāvṛtām);
 </details>
 </details>
 
@@ -139,6 +163,12 @@ _________________
 
 प्रियङ्गु, कदम्ब, वकुल, नेरळॆ, दाळिम्बॆ, कोविदार मुन्ताद वृक्षगळु आ उपवनवन्नु सुशोभित गॊळिसुत्तिद्दवु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Graced with priyaṅgu, kadamba, and vakula trees as well, and beautified with rose-apple (jambū), pomegranate (dāḍima), and kovidāra orchid-trees;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +197,12 @@ _________________
 
 सदाकाल हूवु -हण्णु कॊडुव रमणीय, मनोरम, दिव्यरस मत्तु सुगन्धयुक्त हागू नव पल्लवगळिन्द अलङ्कृत वृक्षगळू आ अशोक वनद शोभॆयन्नु हॆच्चिसिद्दवु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—All perpetually lovely with blossoms (sarvadā kusumai ramyaiḥ), charming and laden with fruit (phalavadbhir manoramaiḥ), endowed with celestial fragrance and savor (divya-gandha-rasopetaiḥ), and crowned with tender sprouts and young leaves (taruṇāṅkura-pallavaiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -191,6 +227,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वृक्षगळन्नु नॆडुवुदरल्लि कुशल मालिगळिन्द बॆळॆसल्पट्ट दिव्य वृक्षगळल्लि मनोहर पल्लव हागू पुष्पगळिन्द शोभिसुव, मत्तु भृङ्गगळु हाराडुत्तिद्द मरगळु आ उपवनद शोभॆयन्नु वृद्धिगॊळिसुत्तिद्दवु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—And likewise with celestial trees arranged by divine artisans (tarubhir divyaiḥ śilpibhiḥ parikalpitaiḥ), rich in lovely foliage and blossoms (cāru-pallava-puṣpāḍhyaiḥ) and thronging with intoxicated bees (matta-bhramara-saṅkulaiḥ);
 </details>
 </details>
 
@@ -217,6 +259,12 @@ _________________
 
 कोगिलॆ, भृङ्गराज मुन्ताद बण्ण-बण्णद नूरारु पक्षिगळु आ वाटिकॆय शोभॆयागित्तु. अवु माविन चिगुरुगळल्लि कुळितु चित्र-विचित्रवागि शोभिसुत्ता वाटिकॆय अन्दवन्नु हॆच्चिसिद्दवु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adorned by hundreds (śobhitāṃ śataśaḥ) with koels, bhṛṅgarāja drongos, and birds of varied plumage (nānāvarṇaiś ca pakṣibhiḥ), and made picturesque with mango-tree ornaments (citrāṃ cūtavṛkṣāvataṃsakaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,6 +289,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कॆलवु वृक्षगळु सुवर्णदन्तॆ हळदियागि, कॆलवु अग्निशिखॆ यन्तॆ उज्वल मत्तु कॆलवु नीलवाद काडिगॆयन्तॆ श्यामलवर्णदिन्द सुशोभितवागिद्दु, आ उप वनवन्नु बॆळगुत्तिद्दवु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some trees there shone like burnished gold (śātakumbha-nibhāḥ), some resembled tongues of fire (agniśikhopamāḥ), while other trees native to that grove gleamed like dark blue collyrium (nīlāñjana-nibhāḥ ... tatratya-pādapāḥ).
 </details>
 </details>
 
@@ -267,6 +321,12 @@ _________________
 
 अल्लि अनेक प्रकारद सुगन्धित पुष्पगुच्छगळु कण्डुबरुत्तिद्द हागू स्वच्छवाद नीरिनिन्द तुम्बिद, विध-विधवाद आकारद पुष्करिणिगळु शोभिसुत्तिद्दवु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There were fragrant blossoms and flower-clusters of every sort (surabhīṇi ca puṣpāṇi mālyāni vividhāni ca), and pleasure-ponds of varied shapes (dīrghikā vividhākārāḥ) filled with the purest water (pūrṇāḥ paramavāriṇā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,6 +352,12 @@ _________________
 
 अवुगळल्लि माणिक्यद मॆट्टलुगळिद्दु, नीरॊळगिन नॆल स्फटिकमणिगळिन्द निर्मिसिद्दरु. आ कॊळगळल्लि अरळिद कमल, नैदिलॆगळिन्द शोभिसुत्तिद्दवु. चक्रवाकगळू अदरल्लि विहरिसुत्तिद्दवु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With stairways wrought of rubies (māṇikya-kṛta-sopānāḥ) and interior paved floors of crystal (sphāṭikāntara-kuṭṭimāḥ), filled with groves of full-blown lotuses and blue water-lilies (phulla-padmotpala-vanāḥ) and graced by cakravāka pairs;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -316,6 +382,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कोगिलॆगळू, गिळिगळु, हंस, सारसगळ कलरववु प्रतिध्वनिसुत्तित्तु. हूवुगळ बण्ण-बण्णगळिन्द कण्डुबरुव तटद वृक्षगळिन्द आ सरोवरगळु शोभिसुत्तिद्दवु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resounding with gallinules and parrots (dātyūha-śuka-saṅghuṣṭāḥ), echoing with the calls of swans and cranes (haṃsa-sārasa-nāditāḥ), and bordered by flowering trees growing along their banks (tarubhiḥ puṣpavadbhiś ca tīrajair upaśobhitāḥ).
 </details>
 </details>
 
@@ -348,6 +420,12 @@ _________________
 
 वाटिकॆयु बगॆ-बगॆ प्राकारगळिन्दलू, शिलॆगळिन्दलू सुशोभितवागित्तु. आ वनप्रान्तवु वैडूर्यमणिगळन्ति रुव हरिसु हुल्लिनिन्द शृङ्गरिसल्पट्टित्तु. अल्लिय वृक्षगळु हूवुगळ भारदिन्द बागिहोगिद्दवु.॥13½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—And adorned with boundary walls of varied designs (prākārair vividhākāraiḥ) and smooth stone slabs (śilātalaiḥ). And in that very woodland tract (tatraiva ca vanoddeśe),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -373,6 +451,12 @@ _________________
 
 पुष्पभरितवाद वृक्षगळु आगाग गाळिय बडितक्कॆ सङ्घर्षिसुत्तिद्दु, कॆळक्कॆ बीळुत्तिद्द पुष्पगळिन्द मुच्चल्पट्ट कल्लु बण्डॆगळु, नक्षत्रगळिन्द निबिडवाद आकाशदन्तॆ काणुत्तित्तु.॥14½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He beheld the grove richly carpeted with lawns resembling cat’s-eye gems (vaiḍūryamaṇi-sannibhaiḥ śādvalaiḥ paramopetām), with thickets of blossoming trees (puṣpita-druma-kānanām); and there, beneath flowering trees that grew in dense, rivalrous profusion (saṅgharṣa-jātānāṃ vṛkṣāṇām),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +481,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्द्रन नन्दनवनदन्तॆ, ब्रह्मनु निर्मिसिद कुबेरन चैत्ररथदन्तॆ अदु शोभिसुत्तित्तु. सुन्दर भवनगळिन्द विभूषितवागि श्रीरामन क्रीडाकाननवु शोभा सम्पन्नवागित्तु.॥15½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The stone slabs dappled with fallen petals (prastarāḥ puṣpa-śabalāḥ) gleamed like the sky studded with hosts of stars (nabhas tārāgaṇair iva); even as Indra’s Nandana grove (nandanaṃ hi yathendrasya) and Brahmā-fashioned Caitraratha (brāhmaṃ caitrarathaṃ yathā), just such was Rāma’s well-ordered pleasure-wood (kānanaṃ sanniveśanam)!
 </details>
 </details>
 
@@ -427,6 +517,14 @@ _________________
 
 अल्लि ऒळगॆ कुळितुकॊळ्ळलु अनेक आसनगळिद्द भवनगळु बहळष्टु इद्दवु. आ वाटिकॆयु अनेक लतामण्टपगळिन्द सुन्दरवागि काणुत्तित्तु. आ समृद्धशाली अशोकवनदल्लि प्रवेशिसिद श्रीरामनु पुष्पराशिगळिन्द विभूषिकत रत्नगम्बळि हासिद ऒन्दु सुन्दर आसनदल्लि कुळितनु.॥16½-17½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** Entering that flourishing Aśoka grove (aśokavanikāṃ sphītām), furnished with many sitting pavilions (bahvāsana-gṛhopetām) and encircled by vine-bowers (latāgṛha-samāvṛtām), the delight of the Raghus
+
+**17:** Seated himself (sanniṣasāda ha) upon a handsome couch (āsane ca śubhākāre) adorned with heaps of blossoms (puṣpa-prakara-bhūṣite) and spread over with a mat of kuśa grass (kuśāstaraṇa-saṃstīrṇe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -451,6 +549,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवेन्द्रनु शचिगॆ सुधापान माडिसिदन्तॆये काकुत्स्थकुलभूषण श्रीरामनु तन्न कैयिन्द पवित्र मधुपेयवन्नु ऎत्तिकॊण्डु सीतॆगॆ कुडिसिदनु.॥18½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking Sītā by the hand—and holding pure sweet maireya cordial (madhumaireyakaṃ śuci)—Kākutstha caused her to drink (pāyayām āsa), even as Purandara [Indra] gives ambrosia to Śacī (śacīm iva purandaraḥ).
 </details>
 </details>
 
@@ -477,6 +581,12 @@ _________________
 
 सेवकरु श्रीरामन भोजनार्थ राजोचित भोज्य पदार्थ (बगॆ-बगॆय अडिगॆ) हागू नाना प्रकारद फलगळन्नु कूडले तन्दिरिसिदरु.॥19½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Attendants swiftly brought (kiṅkarās tūrṇam āharan) well-dressed meats and delicacies (māṃsāni ca samṛṣṭāni) and fruits of varied kinds (phalāni vividhāni ca) for Rāma’s repast (rāmasyābhyavahārārtham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -501,6 +611,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग राजारामन ऎदुरिगॆ गीत-नृत्यदल्लि परिणित अप्सरॆयरु, नागकन्यॆयरु, किन्नरियरॊन्दिगॆ सेरि नृत्य माडतॊडगिदरु.॥20½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And lovely young women (bālāś ca rūpavatyaś ca striyaḥ), skilled in dance and song (nṛtyagīta-viśāradāḥ) and exhilarated under the sway of drink (pānavaśānugāḥ), danced before the king (upānṛtyaṃś ca rājānam).
 </details>
 </details>
 
@@ -530,6 +646,12 @@ _________________
 
 नृत्य-गीतदल्लि कुशल मत्तु चतुरराद अनेक रूपवती स्त्रीयरु मधुपानदिन्द उन्मत्तरागि श्रीरामचन्द्रन बळियल्लि तम्म नृत्यकलॆयन्नु प्रदर्शिसिदरु.॥21½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those heart-enchanting maidens (manobhirāmā rāmās tāḥ) the righteous-souled Rāma, foremost of those who bring delight (rāmo ramayatāṃ varaḥ), ever splendidly adorned (parama-bhūṣitaḥ), delighted continually (ramayām āsa nityam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -554,6 +676,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बेरॆयवर मनस्सन्नु रमिसुव पुरुषश्रेष्ठ धर्मात्मा श्रीरामनु सदा उत्तम वस्त्राभूषणगळिन्द अलङ्कृतराद आ मनोभिराम रमणियरिगॆ उडुगॊरॆयन्नु कॊट्टु सन्तोषपडिसुत्तिद्दनु.॥22½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated together with that Sītā (sa tayā sītayā sārdham āsīnaḥ), he shone resplendent (virarāja ha), like Vasiṣṭha glowing in spiritual radiance seated beside Arundhatī (arundhatyā sahāsīno vasiṣṭha iva tejasā).
 </details>
 </details>
 
@@ -580,6 +708,12 @@ _________________
 
 आग भगवान् श्रीरामनु सीतादेवियॊन्दिगॆ सिंहासनदल्लि विराजिसुत्ता, तन्न तेजदिन्द अरुन्धतियॊन्दिगॆ कुळितिरुव वसिष्ठरन्तॆ शोभिसुत्तिद्दनु.॥23½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus Rāma, filled with gladness (mudā yuktaḥ), delighted Vaidehī Sītā—lovely as a daughter of the gods (surasutopamām)—day after day, like an immortal deity (ahany ahani devavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -604,6 +738,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ श्रीरामनु प्रतिदिन देवतॆगळन्तॆ आनन्दितनागिद्दु, देवकन्यॆयन्तिरुव सुन्दरि वैदेहि सीतॆयॊन्दिगॆ रमिसुत्तिद्दनु.॥24½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While those two, Sītā and Rāghava, sported thus for a long while (tathā tayor viharatoḥ ... ciram), the auspicious winter season, ever rich in enjoyments (śubhaḥ kālaḥ śaiśiro bhogadaḥ sadā), glided past.
 </details>
 </details>
 
@@ -632,6 +772,14 @@ _________________
 
 ई प्रकार सीतारामरु चिरकाल विहरिसुत्तिद्दरु. अष्टरल्लि सदा भोगप्रदान माडुव शिशिर ऋतुविन सुन्दर समय कळॆदुहोयितु. बगॆ-बगॆय भोगगळन्नु अनुभवि सुत्ता राजदम्पतिगळ आ शिशिरकाल मुगिदु होयितु.॥25-26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** Ten thousand years passed thus for those two exceedingly high-souled ones (daśa-varṣa-sahasrāṇi gatāni sumahātmanoḥ) as they enjoyed manifold delights (prāptayor vividhān bhogān), and the winter’s course came to an end (atītaḥ śiśirāgamaḥ).
+
+**26:** Having discharged his righteous duties in the forenoon in accordance with dharma (pūrvāhṇe dharmakāryāṇi kṛtvā dharmeṇa), that knower of dharma spent the remaining half of the day (śeṣaṃ divasa-bhāgārdham) in the inner apartments (antaḥpuragato ’bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -656,6 +804,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धर्मज्ञ श्रीराम पूर्वाह्णदल्लि धर्मक्कनुसार धार्मिक कृत्य माडुत्तिद्दनु मत्तु उळिद अर्धदिन अन्तःपुरदल्लि इरुत्तिद्दनु.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Sītā too, having performed the morning rites to the gods (devakāryāṇi kṛtvā paurvāhṇikāni), paid reverent homage to all her mothers-in-law without distinction (śvaśrūṇām akarot pūjāṃ sarvāsām aviśeṣataḥ),
 </details>
 </details>
 
@@ -682,6 +836,12 @@ _________________
 
 सीतॆयू कूड पूर्वाह्णदल्लि देवपूजादिगळन्नु माडि, ऎल्ल अत्तॆयरिगॆ समानरूपदिन्द सेवॆ-पूजॆ माडुत्तिद्दळु.॥28॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And then approached Rāma (abhyagacchat tato rāmam), arrayed in varied ornaments and fine robes (vicitrābharaṇāmbarā), even as Śacī approaches thousand-eyed Indra seated in heaven (triviṣṭape sahasrākṣam upaviṣṭaṃ yathā śacī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -707,6 +867,12 @@ _________________
 
 अनन्तर स्वर्गदल्लि शचियु सहस्राक्ष इन्द्रन सेवॆयल्लि उपस्थितळागुवन्तॆ, सीतॆयु चित्रित वस्त्रभूषणगळिन्द अलङ्कृतळागि श्रीरामचन्द्रन बळिगॆ बरुत्तिद्दळु.॥29॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding his wife endowed with the auspicious signs of motherhood (patnīṃ kalyāṇena samanvitām), Rāghava felt incomparable joy (praharṣam atulaṃ lebhe) and exclaimed, “Well done! Well done!” (sādhu sādhv iti cābravīt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -731,6 +897,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आगले श्रीरामचन्द्रनु तन्न पत्निय गर्भिणिय मङ्गलमय चिह्नॆगळन्नु नोडि, अनुपम हर्षितनागि - ‘बहळ ऒळ्ळॆयदु, बहळ उत्तम’ ऎन्दु नुडिदनु.॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And he addressed the fair-hipped Sītā, lovely as a daughter of the gods (varārohāṃ sītāṃ surasutopamām): “The blessing of offspring (apatyalābhaḥ), O Vaidehī, has drawn nigh for me in you (tvayi me samupasthitaḥ)! What do you desire, O lovely one—what wish of yours may be fulfilled (kim icchasi varārohe kāmaḥ kiṃ kriyatāṃ tava)?”
 </details>
 </details>
 
@@ -758,6 +930,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ अवनु देवकन्यॆयन्तॆ सुन्दरी सीतॆयल्लि हेळिदनु - वैदेहि! निन्न गर्भदिन्द पुत्रप्राप्तवागुव समय ईग उपस्थितवागिदॆ. वरारोहे! निनगेनु इच्छॆ इदॆ? तिळिसु. नानु निन्न याव मनोरथ पूर्णगॊळिसलि.॥31½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Smiling gently (smitaṃ kṛtvā), Vaidehī then spoke these words to Rāma: “I long to behold the sacred penance-groves (tapovanāni puṇyāni draṣṭum icchāmi), O Rāghava,
 </details>
 </details>
 
@@ -799,6 +977,16 @@ _________________
 
 अदक्कॆ सीतॆयु मुगुळ्नक्कु श्रीरामनल्लि हेळिदळु- रघुनन्दन ! ननगॆ ऒम्मॆ आ पवित्र तपोवनगळन्नु नोडबेकॆम्ब बयकॆ इदॆ. देव! गङ्गातीरदल्लि इद्दु फल-मूल तिन्नुव उग्र तेजस्वी महर्षिगळ बळियल्लि कॆल दिन इरलु बयसुत्तिरुवॆनु. काकुत्स्थने ! फल-मूल भुञ्जिसुव महात्मर तपोवनदल्लि ऒन्दु रात्रॆ कळॆयबेकॆम्बुदे ईग नन्न अभिलाषॆयागिदॆ.॥32-34½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** “And to wait at the feet (pādamūleṣu vartitum) of the fiercely radiant sages dwelling along the banks of the Gaṅgā (gaṅgātīropaviṣṭānām ṛṣīṇām ugratejasām), who subsist upon fruits and roots (phalamūlāśinām), O Lord!
+
+**33:** “This is my dearest wish (eṣa me paramaḥ kāmaḥ), O Kākutstha—that I might dwell even for a single night (apy ekarātraṃ ... nivaseyam) in the hermitage (tapovane) of those who live on roots and fruits (mūlaphala-bhojinām)!”
+
+**34:** “So be it!” (tatheti) was the solemn promise given by Rāma of unwearied deeds (pratijñātaṃ rāmeṇākliṣṭakarmaṇā): “Be wholly assured, O Vaidehī (visrabdhā bhava vaidehi); tomorrow you shall go without a doubt (śvo gamiṣyasy asaṃśayam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -823,6 +1011,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आयासविल्लदॆ महाकार्य माडुव श्रीरामनु सीतॆय ई इच्छॆयन्नु पूर्णगॊळिसलु प्रतिज्ञॆ माडि हेळिदनु - विदेहनन्दिनी! निश्चिन्तळागिरु. नाळॆये अल्लिगॆ होगुवॆ. इदरल्लि संशयवे इल्ल.॥35॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to Maithilī, daughter of Janaka (maithilīṃ janakātmajām), Kākutstha Rāma went forth into the middle courtyard (madhya-kakṣāntaraṃ ... nirjagāma), surrounded by his close companions (suhṛdvṛtaḥ).
 </details>
 </details>
 

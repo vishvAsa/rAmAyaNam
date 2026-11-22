@@ -73,6 +73,12 @@ uttaram* = what, later - has happened later; *tat shR^iuNuSva* = that, you hear.
 may also listen to what has happened later in his adulthood." Thus Maareecha continued his advise
 to Ravana. [4-39-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus was I somehow released by him in battle at that time (tadā); hear now what befell me even at this time (idānīm api), and what followed thereafter (yad uttaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +129,12 @@ entered.
 "Though Rama hit me previously in such a way, I unabashedly entered Dandaka forest
 together with two more demons who were in the guise of animals. [4-39-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Though reduced to that plight (tathākṛtaḥ), I remained undeterred (anirviṇṇaḥ); accompanied by two rākṣasas who had assumed the forms of deer (mṛga-rūpābhyām), I entered into the Daṇḍaka forest.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -172,6 +184,12 @@ anvaya - have a concatenation with - raamaam aasaadayan - I reached Rama - in th
 and excruciating horns, and with an extraordinary energy, I was on the rove in Dandaka forest while
 getting at Rama. [4-39-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With a blazing tongue (dīpta-jihvaḥ), huge fangs, and sharp horns (tīkṣṇa-śṛṅgaḥ), of mighty strength, I roamed the Daṇḍaka forest as a great flesh-eating deer (māṃsa-bhakṣo mahā-mṛgaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,6 +237,12 @@ holy bathing places, sanctuaries, trees of; *taapasaan* = sages; *sam pra dharSa
 animal, utterly brutalising the sages at ritual-altars, holy bathing places and under the trees of
 religious sanctuaries while reaching Rama. [4-39-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Among the fire-sanctuaries (agnihotreṣu), sacred bathing-places (tīrtheṣu), and sanctuary trees (caitya-vṛkṣeṣu), O Rāvaṇa, I roamed about, exceedingly dreadful (atyanta-ghoraḥ), assaulting those ascetics.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -264,6 +288,12 @@ their, fleshes, on feasting, also; I roamed.
 
 "I have proceeded to Rama killing saints in Dandaka forest who are the treaders in
 saintliness, and drinking off their blood and feasting on their flesh. [4-39-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Slaying the righteous ascetics (tāpasān dharma-cāriṇaḥ) in the Daṇḍaka forest, drinking their blood and devouring their flesh—
 </details>
 </details>
 
@@ -315,6 +345,12 @@ vyacaran* = in Dandaka, forest, rambling.
 the forest dwellers, and in that way I rambled in Dandaka forest besotted with blood-drinking while
 reaching Rama. [4-39-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Cruel and feeding on the flesh of sages (ṛṣi-māṃsāśanaḥ), terrifying the forest-dwellers (vana-gocarān), I roamed the Daṇḍaka forest at that time, intoxicated with blood (rudhira-mattaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -362,6 +398,14 @@ reached.
 "While I was wandering in Dandaka forest as an abuser of virtue, then I reached Rama
 who by then has assumed the rectitude befitting to a saint, and I even reached the great-fortunate
 Vaidehi and top-speeded-chariot-rider Lakshmana. [4-39-7, 8a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** “Roaming at that time in the Daṇḍaka forest as a defiler of dharma (dharma-dūṣakaḥ), I then came upon Rāma, an ascetic devoted to righteousness (dharmam āśritam)—
+
+**8:** “Along with the illustrious Vaidehī and the great chariot-warrior Lakṣmaṇa—an ascetic restrained in his diet (niyatāhāram) and devoted to the welfare of all beings (sarva-bhūta-hite ratam).
 </details>
 </details>
 
@@ -418,6 +462,14 @@ hermit. In that way, I was very extremely infuriated to recollect his earlier as
 indiscriminately dashed towards him, only to kill him, completely disregarding his other faculties.
 [4-39-8b, 9, 10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** “Disdaining (paribhūya) that mighty Rāma who had repaired to the forest, thinking, ‘He is [merely] an ascetic’ (tāpaso 'yam iti jñātvā), and remembering my former enmity (pūrva-vairam anusmaran)—
+
+**10:** “Fiercely enraged, sharp-horned, and in the form of a deer (mṛgākṛtiḥ), I rushed at him (abhyadhāvam), desiring to slay him in my mindless folly (akṛta-prajñaḥ) as I remembered that [earlier] blow.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -466,6 +518,12 @@ arrows; *tyaktaaH muktaaH* = are released.
 enemy eliminating arrows which in their egress match the Air-god and the Divine-Eagle Garuda.
 [4-39-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Drawing his mighty bow (sumahac cāpam), he loosed three sharp, foe-destroying arrows (śitāḥ śatru-nibarhaṇāḥ) that sped with the swiftness of Garuḍa and the wind (suparṇānila-tulyagāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -510,6 +568,12 @@ mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">coor
 "All those three thunderbolt like arrows that have only blood for their board,
 acutely bent at barbs, and that are highly horrendous have come at us in a coordinated manner.
 [4-39-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Those three dread, blood-drinking arrows (rakta-bhojanāḥ), resembling thunderbolts (vajra-saṅkāśāḥ) and smooth-knotted (sannata-parvaṇaḥ), came flying all together (sahitāḥ sarve).
 </details>
 </details>
 
@@ -578,6 +642,12 @@ wink I escaped to the other side of ocean, and Rama's arrow having come chasing 
 ocean-shore returned.' In here, the efficacy of Rama's arrow is clearly narrated and it is not
 clear why pundits did not consider these verses of ancient mms instead of the above verse.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Knowing Rāma's valour, rogue that I was (śaṭhaḥ), and having experienced terror of old (dṛṣṭa-bhayaḥ purā), I bolted away (samutkrāntaḥ) and escaped, while those two rākṣasas were slain.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -630,6 +700,12 @@ arrow made me to renounce everything like a monk and fled me to this place, the 
 to where you came by your aircraft, here I am living here in a yogic way, self-collectedly like an
 ascetic. [4-39-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Barely escaping Rāma's arrow and regaining my life (prāpya jīvitam), I have now renounced the world here (iha pravrājitaḥ) as a self-controlled (yuktaḥ), contemplative (samāhitaḥ) ascetic.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -680,6 +756,12 @@ hi* = at tree, at tree, I behold, indeed.
 dressed in jute-cloths and black deerskin, and handling his bow like the Terminator handling a
 tether. [4-39-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In every single tree (vṛkṣe vṛkṣe) I behold Rāma clad in bark and black antelope skin (cīra-kṛṣṇājināmbaram), bow in hand (gṛhīta-dhanuṣam), like Death himself holding his noose (pāśa-hastam ivāntakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +807,12 @@ entity, reflects, to me.
 
 "Given to fright I even visualise thousands Rama-s, and whole this forest is
 reflecting to me as one entity of Rama. [4-39-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Stricken with terror (bhītaḥ), O Rāvaṇa, I behold thousands of Rāmas (rāma-sahasrāṇi); this entire forest appears to me to have become Rāma (rāma-bhūtam idaṃ sarvam).
 </details>
 </details>
 
@@ -772,6 +860,12 @@ spirit - dispirited - swooning; *udbhramaami [ut bhramaami]* = to up, moving - j
 
 "Even at a place void of people I am envisaging Rama alone, and oh, king of demons,
 even if he enters my dream, in fact, I am jolting up and swooning. [4-39-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even in a solitary place (rahite), O lord of rākṣasas, I see Rāma alone; beholding Rāma in my dreams (svapna-gatam), I start up bewildered, bereft of my senses (vicetanaḥ).
 </details>
 </details>
 
@@ -828,6 +922,12 @@ with a '*ra*....' [4-39-18]
 'If I hear the first letter 'ra' of any given name, I am scared at the ensuing
 second syllable presuming it to be 'ma' and if that second syllable of that word I am going to hear
 happens to be other than 'ma' then my fear ceases.'
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To me, terrified as I am of Rāma (rāma-trastasya), O Rāvaṇa, even words beginning with the syllable ‘ra’ (rakārādīni nāmāni)—such as jewels (ratnāni) and chariots (rathāḥ)—strike terror in me.
 </details>
 </details>
 
@@ -886,6 +986,12 @@ and Bali asks Ravana to pick and give it before conquering netherworld. Ravana w
 Kailash could not lift that two-inch dice, which is so far handled playfully by Bali. Such is the
 might of Emperor Bali
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I know his might (prabhāvajñaḥ); battle with him is not advisable for you (na yuddhaṃ tena te kṣamam), for the scion of Raghu could slay even Bali or Namuci.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -933,6 +1039,12 @@ kaaryaa* = by you, Rama's, episode [topic] not, to be done [be broached.]
 others, or forgive and forget that Rama agreeing to my suggestions, but do not broach the topic of
 Rama with me if you wish to see me alive. [4-39-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Either fight with Rāma in open battle or practise forbearance (kṣamāṃ vā kuru), O Rāvaṇa; do not even mention the subject of Rāma (na te rāma-kathā kāryā) if you wish to see me [alive].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -979,6 +1091,12 @@ with, kith and kin; *vi naSTaaH* = are utterly, ruined.
 "In the world many of the sagacious and reasonable people that are the practisers of
 righteousness are utterly ruined along with their kith and kin, just by the misdeeds of others.
 [4-39-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Many righteous men in the world (bahavaḥ sādhavo loke), self-disciplined and steadfast in dharma (dharmam anuṣṭhitāḥ), have perished along with their retinues (saparicchadāḥ) through the offence of others (pareṣām aparādhena).
 </details>
 </details>
 
@@ -1029,6 +1147,12 @@ anuyaami vai* = I, you, not, follow, simply.
 "Such a saintly one as I am, I am bound to ruin by other's misdeeds, hence you do
 whatever that is fair to you, but I am not the one to simply take after you. [4-39-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus I too would perish through another's offence (parāparādhena), O night-roamer! Do truly what is suitable for you (yat te kṣamam); I shall certainly not follow you (ahaṃ tvāṃ nānuyāmi vai).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1078,6 +1202,12 @@ sure.
 
 "Definitely Rama is the one with exceptional resplendence, exemplary courage and
 extraordinary power, and for sure, he becomes an eradicator of the world of demons. [4-39-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For Rāma, of mighty splendour, great courage, and immense strength, could indeed become the ender (antakaraḥ) even of the entire rākṣasa world (rākṣasa-lokasya).
 </details>
 </details>
 
@@ -1132,6 +1262,12 @@ is - in final analysis; *bruuhi* = you tell.
 Rama, that too owing to Shuurpanakha, and if Rama of uncomplicated actions has eliminated Khara in
 self-defence, what really is the transgression of Rama in that matter, you tell of that in the
 final analysis. [4-39-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If Khara, stationed in Janasthāna, transgressed bounds (ativṛttaḥ) on account of Śūrpaṇakhā (śūrpaṇakhā-hetoḥ) and was slain earlier by Rāma of unwearying deeds (akliṣṭa-karmaṇā), tell me truly in this matter: what transgression (vyatikramaḥ) was committed by Rāma?
 </details>
 </details>
 
@@ -1205,6 +1341,12 @@ accelerating arrows of Rama. [4-39-25]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि मूवत्तॊम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥39॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If you do not heed (yadi nābhipatsyase) these words spoken truthfully by me out of a desire for a kinsman's welfare (bandhu-hitārthinā), you together with your kinsmen (sabāndhavaḥ) shall forfeit your life in battle today, slain by Rāma with his straight-flying arrows (śarair ajihmagaiḥ).”
 </details>
 </details>
 

@@ -72,6 +72,12 @@ this, said.
 While a similar disquiet of Sugreeva is prevailing over Rama and Lakshmana, Rama palliatively said this
 to Sugreeva, and even to Tara together with Angada. [4-25-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sharing their grief (samāna-śokaḥ), that descendant of Kakutstha [Rāma], accompanied by Lakṣmaṇa, consoled Sugrīva as well as Tārā along with Aṅgada, and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +123,12 @@ appropriate to.
 
 "Deceased will not derive bliss by sorrowful mourning, hence it will be appropriate to arrange for that
 work which is subsequent in this matter. [4-25-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A deceased person is not united with spiritual welfare (śreyasā) through the torment of grief; therefore, you ought to accomplish whatever rite must be performed next on this occasion.
 </details>
 </details>
 
@@ -180,6 +192,12 @@ body is kept unattended for more than ten hours of death, a blemish called *pary
 occurs. Thus, it is said, 'The duties ordained according to their time value are to be attended on
 time, otherwise if you lapse that particular time by shedding tears alone, there is no merit to the
 departed soul...' Maheshvara Tiirtha
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having shed your tears in accordance with the way of the world (loka-vṛttam), you must now carry out what is prescribed; for no rite can be properly performed once its appointed time has passed (kālād uttaram).
 </details>
 </details>
 
@@ -250,6 +268,12 @@ niyatiH yadR^icaa bhuutaani yoniH puruSha iti cintyaa | *'time, nature, fate, ch
 intellect... thus all these are [thought to be the cause, but in vain...] Thus the words used as 'Fate'
 'Time' are alterable with 'Supreme Being/Person.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Destiny (niyatiḥ) is the supreme cause in the world, destiny is the instrument of action (karma-sādhanam), and destiny is the cause of the motivations (niyogeṣu) of all beings here.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -305,6 +329,12 @@ world. [4-25-5]
 Unlike Bhagavad Gita, which says everything in first person, here Rama is saying that he alone is Supreme,
 but naming Time, Fate etc., instead of using first person and declaring about himself.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“No one is an independent agent (kartā) of anything, nor is anyone an autonomous master in directing action; the world abides in its own nature (svabhāve), and time (kālaḥ) is its ultimate support (parāyaṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -349,6 +379,12 @@ on attaining; *na ati vartate* = will not, over, step.
 
 "Time will not transcend Time, neither Time transgresses itself, and on attaining the nature endowed
 by Time nothing can overstep its own Fate. [4-25-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Time does not transgress its own appointed measure (kālam), nor does time ever decay (parihīyate); and having attained its inherent nature (svabhāvam), nothing whatsoever can transcend it.
 </details>
 </details>
 
@@ -398,6 +434,12 @@ sambandhaH na kaaraNam = = such connectivity, is not, the causative factor.
 "Time has no kinship, thus it has no partiality, there is nothing instrumental to override Time, hence
 nothing can override it, and there are no causative factors to Time that connect through friends or
 relatives, hence all are equal in its viewpoint. [4-25-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Time has no kinship (bandhutvam), no motivating inducement (hetuḥ), and no regard for valor (parākramaḥ); neither the bond of friends and kinsmen (mitra-jñāti-sambandhaḥ) nor one's own power holds sway over that ultimate cause.
 </details>
 </details>
 
@@ -454,6 +496,12 @@ one has to intelligently undergo the course of events, without asserting himself
 or without blaming himself or that imposing Time, should the results be distasteful. This is the way
 to attain the humanly-means, *puruSa artha* -s. And this is the way to live different from animals.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet the ripening of Time (kāla-parīṇāmaḥ) must be perceived by one who sees rightly (sādhu paśyatā); for virtue, wealth, and pleasure (dharmaś cārthaś ca kāmaś ca) are all governed by the sequence of Time.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -501,6 +549,12 @@ praaptaH* = pious, exploits, fruits [of actions befitting to a king,] obtained.
 "That king of fly-jumpers Vali departed from here on attaining his own nature of subtle-soul, and he
 obtained pious fruits connected with his one time actions befitting to a king like, friendliness, courteousness,
 and forgivingness required of a king. [4-25-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Departing from this world, Vālin, lord of the monkeys, has attained his own subtle nature (svāṃ prakṛtim) and reaped the pure fruit of his deeds (kriyā-phalam) through the union of conciliation, liberality, and royal policy (sāma-dānārtha-saṃyogaiḥ).
 </details>
 </details>
 
@@ -554,6 +608,12 @@ This is to say Vali has attained a higher heaven than the routine heaven ruled b
 and demerit are metered. These higher heavens are impossible abodes for usual seekers of release from
 karmic cycle, but they chance upon certain blessed souls like Vali, who is sent from here to *vaikunTha*
 Vishnu's Milky-Oceanic abode, by no less than Rama himself.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And through adherence to his own warrior duty (svadharmasya saṃyogāt), heaven (svargaḥ) has been won and firmly claimed by that great-souled hero who did not spare his own life (prāṇān aparirakṣatā).
 </details>
 </details>
 
@@ -612,6 +672,12 @@ the word *niyati *the results of earlier births come to fruition abiding the Tim
 the results of earlier births... as such no independency to Time... thus, bound by the Time cycle, an
 individual is also not independent...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This indeed is the noblest destiny (niyatiḥ śreṣṭhā) to which the leader of the monkey troop has gone; therefore, enough of this torment (alam paritāpena)—let what is timely now be attended to.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -656,6 +722,12 @@ individual is also not independent...'
 
 At the close of Rama's sentence Lakshmana, the eliminator of braving foes, spoke this courteous sentence
 to the disconcerted Sugreeva. [4-25-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the conclusion of Rāma's speech, Lakṣmaṇa, slayer of hostile heroes (paravīrahā), spoke courteous words (praśritaṃ vākyam) to Sugrīva, who remained bereft of sense in his grief.
 </details>
 </details>
 
@@ -703,6 +775,12 @@ cremation, [arrange] for.
 "Sugreeva, you attend to the funeral rites, to be performed subsequently along with those two, Tara
 and Angada, and arrange for the cremation of Vali. [4-25-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Sugrīva, together with Tārā and Aṅgada, perform immediately the funeral rites (preta-kāryam) of this Vālin with a view to his cremation (dahanaṃ prati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -741,6 +819,12 @@ of; *sam aaj~naapaya* = at once, you order.
 
 "Order at once for substantial dry firewood, likewise for finest sandalwood, for the purpose of the
 exequies of Vali. [4-25-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Command that dry timbers in abundance and celestial sandalwood (candanāni ca divyāni) be brought for the purpose of Vālin's obsequies (vāli-saṃskāra-kāraṇāt).
 </details>
 </details>
 
@@ -787,6 +871,12 @@ exequies of Vali. [4-25-14]
 "Bolster up that miserable Angada who is heartbroken, you too should not become frivolous in thinking
 as this city Kishkindha is now dependant on you. [4-25-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Console this wretched Aṅgada, whose heart is afflicted with grief (dīna-cetasam); do not be childish in mind (bāliśa-buddhiḥ), for this city now depends upon you.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -832,6 +922,12 @@ items useful in funeral.]
 
 "Let Angada bring wreaths, different cloths, ghee, oils, as well perfumes and other items that are consequently
 useful in funeral. [4-25-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let Aṅgada bring garlands, manifold garments, clarified butter, oil, fragrant substances (gandhān), and whatever else is immediately required for this rite.
 </details>
 </details>
 
@@ -880,6 +976,12 @@ truly.
 
 "And Lt. Tara, you go quickly and come readily fetching a palanquin of the dead, for despatch is a merit,
 which is truly worthwhile, especially at these times. [4-25-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And you, O Tāra, quickly take a palanquin (śibikām) and return in haste; for promptness (tvarā) is meritorious and especially fitting at this hour.
 </details>
 </details>
 
@@ -930,6 +1032,12 @@ hariSyanti* = out, carry off - to cart him away.
 "Let suitable, proficient and sturdy Vaanara-s be at the ready as the bearers of the litter of the dead
 to carry away Vali." Thus said Lakshmana to Sugreeva. [4-25-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let strong and capable monkeys, skilled in bearing a palanquin (śibikā-vāhanocitāḥ), make themselves ready; they shall carry Vālin forth to the cremation ground.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -975,6 +1083,12 @@ withdrawn.
 
 Speaking thus to Sugreeva that enhancer of his mother Sumitra's delight and the eliminator of braving
 foes, Lakshmana stepped off and stayed behind his brother Rama. [4-25-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to Sugrīva, Lakṣmaṇa, enhancer of Sumitrā's joy (sumitrānanda-vardhanaḥ) and slayer of hostile heroes, stood beside his brother [Rāma].
 </details>
 </details>
 
@@ -1025,6 +1139,12 @@ entered.
 On hearing the words of Lakshmana Lt. Tara's mood became hectic and he fleetly entered Kishkindha with
 his mood firmed up to get the litter of the dead. [4-25-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Lakṣmaṇa, Tāra, with an agitated mind (sambhrānta-mānasaḥ), swiftly entered the cavern-city with his thoughts fixed upon fetching the palanquin (śibikāsakta-mānasaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1071,6 +1191,12 @@ that litter; *aadaaya* = on fetching; *punaH* = again; *paryaapatat [pari aa pat
 Lt. Tara came back in a trice fetching that litter of the dead, getting it carried by gritty and suitable
 Vanara-s. [4-25-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking the palanquin, that Tāra returned again (paryāpatat punaḥ), while it was borne along by heroic monkeys well-accustomed to carrying it (udvahanocitaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1095,6 +1221,12 @@ Vanara-s. [4-25-21]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ दिव्य पल्लक्कियु रथदन्तॆ निर्मिसलागित्तु. अदरल्लि राजनु कुळितुकॊळ्ळुव योग्य उत्तम आसनवित्तु. अदरल्लि शिल्पिगळु कृत्रिम पक्षिगळु, मरगळन्नु कॆत्तिद्दरु. अवरु आ पल्लक्कियन्नु विचित्र शोभॆयिन्द सम्पन्नगॊळिसिद्दरु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That celestial palanquin, resembling a chariot (syandanopamām) and fitted with an auspicious royal seat (bhadrāsana-yutām), was decorated with carvings of birds (pakṣi-karmabhiḥ) and adorned with sculpted trees.
 </details>
 </details>
 
@@ -1121,6 +1253,12 @@ Vanara-s. [4-25-21]
 
 आ शिबिकॆयु चित्रितवाद कालाळु सैनिकरिन्द तुम्बिरुवन्तॆ कण्डुबरुत्तित्तु. नोडलु अदु सिद्धर विमानदन्तॆ अनिसुत्तित्तु. अदरल्लि अनेक किटकिगळिद्दु, परदॆगळन्नु इळि बिट्टिद्दरु.॥23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Covered on all sides with painted foot-soldiers (citra-pattībhiḥ) and equipped with well-set pathways, it resembled an aerial car of the Siddhas (vimānam iva siddhānām) and was fitted with latticed windows (jāla-vātāyanāyutām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1145,6 +1283,12 @@ Vanara-s. [4-25-21]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शिल्पिगळु आ पल्लक्कियन्नु बहळ सुन्दरवागिसलु प्रयत्निसिद्दरु. अदर प्रतियॊन्दु भागवन्नु अन्दवागि निर्मिसिद्दरु. बहळ दॊड्ड आकारवुळ्ळ अदरल्लि कट्टिगॆय क्रीडापर्वतगळन्नु रचिसिद्दरु. अदु मनोहर शिल्पदिन्द सुशोभितवागित्तु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Well-joined and spacious, finely fashioned and crafted by master artisans (śilpibhiḥ kṛtām), it was furnished with miniature wooden pleasure-hills (dāru-parvatakopetām) and embellished with exquisite workmanship.
 </details>
 </details>
 
@@ -1173,6 +1317,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुन्दर ऒडवॆगळिन्द, हारगळिन्द अदन्नु अलङ्करिसलागित्तु. विचित्र हूवुगळिन्द अदर शोभॆयन्नु हॆच्चिसलागित्तु. अदरल्लि शिल्पिगळु गुहॆ, वनगळन्नु कॆत्तिद्दरु हागू कॆम्पु चन्दनदिन्द अदन्नु अलङ्करिसलागित्तु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adorned with choice ornaments and pearl necklaces (varābharaṇa-hāraiś ca) and beautified with variegated garlands, it was screened by dense recess-curtains (guhā-gahana-saṃchannām) and decked with red sandalwood (rakta-candana-bhūṣitām).
 </details>
 </details>
 
@@ -1246,6 +1396,12 @@ expressions used in Ramayana. *guhaa gahana shabdena shibika upari prasaarya maa
 'the roof of the cabin / cage of the palanquin...' is the meaning of the above words. Tilaka. [After Dr. Satya
 Vrat.].
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completely covered with masses of flowers (puṣpaughaiḥ) and with garlands of lotuses as well, it was encompassed by radiant wreaths having the hue of the rising sun (taruṇāditya-varṇābhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1292,6 +1448,12 @@ away; *preta kaaryam vidhiiyataam* = corpse, rites [funeral ceremony,] be undert
 On seeing such a sort of palanquin Rama said to Lakshmana, "Let Vali be taken away quickly and funeral
 ceremony be undertaken." [4-25-27]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding such a palanquin, Rāma spoke to Lakṣmaṇa: “Let Vālin be borne forth quickly (kṣipraṃ vinīyatāṃ vālī), and let his funeral rite be performed.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1337,6 +1499,12 @@ on lifting up; *tadaa* = then; *shibikaam aaropayata* = into litter, set him in 
 Thereafter Sugreeva along with Angada and others lifted up and then lodged Vali in the litter of the
 dead squalling woefully. [4-25-28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, lifting Vālin up (vālinam udyamya), Sugrīva placed him upon the palanquin at that time, weeping aloud (vikrośan) together with Aṅgada.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1364,6 +1532,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मृत वालियन्नु पल्लकियल्लि कुळ्ळिरिसि, अवनन्नु नाना प्रकारद अलङ्कारगळिन्द, पुष्फगुच्छगळिन्द बगॆ-बगॆय वस्त्रगळिन्द अलङ्करिसिदरु.॥29॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having placed the lifeless Vālin (gata-jīvitam) upon the palanquin—adorned with manifold ornaments, garlands, and garments—
 </details>
 </details>
 
@@ -1412,6 +1586,12 @@ Thus setting that deceased Vali who is diversely decorated and adorned with garl
 the palanquin, then Sugreeva, the king of best fly-jumpers, has ordered, "let the funeral ceremony of
 this noble brother of mine be undertaken, befitting to his magnificence... [4-25-29, 30]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+King Sugrīva, lord of the monkeys (plavageśvaraḥ), then gave the command: “Let the post-mortem obsequies (aurdhvadehikam) of my noble brother be performed in due accordance with custom (anukūlataḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1458,6 +1638,12 @@ ratnaani vishraaNayantaH* = gems, strewing [on pathway]; *agrataH yaantu* = in v
 **अनुवादः**
 
 "Let the vanara-s proceed in van strewing various gems plentifully, and the palanquin afterward... [4-25-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Scattering manifold and abundant gems (viśrāṇayanto ratnāni), let the monkeys walk in front, and let the palanquin follow immediately behind (tad-anantaram).
 </details>
 </details>
 
@@ -1506,6 +1692,12 @@ good, action - honour, immortalisation; *iha kurvantu* = now, to be performed.
 "In which way the grandiose of monarchical opulence will be conspicuous on earth when kings decease,
 in a similar way the Vanara-s have to immortalise lord Vali now," Sugreeva ordered monkeys in that way.
 [4-25-32]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With such marks of royal affluence (ṛddhi-viśeṣāḥ) as are seen on earth among kings, let the monkeys here perform the funerary homage of their lord (bhartṛ-satkriyām).”
 </details>
 </details>
 
@@ -1563,6 +1755,12 @@ On performing services to the dead in the same way as ordered by Sugreeva, then 
 like Lt. Tara and others, have promptly started out hemming round Angada, keening over their dead relative
 Vali. [4-25-33, 34a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing Aṅgada quickly (aṅgadaṃ parirabhyāśu), Tāra and the other ministers thereupon promptly commenced such funerary rites (aurdhvadehikam) for Vālin.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1610,6 +1808,12 @@ bhuuyaH kroshantii* = they, for their beloved, repeatedly, wept.
 Then all the female adherents of Vali came together and wept saying, 'oh, brave one, oh, brave one...'
 and they repeatedly wept thus for their departed dear. [4-25-34b, 35a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping aloud, all the monkeys whose kinsman had been slain (hata-bāndhavāḥ) went forth; and then all the female monkeys who had been subject to his sway (asya vaśānugāḥ) gathered near.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1656,6 +1860,12 @@ also.
 Lady Tara and all other female Vanara-s, whose husband is dead, followed the funeral procession wailing
 in a pathetic tone. [4-25-35b, 36a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crying out again and again, “O hero, O hero!” (vīra vīreti) toward their beloved lord, all the female monkeys headed by Tārā, bereft of their kinsman, lamented aloud.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1701,6 +1911,12 @@ as though [it appeared.]
 
 With the din of wailing of those Vanara females in the interiors of the forest, that forest along with
 its hillocks appeared to be wailing noisily. [4-25-36b, 37a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And uttering piteous cries (karuṇa-svanāḥ), they followed their husband, weeping; and by the sound of the wailing of those female monkeys within the forest—
 </details>
 </details>
 
@@ -1751,6 +1967,12 @@ Many Vanara-s have arranged a funeral pile on an unpopulated sandy isle, around 
 cascades of hills are encircling. [4-25-37b, 38a]
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—the forests and the mountains themselves seemed to weep aloud on every side (vikrośantīva sarvataḥ). Then, on a secluded sandbank (puline vivikte) of a mountain stream, surrounded by water,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1795,6 +2017,12 @@ melancholy, weltered in; *ekaantam aashritya tasthuH* = lonely [aside,] stood as
 
 All of those best vanara-s then lifted down that palanquin from their shoulders and stood aside weltered
 in melancholy. [4-25-38b, 39a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+very many forest-dwelling monkeys constructed a funeral pyre (citāṃ cakruḥ); and having lowered the palanquin from their shoulders (avaropya tataḥ skandhāt), the foremost of monkeys
 </details>
 </details>
 
@@ -1841,6 +2069,12 @@ anguishing; *tasya shiraH anke aaropya* = his, head, in lap, on bringing up; *vi
 
 Lady Tara on seeing at her husband Vali recumbent on the bier of the litter of the dead, she then brought
 his head onto her lap, and wailed painfully. [4-25-39b, 40a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+stood aside in a solitary spot (ekāntam āśritya), all wholly absorbed in grief (śoka-parāyaṇāḥ). Then Tārā, beholding her husband lying upon the floor of the palanquin (śibikā-tala-śāyinam),
 </details>
 </details>
 
@@ -1893,6 +2127,14 @@ janam* = at this, creature [that is me]; *kasmaat na pashyasi* = why for, not, y
 "O, great king of monkeys... o, my consort... my dear... o, meritorious one, o, mighty one, o, my dear...
 see me... why do not you see this grief-stricken creature, that is me... [4-25-40b, 41]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**40:** placed his head upon her lap (āropyāṅke śiras tasya) and lamented in deep anguish: “Alas, O great king of the monkeys! Alas, my lord, so tender toward me (mama vatsala)!
+
+**41:** “Alas, O most worthy and mighty-armed one (mahārha mahābāho), alas, my beloved, look upon me! Why do you not behold this multitude afflicted with grief (śokābhipīḍitam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1939,6 +2181,12 @@ hR^iSTam dR^ishyate* = now, highly, enchanting, is appearing.
 "Though your lives have gone your face is appearing to be highly enchanting as if it has a similar dazzle
 of the sun on dusking mountain, as it had when you were alive. [4-25-42]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even though your life-breath has departed (gatāsor api), O bestower of honor, your countenance here appears cheerful (prahṛṣṭam) just as when you were alive, bearing the hue of the setting sun (astārka-sama-varṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1984,6 +2232,12 @@ as widows, rendered, we are.
 
 "Time-god in the mien of this Rama is hauling you away, oh, vanara, on rendering all of us as widows
 by flinging a single arrow in the fight. [4-25-43]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O monkey lord, this is Time itself in the form of Rāma (rāma-rūpeṇa kālaḥ) that drags you away—he by whose single arrow (ekeṣuṇā) in battle we have all been made widows (vidhavāḥ).
 </details>
 </details>
 
@@ -2035,6 +2289,12 @@ nanu* = to you, dearest ones, isn't it.
 are wont to, they have come treading a much lengthy way of yours, why do not you mind them? They with
 their faces like moonshine are your cherished wives, isn't it! [4-25-44]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O chief of kings, why do you not perceive these female monkeys of yours—unaccustomed to leaping (aplavagāḥ)—who have come a long distance on foot (pādair vikṛṣṭam adhvānam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2059,6 +2319,12 @@ their faces like moonshine are your cherished wives, isn't it! [4-25-44]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वानरराज! निम्म ऎल्ल परमप्रिय चन्द्रमुखियराद भार्यॆयरु इल्लि उपस्थितरागिरुवरु. नीवु इवरॆल्लरन्नु हागू निम्म तम्म सुग्रीवनन्नु ईग एकॆ नोडुत्तिल्ल.॥45॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely these moon-faced wives (candranibhānanāḥ) were ever dear to you; why then do you not look now upon Sugrīva, O lord of the monkeys?
 </details>
 </details>
 
@@ -2104,6 +2370,12 @@ gathering round, very much, sinking down; *[kim na budhyase* = why, not, mind th
 "What for you are not seeing the lord of fly-jumpers Sugreeva, and these Lt. Tara and others are all
 your ministers, oh, king, and even the people dwelling in Kishkindha city have gathered around you and
 sinking down, why do not you mind them? [4-25-45b, 46]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here indeed are your ministers headed by Tāra, O king, and these townsfolk (puravāsi-janaḥ) who sit around you in deep dejection (parivārya viṣīdati).
 </details>
 </details>
 
@@ -2152,6 +2424,12 @@ kriiDaamahe* = in woods, we sport with [you.]
 "Bid adieu to these ministers as usual, oh, enemy subjugator, then we all can sportfully wander in the
 woods in voluptuousness." Thus Tara mourned for Vali. [4-25-47]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Dismiss these ministers as before (yathā-puram), O tamer of foes; thereafter let us all sport in the woods, ardent with love (madanotkaṭāḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2194,6 +2472,12 @@ away.]
 
 While Tara is enwrapped in the grief for her husband and wailing that way, then other female Vanara-s,
 who are equally haggard by grief have lifted her up and took her away from the body of Vali. [4-25-48]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the female monkeys, themselves emaciated with grief (śoka-karśitāḥ), raised up Tārā, who was thus lamenting and overwhelmed with sorrow for her husband (pati-śoka-parīvṛtām).
 </details>
 </details>
 
@@ -2240,6 +2524,12 @@ to mount.
 
 Angada wailing along with Sugreeva, started to mount his father's body onto pyre in an involuntary way,
 as his senses are deluged under grief. [4-25-49]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, together with Sugrīva, that weeping Aṅgada, his senses overwhelmed by grief (śokenābhiplutendriyaḥ), placed his father upon the funeral pyre (citām āropayām āsa).
 </details>
 </details>
 
@@ -2297,6 +2587,12 @@ when circumambulations are performed, the devotee faces the idol, keeping his ri
 moves on his left, around sanctum sanctorum. This is called *savya pradakshiNa* and in funerals it is
 other way round, called *apa savya pradakshiNa*.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having duly kindled the fire (agniṃ vidhivad dattvā), he performed the counterclockwise circumambulation (apasavyaṃ cakāra ha) around his father, who had set out upon the long journey (dīrgham adhvānam), his senses distraught.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2342,6 +2638,12 @@ nadiim* = to river; *aajagmuH* = arrived.
 
 On cremating Vali procedurally those best fly-jumpers arrived at the propitious river with auspicious
 waters to offer water oblations to the departed soul. [4-25-51]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having duly cremated that Vālin (saṃskṛtya vālinaṃ taṃ tu), the foremost of monkeys came to the auspicious river of pure water (śubha-jalāṃ śivām) to offer water libations (udakaṃ kartum).
 </details>
 </details>
 
@@ -2392,6 +2694,12 @@ agrataH sthaapya ca* = Angada, in front, locating, also; *jalam siSicuH* = water
 Those vanara-s on coming together along with Sugreeva and Lady Tara, and then locating Angada in their
 front, they have offered water oblations to the soul of Vali. [4-25-52]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, assembled there together with Sugrīva and Tārā, and placing Aṅgada in front (aṅgadaṃ sthāpya cāgrataḥ), they poured out water libations for Vālin (siṣicur vāline jalam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2439,6 +2747,12 @@ one, with Sugreeva, thus; *samaana shokaH* = even up, in sadness - on becoming; 
 
 He whose sadness evened up with that of Sugreeva, and who became one with Sugreeva in haplessness, that
 great mighty Rama effectuated the funeral rites of Vali. [4-25-53]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sharing their grief (samāna-śokaḥ) and becoming afflicted along with the afflicted Sugrīva, the mighty descendant of Kakutstha [Rāma] caused the funeral rites to be performed (preta-kāryāṇy akārayat).
 </details>
 </details>
 
@@ -2520,5 +2834,11 @@ took birth at the hest of Brahma.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद इप्पत्तैदनॆय सर्ग सम्पूर्णवायितु. ॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having cremated (pradīpya) that illustrious Vālin of foremost valor (agrya-pauruṣam), whose splendor equaled blazing fire and who had been slain by the arrow of the best of the Ikṣvākus, the monkey lord [Sugrīva] approached Rāma along with Lakṣmaṇa.
 </details>
 </details>

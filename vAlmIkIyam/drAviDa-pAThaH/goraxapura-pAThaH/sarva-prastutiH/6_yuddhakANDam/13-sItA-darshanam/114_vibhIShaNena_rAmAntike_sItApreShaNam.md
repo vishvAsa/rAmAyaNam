@@ -51,6 +51,12 @@ Rama's presence. Seetha casts her looks on the moon-like face of Rama, her belov
 
 अनन्तर परम बुद्धिशाली वानर वीर हनुमन्तनु समस्त धनुर्धारिगळल्लि श्रेष्ठनाद कमलनयन श्रीरामनिगॆ नमस्करिसि हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While those Rākṣasa women were thus lamenting, the beloved and wretched chief queen (jyeṣṭhapatnī) gazed intently upon her husband.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -98,6 +104,12 @@ fruit.
 "You ought to see Seetha that divine lady who is consumed by grief, for whose sake
 this course of actions was undertaken and which has (now) borne fruit."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding her husband Daśagrīva slain by Rāma of inconceivable deeds (acintyakarmaṇā), the pitiable Mandodarī lamented there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,6 +143,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवळु शोकदल्लि मुळुगिद्दु, कण्णुगळु कम्बनि तुम्बिकॊण्डिवॆ. निम्म विजयद समाचार केळि आ मैथिलियु निम्मन्नु दर्शिसलु बयसुत्तिरुवळु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely indeed, O mighty-armed younger brother of Vaiśravaṇa, even Purandara [Indra] trembles to stand before you when you are enraged!
 </details>
 </details>
 
@@ -180,6 +198,12 @@ see my husband, who has accomplished his purpose, together with Lakshmana.'"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मॊदल सल नानु निम्म सन्देशवन्नित्तिकॊण्डु होगिद्दॆनो, अन्दिनिन्द अवरिगॆ नन्न मेलॆ इवनु नन्न स्वामिय आत्मीयनॆम्ब विश्वास उण्टागित्तु. अदे विश्वासदिन्द कूडि अवरु कण्णिरु तुम्बि ‘नानु प्राणनाथन दर्शन माडलु बयसुत्तिरुवॆनु’ ऎन्दु नन्नल्लि हेळिदरु.॥.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely indeed, great sages (ṛṣayaḥ), illustrious Gandharvas, and Cāraṇas fled in all directions out of terror of you (tavodvegāt)!
 </details>
 </details>
 
@@ -254,6 +278,14 @@ closely resembled a cloud in hue; *upasthitan* = and who was standing nearby.
 Drawing a deep and warm breath and casting his looks on the ground, he spoke (as
 follows) to Vibhishana, who closely resembled a cloud in hue and who was standing nearby.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Yet you have been vanquished in battle by Rāma, a mere mortal (mānuṣamātreṇa)! Are you not ashamed, O king? What is this, O lord of Rākṣasas?
+
+**6:** How did a forest-roaming mortal (mānuṣo vanagocaraḥ) slay you, who had subjugated the three worlds, were endowed with splendour and valour, and were irresistible?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -293,6 +325,12 @@ beautiful jewels; *maa chiram* = let there be no delay.
 
 "Bring here Seetha, after she has bathed her head, has been anointed with charming
 cosmetics and adorned with beautiful jewels. Let there be no delay."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As you roamed in a realm inaccessible to mortals (mānuṣāṇām aviṣaye) and could assume any form at will (kāmarūpiṇaḥ), your destruction in battle by Rāma is inexplicable.
 </details>
 </details>
 
@@ -334,6 +372,12 @@ gyaecium; *tvaramaaNaH* = in haste; *achodayat* = communicated his presence;
 Hearing the words of Rama, Vibhishana, after entering the gynaecium in haste,
 communicated his presence to Seetha, through his own women.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nor do I believe this deed at the battlefront to be the work of Rāma—the crushing (abhimarṣaṇam) by him of you, who were fully equipped in every way.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -374,6 +418,12 @@ over his head; *viniitaH* = humbly; *uvaacha* = spoke (as follows):
 
 Then, the glorious Vibhishana the king of demons, after seeing the highly fortunate
 Seetha, with his palms joined over his head, humbly spoke to her as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Or else Kṛtānta [Death] himself has come in the form of Rāma (rāmarūpeṇa), having fashioned an inconceivable illusion (māyām apratitarkitām) for your destruction.
 </details>
 </details>
 
@@ -418,6 +468,12 @@ charming cosmetics; *divyaabharaNa bhuuShitaaH* = and adorned with beautiful jew
 
 "O Seetha! Anointed with charming cosmetics and adorned with beautiful jewels if you
 please, mount on the vehicle. Your husband wants to see you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Or else you have been overpowered by Vāsava [Indra], O mighty one; yet what power has Vāsava even to look upon you in battle—
 </details>
 </details>
 
@@ -464,6 +520,12 @@ raakShaseshvara = O king of demons!; *ichchhaami* = I wish; *draShTum* = to see;
 
 Hearing the words of Vibhishana, replied as follows: "O king of demons! I wish to
 see my husband, even without taking my bath."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+you who were of mighty strength, great valour, the enemy of the gods, and of immense energy? Clearly this [Rāma] is the great Yogin (mahāyogī), the eternal Supreme Self (paramātmā sanātanaḥ),
 </details>
 </details>
 
@@ -512,6 +574,12 @@ see my husband, even without taking my bath."
 Hearing those words of Seetha, Vibhishana replied as follows: "You ought to do the
 bidding of Rama, your husband, as he has enjoined you to do."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+having neither beginning, middle, nor end (anādimadhyanidhanaḥ), greater than the great, supreme beyond darkness (tamasaḥ paramaḥ), the Ordainer bearing the conch, discus, and mace!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -559,6 +627,12 @@ bidding of Rama, your husband, as he has enjoined you to do."
 Hearing those words of Vibhishana, the virtuous Seetha, regarding her husband as a
 divinity, endowed as she was with a devotion to her husband, said in reply, "So t be!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bearing the Śrīvatsa mark upon his chest (śrīvatsavakṣāḥ), of unfailing splendour (nityaśrīḥ), unconquerable, eternal, and immutable, Viṣṇu of true valour assumed a human form,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -583,6 +657,12 @@ divinity, endowed as she was with a devotion to her husband, said in reply, "So 
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर वैदेहियु तलॆगॆ स्नानमाडि सुन्दरवागि शृङ्गरिसिकॊण्डु, बहुमूल्य वस्त्राभूषणगळन्नु धरिसि हॊरटळु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+surrounded by all the gods who had assumed the state of Vānaras (vānaratvam upāgataiḥ), the glorious Lord of all worlds, out of desire for the welfare of the worlds—
 </details>
 </details>
 
@@ -633,6 +713,12 @@ valuable cloth and guarded by numerous demons, after she had bathed her head and
 had put on costly robes and had been adorned with exceedingly valuable jewels, Vibhishana then
 brought her to the presence of Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+he [slew you], the terrifying enemy of the gods, together with your Rākṣasa retinue! In former times, having conquered your senses (indriyāṇi purā jitvā), the three worlds were conquered by you;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -680,6 +766,12 @@ to him; *siitaam praaptaam* = that Seetha had arrived.
 Approaching the great-souled Rama, who was absorbed in thought, even after coming to
 know that Seetha had arrived, Vibhishana offered his obeisance and with full of great joy,
 announced to him that Seetha had arrived.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+now, as if remembering that hostility (tad vairam), you have been vanquished by those very senses! Indeed, the very moment when, surrounded by many Rākṣasas in Janasthāna,
 </details>
 </details>
 
@@ -744,6 +836,12 @@ Having offered his salutation to that Rama, who was excellent among all the wiel
 of the bow and whose eyes resembled the lotus-petals, that highly intelligent Hanuma spoke to him
 as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+your brother Khara was slain, even then Rāma was clearly no mere mortal (na mānuṣaḥ); and the very moment when the city of Laṅkā, impenetrable even to the gods,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -792,6 +890,12 @@ Feeling unhappy on considering with deep thought, the question of Seetha having 
 in a palanquin, all the way, Rama then spoke the following words, looking at Vibhishana who was
 beside him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+was entered by Hanumān through his valour, even then we were struck with anguish. And when you were repeatedly told by me, ‘Let hostility with Rāghava be avoided (kriyatām avirodhaś ca)’—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -834,6 +938,12 @@ Seetha; *samupagachchhatu* = duly seek; *me samnikaSham* = my presence;
 
 "O the gently king of demons, who is forever intent on my victory! Let Seetha duly
 seek my presence quickly."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+you did not heed it; this fruit (vyuṣṭiḥ) of that [refusal] has now arrived! And without cause you conceived a fatal passion for Sītā, O bull among Rākṣasas,
 </details>
 </details>
 
@@ -880,6 +990,12 @@ who knew what was right; *utsaaraNam kaarayaamaasa* = began to disperse the peop
 
 Hearing those words of that Rama, Vibhishana, who knew what was right, began to
 disperse the crowd there quickly.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+for the destruction of your sovereignty, your body, and your kinsmen! By violating that venerable Sītā (sītāṃ dharṣayatā mānyām), who surpasses even Arundhatī and Rohiṇī, O foolish-minded one,
 </details>
 </details>
 
@@ -930,6 +1046,12 @@ _________________
 Demons wearing jackets and turbans, their hands carrying staffs which made a
 jingling sound, walked there all round, dispersing those warriors.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+an unworthy deed was committed by you! She who is the very earth of the earth (vasudhāyā hi vasudhām), the very Lakṣmī of Lakṣmī (śriyāḥ śrīm), devoted to her husband,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -975,6 +1097,12 @@ maaNaani* = dispersed; *sarvashaH* = on all sides; *utthasthuH* = bounced;
 
 Crowds of bears, monkeys and demons, dispersed on all sides, bounced for a distance,
 from their nearness to the palanquin.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the auspicious Sītā of wholly flawless limbs (sarvānavadyāṅgīm)—having brought that distressed lady from the solitary forest by deceit as the ruin of yourself and your race (ātmasvadūṣaṇam),
 </details>
 </details>
 
@@ -1022,6 +1150,12 @@ that way); *abhuut* = there was; *sumahaan svanaH* = a very great sound;
 While those warriors were being driven away, there was a very great sound,
 resembling the roar of a sea, lashed by a storm.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and without even attaining that desire directed toward union with Maithilī, you have surely been burned by the austerity of that devoted wife (pativratāyās tapasā), O my lord!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1063,6 +1197,12 @@ behaviour of the demons who were dispersing them).
 Seeing them being dispersed on all sides excited, Rama then stopped that operation
 of those who were dispersing them, out of kindness (for those who were being driven away) and
 resentment (at the behaviour of the demons who were dispersing them).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That you were not burned to ashes the very moment you laid hands upon that slender-waisted lady (tanumadhyamām) is only because all the gods, together with Indra and headed by Agni, feared you!”
 </details>
 </details>
 
@@ -1110,6 +1250,12 @@ vibhiiShaNam* = to the highly intelligent Vibhishana.
 The enraged Rama, consuming the demons with his looks as it were, Rama spoke the
 following reproaching words to the highly intelligent Vibhishana
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Assuredly, O husband, the doer of a sinful deed (pāpasya karmaṇaḥ kartā) reaps its fruit when the time comes round (paryāgate kāle); of this there is no doubt.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1155,6 +1301,12 @@ these; *janaH* = people; *svajanaH* = are my own people.
 
 "Why disregarding me, are these people harassed by you? Stop this exertion. They are
 my own people."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The doer of good obtains good, and the doer of evil experiences evil (pāpakṛt pāpam aśnute): Vibhīṣaṇa has attained happiness, while you have met with such a calamity!
 </details>
 </details>
 
@@ -1205,6 +1357,12 @@ nor; *tiraskR^iyaa* = the concealments; *na* = nor; *iidR^ishaaH* = such;
 
 "An apartment is not a thing that protects a woman, nor robes, nor compound-walls,
 nor concealments nor such royal honours. Her character is her shield."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You had other women in your palace surpassing her in beauty (rūpeṇābhyadhikās tataḥ); yet, fallen under the sway of the bodiless god of love (anaṅgavaśam āpannaḥ), out of infatuation you did not perceive it.
 </details>
 </details>
 
@@ -1257,6 +1415,12 @@ ceremonies; *na vaa* = nor; *vivaahe* = in marriage functions.
 difficult situations, nor in battles, nor in self-choosing of a husband by a princess at a public
 assembly of suitors, nor in sacrificial ceremonies nor in marriage-functions."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Neither in lineage (na kulena), nor in beauty (na rūpeṇa), nor in courteous Accomplishment (na dākṣiṇyena) is Maithilī superior or even equal to me; yet out of delusion you did not realize that!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1304,6 +1468,12 @@ presence.
 "The younder Seetha is in distress and beset with a great difficulty. There is no
 fault in her appearance in public, particularly in my presence."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At no time is there a causeless death (mṛtyur alakṣaṇaḥ) for any living being; even so, this death of yours has Maithilī as its cause (maithilīkṛtalakṣaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1350,6 +1520,12 @@ Seetha; *mama samiipe* = in my presence.
 "That is why, let her come on foot alone, leaving the palanquin there. Let these
 monkeys see Seetha in my presence."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Death born of the cause of Sītā (sītānimittajo mṛtyuḥ) was brought here by you from afar! Maithilī, free from sorrow, will now sport happily with Rāma—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1389,6 +1565,12 @@ with decency; *upaanayat samnikarSham siitaam* = brought Seetha to the vicinity;
 
 Hearing the words of Rama the intelligent Vibhishana, with decency, brought Seetha
 to Rama's vicinity.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“whereas I, of scant merit (alpapuṇyā), have fallen into a dreadful ocean of grief (śokasāgare)! I who once sported in your company upon Kailāsa, Mandara, Meru, and in the Caitraratha grove,
 </details>
 </details>
 
@@ -1430,6 +1612,12 @@ babhuuvuH = became; *bR^isham* = very much; *vyatitau* = perturbed.
 Hearing the words of Rama, Lakshmana Sugreeva and Hanuma the monkey then felt very
 much perturbed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and in all the gardens of the gods, travelling in a worthy aerial car (vimānenānurūpeṇa) with peerless splendour,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1470,6 +1658,12 @@ much perturbed.
 From the pitiless facial features of Rama, showing indifference to his consort, they
 conjectured as if Rama had some displeasure towards Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+beholding those various lands while decked in variegated garlands and garments—that very I, O hero, am today bereft of all sensual delights (bhraṃśitā kāmabhogebhyaḥ) through your slaying!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1509,6 +1703,12 @@ with modesty; *abhyavartata* = approached; *bhartaaram* = her husband;
 
 Seetha, for her part, shrinking into her limbs with modesty, approached her husband,
 duly followed by Vibhishana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though the very same person, I have become as if another (saivānyevāsmi saṃvṛttā); fie upon the fickle fortune of kings (cañcalāṃ śriyam)! Alas, O king, your delicate face, with its shapely brows, smooth skin, and prominent nose,
 </details>
 </details>
 
@@ -1556,6 +1756,12 @@ duly followed by Vibhishana.
 
 The pleasant-faced Seetha, who considered her husband as the divinity, saw the
 charming face of her husband, with a surprise, rejoice and affection.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+equal in lustre, beauty, and effulgence to the moon, the lotus, and the sun (indupadmadivākaraiḥ), blazing with a mass of diadems, coppery-lipped, with gleaming earrings,
 </details>
 </details>
 
@@ -1628,6 +1834,12 @@ now longing to see you, her eyes filled with tears of joy."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूर हदिनाल्कनॆय सर्ग पूर्णवायितु.॥114॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+which in the drinking-halls (pānabhūmiṣu), with eyes rolling and languid from intoxication, wore diverse garlands and was handsome, auspicious, and graced with sweet smiles and converse—
 </details>
 </details>
 

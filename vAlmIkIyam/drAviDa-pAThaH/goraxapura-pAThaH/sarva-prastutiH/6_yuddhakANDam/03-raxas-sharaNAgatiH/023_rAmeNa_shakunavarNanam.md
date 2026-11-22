@@ -68,6 +68,12 @@ acquainted with omens; *dR^IshhTNaa* = on seeing; *nimittaani* = the omens;
 Rama, who was well acquainted with portents, on seeing the portents around, embraced
 Lakshmana and spoke as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the portents (nimittāni), Lakṣmaṇa's elder brother, who was well versed in omens (nimittajñaḥ), embraced Saumitri (saumitriṃ sampariṣvajya) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -109,6 +115,12 @@ woods; *phalavanti* = abounding in fruit; *samvibhajya* = let us speedily divide
 "O, Lakshmana! Acquiring this region endowed with cold water and woods abounding in
 fruits, let us speedily divide this multitude of forces into battalions and drawing it up in battle
 array, we shall stand attentive."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Taking possession (parigṛhya) of cool water and fruit-bearing groves (vanāni phalavanti ca), let us divide this vast host (balaughaṃ saṃvibhajya), draw it up in battle array (vyūhya), and take our stand, O Lakṣmaṇa!
 </details>
 </details>
 
@@ -152,6 +164,12 @@ heroes; *R^ikshha vaanara raakshhasaam* = among bears; monkeys and demons.
 
 "I perceive an impending danger which will be terrific, causing destruction to the
 world, and torture to the eminent heroes among bears monkeys and demons."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I see a dreadful peril (bhīmaṃ bhayam) at hand that will bring destruction to the world (lokakṣayakaram) and cut down (prabarhaṇam) the foremost heroes among bears, monkeys, and Rākṣasas.
 </details>
 </details>
 
@@ -199,6 +217,12 @@ trees; *patanticha* = are falling down.
 "Winds are blowing with dust and earth is trembling. Mountain- tops are quivering
 and trees are falling down."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Turbid winds (vātāś ca kaluṣāḥ) are blowing, the earth is trembling (kampate ca vasuṃdharā), the mountain peaks are quaking, and the trees are crashing down (patanti ca mahīruhāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +262,12 @@ svanaaH* = with harsh sound; *pravarshhanti* = are raining; *kruuram* = cruelly;
 
 "Ferocious clouds resembling wild beasts were dirty colored and emit a terrific
 roaring and let loose dreadful showers mingled with drops of blood."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Harsh clouds resembling flesh-eating beasts (kravyādasaṃkāśāḥ), hoarse-voiced (paruṣasvanāḥ) and cruel, rain down a grisly shower mingled with drops of blood (miśraṃ śoṇitabindubhiḥ).
 </details>
 </details>
 
@@ -279,6 +309,12 @@ fire; *patanticha* = falls.
 "Evening twilight resembling red sandal wood is very much dreadful. From the blazing
 sun, balls of fire fall."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The twilight (saṃdhyā), resembling red sandal-paste (raktacandanasaṃkāśā), is most dreadful; and from the blazing sun falls this orb of fire (agnimaṇḍalam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,6 +355,12 @@ melancholic sound; *pratyaadityam* = facing towards the sun; *mahat* = in great;
 "Wild animals and birds from all sides are roaring pitiably with melancholic sound,
 facing towards the sun in great fear."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Dejected and uttering piteous cries (dīnā dīnasvarāḥ), wild beasts and birds of ill omen (mṛgapakṣiṇaḥ) howl on every side facing the sun (pratyādityaṃ vinardanti), awakening great terror.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -358,6 +400,12 @@ invested with a black and red halo; *samtaapayati* = is tormenting(the mind);
 
 "The splendorous moon as though rising at the time of universal dissolution,
 invested with a black and red halo is tormenting the mind this night."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By night the moon, bereft of luster (aprakāśaḥ), scorches with heat (saṃtāpayati), rimmed with black and blood-red rays (kṛṣṇaraktāṃśuparyantaḥ) as though risen at the destruction of the worlds (lokakṣaya ivoditaḥ).
 </details>
 </details>
 
@@ -405,6 +453,12 @@ the colorless solar disc; *hrasvaH* = which is diminished; *ruukshhaH* = dreary;
 "O, Lakshmana! A dark stain appears on the cloudless solar disc, which is
 diminished, dreary, inauspicious and coppery."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A small, rough, inauspicious, blood-red halo (pariveṣas tu lohitaḥ) [appears], and upon the cloudless sun a dark-blue mark (nīlaṃ lakṣma) is seen, O Lakṣmaṇa!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -451,6 +505,12 @@ dissolution; *lokaanaam* = of the worlds.
 "O, Lakshmana! Look! Stars enveloped in enormous dust, appear to announce a
 dissolution of the world."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Struck dim by a dense pall of dust (rajasā mahatā hatāni), behold, O Lakṣmaṇa, the constellations foretell (śaṃsanti) as it were the end of the cosmic age (yugāntam iva) for all beings!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -493,6 +553,12 @@ very dreadful; *ashubhaan* = and inauspicious; *naadaan* = sounds.
 
 "Crows, eagles and vultures are flying low. Jackals too are howling very dreadful
 and inauspicious sounds."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Crows, hawks, and low-flying vultures (nīcā gṛdhrāḥ) wheel overhead (paripatanti), and jackals (śivāḥ) too howl forth inauspicious cries fraught with immense terror (sumahābhayān).
 </details>
 </details>
 
@@ -540,6 +606,12 @@ monkeys and demons; *maamsa shoNita kardamaa* = and a quagmire of flesh and bloo
 "Earth will become a quagmire of flesh and blood, covered with rocks spears and
 swords hurled by monkeys and demons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Covered with crags, pikes, and swords (śailaiḥ śūlaiś ca khaḍgaiś ca) hurled by monkeys and Rākṣasas, the earth shall become mire with flesh and blood (māṃsaśoṇitakardamā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -579,6 +651,12 @@ quickly; *javenaiva* = with a speed.
 
 "Abounding with all the monkeys we shall attack the city ruled by Ravana, now itself
 at a quick pace."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surrounded by all the monkeys (sarvair haribhir āvṛtāḥ), let us march (abhiyāma) swiftly this very day with all speed against the unassailable city ruled by Rāvaṇa (purīṃ rāvaṇapālitām)!”
 </details>
 </details>
 
@@ -621,6 +699,12 @@ dharshhaNaH* = the conqueror of enemies in battle; *raamaH* = and a charming man
 Rama the lord, the conqueror of enemies and a charming man thus speaking, wielded a
 bow and sallied forth in front, facing towards Lanka.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, that bow-wielding Rāma, the crusher of foes in battle (saṃgrāmadharṣaṇaḥ), the mighty lord Rāma who delights all hearts, set forth in the van (pratasthe purataḥ) facing toward Laṅkā (laṅkām abhimukhaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -660,6 +744,12 @@ for thedestruction; *dvishhataam* = of enemies; *dhR^itaanaam* = the audacious.
 
 All those excellent monkeys, together with Vibhishana and Sugriva making roaring
 sounds surged forth for the destruction of the audacious enemies.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Together with Vibhīṣaṇa and Sugrīva (savibhīṣaṇasugrīvāḥ), all those bulls among monkeys set forth roaring aloud (vinardantaḥ), resolved upon the slaying of their resolute foes (dhṛtānāṃ dviṣatāṃ vadhe).
 </details>
 </details>
 
@@ -711,6 +801,12 @@ with their intention to gratify him.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि इप्पत्तमूरनॆय सर्ग पूर्णवायितु.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the delight of the Raghus (raghunandanaḥ) was exceedingly pleased (tutoṣa) with the warlike deeds and gestures (karmaceṣṭābhiḥ) of those valorous monkeys acting for the sake of Rāghava's pleasure (rāghavasya priyārtham).
 </details>
 </details>
 

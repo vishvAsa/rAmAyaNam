@@ -63,6 +63,12 @@ shataanandam* = to the [royal] priest Shataananda; *vaakyam uvaaca* = said sente
 Then on the next day morning after getting the ritual liturgies performed through sages, he that articulator Janaka articulated
 this to sage Shataananda, the royal priest. [1-70-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then at daybreak, King Janaka, having completed his morning rites along with the great sages (kṛtakarmā maharṣibhiḥ), eloquent in speech (vākyajñaḥ), spoke these words to his royal purohita Śatānanda:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,6 +132,14 @@ aircraft of richly-rich god Kubera, and as though supping the sugarcane juice-li
 The words *vaaryaa phalakaparyantaam* also mean 'that city is surrounded by the plantation of citrus grapefruits
 that are famous for health keeping.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “My brother of great splendor, valorous and supremely righteous (vīryavān atidhārmikaḥ), renowned by the name Kuśadhvaja, dwells in an auspicious city (purīm adhyavasac chubhām)—
+
+**3:** “—whose ramparts and moat are ringed with defensive engines and stakes (vāryāphalakaparyantām), drinking the waters of the Ikṣumatī river (pibann ikṣumatīṃ nadīm): the city of Sāṅkāśyā, radiant as celestial merit itself (puṇyasaṃkāśām) and resembling the aerial palace Puṣpaka (vimānam iva puṣpakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -171,6 +185,12 @@ in partaking the joyousness of this marriage... " So said Janaka to Shataananda.
 Kushadhvaja supplied whole lot of paraphernalia for this Vedic-ritual of Janaka from his auspicious city Saankaasya, and
 hence he is the benefactor of the ritual.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I wish to behold him, for he is esteemed by me as the protector of my sacrifice (yajñagoptā sa me mataḥ); possessing great splendor, he too shall share with me in this supreme joy (prītiṃ so 'pi mahātejā imāṃ bhoktā mayā saha).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -210,6 +230,12 @@ words [enunciation] ; *avyagraaH* = not flustering [alacritous envoys]; *kecit a
 That way when Janaka asseverated that enunciation in the presence of Shataananda, Shataananda in turn ordered and summoned
 envoys, and then some alacritous envoys have come, whom Janaka ordered to proceed to his brother. [1-70-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When these words had been spoken in the presence of Śatānanda, certain composed and capable attendants arrived (āgatāḥ kecid avyagrāḥ), and Janaka gave them his command.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,6 +274,12 @@ envoys, and then some alacritous envoys have come, whom Janaka ordered to procee
 
 By the order of the king those envoys who have speedy horses have travelled on to city Saankaasya speedily, to lead forth
 that tigerly man Kushadhvaja that speedily, which is as good as fetching Vishnu by order of Indra. [1-70-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the command of the lord of men, they set forth on swift steeds (prayayuḥ śīghravājibhiḥ) to bring back that tiger among men, just as messengers go at Indra’s command to summon Viṣṇu (viṣṇum indrājñayā yathā).
 </details>
 </details>
 
@@ -295,6 +327,12 @@ The viewpoint of Janaka is to offset the problem of marriages of both the daught
 has four sons and Janaka presaged a quadruple alliance with him, where Janaka has two daughters and his brother Kushadhvaja
 has two.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching the city of Sāṅkāśyā, those envoys beheld Kuśadhvaja and reported to him all that had transpired as well as King Janaka’s intention (janakasya ca cintitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -333,6 +371,12 @@ speed]; *duutashreSThaiH* = from worthy envoys; *tat vR^ittam shrutvaa* = on hea
 
 On hearing that event from the worthy envoys whose speed is praiseworthy, king Kushadhvaja came right away to Mithila by
 the order of king Janaka. [1-70-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that account from those foremost and fleet-footed envoys (dūtaśreṣṭhair mahājavaiḥ), King Kuśadhvaja came to Mithilā at the command of the lord of men (ājñayā tu narendrasya).
 </details>
 </details>
 
@@ -390,6 +434,12 @@ Kushadhvaja addressed himself to the insightful one and a compassionate person i
 and on reverencing sage Shataananda firstly, next he has reverenced his fondly affectionate brother Janaka, and then he
 sat upon a majestic seat, that which is befitting to kings. [1-70-9, 10a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He beheld the great-souled Janaka, devoted to dharma (dharmavatsalam); and having reverently greeted Śatānanda and the supremely righteous Janaka—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -439,6 +489,14 @@ assumed high seats]; *mantrishreSTham sudaamanam* = distinguished minister, Suda
 
 Both the brothers of unlimited self-refulgence having assumed their high seats, they who are distinguished for their righteous
 acts have started to send Sudaamana, the distinguished minister. [1-70-10b, 11a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** —he ascended a supreme, celestial seat worthy of a king (rājārhaṃ paramaṃ divyam āsanaṃ so 'dhyarohata). Seated together, those two heroic brothers of boundless splendor (bhrātarāv amitadyutī)—
+
+**11:** —dispatched their foremost minister Sudāman (mantriśreṣṭhaṃ sudāmanam), saying: “Go quickly, O chief of ministers, to the descendant of Ikṣvāku of immeasurable radiance (ikṣvākum amitaprabham),
 </details>
 </details>
 
@@ -496,6 +554,12 @@ shirasaa abhivaadya ca* = on hailing him with head [head-bent, bow down], also; 
 Accordingly Sudaamana has gone to the visitatorial-palace of the promoter of Raghu's heritage, namely Dasharatha, and he
 said this on appearing before that king duly bowing down and hailing the king. [1-70-12b, 13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“and bring that unassailable monarch here along with his sons and his ministers (ātmajaiḥ saha durdharṣam ānayasva samantriṇam).” Proceeding to the royal pavilion (aupakāryāṃ sa gatvā tu), Sudāman approached the enhancer of the house of the Raghus (Daśaratha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -535,6 +599,12 @@ said this on appearing before that king duly bowing down and hailing the king. [
 "Oh, valiant king, oh, sovereign of Ayodhya, his highness the sovereign of Mithila from the heritage of Videha kings is
 poised for seeking an audience with your highness, along with your highness' royal-priest Vashishta and other mentors..."
 The minister Sudaamana said so to Dasharatha. [1-70-13b, 14a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him and bowing his head in reverent salutation (śirasā cainam abhivādya), Sudāman spoke these words: “O heroic Lord of Ayodhyā! Vaideha, the ruler of Mithilā,
 </details>
 </details>
 
@@ -581,6 +651,12 @@ minister; *saRSigaNaH* = with sage's assemblages; *sabandhuH* = with kinsmen;
 On hearing that best minister's words, then king Dasharatha came to the place where Janaka is available, along with his
 kinsmen and the assemblages of sages. [1-70-14b, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“desires to behold you together with your preceptors and purohita (sopādhyāyapurohitam).” Hearing the words of the chief minister, the king, accompanied by the host of sages (rājā sarṣigaṇas tathā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -621,6 +697,12 @@ kinsmen and the assemblages of sages. [1-70-14b, 15a]
 That sententious king Dasharatha said this to the king from the lineage of Videha kings, Janaka, who is with his mentors,
 kinsfolk, and ministers. [1-70-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—went with his kinsmen to the place where Janaka was seated. Then the king, surrounded by his ministers, preceptors, and kinsmen (mantrisahitaḥ sopādhyāyaḥ sabāndhavaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -660,6 +742,12 @@ kinsfolk, and ministers. [1-70-15b, 16a]
 "Oh, exalted king Janaka, you already appreciate that this godly sage Vashishta is godlike to the bloodline of Ikshvaku-s,
 and in all affairs he is our internuncio... [1-70-16b, 17a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+foremost among those skilled in speech (vākyavidāṃ śreṣṭho), spoke these words to Vaideha: “It is well known to you, O Great King, that the tutelary deity of the Ikṣvāku dynasty (ikṣvākukuladaivatam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -687,6 +775,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 समस्त महर्षिगळ सहित विश्वामित्ररु अप्पणॆ माडिदरॆ धर्मात्मा ई वसिष्ठरु मॊदलु नन्न कुल परम्परॆय परिचय क्रमवागि माडिसुवरु.॥17½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“and the spokesman in all our sacred undertakings (vaktā sarveṣu kṛtyeṣu), is the revered sage Vasiṣṭha. With the cordial assent of Viśvāmitra and all the great sages (viśvāmitrābhyanujñātaḥ saha sarvair maharṣibhiḥ),
 </details>
 </details>
 
@@ -731,6 +825,12 @@ yathaakramam* = as per lineage; *me* = of mine [my bloodline]; *vakSyati*= will 
 narrate about my bloodline, lineally..." And, to the nod of Vishvamitra Dasharatha become reticent, and then the godly and
 sententious sage Vashishta who is along with his men of the cloth said these sentences to the king of Videha, namely Janaka.
 [1-70-17b, 18, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“this righteous-souled Vasiṣṭha will declare my lineage in due order (vasiṣṭho me yathākramam).” When Daśaratha fell silent (tūṣṇīṃbhūte daśarathe), the revered sage Vasiṣṭha—
 </details>
 </details>
 
@@ -807,6 +907,14 @@ say 31, 10, 40, 00, 00, 00, 000 human years, without transmutation, yet He conti
 faculties or His divine being does not undergo any mutation or metamorphosis. He is 'perishless' during the above period
 and after, since Vishnu gave rise to Him. Up to here is ultramundane order of progeny and the mundane lineage is now continued.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** —skilled in speech, addressed these words to Vaideha together with his purohita (vaidehaṃ sapurodhasam): “Brahmā, sprung from the Unmanifest Supreme Being (avyaktaprabhavo brahmā), is eternal, imperishable, and immutable (śāśvato nitya avyayaḥ).
+
+**20:** “From him was born Marīci, and Marīci’s son was Kaśyapa; from Kaśyapa was born Vivasvān (the Sun-god), and Manu is declared to be Vivasvān’s son (manur vaivasvataḥ smṛtaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -845,6 +953,12 @@ son; *tam ikSvaakum* = him, that Ikshvaku; *ayodhyaayaam* = in Ayodhya; *puurvak
 
 Manu is the earliest Prajaapati and Ikshvaaku is the son of Manu, and that Ikshvaaku is the first king of Ayodhya... know
 thus... [1-70-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Manu was the lord of creatures in former times (manuḥ prajāpatiḥ pūrvam), and Ikṣvāku was Manu’s son; know that Ikṣvāku to have been the first king in Ayodhyā (tam ikṣvākum ayodhyāyāṃ rājānaṃ viddhi pūrvakam).
 </details>
 </details>
 
@@ -891,6 +1005,12 @@ thus... [1-70-21]
 The son of Ikshvaaku is the legendary Kukshi, thus he is renowned, and the famous Vikukshi is the son of Kukshi...
 [1-70-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The illustrious son of Ikṣvāku was renowned by the name Kukṣi; and from Kukṣi arose his illustrious son Vikukṣi (kukṣer athātmajaḥ śrīmān vikukṣir udapadyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -929,6 +1049,12 @@ is; *baaNasya* = Baana's [son.]
 
 From that most brilliant and courageous Vikukshi, Baana emerged as son, and the highly refulgent and valinat Anaranya is
 the son of Baana... [1-70-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Vikukṣi’s valorous son of great splendor was Bāṇa; and Bāṇa’s valorous son of great splendor was Anaraṇya.
 </details>
 </details>
 
@@ -975,6 +1101,12 @@ renowned one, Dhundumaara emerged as son.
 Pruthu is the son of Anaranya, and Trishanku is Pruthu's son, and the highly renowned Dhundumaara happened to be the son
 of Trishanku... [1-70-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From Anaraṇya was born Pṛthu, and from Pṛthu came Triśaṅku; and Triśaṅku’s son of great renown was Dhundhumāra.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1020,6 +1152,12 @@ charioteer, Yuvanaashva - is the son; *pR^ithiviipatiH* = lord of - king of land
 Dhundumaara begot a highly glorious and a speediest charioteer Yuvanaashva as son, and Mandhaata emerged as the son of
 Yuvanaashva... [1-70-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From Dhundhumāra came the great-splendored warrior Yuvanāśva (yuvanāśvo mahārathaḥ); and Yuvanāśva’s son was the lord of the earth Māndhātā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1059,6 +1197,12 @@ a highly noble, son, engendered; *susandheH api* = from Susandhi, even; *dhruvas
 Maandhaata engendered the highly noble Susandhi as son, and even Susandhi engendered two sons, namely Dhruvasandhi and
 Prasenajit... [1-70-26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From Māndhātā arose his illustrious son Susandhi; and Susandhi had two sons, Dhruvasandhi and Prasenajit.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1097,6 +1241,12 @@ effulgent one; *asitaH naama jaayata* = is begotten by name Asita.
 
 From Dhruvasandhi, an illustrious one named as Bharata is begotten, and Bharata begot a highly effulgent son named as Asita...
 [1-70-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Dhruvasandhi’s renowned son was known by the name Bharata; and from Bharata was born the great-splendored king named Asita (asito nāma jāyata).
 </details>
 </details>
 
@@ -1139,6 +1289,12 @@ _________________
 
 To which Asita, kings like Haihaya-s, Taalajanghaa-s, and the valiant Shashabindu-s have become adversaries and kings in
 hostility, he had to wage war with them... [1-70-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Against that Asita there arose hostile rival kings as enemies (pratirājāna udapadyanta śatravaḥ): the Haihayas, the Tālajaṅghas, and the valiant Śaśabindus.
 </details>
 </details>
 
@@ -1185,6 +1341,12 @@ hostility, he had to wage war with them... [1-70-28]
 While counterattacking those kings, Asita is dethroned in war and then he reached Himalayas along with his two wives...
 [1-70-29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fighting against them in battle (tāṃś ca sa pratiyudhyan vai), the king was driven into exile from his kingdom (yuddhe rājā pravāsitaḥ); repairing to Mount Himavān accompanied by his two queens,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1220,6 +1382,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजा असितन बळि स्वल्पवे सैन्य उळिदित्तु. अवनु अल्ले मृत्यु मुखवादनु. राजनु सायुवाग अवन इब्बरू राणियरु गर्भवतियरागिद्दरु ऎन्दु केळिद्देवॆ. अवरल्लि ऒब्बाकॆयु सवतिय गर्भवन्नु नाश माडलिक्कागि ऊटदल्लि विषवन्नु तिन्निसिदळु.॥30½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“King Asita, his forces depleted (asito 'lpabalo rājā), succumbed to the law of Time (kāladharmam upeyivān); and tradition records that both his queens were then with child (dve cāsya bhārye garbhiṇyau babhūvatur iti śrutiḥ).
 </details>
 </details>
 
@@ -1314,6 +1482,16 @@ shelter on Himalayas. [1-70-31b, 32a]
 One of the two wives of Asita, the lotus-petal eyed and highly fortunate one queen came there desirous of a best son, and
 reverenced the sage who is godly in his glow... [1-70-32b-33a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** “One of the two queens gave food laced with poison (sagaraṃ dadau) to her rival co-wife in order to destroy her fetus (garbhavināśārtham). Now at that time, a sage was dwelling with delight upon that lovely mountain peak (śailavare ramye)—
+
+**32:** “—the Bhārgava named Cyavana, who had taken up his abode on Himavān. There, that one supremely fortunate queen (who had ingested the poison) approached the Bhārgava of divine effulgence (bhārgavaṃ devavarcasam),
+
+**33:** “and lotus-petal-eyed, longing for a noble son (kāṅkṣantī sutam uttamam), she bowed in veneration; approaching that sage for refuge, Queen Kālindī reverently saluted him (tam ṛṣiṃ sābhyupāgamya kālindī cābhyavādayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1382,6 +1560,14 @@ of poisoning, hence the use of *ca* , she too came to the sage.
 highly vigorous, highly refulgent son and that illustrious one will take birth with toxicity, but there is no need to worry...'
 So said Sage Cyavana to the queen of Asita who received the poison. [1-70-35]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**34:** “That brahmin sage spoke in blessing to her who desired a son, concerning the birth of her child (putrepsuṃ prajajanmani): ‘Within your womb, O supremely fortunate queen, a noble son of immense strength (suputraḥ sumahābalaḥ),
+
+**35:** “‘of great valor and great splendor, shall soon be born (acirāt saṃjaniṣyati), glorious even together with the poison (gareṇa sahitaḥ śrīmān); do not grieve, O lotus-eyed one (mā śucaḥ kamalekṣaṇe)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1422,6 +1608,12 @@ no more] husband; *devii* = that lady; *cyavanam namaskR^itya* = reverencing Sag
 **अनुवादः**
 
 On reverencing Sage Cyavana that husband devout princess whose husband is no more that lady gave birth to a son... [1-70-36]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having bowed in reverence to Cyavana, that devoted princess and queen, though bereft of her husband (patyā virahitā), gave birth to a son through the sage’s grace (tasmāt putraṃ devī vyajāyata).
 </details>
 </details>
 
@@ -1478,6 +1670,12 @@ of their Kshatriya-hood. Taking the nearness of name *paarada* to Persia, it is 
 taken domicile in the Middle East and *a aaryan* or *a aa riaan* is *Airan* or present day Iran, and
 age-old are Indo-Iranian links. Further, the word Asia has its own nearness to the name of king Asita.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because poison had been given to her by her co-wife with the desire to destroy her fetus (garbhajighāṃsayā), and he was born right along with that poison, he came to be named Sagara (saha tena gareṇaiva saṃjātaḥ sagaro 'bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1519,6 +1717,12 @@ _________________
 
 From Sagara it is Asamanja and from Asamanja it is Amshuman, and from Amshuman it is Diliipa, and the son of Diliipa is
 Bhageeratha... [1-70-38]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Sagara’s son was Asamañja, and from Asamañja came Aṃśumān; Dilīpa was Aṃśumān’s son, and Dilīpa’s son was Bhagīratha.
 </details>
 </details>
 
@@ -1576,6 +1780,12 @@ to Vashishta, by taking water into his hand, his wife Madayanti, being a husband
 all-powerful Vashishta. He on listening to his wife drops that water taken for cursing, onto his own feet. Then his accursed
 water blemished him via his feet. Hence, he is also termed as Kalmashapaada.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From Bhagīratha came Kakutstha, and from Kakutstha came Raghu; and Raghu’s resplendent son was Pravṛddha, who became a man-eater (pravṛddhaḥ puruṣādakaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1600,6 +1810,12 @@ water blemished him via his feet. Hence, he is also termed as Kalmashapaada.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवने कल्माषपादनॆन्दु प्रसिद्धनागिद्दनु. अवनिगॆ शङ्खणनॆम्ब पुत्रनु हुट्टिदनु. शङ्खणन पुत्र सुदर्शन मत्तु सुदर्शननिगॆ अग्निवर्ण हुट्टिदनु.॥40॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—and was also known as Kalmāṣapāda; and from him was born Śaṅkhaṇa. Sudarśana was Śaṅkhaṇa’s son, and from Sudarśana came Agnivarṇa.”
 </details>
 </details>
 
@@ -1640,6 +1856,12 @@ Ambariisha is the son of Prashushruka.
 
 Shankana's son is Sudarshana, and from Sudarshana it is Agnivarsna... And Shiigraga is the son of Agnivarsna, and Shiighraga's
 son is Maru and from Maru it is Prashushruka, and Ambariisha is the son of Prashushruka... [1-70-41]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Śīghraga was Agnivarṇa’s son, and Śīghraga’s son was Maru; Maru’s son was Praśuśruka, and from Praśuśruka came Ambarīṣa.
 </details>
 </details>
 
@@ -1705,6 +1927,14 @@ Dasharatha, is manifest; *asmaat dasharathaat* = from him Dasharatha,; *bhraatar
 Aja was Naabhaaga's son and from Aja, this Dasharatha is manifest, and from him, from this Dasharatha, these brothers,
 Rama and Lakshmana are born... [1-70-43]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**42:** “Ambarīṣa’s son was King Nahuṣa; Nahuṣa’s son was Yayāti, and Nābhāga was born of Yayāti.
+
+**43:** “Nābhāga’s son was Aja, and from Aja was born Daśaratha; and from this Daśaratha have been born the two brothers Rāma and Lakṣmaṇa (asmād daśarathāj jātau bhrātarau rāmalakṣmaṇau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1729,6 +1959,12 @@ Rama and Lakshmana are born... [1-70-43]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इक्वाक्षु कुलदल्लि उत्पन्नराद राजर वंशवु आदिकालदिन्दले शुद्धवागिदॆ. इवरॆल्लरू परम धर्मात्मरू, वीररू, सत्यवादिगळू आगिद्दरु.॥44॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“On behalf of Rāma and Lakṣmaṇa—scions of kings pure in lineage from the very beginning (ādivaṃśaviśuddhānām), supremely devoted to dharma, born in the house of Ikṣvāku, heroic, and ever truthful in speech (vīrāṇāṃ satyavādinām)—
 </details>
 </details>
 
@@ -1785,6 +2021,12 @@ to king Janaka. [1-70-44, 45]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎप्पत्तनॆय सर्ग पूर्णवायितु. ॥70॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—I formally request your two daughters in marriage, O King (rāmalakṣmaṇayor arthe tvatsute varaye nṛpa). Unto two princes who are their worthy equals, O best of men, you ought to give your two worthy daughters (sadṛśābhyāṃ naraśreṣṭha sadṛśe dātum arhasi)!”
 </details>
 </details>
 

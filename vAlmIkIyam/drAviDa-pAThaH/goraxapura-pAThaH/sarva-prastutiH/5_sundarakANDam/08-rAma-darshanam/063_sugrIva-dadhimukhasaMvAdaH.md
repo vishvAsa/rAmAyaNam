@@ -73,6 +73,12 @@ these; *vaakyam* = words; *udvigna hR^idayaH* = with an agitated mind.
 Just on seeing Dadhimukha, who fell touching his feet with his head, Sugreeva the chief
 of monkeys, with an agitated mind, spoke the following words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, merely upon beholding that monkey fallen with his head at his feet (tato mūrdhnā nipatitaṃ vānaraṃ dṛṣṭvaiva), the bull among monkeys (vānararṣabhaḥ), anxious at heart (udvignahṛdayaḥ), spoke this word (vākyam etad uvāca ha):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,6 +127,12 @@ abhidhiiyataam* = Let the entire truth be spoken!.
 
 "O valiant monkey! Stand up, rise! Why have you fallen on my feet? I grant you immunity
 from fear. Let the entire truth be spoken!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rise, rise (uttiṣṭhottiṣṭha)! Why have you fallen at my feet (kasmāt tvaṃ pādayoḥ patito mama)? I shall grant you fearlessness (abhayaṃ te pradāsyāmi); let the truth alone be spoken (satyam evābhidhīyatām)!
 </details>
 </details>
 
@@ -171,6 +183,12 @@ intelligent Dadhimukha; *utthaaya* = rising up; *abraviit* = spoke; *vaakyam* =
 Thus inspired by the high-souled Sugreeva with confidence, that highly intelligent Dadhimukha,
 rising up, spoke the following words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through what alarm (kiṃ saṃbhramāt) have you come? Speak fully whatever is salutary and what you ought to say (hitaṃ kṛtsnaṃ brūhi yad vaktum arhasi); is all well in Madhuvana (kaccin madhuvane svasti)? I wish to hear, O monkey (śrotum icchāmi vānara)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -220,6 +238,12 @@ your father; *na* = nor; *tvayaa* = by you; *na* = nor vaalina api = by Vali eve
 "O king! Madhuvana was indeed not set free previously at any time by Riksharajas, your
 father, or by you, or by even Vali. That Madhuvana has been consumed away by the monkeys."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reassured by that high-souled Sugrīva (sa samāśvāsitas tena sugrīveṇa mahātmanā), that monkey of great wisdom, Dadhimukha, rose up and spoke this word (utthāya sa mahāprājño vākyaṃ dadhimukho 'bravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -268,6 +292,12 @@ _________________
 
 "When these guards of the grove obstructed the monkeys, they disregarded the guards and
 continue to eat the fruits and drink the honey too."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither by Ṛkṣarajas, O King (naivarkṣarajasā rājan), nor by you, nor by Vālin (na tvayā na ca vālinā) was your grove ever granted for free indulgence before (vanaṃ nisṛṣṭapūrvaṃ te); yet that grove has now been ruined by the monkeys (nāśitaṃ tat tu vānaraiḥ).
 </details>
 </details>
 
@@ -320,6 +350,12 @@ us); *te sarve* = all of them; *darshayanti hi* = are indeed showing; *bhruvaH*
 consuming that remnant. When prevented by us, all of them are indeed exhibiting their eye-brows to us
 (in anger)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Together with these forest-rangers, I sought to restrain them all (nyavārayam ahaṃ sarvān sahaibhir vanacāribhiḥ); yet disregarding me, in their joy they feast and drink (acintayitvā māṃ hṛṣṭā bhakṣayanti pibanti ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -368,6 +404,12 @@ are more angry; *tathaa* = and; *vaarayantaH* = keeping them off; *tasmaat vaana
 
 "When these guards of the grove became angry and tried to keep them off from the grove,
 those enraged monkeys threatened them."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And when this assault was checked by these grove-keepers (ebhiḥ pradharṣaṇāyāṃ ca vāritaṃ vanapālakaiḥ), disregarding even me, O my lord (mām apy acintayan deva), the forest-dwellers go on feasting (bhakṣayanti vanaukasaḥ).
 </details>
 </details>
 
@@ -418,6 +460,12 @@ away; *krodhaat* = with anger.
 "O chief of monkeys! Then, those valiant monkeys in large numbers, having their red eyes
 in anger, drove away these monkeys."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some fling away what is left over here (śiṣṭam atrāpavidhyanti), while others feast (bhakṣayanti tathāpare); and when being restrained, all of them knit their brows in a frown (nivāryamāṇās te sarve bhrukuṭiṃ darśayanti hi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -466,6 +514,12 @@ darshitaaH cha* = they were tossed into; *deva maargam* = air.
 
 "Those monkeys struck some of the guards with their hands. They beat some of them with
 their knees. They dragged some of them and tossed them into air."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then these guards of mine, growing still more incensed (ime hi saṃrabdhatarāḥ), were violently assaulted by them (tadā taiḥ sampradharṣitāḥ) and driven out from that grove (nivāryante vanāt tasmāt) by those enraged bulls among monkeys (kruddhair vānarapuṅgavaiḥ).
 </details>
 </details>
 
@@ -516,6 +570,12 @@ _________________
 "While you are in the position of a king, those monkeys have beaten these valiant guards
 and are eating away the entire Maduvana too."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then by those many heroic monkeys (tatas tair bahubhir vīrair vānaraiḥ), O bulls among monkeys (vānararṣabhāḥ), whose eyes were bloodshot with wrath (saṃraktanayanaiḥ krodhāt), my monkeys were thoroughly battered (harayaḥ sampradharṣitāḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -564,6 +624,12 @@ Dadhimukha); *lakShmaNaH* = Lakshmana; *para viirahaa* = the killer of hostile h
 
 Lakshmana, the killer of hostile heroes and a very wise man, asked that Sugreeva, the
 excellent of monkeys (as follows) while Dadhimukha was thus reporting to him:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+some were struck down with palms (pāṇibhir nihatāḥ kecit), and some were beaten with knees (kecij jānubhir āhatāḥ); and then they were dragged about at will (prakṛṣṭāś ca tadā kāmam) and shown the pathway of the gods (devamārgaṃ ca darśitāḥ).
 </details>
 </details>
 
@@ -614,6 +680,12 @@ in grief; *abraviit* = spoken; *vaakyam* = some words (to you)?
 "O king! Why has this monkey the garden-protector, come here?' Pointing out what matter
 has this monkey in grief, spoken these words to you?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus have these brave guards been beaten (evam ete hatāḥ śūrāḥ) while you yourself stand as our lord and master (tvayi tiṣṭhati bhartari); and the entire Madhuvana is being devoured by them at their pleasure (kṛtsnaṃ madhuvanaṃ caiva prakāmaṃ taiś ca bhakṣyate)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -662,6 +734,12 @@ pratyuvaacha* = replied; *laKShmaNam* = to Lakshmana; *idam* = these; *vaakyam*
 
 Hearing the words of the high-souled Lakshmana, the eloquent Sugreeva replied to him
 as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While that bull among monkeys, Sugrīva, was thus being petitioned (evaṃ vijñāpyamānaṃ taṃ sugrīvaṃ vānararṣabham), Lakṣmaṇa of great wisdom, slayer of hostile heroes, asked him (apṛcchat taṃ mahāprājño lakṣmaṇaḥ paravīrahā):
 </details>
 </details>
 
@@ -716,6 +794,12 @@ was consumed.
 of monkeys, who returned from the southern direction, after searching for Seetha as also Angada and
 other heroes consumed honey."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Why has this monkey, the guardian of the grove, presented himself here, O King (kim ayaṃ vānaro rājan vanapaḥ pratyupasthitaḥ)? And pointing to what matter (kiṃ cārtham abhinirdiśya) did he speak this speech in sorrow (duḥkhito vākyam abravīt)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -743,6 +827,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूज्यनाद लक्ष्मणा! अङ्गदने मॊदलाद वीररु मधुवनदल्लिद्द मधुवन्नु पानमाडि, फलगळन्नु भक्षिसिदरॆन्दु ई दधिमुखनु हेळुत्तिद्दानॆ.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the high-souled Lakṣmaṇa (evam uktas tu lakṣmaṇena mahātmanā), Sugrīva, skilled in speech (sugrīvaḥ vākyaviśāradaḥ), spoke this word in reply to Lakṣmaṇa (lakṣmaṇaṃ pratyuvācedaṃ vākyam):
 </details>
 </details>
 
@@ -790,6 +880,12 @@ upakramaH* = in such an exploit; *akR^ita kR^ityaanaam* = had they not accomplis
 towards Madhuvana, we can deduce that the monkeys would not have indulged in such an exploit, had they
 not accomplished my purpose."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O noble Lakṣmaṇa (ārya lakṣmaṇa), the heroic monkey Dadhimukha declares (samprāha vīro dadhimukhaḥ kapiḥ) that the honey has been devoured by the heroic monkeys headed by Aṅgada (aṅgadapramukhair vīrair bhakṣitaṃ madhu vānaraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -817,6 +913,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘इसकी बात सुनकर मुझे यह अनुमान होता है कि वे जिस कार्यके लिये गये थे, उसे अवश्य ही उन्होंने पूरा कर लिया है । तभी उन्होंने मधुवनपर आक्रमण किया है । यदि वे अपना कार्य सिद्ध करके न आये होते तो उनके द्वारा ऐसा अपराध नहीं बना होता—वे मेरे मधुवनको लूटनेका साहस नहीं कर सकते थे ॥ १७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Such a transgression would never be committed by them (naiṣām īdṛśaḥ syād vyatikramaḥ) had they not accomplished their task (akṛtakāryāṇām); since they have stormed the grove (vanaṃ yad abhipannās te), that mission has surely been accomplished (sādhitaṃ karma tad dhruvam)!
 </details>
 </details>
 
@@ -917,6 +1019,14 @@ the progress; *tasya* = of that work; *na anyathaa* = cannot be otherwise.
 "Where Jambavan as well as Angada are leaders and Hanuma is an administrator, the progress
 of that work cannot be as otherwise."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** The guards who came forward to restrain them were soundly beaten with knees (vārayanto bhṛśaṃ prāptāḥ pālā jānubhir āhatāḥ), and likewise this mighty monkey Dadhimukha was disregarded (tathā na gaṇitaś cāyaṃ kapir dadhimukho balī).
+
+**19:** This lord of my grove was appointed by us ourselves (patir mama vanasyāyam asmābhiḥ sthāpitaḥ svayam); without a doubt the queen has been seen (dṛṣṭā devī na saṃdehaḥ), and by none other than Hanūmān (na cānyena hanūmatā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -968,6 +1078,12 @@ destroyed; *viiraiH* = by the heroes; *aN^gada pramukhaiH* = with Angada as the 
 "It is so reported that Madhuvana has been destroyed by the heroes with Angada as the
 chief and the garden-guards who were together preventing the damage, were beaten up with knees."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For there is no other cause than Hanūmān (na hy anyaḥ hetur hanūmataḥ) in the accomplishment of this deed (sādhane karmaṇo 'sya); in Hanūmān, that bull among monkeys (hanumati haripuṅgave), reside the success of the work and wise counsel (kāryasiddhir matiś ca)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -996,6 +1112,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जिस दलके नेता जाम्बवान् और महाबली अङ्गद हों तथा अधिष्ठाता हनुमान् हों, उस दलको विपरीत परिणाम— असफलता मिले, यह सम्भव नहीं है ॥ २१ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and resolute determination, and valor (vyavasāyaś ca vīryaṃ ca), and sacred learning as well are firmly established in him (śrutaṃ cāpi pratiṣṭhitam); where Jāmbavān is the leader (jāmbavān yatra netā syāt) and Aṅgada of mighty strength (aṅgadaś ca mahābalaḥ),
 </details>
 </details>
 
@@ -1121,6 +1243,18 @@ Then, the righteous Lakshmana, together with Rama, felt delighted. Hearing the w
 coming from the mouth of Sugreeva, which were pleasant for the ears, Rama was rejoiced. The mighty Lakshmana
 too was very much rejoiced.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** and Hanūmān too is the director (hanūmāṃś cāpy adhiṣṭhātā), the course of that venture cannot turn out otherwise (na tatra gatir anyathā). By the heroes headed by Aṅgada (aṅgadapramukhair vīraiḥ), Madhuvana has indeed been ravaged (hataṃ madhuvanaṃ kila)—
+
+**23:** by those bulls among monkeys who have returned after searching the southern quarter (vicitya dakṣiṇām āśām āgatair haripuṅgavaiḥ), and having returned, that unassailable Madhuvana has been ravaged by them (āgataiś cāpradhṛṣyaṃ tad dhataṃ madhuvanaṃ hi taiḥ).
+
+**24:** And the entire grove has been violated and enjoyed by the monkeys (dharṣitaṃ ca vanaṃ kṛtsnam upayuktaṃ tu vānaraiḥ), and those grove-keepers, beaten with knees, were felled to the ground then (pātitā vanapālās te tadā jānubhir āhatāḥ).
+
+**25:** To report this matter (etad artham ayaṃ vaktum), this sweet-spoken monkey of renowned valor (madhuravāg hariḥ prakhyātavikramaḥ), Dadhimukha by name (nāmnā dadhimukho nāma), has arrived here (prāpto iha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1170,6 +1304,12 @@ following words; *vana paalam* = to the guardian of the grove.
 Hearing those words of Dadhimukha, Sugreeva with a charming neck, was very much pleased
 and further spoke to Dadhimukha, the guardian of the grove (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā has been seen, O mighty-armed son of Sumitrā (dṛṣṭā sītā mahābāho saumitre)! Behold the truth of it (paśya tattvataḥ): inasmuch as all the monkeys, having approached, are drinking the honey (abhigamya yathā sarve pibanti madhu vānarāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1199,6 +1339,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘पुरुषप्रवर! विदेहनन्दिनीका दर्शन किये बिना उस दिव्य वनका, जो देवताओंसे मेरे पूर्वजको वरदानके रूपमें प्राप्त हुआ है, वे विख्यात वानर कभी विध्वंस नहीं कर सकते थे’ ॥ २७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And without having beheld Vaidehī, O bull among men (na cāpy adṛṣṭvā vaidehīṃ puruṣarṣabha), those renowned forest-dwellers (viśrutāḥ vanaukasaḥ) would never violate this heavenly grove granted as a boon (vanaṃ dattavaraṃ divyaṃ dharṣayeyuḥ)!”
 </details>
 </details>
 
@@ -1275,6 +1421,12 @@ darpaan* = having the pride of a lion; *kR^ita arthaan* = and who attained their
 their chief, who having acquired the pride of a lion and who attained his purpose; and also to hear
 about their effort in finding out Seetha."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the righteous-souled Lakṣmaṇa, together with Rāghava, was filled with delight (tataḥ prahṛṣṭo dharmātmā lakṣmaṇaḥ saharāghavaḥ) upon hearing that speech, sweet to the ear, which had flowed from Sugrīva’s mouth (śrutvā karṇasukhāṃ vāṇīṃ sugrīvavadanāc cyutām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1332,6 +1484,12 @@ who were thrilled with joy and who accomplished their aim, Sugreeva that king of
 much delighted, knowing that accomplishment of their work is coming close to their hands and his limbs
 were thrilled with joy.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma rejoiced exceedingly (prāhṛṣyata bhṛśaṃ rāmaḥ), and Lakṣmaṇa of great renown (lakṣmaṇaś ca mahāyaśāḥ); and having heard Dadhimukha’s report thus, Sugrīva too rejoiced (śrutvā dadhimukhasyaivaṃ sugrīvas tu prahṛṣya ca)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1356,6 +1514,14 @@ were thrilled with joy.
 
 ‘मामा! अपना कार्य सिद्ध करके लौटे हुए उन वानरोंने जो मेरे मधुवनका उपभोग किया है, उससे मैं बहुत प्रसन्न हुआ हूँ; अतः तुम्हें भी कृतकृत्य होकर आये हुए उन कपियोंकी ढिठाई तथा उद्दण्डतापूर्ण चेष्टाओंको क्षमा कर देना चाहिये । अब शीघ्र जाओ और तुम्हीं उस मधुवनकी रक्षा करो । साथ ही हनुमान् आदि सब वानरोंको जल्दी यहाँ भेजो ॥ ३०-३१ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** and Sugrīva of comely neck spoke this word again in reply to the grove-keeper (vanapālaṃ punar vākyaṃ sugrīvaḥ pratyabhāṣata): “Pleased am I (prīto 'smi so 'ham) that the grove has been enjoyed by those who have accomplished their work (yad bhuktaṃ vanaṃ taiḥ kṛtakarmabhiḥ)!
+
+**31:** Both the violation and the conduct (dharṣitaṃ ceṣṭitaṃ ca) of those who have accomplished their work are to be forgiven (marṣaṇīyaṃ kṛtakarmaṇām); go quickly to Madhuvana (gaccha śīghraṃ madhuvanam) and guard it yourself (saṃrakṣasva tvam eva hi), and quickly send all those monkeys headed by Hanūmān (śīghraṃ preṣaya sarvāṃs tān hanūmatpramukhān kapīn)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1379,6 +1545,12 @@ were thrilled with joy.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘मैं सिंहके समान दर्पसे भरे हुए उन हनुमान् आदि वानरोंसे शीघ्र मिलना चाहता हूँ और इन दोनों रघुवंशी बन्धुओंके साथ मैं उन कृतार्थ होकर लौटे हुए वीरोंसे यह पूछना तथा सुनना चाहता हूँ कि सीताकी प्राप्तिके लिये क्या प्रयत्न किया जाय’ ॥ ३२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I wish quickly to question those tree-leapers headed by Hanūmān (icchāmi śīghraṃ hanumatpradhānān śākhāmṛgāṃs tān praṣṭum), who possess the pride of lions and have accomplished their object (mṛgarājadarpan kṛtārthān), together with the two Rāghavas (saha rāghavābhyām), and to hear of their exertion in the finding of Sītā (śrotuṃ ca sītādhigame prayatnam).”
 </details>
 </details>
 
@@ -1414,6 +1586,12 @@ were thrilled with joy.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि अरवत्तमूरनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And beholding the two princes with their eyes wide with joy (prītisphītākṣau kumārau dṛṣṭvā), thoroughly delighted as though their object were already accomplished (samprahṛṣṭau siddhārthau), the king of the monkeys (vānarāṇāṃ ca rājā), with his own limbs thrilled with joy (aṅgaiḥ prahṛṣṭaiḥ), knowing the accomplishment of the task to be within the reach of his arms (kāryasiddhiṃ viditvā bāhvor āsannām), rejoiced beyond measure (atimātraṃ nananda).
 </details>
 </details>
 

@@ -76,6 +76,12 @@ That valiant Bharata, having come to himself a long time on obtaining consciousn
 saw his mother whose eyes were filled pitiably with tears, reproached her mother in the midst of
 the ministers and said as follows:-
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising up after a long while and regaining consciousness, that heroic prince (dīrgha-kālāt samutthāya saṃjñāṃ labdhvā ca vīryavān), looking up with tear-filled eyes at his wretched mother (netrābhyām aśru-pūrṇābhyāṃ dīnām udvīkṣya mātaram)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -129,6 +135,14 @@ residing; *viprakR^ishhTe* = in a distant; *dashe* = land; *shatrughnasahitaH*
 mother. I was not aware of the proposed coronation, which has of the been contemplated by king
 Dasaratha; since I was staying indeed in a distant land, along with Satrughna."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** that Bharata reproached his mother in the midst of the ministers (so 'mātya-madhye bharato jananīm abhyakutsayat): “Never have I desired the kingdom, nor did I ever counsel my mother thus (rājyaṃ na kāmaye jātu mantraye nāpi mātaram)!
+
+**3:** “I knew nothing of the consecration that was contemplated by the king (abhiṣekaṃ na jānāmi yo 'bhūd rājñā samīkṣitaḥ); for I was dwelling together with Śatrughna in a far-off land (viprakṛṣṭe hy ahaṃ deśe śatrughna-sahito 'vasam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -174,6 +188,12 @@ Lakshmana; *siitaayaashcha* = and of Seetha; *abhavat* = having occured.
 
 "I was neither aware of the banishment of Rama to the forest nor about how the exile
 of Lakshmana and Seetha have occurred."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I knew nothing of the dwelling in the forest of the great-souled Rāma (vana-vāsaṃ na jānāmi rāmasyāhaṃ mahātmanaḥ), nor of how the banishment of Saumitri and of Sītā came to pass (vivāsanaṃ vā saumitreḥ sītāyāś ca yathābhavat)!”
 </details>
 </details>
 
@@ -224,6 +244,12 @@ _________________
 Recognising the voice of Bharata the noble man, crying out in that manner, Kausalya
 spoke the following words to Sumitra:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing the voice of that great-souled Bharata crying out in that very manner (tathaiva krośatas tasya bharatasya mahātmanaḥ śabdam ājñāya), Kausalyā spoke this word to Sumitrā (kausalyā sumitrām idam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -269,6 +295,12 @@ that Bharata; *diirghadarshanam* = the far sighted.
 
 "Bharata, the son of Kaikeyi, the doer terrific deeds arrived. I went to see that
 far-sighted Bharata."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bharata, the son of Kaikeyī of cruel deeds, has arrived (āgataḥ krūra-kāryāyāḥ kaikeyyā bharataḥ sutaḥ); I wish to see that far-seeing Bharata (tam ahaṃ draṣṭum icchāmi bharataṃ dīrgha-darśinam)!”
 </details>
 </details>
 
@@ -320,6 +352,12 @@ the place) where; *bharataH* = Bharata;(was there).
 That kausalya who became pale with her demeanor, dirty and emaciated, speaking to
 Sumitra as aforesaid, became agitated and absent minded and proceeded to Bharata's place.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to Sumitrā (evam uktvā sumitrām), she—pale, travel-stained, and emaciated (sā vivarṇā malinā kṛśā)—set out, trembling and bewildered, toward the place where Bharata was (pratasthe bharato yatra vepamānā vicetanā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -365,6 +403,12 @@ along with Shatrughna; *pratasthe* = proceeded; *yatra* = to where;
 
 Bharata, the younger brother of Rama on his part, along with Shatrughna started out
 to Kausalya's place.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And that younger brother of Rāma too, Bharata, accompanied by Śatrughna then (sa tu rāmānujaś cāpi śatrughna-sahitas tadā bharataḥ), set out toward where Kausalyā's palace stood (pratasthe yatra kausalyāyā niveśanam).
 </details>
 </details>
 
@@ -414,6 +458,14 @@ Seeing Kausalya who was afflicted with grief, who fell unconscious (on the way) 
 was crying and who was an honorable woman with a noble mind. Shatrughna and Bharata wept in sorrow,
 approached her painfully and embraced her.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Then Śatrughna and Bharata, afflicted with sorrow upon beholding Kausalyā (tataḥ śatrughna-bharatau kausalyāṃ prekṣya duḥkhitau), embraced her who was stricken with grief, fallen on the ground, and bereft of senses (paryaṣvajetāṃ duḥkhārtāṃ patitāṃ naṣṭa-cetasām).
+
+**10:** As those two weeping princes met that weeping and high-minded noble queen in sorrow (rudantau rudatīṃ duḥkhāt sametyāryāṃ manasvinīm), Kausalyā, sorely afflicted with grief, spoke this word in reply to Bharata (bharataṃ pratyuvācedaṃ kausalyā bhṛśa-duḥkhitā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -458,6 +510,12 @@ Kausalya who was very much in sorrow , spoke the following words to Bharata: "yo
 who have a desire for kingdom, have got this invincible kingdom ."Alas! By the cruel deed of
 Kaikeyi, it was obtained by you soon!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here has this thornless kingdom been obtained for you who were desirous of sovereignty (idaṃ te rājya-kāmasya rājyaṃ prāptam akaṇṭakam)—alas, swiftly secured by the cruel deed of Kaikeyī (samprāptaṃ bata kaikeyyāḥ śīghraṃ krūreṇa karmaṇā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -501,6 +559,12 @@ so?
 
 "The ruthless Kaikeyi condemned my son to wear garments of bark and sent him to
 dwell in the forest: What merit has she gained from this?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having sent forth my son clad in bark-garments to dwell in the forest (prasthāpya cīra-vasanaṃ putraṃ me vana-vāsinam), what advantage does the cruel-minded Kaikeyī perceive therein (kaikeyī kaṃ guṇaṃ tatra paśyati krūra-darśinī)?
 </details>
 </details>
 
@@ -549,6 +613,12 @@ mark of Vishnu the god of creation).
 "Kaikeyi ought to send me too without delay to the place where my illustrious son
 with a golden novel (the distinguished mark of Vishnu the god of creation) is there."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Kaikeyī ought swiftly to send me forth as well (kṣipraṃ mām api kaikeyī prasthāpayitum arhati) to the place where my son of mighty renown, whose navel shines like gold, abides (hiraṇya-nābho yatrāste suto me su-mahā-yaśāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -596,6 +666,12 @@ happily; *prasthaasye* = set out; (to the place); *yatra* = where; *raaghavah*
 "Otherwise, I for my own satisfaction accompanied by Sumitra, placing in
 front(carried by Brahmana) the sacred fire*** will happily set out to the place Raghava has
 gone."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or else I myself, attended by Sumitrā (athavā svayam evāhaṃ sumitrānucarā), placing the sacred Agnihotra fire in front, shall gladly set forth to where Rāghava is (agnihotraṃ puraskṛtya sukhaṃ prasthāsye yatra rāghavaḥ).
 </details>
 </details>
 
@@ -647,6 +723,12 @@ son; *asou* = this Rama; *purushhavyaaghraH* = the tiger among men; *tapyati*
 "Otherwise, you yourself ought to conduct me now, if you so desire, to the place
 where my son, the tiger among men, is living as an ascetic."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or if you please, you yourself ought today to lead me to that place (kāmaṃ vā svayam evādya tatra māṃ netum arhasi) where that tiger among men, my son, is performing austerity (yatrāsau puruṣa-vyāghraḥ putro me tapyate tapaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -692,6 +774,12 @@ with grains and riches; *vistiirNamhi* = was indeed procured; *tava* = to you;
 
 "This vast kingdom, endowed with elephants, horses and chariots and stock piled with
 grains and riches, has been made over to you by her."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this wide kingdom, heaped with wealth and grain (idaṃ hi tava vistīrṇaṃ dhana-dhānya-samācitam) and filled with elephants, horses, and chariots, has been handed over to you by her (hasty-aśva-ratha-sampūrṇaṃ rājyaṃ niryātitaṃ tayā)!”
 </details>
 </details>
 
@@ -743,6 +831,12 @@ _________________
 Derided with these and other harsh words that he had not merited, Bharata was
 extremely perturbed, as if a needle was thrust into an open wound.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus harshly rebuked with many such cruel words (ity-ādi-bahubhir vākyaiḥ krūraiḥ sambhartsito 'naghaḥ), sinless Bharata was pierced with sharp anguish, as though a wound were probed by a needle (vivyathe bharatas tīvraṃ vraṇe tudyeva sūcinā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -790,6 +884,12 @@ queen.
 His mind being perplexed and having lost his consciousness, Bharata then coming his
 senses, wailed in many ways and fell at the feet of the queen.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bewildered in mind then, he fell at her two feet (papāta caraṇau tasyās tadā sambhrānta-cetanaḥ); having lamented manifoldly and lost consciousness, he then stood up upon regaining his senses (vilapya bahudhāsaṃjño labdha-saṃjñas tataḥ sthitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -836,6 +936,12 @@ afflictions; *vilapanaamaam* = and weeping; *evam* = as aforesaid; *bahubhiH*
 
 Then, Bharata with folded hands, replied as follows to Kausalya who was encircled by
 afflictions and weeping as aforesaid in many ways:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With joined palms then, Bharata spoke this word in reply to Kausalyā (bharataḥ prāñjalis tadā kausalyāṃ pratyuvācedam), who was lamenting thus and overwhelmed by manifold sorrows (evaṃ vilapamānāṃ tāṃ śokair bahubhir āvṛtām):
 </details>
 </details>
 
@@ -887,6 +993,12 @@ do you reproach ; *maam* = me; *ajaanantam* = who did not knowing; anything;
 "O, noble woman! Why do you reproach me, sinless as I am, for those things that I do
 not know anything? Nay, you know well of the greatest affection I have for Rama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O noble lady, why do you reproach me who am guiltless and knew nothing of this (ārye kasmād ajānantaṃ garhase mām akilbiṣam)? Assuredly you know my vast and steadfast love for Rāghava (vipulāṃ ca mama prītiṃ sthirāṃ jānāsi rāghave)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -933,6 +1045,12 @@ shroshhTo = the best of men; who keeps us his promise; *maa bhuut* = be never;
 
 "May the mind of the one who in any way whatsoever allowed for the departure of my
 elder brother the best of men who keeps up his promise, be closed to all the seriptures."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May a mind trained to follow the scriptures never belong at any time to that man (kṛtā śāstrānugā buddhir mā bhūt tasya kadācana) by whose consent the noble one—true to his promise and best of the virtuous—departed (satya-sandhaḥ satāṃ śreṣṭho yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -985,6 +1103,12 @@ kick; *paadena* = with his foot; *suptaam* = a sleeping; *gaam* = cow.
 vilest scoundrels, may he answer the calls of nature in the face of the sun and may he kick with
 his foot, a sleeping cow."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May he pass into the servitude of the vilest sinners, may he void excrement facing the sun (praiṣyaṃ pāpīyasāṃ yātu sūryaṃ ca prati mehatu), and may he kick a sleeping cow with his foot—he by whose consent the noble one departed (hantu pādena gāṃ suptāṃ yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1031,6 +1155,12 @@ labour; *bhR^ityam* = on his servant; *anarthakam* = without remunerating him.
 
 "With whose counsel my elder brother went to exile, to him let that sin incur, as to
 a master who imposes the heaviest labour on his servant without remunerating him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever unrighteousness belongs to a master who, after making a servant perform a mighty task, leaves him unrewarded (kārayitvā mahat karma bhartā bhṛtyam anarthakam adharmo yo 'sya)—may that be his by whose consent the noble one departed (so 'syāstu yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -1082,6 +1212,12 @@ my elder brother; *gatah* = has gone to exile; *to him) tat* = let that;
 "with whose counsel my elder brother has gone to exile, to him let that sin incur as
 to those who seek to harm a king who protects his people as if they are his own children."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And may the sin of those who plot treason against a king who protects all beings like his own children (paripālayamānasya rājño bhūtāni putravat tatas tu druhyatāṃ pāpam) fall upon him by whose consent the noble one departed (yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1131,6 +1267,12 @@ counsel; *aaryaH* = my elder brother; *gataH* = went to exile.
 
 "May the guilt of a king, who taking the sixth part of the revenue of his people
 fails to protect them, be fallen on them with whose counsel my elder brother went to exile."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever unrighteousness belongs to a king who, after levying the sixth-part tribute, fails to protect his subjects (bali-ṣaḍ-bhāgam uddhṛtya nṛpasyārakṣataḥ prajāḥ adharmo yo 'sya)—may that be his by whose consent the noble one departed (so 'syāstu yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -1183,6 +1325,12 @@ in a sacrifice; *tapasvibhyaH* = to the priests; *vipralapataam* = breaks;
 priests in a sacrifice, breaks that promise, to be his with whose counsel my elder brother went to
 exile."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And may the sin of those who, having promised a sacrificial fee to ascetics at a sacrifice, fraudulently withhold it (saṃśrutya ca tapasvibhyaḥ satre vai yajña-dakṣiṇāṃ tāṃ vipralapatāṃ pāpam) fall upon him by whose consent the noble one departed (yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1231,6 +1379,12 @@ chariots and weapons; *janasamaakule* = and abounding in men;( be his) yasya = w
 virtuous in a battle abundantly provided with elephants horses chariots weapons and men, be his
 with whose counsel my elder brother went to exile."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In a battle thronged with elephants, horses, and chariots and thick with weapons (hasty-aśva-ratha-sambādhe yuddhe śastra-samākule), may he never practice the dharma of the brave—he by whose consent the noble one departed (mā sma kārṣīt satāṃ dharmaṃ yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1277,6 +1431,12 @@ subtle meanings; *shaastram* = of the scriptures; *upadishhTam* = imparted;
 
 "May that perverse wretch, with whose counsel my elder brother has gone to exile,
 forget the subtle meanings of the scriptures taught with care by a wise teacher."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May that wicked-souled man forget the scripture of subtle import taught to him with great effort by a wise preceptor (upadiṣṭaṃ su-sūkṣmārthaṃ śāstraṃ yatnena dhīmatā sa nāśayatu duṣṭātmā)—he by whose consent the noble one departed (yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -1329,6 +1489,12 @@ seated; *raajyastham* = in a kingly office.
 Rama having large arms and broad shoulders radiant as the sun and the moon and seated as he will be
 on a throne."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And may he never behold that prince of broad arms and shoulders, radiant as the moon and the sun, seated upon his throne in the kingdom (mā ca taṃ vyūḍha-bāhv-aṃsaṃ candrārka-sama-tejasam drākṣīd rājya-stham āsīnaṃ yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1379,6 +1545,12 @@ the sin of partaking milk boiled with rice and sugar a cooked mixture of rice an
 species and a goat flesh without offering them to the gods and be lacking in reverence towards
 teachers."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May that pitiless man eat milk-rice, sesame-porridge, and goat-flesh prepared for his own sake alone (pāyasaṃ kṛsaraṃ chāgaṃ vṛthā so 'śnātu nirghṛṇaḥ), and may he despise his elders—he by whose consent the noble one departed (gurūṃś cāpy avajānātu yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1425,6 +1597,12 @@ teachers."
 
 "May he with whose counsel my elder brother has gone to exile, incur the sins of
 kicking the cows, of personally abusing the elders and of deceiving a friend too much."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May he touch cows with his foot, may he himself slander his elders (gāś ca spṛśatu pādena gurūn parivadet svayam), and may he betray his friend most treacherously—he by whose consent the noble one departed (mitre druhyeta so 'tyantaṃ yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -1474,6 +1652,12 @@ words; *kaThitam* = narrated; *kvachit* = occasionally; *mittaH* = in secret;
 incur the sin of divulging a little abusing words about others spoken occasionally in secret and in
 confidence, to him."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever fault has been confided in secret out of trust anywhere (viśvāsāt kathitaṃ kiñcit parivādaṃ mithaḥ kvacit), may that wicked-souled man divulge it abroad—he by whose consent the noble one departed (vivṛṇotu sa duṣṭātmā yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1521,6 +1705,12 @@ confidence, to him."
 "May he with whose counsel my elder brother has gone to exile, become a non doer, an
 ungrateful person; a desperate man, the one who has abandoned shame and the one who is worthy of
 hate."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rendering no return for kindness, ungrateful, shunned by the good, and shameless (akartā hy akṛtajñaś ca tyaktātmā nirapatrapaḥ), may he be hated in the world—he by whose consent the noble one departed (loke bhavatu vidviṣṭo yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -1570,6 +1760,12 @@ ashnaatu* = of eating; *nR^ishhTam* = delicious food; *ekaH* = for himself alone
 eating delicious food for himself alone when he is surrounded by his sons , wife and servants in
 his house."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surrounded in his own house by sons, wives, and dependents (putrair dāraiś ca bhṛtyaiś ca sva-gṛhe parivāritaḥ), may he alone eat dainty food—he by whose consent the noble one departed (sa eko mṛṣṭam aśnātu yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1617,6 +1813,12 @@ suitablefor him; *anavaapya* = and thus) not fulfilling; *dharmyaam* = his relig
 "May he with whose counsel my elder brother has departed; die issueless, failing to
 secure a wife suitable for him and thus not fulfilling his religious duties."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without winning a wife worthy of his race and without performing righteous rites (aprāpya sadṛśān dārān anavāpya kriyāṃ dharmyām), may he die childless—he by whose consent the noble one departed (anapatyaḥ pramīyatāṃ yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1657,6 +1859,12 @@ secure a wife suitable for him and thus not fulfilling his religious duties."
 
 "May he with whose counsel my elder brother has departed, not see a child through
 his wife and in distress, may not get a full long life."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Stricken with sorrow, may he never behold offspring of his own by his lawful wives (mātmanaḥ santatiṃ drākṣīt sveṣu dāreṣu duḥkhitaḥ), and may he perish without attaining his full span of life—he by whose consent the noble one departed (āyuḥ samagram aprāpya yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -1707,6 +1915,12 @@ brother has gone to exile); *pratipadyataam* = obtain; *tat* = the same;
 or in abandoning one's dependents let him (with whose counsel my elder brother has gone to exile)
 obtain the same sin."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever sin is declared in the slaying of a king, a woman, a child, or an aged man (rāja-strī-bāla-vṛddhānāṃ vadhe yat pāpam ucyate), and whatever sin lies in forsaking a dependent—may he incur that sin (bhṛtya-tyāge ca yat pāpaṃ tat pāpaṃ pratipadyatām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1756,6 +1970,12 @@ poison.
 of nurturing his wife children and other dependents through sale of lacquer, liquor, flesh, iron or
 poison."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By trafficking in lac, honey, and meat, and in iron and poison (lākṣayā madhu-māṃsena lohena ca viṣeṇa ca), may he ever maintain his dependents—he by whose consent the noble one departed (sadaiva bibhṛyād bhṛtyān yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1804,6 +2024,12 @@ at a time where) a battle; *satrupakshhabhayamkare* = inspiring fear upon the en
 being killed while fleeing, at a time when a battle inspiring fear upon enemy's side has
 commanded."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When a battle strikes terror into the enemy's ranks and draws near (saṅgrāme samupoḍhe sma śatru-pakṣa-bhayaṅkare), may he be slain while fleeing—he by whose consent the noble one departed (palāyamāno vadhyeta yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1851,6 +2077,12 @@ rags; *bhikshhamaaNaH* = and begging for alms.
 May he with whose counsel my elder brother has gone to exile, wander about the
 world, as a mad man with a wooden bowl in his hand, dressed in rags and begging for alms."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With a skull in his hand and clad in filthy rags, may he wander the earth (kapāla-pāṇiḥ pṛthivīm aṭatāṃ cīra-saṃvṛtaḥ), begging like a madman—he by whose consent the noble one departed (bhikṣamāṇo yathonmatto yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1897,6 +2129,12 @@ involved; *pane* = in intoxicvated drinks; *srtiishhu* = women; *akshheshucha*
 
 "May he with whose counsel my elder brother has departed, be given over to
 infatuation and anger and be constantly involved in wine women and dice."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Overcome by lust and wrath, may he be perpetually addicted to wine, women, and dice (madye prasakto bhavatu strīṣv akṣeṣu ca nityaśaḥ kāma-krodhābhibhūtas tu)—he by whose consent the noble one departed (yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -1950,6 +2188,12 @@ May the mind of man with whose counsel my elder brother has gone to exile, never
 take delight in righteousness? Let him indulge in un righteousness and become a distributor of
 gifts for the undeserving."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May his mind never incline toward righteousness, may he pursue unrighteousness (mā sma dharme mano bhūyād adharmaṃ sa niṣevatām), and may he shower gifts upon the unworthy—he by whose consent the noble one departed (apātra-varṣī bhavatu yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1995,6 +2239,12 @@ in thousands; *vipralupyantaam* = be snatched away ; *dashyubhiH* = by robbers.
 
 "With whose counsel , my elder brother has gone to exile, let his various kinds of
 riches got accumulated in thousands , be snatched away by robbers."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May his manifold riches, hoarded up by the thousands (sañcitāny asya vittāni vividhāni sahasraśaḥ), be plundered by robbers—he by whose consent the noble one departed (dasyubhir vipralupyantāṃ yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -2070,6 +2320,14 @@ obtained (to him on whose counsel my elder brother has gone to exile?)
 "Let him obtains that sin, which attaches to a man who practices arson, to a man who
 violets his teacher's bed and to a man who cheats his friend."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**44:** “Whatever sin is ordained for one who sleeps during both twilights (ubhe sandhye śayānasya yat pāpaṃ parikalpyate)—may that sin also befall him by whose consent the noble one departed (tac ca pāpaṃ bhavet tasya yasyāryo 'numate gataḥ)!
+
+**45:** “Whatever sin lies in an incendiary, whatever sin lies in a violator of his preceptor's bed (yad agni-dāyake pāpaṃ yat pāpaṃ guru-talpage), and whatever sin lies in betraying a friend—may he incur that sin (mitra-drohe ca yat pāpaṃ tat pāpaṃ pratipadyatām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2116,6 +2374,12 @@ to the gods; *pitR^iiNaam* = to the manes; *tathaivaaha* = and like wise;
 
 "May he, with whose counsel my elder brother has gone to exile, incur that sin of
 not doing service to be god, to the manes and likewise to his mother and father."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Toward the gods, toward the ancestors, and likewise toward his mother and father (devatānāṃ pitṝṇāṃ ca mātā-pitros tathaiva ca), may he never render reverent service—he by whose consent the noble one departed (mā sma kārṣīt sa śuśrūṣāṃ yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -2165,6 +2429,12 @@ obtained;by good man; *tathaa* = and ; *kiirtyaaH* = from illustriousness.
 from the region obtained by virtuous man, forfeit the illustriousness enjoyed by good men and the
 righteous actions."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From the world of the virtuous, from the praise of the good, and likewise from righteous action practiced by the noble (satāṃ lokāt satāṃ kīrtyāḥ sañjuṣṭāt karmaṇas tathā), may he fall swiftly this very day—he by whose consent the noble one departed (bhraśyatu kṣipram adyaiva yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2211,6 +2481,12 @@ be condemned; *anarthe* = to idleness.
 
 "May he with whose counsel, that long armed and broad chested elder brother has gone
 to exile, fail to give due reverence to his mother and be condemned to idleness."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Casting aside service to his mother, may that long-armed, broad-chested man abide in unrighteousness (apāsya mātṛ-śuśrūṣām anarthe so 'vatiṣṭhatāṃ dīrgha-bāhur mahā-vakṣāḥ)—he by whose consent the noble one departed (yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -2259,6 +2535,12 @@ counsel; *aaryaH* = my elder brother; *gataH* = has gone exile;
 dependents be without resources, be undermined with fever and disease and be forever in
 distress."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Burdened with many children, poverty-stricken, and afflicted with fever and disease (bahu-putro daridraś ca jvara-roga-samanvitaḥ), may he be perpetually wretched—he by whose consent the noble one departed (sa bhūyāt satata-kleśī yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2306,6 +2588,12 @@ looking up; *aashamsamaanaanaam* = and seeking for alms.
 "May he with whose counsel my elder brother has gone to exile, incur the sin of
 falsifying the hopes of highly miserable destitute, who having their eyes looking up seek for
 alms."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May he frustrate the hope of wretched suppliants who voice their expectations with upturned eyes (āśām āśaṃsamānānāṃ dīnānām ūrdhva-cakṣuṣām arthināṃ vitathāṃ kuryāt)—he by whose consent the noble one departed (yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -2358,6 +2646,12 @@ man;pishunaH = a back biter; *ashuchiH pishunaH* = dishonest man.
 staying in fear of the king forever as a cunning man, a cruel man, a back biter, a dishonest man
 and an unrighteous man."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Harsh, slanderous, impure, and fearful of the king, may that unrighteous-souled man ever delight in deceit (māyayā ramatāṃ nityaṃ paruṣaḥ piśuno 'śuciḥ rājño bhītas tv adharmātmā)—he by whose consent the noble one departed (yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2401,6 +2695,12 @@ favorable for procreation.
 incur the sin of ignoring his chaste wife, who having bathed after her course of menstruation.
 approaches him for union having regard for the season favorable for procreation."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May that wicked-souled man neglect his chaste wife who has bathed after her courses and awaits her fertile season (ṛtu-snātāṃ satīṃ bhāryām ṛtu-kālānurodhinīm ativarteta duṣṭātmā)—he by whose consent the noble one departed (yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2442,6 +2742,12 @@ approaches him for union having regard for the season favorable for procreation.
 "May that stupid with whose counsel my elder brother has gone to exile, incur the
 sin of courting the consort of another disdaining his lawful wife and having forsaken his love for
 piety."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Abandoning his lawful wedded wife, may that deluded man who has cast aside delight in righteousness consort with another's wife (dharma-dārān parityajya para-dārān niṣevatāṃ tyakta-dharma-ratir mūḍhaḥ)—he by whose consent the noble one departed (yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -2489,6 +2795,12 @@ elder brother; *gataH* = has gone to exile; *pratipadyataam* = obtain;
 "May he, with whose counsel my elder brother has gone to exile, incur that sin,
 which is obtained by a Brahmana who is issue less."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever demerit belongs to a Brāhmaṇa whose lineage has been cut off (vipralupta-prajātasya duṣkṛtaṃ brāhmaṇasya yat)—may he incur that very guilt by whose consent the noble one departed (tad eva pratipadyeta yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2533,6 +2845,12 @@ person who administers person.
 "May he with whose counsel my elder brother has gone to exile, incur the sin that is
 attached to a person polluting the drinking water and likewise to a person who administers
 poison."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever sin lies in a polluter of drinking water, and likewise in an administerer of poison (pānīya-dūṣake pāpaṃ tathaiva viṣa-dāyake)—may he alone incur all that, he by whose consent the noble one departed (yat tad ekaḥ sa labhatāṃ yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -2583,6 +2901,12 @@ ten years).
 attached to a person disturbing the worship going to be offered to a Brahmana (by another) and to
 milking a cow having a young calf. " (of age less than ten days)
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With defiled senses, may he obstruct worship offered to a Brāhmaṇa (brāhmaṇāyodyatāṃ pūjāṃ vihantu kaluṣendriyaḥ), and may he milk a cow whose calf is still tender—he by whose consent the noble one departed (bāla-vatsāṃ ca gāṃ dogdhu yasyāryo 'numate gataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2629,6 +2953,12 @@ available.
 
 "To him, with whose counsel my elder brother has gone to exile, let that sin be
 obtained of disappointing a person oppressed with thirst, even though water was available."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May he incur the sin of one who, when water is at hand, puts off a man parched with thirst by deceit (tṛṣṇārtaṃ sati pānīye vipralambhena yojayet labheta tasya yat pāpaṃ yasyāryo 'numate gataḥ)!
 </details>
 </details>
 
@@ -2677,6 +3007,12 @@ between two divided groups (without trying to make peace between them.)
 "With whose counsel my elder brother has gone to exile, let the sin be accorded to
 him, who while standing on the road, merely witnesses a dispute between two divided groups without
 trying to make peace between them."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And may he be yoked with the sin of one who, when disputants contend out of devotion, takes sides and looks on (bhaktyā vivadamāneṣu mārgam āśritya paśyataḥ tasya pāpena yujyeta yasyāryo 'numate gataḥ)!”
 </details>
 </details>
 
@@ -2727,6 +3063,12 @@ consoling; *kausalyaam* = Kausalya; *vihiinaam* = bereft of;
 "While thus counseling Kausalya, who was bereft of her husband and son, the prince
 Bharata fell down, depressed as he was with anguish."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even while thus consoling Kausalyā, who was bereft of both husband and son (vihīnāṃ pati-putrābhyāṃ kausalyāṃ evam āśvāsayann eva), the king's son fell down, stricken with grief (pārthivātmajaḥ duḥkhārto nipapāta ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2774,6 +3116,12 @@ manner.
 Kausalya spoke the following words to Bharata who was tormented with grief, was
 quite distraught and who just uttered formidable imprecations in the aforesaid manner:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Kausalyā spoke this word to Bharata, who was swearing thus with dreadful oaths, beside himself and tormented by sorrow (tathā tu śapathaiḥ kaṣṭaiḥ śapamānam acetanaṃ bharataṃ śoka-santaptaṃ kausalyā vākyam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2819,6 +3167,12 @@ are indeed afflicting; *me* = my; *praaNaan* = spirits.
 
 "O, son! My grief is further enhanced. By uttering the curses, you are indeed
 racking my spirits."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My son, this grief of mine grows greater still (mama duḥkham idaṃ putra bhūyaḥ samupajāyate); for by swearing thus with oaths, you are constraining my very life-breaths (śapathaiḥ śapamāno hi prāṇān uparuṇatsi me)!
 </details>
 </details>
 
@@ -2870,6 +3224,12 @@ lakshhmaNaH* = along with Lakshmana.
 "O ,son! Fortunately, your mind as it is endowed with nobility, has not swerved from
 righteous path. You will obtain the world of the blessed, along with Lakshmana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thankfully your soul, like Lakṣmaṇa's, has not swerved from righteousness (diṣṭyā na calito dharmād ātmā te saha-lakṣmaṇaḥ); my child, true to your promise, you shall attain the world of the virtuous (vatsa satya-pratijño me satāṃ lokam avāpsyasi)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2910,6 +3270,12 @@ much; afflicted with grief.
 
 Thus speaking to Bharata who was devoted to his brother Rama, she took the valiant
 Bharata to her lap, embraced him and wept aloud , as she was very much afflicted with grief.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus and drawn onto her lap that Bharata who was so devoted to his brother (ity uktvā cāṅkam ānīya bharataṃ bhrātṛ-vatsalam), † she embraced the mighty-armed prince and wept, sorely afflicted with grief (pariṣvajya mahā-bāhuṃ ruroda bhṛśa-duḥkhitā).
 </details>
 </details>
 
@@ -2956,6 +3322,12 @@ the burden of grief.
 
 Lamenting thus, the great soled Bharata distraught on account of grief, felt himself
 about to swoon, with his mind crushed by the burden of grief.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As that great-souled prince, stricken with sorrow, was lamenting thus (evaṃ vilapamānasya duḥkhārtasya mahātmanaḥ), his mind became agitated through swooning and the choking pressure of grief (mohāc ca śoka-saṃrodhād babhūva lulitaṃ manaḥ).
 </details>
 </details>
 
@@ -3019,6 +3391,12 @@ on the ground, sighing warmly again and again with his power of discernment havi
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎप्पत्तैदनॆय सर्ग पूर्णवायितु ॥75॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he lamented piteously again and again, bereft of senses, his discernment overwhelmed, fallen upon the earth, and breathing hot sighs again and again (lālapyamānasya vicetanasya praṇaṣṭa-buddheḥ patitasya bhūmau muhur muhur niḥśvasataś ca gharmam), that night passed away for him in sorrow (sā tasya śokena jagāma rātriḥ).
 </details>
 </details>
 

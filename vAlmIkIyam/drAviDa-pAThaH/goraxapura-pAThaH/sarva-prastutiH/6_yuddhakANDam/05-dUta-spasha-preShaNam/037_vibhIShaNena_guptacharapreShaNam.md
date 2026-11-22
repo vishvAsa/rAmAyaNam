@@ -69,6 +69,16 @@ army.
 
 शत्रुगळ देशवन्नु तलुपित नरराज श्रीराम, समित्राकुमार लक्ष्मण, वानरराज सुग्रीव, वायुपुत्र हनुमन्त, ऋक्षराज जाम्बवन्त, राक्षस विभीषण, वालीपुत्र अङ्गद, शरभ, बन्धु-बान्धवरॊन्दिगॆ सुषेण, मैन्द, द्विविद, गज, गवाक्ष, कुमुद, नळ, पनस हीगॆ ऎल्लरू सेरि परस्पर विचारविनिमय माडिदनु.॥1-.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** The two kings of men and of vānaras [Rāma and Sugrīva], that monkey who is the son of the Wind-god [Hanumān], Jāmbavān the king of bears, and the rākṣasa Vibhīṣaṇa—
+
+**2:** —Aṅgada the son of Vāli, the son of Sumitrā [Lakṣmaṇa], the monkey Śarabha, Suṣeṇa together with his kinsmen (sahadāyādaḥ), as well as Mainda and Dvivida—
+
+**3:** —and Gaja, Gavākṣa, Kumuda, Nala, and Panasa, having reached the enemy's territory (amitraviṣayam), assembled and deliberated (samarthayan):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +129,12 @@ demons together, or the uragas (the serpent-demons) and Gandharvas (celestial mu
 
 रावणनु पालिसुव लङ्कॆयु अदो काणुत्तिदॆ. असुर, नाग, गन्धर्वर सहित समस्त देवतॆगळिगू इदन्नु जयिसुवुदु अत्यन्त कठिणवागिदॆ.॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yonder is seen that city of Laṅkā ruled by Rāvaṇa, unconquerable (durjayā) even by the immortals together with asuras, uragas, and gandharvas!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -164,6 +180,12 @@ for the success of our expedition."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसराज रावणनु ई पुरियल्लि सदा वासिसुत्तानॆ. ईग अवनन्नु गॆल्लुव उपायगळन्नु निर्णयिसलु परस्पर विचार माडिरि.॥.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Keeping the accomplishment of our purpose (kāryasiddhim) in the forefront, take counsel for a decisive plan regarding that city where Rāvaṇa, the lord of rākṣasas, ever abides.”
 </details>
 </details>
 
@@ -211,6 +233,12 @@ following meaningful and polished words:
 
 अवरॆल्लरू हीगॆ हेळिदाग रावणन तम्म विभीषणनु संस्कारयुक्त पद मत्तु अर्थवत्ताद वाणियिन्द हीगॆ हेळिदनु.॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, while they were speaking thus, Vibhīṣaṇa, the younger brother of Rāvaṇa, spoke a speech couched in refined diction (agrāmyapadavat) and rich in meaning (puṣkalārtham):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -257,6 +285,12 @@ analaH* = Anala; *panasashchaiva* = and Panasa; *sampaatiH* = Sampati;
 "My counsellors named Anala, Panasa, Sampati and Pramati went to the City of Lanka
 and returned here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My ministers—Anala, Panasa, Sampāti, and Pramati—having gone to the city of Laṅkā, have returned here again.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -302,6 +336,12 @@ the measures taken by Ravana closely."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवरॆल्लरू पक्षिगळ रूपधरिसि शत्रु सैन्यदॊळगॆ होगि, अल्लि माडिद व्यवस्थॆयन्नु कण्णारॆ कण्डु इल्लिगॆ अगमिसिरुवरु.॥.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having all assumed the form of birds (bhūtvā śakunayaḥ), they entered the enemy's host, and having beheld the defensive arrangement (vidhānam) that has been put in place, they have presented themselves here.
 </details>
 </details>
 
@@ -352,6 +392,12 @@ made by tha evil-minded Ravana, hear me."
 
 श्रीरामा! दुरात्मा रावणनु माडिद नगर रक्षणॆय व्यवस्थॆयन्नु इवरु वर्णिसिदन्तॆ नानु सरियागि तिळिसुत्तेनॆ, नीवॆल्लरू केळिरि.॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hear from me, O Rāma, as I recount in accordance with the exact truth (yāthātathyena) all the defensive deployment of the wicked-souled Rāvaṇa as they have reported it:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +443,12 @@ Mahodara of mighty prowess are at the southern gate."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सैन्य सहित प्रहस्तनु नगरद पूर्वद्वारदल्लि निन्तिरुवनु. महापराक्रमि महापार्श्व मत्तु महोदररु दक्षिण द्वारवन्नु रक्षिसुत्तिद्दारॆ.॥1.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching the eastern gate (pūrvaṃ dvāram), Prahasta stands stationed with his force, and at the southern gate stand the two heroes of mighty valor, Mahāpārśva and Mahodara.
 </details>
 </details>
 
@@ -454,6 +506,12 @@ various kinds."
 
 असङ्ख्य राक्षसरिन्द कूडि कॊण्डु इन्द्रजितनु नगरद पश्चिम द्वारदल्लि निन्तिरुवनु. अवन अनुचर राक्षसरु पट्टिश, खड्ग, धनुर्बाण, शुल, मुद्गर मुन्ताद अस्त्र-शस्त्रगळन्नु धरिसिरुवरु. नाना प्रकारद आयुधगळिन्द सज्जाद शूरवीररु अवनन्नु सुत्तुवरि दिरुव आ रावण कुमारनु पश्चिमद बागिलन्नु कायुत्तिद्दानॆ.॥1.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by numerous rākṣasas armed with paṭṭiśa spears, swords, and bows, and bearing pikes and maces in their hands (śūlamudgarapāṇibhiḥ), Indrajit [guards] the western gate—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -504,6 +562,14 @@ lances in their hand.
 "A prey to great anxiety, Ravana knower of magical formulas, is himself stationed at
 the northern gate, along with several thousands of demons holding lances in their hand."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** —the son of Rāvaṇa, encircled by valiant warriors wielding manifold weapons (nānāpraharaṇaiḥ) and by many thousands of rākṣasas with weapons in hand.
+
+**13:** Accompanied by rākṣasas skilled in counsel (mantravit), Rāvaṇa himself, though deeply alarmed (paramasaṃvignaḥ), stands ready and occupies the northern gate of the city.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -552,6 +618,12 @@ gulamam* = the center of the fort.
 
 "As for Virupaksha he with mighty army carrying spears, clubs and bows along with
 other demons, occupies the center of the fort."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Virūpākṣa, however, together with rākṣasas and a vast force armed with pikes, swords, and bows (śūlakhaḍgadhanuṣmatā), occupies the central garrison (madhyamaṃ gulmam).
 </details>
 </details>
 
@@ -602,6 +674,12 @@ this manner and immediately returned here."
 
 ई प्रकार नन्न ऎल्ल मन्त्रिगळु लङ्कॆय बेरॆ बेरॆ स्थानगळल्लि नियुक्तगॊळिसिद सैन्यवन्नु निरीक्षिसि शीघ्रवागि इल्लिगॆ बन्दिरुवरु.॥1.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having observed those garrisons (gulmān) of such description in Laṅkā, all those ministers of mine have swiftly returned here again.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -651,6 +729,12 @@ son of the wind, Jambavan the king of the Bears, Vibhishana the demon, Angada th
 Lakshmana, Sushena along with his kinsfolk, Mainda, Dvivida, Gaja, Gavaksha, Kumuda, Nala and
 Panasa, all having reached the enemy's territory, assembled to take counsel together.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[There are] ten thousand elephants (gajānāṃ daśasāhasram), ten thousand chariots (rathānām ayutam), twenty thousand horses (hayānām ayute dve), and over ten million (sāgrakoṭiḥ) rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -694,6 +778,12 @@ more than; *koTishcha* = crore; *rakSasaam* = foot soldiers; *balavantashcha*
 "The elephants and chariots number some ten thousand each, the cavalry twenty
 thousand and there are more than a crore foot soldiers. These strong and intrepid demons
 endeavouring to kill someone in battle have ever been their sovereign's favourites."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Valiant, mighty, and relentless aggressors (ātatāyinaḥ) in battle, these night-roamers are ever dear (iṣṭāḥ) to the king of the rākṣasas.
 </details>
 </details>
 
@@ -742,6 +832,12 @@ _________________
 
 "O, Rama! In these demons, a retinue of ten lacs each is near at hand for each
 demon."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Here, O lord of men, a retinue (parīvāraḥ) of a thousand thousands (sahasrāṇāṃ sahasram) attends upon each single rākṣasa [commander] for the purpose of battle.
 </details>
 </details>
 
@@ -793,6 +889,12 @@ counsellors.
 The mighty armed Vibhishana showed those counsellors to Rama after reporting the
 aforesaid news pertaining to Lanka, thus informed by his counsellors.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus reported this intelligence (pravṛttim) in Laṅkā as declared by his ministers, mighty-armed Vibhīṣaṇa pointed out those rākṣasas [his four counselors]—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -841,6 +943,12 @@ words.
 The counsellors of Vibhishana themselves confirmed all that was known regarding
 Lanka. Thereafter, the illustrious Vibhishana, in his desire to please Rama, addressed that
 lotus-eyed one, further with the following words:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and through his ministers (sacivaiḥ) communicated everything in Laṅkā to Rāma; then Rāvaṇa's illustrious younger brother, desirous of doing what was pleasing to Rāma (rāmapriyacikīrṣayā), spoke this further word to lotus-eyed Rāma:
 </details>
 </details>
 
@@ -903,6 +1011,14 @@ because of angmented courage; *darpNa* = and a pride; *atra* = there.
 with him. All of them were akin to the evil-minded Ravana in prowess, in strength, in courage and
 in pride."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “When Rāvaṇa fought against Kubera (kuberaṃ pratiyuddhyati), O Rāma—
+
+**22:** —sixty hundred-thousands (ṣaṣṭiḥ śatasahasrāṇi) of rākṣasas marched forth at that time, who in prowess, valor, fiery energy, loftiness of spirit (sattvagauravāt), and pride were the equals of the wicked-souled Rāvaṇa here!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -950,6 +1066,12 @@ bhiiSaye* = and not terrifying; *asihi* = you are indeed; *samarthaH* = capable;
 "Indignation need not be resorted to (by you) based on this report. I am not
 terrifying you, bt only arousing your wrath. You are indeed capable of overpowering even celestials
 by your valour."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In this matter you should not feel indignation (manyuḥ); I seek to rouse your martial wrath (kopaye tvām), not to frighten you (na bhīṣaye), for by your valor you are capable of subduing even the gods!
 </details>
 </details>
 
@@ -1001,6 +1123,12 @@ you.
 "Having set out these monkey-forces in battle-array, you shall destryoy Ravana with
 this great army of monkeys, composed of four divisions, which surround you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, arraying (vyūhya) this vānara army, you shall crush (nirmathiṣyasi) Rāvaṇa, though he is surrounded by a vast fourfold host (caturaṅgeṇa balena)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1046,6 +1174,12 @@ spoken; *vaakyam* = words; *evam* = thus; *raaghavaH* = Rama;
 
 Vibhishana having spoken thus Rama gave the following orders for the attack of the
 adversaries.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāvaṇa's younger brother spoke thus, Rāghava uttered this speech for the purpose of counteracting (pratighātārtham) the enemies:
 </details>
 </details>
 
@@ -1096,6 +1230,12 @@ monkeys; *prahasta pratiyoddhaa* = should attack Prahasta.
 "At the eastern gate of Lanka, Nila that lion among monkeys for his part, surrounded
 by many monkeys, should attack Prahasta."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the eastern gate of Laṅkā, let Nīla, the bull among vānaras, surrounded by many vānaras, be the adversary (pratiyoddhā) matching Prahasta!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1141,6 +1281,12 @@ mahodarau* = Mahaparshva and Mahodara.
 
 "At the southern gate, Angada the son of Vali, surrounded by his mighty army, should
 oppose Mahaparshva and Mahodara."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let Aṅgada the son of Vāli, surrounded by a mighty force, harass Mahāpārśva and Mahodara at the southern gate!
 </details>
 </details>
 
@@ -1191,6 +1337,12 @@ City)
 
 "Let Hanuman that son of the Wind and of inscrutable spirit, surrounded by a
 multitude of monkeys, enter the City through the western gate."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crushing (niṣpīḍya) the western gate, let Hanumān the son of the Wind-god, of immeasurable spirit (aprameyātmā), force an entry surrounded by numerous monkeys!
 </details>
 </details>
 
@@ -1266,6 +1418,16 @@ enjoys oppressing multitudes of Daityas (gaints) and Daanavas (demons), as also 
 sages and who ranges the world, persenting all being. With the aid of Lakshmana, I shall forcibly
 enter the northern gate where Ravana is stationed along with his army."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** As for that base wretch (kṣudraḥ), puffed up with the strength of his boon and fond of inflicting outrage (viprakārapriyaḥ) upon hosts of daityas and dānavas and upon high-souled sages—
+
+**30:** —I myself am resolved (dhṛtaḥ) upon the slaying of that lord of rākṣasas, who roams through all the worlds tormenting creatures!
+
+**31:** Crushing the northern gate of the city together with Saumitri [Lakṣmaṇa], I shall force an entry (abhipravekṣyāmi) where Rāvaṇa stands with his host!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1312,6 +1474,12 @@ of the army.
 "Let the mighty Sugreeva the king of monkeys, the valiant Jambavan the king of bears
 and Vibhishana, the younger brother of the Lord of demons occupy the central position of the
 army."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let the mighty lord of vānaras [Sugrīva], the valiant king of bears [Jāmbavān], and the younger brother of the lord of rākṣasas [Vibhīṣaṇa] be stationed in the central division (gulme madhyame)!
 </details>
 </details>
 
@@ -1360,6 +1528,12 @@ monkey-shape; *bhavatu* = should be; *samjJNaa* = a sign of recognition; *naH*
 "Monkeys should not assume human form in the battle, for, in the army of monkeys,
 this monkey-shape should serve as a sign of recognition among us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moreover, human form (mānuṣaṃ rūpam) must not be assumed by the monkeys in battle; let this be our recognition-sign (saṃjñā) within the vānara host during this war!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1384,6 +1558,12 @@ this monkey-shape should serve as a sign of recognition among us."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई स्वजन वर्गदल्लि वानररे नम्म चिह्नॆयागिरुवुदु. केवल नावु एळु मन्दिगळे मनुष्यरूपदिन्द इद्दु शत्रुगळॊन्दिगॆ युद्ध माडुवॆवु.॥34॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The vānaras [in their own simian form] alone shall be our distinguishing mark (cihnam) among our own host; we seven (sapta) alone, however, shall fight the foes in human form (mānuṣeṇaiva)—
 </details>
 </details>
 
@@ -1433,6 +1613,12 @@ fifhth; *aatmanaa* = with him (along with his four companions).
 for us. Seven of us will attack the foe in our human form, I, my brother Lakshmana, who is full of
 valour, my friend Vibhishana and his four companions."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—I myself together with my brother Lakṣmaṇa of mighty energy, and this friend of mine Vibhīṣaṇa as the fifth with his own person (ātmanā pañcamaḥ) [along with his four ministers].”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1459,6 +1645,12 @@ valour, my friend Vibhishana and his four companions."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तन्न विजयरूपी प्रयोजन सिद्धिगागि विभीषण नल्लि हीगॆ हेळि बुद्धिवन्त भगवान् श्रीरामनु सुवेल पर्वतवन्नु हत्तुव विचारमाडिदनु. सुवेल पर्वतद तप्पलु बहळ रमणीयवागित्तु. अदन्नु नोडि अवनिगॆ तुम्बा सन्तोषवायितु.॥36॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to Vibhīṣaṇa for the accomplishment of the enterprise (kṛtyasiddhyartham), that wise lord Rāma, beholding the exceedingly lovely slope of Mount Suvela, set his mind upon ascending Suvela (suvelārohaṇe).
 </details>
 </details>
 
@@ -1516,6 +1708,12 @@ of a wise leader, decided to stay on Mount Suvela, after observing its charming 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूवत्तेळनॆय सर्ग पूर्णवायितु. ॥37॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then high-souled Rāma, covering the whole earth with his vast army and resolved upon slaying the foe (arivadhe), advanced toward Laṅkā with a joyful aspect.
 </details>
 </details>
 

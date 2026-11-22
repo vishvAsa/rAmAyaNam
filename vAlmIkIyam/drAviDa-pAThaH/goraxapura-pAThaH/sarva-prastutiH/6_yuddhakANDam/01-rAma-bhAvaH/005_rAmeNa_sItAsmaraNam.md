@@ -67,6 +67,12 @@ was kept stationed; *saadhu* = well; *uttare tiire* = at the northern shore;
 That famous army, well-protected by Neela, was kept stationed nicely at the northern
 shore of the ocean.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that [army] (sā tu), well-guarded on all sides (svārakṣā) and thoroughly marshaled (susamāhitā), was duly and admirably encamped by Nīla (nīlena vidhivat... sādhu sā viniveśitā) upon the northern shore of the ocean (sāgarasyottare tīre).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -112,6 +118,12 @@ that army; *rakSaa artham* = for the purpose of vigilance.
 
 Both Maina and Dvivida the distinguished monkeys there moved in all directions
 through that army, for the purpose of vigilance.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the two bulls among monkeys, Mainda and Dvivida (maindaś ca dvividaś cobhau), patrolled that army on every side (viceratuś ca tāṃ senāṃ... sarvato-diśam) for its protection (rakṣārtham).
 </details>
 </details>
 
@@ -162,6 +174,12 @@ _________________
 After the army was settled at the sea-shore, Rama spoke to Lakshmana who was by his
 side (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the army had encamped (niviṣṭāyāṃ tu senāyām) on the shore of the lord of rivers and streams (tīre nada-nadī-pateḥ), Rāma, beholding Lakṣmaṇa standing at his side (pārśvasthaṃ lakṣmaṇaṃ dṛṣṭvā), spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,6 +225,12 @@ beloved; *vardhate* = is getting increased; *ahanyahani* = day n and day out.
 
 "It is so said that sorrow gets vanished at the passing of time. But my agony of not
 seeing my beloved is getting increased every day."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Grief, they say (śokaś ca kila), passes away with the passing of time (kālena gacchatā hy apagacchati); yet for me, not beholding my beloved (apaśyataḥ kāntām), it grows day after day (ahany ahani vardhate).
 </details>
 </details>
 
@@ -258,6 +282,12 @@ _________________
 "There is no anguish for me that my beloved is at a distance, nor that she was taken
 away. Her age is indeed passing away. Only about this, I am repenting."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My anguish is not that my beloved is far away (na me duḥkhaṃ priyā dūre), nor is my anguish that she was carried off (hṛteti ca); this alone do I mourn—that her youth and allotted span are passing away (vayo 'syā hy ativartate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -305,6 +335,12 @@ her limb; *me* = to me; *tvayi* = is obtained through you; *dR^iSTisamaagamaH*
 "Oh, wind! Flow from the side of my beloved. Touch her and touch me too. It is
 through you that I get a contact of her limbs. It is through moon that I get a contact of her
 eyes."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Blow, O wind, where my beloved dwells (vāhi vāta yataḥ kāntā); having touched her, touch me also (tāṃ spṛṣṭvā mām api spṛśa)! In you lies the contact of my limbs with hers (tvayi me gātra-saṃsparśaḥ), and in the moon the union of our glances (candre dṛṣṭi-samāgamaḥ).
 </details>
 </details>
 
@@ -356,6 +392,12 @@ me); *aashaye* = and hovering in my stomach; *dahati* = scorching; *me* = my;
 "That darling being carried away; might have cried "Oh, Lord!" Seeking for help.
 That thought is like poison gulped by me, hovering in my stomach and scorching my limbs."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That cry burns my limbs (tan me dahati gātrāṇi) like poison drunk into the stomach (viṣaṃ pītam ivāśaye)—when my beloved, as she was being carried off (priyā sā māṃ hriyamāṇā), cried out to me, ‘Alas, my lord!’ (hā nātheti yad abravīt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -404,6 +446,12 @@ scorching; *raatrim divam* = night and day; *madanaagninaa* = by the fire of pas
 
 "My body is scorching night and day, by the fire of passion, holding fuel of my
 separation from her and my thoughts of her flaring into shimmering flames."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Day and night my body is consumed (rātriṃdivaṃ śarīraṃ me dahyate) by the fire of love (madanāgninā), which has separation from her as its fuel (tad-viyogendhanavatā) and anxious thought of her as its bright-flaming blaze (tac-cintā-vimalārciṣā).
 </details>
 </details>
 
@@ -455,6 +503,12 @@ in water.
 "Oh, Lakshmana! Diving deep into the sea without you, I shall fall asleep. This
 flaming passion will not thus scorch me, lying down in water.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Plunging into the ocean (avagāhyārṇavam), I shall sleep alone without you, O Saumitri (svapsye saumitre bhavatā vinā); then perhaps blazing love will not burn me as I lie asleep in the water (evaṃ ca prajvalan kāmo na mā suptaṃ jale dahet).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -505,6 +559,12 @@ _________________
 "It is enough for me, who is passionate, that Seetha with charming thighs and myself
 are resting on one the same earth and on this fact I am able to survive."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet for a lover (kāmayānasya), this much is a great solace (bahv etat), and by this alone can I live (śakyam etena jīvitum): that I and that fair-thighed lady (yad ahaṃ sā ca vāmorūḥ) rest upon the selfsame earth (ekāṃ dharaṇim āśritau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -554,6 +614,12 @@ wet; *kedaarasya* = by another paddy-field; *sodakasya* = under water.
 "Even as a paddy-field without water survives, by getting wet from a neighboring
 paddy-field under water, I also survive since I am hearing her as surviving.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Like a waterless rice-field (kedāraḥ... nirūdakaḥ) [sustained] by the seeping moisture of a watered field nearby (kedārasyeva sodakasya upasnehena), I live because I hear that she is alive (jīvāmi jīvantīṃ yac chṛṇomi tām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -600,6 +666,12 @@ enemies.
 
 "When shall I behold Seetha with charming hips, having long lotus-like eyes
 flourishing as prosperity, by conquering the enemies?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When indeed (kadā nu khalu), having vanquished the foes (vijitya śatrūn), shall I behold Sītā of shapely hips and lotus-petal-wide eyes (suśroṇīṃ śata-patrāyatekṣaṇām), like burgeoning royal Fortune herself (sphītām iva śriyam)?
 </details>
 </details>
 
@@ -651,6 +723,12 @@ man?"
 "When, gently raising her face looking like louts, with its beautiful teeth and
 lips, shall I drink as a sick man the sovereign drink of remedy?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When shall I slightly tilt up (īṣad unnāmya) her face, which is like a lotus (tasyāḥ padmam ivānanam) with lovely teeth and lips (sucāru-dantoṣṭham), and drink of it (pāsyāmi), as a sick man drinks the elixir of life (rasāyanam ivāturaḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -699,6 +777,12 @@ fruits; *bhajishhyathaH nu* = indeed press; *maam* = me?
 
 "When will those breasts which are delightful close, bulging and quivering, looking
 like palmary fruits, indeed press me?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When indeed (kadā nu khalu) will her two close-set, full breasts (tau tasyāḥ sahitau pīnau stanau), resembling palmyra fruits (tāla-phalopamau) and trembling with emotion (sotkampau), press against me as she embraces me (śliṣyantyā māṃ bhajiṣyataḥ)?
 </details>
 </details>
 
@@ -749,6 +833,12 @@ though I am her support; *nuunam* = is certainly; *naadhigachchhati* = not getti
 "She, with dark-cornered eyes, who has fallen into the midst of demons, is surely
 not getting any defender, she resembling an orphan, though I am her support."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely that dark-cornered-eyed lady (sā nūnam asitāpāṅgī), finding herself in the midst of Rākṣasas (rakṣo-madhya-gatā satī), though having me as her protector (man-nāthā), finds no rescuer (trātāraṃ nādhigacchati), as though she were lordless (nātha-hīneva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -797,6 +887,12 @@ cha* = and Dasaratha's; *snushhaa* = daughter-in-law; *shete* = is sleeping;
 
 "How Seetha the daughter of King Janaka, my darling and Dasaratha's daughter-in-law
 is sleeping among ogresses?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How does the daughter of King Janaka (janaka-rājasya duhitā), my own beloved (mama ca priyā), and the daughter-in-law of Daśaratha (snuṣā daśarathasya ca) lie sleeping in the midst of Rākṣasa women (rākṣasī-madhyagā śete)?
 </details>
 </details>
 
@@ -848,6 +944,12 @@ autumn.
 "Seetha will come out, driving away (through my force) the unassailable demons, as
 driving away black clouds by a digit of the moon, in autumn."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Shaking off the unshakable Rākṣasas (avikṣobhyāṇi rakṣāṃsi sā vidhūya), she shall rise up (utpatiṣyati), just as the crescent moon in the autumn nights (śaśi-lekhā śaratsv iva) shakes off the dark rain-clouds (vidhūya jaladān nīlān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -893,6 +995,12 @@ food; *desha kaalaviparyayaat* = and adverse position of time and place.
 
 "Seetha, who by nature is slender, will undoubtedly become leaner further because of
 her anguish, her abstinence from food and her adverse position of time and place."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Slender by her very nature (svabhāva-tanukā), Sītā has surely grown far more emaciated still (nūnaṃ... bhūyas tanutarā) through grief, fasting (śokenānaśanena ca), and the adverse change of place and season (deśa-kāla-viparyayāt).
 </details>
 </details>
 
@@ -943,6 +1051,12 @@ _________________
 "When shall I bring back Seetha, having lodged arrows in Ravana's chest and having
 abandoned this mental agony?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When indeed, having lodged my arrows in the chest of the lord of Rākṣasas (rākṣasendrasya nidhāyorasi sāyakān), shall I remove her sorrow [or: recover Sītā] (śokaṃ [sītāṃ] pratyāhariṣyāmi), casting away this mental anguish (śokam utsṛjya mānasam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -989,6 +1103,12 @@ celestial; *sotkaNThaa* = with an excited longing; *aalambya* = embrace; *me*
 
 "When indeed Seetha the virtuous lady similar to the child of a celestial, with an
 excited longing, will embrace my neck and release tears of joy?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When indeed will my virtuous Sītā (me sādhvī sītā), who resembles a daughter of the immortals (amara-sutopamā), cling to my neck in ardent longing (sotkaṇṭhā kaṇṭham ālambya) and shed tears born of bliss (mokṣyaty ānandajaṃ jalam)?
 </details>
 </details>
 
@@ -1039,6 +1159,12 @@ abandon; *imam* = this; *ghoram* = terrible; *shokam* = anguish;
 "When shall I thrillingly abandon this terrible anguish, born out of my separation
 from Seetha so soon, as we abandon a soiled clothing?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When shall I suddenly cast off (sahasā vipramokṣyāmi) this dreadful grief born of separation from Maithilī (śokam imaṃ ghoraṃ maithilī-viprayogajam), just as one casts off a soiled garment (vāsaḥ śukletaraṃ yathā)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1084,6 +1210,12 @@ from Seetha so soon, as we abandon a soiled clothing?"
 
 While that sagacious Rama was lamenting thus there, the sun, the weak-rayed due to
 day-decline, approached the dusk.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the wise Rāma was lamenting thus there (evaṃ vilapatas tasya tatra rāmasya dhīmataḥ), the sun, its luster dimmed by the close of day (dina-kṣayān manda-vapur bhāskaraḥ), sank to its setting (astam upāgamat).
 </details>
 </details>
 
@@ -1144,6 +1276,12 @@ lotus-eyed Seetha. Thereafter, Rama worshipped the evening-twilight.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐदनॆय सर्ग पूर्णवायितु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consoled by Lakṣmaṇa (āśvāsito lakṣmaṇena), Rāma worshipped the evening twilight (rāmaḥ saṃdhyām upāsata), remembering lotus-petal-eyed Sītā (smaran kamala-patrākṣīṃ sītām) and overwhelmed with sorrow (śokākulīkṛtaḥ).
 </details>
 </details>
 

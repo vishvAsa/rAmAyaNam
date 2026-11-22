@@ -37,6 +37,12 @@ _________________
 
 क्लेशरहित कर्ममाडुव श्रीरामन मातन्नु केळि द्वारपालकनु भरत - लक्ष्मणरन्नु करॆतन्दु, अवरु आगमिसिद वार्तॆयन्नु श्रीरामनिगॆ निवेदिसिकॊण्डनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma and the great-souled Bharata had spoken thus (tathoktavati rāme tu bharate ca mahātmani), Lakṣmaṇa then addressed auspicious words to the delight of the Raghus (śubhaṃ vākyam uvāca raghunandanam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,6 +70,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भरत मत्तु लक्ष्मणरु बन्दिरुवुदन्नु नोडि रघुकुलतिलक श्रीरामनु अवरन्नु बिगिदप्पिकॊण्डु इन्तॆन्दनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The horse sacrifice is a great rite, the purifier of all sins (aśvamedho mahāyajñaḥ pāvanaḥ sarva-pāpmanām); let this purifying, unassailable sacrifice find favor with you, O delight of the Raghus (pāvanas tava durdharṣo rocatāṃ raghunandana).
 </details>
 </details>
 
@@ -93,6 +105,12 @@ _________________
 
 रघुवंशी राजकुमाररे! ब्राह्मणन कार्यवन्नु नानु यथावत्तागि पूरैसिदॆ. ईग नानु राजधर्मद चरमसीमॆयाद राजसूय यज्ञवन्नु माडलु बयसुत्तिरुवॆनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, an ancient history is heard concerning the exceedingly great-souled Vāsava (śrūyate hi purāvṛttaṃ vāsave sumahātmani): beset by the sin of brahmin-slaughter, Śakra was purified through the horse sacrifice (brahmahatyāvṛtaḥ śakro hayamedhena pāvitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +138,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धर्मसेतु (राजसूय याग) अक्षय, अविनाशि फलवन्नु कॊडुवन्तहुदु मत्तु अदु धर्मद पोषक हागू समस्त पापगळन्नु नाशमाडुवन्तहुदु ऎम्बुदु नन्न अनिसिकॆ.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of old, O mighty-armed one, during a time of amity between gods and asuras (devāsura-samāgame), there lived a mighty daitya named Vṛtra, esteemed by all the worlds (vṛtro nāma mahān āsīd daiteyo loka-sammataḥ).
 </details>
 </details>
 
@@ -149,6 +173,12 @@ _________________
 
 नीविब्बरू नन्न आत्मस्वरूपी आगिद्दीरि. आद्दरिन्द निम्मॊन्दिगॆ ई उत्तम राजसूय यज्ञवन्नु माडलु इच्छिसुत्तेनॆ; एकॆन्दरॆ अदरल्लि राजन शाश्वतधर्म प्रतिष्ठितवागिदॆ.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A hundred yojanas broad and three times as tall as that (vistīrṇo yojana-śatam ucchritas triguṇaṃ tataḥ), he looked upon the three worlds everywhere with affection and tender love (anurāgeṇa lokāṃs trīn snehāt paśyati sarvataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -176,6 +206,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शत्रुसूदन मित्रदेवतॆयु उत्तम आहुतिगळिन्द कूडिद राजसूय ऎम्ब श्रेष्ठयज्ञदिन्द परमात्मनन्नु पूजिसि वरुणपदवियन्नु पडॆदुकॊण्डिद्दनु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Knowing dharma and grateful, firmly established in wisdom (dharmajñaś ca kṛtajñaś ca buddhyā ca pariniṣṭhitaḥ), he ruled the flourishing earth righteously, ever self-possessed (śaśāsa pṛthivīṃ sphītāṃ dharmeṇa susamāhitaḥ).
 </details>
 </details>
 
@@ -205,6 +241,12 @@ _________________
 
 धर्मज्ञ सोमदेवनु धर्मपूर्वक राजसूय यज्ञद अनुष्ठान माडि समस्त लोकगळल्लि कीर्ति हागू शाश्वत स्थानवन्नु प्राप्तमाडिकॊण्डनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While he governed then (tasmin praśāsati tadā), the earth yielded every desire (sarva-kāmadughā mahī), and abundant, savory roots and fruits came forth (rasavanti prabhūnāni mūlāni ca phalāni ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -233,6 +275,12 @@ _________________
 
 अदक्कागि इन्दु नन्नॊन्दिगॆ कुळितु, नमगागि ई लोक मत्तु परलोकदल्लि श्रेयस्कर कर्मयावुदु ऎन्दु एकाग्रचित्तरागि नीविब्बरु विचारमाडि, ननगॆ सलहॆ नीडिरि.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ripening without plowing (akṛṣṭa-pacyā pṛthivī), the earth was richly endowed for that great-souled one (susampannā mahātmanaḥ); thus he enjoyed such a flourishing kingdom, wondrous to behold (rājyaṃ tādṛśaṃ bhuṅkte sphītam adbhuta-darśanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -260,6 +308,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरघुनाथन मातन्नु केळि वाक्यविशारद भरतनु कैमुगिदुकॊण्डु हीगॆ हेळिदनु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the thought arose in him (tasya buddhiḥ samuptannā): “Let me practice unsurpassed austerity (tapaḥ kuryām anuttamam), for austerity is the supreme good (tapo hi paramaṃ śreyaḥ), while all other pleasure is mere delusion (sammoham itarat sukham).”
 </details>
 </details>
 
@@ -292,6 +346,12 @@ _________________
 अमित पराक्रमि महाबाहो! निन्नल्लि उत्तम धर्म प्रतिष्ठितवागिदॆ. इडी पृथिवियु निन्नन्ने आधरिसि कॊण्डिदॆ हागू निन्नल्ले यशद प्रतिष्ठॆ इदॆ.॥10॥
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entrusting his eldest son Madhureśvara to the citizens (nikṣipya sutaṃ jyeṣṭhaṃ paureṣu madhureśvaram), he entered upon fierce austerity, scorching all the deities (tapa ugraṃ samātiṣṭhat tāpayan sarva-devatāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,6 +379,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवतॆगळु प्रजापति ब्रह्मनन्ने महात्मा, लोकनाथनॆन्दु तिळियुवन्तॆये नावु हागू समस्त लोकनाथरु निन्नन्ने महापुरुष, समस्त लोकगळ स्वामि ऎन्दे नोडुत्तारॆ.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Vṛtra was practicing austerity (tapas tapyati vṛtre tu), Vāsava, like one grievously afflicted (paramārtavat), approached Viṣṇu and spoke these words (viṣṇuṃ samupasaṅkramya vākyam etad uvāca ha):
 </details>
 </details>
 
@@ -348,6 +414,12 @@ _________________
 
 महाबली रघुनन्दन! मक्कळु तन्दॆयन्नु नोडिदन्तॆये निन्न कुरितु ऎल्ल राजर भावनॆ इदॆ. नीने समस्त पृथिवी मत्तु सम्पूर्ण प्राणिगळ आश्रयनागिरुवॆ.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By the austere Vṛtra, O mighty-armed one, the worlds have been utterly conquered (tapasyatā mahābāho lokāḥ vṛtreṇa nirjitāḥ); mighty and righteous-souled is he, and I shall never be able to subdue him (balavān sa hi dharmātmā nainaṃ śakṣyāmi śāsitum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,6 +447,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरेश्व! हागिरुवाग भूमण्डलद समस्त राजवंशगळ विनाश कण्डुबरुवन्तह इन्तह यज्ञवन्नु नीनु हेगॆ माडबल्लॆ.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If he should continue to practice austerity still further, O lord over the asuras (yady asau tapa ātiṣṭhed bhūya evāsureśvara), for as long as the worlds endure, so long will they remain obedient to his will (yāval lokā dhariṣyanti tāvad asya vaśānugāḥ).
 </details>
 </details>
 
@@ -404,6 +482,12 @@ _________________
 
 राजने! पृथिवियल्लिरुव पुरुषार्थिगळॆल्ल राजन विनाशक्कु, समस्तरिगॆ कोपवन्नुण्टुमाडुव ई यज्ञवु कारणवागुत्तदॆ.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet you overlook this exceedingly lofty and mighty being (taṃ cainaṃ paramodāram upekṣasi mahābalam)—though Vṛtra would not survive a single instant were you enraged, O lord of the gods (kṣaṇaṃ hi na bhaved vṛtraḥ kruddhe tvayi sureśvara)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -431,6 +515,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषसिंह! अतुल पराक्रमी वीरने! निन्न सद्गुणगळिन्द इडी जगत्तु निन्न वशदल्लिदॆ. निनगॆ ई भूतळद निवासिगळ विनाश माडुवुदु उचितवागलारदु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For ever since he entered into a bond of friendship with you, O Viṣṇu (yadā hi prīti-saṃyogaṃ tvayā viṣṇo samāgataḥ), from that very time onward he attained lordship over the worlds (tadāprabhṛti lokānāṃ nāthatvam upalabdhavān).
 </details>
 </details>
 
@@ -460,6 +550,12 @@ _________________
 
 भरतन ई अमृतमय मातन्नु केळि सत्यपराक्रमि श्रीरामनिगॆ अनुपम हर्षवायितु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, ever attentive, bestow your grace upon the worlds (sa tvaṃ prasādaṃ lokānāṃ kuruṣva susamāhitaḥ), for through what you do the entire universe will become tranquil and free from affliction (tvatkṛtena hi sarvaṃ syāpraśāntam arujaṃ jagat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -487,6 +583,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु कैकेयिनन्दन भरतनल्लि हेळिदनु - ऎलै निष्पाप भरतने! इन्दु निन्न मातन्नु केळि नानु बहळ प्रसन्न हागू सन्तुष्टनागिद्देनॆ.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold, O Viṣṇu, all these dwellers in heaven look eagerly to you (ime hi sarve viṣṇo tvāṃ nirīkṣante divaukasaḥ); come to their aid through the mighty slaying of Vṛtra (vṛtra-ghātena mahatā teṣāṃ sāhyaṃ kuruṣva ha)!
 </details>
 </details>
 
@@ -526,5 +628,11 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऎम्भत्तमूरनॆय सर्ग पूर्णवायितु.॥83॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For continually have you rendered aid to these great-souled gods (tvayā hi nityaśaḥ sāhyaṃ kṛtam eṣāṃ mahātmanām); this task is unbearable for any others, and you are the refuge of the refugeless (asahyam idam anyeṣām agatīnāṃ gatir bhavān).”
 </details>
 </details>

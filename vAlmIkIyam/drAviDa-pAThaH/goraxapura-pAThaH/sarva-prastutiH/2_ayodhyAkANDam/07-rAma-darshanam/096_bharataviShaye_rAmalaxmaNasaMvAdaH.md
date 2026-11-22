@@ -74,6 +74,12 @@ _________________
 Having shown Mandakini River in that manner to Seetha, the daughter of Mithila, Rama
 set on the hill-side in order to gratify her appetite with a piece of flesh.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus shown that mountain-river (giri-nimnagām) to Maithilī (tāṃ tathā darśayitvā tu maithilīm), he sat down upon the mountain tableland (niṣasāda giri-prasthe), gratifying Sītā with venison (sītāṃ māṃsena chandayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +119,12 @@ speaking; *idam* = this meat; *madhyam* = is fresh; *idam* = this;
 
 Rama, whose mind was devoted to righteousness stayed there with Seetha, saying;
 "This meat is fresh, this is savoury and roasted in the fire."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This is pure and fit for sacrifice (idaṃ medhyam), this is savoury (idaṃ svādu), and this has been thoroughly roasted over the fire (niṣṭaptam idam agninā)”—speaking thus (evam), that righteous-souled Rāghava sat in the company of Sītā (āste sa dharmātmā sītayā saha rāghavaḥ).
 </details>
 </details>
 
@@ -161,6 +173,12 @@ Rama, whose mind was devoted to righteousness stayed there with Seetha, saying;
 While Rama was thus sitting there the dust and clamour of Bharata's army, which was
 approaching, ascended into the sky.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While he was seated there in that manner (tathā tatrāsatas tasya), the army-dust and the tumult (sainya-reṇuś ca śabdaś ca) of the approaching Bharata (bharatasyopayāyinaḥ) rose into view, touching the very sky (prādur āstāṃ nabhas-spṛśau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -206,6 +224,12 @@ approaching, ascended into the sky.
 
 Meanwhile, frightened by that gigantic clamour, the leaders of elephants and other
 animal - troops, in rut, were tormented and fled in different directions from there.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the meantime (etasminn antare), terrified and harassed by that mighty clamour (trastāḥ śabdena mahatā tataḥ arditāḥ), the rutting herd-leaders fled toward all directions together with their herds (yūthapā mattāḥ sayūthā dudruvur diśaḥ).
 </details>
 </details>
 
@@ -256,6 +280,12 @@ cha* = leaders of the animal flock; *vipradrutaan* = running away.
 Rama heard that sound generated from the army and also saw all those leaders of the
 animal-flock, running away from there.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāghava heard that uproar raised by the army (sa taṃ sainya-samudbhūtaṃ śabdaṃ śuśrāva rāghavaḥ), and he beheld all those herd-leaders fleeing in panic (tāṃś ca vipradrutān sarvān yūthapān anvavaikṣata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -303,6 +333,12 @@ courage.
 Seeing those animals running away and hearing that clamour, Rama spoke to Lakshmana
 (son of Sumitra) of burning courage as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding them fleeing (tāṃś ca vidravato dṛṣṭvā) and hearing that mighty din (taṃ ca śrutvā ca nisvanam), Rāma spoke to Sumitrā’s son Lakṣmaṇa of blazing splendour (uvāca rāmaḥ saumitriṃ lakṣmaṇaṃ dīpta-tejasam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -349,6 +385,12 @@ Seeing those animals running away and hearing that clamour, Rama spoke to Lakshm
 
 "Alas! O, Lakshmana! Sumitra is blessed with a noble son in you. Here is heard a
 tumultuous sound as terrific as that of a roaring cloud. See what it is."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Ah, Lakṣmaṇa, through you Sumitrā is blessed with a noble son (sumitrā suprajās tvayā); behold here (paśyeha)! A tumultuous roar is heard (tumulaḥ śrūyate svanaḥ), deep as the terrifying rumble of thunderclouds (bhīma-stanita-gambhīraḥ).
 </details>
 </details>
 
@@ -423,6 +465,14 @@ other; *kiNchit* = somewhat; *shvaapadam* = savage beast.
 "O, Lakshmana! You ought to find out whether it is a king or a prince roaming for a
 hunt or some other savage beast."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** In the forest, herds of elephants, or buffaloes in the great woodland (gaja-yūthāni vā 'raṇye mahiṣā vā mahā-vane), and deer terrified by lions (vitrāsitā mṛgāḥ siṃhaiḥ), have suddenly fled toward all directions (sahasā pradrutā diśaḥ).
+
+**9:** Whether some king or prince (rājā vā rāja-mātro vā) is roaming in the forest on a royal hunt (mṛgayām aṭate vane), or whether some ferocious beast of prey is abroad (anyad vā śvāpadaṃ kiñcit), you ought to ascertain it, O Saumitri (saumitre jñātum arhasi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,6 +519,12 @@ to birds; *arhasi* = you ought; *J^Naatum* = to find out; *achiraat* = soon;
 "O, Lakshmana! This mountain is difficult of access even to birds. You ought to find
 out soon, all this in an accurate manner."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even for birds, O Lakṣmaṇa, this mountain is exceedingly difficult of access (suduścaro giriś cāyaṃ pakṣiṇām api lakṣmaṇa); therefore you should quickly ascertain the exact truth of all this (sarvam etad yathā-tattvam acirāj jñātum arhasi).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,6 +570,12 @@ out soon, all this in an accurate manner."
 
 Lakshmana quickly ascended a Sala tree in flowering and looking towards all
 directions, saw towards eastern side.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hastening at once (sa lakṣmaṇaḥ saṃtvaritaḥ) and climbing a flowering śāla tree (sālam āruhya puṣpitam), Lakṣmaṇa surveyed all the quarters (prekṣamāṇo diśaḥ sarvāḥ) and directed his gaze toward the eastern quarter (pūrvāṃ diśam udaikṣata).
 </details>
 </details>
 
@@ -562,6 +624,12 @@ foot-soldiers.
 Looking in northern direction, Lakshmana saw a huge army, full of chariots, steeds
 and elephants accompanied by smart foot-soldiers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Looking toward the north (udaṅ-mukhaḥ prekṣamāṇaḥ), he beheld a vast army (dadarśa mahatīṃ camūm), crowded with chariots, steeds, and elephants (rathāśva-gaja-sambādhām) and arrayed with mail-clad foot-soldiers (yattair yuktāṃ padātibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -607,6 +675,12 @@ spoke; *idam* = these; *vachanamcha* = words also.
 
 Lakshmana informed Rama about that army which was full of horses, elephants and
 chariots decorated with flags and spoke the following words also.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He reported to Rāma (śaśaṃsa rāmāya) that army teeming with horses and elephants (tām aśva-gaja-sampūrṇāṃ senām) and adorned with chariots and banners (ratha-dhvaja-vibhūṣitām), and spoke this word (vacanaṃ cedam abravīt):
 </details>
 </details>
 
@@ -654,6 +728,12 @@ occupy; *guhaam* = a hiding place; *kuruSva* = Make; *chaapam* = your bow;
 
 "O, honourable brother! Extinguish the fire. Let Seetha occupy a hiding place. Make
 your bow ready with a bow-string and arrows. Wear an armour."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let my noble brother extinguish the sacred fire (agniṃ saṃśamayatv āryaḥ), let Sītā betake herself to a mountain cavern (sītā ca bhajatāṃ guhām), and do you string your bow and make ready your arrows and coat of mail (sajyaṃ kuruṣva cāpaṃ ca śarāṃś ca kavacaṃ tathā)!”
 </details>
 </details>
 
@@ -704,6 +784,12 @@ army; *manyase* = your think; *imaam* = is this?.
 Rama the tiger among men replied to Lakshmana, saying: "O, Lakshmana! See, whose
 army do you think is this?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To that Lakṣmaṇa, Rāma, the tiger among men (taṃ rāmaḥ puruṣa-vyāghro lakṣmaṇam), replied (pratyuvāca ha): “Pray look closely, dear Saumitri (aṅgāvekṣasva saumitre)—whose army do you deem this to be (kasyemāṃ manyase camūm)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -749,6 +835,12 @@ though wishing to scorch; *taam senaam* = that army.
 
 Hearing Rama's words, Lakshmana was irritated like a fire and spoke the following
 words, as though he was wishing to scorch the army.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma (evam uktas tu rāmeṇa), Lakṣmaṇa spoke these words (lakṣmaṇo vākyam abravīt), wrathful like a blazing fire (ruṣitaḥ pāvako yathā), as though he would burn that army to ashes (didhakṣann iva tāṃ senām):
 </details>
 </details>
 
@@ -796,6 +888,12 @@ us; *vyaktam* = It is clear.
 
 "Bharata, Kaikeyi's son, having obtained coronation and desirous of making the
 kingdom free of enemies, is coming here to kill both of us. It is clear."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having received royal consecration (prāpyābhiṣecanam) and desiring his kingdom to be free of all rivals (sampannaṃ rājyam icchaṃs tu), Kaikeyī’s son Bharata (kaikeyyā bharataḥ sutaḥ) is clearly advancing to slay us both (vyaktam āvāṃ hantuṃ samabhyeti)!
 </details>
 </details>
 
@@ -847,6 +945,12 @@ tree; *viraajati* = is shining; *rathe* = on that chariot.
 prominently. The ensign bearing the device of a kovidara (pomegranate) tree is shining on that
 chariot."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yonder shines in full view (eṣa vai samprakāśate) the tall, resplendent, branching emblem (sumahān śrīmān viṭapī)—upon his chariot gleams the lofty-boled kovidāra-tree banner (virājaty udgata-skandhaḥ kovidāra-dhvajo rathe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -894,6 +998,12 @@ mounted; *yathaakaamam* = comfortably; *shiighragaan* = on their swift;
 Among the cavalry, some are cavorting merrily on their swift horses, while others
 are beaming with delight, mounted on their elephants.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting swift-footed steeds, these horsemen advance at will (bhajanty ete yathā-kāmam aśvān āruhya śīghragān), and mounting elephants, these riders shine in high spirits (ete bhrājanti saṃhṛṣṭā gajān āruhya sādinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -939,6 +1049,12 @@ mountain; *athavaa* = or; *tiSThaavaH* = let us stay; *ihaiva* = here itself;
 
 "O, warrior! Let us take up our bows and ascend the mountain or let us stay here
 itself, fully prepared with our weapons in our hands."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grasping our bows, O hero, let the two of us take up a vantage position upon the mountain (gṛhīta-dhanuṣau cāvāṃ giriṃ vīra śrayāvahai), or else let us stand our ground right here, clad in armour with weapons upraised (athavehaiva tiṣṭhāvaḥ sannaddhāv udyatāyudhau)!
 </details>
 </details>
 
@@ -1011,6 +1127,14 @@ deprived; *shaashvataat* = of an eternal; *raajyaat* = kingdom; *ayam* = such;
 "O, Rama the warrior! By the reason of whom you were deprived of an eternal kingdom,
 such Bharata as a foe who is coming here, deserves to be slain by me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** O that he of the kovidāra banner may fall into our power in battle (api nau vaśam āgacchet kovidāra-dhvajo raṇe)! O that I may confront Bharata (api drakṣyāmi bharatam), on whose account (yat-kṛte) this grievous calamity has been incurred by you, O Rāghava, as well as by Sītā and by me (vyasanaṃ mahat tvayā rāghava samprāptaṃ sītayā ca mayā tathā)!
+
+**22:** Bharata, on whose account you were deposed from your eternal kingdom, O Rāghava (yan-nimittaṃ bhavān rājyāc cyuto rāghava śāśvatāt), has arrived here as an enemy, O hero, and must surely be slain by me (samprāpto 'yam arir vīra bharato vadhya eva me).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1056,6 +1180,12 @@ before; *na yujyate* = non is charged adharmaNa = with unlawfulness.
 
 "O, Rama! I see no sin in slaying Bharata. None is charged with unlawfulness, if one
 strikes down an aggressor."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I see no fault in slaying Bharata, O Rāghava (bharatasya vadhe doṣaṃ nāhaṃ paśyāmi rāghava); for no unrighteousness is incurred in cutting down those who have struck the first wrong (pūrvāpakāriṇāṃ tyāge na hy adharmo vidhīyate).
 </details>
 </details>
 
@@ -1105,6 +1235,12 @@ legitimate; *etasmin* = (while) he; *nihate* = is slain; *anushaadhi* = rule;
 
 "Bharata is the assailant and his death is legitimate. He being dead, you will rule
 the entire earth."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata is the first aggressor and has abandoned righteousness, O Rāghava (pūrvāpakārī bharatas tyakta-dharmaś ca rāghava); when he is slain, do you rule the entire earth (etasmin nihate kṛtsnām anuśādhi vasundharām)!
 </details>
 </details>
 
@@ -1160,6 +1296,12 @@ down by an elephant.
 "Let Kaikeyi, who is craving for the kingdom see, with great sorrow, her son slain
 by me today in battle, as a tree is crushed down by an elephant."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today let Kaikeyī, greedy for sovereignty (adya kaikeyī rājya-kāmukā), behold with bitter grief her son slain by me in battle (putraṃ hataṃ saṅkhye mayā paśyet suduḥkhārtā), like a tree snapped by an elephant (hasti-bhagnam iva drumam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1205,6 +1347,12 @@ accomplices madinii = Le the earth; *adya* = today; *parimuchyataam* = be reliev
 
 "I shall kill Kaikeyi too along with her friend the hunch-back and other
 accomplices. Let the earth today be relieved of a great sinner."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I shall slay Kaikeyī too, together with her accomplices and kinsfolk (kaikeyīṃ ca vadhiṣyāmi sānubandhāṃ sabāndhavām); let the earth today be freed from this great defilement (kaluṣeṇādya mahatā medinī parimucyatām)!
 </details>
 </details>
 
@@ -1252,6 +1400,12 @@ accomplices. Let the earth today be relieved of a great sinner."
 
 "O, warrior bestowing an honour! Today in the concentrated fury that injustice has
 kindled I shall scatter the enemy - battalions as a fire consumes the dry wood."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today, O bestower of honour (mānada), I shall unleash upon the enemy hosts (mokṣyāmi śatru-sainyeṣu) this long-pent wrath and dishonour (adyemaṃ saṃyataṃ krodham asatkāraṃ ca), like fire among dry thickets (kakṣeṣv iva hutāśanam).
 </details>
 </details>
 
@@ -1302,6 +1456,12 @@ kuuTasya* = of Chitrakuta; *shoNitokSitam* = overflow with blood.
 "Today, with my sharpened arrows, I shall slay the bodies of my foes and make this
 forest of Chitrakuta overflow with blood."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cleaving the bodies of our foes with keen-whetted arrows (niśitaiḥ śaraiḥ bhindan śatru-śarīrāṇi), today I shall drench this forest of Citrakūṭa with blood (adyaitac citrakūṭasya kānanaṃ kariṣye śoṇitokṣitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1350,6 +1510,12 @@ darts; *naraamshcha* = and the men; *nihataan* = struck down; *mayaa* = by me;
 
 "The elephants and horses whose breasts were laid open with my darts and the men too
 struck down by me, be dragged about by savage beasts."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let beasts of prey drag about (śvāpadāḥ parikarṣantu) the elephants, steeds, and men slain by me (kuñjarāṃs turagāṃs tathā narāṃś ca nihatān mayā), their hearts cloven by my shafts (śarair nirbhinna-hṛdayān)!
 </details>
 </details>
 
@@ -1411,6 +1577,12 @@ my debt to my bow and arrows."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तारनॆय सर्ग पूर्णवायितु॥96॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain Bharata together with his army in this great battle (mahā-mṛdhe sasainyaṃ bharataṃ hatvā), without doubt I shall acquit myself of my debt to my arrows and my bow (śarāṇāṃ dhanuṣaś cāham anṛṇo 'smi bhaviṣyāmi na saṃśayaḥ)!”
 </details>
 </details>
 

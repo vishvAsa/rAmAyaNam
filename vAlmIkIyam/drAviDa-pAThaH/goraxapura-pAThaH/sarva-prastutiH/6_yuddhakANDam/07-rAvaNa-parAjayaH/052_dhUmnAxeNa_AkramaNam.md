@@ -74,6 +74,12 @@ for war.
 Beholding the demon, Dhumraksha of terrible prowess coming forth, all the monkeys
 waiting for the war, roared with joy.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the rākṣasa Dhūmrākṣa of terrifying valor (bhīmavikramam) marching forth (niryāntam), all the Vānaras, thrilled with joy and eager for battle (yuddhakāṅkṣiṇaḥ), roared aloud.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -124,6 +130,12 @@ and maces.
 A highly tumultuous battle was seen between those monkeys and demons, who were
 slaying each other, with terrible trees, lances and maces.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+An exceedingly tumultuous battle (sutumulaṃ yuddham) arose between those monkeys and rākṣasas (kapirakṣasām), as they struck one another down with dreadful trees, pikes, and maces (śūlamudgaraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -171,6 +183,12 @@ monkeys.
 The terrible monkeys were moved down on all sides by the demons. The demon too were
 levelled down to the earth with trees by the monkeys.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fearsome Vānaras were hacked down (vinikṛttāḥ) on every side by the rākṣasas, while the rākṣasas too were leveled to the ground (bhūmisamīkṛtāḥ) by the Vānaras with trees.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -217,6 +235,12 @@ appearance.
 
 Enraged with anger, the demons, on their part, paralyzed the monkeys with sharp and
 frightful arrows, going as straight as wings of eagle.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged (abhisaṃkruddhāḥ), the rākṣasas pierced the Vānaras with whetted, straight-flying arrows (ajihmagaiḥ) of dreadful appearance, fletched with heron feathers (kaṅkapatraiḥ).
 </details>
 </details>
 
@@ -280,6 +304,14 @@ While being torn asunder by the demons with terrible maces, spears, hammers,
 frightful iron bars and variegated tridents, the mighty monkeys fearlessly accomplished their tasks
 with an excitement born of anger.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** [And they assailed them] with terrible maces (gadābhiḥ), sharp-edged paṭṭiśa spears, concealed mallets (kūṭamudgaraiḥ), dreadful and variegated iron bludgeons (parighaiḥ), and well-wielded tridents (triśūlaiḥ).
+
+**6:** Though being torn apart (vidāryamāṇāḥ) by the rākṣasas, those Vānaras of mighty strength, their fierce exultation roused by indignation (amarṣajanitoddharṣāḥ), performed heroic deeds fearlessly (abhītavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,6 +351,12 @@ trees; *shilaashcha* = and rocks; *tatra* = there.
 
 While their bodies were split up by the tridents and their limbs broken by arrows,
 those leaders of monkeys took up trees and rocks there to fight.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With their limbs pierced by arrows (śaranirbhinnagātrāḥ) and their bodies rent by pikes (śūlanirbhinnadehinaḥ), those Vānara troop-leaders (hariyūthapāḥ) seized trees and boulders there.
 </details>
 </details>
 
@@ -366,6 +404,12 @@ and called out; *naamaanicha* = their names.
 Those terribly swift monkeys, roaring aloud harassed the valiant demons at all
 places, by calling out their names.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roaring on every side (nardamānās tatastataḥ), those monkeys of terrible impetuosity (bhīmavegāḥ) crushed the heroic rākṣasas and shouted out their own names (nāmāni ca babhāṣire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -411,6 +455,12 @@ demons; *babhuuva* = became; *adbhutam* = wonderful.
 
 That awful battle with all kinds of rocks and trees furnished with many branches
 between monkeys and demons appeared wonderful.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Waged with rocks of manifold kinds and with many-branched trees (bahuśākhaiś ca pādapaiḥ), that battle between the Vānaras and rākṣasas became both wondrous and dreadful (adbhutaṃ ghoram).
 </details>
 </details>
 
@@ -458,6 +508,12 @@ vomitted; *rudhiram* = blood; *mukhaiH* = from their months.
 Some demons were crushed by monkeys, who conquered fear and some blood-sucking
 demons vomited blood from their mouths.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crushed by the Vānaras who bore the bearing of conquerors (jitakāśibhiḥ), some blood-consuming rākṣasas (rudhirabhojanāḥ) [perished], while others vomited blood (pravemū rudhiram) from their mouths.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -504,6 +560,12 @@ torn; *dantaiH* = by teeth.
 
 Some demons were slashed open at their sides. Some were formed into a heap by the
 trees. Some others were crushed by stones and yet others torn to pieces by the monkeys teeth.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some were torn open in their flanks (pārśveṣu dāritāḥ), some were heaped into mounds by trees (rāśīkṛtā drumaiḥ), some were pulverized by boulders (śilābhiś cūrṇitāḥ), and some were lacerated by teeth.
 </details>
 </details>
 
@@ -554,6 +616,12 @@ some; *rajaniicharaaH* = demons; *vyathitaaH* = were perturbed.
 With their standards crushed and broken, their swords snapped and their chariots
 overturned, some demons were perturbed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With their banners crushed and broken (dhvajair vimathitair bhagnaiḥ), their swords struck down, and their chariots shattered (rathair vidhvaṃsitaiḥ), some night-stalkers (rajanīcarāḥ) were sorely distressed.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -596,6 +664,12 @@ scattered; *gajendraiH* = with elephants; *parvataakaaaiH* = resembling hills;
 
 Crushed by the great rocks of monkeys, the earth was scattered with corpses of great
 elephants resembling hills and horses with their riders.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The surface of the earth (vasudhātalam) was strewn with mountain-sized lordly elephants (gajendraiḥ parvatākāraiḥ) and with steeds along with their riders (sārohaiḥ), crushed by the mountain peaks of the forest-dwellers.
 </details>
 </details>
 
@@ -648,6 +722,12 @@ The monkeys of terrific prowess rushed upon the demons, flinging themselves upon
 them with great bounds horizontically and vertically and scratching their faces with their sharp
 nails.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaping and springing upward (āplutyotplutya), the swift Vānaras of terrifying prowess (bhīmavikrāntaiḥ) tore the rākṣasas across their faces with their sharp fingernails (karajais tīkṣṇaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -693,6 +773,12 @@ very much; *viprakiirNashiroruhaaH* = their hair torn out; *muuDhaH* = maddened;
 
 With their faces dejected very much, their hair torn out and maddened by the smell
 of blood, those demons fell on the ground.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With downcast faces (viṣaṇṇavadanāḥ) and disheveled hair (viprakīrṇaśiroruhāḥ), they grew stupefied by the stench of blood (mūḍhāḥ śoṇitagandhena) and fell once more upon the surface of the earth.
 </details>
 </details>
 
@@ -740,6 +826,12 @@ their palms; *vajrasparsha samaiH* = having a diamond-like blow.
 Some other demons of exceeding valour, who were enraged, very much, ran up towards
 the monkeys to attack them with their palms having a diamond-like blow.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet other rākṣasas of terrible valor, supremely enraged (paramakruddhāḥ), rushed against the monkeys with their bare palms alone (talair eva), whose impact equaled the thunderbolt (vajrasparśasamaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -786,6 +878,12 @@ fists; *charaNaiH* = feet; *dantaiH* = teeth; *paadapaishcha* = and tress.
 The monkeys, receiving that sharp shock, with even a greater ferocity, crushed the
 demons with blows of their fists, feet teeth and trees.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As those swift demons charged to strike them down (pātayantaḥ), they were battered down (avapothitāḥ) by the still swifter Vānaras (vegavattaraiḥ) with fists, feet, teeth, and trees.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -831,6 +929,12 @@ blood-shed; *vaanaraaNaam* = of the monkeys; *yuyutsataam* = wishing to fight.
 
 Seeing his army routed, Dhumraksha that lion among the demons, in his anger began to
 create a blood-shed of the monkeys wishing to fight.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing his army routed (sainyaṃ tu vidrutaṃ dṛṣṭvā), Dhūmrākṣa, that bull among rākṣasas (rākṣasarṣabhaḥ), wrought a furious slaughter (kadanaṃ cakre) among the battle-eager Vānaras in his wrath.
 </details>
 </details>
 
@@ -882,6 +986,12 @@ surgface.
 Some monkeys pierced with spears lost rivers of blood while others struck down by
 blows of axe, fell to the earth's surface.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some Vānaras, streaming with blood (śoṇitasravāḥ), were crushed by prāsa darts (prāsaiḥ pramathitāḥ), while others, struck down by mallets (mudgarair āhatāḥ), fell upon the surface of the earth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -931,6 +1041,12 @@ javelins; *vihvalantaH* = were exhausted; *gataasavaH* = and lost their lives.
 Some were crushed by iron bars, others torn by harpoons, some others pierced by
 javelins, all exhausted and lost their lives.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some were mangled by iron bludgeons (parighair mathitāḥ) and torn open by bhindipāla javelins (bhindipālaiś ca dāritāḥ); others, crushed by paṭṭiśa spears, writhed in agony (vihvalantaḥ) and yielded up their lives (gatāsavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -977,6 +1093,12 @@ fell on the ground; *kechit* = some others; *naSTaaH* = disappeared;
 
 Slain in battle by infuriated demons, some monkeys, drenched with blood, fell on the
 ground and some others disappeared, having been driven away.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some forest-dwellers (vanaukasaḥ), drenched in blood (rudhirārdrāḥ), were slain outright upon the ground, while others were routed and driven out of sight (vidrāvitā naṣṭāḥ) by the enraged rākṣasas in battle.
 </details>
 </details>
 
@@ -1027,6 +1149,12 @@ _________________
 With pierced hearts, some monkeys were made to lie down on one side. Some were torn
 asunder by tridents that even their intestines came out.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some, with their hearts cloven (vibhinnahṛdayāḥ), were laid low upon one side (ekapārśvena śāyitāḥ); others, ripped open by tridents (vidāritās triśūlaiś ca), had their entrails spilling out (āntrair viniḥsṛtāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1076,6 +1204,12 @@ intense between monkeys and demons; *shilaapaadapa samkulam* = crammed with rock
 That mighty battle assumed most awful proportions in that monkeys and demons were
 crammed with rocks, trees and multitude of weapons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Teeming with monkeys and rākṣasas (harirākṣasasaṃkulam), abounding in weapons, and crowded with boulders and trees (śilāpādapasaṃkulam), that great and exceedingly dreadful battle shone forth (prababhau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1121,6 +1255,12 @@ giitam* = and vocal music in the form of trumpeting of elephants.
 
 With the bow-strings as the tuneful lute, the neighing of horses as a measure rhythm
 and the trumpeting of elephants as the vocal music, the whole battle resembled a symphony.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sweetened by the lute-strings of bowstrings (dhanurjyātantrimadhuram), accompanied by the rhythmic beat of gasping sobs (hikkātālasamanvitam), and sung to the low rumbling of groans (mandastanitagītam), that martial concert (yuddhagāndharvam) shone forth.
 </details>
 </details>
 
@@ -1171,6 +1311,12 @@ battle-front; *vidraayaamaasa taan vaanaraan* = made those monkeys to run away;
 Dhumraksha on his part, wielding a bow in his hand and laughing at the battle-front,
 made those monkeys to run away to all the quarters by a shower of his arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bow in hand (dhanuṣpāṇiḥ) at the forefront of battle (raṇamūrdhani), Dhūmrākṣa, laughing, routed those Vānaras in all directions (diśaḥ) with showers of arrows (śaravṛṣṭibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1218,6 +1364,12 @@ rock.
 Seeing the army perturbed due to tormented by Dhumraksha, Hanuman was enraged and
 turned towards him, taking a gigantic rock in his hands.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the army tormented (arditam) and distressed by Dhūmrākṣa, Māruti [Hanumān], filled with wrath (saṃkruddhaḥ), seized a massive boulder (vipulāṃ śilām) and charged forward.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1263,6 +1415,12 @@ rock; *ratham prati* = towards the chariot; *dhuumraakSasya* = of Dhumraksha.
 
 Hanuman, who was equal in strength to his father, with his eyes inflamed with anger,
 flung the rock on the chariot of Dhumraksha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His eyes doubly copper-red from wrath (dviguṇatāmrākṣaḥ), equal in valor to his father [Vāyu] (pitus tulyaparākramaḥ), he hurled that boulder straight at Dhūmrākṣa's chariot.
 </details>
 </details>
 
@@ -1311,6 +1469,12 @@ earth.
 Beholding the befalling rock, Dhumraksha lifting his mace hurriedly, jumped down
 speedily from the chariot and stood there on the earth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the boulder hurtling toward him (āpatantīṃ śilām), [Dhūmrākṣa] raised his mace in haste (sambhramāt), leaped swiftly from his chariot (rathād āplutya), and took his stand upon the ground.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1356,6 +1520,12 @@ to the ground.
 
 Shattering his chariot with its wheels, its pole, its crest along with banner and
 bows, that rock rolled down to the ground.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crushing his chariot (pramathya rathaṃ tasya) along with its wheels and pole (sacakrakūbaram), its steeds, its banner, and its bow (saśarāsanam), that boulder crashed to the earth.
 </details>
 </details>
 
@@ -1404,6 +1574,12 @@ shoots.
 Thereafter, Hanuman the son of Maruta (the wind-god), after breaking the chariot,
 destroyed the demons with trunks of trees furnished with their branches.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having shattered his chariot (bhaṅktvā tu rathaṃ tasya), Hanumān, son of the Wind-god (mārutātmajaḥ), wrought a slaughter among the rākṣasas with trees complete with trunks and branches (saskandhaviṭapair drumaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1450,6 +1626,12 @@ destroyed the demons with trunks of trees furnished with their branches.
 With their heads crushed, the demons were drenched with blood. Some others were
 crunched by the trees and fell down to the earth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With their heads split open (vibhinnaśirasaḥ) and drenched in blood (rudhirokṣitāḥ), the rākṣasas—and others crushed by trees—fell upon the surface of the earth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1494,6 +1676,12 @@ crunched by the trees and fell down to the earth.
 
 Having driven away the army of demons, Hanuma born of Maruta, breaking off the peak
 of a mountain, ran towards Dhumraksha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having routed the rākṣasa army (vidrāvya rākṣasaṃ sainyam), Hanumān, son of the Wind-god, seized a mountain peak (gireḥ śikharam ādāya) and rushed upon Dhūmrākṣa (abhidudruve).
 </details>
 </details>
 
@@ -1544,6 +1732,12 @@ sound; *abhidravat* = ran; *tam hanumantam* = towards that Hanuma;
 The valiant Dhumraksha lifted his mace and making a roaring sound, ran towards that
 Hanuman who was rushing on him suddenly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raising his mace and roaring aloud (vinardamānaḥ), the valiant Dhūmrākṣa impetuously charged headlong (abhidravat) at Hanumān as he hurtled toward him (tam āpatantam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1592,6 +1786,12 @@ hanuumataH* = of that Hanuman.
 
 Thereafter, Dhumraksha with an outrage, brought down that mace studded with
 countless spikes on the head of that Hanuma.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, in his fury (roṣeṇa), Dhūmrākṣa brought that many-spiked mace (gadāṃ tāṃ bahukaṇṭakām) crashing down upon the crown of the enraged Hanumān's head (mastake 'tha hanūmataḥ).
 </details>
 </details>
 
@@ -1644,6 +1844,12 @@ on the middle of the skull; *dhuumraakSasya* = of Dhumraksha.
 That Hanuman, who was endowed with an energy similar to the wind, was in no way
 disturbed by that blow but struck Dhumraksha on the middle of his skull with his rocky peak.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck there by that mace of terrible momentum (gadayā bhīmavegayā), that monkey possessing the Wind-god's might (mārutabalaḥ), disregarding that blow (taṃ prahāram acintayan),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1689,6 +1895,12 @@ ground; *parvataH iva* = like a mountain; *vikiirNaH* = crumbling.
 
 That Dhumraksha, struck by the rocky peak, which shattered all his limbs, soon fell
 down on the ground like a mountain crumbling.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+brought the mountain crag (giriśṛṅgam) crashing down squarely upon the middle of Dhūmrākṣa's head (śiromadhye). Struck by the mountain crag, with all his limbs convulsed and shattered (visphāritasarvāṅgaḥ),
 </details>
 </details>
 
@@ -1736,6 +1948,12 @@ Lanka.
 
 Seeing Dhumraksha having been killed, the demons left surviving were frightened of
 being killled by the monkeys and re entered Lanka.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+he fell suddenly to the earth like a shattered mountain (vikīrṇa iva parvataḥ). Seeing Dhūmrākṣa slain, the surviving night-stalkers (hataśeṣā niśācarāḥ), terrified and being cut down by the leapers, re-entered Laṅkā.
 </details>
 </details>
 
@@ -1807,6 +2025,12 @@ felicitations by the monkeys.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तॆरडनॆ सर्ग पूर्णवायितु.॥52॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain his foes and set rivers flowing with blood (kṣatajavahāḥ saritaś ca saṃvikīrya), that great-souled son of the Wind-god (pavanasutaḥ), fatigued by the slaughter of his enemies (ripuvadhajanitaśramaḥ), attained great joy as he was fervently honored by the monkeys.
 </details>
 </details>
 

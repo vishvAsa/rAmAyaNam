@@ -51,6 +51,12 @@ _________________
 
 सङ्ग्राम भूमियल्लि शत्रुविजयी इन्द्रजितुविन वधॆ माडि रक्तदिन्द तॊय्दु होद शरीरवुळ्ळ शुभलक्षण लक्ष्मणनु बहळ प्रसन्ननादनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his steeds slain, that night-stalker (niśācaraḥ) Indrajit of great splendor, standing upon the ground in supreme fury, blazed forth with fiery energy (tejasā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -107,6 +113,14 @@ Having offered salutation to Jambavan, Hanuma and all those monkeys, that valian
 Lakshmana of great brilliance then quickly came from there to the place where Sugreeva and Rama
 were there, by leaning himself upon vibhishana and Hanuma.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** Those two bowmen (dhanvinau), fiercely seeking to slay one another with their arrows, had come forth into battle for victory like two lordly bulls of elephants (gajavṛṣābhyām iva) in a forest.
+
+**3:** And as those rākṣasas and forest-dwelling vānaras (rākṣasavanaukasaḥ) struck one another down, rushing from every side, they did not forsake their respective lords in battle.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -147,6 +161,12 @@ as Lord Vamana (the younger brothre of Indra); *shakrasya* = (would stand beside
 Having offered his salutation and approached Rama, Lakshmana stood beside his
 brother, even as Lord Vamana (the younger brother of Indra) would stand beside Indra the lord of
 celestials.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāvaṇa's son (rāvaṇātmajaḥ), gladdening all those rākṣasas, praising them (stunvānaḥ) and rejoicing, spoke these words:
 </details>
 </details>
 
@@ -190,6 +210,12 @@ vadham* = about the terrible destroyal; *indrajitaH* = of Indrajit.
 
 Then, the valiant Lakshmana, arriving at the great-souled Rama, told him in a
 murmering tone (as he was feeling tiresome) about the terrific destroyal of Indrajit.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O best of rākṣasas (rākṣasottamāḥ), all these quarters of the sky are shrouded on every side by thick darkness (tamasā bahulena); here neither friend nor foe can be distinguished.
 </details>
 </details>
 
@@ -237,6 +263,12 @@ had been chopped off; *mahaatmanaa lakShmaNena* = by the great-souled Lakshamna.
 Then, the rejoiced Vibhishana informed (in a clear tone) to Rama that Indrajit's
 head had been chopped off by the great-souled Lakshaman.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Do you fight boldly (dhṛṣṭam) to delude the monkeys (harīṇāṃ mohanāya), while I, having mounted a fresh chariot, shall return to the fray (saṃyuge).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -280,6 +312,12 @@ prowess; *lebhe* = obtained; *atulam* = immeasurable; *praharSham* = joy;
 Just on hearing the news about the killing of Indrajit by Lakshmana, Rama of great
 prowess obtained immesurable joy and spoke the following words
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So act, I pray you, that these great-souled (mahātmānaḥ) forest-dwellers do not press the fight against me as I enter the city.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,6 +357,12 @@ prowess obtained immesurable joy and spoke the following words
 
 "O Lakshmana! Well done! I feel gratified. An ardous act has been done. Consider it
 as our victory, through the destroyal of Indrajit.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus and deceived the forest-dwellers (vañcayitvā vanaukasaḥ), Rāvaṇa's son, the slayer of foes, entered the city of Laṅkā for the sake of a chariot (rathahetoḥ).
 </details>
 </details>
 
@@ -370,6 +414,14 @@ Smelling the head of that Lakshmana, who had augmented his fame and yet who was
 feeling abashed (to hear himself being praised), forcibly drawing him to his lap and placing that
 Lakshmana his younger brother in his lap with affection, wounded as he was, that valiant Rama,
 having embraced him, tenderly gazed upon him affectionately again and again.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Having graced a splendid chariot adorned with gold (hemabhūṣitam), furnished with lances, swords, and arrows (prāsāsiśarasaṃyuktam), and yoked with supreme steeds—
+
+**10:** —guided by a charioteer skilled in horsemanship (hayajñena sūtena) and capable of giving trustworthy counsel (āptopadeśinā), Rāvaṇa's son of great splendor, victorious in battle, mounted it.
 </details>
 </details>
 
@@ -424,6 +476,14 @@ endowed with auspicious characterestics, was afflicted with agony and was feelin
 time of respiration, and hurriedly stroking him as well as restoring confidence in him, Rama the
 foremost among men spoke the following words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Surrounded by chief hosts of rākṣasas (rākṣasagaṇair mukhyaiḥ), that heroic son of Mandodarī issued forth from the city, impelled by the power of Death (kṛtāntabalacoditaḥ).
+
+**12:** Having issued forth from the city with supreme vigor (paramaujasā), that Indrajit sped with swift steeds toward Lakṣmaṇa accompanied by Vibhīṣaṇa (savibhīṣaṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,6 +529,14 @@ foremost among men spoke the following words:
 
 "An extremely noble act was performed by you, a doer of difficult things. Now, that
 his son having been killed, I account Ravana to have been killed in battle."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** Then, beholding Rāvaṇa's son mounted once more upon a chariot (rathastham ālokya), the son of Sumitrā, the monkeys of great valor, and the rākṣasa Vibhīṣaṇa—
+
+**14:** —went to supreme amazement (vismayaṃ paramaṃ jagmuḥ) at the agility of that sagacious warrior (lāghavāt tasya dhīmataḥ); and Rāvaṇa's son too, enraged in battle, struck the monkey troop-leaders,
 </details>
 </details>
 
@@ -551,6 +619,14 @@ auspicious body marks; *rudhiraklinnagaatraH* = and with his limbs drenched in b
 Lakshmana, endowed with auspicious bodily marks, whose limbs were drenched in blood,
 felt rejoiced on having killed Indrajit in combat.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** felling them by the hundreds and thousands with floods of arrows (bāṇaughaiḥ); and bending his bow into a circle (maṇḍalīkṛtadhanuḥ), Rāvaṇa's son, victorious in battle,
+
+**16:** smote the monkeys in fury, resorting to supreme dexterity (paraṃ lāghavam āsthitaḥ); and those monkeys of terrible valor, being slaughtered by iron shafts (nārācaiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -590,6 +666,12 @@ great army; *nihaniShyaami* = I will kill him; *niryaantam* = who is coming fort
 
 "By encircling that Ravana, who is difficult to be conquered, with a great army, I
 will kill him, who is coming forth with a feeling of distress for the death of his son."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+sought refuge in Sumitrā's son (saumitriṃ śaraṇaṃ prāptāḥ) like creatures in Prajāpati; then Raghu's scion, blazing with battle-wrath (samarakopena), severed his bow, displaying his lightness of hand (pāṇilāghavam).
 </details>
 </details>
 
@@ -636,6 +718,12 @@ this earth; *duShpraapaa* = is hard to attain.
 
 "O Lakshmana! As that Indrajit has been killed in battle by you, who are my
 protector, neither Seetha nor this entire earth is hard to attain."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He took up another bow and strung it (sajyaṃ cakre) as if in haste (tvarann iva); that bow of his too Lakṣmaṇa sheared away (nirakṛntata) with three arrows.
 </details>
 </details>
 
@@ -687,6 +775,12 @@ brother; *pariShvajya cha* = and having embraced him; *saH raamaH* = that Rama;
 Having thus consoled Lakshmana and having embraced him, that Rama who was born in
 Raghu-dynansty, was duly delighted and by calling Sushena, spoke to him the following words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Sumitrā's son pierced that son of Rāvaṇa, whose bow had been severed (chinnadhanvānam), in the chest with five arrows resembling the venom of virulent serpents (āśīviṣaviṣopamaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -733,6 +827,12 @@ perfectly well; *mahaapraajJNaH* = O highly intelligent one!.
 "O highly intelligent one! You attend upon this wounded Lakshmana, who is fond of
 frinds, so that he will become perfectly well in health."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having cloven his body (kāyaṃ nirbhidya), those arrows shot from the great bow fell to the earth like crimson-red great serpents (raktā iva mahoragāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -760,6 +860,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 परम बुद्धिवन्त सुषेणने! नीनु बेगने ई मित्रवत्सल सौमित्रियु पूर्ण स्वस्थनागुवन्तह चिकित्सॆ माडु. अवन शरीरदल्लिन बाणगळिन्दाद नोवु ऎल्ल दूरवागलि.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his bow severed, vomiting blood (rudhiraṃ vaman) from his mouth, that son of Rāvaṇa seized a superlative bow, taut-stringed and mightier still (balavattaram).
 </details>
 </details>
 
@@ -831,6 +937,14 @@ monkey-cheif; *dadau* = gave; *paramauShadham* = an excellent medicine;
 As commanded by Rama, the great-souled Sushena, the monkey-cheif gave an excellent
 medicine through nose to Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** Taking aim at Lakṣmaṇa and resorting to supreme dexterity (paraṃ lāghavam āsthitaḥ), he rained down showers of arrows (śaravarṣāṇi) as Purandara rains down showers of rain.
+
+**23:** That tamer of foes, Lakṣmaṇa, unruffled (asaṃbhrāntaḥ), warded off (āvārayat) that shower of arrows unleashed by Indrajit, which was most difficult to withstand (sudurāsadam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -870,6 +984,12 @@ his wounds got completely cured.
 
 Inhaling the odour of that herb, Lakshmana became healed of the arrow-wounds, free
 from pains and his wounds got completely cured.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unruffled, that scion of Raghu of great splendor displayed [his valor] before Rāvaṇa's son then, and that seemed like a marvel (tad adbhutam ivābhavat).
 </details>
 </details>
 
@@ -920,6 +1040,12 @@ ncluding all the monkey-chiefs.
 As per the order of Rama, Sushena then treated his companions like Vibhishana and
 others including all the monkey-chiefs.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, supremely enraged, he pierced all those rākṣasas in battle with three shafts apiece (tribhir ekaikam āhave), displaying his rapid weapon-craft (śīghrāstraṃ sampradarśayan), and battered the lord of rākṣasas' son too with floods of arrows.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -966,6 +1092,12 @@ having restored; *prakR^itim* = his original disposition; *mumude* = felt joyful
 
 Then, with his arrow-wounds healed, his fatigue gone and his feverishness cured
 within a moment, Lakshmana having restored his original disposition, felt joyful there.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deeply pierced (atividdhaḥ) by that mighty enemy, the slayer of foes, he dispatched many arrows unceasingly (asaktam) at Lakṣmaṇa.
 </details>
 </details>
 
@@ -1018,6 +1150,12 @@ valiant; *R^ikShapatishcha* = Jambavan; *sa sainyaah* = along with the army;
 
 Then, on seeing Lakshmana standing up with sound health, Rama, Sugreeva, Vibhishana
 and the valiant Jambavan along with the army were rejoiced for a long time.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Before they could reach him, the slayer of hostile heroes severed them (tān aprāptāṃś ciccheda) with whetted shafts; and of the charioteer of that chariot-warrior in battle, that best of chariot-fighters—
 </details>
 </details>
 
@@ -1077,6 +1215,12 @@ Indrajit; *nipaatitam* = having been killed; *yudhi* = in battle;
 That great-souled Rama apllauded the ardous feat of Lakshmana. Hearing of Indrajit
 having been kille din battle, Sugreeva became delighted.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—righteously carried off the head (śiro jahāra) with a broad-headed shaft of curved joints (bhallenānataparvaṇā); yet those driverless steeds (asūtās te hayāḥ) bore the chariot on unperturbed,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1116,6 +1260,12 @@ having been kille din battle, Sugreeva became delighted.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि तॊम्भत्तॊन्दनॆय सर्ग पूर्णवायितु. ॥91॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+galloping in circular tracks (maṇḍalāny abhidhāvanti), and that seemed like a marvel; then Sumitrā's son of firm valor, falling under the sway of indignation (amarṣavaśam āpannaḥ),
 </details>
 </details>
 

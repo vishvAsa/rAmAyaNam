@@ -64,6 +64,12 @@ these words; *bhaavini* = about the ensuing; *abhishhechane* = anointment;
 After Rama left, king Dasaratha called for his family priest Vasishta and spoke to
 him as follows about the ensuing anointment ceremony of the next day.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having instructed Rāma regarding the consecration (abhiṣecane) scheduled for the morrow (śvobhāvini), the king summoned his royal chaplain (purohitam), Vasiṣṭha, and spoke these words to him:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -109,6 +115,12 @@ fasting; *sriiyashoraajya laabhaaya* = for obtaining prosperity; glory and sover
 
 "O, great sage Vasishta! Please go to the avowed Rama and Seetha today to make them
 perform fasting for obtaining prosperity, glory and sovereignty."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Go, O sage rich in asceticism (tapodhana), of steadfast vows (yatavrata), and cause Kākutstha, together with his bride (vadhvā saha), to observe the ritual fast (upavāsam) today for auspiciousness (śreyase) and the attainment of sovereignty (rājyalābhāya).”
 </details>
 </details>
 
@@ -174,6 +186,14 @@ in austerities and who is divine, said to Dasaratha : "I agree to it" and person
 house on a chariot which was ready and quite suitable for a Brahman; so as to advise Rama to
 undertake a fast (with mantras) performed by Rama, a knower of mantras.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** Answering the king, “So be it,” the venerable (bhagavān) Vasiṣṭha, foremost of Vedic knowers (vedavidāṃ varaḥ), proceeded in person (svayam) to Rāma’s palace (rāmaniveśanam).
+
+**4:** Of firmly upheld vows (sudhṛtavrataḥ) and a knower of sacred mantras (mantravit), he mounted an excellent yoked chariot (rathavaram) fit for a brāhmaṇa (brāhmam) in order to initiate the heroic prince, himself skilled in mantras (mantrakovidam), into the ritual fast.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -221,6 +241,12 @@ chariot itself.
 That great sage reached Rama's house, which was radiant like a dense white cloud and
 entered the three gateways of the house by the chariot itself.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching Rāma’s mansion, which gleamed like a dense mass of white clouds (pāṇḍurābhraghanaprabham), that best of sages (munisattamaḥ) entered right through three courtyards (tisraḥ kakṣyāḥ) in his chariot itself.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -266,6 +292,12 @@ Rama; *nishchakraama* = started; *niveshanaat* = out of the house;
 
 To respect the honorable sage, who arrived, Rama came quickly and hurriedly out of
 the house.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeking to honor (mānayiṣyan) that sage who was worthy of honor (mānārham) upon his arrival, Rāma came forth from his abode in haste (tvarann iva), filled with reverent eagerness (sasambhramam).
 </details>
 </details>
 
@@ -313,6 +345,12 @@ helped him to alight; *tataH rathaat* = from that chariot.
 Rama quickly got nearer to Vasishta's chariot and personally helped him to alight
 from the chariot.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching the vicinity of the wise sage’s chariot (rathābhyāśam) in haste, Rāma himself (svayam) respectfully clasped him and helped him descend (avatārayām āsa) from the chariot.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -353,6 +391,12 @@ him; *sambhaashya* = by uttering (the following)words
 
 That family priest Vasishta seeing that lovable and humble Rama, spoke the following
 words, bringing cheerfulness and happiness to him:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him so humble (praśritam), the royal chaplain addressed him kindly and, gladdening him with blessings (abhiprasādya), spoke thus, delighting Rāma who was worthy of pleasant tidings (priyārham):
 </details>
 </details>
 
@@ -403,6 +447,12 @@ Seetha; *upavaasaM karothu* = do fasting; *adya* = today.
 "O, Rama! Your father is delighted with you. You will be getting the princely
 kingdom. Hence, you and Seetha perform fasting today."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your father is well pleased with you, O Rāma, since you shall attain sovereignty (rājyam); therefore, let your honor observe the ritual fast (upavāsam) today together with Sītā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -443,6 +493,12 @@ the king Nahusha.
 
 "Your father; King Dasaratha is anointing you affectionately for the princely
 kingdom tomorrow at dawn; even as king Nahusha has done to Yayati".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For at dawn tomorrow your father Daśaratha, lord of men, shall lovingly (prītyā) consecrate you (abhiṣektā) in the office of Prince Regent (yauvarājye), even as Nahuṣa consecrated Yayāti.”
 </details>
 </details>
 
@@ -489,6 +545,12 @@ kingdom tomorrow at dawn; even as king Nahusha has done to Yayati".
 
 Vasistha thus spoke to Rama and enjoined him to undertake a vow of fasting together
 with Seetha, in the accompaniment of mantras.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, that pure (śuciḥ) sage of steadfast vows (yatavrataḥ) then caused Rāma, together with Vaidehī, to undertake the ritual fast with sacred mantras (mantravat).
 </details>
 </details>
 
@@ -537,6 +599,12 @@ Rama's house.
 Thereafter, Rama worshipped the royal priest Vasistha suitably. Vasistha then got
 Rama's permission and left his house.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the king’s preceptor (rājño guruḥ), having been duly worshiped (yathāvad arcitaḥ) by Rāma, took leave of Kākutstha (abhyanujñāpya) and departed from Rāma’s palace.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -580,6 +648,12 @@ after making them to permit.
 
 Rama spent some time by delightedly talking with friends and having been
 congratulated by them in various ways went into his palace after taking leave of them.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma too, seated there with his kindly-spoken (priyaṃvadaiḥ) friends and honored (sabhājitaḥ) by them, then gave leave to them all (tān anujñāpya sarvaśaḥ) and entered his inner apartments.
 </details>
 </details>
 
@@ -627,6 +701,12 @@ congratulated by them in various ways went into his palace after taking leave of
 Then, Rama's house was shining, as brilliantly with delighted men and women, as a
 lake filled with opened lotuses and visited by innumerable happy birds.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thronged with joyful women and men (hṛṣṭanārīnarayutam), Rāma’s mansion then shone forth like a lake filled with full-blown lotuses (praphullanalinam) and flocks of intoxicated birds (mattadvijagaṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -666,6 +746,12 @@ people.
 
 Vasishta, leaving Rama's house, which seemed like the royal palace, saw the way
 filled with people.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Emerging from that palace of Rāma, which rivaled the king’s own palace (rājabhavanaprakhyāt), Vasiṣṭha beheld (dadṛśe) the highway crowded with people (janasaṃvṛtam).
 </details>
 </details>
 
@@ -712,6 +798,12 @@ filled with people.
 
 All the royal highways in the city of Ayodhya were filled with groups and groups of
 delighted people and became congested.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Throughout Ayodhyā on every side (samantataḥ), the royal highways became densely packed (abhisaṃbādhāḥ), covered with eager crowds (kutūhalajanaiḥ) gathered in multitude upon multitude (vṛndavṛndaiḥ).
 </details>
 </details>
 
@@ -763,6 +855,12 @@ Then, on the royal road, the resonance created by the rush of the people, moving
 hither and thither like waves, combined with their rejoicing, resounded like the roar of an
 ocean.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with the joyous roar (harṣasvanavṛtaḥ) arising from the surging collision of human waves (janavṛndormisaṃgharṣa), the tumult (niḥsvanaḥ) of the royal highway then resembled that of the ocean (sāgarasyeva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -812,6 +910,12 @@ gR^ihadhvajaa* = (and) one that has houses hoisted with flags.
 On that day, in the city of Ayodhya, all the roads were cleaned and sprinkled with
 water. There were rows of trees on both sides of the roads and flags hoisted on houses.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having its streets sprinkled and swept clean (siktasaṃmṛṣṭarathyā), adorned with garlands of woodland flowers (vanamālinī), and flying tall banners from every house (samucchritagṛhadhvajā), such was Ayodhyā on that day (tad ahaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -858,6 +962,12 @@ the old aged; *aakaaNkshat* = were longing; *udayam raveH* = for sun rise;
 Then, the people of Ayodhya including children, women and the old-aged were waiting
 for sunrise, wishing the anointment ceremony of Rama to happen.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then indeed the populace dwelling in Ayodhyā (ayodhyānilayaḥ), thronged with women and children (sastrībālākulaḥ), eagerly longed (ākāṅkṣan) for Rāma’s consecration, longing for the rising of the sun (udayaṃ raveḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -897,6 +1007,12 @@ Ayodhya's great function; *prajaalaN^kaarabhuutam* = which was decorative to the
 
 In Ayodhya, people were enthusiastic to see the great public function, which was
 decorative to the community and which would bring forward an increased joy.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The people grew eager (utsuko 'bhūt) to behold that great festival of Ayodhyā (ayodhyāmahotsavam), which was the very ornament of the subjects (prajālaṃkārabhūtam) and the increaser of the people’s joy (janasyānandavardhanam).
 </details>
 </details>
 
@@ -947,6 +1063,12 @@ slowly; *vyuuhanniva* = as if separating; *tam janaugham* = that crowd.
 Vasishta, thus seeing the king's way being overcrowded with people, reached the
 royal palace slowly by forcing a passage through that crowd.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus passing along that royal highway crowded with people (janasaṃbādham), the chaplain went slowly (śanaiḥ) toward the royal palace (rājakulam), parting (vyūhann iva), as it were, that flood of people (janaugham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -996,6 +1118,12 @@ enclosed by white cloud; *samiiyaaya* = met; *narendreNa* = king Dasaratha;
 He walked up the royal palace, which was akin to the top of a mountain enclosed by a
 white cloud and met king Dasaratha in the manner Brihaspati met Devendra.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ascending the lofty palace that resembled the peak of a white cloud-mountain (sitābhraśikharaprakhyam), he met (samīyāya) with the lord of men, even as Bṛhaspati meets with Śakra.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1043,6 +1171,12 @@ throne; *paprachchha* = and asked; *saH cha* = he (Vasistha) also;
 Seeing Vasistha had returned, King Dasaratha alighted from his throne and asked him
 with regard to his mission. Vasistha informed him that it was accomplished.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him arrived (tam āgatam abhiprekṣya), the king left his royal throne (rājāsanam) and inquired after his desired mission (svamatam); and Vasiṣṭha reported to him (tasmai abhivedayat), “It has been accomplished (kṛtam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1082,6 +1216,12 @@ family priest (Vasistha); *tena tulyameva* = as king Dasaratha did.
 
 The members of assembly who were sitting along with the king till then, raised in
 obeisance to Vasishta from their seats, following the example of the king.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Simultaneously (tulyam) with him at that moment, the courtiers (sabhāsadaḥ) seated beside the king rose up (samuttasthuḥ) from their seats, honoring the royal chaplain.
 </details>
 </details>
 
@@ -1128,6 +1268,12 @@ that; *manujaugham* = assembly of men; *vivesha* = and entered; *antaH puram*
 
 King Dasaratha, after obtaining permission from Vasishta, left that assembly of men
 and entered his palace as a lion enters a mountain cave.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Granted leave by his preceptor (guruṇā tv abhyanujñātaḥ), the king dismissed that multitude of men (manujaugham) and entered his inner apartments (antaḥpuram), like a lion entering a mountain cavern (giriguhām iva).
 </details>
 </details>
 
@@ -1198,6 +1344,12 @@ sky with its stars.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐदनॆय सर्ग पूर्णवायितु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brightly illuminating (vyadīpayan) that mansion which rivaled the palace of Mahendra (mahendraveśmapratimam) and was thronged with ladies in exquisite attire (agryaveṣapramadājanākulam), the monarch gracefully (cāru) entered it, even as the moon enters the sky crowded with hosts of stars (tārāgaṇasaṃkulam).
 </details>
 </details>
 

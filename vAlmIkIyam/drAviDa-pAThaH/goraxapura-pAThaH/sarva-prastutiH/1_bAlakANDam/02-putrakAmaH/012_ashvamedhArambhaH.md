@@ -129,6 +129,12 @@ Then bowing his head before that Brahmana sage Rishyasringa whose is glow is lik
 Dasharatha verily beseeched that sage to conduct Vedic ritual on his behalf as he wished to beget progeny
 to maintaining his family line. [1-12-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, bowing his head in reverence to that twice-born sage of celestial effulgence (taṃ vipraṃ devavarṇinam), he formally chose him to officiate at the sacrifice for the continuation of his lineage (saṃtānārthaṃ kulasya ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -195,6 +201,12 @@ let the ritual place be decided on the northern banks of Sarayu River...." [1-12
 
 ततः ऋश्यशृङ्गाद्य्-अभ्यनुज्ञयापि यज्ञ आरब्धः । एतेन महतः कर्मण आरम्भे महा-ब्राह्मणानाम् अभ्यनुज्ञा ग्राह्येत्य् अयं धर्मः सूचितः ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And that sage replied “So be it!” to the King, lord of the earth: “Let the sacrificial requisites be gathered for you (sambhārāḥ sambhriyantāṃ te), and let the sacrificial steed be loosed (turagaś ca vimucyatām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -255,6 +267,14 @@ Then King Dasharatha said to his best minister Sumantra, "Let the Vedic scholars
 like Sages Suyajna, Vaamadeva, Jaabaali, and Kaashyapa, along with the family priest Vashishta, as well
 as other Vedic Brahmans that are there, they all be invited swiftly..." [1-12-4, 5, 6a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** “And let the sacrificial ground be prepared on the northern bank of the Sarayū (sarayvāś cottare tīre)!” Thereupon the monarch spoke these words with reference to the Brāhmaṇas who had crossed to the farthest shore of the Vedas:
+
+**5:** “O Sumantra, summon swiftly the officiating priests who are expounders of the Veda (ṛtvijo brahmavādinaḥ)—Suyajña, Vāmadeva, Jābāli, and Kāśyapa,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,6 +301,12 @@ as other Vedic Brahmans that are there, they all be invited swiftly..." [1-12-4,
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग शीघ्रगामि सुमन्त्रनु कूडले होगि वेदविद्यॆयल्लि पारङ्गतराद समस्त ब्राह्मणरन्नु करॆदुकॊण्डु बन्दनु.॥6½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As well as the family preceptor Vasiṣṭha, and whatever other foremost of the twice-born there be!” Thereupon Sumantra of swift stride (tvaritavikramaḥ), proceeding in haste,
 </details>
 </details>
 
@@ -328,6 +354,12 @@ Then the virtuous king Dasharatha having offered due worships to all the sages a
 by Sumantra, uttered these words which are with virtue and meaning, in an impressible manner. [1-12-6,
 7, 8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brought together all those sages who had crossed to the farthest shore of the Vedas (samastān vedapāragān). Having duly honored them, the righteous-souled King Daśaratha then—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -354,6 +386,12 @@ by Sumantra, uttered these words which are with virtue and meaning, in an impres
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महर्षिगळे! नानु पुत्ररिगागि निरन्तर हम्बलिसुत्तिद्देनॆ. मक्कळिल्लदॆ ई राज्यादिगळिन्द ननगॆ सुख सिगुवुदिल्ल. आद्दरिन्द पुत्रप्राप्तिगागि अश्वमेध यज्ञद अनुष्ठान माडुवुदागि नानु निश्चयिसिरुवॆनु.॥8½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spoke these gentle, well-reasoned words fraught with dharma and purpose (dharmārthasahitaṃ yuktaṃ ślakṣṇaṃ vacanam): “Tormented as I am by longing for a son (mama tātapyamānasya putrārtham), I know no happiness at all.
 </details>
 </details>
 
@@ -403,6 +441,12 @@ Vedic Horse Ritual for progeny... I wish to perform the ritual as enshrined in t
 strict observances... I wish to get my desires fulfilled through the divine influence of the Sage's
 son, Rishyasringa... [1-12-8, 9, 10a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore my resolve is fixed: ‘I shall sacrifice with the Hayamedha for the sake of a son!’ Accordingly, I desire to worship through the sacrificial rite of the Hayamedha—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -429,6 +473,12 @@ son, Rishyasringa... [1-12-8, 9, 10a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दशरथ महाराजनु हेळिद मातन्नु वसिष्ठादि ऎल्ल ब्राह्मणरु साधु-साधु ऎन्दु हेळि गौरविसिदरु.॥10½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And through the spiritual potency of the sage’s son (ṛṣiputraprabhāveṇa), I shall surely obtain my cherished desires!” Thereupon all the Brāhmaṇas applauded that speech, exclaiming “Excellent! Excellent!” (sādhv iti)—
 </details>
 </details>
 
@@ -479,6 +529,14 @@ along with all other important personalities have applauded the idea that has co
 voice, and all those Vedic scholars and clerj~nmen keeping Rishyasringa at helm of affairs said this
 to the king, in appreciation of that idea. [1-12-10b, 11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Headed by Vasiṣṭha (vasiṣṭhapramukhāḥ sarve), as those words fell from the monarch’s lips; and with Ṛṣyaśṛṅga at their fore (ṛṣyaśṛṅgapurogāś ca), they replied thus to the King at that time:
+
+**12:** “Let the sacrificial requisites be gathered for you (sambhārāḥ sambhriyantāṃ te), and let the sacrificial steed be loosed! And on the northern bank of the Sarayū, let the sacrificial ground be prepared!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -526,6 +584,12 @@ river; *uttare tiire* = on northern banks; *yaj~nabhoomiH* = ritual place; *vidh
 means get four sons with boundless valour... let ritual paraphernalia be garnered and let your ritual-horse
 be released and let the ritual place be decided on the northern banks of Sarayu River...."
 The Vedic seers thus blessed Dasharatha. [1-12-12, 13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By every means you shall obtain four sons of boundless valor (putrāṃś caturo ’mitavikramān), since this righteous resolve (dhārmikī buddhiḥ) has arisen in your heart for the sake of progeny!”
 </details>
 </details>
 
@@ -576,6 +640,12 @@ The Vedic seers thus blessed Dasharatha. [1-12-12, 13]
 Then the king is gladdened to hear the blessing advises of the Vedic scholars, and he spoke to the other
 ministers of his court, with happiness derived from those good words. [1-12-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that utterance of the twice-born sages, the King was filled with joy; and out of delight the monarch spoke these auspiciously worded commands (idaṃ śubhākṣaram) to his ministers:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -602,6 +672,12 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 गुरुगळ अप्पणॆयन्तॆ नीवॆल्लरू बेगने नन्न यज्ञक्कागि बेकाद सामग्रिगळन्नु हॊन्दिसिरि. समर्थराद वीरर रक्षणॆयल्लि यज्ञाश्ववन्नु बिडलागुवुदु, अदरॊन्दिगॆ प्रधान ऋत्विजरू इरुवरु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At the bidding of my preceptors, let the sacrificial requisites be swiftly gathered for me (sambhārāḥ sambhriyantu me), and let the sacrificial horse—guarded by capable warriors and accompanied by its officiating preceptors (samarthādhiṣṭhitaś cāśvaḥ sopādhyāyo vimucyatām)—be loosed to wander!
 </details>
 </details>
 
@@ -630,6 +706,12 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 
 सरयूविन उत्तर तीरदल्लि यज्ञभूमिय निर्माणवागली, शास्त्रोक्त विधानदिन्द क्रमवागि शान्तिकर्म- पुण्याहवाचन मुन्तादवन्नु विस्तारवागि अनुष्ठान माडलागुवुदु, इदरिन्द ऎल्ल विघ्नगळ निवारणॆ आगुत्तदॆ.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“On the northern bank of the Sarayū let the sacrificial ground be laid out, and let the propitiatory rites of peace go forward in full measure (śāntayaś cābhivardhantām) according to the Kalpa precepts and Śāstric ordinance (yathākalpaṃ yathāvidhi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -657,6 +739,12 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 
 ई श्रेष्ठवाद यज्ञदल्लि गुरुतर अपराधवागुव भयविल्लदिद्दरॆ ऎल्ल राजरू इदन्नु नॆरवेरिसबल्लरु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This great sacrifice is capable of being accomplished by any monarch only if no grievous ritual lapse or offense (nāparādho bhavet kaṣṭaḥ) should occur in this foremost of sacrifices—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -683,6 +771,12 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ हीगागुवुदु कठिणवे आगिदॆ; एकॆन्दरॆ ई विद्वांसराद ब्रह्मराक्षसरु यज्ञदल्लि विघ्नवन्नॊड्डलु तप्पुगळन्नु हुडुकुत्तले इरुत्तारॆ. विधिहीन यज्ञवन्नु माडुव यजमाननु कूडले नाशवागुत्तानॆ.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For these learned Brahmarākṣasas (vidvāṃso brahmarākṣasāḥ) ever watch for a ritual flaw or loophole (chidraṃ hi mṛgayanty ete); and when a sacrifice is bereft of prescribed Śāstric rule (vidhihīnasya yajñasya), its patron perishes forthwith (sadyaḥ kartā vinaśyati)!
 </details>
 </details>
 
@@ -750,6 +844,12 @@ till its conclusion, and with absolute adherence to the scriptures... since all 
 are efficient ones in conducting such rituals without faults, I hope you all will organise carefully....
 [1-12-15,16,17,18, 19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore let such careful provision be made that this sacrifice of mine is brought to completion strictly according to ritual ordinance (vidhipūrvam); for you are fully competent in executing these measures (samarthāḥ karaṇeṣv iha).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -791,6 +891,12 @@ are efficient ones in conducting such rituals without faults, I hope you all wil
 
 In appreciation of his orders all the ministers replied the king saying "it will be done accordingly..."
 and indeed they have faultlessly carried out works as ordered. [1-12-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon all the ministers applauded that speech of the chief of monarchs, saying “So be it!”, and executed everything just as they had been commanded (yathājñaptam akurvata).
 </details>
 </details>
 
@@ -834,6 +940,12 @@ of them; *punaH jagmuH* = again, returned; *yathaa aagatam* = as they have come.
 Then all the Brahmans applauded the virtuous king and who is like a Sacred Bull among the kings for
 his virtuous endeavour of undertaking the Vedic ritual, and with his permission all of them returned
 from there as they have come. [1-12-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then those twice-born sages praised that dharma-knowing bull among monarchs; and having taken leave with his permission (anujñātāḥ), they all returned again whence they had come (punar jagmur yathāgatam).
 </details>
 </details>
 
@@ -894,6 +1006,12 @@ there for further orders from the king, and then he the great resplendent king h
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हन्नरडनॆय सर्ग पूर्णवायितु. ॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When those Brāhmaṇas had departed, the lord of men of vast intellect dismissed his ministers as well (mantriṇas tān... visarjayitvā) and entered his own royal abode (svaṃ veśma praviveśa).
 </details>
 </details>
 

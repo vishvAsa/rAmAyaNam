@@ -36,6 +36,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 
 श्रीरामचन्द्रनु हेळिद कथॆयन्नु केळि शत्रुवीर संहारी लक्ष्मणनु उद्दीप्त तेजस्सुळ्ळ श्रीरामनल्लि कैमुगिदु केळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the speech of Rāma (rāmasya bhāṣitaṃ śrutvā), Lakṣmaṇa, slayer of hostile heroes (paravīrahā), with joined palms (prāñjaliḥ) spoke these words to Rāghava of blazing splendor (dīpta-tejasam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ककुत्स्थ कुलभूषण! आ ब्रह्मर्षि मत्तु राजर्षि इब्बरू देवतॆगळिन्दलू सम्मानितरागिद्दरु. अवरु तम्म शरीर त्यजिसि मत्तॆ नूतन शरीरवन्नु हेगॆ पडॆदरु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having laid aside their bodies (nikṣipta-dehau), O Kākutstha, how did those two—the brahmin and the king (tau dvija-pārthivau), esteemed by the gods (deva-sammatau)—again attain union with a body (punar dehena saṃyogam)?”
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 
 लक्ष्मणनु हीगॆ हेळिदाग इक्ष्वाकुकुलनन्दन पुरुषश्रेष्ठ श्रीरामनु इन्तॆन्दनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Lakṣmaṇa (lakṣmaṇenaivam uktas tu), Rāma, delight of the Ikṣvākus (ikṣvāku-nandanaḥ), of great splendor (mahātejāḥ), bull among men (puruṣarṣabhaḥ), replied to Lakṣmaṇa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुमित्रानन्दन! परस्पर शाप कॊट्टु देहत्याग माडि तपस्सिन धनी धर्मात्मा राजर्षि हागू ब्रह्मर्षियरु वायु रूपरादरु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having abandoned their bodies through mutual cursing (paraspara-śāpena dehāv utsṛjya), those two righteous ones (dhārmikau)—the royal sage and the brahmin sage (nṛpa-viprarṣī), rich in austerity (tapodhanau)—became beings of wind (vāyu-bhūtau).
 </details>
 </details>
 
@@ -136,6 +160,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 
 महातेजस्वी महामुनि वसिष्ठरु शरीररहितरादाग इन्नॊन्दु शरीरद प्राप्तिगागि तन्न तन्दॆ ब्रह्मदेवर बळिगॆ होदरु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Disembodied (aśarīraḥ), for the sake of another body (śarīrasya kṛte ’nyasya), the great sage Vasiṣṭha of exceeding splendor (sumahātejāḥ) went into the presence of his father (pitur antikam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -161,6 +191,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 
 धर्मज्ञ वायुरूपि वसिष्ठरु देवाधिदेव ब्रह्मदेवर चरणगळल्लि वन्दिसिकॊण्डु, आ पितामहरल्लि हीगॆ हेळिदरु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, having saluted the feet of the God of gods (abhivādya tataḥ pādau devadevasya), that knower of dharma (dharmavit), existing as wind (vāyu-bhūtaḥ), spoke these words to the Grandsire (pitāmaham):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -185,6 +221,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्माण्ड कटाहदिन्द प्रकटगॊण्ड देवाधिदेव महादेवा! भगवन्! राजानिमिय शापदिन्द नानु देहहीननागिद्देनॆ; आद्दरिन्द वायुरूपदिन्द इद्देनॆ.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Blessed One, through the curse of Nimi (nimi-śāpena) I have fallen into disembodiment (videhatvam upāgamam), O Lord of the worlds, O Great God—though born from the Cosmic Egg (aṇḍajo ’pi), you too are born of the lotus (tvam abjajaḥ)!
 </details>
 </details>
 
@@ -212,6 +254,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रभो! समस्त देहहीनरिगॆ महादुःखवागुत्तदॆ, आगुत्ता इरुवुदु; एकॆन्दरॆ देहहीन प्राणिय ऎल्ल कार्य लुप्तवागुत्तवॆ. आद्दरिन्द इन्नॊन्दु शरीरद प्राप्तिगागि तावु कृपॆतोरिरि.॥8½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For all who are bereft of a body (sarveṣāṃ deha-hīnānām) great suffering shall ensue (mahad duḥkhaṃ bhaviṣyati); all undertakings perish (lupyante sarva-kāryāṇi) for one devoid of a body (hīna-dehasya), O Lord! Deign to show favor (prasādaṃ kartum arhasi) for the attainment of another body (dehasyānyasya sadbhāve).”
 </details>
 </details>
 
@@ -242,6 +290,14 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 
 आग अमित तेजस्वी स्वयम्भू ब्रह्मदेवरु हेळिदरु - महायशस्वी द्विजश्रेष्ठने! नीनु मित्र मत्तु वरुणरु त्यजिसिद वीर्यदल्लि प्रविष्टनागु. अल्लिगॆ होगियू नीनु अयोनिजनागिये उत्पन्ननागि, महाधर्मदिन्द कूडिद पुत्ररूपदिन्द नन्न वंशदल्ले बरुवॆ. (नन्न पुत्रनाद कारण निनगॆ हिन्दिनन्तॆ प्रजापतिय पदवि प्राप्तवागुवुदु.॥9-10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Thereupon Brahmā, the Self-Existent of immeasurable effulgence (svayambhūr amitaprabhaḥ), spoke to him: “Enter the seed born of Mitra and Varuṇa (mitrāvaruṇajaṃ tejaḥ praviśa), O greatly renowned one (mahāyaśaḥ)!
+
+**10:** “Even there you shall become one not born of a womb (ayonijas tvaṃ bhavitā tatrāpi), O foremost of brahmins; endowed with great dharma (dharmeṇa mahatā yuktaḥ), you shall again come under my sway (punar eṣyasi me vaśam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -266,6 +322,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मदेवरु हीगॆ हेळिदाग अवर चरणगळिगॆ नमस्करिसि, अवरिगॆ प्रदक्षिणॆ बन्दु वायुरूपी वसिष्ठरु वरुणलोकक्कॆ तॆरळिदरु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the God (evam uktas tu devena), having saluted and circumambulated the Grandsire (abhivādya pradakṣiṇaṃ kṛtvā pitāmaham), he swiftly proceeded (tūrṇaṃ prayayau) to the abode of Varuṇa (varuṇālayam).
 </details>
 </details>
 
@@ -292,6 +354,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 
 आग मित्रदेवतॆयू वरुणन अधिकारवन्नु पालिसुत्तिद्दनु. अवनु वरुणनॊन्दिगॆ इद्दु समस्त देवतॆगळिन्द पूजितनागुत्तिद्दनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At that very time (tam eva kālam), Mitra too was exercising the office of Varuṇa (varuṇatvam akārayat), united with the Milk Ocean (kṣīrodena sahopetaḥ) and worshipped by the foremost gods (pūjyamānaḥ surottamaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -316,6 +384,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आगले अप्सरॆयरल्लि श्रेष्ठळाद ऊर्वशी सखियरॊन्दिगॆ अकस्मात् अल्लिगॆ बन्दळु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At that very moment (etasminn eva kāle tu), the foremost apsaras Urvaśī (urvaśī paramāpsarāḥ), surrounded by her female companions (sakhibhir vṛtā), came by chance (yadṛcchayā) to that very region (tam uddeśam āyayau).
 </details>
 </details>
 
@@ -342,6 +416,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 
 आ परम सुन्दरियु क्षीरसागरदल्लि स्नान माडि जलक्रीडॆयाडुत्तिरुवाग वरुणन मनस्सिनल्लि ऊर्वशिय कुरितु अत्यन्त उल्लास प्रकटवायितु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing her endowed with beauty (rūpa-sampannām) sporting in Varuṇa’s abode (krīḍantīṃ varuṇālaye), supreme delight entered Varuṇa (āviśat paramo harṣo varuṇam) on account of Urvaśī (urvaśī-kṛte).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -367,6 +447,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 
 अवनु अरळिद कमलदन्तॆ नेत्रवुळ्ळ, चन्द्रनन्तह मनोहर मुखवुळ्ळ, आ सुन्दरी अप्सरॆयन्नु समागमक्कागि आमन्त्रिसिदनु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That Varuṇa then wooed her (varayām āsa), that best of apsarases (apsaro-varām) whose eyes were like lotus petals (padma-palāśākṣīm) and whose face resembled the full moon (pūrṇa-candra-nibhānanām), for union (maithunāya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -391,6 +477,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग ऊर्वशियु कैमुगिदु वरुणनल्लि हेळिदळु - सुरेश्वर! साक्षात् मित्रदेवनु मॊदले नन्नन्नु वरण माडिकॊण्डिरुवनु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon she, standing with joined palms (prāñjaliḥ sthitā), replied to Varuṇa: “I have already been chosen directly by Mitra (mitreṇāhaṃ vṛtā sākṣāt pūrvam eva), O Lord of the gods (sureśvara)!”
 </details>
 </details>
 
@@ -421,6 +513,14 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 
 इदन्नु केळि वरुणनु कामपीडितनागि हेळिदनु-सुन्दररूप-बण्णवुळ्ळ सुन्दरि! नीनु नन्नॊन्दिगॆ समागमवन्नु बयसदिद्दरॆ, नानु निन्न बळियल्लिरुव ई देवनिर्मित कुम्भदल्लि नन्न वीर्यवन्नु त्यजिसुवॆनु, हीगॆ वीर्यत्यजिसिये सफलमनोरथनागुवॆ.॥17-18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** Stricken by the arrows of the god of love (kandarpa-śara-pīḍitaḥ), Varuṇa spoke these words: “I shall discharge this seed (idaṃ tejaḥ samutsrakṣye) into this divinely fashioned jar (kumbhe ’smin deva-nirmite)!
+
+**18:** “Discharging it thus in your presence, O fair-hipped one (evam utsṛjya suśroṇi tvayy aham), O lady of lovely complexion (vara-varṇini), I shall become fulfilled in my desire (kṛta-kāmo bhaviṣyāmi), if you do not desire union (yadi necchasi saṅgamam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -445,6 +545,12 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लोकनाथ वरुणन ई मातन्नु केळि ऊर्वशिगू बहळ सन्तोषवागि हेळिदळु .॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those gracious words (subhāṣitam) of Varuṇa, guardian of the world (lokapālasya), Urvaśī, exceedingly pleased (parama-prītā), spoke this reply:
 </details>
 </details>
 
@@ -474,6 +580,12 @@ _________________
 
 स्वामि! निम्म इच्छॆयन्तॆ हागॆये आगलि. नन्न मनस्सु विशेषवागि निम्मल्लि अनुरक्तवागिदॆ मत्तु निम्म अनुरागवू नन्नल्लि हॆच्चागिये इदॆ. अदक्कागि नीवु नन्न उद्देशदिन्द आ कुम्भदल्लि वीर्यादान माडिरि. ई शरीरदल्लादरो ईग मित्रन अधिकारविदॆ.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By all means let it be so (kāmam etad bhavatv evam)! My heart abides in you (hṛdayaṃ me tvayi sthitam), and my affection too is greater toward you (bhāvaś cāpy adhikas tubhyam), though my body belongs to Mitra, O Lord (deho mitrasya tu prabho)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -498,6 +610,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऊर्वशियु हीगॆ हेळिदाग वरुणनु प्रज्वलित अग्नियन्तह प्रकाश मानवाद तन्न अद्भुत तेज ‘वीर्य’वन्नु आ कुम्भदल्लि हाकिदनु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Urvaśī (urvaśyā evam uktas tu), he discharged into that jar (tasmin kumbhe hy apāsṛjat) that mighty, wondrous seed (retas tan mahad adbhutam), resembling a blazing tongue of fire (jvalad-agni-śikhā-prakhyam).
 </details>
 </details>
 
@@ -524,6 +642,12 @@ _________________
 
 अनन्तर ऊर्वशियु मित्रदेवरु इरुवल्लिगॆ होदळु. आग मित्रदेवतॆ कुपितनागि आ ऊर्वशियल्लि हीगॆ हेळिदनु.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urvaśī then went to where the god Mitra was (yatra mitro vai devatā); and approaching her closely (susaṅkramya), Mitra spoke thus to Urvaśī:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -548,6 +672,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दुराचारिणिये! मॊदलु नानु निन्नन्नु आमन्त्रिसिद्दॆ; हागिरुवाग नीनु नन्नन्नु एकॆ त्यजिसिदॆ? एकॆ इन्नॊब्ब पतियन्नु वरिसिदॆ.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Invited by me beforehand (mayā nimantritā pūrvam), why did you abandon me (kasmāt tvam avasarjitā) and choose another husband (patim anyaṃ vṛtavatī)? Therefore you are of wicked conduct (duṣṭa-cāriṇī)!
 </details>
 </details>
 
@@ -574,6 +704,12 @@ _________________
 
 निन्न ई पापदिन्दागि नन्न क्रोधदिन्द कलुषितळागि नीनु स्वल्पकाल मनुष्यलोकक्कॆ होगि वासिसु.॥23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through this misdeed (anena duṣkṛtena), sullied by my wrath (mat-krodha-kaluṣīkṛtā), repairing to the world of mortals (manuṣya-lokam āsthāya), you shall dwell there for some time (kañcit kālaṃ nivatsyasi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -598,6 +734,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दुर्बुद्धियवळे ! काशिदेशद अरसु बुधन पुत्र राजर्षि पुरूरवन बळिगॆ होगु; अवने निन्न पतियागुवनु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘The royal sage Purūravas, son of Budha and king of Kāśī (budhasya putro rājarṣiḥ kāśīrājaḥ purūravāḥ)—go to him today, O foolish one (tam adya gaccha durbuddhe); he shall become your husband (sa te bhartā bhaviṣyati)!’
 </details>
 </details>
 
@@ -627,6 +769,12 @@ _________________
 
 आग शापदोषदिन्द दूषितळागि प्रतिष्ठानपुरद बुधन औरस पुत्रनाद पुरूरवन बळिगॆ होदळु.॥26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon, through the fault of that curse (śāpa-doṣeṇa), she repaired to Purūravas (purūravasam abhyagāt), proceeding to Purūravas (pratiyāte purūravam), the legitimate son of Budha (budhasyātmajam aurasam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -652,6 +800,12 @@ _________________
 
 पुरूरवनु ऊर्वशिय गर्भदिन्द श्रीमान् आयु ऎम्ब महाबलि पुत्रनन्नु पडॆदनु. अवन पुत्रने इन्द्रतुल्य तेजस्वी महाराजा नहुषनागिद्दनु.॥27॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To him was then born a glorious, mighty son named Āyus (śrīmān āyuḥ putro mahābalaḥ), whose son in turn was Nahuṣa, equal to Indra in splendor (babhūvendra-samadyutiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -676,6 +830,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वृत्रासुरन मेलॆ वज्रप्रहार माडि देवेन्द्रनु ब्रह्महत्यॆय भयदिन्द अडगिद्दाग नहुषने ऒन्दुलक्ष वर्षगळवरॆगॆ इन्द्रपदवियल्लि प्रतिष्ठितनागि मूरु लोकगळन्नु आळिद्दनु.॥28॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—he by whom Indra’s sovereignty was governed for a hundred thousand years (śataṃ varṣa-sahasrāṇi yenendratvaṃ praśāsitam), when the Lord of heaven had wandered bewildered (bhrānte ’tha tridiveśvare) after hurling his thunderbolt at Vṛtra (vajram utsṛjya vṛtrāya).
 </details>
 </details>
 
@@ -721,6 +881,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऐवत्तारनॆय सर्ग पूर्णवायितु. ॥56॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus through that curse, Urvaśī of lovely teeth and fair eyes (cārudatī sunetrā) descended to the earth (jagāma bhūmim); the fair-browed one dwelt there for many years (bahūni varṣāṇy avasac ca subhrūḥ), and upon the waning of the curse (śāpa-kṣayāt) returned to the abode of Indra (indrasado yayau ca).”
 </details>
 </details>
 

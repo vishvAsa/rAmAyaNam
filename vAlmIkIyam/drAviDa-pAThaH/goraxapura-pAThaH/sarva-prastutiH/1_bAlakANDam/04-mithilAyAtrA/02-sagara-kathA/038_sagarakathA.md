@@ -73,6 +73,12 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
  namely sage Vishvamitra has further spoken this best sentence worded
  melodiously to Rama, the descendent of Kakutstha. [1-38-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having related to Rāma that narrative of sweet syllables (tāṃ kathāṃ madhurākṣarām), Kauśika (Viśvāmitra) once again spoke this further discourse (punar evāparaṃ vākyam) to Kākutstha:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +126,12 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 "Once there was a valiant and virtue-souled king of Ayodhya named Sagara,
  who is without offspring, as such he was longing for offspring. [1-38-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In days of yore, O hero (vīra), there was a righteous-souled monarch, a lord of men and sovereign of Ayodhyā (ayodhyādhipatiḥ), named Sagara (sagaro nāma dharmātmā); though longing for progeny (prajākāmaḥ), he was childless (sa cāprajaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,6 +172,12 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 "The daughter of King of Vidarbha, renowned by name Keshini, is the
  eldest wife of Sagara, and she was virtue-minded, and an advocate of
  truth. [1-38-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The daughter of the King of Vidarbha (vaidarbhaduhitā), O Rāma, known by the name of Keśinī (keśinī nāma nāmataḥ), was Sagara’s elder queen (jyeṣṭhā sagarapatnī)—most devoted to dharma and ever truthful in speech (dharmiṣṭhā satyavādinī).
 </details>
 </details>
 
@@ -208,6 +226,12 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 "The daughter of Arishtanemi, namely sage Kashyapa, and who is also
  the sister of Garuda, the Divine-Eagle-vehicle of Vishnu, is the second
  wife of Sagara, who is known by the name Sumati. [1-38-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the daughter of Ariṣṭanemi (Kaśyapa), who was the sister of Suparṇa (Garuḍa) (ariṣṭanemer duhitā suparṇabhaginī tu sā), was Sagara’s second queen, known by the name of Sumati (dvitīyā sagarasyāsīt patnī sumatisaṃjñitā).
 </details>
 </details>
 
@@ -262,6 +286,12 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 *The Mt. Brugu-prsravana is said to be among Himalayan range on which
  the kindness of Sage Bhrigu is ever- flowing.*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Accompanied by those two queens (tābhyāṃ saha patnībhyām), the great king repaired to the Himavān range and practiced austere penance (taptavāṃs tapaḥ) upon the mountain named Bhṛguprasravaṇa (bhṛguprasravaṇe girau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -304,6 +334,12 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
  is worshipped with asceticism, that sage who is a prominent one among
  the patrons of truth bestowed a boon to Sagara. [1-38-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, when a full hundred years had elapsed (atha varṣaśate pūrṇe), the sage Bhṛgu, foremost of the truthful (satyavatāṃ varaḥ), propitiated by that penance (tapasā ārādhito muniḥ), granted a boon to Sagara (sagarāya varaṃ prādāt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -345,6 +381,12 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 *" 'Oh, merited one, you will achieve very admirable progeny, and
  oh, best one among men, you will also acquire an unparalleled renown
  in the world. [1-38-7]*
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘You shall obtain a supreme abundance of progeny, O sinless one (apatyalābhaḥ sumahān bhaviṣyati tavānagha), and you shall attain peerless renown in the world, O bull among men (kīrtiṃ cāpratimāṃ loke prāpsyase puruṣarṣabha).
 </details>
 </details>
 
@@ -394,6 +436,12 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
  dear sire, and the other mothers sixty thousand sons.' Said Sage Bhrigu
  to Sagara. [1-38-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘One of your queens, O dear one (tāta), shall give birth to a single son who will perpetuate your dynasty (ekā janayitā putraṃ vaṃśakaraṃ tava); the other shall give birth to sixty thousand sons (ṣaṣṭiṃ putrasahasrāṇi aparā janayiṣyati).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -437,6 +485,12 @@ Highly gladdened are the daughters of kings of Vidarbha and Aristanemi,
  i.e., the queens of Sagara, and on making palm-fold in supplication
  at the sage who is speaking that way, and on gaining the grace of that
  sage they spoke to him. [1-38-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Propitiating that high-souled sage as he was speaking thus (bhāṣamāṇaṃ mahātmānaṃ prasādya tam), the two princesses (rājaputryau), filled with supreme delight and joining their hollowed palms in reverence (kṛtāñjalipuṭe), spoke to him then:
 </details>
 </details>
 
@@ -483,6 +537,12 @@ _________________
  begets numerous sons, we two wish to listen about that, oh, Brahman,
  let your word betide truth.' Thus, the queens of Sagara spoke to the
  sage. [1-38-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Whose shall be the single son, O Brāhmaṇa, and which of us shall give birth to the many (ekaḥ kasyāḥ suto brahman kā bahūñ janayiṣyati)? We both desire to hear this, O Brāhmaṇa; may your word come true (satyam astu vacas tava)!’
 </details>
 </details>
 
@@ -548,6 +608,14 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
  Who wants which boon from either of them?' Thus, the Sage gave them
  the option. [1-38-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “Hearing that speech of those two queens, the supremely righteous Bhṛgu (bhṛguḥ paramadhārmikaḥ) spoke these noble words: ‘Let your own free wish be exercised in this matter (svacchando ’tra vidhīyatām)!
+
+**12:** “‘Whether it be the single son who will perpetuate the dynasty (eko vaṃśakaro vāstu), or the many sons of great strength, renown, and high energy (bahavo vā mahābalāḥ kīrtimanto mahotsāhāḥ)—which of you desires which boon (kā vā kaṃ varam icchati)?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -590,6 +658,12 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
  dynasty, the first queen Keshini has chosen one son who enriches the
  dynasty in the presence of King Sagara. [1-38-13]]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing the sage’s words, O delight of the Raghus, Keśinī, O Rāma, accepted in the presence of the king (jagrāha nṛpasaṃnidhau) the single son who would perpetuate the dynasty (putraṃ vaṃśakaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -631,6 +705,12 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
 "Sumati, the sister of mighty-winged Garuda and the second queen of
  Sagara has then chosen sixty thousand sons with great enthusiasm and
  high reputation. [1-38-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And Sumati, the sister of Suparṇa (Garuḍa), then accepted for her sons the sixty thousand sons of high energy and great renown (ṣaṣṭiṃ putrasahasrāṇi mahotsāhān kīrtimato jagrāha sumatiḥ sutān).
 </details>
 </details>
 
@@ -680,6 +760,12 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
  oh, Raghu's scion, also on reverencing him head-bent, the king Sagara
  proceeded to his own city. [1-38-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having circumambulated the sage clockwise (pradakṣiṇam ṛṣiṃ kṛtvā) and bowed down to him with his head (śirasābhipraṇamya tam), the king returned to his own city accompanied by his two wives (jagāma svapuraṃ rājā sabhāryaḥ), O delight of the Raghus.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +811,12 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
 
 When the time rolled by then the elder wife Keshini gave birth to the
  son of Sagara who is reputed by the name Asamanja. [1-38-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, when the appointed time had passed (atha kāle gate), his elder queen Keśinī gave birth to a son of Sagara renowned by the name of Asamañja (jyeṣṭhā keśinī asamañja iti khyātaṃ sagarātmajaṃ putraṃ vyajāyata).
 </details>
 </details>
 
@@ -773,6 +865,12 @@ But the second queen Sumati on part, oh, tigerly-man Rama, verily
  breaking it up sixty thousand sons are issued forth from that cucumber
  like egg. [1-38-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And Sumati, O tiger among men, gave birth to a gourd-shaped mass of flesh (garbhatumbaṃ vyajāyata); upon the bursting open of that gourd (tumbabhedāt), sixty thousand sons came forth (ṣaṣṭiḥ putrasahasrāṇi viniḥsṛtāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -816,6 +914,12 @@ The childminders brought up those siblings in vessels filled with ghee,
  the clarified butter, and after a protracted time all of the children
  have attained youthfulness. [1-38-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Wet-nurses nurtured them in jars filled with clarified butter (ghṛtapūrṇeṣu kumbheṣu dhātryas tān samavardhayan), and after a long course of time all of them attained youthful manhood (kālena mahatā sarve yauvanaṃ pratipedire).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -855,6 +959,12 @@ The childminders brought up those siblings in vessels filled with ghee,
 
 After a long time the sixty thousand sons of king Sagara have become
  youthful, and handsome in their aspects. [1-38-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus after a long span of time (atha dīrgheṇa kālena), those sixty thousand sons of Sagara grew to be endowed with beauty and blooming youth (rūpayauvanaśālinaḥ sagarasyābhavaṃs tadā).
 </details>
 </details>
 
@@ -907,6 +1017,12 @@ But, oh, best one among men, oh, Rama, the elder son of the king Sagara,
  of River Sarayu, and on seeing the drowning children he used to enjoy
  with laughter. [1-38-20, 21a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Now that eldest son born of Sagara himself (sa ca jyeṣṭhaḥ sagarasyātmasaṃbhavaḥ), O foremost of men, used to seize the young children of the city and cast them into the waters of the Sarayū (bālān gṛhītvā tu jale sarayvā), O delight of the Raghus—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -953,6 +1069,12 @@ This way, when that son Asamanja is with sinister activity, a torturer
 This Asamanja appears to be the person from the first-generation of
  sadistic child abusers, prior to Kamsa of Bhagavata.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—and having hurled them in, he would laugh constantly as he watched them sink and drown (prakṣipya prāhasan nityaṃ majjatas tān nirīkṣya vai)! Of such sinful conduct was he, a tormentor of virtuous folk (evaṃ pāpasamācāraḥ sajjanapratibādhakaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -995,6 +1117,12 @@ But Asamanja's son is a valorous one, who by name is Anshuman, and who
  is an acceptable one for all people and who fondly converses with all.
  [1-38 -22b, 23a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because he was bent upon harming the citizens (paurāṇām ahite yuktaḥ), he was banished from the city by his own father (pitrā nirvāsitaḥ purāt). Now that Asamañja had a heroic son named Aṃśumān (tasya putro ’ṃśumān nāma asamañjasya vīryavān)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1035,6 +1163,12 @@ But Asamanja's son is a valorous one, who by name is Anshuman, and who
 "Oh, best one among men, Rama, then after along time a decided thought
  has occurred to king Sagara that, 'I shall perform a Vedic-ritual.'[1-38-23b,
  24a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—who was esteemed by the entire world and kindly spoken toward all (saṃmataḥ sarvalokasya sarvasyāpi priyaṃvadaḥ). Then, after a long course of time, a settled resolve arose in Sagara’s mind (tataḥ kālena mahatā matiḥ samabhijāyata)—
 </details>
 </details>
 
@@ -1093,6 +1227,12 @@ That king Sagara who is an expert in Vedic-procedures has then taken
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तॆण्टनॆय सर्ग पूर्णवायितु. ॥38॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—firmly determined, O foremost of men, ‘I shall perform a sacrifice’ (sagarasya naraśreṣṭha yajeyam iti niścitā). Having formed that resolution regarding the sacrificial rite, the king, well-versed in the Vedas and accompanied by his assembly of preceptors (sopādhyāyagaṇo vedajñaḥ), commenced the performance of the sacrifice (yajñakarmaṇi yaṣṭuṃ samupacakrame).”
 </details>
 </details>
 

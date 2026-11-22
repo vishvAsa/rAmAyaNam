@@ -71,6 +71,12 @@ Sage Vishwamitra's narration of Sagara's legend is continued. Sagara's
  Sagara's sons for they are effectuating the end of all beings." Vishvamitra
  thus continued his narration. [1-40-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing the words of the deities, the worshipful Grandfather Brahmā (bhagavān vai pitāmahaḥ) replied to those gods, who were utterly terrified and bewildered by the death-like might of Sagara’s sons (susaṃtrastān kṛtāntabalamohitān):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,6 +137,14 @@ The islands / continents on earth, *dviipa-s,* are 'jambu- plaksha
  continents. Some say the earth is having nine continents, yet some others
  prefer eighteen. However entire globe *bhuudevi* belongs to
  Vishnu as she is his another consort.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “‘That wise Lord Vāsudeva to whom this entire earth belongs (yasyeyaṃ vasudhā kṛtsnā vāsudevasya dhīmataḥ)—for this Earth is the royal consort of Mādhava (mahiṣī mādhavasyaiṣā)—that very Lord of supreme sovereignty (sa eva bhagavān prabhuḥ)—
+
+**3:** “‘—assuming the form of Sage Kapila, unceasingly sustains the earth (kāpilaṃ rūpam āsthāya dhārayaty aniśaṃ dharām); consumed by the fire of his wrath, the king’s sons shall perish (tasya kopāgninā dagdhā bhaviṣyanti nṛpātmajāḥ)!
 </details>
 </details>
 
@@ -196,6 +210,12 @@ This is the cosmic routine. Every day of Brahma is one *kalpa*
  such Indra-hood in some era, when Bali's sin is counted down, and when
  merit accrues.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Moreover, this cleaving of the earth has been foreseen from eternity as inevitable in every cosmic age (pṛthivyāś cāpi nirbhedo dṛṣṭa eva sanātanaḥ), and so too has the destruction of Sagara’s sons been foreseen by far-seeing sages (sagarasya ca putrāṇāṃ vināśo dīrghadarśinām).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -253,6 +273,12 @@ The gods that have come to appeal to Brahma are said to be thirty-three
  gods' *ashvinidvaya* twin brothers called 'ashvini-gods,' those
  that are mostly connected with the administration of earth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing the Grandfather’s words, the thirty-three gods, subduers of foes (trayastriṃśad ariṃdamāḥ devāḥ), filled with supreme joy (paramasaṃhṛṣṭāḥ), returned once more just as they had come (punar jagmur yathāgatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,6 +318,12 @@ The gods that have come to appeal to Brahma are said to be thirty-three
 
 When the sons of Sagara are digging the earth then there emerged an
  unbearable noise similar to the crashing of a thunder. [1-40-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As the earth was being cloven asunder (pṛthivyāṃ bhidyamānāyām), there arose from the sons of Sagara a tremendous uproar resembling the crash of a portentous thunderbolt (prādur āsīn mahāsvanaḥ nirghātasamanisvanaḥ).
 </details>
 </details>
 
@@ -343,6 +375,12 @@ _________________
 Then on hollowing the entire earth, and on making trips around her
  without finding the horse, all of the sons of Sagara have come together
  and on going to their father they spoke these words to him. [1-40-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, having dug up the entire earth and circumambulated it (tato bhittvā mahīṃ sarvāṃ kṛtvā cāpi pradakṣiṇam), all the sons of Sagara assembled together and spoke these words to their father (sahitāḥ sāgarāḥ sarve pitaraṃ vākyam abruvan):
 </details>
 </details>
 
@@ -404,6 +442,14 @@ Then on hollowing the entire earth, and on making trips around her
  a thought be given in this matter. Let safeness betide you.' So said
  those princes to their father Sagara. [1-40-8, 9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “‘The entire earth has been traversed by us, and mighty beings have been slain (parikrāntā mahī sarvā sattvavantaś ca sūditāḥ)—gods, Dānavas, and Rākṣasas, together with Piśācas, Uragas, and Pannagas (devadānavarakṣāṃsi piśācoragapannagāḥ)!
+
+**9:** “‘Yet we behold neither your sacrificial horse nor the abductor of the horse (na ca paśyāmahe ’śvaṃ te aśvahartāram eva ca)! What shall we do next? May auspiciousness attend you; let a plan of action be determined in this matter (kiṃ kariṣyāma bhadraṃ te buddhir atra vicāryatām)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -443,6 +489,12 @@ Then on hollowing the entire earth, and on making trips around her
 
 On hearing that sentence of his sons, oh, Rama, descendent of Raghu,
  that exalted king Sagara infuriately spoke these words. [1-40-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing that speech of his sons, O delight of the Raghus, the foremost of kings, Sagara, filled with wrath, spoke this command (samanyur abravīd vākyaṃ sagaro raghunandana):
 </details>
 </details>
 
@@ -486,6 +538,12 @@ On hearing that sentence of his sons, oh, Rama, descendent of Raghu,
  splitting open the surface of the earth you catch hold of the thief
  of the horse, and on achieving your purpose you may return to me.' In
  this way Sagara ordered his sons. [1-40-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Dig once again—may auspiciousness attend you—piercing right through the surface of the earth (bhūyaḥ khanata bhadraṃ vo vibhedya vasudhātalam)! Only when you have found the abductor of the horse and accomplished your purpose shall you return (aśvahartāram āsādya kṛtārthāś ca nivartata)!’
 </details>
 </details>
 
@@ -535,6 +593,12 @@ The last but one mantle of the earth from its crust to its inner core,
  atala, vitala, sutala, talaatala, rasaatala, paataala.*. These are
  not hells.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Receiving that command of their high-souled father Sagara (pitur vacanam āsādya sagarasya mahātmanaḥ), the sixty thousand sons rushed down toward the netherworld of Rasātala (ṣaṣṭiḥ putrasahasrāṇi rasātalam abhidravan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -576,6 +640,12 @@ The last but one mantle of the earth from its crust to its inner core,
 While digging the earth there they beheld a mountain similar easterly
  elephant named Viruupaaksha, which is bearing the eastern side of earth's
  surface on its head. [1-40-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, as that subterranean region was being excavated (khanyamāne tatas tasmin), they beheld the directional elephant Virūpākṣa, huge as a mountain, upholding the surface of the earth (dadṛśuḥ parvatopamaṃ diśāgajaṃ virūpākṣaṃ dhārayantaṃ mahītalam).
 </details>
 </details>
 
@@ -624,6 +694,12 @@ Oh, Rama, the legatee of Raghu, that great easterly elephant Viruupaaksha
  is bearing the entire eastern earth along with its mountains and forests
  on its head. [1-40-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The great elephant Virūpākṣa, O delight of the Raghus, bore upon his head the entire eastern expanse of the earth together with its mountains and forests (saparvatavanāṃ kṛtsnāṃ pṛthivīṃ dhārayām āsa śirasā virūpākṣo mahāgajaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -668,6 +744,12 @@ Oh, Rama, the legatee of Raghu, that great easterly elephant Viruupaaksha
 On certain occasions, oh, Rama of Kakutstha, when that great-elephant
  moves its head desiring respite in tiresomeness then earthquakes will
  occur on earth. [1-40-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whenever on sacred lunar parvan days, O Kākutstha, that great elephant shakes his head from fatigue to gain relief (yadā parvaṇi viśramārthaṃ mahāgajaḥ khedāc cālayate śīrṣam), then an earthquake occurs upon the earth (bhūmikampas tadā bhavet).
 </details>
 </details>
 
@@ -716,6 +798,12 @@ They circumambulated the great elephant in supplication, oh Rama, and
  on worshipping that elephant which is the protector of easterly direction
  they proceeded to netherworld duly splitting the earth. [1-40-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having circumambulated that great elephant, the guardian of the eastern quarter, clockwise (te taṃ pradakṣiṇaṃ kṛtvā diśāpālaṃ mahāgajam), and paying him due honor (mānayanto hi te rāma), they pierced through into Rasātala and proceeded onward (jagmur bhittvā rasātalam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -743,6 +831,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूर्वदिक्कन्नु भेदिसिद बळिक अवरु दक्षिणद दिक्कन्नु अगॆयलु तॊडगिदरु. दक्षिण दिक्किनल्लियू अवरिगॆ ऒन्दु महा दिग्गज कण्डुबन्तु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, having cloven the eastern quarter, they dug open the southern quarter in turn (tataḥ pūrvāṃ diśaṃ bhittvā dakṣiṇāṃ bibhiduḥ punaḥ); and in the southern quarter as well, they beheld a mighty elephant (dakṣiṇasyām api diśi dadṛśus te mahāgajam)—
 </details>
 </details>
 
@@ -794,6 +888,12 @@ After splitting the eastern direction then they split opened the southern
  character, namely Mahapadma, they went into an inordinate astonishment.
  [1-40-17, 18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—Mahāpadma of noble soul, resembling a gigantic mountain (mahāpadmaṃ mahātmānaṃ sumahatparvatopamam), upholding the earth upon his head; seeing him, they were struck with supreme wonder (śirasā dhārayantaṃ gāṃ vismayaṃ jagmur uttamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -834,6 +934,12 @@ After splitting the eastern direction then they split opened the southern
 On circumabulating that elephant Mahaapada in supplication, they the
  sixty thousand sons of great-souled Sagara scooped out the westerly
  direction. [1-40-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having circumambulated him clockwise (te taṃ pradakṣiṇaṃ kṛtvā), the sixty thousand sons of the high-souled Sagara cloven the western quarter (ṣaṣṭiḥ putrasahasrāṇi paścimāṃ bibhidur diśam).
 </details>
 </details>
 
@@ -876,6 +982,12 @@ On circumabulating that elephant Mahaapada in supplication, they the
 Even in the westerly direction those great mighty sons of Sagara beheld
  an infinite and mountain similar elephant of western direction, called
  Sumanasa. [1-40-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In the western quarter as well (paścimāyām api diśi), those princes of mighty strength beheld the mountain-like directional elephant named Saumanasa (mahāntam acalopamaṃ diśāgajaṃ saumanasaṃ dadṛśus te mahābalāḥ).
 </details>
 </details>
 
@@ -931,6 +1043,12 @@ Circumambulating that elephant namely Sumanasa in western side, and
  even on asking about its well-being, then they reached the northern
  direction duly digging the earth. [1-40-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having circumambulated him clockwise and inquired after his well-being (taṃ te pradakṣiṇaṃ kṛtvā pṛṣṭvā cāpi nirāmayam), they proceeded, digging as they went, toward the northern quarter presided over by Soma (khanantaḥ samupakrāntā diśaṃ somavatīṃ tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -974,6 +1092,12 @@ In the northern direction, oh, Rama, they beheld Bhadra, a snow-white
  elephant with an auspicious body bearing northern side of this earth.
  [1-40-22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In the northern quarter, O best of the Raghus, they beheld the snow-white directional elephant Bhadra (uttarasyāṃ raghuśreṣṭha dadṛśur himapāṇḍuraṃ bhadram), upholding this earth with his auspicious form (bhadreṇa vapuṣā dhārayantaṃ mahīm imām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1015,6 +1139,12 @@ In the northern direction, oh, Rama, they beheld Bhadra, a snow-white
 On touching that elephant reverently and also circumambulating it,
  those sixty thousands sons of Sagara further burrowed to the surface
  of the earth. [1-40-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having reverently touched him and circumambulated him clockwise (samālabhya tataḥ sarve kṛtvā cainaṃ pradakṣiṇam), all sixty thousand sons cloven the surface of the earth (ṣaṣṭiḥ putrasahasrāṇi bibhidur vasudhātalam).
 </details>
 </details>
 
@@ -1060,6 +1190,12 @@ The sons of Sagara have then gone to the auspicious northeast direction,
  iishaana-digbhaaga, Shiva-sthaana, and
  all those sons of Sagara have tunnelled the earth rancorously. [1-40-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, repairing to the celebrated northeastern quarter (tataḥ prāguttarāṃ gatvā sāgarāḥ prathitāṃ diśam), all the sons of Sagara furiously dug up the earth in wrath (roṣād abhyakhanan sarve pṛthivīṃ sagarātmajāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1084,6 +1220,12 @@ The sons of Sagara have then gone to the auspicious northeast direction,
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ईग महात्मराद, महाबलि हागू भयङ्कर वेगशालिगळाद राजकुमाररॆल्लरू अल्लि सनातन वासुदेव स्वरूपी भगवान् वासुदेव कपिलनन्नु नोडिदरु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There, all those high-souled princes of terrible speed and mighty strength (te tu sarve mahātmāno bhīmavegā mahābalāḥ) beheld the eternal Vāsudeva in the form of Sage Kapila (dadṛśuḥ kapilaṃ tatra vāsudevaṃ sanātanam)—
 </details>
 </details>
 
@@ -1132,6 +1274,12 @@ But all those great-souled and great-mighty ones with terrible dash
  the northeast, and oh, descendant of Raghu, they have also seen the
  ritual-horse moving nearby that sage Kapila, thus all of the sons of
  Sagara obtained a matchless delight. [1-40-25, 26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—and they beheld the sacrificial horse grazing not far from that divine sage (hayaṃ ca tasya devasya carantam avidūrataḥ); thereupon all of them attained peerless exultation, O delight of the Raghus (praharṣam atulaṃ prāptāḥ sarve te raghunandana).
 </details>
 </details>
 
@@ -1187,6 +1335,12 @@ The eyes of the princes are agitated in fury in construing the sage
  him wielding crowbars, ploughs, and various trees and boulders, and
  shouting at him, 'stay, stay.' [1-40-27, 28a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Deeming him to be the destroyer of their sacrifice (te taṃ yajñahanaṃ jñātvā), their eyes rolling with rage (krodhaparyākulekṣaṇāḥ), grasping spades and plowshares and brandishing various trees and boulders (khanitralāṅgaladharā nānāvṛkṣaśilādharāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1236,6 +1390,12 @@ You the malicious one, you have indeed stolen our ritual-horse, and
  in fact, you should know that we who arrived here are the sons of Sagara.'
  Thus Sagara's sons shouted at sage Kapila. [1-40-28b, 29a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—they rushed upon him in fury and shouted, ‘Stand! Stand!’ (abhyadhāvanta saṃkruddhās tiṣṭha tiṣṭheti cābruvan): ‘For it is you who have stolen our sacrificial steed (asmākaṃ tvaṃ hi turagaṃ yajñiyaṃ hṛtavān asi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1277,6 +1437,12 @@ You the malicious one, you have indeed stolen our ritual-horse, and
 On hearing their words, oh, Rama, the descendant of Raghu, then sage
  Kapila is beset with high wrath, and he boomed a 'hum' sound at them.
  [1-40-29b, 30a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O dull-witted one, know that we who have arrived here are the sons of Sagara (durmedhas tvaṃ hi saṃprāptān viddhi naḥ sagarātmajān)!’ Hearing those words of theirs, O delight of the Raghus, Kapila (śrutvā tad vacanaṃ teṣāṃ kapilo raghunandana)—
 </details>
 </details>
 
@@ -1331,6 +1497,12 @@ On hearing their words, oh, Rama, the descendant of Raghu, then sage
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तनॆय सर्ग पूर्णवायितु.॥40॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—filled with mighty wrath, uttered a single resonant huṃkāra syllable of fury then (roṣeṇa mahatāviṣṭo huṃkāram akarot tadā); and thereupon, by that high-souled Kapila of unfathomable majesty (tatas tenāprameyena kapilena mahātmanā), all those sons of Sagara, O Kākutstha, were reduced to heaps of ashes (bhasmarāśīkṛtāḥ sarve kākutstha sagarātmajāḥ)!”
 </details>
 </details>
 

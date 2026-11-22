@@ -39,6 +39,12 @@ _________________
 
 (अगस्त्यरु हेळुत्तारॆ - रघुनन्दन !) धनाध्यक्षनाद कुबेरनु तन्न कडॆय साविरारु यक्षरु भयगॊण्डु पलायन माडुत्तिरुवुदन्नु नोडि, मणिभद्रनॆम्ब महायक्षनल्लि हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding those yakṣa lords terrified in their thousands (tāṃl lakṣya vitrastān yakṣendrāṃś ca sahasraśaḥ), the Lord of Wealth [Kubera] (dhanādhyakṣaḥ) addressed the mighty yakṣa Māṇicara [Maṇibhadra] (mahāyakṣaṃ māṇicāram):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,6 +69,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यक्षश्रेष्ठने! पापात्मनाद दुराचारी रावणनन्नु नीनु कॊन्दु, युद्धदल्लि शोभितराद यक्षरिगॆ नीनु शरण्यनागि अवरन्नु रक्षिसु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Slay the wicked, evil-minded Rāvaṇa (rāvaṇaṃ jahi ... durvṛttaṃ pāpa-cetasam), O lord of yakṣas! Become the refuge of the heroic, battle-skilled yakṣas (śaraṇaṃ bhava vīrāṇāṃ yakṣāṇāṃ yuddha-śālinām)!”
 </details>
 </details>
 
@@ -92,6 +104,12 @@ _________________
 
 अत्यन्त दुर्जय वीरनाद महाबाहु मणिभद्रनु कुबेरन अप्पणॆ पडॆदु नाल्कुसाविर यक्ष सैन्यवन्नु जॊतॆगूडि महाद्वारक्कॆ बन्दु राक्षसरॊडनॆ युद्ध माडतॊडगिदनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus (evam uktaḥ), the mighty-armed, most invincible Maṇibhadra (mahābāhur māṇibhadraḥ sudurjayaḥ), surrounded by four thousand yakṣas (vṛto yakṣa-sahasrais tu caturbhiḥ), joined battle (samayodhayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +134,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग यक्षरु गदॆ, ऒनकॆ, प्रास, शक्ति, तोमर, मुद्गरगळिन्द प्रहार माडुत्ता राक्षसर मेलॆ मुगिबिद्दरु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Striking with maces, iron pestles, and darts (gadā-musala-prāsaiḥ), and with spears, javelins, and hammers (śakti-tomara-mudgaraiḥ), those yakṣas then rushed upon the rākṣasas (rākṣasān samupādravan).
 </details>
 </details>
 
@@ -142,6 +166,12 @@ _________________
 
 महाघोर युद्धमाडुत्तिद्द अवरु गिडुग पक्षियन्तॆ तीव्रगतियिन्द सञ्चरिसुत्ता, ‘ननगॆ युद्धद अवकाश कॊडु, नानु इल्लिन्द हिन्दॆगॆयलारॆ, ननगॆ नन्न आयुधवन्नु कॊडु’ ऎन्दु हेळुत्तिद्दरु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Waging a tumultuous battle (kurvantas tumulaṃ yuddham) and swooping as swiftly as hawks (carantaḥ śyenaval laghu), they shouted battle-cries: “Well struck! Give me combat! I will not yield! Let it be dealt!” (bāḍhaṃ prayaccha necchāmi dīyatām iti bhāṣiṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +197,12 @@ _________________
 
 आ तुमुलयुद्धवन्नु नोडि, देवतॆगळु, गन्धर्वरु, ब्रह्मवादि ऋषिगळु भारी आश्चर्यचकितरादरु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the gods together with the gandharvas (devāḥ sa-gandharvāḥ) and the Veda-chanting sages (ṛṣayo brahmavādinaḥ), beholding that tumultuous battle (dṛṣṭvā tat tumulaṃ yuddham), were filled with supreme astonishment (paraṃ vismayam āgaman).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -191,6 +227,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ रणरङ्गदल्लि प्रहस्तनु ऒन्दु साविर यक्षरन्नु संहरिसिदनु. मत्तॆ महोदरनु बेरॆ ऒन्दु साविर प्रशंसनीयराद यक्षरन्नु विनाशगॊळिसिदनु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet a thousand of the yakṣas (yakṣāṇāṃ ... sahasram) were slain in battle by Prahasta (prahastena nihataṃ raṇe), and another blameless thousand (anindyaṃ sahasram aparam) were cut down by Mahodara (mahodareṇa ... hatam).
 </details>
 </details>
 
@@ -220,6 +262,12 @@ _________________
 
 राजने! आग कुपितनाद रणोत्सुक मारीचनु कण्णुरॆप्पॆ हॊडॆयुवष्टरल्लि उळिद ऎरडु साविर यक्षरन्नु धराशायियागिसिदनु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And by the enraged Mārīca, eager for battle (kruddhena ... mārīcena yuyutsunā), O King [Rāma], two thousand were felled (dve sahasre nipātite) in the mere space of the twinkling of an eye (nimeṣāntara-mātreṇa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -244,6 +292,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पुरुषसिंहने! यक्षर ऋजुमार्गद युद्धवॆल्लि? राक्षसर मायामय सङ्ग्रामवॆल्लि? राक्षसरु मायाबलदिन्द यक्षरिगिन्त हॆच्चु शक्तिशालिगळागिद्दरु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What comparison is there, O tiger among men (puruṣavyāghra), between the straightforward warfare of the yakṣas (yakṣārjavaṃ yuddham) and the combat of the rākṣasas grounded in the power of illusion (māyā-balāśrayam rakṣasām)? For that reason they prevailed in battle (tena te ’bhyadhikā yudhi)!
 </details>
 </details>
 
@@ -273,6 +327,12 @@ _________________
 
 आ महासङ्ग्रामदल्लि धूम्राक्षनु बन्दु क्रोधदिन्द मणिभद्रन ऎदॆगॆ मुसलदिन्द प्रहरिसिदनु. आदरॆ इदरिन्द अवनु विचलितनागलिल्ल.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Encountering Dhūmrākṣa in that great battle (dhūmrākṣeṇa samāgamya ... mahāraṇe), Maṇibhadra was struck fiercely upon the chest with an iron pestle (musalenorasi krodhāt tāḍitaḥ), yet did not even waver (na ca kampitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -300,6 +360,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ मणिभद्रनू गदॆयन्नु तिरुवुत्ता राक्षस धूम्राक्षन तलॆगॆ हॊडॆदनु. अदर एटिनिन्द धूम्राक्षनु व्याकुलनागि नॆलक्कॆ बिद्दुबिट्टनु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, whirling his mace (gadāṃ samāvidhya), Maṇibhadra struck the rākṣasa Dhūmrākṣa upon the head (dhūmrākṣas tāḍito mūrdhni), and reeling in distress (vihvalaḥ), he collapsed to the earth (sa papāta ha).
 </details>
 </details>
 
@@ -329,6 +395,12 @@ _________________
 
 गदॆय एटिनिन्द गायगॊण्डु रक्तदिन्द तॊय्दु होगि नॆलक्कॆ बिद्दु ऒद्दाडुत्तिद्द धूम्राक्षनन्नु नोडि, दशमुख रावणनु युद्धदल्लि मणिभद्रनन्नु आक्रमिसिदनु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Dhūmrākṣa struck down (dhūmrākṣaṃ tāḍitaṃ dṛṣṭvā) and fallen, drenched in blood (patitaṃ śoṇitokṣitam), the ten-faced Rāvaṇa charged straight at Maṇibhadra in the fray (abhyadhāvata saṅgrāme māṇibhadraṃ daśānanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -357,6 +429,12 @@ _________________
 
 क्रोधगॊण्डु आक्रमिसुत्तिद्द रावणनन्नु नोडि यक्षश्रेष्ठ मणिभद्रनु अवन मेलॆ मूरु शक्तिगळिन्द प्रहार माडिदनु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the enraged ten-faced one rushed upon him (taṃ kruddham abhidhāvantam), Maṇibhadra, foremost of yakṣas (yakṣa-puṅgavaḥ), struck him with three spears (śaktibhis tāḍayāmāsa tisṛbhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,6 +462,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 एटुतिन्द रावणनु मणिभद्रन किरीटद मेलॆ प्रहरिसलु, अदरिन्द अवन मुकुट जारि पक्कक्कॆ वालिहोयितु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck thus (tāḍitaḥ), [Rāvaṇa] dealt a blow in battle upon Maṇibhadra’s diadem (māṇibhadrasya mukuṭe prāharad raṇe), and by that stroke of his (tena prahāreṇa), his diadem slipped awry to one side (mukuṭaṃ pārśvam āgatam).
 </details>
 </details>
 
@@ -416,6 +500,12 @@ _________________
 
 अन्दिनिन्द मणिभद्रयक्षनु पार्श्ववौलि ऎन्दु प्रसिद्धनादनु. मणिभद्रनू युद्धदिन्द ओडिहोदनु. राजने! अवनु युद्धदिन्द विमुखनादाग आ पर्वदल्लि राक्षसर सिंहगर्जनॆ ऎल्लॆडॆ तुम्बिहोयितु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Held fast in combat by him (saṃyudhyamānena viṣṭabdhaḥ), [Rāvaṇa] did not waver (na vyakampata); from that day onward, that yakṣa became renowned as Pārśvamauli [“Wry-Crowned”] (pārśvamaulir iti smṛtaḥ). Then, O King, a tremendous uproar arose upon that mountain (sannādaḥ sumahān ... tasmin śaile ’bhyavartata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -440,6 +530,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आगले धनाध्यक्ष गदाधारि कुबेरनु शुक्र मत्तु प्रौष्ठपद ऎम्ब मन्त्रिगळॊन्दिगॆ मत्तु शङ्ख, पद्मरॆम्ब धनद अधिष्ठातृ देवतॆगळॊन्दिगॆ बरुवुदु काणिसितु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon from afar appeared the Lord of Wealth [Kubera], mace in hand (dūrāt pradadṛśe dhanādhyakṣo gadādharaḥ), attended by Śukra and Prauṣṭhapada (śukra-prauṣṭhapadābhyām) and surrounded by the treasures Padma and Śaṅkha (padma-śaṅkha-samāvṛtaḥ).
 </details>
 </details>
 
@@ -466,6 +562,12 @@ _________________
 
 विश्रवा मुनिय शापदिन्द क्रूर प्रकृतियवनाद्दरिन्द, गुरु-हिरियरिगॆ वन्दिसुवुदागली, शिष्टाचारदिन्द वञ्चितनाद तम्मनाद रावणनन्नु नोडि धीमन्त कुबेरनु ब्रह्मदेवर कुलदल्लि हुट्टिद पुरुषनिगॆ योग्यवाद मातन्नु हेळिदनु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding his brother in battle (dṛṣṭvā bhrātaraṃ saṅkhye), stripped of all reverence [toward elders] by reason of his father’s curse (śāpād vibhraṣṭa-gauravam), that wise sovereign spoke words befitting the lineage of the Grandsire [Brahmā] (yuktaṃ paitāmahe kule):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -490,6 +592,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दुर्बुद्धि दशग्रीवने! कुत्सित कार्यवन्नु माडबेडवॆन्दु नानॆष्टु तडॆदरू नीनु अदन्नु अलक्षिसुत्तिरुवॆ. मुन्दॆ ई कॆट्टकर्मद फल पडॆदाग, नरकक्कॆ होदाग नन्न मातु निनगॆ तिळिदीतु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because you will not heed me even as I restrain you, O fool (yan mayā vāryamāṇas tvaṃ nāvagacchasi durmate), you shall comprehend it hereafter (paścād ... jñāsyase) when, reaping the fruit of this deed (asya phalaṃ prāpya), you have gone to hell (nirayaṃ gataḥ)!
 </details>
 </details>
 
@@ -516,6 +624,12 @@ _________________
 
 दुर्बुद्धिय मनुष्यनु मोहदिन्द विष कुडिदरू अदन्नु विषवॆन्दु तिळियुवुदिल्ल. अदर परिणाम प्राप्तवादाग अवनिगॆ तानु माडिद आ कर्मद फल तिळियुत्तदॆ.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For the fool who drinks poison out of delusion (yo hi mohād viṣaṃ pītvā) and perceives it not (nāvagacchati durmatiḥ), realizes the fruit of that act (jānīte karmaṇaḥ phalam) only at the end of its digestion (tasya pariṇāmānte)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -541,6 +655,12 @@ _________________
 
 निन्न यावुदे व्यवहार धर्मयुक्तवॆन्दु नीनु तिळिदिद्दरू अदरिन्द देवतॆगळु सन्तोष पडुवुदिल्ल. अदक्कागि नीनु इन्तह क्रूरभाववन्नु हॊन्दिरुवॆ. आदरॆ ई मातु निनगॆ अरिविगॆ बरुवुदिल्लवल्ल.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The gods no longer look kindly upon you for any righteous deed (devatā nābhinandanti dharma-yuktena kenacit); brought thereby to such a cruel state (yena tvam īdṛśaṃ bhāvaṃ nītaḥ san), you cannot comprehend [your peril] (nāvabuddhyase)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -565,6 +685,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तन्दॆ-तायि, ब्राह्मणरन्नु, आचार्यनन्नु अपमान माडुववनु यमराजनिगॆ वशनागि आ पापद फलवन्नु अनुभविसुत्तानॆ.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, whoever despises mother, father, and preceptor (mātaraṃ pitaraṃ yo hi ācāryaṃ cāvamanyate) beholds the bitter fruit thereof (paśyati phalaṃ tasya) when fallen under the sway of the Lord of the Dead [Yama] (pretarāja-vaśaṃ gataḥ)!
 </details>
 </details>
 
@@ -594,6 +720,12 @@ _________________
 
 क्षणभङ्गुरवाद ई शरीरवन्नु पडॆदु, तपस्सन्नु गळिसद मूर्खनु सत्त बळिक तन्न दुष्कर्मगळ फल सिक्किदाग पश्चात्तापपडुत्तानॆ.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For the deluded man who does not accumulate austerity (na karoti taporjanam) while dwelling in this impermanent body (adhruve hi śarīre) torments himself afterward (paścāt tapyate mūḍhaḥ) when, having died, he beholds his own destiny (mṛto dṛṣṭvātmano gatim)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -618,6 +750,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धर्मदिन्द राज्य, धन, सुखद प्राप्ति यागुत्तदॆ. अधर्मदिन्द केवल दुःखवे भोगिसबेकागुत्तदॆ; आद्दरिन्द सुखक्कागि धर्मवन्नु आचरिसु, पापवन्नु सर्वथा त्यजिसु.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From dharma spring sovereignty, wealth, and happiness (dharmād rājyaṃ dhanaṃ saukhyam), and from adharma comes sorrow alone (adharmād duḥkham eva ca); therefore, for the sake of happiness (sukhārthāya), one should practice dharma and cast off sin (kuryāt pāpaṃ visarjayet)!
 </details>
 </details>
 
@@ -644,6 +782,12 @@ _________________
 
 पापद फल केवल दुःखवागिदॆ, अदन्नु स्वतः इल्ले भोगिसबेकागुत्तदॆ. आद्दरिन्द पाप माडुव मूढनु स्वतः तन्नन्ने कॊन्दुकॊण्डन्तॆ आगिदॆ.॥24॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For the fruit of sin is suffering (pāpasya hi phalaṃ duḥkham), and that must be experienced by oneself (tad bhoktavyam ihātmanā); therefore only a fool commits sin for his own self-destruction (ātmāpaghātārthaṃ mūḍhaḥ pāpaṃ kariṣyati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -668,6 +812,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शुभ कर्मद अनुष्ठान, गुरुगळ सेवॆ माडदॆ दुर्बुद्धि पुरुषनिगॆ उत्तम बुद्धिय प्राप्तियागुवुदिल्ल. अवनु माडिद कर्मदन्तॆ फल अनुभविसुत्तानॆ.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, right understanding never arises merely at the whim of any foolish man (kasya cin na hi durbuddheś chandato jāyate matiḥ); destiny impels all things, and he who is struck down by fate is undone (daivaṃ ceṣṭayate sarvaṃ hato daivena hanyate)—whatsoever deed a man performs, a like fruit does he reap (yādṛśaṃ kurute karma tādṛśaṃ phalam aśnute)!
 </details>
 </details>
 
@@ -697,6 +847,12 @@ _________________
 
 जगत्तिनल्लि समृद्धि, सुन्दर रूप, बल, वैभव, शौर्य, पुत्रादिगळ प्राप्ति पुण्यकर्मगळ अनुष्ठानदिन्दले मनुष्यरिगॆ सिगुत्तदॆ.॥26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Intelligence, beauty, prosperous fruit, sons, valor, and steadfastness (buddhi-rūpaṃ phalaṃ putrān śauryaṃ dhīratvam eva ca)—men attain all of these in this world as rewards won by meritorious deeds (nirjitaṃ puṇya-karmabhiḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +881,12 @@ _________________
 
 हीगॆये निन्न दुष्कर्मदिन्दागि निनगू नरकक्कॆ होगबेकादीतु; एकॆन्दरॆ निन्न बुद्धि पापासक्तवागिदॆ. दुराचारिगळल्लि मातनाडबारदॆन्दु शास्त्रद निर्णयवागिदॆ. आद्दरिन्द नानू ईग निन्नल्लि याव मातन्नू आडुवुदिल्ल.॥27॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus you are bound for hell (evaṃ niraya-gāmī tvam), you whose mind is of such a bent (yasya te matir īdṛśī)! No longer shall I converse with you (na tvāṃ samabhibhāṣiṣye)—such indeed is the settled rule regarding men of wicked conduct (asadvṛtteṣv eva nirṇayaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -749,6 +911,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदे मातन्नु अवनु रावणन मन्त्रिगळल्लियू हेळिदनु. मत्तॆ अवर मेलॆ शस्त्रगळिन्द प्रहार माडिदनु. इदरिन्द गायगॊण्ड मारीचादि ऎल्ल राक्षसरु युद्धदिन्द ओडिहोदरु.॥28॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus and battered by him (evam uktās tatas tena ... samāhatāḥ), all of [Rāvaṇa’s] ministers headed by Mārīca (tasyāmātyāḥ ... mārīca-pramukhāḥ sarve) turned their backs and fled in rout (vimukhā vipradudruvuḥ).
 </details>
 </details>
 
@@ -775,6 +943,12 @@ _________________
 
 बळिक महात्मा यक्षराज कुबेरनु तन्न गदॆयिन्द रावणन मस्तकदल्लि प्रहरिसिदनु. अदरिन्द नोवादरू तन्न स्थळदिन्द विचलितनागलिल्ल.॥29॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Ten-necked Rāvaṇa (daśagrīvaḥ) was struck upon the head with a mace (gadayābhihato mūrdhni) by that high-souled Lord of Yakṣas (yakṣendreṇa mahātmanā), yet did not even stir from his stance (na ca sthānāt prakampitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -799,6 +973,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामा! अनन्तर कुबेर मत्तु रावण यक्ष-राक्षसरु युद्धदल्लि परस्पर प्रहार माडतॊडगिदरु; आदरॆ इब्बरल्लि यारू गाबरिपडॆदॆ, बळलुत्तिरलिल्ल.॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, O Rāma, striking one another in that mighty battle (nighnantau tadānyonyaṃ mahāmṛdhe), those two wrathful warriors (amarṣaṇau) grew neither shaken nor weary (na vihvalau na ca śrāntau babhūvatuḥ).
 </details>
 </details>
 
@@ -825,6 +1005,12 @@ _________________
 
 आग कुबेरनु रावणन मेलॆ आग्नेयासवन्नु प्रयोगिसिदनु. आदरॆ रावणनु अदन्नु वरुणास्त्रदिन्द शान्तगॊळिसिदनु.॥31॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Dhanada [Kubera] discharged the fiery weapon (āgneyam astraṃ ... mumoca) at him, and the lord of rākṣasas (rākṣasendraḥ) countered that missile with the watery weapon of Varuṇa (vāruṇena tad astraṃ pratyavārayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -850,6 +1036,12 @@ _________________
 
 राक्षसराजनु राक्षसी मायॆयन्नु आश्रयिसि कुबेरनन्नु नाश माडलु लक्षावधि रूपगळन्नु धरिसिदनु.॥32॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon that sovereign of rākṣasas (rākṣaseśvaraḥ) entered into rākṣasa illusion (māyāṃ praviṣṭo ’sau rākṣasīm) and conjured a hundred thousand forms (rūpāṇāṃ śata-sāhasram) for [his foe’s] destruction (vināśāya cakāra ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -874,6 +1066,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग दशमुखनु हुलि, हन्दि, मेघ, पर्वत, समुद्र, वृक्ष, यक्ष, दैत्य हीगॆ ऎल्ल रूपगळल्लि काणिसिकॊण्डनु.॥33॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Now as a tiger, a boar, a raincloud, a mountain, an ocean, a tree (vyāghro varāho jīmūtaḥ parvataḥ sāgaro drumaḥ), now as a yakṣa, and now in the likeness of a daitya (yakṣo daitya-svarūpī ca)—thus did Ten-faced Rāvaṇa appear (so ’dṛśyata daśānanaḥ).
 </details>
 </details>
 
@@ -902,6 +1100,12 @@ _________________
 
 हीगॆ अवनु अनेक रूपगळन्नु प्रकटपडिसुत्ता, अवनु अदृश्यनागिद्दनु. श्रीरामा! बळिक दशमुखनु ऒन्दु दॊड्ड गदॆयन्नॆत्ति तिरुगिसुत्ता कुबेरन तलॆगॆ हॊडॆदनु.॥34½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Many such forms did he keep conjuring (bahūni ca karoti sma); those [illusions] alone were visible, but never he himself (dṛśyante na tv asau tataḥ)! Then, O Rāma, taking up a mighty weapon (pratigṛhya ... mahad astram), Ten-faced Rāvaṇa—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -926,6 +1130,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई प्रकार रावणनिन्द आहतनाद धनाधिपति कुबेरनु रक्तदिन्द तॊय्दुहोगि बेरु कडिद वृक्षदन्तॆ नॆलक्कॆ उरुळिदनु.॥35½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+whirling a gigantic mace (vyāviddhya mahatīṃ gadām), struck Dhanada upon the head (jaghāna mūrdhni dhanadam). Struck down thus by him (evaṃ sa tenābhihataḥ), reeling and drenched in blood (vihvalaḥ śoṇitokṣitaḥ), the Lord of Wealth collapsed like an aśoka tree severed at its roots (kṛtta-mūla ivāśoko nipapāta).
 </details>
 </details>
 
@@ -952,6 +1162,12 @@ _________________
 
 अनन्तर पद्मादिनिधिगळ अधिष्ठातृ देवतॆगळु अवनन्नॆत्तिकॊण्डु नन्दनवनदल्लि उपचारगैदरु.॥36½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, surrounded by the divine Treasures headed by Padma (padmādibhis tatra nidhibhiḥ ... vṛtaḥ), that Lord of Wealth [Kubera] was borne away by them to the Nandana grove (vanam ānīya nandanam) and revived (dhanadocchvāsitas taiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -976,6 +1192,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ कुबेरनन्नु गॆद्दु राक्षसराज रावणनु मनस्सिनल्लि सन्तोषगॊण्डु, तन्न विजयद चिह्नॆयागि पुष्पक विमानवन्नु तन्न अधिकारदल्लि माडिकॊण्डनु.॥37½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having vanquished Dhanada (nirjitya ... taṃ dhanadam), the lord of rākṣasas, delighted at heart (hṛṣṭa-mānasaḥ), seized his aerial chariot Puṣpaka (puṣpakaṃ tasya jagrāha vimānam) as the emblem of his victory (jaya-lakṣaṇam)—
 </details>
 </details>
 
@@ -1005,6 +1227,12 @@ _________________
 
 आ विमानदल्लि चिन्नद कम्बगळु, वैढूर्यद बागिलुगळु इद्दु, सुत्तलू मुत्तिन जालरिगळिन्द मुच्चिहोगित्तु. अदरॊळगॆ ऎल्ल ऋतुगळल्लि फल कॊडुव वृक्षगळु नॆडल्पट्टित्तु.॥38½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+encircled with pillars of gold (kāñcana-stambha-saṃvītam), furnished with archways of cat’s-eye gems (vaiḍūrya-maṇi-toraṇam), draped with lattices of pearls (muktā-jāla-praticchannam), and graced with trees yielding every desired fruit (sarva-kāma-phala-drumam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1030,6 +1258,12 @@ _________________
 
 मनोवेगद अदु अदरल्लि कुळितिरुववर इच्छॆगनुसार ऎल्लॆडॆ सञ्चरिसुत्तित्तु. चालक हेळिदन्तॆ दॊड्ड-सण्ण रूप धरिसुत्तित्तु. आ आकाशचारी विमानदल्लि मणि मत्तु सुवर्णद मॆट्टलुगळु हागू वेदिकॆगळिद्दवु.॥39½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+swift as thought and moving at will (manojavaṃ kāmagamam), able to assume any form and coursing through the skies (kāmarūpaṃ vihaṅgamam), with stairways of jewels and gold (maṇi-kāñcana-sopānam) and raised platforms of burnished gold (tapta-kāñcana-vedikam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1054,6 +1288,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदु देवतॆगळ वाहनवागिद्दु, नोडलु सुन्दर मत्तु चित्तवन्नु प्रसन्नगॊळिसुत्तित्तु. अदरॊळगॆ अनेक रीतिय आश्चर्यकर चित्रगळिद्दवु. अदर गोडॆगळल्लि विध-विधद नक्षॆगळन्नु बिडिसिद्दरु. अदर विचित्र शोभॆ इत्तु. विश्वकर्मनु अदन्नु निर्मिसिद्दनु.॥40½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+fit to serve as the mount of the gods and imperishable (devopavāhyam akṣayyam), ever bringing delight to eye and mind (sadā-dṛṣṭi-manaḥ-sukham), filled with manifold marvels and exquisitely variegated in design (bahv-āścaryaṃ bhakti-citram), and fashioned by Brahmā [through Viśvakarman] (brahmaṇā parinirmitam),
 </details>
 </details>
 
@@ -1085,6 +1325,16 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदु ऎल्ल रीतिय मनोवाञ्छित वस्तुगळिन्द सम्पन्नवागि, मनोहर हागू परमोत्तमवागित्तु. हॆच्चु तम्पु, हॆच्चु बिसियागिरदॆ ऎल्ल ऋतुगळल्लि विश्रान्ति कॊडुव मङ्गलकारियागित्तु. तन्न पराक्रमदिन्द गॆद्दिरुव आ इच्छानुसार नडॆयुव विमानदल्लि आरूढनागि, अत्यन्त दुष्टबुद्धिय रावणन अहङ्कार हॆच्चि नानु मूरु लोकगळन्नु गॆद्दॆ ऎन्दु तिळियतॊडगिदनु. हीगॆ वैश्रवणनन्नु पराजितगॊळिसि कैलासदिन्द कॆळगिळिदनु.॥41-43॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** wrought with every desirable amenity (nirmitaṃ sarva-kāmaiḥ), enchanting and unsurpassed (manoharam anuttamam), neither too cold nor too hot (na tu śītaṃ na coṣṇaṃ ca), auspicious and comfortable in every season (sarvartu-sukhadaṃ śubham).
+
+**42:** Ascending that chariot moving at will and won by his prowess (taṃ ... samāruhya kāmagaṃ vīrya-nirjitam), that exceedingly foolish king, in the swelling of his arrogance (darpotsekāt sudurmatiḥ), deemed the three worlds already conquered (jitaṃ tribhuvanaṃ mene); and having defeated the god Vaiśravaṇa, he descended from Mount Kailāsa (kailāsāt samavātarat).
+
+**43:** Having won that vast victory by his own fiery might (svatejasā vipulam avāpya taṃ jayam), that majestic night-roamer (pratāpavān ... niśācaraḥ), radiant with spotless diadem and necklaces (vimala-kirīṭa-hāravān), shone resplendent seated upon that supreme aerial car (rarāja vai parama-vimānam āsthitaḥ), even like a fire blazing in an assembly hall (sadasi gato yathānalaḥ)!
 </details>
 </details>
 

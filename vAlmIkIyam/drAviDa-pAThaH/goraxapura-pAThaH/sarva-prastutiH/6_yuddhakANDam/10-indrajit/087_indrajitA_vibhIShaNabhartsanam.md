@@ -71,6 +71,12 @@ him who held a bow in his hand; *jagaama* = went; *jaata harShaH* = rejoiced;
 After speaking to him as aforesaid, Vibhishana taking Lakshmana, who held a bow in
 his hand, felt rejoiced and hastened away.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to the son of Sumitrā [Lakṣmaṇa], Vibhīṣaṇa, filled with joy (jāta-harṣaḥ), took him along as he held his bow in hand (dhanuṣ-pāṇim) and set out in haste.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +124,12 @@ pour oblations into the sacred fire.
 Moving not very distant from there and entering an extensive thicket, Vibhishana
 showed to Lakshmana, the place where Indrajit was going to pour oblations into the sacred fire.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having gone no great distance (avidūram) from there and entered the great grove [of Nikumbhilā], Vibhīṣaṇa pointed out that sacrificial ground (tat karma) to Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -156,6 +168,12 @@ banyan tree; *niilajiimuutasamkaasham* = looking like a black cloud.
 
 The glorious Vibhishana showed a terribly looking banyan tree, appearing like a
 blace cloud (and spoke as follows).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The resplendent brother of Rāvaṇa pointed out to Lakṣmaṇa the banyan tree (nyagrodham) of dreadful aspect (bhīma-darśanam), which resembled a dark storm-cloud (nīla-jīmūta-saṃkāśam).
 </details>
 </details>
 
@@ -203,6 +221,12 @@ battle; *pashchaat* = afterwards.
 "After offering oblations to the spirits at this place, the mighty Indrajit proceeds
 to the battle afterwards."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“After offering here the oblation to the elemental spirits (upahāraṃ bhūtānām), the mighty son of Rāvaṇa thereafter advances into battle (saṃgrāmam abhivartate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +266,12 @@ the beings; *nihanti* = kills; *shatruun* = the enemies; *samare* = in battle;
 
 "Thereupon, this demon becomes invisible to any one, kills some enemies in battle
 and binds some with his excellent arrows."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereby the rākṣasa becomes invisible to all beings (adṛśyaḥ sarva-bhūtānām); in battle he slays his foes and binds them with his foremost shafts (śarottamaiḥ).
 </details>
 </details>
 
@@ -293,6 +323,12 @@ banyan tree.
 "Destroy that mighty Indrajit, along with his chariot, horses and charioteer, by
 releasing your blazing arrows, even while he has not reached the banyan tree."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Before he enters that banyan tree (tam apraviṣṭaṃ nyagrodham), shatter that mighty son of Rāvaṇa with blazing arrows (śarair dīptaiḥ), together with his chariot, horses, and charioteer (sa-rathaṃ sāśva-sārathim)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -332,6 +368,12 @@ twanging his wonderful bow at full length.
 
 That greatly brilliant Lakshmana, a delight of his fiends, saying 'So be it' took
 his stand there, twanging his bow at full length.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saying “So be it!” (tatheti), the mighty-splendored son of Sumitrā, gladdener of his friends (mitra-nandanaḥ), stood ready there, twanging his wondrous bow (citraṃ visphārayan dhanuḥ).
 </details>
 </details>
 
@@ -377,6 +419,12 @@ colour of fire.
 That Indrajit, the son of Ravana, clad in armour, armed with a sword, and
 distinguished by his ensign, appeared in a fire-coloured chariot.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that mighty son of Rāvaṇa, Indrajit, came into view (pratyadṛśyata) in his fire-colored chariot (rathenāgni-varṇena), clad in armor, bearing a sword, and displaying his banner (kavacī khaḍgī sa-dhvajaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -418,6 +466,12 @@ inviting; *tvaam* = you; *samare* = for a fight; *prayachchha* = give;
 That highly splendid Lakshmana spoke to that Indrajit, the scion of Sage Paulastya,
 who had never been conquered before (as follows); "I am inviting you for a fight. Give battle to me
 in a right manner."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Possessed of great energy, [Lakṣmaṇa] spoke to that unconquered descendant of Pulastya (paulastyam aparājitam): “I challenge you in battle (samāhvaye tvāṃ samare); grant me a fair fight (samyag yuddhaṃ prayaccha me)!”
 </details>
 </details>
 
@@ -462,6 +516,12 @@ harsh; *vaakyam* = word.
 
 Thus spoken by Lakshmana, Indrajit with a great brilliance and high mindedness,
 seeing Vibhishana there, spoke the following harsh words to him:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus, the high-spirited (manasvī) and mighty-splendored son of Rāvaṇa, catching sight of Vibhīṣaṇa there, spoke harsh words (paruṣaṃ vākyam):
 </details>
 </details>
 
@@ -509,6 +569,12 @@ uncle; *mama* = to me; *katham* = how; *druhyati* = can you be hostile;
 
 "O demon! You are born and brought up here. You are a direct brother to my father
 and a paternal uncle to me. How can you be hostile to a son?
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You were born and raised right here (iha tvaṃ jāta-saṃvṛddhaḥ), and you are the own brother of my father (sākṣād bhrātā pitur mama)! How, O rākṣasa, being my paternal uncle (pitṛvyaḥ), do you plot malice against your brother's son (kathaṃ druhyasi putrasya)?
 </details>
 </details>
 
@@ -560,6 +626,12 @@ conduct.
 "O perverted fellow, an abuser of righteousness! Consanguinity is not a norm for
 you, nor friendliness, nor pride of birth, nor a brotherly feeling nor a right conduct."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither kinship (jñātitvam), nor friendship (sauhārdam), nor birth (jātiḥ) is an authority (pramāṇam) for you, O evil-minded one—nor brotherhood of the same womb (saudaryam), nor righteousness (dharmaḥ), O defiler of dharma (dharma-dūṣaṇa)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -600,6 +672,12 @@ you, nor friendliness, nor pride of birth, nor a brotherly feeling nor a right c
 
 "O evil-minded one! You are pitiable and deserve to be reproached by the virtuous,
 in that having abandoned your onw kind, you have entered into the service of our enemy."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are to be pitied (śocyas tvam asi), O crooked-minded one, and censured by the virtuous (nindanīyaś ca sādhubhiḥ), since you have abandoned your own kinsmen (sva-janam utsṛjya) and entered into servitude to strangers (para-bhṛtyatvam āgataḥ)!
 </details>
 </details>
 
@@ -642,6 +720,12 @@ paraashrayaH* = is taking refuge iwth low kind of enemies?
 "You are not recognizing the great difference because of your feeble mind. Where is
 living together with one's own kindred and where is taking refuge with low kind of enemies?
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With your feeble intellect (śithilayā buddhyā), you do not perceive this vast difference (mahad antaram): what comparison is there between dwelling with one's own people (sva-jana-saṃvāsaḥ) and, O base one, depending upon outsiders (parāśrayaḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -681,6 +765,12 @@ who is an enemy; *saH* = he; *para eva hi* = is indeed just an enemy.
 
 "Opponents may be virtuous. One's own kindred may not be virtuous. But, a relation,
 though bereft of merit is preferable. An enemy is, indeed, ever an enemy."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if a stranger be endowed with virtues (guṇavān vā para-janaḥ) and one's kinsman be devoid of virtues (sva-jano nirguṇo 'pi vā), a virtue-less kinsman is still superior (śreyān); he who is an outsider remains forever an outsider (yaḥ paraḥ para eva saḥ)!
 </details>
 </details>
 
@@ -729,6 +819,12 @@ destruction; *svapakShe* = of his own side; *hanyate* = would be killed;
 "He who, abandoning his own side, takes sides with adversary, is killed, after his
 own knsmen are destroyed just by those people of the other side."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who forsakes his own side (sva-pakṣaṃ parityajya) and serves the side of strangers (para-pakṣaṃ niṣevate) is afterward slain by those very strangers once his own side has been destroyed (sva-pakṣe kṣayaṃ yāte)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -775,6 +871,12 @@ be possible; *tvayam* = only by you; *svajanena* = our own kindred.
 "O Indrajit, the demon! The ruthlessness thus shown by you and the manliness
 exhibited by you (in bringing Lakshmana here) could be possible only by you, our own kindred."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And such pitilessness (niranukrośatā) as this of yours, O night-stalker—and such harshness (pauruṣam)—could be perpetrated only by you, a kinsman (sva-janena tvayā śakyam), O younger brother of Rāvaṇa!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -814,6 +916,12 @@ by his brother's son; *vibhiiShaNaH* = Vibhishana; *pratyuvaacha* = replied;
 
 Hearing the words of Indrajit, his brother's son, Vibhishana replied: "O demon! Why
 do you speak perversely, as though you are not aware of my nature."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by his brother's son (bhrātṛ-putreṇa), Vibhīṣaṇa replied: “Why do you boast so railingly (kiṃ rākṣasa vikatthase), O rākṣasa, as though ignorant of my character (ajānann iva mac-chīlam)?
 </details>
 </details>
 
@@ -867,6 +975,12 @@ goodness); *yaH prathamaH guNaH nR^iiNaam* = which is the prime virtue of human 
 harshness. Even if I am born in a demoniac race, which does cruel acts, my nature is goodness,
 which is prime virtue of human beings and it is not demoniacal."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O wicked son of the rākṣasa king (rākṣasendra-sutāsādho), abandon your harsh speech out of respect for your elder (pāruṣyaṃ tyaja gauravāt)! Even though I was born in the lineage of rākṣasas of cruel deeds (rakṣasāṃ krūra-karmaṇām), my character is non-demonic (tan me śīlam arākṣasam), which is the foremost virtue among men (guṇo yaḥ prathamo nṝṇām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -914,6 +1028,12 @@ different.
 "I neither delight in cruel acts, nor rejoice in unvirtuous acts. How can a brother
 be driven away by his brother, even if the former's nature is different?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I take no delight in cruelty (na rame dāruṇenāham), nor indeed do I delight in unrighteousness (nādharmeṇa vai rame). And how can a brother, even if of differing disposition (viṣama-śīlo 'pi), be cast out by his own brother (bhrātrā ... kathaṃ bhrātā nirasyate)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -960,6 +1080,12 @@ deviated; *dharmaat* = from righeousness; *avaapnoti* = one attains; *sukham*
 
 "Renouncing a man of sinful resolve hose conduct has deviated from righteousness,
 one attains happiness, as one shakes off a venomous serpent from his hand."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, by abandoning a man of sinful resolve (puruṣaṃ pāpa-niścayam) whose conduct has fallen away from dharma (dharmāt pracyuta-śīlam), one attains happiness, just as by flinging a venomous serpent from one's hand (hastād āśīviṣaṃ yathā)!
 </details>
 </details>
 
@@ -1011,6 +1137,12 @@ shunning; *prajvalitam veshmayathaa* = as one abandons a house in flames.
 property and lustfully touches another's wife, is worth shunning, as one abandons a house in
 flames."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The wise declare that a wicked-souled man bent on seizing others' wealth (para-sva-haraṇe yuktam) and violating others' wives (para-dārābhimarśakam) must be abandoned like a house on fire (veśma prajvalitaṃ yathā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1056,6 +1188,12 @@ and excessive distrust with one's friends.
 
 "Three faults produce destruction. Taking away other's property, lustfully touching
 another's wife and excessive distrust with one's friends."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Seizing the wealth of others, violating the wives of others, and harbouring excessive suspicion toward well-wishers (suhṛdām atiśaṅkā ca)—these three faults bring utter ruin (trayo doṣāḥ kṣayāvahāḥ).
 </details>
 </details>
 
@@ -1120,6 +1258,14 @@ waging war against all celestials, arrogance, becoming angry very easily, quarre
 have concealed the good qualities of my elder brother, as the clouds conceal the view of
 mountains."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** “The dreadful slaughter of great sages (maharṣīṇāṃ vadho ghoraḥ), war with all the gods (sarva-devaiś ca vigrahaḥ), arrogance, wrath, hostility, and perversity toward good counsel (abhimānaś ca roṣaś ca vairitvaṃ pratikūlatā)—
+
+**25:** —these faults of my brother, destructive of life and sovereignty (jīvitaiśvarya-nāśanāḥ), have eclipsed his virtues (guṇān pracchādayām āsuḥ) just as rain-clouds obscure the mountains (parvatān iva toyadāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1160,6 +1306,12 @@ pitaacha* = nor your father.
 
 "Because of these vices, Ravana, your father and my brother, has been abandoned by
 me. Neither will this City of Lanka will exist any longer nor you nor your father."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because of these very faults, your father, my brother, was forsaken by me (parityakto mayā bhrātā). Neither this city of Laṅkā, nor you, nor your father shall exist any longer (neyam asti purī laṅkā na ca tvaṃ na ca te pitā)!
 </details>
 </details>
 
@@ -1210,6 +1362,12 @@ arrogant; *baalashcha* = foolish; *durviniitashcha* = and indisciplined;
 "O demon! You can talk to me as you like, since you are arrogant, foolish,
 indisciplined and caught, as you are, in the noose of Death."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Overweeningly proud (atimānaḥ), childish (bālaḥ), and ill-disciplined (durvinītaḥ), O rākṣasa, you are bound by the noose of Death (baddhas tvaṃ kāla-pāśena); say to me whatever you wish (brūhi māṃ yad yad icchasi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1256,6 +1414,12 @@ about me; *adya* = today; *praaptam* = you got; *vyasanam* = a calamity;
 
 "O the worst of demons! You got this calamity here because you spoke harsh words to
 me today. You cannot reach the banyan-tree any longer."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because you spoke harshly to me, calamity has overtaken you here today (adyeha vyasanaṃ prāptam); you shall never succeed in entering the banyan tree (praveṣṭuṃ na tvayā śakyaṃ nyagrodham), O vilest of rākṣasas!
 </details>
 </details>
 
@@ -1312,6 +1476,12 @@ killed; *tvam* = you; *kariShyasi* = will do; *devataakaaryam* = sacred work;
 "It is not possible for you to survive, on attacking Lakshmana. You fight with
 Lakshmana, the lord of men, in the battle-field. After being killed, you will do sacred work in the
 abode of Yama, the god of Death."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having assailed Kakutstha's descendant (dharṣayitvā ca kākutstham), it is impossible for you to live! Fight in battle with Lakṣmaṇa, that lord of men; slain (hatas tvam), you shall accomplish the purpose of the gods in the abode of Yama (devatā-kāryaṃ kariṣyasi yama-kṣayam)!
 </details>
 </details>
 
@@ -1374,6 +1544,12 @@ today."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तेळनॆय सर्ग पूर्णवायितु.॥87॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Display your upraised might (nidarśayasvātma-balaṃ samudyatam) and expend all your weapons and shafts (sarvāyudha-sāyaka-vyayam)! For having once come within range of Lakṣmaṇa's arrows (lakṣmaṇasyāitya hi bāṇa-gocaram), you shall not depart alive today with your host (na ... tvam adya jīvan sa-balo gamiṣyasi)!”
 </details>
 </details>
 

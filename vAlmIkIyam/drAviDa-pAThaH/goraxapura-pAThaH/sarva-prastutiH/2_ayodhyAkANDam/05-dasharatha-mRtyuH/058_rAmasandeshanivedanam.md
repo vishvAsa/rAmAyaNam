@@ -71,6 +71,12 @@ kaaraNaat* = for the purpose of getting the report on Rama.
 Thereafter, the king when recovered from loss of consciousness and again returned to
 his breath, he called that charioteer for the purpose of getting the report on Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the king had recovered his breath (pratyāśvastaḥ) and returned once more from his swoon (mohāt pratyāgataḥ punaḥ), he summoned that charioteer in order to hear the tidings of Rāma (rāma-vṛttānta-kāraṇāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -95,6 +101,12 @@ his breath, he called that charioteer for the purpose of getting the report on R
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग सुमन्त्रनु श्रीरामन शोक, चिन्तॆयल्लि निरन्तर मुळुगिद, दुःखदिन्द व्याकुलनाद दशरथ महाराजर बळियल्लि कैमुगिदु निन्तुकॊण्डनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the charioteer, with joined palms (kṛtāñjaliḥ), approached the great king, who was grieving solely for Rāma (rāmam evānuśocantam) and was overwhelmed by sorrow and lamentation (duḥkha-śoka-samanvitam).
 </details>
 </details>
 
@@ -161,6 +173,14 @@ near him.
 The king, having great distress, spoke to Sumantra, whose body was covered with
 dust, his face filled with tears, who was miserable and who approached near him (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** Aged and sorely afflicted (vṛddhaṃ parama-santaptam), like a newly captured elephant (nava-graham iva dvipam), he was sighing heavily and brooding (viniśvasantaṃ dhyāyantam) like an ailing tusker (asvastham iva kuñjaram).
+
+**4:** In extreme distress (paramārtavat), the king spoke unto the wretched charioteer (dīnam), who stood before him with limbs covered in dust (rajasā dhvastāṅgam) and his face filled with tears (aśru-pūrṇa-mukham):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,6 +227,12 @@ raaghavaH* = that Rama; *atyanta sukhitaH* = who enjoyed very many comforts;
 
 "Oh, Sumantra! Where can Rama the virtuous man abide, taking refuge at the root of a
 tree? What that Rama, who enjoyed very many pleasantries, can eat now?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Where, indeed, will that righteous-souled prince dwell (kva nu vatsyati dharmātmā), resorting to the root of a tree (vṛkṣa-mūlam upāśritaḥ)? What, O charioteer, will Rāghava—who has ever known supreme comfort (atyanta-sukhitaḥ)—eat (kim aśiṣyati)?
 </details>
 </details>
 
@@ -257,6 +283,12 @@ paala aatmajo* = Rama the prince; *shayanochitaH* = who was habituated to good b
 "Oh, Sumantra! How can Rama the prince, who was habituated to good beds, sleep with
 such discomfort on a floor like an orphan?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Unaccustomed to hardship (duḥkhasyānucitaḥ) and worthy of royal couches (śayanocitaḥ), O Sumantra, how does the son of the protector of the earth (bhūmi-pālātmajaḥ) sleep miserably upon the bare ground like one who has no protector (katham anāthavat)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -304,6 +336,12 @@ forest?
 "Foot soldiers, Chariots and elephants used to follows whenever Rama was marching
 ahead. How such a man can take shelter and stay in a forest devoid of people?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How will that Rāma—whom foot-soldiers, chariots, and elephants (padāti-ratha-kuñjarāḥ) used to follow as he went forth (yāntam anuyānti sma)—dwell now, having resorted to a desolate forest (vijanaṃ vanam āśritaḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +388,12 @@ animals; *kR^iSNa sarpa niSevitam* = and haunted by black snakes?
 "How Seetha Rama and Lakshmana entered forest filled with wild animals and black
 snakes?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How have the two young princes, together with Vaidehī (vaidehyā sārdham), entered the forest frequented by savage beasts of prey (vyālair mṛgair ācaritam) and infested with black serpents (kṛṣṇa-sarpa-niṣevitam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -395,6 +439,12 @@ princes; *siitayaa saha* = with Seetha; *sukumaaryaa* = the delicate;
 
 "Oh, Sumantra! How those princes with Seetha the delicate and the poor lady went on
 foot, after descending from the chariot?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How, O Sumantra, did the two royal princes, having alighted from the chariot (avaruhya rathāt), go on foot (pādair gatau) together with Sītā, so delicate and devoted to austerity (su-kumāryā tapasvinyā)?
 </details>
 </details>
 
@@ -443,6 +493,12 @@ of Mandara mountain; *ashvinaav* = by the two divinities of Aswini; *tvam* = you
 "Oh, Sumantra! You have seen my sons entering the forest, as though divinities of
 Aswini had entered the Mountain-range of Mandara. You are indeed lucky."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fortunate indeed are you, O charioteer (siddhārthaḥ khalu sūta tvam), by whom my two sons were beheld entering the depths of the forest (vanāntaṃ praviśantau), like the twin Aśvins entering Mount Mandara (aśvināv iva mandaram)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -489,6 +545,12 @@ Rama; *uvaacha* = speak; *kim* = what did; *lakSmaNaH* = Lakshmana;
 
 "Oh, Sumantra! After reaching the forest, what words did Rama speak? What did
 Lakshmana speak? What did Seetha speak?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What words did Rāma speak, and what did Lakṣmaṇa say? And having reached the forest (vanam āsādya), O Sumantra, what did Maithilī say?
 </details>
 </details>
 
@@ -543,6 +605,12 @@ his lot with saints. He was accordingly sent down to a spot on the earth, where 
 Astaka Pratardana, Vasuman and King Sibi had been practicing austerities, and had discourse with
 them- Mahabharata, Adi Parva.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Recount to me, O charioteer, Rāma’s sitting, his sleeping, and his eating (āsitaṃ śayitaṃ bhuktam); by this alone shall I sustain my life (jīviṣyāmy aham etena), even as Yayāti lived on among the righteous (yayātir iva sādhuṣu).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -588,6 +656,12 @@ paribaddhayaa* = and choked with tears.
 
 As asked thus by the king, Sumantra spoke to the emperor in a voice quivering and
 choked with tears (as follows).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus urged by the lord of men (narendreṇa bodhitaḥ), that charioteer spoke unto the king with a voice that faltered (sajjamānayā) and was choked with tears (bāṣpa-paribaddhayā):
 </details>
 </details>
 
@@ -680,6 +754,16 @@ too.
 Oh, charioteer! Enquire about the health of all the people in the gynaeceum without
 any disparity and offer my appropriate salutations to them.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “O great king, steadfastly upholding righteousness alone (dharmam evānupālayan), Rāghava joined his palms in reverence (añjaliṃ kṛtvā), bowed low with his head (śirasābhipraṇamya ca), and spoke unto me:
+
+**15:** “‘O charioteer, in my name (mad-vacanāt) the two feet of that high-souled father of mine, who knows the Self (viditātmanaḥ) and is worthy of being saluted with the head (śirasā vandanīyasya), are to be reverently bowed to (vandyau).
+
+**16:** “‘All the women of the inner apartment (sarvam antaḥpuram), without distinction (aviśeṣeṇa), are to be addressed by you in my name with inquiries after their health (ārogyam) and with due salutation (yathārhaṃ cābhivādanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -746,6 +830,14 @@ Dasaratha; *devavat* = like with a god.
 sacrifices as per the prescribed timings in the House of Fire worship. Nurture the feet of the Lord
 Dasaratha, like with a god."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** “‘And my mother Kausalyā is to be addressed with inquiries after her welfare, with my salutation (kuśalaṃ cābhivādanam), and with a counsel of unflagging vigilance (apramādaṃ ca); and you should speak unto her this word:
+
+**18:** “‘“Ever steadfast in righteousness (dharma-nityā), be devoted at the appointed hours to the sanctuary of the sacred fires (yathā-kālam agny-agāra-parā bhava); and, O queen, tend the two feet of the king as though he were a god (deva-vat paripālaya)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -790,6 +882,12 @@ Dasaratha, like with a god."
 indignation. Make the venerable Kaikeyi, agreeable to the king."
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘“Casting aside self-conceit and wounded pride (abhimānaṃ ca mānaṃ ca tyaktvā), conduct yourself kindly toward my mothers (vartasva mātṛṣu); and, O mother, treat the noble Kaikeyī in accordance with the king’s wishes (anu rājānam āryāṃ ca kaikeyīm amba kāraya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -835,6 +933,12 @@ substance; *anusmara* = remember; *raajadharmam* = the rules; relating to kings.
 
 "In respect of Bharata your son, follow a respectable behaviour as with a king.
 Kings are indeed sovereign in substance. Remember the rules relating to kings."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘“Toward Prince Bharata, too, you must bear yourself as toward the king (vṛttir vartitavyā ca rājavat); for kings are supreme by virtue of royal authority (artha-jyeṣṭhā hi rājānaḥ)—remember the law of kings (rāja-dharmam anusmara)!”
 </details>
 </details>
 
@@ -883,6 +987,12 @@ Kings are indeed sovereign in substance. Remember the rules relating to kings."
 "Bharata is to be enquired about his well-being and he is also to be informed as
 follows: "Follow good behaviour indeed judiciously towards all your mothers."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Bharata is to be greeted with inquiries after his welfare, and is to be told in my name (vācyo mad-vacanena ca): “Conduct yourself with due propriety toward all our mothers without exception (sarvāsv eva yathā-nyāyaṃ vṛttiṃ vartasva mātṛṣu)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -928,6 +1038,12 @@ yauvaraajyasthaH = being installed in the office of prince Regent.
 "The mighty armed Bharata the son of Ikshvaku race, is to be told as follows: �Being
 installed in the office of Prince Regent, attend to your father who still stays in the
 throne'."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And that mighty-armed delighter of Ikṣvāku’s race (ikṣvāku-kula-nandanaḥ) is to be told: “Installed in the office of Prince Regent (yauvarājya-sthaḥ), attend upon and obey your father who abides upon the throne (pitaraṃ rājya-stham anupālaya)!
 </details>
 </details>
 
@@ -977,6 +1093,12 @@ king; *tvam* = of; *jiiva* = live; *kumaara raajye* = as a prince."
 
 "The king has crossed his age. But do not depose him on that score. By proceeding
 according to the orders of the king, you live as a prince."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘“The king is far advanced in years (atikrānta-vayā rājā); do not thwart or depose him (mā smainaṃ vyavarorudhaḥ)! Live, O prince, in the princely regency (kumāra-rājye jīva tvam) by carrying out his royal command alone (tasyaivājñā-pravartanāt)!”
 </details>
 </details>
 
@@ -1039,6 +1161,14 @@ thus; *maam* = to me; *bhR^isham* = amply; *avartata* = shed;
 "Oh, emperor! Rama of the most beautiful appearance with red eyes resembling red
 lotus flowers, while even uttering these words to me profusely shed tears."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** “And shedding tears profusely (bhṛśam aśrūṇi vartayan), he spoke to me yet again (abravīc cāpi māṃ bhūyaḥ): ‘My mother, so deeply devoted to her son (putra-gardhinī), is to be looked upon by you just like your own mother (māteva mama mātā te draṣṭavyā)!’
+
+**25:** “Even as he was speaking thus unto me, O great king (ity evaṃ māṃ mahārāja bruvann eva), glorious Rāma, whose eyes are coppery like the lotus (rājīva-tāmrākṣaḥ), shed tears profusely (bhṛśam aśrūṇy avartayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1084,6 +1214,12 @@ angry; *nishshvasan* = and breathing a sigh; *abraviit* = spoke; *vaakyam* =
 
 "But Lakshmana was very angry and breathing a sigh, spoke to me as follows: �On
 which offence this prince was expelled from home?'"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Lakṣmaṇa, however, filled with fierce wrath (su-saṅkruddhaḥ) and sighing heavily (niśśvasan), spoke these words: ‘For what offence has this royal prince been banished (kenāyam aparādhena rāja-putro vivāsitaḥ)?
 </details>
 </details>
 
@@ -1132,6 +1268,12 @@ as though it is a proper act; *yena* = by which; *vayam* = we; *abhipiiDitaH*
 "The king even took shelter under a wretched decree of Kaikeyi and performed an act
 not to be done, as though it is a proper deed, for which we are now tormented."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Relying out of levity of mind upon Kaikeyī’s command (kaikeyyā laghutvāśritya śāsanam), the king has done this deed—whether right or wrong (kṛtaṃ kāryam akāryaṃ vā)—whereby we have been sorely afflicted (vayaṃ yenābhipīḍitāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1177,6 +1319,12 @@ daana nimittam vaa* = or with the intention of giving boons; *raamaH* = Rama;
 
 "Even if this was done for the good pleasure of the king or through the will of God,
 I do not see any justification for Rama's abandonment."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Whether Rāma was sent into exile (yadi pravrājito rāmaḥ) as an act prompted by greed (lobha-kāraṇa-kāritam) or by reason of the granting of a boon (vara-dāna-nimittaṃ vā), in every way a grievous wrong has been committed (sarvathā duṣkṛtaṃ kṛtam)!
 </details>
 </details>
 
@@ -1224,6 +1372,12 @@ the will of god; *na upalakshhye* = I do not see; *hetum* = any justification;
 "Even if this was done for the good pleasure of the king or through the will of god,
 I do not see any justification for Rama's abandonment."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Grant that this was done at will for the sake of the lord or through destiny (idaṃ tāvad yathā-kāmam īśvarasya kṛte kṛtam); yet in the abandonment of Rāma I perceive no justifying cause whatever (rāmasya tu parityāge na hetum upalakṣaye)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1263,6 +1417,12 @@ reflection; *janayishhyati* = will raise; *samkrosham* = intensive anguish.
 
 "Rama's exile, an illegal decision undertaken whether due to levity of judgment or
 due to lack of reflection, will raise countless protests."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Undertaken without due reflection (asamīkṣya samārabdham) and contrary to righteousness through lightness of judgment (viruddhaṃ buddhi-lāghavāt), this banishment of Rāghava will surely beget widespread outcry and anguish (janayiṣyati saṅkrośam).
 </details>
 </details>
 
@@ -1309,6 +1469,12 @@ due to lack of reflection, will raise countless protests."
 
 "I do not consider the emperor as my father. For me, Rama is the brother, lord,
 relative and my father."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘For my part, I no longer recognize fatherhood in the great king (ahaṃ tāvan mahārāje pitṛtvaṃ nopalakṣaye); Rāghava alone is my brother, my lord and sustainer, my kinsman, and my father (bhrātā bhartā ca bandhuś ca pitā ca mama rāghavaḥ)!
 </details>
 </details>
 
@@ -1357,6 +1523,12 @@ act?
 "Leaving Rama the beloved of all people and who is interested in the welfare of all
 human beings, how would all these people would be interested in you by this act of yours?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Having abandoned him who is dear to the whole world (sarva-loka-priyaṃ tyaktvā) and ever devoted to the welfare of all beings (sarva-loka-hite ratam), how could the whole world feel affection for you through this deed (kathaṃ tvānena karmaṇā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1402,6 +1574,12 @@ virtuous; *virudhya* = and opposing; *imam sarva lokam* = all this entire world;
 
 "By banishing Rama who is delightful to entire people and who is a virtuous man and
 by opposing all this entire world, how will you stay as a king?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Having driven into exile righteous Rāma, the delight of all his subjects (sarva-prajābhirāmaṃ hi rāmaṃ pravrājya dhārmikam), and having antagonized this entire world (sarva-lokaṃ virudhyemam), how shall you remain king (kathaṃ rājā bhaviṣyasi)?’
 </details>
 </details>
 
@@ -1452,6 +1630,12 @@ own existence there; *viSThitaa* = stood motionless.
 "Oh, King! The wise Seetha for her part with her mind like one possessed and
 forgetting her own existence, stood sighing and static.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Jānakī, however, O great king—high-minded (manasvinī) and sighing heavily (niśśvasantī)—stood motionless and bewildered (viṣṭhitā vismṛtā sthitā), as though her mind were struck by an evil spirit (bhūtopahata-citteva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1498,6 +1682,12 @@ illustrious one; *adR^iSTa puurva vyasanaa* = having not seen such misfortune ea
 "The illustrious Seetha having not seen such misfortune earlier, could not even to
 speak me anything, weeping as she was with that uneasiness."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having never before experienced calamity (adṛṣṭa-pūrva-vyasanā), that illustrious princess (rājaputrī yaśasvinī), weeping from that grief (tena duḥkhena rudatī), spoke not a single word to me (naiva māṃ kiñcid abravīt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1542,6 +1732,12 @@ with emaciated; *mukhena* = face; *udviikSamaaNaa* = perceiving; *bhartaaram*
 
 "Seeing me going back, Seetha with emaciated face, perceiving her husband, soon shed
 down tears."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Looking up at her lord (udvīkṣamāṇā bhartāram) with a face that was parched and withered (mukhena pariśuṣyatā), she suddenly burst into tears (mumoca sahasā bāṣpam) upon beholding me setting out (māṃ prayāntam udīkṣya sā).
 </details>
 </details>
 
@@ -1608,5 +1804,11 @@ the royal chariot and me."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तॆण्टनॆय सर्ग पूर्णवायितु ॥58॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even so stood Rāma, his face wet with tears and his palms joined in salutation (aśru-mukhaḥ kṛtāñjaliḥ), supported by Lakṣmaṇa’s arm (lakṣmaṇa-bāhu-pālitaḥ); and even so stood austere Sītā, weeping (rudatī tapasvinī), gazing fixed upon the royal chariot and upon me (nirīkṣate rāja-rathaṃ tathaiva mām).”
 </details>
 </details>

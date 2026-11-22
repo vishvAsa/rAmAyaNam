@@ -36,6 +36,12 @@ title = "१०४ अवतार-समाप्ति-प्रर्थन�
 
 महाबली महान् सत्त्वशाली महाराजा! पितामह भगवान् ब्रह्मदेवरु याव उद्देशदिन्द नन्नन्नु इल्लि कळिसिरुवरो, यातक्कागि नानु बन्दिरुवॆनो, अदॆल्लवन्नु तिळिसुवॆनु; केळु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hear, O king of mighty spirit (rājan mahāsattva), the purpose for which I have come (yad-artham aham āgataḥ): I have been dispatched by the divine Grandfather [Brahmā] (pitāmahena devena preṣito ’smi), O mighty-strong one (mahābala)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "१०४ अवतार-समाप्ति-प्रर्थन�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शत्रुनगरगळन्नु जयिसुव वीरने! हिन्दॆ हिरण्यगर्भद उत्पत्तिय समय नानु मायॆय मूलक निन्निन्दले उत्पन्ननागिद्दॆ. अदक्कागि निम्म पुत्रने आगिद्देनॆ. नन्नन्नु सर्वसंहारकारी कालनॆन्दु हेळुत्तारॆ.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In your primordial state of being (pūrva-sadbhāve), I am your son, O conqueror of enemy cities (parapurañjaya), brought into existence through your māyā (māyā-sambhāvitaḥ), O hero—I am Time, the all-destroyer (kālaḥ sarva-samāharaḥ).
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "१०४ अवतार-समाप्ति-प्रर्थन�
 
 लोकनाथ प्रभु भगवान् पितामहनु ब्रह्मदेवरु हेळिदरु - ‘सौम्य! लोकगळन्नु रक्षिसलु नीनु माडिद प्रतिज्ञॆयु पूर्णगॊण्डिदॆ’.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The blessed Grandfather, Lord and Sovereign of the worlds (pitāmahaś ca bhagavān ... lokapatiḥ prabhuḥ), has spoken thus: ‘A pact was made by you, O gentle one (samayas te kṛtaḥ saumya), to protect the worlds completely (lokān samparirakṣitum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "१०४ अवतार-समाप्ति-प्रर्थन�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हिन्दॆ समस्त लोकगळन्नु मायॆय मूलक तन्नल्ले लीनगॊळिसिकॊण्डु नीनु समुद्रजलदल्लि शयन माडिद्दॆ. मत्तॆ ई सृष्टिय प्रारम्भदल्लि मॊट्ट मॊदलिगॆ नन्नन्नु सृष्टिसिदॆ.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Having withdrawn the worlds of old (saṅkṣipya hi purā lokān) by your māyā, by your own self alone (svayam eva hi), reclining upon the waters of the great ocean (mahārṇave śayāno ’psu), you first begot me (māṃ tvaṃ pūrvam ajījanaḥ).
 </details>
 </details>
 
@@ -145,6 +169,14 @@ _________________
 
 अनन्तर विशाल हॆडॆ मत्तु शरीरदिन्द कूडि जलदल्लि शयन माडुव अनन्त सञ्ज्ञक नागनन्नु मायॆयिन्द प्रकटगॊळिसि नीनु ऎरडु महाबलि जीविगळिगॆ जन्मनीडिदॆ. अवर हॆसरु मधु मत्तु कैटभ ऎन्दित्तु; इवर अस्ति समूहगळिन्द तुम्बिद ई पर्वतसहित पृथिवियु तत्काल प्रकटगॊण्डितु. अदु मेदिनी ऎन्दॆनिसितु.॥5-6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** “‘Then, having generated through your māyā the hooded serpent Ananta reclining upon the waters (bhogavantaṃ ... nāgam anantam udakeśayam), and also two beings of great might (dvau ca sattvau mahābalau)—
+
+**6:** “‘—both Madhu and Kaiṭabha (madhuṃ ca kaiṭabhaṃ caiva), with whose heaps of bones covered over (yayor asthi-cayair vṛtā), this earth crowded with mountains became Medinī (iyaṃ parvata-sambādhā medinī cābhavan mahī)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -173,6 +205,12 @@ _________________
 
 निन्न नाभियिन्द सूर्यनन्तह तेजस्वी दिव्य कमल प्रकटवायितु. अदरल्लि नीनु नन्नन्नु उत्पन्न माडिदॆ मत्तु प्रजॆयन्नु सृष्टिसुव कार्यवन्नु ननगॆ ऒप्पिसिदॆ.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘—having produced me as well (utpādya mām api) in a divine sun-radiant lotus upon your navel (padme divye ’rka-saṅkāśe nābhyām), all the work of creation (prājāpatyaṃ ... karma sarvam) was entrusted to me by you (mayi ... niveśitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -197,6 +235,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न मेलॆ ई भार इरिसिदाग नानु जगदीश्वरनाद निन्नन्नु उपासनॆ माडिदॆ. प्रभो! नीने समस्त प्राणिगळल्लि इद्दु अवन्नु रक्षिसु; एकॆन्दरॆ नीने ननगॆ ज्ञान-क्रियाशक्ति कॊट्टिरुववनु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘With that burden deposited upon me (sannyasta-bhāraḥ), I wait upon you, the Lord of the world (tvām upāse jagat-patim): maintain protection among living beings (rakṣāṃ vidhatsva bhūteṣu), for you are the bestower of my power (mama tejaskaro bhavān)!’
 </details>
 </details>
 
@@ -226,6 +270,12 @@ _________________
 
 आग नन्न विनन्तियन्नु स्वीकरिसि प्राणिगळ रक्षणॆगागि अप्रमेय सनातन पुरुषरूपदिन्द जदत्पालक विष्णुरूपदिन्द नीनु प्रकटगॊण्डॆ.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Thereupon you too, from that unassailable eternal state (durdharṣāt tasmād bhāvāt sanātanāt), for the protection of all beings (rakṣārthaṃ sarva-bhūtānām), entered into the state of Viṣṇu (viṣṇutvam upajagmivān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -253,6 +303,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ नीने अदितिय गर्भदिन्द परम पराक्रमि वामनरूपदिन्द अवतरिसिदॆ. आगिनिन्द नीनु तन्न सहोदरनाद इन्द्रादि देवतॆगळ शक्तियन्नु हॆच्चिसुत्ता, आवश्यकतॆ बिद्दाग अवर रक्षणॆगागि तॊडगिरुवॆ.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Born in Aditi as a valiant son (adityāṃ vīryavān putraḥ), enhancer of the prowess of your brothers (bhrātṝṇāṃ vīrya-vardhanaḥ), whenever crises arise (samutpanneṣu kṛtyeṣu), you stand ready for their aid (teṣāṃ sāhyāya kalpase).
 </details>
 </details>
 
@@ -282,6 +338,12 @@ _________________
 
 जगदीश्वर! रावणनिन्द प्रजॆय विनाशवाग तॊडगिदाग, नीनु आ निशाचरनन्नु वधिसुव इच्छॆयिन्द मनुष्य शरीरदल्लि अवतरिसलु निश्चय माडिदॆ.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘That very you, when creatures were being terrorized (vitrāsyamānāsu prajāsu), O foremost of the worlds (jagatāṃ vara), desiring the slaughter of Rāvaṇa (rāvaṇasya vadhākāṅkṣī), set your mind upon mortals (mānuṣeṣu mano ’dadhāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +369,12 @@ _________________
 
 स्वतः नीने हन्नॊन्दु साविर वर्षगळवरॆगॆ मर्त्यलोकदल्लि वासिसुव अवधि निश्चयिसिद्दॆ.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘—having fixed of old, by your very own self (svayam evātmanā purā), the appointed measure of your dwelling (vāsasya niyatim) at ten thousand years and ten hundred years besides (daśa varṣa-sahasrāṇi daśa varṣa-śatāni ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -331,6 +399,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरश्रेष्ठने! नीनु मनुष्यलोकदल्लि तन्न सङ्कल्पदिन्दले यारदो पुत्ररूपदिन्द प्रकटनागिरुवॆ. ई अवतारदल्लि नीनु निश्चयिसिद अवधि पूर्णवागिदॆ. आद्दरिन्द ईग निनगॆ नम्म लोकगळिगॆ बरुव समय बन्दिदॆ.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘You, that mind-born son (manomayaḥ putraḥ), have now fulfilled your lifespan here among mortals (pūrṇāyur mānuṣeṣv iha); this is the time for you, O best of men (kālo ’yaṃ te naraśreṣṭha), to draw near [to us] (samīpam upavartitum).
 </details>
 </details>
 
@@ -366,6 +440,14 @@ _________________
 
 वीर महाराजा! इन्नू हॆच्चु कालदवरॆगॆ इल्ले इद्दु प्रजॆगळन्नु पालिसुव इच्छॆ इद्दरॆ नीनु इरबल्लॆ. निनगॆ मङ्गळवागलि. रघुनन्दन! अथवा परमधामक्कॆ आगमिसुव विचारविद्दरॆ अवश्यवागि बन्दु बिडु. नीनु विष्णुवागि स्वधामदल्लि प्रतिष्ठितनाद मेलॆ समस्त देवतॆगळु सनाथरागि, निश्चिन्तरागुवरु; मुन्तागि पितामहरु हेळिरुवरु.॥14-15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “‘If you desire, O great king, to attend upon your subjects still longer (bhūyo ... prajā icchasy upāsitum), then dwell on, O hero—blessings be upon you (vasa vā vīra bhadraṃ te)! Thus has the Grandfather spoken (evam āha pitāmahaḥ).
+
+**15:** “‘Or if your desire is to attain the world of the gods (atha vā vijigīṣā te suralokāya), O Rāghava, let the deities, having Viṣṇu as their protector (sanāthā viṣṇunā devāḥ), become freed from all feverish care (bhavantu vigata-jvarāḥ)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -390,6 +472,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कालनु हेळिद पितामह ब्रह्मन सन्देशवन्नु केळि श्रीरघुनाथनु नगुत्ता आ सर्वसंहारकारी कालनल्लि हेळिदनु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard the words spoken by the Grandfather (pitāmahenoktaṃ vākyam) and delivered by Time (kāla-samīritam), Rāghava smiled (prahasan) and spoke these words to the All-Destroyer (sarva-saṃhāram abravīt):
 </details>
 </details>
 
@@ -416,6 +504,12 @@ _________________
 
 कालने! देवाधिदेव ब्रह्मदेवर ई परमाद्भुत मातन्नु केळलु सिक्कितु; अदक्कागि नीनु बन्दिरुवुद रिन्द ननगॆ बहळ प्रसन्नतॆ उण्टागिदॆ.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Upon hearing the exceedingly wondrous words of the God of gods (devadevasya vākyaṃ paramam adbhutam), great joy has indeed arisen in me (prītir hi mahatī jātā), born of your arrival (tavāgamana-sambhavā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -440,6 +534,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मूरु लोकगळ प्रयोजनद सिद्धिगागिये नन्न ई अवतारवागित्तु, आ उद्देश ईग पूर्णवायितु; अदक्कागि निनगॆ मङ्गळवागली. ईग नानु ऎल्लिन्द बन्दॆनो अल्लिगे होगुवॆनु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For the sake of the purpose of all three worlds (trayāṇām api lokānāṃ kāryārtham) is my manifestation (mama sambhavaḥ); blessings be upon you (bhadraṃ te ’stu)—I shall go to the very place whence I came (gamiṣyāmi yata evāham āgataḥ).
 </details>
 </details>
 
@@ -478,6 +578,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि नूरनाल्कनॆय सर्ग पूर्णवायितु. ॥104॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You have indeed arrived in exact accord with what was in my heart (hṛdgato hy asi samprāptaḥ), nor have I any hesitation therein (na me tatra vicāraṇā); for by me, in all undertakings of the gods who abide in my sway (sarva-kṛtyeṣu devānāṃ vaśavartinām), a firm stand must be taken (sthātavyam), O All-Destroyer, just as the Grandfather has spoken (yathā hy āha pitāmahaḥ).”
 </details>
 </details>
 

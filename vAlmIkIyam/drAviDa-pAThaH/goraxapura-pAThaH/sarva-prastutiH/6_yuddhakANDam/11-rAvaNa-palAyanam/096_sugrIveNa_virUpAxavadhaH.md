@@ -70,6 +70,12 @@ in that manner.
 The battle-field there, on its part, was strewn on that occasion with those monkeys
 whose bodies had thus been torn asunder by Ravana with his arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāvaṇa heard the piteous sound of lamentation (karuṇaṃ śabdaṃ paridevitam) of the afflicted rākṣasīs in household after household (kule kule) throughout Laṅkā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +121,12 @@ bear); *diiptam jvalanam* = a blazing fire.
 
 Those monkeys could not bear that irresistible descent of arrows loosed by Ravana,
 any more than moths would bear a blazing fire.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sighing deeply and long (dīrghaṃ viniḥśvasya) and remaining absorbed in thought for a moment (muhūrtaṃ dhyānam āsthitaḥ), Rāvaṇa of dreadful aspect became supremely enraged (parama-kruddhaḥ).
 </details>
 </details>
 
@@ -165,6 +177,12 @@ enveloped in flames of fire; *dahyamaanaaH* = and getting scorched.
 Those monkeys tormented by sharp arrows, fled away roaring, as elephants run away,
 when enveloped in flames of fire and getting scorched by them.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Biting his lip with his teeth (saṃdaśya daśanair oṣṭham), his eyes bloodshot with wrath (krodha-saṃrakta-locanaḥ), he became unendurable to behold even for rākṣasas (rākṣasair api durdarśaḥ), like the fire of universal dissolution incarnate (kālāgnir iva mūrtimān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -211,6 +229,12 @@ the wind; (blows away); *mahaabhraaNi* = large clouds.
 Ravana was marching forward swiftly in that battle-field, blowing away the army of
 monkeys, like the wind blows away large clouds.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His speech choked with rage (krodhāvyakta-kathaḥ), consuming them as it were with his gaze (nirdahann iva cakṣuṣā), the lord of rākṣasas spoke there to the rākṣasas standing near (samīpa-sthān):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -256,6 +280,12 @@ strength; *vanaukasaam* = the monkeys; *tato yuddhe* = in that battle;
 
 Having brought about with his might the destruction of those monkeys in battle,
 Ravana quickly approached Rama on the battle-field.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Speak quickly to Mahodara, Mahāpārśva, and the rākṣasa Virūpākṣa: ‘Let the armies march forth (sainyāni niryāta) at my command (mamājñayā)!’”
 </details>
 </details>
 
@@ -304,6 +334,12 @@ Ravana quickly approached Rama on the battle-field.
 Seeing those monkeys running away in defeat in that battle, Sugreeva kept Sushena in
 charge of his army and quickly threw his mind into the fight.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that command of his, those rākṣasas, tormented by fear (bhayārditāḥ), urged on (codayāmāsuḥ) those unhesitating rākṣasas at the king's command (nṛpājñayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +386,12 @@ sugriivaH* = that Sugreeva; *paadapaayudhaH* = armed witht he tree as a weapon;
 Keeping that Sushena who was equal to himself, his substitute, that Sugreeva, armed
 with the tree as a weapon, marched forward towards the enemy.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saying “So be it!” (tathety uktvā), all those rākṣasas of dreadful aspect, having performed auspicious rites (kṛta-svastyayanāḥ), went forth facing the battle (raṇābhimukhā yayuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -395,6 +437,12 @@ paarshrataH* = at his side; *pR^iShThatashcha* = and behind.
 
 Taking huge rocks and various kinds of trees, all the monkey-warriors followed
 Sugreeva at his side and behind.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having duly paid homage (pratipūjya yathā-nyāyam) to Rāvaṇa, all those great chariot-warriors (mahā-rathāḥ) stood with joined palms (prāñjalayaḥ), eager for their lord's victory (bhartur vijaya-kāṅkṣiṇaḥ).
 </details>
 </details>
 
@@ -455,6 +503,14 @@ agamaaniva* = as the grown-up trees; (are smashed); *vaayuH* = by the wind;
 The colossal bodied Sugreeva smashed the demons, as the grown-up trees are smashed
 by the wind at the time of dissolution of the world.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Then Rāvaṇa, convulsed with wrath (krodha-mūrcchitaḥ), laughed aloud (prahasya) and spoke to those [three]—Mahodara, Mahāpārśva, and the rākṣasa Virūpākṣa:
+
+**10:** “Today, with arrows loosed from my bow (bāṇair dhanur-muktaiḥ) resembling the sun at the end of an aeon (yugāntāditya-saṃnibhaiḥ), I shall dispatch Rāghava and Lakṣmaṇa to the abode of Yama (yama-sādanam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -501,6 +557,12 @@ birds; *kaanane* = in a forest.
 Sugreeva rained a hail of rocks on the army of demons, as a cloud rains a shower of
 hail-stones on a host of birds in a forest.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today, by slaying the foe (śatru-vadhāt), I shall exact vengeance (kariṣyāmi pratīkāram) for Khara, Kumbhakarṇa, Prahasta, and Indrajit as well!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -525,6 +587,12 @@ hail-stones on a host of birds in a forest.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वानरराजनु प्रयोगिसिद पर्वतगळ मळॆयिन्द राक्षसर तलॆगळु पुडियागि, कुसियुत्तिरुव पर्वतदन्तॆ धराशायिगळागुत्तिद्दरु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Neither the mid-space, nor the quarters, nor the sky, nor the oceans (nāpi sāgarāḥ) shall attain visibility (prakāśatvaṃ gamiṣyanti), enveloped by the clouds of my arrows (mad-bāṇa-jaladāvṛtāḥ)!”
 </details>
 </details>
 
@@ -576,6 +644,14 @@ roaring, get diminished in number from all sides, the indomitable Virupaksha the
 bow, pronouncing his name by himself, descended from his chariot and mounted the back of an
 elephant.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “Today, with my winged (patattriṇā) net of arrows (śara-jālena) and my bow, I shall slaughter those troops of the monkey chiefs division by division (bhāgaśaḥ)!
+
+**14:** Today, from my chariot swift as the wind (pavanaujasā), I shall churn (mathiṣyāmi) the monkey armies with billows of arrows (śarormibhiḥ) surging from the ocean of my bow (dhanuḥ-samudrād udbhūtaiḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -625,6 +701,12 @@ rushed; *vaanaraan* = towards the monkeys.
 That mighty Virupaksha, mounting that elephant, then roared a terrific noise and
 rushed towards the monkeys.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today, like an elephant (gajavat), I shall trample (pramathāmy aham) the troop-ponds (yūtha-taṭākāni) of [the monkeys] whose lustre is that of lotus filaments (padma-kesara-varcasām) and whose faces are full-blown lotuses (vyākośa-padma-vaktrāṇi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -672,6 +754,12 @@ up.
 Virupaksha released dreadful arrows on Sugreeva who was at the front-rank of the
 army. He strengthened his support to the worried demons, by cheering them up.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today in battle, the monkey troop-leaders (vānara-yūthapāḥ) shall adorn the earth (maṇḍayiṣyanti vasudhām) with their arrow-transfixed faces (saśarair vadanaiḥ), as if with lotuses upon their stalks (sanālair iva paṅkajaiḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -717,6 +805,12 @@ profuse anger; *dadhe manaH* = he set his mind; *asya vadhe* = on killing him.
 
 Sugreeva, the king of monkeys, when he was struck severely with sharp arrows by that
 demon, shouted loudly. With profuse anger, he set his mind on killing him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And today in battle, with a single loosed arrow (muktenaikeṣuṇā), I shall pierce (bhetsyāmi) a hundred at a time (śataṃ śatam) of the tree-fighting (druma-yodhinām) monkeys, fierce in their troops (yūtha-pracaṇḍānām)!
 </details>
 </details>
 
@@ -764,6 +858,12 @@ demon, shouted loudly. With profuse anger, he set his mind on killing him.
 Uplifting a tree and coming near that huge elephant, the valiant Sugreeva, a
 thorough fighter, struck it on its face.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those whose brother has been slain, and those whose son has been slain—today, by the slaying of the foe (vadhenādya ripoḥ), I shall wipe away their tears (karomy aśru-pramārjanam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -803,6 +903,12 @@ receded; *dhanurmaatram* = to a distance of four yards; *niShasaada* = sank down
 
 That huge elephant, struck with the blow of Sugreeva, receded to a distance of four
 yards, sank down and roared too.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today in battle, with monkeys cloven by my arrows (mad-bāṇa-nirbhinnaiḥ), strewn flat (prastīrṇaiḥ), and bereft of consciousness (gata-cetanaiḥ), I shall make the earth such that its surface can scarcely be glimpsed (yatnāvekṣya-talāṃ mahīm)!
 </details>
 </details>
 
@@ -861,6 +967,14 @@ Descending quickly from his wounded elephant, that valiant demon then seizing ho
 of his sword from a shield made of a bull's hide and advancing in rapid paces, facing towards
 Sugreeva his enemy, approached him, who stood firm, threatening him as it were.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** Today, crows (kākāḥ) and vultures (gṛdhrāḥ) and whatever other flesh-eaters (māṃsāśinaḥ) there be—I shall satiate (tarpayiṣyāmi) them all with the flesh of foes struck down by my arrows (śatru-māṃsaiḥ śarāhataiḥ)!
+
+**21:** Let my chariot be made ready (kalpyatām) quickly! Let my bow be brought (ānīyatām) swiftly! Let whatever night-roamers remain here (ye 'tra śiṣṭā niśācarāḥ) follow after me (anuprayāntu mām) in battle!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -907,6 +1021,12 @@ Sugreeva his enemy, approached him, who stood firm, threatening him as it were.
 Taking a huge rock, which looked like a cloud, that Sugreeva, who felt enraged,
 threw it on Virupaksha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of his, Mahāpārśva spoke this word to the troop-marshals (balādhyakṣān) standing there: “Let the army be hastened (balaṃ saṃtvaryatām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -946,6 +1066,12 @@ receding away; *praaharat* = struck (him); *khaDgena* = with a sword.
 
 Seeing that rock falling, that highly valiant and excellent of demons then receding
 away, struck him with a sword.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the troop-marshals, intent on their charge (saṃyuktāḥ) and swift in valor (laghu-parākramāḥ), went round Laṅkā (pariyayur laṅkām), urging on those rākṣasas in house after house (gṛhe gṛhe).
 </details>
 </details>
 
@@ -993,6 +1119,12 @@ the ground; *muhuurtam* = for a moment.
 Wounded by the blow of the sword of that strong demon, Sugreeva became as though
 unconscious on the ground, for a moment.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then within a moment (tato muhūrtāt), rākṣasas of dreadful aspect rushed forth (niṣpetuḥ), roaring (nadantaḥ), dreadful-faced, their arms bearing manifold weapons (nānā-praharaṇair bhujaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1032,6 +1164,12 @@ down; *raakShasasya vakShasi* = on the demon's chest; *vegena* = violently.
 
 Then, bouncing up suddenly in that great battle, Sugreeva, tightening his fist,
 brought it down on the demon's chest violently.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Bearing] swords (asibhiḥ), spears (paṭṭiśaiḥ), pikes (śūlaiḥ), maces (gadābhiḥ), clubs (musalaiḥ), ploughshares (halaiḥ), javelins with keen edges (śaktibhis tīkṣṇa-dhārābhiḥ), and huge concealed mallets (kūṭa-mudgaraiḥ),
 </details>
 </details>
 
@@ -1077,6 +1215,12 @@ from his feet.
 Feeling enraged, when struck by the blow of that fist, Virupaksha the demon brought
 down the armour of Sugreeva by his sword at the battle-front. Thus struck by him, Sugreeva fell
 down from his feet.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+staves (yaṣṭibhiḥ), manifold discuses (vividhaiś cakraiḥ), sharpened battle-axes (niśitaiś ca paraśvadhaiḥ), slings (bhindipālaiḥ), śataghnīs, and other excellent weapons (varāyudhaiḥ) as well—
 </details>
 </details>
 
@@ -1124,6 +1268,12 @@ kapiH* = that Sugreeva; *vyasarjayat* = gave; *tasya* = him;
 Getting up when fallen, Sugreeva gave him a slap, which produced a terrific sound
 similar to a thunder.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+then, at Rāvaṇa's command (rāvaṇājñayā), the four troop-marshals (balādhyakṣāś catvāraḥ) brought forth a full myriad of chariots (rathānāṃ niyutaṃ sāgram) and three myriads of elephants (nāgānāṃ niyuta-trayam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1170,6 +1320,12 @@ fist.
 
 Setting himself free from that slap, which was about to be raised by Sugreeva
 skillfully, Virupaksha the demon struck Sugreeva on the chest with his fist.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and sixty crores of steeds (aśvānāṃ ṣaṣṭi-koṭyaḥ), and likewise of asses and camels (kharoṣṭrāṇām), while uncounted foot-soldiers (padātayas tv asaṃkhyātāḥ) marched forth at the king's decree (rāja-śāsanāt).
 </details>
 </details>
 
@@ -1228,6 +1384,14 @@ temple-bone.
 
 That monkey saw an opportunity to strike that Virupaksha. Then, with anger, Sugreeva
 brought down another violent slap on his temple-bone.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** And when the troop-marshals had drawn up (saṃsthāpya) the king's army standing in the van (puraḥ-sthitām), in the meantime (etasminn antare) the charioteer (sūtaḥ) stationed that chariot—
+
+**30:** endowed with the choicest divine missiles (divyāstra-vara-sampannam), adorned with manifold ornaments (nānālaṃkāra-bhūṣitam), crowded with various weapons, and furnished with a net of little bells (kiṅkiṇī-jāla-saṃyutam).
 </details>
 </details>
 
@@ -1292,6 +1456,14 @@ spring.
 
 * Nine apertures of body are two eyes, two nostrils, two ears, mouth, penis and
 anus.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** —inlaid all around with manifold gems (nānā-ratna-parikṣiptam), resplendent with jewelled pillars (ratna-stambhair virājitam), and surrounded by a thousand jars wrought of Jāmbūnada gold (jāmbūnadamayaiś caiva sahasra-kalaśair vṛtam).
+
+**32:** Beholding that [chariot], all the rākṣasas went to supreme wonder (vismayaṃ paramaṃ gatāḥ); and beholding it, Rāvaṇa, the lord of rākṣasas, sprang up suddenly (sahasotthāya)—
 </details>
 </details>
 
@@ -1370,6 +1542,14 @@ from; *sphurantam* = as also throbbing; *paarshvena* = on his sides;
 The monkeys saw their enemy, bathed in blood, turning to and from as also throbbing
 on his sides and roaring piteously.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**33:** and swiftly mounted (āruroha) that dreadful chariot, which resembled a crore of suns (koṭi-sūrya-pratīkāśam) and blazed like a fire (jvalantam iva pāvakam), furnished with its charioteer, yoked with eight steeds (yuktāṣṭa-turagam), and shining with its own splendour (dīpyamānaṃ sva-tejasā).
+
+**34:** Then Rāvaṇa set forth suddenly (tataḥ prayātaḥ sahasā), surrounded by many rākṣasas, cleaving the earth as it were (dārayann iva medinīm) through the depth of his might (sattva-gāmbhīryāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1423,6 +1603,12 @@ large oceans; *bhinna setuu* = which had burst their bounds.
 Confronting together in the battle-field in that way, those two violent and terrific
 armies which were extensive as oceans, of monkeys and demons, roared like two large oceans which
 had burst their bounds.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And then there arose a mighty uproar of musical instruments (mahā-nādas tūryāṇām) on every side (tatas tataḥ), with mṛdaṅga drums, kettledrums (paṭahaiḥ), conchs (śaṅkhaiḥ), and the war-cries (kalahaiḥ) of the rākṣasas.
 </details>
 </details>
 
@@ -1487,6 +1673,12 @@ together looked like the agitated river of Ganga.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि तॊम्भत्तारनॆय सर्ग पूर्णवायितु.॥96॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The king of the rākṣasas has come (āgato rakṣasāṃ rājā), attended by umbrella and chowries (chatra-cāmara-saṃyutaḥ), the abductor of Sītā, of evil conduct, slayer of Brāhmaṇas (brahma-ghnaḥ), and thorn to the gods (deva-kaṇṭakaḥ), to fight with the best of the Raghus!”—such was the tumultuous cry (kalaha-dhvaniḥ) that was heard.
 </details>
 </details>
 

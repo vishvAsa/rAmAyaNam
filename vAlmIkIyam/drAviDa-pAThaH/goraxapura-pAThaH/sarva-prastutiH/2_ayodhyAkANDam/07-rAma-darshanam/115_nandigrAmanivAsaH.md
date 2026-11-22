@@ -72,6 +72,12 @@ elders (as follows):
 Having brought his mothers back to Ayodhya; Bharata, fixed in his resolve but sore
 stricken with grief, spoke to Vasishta and the elders (as follows)
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having settled his mothers in Ayodhyā, that prince of firm vow (tato nikṣipya mātṝḥ sa ayodhyāyāṃ dṛḍha-vrataḥ), Bharata, tormented by grief, spoke these words to his preceptors (bharataḥ śoka-santapto gurūn idam athābravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +124,12 @@ occasioned by Rama's absence."
 
 "I am going to Nandigrama village. I take leave of all of you. There, I shall be
 able to endure all this woe, occasioned by Rama's absence."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall go to Nandigrāma; I take leave of you all today (nandigrāmaṃ gamiṣyāmi sarvān āmantraye 'dya vaḥ). There I shall endure all this grief without Rāghava (tatra duḥkham idaṃ sarvaṃ sahiṣye rāghavaṃ vinā).
 </details>
 </details>
 
@@ -169,6 +181,12 @@ tot he kindom; *saH hi* = since verily he alone; *raajaa* = is the lord;
 "The king Dasaratha went to heaven. My elder brother is in the forest. I shall await
 for Rama to return to the kingdom; since verily he alone is the celebrated Lord of Ayodhya."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For the king has gone to heaven, and my revered elder brother abides in the forest (gataś ca hi divaṃ rājā vana-sthaś ca gurur mama); I await Rāma for the kingdom, for he of great renown is alone the king (rāmaṃ pratīkṣe rājyāya sa hi rājā mahā-yaśāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -216,6 +234,12 @@ follows):
 Hearing those auspicious words of the magnanimous Bharata, Vasishta the preceptor
 and all the ministers spoke as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing this auspicious speech of the high-souled Bharata (etac chrutvā śubhaṃ vākyaṃ bharatasya mahātmanaḥ), all the ministers and the family priest Vasiṣṭha spoke (abruvan mantriṇaḥ sarve vasiṣṭhaś ca purohitaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -262,6 +286,12 @@ along."
 
 "O, Bharata! The words which your have spoken by you in devotion to your brother are
 very much appreciable. It is worthy of you alone."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Exceedingly praiseworthy is the word that you have spoken out of fraternal affection, O Bharata (subhṛśaṃ ślāghanīyaṃ ca yad uktaṃ bharata tvayā vacanaṃ bhrātṛ-vātsalyāt); that is worthy of you alone (anurūpaṃ tavaiva tat).
 </details>
 </details>
 
@@ -311,6 +341,12 @@ path of elders.
 fascinated of your relative, always affectionate to your brother and devoted to the path of
 elders?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+What man would not approve the words of you who are ever devoted to your kinsmen (nityaṃ te bandhu-lubdhasya nānumanyeta kaḥ pumān), who abide steadfastly in affection for your brother, and who have betaken yourself to the path of the noble (tiṣṭhato bhrātṛ-sauhṛde ārya-mārgaṃ prapannasya)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -357,6 +393,12 @@ according to his wish; (Bharata); *abraviit* = spoke; *iti* = these; *vaakyam*
 
 Hearing the affectionate words of his counsellors, who spoke according to his wish,
 Bharata said to his charioteer, "Let my chariot be made ready!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the welcome speech of the ministers that accorded with his own heart’s wish (mantriṇāṃ vacanaṃ śrutvā yathābhilaṣitaṃ priyam), he spoke these words to his charioteer: “Let my chariot be yoked!” (abravīt sārathiṃ vākyaṃ ratho me yujyatām iti).
 </details>
 </details>
 
@@ -405,6 +447,12 @@ Shatrughna.
 The illustrious Bharata, looking pleased and having offered salutation to all his
 mothers, entered his chariot along with Shatrughna.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reverently saluted all his mothers with a gladdened countenance (prahṛṣṭa-vadanaḥ sarvā mātṝḥ samabhivādya saḥ), the glorious prince mounted his chariot accompanied by Śatrughna (āruroha rathaṃ śrīmān śatrughnena samanvitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -450,6 +498,12 @@ quickly; *param priitau* = and exceedingly rejoiced; *yayatuH* = set out;
 
 Both Shatrughna and Bharata, having quickly mounted the chariot and exceedingly
 rejoiced, set out, accompanied by ministers and family-priests.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting the chariot swiftly, both Śatrughna and Bharata (āruhya ca rathaṃ śīghraṃ śatrughna-bharatāv ubhau), supremely pleased, set forth surrounded by the ministers and family priests (yayatuḥ parama-prītau vṛtau mantri-purohitaiḥ).
 </details>
 </details>
 
@@ -501,6 +555,12 @@ eastward; *yataH* = in which direction; *nandigraamaH* = Nandigrama; *abhavat*
 All the preceptors there, headed by Vasishta and other brahmanas being in the
 forefront, proceeded eastward, in which direction Nandigrama village was situated.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In front, the preceptors and all the twice-born Brāhmaṇas headed by Vasiṣṭha (agrato guravas tatra vasiṣṭha-pramukhā dvijāḥ) proceeded facing eastward toward where Nandigrāma lay (prayayuḥ prāṅ-mukhāḥ sarve nandigrāmo yato 'bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,6 +607,12 @@ suit).
 
 When Bharata had left, the army too, abounding in elephants, horses and chariots
 marched unbidden. The residents of the city also followed suit.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Bharata set forth, that army thronged with elephants, horses, and chariots marched along unsummoned (balaṃ ca tad anāhūtaṃ gajāśva-ratha-saṅkulam prayayau bharate yāte), and so did all the citizens of the capital (sarve ca pura-vāsinaḥ).
 </details>
 </details>
 
@@ -598,6 +664,12 @@ remaining in the chariot; *tuurNam* = and quickly; *yayau* = set out;
 The magnanimous Bharata, affectionate of his brother, bearing the sandals belong to
 Rama on his head, set out for Nandigrama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing in his chariot, that righteous-souled Bharata, devoted to his brother (ratha-sthaḥ sa hi dharmātmā bharato bhrātṛ-vatsalaḥ), went swiftly to Nandigrāma, having placed the two sandals upon his head (nandigrāmaṃ yayau tūrṇaṃ śirasy ādhāya pāduke).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -644,6 +716,12 @@ preceptors.
 
 Thereafter, having entered Nandigrama briskly Bharata descended his chariot quickly
 and spoke to his preceptors as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having swiftly entered Nandigrāma, that Bharata (tatas tu bharataḥ kṣipraṃ nandigrāmaṃ praviśya saḥ) alighted quickly from his chariot and spoke these words to his preceptors (avatīrya rathāt tūrṇaṃ gurūn idam uvāca ha):
 </details>
 </details>
 
@@ -694,6 +772,12 @@ embellished with gold; *yogakSamavahe* = diffuse gain and security (to the peopl
 "My brother, Rama has given to me this kingdom as a trust. These sandals,
 embellished with gold diffuse gain and security to the people."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This kingdom was given to me by my brother himself like a sacred deposit in trust (etad rājyaṃ mama bhrātrā dattaṃ sannyāsavat svayam), and these two gold-adorned sandals are the bearers of its acquisition and preservation of welfare (yoga-kṣema-vahe ceme pāduke hema-bhūṣite).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -733,6 +817,12 @@ of his ministers; *duHkha samtapataH* = sore stricken with anguish; as he was.
 
 Having dedicated the sacred trust to the wooden sandals, Bharata sore-stricken with
 anguish, spoke to the entire body of his ministers as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reverently placed upon his head the two sandals that were that sacred trust (bharataḥ śirasā kṛtvā sannyāsaṃ pāduke tataḥ), Bharata, tormented by grief, addressed the entire assembly of his subjects (abravīd duḥkha-santaptaḥ sarvaṃ prakṛti-maṇḍalam):
 </details>
 </details>
 
@@ -782,6 +872,12 @@ these wooden sandals; *mama guroH* = of my brother; *dharmaH* = piety;
 as symbols of the feet of Rama, my noble brother. By the presence of these wooden sandals of my
 brother here, a piety has been established in the kingdom."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hold the royal umbrella swiftly over them, for these two are revered as the very feet of the noble one (chatraṃ dhārayata kṣipram ārya-pādāv imau matau)! By these two sandals of my revered elder brother, Dharma stands firm in the kingdom (ābhyāṃ rājye sthito dharmaḥ pādukābhyāṃ guror mama).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -829,6 +925,12 @@ Rama.
 "As a mark of compassion, this trust has been placed at my disposal, by my brother.
 There trust as such will be preserved till his return."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For this sacred deposit was entrusted to me by my brother out of affection (bhrātrā hi mayi sannyāso nikṣiptaḥ sauhṛdād ayam); I shall guard this trust until the return of Rāghava (tam imaṃ pālayiṣyāmi rāghavāgamanaṃ prati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -869,6 +971,12 @@ sandals.
 
 "Having restored these wooden sandals personally to Rama's feet immediately after
 his return, I shall behold those feet of Rama along with these sandals."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having swiftly placed them once again with my own hands upon Rāghava’s feet (kṣipraṃ saṃyojayitvā tu rāghavasya punaḥ svayam), I shall behold those two feet of Rāma shod with the sandals (caraṇau tau tu rāmasya drakṣyāmi saha-pādukau).
 </details>
 </details>
 
@@ -917,6 +1025,12 @@ kingdom; *gurave* = to my elder brother; *bhajiSye* = I shall assume;
 "Restoring the kingdom to my elder brother, when re-united with him and thereby
 laying down the burden, I shall then assume the role of a servant of my elder brother."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, reunited with Rāghava and relieved of my burden (tato nikṣipta-bhāro 'haṃ rāghaveṇa samāgataḥ), having restored the kingdom to my revered elder brother, I shall betake myself to humble service of my elder (nivedya gurave rājyaṃ bhajiṣye guru-vṛttitām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -962,6 +1076,12 @@ Rama; *bhavaamicha* = I shall become; *dhuuta paataH* = washed of all my sins.
 
 "By giving away these excellent wooden sandals, the symbols of trust, this kingdom,
 as well as the City of Ayodhya to Rama, I shall be washed of all my sins."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And having given back to Rāghava this sacred trust—these two excellent sandals (rāghavāya ca sannyāsaṃ dattveme vara-pāduke), this kingdom, and Ayodhyā—I shall be cleansed of all sin (rājyaṃ cedam ayodhyāṃ ca dhūta-pāpo bhavāmi ca).
 </details>
 </details>
 
@@ -1013,6 +1133,12 @@ kingdom.
 "Rama will be installed and his subjects made happy. It will be a four-fold more
 fame and happiness for me than that having obtained from the kingdom."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Kakutstha is consecrated and the people are thrilled and joyful (abhiṣikte tu kākutsthe prahṛṣṭa-mudite jane), my delight and my renown shall be fourfold greater than from ruling a kingdom (prītir mama yaśaś caiva bhaved rājyāc catur-guṇam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1060,6 +1186,12 @@ illustrious man; *diinaH* = (but) a distressed man; *vilapan* = lamenting;
 The highly illustrious Bharata though a distressed man, thus lamenting and pained,
 looked after the state administration along with his ministers from Nandigrama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting thus in wretchedness, that Bharata of great renown (evaṃ tu vilapan dīno bharataḥ sa mahā-yaśāḥ), stricken with grief, carried on the governance at Nandigrāma together with his ministers (nandigrāme 'karod rājyaṃ duḥkhito mantribhiḥ saha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1105,6 +1237,12 @@ dwelt; *nandigraame* = in Nandigrama; *sa sainyaH* = protected by the army.
 
 Assuming bark robes and matted locks in the guise of an ascetic, the lord and the
 hero Bharata dwelt in Nandigrama, protected by the army.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wearing bark-cloth and matted locks, clad in the guise of an ascetic (sa valkala-jaṭā-dhārī muni-veṣa-dharaḥ), the heroic lord Bharata dwelt then at Nandigrāma together with his army (prabhuḥ nandigrāme 'vasad vīraḥ sa-sainyo bharatas tadā).
 </details>
 </details>
 
@@ -1162,6 +1300,12 @@ Bharata, obedient to his elder brother, affectionate of his brothers and faithfu
 his vow, thus resided in Nandigrama, coronating the wooden sandals on the throne and wishing always
 for the return of Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awaiting the return of Rāma, Bharata—devoted to his brother (rāmāgamanam ākāṅkṣan bharato bhrātṛ-vatsalaḥ), obedient to his brother’s word, and fulfilling his vow to the very end (bhrātur vacana-kārī ca pratijñā-pāragas tathā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1209,6 +1353,12 @@ sandals)
 Reporting all the royal orders to the wooden sandals, Bharata was holding the royal
 canopy together with the chowrie to those sandals.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+consecrated the two sandals and dwelt then at Nandigrāma (pāduke tv abhiṣicyātha nandigrāme 'vasat tadā); and Bharata reported every royal command to the two sandals (bharataḥ śāsanaṃ sarvaṃ pādukābhyāṃ nyavedayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1248,6 +1398,12 @@ administration; *tadadhiinaH* = being subservient to them; *sarvadaa* = always.
 
 Coronating the wooden sandals of his elder brother, the illustrious Bharata
 thereafter carried out the state administration, always maintaining his subservience to them.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having consecrated the two sandals of the noble one, the glorious Bharata (tatas tu bharataḥ śrīmān abhiṣicyārya-pāduke), remaining ever subordinate to them, caused the governance of the kingdom to be carried out (tad-adhīnas tadā rājyaṃ kārayām āsa sarvadā).
 </details>
 </details>
 
@@ -1306,6 +1462,12 @@ the proper way afterwards.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर हदिनैदनॆय सर्ग पूर्णवायितु ॥115॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whatever affair of state arose then, or whatever costly tribute-gift was presented (tadā hi yat kāryam upaiti kiñcid upāyanaṃ copahṛtaṃ mahārham), Bharata first reported it to the two sandals and afterwards dealt with it in due order (sa pādukābhyāṃ prathamaṃ nivedya cakāra paścād bharato yathāvat).
 </details>
 </details>
 

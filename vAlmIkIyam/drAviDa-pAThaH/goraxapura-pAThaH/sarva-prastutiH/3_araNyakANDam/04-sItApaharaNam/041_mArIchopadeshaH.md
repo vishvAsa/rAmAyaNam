@@ -74,6 +74,12 @@ ordered; *[maariicaH* = Maareecha]; *raakSasa adhipam* = to demon's, king;
 When Ravana perversely ordered that way in all his kingliness, Maareecha spoke these
 words caustically and frankly to that king of demons. [3-41-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commanded thus harshly and imperiously like a king (pratikūlaṃ ca rājavat) by Rāvaṇa, Mārīca, free from fear (niḥśaṅkaḥ), spoke stern words (paruṣaṃ vākyam) to the lord of rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ karmaNaa* = by which, evil, doer; *upadiSTaH* = taught.
 
 "Oh, night-walker, by which evildoer this thought, which is self-ruinous to you,
 along with your progeny, kingdom and ministers put together, is taught to you? [3-41-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By what evil-doer (kena pāpa-karmaṇā), O night-roamer, was this destruction (vināśaḥ) counselled to you—bringing ruin upon your sons, your kingdom, and your ministers (saputrasya sarājyasya sāmātyasya)?
 </details>
 </details>
 
@@ -167,6 +179,12 @@ you, is taught [shown - door of death.]
 "Who is that reprobate unhappy with such a happy one like you, and oh, king, by whom
 this door of demise is ingeniously shown to you? [3-41-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What sinner, O king, cannot bear to see you prospering in happiness (tvayā sukhinā nābhinandati)? By whom was this gate of death (mṛtyu-dvāram) counselled to you under the guise of an expedient (upāyataḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -214,6 +232,12 @@ vyaktam* = it is very, clear.
 "It is very clear, oh, night-walker, that your rivals with skimpy might are aspiring
 that you should be completely ruined coming into conflict with more mighty Rama. [3-41-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Clearly, O night-roamer, your foes of inferior prowess (śatravas tava hīna-vīryāḥ) wish to see you perish, hemmed in by a far mightier adversary (uparuddhaṃ balīyasā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -260,6 +284,12 @@ that - scoundrel; *a hita buddhinaa* = not, helpful, intent -with a pernicious i
 
 "He who wishes you to get ruined by your undertaking a self-made destruction is a
 scoundrel with a pernicious intent, as such, by whom you are counselled to do this? [3-41-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By what vile, ill-disposed wretch (kṣudreṇāhita-buddhinā) was this counselled to you, O night-roamer—one who wishes to see you perishing through your own deed (svakṛtena)?
 </details>
 </details>
 
@@ -310,6 +340,12 @@ sentenced to death.
 self-ruination, hence they are indeed to be sentenced to death, but they are not being executed for
 their dereliction. [3-41-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely your ministers, O Rāvaṇa, deserve execution yet are not executed (vadhyāḥ khalu na vadhyante), since they do not restrain you in every way (sarvaśaḥ) when you have mounted upon a ruinous path (utpatham ārūḍham)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -357,6 +393,12 @@ being restrained.
 "Veracious ministers have to restrain a self-willed king when he relies on a
 wrong-route, isn't it. But you are unrestrained by your ministers though you are self-willed and
 though you are taking a wrong-route. [3-41-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For a king who acts wilfully (kāma-vṛttaḥ) and has taken to an evil path (kāpatham āśritaḥ) must by all means be restrained (nigrāhyaḥ) by virtuous ministers; yet though deserving of restraint, you are not restrained by them!
 </details>
 </details>
 
@@ -415,6 +457,12 @@ and *kiirti *is cross-country fame. For this, another ancient commentator Kulluk
 is *yashaH *and a dead person fame is *kiirti *Because Ravana is alive and Maareecha
 wishes him to be living, he used that chosen word.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through their master's grace (svāmi-prasādāt), O foremost of victors, O night-roamer, ministers attain dharma, wealth (artham), pleasure (kāmam), and renown (yaśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -461,6 +509,12 @@ praapnuvanti* = other, subjects of kingdom, distress, they derive.
 "Contrariwise, oh, Ravana, all that beneficence of the king to ministers becomes
 futile when the king behaves perversely, and even the others, namely the subjects of kingdom, will
 derive distress by the negative virtue of their master. [3-41-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In the event of the contrary (viparyaye tu), however, all that comes to naught (vyarthaṃ bhavati), O Rāvaṇa; through the ruler's vice (svāmi-vaiguṇyāt), other people too meet with calamity (vyasanam).
 </details>
 </details>
 
@@ -510,6 +564,12 @@ one; *dharmaH ca jayaH ca* = for probity, also, for victory [success, prosperity
 oh, best prosperous one, in all situations the kings are to be safeguarded from the ill effects of
 influences. [3-41-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For both dharma and renown have the king as their root (rāja-mūlaḥ), O foremost of victors; therefore, under all circumstances (sarvāsv avasthāsu), kings must be protected [from error].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -556,6 +616,12 @@ not, also, even.
 
 "It is impossible to govern kingdom, oh, demon, the night-walker, for a king with
 acridity, with hostility, or with immorality. [3-41-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A kingdom cannot be governed by one who is cruel (na tīkṣṇena), O night-roamer, nor by one who is hostile to his subjects (na cātipratikūlena), nor by one who lacks self-mastery (nāvinītena), O rākṣasa!
 </details>
 </details>
 
@@ -619,6 +685,12 @@ all mythological scriptures states that: 'In wise men there will be lots of good
 stupid persons too will be with as many qualities, but they are bad in nature. So it is better to nominate
 one wise man than a thousand stupid persons as minister.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Those ministers who offer harsh counsels (ye tīkṣṇa-mantrāḥ sacivāḥ) perish along with that [king], like chariots with foolish charioteers (manda-sārathayaḥ) [crashing] swiftly on rugged ground (viṣameṣu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -664,6 +736,12 @@ kinsmen; *vi naSTaaH* = completely, ruined.
 
 "In the world many saintly beings that are high-minded and pursuers of ethicality
 are completely ruined together with their kinsmen owing to the misdeeds of others. [3-41-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Many righteous men in the world (bahavaḥ sādhavo loke), steadfastly practising fitting dharma (yukta-dharmam anuṣṭhitāḥ), have perished along with their dependents (saparicchadāḥ) through the offence of others (pareṣām aparādhena).
 </details>
 </details>
 
@@ -711,6 +789,12 @@ vardhante* = will not, flourish.
 "Oh, Ravana, the subjects do not flourish while a lord with contrariety and
 coerciveness safeguards them, just like goats guarded by a fox. [3-41-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Subjects guarded by a hostile and cruel master (svāminā pratikūlena tīkṣṇena), O Rāvaṇa, do not prosper (na vardhante), like sheep guarded by a jackal (meṣā gomāyunā yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -757,6 +841,12 @@ vinashiSyanti* = definitely, will completely ruin.
 
 "All those demons will definitely ruin, oh, Ravana, to whom you are the acrimonious
 and malicious king with unconquered senses, though you have conquered the heaven. [3-41-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All the rākṣasas, O Rāvaṇa, shall certainly perish (avaśyaṃ vinaśiṣyanti), having you—harsh (karkaśaḥ), evil-minded (durbuddhiḥ), and of unsubdued senses (ajitendriyaḥ)—as their king!
 </details>
 </details>
 
@@ -816,6 +906,12 @@ fox by the swoop of the crow, and then the misery of that fox is unexplainable. 
 swoop of crow, fall of fruit are all at a time and thus none can blame the other. This syndrome is
 named for such fortuitous happenings.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This dreadful calamity has befallen me unexpectedly, like the palm-fruit falling upon the crow (kāka-tālīyam); in this matter, it is you who are to be pitied (śocanīyo 'si), for you shall perish with your army!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -873,6 +969,12 @@ Ravana; *raamaat api
 martavyam - martavyam raavaNaat api | ubhayod api martavye - varam raamat na raavaNaat | nR^isimha
 puraaNa - *but yet he is trying to divert Ravana from self-ruination.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having slain me, that Rāma will before long (acirāt) slay you! By this I have fulfilled my life's purpose (anena kṛta-kṛtyo 'smi), even if I die slain by an enemy (mriye cāpy ariṇā hataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -918,6 +1020,12 @@ viddhi* = as killed, you know thus.
 
 "Know that I am killed just when Rama notices me, and know that you are also killed
 along with your kinsmen just when you steal Seetha. [3-41-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Count me as dead (hataṃ mām avadhāraya) from the very moment I am seen by Rāma (darśanād eva rāmasya); and know yourself too, together with your kinsmen (sabāndhavam), as dead once you have abducted Sītā!
 </details>
 </details>
 
@@ -966,6 +1074,12 @@ there;
 "If you are going to bring Seetha from their hermitage on going there with me, then
 you will not be there, I will not be there, Lanka will not be there, the demons will not be there.
 [3-41-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If you carry off Sītā from the hermitage with my help (sahito mayā), neither you, nor I, nor Laṅkā, nor the rākṣasas shall exist any longer!
 </details>
 </details>
 
@@ -1033,6 +1147,12 @@ corpses and a corpse cannot take in the expedient spoken by considerate confidan
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि नलवत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥41॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Though restrained by me who wish you well (mayā hitaiṣiṇā), O night-roamer, you do not brook these words of mine (na mṛṣyase vākyam idam); for men whose life-span is spent (gatāyuṣo narāḥ) and who are as good as dead (pareta-kalpāḥ) do not accept salutary counsel spoken by their friends.”
 </details>
 </details>
 

@@ -72,6 +72,12 @@ et al]; *dadarsha* = she saw.
 Vaidehi has not seen any rescuer while she is abducted, but she has seen five
 prominent vanara-s staying on a mountaintop. [3-54-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While being carried away (hriyamāṇā tu), Vaidehī, beholding no protector (kaṃcin nātham apaśyatī), saw five foremost monkeys (pañca vānara-puṅgavān) standing upon a mountain peak (giri-śṛṅga-sthān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -174,6 +180,14 @@ biceps-let, one anklet with tinkling bells - all from her right side - because s
 ornaments/items worn on left-side to husband is held improper. The anklet that has fallen from her
 leg on earth, in earlier chapters, is from her left leg.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** In their midst (teṣāṃ madhye), the wide-eyed lady (viśālākṣī) of fair hips (varārohā) [bundled] her golden-hued (kanaka-prabham) silken upper garment (kauśeyam uttarīyam) and her auspicious ornaments (śubhāny ābharaṇāni ca)—
+
+**3:** —and cast [them] down (mumoca), thinking, “Should they report [this] to Rāma (yadi rāmāya śaṃseyur iti)!” Having slipped off that garment (vastram utsṛjya), that noble lady (bhāminī) [dropped it], flung down (nikṣiptam) together with her jewels (saha-bhūṣaṇam) in their midst (tan-madhye).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,6 +251,12 @@ the hand of Vali. Hence, they remained silent spectators to save themselves. Thi
 did not indicate the way Seetha in which was abducted by 'some' demon, to Rama, in Kishkindha, when
 they firstly met.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Out of flurry (sambhramāt tu), Daśagrīva did not notice that act (tat karma ca na buddhavān). With seemingly unblinking eyes (netrair animiṣair iva), the tawny-eyed [monkeys] (piṅgākṣāḥ) [gazed upon] that wide-eyed lady (tāṃ viśālākṣīm)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,6 +310,12 @@ frontward, expecting any attack from anywhere, as this Dandaka or Janasthaana ar
 operation but not the areas of his stronghold. And when once these areas are crossed reaching
 Pampa, there is no more self-confessed fear.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—those foremost of monkeys (vānarottamāḥ) beheld Sītā crying out (vikrośantīm) then. And having crossed beyond Pampā (pampām atikramya), he [Rāvaṇa], facing toward the city of Laṅkā (laṅkām abhimukhaḥ purīm)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -335,6 +361,12 @@ she-snake, as with; *utsangena eva* = by lap, thus; *jahaara* = stole.
 
 Ravana is jubilantly happy in stealing his own death alias Seetha, as one would
 carry a stingingly fanged and lethally venomous she-snake in his own lap. [3-54-6b, 7a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—the lord of rākṣasas (rākṣaseśvaraḥ) went on (jagāma), seizing (gṛhya) the weeping (rudatīm) Maithilī. Exceedingly exultant (susaṃhṛṣṭaḥ), Rāvaṇa carried her off (tāṃ jahāra)—his own death (mṛtyum ātmanaḥ)—
 </details>
 </details>
 
@@ -382,6 +414,12 @@ atiiyaaya* = well crossed over - bolted out.
 He bolted out in skyway up above the woodlands, waterways, pools, and mountains at
 the double, as with an arrow bolting from a bow. [3-4-7b, 8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—even as [one might carry] in his lap (utsaṅgenaiva) a sharp-fanged (tīkṣṇa-daṃṣṭrām), deadly-venomous (mahā-viṣām) female serpent (bhujagīm). Through the sky (vihāyasā), [past] forests, rivers, mountains, and lakes (vanāni saritaḥ śailān sarāṃsi ca)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -407,6 +445,12 @@ the double, as with an arrow bolting from a bow. [3-4-7b, 8a]
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उसने तिमि नामक मत्स्यों और नाकोंके निवासस्थान एवं वरुणके अक्षय गृह समुद्रको भी, जो समस्त नदियोंका आश्रय है, पार कर लिया ॥ ८ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—he swiftly (kṣipram) sped across (samatīyāya), like an arrow loosed from a bow (śaraś cāpād iva cyutaḥ). And [reaching] the inexhaustible (akṣayam) abode of Varuṇa (varuṇālayam), the home of timi whales and crocodiles (timi-nakra-niketam)—
 </details>
 </details>
 
@@ -472,6 +516,12 @@ That ocean being the abode of Rain-god is highly flustered when Vaidehi is being
 abducted over it, and its waves became topsy-turvy and its fishes and great marine-reptiles
 remained shilly-shally. [3-54-9b, 10a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—having come to that refuge of rivers (saritāṃ śaraṇaṃ gatvā), he crossed over the ocean (samatīyāya sāgaram). With its billowing waves stilled (parivṛttormī) out of trepidation (sambhramāt) and its fishes and great serpents immobilized (ruddha-mīna-mahoragaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -517,6 +567,12 @@ end - he ends with this; *iti* = thus; *vaacaH sasR^ijuH* = words, released
 
 Then the siddha-s and caarana-s available in airspace averred saying, "this alone is
 the end of Decahedron Ravana." [3-54-10b, 11a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—so became the abode of Varuṇa (babhūva varuṇālayaḥ) while Vaidehī was being carried away (vaidehyāṃ hriyamāṇāyām). Then cāraṇas moving in the mid-space (antarikṣa-gatāḥ) uttered words (vācaḥ sasṛjuḥ)—
 </details>
 </details>
 
@@ -564,6 +620,12 @@ Seetha, on flank, taking; *lankaam puriim pravivesha* = Lanka, city, he entered.
 Ravana entered the city of Lanka transporting Seetha, while she wriggling in his
 flank, who appeared like the personified death of Ravana wriggling its way into his Lanka.
 [3-54-11b, 12a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and siddhas likewise declared (tathābruvan), “This is the end of Daśagrīva (etad-anto daśagrīva iti)!” Taking upon his hip (aṅkenādāya) the struggling (viceṣṭantīm) Sītā, Rāvaṇa—
 </details>
 </details>
 
@@ -616,6 +678,12 @@ his own palace-chambers which is with very many doors and chambers thronging wit
 On going towards the city Lanka that has well-symmetrized roadways, he then entered
 his own palace chambers in which royal servants are thronging at many doorways as that palace has
 very many chambers. [3-54-12b, 13a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—entered the city of Laṅkā (praviveśa purīṃ laṅkām), [bearing] his own death in embodied form (rūpiṇīṃ mṛtyum ātmanaḥ). Having approached the city of Laṅkā, with its well-laid-out highways (suvibhakta-mahāpathām)—
 </details>
 </details>
 
@@ -710,6 +778,12 @@ a blackish orb around her eyeball and because she is now ceaselessly shedding te
 eyelashes are tear-wet and slanted edge-ward to give a blackish shade at the end of her eyes.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—crowded with inner courts (saṃrūḍha-kakṣyām) and vast (bahulām), he entered his own inner apartments (svam antaḥpuram āviśat). There, that dark-cornered-eyed lady (tām asitāpāṅgīm), overwhelmed by grief and swoon (śoka-moha-samanvitām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -757,6 +831,12 @@ bhaviSyatha* = thus, you shall conduct - your watch and ward shall be.]
 That Decahedron Ravana also instructed the bogey-sightly bogeywomen, "your watch and
 ward shall be in such a way that neither a female nor a male can see Seetha impermissibly."
 [3-54-14b, 15a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Rāvaṇa placed Sītā (nidadhe rāvaṇaḥ sītām), as Maya [placed] his āsurī illusion (māyām ivāsurīm). And Daśagrīva spoke to the piśācīs of dreadful aspect (piśācīr ghora-darśanāḥ):
 </details>
 </details>
 
@@ -808,6 +888,12 @@ be given.
 "Whatever she wishes to have, gold, jewels, pearls, apparels or adornments, they all
 be given to her as you would give me according to my whimsies. [3-54-15b, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“[Guard her] so that no man or woman (pumān strī vā) unapproved [by me] (asammataḥ) beholds this Sītā. Pearls, gems, and gold (muktā-maṇi-suvarṇāni), garments and ornaments—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -855,6 +941,12 @@ pleasant.
 "Whosoever speaks unpleasant words to Vaidehi in the least, either unknowingly or
 knowingly, her life becomes unpleasant for herself." Thus Ravana ordered the chamber-demonesses.
 [3-54-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—whatever she may desire (yad yad icchet), right then (tadaiva) must it be given to her (asyā deyam) in accordance with my will (mac-chandato yathā). And whichever [ogress] shall speak to Vaidehī any displeasing word (vacanaṃ kiṃcid apriyam)—
 </details>
 </details>
 
@@ -909,6 +1001,14 @@ On speaking to those demonesses thus that chief of demons exited from that palac
 chamber, and giving a thought to what is to be done in sequel, then he gave audience to eight
 highly vigorous demons, the feasters on raw-flesh. [3-54-17b, 18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** “—whether out of ignorance or deliberately (ajñānād yadi vā jñānāt), her life is no longer dear to her (na tasyā jīvitaṃ priyam)!” Having spoken thus to those rākṣasīs, the mighty lord of rākṣasas (rākṣasendraḥ pratāpavān)—
+
+**18:** —went forth from that inner apartment (niṣkramyāntaḥpurāt tasmāt), pondering, “What is to be done (kiṃ kṛtyam iti cintayan)?”, and beheld eight flesh-eating rākṣasas (rākṣasān piśitāśanān) of great prowess (mahā-vīryān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -956,6 +1056,12 @@ an audience]; *taan idam vaakyam uvaaca* = to them, this, sentence, spoke.
 He who is egocentric by the boon awarded by Brahma for his invincibleness, that
 Ravana on giving an audience to those eight demons spoke this sentence to them praiseful of their
 might and valour. [3-54-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding them, that one of great prowess (mahā-vīryaḥ), deluded by the bestowal of boons (vara-dānena mohitaḥ), spoke this word to them (uvāca tān idaṃ vākyam), having praised [them] for their strength and valor (praśasya bala-vīryataḥ):
 </details>
 </details>
 
@@ -1007,6 +1113,12 @@ earlier; *janasthaanam* = to Janasthaana; *gacChata* = begone.
 "You immediately take up multiple assaultive weaponry and begone from here to
 Janasthaana speedily, a place now deadpanned for demons, which earlier was the placement of Khara.
 [3-54-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Armed with manifold weapons (nānā-praharaṇāḥ), go swiftly from here in haste (kṣipram ito gacchata satvarāḥ) to Janasthāna, whose station has been ravaged (hata-sthānam) and which was formerly the abode of Khara (bhūta-pūrvaṃ kharālayam).
 </details>
 </details>
 
@@ -1064,6 +1176,12 @@ hesitate as to 'why we should depend on our own personal strengths...' for that 
 still mightier Dushana, still mightiest Khara are eliminated... thus you perk up your sprites,
 personally...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Abide there (tatrāsyatām) in desolate Janasthāna (janasthāne śūnye), where the rākṣasas have been slain (nihata-rākṣase), relying on your manly might (pauruṣaṃ balam āśritya) and casting fear far aside (trāsam utsṛjya dūrataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1112,6 +1230,12 @@ and to them Ravana is saying 'you are the next best in line of order of military
 turn to assume command, as committed soldiers, as I am at loggerheads with Rama...' Ravana follows
 such 'order of priorities' in warring scrupulously and we chance to meet them in Yuddha Kanda,
 canto of Great War.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A vast army (bahu-sainyam) of great valor (mahā-vīryam) stationed in Janasthāna (janasthāne niveśitam), together with Dūṣaṇa and Khara (sa-dūṣaṇa-kharam), was slain in battle by Rāma's arrows (nihataṃ rāma-sāyakaiḥ).
 </details>
 </details>
 
@@ -1173,6 +1297,12 @@ overtly when our courage is lessening... but we can covertly do some kind of har
 there and undertake any kind of activity that will be harmful to that Rama... as I am uncourageous
 and uncomfortable, as of now...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore (tataḥ), an unprecedented wrath of mine (krodho mamāpūrvaḥ) mounts above my composure (dhairyasyopari vardhate), and a mighty, most dreadful enmity (vairaṃ ca sumahat sudāruṇam) has arisen toward Rāma (rāmaṃ prati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1226,6 +1356,12 @@ has purchased enmity is a weakling and worthless to confront... *vidura niiti: M
 parve: anena balavad virodhino nidraa na bhaviShyati iti suucitam | tathaa ca udyoge viduraH - ayuktam
 balavataa durbalam hiina saadhanam | hR^ita svam kaaminam coram aavishanti pra jaagaraaH || - dk*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And I wish to requite (niryātayitum icchāmi) that enmity upon my great foe (mahā-ripoḥ); for I shall not find sleep (na hi lapsyāmy ahaṃ nidrām) without having slain that enemy in battle (ahatvā saṃyuge ripum)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1273,6 +1409,12 @@ eliminating; *[yadi* = if I can kill him]; *nir dhanaH* = not, a rich one - paup
 "I for myself will be comfortable only on eliminating him who has eliminated Khara
 and Duushana as with a pauper acquiring riches. [3-54-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having now slain (idānīm ahaṃ hatvā) that Rāma, the slayer of Khara and Dūṣaṇa (khara-dūṣaṇa-ghātinam), I shall attain peace (śarmopalapsyāmi), like a penniless man (nirdhanaḥ) upon gaining wealth (dhanaṃ labdhveva)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1318,6 +1460,12 @@ upanetavyaa* = accurately, be brought [to me.]
 
 "While you remain in Janasthaana you have to accurately bring me the information
 about Rama's activities and deportment. [3-54-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While dwelling in Janasthāna (janasthāne vasadbhiḥ), intelligence concerning Rāma (rāmam āśritā pravṛttiḥ)—‘What is he doing (kiṃ karotīti)?’—must be accurately (tattvataḥ) brought [to me] (upanetavyā) by you (bhavadbhiḥ).
 </details>
 </details>
 
@@ -1369,6 +1517,12 @@ vadham prati* = Raghava's, killing, apropos; *sadaa yatnaH kartavyaH ca* = conti
 dangerous, and on your going there heedfully, you have to continually try for the elimination of
 that Raghava. [3-54-27]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And all the night-roamers without exception (sarvair eva niśācaraiḥ) must proceed with vigilance (apramādāc ca gantavyam), and constant effort must be made (kartavyaś ca sadā yatnaḥ) toward the slaying of Rāghava (rāghavasya vadhaṃ prati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1414,6 +1568,12 @@ niyojitaaH* = by me, commissioned.
 
 "I am aware of your might in battle fronts for a number of times, as such I have
 commissioned you all in that Janasthaana." Thus Ravana spoke to those eight demons. [3-54-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For your strength has been known (yuṣmākaṃ tu balaṃ jñātam) many a time at the forefront of battle (bahuśo raṇa-mūrdhani); and therefore (ataś ca) you have been stationed by me (mayā yūyaṃ niveśitāḥ) in this Janasthāna.”
 </details>
 </details>
 
@@ -1470,6 +1630,12 @@ abhivaadya* = Ravana, hailing; *lankaam vihaaya* = Lanka, departing from;
 Then on picking up those words amiable to all intents and purposes of Ravana, those
 eight demons departed from Lanka on hailing Ravana, and they collectively journeyed in the
 direction of Janasthaana with their imperceivable appearances. [3-54-29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having received (upetya) that welcome speech of weighty import (priyaṃ vākyaṃ mahārtham) and saluted Rāvaṇa (abhivādya rāvaṇam), the eight rākṣasas, leaving Laṅkā together (vihāya laṅkāṃ sahitāḥ), set forth invisibly (alakṣya-darśanāḥ) toward where Janasthāna lay (yato janasthānam).
 </details>
 </details>
 
@@ -1557,5 +1723,11 @@ And the releaser or the deliverer is Rama, and hence Ravana is happy.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऐवत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥54॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having obtained Sītā (sītām upalabhya) and taken possession of Maithilī (parigṛhya maithilīm), Rāvaṇa was exceedingly thrilled (susamprahṛṣṭaḥ); and having contracted supreme enmity with Rāma (prasajya rāmeṇa ca vairam uttamam), that Rāvaṇa rejoiced out of delusion (babhūva mohān muditaḥ).
 </details>
 </details>

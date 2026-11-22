@@ -75,6 +75,12 @@ lakSmaNam uvaaca* = to one who is splendidly, brilliant, to brother, to Lakshman
 Then on going to Panchavati which is full with many serpents and predators, Rama said to splendidly
 brilliant Lakshmana. [3-15-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having gone to Pañcavaṭī (tataḥ pañcavaṭīṃ gatvā), which teemed with various beasts of prey and deer (nānā-vyāla-mṛgāyutām), Rāma spoke to his brother Saumitri of blazing splendour (saumitriṃ dīpta-tejasam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +128,12 @@ puSpita kaananaH ayam deshaH pa.ncavaTii* = with flowered, forests, this, region
 "We arrived at the place as indicated by the sage, oh, gentle Lakshmana, this region with its flowered
 forests is Panchavati." [3-15-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We have arrived at this region (āgatāḥ sma amuṃ deśam) just as pointed out (yathoddiṣṭam) by the great seer; this, O gentle one, is the region of Pañcavaṭī (ayaṃ pañcavaṭī-deśaḥ), with its trees in blossom (puṣpita-pādapaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,6 +180,12 @@ your sight, be cast about for; *nipuNaH asi hi* = expert, you are, indeed.
 
 "In which place we have to situate our hermitage for our liking, for that cast your sight all over the
 forest, and indeed you are an expert in such matters. [3-15-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Cast your gaze on every side (sarvataś cāryatāṃ dṛṣṭiḥ), for you are skilled in woodland lore (kānane nipuṇo hy asi); in which spot (katarasmin deśe) will a hermitage be pleasing (āśramaḥ bhavati sammataḥ) to us?
 </details>
 </details>
 
@@ -244,6 +262,14 @@ it shall be a pleasurable garden for him to recline, or take his bath etc., and 
 the ritual paraphernalia within the reach of Lakshmana, so that Lakshmana can provide them to Rama in
 time, with his obedient service.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** “Let such a spot be sought out (tādṛśo dṛśyatāṃ deśaḥ), O Lakṣmaṇa, where Vaidehī may delight (ramate yatra vaidehī), as well as you and I (tvam ahaṃ caiva), and which has a body of water close at hand (sannikṛṣṭa-jalāśayaḥ)—
+
+**5:** “—where there is beauty of groves (vana-rāmaṇyakam) and beauty of level ground (sthala-rāmaṇyakaṃ tathā), and where sacrificial fuel, flowers, kuśa grass, and water (samit-puṣpa-kuśodakam) may be close at hand.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -294,6 +320,12 @@ vacanam abraviit* = to Rama, this, sentence, spoke.
 
 When thus said by Rama, Lakshmana adjoined his palms and said this sentence to Rama in the presence
 of Seetha. [3-15-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma (evam uktas tu rāmeṇa), Lakṣmaṇa, with joined palms (saṃyatāñjaliḥ), spoke these words to Kākutstha in the presence of Sītā (sītā-samakṣam):
 </details>
 </details>
 
@@ -365,6 +397,12 @@ elder brother becomes father-like after the demise of their father. *anenapitura
 jiivati taavat kaniShThasya na svaatantryam itisuucitam | tathaa ca manuH piteva paalayat sutaan jyeShTha
 bhraataa yaviiyasaH| putravat ca api varteran jyeShTho bhraatari dharmataH || dharmaakuutam.*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am wholly dependent on you (paravān asmi), O Kākutstha, even should you abide for a hundred years (tvayi varṣa-śataṃ sthite); do you yourself tell me (svayaṃ tu māṃ vada), ‘Let it be built in this pleasing spot (rucire deśe kriyatām iti)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -430,6 +468,14 @@ haste gR^ihiitvaa* = by hand, Soumitri's, hand, on taking; *abraviit* = spoke to
 On taking Lakshmana's hand by his hand Rama paced that beautiful place intended for the construction
 of hermitage up and down and spoke to Soumitri this way. [3-15-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Greatly pleased (suprītaḥ) with those words of the high-souled Lakṣmaṇa (lakṣmaṇasya mahātmanaḥ), Rāma surveyed the surroundings (vimṛśan) and selected a spot endowed with every excellence (rocayām āsa deśaṃ sarva-guṇānvitam).
+
+**9:** Stepping onto that pleasing spot (sa taṃ ruciram ākramya deśam) for the construction of the hermitage (āśrama-karmaṇi), Rāma took Lakṣmaṇa’s two hands in his own hand (hastau gṛhītvā hastena) and spoke to Saumitri:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -475,6 +521,12 @@ of you.
 
 "This is an evenly and propitious place surrounded with flowered trees and it is apt of you to erect
 hermitage here, traditionally. [3-15-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This spot is level and auspicious (ayaṃ deśaḥ samaḥ śrīmān), and surrounded by flowering trees (puṣpitais tarubhir vṛtaḥ); here, O gentle one, you ought to build the hermitage (ihāśrama-padaṃ kartum arhasi) in due manner (yathāvat).
 </details>
 </details>
 
@@ -529,6 +581,12 @@ of Goddess Lakshmi and the lake is full with such lotuses, which are in the hear
 Goddess Lakshmi is in the lotuses, which again are situated in the heart of Vishnu, and hence this is
 a propitious lake to have Vishnu and Lakshmi together.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Not far off (adūre) is seen this lovely lotus-pond (dṛśyate ramyā padminī), resplendent with lotuses (padma-śobhitā)—with lotuses bright as the sun (āditya-saṃkāśaiḥ) and fragrant of scent (surabhi-gandhibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -581,6 +639,12 @@ this, river Godavari is [also seen from here.]
 beautified with kaarandava, and chakravaaka birds, as that contemplated soul sage Agastya had said.
 [3-15-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Just as described by the sage Agastya of purified soul (yathākhyātam agastyena muninā bhāvitātmanā), here is the lovely Godāvarī (iyaṃ godāvarī ramyā), bordered by flowering trees (puṣpitais tarubhir vṛtā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -605,6 +669,12 @@ beautified with kaarandava, and chakravaaka birds, as that contemplated soul sag
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदरल्लि हंस-कारण्डव मॊदलाद नीरुहक्किगळु विचरिसुत्तिवॆ. चक्रवाकगळु इदर शोभॆयन्नु हॆच्चिसिवॆ. नीरु कुडियलु बन्द जिङ्कॆगळ गुम्पु इदर तीरदल्लि आवरिसिदॆ. ई नदियु ई स्थानदिन्द हॆच्चु दूरविरदॆ बहळ हत्तिरदल्ले इदॆ.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—thronged with swans and kāraṇḍava ducks (haṃsa-kāraṇḍavākīrṇā), graced by cakravāka birds (cakravākopaśobhitā), neither too far nor too close (nātidūre na cāsanne), and crowded with herds of deer (mṛga-yūtha-nipīḍitā).
 </details>
 </details>
 
@@ -649,6 +719,12 @@ sane* = not, also, very, nearby; *dR^ishyante* = are appearing.
 
 "Those soaring mountains are appearing beautiful with many caves, surrounded by flowered trees, flurried
 by animal herds, sounded by peacocks, and they are neither far-off nor very nearby. [3-15-13, 14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here, O gentle one, are seen lovely, lofty mountains (dṛśyante ramyāḥ prāṃśavo girayaḥ) resounding with peacocks (mayūra-nāditāḥ), abounding in caves (bahu-kandarāḥ), and covered with blossoming trees (phullais tarubhir āvṛtāḥ).
 </details>
 </details>
 
@@ -703,6 +779,12 @@ is the name for coloured graphical drawings on the body of elephants. Apart from
 ornamentations, the elephants are richly painted in colours during ceremonial occasions, even today.
 As such Rama is visualising the ore deposits on the mountains as cow-eye like ventilators on walls,
 and as superb streaks of paintings on the bodies of elephants.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With golden, silver, and copper mineral veins (sauvarṇai rājatais tāmrair dhātubhiḥ) in place after place (deśe deśe ca), they shine like elephants (ivābhānti gajāḥ) checkered with lattice-like ornamental paintings (gavākṣitāḥ parama-bhaktibhiḥ)!
 </details>
 </details>
 
@@ -777,6 +859,16 @@ even with Syandana, Sandalwood, Niipa, Paarnasa, Lakuch, dhava, Ashwakarna, Khad
 Paatala trees, and entwined are those and those trees with flowered shrubs, and along with climbers,
 and thus they brighten the mountains. [3-15-16, 17, 18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** “[Those mountains] are adorned (upaśobhitāḥ) with sāla, palmyra, and tamāla trees (sālais tālais tamālaiś ca), date-palms, jackfruit, and mangoes (kharjūraiḥ panasāmrakaiḥ), as well as nīvāra, tiniśa, and punnāga trees,
+
+**17:** “—and covered with those various trees (tais tais tarubhir āvṛtāḥ) accompanied by flowering shrubs and creepers (puṣpa-gulma-latopetaiḥ)—with mangoes, aśokas, tilakas, campakas, and ketakas (campakaiḥ ketakair api),
+
+**18:** “—and with syandanas, sandalwood, nīpas, parṇāsas, and lakucas (parṇāsair lakucair api), as well as dhavas, aśvakarṇas, khadiras, śamīs, kiṃśukas, and trumpet-flower trees (śamī-kiṃśuka-pāṭalaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -821,6 +913,12 @@ saardham etena pakSiNaa* = along with, this one, bird [Jatayu.]
 
 "This place is holy, this is delightful and this is with many animals and birds, hence Soumitri, let
 us reside here along with this bird Jatayu." Thus said Rama to Lakshmana. [3-15-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘This spot is sacred (idaṃ puṇyam), this is pure (idaṃ medhyam), this abounds in deer and birds (idaṃ bahu-mṛga-dvijam); here let us dwell (iha vatsyāma), O Saumitri, together with this bird (sārdham etena pakṣiṇā)!’
 </details>
 </details>
 
@@ -867,6 +965,12 @@ made - erected.
 
 Thus said by Rama to that remover of foe's valour and one with very great might, namely Lakshmana, he
 briskly erected a hermitage for his brother. [3-15-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma (evam uktas tu rāmeṇa), Lakṣmaṇa, slayer of hostile heroes (para-vīra-hā) and of exceeding might (sumahā-balaḥ), swiftly built (acireṇa cakāra) a hermitage for his brother (āśramaṃ bhrātuḥ).
 </details>
 </details>
 
@@ -945,6 +1049,16 @@ are spread and well over-covered for the roof, and thus that very great mighty L
 and very spacious straw-cottage with a levelled surface for residence of Raghava in the interests of
 Raghava alone, and it resulted as a feast to the eye. [3-15-21, 22, 23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** There [he built] a spacious leaf-cottage (parṇa-śālāṃ suvipulām) with walls of compacted earth (saṅkhāta-mṛttikām), supported by firm pillars (sustambhām), fitted with roof-beams of long bamboos (maskarair dīrghaiḥ kṛta-vaṃśām), and very handsome;
+
+**22:** —spreading it over with branches of śamī trees (śamī-śākhābhir āstīrya), lashed fast with strong cords (dṛḍha-pāśāvapāśitām), and well-thatched (suparicchāditāṃ tathā) with kuśa, kāśa, and śara reeds and leaves;
+
+**23:** —and having leveled its floor (samīkṛta-talām), he of swift valor (laghu-vikramaḥ) fashioned that lovely, peerless, and sightly dwelling (nivāsaṃ prekṣaṇīyam anuttamam) for the sake of Rāghava (rāghavasyārthe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -989,6 +1103,12 @@ lotuses, also, gathered; *sa phalaH punaH aagataH* = with, fruits, again, came.
 
 On his going to River Godavari that noble Lakshmana bathed and on gathering lotuses and fruits he returned
 to the cottage. [3-15-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the illustrious Lakṣmaṇa swiftly [went] to the river Godāvarī (sahasā lakṣmaṇaḥ śrīmān nadīṃ godāvarīṃ tadā), bathed (snātvā), gathered lotuses (padmāni cādāya), and returned with fruits (saphalaḥ punar āgataḥ).
 </details>
 </details>
 
@@ -1036,6 +1156,12 @@ to Rama.
 Then making flowery offerings and peace-invocations also procedural to gR^iha
 pravesha , entering a new house,] started to show the constructed hermitage to Rama. [3-15-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having offered a floral oblation (puṣpa-baliṃ kṛtvā) and performed the propitiatory rite of peace (śāntiṃ ca) according to rule (yathā-vidhi), he showed to Rāma (darśayām āsa rāmāya) that completed hermitage.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1080,6 +1206,12 @@ straw-cottage; *param harSam aahaarayat* = high, gladness, ho got.
 
 On seeing the beautifully constructed hermitage along with Seetha, Rama is highly gladdened in respect
 that straw-cottage. [3-15-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding together with Sītā (dṛṣṭvā sītayā saha) that lovely hermitage which had been built (kṛtaṃ saumyam āśramam), Rāghava conceived supreme joy (harṣam āhārayat param) in that leaf-cottage (parṇa-śālāyām).
 </details>
 </details>
 
@@ -1127,6 +1259,12 @@ idam abraviit* = very, friendly, words, this, spoke.
 Then Rama very highly gladdened Rama embraced Lakshmana tightly by both of his hands, and spoke these
 friendly words to him. [3-15-27]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Greatly delighted (susaṃhṛṣṭaḥ), embracing Lakṣmaṇa with both arms (pariṣvajya bāhubhyāṃ lakṣmaṇam) at that time, he spoke these deeply affectionate (atisnigdhaṃ ca) and earnest words (gāḍhaṃ ca vacanam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1173,6 +1311,12 @@ is done; *te priitaH asmi* = about you, I am, happy; *yat nimittam* = for which,
 
 "Oh, masterful one, I am very happy about you for you have done a great deed, for that reason I am giving
 what I have to give to you a hugging. [3-5-28]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am well-pleased with you (prīto ’smi te)! Great is this work that you have accomplished (mahat karma tvayā kṛtam idam), O capable one (prabho); therefore I have bestowed upon you the embrace that is due to you as a reward (pradeyo yan-nimittaṃ te pariṣvaṅgo mayā kṛtaḥ).
 </details>
 </details>
 
@@ -1241,6 +1385,12 @@ eva asmin loke pratitiShThati -- ' iti | sa ca pitaa svayam mR^ite apidhaarmiksy
 eva asmin loke yathaa shaastram karma kurvan tiShThatiiti artham|| dhamaakuutam* Hence
 Rama said in this concept also that - 'my father is though 'dead', but 'born' again in you, Lakshmana.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through a son such as you (tvayā putreṇa), O Lakṣmaṇa—who discern my inner thoughts (bhāvajñena), are grateful (kṛtajñena), and know dharma (dharmajñena ca)—my righteous-souled father is not dead (na saṃvṛttaḥ pitā mama)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1294,6 +1444,12 @@ which is with many a fruit. [3-15-30]
 
 The last word *sukhii* is read as *vashii* in other mms meaning that Rama 'with his senses
 controlled' lived there. That is to suggest the overcoming of the enchantment of Suurpanakha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to Lakṣmaṇa (evaṃ lakṣmaṇam uktvā tu), Rāghava, the enhancer of auspicious fortune (lakṣmi-vardhanaḥ), dwelt happily and full of joy (nyavasat sa sukhaṃ sukhī) in that region abounding in fruits (tasmin deśe bahu-phale).
 </details>
 </details>
 
@@ -1351,6 +1507,12 @@ a Divinity in heavenly world for sometime to come. [3-15-30]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि हदिनैदनॆय सर्ग सम्पूर्णवायितु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Waited upon (anvāsyamānaḥ) by Sītā and Lakṣmaṇa (sītayā lakṣmaṇena ca), that righteous-souled prince dwelt there for some time (kañcit kālaṃ nyavasat), like an immortal in the world of heaven (svarga-loke yathāmaraḥ).
 </details>
 </details>
 

@@ -71,6 +71,12 @@ uktam* = that which was spoken; *tena rakShasaa* = by that demon.
 Hearing those words of Vibhishana, Rama, agonized as he was with grief, could not
 understand clearly what was spoken by that demon.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard that speech of his, Rāghava, emaciated by grief (śokakarśitaḥ), did not clearly grasp (nopadhārayate vyaktam) what had been spoken by that rākṣasa [Vibhīṣaṇa].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +116,12 @@ sitting nearby; *kapisamnidhau* = and before the presence of the monkeys.
 
 Then, Rama the conqueror of the cities of enemies, leaning upon his courage, spoke
 to Vibhishana who was sitting nearby and in front of the monkeys (as follows):
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, summoning up his fortitude (dhairyam avaṣṭabhya), Rāma, conqueror of hostile citadels, spoke in the presence of the monkeys to Vibhīṣaṇa, who was seated nearby.
 </details>
 </details>
 
@@ -158,6 +170,12 @@ bruuhi* = you intend to tell (me).
 "O lord of demons! I wish to hear again those of the words spoken by you. I desire
 to hear again, whatever you intend to tell me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O lord of the Nairṛtas (nairṛtādhipate), Vibhīṣaṇa, I wish to hear once again that statement which was spoken by you; declare what you intend to say (vivakṣitam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -199,6 +217,12 @@ following words; *yatnaat* = gently.
 Hearing those words of Rama, spoken very sadly, that Vibhishana who was skilled in
 expression, again spoke his words gently as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard Rāghava's words, Vibhīṣaṇa, skilled in speech (vākyaviśāradaḥ), then spoke again that very counsel which [he had uttered before]:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -239,6 +263,12 @@ and immediately after your words.
 
 "O the long armed hero! Immediately after your orders, the marshalling of the troops
 was done by me in the manner as enjoined by you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Just as the deployment of the troop-divisions (gulmaniveśanam) was commanded by you, O mighty-armed hero, so has it been executed immediately following your command.
 </details>
 </details>
 
@@ -287,6 +317,12 @@ ranks.
 "All those armies were divided and positioned at all places. Even the commanders of
 those divisions were arrayed and distributed according to their ranks."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All those armies have been distributed on every side, and the troop-commanders (yūthapāḥ) have been stationed in due order according to their divisions (vibhāgaśaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -332,6 +368,12 @@ akaaraNa samtapte* = while you are lamenting causelessly are lamenting; *vayam* 
 
 "O great lord! I have to report to you something further. Listen to it. While you
 are lamenting without any cause, we feel painful at our hearts."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hear further this representation (vijñāpyam) of mine, O mighty lord: when you are tormented without cause (akāraṇasaṃtapte), we too become afflicted at heart.
 </details>
 </details>
 
@@ -380,6 +422,12 @@ which came (to you); *tat* = therefore; *iyam chintaa* = let this worry;
 "O king! Abandon this lamentation and false grief which came to you. Let your worry,
 which augments the pleasure of your adversaries be therefore abandoned."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Abandon, O king, this grief and anguish that have arisen falsely (mithyā); let this anxiety, which heightens the joy of the enemy (śatruharṣavivardhinī), be cast aside.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -420,6 +468,12 @@ yourself cheerful.
 "O hero! If you want to get back Seetha and if the demons are to be destroyed, raise
 up for the occasion. Keep yourself cheerful."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Let exertion (udyamaḥ) be made, O hero, and let joy be embraced, if Sītā is to be recovered by you and the night-roamers are to be slain.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -446,6 +500,12 @@ up for the occasion. Keep yourself cheerful."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! नानॊन्दु आवश्यक मातन्नु हेळुत्तेनॆ. नन्न हितकर मातन्नु केळिरि. रावणियु निकुम्भिळा मन्दिरक्कॆ होगिद्दानॆ. आद्दरिन्द ई सुमित्राकुमार लक्ष्मणनु विशाल सैन्यदॊन्दिगॆ अवन मेलॆ आक्रमण माडलि. आ रावणपुत्रनन्नु आक्रमिसुवुदे ऒळ्ळॆयदु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+O delight of the Raghus, I shall speak; let my salutary counsel (hitaṃ vacaḥ) be heard: let this Saumitri rightly go forth, surrounded by a mighty force,
 </details>
 </details>
 
@@ -491,6 +551,12 @@ nirmuktaiH* = released from a snake-like bow; *aahave* = in battle.
 army should go soon to kill Indrajit, who reached Nikumbhila, with arrows as deadly as the
 serpentine poison released from his snake-like bow in battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+to slay Rāvaṇa's son in battle when he has reached Nikumbhilā, with arrows loosed from the circle of his bow (dhanurmaṇḍalanirmuktaiḥ), resembling the venom of virulent serpents—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +596,12 @@ called Brahmashira; *varadaanaat* = by way of a gift; *svayambhuvaH* = from Brah
 
 "By his penance, Indrajit obtained a weapon called Brahmashira, by way of a gift
 from Brahma and also horses, which are coursing at his will."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[let] that great archer, victorious in battle (samitiṃjayaḥ), [go] to slay Rāvaṇa's son with arrows. By that hero, through austerity and the bestowal of a boon from the Self-Existent (svayaṃbhuvaḥ), the brahmaśiras missile was obtained, along with steeds that course at will (kāmagāḥ).”
 </details>
 </details>
 
@@ -577,6 +649,12 @@ comes forth; *viddhiH* = know (that); *sarvaan* = all; *naH* = of us;
 
 "That Indrajit, as such along with his army, is reported to have reached Nikumbhila.
 If he comes forth after completing his sacrificial act, know that all of us as killed."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He, they say, has now reached Nikumbhilā with his army; if he should rise up (uttiṣṭhet) having completed his rite (kṛtaṃ karma), know us all to be slain!
 </details>
 </details>
 
@@ -641,6 +719,14 @@ enemy of yours, who strikes while you are marching with your bow drawn, and whil
 arrived at Nikumbhila, or even while you have not offered oblations to the sacred fire, will prove
 to be the cause of your killing."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** ‘Whichever enemy shall strike you in battle while you are an armed aggressor (ātatāyinam) before you have reached Nikumbhilā and before you have offered the fire-oblation (akṛtāgnim), O foe of Indra (indraśatro), he shall be your slayer (vadhaḥ)’—
+
+**15:** such was the boon (varaḥ) granted, O mighty-armed one, by the Lord of all the worlds; thus has the slaying of that sagacious one been ordained, O king.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -687,6 +773,12 @@ suhR^idgaNam* = along with his associate-troops; *hatam* = as killed.
 "O mighty Rama! Give your command for killing of Indrajit. When he is killed, know
 that Ravana along with his associate troops also as killed."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For the slaying of Indrajit, O Rāma, commission the mighty [Lakṣmaṇa]; when he is slain, know Rāvaṇa along with his host of friends (sasuhṛdgaṇam) to be slain!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -727,6 +819,12 @@ that terrific demon.
 
 Hearing the words of Indrajit, Rama then spoke the following words:"O Vibhishana of
 true prowess! I know the conjuring trick of that terrific demon."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard Vibhīṣaṇa's words, Rāma then spoke this statement: “I know the power of illusion (māyām) of that dreadful one, O you of true valor (satyaparākrama).
 </details>
 </details>
 
@@ -775,6 +873,12 @@ gods; *samgraame* = in battle.
 "That Indrajit is skilled in the use of the mystic missile presided over by Brahma.
 He is intelligent. He is a master of several conjuring tricks. He is so mighty that he can render
 unconscious in battle even the gods along with Varuna the king of gods."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For he, knower of the Brahmā-missile (brahmāstravit), wise, of great illusion and mighty strength, renders even the gods along with Varuṇa unconscious (asaṃjñān) in battle.”
 </details>
 </details>
 
@@ -841,6 +945,14 @@ of the conjuring tricks; *duraatmanaH ripoH* = of the evil-minded adversary;
 Having known the toughness of the conjuring tricks of the evil-minded adversary,
 Rama spoke to the illustrious Lakshmana as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “Of him coursing through the mid-space (antarikṣe) with his chariot, O you of great renown, the path is not discernible, O hero, like that of the sun amid a mass of clouds (abhrasaṃplave).”
+
+**20:** Rāghava, however, knowing the illusory prowess (māyāvīryam) of that evil-minded foe, spoke this word to Lakṣmaṇa, endowed with glory:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -898,6 +1010,14 @@ Sugreeva, along with troop-commanders with Hanuma as their head; and protected b
 of bears, who will be accompanied by his army, kill that Indrajit the prince of demons, rich in the
 power of conjuring tricks."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “Surrounded by all that force which belongs to the lord of monkeys [Sugrīva], and accompanied by the troop-commanders headed by Hanūmān (hanūmatpramukhaiḥ), O Lakṣmaṇa,
+
+**22:** and encompassed by Jāmbavān, lord of the bears (ṛkṣapatinā), together with his army, slay that rākṣasa's son, who is endowed with the power of illusion (māyābalasamanvitam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -937,6 +1057,12 @@ Vibhishana; *abhiJNaH* = the knower; *tasya maayaanaam* = of his conjuring trick
 
 "The great souled Vibhishana, who knows all the conjuring tricks of Indrajit, along
 with his counsellors, will follow behind you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This great-souled night-roamer [Vibhīṣaṇa], junto with his ministers, conversant with his illusions (abhijñas tasya māyānām), shall follow behind you (pṛṣṭhato 'nugamiṣyati).”
 </details>
 </details>
 
@@ -983,6 +1109,12 @@ took hold; *kaarmuka shreShTham* = of his excellent bow.
 
 Hearing the words of Rama, Lakshmana of highly wonderful prowess, along with
 Vibhishana, took hold of his excellent bow.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard Rāghava's words, Lakṣmaṇa, of terrible valor (bhīmaparākramaḥ), accompanied by Vibhīṣaṇa, took up another supreme bow (kārmukaśreṣṭham anyat).
 </details>
 </details>
 
@@ -1032,6 +1164,12 @@ The rejoiced Lakshmana who was prepared for the combat, clad in an armour, wield
 a sword and arrows, wearing his bow in his left hand and having touched Rama's feet in salutation,
 spoke as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arrayed for battle (saṃnaddhaḥ), clad in armor, bearing his sword, furnished with excellent arrows (saśarī), and holding his bow in his left hand (vāmacāpabhṛt), Saumitri, touching Rāma's feet, spoke joyfully:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1071,6 +1209,12 @@ Lanka; *hamsaaH iva* = as swans; *puShkariim* = (descend into) a lotus-pond.
 
 "Today, the arrows released from my bow, piercing Indrajit, will drop into the City
 of Lanka, as swans descend into a louts-pond.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today arrows loosed from my bow (matkārmukonmuktāḥ), having pierced Rāvaṇa's son right through, shall fly into Laṅkā like swans into a lotus-pond (puṣkariṇīm iva)!
 </details>
 </details>
 
@@ -1121,6 +1265,12 @@ will blow him away.
 "Now itself, my arrows discharged from the bow-string of this great bow, duly
 splitting his terrific body, will blow him away."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This very day my arrows, sped from the string of my great bow (mahācāpaguṇacyutāḥ), having cleft him, shall shatter (vidhamiṣyanti) the body of that dreadful one!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1160,6 +1310,12 @@ kill Indrajit.
 
 Thus speaking in front of his brother, that resplendent Lakshmana, quickly marched
 forward, with an intent to kill Indrajit.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken this word before his brother, that radiant Lakṣmaṇa, eager to slay Rāvaṇa's son (rāvaṇivadhākāṅkṣī), departed swiftly.
 </details>
 </details>
 
@@ -1201,6 +1357,12 @@ brother's feet; *kR^itvaa* = and doing; *pradakShiNam cha* = circumambulation to
 Offering salutation to the feet of his brother and doing circumambulation too, that
 Lakshmana went to the sanctuary named Nikumbhila, which was protected by Indrajit.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed to his elder's feet and performed circumambulation (pradakṣiṇam), he marched against Nikumbhilā, the sanctuary (caityam) guarded by Rāvaṇa's son.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1240,6 +1402,12 @@ Lakshmana went to the sanctuary named Nikumbhila, which was protected by Indraji
 
 Having obtained the blessings from his brother, the glorious Lakshmana, the prince,
 quickly sallied forth along with Vibhishana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accompanied by Vibhīṣaṇa, that valorous prince Lakṣmaṇa, having had auspicious benedictions performed (kṛtasvastyayanaḥ) by his brother, went forth in haste.
 </details>
 </details>
 
@@ -1287,6 +1455,12 @@ anvagaat* = went behind Lakshmana.
 Then, Hanuma accompanied by many a thousand of monkeys and Vibhishana along with his
 counsellors went behind Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by many thousands of monkeys, Hanūmān, and Vibhīṣaṇa together with his ministers (sāmātyaḥ), swiftly followed Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1326,6 +1500,12 @@ quickly; *mahataa harisainyena* = by a large army of monkeys; *dadarsha* = saw;
 
 That Lakshmana, quickly surrounded by a large army of monkeys, saw the army of
 Jambavan also stationed in the way.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Encompassed with speed by that mighty monkey army, he also beheld on the way (pathi) the force of the king of bears [Jāmbavān] stationed in readiness (viṣṭhitam).
 </details>
 </details>
 
@@ -1370,6 +1550,12 @@ dsitance.
 
 After covering a long distance, that Lakshmana, the delight to his friends, saw the
 army of Ravana, ranged in battle-array, from a distance.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having traversed a long distance (dūram adhvānam), Saumitri, gladdener of his friends, beheld from afar the army of the rākṣasa lord arrayed in battle formation (vyūham āśritam).
 </details>
 </details>
 
@@ -1419,6 +1605,12 @@ Duly arriving at Nikumbhila, that foe-conquering Lakshmana stood, bow in hand, t
 conquer that Indrajit, the possessor of conjuring tricks, in conformity with Brahma's
 ordinance.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached him whose stratagem was illusion (māyāyogam), that foe-taming delight of the Raghus stood bow in hand (dhanuṣpāṇiḥ) to vanquish him according to Brahmā's ordinance (brahmavidhānena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1458,6 +1650,12 @@ of wind-god.
 
 The valiant Lakshmana stood there along with Vibhishana, the heroic Angada and
 Hanuma, the son of wind-god.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accompanied by Vibhīṣaṇa, that valorous prince, as well as by the heroic Aṅgada and the son of the Wind-god (anilasutena),
 </details>
 </details>
 
@@ -1524,6 +1722,12 @@ terrific, with unimaginable swiftness, even as one would enter a thick veil of d
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तैदनॆय सर्ग पूर्णवायितु.॥85॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+entered that manifold army of the foes—gleaming with spotless weapons (amalaśastrabhāsvaram), dense with standards, impenetrable with great chariot-warriors, most terrifying (pratibhayatamam), of immeasurable impetuosity, and resembling darkness (timiram iva).
 </details>
 </details>
 

@@ -73,6 +73,12 @@ baaSpaH* = with, tears; *vaanaraan uvaaca* = to vanara-s, spoke.
 When those monkeys whose lives are almost purged spoke to Sampaati with such dreary
 words, that thunder-voiced eagle tearfully spoke to those vanara-s. [4-58-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed with a piteous speech (karuṇaṃ vākyam) by the monkeys who had renounced their lives (tyaktajīvitaiḥ), the mighty-voiced vulture, his eyes filled with tears (sabāṣpaḥ), replied to the Vānaras:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +124,12 @@ bhraataa* = he is, mine, younger, brother.
 
 "Oh, vanara-s, of whom it is enounced that mighty Ravana felled him in a combat,
 that one is my younger brother named Jatayu... [4-58-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Vānaras, that bird named Jaṭāyus, whom you have reported as slain in battle by the mighty Rāvaṇa, was my younger brother (yavīyān sa mama bhrātā).”
 </details>
 </details>
 
@@ -169,6 +181,12 @@ presnetly I am; *bhraatuH vaira vimokSaNe* = brother's, enemy's, to release [to 
 "Even though I hear that my brother is slain I have to resign myself from any
 activity owing to my oldness and my winglessness, and presently I am indeed incapacitated to
 retaliate my brother's enemy... [4-58-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“On account of old age (vṛddhabhāvāt) and my wingless state (apakṣatvāt), even while hearing of that [slaying], I must endure it (marṣaye); for today I have no power to avenge my brother's enmity (bhrātur vairavimokṣaṇe).”
 </details>
 </details>
 
@@ -240,6 +258,14 @@ noontide,] bechanced, when; *jaTaayuH avasiidati* = Jataayu, [started to] founde
 noontide and thus bechanced is the scorching of the noontime sun, and then Jataayu started to
 founder... [4-58-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** “Of old, after the slaying of Vṛtra had taken place (vṛtravadhe vṛtte), he and I, both desiring victory (jayaiṣiṇau), flew up into the heaven (svaḥ) toward the blazing sun garlanded with rays (raśmimālinam).”
+
+**5:** “Wheeling through the pathway of the sky (āvṛtyākāśamārgeṇa), we had soared swiftly into the heaven (svargatau bhṛśam); and when the sun reached the meridian (madhyaṃ prāpte tu sūrye), Jaṭāyus began to faint (avasīdati).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -286,6 +312,12 @@ to cover.
 
 "On seeing him who is being thwarted by scorching sunrays, then I started to cover
 my highly fretful brother with both of my wings in all my brotherliness... [4-58-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding that brother of mine tormented by the sun's rays (sūryaraśmibhir arditam) and utterly bewildered, out of affection I shielded him with my two wings (pakṣābhyāṃ chādayām āsa).”
 </details>
 </details>
 
@@ -339,6 +371,12 @@ this Mt. Vindhya, and while living hereabouts constrainedly, I could pay no atte
 brother's experiences or, at least his existence, or otherwise..." So lamented old Sampaati.
 [4-58-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With my feathers utterly scorched off (nirdagdhapatraḥ), I fell upon Mount Vindhya, O bulls among Vānaras; dwelling upon this mountain, I did not learn any news of my brother (bhrātuḥ pravṛttiṃ nopalakṣaye).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -388,6 +426,12 @@ prince,] Angada; *tadaa prati uvaaca* = again, replied.
 When Sampaati the brother of Jataayu spoke in that way, then the highly discerning
 crown prince Angada replied him. [4-58-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed at that time by Jaṭāyus's brother Sampāti, the Crown Prince Aṅgada of great wisdom (yuvarājo mahāprajñaḥ) then replied:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -430,6 +474,12 @@ praise of Jataayu, you please tell...]
 
 "If you are the brother of Jataayu, if you have heard whatever I have said in praise
 of Jataayu, and if you are aware of the whereabouts of Ravana... please tell it... [4-58-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If you are Jaṭāyus's brother and have heard what was spoken by me, declare to us, if you know it, the abode of that Rākṣasa (nilayaṃ tasya rakṣasaḥ)!”
 </details>
 </details>
 
@@ -478,6 +528,12 @@ of Jataayu, and if you are aware of the whereabouts of Ravana... please tell it.
 inform us. Doesn't matter whether that location is nearby or far off as we can search far and
 wide..." Thus Angada asked Sampaati. [4-58-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tell us, if you know, whether that short-sighted (adīrghadarśinam) Rāvaṇa, the vilest of Rākṣasas (rākṣasādhamam), dwells near at hand or far away (antike yadi vā dūre)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -523,6 +579,12 @@ elder, brother; *mahaa tejaa* = high, spirited - Sampaati; *vaanaraan* = monkeys
 
 Then Sampaati, the high-spirited elder brother of Jataayu, spoke these words that
 are self-befitting and that would highly gladden the monkeys. [4-58-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the elder brother of Jaṭāyus, of mighty splendor (mahātejāḥ), spoke words worthy of himself (ātmānurūpaṃ vacanam), gladdening the Vānaras:
 </details>
 </details>
 
@@ -572,6 +634,12 @@ uttamam saahyam kariSye* = of Rama [task,] best, service, I wish to render.
 
 "I am an eagle with utterly burnt wings and vanished valiance, even then, I wish to
 render a best service in the task of Rama, at least verbally... [4-58-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O monkeys, I am a vulture with my wings burned off (nirdagdhapakṣaḥ) and my vigor gone (gatavīryaḥ); yet by my words alone (vāṅmātreṇa tu) I shall render supreme assistance (sāhyam uttamam) to Rāma.”
 </details>
 </details>
 
@@ -626,6 +694,12 @@ empyrean worlds that were triply trodden by Vishnu, and the intermediary regions
 worlds where gods and demons combated ghastlily, and because I am that aged I have also seen the
 unseeable Milky Ocean when it was churned for ambrosia... [4-58-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I know the worlds of Varuṇa (vāruṇāṃl lokān) and the three-strided realms of Viṣṇu (viṣṇos traivikramān api), as well as the battles of the gods and Asuras (devāsuravimardāṃś ca) and the churning of the nectar of immortality (amṛtasya vimanthanam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -673,6 +747,12 @@ vitality, is also, decrepit.
 as the common enemy of Rama and Jataayu is my first enemy, but I am decrepit as oldness has marred
 my vigour and vitality... [4-58-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This task of Rāma's (rāmasya yad idaṃ kāryam) is foremost to be accomplished by me, even though my vigor has been sapped by old age (jarayā ca hṛtaṃ tejaḥ) and my life-breaths have grown feeble (prāṇāś ca śithilā mama).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -697,6 +777,12 @@ my vigour and vitality... [4-58-14]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऒन्दु दिन दुरात्मा रावणनु ऎल्ल प्रकराद ऒडवॆगळिन्द अलङ्कृतळाद ओर्व रूपवति युवतियन्नु कद्दु कॊण्डु होगुवुदन्नु नानु नोडिद्दॆ.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A young woman (taruṇī) endowed with beauty and decked in all ornaments (sarvābharaṇabhūṣitā) was seen by me being carried away by the wicked-souled Rāvaṇa—”
 </details>
 </details>
 
@@ -743,6 +829,12 @@ demon Ravana. She richly in her mien, embellished with every befitting jewellery
 and that lady in fury was bewailing calling, 'Rama... Rama...' even calling 'Lakshmana...' and she
 was throwing her ornaments down and her limbs were highly wriggly to set herself free from that
 demon... [4-58-15, 16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A spirited lady (bhāminī) crying out, `O Rāma, O Rāma!' and `O Lakṣmaṇa!', casting off her ornaments (bhūṣaṇāny apavidhyantī) and struggling with her limbs (gātrāṇi ca vidhunvatī).”
 </details>
 </details>
 
@@ -797,6 +889,12 @@ Thus expression *ambude taDit yathaa* is also said as *vidyut iva
 ambare - vidyut iva ambude* in other mms, meaning 'lightning with a backdrop of blue-black sky
 or ocean...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Her exquisite silken garment (kauśeyam uttamam) shone against the dark Rākṣasa (asite rākṣase bhāti) like the radiance of the sun upon a mountain peak (śailāgre), or like lightning against a storm-cloud (yathā vā taḍid ambude).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -842,6 +940,12 @@ shruuyataam* = from me, you hear.
 
 "Thus, I deem her to be Seetha by her excessive laudation of Rama, and let the
 location of that demon be heard from me while I say about it... [4-58-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From her repeated invocation of Rāma (rāmasya parikīrtanāt), I deem her to be Sītā; now hear from me as I declare the abode of that Rākṣasa (nilayaṃ tasya rakṣasaḥ)!”
 </details>
 </details>
 
@@ -902,6 +1006,12 @@ straightaway. Ramayana is still living as great literary work because it has thi
 melodramatic montages on very many occasions. The family tree of Ravana is given in the
 endnote.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The Rākṣasa named Rāvaṇa, the own son of Viśravas (putro viśravasaḥ sākṣāt) and brother of Vaiśravaṇa [Kubera], inhabits the city of Laṅkā (adhyāste nagarīṃ laṅkām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -951,6 +1061,12 @@ Divine-Architect, built; *ramyaa lankaa purii* = lavish. Lanka, city - is there.
 "There is a lavish city in the oceanic island afar a hundred yojana-s all in all
 from here, which Vishvakarma, the Divine-Architect, has built, and it is called Lanka.
 [4-58-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“On an island of the ocean a full hundred yojanas from here (sampūrṇe śatayojane), there stands the lovely city of Laṅkā, fashioned by Viśvakarman (nirmitā viśvakarmaṇā).”
 </details>
 </details>
 
@@ -1002,6 +1118,12 @@ gigantic, rampart; *sam anvitaa* = well [securely,] joined [closed in.]
 tinge with completely golden doors. The golden podia of verandas are amazing. That city is securely
 enclosed in a gigantic rampart that will be dazzling in the colour of sun... [4-58-21, 22a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Adorned with wondrous gateways of Jambū-river gold (jāmbūnadamayair dvāraiḥ) furnished with golden daïs-platforms (kāñcanavedikaiḥ), and crowded with vast golden-hued palaces (prāsādair hemavarṇaiś ca),”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1030,6 +1152,12 @@ _________________
 
 आ नगरद सुत्तल कोटॆ बहळ दॊड्डदागिद्दु सूर्यनन्तॆ हॊळॆयुत्तिदॆ. अदरॊळगॆ हळदिबण्णद रेश्मॆसीरॆयन्नुट्टिद्द वैदेहियु बहळ दुःखदिन्द वासिसुत्तिरुवळु.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And surrounded by a great rampart bright as the sun (prākāreṇārkavarṇena), there dwells Vaidehī, afflicted and clad in yellow silk (dīnā kauśeyavāsinī).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1049,6 +1177,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘रावणके अन्तःपुरमें नजरबंद हैं । बहुत-सी राक्षसियाँ उनके पहरेपर तैनात हैं । वहाँ पहुँचनेपर तुमलोग राजा जनककी कन्या मैथिली सीताको देख सकोगे ॥ २३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Confined within Rāvaṇa's inner apartments (rāvaṇāntaḥpure ruddhā) and closely guarded by Rākṣasa women, in that city you will behold Maithilī, the daughter of King Janaka.”
 </details>
 </details>
 
@@ -1135,6 +1269,14 @@ landing on the other seashore you can see Lanka secluded all around by ocean, an
 water-walled Lanka you can see Ravana... hence, hurry up, and promptly triumph over Lanka...
 [4-58-24, 25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** “In Laṅkā, guarded on all sides by the ocean (guptāyāṃ sāgareṇa samantataḥ), when you have reached the farther limit of the sea spanning a full hundred yojanas (sampūrṇaṃ śatayojanam)—”
+
+**25:** “Having reached the southern shore (āsādya dakṣiṇaṃ tīram), you will then behold Rāvaṇa; right there, with all speed, put forth your valor swiftly (kṣipraṃ vikramadhvam), O monkeys!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1159,6 +1301,12 @@ water-walled Lanka you can see Ravana... hence, hurry up, and promptly triumph o
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निश्चयवागि नीवु सीतॆय दर्शन माडि मरळुविरि, ऎन्दु नानु ज्ञानदृष्टियिन्द नोडुत्तिद्देनॆ. आकाशद मॊदल मार्ग गुब्बच्चि हागू धान्य तिन्नुव पक्षिगळद्दागिदॆ.॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By my prophetic knowledge (jñānena) I truly behold that after seeing [her] you will return (dṛṣṭvā pratyāgamiṣyatha)! The first aerial pathway (ādyaḥ panthāḥ) belongs to the fork-tailed shrikes (kuliṅgānām) and whatever other birds subsist on grain (dhānyajīvinaḥ).”
 </details>
 </details>
 
@@ -1212,6 +1360,12 @@ that of the birds that are the eaters of leftovers like crows and doves, or the 
 tree-fruits like parrots. The third flight level is that of the wading birds like Bhaasa, Kraunca,
 Kurara birds and cranes, herons and the like. The fourth flight level is that of hawks and the
 fifth is that of the vultures. [4-58-26, 27, 28a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The second belongs to the eaters of oblations (balibhojānām) [crows] and those that feed on tree-fruits (vṛkṣaphalāśanāḥ) [parrots]; bearded vultures (bhāsāḥ) traverse the third, along with curlews (krauñcāḥ) and ospreys (kuraraiḥ saha).”
 </details>
 </details>
 
@@ -1292,6 +1446,14 @@ another aspect of Anuuru that appears before the advent of the Sun himself. Thes
 origination and attributed to be the speediest propellers. And Jataayu and Sampaati, for that
 matter of fact, all eagles belong to that lineage, for their keen vision and powerful flight.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** “Hawks (śyenāḥ) traverse the fourth, and vultures (gṛdhrāḥ) traverse the fifth; while of those endowed with strength and vigor and graced with beauty and youth—”
+
+**29:** “The sixth pathway belongs to the swans (haṃsānām), and the highest course belongs to the sons of Vinatā (vainateyagatiḥ parā); and from the son of Vinatā [Aruṇa] springs the birth of us all (vainateyāc ca no janma), O bulls among Vānaras!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1340,6 +1502,12 @@ kaaryam* = return, deed [retaliation]; *bhavet* = will result in [fulfilled];
 if that demon is retaliated by Rama and you all, my vendetta towards the very same demon, caused by
 his animosity towards my brother Jataayu will also be fulfilled... [4-58-30]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And through you, the enmity incurred on account of my brother (vairaṃ bhrātṛkṛtam) against that flesh-eater (piśitāśinaḥ), by whom a reprehensible deed (garhitaṃ karma) was committed, shall be avenged for me (pratikāryaṃ ca me bhavet)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1386,6 +1554,12 @@ Garuda, the Divine Eagle; *divyam cakSuaH* = excellent, eyes' [sight]; *tathaa b
 
 "Staying here I am clearly seeing Ravana and like that Janaki... even for us eagles,
 our sight and power will be excellent like that of Garuda, the Divine Eagle... [4-58-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even while remaining right here (ihastho 'ham), I clearly behold Rāvaṇa and Jānakī; for we too possess the divine visual power belonging to Suparṇa's race (sauparṇaṃ divyaṃ cakṣurbalam).”
 </details>
 </details>
 
@@ -1452,6 +1626,12 @@ dR^iShTikaH - iti | ca kaareNa anirodhena vaativiNmuutraadi utsargaadikam cakShu
 dk *Thus, the innate, fixed, pattern of behaviour in kingly eagles is recorded in
 response to certain stimuli.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, O Vānaras, through the potency of our diet (āhāravīryeṇa) and by innate nature (nisargeṇa ca), we perpetually see to a full hundred yojanas and more (āyojanaśatāt sāgrāt)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1505,6 +1685,12 @@ will also be there, like a night after day, sorrow after rejoice. Eagles may see
 but food for them is a rarity. Here Sampaati is self-piteous, as his son has not yet arrived
 bringing food for that day.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Our livelihood has been ordained by nature to be drawn from afar (vihitā vṛttir nisargeṇa ca dūrataḥ), whereas the livelihood of birds that fight with their spurs (caraṇayodhinām) [cocks] has been ordained at the foot of trees (vṛkṣamūle).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1552,6 +1738,12 @@ artha* = productive, of objective; *gamiSyatha* = you will return [to Kishkindha
 Kishkindha on your finding Vaidehi, and on your becoming productive of you objective...
 [4-58-34]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let some expedient be devised (upāyo dṛśyatāṃ kaścit) for leaping across the briny sea (laṅghane lavaṇāmbhasaḥ); for once you have approached Vaidehī, you will return with your purpose fulfilled (samṛddhārthā gamiṣyatha)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1598,6 +1790,12 @@ gatasya mahaatmanaH bhraatuH* = to heaven, one who has gone, great-souled one, f
 "I wish you would shift me to the residence of Rain-god, namely the ocean, for
 oblating water in respect of my great-souled brother Jataayu who departed to heaven..." Thus
 Sampaati spoke to the monkeys. [4-58-35]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I wish to be carried by you (netum icchāmi bhavadbhiḥ) to the ocean, the abode of Varuṇa (varuṇālayam); I shall offer the funeral water-libation (pradāsyāmy udakam) to my high-souled brother who has gone to heaven (svargatasya).”
 </details>
 </details>
 
@@ -1670,6 +1868,14 @@ to them. [4-58-36, 37]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तॆण्टनॆय सर्ग सम्पूर्णवायितु. ॥58॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** Then the Vānaras of mighty energy (sumahaujasaḥ) carried the wing-scorched Sampāti to that spot upon the shore of the lord of rivers and streams (tīre nadanadīpateḥ);
+
+**37:** And having brought that lord of birds back again to that [mountain] spot (taṃ punaḥ prāpayitvā ca taṃ deśam), those Vānaras were delighted upon obtaining news [of Sītā] (pravṛttim upalabhya te).
 </details>
 </details>
 

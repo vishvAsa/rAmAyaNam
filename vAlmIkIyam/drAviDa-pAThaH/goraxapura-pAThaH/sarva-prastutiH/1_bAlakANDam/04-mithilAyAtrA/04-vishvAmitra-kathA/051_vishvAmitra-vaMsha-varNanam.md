@@ -50,6 +50,12 @@ as has been done by Vishvamitra, will be unbecoming for kings.
 
 धीमन्तराद विश्वामित्रर मातन्नु केळि महातेजस्वी, महातपस्वी शतानन्दर शरीरदल्लि रोमाञ्चन उण्टायितु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of the wise Viśvāmitra (tasya tad vacanaṃ śrutvā), Śatānanda—possessed of great splendor (mahātejāḥ) and mighty austerity (mahātapāḥ)—had the hairs of his body stand on end with joy (hṛṣṭaromā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -99,6 +105,12 @@ and the great ascetic Shataananda is overjoyed, and Sage Shataananda, the eldest
 son of Sage Gautama, and whose radiance is brightened by his own ascesis is highly
 amazed just on seeing Rama. [1-51-1, 2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The eldest son of Gautama (gautamasya suto jyeṣṭhaḥ), his radiance illumined by penance (tapasā dyotitaprabhaḥ), was filled with supreme wonder (paraṃ vismayam āgataḥ) at the very sight of Rāma (rāmasaṃdarśanād eva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -147,6 +159,12 @@ On raptly observing those two princes who are sitting comfortably with their hea
 bending down submissively, then Shataananda spoke to the eminent sage Vishvamitra.
 [1-51-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those two royal princes seated at their ease (etau niṣaṇṇau saṃprekṣya ... sukhāsīnau nṛpātmajau), Śatānanda then spoke to Viśvāmitra, the foremost of sages (muniśreṣṭham):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,6 +204,12 @@ upaagataa* = came near [who meted out] marathon ascesis; *yashasvinii*
 
 Oh, tigerly saint Vishvamitra, you have revealed my glorious mother Ahalya who
 meted out a marathon ascesis to the princes - Really! [1-51-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O tiger among sages (muniśārdūla), was my illustrious mother (mama mātā yaśasvinī), who had undergone long and austere penance (tapo dīrgham upāgatā), shown by you to the royal prince (darśitā rājaputrāya)?
 </details>
 </details>
 
@@ -235,6 +259,12 @@ in Rama - in respect of Rama; *vanyaiH* = with forest produce
 And the highly resplendent and celebrated mother of mine worshipped Rama, who is
 worthy of worship by every corporeal being, with forest produce, is it so! [1-51-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O sage of great splendor, did my illustrious mother, radiant with great energy (mahātejā), offer worship with forest produce (vanyair upāharat pūjām) to Rāma, who is worthy of the worship of all embodied beings (pūjārhe sarvadehinām)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -280,6 +310,12 @@ subjected to; *puraatanam* = anciently - happened episode; *yathaavR^ittam*
 
 Oh, great-resplendent Vishvamitra, you have narrated to Rama about the maltreatment
 of my mother by the Providence as has happened anciently, isn't it![1-51-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O sage of great splendor (mahātejaḥ), was that ancient account (yad vṛttaṃ tat purātanam)—the wicked deed perpetrated against my mother by the god Indra (mama mātur devena duranuṣṭhitam)—related to Rāma (api rāmāya kathitam)?
 </details>
 </details>
 
@@ -328,6 +364,12 @@ reunited with.
 Oh, the best sage Kaushika, you be safe, my mother is reunited with my father on
 beholding and giving hospitality to Rama - Really! [1-51-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Kauśika, may all be well with you (bhadraṃ te)! Was my mother, O foremost of sages, reunited with my venerable father (guruṇā mama saṃgatā mama mātā) following this sight of Rāma (rāmasaṃdarśanād itaḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -371,6 +413,12 @@ resplendent father of mine worshipped Rama because the redemption of my mother i
 per the kindness of Rama! Has this great-souled Rama reverenced that great resplendent
 father of mine by according a redemption, ahalyaa-daana,
 the endowment of Ahalya to her husband. [1-51-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And O son of Kuśika, was Rāma honored by my venerable father (api me guruṇā rāmaḥ pūjitaḥ)? And has Rāma of great splendor come here after receiving the homage of that high-souled sage (ihāgato mahātejāḥ pūjāṃ prāpya mahātmanaḥ)?
 </details>
 </details>
 
@@ -423,6 +471,12 @@ _________________
 reverenced my father with a pacified heart without becoming contumelious!" Thus
 sage Shataananda exclaimed at the marvel occurred through Rama. [1-51-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And O son of Kuśika, when Rāma arrived there and was honored (ihāgatena rāmeṇa pūjitena), was my venerable father saluted by him (gurur me ... abhivāditaḥ) and did he receive him with a serene, unruffled mind (śāntena manasā)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -471,6 +525,12 @@ to sentence, to precisionist, to Shataananda; *pratyuvaaca* = spoke in reply.
 
 On hearing that sentence of his, that great-saint and sentence-precisian Sage Vishvamitra,
 replied the sentence-precisionist Sage Shataananda. [1-51-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of his, the great sage Viśvāmitra, skilled in speech (vākyajñaḥ), replied to Śatānanda, who was himself an expert in eloquent discourse (vākyakovidam):
 </details>
 </details>
 
@@ -525,6 +585,12 @@ Rama's own mother and Parashu Rama unhesitatingly carries out his father's order
 Thus, Parashu Rama is called Bhaargava Rama, with an axe as his unsurpassed weapon.
 This Parashu Rama confronts Rama of Ramayana after Seetha's marriage.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nothing was neglected or left undone, O foremost of sages (nātikrāntaṃ muniśreṣṭha); whatever ought to have been done has been accomplished by me (yat kartavyaṃ kṛtaṃ mayā). The sage’s wife has been reunited with the sage, even as Reṇukā was reunited with Bhārgava Jamadagni (saṃgatā muninā patnī bhārgaveṇeva reṇukā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -564,6 +630,12 @@ shataanandaH* = of high refulgence, Shataananda; *raamam vacanam abraviit*
 
 On hearing those words of that highly intellectual Vishvamitra, high refulgent sage
 Shataananda spoke these words to Rama. [1-51-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that reassuring speech of the wise Viśvāmitra, Śatānanda of great splendor spoke these words to Rāma:
 </details>
 </details>
 
@@ -618,6 +690,12 @@ who this Rama is. Further, when such and such a sage spearheads Rama, Rama ought
 to know something about the background of his steersman, namely Vishvamitra, basing
 on which Rama can learn his own lessons. As such, next few chapters are catered
 to the legend of Vishvamitra through Shataananda.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Welcome to you, O foremost of men (svāgataṃ te naraśreṣṭha)! By good fortune have you arrived here, O Rāghava (diṣṭyā prāpto 'si rāghava), placing before you as your guide the unconquered great sage Viśvāmitra (viśvāmitraṃ puraskṛtya maharṣim aparājitam).
 </details>
 </details>
 
@@ -676,6 +754,12 @@ some more...' would be better. Because Vishvamitra is a *paramahitasandhaayaka*
 'a do-gooder for universal peace' as indicated by his name itself, *vishva*
 'of universe...' *mitra* 'friend, 'friend of universe...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of unimaginable deeds (acintyakarmā), a brahmarṣi by virtue of his asceticism (tapasā brahmarṣiḥ) and of boundless radiance (amitaprabhaḥ), Viśvāmitra is possessed of mighty splendor (mahātejāḥ); I know him to be the supreme refuge and benefactor of the world (vedmy enaṃ paramāṃ gatim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -716,6 +800,12 @@ taptam* = by whom, supreme, ascesis, practised; such a sage; *kushikaputraH*
 
 None other than you is fortunate enough on earth, oh, Rama, as you are in the custodial
 care of Vishvamitra, the scion of Kushika, who has practised supreme ascesis. [1-51-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There is none on earth more fortunate and blessed than you, O Rāma (nāsti dhanyataro rāma tvatto 'nyo bhuvi kaścana), since your protector and guardian (goptā) is the son of Kuśika, by whom mighty penance has been performed (yena taptaṃ mahat tapaḥ).
 </details>
 </details>
 
@@ -760,6 +850,12 @@ how; *abhidhaasyaami* = I will narrate; *tat me nigadataH shR^iNu*
 
 What is the prowess of the great-souled Vishvamitra, and what the quintessence
 of his legend may be heard from me while I narrate it. [1-51-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let it be heard—I shall now recount to you (śrūyatāṃ cābhidhāsyāmi) the ascetic power and true history of the high-souled Kauśika as they occurred (kauśikasya mahātmanaḥ yathābalaṃ yathātattvam); listen to me as I narrate it (tan me nigadataḥ śṛṇu)!
 </details>
 </details>
 
@@ -810,6 +906,12 @@ This probity-souled Vishvamitra, being a proficient in rectitude, a perfectionis
 in kingcraft, a proponent of people's welfare, more so a persecutor of enemies,
 was there as a king for a long time. [1-51-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This righteous-souled sage was for a long time a king and tamer of foes (rājāsīd eṣa dharmātmā dīrghakālam ariṃdamaḥ), a knower of dharma (dharmajñaḥ), accomplished in all branches of learning (kṛtavidyaś ca), and ever devoted to the welfare of his subjects (prajānāṃ ca hite rataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -850,6 +952,12 @@ balavaan* = powerful one; *sudhaarmikaH* = verily righteous one;
 There was a king named Kusha, a brainchild of Prjaapati, and Kusha's son was the
 powerful and verily righteous Kushanaabha. [1-51-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There was a lord of the earth named Kuśa, the son of Prajāpati (prajāpatisutas tv āsīt kuśo nāma mahīpatiḥ); and Kuśa’s mighty and deeply righteous son was Kuśanābha (kuśasya putro balavān kuśanābhaḥ sudhārmikaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -889,6 +997,12 @@ great-saint, Vishvamitra; *gaadheH putraH* = Gaadhi's, son.
 
 One who is highly renowned by the name Gaadhi was the son of Kushanaabha, and Gaadhi's
 son is this great-saint of great resplendence, Vishvamitra. [1-51-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the son of Kuśanābha was renowned by the name of Gādhi (kuśanābhasutas tv āsīd gādhir ity eva viśrutaḥ); and the son of Gādhi is this great sage Viśvāmitra of mighty splendor (gādheḥ putro mahātejā viśvāmitro mahāmuniḥ).
 </details>
 </details>
 
@@ -936,6 +1050,12 @@ son is this great-saint of great resplendence, Vishvamitra. [1-51-19]
 Vishvamitra ruled the earth, and this great-resplendent king ruled the kingdom
 for many thousands of years. [1-51-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Viśvāmitra of great splendor protected the earth (pālayām āsa medinīm); as king, he ruled the kingdom for many thousands of years (bahuvarṣasahasrāṇi rājā rājyam akārayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -981,6 +1101,12 @@ a unit of akshauhini army. [1-51-21]
 The army unit called *akshauhini* consists of 21,870 elephants, as many chariots,
 65,610 cavalry, and 1,09,350 foot soldiers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Once, having marshaled his fourfold army (yojayitvā varūthinīm), that monarch of great splendor ranged across the earth surrounded by a full akṣauhiṇī host (akṣauhiṇīparivṛtaḥ paricakrāma medinīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1015,6 +1141,14 @@ _________________
 
 अवरु अनेक नगर, राष्ट्रगळन्नु दॊड्ड दॊड्ड पर्वत मत्तु आश्रमगळन्नु क्रमवागि सञ्चरिसुत्ता महर्षि वसिष्ठर आश्रमक्कॆ बन्दु तलुपिदरु. आ आश्रमवु नाना विधद फल-पुष्ट, लतॆगळिन्द, वृक्षगळिन्द सुशोभितवागित्तु. नाना वन्यपशुगळु अल्लि ऎल्लॆडॆगॆ तुम्बिकॊण्डिद्दवु हागू सिद्ध-चारणरू अल्लि वासिसुत्तिद्दरु.॥22-23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** “Traversing in due order through cities and realms, rivers and great mountains, and ascetic hermitages (nagarāṇi ca rāṣṭrāṇi saritaś ca mahāgirīn āśramān kramaśo rājā vicaran), the king arrived (ājagāma ha)—
+
+**23:** “—at the hermitage of Vasiṣṭha (vasiṣṭhasyāśramapadam), filled with manifold flowering creepers and trees (nānāpuṣpalatādrumam), teeming with diverse herds of forest beasts (nānāmṛgagaṇākīrṇam), and frequented by Siddhas and Cāraṇas (siddhacāraṇasevitam);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1041,6 +1175,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवतॆगळु, दानवरु, गन्धर्वरु, किन्नररु अदर शोभॆयन्नु हॆच्चिसुत्तिद्दरु. शान्तवाद मृगगळु अल्लि तुम्बिद्दवु. बहळष्टु ब्राह्मणरु मत्तु देवर्षिगळ समूह अवन्नु सेविसुत्तित्तु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“graced by gods, Dānavas, Gandharvas, and Kiṃnaras (devadānavagandharvaiḥ kiṃnarair upaśobhitam), filled with tranquil deer (praśāntahariṇākīrṇam), and inhabited by flocks of birds and twice-born sages (dvijasaṅghaniṣevitam);
 </details>
 </details>
 
@@ -1171,6 +1311,18 @@ Sage Shataananda continued his narration. [1-51-28]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऐवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥51॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** “thronged with hosts of brahmarṣis (brahmarṣigaṇasaṃkīrṇam) and frequented by companies of celestial sages (devarṣigaṇasevitam), and by high-souled ascetics perfected through the practice of penance and blazing like fire (tapaścaraṇasaṃsiddhair agnikalpair mahātmabhiḥ);
+
+**26:** “ever crowded and resplendent with high-souled sages equal to Brahmā himself (satataṃ saṃkulaṃ śrīmad brahmakalpair mahātmabhiḥ)—some subsisting on water alone (abbhakṣaiḥ), some on air alone (vāyubhakṣaiś ca), and others feeding on withered fallen leaves (śīrṇaparṇāśanais tathā);
+
+**27:** “and by sages subsisting on fruits and roots (phalamūlāśanaiḥ), self-restrained (dāntaiḥ), who had conquered all faults and mastered their senses (jitadoṣair jitendriyaiḥ), and by Vālakhilya sages wholly devoted to japa and homa oblations (ṛṣibhir vālakhilyaiś ca japahomaparāyaṇaiḥ);
+
+**28:** “and adorned on all sides by other Vaikhānasa ascetics as well (anyair vaikhānasaiś caiva samantād upaśobhitam)—that hermitage of Vasiṣṭha, which was like a second world of Brahmā (vasiṣṭhasyāśramapadaṃ brahmalokam ivāparam), the mighty Viśvāmitra, foremost of victors (jayatāṃ śreṣṭhaḥ), beheld (dadarśa).
 </details>
 </details>
 

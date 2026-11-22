@@ -70,6 +70,12 @@ concentrative; *taapasii* = sainted lady; *vishraantaan* = when relaxed; *taan s
 When those monkey commanders are relaxed after refreshments, then that sainted lady, who concentrates single-mindedly
 and who is a pursuer of probity, spoke this word to all of them. [4-52-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that one-pointed (ekāgrā) female ascetic practicing righteousness (dharmacāriṇī) spoke these words to all those rested leaders of monkey troops (viśrāntān hariyūthapān):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +121,12 @@ icChaami* = to listen, I wish.
 
 "Oh, vanara-s, if your enervation is eased off by devouring fruits, and if I may listen to that episode of yours,
 I wish to listen to it." Thus Swayamprabha addressed the monkeys. [4-52-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O monkeys, if your exhaustion (khedaḥ) has been dispelled by eating fruit (phalabhakṣaṇāt), and if this is fit to be heard by me (mayā śrāvyam), I wish to hear that tale.”
 </details>
 </details>
 
@@ -164,6 +176,12 @@ that, sentence, on hearing; *aarjavena* = sincerely; *yathaa tattvam* = as per, 
 Hanuma, the son of Air-god, sincerely started to narrate their episode in its pithiness on hearing her words.
 [4-52-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of hers, Hanumān, son of the Wind-god, began to relate [everything] with straightforwardness (ārjavena) and in accordance with the truth (yathātattvam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +206,12 @@ Hanuma, the son of Air-god, sincerely started to narrate their episode in its pi
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देवि! सम्पूर्ण जगत्तिन राजनु, देवेन्द्र-वरुणरन्तॆ तेजस्वी दशरथनन्दन श्रीमान् भगवान् रामनु दण्डकारण्यक्कॆ आगमिसिद्दनु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The sovereign of the entire world (rājā sarvasya lokasya), equal to Mahendra and Varuṇa, the illustrious Rāma, son of Daśaratha, entered the Daṇḍaka forest
 </details>
 </details>
 
@@ -235,6 +259,12 @@ abducted.
 Dandaka forest with his bother Lakshmana, even along with his wife Vaidehi, but Ravana coercively abducted his
 wife from Janasthaana. [4-52-4, 5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+along with his brother Lakṣmaṇa and his wife Vaidehī; his wife was forcibly (balāt) abducted from Janasthāna by Rāvaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -278,6 +308,14 @@ that, king's [Rama's,] friend; *yena vayam prasthaapitaa* = by whom, we are, exp
 "A valiant one and the king of important vanara-s known as Sugreeva is a vanara and the friend of that kingly
 Rama, and that vanara king expedited us. [4-52-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** The heroic friend of that king is a monkey named Sugrīva, king of the foremost monkeys, by whom we have been dispatched (prasthāpitāḥ).
+
+**7:** “Unto the southern quarter (āśāṃ dakṣiṇām), frequented by Agastya (agastyacaritām) and guarded by Yama (yamarakṣitām), together with these foremost monkeys headed by Aṅgada (aṅgadapramukhaiḥ), we [were sent],
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -320,6 +358,12 @@ Death-god, watched over; *dakSiNaam aashaam coditaaH* = to southern, prospect [d
 "He mobilised us along with these important vanara-s and Angada as helmsman to this southerly prospect, which
 is the walkabout of Sage Agastya and watched over by Yama, the Death-god, saying, 'you all shall collectively
 search for Seetha of Videha kingdom together with the demon Ravana, a guise-changer by his wish.' [4-52-7, 8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+urged (coditāḥ) thus: `United together, do you all search (mārgadhvam) for the shape-shifting (kāmarūpiṇam) Rākṣasa Rāvaṇa along with Sītā Vaidehī!'
 </details>
 </details>
 
@@ -367,6 +411,12 @@ than southern ocean; *dakSiNaam disham* = southerly, direction; *vicitya* = on s
 
 "On searching out the southerly direction in its entirety we are all hungered and we all gathered around at a
 tree-stem. [4-52-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having searched the entire forest and the ocean-bounded (samudram) southern quarter, we, all famished with hunger (bubhukṣitāḥ), resorted to the foot of a tree (vṛkṣamūlam upāśritāḥ).
 </details>
 </details>
 
@@ -417,6 +467,12 @@ dhyaana paraayaNaaH* = [we] all, in propositions, preoccupied; *cintaa mahaa arN
 "All of us were whey-faced, all of us were preoccupied with propositions, thus deluged in the depthless deep of
 our despair we could not overreach the other shore of our oceanic despair. [4-52-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All pale of face (vivarṇavadanāḥ) and all absorbed in anxious thought (dhyānaparāyaṇāḥ), we do not reach the further shore (nādhigacchāmahe pāram), plunged as we are in a great ocean of anxiety (magnāś cintāmahārṇave).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -464,6 +520,12 @@ bilam* = wide, cavity; *dR^iSTavantaH* = we became perceivers of - we perceived.
 
 "Then straggling our eyes we perceived this wide cavity wrapped up with vines and woods and enwrapped in darkling.
 [4-52-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, casting our eyes about (cārayantas tataś cakṣuḥ), we beheld a great cavern (dṛṣṭavanto mahad bilam), concealed by creepers and trees (latāpādapasaṃchannam) and enveloped in darkness (timireṇa samāvṛtam).
 </details>
 </details>
 
@@ -514,6 +576,12 @@ falling [coming out.]
 "Swans, water-hawks, saarasa-waterfowls were coming out of this cavity drenched in water and sprinkling drops
 of water with the flaps of their wings. [4-52-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From this [cavern], winged birds (patattriṇaḥ)—swans drenched with water (haṃsā jalaklinnāḥ), their wings wet with water-drops (pakṣaiḥ salilareṇubhiḥ), ospreys (kurarāḥ), and cranes (sārasāḥ)—fly forth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -558,6 +626,12 @@ of water with the flaps of their wings. [4-52-12]
 
 "I said to all of them, 'Good! Let us enter it,' while they too had some inference about the availability of water
 in here. [4-52-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“`Let us rightly enter here (sādhv atra praviśāma)!'—thus were the leapers addressed by me; and unto all of them too that same inference (anumānam) commended itself (upāgatam).
 </details>
 </details>
 
@@ -608,6 +682,12 @@ taking [clasping]; *asmin ni patitaaH* = in it, down, fell - we fell down in thi
 "As our task was hastening us then we all readied ourselves to fall in the cavity by tightly clasping each other's
 hand, and then we fell in this cavity. [4-52-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, filled with urgency for their task (kāryatvarānvitāḥ), they all plunged into this [cavern]; then, having plunged deep (gāḍhaṃ nipatitāḥ), clasping one another by the hands (gṛhya hastaiḥ parasparam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -657,6 +737,12 @@ are ravenous; *paridyuunaa* = who are retrogressive; *sarve* = all [of us]; *tva
 "Thus we readily entered this Black Cavity, and this much is our activity in here as we all have come here by
 our escapade for water, and we neared you when we were ravenous and retrogressing. [4-52-15, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+we suddenly entered this darkness-shrouded cavern. This is our task (etan naḥ kāryam); on this business (etena kṛtyena) have we come,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -703,6 +789,12 @@ tubers, also, fruits, also; *upabhuktaani* = devoured.
 
 "And we who are overly harassed by hunger have devoured the fruits and tubers you have offered with the grace
 of your hospitality. [4-52-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+and we have all approached thee, utterly wasted (paridyūnāḥ) and famished with hunger (bubhukṣitāḥ). The roots and fruits bestowed according to the law of hospitality (ātithyadharmadattāni)
 </details>
 </details>
 
@@ -751,6 +843,12 @@ kim kurvantu* = what, can they do; *bruuhi* = you tell.
 "You have rescued all of us who were on the verge of hunger-deaths, and what is to be done by vanara-s for you
 in requital that you may please tell." Thus Hanuma spoke to that sainted lady. [4-52-17b, 18a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+have been partaken of (upayuktāni) by us who were tormented by hunger (bubhukṣāparipīḍitaiḥ). Since we, who were dying of hunger (mriyamāṇā bubhukṣayā), have all been saved by thee (tvayā rakṣitāḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -795,6 +893,12 @@ j~naa* = omniscient; *svayamprabhaa* = Swayamprabha; *tataH* = then; *sarvaan va
 
 When she is spoken thus by those vanara-s then that omniscient Swayamprabha replied this to all of the vanara
 commanders. [4-52-18b, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+tell [us], by way of return service (pratyupakārārtham), what the monkeys may do for thee!” Thus addressed by those monkeys, the all-knowing (sarvajñā) Svayamprabhā [replied].
 </details>
 </details>
 
@@ -846,6 +950,12 @@ hence nothing need be done now in my favour, in the least. [4-52-9b, 20a]
 The other versions of Ramayana complete this chapter with this verse and place the following subject in a separate
 chapter.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then she replied thus to all those leaders of monkey troops (vānarayūthapān): “I am thoroughly pleased (parituṣṭāsmi) with all the swift-moving monkeys;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -891,6 +1001,12 @@ agreeable to; *shubham vaakyam* = blessed, word; *uktaH hanumaan* = one who is s
 
 When Hanuma is said that blessed word by that sainted lady in that way, that which is agreeable to propriety,
 then Hanuma said this sentence to her who is with an unreprovable discernment. [4-52-20b, 21a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+as I live in accordance with righteousness (carantyā mama dharmeṇa), I have no need here of anything from anyone (na kāryam iha kenacit).” Thus addressed by the female ascetic with auspicious speech conformable to righteousness (dharmasaṃhitam),
 </details>
 </details>
 
@@ -942,6 +1058,14 @@ one, by Sugreeva; *asmaakam* = for us; *yaH samayaH kR^itaH* = which, time, made
 "We are now under the auspices of your ladyship comporting yourself in scrupulosity. We lapsed the time stipulated
 for us by the noble-souled Sugreeva by our roving around in this cavity. [4-52-21b, 22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Hanumān spoke these words to her of blameless eyes (aninditalocanām): “We have all resorted to thee for refuge (śaraṇaṃ tvāṃ prapannāḥ smaḥ), who practicest righteousness!
+
+**22:** The time-limit (samayaḥ) that was appointed for us by the high-souled Sugrīva—that period (sa tu kālaḥ) has elapsed (vyatikrāntaḥ) while we have been wandering inside the cavern (bile ca parivartatām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -989,6 +1113,12 @@ for us by the noble-souled Sugreeva by our roving around in this cavity. [4-52-2
 
 "Such as you are, a righteous lady, it will be apt of you to cross us over this cavity, as we have overextended
 the timeframe fixed by Sugreeva, whereby our longevity itself is threatened. [4-52-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore thou oughtest to deliver us (asmān uttārayitum arhasi) from this cavern—us who have transgressed (atikrāntān) that command of Sugrīva and whose lives are forfeit (gatāyuṣaḥ)!
 </details>
 </details>
 
@@ -1041,6 +1171,12 @@ ca api* = that, deed, also, even; *na kR^itam* = not, done.
 "Oh, prudent lady, sail all of us through. We are rendered as hesitaters with the fear from Sugreeva. We still
 have to achieve an admirable achievement and that deed is also left undone as we are held-up in here." Thus Hanuma
 spoke to her. [4-52-24, 25a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thou oughtest to save us all (trātum arhasi naḥ sarvān), who are terrified with dread of Sugrīva (sugrīvabhayaśaṅkitān); and a great task (mahac ca kāryam) must be accomplished by us, O righteous lady,
 </details>
 </details>
 
@@ -1107,6 +1243,14 @@ sublime, efficacy; *sarvaan eva vaanaraan* = all of the, thus, vanara-s; *asmaat
 "By the sublime efficacy of ascesis acquired through my practices of numerous self-restraints I wish to sail all
 of the vanara-s through the incarceration, called this cavity. [4-52-26b, 27a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** and that task too has not been accomplished (tac cāpi na kṛtaṃ kāryam) by us while dwelling here (iha vāsibhiḥ)!” Thus addressed by Hanumān, the female ascetic spoke these words:
+
+**26:** “I deem it impossible (duṣkaraṃ manye) for anyone who has entered [here] to return alive (jīvatā praviṣṭena nivartitum); yet by the potent power of my austerity (tapasaḥ suprabhāveṇa), earned through religious vows (niyamopārjitena),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1152,6 +1296,12 @@ exit; *na shakyam hi* = not, possible, indeed.
 "All of you best vanara-s shall close up your eyelids, for it is indeed impossible to attempt an exit with unclose
 eyes." Thus that sainted lady said to monkeys. [4-52-27b, 28a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I shall deliver (tārayiṣyāmi) all the monkeys from this cavern! Close your eyes (nimīlayata cakṣūṃṣi), all you bulls among monkeys,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1196,6 +1346,12 @@ karaiH* = with delicate, fingered, with hands; *dR^iSTim pidadhuH* = eyesight, l
 
 Then all of those desirers of departure are gladdened and immediately shut their eyelids, and further they lidded
 them with their delicately fingered hands. [4-52-28b, 29a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+for it is impossible to go forth (na hi niṣkramituṃ śakyam) with unclosed eyes (animīlitalocanaiḥ).” Then all closed their eyes (nimīlitāḥ sarve), with hands having delicate fingers (sukumārāṅgulaiḥ karaiḥ).
 </details>
 </details>
 
@@ -1243,6 +1399,12 @@ taaritaaH* = up, sailed through.
 She then sailed those noble souled vanara-s who covered their faces with their hands through that cavity barely
 within a minute. [4-52-29b. 30a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing in their eagerness to depart (hṛṣṭā gamanakāṅkṣayā), they suddenly covered their sight (sahasā pidadhur dṛṣṭim); and then those high-souled monkeys, with their faces covered by their hands (hastaruddhamukhāḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1288,6 +1450,12 @@ idam abraviit* = on comforting, even this, spoke.
 
 That virtuous and sainted lady on comforting all of the monkeys, who are taken out of that precarious cavity,
 spoke this to them at the exterior of cavity. [4-52-30b, 31a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+were delivered from the cavern by her in the mere twinkling of an eye (nimeṣāntaramātreṇa). There the female ascetic practicing righteousness spoke to all of them;
 </details>
 </details>
 
@@ -1362,6 +1530,14 @@ called Riksha Bila. [4-52-31b, 32]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐवत्तॆरडनॆय सर्ग सम्पूर्णवायितु.॥52॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** comforting (samāśvāsya) them after they had emerged from that perilous place (niḥsṛtān viṣamāt tasmāt), she spoke this: “Here is the illustrious Mount Vindhya, endowed with manifold trees and creepers;
+
+**32:** here is the Prasravaṇa mountain, and here is the ocean, the great sea (sāgaro 'yaṃ mahodadhiḥ). May welfare attend you (svasti vo 'stu), O bulls among monkeys; I shall depart to my mansion!” Having spoken thus, Svayamprabhā entered that glorious cavern.
 </details>
 </details>
 

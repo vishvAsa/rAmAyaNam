@@ -62,6 +62,12 @@ smashing, also thus - other things [about your eliminating Tataka]; *nikhilena m
 Oh, valiant Rama of Dasharatha, your valour is bruited as a sensational valour, and sensational is your smashing of Shiva's
 bow, also thus I have thoroughly heard about your others deeds like elimination of Tataka et cetera... [1-75-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Rāma, son of Daśaratha! O hero! Your wondrous valor is heard of everywhere (vīryaṃ te śrūyate ’dbhutam), and the breaking of the bow (dhanuṣo bhedanaṃ caiva) has been heard by me in full detail (nikhilena mayā śrutam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -102,6 +108,12 @@ shubham dhanuH gR^ihya* = on taking another transcending [outranking] bow; *anup
 That way, smashing of that particular bow of Shiva is wondrous and even unimaginable... on hearing that alone I happened
 upon you, bringing another outranking bow... [1-75-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Wondrous and inconceivable (tad adbhutam acintyaṃ ca) was that breaking of the bow in such a manner (bhedanaṃ dhanuṣas tathā); hearing of it, I have come here bearing another splendid bow (dhanur gṛhyāparaṃ śubham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -141,6 +153,12 @@ yourself your own capability.
 
 This alone is that catastrophic bow received through Sage Jamadagni... flex it with an arrow on bowstring stretching up
 to your ear, and in that way show your capability... [1-75-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Draw to its full circle with an arrow (pūrayasva śareṇaiva) this mighty bow of Jamadagni (jāmadagnyaṃ mahad dhanuḥ) of terrible appearance (ghorasaṃkāśam), and display your own strength (svabalaṃ darśayasva ca)!
 </details>
 </details>
 
@@ -192,6 +210,12 @@ you a combative duel..." So said Parashu Rama to Dasharatha Rama. [1-75-4]
 Pt. Satya Vrat cites this in his book 'The Ramayana - A Linguistic Study... 'As in English, we speak of *yuddhadaanam*
 - giving a fight to the enemy - in Sanskrit, too...' it is giving a duel.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, upon beholding your strength in drawing even this bow (dhanuṣo ’py asya pūraṇe), I shall grant you single combat (dvandvayuddhaṃ pradāsyāmi), worthy of praising your valor (vīryaślāghyam ahaṃ tava).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -230,6 +254,12 @@ Rama,] that, sentence, on hearing; *viSaNNavadanaH* = becoming downcast faced; *
 
 On hearing that sentence of Bhaargava Rama, then king Dasharatha became a pitiable one, and with a downcast face and adjoined
 palms said this. [1-75-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his, King Daśaratha, with a dejected countenance (viṣaṇṇavadano) and stricken with distress (dīnaḥ), joined his palms in supplication (prāñjaliḥ) and spoke these words:
 </details>
 </details>
 
@@ -301,6 +331,14 @@ Annex: 'how can you abnegate your own promise of *shastrasanyaasa* 'reclusion fr
 now, and thus becoming yourself a self-critical personality, and thus making the entire Brahman-hood as a self-contradictory
 classis...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** “You have calmed down from your wrath against the Kṣatriyas (kṣatraroṣāt praśāntas tvam), and you are a Brāhmaṇa of great asceticism (brāhmaṇaś ca mahātapāḥ); therefore, you ought to grant safety (abhayaṃ dātum arhasi) to my young sons (bālānāṃ mama putrāṇām).
+
+**7:** “Born in the lineage of the Bhārgavas, who shine with Vedic study and sacred vows (svādhyāyavrataśālinām), you solemnly pledged before the thousand-eyed Indra (sahasrākṣe pratijñāya) and cast aside your weapons (śastraṃ prakṣiptavān asi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -352,6 +390,12 @@ Annex: 'if so, is this for showing the flag or else is it for keeping the flag f
 eliminate the progeny of your own donee... Kashyapa... and if you say that 'I don't kill you all nonentities, but my target
 is this Rama...' then my reply will be like this...
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having thus become wholly devoted to dharma (sa tvaṃ dharmaparo bhūtvā), you bestowed the earth upon Kaśyapa (kaśyapāya vasuṃdharāṃ dattvā), retired to the forest, and made Mount Mahendra your abode (mahendrakṛtaketanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +441,12 @@ Annex: 'should you leave off Rama and eliminate rest of us all, Rama will not li
 Rama alone, we all don't live... anywise it is an 'anywise' annihilation of ours... for I am still living for this Rama,
 and Rama alone...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O great sage, you have arrived here for my utter destruction (mama sarvavināśāya); for if Rāma alone is slain (ekasmin hate rāme), none of us shall survive (na ... sarve jīvāmahe vayam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -435,6 +485,12 @@ tu* = uncaring for; *raamam eva abhyabhaaSata* = addressed Rama alone.
 
 While Dasharatha is speaking in that way that intransigent Bhaargava Rama of Sage Jamadagni uncaring for those merciful
 words of Dasharatha addressed Rama of Dasharatha alone. [1-75-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Daśaratha was speaking thus (bruvaty evaṃ daśarathe), the mighty son of Jamadagni (jāmadagnyaḥ pratāpavān), disregarding those words of his (anādṛtya tu tad vākyam), addressed Rāma alone (rāmam evābhyabhāṣata):
 </details>
 </details>
 
@@ -476,6 +532,12 @@ well crafted.
 These are the two strong and sturdy unsurpassed longbows, well-designed by gods and well-crafted by Vishvakarma, the Divine
 Architect, and these are very important among all bows and well-worshipped by all worlds... one broken in your, and the
 other in my hand... [1-75-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There are these two supreme, celestial bows (ime dve dhanuṣī śreṣṭhe divye), revered throughout the worlds (lokābhipūjite), firm, mighty, and preeminent (dṛḍhe balavatī mukhye), masterfully fashioned by Viśvakarman (sukṛte viśvakarmaṇā).
 </details>
 </details>
 
@@ -526,6 +588,12 @@ Demon; *ekam* = one [of the two.]
 Oh, best one among men, out of the two longbows gods gave one to restive Trymbaka, God Shiva for a combat with demon Tripura,
 and oh, Kakutstha, that bow alone is the annihilator of Tripura, the demon... and you have broken that alone... [1-75-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“One of them—the destroyer of the triple citadels of Tripura (tripuraghnam)—was presented by the gods to Tryambaka (Śiva) when he was eager for battle (tryambakāya yuyutsave); and that very bow, O best of men, O Kākutstha, has been broken by you (bhagnaṃ kākutstha yat tvayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -575,6 +643,12 @@ This is the second one and the choicest gods gave this to Vishnu, thereby this i
 this is an indestructible and enemy-citadel conquering longbow... and this is identical in its efficacy with Rudra's longbow...
 [1-75-13, 14a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This second bow, unassailable (idaṃ dvitīyaṃ durdharṣam), was given by the foremost of the gods to Viṣṇu (viṣṇor dattaṃ surottamaiḥ); this, O Rāma, is that bow of Viṣṇu, the conqueror of hostile citadels (dhanuḥ parapuraṃjayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -601,6 +675,12 @@ this is an indestructible and enemy-citadel conquering longbow... and this is id
 <details><summary>अनुवाद (कन्नड)</summary>
 
 काकुत्स्थने! इदू कूड शिव धनुस्सिनन्तॆ प्रबलवागिदॆ. हिन्दॆ समस्त देवतॆगळु भगवान् शिव मत्तु विष्णुविन बलाबलद कुरितु ब्रह्मदेवरल्लि केळिदरु - इवरिब्बरल्लि यारु हॆच्चु बलशालिगळु.॥14½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This bow, O Kākutstha, is of equal core and strength with the bow of Rudra (samānasāraṃ ... raudreṇa dhanuṣā tv idam). Now once upon a time, all the gods inquired of the Grandsire Brahmā (pṛcchanti sma pitāmaham),
 </details>
 </details>
 
@@ -646,6 +726,12 @@ Shiva and Vishnu... but the Grandparent Brahma on inferring the intent of gods s
 Shiva and Vishnu, for the Grandparent is the best adherer of truthfulness, as truth cannot be demonstrated on hearsay evidence...
 [1-75-14b, 15, 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“desiring to behold the relative strength and weakness of blue-throated Śiva and Viṣṇu (śitikaṇṭhasya viṣṇoś ca balābalanirīkṣayā). Perceiving the intention of the gods (abhiprāyaṃ tu vijñāya devatānām), the Grandsire Brahmā,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -684,6 +770,12 @@ himself] victory; *shitikaNThasya* = blue throated Shiva's; *viSNoH ca* = of Vis
 
 Owing to their animosity then occurred a fierce and hair-raising war among Shiva and Vishnu, as each aspired victory for
 himself... [1-75-16b, 17a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“foremost of the truthful (satyavatāṃ varaḥ), brought about a conflict between the two (virodhaṃ janayām āsa tayoḥ). And in that conflict, there ensued a mighty, hair-raising battle (mahad yuddham abhavad romaharṣaṇam)
 </details>
 </details>
 
@@ -729,6 +821,12 @@ is frozen... [1-75-17b, 18a]
 The bow is *jR^imbhitam* broken by the hum in dissent of Vishnu - Govindaraja. And Maheshvara Tiirtha says that the
 bow as well as Shiva are rendered *jaDa* motionless. There are many legends on this *shiva-garvabhanga* 'deflation
 of Shiva's pride' and some info about is given in endnote.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“between blue-throated Śiva and Viṣṇu, each seeking victory over the other (parasparajayaiṣiṇoḥ). Then, Śiva’s bow of terrible might became unstrung and slackened (tadā tu jṛmbhitaṃ śaivaṃ dhanur bhīmaparākramam),
 </details>
 </details>
 
@@ -780,6 +878,12 @@ Then gods along with the assemblages of sages and celestial carana-s have come t
 in the matter of wielding authority, and then those two superior gods, Shiva and Vishnu, went into a state of amity... [1-75-18b,
 19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“and by Viṣṇu’s mere menacing roar of huṃkāra, the three-eyed Mahādeva was immobilized (huṃkāreṇa mahādevaḥ stambhito ’tha trilocanaḥ). Then the gods, assembling together with hosts of sages and Cāraṇas (devais tadā samāgamya sarṣisaṅghaiḥ sacāraṇaiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -824,6 +928,12 @@ dhanuH dR^iSTvaa* = on seeing that Shiva's bow; *tadaa saRSigaNaaH devaaH* = the
 
 "On seeing the bow of Shiva rendered inert by the mettlesomeness of Vishnu, from then on the gods along with the assemblages
 of sages deemed Vishnu to be the paramount... [1-75-19b, 20a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“entreated by them, those two foremost of gods came to peace there (yācitau praśamaṃ tatra jagmatus tau surottamau). Beholding that bow of Śiva unstrung and slackened by the prowess of Viṣṇu (jṛmbhitaṃ tad dhanur dṛṣṭvā śaivaṃ viṣṇuparākramaiḥ),
 </details>
 </details>
 
@@ -874,6 +984,12 @@ that ritual, and this *shiva-keshavayuddha* 'duelling of Shiva and Vishnu...' ha
 person's disinterestedness ruins even a holy marriage. Here Daksha was uninterested to give his daughter Sati in marriage
 to Shiva.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“the gods together with the hosts of sages deemed Viṣṇu to be superior (adhikaṃ menire viṣṇuṃ devāḥ sarṣigaṇās tathā). And the illustrious Rudra, enraged (dhanū rudras tu saṃkruddho), in the land of the Videhas,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -912,6 +1028,12 @@ conquering; *idam vaiSNavam dhanuH* = this, Vishnu's, longbow; *bhaargave* = of 
 
 Oh, Rama, this alone is that enemy-citadel conquering longbow of Vishnu, and Vishnu handed over this to Sage Riciika, the
 son of Bhrigu, as a trustworthy trust... [1-75-21b, 22a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“placed that bow along with its arrows into the hand of the royal sage Devarāta (devarātasya rājarṣer dadau haste sasāyakam). And this bow of Viṣṇu, O Rāma, the conqueror of hostile citadels (idaṃ ca vaiṣṇavaṃ rāma dhanuḥ parapuraṃjayam),
 </details>
 </details>
 
@@ -961,6 +1083,12 @@ who devour oblations repeatedly and at a single time in Vedic-rituals, namely go
 remained as *jamat* and when combined with fire *jamat agni* it shortened after dropping *matup pratyaya*
 to become *jamadagni* so oh, lady know me as one born and having Ritual-fire... or, Vedic-ritual itself...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Viṣṇu bestowed as a supreme trust upon Bhārgava Ṛcīka (ṛcīke bhārgave prādād viṣṇuḥ sa nyāsam uttamam). And Ṛcīka of great fiery splendor bestowed that celestial bow upon his son of unmatched deeds (putrasyāpratikarmaṇaḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1001,6 +1129,12 @@ to become *jamadagni* so oh, lady know me as one born and having Ritual-fire... 
 Adhering to a barbarous mentality Kaartaviirya Arjuna put my father to death, when the ascetically powerful father of
 mine has isolated himself from arsenal... [1-75-23b, 24a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“my high-souled father Jamadagni (pitur mama dadau divyaṃ jamadagner mahātmanaḥ). Then, while my father, rich in ascetic power, had laid aside his weapons (nyastaśastre pitari me tapobalasamanvite),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1028,6 +1162,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तन्दॆयवरिगॆ योग्यवल्लद ई अत्यन्त भयङ्कर वधॆय समाचार केळि नानु रोषदिन्द पदे-पदे उत्पन्नराद क्षत्रियरन्नु अनेक सल संहार माडिदॆ.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Arjuna (Kārtavīrya), resorting to a base and vulgar mindset (prākṛtāṃ buddhim āsthitaḥ), wrought his death (vidadhe mṛtyum). Hearing of that unmatched and most cruel slaying of my father (vadham apratirūpaṃ tu pituḥ śrutvā sudāruṇam), out of wrath I exterminated the Kṣatriya race again and again as each generation arose (kṣatram utsādayaṃ roṣāj jātaṃ jātam anekaśaḥ).
 </details>
 </details>
 
@@ -1076,6 +1216,12 @@ on getting the entire earth under my control I performed Vedic-ritual, and at th
 earth to sage Kashyapa, a sage with divine soul and with pious observances, as a ritualistic-generosity... and I am at present
 on Mt. Mahendra practising ascesis and thus conjoined are the powers of ascesis in me... [1-75-24b, c, 25, 26a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And having won the entire earth (pṛthivīṃ cākhilāṃ prāpya), O Rāma, at the conclusion of the sacrifice I bestowed it as a sacrificial fee (yajñasyānte ’dadaṃ rāma dakṣiṇām) upon the high-souled Kaśyapa of meritorious deeds (kaśyapāya mahātmane ... puṇyakarmaṇe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1100,6 +1246,12 @@ on Mt. Mahendra practising ascesis and thus conjoined are the powers of ascesis 
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पृथ्वियन्नु दानमाडि नानु महेन्द्र पर्वतदल्लि इरतॊडगि, अल्लि तपस्सु माडि तपोबल सम्पन्ननादॆ. शिवन धनुस्सु मुरिद समाचार केळि अल्लिन्द नानु शीघ्रवागि इल्लिगॆ बन्दिरुवॆनु.॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having bestowed the earth, I dwelt on Mount Mahendra endowed with ascetic power (mahendranilayas tapobalasamanvitaḥ); and upon hearing of the breaking of Śiva’s bow (śrutvā tu dhanuṣo bhedam), I have come here swiftly (tato ’haṃ drutam āgataḥ).
 </details>
 </details>
 
@@ -1171,6 +1323,14 @@ you be capable of it, thereafter I will give you a duel... [1-75-27]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎप्पत्तैदनॆय सर्ग पूर्णवायितु.॥75॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** “Therefore, O Rāma, honoring the duty of a Kṣatriya (kṣatradharmaṃ puraskṛtya), take up this supreme, mighty bow of Viṣṇu (tad evaṃ vaiṣṇavaṃ rāma ... gṛhṇīṣva dhanur uttamam), handed down from my father and grandfather (pitṛpaitāmaham)!
+
+**28:** “Fit an arrow, the conqueror of hostile citadels, to this foremost of bows (yojayasva dhanuḥśreṣṭhe śaraṃ parapuraṃjayam); if you are able to do so, O Kākutstha (yadi śakto ’si kākutstha), I shall then grant you single combat (dvandvaṃ dāsyāmi te tataḥ)!”
 </details>
 </details>
 

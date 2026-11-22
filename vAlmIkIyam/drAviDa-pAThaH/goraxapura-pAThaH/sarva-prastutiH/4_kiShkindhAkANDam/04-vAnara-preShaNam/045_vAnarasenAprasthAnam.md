@@ -74,6 +74,12 @@ best fly-jumper and the king of monkeys Sugreeva spoke to all of them, "oh, best
 shall search all of this earth as I have detailed." Sugreeva said so to all monkeys. [4-45-1,
 2a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoning all the monkeys (sarvān plavagān), King Sugrīva, that bull among leapers, addressed them all collectively (samastān) for the accomplishment of Rāma's purpose (rāma-kāryārtha-siddhaye):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,6 +127,12 @@ on understanding; *mediniim shalabhaaH iva* = earth, grasshoppers, as with;
 
 Understanding that arduous order of the king of monkeys Sugreeva those best monkeys
 started out covering the earth like grasshoppers. [4-45-2, 3a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus must this [whole earth] be searched (vicetavyam) by you, O foremost of monkeys!” Understanding that stern command (ugra-śāsanam) of their lord, those bulls among monkeys—
 </details>
 </details>
 
@@ -171,6 +183,12 @@ to; *tasmin prasravaNe nyavasat* = on that, Prasrvana [mountain,] he dwelled - r
 Rama remained on that Mt. Prasravana along with Lakshmana looking forward to that
 month which is marked for locating Seetha. [4-45-3b, 4a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—set forth, covering the earth (saṃchādya medinīm) like locusts (śalabhā iva). Meanwhile, Rāma dwelt upon that Mount Prasravaṇa together with Lakṣmaṇa,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -216,6 +234,12 @@ swiftly, transited.
 
 Then the brave monkey Shatabali swiftly started towards the beautiful northern
 quarter that is encompassed by the king of mountains, namely Himavanta. [4-45-4b, 5a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+awaiting (pratīkṣamāṇaḥ) that month which had been appointed for the recovery of Sītā (sītādhigamane kṛtaḥ). Toward the lovely northern quarter, ringed by the king of mountains (girirāja-samāvṛtām),
 </details>
 </details>
 
@@ -291,6 +315,16 @@ western, direction; *pratasthe* = started out.
 The commander of fly-jumpers and a tigerly monkey Sushena started out towards the
 horrifying western direction that is ruled by Varuna, the Rain-god. [4-45-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** the heroic monkey Śatabali straightway set out (pratasthe sahasā) at that time; toward the eastern quarter marched the monkey troop-leader Vinata;
+
+**6:** and the leaper Hanūmān, son of the Wind-god, accompanied by Tāra, Aṅgada, and others, [marched] as troop-leader toward the southern quarter frequented by Agastya (agastyācaritām āśām).
+
+**7:** And toward the formidable western quarter (paścimāṃ diśam), guarded by Varuṇa (varuṇa-pālitām), set forth the lord of leapers Suṣeṇa, a tiger among monkeys.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,6 +377,12 @@ capabilities, that valorous king Sugreeva who is contented earlier by way of gai
 through Rama, is now gladdened to his heart's content for sending monkey troops to all directions
 as a requital to Rama's help. [4-45-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having duly (yathātatham) urged forth [his hosts toward] all the quarters, the heroic general of the monkey army, the king, already happy, rejoiced in bliss (mumoda sukhitaḥ sukham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -388,6 +428,12 @@ sampratasthire* = expeditiously, started out.
 
 In this way when despatched by their king Sugreeva all the vanara lieutenants
 expeditiously started towards one's own direction. [4-45-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus impelled (saṃcoditāḥ) by the king, all the monkey troop-leaders swiftly set forth, heading toward (abhipretya) their respective quarters.
 </details>
 </details>
 
@@ -584,6 +630,24 @@ ocean, or, even; *shaileSu ca vaneSu ca* = in mountains, also, in forests, also;
 mountains or in forests, or in the netherworld, or in its core." This is the slogan of another
 monkey-warrior. [4-45-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** Sounding forth (nadantaḥ), shouting aloud (unnadantaḥ), roaring boastfully (garjantaḥ), uttering lion-roars (kṣveḍantaḥ), and crying out in varied pitches (vinadantaḥ), thoseleapers of mighty strength raced onward.
+
+**11:** Thus urged on by the king, all the monkey troop-leaders [cried]: “We shall bring back Sītā (ānayiṣyāmahe sītām), and we shall slay Rāvaṇa!”
+
+**12:** [One boasted:] “I alone shall slay (vadhiṣyāmi) Rāvaṇa when he is encountered in battle; and thereafter, crushing [his host] by force (unmathya sahasā), I shall carry off Janaka's daughter!”
+
+**13:** [Another cried:] “Do you all remain right here today! Single-handed (eka eva), I shall bring back Jānakī, trembling with exhaustion (vepamānāṃ śrameṇa), even from the netherworld (pātālād api)!”
+
+**14:** “I shall scatter (vidhamiṣyāmi) the trees, I shall rend asunder (dārayiṣyāmi) the mountains, I shall cleave the earth, and I shall churn up (kṣobhayiṣyāmi) the oceans!”
+
+**15:** “I can leap (plaveyam) a full hundred of yojana-measure (śata-yojana-saṃkhyāyāḥ), of this there is no doubt!” [And another:] “Indeed, I [can leap] even more than a hundred (śataṃ samadhikam) of yojana-measure!”
+
+**16:** “Whether upon the surface of the earth, or in the ocean, or among mountains and forests, or even in the midst of the netherworld (pātālasyāpi vā madhye), my course is nowhere obstructed (na mamācchidyate gatiḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -643,6 +707,12 @@ the audience of monkeys king Sugreeva and departed. [4-45-17]
 </details>
 
 <details><summary>Misc Detail</summary>
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus at that time, proud of their strength (bala-darpitāḥ), the monkeys one by one (ekaikaḥ) spoke such words in the presence of that king of monkeys (harirājasya saṃnidhau).
 </details>
 </details>
 

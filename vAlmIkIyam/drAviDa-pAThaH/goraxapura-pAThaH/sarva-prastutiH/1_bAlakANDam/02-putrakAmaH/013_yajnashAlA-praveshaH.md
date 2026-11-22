@@ -76,6 +76,12 @@ year in order to attain eligibility to perform the final one. Here Dasharatha is
 completed such preludes as he entering into the Vedic ritual hall in the springtime of the
 succeeding year to the one referred in last chapter.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the spring season arrived once again (punaḥ prāpte vasante tu), a full year had been completed (pūrṇaḥ saṃvatsaro ’bhavat); and the valiant monarch went forth (to Vasiṣṭha) in order to sacrifice with the Hayamedha for the sake of progeny (prasavārtham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +126,12 @@ prashritam prasavaartham vaakyam* = said, very, humble, words.
 
 Greeting and even adoring the Sage Vashishta customarily Dasharatha said these very humble
 words to him. [1-13-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reverently saluted Vasiṣṭha (abhivādya vasiṣṭhaṃ ca) and honored him in accordance with rule, he spoke these humble words (praśritaṃ vākyam) to that foremost of the twice-born for the sake of obtaining offspring:
 </details>
 </details>
 
@@ -173,6 +185,12 @@ no, obstacles, be occurred; that way; *vidhiiyataam* = be conducted.
 "Let my ritual be performed scripturally, oh eminent Brahman, let it be conducted in such
 a way that no obstacle occurs even in its ancillary functions. [1-13-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Brāhmaṇa, bull among sages, let my sacrifice be performed strictly as prescribed in the Śāstras (yathoktam); and let such measures be taken that no obstacles arise in any of the auxiliary branches of the sacrifice (yajñāṅgeṣu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,6 +242,12 @@ shall shoulder the burden of the commenced ritual in all good faith and credence
 
 अनेन यज्ञादि-महा-कर्मारम्भे नूतनेषु ऋत्विक्षु सत्स्व् अपि प्राचीन एव सर्वज्ञे आस्तिके महा-ब्राह्मणे भारं विनिक्षिप्य तद्-वचनानुसारेण कर्म कर्तव्यम् इति सूचितम् ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are my affectionate friend and my supreme, revered preceptor (guruś ca paramo mahān); therefore the burden of this sacrifice that has now been undertaken must be borne entirely by you (voḍhavyo bhavatā caiva)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -270,6 +294,12 @@ raajaanam abraviit* = thus, said to king.
 Then that reverent Brahman Vashishta said to king, "Whatever that is requested or decided
 by you, I will see that all of them are materialised accordingly. [1-13-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saying “So be it!”, that foremost of the twice-born replied to the King: “I shall accomplish in full everything that has been requested by you (bhavatā yat samarthitam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -309,6 +339,16 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर यज्ञकर्म निपुण वसिष्ठरु ब्राह्मणरन्नु, श्रौतप्रयोग कुशलरन्नु, स्थपतिगळन्नु, परम धार्मिकराद वृद्ध ब्राह्मणरन्नु, यज्ञकर्मवु मुगियुववरॆगू सन्दर्भोचित कार्यगळल्लि नियुक्तराद सेवकरन्नु, शिल्पिगळन्नु, बडगिगळन्नु, नॆल अगॆयुववरन्नु, ज्योतिषिगळन्नु, कुशल कर्मिगळन्नु, नट नर्तकरन्नु, विशुद्ध शास्त्रवेत्तरन्नु, बहुश्रुत विद्वांसरन्नु करॆसि अवरल्लि नीवॆल्लरू महाराजन अप्पणॆयन्तॆ यज्ञकर्मक्कॆ अवश्यवाद ऎल्ल व्यवस्थॆयन्नु माडिरि ऎन्दु हेळिदरु.॥6-8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** Thereupon Vasiṣṭha addressed the aged twice-born elders who were thoroughly accomplished in sacrificial rites (yajñakarmasuniṣṭhitān), as well as seasoned elders of supreme righteousness who were masters of the science of architecture (sthāpatye niṣṭhitāṃś caiva)—
+
+**7:** Together with works-overseers (karmāntikān), brick-and-masonry makers (śilpakārān), carpenters (vardhakīn), and diggers (khanakān api), as well as astrologers and accountants (gaṇakān), fine artisans (śilpinaś caiva), and actors and dancers (naṭanartakān),
+
+**8:** And pure, deeply learned men well-versed in the ritual manuals (śucīñ śāstravidaḥ puruṣān subahuśrutān): “By the King’s command, do you all earnestly set about the work of the sacrifice (yajñakarma samīhantām)!
 </details>
 </details>
 
@@ -383,6 +423,12 @@ onlookers. Apart from this, mammoth kitchens and dining halls are to be construc
 of the thousands of participants, who are to be fed as long as ritual is conducted. Some of
 the many tradesmen are listed in a bird's eye view as above.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let bricks by the many thousands (iṣṭakā bahusāhasrī) be swiftly brought hither, and let royal pavilions (upakāryāḥ) endowed with every excellence be erected for the King (and visiting monarchs)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -423,6 +469,12 @@ ones; *braahmaNaavasathaaH* = accommodation for Brahmans; *shatashaH kartavyaaH*
 "Like that, for accommodating Brahmans hundreds of sanctified houses be built, well endowed
 and well established with very many eatables, foods, and potables. [1-13-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And let hundreds of auspicious residences for the Brāhmaṇas (brāhmaṇāvasathāś caiva) be built—firmly constructed (suniṣṭhitāḥ) and richly stocked with abundant food, edibles, and drink (bhakṣyānnapānair bahubhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -462,6 +514,12 @@ pR^ithak* = to kings, separately, separately [accommodation is to be given.]
 
 "So also, accommodation is to be given for city dwellers too, in very spacious housing, and
 severally for the kings arriving from distant places.[1-13-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Spacious quarters must likewise be prepared for the townsfolk (paurajanasyāpi), and separate residences (pṛthak pṛthak) for each of the monarchs arriving from distant realms;
 </details>
 </details>
 
@@ -509,6 +567,12 @@ great, billets; *vaideshikanivaasinaam* = dwellers of foreign-country.
 be built for those foreign-country dwellers arriving in here on their horses and elephants
 along with their soldiers. [1-13-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And stables for steeds and elephants (vājivāraṇaśālāś ca), as well as sleeping pavilions (śayyāgṛhāṇi ca), and spacious encampments for the soldiers and guests dwelling in foreign lands (vaideśikanivāsinām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -551,6 +615,12 @@ very grand [food be given.]
 "These lodgings are to be arranged with many foods and utilities for the people of this city
 and for others coming from distant countries, and a very grand food be given in all of them.
 [1-13-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Residences stocked with abundant edibles and furnished with every desired comfort (sarvakāmair upasthitāḥ), as well as plentiful and splendid provisions for the townsfolk and country-dwellers (paurajanasyāpi janasya bahuśobhanam).
 </details>
 </details>
 
@@ -600,6 +670,12 @@ tu liilayaa* = treating well, not, just, illusively; *sarve varNaaH* = to all, c
 people of all the castes shall be well honoured as they would get their due respect, and no
 disrespect be shown, even when overcome by passion or anger at anyone. [1-13-14, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Food must be bestowed strictly according to rule after paying due honor, and never carelessly or in mere sport (satkṛtya na tu līlayā), so that people of all four varṇas, being well honored, receive their due respect (sarve varṇā yathā pūjāṃ prāpnuvanti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -624,6 +700,12 @@ disrespect be shown, even when overcome by passion or anger at anyone. [1-13-14,
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यज्ञकर्मद आवश्यक सिद्धतॆयल्लि तॊडगिरुव शिल्पिगळन्नु, हिरिय-किरिय सेवकरन्नु कुरितु गमन विडुत्ता विशेषरूपदिन्द अवरन्नु सम्मानिसबेकु.॥15½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor must disrespect ever be shown to anyone, even under the sway of passion or anger (kāmakrodhavaśād api)! And those men and artisans who are intently engaged in the works of the sacrifice (yajñakarmasu ye vyagrāḥ)—
 </details>
 </details>
 
@@ -688,6 +770,14 @@ spirit; *kurvantu* = shall administer.
 "Thus, as to how all this be well organised without least negligence, thus you all shall administer
 in all your cooperation and good spirit." Thus Sage Vashishta spoke to the organisers. [1-13-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** “To them also special honor and hospitality must be rendered in due order (viśeṣeṇa pūjā kāryā yathākramam), so that they may all be well-honored and contented with gifts of wealth and food (vasubhir bhojanena ca).
+
+**17:** “Do you all act with an affectionate and joyful heart (prītiyuktena cetasā) in such a way that everything is thoroughly provided for (suvihitam) and nothing whatsoever is left defective or neglected (na kiṃcit parihīyate)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -731,6 +821,12 @@ least, will be neglected; *yathaa uktam tat kariSyamaH* = as, said, that, we wil
 Then all of them collectively replied to Sage Vashishta "As desired, all the well ordered
 works will not be neglected in the least, and they will be done as ordered, and not the least
 of them will be slighted." So said the artisans to Sage Vashishta. [1-13-18, 19a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon all those officers came together and spoke thus to Vasiṣṭha: “All that is desired has been duly arranged, and nothing whatsoever is neglected (na kiṃcit parihīyate)—
 </details>
 </details>
 
@@ -791,6 +887,14 @@ of the earth that are righteous be invited, and let all the people from all the 
 say Brahmans, Kshatriya-s, Vaisya-s, Shudra-s be invited in scores duly honouring them." So
 said Vashishta to Sumantra. [1-13-19b, 20, 21a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “We shall carry out everything just as you have spoken, and nothing whatsoever shall be left undone (na kiṃcit parihāsyate)!” Thereupon Vasiṣṭha summoned Sumantra and spoke these words:
+
+**20:** “Invite the monarchs across the earth who are devoted to dharma (pṛthivyāṃ ye ca dhārmikāḥ), as well as Brāhmaṇas, Kṣatriyas, Vaiśyas, and Śūdras by the thousands (sahasraśaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -842,6 +946,14 @@ association; *puurvam braviimi te* = firstly, I am telling, you.
 honouring his well and duly bearing in mind that he is a long-time associate of our King Dasharatha,
 hence I am telling you in the first instance. [1-13-21b,22]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “Having duly honored them, bring hither men from all lands! And as for the heroic lord of Mithilā, King Janaka of truthful speech (janakaṃ satyavādinam)—
+
+**22:** “Go yourself in person (svayam eva) and bring that supremely fortunate monarch with all due honor (susatkṛtam); knowing him to be an ancient (and future) kinsman (pūrvaṃ sambandhinaṃ jñātvā), I name him to you first of all (tataḥ pūrvaṃ bravīmi te)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -883,6 +995,12 @@ who is friendly, always, affectionate, desiring one, well behaved [cordial] one;
 
 "Thus that King of Kaashi who is always a friendly, affectionate and a cordial one, indeed
 he shall be invited by you personally. [1-13-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So too the affectionate lord of Kāśī (kāśipatiṃ snigdham), who is ever gentle in speech, of noble conduct, and godlike in radiance—bring him also yourself in person!
 </details>
 </details>
 
@@ -928,6 +1046,12 @@ one; *shvashuram* = father-in-law; *raajasimhasya* = of lion like king [Dasharat
 
 "Likewise, King of Kekaya, an elderly, very virtuous, and also the father-in-law of our Lion-King
 Dasharatha, you personally invite him along with his sons. [1-13-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And likewise the aged and supremely righteous King of Kekaya (kekayarājānaṃ vṛddham), father-in-law of this lion among kings—bring him hither together with his son (Yudhājit)!”
 </details>
 </details>
 
@@ -975,6 +1099,12 @@ honoured, *samaanaya* = be invited well.
 "Romapada, the lord of Anga kingdom and the user of great bow, let that illustrious one be
 invited well honoured, for he is the friend of our lion-king Dasharatha. [1-13-25]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the mighty archer Romapāda, lord of Aṅga and dear friend of this lion among kings—bring him hither together with his son, duly honored!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1015,6 +1145,12 @@ Bhanumanta; *susatkR^itam* = well honoured; *magadhaadhipatim* = king of Magadha
 
 "Like that King of Kosala namely Bhanumanta, and the King of Magadha, a brave one and a profound
 one in all scriptural knowledge, let them be honoured well and be invited. [1-13-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And likewise the highly cultured King Bhānumān of Kosala (kosalarājānaṃ bhānumantaṃ susaṃskṛtam), and the heroic lord of Magadha, well-versed in all the Śāstras (sarvaśāstraviśāradam)—
 </details>
 </details>
 
@@ -1057,6 +1193,12 @@ shaasanam aadaaya* = taking king's orders; *chodayasva* = motivated by it;
 "And Praaptijna, the king of Magadha, the kind-hearted and best one among kings, be well honoured
 and invited. Further, taking the orders of King Dasharatha and motivated by those orders,
 the kings of Sindhu, Sauviira and Sauraastra kingdoms may also be invited. [1-13-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That bull among men, supremely munificent, honored, and expert in timely counsel (prāptijñaṃ paramodāram); and taking the King’s royal decree (rājñaḥ śāsanam ādāya), summon the foremost monarchs—the kings of the Eastern realms (prācīnān), of Sindhu and Sauvīra, and of Surāṣṭra (saurāṣṭhreyāṃś ca pārthivān),
 </details>
 </details>
 
@@ -1112,6 +1254,14 @@ other friendly kings on the surface of the earth, they too shall be invited as e
 with all their followers, relatives through highly illustrious envoys, of course with the
 orders of our king." Thus Sage Vashishta said to minister Sumantra. [1-13-28, 29]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** “And all the monarchs of the Southern region (dākṣiṇātyān narendrāṃś ca)—bring them hither in their entirety! And whatever other affectionate kings there be upon the face of the earth,
+
+**29:** “Bring them with all speed, together with their attendants and kinsmen (sānugān sahabāndhavān); have all these escorted hither by noble envoys at the King’s command (etān dūtair mahābhāgair ānayasva nṛpājñayā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1158,6 +1308,12 @@ envoys.
 On hearing that word of Vashishta, Sumantra expeditiously ordered devout envoys to invite
 all those kings to their kingdom. [1-13-30]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of Vasiṣṭha, Sumantra immediately commissioned capable and trusty emissaries (vyādiśat puruṣāṃs tatra... śubhān) to bring those monarchs.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1203,6 +1359,12 @@ sage's orders; *twaritaH bhuutva* = on becoming brisk; *samaanetum mahiikShitaH*
 That virtuous Sumantra became brisk upon sage's words and personally journeyed to fetch all
 the rulers on the earth. [1-13-31]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And at the sage’s command, the righteous-souled Sumantra of vast intellect set forth in haste in person (svayam eva hi dharmātmā prayātaḥ) in order to bring those foremost monarchs.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1241,6 +1403,12 @@ the rulers on the earth. [1-13-31]
 
 All those artisans engaged in ritual works have reported Vashishta, the details of all those
 ritual works that are accomplished. [1-13-32]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Meanwhile, all those works-overseers (te ca karmāntikāḥ sarve) reported to the great seer Vasiṣṭha everything that had been prepared and fashioned for the sacrifice (yajñe yad upakalpitam).
 </details>
 </details>
 
@@ -1296,6 +1464,12 @@ will kill the donor and there is no doubt about it." [1-13-33, 34a]
 
 इति ।
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Well pleased, that foremost of the twice-born, the sage Vasiṣṭha, spoke again to them all: “Nothing must ever be given to anyone with disrespect, nor even in careless sport (avajñayā na dātavyaṃ kasyacil līlayāpi vā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1343,6 +1517,12 @@ _________________
 
 Then in some days and nights many kings have arrived taking precious gems with them as gifts
 for Dasharatha. [1-13-34b, 35a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A gift bestowed with disrespect inevitably destroys the giver—of this there is no doubt (avajñayā kṛtaṃ hanyād dātāraṃ nātra saṃśayaḥ)!” Then, within a few days and nights (kaiścid ahorātraiḥ), the monarchs arrived—
 </details>
 </details>
 
@@ -1395,6 +1575,14 @@ Then the well pleased Sage Vashishta said this to King Dasharatha "the kings fro
 kingdoms have arrived at your behest, oh, tigerly-man, and these best kings are well honoured
 by me also as per their status. [1-13-35b, 36]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**35:** Bearing manifold precious gems as tribute for King Daśaratha (bahūni ratnāny ādāya rājño daśarathasya ha). Thereupon Vasiṣṭha, supremely pleased, spoke thus to the King:
+
+**36:** “O tiger among men, at your command the monarchs have arrived (upayātā naravyāghra rājānaḥ), and all those foremost of kings have been duly honored by me according to their rank (yathārham)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1444,6 +1632,12 @@ puruSaiH* = well coalesced, by men; *bhavaan yaSTum* = you, to perform ritual;
 the ritual place that is nearby, to perform your ritual." Said Sage Vashishta to King Dasharatha.
 [1-13-37]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And every sacrificial preparation (yajñiyaṃ ca kṛtaṃ sarvam) has been completed by the attentive workmen; therefore let Your Majesty come forth to sacrifice at the sacrificial enclosure close at hand (yajñāyatanam antikāt),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1483,6 +1677,12 @@ indeed; *manasaa vinirmitam eva* = as though built by wish [this ritual hall];
 
 "All the desirable paraphernalia is arranged and made available everywhere, and it is apt
 of you see ritual hall that is as though built by your mere wish. [1-13-38]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Which is furnished on every side with all desired requisites brought together—you ought to behold it, O chief of kings, appearing as though conjured into being by thought alone (manaseva vinirmitam)!”
 </details>
 </details>
 
@@ -1544,6 +1744,12 @@ called *tithi, vaara, nakshatra* in accordance with astrological import. In addi
 to these three are two more *yoga* and *karaNa* , which when added together
 this becomes *panchaanga*, five-aspects of time, which are essential to verify before
 conducting any auspicious work.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accordingly, at the word of both Vasiṣṭha and Ṛṣyaśṛṅga (vasiṣṭhavacanād ṛṣyaśṛṅgasya cobhayoḥ), on an auspicious day and under a propitious constellation (divase śubhanakṣatre), the lord of the earth came forth.
 </details>
 </details>
 
@@ -1683,6 +1889,14 @@ along with his wives undertook vow of ritual. [1-13-41]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि हदिमूरनॆय सर्ग पूर्णवायितु. ॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**40:** Thereupon all the foremost of the twice-born, headed by Vasiṣṭha, placing Ṛṣyaśṛṅga at their forefront (ṛṣyaśṛṅgaṃ puraskṛtya), commenced the sacrificial rites at that time (yajñakarmārabhaṃs tadā).
+
+**41:** Having all entered the sacrificial enclosure (yajñavāṭaṃ gatāḥ sarve) in accordance with the Śāstras and ritual ordinance, the glorious monarch, together with his queens (saha patnībhī rājā), entered upon the sacred consecration (dīkṣām upāviśat).
 </details>
 </details>
 

@@ -76,6 +76,12 @@ _________________
 Thereafter, when the sages departed, Rama, reflecting again and again, found no
 pleasure to remain in that place for many reasons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the ascetics had departed (yāteṣu tapasviṣu), Rāghava, reflecting deeply (vicintayan), did not relish dwelling there any longer at that time for many reasons (kāraṇair bahubhiḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -125,6 +131,12 @@ them; *nityam* = daily.
 "It is here that Bharata, my mother along with the inhabitants of the city visited
 me. That memory haunts me, who lament for them daily."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here Bharata was seen by me, together with my mothers and the citizens of Ayodhyā (mātaraś ca sanāgarāḥ); and as I continually grieve for them (tān nityam anuśocataḥ), that memory ever pursues me (sā ca me smṛtir anveti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -173,6 +185,12 @@ spoliation.
 "The dry dung of horses and elephants of that high souled Bharata's encamped army
 caused much spoliation (around here)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Moreover, by that encampment of the army (skandhāvāraniveśena) of that high-souled prince, and by the dung of horses and elephants (hayahastikarīṣaiś ca), this place has been heavily trampled and fouled (upamardaḥ kṛto bhṛśam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -220,6 +238,12 @@ raaghavaH* = that Rama; *sangataH* = along with; *vaidihyaaH* = Seetha;
 
 "We shall, therefore, move elsewhere", pondering thus, Rama along with Seetha and
 Lakshmana left that place.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reflected, “Therefore let us depart elsewhere (tasmād anyatra gacchāma),” Rāghava set forth (prātiṣṭhata), accompanied by Vaidehī and Lakṣmaṇa.
 </details>
 </details>
 
@@ -271,6 +295,12 @@ On the way, after reaching the hermitage of a sage called Atri, the highly
 celebrated Rama offered salutation to that sage. The venerable sage, Atri too received him as his
 own son.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching the hermitage of Sage Atri (atrer āśramam āsādya), that prince of great renown bowed in reverence to him (taṃ vavande); and the venerable Atri in turn received him like a son (putravat pratyapadyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,6 +349,12 @@ own son.
 
 Offering personally, abundant hospitality with full honours to Rama, the sage Atri
 rendered equal honour to Lakshmana and the highly blessed Seetha too.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having personally directed that every hospitable reception be fittingly offered to him (svayam ātithyam ādiśya sarvam asya susatkṛtam), the sage affectionately consoled and greeted (samasāntvayat) Saumitri and the illustrious Sītā.
 </details>
 </details>
 
@@ -402,6 +438,14 @@ Atri excellent sage spoke to the illustrious Anasuya, rich in asceticism and who
 lived a pious life, saying "You welcome Videha's daughter!" and thereafter introduced that virtuous
 female ascetic to Rama (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** Addressing his aged and revered wife (patnīṃ vṛddhām āmantrya satkṛtām) who had arrived there, that knower of dharma, ever devoted to the welfare of all beings (sarvabhūtahite rataḥ), spoke soothing words to her.
+
+**8:** “Do thou welcome and embrace Vaidehī (pratigṛhṇīṣva vaidehīm),” said the foremost of sages to the illustrious ascetic matron Anasūyā who walked in righteousness (tāpasīṃ dharmacāriṇīm); and to Rāma he recounted the glory of that righteous ascetic:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -440,6 +484,16 @@ female ascetic to Rama (as follows):
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर अवरु श्रीरामचन्द्रनिगॆ धर्मपारायण तपस्विनी अनसूयॆय परिचयाडिसुत्ता हेळिदरु - हिन्दॊम्मॆ हत्तु वर्षगळ काल मळॆये आगलिल्ल, आग इडी जगत्तु निरन्तर सुडतॊडगिदाग, ईकॆयु उग्रतपस्सु माडुत्ता, कठोर नियमगळिन्द अलङ्कृतळागि, तन्न तपस्सिन प्रभावदिन्द इल्लि फल-मूलगळन्नु उत्पन्नगॊळिसि, मन्दाकिनिय पवित्र प्रवाहवन्नु हरिसिदळु. अय्या! इवळु हत्तु साविर वर्ष भारी तपस्सु माडि, तन्न उत्तम व्रतगळ प्रभावदिन्द ऋषिगळन्नु ऎल्ल विघ्नगळिन्द कापाडिद अनसूयादेवि इवळे आगिरुवळु.॥9-11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** “When the world was scorched continuously for ten years by drought (daśavarṣāṇy anāvṛṣṭyā dagdhe loke nirantaram), by her were roots and fruits created (yayā mūlaphale sṛṣṭe) and the river Jāhnavī made to flow here (jāhnavī ca pravartitā).
+
+**10:** “Endowed with fierce austerity (ugreṇa tapasā yuktā) and adorned with sacred observances (niyamaiś cāpy alaṅkṛtā), by her was mighty penance practiced for ten thousand years (daśavarṣasahasrāṇi).
+
+**11:** “Bathed in sacred vows (vrataiḥ snātā), Anasūyā dispelled all obstacles to the sages' rites (pratyūhāś ca nivartitāḥ); and hastening on behalf of the cause of the gods (devakāryanimittaṃ ca), by her a single night was made into ten nights (daśarātraṃ kṛtā rātriḥ)—she is like a mother unto you, O sinless one (seyaṃ māteva te 'nagha).
 </details>
 </details>
 
@@ -521,6 +575,12 @@ would be no dawn any more. Alarmed at this, gods approached Anasuya, who by virt
 asceticism converted the period of ten nights into one and in this way averted the death of the
 hermittess, husband and accomplished the purpose of gods.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let Vaidehī approach this illustrious matron, worthy of salutation by all beings (sarvabhūtānāṃ namaskāryām), aged and ever free from wrath (vṛddhām akrodhanāṃ sadā), who through her deeds has won renown in the world as Anasūyā.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -566,6 +626,12 @@ hermittess, husband and accomplished the purpose of gods.
 
 "Let Seetha find refuge with that ascetic, who is revered by all the beings, famous
 as she is and though old is ever free from anger."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having said “So be it (tathā)” to that sage who was speaking thus, Rāghava spoke this excellent word to Sītā, who knew the law of righteousness (dharmajñām):
 </details>
 </details>
 
@@ -614,6 +680,12 @@ words.
 Saying "Be it so" to the aforesaid sage, who was speaking thus, Rama spoke to the
 virtuous Seetha, the following excellent words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O princess (rājaputri), you have heard this word uttered by this sage (muner asya samīritam); for the sake of your own highest welfare (śreyortham ātmanaḥ), quickly approach the ascetic matron (śīghram abhigaccha tapasvinīm).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -659,6 +731,12 @@ approach; *tapasviniim* = the saintly Anasuya.
 
 "O, princess! You have heard what the sage has said. For your own good, approach the
 saintly Anasuya without delay."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that word of Rāghava who ever desired her welfare (rāghavasya hitaiṣiṇaḥ), Sītā, princess of Mithilā, approached that dharma-knowing wife of Atri (tām atripatnīṃ dharmajñām abhicakrāma):
 </details>
 </details>
 
@@ -707,6 +785,12 @@ circumambulated; *taam* = that; *atripatniim* = Anasuya; Atri's wife;
 Hearing these words of Rama, who is desirous of her welfare, Seetha the daughter of
 Mithila circumambulated around Anasuya, Atri's wife, who knows piety.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Loosened in her bodily frame (śithilām), furrowed with wrinkles (valitām), aged (vṛddhām), with her hair turned white through old age (jarāpāṇḍaramūrdhajām), and her limbs trembling continually (satataṃ vepamānāṅgīm) like a plantain tree in a high wind (pravāte kadalī yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -731,6 +815,12 @@ Mithila circumambulated around Anasuya, Atri's wife, who knows piety.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामचन्द्रन मातन्नु केळि यशस्विनी मिथिलेश कुमारि सीतॆयु धर्मवन्नु तिळिदिरुव अत्रि पत्नी अनसूयॆय बळिगॆ होदळु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With unflurried mind (avyagrā), Sītā bowed in salutation (abhyavādayat) to that illustrious and devoted wife Anasūyā (anasūyāṃ pativratām), and announced her own name (svanāma samudāharat).
 </details>
 </details>
 
@@ -777,6 +867,12 @@ Seetha coolly and reverently paid homage to that fortunate Anasuya, a devoted an
 virtuous wife, who was feeble, wrinkled, aged, with her hair turned grey due to old age, and whose
 frame constantly shook like a banana tree in a storm. Seetha introduced herself, by announcing her
 name to Anasuya.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed in salutation to that blameless ascetic matron (tāpasīṃ tām aninditām), Vaidehī, joyful and with her hands joined in reverence (baddhāñjalipuṭā hṛṣṭā), inquired after her bodily well-being (paryapṛcchad anāmayam).
 </details>
 </details>
 
@@ -827,6 +923,12 @@ with joined palms; *hR^iSTaa* = and rejoiced; *paryapR^ichchhat* = enquired;
 Saluting the irreproachable ascetic the rejoiced Seetha with joined palms enquired
 about he well-being.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding the illustrious Sītā walking in righteousness (tāṃ dharmacāriṇīm), that ascetic matron, rejoicing and speaking soothingly (sāntvayanty abravīd dhṛṣṭā), said: “By good fortune you have regard for dharma (diṣṭyā dharmam avekṣase)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -874,6 +976,12 @@ follows); *avekSase* = you are attending; *dharmam* = to righteousness;
 Then, comforting that celebrated Seetha, engaged in righteous acts, Anasuya
 rejoicingly spoke as follows: "Luckily enough, you are attending to righteousness."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having forsaken your kinsfolk (tyaktvā jñātijanam), O Sītā, as well as pride and royal affluence (mānam ṛddhiṃ ca), O noble lady (bhāmini), by good fortune you follow Rāma who is confined to the forest (avaruddhaṃ vane rāmam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -920,6 +1028,12 @@ expelled vane = into a forest.
 
 "O, Seetha the beautiful lady! Thank heaven! Leaving your relatives, honour and
 prosperity, you are accompanying Rama, who is expelled into a forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whether he dwells in a city or in a forest (nagarastho vanastho vā), whether he be sinful or auspicious (pāpo vā yadi vā śubhaḥ), for those women to whom their husband is dear (yāsāṃ strīṇāṃ priyo bhartā), worlds of supreme felicity await (tāsāṃ lokā mahodayāḥ).
 </details>
 </details>
 
@@ -971,6 +1085,12 @@ mahodayaaH* = greatly fortunate; *lokaaH* = words.
 "Highly fortunate worlds await those women, await those women, to whom their husband
 is dear no matter whether he lives in a city or in a forest; whether he is sinful or virtuous."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whether he be of ill conduct (duḥśīlaḥ), self-willed in his desires (kāmavṛtto vā), or destitute of wealth (dhanair vā parivarjitaḥ), for women of noble nature (strīṇām āryasvabhāvānām) the husband is the supreme deity (paramaṃ daivataṃ patiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1016,6 +1136,12 @@ nature; *patiH* = husband; *paramam* = is the hightest daivatam = deity;
 
 "To women of noble nature, the husband is the highest deity no mater whether he is
 ill-behaved or licentious or devoid of riches."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Reflecting carefully (vimṛśanty aham), O Vaidehī, I behold no kinsman superior to a husband (nāto viśiṣṭaṃ paśyāmi bāndhavam), who is serviceable in every state like imperishable ascetic merit (sarvatrayogyaṃ tapaḥkṛtam ivāvyayam).
 </details>
 </details>
 
@@ -1063,6 +1189,12 @@ wife; *sarvatra* = in all circumstances; *avyayam iva* = like the imperishable f
 
 "O, Seetha! On a reflection, I perceive none who is a better friend than a husband,
 who protects his wife in all circumstances, like the imperishable fruit of one's austerities."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet evil women (asatstriyaḥ), whose hearts are enslaved to lust (kāmavaktavyahṛdayāḥ) and who roam about dominating their husbands (bhartṛnāthāś caranti yāḥ), do not discern this merit and fault (guṇadoṣam).
 </details>
 </details>
 
@@ -1112,6 +1244,12 @@ hearts follow their passions; *charanti* = and; conduct themselves;
 dominating their husband, having no understanding of virtue and vice, do not follow him in the
 aforesaid manner."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Falling under the sway of forbidden deeds (akāryavaśam āpannāḥ), O Maithilī, women of that sort verily incur infamy (ayaśaś caiva) and a fall from righteousness (dharmabhraṃśaṃ ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1159,6 +1297,12 @@ authority; *tadvidhaaH* = in the aforesaid manner; *praapnuvanti* = reap;
 
 "O, Seetha! Surely, those evil women, who get into an improper act of authority over
 their husbands reap infamy and decline in righteousness."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Women like you, however (tvadvidhās tu), endowed with noble virtues (guṇair yuktāḥ) and discerning the truth of the higher and lower worlds (dṛṣṭalokaparāvarāḥ), shall roam in heaven just like performers of righteous deeds (yathā dharmakṛtas tathā).
 </details>
 </details>
 
@@ -1209,6 +1353,12 @@ tathaa* = therefore; *chariSyanti* = dwell; *svarge* = in heaven; *yathaa*
 "Women, like you, on the other hand who are endowed with virtues, who look with
 detachment on prosperity and adversity in this world, therefore dwell in heaven as those who
 performed meritorious deeds."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, remaining devoted to him in this manner (tad evam enaṃ tvam anuvratā satī) and following the sacred code of chaste wives (pativratānāṃ samayānuvartinī), be thou your husband’s companion in dharma (bhavasva bhartuḥ sahadharmacāriṇī); thereby you shall attain both renown and righteousness (yaśaś ca dharmaṃ ca tataḥ samāpsyasi).”
 </details>
 </details>
 

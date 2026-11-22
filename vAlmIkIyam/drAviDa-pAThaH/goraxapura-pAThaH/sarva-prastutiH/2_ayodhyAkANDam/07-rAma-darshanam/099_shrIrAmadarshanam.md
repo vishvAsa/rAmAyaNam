@@ -71,6 +71,12 @@ Shatrughna.
 Having stationed his forces, Bharata set out eagerly to see his brother, pointing
 out the sign of Rama's habitation to Shatrughna.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the army had encamped, the eager Bharata set forth to behold his brother (niviṣṭāyāṃ tu senāyām utsuko bharatas tadā jagāma bhrātaraṃ draṣṭum), pointing out the tokens of the hermitage along the way to Śatrughna (śatrughnam anudarśayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,6 +127,12 @@ mothers; *shiighram* = soon; *jagaama* = (and) went; *agre* = ahead;
 Bharata, who was affectionate towards the elders, asked the sage Vasishta to bring
 his mothers soon thereafter and went ahead quickly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having instructed the sage Vasiṣṭha, “Bring my mothers quickly!” (ṛṣiṃ vasiṣṭhaṃ sandiśya mātṝr me śīghram ānaya iti), that prince devoted to his elder brother went ahead in haste (tvaritam agre sa jagāma guru-vatsalaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -166,6 +178,12 @@ his mothers soon thereafter and went ahead quickly.
 
 Sumantra also, equally desirous of seeing Rama; followed Shatrughna at a little
 distance.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Sumantra too followed closely behind Śatrughna (sumantras tv api śatrughnam adūrād anvapadyata); for the thirst born of eagerness to behold Rāma was his just as it was Bharata’s (rāma-darśana-jas tarṣo bharatasyeva tasya ca).
 </details>
 </details>
 
@@ -214,6 +232,12 @@ that wood of ascestics.
 While the illustrious Bharata passed on, he observed in that wood of ascetics, a
 leafy hut of his brother together with a small hut made of leaves, nearby.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he walked on, the glorious Bharata beheld his brother’s leaf-thatched cottage and inner bower (gacchann evātha bharato bhrātuḥ parṇa-kuṭīṃ śrīmān uṭajaṃ ca dadarśa ha), situated amid the hermitages of ascetics (tāpasālaya-saṃsthitām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -260,6 +284,12 @@ beheld; *kaaSThaami* = wood; *avabhagnaami* = that had been broken up;
 Bharata then beheld wood that had been broken up and heaps of flowers gathered in
 front of that hermitage.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In front of that hall, Bharata then beheld faggots of wood broken for the fire and flowers gathered in heaps (śālāyās tv agratas tasyā dadarśa bharatas tadā kāṣṭhāni cāvabhagnāni puṣpāṇy upacitāni ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -302,6 +332,12 @@ hermitage.
 While coming to the hermitage, Bharata saw some signs here and there serving as a
 proper direction to that hermitage, tufts of Kusha grass and strips of bark tied to the trees by
 Rama and Lakshmana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And he saw the trail-markers made here and there upon the trees with kuśa grass and strips of bark (dadarśa kṛtaṃ vṛkṣeṣv abhijñānaṃ kuśa-cīraiḥ kvacit kvacit) by Rāma accompanied by Lakṣmaṇa as he went to and from the hermitage (sa-lakṣmaṇasya rāmasya āśramam īyuṣaḥ).
 </details>
 </details>
 
@@ -351,6 +387,12 @@ buffaloes; *tasmin vane* = in that abode; *kR^itaan* = made ready;
 
 Bharata also saw in the vicinity great heaps of dried dung of deers and buffaloes,
 kept ready for protection against cold.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And in that forest he saw great heaps made of the dried dung of deer and buffaloes on account of the cold (dadarśa ca vane tasmin mahataḥ sañcayān kṛtān mṛgāṇāṃ mahiṣāṇāṃ ca karīṣaiḥ śīta-kāraṇāt).
 </details>
 </details>
 
@@ -402,6 +444,12 @@ surrounded him) on every side.
 Then, proceeding further, the valiant and the mighty armed Bharata spoke to
 Shatrughna in joy, as also those ministers who surrounded him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he walked on, the resplendent, mighty-armed Bharata rejoiced and spoke to Śatrughna and all those ministers (gacchann eva mahā-bāhur dyutimān bharatas tadā śatrughnaṃ cābravīd dhṛṣṭas tān amātyāṃś ca sarvaśaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,6 +495,12 @@ nadiim* = Mandakini River; *naati duure* = is not so far; *itaH* = from here.
 
 "I think we have reached the place about which Bharadwaja directed us. I believe
 Mandakini River is not far from here."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I think we have reached that region of which Bharadvāja spoke (manye prāptāḥ sma taṃ deśaṃ bharadvājo yam abravīt); indeed, I think the river Mandākinī is not far from here (nātidūre hi manye ’haṃ nadīṃ mandākinīm itaḥ).
 </details>
 </details>
 
@@ -495,6 +549,12 @@ tied up; *uchchaiH* = from above; *ayam* = this; *bhavet* = may be;
 "These pieces of bark have been tied up from above. This may be the path provided as
 signs by Lakshmana in order to find his way back in odd hours of darkness."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Strips of bark have been tied high aloft (uccair baddhāni cīrāṇi); this must be the path marked with tokens by Lakṣmaṇa when wishing to go forth at twilight (lakṣmaṇena bhaved ayam abhijñāna-kṛtaḥ panthā vikāle gantum icchatā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -540,6 +600,12 @@ this; *parikraantam* = is a roaming place; *kuN^jaraaNaam* = of elephants;
 
 "At the side of the mountain, this is a roaming place of elephants, having huge
 teeth, violent as they are and ferociously roaring at each other."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And here along the mountainside is the trampling-ground of swift, high-tusked elephants roaring at one another (idaṃ codātta-dantānāṃ kuñjarāṇāṃ tarasvināṃ śaila-pārśve parikrāntam anyonyam abhigarjatām).
 </details>
 </details>
 
@@ -587,6 +653,12 @@ teeth, violent as they are and ferociously roaring at each other."
 "See this intense smoke coming from that fire which the sages in the forest always
 desire to keep in their hermitages."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And yonder is seen the dense smoke of the dark-pathed sacred fire (tasyāsau dṛśyate dhūmaḥ saṅkulaḥ kṛṣṇa-vartmanaḥ), which ascetics in the forest ever desire to kindle and maintain (yam evādhātum icchanti tāpasāḥ satataṃ vane).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -632,6 +704,12 @@ venerable a man; *maharSimiva* = as a sage.
 
 "Here, I can see joyfully Rama, the tiger among men, who gives respect to elders and
 is as venerable as a sage."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Here with joy I shall behold the noble Rāghava, that tiger among men (atrāhaṃ puruṣa-vyāghram āryaṃ drakṣyāmi saṃhṛṣṭo rāghavam), who performs the sacred rites for his elders and resembles a great sage (guru-saṃskāra-kāriṇam maharṣim iva)!”
 </details>
 </details>
 
@@ -682,6 +760,12 @@ people (his ministers and others).
 
 Proceeding for a while on Chitrakuta mountain and reaching the River Mandakini, that
 Bharata said to his ministers and others as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having proceeded for a brief while on Citrakūṭa and reached the Mandākinī (atha gatvā muhūrtaṃ tu citrakūṭaṃ sa rāghavaḥ mandākinīm anuprāptaḥ), that descendant of Raghu spoke this word to his companions (taṃ janaṃ cedam abravīt):
 </details>
 </details>
 
@@ -735,6 +819,12 @@ life!.
 floor, delighted as he was in the posture of a hero (with his left foot placed on his right knee).
 O Fie unto my birth and life!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having repaired to the trackless wilderness, the lord of men, that tiger among men, sits upon the bare earth intent upon the heroic posture (janendro nirjanaṃ prāpya jagatyāṃ puruṣa-vyāghra āste vīrāsane rataḥ); fie upon my birth and my very life (dhiṅ me janma sa-jīvitam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -775,6 +865,12 @@ forest.
 
 "Rama the Lord of Men with great luster, has been overtaken by this misfortune
 because of me and leaving all enjoyments, is living in the forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fallen into calamity on my account, Rāghava, the lord of the world of mighty splendor (mat-kṛte vyasanaṃ prāpto loka-nātho mahā-dyutiḥ rāghavaḥ), dwells in the forest after forsaking all desires (sarvān kāmān parityajya vane vasati).
 </details>
 </details>
 
@@ -822,6 +918,12 @@ Lakshmana; *prasaadayam* = and seek to regain (Rama's) grace.
 "Thus abhhored by the world, I will fall on the feet of Rama, Seetha and Lakshmana
 and seek to regain Rama's grace."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reviled thus by the world, I shall today fall at the feet of Rāma, Sītā, and Lakṣmaṇa to propitiate them (iti loka-samākruṣṭaḥ pādeṣv adya prasādayan rāmasya nipatiṣyāmi sītāyā lakṣmaṇasya ca).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -846,6 +948,12 @@ and seek to regain Rama's grace."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ विलाप माडुत्ता दशरथकुमार भरतनु आ वनदल्लि ऒन्दु विशालवाद पर्णकुटियन्नु नोडिदनु. अदु परम पवित्र मत्तु मनोरमवागित्तु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting thus in that forest, the son of Daśaratha (evaṃ sa vilapaṃs tasmin vane daśarathātmajaḥ) beheld the spacious, sacred, and enchanting leaf-thatched hall (dadarśa mahatīṃ puṇyāṃ parṇa-śālāṃ manoramām):
 </details>
 </details>
 
@@ -872,6 +980,12 @@ and seek to regain Rama's grace."
 
 आ कुटीरवु साल, ताल, अश्वकर्ण ऎम्ब वृक्षगळ ऎलॆगळिन्द हॊदिसलागित्तु; आद्दरिन्द यज्ञशालॆयल्लि कुशगळन्नु हासिद उद्द अगल वेदियन्तॆ शोभिसुत्तित्तु.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+covered with abundant leaves of sāla, palmyra, and aśvakarṇa trees (sāla-tālāśvakarṇānāṃ parṇair bahubhir āvṛtām), spacious, and strewn with soft kuśa blades like an altar at a sacrifice (viśālāṃ mṛdubhis tīrṇāṃ kuśair vedim ivādhvare);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -897,6 +1011,12 @@ and seek to regain Rama's grace."
 
 अल्लि इन्द्र धनुष्यदन्तह गुरुतर कार्यसाधनॆयल्लि समर्थवाद अनेक धनुस्सुगळन्नु इडलागित्तु. अवुगळ पृष्ठभागवन्नु बङ्गारदिन्द माडिद्दागिद्दु बहळ प्रबल शत्रुगळन्नु बाधॆपडिसुवन्तहुदागिद्दवु. अवुगळिन्दले आ पर्णकुटियु बहळ शोभिसुत्तित्तु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+graced with enemy-harassing bows that resembled Indra’s rainbow (śakrāyudha-nikāśaiś ca kārmukaiḥ śobhitāṃ śatru-bādhakaiḥ), capable of achieving mighty tasks, gold-backed, and of immense strength (bhāra-sādhanaiḥ rukma-pṛṣṭhair mahā-sāraiḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -921,6 +1041,12 @@ and seek to regain Rama's grace."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि बाणगळु तुम्बिद अनेक बत्तळिकॆगळिद्दवु, अदरल्लिन बाणगळु सूर्य किरणगळन्तॆ हॊळॆयुत्तिद्दु, भयङ्करवागिद्दवु. आ बाणगळिन्द प्रकाशमान मुखवुळ्ळ सर्पगळिन्द भोगवती पुरियु शोभिसुवन्तॆ आ पर्णकुटियु शोभिसुत्तित्तु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+resplendent with formidable arrows resting in quivers, bright as the rays of the sun (arka-raśmi-pratīkāśair ghorais tūṇī-gataiḥ śaraiḥ), like the city of Bhogavatī with blazing-mouthed serpents (śobhitāṃ dīpta-vadanaiḥ sarpair bhogavatīm iva);
 </details>
 </details>
 
@@ -949,6 +1075,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 चिन्नद ऒरॆयल्लि इरिसिद ऎरडु खड्गगळु मत्तु स्वर्णमय बिन्दुगळिन्द अलङ्कृतवाद ऎरडु गुराणिगळु आ आश्रमद शोभॆयन्नु हॆच्चिसिद्दवु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+adorned with two swords sheathed in scabbards of fine gold (mahā-rajata-vāsobhyām asibhyāṃ ca virājitām), and graced with two shields variegated with studs of gold (rukma-bindu-vicitrābhyāṃ carmabhyāṃ cāpi śobhitām);
 </details>
 </details>
 
@@ -1017,6 +1149,12 @@ sheaths of gold, adorned with two shields decorated with flowers of gold, finger
 with gold and in different colours suspended on walls and which hut was unassailable by hordes of
 enemies as is a lion's cave to deer.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+hung with variegated, gold-decked iguana-skin bowstring-guards and finger-protectors (godhāṅgulitrair āsaktaiś citraiḥ kāñcana-bhūṣitaiḥ), and unassailable by hosts of foes as a lion’s cave by deer (ari-saṅghair anādhṛṣyāṃ mṛgaiḥ siṃha-guhām iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1064,6 +1202,12 @@ Rama.
 Bharata saw a sacrificial altar in the north-east corner having a steep descent,
 extensive in area and having a sacred fire burned in the hermitage of Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There in Rāma’s dwelling Bharata beheld a spacious, sacred altar sloping toward the northeast, with its sacrificial fire blazing brightly (prāg-udak-pravaṇāṃ vediṃ viśālāṃ dīpta-pāvakām dadarśa bharatas tatra puṇyāṃ rāma-niveśane).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1107,6 +1251,14 @@ brother; *raamam* = Rama; *aasiinam* = seated; *uTaje* = in the hut;
 
 Looking around for a moment, Bharata beheld his elder brother, Rama himself seated
 in the hut, wearing matted locks.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** Gazing for a moment, Bharata beheld his elder brother Rāma seated in the leaf-bower, wearing a crown of matted locks (nirīkṣya sa muhūrtaṃ tu dadarśa bharato gurum uṭaje rāmam āsīnaṃ jaṭā-maṇḍala-dhāriṇam).
+
+**26:** He beheld that Rāma seated, wearing a black antelope skin and clad in strips of bark-cloth, blazing on all sides like fire (taṃ tu kṛṣṇājina-dharaṃ cīra-valkala-vāsasaṃ dadarśa rāmam āsīnam abhitaḥ pāvakopamam);
 </details>
 </details>
 
@@ -1160,6 +1312,14 @@ resembling a fire (in brilliance), with the neck and shoulders of a lion, mighty
 resembling the lotus, the very virtuous Lord of the Earth extending upto the ocean, the Eternal
 Brahma, and seated on the ground spread with Darbha grass, with Seetha and Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** lion-shouldered, mighty-armed, with eyes resembling white lotuses (siṃha-skandhaṃ mahā-bāhuṃ puṇḍarīka-nibhekṣaṇam), the righteous lord of the ocean-girt earth (pṛthivyāḥ sāgarāntāyā bhartāraṃ dharma-cāriṇam);
+
+**28:** mighty-armed, seated like the eternal Brahmā upon a leveled ground strewn with darbha grass, together with Sītā and Lakṣmaṇa (upaviṣṭaṃ mahā-bāhuṃ brahmāṇam iva śāśvatam sthaṇḍile darbha-saṃstīrṇe sītayā lakṣmaṇena ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1205,6 +1365,12 @@ grief that passessed him; *abhyadhaavata* = rushed towards Rama.
 
 Beholding him, the illustrious and the high-souled Bharata the son of Kaikeyim
 distraught by the grief that possessed him, rushed towards Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him, the glorious, righteous-souled Bharata, son of Kaikeyī, overwhelmed with sorrow and grief, rushed toward him (taṃ dṛṣṭvā bharataḥ śrīmān duḥkha-śoka-pariplutaḥ abhyadhāvata dharmātmā bharataḥ kaikayī-sutaḥ).
 </details>
 </details>
 
@@ -1254,6 +1420,12 @@ words.
 **अनुवादः**
 
 On seeing his brother, Bharata broke into lamentations and in a voice strangled with sobs, unable to restrain his agony with firmeness, said:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The very moment he beheld him, Bharata lamented in distress in a voice choked with tears (dṛṣṭvaiva vilalāpārto bāṣpa-sandigdhayā girā); unable to restrain his anguish through fortitude, he spoke this word (aśaknuvan dhārayituṃ dhairyād vacanam abravīt):
 </details>
 </details>
 
@@ -1305,6 +1477,12 @@ _________________
 "My elder brother who is fit to be honoured in an assembly by a body of ministers
 around him, is now being served by a body of wild beasts around him in this jungle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He who ought to be waited upon by his subjects in the royal assembly (yaḥ saṃsadi prakṛtibhir bhaved yukta upāsitum)—that elder brother of mine sits here attended by wild deer of the forest (vanyair mṛgair upāsīnaḥ so ’yam āste mamāgrajaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1351,6 +1529,12 @@ articles of apparel; *aacharan* = and following; *dharmam* = pravaste = is weari
 
 "That magnanimous hero, who formerly used to possess countless articles of apparel
 is now wearing two antelope-skins, following ascetic righteousness.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That great-souled one who was formerly accustomed to garments worth many thousands (vāsobhir bahu-sāhasrair yo mahātmā purocitaḥ) now clothes himself here in a pair of deerskins while practicing righteousness (mṛgājine so ’yam iha pravaste dharmam ācaran)!
 </details>
 </details>
 
@@ -1401,6 +1585,12 @@ who; *tadaa* = then; *aadhaarayat* = donned; *vividhaaH* = various kinds;
 "How this Rama, who used to wear various kinds of colourful flowers, is bearing this
 burden of matted locks now?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How does this Rāghava, who formerly wore diverse and variegated flower garlands (adhārayad yo vividhāś citrāḥ sumanasas tadā), now bear this heavy burden of matted locks (so ’yaṃ jaṭā-bhāram imaṃ vahate rāghavaḥ katham)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1448,6 +1638,12 @@ injunctions; *saH* = that Rama; *parimaargate* = is striving after; *dharmam*
 "He who acquired merit through countless sacrifices performed according to the
 prescribed injunctions, now follows the path of righteousness through asceticism!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He for whom the accumulation of religious merit through sacrifices ordained by scripture was fitting (yasya yajñair yathoddiṣṭair yukto dharmasya sañcayaḥ) now seeks merit born of the mortification of his own body (śarīra-kleśa-sambhūtaṃ sa dharmaṃ parimārgate)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1493,6 +1689,12 @@ venerable elder brother; *sevyate* = is smeared; *malena* = with dust?
 
 "He whose body was formerly rendered fragrant by white sandal paste, has only dust
 with which to smear the limbs of this venerable elder brother!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How is this body of my noble brother, whose limbs were formerly ministered to with priceless sandal-paste (candanena mahārheṇa yasyāṅgam upasevitam), now overspread with forest dust (malena tasyāṅgam idaṃ katham āryasya sevyate)?
 </details>
 </details>
 
@@ -1541,6 +1743,12 @@ condemns!
 "Rama who used to have happiness, has fallen into this misfortune, because of me
 cursed be my reprehensive existence that the whole world condemns!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On my account Rāma, who is worthy of every happiness, has fallen into this misery (man-nimittam idaṃ duḥkhaṃ prāpto rāmaḥ sukhocitaḥ); fie upon the life of cruel me, despised by the whole world (dhig jīvitaṃ nṛśaṃsasya mama loka-vigarhitam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1588,6 +1796,12 @@ groaming.
 Thus did that pitiable Bharata lament, perspiration be-dewing his lotus-like
 countenance and, without touching Rama's feet, fell down grooming.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting thus in anguish, his lotus-like face bathed in perspiration (ity evaṃ vilapan dīnaḥ prasvinna-mukha-paṅkajaḥ), Bharata fell weeping before he could even reach Rāma’s feet (pādāv aprāpya rāmasya papāta bharato rudan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1634,6 +1848,12 @@ further.
 
 Overcome with grief, the highly valiant prince Bharata cried out "O, Noble One!"
 once and in his distress, was unable to speak anything further.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scorched by grief, the mighty prince Bharata (duḥkhābhitapto bharato rāja-putro mahā-balaḥ), having uttered “O noble brother!” but once in a piteous voice, could say nothing more (uktvāryeti sakṛd dīnaṃ punar novāca kiñcana).
 </details>
 </details>
 
@@ -1685,6 +1905,12 @@ choked with tears.
 Crying at the top of his voice, "O, Noble One" only, on seeing the illustrious Rama,
 he was unable to speak further, his throat choked with tears.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his throat choked by tears as he gazed upon the illustrious Rāma (bāṣpāpihita-kaṇṭhaś ca prekṣya rāmaṃ yaśasvinam), having cried out “O noble brother!” he was unable to utter another word (āryety evātha saṅkruśya vyāhartuṃ nāśakat tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1733,6 +1959,12 @@ both; *avartayat* = could not restrain; *ashruuNi* = his tears.
 
 Shatrughna too, weeping, threw himself at Rama's feet and Rama too, embracing them
 both, allowed his tears to fall.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Śatrughna too bowed weeping at Rāma’s feet (śatrughnaś cāpi rāmasya vavande caraṇau rudan); embracing them both, Rāma too shed tears (tāv ubhau sa samāliṅgya rāmaś cāśrūṇy avartayat).
 </details>
 </details>
 
@@ -1791,6 +2023,12 @@ as in the sky, the sun and the moon are seen in conjunction with Venus and Jupit
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर राजकुमार श्रीराम-लक्ष्मणरु आ वनदल्लि सुमन्त्र मत्तु निषाद राजगुहनन्नु भॆट्टियादरु. अदु आकाशदल्लि सूर्य, चन्द्र, शुक्र, बृहस्पति सेरिदन्तॆ इत्तु.॥41
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then in the forest the two royal princes Rāma and Lakṣmaṇa met with Sumantra and Guha (tataḥ sumantreṇa guhena caiva samīyatū rāja-sutāv araṇye), just as the sun and the moon in the sky meet with Venus and Jupiter (divākaraś caiva niśākaraś ca yathāmbare śukra-bṛhaspatibhyām).
 </details>
 </details>
 
@@ -1857,6 +2095,12 @@ shed tears.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि तॊम्भत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥99॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those princes, who resembled leaders of elephant herds, reunited there in the great forest (tān pārthivān vāraṇa-yūthapābhān samāgatāṃs tatra mahaty araṇye), all the forest-dwellers too cast aside their joy and shed tears (vanaukasas te ’pi samīkṣya sarve ’py aśrūṇy amuñcan pravihāya harṣam).
 </details>
 </details>
 

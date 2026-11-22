@@ -74,6 +74,12 @@ relatives (as follows):
 Just on seeing an army encamped and positioned along the River Ganga, Guha the king
 of Nishadas hastily spoke to his relatives as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As soon as the king of the Niṣādas beheld that bannered army encamped along the river Gaṅgā, he spoke in haste to his kinsmen (tato niviṣṭāṃ dhvajinīṃ gaṅgām anvāśritāṃ nadīm niṣāda-rājo dṛṣṭvaiva jñātīn santvarito 'bravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +126,12 @@ mind.
 
 "On this side, a huge army is seen like an ocean. I am not able to comprehend the
 extent of this army even by my discerning mind."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here appears a vast army resembling the ocean; even pondering with my mind, I cannot discern its end (mahatīyam itaḥ senā sāgarābhā pradṛśyate nāsyāntam adhigacchāmi manasāpi vicintayan).
 </details>
 </details>
 
@@ -174,6 +186,12 @@ Bharata himself with an evil intent seems to have come."
 
 Kovidara tree: pomegranate tree.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely the evil-minded Bharata has come here in person; for yonder on the chariot is he of huge stature, bearing the kovidāra-tree banner (yathā tu khalu durbuddhir bharataḥ svayam āgataḥ sa eṣa hi mahā-kāyaḥ kovidāra-dhvajo rathe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -198,6 +216,12 @@ Kovidara tree: pomegranate tree.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवनु तन्न मन्त्रिगळिन्द मॊदलु नम्मॆल्लरन्नु पाशगळिन्द बन्धिसियानु, अथवा कॊल्लिसलूबहुदु; अनन्तर यारन्नु तन्दॆयु राज्यदिन्द हॊरहाकिद आ दशरथनन्दन श्रीरामनन्नू कूड कॊन्दुहाकुवनॆन्दु ननगॆ अनिसुत्तदॆ.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He will either bind us boatmen with nooses or else slay us—and as for Daśaratha’s son Rāma, banished from the kingdom by his father (bandhayiṣyati vā dāśān athavāsmān vadhiṣyati atha dāśarathiṃ rāmaṃ pitrā rājyād vivāsitam),
 </details>
 </details>
 
@@ -247,6 +271,12 @@ desiring; *shriyam* = the prosperous kingdom; *sampannaam* = a luxury;
 kill Rama, the son of Dasaratha, who was exiled from the kingdom by his father, desirous as Bharata
 is to get the prosperous Ayodhya kingdom, a luxury and that which is inaccessible to another?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+coveting the prosperous and hard-won royal fortune of that king, Kaikeyī’s son Bharata is coming to slay him (sampannāṃ śriyam anvicchaṃs tasya rājñaḥ su-durlabhām bharataḥ kaikayī-putro hantuṃ samadhigacchati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -294,6 +324,12 @@ the interest; *tasya* = of that Rama.
 "Rama the son of Dasaratha is my Lord and my companion too. Hence you, covered with
 armor, be stationed on this bank of Ganga River, desiring to advance the interest of Rama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Daśaratha’s son Rāma is both my lord and my friend; desiring his welfare, stand armed along the bank of the Gaṅgā (bhartā caiva sakhā caiva rāmo dāśarathir mama tasyārtha-kāmāḥ sannaddhā gaṅgānūpe pratiṣṭhata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,6 +375,12 @@ stay; *anvaashritaaH* = positioned along; *gaN^gaam nadiim* = the River Ganga.
 
 "Let all our ferrymen guarding the river, along with the troops, eating meat roots
 and fruits ( in their boats), stay positioned along the River Ganga."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let all the boatmen too, strong and subsisting on meat, roots, and fruits, remain stationed along the river Gaṅgā as guards of the river (tiṣṭhantu sarve dāśāś ca gaṅgām anvāśritā nadīm bala-yuktā nadī-rakṣā māṃsa-mūla-phalāśanāḥ).”
 </details>
 </details>
 
@@ -389,6 +431,12 @@ and sannddhaam = made ready; *iti* = (Guha) thus; *abhyachodayat* = announced.
 "Let five hundred boats, each manner by a hundred youthful ferrymen, be stationed
 and made ready" -thus announced Guha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He further commanded: “On each of five hundred boats let a hundred armed young boatmen stand ready!” (nāvāṃ śatānāṃ pañcānāṃ kaivartānāṃ śataṃ śatam sannaddhānāṃ tathā yūnāṃ tiṣṭhantv ity abhyacodayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -434,6 +482,12 @@ be; *aduSTaH* = well-disposed; *iha* = here; *raamasya* = towards Rama;
 
 "If Bharata is favourably disposed now towards Rama, then only his army may (be
 allowed to) cross the River Ganga in safety."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Only when Bharata proves free of malice toward Rāma here shall this army cross the Gaṅgā safely today (yadāduṣṭas tu bharato rāmasyeha bhaviṣyati seyaṃ svastimatī senā gaṅgām adya tariṣyati).”
 </details>
 </details>
 
@@ -484,6 +538,12 @@ After uttering thus, Guha the king of Nishadas took fish, meat and honey as an
 offering and approached Bharata.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, Guha, lord of the Niṣādas, took presentation offerings of fish, meat, and honey and approached Bharata (ity uktvopāyanaṃ gṛhya matsya-māṃsa-madhūni ca abhicakrāma bharataṃ niṣādādhipatir guhaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +590,12 @@ follows):
 
 Seeing him approach, Sumantra the charioteer, a majestic man who knows the rules of
 discipline, humbly told Bharata as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him approaching, the radiant son of the charioteer, Sumantra, knowing decorum, respectfully announced him to Bharata (tam āyāntaṃ tu samprekṣya sūta-putraḥ pratāpavān bharatāyācacakṣe 'tha vinayajño vinītavat):
 </details>
 </details>
 
@@ -605,6 +671,14 @@ there).
 "O, Bharata! For that reason, let Guha the king of Nishadas see you. He knows surely
 where those two Rama and Lakshmana - are stationed."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “Here is the chieftain surrounded by a thousand of his kinsmen; he is thoroughly acquainted with the Daṇḍaka forest, an elder, and the friend of your elder brother (eṣa jñāti-sahasreṇa sthapatiḥ parivāritaḥ kuśalo daṇḍakāraṇye vṛddho bhrātuś ca te sakhā).
+
+**13:** “Therefore, O Kākutstha, let Guha, lord of the Niṣādas, have audience with you; without a doubt he knows where Rāma and Lakṣmaṇa are (tasmāt paśyatu kākutstha tvāṃ niṣādādhipo guhaḥ asaṃśayaṃ vijānīte yatra tau rāma-lakṣmaṇau).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -650,6 +724,12 @@ Bharata; *uvaacha* = spoke; *iti* = these; *vachanam* = words; *guhaH*
 
 Hearing the auspicious words of Sumantra, Bharata answered, "Introduce Guha to me
 without delay."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing these auspicious words from Sumantra, Bharata quickly spoke the command: “Let Guha see me!” (etat tu vacanaṃ śrutvā sumantrād bharataḥ śubham uvāca vacanaṃ śīghraṃ guhaḥ paśyatu mām iti).
 </details>
 </details>
 
@@ -698,6 +778,12 @@ words.
 Having obtained permission, Guha along with his own people, joyfully and humbly
 approached Bharata and spoke as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having obtained permission, Guha, delighted and surrounded by his kinsmen, approached Bharata and, bowing low, spoke these words (labdhvābhyanujñāṃ saṃhṛṣṭo jñātibhiḥ parivāritaḥ āgamya bharataṃ prahvo guho vacanam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -743,6 +829,12 @@ as such; *vasa* = stay; *daasakule* = in this servant's house.
 
 "This place is like a pleasure-grove near your house. We are your subjects and are
 reporting to you as such. Stay in this servant's house."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This region is like a pleasure-garden of your own home, though we were caught unawares by your arrival; we report all our affairs to you—pray dwell in the house of your own servant (niṣkuṭaś caiva deśo 'yaṃ vañcitāś cāpi te vayam nivedayāmas te sarve svake dāsa-kule vasa)!
 </details>
 </details>
 
@@ -793,6 +885,12 @@ all a produce of the forest.
 
 "Here are the roots and fruits gathered by my tribe as well as fresh and dried meat
 of great quality and of various kinds, and all a produce of the forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Here are roots and fruits brought by the Niṣādas, as well as abundant fresh and dried meat and forest produce of high and low sorts (asti mūlaṃ phalaṃ caiva niṣādaiḥ samupāhṛtam ārdraṃ ca māṃsaṃ śuṣkaṃ ca vanyaṃ coccāvacaṃ mahat).
 </details>
 </details>
 
@@ -854,5 +952,11 @@ you could desire, you can continue your journey tomorrow along with your troops.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎम्भत्तनाल्कनॆय सर्ग पूर्णवायितु.॥84॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I pray that your army, well fed, may pass this night here; honored with diverse desired provisions, tomorrow you shall proceed with your host (āśaṃse svāśitā senā vatsyatīmāṃ vibhāvarīm arcito vividhaiḥ kāmaiḥ śvaḥ sa-sainyo gamiṣyasi).”
 </details>
 </details>

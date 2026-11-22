@@ -39,6 +39,12 @@ _________________
 
 अगस्त्यर ई अत्यन्त अद्भुत मातन्नु केळि श्रीरघुनाथन मनस्सिनल्लि अवर कुरितु विशेष गौरव उण्टागि, विस्मितनागि पुनः अवरल्लि केळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having recounted this to Rāma (etad ākhyāya rāmāya), the great sage born of the pitcher (maharṣiḥ kumbha-sambhavaḥ) began a further narration within this very tale (asyām evāparaṃ vākyaṃ kathāyām upacakrame).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पूज्यरे! विदर्भदेशद राजाश्वेतनु घोर तपस्सु माडुत्तिद्द आ भयङ्कर वनवु पशु-पक्षिगळिन्द रहित एकायितु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon that Daṇḍa, O Kākutstha, with self subdued (dāntātmā), ruled there for a myriad of many years (bahu-varṣa-gaṇāyutam) a kingdom cleared of all thorns (rājyaṃ nihata-kaṇṭakam).
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 आ विदर्भराजनु आ शून्य निर्जन वनक्कॆ तपस्सु माडलु एकॆ होदनु? इदन्नु यथार्थवागि तिळियलु नानु बयसुत्तेनॆ.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then at a certain time (atha kāle tu kasmiṃścit), in the enchanting month of Caitra (caitre māsi manorame), the king approached the delightful hermitage of Bhārgava (bhārgavam āśramaṃ ramaṇīyam upākrāmat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +140,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामन कुतूहलयुक्त मातन्नु केळि आ परम तेजस्वी महर्षिगळु पुनः हीगॆ हेळतॊडगिदरु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There, roaming in a woodland tract (vicarantīṃ vanoddeśe), Daṇḍa beheld Bhārgava’s maiden daughter (bhārgava-kanyām), peerless on earth in beauty (rūpeṇāpratimāṃ bhuvi), unsurpassed (anuttamām).
 </details>
 </details>
 
@@ -151,6 +175,12 @@ _________________
 
 श्रीराम! हिन्दॆ कृतयुगदल्लि दण्डधारी मनुमहाराजनु भूतळदल्लि राज्यवाळुत्तिद्दनु. अवन ओर्व ज्येष्ठपुत्र इक्ष्वाकु आगिद्दनु. राजकुमार इक्ष्वाकु तन्न कुलवन्नु आनन्दगॊळिसुववनागिद्दनु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding her, that deeply foolish king (sudurmedhāḥ), pierced by the arrows of the Bodiless One (anaṅga-śara-pīḍitaḥ), drew near to the greatly alarmed maiden (abhigamya susaṃvignāṃ kanyām) and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +208,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 तन्न ज्येष्ठ हागू दुर्जय पुत्रनन्नु भूमण्डलद राज्यदल्लि स्थापिसि मनुवु हेळिदनु- मगने! नीनु पृथिवियल्लि राजवंशवन्नु सृष्टिसु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Whence have you come, O fair-hipped one (kutas tvam asi suśroṇi), and whose daughter are you, O auspicious one (kasya vā ’si sutā śubhe)? Tormented by Love (pīḍito ’ham anaṅgena), I approach you, O fair-faced maiden (gacchāmi tvāṃ śubhānane)!’”
 </details>
 </details>
 
@@ -207,6 +243,12 @@ _________________
 
 रघुनन्दन! पुत्र इक्ष्वाकु तन्दॆय मुन्दॆ हागे माडुवॆनॆन्दु प्रतिज्ञॆ माडिदनु. इदरिन्द मनु बहळ सन्तुष्टनागि तन्न मगनल्लि हेळिदनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To him, speaking thus, maddened by delusion and lust (mohonmattasya kāminaḥ), the daughter of Bhārgava gently spoke these conciliatory words to the king (vacaḥ sānunayaṃ nṛpam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -235,6 +277,12 @@ _________________
 
 परमोदार पुत्रने! नानु निन्न मेलॆ बहळ प्रसन्ननागिद्देनॆ. नीनु राजवंशद सृष्टि माडुवि ऎम्बुदरल्लि संशयवे इल्ल. नीनु दण्डदिन्द दुष्टरन्नु दमन माडुत्त प्रजॆयन्नु रक्षिसु; आदरॆ अपराधविल्लदॆ शिक्षॆ कॊडबेड.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Know me to be the daughter of Bhārgava (bhārgavasya sutāṃ viddhi), the godlike sage of effortless deeds (devasyākliṣṭa-karmaṇaḥ), Arajā by name, O lord of kings (arajāṃ nāma rājendra), his eldest, dwelling in the hermitage (jyeṣṭhām āśrama-vāsinīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -262,6 +310,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अपराधि मनुष्यरिगॆ कॊडुव शिक्षॆयु विधिपूर्वकवागि कॊट्टु, शिक्षॆयु राजनिगॆ स्वर्गलोक प्राप्तवागुत्तदॆ.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Do not touch me by force, O king (mā māṃ spṛśa balād rājan), for I am a maiden under my father’s authority (kanyā pitṛ-vaśā hy aham); my father is your preceptor, O lord of kings (guruḥ pitā me rājendra), and you are the disciple of that great-souled one (tvaṃ ca śiṣyo mahātmanaḥ); enraged, that mighty ascetic would inflict upon you a terrible calamity (vyasanaṃ sumahat ... dadyān mahātapāḥ).
 </details>
 </details>
 
@@ -302,6 +356,14 @@ _________________
 
 अदक्कागि महाबाहु पुत्रने! नीनु शिक्षॆयन्नु सरियागि प्रयोग माडलु प्रयत्नशीलनागु. हीगॆ माडुवुदरिन्द निनगॆ जगत्तिनल्लि परम धर्मद प्राप्तियागुवुदु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** “‘Or if you desire aught else with me (yadi vānyan mayā kāryam) by the righteous path approved by dharma (dharma-dṛṣṭena satpathā), then solicit my father of great splendor, O foremost of men (varayasva ... pitaraṃ me mahādyutim).
+
+**11:** “‘Otherwise the fruit for you shall be fraught with dread (bhaved ghorābhisaṃhitam), for in wrath this father of mine could burn up even the three worlds (trailokyam api nirdahet); yet if solicited, O faultless-limbed one, my father will bestow me upon you (dāsyate ... tava mā yācitaḥ pitā).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -329,6 +391,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मनु ब्रह्मलोक निवासियाद मेलॆ अमित तेजस्वि राजा इक्ष्वाकु नानु पुत्ररन्नु हेगॆ उत्पन्न माडलि? ऎन्दु चिन्तितनादनु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“To Arajā speaking thus (evaṃ bruvāṇām arajām), Daṇḍa, fallen under the sway of lust (kāma-vaśaṃ gataḥ) and crazed with passion (madonmattaḥ), placed his joined palms upon his head (śirasy ādhāya cāñjalim) and replied:
 </details>
 </details>
 
@@ -358,6 +426,12 @@ _________________
 
 आग यज्ञ, दान, तपस्सुरूपी विविध कर्मगळिन्द धर्मात्मा मनुपुत्रनु देव कुमाररन्तह तेजस्वी नूरु पुत्ररन्नु उत्पन्न माडिदनु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Show me favor, O fair-hipped one (prasādaṃ kuru suśroṇi); you ought not to waste time (na kālaṃ kṣeptum arhasi), for on your account my very life-breaths are bursting asunder, O lovely-faced one (tvatkṛte hi mama prāṇā vidīryante varānane)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -385,6 +459,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अय्या रघुनन्दन! अवरल्लि ऎल्लरिगिन्त किरियनादवनु मूढ मत्तु अविद्यावन्तनागिद्दनु, अदरिन्द तन्न अण्णन्दिर सेवॆ माडुत्तिरलिल्ल.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Should death befall me upon winning you, or a terrible curse (tvāṃ prāpya me vadho vā syāc chāpo vā yadi dāruṇaḥ), [so be it]! Embrace me who am devoted to you, O timid one, clinging to you in utter distress (bhaktaṃ bhajasva māṃ bhīru bhajamānaṃ suvihvalam)!’
 </details>
 </details>
 
@@ -414,6 +494,12 @@ _________________
 
 इवन शरीरद मेलॆ अवश्यवागि दण्डप्रयोगवागबहुदॆन्दु योचिसि तन्दॆयु आ मन्दबुद्धि पुत्रन हॆसरु दण्ड ऎन्दु इट्टनु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having spoken thus, that mighty one seized the maiden by force with his two arms (dorbhyāṃ gṛhya balād balī) and, though she struggled (visphurantīm), proceeded to violate her according to his lust (yathākāmaṃ maithunāyopacakrame).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -442,6 +528,12 @@ _________________
 
 शत्रुदमन श्रीरामा! आ पुत्रनिगॆ योग्यवाद बेरॆ यावुदे भयङ्कर देशवु काणदिद्दाग, राजनु अवनिगॆ विन्ध्य मत्तु शैवल पर्वतद नडुविन राज्यवन्नु कॊट्टनु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having committed this most dreadful, atrocious deed (etam arthaṃ mahāghoraṃ ... kṛtvā sudāruṇam), Daṇḍa swiftly departed for his peerless city of Madhumanta (nagaraṃ prayayāv āśu madhumantam anuttamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,6 +561,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामा! पर्वतीय आ रमणीय प्रान्तदल्लि दण्ड राजनादनु. अवनु तानु इरलु ऒन्दु बहळ अनुपम, उत्तम नगरवन्नु स्थापिसिदनु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And Arajā, weeping (arajā ’pi rudantī sā), remained not far from the hermitage (āśramasyāvidūrataḥ), deeply terrified, awaiting her godlike father (pratīkṣanti susaṃtrastā pitaraṃ deva-sannibham).”
 </details>
 </details>
 

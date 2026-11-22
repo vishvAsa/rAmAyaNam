@@ -76,6 +76,14 @@ noble] gens; *pradaane* = while offering [bride]; *niravasheSataH* = without a l
 "Oh, eminent sage Vashishta, he who is born in a particular noble gens has to inform about his parentage in its entirety,
 especially when he offers a bride... thereby oh, great sage, let all be informed of about our lineage..." [1-71-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** To Sage Vasiṣṭha who had spoken thus, King Janaka replied with joined palms (pratyuvāca kṛtāñjaliḥ): “May prosperity attend you! Deign to hear our own royal lineage proclaimed in full (śrotum arhasi bhadraṃ te kulaṃ naḥ parikīrtitam).
+
+**2:** “For at the time of bestowing a daughter in marriage, O best of sages, one born of a noble house must declare his lineage in its entirety without omission (kulaṃ niravaśeṣataḥ vaktavyaṃ kulajātena); hear that lineage of ours, O great-minded sage!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +122,12 @@ especially when he offers a bride... thereby oh, great sage, let all be informed
 
 Once there was an emperor Nimi, who was renowned in the triad of worlds by his own accomplishments, and who was uniquely
 seraphic-souled and a best one among all stalwart emperors... [1-71-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There was a king renowned throughout the three worlds by his own sacred deeds (viśrutaḥ svena karmaṇā)—Nimi, supremely righteous of soul and the foremost of all beings endowed with strength and virtue (sarvasattvavatāṃ varaḥ).
 </details>
 </details>
 
@@ -160,6 +174,12 @@ Janaka, even, Udaavasu - is born.
 And his son was named as Mithi, and Janaka was Mithi's son... the first one to be designated as Janaka... and even from
 that Janaka it is Udaavasu who took birth... [1-71-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“His son was named Mithi, and Mithi’s son was Janaka; that King Janaka was the first of the Janakas (prathamo janako rājā), and from Janaka came Udāvasu.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -204,6 +224,12 @@ named one.
 
 From Udaavasu it is noble souled Nandivardhana took birth, and Nandivardhana's son is named as Suketu, by his name... [1-71-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From Udāvasu was born the righteous-souled Nandivardhana; and Nandivardhana’s valiant son was renowned by the name Suketu (suketurnāma nāmataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +268,12 @@ Brihadratha, thus, heard - him to be his son.
 
 From Suketu the highly powerful and virtue-souled Devaraata is born, and from that kingly sage Devaraata, it is Brihadratha
 who took birth, thus we have heard... [1-71-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From Suketu came the righteous-souled Devarāta of mighty strength; and the son of the royal sage Devarāta is remembered as Bṛhadratha (devarātasya rājarṣer bṛhadratha iti smṛtaḥ).
 </details>
 </details>
 
@@ -282,6 +314,12 @@ courageous one, Mahaaviira, became - took birth; *mahaaviirasya* = of Mahaavira;
 From Brihadratha it is the highly braving, courageous and valiant Mahaaviira has come, and the bold and truth-valiant Sudhriti
 from Mahaaviira... [1-71-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bṛhadratha’s valiant and mighty son was Mahāvīra; and Mahāvīra’s steadfast son, unfailing in valor, was Sudhṛti (mahāvīrasya dhṛtimān sudhṛtiḥ satyavikramaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -321,6 +359,12 @@ generous one; *dhR^iSTaketuH* = it is Dhristaketu; *raajarSeH dhR^iSTaketoH* = f
 Form Sudhriti, the right-minded and highly generous Dhristaketu took birth, and from the kingly sage Dhristaketu it is
 highly renowned Haryashva is the son... [1-71-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Sudhṛti’s righteous-souled and deeply pious son was Dhṛṣṭaketu; and the son of the royal sage Dhṛṣṭaketu was renowned as Haryaśva.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -359,6 +403,12 @@ kiirtirathaH* = king, Kiiriratha.
 
 Haryashva's son is Maru, and Maru's, son is Pratiindhaka, and the son of Pratiindhaka's is noble-souled king Kiirtiratha...
 [1-71-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Haryaśva’s son was Maru, and Maru’s son was Pratīndhaka; and Pratīndhaka’s righteous-souled son was King Kīrtiratha.
 </details>
 </details>
 
@@ -401,6 +451,12 @@ remembered; *devamiiDhasya vibudho* = of Devamiidha, Vibudha; *vibudhasya mahiid
 The son of Kiirtiratha is remembered as Devamiidha, and the son of Devamiidha is Vibudha, and Vibudha's son is Mahiidraka...
 [1-71-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Kīrtiratha’s son is remembered as Devamīḍha; Devamīḍha’s son was Vibudha, and Vibudha’s son was Mahīdhraka.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -438,6 +494,12 @@ Mahaaroma, born.
 **अनुवादः**
 
 Mahiidraka's son is the great mighty king Kiirtiraata, and the son born to sagely king Kiirtiraata is Mahaaroma... [1-71-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Mahīdhraka’s son of mighty strength was King Kīrtirāta; and from the royal sage Kīrtirāta was born Mahāroman.
 </details>
 </details>
 
@@ -479,6 +541,12 @@ _________________
 **अनुवादः**
 
 From Mahaaroma it is the virtue-souled Swarnaroma, and from kingly sage Swarnaroma it is Hrasvaroma... [1-71-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From Mahāroman was born the righteous-souled Svarṇaroman; and from the royal sage Svarṇaroman was born Hrasvaroman.
 </details>
 </details>
 
@@ -528,6 +596,12 @@ Kushadhvaja is; *mama* = my; *anujaH* = later born [younger]; *bhraataa* = broth
 Two sons are born to that knower of virtue and noble souled Hrasvaroma, I am the elder, and my younger brother is this
 brave Kushadhvaja... [1-71-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That great-souled king, knower of dharma, had two sons: I am the elder (jyeṣṭho 'ham), and my heroic younger brother is Kuśadhvaja (anujo bhrātā mama vīraḥ kuśadhvajaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -573,6 +647,12 @@ brave Kushadhvaja... [1-71-13]
 He that king and father of ours, Hrasvaroma, anointing me in kingdom as I am the elder, and vesting the duty of looking
 after Kushadhvaja in me, he departed to forests... [1-71-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having consecrated me, the elder son, upon the throne of the kingdom, my father placed Kuśadhvaja and the burden of rule in my care and retired to the forest (kuśadhvajaṃ samāveśya bhāraṃ mayi vanaṃ gataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,6 +692,12 @@ aavaham* = lugging around.
 
 On the departure of our aged father to heaven, I am looking after this godlike Kushadhvaja with brotherliness and lugging
 around the burden of this kingship... [1-71-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When our aged father ascended to heaven (vṛddhe pitari svaryāte), I bore the yoke of sovereignty righteously (dharmeṇa dhuram āvaham), looking after my godlike brother Kuśadhvaja with tender affection (snehāt paśyan kuśadhvajam).
 </details>
 </details>
 
@@ -660,6 +746,12 @@ puraat* = from Saamkaasha, city; *agamat* = he came.
 
 Then after sometime, a valorous king named Sudhanva came beleaguering Mithila, from his city Saamkaasha... [1-71-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then after some time had passed (kasyacit tv atha kālasya), the valorous King Sudhanvā came forth from the city of Sāṅkāśyā to lay siege to Mithilā (mithilām avarodhakaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -704,6 +796,12 @@ me.
 
 'The unexcelled bow of Shiva shall be given to me, along with the lotus-eyed virgin, Seetha...' thus he started to urge
 me... [1-71-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And he sent word to me demanding: ‘Let the peerless bow of Śiva and the lotus-eyed maiden Sītā be given to me (śaivaṃ dhanur anuttamam sītā ca kanyā padmākṣī mahyaṃ vai dīyatām iti)!’
 </details>
 </details>
 
@@ -750,6 +848,12 @@ me... [1-71-17]
 "Oh, Brahma sage Vashishta, for the reason of my non-bestowal of bow or bride he warred with me, and when he affronted me
 in that war I have put that Sudhanva to the sword..." [1-71-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because those two treasures were not surrendered to him, O great sage (tasyāpradānān maharṣe), a battle ensued between him and me; and as King Sudhanvā confronted me, he was slain by me in battle (sa hato 'bhimukho rājā sudhanvā tu mayā raṇe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -788,6 +892,12 @@ in that war I have put that Sudhanva to the sword..." [1-71-18]
 
 Oh, best sage Vashishta, on eliminating king Sudhanva, I have anointed my valiant brother Kushadhvaja in the kingdom of
 Saamkaasha... [1-71-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having slain that ruler of men Sudhanvā, O best of sages, I consecrated my valiant brother Kuśadhvaja as king in the city of Sāṅkāśyā (sāṃkāśye bhrātaraṃ śūram abhyaṣiñcaṃ kuśadhvajam).
 </details>
 </details>
 
@@ -836,6 +946,12 @@ vai* = Urmila, for Lakshmana, for sure; *te bhadram* = to you - to all, let ther
 Oh, best saint Vashishta, this is that younger brother of mine, and I am the elder. Oh, eminent-saint, I am bestowing those
 brides with a highly gladdened heart... Seetha for Rama, and Urmila for Lakshmana, let there be felicity for all... [1-71-20,
 21a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This brother of mine is the younger, O great sage, and I am the elder. Filled with supreme joy, O bull among sages, I bestow these two brides upon you (dadāmi paramaprīto vadhvau te munipuṃgava)—
 </details>
 </details>
 
@@ -894,6 +1010,14 @@ mind, voice, and body... so I endow the brides whole-heartedly, clear-articulate
 verse is addressed to Vashishta, while other mms say that it is aimed at Dasharatha by placing words 'raghunandana' instead
 of 'munipungava.'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “—Sītā to Rāma, may prosperity attend you, and Ūrmilā to Lakṣmaṇa! My daughter Sītā, whose bride-price is heroic valor (vīryaśulkām) and who resembles a daughter of the gods (surasutopamām),
+
+**22:** “and my second daughter Ūrmilā as well—thrice I declare it, without a shadow of doubt (trir vadāmi na saṃśayaḥ): filled with supreme joy, I bestow these two brides upon you, O bull among sages!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -947,6 +1071,12 @@ attends him. After shaving off the unwanted hair, then *samaavartana* is underta
 place is, that Rama or Lakshmana are born without *vyanjana-kesha* unwanted hair, except head-hair, as Indian mythology
 will not give a hairy makeup to these four brothers. 'How then Janaka asked to undertake such ceremony, when discardable
 hair itself is not there...' is the objection. Whether they have hair or not, the ceremony has to go on.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O King, cause the godāna (keśānta tonsure and graduation rite) of Rāma and Lakṣmaṇa to be performed (rāmalakṣmaṇayo rājan godānaṃ kārayasva ha), as well as the ancestral nāndīmukha rite (pitṛkāryaṃ ca), may prosperity attend you, and thereafter celebrate the wedding (tato vaivāhikaṃ kuru)!
 </details>
 </details>
 
@@ -1022,6 +1152,12 @@ a problem, and dating with Ramayana prospered.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎप्पत्तॊन्दनॆय सर्ग पूर्णवायितु. ॥71॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For today is the constellation Maghā, O mighty-armed lord (maghā hy adya mahābāho); on the third day from today, O Sovereign, when the moon enters the constellation Uttara-Phalgunī (tṛtīyadivase prabho phalgunyām uttare rājan), celebrate the wedding ceremony on that day, and let bountiful gifts that bring auspicious prosperity be bestowed on behalf of Rāma and Lakṣmaṇa (rāmalakṣmaṇayor arthe dānaṃ kāryaṃ sukhodayam)!”
 </details>
 </details>
 

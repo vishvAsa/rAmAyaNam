@@ -78,6 +78,12 @@ not begotten though his heart is burning to beget children. [1-8-1]
 
 अतः पुत्रोत्पत्त्य्-उपायं चिन्तयतो धर्म-प्रधानस्यास्य दशरथस्य प्राचीन-भव-परम्परासादित-सुकृत-परिपाक-वशात् प्रकृष्ट-धर्म एवाभिलषित-साधने बुद्धिर् आसीत् - 
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To that high-souled monarch of such mighty splendor, knower of Dharma, who was performing austerities (and grieving in heart) for the sake of a son, there was born no son to perpetuate his royal lineage.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -144,6 +150,12 @@ Horse ritual...[and thus appease the gods in order to beget worthy sons..."] [1-
 > ये ऽश्वस्य हुतस्य गन्धम् आजिघ्रन्ति, सर्वे ते पुण्य-लोका भवन्तीति विज्ञायते । सह पुण्य-कृतः पाप-कृतश् च हस्त-संरब्धा ग्रामम् अभ्युदायन्ति सर्वे ते पुण्य-लोका भवन्तीति विज्ञायते । 
 
 इति । महा-पुरुषः पुत्रत्वेन भावीत्य् अतो ऽप्य् एवं सर्वोत्कृष्ट एव धर्मे बुद्धिर् आसीत् ॥ 
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As that high-souled king pondered thus, this thought arose in his mind: `Why do I not perform a sacrifice with the Vājimedha (Horse-Sacrifice) for the sake of obtaining a son?'
 </details>
 </details>
 
@@ -213,6 +225,14 @@ That intellectual and a conscientious king having resolved with all of his sagac
 a Vedic ritual is performable, then addressed best ne among ministers, namely Sumantra, "fetch all my teachers and
 clerics, quickly.." [1-8-3,4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** Having formed the firm resolve `A sacrifice must be performed,' that wise and righteous-souled monarch, together with all his ministers of purified intellect—
+
+**4:** Then spoke, resplendent with mighty energy, to Sumantra, the foremost of his ministers: `Bring quickly before me all my spiritual preceptors, together with my family priest (Vasiṣṭha)!'
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,6 +257,12 @@ clerics, quickly.." [1-8-3,4]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग शीघ्रगामियाद सुमन्त्रनु ऒडनॆये होगि वेदवेदाङ्ग पारङ्गतराद मुनिगळन्नु अरमनॆगॆ करॆदुकॊण्डु बन्दनु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Sumantra of swift stride went quickly and brought together all those preceptors who had crossed to the farthest shore of the Vedas—
 </details>
 </details>
 
@@ -308,6 +334,14 @@ scholars. [1-8-5,6]
 Then on adoring them virtuous King Dasharatha spoke this impressible sentence that included
 justification and meaning. [1-8-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** —Suyajña, Vāmadeva, Jābāli, and Kāśyapa, the family priest Vasiṣṭha, and whatever other foremost Brāhmaṇas there were.
+
+**7:** Having worshipped them with due reverence, the righteous-souled King Daśaratha then spoke these gentle words fraught with Dharma and Artha:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -347,6 +381,12 @@ justification and meaning. [1-8-7]
 
 "My mind is tumultuous without quietude for I have no sons... for that reason, I wish perform Aswamedha,
 Vedic Horse Ritual... this is my thinking... [1-8-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`As I lament unceasingly in my longing for a son, I find no happiness whatever in my kingdom; for that purpose, it is my resolve to sacrifice with the Hayamedha (Horse-Sacrifice).
 </details>
 </details>
 
@@ -401,6 +441,12 @@ Vedic Horse Ritual... this is my thinking... [1-8-8]
 one as well... let this contemplation of mine be well thought of... and as to how my desire to beget sons will be
 fulfilled... [1-8-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Therefore I desire to perform that sacrifice through the rite prescribed in the sacred Śāstras; let your wisdom deliberate here as to how I may attain my cherished desire.'
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,6 +493,12 @@ fulfilled... [1-8-9]
 Then the Brahman scholars along with Sage Vashishta and all other important personalities in their turn
 have blessed and honoured him, saying that "splendid is this idea..." thus, for that which is voiced by the king.
 [1-8-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon all those Brāhmaṇas headed by Vasiṣṭha acclaimed with cries of `Excellent! Excellent!' that speech uttered directly from the Sovereign's own lips.
 </details>
 </details>
 
@@ -511,6 +563,14 @@ itself to beget sons.
 "Oh, king, by all means you will beget sons as you desired, since you, to whom an upright thinking has
 suggested itself... let the ritual ground be arranged on the northern banks of River Sarayu..." So said the scholars.
 [1-8-12, 13a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Supremely pleased, all those seers headed by Vasiṣṭha spoke these words to Daśaratha: `Let the sacrificial materials be gathered for you, and let the consecrated steed be set free to roam!
+
+**12:** `And on the northern bank of the Sarayū river let the sacrificial ground be prepared; without doubt, O Sovereign, you shall obtain the sons whom your heart desires—
 </details>
 </details>
 
@@ -639,6 +699,20 @@ procedure of this ritual be depraved of its set rules, the performer gets ruined
 
 अत्र महर्षिभिर् अपि अनुग्रहं कृत्वा फलम् अवश्यं भावीति निश्चित्य कर्मारम्भो ऽभ्यनुज्ञातः आ सर्ग-समाप्तेः । 
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** `Since this righteous resolve has arisen in your mind for the sake of sons!' Hearing these words spoken by the twice-born seers, the King was filled with joy.
+
+**14:** With his eyes brimming with tears of joy, the King spoke to his ministers: `In accordance with the word of my preceptors, let the sacrificial requisites be gathered for me here!
+
+**15:** `Let the sacrificial horse, guarded by quatre-hundred capable warriors and accompanied by the officiating priest (Upādhyāya), be released; and on the northern bank of the Sarayū let the sacrificial ground be laid out.'
+
+**16:** `Let the pacificatory rites (Śāntis) for averting obstacles also proceed in due sequence and in strict accordance with scriptural rule. This great sacrifice could indeed be accomplished by any monarch—
+
+**17:** `—provided no grievous ritual fault occurs in this foremost of sacrifices! For learned Brahmarākṣasas (fallen Brāhmaṇa-demons versed in ritual) are ever on the watch for the slightest flaw.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -696,6 +770,12 @@ performances. If they cannot find one, they cause certain hindrances in that per
 commit mistakes and get ruined in the present life span and then take rebirth as Brahma-demon. Hence, every
 Vedic-ritual performer shall be vigilant.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Should a sacrifice be performed with any defect in its prescribed procedure, its performer perishes at once! Therefore, so that this sacrifice of mine may be brought to completion strictly according to rule—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -743,6 +823,12 @@ vaakyam* = the best king's, that, word; *nishamya* = on listening;
 On listening the words of the king all the ministers adored and assured him saying, 'It will be
 conducted faultlessly as has been conducted earlier...' [1-8-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`—let every arrangement be made with utmost care, for you are fully capable in all such undertakings.' Honored by the King, all the ministers replied: `So shall it be!'
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -782,6 +868,12 @@ conducted faultlessly as has been conducted earlier...' [1-8-19]
 
 On hearing those words of that best king, and what that is spoken earlier, then the virtue knowing
 Brahman scholars hailing that best king took leave of him and went away as they have come. [1-8-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard that speech of the Lord of Kings in due order, those Dharma-knowing Brāhmaṇas also blessed the foremost of monarchs with auspicious benedictions—
 </details>
 </details>
 
@@ -823,6 +915,12 @@ Brahman scholars hailing that best king took leave of him and went away as they 
 Then on sending off those Brahman scholars, the king spoke this way to the ministers... "As advised by
 the Vedic scholars this ritual shall be conducted, procedurally..." [1-8-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having received the King's leave, all those seers returned as they had come. Having dismissed those Brāhmaṇas, the King spoke these words to his ministers:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -862,6 +960,12 @@ the Vedic scholars this ritual shall be conducted, procedurally..." [1-8-21]
 
 Tha tigerly-king and highly intellectual Dasharatha, on saying thus to his ministers who are still in
 his audience, sent away those ministers also, and he entered his palace. [1-8-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Let the sacrifice, as enjoined by the officiating priests, be brought to full accomplishment in every detail.' Having spoken thus to his assembled ministers, that tiger among kings—
 </details>
 </details>
 
@@ -903,6 +1007,12 @@ his audience, sent away those ministers also, and he entered his palace. [1-8-22
 
 And on approaching his wives, that best king's heartily dear ones, he said to them, " I am performing a
 Vedic ritual for the reason of begetting sons, and you all shall enter a vow..." [1-8-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—of exalted mind dismissed them and entered his own inner palace. Then, going to his beloved queens who gladdened his heart, the Lord of Men—
 </details>
 </details>
 
@@ -955,6 +1065,12 @@ like the blooming lotuses after the clearance of dew-fall. [1-8-24]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि ऎण्टनॆय सर्ग पूर्णवायितु. ॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—said: `Enter upon the sacrificial consecration (Dīkṣā), for I shall perform a great sacrifice for the sake of a son!' At those supremely welcome words of his, the lotus-faces of those radiant queens shone forth like lotuses blooming at the passing of winter.
 </details>
 </details>
 

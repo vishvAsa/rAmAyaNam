@@ -67,6 +67,12 @@ yathaa* = like a tiny female-elephant; *simhaabhipannaa* = over powered by a lio
 That Seetha, hearing those unpleasant words of Ravana, tormented by grief, was frightened like
 a tiny female-elephant overpowered by a lion in the middle of a forest.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard that unwelcome speech (vaco 'priyam) of Rāvaṇa, lord of the rākṣasas, Sītā, afflicted by sorrow (apriyārtā), trembled (vitatrāsa) like a young royal she-elephant (gajarājakanyā) assailed by a lion (siṃhābhipannā) in the depths of the forest.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +117,12 @@ vaagbhiH* = with his words; *bhR^isham* = galore; *vilapaapa* = lamented; *baala
 
 That fearful Seetha, who was situated in the middle of female-demons and also threatened by Ravana
 with his words galore, lamented (as follows) like a young virgin who was left lonely in the midst of a forest.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing in the midst of the demonesses (rākṣasīmadhyagatā) and vehemently menaced with harsh words by Rāvaṇa (vāgbhir bhṛśaṃ rāvaṇatarjitā ca), timid (bhīruḥ) Sītā lamented (vilalāpa) like a young maiden (bāleva kanyā) cast away in a desolate wilderness (kāntāramadhye vijane visṛṣṭā):
 </details>
 </details>
 
@@ -171,6 +183,12 @@ _________________
 "Truly the saints affirm that untimely death does not come in the world, as I being impure am surviving
 even for an instant, though being threatened in this way."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Truly indeed (satyaṃ bata) do the virtuous declare this in the world—that there is no untimely death (nākālamṛtyur bhavatīti)—since (yatra), though reviled thus (evaṃ paribhartsyamānā), I, devoid of merit (apuṇyā), continue to live even for a moment (kṣaṇam api)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,6 +246,12 @@ is not broken; *sahasrathaa* = into thousand pieces; *achalasya shR^iN^gamiva* =
 
 "Though devoid of happiness and frequently full of sorrow, my heart must be hard indeed, in that
 it does not break into a thousand pieces today like a mountain-top struck by lightning."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bereft of happiness (sukhād vihīnam) and filled with manifold sorrows (bahuduḥkhapūrṇam), this heart of mine is surely hard and unyielding (hṛdayaṃ sthiraṃ me), in that it does not shatter into a thousand pieces (vidīryate yan na sahasradhā) today like a mountain peak struck by a thunderbolt (vajrāhataṃ śṛṅgam ivācalasya)!
 </details>
 </details>
 
@@ -289,6 +313,12 @@ classes; *dvijaH* = by a member of the twice-born class.
 disagreeable perception. I am not able to give him my affection any more than a member of the twice-born classes
 would offer a mystical verse to one not belonging to the twice-born classes."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely there is no fault (doṣam) of mine here [in taking my own life], for I am doomed to be slain (vadhyāham) by this creature of hateful aspect (asyāpriyadarśanasya); nor am I able (na cāham alam) to bestow my heart’s affection (bhāvam anupradātum) upon him, any more than a twice-born brāhmaṇa (dvijaḥ) [may impart] a Vedic mantra to a non-twice-born (advijāya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -333,6 +363,12 @@ feotus situated in the womb.
 
 "If Rama the Ruler of the world does not come here, the evil Ravana, the king of Demons will cut
 off my limbs with his sharpened weapons, even as a surgeon would cut the limbs of a lifeless feotus."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+If that Lord of the world (lokanāthe) does not arrive (tasminn anāgacchati), soon indeed this ignoble lord of rākṣasas will sever my limbs (mamāṅgāni chetsyati) with whetted blades (śastraiḥ śitaiḥ), just as a surgeon (śalyakṛntaḥ) [severs the limbs] of an unborn fetus (garbhasthajantor iva)!
 </details>
 </details>
 
@@ -384,6 +420,12 @@ instant case); *bata* = Alas! Idam = this; *duHkham* = is painful.
 "To me lamenting, two months will go up to a long time, as at the end of a night a thief imprisoned
 and to be capitally punished under the detention orders of a king. Alas! This is painful."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alas, what sorrow is this (duḥkhaṃ batedam) for me, long afflicted (cirāya duḥkhitāyāḥ): the two months (māsau dvau) will swiftly pass (abhigamiṣyataḥ), like [the hours before] the end of the night (niśānte) for a bound thief (baddhasya taskarasya) condemned to execution (vadhyasya) for an offense against the king (rājoparodhād iva)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -434,6 +476,12 @@ wind; *mahaarNave* = in a mighty ocean.
 "O Rama, O Lakshmana, O Sumitra, O Kausalya! O mother! I, of a scanty fortune, am going to be destroyed,
 like a ship driven out of its course by a strong wind in a mighty ocean."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alas, O Rāma! Alas, O Lakṣmaṇa! Alas, O Sumitrā! Alas, O mother of Rāma, together with my own mothers (saha me jananyaḥ)! Here I perish (eṣā vipadyāmy aham), of scant fortune (alpabhāgyā), like a ship upon the great ocean (mahārṇave naur iva) buffeted by a tempestuous wind (mūḍhavātā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -478,6 +526,12 @@ kaaraNaat* = for my sake; *dvau simharSabhau iva* = as two excellent lions; (kil
 
 "In the disguise of a deer, those two energetic sons of Dasaratha were surely killed for my sake,
 as two excellent lions killed by a flashing thunderbolt."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those two impetuous sons of the lord of men (tarasvinau manujendraputrau), who were like two lordly lions or bulls (siṃharṣabhau dvāv iva), have surely been slain (nūnaṃ viśastau) on my account (mama kāraṇāt) by that creature wearing the form of a deer (dhārayatā mṛgasya rūpam), as if by a bolt of lightning (vaidyutena)!
 </details>
 </details>
 
@@ -530,6 +584,12 @@ mR^igaruupadhaarii* = assuming the guise of a deer; *lulubhe* = allured; *maam* 
 at that time and to whom I, a stupid woman, sent forth (far away) Lakshmana and the noble prince Rama the elder
 brother of Lakshmana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surely it was Death himself (nūnaṃ sa kālaḥ), wearing the form of a deer (mṛgarūpadhārī), who enticed (lulubhe) me of scant fortune at that time (tadānīm), when in my folly (mūḍhā) I sent forth (visasarja) those two noble princes (āryaputrau)—Rāma’s younger brother and Lakṣmaṇa’s elder brother (rāmānujaṃ lakṣmaṇapūrvajaṃ ca)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -575,6 +635,12 @@ sentenced to dealth; *raakSasaam* = by the demons.
 "O Rama, the strictly truthful man and the long-armed, O the man whose face resembles the full-moon!
 You, who are well-disposed of the world of living beings, do not indeed know me to have been sentenced to death
 by the demons."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alas, O Rāma of true vows (satyavrata), O long-armed one (dīrghabāho), alas, O you whose face rivals the full moon (pūrṇacandrapratimānavaktra)! Alas, you who are the benefactor and beloved of the world of living beings (jīvalokasya hitaḥ priyaś ca), you do not know that I am doomed to be slain by the rākṣasas (vadhyāṃ na māṃ vetsi hi rākṣasānām)!
 </details>
 </details>
 
@@ -630,6 +696,12 @@ the husband; *idam* = all this; *viphalam* = has become a waste; *manuSyaaNaam k
 in righteousness, my devotion to the husband - all this has become a waste, like a good act done by men to ungrateful
 men becoming waste".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+My having no other deity [than my husband] (ananyadevatvam), this forbearance (iyaṃ kṣamā ca), my sleeping upon the bare ground (bhūmau ca śayyā), my strict observance of righteousness (niyamaś ca dharme), and this wifely fidelity of mine (pativratātvaṃ mamedam) have proved fruitless (viphalam), like a good deed done by men toward ingrates (kṛtaṃ kṛtaghneṣv iva mānuṣāṇām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -680,6 +752,12 @@ a waste; *tathaa* = likewise; *idam* = this wife to you; *nirartham* = has becom
 "For me who is not seeing you, who is bereft of you, who is not hopeful of coming into contact
 with you, who is emaciated and pale in complexion this righteous act performed by me has indeed become a waste.
 Likewise, this state of my being only one wife to you has become useless.."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In vain indeed (mogho hi) has this righteousness been practiced by me (dharmaś carito mamāyam), and meaningless is this status of being your sole wife (ekapatnītvam idaṃ nirarthakam)—I who, emaciated and pallid (kṛśā vivarṇā), bereft of you and hopeless of reunion (saṃgamane nirāśā), do not behold you!
 </details>
 </details>
 
@@ -732,6 +810,12 @@ having accomplished your purpose; *manye* = I think; *ramsyase* = you will enjoy
 return from the forest fearlessly and having accomplished your purpose, I think you will enjoy carnally with large-eyed
 women."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having faithfully fulfilled your father’s command (pitur nideśaṃ niyamena kṛtvā) and returned from the forest with your vow accomplished (vanān nivṛttaś caritavrataś ca), free from fear and having achieved your purpose (vītabhayaḥ kṛtārthaḥ), you will, I ween, take your pleasure (saṃraṃsyase) with wide-eyed women (strībhis tu vipulekṣaṇābhiḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -777,6 +861,12 @@ women."
 "O Rama! Having performed austerity and vow in vain, I for myself who has fallen in love with you
 and in whose was confined an affection for you for a long time, for my own destruction, I can lose my life. Woe
 to me of my little fortune!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whereas I, O Rāma, who conceived love for you (tvayi jātakāmā) and bound my heart to you so long only for my own ruin (ciraṃ vināśāya nibaddhabhāvā), having practiced austerity and vows in vain (moghaṃ caritvātha tapo vrataṃ ca), shall cast away my life—fie upon my scant fortune (dhig jīvitam alpabhāgyām)!”
 </details>
 </details>
 
@@ -837,6 +927,12 @@ _________________
 "I as such will abandon quickly my life by poison or by a sharp weapon. To me, none is there, who
 is a giver either of a poison or of a sharp weapon in the house of Ravana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I would swiftly cast away my life (saṃjīvitaṃ kṣipram ahaṃ tyajeyam) by poison or by a sharp blade (viṣeṇa śastreṇa śitena vāpi); yet in the house of this rākṣasa (veśmani rākṣasasya) there is no one at all (na tu me 'sti kaścit) to give me poison or a blade (viṣasya dātā śastrasya vā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -885,6 +981,12 @@ ways; *devii* = Seetha; *anusmarantii* = was recollecting; *raamam* = Rama; *sar
 
 Thus lamenting in several ways, Seetha was recollecting Rama in all spirits and trembling with
 and emaciated face, approached that excellent tree in bloom.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scorched by grief (śokābhitaptā) and reflecting in many ways (bahudhā vicintya), Sītā then took hold of her hair-braid cord (veṇīgrathanaṃ gṛhītvā) [and thought]: “Hanging myself (udbaddhya) with this braid-cord (veṇyudgrathanena), I shall swiftly go to the presence of Yama (śīghram ahaṃ gamiṣyāmi yamasya mūlam)!”
 </details>
 </details>
 
@@ -987,6 +1089,14 @@ as thoroughly efficacious.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तॆण्टनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** Delicate in every limb (mṛdusarvagātrī), she stood near (upasthitā sā), grasping a branch of that tree (śākhāṃ gṛhītvā ca nagasya tasya); and as that auspicious-limbed lady (tasyāḥ śubhāṅgyāḥ) was deeply meditating upon Rāma (rāmaṃ paricintayantyāḥ), upon Rāma’s younger brother, and upon her own noble lineage (svaṃ ca kulam),
+
+**19:** there suddenly appeared (prādur babhūvuḥ) for her at that moment many sorrow-dispelling (viśokāni) portents, foremost in the world (pravarāṇi loke), won through her steadfastness (dhairyārjitāni), which had been observed and proven true even of old (purāpi siddhāny upalakṣitāni).
 </details>
 </details>
 

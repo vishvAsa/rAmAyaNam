@@ -105,6 +105,14 @@ Eight ministers are there for that valiant and glorious King Dasharatha, who are
  clean at heart and are involved in the works of the king and kingdom at all time.
  [1-7-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** That high-souled descendant of Ikṣvāku (Daśaratha) had ministers endowed with every excellence—masters of state counsel, skilled in reading unspoken gestures and facial expressions (Iṅgitajñāḥ), and ever devoted to what was dear and beneficial to their king.
+
+**2:** Eight were the illustrious ministers of that heroic monarch—pure in word, mind, and deed, and unceasingly devoted to the affairs of the realm.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -159,6 +167,12 @@ _________________
 
 Dhristi, Jayantha, Vijaya, Suraashtra, Raashtravardhana, Akopa, Dharmapaala, are
  seven, and Sumantra is the eighth one. [1-7-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They were Dhṛṣṭi, Jayanta, Vijaya, Surāṣṭra, Rāṣṭravardhana, Akopa, Dharmapāla, and Sumantra the eighth, deeply versed in Artha (statecraft and treasury).
 </details>
 </details>
 
@@ -236,6 +250,14 @@ Suyajna, Jabaali, Kaashyapa, Gautama, Maarkandeya, Deerghaayu, and then Kaatyaya
  there are also Brahma-sages who are always the ancestral ritual scholars for Dasharatha's
  family. [1-7-5, 6a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** He had two revered officiating priests (Ṛtvijau), the foremost of seers—Vasiṣṭha and Vāmadeva—and other counselors besides:
+
+**5:** Suyajña, and Jābāli, Kāśyapa, and Gautama, long-lived Mārkaṇḍeya, and the twice-born Kātyāyana.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -304,6 +326,16 @@ All the ministers are well versed in scriptures, they shun bad deeds, skilful
  and those ministers are true to their word. They are magnificent, patient and
  famed ones and they smile afore they converse. [1-7-6b, 8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** Together with these Brāhmaṇa-seers, his hereditary officiating priests and counselors were ever modest through sacred learning, endowed with moral shame (Hrī), skilled in policy, and masters of their senses.
+
+**7:** Radiant with prosperity, high-souled, deeply versed in the Śāstras (and the science of weaponry), of unshakable valor, renowned for their glory, vigilant in all state affairs, and faithful executors of the King's word—
+
+**8:** Possessed of majesty, forbearance, and fame, speaking always with a welcoming smile, they would never utter an untrue word out of anger, desire, or greed for wealth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +382,12 @@ They never speak untruthful words in anger or in greed or for monetary reasons
  or in the others either, or about everything that is happening or has happened,
  or that is going to happen, for they know them through agents. [1-7-8b, 9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nothing whatever—whether currently being done, already done, or even intended in the future—remained unknown to them, whether among their own people or among hostile states, through their network of spies (Cāra).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -391,6 +429,12 @@ They never speak untruthful words in anger or in greed or for monetary reasons
 They are efficient in administration and their friendships are well examined by
  the king, and those ministers impose punishment even on their own sons, if situation
  demands it. [1-7-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Skilled in judicial and administrative transactions, and thoroughly tested in their loyalty across manifold trials, they would mete out timely punishment according to law even upon their own sons.
 </details>
 </details>
 
@@ -438,6 +482,12 @@ They are efficient in administration and their friendships are well examined by
 In collections to their treasury and to militarise their armies they are dutiful,
  even an unfriendly person will not be tortured, if he were not really blameworthy.
  [1-7-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Diligent in replenishing the royal treasury and in maintaining and testing the fourfold army, they would never harm even a hostile man so long as he had committed no offense.
 </details>
 </details>
 
@@ -487,6 +537,12 @@ They are valiant ones with engineered enthusiasm, administrators of political
  science, clean persons and protectors of subjects of their kingdom at all times.
  [1-7-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Heroic and of unflagging energy, following the canons of statecraft (Rājaśāstra), they were ever the protectors of the upright and pure citizens dwelling throughout the realm.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -528,6 +584,12 @@ They are valiant ones with engineered enthusiasm, administrators of political
 They do not persecute Brahman-s and Kshatriya-s to fill-up the treasury, and high
  degree punishments will be given on assessing that person's, or the offender's
  strength and weakness. [1-7-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without oppressing the Brāhmaṇas and Kṣatriyas, they replenished the royal treasury;administering stern punishment where warranted, they first weighed the strength and weakness—and the gravity of the offense—of every man.
 </details>
 </details>
 
@@ -597,6 +659,14 @@ None with an evil-mind or with an interest in other man's wife is there, and thu
  on whole in the kingdom and also like that in the capital, there is an undisturbed
  society. [1-7-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** While all those pure-hearted ministers, united in a single purpose, vigilantly oversaw the affairs of state, there was not a single speaker of falsehood anywhere in the capital city or in the countryside.
+
+**15:** Nowhere in that realm was there a wicked man, nor one who coveted another's wife; utterly peaceful and free from all disturbance were both the countryside and that supreme capital city.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -649,6 +719,12 @@ None with an evil-mind or with an interest in other man's wife is there, and thu
 Well-dressed and well-decorated and they the ministers of King Dasharatha, observe
  decency in the interest of the king and also of the kingdom, with diligence and
  with a truthful-eye. [1-7-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clad in fair garments and nobly adorned, all of them observed pure vows; devoted to the welfare of their Sovereign, they kept unceasing watch with the eye of policy (Naya-cakṣuṣā).
 </details>
 </details>
 
@@ -707,6 +783,12 @@ They acquired good qualities from their mentors and they are renowned by their
  expertise, and even in foreign countries they are famous for their intellectual
  determinations in all affairs. [1-7-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cherished by their preceptor and king for their virtues, and celebrated for their valorous deeds, they were renowned even in foreign lands through the unerring decisiveness of their intellect in all matters.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -747,6 +829,12 @@ They acquired good qualities from their mentors and they are renowned by their
 Versatile and virtuous are they the ministers and there is none who discarded
  his virtuosity, and they are the determiners of truce or war, and by their nature
  they possess opulence. [1-7-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Possessed of noble qualities in every time and place—never devoid of virtue—they knew the true principles of peace-treaties and war (Sandhi and Vigraha), and by their very nature were endowed with three-guna excellence and royal fortune.
 </details>
 </details>
 
@@ -816,6 +904,12 @@ They are capable to keep up the confidentialities of strategies, and also capabl
 
 इति ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Capable of guarding the secrecy of state counsel, discerning in subtle and intricate deliberations, deeply versed in the special canons of political science (Nītiśāstra), they spoke always what was pleasant and salutary.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -863,6 +957,12 @@ They are capable to keep up the confidentialities of strategies, and also capabl
 Accompanied with such of those effectual and good-natured ministers the exalted
  king Dasharatha ruled the earth. [1-7-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Endowed with such ministers as these, rich in every virtue, the sinless King Daśaratha ruled over the earth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -896,6 +996,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दशरथनु गुप्तचरर मूलक तन्न मत्तु शत्रुराज्यद आगुहोगुगळ मेलॆ कण्णिडुत्तिद्दनु. धर्मदिन्द प्रजॆगळन्नु पालिसुत्ता, अधर्मदिन्द सदा दूरवागिद्दनु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Observing all things through his intelligence network (Cāra), protecting (and gladdening) his subjects through Dharma, cherishing the people, and shunning all unrighteousness—
 </details>
 </details>
 
@@ -942,6 +1048,12 @@ He that most generous one among men, Dasharatha, while observing through spies,
  unrighteousness and became a generous king avowed to truthfulness alone, and thus
  he that Dasharatha ruled the earth, which rulership is renowned in all the three
  worlds. [1-7-21,22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Renowned across the three worlds, munificent in charity, and true to his word in battle, that tiger among men ruled over this earth from Ayodhyā.
 </details>
 </details>
 
@@ -999,6 +1111,12 @@ Emperor Dasharatha has not encountered either a superior or an equal in his king
  and to him there are many friends, subdued are his provincial kings and eliminated
  is thorniness by his own valour. He thus ruled the world like Indra would in Heaven.
  [1-7-23]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Never did he encounter a foe superior or even equal to himself; surrounded by loyal allies, with tributary kings bowing at his feet and all thorns of the realm destroyed by his valor, that King ruled the world just as the Lord of the Gods (Indra) rules in heaven.
 </details>
 </details>
 
@@ -1221,6 +1339,12 @@ In the company of those ministers, who are conducive to the strategies, interest
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि एळनॆय सर्ग पूर्णवायितु. ॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by those ministers—devoted to salutary counsel, steadfast in their posts, deeply attached to him, skilled, and capable—that Sovereign attained resplendent glory, even as the risen Sun united with its blazing rays.
 </details>
 </details>
 

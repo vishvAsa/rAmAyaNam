@@ -62,6 +62,12 @@ makes enemies to cry; *iti uktvaa* = thus speaking; *maithiliim* = to Seetha; *t
 The king Ravana who makes enemies to cry thus speaking to Seetha thereafter also ordering all ogre
 women went away.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to Maithilī and having instructed all the rākṣasīs, King Rāvaṇa, who makes his enemies wail (śatrurāvaṇaḥ), then departed (nirjagāma ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,6 +94,12 @@ women went away.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 अशोकवाटिकासे निकलकर जब राक्षसराज रावण अन्तःपुरको चला गया, तब वहाँ जो भयानक रूपवाली राक्षसियाँ थीं, वे सब चारों ओरसे दौड़ी हुई सीताके पास आयीं ॥ २ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the lord of the rākṣasas had gone forth and re-entered his inner apartments (antaḥpuraṃ gate), those rākṣasīs of dreadful form (bhīmarūpāḥ) rushed (samabhidudruvuḥ) upon Sītā.
 </details>
 </details>
 
@@ -152,6 +164,12 @@ speech; *param* = (which was) very; *parushhayaa* = harsh; *abruvan* = spoke; *i
 Thereafter reaching Seetha ogre women swooned with anger and with a very harsh speech spoke these
 words to Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then approaching Sītā, the rākṣasīs, beside themselves with rage (krodhamūrcchitāḥ), spoke this word to Vaidehī in an exceedingly harsh voice (paruṣayā vācā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -193,6 +211,12 @@ varidhhThasya* = best among men; *mahaatmanaH* = a great soul; *dashagrrivasya* 
 
 "O Seetha! You are not respscting becoming wife of Ravana born in the family of Paulastya, best
 among men, a great soul with ten heads."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Sītā, do you not esteem (na bahu manyase) becoming the wife (bhāryātvam) of the high-souled ten-necked Rāvaṇa, the foremost descendant of Pulastya (paulastyasya variṣṭhasya)?”
 </details>
 </details>
 
@@ -239,6 +263,12 @@ among men, a great soul with ten heads."
 
 Thereafter an ogre woman named Ekajata with red eyes sue to anger calling Seetha with stomach that
 can be held by palm of the hand, spoke these words.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then a rākṣasī named Ekajaṭā, her eyes coppery-red with rage (krodhatāmrākṣī), addressed Sītā, whose waist could be spanned by the palm of a hand (karatalodarīm), and spoke:
 </details>
 </details>
 
@@ -292,6 +322,12 @@ _________________
 ,he is famous as Paulastya."
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Among the six Prajāpatis (prajāpatīnāṃ ṣaṇṇām), the fourth Prajāpati is this mind-born son (mānasaḥ putraḥ) of Brahmā, renowned as Pulastya.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -336,6 +372,12 @@ sage; *sutaH* = is the son; *maanasaH* = (born) from the thought; *pulastasya* =
 
 By the name, famous as Visrava, with a radiance equalling that of Lord Brahmathat glorious sage
 is the son born from the thought of Pulastya.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And of Pulastya there was a glorious, mind-born son (mānasaḥ sutaḥ), a great sage named Viśravas by name, equal in radiance to a Prajāpati (prajāpatisamaprabhaḥ).
 </details>
 </details>
 
@@ -390,6 +432,12 @@ you not agree; *vaakyam* = words; *uktam* = spoken; *mayaa* = by me.
 "O wide eyed one! Ravana who makes enemies to cry, is Visrava's son. You are suited to become Ravana's
 wife. O one with all beautiful limbs! Why will you not agree words spoken by me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His son, O large-eyed lady (viśālākṣi), is Rāvaṇa, who makes his foes wail; you ought to become the wife of that lord of the rākṣasas!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -435,6 +483,14 @@ _________________
 the wife of that lord of ogres.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** O lady of lovely limbs (cārusarvāṅgi), why do you not assent to the word spoken by me?” Then a rākṣasī named Harijaṭā spoke a word,
+
+**10:** rolling her eyes in wrath (vivṛtya nayane kopāt), with eyes resembling a cat’s (mārjārasadṛśekṣaṇā): “He by whom the thirty-three gods (devās trayastriṃśat) and the king of the gods [Indra] were vanquished—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -496,6 +552,12 @@ anger and spoke these words.
 
 Thereafter an ogre named Praghasa swooning with anger and then frightening Seetha, spoke this horrible
 word.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+of that lord of the rākṣasas you ought to become the wife! Why do you not desire (kiṃ na lipsase) to become the wife of that mighty, heroic warrior, proud of his valour (vīryotsiktasya) and unretreating in battles (saṃgrāmeṣv anivartinaḥ)?
 </details>
 </details>
 
@@ -561,6 +623,14 @@ who among all wives; *mahaabhaagaam* = is most fortunate; *upaishhyati* = can ob
 "The mighty Ravana can leave dear respectable wife who among all wives is most fortunate and can
 obtain you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** Abandoning his beloved, highly esteemed wife (priyāṃ bahumatāṃ bhāryām), who is the most fortunate of all (sarvāsāṃ ca mahābhāgām), the mighty King Rāvaṇa will come to you (tvām upaiṣyati)!
+
+**13:** Forsaking that inner apartment (antaḥpuram) thronged with a thousand women (strīsahasreṇa) and resplendent with manifold jewels, Rāvaṇa will come to you!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -611,6 +681,14 @@ _________________
 "Ravana leaving gynaeceum filled with thousand women and shone by various best things can obtain
 you.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Then another rākṣasī named Vikaṭā spoke a word: “He by whose dreadful valour (bhīmavīryeṇa) nāgas, gandharvas, and dānavas have been repeatedly vanquished (asakṛd nirjitāḥ) in battle—he has come to your side (pārśvam upāgataḥ)!
+
+**15:** Why, O vile woman (adhame), do you not desire to become the wife of that high-souled Rāvaṇa, the lord of the rākṣasas, who is endowed with every affluence (sarvasamṛddhasya)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -635,6 +713,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 फिर उनसे दुर्मुखी नामवाली राक्षसीने कहा—‘विशाललोचने! जिनसे भय मानकर सूर्य तपना छोड़ देता है और वायुकी गति रुक जाती है, उनके पास तुम क्यों नहीं रहती? ॥ १६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then a rākṣasī named Durmukhī spoke a word to her: “He out of fear of whom (yasya bhītaḥ) the sun does not scorch (sūryo na tapati) and the wind does not blow (māruto na vāti sma)—O lady with long outer eye-corners (āyatāpāṅgi), why do you not abide by him (tasya na tiṣṭhase)?
 </details>
 </details>
 
@@ -709,6 +793,14 @@ war Nagas, Gandharvas and Danavas have been conquered that Ravana has come to yo
 "O vile one! Why are you not desiring wifehood of such Ravana, fulfilled in all respects, who is
 a great soul and lord of ogres.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** Out of fear of whom the trees shed a shower of flowers (puṣpavṛṣṭiṃ mumucuḥ), and the mountains and rain-clouds (śailāḥ ... jaladāś ca) pour forth water (susruvuḥ pānīyam) whenever he desires (yadecchati)—
+
+**18:** why, O spirited woman (bhāmini), do you not set your mind (na kuruṣe buddhim) on becoming the wife (bhāryārthe) of that Rāvaṇa, the king of the nairṛtas and king of kings (rājarājasya)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -782,5 +874,11 @@ who is the king of ogres and king of kings."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि इप्पत्तमूरनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rightly (sādhu) has this been told to you in truth (tattvataḥ), O queen! Rightly accept (gṛhāṇa) this word, O spirited lady of lovely smile (susmite); otherwise you shall not live (na bhaviṣyasi)!”
 </details>
 </details>

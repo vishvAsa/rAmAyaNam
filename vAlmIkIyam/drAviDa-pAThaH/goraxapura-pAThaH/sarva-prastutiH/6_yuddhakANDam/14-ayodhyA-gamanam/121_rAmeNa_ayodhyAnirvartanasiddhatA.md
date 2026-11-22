@@ -47,6 +47,12 @@ arranges the aerial car, Pushpaka to transport Rama and others to Ayodhya.
 
 अन्दिन रात्रॆ विश्रान्ति पडॆदु शत्रुसूदन श्रीरामनु मरुदिन प्रातःकालदल्लि सुखवागि ऎच्चरगॊण्डाग कुशल प्रश्नॆगळ बळिक विभीषणनु कैमुगिदु हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that auspicious speech uttered by the Grandsire (pitāmahasamīritam), Vibhāvasu [the Fire-god] rose up aloft (utpapāta), taking Vaidehī in his arms (aṅkenādāya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -75,6 +81,12 @@ _________________
 
 रघुनन्दन! स्नानक्कागि नीरु, अङ्गराग, वस्त्र, अभूषण, चन्दन, बगॆ-बगॆय मूलॆगळु निन्न सेवॆगागि सिद्धवागिवॆ.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scattering that funeral pyre (vidhūyātha citāṃ tām), the bearer of oblations swiftly stood forth in bodily form (mūrtimān), holding the daughter of Janaka, Vaidehī—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -99,6 +111,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुवीरने! शृङ्गार कलॆयन्नु तिळिदिरुव कमलाक्षियराद ई नारियरू कूड निन्न सेवॆगागि बन्दु निन्तिरुवरु. इवरु विधिवत्तागि निनगॆ स्नानमाडिसुवरु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—radiant as the newly risen sun (taruṇādityasaṃkāśām), decked with ornaments of burnished gold, wearing crimson garments (raktāmbaradharām), youthful, with dark and curling locks—
 </details>
 </details>
 
@@ -142,6 +160,12 @@ _________________
 
 Hearing the words of Vibhishana, Rama replied as follows: "You invite the monkeys
 headed by Sugreeva for the bath."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—wearing unwithering garlands and ornaments (akliṣṭamālyābharaṇām), unchanged in beauty (tathārūpām) and blameless; placing Vaidehī upon his lap, Vibhāvasu presented her to Rāma.
 </details>
 </details>
 
@@ -188,6 +212,12 @@ Truth; *taamyati* = is suffering; *mama hetoH* = on my account.
 
 "That Bharata, the virtuous man, who was accustomed to comfort, a delicate youth,
 the great-armed and the one consistent with the truth is suffering on my account."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Pāvaka, the witness of the world (sākṣī lokasya), spoke to Rāma: “Here is your Vaidehī, O Rāma; no sin exists in her (pāpam asyāṃ na vidyate).
 </details>
 </details>
 
@@ -238,6 +268,12 @@ _________________
 In the absence of Bharata, the son of Kaikeyi, who is practicing virtue, ritual
 bathing, garments and jewels are not to my liking."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Neither by speech, nor by mind, nor by intellect (naiva buddhyā), nor by glance has this auspicious lady of noble conduct (suvṛttā)—proud of her virtue (vṛttaśauṭīryā)—ever transgressed against you.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -284,6 +320,12 @@ over; *gachchhataH* = (for anyone) proceeding; *ayodhyaam* = to Ayodhya City.
 "See how we may return to that City of Ayodhya soon. It is indeed very difficult to
 travel over this path to reach Ayodhya City, so soon."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Separated from you in a lonely place (nirjane), wretched and helpless (dīnā vivaśā), this chaste lady was carried off by the Rākṣasa Rāvaṇa, puffed up with his valor (vīryotsiktena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -323,6 +365,12 @@ Vibhishana; *pratyuvaacha* = replied; *kaakutthsam* = to Rama (as follows):;
 
 Hearing the words of Rama, Vibhishana replied : "O prince! I will get you t that
 City in a day."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Imprisoned and closely guarded in the inner apartments, her mind fixed on you and having you as her sole refuge (tvaccittā tvatparāyaṇā), she was watched over by frightful Rākṣasīs of cruel minds.
 </details>
 </details>
 
@@ -379,6 +427,14 @@ one pleases, wonderful and excellent, named Pushpaka of Kubera my brother was ro
 Ravana after conquering Kubera in battle. May prosperity attend you! It is retained there for your
 sake."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Though tempted in manifold ways (pralobhyamānā vividham) and threatened (tarjyamānā), Maithilī never gave a thought to that Rākṣasa (nācintayata tad rakṣaḥ), her inner soul being wholly absorbed in you (tvadgatenāntarātmanā).
+
+**10:** Accept Maithilī (pratigṛhṇīṣva maithilīm), who is of pure heart (viśuddhabhāvām) and sinless; she should not be spoken to harshly in any way—I solemnly enjoin you (aham ājñāpayāmi te)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -421,6 +477,12 @@ to Ayodhya; *vigatajvaraH* = without any trouble.
 
 "The yonder aerial car, looking like a cloud, stands here and by which transport,
 you can reach Ayodhya without any trouble."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the righteous-souled Rāma, foremost of eloquent speakers, delighted at heart (prītamanāḥ) upon hearing this, reflected for a moment, his eyes brimming with tears of joy (harṣavyākulalocanaḥ).
 </details>
 </details>
 
@@ -482,6 +544,14 @@ with Seetha; your consort; *tataH gamiShyasi* = you may go; thereafter.
 "O Rama! When you have been offered with reference all the entertainments, you along
 with Lakshmana, your brother and Seetha your consort, shall then depart."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** Addressed thus, the resolute Rāma of great splendor and wide-striding valor, foremost of upholders of dharma, spoke to the chief of the gods:
+
+**13:** “Assuredly Sītā required purification (pāvanam arhati) before the worlds; for this auspicious lady dwelt for a long time (dīrghakāloṣitā) in the inner apartments of Rāvaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -522,6 +592,12 @@ me.
 
 "O Rama! In the meantime, accept you, with your entire army and assemblage of
 friends, my hospitality which has been fixed and arranged by me, full of affection as I am."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For had I not purified Jānakī (jānakīm aviśodhya hi), the world would say of me: ‘Foolish indeed and governed by lust (bāliśo bata kāmātmā) is Rāma, the son of Daśaratha!’
 </details>
 </details>
 
@@ -565,6 +641,12 @@ am not in any way commanding you to do so."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुवीर! नानु केवल प्रेम, सम्मान, सौहार्ददिन्दले निम्मल्लि प्रार्थिसुत्तिद्देनॆ. निम्मन्नु प्रसन्न गॊळिसलु बयसुत्तिद्देनॆ. नानु निम्म सेवकनाद्दरिन्द निम्मल्लि विनन्तिसिकॊळ्ळुवॆनु; आज्ञॆ कॊडुत्तिल्ल.॥1.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I too know (aham apy avagacchāmi) Maithilī, the daughter of Janaka, Sītā, to be single-hearted (ananyahṛdayām) and ever guarding my own heart's wish (maccittaparirakṣiṇīm).
 </details>
 </details>
 
@@ -629,6 +711,12 @@ Vibhishana, wishing victory to Rama, (the destroyer of adversaries) who having
 reposed during the previous night and had risen fresh, spoke to him with joined palms, the
 following words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa could no more transgress against this wide-eyed lady, guarded by her own fiery chastity (rakṣitāṃ svena tejasā), than the great ocean can overstep its shore (velām iva mahodadhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -678,6 +766,12 @@ by your friendship; *puujitaH asmi* = I stand honoured; *tvayaa* = by you.
 "O destroyer of enemies! O hero! I stand honoured by you by your valued counsel,
 your efforts put forth with your whole soul and more so by your friendship.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet in order to instill conviction in the three worlds (pratyayārthaṃ tu lokānāṃ trayāṇām), I, whose sole refuge is truth (satyasaṃśrayaḥ), looked on passively as Vaidehī entered the fire.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -722,6 +816,14 @@ my brother.
 
 "O king of demons! It is not that I am not carrying out your words. But, my heart is
 hastening to see that Bharata, my brother."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** For that evil-minded one [Rāvaṇa] was not able even in thought (manasāpi) to violate Maithilī, who was unapproachable like a blazing tongue of fire (dīptām agniśikhām iva).
+
+**19:** This chaste lady could never succumb to weakness (neyam arhati vaiklavyam) in Rāvaṇa's inner apartments; for Sītā is inseparable from me (ananyā hi mayā sītā), just like sunlight from the sun (bhāskarasya prabhā yathā).
 </details>
 </details>
 
@@ -774,6 +876,12 @@ with his head bent low and Kausalya my mother as also Sumitra and the illustriou
 step-mothers) as also Guha my friend, as well as the citizens of Ayodhya and the inhabitants of the
 country-side."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Purified before the three worlds (viśuddhā triṣu lokeṣu), Maithilī, the daughter of Janaka, cannot be forsaken by me, any more than renown by a self-possessed man (kīrtir ātmavatā yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -813,6 +921,12 @@ entreat; *tvaam* = you.
 
 "O gentle Vibhishana! Allow me to go. I am honoured. O friend! You need not be
 disappointed, I entreat you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And assuredly the salutary counsel (vaco hitam) of all of you—affectionate protectors of the worlds (snigdhānāṃ lokanāthānām) who speak what is beneficial—must be carried out by me.”
 </details>
 </details>
 
@@ -859,6 +973,12 @@ continued stay here, now that my task has been accomplished?"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसराजने! ईग शीघ्रवागि ननगागि पुष्पक विमानवन्नु तरिसु. इल्लिय नन्न कार्यपूर्णवाद मेलॆ इल्लि निल्लुवुदु ननगॆ हेगॆ सरियागबल्लदु.॥2.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the victorious, mighty, and illustrious Rāma, praised for the deed he had accomplished (svakṛtena karmaṇā), was reunited with his beloved (sametya priyayā); and Rāghava, worthy of happiness, experienced supreme felicity (sukham anubabhūva).
 </details>
 </details>
 

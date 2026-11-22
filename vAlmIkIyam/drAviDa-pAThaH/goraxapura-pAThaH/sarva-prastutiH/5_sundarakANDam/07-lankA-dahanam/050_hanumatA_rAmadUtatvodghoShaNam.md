@@ -76,6 +76,12 @@ That Ravana, the long-armed, who caused people to cry, looking up at that monkey
 in front of him, was affected with violent anger, having his mind seized with suspicion, speculated
 (as follows) about Hanuma, the jewel among the monkeys, who was invested with splendour.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that tawny-eyed one (piṅgākṣam) standing before him (purataḥ sthitam), the mighty-armed Rāvaṇa, the make-wailer of the worlds (lokarāvaṇaḥ), was seized by great wrath (roṣeṇa mahatā”viṣṭaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,6 +141,14 @@ or he; *syaat kim svit* = in whether; *mahaasuraH baaNaH* = the great demon name
 of Siva) which cursed me long ago and came here now in this form or whether he is Bana the great demon
 (son of Bali) came here in the form of a monkey."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** With his mind struck by misgiving (śaṅkāhatātmā), he pondered over that lord of monkeys (kapīndram) enveloped in splendor (tejasā vṛtam): “Could this be the worshipful Nandin (bhagavān nandī) come here in person (sākṣād ihāgataḥ),
+
+**3:** “By whom I was cursed (yena śapto'smi) of old on Mount Kailāsa when he was mocked by me (mayā prahasite purā)? Or could this one in monkey-form (vānaramūrtiḥ) be Bāṇa the asura (bāṇo'pi vāsuraḥ)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -181,6 +195,12 @@ Prahasta; *mantrisattaamam* = his chief of ministers.
 That king Ravana, becoming enraged with red hot eyes, spoke the following concise and
 meaningful words relevant to that occasion, to Prahasta, his chief of ministers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That king, his eyes copper-red with wrath (roṣatāmrākṣaḥ), spoke to Prahasta, the foremost of ministers (mantrisattamam), this timely (kālayuktam), weighty, and purposeful speech (vaco vipulam arthavat):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,6 +229,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अमात्य! इस दुरात्मासे पूछो तो सही, यह कहाँसे आया है? इसके आनेका क्या कारण है? प्रमदावनको उजाड़ने तथा राक्षसोंको मारनेमें इसका क्या उद्देश्य था? ॥ ५ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let this evil-minded one (durātmā) be questioned (pṛcchyatām): whence [has he come], and what is his motive (kiṃ vāsya kāraṇam)? And what is his purpose (ko'syārthaḥ) in the shattering of the grove (vanabhaṅge) and in the terrifying of the rākṣasas (rākṣasānāṃ ca tarjane)?
 </details>
 </details>
 
@@ -268,6 +294,12 @@ aayodhanevaa* = in doing the battle.
 "Ask this evil-minded monkey as to what really is his purpose in coming over to my invincible
 City and what pursuit he is doing this battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What is his object in coming to my unassailable city (matpurīm apradhṛṣyāṃ gamane), or what is his purpose in giving battle (āyodhane vā kiṃ kāryam)? Let this wicked-minded one (durmatiḥ) be questioned!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -293,6 +325,12 @@ City and what pursuit he is doing this battle."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 रावणकी बात सुनकर प्रहस्तने हनुमान् जी से कहा—‘वानर! तुम घबराओ न, धैर्य रखो । तुम्हारा भला हो । तुम्हें डरनेकी आवश्यकता नहीं है ॥ ७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāvaṇa's speech (rāvaṇasya vacaḥ), Prahasta spoke these words: “Take heart (samāśvasihi), bless you (bhadraṃ te)! No fear need be entertained by you, O monkey (na bhīḥ kāryā tvayā kape).
 </details>
 </details>
 
@@ -358,6 +396,12 @@ fear; *te* = for you; *mokSyase* = you will be released.
 "O monkey! If Indra has sent you to the abode of Ravana, tell me the truth. Do not have
 fear. You will be released."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If indeed you have been sent by Indra (indreṇa preṣitaḥ) to the abode of Rāvaṇa (rāvaṇālayam), declare the truth (tattvam ākhyāhi); let no fear be yours, O monkey—you shall be released (mokṣyase)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -387,6 +431,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अथवा यदि तुम कुबेर, यम या वरुणके दूत हो और यह सुन्दर रूप धारण करके हमारी इस पुरीमें घुस आये हो तो यह भी बता दो ॥ ९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If you belong to Vaiśravaṇa, Yama, or Varuṇa, and having assumed this comely form (cārurūpam idaṃ kṛtvā) have entered this city of ours (praviṣṭo naḥ purīm imām),
 </details>
 </details>
 
@@ -453,6 +503,12 @@ form alone; *vaanaram* = (is that of) a monkey; *tejaH* = (your) splendour; *na 
 "O monkey! Your form alone is that of a monkey. Your splendour indeed is not that of
 a monkey. Now, tell me the truth. Thereupon, you will be released."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or if you have been dispatched as an envoy (preṣito vāpi dūtaḥ) by Viṣṇu desiring victory (vijayakāṅkṣiṇā)—for your energy is not that of a monkey (na hi te vānaraṃ tejaḥ), and only your outward form is monkey-like (rūpamātraṃ tu vānaram)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -497,6 +553,12 @@ a monkey. Now, tell me the truth. Thereupon, you will be released."
 
 "If you tell a lie, your survival will be difficult. Or else, tell me the purpose of
 your entry into Ravana's abode."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Declare it truthfully today (tattvataḥ kathayasvādya), and thereupon, O monkey, you shall be set free (mokṣyase); whereas if you speak falsehood (anṛtaṃ vadataś cāpi), your life will be hard to save (durlabhaṃ tava jīvitam)—
 </details>
 </details>
 
@@ -561,6 +623,14 @@ Hearing the words of Prahasta, Hanuma spoke to Ravana the Lord of demons as foll
 nor am I instigated by Vishnu. This is just my form of existence, by my very birth. I am a monkey who
 came here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “Or else [declare] for what cause (yannimittaḥ) is your entry into the abode of Rāvaṇa (praveśo rāvaṇālaye)!” Thus addressed, the foremost of monkeys (harivaraḥ) then [spoke] to the lord of the rākṣasa hosts (rakṣogaṇeśvaram):
+
+**13:** He said: “I do not belong to Śakra, Yama, or Varuṇa; I have no friendship with Dhanada (dhanadena na me sakhyam), nor have I been impelled by Viṣṇu (viṣṇunā nāsmi coditaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -621,6 +691,14 @@ _________________
 "The sight of Ravana the King of demons is difficult to be obtained. Intent on that object
 (of sight of Ravana), the garden was destroyed by me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** “This is indeed my very birth-species (jātir eva mama tveṣā); as a monkey I have come here (vānaro'ham ihāgataḥ) for a sight of the lord of the rākṣasas (darśane rākṣasendrasya). Because that [audience] was hard for me to obtain (tad idaṃ durlabhaṃ mayā),
+
+**15:** “The grove of the king of the rākṣasas was laid waste in order to behold him (darśanārthaṃ vināśitam); and thereupon those mighty rākṣasas arrived eager for battle (balino yuddhakāṅkṣiṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -661,6 +739,12 @@ too; *pitaamahaadeva* = from Brahma only.
 
 "I am incapable of being bound by missiles and nooses even by celestials and demons.
 This boon came to me also from Brahama only."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And for the protection of my own body (rakṣaṇārthaṃ ca dehasya), they were fought back by me in battle (pratiyuddhā mayā raṇe). Even by gods and asuras together (devāsurair api), I cannot be bound by weapon-nooses (astrapāśair na śakyo'haṃ baddhum);
 </details>
 </details>
 
@@ -705,6 +789,12 @@ _________________
 
 "Then, those strong demons came with a desire to fight with me. Just for protecting my
 body, I had to attack them in battle."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this boon has come to me too from the Grandsire [Brahmā] (pitāmahād eṣa varo mamāpi hi samāgataḥ); it was out of a desire to behold the king (rājānaṃ draṣṭukāmena) that I complied with the missile (mayāstram anuvartitam).
 </details>
 </details>
 
@@ -785,6 +875,14 @@ splendour. I am telling you a beneficial word. Listen to it."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि ऐवत्तनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “Though released from the missile (vimukto'py aham astreṇa) [when bound] by the rākṣasas, I allowed myself to be brought before you (abhiveditaḥ); on a certain mission of Rāma (kenacid rāmakāryeṇa) I have come into your presence (āgato'smi tavāntikam).
+
+**19:** “Recognizing that I am the envoy of Rāghava of boundless energy (dūto'ham iti vijñāya rāghavasyāmitaujasaḥ), pray hear this salutary speech of mine (śrūyatām eva vacanaṃ mama pathyam idam), O lord (prabho)!”
 </details>
 </details>
 

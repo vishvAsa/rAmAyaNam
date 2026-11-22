@@ -65,6 +65,12 @@ On listening the narration of Sage Vishwamitra about Ganga's descent along with
 Lakshmana, Rama went into a great astonishment, and then addressed Vishvamitra.
 [1-45-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Viśvāmitra, Rāghava together with Lakṣmaṇa (rāghavaḥ sahalakṣmaṇaḥ) was filled with supreme wonder (vismayaṃ paramaṃ gatvā) and spoke thus to Viśvāmitra:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -105,6 +111,12 @@ it, even; *puNyam* = [are] sacrosanct; *atyadbhutam* = highly amazing.
 The blessed legend you have narrated about the digging of an ocean at the behest
 of Sagara, Ganga's alighting, and Bhageeratha filling it with the water of Ganga
 is sacrosanct and even highly amazing. [1-45-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Utterly marvellous, O Brāhmaṇa, is this supreme narrative recounted by you (atyadbhutam idaṃ brahman kathitaṃ paramaṃ tvayā)—the sacred descent of Gaṅgā and the filling of the ocean as well (gaṅgāvataraṇaṃ puṇyaṃ sāgarasyāpi pūraṇam).
 </details>
 </details>
 
@@ -149,6 +161,12 @@ your, all of this episode; *nikhilena* = in entirety; *chintayatoH*
 
 Oh, enemy-inflamer, for two of us entire night rolled by as if it is a single moment
 while we were thinking about the episode you have narrated in its entirety. [1-45-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As the two of us pondered in its entirety this whole narrative of yours (imāṃ cintayatoḥ sarvāṃ nikhilena kathāṃ tava), O scorcher of foes (paraṃtapa), this night has passed away as though it were a single moment (kṣaṇabhūteva nau rātriḥ saṃvṛtteyam)!”
 </details>
 </details>
 
@@ -199,6 +217,12 @@ of the universe, Vishvamitra, whole night rolled by." Thus Rama is addressing Vi
 Here the placement of verses does not give a continuity of narration in this version,
 insofar as Rama's speech is concerned. Other versions have a continuity of narration.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That entire night passed away for Rāma along with Sumitrā’s son (tasya sā śarvarī sarvā mama saumitriṇā saha jagāma), as he reflected upon the auspicious discourse of Viśvāmitra (cintayānasya viśvāmitrakathāṃ śubhām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,6 +264,12 @@ insofar as Rama's speech is concerned. Other versions have a continuity of narra
 Thereafter on the next fresh dawn the enemy-oppressor Raghava spoke these words
 to sage Vishvamitra, whose affluence is nothing but asceticism, and who by now has
 performed his daily chores of rituals. [1-45-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when the clear dawn broke (tataḥ prabhāte vimale), the tamer of foes, Rāghava, spoke these words to Viśvāmitra, rich in penance, after the sage had completed his morning rites (kṛtāhnikam ariṃdamaḥ):
 </details>
 </details>
 
@@ -289,6 +319,12 @@ We have listened the praiseworthy legend of River Ganga, and the deific night
 has also passed by while listening such a legend, we may now cross over the very
 same prominent and merited River Ganga, the tri-path-cruiser. [1-45-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The blessed night has departed, and that supreme account worthy of being heard has been heard (gatā bhagavatī rātriḥ śrotavyaṃ paramaṃ śrutam). Let us now cross the foremost of rivers, the holy stream Tripathagā (tarāma saritāṃ śreṣṭhāṃ puṇyāṃ tripathagāṃ nadīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -333,6 +369,12 @@ and which is comfortably blanketed with mats in its deck has come here, and inde
 on knowing about the visit of your holiness to this place the sages have fetched
 it." Thus Rama spoke to Vishvamitra. [1-45-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this comfortable and well-spread boat belonging to the sages of holy deeds (naur eṣā hi sukhāstīrṇā ṛṣīṇāṃ puṇyakarmaṇām), learning that Your Reverence has arrived here, has come in haste (bhagavantam iha prāptaṃ jñātvā tvaritam āgatā).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -374,6 +416,12 @@ tat vacanam shrutvaa* = on hearing that sentence; *sarSisanghasya*
 Hearing the words of great-souled Raghava, Vishvamitra of Kusha dynasty, started
 to cross over the River Ganga along with the assemblage of sages, and with both
 the Raghava-s. [1-45-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of the high-souled Rāghava (tasya tad vacanaṃ śrutvā rāghavasya mahātmanaḥ), Kauśika caused the crossing to be made along with the company of sages (saṃtāraṃ kārayām āsa sarṣisaṃghasya kauśikaḥ).
 </details>
 </details>
 
@@ -423,6 +471,12 @@ Arriving at the northern bank of River Ganga they have honoured the group of sag
 who ferried them up to here and sent them off. Then sojourning on the riverbank
 of Ganga they have seen the city called Vishaala. [1-45-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching the northern bank and paying honour to the assembly of sages there (uttaraṃ tīram āsādya saṃpūjyarṣigaṇaṃ tataḥ), they seated themselves upon the bank of the Gaṅgā and beheld the city of Viśālā (gaṅgākūle niviṣṭās te viśālāṃ dadṛśuḥ purīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -463,6 +517,12 @@ went.
 
 The great sage Vishvamitra then quickly started along with Rama and Lakshmana to
 the charming and admirable city Vishaala, which in comparison is like heaven. [1-45-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the foremost of sages, accompanied by the two Rāghavas (tato munivaras tūrṇaṃ jagāma saharāghavaḥ), swiftly proceeded to the lovely and celestial city of Viśālā, which resembled heaven itself (viśālāṃ nagarīṃ ramyāṃ divyāṃ svargopamāṃ tadā).
 </details>
 </details>
 
@@ -506,6 +566,12 @@ Then Rama, whose flair for knowing everything is high, became suppliant duly adj
 his palms, and enquired about the prominent city Vishala with the great Sage Vishvamitra.
 [1-45-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Rāma of profound wisdom, joining his palms in reverence (papraccha prāñjalir bhūtvā), questioned the great sage Viśvāmitra concerning that supreme city of Viśālā (viśālām uttamāṃ purīm):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,6 +613,12 @@ is there to me, indeed.
 "Oh, great sage, which dynasty of kings is ruling from this city of Vishaala? Let
 safeness betide you, I am interested to hear of it and indeed I am highly inquisitive
 about it." Thus Rama spoke to Vishvamitra. [1- 45-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Which royal lineage is this that rules in Viśālā, O great sage (katamo rājavaṃśo ’yaṃ viśālāyāṃ mahāmune)? I wish to hear of it—may all be well with you—for great indeed is my curiosity (paraṃ kautūhalaṃ hi me)!”
 </details>
 </details>
 
@@ -594,6 +666,12 @@ about it." Thus Rama spoke to Vishvamitra. [1- 45-12]
 Hearing that sentence of Rama then the eminent sage Vishvamitra has commenced to
 narrate the legend of ancient Vishaala. [1-45-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of Rāma, the bull among sages (tasya tad vacanaṃ śrutvā rāmasya munipuṃgavaḥ) began to recount the ancient history of Viśālā (ākhyātuṃ tat samārebhe viśālāyāḥ purātanam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -638,6 +716,12 @@ has happened, indeed; *[tat api* = that, even]; *raaghava* = oh Raghava;
 Oh, Rama, I will tell you about the auspicious legend of Indra as I was told, and
 you listen to it as I tell. Oh, Raghava, indeed you may now listen to the quintessence
 of what has happened in this country. [1-45-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearken, O Rāma, to the narrative of Śakra (Indra) as I recount what I myself heard (śrūyatāṃ rāma śakrasya kathāṃ kathayataḥ śrutām); hear in its true essence what transpired in this region, O Rāghava (asmin deśe hi yad vṛttaṃ śṛṇu tattvena rāghava).
 </details>
 </details>
 
@@ -687,6 +771,12 @@ were originally called asura-s, and later given the nomenclature
 of *raakshasaa*-s, the demons. Lady Aditi the second wife of that sage Kaashyapa,
 gave birth to the progeny of sura-s, later generally called as
 *devataa*-s, the gods. These two ladies are the daughters of Daksha Prajaapati.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Formerly in the Kṛtayuga, O Rāma, the sons of Diti were possessed of mighty strength (pūrvaṃ kṛtayuge rāma diteḥ putrā mahābalāḥ), and the illustrious sons of Aditi were valorous and eminently righteous (aditeś ca mahābhāgā vīryavantaḥ sudhārmikāḥ).
 </details>
 </details>
 
@@ -739,6 +829,12 @@ syaamaH* = how, we shall be - how to thrive; *buddhiH aasiit* = thought
 "Oh, tigerly-man, Rama, then those great-souls speculated as to 'how we can thrive
 without ageing, illness, and likewise without death.' [1-45-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, O tiger among men, this thought arose in the minds of those high-souled beings (tatas teṣāṃ naravyāghra buddhir āsīn mahātmanām): ‘How may we become deathless, ageless, and free from all disease (amarā vijarāś caiva kathaṃ syāmo nirāmayāḥ)?’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -779,6 +875,12 @@ indeed.
 
 A thought occurred to those masterminds who were thinking on that matter clueing
 them up, 'we indeed can get elixir of life by churning the Milky Ocean.' [1-45-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As those wise ones reflected thus, this resolve arose in them (teṣāṃ cintayatāṃ tatra buddhir āsīd vipaścitām): ‘By churning the Ocean of Milk, we shall surely obtain the immortal essence therein (kṣīrodamathanaṃ kṛtvā rasaṃ prāpsyāma tatra vai)!’
 </details>
 </details>
 
@@ -821,6 +923,12 @@ yoktram kR^itvaa* = on making Vasuki - King of Snakes as churning-rope;
 Deciding upon to churn the Milky Ocean then made Vasuki, Thousand-headed King of
 Snakes, as the churning rope and Mt. Mandara as stirrer, and those brothers whose
 energy is unlimited have started churning the Milky Ocean thoroughly. [1-45-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having resolved upon the churning, those beings of immeasurable energy made the serpent Vāsuki their churning-rope (yoktraṃ kṛtvā ca vāsukim) and Mount Mandara their churning-staff, and began to churn (manthānaṃ mandaraṃ kṛtvā mamanthur amitaujasaḥ).
 </details>
 </details>
 
@@ -872,6 +980,12 @@ the cliffs of Mt. Mandara. Thereby a great lot of venom is disgorged from the he
 of that serpent Vaasuki, which venom on melting the rocks of Mt. Mandara became
 the holocaustic poison called *haalaahala*. [1-45-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, after a thousand years (atha varṣasahasreṇa), the heads of the serpent serving as the churning-rope (yoktrasarpaśirāṃsi ca), vomiting forth exceeding venom, bit the rocks of the mountain with their fangs (vamanto ’tiviṣaṃ tatra dadaṃśur daśanaiḥ śilāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -912,6 +1026,12 @@ the holocaustic poison called *haalaahala*. [1-45-19]
 
 A lethal poison similar to inferno known as *haalaahala* has started to fulminate
 therefrom, by which whole universe of gods, non-gods and humans is burnt down. [1-45-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon leaped forth the great poison Hālāhala, blazing like fire (utpapātāgnisaṃkāśaṃ hālāhalamahāviṣam), by which the entire universe—together with its gods, asuras, and mortals—was scorched (tena dagdhaṃ jagat sarvaṃ sadevāsuramānuṣam).
 </details>
 </details>
 
@@ -955,6 +1075,12 @@ The gods seeking shelter then approached Rudra, the Cardinal God, Endower of Sol
 and who husbands all the created animals inclusive of human-animals, namely Shiva,
 and they prayed to him saying 'save, save us.' [1-45-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Seeking refuge, the gods then repaired to Mahādeva—Śaṅkara, Paśupati, Rudra (atha devā mahādevaṃ śaṅkaraṃ śaraṇārthinaḥ jagmuḥ paśupatiṃ rudram)—and praised him, crying: ‘Save us! Save us (trāhi trāhīti tuṣṭuvuḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -996,6 +1122,12 @@ there, only, revealed himself.
 This way while the gods are praying the Lord and God of Gods, namely Shiva, then
 handling his disc and conch-shell Vishnu has also revealed himself at that place.
 [1-45-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When he was thus implored by the gods, the Sovereign Lord of the gods of gods appeared (evam uktas tato devair devadeveśvaraḥ prabhuḥ); and right there at that very moment appeared Hari, bearing the conch and discus (prādur āsīt tato ’traiva śaṅkhacakradharo hariḥ).
 </details>
 </details>
 
@@ -1059,6 +1191,14 @@ to you, isn't it. By virtue of your position as the foremost god among gods, oh,
 omnicompetent god Shiva, you please accept this poison applying yourself to that
 position of foremost god, and deeming this poison, haalahala, as a foremost oblation
 to your godhood'. [1-45-23, 24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** “Smiling gently, Hari spoke thus to Rudra, the wielder of the trident (uvācainaṃ smitaṃ kṛtvā rudraṃ śūladharaṃ hariḥ): ‘Whilst the ocean is being churned by the divinities, that which has arisen first of all (daivatair mathyamāne tu yat pūrvaṃ samupasthitam)—
+
+**24:** “‘That belongs rightfully to you, O foremost of the gods, inasmuch as you stand at the head of the celestials (tat tvadīyaṃ suraśreṣṭha surāṇām agrato hi yat); remaining here, O Lord, accept this poison as the first-offering of worship (agrapūjām iha sthitvā gṛhāṇedaṃ viṣaṃ prabho)!’
 </details>
 </details>
 
@@ -1130,6 +1270,14 @@ The god of gods Hara then left for his abode Kailash parting with other gods, an
 oh, Rama, the joy of Raghu's dynasty, the gods and non-gods have continued to churn
 the Milky Ocean. [1-45-26b, 27a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** “Having spoken thus, the foremost of the gods vanished on that very spot (ity uktvā ca suraśreṣṭhas tatraivāntaradhīyata). Beholding the terror of the deities and hearing the words of the Wielder of the Śārṅga bow (devatānāṃ bhayaṃ dṛṣṭvā śrutvā vākyaṃ tu śārṅgiṇaḥ),
+
+**26:** “The Sovereign Lord of the gods, the blessed Hara, took up that dreadful Hālāhala poison as though it were nectar (hālāhalaṃ viṣaṃ ghoraṃ saṃjagrāhāmṛtopamam); and taking leave of the gods, he departed (devān visṛjya deveśo jagāma bhagavān haraḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1177,6 +1325,12 @@ Now the loftiest mountain that is being used as stirrer, namely Mt. Mandara, has
 caved into the netherworld, thereby the gods along with gandharva-s have prayed
 to Madhusuudana, the other name of Vishnu. [1-45-27b, 28a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon all the gods and asuras resumed their churning, O delighter of the Raghus (tato devāsurāḥ sarve mamanthū raghunandana); and then the foremost of mountains, serving as the churning-staff, sank down into Pātāla (praviveśātha pātālaṃ manthānaḥ parvatottamaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1219,6 +1373,12 @@ girim uddhartum arhasi*= apt of you to elevate mountain.
 'You alone are the recourse to all beings, especially to the dwellers in heavens,
 oh ambidextrous god Vishnu, you safeguard us, it will be apt of you elevate the
 mountain.' So prayed gods to Vishnu. [1-45-28b, 29a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then the gods together with the Gandharvas praised Madhusūdana (tato devāḥ sagandharvās tuṣṭuvur madhusūdanam): ‘You are the refuge of all beings, and especially of the dwellers in heaven (tvaṃ gatiḥ sarvabhūtānāṃ viśeṣeṇa divaukasām)!
 </details>
 </details>
 
@@ -1267,6 +1427,12 @@ the form of a tortoise and positioning the stirring Mt. Mandara on that tortoise
 he lay recumbent at the bottom of Milky Ocean as a base to the stirrer. [1-45-29b,
 30a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Protect us, O mighty-armed Lord; deign to lift up the mountain (pālayāsmān mahābāho girim uddhartum arhasi)!’ Hearing this prayer, Hṛṣīkeśa assumed the form of a mighty Tortoise (iti śrutvā hṛṣīkeśaḥ kāmaṭhaṃ rūpam āsthitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1308,6 +1474,12 @@ participated in churning.
 Keshava then reached out his hand and grasped the mountaintop as he is the Cosmic-Soul,
 and thus staying amid gods that Supreme Person Vishnu participated in churning the
 ocean by holding the stirring mountain upright. [1-45-30b, 31a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Placing the mountain upon His back, Hari lay there in the ocean (parvataṃ pṛṣṭhataḥ kṛtvā śiṣye tatrodadhau hariḥ); and the Soul of the universe, Keśava, pressing down the summit of the mountain with His hand (parvatāgraṃ tu lokātmā hastenākramya keśavaḥ)—
 </details>
 </details>
 
@@ -1361,6 +1533,14 @@ has firstly surfaced with his arm-rest-stick and with his handy water-vessel, an
 then the remarkably elegant Apsara-s, angelic damsels, have emerged next to him
 from the Milky Ocean. [1-45-31b, 32]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** “Standing in the midst of the gods, Puruṣottama Himself churned (devānāṃ madhyataḥ sthitvā mamantha puruṣottamaḥ). Then, after a thousand years, a Being embodying the science of Āyurveda (atha varṣasahasreṇa āyurvedamayaḥ pumān)—
+
+**32:** “Rose up, deeply righteous of soul, bearing a staff and water-jar (udatiṣṭhat sudharmātmā sadaṇḍaḥ sakamaṇḍaluḥ)—first Dhanvantari by name, and thereafter the Apsarases of radiant splendour (pūrvaṃ dhanvantarir nāma apsarāś ca suvarcasaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1405,6 +1585,12 @@ they became - their genera became.
 Choicest females have come out an elixir obtained on absolute churning of the waters
 of Milk Ocean, oh, best one among men, Rama, thereby that genera of females became
 Apsara-s. [1-45-33]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because those peerless women sprang forth from the essence produced by the churning within the waters (apsu nirmathanād eva rasāt tasmād varastriyaḥ utpetuḥ), O best of men, they came to be called Apsarases (tasmād apsaraso ’bhavan).
 </details>
 </details>
 
@@ -1451,6 +1637,12 @@ emerged]; *taasaam*= their; *yaaH paricaarikaaH*= who are the, maidservants
 Six hundred millions of such Apsara-s with amazing dazzle have emerged from the
 churning of Milky Ocean, oh, descendent of Kakutstha, and their maidservants who
 emerged along with them are innumerable. [1-45-34]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Sixty crores were born of those radiant Apsarases (ṣaṣṭiḥ koṭyo ’bhavaṃs tāsām apsarāṇāṃ suvarcasām); and countless, O Kākutstha, were the damsels who became their handmaidens (asaṃkhyeyās tu kākutstha yās tāsāṃ paricārikāḥ).
 </details>
 </details>
 
@@ -1507,6 +1699,12 @@ of the suffix *ra *and means 'one full of *ra *spiritual life i.e.,
 *asu *and 'by curious process of semantical change came to mean a demon.'
 Pt. Satya Vrat - Ramayana - A Linguistic Study.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither the gods nor the Dānavas accepted them in marriage (na tāḥ sma pratigṛhṇanti sarve te devadānavāḥ); and because of that non-acceptance, they are remembered as common to all (apratigrahaṇād eva tā vai sādhāraṇāḥ smṛtāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1548,6 +1746,12 @@ Oh, descendent of Raghu, then the heaven-sent damsel Vaaruni came up from Milky
 Ocean searching for her espousal, who is the daughter of Varuna, the Rain-god, and
 who incidentally is the presiding deity of hard liquors and also called as *sura*.
 [1-45-36]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, O delighter of the Raghus, Varuṇa’s daughter Vāruṇī, of great fortune (varuṇasya tataḥ kanyā vāruṇī raghunandana), rose up from the ocean, seeking acceptance in marriage (utpapāta mahābhāgā mārgamāṇā parigraham).
 </details>
 </details>
 
@@ -1594,6 +1798,12 @@ Oh, Rama, the sons of Diti, namely asuraa-s, have not espoused that daughter of
 Rain-god, but oh, brave Rama, the sons of Aditi on their part, namely sura-s, have
 espoused that impeccable Vaaruni. [1-45-37]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The sons of Diti, O Rāma, did not accept that daughter of Varuṇa (diteḥ putrā na tāṃ rāma jagṛhur varuṇātmajām); the sons of Aditi, however, O hero, accepted that blameless maiden (adites tu sutā vīra jagṛhus tām aninditām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1636,6 +1846,12 @@ Thereby the sons of Diti are called *asuraa*-s, and the sons of Aditi are
 called *suraa*-s, and gods are delighted and rejoiced on espousing Vaaruni.
 [1-45-38]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore the sons of Diti came to be called Asuras, and therefore the sons of Aditi became Suras (asurās tena daiteyāḥ surās tenāditeḥ sutāḥ); and by accepting Vāruṇī, the Suras became joyful and jubilant (hṛṣṭāḥ pramuditāś cāsan vāruṇīgrahaṇāt surāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1676,6 +1892,12 @@ gem of a jewel, also; *tathaiva*= like that; *uttamam amR^itam udatiSThan
 Then a best horse called Ucchaishravaa has emerged, oh, Rama, the best among men,
 and then a gem of a jewel, called Kaustubha, and like that *amrita*, the
 Supreme ambrosial elixir of gods, have also emerged. [1-45-39]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then arose Uccaiḥśravas, the foremost of steeds, and the jewel-treasure Kaustubha (uccaiḥśravā hayaśreṣṭho maṇiratnaṃ ca kaustubham), O best of men, and likewise the supreme Nectar of Immortality (udatiṣṭhan naraśreṣṭha tathaivāmṛtam uttamam).
 </details>
 </details>
 
@@ -1724,6 +1946,12 @@ Owing to the dispute regarding the possession of that ambrosia, oh, Rama, then
 there chanced a rampant ethnic havoc, and then the sons of Aditi have havocked the
 sons of Diti. [1-45-40]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, on account of that Nectar, O Rāma, there befell a mighty destruction of both races (atha tasya kṛte rāma mahān āsīt kulakṣayaḥ); and thereupon the sons of Aditi fought with the sons of Diti (adites tu tataḥ putrā ditiputrān ayodhayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1764,6 +1992,12 @@ perplexing; *mahaaghoram yuddham aasiit*= very gruesome, war, occurred.
 All the asura-s and demons have come to one side against sura-s, and there occurred
 a very gruesome war which was perplexing to all the triad of universe viz., ethereal,
 real and surreal spheres. [1-45-41]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then all the Asuras united into a single league with the Rākṣasas (ekatām agaman sarve asurā rākṣasaiḥ saha), and there ensued a dreadfully fierce battle, O hero, that bewildered the three worlds (yuddham āsīn mahāghoraṃ vīra trailokyamohanam).
 </details>
 </details>
 
@@ -1821,6 +2055,12 @@ as male person's feet. He further looked at those two feet and beholding them as
 the three spheres, Brihaspati's illusion is shattered and he venerated those feet,
 recognising this as Vishnu's Maya, illusory power.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When all was nearing utter destruction, then Viṣṇu of mighty strength (yadā kṣayaṃ gataṃ sarvaṃ tadā viṣṇur mahābalaḥ), resorting to His enchanting illusion (māyām āsthāya mohinīm), swiftly carried off the Nectar (amṛtaṃ so ’harat tūrṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1864,6 +2104,12 @@ Whoever confronted that Eternal and Supreme Person, namely Vishnu, in that war,
 then Vishnu whose blaze is threefold as manifest in the sun, fire and lightning,
 has pulverised him. [1-45-43]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Those who advanced in hostility against Viṣṇu, the imperishable Supreme Person (ye gatābhimukhaṃ viṣṇum akṣaraṃ puruṣottamam), were crushed to powder in battle at that time by the all-powerful Viṣṇu (saṃpiṣṭās te tadā yuddhe viṣṇunā prabhaviṣṇunā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1904,6 +2150,12 @@ brave ones, Aditi's, sons gods; *diteH putraan*= Diti's, sons - demons;
 In this horrendous war between the progeny of Diti, namely demons, and the progeny
 of Aditi, namely gods, the sons of Aditi being gods, have altogether massacred the
 demonic sons of Diti. [1-45-44]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In that terrible and mighty war between the sons of Diti and the sons of Aditi (asmin ghore mahāyuddhe daiteyādityayor bhṛśam), the heroic sons of Aditi slew the sons of Diti (aditer ātmajā vīrā diteḥ putrān nijaghnire).
 </details>
 </details>
 
@@ -1964,6 +2216,12 @@ city and its emergence. [1-45-45]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि नलवत्तैदनॆय सर्ग पूर्णवायितु.॥45॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having slain the sons of Diti and gained the sovereignty of heaven (nihatya ditiputrāṃs tu rājyaṃ prāpya puraṃdaraḥ), Purandara (Indra) joyfully ruled the worlds together with their hosts of sages and Cāraṇas (śaśāsa mudito lokān sarṣisaṃghān sacāraṇān).”
 </details>
 </details>
 

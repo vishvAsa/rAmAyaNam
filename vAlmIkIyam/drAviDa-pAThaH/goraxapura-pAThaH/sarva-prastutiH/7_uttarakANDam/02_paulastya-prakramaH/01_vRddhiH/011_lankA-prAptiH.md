@@ -36,6 +36,12 @@ title = "०११ लङ्का-प्राप्तिः"
 
 रावणादि निशाचररु ब्रह्मनिन्द वर पडॆदु कॊण्डिरुवुदन्नु तिळिद सुमालि ऎम्ब राक्षसनु अनुचररॊन्दिगॆ भयतॊरॆदु रसातळदिन्द हॊरटु भूमण्डलक्कॆ बन्दनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning that those night-roamers had obtained their boons (varalabdhāṃs tu jñātvā), Sumālī cast aside all fear (bhayaṃ tyaktvā) and rose up from Rasātala together with his retinue (sānugaḥ sa rasātalāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०११ लङ्का-प्राप्तिः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनॊडनॆ मारीच, प्रहस्त, विरूपाक्ष, महोदर ऎम्ब नाल्वरु मन्त्रिगळू रोषावेशदिन्द तुम्बिद्दु रसातळदिन्द मेलक्कॆ बन्दरु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mārīca, Prahasta, Virūpākṣa, and Mahodara—the ministers of that rākṣasa (sacivās tasya rakṣasaḥ)—also rose up in eager excitement (udatiṣṭhan susaṃrabdhāḥ).
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०११ लङ्का-प्राप्तिः"
 
 राक्षसश्रेष्ठरिन्द सुत्तुवरॆद सुमालियु दशग्रीवन बळिगॆ बन्दु अवनन्नु अप्पिकॊण्डु इन्तॆन्दनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by his ministers and foremost rākṣasa champions (vṛto rākṣasa-puṅgavaiḥ), Sumālī approached Daśagrīva (abhigamya daśagrīvam), embraced him (pariṣvajya), and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +129,12 @@ title = "०११ लङ्का-प्राप्तिः"
 
 वत्स! नीनु त्रिभुवनश्रेष्ठ ब्रह्मदेवरिन्द उत्तम वर पडॆदिरुवुदु सौभाग्यद मातागिदॆ. इदरिन्द चिरकालदिन्द इच्छिसिद मनोरथ प्राप्तवागिदॆ.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By good fortune, my child (diṣṭyā te vatsa), this cherished desire has been fulfilled (samprāptaś cintito ’yaṃ manorathaḥ), since you have obtained a supreme boon (labdhavān varam uttamam) from the foremost of the three worlds (tribhuvana-śreṣṭhāt)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,6 +159,12 @@ title = "०११ लङ्का-प्राप्तिः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबाहो! नावॆल्लरू विष्णुविन भयदिन्दागि रसातळक्कॆ होगिद्दॆवु. ईग आ नम्म भयवु दूरवायितु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That great terror wrought by Viṣṇu (mahad viṣṇu-kṛtaṃ bhayam), on account of which we abandoned Laṅkā and departed to Rasātala (laṅkāṃ tyaktvā yātā rasātalam), has now vanished from us, O mighty-armed one (tad gataṃ no mahābāho)!
 </details>
 </details>
 
@@ -164,6 +194,12 @@ _________________
 
 नावु हलवारु बारि अवनिन्द भग्नरादॆवु. इदरिन्दले अवन भयदिन्द नावु नम्म निवासस्थानवाद लङ्कॆयन्नु बिट्टु ऒट्टिगॆ रसातलवन्नु सेरिकॊण्डॆवु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“More than once, terrified by dread of him (asakṛt tad-bhayād bhītāḥ), we abandoned our own abode (parityajya svam ālayam), fled in rout (vidrutāḥ), and all together entered Rasātala (praviṣṭāḥ sma rasātalam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +224,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धीमन्तनाद निन्नण्ण धनाध्यक्षनु वासमाडुत्तिरुव लङ्कॆयु नम्मदे आगिदॆ. हिन्दॆ राक्षसरे अल्लि वास माडुत्तिद्दरु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This city of Laṅkā, which is ours and befitting the rākṣasas (asmadīyā ... nagarī rākṣasocitā), has been occupied (niveśitā) by your wise brother, the Lord of Wealth (dhanādhyakṣeṇa dhīmatā).
 </details>
 </details>
 
@@ -214,6 +256,12 @@ _________________
 
 महाबाहो! साम, दान अथवा बलप्रयोग दिन्दलादरू लङ्कॆयन्नु नीनु वशपडिसिकॊण्डरॆ नम्म कार्य साधिसिदन्तागुवुदु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O sinless, mighty-armed one (anagha ... mahābāho), if indeed it were possible to bring it back (śakyaṃ syāt ... pratyānetum) by conciliation, by gifts, or by sheer force (sāmnā dānena vā ... tarasā vā), our purpose would be achieved (kṛtaṃ bhavet).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +286,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अय्या! नीने लङ्केश्वरनागुवुदरल्लि संशयवे इल्ल. रसातलदल्लि मुळुगिहोगिद्द राक्षस वंशवन्नु नीनीग मेलॆत्तिदन्तागुवुदु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without a doubt, my son (tāta ... na saṃśayaḥ), you shall become the Lord of Laṅkā (laṅkeśvaraḥ); by you this rākṣasa lineage, though sunk in ruin, has been uplifted (nimagno ’pi samuddhṛtaḥ), and you shall become sovereign over us all (sarveṣāṃ naḥ prabhuś caiva), O mighty one!”
 </details>
 </details>
 
@@ -265,6 +319,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबलि वीरने! नीने नम्मॆल्लरिगॆ राजनागुवॆ. इदन्नु केळि दशग्रीवनु बळियल्लि निन्तिद्द मातामहनाद सुमालियल्लि हेळिदनु - अज्जा! कुबेरनु ननगॆ अण्णनागिद्दानॆ. अदरिन्द इन्तह मातन्नु नीवु हेळबारदु.॥10½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Daśagrīva spoke to his maternal grandfather standing before him (mātāmaham upasthitam): “The Lord of Wealth is our elder (vitteśo gurur asmākam); you ought not to speak in such a manner (nārhase vaktum īdṛśam).”
 </details>
 </details>
 
@@ -294,6 +354,12 @@ _________________
 
 श्रेष्ठनाद राक्षसेन्द्रनाद दशग्रीवनु शान्तभावदिन्द हेळिदुदन्नु केळि अवन मनोगतवाद अभिलाषॆयन्नु तिळिदु सुमालियु सुम्मनागि, मुन्दॆ एनन्नु मातनाडलिल्ल.॥11½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus gently rebuffed by that preeminent lord of rākṣasas (sāmnāpi rākṣasendreṇa pratyākhyāto garīyasā), the rākṣasa [Sumālī], discerning his inner inclination (jñātvā tasya cakīrṣitam), said nothing further at that moment (kiñcin nāha tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -321,6 +387,14 @@ _________________
 
 कॆलवु कालवु कळॆदनन्तर सुमालिगॆ सौम्यवाद उत्तरवन्ने कॊट्टिद्द श्लेष्मातक वनदल्लि वासिसुत्तिद्द दशग्रीव रावणनल्लि निशाचर प्रहस्तनु विनयपूर्वक मत्तु युक्तवाद ई मातन्नु हेळिदनु.॥12-13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** Then, after some time had passed (kasyacit tv atha kālasya), the night-roamer Prahasta approached the dwelling Rāvaṇa—who had spoken those words (uktavantaṃ tathā vākyam)—and addressed to Daśagrīva this respectful and reasoned speech (praśritaṃ vākyam ... sa-kāraṇam):
+
+**13:** “O mighty-armed Daśagrīva (daśagrīva mahābāho), you ought not to speak in such a fashion (nārhas tvaṃ vaktum īdṛśam): among heroes there is no brotherly sentiment (saubhrātraṃ nāsti śūrāṇām)—hear these words of mine!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -345,6 +419,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबाहु दशग्रीवने! नीनु अज्जनल्लि हेळिदन्तॆ आडबारदु. नन्न मातन्नु केळु. शूररादवरिगॆ भ्रातृभाववॆल्लियदु? शूररादवरिगॆ अण्ण-तम्मन्दिरॆम्ब भावनॆये इरुवुदिल्ल.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Aditi and Diti were indeed two united sisters (bhaginyau sahite hi te), wives of supreme beauty (bhārye parama-rūpiṇyau) unto the patriarch Kaśyapa (kaśyapasya prajāpateḥ).
 </details>
 </details>
 
@@ -371,6 +451,12 @@ _________________
 
 अदिति मत्तु दिति ऎम्ब अक्क तङ्गियरु सदा जॊतॆयल्ले इरुत्तिद्दरु. परम सुन्दरियराद इवरु कश्यप प्रजापतिय भार्यॆयरागिद्दरु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Aditi gave birth to the gods, the lords of the three worlds (devāṃs tribhuvaneśvarān), whereas Diti brought forth sons (ajanayat putrān) who were likewise the self-begotten offspring of Kaśyapa (kaśyapasyātma-sambhavān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -395,6 +481,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदितियु मूरु लोकगळ ऒडॆयराद देवतॆगळिगॆ जन्म नीडिदळु. दितियु दैत्यरिगॆ जन्म नीडिदळु. देवतॆगळु मत्तु दैत्यरु कश्यपर औरस पुत्ररागिद्दारॆ.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O knower of dharma, O hero (dharmajña ... vīra), this city and this entire earth with its forests, oceans, and mountains (purīyaṃ savanārṇavā saparvatā mahī) belonged, it is told, to those Daityas, and they were mighty sovereigns (te ’bhavan prabhaviṣṇavaḥ).
 </details>
 </details>
 
@@ -421,6 +513,12 @@ _________________
 
 धर्मज्ञ वीरने! पर्वत, वन, समुद्रसहित इडी भूमण्डलवु मॊदलु दैत्यर अधीनदल्ले इत्तु. दैत्यरु आग अत्यन्त प्रभावशालिगळागिद्दरु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet slaying them in battle (nihatya tāṃs tu samare), the all-powerful Viṣṇu (viṣṇunā prabhaviṣṇunā) brought these imperishable three worlds under the sway of the gods (devānāṃ vaśam ānītaṃ trailokyam idam avyayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -445,6 +543,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ सर्वशक्तिवन्त विष्णुवु युद्धदल्लि दैत्यरन्नु संहरिसि, अक्षयवाद मूरुलोकगळ अधिपत्यवन्नु देवतॆगळिगॆ वशक्कॊप्पिसिदनु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You alone will not be enacting this reversal of brotherly ties (naitad eko bhavān eva kariṣyati viparyayam); it has been practiced by both gods and asuras (surāsurair ācaritam)—therefore carry out my counsel (tat kuruṣva vaco mama)!”
 </details>
 </details>
 
@@ -471,6 +575,12 @@ _________________
 
 इन्तह विपरीतवाद आचरणॆयल्लि नीनेनु मॊदलिगनल्ल. देवतॆगळू मत्तु असुररू हिन्दॆ इदे नीतियन्नु अनुसरिसिरुवरु. आदुदरिन्द नन्न मातिनन्तॆ नडॆ.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spoken to thus, Daśagrīva reflected for a moment (cintayitvā muhūrtaṃ vai) with a deeply delighted inner heart (prahṛṣṭenāntarātmanā) and replied, “So be it!” (bāḍham ity eva so ’bravīt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -495,6 +605,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रहस्तनु हीगॆ हेळिदाग दशग्रीवन मनस्सु प्रसन्नवायितु. अवनु ऎरडु गळिगॆ योचिसि हागॆये आगलि ऎन्दु हेळिदनु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Animated by that very joy (tenaiva harṣeṇa), the valorous Daśagrīva set forth on that very day (tasminn ahani vīryavān) to the forest (vanaṃ gataḥ) together with those night-roamers (saha taiḥ kṣaṇadācaraiḥ).
 </details>
 </details>
 
@@ -521,6 +637,12 @@ _________________
 
 अनन्तर अदे दिन हर्षदिन्द पराक्रमि दशग्रीवनु आ निशाचररॊडनॆ लङ्कॆय समीपद अरण्यक्कॆ प्रयाण माडिदनु.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stationed then upon Mount Trikūṭa (trikūṭasthaḥ sa tu tadā), that night-roamer Daśagrīva dispatched Prahasta, skilled in speech (prahastaṃ vākya-kovidam), on an embassy (preṣayāmāsa dautyena):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -545,6 +667,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग त्रिकूट पर्वतक्कॆ होगि दशग्रीवनु वाक्य कोविदनाद प्रहस्तनन्ने दूतनन्नागिसि कुबेरन बळिगॆ कळिसि कॊडुत्ता हेळिदनु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Prahasta, go swiftly (śīghraṃ gaccha) and speak in my name (vacasā mama) these conciliatory words (sāma-pūrvam idaṃ vacaḥ) to the Lord of Wealth, bull among the Nairṛtas (nairṛta-puṅgavam):
 </details>
 </details>
 
@@ -571,6 +699,12 @@ _________________
 
 प्रहस्तने! नीनु बेगनॆ होगि, नन्न मातिनन्तॆ धनाध्यक्ष कुबेरन बळि शान्तिपूर्वक हीगॆ हेळु.॥23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O King, this city of Laṅkā belongs to the high-souled rākṣasas (rākṣasānāṃ mahātmanām); it has been occupied by you (tvayā niveśitā), O gentle one—this is not fitting for you, O sinless lord (naitad yuktaṃ tavānagha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -595,6 +729,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! ई लङ्कापुरियु महात्मा राक्षसरद्दागिदॆ. अदरल्लि नीनु वासमाडुत्तिरुवॆ. सौम्यने! निष्पाप यक्षराजने! इदु निनगॆ उचितवल्ल.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Therefore, O hero of unequaled prowess (atula-vikrama), if you would grant it to us today (yadi no hy adya dadyāt), my pleasure would be accomplished (kṛtā bhaven mama prītiḥ) and dharma as well would be upheld (dharmaś caivānupālitaḥ)!’”
 </details>
 </details>
 
@@ -621,6 +761,12 @@ _________________
 
 अतुल पराक्रमि धनेश्वरने! नीनु ई लङ्कॆयनु नमगॆ मरळिकॊट्टरॆ नमगॆ बहळ सन्तोषवागबहुदु. नीनु धर्मवन्नु पालिसिदॆ ऎन्दु तिळियलागुवुदु.॥25॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering the city of Laṅkā, securely guarded by Dhanada (dhanadena surakṣitām), he spoke these words to the supremely magnanimous Lord of Wealth (paramodāraṃ vittapālam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -645,6 +791,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग प्रहस्तनु कुबेरनु पालिसुत्तिद्द लङ्कापुरिगॆ होगि आ धनाध्यक्षनल्लि बहळ उदारतॆयिन्द हेळिदनु-॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O observer of noble vows (suvrata), O mighty-armed foremost among all wielders of weapons (sarva-śastrabhṛtāṃ vara), I have been dispatched to your presence (preṣito ’haṃ ... tvat-samīpam) by your brother Daśagrīva.
 </details>
 </details>
 
@@ -680,6 +832,14 @@ _________________
 
 सुव्रतने! शसधारिगळल्लि श्रेष्ठने! सर्वशास्त्र विशारदने! महाबाहु, महाप्राज्ञ धनेश्वरने! निम्म तम्मनाद दशग्रीवनु नन्नन्नु निम्म बळिगॆ कळिसिरुवनु. दशमुख रावणनु निम्मल्लि हेळबेकाद मातन्नु तिळिसुत्तिरुवॆनु. नन्न मातन्नु केळिरि.॥27-28॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**27:** “O deeply wise one, versed in all scriptures (mahāprājña sarva-śāstra-viśārada), O Lord of Wealth (vitteśa), pray hear from me the message (vacanaṃ mama) that Daśānana speaks (yad bravīti daśānanaḥ):
+
+**28:** “‘This delightful city (iyaṃ kila purī ramyā), O broad-eyed lord (viśālākṣa), was formerly enjoyed (bhukta-pūrvā ... purā) by rākṣasas of dreadful prowess headed by Sumālī (sumāli-pramukhaiḥ ... rākṣasair bhīma-vikramaiḥ).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -709,6 +869,14 @@ _________________
 
 विशाललोचन वैश्रवणने! ई रमणीय लङ्कॆयु मॊदलु भयानक पराक्रमि सुमालिये आदि राक्षसर अधिकारदल्लि इत्तु. अवरु बहळ काल इदन्नु अनुभविसिरुवरु. आद्दरिन्द ‘ई लङ्कॆयु यारदागित्तो अवरिगॆ मरळिकॊडु’ ऎन्दु दशग्रीवनु ईग सूचिसुत्तिरुवनु. अय्या! शान्तियिन्द बेडिद दशग्रीवनिगॆ नीनु ई पुरियन्नु कॊट्टु बिडु.॥29-30॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** “Therefore this plea is now respectfully submitted by him (tena vijñāpyate so ’yaṃ sāmpratam), O son of Viśravas (viśravātmaja): pray give up this city peacefully, dear lord (tad eṣā dīyatāṃ tāta ... sāmataḥ), unto him who asks for it (yācatas tasya)!”
+
+**30:** Having thoroughly heard those words from Prahasta (prahastād abhisaṃśrutya), the divine Vaiśravaṇa, skilled in speech (vākya-viśāradaḥ), spoke these words in reply to Prahasta:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -737,6 +905,12 @@ _________________
 
 प्रहस्तनु हेळिद मातन्नु केळि, मातिन मर्मवन्नु तिळिद वैश्रवणनु प्रहस्तनल्लि हीगॆ उत्तरिसिदनु.॥31॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This Laṅkā, then empty of night-roamers (śūnyā niśācaraiḥ), was bestowed upon me by my father (dattā mameyaṃ pitrā tu), and it was settled by me with Yakṣas (nivāsite ca me yakṣaiḥ) through gifts, honors, and like virtues (dāna-mānādibhir guṇaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -761,6 +935,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसने! ई लङ्कॆयु मॊदलु राक्षसरिन्द बरिदागित्तु. आग तन्दॆयवरु ननगॆ इदरल्लि इरलु आज्ञापिसिदनु. नानु इदरल्लि दान, मानादि गुणगळिन्द प्रजॆगळन्नु नॆलॆसिदॆ.॥32॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Go, tell Daśagrīva (brūhi gaccha daśagrīvam): ‘Whatever city and kingdom is mine (puraṃ rājyaṃ ca yan mama), O mighty-armed one, is yours as well (tavāpy etan mahābāho)—enjoy this kingdom free from foes (bhuṅkṣva rājyam akaṇṭakam)!’”
 </details>
 </details>
 
@@ -790,6 +970,12 @@ _________________
 
 दूतने! नीनु दशग्रीवन बळिगॆ होगि हेळु - महाबाहो! नन्न बळि इरुव ई पुरि मत्तु निष्कण्टक राज्यवॆल्लवू निन्नदू आगिदॆ. नीनू इदन्नु उपभोगिसु.॥33॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, the Lord of Wealth went into his father’s presence (jagāma pitur antikam); bowing before his revered parent (abhivādya gurum), he reported what Rāvaṇa desired (rāvaṇasya yad īpsitam): “Father, this Daśagrīva has dispatched an envoy to me (dūtaṃ preṣitavān mama)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -814,6 +1000,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ‘‘नन्न राज्य मत्तु ऎल्ल सम्पत्तु निन्निन्द पालागलिल्ल’’ ऎन्दु हेळि धनाध्यक्ष कुबेरनु तन्न तन्दॆ विश्रवस्सुविन बळिगॆ हॊरटु होदनु.॥34॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Let the city of Laṅkā, formerly inhabited by rākṣasa hosts (pūrvaṃ rakṣo-gaṇoṣitā), be given up!’ Pray instruct me, O observer of noble vows (tan mamācakṣva suvrata), as to what ought to be done by me in this matter (mayātra yad anuṣṭheyam).”
 </details>
 </details>
 
@@ -849,6 +1041,14 @@ _________________
 
 अल्लि तन्दॆगॆ वन्दिसि रावणन बयकॆयन्नु हीगॆ तिळिसिदनु - अप्पा! इन्दु दशग्रीवनु नन्न बळिगॆ दूतनन्नु कळिसि - ‘ई लङ्कॆयल्लि मॊदलु राक्षसरु इरुत्तिद्दरु, आद्दरिन्द इदन्नु राक्षसरिगॆ मरळि कॊडु, ऎन्दु हेळि कळिसिरुवनु. सुव्रतने! ईग ई विषयदल्लि नानेनु माडबेकॆम्बुदन्नु तिळिसु’ ऎन्दु हेळिदनु.॥35-36॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**35:** Addressed thus, that brahmarṣi Viśravas, foremost among sages (viśravā muni-puṅgavaḥ), spoke to Dhanada, who stood with joined palms (prāñjaliṃ dhanadaṃ prāha): “Listen, my son, to my words (śṛṇu putra vaco mama)!
+
+**36:** “The mighty-armed Daśagrīva spoke of this in my presence (uktavān mama sannidhau), and that deeply wicked-minded one (sudurmatiḥ) was severely rebuked and repeatedly admonished by me (mayā nirbhartsitaś cāsīd bahuśoktaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -873,6 +1073,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु हीगॆ हेळिदाग ब्रह्मर्षि मुनिवर विश्रवा कैमुगिदु निन्तिरुव कुबेरनल्लि हेळिदरु- मगु! नन्न मातन्नु केळु.॥37॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In anger he was told by me, and yet again and again he falls away from dharma (dhvaṃsate ca punaḥ punaḥ)! Hear now, my son, these words of mine that are conducive to your welfare and aligned with dharma (śreyo-’bhiyuktaṃ dharmyaṃ ca):
 </details>
 </details>
 
@@ -901,6 +1107,12 @@ _________________
 
 महाबाहु दशग्रीवनु नन्न बळियू इदन्नु हेळिद्दनु. इदक्कागि नानु आ दुर्बुद्धियन्नु तुम्बा गदरिसि, क्रोधगॊण्डु - ऎलै! हीगॆ माडुवुदरिन्द पतनवादीतु. इदर ल ऒळ्ळॆयदागदु ऎन्दु हेळिद्दॆ.॥38½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Deluded by the granting of boons (vara-pradāna-sammūḍhaḥ), that wicked-minded one (sa durmatiḥ) does not discern who is worthy of reverence and who is not (mānyā-’mānyān ... na vetti), and through my curse (mama śāpāc ca) he has taken on a fierce nature (prakṛtiṃ dāruṇāṃ gataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -928,6 +1140,14 @@ _________________
 
 मगने ! ईग नीनु नन्न धर्मानुकूल मत्तु श्रेयस्कर मातन्नु गमनविट्टु केळु. रावणन बुद्धि नॆट्टगिल्ल. अवनु वर पडॆदु उन्मत्तनागिद्दानॆ. विवेक कळॆदुकॊण्डिरुवनु. नन्न शापदिन्दागिये अवन प्रकृति क्रूरवागिदॆ.॥39-40॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**39:** “Therefore, O mighty-armed one, abandon Laṅkā (tyaktvā laṅkām), repair with your followers (sahānugaḥ) to Mount Kailāsa, supporter of the earth (kailāsaṃ dharaṇīdharam), and establish there a city for your dwelling (niveśaya nivāsārtham).
+
+**40:** “There flows the enchanting Mandākinī, foremost among rivers (nadīnām uttamā nadī), its waters overspread with golden lotuses radiant as the sun (kāñcanaiḥ sūrya-saṅkāśaiḥ paṅkajaiḥ saṃvṛtodakā), as well as white night-lotuses, blue water-lilies, and other fragrant blossoms (kumudair utpalaiś caiva tathānyaiś ca sugandhibhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -952,6 +1172,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदक्कागि महाबाहो ! ईग नीनु अनुचररॊन्दिगॆ लङ्कॆयन्नु बिट्टु कैलासक्कॆ हॊरटुहोगु. अल्लि इरलु इन्नॊन्दु नगरवन्नु नॆलॆगॊळिसु.॥41॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There the gods, together with Gandharvas, Apsarasas, Uragas, and Kiṃnaras (sa-gandharvāḥ sāpsaroraga-kiṃnarāḥ), ever given to delight (vihāra-śīlāḥ), continually take refuge and sport in joy (satataṃ ramante sarvadāśritāḥ).
 </details>
 </details>
 
@@ -979,6 +1205,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि रमणीय श्रेष्ठ मन्दाकिनी नदि हरियुत्तिदॆ. अदर नीरु सूर्यनन्तॆ प्रकाशिसुव सुवर्णमय कमल, उत्पल हागू इतर बेरॆ सुगन्धित हूवुगळिन्द आच्छादितवागिदॆ.॥42½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For enmity with this rākṣasa is by no means advisable for you, O Dhanada (na hi kṣamaṃ tavānena vairaṃ dhanada rakṣasā), since you well know how a supreme boon has been obtained by him (jānīṣe hi yathānena labdhaḥ paramako varaḥ).”
 </details>
 </details>
 
@@ -1009,6 +1241,16 @@ _________________
 
 आ पर्वतद मेलॆ सदा तिरुगाडुवुदु प्रियराद देवता, गन्धर्व, अप्सरा, नाग, किन्नर मुन्ताद दिव्य प्राणिगळु यावागलू अल्लि आनन्दवन्नु अनुभवि सुवरु. धनाधिपने! ई राक्षसनॊन्दिगॆ वैरविरि सुवुदु उचितवल्ल. इवनु ब्रह्मनिन्द ऎन्तह उत्तम वर पडॆदिरुवनॆन्दु निनगॆ तिळिदे इदॆ.॥43-45॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**43:** Addressed thus, out of reverence for his father (pitṛ-gauravāt), he swiftly accepted those words (gṛhītvāśu tad vacaḥ) and departed together with his wives, sons, ministers, conveyances, and treasure (sa-dāra-putraḥ sāmātyaḥ sa-vāhana-dhano gataḥ).
+
+**44:** Thereupon Prahasta, delighted at heart (prahṛṣṭātmā), went to the mighty Daśagrīva, who stood surrounded by his ministers and younger brothers (sahāmātyaṃ sahānujam), and spoke these words:
+
+**45:** “That city of Laṅkā stands empty (śūnyā sā nagarī laṅkā); Dhanada has abandoned it and departed (tyaktvaināṃ dhanado gataḥ)! Enter it now together with us (praviśya tāṃ sahāsmābhiḥ) and uphold your rightful duty (svadharmaṃ pratipālaya)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1033,6 +1275,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मुनियु हीगॆ हेळिदाग कुबेरनु तन्दॆगॆ गौरव कॊट्टु अवर मातन्नु ऒप्पिकॊण्डनु. पत्नी, पुत्र, मन्त्री, वाहन, धनदॊन्दिगॆ लङ्कॆयिन्द कैलासक्कॆ हॊरटुहोदनु.॥46॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Prahasta, the mighty Daśagrīva (daśagrīvaḥ ... mahābalaḥ) entered the city of Laṅkā (viveśa nagarīṃ laṅkām) together with his brothers, his armies, and his followers (bhrātṛbhiḥ sa-balānugaiḥ).
 </details>
 </details>
 
@@ -1062,6 +1310,12 @@ _________________
 
 अनन्तर प्रहस्तनु सन्तोषगॊण्डु मन्त्रि मत्तु सहोदर रॊन्दिगॆ कुळितिरुव दशग्रीवन बळिगॆ होगि हेळिदनु.॥47॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as the lord of the gods ascends heaven (svargaṃ devādhipo yathā), that foe of the gods (sa devāriḥ) ascended Laṅkā—vacated by Dhanada (dhanadena parityaktām) and graced with well-divided boulevards (suvibhakta-mahāpathām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1089,6 +1343,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 लङ्कॆयु बरिदागिदॆ, कुबेरनु अदन्नु बिट्टु होगिरुवनु. ईग नीवु नम्मॊन्दिगॆ अदन्नु प्रवेशिसि तावु धर्मद पालनॆ माडिरि.॥48॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consecrated king then by the night-roamers (abhiṣiktaḥ kṣaṇadācarais tadā), Daśānana populated the city (niveśayāmāsa purīm); and that citadel became filled to the brim (nikāma-pūrṇā ca babhūva) with night-roamers dark as blue rain-clouds (niśācarair nīla-balāhakopamaiḥ).
 </details>
 </details>
 
@@ -1118,6 +1378,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रहस्तनु हीगॆ हेळिदाग महाबलि दशग्रीवनु तन्न सैन्य, अनुचर हागू सहोदररॊन्दिगॆ कुबेरनु त्यजिसिद लङ्कॆयन्नु प्रवेशिसिदनु. आ नगरदल्लि विभागपूर्वक सुन्दर दॊड्ड-दॊड्ड राजबीदिगळिद्दवु. स्वर्गद सिंहासनदल्लि देवेन्द्रनु कुळितिरुवन्तॆये देवद्रोहि रावणनु लङ्कॆयन्नु प्रवेशिसिदनु.॥49-50॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Meanwhile, out of reverence for his father’s word (pitṛ-vākya-gauravāt), the Lord of Wealth founded upon the moon-bright mountain (nyaveśayac chaśi-vimale girau) a city adorned with richly embellished palaces (svalaṅkṛtair bhavana-varair vibhūṣitām), like Amarāvatī of Purandara in that hour (purandarasyevāmarāvatīm).
 </details>
 </details>
 

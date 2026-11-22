@@ -67,6 +67,12 @@ his father; *jagaama* = obtained; *mahat* = a long; *antaram* = distance;
 Rama the tiger among men, revolving in his mind the command of his father, covered a
 long distance during the rest of the night.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+During that very remainder of the night (rātri-śeṣeṇa tenaiva), Rāma too, that tiger among men, mindful of his father’s command (pitur ājñām anusmaran), traversed a great distance (mahad antaram jagāma).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +122,12 @@ the blissful; *sandhyaam* = (morning) twilight; *vyagaahata* = passed beyond;
 
 While Rama was traveling with the same alacrity, that delightful night passed away.
 Having worshipped the blissful morning twilight, he passed beyond the boundary of that country.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he journeyed on in that very manner (tathaiva gacchatas tasya), the auspicious night passed away (vyapāyād rajanī śivā); and having worshipped the auspicious morning twilight (upāsya sa śivāṃ sandhyām), he entered the border of the realm (viṣayāntaṃ vyagāhata).
 </details>
 </details>
 
@@ -168,6 +180,12 @@ blossoms and hearing as follows the words of men dwelling together in the midst 
 Rama proceeded apace in those excellent horses as though slowly (engrossed as he was in enjoying
 the sights).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding villages with well-ploughed borderlands (grāmān vikṛṣṭa-sīmāntān) and blossoming woodlands (puṣpitāni vanāni ca), he sped past swiftly (atiyayau śīghram) with his foremost steeds, though seeming to move gently (śanair iva hayottamaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -196,6 +214,12 @@ _________________
 
 दारियल्लि सिगुव सण्ण-दॊड्ड हळ्ळिगळल्लि वासिसुव जनरु आडुत्तिद्द मातुगळु श्रीरामन किविगॆ बीळुत्तिद्दवु. अवु हीगिद्दवु - अय्यो! कामक्कॆ वशनाद दशरथनिगॆ धिक्कारविरलि.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he went, he heard the words of men dwelling in the villages and hamlets (grāma-saṃvāsa-vāsinām): “Fie upon King Daśaratha (rājānaṃ dhig daśaratham), who has fallen under the sway of lust (kāmasya vaśam āgatam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -220,6 +244,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अय्यो शिवने! पापासक्त, पापिणि, क्रूरळाद, धर्मद मेरॆ मीरिद कैकेयिगॆयादरो दयॆये स्पर्शिसलिल्ल. क्रूरळाद अवळु ईग निष्ठुर कर्मदल्ले तॊडगिरुवळु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alas, today the cruel, sinful Kaikeyī (nṛśaṃsādya kaikeyī pāpā), bent on sin (pāpānubandhinī), fierce and having shattered all bounds of propriety (sambhinna-maryādā), is engaged in a ruthless deed (tīkṣṇa-karmaṇi vartate)—
 </details>
 </details>
 
@@ -270,6 +300,12 @@ the prince Rama, the pious man, the great intellectual, the compassionate man an
 the senses. That hot-tempered Kaikeyi is behaving in a rude manner, transgressing the bounds of
 propriety"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—she who banishes to the forest-dwelling (pravāsayati ... vana-vāse) such a righteous son of the king (putram īdṛśaṃ rājñaḥ dhārmikam), of great wisdom, tender-hearted, and master of his senses (jitendriyam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -309,6 +345,12 @@ was delighted; *sadaa* = always; *sukheshhu* = in(homely)comforts;
 
 "How Sita the venerable woman, the daughter of Janaka, who was delighted always in
 homely comforts can now experience hardships in the forest?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How indeed shall the highly fortunate Sītā, the delight of Janaka (janaka-nandinī), who has ever delighted in pleasures (sadā sukheṣv abhiratā), endure hardships (duḥkhāny anubhaviṣyati)?
 </details>
 </details>
 
@@ -357,6 +399,12 @@ faultless; *aho* = what a surprise!"
 "What a surprise! The king Dasaratha, having no love for his son, now wants to
 abandon Rama who is so beloved to the people and is even faultless."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alas, King Daśaratha is devoid of affection (niḥsnehaḥ), in that he wishes here to cast off his own dear, sinless son Rāma, the beloved of the people (prajānām anaghaṃ rāmam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +450,12 @@ villages and hamlets; *viirah* = the heroic; *kosaleshvaraH* = prince of Kosala;
 
 Hearing these words of people residing in villages and hamlets, Rama the heroic
 prince of Kosala crossed the boundaries of Kosala state.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing these words of the men dwelling in the villages and hamlets, the heroic lord of Kosala (kosaleśvaraḥ) passed beyond the Kosala realm (atiyayau vīraḥ kosalān).
 </details>
 </details>
 
@@ -449,6 +503,12 @@ quarter; *agastyaadhyushhitaam* = occupied by the Sage Agastya.
 Having crossed the river of auspicious waters called Vedashruti, Rama then stretched
 forth, facing the quarter occupied by Sage Agastya.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having crossed the river named Vedāśruti (veda-śrutiṃ nāma), which carries auspicious waters (śiva-vāri-vahāṃ nadīm), he journeyed on facing toward the quarter inhabited by Agastya (agastyādhyuṣitāṃ diśam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -495,6 +555,12 @@ sea.
 
 After traveling a pretty long time from there, Rama crossed the river Gomati having
 beautiful waters, whose banks were adorned with cows and which headed towards the sea.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And having travelled for a very long time (gatvā tu su-ciraṃ kālam), he then crossed the cool-watered river Gomatī (śīta-jalāṃ nadīṃ gomatīm), which flows to the ocean (sāgaraṅ-gamām) and whose marshy banks are filled with kine (go-yutānūpām).
 </details>
 </details>
 
@@ -545,6 +611,12 @@ Gomati river too; *hayaiH* = by horses; *shiighragaiH* = which are swift-moving;
 Reaching the other bank of Gomati river with the help of the swift moving horses,
 Rama crossed the river called Syandika which had resounded with howls of peacocks and swans.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And having passed beyond the Gomatī with his swift-going steeds (śīghra-gair hayaiḥ), Rāghava crossed the river Syandikā, resonant with peacocks and swans (mayūra-haṃsābhirutām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -592,6 +664,12 @@ Rama crossed the river called Syandika which had resounded with howls of peacock
 The said Rama showed to Sita the land (of Kosala, the southern boundary of which was
 defined by Syandika river)given long ago by the king Manu to Ikshvaku and which was bounded by many
 territories.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There Rāma pointed out unto Vaidehī (vaidehīm anvadarśayat) that prosperous land (mahīṃ ... sphītām), surrounded by populous districts (rāṣṭrāvṛtām), which had been given of old by King Manu unto Ikṣvāku (manunā rājñā dattām ikṣvākave purā).
 </details>
 </details>
 
@@ -641,6 +719,12 @@ The glorious Rama, the foremost among men, whose voice resembled the cackling of
 swan in rut, addressed the charioteer with great affection, in the words "Oh, charioteer!" and
 spoke as follows :
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressing that charioteer again and again simply as “O Charioteer!” (sūta ity eva cābhāṣya), the glorious bull among men, possessing the voice of an impassioned swan (haṃsa-matta-svaraḥ), spoke:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -688,6 +772,12 @@ blossoms?"
 "When, coming back and united with my mother and father, shall I roam hunting in the
 forest, bordering on Sarayu river and laden with blossoms?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When, having returned again (punar āgamya), reunited with my mother and father (mātrā pitrā ca saṅgataḥ), shall I roam for the chase in the flowering forest of the Sarayū (sarayvāḥ puṣpite vane mṛgayāṃ paryaṭiṣyāmi)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -712,6 +802,12 @@ forest, bordering on Sarayu river and laden with blossoms?"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु सरयुविन वनगळल्लि बेटॆयाडलु हॆच्चु बयसुवुदिल्ल. इदु जगत्तिनल्लि राजर्षि समुदायक्कॆ अभिमतवाद ऒन्दु प्रकारद अनुपम क्रीडॆयागिदॆ.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I do not desire the chase in the Sarayū forest to excess (nātyartham abhikāṅkṣāmi); for in the world this sport is matchless and approved by hosts of royal sages (ratir hy eṣātulā loke rājarṣi-gaṇa-sammatā).
 </details>
 </details>
 
@@ -762,6 +858,12 @@ times; *manujaiH* = by the sons of Manu; *abhikaaNkshhitaam* = and sought after 
 fact it is a delightful spot, made much of in the world by hosts of royal sages. Hunting in the
 forest is indeed for gratification of royal sages in this world. At times; the bow- men adopted it.
 But I do not long for it excessively."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For in this world the chase in the forest was instituted by royal sages for sport (rājarṣīṇāṃ hi loke 'smin raty-arthaṃ mṛgayā vane); practiced at the proper season by descendants of Manu (kāle kṛtāṃ tāṃ manujaiḥ), it is desired by bowmen (dhanvinām abhikāṅkṣitām).”
 </details>
 </details>
 
@@ -819,6 +921,12 @@ advanced thus along that route.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥49॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressing the charioteer with reference to one topic after another (taṃ tam artham abhipretya), that scion of Ikṣvāku (aikṣvākaḥ) journeyed along that road, uttering speech in a sweet voice (madhurayā girā ... vākyam udīrayan).
 </details>
 </details>
 

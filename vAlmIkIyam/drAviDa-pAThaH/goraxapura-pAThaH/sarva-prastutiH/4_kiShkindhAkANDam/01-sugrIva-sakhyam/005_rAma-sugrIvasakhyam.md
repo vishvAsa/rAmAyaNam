@@ -68,6 +68,12 @@ raaghavau tadaa* = then; *viirau* = about the valiant ones; *aachachakSe* = has 
 Hanuma on going from Mt. Rishyamuka to Mt. Malaya, has reported to the king of monkeys Sugreeva, about
 the two valiant Raghava-s. [4-5-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Going from Ṛṣyamūka to that Malaya mountain (malayaṃ girim), Hanūmān then announced to the king of apes (kapirājāya) the two heroic Rāghavas:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +116,12 @@ satya vikramaH* = virtuously valiant one.
 
 "Oh! great discerner Sugreeva, this is Rama... oh, stubbornly valiant Sugreeva, this virtuously valiant
 Rama arrived along with his brother Lakshmana... [4-5-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This Rāma of unyielding valor (dṛḍhavikramaḥ) has arrived, O supremely wise one (mahāprājña)—this Rāma of unfailing valor (satyavikramaḥ), together with his brother Lakṣmaṇa!
 </details>
 </details>
 
@@ -155,6 +167,12 @@ kaarakaH* = thus, father's, orders, adherent.
 
 "Rama is the son of king Dasharatha, one born in Ikshvaku dynasty, an adept one in virtue and thus an
 adherent of his father's orders... [4-5-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Born in the lineage of the Ikṣvākus (ikṣvākūṇāṃ kule), Rāma is the son of Daśaratha, renowned in righteousness (dharme nigaditaḥ) and the fulfiller of his father's command (pitur nirdeśakārakaḥ)—
 </details>
 </details>
 
@@ -214,6 +232,14 @@ in hundreds and thousands are donated in those rituals, by whom this earth is ru
 to his word, such Dasharatha's son is this Rama, who has to come to forests owing to a woman... [4-5-4,
 5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** “—[that father] by whom the sacrificial fire (vahniḥ) was gratified with Rājasūya and Aśvamedha sacrifices, and by whom kine (gāvaḥ) were given away as sacrificial fees (dakṣiṇāḥ) by hundreds of thousands,
+
+**5:** “and by whom the earth (vasudhā) was protected through austerity and truthful speech (tapasā satyavākyena); on account of a woman (strīhetoḥ), this son of his, Rāma, has come to the forest.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -258,6 +284,12 @@ to his word, such Dasharatha's son is this Rama, who has to come to forests owin
 
 "Ravana stole the wife of this principled one and great soul Rama when dwelling in forests, such as
 he is, he came seeking your refuge... [4-5-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While this high-souled prince of self-restraint (niyatasya) was dwelling in the forest, his wife was abducted by Rāvaṇa (rāvaṇena hṛtā bhāryā), and he has come to you for refuge (śaraṇam āgataḥ).
 </details>
 </details>
 
@@ -311,6 +343,12 @@ Here Hanuma's role as teacher is depicted. God comes to the rescue of the needy,
 a competent teacher. Only the teacher can visualize the god and his intent, and thus narrate it to the
 taught. That is what Hanuma's advise to Sugreeva.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Those two brothers, Rāma and Lakṣmaṇa, desire friendship with you (bhavatā sakhyakāmau); welcoming them (pragṛhya), honor (arcayasva) these two who are most worthy of worship (pūjanīyatamāv ubhau)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -363,6 +401,12 @@ syndrome, on seeing Rama and Lakshmana. None can calm these vanara heroes down, 
 interests. On listening from Hanuma that the entrants are friends, Sugreeva got his cool back, and thus
 became 'presentable,' befitting to his honourable kingship.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Hanūmān, Sugrīva, lord of Vānaras, becoming most handsome in form (darśanīyatamo bhūtvā), spoke with affection (prītyā) unto Rāghava:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -412,6 +456,12 @@ me* = to me; *bhavat guNaaH* = your, attributes.
 "You are a trained one in treading righteous path, best by your scruples, and a kindlier one to all,
 so said Air-god's son Hanuma to me about your attributes, in subtlety... [4-5-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You are trained in righteousness (dharmavinītaḥ), rich in austerity (sutapāḥ), and affectionate toward all (sarvavatsalaḥ); your virtues (bhavadguṇāḥ) have been truly recounted to me by the son of the Wind-god.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -458,6 +508,12 @@ laabhaH ca* = an honour, best, achievement, also.
 "Therefor oh, lord, you wish to make friendship with a monkey like me, thereby this is an honour and
 a best achievement to me alone... [4-5-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore this is an honor (satkāraḥ) for me indeed, and the highest gain (lābhaś caivottamaḥ), O lord, in that you desire friendship (sauhārdam) with me, a Vānara!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -502,6 +558,12 @@ a best achievement to me alone... [4-5-10]
 
 "If you aspire my friendship here I extend my arm, take this hand of mine into yours, thus let the convention
 be stably made fast..." Thus Sugreeva proffered friendship to Rama. [4-5-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If friendship with me pleases you (rocate yadi me sakhyam), here is my arm extended (bāhur eṣa prasāritaḥ); let my hand be grasped with your hand (gṛhyatāṃ pāṇinā pāṇiḥ), and let a firm covenant (maryādā dhruvā) be bound!”
 </details>
 </details>
 
@@ -554,6 +616,12 @@ Rama is gladdened at heart on listening all those words well said by Sugreeva, a
 hand in his, and ardently abiding by the vow of friendship he embraced Sugreeva, grippingly and happily.
 [4-5-12, 13a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those well-spoken words of Sugrīva, [Rāma], his mind filled with joy (samprahṛṣṭamanāḥ), clasped his hand with his own hand (hastaṃ pīḍayāmāsa pāṇinā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -578,6 +646,12 @@ hand in his, and ardently abiding by the vow of friendship he embraced Sugreeva,
 <details><summary>अनुवाद (कन्नड)</summary>
 
 (सुग्रीवन बळिगॆ होगुव मॊदलु हनुमन्तनु पुनः भिक्षुरूपवन्नु धरिसिद्दनु.) श्रीराम मत्तु सुग्रीवन मैत्रिय समय शत्रुसूदन हनुमन्तनु भिक्षुरूपवन्नु त्यजिसि, तन्न सहजरूपवन्नु धरिसि, ऎरडु कट्टिगॆगळन्नु तिक्कि बॆङ्कियन्नु उण्टुमाडिदनु.॥13½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joyful (hṛṣṭaḥ) and embracing heartfelt friendship (sauhṛdam ālambya), he clasped him tightly to his bosom (paryaṣvajata pīḍitam); thereupon Hanūmān, tamer of foes, casting aside his mendicant's guise (saṃtyajya bhikṣurūpam)—
 </details>
 </details>
 
@@ -631,6 +705,12 @@ ascetic form to his original monkey shape. This form changing at their will and 
 *kaamaruupa vidya*, changing guise at will, which will be useful to Hanuma in the coming
 episodes of Ramayana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—kindled fire (janayāmāsa pāvakam) from two fire-sticks (kāṣṭhayoḥ) in his own monkey form (svena rūpeṇa); then worshiping that blazing fire with flowers (puṣpair abhyarcya), duly honored (satkṛtam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -678,6 +758,12 @@ at fire, circumambulations, they made; Sugreeva; Raaghava; *ca* = also; *eva* = 
 
 Then those two performed circumambulations to that well glowing ritual fire, and thus, Rama and Sugreeva
 entered into the pact of friendship. [4-5-15, 16a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+he placed it (nidadhau) between those two (tayor madhye), well-pleased and with composed mind (susamāhitaḥ); then those two circumambulated (cakratuś ca pradakṣiṇam) the blazing fire.
 </details>
 </details>
 
@@ -728,6 +814,12 @@ viikshantau* = gazing at; *na* = not; *tR^iptim* = satisfaction; *upajagmatuH*
 And then gladdened at heart are those two, that monkey and Raghava, gazed enough at each other eye-to-eye,
 but their hearts did not derive any fraternal satisfaction. [4-5-16b, 17a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva and Rāghava thus entered into formal comradeship (vayasyatvam upāgatau); then with delighted minds (suprītamanasau), both the monkey lord and Rāghava (harirāghavau)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -776,6 +868,12 @@ vaakyam uvaacha* = thus, Sugreeva, rejoicingly, to Raghava, sentence, said.
 
 Sugreeva rejoicingly said to Raghava, "you are the amiable friend of mine, henceforth our mirth or miseries
 are same for us..." [4-5-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—gazing upon one another (anyonyam abhivīkṣantau), could not reach satiety (na tṛptim abhijagmatuḥ). “You are my dear friend (vayasyo 'si hṛdyo me); our sorrow and joy are one (ekaṃ duḥkhaṃ sukhaṃ ca nau)!”—
 </details>
 </details>
 
@@ -827,6 +925,12 @@ it.
 And then Sugreeva snapped off and spread a fully flowered tree-branch of sala tree with many leaves,
 and sat on it along with Rama. [4-5-18b, 19a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—thus Sugrīva spoke these words joyfully (prahṛṣṭavat) unto Rāghava; then, breaking off (bhaṅktvā) a richly blossoming branch (śākhāṃ supuṣpitām) thick with fair leaves (suparṇabahulām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -875,6 +979,12 @@ Hanuma; *chandana vR^ikshasya* = of sandalwood, tree; *parama puSpitaam* = well,
 Then Hanuma the son of Air, gladly gave a well-flowered branch of sandalwood tree to Lakshmana... [4-5-19b,
 20a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—of a śāla tree and spreading it out (āstīrya), Sugrīva sat down together with Rāghava (niṣasāda sarāghavaḥ); then joyful Hanūmān, son of the Wind-god, unto Lakṣmaṇa—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -920,6 +1030,12 @@ lochanaH* = eyes; *shlakshnam* = softly; *tadaa* = that way; *prati uvaacha*
 
 Then that delighted Sugreeva with his sweet words, and with his eyes quavering in happiness, replied
 Rama softly. [4-5-20b, 21a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—gave a branch of a sandalwood tree (śākhāṃ candanavṛkṣasya) in full blossom (paramapuṣpitām). Thereupon delighted Sugrīva, gently and in a sweet voice (madhurayā girā),
 </details>
 </details>
 
@@ -969,6 +1085,12 @@ I am moving; *trastaH* = dread; *durgam* = impenetrable; *etat* = this forest;
 
 "Rama, I am ridiculed, stolen is my wife, I move here about in these forests with dread and fear haunting
 me... I took refuge in this impenetrable forest... [4-5-21b, 22a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+spoke in reply unto Rāma, his eyes brimming with joy (harṣavyākulalocanaḥ): “Wronged (vinikṛtaḥ), O Rāma, I wander here tormented by fear (bhayārditaḥ)!
 </details>
 </details>
 
@@ -1020,6 +1142,12 @@ trastaH* = fearing; *udbhraanta chetanaH* = with dismayed, vitality; *vane* = in
 "Oh, Raghava, my brother denounced me, he even made me an enemy of his, such as I am I am living in
 these forests with scare and fear, and with dismayed vitality... [4-5-22b, 23a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Robbed of my wife (hṛtabhāryaḥ) and terrified in the forest, I have resorted to this mountain fastness (durgam etad upāśritaḥ); thus terrified and fearful in the woods, I dwell with bewildered mind (udbhrāntacetanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1067,6 +1195,12 @@ will not, be there; *[tathaa* = that way]; *kartum arhasi* = to do so, apt of yo
 as to how there will be fearlessness to me from him, it will be apt of you to accomplish that, that
 way... [4-5-23b, 24a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Wronged by my brother Vālin (vālinā nikṛto bhrātrā) and locked in hostility with him (kṛtavairaś ca), O Rāghava, O illustrious one, grant fearlessness (abhayaṃ kuru) unto me who am afflicted with fear of Vālin (vālino me bhayārtasya)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1113,6 +1247,12 @@ iva* = laughing off, as though.
 When thus said, that resplendent and righteous one being the patron of virtue Rama replied Sugreeva,
 as though laughing off. [4-5-24b, 25a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You ought to act in such a way, O Kākutstha, that fear may no longer exist for me (bhayaṃ me na bhaved yathā)!” Thus addressed, that glorious knower of righteousness and lover of righteousness (dharmajño dharmavatsalaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1158,6 +1298,12 @@ kill [eliminate.]
 
 "A friend is the resultant factor of helpfulness... that I know... oh, great monkey I intend eliminate
 that Vali, the abductor of your wife... [4-5-2b, 26a5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Kākutstha replied unto Sugrīva as if smiling gently (prahasann iva): “A friend is one whose fruit is helpful service (upakāraphalaṃ mitram)—this is well known to me, O great ape!
 </details>
 </details>
 
@@ -1221,6 +1367,14 @@ _________________
 to Indra's Thunderbolts, sharp are their point and straight is their egress, similar to enraged snakes,
 and these arrows of mine will be speeded up to fall on that vicious Vali... [4-5-26b, 27, 28a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** “I shall slay (vadhiṣyāmi) that Vālin, the abductor of your wife (tava bhāryāpahāriṇam); these sharpened arrows (niśitāḥ śarāḥ) of mine, unerring (amoghāḥ) and gleaming like the sun (sūryasaṃkāśāḥ),
+
+**27:** “winged with heron-feathers (kaṅkapatrapraticchannāḥ) and resembling the thunderbolts of Mahendra (mahendrāśanisaṃnibhāḥ), shall fall with swift impetus (nipatiṣyanti vegitāḥ) upon that wicked-conduct Vālin (tasmin vālini durvṛtte)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1269,6 +1423,12 @@ kruuraiH sharaiH vinihitam* = by cruel, arrows, completely ruined; *bhuumau* = o
 ruined by these cruel arrows that are similar to venomous snakes..." Thus Rama inculcated confidence
 in Sugreeva. [4-5-28b, 29a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Sharp-pointed (tīkṣṇāgrāḥ), straight-jointed (ṛjuparvāṇaḥ), like wrathful serpents (saroṣā bhujagā iva)! Behold today (adya... paśya) that Vālin—by my sharp shafts resembling venomous snakes (āśīviṣopamaiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1314,6 +1474,12 @@ appeasing; *raaghavasya tat vachanam* = of Raghava, that saying; *shrutvaa* = on
 
 On hearing Raghava's words that are appeasing for his self, Sugreeva is very completely satisfied and
 said this fine sentence. [4-5-29b, c]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—struck down (śarair vinihatam) upon the earth like a shattered mountain (prakīrṇam iva parvatam)!” Hearing those words of Rāghava so salutary to himself (ātmano hitam), Sugrīva, supremely pleased (paramaprītaḥ), spoke these supreme words:
 </details>
 </details>
 
@@ -1369,6 +1535,12 @@ me; *tathaa tvam kuru* = like that, you, do; *vairiNam* = to my enemy; *mama agr
 "By your grace, oh, lion among men, let me regain my wife and kingdom too... oh, god of humans, as to
 how he does not suffer me again, thus you may please make happen... let not my elder brother turned
 as an enemy of mine suffer me again... [4-5-30]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By your grace (tava prasādena), O lion among men (nṛsiṃha), O hero, may I regain both my beloved and my kingdom (priyāṃ ca rājyaṃ ca samāpnuyām aham); deal so with my elder brother, my foe, O lord of men, that he may never again harm me (yathā na hiṃsyāt sa punar mamāgrajam)!”
 </details>
 </details>
 
@@ -1442,6 +1614,12 @@ is the seedling point for eradication of vice, namely Vali and Ravana, from face
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऐदनॆय सर्ग सम्पूर्णवायितु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the occasion of the loving alliance between Sugrīva and Rāma (sugrīvarāmapraṇayaprasaṅge), the left eyes (vāmāni netrāṇi) of Sītā, of the lord of apes [Vālin], and of the night-stalker [Rāvaṇa]—resembling respectively a blue lotus, gold, and fire (rājīvahemajvalanopamāni)—throbbed all at once (samaṃ sphuranti).
 </details>
 </details>
 

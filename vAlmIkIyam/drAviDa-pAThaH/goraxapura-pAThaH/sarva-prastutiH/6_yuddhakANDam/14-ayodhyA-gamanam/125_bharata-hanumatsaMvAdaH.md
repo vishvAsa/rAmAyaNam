@@ -76,6 +76,12 @@ kindly act.
 Looking at Ayodhya, Rama, a scion of Raghu dynasty, for his part, who wished to do a
 kindly act and who was quick in exhibiting prowess, contemplated thereupon to do a kindly act.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having caused that flower-decked Puṣpaka (puṣpakaṃ puṣpabhūṣitam) to stand ready (upasthitaṃ kṛtvā), Vibhīṣaṇa, standing not far off (avidūre sthitaḥ), spoke thus to Rāma:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,6 +121,12 @@ spoke; *hanuumantam* = to Hanuma; *plavaN^gamma* = the monkey.
 
 Having thus contemplated, the sagacious and the glorious Rama then cast his glimpse
 on the monkeys and spoke to Hanuma, the monkey (as follows):
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With joined palms (baddhāñjalipuṭaḥ) and humble bearing, that lord of the Rākṣasas, filled with eager solicitude (tvarayopetaḥ), said to Rāghava: “What shall I do (kiṃ karomīti)?”
 </details>
 </details>
 
@@ -162,6 +174,12 @@ on the monkeys and spoke to Hanuma, the monkey (as follows):
 "O the foremost of the monkeys! Going with all speed to Ayodhya, find out whether
 the people there, are safe in the royal palace.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After reflecting (vimṛśya), Rāghava of mighty splendour spoke to him this speech prompted by affection (snehapuraskṛtam), while Lakṣmaṇa was listening closely (lakṣmaṇasyopaśṛṇvataḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -204,6 +222,12 @@ Nishadas; a wild tribe; *gahanagocharam* = who lives in the forest.
 
 "Reaching then to Shrigaberapura, communicate in my name, about my welfare to Guha,
 the king of Nishadas, a wild tribe living in the forest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All these forest-dwellers (vanaukasaḥ) have accomplished deeds of strenuous effort (kṛtaprayatnakarmāṇaḥ); let them be richly honoured (sampūjyantām), O Vibhīṣaṇa, with gems and diverse treasures (ratnair arthaiś ca vividhaiḥ)!
 </details>
 </details>
 
@@ -253,6 +277,12 @@ my own self.
 "Guha will be pleased to hear about me, as being safe, healthy and free from
 trouble. He is my friend, as well as my own self."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Together with these [Vānaras]—who, rejoicing and casting aside the fear of death (prāṇabhayaṃ tyaktvā), never turned back in battle (saṃgrāmeṣv anivartibhiḥ)—has Laṅkā been conquered by you, O lord of the Rākṣasas!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,6 +322,12 @@ tell; *te* = you; *maargam* = the path; *ayodhyaayaaH* = to Ayodhya;
 
 Feeling pleased, Guha, the lord of Nishadas, the wild tribe, will tell the path to
 Ayodhya and the news about Bharata."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All these forest-dwellers have accomplished their task (kṛtakarmāṇaḥ); therefore, through gifts of wealth and jewels (dhanaratnapradānaiś ca), do you render their labour fruitful (karmaiṣāṃ saphalaṃ kuru)!
 </details>
 </details>
 
@@ -333,6 +369,12 @@ on object.
 
 "Bharata too is to be asked by you, the news about his welfare, in my name. Tell him
 of me as having returned, accomplished of our object, with my consort and Lakshmana."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Honoured thus and gladdened (nandyamānāḥ) in due measure by you who are grateful (kṛtajñena), these leaders of the monkey troops shall depart content (nirvṛtāḥ)!
 </details>
 </details>
 
@@ -442,6 +484,18 @@ grace of Shiva; the Supreme Deity.
 lord of creation, and by Varuna the lord of waters, my meeting with my (deceased) father, through
 the grace of Shiva the Supreme Deity."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** All recognize you (tvām abhigacchanti) to be munificent (tyāginam), a gatherer of allies (saṃgrahītāram), compassionate (sānukrośam), and master of your senses (jitendriyam); therefore do I remind you (tataḥ sambodhayāmi te)!
+
+**9:** A king who is devoid of all endearing virtues (hīnaṃ ratiguṇaiḥ sarvaiḥ) and who recklessly gets his men slain in battle (abhihantāram āhave)—him the army abandons in dismay (senā tyajati saṃvignā), O lord of men!”
+
+**10:** Addressed thus by Rāma, Vibhīṣaṇa honoured all those Vānaras without exception with a fitting distribution of gems and wealth (ratnārthasaṃvibhāgena).
+
+**11:** Then, beholding those leaders of the monkey troops duly honoured with gems and wealth, Rāma thereupon ascended (āruroha) that peerless celestial chariot,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -501,6 +555,14 @@ accomplished his purpose; *mahaabalaiH mitraiH saha* = along with his mighty fri
 "Tell him, that having conquered hosts of enemies and obtained an excellent fame, is
 purpose having been accomplished, Rama is coming near, with is mighty friends."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** taking upon his lap (aṅkenādāya) the high-minded and bashful (lajjamānām) Vaidehī, together with his valiant, bow-wielding brother Lakṣmaṇa.
+
+**13:** Seated in the celestial chariot (vimānasthaḥ), Kākutstha, honouring all the Vānaras, spoke to the mighty Sugrīva together with Vibhīṣaṇa (savibhīṣaṇam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -541,6 +603,12 @@ in relation to me.
 
 "It is also to be observed by you, about the facial expression which Bharata wears,
 after hearing all this and also all that he intends to do in relation to me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This task of a friend (mitrakāryam) has been accomplished by you, O bulls among the Vānaras! Permitted by me (anujñātā mayā), do you all return whithersoever you wish (yatheṣṭaṃ pratigacchata)!
 </details>
 </details>
 
@@ -589,6 +657,12 @@ really; *jJNeyaaH* = known.
 "All the occurrences there are to be known. All the gestures of Bharata are to be
 ascertained through the colour of his face, glances and the speech."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And whatever ought to be done by an affectionate, benevolent, and dharma-fearing comrade (vayasyena snigdhena ca hitena ca)—all that, O Sugrīva, has been performed by you who shrink from unrighteousness (adharmabhīruṇā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -634,6 +708,12 @@ father?
 enjoyments, teeming with elephants horses and chariots and which is in herited from one's
 father?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proceed swiftly to Kiṣkindhā (kiṣkindhāṃ prati yāhy āśu), surrounded by your own army! And do you, O Vibhīṣaṇa, dwell in your own kingdom in Laṅkā bestowed upon you by me; not even the celestials together with Indra (sendrā api divaukasaḥ) are able to assail you!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -678,6 +758,12 @@ Bharata; *prashaastu* = rule; *sarvaam vasudhaam* = the entire kingdom;
 "Having been associated with the kingdom for long, if the illustrious Bharata is
 longing for it himself, let Bharata rule the entire kingdom in one piece."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I shall now depart for Ayodhyā, the royal capital of my father (rājadhānīṃ pitur mama); I wish to receive your leave (abhyanujñātum icchāmi), and I bid farewell to you all (sarvān āmantrayāmi vaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -721,6 +807,12 @@ duuram na yaataa smaH* = before we do not go for a long distance towards Ayodhya
 "O Hanuma! Understanding his mind and perception, you ought to return quickly,
 before we are not gone for a long distance towards Ayodhya."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Rāma, all the monkey chiefs and the monkeys, as well as the Rākṣasa Vibhīṣaṇa, spoke with joined palms (ūcuḥ prāñjalayaḥ sarve):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -760,6 +852,12 @@ went; *ayodhyaam* = to Ayodhya.
 
 Assuming a human form, when thus commanded by Rama, Hanuma the son of wind-god,
 swiftly left for Ayodhya.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We wish to go to Ayodhyā—may Your Majesty take us all (sarvān nayatu no bhavān)! Filled with joy (mudyuktāḥ), we shall roam through its forests and pleasure-groves (vanāny upavanāni ca)!
 </details>
 </details>
 
@@ -806,6 +904,12 @@ snake; *maarutaatmajaH* = Hanuma the son of wind-god; *atha* = then;
 
 Hanuma, the son of wind-god then flew up with speed towards Ayodhya, as Garuda the
 eagle would fly with speed, while seeking to catch a large snake.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having beheld you wet with the waters of consecration (tvām abhiṣekārdram) and having saluted Kausalyā (kausalyām abhivādya ca), we shall before long (acirāt) return to our own homes, O best of kings!”
 </details>
 </details>
 
@@ -867,6 +971,14 @@ hanuumaan* = that valiant hanuma hR^iShTaH = joyfully; *abraviit* = spoke; *idam
 Leaping into the auspicious sky, the dwelling place of birds, duly crossing over the
 terrific conjunction of Ganga and Yamuna rivers, reaching Shringaverapura and approaching Guha (the
 chief of Nishadas), that valiant Hanuma spoke the following words in a charming voice:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** Addressed thus by the Vānaras together with Vibhīṣaṇa, the righteous-souled Rāma spoke to the Vānaras accompanied by Sugrīva and Vibhīṣaṇa (sasugrīvavibhīṣaṇān):
+
+**22:** “Something dearer even than what is dear (priyāt priyataraṃ labdham) has been gained by me, in that I, surrounded by my circle of friends (sasuhṛjjanaḥ), shall attain the joy of entering the city accompanied by all of you (sarvair bhavadbhiḥ sahitaḥ)!
 </details>
 </details>
 
@@ -934,6 +1046,14 @@ lunar day (of the bright half of the month of Ashvayuja).
 the sage, after spending, at the instance of the sage, for a night of the fifth lunar day (of the
 bright half of the month of Ashvayuja)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** “Ascend the celestial chariot swiftly, O Sugrīva, together with the Vānaras (vimānaṃ saha vānaraiḥ)! And do you also ascend accompanied by your ministers (sāmātyaḥ), O Vibhīṣaṇa, lord of the Rākṣasas!”
+
+**24:** Thereupon, filled with joy (mudā yuktaḥ), Sugrīva together with the Vānaras ascended that divine Puṣpaka, as did Vibhīṣaṇa accompanied by his ministers (sāmātyaś ca vibhīṣaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -979,6 +1099,12 @@ splendor; *avichaarayan* = not thinking of his fatigue; *utpapaata* = sprang up;
 
 That swift-moving Hanuma, with his rejoicingly feather-like body and with a great
 splendor, not thinking of his fatigue, sprang up with a great speed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When all of them had ascended (teṣv ārūḍheṣu sarveṣu), that supreme seat of Kubera (kauberaṃ paramāsanam), granted leave by Rāghava (rāghaveṇābhyanujñātam), sprang up into the firmament (utpapāta vihāyasam)!
 </details>
 </details>
 
@@ -1030,6 +1156,12 @@ Ramatirtha; a place of a descent into the river (hallowed by the association of 
 Hanuma saw, on the way, Ramatirtha, a place of descent into the river (hallowed by
 the association of Lord Parashurama), as well as the rivers Valukini, Varuthini and Gomati as also
 the formidable forest of Sala trees, many thousands of people and numerous communities.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Borne by that effulgent celestial chariot coursing through the sky (khagatena vimānena) and yoked with swans (haṃsayuktena), Rāma, thrilled and delighted at heart (prahṛṣṭaś ca pratītaś ca), shone like Kubera himself (babhau rāmaḥ kuberavat).
 </details>
 </details>
 
@@ -1094,6 +1226,12 @@ Going quickly for a long distance, that foremost of the monkeys reached trees in
 flowering, near Nandigrama and looking like those comprised in the garden of Kubera (known by the
 name, Chitraratha) and frequented by women along with their sons and elders, charmingly adorned as
 they were.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And all those mighty Vānaras, bears, and Rākṣasas sat down at their ease (yathāsukham) and without crowding (asambādham) inside that divine chariot (divye tasminn upāviśan).
 </details>
 </details>
 

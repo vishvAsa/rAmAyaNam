@@ -36,6 +36,12 @@ title = "०९१ सिद्धता"
 
 इब्बरू सहोदररिगॆ ई कथॆ हेळि अमित तेजस्वी श्रीरामचन्द्रनु लक्ष्मणनल्लि पुनः हीगॆ धर्मयुक्त मातन्नु हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having related this to his two brothers (etad ākhyāya ... bhrātṛbhyām), Kākutstha of boundless splendor (kākutstho ... amitaprabhaḥ) again spoke to Lakṣmaṇa these words imbued with dharma (lakṣmaṇaṃ punar evāha dharma-yuktam idaṃ vacaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -70,6 +76,14 @@ _________________
 
 लक्ष्मण! अश्वमेध यज्ञ माडुव ब्राह्मणरल्लि अग्रगण्यराद सर्वश्रेष्ठ वसिष्ठ, वामदेव, जाबालि, काश्यप मॊदलाद ऎल्ल द्विजरन्नु करॆसि, नानु अवरिन्द सलहॆ पडॆदु पूर्ण ऎच्चरिकॆ यॊन्दिगॆ शुभलक्षणगळिन्द कूडिद कुदुरॆयन्नु बिडुवॆनु.॥2-3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “Vasiṣṭha and Vāmadeva, Jābāli and Kaśyapa (vasiṣṭhaṃ vāmadevaṃ ca jābālim atha kaśyapam), and all the foremost twice-born sages who stand at the head of the Aśvamedha (dvijāṃś ca sarva-pravarān aśvamedha-puraskṛtān)—
+
+**3:** “having brought all these together and taken counsel with them, O Lakṣmaṇa (etān sarvān samānīya mantrayitvā ca lakṣmaṇa), I shall release a horse endowed with all auspicious marks (hayaṃ lakṣaṇa-sampannam) with concentrated devotion (vimokṣyāmi samādhinā).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -94,6 +108,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनाथनु हेळिद मातन्नु केळि शीघ्रगामि लक्ष्मणनु समस्त ब्राह्मणरन्नु करॆसि श्रीरामनिगॆ भॆट्टि माडिसिदनु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words spoken by Rāghava (tad vākyaṃ rāghaveṇoktaṃ śrutvā), Lakṣmaṇa of swift stride (tvarita-vikramaḥ) summoned all the twice-born sages and ushered them before Rāghava (dvijān sarvān samāhūya darśayām āsa rāghavam).
 </details>
 </details>
 
@@ -120,6 +140,12 @@ _________________
 
 देवतुल्य तेजस्वी, अत्यन्त दुर्जय श्रीराघवेन्द्रनु तम्म चरणगळिगॆ वन्दिसुत्तिरुवुदन्नु नोडिद ब्राह्मणरु शुभाशीर्वादगळिन्द अवन सत्कार माडिदरु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the unassailable Rāghava (rāghavaṃ sudurādharṣam), resplendent as a god (deva-saṅkāśam), who had offered reverent salutation at their feet (kṛta-pādābhivandanam), they honored him with blessings (āśīrbhiḥ samapūjayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -144,6 +170,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग रघुकुलभूषण श्रीरामनु कैमुगिदु आ श्रेष्ठब्राह्मणरल्लि अश्वमेध यज्ञद विषयदल्लि धर्मयुक्त श्रेष्ठ मातुगळन्नाडिदनु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, joining his palms in reverence (prāñjaliḥ sa tadā bhūtvā), the greatly renowned Rāghava (rāghavo ... mahāyaśāḥ) declared to those foremost brahmins his intention regarding the Aśvamedha (ācacakṣe ’śvamedhasya hy abhiprāyam).
 </details>
 </details>
 
@@ -170,6 +202,12 @@ _________________
 
 आ ऎल्ल ब्राह्मणरू श्रीरामन मातन्नु केळि भगवान् शङ्करनिगॆ प्रणामगैदु ऎल्ल विधदिन्द अश्वमेध यज्ञवन्नु हॊगळिदरु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of Rāma (te tu rāmasya tac chrutvā), and offering obeisance to the Bull-Bannered Lord (namaskṛtvā vṛṣadhvajam), all those brahmins praised the Aśvamedha on every side (aśvamedhaṃ dvijāḥ sarve pūjayanti sma sarvaśaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +232,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अश्वमेध यज्ञद विषयदल्लि आ श्रेष्ठ ब्राह्मणर अद्भुत ज्ञानदिन्द कूडिद मातन्नु केळि श्रीरामचन्द्रनिगॆ बहळ सन्तोषवायितु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those marvelous words of the foremost brahmins concerning the Aśvamedha (vākyam adbhuta-darśanam aśvamedhāśritam), Rāma became exceedingly gladdened then (bhṛśaṃ prīto ’bhavat tadā).
 </details>
 </details>
 
@@ -224,6 +268,14 @@ _________________
 
 आ कर्मक्कागि आ ब्राह्मणर स्वीकृति तिळिदु श्रीरामनु लक्ष्मणनल्लि हेळिदनु- महाबाहो! नीनु महात्मा वानरराज सुग्रीवनिगॆ ई सन्देश कळिसु - कपिश्रेष्ठने! नीनु बहळष्टु विशालकाय वनवासी वानररॊन्दिगॆ यज्ञ महोत्सवद आनन्द पडॆयलु इल्लिगॆ बन्दुबिडु. निनगॆ मङ्गळवागलि.॥9-10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Understanding their favorable resolve (vijñāya karma tat teṣām), Rāma spoke to Lakṣmaṇa (rāmo lakṣmaṇam abravīt): “Dispatch messengers swiftly (preṣayasva drutaṃ dūtān) to the great-souled Sugrīva (sugrīvāya mahātmane):
+
+**10:** “‘Along with the mighty vānara chiefs and hosts of forest-dwellers (mahadbhir haribhir bahubhiś ca vanaukasām), come, may all be well with you (sārdham āgaccha bhadraṃ te), in order to partake in this great festival (hy anubhoktuṃ mahotsavam)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -249,6 +301,12 @@ _________________
 
 जॊतॆगॆ अतुल पराक्रमि विभीषणनू कामरूपिगळाद अनेक राक्षसरॊन्दिगॆ नम्म महा अश्वमेधयज्ञक्कॆ आगमिसबेकु ऎम्ब ई सूचनॆयन्नु कॊडु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And let Bibhīṣaṇa of matchless prowess (bibhīṣaṇaś ca ... atula-vikramaḥ), surrounded by many rākṣasas who travel at will (rakṣobhiḥ kāmagair bahubhir vṛtaḥ), come to this great Aśvamedha sacrifice (aśvamedhaṃ mahāyajñam āyātu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -273,6 +331,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदल्लदॆ नन्न प्रियवन्नु माडलु इच्छिसुव महाराजरू कूड यज्ञवन्नु नोडलु सैन्य सेवकरॊन्दिगॆ बरलि.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And let all illustrious kings who desire my welfare (rājānaś ca mahābhāgā ye me priya-cikīrṣavaḥ) come swiftly with their retinues (sānugāḥ kṣipram āyāntu) to behold this unsurpassed sacrifice (yajñaṃ draṣṭum anuttamam).
 </details>
 </details>
 
@@ -302,6 +366,12 @@ _________________
 
 लक्ष्मण! कार्यवश बेरॆ-बेरॆ देशगळिगॆ होगिरुव धर्मनिष्ठ ब्राह्मणरॆल्लरन्नु नम्म अश्वमेध यज्ञक्कागि आमन्त्रिसु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And whatever brahmins steadfast in dharma dwell in other lands (deśāntara-gatā ye ca dvijā dharma-samāhitāḥ)—invite all of them, O Lakṣmaṇa, for the Aśvamedha (āmantrayasva tān sarvān aśvamedhāya lakṣmaṇa)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -326,6 +396,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबाहो! तपोधन ऋषिगळन्नु, बेरॆ राज्यगळल्लि वासिसुव ऋषिगळन्नु पत्नियरॊन्दिगॆ करॆदुकॊण्डु बा.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let sages rich in austerity be summoned, O mighty-armed one (ṛṣayaś ca mahābāho āhūyantāṃ tapodhanāḥ), and all twice-born folk from other lands together with their wives (deśāntara-gatāḥ sarve sa-dārāś ca dvijātayaḥ), as well as musicians keeping rhythm and actors and dancers (tathaiva tālāvacarās tathaiva naṭa-nartakāḥ)!
 </details>
 </details>
 
@@ -354,6 +430,12 @@ _________________
 
 महाबाहो! ताळ बारिसुत्ता रङ्गभूमियल्लि सञ्चरिसुव सूत्रधाररन्नु, नट- नर्तकरन्नु करॆसु. नैमिषारण्यद गोमतीनदिय तीरदल्लि विशालवाद यज्ञमण्टपवन्नु रचिसुवन्तॆ आज्ञापिसु; एकॆन्दरॆ आ वनवु बहळ उत्तम मत्तु पवित्र स्थानवागिदॆ.॥15½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And let a vast sacrificial enclosure be ordered in the Naimiṣa forest upon the Gomatī (yajña-vāṭaś ca sumahān gomatyā naimiśe vane ājñāpyatām), O mighty-armed one, for that is supremely sacred (tad dhi puṇyam anuttamam); and let propitiatory peace rites be set in motion on every side (śāntayaś ca ... pravartyantāṃ samantataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -381,6 +463,14 @@ _________________
 
 महाबाहु रघुनन्दन! अल्लि यज्ञवु निर्विघ्नवागि नॆरवेरलु ऎल्लॆडॆ शान्ति विधान प्रारम्भ माडिसु. नैमिषारण्यदल्लि नूरारु धर्मज्ञ पुरुषरु परमोत्तम महायज्ञवन्नु नोडि कृतार्थरागलि.॥16-17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** “Having experienced this foremost, unsurpassed great sacrifice in Naimiṣa (kratu-mukhyam anuttamam anubhūya mahāyajñaṃ naimiśe), O delight of the Raghus, hundreds of knowers of dharma (śataśaś cāpi dharmajñāḥ)—
+
+**17:** “—every single one of them gratified, nourished, and honored according to ordinance (tuṣṭaḥ puṣṭaś ca sarvo ’sau mānitaś ca yathāvidhi)—shall attain supreme joy, O knower of dharma (prītiṃ yāsyati dharmajña); therefore let the people be swiftly invited (śīghram āmantryatāṃ janaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -405,6 +495,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धर्मज्ञ लक्ष्मण- शीघ्रवागि जनरन्नु आमन्त्रिसु मत्तु बरुववरॆल्लरू विधिवत्तागि तुष्ट, पुष्ट हागू सम्मानितरागि मरळि होगलि.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let a hundred thousand cartloads of plump, unbroken rice (śataṃ vāha-sahasrāṇāṃ taṇḍulānāṃ vapuṣmatām), and ten thousand of sesame and mung beans (ayutaṃ tila-mudgānām), go on ahead, O mighty one (prayātv agre mahābala)!
 </details>
 </details>
 
@@ -433,6 +529,12 @@ _________________
 
 महाबली सुमित्राकुमार! ऒन्दु लक्ष आनॆ, कुदुरॆ, ऎत्तुगळु अक्किय मूटॆगळन्नु हॊत्तुकॊण्डु होगलि, हत्तुसाविर पशुगळु, ऎळ्ळु, कडलॆ, हुरुळि, उद्दु मत्तु उप्पिन मूटॆगळन्नु ऎत्तिकॊण्डु होगलि.॥19½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And likewise of chickpeas, horse-gram, black gram, and salt (caṇakānāṃ kulitthānāṃ māṣāṇāṃ lavaṇasya ca), and in proportion to these, clarified butter and oils (ato ’nurūpaṃ snehaṃ ca), along with concentrated fragrant pastes (gandhaṃ saṅkṣiptam eva ca)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -460,6 +562,14 @@ _________________
 
 ई धान्यगळिगनुरूपवागि ऎण्णॆ, तुप्प, मॊसरु, चन्दन कट्टिगॆ, सुगन्धित पदार्थगळन्नु कळिसबेकु. भरतनु नूरु कोटिगिन्तलू हॆच्चाद स्वर्णमुद्रॆगळन्नु, बॆळ्ळिय नाण्यगळन्नु जॊतॆगॆ तॆगॆदुकॊण्डु एकाग्रचित्तनागि मॊदले प्रयाण माडलि.॥20-21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**20:** “Placing ahead many crores of gold and more than a hundred crores of silver (suvarṇa-koṭyo bahulā hiraṇyasya śatottarāḥ agrataḥ ... kṛtvā), let Bharata proceed in advance with vigilant focus (bharataḥ ... gacchatv agre samādhinā)!
+
+**21:** “Let roadside market-stalls along the route (antarā paṇya-vīthyaś ca), all actors and dancers (sarve ca naṭa-nartakāḥ), and numerous cooks and women ever blooming with youth (sūdā nāryaś ca bahavo nityaṃ yauvana-śālinaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -484,6 +594,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दारियल्लि आवश्यक वस्तुगळ क्रय- विक्रयक्कागि अल्लल्लि अङ्गडिगळु इरलि, आद्दरिन्द वैद्यरु मत्तु व्यवसायी जनरु प्रयाण माडलि. ऎल्ल नट-नर्तकरू होगलि. अनेक अडिगॆयवरु हागू सुन्दर युवतियरू प्रयाण माडलि.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—let them march ahead together with Bharata along with the troops (bharatena tu sārdhaṃ te yāntu sainyāni cāgrataḥ), as well as merchants, seasoned veterans, and deeply composed brahmins (naigamā bala-vṛddhāś ca dvijāś ca susamāhitāḥ)!
 </details>
 </details>
 
@@ -524,6 +640,16 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भरतन हिन्दॆ-हिन्दॆ सैन्यवू होगलि. महायशस्वी भरतनु शास्त्रगळन्नु तिळिद विद्वांसरन्नु, बालकरन्नु, वृद्धरन्नु, एकाग्रचित्तराद ब्राह्मणरन्नु, कॆलसगाररन्नु बडगिगळन्नू, कोशाध्यक्षरन्नु, वैदिकरन्नु, नम्म तायन्दिरन्नु, कुमाररन्नु, भरतने मॊदलादवर अन्तःपुरदल्लिरुव राणीवासदवरन्नु, नन्न पत्निय स्वर्णप्रतिमॆयन्नु हागू यज्ञकर्मद दीक्षॆयन्नु तिळिद ब्राह्मणरन्नु करॆदुकॊण्डु मुन्दॆ होगलि.॥23-25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** “Workmen, carpenters, treasury-overseers, and guild-merchants (karmāntikān vardhakinaḥ kośādhyakṣāṃś ca naigamān), and all my mothers as well as the inner households of the princes (mama mātṝs tathā sarvāḥ kumārāntaḥpurāṇi ca),
+
+**24:** “and my golden wife for the sacrificial consecration (kāñcanīṃ mama patnīṃ ca dīkṣāyām), along with those learned in the sacrificial rite (jñāṃś ca karmaṇi)—placing all these in front, let the greatly renowned Bharata go on ahead (agrato bharataḥ kṛtvā gacchatv agre mahāyaśāḥ)!”
+
+**25:** And that mighty-armed foremost of men also ordered sumptuous pavilions (upakāryā mahārhāś ca ... vyādideśa mahābalaḥ) for the kings of great splendor together with their retinues (pārthivānāṃ mahaujasāṃ sānugānām).
 </details>
 </details>
 

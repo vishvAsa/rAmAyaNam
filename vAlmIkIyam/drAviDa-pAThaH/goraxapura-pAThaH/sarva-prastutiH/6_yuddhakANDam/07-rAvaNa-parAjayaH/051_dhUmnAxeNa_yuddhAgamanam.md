@@ -74,6 +74,12 @@ roaring sound.
 That tumultuous sound, set up by the monkeys who were full of martial ardour,
 arrested the attention of Ravana and his demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāvaṇa, together with the rākṣasas, heard the tumultuous uproar (tumulaṃ śabdam) of those roaring monkeys of mighty energy (mahaujasām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +126,12 @@ ministers.
 
 Hearing that mighty clamour, sounding smooth and deep, Ravana spoke to his ministers
 who surrounded him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that loud clamor with its resonant and deep rumble (snigdha-gambhīra-nirghoṣam), he then spoke these words in the midst of those ministers (sacivānām) of his:
 </details>
 </details>
 
@@ -184,6 +196,14 @@ is agitated; *vipulaiH naadaiH* = by the loud noises.
 rejoiced monkeys. Undoubtedly their joy is great, their mighty roars are agitating the briny ocean
 itself.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** “Since this tremendous roar (sumahān nādaḥ) of the multitudinous, jubilant monkeys has arisen, like that of thundering clouds (meghānām iva garjatām)—
+
+**4:** “—clearly (suvyaktam) there is great joy among them; of this there is no doubt. For indeed, by their mighty roars the salt ocean (lavaṇārṇavaḥ) has been agitated (cukṣubhe).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -229,6 +249,12 @@ sharp arrows; *ayam naadaH* = this sound; *sumahaan* = of great magnitude;
 
 "Those two brothers Rama and Lakshmana were tied by sharp arrows. This sound of a
 great magnitude being heard by me, is begetting an apprehension in me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet those two brothers Rāma and Lakṣmaṇa were bound with sharp arrows; therefore this tremendous roar arouses misgiving (śaṅkāṃ janayatīva) in me.”
 </details>
 </details>
 
@@ -276,6 +302,12 @@ were moving nearby; *tatra* = there.
 Having spoken thus to his ministers, Ravana the Lord of Demons said to his demons
 who stood round him there (as follows)
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken these words to his ministers, the lord of rākṣasas (rākṣaseśvaraḥ) addressed the night-roaming guards (nairṛtān) standing in attendance nearby:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,6 +354,12 @@ time for grief; *samupanine* = has arisen.
 "You immediately discover from what cause this general rejoicing among all these
 monkeys coming for the their present grievous situation!'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let it be ascertained (jñāyatām) at once what cause of joy (harṣa-kāraṇam) has arisen for all these forest-dwellers when a time of grief (śokakāle) had befallen them!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,6 +384,12 @@ monkeys coming for the their present grievous situation!'
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रावणन ई आदेशदन्तॆ आ राक्षसनु गाबरिगॊण्डु प्राकारगळ मेलॆ हत्ति महात्मा सुग्रीवनिन्द रक्षितवाद वानरर सैन्यद कडॆगॆ नोडिदरु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, they climbed the rampart (prākāram adhiruhya) in great haste (susambhrāntāḥ) and beheld the army guarded by the high-souled Sugrīva;
 </details>
 </details>
 
@@ -392,6 +436,12 @@ Thus commanded by Ravana, they mounted the rampart very briskly and saw the army
 lead by the high-souled Sugreeva and also the highly fortunate Rama and Lakshmana who were relieved
 of the terrific shackle of arrow a and risen up together. All the demons felt desponded on seeing
 it.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And [beholding] those two illustrious Rāghavas released from the most dreadful arrow-bond (śarabandhena) and risen up (samutthitau), all the rākṣasas sank into despondency (viṣeduḥ).
 </details>
 </details>
 
@@ -440,6 +490,12 @@ it.
 With their hearts trembling with fear and faces turning pale, all those terrific
 demons descended from the rampart and approached Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Descending from the rampart with terrified hearts (saṃtrasta-hṛdayāḥ), all those dreadful rākṣasas, pale-faced (vivarṇāḥ), approached the lord of rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -485,6 +541,12 @@ vat* = faithfully; *raavaNasya* = to Ravana.
 
 With downcast faces, those demons skilled in speech, faithfully informed Ravana of
 those unpleasant tidings, saying:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With downcast faces (dīnamukhāḥ), those rākṣasas skilled in speech (vākya-kovidāḥ) dutifully reported the whole of that unwelcome news (tad apriyam) to Rāvaṇa:
 </details>
 </details>
 
@@ -542,6 +604,14 @@ elephants; *raNaajire* = in the battle = field.
 shafts and whose arms he had pinioned, are free from the arrows which paralyzed them and now appear
 on the field of battle, as two strong elephants who have snapped their fetters."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “Those two brothers Rāma and Lakṣmaṇa, who were bound in battle by Indrajit with an arrow-bond and rendered incapable of moving their arms (niṣprakampa-bhujau kṛtau)—
+
+**13:** “—those two, equal in valor to lordly elephants (gajendra-sama-vikramau), are seen on the battlefield freed from the arrow-bond, like two elephants that have snapped their fetters (pāśān iva gajau chittvā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -587,6 +657,12 @@ became; *vivarNavadanaH* = pale faced.
 
 Hearing their words, the might Ravana was filled with anxiety and fury. His face
 became pale (and he spoke as follows):
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of theirs, the mighty lord of rākṣasas was overcome with anxiety and grief (cintā-śoka-samākrāntaḥ), and his face turned pale (vivarṇa-vadano 'bhavat).
 </details>
 </details>
 
@@ -649,6 +725,14 @@ this; *balam* = army; *samshayastham* = in jeopardy.
 injuries in battle by his formidable arrows which were infallible those rare boons, resembling
 serpents, bright as the sun, I perceive my entire army in jeopardy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** “Crushed (pramathya) in battle by Indrajit, those two were bound with dreadful, unerring arrows bright as the sun, like venomous serpents (āśīviṣopamaiḥ), and endowed with divine boons (datta-varaiḥ)!
+
+**16:** “If my two enemies have been released after undergoing that missile-bond (tad astra-bandham āsādya), I behold this entire army of mine standing in mortal peril (saṃśayastham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -698,6 +782,12 @@ have indeed been rendered; *niSphalaaH* = void.
 "Those very arrows, bright as fire, which in battle have taken the life of my
 enemies, have now been rendered void indeed!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rendered fruitless (niṣphalāḥ) indeed are those arrows of fiery splendor (pāvaka-tejasaḥ), which had snatched away the very life (jīvitam) of my enemies in battle!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -745,6 +835,12 @@ the demons.
 Having spoken thus in furious tones, hissing like a snake, he addressed a demon
 called Dhumraksha who was seated amidst the demons and said.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, infuriated (saṃkruddhaḥ) and hissing like a serpent (niḥśvasann urago yathā), he addressed in the midst of the rākṣasas a rākṣasa named Dhūmrākṣa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -790,6 +886,12 @@ called Dhumraksha who was seated amidst the demons and said.
 
 "You, with a terrific prowess, go quickly with a considerable force of demons and
 slay Rama, Lakshmana and his monkeys."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O you of dreadful valor (bhīma-vikrama), joined with a mighty force of rākṣasas, march forth (niryāhi) quickly to slay Rāma together with the monkeys!”
 </details>
 </details>
 
@@ -837,6 +939,12 @@ slay Rama, Lakshmana and his monkeys."
 Thus commanded by Ravana, the intelligent Dhumraksha, going past from there, quickly
 departed front her royal palace.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the wise lord of rākṣasas, Dhūmrākṣa circumambulated (parikramya) him and swiftly went forth from the royal palace (nṛpālayāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -883,6 +991,12 @@ the foreces (as follows); *yuyutsataH* = Mobilise; *balam* = the army;
 
 Having crossed that gate, he spoke to the General of the Forces as follows:
 "Mobilize the army. Hasten quickly. What need is there for the delay?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stepping out through that palace gate (tad dvāram abhiniṣkramya), he spoke to the commander-in-chief of the forces (balādhyakṣam): “Hasten the army quickly! What use is delay (kiṃ cireṇa) for one eager to fight (yuyutsataḥ)?”
 </details>
 </details>
 
@@ -934,6 +1048,12 @@ Ravana.
 Hearing the words of Dhumraksha, the general of forces, having the army which
 followed him, kept the army ready quickly, as per Ravana's command.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Dhūmrākṣa’s words, the army commander, attended by the troops (balānugaḥ), urgently mobilized (udyojayāmāsa) the host by Rāvaṇa’s command.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -979,6 +1099,12 @@ followed him, kept the army ready quickly, as per Ravana's command.
 
 Those strong demons of terrific form, making sounds with bells hung on their bodies,
 joyously surrounded Dhumraksha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those mighty night-stalkers of dreadful form, wearing bells (baddha-ghaṇṭāḥ), roared aloud in high spirits and surrounded Dhūmrākṣa—
 </details>
 </details>
 
@@ -1040,6 +1166,14 @@ weapon; *shuula mudgarapaaNayaH* = brandishing spears; hammers; *gadaabhiH* = ma
 Furnished with every kind of weapon, brandishing spears, hammers, maces, harpoons,
 sticks, iron cudgels, bars, clubs, javelins, missiles, nooses and axes, those terrible demons
 sallied forth with the noise of thunder.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** —bearing manifold weapons in their hands, grasping pikes and mallets (śūla-mudgara-pāṇayaḥ), and armed with maces (gadābhiḥ), paṭṭiśa-spears, iron clubs (āyasair daṇḍaiḥ), and pestles (musalaiḥ) as well.
+
+**25:** —and with iron-studded bludgeons (parighaiḥ), bhindipāla-slings, broad-headed bhalla-shafts, nooses (pāśaiḥ), and battle-axes (paraśvadhaiḥ), the dreadful rākṣasas marched forth roaring like thunderclouds (jaladā yathā).
 </details>
 </details>
 
@@ -1104,6 +1238,14 @@ decorated with bands of pure gold, harnessed to mules of many heads or steeds of
 fleetness or elephants in furious rut, some other excellent demons went forth like veritable
 tigers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**26:** Others, clad in armor (kavacinaḥ), [sallied forth] in chariots adorned with banners (dhvajaiś ca samalaṃkṛtaiḥ), and with donkeys of manifold faces (kharaiś ca vividhānanaiḥ) decked in golden trappings (suvarṇa-jāla-vihitaiḥ)—
+
+**27:** —and with exceedingly swift horses (hayaiḥ parama-śīghraiḥ) and elephants in rut (madotkaṭaiḥ), those tigers among night-stalkers (nairṛta-vyāghrāḥ) went forth, unassailable as tigers (vyāghrā iva durāsadāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1149,6 +1291,12 @@ chariot; *kharaiH* = to which mules; *kanaka bhuuSitaiH* = adorned with gold;
 
 Dhumraksha, with a mule-like clatter, set out in a celestial chariot to which mules
 adorned with gold and heads of deer and lions were hitched.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dhūmrākṣa of harsh voice (khara-niḥsvanaḥ) ascended his celestial chariot yoked with gold-adorned donkeys (kharaiḥ kanaka-bhūṣitaiḥ) that had the faces of wolves and lions (vṛka-siṃha-mukhaiḥ).
 </details>
 </details>
 
@@ -1199,6 +1347,12 @@ Hanuman (was stationed).
 
 That Dhumraksha of mighty prowess, surrounded by demons, set forth amidst mocking
 laughter, through the western gate where the army-chief Hanuman was stationed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by rākṣasas, that Dhūmrākṣa of great valor marched forth laughing (hasan vai) through the western gate (paścima-dvārāt), where Hanūmān was stationed.
 </details>
 </details>
 
@@ -1256,6 +1410,12 @@ As he mounted and advanced in an excellent chariot harnessed to mules, whose voi
 he emulated, birds of ill-omen in the sky obstructed that advancing demon of very terrible and
 fearful appearance.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As that most dreadful rākṣasa of terrible aspect (bhīma-darśanam) advanced, mounted upon his foremost of chariots yoked with donkeys and harsh-sounding (khara-svanam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1297,6 +1457,14 @@ vulture; *nipapaata ha* = alighted; *ratha shiirSe* = on the top of his chariot;
 
 A highly terrible vulture alighted on the top of his chariot, while those devourers
 of corpses clustered on the point of his standard.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** —cruel birds of omen (krūrāḥ śakunāḥ) in the sky barred his way (pratyaṣedhayan), and a most dreadful vulture (mahābhīmo gṛdhraḥ) alighted upon the top of his chariot (ratha-śīrṣe).
+
+**32:** Clustering together (grathitāḥ) upon the tip of his banner (dhvajāgre), carrion-eating birds (kuṇapāśanāḥ) dropped down; and a huge, pallid headless trunk (mahān śvetaḥ kabandhaḥ), wet with blood, fell upon the ground.
 </details>
 </details>
 
@@ -1341,6 +1509,12 @@ trembled.
 
 Streming with blood, a huge decapitated trunk fell to earth, emitting inarticulate
 noise in Dhumraksha's vicinity and the sky rained down blood. The earth trembled.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cast down before Dhūmrākṣa, it uttered discordant shrieks (visvaraṃ cotsṛjan nādān); the sky rained blood (vavarṣa rudhiraṃ devaḥ), and the earth shook (saṃcacāla ca medinī).
 </details>
 </details>
 
@@ -1390,6 +1564,12 @@ as observed by abundant darkness.
 
 The wind with noise resembling a thunder blew adversely. Every quarter, obscured by
 abundant darkness, did not dazzle.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A wind blew contrariwise (pratilomaṃ vavau vāyuḥ) with a roar like a thunderbolt (nirghāta-sama-niḥsvanaḥ), and the quarters there, shrouded in masses of darkness (timiraughāvṛtāḥ), did not shine.
 </details>
 </details>
 
@@ -1442,6 +1622,12 @@ became; *vyathitaH* = perturbed; *mumuH* = terror seized; *sarve* = all;
 Seeing those terrible amones that appeared in all their horror to the demons,
 Dhumraksha became perturbed. Terror seized all the demons who were advancing in front of
 Dhumraksha.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those most dreadful portents (utpātān) that had appeared, bringing terror to the rākṣasas, Dhūmrākṣa became deeply disturbed (vyathito 'bhavat), and all the rākṣasas marching in front of Dhūmrākṣa (puraḥsarāḥ) were bewildered (mumuhuḥ).
 </details>
 </details>
 
@@ -1508,6 +1694,12 @@ resembling a flood, protected by the arms of Rama.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऐवत्तॊन्दनॆय सर्ग पूर्णवायितु.॥51॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that mighty and most dreadful warrior, surrounded by multitudinous night-stalkers and eager for battle (raṇotsukaḥ), advanced and beheld that vast monkey army guarded by Rāghava’s arm, resembling a mighty flood (mahaugha-kalpām).
 </details>
 </details>
 

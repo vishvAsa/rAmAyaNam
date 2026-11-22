@@ -73,6 +73,12 @@ thereafter; *abraviit* = spoke (as follows).
 Rama, a very bright man and a true warrior, having duly heard the words of Hanuman from
 the beginning, thereafter spoke as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard the speech of Hanūmān accurately and in due order (anupūrvaśaḥ), Rāma of great splendor and unfailing valor (satyaparākramaḥ) then spoke [to Sugrīva]:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,6 +127,12 @@ ogre; *yaam* = of which; *nivedayase* = you inform; *braviimi* = I am telling;
 
 "I shall destroy quickly Lanka, the city of that terrible ogre (Ravana), of which you
 just informed I am really telling this."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That city of Laṅkā belonging to the dreadful Rākṣasa of which you report—I shall swiftly crush (vadhiṣyāmi) her; this truth I declare to you.
 </details>
 </details>
 
@@ -174,6 +186,12 @@ _________________
 reached the mid-day.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“At this very hour (muhūrte), O Sugrīva, approve the military march (prayāṇam); the sun has reached midday, joined to the victorious hour (vijaye muhūrte).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -227,6 +245,12 @@ ambrosia; *aaturaH* = by a sick man; *piitvaa* = having drunk; *vishham* = poiso
 of my march to Lanka, Seetha will get back her hope in life, like a sick man having drunk poison touches
 ambrosia at the end of his life."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having carried off Sītā, where indeed shall that demon (yātu) go and remain alive? Hearing of my expedition (abhiyānam), Sītā will regain hope for life, like a sick man at life’s end who has touched and drunk nectar (amṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,6 +296,12 @@ accompanying us; *sugriiva* = Oh; Sugreeva!
 
 "This northern planet of Phalguni will be in conjunction with the Hasta star tomorrow.
 Hence, let us depart today itself with all the troops accompanying us, Oh, Sugreeva!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today the constellation Uttarā Phālgunī prevails, and tomorrow it will conjoin with Hasta; let us march forth (abhiprayāma), O Sugrīva, surrounded by all our armies (sarvānīkasamāvṛtāḥ).
 </details>
 </details>
 
@@ -319,6 +349,12 @@ Hence, let us depart today itself with all the troops accompanying us, Oh, Sugre
 "By seeing the omens which are becoming visible, I deduce that I shall bring back Seetha
 the daughter of Janaka, by killing Ravana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I behold the auspicious omens (nimittāni) that are manifesting before me; having slain Rāvaṇa, I shall bring back Sītā, the daughter of Janaka (jānakīm).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +386,12 @@ the daughter of Janaka, by killing Ravana."
 
 इदल्लदॆ नन्न बलगण्णु अदरुत्तिदॆ. अदू कूड नन्न विजयप्राप्तियन्नु मत्तु मनोरथ सिद्धियन्नु सूचिसुत्तिदॆ.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, this eye of mine throbbing above (upariṣṭāt) seems to proclaim our heart’s desire (manoratham)—victory close at hand.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -380,6 +422,12 @@ the daughter of Janaka, by killing Ravana."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदन्नु केळि वानरराज सुग्रीव मत्तु लक्ष्मणरू अदन्नु तुम्बा आदरिसिदरु. बळिक नीतिनिपुण धर्मात्मा श्रीरामनु हेळिदनु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, deeply honored (supūjitaḥ) by the monkey king and by Lakṣmaṇa, righteous Rāma, skilled in practical policy (arthakovidaḥ), spoke once again:
 </details>
 </details>
 
@@ -427,6 +475,12 @@ to explore; *maargam* = the way.
 "Let general Nila accompanied by strength of hundred thousand warriors go before the
 army, to explore the way."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let Nīla go at the head (agre) of this army to reconnoiter the path (mārgam avekṣitum), surrounded by a hundred thousand swift monkeys.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -472,6 +526,12 @@ army, to explore the way."
 
 "Oh Nila the chief of Army! Steer the army speedily by the path, abound with fruits and
 roots, cool woods and fresh water and honey."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Nīla, commander of the army (senāpate), swiftly lead the host by a route rich in fruit and roots, with cool woodland waters (śītakānanavāriṇā) and abundant honey.
 </details>
 </details>
 
@@ -519,6 +579,12 @@ roots, cool woods and fresh water and honey."
 "The evil-minded demons may spoil the roots, fruits and water in the path-way. You always
 try to be on you guard."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Wicked Rākṣasas might poison (dūṣayeyuḥ) the roots, fruit, and water along the way; ever vigilant (nityam udyataḥ), you must guard against them on the march.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -565,6 +631,12 @@ cha* = and into thickets; *abhipashyeyuH* = and notice; *balam* = the army; *par
 "Let the monkeys jump into law grounds, into places made inaccessible by forest-grores
 and into thickets and notice whether any rival forces are stationed there."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In depressions, forest fastnesses (vanadurgeṣu), and woods, let the forest-dwellers leap ahead and search out any enemy force lying in ambush (nihitaṃ balam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -604,6 +676,12 @@ dreadful; *prayujyataam* = let is be discharged; *vikrameNa* = daringly."
 
 "Let whatever little of feeble forces stay back in Kishkindha, as our operation will
 indeed be dreadful. It has to be discharged daringly."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whatever weak force (phalgu balam) there may be, let it remain right here [in Kiṣkindhā]; for this task of ours is dreadful (kṛtyaṃ ghoram)—let it be undertaken with valor (vikrameṇa).
 </details>
 </details>
 
@@ -654,6 +732,12 @@ army; *saagaraughanibham* = which is akin to an oceanic stream."
 "Let the best of monkeys with great strength in hundreds and thousands lead the formidable
 of the army, which is akin to an oceanic stream."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let the monkey-lions (kapisiṃhāḥ) of mighty strength lead forth the terrible vanguard (agrānīkam), resembling the surge of the ocean, by hundreds and by thousands.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -703,6 +787,12 @@ of cows; *dR^ipataH* = a majestic; *R^ishhabhaH* = full.
 "Let Gaja, equal to a mountain, Gavaya a very strong warrior and Gavaksha march in front,
 as a majestic bull marches in front of a cow-herd."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let Gaja, resembling a mountain, and Gavaya of great strength, and Gavākṣa march in front (agrataḥ), like proud bulls at the head of cattle (gavām ṛṣabhaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -748,6 +838,12 @@ side; *vaanaravaahinyaaH* = of the army of simians.
 
 "Let the monkey called Rishabha, Lord of the simians and the best of the primates march
 forward, duly guarding the right side of the army of the simians."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let the monkey Ṛṣabha, lord of leapers and bull among monkeys (vānararṣabhaḥ), march guarding the right flank (dakṣiṇaṃ pārśvam) of the monkey host.
 </details>
 </details>
 
@@ -795,6 +891,12 @@ side; *vaanaravaahinyaaH* = of the army of monkeys.
 "Let Gandhamadana, with a strength unconquerable like an elephant in rut, proceed duly
 guarding the left side of the army of monkeys."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Unassailable as a rutting scent-elephant (gandhahastīva), let the swift Gandhamādana march stationed upon the left flank (savyaṃ pārśvam) of the monkey army.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -840,6 +942,12 @@ guarding the left side of the army of monkeys."
 
 "I myself, mounted on the shoulders of Hanuman, like Indra on Airavata, will march in
 the centre of my troops, duly cheering the multitude of army."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Cheering the multitude of troops (balaugham abhiharṣayan), I myself shall march in the center of the army (balamadhye), having mounted Hanūmān like Indra (īśvaraḥ) upon Airāvata.”
 </details>
 </details>
 
@@ -887,6 +995,12 @@ Kubera the lord of Riches; *bhuteshaH* = and the sovereign of beings.
 "Let this Lakshmana, resembling the lord of Death, march on the shoulders of Angada like
 Kubera the lord of riches and the sovereign of beings marches on an elephant called Sarvabhauma."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let this Lakṣmaṇa, resembling Death (antakopamaḥ), march alongside upon Aṅgada, like Kubera, lord of spirits and master of wealth (draviṇādhipatiḥ), upon [the elephant] Sārvabhauma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -932,6 +1046,12 @@ three; *rakshhantu* = guard; *kukshim* = the middle part.
 
 Let the highly strong, Jambavan with Sushena and the monkey called Vegadarshi, all three,
 guard the middle part of the army."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And let Jāmbavān, the mighty-armed king of bears (ṛkṣarājaḥ), together with Suṣeṇa and the monkey Vegadarśī—let those three guard the rear (kukṣim).”
 </details>
 </details>
 
@@ -979,6 +1099,12 @@ guard the middle part of the army."
 "Hearing the words of Rama, Sugreeva with great valour, the commander of forces and the
 lion among monkeys gave orders to the monkeys accordingly."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard the words of Rāghava, Sugrīva, lord of the host (vāhinīpatiḥ) and bull among monkeys of great prowess, issued orders (vyādideśa) to the monkeys.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1024,6 +1150,12 @@ up; *aashu* = and quickly; *pupluvire* = bounced; *guhaabhyaH* = from caves;
 
 Then, all those troops of monkeys with great speed together raised up and quickly bounced
 from caves and mountain-tops.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Springing up all together, those troops of monkeys of mighty energy (mahaujasaḥ) swiftly leaped forth then from caves and mountain peaks (śikharebhyaś ca).
 </details>
 </details>
 
@@ -1071,6 +1203,12 @@ southern direction; *sa sainyaH* = along with army.
 Thereafter Rama the virtuous man, treated respectfully by Sugreeva and Lakshmana, moved
 towards southern direction, along with the army.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, honored (pūjitaḥ) by the monkey king and by Lakṣmaṇa, righteous Rāma set forth with his army (sasainyaḥ) toward the southern quarter.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1112,6 +1250,12 @@ and in crores.
 At that time, Rama went surrounded by monkeys, looking like elephants, numbering in hundreds,
 hundreds of thousands and crores.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded then by monkeys resembling elephants (vāraṇābhaiḥ)—by hundreds, by hundreds of thousands, by tens of millions (koṭibhiḥ), and by myriads—he marched on.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1142,6 +1286,12 @@ hundreds of thousands and crores.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रयाणिसुत्तिद्द श्रीराम हिन्दॆ आ विशाल वानर वाहिनी नडॆयतॊडगितु. आ सैन्यद ऎल्ल वीररु सुग्रीवनिन्द पालिसल्पट्टिद्दरिन्द हृष्ट-पुष्ट हागू प्रसन्नरागिद्दरु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he marched, that mighty monkey army (harivāhinī) followed after him—all of them joyful and delighted (hṛṣṭāḥ pramuditāḥ), protected too by Sugrīva.
 </details>
 </details>
 
@@ -1207,6 +1357,12 @@ monkeys maintained by Sugreeva were rejoicing with delight.
 The monkeys, jumping overwhelmingly with roaring sound and jest fully playing musical
 instruments (like trumpets) marched towards southern direction.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaping on all sides (āplavantaḥ), bounding forward, and thundering like clouds, the monkeys, uttering lion-roars (kṣvelantaḥ) and shouting aloud, marched toward the southern quarter.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1245,6 +1401,12 @@ madhuuni* = honeys; *phalaanicha* = and fruits; *udvahantaH* = carrying; *mahaav
 
 They marched on, eating good-smelling honeys and fruits and carrying large branches bearing
 clusters of blossoms in multitude.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consuming fragrant honey and fruits (madhūni ca phalāni ca), and bearing up huge trees heavy with clusters of blossoms (mañjarīpuñjadhāriṇaḥ),
 </details>
 </details>
 
@@ -1295,6 +1457,12 @@ kshhipanti* = and throw; *anyonyam* = one another; *sahasaa* = all of a sudden;
 Wild monkeys would lift up and throw one another all of a sudden. Some others were hanging
 down and flying upwards. Some other monkeys were throwing down others.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proudly (dṛptāḥ) and impetuously they carry one another along and hurl one another down; some, falling, spring back up (utpatanti), while others topple others to the ground.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1334,6 +1502,12 @@ down and flying upwards. Some other monkeys were throwing down others.
 
 Monkeys close to Rama were thus shouting, "To us, Ravana is worthy of killing and also
 the entire demons."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Rāvaṇa must be slain by us (no nihantavyaḥ), and all the night-roamers (rajanīcarāḥ)!’—thus roar the monkeys in the presence of Rāghava.
 </details>
 </details>
 
@@ -1379,6 +1553,12 @@ the entire demons."
 
 Rishabha, Nila, and the courageous Kumuda along with many monkeys were clearing up the
 path ahead.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In front (purastāt), Ṛṣabha, the heroic Nīla, and Kumuda as well cleared the road (panthānaṃ śodhayanti sma) together with many monkeys.
 </details>
 </details>
 
@@ -1426,6 +1606,12 @@ monkeys; *balibhiH* = which are robust; *bhiimaaH* = and terrible.
 Sugreeva the king of monkeys, Rama and Lakshmana the destroyers of enemies were moving
 in the centre along with many robust and terrible monkeys.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the center (madhye), however, [marched] King Sugrīva, Rāma, and Lakṣmaṇa as well, destroyers of foes (śatrunibarhaṇaḥ), surrounded by many mighty and dreadful [monkeys].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1471,6 +1657,12 @@ in the centre along with many robust and terrible monkeys.
 
 The heroic monkey satabali who was accompanied by ten crores of monkeys, standing alone
 firmly, guarded the whole army of monkeys.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The heroic monkey Śatabali, surrounded by ten crores (koṭibhir daśabhiḥ), single-handedly steadied (avaṣṭabhya) and protected the entire monkey army.
 </details>
 </details>
 
@@ -1521,6 +1713,12 @@ of a hundred crore; *pansaH* = Panasa; *gajaH* = Gaja; *arkashcha* = and Arka;
 Kesari with a retinue of a hundred crore, Panasa, Gaja and Arka along with many monkeys
 were protecting one flank of that army.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kesarī, attended by a hundred crores (koṭīśataparīvāraḥ), Panasa, Gaja, and Arka, with many troops, guarded one flank (pārśvam ekam) of that [army].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1566,6 +1764,12 @@ were protecting one flank of that army.
 
 Keeping Sugreeva in front, Sushena and Jambavanta surrounded by many bears, protected
 the hinder part of that army.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Suṣeṇa and Jāmbavān, surrounded by many bears (ṛkṣair bahubhiḥ), placed Sugrīva in front of them and guarded the rear (jaghanam).
 </details>
 </details>
 
@@ -1616,6 +1820,12 @@ of the army; *viiraH* = the brave; *vaanarapuN^gavaH* = the best among monkeys; 
 Nila their chief of the army, the brave and the best among monkeys, the self controlled
 and the foremost among movable beings, was protecting atha army in every direction.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Their heroic commander-in-chief Nīla, bull among monkeys and foremost of leapers (plavatāṃ śreṣṭhaḥ), bounding on all sides, kept that host in order (paryavārayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1662,6 +1872,12 @@ jambhaH* = Jambha; *atha* = and; *rabhasaH* = Rabhasa; *kapiH* = the monkey;
 Valimukha, Prajangha, Jambha and Rabhasa the monkey were moving on all sides, urging
 the monkeys forward.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The heroes Darīmukha, Prajaṅgha, Jambha, and the monkey Rabhasa went everywhere (sarvataś ca yayuḥ), urging on the monkeys (plavaṃgamān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1689,6 +1905,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई प्रकार आ बलोन्मत्त कपि केसरिगळु सरियागि मुन्दुवरियुत्तिद्दरु. नडॆयुत्ता नडॆयुत्ता सुत्तलू नूरारु पर्वतगळुळ्ळ पर्वत श्रेष्ठ सह्याद्रियन्नु नोडिदरु.॥37॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus those tigers among monkeys (hariśārdūlāḥ), proud of their strength, marched on and beheld the foremost of mountains, Sahya, joined with hundreds of peaks (giriśatāyutam),
 </details>
 </details>
 
@@ -1739,6 +1961,14 @@ Those foremost among the monkeys, proud of their strength, thus marching with th
 saw the Sahya mountain the best of mountains joined with many small mountains, lakes fully abounding
 in flowers and eminent ponds.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**38:** And lakes in full bloom (suphullāni) and excellent tanks. Mindful of the command (śāsanam) of Rāma of dreadful wrath, as if in fear (bhītavat),
+
+**39:** Avoiding the outskirts of cities (nagarābhyāśān) and inhabited countrysides (janapadān) as well, that mighty and terrible monkey army, resembling the surge of the ocean,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1782,6 +2012,12 @@ and even villages; *niHsasarpa* = marched; *aarNavam iva* = like an ocean; *maha
 That large army of monkeys, terrific like an ocean-flood cognizing the command of Rama
 which is frightfully enraging, having terror-stricken, abandoning the vicinity of towns and even villages,
 marched like a highly dreadful ocean with a great hoaring sound.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Streamed forth (niḥsasarpa) with a mighty roar like the dread-sounding ocean. Beside that son of Daśaratha, those heroic elephants among monkeys (kapikuñjarāḥ)
 </details>
 </details>
 
@@ -1828,6 +2064,12 @@ at the side; *tasya daasharatheH* = of that Rama.
 
 All those prominent and valiant monkeys were overwhelmingly jumping ahead, like fine
 horses being whipped, at the side of that Rama.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaped swiftly forward all together like well-bred steeds urged on (sadaśvā iva coditāḥ). Borne along by the two monkeys [Hanūmān and Aṅgada], those two bulls among men (nararṣabhau) shone forth
 </details>
 </details>
 
@@ -1880,6 +2122,12 @@ Rama and Lakshmana the best among men being carried on shoulders by Hanuman and 
 the two monkeys, were effulgent like the moon and the sun having come together in contact with two large
 planets (Jupiter and Venus).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like the moon and the sun conjoined (saṃspṛṣṭau) with two mighty planets (grahābhyām). Then, deeply honored by the monkey king and by Lakṣmaṇa,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1904,6 +2152,12 @@ planets (Jupiter and Venus).
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अङ्गदन हॆगल मेलॆ कुळित लक्ष्मणनु शकुनगळिन्द कार्य सिद्धिय मातन्नु चॆन्नागि तिळियुत्तिद्दनु. अवनु पूर्णकाम भगवान् श्रीरामनल्लि मङ्गलमय वाणियल्लि हेळिदनु.॥43॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Righteous Rāma marched with his army toward the southern quarter. To that Rāma, Lakṣmaṇa, mounted upon Aṅgada (aṅgadagataḥ), with an auspicious voice (śubhayā girā)
 </details>
 </details>
 
@@ -1972,6 +2226,14 @@ taken away; *pratiyaasyasi* = you will proceed; *ayodhyaam* = to Ayodhya; *samR^
 
 "Killing Ravana fast and obtaining Seetha who was taken away, you will proceed to Ayodhya
 which is abundant by rich, having accomplished your purpose."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**44:** Spoke—he of keen and resourceful intellect (pūrṇārthapratibhānavān) to him whose purpose was assured (paripūrṇārtham): “Having swiftly slain Rāvaṇa and recovered Vaidehī who was carried off,
+
+**45:** “With your purpose fulfilled (samṛddhārthaḥ), you shall return to prosperous Ayodhyā (samṛddhārthām ayodhyām). Mighty omens (nimittāni) in the sky and on the earth, O Rāghava,
 </details>
 </details>
 
@@ -2044,6 +2306,16 @@ sun; *vimalaH* = is clear.
 "These beasts and birds are uttering sonorous and sweet sounds. All the quarters are
 looking bright. Even the sun is clear."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**46:** “I behold, all of them auspicious (śubhāni), portending the accomplishment of your purpose (arthasiddhaye). A propitious breeze (śivo vāyuḥ), gentle, salutary, and pleasant, blows behind the army.
+
+**47:** “These beasts and birds (mṛgadvijāḥ) utter full and melodious cries (pūrṇavalgusvarāḥ); all the quarters are serene (prasannāḥ), and the sun is spotless (vimalaḥ).
+
+**48:** “And Uśanā [Venus], son of Bhṛgu (bhārgavaḥ), of bright radiance, moves favorably behind you; the spotless cluster of Brahmā [the Pole Star] and the pure Supreme Sages (paramarṣayaḥ) shine brightly, all circling Dhruva clockwise (pradakṣiṇam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2088,6 +2360,12 @@ pole-star (which is recognized by the contiguity of the stars presided over by t
 of Brahma the creator) is hanging behind you. Dhruva, the very bright pole-star (which is recognized
 by the contiguity of the stars presided over by the seven Brahmana sages) is becoming clear. All the
 pure great sages having bright light are shining are shining around Dhruva star.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The royal sage Triśaṅku, our forefather (pitāmahaḥ) of the high-souled Ikṣvākus, shines spotlessly in front of us (puro 'smākam) together with his family priest (sapurohitaḥ).
 </details>
 </details>
 
@@ -2134,6 +2412,12 @@ pure great sages having bright light are shining are shining around Dhruva star.
 
 "The royal sage Trishanku, our paternal grand father, born in the high-souled Ikshvaku
 dynasty, is purely shining (as a star) in front, along with his family-priest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the two Viśākhā stars shine spotlessly, free from affliction (nirupadrave)—the supreme constellation (nakṣatraṃ param) of us high-souled Ikṣvākus.
 </details>
 </details>
 
@@ -2184,6 +2468,12 @@ supreme; *nakshhatram* = constellation; *asmaakam ikshhvaakuuNaam* = is of our I
 "Visakha stars are shining clearly without any evil influence. This supreme constellation
 is of our Ikshvakus, the high-souled."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Meanwhile, the constellation of the Nairṛtas [Rākṣasas], sacred to Nirṛti (nairṛtam), is sorely afflicted (atipīḍyate): Mūla, touched by the comet (dhūmaketunā) rising with its tail, is scorched with smoke (dhūpyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2230,6 +2520,12 @@ dhuupyate* = and tormented by it.
 "The Mula constellation of the titans is badly aspected, in that it is touched by a comet
 risen with a tail of light and tormented by it."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All this has arisen for the destruction (vināśāya) of the Rākṣasas; at the hour of doom, the constellation of those seized by Death (kālagṛhītānām) is oppressed by a planet (grahapīḍitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2275,6 +2571,12 @@ a planet; *kaale* = in its last hour.
 
 "All this has come for the destruction of the titans, for, the star seized by death is
 oppressed by a planet in its last hour."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The waters are clear and sweet-tasting (surasāś cāpaḥ), and the woods are heavy with fruit; fragrances waft gently without excess, and the trees bear blossoms true to their season (yathartukusumā drumāḥ).
 </details>
 </details>
 
@@ -2328,6 +2630,12 @@ _________________
 "The waters are crystal-clear, with good taste. The woodlands are laden with fruit. The
 fragrant air is not blowing much. Trees are bearing seasonal flowers."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Arrayed in battle order (vyūḍhāni), O Lord, the monkey armies shine mightily, like the armies of the gods in the Tārakāmaya war (saṃgrāme tārakāmaye); beholding this thus, O noble one, you ought to be pleased.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2378,6 +2686,12 @@ fit; *bhavitum* = to become; *priitaH* = delighted; *samiikshya* = on seeing;
 the armies of celestials in the battle in which the demon Taraka was killed, Oh venerable one! Be pleased
 to see these good omens in this manner."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus comforted his brother (bhrātaram āśvāsya), joyful Saumitri [Lakṣmaṇa] finished speaking; then, covering the entire earth (mahīṃ kṛtsnām), the monkey army marched on.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2402,6 +2716,12 @@ to see these good omens in this manner."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ सैन्यदल्लि कॆलवु करडिगळिद्दवु. कॆलवु सिंहदन्तॆ पराक्रमि वानररिद्दरु. उगुरु, हल्लुगळे अवर आयुधवागित्तु. आ ऎल्ल वानर सैनिकरु कै-कालुगळिन्द धूळन्नु हारिसुत्तिद्दरु.॥56॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raised by the monkeys with the tips of their hands and the tips of their feet (karāgraiś caraṇāgraiś ca), and by tigers among bears and monkeys armed with claws and fangs (nakhadaṃṣṭrāyudhaiḥ), the dust
 </details>
 </details>
 
@@ -2448,6 +2768,12 @@ The delighted Lakshmana spoke thus, cheering up his brother. Then, the army of m
 consisting of excellent bears and monkeys having their very nails and teeth as weapons, marched ahead,
 covering the entire earth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Obscured (antardadhe) the dreadful world, blocking out the radiance of the sun (savituḥ prabhām). Toward the southern [quarter], across mountains, forests, and sky, the monkey army
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2472,6 +2798,12 @@ covering the entire earth.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ वानर सैन्यवु यावुदादरू नदियन्नु दाटुवाग अनेक योजन दवरॆगॆ आ नदिय प्रवाह हिन्दक्कॆ हरियुत्तित्तु.॥58॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marched on, covering [everything] like a bank of clouds (ambudasaṃtatiḥ) overspreading the sky. And as the army crossed (uttarantyāś ca senāyāḥ) continuously for many leagues (bahuyojanam),
 </details>
 </details>
 
@@ -2540,6 +2872,14 @@ advanced, encompassing the southern region like a mass of cloud enveloping the s
 While the army was crossing the entire river-currents uninterruptedly, the currents flowed
 invertedly for a distance of many yojanas.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**59:** All the river currents (nadīsrotāṃsi) flowed backward, as if reversed (viparītavat). Clear-watered lakes (sarāṃsi vimalāmbhāṃsi) and mountains thick with trees,
+
+**60:** Level expanses of ground and fruit-laden forests—through the center, all around (samantāt), across, and below, that [army] entered and encamped (sāviśat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2593,6 +2933,12 @@ The mighty army entered thoroughly into lakes containing clear water, mountains 
 of trees, plain-landed territories and forests laden with fruits from the middle, from the four sides,
 from across and from under.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Covering the entire earth, the mighty army (mahatī camūḥ) marched on; with joyful faces, all of them advanced with the speed of the wind (mārutarāṃhasaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2638,6 +2984,12 @@ from across and from under.
 
 The gigantic army marched, thoroughly covering the land. All of them with a wind-like
 aped went on, manifesting a joy in their faces.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Putting forth their full valor (samāropitavikramāḥ) for the sake of Rāghava, the monkeys displayed to one another their joy, heroism, and surging strength (balodrekān).
 </details>
 </details>
 
@@ -2694,6 +3046,14 @@ with each other); *darshayantaH* = showed; *balaodrekaat* = high spirits; *harsh
 For the sake of Rama, the monkeys with fully elevated pace vied with each other in high
 spirits, vigor and prowess. Out of pride born of prime youth, some made various gestures on the way.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**63:** Out of pride born of the exuberance of youth (yauvanotsekajād darpāt), they performed manifold [feats] along the road: there some ran swiftly, while others leaped into the air (utpetuḥ).
+
+**64:** Some forest-roaming monkeys raised a chattering kilakilā cry (kilakilāṃ cakruḥ), lashed their tails (prāsphoṭayaṃś ca pucchāni), and stamped their feet upon the ground.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2733,6 +3093,12 @@ monkeys; *tatra* = there; *jagmuH* = went; *drutam* = rapidly; *tathaa*
 
 Some wild monkeys there walked very speedily. In that manner, some others hovered highly.
 Some made noises, sounding "kila! kila!".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stretching out their arms (bhujān vikṣipya), others shattered crags and trees; and mountain-ranging monkeys climbed the peaks of the mountains (śṛṅgāṇi girīṇām).
 </details>
 </details>
 
@@ -2779,6 +3145,12 @@ api* = (some) even stamped; *padaani* = their feet; *anye* = some others; *viksh
 
 Some monkeys lashed their tails. Some even stamped their feet. Some others, stretching
 their arms, broke off rocks and trees.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some let loose mighty roars (mahānādān pramuñcanti), while others uttered lion-shouts (kṣveḍām); and with the force of their thighs (ūruvegaiḥ) they crushed tangles of creepers by the score.
 </details>
 </details>
 
@@ -2827,6 +3199,12 @@ their arms, broke off rocks and trees.
 
 Some monkeys ascended mountain-peaks and uttered huge noises. Some others made lion's
 roars.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stretching their limbs (jṛmbhamāṇāḥ), the valiant ones sported with boulders and trees (vicikrīḍuḥ śilādrumaiḥ). Then, by hundreds of thousands and by crores in thousands,
 </details>
 </details>
 
@@ -2887,6 +3265,14 @@ monkeys also played with rocks and trees, by stretching their limbs.
 In that place, the land was covered splendidly by hundreds of thousands, by thousands
 and crores of monkeys, who were looking very dreadful.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**68:** The earth was magnificently overspread (śrīmatparivṛtā) by those most dreadful monkeys; and that mighty monkey army marched on day and night (divārātram).
+
+**69:** All of them joyful and delighted, protected by Sugrīva, the monkeys marched swiftly on, all rejoicing in battle (yuddhābhinandinaḥ); eager to liberate Sītā (pramokṣayiṣavaḥ sītām), they did not halt anywhere even for an hour (muhūrtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2911,6 +3297,12 @@ and crores of monkeys, who were looking very dreadful.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नडॆयुत्ता दट्ट वृक्षगळिन्द व्याप्तवाद, अनेकानेक काडुगळिन्द कूडिद सह्यपर्वतद बळिगॆ बन्दु अवरॆल्ल वानररू अदर मेलॆ हत्तिदरु.॥70॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having reached the Sahya mountain, thick with trees (pādapasambādham) and filled with diverse forests, those monkeys ascended it (samāruhan).
 </details>
 </details>
 
@@ -2959,6 +3351,12 @@ That extensive monkey-army was marching day and night. All the monkeys ruled by 
 were exceedingly pleased and cheerful. All were marching quickly, rejoicing for war. Those monkeys desirous
 of Seetha's release, did not halt even for a moment anywhere.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the wondrous forests and the river cascades (nadīprasravaṇāni ca) of both Sahya and Malaya, Rāma marched on.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3005,6 +3403,12 @@ with many kinds of beasts.
 Then, those monkeys reached and climbed up a mountain called sahya with a full canopy
 of trees and filled with many kinds of beasts.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkeys snapped (bhañjanti sma) campakas, tilakas, mangoes (cūtān), aśokas, sinduvārakas, tiniśas, and karavīras.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3049,6 +3453,12 @@ and cascades; *sahyasya* = of Sahya; *malayasya cha* = and Malaya mountains.
 
 Rama too went along, seeing the wonderful woods, streams and cascades of Sahya and Malaya
 mountains.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkeys snapped (bhañjanti sma) aṅkolas, karañjas, plakṣa and banyan trees (plakṣanyagrodhapādapān), jambu trees, āmalakas, and nīpas.
 </details>
 </details>
 
@@ -3099,6 +3509,12 @@ and Karaveera trees.
 
 रमणीय बण्डॆगळ मेलॆ हुट्टिद अनेक रीतिय काडु मरगळु गाळिगॆ तूराडुत्ता आ वानरर मेलॆ हूवुगळ मळॆगरॆयुत्तिद्दवु.॥7.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon the lovely rock-ledges (prastareṣu ca ramyeṣu), diverse forest trees shaken by the force of the wind (vāyuvegapracalitāḥ) showered them with blossoms (puṣpair avakiranti tān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3144,6 +3560,12 @@ The monkeys enjoyed Ashoka, Karanja, Plaksa, Nyagrodha, Jambu, myrobalan and Nag
 
 मधुविनिन्द सुगन्धितवाद वनगळल्लि झॆङ्करिसुव दुम्भिगळ जॊतॆगॆ सुगन्धितवाद शीतल, मन्दानिलवु बीसुत्तित्तु.॥7.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A breeze pleasant to the touch (sukhasaṃsparśaḥ) and cool as sandalwood (candanaśītalaḥ) blew through the honey-scented woods, accompanied by softly humming bees (ṣaṭpadair anukūjadbhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3185,6 +3607,12 @@ winds, poured out flowers on those monkeys.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ पर्वतराजवु गैरिकादि धातुगळिन्द अलङ्कृतवागि बहळ शोभिसुत्तित्तु. आ धातुगळिन्द हरडिद धूळु वायुवेगदिन्द हारि आ विशाल वानर सैन्यवन्नॆल्ल मुच्चिबिट्टित्तु.॥7.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the king of mountains (śailarājaḥ) was richly adorned with mineral ores (dhātubhiḥ); stirred up by the force of the wind, the dust rising from those minerals (dhātubhyaḥ prasṛto reṇuḥ)
 </details>
 </details>
 
@@ -3256,6 +3684,14 @@ woods.
 That royal Sahya Mountain was highly adorned with red-coloured metal. The dust blown
 from that metal by the velocity of wind, coming forth from all sides, obscured the huge monkey-army.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**77:** Covered the vast monkey army on every side (sarvataḥ). Upon the lovely mountain plateaus (giriprastheṣu ramyeṣu), in full bloom on all sides,
+
+**78:** Were ketakīs, sinduvāras, and charming spring-creepers (vāsantyaś ca manoramāḥ), fragrant mādhavīs (mādhavyo gandhapūrṇāś ca), and flowering clumps of kunda jasmine (kundagulmāś ca puṣpitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3295,6 +3731,12 @@ from that metal by the velocity of wind, coming forth from all sides, obscured t
 "My eye which is twitching on the upper lid, is proclaiming as it were, my desire of
 victory coming nearer."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ciribilvas, madhūkas, vañjulas, and bakulas as well, rañjakas, tilakas, and blossoming nāgavṛkṣas (nāgavṛkṣāś ca puṣpitāḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3323,6 +3765,14 @@ victory coming nearer."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मावु, पादरि, कोविदारगळू हूवुगळिन्द तुम्बिद्दवु. अर्जुन, शिंशिषा, कुटज, हिन्ताल, चूर्णक, कदम्ब, निलाशोक, सरल, अङ्कोल मत्तु पद्मक वृक्षगळू कूड सुन्दर पुष्पगळिन्द सुशोभितवागिद्दवु.॥80-81॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**80:** Mangoes (cūtāḥ), pāṭalikās, and blossoming kovidāras, muculindas, arjunas, śiṃśapās, and kuṭajas as well,
+
+**81:** Hintālas, tiniśas, cūrṇakas, and nīpakas as well, blue aśokas (nīlāśokāḥ), saralas, aṅkolas, and padmakas—
 </details>
 </details>
 
@@ -3357,6 +3807,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सन्तोष गॊण्ड आ वानररु आ ऎल्ल वृक्षगळन्नु आवरिसिबिट्टिद्दवु. आ पर्वतदल्लि अनेक रमणीय कल्याणिगळु, सण्ण-पुट्ट जलाशयगळु इद्दवु. अवुगळल्लि चक्रवाक, नीरुकोळिगळु विहरिसुत्तिद्दवु. नीरु कागॆ मत्तु क्रौञ्चगळू तुम्बिद्दवु हागू हन्दिगळु, जिङ्कॆगळु अवुगळल्लि नीरु कुडियुत्तिद्दवु.॥82-83॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**82:** All these were thrown into commotion (paryākulīkṛtāḥ) by the delighted monkeys (prīyamāṇaiḥ plavaṃgaiḥ). And on that mountain were lovely stepped wells (vāpyaḥ) and ponds (palvalāni),
+
+**83:** Frequented by cakravāka birds (cakravākānucaritāḥ), resorted to by kāraṇḍava ducks, crowded with coots and curlews (plavaiḥ krauñcaiś ca saṃkīrṇāḥ), and visited by boars and deer,
 </details>
 </details>
 
@@ -3427,6 +3885,12 @@ man; *arthakovidaH* = versed in moral law; *supuujitaaH* = well adored; *vaanara
 Then Rama the virtuous man versed in moral law, who was well-adored by Sugreeva the king
 of monkeys and Lakshmana, again spoke as follows:-
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And frequented on all sides (sevyamānāḥ samantataḥ) by bears, hyenas (tarakṣubhiḥ), lions, and dreadful tigers, and by many terrible beasts of prey (vyālaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3452,6 +3916,12 @@ of monkeys and Lakshmana, again spoke as follows:-
 
 अरळिद सुगन्धित कमल, कुमुद, उत्पल हागू नीरिनल्लि अरळुव बगॆ-बगॆय इतर पुष्पगळिन्द अल्लिय सरोवरगळु तुम्बा रमणीयवागि काणुत्तिद्दवु.॥85॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The lakes there (tatra jalāśayāḥ) were lovely with diverse aquatic blossoms (vārijair vividhaiḥ puṣpaiḥ)—with full-blown fragrant lotuses (padmaiḥ saugandhikaiḥ phullaiḥ), white water-lilies (kumudaiḥ), and blue lotuses (utpalaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3476,6 +3946,12 @@ of monkeys and Lakshmana, again spoke as follows:-
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ पर्वतद शिखरगळल्लि नाना रीतिय पक्षिगळु कलरव माडुत्तिद्दवु. वानररु आ जलाशयगळल्लि मिन्दु, नीरु कुडियुत्ता, जलक्रीडॆयाडुत्तिद्दवु.॥86॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon its tablelands (tasya sānuṣu), flocks of diverse birds (nānādvijagaṇāḥ) warbled; having bathed and drunk the waters there, the monkeys sported in the water (jale krīḍanti vānarāḥ).
 </details>
 </details>
 
@@ -3540,6 +4016,14 @@ haunted on all sides by bears, hyenas, lions and many dreadful tigers. There wer
 of water with blossoming blue lotuses, water lilies, white water lilies, black water lilies and various
 other kinds of aquatic flowers.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**87:** Having climbed the mountain, the monkeys splashed one another (anyonyaṃ plāvayanti sma); and nectar-fragrant fruits (phalāny amṛtagandhīni), roots, and blossoms
+
+**88:** Of the trees, the monkeys, wild with exhilaration (madotkaṭāḥ), plucked and broke off there. Hanging [honeycombs] the size of a droṇa measure (droṇamātrapramāṇāni lambamānāni), the monkeys—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3581,6 +4065,12 @@ mountain; *plaavayanti sma* = and drenched with water; *anyauyam* = one over the
 Various kinds of birds sang in those mountain-peaks. Monkeys bathed in water, drank those
 waters and played. They ascended the mountain and got drenched in water, by sprinkling water by one
 over the other among themselves.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tawny as honey (madhupiṅgalāḥ)—marched on at ease (svasthāḥ), drinking that honey (pibantaḥ madhūni), breaking down trees, and dragging creepers (vikarṣantas tathā latāḥ) along.
 </details>
 </details>
 
@@ -3625,6 +4115,12 @@ over the other among themselves.
 **अनुवादः**
 
 Monkeys in mad rut plucked sweet-smelling fruits, roots and flowers there.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Making the noble mountains resound (vidhamanto girivarān), the bulls among monkeys marched onward, while other monkeys, intoxicated with honey (madhudarpitāḥ), roared from the trees.
 </details>
 </details>
 
@@ -3672,6 +4168,12 @@ went on; *svasthaaH* = cheerfully.
 Those monkeys, in reddish brown colour like honey, drinking honey from honey-combs weighing
 about a maund each, went on cheerfully.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some climbed into the trees (vṛkṣān prapadyante), while others drank deeply [of honey]; the earth was completely filled (sampūrṇā) with those bulls among monkeys, just as the earth is covered with beds of ripe rice-paddy (pakvaiḥ kamalakedāraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3717,6 +4219,12 @@ girivaraan* = excellent mountains.
 
 Those foremost among the monkeys marched, breaking off trees, pulling along creepers
 and throwing away excellent mountains.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having reached Mount Mahendra (mahendram atha samprāpya), lotus-eyed Rāma of mighty arms ascended (āruroha) its tree-adorned summit (śikharaṃ drumabhūṣitam).
 </details>
 </details>
 
@@ -3764,6 +4272,12 @@ and throwing away excellent mountains.
 Some other monkeys, well-pleased with honey got from trees, yelled loudly. Some others
 reached trees to get honey. Some others were drinking honey excessively.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having ascended the summit, Rāma, son of Daśaratha, beheld the ocean (salilāśayam) teeming with turtles and fish (kūrmamīnasamākīrṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3808,6 +4322,12 @@ reached trees to get honey. Some others were drinking honey excessively.
 
 The earth filled with those excellent monkeys, was like land filled with ripened fields
 of paddy.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having crossed beyond Sahya and the great mountain Malaya, they reached in due order (ānupūrvyeṇa) the dread-sounding ocean (samudraṃ bhīmaniḥsvanam).
 </details>
 </details>
 
@@ -3855,6 +4375,12 @@ lotus-eyed; *mahaa baahuH* = and the mighty armed; *sampraapya* = reached; *mahe
 Then, the lotus-eyed and the mighty-armed Rama reached Mahendra mountain and ascended
 its top, adorned with trees.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Descending swiftly (avaruhya), Rāma, foremost of those who bring delight (ramayatāṃ śreṣṭhaḥ), went to the peerless littoral forest (velāvanam anuttamam) together with Sugrīva and Lakṣmaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3901,6 +4427,12 @@ well with turtles and fishes.
 Then, Rama the son of Dasartha mounted the peak and saw an ocean ruffled with water and
 scattered well with turtles and fishes.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having reached the broad shoreline (velām āsādya vipulām) whose rocky floor was washed by suddenly surging billows (dhautopalatalām toyaughaiḥ sahasotthitaiḥ), Rāma spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3946,6 +4478,12 @@ mountain; *maalyam cha* = and Malaya; *mahaagirim* = the large mountain; *aanupu
 
 They crossed Sahya mountain and Malaya mountain and systematically approached the ocean
 having terrific sound.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here we have reached the abode of Varuṇa (varuṇālayam), O Sugrīva; now that very anxiety (vicintā) which arose before us earlier is present here:
 </details>
 </details>
 
@@ -3996,6 +4534,12 @@ _________________
 Rama the foremost of those who entrance the mind, together with Sugreeva and Lakshmana
 quickly descended the mountain and went to the excellent woodland adjoining the sea.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beyond this point lies the boundless ocean (paramatīro 'yaṃ sāgaraḥ), lord of rivers; and this sea cannot be crossed without a stratagem (anupāyena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4040,6 +4584,12 @@ washed by floods of water risen vehemently and spoke these words.
 
 Then Rama reached the extensive ocean with rocks underneath washed by floods of water
 risen vehemently and spoke these words.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore let our encampment (niveśaḥ) be right here, and let counsel be initiated (mantraḥ prastūyatām iha) as to how this monkey army may reach the farther shore (paraṃ pāram).”
 </details>
 </details>
 
@@ -4087,6 +4637,12 @@ risen vehemently and spoke these words.
 "Oh, Sugreeva! We have reached the abode of Varuna. We should consider now the matter
 (of how to cross the ocean) with which we were formerly preoccupied."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, mighty-armed Rāma, wasted with grief over the abduction of Sītā (sītāharaṇakarśitaḥ), having reached the ocean, commanded the halt (vāsam ājñāpayat) at that time:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4133,6 +4689,12 @@ a strategy.
 "This ocean, the lord of Rivers, is shore less beyond. This sea is impossible to be crossed
 without a proper strategy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let all the armies be encamped along the shore (velāyām), O bull among monkeys; the time for counsel (mantrakālaḥ) has arrived for us regarding the crossing of the ocean here.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4178,6 +4740,12 @@ without a proper strategy."
 
 "For this reason, let the military be assembled here only. Here, let us discuss the plan
 how this military of monkeys will reach the other shore."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And let no one wander anywhere abandoning his own division (svāṃ svāṃ senāṃ samutsṛjya); let heroic monkeys patrol, for hidden danger (channaṃ bhayam) to us must be watched for.”
 </details>
 </details>
 
@@ -4228,6 +4796,12 @@ _________________
 Rama, the mighty armed, emaciated due to taking away of Seetha, then reached the sea
 and ordered thus for the halt of the army there.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard the words of Rāma, Sugrīva together with Lakṣmaṇa encamped the army (senāṃ niveśayat) upon the tree-lined shore (tīre drumāyute) of the ocean.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4273,6 +4847,12 @@ army; *niveshyantaam* = be stationed; *velaayaam* = at the sea-shore; *iha* = he
 
 "Let all the army be stationed at the sea-shore, Sugreeva! Here, the time has come for
 us to think about the subject of crossing the ocean."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stationed beside the ocean, that army shone forth (virarāja) like a glorious second ocean (dvitīya iva sāgaraḥ) whose waters were tawny as honey (madhupāṇḍujalaḥ).
 </details>
 </details>
 
@@ -4321,6 +4901,12 @@ vanaraaH* = monkeys; *gacchhantu* = go.
 "Let not anyone slip away in any direction, leaving his respective unit of army. Let
 valiant monkeys make a more and it should be known whether there is a hidden danger for us."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached the littoral forest (velāvanam upāgamya), those bulls among monkeys encamped there, longing for the farther shore (paraṃ pāraṃ kāṅkṣamāṇāḥ) of the great ocean.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4366,6 +4952,12 @@ valiant monkeys make a more and it should be known whether there is a hidden dan
 
 Hearing Rama's words, Sugreeva along with Lakshmana made the army to halt at the sea-shore,
 stretched with trees.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As they were encamping (teṣāṃ niviśamānānām), the roar of the army’s arraying (sainyasaṃnāhaniḥsvanaḥ) drowned out (antardhāya) the mighty roar of the ocean and was heard afar.
 </details>
 </details>
 
@@ -4413,6 +5005,12 @@ white honey-coloured water.
 That army, stationed at the vicinity of the ocean, shined like a second ocean splendid
 with yellowish white honey-coloured water.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Protected by Sugrīva, that mighty host (dhvajinī) of monkeys, encamped in three divisions (tridhā niviṣṭā), was wholly intent upon Rāma’s purpose (rāmasyārthaparābhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4459,6 +5057,12 @@ of monkeys; *upaagamya* = reached; *velaavanam* = the woodlands at shore; *nivis
 There, those foremost of monkeys reached the woodlands at the shore and settled down,
 desiring to reach the other shore of the vast sea.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached the great ocean, that joyful monkey army gazed upon the vast sea (paśyamānā mahārṇavam) tossed by the force of the wind (vāyuvegasamādhūtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4498,6 +5102,12 @@ halting there; *sainya samnaahaniHsvanaH* = the sound created out of their movem
 
 While all the monkeys were halting there, the noise created out of their movement was
 dominantly heard, concealing the roar of the sea.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing upon the abode of Varuṇa (varuṇāvāsam)—whose farther shore was distant (dūrapāram), unobstructed, and frequented by hordes of Rākṣasas—the monkey troop-leaders sat down (niṣedur hariyūthapāḥ).
 </details>
 </details>
 
@@ -4571,6 +5181,14 @@ pashyamaanaa* = to see; *mahaarNavam* = the mighty ocean; *vaayuvega samaadhuuta
 That army of monkeys reached the mighty ocean and was delighted to behold the mighty
 ocean being diffused by the velocity of wind.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**110:** Dreadful with fierce crocodiles and sharks (caṇḍanakragrāhaghoram) at the close of day and the onset of night (kṣapādau divasakṣaye), it seemed to laugh with its masses of foam (hasantam iva phenaughaiḥ) and to dance with its waves (nṛtyantam iva cormibhiḥ).
+
+**111:** Swelling at moonrise (candrodaye samudbhūtam) and filled with reflected moons (praticandrasamākulam), it was crowded with fierce, wind-swift sea-monsters and with timi and timiṅgila leviathans (timitimiṃgilaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4620,6 +5238,12 @@ far off; *rakshhogaNanishhevitam* = inhabited by a number of demons; *hariyuutha
 Seeing the sea, the abode of Varuna, which was boundless and having the opposite shore
 far off, inhabitd by a number of demons, the monkey-troups sat down there.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crowded as if with serpents of blazing hoods (dīptabhogair ivākīrṇaṃ bhujaṅgaiḥ), that abode of Varuṇa was plunged into by mighty creatures (avagāḍhaṃ mahāsattvaiḥ) and filled with diverse submerged mountains.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4667,6 +5291,12 @@ at the beginning of the night; *phenaaghaiH* = with its foaming waves; *hasanami
 
 Rendered appalling by the ferocity of fierce alligators and crocodiles, that ocen with
 its foaming waves at the end of the day and at the beginning of the night, appeared to laugh and dance.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Across that impassable, trackless (durgamārgam), fathomless abode of Asuras (agādham asurālayam), agitated by the wind (vātalolitāḥ) and penetrated by makaras and serpent-coils, the jubilant masses of water (jalarāśayaḥ) leaped up and sank back down (utpetuś ca nipetuś ca).
 </details>
 </details>
 
@@ -4744,6 +5374,14 @@ That sea, the abode of Varuna was filled with serpents bestowed with flaming hoo
 with mighty aquatic creatures, abounding in various types of mountains, too difficult to cross, with
 an inaccessible path, suffocationly fathomless and an abode of demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**114:** Strewn as if with fiery sparks (agnicūrṇam ivāviddham), with gleaming water-serpents (bhāsvarāmbumahoragam), that dreadful abode of the foes of the gods (surārinilayam), ever reaching down to the netherworld (pātālaviṣayaṃ sadā)—
+
+**115:** The ocean resembled the sky (sāgaraṃ cāmbaraprakhyam), and the sky resembled the ocean (ambaraṃ sāgaropamam); both ocean and sky appeared without any distinction (nirviśeṣam adṛśyata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4790,6 +5428,12 @@ motion by the breeze.
 Increasing waves of the sea in which sharks and bodies of serpents swarmed, rose and
 fell whipped into motion by the breeze.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Water was blended with sky (sampṛktaṃ nabhasāpy ambhaḥ), and sky was blended with water; both appeared of identical form (tādṛgrūpe sma dṛśyete), crowded alike with stars and gems (tārāratnasamākule).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4834,6 +5478,12 @@ of gods; *paataalavishhamam* = (the sea reaches upto) the uneven patala (subterr
 
 Emitting whirled sparkles, shining with large water-snakes, a fearful abode of enemies
 of gods forever, the sea reaches upto the uneven Patala (subterranean region).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Between the two—the ocean with its garlands of waves (vīcimālākulam) and the sky with its rising clouds (samutpatitamegham)—there was no distinction (viśeṣo na dvayor āsīt).
 </details>
 </details>
 
@@ -4881,6 +5531,12 @@ ocean; *adR^ishyata* = appeared; *ambaramcheti* = like the sky; *nirvisheshham*
 The ocean looked like the sky. The sky looked like the ocean. The ocean and the sky looked
 alike without any distinction.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck against one another and locked together (anyonyair āhatāḥ saktāḥ), the waves of the king of rivers (ūrmayaḥ sindhurājasya) resounded with a dreadful roar (sasvanur bhīmaniḥsvanāḥ) like great kettle-drums in the sky (mahābherya ivāmbare).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4927,6 +5583,12 @@ sea; *dR^ishyate* = looked; *tadR^igruupe* = with the same splendour.
 The water blended with sky and the sky blended with water. Filled with stars above and
 the pearls below, both the sky and the sea looked with the same splendour.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resounding with masses of gems and water (ratnaughajalasaṃnādam), as if bound fast by the wind (viṣaktam iva vāyunā), leaping upward as if enraged (utpatantam iva kruddham), and teeming with hosts of sea-monsters (yādogaṇasamākulam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4972,6 +5634,12 @@ clouds.
 
 There was no distinction between the two, of the sea filled with a row of waves and of
 the sky with a row of falling clouds.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those high-souled ones beheld the wind-lashed ocean (vātāhatajalāśayam), tossed up by the gale and seeming to curvet and bound through the sky with its waves (ākāśe pravalgantam ivormibhiḥ).
 </details>
 </details>
 
@@ -5029,5 +5697,11 @@ like a kettle-drum in the sky.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि मूरनॆय सर्ग पूर्णवायितु. ॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, filled with wonder (vismayam āpannāḥ), the monkeys stood gazing upon the ocean, noisy with its whirling networks of waves (bhrāntormijālasaṃnādam) and tossing restlessly (pralolam iva sāgaram).
 </details>
 </details>

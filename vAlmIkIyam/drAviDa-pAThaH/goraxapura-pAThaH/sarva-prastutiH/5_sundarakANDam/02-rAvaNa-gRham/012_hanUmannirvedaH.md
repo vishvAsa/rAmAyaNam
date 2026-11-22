@@ -80,6 +80,12 @@ _________________
 That Hanuma interested in sight of Seetha, in the middle of that building, went towards houses
 made of plant creepers, art houses, and nocturnal houses but did not see Her with a beautiful appearance.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing in the midst of that palace (tasya madhye bhavanasya saṃsthitaḥ), eager for the sight of Sītā (sītāṃ prati darśanotsukaḥ), he visited the creeper-bowers (latāgṛhān), painted galleries (citragṛhān), and night-chambers (niśāgṛhān), yet he did not behold that lady of lovely aspect (cārudarśanām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,6 +139,12 @@ made of plant creepers, art houses, and nocturnal houses but did not see Her wit
 
 That great Hanuma then later not seeing that Seetha dear to Rama thought thus: "to me searching
 Seetha in whatever way appearance not being obtained, from that Seetha definitely has died."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not seeing that beloved of Raghu’s scion (priyām apaśyan raghunandanasya tām), the great monkey then reflected (sa cintayāmāsa): “Surely Sītā lives no more (dhruvaṃ na sītā dhriyate), inasmuch as Maithilī does not come within my view (na me darśanam eti) even as I search everywhere (vicinvataḥ).
 </details>
 </details>
 
@@ -193,6 +205,12 @@ certain.
 "That Seetha standing in the best traditional path being chaste interested, in preserving her character
 must have been killed by the king of these Rakshasas who performed evil deeds - this is certain."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Devoted to guarding her own chaste conduct (svaśīlasaṃrakṣaṇatatparā) and abiding upon the supreme path of the noble (āryapathe pare sthitā), that chaste Jānakī (sā satī jānakī) must surely have been slain (nūnaṃ hatā bhavet) by this chief of rākṣasas of thoroughly wicked deeds (prati duṣṭakarmaṇā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -252,6 +270,12 @@ long and crooked eyes.
 "That daughter of King Janaka died of fear seeing the wives of Ravana with crooked appearances
 - horrible ones without radiance with great faces with long and crooked eyes."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or else, beholding those female attendants of the rākṣasa king (tā rākṣasarājayoṣitaḥ)—misshapen of form (virūparūpāḥ), deformed (vikṛtāḥ), lustreless (vivarcasaḥ), huge-mawed (mahānanāḥ), and of long, hideous eyes (dīrghavirūpadarśanāḥ)—the daughter of King Janaka has perished from terror (bhayād vinaṣṭā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -306,6 +330,12 @@ is no path; *sugriiva samiipagaa* = to go near Sugreeva; *vaanaraH* = Sugreeva; 
 "Without seeing Seetha, not obtaining destiny and wandering for a long time together with Vanaras,
 to me there is not a path to go near Sugreeva. Sugreeva has a sharp punishment and also is strong."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without having seen Sītā (sītām adṛṣṭvā) and without having achieved heroic success (anavāpya pauruṣaṃ), after tarrying a long time with the monkeys (vihṛtya kālaṃ saha vānaraiś ciram), there is no way for me to return to Sugrīva’s presence (na me 'sti sugrīvasamīpagā gatiḥ); for that monkey king is mighty and most severe in punishment (sutīkṣṇadaṇḍaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -353,6 +383,12 @@ chaste; *siitaa* = Seetha; *na dR^ishyate* = has not been seen; *mama shramaH* =
 "All inner city has been seen. Women of Ravana have been seen. The chaste Seetha has not been seen.
 My effort became wastefull."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All the inner apartments have been searched (dṛṣṭam antaḥpuraṃ sarvaṃ), and the consorts of Rāvaṇa have been seen (dṛṣṭā rāvaṇayoṣitaḥ); yet the virtuous Sītā is not seen (na sītā dṛśyate sādhvī), and my toil has proved in vain (vṛthā jāto mama śramaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -392,6 +428,12 @@ been done; *tvayaa* = by you; *tat vadasva* = tell that; *naH* = to us.
 
 "To me who has gone back all Vanaras after meeting what they would say? O strong one! Going there,
 what has been done by you? Tell that to us."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What indeed will all the assembled monkeys (vānarāḥ sarve saṃgatāḥ) say to me when I return (māṃ gataṃ vakṣyanti), [asking]: ‘Having gone there, O hero, what did you accomplish? Tell us that (tad vadasva naḥ)!’
 </details>
 </details>
 
@@ -442,6 +484,12 @@ kim* = what; *pravakshyaami* = can I say; *vyativartane* = due to passing; *kaal
 "Without seeing that Seetha what can I say? Due to passing of time, definitely they will obtain
 fire."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without having seen that daughter of Janaka (adṛṣṭvā tāṃ janakātmajām), what answer shall I give (kiṃ pravakṣyāmi)? Now that the appointed time has elapsed (kālasya vyativartane), I shall surely sit in fasting unto death (dhruvaṃ prāyam upāsiṣye).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -489,6 +537,12 @@ fire."
 "To me who had gone for the other shore of the ocean what will the old Jambavan say? What would
 that Angada and vanaras who meet say?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or what will aged Jāmbavān (vṛddhaś ca jāmbavān) and that Aṅgada say to me when I have recrossed to the farther shore of the ocean (gataṃ pāraṃ samudrasya), and what will the assembled monkeys say (vānarāś ca samāgatāḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -533,6 +587,12 @@ that Angada and vanaras who meet say?"
 
 "Non-depression is root of development. Absence of despondency is the greatest comfort. Self reliance
 always is indeed the promoter in all matters."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet freedom from despondency is the root of prosperity (anirvedaḥ śriyo mūlam), and freedom from despondency is the supreme happiness (paraṃ sukham); I shall search once more (bhūyas tatra viceṣyāmi) wherever no search has yet been made (na yatra vicayaḥ kṛtaḥ).
 </details>
 </details>
 
@@ -589,6 +649,12 @@ prayatnam* = a best effort; *anirvedakR^itam* = together with non-depression; *v
 that reason I will perform a best effort together with non-depression. I will search all those regions ruled by
 Ravana not yet seen."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For undaunted perseverance (anirvedaḥ) ever impels a man in all undertakings (satataṃ sarvārtheṣu pravartakaḥ), and renders fruitful (karoti saphalaṃ) whatever deed a creature performs (jantoḥ karma yac ca karoti saḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -613,6 +679,12 @@ Ravana not yet seen."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदुदरिन्द प्रयत्नदल्लि निराशनागदॆ उत्साहदिन्द चॆन्नाद प्रयत्नवन्नु मुन्दवरिसुत्तेनॆ. रावणनिन्द पालिसल्पट्ट, इदुवरॆविगू हुडुकदे इरुव स्थळगळल्लि पुनः सीतॆयन्नु हुडुकुत्तेनॆ.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore I shall put forth supreme effort (yatnaṃ ceṣṭe 'ham uttamam) born of undaunted resolve (anirvedakaraṃ), and I shall search the places guarded by Rāvaṇa (deśān rāvaṇapālitān) that I have not yet seen (adṛṣṭān).”
 </details>
 </details>
 
@@ -674,6 +746,14 @@ also small houses faraway from the main houses.
 Thus thinking Hanuma began to search again undergrounds, houses at the beginning of street intersections
 and also small houses faraway from the main houses.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “The drinking halls have been searched (āpānaśālā vicitāḥ), and so too the flower-pavilions (puṣpagṛhāṇi ca); the painted galleries (citraśālāś ca) have been searched, and likewise the sporting-chambers (krīḍāgṛhāṇi ca),
+
+**14:** “as well as the lanes within the pleasure-groves (niṣkuṭāntararathyāś ca) and the palace-towers (vimānāni ca) on every side.” Reflecting thus (iti saṃcintya), he began once more to search (bhūyo 'pi vicetum upacakrame),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -697,6 +777,12 @@ _________________
 
 वे भूमिके भीतर बने हुए घरों (तहखानों)-में, चौराहोंपर बने हुए मण्डपोंमें तथा घरोंको लाँघकर उनसे थोड़ी ही दूरपर बने हुए विलास-भवनोंमें सीताकी खोज करने लगे । वे किसी घरके ऊपर चढ़ जाते, किसीसे नीचे कूद पड़ते, कहीं ठहर जाते और किसीको चलते-चलते ही देख लेते थे ॥ १५ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[exploring] underground chambers (bhūmīgṛhān), crossroads pavilions (caityagṛhān), and secluded turret-retreats (gṛhātigṛhakān api)—leaping up (utpatan), dropping down (nipataṃś cāpi), pausing (tiṣṭhan), and moving on again (gacchan punaḥ kvacit),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -719,6 +805,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 घरोंके दरवाजोंको खोल देते, कहीं किंवाड़ बंदकर देते, किसीके भीतर घुसकर देखते और फिर निकल आते थे । वे नीचे-कूदते और ऊपर उछलते हुए-से सर्वत्र खोज करने लगे ॥ १६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+unbarring doorways (apavṛṇvaṃś ca dvārāṇi), pushing against folding panels (kapāṭāny avaghaṭṭayan), entering (praviśan), darting out (niṣpataṃś cāpi), plunging down, and springing aloft (prapatann utpatann iva).
 </details>
 </details>
 
@@ -765,6 +857,12 @@ na vidhyate* = was not there; *chaturaN^guLa maatro.api* = even for four angulas
 
 That Hanuma in that city of Ravana - whatever region he did not go that region was not there even
 for four angulas.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That great monkey traversed every single space (sarvam apy avakāśaṃ vicacāra); within that inner palace of Rāvaṇa (rāvaṇāntaḥpure tasmin), there was not a space even four finger-breadths wide (caturaṅgulamātro 'pi nāvakāśaḥ sa vidyate) where that monkey did not go (yaṃ kapir na jagāma saḥ).
 </details>
 </details>
 
@@ -831,6 +929,12 @@ pushing doors and entering inside, coming out, climbing down, climbing up wander
 Streets between fort walls, platforms together with the intersection of four streets, wells, lakes
 all these had been seen by him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The avenues within the rampart walls (prākārāntaravīthyaś ca), the raised platforms around the sacred caitya trees (vedikāś caityasaṃśrayāḥ), the subterranean pits (śvabhrāś ca), and the lotus-ponds (puṣkariṇyaś ca)—all were inspected by him (sarvaṃ tenāvalokitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -880,6 +984,12 @@ _________________
 Rakshasa women of various forms, with crooked forms and horrific forms had been seen there by Hanuma
 but not that Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rākṣasa women of diverse shapes (rākṣasyo vividhākārāḥ), misshapen (virūpāḥ) and hideous (vikṛtās tathā), were seen there by Hanumān (dṛṣṭā hanumatā tatra), but not that daughter of Janaka (na tu sā janakātmajā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -928,6 +1038,12 @@ Seetha.
 The best Vidhyadhara women incomparable by beauty in the world had been seen there by Hanuma, but
 not Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Supreme women of the vidyādharas (parā vidyādharastriyaḥ), peerless in beauty across the world (rūpeṇāpratimā loke), were seen there by Hanumān, but not the delight of Rāghava (na tu rāghavanandinī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -974,6 +1090,12 @@ puurNachandra nibhaananaaH* = with faces equaling full moon; *dR^ishhTaaH* = had
 
 Naaga women with beautiful buttocks, with faces equaling full moon had been seen by Hanuma there,
 but not Seetha with a beautiful waist.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exquisitely hipped nāga maidens (nāgakanyā varārohāḥ) with faces resembling the full moon (pūrṇacandranibhānanāḥ) were seen there by Hanumān, but not that daughter of Janaka (na tu sā janakātmajā).
 </details>
 </details>
 
@@ -1023,6 +1145,12 @@ that Seetha.
 Naaga women who had been stolen forcefully, being defeated by Ravana had been seen there by Hanuma,
 not that Seetha
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nāga maidens carried off by force (nāgakanyā balād dhṛtāḥ) by the lord of rākṣasas after crushing [their protectors] (pramathya rākṣasendreṇa) were seen there by Hanumān, but not that delight of Janaka (na sā janakanandinī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1070,6 +1198,12 @@ Seetha; *pasyan* = seeing; *anyaaH* = other; *varastriyaH* = best women; *vishha
 That Hanuma with great arms, the wise one, the son of Vayu not seeing that Seetha and seeing other
 women became depressed again and again.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not seeing her (so 'paśyaṃs tāṃ), though beholding other noble women (paśyaṃś cānyā varastriyaḥ), that mighty-armed Hanumān, the mighty-armed son of Marut (mahābāhur hanūmān mārutātmajaḥ), sank into dejection (viṣasāda).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1100,6 +1234,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 उन वानरशिरोमणि वीरोंके उद्योग और अपने द्वारा किये गये समुद्रलंघनको व्यर्थ हुआ देखकर पवनपुत्र हनुमान् वहाँ पुनः बड़ी भारी चिन्तामें पड़ गये ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing that the exertion of the monkey chiefs (udyogaṃ vānarendrāṇāṃ) and his own leaping across the ocean (plavanaṃ sāgarasya ca) had proved fruitless (vyarthaṃ vīkṣya), the son of the Wind-god fell once more into anxious thought (cintāṃ punar upāgataḥ).
 </details>
 </details>
 
@@ -1173,6 +1313,12 @@ with grief.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि हन्नॆरडनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Descending from the Puṣpaka aerial palace (avatīrya vimānāc ca), Hanumān, the son of Marut, his mind overwhelmed by grief (śokopahatacetanaḥ), then sank into deep reflection (cintām upajagāmātha).
 </details>
 </details>
 

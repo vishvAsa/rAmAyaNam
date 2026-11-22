@@ -36,6 +36,12 @@ title = "०२५ मधु-सङ्गमनम्"
 
 राक्षसर भयङ्कर सैन्यवन्नु खरनिगॆ ऒप्पिसि, तङ्गिगॆ धैर्य हेळि रावणनु बहळ स्वस्थचित्तनागि सन्तोषगॊण्डनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bestowed that dreadful forest upon Khara (vanaṃ ghoraṃ kharasya) and consoled his sister (bhaginīṃ ca samāśvāsya), the ten-necked lord grew delighted and far more at ease (hṛṣṭaḥ svasthataro ’bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "०२५ मधु-सङ्गमनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 बळिक बलवन्त राक्षसेन्द्र रावणनु लङ्कॆय उपवनवाद निकुम्भिळा ऎम्बल्लिगॆ होदनु. अवन जॊतॆगॆ अनेक सेवकरू इद्दरु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that mighty lord of the rākṣasas (rākṣasendro balavān), attended by his followers (sahānugaḥ), entered the peerless pleasure-grove of Laṅkā known as Nikumbhilā (nikumbhilā nāma laṅkopavanam uttamam).
 </details>
 </details>
 
@@ -86,6 +98,12 @@ title = "०२५ मधु-सङ्गमनम्"
 
 रावणनु तन्न शोभॆयिन्द अग्नियन्तॆ प्रज्वलिसुत्तिद्दनु. अवनु निकुम्भिळॆगॆ होगि नोडुत्तानॆ- ऒन्दु यज्ञ नडॆयुत्तिद्दु, नूरारु यूपगळिन्द, सुन्दर देवालयगळिन्द सुशोभितवागित्तु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There he beheld a sacrifice already in progress (dadarśa viṣṭhitaṃ yajñam), bristling with a hundred sacrificial posts (yūpa-śatākīrṇam), graced with a serene shrine (saumya-caityopaśobhitam), and blazing as it were with splendor (śriyā samprajvalann iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +128,12 @@ title = "०२५ मधु-सङ्गमनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ अवनु तन्न पुत्र मेघनादनन्नु नोडिदनु. अवनु कप्पाद मृगचर्मवन्नु, कमण्डलु, शिखॆ, ध्वज धरिसिकॊण्डु भयङ्करवागि काणुत्तिद्दनु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And there he saw his own fearsome son Meghanāda (svasutaṃ ... meghanādaṃ bhayāvaham), clad in the hide of a black antelope (kṛṣṇājina-dharam) and bearing water-pot, topknot, staff, and emblem (kamaṇḍalu-śikhā-dhvajam).
 </details>
 </details>
 
@@ -136,6 +160,12 @@ title = "०२५ मधु-सङ्गमनम्"
 
 अवन बळिगॆ होगि लङ्केश्वरनु अवनन्नु अप्पिकॊण्डु केळिदनु- मग! इदेनु माडुत्तिरुवॆ? सरियागि तिळिसु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching him, the lord of Laṅkā embraced him with his arms (pariṣvajyātha bāhubhiḥ) and spoke: “What is this observance you are performing, my child (kim idaṃ vatsa vartase)? Tell me truly (brūhi tattvataḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -161,6 +191,12 @@ title = "०२५ मधु-सङ्गमनम्"
 
 (मेघनादनु यज्ञद नियमदिन्दागि मौनवागिद्दनु.) आग यज्ञ सम्पत्समृद्धिगागि अल्लिगॆ बन्द पुरोहित महातपस्वी द्विजश्रेष्ठ शुक्राचार्यरु रावणनल्लि हेळिदरु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Uśanas, foremost of the twice-born and mighty in austerity (dvija-śreṣṭho mahātapāḥ), spoke to Rāvaṇa, foremost of rākṣasas, for the full perfection of the sacrifice (yajña-sampat-samṛddhaye):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -185,6 +221,12 @@ title = "०२५ मधु-सङ्गमनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! नानॆल्लवन्नु तिळिसुवॆनु. गमनविट्टु केळु - निम्म पुत्रनु तुम्बा विस्तारदिन्द एळु यज्ञगळ अनुष्ठान माडुत्तिद्दानॆ.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall recount it to you, O King—hear all of it (aham ākhyāmi te rājañ chrūyatāṃ sarvam eva tat)! Seven far-reaching sacrifices have been accomplished by your son (yajñās te sapta putreṇa prāptāḥ subahuvistarāḥ):
 </details>
 </details>
 
@@ -215,6 +257,14 @@ title = "०२५ मधु-सङ्गमनम्"
 
 अग्निष्टोम, अश्वमेध, बहु सुवर्णक, राजसूय, गोमेध, वैष्णव - हीगॆ आरु यज्ञगळन्नु पूर्णगॊळिसि ई एळनॆय बेरॆयवरिगॆ अत्यन्त दुर्लभवाद माहेश्वर यज्ञवन्नु प्रारम्भिसिदाग निन्न मगनिगॆ साक्षात् भगवान् पशुपतियिन्द अनेक वरगळु प्राप्तवादुवु.॥8-9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** “The Agniṣṭoma and the Aśvamedha, the Bahusuvarṇaka sacrifice (yajño bahusuvarṇakaḥ), likewise the Rājasūya sacrifice, the Gomedha, and the Vaiṣṇava—
+
+**9:** “And when the Māheśvara sacrifice—most difficult for mortals to attain (pumbhiḥ sudurlabhe)—was set in motion, your son obtained boons directly here from Paśupati himself (sākṣāt paśupater iha):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -239,6 +289,12 @@ title = "०२५ मधु-सङ्गमनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 जॊतॆगॆ स्वेच्छाचारियाद ऒन्दु आकाशचारी रथवू, तामसी ऎम्ब मायॆयू उत्पन्नवागिदॆ. इदरिन्द अन्धकार उण्टु माड बल्लदु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“A wish-driven celestial chariot moving through the firmament, indestructible (kāmagaṃ syandanaṃ divyam antarikṣacaraṃ dhruvam), and the illusion named Tāmasī, by which utter darkness is produced (māyāṃ ca tāmasīṃ nāma yayā sampadyate tamaḥ).
 </details>
 </details>
 
@@ -265,6 +321,12 @@ title = "०२५ मधु-सङ्गमनम्"
 
 राक्षसेश्वरने! सङ्ग्रामदल्लि ई मायॆयन्नु प्रयोगिसिदाग देवासुररिगू कूड प्रयोगिसुव पुरुषन गति-विधिगळु तिळियलारदु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, O lord of rākṣasas, when that illusion is deployed in battle (etayā ... māyayā ... prayuktayā), neither gods nor asuras can discern one’s movements (gatiḥ śakyā na hi jñātuṃ surāsuraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -289,6 +351,12 @@ title = "०२५ मधु-सङ्गमनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! बाणगळिन्द तुम्बिद ऎरडु अक्षय बत्तळिकॆगळु, मुरियदिरुव धनुस्सु, रणरङ्गदल्लि शत्रुवन्नु ध्वंसगॊळिसुव प्रबल अस्त्र इवॆल्लवुगळ प्राप्तियू आगिदॆ.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Two quivers inexhaustible in arrows (akṣayāv iṣudhī bāṇaiḥ), a bow most hard to overcome (cāpaṃ cāpi sudurjayam), and a mighty missile, O King, that destroys foes in battle (astraṃ ca balavad ... śatru-vidhvaṃsanaṃ raṇe).
 </details>
 </details>
 
@@ -318,6 +386,12 @@ _________________
 
 दशानन! निन्न ई पुत्रनु इदॆल्ल मनोवाञ्छित वरगळन्नु पडॆदु, इन्दु यज्ञद समाप्तिय दिन निन्नन्नु दर्शिसुव इच्छॆयिन्द इल्लि निन्तिरुवनु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having obtained all these boons, O ten-faced lord, this son of yours—and I too—have waited here today at the sacrifice’s close, eager to behold you (tvāṃ didṛkṣuḥ sthito hy aham).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,6 +417,12 @@ _________________
 
 इदन्नु केळि दशग्रीवनु हेळिदनु - मगने! नीनु माडिदुदु चॆन्नागिल्ल; एकॆन्दरॆ ई यज्ञ सम्बन्धी द्रव्यगळिन्द नन्न शत्रुवाद इन्द्रादि देवतॆगळ पूजॆ नडॆयितु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the ten-necked one spoke: “This was not well done (na śobhanam idaṃ kṛtam), inasmuch as our enemies headed by Indra have been worshipped with sacrificial offerings (pūjitāḥ śatravo yasmād dravyair indra-purogamāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -367,6 +447,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इरलि, माडिदुदु ऒळ्ळॆयदे आयितु, इदरल्लि संशयविल्ल. सौम्य! ईग नडॆ, नावु नम्म अरमनॆगॆ होगोण.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Come now—know that what is done is well done, no doubt (kṛtaṃ viddhi sukṛtaṃ tan na saṃśayaḥ). Come, gentle son, let us return to our own palace (gacchāmaḥ svam eva bhavanaṃ prati)!”
 </details>
 </details>
 
@@ -396,6 +482,12 @@ _________________
 
 बळिक दशग्रीवनु पुत्र मत्तु विभीषणनॊन्दिगॆ होगि पुष्पक विमानदिन्द तानु अपहरिसि तन्द स्त्रीयरन्नु इळिसिदनु. अवरॆल्लरू कम्बनिगरॆयुत्ता गद्गदरागि विलापिसुत्तिद्दरु.॥16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the ten-necked king returned home with his son and Vibhīṣaṇa (saputraḥ savibhīṣaṇaḥ), and brought down from his car all those captive women, their voices choked with tears (sarvās tā bāṣpa-gadgadāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -423,6 +515,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरु उत्तम लक्षणगळिन्द शोभिसुत्ता, देव - दानव - राक्षसर मनॆय रत्नगळिद्दवु. अवरल्लि रावणनिगॆ इरुव आसक्तियन्नु नोडि धर्मात्मा विभीषणनु हेळिदनु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—women graced with auspicious marks and prized as jewels among gods, dānavas, and rākṣasas (lakṣiṇyo ratna-bhūtāś ca deva-dānava-rakṣasām). Perceiving his brother’s wicked intent toward them (tasya tāsu matiṃ jñātvā), the righteous-souled one spoke these words:
 </details>
 </details>
 
@@ -452,6 +550,12 @@ _________________
 
 राजने! ई आचरणवु यश, धन, कुलद नाश माडुवन्तहदु. इदरिन्द याव प्राणिगळन्नु पीडिसलागुवुदो अदरिन्द पाप बरुत्तदॆ. इदन्नु तिळिदिद्दरू कूड नीवु सदाचारवन्नु उल्लङ्घिसि स्वेच्छाचारदल्लि प्रवृत्तरागुत्तिरुविरल्ल.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With such deeds as destroy fame, fortune, and lineage (yaśo-’rtha-kula-nāśanaiḥ), even knowing the outrage inflicted upon kinsmen (dharṣaṇaṃ jñātīnāṃ jñātvā), you act solely by your own willful whim (svamatena viceṣṭase)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -476,6 +580,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाराजा ! ई बडपायि अबलॆयर बन्धुबान्धवरन्नु कॊन्दु नीवु इवरन्नु अपहरिसि तन्दिरुविरि. इल्लि निम्मन्नु तिरस्करिसि निम्म तलॆयन्नु मॆट्टि मधुवु चिक्कम्मन मगळाद नम्म तङ्गि कुम्भीनसियन्नु अपहरिसिरुवनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Overpowering those kinsmen, you brought these fair women here (jñātīṃs tān dharṣayitvemās tvayānītā varāṅganāḥ); now, disregarding you, O King, Madhu has carried off Kumbhīnasī (tvām atikramya madhunā ... kumbhīnasī hṛtā)!”
 </details>
 </details>
 
@@ -502,6 +612,12 @@ _________________
 
 रावणनॆन्द - नीनु हेळुवुदु ननगॆ तिळियुत्तिल्ल. नीनु हेळिद मधुवु यारागिद्दानॆ.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāvaṇa spoke these words: “I do not understand what this affair is (nāvagacchāmi kiṃ tv idam)! Who is this one whom you have just named as Madhu (ko ’yaṃ yas tu tvayākhyāto madhur ity eva nāmataḥ)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -526,6 +642,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग विभीषणनु कुपितनागि अण्ण रावणनल्लि हेळिदनु - केळु, निम्म ई पापद फलवु तङ्गिय अपहरण रूपदिन्द नमगॆ दॊरकिदॆ.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Vibhīṣaṇa, filled with indignation (saṅkruddhaḥ), spoke to his brother: “Hear how the fruit of this sinful deed has come home (śrūyatām asya pāpasya karmaṇaḥ phalam āgatam)!
 </details>
 </details>
 
@@ -567,6 +689,16 @@ _________________
 
 सुमालियु नम्म मातामहनॆम्बुदु निनगू तिळिदिदॆ. नम्म अज्जन दॊड्डण्ण माल्यवन्तनु विख्यातनागिद्दनु. अवनु महाप्राज्ञनागिद्दनु. अवनु नम्म तायि कैकसॆय दॊड्डप्पनू हागू नमगॆ दॊड्डज्जनू हौदु. अवन पुत्रि अनलॆयु नमगॆ चिक्कम्मनागबेकु. अवळ पुत्री कुम्भीनसी नमगॆल्लरिगॆ धर्मरीतियिन्द तङ्गियागिरुवळु.॥22-24॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** “He who is the elder brother of our maternal grandfather Sumālin (mātāmahasya yo bhrātā jyeṣṭho bhrātā sumālinaḥ), the aged and wise night-roamer renowned as Mālyavān (mālyavān iti vikhyāto vṛddhaḥ prājño niśācaraḥ)—
+
+**23:** “He was our mother’s senior father and our own elder maternal grandfather (pitā jyeṣṭho jananyā no hy asmākaṃ cāryako ’bhavat); his daughter’s daughter was she named Kumbhīnasī (tasya kumbhīnasī nāma duhitur duhitā ’bhavat).
+
+**24:** “Born of Analā, our mother’s cousin-sister (mātṛṣvasur athāsmākaṃ sā ca kanyā ’nalodbhavā), she stands by dharma as sister to us brothers (bhavaty asmākam evaiṣā bhrātṛṇāṃ dharmataḥ svasā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -596,6 +728,14 @@ _________________
 
 राजने! निम्म पुत्र मेघनादनु यज्ञ तत्परनागिद्दाग, नानु तपस्सिगागि नीरॊळगॆ मुळुगिद्दॆ. अण्ण कुम्भकर्णनु निद्दॆयल्लिद्द. आग महाबलि राक्षस मधुवु इल्लिगॆ बन्दु नम्म आदरणीय मन्त्रिगळन्नु, श्रेष्ठ राक्षसरन्नु कॊन्दु, कुम्भीनसियन्नु अपहरिसिकॊण्डु होदनु.॥25-26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**25:** “She was carried off, O King, by the mighty rākṣasa Madhu (madhunā ... rākṣasena balīyasā), while your son was engaged in his sacrifice (yajña-pravṛtte putre tu) and I was dwelling beneath the waters (mayi cāntarjaloṣite),
+
+**26:** “And while Kumbhakarṇa, O great King, was immersed in sleep (nidrām anubhavaty atha); slaying your foremost rākṣasa ministers honored here (nihatya rākṣasa-śreṣṭhān amātyān iha sammatān),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -623,6 +763,12 @@ _________________
 
 महाराजा! कुम्भीनसियु अन्तःपुरदल्लि सुरक्षितळागिद्दरू अवनु आक्रमण माडि बलवन्तवागि अपहरिसिदनु. इदन्नु केळियू नावु क्षमिसिदॆवु. मधुवन्नु वधिसलिल्ल; एकॆन्दरॆ कन्यॆयु विवाह योग्यळादाग आकॆयन्नु योग्यपतिय कैगॊप्पिसुवुदु उचितवागिदॆ. अण्णन्दिराद नावु ई कार्यवन्नु मॊदले माडबेकागित्तु.॥27½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He overpowered and abducted her even as she slept within your inner palace (dharṣayitvā hṛtā sā tu suptāpy antaḥpure tava). Though hearing of it, O great King, we bore it in patience and did not slay him (kṣāntam eva hato na saḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -647,6 +793,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नम्मल्लिन्द बलात्कारवागि कन्यॆय अपहरणवादुदु निम्म दूषितबुद्धि हागू पापकर्मद फलवागिदॆ, अदु निमगॆ इदे लोकदल्लि दॊरकितु. इदु निमगॆ चॆन्नागि तिळिदिरबेकागित्तु.॥28½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since a maiden must inevitably be given by her brothers to a husband (yasmād avaśyaṃ dātavyā kanyā bhartre hi bhrātṛbhiḥ). This then, O foolish-minded one, is the fruit of that sinful deed of yours (phalaṃ pāpasya durmate),
 </details>
 </details>
 
@@ -674,6 +826,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 विभीषणन ई मातन्नु केळि रावणनु कुदियुत्तिरुव समुद्रदन्तॆ तन्न दुष्ट स्वभावदिन्दले परितपिसिदनु. कोपदिन्द कॆङ्गण्णनाद रावणनु गर्जिसुत्ता हेळिदनु .॥29-3.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** “Come to pass in this very world—let it be known to you (asminn evābhisamprāptaṃ loke viditam astu te)!” Hearing Vibhīṣaṇa’s words, that lord of rākṣasas, Rāvaṇa, convulsed by his own wickedness (daurātmyenātmanoddhūtaḥ), churned like an ocean of scalding waters (taptāmbha iva sāgaraḥ).
+
+**30:** Then the ten-necked king spoke, enraged and with blood-red eyes (kruddhaḥ saṃraktalocanaḥ): “Let my chariot be made ready at once (kalpyatāṃ me rathaḥ śīghram)! Let our heroes arm themselves (śūrāḥ sajjībhavantu naḥ)!
 </details>
 </details>
 
@@ -712,6 +872,14 @@ _________________
 
 नन्न रथवन्नु हूडि आवश्यक सामग्रिगळिन्द सुसज्जितगॊळिसिरि. नन्न शूरवीर सैनिकरु रणयात्रॆगागि सिद्धरागलि. तम्म कुम्भकर्णने आदि मुख्य-मुख्य निशाचररु वाहनगळन्नेरि हॊरडलि. रावणनिगॆ हॆदरदे इरुव मधु युद्धदल्लि वधिसि, मित्ररॊन्दिगॆ युद्धक्कागि देवलोकक्कॆ यात्रॆ माडुवॆनु.॥31-32½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** “Let my brother Kumbhakarṇa and all the foremost night-roamers (ye ca mukhyā niśācarāḥ) mount their vehicles (vāhanāny adhirohantu), bearing manifold weapons and missiles (nānā-praharaṇāyudhāḥ)!
+
+**32:** “Having slain today in battle that Madhu who has no fear of Rāvaṇa (madhuṃ rāvaṇa-nirbhayam), I shall march to the world of the gods (suralokaṃ gamiṣyāmi), eager for war and surrounded by my allies (yuddha-kāṅkṣī suhṛd-vṛtaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -736,6 +904,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रावणन अप्पणॆयन्तॆ युद्धोत्साहि श्रेष्ठ राक्षसर नाल्कु साविर अक्षौहिणि सैन्यवु नाना प्रकारद अस्त्र-शस्त्रगळन्नु धरिसि अवसरदिन्द लङ्कॆयिन्द हॊरटितु.॥33½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Four thousand foremost akṣauhiṇī divisions of rākṣasas (akṣauhiṇī-sahasrāṇi catvāry agryāṇi rakṣasām), armed with diverse weapons and eager for combat (yuddha-kāṅkṣiṇām), swiftly sallied forth (āśu niryayuḥ).
 </details>
 </details>
 
@@ -762,6 +936,12 @@ _________________
 
 मेघनादनु समस्त सैन्यदॊन्दिगॆ अग्रेसरनादरॆ, रावणनु नडुविनल्लिद्दनु. कुम्भकर्णनु हिन्दिनिन्द हिम्बालिसिदनु.॥34½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indrajit marched ahead of the army, rallying the soldiers (indrajit tv agrataḥ sainyāt sainikān parigṛhya ca); Rāvaṇa went in the center (jagāma rāvaṇo madhye), and Kumbhakarṇa in the rear (kumbhakarṇaś ca pṛṣṭhataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -786,6 +966,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 धर्मात्मनाद विभीषणनु लङ्कॆयल्ले उळिदु धर्माचरण माडतॊडगिदनु. उळिद ऎल्ल महाभाग निशाचररु मधुपुरिय कडॆगॆ हॊरटरु.॥35½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The righteous-souled Vibhīṣaṇa remained in Laṅkā practicing dharma (laṅkāyāṃ dharmam ācarat), while all the remaining mighty warriors marched toward Madhupura (śeṣāḥ sarve mahābhāgā yayur madhupuraṃ prati).
 </details>
 </details>
 
@@ -812,6 +998,12 @@ _________________
 
 कत्तॆ, ऒण्टे, कुदुरॆ, नीरबॆक्कु, महासर्प इवुगळन्ने वाहनगळन्नागिसिकॊण्डु आकाशदल्लि अवकाशवे इल्लद रीतियिन्द रावणन सैन्य प्रयाणमाडुत्तिद्दरु.॥36½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounted on asses, camels, blazing steeds, crocodiles, and great serpents (kharair uṣṭrair hayair dīptaiḥ śiṃśumāraiḥ mahoragaiḥ), all the rākṣasas marched onward, packing the sky without a gap (kṛtvā ’’kāśaṃ nirantaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -831,6 +1023,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 रावणको देवलोकपर आक्रमण करते देख सैकड़ों दैत्य भी उसके पीछे-पीछे चले, जिनका देवताओंके साथ वैर बँध गया था ॥ ३७ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hundreds of Daityas there who harbored ancient enmity with the gods (daityāś ca śataśas tatra kṛta-vairāś ca daivataiḥ), beholding Rāvaṇa on the march, followed closely behind him (anvagacchan hi pṛṣṭhataḥ).
 </details>
 </details>
 
@@ -857,6 +1055,12 @@ _________________
 
 रावणनु देवलोकवन्नु आक्रमिसलु होगुत्तिरुवुदन्नु नोडि देवतॆगळ बद्धवैरिगळाद नूरारु दैत्यरू अवनन्नु हिम्बालिसिदरु.॥37½-38½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached and entered Madhupura (gatvā madhupuraṃ praviśya ca), the ten-faced king did not find Madhu there, but beheld his sister (bhaginīṃ tatra dṛṣṭavān); and bowing low with joined palms (prahvāñjalir bhūtvā), she fell with her head to his feet (śirasā caraṇau gatā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -882,6 +1086,12 @@ _________________
 
 मधुपुरिगॆ होदरावणनु कुम्भीनसियन्नु नोडिदनु, आदरॆ मधुविन दर्शनवागलिल्ल. आग कुम्भीनसियु भयगॊण्डु कैमुगिदु राक्षसराज रावणन कालिगॆरगिदळु.॥39½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—she, the frightened Kumbhīnasī (trastā kumbhīnasī tadā), at the feet of that rākṣasa king. Lifting her up (tāṃ samutthāpayām āsa), he spoke, saying, “Do not be afraid (na bhetavyam iti bruvan)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -906,6 +1116,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग रावणनु ‘हॆदरबेड’ ऎन्दु हेळि कुम्भीनसियन्नु ऎत्ति नानु निन्न याव प्रियकार्यवन्नु माडली ऎन्दु केळिदनु.॥40½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Rāvaṇa, foremost of rākṣasas, asked: “What else may I do for you (kiṃ cāpi karavāṇi te)?” She replied: “If you are pleased with me, O mighty-armed King (yadi me rājan prasannas tvaṃ mahābhuja), you ought not to slay my husband here today, O bestower of honor (bhartāraṃ na mamehādya hantum arhasi mānada)!
 </details>
 </details>
 
@@ -936,6 +1152,14 @@ _________________
 
 कुम्भीनसी हेळिदळु - बेरॆयवरिगॆ मान कॊडुव महाबाहुवे ! नीनु नन्न मेलॆ प्रसन्न नागिद्दरॆ नन्न पतियन्नु वधिसबेड; एकॆन्दरॆ कुल वधुगळिगॆ वैधव्यदन्तह बेरॆ यावुदे भयविल्ल. वैधव्यवे नारिगॆ ऎल्लक्किन्त दॊड्ड सङ्कटवागिदॆ.॥41-42½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** “For no terror like this is spoken of here for noble women (na hīdṛśaṃ bhayaṃ kiñcit kulastrīṇām ihocyate); even among all terrors, widowhood is the greatest calamity (bhayānām api sarveṣāṃ vaidhavyaṃ vyasanaṃ mahat)!
+
+**42:** “Be true to your word, O King of kings, and look kindly upon me as I entreat you (satyavāg bhava rājendra mām avekṣasva yācatīm)! You yourself declared, O great King, ‘Do not be afraid (na bhetavyam iti svayam)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -964,6 +1188,12 @@ _________________
 
 राजेन्द्रने! नीनु सत्यवादियागिरुवॆ. तन्न मातन्नु निजगॊळिसु. नानु निन्नल्लि पतिभिक्षॆयन्नु बेडुत्तिद्देनॆ. दुःखितॆयाद निन्न तङ्गियन्नु नोडि नन्न मेलॆ कृपॆदोरु. महाराजने! ‘हॆदरबेड’ ऎन्दु नीने हेळिरुवॆ. आ मातन्नु नडॆसिकॊडु.॥43½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāvaṇa spoke, delighted, to his sister standing there (rāvaṇas tv abravīd dhṛṣṭaḥ svasāraṃ tatra saṃsthitām): “Tell me swiftly where that husband of yours is (kva cāsau tava bhartā vai mama śīghraṃ nivedyatām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -990,6 +1220,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदन्नु केळि रावणनिगॆ सन्तोषवायितु. निन्न पति ऎल्लिद्दानॆ? ऎन्दु तङ्गिय बळि केळिदनु. अवनन्नु बेगने करॆदु ता. अवनन्नु जॊतॆगॆ करॆदुकॊण्डु देवलोकक्कॆ विजयक्कागि होगुवॆनु.॥44-4.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**44:** “Together with him I shall march to the world of the gods that brings victory (saha tena gamiṣyāmi suralokaṃ jayāvahe); out of compassion and affection for you, I have desisted from slaying Madhu (tava kāruṇya-sauhārdān nivṛtto ’smi madhor vadhāt)!”
+
+**45:** Thus addressed, that rākṣasa woman roused her sleeping husband (samutthāpya prasuptaṃ taṃ niśācaram), and as if overjoyed (samprahṛṣṭeva), spoke these words to her lord:
 </details>
 </details>
 
@@ -1018,6 +1256,12 @@ _________________
 
 निन्न कुरिताद सौहार्ददिन्दागि मधुवन्नु कॊल्लुव विचार नानु बिट्टिरुवॆनु. रावणनु हीगॆ हेळिदाग राक्षसकन्यॆ कुम्भीनसियु सन्तोषगॊण्डु मलगिद्द तन्न पतिय बळिगॆ होगि, अवनन्नु ऎब्बिसि हेळिदळु.॥46½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here has arrived my mighty brother Daśagrīva (eṣa prāpto daśagrīvo mama bhrātā mahābalaḥ); eager for the conquest of the world of the gods, he chooses you for his alliance (suraloka-jayākāṅkṣī sāhāyye tvāṃ vṛṇoti ca)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1045,6 +1289,14 @@ _________________
 
 राक्षसश्रेष्ठने! नन्न अण्णनाद महाबलि दशग्रीवनु आगमिसिरुवनु. देवलोकवन्नु जयिसुव इच्छॆयिन्द हॊरटिरुवनु. इदक्कागि निम्मन्नु सहायकनागिसलु बयसुत्तिरुवनु. आद्दरिन्द नीवु तम्म बन्धु-बान्धवरॊन्दिगॆ अवन सहायक्कॆ हॊरडिरि.॥47-48॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**47:** “Therefore, O rākṣasa, go with your kinsmen to lend him aid (tad asya tvaṃ sahāyārthaṃ sabandhur gaccha rākṣasa); it is fitting to serve the purpose of one who is affectionate and honors his kin (snigdhasya bhajamānasya yuktam arthāya kalpitum).” Hearing those words of hers, Madhu replied, “So be it (tathety āha madhur vacaḥ)!”
+
+**48:** Approaching with due propriety, he waited upon that foremost of rākṣasas (dadarśa rākṣasa-śreṣṭhaṃ yathānyāyam upetya saḥ) and worshipped Rāvaṇa, sovereign of the rākṣasas, in accordance with dharma (pūjayām āsa dharmeṇa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1070,6 +1322,12 @@ _________________
 
 नन्निन्दागि निम्म मेलॆ स्नेहविदॆ, निम्मन्नु अळियनॆन्दु तिळिदु निम्म कुरितु अनुराग इट्टिरुवनु. आद्दरिन्द नीवु अवन कार्यसिद्धिगागि सहायमाडबेकु. पत्निय ई मातन्नु केळि मधु हागॆये आगली ऎन्दु हेळि सहायक्कागि ऒप्पिकॊण्डनु.॥49॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having received hospitality in Madhu’s palace (prāpya pūjāṃ ... madhu-veśmani), the valiant ten-necked king passed a single night there (tatra caikāṃ niśām uṣya) and then set forth upon his march (gamanāyopacakrame).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1094,6 +1352,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ अवनु न्यायोचित रीतियागि निशाचरश्रेष्ठ रावणनन्नु भॆट्टियादनु हागू अवनिगॆ धर्मक्कनुसार स्वागत - सत्कार माडिदनु.॥50॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, reaching Mount Kailāsa, the abode of Vaiśravaṇa (kailāsam āsādya śailaṃ vaiśravaṇālayam), that lord of rākṣasas, resplendent as Mahendra (mahendrābhaḥ), encamped his army there (senām upaniveśayat).
 </details>
 </details>
 

@@ -70,6 +70,12 @@ _________________
 Then on arriving at Raghava's hermitage that ghastly Shuurpanakha has shown the brothers, Rama and Lakshmana,
 along with Seetha to the fourteen demons. [3-20-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the dreadful Śūrpaṇakhā, having arrived at Rāghava's hermitage (rāghavāśramam), pointed out (ācacakṣe) to the rākṣasas those two brothers together with Sītā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +120,12 @@ upaviSTam mahaabalam = sitting, great mighty; raamam dadR^ishuH = Rama , they sa
 
 They have seen the great-mighty Rama seated in the thatched cottage along with Seetha and Lakshmana
 attending to him. [3-20-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They beheld Rāma of mighty strength (mahā-balam) seated inside the leaf-thatched cottage (parṇa-śālāyām) along with Sītā, and attended (sevitam) by Lakṣmaṇa as well.
 </details>
 </details>
 
@@ -162,6 +174,12 @@ raamaH abraviit = Rama , said.
 On seeing the arrival of the demons, and the demoness Shuurpanakha too, that magnificent Rama of Raghava
 dynasty said to the radiantly brilliant Lakshmana. [3-20-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding her and those rākṣasas who had arrived (āgatān), the glorious Rāghava—Rāma—spoke to his brother Lakṣmaṇa of blazing splendour (dīpta-tejasam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,6 +225,12 @@ that have come; imaan vadhiSyaami = these [demons,] I wish to eliminate.
 
 "Oh, Soumitri, briefly tarry at the close of Seetha as I wish to eliminate these demons who have trailed
 the path of that demoness to here. [3-20-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For a moment (muhūrtam), O Saumitri, remain right beside Sītā (praty-anantaraḥ); I shall slay these [demons] who have come here following in her footsteps (asyāḥ padavīm āgatān).”
 </details>
 </details>
 
@@ -257,6 +281,12 @@ iti = so be it, thus; raamasya vaakyam prati apuujayat = Rama 's, sentence, in t
 On hearing that word of Rama, then the nimble-souled Lakshmana honoured the word of Rama saying "so
 be it." [3-20-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having then heard this speech of Rāma, the knower of the Self (viditātmanaḥ), Lakṣmaṇa honored (prapūjayan) Rāghava's command, saying, “So be it (tatheti).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -302,6 +332,12 @@ even.
 
 On taking up his awful bow that is decorated with gold Raghava stringed it with bowstring and even spoke
 the demons as a forewarning. [3-20-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Rāghava too, whose soul is fixed on dharma (dharmātmā), strung (cakāra sajyam) his great bow adorned with gold (cāmīkara-vibhūṣitam) and spoke to those rākṣasas:
 </details>
 </details>
 
@@ -374,6 +410,14 @@ us.
 "We the dispassionate subsist on fruits and tubers treading in the path of virtue, and we being the
 sages resident in Dandaka forest what for you outrage us. [3-20-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** “We two are the sons of Daśaratha, the brothers Rāma and Lakṣmaṇa, who have entered along with Sītā the Daṇḍaka forest that is difficult to traverse (duścaram).
+
+**8:** Why do you seek to harm (upahiṃsatha) [us two] who subsist on fruits and roots (phala-mūlāśanau), self-controlled (dāntau), ascetics observing celibacy (brahmacāriṇau), dwelling in the Daṇḍaka forest?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -423,6 +467,12 @@ bow; R^iSiiNaam tu niyogena = by sages, but, assigned; aham = I; praaptaH
 "As assigned by the sages I chanced here with bow and arrows to decimate you evil-souled and unrighteous
 beings in a crucial clash. [3-20-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By the mandate of the sages (ṛṣīṇāṃ tu niyogena), however, I have arrived armed with my bow (sa-śarāsanaḥ) to slay in great battle (mahā-have) you of sinful nature (pāpātmakān) who work manifold offences (viprakārān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -468,6 +518,12 @@ purpose [if you desire your lives]; iha nivartadhvam = now, return.
 
 "Stay there obligingly or you should not be able to return, else if you desire your lives, oh, nightwalkers,
 you may return now. [3-20-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Remain right here contented (saṃtuṣṭāḥ)—you ought not to advance further (nopavartitum arhatha)! If you have any use for your lives (yadi prāṇair ihārtho vaḥ) here, turn back (nivartadhvam), O night-roamers!”
 </details>
 </details>
 
@@ -526,6 +582,14 @@ handlers of spears have become highly infuriated, and they with their bloodshot 
 words said these words to Rama, whose eyes are with blood streaks at their ends, and who also is a sweet
 talker, and whose valour is yet unseen by those fourteen demons. [3-20-11, 12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Hearing that speech of his, those fourteen rākṣasas—slayers of Brāhmaṇas (brahma-ghnāḥ), holding pikes in their hands (śūla-pāṇayaḥ)—spoke a word in fierce wrath (susaṃkruddhāḥ):
+
+**12:** With bloodshot eyes (saṃrakta-nayanāḥ), dreadful, harsh (paruṣāḥ), and exultant (hṛṣṭāḥ), [they addressed] the gentle-spoken (madhurābhāṣam) Rāma, whose eyes were reddened and whose valor they had never yet witnessed (adṛṣṭa-parākramam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -573,6 +637,12 @@ lives.
 "Killed in conflict by us you alone will set your lives loose as an inciter of fury in our highly great
 souled lord Khara. [3-20-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having provoked the wrath (krodham utpādya) of our supremely mighty lord Khara, you yourself shall instantly (sadyaḥ) forfeit your life-breaths (hāsyase prāṇān), slain by us in battle!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -618,6 +688,12 @@ indeed; aahave yoddhum kim punaH = in battle, [ability] to battle against, why, 
 
 "Indeed, what capability you have as a lone one to stand against many of us in the forefront of war,
 and why tell again about your battling ability in a given battle. [3-20-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For what power (śaktiḥ) do you have, standing alone (ekasya), to stand before us who are many at the forefront of battle (raṇa-mūrdhani)—how much less to fight in combat (kiṃ punar yoddhum āhave)?
 </details>
 </details>
 
@@ -669,6 +745,12 @@ parighaiH shuula paTTishaiH = by maces, spears, broad blade swords; praaNaam vii
 "When we launch maces, spears and swords by our might you will forgo your lives, mettle, and even the
 bow now clasped in your hand." So said the demons to Rama. [3-20-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By these iron-bound clubs (parighaiḥ), pikes, and sharp-edged spears (śūla-paṭṭiśaiḥ) hurled by our arms (bāhu-prayuktaiḥ), you shall abandon your life-breaths, your valor, and the bow gripped in your hand (kara-pīḍitam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -717,6 +799,12 @@ cikSipuH = they hurled.
 Thus saying that way clamorously they the fourteen demons, upraising their weapons they unhesitatingly
 rushed towards Rama alone, and they hurled lances towards that unconquerable Raghava. [3-20-16, 17a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus in fury (saṃrabdhāḥ), those fourteen rākṣasas, with weapons and swords upraised (udyatāyudha-nistriṃśāḥ), rushed straight toward Rāma (rāmam evābhidudruvuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -763,6 +851,12 @@ samastaani = all of them; taavadbhiH eva = as many of them, only; kaancana bhuuS
 
 Rama in turn shredded all of those fourteen lances only with as many arrows that are adorned in gold.
 [3-20-17b, 18a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They hurled those pikes toward the invincible (durjayam) Rāghava; [and] Kākutstha [intercepted] all fourteen of those pikes together (samastāni caturdaśa)—
 </details>
 </details>
 
@@ -836,6 +930,14 @@ iva = Indra [releasing,] thunderbolt, like; baaNaan mumoca = arrows, released.
 Then Raghava took up his bow, arched it, and aiming at the targeted demons released arrows as Indra
 would release his Thunderbolts. [3-20-19b, 20a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** —and severed them with just as many (tāvadbhir eva) arrows adorned with gold (kāñcana-bhūṣitaiḥ). Thereafter, the hero of mighty splendour (mahā-tejāḥ) [took] sun-bright iron shafts (nārācān sūrya-saṃnibhān)—
+
+**19:** —fourteen [of them], whetted on stone (śilā-śitān), did he seize in supreme wrath (parama-kruddhaḥ). Having seized them, drawn his bow (dhanur āyamya), and aimed at the rākṣasas as his targets (lakṣyān uddiśya),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -886,6 +988,12 @@ then; viniSpetuH [vi niS petuH] = swiftly coming out; bhuumau = into earth [nyam
 And by the force of their speed those arrows gored the chests of those demons, and then on coming out
 bedaubed with blood they swiftly penetrated into earth like snakes into snake pit. [3-20-20b, 21a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāghava loosed those arrows as Śatakratu [Indra] hurls his thunderbolts (vajrān iva). Piercing the chests (vakṣāṃsi) of the rākṣasas with their velocity, those blood-drenched (rudhira-plutāḥ) [shafts]—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -934,6 +1042,12 @@ Chinna muulaa drumaaH iva = cut down, at base [rooted out], trees, like; buumau 
 
 Those arrows bursting their hearts they are blood bathed, mangled, and utterly dead, and like the uprooted
 trees they fell onto the ground. [3-20-21b, 22a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—emerged and plunged into the earth (viniṣpetus tadā bhūmau) like serpents (pannagāḥ) [entering] an anthill (valmīkād iva); [and] with their hearts shattered by those [arrows] (tair bhagna-hṛdayāḥ), like trees with their roots severed (chinna-mūlā iva drumāḥ), upon the ground—
 </details>
 </details>
 
@@ -991,6 +1105,14 @@ On seeing the demons falling onto ground that demoness Shuurpanakha is convulsed
 a blanched aspect returned to the near of Khara in an agonising manner like a creeper exuding resin
 on incision, and fell before him as before. [3-20-22b, 23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** —they fell bathed in blood (śoṇita-snātāḥ), disfigured (vikṛtāḥ), and bereft of life (vigatāsavaḥ). Seeing them fallen upon the ground, the rākṣasī, convulsed with rage (krodha-mūrchitā),
+
+**23:** approached Khara, the blood upon her slightly dried (kiṃcit-saṃśuṣka-śoṇitā), and fell down once again in distress (ārtā), like a creeper oozing resin (saniryāseva vallarī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1036,6 +1158,12 @@ of a whiner]; baaSpam mumoca = tears, released.
 
 Then she in the presence of her brother Khara discharged a great outcry, and with a bloodless face she
 spilled tears attuning the strains of a whiner. [3-20-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beside her brother, stricken with grief (śokārtā), she let loose a mighty roar (ninadaṃ mahat); pale-faced (vivarṇa-vadanā), she then shed tears with loud wailing (sasvaraṃ mumuce bāṣpam).
 </details>
 </details>
 
@@ -1101,6 +1229,12 @@ of those demons, in its entirety. [3-20-25]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि इप्पत्तनॆय सर्ग सम्पूर्णवायितु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having seen the rākṣasas struck down in battle, Śūrpaṇakhā had run back again from that place; and that sister of Khara recounted (śaśaṃsa) in full (nikhilena) the slaying of those rākṣasas and everything [that had transpired].
 </details>
 </details>
 

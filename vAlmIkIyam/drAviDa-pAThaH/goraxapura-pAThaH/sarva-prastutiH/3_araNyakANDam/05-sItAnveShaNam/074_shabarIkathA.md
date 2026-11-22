@@ -74,6 +74,12 @@ gR^ihya* = in forest, west, side, on taking up; *kabandhena darshitam* = by Kaba
 Both the sons of that best king Dasharatha, on taking up westerly path in that forest travelled on the
 passage to Pampa as shown by Kabandha. [3-74-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking the western direction (diśaṃ gṛhya pratīcīm), those two sons of the best of kings (nṛvarātmajau) set out along that path to Pampā in the forest (taṃ mārgaṃ pampāyāḥ vane) which had been pointed out by Kabandha (kabandhena darśitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +129,12 @@ draSTum jagmatuH* = Sugreeva, to see, moved forward.
 Those two, Rama and Lakshmana, while seeing several of the ticketed trees on mountains which have nectarous
 fruits on them moved forward to see Sugreeva. [3-74-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing upon many trees on the mountains covered with honey-sweet blossoms and fruits (śaileṣv ācitānekān kṣaudra-puṣpa-phala-drumān), those two, Rāma and Lakṣmaṇa, went forth to see Sugrīva (jagmatur draṣṭuṃ sugrīvam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -169,6 +181,12 @@ tiiram* = Pampa's, westward, bank's moorland; *upatasthatuH* = drew nigh of.
 
 Those two legatees of Raghu on making a sojourn on the mountaintop, they the Raghava-s drew nigh of
 the moorland on the westward of Pampa Lake. [3-74-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed the night upon a mountain ridge (kṛtvā tu śaila-pṛṣṭhe tu vāsam), those two delighters of the Raghus, the two Rāghavas, approached the western bank of Pampā (pampāyāḥ paścimaṃ tīram upatasthatuḥ).
 </details>
 </details>
 
@@ -218,6 +236,12 @@ ramyam aashramam* = there, Shabari's, idyllic, hermitage; *apashyataam* = they h
 Then on getting at the westward moorland of that lotus-lake Pampa, there those two have spotted the
 idyllic hermitage of Shabari. [3-74-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching the western bank of the lotus-lake Pampā (puṣkariṇyāḥ pampāyās tīram āsādya paścimam), those two then beheld there the delightful hermitage of Śabarī (śabaryā ramyam āśramam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -266,6 +290,12 @@ of Shabari, came nigh.
 On getting at that hermitage and on perusing at that picturesque environ that is wreathed round with
 several picturesque trees, those two came nigh of Shabari. [3-74-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arriving at that most delightful hermitage (tam āśramam āsādya suramyam), which was surrounded by many trees (drumair bahubhir āvṛtam), and gazing all around (abhivīkṣantau), they approached Śabarī (śabarīm abhyupeyatuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +337,12 @@ even; *paadau jagraaha* = feet, taken [braced.]
 
 On seeing them that sublimated yogi Shabari instinctively made palm-fold, got up imperatively, and then
 she braced the feet of Rama, and even that of sagacious Lakshmana, impressively. [3-74-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those two then, that perfected ascetic woman (siddhā) rose up at once with joined palms (samutthāya kṛtāñjaliḥ) and clasped the feet of Rāma and of the wise Lakṣmaṇa (pādau jagrāha rāmasya lakṣmaṇasya ca dhīmataḥ).
 </details>
 </details>
 
@@ -358,6 +394,12 @@ taam shramaNiim* = to her, that anchoress; *raamaH uvaaca* = Rama, spoke - asked
 
 She gave them water for feet-wash and mouthwash, and other viands customarily affordable to visitants,
 and then Rama asked after that anchoress who is unflinchingly abiding in her duty. [3-74-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She offered water for their feet, water for sipping, and every hospitality according to rule (pādyam ācamanīyaṃ ca sarvaṃ prādād yathā-vidhi); then Rāma spoke to that female ascetic steadfast in dharma (śramaṇīṃ dharma-saṃsthitām):
 </details>
 </details>
 
@@ -419,6 +461,12 @@ tasmaat etat trayam tyajet ||* 16-21 Gita. The Doors of Hell / Are threefold, wh
 pass,- / The door of Lust, the door of Wrath, the door / Of Avarice. Let a man shun those three! - Sir
 E. Arnold.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Have obstacles to your penance been overcome by you (kaccit te nirjitā vighnāḥ)? Does your austerity prosper (kaccit te vardhate tapaḥ)? Are your anger and your diet kept under control (niyataḥ kopa āhāraś ca), O lady rich in penance (tapodhane)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -461,6 +509,12 @@ E. Arnold.
 "Oh, suave speaker, mayhap your sacred commitments are achieved, anywise... appeased is your self, anyway...
 and your subservience to your mentors brought to fruition, perchance... isn't it!" Thus Rama enquired
 with Shabari. [3-74-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Have your ascetic observances been fulfilled (kaccit te niyamāḥ prāptāḥ)? Does your mind enjoy peace (kaccit te manasaḥ sukham)? Has your service to your preceptors borne fruit (kaccit te guru-śuśrūṣā saphalā), O gentle-spoken lady (cāru-bhāṣiṇi)?”
 </details>
 </details>
 
@@ -512,6 +566,12 @@ _________________
 
 When Rama asked her in this way she that Shabari who is a senescent anchoress, sublimated yogin and
 an adherent to the sublimated yogis of higher rank, informed Rama remaining in his vis-�-vis. [3-74-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus questioned by Rāma (rāmeṇa pṛṣṭā), that aged ascetic woman Śabarī (tāpasī śabarī vṛddhā), perfected and esteemed by the perfected ones (siddhā siddha-sammatā), stood before Rāma (pratyavasthitā) and declared:
 </details>
 </details>
 
@@ -581,6 +641,12 @@ ete kathitaa hi arthaaH prakaashante mahaatmaaH |prakaashante mahaatmana iti | s
 a noble soul all truths manifests themselves... to such a noble soul all truths manifests themselves...'
 Shabari: Yes, yes, so also I stand ennobled after envisaging you, just now...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today the perfection of my penance (tapaḥ-siddhiḥ) has been attained by me through beholding you (tava saṃdarśanān mayā); today my birth has borne fruit (saphalaṃ janma), and my preceptors have been truly worshiped (guravaś ca supūjitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -644,6 +710,12 @@ the dance programs of Rambha or Tilottama, as said by Gita 8-16: *aabrahma bhuva
 arjuna | maam upetya tu kaunteya punar janma na vidyate ||* The worlds, Arjuna!- even Brahma's world-
 / Roll back again from Death to Life's unrest; / But they, O Kunti's Son! that reach to Me, / Taste
 birth no more. - Sir E. Arnold.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Today the austerity I have practiced has borne fruit (saphalaṃ taptam), and heaven itself shall be mine (svargaś caiva bhaviṣyati), now that you, the foremost of gods (tvayi deva-vare), have been worshiped, O Rāma, bull among men (puruṣarṣabha)!
 </details>
 </details>
 
@@ -714,6 +786,12 @@ with the above six negativities plus four more as - *kama* lust; k*rodha* anger;
 *lobha* greed; *moha* delusion; *mada * pride; m*aatsarya* : envy;
 *manas* : mind; *buddhi* intellect; *chitta * will; *ahamkara* ego.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Purified by your gentle gaze (tavāhaṃ cakṣuṣā pūtā saumyena), O gentle bestower of honor (saumya mānada), I shall depart to the imperishable realms (gamiṣyāmy akṣayāṃl lokān) through your grace (tvat-prasādāt), O tamer of foes (ariṃdama).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -741,6 +819,12 @@ with the above six negativities plus four more as - *kama* lust; k*rodha* anger;
 <details><summary>Misc Detail</summary>
 
 ‘जब आप चित्रकूट पर्वतपर पधारे थे, उसी समय मेरे गुरुजन, जिनकी मैं सदा सेवा किया करती थी, अतुल कान्तिमान् विमानपर बैठकर यहाँसे दिव्य-लोकको चले गये ॥ १४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When you arrived at Citrakūṭa (citrakūṭaṃ tvayi prāpte), those [sages] whom I attended (yān ahaṃ paryacāriṣam) ascended to heaven from here (itas te divam ārūḍhāḥ) in aerial chariots of matchless splendour (vimānair atula-prabhaiḥ).
 </details>
 </details>
 
@@ -832,6 +916,14 @@ attainable by soul-searching individuals is *kaivalya* whereas seeing that deliv
 own eyes *bhagavad avalokana*, is far beyond these worlds or states with nomenclature, and it
 is *mukti*, salvation from life cycles. Govindaraja
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** And I was told by those illustrious great sages who knew dharma (taiś cāham uktā dharmajñair mahā-bhāgair maharṣibhiḥ): ‘Rāma will come to this most sacred hermitage of yours (āgamiṣyati te rāmaḥ supuṇyam imam āśramam).
+
+**16:** That guest, accompanied by Sumitrā's son (saumitri-sahito 'tithiḥ), must be reverently received by you (sa te pratigrahītavyaḥ); and having beheld him, you shall depart to the supreme, imperishable realms (taṃ ca dṛṣṭvā varāṃl lokān akṣayāṃs tvaṃ gamiṣyasi).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -921,6 +1013,12 @@ teeth to test the taste. All that is not in Valmiki Ramayana. This amplification
 *phalaani ca supakvaani muulaani madhuraaNi ca | svayam aasaadya maadhuryam pariikShya paribhakShya
 ca | pashcaat nivedayaamaasa raaghaabhyaam dhR^iDhvrataa |*
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed at that time by those illustrious ones (evam uktā mahā-bhāgais tadāham), O bull among men, diverse forest produce has been gathered by me (mayā tu saṃcitaṃ vanyaṃ vividham), O bull among men—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -979,6 +1077,12 @@ this Shabari, tribal king Guha, Dasharatha's minister Sumantra, and the like and
 how much the so-called outcaste is cared for or sought after. They may be ineligible to perform ritual
 deeds but none is barred from esoteric knowledge.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—for your sake (tavārthe), O tiger among men, growing on the banks of Pampā (pampāyās tīra-sambhavam).” Thus addressed by Śabarī, that righteous-souled [Rāma] (sa dharmātmā) [spoke] these words to Śabarī—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1034,6 +1138,12 @@ her to show hermitage. [3-74-19b, 20a]
 He is rather showing that hermitage to us in order to emphasise the path followed by the disciples of
 Matanga, whom this Shabari served that laboriously.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Rāghava spoke to her who was ever unexcluded from spiritual knowledge (vijñāne tāṃ nityam abahiṣkṛtām): “From Danu [Kabandha] (danoḥ sakāśāt) [I have heard] in truth of the spiritual power of those great-souled ones (tattvena prabhāvaṃ te mahātmanām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1085,6 +1195,12 @@ one, that, woodland, started to show.
 On hearing those words voiced by Rama, Shabari started to show that unique woodland to both of them.
 [3-74-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I wish to behold with my own eyes (pratyakṣam icchāmi saṃdraṣṭum) what I have heard (śrutam), if you think fit (yadi manyase).” Hearing these words that issued from Rāma's lips (rāma-vaktra-viniḥsṛtam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1111,6 +1227,12 @@ On hearing those words voiced by Rama, Shabari started to show that unique woodl
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! दट्टवाद मोडगळन्तॆ श्यामल मत्तु नाना प्रकारद पशु-पक्षिगळिन्द तुम्बिरुव ई वनद कडॆगॆ दृष्टि बीरु. इदु मतङ्गवन ऎन्दु विख्यातवागिदॆ.॥21½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Śabarī showed those two that vast forest (darśayām āsa tāv ubhau tad vanaṃ mahat): “Behold, O delighter of the Raghus, [this forest] resembling a dense bank of clouds (megha-ghana-prakhyam), thronged with deer and birds (mṛga-pakṣi-samākulam)—
 </details>
 </details>
 
@@ -1167,6 +1289,12 @@ hymns... [3-74-21b, 22]
 There is another shade with a little different wording *cakruH analam mantravat mantra kovidaaH*
 meaning *mantra kovidaaH* experts in hymns; *mantravat* hymn oriented; *analam*
 Ritual-fire; *juhaavaan* oblations in fire; *cakruH* conducted, worshipped.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—renowned as ‘Mataṅga's Forest’ (mataṅga-vanam ity eva viśrutam)! Here, O you of great splendour (mahā-dyute), my self-purified preceptors (bhāvitātmāno guravo me) offered their bodily frames [or invoked sacred waters] (juhavāṃcakrire nīḍam), hallowed by sacred mantras (mantravan mantra-pūjitam).
 </details>
 </details>
 
@@ -1235,6 +1363,12 @@ any in such Vedic ceremonies, but some are not expected to perform them personal
 episodes. If everybody becomes a Bishop, who will be remaining for appointment as pastoral staff? The
 Reverend Bishop is the Bishop, but staffers are many.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This is the western terrace-altar (iyaṃ pratyak-sthalī vedī) where those [gurus], reverently honored by me (te me susatkṛtāḥ), offered flower-oblations (puṣpopahāraṃ kurvanti) with hands trembling from ascetic fatigue (śramād udvepibhiḥ karaiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1286,6 +1420,12 @@ teachers,] ascesis, by efficacy; *a tula* = not, comparable; *prabhaaH* = in irr
 "Oh, best one from Raghu-s, by the efficacy of the ascesis of my teachers these Altars of Fire are with
 incomparable irradiance, and even now they are irradiating all of the directions with solemnity... see
 them... [3-74-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through the power of their penance (teṣāṃ tapaḥ-prabhāvena), behold even today, O best of the Raghus (raghūttama), this altar of matchless lustre (vedy atula-prabhā) illuminating all the quarters with its radiance (dyotayantī diśaḥ sarvāḥ śriyā)!
 </details>
 </details>
 
@@ -1343,6 +1483,12 @@ That is why Pampa Lake is held sacred. Instead of rivers going into sea, seas fl
 lake for the sake of these old sages. Sea bathing is the best, river bathing is of medium merit, and
 bathing with well or vessel water is worst, in terms of holy baths.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behold the seven oceans gathered together (sametān sapta sāgarān), which came through mere thought (cintitenāgatān paśya) when those [sages], faint from the fatigue of fasting (upavāsa-śramālasaiḥ), were unable to go [to them] (aśaknuvadbhis tair gantum)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1391,6 +1537,12 @@ api* = now, even; *na vi shuSyanti* = not, completely, dried.
 "On performing holy baths those sages have spread their jute cloths on those trees with their own doddering
 hands here at this place and oh, Raghu's legatee, those cloths did not dry even now by the touch of
 their hands... [3-74-26]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The bark-garments hung upon the trees here (nyastā valkalāḥ pādapeṣv iha) by those [sages] after performing their ablutions (kṛtābhiṣekais taiḥ) do not dry up even today (adyāpi na viśuṣyanti) in this spot, O delighter of the Raghus.
 </details>
 </details>
 
@@ -1441,6 +1593,12 @@ going in, indeed.
 
 "Which garlands they have knotted together with black-lotuses and other flowers while they were worshiping
 gods, these are really those garlands, and indeed there is no discolouration to them... [3-74-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And these garlands which were fashioned by them along with blue waterlilies (puṣpaiḥ kuvalayaiḥ sārdham) while performing worship of the gods (deva-kāryāṇi kurvadbhiḥ) never wither at all (mlānatvaṃ na tu yānti vai).
 </details>
 </details>
 
@@ -1496,6 +1654,12 @@ is seen; *shrotavyam ca shrutam* = listenable, also, listened; *tat* = thereby; 
 thereby I wish to become a permittee, where you alone are my permitter, as I wish to castaway this sheathe
 of soul, called my body... to make that soul to move nigh of my teachers feet... [3-74-28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This entire forest has been seen by you (kṛtsnaṃ vanam idaṃ dṛṣṭam), and what was worthy to be heard has been heard (śrotavyaṃ ca śrutaṃ tvayā); therefore, granted leave [by you] (abhyanujñātā), I wish—I shall cast off this mortal frame (icchāmi tyakṣyāmy etat kalevaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1541,6 +1705,12 @@ gantum icChaami* = I, to go to, yearn [soulfully.]
 
 "Of which sages this hermitage is, and of which sages I am also a maidservant, I soulfully go the proximity
 of those contemplative souls..." Thus, she appealed to Rama. [3-74-29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I wish to go to the presence of those self-purified sages (teṣām icchāmy ahaṃ gantuṃ samīpaṃ bhāvitātmanām), to whom this hermitage belongs and whose attendant I am (munīnām āśramo yeṣām ahaṃ ca paricāriṇī).”
 </details>
 </details>
 
@@ -1598,6 +1768,12 @@ as said at *gurum prakaashayet dhiimaan* 'gurus are to be extolled by true and w
 and the masters made the environ blissfully livable, all this is without any maya or magic... so, fairness
 has its own place...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that most righteous speech (dharmiṣṭhaṃ tu vacaḥ śrutvā), Rāghava together with Lakṣmaṇa experienced matchless joy (praharṣam atulaṃ lebhe) and exclaimed, “How wonderful!” (āścaryam iti cābravīt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1647,6 +1823,12 @@ with]; *gacCha* = you may go.
 Then Rama spoke to that Shabari who is firmed up in her faith towards her masters, "oh, saintly lady,
 you treated me with deference... thus may go to your cherished worlds, where you can solace yourself
 with your masters... [3-74-31]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma spoke to that Śabarī of austere vows (śabarīṃ saṃśita-vratām): “I have been reverently worshiped by you, O blessed lady (arcito 'haṃ tvayā bhadre); depart at your wish and at ease (gaccha kāmaṃ yathā-sukham)!”
 </details>
 </details>
 
@@ -1739,6 +1921,16 @@ Now she appeared as an angle bejewelled with angelic ornaments, wearing angle's 
 flowery tassels, and bedaubed with suchlike cosmetics, and as with the scintillations of electric sparks
 she scintillated that province. [3-74-33b, 34]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** Thus addressed, wearing matted locks and clad in bark-cloth and black-antelope skin (jaṭilā cīra-kṛṣṇājināmbarā), and granted leave by Rāma (anujñātā tu rāmeṇa), she offered herself into the sacrificial fire (hutvātmānaṃ hutāśane)—
+
+**33:** —and gleaming like a blazing fire (jvalat-pāvaka-saṃkāśā), she verily ascended to heaven (svargam eva jagāma ha), adorned with celestial ornaments (divyābharaṇa-saṃyuktā) and wearing celestial garlands and unguents (divya-mālyānulepanā).
+
+**34:** Clad in celestial raiments (divyāmbara-dharā), she became lovely to behold there (tatra babhūva priya-darśanā), illuminating that region like a flash of lightning from Mount Sudāman (virājayantī taṃ deśaṃ vidyut saudāmanī yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1814,6 +2006,12 @@ on this *pannagapu doma tera paikettavemayya…* So Shabari is rid of that illus
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि ऎप्पत्तनाल्कनॆय सर्ग सम्पूर्णवायितु.॥74॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through her absorption in the Self (ātma-samādhinā), Śabarī departed to that sacred realm (tat puṇyaṃ śabarī sthānaṃ jagāma) where those great sages of purified souls sport in bliss (yatra te sukṛtātmāno viharanti maharṣayaḥ).
 </details>
 </details>
 

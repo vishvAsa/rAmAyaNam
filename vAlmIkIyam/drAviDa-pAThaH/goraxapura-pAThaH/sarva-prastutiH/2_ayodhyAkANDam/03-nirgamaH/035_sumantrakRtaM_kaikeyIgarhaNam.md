@@ -59,6 +59,16 @@ _________________
 
 अनन्तर ऎच्चरगॊण्ड सुमन्त्रनु सट्टनॆ ऎद्दु निन्तनु. अवन मनस्सिगॆ अमङ्गलकारियाद भारी सन्तापवायितु. अवनु क्रोधदिन्द नडुगुत्तिद्दनु. अवन शरीर मत्तु मुखद कान्तियु बदलायितु. अवनु सिट्टिनिन्द कण्णुगळन्नु कॆम्पगागिसि, ऎरडु कैगळिन्द तलॆयन्नु चच्चिकॊण्डनु. पदे पदे दीर्घवागि निट्टुसिरुबिडुत्ता, कैगळन्नु तिक्किकॊळ्ळुत्ता, कटकटनॆ हल्लु कडियुत्तिद्दनु. दशरथराजन मनस्सिन वास्तविक स्थितियन्नु नोडुत्ता तन्न वचनरूपी हरितवाद बाणगळिन्द कैकेयिय हृदयवन्नु नडुगिसि बिडुवन्तॆ नुडियतॊडगिदनु.॥1-3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then, suddenly shaking his head (nidhūya sahasā śiraḥ) and sighing again and again (niḥśvasya cāsakṛt), wringing his hand in his hand (pāṇiṃ pāṇau viniṣpiṣya) and gnashing his teeth (dantān kaṭakaṭāyya ca),
+
+**2:** With his two eyes bloodshot with wrath (locane kopa-saṃrakte) and shedding his wonted demeanour and complexion (varṇaṃ pūrvocitaṃ jahat), overcome by sudden anger, he fell into a dark and fierce anguish (santāpam aśubhaṃ gataḥ).
+
+**3:** Discerning the mind of Daśaratha (manaḥ samīkṣamāṇaś ca), the charioteer—as though making Kaikeyī’s heart tremble with sharp arrow-like words (vāk-śaraiḥ śitaiḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +126,12 @@ with wrath, suddenly getting the evil grief, carefully reading Dasaratha's mind,
 charioteer spoke(as follows) as though shaking Kaikeyi's heart with sharp arrows, in the form of
 thunderbolting words speedily peircing all her vitals.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And as though cleaving all of Kaikeyī’s vital parts (kaikeyyāḥ sarva-marmāṇi) with matchless, fierce thunderbolts of speech (vākya-vajrair anupamaiḥ)—Sumantra spoke in reply:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +183,14 @@ anything; *akaaryatamam* = which is most disgraceful.
 husband king Dasaratha the supporter of the entire creation the unmoving and the moving, is
 betrayed, Oh, Kaikeyi!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** “You by whom your own husband, King Daśaratha, has been cast aside (yasyās tava patis tyaktaḥ)—he who is the lord and sustainer of the entire universe, both stationary and moving (sthāvarasya carasya ca)—
+
+**6:** “Truly there is nothing on earth too base or unrighteous for you to do, O queen (na hy akāryatamaṃ kiṃcit tava devīha vidyate)! I deem you a slayer of your husband (pati-ghnīṃ tvām ahaṃ manye) and, in the end, a destroyer of your entire race (kula-ghnīm api cāntataḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -213,6 +237,12 @@ husband) ajayyam = who is unconquerable; *mahendramiva* = as great Indra;
 imperturbable as a great ocean. By tormenting him with your actions, you are considered by me as
 murderess of your husband and ultimately the exterminator of your race too."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Since by your deeds you torment (santāpayasi karmabhiḥ) him who is invincible like Mahendra (mahendram ivājayyam), unshakable like a mountain (duṣprakampyam ivācalam), and imperturbable like the great ocean (mahodadhim ivākṣobhyam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -254,6 +284,12 @@ will; *vishishhyate* = is superior; *putrakotyaaH* = to ten million sons.
 
 "Do not despise Dasaratha the supporter, the bestower of boons and your husband. For
 women, will of the husband is superior to that of ten million sons."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Do not despise Daśaratha (māvamaṃsthā daśaratham), your sustainer, boon-giver, and lord! For among women, the will of a husband surpasses ten million sons (bhartur icchā hi nārīṇāṃ putrakoṭyā viśiṣyate).
 </details>
 </details>
 
@@ -303,6 +339,12 @@ ikshhvaakukulanaathe* = in this lord Ikshvaku dynasty; Rama.
 "After death of a king, kingdoms are obtained as per the age of the princes. But,
 you want to deprive this condition in the case of Rama the lord of Ikshvaku dynasty."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In accordance with seniority of age (yathāvayo hi), princes succeed to kingdoms upon the demise of the king (nṛpa-kṣaye); yet while this lord of the Ikṣvāku race still lives, you seek to abolish that law (taṃ lopayitum icchasi)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -351,6 +393,12 @@ you want to deprive this condition in the case of Rama the lord of Ikshvaku dyna
 
 "Let your son Bharata become the king and rule the earth. wherever Rama goes, we (on
 our part) shall go there".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let your son Bharata become king; let him rule the earth (bharataḥ śāstu medinīm)! As for us, we shall go thither where Rāma goes (vayaṃ tatra gamiṣyāmo yatra rāmo gamiṣyati)!
 </details>
 </details>
 
@@ -402,6 +450,12 @@ you; *chikiirshhasi* = want to do; *taadR^isham* = such; *karma* = act;
 
 "Now any brahmana cannot indeed dwell in your kigdom as now you want to do such an
 act, transgressing the due limits."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Nor will any Brāhmaṇa deign to dwell in your realm (na ca te viṣaye kaścid brāhmaṇo vastum arhati)—so lawless and transgressive a deed are you about to commit today (tādṛśaṃ tvam amaryādam adya karma kariṣyasi)!
 </details>
 </details>
 
@@ -460,6 +514,14 @@ followed by Rama; *devi* = Oh queen Kaikeyi! yaa = which you; *sadaa* = forever;
 What pleasure will be derived through attainment of soverignity, when your relatives, all brahmanas
 and pious souls desert you forever? Now, you want to do such an act of impropriety"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “Surely we shall all follow the path trodden by Rāma (mārgaṃ rāma-niṣevitam), while you remain ever abandoned by all your kindred, by the Brāhmaṇas, and by the righteous (tyaktā yā bāndhavaiḥ sarvair brāhmaṇaiḥ sādhubhiḥ sadā)!
+
+**13:** “What joy shall be yours through the acquisition of the kingdom, O queen (kā prītī rājya-lābhena tava devi bhaviṣyati), when you desire to perpetrate such a lawless deed (tādṛśaṃ tvam amaryādaṃ karma kartuṃ cikīrṣasi)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -505,6 +567,12 @@ act; *pashyaami* = I am looking; *aashcharyamiva* = with only surprise;
 
 "I am looking only with surprise, why the earth is not immediately rent asunder,
 while you conduct yourself with such an act"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I behold it as a wonder (āścaryam iva paśyāmi) that the earth does not immediately split open (na vivṛtā sadyo bhavati medinī) while you practise such conduct (yasyās te vṛttam īdṛśam ācarantyāḥ),
 </details>
 </details>
 
@@ -554,6 +622,12 @@ Rama to exile.
 
 "It is also surprising me why rods of reproaching words fiery and fearful to look at
 uttered by great brahmana sages are not killing you, who are bent on sending Rama to exile."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or that blazing, terrible-looking rods of reproachful speech (jvalanto bhīma-darśanāḥ dhig-vāg-daṇḍāḥ) cast by great Brahmarṣis (mahā-brahmarṣi-sṛṣṭā vā) do not destroy you as you stand bent on Rāma’s exile (rāma-pravrājane sthitām)!
 </details>
 </details>
 
@@ -606,6 +680,12 @@ this neem tree; *payasaa* = sweet; *asya* = to him.
 "Who will nurture a neem tree, cutting down a mango tree with an axe? And a neem
 tree will not turn sweet for him who nourishes it with milk."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who indeed, having chopped down a mango tree with an axe (āmraṃ chittvā kuṭhāreṇa), would tend a bitter neem tree (nimbaṃ paricaret tu kaḥ)? Even if one were to water it with milk (yaś cainaṃ payasā siñcet), it would never become sweet to him (naivāsya madhuro bhavet)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -654,6 +734,12 @@ does not ooze surely; *nimbaat* = from a neem tree."
 "I think, by birth your nature is as exactly as that of your mother. a proverb is
 quoted in the world saying that honey does not ooze from a neem tree."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I deem your innate nature to be just like your mother’s (ābhijātyaṃ hi te manye yathā mātus tathaiva ca); for as the proverb spoken in the world declares: ‘Honey never flows from a neem tree’ (na hi nimbāt sravet kṣaudraṃ loke nigaditaṃ vacaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -680,6 +766,12 @@ quoted in the world saying that honey does not ooze from a neem tree."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 निन्न तायिय दुराग्रहवू कूड नानु तिळिदिद्देनॆ. ई विषयदल्लि हिन्दॆ केळिदन्तॆ तिळिसुत्तेनॆ. ऒम्मॆ यारो वरकॊडुवन्तह साधुवु निन्न तन्दॆगॆ अत्यन्त उत्तम वरवन्नु कॊट्टिद्दरु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“We know of your mother’s perverse obstinacy of old, just as it was heard by tradition (tava mātur asad-grāhaṃ vidma pūrvaṃ yathā śrutam): a certain boon-granting sage once bestowed an unsurpassed boon upon your father (pitus te varadaḥ kaścid dadau varam anuttamam).
 </details>
 </details>
 
@@ -729,6 +821,12 @@ Someone capable of giving boons, granted a great boon to your father. By that bo
 identify the language of all created beings. The talk of those beings belonging to sub human
 species could be known by him."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through that boon, the lord of the earth understood the cries of all living beings (sarva-bhūta-rutaṃ tasmāt saṃjajñe vasudhādhipaḥ); thereby even the speech of creatures moving horizontally—birds, beasts, and insects—was known to him (tena tiryag-gatānāṃ ca bhūtānāṃ viditaṃ vacaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -776,6 +874,12 @@ species could be known by him."
 
 "From the sound of an ant called Jrimbha near his bed, the meaning of that sound was
 deciphered by your exceedingly brilliant father and he laughed over it repeatedly."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, on his couch, from the cry of a golden-bright jṛmbha creature (tato jṛmbhasya śayane virutād bhūri-varcasaḥ), its inner thought became known to your father, and he laughed there repeatedly (pitus te vidito bhāvaḥ sa tatra bahudhāhasat).
 </details>
 </details>
 
@@ -827,6 +931,12 @@ Your mother, becoming angry over his laugh, wishing even to hand him to death(in
 case he refuses to disclose the reason for his laughter), spoke thus: "Oh king, the gentle sir! I
 want to know the meaning of your laughter."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon your mother, enraged and courting the noose of death (tatra te jananī kruddhā mṛtyu-pāśam abhīpsatī), said: ‘O gentle lord of men, I wish to know the cause of your laughter (hāsaṃ te nṛpate saumya jijñāsāmīti cābravīt)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -877,6 +987,12 @@ me; *sadyaH* = immediately; *tataH* = thereafter; *na* = there is no;
 reason of my laughter, my death will immediately follow thereafter. There is no doubt about
 it."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the king said to that queen: ‘If I declare to you the cause of my laughter (hāsaṃ śaṃsāmi te yadi), then without doubt my death will occur immediately (tato me maraṇaṃ sadyo bhaviṣyati na saṃśayaḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -925,6 +1041,12 @@ father(thus); *jiiva vaa* = either live; *maavaa* = or die; *shamsa* = tell;
 "Your mother then said to your father, the king of Kekayas, Live or die as you will.
 tell me the laughter. Do not ridicule me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Your mother, O queen, spoke again to your father, the King of Kekaya (mātā te pitaraṃ devi punaḥ kekayam abravīt): ‘Tell it to me, whether you live or die (śaṃsa me jīva vā mā vā); you shall not mock me (na māṃ tvaṃ prahasiṣyasi)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -972,6 +1094,12 @@ bestower of boon; *tattvataH* = correctly; *tam artham* = that matter.
 
 Having been spoken thus by his beloved consort, the said king of the Kekayas on his
 part correctly reported the matter to the sage who had bestowed the boon on him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus addressed by his beloved consort (priyayā ca tathoktaḥ saḥ), that lord of the earth, the King of Kekaya, recounted that matter truthfully to that boon-granting sage (tasmai taṃ varadāyārthaṃ kathayāmāsa tattvataḥ).
 </details>
 </details>
 
@@ -1022,6 +1150,12 @@ course.
 Then the sage who had bestowed the boon replied to the king as follows: "Oh, lord of
 the earth! Let her die or ruin. Do not reveal the reason to her."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then that righteous boon-giver replied to the king (tataḥ sa varadaḥ sādhū rājānaṃ pratyabhāṣata): ‘Let this woman die or perish (mriyatāṃ dhvaṃsatāṃ veyam); do not reveal it, O lord of the earth (mā śaṃsīs tvaṃ mahīpate)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1063,6 +1197,12 @@ lived happily; *kuberavat* = like Kubera; the lord of riches.
 
 "Having heard the words of that sage who was pure-minded, the king repudiated your
 mother and lived happily like Kubera the Lord of riches."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing those words of that gracious-minded sage (sa tac chrutvā vacas tasya prasanna-manaso nṛpaḥ), the king swiftly banished your mother and sported in joy like Kubera (mātaraṃ te nirasyāśu vijahāra kuberavat).
 </details>
 </details>
 
@@ -1111,6 +1251,12 @@ this; *asadgraaham* = bad resolution; *mohaat* = by igonorance.
 
 "Oh, Kaikeyi, seeing evil everywhere! You, too, thus following the path trodden by
 wicked men, are making this bad resolution by ignorance."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even so you too, beholding only evil (pāpa-darśinī) and standing on the path trodden by the wicked (durjanācarite pathi), out of delusion seek to force the king into this perverse obstinacy (asad-grāham imaṃ mohāt kuruṣe)!
 </details>
 </details>
 
@@ -1164,6 +1310,12 @@ are born; conforming; *pitR^iin* = to their fathers; *aNganaaH* = females;
 "The popular saying that males are born confirming to their fathers and females to
 their mothers, occurs to me as true."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“True indeed does this worldly proverb appear to me in this matter (satyaś cātra pravādo ’yaṃ laukikaḥ pratibhāti mā): ‘Men are born taking after their fathers, and women after their mother’ (pitṝn samanujāyante narā mātaram aṅganāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1213,6 +1365,12 @@ desire; *bhartuH* = of your husband; *bhava* = be; *gatiH* = a protectress;
 Do not conform to the traits of your mother. Understand that which is said by the
 king. following the desire of your husband, be a protectress to these people here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Do not be thus (naivaṃ bhava)! Accept what the lord of the earth says (gṛhāṇedaṃ yad āha vasudhādhipaḥ); comply with your husband’s wish here, and become the refuge of this people (bhartur icchām upāsveha janasyāsya gatir bhava)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1260,6 +1418,12 @@ is a protector of this world.
 conduct of your husband who spendour is equal to that of king Devendra and who is a protector of
 this world.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Egged on by wicked ones (protsāhitā pāpaiḥ), do not cause your husband—the sustainer of the world, equal in splendour to the king of the gods (devarāja-sama-prabham bhartāraṃ loka-bhartāram)—to adopt an unrighteous course (mā tvaṃ... asad-dharmam upādadha)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1301,6 +1465,12 @@ the lotus-eyed man; *raajaa* = the king; *nakarishhyati hi* = cannot indeed make
 
 "Oh, Kaikeyi! Dasaratha the faultless man, the majesty, the lotus-eyed man and the
 king cannot indeed belie the promise given to you(Hence, you alone has to change your opinion)"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For the sinless, glorious, lotus-eyed King Daśaratha will never render false what he has promised you, O queen (na hi mithyā pratijñātaṃ kariṣyati tavānaghaḥ)!
 </details>
 </details>
 
@@ -1351,6 +1521,12 @@ throne(of Ayodhya).
 "Let Rama the eldest(of the sons) who is generous strong skilled, capable of
 protecting his own duty as Kshatriya but also of protecting the world of living beings, be
 installed on the throne of Ayodhya"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let the eldest, munificent, and active Rāma (jyeṣṭho vadānyaḥ karmaṇyaḥ), the protector of his own dharma and guardian of the world of living beings, possessed of might, be consecrated (balī rāmo ’bhiṣicyatām)!
 </details>
 </details>
 
@@ -1404,6 +1580,12 @@ accusation; *charishhyati* = will surely roam; *te* = about you;
 "Oh, Kaikeyi! A great accusation will surely roam about you in the world, if Rama
 leaving his royal father goes to the forest.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For a great reproach against you, O queen, will spread throughout the world (parivādo hi te devi mahāँl loke cariṣyati), if Rāma departs for the forest leaving behind his royal father (yadi rāmo vanaṃ yāti vihāya pitaraṃ nṛpam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1453,6 +1635,12 @@ excellent city; *te* = of yours; *anyaH* = other; *raamavaat* = then Rama;
 "Let Rama of that character protect this kingdom! Be you free from distress. There
 is none other than Rama living in your excellent city who is competent to rule this Ayodhya"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let Rāghava protect his own kingdom, and do you cast off all feverish anxiety (svarājyaṃ rāghavaḥ pātu bhava tvaṃ vigata-jvarā); for none other than Rāghava, dwelling in this best of cities, can be so compliant and beneficial to you (na hi te rāghavād anyaḥ kṣamaḥ puravare vasan)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1496,6 +1684,12 @@ vR^ittam* = the conduct of his forebears.
 "In the event of Rama being installe din the office of the prince Regent, King
 Dasaratha wielder of the great bow will surely have recourse to the forest, cherishly recollecting
 the conduct of his forebears"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For once Rāma is established in the regency (rāme hi yauvarājya-sthe), King Daśaratha, the wielder of the mighty bow, will himself enter the forest, remembering the ancient custom of his predecessors (vanaṃ pravekṣyati maheṣvāsaḥ pūrva-vṛttam anusmaran)!”
 </details>
 </details>
 
@@ -1579,6 +1773,14 @@ any change observed in the colour of her face.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि मूवत्तैदनॆय सर्ग पूर्णवायितु.॥35॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** With such conciliatory pleas and sharp reproaches in the royal assembly (iti sāntvaiś ca tīkṣṇaiś ca kaikeyīṃ rāja-saṃsadi), Sumantra, with joined palms, strove again and again to move Kaikeyī (bhūyaḥ saṃkṣobhayāmāsa sumantras tu kṛtāñjaliḥ).
+
+**37:** Yet that queen neither wavered nor felt the slightest remorse (naiva sā kṣubhyate devī na ca sma paridūyate), nor was any change then perceived in the colour of her face (na cāsyā mukha-varṇasya lakṣyate vikriyā tadā).
 </details>
 </details>
 

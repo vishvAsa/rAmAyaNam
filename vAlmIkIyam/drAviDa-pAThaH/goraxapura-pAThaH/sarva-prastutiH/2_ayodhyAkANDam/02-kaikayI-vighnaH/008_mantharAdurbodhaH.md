@@ -69,6 +69,12 @@ anger and pain; *uvaacha* = spoke; *idam* = these words.
 Manthara, becoming indignant with Kaikeyi, threw down the ornament given to her and
 with anger and distress spoke the following words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with anger and grief, Mantharā looked upon her with indignation (abhyasūyya), cast aside that ornament, and spoke this speech:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +120,12 @@ of trouble; *kim idam* = what is it; *kR^itavatii asi* = you are doing;
 
 "O, foolish one! Not knowing that you are in the midst of an ocean of trouble, what
 is it that you are so delighted about, in a matter to be grieved?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Why, O foolish one, have you rejoiced out of season? Do you not perceive yourself standing in the midst of an ocean of sorrow?
 </details>
 </details>
 
@@ -161,6 +173,12 @@ which is to be grieved.
 
 "Oh, queen! Though stricken with grief, I mentally laugh at you in that you are
 rejoicing at the time when a great calamity is befalling you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though stricken with grief, O queen, I laugh at you in my heart, that you rejoice when you ought to grieve upon meeting with so great a calamity!
 </details>
 </details>
 
@@ -210,6 +228,12 @@ rejoicing at the time when a great calamity is befalling you."
 the prosperity of a stepson who is considered an enemy? Does it not amount to praising a befalling
 death?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I lament your perversity of mind: what wise woman indeed would rejoice at the prosperity of an enemy—a co-wife’s son—arriving like death itself?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -258,6 +282,12 @@ asmi* = I am sorrowful; *bhayam* = Fear; *jaayate hi* = begets from;
 thinking about this matter, I am getting anguished. Do we not get disasters from those who are
 afraid of us?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From Bharata alone—who has an equal claim to the kingdom (rājya-sādhāraṇāt)—arises Rāma’s fear; pondering that, I am dejected, for danger springs from one who is afraid.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -303,6 +333,12 @@ bow; *gataH* = joined; *raamam* = Rama; *sarvaatmanaa* = with all his heart;
 
 "Lakshmana, wielding a great bow, joined Rama with all his heart. Shatrughna is as
 faithful to Bharata as Lakshmana to Rama".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For mighty-armed Lakṣmaṇa is devoted to Rāma with his whole soul, and Śatrughna likewise is devoted to Bharata just as Lakṣmaṇa is to Kākutstha.
 </details>
 </details>
 
@@ -351,6 +387,12 @@ is to Bharata only; *tayoH taavat* = to the extent of other two(Lakshmana and Sa
 Bharata alone can be pressed, that of Lakshmana and Satrughna who are younger is out of
 question."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even by the immediate sequence of birth (pratyāsanna-krameṇāpi), O spirited lady, the order of succession to the throne belongs to Bharata alone after Rāma, whereas that of the two younger brothers is set aside.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -391,6 +433,12 @@ appropriately and in time; *bhayaat* = fearing (such Rama); *pravepe* = I am sha
 "Rama is a learned man and a political statesman. His actions are timely and
 appropriate. When thinking of your son's calamity to be resulted from Rama, I get shaken with
 fear".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thinking of your son, I tremble in fear of Rāma, who is learned in Kṣatriya statecraft, astute, and prompt in executing what is opportune!
 </details>
 </details>
 
@@ -439,6 +487,12 @@ the best of Brahmans.
 "Kausalya is very fortunate. Brahmans are going to anoint her son for the great
 princely kingdom tomorrow on the day of Pushyami star".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fortunate indeed is Kausalyā, whose son will be consecrated tomorrow under the Puṣya asterism by the foremost of the twice-born with the great office of Prince Regent!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -486,6 +540,12 @@ happiness; *pratiitaam* = famous; *hatadvishham* = annihilator of enemies.
 reached great prosperity, in the height of joy, will dispose of her adversaries (in the person of
 Bharata and yourself)".
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With joined palms like a bondmaid, you will have to wait upon Kausalyā when she has attained the earth, supreme joy, renown, and the destruction of her rivals.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -531,6 +591,12 @@ us; *tava* = your; *putrashcha* = son also; *gamishhyati* = will get;
 
 "Thus, if you become Kausalya's servant-maid along with us, your son Bharata will be
 Rama's attendant."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And thus you, together with us, will become her handmaid; and your son too will sink into servitude under Rāma.
 </details>
 </details>
 
@@ -578,6 +644,12 @@ Comment: The words 'Rama's wives' here do not indicate that Rama had multiple
 wives. Manathara refers to a possible future where Rama being a King would marry other women. It
 was a norm then for a king to have more than one wife.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joyful indeed will be the noble women of Rāma’s household, whereas your daughters-in-law will be joyless upon the ruin of Bharata!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -623,6 +695,12 @@ praised; *raamasya guNena* = Rama's virtues.
 
 Hearing Manthara speak thus in many distasteful words, Kaikeyi began to extol Rama's
 virtues, saying: -
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Mantharā speaking thus in utter displeasure toward Rāma (paramāprītām), Queen Kaikeyī extolled the virtues of Rāma alone:
 </details>
 </details>
 
@@ -676,6 +754,12 @@ kingdom.
 speaks truth. He has a clean conduct. He is the eldest son of king Dasaratha and hence eligible for
 the kingdom."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rāma knows dharma, is endowed with noble virtues, self-controlled, grateful, truthful, and pure; being the eldest son of the king, He therefore merits the office of Prince Regent.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -723,6 +807,12 @@ will protect; *bhraatroom* = brothers; *bhR^ityaamshcha* = and servants;
 "The long living Rama will protect his brothers and servants like a father. O, the
 hunch backed one! Why are you so pained on hearing about Rama's coronation?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Long-lived, He will protect His brothers and servants like a father; why then, O humpbacked one, are you distressed upon hearing of Rāma’s consecration?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -768,6 +858,12 @@ hunch backed one! Why are you so pained on hearing about Rama's coronation?"
 
 "After Rama's rule for one hundred years, Bharata the best among men will certainly
 replace Rama on his father's throne, which is that of his ancestors."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And after a hundred years of Rāma’s reign, Bharata too—that bull among men—will surely obtain the ancestral kingdom of his father and forefathers.
 </details>
 </details>
 
@@ -819,6 +915,12 @@ festive occasion is to come off in future (too in the form of Bharata's installa
 even if it comes after a hundred years), why do you feel agonized like this as though burning (with
 jealousy)?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Why then, O Mantharā, when festive prosperity has arrived and auspiciousness is at hand, do you torment yourself as though burning?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -869,6 +971,12 @@ Kausalya.
 "For me, Rama is as lovable as Bharata and even more. Is he not doing more service
 to me than to Kausalya?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as Bharata is worthy of my honor, even so—nay, still more—is Rāghava; indeed, He waits upon me with greater devotion than upon Kausalyā herself!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -914,6 +1022,12 @@ brothers; *yathaa tathaa* = on par with; *aatmaanam* = his own self.
 
 "If Rama has kingdom then Bharata has it as well. Rama esteems his brothers just as
 his own self."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If the kingdom belongs to Rāma, then it belongs equally to Bharata as well; for Rāghava regards His brothers just as He regards His own self.”
 </details>
 </details>
 
@@ -961,6 +1075,12 @@ his own self."
 Manthara, after hearing Kaikeyi's words, felt very sad and after a long and hot
 sigh, spoke to her the following words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Kaikeyī’s words, Mantharā became sorely distressed; heaving a long, hot sigh, she spoke this to Kaikeyī:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1001,6 +1121,12 @@ in an ocean of sorrow; *shoka vyasana vistiirNe* = filled with misery and danger
 "On one side, you are getting immersed in an ocean of sorrow filled with misery and
 danger. But due to stupidity, you are not able to perceive the truth and you fail to assess your
 real position."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Viewing calamity as good through sheer folly (anarthadarśinī maurkhyāt), you do not perceive yourself sinking in a vast ocean of sorrow teeming with grief and ruin!
 </details>
 </details>
 
@@ -1051,6 +1177,12 @@ Bharata; *parihaasyate* = will be removed; *raajavaMshaat* = from the royal clan
 "O,Kaikeyi! If Rama becomes the king, his son will become the king after him in
 succession. Thus, Bharata's name itself will be removed from the royal clan."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāghava will become king, and after Rāghava whoever is His son; thus, O Kaikeyī, Bharata will be excluded altogether from the royal line!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1090,6 +1222,12 @@ sons; *raajJNyaH* = of a king; *natishhTantiH* = will not be installed;
 
 "O, Kaikeyi! All the sons of a king will not be crowned for a kingdom. If all are
 installed, there will be a great lawlessness."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For not all the sons of a king sit upon the throne, O spirited lady; if all were installed at once, there would be a mighty disorder of state (sumahān anayaḥ).
 </details>
 </details>
 
@@ -1137,6 +1275,12 @@ install; *jyeshhTe* = eldest son; *itareshhvapi* = eventhough others;
 "Therefore, kings, O, Kaikeyi of faultless limbs, install their eldest son,
 eventhough others may be full of virtues, as their successor to the throne."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, O faultless-limbed Kaikeyī, kings vest the reins of government in the eldest son alone, even when the younger sons are endowed with virtues.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1176,6 +1320,12 @@ nirbhagnaH* = a complete loser; *sukhebhyaH cha* = from comforts;
 
 "Oh, Kaikeyi the affectionate one! Your son will be completely distant from comforts
 and even from the royal clan; like an orphan."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That son of yours, O affectionate mother, will be utterly cast down—bereft like an orphan both of royal joys and of the royal line!
 </details>
 </details>
 
@@ -1227,6 +1377,12 @@ vriddhou* = when there is prosperity for step-wife.
 "I came here in your interests. But you have not understood me. You think it fit to
 give me a present when your step-wife is getting prospered."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore I have come here for your sake, yet you do not understand me—you who wish to bestow a reward upon me at the triumph of your rival co-wife!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1272,6 +1428,12 @@ give me a present when your step-wife is getting prospered."
 
 "Rama, ascending the throne without hindrance, will either send away Bharata to some
 other country or have him put to death. This is certain."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once Rāma obtains the kingdom free of thorns, He will surely cause Bharata to be driven to another land—or even to the other world!
 </details>
 </details>
 
@@ -1319,6 +1481,12 @@ friedship; *jaayate* = is created; *sthaavareshhvapi* = even on inanimate things
 "You sent Bharata to his maternal uncle's house even in his childhood. By being
 nearer, love is born even on inanimate objects. By sending Bharata to a distant place, you made
 Dasaratha to have no affection towards him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moreover, while still a child, Bharata was sent away by you to his maternal uncle’s abode; through proximity indeed does affection arise, even among inanimate trees and creepers.
 </details>
 </details>
 
@@ -1372,6 +1540,12 @@ joined Rama, Shatrughna joined Bharata."
 Comment: Sage Valmiki might be implying here that if Shatrughna were to be
 present then at Ayodhya, he would have tried for the prosperity of Bharata.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Drawn by Bharata’s affection, Śatrughna too went along with him; for just as Lakṣmaṇa is devoted to Rāma, even so is this Śatrughna devoted to Bharata.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1419,6 +1593,12 @@ great danger; *ishhiikaabhiH sannikarshhaat* = by proximity to Ishhiika grass.
 Ishhiika grass, is saved from this great danger of cutting. So also, Dasaratha might have supported
 Bharata if he was staying near to him in Ayodhya."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For it is heard that a certain tree marked for felling by woodcutters was saved from supreme peril by the thorny reeds (iṣīkābhiḥ) growing in close proximity to it.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1459,6 +1639,12 @@ Aswinis.
 
 "Lakshmana protects Rama. Rama protects Lakshmana. Their brotherly love is as famous
 as that of Aswini celestials."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saumitri will guard Rāma, and Rāghava likewise will guard Lakṣmaṇa; their brotherly love is renowned throughout the worlds like that of the twin Aśvins.
 </details>
 </details>
 
@@ -1507,6 +1693,12 @@ doubt.
 "Hence, Rama will not do a sinful act of killing Lakshmana. However there is no
 doubt that he will do so in the case of Bharata."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore Rāma will never do any wrong to Lakṣmaṇa; toward Bharata, however, Rāma would undoubtedly commit a fatal wrong!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1554,6 +1746,12 @@ also.
 "Hence, I feel that it is better for your son to go to forest directly from his
 uncle's house. This is good for you too."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore let Rāghava depart to the forest directly from the royal palace; this indeed pleases me and is supremely beneficial for you.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1593,6 +1791,12 @@ chaiva* = and to your side of relatives; *evam chet* = if it happens thus.
 
 "If Bharata gets his father's kingdom as per law, it will be beneficial to you and
 your side of relatives."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus there will be welfare for your kindred as well, if Bharata rightfully obtains his ancestral kingdom.
 </details>
 </details>
 
@@ -1636,6 +1840,12 @@ purpose; *jiivishhyati* = will live; *vashe* = under control;
 Bharata who failed to achieve his purpose live under control of Rama; whose flourishing object has
 been realised?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How shall that tender boy of yours—accustomed to happiness and a natural rival to Rāma—live with his fortunes ruined under the power of One whose fortunes are thriving?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1675,6 +1885,12 @@ Bharata; *prachchhaadyamaanam* = who is being wrapped up; *raameNa* = by Rama;
 
 "Rama is chasing and bringing down Bharata as a lion chases an elephant-king in
 forest. You ought to protect Bharata."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You ought to rescue Bharata, who is being overwhelmed by Rāma like a lordly elephant in the forest pursued by a lion!
 </details>
 </details>
 
@@ -1722,6 +1938,12 @@ for that animosity?
 
 "Previously, you treated Kausalya with disrespect due to arrogance that you were
 fortunate. Will not such Kausalya, your rival wife, revenge for that animosity?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Previously slighted by you in pride on account of your favored fortune with the king, how will Rāma’s mother—your co-wife—not exact vengeance for that enmity?
 </details>
 </details>
 
@@ -1776,6 +1998,12 @@ shaila paattanaam* = holding great ocean; mountains and towns; *tadaa* = then;
 "O, Kaikeyi! The day Rama becomes lord of this earth with its great oceans,
 mountains and towns; that day you and your Bharata will get a bad and pitiable position of
 ignominy."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And when Rāma obtains the earth together with its abundant oceans of gems and mountains, then, O spirited lady, you will sink into wretched humiliation along with poor Bharata!
 </details>
 </details>
 
@@ -1845,6 +2073,12 @@ of a solution to get your son Bharata the kingdom and to send Rama, your enemy, 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎण्टनॆय सर्ग पूर्णवायितु. ॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For when Rāma obtains the earth, Bharata will surely be ruined; therefore devise at once the kingship for your own son and the cause of banishment for this rival!”
 </details>
 </details>
 

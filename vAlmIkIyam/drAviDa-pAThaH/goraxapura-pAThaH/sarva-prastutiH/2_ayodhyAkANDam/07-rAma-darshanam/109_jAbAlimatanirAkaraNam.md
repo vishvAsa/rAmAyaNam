@@ -71,6 +71,12 @@ own.
 After hearing Jabali's words, Rama the best among virtuous and upright men spoke
 with a great devotion and with an undisturbed mind of his own (as follows);
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the speech of Jābāli, Rāma, foremost of souls devoted to truth (jābāles tu vacaḥ śrutvā rāmaḥ satyātmanāṃ varaḥ), spoke with supreme reverence for dharma and with his own unclouded intellect (uvāca parayā bhaktyā sva-buddhyā cāvipannayā):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +124,12 @@ agreeable one.
 "That which, in your desire to please me, you have counselled, is impossible though
 it appears to be possible. It is like a forbidden food, appearing to be an agreeable one."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That word which you have spoken here out of a desire to do what is pleasing to me (bhavān me priya-kāmārthaṃ vacanaṃ yad ihoktavān) is an improper act wearing the semblance of a proper act, unwholesome yet seeming wholesome (akāryaṃ kārya-saṅkāśam apathyaṃ pathya-sammitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +175,12 @@ labhate* = does not gain; *maanam* = respect; *satsu* = from honest men.
 
 "He who is unruly, fully invested with ill-conduct, having a bad reputation and
 seeing differences in everything, does not gain respect from honest men."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A man who transgresses moral bounds and is steeped in sinful conduct (nirmaryādas tu puruṣaḥ pāpācāra-samanvitaḥ), professing a doctrine of deviant behavior, gains no honor among the virtuous (mānaṃ na labhate satsu bhinna-cāritra-darśanaḥ).
 </details>
 </details>
 
@@ -211,6 +229,12 @@ bad family; *viiram* = a valiant man; *viiram* = a valiant man;
 "One's conduct itself explains whether one belongs to a good family or a bad family,
 valiant or arrogant and chaste or unchaste."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whether a man is of noble birth or ignoble, a true hero or one who merely fancies himself a man (kulīnam akulīnaṃ vā vīraṃ puruṣa-māninam), pure or else impure—it is conduct alone that proclaims him (cāritram eva vyākhyāti śuciṃ vā yadi vāśucim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -235,6 +259,12 @@ valiant or arrogant and chaste or unchaste."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीवु तिळिसिद आचारवन्नु तन्नदागिसिकॊण्ड पुरुषनु श्रेष्ठनन्तॆ कण्डुबन्दरू वास्तववागि अनार्यने आगिरुवनु. हॊरगिन्द पवित्रनन्तॆ काणुत्तिद्दरू ऒळगिनिन्द अपवित्रने आगिद्दानॆ. उत्तम लक्षणगळिन्द कूडिदवनु ऎन्दु अनिसिदरू निजवागि इदक्कॆ विपरीतने आगुवनु. शीलवन्तनॆन्दु तोरिदरू वास्तववागि दुःशीलने सरि.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Otherwise an ignoble man wearing the guise of the noble, one devoid of purity yet appearing pure (anāryas tv ārya-saṅkāśaḥ śaucād dhīnas tathā śuciḥ), devoid of auspicious marks yet seeming endowed with them, and of evil character while seeming virtuous (lakṣaṇyavad alakṣaṇyo duḥśīlaḥ śīlavān iva)—
 </details>
 </details>
 
@@ -290,6 +320,14 @@ qualities but appearing like the one having good qualities, ill-behaved but appe
 well-behaved abandoning righteousness and getting hold of unrighteousness in the guise of piety,
 creating confusion in the world and disregarding rules of conduct."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** If, abandoning what is auspicious, I were to embrace under the guise of dharma this unrighteousness that confounds the world (adharmaṃ dharma-veṣeṇa yadīmaṃ loka-saṅkaram abhipatsye śubhaṃ hitvā), bereft of Vedic rites and injunctions (kriyā-vidhi-vivarjitam)—
+
+**7:** —what discerning man in the world, skilled in distinguishing what ought to be done from what ought not to be done (kaś cetayānaḥ puruṣaḥ kāryākārya-vicakṣaṇaḥ), will hold me in high esteem—corrupt in conduct and a corrupter of the world (bahu-maṃsyati māṃ loke durvṛttaṃ loka-dūṣaṇam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -338,6 +376,12 @@ whom; *daasyaami* = can I give; *vR^ittam* = good conduct? kena = by which;
 
 "If I behave in this manner faithlessly, to whom can I advise a prescribed conduct?
 How would I attain heaven?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unto whom could I impart righteous conduct, or by what means could I attain heaven (kasya dhāsyāmy ahaṃ vṛttaṃ kena vā svargam āpnuyām), if I were to live by this course in which my solemn pledge is broken (anayā vartamāno hi vṛttyā hīna-pratijñayā)?
 </details>
 </details>
 
@@ -388,6 +432,12 @@ tadvR^ittaaH = such will be the conduct; *prajaaH* = of their subjects.
 "This entire world would follow its own whims, for, whatever the conduct of the
 kings may be, such will be the coduct of their subjects."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This entire world would then act according to mere whim (kāma-vṛttas tv ayaṃ lokaḥ kṛtsnaḥ samupavartate); for whatever the conduct of kings, such indeed is the conduct of their subjects (yad-vṛttāḥ santi rājānas tad-vṛttāḥ santi hi prajāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -435,6 +485,12 @@ in truth.
 "The eternal royal governance is indeed an assemble of truth and not cruel. Hence,
 the kingship has the Truth as its essence. The world is established in Truth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Truth alone, together with compassion, is the eternal conduct of kings (satyam evānṛśaṃsañ ca rāja-vṛttaṃ sanātanam); therefore kingship has truth for its very essence, and upon truth the world is established (tasmāt satyātmakaṃ rājyaṃ satye lokaḥ pratiṣṭhitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -480,6 +536,12 @@ beings; *satyamev* = truthfulness alone; *satyavaadii* = the one who speaks trut
 
 "Even sages and divine being have respected truthfulness alone. The one who speaks
 truth obtains the highest position in this world."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Both the sages and the gods have esteemed truth alone (ṛṣayaś caiva devāś ca satyam eva hi menire); for in this world the speaker of truth attains the supreme abode (satya-vādī hi loke ’smin paramaṃ gacchati kṣayam).
 </details>
 </details>
 
@@ -528,6 +590,12 @@ heaven.
 "People fear of a person, who speaks untruth, as one fears a snake. Truth is the
 highest virtue and is stated to be the origin of heaven."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Men shrink in terror from a man who speaks falsehood just as they do from a serpent (udvijante yathā sarpān narād anṛta-vādinaḥ); truth is declared in the world to be the supreme dharma and the root of heaven (dharmaḥ satyaṃ paro loke mūlaṃ svargasya cocyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -574,6 +642,12 @@ attaches herself to; truth; *sarvaani* = All; *satyamuulani* = are rooted in tru
 
 "Truth is god and all virtues follow truth. All are rooted in truth there is nothing
 higher than truth."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Truth alone is the Lord in the world; upon truth the goddess Lakṣmī ever abides (satyam eveśvaro loke satyaṃ padmā śritā sadā). All things have truth for their root; there is no state higher than truth (satya-mūlāni sarvāṇi satyān nāsti paraṃ padam).
 </details>
 </details>
 
@@ -622,6 +696,12 @@ surrender to truth.
 "Gift sacrifice, oblation, austerities performed and the scriptural texts have the
 foundation in Truth. Hence, one should thoroughly surrender to truth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gifts given, sacrifices offered, oblations poured, and austerities practiced (dattam iṣṭaṃ hutaṃ caiva taptāni ca tapāṃsi ca), as well as the Vedas, have truth for their foundation; therefore one should be wholly devoted to truth (vedāḥ satya-pratiṣṭhānās tasmāt satya-paro bhavet).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -668,6 +748,12 @@ rises high; *svarge* = to heaven; (according to the degree of truthfulness pract
 "One rules over the world. One develops a race. One sinks into hell . One rises high
 to heaven (according to one's degree of truthfulness practiced)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+One man rules the world, another rules only his family (ekaḥ pālayate lokam ekaḥ pālayate kulam); one man sinks into hell, while another is exalted in heaven (majjaty eko hi niraya ekaḥ svarge mahīyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -713,6 +799,12 @@ which was a devotee satyam = of truth.
 
 "I am true to my promise. Why should I not fulfilll the command of my father, who
 was a devotee of truth?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Why then should I not fulfill the command of my father (so ’haṃ pitur niyogan tu kimarthaṃ nānupālaye), being true to my promise and bound by truth to a solemn covenant of truth (satya-pratiśravaḥ satyaṃ satyena samayīkṛtaḥ)?
 </details>
 </details>
 
@@ -761,6 +853,12 @@ bhetsyaami* = cannot demolish; *setum* = the bond; *satyasya* = truth;
 "Neither covetousness nor forgetfulness nor pride would cause me to destroy the bond
 of morality. I shall honour the vow made to my father."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Neither out of greed, nor out of delusion, nor indeed out of ignorance, overcast by darkness (naiva lobhān na mohād vā na hy ajñānāt tamo-nvitaḥ), will I break the dike of truth, being true to my promise to my father (setuṃ satyasya bhetsyāmi guroḥ satya-pratiśravaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -807,6 +905,12 @@ chestasaH* = and unstable in mind; *iti* = this; *shrutam* = is what is taught;
 
 "Neither gods nor the manes will accept the offerings of those who are wanting in
 truth, unsteady and unstable in their minds. This is what is taught to us."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Neither the gods nor the ancestors, so we have heard, accept the offerings (naiva devā na pitaraḥ pratīcchantīti naḥ śrutam) of a man who is false to his pledge, fickle, and unsteady of mind (asatya-sandhasya sataś calasyāsthira-cetasaḥ).
 </details>
 </details>
 
@@ -855,6 +959,12 @@ been honoured; *satpuruSaiH* = by good men.
 "I perceive this virtue i the form of truthfulness as a universal permeation of
 spirit. That is why, this burden, observed as a vow, has been honoured by good men."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I myself behold this dharma of truth as intimately pertaining to the inner self (pratyag-ātmam imaṃ dharmaṃ satyaṃ paśyāmy ahaṃ svayam); for the sake of that truth, the burden practiced by good men is held dear (bhāraḥ sat-puruṣācīrṇas tad-artham abhimanyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -902,6 +1012,12 @@ deeds.
 "I renounce the so-called duty of a warrior, it is injustice under the name of
 justice, it is practised by petty cruel and covetous men of evil deeds."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I shall renounce that Kṣatriya code which is in truth unrighteousness wearing the guise of dharma (kṣāttraṃ dharmam ahaṃ tyakṣye hy adharmaṃ dharma-saṃhitam), practiced by base, cruel, and greedy men of sinful deeds (kṣudrair nṛśaṃsair lubdhaiś ca sevitaṃ pāpa-karmabhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -948,6 +1064,12 @@ by the body; *sampradhaarya* = after it has been conceived; *manasaa* = by the m
 "Sin is committed by the body after it has been conceived by the mind and falsehood
 is spoken with the tongue. Thus, the degrading act is of three types (with body, mind and
 tongue)"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having first pondered it in the mind, one commits sin with the body (kāyena kurute pāpaṃ manasā sampradhārya ca) and speaks falsehood with the tongue: thus sinful action is threefold (anṛtaṃ jihvayā cāha trividhaṃ karma pātakam).
 </details>
 </details>
 
@@ -999,6 +1121,12 @@ prosperity; *lakSmiiH* = and fortune; *praarthayanti hi* = indeed woo;
 "The earth, fame, prosperity and fortune indeed woo a man of truth. They constantly
 oblige the truth: truth should therefore be strictly observed!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Earth, fame, glory, and fortune seek out a truthful man (bhūmiḥ kīrtir yaśo lakṣmīḥ puruṣaṃ prārthayanti hi) and attend upon him even when he abides in heaven; therefore one should cleave to truth alone (svarga-sthaṃ cānupaśyanti satyam eva bhajeta tat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1045,6 +1173,12 @@ be; *anaaryameva* = are really unworthy
 "The logical words, you have made it out to be good, saying 'Do this good thing' as
 uttered to me, are really unworthy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That which you have judged to be best would in truth be utterly ignoble (śreṣṭhaṃ hy anāryam eva syād yad bhavān avadhārya mām), when with specious words you say to me, ‘Do this auspicious thing!’ (āha yukti-karair vākyair idaṃ bhadraṃ kuruṣva ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1089,6 +1223,12 @@ uttered to me, are really unworthy."
 
 "Having promised before my father about my exile to the forest, how can I fulfil
 Bharata's words now, abandoning the father's words?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having promised my father this residence in the forest (kathaṃ hy ahaṃ pratijñāya vana-vāsam imaṃ gurau), how can I do the word of Bharata, casting aside the word of my father (bharatasya kariṣyāmi vaco hitvā guror vacaḥ)?
 </details>
 </details>
 
@@ -1136,6 +1276,12 @@ queen Kaikeyi also; *abhavata* = became; *prahR^iSyamaaNaaH* = rejoiced.
 "A firm promise has been made by me in the presence of my father, when Queen Kaikeyi
 too became rejoiced."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A firm vow was pledged by me in the presence of my father (sthirā mayā pratijñātā pratijñā guru-sannidhau), and Queen Kaikeyī too rejoiced greatly at that time (prahṛṣyamāṇā sā devī kaikeyī cābhavat tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1163,6 +1309,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु अरण्यदल्ले इद्दु ऒळ- हॊरगॆ पवित्रनागि नियमित भोजन माडुवॆनु मत्तु फल-मूल पुष्पगळिन्द देवतॆगळन्नु, पितृगळन्नु तृप्तिपडिसुत्ता प्रतिज्ञॆयन्नु पालिसुवॆनु.॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dwelling thus in the forest, pure and regulated in my diet (vana-vāsaṃ vasann evaṃ śucir niyata-bhojanaḥ), gratifying the ancestors and the gods with pure roots, flowers, and fruits (mūlaiḥ puṣpaiḥ phalaiḥ puṇyaiḥ pitṝn devāṃś ca tarpayan),
 </details>
 </details>
 
@@ -1215,6 +1367,12 @@ Ancestors with pure roots, flowers and fruits, with all my five senses fully sat
 deceit, fully devout and discriminative of what ought to be done and what ought not to be
 done."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+with my five senses contented, I carry on my course of life (santuṣṭa-pañca-vargo ’haṃ loka-yātrāṃ pravartaye), free from guile, full of faith, and discerning what ought and ought not to be done (akuhaḥ śraddadhānas san kāryākārya-vicakṣaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1266,6 +1424,12 @@ of fire; *vaayushcha* = the wind- god; *somashcha* = and the moon-god;
 to be undertaken. The god of fire, the wind-god and the moon-god reap the fruits of their
 acts."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having attained this land of action, one must perform auspicious deeds (karma-bhūmim imāṃ prāpya kartavyaṃ karma yac chubham); for Agni, Vāyu, and Soma themselves are partakers of the fruits of actions (agnir vāyuś ca somaś ca karmaṇāṃ phala-bhāginaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1312,6 +1476,12 @@ went; *divam* = to heaven.
 
 "Having performed ahundred sacrifices, Indra the Lord of celestials went to heaven.
 Having practised severe austerities, the great sages went to heaven."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having performed a hundred sacrifices, the king of the gods went to the third heaven (śataṃ kratūnām āhṛtya deva-rāṭ tridivaṅ gataḥ); and having practiced fierce austerities, the great sages attained the celestial realm (tapāṃsy ugrāṇi cāsthāya divaṃ yātā maharṣayaḥ).”
 </details>
 </details>
 
@@ -1366,6 +1536,12 @@ tanunjaH* = that prince; *ugra tejaaH* = with a terrible energy; *amR^iSyamaaNaH
 Hearing that argument of atheism inuntiated by Jabali, Rama the prince with a
 terrible energy, without tolerating his words, spoke in reproach to him (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unable to brook that reasoning of nihilistic speech which he had heard, the prince of fierce splendor spoke again to him, severely censuring his words (amṛṣyamāṇaḥ punar ugra-tejā niśamya tan nāstika-vākya-hetum athābravīt taṃ nṛpates tanūjo vigarhamāṇo vacanāni tasya):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1410,6 +1586,12 @@ terrible energy, without tolerating his words, spoke in reproach to him (as foll
 
 "The virtuous say that truth, piety, valour, compassion for all beings, polite
 speech and worship of Brahmanas, gods and unexpected guests are the paths to heaven."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Truth, righteousness, strenuous austerity, compassion toward all creatures, kindly speech (satyaṃ ca dharmaṃ ca parākramaṃ ca bhūtānukampāṃ priya-vāditāñ ca), and the honoring of Brāhmaṇas, gods, and guests—these the virtuous declare to be the path to heaven (dvijāti-devātithi-pūjanaṃ ca panthānam āhus tridivasya santaḥ).
 </details>
 </details>
 
@@ -1465,6 +1647,12 @@ entirety; *yathaavat* = properly; *apramattaaH* = and attentively;
 "Therefore the learned, well-instructed in what is to be their greatest advantage;
 follow their purpose resolutely and fulfill their duty in its entirety properly and attentively,
 seeking to attain the highest realms."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore the wise Brāhmaṇas, rightly understanding this matter and recognizing that dharma has an unfailing fruit (tenaivam ājñāya yathāvad artham ekodayaṃ sampratipadya viprāḥ), vigilantly practice the entire dharma according to rule and aspire to the attainment of the higher worlds (dharmaṃ carantaḥ sakalaṃ yathāvat kāṅkṣanti lokāgamam apramattāḥ).
 </details>
 </details>
 
@@ -1524,6 +1712,12 @@ this type; *buddhyaa* = of intelligence; *sunaastikam* = a firm atheist;
 
 "I accuse the act done by my father in taking you into his service, you with your
 misleading intelligence, a firm atheist fallen from the true path."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I censure that act done by my father in taking into his service you of perverse intellect (nindāmy ahaṃ karma pituḥ kṛtaṃ tad yas tvām agṛhṇād viṣama-stha-buddhim), who go about with such a mindset—an utter heretic fallen away from the path of dharma (buddhyānayaivaṃ-vidhayā carantaṃ sunāstikaṃ dharma-pathād apetam).
 </details>
 </details>
 
@@ -1594,6 +1788,12 @@ consort with an atheist."
 intellection. Truth/God is very subtle. A mind that is caught in the net of words/arguments cannot
 understand truth/God.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For just as a thief is, even so is a Buddha; know that a Tathāgata here is a heretical nihilist (yathā hi coraḥ sa tathā hi buddhas tathāgataṃ nāstikam atra viddhi). Therefore a wise man should never turn his face toward a heretic, who is the most to be distrusted among all people (tasmād dhi yaḥ śaṅkyatamaḥ prajānāṃ na nāstikenābhimukho budhaḥ syāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1654,6 +1854,12 @@ therefore; *dvijaaH* = Brahmanas; *hutamcha* = offer oblations in the sacred fiv
 of reward in this world as well as the next. Therefore, Brahmanas offer oblations in the sacred
 fire and practise noble deeds."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Men more ancient and far nobler than you performed many auspicious deeds (tvatto janāḥ pūrvatare varāś ca śubhāni karmāṇi bahūni cakruḥ), winning forever both this world and the next; therefore Brāhmaṇas perform auspicious rites, fire-oblations, and pious works (jitvā sademaṃ ca parañ ca lokaṃ tasmād dvijāḥ svasti hutaṃ kṛtaṃ ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1709,6 +1915,12 @@ honoured; *loke* = in the world.
 with spiritual splendour, practising abundant charity, harm-less and washed free of all taint, are
 honoured into the world."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Devoted to dharma, associated with the virtuous, radiant with ascetic energy, preeminent in the virtue of liberality (dharme ratāḥ sat-puruṣaiḥ sametās tejasvino dāna-guṇa-pradhānāḥ), harmless toward all beings, and free from taint—such foremost sages are worthy of worship in the world (ahiṃsakā vīta-malāś ca loke bhavanti pūjyā munayaḥ pradhānāḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1757,6 +1969,12 @@ and so on.
 aforesaid, Jabali (that brahmana) replied in a fitting manner in words that were beneficial and
 truthful, which showed his belief in authority of Vedas, the other world and so on."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unto the high-souled Rāma of unfailing courage, who was speaking these words in wrath (iti bruvantaṃ vacanaṃ sa-roṣaṃ rāmaṃ mahātmānam adīna-sattvam), the Brāhmaṇa spoke again a word that was true, orthodox, sincere, and full of conciliation (uvāca tathyaṃ punar āstikaṃ ca satyaṃ vacaḥ sānunayaṃ ca vipraḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1803,6 +2021,12 @@ that nothing exists; *kimchana* = whatsoever; *samiikSya* = perceiving;
 "I am not speaking the words of non- believers. I am not an atheist, nor is it a
 fact that nothing exists whatsoever. Perceiving the time, I have become a believer. When the time
 comes, I will become again just a non-believer."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I do not speak the doctrine of the nihilists, nor am I a nihilist, nor is it true that nothing exists hereafter (na nāstikānāṃ vacanaṃ bravīmy ahaṃ na nāstiko ’haṃ na ca nāsti kiñcana). Having regard to the occasion I became orthodox again, and when the occasion demands I would again speak as a nihilist (samīkṣya kālaṃ punar āstiko ’bhavaṃ bhaveya kāle punar eva nāstikaḥ).
 </details>
 </details>
 
@@ -1868,6 +2092,12 @@ spoken by me for your sake, to pacify you and to persuade you to return to Ayodh
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऒन्दु नूर ऒम्भत्तनॆय सर्ग पूर्णवायितु ॥109॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And this very occasion gently presented itself, whereby nihilistic speech was uttered by me (sa cāpi kālo ’yam upāgataḥ śanair yathā mayā nāstika-vāg udīritā); for the sake of turning you back, O Rāma, and for the purpose of propitiating you for Bharata’s sake was this spoken by me (nivartanārthaṃ tava rāma kāraṇāt prasādanārthaṃ tu mayaitad īritam).”
 </details>
 </details>
 

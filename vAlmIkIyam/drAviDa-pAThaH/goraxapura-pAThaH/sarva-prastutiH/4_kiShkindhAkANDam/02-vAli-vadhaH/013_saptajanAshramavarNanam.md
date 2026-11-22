@@ -48,6 +48,12 @@ of Seven Sages.' On worshipping it they proceed to Kishkindha.
 
 लक्ष्मणाग्रज धर्मात्मा श्रीराम सुग्रीवनन्नु जॊतॆगॆ करॆदुकॊण्डु पुनः ऋष्यमूकदिन्द वालिय पराक्रमदिन्द सुरक्षितवाद आ किष्किन्धापुरिगॆ हॊरटरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From Ṛṣyamūka, that righteous-souled (dharmātmā) elder brother of Lakṣmaṇa (lakṣmaṇāgrajaḥ), accompanied by Sugrīva (sahasugrīvaḥ), set out for Kiṣkindhā, which was guarded by Vālī's valor (vālivikramapālitām)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -90,6 +96,12 @@ sugriivaH* = with, Sugreeva; *R^ishyamuukaat* = from Rishyamuka; *vaali vikrama 
 That righteous Rama readying his great bow decorated with gold, and on taking blazing sun similar arrows
 that are victory-oriented in wars, proceeded from Rishyamuka along with Sugreeva to the city ruled by
 the valour of Vali, namely Kishkindha. [4-13-1, 2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Rāma having raised aloft his great bow adorned with gold (mahac cāpam kāñcanabhūṣitam) and having taken up his battle-winning arrows (śarān raṇasādhakān) bright as the sun (ādityasaṃkāśān).
 </details>
 </details>
 
@@ -135,6 +147,12 @@ great mighty one, Lakshmana, also; *yayau* = storde.
 
 Stern-necked Sugreeva and the great mighty Lakshmana strode ahead of that great soul Rama. [4-13-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ahead (agrataḥ) of that great-souled Rāghava marched compact-necked (saṃhatagrīvaḥ) Sugrīva and Lakṣmaṇa of mighty strength (mahābalaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -179,6 +197,12 @@ energy, monkeys, captain of, captains Tara. [yayau = proceeded.]
 
 The brave Hanuma, dauntless Nala and Neela, and the captain of monkey's captains Tara of great energy
 followed them rearward. [4-13-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Behind (pṛṣṭhataḥ) came the hero Hanumān, Nala, valiant Nīla (nīlaś ca vīryavān), and Tāra of mighty splendor (mahātejāḥ), the commander of monkey troop-commanders (hariyūthapayūthapaḥ).
 </details>
 </details>
 
@@ -252,6 +276,14 @@ kandaraaNi = mandira aakaara parvata vivaraaNi = *house-like mountain cavities;
 *nir+daraaNi = shaila vivaraaNi; guhaaH = deva khaata giri bilvaani-*deep mountain caves made by
 divinities - Rama Tilaka.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Gazing upon (vīkṣamāṇāḥ) trees weighed down with loads of blossoms (puṣpabhārāvalambinaḥ), and ocean-bound rivers (saritaḥ sāgaraṃgamāḥ) bearing pellucid waters (prasannāmbuvahāś caiva)—
+
+**6:** —and house-like mountain caverns (kandarāṇi ca), crags (śailāṃś ca), rock-fissures (nirdarāṇi), natural caves (guhās tathā), prominent peaks (śikharāṇi ca mukhyāni), and pleasing ravines (darīś ca priyadarśanāḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -321,6 +353,12 @@ The following two verses contain the foots in one *samaasa*/ one compound which 
 spell will be rhythmic. The first foot of verse nine is one *samaasa* / one compound only. Both
 the unbroken compound and segregated word order are given below for reading pleasure.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and beholding along the way (mārge) water-filled lakes (sajalān taṭākāṃś ca) resplendent with waters pure as beryl (vaidūryavimalais toyaiḥ) and with lotuses bearing buds opening to the tip of their sheaths (padmaiś cākośakuḍmalaiḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -373,6 +411,12 @@ shakunaiH* = with other, birds; *prati naaditaan* = in reverb, sounding [reverbe
 Those lakes are reverberant with Karandava-s, Saarasa-s, Swans, Vanjula-s and other waterfowls, also
 like that with Chakravaaka-s and other birds. [4-13-8]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—[lakes] echoing (pratināditān) with kāraṇḍava ducks (kāraṇḍaiḥ), sārasa cranes (sārasaiḥ), swans (haṃsaiḥ), vañjula birds (vañjulaiḥ), water-hens (jalakukkuṭaiḥ), cakravāka sheldrakes (cakravākaiḥ), and other birds as well—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -423,6 +467,12 @@ carataam sthitaan* = moving, standing; *apashyan hariNaan* = have seen, deer.
 
 They have seen fearless deer feeding on soft grass blades everywhere, somewhere moving here and there
 in the forest, and else where standing. [4-13-9]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and seeing on every side (sarvataḥ paśyan) fearless deer (nirbhayān hariṇān) roaming in the woods (vanagocarān), feeding on tender shoots of young grass (mṛduśaṣpāṅkurāhārān), and standing on open glades (sthalīṣu sthitān)—
 </details>
 </details>
 
@@ -529,6 +579,16 @@ The two words *vihangama* and *khecara* mean a bird. But the *vihangama* is the
 cognate word and *khecara* is its adjective, as observed by Dr. Satya Vrat in his: The Ramayana
 - A Linguist Study.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** —and also dreadful, solitary wild tuskers (ghorān ekacarān vanyān dviradān), adorned with gleaming white tusks (śukladantavibhūṣitān), battering down embankments (kūlaghātinaḥ) and acting as enemies of lakes (taṭākavairiṇaś cāpi)—
+
+**11:** —and rutting (mattān) Vānaras resembling elephants (dviradaprakhyān), tearing up mountain slopes (giritaṭotkṛṣṭān) like moving mountains (parvatān iva jaṅgamān) and powdered with earth-dust (mahīreṇusamukṣitān)—
+
+**12:** —beholding other forest-roaming creatures in the woods (vane vanacarāṃś cānyān) and sky-faring birds (khecarāṃś ca vihaṃgamān), those followers of Sugrīva (sugrīvavaśavartinaḥ) marched swiftly on (tvaritā jagmuḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -573,6 +633,12 @@ cognate word and *khecara* is its adjective, as observed by Dr. Satya Vrat in hi
 
 While they are quickly going, Rama, the delight of Raghu's dynasty, saw there a clump of forest trees
 and he asked Sugreeva like this. [4-13-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As they were advancing swiftly there (teṣām tu gacchatām tatra tvaritam), Rāma, the delight of the Raghus (raghunandanaḥ), beheld a wooded grove of clustered trees (drumaṣaṇḍavanam dṛṣṭvā) and spoke to Sugrīva:
 </details>
 </details>
 
@@ -620,6 +686,12 @@ like, shining forth.
 "This cluster of trees surrounded with plantain trees is like an accumulation of thick clouds, and this
 is shining forth like a cloudscape in sky. [4-13-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here shines a dense cluster of trees (vṛkṣaṣaṇḍaḥ prakāśate) like a cloud in the sky (megha ivākāśe), vast as a massed bank of clouds (meghasaṃghātavipulaḥ) and ringed on its borders by plantain trees (paryantakadalīvṛtaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -663,6 +735,12 @@ tvayaa* = inquisitiveness, to be clear, be made, I, wish to, by you.
 **अनुवादः**
 
 "What is this? I wish to know and oh, friend, I wish you to clear this inquisitiveness of mine. [4-13-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What is this (kim etat)? I wish to know (jñātum icchāmi), O friend, for curiosity (kautūhalam) has arisen in me; I wish to have my curiosity dispelled (kautūhalāpanayanam kartum) by you!”
 </details>
 </details>
 
@@ -709,6 +787,12 @@ tvayaa* = inquisitiveness, to be clear, be made, I, wish to, by you.
 On hearing that sentence of that great soul Raghava, then Sugreeva described about the significance
 of that forest while proceeding on the way. [4-13-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of great-souled Rāghava, Sugrīva, even as he walked along (gacchann eva), recounted the story of that great forest (ācacakṣe 'tha tan mahad vanam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -753,6 +837,12 @@ of that forest while proceeding on the way. [4-13-16]
 
 "Raghava, this spacious hermitage with abundant gardens and dainty tubers, fruits and water is a weary
 remover." Thus Sugreeva started telling Rama. [4-13-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Rāghava, this is a vast hermitage (vistīrṇam āśramam) that dispels all fatigue (śramanāśanam), richly endowed with pleasure-gardens and woods (udyānavanasampannam) and blessed with sweet roots, fruits, and water (svādumūlaphalodakam).
 </details>
 </details>
 
@@ -804,6 +894,12 @@ munayaH aasan* = hermits, were there.
 with their heads pendulous downward and legs up, as in *shiirSa aasana* ,
 the upside-down yogic body posture, and who always reclined in water. [4-13-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here dwelt seven sages of rigid vows (munayaḥ saṃśitavratāḥ) known by the name of Saptajanas (saptajanā nāma), who constantly slept in water (niyatam jalaśāyinaḥ) with their heads pointed downward (adhaḥśīrṣāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -853,6 +949,12 @@ _________________
 "They were making diet on air alone that too once in seven days, and living unwaveringly in that way
 they practised their asceticism for seven hundred years and went to heavens with their bodies. [4-13-19]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Subsisting on air (kṛtāhārā vāyunā) once every seven nights (saptarātre), those mountain-dwellers (acalavāsinaḥ) ascended to heaven (divam yātāḥ) after seven hundred years (varṣaśataiḥ saptabhiḥ) together with their physical bodies (sakalevarāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -900,6 +1002,12 @@ _________________
 
 "This hermitage that has encircling trees for its compound wall has become highly unassailable even
 for Indra together with all gods and demons. [4-13-20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through their ascetic power (teṣām etat prabhāveṇa), this hermitage, enclosed by a rampart of trees (drumaprākārasaṃvṛtam), is utterly unassailable (sudurādharṣam) even by the gods and demons together with Indra (sendraiḥ surāsuraiḥ).
 </details>
 </details>
 
@@ -949,6 +1057,12 @@ in there, enter; *te punaH na nivartante* = they, again, not, returning.
 "Birds and other forest moving animals forbear this hermitage and those that unknowingly enter in there
 they do not return. [4-13-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Birds shun this [grove] (pakṣiṇo varjayanty etat), and so do other forest-roaming creatures (tathānye vanacāriṇaḥ); and those who enter here out of folly (viśanti mohād ye 'py atra) never return again (na nivartanti te punaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -994,6 +1108,12 @@ divine, also - you can smell.
 
 "From there artistically worded lyrical and instrumental tunes, and even the sounds of ornaments are
 audible, and oh, Raghava, one can sense a divine fragrance too. [4-13-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And here are heard the tinklings of ornaments (vibhūṣaṇaravāś cātra śrūyante) accompanied by melodious syllables (sakalākṣarāḥ), the sound of musical instruments and song (tūryagītasvanaś cāpi), and a celestial fragrance (gandho divyaś ca), O Rāghava!
 </details>
 </details>
 
@@ -1042,6 +1162,12 @@ dhuumaH pradR^ishyate hi* = this, smoke, is apparent, indeed.
 "Even the triadic ritual-fires glow there, and their thick and ochry coloured smoke like that of a reddish-brown
 pigeon is apparent muffling the treetops. [4-13-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The three sacred fires (tretāgnayo 'pi) blaze here, and yonder dense smoke is seen (dhūmo hy eṣa pradṛśyate), tawny-gray like a dove's limb (kapotāṅgāruṇo ghanaḥ), enveloping the treetops (veṣṭayann iva vṛkṣāgrān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1083,6 +1209,12 @@ yathaa* = lapis', mountains [gem-mountains,] as with; *prakaashante* = they beam
 
 "When that smoke is mantling their tops these trees are beaming forth like mountains of gems overlaid
 with clusters of clouds. [4-13-24]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With their crowns wreathed in smoke (dhūmasaṃsaktamastakāḥ), these trees shine forth (ete vṛkṣāḥ prakāśante) like mountains of emerald-beryl (vaiḍūryagirayo yathā) veiled by banks of clouds (meghajālapraticchannāḥ).
 </details>
 </details>
 
@@ -1129,6 +1261,12 @@ with clusters of clouds. [4-13-24]
 
 "Offer salutations determinedly and adjoining palms addressing the sages called Seven Persons, oh Raghava,
 along with brother Lakshmana [4-13-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Perform obeisance (kuru praṇāmam) toward them (teṣām uddiśya), O righteous-souled Rāghava (dharmātman rāghava), together with your brother Lakṣmaṇa, devoutly (prayataḥ) and with folded hands (saṃhatāñjaliḥ)!
 </details>
 </details>
 
@@ -1179,6 +1317,12 @@ in bodies [bodily]; *kimcit* = in the least; *a shubham* = not, auspicious - tra
 "Those that offer salutations to those sages with contemplated souls will evince no bodily trauma in
 the least." Thus said Sugreeva to Rama. [4-13-26]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For those who bow (praṇamanti hi ye) to those sages of purified souls (teṣām ṛṣīṇām bhāvitātmanām), O Rāma, no inauspicious harm whatsoever (na teṣām aśubham kiṃcit) is found in their bodies (śarīre vidyate).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1223,6 +1367,12 @@ them the sages, on addressing; *abhyavaadayat* = offered salutations.
 
 Then Rama along with brother Lakshmana adjoined palms, addressed himself to the great-souled sages known
 as Seven Persons, and offered salutations to them. [4-13-27]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Rāma, together with his brother Lakṣmaṇa, folded his hands in reverence (kṛtāñjaliḥ) and, facing toward them (samuddiśya), saluted those great-souled sages (mahātmānas tān ṛṣīn abhyavādayat).
 </details>
 </details>
 
@@ -1272,6 +1422,12 @@ jagmuH sam hR^iSTa maanasaaH* = proceeded, well, pleased, at heart.
 That righteous Rama along with brother Lakshmana, Sugreeva and other monkeys having worshipped those
 sages proceeded to Kishkindha well-pleased at heart. [4-13-28]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having offered salutation (abhivādya ca), righteous-souled Rāma, his brother Lakṣmaṇa, Sugrīva, and the Vānaras marched onward (jagmuḥ) with joyful hearts (saṃhṛṣṭamānasāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1317,6 +1473,12 @@ gatvaa* = long, on way, on going; *vaali paalitaam duraadharSaam taam kiSkindhaa
 
 Having gone a long way from that hermitage of Seven Persons they have seen that unassailable and Vali
 ruled city namely Kishkindha. [4-13-29]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having gone a long distance (dūram adhvānam) from that hermitage of the Saptajanas (tasmāt saptajanāśramāt), they beheld that unassailable Kiṣkindhā (dṛdṛśus tām durādharṣām kiṣkindhām) guarded by Vālī (vālipālitām).
 </details>
 </details>
 
@@ -1382,6 +1544,12 @@ same Vali, the son of Indra. [4-13-30]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद हदिमूरनॆय सर्ग सम्पूर्णवायितु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma's younger brother [Lakṣmaṇa], Rāma, and the Vānaras (rāmānujarāmavānarāḥ), blazing with fierce energy (uditogratejasaḥ), grasped their weapons (pragṛhya śastrāṇi) and arrived here once more (punar āgatās tv iha) at the city guarded by the valor of Indra's son (sureśātmajavīryapālitām) for the slaying of their foe (vadhāya śatroḥ).
 </details>
 </details>
 

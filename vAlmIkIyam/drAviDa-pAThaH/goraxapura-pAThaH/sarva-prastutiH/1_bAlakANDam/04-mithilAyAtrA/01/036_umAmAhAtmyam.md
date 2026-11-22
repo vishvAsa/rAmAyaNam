@@ -80,6 +80,12 @@ When that sage Vishvamitra has finished narration of the legend of the
  in their turn have extolled that legend and spoke to that eminent-sage.
  [1-36-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When that sage had finished speaking (uktavākye munau tasmin), both heroic brothers, Rāghava and Lakṣmaṇa, joyfully applauded the tale (pratinandya kathām) and addressed that bull among sages:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,6 +139,12 @@ When that sage Vishvamitra has finished narration of the legend of the
  righteousness, oh, Brahman, and it will be apt of you to tell emphatically
  about the divine and earthly legend of the elder daughter of Himavanta,
  namely Ganga, for you are aware to expatiate upon it. [1-36-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Brāhmaṇa, this supreme narrative fraught with dharma (dharmayuktam idaṃ paramam) has been recounted by you! Since you know all things in full detail (vistarajño ’si), pray recount at length the divine and human origin and deeds (divyamānuṣasambhavam vistaram) of the eldest daughter of the lord of mountains (duhituḥ śailarājasya jyeṣṭhāyāḥ).
 </details>
 </details>
 
@@ -188,6 +200,12 @@ When that sage Vishvamitra has finished narration of the legend of the
  Ganga is renowned as the best one among all the rivers in three worlds?"
  Thus Rama and Lakshmana have asked the sage Vishvamitra. [1-36-3, 4a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For what reason does that sanctifier of the worlds (lokapāvanī) flood the three paths (trīn pathaḥ plāvayet), and how is Gaṅgā, the foremost of rivers, renowned as the three-pathed stream (tripathagā viśrutā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -230,6 +248,12 @@ When that sage Vishvamitra has finished narration of the legend of the
 When Kakutstha-s have enquired that way, the ascetically-wealthy sage
  Vishvamitra has narrated all the legend of Ganga in its entirety, staying
  among the sages. [1-36-4b, 5a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O knower of dharma, with what sacred deeds is she endowed across the three worlds (triṣu lokeṣu karmabhiḥ kaiḥ samanvitā)?” As Kākutstha spoke thus, Viśvāmitra, rich in asceticism,
 </details>
 </details>
 
@@ -274,6 +298,12 @@ When Kakutstha-s have enquired that way, the ascetically-wealthy sage
  throated god Shiva, as his throat became blue when he consumed poison
  during the churning of Milky Ocean, at one time with a predilection
  towards her he has started lovemaking with her. [1-36-5b, 6a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+recounted the entire narrative in full detail (nikhilena kathāṃ sarvām) in the midst of the sages: “In days of old, O Rāma, the blue-throated Lord Śiva (śitikaṇṭhaḥ), of mighty austerity, having wedded (kṛtodvāhaḥ),
 </details>
 </details>
 
@@ -333,6 +363,12 @@ The hundred divine years are said to be 36,000 mortal years and this
  where two thousand of four *yuga-s, kR^ita, treta, dvaapara, kali
  yuga-s* are one *brahmadina* Brahma's day etc.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“beheld the Goddess and entered upon conjugal union (maithunāyopacakrame); and as that wise Great God, the blue-throated Lord, sported with her (tasya saṃkrīḍamānasya), a hundred divine years passed away (divyaṃ varṣaśataṃ gatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -385,6 +421,12 @@ The hundred divine years are said to be 36,000 mortal years and this
  This being the worry of all gods they have prepared for action. [1-36-7b,
  8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet no son was born of her, O Rāma, scorcher of foes (na cāpi tanayas tasyām āsīt). Thereupon all the gods, with the Grandsire Brahmā at their head, rose up in urgent effort (samudyuktāḥ),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -409,6 +451,12 @@ The hundred divine years are said to be 36,000 mortal years and this
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इष्टु दीर्घ कालद बळिक रुद्रन तेजदिन्द उमादेविय गर्भदिन्द यावुदादरू महाप्राणि प्रकटवादरॆ आ तेजवन्नु यारु सहिसबल्लरु? ऎन्दु योचिसुत्ता देवतॆगळॆल्ल शिवन बळिगॆ होगि इन्तॆन्दरु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+reflecting: ‘If a being is born here (yad ihotpadyate bhūtam), who will be able to withstand it (kas tat pratisahiṣyati)?’ Approaching and bowing low in prostration (abhigamya praṇipatya), all the gods spoke these words:
 </details>
 </details>
 
@@ -465,6 +513,12 @@ This prolonged act of copulation is an act of yoga called *mahaa-
  'callisthenics' at the time of copulation even, so that there will be
  no ejaculation for a longer period. This is their 'Five-element theory...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O God of gods, O Mahādeva, ever devoted to the welfare of this world (lokasyāsya hite rata)! Moved by the prostration of the gods (surāṇāṃ praṇipātena), pray grant us your grace (prasādaṃ kartum arhasi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -489,6 +543,12 @@ This prolonged act of copulation is an act of yoga called *mahaa-
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुरश्रेष्ठने! ई लोक निन्न तेजवन्नु धरिसलारदु. आद्दरिन्द नीनु क्रीडॆयिन्द निवृत्तनागि देवबोधित तपस्सिनिन्द युक्तनागि उवादेवियॊन्दिगॆ तपस्सन्नु माडु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘The worlds will not be able to bear your fiery energy (na lokā dhārayiṣyanti tava tejaḥ), O foremost of gods! Endowed with Brāhmic austerity (brāhmeṇa tapasā yuktaḥ), practice asceticism together with the Goddess (devyā saha tapaś cara).
 </details>
 </details>
 
@@ -554,6 +614,12 @@ The word *tejas* also means semen, or offspring, besides resplendence
  because Kumara, or, Skanda takes birth with all the irrepressible effulgence
  of Shiva, plus his own.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Out of desire for the welfare of the three worlds (trailokyahitakāmārtham), hold your fiery seed within your own fiery essence (tejas tejasi dhāraya)! Protect all these worlds; you ought not to reduce the universe to non-existence (nālokaṃ kartum arhasi).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -597,6 +663,12 @@ The word *tejas* also means semen, or offspring, besides resplendence
 "On listening the words of gods that Rarefied-God of Universe, namely
  Shiva said, 'so be it,' and further spoke this to all of the gods, indeed.
  [1-36-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing the words of the deities, the Supreme Lord of all the worlds (sarvalokamaheśvaraḥ) said to them all, ‘So be it!’ (bāḍham ity abravīt), and then spoke again as follows:
 </details>
 </details>
 
@@ -646,6 +718,12 @@ The word *tejas* also means semen, or offspring, besides resplendence
 " 'I wish to bear my sperm in my virility and Uma in hers, let the immortals
  and mortals as well, derive a perfect bliss. [1-36-13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Together with Umā, I shall hold back my fiery energy by my own fiery power (dhārayiṣyāmy ahaṃ tejas tejasaiva sahomayā); let the thirty gods and the Earth attain peace and tranquility (tridaśāḥ pṛthivī caiva nirvāṇam adhigacchatu)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -688,6 +766,12 @@ The word *tejas* also means semen, or offspring, besides resplendence
 " 'But that part which has already stirred up from its place is irrestrainable,
  as such, oh gods of eminence, you tell me who can contain that part
  of the unexcelled potence.' So said Shiva to gods. [1-36-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Yet as for this peerless fiery seed of mine that has already been stirred from its seat (yad idaṃ kṣubhitaṃ sthānān mama tejo hy anuttamam), who shall bear it? Let the foremost of the gods declare that to me (dhārayiṣyati kas tan me bruvantu surasattamāḥ).’
 </details>
 </details>
 
@@ -735,6 +819,12 @@ _________________
  is Divine-Bull, namely Shiva, 'that part of the potence which has already
  stirred up, the earth indeed endures that now. [1-3-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus addressed, the gods replied to the bull-bannered Lord (pratyūcur vṛṣabhadhvajam): ‘Whatever fiery seed has been stirred today (yat tejaḥ kṣubhitaṃ hy adya), the Earth (dharā) shall bear it!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -778,6 +868,12 @@ _________________
  Shiva, discharged his refulgent semen with which the earth together
  with its mountains and forests is overspread. [1-36-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus addressed, the mighty Lord of the gods released it (surapatiḥ pramumoca mahābalaḥ), and by that fiery energy the entire Earth, with her mountains and forests, was pervaded (tejasā pṛthivī yena vyāptā sagirikānanā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -820,6 +916,12 @@ _________________
  great-potence of Rudra along with Wind-god, lest that potence may annihilate
  the earth and earthlings, because you can consume anything that comes
  in touch with you. [1-36-17]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereupon the gods spoke once more to Hutāśana (Agni): ‘Accompanied by Vāyu, enter into this mighty, fierce energy of Rudra (āviśa tvaṃ mahātejo raudraṃ vāyusamanvitaḥ)!’
 </details>
 </details>
 
@@ -882,6 +984,12 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
  have suckled him he is also called as Kaaritkeya. The birth and legend
  of Kaartikeya is detailed in the next chapter relating to Ganga.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Pervaded again by Agni (tad agninā punar vyāptam), that seed became the White Mountain (saṃjātaṃ śvetaparvatam) and the divine reed-forest Śaravaṇa (divyaṃ śaravaṇaṃ caiva), blazing like fire and the sun combined (pāvakādityasaṃnibham),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -932,6 +1040,12 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
  pleased at heart as it has happened according to their prayer, thereby
  they fulsomely adored Shiva and even Uma. [1-36-19b, 20a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“wherein was born the mighty-splendored Kārtikeya, sprung from Agni (kārtikeyo ’gnisambhavaḥ). Then the gods together with the hosts of sages (devāḥ sarṣigaṇās tadā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -973,6 +1087,12 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
 "Oh, Rama, but the daughter of Himalayan Mountain, namely Uma, while
  irefully saying this to the divinities she cursed them all with her
  eyes reddened in anger. [1-36-20b, 21a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+with their minds supremely gladdened (suprītamanasaḥ), worshipped both Umā and Śiva exceedingly (pūjayām āsur atyartham). Thereupon the daughter of the Mountain, O Rāma, spoke thus to the thirty gods:
 </details>
 </details>
 
@@ -1044,6 +1164,14 @@ Thus the celestials do not directly breed. They take the agency of humans
  monkey race, and Menaka, and as in the case of Vishvamitra giving birth
  to Shakuntala, who in her turn gave birth to Bharata, so on.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “Filled with wrath and her eyes reddened with anger (samanyur krodhasaṃraktalocanā), she cursed them all (aśapat sarvān): ‘Since I was prevented by you when united with my lord out of desire for a son (yasmān nivāritā cāhaṃ saṃgatā putrakāmyayā),
+
+**22:** “‘you shall no longer be able to beget offspring in your own wives (apatyaṃ sveṣu dāreṣu notpādayitum arhatha); from this day forth, let your consorts remain barren (adyaprabhṛti yuṣmākam aprajāḥ santu patnayaḥ)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1068,6 +1196,12 @@ Thus the celestials do not directly breed. They take the agency of humans
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऎल्ला देवतॆगळिगॆ हीगॆ शपिसि, उमादेवियु भूमिगू शापवन्नु कॊट्टळु-भूमिये! नीनु एकरूपळागि इरलारॆ, निनगॆ अनेक पतिगळागलि.॥23॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having spoken thus to all the gods, she cursed the Earth as well (śaśāpa pṛthivīm api): ‘O Earth (avane), you shall become manifold in form (naikarūpā) and the wife of many lords (bahubhāryā bhaviṣyasi)!
 </details>
 </details>
 
@@ -1131,6 +1265,12 @@ The sin of earth to bear the curse of Uma Devi is to accept the semen
  asks her mother on earth, i.e., mother earth herself, to take her back
  into her womb.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And sullied by my wrath (matkrodhakaluṣīkṛtā), O dull-witted one (sudurmedhaḥ), you shall never obtain the joy born of a son (na ca putrakṛtāṃ prītiṃ prāpsyasi), since you did not wish me to have a son (mama putram anicchatī)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1173,6 +1313,12 @@ The sin of earth to bear the curse of Uma Devi is to accept the semen
 "That God of Gods Shiva becoming ill at ease to look at all of the distressed
  gods, equally feeling small to convince his consort Uma, he has started
  to journey towards the western quarter which is ruled by Rain-god. [1-36-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding all those gods thus afflicted (tān sarvān pīḍitān dṛṣṭvā), the Lord of the gods (Śiva) set out to depart (gamanāyopacakrāma) toward the quarter guarded by Varuṇa (diśaṃ varuṇapālitām).
 </details>
 </details>
 
@@ -1225,6 +1371,12 @@ Here some say the mountain on which Shiva settled for ascesis as *
  himavatprabhava* giving it a full name, like Mt. Kailash or Kanchanjunga
  etc. If any such mountain peak is named and available in mythologies
  or in Himalayas, this needs a revision.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Going thither to the northern flank of that mountain (pārśve tasyottare gireḥ), upon the peak sprung from Himavān (himavatprabhave śṛṅge), Maheśvara practiced austerity together with the Goddess (tapa ātiṣṭhat saha devyā).
 </details>
 </details>
 
@@ -1281,6 +1433,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तारनॆय सर्ग पूर्णवायितु. ॥36॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus, O Rāma, the detailed account of the Mountain’s daughter has been related to you (eṣa te vistaro śailaputryā niveditaḥ); now hear from me, together with Lakṣmaṇa, the glorious origin and power of Gaṅgā (gaṅgāyāḥ prabhavaṃ caiva śṛṇu me)!”
 </details>
 </details>
 

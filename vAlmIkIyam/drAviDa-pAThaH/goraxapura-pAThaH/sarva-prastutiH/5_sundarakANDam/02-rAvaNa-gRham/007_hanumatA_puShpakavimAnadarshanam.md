@@ -84,6 +84,12 @@ That Hanuma, the strong one, saw a group of houses with windows in golden hue,
 embedded with cat's-eye gems, like a great group of clouds in rainy season with lighting, together
 with a group of birds.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That mighty one beheld a network of mansions (veśmajālam) fitted with lattices of cat's-eye gems and gold (vyāsaktavaidūryasuvarṇajālam) and filled with flocks of birds (savihaṅgajālam), resembling in the rainy season a great bank of clouds (mahat prāvṛṣi meghajālam) wrapped in lightning (vidyutpinaddham).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -142,6 +148,12 @@ important buildings storing conches; bows; and other weapons; *punaH* = and also
 Hanuma saw various halls of the houses, important buildings storing conches, bows,
 and other weapons, and also heartening spacious attics at the top of mountain- like houses.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And he beheld diverse halls of the residences (niveśanānāṃ vividhāś ca śālāḥ), halls resplendent with foremost conchs, weapons, and bows (pradhānaśaṅkhāyudhacāpaśālāḥ), and charming, spacious rooftop moon-pavilions (manoharāś cāpi punar viśālāś candraśālāḥ) upon those mountain-like palaces (veśmādriṣu).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +206,12 @@ rakshasas;
 
 Hanuma saw houses glittered by various riches, well worshipped by Devas and Asuras,
 devoid of all flaws and obtained by the self-might of rakshasas.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkey beheld mansions radiant with manifold treasures (gṛhāṇi nānāvasurājitāni), highly honored even by gods and asuras (devāsuraiś cāpi supūjitāni), wholly free from every architectural defect (sarvaiś ca doṣaiḥ parivarjitāni), and won by his own might (svabalārjitāni);
 </details>
 </details>
 
@@ -252,6 +270,12 @@ himself; *mahiitale* = on Earth; *sarvaguNottaraaNi* = with all best qualities.
 Hanuma saw those houses of the ruler of Lanka, constructed by great effort as though
 constructed by Mayaa himself on earth with all best qualities.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He beheld those mansions of the lord of Laṅkā (laṅkādhipater gṛhāṇi), carefully arranged with great effort (prayatnābhisamāhitāni), as though fashioned visibly by Maya himself (mayena sākṣād iva nirmitāni), and surpassing all others in every excellence upon the face of the earth (mahītale sarvaguṇottarāṇi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +331,12 @@ Thereafter Hanuma saw the best house of the lord of rakshasas, having the appear
 of a cloud, soul-captivating one having a beautiful form made of gold which has no comparison,
 suitable of Ravana's might
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then he beheld a supreme mansion (gṛhottamam) having the form of a lofty cloud (ucchritamegharūpam), ravishing to the heart (manoharam), of lovely golden aspect (kāñcanacārurūpam), worthy of the rākṣasa lord's own might (rakṣo'dhipasyātmabalānurūpam), and of matchless beauty (apratirūparūpam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -361,6 +391,12 @@ suitable of Ravana's might
 Hanuma saw Ravana's house like heaven thrown upon earth, effulgent with glory,
 embedded with variety of diamonds covered by flowers of various trees, like the summit of a
 mountain covered by pollen.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like heaven itself scattered down upon the surface of the earth (mahītale svargam iva prakīrṇam), blazing with splendor (śriyā jvalantam), strewn with manifold gems (bahuratnakīrṇam), and covered with the blossoms of diverse trees (nānātarūṇāṃ kusumāvakīrṇam) like a mountain peak dusted with flower-pollen (girer ivāgraṃ rajasāvakīrṇam).
 </details>
 </details>
 
@@ -422,6 +458,12 @@ Being shone by the best among women like a cloud by lightening, being worshipped
 like being carried by the best swans, like an aerial car full of splendor, of good people in
 sky.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shining with the finest of women (nārīpravekair iva dīpyamānam) like a rain-cloud worshiped by flashes of lightning (taḍidbhir ambhodharam arcyamānam), and borne aloft by the foremost of swans (haṃsapravekair iva vāhyamānam), that well-fashioned aerial palace in the sky was endowed with radiant beauty (śriyā yutaṃ khe sukṛtaṃ vimānam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -481,6 +523,12 @@ Hanuma saw the best house like a beautiful cloud endowed with many hues, like th
 sky illumined by planets including the moon, decked with numerous precious stones like a mountain
 peak, looking picturesque with numerous minerals.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a mountain peak variegated with manifold mineral ores (yathā nagāgraṃ bahudhātucitram), and like the vault of the sky variegated with planets and the Moon (yathā nabhaś ca grahacandracitram), he beheld that aerial palace, wondrously fashioned like a lovely cloud (yuktīkṛtacārumeghacitram) and variegated with manifold gems (vimānaṃ bahuratnacitram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +587,12 @@ abounded of trees. The trees were made to be full of flowers. The flower was mad
 filaments and petals.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therein the ground was fashioned full of ranges of mountains (mahī kṛtā parvatarājipūrṇā); the mountains were fashioned full of canopies of trees (śailāḥ kṛtā vṛkṣavitānapūrṇāḥ); the trees were fashioned full of canopies of blossoms (vṛkṣāḥ kṛtāḥ puṣpavitānapūrṇāḥ); and each blossom was fashioned full of filaments and petals (puṣpaṃ kṛtaṃ kesarapatrapūrṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -596,6 +650,12 @@ also; *supushhpaaNi* = with beautiful flowers; *punashcha* = and also;
 
 White mansions were also built in the same way. Lakes also with beautiful flowers
 and also lotuses together with filaments and forest that were the best and wonderful.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+White mansions were fashioned therein (kṛtāni veśmāni ca pāṇḍurāṇi), and lotus-ponds with lovely blossoms (tathā supuṣpāṇy api puṣkarāṇi), and again lotuses complete with filaments (punaś ca padmāni sakesarāṇi), and variegated forests and noble lakes (vanāni citrāṇi sarovarāṇi).
 </details>
 </details>
 
@@ -655,6 +715,12 @@ stones; *vighuurNamaanam* = capable of traveling long distances.
 There the great Hanuma saw a great aerial car, the best among best of aerial cars,
 shining with the name of Pushpaka with the rays of precious stones, and capable of traveling long
 distances.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There that great monkey beheld that great aerial palace named Puṣpaka (puṣpāhvayaṃ nāma mahāvimānam), shining brightly (virājamānam), shimmering with the rays of its gems (ratnaprabhābhiś ca vighūrṇamānam), and esteemed as the loftiest even among supreme palaces (veśmottamānām api coccamānam).
 </details>
 </details>
 
@@ -716,6 +782,12 @@ Artificial birds made of cat's-eye gems, as well as birds made of silver and cor
 wonderful serpants made of various jewels, horses of beautiful limbs suitable by their noble breed
 were arranged.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Birds fashioned of cat's-eye gems were made therein (kṛtāś ca vaidūryamayā vihaṅgāḥ), and likewise birds of silver and coral (rūpyapravālaiś ca tathā vihaṅgāḥ), serpents variegated with manifold precious metals (citrāś ca nānāvasubhir bhujaṅgāḥ), and comely-limbed steeds true to their noble breed (jātyānurūpās turagāḥ śubhāṅgāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -769,6 +841,12 @@ like helpers; *kaamasya* = of the god of love; *saakshaat* = himself.
 Birds were made with corals on their wings and ogether with golden flowers, with
 good wings, with curved and bent wings in a playful way, shining like helpers of the god of love
 himself
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Birds were fashioned there with lovely faces and fair wings (kṛtā vihaṅgāḥ sumukhāḥ supakṣāḥ), bearing blossoms of coral and jāmbūnada gold upon their wings (pravālajāmbūnadapuṣpapakṣāḥ), with their curved wings gracefullyinclined (salīlam āvarjitajihmapakṣāḥ), shining like the very wings and allies of Love (kāmasya sākṣād iva bhānti pakṣāḥ);
 </details>
 </details>
 
@@ -832,6 +910,12 @@ petals held in their trunks, were devoted to the worship of an image of Goddess 
 an image of Goddess Lakshmi with four graceful hands and holding lotus in Her hand was made to
 exist in Pushpaka.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And elephants with shapely trunks (gajāḥ suhastāḥ), covered with lotus-pollen and holding blue-lotus petals in their trunks (sakesarāś cotpalapatrahastāḥ), were fashioned engaged in their task (niyujyamānāḥ); and in a lotus-pool (padmini) the Goddess Lakṣmī was fashioned with shapely hands, holding a lotus in her hand (babhūva devī ca kṛtā suhastā lakṣmīs tathā padmahastā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -891,6 +975,12 @@ surprised; *punashcha* = and saw (again); *tat* = that house; *paramasugandhi*
 In this fashion, nearing that house which was shining like a mountain with a
 beautiful glow that house with great sweet fragrance like a beautiful mountain during spring, with
 beautiful cave became surprised and saw (again).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus approached that splendid mansion (itīva tad gṛham abhigamya śobhanam), which was like a mountain with lovely caverns (nagam iva cārukandaram), and which again was supremely fragrant and beautiful (punaś ca tat paramasugandhi sundaram) like a mountain with lovely hollows at the end of winter (himātyaye nagam iva cārukandaram), he was filled with wonder (savismayaḥ).
 </details>
 </details>
 
@@ -952,6 +1042,12 @@ Rama.
 Thereafter that Hanuma nearing that city of Lanka worshipped by Rakshasas, ruled by
 arms of ten-headed Ravana, moving thereabout became very gloomy on not seeing that Seetha well
 worshipped by all and greatly conquered by the virtues of Her husband Sri Rama
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that monkey, having reached and roamed through that honored city (caran purīm) protected by the arms of the ten-faced Rāvaṇa (daśamukhabāhupālitām), and not having seen that highly revered daughter of Janaka (adṛśya tāṃ janakasutāṃ supūjitām), who was sorely afflicted and overcome by the force of her husband's virtues (suduḥkhitāṃ patiguṇaveganirjitām)—
 </details>
 </details>
 
@@ -1024,5 +1120,11 @@ about in the city of Lanka became greatly sorrowful on not seeing Seetha.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि एळनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then at that time, the mind of that high-souled one (mahātmanaḥ manaḥ)—whose soul was meditatively purified in manifold ways (bahuvidhabhāvitātmanaḥ), who was self-mastered (kṛtātmanaḥ), who walked the noble path (suvartmanaḥ), and who was endowed with true vision (sacakṣuṣaḥ)—became exceedingly sorrowful (abhavad atiduḥkhitam) as he moved about without beholding Janaka's daughter (janakasutām apaśyataḥ).
 </details>
 </details>

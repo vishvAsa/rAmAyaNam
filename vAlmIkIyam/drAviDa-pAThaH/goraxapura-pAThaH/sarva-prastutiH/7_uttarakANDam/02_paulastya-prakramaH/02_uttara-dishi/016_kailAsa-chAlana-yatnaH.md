@@ -36,6 +36,12 @@ title = "०१६ कैलास-चालन-यत्नः"
 
 (अगस्त्यरु हेळुत्तारॆ - ) राघव! रावणनु कुबेरनन्नु गॆद्दु, महासेननु हुट्टिद शरवण वॆम्ब विशालवाद नूजॆहुल्लिन वनक्कॆ होदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having vanquished his brother Dhanada [Kubera], O Rāma, that sovereign of the Rākṣasas (rākṣasādhipaḥ) journeyed unto that great reed-forest (śaravaṇaṃ mahat), the birthplace of Mahāsena [Skanda] (mahāsena-prasūtim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +67,12 @@ title = "०१६ कैलास-चालन-यत्नः"
 
 अल्लिगॆ होगि दशग्रीवनु सुवर्णमय कान्तियिन्द युक्तवाद, किरणसमूहगळिन्द व्याप्तवागि इन्नॊब्ब सूर्यनन्तॆ कङ्गॊळिसुव आ शरवण वनवन्नु नोडिदनु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Daśagrīva beheld (athāpaśyad) that vast golden reed-forest (raukmaṃ śaravaṇaṃ mahat), wreathed in a network of radiant beams (gabhasti-jāla-saṃvītam) like a second sun (dvitīyam iva bhāskaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +97,12 @@ title = "०१६ कैलास-चालन-यत्नः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदर बळियल्ले इद्द पर्वत, वनस्थळ तुम्बा रमणीयवागित्तु. श्रीरामा! अदन्नु हत्तलु तॊडगिदाग पुष्पक विमानद गति निन्तुहोदन्तॆ कण्डितु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having ascended near a certain mountain graced with lovely woodland glades (ramya-vanāntaram), he beheld the Puṣpaka aerial car there, O Rāma, suddenly brought to a standstill (viṣṭambhitam).
 </details>
 </details>
 
@@ -115,6 +133,14 @@ title = "०१६ कैलास-चालन-यत्नः"
 
 आग आ राक्षसराजनु तन्न मन्त्रिगळॊन्दिगॆ ई पुष्पक विमान एकॆ निन्तिदॆ ऎन्दु विचार माडतॊडगिदनु. इदादरो ऒडॆयन इच्छॆगनुसार नडॆयुवुदु. हीगिद्दरू मुन्दक्कॆ एकॆ होगुवुदिल्ल? नन्न ई पुष्पकविमान नन्न इच्छॆगनुसार नडॆयदिरलु कारणवेनु? ई पर्वतद मेलॆ यारो इद्दु, अवनदे ई कर्मविरबहुदु.॥4-5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Seeing Puṣpaka halted (viṣṭabdham)—though fashioned to move at will (kāmagaṃ kṛtam), now rendered immobile (agamam)—the lord of the Rākṣasas, surrounded by those ministers of his (sacivais taiḥ samāvṛtaḥ), reflected deeply:
+
+**5:** “For what reason (kin-nimittam) does this Puṣpaka not move at my will (icchayā me)? This must surely be the doing (karmedaṃ ... bhavet) of someone dwelling atop this mountain (parvatasyopariṣṭhasya)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -142,6 +168,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामा! आग बुद्धिकुशल मारीचनु हेळिदनु- राजा! ई पुष्पकविमान मुन्दॆ होगदिरुवु दरल्लि यावुदे कारण अवश्यवागिदॆ. कारणविल्लदॆ हीगॆ ऎन्दिगू आगलारदु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, O Rāma, the shrewd-minded Mārīca (mārīco buddhi-kovidaḥ) spoke to him: “It is not without cause (nedaṃ niṣkāraṇam), O King, that this Puṣpaka refuses to go forward (puṣpakaṃ yan na gacchati).
 </details>
 </details>
 
@@ -171,6 +203,12 @@ _________________
 
 अथवा ई पुष्पकविमान कुबेरनल्लदॆ बेरॆयवर वाहन आगलारदु; अदक्कागि अवनिल्लदॆ इदु निश्चेष्टितवागिदॆ.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or else (athavā), this Puṣpaka will serve as the vehicle of none save Dhanada (dhanadān nānya-vāhanam); therefore, deprived of the Lord of Wealth (dhanādhyakṣa-vinākṛtam), it has become motionless (niṣpandam abhavat).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -199,6 +237,14 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अष्टरल्ले भगवान् शङ्करन पार्षद नन्दीश्वरनु रावणन बळिगॆ बन्दनु. अवनु नोडलु विकारनागिद्दनु. अङ्गकान्तियु कप्पु हागू पिङ्गलवागित्तु. कुळ्ळगागिद्दु, विकटरूपदिन्द इद्दनु. बोळुतलॆयिद्दु भुजगळु चिक्कदागिद्दवु. बहळ बलिष्ठनाद आ नन्दीश्वरनु निःशङ्कनागि राक्षसेश्वर रावणनल्लि हेळिदनु.॥8-9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** Even in the midst of those words of his (iti vākyāntare tasya), fierce-visaged, dark-tawny (kṛṣṇa-piṅgalaḥ), dwarfish, deformed, shaven-headed (muṇḍī), stoop-armed (prahva-bhujaḥ), and mighty—Nandī,
+
+**9:** —that attendant of Bhava [Śiva] (bhavasyānucaraḥ), Nandīśvara, approached his side (pārśvam upāgamya) and fearlessly (aśaṅkitaḥ) spoke these words unto the lord of the Rākṣasas:
 </details>
 </details>
 
@@ -231,6 +277,12 @@ _________________
 
 दशग्रीवने! मरळिहोगु. ई पर्वतदल्लि भगवान् शङ्करनु क्रीडिसुत्तिरुवनु. इल्लिगॆ सुपर्ण, नाग, यक्ष, देवता, गन्धर्व, राक्षस हीगॆ याव प्राणियु बन्दु होगुवुदु निषेधिसलागिदॆ.॥10½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Turn back, O Daśagrīva (nivartasva daśagrīva)! Upon this mountain Śaṅkara is sporting (śaile krīḍati śaṅkaraḥ). To Suparṇas, Nāgas, and Yakṣas, to gods, Gandharvas, and Rākṣasas—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -258,6 +310,14 @@ _________________
 
 नन्दिय मातन्नु केळि दशग्रीवनु कुपितनादनु. कर्णकुण्डलगळु अल्लाडिदवु, कण्णुगळु रोषदिन्द कॆम्पादवु. अवनु पुष्पक विमानदिन्द इळिदु - यारु ई शङ्कर? ऎन्दु हेळुत्ता पर्वतद बुडक्कॆ बन्दनु.॥11-12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “To all created beings alike (sarveṣām eva bhūtānām), this mountain has been rendered impassable (agamyaḥ parvataḥ kṛtaḥ)!” Hearing those words of Nandī (iti nandi-vacaḥ śrutvā), his earrings quivering with wrath (krodhāt kampita-kuṇḍalaḥ),
+
+**12:** With eyes reddened by fury (roṣāt tu tāmra-nayanaḥ), he alighted from Puṣpaka (puṣpakād avaruhya), exclaiming, “Who is this Śaṅkara (ko ’yaṃ śaṅkaraḥ)?” and came down to the foot of the mountain (śaila-mūlam upāgataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -282,6 +342,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि होगि नोडिदरॆ भगवान् शङ्करनु समीपदल्ले हॊळॆयुत्तिरुव शूलवन्नॆत्तिकॊण्ड नन्दियु इन्नॊब्ब शिवनन्तॆ निन्तिद्दुदु नोडिदनु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+There he beheld Nandī (so ’paśyan nandinaṃ tatra), standing not far from the god (devasyādūrataḥ sthitam), leaning upon a blazing trident (dīptaṃ śūlam avaṣṭabhya) like a second Śaṅkara (dvitīyam iva śaṅkaram).
 </details>
 </details>
 
@@ -308,6 +374,12 @@ _________________
 
 वानरनन्तॆ मुखवुळ्ळ अवनन्नु नोडि आ निशाचरनु तिरस्कारदिन्द, नीरु तुम्बिद मेघदन्तॆ गम्भीर स्वरदल्लि गहगहिसि नगतॊडगिदनु.॥14॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing that monkey-faced one (vānara-mukham), that Rākṣasa treated him with contempt (avajñāya) and burst out there into thunderous laughter (prahāsaṃ mumuce), like a rain-laden cloud (satoya iva toyadaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -332,6 +404,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदन्नु नोडि, मत्तॊन्दु स्वरूपी नन्दियु कुपितनागि, अल्लि निन्तिद्द निशाचर दशमुखनल्लि इन्तॆन्दनु.॥15॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged at him (taṃ kruddhaḥ), the venerable Nandī, who is a second embodiment of Śaṅkara (śaṅkarasyāparā tanuḥ), thereupon addressed that Rākṣasa Daśānana who stood before him (daśānanam upasthitam):
 </details>
 </details>
 
@@ -367,6 +445,14 @@ _________________
 
 दशानना! नीनु वानररूपदल्लि नन्नन्नु नोडि अवहेळनॆ माडुत्ता, सिडिलगर्जनॆयन्तॆ अट्टहास माडिरुवॆ. आद्दरिन्द निन्न कुलवन्नु नाश माडलु नन्नन्तॆये पराक्रमिगळाद, रूप, तेजसम्पन्नराद वानररु उत्पन्नरागुवरु.॥16-17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** “Inasmuch as, despising me in my monkey-form (vānara-rūpaṃ mām avajñāya), O Daśānana, you have loosed a scornful laugh (apahāsaṃ pramuktavān) like a thunderbolt’s crash (aśanī-pāta-saṅkāśam),
+
+**17:** “Therefore, endowed with my own form (mad-rūpa-sampannāḥ) and equaling my valor and radiance (mad-vīrya-sama-tejasaḥ), monkeys shall be born (utpatsyanti ... vānarāḥ) for the utter destruction of your race (vadhārthaṃ hi kulasya tava)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -392,6 +478,12 @@ _________________
 
 क्रूर निशाचरने! उगुरु, हल्लुगळे आ वानरर अस्त्रगळागुवुवु, मनोवेगदन्तॆ वेगशालिगळागि, युद्धक्कागि उन्मत्तरागि महाबलशालियागुवरु, नडॆदाडुव पर्वतगळन्तॆये कण्डु बरुवरु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Armed with claws and fangs (nakha-daṃṣṭrāyudhāḥ), fierce, swift as the flight of thought (manaḥ-sampāta-raṃhasaḥ), maddened for battle (yuddhonmattāḥ), overflowing with strength, moving abroad like roaming mountains (śailā iva visarpiṇaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -416,6 +508,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरु ऒन्दागि मन्त्रि, पुत्रर सहित निन्न प्रबल अभिमानवन्नु, विशालकायनागिरुव गर्ववन्नु नुच्चुनूरागिसुवरु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Uniting together (sambhūya), they shall strip away (vyapaneṣyanti) your mighty arrogance (prabalaṃ darpam) and your towering pride of every kind (utsedhaṃ ca pṛthag-vidham), together with that of your ministers and sons.
 </details>
 </details>
 
@@ -445,6 +543,12 @@ _________________
 
 ऎलै निशाचरने! निन्नन्नु ईगले कॊन्दुहाकुव शक्ति ननगिदॆ, आदरू नीनु सायबारदु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet even though I am well able to slay you right now (mayā śakyaṃ hantuṃ tvām), O night-roamer (he niśācara), you are not to be slain by me (na hantavyaḥ)—for you have already been slain long since by your own deeds (hatas tvaṃ hi pūrvam eva svakarmabhiḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -470,6 +574,12 @@ _________________
 
 एकॆन्दरॆ तन्न कुत्सित कर्मगळिन्द नीनु मॊदलॆ सत्तिरुवॆ. (सत्तवरन्नु कॊल्लुवुदरिन्द एनु लाभ?) महात्मा नन्दियु इष्टु हेळुत्तले देवदुन्दुभिगळु मॊळगिदवु, आकाशदिन्द पुष्पवृष्टियायितु.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As soon as that high-souled god had uttered these words (ity udīrita-vākye tu deve tasmin mahātmani), celestial kettledrums resounded (deva-dundubhayo neduḥ) and a shower of blossoms fell from the sky (puṣpa-vṛṣṭiś ca khāc cyutā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -489,6 +599,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 परंतु महाबली दशाननने उस समय नन्दीके उन वचनोंकी कोई परवा नहीं की और उस पर्वतके निकट जाकर कहा— ॥ २२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disregarding Nandī’s words altogether (acintayitvā ... nandi-vākyam), that immensely mighty Daśānana (mahābalaḥ ... daśānanaḥ) drew close to the mountain (parvataṃ tu samāsādya) and spoke these words:
 </details>
 </details>
 
@@ -515,6 +631,12 @@ _________________
 
 आदरॆ महाबलि दशानननु आग नन्दिय मातन्नु परिगणिसदॆ आ पर्वतद बळिगॆ होगि पशुपतिये! याव कारणदिन्द यात्रॆ माडुवाग नन्न पुष्पक विमानद गति निन्तुहोयितो, निन्न आ पर्वतवु नन्न ऎदुरिगॆ निन्तिदॆ. अदन्नु नानु कित्तु बिसाडुवॆनु.॥22-23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This mountain on whose account (yat-kṛte) the flight of my Puṣpaka was cut short as I journeyed (puṣpakasya gatiś chinnā ... mama gacchataḥ)—this very mountain of yours I shall tear up by its roots (śailam unmūlaṃ karomi), O lord of bulls (gopate)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +661,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 याव प्रभावदिन्द शङ्करनु प्रतिदिन इल्लि राजनन्तॆ क्रीडिसुत्तिरुवनु? अवन ऎदुरिगॆ भयवु उपस्थितवागिदॆ ऎम्बुदन्नु अवनु तिळियदॆ होदनु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By what power (kena prabhāveṇa) does Bhava eternally sport here like a king (nityaṃ krīḍati rājavat)? He does not perceive what ought to be known (vijñātavyaṃ na jānīte)—that a source of terror now stands before him (bhaya-sthānam upasthitam)!”
 </details>
 </details>
 
@@ -565,6 +693,12 @@ _________________
 
 श्रीराम! हीगॆ हेळि दशग्रीवनु पर्वतद बुडक्कॆ कैगळन्नु चाचि, अदन्नु ऎत्तलु प्रयत्निसिदाग, आ पर्वत नडुगतॊडगितु.॥25॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus, O Rāma, he thrust his arms beneath the mountain (bhujān vikṣipya parvate) and swiftly heaved it aloft (tolayām āsa taṃ śīghram); and that mountain trembled violently (sa śailaḥ samakampata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -589,6 +723,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पर्वतवु नडुगु वुदरिन्द शङ्करन गणगळॆल्लरू कम्पिसिदरु. पार्वति देवियु विचलितळागि भगवान् शङ्करनन्नु अप्पि कॊण्डळु.॥26॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By that very shaking of the mountain (cālanāt parvatasyaiva), the attendants of the god were shaken (gaṇā devasya kampitāḥ); and Pārvatī too trembled (cacāla pārvatī cāpi), and thereupon clung tightly to Maheśvara (tadāśliṣṭā maheśvaram).
 </details>
 </details>
 
@@ -615,6 +755,12 @@ _________________
 
 श्रीराम! आग श्रेष्ठ पापहारि देवदेव महादेवनु आ पर्वतवन्नु तन्न कालिन अङ्गुष्ठदिन्द लीलाजालवागि ऒत्तिबिट्टनु.॥27॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, O Rāma, Mahādeva—Hara, foremost of the gods (devānāṃ pravaro haraḥ)—pressed down upon that mountain (taṃ śailaṃ pīḍayām āsa) effortlessly with his great toe (pādāṅguṣṭhena ... līlayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -639,6 +785,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मत्तॆ पर्वतस्तम्भगळन्तॆ इद्द दशग्रीवन भुजगळु पर्वतद कॆळगॆ जज्जिहोदवु. इदन्नु नोडि अल्लि निन्तिद्द आ राक्षसन मन्त्रिगळिगॆ भारी आश्चर्यवायितु.॥28॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crushed thereby (pīḍitās tu tataḥ) were his arms pinned beneath the mountain (śailasyādhogatā bhujāḥ); and filled with astonishment (vismitāś cābhavan) were the counselors of that Rākṣasa standing there (sacivās tasya rakṣasaḥ).
 </details>
 </details>
 
@@ -668,6 +820,12 @@ _________________
 
 आ राक्षसनु बाहुगळ नोविनिन्द, रोषदिन्द जोरागि आर्तनाद माडिदनु. अदरिन्द मूरु लोकगळू नडुगिदवु.॥29॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Out of fury (roṣāc ca) and from the crushing of his arms (bhujānāṃ pīḍanāt), that Rākṣasa suddenly let loose a terrifying roar (mukto virāvaḥ sahasā) by which the three worlds were made to quake (trailokyaṃ yena kampitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -692,6 +850,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रळय कालवे बन्तु ऎन्दु अवन मन्त्रिगळु तिळिदरु. सिडिलु बडियितु, आग इन्द्रादि देवतॆगळु मार्गदल्लि विचलितरादरु.॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His ministers took it for the thunderbolt’s crash at the end of a cosmic age (vajra-niṣpeṣaṃ ... yuga-kṣaye); and at that sound, the gods led by Indra (devā indra-purogamāḥ) were shaken from their heavenly courses (vartmastha-calitāḥ).
 </details>
 </details>
 
@@ -718,6 +882,12 @@ _________________
 
 समुद्र उक्कितु, पर्वतगळु कम्पिसिदवु. यक्ष, विद्याधररु, सिद्धरु परस्पर केळतॊडगिदरु - इदेनागुत्तिदॆ.॥31॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The oceans too were churned into tumult (samudrāś cāpi saṅkṣubdhāḥ), and the mountains likewise quaked (calitāś cāpi parvatāḥ); while Yakṣas, Vidyādharas, and Siddhas cried out, “What is this (kim etad)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -743,6 +913,12 @@ _________________
 
 दशग्रीवन मन्त्रिगळु हेळिदरु - महाराज दशानन ! ईग नीवु नीलकण्ठ उमावल्लभ महादेवनन्नु सन्तुष्टगॊळिसिरि. इल्लि निमगॆ शरण्यरादवरु बेरॆ यारन्नु नावु काणॆवु.॥32॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then those ministers of his addressed him as he cried out in agony (vikrośantam athābruvan): “Propitiate Mahādeva (toṣayasva mahādevam), the Blue-throated Lord of Umā (nīlakaṇṭham umāpatim)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -767,6 +943,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीवु स्तुतिगळिन्द अवनिगॆ प्रणाम माडि अवनल्लि शरणागिरि. भगवन्त शङ्करनु बहळ दयाळु आगिद्दानॆ. अवनु सन्तुष्टनागि निम्म मेलॆ कृपॆदोरुवनु.॥33॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Apart from him (tam ṛte), we see no other refuge here (śaraṇaṃ nānyaṃ paśyāmo ’tra), O Daśānana; bowing low with hymns of praise (stutibhiḥ praṇato bhūtvā), seek refuge in him alone (tam eva śaraṇaṃ vraja)!
 </details>
 </details>
 
@@ -799,6 +981,12 @@ _________________
 
 मन्त्रिगळु हीगॆ हेळिदाग दशमुखनु भगवान् वृषभध्वजनिगॆ वन्दिसि, नाना स्तोत्रगळिन्द हागू सामवेद मन्त्रगळिन्द अवनन्नु स्तुतिसिदनु. हीगॆ कैगळ नोविनिन्द अळुत्ता, स्तुतिसुत्ता ऒन्दु साविर वर्ष कळॆदुहोदुवु.॥34॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Compassionate Śaṅkara, once pleased (kṛpāluḥ śaṅkaras tuṣṭaḥ), will bestow his grace upon you (prasādaṃ te vidhāsyati)!” Addressed thus by his counselors (evam uktas tadāmātyaiḥ), he hymned the Bull-bannered Lord (tuṣṭāva vṛṣabha-dhvajam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -823,6 +1011,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामा! बळिक आ पर्वतदल्लि स्थितनाद महादेवनु प्रसन्ननादनु दशाननन भुजगळन्नु सङ्कटदिन्द पारुमाडि हेळिदनु.॥35॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing down (praṇamya), Daśānana praised him with Sāman chants and manifold hymns (sāmabhir vividhaiḥ stotraiḥ); and a full thousand years passed by (saṃvatsara-sahasraṃ tu ... gatam) as that Rākṣasa wept aloud (rudato rakṣasaḥ).
 </details>
 </details>
 
@@ -858,6 +1052,14 @@ _________________
 
 दशमुखने ! नीनु वीरनागिरुवॆ. निन्न पराक्रमदिन्द नानु प्रसन्ननागिद्देनॆ. पर्वतवु अदुमल्पट्टिद्दरिन्द नीनु अत्यन्त भयानक राव (आर्तनाद) माडिद्दरिन्द मूरु लोकगळ प्राणिगळु अत्तुबिट्टरु. अदरिन्द राक्षसराजने! इन्नु नीनु रावण ऎम्ब हॆसरिनिन्द प्रसिद्धनागुवॆ.॥36-37॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**36:** Thereupon Mahādeva, the supreme Lord standing upon the mountain summit (śailāgre viṣṭhitaḥ prabhuḥ), was pleased (prītaḥ); releasing his arms (muktvā cāsya bhujān), O Rāma, he spoke these words unto Daśānana:
+
+**37:** “I am pleased with your valor (prīto ’smi tava vīryasya) and your fierce heroic pride (śauṇḍīryāc ca), O Daśānana, as well as with that most dreadful roar (rāvaḥ sudāruṇaḥ) loosed by you while pinned beneath the mountain (śailākrāntena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -882,6 +1084,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भूतळदल्लि वासिसुव मनुष्यरु, यक्षरु हागू इतर ऎल्लरू हीगॆ समस्त लोकगळन्नु अळुवन्तॆ माडिद दशग्रीवनाद निन्नन्नु रावणनॆन्दु हेळुवरु.॥38॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because these three worlds (loka-trayaṃ caitat) were made to cry out in terror (rāvitaṃ bhayam āgatam), therefore, O King, you shall henceforth bear the renowned name of Rāvaṇa (rāvaṇo nāma nāmnā ... bhaviṣyasi)!
 </details>
 </details>
 
@@ -908,6 +1116,12 @@ _________________
 
 पुलस्त्यनन्दन! ईग नीनु बयसिद मार्गदिन्द अडॆ-तडॆ यिल्लदॆ होगबल्लॆ. राक्षसपते! नानु निनगॆ होगलु अप्पणॆ कॊडुत्तेनॆ, होगु.॥39॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Gods, mortals, Yakṣas, and whatever other beings dwell upon the surface of the earth (ye cānye jagatī-tale) shall address you thus (evaṃ tvām abhidhāsyanti): Rāvaṇa, the crier-maker of the worlds (rāvaṇaṃ loka-rāvaṇam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -933,6 +1147,12 @@ _________________
 
 भगवान् शङ्करनु हीगॆ हेळिदाग लङ्केश्वर हेळिदनु-महादेवने! नीनु प्रसन्ननागिद्दरॆ नानु निन्निन्द वरवन्नु बेडुत्तिद्देनॆ. अदन्नु दयपालिसु.॥40॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Go freely and without fear (gaccha ... visrabdham), O Paulastya, along whatever path you desire (pathā yena tvam icchasi); having my full leave (mayā caivābhyanujñātaḥ), O sovereign of the Rākṣasas, depart!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -957,6 +1177,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नानु देवता, गन्धर्व, दानव, राक्षस, गुह्यक, नाग हागू इतर महाबलशाली प्राणिगळिन्द अवध्यनागुवन्तॆ वर पडॆदिरुवॆ.॥41॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by Śambhu, the lord of Laṅkā (laṅkeśaḥ) himself replied: “If you are truly pleased, O Mahādeva (prīto yadi mahādeva), grant a boon unto me who ask it (varaṃ me dehi yācataḥ)!
 </details>
 </details>
 
@@ -985,6 +1211,12 @@ _________________
 
 देव! मनुष्यरन्नादरो नानु ऎणिसुवुदे इल्ल. नानु तिळिदन्तॆ अवर शक्ति बहळ अल्पवागिदॆ. त्रिपुरान्तकने! ब्रह्मदेवरिन्द ननगॆ दीर्घायुस्सु दॊरॆतिदॆ. ब्रह्मदेवरु कॊट्ट आयुस्सु पूर्णवागि पडॆयुवन्तॆ नानु बयसुत्तेनॆ. इदन्नु नीनु पूर्णगॊळिसबेकु. जॊतॆगॆ निन्निन्द ऒन्दु अस्त्रवन्नु पडॆयबेकॆम्ब आसॆ.॥42½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Invulnerability (avadhyatvam) has been obtained by me against gods, Gandharvas, and Dānavas, against Rākṣasas, Guhyakas, and Nāgas, and against whatever other mightier beings exist (ye cānye balavattarāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1012,6 +1244,14 @@ _________________
 
 रावणनु हीगॆ हेळिदाग भगवान् शङ्करनु ऒन्दु अत्यन्त हॊळॆयुव चन्द्रहास ऎम्ब खड्गवन्नु कॊट्टनु. अवन कळॆदुहोद आयुस्सिन अंशवन्नु पूर्णगॊळिसिदनु.॥43-44॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**43:** “I take no account of mortals, O Lord (mānuṣān na gaṇe deva)—in my estimation they are utterly insignificant (svalpās te mama sammatāḥ). And a vast span of life (dīrgham āyuś ca) has already been granted me by Brahmā, O Destroyer of the Three Cities (tripurāntaka).
+
+**44:** “Grant me, therefore, the unspent remainder of that desired lifespan (vāñchitaṃ cāyuṣaḥ śeṣam), and bestow upon me a weapon (śastraṃ tvaṃ ca prayaccha me)!” Addressed in this manner by Rāvaṇa, Śaṅkara—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1036,6 +1276,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ खड्गवन्नु नोडि शिवनु हेळिदनु- नीनु इदन्नु ऎन्दू तिरस्करिसबारदु. निन्निन्द ऎन्दादरू इदर तिरस्कारवादरॆ इदु पुनः नन्न बळिगॆ बरुवुदु, इदरल्लि संशयविल्ल.॥45॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—bestowed upon him a fiercely blazing sword renowned as Candrahāsa (khaḍgaṃ mahādīptaṃ candrahāsam iti śrutam), and granted too the full remainder of his lifespan (āyuṣaś cāvaśeṣaṃ ca); pausing there, the Lord of Beings (sthitvā bhūta-patis tadā),
 </details>
 </details>
 
@@ -1062,6 +1308,12 @@ _________________
 
 हीगॆ भगवान् शङ्करनिन्द नूतन हॆसरु पडॆदु रावणनु अवनिगॆ नमस्करिसिदनु. बळिक अवनु पुष्पक विमानवन्नेरिदनु.॥46॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bestowed it, Śambhu then declared: “This weapon must never be treated with disrespect by you (nāvajñeyam idaṃ tvayā); for should it ever be slighted by you (avajñātaṃ yadi hi te), it will return unto me alone—of this there is no doubt (mām evaiṣyaty asaṃśayaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1087,6 +1339,12 @@ _________________
 
 श्रीराम! अनन्तर रावणनु इडी पृथिवियल्लि दिग्विजयक्कागि सञ्चरिसतॊडगिदनु. अवनु ऎल्लॆडॆगळिगॆ होगि अनेक महापराक्रमिगळन्नु पीडिसिदनु.॥47॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus received his very name from Maheśvara himself (maheśvareṇaiva kṛta-nāmā), that Rāvaṇa bowed in reverence to Mahādeva (abhivādya mahādevam) and then ascended Puṣpaka (ārurohātha puṣpakam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1111,6 +1369,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनेक तेजस्वी क्षत्रियरु, शूरवीर रणोन्मत्तरु रावणन आज्ञॆयन्नु पालिसदिरलु अवरॆल्ल सैन्य परिवार सहित नाशवागि होदरु.॥48॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereafter, O Rāma, Rāvaṇa ranged across the face of the earth (mahī-tale ... paryakrāmata), harassing mighty-valored Kṣatriyas (kṣatriyān sumahāvīryān bādhamānaḥ) on every side (itas tataḥ).
 </details>
 </details>
 
@@ -1147,6 +1411,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि हदिनारनॆय सर्ग पूर्णवायितु. ॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Certain spirited and heroic Kṣatriyas (tejasvinaḥ śūrāḥ kṣatriyāḥ), intoxicated with battle-ardor (yuddha-durmadāḥ), refusing to submit to his command (tac-chāsanam akurvantaḥ), perished together with all their retinues (vineśuḥ sa-paricchadāḥ).
 </details>
 </details>
 

@@ -38,6 +38,12 @@ title = "१०० गन्धर्व-राज्य-ग्रहण-चो�
 
 कॆलकालद बळिक केकय देशद राजा युधाजित्तु तन्न पुरोहित अमित तेजस्वी अङ्गीरसन पुत्रराद ब्रह्मर्षि गार्ग्यरन्नु महात्मा श्रीरामन बळिगॆ कळिसिदनु.॥1½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After the lapse of some time (kasyacit tv atha kālasya), Yudhājit, the king of Kekaya (yudhājit kekayo nṛpaḥ), dispatched his own preceptor (svaguruṃ preṣayām āsa) to the great-souled Rāghava.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,6 +70,14 @@ title = "१०० गन्धर्व-राज्य-ग्रहण-चो�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवरॊन्दिगॆ श्रीरामचन्द्रनिगॆ प्रेमद काणिकॆयागि हत्तुसाविर कुदुरॆगळन्नु, रत्न कम्बळिगळन्नु, उण्णॆय शालुगळन्नु, नाना रीतिय रत्नगळन्नु, चित्र-विचित्र सुन्दर वसगळन्नु, मनोहर ऒडवॆगळन्नु कळिसिकॊट्टनु.॥2-3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** He sent Gārgya, the son of Aṅgiras (gārgyam aṅgirasaḥ putram), a brahmarṣi of immeasurable splendor (brahmarṣim amitaprabham), together with ten thousand horses (daśa cāśva-sahasrāṇi) as an unsurpassed gift of affection (prītidānam anuttamam).
+
+**3:** And the king gave to Rāma blankets and jewels (kambalāni ca ratnāni), wondrous fine garments (citravastram athottamam), and auspicious ornaments as well (śubhāny ābharaṇāni ca).
 </details>
 </details>
 
@@ -94,6 +108,14 @@ title = "१०० गन्धर्व-राज्य-ग्रहण-चो�
 
 मावनाद अश्वपति पुत्र युधाजित्तु कळिसिद महर्षि गार्ग्यरु बहुमूल्य काणिकॆगळन्नॆत्तिकॊण्डु अयोध्यॆगॆ बन्दिरुवरु ऎन्दु परम बुद्धिवन्त राघवेन्द्रनु केळिदाग, अवनु तम्मन्दिरॊन्दिगॆ ऒन्दु गावुद मुन्दॆ होगि, इन्द्रनु बृहस्पतियन्नु स्वागतिसि पूजिसिदन्तॆ महर्षि गार्ग्यरन्नु स्वागत-सत्कार माडि पूजिसिदनु.॥4-5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**4:** Hearing that the great sage Gārgya had arrived (maharṣiṃ gārgyam āgatam), together with that vast wealth dispatched by his maternal uncle, the son of Aśvapati (mātulasyāśvapatinaḥ prahitaṃ tan mahādhanam), the wise Rāghava—
+
+**5:** —going forth to meet him for the distance of a krośa (pratyudgamya ... krośamātram) accompanied by his younger brothers (sahānujaḥ), Kākutstha paid utmost homage to Gārgya (gārgyaṃ sampūjayām āsa) as Śakra honors Bṛhaspati.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +142,12 @@ title = "१०० गन्धर्व-राज्य-ग्रहण-चो�
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ महर्षियन्नु आदर-सत्कार माडि आ उडुगॊरॆयन्नु स्वीकरिसिद बळिक श्रीरामनु मावन मनॆय ऎल्ल क्षेमवन्नु केळिदनु. मत्तॆ महाभाग ब्रह्मर्षिगळु सुन्दर आसनदल्लि विराजिसि दाग श्रीरामनु इन्तु केळिदनु.॥6½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus honored that sage and accepted that wealth (taddhanaṃ pratigṛhya ca), and having asked step by step about every aspect of his maternal uncle’s welfare (pṛṣṭvā pratipadaṃ sarvaṃ kuśalaṃ mātulasya ca), Rāma began to question that illustrious sage once seated (upaviṣṭaṃ mahābhāgam).
 </details>
 </details>
 
@@ -149,6 +177,12 @@ _________________
 
 ब्रह्मर्षिये! नन्न मावनु एनु सन्देश कळिसिरुवनु? अदक्कागि साक्षात् बृहस्पतियन्तिरुव श्रेष्ठ वाग्मिगळाद पूज्यपाद महर्षिगळाद नीवु इल्लिगॆ आगमिसुव कारणवेनु.॥7½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What message has my maternal uncle sent (kim āha mātulo vākyam), on account of which Your Reverence has come hither (yadarthaṃ bhagavān iha prāptaḥ), foremost among masters of speech (vākyavidāṃ śreṣṭhaḥ), like Bṛhaspati himself in person (sākṣād iva bṛhaspatiḥ)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -174,6 +208,12 @@ _________________
 
 श्रीरामन ई प्रश्नॆ केळि महर्षिगळु अवनल्लि अद्भुतकार्यद विवरणॆ हेळतॊडगिदरु.॥8½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma’s speech (rāmasya bhāṣitaṃ śrutvā), the great sage began to relate to Rāghava (vaktum ... rāghavāyopacakrame) the wondrous-seeming full scope of his mission (kāryavistaram ... adbhutasaṅkāśam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -198,6 +238,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबाहो ! निम्म माव नरश्रेष्ठ युधाजित्तु प्रेमपूर्वक कळिसिद सन्देशवन्नु केळलु निनगॆ इष्टविरुवुदादरॆ हेळुवॆनु, केळु.॥9½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O mighty-armed one, your maternal uncle Yudhājit, that bull among men (mātulas te ... nararṣabhaḥ yudhājit), has spoken these affectionate words (vākyam āha ... prītisaṃyuktam); let them be heard if it pleases you (śrūyatāṃ yadi rocate).
 </details>
 </details>
 
@@ -227,6 +273,12 @@ _________________
 
 अवरु हेळिदरु - फल मूलगळिन्द समृद्धवाद, सुशोभितवाद सुन्दर गन्धर्व देशवु सिन्धू नदिय ऎरडू तीरगळन्नु व्यापिसिकॊण्डिदॆ.॥10½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘This Gandharva realm (ayaṃ gandharvaviṣayaḥ), adorned with fruits and roots (phalamūlopaśobhitaḥ), lies on both banks of the river Sindhu (sindhor ubhayataḥ pārśve)—a territory supremely lovely (deśaḥ paramaśobhanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -251,6 +303,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 वीर रघुनन्दन! गन्धर्व राज शैलूषन सन्तानगळु, युद्ध कलॆयल्लि कुशलराद, महाबलिष्ठराद मूरु कोटि गन्धर्वरु अस्त्र-शस्त्रगळिन्द सम्पन्नरागि आ देशवन्नु रक्षिसुत्तिद्दारॆ.॥11½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And it is guarded by Gandharvas (taṃ ca rakṣanti gandharvāḥ), armed and skilled in warfare (sāyudhā yuddhakovidāḥ)—three crores of exceedingly mighty warriors (trikoṭyo vai mahābalāḥ), the sons of Śailūṣa, O hero.
 </details>
 </details>
 
@@ -281,6 +339,14 @@ _________________
 
 महाबाहो! शुभकरवाद आ गन्धर्व नगरवन्नु नीनु गॆद्दु अल्लि सम्पत्समृद्धवाद ऎरडु नगरगळन्नु प्रतिष्ठापिसु. अत्यन्त सुन्दरवाद आ देशक्कॆ मत्यारू होगलाररु. आदुदरिन्द नीने अल्लिगॆ होगि अदन्नु स्वाधीनपडिसिको. नानु ऎन्दू निनगॆ अहितवादुदन्नु हेळुवुदिल्ल.॥12-13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** “‘Having thoroughly vanquished them, O Kākutstha (tān vinirjitya kākutstha), and their fair Gandharva city (gandharvanagaraṃ śubham), establish there, O mighty-armed one (niveśaya mahābāho), two well-ordered cities of your own (sve pure susamāhite).
+
+**13:** “‘No other has access there (anyasya na gatis tatra), and that country is supremely lovely (deśaḥ paramaśobhanaḥ); let this please you, O mighty-armed one (rocatāṃ te mahābāho), for I do not speak what is unbeneficial to you (nāhaṃ tvām ahitaṃ vade).’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -305,6 +371,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महर्षि मत्तु मावन आ मातन्नु केळि रघुनाथनिगॆ बहळ सन्तोषवागि हागॆये आगलि ऎन्दु हेळि भरतन कडॆगॆ नोडिदनु.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of the great sage and of his maternal uncle (maharṣer mātulasya ca), the delighted Rāghava said “So be it!” (uvāca bāḍham ity eva) and looked meaningfully upon Bharata (bharataṃ cānvavaikṣata).
 </details>
 </details>
 
@@ -340,6 +412,14 @@ _________________
 
 बळिक श्रीरामनु आ महर्षिगॆ कैजोडिसिकॊण्डु हेळिदनु- ब्रह्मर्षिगळे! इवरिब्बरु कुमाररु तक्ष मत्तु पुष्कलरु भरतन वीरपुत्ररागिद्दारॆ. इवरु आ देशदल्लि इद्दु, मावनिन्द सुरक्षितरागि धर्मदिन्द एकाग्रचित्तरागि आ देशवन्नु आळुवरु.॥15-16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** With joined palms raised in reverence (sāñjalipragrahaḥ), that delighted Rāghava spoke to the twice-born sage (so ’bravīd ... dvijam): “These two princes (imau kumārau), O brahmarṣi, shall march through and master that land (taṃ deśaṃ ... vicariṣyataḥ)—
+
+**16:** “—the two heroic sons of Bharata (bharatasyātmajau vīrau), Takṣa and Puṣkala as well (takṣaḥ puṣkala eva ca), well protected by their uncle (mātulena suguptau tu) and steadfastly established in dharma (dharmeṇa susamāhitau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -364,6 +444,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इवरिब्बरू कुमाररु भरतनन्नु मुन्दिट्टुकॊण्डु सैन्य, सेवकरॊन्दिगॆ अल्लिगॆ होगि, आ गन्धर्व रन्नु संहरिसि बेरॆ-बेरॆयागि ऎरडु नगरगळन्नु नॆलॆगॊळिसुवरु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Placing Bharata at their head (bharataṃ cāgrataḥ kṛtvā), the two princes, attended by their army and followers (kumārau sabalānugau), having slain the Gandharva’s sons (nihatya gandharvasutān), shall apportion the two cities between themselves (dve pure vibhajiṣyataḥ).
 </details>
 </details>
 
@@ -390,6 +476,12 @@ _________________
 
 आ ऎरडु श्रेष्ठ नगरगळन्नु स्थापिसि अवुगळल्लि तन्न ऎरडू पुत्ररिगॆ पट्टाभिषेक माडि अत्यन्त धर्मात्मा भरतनु पुनः नन्न बळिगॆ हिन्दिरुगुवनु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having founded those two foremost cities (niveśya te puravare) and installed his two sons within them (ātmajau sanniveśya ca), that exceedingly righteous one (atidhārmikaḥ) shall come back again into my presence (āgamiṣyati me bhūyaḥ sakāśam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -414,6 +506,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मर्षिगळल्लि हीगॆ हेळि श्रीरामचन्द्रनु भरतनिगॆ सैन्यदॊन्दिगॆ अल्लिगॆ होगलु आज्ञापिसिदनु हागू इब्बरू कुमाररिगॆ मॊदले राज्याभिषेक माडिबिट्टनु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus to the brahmarṣi (brahmarṣim evam uktvā tu), Rāma then commanded Bharata together with his army and retinue (bharataṃ sabalānugam ājñāpayām āsa) and consecrated the two princes (kumārau cābhyaṣecayat).
 </details>
 </details>
 
@@ -440,6 +538,12 @@ _________________
 
 बळिक सौम्य मृगशिरा नक्षत्रदल्लि अङ्गिरापुत्र महर्षि गार्ग्यरन्नु मुन्दिट्टुकॊण्डु, कुमाररॊन्दिगॆ भरतनु प्रयाण बॆळॆसिदनु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, under a benign asterism (nakṣatreṇa ca saumyena), placing the son of Aṅgiras at the forefront (puraskṛtyāṅgirassutam), Bharata marched forth with his army and his two sons (saha sainyena kumārābhyāṃ viniryayau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -464,6 +568,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इन्द्रनिन्द प्रेरितनाद देवसैन्यदन्तॆ, देवतॆगळिगू दुर्जयवाद आ सेनॆयु नगरदिन्द हॊरटितु. भगवान् श्रीरामनु दूरदवरॆगॆ होगि बीळ्कॊट्टनु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That army, invincible even to the gods (durādharṣā surair api), marched forth from the city like a host led by Śakra (śakrayukteva nagarān niryayāv atha), escorted a long distance by Rāghava (rāghavānugatā dūram).
 </details>
 </details>
 
@@ -490,6 +600,12 @@ _________________
 
 मांसाहारि जन्तुगळु, दॊड्ड-दॊड्ड राक्षसरु युद्धदल्लि, रक्तपातद इच्छॆयिन्द भरतन हिन्दॆ-हिन्दॆये नडॆदवु.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Carnivorous creatures (māṃsādāni ca sattvāni) and huge rākṣasas as well (rakṣāṃsi sumahānti ca) indeed followed behind Bharata (anujagmur hi bharatam) out of thirst for blood (rudhirasya pipāsayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -515,6 +631,12 @@ _________________
 
 अत्यन्त भयङ्कर अनेक साविर मांसभक्षि भूत समूहवु गन्धर्व पुत्रर मांसवन्नु तिन्नलु आ सैन्यदॊन्दिगॆ होयितु.॥23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And vast throngs of exceedingly fierce flesh-eating spirits (bhūtagrāmāś ca bahavo māṃsabhakṣāḥ sudāruṇāḥ) came by the thousands (sahasraśaḥ), eager to feast upon the flesh of the Gandharva’s sons (gandharvaputra-māṃsāni bhoktukāmāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +661,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सिंह, हुलि, काडुहन्दि, आकाशचारी पक्षिगळु अनेक साविर सङ्ख्यॆयल्लि सैन्यद मुन्दॆ-मुन्दॆ नडॆदवु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Many thousands of lions, tigers, and boars (siṃha-vyāghra-varāhāṇām) and of sky-ranging birds (khecarāṇāṃ ca pakṣiṇām) went onward in front of the army (senāyā yayur agrataḥ).
 </details>
 </details>
 
@@ -575,6 +703,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि नूरनॆय सर्ग पूर्णवायितु. ॥100॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having journeyed on the road for a month and a half (adhyardhamāsam uṣitā pathi), that army, free from all affliction (senā nirāmayā) and filled with joyous, well-nourished troops (hṛṣṭapuṣṭa-janākīrṇā), reached Kekaya (kekayaṃ samupāgamat).
 </details>
 </details>
 

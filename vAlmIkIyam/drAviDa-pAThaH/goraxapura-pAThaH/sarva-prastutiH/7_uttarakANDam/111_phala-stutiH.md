@@ -38,6 +38,12 @@ title = "१११ फल-स्तुतिः"
 
 (कुश-लवरु हेळुत्तारॆ-) महर्षि वाल्मीकिगळिन्द रचितवाद ई रामायण ऎम्ब श्रेष्ठ आख्यान उत्तरकाण्ड सहित इष्टे आगिदॆ. ब्रह्म देवरू इदन्नु आदरिसुत्तारॆ.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Such is the full extent of this sacred narrative together with its Uttarakāṇḍa (etāvad etad ākhyānaṃ sottaram), honored by Brahmā (brahma-pūjitam), renowned as the preeminent Rāmāyaṇa (rāmāyaṇam iti khyātaṃ mukhyam), composed by Vālmīki (vālmīkīnā kṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -65,6 +71,12 @@ title = "१११ फल-स्तुतिः"
 
 ई प्रकार भगवान् श्रीरामनु मॊदलिनन्तॆ तन्न विष्णु स्वरूपदिन्द परमधामदल्लि प्रतिष्ठितनादनु. अवनिन्द चराचर प्राणिगळ सहित ई समस्त त्रिलोकगळु व्याप्तवागिदॆ.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Viṣṇu, by whom this entire threefold universe of moving and unmoving beings is pervaded (yena vyāptam idaṃ sarvaṃ trailokyaṃ sa-carācaram), became established once more in the heavenly realm even as of old (pratiṣṭhito viṣṇuḥ svarga-loke yathā puram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -91,6 +103,12 @@ title = "१११ फल-स्तुतिः"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ भगवन्तन पावन चारित्रदिन्द कूडिद कारण देवतॆगळु, गन्धर्वरु, सिद्धरु, महर्षिगळु सदा सन्तोषदिन्द देवलोकदल्लि ई रामायण काव्यवन्नु श्रवणिसुत्तारॆ.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereafter the gods together with the gandharvas, the siddhas, and the supreme sages (devāḥ sa-gandharvāḥ siddhāś ca paramarṣayaḥ) ever listen in glad contentment (nityaṃ śṛṇvanti santuṣṭāḥ) to the divine Rāmāyaṇa in heaven (divyaṃ rāmāyaṇaṃ divi).
 </details>
 </details>
 
@@ -122,6 +140,12 @@ _________________
 
 ई रामायण आख्यानवु आयुष्यवन्नु, सौभाग्यवन्नु हॆच्चिसुत्तदॆ. ऎल्ल पापगळन्नु नाश माडुत्तदॆ. रामायणवु वेदक्कॆ समानवागिदॆ. विद्वांसरु श्राद्धदल्लि इदन्नु ओदि केळबेकु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This narrative bestows long life, good fortune, and the destruction of sin (idam ākhyānam āyuṣyaṃ saubhāgyaṃ pāpa-nāśanam); a wise man should cause this Rāmāyaṇa, equal to the Veda (rāmāyaṇaṃ veda-samam), to be recited at ancestral śrāddha rites (śrāddheṣu śrāvayed budhaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -148,6 +172,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदर पारायणदिन्द पुत्र हीननु पुत्रनन्नु, धनहीननु धनवन्नू पडॆयु त्तानॆ. प्रतिदिन इदर श्लोकद ऒन्दु चरणवादरू पठिसुववनु ऎल्ल पापगळिन्द मुक्तनागुत्तानॆ.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+One without a son obtains a son, and one without wealth obtains wealth (aputro labhate putram adhano labhate dhanam); whoever recites even a single word of it (padam apy asya yaḥ paṭhet) is freed from all sins (sarva-pāpaiḥ pramucyeta).
 </details>
 </details>
 
@@ -176,6 +206,12 @@ _________________
 
 प्रतिदिन पाप माडुव मनुष्यनू कूड इदर ऒन्दु श्लोकवन्नु नित्य पठिसिदरॆ अवनु ऎल्ल पापराशियिन्द मुक्तनागुत्तानॆ.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even a mortal who commits sins day after day (pāpāny api ca yaḥ kuryād ahany ahani mānavaḥ), if he recites but a single śloka (paṭhaty ekam api ślokam), is completely delivered from sin (pāpāt sa parimucyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -202,6 +238,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदर कथॆ हेळुव प्रवचनकारनिगॆ वस्त्र, गोवु, सुवर्णद दक्षिणॆ कॊडबेकु. प्रवचनकारनु सन्तुष्टनादाग ऎल्ल देवतॆगळु सन्तुष्टरागुत्तारॆ.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To the reciter one should present garments, a cow, and gold (vācakāya ca dātavyaṃ vastraṃ dhenuṃ hiraṇyakam); for when the reciter is well pleased, all the deities are pleased (vācake parituṣṭe tu tuṣṭāḥ syuḥ sarva-devatāḥ).
 </details>
 </details>
 
@@ -230,6 +272,12 @@ _________________
 
 ई रामायण आख्यानवु आयुस्सन्नु वृद्धिगॊळिसुवुदु, प्रतिदिन इदन्नु पारायण माडुववनु ई लोकदल्लि पुत्र-पौत्ररन्नु पडॆदु, मृत्युविन बळिक परलोकदल्लि सम्मानितनागुत्तानॆ.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A man who recites this life-giving narrative, the Rāmāyaṇa (etad ākhyānam āyuṣyaṃ paṭhan rāmāyaṇaṃ naraḥ), surrounded by sons and grandsons in this world (sa-putra-pautro loke ’smin), is honored both here and in the hereafter (pretya ceha mahīyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -257,6 +305,12 @@ _________________
 
 एकाग्रचित्तनागि प्रतिदिन प्रातःकाल, मध्याह्न,अपराह्ण, सायङ्कालगळल्लि रामायणद पारायण माडुववनिगॆ ऎन्दिगू यावुदे दुःखवागुवुदिल्ल.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even the lovely city of Ayodhyā, after lying deserted for many cycles of years (śūnyā varṣa-gaṇān bahūn), shall upon obtaining King Ṛṣabha (ṛṣabhaṃ prāpya rājānam) once again become a thriving habitation (nivāsam upayāsyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,6 +335,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामनु परम धामक्कॆ तॆरळिद बळिक रमणीय अयोध्या पुरियु अनेक वर्षगळवरॆगॆ जनशून्यवागिरुत्तदॆ. मत्तॆ ऋषभनु राजनादाग अल्लि जनवसति प्रारम्भवागुत्तदॆ.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This life-giving narrative, together with its future events and its Uttarakāṇḍa (sabhaviṣyaṃ sahottaram), was composed by the son of Pracetas [Vālmīki] (kṛtavān pracetasaḥ putraḥ), and Brahmā himself gave it his sanction (tad brahmāpy anvamanyata).
 </details>
 </details>
 
@@ -307,6 +367,12 @@ _________________
 
 प्रचेतसन पुत्र महर्षि वाल्मीकिगळु अश्वमेधयज्ञद नन्तरद कथॆ हागू उत्तरकाण्ड सहित रामायण ऎम्ब ई ऐतिहासिक काव्यवन्नु निर्माण माडिरुवरु. ब्रह्मदेवरू इदन्नु अनुमोदिसुत्तारॆ.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The merit of a thousand Aśvamedha sacrifices and ten thousand Vājapeyas (aśvamedha-sahasrasya vājapeyāyutasya ca) a mortal obtains simply by causing a single sarga to be heard (labhate śrāvaṇād eva sargasyaikasya mānavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -331,6 +397,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई काव्यद ऒन्दु सर्गवन्नु श्रवण माडुवुदरिन्द मनुष्यनु ऒन्दु साविर अश्वमेध मत्तु हत्तु साविर वाजपेय यज्ञद लवन्नु पडॆयुत्तानॆ.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sacred fords beginning with Prayāga, holy rivers headed by the Gaṅgā (prayāgādīni tīrthāni gaṅgādyāḥ saritas tathā), sacred forests beginning with Naimiṣa, and holy fields headed by Kurukṣetra as well (naimiśādīny araṇyāni kurukṣetrādikāny api)—all these have been visited in this world by him who has heard the Rāmāyaṇa (gatāni tena loke ’smin yena rāmāyaṇaṃ śrutam).
 </details>
 </details>
 
@@ -359,6 +431,12 @@ _________________
 
 ई लोकदल्लि रामायण कथॆयन्नु केळिदवनिगॆ, प्रयागादि तीर्थगळ, गङ्गादि पवित्र नदिगळ, नैमिषारण्य आदि वनगळ, कुरुक्षेत्र आदि पुण्य क्षेत्रगळ यात्रॆ पूर्णगॊळिसिदन्तॆये आगिदॆ.॥13½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He who bestows a bhāra-weight of gold at Kurukṣetra during a solar eclipse (hema-bhāraṃ kurukṣetre graste bhānau prayacchati), and he who listens to the Rāmāyaṇa in this world (yaś ca rāmāyaṇaṃ loke śṛṇoti)—those two are equal (sadṛśāv ubhau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -383,6 +461,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सूर्यग्रहणद समय कुरुक्षेत्रदल्लि ऒन्दु भारदष्टु सुवर्णदान माडुववनिगॆ, ऎष्टु फलवु सिगुवुदो अनुदिन रामायण केळुववनिगॆ अष्टे पुण्य लभिसुत्तदॆ.॥14½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He who, endowed with true and steadfast faith (samyak-chraddhā-samāyuktaḥ), listens to the sacred story of Rāghava (śṛṇute rāghavīṃ kathām), is delivered from every sin (sarva-pāpāt pramucyeta) and attains the realm of Viṣṇu (viṣṇu-lokaṃ sa gacchati).
 </details>
 </details>
 
@@ -409,6 +493,12 @@ _________________
 
 उत्तम श्रद्धॆयिन्द कूडि श्रीरघुनाथन कथॆ केळुववनु ऎल्ल पापगळिन्द मुक्तनागि विष्णुलोकक्कॆ होगुत्तानॆ.॥15½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whoever listens ever with devotion (yaḥ śṛṇoti sadā bhaktyā) to this primordial sage-composed poem made of old by Vālmīki (ādikāvyam idaṃ tv ārṣaṃ purā vālmīkinā kṛtam) attains the Vaiṣṇava form (sa gacched vaiṣṇavīṃ tanum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -433,6 +523,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हिन्दॆ वाल्मीकिगळु निर्मिसिद ई आर्ष रामायण आदिकाव्यवन्नु सदा भक्तिभाव दिन्द श्रवण माडुववनु भगवान् विष्णुविन सारूप्य पडॆदुकॊळ्ळुवनु.॥16½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His sons and wives prosper, as do his riches and his lineage (putra-dārāś ca vardhante sampadaḥ santatis tathā); knowing this to be the very truth, it should be heard by those of disciplined minds (satyam etad viditvā tu śrotavyaṃ niyatātmabhiḥ)—for that peerless Rāmāyaṇa is the very embodiment of the Gāyatrī (gāyatryāś ca svarūpaṃ tad rāmāyaṇam anuttamam).
 </details>
 </details>
 
@@ -461,6 +557,14 @@ _________________
 
 इदर श्रवणदिन्द पत्नी-पुत्रर प्राप्तियागुत्तदॆ, धन मत्तु सन्तति बॆळॆयुत्तदॆ. इदन्नु पूर्णवागि सत्यवॆन्दु तिळिदु, मनस्सु वशपडिसिकॊण्डु इदर श्रवण माडबेकु. ई परमोत्तम रामायण काव्यवु गायत्रीय स्वरूपवागिदॆ.॥17-18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** One without a son obtains a son, and one without wealth obtains wealth (aputro labhate putram adhano labhate dhanam); whoever recites even a single word of it (padam apy asya yaḥ paṭhet) is freed from all sins (sarva-pāpaiḥ pramucyeta).
+
+**18:** Whoever daily recites or hears the sacred life of Rāghava (yaḥ paṭhec chṛṇuyān nityaṃ caritaṃ rāghavasya ha), becoming spotless through devotion (bhaktyā niṣkalmaṣo bhūtvā), shall attain long life (dīrgham āyur avāpnuyāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -485,6 +589,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रतिदिन भक्तिभावदिन्द श्रीरामन ई चरित्रॆयन्नु केळुववनु, ओदुववनु निष्पापनागि दीर्घा युस्सन्नु पडॆयुत्तानॆ.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whoever desires to attain the highest good (śreyaḥ prāptuṃ ya icchati) should meditate upon Rāghava daily (cintayed rāghavaṃ nityam) and cause this narrative to be recited to brahmins day by day (śrāvayed idam ākhyānaṃ brāhmaṇebhyo dine dine).
 </details>
 </details>
 
@@ -511,6 +621,12 @@ _________________
 
 श्रेयस्सन्नु बयसु ववनु नित्य-निरन्तर श्रीरघुनाथनन्नु चिन्तिसबेकु. ब्राह्मणर ऎदुरिगॆ इदर पारायण - प्रवचन माडबेकु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whoever recites this complete life of the Lord of the Raghus (yas tv idaṃ raghunāthasya caritaṃ sakalaṃ paṭhet), at the ebbing of his vital breaths (so ’su-kṣaye), goes without a doubt to the realm of Viṣṇu (viṣṇu-lokaṃ gacchaty eva na saṃśayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -536,6 +652,12 @@ _________________
 
 ई रघुनाथ चरित्रद पूर्ण पारायण माडुववनु मृत्युविन बळिक भगवान् विष्णुविन धामक्कॆ होगुत्तानॆ; इदरल्लि संशयवे इल्ल.॥21॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His father, his grandfather, and likewise his great-grandfather (pitā pitāmahas tasya tathaiva prapitāmahaḥ), together with his father and his father before him (tat-pitā tat-pitā caiva), all attain Viṣṇu without a doubt (viṣṇuṃ yānti na saṃśayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -555,6 +677,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इतना ही नहीं, उसके पिता, पितामह, प्रपितामह, वृद्ध प्रपितामह तथा उनके भी पिता भगवान् विष्णुको प्राप्त कर लेते हैं, इसमें संशय नहीं है ॥ २२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bestowing the fourfold aims of human life eternally (caturvarga-pradaṃ nityam) is the sacred life of Rāghava (caritaṃ rāghavasya tu); therefore it should ever be heard with earnest effort as the highest good (tasmād yatnavatā nityaṃ śrotavyaṃ paramaṃ sadā).
 </details>
 </details>
 
@@ -591,6 +719,12 @@ _________________
 
 इष्टे अल्ल अवन तन्दॆ, तात, मुत्तात मत्तु अवन तन्दॆयू भगवान् विष्णुवन्नु पडॆदुकॊळ्ळुवुदरल्लि संशयवे इल्ल.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whoever listens with devotion to the Rāmāyaṇa—even a single quarter-verse or a single word (yaḥ pādaṃ padam eva vā)—attains the abode of Brahmā (sa yāti brahmaṇaḥ sthānam) and is honored forever by Brahmā (brahmaṇā pūjyate sadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -615,6 +749,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रामायणकाव्यद श्लोकद ऒन्दु चरण अथवा ऒन्दु पदवन्नु श्रवण माडुववनु ब्रह्मदेवर धामक्कॆ होगि, सदा अवरिन्द पूजितनागुत्तानॆ.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus stands this ancient sacred narrative (evam etat purāvṛttam ākhyānam)—may auspiciousness be yours (bhadram astu vaḥ)! Proclaim it aloud with unwavering trust; may the power of Viṣṇu ever increase (pravyāharata visrabdhaṃ balaṃ viṣṇoḥ pravardhatām)!
 </details>
 </details>
 

@@ -64,6 +64,12 @@ saadhakam* = and which promoted an advantage (to Lakshmana).
 In that situation, Vibhishana then spoke the following words, which were hostile to
 the enemies and advantageous to Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, in that situation (tasyām avasthāyām), Rāvaṇa's younger brother spoke to Lakṣmaṇa a word baneful to the foes and conducive to their own success (arthasādhakam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,6 +122,14 @@ etat aayodhyataam* = be quickly engaged in this battle; *kapibhiH* = by the monk
 "Let this army of demons which is seen here, dark as a cloud, be quickly engaged in
 battle, by the monkeys using rocks as thier weapons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “This rākṣasa army that is seen here, dark as a cloud (meghaśyāmam)—let it be swiftly engaged in battle (āyodhyatām) by the monkeys armed with crags!
+
+**3:** Strive, O Lakṣmaṇa, in the breaking (bhedane) of that mighty army; when this [host] is cleft, the son of the rākṣasa lord too shall become visible (dṛśyo bhaviṣyati) here.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -158,6 +172,12 @@ samaapyate* = is not carried through.
 thunderbolt, on the enemies, so long as this sacrificial act of Indrajit is not actually carried
 through."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scattering the foes with arrows resembling Indra's thunderbolt (indrāśaniprakhyaiḥ), charge swiftly (abhidravāśu) before this sacrificial rite is completed!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -198,6 +218,12 @@ acts; *sarvaloka bhayaavaham* = and who brings fear to all the worlds.
 "O hero! Make a short work of Indrajit, the evil minded, who is interested in
 performing conjuring tricks, who is unjust, engaged in cruel acts and who brings fear to all the
 worlds."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Slay, O hero, Rāvaṇa's evil-minded son, devoted to illusion (māyāparam), unrighteous (adhārmikam), of cruel deeds, and a terror to all the worlds!”
 </details>
 </details>
 
@@ -245,6 +271,12 @@ Vibhishana; *lakShmaNaH* = Lakshmana; *shubhalakShaNaH* = having auspicious mark
 Hearing the words of Vibhishana, Lakshmana, having auspicious marks, showered forth
 streams of arrows in the direction of Indrajit.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard Vibhīṣaṇa's words, Lakṣmaṇa, endowed with auspicious marks (śubhalakṣaṇaḥ), rained down a shower of arrows toward the son of the rākṣasa lord.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,6 +322,12 @@ battle-array; *sahitaaH* = together.
 
 Bears and monkeys, who fight was gigantic trees, rushed towards that army of demons,
 drawn up in battle-array.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bears and monkeys (śākhāmṛgāḥ), fighting with the finest of trees (drumapravarayodhinaḥ), rushed all together against that stationed army.
 </details>
 </details>
 
@@ -340,6 +378,12 @@ spears and javelins.
 The demons too, with an intent to kill the monkeys in battle, attacked them with
 sharp arrows, sowrds, spears and javelins.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the rākṣasas, eager to slay the monkey host (kapisainyajighāṃsavaḥ), advanced in battle with whetted arrows, swords, javelins, and lances (śaktitomaraiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -379,6 +423,12 @@ reverberating; *laN^kaam* = Lanka; *samantataH* = on all sides.
 
 That tumultuous battle between the monkeys and the demons rendered Lanka noisy on
 all sides with its great uproar.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That tumultuous clash (samprahāras tumulaḥ) arose between the monkeys and the rākṣasas, making Laṅkā resound on every side with a mighty uproar.
 </details>
 </details>
 
@@ -429,6 +479,12 @@ girishR^ingaishcha* = and with tossed mountain-tops.
 The sky was covered with weapons of various shapes, sharp arrows, trees and tossed
 mountain tops.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With weapons of manifold shapes, whetted arrows, trees, and upraised, dreadful mountain crags (giriśṛṅgaiḥ), the sky was covered over (ākāśam āvṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -477,6 +533,12 @@ of ugly faces and arms; *niveshayantaH* = hurling; *shastraaNi* = weapons;
 Those demons of ugly faces and arms, hurling weapons on the monkeys, created a great
 fear.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Driving their weapons into the monkey chiefs, those rākṣasas, with dreadful faces and arms (vikṛtānanabāhavaḥ), created immense terror (sumahad bhayam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -523,6 +585,12 @@ struck; *jaghnuH* = and killed; *sarva raakShasaan* = all the demons; *samare*
 Even the monkeys too struck and killed all the demons in the battle, with various
 types of trees and mountain-peaks.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the very same way, with whole trees (sakalair vṛkṣaiḥ) and mountain peaks, the monkeys assailed and struck down (abhijaghnur nijaghnuś ca) all the rākṣasas in battle.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -565,6 +633,12 @@ monkeys; *mahaakaayaiH* = possessing collosal bodies.
 
 A great fear developed among the demons who were fighting with mighty leaders of
 bears and monkeys endowed with colossal bodies.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through the foremost bears and monkeys, huge-bodied and of mighty strength, great terror arose among the rākṣasas who were fighting (yudhyamānānām).
 </details>
 </details>
 
@@ -612,6 +686,12 @@ dejected; *saH durdharShaH* = that unconquerable Indrajit; *udatiShThata* = left
 Hearing that his own army being tormented by the enemies, was dejected; that
 unconquerable Indrajit left off, without performing the sacrificial rite.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that his own army was dejected (viṣaṇṇam) andharassed by the foes, that unassailable one rose up (udatiṣṭhata) while his sacrificial rite remained uncompleted (karmaṇy ananuṣṭhite).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -657,6 +737,12 @@ trees; *aaruroha* = ascended; *ratham* = his chariot; *sajjam* = kept ready;
 
 That enraged Indrajit, coming out from the gloominess of the trees, ascended his
 firmly yoked chariot which had already been united
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Emerging from the darkness of the trees (vṛkṣāndhakārāt), filled with wrath, that son of Rāvaṇa mounted his prepared chariot, previously yoked (pūrvayuktam) and well-controlled.
 </details>
 </details>
 
@@ -704,6 +790,12 @@ shone; *antakaH mR^ityuriva* = like the destructive Death.
 That awful Indrajit, armed with terrific bow and arrows, looking like a mass of
 black collyrium with his blood-red eyes, appeared like the destructive Death.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his dreadful bow and arrows, resembling a mass of black collyrium (kṛṣṇāñjanacayopamaḥ), with blood-red face and eyes, that terrible one shone like Death the Destroyer (mṛtyur ivāntakaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -744,6 +836,12 @@ demons; *bhiima vegaanaam* = with a terrific speed; *paryavartata* = turned back
 Just on seeing Indrajit being on a chariot, that army of demons with a terrific
 speed, turned back, wishing to fight with Lakshmana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon merely beholding him stationed in his chariot, that army of terribly swift rākṣasas, eager to fight with Lakṣmaṇa (lakṣmaṇena yuyutsatām), wheeled back around (paryavartata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -768,6 +866,12 @@ speed, turned back, wishing to fight with Lakshmana.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग शत्रुदमननाद पर्वताकार विशालकाय हनुमन्तनु कीळलु, पुडिमाडलु अति कष्टकरवाद बहळ दॊड्ड वृक्षवन्नु कित्तुकॊण्डनु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At that very time, Hanūmān, tamer of foes, resembling a mountain (dharaṇīdharasaṃkāśaḥ), wrenched up (arujat) a huge tree, difficult to approach.
 </details>
 </details>
 
@@ -815,6 +919,12 @@ absolutely unpaalleled large tree. Consuming that army of demons, as a fire at t
 universal dissolution, the aforesaid monkey made that army unconscious on the battle field, with
 many trees.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consuming that army of the rākṣasas like the fire of universal dissolution (kālāgnir iva nirdahan), that monkey rendered it unconscious (niḥsaṃjñam) in battle with many trees.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -855,6 +965,12 @@ weapons.
 Immediately on seeing Hanuma destroying thier army rapidly, thousands of demons
 hurled weapons on him.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Merely seeing the son of the Wind-god furiously devastating (vidhvaṃsayantam) [their ranks], thousands of rākṣasas showered [weapons] upon Hanūmān.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -882,6 +998,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हॊळॆयुत्तिरुव शूलगळिन्द, खड्गगळिन्द, शक्तिगळिन्द, पट्टिशगळिन्द राक्षसरु अवन मेलॆ प्रहार माडुत्तिद्दरु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bearers of sharp pikes [assailed him] with pikes, sword-wielders with swords, spear-holders with spears (śaktībhiḥ), and halberdiers with halberds (paṭṭiśaiḥ),
 </details>
 </details>
 
@@ -947,6 +1069,16 @@ with iron spikes, with steel hammers, ,with awful axes, with slings for the rwin
 their thunderbolt-like fists and slaps which fell like flashes of lighning. Then, the enraged
 Hanuma made a colossal destruction of those demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** and with iron-bound clubs, maces, and handsome lances (kuntaiś ca śubhadarśanaiḥ), and by the hundreds with śataghnīs and iron hammers (āyasair api mudgaraiḥ),
+
+**23:** and with dreadful battle-axes andavelins (bhindipālaiḥ), and with fists like thunderbolts and palms resembling lightning-bolts (talair aśanisaṃnibhaiḥ), the rākṣasas,
+
+**24:** closing in from every side, struck him who resembled a mountain; and he too, infuriated (saṃkruddhaḥ), wrought a mighty slaughter (kadanam mahat) among them.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -993,6 +1125,12 @@ Hanuma made a colossal destruction of those demons.
 That Indrajit saw Hanuma, the foremost of monkeys, looking like a mountain,
 fearlessly killing his enemies.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indrajit beheld that foremost of monkeys, the son of the Wind-god, resembling a mountain, fearlessly (asaṃtrastam) slaying his foes (sūdamānam amitrān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1034,6 +1172,12 @@ raakShasaam* = of our demons.
 He spoke the following words tohis charioteer: "Take the chariot to the place where
 that monkey is standing. If we neglect him, he will surely destroy our demons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He spoke this to his charioteer: “Drive to where this monkey is! For if disregarded (upekṣitaḥ), he will surely work the destruction of our rākṣasas.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1074,6 +1218,12 @@ Hanuma (was there).
 
 Hearing the words of that Indrajit, the charioteer went, carrying that very
 unconquerable Indrajit sitting in the chariot, to the place where Hanuma was there.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by him, the charioteer drove to where Māruti was, bearing the supremely unassailable Indrajit stationed in his chariot (sthitam indrajitaṃ rathe).
 </details>
 </details>
 
@@ -1124,6 +1274,12 @@ sharp-edged spears and axes; *kapimuurdhaani* = on the head of Hanuma.
 Coming close to Hanuma, that unconquerable Indrajit hurled swords, sharp-edged
 spears and axes on the head of Hanuma.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching, that unassailable rākṣasa showered arrows, swords, halberds, and battle-axes (paraśvadhān) upon the monkey's head (kapimūrdhani).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1173,6 +1329,12 @@ rage.
 Receiving those terrible weapons, that Hanuma spoke, seized as he was, with great
 rage, the following words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Receiving (pratigṛhya) those dreadful weapons, Māruti, filled with great wrath (roṣeṇa mahatāviṣṭaḥ), spoke this word:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1211,6 +1373,12 @@ to Hanuma; *na pratiyaasyasi* = you will not return; *jiivan* = alive.
 
 "O evil-minded Indrajit! If you are valiant, fight with me. Coming nearer to Hanuma,
 you will not return alive."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fight, if you are a hero (yadi śūro 'si), O evil-minded son of Rāvaṇa! Having encountered the son of the Wind-god, you shall not return alive (na jīvan pratiyāsyasi)!”
 </details>
 </details>
 
@@ -1253,6 +1421,12 @@ the best; *rakShasaam* = among the demons.
 "O foolish fellow! If you enter into a duel with me, fight with your arms. Withstand
 my force in the battle-field. Then you will be considered as the best among the demons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fight with your two arms (bāhubhyāṃ samprayudhyasva), if [you grant] me a duel (dvandvam) in battle! Endure my onslaught (vegaṃ sahasva), O Witless One; then will you be the foremost of rākṣasas!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1292,6 +1466,12 @@ Hanuma.
 
 Vibhishana told Lakshmana in the following words that while with bow upraised,
 Indrajit sought to kill Hanuma.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa pointed out (ācaṣṭe) to Lakṣmaṇa that son of Rāvaṇa, who, with bow upraised (samudyataśarāsanam), was seeking to slay Hanūmān:
 </details>
 </details>
 
@@ -1356,6 +1536,14 @@ enemies; *jiivitaanta karaiH* = and putting an end to their lives.
 
 "O Lakshmana! Kill that Indrajit with your terrific arrows of incomparable
 workmanship, which ward off the enemies and putting an end to their lives."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**33:** “He who is the renowned vanquisher of Vāsava (vāsavanirjetā), Rāvaṇa's own son—that very one, mounted on his chariot, seeks to slay Hanūmān!
+
+**34:** Slay that son of Rāvaṇa, O Saumitri, with dreadful, life-ending (jīvitāntakaraiḥ), foe-repelling arrows of matchless form (apratimasaṃsthānaiḥ)!”
 </details>
 </details>
 
@@ -1434,6 +1622,12 @@ Indrajit also will become visible."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎम्भत्तारनॆय सर्ग पूर्णवायितु.॥86॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed at that time by Vibhīṣaṇa, the terrifyingly dreadful foe-afflicter (arivibhīṣaṇena), the great-souled [Lakṣmaṇa] beheld him, resembling a mountain, stationed in his chariot, of terrible might and difficult to approach (durāsadam).
 </details>
 </details>
 

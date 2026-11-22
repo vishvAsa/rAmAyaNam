@@ -95,6 +95,14 @@ putraabhyaam* = the princes; *dhaarayan* = keeping back; *tat* = that;
 "I, on my part, offering salutation with joined palms to both the princes and
 keeping back from that grief, ascended the chariot and moved on."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** “When Rāma had set out for the forest (rāme samprasthite vanam) and I had turned back (mama nivṛttasya), my steeds, shedding hot tears (uṣṇam aśru pramuñcantaḥ), would not advance along the road (na prāvartanta vartmani).
+
+**2:** “Then, having joined my palms in salutation to both royal princes (ubhābhyāṃ rāja-putrābhyām), I mounted the chariot and set forth (prasthito ratham āsthāya), bearing even that unbearable sorrow (tad duḥkham api dhārayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -143,6 +151,12 @@ I stayed; *tatraiva* = there only; *guhena saartham* = along with Guha;
 
 "With the hope that I shall be called again by Rama, I stayed there along with Guha
 for three days."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Together with Guha I remained right there for many days (sthito 'smi divasān bahūn), in the hope: ‘Perhaps Rāma may summon me once again (yadi māṃ rāmaḥ punaḥ śabdāpayed iti)!’
 </details>
 </details>
 
@@ -193,6 +207,12 @@ emaciated due to Rama's separation.
 "Oh, emperor! Even trees in your domain have withered, without giving flowers
 sprouts and buds, having emaciated due to Rama's separation."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Throughout your realm, O great king (viṣaye te mahārāja), even the trees, together with their flowers, shoots, and buds (sa-puṣpāṅkura-korakāḥ), have withered away (parimlānāḥ), wasted by the calamity of Rāma’s exile (rāma-vyasana-karśitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,6 +257,12 @@ cha* = and gardens; *pariSkupalaashaani* = were with their leaves; parched up.
 
 "Rivers, pools and lakes were with hot water. Groves and gardens were with their
 leaves, parched up."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The rivers, pools, and lakes have their waters parched and heated (upataptodakāḥ), and the forests and groves have their foliage utterly dried up (pariśuṣka-palāśāni).
 </details>
 </details>
 
@@ -283,6 +309,12 @@ shoka abhibhuutam* = predominated by grief towards Rama
 
 "Living beings are not moving. Wild animals too are not roaming around. That forest
 became silent, predominated by grief towards Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Living creatures do not stir abroad (na ca sarpanti sattvāni), nor do beasts of prey roam about (vyālā na pracaranti ca); overwhelmed by grief for Rāma (rāma-śokābhibhūtam), that forest has fallen utterly silent (niṣkūjam abhavad vanam).
 </details>
 </details>
 
@@ -332,6 +364,12 @@ disappeared.
 themselves closely together, with muddy waters, with parched lotus-flowers and in which fish and
 water fowls have completely disappeared."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the lotus-ponds, O lord of men (narendra padminyaḥ), have their lotus-leaves shrivelled and sunken (līna-puṣkara-patrāḥ), their waters turbid (kaluṣodakāḥ), their lotus-blossoms scorched (santapta-padmāḥ), and their fish and water-birds hidden away (līna-mīna-vihaṅgamāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -378,6 +416,12 @@ bhaanti* = do not have luscious look; *yathaa puram* = as before.
 "Water-born flowers and flowers living on dry lands now give very little fragrance
 and fruits do not have a luscious look as before."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither aquatic flowers nor land-grown garland-blossoms (jalajāni ca puṣpāṇi mālyāni sthalajāni ca), now faint of fragrance (alpa-gandhīni), nor fruits shine today as they did before (nādya bhānti yathā-puram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -417,6 +461,12 @@ the birds have vanished; *na pashyaami* = I am not seeing; *aaraamaan* = the gar
 
 "Oh, best of men! The gardens here are empty of men and the birds have vanished. I
 am not seeing the gardens as charming (as before)."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here the pleasure-parks are deserted (udyānāni śūnyāni) and their birds have cowered in hiding (pralīna-vihagāni ca); nor do I behold the garden-grooves lovely any longer, O bull among men (na cābhirāmān ārāmān paśyāmi manujarṣabha)!
 </details>
 </details>
 
@@ -463,6 +513,12 @@ breathing; *muhur muhuH* = again and again.
 
 "Nobody greeted me, entering into Ayodhya City. Having not seen Rama, the people are
 breathing their sigh of lamentation again and again."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As I entered Ayodhyā (praviśantam ayodhyāṃ mām), no one greeted me with joy (na kaścid abhinandati); not beholding Rāma (rāmam apaśyantaḥ), men sigh again and again (niśśvasanti muhur muhuḥ).
 </details>
 </details>
 
@@ -514,6 +570,12 @@ with tears; *duHkhaat* = by grief.
 "Oh, emperor! Seeing the royal chariot returning here without Rama, all the people
 along the royal high-way are shedding tears with grief."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O lord (deva), upon seeing the royal chariot returned here without Rāma (rāja-rathaṃ dṛṣṭvā vinā rāmam ihāgatam), all the people along the royal highway were dissolved in tears from grief (duḥkhād aśru-mukhaḥ sarvo rāja-mārga-gato janaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -561,6 +623,12 @@ by non-appearance of Rama."
 "Seeing the returned chariot, women from mansions, seven-storied buildings and royal
 palaces are crying �ha ha!', being troubled by the non-appearance of Rama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Looking down from mansions, seven-storied turrets, and palaces upon the returned chariot (harmyair vimānaiḥ prāsādair avekṣya ratham āgatam), women, wasted by not beholding Rāma (rāmādarśana-karśitāḥ), raised cries of ‘Alas! Alas!’ (hāhā-kāra-kṛtā nāryaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -606,6 +674,12 @@ eyes; *ashru vega pariplutaiH* = overwhelmed with a flood of tears.
 
 "Women, being more sorrowful, are looking at each other indistinctly with their long
 bright eyes overwhelmed with a flood of tears."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With their wide, spotless eyes (āyatair vimalair netraiḥ) flooded by the rush of tears (aśru-vega-pariplutaiḥ), women, stricken with deeper anguish still (ārtatarāḥ striyaḥ), gaze dimly at one another (anyonyam abhivīkṣante 'vyaktam).
 </details>
 </details>
 
@@ -654,6 +728,12 @@ in non-friends; *mitraaNaam* = friends; *udaasiina janasya* = and neutral people
 
 "I do not see any distinction in their agony, whether they are non-friends, friends
 or neutral people."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By reason of their common affliction (ārtatayā), I perceive no distinction whatever (kiñcid viśeṣaṃ nopalakṣaye) between foes, friends, and those who are neutral (nāmitrāṇāṃ na mitrāṇām udāsīna-janasya ca).
 </details>
 </details>
 
@@ -711,6 +791,14 @@ horses looking miserable, with sighing exhaustion due to cries of pain, filled w
 moaning, cheerless and feeling anguish due to Rama's exile, appears to me, like Queen Kausalya
 without her son."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** “With its people cheerless (aprahṛṣṭa-manuṣyā ca) and its elephants and horses dejected (dīna-nāga-turaṅgamā), wasted with cries of anguish (ārta-svara-parimlānā) and echoing only with heavy sighs (viniśśvasita-nissvanā)—
+
+**16:** “Utterly bereft of joy, O great king (nirānandā mahārāja), and distraught over Rāma’s banishment (rāma-pravrājanāturā), Ayodhyā appears to me just like Kausalyā bereft of her son (kausalyā putra-hīneva ayodhyā pratibhāti mā).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -757,6 +845,12 @@ with tears; *parama diinayaa* = and very much woeful.
 Hearing Sumantra's words, the king in a voice choked with tears and very much
 woeful, spoke to that charioteer as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of the charioteer (sūtasya vacanaṃ śrutvā), the king, in a voice supremelypiteous (vācā parama-dīnayā) and choked with tears (bāṣpopahatayā), spoke thus unto that charioteer:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -802,6 +896,12 @@ counsel; *vR^iddhaiH saha* = and with elders.
 
 "Enjoined by Kaikeyi with her sinful birth and intention, I could not deliberate
 with people experienced in counsel or with elders beforehand."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Impelled by Kaikeyī (kaikeyyā viniyuktena), whose lineage and nature are alike sinful (pāpābhijana-bhāvayā), I did not deliberate over this matter along with aged counsellors skilled in statecraft (mayā na mantra-kuśalair vṛddhaiḥ saha samarthitam).
 </details>
 </details>
 
@@ -854,6 +954,12 @@ texts.
 "This act has been done by me in haste due to infatuation for the sake of a woman,
 without consulting with friends or ministers or with interpreters of sacred texts."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without taking counsel with friends, or with ministers, or with the city’s merchant-elders (na suhṛdbhir na cāmātyair mantrayitvā na naigamaiḥ), I rashly accomplished this matter out of delusion for the sake of a woman (mayāyam arthaḥ sammohāt strī-hetoḥ sahasā kṛtaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -900,6 +1006,12 @@ accidentally.
 
 "Oh, Sumantra! This great calamity, surely, has come as an inevitable consequence or
 for the ruin of this race or accidentally."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or rather, O charioteer, this great calamity (idaṃ vā vyasanaṃ mahat) has surely come about of its own accord through inexorable destiny (bhavitavyatayā nūnaṃ prāptaṃ yadṛcchayā) for the destruction of this royal house (kulasyāsya vināśāya)!
 </details>
 </details>
 
@@ -948,6 +1060,12 @@ me; *aashu* = fast; *raamam* = to Rama; *praaNaaH* = (my) vital spirits;
 Oh, sumantra! If at all I have done any favour to you, lead me fast to Rama. My
 vital spirits are hastening me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O charioteer, if I have ever done you any kindness whatever (yady asti te kiñcin mayā tu sukṛtaṃ kṛtam), take me swiftly unto Rāma (tvaṃ prāpayāśu māṃ rāmam); my life-breaths are hastening me on (prāṇāḥ santvarayanti mām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -993,6 +1111,12 @@ brought back; *na shakSyaami* = I cannot; *jiivitum* = survive; *raamam vinaa*
 
 "If there is the same unlimited authority of mine even now, let Rama be brought back
 to Ayodhya. I cannot survive without Rama even for a moment."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If even today my royal command still holds sway (yady adyāpi mamaivājñā), let it bring Rāghava back (nivartayatu rāghavam); without Rāma I shall not be able to live even for an hour (na śakṣyāmi vinā rāmaṃ muhūrtam api jīvitum)!
 </details>
 </details>
 
@@ -1040,6 +1164,12 @@ eva* = make me to ascend; *ratham* = the chariot; *shiighram* = quickly;
 "Or perhaps Rama the mighty-armed might have gone a long way. Make me to ascend the
 chariot and quickly show me to Rama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or if that mighty-armed prince has already gone far away (atha vāpi mahā-bāhur gato dūraṃ bhaviṣyati), then place me upon the chariot and show me swiftly unto Rāma (mām eva ratham āropya śīghraṃ rāmāya darśaya)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1086,6 +1216,12 @@ saha* = with Seetha; *jiivaami* = I can survive.
 "Where is that Rama having pearl-like teeth and wearing a large bow? If only I can
 see him well with Seetha, I can survive."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Where is that great bowman, the elder brother of Lakṣmaṇa, whose eye-teeth are rounded like jasmine buds (vṛtta-daṃṣṭro maheṣvāsaḥ)? If I am still alive, O may I auspiciously behold him together with Sītā (yadi jīvāmi sādhv enaṃ paśyeyaṃ sītayā saha)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1131,6 +1267,12 @@ kSayam* = to the world of death.
 
 "If I cannot see Rama having red eyes, mighty arms and with ear-rings made of gems,
 I shall proceed to the world of Death."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If I may not behold Rāma—lotus-red of eye (lohitākṣam), mighty of arm (mahā-bāhum), and wearing jewelled earrings (āmukta-maṇi-kuṇḍalam)—I shall depart to the abode of Yama (gamiṣyāmi yama-kṣayam)!
 </details>
 </details>
 
@@ -1179,6 +1321,12 @@ I shall proceed to the world of Death."
 "What is more distressing to me after getting into this condition, in not seeing
 here, Rama who is a delight to Ikshvaku dynasty?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What, indeed, can be more sorrowful than this (ato nu kiṃ duḥkhataram), that I, having fallen into such a plight (imām avasthām āpannaḥ), do not behold Rāghava, the delight of the Ikṣvākus, here today (neha paśyāmi rāghavam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1225,6 +1373,12 @@ jaaniita* = you do not know; *maam* = me; *mriyamaaNam* = as dying;
 "Oh, Rama! Oh, Younger Brother of Rama! Oh, unfortunate Seetha! You do not know that
 I am dying with grief, like one abandoned."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Alas, O Rāma! Alas, O younger brother of Rāma! Alas, O austere Vaidehī (hā rāma rāmānuja hā hā vaidehi tapasvini)! You do not know that I am dying of grief like one who has no protector (na māṃ jānīta duḥkhena mriyamāṇam anāthavat)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1270,6 +1424,12 @@ difficult to be crossed; *abraviit* = spoke (as follows)
 
 King Dasaratha, his mind very much despaired with grief and plunged in an ocean of
 sorrow, very difficult to be crossed, spoke (as follows)
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His consciousness sorely overwhelmed by that sorrow (tena duḥkhena bhṛśam arpita-cetanaḥ), that king, plunged into an ocean of grief most hard to cross (avagāḍhaḥ su-duṣpāraṃ śoka-sāgaram), spoke on:
 </details>
 </details>
 
@@ -1351,6 +1511,18 @@ submarine fire. Which is the cause for the rush in my tears. The words of the hu
 huge crocodiles. Its shores are the boons asked by the cruel Kaikeyi. Its long stretch is due to
 sending of Rama to far away place. I cannot cross this ocean alive, without Rama. What a pity!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** “Its vast expanse is grief for Rāma (rāma-śoka-mahābhogaḥ) and its further shore is separation from Sītā (sītā-viraha-pāragaḥ); its billowing waves and mighty whirlpools are heavy sighs (śvasitormi-mahāvartaḥ), and it is turbid with the foam-drifts of tears (bāṣpa-phena-jālāvilaḥ);
+
+**30:** “The tossing of lamented arms is its shoal of fish (bāhu-vikṣepa-mīnaughaḥ), loud wailing is its mighty roar (vikrandita-mahā-svanaḥ), dishevelled hair is its floating water-weed (prakīrṇa-keśa-śaivālaḥ), and Kaikeyī is its submarine mare-fire (kaikeyī-baḍabā-mukhaḥ);
+
+**31:** “It springs from the rushing torrent of my tears (mamāśru-vega-prabhavaḥ), the hunchback’s words are its monstrous sharks (kubjā-vākya-mahā-grahaḥ), the boon of that cruel woman is its high-water shore (vara-velo nṛśaṃsāyāḥ), and it stretches wide through Rāma’s banishment (rāma-pravrājanāyataḥ)—
+
+**32:** “This ocean of grief (ayaṃ śoka-sāgaraḥ), wherein, alas, I am plunged without Rāghava, O Kausalyā (yasmin bata nimagno 'haṃ kausalye rāghavaṃ vinā), is impossible for me to cross alive, O queen (dustaro jīvatā devi mayā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1411,6 +1583,12 @@ couch.
 "Though I want to see Rama and Lakshmana now, I am not able to see them here. It is
 very bad." - thus lamenting, the king of great renown soon became unconscious and fell down on his
 couch.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“An evil thing it is (aśobhanam) that today, though yearning to behold Rāghava together with Lakṣmaṇa, I cannot obtain my wish (didṛkṣamāṇo na labhe sa-lakṣmaṇam)!” Lamenting thus, that glorious king swiftly fell swooning upon his couch (papāta tūrṇaṃ śayane sa mūrcchitaḥ).
 </details>
 </details>
 
@@ -1475,6 +1653,12 @@ having fallen unconscious, Kausalya was alarmed once again.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तॊम्भत्तनॆय सर्ग पूर्णवायितु.॥59॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the monarch lamented thus in twofold, ever more piteous anguish on account of Rāma and fell insensible (iti vilapati pārthive praṇaṣṭe karuṇataraṃ dviguṇaṃ ca rāma-hetoḥ), the queen, Rāma’s mother, hearing his words, was seized once again with terror (bhayam agamat punar eva rāma-mātā).
 </details>
 </details>
 

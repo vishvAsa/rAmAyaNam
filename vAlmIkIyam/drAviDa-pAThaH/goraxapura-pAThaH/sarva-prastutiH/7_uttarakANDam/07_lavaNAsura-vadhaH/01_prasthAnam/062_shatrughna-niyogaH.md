@@ -39,6 +39,12 @@ _________________
 
 श्रीराम - लक्ष्मणरु परस्परवागि मातनाडि कॊळ्ळुत्ता प्रजॆगळ रक्षणॆयल्लि निरतरागिद्दरु. आग वसन्त ऋतुवु प्रारम्भवायितु. अदरल्लि हॆच्चु चळियागली सॆकॆयागलि इरलिल्ल.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When they had spoken thus (tathokte), Rāma with joined palms replied to those sages (tān ṛṣīn rāmaḥ pratyuvāca kṛtāñjaliḥ): “What is Lavaṇa’s food, what is his conduct (kim-āhāraḥ kim-ācāraḥ), and where does he dwell (kva ca vartate)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -67,6 +73,12 @@ _________________
 
 ऒन्दु दिन निर्मल प्रभात काल बन्दाग पुरवासिगळ कार्यवन्नु तिळियुव श्रीरामनु बॆळगिन नित्यकर्म सन्ध्यावन्दनादिगळिन्द निवृत्तनागि हॊरगॆ सभा भवनक्कॆ बन्दनु.॥2॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of Rāghava (rāghavasya vacaḥ śrutvā), all those sages together (ṛṣayaḥ sarva eva te) then reported to him (tato nivedayāmāsuḥ) in what manner Lavaṇa had grown mighty (lavaṇo vavṛdhe yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -89,6 +101,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वे बोले—‘प्रभो! उसका आहार तो सभी प्राणी हैं; परंतु विशेषतः वह तपस्वी मुनियोंको खाता है । उसके आचार-व्यवहारमें बड़ी क्रूरता और भयानकता है और वह सदा मधुवनमें निवास करता है ॥ ३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“His food is all living creatures (āhāraḥ sarva-sattvāni), and especially ascetics (viśeṣeṇa ca tāpasāḥ); his constant conduct is ferocity (ācāro raudratā nityam), and likewise his abode is in Madhuvana (vāso madhuvane tathā).
 </details>
 </details>
 
@@ -117,6 +135,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आगले सुमन्त्रनु बन्दु श्रीरामचन्द्रनल्लि हेळिदनु - राजने! तपस्वी महर्षिगळु भृगुपुत्र च्यवन मुनियन्नु मुन्दॆमाडि महाद्वारदल्लि निन्तिरुवरु. द्वारपालकरु ऒळगॆ बरलु तडॆदिद्दारॆ. महाराज! इवरु निम्म दर्शनक्कागि अवसर माडुत्तिद्दारॆ. इवरु तम्म आगमनवन्नु निमगॆ तिळिसलु पदे-पदे ऒत्तायिसुत्तिद्दारॆ.॥3-4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Slaying many thousands (hatvā bahu-sahasrāṇi) of lions, tigers, deer, and elephants (siṃha-vyāghra-mṛga-dvipān), and human beings as well (mānuṣāṃś caiva), he makes of them his daily meal (kurute nityam āhāram āhnikam).
 </details>
 </details>
 
@@ -147,6 +171,12 @@ _________________
 
 पुरुषसिंहने! इवरॆल्ल महर्षिगळु यमुना तीरदल्लि वासिसुत्तिद्दारॆ हागू निम्मल्लि विशेष प्रेमविट्टिरुवरु. सुमन्त्रन मातन्नु केळि धर्मज्ञ श्रीरामनु हेळिदनु - सूतने! भार्गव च्यवनादि ऎल्ल महात्मा ब्रह्मर्षिगळन्नु ऒळगॆ करॆदु बा.॥5½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thereafter that mighty-powered one devours other creatures besides (tato ’ntarāṇi sattvāni khādate sa mahābalaḥ), like Death with jaws gaping wide (vyāditāsya ivāntakaḥ) when the cosmic dissolution has arrived (saṃhāre samanuprāpte).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,6 +205,12 @@ _________________
 
 राजन आज्ञॆयन्नु शिरसावहिसि द्वारपालकनु शिरद मेलॆ अञ्जलीबद्धनागि आ अत्यन्त दुर्जय तेजस्वी तापसरन्नु राजसभॆगॆ करॆतन्दनु.॥6½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words (tac chrutvā), Rāghava spoke to those great sages (vākyam uvāca sa mahāmunīn): “I shall cause that rākṣasa to be slain (ghātayiṣyāmi tad rakṣaḥ); indeed, let your fear depart (hy apagacchatu vo bhayam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -197,6 +233,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इस प्रकार उन उग्र तेजस्वी मुनियोंके समक्ष प्रतिज्ञा करके रघुकुलनन्दन श्रीरामने वहाँ एकत्र हुए अपने सब भाइयोंसे पूछा— ॥ ७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thus given his solemn pledge (pratijñāya tathā) to those sages of fierce austerity (teṣāṃ munīnām ugra-tejasām), that delight of the Raghus (raghunandanaḥ) addressed all his brothers assembled together (bhrātṝn sahitān sarvān uvāca):
 </details>
 </details>
 
@@ -226,6 +268,12 @@ _________________
 
 नूरक्किन्तलू हॆच्चागिद्द आ तपस्वी महात्मरॆल्लरू तम्म तेजदिन्द प्रकाशितरागिद्दरु. अवरॆल्लरू राज सभॆयन्नु प्रवेशिसि, समस्त तीर्थगळिन्द तुम्बिद कलशगळॊन्दिगॆ अनेक फलमूलगळन्नु श्रीरामचन्द्रनिगॆ काणिकॆयागि अर्पिसिदरु.॥7-8½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Which hero shall be the slayer of Lavaṇa (ko hantā lavaṇaṃ vīraḥ), and whose allotted portion shall he be made (kasyāṃśaḥ sa vidhīyatām)—of the mighty-armed Bharata (bharatasya mahābāhoḥ), or of the wise Śatrughna (śatrughnasya ca dhīmataḥ)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,6 +295,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 रघुनाथजीके इस प्रकार पूछनेपर भरतजी बोले—‘भैया! मैं इस लवणका वध करूँगा । इसे मेरे हिस्सेमें रखा जाय’ ॥ ९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāghava (rāghaveṇaivam uktaḥ), Bharata spoke these words (bharato vākyam abravīt): “I myself shall slay this demon (aham enaṃ vadhiṣyāmi); let him be appointed as my portion (mamāṃśaḥ sa vidhīyatām)!”
 </details>
 </details>
 
@@ -288,6 +342,14 @@ _________________
 
 महा बाहु श्रीरामनु तुम्बा सन्तोषदिन्द अदॆल्ल काणिकॆ ऎल्ल तीर्थजल, नाना रीतिय फलगळन्नु स्वीकरिसि ऎल्ल महामुनिगळल्लि हेळिदनु.॥9-10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**10:** Hearing the speech of Bharata (bharatasya vacaḥ śrutvā), endowed with steadfastness and valor (dhairya-śaurya-samanvitam), the younger brother of Lakṣmaṇa (lakṣmaṇāvarajaḥ) stood up, leaving his golden seat (tasthau hitvā sauvarṇam āsanam).
+
+**11:** And bowing low before the lord of men (praṇipatya narādhipam), Śatrughna spoke these words (śatrughnas tv abravīd vākyam): “He who has already accomplished mighty deeds, the mighty-armed middle delight of the Raghus (kṛta-karmā mahābāhur madhyamo raghunandanaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -315,6 +377,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महर्षिगळु आसनगळल्लि विराजमानरागिरुवुदन्नु कण्डु परपुरञ्जय श्रीरघुनाथनु कैमुगिदु कॊण्डु विनीतनागि हेळिदनु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—for of old, our noble elder brother guarded an empty Ayodhyā (āryeṇa hi purā śūnyā tv ayodhyā paripālitā), nursing anguish in his heart (santāpaṃ hṛdaye kṛtvā) awaiting the noble one’s return (āryasyāgamanaṃ prati)!
 </details>
 </details>
 
@@ -346,6 +414,12 @@ _________________
 
 महर्षिगळे! याव कार्यक्कागि तम्म शुभागमन इल्लिगॆ आगिदॆ? नानु एकाग्रचित्तनागि निम्म याव सेवॆ माडलि? ई सेवकनु निम्म आज्ञॆयन्नु पडॆयलु योग्यनागिद्देनॆ. आदेश पडॆदु नानु सुखवागि निम्म ऎल्ल इच्छॆगळन्नु पूर्णगॊळिसबल्लॆनु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And many sorrows indeed were endured by him here (duḥkhāni ca bahūnīha hy anubhūtāni), O king (pārthiva); sleeping upon beds of hardship (śayāno duḥkha-śayyāsu), he dwelt of old in Nandigrāma (nandigrāme ’vasat purā)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -373,6 +447,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई इडी राज्य, ई हृदयदल्लि विराजमान जीवात्मा, नन्न समस्त वैभव ब्राह्मणर सेवॆगागिये इदॆ; इदन्नु नानु निम्म मुन्दॆ निजवागि हेळुत्तिद्देनॆ.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—subsisting on fruits and roots (phala-mūlāśano bhūtvā), wearing matted locks and garments of bark (jaṭī cīra-dharas tathā); having already undergone such suffering (anubhūyedṛśaṃ duḥkham), let not this delight of the Raghus (eṣa rāghava-nandanaḥ), while I, his servant, stand ready (preṣye mayi sthite), O king, suffer hardship once again (na bhūyaḥ kleśam āpnuyāt)!”
 </details>
 </details>
 
@@ -411,6 +491,14 @@ _________________
 
 श्रीरघुनाथन मातन्नु केळि आ यमुनातीर निवासी उग्र तपस्वी महर्षिगळु उच्चस्वरदिन्द साधुवादवन्नु उच्चरिसिदरु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** As Śatrughna spoke thus (tathā bruvati śatrughne), Rāghava replied once more (rāghavaḥ punar abravīt): “So let it be, O Kākutstha (evaṃ bhavatu kākutstha); let my command be carried out (kriyatāṃ mama śāsanam)!
+
+**16:** “I shall consecrate you in sovereignty (rājye tvām abhiṣekṣyāmi) in the fair city of Madhu (madhos tu nagare śubhe); settle Bharata here, O mighty-armed one (niveśaya mahābāho bharataṃ), if you have regard for him (yady avekṣase)—for you are valiant, learned in all sciences (śūras tvaṃ kṛta-vidyaś ca), and well able to found a city (samarthaś ca niveśane)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -438,6 +526,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजने! नावु अनेक महाबलि राजर बळिगॆ होदॆवु; आदरॆ अवरु कार्यद गौरववन्नु तिळिदु केळिद मेलॆ माडुवॆवु ऎन्दु हेळि इन्तह प्रतिज्ञॆ माडलु मुन्दागलिल्ल.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For indeed, whoever uproots an enemy (yo hi śatruṃ samutpāṭya), and upon the downfall of that king (pārthivasya punaḥ kṣaye) does not establish a ruler there (na vidhatte nṛpaṃ tatra), truly goes to hell (narakaṃ sa hi gacchati)!
 </details>
 </details>
 
@@ -470,6 +564,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदरॆ नीनु नावु बन्दिरुव कारण तिळियदॆये, केवल ब्राह्मणर कुरितु आदर भाव इरुवुदरिन्द नम्म कॆलस माडुव प्रतिज्ञॆ माडिरुवॆ. इदरिन्द नीनु अवश्यवागि ई कार्य माडबल्लॆ, इदरल्लि संशयवे इल्ल. नीने महाभयदिन्द ऋषिगळन्नु कापाडबल्लॆ.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, having slain Lavaṇa, the son of Madhu, of sinful resolve (hatvā madhu-sutaṃ lavaṇaṃ pāpa-niścayam), govern that kingdom righteously (rājyaṃ praśādhi dharmeṇa), if you have regard for my word (vākyaṃ me yady avekṣase).
 </details>
 </details>
 
@@ -504,6 +604,14 @@ _________________
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये उत्तरकाण्डे द्विषष्टितमः सर्गः ॥ ६२ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके उत्तरकाण्डमें बासठवाँ सर्ग पूरा हुआ ॥ ६२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “And no rejoinder must be uttered by you, O hero (uttaraṃ ca na vaktavyaṃ śūra), in reply to my command (vākyāntare mama); an elder brother’s mandate must be carried out by a younger one (bālena pūrvajasyājñā kartavyā)—of this there is no doubt (nātra saṃśayaḥ)!
+
+**20:** “Receive also, O Kākutstha, the royal consecration made ready by me (abhiṣekaṃ ca ... pratīcchasva mayodyatam), accompanied by sacred rites and Vedic mantras (vidhi-mantra-puraskṛtam) performed by brahmins led by Vasiṣṭha (vasiṣṭha-pramukhair vipraiḥ).”
 </details>
 </details>
 

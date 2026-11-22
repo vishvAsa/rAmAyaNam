@@ -59,6 +59,12 @@ samjahaara* = did not withdraw; *aatmachakshhushhii* = his eyes.
 As long as the dust raised by the wheels of Rama's chariot could be seen, so long
 did the king not withdraw his gaze from it.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As long as the form of the dust (rajaḥ-rūpam) raised by Rāma as he went forth (niryataḥ tasya) remained visible, so long the best of the Ikṣvākus did not withdraw his two eyes (na eva saṃjahāra ātma-cakṣuṣī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -106,6 +112,12 @@ seeing his son.
 As long as the king was seeing his beloved son who was exceedingly virtuous, so long
 did the dust in the earth appear to be rising for the purpose of seeing his son.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And as long as the king beheld his beloved and supremely righteous son (priyam putram atyanta-dhārmikam), so long he seemed to rise and grow tall upon the ground (vyavardhata iva asya dharaṇyām) in his eagerness to see his son.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -151,6 +163,12 @@ dejection; *papaata* = fell; *dharaNiitale* = on ground.
 
 When the dust raised by Rama's chariot was no longer visible, the unfortunate king
 afflicted by dejection, fell insensible on ground.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When, however, the lord of the earth could no longer see even the dust of Rāma’s chariot (rajaḥ api asya rāmasya), then, stricken with anguish and dejected (ārtaḥ ca niṣaṇṇaḥ ca), he fell upon the surface of the ground.
 </details>
 </details>
 
@@ -198,6 +216,12 @@ on the left; *paarshvam* = side.
 When Dasaratha fell down, Kausalya his wife took her place on his right side to lift
 him up and Kaikeyi of charming limbs took her place on his left side.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The noble lady Kausalyā walked beside his right arm (tasya dakṣiṇam bāhum anvagāt), while that slender-waisted Kaikeyī (kaikeyī sā su-madhyamā) walked beside his other flank (param pārśvam anvagāt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +267,12 @@ her; *vyathitendriyaH* = in his agitated senses.
 
 The king endowed with wisdom virtue and discretion seeing Kaikeyi beside him, said
 to her in great agitation as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Kaikeyī, the king—endowed with policy (nayena), righteousness (dharmeṇa), and self-discipline (vinayena), yet with his senses anguished (vyathita-indriyaḥ)—spoke to her:
 </details>
 </details>
 
@@ -290,6 +320,12 @@ bhaaryaa* = are not my wife; *na* = nor; *baandhavii* = a relative
 "Oh, wicked Kaikeyi! Do not touch my limbs. I do not wish to see you .You are no
 longer my wife nor a relative."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Kaikeyī of sinful resolve (pāpa-niścaye), do not touch my limbs (māmakāṅgāni mā sprākṣīḥ)! For I do not wish to look upon you; you are neither my wife nor my kinswoman (na bhāryā na ca bāndhavī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -336,6 +372,12 @@ avariciousness alone.
 
 "I am not of those who are dependent on you nor are they anything to me. I discord
 you, by whom righteousness has been discorded and who are solely interested in avariciousness."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As for those who live in dependence upon you (ye ca tvām anujīvanti), I do not belong to them, nor do they belong to me. For I renounce you (tvām tyajāmi aham), who have abandoned righteousness (tyakta-dharmām) and are wholly intent upon self-interest (kevala-artha-parām).
 </details>
 </details>
 
@@ -385,6 +427,12 @@ world; *paratracha* = and the next.
 
 All that contract which I entered into by taking your hand and circumambulating the
 sacred fire, I now renounce in this world and the next. "
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That I clasped your hand in marriage (agṛhṇām yat ca te pāṇim) and that I led you around the sacred fire (agnim paryaṇayam ca yat)—all that I revoke and cast aside (anujānāmi tat sarvam) both in this world and in the hereafter (asmin loke paratra ca).
 </details>
 </details>
 
@@ -436,6 +484,12 @@ this kingdom ; *avyayam* = which is imperishable; *yat* = what ever; *dadyaat*
 "If Bharata feels cheerful for having got this kingdom which is imperishable, let
 the obsequial rites performed to me after my death do not reach me"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If Bharata should be pleased (pratītaḥ syāt) upon obtaining this imperishable kingdom (rājyam prāpya etat avyayam), may whatever oblation he offers me for my ancestral rites (yat me sa dadyāt pitrartham) never reach me (mā mām tat dattam āgamat)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -484,6 +538,12 @@ naraadhipam* = that king; *reNusamuddhvastam* = who was covered with dust;
 
 Meanwhile Kausalya the queen overwhelmed with grief, lifted up the king who was
 covered with dust and returned to her house.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Queen Kausalyā, emaciated by grief (śoka-karśitā), raised up the lord of men who was covered in dust (reṇu-samuddhvastam) and turned back toward the city (nyavartata tadā).
 </details>
 </details>
 
@@ -534,6 +594,12 @@ by hand.
 
 The virtuous monarch, thinking deeply of his son Rama, was so desolated as one who
 has slain a brahmin intentionally or as touching the fire by hand.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thinking constantly of his son Rāghava, the righteous-souled king (dharmātmā) was consumed by remorse (anvatapyata), as though he had willfully slain a Brāhmaṇa (hatvā iva brāhmaṇam kāmāt) or touched blazing fire with his bare hand (spṛṣṭvā agnim iva pāṇinā).
 </details>
 </details>
 
@@ -589,6 +655,12 @@ king in grief lost its radiance like sun losing its radiance when swallowed by R
 *-Rahu- the inauspicious planet sent to swallow the sun at the time of
 eclipse.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Turning back again and again (nivṛtya eva nivṛtya eva) and sinking down in despair along the tracks of the chariot (sīdataḥ ratha-vartmasu), the king’s form did not shine brightly, like the sun when swallowed by Rāhu (grastasya aṃśumataḥ yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -638,6 +710,12 @@ Thereafter; *buddhvaa* = knowing ; *putram* = his son;anupraaptam = reaching ;
 Afflicted by grief, thinking of his beloved son he lamented. Knowing that his son
 reached the end of the city, he said as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stricken with grief (duḥkhārtaḥ), he lamented as he remembered his beloved son; and realizing that his son had reached the outskirts of the city (nagara-antam anuprāptam buddhvā), he then spoke:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -683,6 +761,12 @@ that Rama ;dR^shyante = were seen; *pathi* = on the way; *saH* = He ;
 
 "The marks of hooves of excellent horses which carried away my child are seen on the
 way. But he the great souled one is not being seen"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The tracks of the foremost steeds (vāhanānām ca mukhyānām padāni) that are bearing my son away are seen upon the road (pathi dṛśyante), yet that high-souled one himself is no longer seen (sa mahātmā na dṛśyate)!
 </details>
 </details>
 
@@ -741,6 +825,14 @@ refreshed by fans waved over by him by the most deserving women, Rama the best o
 will from now on , has to take refuge at the foot of a tree somewhere, lying down on its trunk or
 rest on a stone."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** “That best of my sons (mama suta-uttamaḥ), who used to lie comfortably upon soft pillows (sukhena upadhāneṣu śete), anointed with sandal-paste (candana-rūṣitaḥ) and fanned by women of high worth (vījyamānaḥ mahārhābhiḥ strībhiḥ)—
+
+**16:** “He surely today will betake himself to the foot of some tree (kvacit eva adya vṛkṣa-mūlam upāśritaḥ) and lie down to sleep pillowing his head upon a log of wood or a stone (kāṣṭham vā yadi vā aśmānam upadhāya śayiṣyate)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -786,6 +878,12 @@ female elephants; *prasravaNaat iva* = (rising from)the side of a hill."
 
 "The unfortunate one will wake up from the hard earth stained with dust, sighing
 like a bull-elephant rising from the side of a hill"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And covered with dust (pāṃsu-guṇṭhitaḥ), he will rise up pitiably from the bare earth (utthāsyati ca medinyāḥ kṛpaṇaḥ), sighing heavily like a bull among she-elephants rising from a mountain cascade (prasravaṇāt kareṇūnām iva ṛṣabhaḥ).
 </details>
 </details>
 
@@ -833,6 +931,12 @@ around ; *anaathavat* = like an orphan."
 
 From today the inhabitants of the forest will behold that long armed lord of the
 world, Rama, rising from the ground and wandering around like an orphan"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The forest-dwelling men (puruṣāḥ vanecarāḥ) will surely behold the long-armed Rāma, the lord of the world (loka-nātham), rising up and walking forth like one who has no protector (anāthavat).
 </details>
 </details>
 
@@ -884,6 +988,12 @@ undergrowth."
 "The daughter of Janaka, who was always accustomed to comforts, will wander
 exhausted in the forest through the thorny undergrowth "
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely that beloved daughter of Janaka (janakasya iṣṭā sutā), ever accustomed to happiness (sukha-sadā-ucitā), will go into the forest today exhausted by treading upon thorns (kaṇṭaka-ākramaṇa-klāntā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -934,6 +1044,12 @@ end.
 "Sita who was not earlier accustomed to woodlands, from now on will live in terror,
 hearing the roaring sound of wild beasts ,which was thundering ."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Unacquainted with the forests (anabhijñā vanānām), she will surely be seized by fear (bhayam upaiṣyati) upon hearing the deep, hair-raising roaring of beasts of prey (śvapada-ānarditam śrutvā gambhīram roma-harṣaṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -979,6 +1095,12 @@ without Rama ; *purushhavyaaghram* = the tiger among men."
 
 "Oh, Kaikeyi! Let your desire be fulfilled! Dwell in the kingdom as a widow. I do
 not indeed wish to survive without Rama the tiger among men."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Have your desire fulfilled (sakāmā bhava), O Kaikeyī! Dwell in the kingdom as a widow (vidhavā rājyam āvasa); for without that tiger among men (tam puruṣa-vyāghram vinā), I cannot bear to live (na hi jīvitum utsahe)!”
 </details>
 </details>
 
@@ -1026,6 +1148,12 @@ funeral bath.
 
 Thus lamenting, the king surrounded by his people, entered Ayodhya the best of
 cities like entering a disastrous house by one who has taken the funeral bath.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting thus, the king, surrounded on all sides by a multitude of people (jana-oghena abhisaṃvṛtaḥ), entered his finest palace (praviveśa gṛha-uttamam) as one who has performed a funeral bath enters an inauspicious house of death (apasnātaḥ iva ariṣṭam)—
 </details>
 </details>
 
@@ -1111,6 +1239,14 @@ unperturbed due to emptying of snakes in it by Garuda*
 *Garuda was a mythical bird (chief of feathered race, enemy of the serpent
 race)
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** Beholding that entire city, whose crossroads and house-entrances were deserted (śūnya-catvara-veśma-antām), whose market stalls and platforms were shut (saṃvṛta-āpaṇa-vedikām), whose people were exhausted, enfeebled, and stricken with grief (klānta-durbala-duḥkhārtām), and whose highroads were no longer thronged (na atyākīrṇa-mahāpathām),
+
+**24:** Thinking solely of Rāma (rāmam eva anucintayan) and lamenting aloud, the king entered his palace as the sun enters a dark cloud (sūryaḥ iva ambudam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1157,6 +1293,12 @@ accents; *mR^idu* = in soft; *diinam* = pitiful ; *asvaram* = indistinct ;
 The lamenting monarch spoke in trembling accents and in soft, pitiful, indistinct
 and not clearly intelligible words (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bereft of Rāma, of Vaidehī, and of Lakṣmaṇa (rāmeṇa rahitam veśma vaidehyā lakṣmaṇena ca), the palace was like a great, once-unfathomable lake whose serpents have been carried off by Garuḍa (mahā-hradam iva akṣobhyam suparṇena hṛta-uragam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1202,6 +1344,12 @@ mother of Rama; *na anyatra* = Nowhere else ; *mama hR^idayasya* = my heart
 
 "Take me quickly to the apartment of Kausalya the mother of Rama. Nowhere else my
 heart will find solace "
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the lord of the earth, lamenting with a voice choked with sobs (gadgada-śabdaḥ tu vilapan), spoke gentle, halting words that were pitiable and faint in tone (uvāca mṛdu manda-artham vacanam dīnam asvaram):
 </details>
 </details>
 
@@ -1251,6 +1399,12 @@ Kausalya's; *gR^iham* = house . tatra = there; *viniitavat* = (he was ) gently;
 The attendants took the king who was speaking as aforesaid, to Kausalya's house and
 there he was gently laid (on a coach).
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Lead me quickly to the chamber of Kausalyā, the mother of Rāma (kausalyāyāḥ gṛham śīghram rāma-mātuḥ nayantu mām); for nowhere else will there be any solace for my heart (na hi anyatra mama āśvāsaḥ hṛdayasya bhaviṣyati)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1298,6 +1452,12 @@ there he was gently laid (on a coach).
 Having entered Kausalya's apartment and even though laid on a coach, his heart
 became agitated.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the king spoke thus, the ushers (dvāra-darśinaḥ) led him to Kausalyā’s chamber and there laid him down upon a couch like an humble suppliant (tatra nyaveśyata vinītavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1343,6 +1503,12 @@ and the daughter in law also; *vivarjitam* = having left; *raajaa* = the king;
 
 Bereft of his two sons and his daughter -in-law also having deserted, the king saw
 that house devoid of charm as a sky without a moon.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, even after he had entered Kausalyā’s abode and mounted the couch (adhiruhya api śayanam), his mind remained agitated and turbid (babhūva lulitam manaḥ).
 </details>
 </details>
 
@@ -1390,6 +1556,12 @@ mother and I).
 
 Looking at that palace and lifting up his arm, the powerful monarch cried in a loud
 voice, " Oh, Rama! You have left us both, your mother and I."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The king beheld the palace bereft of his two sons and devoid of his daughter-in-law (putra-dvaya-vihīnam ca snuṣayā ca vivarjitam), like the sky when its moon has vanished (naṣṭa-candram iva ambaram).
 </details>
 </details>
 
@@ -1458,6 +1630,14 @@ fallen; *kaala raatryaamiva* = (the night) resembling the hour of death ;aatmana
 Thereupon, the night having fallen, the night resembling the hour of death to him,
 Dasaratha spoke these words to Kausalya when the midnight struck :
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** Beholding that desolate palace, the mighty monarch raised his arm (bhujam udyamya vīryavān) and cried out at the top of his voice (uccaiḥ-svareṇa prākrośat): “Ah, Rāma! You are forsaking the two of us (hā rāma vijahāsi nau)!
+
+**32:** “Blessed indeed are those best of men (sukhitāḥ bata... narottamāḥ) who shall live until that time (tam kālam jīviṣyanti) and behold Rāma returned once more, embracing him (pariṣvajantaḥ ye rāmam drakṣyanti punar āgatam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1502,6 +1682,12 @@ now; *na pashyaami* = I cannot see; *tvaa* = you;saadhu = properly ;spR^isha = t
 
 "Oh, Kausalya! My sight has extinguished along with Rama and not returned. Even now,
 I am not able to see you properly. Touch me with your hand."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when night had fallen—like the very Night of Destruction unto himself (kāla-rātryām iva ātmanaḥ)—at midnight (ardha-rātre) Daśaratha spoke these words to Kausalyā:
 </details>
 </details>
 
@@ -1552,6 +1738,12 @@ and sitting down beside him ;viniHshvasantii = began to sigh; *vilalaapa* = and 
 Perceiving that monarch on the coach absorbed in the thought of Rama alone, Kausalya
 appeared very sad and sitting beside him, began to sigh and lament with a distressed look.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I cannot see you, O Kausalyā (na tvām paśyāmi kausalye)! Touch me gently with your hand (sādhu mām pāṇinā spṛśa); my sight, which followed after Rāma, has not returned even now (rāmam me anugatā dṛṣṭiḥ adya api na nivartate)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1591,6 +1783,12 @@ appeared very sad and sitting beside him, began to sigh and lament with a distre
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तॆरडनॆय सर्ग पूर्णवायितु.॥42॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that lord of men upon the couch brooding solely upon Rāma (tam rāmam eva anuvicintayantam) and sighing heavily (viniśvasantam), the queen, seated close beside him (upopaviśya) and wearing a deeply anguished aspect (adhikam ārta-rūpā), lamented piteously (vilalāpa kṛcchram).
 </details>
 </details>
 

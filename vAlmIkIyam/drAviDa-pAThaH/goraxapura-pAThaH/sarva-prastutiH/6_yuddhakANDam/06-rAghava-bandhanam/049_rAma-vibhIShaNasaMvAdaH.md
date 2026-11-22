@@ -48,6 +48,12 @@ mistaking him as Indrajit.
 
 घोरवाद सर्पाकार बाणगळिन्द बन्धितराद दशरथकुमार श्रीराम-लक्ष्मणरु रक्तदल्लि मुळुगि सर्पगळन्तॆ निट्टुसिरु बिडुत्ता बिद्दिद्दरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+[Around] the two sons of Daśaratha (daśarathātmajau), who were bound by the dreadful bondage of arrows (ghoreṇa śarabandhena), hissing like two serpents (nāgau), and lying drenched in blood (rudhirokṣitau),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -93,6 +99,12 @@ Bound by that formidable network of arrows, the two high-souled sons of dasarath
 lay bathed in blood, breathing like serpants. All those foremost of monkeys who were exceedingly
 strong, including Sugreeva, plunged in grief, were standing around those two illustrious
 warriors.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+all those foremost of Vānaras (vānaraśreṣṭhāḥ), of mighty strength together with Sugrīva (sasugrīvamahābalāḥ), stood surrounding (parivārya) the two great-souled princes, overwhelmed by grief (śokapariplutāḥ).
 </details>
 </details>
 
@@ -142,6 +154,12 @@ and native strength; *pratyabuddhata* = awoke from his sworn; *samdaanito.api sh
 
 In the meanwhile, the mighty Rama by virtue of his hardihood and native strength,
 awoke from his swwon, despite the shafts that held him captive.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the meantime (etasminn antare), the valorous Rāma regained consciousness (pratyabudhyata), even though bound fast (saṃdānitaḥ) by arrows, owing to the firmness of his frame (sthiratvāt) and his endowment with vital strength (sattvayogāt).
 </details>
 </details>
 
@@ -193,6 +211,12 @@ a melancholic face; *paryadevayat* = (Rama) lamented; *aaturaH* = full of grief
 Then, beholding his brother, bleeding unconscious, firmly thrown on teh floor, and
 his features changed, Rama full of grief lamented thus:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, beholding his brother covered with blood (sarudhiram), slumped down (niṣaṇṇam), deeply pierced (gāḍham arpitam), and of piteous countenance (dīnavadanam), he lamented in anguish (paryadevayad āturaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -239,6 +263,12 @@ my brother; *adya* = now; *shayaanam* = lying; *nirjitam* = subdued;
 
 "Of what use to me is the recovery of Seetha or even life itself, since my brother
 now lying, before my eyes, has been struck down in teh fight?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What use (kiṃ kāryam) have I for Sītā even if she is recovered (labdhayā), or for life itself (jīvitena vā), I who today behold my brother lying vanquished (nirjitam) in battle?
 </details>
 </details>
 
@@ -288,6 +318,12 @@ brother; *sachivaH* = a friend; *saamparaayikaH* = and a comrade in a hostile wa
 this world of mortals but not a brother, a friend and a comrade in a hostile war, such as
 Lakshmana!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A woman equal to Sītā (sītāsamā nārī) might be found [by me] searching (vicinvatā) in the mortal world (martyaloke), [but] never a brother equal to Lakṣmaṇa (lakṣmaṇasamo bhrātā), a comrade (sacivaḥ) steadfast in the perils of war (sāmparāyikaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -333,6 +369,12 @@ five elements; *sumitraananda vardhanaH* = he; the increaser of Sumitra's joy; *
 
 "If Lakshmana returned to the five elements, he the increaser of Sumitra's joy, I
 will yield up my life-breaths while the monkeys stand looking on."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I shall cast away my vital breaths (parityakṣyāmy ahaṃ prāṇān) before the very eyes of the Vānaras (vānarāṇāṃ tu paśyatām), if the increaser of Sumitrā’s joy (sumitrānandavardhanaḥ) has met with dissolution into the five elements (pañcatvam āpannaḥ).
 </details>
 </details>
 
@@ -406,6 +448,14 @@ Sumitra, sighing for the sight of her son?"
 "How shall I console Sumitra, trembling and crying out like an osprey, bereft of her
 son, if I return to Ayodhya without lakshmana?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**8:** What indeed shall I say (kiṃ nu vakṣyāmi) to my mother Kausalyā, what to Kaikayī, and how [shall I address] Mother Sumitrā (ambāṃ sumitrām), who yearns eagerly for the sight of her son (putradarśanalālasām)?
+
+**9:** How shall I console (katham āśvāsayiṣyāmi) her when she is bereft of her child (vivatsām), trembling (vepamānām), and quivering like an osprey (kurarīm iva), if I return without him (taṃ vinā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -451,6 +501,12 @@ who followed; *vanam* = to the forest; *mayasaha* = along with me?
 
 "How shall I tell Shatrughna and the illustrious Bharata when I return without
 Lakshmana, who followed to the forest along with me?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How shall I say to Śatrughna and to illustrious Bharata (bharataṃ ca yaśasvinam): ‘He went to the forest with me (mayā saha vanaṃ yātaḥ), [yet] I have come back without him (vinā tenāham āgataḥ)?’
 </details>
 </details>
 
@@ -500,6 +556,12 @@ itself; *na utsahe* = I do not wish; *jiivitum* = to live.
 
 "Alas! I should not be able to endure Sumitra's reproaches. I will leave my body
 here itself. I do not wish to continue living."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I shall not be able to bear (na śakṣyāmi soḍhum) the reproach (upālambham) [uttered] by Mother Sumitrā (ambāsumitrayā); right here (ihaiva) I shall abandon my body, for I cannot bear to live (nahi jīvitum utsahe)!
 </details>
 </details>
 
@@ -551,6 +613,12 @@ who has yielded up his life!
 "Woe unto me to my wicked deed and to my lack of nobility. Through my fault,
 Lakshmana has fallen and lies indeed on a bed of arrows as on who has yielded up his life!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fie upon me (dhiṅ mām), a doer of evil deeds (duṣkṛtakarmāṇam) and ignoble (anāryam), on whose account (yatkṛte) this Lakṣmaṇa lies fallen upon a couch of arrows (śaratalpe) like one bereft of life (gatāsuvat)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -601,6 +669,12 @@ afflicted with grief.
 "O, Lakshmana! You always used to consoe me whenever I was in a great sorrow. You,
 having lost your life now are not able to allay my sufferings with your words."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You always console me (mām āśvāsayasi) whenever I am deeply dejected (suviṣaṇṇam), O Lakṣmaṇa; [yet] today, as though bereft of vital breath (gatāsuḥ), you are unable to speak (abhibhāṣitum) to me in my affliction (mām ārtam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -647,6 +721,12 @@ having lost your life now are not able to allay my sufferings with your words."
 
 "You, who in this battle today, struck down inummerable demons to the earth, are
 fallen, pierced by darts, like a hero on the self same field."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You by whom (yena) so many Rākṣasas were struck down in battle today upon the earth (kṣitau)—upon that very earth (tasyām eva) today, O hero, you lie felled (śeṣe vinihataḥ) by arrows!
 </details>
 </details>
 
@@ -696,6 +776,12 @@ horizon.
 heap of arrows; saH= you, as such; bhaasi= look; bhaaskaraH= iva= like the sun; vrajan= setting
 behind; astam= the horizon.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lying upon this couch of arrows (śaratalpe), streaming with blood (saśoṇitaparisrutaḥ) and bristling with shafts (śarabhūtaḥ), you shine (bhāsi) like the sun sinking toward its setting-mountain (bhāskaro 'stam iva vrajan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -741,6 +827,12 @@ with arrows; *na shaknoti* = you are not able even; *abhibhaaSitum* = to speak (
 
 "Your vital parts having been pierced with arrows, you are not able even to speak
 now. Eventhough you not speaking, your agony is disclosed by the redness of your eyes."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Because your vital spots are pierced by arrows (bāṇābhihatamarmatvāt), you cannot speak here; yet even as you utter no word (abruvataḥ), your anguish (rujā) is revealed by the redness of your eyes (dṛṣṭirāgeṇa sūcyate).
 </details>
 </details>
 
@@ -788,6 +880,12 @@ illustrious warrior anuyaataH = accompanied; *maam* = me; *ahamapi* = when I;
 "I shall follow him to the region of Yama, as that illustrious warrior accompanied
 me when I retired to the forest."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just as (yathaiva) he of great splendor followed me (mām anuyātaḥ) when I went to the forest, even so (tathaiva) shall I too follow him (aham apy anuyāsyāmi) to the abode of Yama (yamakṣayam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -834,6 +932,12 @@ misdeeds; *mama* = of me; (have brought him); wretched that I am !
 "He who loved his own kinsfolk and was filled iwth devotion for me, got this state
 to which my misdeeds have brought him, wretched that I am!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He who ever cherished his kinsfolk (iṣṭabandhujanaḥ) and was ever devoted to me (māṃ ca nityam anuvrataḥ) has today been reduced to this plight (imām avasthām) through the ill-judged counsels (durnayaiḥ) of me, an ignoble wretch (mamānāryasya)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -879,6 +983,12 @@ words; *lakSmaNena* = by lakshmana; *viireNa* = the valiant man;
 
 "I do not remember to have heard any harsh or hateful words from that valiant
 Lakshmana, even if he is deeply provoked."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even when the heroic Lakṣmaṇa was deeply angered (suruṣṭenāpi), I do not recall (na saṃsmare) anything harsh (paruṣam) or displeasing (vipriyam) ever having been made to reach my ears (śrāvitam) by him.
 </details>
 </details>
 
@@ -928,6 +1038,12 @@ cha* = Kartavirya himself; *iSvastreSu* = in the science of archery.
 
 "Lakshmana, who was able to loose five hundred arrows in one shot, was surpassing
 kartavirya himself in the science of archery."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa, who loosed (visasarja) five hundred arrows (pañcabāṇaśatāni) in a single burst (ekavegena), surpassed even Kārtavīrya (tasmāt kārtavīryāc ca adhikaḥ) in the science of bow and missile (iṣvastreṣu).
 </details>
 </details>
 
@@ -979,6 +1095,12 @@ shayanochitaH* = was accustomed to a rich couch; *astraiH* = and who by his arro
 "This Lakshmana, who was accustomed to a rich couch and who by his arrows severe the
 weapons the mighty Indra the Lord of celestials, is lying slain on the ground."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He who with his missiles (astraiḥ) could strike down the missiles (astrāṇi) even of great-souled Indra (śakrasyāpi)—that very hero, worthy of a costly couch (mahārhaśayanocitaḥ), lies struck down upon the bare ground (urvyām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1024,6 +1146,12 @@ without doubt; *pradhakSyati* = will consume; *maam* = me; *yat tat* = since;
 
 "Those vain words uttered by me, will ndoubtedly consume me since I have not made
 Vibhishana the king of demons."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without doubt (na saṃśayaḥ), that vainly spoken pledge (mithyā pralaptam) will burn me (māṃ pradhakṣyati), inasmuch as (yat) Vibhīṣaṇa has not been made king of the Rākṣasas by me!
 </details>
 </details>
 
@@ -1072,6 +1200,12 @@ Vibhishana the king of demons."
 "O, Sugreeva! You ought to return at once from here since knowing that you are
 bereft of my support, Ravana will overcome you, O king!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At this very instant (asmin muhūrte), O Sugrīva, you ought to depart (pratiyātum arhasi) from here; knowing you to be bereft of me (matvā hīnaṃ mayā), O king, Rāvaṇa will overwhelm [you] (abhibhaviṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1117,6 +1251,12 @@ with your followers; *niilena cha* = Nila; *nalenacha* = and Nala.
 
 "O, Sugreeva! Recross the sea with your army, keeping Angada in front and with your
 followers, Nila and Nala."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing Aṅgada at the fore (aṅgadaṃ tu puraskṛtya) along with the army (sasainyam) and the royal train (saparicchadam), cross over the ocean (sāgaraṃ tara), O Sugrīva, together with Nīla and Nala!
 </details>
 </details>
 
@@ -1165,6 +1305,12 @@ to any other; *raNe* = in battle.
 "I am fully satisfied by the great military exploit, done by Jambavan the king of
 Bears and the General of the Monkeys, which was impossible to any other in battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For a most mighty feat (sumahat karma), hard for others to accomplish (yad anyair duṣkaram) in battle, has been achieved; I am well pleased (tuṣyāmi) with the king of the bears (ṛkṣarājena) [Jāmbavān] and the lord of the Golāṅgūla monkeys (golāṅgūlādhipena ca) [Gavākṣa].
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1205,6 +1351,12 @@ battle-field.
 
 "A great act was done by Angada, Mainda and Dvivida. A terrible combat was done by
 Kesari and Sampati in the battle-field."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Heroic work (karma) has been wrought by Aṅgada, by Mainda, and by Dvivida; a fierce battle (ghoraṃ yuddham) has been fought in the fray (saṃkhye) by Kesarin and by Sampāti.
 </details>
 </details>
 
@@ -1251,6 +1403,12 @@ lives; *madarthe* = for me; *yuddham* = the battle was carried on.
 
 "By Gavaya, Gavaksha, Sharabha, Gaja and other monkeys, who are willing to sacrifice
 their lives for me, the battle was carried on."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Battle has been waged by Gavaya, Gavākṣa, Śarabha, and Gaja, and by other monkeys (anyaiś ca haribhiḥ) who hazarded their lives for my sake (madarthe tyaktajīvitaiḥ).
 </details>
 </details>
 
@@ -1332,6 +1490,14 @@ you!.
 "O. foremost of Monkyes! You have accomplished all this due to your friendship. I
 take leave of you all; go where it seems best to you!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**28:** Destiny (daivam), O Sugrīva, cannot be transgressed (nātikramituṃ śakyam) by mortals (mānuṣaiḥ); yet whatever supreme effort (yat tu śakyaṃ param) could be made for me by a comrade (vayasyena) or a true-hearted friend (suhṛdā vā),
+
+**29:** all that (tat sarvam) has been accomplished by you, O Sugrīva, who fear to swerve from dharma (dharmabhīruṇā). This duty of friendship (mitrakāryam) has been fulfilled by you all, O bulls among the Vānaras (vānararṣabhāḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1395,6 +1561,14 @@ quickly; *yatra* = where; *raaghava* = Rama (was then).
 Meanwhile, Vibhishana having established order in all the ranks, with mace in his
 hand, came quickly to Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**30:** Given leave by me (anujñātā mayā), you all ought to depart whithersoever you wish (yatheṣṭaṃ gantum arhatha).” All those tawny-eyed (kṛṣṇetarekṣaṇāḥ) Vānaras who heard his lamentation (tasya paridevitam) shed tears (vartayāṃcakrire 'śrūṇi) from their eyes.
+
+**31:** Then, having rallied (sthāpayitvā) all the ranks of the army (sarvāṇy anīkāni), Vibhīṣaṇa, mace in hand (gadāpāṇiḥ), came swiftly (tvaritam) to where Rāghava was.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1441,6 +1615,12 @@ away.
 
 Seeing him, who resembled a mass of collyrium, hastening towards them thus, all the
 monkeys thinking him to be Indrajit the son of Ravana, fled away.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing him advancing swiftly, resembling a mass of dark collyrium (nīlāñjanacayopamam), all the Vānaras fled (dudruvuḥ), mistaking him for Rāvaṇa’s son (manyamānās tu rāvaṇim) [Indrajit].
 </details>
 </details>
 

@@ -69,6 +69,12 @@ Thereupon, Matali refreshed the memory of Rama as follows: "O the valiant one! W
 are you still carrying out the battle with Ravana as though you are unaware (of how to dispose of
 him)?
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Glad at heart, that charioteer [drove forward] the chariot that crushed enemy hosts (para-sainya-pradharṣaṇam), resembled a celestial city of the Gandharvas in form (gandharva-nagarākāram), and flew lofty banners (samucchrita-patākinam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +116,12 @@ now; *yaH* = which (was expressed); *suraiH* = by the celestials.
 "O lord! You can employ a mystic missile presided over by Brahma the lord of
 creation. The time for his destruction has come now, as expressed by the celestials."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+yoked with supremely endowed steeds (parama-sampannair vājibhiḥ) wearing golden garlands (hema-mālibhiḥ), filled with implements of war (yuddhopakaraṇaiḥ), and festooned with rows of pennants and standards (patākā-dhvaja-mālinam);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -134,6 +146,12 @@ creation. The time for his destruction has come now, as expressed by the celesti
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मातलिय ई वाक्यदिन्द श्रीरामचन्द्रगॆ आ अस्त्रवु स्मरणॆगॆ बन्तु. मत्तॆ अवनु बुसुगुट्टुव सर्पदन्तह ऒन्दु तेजस्वी बाणवन्नु कैगॆत्तिकॊण्डनु.॥3॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+seeming to swallow the very sky (grasantam iva cākāśam) and making the earth resound (nādayantaṃ vasuṃdharām), the ruin of enemy armies and the delight of his own host (sva-sainyasya praharṣaṇam)—
 </details>
 </details>
 
@@ -180,6 +198,12 @@ Then, the valiant Rama, who was reminded thus by Matali, took hold of a blazing
 arrow, which was given by Brahma and which in turn was given to him by the glorious sage, Agastya
 earlier in the battle-field and which looked like a hissing serpent.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+swiftly the charioteer urged on that chariot of Rāvaṇa. Charging headlong with a mighty roar (svanavantam) and bearing a great standard (mahā-dhvajam),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -221,6 +245,12 @@ jayakaaN^kShiNaH* = who was desirous of conquering the three worlds.
 Having been made formerly for Indra, the lord of celestials by Brahma, the lord of
 creation of infinite strength, it was bestowed in the past on the ruler of gods, who was desirous
 of conquering the three worlds.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the king of men (nara-rājaḥ) beheld that chariot of the king of rākṣasas, yoked with black steeds (kṛṣṇa-vāji-samāyuktam) and endowed with a fierce, terrible splendor (raudreṇa varcasā),
 </details>
 </details>
 
@@ -267,6 +297,12 @@ of conquering the three worlds.
 
 In its feathers, wind was established. In its end-point were the fire and the sun.
 In its heaviness were Mounts Meru and Mandara. Its shaft was made of ether.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+blazing like an aerial palace (vimānam) of solar effulgence in the sky, dense with lightning-like pennants (taḍit-patākā-gahanam), and displaying the sheen of Indra’s rainbow (darśitendrāyudha-prabham).
 </details>
 </details>
 
@@ -328,6 +364,14 @@ elephants and horses.
 Blazing like a fire at the time of universal dissolution enveloped in smoke and
 looking like a venomous snake, it was swift in action and capable of bursting hosts of men,
 elephants and horses.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** Beholding that cloud-like chariot of his foe rushing forward and discharging torrents of arrows (śara-dhārā vimuñcantam) like a rain-cloud pouring down showers (dhārā-dharam ivāmbudam),
+
+**8:** its rumble resembling that of a mountain riven by a thunderbolt (girer vajrābhimṛṣṭasya dīryataḥ sadṛśa-svanam), Rāma swiftly twanged his bow, which was curved like the crescent moon (bāla-candrānataṃ dhanuḥ),
 </details>
 </details>
 
@@ -415,6 +459,16 @@ fearful.
 It was giving perennial feed to vultures, eagles, cranes, troops of jackals and
 demons in the battle-field, possessing a form of Yama the lord of Death and was fearful.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** and spoke to Mātali, the charioteer of the thousand-eyed Indra (sahasrākṣasya sārathim): “O Mātali, behold the chariot of my foe charging furiously (saṃrabdham āpatantam)!
+
+**10:** To judge by the way he rushes forward again at great speed wheeling from left to right (apasavyam), he has made up his mind to destroy himself (hantum ātmānam) in battle!
+
+**11:** Therefore maintain utmost vigilance (apramādam ātiṣṭha) and drive straight out to meet the enemy’s chariot (pratyudgaccha); I wish to scatter it as the wind scatters a rising cloud (vāyur megham ivotthitam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -461,6 +515,12 @@ kinds of beautiful coloured feathers; *garutmataH* = of Garuda; the king of eagl
 That arrow bestowed joy on the monkey-leaders and destroyed the demons. It was made
 speedy, by tying various kinds of beautiful coloured feathers of Garuda, the king of eagles, to
 it.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unfaltering (aviklavam), unagitated (asambhrāntam), with steady heart and gaze (avyagra-hṛdayekṣaṇam), and with firm control over the play of the reins (raśmi-saṃcāra-niyatam), urge the chariot swiftly on!
 </details>
 </details>
 
@@ -517,6 +577,14 @@ Rama who was endowed with an extraordinary strength then fixed that arrow which 
 among the three worlds, capable of removing the fear of Ikshwaku dynasty, taking away the glory of
 the enemies and bestowing joy to one's own self on his bow.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “True (kāmam), accustomed as you are to Indra’s chariot (puraṃdara-rathocitaḥ), you need no instruction (na tvaṃ samādheyaḥ); yet, eager for battle and single-minded (ekāgraḥ), I merely remind you and do not presume to teach you (smāraye tvāṃ na śikṣaye)!”
+
+**14:** Highly pleased by those words of Rāma, Mātali, the peerless charioteer of the gods (sura-sārathir uttamaḥ), urged the chariot onward.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -556,6 +624,12 @@ all the beings; *samtresuH* = were frightened; *vasumdharaa* = the earth;
 
 While that excellent arrow was being fixed by Rama, all the beings were frightened
 and the earth trembled.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing Rāvaṇa’s great chariot on the right (apasavyaṃ tataḥ kurvan), he enveloped and shook Rāvaṇa (vyavadhūnayat) with the dust raised by his chariot-wheels (cakra-sambhūta-rajasā).
 </details>
 </details>
 
@@ -597,6 +671,12 @@ tear off the vitals; *raavaNaaya* = towards Ravana.
 That enraged Rama, stretching his bow well and with an attentive mind, hurled that
 arrow which can tear off the vitals, towards Ravana.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the enraged ten-necked demon, his coppery eyes wide-flaring (tāmra-visphāritekṣaṇaḥ), pelted Rāma, who faced his chariot (ratha-pratimukham), with shafts.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -636,6 +716,12 @@ chest.
 
 That arrow, which was inviolable as a thunderbolt hurled by the arms of Indra and
 irresistible as Yama the lord of Death, fell upon Ravana's chest.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed at that assault (dharṣaṇāmarṣitaḥ), Rāma, reinforcing his steadfastness with wrath (dhairyaṃ roṣeṇa lambhayan), seized in battle Indra’s bow of supremely mighty impetus (aindraṃ yudhi śarāsanam),
 </details>
 </details>
 
@@ -682,6 +768,12 @@ great speed; *shariiraantakaraH* = and which was capable of destroying the body;
 
 That arrow, released with great speed and which was capable of destroying the body,
 tore off the heart of that evil-minded Ravana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+along with shafts of tremendous velocity gleaming like the rays of the sun (sūrya-raśmi-sama-prabhān). Then commenced that great battle (tad upoḍhaṃ mahad yuddham) between the two warriors bent on each other’s slaughter (anyonya-vadha-kāṅkṣiṇoḥ), facing one another like two proud lions (dṛptayor iva siṃhayoḥ).
 </details>
 </details>
 
@@ -732,6 +824,12 @@ capable of causing death to the body; *haran* = taking away; *praaNaan* = the li
 That arrow, which was capable of causing death to the body, after taking away the
 life of Ravana and having been anointed with blood, penetrated the earth.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the gods together with the Gandharvas, the Siddhas, and the supreme sages (paramarṣayaḥ) assembled to behold that chariot-duel (dvairatham), eager for Rāvaṇa’s destruction (rāvaṇa-kṣaya-kāṅkṣiṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -781,6 +879,12 @@ re-entered; *svatuuNiim* = its own quiver (of Rama); *nibhR^itavat* = silently.
 Smeared with blood on having killed Ravana and thereby accomplishing its mission,
 that arrow re-entered its own quiver (of Rama) silently.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon terrible, hair-raising portents (utpātā dāruṇā roma-harṣaṇāḥ) sprang forth, boding the destruction of Rāvaṇa and the triumph (udayāya) of Rāghava.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -826,6 +930,12 @@ fell; *aashu* = quickly kaarmukam = his bow; *sasaayakam* = with its arrow;
 
 From the hands of the slain Ravana, who was being separated from his life, fell his
 bow with its arrows (fitted to it), at the same time coinciding indeed with his life-breath.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The rain-god (devaḥ) rained blood (vavarṣa rudhiram) upon Rāvaṇa’s chariot, and fierce, swirling whirlwinds (vātā maṇḍalinas tīvrāḥ) swept counter-clockwise (vyapasavyam) around him.
 </details>
 </details>
 
@@ -875,6 +985,12 @@ Having lost his life, that king of demons for his part, who was endowed with
 terrible swiftness and invested with great splendour, fell down from the chariot to the ground ,
 like Vritra the demon when the latter was struck down by the thunderbolt.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A huge flock of vultures (mahad gṛdhra-kulam), wheeling in the vault of the sky (nabhas-thale), darted after his chariot whichever way it moved (yena yena ratho yāti tena tena pradhāvati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -915,6 +1031,12 @@ like Vritra the demon when the latter was struck down by the thunderbolt.
 
 Seeing Ravana fallen down on earth, the surviving demons whose king had been killed,
 were panic stricken and ran away to all sides.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Laṅkā was enveloped by an untimely twilight red as a hibiscus flower (japā-puṣpa-nikāśayā), and even in broad daylight (divase 'pi) the earth appeared as though ablaze (sampradīpteva).
 </details>
 </details>
 
@@ -965,6 +1087,12 @@ the monkeys; *jitakaashinaH* = assumed a triumphant appearance.
 The monkeys, who fought with trees, fell upon the demons from all sides. Seeing the
 killing of Rvana, the monkeys assumed a triumphant appearance.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Great meteors (maholkāḥ) accompanied by portents of thunderous concussion (sanirghātāḥ) fell with a mighty roar; boding ill (ahitāḥ) for Rāvaṇa then, they filled the rākṣasas with dismay (viṣādayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1012,6 +1140,12 @@ miserable; *baaShpa sravaNaiH* = with tears flowing down; *abhyapatan* = ran awa
 Tormented by the monkeys, the demons rushed back with panic towards Lanka, with
 faces looking miserable and tears flowing down, their supporter having been killed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wherever Rāvaṇa moved, there the earth trembled (pracacāla vasuṃdharā), and the arms of the rākṣasas as they struck seemed held fast (gṛhītā iva bāhavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1052,6 +1186,12 @@ Ravana.
 
 Roaring shouts of joy, quite rejoiced as they were, and proclaiming Rama's victory
 and the killing of Ravana in his hands, the monkeys behaved like conquerors.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Coppery, yellow, pale, and white sunbeams (sūrya-raśmayaḥ) falling in front of Rāvaṇa appeared like mineral streaks upon a mountain (parvatasyeva dhātavaḥ).
 </details>
 </details>
 
@@ -1098,6 +1238,12 @@ dundibhiH* = kettle-from of the gods; *vyanadat* = reverberated antarikShe = in 
 
 Then the cheerful kettle-drum of the gods reverberated in the sky. Very pleasant
 winds, carrying divine odour, blew there.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Followed by vultures and spewing fire from their mouths (vamantyo jvalanaṃ mukhaiḥ), female jackals (śivāḥ), staring straight into his face (mukham īkṣantyaḥ), howled fiercely and inauspiciously (aśivaṃ śivāḥ).
 </details>
 </details>
 
@@ -1149,6 +1295,12 @@ occasion.
 Pouring over the chariot of Rama quite fascinating shower of flowers, which was
 difficult to be accomplished (elsewhere), fell from the heavens to the earth on that occasion.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The wind blew adversely (pratikūlaṃ vavau vāyuḥ) on the battlefield, tossing up clouds of dust (pāṃsūn samutkiran) and blinding the sight (kurvan dṛṣṭi-vilopanam) of that king of rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1194,6 +1346,12 @@ Rama; *vishruve* = was distinctly heard; *gagane* = in the sky.
 
 Excellent pronouncements of the great-souled gods saying "well done! Bravo!",
 combined with a panegyric in praise of Rama, was distinctly heard in the sky.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Terrible thunderbolts of Indra (indrāśanayaḥ) with unbearable roar (durviṣahya-svarāḥ) crashed down on all sides upon his army without any rising of rain-clouds (vinā jaladharodayam).
 </details>
 </details>
 
@@ -1241,6 +1399,12 @@ combined with a panegyric in praise of Rama, was distinctly heard in the sky.
 When Ravana, the cruel demon and the terror of all the worlds, was killed, a great
 rejoice filled the hearts of gods and charanas the celestial bards.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All the cardinal and intermediate directions (diśaś ca pradiśaḥ sarvāḥ) became shrouded in darkness (timirāvṛtāḥ), and through the heavy rain of dust (pāṃsu-varṣeṇa mahatā) the sky grew hard to behold (durdarśam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1280,6 +1444,12 @@ killing; *raakShasa pungavam* = Ravana; *raaghavaH* = Rama; *tataH* = then;
 
 Having been pleased with the killing of Ravana, Rama then fulfilled the desire of
 Sugreeva, Angada and Vibhishana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Waging a dreadful quarrel (kurvantyaḥ kalahaṃ ghoram), terrible sārikā birds (sārikāḥ) with harsh, frightful cries (dāruṇārutāḥ) plummeted by the hundreds around his chariot.
 </details>
 </details>
 
@@ -1327,6 +1497,12 @@ too; *abhavat* = shed; *sthiraprabhaH* = a steady light.
 Then, troops of celestials got their mental peace. All the quarters were brightened
 up and the sky became clear. The earth did not tremble. The wind blew gently. The sun too shed a
 steady light.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From their flanks his steeds continuously shed sparks of fire (jaghanebhyaḥ sphuliṅgāḥ) and from their eyes tears (netrebhyo 'śrūṇi), discharging fire and water simultaneously (tulyam agniṃ ca vāri ca).
 </details>
 </details>
 
@@ -1387,6 +1563,12 @@ their respects; *vidhinaa* = with due ceremony.
 Rejoiced with the victory in battle, Sugreeva, Vibhishana and Angada together with
 Lakshmana along with their friends paid their respects with due ceremony to Rama, who looked
 charming.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Many such terrible and fearsome portents (samutpātā bhayāvahāḥ) arose on all sides, foreboding the destruction of Rāvaṇa (rāvaṇasya vināśāya).
 </details>
 </details>
 
@@ -1458,6 +1640,12 @@ on the battle-field by his own people and the army shone like Indra the lord of 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूर ऎण्टनॆय सर्ग पूर्णवायितु. ॥108॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For Rāma, however, gentle and auspicious omens (nimittāni saumyāni ca śivāni ca) heralding victory (jaya-śaṃsīni) manifested themselves on every side.
 </details>
 </details>
 

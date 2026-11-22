@@ -36,6 +36,12 @@ title = "०१९ अनरण्य-शापः"
 
 (अगस्त्यरु हेळुत्तारॆ - रघुनन्दन !) हिन्दिनन्तॆ मरुत्तनन्नु जयिसिद बळिक राक्षसराज दशग्रीवनु क्रमवागि इतर राजरल्लियू युद्धद इच्छॆयिन्द होदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, having vanquished Marutta (jitvā maruttam), that sovereign of the rākṣasas (rākṣasādhipaḥ), Ten-Headed Rāvaṇa, eager for combat (yuddhakāṅkṣī daśānanaḥ), proceeded to the cities of the kings of men (nagarāṇi narendrāṇām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -70,6 +76,14 @@ _________________
 
 महेन्द्र, वरुणरन्तॆ पराक्रमि गळाद आ महाराजर बळिगॆ होगि राक्षसेन्द्रनु हेळुत्तिद्दनु - राजरे ! नीवु नन्नॊडनॆ युद्धमाडि इल्लवॆ ‘नावु सोतिद्देवॆ’ ऎन्दु हेळि. इदन्नॆ नानु माडिद निश्चयवागिदॆ. इदक्कॆ विरुद्धवागि नडॆदरॆ निमगॆ बिडुगडॆ इल्ल.॥2-3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** Approaching great kings who rivaled Mahendra and Varuṇa (mahendra-varuṇopamān), that lord of rākṣasas spoke these words: “Let battle be granted to me (yuddhaṃ me dīyatām),
+
+**3:** “Or else declare, ‘We are vanquished’ (nirjitāḥ smeti vā brūta)—for this is my firm resolve (eṣa me hi suniścayaḥ)! For those who act otherwise (anyathā kurvatām), no release whatsoever is possible (mokṣo naivopapadyate).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -101,6 +115,12 @@ _________________
 
 आग निर्भय, बुद्धिवन्त, धर्मपूर्णविचार माडुव अनेक महाबलि राजरु परस्पर सलहॆ पडॆदु, शत्रुविन प्रबलतॆ अरितु राक्षसराजा! नावु निन्निन्द सोलन्नॊप्पि कॊळ्ळुत्तेवॆ ऎन्दु हेळुत्तिद्दरु.॥4½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon those fearless, wise monarchs (abhīravaḥ prājñāḥ pārthivāḥ), steadfast in dharma (dharmaniścayāḥ) and endowed with exceeding might, having taken counsel with one another (mantrayitvā tato ’nyonyam), declared, “We are vanquished,” knowing the power of their adversary’s boon (jñātvā varabalaṃ ripoḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -125,6 +145,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दुष्यन्त, सुरथ, गाधि, गय, राजा पुरूरव इवरॆल्ल राजरु तम्म राज्यभार कालदल्लि रावणन ऎदुरिगॆ तम्म पराजयवन्नु स्वीकरिसिद्दरु.॥5½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Duṣyanta, Suratha, Gādhi, Gaya, and King Purūravas—all these kings declared, O dear one (tāta), “We are vanquished” (nirjitāḥ smeti). Then Rāvaṇa, lord of the rākṣasas, reached Ayodhyā (ayodhyāṃ samāsādya),
 </details>
 </details>
 
@@ -157,6 +183,16 @@ _________________
 
 बळिक राक्षसाधिप रावणनु इन्द्रनिन्द सुरक्षितवाद अमरावतियन्तिरुव, महाराजा अनरण्यनिन्द पालित अयोध्यॆगॆ बन्दनु. अल्लि इन्द्रनन्तॆ पराक्रमि पुरुषसिंह अनरण्यनल्लिगॆ बन्दु हेळिदनु-राजने! नीनु नन्नॊडनॆ युद्धद मातु कॊडु इल्लवे ‘नानु सोतॆ’ ऎन्दु हेळु. इदे नन्न आदेशवागिदॆ.॥6-8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** —which was well guarded by Anaraṇya (suguptām anaraṇyena) as Amarāvatī is by Śakra (śakreṇevāmarāvatīm); and approaching that tiger among men (puruṣaśārdūlam), equal to Purandara in strength (purandara-samaṃ bale)—
+
+**7:** —Rāvaṇa approached the king and spoke (prāha rājānam āsādya): “Grant me battle (yuddhaṃ dehi), or else say, ‘I am vanquished’ (nirjito ’smīti vā brūhi)—such is my decree to you (mama śāsanam)!”
+
+**8:** Hearing those words of that wicked-souled one (pāpātmano vacaḥ), Ayodhyā’s sovereign Anaraṇya (ayodhyādhipatiḥ ... anaraṇyaḥ), filled with fierce wrath (saṅkruddhaḥ), thereupon addressed the lord of the rākṣasas:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -181,6 +217,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ पापात्मन मातन्नु केळि अयोध्या नरेश अनरण्यनिगॆ भारी क्रोधवुण्टागि अवनु राक्षसराजनल्लि हेळिदनु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Single combat is granted to you by me (dīyate dvandva-yuddhaṃ te ... mayā), O sovereign of the rākṣasas! Stand fast at once and make yourself ready (santiṣṭha kṣipram āyatto bhava), and so too shall I be (caivaṃ bhavāmy aham)!”
 </details>
 </details>
 
@@ -207,6 +249,12 @@ _________________
 
 निशाचरपते! नानु निनगॆ द्वन्द्वयुद्धद अवकाश कॊडुवॆनु. निल्लु, बेगने युद्धक्कागि सिद्धनागु. नानू सिद्धनागुत्तेनॆ.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that vast army (sumahad balam) which had already been appointed for victory (pūrvaṃ śrutārthena nirjitam) by the king—who had previously heard news of Rāvaṇa—marched forth (niṣkrāmat), intent upon slaying the rākṣasa (rakṣo-vadhodyatam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -231,6 +279,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजनु रावणन दिग्विजयद सुद्दि मॊदले केळि, अदक्कागि अवनु दॊड्ड सैन्यवन्नु सेरिसि इट्टिद्दनु. राजन आ ऎल्ल सैन्यवु आग राक्षसन वधॆगागि उत्साहदिन्द नगरदिन्द हॊरटितु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ten thousand elephants (nāgānāṃ daśa-sāhasram), a hundred thousand steeds (vājināṃ niyutam), and many thousands of chariots and foot-soldiers (rathānāṃ bahu-sāhasraṃ pattīnāṃ ca), O foremost of men,
 </details>
 </details>
 
@@ -259,6 +313,12 @@ _________________
 
 नरश्रेष्ठ श्रीरामा! हत्तुसाविर आनॆ सवाररु, ऒन्दु लक्ष कुदुरॆ सवाररु, अनेक साविर रथगळु, असङ्ख्य कालाळुगळिन्द नॆल भागवन्नु आच्छादनॆ माडुत्ता ऎल्ल सैन्य रणरङ्गक्कॆ बन्तु.॥12½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—overspreading the earth (mahīṃ sañchādya), that force marched out with infantry and chariots into the fray (niṣkrāntaṃ sa-padāti-rathaṃ raṇe); and thereupon a stupendous battle began (pravṛttaṃ sumahad yuddham), O warrior skilled in war!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -284,6 +344,12 @@ _________________
 
 युद्धविशारद रघुवीर ! मत्तॆ राजा अनरण्य मत्तु रावणरल्लि भारी अद्भुत सङ्ग्राम प्रारम्भवायितु.॥13½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—a wondrous encounter between King Anaraṇya and the lord of rākṣasas (anaraṇyasya nṛpate rākṣasendrasya cādbhutam). Yet upon encountering Rāvaṇa’s host (tad rāvaṇa-balaṃ prāpya), the army of that lord of the earth
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -308,6 +374,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग राजन ऎल्ल सैन्यवु रावणन सैन्यदॊन्दिगॆ कादाडुत्ता अग्नियल्लि हाकिद आहुतियु पूर्णभस्मवागुवन्तॆ नाशवाग तॊडगितु.॥14½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—all of it perished then (prāṇaśyata tadā sarvam), like an oblation poured into fire (havyaṃ hutam ivānale), though it had fought for a very long time (yuddhvā ca suciraṃ kālam) and displayed supreme valor (kṛtvā vikramam uttamam).
 </details>
 </details>
 
@@ -340,6 +412,14 @@ _________________
 
 आ सैन्यवु बहळ हॊत्तु कादाडितु, पराक्रम तोरितु, आदरॆ तेजस्वी रावणनन्नु ऎदुरिसुत्ता बहळ कडिमॆ सङ्ख्यॆयल्लि उळिदु कॊनॆगॆ पतङ्गगळु अग्नियल्लि बिद्दु भस्मवागुवन्तॆ कालनिगॆ तुत्तायितु.॥15-16॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** Reaching that blazing foe (prajvalantaṃ tam āsādya), the swiftly diminished remnant (kṣipram evāvaśeṣitam) plunged into the tumult there (prāviśat saṅkulaṃ tatra) like moths into a fire (śalabhā iva pāvakam); and there the army perished like an oblation poured into flame.
+
+**16:** Then that lord of men beheld his mighty host perishing (naśyamānaṃ mahābalam), like a hundred water-filled rivers (vanāpaga-śataṃ yathā) upon reaching the great ocean (mahārṇavaṃ samāsādya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -364,6 +444,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 जलदिन्द तुम्बिद भारी नूरारु नदिगळु समुद्रदल्लि सेरि होगुवन्तॆ तन्न सैन्यवु नाशवागुवुदन्नु राजनु नोडिदनु.॥17॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, twanging his own bow that resembled the bow of Śakra (śakra-dhanuḥ-prakhyam dhanur visphārayan svayam), the sovereign, overwhelmed with wrath (krodha-mūrcchitaḥ), advanced directly upon Rāvaṇa (āsasāda ... taṃ rāvaṇam).
 </details>
 </details>
 
@@ -393,6 +479,12 @@ _________________
 
 आग महाराज अनरण्यनु क्रोधगॊण्डु इन्द्र धनुस्सिनन्तॆ तन्न महा धनुस्सन्नु टङ्कार माडुत्ता रावणनन्नु ऎदुरिसलु आगमिसिदनु..॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Broken by Anaraṇya (anaraṇyena ... bhagnāḥ), those ministers—Mārīca, Śuka, and Sāraṇa, together with Prahasta (prahasta-sahitāḥ)—fled in every direction like deer (vyadravanta mṛgā iva).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -417,6 +509,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सिंहवन्नु नोडि जिङ्कॆगळु ओडिहोगुवन्तॆ मारीच, शुक, सारण, प्रहस्त ई नाल्वरू राक्षस मन्त्रिगळु अनरण्यनिन्द ओडि पलायन माडिदरु.॥19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon that delight of the Ikṣvāku lineage (ikṣvāku-kula-nandanaḥ) let fall eight hundred arrows (bāṇa-śatāny aṣṭau pātayāmāsa) upon the head (mūrdhani) of that king of the rākṣasas.
 </details>
 </details>
 
@@ -443,6 +541,12 @@ _________________
 
 अनन्तर इक्ष्वाकुकुलनन्दन राजा अनरण्यनु राक्षसराज रावणन मस्तकदल्लि ऎण्टु नूरु बाणगळन्नु प्रयोगिसिदनु.॥20॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet those falling shafts of his caused not a single wound anywhere (cakrire na kṣataṃ kvacit), like streams of rain falling from the clouds (vāridhārā ivābhrebhyaḥ) upon a mountain summit (giri-mūrdhani).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,6 +571,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 पर्वत शिखरदल्लि बिद्द मळॆयु अदन्नु क्षतिगॊळिसदन्तॆ आ सुरियुव बाणगळु आ निशाचरन शरीरदल्लि गायगॊळिसदे होदवु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, struck upon the head with his open palm (talenābhihato mūrdhni) by the enraged king of the rākṣasas (rākṣasa-rājena kruddhena), that sovereign fell straightway from his chariot (sa rathān nipapāta ha).
 </details>
 </details>
 
@@ -493,6 +603,12 @@ _________________
 
 आग कुपितनाद रावणनु राजन तलॆगॆ ऒन्दु एटुकॊट्टनु. इदरिन्द आहतनागि राजनु रथदिन्द कॆळगॆ उरुळिदनु.॥22॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fallen upon the earth (patito bhūmau), with limbs shattered and trembling (vihvalāṅgaḥ pravepitaḥ), that king lay like a sāla tree in the forest blasted by a thunderbolt (vajra-dagdha ivāraṇye sālo nipatito yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -518,6 +634,12 @@ _________________
 
 सिडिलु बडिदाग ऒणगिद मरवु दग्धवागि उरुळुवन्तॆ राजा अनरण्यनु व्याकुलनागि नॆलक्कॆ बिद्दु गड-गड नडुगतॊडगिदनु.॥23॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Laughing aloud (prahasya), the rākṣasa spoke to that Ikṣvāku lord of the earth (ikṣvākuṃ pṛthivī-patim): “What fruit have you gained now (kim idānīṃ phalaṃ prāptam) by fighting against me (tvayā māṃ prati yudhyatā)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -542,6 +664,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इदन्नु नोडि रावणनु जोरागि नक्कु आ इक्ष्वाकु नरेशनल्लि हेळिदनु - ईग नन्नॊडनॆ युद्ध माडि निनगेनु फल दॊरकितु.॥24॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In all the three worlds there is none (trailokye nāsti) who could grant me single combat (yo dvandvaṃ mama dadyāt), O lord of men; engrossed in pleasures, I suppose (śaṅke prasakto bhogeṣu), you have not heard of my might (na śṛṇoṣi balaṃ mama).”
 </details>
 </details>
 
@@ -571,6 +699,12 @@ _________________
 
 नरेश्वर! नन्नॊडनॆ द्वन्द्वयुद्ध माडुवन्तह वीरनु मूरु लोकगळल्लि यारू इल्ल. नीनु भोगगळल्लि हॆच्चु आसक्तनाद्दरिन्द नन्न बल पराक्रम केळिल्ल ऎन्दु तोरुत्तदॆ.॥25॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he spoke thus (tasyaivaṃ bruvataḥ), the king, with failing breath (mandāsuḥ), uttered these words: “What indeed can be done here (kiṃ śakyam iha kartuṃ vai), for Time is insurmountable (kālo hi duratikramaḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -596,6 +730,12 @@ _________________
 
 राजन प्राणशक्ति क्षीणवायितु. हीगॆ आडुत्तिरुव रावणन वचन केळि हेळिदनु - राक्षसराजने! ईग इल्लेनु माडबहुदु? एकॆन्दरॆ कालवन्नु उल्लङ्घिसुवुदु अत्यन्त दुष्करवागिदॆ.॥26॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Truly, O rākṣasa, I have not been vanquished by you (na hy ahaṃ nirjito rakṣas tvayā), who boast of yourself (ātma-praśaṃsinā); by Time alone have I been struck down (kālenaiva vipanno ’ham), while you are merely the instrument for me (hetu-bhūtas tu me bhavān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -620,6 +760,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राक्षसने! नीनु तन्नन्नु प्रशंसिसिकॊळ्ळुत्तिरुवॆ; आदरॆ नीनु इन्दु नन्नन्नु पराजितगॊळिसिदुदरल्लि कालवे कारणवागिदॆ. नीनादरो नन्न मृत्युविनल्लि निमित्तमात्रनादॆ.॥27॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet what can I do now at the ebbing of my vital breaths (prāṇa-parikṣaye)? Assuredly, O rākṣasa, I did not turn my back in flight (na hy ahaṃ vimukhī), but was slain by you while fighting (yudhyamānas tvayā hataḥ).
 </details>
 </details>
 
@@ -649,6 +795,12 @@ _________________
 
 नन्न प्राणगळु होगुत्तिवॆ, आद्दरिन्द नानु एनु माडबल्लॆ? निशाचरने! नानु युद्धदल्लि बॆन्नु तोरलिल्ल इदु ननगॆ सन्तोषविदॆ. युद्ध माडुत्ता निन्न कैयिन्द सायुत्तानॆ.॥28॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because you have insulted the line of Ikṣvāku (ikṣvāku-paribhāvitvāt), I shall utter a word, O rākṣasa (vaco vakṣyāmi rākṣasa): if I have given charity (yadi dattam), if I have offered oblations (yadi hutam), if my austerity has been well performed (yadi me sukṛtaṃ tapaḥ), and if my subjects have been rightly protected (yadi guptāḥ prajāḥ samyak), then let my word come true (tadā satyaṃ vaco ’stu me)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -676,6 +828,12 @@ _________________
 
 आदरॆ राक्षसने! नीनु व्यङ्ग्यपूर्ण मातुगळिन्द इक्ष्वाकुकुलद अपमान माडिदॆ. इदरिन्द निनगॆ शाप कॊडुत्तिद्देनॆ. निनगॆ अमङ्गल मातन्नु हेळुत्तेनॆ. नानु दान, पुण्य, होम, तपस्सु माडिद्दरॆ, नानु धर्मक्कनुसार प्रजॆगळन्नु चॆन्नागि पालिसिदिद्दरॆ, नन्न मातु निजवागलि.॥29॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In this very lineage of the high-souled Ikṣvākus (kule hy asminn ikṣvākūṇāṃ mahātmanām) there shall be born (utpatsyate) one named Rāma, son of Daśaratha (rāmo dāśarathir nāma), who will take away your life-breaths (yas te prāṇān hariṣyati)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -701,6 +859,12 @@ _________________
 
 महात्मा इक्ष्वाकुवंशी राजर वंशदल्ले दशरथनन्दन श्रीरामनु प्रकटनागि निन्न प्राणगळन्नु अपहरिसुवनु.॥30॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, as that curse was pronounced (tasminn udāhṛte śāpe), the celestial kettledrum was beaten, booming loud as a raincloud (jaladharodagras tāḍito deva-dundubhiḥ), and a shower of blossoms fell from the sky (puṣpa-vṛṣṭiś ca khāc cyutā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +889,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजनु हीगॆ शपिसिदाग मेघगळु गम्भीर ध्वनियल्लि देवतॆगळु दुन्दुभिगळन्नु नुडिसिदरु, आकाशदिन्द पुष्पवृष्टियायितु.॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that king, O lord of kings (rājendra), departed to the abode of heaven (gataḥ sthānaṃ triviṣṭapam); and when that monarch had ascended to heaven (svargate ca nṛpe tasmin), that rākṣasa withdrew (rākṣasaḥ so ’pasarpata).
 </details>
 </details>
 

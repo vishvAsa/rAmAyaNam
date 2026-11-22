@@ -64,6 +64,12 @@ On sojourning the remaining night on the bank of river Sona along with
  great-sages, Viswamitra spoke when that night is elapsing into a sunny
  daybreak. [1-35-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed the remainder of the night on the bank of the Śoṇa together with the great sages (upāsya rātriśeṣaṃ tu śoṇākūle maharṣibhiḥ), when the night had brightened into auspicious dawn (niśāyāṃ suprabhātāyām), Viśvāmitra spoke:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -105,6 +111,12 @@ On sojourning the remaining night on the bank of river Sona along with
 "Oh, Rama, night fared into a sunny morning, eastern day-spring is set
  in, hence awake and arise, you be safe, ready yourself for further travel."
  [1-35-2]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The night has dawned auspiciously, O Rāma; the eastern twilight is now setting in (suprabhātā niśā rāma pūrvā saṃdhyā pravartate)! Arise, arise! May auspiciousness attend you (uttiṣṭhottiṣṭha bhadraṃ te); set your heart upon our onward journey (gamanāyābhirocaya)!”
 </details>
 </details>
 
@@ -154,6 +166,12 @@ On hearing the words of Sage Vishvamitra, Rama woke up and on completion
  of morning time religious activities he readied himself for further
  journey and indeed spoke this sentence to the sage. [1-35-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of his, Rāma performed his morning ritual observances (kṛtapūrvāhṇikakriyaḥ), showed his readiness for the march (gamanaṃ rocayām āsa), and spoke this word:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -198,6 +216,12 @@ On hearing the words of Sage Vishvamitra, Rama woke up and on completion
  by fordless waters or by fordable water with dunes, we have to cross
  this river?" [1-35-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here flows the Śoṇa, blessed with limpid waters, deep—or shallow at its ford—and adorned with sandy shoals (ayaṃ śoṇaḥ śubhajalo ’gādhaḥ pulinamaṇḍitaḥ). By which of the paths, O Brāhmaṇa, shall we cross over (katareṇa pathā brahman saṃtariṣyāmahe vayam)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +262,12 @@ On hearing the words of Sage Vishvamitra, Rama woke up and on completion
 
 When Rama spoke to him thus sage Vishvamitra replied, "I propose the
  same route by which these great sages are going. [1-35-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma, Viśvāmitra spoke this in reply: “Here is the path pointed out by me, by which the great sages pass across (eṣa panthā mayoddiṣṭo yena yānti maharṣayaḥ).”
 </details>
 </details>
 
@@ -285,6 +315,12 @@ When Rama spoke to him thus sage Vishvamitra replied, "I propose the
 Thus spoken by that astute Sage Vishvamitra, the other great sages travelled
  on, indeed beholding diverse forests and their environs. [1-35-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the wise Viśvāmitra, those great sages set forth (prayātā vai), beholding diverse woodlands along the way (paśyantas te vanāni vividhāni ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -327,6 +363,12 @@ On going a distance on their way, and after a lapse of half a day, then
  they perceived the prominent one among rivers and the one adored by
  sages, namely River Ganga. [1-35-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having travelled a long distance (te gatvā dūram adhvānam), when half the day had passed (gate ’rdhadivase tadā), they beheld the Jāhnavī (Gaṅgā), the foremost of rivers, frequented by sages (jāhnavīṃ saritāṃ śreṣṭhāṃ dadṛśur munisevitām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -368,6 +410,12 @@ On going a distance on their way, and after a lapse of half a day, then
 On seeing River Ganga with her pious waters and adored by swans and
  saarasa waterfowls, all the sages felt delighted together with both
  of the Raghava-s, namely Rama and Lakshmana. [1-35-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding that river of sanctifying waters, frequented by swans and Sarus cranes (tāṃ dṛṣṭvā puṇyasalilāṃ haṃsasārasasevitām), all the sages together with the two Rāghavas were filled with joy (babhūvur munayaḥ sarve muditāḥ saharāghavāḥ).
 </details>
 </details>
 
@@ -437,6 +485,14 @@ Then they sojourned on the riverbank of Ganga, and next on taking bath
  heart in having performed religious chores on the riverbank of Ganga.
  [1-35-9, 10, 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** On her bank they all prepared their halting-places (tasyās tīre tadā sarve cakrur vāsaparigraham); then, having bathed in accordance with sacred precept and offered water-libations to the ancestral manes and gods (tataḥ snātvā yathānyāyaṃ saṃtarpya pitṛdevatāḥ)—
+
+**10:** —and having offered oblations into their sacred fires and partaken of the nectar-like sacrificial oblation (hutvā caivāgnihotrāṇi prāśya cāmṛtavad dhaviḥ), they sat down radiant and joyful-minded upon the pure bank of the Jāhnavī (viviśur jāhnavītīre śubhā muditamānasāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -486,6 +542,12 @@ When sages are sitting at ease then even Rama and Lakshmana sat down
  teachers, and then Rama highly gladdened at heart has spoken to Vishvamitra.
  [1-35-11]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounding the high-souled Viśvāmitra on all sides (viśvāmitraṃ mahātmānaṃ parivārya samantataḥ), the sages were seated in due order, and the two Rāghavas according to their rank (viṣṭhitāś ca yathānyāyaṃ rāghavau ca yathārhataḥ); then Rāma, his heart filled with joy, spoke to Viśvāmitra:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -529,6 +591,12 @@ When sages are sitting at ease then even Rama and Lakshmana sat down
  and rivers, namely the ocean, on pervading all the three worlds." Thus
  Rama asked Vishvamitra. [1-35-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Revered Lord, I wish to hear of the river Gaṅgā, who flows through the three paths (bhagavañ śrotum icchāmi gaṅgāṃ tripathagāṃ nadīm)—how, having traversed the three worlds, did she go to the ocean, lord of rivers and streams (trailokyaṃ katham ākramya gatā nadanadīpatim)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -569,6 +637,12 @@ When sages are sitting at ease then even Rama and Lakshmana sat down
 Motivated by Rama's words the eminent-sage Vishvamitra commenced to
  narrate about the emergence and that way even about the progression
  of River Ganga. [1-35-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Impelled by Rāma’s words (codito rāmavākyena), the great sage Viśvāmitra began to recount the expansion and the birth of Gaṅgā (vṛddhiṃ janma ca gaṅgāyā vaktum evopacakrame):
 </details>
 </details>
 
@@ -616,6 +690,12 @@ _________________
  Rama, also treasures up a pair of daughters who by their comeliness
  are unequalled on earth. [1-35-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There is the king of mountains, Himavān, O Rāma, a mighty mine of minerals and ores (śailendro himavān rāma dhātūnām ākaro mahān). To him were born two daughters, O Rāma, peerless in beauty upon the earth (tasya kanyādvayaṃ rāma rūpeṇāpratimaṃ bhuvi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -658,6 +738,12 @@ _________________
 "The slender-waisted and fascinating daughter of Mt. Meru, oh, Rama,
  renowned by her name Mena, is the dear wife of Himavan and the mother
  of those two daughters, indeed. [1-35-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“She who is the slender-waisted daughter of Mount Meru, O Rāma, is the mother of those two (yā meruduhitā rāma tayor mātā sumadhyamā)—lovely Menā by name, the beloved consort of Himavān (nāmnā menā manojñā vai patnī himavataḥ priyā).
 </details>
 </details>
 
@@ -705,6 +791,12 @@ _________________
  oh, Raghava, and that way a girl renowned by the name Uma has become
  a second daughter to him. [1-35-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of her (Menā) was born this Gaṅgā, the elder daughter of Himavān (tasyāṃ gaṅgeyam abhavaj jyeṣṭhā himavataḥ sutā); and the second maiden born to him was known by the name of Umā (umā nāma dvitīyābhūt kanyā tasyaiva), O Rāghava.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -747,6 +839,12 @@ _________________
  sought the lordly mountain Himavan to spare Ganga, who is scheduled
  to become a tri-way-cruising river. [1-35-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then all the gods, desiring to accomplish a divine purpose (atha surāḥ sarve devakāryacikīrṣayā), solicited the lord of mountains for his elder daughter Gaṅgā, the river that flows through the three paths (jyeṣṭhāṃ śailendraṃ varayām āsur gaṅgāṃ tripathagāṃ nadīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -788,6 +886,12 @@ _________________
 "With a righteous thinking and hopeful of the welfare in triadic world,
  Himavan then spared his daughter Ganga whose flow is at her own volition.
  [1-35-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Out of desire for the welfare of the three worlds (trailokyahitakāmyayā), Himavān righteously bestowed his daughter (dadau dharmeṇa himavāṃs tanayām)—Gaṅgā, purifier of the worlds, who courses along paths of her own free will (lokapāvanīṃ svacchandapathagāṃ gaṅgām).
 </details>
 </details>
 
@@ -832,6 +936,12 @@ _________________
  welcomed Ganga, who is incidentally intended for the purpose of the
  tri-world, and they came back to heaven fetching Ganga with them, with
  a heartfelt joy for their purpose is fulfilled. [1-35-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having received Gaṅgā for the sake of the three worlds, those gods, intent upon the welfare of the three worlds (pratigṛhya trilokārthaṃ trilokahitakāṅkṣiṇaḥ), took her and departed with their inmost hearts fulfilled (gaṅgām ādāya te ’gacchan kṛtārthenāntarātmanā).
 </details>
 </details>
 
@@ -882,6 +992,12 @@ _________________
  girl namely Uma, she performed a rigorous sacrament taking hold of a
  supreme devoutness as her ascesis itself is her wealth. [1-35-20]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And that other daughter of the mountain who remained a maiden (yā cānyā śailaduhitā kanyāsīt), O delight of the Raghus, rich in asceticism, adopted a fierce and noble vow and practised severe penance (ugraṃ suvratam āsthāya tapas tepe tapodhanā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -925,6 +1041,12 @@ _________________
  by all the world, that best one among mountains Himavanta gave such
  a daughter to the unique god Rudra. [1-35-21]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The foremost of mountains bestowed that daughter Umā, endowed with fierce asceticism and venerated by all the worlds (ugreṇa tapasā yuktāṃ dadau śailavaraḥ sutām umāṃ lokanamaskṛtām), upon the peerless Rudra (rudrāyāpratirūpāya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -965,6 +1087,12 @@ _________________
 "Oh, Raghava, the prominent one among rivers namely Ganga and Uma Devi
  as well, these are the two daughters of the king of mountains that are
  highly revered by the world. [1-35-22]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“These are those two daughters of the king of mountains, venerated by the worlds (ete te śailarājasya sute lokanamaskṛte)—Gaṅgā, the foremost of rivers, and the goddess Umā (gaṅgā ca saritāṃ śreṣṭhā umādevī ca), O Rāghava!
 </details>
 </details>
 
@@ -1056,6 +1184,14 @@ The three-way coursing of the river is firstly as Ganga in the lap of
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तैदनॆय सर्ग पूर्णवायितु. ॥35॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** “All this has been recounted to you, O dear prince, foremost of those endowed with noble course (etat te sarvam ākhyātaṃ tāta gatimatāṃ vara)—how she who courses through the three paths first went to the firmament as her path (yathā tripathagāminī khaṃ gatā prathamaṃ gatim).
+
+**24:** “Thus that enchanting daughter of the lord of mountains, the river of the gods (saiṣā suranadī ramyā śailendratanayā tadā), ascended to the world of the gods as a sin-destroying stream of sanctifying waters (suralokaṃ samārūḍhā vipāpā jalavāhinī).”
 </details>
 </details>
 

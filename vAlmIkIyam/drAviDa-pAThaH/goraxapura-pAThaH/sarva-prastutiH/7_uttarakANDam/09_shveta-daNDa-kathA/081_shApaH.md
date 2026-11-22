@@ -39,6 +39,12 @@ _________________
 
 महर्षि कुम्भजरु श्रीरामनिगॆ इष्टु कथॆ हेळि, मुन्दिनदन्नु हेळतॊडगिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having heard of it a moment later (sa muhūrtād upaśrutya), that divine sage of boundless radiance (devarṣir amitaprabhaḥ), surrounded by his disciples and afflicted with hunger (śiṣya-vṛtaḥ kṣudhārtaḥ), returned to his own hermitage (svam āśramaṃ ... sannyavartata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 काकुत्स्थ! अनन्तर राजा दण्डनु मन-इन्द्रियगळन्नु हतोटियल्लि इट्टुकॊण्डु बहळ वर्षगळवरॆगॆ अकण्टक राज्यवन्नु आळिदनु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He beheld Arajā, wretched and covered all over with dust (arajāṃ dīnāṃ rajasā samabhiplutām), like moonlight seized by an eclipse-planet (jyotsnām iva graha-grastām), shining no longer at the break of dawn (pratyūṣe na virājatīm).
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 बळिक यावागलो राजा मनोरम चैत्रमासदल्लि शुक्राचार्यर रमणीय आश्रमक्कॆ बन्दनु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Wrath arose within him, especially as he was tormented by hunger (kṣudhārtasya viśeṣataḥ); as though burning up the three worlds (nirdahann iva lokāṃs trīn), he spoke these words to his disciples:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +140,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लि शुक्राचार्यर सर्वोत्तम, अतुल सुन्दरी, कन्यॆयु वनदल्लि सञ्चरिसुत्तिरुवुदन्नु दण्डनु नोडिदनु.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Behold the calamity of perverse Daṇḍa, who has not conquered himself (viparītasya daṇḍasyāvijitātmanaḥ)—a ruin dreadful in aspect (vipattiṃ ghora-saṅkāśām), like an angry tongue of fire (kruddhām agni-śikhām iva)!
 </details>
 </details>
 
@@ -151,6 +175,12 @@ _________________
 
 आकॆयन्नु नोडुत्तले आ दुष्टबुद्धियुळ्ळ राजनु कामदेवन बाणदिन्द पीडितनागि आकॆय बळिगॆ होगि, हॆदरिद आ कन्यॆय बळि हेळिदनु.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Destruction has overtaken this wicked-minded, evil-souled king along with his followers (kṣayo ’sya durmateḥ prāptaḥ sānugasya durātmanaḥ), who presumes to touch the blazing flame of fire (pradīptāṃ hutāśasya śikhāṃ vai spraṣṭum icchati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +208,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुन्दरी! नीनु ऎल्लिन्द बन्दिरुवॆ? नीनु यार पुत्रियागिरुवॆ? शुभानने! नानु कामदेवनिन्द पीडितनागिद्देनॆ. अदक्कागि निन्न परिचय केळुत्तिद्देनॆ.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Because he has perpetrated so heinous a sin fraught with dread (pāpam īdṛśaṃ ghora-saṃhitam), therefore this foolish wretch shall reap the fruit of his sinful deed (prāpsyati durmedhāḥ phalaṃ pāpasya karmaṇaḥ).
 </details>
 </details>
 
@@ -207,6 +243,12 @@ _________________
 
 मोहदिन्द उन्मत्तनाद आ कामी राजनु हीगॆ हेळतॊडगिदाग भृगुकन्यॆयु विनय पूर्वक हीगॆ उत्तरिसिदळु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Within seven nights (sapta-rātreṇa), that foolish king of sinful conduct (pāpa-karma-samācāro ... durmatiḥ) shall meet his destruction (vadhaṃ prāpsyati), together with his ministers, armies, and mounts (sa-bhṛtya-bala-vāhanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,6 +276,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 राजेन्द्रने! नानु पुण्यकर्मा शुक्राचार्यर हिरिय मगळागिद्देनॆ. नन्न हॆसरु अरजा ऎन्दिद्दु, इदे आश्रमदल्लि वासिसुत्तिद्देनॆ, इदु निनगॆ तिळियबेकागित्तु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘For a hundred yojanas all around (samantād yojana-śatam), Indra the chastiser of Pāka (pāka-śāsanaḥ) shall consume the domain of this wicked-minded king (viṣayaṃ cāsya durmateḥ dhakṣyate) with a mighty rain of dust (pāṃsu-varṣeṇa mahatā).
 </details>
 </details>
 
@@ -263,6 +311,12 @@ _________________
 
 राजने! बलात्कारवागि नन्नन्नु स्पर्शिसबेड. नानु पितन अधीनदल्लिरुव कन्यॆयागिद्देनॆ. राजेन्द्रने! नन्न तन्दॆ निन्न गुरुगळागिद्दारॆ. नीनु आ महात्मर शिष्यनागिरुवॆ.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘All living beings here, immovable and moving alike (sarva-satvāni yānīha sthāvarāṇi carāṇi ca), have utterly met their dissolution on every side (vilayaṃ sarvato ’gaman) through that mighty shower of dust!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -285,6 +339,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जहाँतक दण्डका राज्य है, वहाँतकके समस्त चराचर प्राणी सात राततक केवल धूलिकी वर्षा पाकर अदृश्य हो जायँगे’ ॥ १० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘As far as Daṇḍa’s realm extends (daṇḍasya viṣayo yāvat), so far shall everything that rises high (sarva-samucchrayam) become unrecognizable like a sheet of falling dust (pāṃsu-varṣam ivālakṣyam) for seven nights (sapta-rātram).’
 </details>
 </details>
 
@@ -314,6 +374,12 @@ _________________
 
 नरश्रेष्ठने! अवरु महातपस्वियागिद्दु, ऒन्दु वेळॆ कुपितरादरॆ नीनु दॊड्ड विपत्तिनल्लि बीळुवॆ. नन्नल्लि निनगॆ बेरॆ कार्यविद्दरॆ, (नीनु नन्नन्नु भार्यॆ यागिसलु बयसुवॆयादरॆ) धर्मशास्त्रोक्त सन्मार्गदल्लि नडॆदु नन्न महातेजस्वी तन्दॆय बळि नन्नन्नु बेडिको, इल्लदिद्दरॆ निनगॆ तन्न स्वेच्छाचारद भयानक भारी फल भोगिसबेकादीतु.॥10-11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having spoken thus, with eyes reddened by rage (krodha-tāmrākṣaḥ), he said to the folk dwelling in that hermitage (tad-āśrama-nivāsinaṃ janam): ‘Take up your abode beyond the borders of this kingdom (janapadānteṣu sthīyatām)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +407,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न तन्दॆयु तन्न क्रोधाग्नियिन्द इडी त्रिलोकवन्नु सुट्टुबिडबल्लरु. आद्दरिन्द नरेन्द्रने! नीनु बलात्कार माडबेड. नीनु याचिसिदरॆ तन्दॆयवरु नन्नन्नु खण्डितवागि निन्न कैगॆ ऒप्पिसुवरु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing the words of Uśanas (śrutvā tūśanaso vākyam), that folk resident in the hermitage (so ’ ’śramāvasatho janaḥ) departed from that realm (niṣkrānto viṣayāt tasmāt) and then made their abode outside it (sthānaṃ cakre ’tha bāhyataḥ).
 </details>
 </details>
 
@@ -370,6 +442,12 @@ _________________
 
 अरजा हीगॆ हेळुत्तिरुवन्तॆये कामक्कॆ अधीननाद दण्डनु मदोन्मत्तनागि कैगळन्नु तलॆय मेलॆ जोडिसिकॊण्डु हीगॆ उत्तरिसिदनु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having spoken thus to the company of sages (munijanam), he said these words to Arajā: ‘Dwell right here in this hermitage, O foolish one, steadfast in contemplation (ihaiva vasa durmedhe āśrame susamāhitā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +475,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सुन्दरी! कृपॆदोरु, समय कळॆयबेड. वरानने! निनगागि नन्न प्राणगळे हॊरगॆ हॊरटुहोगुत्तिवॆ.॥14॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Enjoy this lake extending a full yojana, of lovely luster (idaṃ yojana-paryantaṃ saraḥ surucira-prabham), free from feverish grief, O Arajā (araje vijvarā bhuṅkṣva), and let the appointed time be awaited here (kālaś cātra pratīkṣyatām).
 </details>
 </details>
 
@@ -426,6 +510,12 @@ _________________
 
 निन्नन्नु पडॆद मेलॆ नानु सत्तुहोदरू ननगॆ अत्यन्त दारुण दुःख प्राप्तवादरू यावुदे चिन्तॆ इल्ल. भीरु! नानु निन्न भक्तनागिद्देनॆ. अत्यन्त व्याकुलनाद सेवकनाद नन्नन्नु स्वीकरिसु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And whatever creatures come to dwell near you during that night (tvat-samīpe ca ye sattvā vāsam eṣyanti tāṃ niśām), they shall forever remain unharmed by the shower of dust (avadhyāḥ pāṃsu-varṣeṇa te bhaviṣyanti nityadā).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -453,6 +543,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 हीगॆ हेळि आ बलिष्ठ राजनु आ भार्गव कन्यॆयन्नु बलात्कारदिन्द अप्पिकॊण्डनु. अवळु बिडिसिकॊळ्ळलु ऒद्दाडिदळु, आदरू अवनु तन्न इच्छानुसार आकॆयॊन्दिगॆ समागम माडिदनु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing the command of the brahmarṣi (śrutvā niyogaṃ brahmarṣeḥ), Arajā, daughter of Bhārgava, deeply sorrowful (bhṛśa-duḥkhitā), replied ‘So be it’ to her father Bhārgava (tatheti pitaraṃ prāha). Having spoken thus, Bhārgava established his abode elsewhere (vāsam anyatra samakārayat).
 </details>
 </details>
 
@@ -484,6 +580,12 @@ _________________
 
 आ अत्यन्त दारुण, भयङ्कर अनर्थगैदु दण्डनु कूडले तन्न उत्तम नगर मधुमन्तक्कॆ हॊरटुहोदनु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And that kingdom of the king, together with his ministers, army, and mounts (sa-bhṛtya-bala-vāhanam), was reduced to ashes within seven days (saptāhād bhasmasād bhūtam), just as declared by that knower of Brahman (yathoktaṃ brahma-vādinā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -511,6 +613,14 @@ _________________
 
 अरजा कूड भयगॊण्डु अळुत्ता आश्रमद बळियल्ले तन्न देवतुल्य तन्दॆयु बरुव दारि नोडतॊडगिदळु.॥18॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** “This is that realm of Daṇḍa between the Vindhya and Śaivala mountains, O king (tasyāsau daṇḍa-viṣayo vindhya-śaivalayor nṛpa), cursed by that brahmarṣi when adharma was committed in the perfect Kṛta age (vaidharmye sahite kṛte).
+
+**19:** “From that time onward, O Kākutstha, it is called the Daṇḍaka forest (daṇḍakāraṇyam ucyate); and since ascetics took up residence here (tapasvinaḥ sthitā hy atra), hence it became Janasthāna (janasthānam ato ’bhavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +640,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इस स्थानपर तपस्वीलोग आकर बस गये; इसलिये इसका नाम जनस्थान हो गया । रघुनन्दन! आपने जिसके विषयमें मुझसे पूछा था, यह सब मैंने कह सुनाया ॥ २० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All that you asked of me has now been told to you, O Rāghava (etat te sarvam ākhyātaṃ yan māṃ pṛcchasi rāghava); for the hour to worship the evening twilight is passing by, O hero (sandhyām upāsituṃ vīra samayo hy ativartate).
 </details>
 </details>
 
@@ -552,6 +668,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वीर! अब संध्योपासनाका समय बीता जा रहा है । पुरुषसिंह! सब ओरसे ये सब महर्षि स्नान कर चुकनेके बाद भरे हुए घड़े लेकर सूर्यदेवकी उपासना कर रहे हैं ॥ २१ १/२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All these great sages around us, holding full water-pitchers (pūrṇa-kumbhāḥ samantataḥ), having performed their ablutions, O tiger among men (kṛtodakā nara-vyāghra), are reverently worshipping the Sun (ādityaṃ paryupāsate).
 </details>
 </details>
 
@@ -583,6 +705,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऎम्भत्तनॆय सर्ग पूर्णवायितु. ॥80॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having received the Vedic adoration practiced by those foremost knowers of Brahman assembled together (sa tair brāhmaṇam abhyastaṃ sahitair brahma-vittamaiḥ), the sun has gone to rest, O Rāma (ravir astaṃ gato rāma); go now and touch the sacred water (gacchodakam upaspṛśa).”
 </details>
 </details>
 

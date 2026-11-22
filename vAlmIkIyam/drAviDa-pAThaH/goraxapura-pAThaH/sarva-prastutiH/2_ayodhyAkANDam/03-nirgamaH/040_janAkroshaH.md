@@ -60,6 +60,12 @@ palms.
 Then, Rama Seetha and Lakshmana, who felt miserable, bowed down by touching the feet
 of the king and went round him clockwise with joined palms.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma, Sītā, and Lakṣmaṇa with joined palms (kṛtāñjaliḥ), clasping the King’s feet in reverence (upasaṅgṛhya rājānam), sorrowfully (dīnāḥ) performed a circumambulation around him (cakruḥ pradakṣiṇam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -105,6 +111,12 @@ along with seetha; *abhyavaadayat* = bowed; *jananiim* = to his mother Kausalya;
 
 After taking leave of Dasaratha, Rama who knew what is right and stood confounded by
 sorrow, bowed along with Seetha to Kausalya.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having taken leave of him as well (taṃ cāpi samanujñāpya), Rāghava, knower of dharma, overwhelmed with grief (śoka-sammūḍhaḥ), bowed in salutation unto his mother (jananīm abhyavādayat) together with Sītā.
 </details>
 </details>
 
@@ -153,6 +165,12 @@ mother.
 Immediately following his brother, Lakshmana too bowed to Kausalya, then clasped the
 feet of his mother Sumitra.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Immediately after his brother (anvakṣaṃ bhrātuḥ), Lakṣmaṇa saluted Kausalyā, and then again clasped the feet of his own mother Sumitrā (mātuḥ sumitrāyā jagrāha caraṇau punaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -200,6 +218,12 @@ hers.
 Smelling (as a token of affection) the head of Lakshmana mighty armed, who was
 saluting her, his mother Sumitra who wished well of him, spoke weepin, to that son of her ( as
 follows)
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unto that mighty-armed Lakṣmaṇa, son of Sumitrā, as he bowed in salutation (taṃ vandamānam), his weeping mother, desiring his true welfare (hita-kāmā), smelled him upon the crown of his head (mūrdhny upāghrāya) and spoke:
 </details>
 </details>
 
@@ -252,6 +276,12 @@ is going ( to the forest)
 forest(with your eldest half-brother). Do not neglect your half-brother). Do not neglect your
 half-brother Rama, who is going to the forest, my son!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Though deeply attached to your kindred here (sv-anuraktaḥ suhṛj-jane), you have been granted leave for residence in the forest (sṛṣṭas tvaṃ vanavāsāya)! Commit no negligence toward Rāma (rāme pramādaṃ mā kārṣīḥ), O son, as your brother goes forth!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -300,6 +330,12 @@ the control of his elder brother."
 "Oh, sinless one! Whether in adversity or in riches, he alone is refugee to you. It
 should become the code of conduct in the world, that younger brother should be subject to the
 control of his elder brother."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whether he be in adversity or in prosperity (vyasanī vā samṛddho vā), he alone is your refuge and goal (gatir eṣa tava), O sinless one! This is the eternal dharma of the virtuous in the world: that a younger brother should abide under the authority of his elder brother (jyeṣṭha-vaśago bhavet)!
 </details>
 </details>
 
@@ -352,6 +388,12 @@ the body; *mR^idheshhu* = in battles.
 dedicate onself to performance of sacrificial rites and to foresake one's body to fight
 battles."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For this is the fitting and eternal conduct of this royal race (idaṃ hi vṛttam ucitaṃ kulasyāsya sanātanam): munificence (dānam), initiation in Vedic sacrifices (dīkṣā ca yajñeṣu), and the laying down of one’s body in battles (tanu-tyāgo mṛdheṣu hi)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -398,6 +440,12 @@ raaghavam* = and who loved Rama dearly; *saa* = that; *sumitraa* = Sumitra;
 
 Thus speaking to Lakshmana, who was in readiness to leave the forest and who loved
 Rama dearly, Sumitra repeatedly said to him, "fare forth, fare forth!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken thus unto Lakṣmaṇa, who was devoted to his beloved Rāghava (priya-rāghavam) and stood ready to depart (saṃsiddham), Sumitrā said to him again and again, “Go, go (gaccha gaccheti)!”:
 </details>
 </details>
 
@@ -446,6 +494,12 @@ Janaka; *maam* = as myself; *vidhdhhi* = consider; *aTaviim* = forest;
 "Know Rama to be Dasaratha. Look upon Seetha the daughter of Janaka as myself.
 Consider the forest as Ayodhya and depart happily, my son!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Know Rāma to be Daśaratha (rāmaṃ daśarathaṃ viddhi), know the daughter of Janaka to be me (māṃ viddhi janakātmajām), and know the forest wilderness to be Ayodhyā (ayodhyām aṭavīṃ viddhi); go, dear child, in happiness (gaccha tāta yathā-sukham)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -492,6 +546,12 @@ Indra)
 
 Then, Sumantra the humble man, who was aware of humility, joined his palms and spoke
 these words to Rama even as Matali(charioteer of Indra) would to Indra (the ruler of gods).
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon Sumantra, humble and conversant with decorum (vinīto vinayajñaś ca), with joined palms addressed Kākutstha, even as Mātali addressed Vāsava (Indra):
 </details>
 </details>
 
@@ -542,6 +602,12 @@ be well; *te* = with you! praapayishhyaami = I shall take; *tvaam* = you;
 "Mount the chariot, oh the highly illustrious prince! May all be well with you! I
 shall take you speedily, wherever you direct me to go."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Mount the chariot, hail to you (ratham āroha bhadraṃ te), O prince of great renown! I shall quickly convey you to whatever place you bid me, O Rāma (yatra māṃ rāma vakṣyase)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -587,6 +653,12 @@ the queen; *taani* = those; *upakramitavyaani* = are considered to have commence
 
 "you have to reside in the forest for fourteen years. Those years, as directed by
 the queen, are to be considered having commenced."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For fourteen years must be dwelt by you in the forest (vastavyāni vane tvayā), and those years—commanded as you have been by the Queen (devyā pracoditaḥ)—must be entered upon this very day (tāny upakramitavyāni)!”
 </details>
 </details>
 
@@ -638,6 +710,12 @@ sun.
 Having adorned herself, Seetha with her comely buttocks, mounted with a delighted
 mind, that chariot which was shining like the sun.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having decked herself with ornaments (kṛtvālaṅkāram ātmanaḥ), Sītā of shapely hips (varārohā) mounted that sun-bright chariot (taṃ rathaṃ sūrya-saṅkāśam) with a joyful heart (hṛṣṭena cetasā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -683,6 +761,12 @@ mounted; *tam* = that chariot; *jvalasamkaasham* = which was resplendent like fi
 
 Thereafter, Rama and Lakshmana the brothers quickly mounted that chariot, which was
 replendent like fire and decked with gold.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For reckoning up the duration of the forest exile (vanavāsaṃ hi saṅkhyāya), her father-in-law (śvaśuraḥ) had bestowed garments and ornaments upon Sītā as she followed her husband (bhartāram anugacchantyai).
 </details>
 </details>
 
@@ -734,6 +818,12 @@ the forest.
 For Seetha who was accompanying with her husband, Dasaratha gave away garments and
 jewellery, taking into consideration the period for which she had to stay in the forest.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And likewise, having stowed in the body of the chariot (rathopasthe pravinyasya) the various weapons and coats of mail for the two brothers (āyudha-jātāni bhrātṛbhyāṃ kavacāni ca), together with the leather-covered basket and the strong spade (sacarma kaṭhinaṃ ca yat),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -758,6 +848,12 @@ jewellery, taking into consideration the period for which she had to stay in the
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अनन्तर राम-लक्ष्मणरु आ अग्नियन्तॆ हॊळॆयुव सुवर्णभूषित रथदल्लि आरूढरादरु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the two brothers Rāma and Lakṣmaṇa swiftly mounted (tūrṇaṃ tam āruruhatuḥ) that chariot, which blazed like fire (jvalana-saṅkāśam) and was adorned with gold (cāmīkara-vibhūṣitam).
 </details>
 </details>
 
@@ -805,6 +901,12 @@ Even so for the two brothers, keeping the sets of weapon, an armour of hard make
 with leather-cover in the midst of the chariot, Sumantra saw the three of whom Seetha constituted
 the third mounted and quickly drove the horses which were highly admired, with their swiftness
 resembling the velocity of wind.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the two brothers mounted with Sītā as the third (sītā-tṛtīyān ārūḍhān), Sumantra urged on the chariot’sapproved steeds (sammatān aśvān), which equalled the speed of the wind in swiftness (vāyu-vega-samāñ jave).
 </details>
 </details>
 
@@ -856,6 +958,12 @@ people.
 Rama after departing to the great forest for a long term, unconsciousness prevailed
 in the city. There was faintness in the strength of people.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāghava had set out for the great forest for a long sojourn of years (cira-rātrāya), a swoon fell upon the city (babhūva nagare mūrcchā), and a swoon overtook the army and the countryfolk as well (bala-mūrcchā janasya ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -905,6 +1013,12 @@ tinkling of ornaments of horses
 The city( of Ayodhya) is filled with flurry, with its elephants intoxicated in rut
 and highly excited and resonant with tinkling of ornaments of horses.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Agitated and bewildered in every quarter (samākula-sambhrāntam), with its rutting elephants enraged (matta-saṅkupita-dvipam) and resounding with the jingling of horse-trappings (haya-siñjita-nirghoṣam), that city was filled with a mighty uproar (mahā-svanam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -952,6 +1066,12 @@ sun).
 That city, including the youngsters and the old, stricken with extreme agony, ran
 towards Rama alone, in the same way as the one afflicted with heat of the sun rushes towards
 water.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that entire city, including children and aged folk (sa-bāla-vṛddhā sā purī), stricken with extreme anguish (parama-pīḍitā), rushed toward Rāma alone (rāmam evābhidudrāva), even as a man tormented by summer heat rushes toward water (gharmārtaḥ salilaṃ yathā).
 </details>
 </details>
 
@@ -1004,6 +1124,12 @@ Having down towards sides and back of the chariot with their faces turned toward
 Rama and with their faces filled with tears, all those people said with loud voices to Sumantra
 thus:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clinging to the chariot at its sides and behind (pārśvataḥ pṛṣṭhataś cāpi lambamānāḥ), with their faces turned toward him (tad-unmukhāḥ) and brimming with tears (bāṣpa-pūrṇa-mukhāḥ), all the citizens cried aloud with exceeding clamour and spoke unto that charioteer:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1054,6 +1180,12 @@ _________________
 "Hold in the reins of the horses and go slowly and slowly, Oh charioteer! We would
 behold the face of Rama, which would be henceforth difficult to behold for us"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Draw in the reins of the steeds (saṃyaccha vājināṃ raśmīn), O charioteer; go slowly, slowly (sūta yāhi śanaiḥ śanaiḥ)! Let us behold the face of Rāma (mukhaṃ drakṣyāma rāmasya), which will soon be hard for us to behold (durdarśaṃ no bhaviṣyati)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1100,6 +1232,12 @@ forest.
 
 "The heart of Rama's mother(Kausalya) is surely and undoubtedly made of iron, since
 it does not get broken when Rama resembling an offspring of gods is going to the forest"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely the heart of Rāma’s mother is made of iron (āyasaṃ hṛdayaṃ nūnaṃ rāma-mātuḥ), beyond all doubt, in that it does not split asunder (na bhidyate) when her son, peer to a god-borncelestial youth (deva-garbha-pratime), goes forth to the forest!
 </details>
 </details>
 
@@ -1149,6 +1287,12 @@ prabhaa* = the efflugence of the sun.
 along with him like a shadow, delighted in virtue as she was and does not leave her husband in the
 same way as Mount Meru does not leave the efflugence of sun"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Vaidehī has truly fulfilled her life’s purpose (kṛta-kṛtyā hi vaidehī): following her husband like a shadow (chāyevānugatā patim) and delighting in dharma, she forsakes him not, even as the sunlight never forsakes Mount Meru (merum arka-प्रभा yathā)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1194,6 +1338,12 @@ to the god; *aho* = Ah; you are; *siddharthaH* = the accomplisher of purpose!
 
 "Oh, Lakshmana! You are attending ever to your brother who speaks affectionately and
 is equal to the god. Ah, you are the accomplisher of purpose!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Ah, O Lakṣmaṇa, you have truly attained the supreme goal of life (siddhārthaḥ), in that you will wait upon your god-like brother (bhrātaraṃ deva-saṅkāśaṃ paricariṣyasi), who ever speaks kindly (satataṃ priya-vādinam)!
 </details>
 </details>
 
@@ -1241,6 +1391,12 @@ fulfilment; *te* = for you; *eshhaH* = it; *mahaan* = is tremendous;
 
 "It is an immense fulfilment for you, it is a tremendous good fortune for you, nay,
 it is even a means to heaven that you are following this Rama"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Mighty indeed is this wisdom of yours (mahaty eṣā hi te buddhiḥ), great is this prosperous exaltation (eṣa cābhyudayo mahān), and this is the very path to heaven (eṣa svargasya mārgaś ca), in that you follow after him (yad enam anugacchasi)!”
 </details>
 </details>
 
@@ -1290,6 +1446,12 @@ Ikshvaakus.
 
 Saying so, those people were not able to restrain their tears that come and followed
 that Rama, their beloved delight of the Ikshvakus.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, those men could not restrain the tears that welled up in them (soḍhuṃ na śekur bāṣpam āgatam), and they followed after that beloved delighter of the Ikṣvākus (priyam ikṣvāku-nandanam).
 </details>
 </details>
 
@@ -1341,6 +1503,12 @@ with the distressed min; *bruvan* = saying; *dakshhyaaniti* = that he would beho
 Then, the king with the distressed mind, saying that he would behold his beloved
 saw, came out of his palace surrounded by women who were too dejected.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the King, surrounded by his distressed wives (vṛtaḥ strībhir dīnābhiḥ) and himself distressed in mind (dīna-cetanaḥ), came forth from his palace (nirjagāma gṛhāt), crying, “I shall behold my beloved son (priyaṃ putraṃ drakṣyāmi)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1389,6 +1557,12 @@ _________________
 
 In front of him was heard a huge noise of crying women, echoing like trumpeting of
 female elephants when a lordly elephant has been pinioned.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And before him was heard a mighty wailing of weeping women (strīṇāṃ rudatīnāṃ mahā-svanaḥ), like the trumpeting cry of female elephants when the great leader of the herd is bound (yathā nādaḥ kareṇūnāṃ baddhe mahati kuñjare).
 </details>
 </details>
 
@@ -1440,6 +1614,12 @@ shrunk; *puurNa shashiiyathaa* = like a full moon; *upaplutaH* = overshadowed;
 At that time, the father of Rama as is well known as a glorious king Dasaratha(a
 scion of Kakutstha) looked shrunk, like the full moon oversadowed by an eclipse.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the illustrious King Kākutstha, Rāma’s father, sank down in dejection (śrīmān sannas tadā babhau), looking like the full moon at the appointed hour overwhelmed by the planet Rāhu (paripūrṇaḥ śaśī kāle graheṇopapluto yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1479,6 +1659,12 @@ thus; *vaahyataam* = "Let it be driven; *tvaritam* = fast"
 
 That glorious son of Dasaratha(Rama) of inconceivable courage, directed the
 charioteer in the words "Let the chariot be driven fast."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And that illustrious Rāma, the son of Daśaratha, of unfathomable spirit (acintyātmā), urged on the charioteer (sūtaṃ saṃcodayām āsa), saying, “Let the horses be driven swiftly (tvaritaṃ vāhyatām iti)!”
 </details>
 </details>
 
@@ -1530,6 +1716,12 @@ not; *kartum* = do; *ubhayam* = both.
 Rama commanded that charioteer with the words "Move on!" The people said to him
 "stop!" Urged on the passage, the charioteer could not do both.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma said to that charioteer, “Drive on (yāhīti)!”, and the people cried out, “Halt (tiṣṭheti)!” Urged on along the highway in both ways, the charioteer was unable to do both (ubhayaṃ nāśakat sūtaḥ kartum adhvani coditaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1576,6 +1768,12 @@ mighty armed; *prashashaama* = was suppressed; *patitaiH* = by the falling;
 The dust raised on the road due to moving out of mighty armed Rama, was suppressed
 by the falling tears of the citizens.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the mighty-armed Rāma went forth, the dust of the earth raised on high was sprinkled and laid to rest by the falling tears of the citizens (paurajanāśrubhiḥ patitair abhyavahitaṃ praṇanāśa mahī-rajaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1616,6 +1814,12 @@ that time of departure; *raaghavasya* = of Rama; *aasiit* = became;
 With full of wailing tears, the citizens of after making loud cries became
 unconscious with deep agony, at the time of departure of Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wasted with weeping and tears (ruditāśru-paridyūnam), filled with cries of “Alas! Alas!” and bereft of sense (hāhā-kṛtam acetanam), the city was supremely afflicted at Rāghava’s departure (prayāṇe rāghavasyāsīt puraṃ parama-pīḍitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1655,6 +1859,12 @@ samkshhobhachalitaiH* = by the commation of fist.
 
 Tears born of anguish flowed from the eyes of women like(drops of) water falling
 from lotuses by the commotion of fish.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tears born of anguish streamed from the eyes of the women (susrāva nayanaiḥ strīṇām asram āyāsa-sambhavam), like water-drops shaken from lotuses agitated by the darting of fish (mīna-saṃkṣobha-calitaiḥ salilaṃ paṅkajair iva).
 </details>
 </details>
 
@@ -1704,6 +1914,12 @@ from lotuses by the commotion of fish.
 Seeing the city with singleness of mind, the glorious monarch Dasaratha fell down
 with agony, like a tree slain at its root.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And beholding the city absorbed in one single mind of grief (eka-citta-gataṃ puram), the illustrious King fell down straightway in sorrow, like a tree whose roots have been severed (nipapātaiva duḥkhena kṛtta-mūla iva drumaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1752,6 +1968,12 @@ and much distress; *halahalashabdaH* = the out cry; *naraaNam* = of the people;
 Thereafter, seeing the king becoming feeble and much distressed, the outery of the
 people rose from the rear of Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then a great tumult of “Halahalā!” arose behind Rāma among the men (halahalā-śabdo jajñe rāmasya pṛṣṭhataḥ narāṇām), as they beheld the King sinking down, sorely afflicted with grief (prekṣya rājānaṃ sīdantaṃ bhṛśa-duḥkhitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1799,6 +2021,12 @@ Rama's mother!" paryadevayan antHpuram samR^iddhamcha = and made the entire gyna
 Some poeple crying "Oh, Rama!" and some other scrying "Oh, Rama's mother!", made the
 entire women in the gynaecium to weap.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some people lamented, crying, “Alas, O Rāma!” and others, “O Mother of Rāma!”, as they bewept the wailing King accompanied by the throng of his inner palace (antaḥpura-samṛddhaṃ ca krośantaṃ paryadevayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1844,6 +2072,12 @@ mother; *anugatau* = following(him) pathi = on the road.
 
 Looking back, Rama saw the king sorrowful and perplexed in mind, as well as his
 mother following (him) on the road.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Looking back (anvīkṣamāṇo rāmas tu), Rāma beheld both the dejected, bewildered King and his mother following after him on the road (rājānaṃ mātaraṃ caiva dadarśānugatau pathi).
 </details>
 </details>
 
@@ -1891,6 +2125,12 @@ mother following (him) on the road.
 Rama, bound by the chord of righteousness, could not gaze openly at his parents, as
 a foal caught in asnare would not properly look at its dam.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a colt bound with a tether that cannot look back at its dam (baddha iva pāśena kiśoro mātaraṃ yathā), he, bound fast by the noose of dharma (dharma-pāśena saṃyuktaḥ), could not gaze upon her openly (prakāśaṃ nābhyudaikṣata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1937,6 +2177,12 @@ a foal caught in asnare would not properly look at its dam.
 
 Seeing them coming by foot, though worthy of a chariot, habituated to comfort and
 unworthy of suffering, Rama commanded the charioteer with words: "Drive fast!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And beholding those two going on foot (padātinau)—who were worthy of carriages, undeserving of sorrow, and accustomed to happiness (yānārhāv aduḥkhārhau sukhocitau)—he urged on the charioteer, saying, “Drive swiftly (śīghraṃ yāhīti)!”
 </details>
 </details>
 
@@ -1988,6 +2234,12 @@ mother.
 Rama the tiger among men, feeling pained, as an elephant being pricked by a good,
 indeed was not able to bear that plight of his father and his mother.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For that tiger among men was unable to endure that grief-begetting sight of his father and mother (duḥkhajaṃ darśanaṃ pituḥ mātuś ca sahituṃ śaktaḥ), like an elephant prodded onward by goads (tottrair nunna iva dvipaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2036,6 +2288,12 @@ whose calf stands tied; *vatsalaa* = fond of her calf; *aayaantii* = coming;
 
 Rama's mother (Kausalya) ran towards her son, as a cow fond of her calf and whose
 calf is tied(in a stall), runs home for her calf.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a cow with a young calf whose calf is tied up (savatsā baddha-vatsā yathā dhenuḥ), rushing back toward the stall for the sake of her calf (pratyagāram ivāyāntī vatsa-kāraṇāt), Rāma’s mother ran after him (rāma-mātābhyadhāvata).
 </details>
 </details>
 
@@ -2094,6 +2352,14 @@ Rama again and again saw that Kausalya, his mother who was crying thus, running
 after that chariot as though dancing, shouting"Oh, Rama, Rama!" "Oh, Seetha!" and "Oh, Lakshmana!"
 trickling tears descending from her eyes for the sake of Rama Lakshmana and Seetha.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**44:** Running after that chariot and weeping thus, Kausalyā cried out, “O Rāma, Rāma! Alas, O Sītā, O Lakṣmaṇa!” (krośantīṃ rāma rāmeti hā sīte lakṣmaṇeti ca)—
+
+**45:** —shedding tears from her eyes for the sake of Rāma, Lakṣmaṇa, and Sītā; and he looked back again and again at that mother of his, who seemed to be reeling as if in a dance (asakṛt praikṣata sa tāṃ nṛtyantīm iva mātaram).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2139,6 +2405,12 @@ iva* = as in between; *chakrayoH* = two whirl-pools.
 
 Dasaratha exclaimed saying "Stop!" while Rama called out "Go on, proceed!" (In that
 way) Sumantra's mind became confused, as in between two (opposing) whirl pools.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Halt!” cried the King aloud (tiṣṭheti rājā cukrośa); “Drive on, drive on!” said Rāghava (yāhi yāhīti rāghavaḥ); and Sumantra’s heart became as though caught between two wheels (sumantrasya babhūvātmā cakrayor iva cāntarā).
 </details>
 </details>
 
@@ -2190,6 +2462,12 @@ is a very wicked thing.
 Rama said to him: "You can say to the king that you did not hear (his call), even
 when scolded (later). seeing their grief for a long time is quite unbearbale."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even if you are rebuked by the King, you shall say, ‘I did not hear’ (nāśrauṣam iti rājānam upālabdho 'pi vakṣyasi); for prolonging sorrow is the worst thing of all (ciraṃ duḥkhasya pāpiṣṭham)!”—thus Rāma spoke to him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2236,6 +2514,12 @@ when they are proceeding.
 
 The charioteer, doing as per Rama's words, took leave of those citizens and drive
 the horses more speedily even while they are going.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Doing Rāma’s bidding and bidding farewell to those people (anujñāpya ca taṃ janam), the charioteer urged the horses—even as they were already coursing along—to still greater speed (vrajato 'pi hayāñ śīghraṃ codayām āsa sārathiḥ).
 </details>
 </details>
 
@@ -2284,6 +2568,12 @@ tears.
 The king's people returned after (mentally) going round Rama. Their minds did not
 return. Their impulse of tears also did not get reduced.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having circumambulated Rāma from left to right (rāmaṃ kṛtvā pradakṣiṇam), the King’s retinue turned back (nyavartata jano rājño); yet the multitude of citizens turned back neither in their swift-coursing minds nor in body (manasāpy āśu-vegena na nyavartata mānuṣam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2330,6 +2620,12 @@ should not follow; *duuram* = to a long distance.
 
 The ministers spoke to king Dasaratha as follows:" We should not follow to a long
 distance him whom we wish to see come back."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“One whose return one wishes to see, him one should not follow far behind (yam icchet punar āyātaṃ nainaṃ dūram anuvrajet)!”—such were the words the ministers spoke to the great King Daśaratha.
 </details>
 </details>
 
@@ -2396,5 +2692,11 @@ perspiring and wearing a dejected look.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि नलवत्तनॆय सर्ग पूर्णवायितु ॥40॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing their words, the wretched King—endowed with every virtue, his limbs bathed in sweat and his countenance deeply dejected (prasvinna-gātraḥ praviṣaṇṇa-rūpaḥ)—stood still together with his wife, gazing after that son of his (sabhāryo vyavasthitas taṃ sutam īkṣamāṇaḥ).
 </details>
 </details>

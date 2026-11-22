@@ -36,6 +36,12 @@ title = "१०९ सानुचरं निर्गमनम्"
 
 रात्रॆयु कळॆदु बॆळगादाग विशाल वक्षःस्थळवुळ्ळ महायशस्वी, कमलनयन श्रीरामचन्द्रनु पुरोहितरल्लि हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the night had brightened into dawn (prabhātāyāṃ tu śarvaryām), the broad-chested, greatly renowned Rāma with lotus-petal eyes (rāmaḥ kamala-patrākṣaḥ) then spoke to his royal chaplain (purodhasam athābravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +66,12 @@ title = "१०९ सानुचरं निर्गमनम्"
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नन्न अग्निहोत्रद प्रज्वलित अग्निगळु ब्राह्मणरॊन्दिगॆ मुन्दॆ-मुन्दॆ होगलि, महाप्रयाणद दारियल्लि ई यात्रॆय समय नन्न वाजपेय यज्ञद सुन्दर छत्रवू इरबेकु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let the blazing Agnihotra fire go before us together with the twice-born (agnihotraṃ vrajatv agre dīpyamānaṃ saha dvijaiḥ), and the Vājapeya parasol shining along the great highway (vājapeyātapatraṃ ca śobhamānaṃ mahāpathe)!”
 </details>
 </details>
 
@@ -89,6 +101,12 @@ _________________
 
 अवनु हीगॆ हेळिदाग तेजस्वी वसिष्ठमुनिगळु महाप्रस्थानक्कागि उचितवाद समस्त धार्मिक क्रियॆगळन्नु विधिवत्तागि अनुष्ठान माडिदरु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the resplendent Vasiṣṭha performed completely, without omitting anything (sarvaṃ niravaśeṣataḥ), the lawful rite of the Great Departure according to scripture (cakāra vidhivad dharmaṃ mahāprāsthānikaṃ vidhim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +132,12 @@ _________________
 
 मत्तॆ भगवान् श्रीरामनु सूक्ष्मवस्त्र धरिसि, ऎरडू कैगळल्लि दर्भॆगळन्नॆत्तिकॊण्डु परब्रह्मन प्रतिपादक वेदमन्त्रगळन्नु उच्चरिसुत्ता सरयू तीरक्कॆ बन्दनु.॥4॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, clad in fine garments (sūkṣmāmbara-dharaḥ), reciting the supreme Brahman (brahmam āvartayan param), and holding blades of kuśa grass interlaced in both hands (kuśān gṛhītvā pāṇibhyāṃ prasajya), Rāma then set forth (prayayāv atha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +162,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आग अवनु वेदपाठवल्लदॆ यारल्लियू, एनन्नु मातनाडुत्तिरलिल्ल. नडॆयुवुदु बिट्टु अवनल्लि बेरॆ याव चेष्टॆयू कण्डु बरुत्तिरलिल्ल. अवनु लौकिक सुखद परित्याग माडि देदीप्यमान सूर्यनन्तॆ प्रकाशिसुत्ता अरमनॆयिन्द हॊरटु, गन्तव्य दारिदल्लि मुन्दरिदनु.॥5॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Uttering not a word anywhere (avyāharan kvacit kiñcit), motionless in his senses and indifferent to comfort on the path (niśceṣṭo niḥsukhaḥ pathi), he issued forth from that palace blazing like the sun (dīpyamāna ivāṃśumān).
 </details>
 </details>
 
@@ -167,6 +197,12 @@ _________________
 
 भगवान् श्रीरामन बलपार्श्वदल्लि कमल कैयल्लि हिडिदु श्रीदेवि उपस्थितळादळु. ऎड भागदल्लि भूदेवियु विराजिसुत्तिद्दळु. मुन्दुगडॆ अवन संहार शक्ति नडॆयुत्तित्तु.॥6॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma’s right side waited Śrī, holding her lotus (dakṣiṇe pārśve sapadmā śrīr apāśritā); at his left walked the great goddess Hrī (savye tu hrīr mahādevī), and before him went Vyavasāya [Cosmic Resolve] (vyavasāyas tathāgrataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -191,6 +227,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नाना प्रकारद बाणगळु, विशाल उत्तम धनुस्सु, इतर शस्त्रास्त्रगळु ऎल्लवू पुरुषरूपवन्नु धरिसिकॊण्डु भगवन्तन जॊतॆगॆ सागुत्तिद्दरु.॥7॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arrows of manifold kinds (śarā nānāvidhāś cāpi), his tall and peerless bow (dhanur āyatam uttamam), and likewise all his weapons (tathā ’ ’yudhāni te sarve) walked behind him in human form (yayuḥ puruṣa-vigrahāḥ).
 </details>
 </details>
 
@@ -220,6 +262,12 @@ _________________
 
 नाल्कू वेदगळु ब्राह्मणर रूपधारियागि नडॆयुत्तिद्दवु. ऎल्लरन्नु रक्षिसुव गायत्रीदेवी, ॐकार, वषट्काल भक्तिभावदिन्द श्रीरामनन्नु अनुसरिसुत्तिद्दवु.॥8॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Vedas in the guise of brahmins (vedā brāhmaṇa-rūpeṇa), all-protecting Gāyatrī (gāyatrī sarva-rakṣiṇī), Oṅkāra, and Vaṣaṭkāra—all followed Rāma in steadfast devotion (sarve rāmam anuvratāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -244,6 +292,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महात्मा ऋषिगळु हागू समस्त ब्राह्मणरू ब्रह्मलोकद तॆरॆद द्वारदन्तॆ परमात्मा श्रीरामन हिन्दॆ-हिन्दॆ होगुत्तिद्दरु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the great-souled sages and all the gods upon earth [brahmins] (ṛṣayaś ca mahātmānaḥ sarva eva mahīsurāḥ) followed that great-souled Lord, the unbarred gateway to heaven (svarga-dvāram apāvṛtam).
 </details>
 </details>
 
@@ -273,6 +327,12 @@ _________________
 
 अन्तःपुरद स्त्रीयरू, बालकरू, वृद्धरू, दासियरू, अन्तःपुरद रक्षकरु, सेवकरॊन्दिगॆ हॊरटु सरयू तीरक्कॆ होगुत्तिरुव श्रीरामनन्नु हिम्बालिसिदरु.॥10॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Following him as he went forth walked the women of the inner apartments (antaḥpura-carāḥ striyaḥ), together with elders, children, and handmaidens (sa-vṛddha-bāla-dāsīkāḥ), and accompanied by chamberlains and attendants (sa-varṣavara-kiṅkarāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -297,6 +357,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 भरत - शत्रुघ्नरु तम्म पत्नियरॊन्दिगॆ तम्म आश्रय स्वरूप, अग्निहोत्रदॊन्दिगॆ होगुत्तिरुव भगवान् श्रीरामन हिन्दॆ-हिन्दॆ नडॆदरु.॥11॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Bharata with his inner household, accompanied by Śatrughna (sāntaḥpuraś ca bharataḥ śatrughna-sahito yayau), betaking himself to Rāma as his supreme refuge (rāmaṃ gatim upāgamya), followed devotedly along with his sacred Agnihotra fires (sāgnihotram anuvrataḥ).
 </details>
 </details>
 
@@ -323,6 +389,12 @@ _________________
 
 आ ऎल्ल महात्माश्रेष्ठ पुरुषरु हागू ब्राह्मणरु अग्निहोत्रद अग्नि हागू पत्नी-पुत्ररॊन्दिगॆ ई महायात्रॆयल्लि सम्मिलितरागि परम बुद्धिवन्त श्रीरामनन्नु अनुगमन माडुत्तिद्दरु.॥12॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And all those great-souled twice-born who had assembled with their sacred fires (te ca sarve mahātmānaḥ sāgnihotrāḥ samāgatāḥ), together with their sons and wives (sa-putra-dārāḥ), followed the great-minded Kākutstha (kākutstham anujagmur mahāmatim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -347,6 +419,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 समस्त मन्त्रिगळु, भृत्यवर्गवू तम्म पत्नि, पुत्र, पशु, बन्धु-बान्धवरॊन्दिगॆ, अनुचरर सहित हर्षदिन्द श्रीरामन हिन्दॆ-हिन्दॆ होगुत्तिद्दरु.॥13॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ministers and throngs of retainers (mantriṇo bhṛtya-vargāś ca), together with their sons, cattle, and kinsmen (sa-putra-paśu-bāndhavāḥ), all accompanied by their own followers (sarve sahānugāḥ), followed Rāma as though filled with supreme delight (rāmam anvagacchan prahṛṣṭavat).
 </details>
 </details>
 
@@ -377,6 +455,14 @@ _________________
 
 हृष्ट-पुष्ट जनरिन्द तुम्बिद समस्त प्रजा जनरु श्रीरघुनाथन गुणगळल्लि मुग्धरागिद्दरु, अदक्कागि अवरु स्त्री-पुरुषरु, पशु-पक्षि हागू बन्धु बान्धवरॊन्दिगॆ आ महायात्रॆयल्लि श्रीरामन अनुगामियादरु. अवरॆल्लर मनस्सिनल्लि प्रसन्नतॆ इद्दु, ऎल्लरू पापरहितरागिद्दरु.॥14-15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Then all the citizens of the realm, surrounded by joyous and thriving folk (hṛṣṭa-puṣṭa-janāvṛtāḥ), captivated by his virtues (guṇa-rañjitāḥ), followed that departing Rāghava (gacchantam anvagachaṃs taṃ rāghavam).
+
+**15:** Then all of them—men and women together (sa-strī-pumāṃsas te), accompanied by their birds, cattle, and mounts (sa-pakṣi-paśu-vāhanāḥ)—followed Rāghava, rejoicing and cleansed of every blemish (hṛṣṭā vigata-kalmaṣāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -401,6 +487,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 समस्त हृष्ट-पुष्ट वानररू स्नानमाडि प्रसन्नतॆयिन्द कल-कल ध्वनिमाडुत्ता भगवान् श्रीरामन जॊतॆगॆ होगुत्तिद्दरु. आ ऎल्ल समुदायवु श्रीरामन भक्तवागित्तु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathed and overflowing with gladness, joyous and robust were all the monkeys (snātāḥ pramuditāḥ sarve hṛṣṭāḥ puṣṭāś ca vānarāḥ); the entire host devoted to Rāma resounded strongly with cries of exultant “kila-kila!” (dṛḍhaṃ kilakilā-śabdaiḥ sarvaṃ rāmam anuvratam).
 </details>
 </details>
 
@@ -430,6 +522,12 @@ _________________
 
 अदरल्लि दीनरू, दुःखिगळू, लज्जितरू यारू इरलिल्ल. अल्लि सेरिद ऎल्ल जनर मनस्सिनल्लि महाहर्ष तुम्बित्तु. हीगॆ आ जनसमुदायवु अत्यन्त आश्चर्यकरवागि कण्डु बरुत्तित्तु.॥17॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not a single soul there was downcast, abashed, or sorrowful (na tatra kaścid dīno vā vrīḍito vā ’pi duḥkhitaḥ); the whole assembled multitude stood exultant and united, a marvel beyond all wonder (hṛṣṭaṃ samuditaṃ sarvaṃ babhūva paramādbhutam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -454,6 +552,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 देशद जनरल्लि श्रीरामन यात्रॆयन्नु नोडलु बन्दिद्दवरू कूड ई महासमारोह नोडुत्तले भगवन्तन जॊतॆगॆ परन्धामक्कॆ होगलु सिद्धरादरु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even any countryman who had come merely desiring to behold Rāma departing (draṣṭu-kāmo ’tha niryāntaṃ rāmaṃ jānapado janaḥ), the very moment he set eyes upon him (dṛṣṭvaiva), joyfully fell in behind him for heaven (svargāyānugato mudā).
 </details>
 </details>
 
@@ -480,6 +584,12 @@ _________________
 
 करडिगळु, वानररु, राक्षसरु, पुरवासिगळु बहळ भक्तियॊन्दिगॆ श्रीराम चन्द्रन हिन्दॆ-हिन्दॆ एकाग्रचित्तरागि नडॆदुकॊण्डु बरुत्तिद्दरु.॥19॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bears, monkeys, and rākṣasas, together with the citizens of the capital (ṛkṣa-vānara-rakṣāṃsi janāś ca puravāsinaḥ), walked close behind in supreme devotion, wholly absorbed in spirit (parayā bhaktyā pṛṣṭhataḥ susamāhitāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -504,6 +614,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अयोध्यॆयल्लिद अदृश्य प्राणिगळू कूड साकेत धामक्कॆ तॆरळलु श्रीरघुनाथनन्नु हिम्बालिसिदवु.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whatever beings dwelt in the city—even those dwelling in invisible form (yāni bhūtāni nagare ’py antardhāna-gatāni ca)—they too followed Rāghava as he set forth for heaven (rāghavaṃ tāny anuyayuḥ svargāya samupasthitam).
 </details>
 </details>
 
@@ -532,6 +648,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरघुनाथनु होगुत्तिरुवुदन्नु नोडिद चराचर प्राणिगळू आ यात्रॆयल्लि अवर हिन्दॆये हॊरटवु.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whatever beings—both immobile and mobile (sthāvarāṇi carāṇi ca)—beheld Kākutstha, all of those likewise followed along on Rāma’s final journey (sarvāṇi rāma-gamane hy anujagmur hi tāny api).
 </details>
 </details>
 
@@ -566,6 +688,12 @@ _________________
 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये उत्तरकाण्डे नवाधिकशततमः सर्गः ॥ १०९ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके उत्तरकाण्डमें एक सौ नवाँ सर्ग पूरा हुआ ॥ १०९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not even the tiniest breathing creature was to be seen left behind in Ayodhyā (nocchvasat tad ayodhyāyāṃ susūkṣmam api dṛśyate): even creatures born in animal wombs all followed Rāma in devotion (tiryagyoni-gatāś cāpi sarve rāmam anuvratāḥ).
 </details>
 </details>
 

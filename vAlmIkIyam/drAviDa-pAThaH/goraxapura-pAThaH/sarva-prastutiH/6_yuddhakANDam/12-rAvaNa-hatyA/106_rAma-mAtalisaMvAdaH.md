@@ -94,6 +94,16 @@ horses of excellent quality adorned with golden necklaces, filled with war-imple
 rows of flags and banners, which was devouring the sky as it were, making the earth resound, which
 was the destroyer of the army of adversaries and caused delight to its own.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Impelled by the power of Destiny (kṛtānta-bala-coditaḥ) and fiercely enraged out of delusion (mohāt), Rāvaṇa, his eyes bloodshot with wrath (krodha-saṃrakta-nayanaḥ), spoke to his charioteer:
+
+**2:** “As though I were bereft of valor (hīna-vīryam iva), powerless, devoid of manly prowess (pauruṣeṇa vivarjitam), cowardly, petty, spiritless (asattvam), and stripped of splendor,
+
+**3:** as though forsaken by my mystic illusions (māyābhiḥ) and cast out by my celestial missiles (astraiḥ)—holding me in contempt (mām avajñāya), O fool (durbuddhe), you act according to your own whim!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +129,12 @@ was the destroyer of the army of adversaries and caused delight to its own.
 
 विशाल ध्वजदिन्द अलङ्कृतवाद गरगर शब्ददॊन्दिगॆ बरुत्तिरुव रावणन रथवन्नु नरराज श्रीरामचन्द्रनु नोडिदनु.॥4½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Why, disregarding me and without heeding my will (mac-chandam anavekṣya), have you driven this chariot of mine away in the very presence of my foe (śatru-samakṣam)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -143,6 +159,12 @@ was the destroyer of the army of adversaries and caused delight to its own.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अदक्कॆ कप्पाद कुदुरॆ हूडिद्दरु, अदर कान्ति भयङ्करवागित्तु. अदु आकाशदल्लि प्रकाशिसुव सूर्यतुल्य तेजस्वी विमानदन्तॆ कण्डुबरुत्तित्तु.॥5½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For by you today, O ignoble wretch (anārya), my renown, valor, martial luster, and credit (pratyayaḥ), earned over a long time (cira-kālam upārjitam), have been destroyed!
 </details>
 </details>
 
@@ -198,6 +220,12 @@ Rama saw that Ravana's chariot, which was coming speedily with a noise, bearing 
 large flag-staff, yoked with black horses, endowed with a terrific luster, blazing like an aerial
 car in the sky, with a luster of the sun, filled with lightning-like flags and with a beautiful
 appearance of a rain-bow.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Before the very eyes (paśyataḥ) of a foe of celebrated valor who ought to be gratified by feats of prowess (rañjanīyasya vikramaiḥ), I, though eager for battle (yuddha-lubdhaḥ), have been turned into a coward (kāpuruṣaḥ) by you!
 </details>
 </details>
 
@@ -258,6 +286,14 @@ Seeing that chariot, releasing streams of arrows, like a cloud releasing streams
 rain, with a noise equal to that of a bursting mountain, struck with a diamond, Rama after
 stretching his bow in a crescent shape, spoke to Matali, Indra's charioteer as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** “If you do not drive this [chariot] out of mere delusion (mohāt), O evil-minded one (durmate), then this suspicion (pratitarkaḥ) of mine is true: you have been suborned by the enemy (pareṇa tvam upaskṛtaḥ)!
+
+**8:** For this deed which you have performed is not the act of a friend desiring my welfare (suhṛdo hita-kāṅkṣiṇaḥ); rather, this is worthy of my foes (ripūṇāṃ sadṛśam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +343,14 @@ the right to the left; *tathaa* = therefore; *matikR^itaa* = heart has been set;
 with a great speed in his chariot more, it appears that heart has been set by him upon destroying
 himself in the battle."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** Turn the chariot back swiftly before my enemy departs (yāvan nāpaiti me ripuḥ), if indeed you have dwelt long with me (adhyuṣito 'si) and if any kindness of mine is remembered!”
+
+**10:** Thus harshly addressed by that witless lord (abuddhinā), the charioteer, whose mind was set on his master’s welfare (hita-buddhiḥ), spoke to Rāvaṇa beneficial and conciliatory words (sānunayaṃ vacaḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -347,6 +391,12 @@ as the wind; *utthitam* = would blow; *megham* = a cloud.
 "Therefore, take care and march forward, facing the chariot of the enemy I wish to
 destroy it, even as the wind would blow a cloud."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I am neither afraid nor deluded, nor have I been bribed by foes (nopajapto 'smi śatrubhiḥ); I am neither negligent nor devoid of affection, nor have your gracious favors (sat-kriyā) been forgotten.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -386,6 +436,12 @@ niyatam* = and the move of the reins fully controlled; *prachodaya* = drive;
 
 "Without fear and flurry and with a steady heart and vision, and the movement of the
 reins fully controlled, drive the chariot swiftly."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rather, desiring your welfare and safeguarding your renown, with a heart overflowing with affection (sneha-praskanna-manasā), I did what was displeasing (apriyam) to you, knowing it to be for your good (hitam iti).
 </details>
 </details>
 
@@ -428,6 +484,12 @@ teaching you.
 "You need not be instructed by me, accustomed as you are to drive the chariot of
 Indra the lord of celestials. Keen as I am to fight with a close attention, I am just reminding you
 and not teaching you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In this matter, O great king, you ought not—like some petty and ignoble person (kaścil laghur ivānāryaḥ)—to judge me at fault (doṣato gantum) when I am devoted to what is dear and beneficial to you.
 </details>
 </details>
 
@@ -496,6 +558,14 @@ sambhuuta rajasaa* = by the dust risen from the wheels (of his own chariot).
 Passing the huge chariot of Ravana on the right, the charioteer then set Ravana
 shaking, by the dust risen from the wheels of his own chariot.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**14:** Pray listen! I shall explain in reply (prati dāsyāmi) the reason why (yan-nimittam) the chariot was turned back by me in battle like the current of a river forced back by rising waters (nadī-vega ivāmbhobhiḥ).
+
+**15:** I perceived your exhaustion (śramam) caused by the mighty toil of battle (mahatā raṇa-karmaṇā), for I did not behold in you any readiness for valor (vīrya-saumukhyam) or preeminence of vigor (prakarṣam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -535,6 +605,12 @@ facing his chariot; *saayakaiH* = with arrows.
 
 The enraged Ravana then, with his coppery eyes wide open, trembled Rama, who stood
 facing his chariot, with arrows.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moreover, my chariot-steeds (ratha-vājinaḥ), weary from drawing the car (rathodvahana-khinnāḥ), were broken in spirit, dejected, and exhausted by the heat (gharma-pariśrāntāḥ), like cattle battered by a downpour (gāvo varṣa-hatā iva).
 </details>
 </details>
 
@@ -581,6 +657,12 @@ anger; *dharShaNaamarShitaH* = though provoked with assault; *raamaH* = Rama;
 
 Meeting fortitude with anger, though provoked with assault, Rama took hold of
 Indra's bow, which was possessed of extra ordinary impulse in the battle-field.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And among the portents (nimittāni) that are appearing in great numbers before us, as each one manifests (teṣu teṣv abhipanneṣu), I observe what is inauspicious (apradakṣiṇam).
 </details>
 </details>
 
@@ -638,6 +720,12 @@ He also seized hold of arrows of exceeding swiftness, which were shining like
 sun-beams. Then began that great battle between the two warriors (Rama and Ravana) who were
 desirous of killing each other, while facing each other like two proud lions.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Place and time (deśa-kālau) must be known, as well as portents and bodily gestures (lakṣaṇānīṅgitāni ca), dejection, joy, fatigue, and the strength or weakness (balābalam) of the chariot-warrior (rathinaḥ);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -679,6 +767,12 @@ battle of both the chariot-warriors.
 Then, the gods along with the Gandharvas the celestial musicians, Siddhas the
 demigods and great sages, desirous of Ravana's ruin, arrived to see the battle of both the
 chariot-warrriors.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the high and low grounds (sthala-nimnāni) of the terrain, the level and uneven spots (samāni viṣamāṇi ca), the proper time for combat, and the spotting of an opening in the enemy’s guard (parasyāntara-darśanam);
 </details>
 </details>
 
@@ -726,6 +820,12 @@ Ravana; *raaghavasya udayaaaya cha* = and prosperity to Rama.
 Thereupon, terrific portents that caused one's hair to stand on end, appeared giving
 an augury of doom to Ravana and prosperity to Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+advancing and retreating (upayānāpayāne), holding firm (sthānam), and backing away while facing the foe (pratyapasarpaṇam)—all this must be understood by a charioteer who tends his car (ratha-kuṭumbinā) as he stands upon it.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -771,6 +871,12 @@ an augury of doom to Ravana and prosperity to Rama.
 
 The god of rains poured blood on Ravana's chariot. Horrible winds blew from right to
 left, forming circles.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In order to give rest (viśrāma-hetoḥ) to you as well as to these chariot-steeds, and seeking to avert terrible exhaustion (raudraṃ varjayatā khedam), I did what was fitting (kṣamam).
 </details>
 </details>
 
@@ -818,6 +924,12 @@ rathaH* = Ravana's chariot; *yaati* = was going.
 A large flock of vultures, roaming about in the sky, was flying forward in the same
 direction in which Ravana's chariot was going.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not out of willful caprice (svecchayā), O hero, was this chariot driven away by me; what I did, O lord, was done by me because I was overcome with affection for my master (bhartuḥ sneha-parītena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -863,6 +975,12 @@ direction in which Ravana's chariot was going.
 
 Lanka was overcast with dusk, resembling a (red) Japa flower. The land in Lanka, as
 also the day appeared as if they were blazing.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Command me, O destroyer of foes (ari-niṣūdana)! Whatever you shall say according to your true intent (yathā-tattvam), that I shall execute, O hero, with a heart discharged of its debt (gatānṛṇyena cetasā)!”
 </details>
 </details>
 
@@ -913,6 +1031,12 @@ viShaadayan* = made demons to lament.
 Large meteors, along with lightnings fell with great noise. Those entities, inimical
 to Ravana, made demons to lament.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Well pleased with those words of his charioteer, Rāvaṇa praised him manifoldly (praśasyainaṃ bahu-vidham) and, eager for battle (yuddha-lubdhaḥ), spoke thus:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -952,6 +1076,12 @@ fighting; *gR^ihiitaa iva* = were like as if they were clasped.
 
 The earth on which Ravana was there, trembled. The arms of fighting demons looked as
 if they were clasped.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Swiftly guide this chariot, O driver, straight toward Rāghava (rāghavābhimukham)! Rāvaṇa will never turn back without slaying his enemies (nāhatvā samare śatrūn) in battle!”
 </details>
 </details>
 
@@ -999,6 +1129,12 @@ coppery; *piitaaH* = yellow; *sitaashvetaaH* = white and dark; *dhaatavaH iva*
 Fallen before Ravana, the rays of the sun appeared coppery, yellow, white and dark,
 like mineral ores on a mountain.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking thus, Rāvaṇa, lord of the rākṣasas, bestowed upon him as he stood on the chariot a single splendid, superb bracelet (hastābharaṇam uttamam); and hearing Rāvaṇa’s words, the charioteer turned the car around (saṃnyavartata).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1039,6 +1175,12 @@ Ravana's face; *vamantyaH* = (as also) vomiting; *jvalanam* = fire; *mukhaiH*
 
 The she-jackals followed by vultures hastily uttered inauspicious howls, on
 beholding Ravana's face as also vomiting fire from their mouths.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, impelled by Rāvaṇa’s command, that charioteer swiftly urged on the steeds (pracodayām āsa hayān); and within an instant that great chariot (mahā-rathaḥ) of the lord of rākṣasas stood before Rāma at the forefront of the battle (raṇāgrataḥ).
 </details>
 </details>
 

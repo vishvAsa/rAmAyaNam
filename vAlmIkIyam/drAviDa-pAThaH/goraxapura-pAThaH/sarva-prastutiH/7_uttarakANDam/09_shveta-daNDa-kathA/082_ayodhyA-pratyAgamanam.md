@@ -39,6 +39,12 @@ _________________
 
 मुहूर्तकाल कळॆद बळिक शिष्यनॊब्बन बायिन्द अरजॆयॊडनॆ दण्डराजन बलात्कारद मातन्नु केळि, अमित तेजस्वी महर्षिगळु हसिविनिन्द पीडितराद शुक्राचार्यरु शिष्यरॊडनॆ आश्रमक्कॆ मरळिदरु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Heeding the sage’s words (ṛṣer vacanam ājñāya), Rāma approached the sacred lake frequented by throngs of apsarases (upākramat saraḥ puṇyam apsaro-gaṇa-sevitam) to worship the twilight (sandhyām upāsitum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +72,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अरजा दुःखितॆयागि अळुत्तिरुवळु, आकॆय शरीरक्कॆ धूळु मॆत्तिकॊण्डित्तु हागू अवळु प्रातःकालद चन्द्रनन्तॆ, राहुग्रस्त चन्द्रन शोभाहीन बॆळदिङ्गळिनन्तॆ इरुववळन्नु नोडिदरु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having touched water there and worshipped the western twilight (tatrodakam upaspṛśya sandhyām anvāsya paścimām), Rāma entered the hermitage of the great-souled pitcher-born sage (āśramaṃ prāviśad rāmaḥ kumbhayoner mahātmanaḥ).
 </details>
 </details>
 
@@ -95,6 +107,12 @@ _________________
 
 इदन्नु नोडि, विशेषवागि हसिविनिन्द पीडितराद्दरिन्द शुक्राचार्यर कोप हॆच्चायितु. मूरु लोकगळन्नु सुट्टुबिडुवरो ऎम्बन्तॆ काणुत्तिद्द अवरु शिष्यरल्लि हेळिदरु.॥3॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For him Agastya prepared richly endowed tubers and roots, as well as divine herbs (bahu-guṇaṃ kanda-mūlaṃ tathauṣadhim), and pure grains beginning with śāli rice (śālyādīni pavitrāṇi) for his meal (bhojanārtham akalpayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +140,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शिष्यरे! शास्त्रविधिगॆ विपरीतवागि आचरिसुव अज्ञानि राज दण्डनिगॆ, कुपितनाद नन्निन्दागि अग्निशिखॆयन्तॆ हेगॆ घोर विपत्तु उण्टादीतो नोडिरि.॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having eaten that nectar-like food (tad annam amṛtopamam), that foremost of men, pleased and thoroughly content (prītaś ca parituṣṭaś ca), passed that night there (tāṃ rātriṃ samupāviśat).
 </details>
 </details>
 
@@ -151,6 +175,12 @@ _________________
 
 सेवकर सहित ई दुर्बुद्धि, दुरात्मा राजन विनाशद समय बन्दिदॆ. अवनु उरियुव बॆङ्कियन्नु अप्पिकॊळ्ळलु बयसुत्तिद्दानॆ.॥5॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising at dawn (prabhāte kālyam utthāya) and performing his morning rites (kṛtvā ’ ’hnikam), that subduer of foes, foremost of the Raghus, approached the sage in order to depart (ṛṣiṃ samupacakrāma gamanāya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +208,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ दुर्बुद्धियु इन्तह घोर पाप माडिरुवाग अवनिगॆ ई पापद फल अवश्य दॊरकुवुदु.॥6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having saluted the great sage born of the pitcher (abhivādyābravīd rāmo maharṣiṃ kumbha-sambhavam), Rāma said: “I ask your leave to depart for my own city (āpṛcche svāṃ purīṃ gantum); you ought to grant me permission (mām anujñātum arhasi).
 </details>
 </details>
 
@@ -207,6 +243,12 @@ _________________
 
 पापकर्मवन्नु आचरिसिद आ दुष्टबुद्धि राजनु एळु रात्रॆयॊळगॆ पुत्र, सैन्य, वाहनगळॊन्दिगॆ नाशवागि होगुवनु.॥7॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Blessed am I and favored am I (dhanyo ’smy anugṛhīto ’smi) by the sight of your great-souled self (darśanena mahātmanaḥ); and I shall come again to behold you here (draṣṭuṃ caivāgamiṣyāmi) for the purification of myself (pāvanārtham ihātmanaḥ).’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,6 +276,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दुर्मतिय ई राजन राज्यवन्नु ऎल्ल कडॆयिन्द नूरु योजन उद्दवाद राज्यद मेलॆ इन्द्रनु भारी धूळन्नु मळॆयागि सुरिसि नाशमाडुवनु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As Kākutstha spoke these words of wondrous import (vākyam adbhuta-darśanam), the ascetic rich in austerity, whose eye is dharma (dharma-netras tapodhanaḥ), spoke in supreme delight (uvāca parama-prītaḥ):
 </details>
 </details>
 
@@ -263,6 +311,12 @@ _________________
 
 ऎल्ल प्रकारद स्थावर जङ्गम जीविगळु वासिसुवल्लि ई भारी धूळिन मळॆयिन्दागि ऎल्लॆडॆ विलीनवागुववु.॥9॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Most wondrous is this speech of yours, O Rāma, auspicious in its syllables (atyadbhutam idaṃ vākyaṃ tava rāma śubhākṣaram); for you alone are the purifier of all beings, O delight of the Raghus (pāvanaḥ sarva-bhūtānāṃ tvam eva raghunandana)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,6 +344,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 दण्डन राज्यविरुवतनिक अल्लिय समस्त चराचर प्राणिगळु एळु रात्रिगळवरॆगॆ केवल धूळिन मळॆयिन्दागि अदृश्यवागि होगुवुदु.॥10॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Whosoever behold you, O Rāma, even for a single moment (muhūrtam api rāma tvāṃ ye ca paśyanti kecana), purified and raised to heaven (pāvitāḥ svarga-bhūtāś ca), become worthy of worship by all the gods (pūjyās te sarva-daivataiḥ)!
 </details>
 </details>
 
@@ -319,6 +379,12 @@ _________________
 
 हीगॆ हेळि क्रोध ताम्राक्षराद शुक्ररु आ आश्रमदल्लि वासिसुव जनरल्लि - दण्डन राज्यद सीमॆय हॊरगिन देशदल्लि होगि वासिसिरि ऎन्दु हेळिदरु.॥11॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And whatever living creatures upon earth look upon you with cruel eyes (ghora-cakṣurbhiḥ paśyanti prāṇino bhuvi), struck down by Yama’s rod (hatās te yama-daṇḍena), they go straightway to hell (sadyo niraya-gāminaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,6 +412,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 शुक्राचार्यर मातन्नु केळि आश्रमवासिगळु आ राज्यदिन्द हॊरटु, सीमॆय हॊरगिन राज्यदल्लि वासिसतॊडगिदरु.॥12॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Such a purifier of all embodied beings are you, O foremost of the Raghus (īdṛśas tvaṃ raghu-śreṣṭha pāvanaḥ sarva-dehinām); even those who merely recount your story on earth (bhuvi tvāṃ kathayanto ’pi) shall attain supreme perfection, O Rāghava (siddhim eṣyanti rāghava)!
 </details>
 </details>
 
@@ -375,6 +447,12 @@ _________________
 
 आश्रमवासिगळल्लि हीगॆ हेळि शुक्रचार्यरु अरजॆयल्लि - ऎलै बुद्धिगॆट्टवळे! नीनु इल्ले इदे आश्रमदल्लि मनस्सन्नु परमात्मन ध्यानदल्लि एकाग्रगॊळिसि इरु.॥13॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Go now, unperturbed, along an auspicious path free from fear on every side (gaccha cāriṣṭam avyāgraḥ panthānam akutobhayam); govern the kingdom in righteousness (praśādhi rājyaṃ dharmeṇa), for you alone are the refuge of the world (gatir hi jagato bhavān)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +480,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अरजॆ! ऒन्दु योजन हरडिद ई सुन्दर सरोवरवन्नु निश्चिन्तळागि उपयोगिसि, हण्णु-हम्पलुगळन्नु तिन्नुत्ता, तन्न अपराधद निवृत्तिगागि कालवन्नु प्रतीक्षॆ माडुत्ता इरु.॥1.॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by the sage (evam uktas tu muninā), the wise king, joining his palms with arms uplifted (prāñjaliḥ pragraho nṛpaḥ), bowed in salutation to that sage rich in merit (abhyavādayata ... tam ṛṣiṃ puṇya-śālinam).
 </details>
 </details>
 
@@ -431,6 +515,12 @@ _________________
 
 याव जीविगळु निन्न बळियल्लि इरुववो अवु ऎन्दू धूळिन मळॆयिन्द सायलाररु. सदा निन्न सङ्गड इरुववु.॥15॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having saluted that foremost of sages and all those ascetics rich in penance (tāṃś ca sarvāṃs tapodhanān), he calmly ascended that gold-adorned Puṣpaka chariot (adhyārohat tad avyagraḥ puṣpakaṃ hema-bhūṣitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -458,6 +548,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ब्रह्मर्षिय ई आदेशवन्नु केळि आ भृगुकन्यॆ अरजॆयु अत्यन्त दुःखितळागिद्दरू, तन्न तन्दॆ भार्गवरल्लि हागॆये आगलॆन्दु हेळिदळु.॥16॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As he departed, throngs of sages honored him on every side with benedictions (taṃ prayāntaṃ munigaṇā hy āśīrvādaiḥ samantataḥ apūjayan), him who resembled great Indra (mahendrābham), as the immortals honor the Thousand-Eyed Lord (sahasrākṣam ivāmarāḥ).
 </details>
 </details>
 
@@ -488,6 +584,12 @@ _________________
 
 हीगॆ हेळि शुक्राचार्यरु बेरॆ राज्यक्कॆ होगि वासिसिदरु. आ ब्रह्मवादीय मातिनन्तॆ दण्डकराजन राज्य, सेवक, सैन्य, वाहनादिगळ सहित एळु दिनगळल्लि भस्मदन्तॆ आयितु.॥17½॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated at ease in the gold-adorned Puṣpaka (svasthaḥ sa dadṛśe rāmaḥ puṣpake hema-bhūṣite), Rāma appeared like the moon resting near a cloud at the onset of the rains (śaśī megha-samīpastho yathā jaladharāgame).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -509,6 +611,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर जगह-जगह सम्मान पाते हुए वे श्रीरघुनाथजी मध्याह्नके समय अयोध्यामें पहुँचकर मध्यम कक्षा (बीचकी ड्योढ़ी)-में उतरे ॥ १८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when midday had arrived (tato ’rdha-divase prāpte), honored from every quarter (pūjyamānas tatas tataḥ), Kākutstha reached Ayodhyā and descended into the middle courtyard (ayodhyāṃ prāpya ... madhya-kakṣyām avāruhat).
 </details>
 </details>
 
@@ -537,6 +645,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नरेश्वरने! विन्ध्य मत्तु शेवलगिरिय मध्यभागदल्लि दण्डकन राज्यवित्तु. काकुत्स्थने! धर्मयुग कृतयुगदल्लि धर्मविरुद्ध आचरण माडिदाग आ ब्रह्मर्षियु राज मत्तु अवन देशक्कॆ शापवन्नु कॊट्टरु. अन्दिनिन्द आ भूभागवु दण्डकारण्य ऎन्दु हेळल्पट्टितु.॥18-19॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, alighting from that radiant, wish-going Puṣpaka (visṛjya ruciraṃ puṣpakaṃ kāmagāmi tat), the lord formally dismissed it, saying: “Go, and may it be well with you!” (visarjayitvā gaccheti svasti te ’stv iti ca prabhuḥ).
 </details>
 </details>
 
@@ -578,6 +692,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद उत्तर काण्डदल्लि ऎम्भत्तॊन्दनॆय सर्ग पूर्णवायितु. ॥81॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāma spoke these words to the doorkeeper stationed in the inner courtyard (kakṣāntara-vinikṣiptaṃ dvāssthaṃ rāmo ’bravīd vacaḥ): “Go to Lakṣmaṇa and Bharata, those two of swift stride (tau laghu-vikramau), announce my arrival (mamāgamanam ākhyāya), and summon them without delay (śabdāpayata mā ciram)!”
 </details>
 </details>
 

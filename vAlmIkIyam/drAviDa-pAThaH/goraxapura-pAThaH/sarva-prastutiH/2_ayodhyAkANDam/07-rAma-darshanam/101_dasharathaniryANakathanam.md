@@ -73,6 +73,12 @@ who was devoted to his elders.
 Rama along with Lakshmana, his younger brother, began to question Bharata, his
 brother who was devoted to elders (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma’s words, Bharata replied (rāmasya vacanaṃ śrutvā bharataḥ pratyuvāca ha): “What will the law of kingship avail me, who am bereft of righteousness (kiṃ me dharmād vihīnasya rāja-dharmaḥ kariṣyati)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -141,6 +147,14 @@ clad in deer-skin and matted hair; *hitvaa* = leaving; *raajyam* = the kingdom.
 "You ought to tell me all about the purpose for which you entered this place, clad
 in deer-skin and matted hair, relinquishing the kingdom."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “O bull among men, this eternal law has ever stood firm among us (śāśvato ’yaṃ sadā dharmaḥ sthito ’smāsu nararṣabha): while the eldest son lives, O king, a younger son may never become monarch (jyeṣṭha-putre sthite rājan na kanīyān nṛpo bhavet).
+
+**3:** “Therefore, O Rāghava, go with me to prosperous Ayodhyā (sa samṛddhāṃ mayā sārdham ayodhyāṃ gaccha rāghava), and have yourself consecrated for the welfare of this race of ours (abhiṣecaya cātmānaṃ kulasyāsya bhavāya naḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,6 +200,12 @@ joined palms; *abraviit* = spoke; *vaakyam* = (the following) words:
 
 Thus questioned by the high souled Rama, by closely embracing him again, Bharata
 with joined palms answered as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Men call a king human, yet I deem him a deity (rājānaṃ mānuṣaṃ prāhur devatve sa mato mama)—he whose conduct, united with righteousness and polity, they declare to be superhuman (yasya dharmārtha-sahitaṃ vṛttam āhur amānuṣam).
 </details>
 </details>
 
@@ -235,6 +255,12 @@ shokaabhipiiDitaH* = with grief caused by separation from him son.
 difficult to perform, and having abandoned us has gone the divine region; he died of grief on
 account of separation from his son."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While I was dwelling among the Kekayas and you had repaired to the forest (kekayasthe ca mayi tu tvayi cāraṇyam āśrite), the noble king, a constant performer of sacrifices esteemed by the good, went to heaven (divam āryo gato rājā yāyajūkaḥ satāṃ mataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,6 +307,12 @@ reputation.
 
 "O, tormented of foes! As urged by his wife and my mother Kaikeyi;, our father
 committed this great sin that has taken away his own reputation."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“No sooner had you departed accompanied by Sītā and Lakṣmaṇa (niṣkrānta-mātre bhavati saha-sīte sa-lakṣmaṇe) than the king, overwhelmed by sorrow and grief, departed to the third heaven (duḥkha-śokābhibhūtas tu rājā tridivam abhyagāt).
 </details>
 </details>
 
@@ -332,6 +364,12 @@ hell.
 "Without having plucked the fruit of kingdom, widowed and emaciated with grief my
 mother will fall into the most terrific hell."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Arise, O tiger among men, and let the funerary water-libation be offered to our father (uttiṣṭha puruṣa-vyāghra kriyatām udakaṃ pituḥ); both I and this Śatrughna have already offered the water-rite beforehand (ahaṃ cāyaṃ ca śatrughnaḥ pūrvam eva kṛtodakau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -378,6 +416,12 @@ such; *abhiSiN^chasva* = and get anointed; *raajyena* = in the kingdom;
 "Grant me, who am your true servant, a favour! This very day, as Indra the Lord of
 celestials himself, receive the royal anointing!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For they say that what is given by one who is beloved becomes inexhaustible in the worlds of the Ancestors, O Rāghava (priyeṇa khalu dattaṃ hi pitṛ-lokeṣu rāghava akṣayyaṃ bhavatīty āhuḥ); and you above all were dear to our father (bhavāṃś caiva pituḥ priyaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -423,6 +467,12 @@ have reached; *tvat sakaasham* = your proximity; *arhasi* = you ought;
 
 "Grant all these people and these widowed Queens, who have come here to see you,
 this felicity!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Grieving for you alone, longing to behold you, and unable to turn back his mind that was fixed solely upon you (tvām eva śocaṃs tava darśanepsus tvayy eva saktām anivartya buddhim), your father, bereft of you and wasted by grief for you, sank to his rest remembering you (tvayā vihīnas tava śoka-rugṇas tvāṃ saṃsmarann astamitaḥ pitā te)!”
 </details>
 </details>
 

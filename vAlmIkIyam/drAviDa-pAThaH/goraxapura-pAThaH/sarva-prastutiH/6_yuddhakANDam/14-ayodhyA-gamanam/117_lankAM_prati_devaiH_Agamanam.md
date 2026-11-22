@@ -65,6 +65,12 @@ minded; *raamaH* = Rama; *tataH* = then; *dadhyau* = became thoughtfu;
 Hearing the cries of these who were thus wailing, the virtuous minded Rama then
 became thoughtful for a while, afflicted as he was with melancholy, his eyes filled with tears.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed in salutation (abhivādya), that leaper of great wisdom (mahāprājñaḥ plavaṅgamaḥ) spoke to Rāma, the lotus-eyed (kamalapatrākṣam), the foremost of all wielders of the bow (varaṃ sarvadhanuṣmatām):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,6 +146,16 @@ the great deity who bears the device of a bull as his banner and having three ey
 creator of all the worlds and the best among the knowers of sacred knowledge all these together
 reaching the City of Lanka in aerial cars, shining like the sun approached Rama.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**2:** “You ought to behold (draṣṭum arhasi) that noble lady Maithilī, tormented by grief (śokasaṃtaptām), for whose sake (yannimittaḥ) this undertaking was begun and who is the fruition of our deeds (karmaṇāṃ yaḥ phalodayaḥ).
+
+**3:** For that Maithilī, overwhelmed with sorrow (śokasamāviṣṭā) and her eyes turbid with tears (bāṣpaparyākulekṣaṇā), having heard of your victory, longs to behold you (draṣṭuṃ tvām abhikāṅkṣati).
+
+**4:** Out of the confidence born of my former visit (pūrvakāt pratyayāc ca), I was addressed by her with full trust (viśvastayā tayā), her eyes brimming with tears: ‘I wish to behold my lord (draṣṭum icchāmi bhartāram).’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -181,6 +197,12 @@ spoke; *raaghavam* = to Rama; *sthitam* = who stood (there);
 Lifting their long arms, their hands decked with ornaments, those excellent gods
 thereupon, spoke (as follows) to Rama who stood there, making a respectful salutation to them with
 his folded hands.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Hanūmān, Rāma, the foremost of upholders of dharma (dharmabhṛtāṃ varaḥ), suddenly fell into deep thought (āgacchat sahasā dhyānam), slightly suffused with tears (īṣadbāṣpapariplutaḥ).
 </details>
 </details>
 
@@ -239,6 +261,12 @@ the troop of gods.
 knowledge and an all-capable person, ignore Seetha who is falling into the fire? How do you not
 recognize yourself to be the foremost of the troop of gods?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Drawing a long sigh (dīrgham abhiniḥśvasya) and gazing upon the earth (jagatīm avalokayan), he spoke to Vibhīṣaṇa, who stood near (upasthitam) resembling a dark cloud (meghasaṃkāśam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -280,6 +308,12 @@ three worlds; *prajaapatiH* = and the lord of creatures.
 "Among the Vasus (a class of gods, eight in number), you are the Vasu, named
 R^itadhama (one whose abode is Truth or the Divine Law) who was formerly the self-constituted
 ruler, the first creator of all the three worlds and the lord of creatures."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without delay (mā ciram), present Sītā here (iha sītām upasthāpaya)—Vaidehī, having bathed her head (śiraḥsnātām), anointed with celestial unguents (divyāṅgarāgām), and decked with celestial ornaments (divyābharaṇabhūṣitām).”
 </details>
 </details>
 
@@ -333,6 +367,12 @@ eyes.
 among the Sadhyas (a particular class of celestials belonging to Gana Devata). The twin Aswinis are
 your ears. The sun and the moon constitute your eyes."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma, Vibhīṣaṇa hastened (tvaramāṇaḥ), entered the inner apartments (praviśyāntaḥpuram), and had his own women announce his arrival to Sītā (sītāṃ strībhiḥ svābhir acodayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -378,6 +418,12 @@ common man; *upekShase* = you are ignoring; *vaidehiim* = Seetha.
 
 "O the destroyer of the adversaries. You are seen (to exist) at the beginning and at
 the end of creation. Yet, you ignore Seetha, just like a common man."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the glorious and humble lord of the Rākṣasas (vinīto rākṣaseśvaraḥ), Vibhīṣaṇa, beholding the illustrious Sītā (sītāṃ mahābhāgām), spoke with joined palms raised to his head (mūrdhni baddhāñjaliḥ):
 </details>
 </details>
 
@@ -427,6 +473,12 @@ Hearing the words of those guardians of the world, Rama, the lord of creation, w
 was born in Raghu dynasty and the foremost one among protectors of righteousness, spoke to those
 god-chiefs as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Anointed with celestial unguents, O Vaidehī, and decked with celestial ornaments, mount the palanquin (yānam āroha)—may auspiciousness attend you (bhadraṃ te); your lord wishes to behold you (bhartā tvāṃ draṣṭum icchati).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -473,6 +525,12 @@ god-chiefs as follows:
 
 "I think of myself to be a human being, by name Rama, the son of Dasaratha. You, as
 a gracious Divinity, tell me that which I as such really am like this."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed, Vaidehī replied to Vibhīṣaṇa: “Without having bathed (asnātvā), I wish to behold my lord, O lord of the Rākṣasas (rākṣaseśvara).”
 </details>
 </details>
 
@@ -524,6 +582,12 @@ lord!"
 Hearing the words of Rama, Brahma (the creator), the foremost among the knowers of
 Brahma the Absolute, spoke as follows: "Listen to my true word, O the truly brave lord!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of hers, Vibhīṣaṇa replied: “You ought to do (tathā kartum arhasi) just as your lord Rāma has spoken (yathāha rāmo bhartā te).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -564,6 +628,12 @@ enemies.
 
 "You are the Lord Narayana himself the glorious god, who wields the discus. You are
 the Divine Boar with a single tusk, the conqueror of your past and future enemies."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of his, the chaste Maithilī (maithilī sādhvī), who revered her husband as her deity (patidevatā) and was encompassed by devotion to her lord (bhartṛbhaktyāvṛtā), replied, “So be it (tatheti).”
 </details>
 </details>
 
@@ -612,6 +682,12 @@ one.
 "You are Brahma, the imperishable, the Truth abiding in the middle as well as at the
 end of the universe. You are the supreme righteousness of people, whose powers go everywhere. You
 are the four-armed."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Vibhīṣaṇa, having placed Sītā—who had bathed her head (śiraḥsnātām), been attended with auspicious toilette (saṃyuktāṃ pratikarmaṇā), decked in priceless ornaments (mahārhābharaṇopetām), and clad in priceless garments—
 </details>
 </details>
 
@@ -665,6 +741,12 @@ endowed with great might.
 soul of the universe, the best of men, the invincible, the wielder of a sword named Nandaka, the
 all-pervader, the bestower of happiness to the earth and endowed with great might."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+upon a radiant palanquin (āropya śibikāṃ dīptām) covered with costly draperies (parārghyāmbarasaṃvṛtām) and guarded by many Rākṣasas (rakṣobhir bahubhir guptām), brought her forth (ājahāra).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -715,6 +797,12 @@ are the endurance and the subduer of the senses. You are the origin and the diss
 Upendra the Divine Dwarf and (the younger brother of Indra) as also the destroyer Madhu, the
 demon."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching the great-souled [Rāma], and even perceiving him absorbed in deep thought (jñātvāpi dhyānam āsthitam), he—bowed in humility and filled with joy (praṇataś ca prahṛṣṭaś ca)—announced that Sītā had arrived (prāptāṃ sītāṃ nyavedayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -764,6 +852,12 @@ all).
 having a lotus in one's navel and who puts an end to all in battle. The divine sages pronounce you
 to be fit to afford protection to all and the refuge for all."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that she who had dwelt long in the Rākṣasa’s abode (rakṣogṛhaciroṣitām) had arrived, Rāghava, the slayer of foes (śatruhā), experienced wrath, joy, and sorrow (roṣaṃ harṣaṃ ca dainyaṃ ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -788,6 +882,12 @@ to be fit to afford protection to all and the refuge for all."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीने साविर शाखॆगळुळ्ळ सायवेद स्वरूपनु, नूरारु विधि वाक्यरूपी मस्तकगळिन्द कूडिद वेदस्वरूप महावृषभनू, लोकगळ आदिकर्तनू, स्वयम्प्रभुवू आगिरुवॆ.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Rāghava, deliberating with anxious reflection (savimarśaṃ vicārayan) regarding Sītā seated in the palanquin (yānagatāṃ sītām), ungladdened (ahṛṣṭaḥ), spoke this word to Vibhīṣaṇa:
 </details>
 </details>
 
@@ -841,6 +941,12 @@ constituted Lord of all. You are the refuge and the forbear of Siddhas (a class 
 endowed with mystic powers by virtue of their very birth) and Sadhyas (a class of celestial
 beings.)"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O gentle lord of the Rākṣasas (rākṣasādhipate saumya), ever devoted to my victory (nityaṃ madvijaye rata), let Vaidehī quickly approach my presence (saṃnikarṣaṃ me kṣipraṃ samabhigacchatu).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -890,6 +996,12 @@ hearing which the Adhvaryu priest casts the oblation to a deity into the sacrifi
 the mystic syllable 'OM'. You are higher than the highest. People neither know your end nor your
 origin nor who you are in reality."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that speech of Rāghava, Vibhīṣaṇa, knower of dharma (dharmavit), swiftly caused the crowd to be cleared there (tūrṇam utsāraṇaṃ tatra kārayām āsa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -935,6 +1047,12 @@ dikShu in all quarters; *gagane* = in the sky; *parvateShu* = in mountains;
 
 "You appear in all created beings in the cattle and in brahmanas. You exist in all
 quarters, in the sky, in mountains and in rivers."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Attendants wearing tunics and turbans (kañcukoṣṇīṣiṇaḥ), with canes and rattling drums in their hands (vetrajharjharapāṇayaḥ), went about on all sides (samantāt paricakramuḥ) driving back those warriors (utsārayantas tān yodhān).
 </details>
 </details>
 
@@ -983,6 +1101,12 @@ mountains.
 "With thousand feet, with hundred heads and with thousand eyes along with Lakshmi
 the goddess of wealth, you bear the earth with all its created beings along with its
 mountains."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Throngs (vṛndāni) of bears, monkeys, and Rākṣasas on every side, being pushed back (utsāryamāṇāni), withdrew afar from the vicinity (dūram uttasthur antataḥ).
 </details>
 </details>
 
@@ -1034,6 +1158,12 @@ the demons.
 "O Rama! You appear as Sesha, a large serpent in water, at the earth's bottom,
 bearing the three worlds, gods, Gandharvas, the celestial musicians and the demons."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Of those being driven back (teṣām utsāryamāṇānām), there arose a mighty roar (niḥsvanaḥ sumahān abhūt), like the roar of the ocean tossed up by the wind (vāyunoddhūyamānasya sāgarasyeva niḥsvanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1084,6 +1214,12 @@ In all your limbs; *devaaH* = the gods; *nirmitaaH* = have been created;
 "O Rama! I (brahma) am your heart. Saraswathi, the goddess (of learning) is your
 tongue. O lord! The gods created by Brahma are the hair on all your limbs."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding them being driven back and thrown into agitation on all sides (samantāj jātasambhramān), Rāghava stopped [the guards] (vārayām āsa) out of kindness (dākṣiṇyāt) and indignation at that [treatment] (tadamarṣāc ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1131,6 +1267,12 @@ of your words; *vedaaH* = are the Vedas; *tvayaa vinaa* = bereft of you;
 "Night has been recognized as the closing of your eye-lids and the day, as the
 opening of eye-lids. The correct usages of your words are the Vedas. Bereft of you, this visible
 universe does not exist."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And out of wrath (saṃrambhāc ca), Rāma, as though burning him with his gaze (cakṣuṣā pradahann iva), spoke this reproachful word (sopālambham idaṃ vacaḥ) to the deeply wise Vibhīṣaṇa:
 </details>
 </details>
 
@@ -1182,6 +1324,12 @@ mark Srivatsa = a curl of white hair on his breast).
 anger. The moon constitutes your placidity. You are Lord Vishnu (who bears the mark Srivatsa - a
 curl of white hair on his breast)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Why, disregarding me (mām anādṛtya), is this multitude harassed by you (kliśyate ’yaṃ tvayā janaḥ)? Stop this disturbance (nivartayainam udvegam); these people are my own kinsfolk (jano ’yaṃ svajano mama).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1231,6 +1379,12 @@ raajaa* = was made king.
 "In the past, the three worlds were occupied by you in your three strides, after
 binding the exceptionally formidable Bali (the ruler of the three worlds) and Indra was made the
 king (by you)."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Neither houses, nor garments, nor ramparts are a screen (tiraskriyā), nor are such royal honors (nedṛśā rājasatkārāḥ); virtuous conduct is the true shield of a woman (vṛttam āvaraṇaṃ striyāḥ).
 </details>
 </details>
 
@@ -1284,6 +1438,12 @@ Lord Vishnu; *bhavaan* = you; *kR^iShNaH* = are having a dark blue hue;
 you are Lord Vishnu. You are having a shining dark-blue hue. You are the Lord of created beings.
 For the destruction of Ravana, you entered a human body here, on this earth."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In calamities (vyasaneṣu), in seasons of distress (kṛcchreṣu), in battles (yuddheṣu), at a bride’s self-choice (svayaṃvare), at a Vedic sacrifice (kratau), or in marriage (vivāhe vā), the beholding of a woman is not faulted (darśanaṃ dūṣyate striyāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1335,6 +1495,12 @@ approach; *divam* = your divine abode; *prahR^iShTaH* = with a rejoice.
 of ours has been fulfilled. Ravana has been killed. Return to your divine abode, with a
 rejoice."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And she here has fallen into calamity (vipadgatā caiva) and is beset by sore distress (kṛcchreṇa ca samanvitā); there is no fault in beholding her (darśane nāsti doṣo ’syāḥ), especially in my presence (matsamīpe viśeṣataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1382,6 +1548,12 @@ vain.
 "O Lord! Unerring is your valour. Your exploits are never in vain. O Rama! Your
 blessed sight is powerful. The songs in praise of you never go in vain."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Therefore, leaving the palanquin (visṛjya śibikām), let her approach on foot alone (padbhyām evāpasarpatu); let these forest-dwellers (vanaukasaḥ) behold Vaidehī in my presence (samīpe mama).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1406,6 +1578,12 @@ blessed sight is powerful. The songs in praise of you never go in vain."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीनु पुराण पुरुषनागिरुवॆ. दिव्यरूपधारि परमात्मा निन्नल्लि भक्तियन्नु इट्टिरुववरु ई लोक मत्तु परलोकगळल्लि तम्म मनोरथ पडॆयुवरु.॥31॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thus addressed by Rāma, Vibhīṣaṇa, filled with anxious reflection (savimarśaḥ), humbly (vinītavat) led Sītā into Rāma’s presence (rāmasyopānayat sītāṃ saṃnikarṣam).
 </details>
 </details>
 
@@ -1464,6 +1642,12 @@ and the Supreme Person, will forever attain their desired objects here as well a
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरहदिनेळनॆय सर्ग पूर्णवायितु.॥117॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Lakṣmaṇa, Sugrīva, and the leaper Hanūmān, hearing the speech of Rāma, became deeply distressed (babhūvur vyathitā bhṛśam).
 </details>
 </details>
 

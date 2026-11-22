@@ -69,6 +69,12 @@ for me, to, even; *tathaa* = like that.
 "Oh, great enemy destroyer Rama, my elder brother Vali is a very dear one to our
 father, and even for me too he was so, earlier. [4-9-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My elder brother named Vālin, the slayer of foes (śatruniṣūdanaḥ), was formerly ever held in high esteem by our father (pitur bahumato nityam), and so too by me (mama cāpi tathā purā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +124,12 @@ iishvaraH = for monkeys, king.
 After the demise of our father all the ministers have glorified him immensely and
 made him the king of all the monkeys as he is the elder. [4-9-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When that father passed away (pitary uparate tasmin), thinking, `This one is the eldest (jyeṣṭho 'yam iti),' the ministers made him, who was highly esteemed by all (paramasammataḥ), lord of the monkeys in the kingdom.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -164,6 +176,12 @@ him; *sarveSu* = in all; *kaaleSu* = times; *praNataH* = bowed down;
 While he was ruling the great kingdom of my father and forefathers, I have always
 bowed down to him like a servant and stood by him. [4-9-3]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While he was governing that great ancestral kingdom of father and grandfather (rājyaṃ praśāsatas tasya pitṛpaitāmahaṃ mahat), at all times I stood bowed in humility like a servant (praṇataḥ preṣyavat sthitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,6 +223,12 @@ him [to Dundubhi]; *strii kR^itam* = female, due to; *mahat vairam* = great enmi
 There was a fierce demon named Maayaavi, the elder brother of Dundubhi and the son
 of one demon named Maya. There was a great enmity between this Maayaavi and Vali owing to some
 female. [4-9-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There was a fiery elder brother of Dundubhi (pūrvajo dundubheḥ), the son [of Maya], named Māyāvin; formerly a great enmity arose between him and Vālin on account of a woman (mahad vairaṃ vālinaḥ strīkṛtaṃ purā).
 </details>
 </details>
 
@@ -251,6 +275,12 @@ he was; *vaalinam ca rane aahvayat* = Vali is, invited, for a fight.
 
 He that Maayaavi arrived at the doors of Kishkindha in a night when the people are
 sleeping, and blared very much inviting Vali for a fight. [4-9-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When the people were asleep at night (supte jane rātrau), he came to the gate of Kiṣkindhā (kiṣkindhādvāram āgataḥ), roared in great fury (nardati sma susaṃrabdhaḥ), and challenged Vālin to battle (vālinaṃ cāhvayad raṇe).
 </details>
 </details>
 
@@ -301,6 +331,12 @@ speedily; *niSpapaata* = fell out [ palace chambers,] came out.
 Then my brother who was also sleeping well, on hearing that bellowing in a
 clamouring voice, did not tolerate and came out speedily. [4-9-6]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My brother Vālin, though fast asleep (prasuptas tu), upon hearing the dreadful roar (bhairavasvanam) of him roaring, could not brook it (na mamṛṣe), and rushed out at once with speed (niṣpapāta javāt tadā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -348,6 +384,12 @@ really.
 Though the females and myself bowed reverently to prevent Vali, he came out of
 palace in all his anger to kill that great demon. [4-9-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Though held back (vāryamāṇas tataḥ) by the women and by me with bowed soul (mayā ca praṇatātmanā), he sallied forth in wrath (niḥsṛtaḥ krodhāt) to slay that foremost of Asuras (tam asurottamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -393,6 +435,12 @@ predisposition; *nihsR^itaH* = started; *vaalinaa saha* = Vali, along with.
 
 But Vali spurned all of us away and forged ahead, and then I also have started to go
 along with Vali in all my predisposition. [4-9-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Shaking us all off (sa tu nirdhūya sarvān naḥ), that mighty one went forth (nirjagāma mahābalaḥ); then I too, out of brotherly affection (sauhārdāt), went out along with Vālin.
 </details>
 </details>
 
@@ -444,6 +492,12 @@ quickly.
 A great fear was induced in that demon on seeing my brother and me too coming from a
 distance, and then he quickly ran away. [4-9-9]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Seeing my brother and me approaching from afar (dūrād avasthitam), that Asura, seized with terror (jātasaṃtrāsaḥ), fled headlong at full speed (pradudrāva tadā bhṛśam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -490,6 +544,12 @@ alone.]
 
 While he is running away in fear we quickly followed him on a path that is barely
 lit by moonlight of the moon who is just coming up. [4-9-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“As he fled in terror (tasmin dravati saṃtraste), the two of us pursued even more swiftly (āvāṃ drutataraṃ gatau), and the path was lit up by the moon rising just then (candreṇodgacchatā tadā).
 </details>
 </details>
 
@@ -538,6 +598,12 @@ covered; *mahat vivaram* = a great, cleavage, cavity; *vegaat* = speedily;
 That demon speedily entered an un-enterable cavity under the ground, covered with
 grass, and we too having reached there speedily stood at the aperture of that cavity for a while.
 [4-9-11]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That Asura swiftly entered a vast, inaccessible chasm in the earth (durgaṃ dharaṇyā vivaraṃ mahat) covered over with grass (tṛṇair āvṛtam), and reaching [its mouth], the two of us stood halting (āvām āsādya viṣṭhitau).
 </details>
 </details>
 
@@ -588,6 +654,12 @@ uvaaca* = to me, this sentence, said.
 Then Vali has gone into the enfoldment of fury on observing the entry of that demon
 into the hole, whereby his senses felt outraged, and he said this sentence to me. [4-9-12]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Seeing that foe enter the cavern (taṃ praviṣṭaṃ ripuṃ dṛṣṭvā bilam), Vālin, overcome by wrath (roṣavaśaṃ gataḥ) and with his senses agitated (kṣubhitendriyaḥ), spoke these words to me:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -634,6 +706,12 @@ at hole's, entrance; *tiSTha* = you stay.
 Then Vali said to me, "Now you stay here on the alert, Sugreeva, at the entrance of
 this hole till I return on destroying the enemy in a fight on my entering this hole..."
 [4-9-13]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“ `Stand here today at the mouth of the cavern (iha tiṣṭhādya sugrīva biladvāri), O Sugrīva, intent and watchful (samāhitaḥ), while I enter here and slay the foe in battle (yāvad atra praviśyāhaṃ nihanmi samare ripum)!'
 </details>
 </details>
 
@@ -682,6 +760,12 @@ On hearing those words I requested him to allow me too to come in to the hole, b
 he being the great tormentor of his enemies disallowed it, and he made me to swear on his feet and
 entered that hole. [4-9-15]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing this speech, that scorcher of foes (sa paraṃtapaḥ) was entreated by me (mayā... yācitaḥ) [to let me enter with him]; but after making me swear by his two feet (śāpayitvā ca māṃ padbhyām), he then entered the cavern.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -727,6 +811,12 @@ that; *kaalaH* = time; *vyatyavartata* = passed away.
 
 Well over a year is over after his entering into that cleavage, and to me too who
 stayed at the entrance of the cleavage that much time had passed away. [4-9-15]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“After he had entered the cavern (tasya praviṣṭasya bilam), a full year and more passed away (sāgraḥ saṃvatsaro gataḥ); and as I stood at the mouth of the cavern (sthitasya ca biladvāri), all that time elapsed (sa kālo vyatyavartata).
 </details>
 </details>
 
@@ -777,6 +867,12 @@ also, able to see; *me manaH paapa shanki ca* = my, mind, harm, doubting.
 I thought I lost him for my brother is unseen, and in all fondness towards him my
 mind started to doubt about some harm might have befallen on him. [4-9-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Deeming him lost (ahaṃ tu naṣṭaṃ taṃ jñātvā), seized with anxious alarm out of brotherly love (snehād āgatasambhramaḥ), I did not behold my brother (bhrātaraṃ na prapaśyāmi), and my mind foreboded evil (pāpaśaṅki ca me manaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -823,6 +919,12 @@ mind started to doubt about some harm might have befallen on him. [4-9-16]
 After a long time blood with foam gushed out that hole, and on seeing it I was
 deeply saddened. [4-9-17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, after a long lapse of time (atha dīrghasya kālasya), seeing foamy blood (saphenaṃ rudhiram) streaming forth from that cavern (bilāt tasmād viniḥsṛtam), I was sorely afflicted with grief (bhṛśaduḥkhitaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -868,6 +970,12 @@ ratasya* = in fight, involved in; *kroshataH api* = on who is screeching, even;
 
 Sounds of screaming demon came to my ear, but the screeches of my brother who is
 involved in fight are unheard, in the least. [4-9-18]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And the roar of the bellowing Asuras (nardatām asurāṇāṃ ca dhvaniḥ) reached my ears (me śrotram āgataḥ), but not the voice of my elder brother (svano guroḥ) crying out as he engaged in battle (ratasya ca saṃgrāme krośato 'pi)!
 </details>
 </details>
 
@@ -927,6 +1035,14 @@ brother is finished, and covered the cavity's opening with a mountain similar bo
 performed water oblations to my deceased brother with saddening pain, and then returned to
 Kishkindha. But the ministers have persuaded and heard from me the actual happening though I was
 concealing it. [4-9-19, 20]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** “Concluding with my intellect from those signs (avagato buddhyā cihnais taiḥ) that my brother had been slain (bhrātaraṃ hatam), and blocking the mouth of the cavern (pidhāya ca biladvāram) with a boulder as huge as a mountain (śilayā girimātrayā),
+
+**20:** “stricken with grief and having offered funeral water libations (śokārtaś codakaṃ kṛtvā), I returned to Kiṣkindhā, O friend; and though I strove to conceal it (gūhamānasya me), the truth was heard by the ministers through their persistent effort (tattvaṃ yatnato mantribhiḥ śrutam).
 </details>
 </details>
 
@@ -998,6 +1114,14 @@ seeing; *kopaat* = in anger; *sam rakta locanaH* = well, reddened, eyes;
 But on seeing me crowned his eyes were reddened in anger, and he arrested all my
 ministers as he spoke rudely. [4-9-22b, 23a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**21:** “Then I was consecrated (tato 'haṃ... abhiṣecitaḥ) by them assembled together (taiḥ samāgamya sametaiḥ); and while I was justly governing that kingdom of his (rājyaṃ praśāsatas tasya nyāyato mama), O Rāghava,
+
+**22:** “that Vānara returned after slaying the Dānava foe (ājagāma ripuṃ hatvā dānavaṃ sa tu vānaraḥ); and seeing me consecrated (abhiṣiktaṃ tu māṃ dṛṣṭvā), his eyes bloodshot with rage (krodhāt saṃraktalocanaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1046,6 +1170,12 @@ towards; *na praavartata* = not, disposed to.
 And oh, Raghava, though I was capable enough to counter him, my reason was
 controlled by my esteem to brotherhood, and I was indisposed to commit that sin of defying
 brotherhood. [4-9-23b, 24a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“—after binding my ministers (madīyān mantriṇo baddhvā), he spoke harsh words (paruṣaṃ vākyam abravīt); and though I was capable of restraining that sinful one (nigrahe ca samarthasya taṃ pāpaṃ prati), O Rāghava,
 </details>
 </details>
 
@@ -1097,6 +1227,14 @@ satisfied, inner self; *aashiSaH na uktaaH ca* = blessings, not, said, even.
 He that brother of mine entered the capital thus on destroying the enemy, and I
 hailed him as usual while respecting that audacious soul, but his inner self is unsatisfied and I
 remained unblest. [4-9-24b, 25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**24:** “my mind, held in check by reverence for my elder brother (bhrātṛgauravayantritā), did not incline toward it (na prāvartata me buddhiḥ). Having slain the foe, that brother of mine then entered the city;
+
+**25:** “honoring that great-souled one (mānayaṃs taṃ mahātmānam), I saluted him according to rule (yathāvac cābhivādayam); yet no blessings were uttered by him (uktāś ca nāśiṣas tena) with a pleased inner soul (prahṛṣṭenāntarātmanā).
 </details>
 </details>
 
@@ -1157,6 +1295,12 @@ Vali showed no quarter towards me." So said Sugreeva to Rama. [4-9-25]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद ऒम्भत्तनॆय सर्ग सम्पूर्णवायितु.॥9॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bowing low, I touched his two feet with my diadem (natvā pādāv ahaṃ tasya mukuṭenāspṛśaṃ prabho), O lord; yet out of wrath toward me (mama krodhāt), Vālin showed no grace (na prasādaṃ cakāra saḥ).”
 </details>
 </details>
 

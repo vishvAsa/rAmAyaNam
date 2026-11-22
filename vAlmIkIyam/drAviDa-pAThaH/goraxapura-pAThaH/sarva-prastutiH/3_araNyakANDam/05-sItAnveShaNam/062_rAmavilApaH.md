@@ -80,6 +80,12 @@ righteous...' Then *mahaabaahuu* denotes that he is wailing raising his long arm
 *kamala locana* is indicative of redness of lotuses, thus his eyes are reddening by his
 wailing.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not beholding Sītā (sītām apaśyan), the righteous-souled (dharmātmā), mighty-armed, lotus-eyed Rāma, his mind overwhelmed by grief (śokopahata-cetanaḥ), lamented aloud (vilalāpa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -137,6 +143,12 @@ Here the poet is starting the sixth phase among the ten phases called
 'non-indulgence, the ambivalence, the ambiversion...' of the romantic hero, in romantic epical
 poetry.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tormented by love (manmathārditaḥ) and seeming to behold Sītā even while not seeing her (paśyann iva ca tāṃ sītām apaśyan), Rāghava uttered speech hard to articulate because of his lamentation (vilāpāśraya-durvacam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +201,12 @@ presently became tormentors. [3-62-3]
 
 We may recount the idea reg. Ashoka flowers expressed at 3-60-17.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O beloved (priye), who art exceedingly fond of flowers (puṣpa-priyatarā), thou concealest thy body with the boughs of the aśoka tree (aśokasya śākhābhiḥ), heightening my sorrow (mama śoka-vivardhanī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,6 +255,12 @@ you are [inapt].
 have lapped them in grovy banana plants, but I can distinguish which is which, thus now I caught
 sight of them, oh, lady, you are inapt at least to cover them from me. [3-62-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I see both thy thighs (ūrū paśyāmi te), O lady (devi), which resemble plantain stems (kadalī-kāṇḍa-sadṛśau) and are screened by the plantain tree; thou art unable to conceal [thyself] (nāsi śaktā nigūhitum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -278,6 +302,12 @@ really.
 "Oh, lady, you are facetiously glorying in the boscage of fully bloomed Karnikaara
 trees which is really wafting worry to me, rather than the fragrance of those flowers oh, glorious
 lady, enough, enough is this facetiousness of yours. [3-62-5]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Laughing (hasantī), O auspicious lady (bhadre), O queen, thou betakest thyself to the karṇikāra grove (karṇikāra-vanam). Enough of thy jesting (alaṃ te parihāsena), which brings me distress (mama bādhāvahena)!
 </details>
 </details>
 
@@ -340,6 +370,12 @@ aahuH gR^ihiNii gR^iham ucyate | gR^iham tu gR^ihiNii hiinam araNyam sadR^ishama
 is there, otherwise it amounts to a forest...' 'a house to the householder is a void, if the housewife
 is not there...'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Especially in a hermitage precinct (āśrama-sthāne), such jesting is not commended (hāso 'yaṃ na praśasyate); yet I know thy nature (avagacchāmi te śīlam), O beloved, which is fond of jesting (parihāsa-priyam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -387,6 +423,12 @@ well, easily, coming] = returning; *hi* = indeed.
 "Oh, Lakshmana, very evidently demons have either gorged up Seetha, or perhaps
 abducted her, because she is not returning to me who am whiny indeed for her. [3-62-7b, 8a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Come forth, O wide-eyed one (viśālākṣi); this leaf-hut of thine is empty (śūnyo 'yam uṭajas tava)!” [Then turning to Lakṣmaṇa:] “Clearly (suvyaktam), Sītā has either been devoured or carried off by rākṣasas (bhakṣitā vā hṛtāpi vā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -432,6 +474,12 @@ deer, mobs of; *me deviim* = my, lady is; *rajaniicaraiH* = by nightwalkers;
 
 "Indeed these teary-eyed mobs of deer look as if to explain that nightwalkers have
 gluttonised my lady. [3-62-8b, 9a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For she does not approach (na... upasampraiti) me as I lament (vilapantam), O Lakṣmaṇa! These herds of deer (mṛga-yūthāni), with tears in their eyes (sāśru-netrāṇi), O Lakṣmaṇa,
 </details>
 </details>
 
@@ -484,6 +532,12 @@ ha, chastely lady; *vara varNini* = oh, best, complexioned one; *haa* = ha;
 complexioned lady, now the ambition of my queen mother Kaikeyi will be fulfilled, as I breath my
 last owing to your straying... [3-62-8b, 9a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Seem to declare to me (śaṃsantīva hi me) that the queen has been devoured by night-roamers (rajanī-caraiḥ). Alas, O my noble lady (hā mamārye), whither hast thou gone? Alas, O chaste lady of fairest complexion (vara-varṇini)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,6 +584,12 @@ Ayodhya; *shuunyam* = empty; *mama antaH puram* = my, inside, palace
 
 "I have come to forests with Seetha and have to go back to Ayodhya without Seetha.
 How, in all but name, can I step into an oblivion called my palace-chambers? [3-62-9b, 10a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Alas, O queen, today Kaikeyī will have her wish fulfilled (sakāmādya kaikeyī... bhaviṣyati) regarding me, when I, who went forth together with Sītā (sītayā saha niryātaḥ), return without Sītā (vinā sītām upāgataḥ)!
 </details>
 </details>
 
@@ -579,6 +639,12 @@ leading - regarding abduction; *me* = my; *kaataratvam* = timidity [ineptitude];
 indeed be self-evident, for Seetha is led away from me by some tactical being... [3-62-10b,
 11a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How indeed shall I enter (kathaṃ nāma pravekṣyāmi) my empty inner apartments (śūnyam antaḥ-puram)? The world will call me (loko māṃ... vakṣyati) both valorless (nirvīrya iti) and pitiless (nirdayaś ceti)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -625,6 +691,12 @@ adhipam* = Mithila's, king; *janakam* = to Janaka; *niriikshitum* = to gaze at
 "When the king of Mithila Janaka asks after the wellbeing of all the three of us
 after the completion of forest living, how do I have the face to stand him? [3-62-11b, 12a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For through the carrying off of Sītā (sītāpanayanena), my cowardice (kātaratvam) is made manifest (prakāśam)! And when my forest-exile is completed (nivṛtta-vanavāsaś ca), [how shall I face] Janaka, lord of Mithilā (mithilādhipam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -670,6 +742,12 @@ goes under; *nuunam* = it is definite.
 
 "On seeing me without Seetha the king of Videha will be distraught by the perishing
 of his daughter, and he defiantly goes under the preponderance of perplexity... [3-62-12b, 13a]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How shall I be able to look upon him (kathaṃ śakṣye nirīkṣitum) as he inquires after our welfare (kuśalaṃ paripṛcchantam)? Surely the king of Videha (videha-rājaḥ), beholding me bereft of her (dṛṣṭvā virahitaṃ tayā),
 </details>
 </details>
 
@@ -719,6 +797,12 @@ it must be comforting to one and all under his rulership, but not to me as Seeth
 me... else if, that end of my life occurs now and if I were to go to heaven, even that heaven will
 be a void to me without her... I believe so... [3-62-13b, 14a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Scorched with grief over his daughter's ruin (sutā-vināśa-saṃtaptaḥ), will fall under the sway of delusion (mohasya vaśam eṣyati)! Or else I shall not go (athavā na gamiṣyāmi) to the city ruled by Bharata (purīṃ bharata-pālitām);
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -766,6 +850,12 @@ it.
 "Hence, Lakshmana, you go back to that auspicious city Ayodhya forsaking me in
 forests, because I have no existence without Seetha, isn't it! [3-62-14b, 15a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For even heaven (svargo 'pi hi), bereft of her (tayā hīnaḥ), is deemed utterly empty by me (śūnya eva mato mama). Therefore, leaving me here in the forest (mām utsṛjya hi vane), go thou to the auspicious city of Ayodhyā (ayodhyā-purīṃ śubhām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -811,6 +901,12 @@ thus; *raameNa anuGYaataH asi* = by Rama, authorised, you are.
 
 "On tightly hugging Bharata you shall tell him these words as I have said, 'Rama
 authorises you to reign the earth...' [3-62-16]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For without that Sītā (tāṃ vinā sītām), I could by no means live (na... jīveyaṃ hi kathaṃcana). Having tightly embraced him (gāḍham āśliṣya), Bharata should be spoken to by thee in my words (vācyo mad-vacanāt tvayā):
 </details>
 </details>
 
@@ -866,6 +962,14 @@ justifiably you tell them my good bye, and you as the one who effectuates whatev
 you, you have to effortfully protect my mother Kausalya by doing whatever she says. [3-62-17b,
 18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**17:** “‘Thou art permitted by Rāma (anujñāto 'si rāmeṇa): rule thou the earth (pālayeti vasuṃdharām)!’ And my mother Kaikeyī, and Sumitrā, O lord (vibho),
+
+**18:** “And Kausalyā should be saluted according to propriety (yathā-nyāyam abhivādyā) at my command (mamājñayā), and she [Kausalyā] should be protected with care (rakṣaṇīyā prayatnena) by thee, who actest upon good counsel (sūkta-cāriṇā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -911,6 +1015,12 @@ perish; *tvayaa* = by you; *jananyaa* = to mothers; *vistareNa* = in detail;
 
 "Oh, the subjugator of unfriendly, Lakshmana... you shall clearly inform in detail
 about this perish of Seetha, also that of mine, to our mothers. [3-62-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And this ruin of Sītā and of myself (sītāyāś ca vināśo 'yaṃ mama ca), O slayer of foes (amitra-sūdana), should be reported in detail by thee (vistareṇa... vinivedyas tvayā bhavet) to my mother (jananyā me).”
 </details>
 </details>
 
@@ -979,6 +1089,12 @@ looming large on them. [3-62-20]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद अरण्यकाण्डदल्लि अरवत्तॆरडनॆय सर्ग सम्पूर्णवायितु. ॥62॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the wretched Rāghava lamented thus (iti vilapati rāghave tu dīne) after coming to the forest without that fair-haired lady (tayā vinā sukeśyā), Lakṣmaṇa too, his face distraught with fear (bhaya-vikala-mukhaḥ), became anguished in mind (vyathita-manāḥ) and sorely afflicted (bhṛśam āturo babhūva).
 </details>
 </details>
 

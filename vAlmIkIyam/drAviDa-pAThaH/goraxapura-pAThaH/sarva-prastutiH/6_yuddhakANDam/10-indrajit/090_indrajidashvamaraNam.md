@@ -69,6 +69,12 @@ all the monkey-chiefs, Vibhishana, Hanuma and Jambavan applaud Lakshmana.
 Indrajit, the demon, who was endowed with extraordinary energy, standing on the
 ground his horses having been killed; was very much enraged and blazed with spirit.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those two—the man [Lakṣmaṇa] and the Rākṣasa [Indrajit]—locked in combat (prasaktau) and fighting one another like two rutting tuskers (prabhinnāv iva mātaṅgau), each eager for victory over the other,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +117,12 @@ Those two warriors, holding their bows, having an extreme intent to kill each ot
 with their arrows, were like two excellent elephants going out in the forest for the purpose of
 conquering one over the other.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+that valiant and mighty brother of Rāvaṇa [Vibhīṣaṇa], bearing an excellent bow (vara-cāpa-dharo), stood at the forefront of the battle (saṃgrāma-mūrdhani), desirous of beholding their duel.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +162,12 @@ destroying; *anyonyam* = each other; *na jahuH* = did not desert; *bhartaaram*
 
 Those demons and monkeys, rushing from all sides, destroying each other, did not
 desert their masters in battle.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, taking his stand firmly (avasthitaḥ), he twanged his great bow (mahad dhanuḥ) and loosed sharp-tipped, mighty shafts among the Rākṣasas.
 </details>
 </details>
 
@@ -197,6 +215,12 @@ spoke; *idam vacham* = the following words:
 Applauding and causing rejoice to all the demons and even feeling delighted himself,
 Indrajit then spoke the following words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those well-aimed (samāhitāḥ) arrows, fiery of touch (śikhi-saṃsparśāḥ), falling upon the Rākṣasas, drove them to flight—even as thunderbolts (vajrāṇīva) rend great mountains.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +262,12 @@ enemy.
 "These quarters are wrapped on all sides with abundant darkness. O foremost of
 demons! It can not be identified at this time whether one belongs to one's own army or an
 enemy.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa's followers too—foremost of Rākṣasas (rākṣasottamāḥ)—hewed down the heroic Rākṣasas in battle with pikes, swords, and halberds (śūlāsi-paṭṭiśaiḥ).
 </details>
 </details>
 
@@ -303,6 +333,14 @@ such a way; *yathaa* = that; *ime* = these; *duraatmanaH* = evil-minded;
 "You act in such a way so that these evil-minded monkeys do not carry on their fight
 (with me) while enter the city."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** Surrounded by those Rākṣasas [his four counselors], Vibhīṣaṇa then shone like a lordly tusker (dvipaḥ) in the midst of spirited young elephant calves (kalabhānām iva).
+
+**7:** Then that foremost of Rākṣasas [Vibhīṣaṇa], knower of the opportune hour (kālajño), urging on (saṃcodamāno) the monkeys who delighted in slaying Rākṣasas, spoke these timely words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -342,6 +380,12 @@ City of Lanka; *ratha hetoH* = for the sake of another chariot.
 
 Thus speaking, Indrajit the annihilator of enemies, having deceived the monkeys,
 entered the City of Lanka for the sake of getting anther chariot.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This one alone [Indrajit] stands left as the supreme mainstay (parāyaṇam) of the lord of Rākṣasas; he is the sole remainder (etac-cheṣaṃ) of his host—why do you stand idle, O lords of monkeys?
 </details>
 </details>
 
@@ -393,6 +437,14 @@ furnished with darts, swords and arrows, yoked with excellent horses, directed b
 could understand those horses properly and could give credible instructions to them, that Indrajit,
 a conqueror in battle, who was endowed with extraordinary energy, then ascended it.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** When this wicked Rākṣasa is slain at the forefront of battle (raṇa-mūrdhani), the entire remainder of his army—save Rāvaṇa himself—is already slain!
+
+**10:** The heroic Prahasta has been slain, and Nikumbha of mighty strength, and Kumbhakarṇa, and Kumbha, and the night-stalker (niśācaraḥ) Dhūmrākṣa;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -439,6 +491,12 @@ forth; *nagaraat* = from the city.
 That valiant Indrajit, surrounded by troops of principal demons and incited by the
 force of destiny, sallied forth from the city.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Jambumālī, Mahāmālī, Tīkṣṇavega, Aśaniprabha, Suptaghna, Yajñakopa, and the Rākṣasa Vajradaṃṣṭra;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -484,6 +542,12 @@ force of destiny, sallied forth from the city.
 
 Moving out form the City with his swift horses, that indrajit, the destroyer of
 valiant enemies, attacked Lakshmana and Vibhishana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saṃhrādī, Vikaṭa, Arighna, Tapana, and Manda as well, Praghāsa, Praghasa, Prajaṅgha, and Jaṅgha too—
 </details>
 </details>
 
@@ -535,6 +599,12 @@ laaghavaat* = with alacrity; *tasya dhiimataH* = of the intelligent Indrajit.
 Seeing Idnrajit seated in the chariot, Lakshmana, the mighty monkeys and Vibhishana
 the demon then were very much surprised on recalling the alacrity of the intelligent Indrajit.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+unassailable (durdharṣo) Agniketu, valorous Raśmiketu, Vidyujjihva, Dvijihva, and the Rākṣasa Sūryaśatru;
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -581,6 +651,12 @@ also; *paatayaamaasa shatashaH* = struck down hundreds; *atha* = and;
 The enraged Indrajit also struck down hundreds and thousands of monkey-chiefs by
 using a multitude of arrows in the battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Akampana, Supārśva, and the Rākṣasa Cakramālī, Kampana, and those two mighty ones (sattvavantau), Devāntaka and Narāntaka.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -620,6 +696,12 @@ kR^iddhaH raavaNiH* = that enraged Indrajit; *samitimjayaH* = the conqueror in b
 
 Stretching his bow to a circle, that enraged Indrajit the conqueror in battle,
 exhibiting supreme agility, began to kill the monkeys.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain these many Rākṣasa champions of exceeding might, and having swum across the ocean with your bare arms (bāhubhyāṃ sāgaraṃ tīrtvā), leap now across this trifling cow's hoofprint (goṣpadaṃ laghu)!
 </details>
 </details>
 
@@ -667,6 +749,12 @@ iva* = as people; *prajaapatim* = would seek refuge in Brahma the lord of creati
 Thus being killed by steel arrows, those monkeys of terrible prowess sought refuge
 in Lakshmana, as people would take refuge in Brahma the Lord of Creation.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+This much alone [Indrajit] remains to be vanquished by you, O Vānaras; all the Rākṣasas flushed with strength (bala-darpitāḥ) who came forth to battle have been slain.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -706,6 +794,12 @@ his bow.
 
 Then, blazing with hostile anger, Lakshmana, showing his agility of hand, tore
 Indrajit's bow.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+It is unseemly (ayuktaṃ) for me to compass the death of the son of my own brother (janitur mama); yet casting aside compassion (ghṛṇām apāsya) for Rāma's sake, I would slay even my brother's son.
 </details>
 </details>
 
@@ -752,6 +846,12 @@ tadapi* = that bow also of indrajit; *tribhiH baaNaiH* = with three arrows.
 
 Hurriedly, he took another bow and made it ready. Lakshmana tore that bow too of
 Indrajit with three arrows.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When I wish to strike him down (hantukāmasya me), tears (bāṣpaṃ) obstruct my sight; therefore this mighty-armed Lakṣmaṇa alone shall dispatch (śamayiṣyati) him.
 </details>
 </details>
 
@@ -800,6 +900,12 @@ serpentine poison.
 Thereupon, Lakshmana struck that Indrajit, whose bow was torn, on his chest with
 five arrows which were deadly like a serpentine poison.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+‘O Vānaras, band together (sambhūya) and slay the retainers standing beside him (bhṛtyān asya samīpagān)!’—thus exhorted by that illustrious Rākṣasa [Vibhīṣaṇa],
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -846,6 +952,12 @@ huge red serpents.
 Those arrows, released from that great bow, penetrating through Indrajit's body,
 fell to the ground like huge red serpents.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+the monkey lords rejoiced (jahṛṣire) and lashed their tails (lāṅgūlāni ca vivyadhuḥ); and then those tigers among monkeys, roaring battle-cries (kṣveḍantaś ca) again and again, sent forth manifold shouts like peacocks beholding rainclouds (meghān dṛṣṭveva barhiṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -887,6 +999,12 @@ stronger (than the earlier bow).
 Ejecting blood from his month, that Indrajit, who had his bow torn, took hold of his
 excellent bow with the bow-string firmly fastened and which was stronger than the earlier bow.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Jāmbavān too, surrounded by all those troop-mates of his (svayūthyair abhisaṃvṛtaḥ), [charged forth], and with boulders, claws, and fangs they battered the Rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -927,6 +1045,12 @@ streaming forth the rain.
 
 Employing utmost agility, Indrajit, aiming at Lakshmana, streamed forth a shower of
 arrows, as Indra the lord of celestials streaming forth the rain.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Casting off fear, those Rākṣasas of great might, wielding weapons of many kinds (anekavidhāyudhāḥ), surrounded the lord of bears (ṛkṣādhipatiṃ) as he was slaughtering them.
 </details>
 </details>
 
@@ -974,6 +1098,12 @@ to be resisted; *muktam* = released; *indrajitaa* = by Indrajit.
 Lakshmana the annihilator of enemies coolly warded off the shower of arrows released
 by Indrajit, though it was most difficult to resist.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With shafts, sharp battle-axes (paraśubhis tīkṣṇaiḥ), halberds, staffs, and lances (yaṣṭi-tomaraiḥ), they struck Jāmbavān in battle even as he was smiting the Rākṣasa host.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1014,6 +1144,12 @@ that; *abhuut* = was; *adbhutamiva* = marvelous indeed.
 Lakshmana with great splendor, remaining unperplexed, then showed his prowess to
 Indrajit, which was marvelous indeed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That tumultuous clash (samprahāras tumulaḥ) of monkeys and Rākṣasas arose with a dread, mighty roar, like that of wrathful gods and Asuras.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1040,6 +1176,12 @@ Indrajit, which was marvelous indeed.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु अत्यन्त कुपितनागि शीघ्र अस्त्र सञ्चलनॆय तन्न कलॆयन्नु प्रदर्शिसुत्ता प्रतियॊब्ब राक्षसर शरीरदल्लि मूरु मूरु बाणगळन्नु ऎसॆदु गायगॊळिसिदनु हागू राक्षस पुत्र इन्द्रजितुविगू बाणसमूहगळिन्द प्रहरिसिदनु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān too, filled with wrath, uprooted a śāla tree from the mountain; and having himself set Lakṣmaṇa down from his back (pṛṣṭhād avaropya), that high-souled one,
 </details>
 </details>
 
@@ -1084,6 +1226,12 @@ Getting extremely enraged, Lakshmana then pierced all those demons who stood in 
 battle-field with three arrows each, showing his speed in discharging missiles and also struck
 Indrajit with an array of arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+unassailable (durāsādaḥ), wrought a slaughter (kadanaṃ cakre) of the Rākṣasas by the thousands. Meanwhile, mighty Indrajit, having waged tumultuous combat with his paternal uncle (pitṛvyasya) [Vibhīṣaṇa],
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1125,6 +1273,12 @@ sharaan* = several arrows; *lakShmanaaya* = for Lakshmana.
 
 That Indrajit, who was struck by the enemy, who was mighty destroyer of enemies,
 released several arrows unhindered towards Lakshmana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+that slayer of hostile heroes (paravīraghnaḥ) rushed once more against Lakṣmaṇa; and those two heroes—Lakṣmaṇa and the Rākṣasa—joined fierce battle (prayuddhau) on the field.
 </details>
 </details>
 
@@ -1182,6 +1336,12 @@ with sharp arrows. The virtuous Lakshmana eliminated the head of the charioteer 
 chariot-warrior, in the battle with an arrow called Bhalla which was looking curved at its
 nodes.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Showering floods of arrows (śaraughān abhivarṣantau), those two mighty warriors struck each other and continually concealed one another (antardadhatuḥ) behind networks of shafts,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1228,6 +1388,12 @@ wonderful indeed.
 
 Those horses, bereft of a charioteer there, without getting perturbed, ran up in a
 circular fashion and continued to draw the chariot. The scene looked wonderful indeed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like the moon and the sun veiled by clouds at the close of summer (uṣṇānte), swift in their courses (tarasvinau). Neither the drawing [of arrows from the quiver] (ādānaṃ), nor the nocking (saṃdhānaṃ), nor the shifting grip upon the bow (dhanuṣo vā parigrahaḥ),
 </details>
 </details>
 
@@ -1278,6 +1444,12 @@ pierced (them); *sharaiH* = with arrows.
 Getting the power of anger, Lakshmana of unyielding prowess, pierced the horses of
 Indrajit with arrows, so as to frighten them thereby.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+nor the loosing (vipramokṣo) of shafts, nor the drawing of the bowstring (vikarṣo), nor the archer's stance (vigrahaḥ), nor the locking of the fist (muṣṭi-pratisaṃdhānaṃ), nor the hitting of the mark (lakṣya-pratipādanam)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1317,6 +1489,12 @@ act; (of Lakshmana); *raNe* = in battle; *raavaNasya sutaH* = Indrajit;
 
 Getting impatient with that act of Lakshmana in battle, Indrajit struck that enraged
 Lakshmana with ten arrows.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+could be perceived (adṛśyata) as those two fought there, owing to the lightness of their hands (pāṇi-lāghavāt); and because of the networks of arrows (bāṇa-jālaiḥ) shot on every side with the speed of their bows,
 </details>
 </details>
 
@@ -1367,6 +1545,14 @@ Those arrows of Indrajit, equal to thunderbolts and deadly as serpentine poison,
 having reached Lakshmana's armour with a golden hue, got destroyed.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** when the sky became completely filled (antarikṣe 'bhisampanne), no forms (rūpāṇi) shone forth visibly. As Lakṣmaṇa closed with Rāvaṇa's son and Rāvaṇa's son closed with Lakṣmaṇa,
+
+**33:** a fierce confusion (avyavasthā bhavaty ugrā) arose in their mutual combat (anyonya-vigrahe); and by the sharp shafts loosed with impetuous force (tarasā) by both of them,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1428,6 +1614,14 @@ delight in battle; *shushubhe* = shone; *parvataH iva* = like a mountain;
 With those three arrows planted in his forehead, Lakshmana who was fond of fighting,
 shone like a mountain with its three peaks, in the battle-field.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**34:** the sky became devoid of any gap (nirantaram ivākāśaṃ), shrouded in darkness; and by those many hundreds of whetted arrows of theirs falling thick and fast,
+
+**35:** the cardinal points and intermediate quarters (diśaś ca pradiśaś caiva) became choked with shafts (śara-saṃkulāḥ), and all was wrapped in darkness, exceedingly terrifying (pratibhayaṃ mahat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1478,6 +1672,12 @@ Thus tormented in battle by Indrajit the demon, that Lakshmana then quickly
 stretching the bow, pierced him in return with five arrows, in battle, in Indrajit's face holding
 beautiful ear-rings.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the thousand-rayed sun (sahasrāṃśau) had gone to its setting and all was enveloped in darkness, great rivers of blood (rudhiraughā mahānadyaḥ) flowed forth by the thousands.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1525,6 +1725,12 @@ arrows.
 Lakshmana Indrajit, the heroes endowed with extraordinary might and armed with very
 strong bows and possessing terrible prowess, struck each other with distinctly pointed arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fierce carrion-eaters (kravyādā dāruṇā) sent forth dreadful howls (bhīma-niḥsvanān) with their cries; at that hour neither did the wind blow (na vavau vāyuḥ) nor did fire blaze forth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1571,6 +1777,12 @@ kimshukau iva* = like Kimshuka trees in blossom.
 Those two warriors, Lakshmana and Indrajit, with both their bodies stained in blood,
 shone in the battle-field at that time, like Kimshuka trees in blossom.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May it be well with the worlds (svasty astu lokebhyaḥ)!” murmured those great sages (maharṣayaḥ), and the distressed Gandharvas together with the Cāraṇas hastened (sampetuś cātra) there.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1610,6 +1822,12 @@ all the others limbs; *ghoraiH baaNaiH* = with dreadful arrows.
 
 Those two archers, with their minds directed towards victory, met each other and
 pierced their opponent in all limbs with dreadful arrows.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Sumitrā's son [Lakṣmaṇa] pierced with four shafts the four black, gold-decked (kanaka-bhūṣaṇān) steeds of that lion among Rākṣasas.
 </details>
 </details>
 
@@ -1660,6 +1878,12 @@ baaNaiH* = with three arrows.
 Then, Indrajit, filled with martial anger, struck Vibhishana in his auspicious face,
 with three arrows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Next, with another yellow (pītena), whetted bhalla shaft, drawn full to the ear and loosed (sampūrṇāyata-muktena), fair-feathered and resplendent (suvarcasā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1706,6 +1930,12 @@ with three arrows.
 Having struck Vibhishana, the leader of demons, with three arrows, Indrajit struck
 all those monkey chiefs with a single arrow each.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+like unto the thunderbolt of Mahendra (mahendrāśani-kalpena)—with that arrow-thunderbolt (bāṇāśaninā) reverberating with the slap of the bowstring against the arm-guard (tala-śabdānunādinā),
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1751,6 +1981,12 @@ evil-minded Indrajit; *gadayaa* = with his mace.
 
 Very much enraged with him, that Vibhishana of great splendor killed the horses of
 that evil-minded Indrajit with his mace.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+glorious Rāghava [Lakṣmaṇa], with swiftness of hand (lāghavād), swept the head of the charioteer (sūtasya) from his trunk as he was about to wheel about (vicariṣyataḥ). When his driver was slain (yantari hate), that son of Mandodarī of mighty splendor—
 </details>
 </details>
 
@@ -1800,6 +2036,12 @@ Just leaping down from the chariot whose charioteer was destroyed earlier and wh
 horses were killed, that Indrajit of great splendor employed his javelin towards his maternal
 uncle.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+himself performed the charioteer's task (svayaṃ sārathyam akarot) and again grasped his bow; that feat of charioteering (sārathyaṃ) was a marvel to those beholding it in battle.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1839,6 +2081,12 @@ uncle.
 
 Seeing that Javelin rushing towards Vibhishana, Lakshmana tore it into ten pieces
 with his sharp arrows and felled it on the floor.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whenever his hands were occupied with the steeds (hayeṣu vyagra-hastaṃ), [Lakṣmaṇa] pierced him with whetted shafts; and whenever he was occupied again with his bow (dhanuṣy atha punar vyagraṃ), [Lakṣmaṇa] loosed arrows into his steeds.
 </details>
 </details>
 
@@ -1890,6 +2138,12 @@ thunder-bolt; *urasi* = into the bossom; *tasmai* = of Indrajit;
 The strong bodied Vibhishana, in anger, dug five arrows, whose impact was a hard as
 that of a thunder-bolt, into the bosom of Indrajit, whose horses were already killed.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through those openings (chidreṣu teṣu), Sumitrā's son, swiftest in action (śīghrakṛttamaḥ), harried (ardayāmāsa) him with floods of arrows in battle as he maneuvered as though fearless (abhītavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1937,6 +2191,12 @@ serpents.
 Having penetrated his body, those arrows which were provided with golden feathers,
 went straight into their target, got stained with blood and appeared like red large serpents.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding his charioteer slain in battle, Rāvaṇa's son abandoned his martial ardor (prajahau samarodharṣaṃ) and became dejected (viṣaṇṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1977,6 +2237,12 @@ Death.
 
 Enraged with his paternal uncle, that Indrajit, standing in the midst of demons,
 took hold of an excellent arrow earlier presented by Yama the lord of Death.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the Rākṣasa with downcast face (viṣaṇṇa-vadanaṃ), the monkey troop-leaders then rejoiced exceedingly (parama-saṃhṛṣṭā) and acclaimed Lakṣmaṇa.
 </details>
 </details>
 
@@ -2024,6 +2290,12 @@ also; *mahaatejaa* = of great splendor; *bhiima paraakramaH* = and terrible prow
 Seeing that great arrow seized by him, Lakshmana also, of great splendor and
 terrible prowess, took hold of another arrow.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then four lords of monkeys—Pramāthī, Rabhasa, Śarabha, and Gandhamādana—brooking it not (amṛṣyamāṇāḥ), made an impetuous rush (cakrur vegaṃ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2066,6 +2338,12 @@ celestials.
 That arrow had been presented to him, in the course of a dream, by Kubera the god of
 riches, of immense glory himself, which was difficult to be conquered and much more difficult to be
 tolerated even for gods and demons including Indra the lord of celestials.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Springing up swiftly (tūrṇam utpatya), those monkeys of exceeding valor and dread prowess landed (nipetuḥ) upon his four foremost steeds (haya-mukhyeṣu caturṣu).
 </details>
 </details>
 
@@ -2114,6 +2392,12 @@ curlew-cranes.
 Stretched with strength by their arms, which resembled a pair of steel rods, emitted
 a piercing sound like that of a pair of curlew-cranes.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounted (adhiṣṭhitānāṃ) by those mountain-like monkeys, the steeds spewed bright blood (rudhiraṃ vyaktaṃ) from their mouths.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2160,6 +2444,12 @@ a piercing sound like that of a pair of curlew-cranes.
 The excellent arrows fitted and pulled out from their excellent bow by those heroes,
 blazed very much with splendour.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crushed and broken (mathitā bhagnā), those lifeless (vyasavo) steeds collapsed to the earth; and having slain his steeds and smashed his great chariot (pramathya ca mahāratham), those [four monkeys] sprang back with speed and stood at Lakṣmaṇa's side (lakṣmaṇa-pārśvataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2203,6 +2493,12 @@ sollided with each other; *ojasaa* = powerfully.
 Those arrows, released from the bow, making the sky shine and hitting each other
 face to face, collided each other powerfully.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaping down (avaplutya) from his chariot whose steeds were slain and whose driver was crushed (mathita-sārathiḥ), Rāvaṇa's son rushed against Sumitrā's son with a shower of arrows (śara-varṣeṇa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2243,6 +2539,12 @@ fierce.
 
 The collision of those arrows of terrible form broke out a fierce fire comprising of
 smoke and sparkles.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that Lakṣmaṇa, peer of Mahendra (mahendra-pratimaḥ), with masses of arrows (bāṇa-gaṇaiḥ) fiercely rent (vyadārayat) him as he fought on foot (padātinaṃ)—his finest steeds having been slain (nihatair hayottamaiḥ)—even as he loosed whetted, foremost shafts in battle.
 </details>
 </details>
 

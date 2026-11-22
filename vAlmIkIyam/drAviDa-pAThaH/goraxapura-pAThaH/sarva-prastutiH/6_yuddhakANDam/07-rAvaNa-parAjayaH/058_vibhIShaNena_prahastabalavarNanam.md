@@ -71,6 +71,12 @@ into myriad pieces and dies. All the other demons abandon the battle-field and r
 Seeing Prahasta setting out with a martial ardour, Rama the conqueror of enemies,
 smiling, spoke to Vibhishana as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Prahasta sallying forth, intent on battle (raṇa-kṛtodyamam), Rāma, the tamer of foes (ariṃdamaḥ), spoke with a gentle smile (sa-smitam) unto Vibhīṣaṇa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -113,6 +119,12 @@ very huge body; *aagachchhati* = coming; *mahaavegaH* = with great speed;
 
 "Who is he with a very huge body, coming with a great speed along with a large army?
 O, the mighty armed! Tell me about this strong demon."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who is this warrior of colossal stature (su-mahā-kāyaḥ), surrounded by a mighty host (balena mahatā vṛtaḥ), who approaches with such great impetuosity (mahā-vegaḥ)? Of what form, strength, and valor is he?”
 </details>
 </details>
 
@@ -171,6 +183,14 @@ Hearing Rama's words, Vibhishana replied as follows "He is guarded by two-thirds
 the army of Lanka. He is a demon of prowess, skilled in the use of mystic weapons and valiant. He
 is the demon named Prahasta, the Army general of Ravana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**3:** “Tell me, O mighty-armed one (mahā-bāho), of this valiant night-stalker (vīryavantaṃ niśā-caram)!” Hearing the words of Rāghava, Vibhīṣaṇa replied in answer:
+
+**4:** “This night-stalker is that generalissimo (senā-patiḥ) of the lord of Rākṣasas in Laṅkā, Prahasta by name, encompassed by a third part of the army (tri-bhāga-bala-saṃvṛtaḥ)—valiant, skilled in missiles (astra-vit), heroic, and of celebrated prowess (su-prakhyāta-parākramaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,6 +227,14 @@ is the demon named Prahasta, the Army general of Ravana."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आगले महाबलशालि वानरर विशाल सेनॆयू भयानक पराक्रमि, भीषणरूपधारी, महाकाय प्रहस्तनु भारी गर्जिसुत्ता लङ्कॆयिन्द बन्दुदन्नु नोडितु. अवनु असङ्ख्य राक्षसरिन्द परिवृतनागिद्दनु. अवनन्नु नोडुत्तले वानर सैन्यदल्लियू महाकोलाहलवागि, प्रहस्तन कडॆगॆ नोडुत्ता वानररु गर्जिसतॊडगिदरु.॥5-6॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**5:** Then, [beholding] the terrible Prahasta of dreadful valor (bhīma-parākramam) marching forth, roaring aloud, of immense stature, and surrounded on all sides by Rākṣasas—
+
+**6:** The vast army of the mighty Vānaras, filled with rising clamor (abhisaṃjāta-ghoṣāṇām) and roaring back in defiance at Prahasta (prahastam abhigarjatām), beheld him.
 </details>
 </details>
 
@@ -269,6 +297,14 @@ Swords, lances, daggers, darts, spears, clubs, maces bars, barbed missiles, vari
 kinds of axes and different bows glittered in the hands of demons, who were running up towards the
 monkeys and seeking victory.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** Swords, darts, lances, and pikes (khaḍga-śakty-ṛṣṭi-śūlāś ca), arrows and clubs (bāṇāni musalāni ca), maces, iron bludgeons, javelins, and diverse battle-axes (vividhāś ca paraśvadhāḥ)—
+
+**8:** And variegated bows (dhanūṃṣi ca vicitrāṇi), grasped firmly by the Rākṣasas eager for victory (jayaiṣiṇām) as they rushed against the Vānaras, shone brightly (arājanta).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,6 +354,12 @@ burning to fight; *jagR^ihuH* = seized; *paadapaamshchaapi* = trees;
 The monkeys who were burning to fight took hold of trees in flower, rocks and lofty
 and thick stones.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eager to fight (yoddhu-kāmāḥ), the leaping monkeys (plavaṃgamāḥ) for their part seized flowering trees (pādapāṃś cāpi puṣpitān), mountain crags, and broad, long boulders (śilāś ca vipulā dīrghāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -365,6 +407,12 @@ bombardment of stones.
 As they approached each other, a very great battle arose between those combatants
 who showered down a hail of arrows and a bombardment of stones.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As those multitudes encountered one another (anyonyam āsādya), raining down a shower of stones and a torrent of arrows (aśma-vṛṣṭiṃ ca śara-varṣaṃ ca varṣatām), a tremendous battle arose (saṃgrāmaḥ sumahān abhūt).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -411,6 +459,12 @@ pungavaan* = excellent monkeys; *bahavaH* = and many; *vaanaraaH* = monkeys;
 In that battle, many of the demons killed several excellent monkeys and several
 monkeys killed many of the demons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In that battle, many Rākṣasas struck down many foremost Vānaras (bahūn vānara-puṅgavān), and many Vānaras in turn slew many Rākṣasas (nijaghnur bahavo bahūn).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -456,6 +510,12 @@ bars; *kechit* = and some; *chhinnaaH* = were slit parashvadhaiH = by axes.
 
 Some monkeys were smashed by spears and some others by finer weapons. Some were
 struck by iron bars and some others were slit by axes.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some were crushed by pikes (śūlaiḥ pramathitāḥ), others by supreme missiles (paramāyudhaiḥ); some were battered by iron bludgeons (parighair āhatāḥ), and others were cleft apart by battle-axes (chinnāḥ paraśvadhaiḥ).
 </details>
 </details>
 
@@ -505,6 +565,12 @@ them; *vibhinna hR^idayaaH* = with their hearts split asunder.
 
 Yet again, some fell breathlessly on the ground and some were destroyed by the
 arrows aimed at them with their hearts splits asunder.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some fell lifeless and breathless (nirucchvāsāḥ) upon the surface of the earth (jagatī-tale); others, their hearts cleft asunder (vibhinna-hṛdayāḥ), were finished off by the aiming of arrows (iṣu-saṃdhāna-sādhitāḥ).
 </details>
 </details>
 
@@ -556,6 +622,12 @@ with (the strokes of) swords; *shuuraiH raakSasaiH* = by the powerful demons;
 Cut into two with the strokes of swords by those powerful demons, some monkeys,
 trembling, fell on the earth, their sides torn open.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Some, cloven in two by swords (dvidhā kṛtāḥ khaḍgaiḥ), fell writhing (sphurantaḥ) to the ground; and Vānaras were ripped open in their flanks (pārśvataś ca vidāritāḥ) by heroic Rākṣasas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -601,6 +673,12 @@ trembling, fell on the earth, their sides torn open.
 
 Even the flock of demons on all sides were crushed on to the earth by the furious
 monkeys with tree and mountain-peaks.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And on all sides, multitudes of Rākṣasas (rākṣasaughāḥ) were crushed (sampiṣṭāḥ) upon the surface of the earth with trees and mountain peaks by the infuriated Vānaras.
 </details>
 </details>
 
@@ -650,6 +728,12 @@ Having been administered thundering slaps with their hands and terrific blows wi
 their fists, the faces and eyes of demons were were lacerated. The demons vomited plenty of blood
 from their months.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck violently (hatā bhṛśam) by hands and fists whose palms had the impact of thunderbolts (vajra-sparśa-talair hastair muṣṭibhiś ca), they vomited blood from their mouths (vaman śoṇitam āsyebhyaḥ), their teeth and eyes shattered (viśīrṇa-daśanekṣaṇāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -695,6 +779,12 @@ from their months.
 
 A tumultuous clamour arose among monkeys and demons, as cries of pain and leonine
 roars were bellowed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From those uttering cries of agony (ārta-svanaṃ ca svanatām) and those roaring lion-roars (siṃha-nādaṃ ca nardatām), there arose a tumultuous uproar (tumulaḥ śabdaḥ) of both monkeys and Rākṣasas.
 </details>
 </details>
 
@@ -743,6 +833,12 @@ courage.
 The monkeys and the demons with anger, following the path of heroes, with their
 cruel and hostile eyes, accomplished their deeds with great courage.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged Vānaras and Rākṣasas, devoted to the path of heroes (vīra-mārgam anuvratāḥ), fierce and with rolling countenances (vivṛtta-vadanāḥ), performed feats of valor fearlessly (cakruḥ karmāṇy abhītavat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -788,6 +884,12 @@ Prahasta's companins; *ete sarve* = all these demons; *jaghnuH* = killed;
 
 Narantaka Kumbhahanu, Mahanada and Samunnata all these companions of Prahasta killed
 the monkeys.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Narāntaka, Kumbhahanu, Mahānāda, and Samunnata—all these lieutenants of Prahasta (prahasta-sacivāḥ) slew the forest-dwellers (jaghnur vanaukasaḥ).
 </details>
 </details>
 
@@ -836,6 +938,12 @@ monkeys.
 Dvivida, with a mountain-peak, struck down Narantaka, the one among them who was
 rushing upon quickly and killing the monkeys.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As they swooped down swiftly (teṣāṃ nipatatāṃ śīghram) and slaughtered the Vānaras, Dvivida struck down one of them—Narāntaka—with a mountain peak (giri-śṛṅgeṇa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -882,6 +990,12 @@ drumam* = a very large tree; *apothayat* = and crushed; *samunnatam* = Samunnata
 The ape Durmukha on his part, with a ready hand, uprooted a very large tree and
 crushed the demon Samunnata.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkey Durmukha, rising up again (punar utthāya) with a massive tree (sa-vipula-drumam), crushed the swift-handed Rākṣasa Samunnata (samunnatam apothayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -927,6 +1041,12 @@ chest-region; *mahaanaadasya* = of Mahanada.
 
 The energetic Jambavan with a great fury seized a huge rock and threw it on the
 chest-region of Mahanada.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And the glorious Jāmbavān, fiercely enraged (su-saṃkruddhaḥ), seized a huge boulder (pragṛhya mahatīṃ śilām) and hurled it down upon the chest of Mahānāda (mahānādasya vakṣasi).
 </details>
 </details>
 
@@ -975,6 +1095,12 @@ discharged; *sadyaH* = soon; *praaNaan* = his lives.
 Then, the valiant Kumbhahanu there in the battle, having attacked the General Tara,
 who was armed with a huge tree, received a blow immediately cost him his life.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the valiant Kumbhahanu, encountered there by Tāra (tāreṇāsādya), was instantaneously made to surrender his life-breaths in battle (sadyaḥ prāṇān saṃtyājayad raṇe) by a gigantic tree.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1021,6 +1147,12 @@ of the monkeys.
 
 Not tolerating the aforesaid act, Prahasta having occupied his chariot with bow in
 hand, caused a terrible havoc among the monkeys.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unable to brook that deed (amṛṣyamāṇas tat karma), Prahasta, mounted on his chariot (ratham āsthitaḥ) with bow in hand (dhanuṣ-pāṇiḥ), wrought a dreadful slaughter (cakāra kadanaṃ ghoram) of the forest-dwellers.
 </details>
 </details>
 
@@ -1069,6 +1201,12 @@ hand, caused a terrible havoc among the monkeys.
 Then, with the rapid movement of both the armies, there arose of clamour resembling
 the roar of an unfathomable and tempestuous ocean in a time of dissolution.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then there arose a whirlpool-like eddy (āvarta iva saṃjajñe) between the two armies, and a roar like that of the agitated, unfathomable ocean (kṣubhitasyāprameyasya sāgarasyeva niḥsvanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1114,6 +1252,12 @@ of arrows; *paramaahave* = in that great combat.
 
 The demon Prahasta, who was hard to be subdued in battle, with full of anger,
 tormented the monkeys by an immense avalanche of arrows in that great combat.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fiercely enraged in that supreme battle, the Rākṣasa [Prahasta], ferocious in war (raṇa-durmadaḥ), tormented the Vānaras with a mighty flood of arrows (mahatā hi śaraugheṇa).
 </details>
 </details>
 
@@ -1161,6 +1305,12 @@ very extensive area; *medinii* = of the ground; *samvR^itaa* = was covered;
 By the frightening corpses of monkeys and demons, appearing like hideous mountains,
 a very extensive area of the ground is covered.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The earth, heaped high (aticitā) with the bodies of Vānaras and Rākṣasas, appeared as though covered with terrible mountains (ghoraiḥ parvatair iva saṃvṛtā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1206,6 +1356,12 @@ maasi iva* = as in the month of spring; *samchhannaa* = when covered; *puSpitaiH
 
 That ground, covered by the stream of blood, shone as in the month of spring when
 overspread fully with the bloossoming crimson-coloured Palasa flowers.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Covered over with floods of blood (rudhiraugheṇa pracchannā), that earth shone brightly (samprakāśate), as though overspread in the spring month of Vaiśākha with blossoming Palāśa trees (palāśair iva puṣpitaiḥ).
 </details>
 </details>
 
@@ -1297,6 +1453,20 @@ by cowards, visited by water-fowls at the end of the rainy season, those demons 
 the monkeys crossed over that impassable river, as elephants lead their herds across a lake that
 the lotuses have covered with pollen.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**29:** [Prahasta set flowing a river] having heaps of slain heroes for its banks (hata-vīraugha-vaprām), shattered weapons for its great trees (bhagnāyudha-mahā-drumām), floods of blood for its vast waters (śoṇitaugha-mahā-toyām), and coursing toward the ocean of Yama (yama-sāgara-gāminīm)—
+
+**30:** Having livers and spleens for its deep mire (yakṛt-plīha-mahā-paṅkām), scattered entrails for its water-moss (vinikīrṇāntra-śaivalām), severed trunks and heads for its fishes (bhinna-kāya-śiro-mīnām), and dismembered limbs for its grassy shoals (aṅgāvayava-śādvalām).
+
+**31:** [That battlefield-river] was thronged with vultures as its noblest swans (gṛdhra-haṃsa-varākīrṇām), frequented by herons and cranes (kaṅka-sārasa-sevitām), overspread with fat as its foam (medaḥ-phena-samākīrṇām), and resounding with the groans of the distressed as its thunderous roar (ārta-stanita-niḥsvanām)—
+
+**32:** That river formed of the battlefield (yuddha-bhūmi-mayīṃ nadīm), impassable for cowards (kāpuruṣa-dustārām), resembled a river at the end of the rainy season (ghanāpāye) frequented by swans and cranes.
+
+**33:** Those Rākṣasas and foremost monkeys crossed over that impassable river (terus tāṃ dustarāṃ nadīm), just as leaders of elephant herds (gaja-yūthapāḥ) ford a lotus-pond dusted with lotus-pollen (padma-rajo-dhvastāṃ nalinīm).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1344,6 +1514,12 @@ swiftly.
 Then, Nila saw Prahasta who was employing a multitude of arrows sitting in the
 chariot and annihilating the monkeys swiftly.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Nīla beheld Prahasta standing upon his chariot (syandane sthitam), pouring forth floods of arrows (sṛjantaṃ bāṇaughān) and violently scattering (vidhamantam) the leaping monkeys with impetuous force (tarasā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1370,6 +1546,12 @@ chariot and annihilating the monkeys swiftly.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 प्रचण्ड वायुवु आकाशदल्लि महामेघमण्डलवन्नु भिन्न भिन्नमाडि हारिसिबिडुवन्तॆये नीलनु बलवन्तवागि राक्षसर सैन्यवन्नु संहरिसतॊडगिदनु. इदरिन्द युद्धरङ्गदल्लि राक्षसर सैन्यवु पलायन माडितु. सेनापति प्रहस्तनु तन्न सैन्यद इन्तह दुरवस्थॆयन्नु नोडि, अवनु सूर्यनन्तह तेजस्वी रथदिन्द नीलन मेलॆ आक्रमण माडिदनु.॥35½॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like the wind risen aloft in the sky (uddhūta iva vāyuḥ khe) [scattering] a massive host of clouds by force (mahad abhra-balaṃ balāt), Prahasta, commander of the army, beholding [Nīla] rushing forward in battle (abhidrutaṃ yuddhe)—
 </details>
 </details>
 
@@ -1414,6 +1596,12 @@ Seeing Nila who was running towards him in the battle-field, as a rocking wind i
 the sky rushes towards a large massive clouds, Prahasta the Army general attacked Nila himself with
 his chariot having the sun's colour.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Charged straight toward Nīla (nīlam evābhidudruve) in his chariot bright as the sun (rathenāditya-varṇena); and drawing his bow in that supreme battle, he, the foremost of bowmen (dhanvināṃ śreṣṭhaḥ)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1454,6 +1642,12 @@ great battle.
 
 That Prahasta the Army General, who was excellent among the wielders of bow, drew
 the bow-string and hurled the arrows towards Nila in that great battle.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prahasta, commander of the army, discharged arrows at Nīla (nīlāya vyasṛjad bāṇān); and those well-aimed shafts (viśikhāḥ samāhitāḥ), reaching Nīla and piercing right through him (vinirbhidya)—
 </details>
 </details>
 
@@ -1497,6 +1691,14 @@ pierced (him); *jagmuH* = and fell; *mahiim* = on the earth.
 Those arrows with a great speed resembling furious snakes employed by Prahasta
 proceeded towards Nila, pierced him and fell on the ground.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**38:** Entered the earth with tremendous velocity (mahīṃ jagmur mahā-vegāḥ) like enraged serpents (roṣitā iva pannagāḥ). Struck by sharp arrows resembling blazing fire (niśitair jvalanopamaiḥ), Nīla—
+
+**39:** That valiant and mighty monkey uprooted a tree (vṛkṣam utpāṭya) and struck Prahasta (prahastaṃ tāḍayām āsa), who was rushing at him, supremely hard to assail (parama-durdharṣam āpatantam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1539,6 +1741,12 @@ uprooted; *vR^ikSam* = a tree; *taaDayaamaasa* = and thumped; *tam prahastam*
 That great ape of prowess Nila, who was struck by sharp arrows resembling flames,
 uprooted a tree and thumped it on the descending Prahasta who was most difficult to be
 assaulted.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck by him, that bull among Rākṣasas (rākṣasa-puṃgavaḥ), roaring in fury (kruddho nardan), rained down showers of arrows (vavarṣa śara-varṣāṇi) upon the commander of the leaping monkeys (plavaṃgānāṃ camū-patau).
 </details>
 </details>
 
@@ -1610,6 +1818,14 @@ Like a bull standing under a sudden autumnal down-pour, so under that intolerabl
 and sudden rain of darts released by Prahasta, Nila endured with closed eyes though it was scarce
 to be endured.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** Unable to ward off (apārayan vārayitum) those multitudes of arrows of that evil-souled Rākṣasa, [Nīla] received them with closed eyes (pratyagṛhṇān nimīlitaḥ), just as a bull (go-vṛṣaḥ) [receives] a suddenly arriving autumnal downpour (varṣaṃ śāradaṃ śīghram āgatam).
+
+**42:** Even so did Nīla, his eyes closed (nimīlitākṣaḥ), suddenly endure (sahasā sehe) the irresistible showers of Prahasta's arrows, hard to withstand (śara-varṣān durāsadān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1656,6 +1872,12 @@ horses; *mahataa saalena* = by a huge sala tree.
 The exceedingly strong and the great Nila, enraged over the volley of darts, killed
 Prahasta's horses by hurling a huge Sala tree on them.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed by that shower of arrows (roṣitaḥ śara-varṣeṇa), the great and mighty Nīla (mahān nīlaḥ mahā-balaḥ) struck down Prahasta's horses (prajaghāna hayān) with a huge Sāla tree (sālena mahatā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1696,6 +1918,12 @@ punaH* = again and again.
 
 Thereafter the greatly enraged Nila quickly broke the bow of Prahasta the
 evil-minded demon and shouted again and again.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, his soul filled with wrath (roṣa-parītātmā), Nīla forcibly shattered the bow of that evil-souled demon (dhanus tasya durātmanaḥ babhañja tarasā) and roared again and again (nanāda ca punaḥ punaḥ).
 </details>
 </details>
 
@@ -1743,6 +1971,12 @@ mace; *avapupluve* = leapt down; *syandanaat* = from the chariot.
 Deprived of his bow, Prahasta the leader of the army, seizing a formidable mace,
 leapt down from the chariot.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rendered bowless by him (vidhanuḥ sa kṛtas tena), Prahasta, commander of the army, seized a terrible mace (pragṛhya musalaṃ ghoram) and leaped down from his chariot (syandanād avapupluve).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1789,6 +2023,12 @@ standing; *kuN^jarau iva* = like two elephants; *prabhinnau* = in rut.
 Those two army-chiefs, who were courageous and in whom enmity had sprung up, with
 their limbs covered with blood, wee standing like two elephants in rut.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those two impetuous chiefs of the two armies (tāv ubhau vāhinī-mukhyau), their hostility aroused (jāta-vairau tarasvinau), stood with their limbs drenched in blood (sthitau kṣataja-siktāṅgau) like two rutting elephants (prabhinnāv iva kuñjarau)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1816,6 +2056,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 इब्बरू तम्म कॊरॆदाडॆगळिन्द कटकटनॆ कडियुत्ता परस्पर गायगॊळिसुत्तिद्दरु. अवरिब्बरू सिंह मत्तु हुलियन्तॆ शक्तिशालिगळागिद्दु विजयक्कागि प्रयत्निसुत्तिद्दरु.॥47॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tearing at each other with exceedingly sharp fangs (ullikhantau sutīkṣṇābhir daṃṣṭrābhir itaretaram), resembling a lion and a tiger (siṃha-śārdūla-sadṛśau) and moving like a lion and a tiger (siṃha-śārdūla-ceṣṭitau)—
 </details>
 </details>
 
@@ -1860,6 +2106,12 @@ heroes; *anivartinau* = and those who did not flee; *samareSu* = in battles; (th
 Lion and tiger in gait, lion and tiger in gestures, those two warriors tore each
 other with their shap teeth. Vanquishers of other heroes and intrepid combatants, both of them,
 thirsting for fame, resembled Vritra and Indra.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Two heroes victorious through valor (vikrānta-vijayau vīrau), never retreating in battles (samareṣv anivartinau), eager to win glory (kāṅkṣamāṇau yaśaḥ prāptum) like Vṛtra and Vāsava (vṛtra-vāsavayor iva).
 </details>
 </details>
 
@@ -1907,6 +2159,12 @@ blood; *susraava* = oozed = tataH = from his forehead.
 Then, that Prahasta exerting himself well struck Nila on his forehead with a mace
 and blood oozed from his forehead.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exerting his utmost strength (paramāyattaḥ), Prahasta then struck Nīla upon the forehead with his mace (ājaghāna tadā nīlaṃ lalāṭe musalena saḥ), and blood gushed forth from him (tataḥ susrāva śoṇitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1952,6 +2210,12 @@ it; *urasi* = on the chest-region; *prahastasya* = of Prahasta.
 
 Whereupon, that great ape, his limbs smeared with blood, seized a huge tree and
 struck Prahasta full in his chest with fury.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then that great monkey, his limbs smeared with blood (śoṇita-digdhāṅgaḥ), seized a huge tree in fury (pragṛhya ca mahā-tarum kruddhaḥ) and hurled it against Prahasta's chest (prahastasyorasi visasarja).
 </details>
 </details>
 
@@ -1999,6 +2263,12 @@ Nila; *balinam* = the strong; *plavaN^gamam* = monkey.
 Ignoring that blow, he seized a huge mace and ran in strength towards Nila the
 strong monkey.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disregarding that blow (tam acintya prahāram), he seized a massive mace (pragṛhya musalaṃ mahat) and rushed violently (abhidudrāva balāt) against the mighty leaping monkey Nīla (balinaṃ nīlaṃ plavaṅgamam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2044,6 +2314,12 @@ strong monkey.
 
 Seeing Prahasta of terrible velocity briskly rushing towards him, Nila the great
 monkey took a huge rock swiftly.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding him rushing forward in furious rage with terrible speed (tam ugra-vegaṃ saṃrabdham āpatantaṃ samprekṣya), the great monkey of impetuous speed (mahā-vegaḥ) then seized a huge boulder (jagrāha mahā-śilām).
 </details>
 </details>
 
@@ -2091,6 +2367,12 @@ fighting with a mace; *mR^idhe* = in the battle.
 Nila quickly hurled that rock on the head of Prahasta who was longing for war and
 fighting with a mace in the battle.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As that mace-fighter Prahasta (musala-yodhinaḥ prahastasya) longed for battle in the fray (yuddhābhikāmasya mṛdhe), Nīla swiftly hurled that boulder down upon his head (śilāṃ nīlo mūrdhni tūrṇam apātayat).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2130,6 +2412,12 @@ Prahasta's; *shiraH* = head; *bahudhaa* = into myriad pieces.
 
 Then, that huge and terrific rock hurled by Nila the leader of the monkeys broke
 Prahasa's head into myriad pieces.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hurled by Nīla, the chief of monkeys (nīlena kapi-mukhyena vimuktā), that terrible, massive boulder (mahatī śilā ghorā) shattered Prahasta's head into many fragments (bibheda bahudhā prahastasya śiras tadā).
 </details>
 </details>
 
@@ -2177,6 +2465,12 @@ the root.
 
 That Prahasta who lost his breath, was disfigured and dead, bereft of his senses and
 at once fell on the ground like a tree cut up by the root.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bereft of life-breath, bereft of splendor, bereft of strength, and bereft of senses (sa gatāsur gata-śrīko gata-sattvo gatendriyaḥ), he fell suddenly to the ground like a tree severed at the root (chinna-mūla iva drumaḥ).
 </details>
 </details>
 
@@ -2242,6 +2536,12 @@ forth; *sumahaakaayam* = with his very huge body.
 That huge and powerful army of monkeys, who began to emit cries of defiance with
 fury, thereupon saw the terrible Prahasta of formidable exploits coming forth towards them.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From him whose head was shattered (vibhinna-śirasas tasya), blood flowed in abundance (bahu susrāva śoṇitam), and from his body too it streamed like a mountain cascade (gireḥ prasravaṇaṃ yathā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2288,6 +2588,12 @@ army; *raakSasaanaam* = of demons; *ahR^iSTaanaam* = disconsolated;
 Thier leader having been slain by Nila that unshakable and large army of demons,
 becoming disconsolated, withdrew to Lanka.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Prahasta was slain by Nīla (hate prahaste nīlena), that unshakable, mighty army (tad akampyaṃ mahā-balam) of joyless Rākṣasas (rākṣasānām ahṛṣṭānām) retreated to Laṅkā (laṅkām abhijagāma ha).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2327,6 +2633,12 @@ firmly there; *salilam yathaa* = any more than water; *samaasaadya* = on reachin
 
 Thier chief of Army having been killed, those demons could not continue to stand
 firmy there, any more than water on reaching a breached bridge.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Now that their army-commander was slain (nihate vāhinī-patau), they could no longer stand their ground (na śekuḥ samavasthātum), like water dispersed upon reaching a breached dam (setu-bandhaṃ samāsādya viśīrṇaṃ salilaṃ yathā).
 </details>
 </details>
 
@@ -2399,6 +2711,14 @@ experienced; *prahR^iSTa ruupaH* = supreme joy.
 
 The triumphant Nila, however, was honoured by Rama and Lakshmana for his task well
 accomplished and experienced supreme joy.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**59:** When that chief of the army was slain (hate tasmiṃś camū-mukhye), those Rākṣasas, their exertion gone (nirudyamāḥ), went to the palace of the lord of Rākṣasas and fell into brooding silence (dhyāna-mūkatvam āgatāḥ); plunged into a fierce ocean of grief (prāptāḥ śokārṇavaṃ tīvram), they became as though unconscious (visaṃjñā iva te 'bhavan).
+
+**60:** Then the victorious and mighty troop-leader Nīla (nīlo vijayī mahā-balaḥ yūthapaḥ), praised for his noble deed (praśasyamānaḥ sukṛtena karmaṇā), met with Rāma together with Lakṣmaṇa (sametya rāmeṇa sa-lakṣmaṇena) and became filled with supreme delight (prahṛṣṭa-rūpas tu babhūva).
 </details>
 </details>
 

@@ -74,6 +74,12 @@ the princess; *uttaram* = about the future.
 for you, I, who was in a haste to go, was spoken to again by Seetha the princess about the further course
 of action."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, O tiger among men, as I was hastening to depart (sasambhramam), I was addressed once more in reply (uttaram... punar uktaḥ) by the queen, after she had honoured me (anumānya ca) out of love for you (tava snehāt) and out of noble friendship (sauhārdāt):”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +129,12 @@ in battle; *yathaa tathaa* = and as to how; *maam aapnuyaat* = he can get me bac
 "Rama, the son of Dasaratha, is to be informed by you thus in several ways, for quickly
 killing Ravana in battle and also as to how he can get me back."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Thus in manifold ways (bahuvidham) must Rāma, son of Daśaratha, be spoken to by you, so that he may swiftly recover me (yathā māṃ prāpnuyāc chīghram) after slaying Rāvaṇa in battle (hatvā rāvaṇam āhave)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -169,6 +181,12 @@ samvR^ite deshe* = in a secret place; *gamiSyasi* = you can go; *shvaH* = tomorr
 " 'O hero the annihilator of enemies! If you deem it fit, stay for a day in a secret
 place. You can go tomorrow after taking rest'."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Or if you think fit (yadi vā manyase), O hero, O tamer of foes, stay for a single day (vasaikāham) in some secluded spot (kasmiṃścit saṃvṛte deśe); having rested (viśrāntaḥ), tomorrow you shall go (śvo gamiṣyasi)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -213,6 +231,12 @@ presence; *asya mama shoka vipaakasya vimokSaNam* = the termination of my full-f
 
 "'O the valiant one! Because of your presence, the termination of my full-blown grief
 may continue for a while'."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And through your nearness (sāṃnidhyāt tava), O Vānara, for me who am so luckless (mamāpy alpabhāgyāyāḥ), there would be for a brief hour (muhūrtam) a relief from this ripening of sorrow (asya śokavipākasya... vimokṣaṇam)!’”
 </details>
 </details>
 
@@ -259,6 +283,12 @@ uncertainity; *mama praaNaamapi* = even to my life; *na sandehaH* = there is no 
 
 "'When you, the courageous one, have actually left to come back, there will be a danger
 even to my life. There is no doubt about this'."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘For when you, O valiant one, have departed (gate hi tvayi vikrānte) in order to return again (punarāgamanāya vai), my very life-breaths will be in doubt (prāṇānām api saṃdeho mama syāt)—of this there is no doubt!’”
 </details>
 </details>
 
@@ -308,6 +338,12 @@ _________________
 
 "'The sorrow born of your disappearance will further torment me, who is overtaken by
 one sorrow after another, miserable and doomed to grief as I am'."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And the grief born of not beholding you (tavādarśanajaḥ śokaḥ) will torment me all the more (bhūyo māṃ paritāpayet)—me who am overwhelmed by sorrow after sorrow (duḥkhād duḥkhaparābhūtām), destitute (durgatām), and fated to misery (duḥkhabhāginīm)!’”
 </details>
 </details>
 
@@ -376,6 +412,14 @@ two princes; *tariSyanti* = can cross; *duSpaaram* = the insurmountable; *mahoda
 "'How indeed can those troops of monkeys and bears or Rama and Lakshmana can cross that
 great insurmountable ocean?'"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**7:** “‘Moreover, O hero, this very great doubt (ayaṃ... saṃdehaḥ... sumahān) stands, as it were, before me (tiṣṭhatīva mamāgrataḥ) concerning your allies, the monkeys and bears (tvatsahāyeṣu haryṛkṣeṣu), O lord of monkeys:’”
+
+**8:** “‘How indeed (kathaṃ nu khalu) will those armies of monkeys and bears (tāni haryṛkṣasainyāni), or those two sons of the foremost of men (tau vā naravarātmajau), cross over the great ocean so hard to pass (duṣpāraṃ... mahodadhim)?’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -424,6 +468,12 @@ _________________
 
 "'Three beings viz. Garuda the eagle, or yourself or the wind-god only have the capacity
 of crossing this ocean'."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Among all beings, three alone (trayāṇām eva bhūtānām) possess the power to leap across this ocean (sāgarasyāsya laṅghane śaktiḥ syāt): Vinatā's son [Garuḍa] (vainateyasya), or the Wind-god (vāyor vā), or you yourself, O sinless one!’”
 </details>
 </details>
 
@@ -476,6 +526,12 @@ evam* = thus?; *tvam* = you; *varaH his* = are indeed excellent; *kaaryavidaam*
 which is so difficult to accomplish thus? You are indeed excellent of those who know how to accomplish
 any work'."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Therefore, in the execution of this task (asmin kāryaniryoge), so hard to surmount (duratikrame), O hero, what remedy do you see (kiṃ paśyasi samādhānam)? Speak, O foremost of those skilled in action (kāryavidāṃ vara)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -521,6 +577,12 @@ phalodayaH* = fulfillment of result; *yashasyaH* = is famous.
 
 "O Hanuma the annihilator of hostile enemies! You, as one alone, are capable of fulfilling
 this task. Your act of fulfilling this task your act of fulfilling the result is well-known."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Granted (kāmam), O slayer of hostile heroes (paravīraghna), that you alone by yourself are sufficient (tvam evaikaḥ... paryāptaḥ) for accomplishing this task; yet the triumph of your might would bring glory to you alone (yaśasyas te balodayaḥ).’”
 </details>
 </details>
 
@@ -571,6 +633,12 @@ nayet* = takes; *maam* = me; *svaam puriim* = to his city.
 ""It would result in his glory, if Rama, after killing Ravana along with his entire army,
 takes me to his city in his victory'."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘If, however, Rāma, victorious (vijayī) with all his forces (balaiḥ samagraiḥ), having slain Rāvaṇa in battle, should lead me back to his own city (svapurīṃ... nayet), that would redound to his glory (tat syād yaśaskaram)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -616,6 +684,12 @@ aham* = I; *hR^itaa* = was taken away; *vanaat* = from the forest; *rakSasaa*
 
 "'Rama ought not to take me back for fear that Ravana, in the same manner as Ravana the
 demon took me away from the forest in the absence of Rama by cheating that heroic Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Just as I was carried off from the forest by the Rākṣasa through deceit (upadhinā hṛtā) away from that hero out of fear of him (tadbhayād eva)—not in that manner ought Rāghava to act (tathā nārhati rāghavaḥ)!’”
 </details>
 </details>
 
@@ -666,6 +740,12 @@ filled; *sharaiH* = with arrows; *maam nayet* = takes me home; *tat* = that;
 If Rama, the destroyer of rival army, fills the entire Lanka with arrows and takes me
 home, it will be quite worthy of him."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘If, however, Kākutstha, the crusher of hostile armies (parabalārdanaḥ), having made Laṅkā thronged with his forces (balais tu saṃkulāṃ kṛtvā), should lead me away, that would be worthy of him (tat tasya sadṛśaṃ bhavet)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -711,6 +791,12 @@ Rama; *aahava shuurasya* = valiant in battle; *bhavet* = may exhibit; *vikraanta
 
 "For that reason, you act in such a way, that the high-souled Rama, valiant in battle,
 exhibits the prowess befitting of him."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Therefore, do you bring it about (tathā tvam upapādaya) in such a way that the valorous deed is worthy of that great-souled hero in battle (yathā tasya vikrāntam anurūpaṃ mahātmanaḥ bhavaty āhavaśūrasya)!’”
 </details>
 </details>
 
@@ -762,6 +848,12 @@ _________________
 "Hearing that appeal (of Seetha), that was somewhat good in its meaning, courteous and
 duly furnished with reasons, I gave then my remaining reply (as follows):
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having heard that speech of hers—fraught with meaning (arthopahitam), modest (praśritam), and supported by reason (hetusaṃhitam)—I then spoke my remaining words in reply (śeṣaṃ vākyam uttaram abruvam):”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -811,6 +903,12 @@ strength; *kR^ita nishchayaH* = is firmly determined; *tva arthe* = in your caus
 "'O Seetha the princess! Sugreeva, the lord of the troops of monkeys and bears, excellent
 among the monkeys and endowed with strength, is firmly determined to rescue you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘O queen, Sugrīva, lord of the armies of monkeys and bears (haryṛkṣasainyānām īśvaraḥ) and foremost of leapers (plavatāṃ varaḥ), is endowed with might (sattvasampannaḥ) and firmly resolved in your cause (tvadarthe kṛtaniścayaḥ).’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -838,6 +936,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महापराक्रमवन्तराद, महा बलशालिगळाद वानररु सुग्रीवन आज्ञॆगॆ बद्धरागिरुवरु. अवरु अवन मनस्सिनल्लि सङ्कल्प उण्टागुत्तले इल्लिगॆ आगमिसुवरु.॥18॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘At his command (tasya... nideśe) stand monkeys endowed with valor (vikramasampannāḥ), full of courage, of mighty strength, and equal to the resolve of the mind in speed (manaḥsaṃkalpasadṛśāḥ)—’”
 </details>
 </details>
 
@@ -883,6 +987,12 @@ indolent; *mahatsu karmasu* = (to perform) great tasks.
 to any place as they wish, are intensely committed to Sugreeva's command. There is no hindrance to their
 movement either in the sky or the ground or in a horizontal region between the sky and the ground. Those
 monkeys with unlimited splendour are not indolent in performing any great task."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘—whose course falters neither upward, nor downward, nor across (yeṣāṃ nopari nādhastān na tiryak sajjate gatiḥ), and who, of measureless energy (amitatejasaḥ), never flag in mighty enterprises (na ca karmasu sīdanti mahatsu)!’”
 </details>
 </details>
 
@@ -932,6 +1042,12 @@ of wind; *bhuumiH* = the earth; *pradakSiNii kR^itaa* = was circumambulated.
 "Those illustrious monkeys, proud of their strength and following the path of wind, circumambulated
 the entire earth several times."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘More than once (asakṛt) has the earth been circumambulated (pradakṣiṇīkṛtā bhūmiḥ) by those high-souled, mighty Vānaras following the pathway of the wind (vāyumārgānusāribhiḥ).’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -956,6 +1072,12 @@ the entire earth several times."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ननगिन्त हॆच्चाद पराक्रमिगळू, ननगॆ समानरादवरू, सुग्रीवन बळियल्लि अनेक वानररिद्दारॆ. आदरॆ ननगिन्त कडिमॆ पराक्रमवुळ्ळवरू यारू इल्ल.॥21॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘In Sugrīva's presence (sugrīvasaṃnidhau) there abide forest-dwellers who are superior to me and equal to me (madviśiṣṭāś ca tulyāś ca); there is none whosoever inferior to me (mattaḥ pratyavaraḥ kaścin nāsti)!’”
 </details>
 </details>
 
@@ -1001,6 +1123,12 @@ ones; *na preSyante hi* = are not sent (for errands); *itare* = other; *janaaH*
 "'In them, some of the monkeys are superior to me and some are even equal to me. No one
 in the vicinity of Sugreeva is inferior to me. When I have arrived here, why to talk about those mighty
 ones? Generally, superior ones are not sent for errands. Only others are indeed sent'."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Even I have reached this place (ahaṃ tāvad iha prāptaḥ)—how much more, then, those heroes of mighty strength (kiṃ punas te mahābalāḥ)! For the foremost are never sent as messengers; it is others who are sent (na hi prakṛṣṭāḥ preṣyante preṣyante hītare janāḥ)!’”
 </details>
 </details>
 
@@ -1051,6 +1179,12 @@ will reach; *laN^kaam* = Lanka; *eka utpaatena* = by one single leap.
 "'O Seetha the princess! Enough of your lamentation. Take away your sorrow. Those leaders
 of monkeys will reach Lanka by one single leap'."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Therefore enough of anguish (tad alaṃ paritāpena), O queen; let your dejection pass away (manyur apaitu te)! With a single leap (ekotpātena) those leaders of the monkey troops shall reach Laṅkā!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1096,6 +1230,12 @@ of monkeys will reach Lanka by one single leap'."
 
 "Rama and Lakshmana, those two lions among men, also of great strength, ascending on
 my shoulders, can come to you, like the rising sun and the moon."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And mounted upon my back (mama pṛṣṭhagatau), those two lions among men (tau... nṛsiṃhau), like the Moon and the Sun risen together (candrasūryāv ivoditau), shall come into your presence (tvatsakāśaṃ... āgamiṣyataḥ), O highly fortunate lady!’”
 </details>
 </details>
 
@@ -1146,6 +1286,12 @@ dvaaram* = the entrance gate of Lanka; *drakSyasi* = and you will see (them).
 "Rama, the annihilator of enemies, similar to a lion, and Lakshmana wielding a bow in
 his hand, will surely approach the entrance-gate of Lanka and you will see them soon."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Swiftly shall you behold (kṣipraṃ drakṣyasi) Rāghava, the lion-like slayer of foes (arighnaṃ siṃhasaṃkāśam), and bow-wielding Lakṣmaṇa (lakṣmaṇaṃ ca dhanuṣmantam), arrived at the gates of Laṅkā (laṅkādvāram upāgatam)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1191,6 +1337,12 @@ simha shaarduula vikramam* = having the prowess of lions and tigers; *vaaraNendr
 
 "'You can see soon those valiant monkeys, with their claws and tusks as weapons, having
 the prowess of lions and tigers and looking like lordly elephants, coming here together'."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Swiftly shall you behold assembled (saṃgatān) the heroic Vānaras, having claws and fangs for their weapons (nakhadaṃṣṭrāyudhān), possessing the prowess of lions and tigers (siṃhaśārdūlavikramān), and resembling lordly elephants (vāraṇendrābhān)!’”
 </details>
 </details>
 
@@ -1241,6 +1393,12 @@ shail ambudan nikaashaanaam* = like mountains and clouds.
 "'You will hear within a short time, the clamour of the excellent of monkeys resonating
 like a mountains and clouds, on the peaks of Mount Malaya in Lanka'."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘Erelong (nacirāt) shall you hear the roar (śroṣyase svanam) of the foremost monkeys, resembling mountains and thunderclouds (śailāmbudanikāśānām), bellowing (nardatām) upon the peaks of Laṅkā and Malaya (laṅkāmalayasānuṣu)!’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1286,6 +1444,12 @@ along with you; *kShipram* = soon.
 
 "'You will see Rama, the annihilator of enemies, returning from exile, and getting anointed
 to the crown in Ayodhya, along with you soon'."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“‘And swiftly shall you behold Rāghava, the tamer of foes, his forest-exile ended (nivṛttavanavāsam), consecrated (abhiṣiktam) in Ayodhyā together with you (tvayā sārdham)!’”
 </details>
 </details>
 
@@ -1352,5 +1516,11 @@ though tormented with thought of your grief, obtained peace of mind."
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे अष्टषष्टितमः सर्गः ॥ ६८ ॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें अड़सठवाँ सर्ग पूरा हुआ ॥ ६८ ॥  
 ॥ सुन्दरकाण्डं सम्पूर्णम् ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then the daughter of the king of Mithilā (maithilātmajā), who had been so sorely afflicted by excessive grief for you (tavātiśokena tathātipīḍitā), yet spoke no wretched word (adīnabhāṣiṇī), being consoled by me with auspicious and welcome words (mayā vāgbhir... śivābhir iṣṭābhir abhiprasāditā), attained peace of heart before me (uvāha śāntiṃ mama)!”
 </details>
 </details>

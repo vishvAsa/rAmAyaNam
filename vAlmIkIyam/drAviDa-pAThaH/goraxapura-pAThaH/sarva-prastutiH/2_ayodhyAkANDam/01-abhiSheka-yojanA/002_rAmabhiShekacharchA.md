@@ -66,6 +66,14 @@ Dasaratha; *evam* = thus; *uvaacha* = spoke; *hitam* = beneficial;
 Addressing invited gathering in the court, Dasaratha spoke in friendly, pleasing and
 clear terms.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**1:** Then the lord of the earth addressed the entire assembly (pariṣadaṃ sarvām) and spoke these renowned words, salutary (hitam) and inspiring supreme joy (uddharṣaṇam).
+
+**2:** With a mighty, deep, and resonant voice resembling the sound of a kettledrum (dundubhi-svara-kalpena), the king spoke, making the hall reverberate like a thundercloud (jīmūta iva nādayan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -109,6 +117,12 @@ splendid; *svareNa* = with voice; *anupamena cha* = without comparison;
 In a loud voice resembling that of a kettle-drum, resounding the air like a
 thundering cloud and in a sweet splendid and incomparable voice endowed with the characteristics of
 a king's voice, King Dasaratha the lord of men spoke to the kings as follows:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With a voice endowed with royal marks (rāja-lakṣaṇa-yuktena), charming, peerless, and suffused with emotional depth (rasa-yuktena), the lord of men addressed the monarchs:
 </details>
 </details>
 
@@ -155,6 +169,12 @@ my; *uttamam* = best; *raajyam* = kingdom; *paripaalitam* = was protected by;
 
 "It is well known that my excellent kingdom was ruled by my ancestral kings as if it
 were their son."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“It is well known to you how this foremost kingdom of mine was cherished like a son (sutavat paripālitam) by my ancestral lords of kings.”
 </details>
 </details>
 
@@ -203,6 +223,12 @@ by; *sarvaiH* = various; *ikshvaakubhiH* = descendants of ikshvaaku;
 "I have a desire that this entire land which was protected by the descendents of
 Ikshvaaku dynasty, be bestowed with goodness and the resultant happiness."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I too desire to unite with supreme welfare (śreyasā yoktum icchāmi) this entire world, which deserves happiness (sukhārham) and has been protected by all the sovereigns of the Ikṣvāku line.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +268,12 @@ Ikshvaaku dynasty, be bestowed with goodness and the resultant happiness."
 
 "Following the path established by my ancestors, I have always protected my people
 with alertness and to the best of my ability."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Following the path trodden by my ancestors (ācaritaṃ pūrvaiḥ panthānam), I too, ever sleeplessly vigilant (nityam anidreṇa), have protected the subjects to the utmost of my power (yathā-śakti).”
 </details>
 </details>
 
@@ -284,6 +316,12 @@ umbrella.
 "In conducting the kingdom for benefit of the entire people, my body became impaired
 under shade of the white umbrella."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While working for the welfare of the entire world, this body of mine has grown old (jaritam) beneath the shade of the white royal umbrella (pāṇḍurasyātapatrasya cchāyāyām).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,6 +360,12 @@ rest.
 **अनुवादः**
 
 "This body has been living for many thousands of years. Hence I desire rest."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having attained many thousands of years (varṣa-sahasrāṇi) and lived through many spans of mortal life (bahūny āyūṃṣi), I now desire rest (viśrāntim abhirocaye) for this worn-out body.”
 </details>
 </details>
 
@@ -369,6 +413,12 @@ senses; *asmi parishraantaH* = I am tired; *vahan* = of carrying.
 "This burden of worldly righteousness is very heavy. This can be sustained only by
 royal power with qualities like courage and valor. A person who has no control of senses can not
 carry this burden. I have become tired while carrying this burden of righteousness. "
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Bearing the heavy yoke of righteous governance (gurvīṃ dharma-dhuram) for the world—a yoke sustained by royal majesty and impossible to bear for those of unsubdued senses (durvahām ajitendriyaiḥ)—I am exhausted (pariśrānto 'smi).”
 </details>
 </details>
 
@@ -420,6 +470,12 @@ benefit of people.
 "I desire to take rest, entrusting the rule to my son for the benefit of the people,
 after obtaining consent from all those best Brahmans who are close to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore, having obtained the consent (anumānya) of all these assembled foremost twice-born sages, I wish to take rest after appointing my son to look after the welfare of the subjects (prajā-hite).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -465,6 +521,12 @@ after obtaining consent from all those best Brahmans who are close to me."
 
 "My eldest son Rama is equal to Devendra in valor. He is the conqueror of cities of
 enemies. He is equal to me in all qualities."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For my eldest son Rāma, the conqueror of enemy citadels (para-puraṃjayaḥ) and equal to Purandara in valour, has been born matching me in all virtues (anujāto hi māṃ sarvair guṇaiḥ).”
 </details>
 </details>
 
@@ -513,6 +575,12 @@ the realm of prince.
 "Joyfully, I shall appoint Rama, who shines like the moon together with Pushya star,
 who is the best among the protectors of righteousness and who is an excellent man, to the realm of
 prince."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Tomorrow morning (prātaḥ), I shall appoint to the office of Prince Regent (yauvarājye niyoktāsmi) that bull among men, the foremost of upholders of dharma, conjoined with the auspicious asterism Puṣya like the moon (candram iva puṣyeṇa yuktam).”
 </details>
 </details>
 
@@ -563,6 +631,12 @@ glorious; *anuruupaH* = fitting; *naathaH vai* = Lord.
 "If Rama becomes the lord, the three worlds also will have the best master. He is a
 glorious man. That Rama is the only fittest lord for the kingdom."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“That glorious elder brother of Lakṣmaṇa (lakṣmīvāṃl lakṣmaṇāgrajaḥ) is a worthy lord for you; indeed, through him as lord, even the three worlds (trailokyam api) would be supremely well-protected (nāthavattaram).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -602,6 +676,12 @@ I shall become; *gataklesaH* = devoid of difficulties.
 
 "By entrusting this kingdom to Rama, I shall be thus doing an immediate good and
 shall be devoid of difficulties."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I shall straightway unite this earth with this supreme good fortune (anena śreyasā), and by placing the burden upon that son, I shall be freed from weariness (gata-kleśaḥ).”
 </details>
 </details>
 
@@ -652,6 +732,12 @@ good; *katham vaa* = How else; *aham* = I; *karavaani* = shall do.
 "I am telling this after lot of thinking. Give consent to me if you feel this to be
 good and befitting. How else shall I do it?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If this measure which I have carefully deliberated (sādhu sumantritam) is suited to my state and beneficial, may you grant me your approval—or how else should I act?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -700,6 +786,12 @@ opposing views).
 by impartial neutral people will be distinctive and well developed through grinding of opposing
 views."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even though this is my own fond desire (mama prītiḥ), let any other salutary course be considered; for the deliberation of impartial judges (madhyastha-cintā) is distinct and yields higher truth through the friction of debate (vimardābhyadhikodayā).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -739,6 +831,12 @@ so speaking; *barhiNaH iva* = like peacocks; *nardantaH* = make sound;
 
 Those delighted kings complimented king Dasaratha so speaking with a loud applause
 as the peacocks cry in delight when they see the raining great cloud.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the king spoke thus, the delighted monarchs applauded him (pratyanandan), like peacocks (barhiṇaḥ) crying out in joy at a roaring, rain-laden thundercloud.
 </details>
 </details>
 
@@ -785,6 +883,12 @@ created; *janaughodghushhTa sannaadaH* = uproaring sound by the gathering of peo
 
 That building appeared trembling by the sweet and reverberating sound made by the
 gathering of people there with their fond uproar.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then there arose a deep, affectionate reverberation (snigdho 'nunādaḥ) impelled by joy—a thunderous acclaim raised by the multitude of people (janaughodghuṣṭa-saṃnādaḥ) that seemed to shake the very earth.
 </details>
 </details>
 
@@ -843,6 +947,14 @@ After understanding the opinion of King Dasaratha, who knew the holy and worldly
 matters, the Brahmans, important people, urban and rural citizens came to a consensus after
 discussing together and told the aged king as follows.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**19:** Fully comprehending the heart’s intent (bhāvam ājñāya sarvaśaḥ) of that monarch who knew the truth of dharma and worldly welfare, the Brāhmaṇas and army chiefs, together with the city-dwellers and country-folk,
+
+**20:** assembled to take counsel; having reached complete unanimity of mind (samatā-gata-buddhayaḥ) andweighed the matter inwardly, they spoke to the aged King Daśaratha:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -889,6 +1001,12 @@ of years; *saH* = that you; *abhishhinchasva* = inaugurate; *raamam* = Rama;
 "Oh king! You are an elderly person with thousands of years of age. Hence,
 inaugurate Rama as the ruling prince."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O lord of the earth, you have lived for many thousands of years (aneka-varṣa-sāhasraḥ) and are advanced in age; therefore, consecrate the princely Rāma as Prince Regent (yuvarājānam abhiṣiñcasva)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -928,6 +1046,12 @@ white umbrella; *yaantam* = going; *mahataa gajena* = by great elephant.
 
 "All of us want to see Rama, with long arms, the hero with great might born in the
 clan of Raghu , his face protected by a white umbrella, moving on a great elephant."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For we long to behold the mighty-armed hero of the Raghus (raghu-vīram), of great prowess, Rāma, riding forth upon a towering royal elephant with his countenance shaded by the white umbrella (chatrāvṛtānanam).”
 </details>
 </details>
 
@@ -969,6 +1093,12 @@ knowing.
 
 King Dasaratha, after hearing their words, spoke as follows as though he did not
 know their mind earlier and sought to know their true intention.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of theirs which were so dear to his own heart (manaḥ-priyam), the king, eager to draw out their inner thoughts (jijñāsuḥ), spoke these words as though he did not know:
 </details>
 </details>
 
@@ -1017,6 +1147,12 @@ present matter; *tattvataH* = truly.
 "Oh kings, I have a doubt as to why you want Raghava to be the king immediately
 after hearing my words. Inform your real opinion in this matter."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O kings, since upon merely hearing my speech you desire Rāghava as your lord, this doubt (saṃśayo 'yaṃ me) arises in me—declare this to me according to the truth (tattvataḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1063,6 +1199,12 @@ desire; *drashhTum* = to see; *mama* = my; *aatmajam* = son;
 "Why do you desire to see my son as the prince, when I am ruling this earth with
 righteousness?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“How is it that while I am ruling the earth in accordance with dharma (mayi dharmeṇa pṛthivīm anuśāsati), you desire to behold my mighty son as Prince Regent (yuvarājam)?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1108,6 +1250,12 @@ great soul; *nR^ipaH* = Oh king; *te* = your; *putrasya* = son; *santi*
 
 Those kings together with urban and rural citizens after hearing those words spoke
 to the great soul Dasaratha as follows: "Oh king! Your son Rama has many auspicious virtues".
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those high-souled monarchs, together with the city-dwellers and country-folk, replied to him: “O king, many are the auspicious virtues (kalyāṇa-guṇāḥ) that abide in your son!”
 </details>
 </details>
 
@@ -1160,6 +1308,12 @@ happiness.
 them. His qualities are equal to those of celestials. They are liked by all. They give happiness to
 all."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O lord, today we shall recount in full (kṛtsnān pravakṣyāmaḥ) the beloved, joy-inspiring virtues of that wise and godlike prince (deva-kalpasya dhīmataḥ), rich in excellences—hear them!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1199,6 +1353,12 @@ qualities; *satya paraakramaH* = having a true valor; *atiriktaH* = greater than
 
 "Oh king! Rama is equal to Devendra in heavenly qualities. He has true valor. He is
 greater than all the kings born in Ikshvaaku clan."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By his divine virtues (divyair guṇaiḥ), Rāma of unfailing prowess (satya-parākramaḥ) is equal to Śakra, and surpasses even all the monarchs of the Ikṣvāku race (ikṣvākubhyo 'pi sarvebhyo hy atiriktaḥ), O lord of the people!”
 </details>
 </details>
 
@@ -1250,6 +1410,12 @@ separation.
 "Rama is the world renowned gentleman. He is keenly interested in truth and
 righteousness. Only Rama can make both righteousness and wealth combine without separation."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Rāma is the one true man of virtue (sat-puruṣaḥ) in the world, true in his being and devoted to truth (satyaḥ satya-parāyaṇaḥ); indeed, from Rāma directly proceeds dharma together with royal prosperity (dharmaś cāpi śriyā saha).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1296,6 +1462,12 @@ righteousness. Only Rama can make both righteousness and wealth combine without 
 
 "He is equal to moon in making the people happy; equal to the earth in the quality
 of forgiveness; equal to Brihaspati in wisdom and verily to Devendra in valour."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In delighting the subjects (prajā-sukhatve) he is equal to the Moon, in qualities of forbearance to the Earth, in intellect to Bṛhaspati, and in valour visibly to Śacī’s lord Indra (sākṣāc chacīpateḥ).”
 </details>
 </details>
 
@@ -1348,6 +1520,14 @@ to his word; *shiilavaan* = Has good character; *anasuuyakaH* = has no envy;
 no envy. He has patience. He consoles those who are in troubles. He speaks good words. He has
 gratitude. He keeps senses under control."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**31:** “Knower of dharma, true to his promise (satya-saṃdhaḥ), of noble conduct, and free from envy (anasūyakaḥ), he is forgiving (kṣāntaḥ), a consoler of the distressed (sāntvayitā), gentle in speech (ślakṣṇaḥ), grateful, and of conquered senses.”
+
+**32:** “Tender-hearted (mṛduḥ), of steadfast mind (sthira-cittaḥ), ever auspicious (sadā bhavyaḥ), and unspiteful, Rāghava speaks what is pleasant to all living beings and speaks what is true (priya-vādī ca bhūtānāṃ satya-vādī ca).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1393,6 +1573,12 @@ glory; *tejascha* = splendor; *vardhate* = growing; *iha* = in this world.
 He speaks truthful and loving words to all living beings. He worships aged Brahmans endued with the
 knowledge of various sciences. By that, his name, glory and splendor are growing in this
 world."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He is a reverent attendant (upāsitā) upon aged Brāhmaṇas of vast Vedic learning (bahu-śrutānām); thereby his peerless renown (kīrtiḥ), glory (yaśaḥ), and splendour (tejaḥ) ever increase in this world.”
 </details>
 </details>
 
@@ -1448,6 +1634,12 @@ Grammar 3. Chandas or Prosody 4. Nirukta or Etymology 5. Jyautisha or Astronomy 
 branch of knowledge prescribing the ritual and giving rules for the ceremonial or sacrificial
 acts.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Skilled in all the missile-weapons of gods, asuras, and men (devāsura-manuṣyāṇāṃ sarvāstreṣu viśāradaḥ), he has duly completed the vows of Vedic learning and knows the Vedas together with their six auxiliary limbs (sāṅga-vedavit).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1488,6 +1680,12 @@ wisdom.
 
 "Rama is best in the world in the art of music. He has best relatives. He is gentle.
 He is not weak in mind. He has great wisdom."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In the science of music (gāndharve ca) the elder brother of Bharata is foremost upon the earth; of noble lineage, righteous, undepressed in spirit (adīnātmā), and of lofty intellect,”
 </details>
 </details>
 
@@ -1535,6 +1733,12 @@ victory.
 righteousness and in the science of political economy. If it is necessary to go to a battle to
 protect a village or a city, Rama goes with Lakshmana and returns home only after obtaining
 victory."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“he has been thoroughly trained by the foremost twice-born sages skilled in dharma and polity (dharmārtha-naipuṇaiḥ). Whenever he marches forth to battle for the sake of a village or a city (grāmārthe nagarasya vā)—”
 </details>
 </details>
 
@@ -1592,6 +1796,14 @@ inquires about their well being as though they were his own kinsmen, like a fath
 sons. He asks about their wives and children, about the sacred fires, about their servants and
 students, always completely as per the due order."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**37:** “—marching forth accompanied by Saumitri (saumitri-sahitaḥ), he never returns without having conquered (nāvijitya nivartate); and coming back again from battle upon an elephant or a chariot,”
+
+**38:** “he ever inquires after the welfare of the citizens (paurān kuśalaṃ paripṛcchati) as though they were his own kinsfolk (svajanavat), asking after their sons, sacred fires (agniṣu), wives, servants, and bands of pupils,”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1640,6 +1852,12 @@ thus; *vaH* = your; *shishhyaaH* = disciples; *shushruushhante* = serving;
 "Rama the best among men always asks us interrogatively thus: 'Are your disciples serving you by keenly
 performing their actions?' "
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“in full detail and in due order of rank (nikhilenānupūrvyā ca), just as a father asks after his own legitimate sons (putrān ivaurasān): ‘Do your pupils render due obedience, and are your retainers alert in their armoured duties (varmasu daṃśitāḥ)?’”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1679,6 +1897,12 @@ performing their actions?' "
 "Rama feels very sad towards afflictions of men; and feels delighted in all
 functions celebrated by people on the occasions of child birth and the like, just as their own
 father does."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Thus does Rāma, that tiger among men, ever converse with us; and in the calamities of men (vyasaneṣu manuṣyāṇām) he becomes deeply distressed (bhṛśaṃ bhavati duḥkhitaḥ),”
 </details>
 </details>
 
@@ -1738,6 +1962,14 @@ quarreling; *vaktaa* = orator; *vaachaspatiryathaa* = like Brihaspati;
 "Rama duly procures beneficent deeds. He is not interested in wrangling talks. He is
 an orator like Brihaspati by his replies and rejoinders."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**41:** “while in all their festive celebrations (utsaveṣu ca sarveṣu) he rejoices whole-heartedly like a father (piteva parituṣyati). Truth-speaking, a wielder of the mighty bow (maheṣvāsaḥ), a server of elders, and of subdued senses,”
+
+**42:** “speaking always with a gentle smile first (smita-pūrvābhibhāṣī), devoted to dharma with his whole soul, a true bestower of blessings (samyag yoktā śreyasām), he takes no pleasure in contentious wrangling (na vigṛhya-kathā-ruciḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1785,6 +2017,12 @@ and valour.
 "Rama, who enchants the world, has beautiful eyebrows. He has red and broad eyes. He
 is absolutely like the God Vishnu himself in strength, heroism and valour."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In progressive chains of reasoning (uttarottara-yuktau ca) he is an eloquent speaker like Bṛhaspati, the Lord of Speech; with shapely brows and large, coppery-red eyes (subhrūr āyata-tāmrākṣaḥ), he is like Lord Viṣṇu himself in visible form (sākṣād viṣṇur iva svayam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1830,6 +2068,12 @@ capable of; *bhoktum* = enjoying; *trailokyamapi* = even three worlds; *ekaH*
 
 "He knew the ins and outs of public administration. His senses are not afflicted by
 passion. He is capable of administering not only earth, but also the three worlds."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Delighting the whole world (lokābhirāmaḥ) by his heroism, valour, and prowess (śaurya-vīrya-parākramaiḥ), this Rāma is ever devoted to protecting the subjects, and his senses are never overpowered by passion (na rāgopahatendriyaḥ).”
 </details>
 </details>
 
@@ -1881,6 +2125,12 @@ slaying.
 "Rama's anger or mercy is not arbitrary at any time. He kills those who are to be
 slain as per rules. He is not angered at the innocent."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He is capable of ruling over even the three worlds (trailokyam api bhoktum)—how much more this earth! Never at any time is his anger or his favour in vain (nāsya krodhaḥ prasādaś ca nirartho 'sti).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1905,6 +2155,12 @@ slain as per rules. He is not angered at the innocent."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 यारु शास्त्रक्कनुसार प्राणदण्ड पडॆयलु अधिकारियागिरुवनो अवनन्नु इवनु नियम बद्धवागि वधिसि बिडुवनु. यारु शास्त्रदृष्टियिन्द अवध्यनागिरुवनो, अवन मेलॆ ऎन्दू कुपितनागुवुदिल्ल. यार मेलॆ इवनु सन्तुष्टनागुवनो अवनिगॆ हेरळ धनवन्नु कॊडुवनु.॥46॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In strict accordance with the law (niyamāt) he slays those who deserve death (vadhyān), and never rages against the innocent (avadhyeṣu na kupyati); and whomsoever he is pleased with, he joyfully endows with abundant wealth (yunakty arthaiḥ).”
 </details>
 </details>
 
@@ -1949,6 +2205,12 @@ entire people; *priitijananaiH* = which create delight; *nR^iNaam* = to humans.
 his rays, Rama shines by his qualities that are peaceful, which are enchanting and delightful to
 men."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With his self-controlled virtues (dāntaiḥ), beloved by all the subjects and generating delight in all men, Rāma shines forth like the blazing sun with its rays.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1988,6 +2250,12 @@ deities like Devendra; *naatham* = as the lord.
 
 "All people desire Rama, who is endowed with this wealth of qualities, who has true
 valour, who is equal to presiding deities like Devendra, to be their lord."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The Earth (medinī) longs for that Rāma as her sovereign lord—endowed with such virtues, of unfailing prowess, and equal to the Guardians of the World (lokapālopamam).”
 </details>
 </details>
 
@@ -2039,6 +2307,12 @@ iva* = like kaasyapa; *maariichaH* = the son of Mareechi.
 the welfare of this world. He has all the virtues befitting of a son, like Kasyapa, the son of
 Marichi."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By good fortune (diṣṭyā), O king, this son of yours, Rāghava, has been born for the welfare of all (śreyasi jātaḥ); by good fortune he is endowed with all filial virtues (putra-guṇair yuktaḥ), like Kaśyapa the son of Marīci (mārīca iva kaśyapaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2086,6 +2360,14 @@ having reputed nature; *devaasuramanushhyeshhu* = in celestials; demons and men;
 "All people in the state including those in the capital as well as those in the
 nearby and in the far off places, pray for long life, health and strength of Rama of reputed
 nature."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**50:** “For the strength, health, and long life (balam ārogyam āyuś ca) of Rāma of renowned soul (viditātmanaḥ), among gods, asuras, and men, together with Gandharvas and Nāgas,”
+
+**51:** “every person prays (āśaṃsate janaḥ sarvaḥ) throughout the kingdom and in this foremost city—both those within the palace and those without (ābhyantaraś ca bāhyaś ca), citizens and country-folk alike.”
 </details>
 </details>
 
@@ -2141,6 +2423,12 @@ renowned; *raamasya* = of Rama.
 "Both young and aged women are praying with a stable mind each morning and evening
 to all celestials, for the benefit of renowned Rama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Women both aged and young (striyo vṛddhās taruṇyaś ca), with devoutly collected minds at evening and at dawn (sāyaṃ prātaḥ samāhitāḥ), bow in worship to all the gods for the sake of the high-minded Rāma; O lord, may that prayer of theirs be fulfilled through your grace (tvat-prasādāt samṛddhyatām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2189,6 +2477,12 @@ with princely kingdom; *aayaachitam* = prayer; *teshhaam* = of those people;
 "Oh best of kings, Dasaratha ! We shall see Rama adorned with princely kingdom. Your
 son Rama has the complexion of a black lotus flower and annihilates all his enemies. Let the wish
 of the people be fulfilled by your grace."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O foremost of kings, let us behold your son Rāma, dark-blue like the blue lotus petal (indīvara-śyāmam) and the destroyer of all foes, installed in the office of Prince Regent (yauvarājya-stham)!”
 </details>
 </details>
 
@@ -2256,6 +2550,12 @@ the entire world and who is possessing the best of virtues."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऎरडनॆय सर्ग पूर्णवायितु.॥2॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O bestower of boons (varada), for our welfare you ought swiftly and joyfully to consecrate (kṣipram mudābhiṣektum arhasi) that son of yours, who resembles the God of gods (deva-devopamam), is ever devoted to the good of the entire world, and is endowed with noble munificence!”
 </details>
 </details>
 

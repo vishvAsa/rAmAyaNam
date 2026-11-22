@@ -73,6 +73,12 @@ of it, to sage [Nishaakara]; *aacacakSe* = [I have] informed.
 impracticable deed done indiscreetly by me and Jataayu and our following the Sun in red heat, as
 well..." Thus Sampaati continued his legend. [4-61-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then he recounted (ācacakṣe) to the sage all that terrible deed (dāruṇaṃ karma), hard to accomplish, rashly performed (sahasā kṛtam), and so too the following after the sun (sūryānugamanam):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +126,12 @@ elaborately, to speak on; *na shaknomi* = no, capable I am.
 protecting Jatayu, further I am haggard to descend this mountain to come to you, such I am I am
 incapable to speak on, elaborately... [4-61-2]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`O reverend one (bhagavan), my senses bewildered by shame (lajjayā cākulendriyaḥ) and through being afflicted with wounds (vraṇayuktatvāt), exhausted (pariśrāntaḥ), I am unable to speak forth my speech (vacanaṃ paribhāṣitum).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +177,12 @@ patitau* = far-away, on sky, we two fell - we flew up.
 
 "Fascinated by our arrogance and inquisitive of our relative triumphs, myself and
 Jataayu competitively flew up far-away on the sky... [4-61-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Both I and Jaṭāyus, deluded by pride (garvamohitau) out of rivalry (saṃgharṣāt), flew up into the sky from afar (dūrāt), seeking to test [each other's] valor (jijñāsantau parākramam),
 </details>
 </details>
 
@@ -212,6 +230,12 @@ us.
 
 "Before the sages on the peak of Mt. Kailash we have staked a stake that we two
 shall follow the Sun till he reaches the great westerly mountain, namely Mt. Dusk... [4-61-4]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`having bound a wager (बद्ध्वा पणम्) before the sages on the peak of Kailāsa (kailāsaśikhare): ’The sun must be followed (raviḥ syād anuyātavyaḥ) until [he reaches] the great mountain Asta (astaṃ mahāgirim).’
 </details>
 </details>
 
@@ -263,6 +287,12 @@ pR^ithak* = separately, singly; *apashyaava* = we have seen.
 townships on the surface of earth, separately and singly, in the size of a chariot's wheel...
 [4-61-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Moreover, having simultaneously reached [the sky] (yugapat prāptau), we two beheld upon the surface of the earth (mahītale) cities separately (pṛthak pṛthak), of the measure of chariot-wheels (rathacakrapramāṇāni).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -308,6 +338,12 @@ ladies; *pashyaavaH sma* = we saw; we have.
 
 "We have seen and heard instrumental music somewhere, and somewhere else tinkling of
 jewellery, and elsewhere singing of many ladies dressed in red... [4-61-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Somewhere there was the sound of musical instruments (vāditraghoṣaḥ), somewhere the tinkling of ornaments (bhūṣaṇaniḥsvanaḥ); we two beheld many women clad in red garments (raktavāsasaḥ) singing (gāyantīḥ).
 </details>
 </details>
 
@@ -358,6 +394,12 @@ shaadvala samsthitam* = that, forest, pasture [a patch of pasture,] positioned a
 "On our quick rising to the sky and abiding in solar path we have observed that a
 forest is positioned just as a patch of pasture on earth... [4-61-7]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`And having swiftly flown up (tūrṇam utpatya) into the sky, stationed in the region of the sun (ādityapadam āsthitau), we two looked down (ālokayāvaḥ) upon that forest appearing like a grassy lawn (śādvalasaṃsthitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -406,6 +448,12 @@ earth; *suutraiH samviitaa iva* = with yarn, interwoven, as with; [appeared to b
 
 "From there the earth covered with pebble like mountain heights appeared shingly,
 and interwoven with yarn like rivers the surface of the earth is thready... [4-61-8]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`The earth (bhūḥ) with its mountain-ranges (śiloccayaiḥ) was seen as though covered with pebbles (upalair iva saṃchannā), and the earth encompassed by rivers (āpagābhiḥ saṃvītā) as though by threads (sūtrair iva).
 </details>
 </details>
 
@@ -480,6 +528,14 @@ invaded us.
 "Then there bechanced an abnormal sweating, tiredness and fear, and then stupor
 invading both of us, we two underwent a severe vertigo... [4-61-10]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**9:** `And Himavān, and Vindhya, and the very great mountain Meru (meruś ca sumahāgiriḥ) shone forth on the surface of the earth like elephants in a pool of water (nāgā iva jalāśaye).
+
+**10:** `Then fierce sweat (tīvraḥ svedaḥ), and exhaustion (khedaḥ), and fear arose in us two; and delusion (mohaḥ) entered in, and thereafter a dreadful swoon (mūrcchā ca dāruṇā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -551,6 +607,12 @@ Gita, 12-5-
 The travail is for such as bend their minds / To reach th' Unmanifest.
 That viewless path / Shall scarce be trod by man bearing the flesh! - S. M. Arnold.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Neither the southern direction (yāmyā) was recognized, nor the southeastern (āgneyī), nor the western (vāruṇī); the ordered world (niyato lokaḥ) [appeared] destroyed, as if burnt by fire at the end of a cosmic age (yugānte).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -607,6 +669,14 @@ seen by us - saw the sun directly; *bhaaskaraH* = Sun; *pR^ithvii pramaaNena tul
 sight. I again tried strenuously concentrating my brainpower and sight on Sun and I have directly
 seen the Sun. Then the Sun appeared in a size equal to the earth. [4-61-12, 13]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**12:** `And my mind (manaś ca me) was struck down again, having reached the seat of my vision (cakṣuḥ prāpya tu saṃśrayam); with great effort (yatnena mahatā), fixing my mind and two eyes (manaḥ saṃdhāya cakṣuṣī) upon him—
+
+**13:** `with great effort (yatnena mahatā) the sun (bhāskaraḥ) was gazed upon again (bhūyaḥ pratilokitaḥ); the sun appeared to us two equal to the measure of the earth (tulyapṛthvīpramāṇena).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -653,6 +723,12 @@ down.
 
 "Without informing me Jataayu started to trip over the earth, and then on seeing him
 I too let myself loose from the sky... [4-61-14]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Then Jaṭāyus, without taking leave of me (mām anāpṛcchya), fell down toward the earth (nipapāta mahīm); seeing him, I swiftly cast myself down from the sky (ākāśād ātmānaṃ muktavān aham).
 </details>
 </details>
 
@@ -714,6 +790,14 @@ aashanke* = in Janasthaana, fell down, I supposed; *aham tu* = I, for my part;
 "I supposed that Jataayu as has fallen in Janasthaana, but I have fallen on Mt.
 Vindhya, as a wing-burnt and insensate eagle... [4-61-16]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**15:** `And shielded by me with my two wings (pakṣābhyāṃ ca mayā guptaḥ), Jaṭāyus was not burnt up (na pradahyata); through carelessness (pramādāt) I was scorched there while falling from the path of the wind (vāyupathāt).
+
+**16:** `I surmise (āśaṅke) that Jaṭāyus fell down in Janasthāna; I, however, fell upon Vindhya, my wings burnt off (dagdhapakṣaḥ), rendered paralyzed (jaḍīkṛtaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -772,6 +856,12 @@ valance too, such as I was I wished to fall from the mountaintop to die, in any 
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्री वाल्मीकिविरचित आर्षरामायण आदिकाव्यद किष्किन्धाकाण्डद अरवत्तॊन्दनॆय सर्ग सम्पूर्णवायितु.॥61॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+`Bereft of my kingdom (rājyāc ca hīnaḥ), and of my brother, and of my two wings, and of my valor, desiring in every way only to die (sarvathā martum eveccchan), I shall fall from the peak of the mountain (patiṣye śikharād gireḥ).'
 </details>
 </details>
 

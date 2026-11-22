@@ -63,6 +63,12 @@ brother.
 Seeing his brother lying down dead after defeat in battle, Vibhishana lamented, with
 his mind filled with an outburst of sorrow:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then there commenced between Rāma and Rāvaṇa at that time an exceedingly fierce, mighty chariot-duel (dvairathaṃ yuddham), striking terror into all the worlds.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -107,6 +113,12 @@ of turning towards lofty beds.
 "Why are you lying killed on the ground, though you are highly worthy of turning
 towards lofty beds, O hero! The valiant one, the celebrated one, prudent in polity?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the army of the rākṣasas and the mighty host of the monkeys, though holding their weapons raised (pragṛhītapraharaṇam), stood completely motionless (niśceṣṭam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +162,12 @@ as the sun; *apavR^ittena* = knocked down; (why are you lying killed on the grou
 "Having thrown about your two long arms which though decked wit armlets, are now
 motionless and with your diadem brilliant as the sun, knocked down; why are you lying killed on the
 ground/"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those two—the man and the rākṣasa—locked fiercely in battle, all of them, with their hearts wholly captivated (vyākṣiptahṛdayāḥ), were filled with supreme wonder.
 </details>
 </details>
 
@@ -202,6 +220,12 @@ very fate; *praaptam* = has been obtained (by you).
 liked by you, as you were overcome with sensuality and infatuation; that very fate has been
 obtained by you."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With their arms busied holding manifold weapons (nānāpraharaṇair vyagraiḥ) and their minds astonished, they stood gazing at the battle and did not rush against one another.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -253,6 +277,12 @@ of it; *aagataH* = has come.
 "For that which, because of arrogance, neither Prahasta nor Indrajit and others, nor
 Kumbhakarna nor Atiratha nor Narantaka nor you yourself has agreed to my counsel, the consequence
 of it has come now."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The army of the rākṣasas gazing upon Rāvaṇa, and that of the monkeys gazing upon Rāghava, with their eyes wide in wonder (vismitākṣāṇām), shone as though painted in a picture (citram iva).
 </details>
 </details>
 
@@ -323,6 +353,14 @@ departed. The epitome of strength has gone. The refuge of enlogies has gone out 
 has fallen to the earth. The moon has merged in darkness. Fire has extinguished its flames and a
 strennous effort has become inactive."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** Those two, Rāghava and Rāvaṇa, having beheld the portents (nimittāni) there, with their minds firmly resolved (kṛtabuddhī) and their wrath unshakable, fought on fearlessly.
+
+**7:** Kākutstha thinking, `I must conquer!' (jetavyam iti) and Rāvaṇa thinking, `I must die!' (martavyam iti)—both firm in resolve (dhṛtau), they displayed the uttermost fullness of their valor (svavīryasarvasvam) in battle at that time.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -365,6 +403,12 @@ in the dust?
 
 "What is remaining in this world now, while Ravana the foremost of demons, is at
 present lying fast asleep in the dust?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then out of wrath the mighty Daśagrīva fitted arrows to his bow and discharged them, aiming at the banner (dhvajam) mounted upon Rāghava's chariot.
 </details>
 </details>
 
@@ -418,6 +462,12 @@ the shape of Rama.
 "With firmness for its shoot, endurance for its excellent blossom, asceticism for
 its strength, and valour for its firm root, the large tree in the shape of Ravana has been crushed
 in the battle-field, by the tempest in the shape of Rama."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Those arrows, failing to reach that banner of Purandara's chariot (purandararathadhvajam), merely grazed the chariot's protective power (rathaśaktim) and fell to the surface of the earth.
 </details>
 </details>
 
@@ -474,6 +524,12 @@ overthrown by a lion in the shape of Rama.
 its lower parts and graciousness for its proboscis, the elephant in rut in the shape of Ravana is
 lying asleep on the ground, its body having been overthrown by a lion in the shape of Rama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon the mighty Rāma too, filled with wrath, drew his bow and resolved in his mind (manasā sampracakrame) to render counter-deed for deed (kṛtapratikṛtam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -521,6 +577,12 @@ cloud in the shape of Rama.
 strength for its glowing heat, the blazing fire in the shape of Ravana the demon has been
 extingushed in the battle-field by the rainy cloud in the shape of Rama."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aiming at Rāvaṇa's banner, he loosed a sharp arrow, unbearable as a great serpent (mahāsarpam ivāsahyam) and blazing with its own fiery energy.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -567,6 +629,12 @@ in the shape of Rama; the ruler of the earth.
 "With the demons for its tail; hump and horn and fickleness for its ears and eyes,
 the bull in the shape of Ravana the demon, the conqueror of its enemies, which vied with the wind
 in energy, is lying dead, struck down by a tiger in the shape of Rama, the ruler of the earth."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The radiant Rāma cast that shaft aiming at the standard (ketum); cleaving Daśagrīva's banner (daśagrīvadhvajam), that arrow entered the earth.
 </details>
 </details>
 
@@ -622,6 +690,12 @@ matter.
 To Vibhishana, who was thus speaking; enveloped in sorrow, Rama spoke the following
 words, full of reason and which revealed his determined view of the matter.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Severed, that chariot-banner of Rāvaṇa (rāvaṇasyandanadhvajaḥ) fell to the earth; and beholding the striking down of his banner, that mighty Rāvaṇa—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -672,6 +746,12 @@ very exalted type; *ashaNkitaH* = and remained confident (throughout).
 eventhough he was endowed with terrible prowess and exhibited extra ordinary enthusiasm of a very
 exalted type and remained confident throughout."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—blazed up fiercely out of wrath and indignation (krodhād amarṣāt), as though consuming all things; falling under the sway of fury, he rained down a shower of arrows.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -717,6 +797,12 @@ vyavasthitaaH* = while remaining steadfast in the duty of kshatriya; the warrior
 "There is no occasion to grieve for him having fallen into death in the battle-field
 and by whom the development of his country was wished for, while remaining steadfast in the duty of
 Kshatriya the warrior."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa pierced Rāma's steeds with blazing arrows; yet those celestial bay horses (divyā harayaḥ) there neither stumbled nor faltered (nāskhalan nāpi babhramuḥ).
 </details>
 </details>
 
@@ -764,6 +850,12 @@ grieve; *tasmin kaala samaayukta* = for his having been brought under the sway o
 "There is no occasion to grieve for his having been brought under the sway of death
 by whom intelligent as he was, all the three worlds including indra were frightened."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+They remained steady at heart (svasthahṛdayāḥ), as though struck merely with lotus-stalks (padmanālair ivāhatāḥ). Beholding that unruffled composure (asambhramam) of the steeds, Rāvaṇa then—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -806,6 +898,12 @@ in battle.
 
 "In the past, none has ever been exclusively victorious in a combat. A hero either
 has been killed by his adversaries or had killed the enemies in battle."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—exceedingly enraged once more, loosed a shower of arrows, as well as maces, iron clubs (parighān), discuses, and pestles (musalāni).
 </details>
 </details>
 
@@ -851,6 +949,12 @@ the ascertainment of the sacred scriptures.
 warrior killed in battle, does not deserve to be mourned. Such is the ascertainment of the sacred
 scriptures."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mountain peaks, trees, and likewise pikes and battle-axes (śūlaparaśvadhān)—he brought down that shower of weapons conjured by illusion (māyāvihitam), and thousands of arrows then, with tireless resolve in his heart (aśrāntahṛdayodyamaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -891,6 +995,12 @@ principle; *vijvaraH* = and free from grief; *iha anuchintaya* = think here of;
 
 "Therefore, seeing this ascertainment, understanding the true principle, and free
 from grief, think here of what duty that deserves to be performed."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tumultuous, terror-inspiring, dreadful, and echoing with fearful reverberations (bhīmapratisvanam), that mighty shower consisting of manifold weapons (naikaśastramayam) arose in the battle.
 </details>
 </details>
 
@@ -933,6 +1043,12 @@ his brother.
 To that valiant prince (Rama) by whom the aforesaid words were spoken, Vibhishana,
 who was tormented with grief, spoke (as follows) about the suitable action to be done next in
 relation to his brother.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bypassing Rāghava's chariot (vimucya rāghavaratham), all around upon the monkey host, he made the mid-space too utterly dense (sunirantaram) with shafts.
 </details>
 </details>
 
@@ -980,6 +1096,12 @@ battle-field; *samudraH yathaa* = as the sea; (breaks up); *aasaadya* = on reach
 "The demon, who had never been conquered before in battles, by even all the gods
 combined or by Indra himself, has been conquered, on confronting you in the battle-field, as the
 sea breaks up, on reaching the shore."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+And Daśagrīva loosed them with his inner soul detached (niḥsaṅgenāntarātmanā). Beholding that Rāvaṇa striving thus (vyāyacchamānam) and wholly intent in battle—
 </details>
 </details>
 
@@ -1035,6 +1157,12 @@ maintained; *dhaanaani* = riches; *samarpitaani* = were made over; *mitreShu*
 "By him, gifts were endowed to to mendicents. Pleasures too were enjoyed. The king's
 servents were fully maintained. Rches were made over to friends. Grudges against enemiies were
 revenged."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—Kākutstha, as though smiling (prahasann iva), fitted sharp arrows to his bow; and he then discharged shafts by hundreds and by thousands.
 </details>
 </details>
 
@@ -1098,6 +1226,12 @@ He completely mastered Vedas, the sacred scriptures. He was highly proficient ev
 acts. I desire to do, with you graciousness, that which is to be performed to him, who has departed
 to the other world."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding those, Rāvaṇa made the sky dense without interstice (nirantaram) with his own arrows; then, through the radiant shower of shafts employed by them both (tābhyāṃ niyuktena)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1149,6 +1283,12 @@ heaven.
 Thus getting the personality of Ravana well-acquainted by vibhishana by his
 compassionate words, Rama possessing unimpaired goodness, directed Vibhishana to perfom funeral
 rites, which were intended to lead the departed soul to heaven:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—it shone like a second radiant firmament woven of arrows (śarabaddham ivābhāti dvitīyam bhāsvad ambaram). No arrow missed its mark (nānimittaḥ), none failed to pierce (nānirbhettā), and none was in vain (na niṣphalaḥ).
 </details>
 </details>
 
@@ -1202,6 +1342,12 @@ rites be performed. He is even as good mine, as yours."
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरऒम्भत्तनॆय सर्ग पूर्णवायितु. ॥109॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Striking against one another (anyonyam abhisaṃhatya), they fell to the surface of the earth as Rāma and Rāvaṇa discharged their shafts thus in battle.
 </details>
 </details>
 

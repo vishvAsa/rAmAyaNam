@@ -71,6 +71,12 @@ _________________
 When Dasaratha returned, the Lord Indra, the destroyer of Paka the demon, was very
 much pleased and spoke to Rama, who stood there with his oined palms.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the righteous-souled Rāma, dejected at heart (durmanāḥ) upon hearing the cries of those speaking thus, reflected for a moment (dadhyau muhūrtam), his eyes swimming with tears.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +117,12 @@ not go in vain; *sma* = we are; *priitiyuktaaH* = endowed with delight; *tena*
 
 "O Rama, the foremost among men! Your sight of us, should not go in vain. Therefore,
 tell us whatever is desired by you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then King Vaiśravaṇa [Kubera], Yama together with the Pitṛs, the thousand-eyed lord of the gods [Indra], and Varuṇa, lord of the waters—
 </details>
 </details>
 
@@ -153,6 +165,12 @@ rejoice:
 Hearing the words of the great souled Indra the lord of celestials, after having
 been pleased, Rama with the most placid mind spoke the following words with rejoice:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—and the glorious, bull-bannered Mahādeva (vṛṣadhvajaḥ) of three eyes (ṣaḍardhanayanaḥ), and Brahmā, creator of the entire universe and best of knowers of Brahman—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -193,6 +211,12 @@ me; *kuru* = make; *me vachanam* = my words; *vakShyaami* = that I tell you;
 "O the foremst among the eloquent! O Indra! If you have affection in me, I shall
 speak out my words. Make my words real."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+—all these, assembling together in aerial cars bright as the sun (vimānaiḥ sūryasannibhaiḥ), came to the city of Laṅkā and approached Rāghava.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -232,6 +256,12 @@ energy; *mama hetoH* = for my sake; *praapya jiivitam* = restore their life;
 
 "Let all the monkeys, who reached the abode of death, after displaying their
 energyfor
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, lifting up their mighty arms adorned with hand-ornaments (sahastābharaṇān), the foremost of the thirty-three gods addressed Rāghava, who stood with joined palms (prāñjaliṃ sthitam):
 </details>
 </details>
 
@@ -276,6 +306,12 @@ delighted at heart.
 
 "O the bestower of honour! I wish to see all those monkeys, who for my sake, were
 removed from their sons and wives, be delighted at heart."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O Creator of the entire universe (kartā sarvasya lokasya), foremost of the wise, all-pervading Lord (vibhuḥ)! How do you look on with indifference (upekṣase katham) as Sītā falls into the bearer of oblations?
 </details>
 </details>
 
@@ -324,6 +360,12 @@ lives; *etaan* = to them.
 "They were all valiant, proving their energies and did not take their death into
 account. They made their strenuous efforts and died. O Indra! Restore their lives to them."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+How do you not recognize yourself to be the foremost of the hosts of gods (devagaṇaśreṣṭham)? Of old, among the Vasus you were the Vasu Ṛtadhāmā, and the Lord of creatures (prajāpatiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -364,6 +406,12 @@ dear ones); *tvatprasaadaat* = by your grace; *aham* = I; *vR^iNe* = seek;
 
 "Those mokeys - who coutned death as nothing and who were fond of doing favour to me
 - let them get re-united with their near and dear ones by your grace. I seek this boon of you."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For you are the primal Creator (ādikartā) of the three worlds, the self-existent Lord (svayaṃprabhuḥ); you are the eighth Rudra among the Rudras and the fifth among the Sādhyas; the two Aśvins are your ears, and the Moon and Sun are your eyes.
 </details>
 </details>
 
@@ -409,6 +457,12 @@ valour.
 "O bestower of honour! I wish to see the monkeys and bears, free from wounds and
 pains, with augmented strength and valour."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Both at the dissolution and at the beginning of the worlds (ante cādau ca lokānām) you are beheld, O scorcher of foes; yet you disregard Vaidehī just like a common mortal (mānuṣaḥ prākṛto yathā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -448,6 +502,12 @@ with pure water; *puShpaaNi* = flowers; *muulaani cha* = roots; *phalaanicha*
 
 "Wherever the aforesaid monkeys live, let there be rivers with crystal-clear water,
 flowers, roots and fruits even in an off-season."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed thus by those world-guardians (lokapālaiḥ), Rāghava, the lord of the world and foremost of upholders of dharma, spoke to the chief gods:
 </details>
 </details>
 
@@ -494,6 +554,12 @@ vachanam* = the following words:
 
 Hearing the words of that great-souled Rama, Indra the lord of celestials endowed as
 he was with delight, again spoke the following words:
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I regard myself as a mortal man (ātmānaṃ mānuṣaṃ manye)—Rāma, the son of Daśaratha; who I am, whose I am, and whence I have come (yo 'haṃ yasya yataś cāham), let the worshipful Lord [Brahmā] declare that to me.”
 </details>
 </details>
 
@@ -545,6 +611,12 @@ bhaviShyati* = will come to be.
 "O beloved Rama! This boon, which has been sought by you is hard to grant. No offer
 has, however, been revised by me in the past. Therefore this will come to be."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To Kākutstha speaking thus, Brahmā, foremost of the knowers of Brahman, said: “Hear from me the truth (śṛṇu me rāma satyam), O Rāma of unfailing valor (satyaparākrama)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -586,6 +658,12 @@ again.
 "Let all those monkeys and bears along with long-tailed monkeys, who have been
 killed in battle, by the demons and whose heads and arms have been severed, be alive and active
 again."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You are the divine Lord Nārāyaṇa, the glorious wielder of the discus (śrīmāṃś cakrāyudhaḥ); you are the single-tusked Boar (ekaśṛṅgo varāhaḥ), the conqueror of past and future foes (bhūtabhavyasapatnajit).
 </details>
 </details>
 
@@ -633,6 +711,12 @@ without any and with boosted strength and valour; *harayaH* = the monkeys;
 "Without any ill-health andwounds and with boosted strength and valour, the monkeys
 will srise again, as those fallen asleep would do at the end of their sleep."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You are the imperishable Brahman (akṣaraṃ brahma), the unfailing Truth in the middle and at the end, O Rāghava; you are the supreme dharma of the worlds, four-armed Viṣvaksena (viṣvaksenaś caturbhujaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -678,6 +762,12 @@ delight; *sameShyanti* = will get re-united with; *suhR^idbhiH* = their friends;
 
 "All of them, full of delight, will get re-united with their friends, relatives,
 kinsmen and family members."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You are the wielder of the Śārṅga bow (śārṅgadhanvā), Hṛṣīkeśa, the supreme Puruṣa (puruṣaḥ puruṣottamaḥ), the unconquered sword-bearer, Viṣṇu, and Kṛṣṇa of mighty strength (bṛhadbalaḥ).
 </details>
 </details>
 
@@ -725,6 +815,12 @@ the trees; *bhaviShyanti* = will be; *puSpashabalaaH* = colourful with flowers;
 "O the wielder of a great bow! The trees will look colourful with flowers and fruits
 even in the off-season. Rivers too will remain constantly with water."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+You are the leader of armies and chief of hosts (senānīr grāmaṇīś ca); you are intellect, courage, forbearance, and self-restraint; you are the origin and dissolution [of the universe], Upendra and Madhusūdana.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -754,6 +850,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 इन्द्रके इस प्रकार कहनेपर वे सब श्रेष्ठ वानर जिनके सब अङ्ग पहले घावोंसे भरे थे, उस समय घावरहित हो गये और सभी सोकर जगे हुएकी भाँति सहसा उठकर खड़े हो गये ॥ १७ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Performing Indra's deeds, you are Mahendra, lotus-navelled (padmanābhaḥ), the ender of battles; the divine great sages declare you to be the gracious refuge (śaraṇyaṃ śaraṇaṃ ca).
 </details>
 </details>
 
@@ -847,6 +949,14 @@ you.
 "O monarch! Proceed to Ayodhya from here and disband the monkeys. Reassure this
 illustrious and devoted Seetha."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**18:** Thousand-horned, having the Vedas for your soul (vedātmā), hundred-headed, the great bull (maharṣabhaḥ)—you indeed are the primal Creator of the three worlds, the self-existent Lord!
+
+**19:** You are the refuge and the primal ancestor (pūrvajaḥ) even of the Siddhas and the Sādhyas; you are the sacrifice, you are the ritual exclamation vaṣaṭ (vaṣaṭkāraḥ), you are the syllable oṃ (oṃkāraḥ), higher than the highest (parāt paraḥ)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -874,6 +984,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ई मिथिलेशकुमारि यशस्विनि सीतॆयु निम्मल्लि अनुरागविट्टिरुवळु. आकॆयन्नु सान्त्वनपडिसिरि. तम्मनाद भरतनु निम्म शोकदिन्द पीडितनागि व्रतस्थनागिद्दानॆ; आद्दरिन्द अवनन्नु भॆट्टियागिरि.॥20॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+None know your origin or your end (prabhavaṃ nidhanaṃ vā te), nor who you are; yet you are beheld in all beings, in Brāhmaṇas and in cows, in all the quarters, in the sky, on mountains, and in forests.
 </details>
 </details>
 
@@ -923,6 +1039,12 @@ austerities through grief caused by separation from you, the great-souled Shatru
 mohters. Get yourself consecrated on the throne. Bring rejoice to the citizens, by going
 there."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thousand-footed (sahasracaraṇaḥ), glorious, hundred-headed, thousand-eyed (sahasradṛk)—you uphold all beings and the earth together with its mountains.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -971,6 +1093,12 @@ Thus speaking to Rama and Lakshmana, Idnra the thousand-eyed god of celestials,
 having beenpleased, returned to heaven with other gods in their aerial cars, shining liek the
 sun.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the dissolution of the earth, upon the cosmic waters (ante pṛthivyāḥ salile) you are beheld as the great serpent (mahoragaḥ), upholding the three worlds, O Rāma, along with the gods, Gandharvas, and Dānavas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1017,6 +1145,12 @@ respective places.
 
 having respectfully saluted all those celestials, Rama along with Lakshmana his
 brother, then instructed all the monkeys to take rest in their respective places.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+I [Brahmā] am your heart, O Rāma, and the goddess Sarasvatī is your tongue; the gods fashioned by Brahmā are the hairs upon your limbs (gātreṣu romāṇi), O Lord!
 </details>
 </details>
 
@@ -1083,6 +1217,12 @@ like the might, illumined by the moon.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि नूरइप्पत्तनॆय सर्ग पूर्णवायितु.॥120॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The closing of your eyes (nimeṣas te) is declared to be night, and the opening of your eyes (unmeṣas te) becomes day; the Vedas became your conceptual impressions (saṃskārāḥ)—nothing exists apart from you (na tad asti tvayā vinā).
 </details>
 </details>
 

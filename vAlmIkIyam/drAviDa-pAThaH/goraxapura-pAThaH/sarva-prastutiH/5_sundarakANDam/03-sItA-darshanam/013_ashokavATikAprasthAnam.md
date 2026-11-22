@@ -76,6 +76,12 @@ Hanuma the leader of Vanaras crossed from pushpaka toward the fort wall and beca
 lighting in the middle of a cloud.
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing from the Puṣpaka aerial palace onto the rampart wall (vimānāt tu sa saṃkramya prākāraṃ), that monkey troop-leader Hanumān flashed with speed (vegavān āsīt) like lightning amid a bank of clouds (yathā vidyud ghanāntare).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -125,6 +131,12 @@ niveshanaat* = from the house of Ravana; *adR^ishhTvaa* = not seeing; *siitaam* 
 The simian Hanuma went far from the house of Ravana and not seeing Seetha, the daughter of King
 Janaka, said these words:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having thoroughly toured the mansions of Rāvaṇa (samparikramya rāvaṇasya niveśanān) without beholding Sītā, the daughter of Janaka (adṛṣṭvā jānakīṃ sītām), the monkey Hanumān spoke these words [to himself] (abravīd vacanaṃ kapiḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -172,6 +184,12 @@ in all limbs; *vaidehiim* = and the daughter of Videha;
 "The city of Lanka has been mostly explored by me attempting for the pleasure of Rama. But I am
 unable to see Seetha, beautiful in all limbs, and the daughter of Videha."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“While striving to accomplish what is dear to Rāma (rāmasya caratā priyam), Laṅkā has been ransacked by me for the most part (bhūyiṣṭhaṃ lolitā laṅkā); yet I do not see Sītā, the princess of Videha, lovely in every limb (sarvāṅgaśobhanām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,6 +225,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 सण्ण जलाशयगळ बळियल्लू, कॆरॆगळ बळियल्लियू, सरोवरगळ तीरगळल्लियू, जौगाद स्थळगळल्लियू, उपनदि-महानदिगळ तीरगळल्लियू, अरण्यगळल्लियू, वन-पर्वतगळल्लियू, इतर ऎल्ल प्रदेशगळल्लियू सीतॆयन्नु हुडुकिदॆनु. आदरॆ अवळु मात्र सिगलिल्ल. ॥4॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Pools (palvalāni), tanks (taṭākāni), lakes (sarāṃsi), and small streams (saritas tathā), rivers (nadyaḥ), marshy forest-borders (anūpavanāntāś ca), and rugged mountains (durgāś ca dharaṇīdharāḥ)—
 </details>
 </details>
 
@@ -271,6 +295,12 @@ of Ravana; *aham* = I; *na cha pashyaami* = I am unable to see; *taam* = her.
 "It has been said by the eagle King Sampati that Seetha is here in the house of Ravana. I am unable
 to see her."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“the entire earth (vasudhā sarvā) has been searched (lolitā), yet I do not see Jānakī (na ca paśyāmi jānakīm). Here in Rāvaṇa’s abode (iha rāvaṇasya niveśane) Sītā was declared to be by Sampāti, the king of vultures (ākhyātā sampātinā gṛdhrarājena); why then is she not seen (na ca sā dṛśyate nu kim)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -320,6 +350,12 @@ with) the evil minded Ravana.
 "Otherwise Seetha belonging to Videha born in Mithila and daughter of king Janaka - Can she be
 helplessly together with the evil minded Ravana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Could it be (kiṃ nu) that Sītā—the princess of Videha (vaidehī), the lady of Mithilā (maithilī), the daughter of Janaka (janakātmajā)—forcibly abducted by Rāvaṇa (rāvaṇena hṛtā balāt), would helplessly submit to him (upatiṣṭheta vivaśā)? [Never!]”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -367,6 +403,12 @@ the journey).
 "I think while Ravana fearing Rama's arrows flew quickly carrying Seetha, she might have fallen
 down in the middle of the journey."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I surmise (manye) that as the rākṣasa sprang swiftly into the sky (kṣipram utpatato rakṣasaḥ) after seizing Sītā (sītām ādāya), trembling in fear of Rāma’s arrows (bibhyato rāmabāṇānām), she may have fallen midway (antarā patitā bhavet).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -412,6 +454,12 @@ down in the middle of the journey."
 
 "Or I think the heart of the noble Seetha being stolen in the path served by Siddhas must have
 sunk at the site of the ocean."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or else, as that noble lady was being borne away (hriyamāṇāyāḥ āryāyāḥ) along the aerial path frequented by siddhas (pathi siddhaniṣevite), I think her heart sank and failed (manye patitaṃ hṛdayaṃ) upon beholding the ocean (prekṣya sāgaram).
 </details>
 </details>
 
@@ -460,6 +508,12 @@ eyes.
 "I think due to great speed of Ravana and due to the torture of Ravana's shoulders the life has
 been given up by that noble one with wide eyes."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or I think that by the violent rush of Rāvaṇa (rāvaṇasyoruvegena) and the crushing pressure of his arms (bhujābhyāṃ pīḍitena ca), that large-eyed noble lady (tayā viśālākṣyā āryayā) yielded up her life (tyaktaṃ jīvitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -507,6 +561,12 @@ _________________
 
 "Then while being flown upon the surface of the ocean, Seetha definitely fell down in the ocean
 while wriggling."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or surely, as he strode high above the ocean (upary upari sāgaraṃ kramatas tadā), that daughter of Janaka (sā janakātmajā), struggling to free herself (viceṣṭamānā), fell into the sea (patitā samudre).
 </details>
 </details>
 
@@ -582,6 +642,14 @@ her chastity without any relatives near her."
 "Otherwise not being evil with black eyes, She may have been eaten by the wives of Ravana with
 evil thoughts."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** “Or else (āho), while guarding her own chastity (rakṣantī śīlam ātmanaḥ), the helpless and friendless Sītā (abandhus tapasvinī sītā) was devoured (bhakṣitā) by this vile Rāvaṇa (kṣudreṇa cānena rāvaṇena).
+
+**12:** “Or perhaps that dark-eyed, blameless lady (asitekṣaṇā aduṣṭā sā) has been devoured (bhakṣitā bhaviṣyati) by the wicked-hearted consorts of the rākṣasa king (rākṣasendrasya patnībhir duṣṭabhāvābhiḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -627,6 +695,12 @@ must have obtained death; *dhyaayatii* = while meditating; *raamasya vaktram* = 
 
 "The pitiable Seetha equaling full moon, with eyes equaling lotus petals must have obtained death
 while meditating upon Rama's face."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or meditating (dhyāyatī) upon the countenance of Rāma (rāmasya vaktraṃ), which resembles the full moon (sampūrṇacandrapratimaṃ) and has eyes like lotus-petals (padmapatranibhekṣaṇam), that piteous lady (kṛpaṇā) has passed into the five elements (pañcatvaṃ gatā).
 </details>
 </details>
 
@@ -674,6 +748,12 @@ while meditating upon Rama's face."
 "The daughter of Videha, Seetha. �O Rama!' �O Lakshmana!' �O Ayodhya!', thus weeping greatly may
 have given up her body."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Lamenting manifoldly (vilapya bahu), ‘Alas, Rāma! Alas, Lakṣmaṇa! Alas, Ayodhyā (hā rāma lakṣmaṇety evaṃ hāyodhye ceti)!’ Maithilī, the princess of Videha, must have laid down her body (nyastadehā bhaviṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -718,6 +798,12 @@ definitely crying; *paJNjarastaa shaarikaa iva* = like a caged myna.
 **अनुवादः**
 
 "I think otherwise being put in the house of Ravana Seetha is definitely crying like a caged myna."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or else, I think that young lady (bālā), kept hidden (nihitā) within Rāvaṇa’s abode (rāvaṇasya niveśane), is wailing piteously (bhṛśaṃ lālapyate) like a sārikā bird confined in a cage (pañjarastheva sārikā).
 </details>
 </details>
 
@@ -769,6 +855,12 @@ _________________
 "How can the daughter of King Janaka, Rama's wife Seetha with a beautiful waist, with eyes like
 black lotus petals obtain Ravana's capture."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Born in the lineage of Janaka (janakasya kule jātā) and wedded to Rāma (rāmapatnī), how could that slender-waisted lady with eyes like blue-lotus petals (sumadhyamā utpalapatrākṣī) ever submit to the will of Rāvaṇa (rāvaṇasya vaśaṃ vrajet)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -817,6 +909,12 @@ priyabhaaryasya* = to Rama who has a dear wife; *janakaatmaja* = (if) Seetha; *v
 "It is not fair to let know Rama who has a dear wife if Seetha is lost or is not to be seen or
 has died."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whether the daughter of Janaka has vanished from sight (vinaṣṭā vā), or fled elsewhere (pranaṣṭā vā), or died (mṛtā vā), it is not fitting to report [such news] (na nivedayituṃ kṣamam) to Rāma, who holds his wife so dear (rāmasya priyabhāryasya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -863,6 +961,12 @@ has died."
 
 "To be let known becomes an error; not to let know becomes an error how to perform the duty? To
 me this seems dire situation."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If it is reported, there will be disaster (nivedyamāne doṣaḥ syāt), and in not reporting it there will likewise be fault (doṣaḥ syād anivedane); how then is one to act (kathaṃ nu khalu kartavyaṃ)? The dilemma appears perilous to me (viṣamaṃ pratibhāti me).”
 </details>
 </details>
 
@@ -913,6 +1017,12 @@ point.
 "This task while it goes this way the time is approaching. What becomes appropriate" thus Hanuma
 thought again this view point.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Now that the mission had come to such a pass (asminn evaṃgate kārye), Hanumān pondered deeply once again in his mind (matiṃ bhūyo pravicārayan) as to what course would be timely and fitting (prāptakālaṃ kṣamaṃ ca kim bhavet):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -958,6 +1068,12 @@ city; *ita ha* = from here; *adR^ishhTvaa* = without seeing; *siitaam* = Seetha;
 
 "If I go towards Sugreeva's city from here without seeing Seetha from that to what avail will this
 effort be?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If I return from here to the city of the monkey king (yadi vānarendrapurīm itaḥ gamiṣyāmi) without having seen Sītā (sītām adṛṣṭvā), what manly achievement will then be mine (ko me puruṣārtho bhaviṣyati)?
 </details>
 </details>
 
@@ -1006,6 +1122,12 @@ the site of Rakshasas; *vyartham bhavishhyati* = (all this) will become waste.
 
 "My crossing of the ocean entering the city of Lanka the site of rakshasas - all this will become
 waste."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This leaping of mine across the ocean (mamedaṃ laṅghanaṃ sāgarasya) will prove in vain (vyarthaṃ bhaviṣyati), and so too my entry into Laṅkā (praveśaś caiva laṅkāyām) and my beholding of the rākṣasas (rākṣasānāṃ ca darśanam).
 </details>
 </details>
 
@@ -1056,6 +1178,12 @@ _________________
 "To me reaching Kishkindha what would Sugreeva say or Vanaras there or those sons of Dasharatha
 what would they say?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And what will Sugrīva say (kiṃ vā vakṣyati sugrīvaḥ), or the assembled monkeys (harayo vāpi saṃgatāḥ), or those two sons of Daśaratha (tau vā daśarathātmajau), when I arrive back at Kiṣkindhā (kiṣkindhām anusamprāptaṃ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1104,6 +1232,12 @@ say; *param apriyam* = a very unpleasant (word); *tataH* = thereafter; *jiivitam
 
 "Going there by me for Rama, �Seetha has not been seen' - thus if I say a very unpleasant word
 thereafter Rama will give up life."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And if, having gone there, I speak to Kākutstha the harsh words (vakṣyāmi paruṣaṃ vacaḥ), ‘Sītā was not seen by me (na dṛṣṭeti mayā sītā),’ he will straightway abandon his life (tatas tyakṣyati jīvitam).
 </details>
 </details>
 
@@ -1154,6 +1288,12 @@ not exist.
 "Hearing bad word belonging to Seetha that is harsh, horrible, cruel, sharp, sense agonizing, He
 will not exist."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Upon hearing such harsh (paruṣaṃ), dreadful (dāruṇaṃ), piercing (tīkṣṇaṃ), cruel (krūram), sense-scorching (indriyatāpanam) ill tidings concerning Sītā (sītānimittaṃ durvākyaṃ), he will cease to live (sa na bhaviṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1203,6 +1343,12 @@ bhavishhyati* = will not exist.
 "Seeing that Rama being with troubles, being with a heart towards death, Lakshmana, one with great
 love and an intellectual will not exist."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And beholding him plunged into distress (taṃ tu kṛcchragataṃ dṛṣṭvā) with his mind resolved upon death (pañcatvagatamānasam), the wise Lakṣmaṇa, who is deeply devoted to him (bhṛśānuraktamedhāvī), will cease to live (na bhaviṣyati lakṣmaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1249,6 +1395,12 @@ bhavishhyati* = will not exist.
 
 "Hearing brothers to be dead, Bharata also will die. Seeing the dead Bharata, Shatrughana also
 will not exist."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Hearing that his two brothers have perished (vinaṣṭau bhrātarau śrutvā), Bharata too will die (bharato 'pi mariṣyati); and seeing Bharata dead (bharataṃ ca mṛtaṃ dṛṣṭvā), Śatrughna will cease to live (śatrughno na bhaviṣyati).
 </details>
 </details>
 
@@ -1299,6 +1451,12 @@ _________________
 "Thereafter seeing sons to be dead the mothers Kausalya, Sumitra and Kaikeyi will not exist - there
 is no doubt."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then, beholding their sons dead (putrān mṛtān samīkṣyātha), the mothers—Kausalyā, Sumitrā, and Kaikeyī—will without doubt cease to live (na bhaviṣyanti mātaraḥ... na saṃśayaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1348,6 +1506,12 @@ Rama; *tathaa gatam* = die in that way; *jiivitam tyakshyati* = will give up lif
 "Grateful, true to pledge Sugreeva, the leader of Vanaras, seeing Rama the leader of Vanaras seeing
 Rama die in that way will give up life thereafter."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And Sugrīva, the lord of monkeys (plavagādhipaḥ), who is grateful (kṛtajñaḥ) and true to his pledge (satyasaṃdhaś ca), upon seeing Rāma reduced to that state (rāmaṃ tathāgataṃ dṛṣṭvā), will thereupon abandon his life (tatas tyakṣyati jīvitam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1389,6 +1553,12 @@ up; *jiivitam* = life.
 
 "Being tortured by the sorrow of husband, made sad by a gloomy heart, disconsolate without happiness,
 to be pitied, Ruma will give up life."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Heavy-hearted (durmanāḥ), anguished (vyathitā), wretched (dīnā), joyless (nirānandā), and piteous (tapasvinī), Rumā, afflicted by grief for her husband (pīḍitā bhartṛśokena), will abandon her life (tyakṣyati jīvitam).
 </details>
 </details>
 
@@ -1438,6 +1608,12 @@ Vali; *shokakarshitaa* = being emaciated from grief; *taaraapi* = Tara also; *na
 "Being distressed from the sorrow of Vali, being emaciated from grief, Tara also will not exist
 while the king Sugreeva is obtaining death."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And Queen Tārā (rājñī tārāpi), already afflicted by the sorrow born of Vālin’s death (vālijena tu duḥkhena pīḍitā), emaciated by grief (śokakarśitā), and resolved upon death (pañcatvam āgatā), will likewise cease to live (na bhaviṣyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1485,6 +1661,12 @@ _________________
 
 "The young Angada also from the death of mother and father, from the grief of Sugreeva - why will
 he retain life?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Through the loss of his mother and father (mātāpitror vināśena) and the calamity befalling Sugrīva (sugrīvavyasanena ca), Prince Aṅgada too will thereupon (tasmāt) cast away his life (vijahiṣyati jīvitam).
 </details>
 </details>
 
@@ -1561,6 +1743,14 @@ fists."
 "Vanaras loved by the famous king Sugreeva through good words, through small gifts, through respect
 will give up lives."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**32:** “And overcome by sorrow for their lord (bhartṛjena tu duḥkhena abhibhūtāḥ), the forest-dwelling monkeys (vanaukasaḥ) will beat their heads (śirāṃsy abhihaniṣyanti) with their palms and fists (talair muṣṭibhir eva ca).
+
+**33:** “Cherished (lālitāḥ) by the illustrious lord of monkeys (yaśasvinā kapināthena) with gentle words (sāntvena), gifts (anupradānena), and honour (mānena ca), the monkeys will abandon their lives (prāṇāṃs tyakṣyanti vānarāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1587,6 +1777,12 @@ will give up lives."
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘ऐसी अवस्थामें शेष वानर वनों, पर्वतों और गुफाओंमें एकत्र होकर फिर कभी क्रीड़ा-विहारका आनन्द नहीं लेंगे ॥ ३४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Never again (na punaḥ) will those elephant-like monkeys (kapikuñjarāḥ), gathering together (sametya), enjoy sport (krīḍām anubhaviṣyanti) in the woods (vaneṣu), on the mountains (śaileṣu), or in secluded enclosures (nirodheṣu vā).
 </details>
 </details>
 
@@ -1651,6 +1847,12 @@ and together with ministers; *bhartuvyasana piiDitaaH* = being tortured by grief
 "Together with wife and children and together with ministers being tortured by grief of their lord,
 they will fall down from top of mountains on to flat lands and on to rugged lands."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“With their sons, wives, and counsellors (saputradārāḥ sāmātyāḥ), afflicted by the calamity of their lord (bhartṛvyasanapīḍitāḥ), they will hurl themselves down from mountain peaks (śailāgrebhyaḥ patiṣyanti) onto level ground and rugged chasms (sameṣu viṣameṣu ca).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1677,6 +1879,12 @@ they will fall down from top of mountains on to flat lands and on to rugged land
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अथवा सारे विष पी लेंगे या फाँसी लगा लेंगे या जलती आगमें प्रवेश कर जायेंगे । उपवास करने लगेंगे अथवा अपने ही शरीरमें छुरा भोंक लेंगे ॥ ३६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The monkeys will resort (pracariṣyanti) to poison (viṣam), or hanging (udbandhanaṃ vāpi), or entering the fire (praveśaṃ jvalanasya vā), or fasting unto death (upavāsam), or the weapon (atho śastraṃ).”
 </details>
 </details>
 
@@ -1738,6 +1946,12 @@ weapon."
 "While I am going I think about the destruction of Ikshvaaku dynasty and destruction of Vanaras
 and there will be a terrible wail."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When I return (gate mayi), I think a dreadful wailing (ghoram ārodanaṃ) will arise (bhaviṣyati), along with the destruction of the race of Ikṣvāku (ikṣvākukulanāśaś ca) and the destruction of the forest-dwellers (nāśaś caiva vanaukasām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1786,6 +2000,12 @@ Seetha.
 
 "I will not go from here to the Kishkindha city. I am not capable to see Sugreeva without Seetha."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Therefore I shall not go back (so 'haṃ naiva gamiṣyāmi) from here to the city of Kiṣkindhā (kiṣkindhāṃ nagarīm itaḥ); for without Maithilī (maithilīṃ vinā), I shall never be able to look upon Sugrīva (nahi śakṣyāmy ahaṃ draṣṭuṃ sugrīvaṃ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1815,6 +2035,12 @@ _________________
 
 ‘यदि मैं यहीं रहूँ और वहाँ न जाऊँ तो मेरी आशा लगाये वे दोनों धर्मात्मा महारथी बन्धु प्राण धारण किये रहेंगे और वे वेगशाली वानर भी जीवित रहेंगे ॥ ३९ ॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And if I do not return and remain here (mayy agacchati cehasthe), those two righteous-souled great car-warriors (dharmātmānau mahārathau) will sustain their lives through hope (āśayā tau dhariṣyete), and so too will the impetuous monkeys (vānarāś ca tarasvinaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1834,6 +2060,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जानकीजीका दर्शन न मिलनेपर मैं यहाँ वानप्रस्थी हो जाऊँगा । मेरे हाथपर अपने-आप जो फल आदि खाद्य वस्तु प्राप्त हो जायगी, उसीको खाकर रहूँगा या परेच्छासे मेरे मुँहमें जो फल आदि खाद्य वस्तु पड़ जायगी, उसीसे निर्वाह करूँगा तथा शौच, संतोष आदि नियमोंके पालनपूर्वक वृक्षके नीचे निवास करूँगा ॥ ४० ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Not having seen the daughter of Janaka (adṛṣṭvā janakātmajām), I shall become a forest-hermit (vānaprastho bhaviṣyāmi), self-restrained (niyataḥ), dwelling at the roots of trees (vṛkṣamūlikaḥ), and subsisting on what falls into my hand (hastādānaḥ) or directly into my mouth (mukhādānaḥ).
 </details>
 </details>
 
@@ -1878,6 +2110,12 @@ danaH* = (subsisting on) whatever falls on hand; *mukhaadaanaH* = whatever comes
 "Without seeing Seetha subsisting on whatever falls on hand, whatever comes to mouth, being self
 restrained I will become a hermit living on trees and herbs at a region near ocean which has many roots, fruits
 and much water."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or in a coastal tract by the ocean (sāgarānūpaje deśe) abounding in roots, fruits, and water (bahumūlaphalodake), I shall build a funeral pyre (citiṃ kṛtvā) and enter the blazing fire born of the kindling-sticks (pravekṣyāmi samiddham araṇīsutam).
 </details>
 </details>
 
@@ -1940,6 +2178,12 @@ will live by hope. Vanaras also who are agile will live."
 "Or I will enter fire which is glowing after making a funeral pile or while sitting performing
 fasting onto death my body will be eaten by crows and by beasts of prey."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or as I sit in solemn fasting (upaviṣṭasya vā samyak), preparing to release the embodied soul (liṅginaṃ sādhayiṣyataḥ), crows and beasts of prey (vāyasāḥ śvāpadāni ca) will devour my body (śarīraṃ bhakṣayiṣyanti).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1988,6 +2232,12 @@ aapaH* = lot of water.
 
 "This way to giving up body has been seen by sages. This is my opinion if I do not see Seetha,
 I will enter lot of water."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“This too is a mode of departure approved by the sages (idam apy ṛṣibhir dṛṣṭaṃ niryāṇam), such is my thought (iti me matiḥ): I shall duly enter the waters (samyag āpaḥ pravekṣyāmi) if I do not behold Jānakī (na cet paśyāmi jānakīm).
 </details>
 </details>
 
@@ -2038,6 +2288,12 @@ of glory; *chiraraatraaya* = of long time; *sujaatamuula* = with a strong founda
 "Not seeing Seetha, my garland of glory of long time with a strong foundation, beautiful one together
 with fame has been destroyed."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For me, failing to behold Sītā (mama sītām apaśyataḥ), the auspicious and glorious garland of fame (subhagā kīrtimālā yaśasvinī), whose root had sprung up so well (sujātamūlā), has been shattered for many a long night (prabhagnā cirarātrāya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2085,6 +2341,12 @@ with fame has been destroyed."
 "I will become a hermit who is self restrained resorting to trees and herbs, I will not go from
 here not seeing Seetha with black eyes."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or else I shall become a penitent ascetic (tāpaso vā bhaviṣyāmi), self-controlled (niyataḥ) and dwelling at the roots of trees (vṛkṣamūlikaḥ); I shall not return from here (netaḥ pratigamiṣyāmi) without having seen that dark-eyed lady (tām adṛṣṭvāsitekṣaṇām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2114,6 +2376,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘यदि सीताका पता लगाये बिना ही मैं लौट जाऊँ तो समस्त वानरोंसहित अंगद जीवित नहीं रहेंगे ॥ ४६ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For if I go back (yadi tu pratigacchāmi) without having found that Sītā (sītām anadhigamya tām), Aṅgada together with all the monkeys (aṅgadaḥ sahitaḥ sarvair vānaraiḥ) will cease to live (na bhaviṣyati).
 </details>
 </details>
 
@@ -2171,6 +2439,12 @@ definite; *jiivitasamgaaH* = for the meeting of people who are alive.
 "There are lots of blemishes in dying; one who is alive sees auspicious things. For that reason
 I will keep my life. It is definite for the meeting of people who are alive."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In self-destruction there are many evils (vināśe bahavo doṣāḥ), whereas one who lives attains auspicious good (jīvan prāpnoti bhadrakam); therefore I shall preserve my life (tasmāt prāṇān dhariṣyāmi), for so long as one lives, union with good fortune is assured (dhruvo jīvati saṃgamaḥ).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2219,6 +2493,12 @@ mind; *bahuvidham duHkham* = sorrow of various kinds; *muhuH* = again and again;
 Hanuma carrying in mind sorrow of various kinds again and again did not get then the crossing of
 sorrow.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bearing thus in his mind (evaṃ manasā dhārayan) manifold and abundant sorrow (bahuvidhaṃ duḥkhaṃ bahu), that elephant among monkeys (kapikuñjaraḥ) could not find the farther shore of his grief (nādhyagacchat tadā pāraṃ śokasya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2247,6 +2527,12 @@ sorrow.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर धैर्यवान् कपिश्रेष्ठ हनुमान् ने पराक्रमका सहारा लेकर सोचा—‘अथवा महाबली दशमुख रावणका ही वध क्यों न कर डालूँ । भले ही सीताका अपहरण हो गया हो, इस रावणको मार डालनेसे उस वैरका भरपूर बदला सध जायगा ॥ ४९ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, summoning up his valour (vikramam āsādya), that steadfast elephant among monkeys (dhairyavān kapikuñjaraḥ) [reflected]: “Or else I shall slay Rāvaṇa (rāvaṇaṃ vā vadhiṣyāmi), the ten-necked one of mighty strength (daśagrīvaṃ mahābalam); even if Sītā has been carried off [and slain] (kāmam astu hṛtā sītā), full retaliation will have been exacted (pratyācīrṇaṃ bhaviṣyati).
 </details>
 </details>
 
@@ -2291,6 +2577,12 @@ Ravana; *saagaram uparyupari* = over the surface of ocean; *upaharishhyaami* = I
 
 "Otherwise carrying this Ravana over the surface of ocean I will take him to Rama like an animal
 to the lord of animals."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or else, lifting him up (enaṃ samutkṣipya) and bearing him high across the ocean (upary upari sāgaram), I shall present him as an offering to Rāma (rāmāyopahariṣyāmi), like a sacrificial victim offered to Paśupati (paśuṃ paśupater iva).”
 </details>
 </details>
 
@@ -2356,6 +2648,12 @@ Seetha, this will be revenge to that."
 Hanuma not seeing that Seetha thus begetting sorrow, thought with a mind cluttered with thoughts
 and sorrow.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fallen into such reflection (iti cintāsamāpannaḥ) because he had not found that Sītā (sītām anadhigamya tām), the monkey, his soul encompassed by brooding and grief (dhyānaśokaparītātmā), pondered further (cintayāmāsa vānaraḥ):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2385,6 +2683,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘जबतक मैं यशस्विनी श्रीराम-पत्नी सीताका दर्शन न कर लूँगा, तबतक इस लंकापुरीमें बारंबार उनकी खोज करता रहूँगा ॥ ५२ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“So long as I do not behold Sītā (yāvat sītāṃ na paśyāmi), the illustrious consort of Rāma (rāmapatnīṃ yaśasvinīm), so long shall I search this city of Laṅkā again and again (tāvad etāṃ purīṃ laṅkāṃ vicinomi punaḥ punaḥ).
 </details>
 </details>
 
@@ -2449,6 +2753,12 @@ city of Lanka again and again."
 
 "Based on words of Sampati if I bring Sri Rama then Sri Rama not seeing wife will burn all Vanaras."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For if, relying merely upon Sampāti’s word (sampātivacanāc cāpi), I were to bring Rāma here (rāmaṃ yady ānayāmy aham), Rāghava, failing to behold his wife (apaśyan bhāryāṃ), would burn up all the monkeys [with his wrath] (nirdahet sarvavānarān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2478,6 +2788,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 ‘अतः यहीं नियमित आहार और इन्द्रियोंके संयमपूर्वक निवास करूँगा । मेरे कारण वे समस्त नर और वानर नष्ट न हों ॥ ५४ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Here itself I shall dwell (ihaiva vatsyāmi), abstemious in diet (niyatāhāraḥ) and self-restrained in my senses (niyatendriyaḥ); let not all those men and monkeys perish on my account (na matkṛte vinaśyeyuḥ sarve te naravānarāḥ).
 </details>
 </details>
 
@@ -2542,6 +2858,12 @@ naravaanaraaH* = those men and vanaras; *na vinasheyuH* = let they not be destro
 "Whatever this Ashoka garden with great trees is being seen this I will obtain. This has not been
 searched by me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And here stands this great Aśoka grove (aśokavanikā cāpi mahatīyaṃ) with its mighty trees (mahādrumā); I shall repair to it (imām adhigamiṣyāmi), for this grove has not yet been searched by me (na hīyaṃ vicitā mayā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2592,6 +2914,12 @@ api cha* = seven maruts; *gamishhyaami* = I will go; *shokavardhanaH* = to incre
 "Saluting the eight Vasus, Rudras and Adityas, the two Aswinis, seven Maruts, I will go to increase
 the grief of Rakshasas."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having bowed in homage (namaskṛtvā) to the Vasus, the Rudras, the Ādityas, the two Aśvins, and the Maruts as well (maruto 'pi ca), I shall go forth (gamiṣyāmi), increasing the grief of the rākṣasas (rakṣasāṃ śokavardhanaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2640,6 +2968,12 @@ _________________
 
 "Defeating all rakshasas, I will give Seetha, who gives happiness to Ikshvaaku dynasty to Sri Rama
 as the fruit of austerity to an ascetic."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Vanquishing the rākṣasas (jitvā tu rākṣasān), I shall restore (sampradāsyāmi) to Rāma the queen who delights the race of Ikṣvāku (devīm ikṣvākukulanandinīm), even as [a propitiated deity bestows] spiritual perfection upon an ascetic (siddhīm iva tapasvine).”
 </details>
 </details>
 
@@ -2725,6 +3059,14 @@ of Janaka; *devyai* = who is divine namaH astu = let there be salutations; *rudr
 "Let there be salutations to Sri Rama together with Lakshmana, also to that, who is divine let
 there be salutations. To Rudra, Indra, Yama and Vaayu let there be salutations."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**58:** Having meditated for a moment (muhūrtam iva dhyātvā) with his senses bound up in anxious thought (cintāvigrathitendriyaḥ), that mighty-armed Hanumān, the son of Marut (mahābāhur hanūmān mārutātmajaḥ), rose up (udatiṣṭhat):
+
+**59:** “Homage be to Rāma together with Lakṣmaṇa (namo 'stu rāmāya salakṣmaṇāya), and to that divine lady, the daughter of Janaka (devyai ca tasyai janakātmajāyai)! Homage be to Rudra, Indra, Yama, and Anila (rudrendrayamānilebhyaḥ); homage be to the Moon, Agni, and the hosts of Maruts (candrāgnimarudgaṇebhyaḥ)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2776,6 +3118,12 @@ dishaH* = all directions; *gataH* = went; *ashokavanikaam* = towards Ashoka gard
 That Hanuma saluting to all those and also to Sugreeva, observing all directions went towards Ashoka
 garden.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bowed in homage to them (sa tebhyas tu namaskṛtvā) and to Sugrīva as well (sugrīvāya ca), that son of Marut (mārutiḥ) surveyed all the quarters (diśaḥ sarvāḥ samālokya) [to fix the bearing] toward the Aśoka grove (aśokavanikāṃ prati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2825,6 +3173,12 @@ to be done later.
 The son of Vayu, that Vanara went by mind before itself toward that Ashoka garden. The auspicious
 one pondered the task to be done later.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having first gone in his mind (sa gatvā manasā pūrvam) to the auspicious Aśoka grove (aśokavanikāṃ śubhām), the monkey, the son of Marut, deliberated upon his next course of action (uttaraṃ cintayāmāsa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2873,6 +3227,12 @@ samskR^itaa* = adorned with various cultures; *puNyaa* = and sacred.
 
 "The Ashoka garden definitely will be with many rakshasas, filled with trees, adorned with various
 cultures and sacred."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely that sacred Aśoka grove (aśokavanikā puṇyā), thick with trees (vanākulā) and embellished with every horticultural refinement (sarvasaṃskārasaṃskṛtā), will be teeming with rākṣasa guards (dhruvaṃ tu rakṣobahulā bhaviṣyati).
 </details>
 </details>
 
@@ -2926,6 +3286,12 @@ small; *raamaadhe* = for the sake of Sri Rama; *ravaNasya cha* = and (to avoid) 
 "There definitely guards will be protecting assigned, trees, omnipresent Lord Vayu also will be
 blowing by without force, and by me this body has been made small for the sake of Sri Rama and to avoid Ravana."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And warders appointed here (rakṣiṇaś cātra vihitāḥ) surely guard the trees (nūnaṃ rakṣanti pādapān); even the blessed Wind-god, the soul of the universe (bhagavān api viśvātmā), does not blow with excessive agitation [there] (nātikṣobhaṃ pravāyati).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2954,6 +3320,12 @@ _________________
 
 इल्लि वनद वृक्षरक्षणॆगागि राक्षसभटरु तप्पदे नियोजितरागिरबहुदु. सर्वात्मनाद भगवान् वायुदेवरू कूड वृक्षगळु हॆच्चु अल्लाडदन्तॆ मॆल्ल-मॆल्लनॆ बीसुत्तिरुवनु.॥64॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I have contracted this body of mine (saṃkṣipto 'yaṃ mayātmā ca) for Rāma’s sake (rāmārthe) and [to elude the sight] of Rāvaṇa (rāvaṇasya ca); may all the gods together with the hosts of sages (sarve devāḥ sarṣigaṇās tv iha) grant me success (siddhiṃ diśantu me)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2981,6 +3353,12 @@ _________________
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीरामन कार्यसाधनॆगागियू, रावणनु नोडदिरलॆन्दु नानु नन्न शरीरवन्नु सण्णदागिसिकॊण्डिद्देनॆ. देवतॆगळू, महर्षिगळ समूहगळू, नन्न कार्यवु सिद्धिसुवन्तॆ अनुग्रहिसलि.॥65॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“The blessed, self-existent Brahmā (brahmā svayambhūr bhagavān), and the gods rich in ascetic splendour (devāś caiva tapasvinaḥ), Agni, Vāyu, and thunderbolt-wielding Puruhūta (puruhūtaś ca vajrabhṛt),
 </details>
 </details>
 
@@ -3041,6 +3419,14 @@ devas and Agni and Vaayu, Devendra wearing the weapon of Vajra and Varuna with P
 and the moon and the aswinis. The great ones Maruts and Eshwara may give my success. Whoever is the lord of all
 living creatures among all living beings others who being unseen exist in the path may give success to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**66:** “Varuṇa with noose in hand (varuṇaḥ pāśahastaś ca), Soma and Āditya as well (somādityau tathaiva ca), the two high-souled Aśvins (aśvinau ca mahātmānau), and all the Maruts (marutaḥ sarva eva ca),
+
+**67:** “all beings (sarvāṇi bhūtāni), and He who is the Lord of beings (bhūtānāṃ caiva yaḥ prabhuḥ), along with whatever other unseen deities abide along my path (ye cānye 'py adṛṣṭāḥ pathi gocarāḥ), will grant me success (siddhiṃ... dāsyanti mama).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3097,6 +3483,12 @@ full moon.
 
 "When will I see that noble face with a high nose, with white teeth without any injuries with a
 bright smile, with eyes resembling lotus petals with sight equaling the splendor of clear full moon?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“When indeed shall I behold (drakṣye kadā nv ahaṃ) that countenance of the noble lady (tad āryāvadanaṃ)—with its shapely high nose (unnasam), white teeth (pāṇḍuradantam), spotless complexion (avraṇaṃ), pure smile (śucismitaṃ), and eyes like lotus-petals (padmapalāśalocanam), radiant as the cloudless lord of stars (prasannatārādhipatulyavarcasam)?
 </details>
 </details>
 
@@ -3167,5 +3559,11 @@ a cruel action, with a horribly decorated form will fall in the range of my sigh
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि हदिमूरनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Overpowered by force (balābhibhūtā) by that vile (kṣudreṇa), base (hīnena) wretch of cruel form (nṛśaṃsamūrtinā) who wore a guise at once dreadful and tricked out with ornaments (sudāruṇālaṃkṛtaveṣadhāriṇā), how may that helpless, piteous lady come within the range of my sight today (kathaṃ nu me dṛṣṭipathe 'dya sā bhavet)?”
 </details>
 </details>

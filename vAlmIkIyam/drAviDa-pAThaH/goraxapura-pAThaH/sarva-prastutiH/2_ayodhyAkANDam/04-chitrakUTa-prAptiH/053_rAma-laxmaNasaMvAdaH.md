@@ -72,6 +72,12 @@ the forest with him.
 Rama, the foremost of those affording happiness to others, reached the aforesaid
 tree, worshipped the western twilight and spoke to Lakshmana as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached that banyan tree and worshipped the western evening twilight (sandhyām anvāsya paścimām), Rāma—the foremost of those who bring delight to all (ramayatāṃ śreṣṭhaḥ)—spoke thus to Lakṣmaṇa:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +128,12 @@ _________________
 "This might which has got past us today outside the inhabited territory is the first
 night which has passed without Sumantra. You ought not repent over it."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today has come this first night outside the inhabited realm (janapadād bahiḥ), bereft of Sumantra (sumantreṇa rahitā); you ought not to yield to anxious longing (notkaṇṭhitum arhasi) on account of it.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,6 +180,12 @@ two."
 
 "Remaining free from lassitude, we must both keep awake during nights, from today
 Lakshmana! The safety and welfare of Sita indeed depend on us two."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From this day forth, we two must keep watch unweariedly (atandribhyām) through the nights; for both the acquisition of welfare and the preservation of safety (yoga-kṣemau) of Sītā, O Lakṣmaṇa, depend upon us two.
 </details>
 </details>
 
@@ -218,6 +236,12 @@ procured; *svayam* = by our own(hands)."
 "Let us pass this night anyhow, Lakshmana! Let us lie down on the ground, covering
 it by straw, leaves and so on, procured by our own hands."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let us pass this night anyhow (kathaṃcid eva), O Saumitri; spreading out leaves and grass gathered by our own hands (svayam ārjitaiḥ), let us lie down upon the bare earth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -267,6 +291,12 @@ Streching himself on the bare ground, Rama, who was accustomed to a luxurious co
 uttered the following suitable words to Lakshmana:
 </details>
 
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having lain down upon the bare ground (saṃviśya medinyām)—though worthy of a sumptuous couch (mahārha-śayanocitaḥ)—Rāma spoke these auspicious words (kathāḥ śubhāḥ) to Saumitri:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -312,6 +342,12 @@ uttered the following suitable words to Lakshmana:
 
 "Assuredly the emperor is sleeping badly tonight, while Kaikeyi, having realized her
 ambitions, ought to feel satisfied."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely today the great king sleeps in sorrow (duḥkhaṃ svapiti), O Lakṣmaṇa; whereas Kaikeyī, having achieved her desire (kṛta-kāmā), must now be well content.
 </details>
 </details>
 
@@ -360,6 +396,12 @@ kingdom."
 "Seeing Bharata returned, queen Kaikeyi, I am afraid, may not expel the lives of the
 emperor for the sake of kingdom."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Indeed, for the sake of the kingdom (rājya-kāraṇāt), might not that Queen Kaikeyī even bereave the great king of his life-breaths (api na cyāvayet prāṇān) upon seeing Bharata returned?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -405,6 +447,12 @@ do; *kR^itaH* = dominated as he is; *kaamaatmaa* = by his passion (for Kaikeyi);
 
 "Aged and (therefore) helpless, deprived of my presence, what will he do, dominated
 as he is by his passion for Kaikeyi and who has fallen into the clutches of Kaikeyi."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Helpless (anāthaḥ), aged, and separated from me, what will the king do—his mind overcome by passion (kāmātmā) and fallen under the sway of Kaikeyī?
 </details>
 </details>
 
@@ -452,6 +500,12 @@ earthly gain and religious merit."
 
 "Reflecting on this misfortune of the king and his mental derangement, I deem that
 passion alone is greater than early gain and religious merit."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Beholding this calamity and the delusion of the king’s mind (mati-vibhramam), my conviction is that passion alone (kāma eva) is more powerful (garīyān) than both wealth and righteousness (artha-dharmābhyām).
 </details>
 </details>
 
@@ -502,6 +556,12 @@ _________________
 "what man however deluded, what father on account of a woman, at his own will and
 pleasure, abandon a son like myself?
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For what man, even were he unlearned (avidvān api), would abandon for a woman’s sake (pramadāyāḥ kṛte) an obedient son who follows his every wish (chandānuvartinam), as my father has abandoned me, O Lakṣmaṇa?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -549,6 +609,12 @@ of Kosala."
 "Alas, Kaikeyi's son Bharata (alone) is happy along with his wife. Like an overlord,
 he is going to enjoy the prosperous kingdom of Kosala."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Happy indeed (sukhī bata) is Bharata, the son of Kekayī, together with his consort, who alone as supreme sovereign (adhirājavat) shall enjoy the joyful realm of the Kosalas!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -595,6 +661,12 @@ Mayicha = I; *aasthite* = am staying; *areNyam* = in the forest. saH = Bharata;
 "Father is superannuated. I am staying in the forest. Bharata will become the prime
 head for the entire kingdom."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For when our father is advanced in years (vayasātīte) and I am dwelling in the forest, he alone shall become the sole chief (mukham ekam) of the entire kingdom.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -640,6 +712,12 @@ in the same way; *raaja dasharatho yathaa* = as king Dasaratha has."
 
 "He who pursues sensuous pleasures neglecting his real interests and discipline soon
 comes to distress; in the same way as king Dasaratha has."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whoever, forsaking both profit and righteousness (artha-dharmau parityajya), follows after passion (kāmam anuvartate), swiftly comes to such ruin even as King Daśaratha has done.
 </details>
 </details>
 
@@ -688,6 +766,12 @@ Bharata."
 "It seems that Kaikeyi came into our house, oh good brother, to bring about an end
 to Dasaratha, to send me into exile and to secure kingship for Bharata."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I think, O gentle one, that Kaikeyī has entered this house for the destruction of Daśaratha (daśarathāntāya), for my banishment (mama pravrājanāya), and for the sovereignty of Bharata.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -733,6 +817,12 @@ relationship with me."
 
 "Blinded by pride of good fortune, Kaikeyi may even now persecute Kausalya and
 Sumitra because of their relationship with me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Even now, intoxicated with the pride of her conjugal favour (saubhāgya-mada-mohitā), might not Kaikeyī harass both Kausalyā and Sumitrā on my account (mat-kṛte)?
 </details>
 </details>
 
@@ -780,6 +870,12 @@ Lakshmana!"
 
 "Queen Sumitra is likely to suffer hardship because of her affinity to us. From this
 very place, you proceed to Ayodhya next morning, oh, Lakshmana!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let not Queen Sumitrā dwell in sorrow on my account; therefore, O Lakṣmaṇa, from this very spot enter Ayodhyā at daybreak (kālye).
 </details>
 </details>
 
@@ -832,6 +928,12 @@ go; *siitayaa saha* = along with Sita; *daNdakaan* = to Dandaka forest. tvam = Y
 "I shall proceed to Dandaka forest alone with Sita, while you will be the protector
 for Kausalya, who has no defender."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I alone shall proceed with Sītā to the Daṇḍaka forests; for you shall become the protector (nāthaḥ) of the protectorless (anāthāyāḥ) Kausalyā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -880,6 +982,12 @@ be disliked. paridadyaHhi = Give(for protection); *mama* = my; *maataram* = moth
 "Kaikeyi of base deeds may resort to unjustified means to be disliked. Give (for
 protection) my mother to Bharata, oh virtuous Prince!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For Kaikeyī of base deeds (kṣudra-karmā) might perpetrate some hateful and unjust act (dveṣyam anyāyyam ācaret), or might even surrender my mother when righteous Bharata is present (paridadyād dhi dharmajñe bharate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -925,6 +1033,12 @@ Oh; Lakshmana; *striyaH* = women; *viyojitaaH* = must have been deprived;
 
 "In some other (past) birth, women must have been deprived of their sons by my
 mother (Kausalya), oh, Lakshmana! For that reason this has arisen certainly."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely in some former birth (jāty-antare kasmin) women were separated from their sons by my mother, O Saumitri, and therefore has this calamity befallen her!
 </details>
 </details>
 
@@ -973,6 +1087,12 @@ of my company by me; *chirapushhTena* = who was nurtured up with great pains; *a
 she has been deprived of my company by me, who was nurtured by her for a long time and brought up
 with great pains. Woe to me."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Having nurtured me for a long time (cira-puṣṭena) and reared me through many hardships (duḥkha-saṃvardhitena), Kausalyā is now separated from me at the very season of fruit (phala-kāle); fie upon me (dhig astu mām)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1019,6 +1139,12 @@ Lakshmana!"
 
 "Let no woman ever give birth to such a son as myself, who have caused perpetual
 grief to my mother, oh, Lakshmana!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“May no woman parting her hair (sīmantinī kācit) ever give birth to such a son as I, O Saumitri—I who bestow unending sorrow (śokam anantakam) upon my mother!
 </details>
 </details>
 
@@ -1068,6 +1194,12 @@ the foot; *areH* = of the enemy'; *lakshhmaNa* = oh; Lakshmana!"
 more affectionate than I, since her are heard the words, "Bite, oh parrot, the foot of the
 enemy."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I deem that pet mynah bird (śārikā), O Lakṣmaṇa, to be superior in affection to me (prīti-viśiṣṭā mattaḥ), from whom is heard that famous utterance: ‘O parrot, bite the enemy’s foot (śuka pādam arer daśa)!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1115,6 +1247,12 @@ foes!"
 "What can be done by me, her son, who cannot go to her aid even a little to her, my
 mother, who is weeping, who is unfortunate and who has no son, oh conqueror of foes?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Of what use, O subduer of foes, is a son like me, who renders no service at all (na kiñcid upakurvatā) to that grieving and unfortunate woman, as though she were sonless (aputrāyāḥ)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1160,6 +1298,12 @@ mother, who is weeping, who is unfortunate and who has no son, oh conqueror of f
 
 "Kausalya my mother of poor luck indeed, bereft of me, is stricken with great
 melancholy and lies plunged in a sea of grief"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“For my mother Kausalyā, of scant fortune and bereft of me, lies afflicted with supreme sorrow (parama-duḥkhārtā), plunged into an ocean of grief (śoka-sāgare).
 </details>
 </details>
 
@@ -1207,6 +1351,12 @@ viiryam = Valor; *akaaraNam nam* = is not the cause; not at all"
 "Enraged, I can subdue with my arrows single handed not only Ayodhya but also the
 earth. But it is not a question of valor here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Single-handed and filled with wrath (kruddhaḥ), O Lakṣmaṇa, I could subdue with my arrows not only Ayodhyā but the entire earth as well; yet here martial valour is of no avail (nanu vīryam akāraṇam)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1252,6 +1402,12 @@ do not allow myself; *naabhishhechaye* = to be crowned"
 
 "Oh, the sinless Lakshmana! I am terribly concerned of doing wrong and of ruining my
 prospects in the other world. Hence, I do not allow myself to be crowned."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Fearing the sin of unrighteousness (adharma-bhaya-bhītaś ca) and dread of losing the hereafter (paralokasya ca), O sinless one—therefore, O Lakṣmaṇa, I do not allow myself to be consecrated today.
 </details>
 </details>
 
@@ -1299,6 +1455,12 @@ quite; *ashrupuurNa mukhaH* = his face full of tears.
 Rama during the night in that lonely forest, wailed piteously thus and in so many
 other ways and sat quite, his face full of tears.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having lamented in this and other piteous ways (etad anyac ca karuṇam) in that solitary forest, Rāma, his face filled with tears (aśru-pūrṇa-mukhaḥ), sat down in silence in the night.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1343,6 +1505,12 @@ _________________
 **अनुवादः**
 
 Lakshmana consoled Rama as follows when the later had ceased lamenting like a fire whose flames had gone out and as a sea without a violent motion.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma had ceased from lamenting—like a fire whose flames have died down (gatārciṣam ivānalam), or like a waveless ocean (samudram iva nirvegam)—Lakṣmaṇa consoled him:
 </details>
 </details>
 
@@ -1392,6 +1560,12 @@ resembles a night; *gatachandraa* = without the moon; *raajan* = Oh; king;
 divested of its splendor and resembles a night without the moon, Oh, Rama the jewel among armed
 warriors!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Surely today, O King, foremost of warriors (āyudhināṃ vara), the city of Ayodhyā, upon your departure, is bereft of splendour (niṣprabhā) like a night that has lost the moon (gata-candreva śarvarī).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1437,6 +1611,12 @@ me too; *purushharshhabha* = oh jewel among men!"
 
 "It is not proper, oh Rama, that you should grieve in this way. You cause distress
 to Sita and me too, oh jewel among men!"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Yet this is not befitting (naitad aupayikam), O Rāma, that you thus torment yourself (yad idaṃ paritapyate); you cast both Sītā and me into deep dejection (viṣādayasi), O bull among men!
 </details>
 </details>
 
@@ -1487,6 +1667,12 @@ jiivaavaH* = We shall not survive; *muhuurtamapi* = even for a moment;
 "Oh, Rama! Bereft of you , neither Sita nor I will not survive even for a moment,
 like fish pulled out of water."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Neither Sītā bereft of you, nor I myself, O Rāghava, could live even for a single moment (muhūrtam api jīvāvaḥ), any more than two fish pulled out of water (jalān matsyāv ivoddhṛtau).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1534,6 +1720,12 @@ heaven."
 "Oh, Rama causing pain to the foes! Without you, I do not wish to see either our
 father or Satrughna or Sumitra or even the heaven."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Without you, O scorcher of foes, I would not wish today to behold my father, nor Śatrughna, nor Sumitrā, nor even heaven itself (svargaṃ cāpi tvayā vinā)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1579,6 +1771,12 @@ arranged; *nyagrodha* = under a banyan tree; *bhejate* = sought (for the bed)."
 
 Then Rama and Lakshmana the lovers of piety, sitting comfortably there and on seeing
 a bed well- prepared under a banyan tree, sought for the bed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, sitting comfortably there, those two lovers of righteousness (dharma-vatsalau), beholding at no great distance the well-prepared couch beneath the banyan tree (nyagrodhe sukṛtāṃ śayyām), betook themselves to it.
 </details>
 </details>
 
@@ -1635,6 +1833,12 @@ exile(with Lakshmana).
 Attentively hearing Lakshmana's words which were excellent and wholistic and
 adopting for a fairly long period the course of conduct prescribed for hermits, Rama resolved to
 spend all the fourteen years in exile with Lakshmana.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard with regard that noble and fullness-fraught speech (uttama-puṣkalaṃ vacaḥ) of Lakṣmaṇa, Rāghava, the scorcher of foes, embracing righteousness for a long time (sucirāya), resolved to dwell in the forest for all those years (samāḥ samastā vidadhe).
 </details>
 </details>
 
@@ -1700,5 +1904,11 @@ couple of lions on the slopes of a mountain.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद अयोध्याकाण्डदल्लि ऐवत्तमूरनॆय सर्ग पूर्णवायितु.॥53॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then in that solitary forest, at that time, those two mighty increasers of Rāghava’s race (rāghava-vaṃśa-vardhanau) experienced neither fear nor agitation (na tau bhayaṃ sambhramam abhyupeyatuḥ), even like two lions roaming upon a mountain plateau (girī-sānu-gocarau).
 </details>
 </details>

@@ -74,6 +74,12 @@ with fear.
 At the screaming sound of birds and at the sound of the crash of falling trees, all the
 inhabitants of Lanka then became trembled with fear.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, because of the cries of the birds (pakṣi-ninādena) and the crashing sound of breaking trees (vṛkṣa-bhaṅga-svanena), all the inhabitants of Laṅkā became bewildered with terror (trāsa-sambhrāntāḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +125,12 @@ frightened; *mR^iga pakSiNaH* = beasts and birds; *vineduH* = began to scream; *
 
 Made to run to-and-fro and getting frightened, beasts and birds began to scream. Atrocious
 omens made their appearance before the demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stricken with fear and fleeing in all directions (vidrutāḥ), the beasts and birds cried out (vineduḥ), and cruel portents (nimittāni krūrāṇi) manifested for the Rākṣasas.
 </details>
 </details>
 
@@ -166,6 +178,12 @@ and that grea heroic monkey.
 Then, the ugly-faced female-demons, whose sleep has vanished, found that grove demolished
 and saw that great heroic monkey.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, as their sleep departed (gatāyāṃ nidrāyām), the hideous-faced Rākṣasīs (vikṛtānanāḥ) beheld that shattered grove and that heroic, great Vānara (mahākapim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -212,6 +230,12 @@ female demons.
 
 Seeing those female-demons, the mighty armed Hanuma endowed with a great courage and
 might, assumed a gigantic form which created a terror to the female-demons.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding them, that mighty-armed (mahābāhuḥ) one of immense spirit and great strength assumed a colossal form (sumahad rūpam) terrifying to the Rākṣasīs.
 </details>
 </details>
 
@@ -261,6 +285,12 @@ _________________
 
 Beholding that mighty monkey having a gigantic body similar to a mountain, the female-demons
 then asked Seetha (as follows):
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thereupon, seeing that mountain-like (giri-saṃkāśam), gigantic, and mighty Vānara (vānaram), the Rākṣasīs questioned the daughter of Janaka (janakātmajām):
 </details>
 </details>
 
@@ -339,6 +369,14 @@ the eye!; *kim* = what; *kR^itavaan* = did; *ayam* = he; *samvaadam* = talk;
 "O large-eyed Seetha! Tell us. Let there be no fear for you, O fortunate lady! What did
 he speak to you? O lady having black outer eye-corners!"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**6:** “Who is this one? Whose [emissary] is he, whence has he come here, and for what purpose (kiṃ-nimittam)? And how, indeed, was a conversation (saṃvādaḥ) held by you with him?”
+
+**7:** “Tell us, O wide-eyed lady (viśālākṣi)! Let there be no fear for you, O fortunate one (subhage)! Why did this one hold a conversation (saṃvādam) with you, O lady with dark outer-corners of the eyes?”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -370,6 +408,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तब सर्वांगसुन्दरी साध्वी सीताने कहा—‘इच्छानुसार रूप धारण करनेवाले राक्षसोंको समझने या पहचाननेका मेरे पास क्या उपाय है? ॥ ८ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then spoke the virtuous Sītā (sādhvī sītā), lovely in every limb (sarvāṅga-śobhanā): “What capacity (kā gatiḥ) is mine in discerning Rākṣasas who assume any form at will (kāmarūpāṇām)?
 </details>
 </details>
 
@@ -416,6 +460,12 @@ serpent; *na samshayaH* = there is no doubt.
 
 "You alone can recognise who he is and what he does. A serpent only can recognise the
 feet of another serpent. There is no doubt about it."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You yourselves know who this one is or what he will do (yad vā kariṣyati); for a serpent alone (ahir eva) knows the feet of a serpent (aheḥ pādān)—there is no doubt.
 </details>
 </details>
 
@@ -489,6 +539,12 @@ at his will raakSasameva = only as a demon; *aagatam* = who arrived here.
 "By seeing him, I too get frightened. I do not know who he is. I only know him as a demon,
 able to assume any form at his will, who arrived here."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“I too am exceedingly terrified (atibhītāsmi), nor do I know who indeed this one is; I take him entering here to be a Rākṣasa who changes form at will (kāmarūpiṇam).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -541,6 +597,12 @@ inform (about the matter).
 Hearing the words of Seetha some female-demons fled to different directions. Some stayed
 back. Some others went to Ravana to inform about the matter.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the speech of Vaidehī (vaidehyā vacanam), the Rākṣasīs fled swiftly (vidrutā drutam); some remained standing there, while some went to report to Rāvaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -590,6 +652,12 @@ _________________
 After approaching Ravana, the female demons of ugly faces started to tell (as follows)
 of the monstrous and terrific monkey.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the presence of Rāvaṇa, the hideous-faced Rākṣasīs (vikṛtānanāḥ) reported to Rāvaṇa that deformed and terrifying Vānara (virūpaṃ vānaraṃ bhīmam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -615,6 +683,12 @@ of the monstrous and terrific monkey.
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 वे बोलीं—‘राजन्! अशोकवाटिकामें एक वानर आया है, जिसका शरीर बड़ा भयंकर है । उसने सीतासे बातचीत की है । वह महापराक्रमी वानर अभी वहीं मौजूद है ॥ १३ ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“In the midst of the Aśoka grove (aśokavanikā-madhye), O King, stands a monkey of terrifying form (bhīma-vapuḥ) and boundless valor (amita-vikramaḥ), who has held a conversation with Sītā.
 </details>
 </details>
 
@@ -677,6 +751,12 @@ middle of Ashoka grove and made a conversation with Seetha."
 "Eventhough questioned in many ways by us, Seetha, the daughter of Janaka, having eyes
 similar to those of a doe, is not inclined to tell about the monkey."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And though questioned by us in many ways (bahudhā pṛṣṭā), deer-eyed Sītā, the daughter of Janaka (jānakī sītā), does not wish to identify that monkey (harim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -722,6 +802,12 @@ Rama; *siitaanveSaNa kaan^kSayaa* = desirous of searching for Seetha.
 
 "He may be a messenger of Indra the Lord of celestials, or the messenger of Kubera the
 king of riches or even a messenger sent by Rama to search for Seetha."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“He may be an envoy of Vāsava (vāsavasya dūtaḥ), or an envoy of Vaiśravaṇa [Kubera], or else sent by Rāma (preṣito rāmeṇa) with the desire of searching for Sītā.
 </details>
 </details>
 
@@ -771,6 +857,12 @@ of troops of animals; *pramR^iSTam* = has been wiped off.
 
 "He, having a wonderful form, has wiped off your grove, attached to the gynaecium, which
 is fascinating and extending with many kinds of animal-flock."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“By that very one of wondrous form (adbhuta-rūpeṇa), that charming pleasure-grove of yours (tava manoharaṃ pramadāvanam), filled with herds of various beasts, has been crushed (pramṛṣṭam).
 </details>
 </details>
 
@@ -822,6 +914,12 @@ by him.
 "There is no place whatsoever in that grove, which was not destroyed by him. Only that
 place, where Seetha the daughter of Janaka was sitting, was not destroyed by him."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“There is no spot there (na tatra kaścid uddeśaḥ) which has not been destroyed by him; [only] that spot where the noble lady Jānakī sits has not been destroyed by him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -867,6 +965,12 @@ place, where Seetha the daughter of Janaka was sitting, was not destroyed by him
 
 "It is not known whether to protect Seetha or because of fatigue, he has left that place
 undestroyed, or else, what fatigue is there for him? He has done it to protect Seetha."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Whether it was for the protection of Jānakī (jānakī-rakṣaṇārtham) or out of exhaustion (śramād vā) is not discerned; or rather, what exhaustion could be his? She alone was protected by him (tenābhirakṣitā)!”
 </details>
 </details>
 
@@ -917,6 +1021,12 @@ _________________
 "That well-grown Simsupa tree, abounding in charming sprouts and flowers, under which
 Seetha herself took shelter, has been spared by him."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And that full-grown Śiṃśapā tree (pravṛddhaḥ śiṃśapā-vṛkṣaḥ), rich in lovely shoots and leaves (cāru-pallava-patrāḍhyaḥ), beneath which Sītā herself is seated—that too was protected by him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -965,6 +1075,12 @@ ugram* = a terrible; *daN^Dam* = punishment.
 
 To that terribly looking monkey by whom Seetha was spoken to and that grove destroyed you to order a terrible punishment.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“You ought to command a fierce punishment (ugraṃ daṇḍam) for that one of fierce form (tasya ugra-rūpasya), by whom Sītā was addressed and by whom the grove was destroyed.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1010,6 +1126,12 @@ parigR^ihiitaam* = who has been mentally accepted by you; *nasyaat* = not perhap
 
 "O chief of the demons-troops! Who would dare to talk to that Seetha, who has been mentally
 accepted by you, except perhaps he who is ready to abandon his life?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Who that has not abandoned his very life (tyakta-jīvitaḥ) would dare address that Sītā, who is claimed by your heart (manaḥ-parigṛhītām), O Lord of the Rākṣasa hosts?”
 </details>
 </details>
 
@@ -1060,6 +1182,12 @@ _________________
 Hearing the words of the female-demons, Ravana the lord of demons flared up like a funeral
 fire, his eyes spinning with anger.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the words of the Rākṣasīs, Rāvaṇa, Lord of the Rākṣasas, blazed up like a funeral pyre (citāgnir iva jajvāla), his eyes rolling with rage (kopa-saṃvartitekṣaṇaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1107,6 +1235,12 @@ _________________
 
 Tears dropped from Ravana's enraged eyes, like drops of oil dripping from resplendent
 lamps.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From the eyes of that enraged one fell drops of tears (aśru-bindavaḥ), like flaming drops of oil (sārciṣaḥ sneha-bindavaḥ) from two blazing lamps.
 </details>
 </details>
 
@@ -1157,6 +1291,12 @@ hold; *hanumataH* = of Hanuma.
 Ravana, with a great splendour, sent demons with a valiance equal to him, called Kinkaras,
 in order to catch hold of Hanuma.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+He of great fiery energy (mahātejāḥ) commanded heroic Rākṣasas equal to himself, named Kiṅkaras (kiṃkarān nāma), for the capture of Hanūmān (nigrahārthaṃ hanūmataḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1181,6 +1321,12 @@ in order to catch hold of Hanuma.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 महाबलशालिगळाद ऎम्भत्तु साविर किङ्कर सैनिकरु कूट, मुद्गरगळे मुन्ताद आयुधगळन्नु पिडिदु रावणन आज्ञॆयन्तॆ हनुमन्तनन्नु निग्रहिसलु अरमनॆयिन्द हॊरबिद्दरु.॥25॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eighty thousand (aśīti-sāhasram) of those impetuous Kiṅkaras (kiṃkarāṇāṃ tarasvinām) issued forth from that palace, bearing iron mallets and maces in their hands (kūṭa-mudgara-pāṇayaḥ).
 </details>
 </details>
 
@@ -1229,6 +1375,12 @@ He ordered for eighty thousand of those Kinkaras who were strong. All those migh
 with their large bellies, long tusks and terrible forms, longing to fight with iron mallets and clubs
 in hand, in eagerness to lay hold on Hanuma, started from that place.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Huge-bellied, great-fanged, of dreadful form and immense strength (mahābalāḥ), all had their minds set on battle (yuddhābhimanasaḥ) and were eager to seize Hanūmān.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1274,6 +1426,12 @@ in hand, in eagerness to lay hold on Hanuma, started from that place.
 
 Approaching Hanuma who was standing near the arched doorway, they rushed towards him
 with a great speed, like locusts rushing towards a fire.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching that Vānara who stood poised upon the archway (toraṇastham avasthitam), they rushed upon him with great speed like moths into a fire (pataṃgā iva pāvakam).
 </details>
 </details>
 
@@ -1324,6 +1482,12 @@ samnibhaiH* = shining like the sun.
 They banged Hanuma with various kinds of maces, iron bludgeons plated with gold and arrows
 shining like the sun.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With variegated maces (gadābhir vicitrābhiḥ), iron-bound clubs encircled with gold (parighaiḥ kāñcanāṅgadaiḥ), and arrows gleaming like the sun, they assailed the foremost of Vānaras.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1372,6 +1536,12 @@ Hanuma; *mudgaraiH* = with clubs; *paTTisaiH* = sharp edged spears; *shuulaiH*
 
 Quickly surrounding Hanuma with clubs, sharp edged spears, iron pikes, lances, javelins
 and swords, they stood in front of him.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With mallets, sharp-edged spears (paṭṭiśaiḥ), and pikes, holding darts and lances in their hands (prāsa-tomara-pāṇayaḥ), they surrounded Hanūmān and suddenly stood before him.
 </details>
 </details>
 
@@ -1422,6 +1592,12 @@ a thunderous noise.
 The highly splendorous and illustrious Hanuma too, looking like a mountain, hurled his
 tail on the ground, making a thunderous noise.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān too, radiant, glorious (śrīmān), and resembling a mountain, lashed his tail upon the ground (kṣitāv āviddhya lāṅgūlam) and uttered a mighty roar (mahādhvanim).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1471,6 +1647,12 @@ Lanka; *shabdena* = with that sound.
 The highly splendourous and illustrious Hanuma too, looking like a mountain, hurled his
 tail on the ground, making a thunderous noise.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuming a gigantic body (mahākāyaḥ), Hanūmān, son of the Wind-god (mārutātmajaḥ), lashed his tail (puccham āsphoṭayāmāsa), filling Laṅkā with the sound.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1516,6 +1698,12 @@ also cried aloud; *idam* = this here; *uchchaiH* = with a clamorous voice (as fo
 
 By that great sound made by Hanuma through clapping on his arms together with a resound,
 birds fell down from the sky. Hanuma also then cried aloud with a clamorous voice (as follows):
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By the mighty, reverberating sound of his tail-slapping (tasyāsphoṭita-śabdena mahatā cānunādinā), birds fell from the sky (petur vihaṅgā gaganāt), and aloud he proclaimed this:
 </details>
 </details>
 
@@ -1623,6 +1811,18 @@ cha* = and offering salutation; *maithiliim* = Seetha; *gamiSyaami* = I will go 
 "Here, before the eyes of all the demons, I will annihilate the City of Lanka and after
 offering salutation to Seetha, I will go back after fully completing my task."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**33:** “Victorious is Rāma of surpassing strength (jayaty atibalo rāmaḥ), and Lakṣmaṇa of mighty power! Victorious is King Sugrīva, protected on all sides by Rāghava (rāghaveṇābhipālitaḥ)!
+
+**34:** “I am the servant of the Lord of Kosala (dāso 'haṃ kosalendrasya), of Rāma of unwearying deeds (akliṣṭa-karmaṇaḥ)—I, Hanūmān, slayer of enemy hosts (śatru-sainyānāṃ nihantā), son of the Wind-god!
+
+**35:** “A thousand Rāvaṇas would not be a match for me in battle (na rāvaṇa-sahasraṃ me yuddhe pratibalaṃ bhavet), as I strike with rocks and trees by the thousands (sahasraśaḥ)!
+
+**36:** “Having tormented the city of Laṅkā (ardayitvā purīṃ laṅkām) and having saluted Maithilī (abhivādya ca maithilīm), with my purpose fulfilled (samṛddhārthaḥ) I shall depart while all the Rākṣasas look on (miṣatāṃ sarvarakṣasām)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1668,6 +1868,12 @@ with fear; *tasya samaada shabdena* = by his clamorous voice cried aloud; *dadR^
 
 Those demons became frightened by the clamorous voice of Hanuma cried aloud and saw him
 to be as high as a twilight rain-cloud.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By the sound of his battle-roar (tasya saṃnāda-śabdena), they became apprehensive with fear (bhaya-śaṅkitāḥ), and they beheld Hanūmān towering like an evening cloud (saṃdhyā-megham ivonnatam).
 </details>
 </details>
 
@@ -1718,6 +1924,12 @@ chitraiH* = and amazing; *praharaNaiH* = weapons.
 Not feeling apprehended because of the orders of their king, those demons thereafter
 rushed towards Hanuma, with their terrific and amazing weapons.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Free from doubt because of their master's command [or Hanūmān's naming of his master] (svāmi-saṃdeśa-niḥśaṅkāḥ), those Rākṣasas then rushed at the Vānara from every side (tatas tataḥ) with dreadful, varied weapons.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1764,6 +1976,12 @@ parigham* = iron bar; *toraNaashrittam* = belong to the arched gate.
 Surrounded on all sides by those strong demons, that Hanuma endowed with a great strength
 seized a huge iron bar belonging to the arched gate.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded on all sides (parivṛtaḥ sarvataḥ) by those warriors, that mighty one reached for a terrifying iron bar (āyasaṃ bhīmaṃ parigham) resting against the archway (toraṇāśritam).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1793,6 +2011,12 @@ _________________
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 जैसे विनतानन्दन गरुड़ने छटपटाते हुए सर्पको पंजोंमें दाब रखा हो, उसी प्रकार उस परिघको हाथमें लेकर हनुमान् जी ने उन निशाचरोंका संहार आरम्भ किया ॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seizing that iron bar (taṃ parigham ādāya), he slew the night-roamers (jaghāna rajanīcarān), just as the son of Vinatā [Garuḍa] seizes a writhing serpent (sphurantaṃ pannagam).
 </details>
 </details>
 
@@ -1856,6 +2080,12 @@ to; *toraNam* = the archy gate-way.
 Killing the valiant demons called Kinkaras, that heroic Hanuma wishing to fight again,
 arrived at the archy gate way.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grasping [that iron bar], the heroic son of the Wind-god (vīraḥ mārutiḥ) coursed through the sky (vicacārāmbare) and crushed [the demons], just as the thousand-eyed [Indra] (sahasradṛk) crushes the Daityas with his thunderbolt (vajreṇa).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1904,6 +2134,12 @@ _________________
 
 Some demons, who somehow escaped from that terror, went to Ravana and informed him that
 all the Kinkaras have been killed.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain the Kiṅkara Rākṣasas (hatvā rākṣasān kiṃkarān), that heroic and mighty warrior, the son of the Wind-god, eager for battle (yuddhākāṅkṣī), stood poised upon the archway (toraṇaṃ samavasthitaḥ).
 </details>
 </details>
 
@@ -1955,6 +2191,12 @@ Hearing of large army of demons having been killed, that Ravana with his eyes ro
 rapidly (with anger), ordered Jambumali, son of Prahasta, who was unequal in prowess and admirably unconquerable
 in battle.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, released from that terror (tasmād bhayān muktāḥ), a few Rākṣasas there (katicit tatra rākṣasāḥ) reported to Rāvaṇa that all the Kiṅkaras had been slain (nihatān kiṃkarān sarvān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1999,6 +2241,12 @@ _________________
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 महर्षिवाल्मीकि विरचित आदिकाव्यवाद श्रीमद्रामायणद सुन्दरकाण्डदल्लि नलवत्तॆरडनॆय सर्गवु मुगियितु.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that the great host of Rākṣasas (rākṣasānāṃ mahābalam) had been slain, the King, his eyes rolling in rage (parivṛtta-locanaḥ), commanded Prahasta's son [Jambumālin], peerless in valor (apratimaṃ parākrame) and hard to conquer in battle.
 </details>
 </details>
 

@@ -79,6 +79,12 @@ The two enemy subjugators, Rama and Lakshmana, who are sensible of their conduct
 according to time and place, and who will be sensibly talking according to time
 and place, those princes then spoke this sentence to Vishvamitra. [1-30-1]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then those two royal princes, quellers of their foes, who knew well the proprieties of place and time (deśakālajñau), skilled in speech fitting the occasion and place (deśe kāle ca vākyajñau), spoke these words to Kauśika:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,6 +137,12 @@ headache. On this many kinds of declinations are said. Rama Tilaka attributes th
 *rakShNiiyau* 'to be safeguarded' to ritual, and he says that 'from whom the
 ritual is to be safeguarded'
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“O venerable Lord, we desire to hear at what exact time those two night-stalking demons must be warded off (yasmin kāle niśācarau saṃrakṣaṇīyau); tell us, lest that critical moment pass us by (nātivarteta tatkṣaṇam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -171,6 +183,12 @@ king's sons - to princes of Kakutstha-s; *te munayaH sarve* = all those sages
 All the sages available there are delighted with the princes of Kakutstha dynasty
 who are speaking thus and making haste for a combat with demons and they praised
 them. [1-30-3]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the two scions of Kakutstha spoke thus, hastening in their eagerness for battle (tvaramāṇau yuyutsayā), all those sages, well-pleased, praised the two royal princes (sarve te munayaḥ prītāḥ praśaśaṃsur nṛpātmajau):
 </details>
 </details>
 
@@ -220,6 +238,12 @@ ca gamiSyati hi* = he enters into muteness, also, indeed.
 and this Sage Vishvamitra who is under the vow of ritual goes into muteness as required
 by the vow." Thus said the other sages near at ritual place. [1-30-4]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“From today onward for six days and nights (adyaprabhṛti ṣaḍrātram), do you two Rāghavas stand guard (rakṣatāṃ rāghavau yuvām); for having entered upon the sacrificial consecration, this sage will observe a vow of silence (dīkṣāṃ gato hy eṣa munir maunitvaṃ ca gamiṣyati).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -266,6 +290,12 @@ princes, for their part; *tat vacanam shrutvaa* = on hearing that sentence;
 On hearing that sentence of the other sages those two glorious princes have wakefully
 safeguarded that woodland of the ritual for six nights and days. [1-30-5]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing those words of theirs, the two glorious royal princes guarded the penance-grove without sleep for six days and six nights (anidraṃ ṣaḍahorātraṃ tapovanam arakṣatām).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -306,6 +336,12 @@ munivaram* = Vishvamitra, the best sage; *rarakSatuH* = they protected.
 On alertly patrolling nearby the Altar of Fire those two enemy-destroyers who are
 the wielders of great bows and valiant ones have protected the best sage Vishvamitra.
 [1-30-6]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Armed and vigilant, those two supreme bowmen and heroes, quellers of their foes (vīrau yattau paramadhanvinau), waited upon and guarded the best of sages, Viśvāmitra (rarakṣatur munivaraṃ viśvāmitram ariṃdamau).
 </details>
 </details>
 
@@ -352,6 +388,12 @@ bhava* = be prepared, you be on alert.
 
 While that period of six days is elapsing and when the sixth day has come, then
 Rama said to Saumitri, "you be prepared and be on alert." [1-30-7]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when that five-day period had elapsed and the sixth day arrived (kāle gate tasmin ṣaṣṭhe ’hani tadāgate), Rāma said to Sumitrā’s son: “Be vigilant and collected in mind (yatto bhava samāhitaḥ)!”
 </details>
 </details>
 
@@ -400,6 +442,12 @@ namely Vishvamitra, and other priests around it. [1-30-8]
 The compound *prajajwaala*, with many stresses for the flare is given
 here to import that the ritual is achieving its climax and it will be fructified
 thereby. The demons enter just at this juncture to spoil the ritual.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as Rāma, eager for battle, was speaking thus (rāmasyaivaṃ bruvāṇasya tvaritasya yuyutsayā), the sacrificial altar, attended by the chief preceptor and officiating priests, blazed up suddenly (prajajvāla tato vediḥ sopādhyāyapurohitā).
 </details>
 </details>
 
@@ -452,6 +500,12 @@ clarified butter and other liquids into Altar of Fire to the chanting of hymns.
 *samidha*-s comprises items of wood pieces or sticks, mainly from sandalwood
 trees and a variety of other items that are offered into fire.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Decked with darbha grass, camasa Soma-cups, and sruk ladles, and heaped with sacred fuel-sticks and flowers (sadarbhacamasasrukkā sasamitkusumoccayā), the altar blazed forth alongside Viśvāmitra and the officiating ṛtvij priests.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -492,6 +546,12 @@ blare; *praaduH aasiit* = it is generated.
 While the Vedic ritual is proceeding well towards its conclusion according to hymnal
 rendering and rules of conducting the ritual, a strident and frightening blare is
 generated in the sky. [1-30-10]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As that sacrifice proceeded in due order with Vedic mantras (mantravac ca yathānyāyaṃ yajño ’sau sampravartate), a mighty and terrifying roar arose in the sky (ākāśe ca mahāñ śabdaḥ prādur āsīd bhayānakaḥ).
 </details>
 </details>
 
@@ -554,6 +614,14 @@ spates.
 
 Maareecha and Subaahu are the monstrous demons that have come along with their followers
 and they have started to pour down spates of blood. [1-30-12]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**11:** Just as a dark cloud in the rainy season is seen overspreading the firmament (āvārya gaganaṃ megho yathā prāvṛṣi dṛśyate), even so the two Rākṣasas rushed forward, conjuring illusions (tathā māyāṃ vikurvāṇau rākṣasāv abhyadhāvatām).
+
+**12:** Mārīca and Subāhu, together with their followers (mārīcaś ca subāhuś ca tayor anucarās tathā), arrived in terrifying forms and showered down torrents of blood (āgamya bhīmasaṃkāśā rudhiraughān avāsṛjan).
 </details>
 </details>
 
@@ -622,6 +690,14 @@ Perceiving that the two demons are about to swoop down on Altar of Fire in haste
 that lotus-eyed Rama however gave a quick checking look at Lakshmana saying this
 sentence. [1-30-14]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** Beholding that sacrificial altar bespattered with that torrent of blood (tāṃ tena rudhiraugheṇa vedīṃ vīkṣya samukṣitām), Rāma darted forward at once and then espied them in the sky (sahasābhidruto rāmas tān apaśyat tato divi).
+
+**14:** Beholding the two of them hurtling down headlong (tāv āpatantau sahasā dṛṣṭvā), lotus-eyed Rāma looked toward Lakṣmaṇa and spoke these words (lakṣmaṇaṃ tv abhisamprekṣya rāmo vacanam abravīt):
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -669,6 +745,12 @@ eating demons, but no doubt, they will be puffed out with Manava missile like a
 gust puffing thick clouds, you may see." Thus Rama said to Lakshmana. [1-30-15,
 16a]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold, O Lakṣmaṇa, how I shall scatter these evil-conducting, flesh-eating Rākṣasas (paśya lakṣmaṇa durvṛttān rākṣasān piśitāśanān), driven away by the Mānavāstra like clouds scattered by the wind (mānavāstrasamādhūtān anilena yathā ghanān)—
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -714,6 +796,14 @@ Saying so that agile Rama fitted the very benign and highly radiant arrow Maanav
 on his bow, and taking aim with it at Maareecha that highly furious Raghava darted
 it on the chest of Maareecha. [1-30-16b, 17]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**16:** “Of this there is no doubt; for I do not wish to slay such creatures outright (kariṣyāmi na saṃdeho notsahe hantum īdṛśān)!” Having spoken these words, swift Rāma fitted it to his bow (cāpe saṃdhāya vegavān)—
+
+**17:** And in supreme wrath, Rāghava hurled that supremely noble, blazing Mānava missile straight at Mārīca’s chest (mānavaṃ paramodāram astraṃ paramabhāsvaram cikṣepa paramakruddho mārīcorasi rāghavaḥ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -757,6 +847,12 @@ _________________
 Cleanly hit with that great missile Maanava, demon Maareecha is pitched for a hundred
 yojana lengths in full, and flung down into an ocean rocking with tidewaters. [1-30-18]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck square by that supreme Mānava missile (sa tena paramāstreṇa mānavena samāhataḥ), Mārīca was hurled a full hundred yojanas into the surging swell of the ocean (sampūrṇaṃ yojanaśataṃ kṣiptaḥ sāgarasamplave).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -797,6 +893,12 @@ yojana lengths in full, and flung down into an ocean rocking with tidewaters. [1
 
 On seeing him highly whirling, rendered insensate and thrown out when rammed away
 with the strength of that Cold arrow Rama said this to Lakshmana. [1-30-19]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Mārīca cast away, knocked senseless, and whirling round under the force of the Śīteṣu shaft (vicetanaṃ vighūrṇantaṃ śīteṣubalapīḍitam nirastaṃ dṛśya mārīcam), Rāma spoke to Lakṣmaṇa:
 </details>
 </details>
 
@@ -852,6 +954,12 @@ demon discourages Ravana in confronting Rama, but becomes a golden deer at the b
 of Ravana, at the time of Ravana's abducting Seetha. So, Rama shows forbearance
 at Maareecha till such time.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Behold, O Lakṣmaṇa, this Śīteṣu—the Mānava missile presided over by Manu (śīteṣuṃ mānavaṃ manusaṃhitam)! Having stunned him senseless, it sweeps him away, yet he is not parted from his life-breaths (mohayitvā nayaty enaṃ na ca prāṇair viyujyate).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -895,6 +1003,12 @@ demons, but; *vadhiSyaami* = I wish to kill.
 
 "But I wish to kill these demons for they are ruthless, iniquitous, flagitious,
 ritual-hinderers and blood-drinkers." So said Rama to Lakshmana. [1-30-21]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“These other pitiless, evil-conducting Rākṣasas, however, who abide in sinful deeds, destroy sacrifices, and drink blood—them I shall now slay outright (imān api vadhiṣyāmi nirghṛṇān duṣṭacāriṇaḥ... yajñaghnān rudhirāśanān)!”
 </details>
 </details>
 
@@ -968,6 +1082,14 @@ generous one - Rama; *raaghavaH* = Raghava; *muniinaam mudam aavahan*
 In order to bring felicity to the sages that great glorious and supremely generous
 Raghava took up the missile of Air-god and hit down the remaining demons. [1-30-23]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**22:** Having spoken thus to Lakṣmaṇa, and as if displaying his swiftness of hand (lāghavaṃ darśayann iva), the delight of Raghu’s line quickly seized the mighty fiery missile, the Āgneyāstra (vigṛhya sumahac cāstram āgneyaṃ raghunandanaḥ)—
+
+**23:** He hurled it at Subāhu’s chest, and pierced through, Subāhu fell dead upon the earth (subāhūrasi cikṣepa sa viddhaḥ prāpatad bhuvi); then, taking up the wind-missile (vāyavyam ādāya), the supremely noble and glorious Rāghava slew the remaining demons, bringing joy to the sages (munīnāṃ mudam āvahan).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1015,6 +1137,12 @@ When Rama, the delight of Raghu's dynasty, has eliminated all of the demons that
 are the hinderers of Vedic rituals, the sages available there in that hermitage
 idealised him as Indra was idealised once, when he became victories on demons. [1-30-24]
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain all those sacrifice-destroying Rākṣasas (sa hatvā rākṣasān sarvān yajñaghnān), the delight of Raghu’s line was worshiped there by the sages, even as Indra of old upon his victory over the Asuras (ṛṣibhiḥ pūjitas tatra yathendro vijaye purā).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1054,6 +1182,12 @@ mahaamuniH* = Vishvamitra, great sage; *niriitikaa dishaH dR^iSTvaa*
 
 On the completion of ritual beholding the precincts that are devoid of calamities
 the great sage Vishvamitra said this to Rama. [1-30-25]
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then, when the sacrifice was duly completed (atha yajñe samāpte tu), the great sage Viśvāmitra, beholding all the quarters of the sky freed from calamity (nirītikā diśo dṛṣṭvā), spoke these words to Kakutstha’s scion:
 </details>
 </details>
 
@@ -1114,6 +1248,12 @@ vespertine prayers on Sandhya, the goddess of gloaming. [1-30-26]
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 वाल्मीकि विरचित आर्ष रामायण आदिकाव्यद बालकाण्डदल्लि मूवत्तनॆय सर्ग पूर्णवायितु. ॥30॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“My purpose is fulfilled, O mighty-armed prince, and your preceptor’s command has been accomplished by you (kṛtārtho ’smi mahābāho kṛtaṃ guruvacas tvayā)! You have today made this Siddhāśrama truly fulfilled in name, O hero of mighty renown (siddhāśramam idaṃ satyaṃ kṛtaṃ vīra mahāyaśaḥ)!” Having thus praised Rāma, the sage repaired with the two brothers to perform the evening sandhyā worship (tābhyāṃ saṃdhyām upāgamat).
 </details>
 </details>
 

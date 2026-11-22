@@ -56,6 +56,12 @@ _________________
 
 अनन्तर नीलमेघदन्तॆ कप्पुबण्णद शूर सेनापति प्रहस्त ऎम्ब राक्षसनु कैमुगिदु हेळिदनु.॥1॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the heroic rākṣasa commander-in-chief (senāpatiḥ) named Prahasta, dark as a blue storm-cloud (nīlāmbudaprakhyaḥ), joined his palms in reverence and spoke these words:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -105,6 +111,12 @@ be dharSayitum = attacked; *raNe* = in battle; *kim punaH* = why to talk about;
 "All gods, demons, gandharvas, devils, birds and serpents can be attacked by you in
 battle. Why to talk about two human beings?"
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Gods, dānavas, and gandharvas, piśācas, birds, and serpents—all of them can be overpowered [by us] in battle; how much more two mere mortals (kiṃ punar mānavau raṇe)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -151,6 +163,12 @@ indeed go; *jiivan* = alive; *me* = (while) I; *jiivitaH* = an alive.
 "All of us, in good faith but with negligence, were cheated by Hanuma. That monkey
 cannot go alive, while I am alive."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Because we were all heedless (pramattāḥ) and unsuspecting (viśvastāḥ), we were hoodwinked by Hanūmān; while I live, that forest-roamer (vanagocaraḥ) shall never depart alive!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -196,6 +214,12 @@ kaananaam* = along with mountains forests and woods; *avaanaraam* = bereft of mo
 
 "I shall make the entire earth extending upto the ocean, along with mountains
 forests and woods, bereft of monkeys. You command me."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“All the earth bounded by the ocean (sāgaraparyantām), with its mountains, forests, and groves, I shall render devoid of vānaras (avānarām); let Your Majesty command me!
 </details>
 </details>
 
@@ -244,6 +268,12 @@ Seetha).
 "Oh, Ravana! I shall arrange for your defence from that monkey. Not a little trouble
 will come to you on account of your guilt (abduction of Seetha)."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“And I shall establish a defense (rakṣāṃ vidhāsyāmi) against the vānara, O night-stalker; not the slightest sorrow born of your own transgression (ātmāparādhajam) shall befall you.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -289,6 +319,12 @@ will come to you on account of your guilt (abduction of Seetha)."
 
 A demon by name Durmukha, being seriously enraged, spoke to him as follows: "This
 humiliation meted out to us by that monkey is indeed not to be tolerated."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the rākṣasa named Durmukha, filled with fierce wrath (susaṃkruddhaḥ), spoke: “This outrage (pradharṣaṇam) against us all is truly not to be endured (na kṣamaṇīyam)!
 </details>
 </details>
 
@@ -336,6 +372,12 @@ the attack by Sugreeva; the king of monkeys; *shriimataH* = of the glorious;
 "This insult to the city of Lanka and the palaces together with attack by Sugreeva
 on the glorious Ravana are still outrageous."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Moreover, this humiliation (paribhavaḥ) of our city and of the inner apartments (antaḥpurasya ca), and the outraging of the glorious lord of rākṣasas by a vānara—[cannot be brooked]!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -382,6 +424,12 @@ into the sky.
 
 "Proceeding at this moment alone, I shall destroy those monkeys, whether they
 entered the ocean or the subterranean region or the sky."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Going forth alone this very instant (asmin muhūrte), I shall drive back the vānaras (nivartiṣyāmi vānarān), even if they have entered the dreadful ocean, the sky, or Rasātala!”
 </details>
 </details>
 
@@ -433,6 +481,12 @@ terrific iron club smeared with flesh and blood and spoke (as follows):
 
 इष्टरल्लि महाबलि वज्रदंष्ट्रनु अत्यन्त क्रोधितनागि रक्त-मांसगळु मॆत्तिकॊण्ड भयानक परिघवन्नु कैयल्लॆत्तिकॊण्डु हेळिदनु .॥.॥
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then the mighty Vajradaṃṣṭra, filled with fierce wrath, grasped his dreadful iron-bound club (parighaṃ ghoram) smeared with flesh and blood (māṃsaśoṇita-rūṣitam) and spoke:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -479,6 +533,12 @@ api* = and Sugreeva; *durdharSe* = who are difficult to be conquered; *tiSThati*
 
 "What work for us with that pitiable and miserable Hanuma, when Rama along with
 Lakshmana and Sugreeva who are difficult to be conquered exist?"
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“What business have we with that wretched, pitiable Hanūmān (kṛpaṇena tapasvinā), while the unassailable Rāma remains alive along with Sugrīva and Lakṣmaṇa?
 </details>
 </details>
 
@@ -530,6 +590,12 @@ back.
 "Now itself, with this iron club, killing Rama, Lakshmana and Sugreeva after
 perturbing the army of monkeys, I shall come back."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Today, single-handed, I shall slay Rāma along with Sugrīva and Lakṣmaṇa with this club, rout the monkey host (vikṣobhya harivāhinīm), and return!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -576,6 +642,12 @@ these words; *upaayakushalaH eva* = one who is skilled in stratagem only;
 
 "Oh, king! If you are willing, hear my words further. One who is skilled din a
 stratagem alone will be without lassitude and can indeed defeat the enemies."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Or listen to this other proposal of mine (idam mamāparaṃ vākyam), O King, if it pleases you; for one skilled in stratagems (upāyakuśalaḥ) and free from sloth surely conquers his foes.
 </details>
 </details>
 
@@ -644,6 +716,16 @@ Bharata; *tava* = your; *yaviiyasaa* = younger; *bhraatraa* = brother;
 "We have been despatched by Bharata, your younger brother. He is summoning his
 forces and will surely come here soon."
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**13:** “Let thousands of resolute rākṣasas (rākṣasā vā sahasrāṇi niścitāḥ), capable of assuming any form at will (kāmarūpadharāḥ), heroic, most dreadful, and of terrifying aspect, O lord of rākṣasas,
+
+**14:** “approach Kākutstha wearing human form (bibhrato mānuṣaṃ vapuḥ), and, altogether free of agitation (asambhramā bhūtvā), let them all say to the noblest of the Raghus:
+
+**15:** “‘We have been sent by Bharata himself, your younger brother (bhrātrā tava yavīyasā); for having mobilized an army (senāṃ samutthāpya), he is swiftly marching hither!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -689,6 +771,12 @@ baaNaasihastaashca* = with arrows and swords in hand; *yaamahe* = will go;
 
 "Carrying spikes, javelins and maces together with arrows and swords in hand, we
 will quickly go there from here soon."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Then let us speed hence from here (ito vayam tūrṇaṃ tvaritās tatra yāmahe), bearing pikes, lances, and maces, with bows, arrows, and swords in hand;
 </details>
 </details>
 
@@ -736,6 +824,12 @@ Death.
 
 "Standing as groups in the sky and beating that army of monkeys with a mighty hail
 of stones and missiles, we should send them to the world of Death."
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“stationing ourselves in troops in the sky (ākāśe gaṇaśaḥ sthitvā) and striking down that monkey host, let us dispatch them to the abode of Yama with a mighty rain of stones and weapons (aśmaśastra-mahāvṛṣṭyā)!
 </details>
 </details>
 
@@ -793,6 +887,12 @@ commander-in-chief; *niila ambuda prakhyaH* = appearing like a dark cloud;
 A valiant demon by name Prahasta, the commander-in-chief, appearing like a dark
 cloud, joined his palms in salutation and spoke these words.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“If Rāma and Lakṣmaṇa thus walk into this trap of ill-policy (upasarpetām anayam), through that misstep (apanītena) they will surely forfeit their lives (jahatām eva jīvitam)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -838,6 +938,12 @@ powerful; *paramakruddhaH* = became very angry; *abraviit* = and spoke;
 
 Thereafter Kumbhakarna's son, by name Nikumbha, strong and powerful, became very
 angry and spoke (as follows) to Ravana, who made people cry.
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Then Kumbhakarṇa's heroic and valiant son (kaumbhakarṇiḥ) named Nikumbha, filled with supreme wrath, spoke to Rāvaṇa, the terror of the worlds (lokarāvaṇam):
 </details>
 </details>
 
@@ -890,6 +996,12 @@ the monkeys too."
 All of you stay along with the king. I alone will kill there, Rama along with
 Lakshman, Sugreeva along with Hanuma and all the monkeys also.
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“Let all of you remain here in the company of the great King (mahārājena saṃgatāḥ); I alone shall slay Rāghava together with Lakṣmaṇa,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -940,6 +1052,12 @@ the corners of his mouth; *jihvayaa* = with his tongue; *abraviit* = spoke;
 Then, a demon by name Vajrahanu who was resembling a mountain, becoming enraged and
 licking the corners of his mouth with his tongue, spoke as follows:
 </details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+“as well as Sugrīva along with Hanūmān, and all the vānaras here!” Then the mountain-like rākṣasa (rākṣasaḥ parvatopamaḥ) named Vajrahanu,
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -964,6 +1082,12 @@ licking the corners of his mouth with his tongue, spoke as follows:
 <details><summary>अनुवाद (कन्नड)</summary>
 
 नीवॆल्लरू निश्चिन्तरागि स्वेच्छॆयिन्द निम्म-निम्म कॆलस माडुत्ता इरि. नानॊब्बने ऎल्ल वानर सैन्यवन्नु तिन्दुबिडुवॆनु.॥22॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+enraged and licking the corners of his mouth with his tongue (parilihan sṛkkāṃ jihvayā), spoke these words: “Let Your Honors perform your duties at will, free from feverish anxiety (vigatajvarāḥ)!
 </details>
 </details>
 
@@ -1034,6 +1158,14 @@ Angada and all monkeys.
 <details><summary>अनुवाद (समाप्तिः) (कन्नड)</summary>
 
 श्रीवाल्मीकि विरचित आर्षरामायण आदिकाव्यद युद्धकाण्डदल्लि ऎण्टनॆय सर्ग पूर्णवायितु.॥8॥
+</details>
+
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+**23:** “Single-handed, I shall devour that entire monkey host (bhakṣayiṣyāmi tāṃ sarvāṃ harivāhinīm)! Let everyone sport at ease free of care and drink honeyed Vāruṇī wine (pibantu madhu vāruṇīm)!
+
+**24:** “I alone shall slay Sugrīva together with Lakṣmaṇa, and Hanūmān along with Aṅgada, and all the vānaras here!”
 </details>
 </details>
 
